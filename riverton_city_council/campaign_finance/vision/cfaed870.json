@@ -1,0 +1,43 @@
+{
+  "contributions": [
+    {"date": null, "name": "Mike Bird", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Michele Gatti", "amount": "1000", "in_kind": false},
+    {"date": null, "name": "Wayne Cushing", "amount": "200", "in_kind": false},
+    {"date": null, "name": "Ryan Defa", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Dale Rex", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Miranda Ostler", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Adam Jeppson", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Jamie Flanders", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Micheale Clough", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Jason & Aubrey Nelson", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Jeff Barton", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Tracie Halvorsen", "amount": "50", "in_kind": false},
+    {"date": null, "name": "David Gatti (loan to start checking)", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Lawrence Johnson", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Mike & Judi Gatti", "amount": "500", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/14/23", "recipient": "Vista Print", "purpose": null, "amount": "129.75", "in_kind": false},
+    {"date": "7/21/23", "recipient": "David Gatti", "purpose": "Godaddy.com website", "amount": "128.57", "in_kind": false},
+    {"date": "7/11/23", "recipient": "David Gatti", "purpose": "More door hangers/bus cards - Vista Print", "amount": "221.35", "in_kind": false},
+    {"date": "7/11/23", "recipient": "David Gatti", "purpose": "Yard sign stakes - Amazon", "amount": "144.73", "in_kind": false},
+    {"date": "7/5/23", "recipient": "David Gatti", "purpose": "Reimburse checking acct startup loan", "amount": "50.00", "in_kind": false},
+    {"date": "7/5/23", "recipient": "David Gatti", "purpose": "Parade candy - Amazon", "amount": "569.08", "in_kind": false},
+    {"date": "6/5/23", "recipient": "David Gatti", "purpose": "signs - Renaissance Signs", "amount": "876.94", "in_kind": false},
+    {"date": "10/20/23", "recipient": "Steven Powell", "purpose": null, "amount": "120.00", "in_kind": false}
+  ],
+  "total_contributions": "3225",
+  "total_expenditures": "2315.12",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "909.88",
+  "_meta": {
+    "index_path": "raw/2023_gatti_state_10-24-23.pdf",
+    "candidate": "David Gatti",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2023_gatti_state_10-24-23.pdf",
+    "pages": 5
+  }
+}

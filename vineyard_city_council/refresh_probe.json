@@ -1,0 +1,26 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-18",
+    "portal": "civicclerk",
+    "index_max_date": "2026-06-09",
+    "index_rows": 172,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://vineyardut.api.civicclerk.com/v1/Events?$filter=categoryName%20eq%20'City%20Council'%20and%20startDateTime%20gt%202026-06-09T23%3A59%3A59Z&$orderby=startDateTime&$top=200",
+    "new_count": 0,
+    "notes": "3 held meeting(s) have no Minutes file yet (unapproved): 2026-06-23, 2026-07-07, 2026-07-14",
+    "new_items": []
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-18",
+    "portal": "civicclerk",
+    "index_max_date": "2026-05-06",
+    "index_rows": 102,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://vineyardut.api.civicclerk.com/v1/Events?$filter=categoryName%20eq%20'Planning%20Commission'%20and%20startDateTime%20gt%202026-05-06T23%3A59%3A59Z&$orderby=startDateTime&$top=200",
+    "new_count": 0,
+    "notes": "3 held meeting(s) have no Minutes file yet (unapproved): 2026-05-20, 2026-06-17, 2026-07-15",
+    "new_items": []
+  }
+}

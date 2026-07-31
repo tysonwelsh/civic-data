@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": "8-26-21", "name": "Self", "amount": "70.98", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8-26-21", "recipient": "County Clerk", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "10-1-21", "recipient": "Hobby Lobby", "purpose": "Paint", "amount": "20.98", "in_kind": false}
+  ],
+  "total_contributions": "70.98",
+  "total_expenditures": "70.98",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/alan_peterson_kearns_2.pdf",
+    "candidate": "Alan Peterson",
+    "office": "Metro Township Council District 2",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/alan_peterson_kearns_2.pdf",
+    "pages": 4
+  },
+  "_notes": "Type of Report: October 26 (contributions/expenditures through Oct 21) checked; received OCT 26 2021. Page order: p1 cover, p2 itemized contributions, p3 itemized expenditures, p4 summary. Line 3 (beginning balance) blank -> null; Line 7 shows '-0-'. Filing-fee cents were a faint superscript; read as 50.00 (consistent with this candidate's December summary and with total 70.98 = 50.00 + 20.98)."
+}

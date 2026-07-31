@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "date": "2023-01-25",
+    "year": "2023",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2023/PC02.08.2023/PC01.25.2023minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2023/2023-01-23/2023-01-25_planning-commission-meeting.md",
+    "present": [
+      "Mike Christensen",
+      "Amy Barry",
+      "Aimee Burrows",
+      "Andres Paredes",
+      "Levi Oliveira",
+      "Rich Tuttle",
+      "Brenda Scheer",
+      "Anaya Gayle",
+      "Jon Lee",
+      "Andra Ghent"
+    ],
+    "absent": [
+      "Maurine Bachman"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the minutes of January 11, 2023",
+      "description": "approve the minutes of January 11, 2023",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Rich Tuttle",
+      "seconder": "Aimee Burrows",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 2,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Rich Tuttle",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [
+        "Jon Lee",
+        "Andra Ghent"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve this application with the condition listed in the staff report",
+      "description": "approve this application with the condition listed in the staff report",
+      "motion_type": "Other",
+      "action_class": "procedural",
+      "mover": "Andra Ghent",
+      "seconder": "Brenda Scheer",
+      "result": "10:0 Pass",
+      "tally": {
+        "yes": 10,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Levi Oliveira",
+        "Jon Lee",
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the following applications associated with this proposal: 1",
+      "description": "approve the following applications associated with this proposal: 1",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Rich Tuttle",
+      "result": "10:0 Approved (Final Action)",
+      "tally": {
+        "yes": 10,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jon Lee",
+        "Levi Oliveira",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Anaya Gayle",
+        "Rich Tuttle",
+        "Andra Ghent",
+        "Brenda Scheer",
+        "Andres Paredes",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the following applications associated with this proposal: 1",
+      "description": "approve the following applications associated with this proposal: 1",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Brenda Scheer",
+      "seconder": "Andra Ghent",
+      "result": "7:2 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jon Lee",
+        "Levi Oliveira",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Brenda Scheer",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Amy Barry",
+        "Andres Paredes"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

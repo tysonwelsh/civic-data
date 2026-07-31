@@ -1,0 +1,34 @@
+{
+  "contributions": [
+    {"date": "8/11/23", "name": "Evan Feinberg", "amount": "100.00", "in_kind": false},
+    {"date": "9/6/23", "name": "Paul Cantord", "amount": "242.03", "in_kind": false},
+    {"date": "9/6/23", "name": "Edward Feinberg", "amount": "96.25", "in_kind": false},
+    {"date": "9/5/23", "name": "Womens Democratic Club", "amount": "96.25", "in_kind": false},
+    {"date": "9/20/23", "name": "Sharon Mariner", "amount": "47.92", "in_kind": false},
+    {"date": "5/20/23", "name": "Bob & Dorthy McCabe", "amount": "47.92", "in_kind": false},
+    {"date": "9/12/23", "name": "Katy Boldenour", "amount": "23.44", "in_kind": false},
+    {"date": "9/23/23", "name": "Barbara Ashee", "amount": "238.00", "in_kind": false},
+    {"date": "9/25/23", "name": "Elizabeth Zappe", "amount": "190.72", "in_kind": false},
+    {"date": "10/3/23", "name": "Linda Pasternack", "amount": "71.44", "in_kind": false},
+    {"date": "10/12/23", "name": "Bryan Russ", "amount": "23.44", "in_kind": false},
+    {"date": "10/21/23", "name": "Jennifer Fraser", "amount": "226.00", "in_kind": false},
+    {"date": "10/16/23", "name": "Womens Democratic Club", "amount": "47.92", "in_kind": false},
+    {"date": "10/24/23", "name": "Logan Phillips", "amount": "71.24", "in_kind": false},
+    {"date": "10/23/23", "name": "Steven Berizzi", "amount": "250.00", "in_kind": false},
+    {"date": "10/23/23", "name": "Ari Marks", "amount": "40.00", "in_kind": false},
+    {"date": "10/23/23", "name": "Stevin & Telisa Farmer", "amount": "90.00", "in_kind": false},
+    {"date": "10/23/23", "name": "Personal Contribution (Evan Feinberg)", "amount": "58.25", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/18/23", "recipient": "Felix Office", "purpose": "Literature", "amount": "81.55", "in_kind": false},
+    {"date": "10/21/23", "recipient": "Lyon Printing", "purpose": "Yard Signs", "amount": "527.03", "in_kind": false},
+    {"date": "10/21/23", "recipient": "Sun Printing", "purpose": "Mailers", "amount": "122.44", "in_kind": false},
+    {"date": "11/1/23", "recipient": "Office Depot", "purpose": "Office Supplies for Campaign", "amount": "70.03", "in_kind": false}
+  ],
+  "total_contributions": "1,978.11",
+  "total_expenditures": "1,308.55",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "669.56",
+  "_meta": {"index_path": "raw/2023_08_Evan-Feinberg.pdf", "candidate": "Evan Feinberg", "office": "Council", "filing_type": "interim", "election_year": "2023", "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_08_Evan-Feinberg.pdf", "pages": 4}
+}

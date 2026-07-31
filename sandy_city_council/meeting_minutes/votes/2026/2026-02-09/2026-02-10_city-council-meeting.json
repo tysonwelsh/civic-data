@@ -1,0 +1,85 @@
+{
+ "date": "2026-02-10",
+ "year": 2026,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2026/2026-02-09/2026-02-10_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Brooke D'Sousa, seconded by Brooke Christensen to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Brooke D'Sousa",
+   "seconder": "Brooke Christensen",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Kris Nicholl, seconded by Marci Houseman to adopt Ordinance 26-03, an ordinance amending the Sandy City Municipal Code creating additional compensation limitations for the Mayor and members of the City Council as discussed and amended this evening, removing Item (a)(3)",
+   "motion_type": "Ordinance",
+   "result": "7-0 Pass",
+   "mover": "Kristin Coleman-Nicholl",
+   "seconder": "Marci Houseman",
+   "aye": [
+    "Alison Stroud",
+    "Kristin Coleman-Nicholl",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke Christensen",
+    "Brooke D'Sousa",
+    "Aaron Dekeyzer"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Brook Christensen to recess the City Council meeting and convene a meeting of the RDA",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Brooke Christensen",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Alison Stroud to convene a closed session in the Council conference room to discuss the purchase, exchange or lease of real property and to adjourn the Council meeting immediately following the closed session",
+   "motion_type": "Contract/Purchase",
+   "result": "5-0 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Alison Stroud",
+   "aye": [
+    "Alison Stroud",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke Christensen",
+    "Brooke D'Sousa"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Kristin Coleman-Nicholl",
+    "Aaron Dekeyzer"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 4
+  }
+ ]
+}

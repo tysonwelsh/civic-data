@@ -1,0 +1,63 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "onbase",
+    "index_max_date": "2026-06-09",
+    "index_rows": 551,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Meetings/Search?dropid=11&mtids=all&dropsv=05%2F12%2F2026%2000:00:00&dropev=07%2F19%2F2026%2000:00:00",
+    "new_count": 4,
+    "notes": "1 newer meeting date(s) have no published minutes yet",
+    "new_items": [
+      {
+        "date": "2026-06-09",
+        "title": "City Council Regular Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/City_Council_Regular_Meeting_8345_Minutes_6_9_2026_6_30_00_PM.pdf?documentType=2&meetingId=8345"
+      },
+      {
+        "date": "2026-06-09",
+        "title": "City Council Study Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/City_Council_Study_Meeting_8321_Minutes_6_9_2026_4_30_00_PM.pdf?documentType=2&meetingId=8321"
+      },
+      {
+        "date": "2026-06-23",
+        "title": "City Council Regular Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/City_Council_Regular_Meeting_8346_Minutes_6_23_2026_6_30_00_PM.pdf?documentType=2&meetingId=8346"
+      },
+      {
+        "date": "2026-06-23",
+        "title": "City Council Study Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/City_Council_Study_Meeting_8322_Minutes_6_23_2026_4_30_00_PM.pdf?documentType=2&meetingId=8322"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "onbase",
+    "index_max_date": "2026-05-06",
+    "index_rows": 263,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Meetings/Search?dropid=11&mtids=all&dropsv=04%2F08%2F2026%2000:00:00&dropev=07%2F19%2F2026%2000:00:00",
+    "new_count": 3,
+    "notes": "6 newer meeting date(s) have no published minutes yet",
+    "new_items": [
+      {
+        "date": "2026-04-15",
+        "title": "Planning Commission Study Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/Planning_Commission_Study_Meeting_8302_Minutes_4_15_2026_3_30_00_PM.pdf?documentType=2&meetingId=8302"
+      },
+      {
+        "date": "2026-05-13",
+        "title": "Planning Commission Regular Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/Planning_Commission_Meeting_8434_Minutes_5_13_2026_4_00_00_PM.pdf?documentType=2&meetingId=8434"
+      },
+      {
+        "date": "2026-05-27",
+        "title": "Planning Commission Regular Meeting",
+        "url": "https://ob.wvc-ut.gov/OnBaseAgendaOnline/Documents/DownloadFile/Planning_Commission_Meeting_8436_Minutes_5_27_2026_4_00_00_PM.pdf?documentType=2&meetingId=8436"
+      }
+    ]
+  }
+}

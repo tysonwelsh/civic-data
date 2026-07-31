@@ -1,0 +1,61 @@
+{
+ "date": "2020-01-28",
+ "year": 2020,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2020/2020-01-27/2020-01-28_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Kent Burggraaf",
+  "Anna Barbieri",
+  "Lynette Wendel",
+  "Don Quigley",
+  "David Wright",
+  "Gordon Willardson",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Burggraaf – I will make a motion that we move to a closed session for the purpose described in Utah Code 52-4-205 specifically to discuss a pending or reasonably imminent litigation",
+   "motion_type": "Procedural/Administrative",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "Kent Burggraaf",
+   "seconder": "Don Quigley",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  }
+ ]
+}

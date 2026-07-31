@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "6/6/19", "name": "Sean Clayton", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/6/19", "recipient": "SL County Recorder", "purpose": "Candidate filing fee", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50",
+  "total_expenditures": "50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/sean-clayton-copperton_dec.pdf",
+    "candidate": "Sean Clayton",
+    "office": "Metro Township Council At-Large (2019 A/B/C cycle)",
+    "filing_type": "summary",
+    "election_year": "2019",
+    "source_pdf": "/Users/tysonwelsh/civic-data/copperton_city_council/campaign_finance/raw/sean-clayton-copperton_dec.pdf",
+    "pages": 4
+  }
+}

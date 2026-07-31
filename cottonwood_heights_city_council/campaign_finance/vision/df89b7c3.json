@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "06/23/25", "name": "Committe to Elect Baylynn", "amount": "1000", "in_kind": false},
+    {"date": "07/01/25", "name": "Randall Prazen (Self)", "amount": "1901.64", "in_kind": false},
+    {"date": "09/03/25", "name": "Womens Democratic Club", "amount": "100", "in_kind": false},
+    {"date": "09/22/25", "name": "IBEW Local 354", "amount": "250", "in_kind": false},
+    {"date": "09/26/25", "name": "Jillion Gibson", "amount": "100", "in_kind": false},
+    {"date": "09/29/25", "name": "Jared VanStaveren", "amount": "120", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/30/25", "recipient": "Purple Moss Photograpghy", "purpose": null, "amount": "194.63", "in_kind": false},
+    {"date": "07/01/25", "recipient": "Salt Lake County Democrat", "purpose": null, "amount": "75", "in_kind": false},
+    {"date": "08/11/25", "recipient": "Apollo Political", "purpose": null, "amount": "1200", "in_kind": false},
+    {"date": "08/31/25", "recipient": "Womens Democratic Club", "purpose": null, "amount": "30", "in_kind": false},
+    {"date": "08/31/25", "recipient": "Sun Lithographing", "purpose": null, "amount": "234.48", "in_kind": false},
+    {"date": "10/30/25", "recipient": "Apollo Political", "purpose": null, "amount": "1525", "in_kind": false},
+    {"date": "09/30/25", "recipient": "Signs on the Cheap", "purpose": null, "amount": "297.53", "in_kind": false}
+  ],
+  "total_contributions": "3471.64",
+  "total_expenditures": "3556.64",
+  "contributions_50_or_less": "85.00",
+  "beginning_balance": null,
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/2025_city_prazen_final-dec-4-2025.pdf",
+    "candidate": "Randy Prazen",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_prazen_final-dec-4-2025.pdf",
+    "pages": 2
+  }
+}

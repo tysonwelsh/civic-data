@@ -1,0 +1,891 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02132023-662
+> Meeting date: 2023-02-13
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2023-02-13
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02132023-662
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                           Minutes               of the
+                                                                                      Millcreek               City     Council
+                                                                                         February               13,     2023
+                                                                                                       5:00     p.m.
+                                                                                               Work           Meeting
+                                                                                                       7:00     p.m.
+                                                                                          Regular               Meeting
+
+
+
+
+The City      Council        of Millcreek,              Utah,     met in a public        work          meeting         and regular       meeting         on
+February      13, 2023,          at City       Hall,     located      at 3330 S. 1300 E., Millcreek,                          UT 84106.       The meeting
+was live streamed            via the City's               website     with    an option         for online           public     cornrnent.
+
+
+PRESENT:
+
+
+Council      Members                                                           City    Staff
+Jeff Silvestrini,         Mayor                                               Francis     Lilly,        Assistant        City Manager
+Silvia    Catten,     District       1                                        Elyse     Sullivan,         City Recorder
+Thom      DeSirant,       District        2                                   Mike      Winder,          City        Manager
+Cheri     Jackson,       District        3'                                    John Miller,            Public        Works      Director
+Bev Uipi,      District      4                                                Kurt     Hansen,          Facilities       Director
+                                                                              Rita Lund,           Communications                 Director
+                                                                              John Brems,               City Attorney
+                                                                               Jim Hardy,          Building           Services      Director
+                                                                              Kayla     Mayers,           Promise           Program      Manager
+                                                                              Josie Showalter,                 CDBG/Grant           Administrator
+                                                                              Brad     Sanderson,              Current        Planning      Manager
+                                                                              Robert     May,           Long     Range Planning               Manager
+                                                                              Aimee      McConkie,               City     Events      Director
+                                                                              Laurie     Johnson,             HR-Finance           Director       (electronic)
+
+
+Attendees:       Rick      Hansen,            Frank      Belko,      Daniel    01sson,         Cliff     & Georgia            Wilhelm,       Nancy        Carlson
+Gotts,    Dwayne         Vance,      Leslie           Silvestrini,     Lynda     & Jeff Gibson,                Clayton         Simms,       Jeremial'i     Clark,
+Rachel     Clark,     Julie Reichert,             Richard         & LaPrele       Sumsion,             Laura     Renshaw,          Carol      Elliott,    Rick
+Borl,    Soren Simonsen,             Andrew             Gruber,      David     Else, Pam Roberts,                    Mike      Bisignani,       Diane      Angus
+and family,      Jill Healey          and family,            Pepa Taufui         and family,            Nate Gibby             and family,        Chief       Steve
+DeBry
+
+
+WORK         MEETING                - 5:00 p.m.
+TIME       COMMENCED                      - 5:01 p.m.
+
+
+Mayor      Silvestrini      called        the meeting           to order.
+
+
+1. Grants       Presentation;                 Josie     Showalter,       CDBG/Grant                    Administrator
+   Josie Showalter            gave an update                on and descriptions            of grants the city had applied                         for as of
+   January      19, 2023. The following                       grants had been closed:
+Millcreek      City    Councn       Meeting         Minutes                                  13 February               2023     Page 2 of 16
+
+
+
+        *    Governor's          Office    of Economic           Development,             Boyer      Project         - $2,500,000
+        *    Governor's          Office    of Economic           Development,             Hudson           Project     - $2,500,000
+        *   Utah       Outdoor      Recreation        Grant,     Ice Ribbon          - $500,000
+        *    CoinmunityDevelopmentBlockGrantFY21,multi-usepathon3900S.-$231,400
+        *   Forestry,      Fire, and State Lands                Grant,     Jordan     River        Trail     - $53,470
+        *   NationalLeagueofCitiesGrant,entrepreneurtrainingforPromiseProgram-$15,000
+        *   Utah       Outdoor      Recreation        Grant,     outdoor       classroom           at Millcreek         Elementary        - $10,000
+        *   Utah       Outdoor      Recreation        Grant,     Bike      Infrastructure           on Millcreek          Common         - $10,000
+        *   Arts      and Museums           Project     Grant,     murals      on Millcreek            Common            - $6,000
+        *    Rocky      Mountain          Power     Foundation,          murals      on Millcreek             Common          - $5,000
+        @   Arbor       Day Grant,        trees on Millcreek             Common           - $800
+        *    Jordan     River      Commission          Grant,     Get to the River            Festival         - $93.41
+   TOT AL:      $5,831,763.41
+
+
+   The 2022 open grants included:
+        *    Governor's          Office    of Economic           Development,             Millcreek          Common           West - $2,500,000
+        @   DivisionofWorkforceServicesGrant,temporaryhomelessshelter-$480,169.97
+        *    Rocky      Mountain          Power     Blue      Sky Grant,       solar panels          on city hall         - $460,000
+        *   Utah       Outdoor      Recreation        Grant,     Jordan      River    Trail        - $250,000
+        *    Community           Development           Block      Grant     FY22,         Jordan     River      bridge     - $231,400
+        *    Utah Outdoor           Recreation        Grant,     Climbing          Wall     - $200,000
+        *    SafeSideWalks,publicworksproject-$194,100
+        *    Cultural     and Community               Engagement           Capital        Grant,     city hall public          market     -
+             $150,000
+        *    Coalitions      Lite    Grant,     Promise        Program        - $35,000
+        *    Emergency           Management           Performance           Grant,    helps pays emergency                     manager        salary    -
+             $25,000
+        *    Cultural     and Community               Engagement           Event     Grant,        Juneteenth          event - $19,350
+        *    Landscape       Leadership            Grant,     landscaping          around     city hall - $3,987.60
+   Kayla    Mayers      said the Coalitions            Lite    Grant was funding              from         Salt Lake      County     to help pay
+   for the Promise        Program         health    intern     and use the coalitions'                resources.
+
+
+   Showalter       said the city had applied                for the following,        but had not yet received                   a response:
+        *    Building      Resilient       Infrastructure         and Communities              Grant         2023, Neff's        Canyon        debris
+            basin - $15,788,250
+        *    FloodMitigationAssistanceGrant2023,Neff'sCanyondebrisbasin-$15,788,136
+        *    Surface      Transportation           Program,       public     works        project      - $6,279,693
+        *    Wasatch       Front     Regional        Council      Surface      Transportation               Program,       public   works
+             project     - $5,724,136
+        *    Surface      Transportation           Program,       public     works        project      - $4,778,410
+        *    Transportation          Alternatives           Program,      public     works     project         - $758,333
+        *    FY24CornmunityDevelopmentBlockGrant,supportJordanRiverTrailproject-
+             $231,400
+        *    TransportationandLandUseConnection,mastertrailsplan-$105,000
+        *    UnitedWayGrant,PromiseProgram-$103,428
+        *   National       Endowment           for the Arts,       master       arts plan - $75,000
+Millcreek         City     Council         Meeting        Minutes                                  13 February             2023        Page 3 of 16
+
+
+
+        *       State Homeland               Security      Program,          equipment          in the new emergency                 operation       office     -
+                $50,000
+        *       State Historic            Preservation          Office,     historic      neighborhood           surveys      and historical
+                archive         - $4,000
+        *      Walmart           Community            Grant      - $3,500
+
+
+   Mayor       Silvestrini         said all six members                 of the congressional            delegation         were willing          to support
+   funding        for the Neffs             Canyon      debris basin.          Lilly     said the Historic         Preservation          Commission
+   would      like to do a special              issue of the Millcreek                 newsletter.      Showalter         noted the city did not
+   receive      the Walmart              Community          Grant.        Council       Member       Catten      asked if the council             could
+   send small        grants her way.               Showalter        said yes. Mayor             Silvestrini      commended             Showalter         for
+   her work.
+
+
+2. Planning         Matters         First     Readings:
+   a. ZM-22-012,                Rezone       Request       from      R-2-6.5           to R-M     and Removal             of Existing         Zone
+      Condition            at 1200         E. Elgin       Avenue,         3060 & 3070 S. Richmond                        Street;     Brad
+      Sanderson,                Current       Planning        Manager
+      Brad        Sanderson         said the applicant             was proposing            to rezone         the southern         portion    of property
+      located        at 1200 E. Elgin              Avenue        from      the R-2-6.5       Zone to the R-M              Zone and remove                an
+      existing       zone condition             from      two adjacent          parcels      located      at 3060 and 3070 South
+      Richrnond            Street. The zone condition                     is, "Limit      10 units total for acreage with                    max height
+      of 35 feet to the midline                    property."       He showed            the council      the current        zoning       and General
+      Plan (Neighborhood                    2 designation)          maps,       and the proposed              building      renderings        and site
+      plan. The development                     agreement          for the application            would        cover the following            items:
+      dedication,          utilities,       orientation       and scale, parking,               open space/landscaping,                 amenities,
+      screening,          units,     ownership,         lighting,         height,      and materials.         Sanderson       noted there would                be
+      15 feet of right-of-way                  dedication         on Richmond              Street. He said the applicant                 had concems
+      with      item 2 on utilities.            The proportionate               not to exceed          cost for relocating             overhead
+      utilities      was listed           as $100,000         and the applicant            requested       the city make the determination
+      amount         after bids from            the utility      companies             had been received.          Council          Member        Uipi
+      asked what staff recommended                            on the amount             for item 2. Sanderson              said it depended              on the
+      bids.
+
+
+      Council        Member             DeSirant      asked if there would                be owner-occupancy                in the project.         Frank
+      Belko,       applicant,           said the intent       of the project            was that each unit would               be for sale. Council
+      Member             Jackson        appreciated       that the buildings             were further          away from           other residential
+      properties.          Sanderson          said the site plan was altered                    to accommodate             that. Council          Member
+      DeSirant           asked about property               at 3074 Richmond                Street.     Sanderson          said he had
+      conversations              with     the property        owner        about capitalizing           on the redevelopment,                 but they
+      were not interested.                 Mayor      Silvestrini         noted the community                 council      said the density
+      exceeded           the plan for Neighborhood                      2. Sanderson         said the initial        proposal         of 18 units        did
+      exceed        it, but it was amended                to 16 units.         He said the Neighborhood                    2 designation           says,
+     "May         serve as a transition              between        single-family          neighborhoods            and higher          density
+      corridors          or centers."        He said the project              would       be buffered         through      the site plan approval.
+      Mayor        Silvestrini          asked about the Planning                    Commission's          recornrnendation              of approval
+      differing          from     the cornrnunity          council's         recommendation             of denial.        Sanderson          said the
+      project       evolved        a lot from        the cornrnunity           council      meeting       to the Planning             Commission
+      meeting.           Council        Member       Jackson        asked about the height                of the buildings.            Sanderson         said
+Millcreek         City    Council        Meeting         Minutes                                    13 February           2023        Page 4 of 16
+
+
+
+        within      100 feet from             single    family      zoning       the height       could     not be greater          than 35 feet, but
+        after that it could           go up to 45 feet. Council                   Member         Catten     brought      up resident          issues with
+        the ditch        and asked where               it was. Sanderson            highlighted         it on the map. Mayor                 Silvestrini
+        said it was called            McClelland           Canal.       Council         Member       DeSirant        asked how the issue could
+       be resolved.            Sanderson         they were trying            to resolve         the problem,         but he did not have any
+        details     on it.
+
+
+     b. ZM-22-014,             Request         to Remove           Certain        Zone     Conditions            at 3701 S. Highland               Drive;
+        Brad       Sanderson,          Current           Planning        Manager
+        Brad      Sanderson          said on the eastern corner                   of Siggard       Drive     and Highland            Drive     was a
+       property          that had the following                zone conditions:            1. Property          use limited        to professional
+        office;     2. height        on property         limited       to no more         than 36 feet; and 3. on premise                     signs cannot
+        exceed 25 feet in height.                   The conditions           were put in place several                 years ago. The property
+        owner       was looking          to have the property                be used as a small             gym.     The applicant           would
+       realign       the site to have the Siggard                   Drive       access be a right-in/right-out                access and would
+       remove         the southern          access on Highland                  Drive     for safety reasons.          The proposed             site would
+        also include           additional       parking        and landscaping.            Council        Member        Jackson       asked if the city
+        imposed          the zone conditions.              Francis      Lilly     said it was the county              under    the Millcreek
+        township         days. Sanderson               said two community                 councils      and the planning             commission
+       recommended               approval        of the application.
+
+
+     c. ZM-23-001,             Request         to Amend           the Exhibits           of a Development              Agreement          Associated
+       with       Ordinance          22-21       (ZM-22-002);            Robert          May,     Long      Range       Planner
+        Robert      May        said the application              for property           at 175 W. Central           Avenue     requested           minor
+        amendments             to an existing           development             agreement,       a minor        adjustment         of the site plan and
+        a parking        table correction.             He showed         the council         the proposed           site plan which           added a
+       new access on Central                    Avenue.         He said the placement                of the bridge        created      an alignment
+        issue for the underground                      podium      parking.       There     is a high water           table so the accesses
+       would        each only        serve one level of the parking.                      May      said the traffic       study      concluded        that
+        egress left turns should                be restricted          onto Central         Avenue.        A three quarter           turn access
+       would        restrict     left hand turns.          Council       Member           Catten     asked if left turns would                be
+       physically          restricted.        May      said there would            be a plan to.physically              restrict     the left hand
+       turns.      Mayor        Silvestrini      requested         that any improvements                   be subject      to Millcreek
+        engineering.           May     said the parking            table restricts         compact         cars to 8 stalls,        so compact        cars
+       would        be added to the on-site                parking       count total which             would       go from     90 to 98 stalls. He
+        said the plaru'iing           recommendation                was approval           of the proposed            development            agreement
+       with       the following          conditions:           the new access be designed                   as a three-quarter          access only,
+       restricting        egress left turns,            and the developer               was responsible            for installing      all physical
+        street improvements                 required       for the new access point                  restricting      egress left turns,           subject
+       to approval           of the city's        public       works     and planning           departments.
+
+
+3.   Staff     Reports
+     Council       Member          Catten       said the county          had decided            to remove        the playground          at Big
+     Cottonwood            Park and would               replace     it at the end of the summer                    or the following           year with      a
+     larger     ADA       accessible          park.     She said the existing              playground           was in bad repair.
+
+
+     Mike      Winder        said staff was forming                 a committee,           the City      Hall     and Common           Arts
+     Committee.           The committee                would     make     art decisions          for city hall and Millcreek                 Common.
+Millcreek          City     Council      Meeting          Minutes                                      13 February          2023        Page 5 of 16
+
+
+
+       The committee             would      also have a planning                commissioner,             two Millcreek           Arts Council
+       members,           and two city council            members.           Council         Member        Jackson     asked about extending
+       the invitation         to community             members.        Winder         said there may be merit                to do so on specific
+       projects.     Winder        also reported          that the hazardous                waste had been removed                 from the Paletti
+       building      and the Unified           Police         Department            (UPD)     would      be doing      a drill     in it before      it was
+       demolished.           The council       requested         signs onsite notifying                 the public     of the drill.
+
+
+4.     Discussion          of Agenda         Items,       Correspondence,                   and/or      Future      Agenda        Items
+Mayor       Silvestrini        said there was a bill             at the legislature,            H.B.     374, that proposed              to modify       state
+statute     so the Salt Lake            County      Sheriff      could      not be the CEO of the UPD.                       He said a substitute
+bill   would       be introduced.          The bill      sponsor       was trying           to separate the county               from    UPD,      not do
+away with          UPD.      Mayor       Silvestrini      was prepared              to oppose         the bill,    he felt it would         sacrifice
+economies          of scale and require             additional         staff to do the same services                  that were currently               shared
+with    the county.          He did not feel the state should                       be involved.
+
+
+Council        Member           Uipi    moved       to adjourn           the work           meeting       at 6:04 p.m.         Council       Member
+Catten      seconded.           Mayor       Silvestrini         called     for the vote.             Council      Member          Catten     voted       yes,
+Council        Member          DeSirant        voted      yes, Council              Member           Jackson       voted     yes, Council          Member
+Uipi    voted      yes, and Mayor              Silvestrini        voted       yes. The motion               passed     unanimously
+
+
+
+
+REGULAR              MEETING               - 7:00 p.m.
+TIME       COMMENCED:                       7:01 p.m.
+
+
+1. Welcome,           Introduction           and Preliminary                 Matters
+           1.1 Pledge           of Allegiance
+            Mayor         Silvestrini      called   the meeting            to order and led the pledge                 of allegiance.
+
+
+Council        Member          Uipi     moved       to reorder           the agenda           to move       public     comment            to after      the
+community           champion            awards.        Council         Member          DeSirant          seconded.         The Mayor          called      for
+the vote. Council              Member         Catten          voted    yes, Council             Member          DeSirant       voted       yes, Council
+Member         Jackson          voted    yes, and Mayor                Silvestrini          voted      yes. The      motion       passed
+unanimously.
+
+
+           1.3 State         of the City       Address;          Mayor         Jeff    Silvestrini
+           Mayor          Silvestrini      said he was proud              to be the mayor              of Millcreek         and to serve the
+           residents.        Millcreek       was filled         with     terrific     people     who cared about the community                          and
+           improving           the lives     of others.        The word         he thinks        of describing         the city is, "engaged."
+           The mayor           relayed      a story from          a Canyon           Rim resident          who invited         a homeless
+           individual         into his home who was outside                          freezing        to death. He took him to REI to buy
+           him winter          boots     and connected            him with           homeless         resources.
+
+
+           Millcreek          is engaged       in collaboration             with      other cities       in the county         and state and
+           engaged          in county,      state and federal            levels.      He recently          met with        Millcreek's       six
+           congressional           delegation          in January.        The council           would      meet with         them again in DC in
+           the spring.         Collaboration           with     the federal         delegation         gained     the city funding          for
+Millcreek           City     Councn        Meeting            Minutes                                    13 February             2023       Page 6 of 16
+
+
+
+            improving           the trailhead          and wildfire          fighting         capability      in Neffs          Canyon,        and then an act
+            of congress          moved        the Mt. Olympus                federal         wilderness       boundaiy           to eventually           enable the
+            expansion           of the Bonneville               Shoreline      Trail         and potentially          permit      the construction                  of a
+            debris         retention     structure        that would         relieve      residents         of onerous       building/remodeling
+            restrictions         and flood           insurance      expenses.
+
+
+            Millcreek          is engaged        with      improving          infrastructure.             In the last three years, the city has
+            been able to resurface                   or reconstruct          parts of 3900              s., Highland       Drive,       and 1300 E. This
+            year, there should               be construction              of sidewalks,          lighting,      and bikes         lanes on 900 E.
+            between          4500 S. and 3900 S. Improvements                                on 2000 E. would             include       installation            of
+            sidewalks,          bike lanes, and piping                   the irrigation         ditch.      A block      of sidewalk           on 3300 S.
+            between          1850 to 1950 E. would                  be added. There               would       be a new roundabout                  at Skyline
+            High      School          and work        on phase II of Neff's                  Lane sidewalk            project.     The city would
+            continue          to add new sidewalk                and maintain            local roads. The public                  works        projects         could
+            be found          under the "Maps"                 section     on the city's          website.
+
+
+            Millcreek          is engaged        in helping         those less fortunate                 by continuing           the Millcreek               Promise
+            Program           partnership        funding        of afterschool           programs.           A new after school                program              at
+            Holladay          Hills     apartments         was added. The city was sad about Millcreek                                    Elementary
+            closing,         but would        still help the kids wherever                     they went.        The city was working                        with
+            Granite         School       District,     United       Way,      and South           Salt Lake City            about       expanding
+            assistance          to support       junior       high and high school                 students.
+
+
+            Millcreek          is engaged        in becoming              part of the solution              to the unsheltered            population                by
+            sponsoring           a temporary           winter      shelter     and collaborating               with     neighboring            cities,       the state,
+            and the Coalition               to End Homelessness                    on solutions.           The temporary            overflow         shelter              was
+            going      well.     The city received               additional         funding       for police         officers     to assist with              the
+            shelter        as a promise         to the neighborhood.                  The police           presence      makes       the shelter             residents
+            feel safer. He relayed                   a story of a UPD              officer     assisting      an unsheltered            person       who
+            needed medical               care and took care of his dog (boarding                              at Salt Lake County                 Animal
+            Services)          while     he was hospitalized.                Another          officer      assisted     another      unsheltered              person
+            by driving          them back to Utah County                      where          they felt safest. He noted               a bill     was working
+            its way through              the legislature           that would         affect     UPD        and he would           oppose        it. He said
+            Millcreek          was engaged             with     UPD.      They provided             efficiencies         and economies              of scale
+            which          were more robust             than the city could              achieve         standing       alone.     He would          continue                 to
+            fight     for UPD.         He said police            officers      are often         asked to respond               to mental       health         calls.
+            The strategy            is to provide         a mental         health     expert      with      the police      when        responding             to
+            those calls. Millcreek                   has its own mental              health      officer.     He read an email              from         a
+            Millcreek          resident      mother        describing         a daughter          with      mental      health     issues and their
+            experiences           with     police      officers.       Since the new mental                  health     program         was implemented,
+            police         were taking        the time to work              with     her daughter           (and other individuals)                 and follow
+            up with         them.
+
+
+            Millcreek          is engaged        with      the community               through          transparent      dialog     through         social
+            media,         weekly      electronic         newsletters,        printed         newsletters       to residents,         regular       public
+            body      meetings         which         are open in person              and broadcast            online,     and weeklyameetings
+                                                                                                                                            with
+            the mayor.          The council            had to raise property                 taxes and had truth in taxation                     hearings                to
+            explain         why it was needed                 to pay the UPD            contract.
+Mfflcreek        City     Council        Meeting         Minutes                                       13 February            2023     Page 7 of 16
+
+
+
+
+            Millcreek       is engaged           in community              building.         He acknowledged            Millcreek         Common's
+            success with            the skating        loop,    splash pad, and food truck                   Thursdays.          Millcreek         was
+            building      a new city hall next to it which                          should    be completed           later that year. The
+            Millcreek       UPD        precinct        would      occupy       the third       floor     of city hall. The public              could       enjoy
+            the public      market        on the ground            floor     and community                room     on the sixth       floor.
+
+
+            Millcreek       is engaged           in environmental              sustainability.          Millcreek       continued         to pursue         a
+            renewable        energy       'future with          participation          in the Cornrnunity             Renewable        Energy
+            Agency.       He said renewable                energy         might      be more affordable              than originally           thought.         The
+            program       should       enable Millcreek              residents         to use 100%         renewable          energy      by 2030. The
+            new city hall will            be covered           in solar panels           courtesy       of a Blue      Sky Energy          grant,         and the
+            parking      facility      will    have numerous               electric     vehicle        charging      stations.     The city will
+            continue      its practice          of purchasing          fuel-efficient          vehicles      and hybrids          and the police            force
+            would       be converting           to hybrid        vehicles       as well.
+
+
+            Millcreek       is engaged          in the health         of residents.           The city adopted           a "Health        in All
+            Policies"      approach           to governing.         Last year, the city acquired                    more than 140 acres of open
+            space which         is now dedicated                to public       use in perpetuity.           Construction            of a new 2-mile
+            segment       of the Bonneville              Shoreline          Trail     from     Parley's     to Mill     Creek Canyon               will    be
+            completed        when the weather                  pemiits.      The new segment               of the Jordan          River     Trail     on the
+        Millcreek           side of the river            is paved         and the installation            of a new bridge            to the west side,
+        new pavilion,               restrooms,         and trailhead          will     be installed        this year. The city also plans to
+        install        ten new pickleball              courts      in Canyon           Rim     Park this summer.
+
+
+        Millcreek          would        remain         engaged      in fighting         the construction             of the new limestone/gravel
+        quarry          in Parley's       Canyon         to stop the threat             to air quality.       Millcreek          is engaged         in careful
+        budgeting           and the city's          fiscal      health.      A property         tax increase         was necessary             to fund the
+        increased          expenses           for police       salaries      and solely        raised     to fund the UPD             contract.        The
+        city's        tax revenues            remain     solid,    its bond rating             is an enviable         AA+,       and the city
+        maintains          roughly            34% of the budget             as a rainy        day fund.
+
+
+        Lastly,         Millcreek        is proudly        engaged          with      providing        the best services          to the residents.
+        The council            receives         feedback         from people           about their interactions               with    the city. The city
+        has established               a staff and culture            of cross-training             individuals        who strive          to be problem
+        solvers.         Not every problem                can be solved,              but the goal is to be entrepreneurial.
+
+
+        With        all of this, "engaged"                is an apt word             to describe        the state of the city as 2023 begins.
+        He wished            everyone           the very best for the year and assured residents                                 that the city council
+        and staff would               continue         to keep Millcreek               "engaged"          for good in 2023 and beyond.                       He
+        noted he holds               office     hours     every Friday              to meet with         residents      and invited        their
+        feedback.
+
+
+        1.4 Community                   Champion             Awards;          Diane      Angus,         Pepa Taufui,           Nate    Gibby,         and
+        Fred        Healey          (posthumous)
+        The mayor            said these four people,                 though          there were many              Millcreek       residents        who could
+        be honored,            deserved         recognition.
+Millcreek        City      Council     Meeting      Minutes                               13 February             2023         Page 8 of 16
+
+
+
+            Council        Member      Silvia    Catten     announced       Diane      Angus     as the District         1 champion.
+              A Millcreek          native   born and raised           here, Diane      Angus     started      her long tenure               in
+               community service more than 35 years ago. As a comrmmity leader, friend, neighbor,
+               and small businessowner of one of Millcreek's best kept secrets (42ndStreet
+               Greenhouse),Diane has been a steady and trustedfixture ofMillcreek, particularly
+              westMillcreek,           in an ever-changing,            and sometimes           uncertain,      municipal          environment.
+
+
+               Thefirst time I met Diane was at a Community Courxcilmeeting where I showed ttp
+              wanting        to join   the Council.        She was warm         and welcoming,            and I was immediately                    in
+              awe of the historical and institutional knowledge she had about her commtmity.
+              Through the manyyears of watching Diane lead the Millcreek Communiffl Council as
+              Chair, I was always impressed by her quiet, but effective ability to lead. She askedfair
+              and thoughtfid questions, offered collaborative suggestions,and showed the utmost
+              patience and respectfor others in the heat ofconflict-all while maintainirig her
+              ground as a devoted local steward, always considering the welfare of the greater
+              community.
+
+
+              Diane has seenMillcreek in so many difjferentphases;from a small suburban
+              landscape with wide open spaces and manyfarming and industrial uses,to a
+              developing county township, to the incorporation ofMillcreek City, and she has never
+              wavered         in her loyalty     to the people        here. She has cultivated              CI?;I attitude      to treat
+              everyone as a friend-that people deservethe benefit of the doubt and mostpeople
+              want to be good neighbors if you give them the chance to do so. She has always been
+              vocal about the exdusivity of this great place being open to anyone. To Diane,
+              everyone is welcome here! She has long been the eyesand earsfor this community, and
+              countless        residents    have looked        to her guidance          and support         about      local    issues over the
+              years. If it matters to you, then it matters to Diane. Diane is setting an incredibly high
+              standard for those who receive this award in thefitture. We are so lucky to have had
+              her leadership and look forward to her continuedfriendship and support. I am pleased
+              to honor Diane Angus with Millcreek's first CommtmUyChampion Award.
+
+            Mayor        Silvestrini   said Angus         was the one who suggested                that the cominunity                councils
+            prioritize      community       needs to the county           as a community           instead      of as individual
+            councils.       Jamie Walker,        Millcreek       Community           Council     Chair,     recognized          Angus        and
+            thanked       her for her work.
+
+
+            Council       Member       Thom      DeSirant     announced        Pepa Taufui         as the District           2 champion.
+            Taufui       has been deeply        invested     in Millcreek       for years tmough             service     and volunteer
+            work.     He has never met a stranger,                  and has always       been so welcoming               with     the biggest
+            smile;       he meets people        like an old friend.       Pepa has worked            diligently        with     the Utah Food
+            Bank     for the last five plus years, organizing                  and distributing         food weekly            to hundreds          of
+            neighbors.        He was incredibly           able to keep it going         throughout          the pandemic,             when it was
+            needed more than ever. Each Thanksgiving,                          he organizes       a free holiday             dinner     and
+            entertainment          for unsheltered        friends     at the Midvale      homeless          shelter.     Pepa has been a
+            big supporter         of Unified     Fire and Unified          Police,     and has worked           to organize           his
+            community          to be responsive       in emergencies.           Council        Member       DeSirant         could     not think
+            of anyone        more deserving        in District       2 than Pepa. Pepa is a stalwart                community               volunteer
+            who has provided           meals     and support         to many    over the years.
+Millcreek       City      Council        Meeting        Minutes                                      13 February              2023        Page   9 of 16
+
+
+
+
+            Council       Member         Cheri      Jackson      announced              Nate     Gibby      as the District          3 champion.
+              Mate Gibby would rather give someonean award than receive one himself, but he
+              absolutely deservesrecognition for the amazing work he has done in our community,
+              and the cormectionsand volunteerism his effort and vision havefostered. Mate
+              recognized that neighbors had few opportunities to really meet and get to know each
+              other. If your children do not go to school together or you do not attend the same
+              church,       then it is easy to coexist                and not truly            interact      with     those    in your      neighborhood.
+
+              Thus, six years ago, Mateformed "Canyort Rim Is Community" to build neighborhood
+              connections            and help       Canyon       Rim        residents     get to know          and     learn     about      one another.
+              Through           Canyon        Rim Is Community,                Nate      hosted     a symposium           series      where      Canyon
+
+             Rim arxdMillcreek residents with interesting life experiencesshared their stories with
+             the community. The symposiumshavefeatured an astronaut, an Opera performer,
+             garderiers,          beekeepers,        a couple          who      hiked     the entire        Appalachian          Trail,     and a
+              mountaineer who has summited Mt. Everest twice. Mate's natural friendliness and
+              ability      to talk     with    anyone      helped       him      to meet       these amazing           people        and to create        a
+
+             venuefor their neighbors to meet them too. Furtherirxg the reach of Canyon Rim Is
+             Community, Mate and his group of volunteers have organized a day of service every
+             July for thepast five years. Service opportunities are identified and coordinated.
+             Procedures            are established           to easily         marshal         volunteers       to the various            opporttmities       to
+             serve.
+
+
+
+             Nate worlcs to organize the event, secure sponsors to help fund the projects, and to
+             provide breakfast and lunch for the volunteers, and he recruits hundreds of volunteers
+             to carry out theprojects. Serviceprojects have benefited organizations such as the
+             Ma7iheh Free CLinic, the School of the Deaf and BLind, Peace House, the International
+             Rescue Committee, the SharingPlace, ArtAccess, and [&rainian refugees. Volunteers
+             have       also     been organized          to help       clean      up Esther's             Garden      by the synagogue              on
+             Heritage Way, do graffiti clean-up, build free "little libraries", clean up the
+             naturescape             at Canyon       Rim Academy,                and this past            summer,       they built        the outdoor
+             classroom and garden at Millcreek Elementary. The day of service regularly invoives
+             over 500 volunteers who participate in thousands of hours of service. Neighbors
+             working alongside each other to benefit their community AND get to know each other.
+             It's an amazing event! In 2020, when we were in the throws of Covid, Mate was not
+             deterred. He hostedpodcastsfor Canyon Rim and Millcreek residents to learn coping
+             mechanismsto he(p in dealing with Covid-related stressors and another on fitness tips
+             to get you through a parxdemic. The day of service was modified to a socially distanced
+             donation drive benefiting several organizations. Canyon Rim residentsparticipated in
+             record numbers, thankful for the opportunity to do somethingfor the community and
+             help those organizations struggling through the pandemic. If this is not enough, Nate
+             also       volunteers       07?! the   Canyon       Rim         Community           Council,       the Millcreek          Business
+             Council,          and he has just          launched            the MillcreekMiracle                campaign.          The Millcreek
+             Miracle           is what   happens        when      residents,           businesses,         schools,     and other          causes    come
+             together          in new and innovative              ways         to engage         and sttpport         one another.           Once    again,
+             Mate is building his community and working to form connections betweenMillcreek
+             businessesand residents. Council Member Jackson was grateful for this opportunity to
+             recognize          Nate     Gibby.     Mate      truly     is a champion             in our comrmmity               because       he is a
+             champion            FOR     our    community.            His     desire     to build     connections             and help Millcreek
+Millcreek            City     Council        Meeting          Minutes                                 13 February           2023         Page 10 of 16
+
+
+
+                   become       a commtmity            that        cares     has made     Millcreek      a better       place      to live,   and I'm
+
+                   thankful for that.
+
+            Council           Member         Bev    Uipi       announced          Fred    Healey,     posthumously,             as the District        4
+            champion.
+
+               "F7zat covmtsin life is not the merefact that we have lived. It is what difference we
+               have made to the lives of others." - Nelson Mandela
+                nerx our Uipi family first moved to EastMill Creek in the early 80s, Fred was in the
+               LDS stakepresidency of the East Mill Creekstake. The Healeys and many others
+                   welcomed        us with       open      arms       in the neighborhood.             My     sibl=gs      and I attended
+
+               elementary, middle school, and high school with his kids. My bestfriend in second
+               grade is his daughter-in-law, Mindy Monson Healey. My memories of the Healeys were
+               mainly of his son, Travis. If any of you know Travis, he was a class clown. Much to my
+               surprise, he gained the love ofMindy during our high school years, and I loved that our
+               children grew up together. Throughout my years ofgrowing up in the neighborhood, I
+               lcnewcoach Fred meritored many of myfriends and boys in baseball. Not a typical
+               Polynesian               sport,   but we knew.              We all new coach           Fred.
+
+               As an adult, I knew Fred on a more professional, yet personal level as a mentor. He
+               was imtrumental in the incorporation ofMi[lcreek City. His resilience in seeing a
+               bigger picture of what could be and the poterxtialfor self-determination is why we are
+               here today. Fred always saw the bigger picture. He supported the inception of our
+               great city ofMillcreekas a Mayoral candidate. I know he can 'tsee thefruits of his
+                   labor,     but his posterity            will,     and they should           all be so very proud.
+               Fred          was a visionary,           a cowector,             a builder,      and so much         more.       He built      community,
+
+               volunteerism, businesses,but mostly, people. Fred was nothing without his life partner,
+               Jill. Behind every good man is a better woman. Together, they hostedforeign students,
+               who lived with them and attended the University of Utah. They served others in the
+               smallest,         yet kindest        ways,          like shoveling        driveways,      and takmg          meals      to widows        and
+
+               widowers. Their children alsojoined in their acts of service over the last 40+ years.
+               Today, their grandchildren can befound around the neighborhood doing exactly what
+               Fred          and Jill     did.
+
+               Fred was not only a succes4ul businessman,but he has been a lifelong member of the
+               EMC Lions Club for as long as I can remember. If anyone attended the hdy 4fhparade,
+               you would have seenFred, his wife, Jill, and their fctmily at breakfast they served, any
+               of thefamily activities or games all day, or in theparade. rm not sure whether Fred's
+               children got their humorous characteristics from him, butI could safely say it probably
+               camefrom Jill. Tonight is not to take away from Fred, but what made Fred who he was
+               in our community. This award also goes to his wife, Jill, his childrert, and his
+               grandchildren. The legacyFred has left will not only be as a pillar irt our community,
+               but as a faithful servant = his church, a lov=g husbarxd,father, and grandfctther. He
+               loved his community, but he loved hisfamily more. ",A life welllived is a life well
+                   loved."      - Unknown.          I am so honored                  to have    the opportunity          to give     the Community
+               Leader award to Fred Healey and his family.
+
+            Jill     Healey       described        her and Fred's              family,    and his run for Millcreek                 mayor.     Mayor
+            Silvestrini          recollected        his time          with    Fred    Healey.
+Millcreek        City      Council         Meeting          Minutes                                  13 February              2023        Page 11 of 16
+
+
+
+            Council        Member             DeSirant        moved         to recess the meeting                while       people     exited       the
+            chambers.             Council       Member          Uipi     seconded.        Mayor         Silvestrini          called    for the vote.
+            Council        Member             Catten       voted    yes, Council          Member          DeSirant            voted    yes, Council
+            Member           Jackson          voted       yes, Council        Member          Uipi    voted       yes, and Mayor                 Silvestrini
+            voted      yes. The motion                passed       unanimously.
+
+
+            Council        Member             Catten       moved       to come out of recess at 8:14 p.m.                          Council         Member
+            DeSirant          seconded.         Mayor         Silvestrini       called     for the vote.          Council         Member            Catten
+            voted      yes, Councn             Member          DeSirant         voted     yes, Council           Member           Jackson          voted       yes,
+            Council        Member            Uipi     voted     yes, and Mayor             Silvestrini        voted      yes. The motion                   passed
+            unanimously
+
+
+        1.2 Public                Comment
+            Carol      Elliott,      former     business       owner        on Highland        Drive,      said she made a plea to the
+            council      in April         2017 for Millcreek             to recognize         the local      small businesses               on Highland
+            Drive.      They       wanted      help cleaning           up the area and to be involved.                       The sidewalks            and
+            lighting      were horrible,            the street had been ignored.                   She said the problems                  still existed        and
+            she felt the city had since destroyed                        Highland         Drive.     The small business                owners        on
+            Highland         Drive      were frustrated            and upset because              they were being             overnin       by
+            developers.            She loved        being     part of that Highland             Drive     business           cornrnunity.         She
+            expressed         frustration         and felt the city had pushed                 her business           out.
+
+
+            David      Else, 1352 E. Skyview                   Drive,       recently     moved       to Millcreek            when it first
+            incorporated.            He said ranked           choice       voting      was an interesting             concept.        The nature          of it is
+        not set up for a constitutional                        republic.      Ranked       choice       voting     was a closed            electorate
+        process,          it removed           the one person           one vote,       and it is not unconstitutional,                    but non-
+            constitutional.           Ranked        choice     voting       results     in a loss of the vote of the people                      and we
+        need to have a government                           of the people,          by the people,        for the people.
+
+
+        Daniel          01sson,        2814 Wilbur            Lane, voiced          support     for ranked         choice       voting.       He said it
+        saved tax payer                 dollars     by eliminating            the need for a primary               election.         The system
+        encourages                engagement           between      politicians         and voters.       He thought           the state should
+        continue           leading        the system         in the country.           He appreciated         vote by mail.
+
+
+        Aubrey           Reichert         and Conrad          Reichert,       3493 S. 700 E., said they were representatives                                   of
+        Tecmology                  Student     Association          (TSA)       Chapters       at Olympus          High        School      and Evergreen
+        Junior         High.        TSA     promotes         education        in careers and STEM                 (science,       technology,
+        engineering,               and math)         pathways         by letting       students      have hands-on             experiences.          They
+        were promoting                  TSA       night     at Evergreen        Junior     High      School       on February             23rd and invited
+        the council               to participate.
+
+
+        Mike         Bisignani,           1051 E. 3740 S., asked if there was a such a thing                                  as too much          high
+        density         housing.          He was concerned              about traffic         congestion.         Mayor         Silvestrini
+        encouraged                him to make          an appointment            with    him or the Planning                  Director.
+
+
+4. Business         Matters
+Mfflcreek         City     Council            Meeting          Minutes                                    13 February             2023       Page 12 of 16
+
+
+
+            4.1 Discussion               and Consideration                    of Resolution            23-05,      Approving            a Naming           Rights
+            and Sponsorship                    Agreement             with      Granite       Credit       Union       with     Respect        to the
+            Adventure            Hub
+            Mike      Winder        said the Adventure                   Hub at Millcreek                Common          was the place to rent skates.
+            The plan was to have strategic                           naming       rights      at the Comtnon,             and this was the first one.
+            The city distributed                 a request         for proposals           and the winner           was Granite           Credit     Union.
+            They     are headquartered                    in Millcreek          and sponsor        Venture          Out events.          The five-year
+            contract       had options               for renewals.          The initial       amount        started      at $60,000         and grows        into
+            $75,000        a year. The goal with                     Millcreek       Common            was to build          it with     tax increment             from
+            the surrounding               developments,                the bond,      and grants,          and then run it as much                 as possible
+            on the revenue              generated            and through         naming        rights.      Council       Member         Catten      asked if
+            Granite       Credit        Union         had first right        of refusal        when       their five year term was up. Winder
+            said yes, but the city had to also agree.
+
+
+Council       Member            Jackson              moved      to adopt         Resolution        23-05,         Approving            a Naming           Rights
+and Sponsorship                 Agreement               with     Granite         Credit      Union        with     Respect        to the Adventure
+Hub.   Council           Member               DeSirant         seconded.         Mayor        Silvestrini         said the aim was for Millcreek
+Common         to be self-sustaining.                    Granite       Credit     Union       was a local Millcreek                  business      with     their
+headquarters         on 900 E. They have been a great partner                                   with      the Business           Council.        Council
+Member        Jackson         said the Credit                Union     had also been involved                    in service      projects        and shown          a
+coinmitment          to the community.
+The Recorder              called        for    the vote.        Council         Member          Catten       voted       yes, Council            Member
+DeSirant       voted       yes, Council                Member          Jackson        voted      yes, Council             Member          Uipi     voted     yes,
+and Mayor           Silvestrini           voted         yes. The motion             passerl      11n't1nxik9usly.
+
+
+            Winder        said there would                   be an upcoming           event when the sponsor                     would      be unveiled.
+
+
+            Council        Member             Uipi     recused       herself     from       item 2.2 and left the dais and the room.
+
+
+            2.2 Discussion               and Consideration                   of Resolution            23-06,       Authorizing            and Approving
+            Proceedings            in Eminent                Domain         as Necessary
+            John Brems            said this was a resolution                     authorizing          condemnation             of a property         on 2000 E.
+            to move        forward            with     a construction           project.     The property           owner        had been notified.
+            Mayor        Silvestrini           said this was for condemnation                      for a temporary               construction         easement,
+            a tetnporary          right       to be on the property,                while     constructing           sidewalk,         bike lanes and
+           piping        the irrigation              ditch    on 2000 E. The property                    owner,     Mr.      Sims,     declined      to
+            comment.
+
+
+            Jom      Miller      noted the 2000 East project                        was part of the Stormdrain                    Master         Plan. The city
+           had funding            to do phase I of the project.                     The property            in question          has an open ditch.            The
+           project       would      pipe the open ditch                  on the west side of the road and construct                               a sidewalk
+            on top. The sidewalk                      would     be completely              in the city's      right-of-way.            The current         plan
+           would         retie in the driveway                  after the curb and gutter                 goes in and the easement                   was to be
+            able to retie the driveway                       in. The curb and gutter               and the driveway               slope up to keep the
+            storm     water in the street and off the driveway.                                The elevation             would       be different         than what
+            currently         exists.     Mayor          Silvestrini        asked if the property                owner    was conferred             with     the
+            design       of the tie-in.          Miller        confirmed         and said there were national                    adopted         standards        for
+           the work.          He said the property                   owner       did not want the city to encroach                       on his property,               so
+Millcreek           City     Council          Meeting           Minutes                                           13 February              2023         Page 13 of 16
+
+
+
+            the design          was changed               to accommodate                     that.    Brems          said he had not been involved                          in the
+            direct       negotiations,           but he understood                    Mr.      Sims      had concern             about      vegetation           on his
+            property,         which          created      the applicant's                 obligation.          Mr.     Sims      said the construction                    project
+            could        not be done without                    encroaching               onto    his property.              The constniction              would          disrupt
+            their     landscaping,             stone      mailbox,            and the irrigation                  system.       He wanted          his property             to
+            remain          untouched           and the tree to be replaced                          if it was removed.                  He wanted         limited
+            impact         on the property.              The mayor                said the improvements                       did not encroach              beyond          the
+            right-of-way.              He said the city                worked         hard       to obtain         grant      funding       for and would
+            construct         the project.            He invited           Sims       to meet        with      him        and discuss         any negotiations.
+
+
+Councn        Member             Jackson             moved         to adopt          Resolution             23-06,         Authorizing            and      Approving
+Proceedings              in Eminent            Domain              as Necessary.              Council          Member             Catten        seconded.           The
+Recorder           called      for     the vote.         Council          Member              Catten        voted         yes, Council            Member            DeSirant
+voted     yes, Council               Member            Jackson           voted       yes, and         Mayor            Silvestrini         voted      yes. The            motion
+passed      unanimously.
+
+
+            Council          Member           Uipi      returned         to the meeting.
+
+
+            2.3 Discussion               and         Consideration                of Resolution                23-08,        Adopting         an Updated              Version
+            of the Mnlcreek                   Employee              Policy        and      Procedure              Manual
+            Mayor          Silvestrini         said the council                 discussed         this item          at their       last meeting.          Laurie
+            Johnson          said there         had not been              any major              changes          since      the first    reading.         She
+            appreciated              the council's             adoption.
+
+
+Council       Member            Catten          moved           to adopt           Resolution            23-08,        Adopting           an Updated               Version
+of the Millcreek              Employee                Policy       and     Procedure              Manual.             Council         Member          Uipi       seconded.
+The mayor           commended                staff     for their        work       on the handbook.                   The      Recorder           called     for    the vote.
+Council       Member            Catten          voted        yes, Council                 Member           DeSirant           voted       yes, Council             Member
+Jackson       voted         yes, Council              Member             Uipi      voted         yes, and         Mayor         Silvestrini         voted        yes. The
+motion      passed          unanimously
+
+
+            2.4 Discussion               and         Consideration                of Resolution                23-07,        Approving            an Interlocal
+            Cooperative               Agreement                with      City      of Holladay              for      Installation          of a High         Intensity
+            Activated           Crosswalk              Beacon           ("HAWK"                  Signal)       Located           at Approximately                   1500
+            East      and     Murray-Holladay                          Road
+            John Miller              said Holladay              City     approached              Millcreek           staff     about      doing     this project.           There
+            is a charter         school        on the street,             and this would                help      improve         the safety        in the area. He
+            was pleased              to support         Holladay's               effort     on the project.
+
+
+Council       Member            Jackson              moved         to adopt          Resolution             23-07,         approving          an interlocal
+cooperative           agreement              with      Holladay            for     installation            of a HAWK                 crossing        located         at
+approximately               1500       East      and     Murray-Holladay                         Road.         Council          Member            DeSirant
+seconded.          The      Recorder           called        for      the vote.           Council       Member               Catten       voted      yes, Council
+Member        DeSirant               voted     yes, Council               Member             Jackson           voted         yes, Council           Member            Uipi
+voted     yes, and          Mayor        Silvestrini            voted         yes. The           motion        passed          unanimously.
+
+
+            2.5 2023         Election          Discussion/Ranked                          Choice        Voting         Survey          Review
+Millcreek        City      Council           Meeting        Minutes                                    13 February            2023        Page 14 of 16
+
+
+
+            Elyse      Sullivan        presented        figures       from    Millcreek's           past elections.          In 2017,      a traditional
+            election,       there were 15,604                active    voters      with     7,689 votes cast. That election                     cost
+            $18,891.        In 2019, traditional              election,       there were 34,546               active    voters       and 14,529         votes
+            cast. That election               cost $43,605.           In 2021,      ranked       choice     voting      election,         there were
+            18,979       active       voters     and 7,103 votes cast. That election                       cost $25,470.           None        of the
+            elections       had a primary              election.      Sullivan      clarified        that active       voters    meant        that they had
+            voted      in the last four years. The options                       for the 2023 election                were traditional           or ranked
+            choice       voting       with     Millcreek's         35,410      active      voters.     Traditional        had potential          for a
+            primary        election,         and ranked        choice     had the option              to have a primary           but it was not
+            necessary.        The not to exceed                cost for a traditional              election      conducted         by Salt Lake
+            County        would       be $121,313.           The not to exceed               cost for a ranked           choice       voting      election
+            would        be $78,853           for the contract         plus an additional              fee divided           among     participating
+            cities in the county               that opted into the program.                    The total additional              fee was $36,156.                The
+            candidate        declaration          for a traditional           election       would      be June 1-7, and for a ranked                     choice
+            voting       election      would       be August          8-15.
+
+
+            Sullivan       noted the legislature               amended          code 20A-1-206              in 2022 which             provided         for a
+            municipality             being     able to cancel         an unopposed             race. The code used to allow                     an all or
+            nothing        election      cancelation.          This could         be an additional            cost savings         to Millcreek           if
+            there were unopposed                   races as the city saw in 2017 and 2019. Winder                                    said there was a
+            currently       a bill     at the legislature           to get rid of ranked               choice      voting,      but it had not passed
+            out of cornrnittee
+
+
+            Sullivan       said staff created             and distributed           a survey         in January        for three weeks           in the city's
+            e-newsletter,            on the website,          and on social           media        on ranked        choice      voting.       It was not a
+            scientific      study.      There were 222 responses;                       5 were not registered                Millcreek        voters     and 41
+            did not vote in the 2021 Millcreek                          election.       The survey         presented          different       questions
+            based on respondents'                  answers,         specifically          if voters     did not vote in the 2021 election
+            (Districts       I and 3), they were not asked about their                                experience       with     ranked        choice    voting.
+            Those respondents                  were asked which               zip code they lived             in, in case they did not know
+            about the districts.              The respondents             who voted          in the 2021 election               were asked which
+            council       district     they lived        in. The majority             of those survey            respondents          lived     in District            4.
+            To the question,            "How        clear or unclear            were the instructions                to vote using ranked               choice
+            voting,"       the majority          of respondents              said it was "very           clear."       To the question,          "How            easy
+            or difficult       did you find ranked                 choice      voting      to use," the majority               of respondents           said it
+            was "very         easy." To the question,                 "Did       you like or dislike            using ranked           choice     voting,"
+            the majority          "strongly        liked"     it. To the question,              "Do     you prefer        traditional         voting    or
+            ranked       choice       voting,"      the majority          of all respondents             selected "ranked              choice     voting."
+
+
+            Mayor        Silvestrini         asked if there was a public                   survey      done after the 2021 election.                    Council
+            Member         DeSirant           said Utah Ranked               Choice       Voting       did a survey,         not specific        to
+            Millcreek,        and presented             their results         to the council.          Council       Member          Catten     said cost
+            savings       was one matter,              but voter preference               was another.          Overwhelmingly,                people          liked
+            or did not mind             ranked      choice      voting,       so she suggested            the city try it again so the whole
+            city could       experience           it before        the city decided            to not do it again.           Council       Member
+            Jackson        said the city needed more exposure                           with     it to get a sense of how it would                      work.          It
+            was hard to make a judgement                           on it when       only half of the city had used it. Council
+            Member         Uipi      expressed         concern        that it may be perceived                  the council       was changing             the
+Millcreek            City     Council       Meeting        Minutes                                  13 February             2023      Page 15 of 16
+
+
+
+            method           of election        in favor     of the upcoming            races if they went back to a traditional
+            election.         The city needed more history                   on the method.             They     felt more education             was
+            needed and a post-election                      survey     should     be distributed.         Council        Member         DeSirant       said
+            Sandy had an issue with                      not doing      enough      education.         Council      Member          Jackson     said the
+            council          needed to explain             to the residents        why the council          would        opt into ranked          choice
+            voting.          Nobody        was sure how a ranked                choice     voting      primary      election        would     work     since
+            the declaration               period    was in August.         Mayor         Silvestrini      said an advantage             to ranked
+            choice          was not having           a primary.       The survey         was an indication           that education            was
+            adequate           in 2021. He felt the expectation                   would      be that the city would                 do ranked      choice
+            again.          Council       Member        Catten     noted that the 2021 election                 was during          a time where
+            people          felt disenfranchised            by the election         process.
+
+
+            John Brems             brought         up the proposed         interlocal       agreement       with     Salt Lake County                stating
+            that they had issues when                      there were more than ten candidates                      in a race. Sullivan            clarified
+            that as many              candidates        that filed    could be on the ballot,             however         the ballot/software
+            could       only     accommodate              ten rankings.      The council            had until     the end of April            to opt into
+            ranked          choice     voting      for the year. Mayor            Silvestrini       had a sense that Salt Lake City
+            would           opt in as well         as other cities.     Winder       recommended               waiting      until    the legislative
+            session          ended to make any decisions.
+
+
+3. Reports
+            3.1 Mayor's               Report
+            Mayor           Silvestrini      reported      there were some bills              he was following              about UPD,         housing,
+            and subdivision               approvals.        He said further         funding      was being         restricted        for municipalities
+            that were not following                     moderate      income      housing       plans.    He said the Recorder                 suggested
+            a bill     to reform          the noticing       for posting       construction         bid projects         so notice      did not have to
+        b e posted             in five public           places,    and that bill     passed out of cornrnittee.
+
+
+            3.2 City          Council       Member          Reports
+            Council          Member         Catten      reported      the Millcreek         Business       Council       attended       a day at the
+        legislature.              The Business           Council      enjoyed      the experience.          She asked about a senate bill
+            (S. B. 127) requiring                  government         organizations         to use an approved              website         domain.
+        Millcreek's               would        have to change          if it passed. Council             Member       Catten        said if the city
+        was going               to change its domain,                it should     be done soon since the city was still in its
+        infancy.             Mayor        Silvestrini      said the city had a utah.gov                 domain      previously         and it was
+        expensive               and cumbersome.              Council       Member         Catten       said drones       were not currently             used
+        for mosquito                  abatement         but it may happen          soon. There is a bill             in the legislative          session
+        that would               require       an entity     to register    with     the state their publicly               used drones.        John
+        Miller          said staff recently              acquired      a drone     and had a licensed             driver.
+
+
+        3.3 Staff             Reports
+        Winder               said Representative            Chris     Stewart      was visiting         Millcreek        on February          1 7'h.
+
+
+4. Consent           Agenda
+        4.1 Approval                  of January        12, 2023      Special      Meeting      Minutes
+        4.2 Approval                  of January        23, 2023 Special           Meeting      Minutes
+Mfflcreek          City     Council         Meeting         Minutes                               13 February      2023      Page 16 of 16
+
+
+
+Council       Member              Uipi     moved        to approve        items    4.1 and 4.2. Council          Member          DeSirant
+seconded.          Mayor          Silvestrini        called     for the vote.        Council     Member       Catten     voted     yes, Council
+Member         DeSirant            voted      yes, Council            Member       Jackson       voted    yes, Council     Member           Uipi
+voted     yes, and Mayor                  Silvestrini         voted    yes. The motion           passed    unanimously
+
+
+5. New      Items         for    Subsequent             Consideration
+There     were none.
+
+
+6. Calendar           of Upcoming                  Events
+    *       Plaru'iing          Commission           Mtg.     2/15/23     5:00 p.m.
+    *       City     Council         Mtg.     2/27/23       7:00 p.m.
+
+
+
+ADJOURNED:                      Council      Member            Uipi    moved      to adjourn       the meeting     at 9:37 p.m.        Council
+Member         Jackson            seconded.          Mayor       Silvestrini      called      for the vote.   Council     Member        Catten
+voted     yes, Council             Member           DeSirant          voted    yes, Council       Member      Jackson      voted     yes,
+Council      Member              Uipi     voted      yes, and Mayor             Silvestrini      voted    yes. The motion         passed
+unanimously
+
+
+                                     APPROVED:
+                                                                 Jeff Silvestrini,      Mayor
+
+
+
+                                         Attest:
+

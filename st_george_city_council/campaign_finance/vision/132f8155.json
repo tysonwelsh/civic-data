@@ -1,0 +1,39 @@
+{
+ "contributions": [
+  {
+   "date": "04/00/2021",
+   "name": "Rick Erickson - bank account required opening deposit",
+   "amount": "5.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "09/08/2021",
+   "recipient": "Rachel Campbell",
+   "purpose": "Campaign Management",
+   "amount": "500.00"
+  },
+  {
+   "date": "09/08/2021",
+   "recipient": "Sam Laub",
+   "purpose": "campaign donation refund",
+   "amount": "100.00"
+  },
+  {
+   "date": "09/08/2021",
+   "recipient": "Rick Erickson",
+   "purpose": "banner reimbursement",
+   "amount": "75.00"
+  },
+  {
+   "date": "09/08/2021",
+   "recipient": "Jimmie Hughes",
+   "purpose": "Donation for Mayoral Campaign",
+   "amount": "177.46"
+  }
+ ],
+ "total_contributions": "5.00",
+ "total_expenditures": "852.46",
+ "ending_balance": null
+}

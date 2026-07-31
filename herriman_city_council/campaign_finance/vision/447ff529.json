@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": null, "name": "DAI Managers LLC", "amount": "5000", "in_kind": false},
+    {"date": null, "name": "Clint Smith Loan", "amount": "5000", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Salt Lake Mailing", "purpose": null, "amount": "2799.91", "in_kind": false},
+    {"date": null, "recipient": "USPS", "purpose": null, "amount": "2930.16", "in_kind": false},
+    {"date": null, "recipient": "Rumble UP", "purpose": null, "amount": "687.55", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "1177.47", "in_kind": false},
+    {"date": null, "recipient": "L2", "purpose": null, "amount": "240.54", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "350", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "3000", "in_kind": false}
+  ],
+  "total_contributions": "10000",
+  "total_expenditures": "11185.60",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1283.39",
+  "ending_balance": "97.79",
+  "_meta": {
+    "index_path": "raw/2400_Clint-SmithMayor.pdf",
+    "candidate": "Clint Smith",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2400_Clint-SmithMayor.pdf",
+    "pages": 3,
+    "notes": "Type of Report box checked: REPORT - NOT Eliminated by Primary, 'No later than seven days before ... October 26, 2021' (the general-election pre-election report; filing_type=interim); verification signed Clint Smith dated Oct 26, 2021. Same candidate-made two-column layout as the primary filing (2097_Smith-Clint): page 2 'Contributions' block (Name / Amount, no dates) and 'Expenditures' block (To Who / Amount, no dates, no purpose) -> all contribution/expenditure rows date=null and all expenditures purpose=null. Contributions table printed TOTAL 10000; Expenditures table printed Total '11185.6' (itemized), which the Summary Page states as 11185.60. total_expenditures recorded from the Summary Page cover figure '11185.60'; total_contributions '10000' (matches both). Summary Page columns diverge (this is a later-period report): Column A 'Total this Period' = contributions 10000, expenditures 11185.60, Beginning-of-period balance 1283.39, Subtotal 11283.39, Close 97.79; Column B 'Year-to-Date' = contributions 20815.96, expenditures 20718.17, beginning 0, Close 97.79. Recorded the THIS-PERIOD figures: total_contributions/total_expenditures and beginning_balance='1283.39' (Column A; Column B YTD beginning is 0), ending_balance='97.79' (identical in both columns). Schedule C in-kind Summary line reads 'NA'/'NA' -> no in-kind contributions. Herriman form has no '$50 or less' aggregate line -> contributions_50_or_less=null."
+  }
+}

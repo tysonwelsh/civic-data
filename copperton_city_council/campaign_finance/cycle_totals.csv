@@ -1,0 +1,15 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+copperton,Ron Patrick,2016,"Metro Township Council (founding, at-large)",,381.97,381.97,1,1,single,
+copperton,Tessa Stitzer,2016,"Metro Township Council (founding, at-large)",,250.0,201.3,1,1,single,
+copperton,JP Baxter,2016,"Metro Township Council (founding, at-large)",,0.0,50.0,1,1,single,
+copperton,Kathleen Bailey,2016,"Metro Township Council (founding, at-large)",,100.0,50.0,1,1,single,
+copperton,Sean Clayton,2016,"Metro Township Council (founding, at-large)",,50.0,50.0,1,1,single,
+copperton,Apollo Pazell,2017,Metro Township Council At-Large (2017 @LRG / D-E cycle),,0.0,80.0,1,1,single,
+copperton,JP Baxter,2017,Metro Township Council At-Large (2017 @LRG / D-E cycle),,0.0,50.0,1,1,single,
+copperton,Kevin Severson,2017,Metro Township Council At-Large (2017 @LRG / D-E cycle),,50.0,50.0,1,1,single,
+copperton,Kathleen Bailey,2019,Metro Township Council At-Large (2019 A/B/C cycle),,450.0,500.0,2,2,override,"OVERRIDE: per-period filer (regime detector: incremental; itemization disjoint) — the Dec 'summary'-typed filing is itself a period report (begin 71.60, contrib 0, a single 71.60 loan-repayment-to-self expenditure, end 0), disjoint from the Oct interim (contrib 450 / expend 428.40). The summary-vs-interim max() rule undercounts spent (takes 428.40, drops the Dec 71.60); cycle = sum of both filings (450+0 / 428.40+71.60)"
+copperton,Tessa Stitzer,2019,Metro Township Council At-Large (2019 A/B/C cycle),,50.0,50.0,2,2,sum-interim,
+copperton,Sean Clayton,2019,Metro Township Council At-Large (2019 A/B/C cycle),,50.0,50.0,1,1,summary,
+copperton,Dave Olsen,2021,Metro Township Council At-Large Seat D,,50.0,50.0,2,2,sum-interim,
+copperton,Kevin Severson,2021,Metro Township Council At-Large Seat E,,50.0,50.0,2,2,sum-interim,
+copperton,Ronald Patrick,2021,Metro Township Council At-Large Seat E,,50.0,50.0,2,2,sum-interim,

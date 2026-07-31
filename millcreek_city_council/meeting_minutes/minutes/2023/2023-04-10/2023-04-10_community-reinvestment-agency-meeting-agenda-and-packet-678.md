@@ -1,0 +1,97 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04102023-678
+> Meeting date: 2023-04-10
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2023-04-10
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04102023-678
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                 Minutes         of the
+                                                      Millcreek         Community              Reinvestment            Agency
+                                                                                 April      10, 2023
+                                                                                     7:00 p.m.
+                                                                                Regular        Meeting
+
+
+
+
+The Cominunity Reinvestment Agency of Millcreek, Utah, met in a regular public meeting on
+April 10, 2023, at City Hall, located at 3330 S. 1300 E., Millcreek, Utah 84106. The meeting was
+live streamed via the City's website with an option for online public comment.
+
+PRESENT:
+
+Board        Members                                           City     Staff
+Jeff     Silvestrini,    Chair                                 Mike      Winder,       City    Manager
+Silvia      Catten                                             Elyse     Sullivan,       Agency      Recorder
+Thom        DeSirant                                           Francis      Lilly,    Assistant      City   Manager
+Cheri      Jackson                                             Kurt     Hansen,       Facilities     Director
+Bev      Uipi                                                  Laurie     Johnson,          HR-Finance      Director
+                                                               John     Brems,       City     Attorney
+
+
+Attendees:           Lt. Petty-Brown
+
+REGULAR  MEETING:                      7:00 p.m.
+TIME COMMENCED:                        9:09 p.m.
+
+
+
+Chair      Silvestrini    called   the meeting     to order.
+
+
+1. Present FY 2023-24 Community                     Reinvestment           Agency Tentative               Budget;      Laurie
+Johnson,         HR-Finance        Director
+Laurie Jomson said she kept revenue projections consistent. Millcreek Center Community
+Reinvestment Area (CRA) earned more property taxes which would help pay back debts. Fiscal
+year 2024 was interest only, in 2025, principal and interest would need to be paid on the bond.
+She said the Millcreek Center CRA could start reducing what was borrowed from the West
+Millcreek CRA to make payments. Slie said the budget was similar to the prior year on the West
+Millcreek CRA. The Woodland Avenue CRA was triggered in 2023. The MedTech CRA would
+trigger on or before March 1, 2025. Winder said the Woodland Avenue CRA revenues could be
+used towards   Millcreek Coinrnon Phase II.
+
+
+2. Discussion and Consideration   of Resolution 23-01, Acknowledging Receipt of the
+Community     Reinvestment  Agency (CRA) Tentative Budget on April 10, 2023; and
+Tentatively Adopting the Tentative Budget for the Fiscal Year Beginning July 1, 2023, and
+Ending June 30, 2024
+Millcreek      CRA       Meeting       Minutes                                                  10 April     2023       Page 2 of 2
+
+
+Board       Member       Uipi     moved     to adopt         item    2 on the CRA          meeting         agenda.     Board     Member
+Jackson       seconded.         The Recorder            called     for the vote.      Board      Member        Catten        voted    yes,
+Board       Member       DeSirant       voted      yes, Board            Member       Jackson      voted     yes, Board        Member          Uipi
+voted    yes, and Chair           Silvestrini      voted         yes. The    motion      passed     unanimously
+
+
+3. Approval          of June     27, 2022 Meeting                Minutes
+
+
+Board       Member       Uipi     moved     to approve            item     3. Board     Member        DeSirant        seconded.        Chair
+Silvestrini     called    for the vote.         Board       Member          Catten      voted    yes, Board        Member        DeSirant
+voted    yes, Board       Member          Jackson         voted     yes, Board        Member        Uipi    voted     yes, and Chair
+Silvestrini     voted     yes. The motion               passed      unanimously.
+
+
+ADJOURNED:                Board      Member         Uipi      moved        to adjourn      the meeting         at 9:13 p.m.          Board
+Member        DeSirant         seconded.        Chair      Silvestrini       called   for the vote.        Board      Member         Catten
+voted    yes, Board       Member          DeSirant         voted     yes, Board         Member       Jackson         voted    yes, Board
+Member        Uipi    voted      yes, and Chair           Silvestrini       voted     yes. The motion          passed        unanimously.
+
+
+
+
+                              APPROVED:           Date
+                                   (yeS#ffvestrm=chatr'                                                                  q-iq'1013
+                                  Attest:                 Eke,                      Recorder
+

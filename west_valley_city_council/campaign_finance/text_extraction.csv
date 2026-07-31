@@ -1,0 +1,106 @@
+path_raw,text,pages,chars,format,extraction_method
+raw/2019_9949_Donald-Christensen-Finance-Statement-Final.pdf,text/2019_9949_Donald-Christensen-Finance-Statement-Final.txt,4,1667,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3495_Arnold-Jones-Final-Campaign-Financial-Disclosure.pdf,text/2021_3495_Arnold-Jones-Final-Campaign-Financial-Disclosure.txt,3,8490,text,pdftotext -layout
+raw/2021_3496_Arnold-Jones-Primary-Financial-Disclosure.pdf,text/2021_3496_Arnold-Jones-Primary-Financial-Disclosure.txt,3,9228,text,pdftotext -layout
+raw/2021_3497_Chris-Bell-Final-Campaign-Financial-Disclosure.pdf,text/2021_3497_Chris-Bell-Final-Campaign-Financial-Disclosure.txt,3,1394,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3498_Chris-Bell-General-Financial-Disclosure.pdf,text/2021_3498_Chris-Bell-General-Financial-Disclosure.txt,3,2788,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3499_Chris-Bell-Primary-Financial-Disclosure.pdf,text/2021_3499_Chris-Bell-Primary-Financial-Disclosure.txt,4,4128,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3500_Darrell-Curtis-Final-Campaign-Financial-Disclosure.pdf,text/2021_3500_Darrell-Curtis-Final-Campaign-Financial-Disclosure.txt,1,979,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3501_Darrell-Curtis-General-Financial-Disclosure.pdf,text/2021_3501_Darrell-Curtis-General-Financial-Disclosure.txt,3,2134,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3502_Jake-Fitisemanu-Final-Campaign-Financial-Disclosure.pdf,text/2021_3502_Jake-Fitisemanu-Final-Campaign-Financial-Disclosure.txt,3,10455,text,pdftotext -layout
+raw/2021_3503_Jake-Fitisemanu-General-Financial-Disclosure.pdf,text/2021_3503_Jake-Fitisemanu-General-Financial-Disclosure.txt,4,24156,text,pdftotext -layout
+raw/2021_3504_Jim-Vesock-Final-Campaign-Financial-Disclosure.pdf,text/2021_3504_Jim-Vesock-Final-Campaign-Financial-Disclosure.txt,1,918,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3505_Jim-Vesock-General-Financial-Disclosure.pdf,text/2021_3505_Jim-Vesock-General-Financial-Disclosure.txt,5,4189,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3506_Karen-Lang-Final-Campaign-Financial-Disclosure.pdf,text/2021_3506_Karen-Lang-Final-Campaign-Financial-Disclosure.txt,2,1436,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3507_Karen-Lang-General-Financial-Disclosure.pdf,text/2021_3507_Karen-Lang-General-Financial-Disclosure.txt,2,2134,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3508_Karen-Lang-Primary-Financial-Disclosure.pdf,text/2021_3508_Karen-Lang-Primary-Financial-Disclosure.txt,3,3463,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3509_Lars-Nordfelt-Final-Campaign-Financial-Disclosure.pdf,text/2021_3509_Lars-Nordfelt-Final-Campaign-Financial-Disclosure.txt,2,1454,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3510_Lars-Nordfelt-General-Financial-Disclosure.pdf,text/2021_3510_Lars-Nordfelt-General-Financial-Disclosure.txt,3,5350,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3511_Lindie-Sue-Beaudoin-Final-Campaign-Financial-Disclosure.pdf,text/2021_3511_Lindie-Sue-Beaudoin-Final-Campaign-Financial-Disclosure.txt,3,1547,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3512_Lindie-Sue-Beaudoin-General-Financial-Disclosure.pdf,text/2021_3512_Lindie-Sue-Beaudoin-General-Financial-Disclosure.txt,3,2288,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3513_Philip-Wayman-Final-Campaign-Financial-Disclosure.pdf,text/2021_3513_Philip-Wayman-Final-Campaign-Financial-Disclosure.txt,1,380,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3514_Philip-Wayman-Primary-Financial-Disclosure.pdf,text/2021_3514_Philip-Wayman-Primary-Financial-Disclosure.txt,3,1524,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3515_Scott-Harmon-Final-Campaign-Financial-Disclosure.pdf,text/2021_3515_Scott-Harmon-Final-Campaign-Financial-Disclosure.txt,3,1674,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3516_Scott-Harmon-General-Financial-Disclosure.pdf,text/2021_3516_Scott-Harmon-General-Financial-Disclosure.txt,3,2293,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3517_Scott-Harmon-Primary-Financial-Disclosure.pdf,text/2021_3517_Scott-Harmon-Primary-Financial-Disclosure.txt,3,2764,text,pdftotext -layout
+raw/2021_3518_Steve-Buhler-Final-Campaign-Financial-Disclosure.pdf,text/2021_3518_Steve-Buhler-Final-Campaign-Financial-Disclosure.txt,10,9640,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3519_Steve-Buhler-General-Financial-Disclosure.pdf,text/2021_3519_Steve-Buhler-General-Financial-Disclosure.txt,10,9271,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3520_Steve-Buhler-Primary-Financial-Disclosure.pdf,text/2021_3520_Steve-Buhler-Primary-Financial-Disclosure.txt,6,5903,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3521_Tom-Huynh-Final-Campaign-Financial-Disclosure.pdf,text/2021_3521_Tom-Huynh-Final-Campaign-Financial-Disclosure.txt,3,1911,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2021_3522_Tom-Huynh-Primary-Financial-Disclosure.pdf,text/2021_3522_Tom-Huynh-Primary-Financial-Disclosure.txt,3,3284,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3523_Darrell-Curtis-Final-Campaign-Financial-Disclosure.pdf,text/2023_3523_Darrell-Curtis-Final-Campaign-Financial-Disclosure.txt,3,1992,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3524_Darrell-Curtis-Primary-Financial-Disclosure.pdf,text/2023_3524_Darrell-Curtis-Primary-Financial-Disclosure.txt,3,1803,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3525_Don-Christensen-Final-Campaign-Financial-Disclosure.pdf,text/2023_3525_Don-Christensen-Final-Campaign-Financial-Disclosure.txt,3,4880,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3526_Don-Christensen-General-Financial-Disclosure.pdf,text/2023_3526_Don-Christensen-General-Financial-Disclosure.txt,3,4579,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3527_Don-Christensen-Post-Primary-Financial-Disclosure.pdf,text/2023_3527_Don-Christensen-Post-Primary-Financial-Disclosure.txt,3,4562,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3528_Don-Christensen-Primary-Financial-Disclosure.pdf,text/2023_3528_Don-Christensen-Primary-Financial-Disclosure.txt,3,3997,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3529_Heidi-Roggenbuck-Final-Campaign-Financial-Disclosure.pdf,text/2023_3529_Heidi-Roggenbuck-Final-Campaign-Financial-Disclosure.txt,3,6006,text,pdftotext -layout
+raw/2023_3530_Heidi-Roggenbuck-General-Financial-Disclosure.pdf,text/2023_3530_Heidi-Roggenbuck-General-Financial-Disclosure.txt,4,5887,text,pdftotext -layout
+raw/2023_3531_Heidi-Roggenbuck-Post-Primary-Financial-Disclosure.pdf,text/2023_3531_Heidi-Roggenbuck-Post-Primary-Financial-Disclosure.txt,3,5971,text,pdftotext -layout
+raw/2023_3532_Heidi-Roggenbuck-Primary-Financial-Disclosure.pdf,text/2023_3532_Heidi-Roggenbuck-Primary-Financial-Disclosure.txt,3,5864,text,pdftotext -layout
+raw/2023_3533_Jacob-Gonzalez-Final-Campaign-Financial-Disclosure.pdf,text/2023_3533_Jacob-Gonzalez-Final-Campaign-Financial-Disclosure.txt,3,6007,text,pdftotext -layout
+raw/2023_3534_Jacob-Gonzalez-Primary-Financial-Disclosure.pdf,text/2023_3534_Jacob-Gonzalez-Primary-Financial-Disclosure.txt,4,7050,text,pdftotext -layout
+raw/2023_3535_James-Jack-Fenn-Final-Campaign-Financial-Disclosure.pdf,text/2023_3535_James-Jack-Fenn-Final-Campaign-Financial-Disclosure.txt,3,6448,text,pdftotext -layout
+raw/2023_3536_James-Jack-Fenn-Primary-Financial-Disclosure.pdf,text/2023_3536_James-Jack-Fenn-Primary-Financial-Disclosure.txt,4,1777,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3537_Jesus-Jimenez-Vivanco-Final-Campaign-Financial-Disclosure.pdf,text/2023_3537_Jesus-Jimenez-Vivanco-Final-Campaign-Financial-Disclosure.txt,3,1701,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3538_Jesus-Jimenez-Vivanco-Primary-Financial-Disclosure.pdf,text/2023_3538_Jesus-Jimenez-Vivanco-Primary-Financial-Disclosure.txt,3,1949,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3539_Jim-Vesock-Final-Campaign-Financial-Disclosure.pdf,text/2023_3539_Jim-Vesock-Final-Campaign-Financial-Disclosure.txt,1,926,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3540_Jim-Vesock-Primary-Financial-Disclosure.pdf,text/2023_3540_Jim-Vesock-Primary-Financial-Disclosure.txt,3,2180,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3541_Marni-LeFevre-Final-Campaign-Financial-Disclosure.pdf,text/2023_3541_Marni-LeFevre-Final-Campaign-Financial-Disclosure.txt,3,3649,text,pdftotext -layout
+raw/2023_3542_Marni-LeFevre-General-Financial-Disclosure.pdf,text/2023_3542_Marni-LeFevre-General-Financial-Disclosure.txt,3,3544,text,pdftotext -layout
+raw/2023_3543_Marni-LeFevre-Post-Primary-Financial-Disclosure.pdf,text/2023_3543_Marni-LeFevre-Post-Primary-Financial-Disclosure.txt,3,4790,text,pdftotext -layout
+raw/2023_3544_Marni-LeFevre-Primary-Financial-Disclosure.pdf,text/2023_3544_Marni-LeFevre-Primary-Financial-Disclosure.txt,4,11317,text,pdftotext -layout
+raw/2023_3545_Richard-Nowak-Final-Campaign-Financial-Disclosure.pdf,text/2023_3545_Richard-Nowak-Final-Campaign-Financial-Disclosure.txt,3,1660,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3546_Richard-Nowak-Primary-Financial-Disclosure.pdf,text/2023_3546_Richard-Nowak-Primary-Financial-Disclosure.txt,3,2235,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3547_Sophia-Hawes-Tingey-Final-Campaign-Financial-Disclosure.pdf,text/2023_3547_Sophia-Hawes-Tingey-Final-Campaign-Financial-Disclosure.txt,4,3429,text,pdftotext -layout
+raw/2023_3548_Sophia-Hawes-Tingey-General-Financial-Disclosure.pdf,text/2023_3548_Sophia-Hawes-Tingey-General-Financial-Disclosure.txt,4,2873,text,pdftotext -layout
+raw/2023_3549_Sophia-Hawes-Tingey-Post-Primary-Financial-Disclosure.pdf,text/2023_3549_Sophia-Hawes-Tingey-Post-Primary-Financial-Disclosure.txt,4,4037,text,pdftotext -layout
+raw/2023_3550_Sophia-Hawes-Tingey-Primary-Financial-Disclosure.pdf,text/2023_3550_Sophia-Hawes-Tingey-Primary-Financial-Disclosure.txt,4,7531,text,pdftotext -layout
+raw/2023_3551_Steven-J-Rose-Final-Campaign-Financial-Disclosure.pdf,text/2023_3551_Steven-J-Rose-Final-Campaign-Financial-Disclosure.txt,3,1728,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3552_Steven-J-Rose-Primary-Financial-Disclosure.pdf,text/2023_3552_Steven-J-Rose-Primary-Financial-Disclosure.txt,1,964,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3553_Tom-Huynh-Final-Campaign-Financial-Disclosure.pdf,text/2023_3553_Tom-Huynh-Final-Campaign-Financial-Disclosure.txt,3,1928,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2023_3554_Tom-Huynh-General-Financial-Disclosure.pdf,text/2023_3554_Tom-Huynh-General-Financial-Disclosure.txt,3,1872,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3555_Amitonu-Wesley-Amosa-General-Primary-Financial-Disclosure.pdf,text/2025_3555_Amitonu-Wesley-Amosa-General-Primary-Financial-Disclosure.txt,3,6854,text,pdftotext -layout
+raw/2025_3556_Amitonu-Wesley-Amosa-Final-Campaign-Financial-Statement.pdf,text/2025_3556_Amitonu-Wesley-Amosa-Final-Campaign-Financial-Statement.txt,2,3337,text,pdftotext -layout
+raw/2025_3557_Amitonu-Wesley-Amosa-Post-Primary-Financial-Disclosure.pdf,text/2025_3557_Amitonu-Wesley-Amosa-Post-Primary-Financial-Disclosure.txt,3,2325,text,pdftotext -layout
+raw/2025_3558_Amitonu-Wesley-Amosa-Primary-Financial-Disclosure.pdf,text/2025_3558_Amitonu-Wesley-Amosa-Primary-Financial-Disclosure.txt,8,4735,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3559_Campaign-Finance-Statement-8-2025.pdf,text/2025_3559_Campaign-Finance-Statement-8-2025.txt,3,7859,text,pdftotext -layout
+raw/2025_3560_Cindy-Wood-General-Financial-Disclosure.pdf,text/2025_3560_Cindy-Wood-General-Financial-Disclosure.txt,5,5371,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3561_Cindy-Wood-Final-Campaign-Financial-Statement.pdf,text/2025_3561_Cindy-Wood-Final-Campaign-Financial-Statement.txt,3,1706,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3562_Cindy-Wood-Post-Primary-Financial-Disclosure.pdf,text/2025_3562_Cindy-Wood-Post-Primary-Financial-Disclosure.txt,5,4727,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3563_Cindy-Wood-Primary-Financial-Disclosure.pdf,text/2025_3563_Cindy-Wood-Primary-Financial-Disclosure.txt,5,4118,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3564_Danny-George-HR-Post-Primary-Financial-Disclosure.pdf,text/2025_3564_Danny-George-HR-Post-Primary-Financial-Disclosure.txt,3,5939,text,pdftotext -layout
+raw/2025_3565_Danny-George-JR-General-Financial-Disclosure.pdf,text/2025_3565_Danny-George-JR-General-Financial-Disclosure.txt,3,5940,text,pdftotext -layout
+raw/2025_3566_Danny-George-JR-Declaration-of-Candidacy.pdf,text/2025_3566_Danny-George-JR-Declaration-of-Candidacy.txt,2,4935,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3567_Danny-George-JR-Final-Financial-Disclosure.pdf,text/2025_3567_Danny-George-JR-Final-Financial-Disclosure.txt,3,5916,text,pdftotext -layout
+raw/2025_3568_Geovani-Salazar-Primary-Financial-Statement.pdf,text/2025_3568_Geovani-Salazar-Primary-Financial-Statement.txt,3,7957,text,pdftotext -layout
+raw/2025_3569_Heidi-Roggenbuck-General-Financial-Statement.pdf,text/2025_3569_Heidi-Roggenbuck-General-Financial-Statement.txt,3,5930,text,pdftotext -layout
+raw/2025_3570_Heidi-Roggenbuck-Final-Financial-Statement.pdf,text/2025_3570_Heidi-Roggenbuck-Final-Financial-Statement.txt,3,6017,text,pdftotext -layout
+raw/2025_3571_Heidi-Roggenbuck-Post-Primary-Financial-Statement.pdf,text/2025_3571_Heidi-Roggenbuck-Post-Primary-Financial-Statement.txt,3,6363,text,pdftotext -layout
+raw/2025_3572_Heidi-Roggenbuck-Primary-Financial-Statement.pdf,text/2025_3572_Heidi-Roggenbuck-Primary-Financial-Statement.txt,4,5789,text,pdftotext -layout
+raw/2025_3573_Jim-M-Vesock-Final-Campaign-Finance-Statement.pdf,text/2025_3573_Jim-M-Vesock-Final-Campaign-Finance-Statement.txt,3,1629,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3574_Jim-M-Vesock-Primary-Financial-Disclosure.pdf,text/2025_3574_Jim-M-Vesock-Primary-Financial-Disclosure.txt,3,2972,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3575_June-Freeman-Hesleph-Final-Campaign-Finance-Statement.pdf,text/2025_3575_June-Freeman-Hesleph-Final-Campaign-Finance-Statement.txt,3,1712,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3576_June-Freeman-Hesleph-General-Financial-Disclosure.pdf,text/2025_3576_June-Freeman-Hesleph-General-Financial-Disclosure.txt,3,6452,text,pdftotext -layout
+raw/2025_3577_June-Freeman-Hesleph-Post-Primary-Financial-Disclosure-corre.pdf,text/2025_3577_June-Freeman-Hesleph-Post-Primary-Financial-Disclosure-corre.txt,3,6703,text,pdftotext -layout
+raw/2025_3578_Justin-Turcsanski-Primary-Financial-Disclosure.pdf,text/2025_3578_Justin-Turcsanski-Primary-Financial-Disclosure.txt,2,3766,text,pdftotext -layout
+raw/2025_3579_Karen-Lang-Final-Financial-Disclosure-Statement.pdf,text/2025_3579_Karen-Lang-Final-Financial-Disclosure-Statement.txt,2,1818,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3580_Karen-Lang-General-Financial-Disclosure.pdf,text/2025_3580_Karen-Lang-General-Financial-Disclosure.txt,2,1389,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3581_Karen-Lang-Post-Primary-Financial-Disclosure.pdf,text/2025_3581_Karen-Lang-Post-Primary-Financial-Disclosure.txt,3,2666,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3582_Karen-Lang-Primary-Financial-Disclosure-not-required-volunta.pdf,text/2025_3582_Karen-Lang-Primary-Financial-Disclosure-not-required-volunta.txt,3,2109,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3583_Lars-Nordfelt-General-Financial-Statement.pdf,text/2025_3583_Lars-Nordfelt-General-Financial-Statement.txt,3,6029,text,pdftotext -layout
+raw/2025_3584_Lars-Nordfelt-Final-Financial-Disclosure.pdf,text/2025_3584_Lars-Nordfelt-Final-Financial-Disclosure.txt,2,3652,text,pdftotext -layout
+raw/2025_3585_Lars-Nordfelt-Post-Primary-Financial-Disclosure.pdf,text/2025_3585_Lars-Nordfelt-Post-Primary-Financial-Disclosure.txt,3,6050,text,pdftotext -layout
+raw/2025_3586_Lars-Nordfelt-Primary-Financial-Disclosure.pdf,text/2025_3586_Lars-Nordfelt-Primary-Financial-Disclosure.txt,2,4960,text,pdftotext -layout
+raw/2025_3587_Rocky-A-Thomas-Final-Financial-Disclosure.pdf,text/2025_3587_Rocky-A-Thomas-Final-Financial-Disclosure.txt,1,948,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3588_Rocky-Thomas-Primary-Financial-Disclosure.pdf,text/2025_3588_Rocky-Thomas-Primary-Financial-Disclosure.txt,3,1860,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3589_Ryan-Mahoney-General-Financial-Disclosure.pdf,text/2025_3589_Ryan-Mahoney-General-Financial-Disclosure.txt,3,2008,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3590_Ryan-Mahoney-Final-Campaign-Financial-Disclosure.pdf,text/2025_3590_Ryan-Mahoney-Final-Campaign-Financial-Disclosure.txt,1,936,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3591_Ryan-Mahoney-Post-Primary-Financial-Disclosure-Write-In-Cand.pdf,text/2025_3591_Ryan-Mahoney-Post-Primary-Financial-Disclosure-Write-In-Cand.txt,3,1908,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3592_Ryan-Mahoney-Primary-Financial-Disclosure.pdf,text/2025_3592_Ryan-Mahoney-Primary-Financial-Disclosure.txt,4,2124,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3593_Ryan-Mahony-write-in-Final-Financial-Disclosure.pdf,text/2025_3593_Ryan-Mahony-write-in-Final-Financial-Disclosure.txt,1,972,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3594_Scott-Harmon-General-Financial-Disclosure.pdf,text/2025_3594_Scott-Harmon-General-Financial-Disclosure.txt,3,1645,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3595_Scott-Harmon-Final-Campaign-Financial-Disclosure.pdf,text/2025_3595_Scott-Harmon-Final-Campaign-Financial-Disclosure.txt,4,6233,text,pdftotext -layout
+raw/2025_3596_Scott-Harmon-Post-Primary-Financial-Disclosure-Statement.pdf,text/2025_3596_Scott-Harmon-Post-Primary-Financial-Disclosure-Statement.txt,3,6783,text,pdftotext -layout
+raw/2025_3597_Scott-Harmon-Primary-Financial-Disclosure.pdf,text/2025_3597_Scott-Harmon-Primary-Financial-Disclosure.txt,3,2252,scanned,ocr:tesseract --psm 6 @300dpi (pdftoppm)
+raw/2025_3598_Turcsanski-Campaign-Finance-Statement-docx.pdf,text/2025_3598_Turcsanski-Campaign-Finance-Statement-docx.txt,3,3572,text,pdftotext -layout

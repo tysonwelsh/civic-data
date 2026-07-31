@@ -1,0 +1,31 @@
+# roster_overrides.csv — hand-editable correction layer for the Kearns council roster.
+#
+# This is the repo's documented override convention (see civic-data/CLAUDE.md cardinal
+# rule 2: city-faithful automated output is never overwritten in place — corrections
+# live here, alongside).  build_roster.py applies this file LAST and it WINS TIES.
+#
+# Use it to record anything the automated reconciliation (elections + vote-bounds +
+# minutes events) cannot derive, e.g.:
+#   - an announced resignation that was never formally voted,
+#   - a death in office,
+#   - a source conflict where you have adjudicated the correct value,
+#   - a corrected appointment date once a minutes source is found (e.g. the exact
+#     Steve Perry vacate / Ruby Brown appointment dates, if PMN ever restores the
+#     purged 2017-01..2018-06 township minutes).
+#
+# Match key: (seat_id, person_key, start_date) must equal an existing tenure to patch
+# it; supplying a NEW (seat_id, person_key, start_date) triple inserts a tenure the
+# reconciliation missed.  Any non-empty column overrides the derived value; blanks are
+# ignored.  Always fill `reason` with the human justification + source.
+#
+# May legitimately contain zero data rows (as it does now — every current tenure is
+# derived from a cited source with the imprecisions documented in each row's note).
+#
+# 2026-07-19 (H-F hardening): the one data row this file carried — pinning Kelly Bush's
+# abolished-D5 end_date=2026-01-12 — is RETIRED. roster_lib.chain_end_dates() now KEEPS an
+# explicit end_date on a terminal tenure whose end_event is terminating (`seat-abolished`),
+# so the fact lives in the driver's TENURES (the curated source) and the derived output is
+# unchanged. See scripts/roster_HARDENING.md. Backup of the old row:
+# _backups/2026-07-19-lm-wave/shared-libs/kearns_city_council/roster/roster_overrides.csv
+#
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note,reason

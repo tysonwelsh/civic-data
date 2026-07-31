@@ -1,0 +1,77 @@
+{
+  "contributions": [
+    {
+      "date": "06-21-2016",
+      "name": "Reagan Outdoor Advertising",
+      "amount": "$100.00",
+      "in_kind": false
+    },
+    {
+      "date": "08-08-16",
+      "name": "Adam Berry at Political Bank",
+      "amount": "$25.00",
+      "in_kind": false
+    },
+    {
+      "date": "10-25-16",
+      "name": "Chris Geertsen loan to Self",
+      "amount": "$822.14",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "08-01-16",
+      "recipient": "Salt Lake County Clerk",
+      "purpose": "Registered Voter List",
+      "amount": "$15.00",
+      "in_kind": false
+    },
+    {
+      "date": "08-26-16",
+      "recipient": "Walmart",
+      "purpose": "Envelopes, tape, copy paper.",
+      "amount": "$10.00",
+      "in_kind": false
+    },
+    {
+      "date": "09-01-16",
+      "recipient": "Facebook Ads",
+      "purpose": "Candidate Advertisements",
+      "amount": "$107.00",
+      "in_kind": false
+    },
+    {
+      "date": "10-04-16",
+      "recipient": "Sky Mail International",
+      "purpose": "Print Flyers and postage for mailing to voters",
+      "amount": "$786.61",
+      "in_kind": false
+    },
+    {
+      "date": "10-05-16",
+      "recipient": "Facebook Ads",
+      "purpose": "Candidate Advertisements",
+      "amount": "$50.00",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "947.14",
+  "total_expenditures": "968.61",
+  "total_contributions_ytd": "1178.57",
+  "total_expenditures_ytd": "1178.57",
+  "contributions_50_or_less": null,
+  "beginning_balance": "21.47",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016november_christopher_geertsen_kearns_3.pdf",
+    "candidate": "Christopher James Geertsen",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016november_christopher_geertsen_kearns_3.pdf",
+    "pages": 4
+  },
+  "_notes": "November 1 box checked; date of report Oct. 27, 2016. Itemized pages present (page 1 of 1). Summary: L1 A=947.14/B=1178.57, L2 A=968.61/B=1178.57, L3=21.47, L5=968.61, L6=968.61, L7=0. Contributor address column redacted (blacked out)."
+}

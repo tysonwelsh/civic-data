@@ -1,0 +1,104 @@
+{
+ "date": "2024-09-09",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2024/2024-09-09/2024-09-09_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to open the Public Hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "5-0 unanimous in favor Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": 5,
+    "nays": 0,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to close the Public Hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "5-0 unanimous in favor Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": 5,
+    "nays": 0,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Resolution 2024-09-01, Approving the issuance by the Capital Trust Authority for the financing of facilities listed above",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5-0 unanimous in favor Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": 5,
+    "nays": 0,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to adjourn the meeting",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 unanimous in favor Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Patrick Schaeffer",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": 5,
+    "nays": 0,
+    "present_count": 5
+   }
+  }
+ ]
+}

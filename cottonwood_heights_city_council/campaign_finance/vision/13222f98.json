@@ -1,0 +1,25 @@
+{
+ "contributions": [
+  {"date": "Aug 12 '21", "name": "Lee Anne Walker (candidate) personal check 2768", "amount": "50.00", "in_kind": false},
+  {"date": "Oct 21, 21", "name": "Lee Anne Walker (candidate) personal credit Visa 8156", "amount": "596.00", "in_kind": false}
+ ],
+ "expenditures": [
+  {"date": "8-10-21", "recipient": "Paula Melger recorder filing fee", "purpose": null, "amount": "50.00", "in_kind": false},
+  {"date": "8-21-21", "recipient": "Fast Color Printers Inc for mail drop political postcard (used my credit card Visa 8156)", "purpose": null, "amount": "596.00", "in_kind": false},
+  {"date": "", "recipient": "Various bundled in kind", "purpose": null, "amount": "20", "in_kind": true}
+ ],
+ "total_contributions": "646.90",
+ "total_expenditures": "696.90",
+ "contributions_50_or_less": "50",
+ "beginning_balance": null,
+ "ending_balance": "0",
+ "_meta": {
+  "index_path": "raw/2021_state_lee-anne-walker-cottonwood-heights-candidate-for-district-4.pdf",
+  "candidate": "Lee Anne Walker",
+  "office": "Council",
+  "filing_type": "interim",
+  "election_year": "2021",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2021_state_lee-anne-walker-cottonwood-heights-candidate-for-district-4.pdf",
+  "pages": 3
+ }
+}

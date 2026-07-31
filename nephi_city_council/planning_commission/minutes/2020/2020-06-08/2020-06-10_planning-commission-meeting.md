@@ -1,0 +1,48 @@
+# Nephi Planning Commission Meeting — 2020-06-10
+> Source: https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_06102020-120
+> Meeting date: 2020-06-10
+> Format: text
+
+---
+
+
+Nephi City Planning Commission Meeting
+                            June 10, 2020
+Chairman Greenhalgh opened the meeting at 7:10 p.m.
+
+Opening prayer offered by Ann Peterson.
+
+Commission reviewed minutes from regular meeting held May 13, 2020. Minutes were accepted
+on a motion by Brent Arns and a second by Ann Peterson. Motion passed with a unanimous vote.
+
+Proposed amendments to zero lot line requirements and political sign requirements were discussed
+by the Commission. Public hearing was held earlier in the evening with no public comment
+received. Ann Peterson motioned recommendation to City Council the approval of proposed
+amendments. Motion was seconded by Brent Arns. Motion passed with a unanimous vote.
+
+Revised Cedar Ridge PUD Application was reviewed by Commission. Items discussed include
+drainage options, open space concerns and how to define it, development of clubhouses, pools, and
+parks within a subdivision. Karl Brough would like to add a requirement of trees to be planted
+along with a time limit for completion of front landscaping. Possibly before occupancy is permitted.
+Brent Arns offered an option might me to allow a bond for one growing season.
+
+Gardner Village was discussed by Commission. Development includes both twin homes and town
+homes, all with no basements. Fire hydrant locations, privacy fences, utilities, small turn-around,
+and lack of drainage pond were reviewed.
+
+Commission decided a July meeting will be held on the regularly scheduled week.
+
+Proposed site plan requirement revisions were discussed by Commission. These new requirements
+involve anything other than single family site plans. Chairman Greenhalgh created a Google Doc to
+allow communication with all Commission members. Karl Brough expressed his concern for lack of
+trees within the city.
+
+Noting no additional items of business, Chairman Greenhalgh adjourned the meeting at 7:50pm.
+
+
+Attendance:
+
+Glenn Greenhalgh, Chairman
+Karl Brough, Planning Commission Member
+Brent Arns, Planning Commission Member
+Ann Peterson, Alt. Planning Commission Member

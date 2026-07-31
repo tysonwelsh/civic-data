@@ -1,0 +1,128 @@
+========================================================================
+TAYLORSVILLE CITY COUNCIL — VOTE EXTRACTION VALIDATION
+========================================================================
+Meetings parsed : 150
+Motions         : 613
+By body         : Council 605, RDA 8
+Named roll-call motions : 471
+Tally-only / no-name    : 142
+Member-vote rows        : 2316
+
+Motion-type distribution:
+   Procedural/Administrative    241
+   Resolution                   96
+   Appointment                  65
+   Land-Use/Zoning              52
+   Ordinance                    47
+   Interlocal                   42
+   Budget Amendment             24
+   Contract/Purchase            21
+   Grant-Funding                13
+   Other                        12
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED VOTER ROSTER (name -> vote rows)
+  2020:
+      Curt Cochran           93
+      Ernest Burgess         93
+      Meredith Harker        93
+      Dan Armstrong          93
+      Brad Christopherson    66
+      Anna Barbieri          14
+  2021:
+      Meredith Harker        91
+      Curt Cochran           91
+      Anna Barbieri          91
+      Ernest Burgess         90
+      Dan Armstrong          71
+  2022:
+      Curt Cochran           88
+      Ernest Burgess         88
+      Bob Knudsen            88
+      Meredith Harker        88
+      Anna Barbieri          87
+  2023:
+      Anna Barbieri          75
+      Curt Cochran           75
+      Bob Knudsen            75
+      Meredith Harker        75
+      Ernest Burgess         75
+  2024:
+      Bob Knudsen            64
+      Ernest Burgess         64
+      Meredith Harker        64
+      Curt Cochran           64
+      Anna Barbieri          63
+  2025:
+      Meredith Harker        31
+      Bob Knudsen            31
+      Anna Barbieri          31
+      Curt Cochran           31
+      Ernest Burgess         29
+  2026:
+      Anna Barbieri          29
+      Bob Knudsen            29
+      Ernest Burgess         29
+      Curt Cochran           29
+      Meredith Harker        28
+
+------------------------------------------------------------------------
+CRITICAL FLAGS  (tally>5 / named>5 / mayor vote / off-roster)
+  NONE — no tally>5, no named-set>5, no mayor vote, no off-roster names.
+
+------------------------------------------------------------------------
+CHAIR MAPPING: 'Chair <Name>' resolves to that councilmember (not a 6th person).
+  Confirmed structurally: only the 7 canonical council surnames + Mayor appear as
+  voters (see off-roster check above = clean). No standalone 'Chair'/'Mayor' voter.
+
+------------------------------------------------------------------------
+NAMED-COUNT vs PRINTED-TALLY MISMATCHES (verbatim; hand-review, never auto-fixed)
+  2020-05-06 m3 Council  printed 4-0  named aye=3 non-aye=0 :: moved approve Ordinance 20-13 as presented
+  2020-05-06 m4 Council  printed 4-0  named aye=3 non-aye=0 :: moved approve Resolution 20-12, acknowledging receipt o
+  2020-05-06 m6 Council  printed 4-0  named aye=3 non-aye=0 :: moved approve Resolution 20-11, approving an Interlocal
+  2021-03-03 m2 Council  printed 3-2  named aye=2 non-aye=3 :: moved deny Resolution 21-09
+  2021-06-16 m4 Council  printed 5-0  named aye=4 non-aye=0 :: moved approve Resolution 21-22, adopting the Certified 
+  2021-06-16 m5 Council  printed 5-0  named aye=4 non-aye=0 :: moved approve Resolution 21-23, adopting a Policy Manua
+  2021-11-17 m2 Council  printed 5-0  named aye=4 non-aye=0 :: moved adopt Ordinance No. 21-17, authorizing the creati
+  2024-08-21 m2 Council  printed 5-0  named aye=4 non-aye=0 :: moved approve Resolution No. 24- 21, a Resolution of th
+  2026-03-04 m3 Council  printed 5-0  named aye=4 non-aye=0 :: moved adopt Ordinance No. 26-03, an Ordinance of the Ci
+  (9 mismatch(es) — typically an OCR-dropped name or a source typo.)
+
+------------------------------------------------------------------------
+OUTCOME-vs-COUNT CONSISTENCY (a 'Pass' whose ayes don't beat nays, etc.)
+  NONE — outcomes consistent with the named roll call (or printed tally).
+
+------------------------------------------------------------------------
+SEATED-SIZE CHECK (named roll calls whose seated voters != 5 — vacancy or parse miss)
+  39 named motion(s) with seated != 5 (expected: legitimate 4-0/3-0 quorums when members are excused, plus any OCR-dropped name — cross-check with mismatches).
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — THE ANALYTICAL SIGNAL
+  count: 12
+  2020-06-17 m5 Council [4-1 Pass] Nay=['Meredith Harker'] Abstain=[] Recuse=[]
+        moved deny Ordinance No. 20-14
+  2021-01-06 m6 Council [4-1 Pass] Nay=['Dan Armstrong'] Abstain=[] Recuse=[]
+        moved approve Resolution 21-04, consenting to a ninth extension of the local sta
+  2021-03-03 m2 Council [3-2 Fail] Nay=['Ernest Burgess', 'Anna Barbieri', 'Curt Cochran'] Abstain=[] Recuse=[]
+        moved deny Resolution 21-09
+  2021-03-03 m4 Council [3-2 Pass] Nay=['Dan Armstrong', 'Meredith Harker'] Abstain=[] Recuse=[]
+        moved approve Resolution 21-09, extending the Local State of Emergency due to CO
+  2021-04-21 m4 Council [4-1 Pass] Nay=['Dan Armstrong'] Abstain=[] Recuse=[]
+        moved deny Ordinance No. 21-03
+  2021-04-21 m5 Council [4-1 Pass] Nay=['Dan Armstrong'] Abstain=[] Recuse=[]
+        moved deny Ordinance No. 21-04
+  2022-05-04 m1 Council [4-1 Pass] Nay=['Curt Cochran'] Abstain=[] Recuse=[]
+        moved adopt the same map that was tentatively accepted at the previous council m
+  2022-05-04 m2 Council [4-1 Pass] Nay=['Curt Cochran'] Abstain=[] Recuse=[]
+        moved approve Resolution 22-11 as presented
+  2022-06-15 m3 Council [3-1 Pass] Nay=['Meredith Harker'] Abstain=[] Recuse=[]
+        moved deny Ordinance No. 22-07, a Zoning Map Amendment for the property located 
+  2023-06-07 m3 Council [4-1 Pass] Nay=['Curt Cochran'] Abstain=[] Recuse=[]
+        moved adopt Ordinance No. 23- 07, an ordinance of the City of Taylorsville appro
+  2023-06-21 m6 Council [4-1 Pass] Nay=['Anna Barbieri'] Abstain=[] Recuse=[]
+        moved approve Ordinance No. 23-08, approving a Zoning Text Amendment to Taylorsv
+  2024-06-05 m2 Council [4-1 Pass] Nay=['Bob Knudsen'] Abstain=[] Recuse=[]
+        moved approve Resolution No. 24- 12, Adopting a Final Budget for FY2024- 2025 be
+
+========================================================================
+END REPORT

@@ -1,0 +1,41 @@
+{
+  "contributions": [
+    {"date": "12/01/2023", "name": "Shaun Myers", "amount": "5,000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/30/2023", "recipient": "Consolidated Direct Mail", "purpose": "Mailers", "amount": "2,465.15", "in_kind": false},
+    {"date": "11/10/2023", "recipient": "Consolidated Direct Mail", "purpose": "Mailers", "amount": "2,465.15", "in_kind": false},
+    {"date": "12/05/2023", "recipient": "Dailey Solutions LLC", "purpose": "Campaign Management", "amount": "4,500.00", "in_kind": false},
+    {"date": "12/02/2023", "recipient": "Rate Now", "purpose": "MSM Messages", "amount": "350.00", "in_kind": false}
+  ],
+  "contribution_totals": ["0", "5,000.00"],
+  "expenditure_totals": ["4,930.30", "4,850.00"],
+  "cover_totals": {
+    "p2_summary_nov14_2023_filing": {
+      "balance_carried_forward": "5,576.53",
+      "contributions_50_or_less": "0",
+      "contributions_over_50": "0",
+      "total_contributions": "0",
+      "total_expenditures": "4,930.30",
+      "ending_balance": "646.23"
+    },
+    "p6_summary_dec21_2023_filing": {
+      "balance_carried_forward": "646.23",
+      "contributions_50_or_less": null,
+      "contributions_over_50": "5,000.00",
+      "total_contributions": "5,000.00",
+      "total_expenditures": "4,850.00",
+      "ending_balance": "796.23"
+    },
+    "p10_summary_oct24_2023_filing": {
+      "balance_carried_forward": "3,276.53",
+      "contributions_50_or_less": "50.00",
+      "number_of_contributors_50_or_less": "1",
+      "contributions_over_50": "2,250.00",
+      "total_contributions": "2,300.00",
+      "total_expenditures": "0",
+      "ending_balance": "5,576.53"
+    }
+  },
+  "notes": "Combined PDF; pages 1-10 span THREE separate Ogden Financial Disclosure Report filings for Shaun Myers 2023, in reverse-chronological order: (1) Nov 14, 2023 report = pp1-4 (p1 cover signed 11/14/2023, p2 summary, p3 Attachment A blank with handwritten slashed-zero TOTAL, p4 Attachment B with 2 rows); (2) Dec 21, 2023 report = pp5-8 (p5 cover signed 12/20/2023, p6 summary, p7 Attachment A 1 row, p8 Attachment B 2 rows); (3) Oct 24, 2023 report = pp9-10 (p9 cover signed 10/24/23, p10 summary) -- p10 ends after the summary sheet, so the Oct 24 filing's Attachment A/B schedules continue past page 10 (RANGE ENDS MID-FILING; its contribution/expenditure rows and schedule totals are NOT in this partial). Handwritten zeros appear as a slashed-zero glyph; transcribed as '0'. contribution_totals in page order: p3 Attachment A TOTAL '0' (Nov filing), p7 Attachment A TOTAL '5,000.00' (Dec filing). expenditure_totals in page order: p4 TOTAL '4,930.30' (Nov filing), p8 TOTAL '4,850.00' (Dec filing). Contribution detail: 12/01/2023 Shaun Myers, 1633 28th St., Ogden, UT 84403, purpose column reads 'Transfer for Bills.' (self-funding). Expenditure addresses: Consolidated Direct Mail = 2550 S. Decker Lake Blvd #18, SLC, UT 84119 (both rows); Dailey Solutions LLC = 234 W. 350 S., American Fork, UT 84403 (ZIP 84403 as written, preserved verbatim even though it is an Ogden-area ZIP); Rate Now = PO Box 785, Centerville, UT 84014. 'Rate Now' letterforms could also read 'Rale Now'; 'MSM Messages' preserved as written (possibly means SMS/MMS messages). p6 line-6 ending balance read as '796.23' -- the writer's looping 6 glyph matches the 6s in '646.23' and '5,576.53'. Forms have no in-kind column; in_kind set false for all rows. No per-page subtotals present."
+}

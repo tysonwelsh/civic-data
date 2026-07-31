@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "11/16/2021", "name": "Calvin Nakamura", "amount": "250.00", "in_kind": false},
+    {"date": "11/16/2021", "name": "Tim Richardson", "amount": "1,000.00", "in_kind": false},
+    {"date": "11/16/2021", "name": "Adam Hock", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Jann Cox", "amount": "77.02", "in_kind": true},
+    {"date": null, "name": "Cal Nakamura", "amount": "95.00", "in_kind": true},
+    {"date": null, "name": "TownePlace Suites", "amount": "375.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Cindy Hales", "purpose": "election Night Results Food", "amount": "590.19", "in_kind": false},
+    {"date": null, "recipient": "Wix-Com", "purpose": "website", "amount": "24.66", "in_kind": false}
+  ],
+  "total_contributions": "1,350.00",
+  "total_expenditures": "614.85",
+  "contributions_50_or_less": null,
+  "beginning_balance": "5,989.56",
+  "ending_balance": "6,724.71",
+  "_meta": {
+    "index_path": "raw/202112_Brett-A-Hales_12630.pdf",
+    "candidate": "Brett A. Hales",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202112_Brett-A-Hales_12630.pdf",
+    "pages": 6
+  }
+}

@@ -1,0 +1,63 @@
+{
+ "date": "2024-05-23",
+ "year": 2024,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-05-20/2024-05-23_planning-commission-meeting.md",
+ "present": [
+  "Sara Doutre",
+  "Roylan Croshaw",
+  "David Lewis",
+  "Eldon Peterson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Croshaw made a motion to approve all items listed under the Consent Agenda. Commissioner Lewis seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "4:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Roylan Croshaw",
+   "seconder": "David Lewis",
+   "aye": [
+    "Sara Doutre",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "4-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Peterson made a motion to deny a conditional use permit for PC 24-021 with the findings for denial as listed below. Commissioner Croshaw seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "4:0 Denied (Final Action)",
+   "kind": "final_action",
+   "mover": "Eldon Peterson",
+   "seconder": "Roylan Croshaw",
+   "aye": [
+    "Sara Doutre",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "4-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  }
+ ]
+}

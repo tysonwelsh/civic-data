@@ -1,0 +1,200 @@
+{
+ "config": {
+  "contest": "Lehi City Council",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "5182"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "AARON BULLEN": 1134.0,
+    "CAMI PURTSCHERT": 1003.0,
+    "CHRIS CONDIE": 2300.0,
+    "ETHAN M. ERICKSON": 355.0,
+    "LORI MCINTOSH LE": 1108.0,
+    "MICHELLE MILES": 1376.0,
+    "MONTANE C HAMILTON": 524.0,
+    "NICOLE KUNZE": 1291.0,
+    "PAUL HANCOCK": 1811.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "ETHAN M. ERICKSON",
+     "transfers": {
+      "AARON BULLEN": 78.0,
+      "CAMI PURTSCHERT": 72.0,
+      "CHRIS CONDIE": 43.0,
+      "LORI MCINTOSH LE": 16.0,
+      "MICHELLE MILES": 55.0,
+      "MONTANE C HAMILTON": 17.0,
+      "NICOLE KUNZE": 35.0,
+      "PAUL HANCOCK": 19.0,
+      "Inactive Ballots": 20.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "AARON BULLEN": 1212.0,
+    "CAMI PURTSCHERT": 1075.0,
+    "CHRIS CONDIE": 2343.0,
+    "LORI MCINTOSH LE": 1124.0,
+    "MICHELLE MILES": 1431.0,
+    "MONTANE C HAMILTON": 541.0,
+    "NICOLE KUNZE": 1326.0,
+    "PAUL HANCOCK": 1830.0,
+    "Inactive Ballots": 20.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "MONTANE C HAMILTON",
+     "transfers": {
+      "AARON BULLEN": 43.0,
+      "CAMI PURTSCHERT": 83.0,
+      "CHRIS CONDIE": 66.0,
+      "LORI MCINTOSH LE": 112.0,
+      "MICHELLE MILES": 68.0,
+      "NICOLE KUNZE": 68.0,
+      "PAUL HANCOCK": 96.0,
+      "Inactive Ballots": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "AARON BULLEN": 1255.0,
+    "CAMI PURTSCHERT": 1158.0,
+    "CHRIS CONDIE": 2409.0,
+    "LORI MCINTOSH LE": 1236.0,
+    "MICHELLE MILES": 1499.0,
+    "NICOLE KUNZE": 1394.0,
+    "PAUL HANCOCK": 1926.0,
+    "Inactive Ballots": 25.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CAMI PURTSCHERT",
+     "transfers": {
+      "AARON BULLEN": 203.0,
+      "CHRIS CONDIE": 168.0,
+      "LORI MCINTOSH LE": 194.0,
+      "MICHELLE MILES": 160.0,
+      "NICOLE KUNZE": 281.0,
+      "PAUL HANCOCK": 109.0,
+      "Inactive Ballots": 43.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "AARON BULLEN": 1458.0,
+    "CHRIS CONDIE": 2577.0,
+    "LORI MCINTOSH LE": 1430.0,
+    "MICHELLE MILES": 1659.0,
+    "NICOLE KUNZE": 1675.0,
+    "PAUL HANCOCK": 2035.0,
+    "Inactive Ballots": 68.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "LORI MCINTOSH LE",
+     "transfers": {
+      "AARON BULLEN": 123.0,
+      "CHRIS CONDIE": 256.0,
+      "MICHELLE MILES": 273.0,
+      "NICOLE KUNZE": 382.0,
+      "PAUL HANCOCK": 349.0,
+      "Inactive Ballots": 47.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "AARON BULLEN": 1581.0,
+    "CHRIS CONDIE": 2833.0,
+    "MICHELLE MILES": 1932.0,
+    "NICOLE KUNZE": 2057.0,
+    "PAUL HANCOCK": 2384.0,
+    "Inactive Ballots": 115.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "AARON BULLEN",
+     "transfers": {
+      "CHRIS CONDIE": 245.0,
+      "MICHELLE MILES": 793.0,
+      "NICOLE KUNZE": 245.0,
+      "PAUL HANCOCK": 161.0,
+      "Inactive Ballots": 137.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "CHRIS CONDIE": 3078.0,
+    "MICHELLE MILES": 2725.0,
+    "NICOLE KUNZE": 2302.0,
+    "PAUL HANCOCK": 2545.0,
+    "Inactive Ballots": 252.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "NICOLE KUNZE",
+     "transfers": {
+      "CHRIS CONDIE": 810.0,
+      "MICHELLE MILES": 730.0,
+      "PAUL HANCOCK": 659.0,
+      "Inactive Ballots": 103.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "tally": {
+    "CHRIS CONDIE": 3888.0,
+    "MICHELLE MILES": 3455.0,
+    "PAUL HANCOCK": 3204.0,
+    "Inactive Ballots": 355.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "PAUL HANCOCK",
+     "transfers": {
+      "CHRIS CONDIE": 2279.0,
+      "MICHELLE MILES": 740.0,
+      "Inactive Ballots": 185.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 8,
+   "tally": {
+    "CHRIS CONDIE": 6167.0,
+    "MICHELLE MILES": 4195.0,
+    "Inactive Ballots": 540.0
+   },
+   "tallyResults": [
+    {
+     "elected": "CHRIS CONDIE",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

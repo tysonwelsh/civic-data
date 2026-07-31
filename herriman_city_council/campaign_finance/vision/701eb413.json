@@ -1,0 +1,49 @@
+{
+  "contributions": [
+    {"date": "6/6/2023", "name": "Matt Bello", "amount": "1000.00", "in_kind": false},
+    {"date": "6/9/2023", "name": "Jocelyn Bello", "amount": "100.00", "in_kind": false},
+    {"date": "9/25/2023", "name": "Catherine Voutaz", "amount": "100.00", "in_kind": false},
+    {"date": "9/30/2023", "name": "Karen Granato", "amount": "500.00", "in_kind": false},
+    {"date": "10/5/2023", "name": "Miles Pomeroy", "amount": "100.00", "in_kind": false},
+    {"date": "10/5/2023", "name": "Marisa Bradshaw", "amount": "100.00", "in_kind": false},
+    {"date": "10/5/2023", "name": "Angela Abad", "amount": "4.00", "in_kind": false},
+    {"date": "10/5/2023", "name": "Mark Reutzel", "amount": "20.00", "in_kind": false},
+    {"date": "10/8/2023", "name": "Leota Pearson", "amount": "25.00", "in_kind": false},
+    {"date": "10/9/2023", "name": "Nate Leon", "amount": "4.00", "in_kind": false},
+    {"date": "10/10/2023", "name": "Anthony Valencia", "amount": "10.00", "in_kind": false},
+    {"date": "10/12/2023", "name": "Katrine Shelton Judd", "amount": "4.00", "in_kind": false},
+    {"date": "10/13/2023", "name": "Julie Holbrook", "amount": "4.00", "in_kind": false},
+    {"date": "10/14/2023", "name": "Mitchell Burt", "amount": "4.00", "in_kind": false},
+    {"date": "10/14/2023", "name": "T Scott Brandon", "amount": "4.00", "in_kind": false},
+    {"date": "10/14/2023", "name": "Ryan Brooks", "amount": "24.00", "in_kind": false},
+    {"date": "10/15/2023", "name": "Stephanie Kearns", "amount": "10.00", "in_kind": false},
+    {"date": "10/18/2023", "name": "Bank Interest Income", "amount": "0.65", "in_kind": false},
+    {"date": "9/20/2023", "name": "Matt Bello", "amount": null, "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "6/19/2023", "recipient": "Bannersonthecheap.com", "purpose": "Campaign banner", "amount": "60.17", "in_kind": false},
+    {"date": "8/11/2023", "recipient": "Salt Lake County", "purpose": "Voting mailing list", "amount": "15.00", "in_kind": false},
+    {"date": "8/26/2023", "recipient": "Godaddy", "purpose": "Website domain", "amount": "42.32", "in_kind": false},
+    {"date": "9/4/2023", "recipient": "Site123", "purpose": "Website hosting", "amount": "96.00", "in_kind": false},
+    {"date": "9/5/2023", "recipient": "Signsonthecheap.com", "purpose": "4 large signs and 30 small signs", "amount": "738.00", "in_kind": false},
+    {"date": "9/16/2023", "recipient": "Bannersonthecheap.com", "purpose": "Campaign banner", "amount": "54.16", "in_kind": false},
+    {"date": "10/4/2023", "recipient": "My Creative Shop", "purpose": "Door hangers", "amount": "426.93", "in_kind": false},
+    {"date": "10/13/2023", "recipient": "Signsonthecheap.com", "purpose": "More campaign signs", "amount": "327.78", "in_kind": false},
+    {"date": "6/5/23", "recipient": "Herriman City", "purpose": "Election Fee", "amount": "25.00", "in_kind": false}
+  ],
+  "total_contributions": "2013.65",
+  "total_expenditures": "1785.36",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "227.64",
+  "_meta": {
+    "index_path": "raw/4017_Amended-Financial-Disclosure.pdf",
+    "candidate": "Matt Bello",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/4017_Amended-Financial-Disclosure.pdf",
+    "pages": 6,
+    "notes": "AMENDED General Election report (District 4, box checked 'For Candidates not in the Municipal Primary Election - October 24, 2023'). Handwritten annotation next to the report-type box: '* Amended to break out Venmo donations under $50' with initials 'MB' and date '11/8/23'. Report Verification signature date shows an original '10/22/23' struck through and corrected to '11/8/23' (initialed MB). Schedule A spans two pages (page 2 subtotal 1979.00; page 3 subtotal 34.65) totaling 2013.65; one Schedule A row is 'Bank Interest Income' 0.65 (10/18/2023, recorded as a contribution as printed). Schedule C (page 6) lists one in-kind contribution: 9/20/2023, Matt Bello, 'Sign supplies' (no dollar amount printed -> amount=null, in_kind=true). Verbatim source oddity preserved: Summary Page Column B '= Subtotal' (line 5) prints 2013.00 (inconsistent with the 2013.65 total-contributions figure) - clerk arithmetic, not corrected here; ending_balance 227.64 taken from Column B Balance at Close. Cover totals recorded verbatim (2013.65 / 1785.36, printed without commas)."
+  }
+}

@@ -1,0 +1,39 @@
+# civic-data — Python dependencies (inventoried from actual imports, 2026-07-02;
+# REMEDIATION_PLAN.md 3.4). The core pipeline (extract_votes.py, build_db.py,
+# build_weeks.py, build_referrals.py, normalize_motions.py, validate_city.py,
+# screen_corpus.py) is deliberately STDLIB-ONLY — nothing below is needed to
+# query, validate, or regenerate the derived layers of existing cities.
+#
+# Versions are the ones installed and verified working 2026-07-02 (python 3.11.5,
+# anaconda). Pins are ">=" floors, not exact locks.
+#
+# ---- LLM extraction (SLC only) ----
+anthropic>=0.51.0        # slc_city_council/meeting_minutes/extract_votes.py (Batch API vote
+                         # extraction) + slc_city_council/public_comments/vision_extract.py
+                         # (vision comment extraction). Needs ANTHROPIC_API_KEY — see SETUP.md.
+
+# ---- PDF rendering for vision extraction (SLC comments) ----
+pypdfium2>=5.6.0         # slc_city_council/public_comments/vision_extract.py — renders PDF
+                         # pages to images for the vision model
+pillow>=10.4.0           # same script (PIL.Image) — image resize/encode before upload
+
+# ---- Scraping (SLC minutes) ----
+markdownify>=1.2.2       # slc_city_council/meeting_minutes/scrape_primegov.py — HTML→markdown
+
+# ---- Polite fetching (expand-city-sources skill) ----
+requests>=2.32.3         # .claude/skills/expand-city-sources/scripts/polite_fetch.py
+                         # (rate-limited fetcher; exits with a clear message if missing)
+
+# ---- Geo (all 13 cities: geo/address_to_district.py + geo/build_precinct_district_map.py) ----
+geopandas>=0.14.2        # precinct GeoJSON loading + spatial join (lazy-imported, so the
+                         # geo tools are the only scripts that need it)
+shapely>=2.0.5           # Point-in-polygon for address→district lookup
+
+# ---- Optional (fallbacks, not imported by any live repo script) ----
+# pypdf>=6.14.2          # audit-skill ground-truthing fallback when poppler's pdftotext
+#                        # is unavailable (see .claude/skills/audit-city-data/SKILL.md)
+
+# ---- System (non-pip) tools — install via Homebrew / conda, see SETUP.md ----
+#   poppler   -> pdftotext (born-digital PDF text; ground-truth diffs; several extractors)
+#                pdftoppm  (renders scanned PDFs to images for OCR)
+#   tesseract -> OCR engine for scanned/image-only minutes (Ogden 2022 re-OCR used 5.5.0)

@@ -1,0 +1,46 @@
+{
+  "contributions": [
+    {"date": null, "name": "Realtor Association", "amount": "1,000", "in_kind": false},
+    {"date": null, "name": "Stefan Spellman", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Jon Rowe", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Samatha Smith", "amount": "75", "in_kind": false},
+    {"date": null, "name": "Zach Robinson", "amount": "150", "in_kind": false},
+    {"date": null, "name": "David Hall", "amount": "250", "in_kind": false},
+    {"date": null, "name": "Jeff McGill", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Arne Carter", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Dustin Gettel", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Britta Mansfield", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Suzanne Walker", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Clifford Blair", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Women's Democratic", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Heidi Robinson", "amount": "35", "in_kind": false},
+    {"date": null, "name": "Joel Helquist", "amount": "25", "in_kind": false},
+    {"date": null, "name": "Jessica Bezznat", "amount": "10", "in_kind": false},
+    {"date": null, "name": "Collin Loescher", "amount": "22", "in_kind": false},
+    {"date": null, "name": "Caroline Ellis", "amount": "40", "in_kind": false},
+    {"date": null, "name": "Shane Earl", "amount": "25", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": null, "purpose": "Shirts", "amount": "370", "in_kind": false},
+    {"date": null, "recipient": null, "purpose": "Signs", "amount": "435", "in_kind": false},
+    {"date": null, "recipient": "Fiverr Design Works", "purpose": null, "amount": "105", "in_kind": false},
+    {"date": null, "recipient": null, "purpose": "Flyers", "amount": "509", "in_kind": false},
+    {"date": null, "recipient": null, "purpose": "Candy for event", "amount": "120", "in_kind": false},
+    {"date": null, "recipient": null, "purpose": "Compliance Stickers", "amount": "150", "in_kind": false},
+    {"date": null, "recipient": null, "purpose": "Bracelets", "amount": "120", "in_kind": false}
+  ],
+  "total_contributions": "2332.00",
+  "total_expenditures": "1809",
+  "contributions_50_or_less": "157",
+  "beginning_balance": "0",
+  "ending_balance": "523",
+  "_meta": {
+    "index_path": "raw/2025_07_Bryant-Brown.pdf",
+    "candidate": "Bryant Brown",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_07_Bryant-Brown.pdf",
+    "pages": 6
+  }
+}

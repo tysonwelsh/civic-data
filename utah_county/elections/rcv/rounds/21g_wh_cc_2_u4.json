@@ -1,0 +1,44 @@
+{
+ "config": {
+  "contest": "Woodland Hills City Council",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "304"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "CODY CHAMBERLAIN": 152.0,
+    "DOREL B. KYNASTON": 257.0,
+    "TOBY M. HARDING": 219.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CODY CHAMBERLAIN",
+     "transfers": {
+      "DOREL B. KYNASTON": 100.0,
+      "TOBY M. HARDING": 31.0,
+      "Inactive Ballots": 21.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "DOREL B. KYNASTON": 357.0,
+    "TOBY M. HARDING": 250.0,
+    "Inactive Ballots": 21.0
+   },
+   "tallyResults": [
+    {
+     "elected": "DOREL B. KYNASTON",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

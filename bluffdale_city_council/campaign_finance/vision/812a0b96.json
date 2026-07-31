@@ -1,0 +1,19 @@
+{
+  "contributions": [
+    {"date": null, "name": "Jeff Steele", "amount": "239.06", "in_kind": false},
+    {"date": null, "name": "Lisanne Steele", "amount": "150.00", "in_kind": false},
+    {"date": null, "name": "Terri Summers", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Dan Hardle", "amount": "1500", "in_kind": false},
+    {"date": null, "name": "David Berger", "amount": "1000", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Robocent", "purpose": null, "amount": "898.62", "in_kind": false},
+    {"date": null, "recipient": "Renaissance Signs", "purpose": null, "amount": "331.25", "in_kind": false},
+    {"date": null, "recipient": "Utah GOP data services", "purpose": null, "amount": "106.60", "in_kind": false},
+    {"date": null, "recipient": "Wix", "purpose": null, "amount": "36.06", "in_kind": false},
+    {"date": null, "recipient": "Smiths", "purpose": null, "amount": "33.16", "in_kind": false},
+    {"date": null, "recipient": "Winco", "purpose": null, "amount": "46.78", "in_kind": false},
+    {"date": null, "recipient": "Walmart", "purpose": null, "amount": "16.43", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "2989.06", "total_expenditures": "1468.93"}
+}

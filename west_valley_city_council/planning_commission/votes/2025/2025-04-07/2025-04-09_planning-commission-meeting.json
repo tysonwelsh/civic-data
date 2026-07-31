@@ -1,0 +1,91 @@
+{
+ "date": "2025-04-09",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Darrick Porter",
+  "Harold Woodruff",
+  "Martell Winters",
+  "Nancy Drozdek",
+  "Pauline Matagi",
+  "Renee Layton",
+  "Rob Durfee"
+ ],
+ "source": "minutes/2025/2025-04-07/2025-04-09_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve ZT-1-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Zone Text Amendment",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 7:0",
+   "result_source": "UNANIMOUS—ZT-1-2025--APPROVED",
+   "outcome_word": "approved",
+   "mover": "Darrick Porter",
+   "seconder": "Harold Woodruff",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 7,
+    "nays": 0,
+    "source": "UNANIMOUS—ZT-1-2025--APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve C-5-2025 subject to conditions (a) through (h)",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "5:2 Approved (Final Action)",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "Darrick Porter",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": true,
+   "aye": [
+    "Darrick Porter",
+    "Harold Woodruff",
+    "Martell Winters",
+    "Nancy Drozdek",
+    "Pauline Matagi"
+   ],
+   "nay": [
+    "Renee Layton",
+    "Rob Durfee"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "7:0 Pass",
+   "result_source": "all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Harold Woodruff",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 7,
+    "nays": 0,
+    "source": "all members voted in favor of the motion."
+   }
+  }
+ ]
+}

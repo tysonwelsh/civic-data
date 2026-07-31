@@ -1,0 +1,94 @@
+{
+ "date": "2023-10-03",
+ "year": 2023,
+ "title": "City Council",
+ "source": "minutes/2023/2023-10-02/2023-10-03_city-council.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "Councilmember T. Lowery moved to approve the Consent Items",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "mover": "Councilmember T. Lowery",
+   "seconder": "Councilmember Green",
+   "aye": [
+    "Councilmember Green",
+    "Councilmember T. Lowery",
+    "Councilmember F. Lowry",
+    "Councilmember Roberts",
+    "Councilmember Vawdrey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    5,
+    0
+   ],
+   "mayor_voted": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "Councilmember F. Lowry moved to approve Ordinance #1588",
+   "motion_type": "Ordinance",
+   "result": "Unanimous (voice/tally-only)",
+   "mover": "Councilmember F. Lowry",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "Councilmember Vawdrey moved to approve Ordinance #1588 with an amendment to include language stating that multi-use trails be used only as connectors between existing trails, and not encouraged to be built in the future",
+   "motion_type": "Ordinance",
+   "result": "5-0 Pass",
+   "mover": "Councilmember Vawdrey",
+   "seconder": "Councilmember T. Lowery",
+   "aye": [
+    "Councilmember Green",
+    "Councilmember T. Lowery",
+    "Councilmember F. Lowry",
+    "Councilmember Roberts",
+    "Councilmember Vawdrey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    5,
+    0
+   ],
+   "mayor_voted": false,
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "Councilmember Green moved to adjourn the meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice/tally-only)",
+   "mover": "Councilmember Green",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "motion_no": 4
+  }
+ ]
+}

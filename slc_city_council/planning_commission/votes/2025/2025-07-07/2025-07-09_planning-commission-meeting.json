@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "date": "2025-07-09",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7771451&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-07-07/2025-07-09_planning-commission-meeting.md",
+    "present": [
+      "Aimee Burrows",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Mike Vela",
+      "Jeffrey Barrett",
+      "Lilah Rosenfield",
+      "Brian Scott"
+    ],
+    "absent": [
+      "Landon Kraczek",
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve meeting minutes",
+      "description": "approve meeting minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "Mike Vela",
+      "result": "7:0 Pass",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Brian Scott",
+        "Jeffrey Barrett",
+        "Lilah Rosenfield",
+        "Mike Christensen",
+        "Mike Vela",
+        "Richard Leverett"
+      ],
+      "nay": [],
+      "abstain": [
+        "Aimee Burrows"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend approval to City Council",
+      "description": "recommend approval to City Council",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Lilah Rosenfield",
+      "seconder": "Richard Leverett",
+      "result": "Negative recommendation 3:5",
+      "tally": {
+        "yes": 3,
+        "no": 5,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Mike Vela",
+        "Lilah Rosenfield"
+      ],
+      "nay": [
+        "Mike Christensen",
+        "Brian Scott",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Jeffrey Barrett"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "(motion text not captured)",
+      "description": "",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "",
+      "seconder": "",
+      "result": "Positive recommendation 5:3",
+      "tally": {
+        "yes": 5,
+        "no": 3,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Aimee Burrows",
+        "Mike Christensen",
+        "Brian Scott",
+        "Amy Barry",
+        "Jeffrey Barrett"
+      ],
+      "nay": [
+        "Lilah Rosenfield",
+        "Mike Vela",
+        "Richard Leverett"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend approval of Street Vacation to City Council",
+      "description": "recommend approval of Street Vacation to City Council",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Brian Scott",
+      "result": "Positive recommendation 6:1",
+      "tally": {
+        "yes": 6,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jeffrey Barrett",
+        "Lilah Rosenfield",
+        "Richard Leverett",
+        "Mike Christensen",
+        "Brian Scott",
+        "Aimee Burrows"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend approval for the Alley Vacation to City Council",
+      "description": "recommend approval for the Alley Vacation to City Council",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Mike Vela",
+      "result": "Positive recommendation 4:3",
+      "tally": {
+        "yes": 4,
+        "no": 3,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Mike Christensen",
+        "Jeffrey Barrett",
+        "Lilah Rosenfield"
+      ],
+      "nay": [
+        "Brian Scott",
+        "Richard Leverett",
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

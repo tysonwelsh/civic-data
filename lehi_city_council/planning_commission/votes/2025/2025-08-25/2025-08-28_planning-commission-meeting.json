@@ -1,0 +1,178 @@
+{
+ "date": "2025-08-28",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2025/2025-08-25/2025-08-28_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Gregory Jackson",
+  "Brent Everett",
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Emily Lockhart",
+  "Ken Roberts",
+  "Beau Jones"
+ ],
+ "members_absent": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Everett moved to approve the minutes as presented. Commissioner Eyre seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Brent Everett",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and recommendation of AWA Engineering’s request for review of the Maverik Zone Change located at 520 West Main Street, changing the zoning on 0.72 acres from Mixed Use to Commercial",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Nicole Kunze",
+   "seconder": "Emily Lockhart",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and consideration of Holden Rockwell’s request for conditional use approval of the Skull Valley Flag Lot located at 208 East 200 South.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Emily Lockhart",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and recommendation of Fox Brother Properties’ request for review of an amendment to the Grant’s Corner Development Agreement allowing automotive accessories installation and service.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Brent Everett",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Emily Lockhart",
+    "Brent Everett",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public hearing and recommendation of Bob Perdue’s request for review of the Water’s Edge General Plan Amendment on approximately 13.02 acres located at approximately 1300 East 175 South, changing the land use designation from Commercial to Mixed-Use.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation FAILED 2:3",
+   "mover": "Brent Everett",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Tyson Eyre"
+   ],
+   "nay": [
+    "Emily Lockhart",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Fail",
+   "printed_tally": [
+    2,
+    3
+   ]
+  },
+  {
+   "motion_no": 6,
+   "motion": "Public hearing and recommendation of Bob Perdue’s request for review of the Water’s Edge General Plan Amendment on approximately 13.02 acres located at approximately 1300 East 175 South, changing the land use designation from Commercial to Mixed-Use.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation 4:1",
+   "mover": "Emily Lockhart",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Brent Everett"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  }
+ ]
+}

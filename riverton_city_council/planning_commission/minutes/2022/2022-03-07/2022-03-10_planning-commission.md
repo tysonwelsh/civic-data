@@ -1,0 +1,401 @@
+# Riverton Planning Commission Meeting — 2022-03-10
+> Source: https://www.utah.gov/pmn/files/836493.pdf
+> Meeting date: 2022-03-10
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/740455.html
+> Format: text
+
+Approved: PC 4.14.22
+
+                      RIVERTON CITY PLANNING COMMISSION
+                               MEETING MINUTES
+                                MARCH 10, 2022
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                   Staff:
+
+Shelly Cluff, Chair                            Tim Prestwich, City Planner
+Keith Breinholt                                Ryan Carter, City Attorney
+Gary Cannon
+Evan Matheson
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Shelly Cluff called the meeting to order at approximately 6:30 p.m. Commissioner
+Rushton led the Pledge of Allegiance.
+
+2.     PUBLIC HEARING ITEMS
+
+       A.     REZONE, “PERRY REZONE”, REZONE OF APPROXIMATELY 3.79-
+              ACRES AT 4623 WEST 12600 SOUTH. APPLICANT- MICHAEL PERRY.
+
+Chair Cluff opened the public hearing.
+
+City Planner, Tim Prestwich presented the staff report and stated the proposed rezone
+application will be a legislative action. The Commission will make a recommendation to the
+City Council who will make the final decision. Notices were sent to neighbors within 1,000
+feet of the property. There were no comments submitted to staff. The 3.79-acre subject
+property is located on the corner of 4570 West and 12600 South.
+
+The applicant, Michael Perry, was present on behalf of Perry LHP Investments, which is
+connected to Perry Homes. It was reported that the Perry Group developed the Western
+Springs Development in the early 2000s. All of the homes in the development are built out,
+but the commercial area in the front of the property remains vacant. When the subject
+property was originally proposed as part of the Western Springs Development Master Plan,
+it was designated as S-P Commercial. The S-P or Community Commercial zoning crosses
+12600 South and includes all of the downtown area, the crossroads of 2700 West and 12600
+South, the commercial component at the entrance to the City on Redwood Road, and the
+commercial development south to Bluffdale. Mr. Prestwich described the various types of
+commercial uses in the area on a map displayed.
+
+The General Plan denotes what the City intended for the area or what the City would accept
+for zoning. The Zoning Plan shows what the actual zones are and what rules apply to those
+zones. He stated that the subject parcel is part of the Western Springs Specific Plan.
+Riverton City Planning Commission Meeting                                                2
+March 10, 2022
+
+
+Mr. Prestwich shared the history of the zoning map and identified the various commercial
+uses in the area and the S-P Commercial Zoning. From the General Plan, Community
+Commercial zoning changed to C-G (Commercial Gateway) and C-N (Neighborhood
+Commercial) zoning, with some C-PO (Professional Office Commercial) mixed in. He
+indicated that C-G Zoning is appropriate for the General Plan and the proposed area, which
+is what the applicant was requesting. He presented the original concept plan and stated
+that it ended up being fairly close to what was built.
+
+The zoning ordinance within the Western Springs Development Plan specifies that the
+Neighborhood Commercial area shall be developed under the regulations set forth in the
+Riverton City Zoning Ordinance, Neighborhood Commercial Zone. C-N is the most
+restrictive and difficult to develop under, while C-G has more available uses. The subject
+property qualifies for C-G zoning, which was intended for uses along entrances into the City.
+
+Mr. Perry reported that Perry Commercial is a sister company to Perry Homes. They do not
+know what type of business will be coming into the commercial area, but by rezoning, they
+hope to broaden what is possible. Perry Commercial will be building, holding, and leasing
+the buildings long-term.
+
+Commissioner Rushton stated that Perry Homes was the original developer of the project
+and they have remained invested and involved in the area during that time.
+
+There were no further public comments. Chair Cluff closed the public hearing.
+
+Commissioner Cannon moved that the Planning Commission recommend
+APPROVAL of Application PLZ-22-4002, for 3.79-acres at 4623 West 12600 South,
+proposed Rezone to Commercial Gateway (C-G) Zone, consistent with the provisions
+of the Western Springs Specific Plan. Commissioner Breinholt seconded the motion.
+The motion passed with the unanimous consent of the Commission.
+
+       B.     MINOR SUBDIVISION, “KENLOR SUBDIVISION”, TO BE LOCATED AT
+              13244 SOUTH 1300 WEST. APPLICANT-KENT AND LORI DENNY.
+
+Chair Cluff opened the public hearing.
+
+Mr. Prestwich presented the staff report and stated that the application involves dividing one
+lot into two. It is located on 13200 South just east of the Cemetery on the south side of the
+road. A few years ago the City made improvements on 13200 South, and this property has
+frontage on 1300 West. He showed the subject property on the map and explained that it is
+1.37-acres and backs onto the canal. Currently, there is an existing home on the property.
+An older house that was previously on the property had been removed. Mr. Prestwich
+reported that notice was provided to all property owners within 300 feet of the subject
+property. No rezoning or Conditional Use Permits were needed and this was the first notice
+that has been sent out. There were a few neighbors with questions regarding water rights
+and the possibility of purchasing a lot. No major concerns were expressed.
+Riverton City Planning Commission Meeting                                                 3
+March 10, 2022
+
+The existing home was to remain and there will just be two lots. Mr. Prestwich reported that
+this is an administrative approval and the Planning Commission’s job is to make sure that
+the project complies with the ordinance. The Engineering, Planning, and Fire Departments
+reviewed the application prior to it being presented to the Planning Commission. The Civil
+Plans for the subdivision include a cover sheet, a Subdivision Plat or Final Plat, a
+Topographic and Boundary Survey, a Grading Plan – including storm drainage, a Street
+Improvement Plan, and a Utility Plan or Site Plan. Mr. Prestwich stated that there was an
+error in the square footage number, but it had since been corrected on the final plans. The
+lot is one-half acre in size with the rear portion being slightly larger at .87-acre.
+
+Mr. Prestwich reported that there are multiple signatures required for a subdivision plan. It
+usually takes three to four months to get a project to the Planning Commission after going
+through all of the necessary reviews. There is a ditch on the property, and the plans did not
+show it as having been addressed. City ordinance specifies that the ditch needs to be piped
+or abandoned and cannot remain open. If there is evidence that the ditch is being used for
+irrigation or water rights, they need to be preserved, both by City ordinance and by State
+Code. The applicant needs to sign an affidavit stating that they are aware of the situation
+with the ditch and how their development will impact the ditch and take full responsibility to
+maintain and preserve the water rights. Mr. Prestwich described the motion and reviewed
+the conditions set forth in the Staff Report.
+
+Commissioner Rushton asked what triggers the requirement for a six-foot masonry fence
+adjacent to a canal. Mr. Prestwich stated that when it has to do with a subdivision, the
+masonry fence is required. City Attorney, Ryan Carter explained that while it may seem to
+be a stringent requirement, if exceptions were made based on the size of the subdivision,
+developers could find ways to avoid certain development standards. Commissioner
+Rushton argued that there are exceptions to small subdivisions with respect to private lane
+width. Mr. Carter responded that while there may be some correlations between the two
+standards, the fencing issue comes into play mostly for safety reasons. He cited an instance
+where there was a breach in a vinyl fence adjacent to a canal and a toddler died as a result.
+That situation drove the City Council to create this particular ordinance. Mr. Prestwich added
+that private lanes are desirable to the City, so they are allowed under certain conditions. He
+also stated that the fencing ordinance specifies that the Commission may waive required
+fencing on residential projects of two acres or less. Mr. Carter stated that the applicant
+would need to obtain a Conditional Use Permit to provide for a waiver.
+
+Commissioner Cannon recalled a property on 11700 South on the same canal where the
+applicant asked for a variance in the fencing material. Mr. Prestwich stated that in that case,
+there was an issue with the slope and footings. He ended up being an Ordinance
+Amendment and the City Council changed it from solid masonry to allow for hollow foam
+core. Commissioner Cannon stated that it was the result of a conversation he had with the
+developer and the fact that along the 24 miles of canal, there have been a number of
+incidents where the weight of the masonry wall compromised the integrity of the wall over
+time.
+
+Mr. Prestwich reported that the website does not include the updated ordinance. He agreed
+to address the matter.
+Riverton City Planning Commission Meeting                                                4
+March 10, 2022
+
+
+Commissioner Park asked about the ditch and if it must be piped or just maintained.
+Mr. Prestwich clarified that it must be piped.
+
+Chair Cluff asked if the portion of the canal that fronts 13200 South is required to have the
+six-foot masonry fence. Mr. Prestwich explained that the canal companies require access
+for maintenance. Historically, canal companies have been granted protection from third
+parties in terms of liability if someone were to drown. The City regulates what happens in
+the vicinity of a canal by requiring fencing when creating a subdivision.
+
+Commissioner Rushton asked for clarification and asked if there is latitude with the fencing
+requirement for properties that are smaller than two acres or if the Commission can consider
+a different type of fencing. Mr. Carter explained that there are absolute standards in certain
+instances and one involves proximity to the canal. As Mr. Prestwich was reviewing the
+ordinance and the possibility of a Conditional Use Permit, he found language that states that
+a Conditional Use Permit cannot circumvent the fencing requirement. Mr. Prestwich
+explained that the paragraph noted earlier was under the heading, “Incompatible Uses” and
+does not apply in this instance. He was incorrect in bringing that language into the
+conversation as it does not apply.
+
+Commissioner Rushton asked if it was possible to allow for other fencing options. Mr. Carter
+explained that additional research may be required to determine if a lighter-core material
+would be sufficient. Mr. Prestwich suggested recommending approval of what is proposed
+as a masonry fence and leaving out the word solid. If the ordinance has changed, the
+applicant could pursue the pre-cast foam core option. If it has not changed, he could request
+a variance similar to the previous applicant or there could be a text change in the ordinance.
+It was confirmed that a text change would be required if the applicant wishes to pursue
+fencing other than solid masonry.
+
+Commissioner Cannon asked if the applicant intends to access the westernmost lot at 13200
+South or if there will be an entrance off 1300 West. He also mentioned that the irrigation
+line does not run out of the canal. He asked if the applicant was aware that there may not
+be any users east of the subject property. Commissioner Cannon asked Mr. Prestwich if
+there was a stormwater discharge distribution system near the subject property.
+Mr. Prestwich verified that there is not. He explained that a puddles form and the frontage
+improvements the applicant is proposing will alleviate much of the puddling.
+
+Commissioner Cannon commented that the City has done a very good job of improving
+sidewalks, curb, and gutter to the north but not as well south of 13200 South. They have
+begun requiring a canal company block on the mylar to acknowledge that a property is next
+to the canal. The Canal Company and property owner were aware of the situation. He
+suggested that they add a block to the mylar indicating that the Canal Company is signing
+off on it.
+
+The applicant, Kent Denny, reported that they are subdividing the 1.38 acres and plan to put
+up new fences and build a new house. They were fully aware of improvements that need to
+be made on 1300 West. There is a seep hole next to the pine tree where the water puddles
+Riverton City Planning Commission Meeting                                                   5
+March 10, 2022
+
+in front of the property. He stated that typically the water that puddles there is from the ditch
+on the opposite side of the property in the neighbor’s yard. They plan to fill in the ditch to
+preserve the neighbor’s water rights. If it was an option they would prefer to install a chain-
+link fence at the canal rather than a masonry wall. The new homes on the opposite side of
+the canal do not have any fencing at all. He asked Mr. Prestwich if any redlines need to be
+addressed. Mr. Prestwich stated that there are not. Mr. Denny clarified that the correct
+property address is 13224 South rather than 13244 South. He stated that they are working
+on approvals and permits and that there should not be any easements to consider.
+
+Commissioner Cannon commented that this property is unique with 24 miles of canal. He
+said that the Canal Company has never had the desire to access this area because of the
+steep grade from the proposed lot to the water. They have been discussing a possible trail
+system through the area but it has not been maintained for a long time. Mr. Denny reported
+that a Canal Company employee removed some of the debris and deadfall.
+
+Chair Cluff stated that the Commission does not have any leeway regarding the type of
+fencing. The decision would need to be made by the City Council.
+
+There were no further public comments. Chair Cluff closed the public hearing.
+
+Commissioner Rushton asked that condition number 6 be reworded to allow the applicant
+to approach the City regarding alternate fencing material. Mr. Carter stated that it could be
+as simple as saying that the material should be something other than solid core masonry.
+He stated that solid core is not mentioned in the condition, so there should not be an issue.
+However, if the conditions of approval are established today and a new fencing standard is
+later adopted by the Council that is less onerous than the current one, the applicant would
+not violate the standard. The Commission could choose to add wording to account for
+possible changes in the ordinance.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-21-
+1010 “KenLor Subdivision”, to be located at 13224 South 1300 West with the following
+conditions:
+
+       1.     Address any outstanding Riverton City staff redline comments on the
+              plans.
+
+       2.     Storm drainage systems and accommodations comply with Riverton City
+              Standards and ordinances, and with the recommendations of the
+              Riverton City Engineering Division.
+
+       3.     The applicant must obtain any necessary approvals or permits from
+              applicable outside agencies or jurisdictions.
+
+       4.     Any necessary easements or agreements on the property be recorded
+              with Salt Lake County Recorder.
+Riverton City Planning Commission Meeting                                                     6
+March 10, 2022
+
+       5.     The site and structure shall comply with all applicable standards and
+              ordinances of the City, including the International Building and Fire
+              Code.
+
+       6.     A six-foot masonry fence that meets city ordinance shall be installed
+              along the west property line that abuts the canal unless other materials
+              are approved by the City in the future.
+
+       7.     Existing irrigation Ditches must be piped according to Riverton City
+              Ordinance.
+
+Chair Cluff seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+       C.     CONDITIONAL USE, “CROSSMAN PRIVATE LANE”, TO BE LOCATED AT
+              3522 WEST 13400 SOUTH. APPLICANT-RON CROSSMAN.
+
+Mr. Prestwich presented the staff report and stated that the request is for a private lane in
+an area of the City that is mostly built out and differs from previous private lane applications.
+He displayed photos of the property and stated that historically, owners or developers come
+to the City and ask about available options for development. He explained that there has
+been a lot of infill done over the past several years in cases like this one. This property has
+a private lane on the west side, but the existing home does not have access rights to the
+lane. For the lane to be accessed by the applicant, there must be an agreement with the
+owner of the lane, which may not be possible. It might also be that a lane on the opposite
+side would be a better alternative for the applicant. There is nothing in the ordinance
+prohibiting parallel private lanes.
+
+The front property is one acre in size and the rear property is just over one acre. Both are
+zoned RR-22. Public notice was sent to all property owners within 300 feet and several
+phone calls were received regarding the application along with a written comment that was
+provided in the packet. He displayed a sketch of what the applicant would like to do along
+with zoning maps and aerial views of the property.
+
+Mr. Prestwich reported that private lanes must meet ‘A’ and ‘B’ or ‘C’ of the section in the
+ordinance. ‘A’ specifies that it is a lot of record that is pre-existing. ‘B’ states that it can be
+demonstrated that the property cannot be physically divided with public streets and that
+development on a private lane would not impede the right-of-way for public streets. ‘C’
+specifies that the development does not impede necessary access from adjoining properties
+as required by the Master Transportation Plan. Mr. Prestwich referred to the Master
+Transportation Plan and stated that there are no future roads planned in the area. Staff
+believes that the application meets standards ‘B’ and ‘C’ qualifies for a private lane.
+
+The applicant was requesting 25 feet of paved surface for the private lane. If there is a fire
+hydrant that the Fire Department needs to access they will likely require 26 feet of paved
+surface. Following the 25-foot minimum does not lock them in if the Fire Department
+Riverton City Planning Commission Meeting                                                  7
+March 10, 2022
+
+requires a fire hydrant and the extra foot of paved surface. There currently is a fire hydrant
+on the property and the Fire Department has not yet looked at the Conceptual Plan.
+
+Comments received included requests of the Commission to restrict the homes to ramblers
+and to protect the open space. There was nothing the Planning Commission or Staff could
+do to restrict the applicant to a Conditional Use Permit as the zoning is already in place and
+allows for up to a 35-foot home. Staff recommended approval.
+
+Commissioner Park asked if multiple property owners were applying for the private lane.
+Mr. Prestwich confirmed that that is the case. He identified on the map the location of the
+property lines and which owners are applying for the private lane. He stated that this
+property is probably the most uniquely shaped lot in Riverton City. In response to a question
+raised by Commissioner Park, Mr. Prestwich stated that the rear portion is at least one-half
+acre in size and complies with the RR-22 zoning.
+
+Commissioner Matheson asked how they would add a turnaround for emergency vehicles.
+Mr. Prestwich explained that the owner has options to extend the road to loop around if a
+turnaround does not work. Commissioner Matheson asked if they extended the road if that
+would decrease their acreage below the required one-half acre. Mr. Prestwich stated that it
+would not as it would be considered an easement and part of the overall acreage.
+
+Commissioner Rushton asked if the three lots include the one on 13400 South.
+Mr. Prestwich explained that at this point it is not considered part of the three lots but there
+are other options for growth in the future in cooperation with neighboring properties.
+
+The applicant, Ron Crossman, described how the application came about with the property
+owners in the back wanting a private lane as well. He stated that the three-lot subdivision
+application allows for a future third home or accessory building without violating the Code.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Park asked for clarification on the application and the request before the
+Commission. Mr. Prestwich explained that the next step would be the subdivision
+application. Mr. Carter stated that from a developer’s standpoint, there is a risk as to whether
+a Conditional Use Permit will be granted. Once approval is granted, engineering work can
+begin on the subdivision.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-22-
+2005 “Crossman Private Lane”, to be located at 3522 West 13400 South with the
+following conditions:
+
+       1.     Private lane shall follow Riverton City Code for development on private
+              lanes.
+
+       2.     A maximum of three (3) lots may access the private lane.
+Riverton City Planning Commission Meeting                                             8
+March 10, 2022
+
+      3.     Private lane shall be at least 25-feet wide drivable surface.
+
+      4.     Private lane shall be paved in either asphalt or concrete according to the
+             standards of the Unified Fire Authority and Riverton City Standards and
+             Specifications.
+
+      5.     The private lane shall be named and signed for addressing and
+             emergency response.
+
+      6.     The applicant shall obtain subdivision approval prior to any construction
+             commencing on the private lane.
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      D.     AMEND SITE PLAN, “SMART COMMERCIAL BUILDING” AMENDING THE
+             EXTERIOR OF AN EXISTING COMMERCIAL BUILDING LOCATED AT
+             1868 WEST 12600 SOUTH. APPLICANT-JARED SMART REPRESENTING
+             DALIA REAL ESTATE. **CONTINUED FROM THE FEBRUARY 24
+             MEETING**
+
+Mr. Prestwich reported that the above item was continued from the previous meeting and
+asked that it be continued again. He displayed photos of the proposed plan and stated that
+the applicant hired an architect to help with the amendment to the building’s exterior.
+
+Chair Cluff moved that the Planning Commission CONTINUE PLZ-21-8002 “Smart
+Retail” to the next Commission Meeting. Commissioner Matheson seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     N/A.
+
+4.    MINUTES
+
+      A.     FEBRUARY 24, 2022.
+
+Commissioner Rushton moved that the Planning Commission APPROVE the Minutes
+of the February 24, 2022, Planning Commission Meeting, as presented.
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+5.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:45 p.m.
+

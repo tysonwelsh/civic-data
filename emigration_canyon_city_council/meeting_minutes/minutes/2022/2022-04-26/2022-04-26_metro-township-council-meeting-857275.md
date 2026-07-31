@@ -1,0 +1,389 @@
+# Metro Township Council Meeting
+> Source: https://www.utah.gov/pmn/files/857275.pdf
+> Meeting date: 2022-04-26
+> Format: pdf-text
+
+---
+
+**Body:** Council
+**Meeting type:** Regular
+**Date:** 2022-04-26
+**Era:** Metro Township
+**Source:** pmn (Utah Public Notice, body 5809)
+**Source URL:** https://www.utah.gov/pmn/files/857275.pdf
+**PMN notice id:** 751017
+**PMN file id:** 857275
+**Format:** pdf-text
+**In-body date match:** YES
+
+---
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+THE EMIGRATION CANYON METRO TOWNSHIP COUNCIL, STATE OF UTAH,
+MET ELECTRONICALLY ON TUESDAY, APRIL 26, 2022, PURSUANT TO ADJOURNMENT ON
+TUESDAY, MARCH 22, 2022, AT THE HOUR OF 7:00 P.M., VIA ZOOM.COM.
+COUNCIL MEMBERS
+ELECRONICALLY PRESENT:
+
+OTHERS IN ATTENDANCE:
+
+DAVID BREMS
+ROBERT PINON
+CATHERINE HARRIS
+JENNIFER HAWKES, Deputy Mayor
+JOE SMOLKA, Mayor
+POLLY MCLEAN, LEGAL COUNSEL
+CAMERON PLATT, LEGAL COUNSEL
+NICHOLE WATT, DEPUTY CLERK
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Mayor Smolka, Chair, presided.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Pursuant to Utah Code 52-4-202 the undersigned, as Mayor of the Emigration
+Canyon Metro Township Council, hereby declares that providing an anchor location for the
+electronic meetings of the Council will present a substantial risk to the health and safety of those
+who may be present at the anchor location for the following reasons:
+The Township is located in Salt Lake County and is still under a “Low Level of
+Transmission” alert stage for the COVID 19 pandemic; and
+The regular meeting place for the Council (the Fire Station in the Canyon) does
+not have sufficient space in the meeting room to provide for the recommended physical distancing
+to keep people safe from infection.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+STAFF MEETING
+The Council reviewed the following items:
+
+
+
+
+
+
+
+
+
+Watershed preliminary report update
+Watershed grant application
+Community Renewable Energy Program
+Dark Sky ordinance
+Parking enforcement
+FEMA flood plain map
+Hiring of an administrator
+Broadband
+
+1
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+PUBLIC MEETING
+Citizen Input
+None.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Reports from other Municipal Providers
+Emigration Canyon Community Council
+Bill Tobey stated the Fire Day Open House will be held on May 7, 2022, from 9:00
+am to 12:00 pm at the UFA fire station on Emigration Canyon Road. There will be a pancake
+breakfast and fire pan demonstration. Other fire risk reduction activities are in process but due to
+UFA’s budget and staffing issues, the scope of work may change. The newsletter went out on
+April 10, 2022. Due to resignations on the communication team, they are recruiting people to help
+with the newsletter. Canyon clean-up will take place on May 21, 2022, at 8:30 am, and will meet
+at the fire station. The first hybrid in-person/virtual meeting was held last month. They participated
+in the annual business meeting of Utah Neighborhoods.
+
+−−−−−−−−−−−−−−
+Unified Police Department (UPD)
+Detective Jake Elsasser reviewed Emigration Canyon calls for service stating
+there were 37 calls for service with 12 initial reports.
+Council Member Pinon asked if a trailer could be placed at the mouth of the
+canyon, notifying people coming into the canyon about the noise restrictions.
+Detective Elsasser stated he is trying to get a grant to fund an additional trailer
+so the canyon has two. Messages on the new trailers can be changed remotely.
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA)
+Council Member Harris introduced Chief Bryan Case as Emigration Canyon’s
+liaison. Chief Case is over the Special Operations Division and Search and Rescue.
+Chief Bryan Case reviewed the quarterly report and calls for services.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Business
+
+2
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+Resolution No. 2022-04-01- Hazardous Environmental Conditions and Restrictions of Fireworks
+The Council reviewed the following Resolution, restricting fireworks within all
+portions of Emigration Canyon Metro Township:
+RESOLUTION NO. 2022-04-01
+
+Date: April 26, 2022
+
+RESOLUTION FINDING HAZARDOUS ENVIRONMENTAL CONDITIONS AND
+RESTRICTION OF FIREWORKS WITHIN ALL PORTIONS OF EMIGRATION
+CANYON METRO TOWNSHIP
+WHEREAS, Utah Code §53-7-225, prohibits the discharge of Class C common state
+approved explosives (fireworks) except around certain holidays including beginning on July 2 and
+ending on July 5, and beginning on July 22 and ending on July 25;
+WHEREAS, Utah Code § 15A-5-202.5(1)(b) allows municipalities to “close a defined area
+to the discharge of fireworks due to a historical hazardous environmental condition” if the
+“historical hazardous environmental condition has existed in the defined area before July 1 of at
+least two of the preceding five years;”
+WHEREAS, the fire official for Emigration Canyon Metro Township (“Emigration Canyon”)
+has found that existing hazardous environmental conditions have existed within Emigration
+Canyon before July 1 of at least two of the preceding five years. (see Letter From Fire Marshal
+dated April 5, 2022, attached as Exhibit A);
+WHEREAS, the Emigration Canyon Metro Township Council (“Council”) finds that the
+Township, throughout all areas, contains innumerable mountainous, brush-covered, forest
+covered, and dry grass-covered areas which historically and, for at least two of the preceding five
+years before July 1st, are in an extremely flammable condition;
+WHEREAS, if existing or historical hazardous environmental conditions exist within the
+boundaries of the Township, Utah Code §15A-5-202.5 allows the Council to prohibit the ignition
+and use of fireworks while these conditions exist in the following areas: (1) mountainous, brushcovered, forest covered, or dry grass-covered areas; (2) within 200 feet of waterways, trails,
+canyons, washes, ravines, or similar areas; (3) wildland urban interface area, which means the
+line, area, or zone where structures or other human development meet or intermingle with
+undeveloped wildland or land being used for an agricultural purpose; or (4) a limited area outside
+the hazardous areas;
+WHEREAS, the Council finds that the entire Emigration Canyon Metro Township consists
+of the above listed hazardous areas and a map of the Township is attached hereto as Exhibit B;
+NOW, THEREFORE, BE IT ORDAINED BY THE EMIGRATION CANYON METRO
+TOWNSHIP COUNCIL OF, UTAH, THAT:
+
+3
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+SECTION I: Pursuant to the provisions of Utah Code Ann. 15A-5-202.5, and based on the
+findings as noted above, the use of Class C fireworks are hereby restricted in all areas of
+Emigration Canyon Metro Township as shown in the attached map in Exhibit B.
+Section II: Effective Date. This resolution shall be effective upon receipt of the attached
+map (Exhibit B) by Salt Lake County and publication of the Resolution by the Township Clerk.
+PASSED AND APPROVED by the Emigration Canyon Metro Township Council, Utah, this
+26th day of April in the year 2022.
+EMIGRATION CANYON METRO TOWNSHIP
+/s/ JOE SMOLKA
+Mayor
+
+ATTEST:
+/s/ SHERRIE SWENSEN
+Township Clerk
+
+Council Member Brems, seconded by Council Member Harris, moved to approve
+Resolution No. 2022-04-01. The motion passed unanimously.
+
+−−−−−−−−−−−−−−
+2022 Conflict of Interest Disclosures
+Polly McLean reviewed the Conflict of Interest Disclosures Policy.
+Deputy Mayor Hawkes stated the language in the policy needs to be corrected to
+reference the metro township.
+Council Member Harris, seconded by Council Member Hawkes, moved to approve
+the Conflict of Interest Disclosure Policy with amendments to the language. The motion passed
+unanimously.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Improvement District Grant Application
+Council Member Harris stated a letter has been drafted to support Emigration
+Canyon Improvement District’s (EID) grant application with the Bureau of Reclamation. The grant
+will fund improved water meters and pressure regulating valves throughout the water distribution
+system in Emigration Canyon. She would like the Council’s direction on whether to send the letter.
+Mayor Smolka, seconded by Council Member Hawkes, moved to approve the letter
+to support the EID grant application with amendments as discussed. The motion passed
+unanimously.
+
+−−−−−−−−−−−−−−
+
+4
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+Legal Issues
+Polly McLean stated she continues to work on the civil enforcement process.
+
+−−−−−−−−−−−−−−
+Budget Items
+Mayor Smolka reviewed the bills for the Clerk, legal counsel, and Zoom. Council
+Member Harris was reimbursed for Captain Michael Conn’s dinner. Unified Fire Authority will be
+increasing Emigration Canyon’s fee for the emergency coordinator. There should be enough in
+the administrative budget to cover the fee increase; however, the budget will need to be increased
+next year.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Member Reports
+Unified Police Department (UPD) & Salt Lake Valley Law Enforcement Service Area (SLVLESA)
+Council Member Brems stated UPD needs a new mobile command center and
+may ask member entities for a portion of their ARPA funds to make the purchase. Work on officer,
+staff, and civilian compensation is ongoing. Legislation was passed for the inland port, and it will
+take funds away from SLVLESA. They closed on a $12.5 million tax anticipation note with Zion’s
+Bank. The UPD one-on-one will be held on Thursday, April 28, 2022, at 9:00 am. The Council will
+have the opportunity to discuss its concerns and what unique problems it has.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Metro Township Planning Commission
+Council Member Brems stated there is nothing to report.
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+Council Member Harris stated the Benefits and Compensation Committee
+recommended a 7 percent cost of living (COLA) increase for employees. Dominic Burchett was
+selected as the new Chief of UFA. She attended the 100-year anniversary celebration. She is
+working with Deputy Mayor Hawkes to create an Emigration Canyon Metro Township patch that
+fire fighters will wear on their uniforms. The Western Fire Chief Association will hold a summit on
+May 3 and 4, 2022.
+
+−−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+
+5
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+Council Member Pinon stated WFWRD will evaluate employee experience, years
+of service, and education to determine compensation. Residents will receive a postcard to sign
+up for the free dumpster program.
+need them.
+
+Deputy Mayor Hawkes stated she received free dump vouchers for those that
+
+−−−−−−−−−−−−−−
+Association of Municipal Governments
+estate.
+
+Deputy Mayor Hawkes stated there was a presentation on commercial real
+
+−−−−−−−−−−−−−−
+Website
+Deputy Mayor Hawkes stated in recent months, she has been approached about
+linking the Council website with businesses or a cause. The Council needs to discuss a policy
+that addresses what can be put on the website.
+
+−−−−−−−−−−−−−−
+CodeRED
+marathon.
+
+Deputy Mayor Hawkes stated she sent out a CodeRED message regarding the
+
+−−−−−−−−−−−−−−
+Restrooms
+Deputy Mayor Hawkes stated a tarp has been placed over the roof to keep the
+moisture out and will eventually need to be replaced. Soil tests were completed, and the vaults
+were inspected. The entryway will be reconstructed to there will not be a need for a handrail. A
+grant application was submitted last month and awarded by the first week of May.
+
+−−−−−−−−−−−−−−
+Greater Salt Lake Municipal Services District (MSD)
+Mayor Smolka stated the MSD is in the process of looking for a Chief of Finance
+Officer. A booth will be set up at Fire Days to provide information about the MSD and its relation
+to Emigration Canyon Metro Township. The fee is going up for the metro townships use of the
+Emergency Municipal Planner, Jim Woodward. Mr. Woodward keeps all the emergency plans up
+to date.
+
+6
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+−−−−−−−−−−−−−−
+Landfill Council
+Mayor Smolka stated the projected revenue is up approximately $900,000 this
+year. With the increased revenue, they may be able to purchase additional equipment to replace
+the old equipment.
+
+−−−−−−−−−−−−−−
+Wasatch Front Regional Council
+Mayor Smolka stated he had a discussion about applying for additional grants
+that will help fund the widening of the road to accommodate better bike lanes. There have been
+applications for grants submitted and one was award for $2 million. The grant funds 60 percent
+with the metro township funding 40 percent. The bond may be able to be leveraged but the
+location of the grant funds would need to be moved. If the 40 percent match is maxed out, it would
+provide approximately $5 million total. If that amount can be approved, the road could be widened
+from the fire station to Red Hill. He will update the Council as he gets more information.
+
+−−−−−−−−−−−−−−
+Council of Governments (COG)
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Legislative Update
+Mayor Smolka stated there may be legislation that will affect the Greater Salt Lake
+Municipal Services District (MSD).
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Closed Session
+Council Member Harris, seconded by Council Member Brems, moved to close the
+meeting to discuss imminent or pending litigation. The motion passed unanimously.
+
+−−−−−−−−−−−−−−
+The Council voted to re-open the meeting during the closed meeting.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+7
+
+DATE
+
+TUESDAY
+
+APRIL
+
+26, 2022
+
+_____________________________________________________
+MAYOR, EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+By: ______________________________________
+Deputy Clerk
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+8
+
+

@@ -1,0 +1,436 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2025-09-24
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2025/09.24.2025.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 8
+audio: 09.24.2025.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 1 of 8
+
+LAR
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+September 24, 2025 - 2:00 PM
+
+When necessary, board members may participate electronically with the anchor location as stated above.
+
+The public may participate at the anchor location stated above. Public comments will be limited to two
+(2) minutes per individual unless otherwise approved by the Board.
+
+Or you may watch the meeting live on YouTube under the heading UTAH COUNTY GOVERNMENT or by
+going to the link: https://www.youtube.com/channel/UCkRYDnXVDLGv9792bhWn9We¢/videos
+
+Next two upcoming Commission meeting dates: Wednesday, October 1, 2025 at 2:00 p.m.
+and Wednesday, October 22, 2025 at 2:00 p.m.
+
+~COMMISSION MEETING MINUTES~
+In attendance: Commissioner Gordon (Chair), Commissioner Beltran, Commissioner Powers Gardner
+Others in attendance: See attached sign-in sheet.
+
+(Meeting called to order: 2:00 pm)
+
+PRAYER/READING/THOUGHT: Mardi Sifuentes, UC Business Community Liaison
+PLEDGE OF ALLEGIANCE: Carrie Bennett, UC Program Manager/Heath Promotion
+
+CONSENT AGENDA
+
+1. RATIFICATION OF WARRANT REGISTER FOR SEPTEMBER 24, 2025 INCLUDING
+NOTES AND COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE
+
+INTERNAL SYSTEM
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 2 of 8
+
+2. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 19-2025
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+3. APPROVAL OF THE MINUTES FOR THE SEPTEMBER 4, 2025 BOARD OF
+COMMISSIONERS BUDGET WORK SESSION PUBLIC MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+4. APPROVAL OF THE MINUTES FOR THE SEPTEMBER 5, 2025 BOARD OF
+COMMISSIONERS BUDGET WORK SESSION PUBLIC MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+5. APPROVAL OF THE MINUTES FOR THE SEPTEMBER 17, 2025 BOARD OF
+
+COMMISSIONERS BOARD MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+6. APPROVE CREDIT APPLICATION WITH OREM MAZDA
+
+-Tad Rasmussen , Auditor
+
+APPROVED ON CONSENT
+Agreement 2025-824
+
+7. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60534 DATED
+
+SEPTEMBER 15, 2025.
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement 2025-825
+
+8. APPROVE AMENDMENT #8 TO CONTRACT 2024-578 FOR FUNDING FOR THE UTAH
+COUNTY CHILDREN'S JUSTICE CENTER MEDICAL PROGRAM FUNDING FOR FISCAL
+YEAR 2026.
+
+-Rebecca Martell, Children's Justice Center
+
+APPROVED ON CONSENT
+Agreement 2025-826
+
+9. APPROVE THE SIGNING OF AN AGREEMENT WITH IDAHO STATE UNIVERSITY FOR
+THE UTAH COUNTY HEALTH DEPARTMENT HEALTH PROMOTION DIVISION.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-827
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 3 of 8
+
+10. APPROVE THE SIGNING OF AMENDMENT 11 TO UC 2019-87 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR STD DISEASE INTERVENTION
+
+SERVICES.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-828
+
+11. APPROVE THE SIGNING OF A RENEWAL OF UC 2023-889 WITH UTAH POISON
+CONTROL CENTER/UNIVERSITY OF UTAH/STATE OF UTAH FOR AN OUTREACH
+
+EDUCATION AGREEMENT.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-829
+
+12. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #06 TO
+AGREEMENT #2023-712 WITH CUTLER ELECTRIC INC. FOR CHANGES TO THE UTAH
+COUNTY ADMINISTRATION BUILDING ELECTRICAL UPGRADES PROJECT.
+
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-830
+
+13. APPROVE AND AUTHORIZE THE DIGITAL SIGNING OF THE 2025 UTAH
+POLLUTANT DISCHARGE ELIMINATION SYSTEM STORM WATER PROGRAM SMALL
+
+MS4 ANNUAL REPORT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-831
+
+14. TO APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+TREASURER'S OFFICE IN CANCELLATION LETTER #20498
+
+-Randilyn Warner, Treasurer
+
+APPROVED ON CONSENT
+Agreement 2025-832
+
+REGULAR AGENDA
+
+1. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #1 OF UCA #2025-
+141 WITH BH, INC., FOR SPACE SAVER SHELVING AND CONTINGENCY TO THE
+
+RECORDS STORAGE BUILDING PROJECT.
+-Richard Nielson, Public Works
+
+(Timestamp: 3;12)
+
+COMMISSIONER BELTRAN, RICHARD NIELSON (Public Works Director), GLEN TANNER
+(Associate Director of Public Works) DISCUSSION AND EXPLANATION ON THE PRICE
+
+INCREASE.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 4 of 8
+
+COMMISSIONER BELTRAN: MOTION TO APPROVE
+COMMISSIONER POWERS GARDNER: SECOND
+ALL IN FAVOR: AYE
+
+PASSED: 3/0
+Agreement 2025-833
+
+2. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #11 OF UCA #2023-
+715 WITH BH, INC., FOR CONTRACT PERIOD EXTENSION AND CHANGES TO THE FIRE
+
+ADMINISTRATION AND APPARATUS BUILDING PROJECT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-834
+
+3. AUTHORIZE ADDITIONS TO THE STAFFING PLAN OF ONE (1) FULL-TIME, CAREER
+SERVICE DEPUTY COUNTY ATTORNEY III POSITION, ONE (1) FULL-TIME, CAREER
+SERVICE DEPUTY COUNTY ATTORNEY IV POSITION, AND TWO (2) FULL-TIME,
+CAREER SERVICE PARALEGAL II POSITIONS. [STAFFING PLAN DETAILS FOR HR USE:
+ACCOUNT NUMBER 100-41451 (ATTY - CRIMINAL). ADD ONE POSITION OF JOB CODE
+2713, GRADE 733; ONE POSITION OF JOB CODE 2714, GRADE 736; AND TWO POSITION
+OF JOB CODE 5702, GRADE 724]
+
+-Merritt Fullmer, Human Resources
+(Timestamp: 6:00)
+
+COMMISSIONER POWERS GARDNER SHARED A STATEMENT SHE HAD PREPARED.
+
+On Sunday, Erika Kirk made a powerful statement about true forgiveness. I was deeply
+moved by her words. As a Christian, I know we are commanded to forgive—not as a
+suggestion, but as a cornerstone of our faith. Scripture reminds us that vengeance is the
+Lord’s, and that ultimate justice, mercy, and grace belong to Christ alone.
+
+At the same time, as an elected official who has sworn an oath to uphold the Constitution
+of this great nation, I have a solemn duty as a steward of government to uphold the rule of
+law. Government is charged with maintaining justice and order, and in this chamber, my
+responsibility is to ensure that our laws are carried out fairly. That includes ensuring
+both a well-equipped prosecution and a competent defense.
+
+Balancing these truths is not easy. It requires me to separate what is mine to do asa
+believer in Christ from what is mine to do as a steward of government. My personal duty
+before God is forgiveness; my public duty as a commissioner is to uphold the laws of
+justice. In this way, I strive to honor both my faith and my oath of office.
+
+And let me be clear: while this case draws headlines, we cannot allow this tragedy to cast
+aside others waiting for resolution. Every victim of crime in Utah County—whether their
+story makes the news or not—deserves dignity, attention, and timely justice. For victims,
+justice can never come fast enough and I hope we can continue our recent trend of
+finding more resources for our prosecutors and defenders, however, today my specific
+goal is to maintain our current level of service which I believe these added positions will
+allow us to do.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 5 of 8
+
+COMMISSIONER BELTRAN EXPLAINED THAT WE ARE TASKED WITH UPHOLDING
+THE RULE OF LAW. WE ARE IN A UNIQUE POSITION WHERE WE FUND THE
+DEFENSE AND WE FUND THE PROSECUTION. WE WILL ENSURE THIS IS FAIR ON
+BOTH SIDES. WE ARE GOING TO APPROVE OVER A MILLION DOLLARS TODAY FOR
+AN EVENT THAT NONE OF US WANTED AND OUR TAXPAYERS WILL FOOT THE
+BILL.
+
+COMMISSIONER POWERS GARDNER: MOTION TO APPROVE
+COMMISSIONER BELTRAN: SECOND
+ALL IN FAVOR: AYE
+
+PASSED: 3/0
+Agreement 2025-835
+
+4. APPROVE AND AUTHORIZE PROFESSIONAL SERVICES CONTRACT WITH UTAH
+MUNICIPAL LAWYERS, PLLC, FOR LAND USE ADMINISTRATIVE LAW JUDGE.
+
+-Bryce Armstrong, Community Development
+
+APPROVED ON CONSENT
+Agreement 2025-836
+
+5. APPROVE AND AUTHORIZE PROFESSIONAL SERVICES CONTRACT WITH KUNZ PC
+FOR LAND USE ADMINISTRATIVE LAW JUDGE.
+
+-Bryce Armstrong, Community Development
+
+APPROVED ON CONSENT
+Agreement 2025-837
+
+6. APPROVE A RESOLUTION AUTHORIZING AN OPIOID SETTLEMENT FUND BUDGET
+
+TRANSFER
+-Ben VanNoy, Attorney
+
+APPROVED ON CONSENT
+Resolution 2025-838
+
+7. APPROVE AND AUTHORIZE AN AGREEMENT FOR INDIGENT DEFENSE SERVICES.
+
+-Ezra Nair, Commission
+TABLED ON CONSENT
+(Timestamp: 10:00)
+
+COMMISSIONER POWERS GARDNER: MOTION TO REMOVE ITEM SEVEN FROM THE
+TABLE
+
+COMMISSIONER BELTRAN: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 3/0
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 6 of 8
+
+COMMISSIONER BELTRAN: MOTION TO APPROVE ITEM SEVEN, AUTHORIZING
+AGREEMENT FOR INDIGENT DEFENSE SERVICES WITH KATHERINE NESTER.
+COMMISSIONER POWERS GARDNER: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 3/0
+Agreement 2025-839
+
+8. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+HELD ON CONSENT
+
+9. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+10. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+11. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+PUBLIC COMMENTS
+
+None
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+September 24, 2025
+
+Page 7 of 8
+
+(Moved to Closed Meeting: 2:11 p.m.)
+(Opened to Public Meeting: 3:35 p.m.)
+
+COMMISSIONER POWERS GARDNER: MOTION TO ADJOURN
+COMMISSIONER BELTRAN: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 3/0
+
+MEETING ADJOURNED
+
+(Meeting adjourned: 3:36 p.m.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In compliance with the Americans
+with Disabilities Act, individuals needing special accommodations (including auxiliary communicative
+aids and services) during this meeting should notify Jolynn Clegg at 801-851-8113. Handicap parking is
+available as well as a level entrance to the building. Interpretation services are available with prior notice
+for the hearing disabled.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+September 24, 2025
+
+Page 8 of 8
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+September 24, 2025 - 2:00 p.m.
+PRINT CLEARLY
+Name: Ageney:
+Sources Oras. WC. Cleves Office
+Janiwmy Sones ac
+Veurvid Bennart ucton~ HPtP
+Londo Oulen Rotoder
+wiry da Digg te
+Pedead Gaye Aksosse
+lay ro [pavers _
+—Linnen “Herts oe _
+tivbed Pthetr Pvccha$e —_
+a) : o s )
+eed Avie APA TION _
+
+Shi knee
+sey
+
+Pree Crremett
+
+Meeting minutes approved at the October 1, 2025 Board of Commissioners of Utah
+County, Utah Public Meeting.
+
+ATTEST:
+AARON R. DAVIDSON
+Utah County Clerk
+
+By Kui RD tr,
+aN SH
+

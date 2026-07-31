@@ -1,0 +1,67 @@
+{
+ "contributions": [
+  {
+   "date": "07/15/2025",
+   "name": "Deanna Carter",
+   "amount": "100",
+   "in_kind": false
+  },
+  {
+   "date": "07/16/2025",
+   "name": "Andrea Jones",
+   "amount": "1000",
+   "in_kind": false
+  },
+  {
+   "date": "07/16/2025",
+   "name": "Sara Cameron",
+   "amount": "100",
+   "in_kind": false
+  },
+  {
+   "date": "07/21/2025",
+   "name": "Steven Terry (self)",
+   "amount": "150",
+   "in_kind": false
+  },
+  {
+   "date": "07/02/2025",
+   "name": "Steven Terry (self)",
+   "amount": "50",
+   "in_kind": false
+  },
+  {
+   "date": "06/05/2025",
+   "name": "Steven Terry (self)",
+   "amount": "51.50",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "06/05/2025",
+   "recipient": "Vineyard City",
+   "purpose": "City fee",
+   "amount": "51.50"
+  },
+  {
+   "date": "07/22/2025",
+   "recipient": "Minuteman Press",
+   "purpose": "Door hangers/brochures",
+   "amount": "595.07"
+  },
+  {
+   "date": "07/23/2025",
+   "recipient": "Chandler Smith",
+   "purpose": "100 yard signs",
+   "amount": "759"
+  }
+ ],
+ "contributions_under_500": null,
+ "contributions_itemized": "1451.50",
+ "total_contributions": "1451.50",
+ "expenditures_under_500": null,
+ "expenditures_itemized": "1395.57",
+ "total_expenditures": "1395.57",
+ "ending_balance": "55.93"
+}

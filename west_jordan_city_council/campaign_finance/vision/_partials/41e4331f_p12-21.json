@@ -1,0 +1,30 @@
+{
+  "segments": [
+    {
+      "pages": "12-21",
+      "report_label": "October 2021 pre-general INTERIM report (checked box: 'INTERIM: Required for all candidates who were successful in the Primary Election... Due by 5:00 PM on October 26, 2021'); candidate Whitelock, Shauna Kayleen, At-Large Council Member; signed 10-26-21; city stamp 'RECEIVED BY CITY CLERKS OFFICE OCT 26 2021 3:45 pm'; Attachment A/B/C signature blocks read 'Whitelock, Shauna, Kayeen' / Date of Report 10/25/2021 with handwritten '26' correction over the 25 and initials",
+      "cover_lines": {
+        "1_balance_forward": "1,498.50",
+        "2_contributions_50_or_less": "0",
+        "3_contributions_over_50": "1,250.00",
+        "4_total_contributions": "1,250.00",
+        "5_total_expenses": "2637.49",
+        "6_ending_balance": "111.01"
+      },
+      "contributions": [
+        {"date": "9/22/2021", "name": "Salt Lake Board of Realtors PAC", "amount": "750.00", "in_kind": false},
+        {"date": "10/12/2021", "name": "Peterson Development", "amount": "500.00", "in_kind": false},
+        {"date": "9/1/2022", "name": "Salt Lake Board of Realtors PAC", "amount": "1,750.00", "in_kind": true}
+      ],
+      "expenditures": [
+        {"date": "9/30/2021", "recipient": "Deseret News", "purpose": "Mailer Printing", "amount": "854.78", "in_kind": false},
+        {"date": "9/30/2021", "recipient": "News Paper Mngt Co/Journal", "purpose": "Journal ad", "amount": "400.00", "in_kind": false},
+        {"date": "10/7/2021", "recipient": "RoboCent", "purpose": "text message and list", "amount": "178.79", "in_kind": false},
+        {"date": "10/11/2021", "recipient": "Smith & Edwards", "purpose": "mints for meet the candidates", "amount": "6.15", "in_kind": false},
+        {"date": "10/25/2021", "recipient": "DN Sky mail", "purpose": "mailer postage", "amount": "1,167.77", "in_kind": false},
+        {"date": "10/25/2021", "recipient": "Amy Whitelock", "purpose": "vinyl lettering", "amount": "30.00", "in_kind": false}
+      ]
+    }
+  ],
+  "notes": "Pages 12-21 of the bundle are exactly internal form pages 1-10 of ONE report (the 10/26/2021 pre-general interim). Page 12 (form p.1) is the report's first page, so the range STARTS at a report boundary; the report's Attachment C in-kind grid ends on bundle p.21 (form p.10, 'TOTAL IN-KIND CONTRIBUTIONS $1,750.00') but the report may continue past p.21 into the next owner's range (receipts or trailing pages) -- the p.21 edge is potentially MID-REPORT. Cover lines: line 1 handwritten '1,498.50'; line 2 handwritten '0' (crossed-zero glyph); line 5 handwritten '2637.49' (no comma as written); line 6 handwritten '111.01' (written '/// -01' style, reads 111.01 -- slight legibility risk on the digits). Attachment A summary box 2 on bundle p.17 has a handwritten '3,000.00' for 'Total of all contributions of more than $50, including in-kind' which conflicts with cover line 3's 1,250.00 and the itemized Attachment A-1 printed TOTAL $1,250.00 (p.18); 1,250.00 + the 1,750.00 in-kind = the 3,000.00, i.e. the box-2 figure includes in-kind while cover line 3/4 exclude it -- transcribed verbatim, not reconciled. In-kind row date printed '9/1/2022' (Attachment C, p.20) is a source typo (report filed 10/2021); preserved verbatim. Amounts and totals: Attachment A-1 printed TOTAL $1,250.00 (p.18); Attachment B printed TOTAL $2,637.49 (p.20); Attachment C printed TOTAL IN-KIND $1,750.00 (p.21) -- none synthesized. Expenditure addresses truncated at column edge in source (e.g. 'PO Box 27 1693 SLC 84127' as printed; RoboCent address clipped '2129 General Booth Blvd Virginia'; Smith & Edwards '9010 s Redwood Road West Jord' clipped; Amy Whitelock address redacted with black bar). Candidate address on p.12 cover also redacted. First name on cover reads 'Shauna', middle 'Kayleen' (handwritten; could read 'Kayleon'); attachment pages type it 'Kayeen'. Pages 14-16 (form pp.3-5) are boilerplate municipal-code text with only a signature line on p.16 ('Shauna K Whitelock 10-26-21' handwritten). No contributions of $50-or-less itemized anywhere (line 2 = 0)."
+}

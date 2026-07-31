@@ -1,0 +1,14 @@
+date,body_id,kind,reason,verified_date
+2020-07-16,1559,other,'Magna Metro Township Mayor's Meeting' foreign body riding PC(1559) notice list - not a PC meeting; agenda/packet only,2026-07-17
+2020-10-29,1559,other,'Magna Metro Township General Plan Steering Committee' foreign body riding PC(1559) list - not a PC meeting; agenda only,2026-07-17
+2021-07-21,1559,other,"'Magna Land Use Hearing Officer' (body 6379, out-of-scope) riding PC(1559) list - quasi-judicial, no PC minutes",2026-07-17
+2021-10-26,1559,other,'Magna Metro Township Mayor's Meeting' foreign body riding PC(1559) list - not a PC meeting; agenda/packet/audio only,2026-07-17
+2024-12-10,6925,other,CRA meeting CANCELLED - notice 959665 states 'Meeting has been cancelled'; sole attachment is the 12-10-24 CRA Agenda; no minutes exist (verified vs the un-cancelled 11-12-2024 control notice),2026-07-17
+2025-01-14,6925,wrong_date,"CRA doc OCR page-header misprints 'JANUARY 14, 2024'; true meeting date 2025-01-14 confirmed by its adjourn/attest block + the 2025-02-11 approval motion; recovered and promoted",2026-07-16
+2025-11-18,6925,draft,CRA doc stamped 'DRAFT MINUTES - UNAPPROVED'; re-checked PMN 2026-07-19 (Q3) - still never posted APPROVED; PMN body 6925 no longer displays even the DRAFT notice (history purged); best copy remains the unpromoted DRAFT sidecar. NOT promoted (review-only sidecar),2026-07-19
+2026-01-13,6925,other,"NOT a CRA meeting date - a Broadway-CRA plan hearing-notice date embedded in a filename on the 01-27-2026 CRA notice (real meeting was 01-27-2026); fetch_new probe false-positive, suppressed",2026-07-17
+2026-02-10,6925,other,CRA meeting CANCELLED - sole attachment is '02-10-2026 Magna CRA Meeting CANCELLATION NOTICE.pdf'; no minutes exist,2026-07-17
+2026-03-10,6925,other,CRA meeting CANCELLED - notice 1064903 carries '03-10-2026 Magna CRA Meeting CANCELLATION NOTICE.pdf'; no minutes exist (surfaced by the 2026-07-17 fetch_new CRA-6925 probe),2026-07-17
+2026-04-14,6925,other,CRA meeting CANCELLED - notice 1072669 (Magna City Community Reinvestment) marked cancelled; no minutes exist (surfaced by the 2026-07-17 fetch_new CRA-6925 probe),2026-07-17
+2026-05-12,6925,agenda_only,"CRA meeting held (agenda posted, notice 1079775) but minutes NOT yet posted to PMN - re-checked 2026-07-19 (Q3): body 6925 shows only 05-12-2026 audio + agenda, still no minutes (not even DRAFT), and no July-2026 CRA meeting yet exists to carry an approval; still pending, re-check next refresh",2026-07-19
+2026-06-09,6925,agenda_only,"CRA meeting held (notice 1087191, agenda posted) but own minutes NOT yet posted - re-checked 2026-07-19 (Q3): body 6925 shows 06-09-2026 audio + agenda plus a carried 01-27-2026 minutes DRAFT (not its own); still no 06-09 minutes; pending approval, re-check next refresh",2026-07-19

@@ -1,0 +1,35 @@
+{
+  "contributions": [
+    {"date": "8/11/23", "name": "Evan Feinberg", "amount": "100.00", "in_kind": false},
+    {"date": "9/6/23", "name": "Paul Cantor", "amount": "242.15", "in_kind": false},
+    {"date": "9/6/23", "name": "Edward Feinberg", "amount": "16.85", "in_kind": false},
+    {"date": "9/5/23", "name": "Women's Democratic Club", "amount": "96.25", "in_kind": false},
+    {"date": "9/20/23", "name": "Sharon Mariner", "amount": "47.00", "in_kind": false},
+    {"date": "9/20/23", "name": "Bob & Dorothy McCabe", "amount": "47.77", "in_kind": false},
+    {"date": "9/22/23", "name": "Katy Bondinaro", "amount": "23.47", "in_kind": false},
+    {"date": "9/23/23", "name": "Barbara Asher", "amount": "238.00", "in_kind": false},
+    {"date": "9/26/23", "name": "Elizabeth Zappa", "amount": "190.72", "in_kind": false},
+    {"date": "10/6/23", "name": "Linda Pasternack", "amount": "71.00", "in_kind": false},
+    {"date": "10/12/23", "name": "Bryan Russ", "amount": "23.20", "in_kind": false},
+    {"date": "10/21/23", "name": "Jennifer Frazer", "amount": "286.08", "in_kind": false},
+    {"date": "10/6/23", "name": "Women's Democratic Club", "amount": "43.52", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/18/23", "recipient": "Fedex Office", "purpose": "Literature", "amount": "86.86", "in_kind": false},
+    {"date": "10/21/23", "recipient": "Lyon Printing", "purpose": "Yard Signs", "amount": "527.67", "in_kind": false}
+  ],
+  "total_contributions": "1517.92",
+  "total_expenditures": "614.53",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "903.39",
+  "_meta": {
+    "index_path": "raw/2023_07_Evan-Feinberg.pdf",
+    "candidate": "Evan Feinberg",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_07_Evan-Feinberg.pdf",
+    "pages": 3
+  }
+}

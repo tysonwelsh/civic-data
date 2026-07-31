@@ -1,0 +1,46 @@
+{
+ "date": "2023-09-12",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2023/2023-09-11/2023-09-12_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Brooke D'Sousa to continue with the Council agenda items",
+   "motion_type": "Procedural/Administrative",
+   "result": "7-0 Pass",
+   "mover": "Zach Robinson",
+   "seconder": "Brooke D'Sousa",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Scott Earl to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Zach Robinson",
+   "seconder": "Scott Earl",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 2
+  }
+ ]
+}

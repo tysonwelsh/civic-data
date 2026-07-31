@@ -1,0 +1,8 @@
+election_year,office,seat,candidate,issue,detail,checked
+2019,Council,District 1,,no_disclosures_published,"2019 cycle campaign-finance disclosures are NOT on provo.gov/1001/Election-Documents (page coverage begins 2021). Not on disclosures.utah.gov (state site links back to city page, returned HTTP 500 during retrieval). No 2019 Provo campaign-finance page found in Wayback CDX (provo.gov/1001 first captured 2025-08-05; broad provo.org/provo.gov CDX for campaign/disclosure/finance returned only calendar/utm_campaign false positives).",2026-07-03
+2019,Council,District 3,,no_disclosures_published,see 2019 District 1 row — whole 2019 cycle unpublished on all checked sources,2026-07-03
+2019,Council,District 4,,no_disclosures_published,see 2019 District 1 row,2026-07-03
+2019,Council,Citywide II,,no_disclosures_published,see 2019 District 1 row,2026-07-03
+2021,Council,,SUZANNE Q.,filer_not_on_ballot,"Filed a 2021 campaign-finance disclosure (DocumentCenter/View/4467) but does not appear in election_results (not on the primary or general ballot — presumably withdrew before the primary). office/seat unknown; matched_to_results=no in index.csv. NOT an election-record gap — county results list only ballot-qualified candidates.",2026-07-03
+2021,Council,,TOM SITAKE,filer_not_on_ballot,"Filed a 2021 disclosure (View/4468) but not in election_results (withdrew before primary). Likely the same person as 2025 Citywide I candidate 'Tom Fifita Sitake Sr' — NOT asserted as fact, flagged for review. matched_to_results=no.",2026-07-03
+2023,Council,,ARI EMMANUEL WEBB,filer_not_on_ballot,"Filed a 2023 disclosure (View/3797) but not in election_results (withdrew / did not qualify for the ballot). matched_to_results=no.",2026-07-03

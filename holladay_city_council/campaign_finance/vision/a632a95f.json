@@ -1,0 +1,55 @@
+{
+  "contributions": [
+    {
+      "date": "11/3/25",
+      "name": "Khosrow B. Semnanii",
+      "amount": "500.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "11/1/25",
+      "recipient": "Campaign Partner",
+      "purpose": null,
+      "amount": "32",
+      "in_kind": false
+    },
+    {
+      "date": "11/1/25",
+      "recipient": "Canva",
+      "purpose": null,
+      "amount": "15",
+      "in_kind": false
+    },
+    {
+      "date": "12/1/25",
+      "recipient": "Campaign Partner",
+      "purpose": null,
+      "amount": "32",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "500",
+  "total_expenditures": "69",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "428.49",
+  "_meta": {
+    "index_path": "raw/2025_city_sundwall-final.pdf",
+    "candidate": "David Sundwall",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_sundwall-final.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

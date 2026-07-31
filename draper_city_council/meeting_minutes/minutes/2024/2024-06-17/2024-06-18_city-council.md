@@ -1,0 +1,278 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1728&doc_id=14ba5d54-394f-11ef-8c72-005056a89546
+> Meeting date: 2024-06-18
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JUNE 18,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:      Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+              Johnson, Tasha Lowery, Fred Lowry, and Cal Roberts
+EXCUSED:
+STAFF:         David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+               Challburg, Chief of Staff; Scott Cooley, City Engineer; Travis DeJong,
+               Business License Official; Rich Ferguson, Chief of Police; Jennifer
+               Jastremsky, Community Development Director; Malena Murray, Human
+               Resources Director; Rhett Ogden, Parks and Recreation Director; Laura
+               Oscarson, City Recorder; Clint Smith, Fire Chief; Jake Sorensen, Network
+               Manager; John Vuyk, Finance Director; and Alex Getts, Communications
+______________________________________________________________________________________________
+Study Session
+
+       Presentation: Alpine School District Split
+       The Council watched a recorded presentation of a Financial Feasibility Report
+       regarding possible school district creation involving Alpine, American Fork,
+       Cedar Hills, Draper (Utah County portion), Highland, and Lehi.
+
+       Report: Parks and Recreation Capital Improvement Projects
+       Parks and Recreation Director Rhett Ogden reported on completed, ongoing,
+       and planned Parks and Recreation Capital Improvement Projects, and
+       answered questions from the Council. A majority of the Council indicated a
+       desire to award the bid for design work as presented by staff.
+
+       Update: Draper Days
+       Kellie Challburg and David Wilks updated the Council regarding plans for
+       upcoming Draper Days.
+
+Business Session
+
+1.     Call to Order by Mayor Troy K. Walker
+
+2.     Pledge of Allegiance led by Malena Murray
+
+                                                                                    1|Page
+         Draper City Council Approved Meeting Minutes – July 2, 2024
+3.    Oath of Office: Fire Department
+      Fire Chief Clint Smith introduced one individual for promotion and five new
+      firefighters. City Recorder Laura Oscarson administered the Oath of Office to
+      the new firefighters.
+
+4.    Public Comments
+      Parry Jarman, Draper resident, reported increasingly dangerous conditions on
+      the Point of the Mountain Bike Trail in the form of increased cycle and
+      pedestrian traffic, and increased vehicle traffic going in and out of Geneva,
+      especially in the morning. He suggested: that the City mark a trail crossing
+      across three driveways; someone needed to be responsible for cleaning up
+      debris where the trail crossed the driveways; and right-of-way needed to be
+      established at the intersections of the trail.
+
+5.    Consent Items
+5.a   Approval of Resolution #24-26, a Resolution amending the Consolidated
+      Fee Schedule for Draper City.
+5.b   Approval of Resolution #24-28, a Resolution of the Draper City Council
+      appointing Mike Barker as Acting City Manager.
+5.c   Approval of Resolution #24-31, a Resolution adopting policies Section
+      8015 Donated Leave and 8090 Parental Leave of the Personnel Policies
+      and Procedures Manual.
+5.d   Approval of Resolution #24-32, A Resolution authorizing the Mayor to
+      execute a Real Estate Purchase Contract for the purchase of real
+      property from the Canyons School District.
+
+      Councilmember Green moved to approve the                   Consent    Items.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                          Yes No        Absent
+        Councilmember Green               X
+        Councilmember Johnson             X
+        Councilmember T. Lowery           X
+        Councilmember F. Lowry            X
+        Councilmember Roberts             X
+
+6.    Items for Council Consideration
+
+                                                                           2|Page
+6.a   Public Comment: Ordinance #1616, an Ordinance adjusting municipal
+      water rates for customers serviced by Draper City. The public is invited
+      to comment on the proposed rate changes.
+      Finance Director John Vuyk explained that increased water costs had resulted
+      in operating losses and the need for a change in the water rate structure. He
+      said the base rate had not been raised since 2009. Mr. Vuyk presented the
+      proposed water rate structure and showed the impact on an average
+      customer.
+
+      Mayor Walker opened the meeting to public comments.
+
+      Matt Erickson, a Draper resident, thanked the City for the water services
+      provided and said he believed a dollar a day seemed reasonable.
+
+      Mayor Walker closed the public comment period.
+
+      Mayor Walker explained that Draper City did not have its own water source,
+      but purchased water from outside water sources and resold the water to
+      residents. A member of the Council expressed the opinion that the City had
+      probably waited too long to increase the water rates.
+
+      Councilmember F. Lowry moved to approve                 Ordinance     #1616.
+      Councilmember Roberts seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No      Absent
+       Councilmember Green             X
+       Councilmember Johnson           X
+       Councilmember T. Lowery         X
+       Councilmember F. Lowry          X
+       Councilmember Roberts           X
+
+6.b   Public Hearing: Providing Local Consent for a Full-Service Restaurant
+      License for Kompas Taqueria LLC.
+      Business License Official Travis DeJong explained a full-service restaurant
+      license allowed a restaurant to store, sell, and serve all kinds of alcoholic
+      beverages alongside food service. He said the applicant met established
+      distance requirements.
+
+
+
+                                                                          3|Page
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember Green moved to approve local consent for Kompas
+      Taqueria LLC.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+6.c   Public Hearing: Providing Local Consent for a Limited-Service Restaurant
+      License for Sushi Bomb LLC.
+      Travis DeJong explained a limited-service restaurant license allowed a
+      restaurant to store, sell, and serve wine, beer, and heavy beer alongside food
+      service. He said the applicant met established distance requirements.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember T. Lowery moved to approve                     local   consent.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+6.d   Action Item: Resolution #24-29, a Resolution adopting the 2024 Fraud
+      Risk Assessment for the City of Draper.
+      Finance Director John Vuyk reported the City received the same fraud risk
+      score as last year on the 2024 Fraud Risk Assessment.
+
+                                                                           4|Page
+      Councilmember T. Lowery moved to approve Resolution #24-29.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+6.e   Action Item: Resolution #24-30, a Resolution of the Draper City Council
+      acting as the governing body of the Traverse Ridge Special Service District
+      adopting and certifying a tax rate for the 2025 taxable year.
+      Finance Director John Vuyk reported no change was made to the FY 2025
+      certified tax rate for Traverse Ridge Special Service District (.000706).
+
+      Councilmember F. Lowry moved to approve Resolution #24-30.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+6.f   Action Item: Ordinance #1615, an Ordinance adopting the compensation
+      schedule for statutory employees for Fiscal Year 2024-25.
+      Mr. Vuyk said a public hearing was held for statutory employee compensation
+      at the June 4, 2024, Council meeting.
+
+      Councilmember Green moved to approve                  Ordinance     #1615.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+
+                                                                        5|Page
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+6.g   Action Item: Resolution #24-33, a Resolution adopting the acting budget
+      for the time period of July 1, 2024, to June 30, 2025, or until such time as
+      the FY2024-2025 Budget contemplating an increase in property tax is
+      adopted.
+      Mr. Vuyk said the acting budget would carry the City through until a truth in
+      taxation hearing was held and the FY 2025 Budget adopted. He presented and
+      explained changes made to the budget since the last review by the Council.
+
+      Councilmember Roberts moved to approve                 Resolution    #24-33.
+      Councilmember Green seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+7.    Recess to a Community Reinvestment Agency Meeting.
+      Councilmember Green moved to recess to a Community Reinvestment
+      Agency Meeting. Councilmember F. Lowry seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No     Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+      The Council resumed the City Council meeting at 7:41 pm.
+
+
+
+                                                                          6|Page
+     Council/Manager Reports (continued from Study Session agenda)
+     Councilmember F. Lowry asked about the status of mitigation efforts for Ann’s
+     Trail with Edge Homes. Staff responded an update had been requested but
+     not yet received. Councilmember F. Lowry requested an update every couple
+     of weeks.
+
+     Councilmember Roberts asked for an update regarding trailers on 300 East.
+     Staff said the property owner was cited, and the matter was going through the
+     code enforcement process.
+
+     Closed Session (continued from Study Session agenda)
+     Councilmember Green moved to recess to a Closed Session to discuss
+     litigation. Councilmember Roberts seconded the motion, which passed
+     by unanimous vote (5-0).
+
+     The Council resumed the City Council meeting at 8:11 pm.
+
+8.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember F.
+     Lowry seconded the motion, which passed by unanimous vote (5-0).
+
+     The meeting adjourned at 8:11 pm.
+
+
+
+
+                                                                         7|Page
+

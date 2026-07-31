@@ -1,0 +1,606 @@
+> Source: https://www.utah.gov/pmn/files/1452459.pdf
+> Meeting date: 2026-06-10
+> Format: pdf-text
+
+---
+
+<!-- source: pmn | body: Council | pmn_file: 1452459 | label: DRAFT Reg Council 2026.6.10.pdf | date: 2026-06-10 | meeting_kind: RC | source_url: https://www.utah.gov/pmn/files/1452459.pdf | retrieved: 2026-07-12 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL MEETING
+
+COUNCIL MEETING                                                Wednesday June 10, 2026
+                                                               7:00 p.m.
+
+CITY OFFICES                                                   220 East Morris Avenue
+                                                               South Salt Lake, Utah 84115
+
+PRESIDING:                                                     Council Chair Sharla Bynum
+
+CONDUCTING:                                                    Ray deWolfe, At-Large
+
+PLEDGE OF ALLEGIANCE :                                         Corey Thomas, District 2
+
+SERGEANT AT ARMS:                                              Carson Aprato, Spencer Redden
+
+COUNCIL MEMBERS PRESENT:
+      Joy Glad, Corey Thomas, Sharla Bynum (Zoom),
+      Nick Mitchell (Zoom), Irvin Jones, Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS NOT PRESENT:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Charee Peck, HR Director
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Joy Manwiller, Interim Finance Director
+       Chris Merket, City Engineer
+       Corby Talbot, Capital Improvements Plan Manager
+       Craig Giles, Public Works Director
+       Jenny Diersen, Senior Program Manager
+       Jodi Fait, Victim Services Supervisor
+       Matthew Robins, Executive Assistant
+       Carson Aprato, Police Sergeant
+       Spencer Redden, Police Officer
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      May 13th, Work Meeting
+      May 13th, Regular Meeting
+
+
+                                              1
+South Salt Lake – Regular Council Meeting                                              June 10, 2026
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Joy Glad
+
+Voice Vote:
+Glad:            Yes
+Thomas:          Yes
+Bynum:           Yes
+Mitchell:        Not Present
+Jones:           Yes
+Williams:        Yes
+deWolfe:         Yes
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+         meetings, activities, etc. Next Council Meeting—June 17th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Haisel Stout, shared some thoughts regarding a recent
+          news story regarding policing in American Fork.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood recognized June as Pride Month and spoke about the Juneteenth
+          Community BBQ held at the South Salt Lake Community Center on Friday, June 5th.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Chair Bynum echoed the Mayor's sentiments, wished everyone a happy
+          Pride Month and highlighted the Juneteenth event, which she attended and
+          described as getting better every year
+
+              Council Member Mitchell also wished the community a happy Pride Month and
+              encouraged everyone to celebrate and enjoy the time.
+
+              Council Member deWolfe echoed the Mayor's comments and wished everyone a
+              happy Pride Month.
+
+       6. INFORMATION.
+             a. Victim Services Federal Grant Update
+                Victim Services Supervisor, Jodi Fait, presented the second annual report to
+                the governing board as required by the certified assurances of the federal
+                grants. Ms. Fait reported on the first year of the grant cycle, which ran from
+                June 1, 2025, to June 30, 2026.
+
+                     She explained that the City utilizes two federal grants. The first is the
+                                                  2
+South Salt Lake – Regular Council Meeting                                           June 10, 2026
+
+
+                   Victims of Crime Act grant, which funds the Victim Services team. Jody
+                   explained that her position as the full-time Victim Services Supervisor is fully
+                   funded by the City, including fringe benefits. The team also includes three
+                   full-time victim advocates, whose salaries are funded 79% by the Victims of
+                   Crime Act grant and 21% by the City.
+
+                   She noted that the City's financial contribution provided the flexibility
+                   needed to include the advocates in annual City raises, keeping the positions
+                   competitive. The advocates' fringe benefits are fully funded by the City.
+                   These advocates support victims of violent crime through the entire criminal
+                   justice process, providing services such as scene response, case
+                   investigation support, court accompaniment, counseling referrals, medical
+                   transportation, and protection orders.
+
+                   The second grant is the Violence Against Women Act grant, which funds
+                   26% of the salaries for two specialized, trauma-focused, and victim-
+                   centered detectives. These detectives handle all domestic violence, sexual
+                   assault, harassment, and stalking cases.
+
+                   During the reporting year, the Victim Services team served 2,216 victims of
+                   violent crime, of which 1,618 involved crimes against women. Domestic
+                   violence remained the most prevalent case type. In total, the supervisor and
+                   the three advocates provided 8,797 individual victim services.
+
+                   Ms. Fait also noted her role in tracking and facilitating U-Visa applications
+                   for crime victims seeking citizenship, reporting that 24 applications were
+                   processed and submitted to the Police Chief for signature during the grant
+                   year.
+
+                   She concluded by highlighting the team's participation in various community
+                   coalitions and committees, as well as their attendance at the annual crime
+                   victims conference in Midway, Utah.
+
+Action Items
+Appointments by the Mayor
+    1. Stewart Okobia – Finance Director
+        The Mayor presented Mr. Okobia to the Council for their advice and consent as a new
+        appointment.
+
+       A copy of Mr. Okobia’s resume, which was provided to the Council at the Work Meeting,
+       is attached and incorporated by this reference.
+
+       Council Member Glad made a motion to approve Mr. Okobia as the Finance Director.
+
+
+MOTION: Joy Glad
+SECOND: Corey Thomas
+
+
+                                               3
+South Salt Lake – Regular Council Meeting                                           June 10, 2026
+
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Yes
+Bynum:            Yes
+Mitchell:         Yes
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+Unfinished Business
+    1. Council Q & A: Budget for Fiscal Year 2026-2027
+        Mayor Wood presented the budget update, noting that the City faced similar budget
+        constraints to those affecting local households and municipalities nationwide, with
+        rising costs and increasing demand for services. She explained that the City took a
+        fiscally conservative approach, predicting flat revenue growth. The proposed budget
+        balanced these challenges through a combination of cost-saving measures and
+        proposed utility fee adjustments.
+
+        These included an increase in the Public Safety Service Fund, which is an enterprise fund
+        used strictly to support police, fire, code enforcement, and emergency management
+        services. This change would shift public safety costs off the General Fund, representing
+        an estimated increase of $7/month for an average homeowner.
+
+        The budget also proposed small increases to sewer and garbage utility fees due to
+        vendor contracts and the maintenance of utility infrastructure.
+
+        Additionally, a Transportation Utility Fee was proposed to fund road projects. The total
+        monthly impact of these combined utility fee changes was estimated at $10/month for
+        an average single-family home.
+
+        To minimize these increases, the City cut $11,700,000 from the budget by reducing
+        operating costs, deferring capital projects—including renovations to Fire Station 43,
+        parking lot safety improvements at the police station, and one million dollars in vehicle
+        replacements across all departments—and eliminating three full-time positions.
+
+        The City was also forced to pass along increased healthcare premium costs to
+        employees, resulting in a monthly increase of approximately $100 for employees on a
+        family plan. To offset higher premiums, the City selected plans with higher deductibles.
+
+        Mayor Wood noted that the City had partnered with Zion’s Public Finance to conduct a
+        comprehensive cost-of-services study to evaluate City fees across all departments.
+
+        On a positive note, she reported that construction on the new Public Works campus is
+        on track, with the City scheduled to take possession of the north building on July 22,
+        2026. She also highlighted progress on the Water Tower Plaza, the City's new culinary
+        water well, downtown transit-oriented development, and the upcoming tenth
+        anniversary of Mural Fest, which would mark the completion of one hundred
+        community murals.
+                                                4
+South Salt Lake – Regular Council Meeting                                          June 10, 2026
+
+
+
+       Mayor Wood also addressed specific questions previously submitted by the City Council.
+       She clarified that a historical fund balance comparison handout had been provided.
+
+       Regarding the Transportation Utility Fee, she explained that all projects had been
+       delayed by at least one year due to rising material costs and local asphalt production
+       limits resulting from clean air regulations. She noted that only Morgan Asphalt currently
+       met these new standards.
+
+       She reported that if the City had enacted Truth in Taxation to capture new property
+       growth over the past two years, it would have generated approximately $600,000 in
+       total revenue.
+
+       She explained that a one percent salary increase across all departments costs the City
+       approximately $315,000 dollars.
+
+       Regarding the Promise Program, she clarified that budget decreases resulted from
+       students transitioning from Moss Elementary to Olene Walker Elementary. Because
+       South Salt Lake students no longer attend Moss Elementary, Millcreek Promise assumed
+       control of after-school programming there.
+
+       She confirmed that no funding was allocated for a City mobile application in the fiscal
+       year 2026–2027 budget, as communication staff would focus on existing channels and
+       the website.
+
+       She clarified that line item 10-68-889-01 for the Best Buy Teen Tech Center was a two-
+       year grant cycle currently awaiting federal renewal.
+
+       Line item 10-70-430-10 consolidated Mural Fest and public art installations to simplify
+       tracking.
+
+       Line item 51-70-250-04 funded updates to a water vault and designs for a vault
+       expansion to support a future east tank.
+
+       Line item 56-70-260-00 for wastewater system maintenance was increased by $300,000
+       to hire a contractor to inspect and assess pipe conditions.
+
+   2. Notification that the Executive or Budget Officer of the City Intends to State in a Public
+      Meeting that the Interim Budget Includes a Proposed Tax Rate Increase
+      City Attorney, Josh Collins, explained that the notification of the intention to state in a
+      public meeting of a proposed tax rate increase is an administrative requirement under
+      state law.
+
+       No formal action is needed on this item.
+
+   3. Statement by the Executive or Budget Officer that the Interim Budget Includes a
+      Proposed Tax Rate Increase
+      City Attorney, Josh Collins, confirmed that a statement was made by the City Budget
+                                               5
+South Salt Lake – Regular Council Meeting                                          June 10, 2026
+
+
+        Officer that the interim budget includes a proposed tax rate increase.
+
+        No formal action is needed on this item.
+
+    4. A Resolution of the South Salt Lake City Council Acknowledging That an Executive or
+       Budget Officer of the City Stated in a Public Meeting that the Interim Budget includes
+       a Proposed Tax Rate Increase
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Resolution.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Yes
+Bynum:            Yes
+Mitchell:         Yes
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+    5. Property Tax Impact Schedule
+       City Attorney, Josh Collins, explained that the Property Tax Impact Schedule is an
+       administrative requirement under state law to notify the public of the potential tax
+       impact if the proposed property tax increase for the Public Safety Service Fund is
+       approved.
+
+        A copy of the Property Tax Impact Schedule was made available to the Council Members
+        and the public attendees at the meeting.
+
+        A copy of the Property Tax Impact Schedule is attached and incorporated by this
+        reference.
+
+        No formal action is needed on this item.
+
+    6. A Resolution of the South Salt Lake City Council Acknowledging That an Executive or
+       Budget Officer of the City Presented and Made Available to the Public a Property Tax
+       Impact Schedule as a Separate Document from all Other Budget Documents
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Glad made a motion to approve the Resolution.
+
+
+
+                                               6
+South Salt Lake – Regular Council Meeting                                         June 10, 2026
+
+
+MOTION: Joy Glad
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Yes
+Bynum:            Yes
+Mitchell:         Yes
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+    7. An Ordinance of the South Salt Lake City Council Adopting a Final Tax Rate for the
+       General Purposes of the City
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Glad made a motion to move this item as Unfinished Business to the
+        next Regular Meeting.
+
+
+MOTION: Joy Glad
+SECOND: Clarissa Williams
+
+Voice Vote:
+Glad:             Yes
+Thomas:           Yes
+Bynum:            Yes
+Mitchell:         Yes
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+    8. An Ordinance of the South Salt Lake City Council Adopting a Proposed Tax Rate for the
+       Public Safety Services Purposes of the City
+       Mayor Wood reported that the City had not yet received the certified tax rate from Salt
+       Lake County, which was expected by June 13, 2026.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to move this item as Unfinished Business to
+        the next Regular Meeting.
+
+
+MOTION: Clarissa Willliams
+SECOND: Joy Glad
+
+Voice Vote:
+                                               7
+South Salt Lake – Regular Council Meeting                                          June 10, 2026
+
+
+Glad:           Yes
+Thomas:         Yes
+Bynum:          Yes
+Mitchell:       Yes
+Jones:          Yes
+Williams:       Yes
+deWolfe:        Yes
+
+Public Hearing – 7:25 p.m. (Or As Soon Thereafter as Possible)
+   1. To receive public comment regarding the adoption of the South Salt Lake City budget
+        for fiscal year July 1, 2026, to June 30, 2027. Said budget to include:
+             a. General Fund
+             b. Public Safety Service Special Revenue Fund
+             c. Lease Debt Service Fund
+             d. Capital Improvements Fund
+             e. Public Works Campus Construction Fund
+             f. Water Utility Fund
+             g. Wastewater Fund
+             h. Solid Waste Fund
+             i. Stormwater Utility Fund
+             j. Insurance Reserve Fund
+             k. Transportation Utility Fund
+
+            The public hearing was opened at 7:31 p.m.
+
+            Parkway Avenue resident, Garrett Beckler, shared comments and questions
+            regarding the line item for the 1300 East tank.
+
+            Parkway Avenue resident, Keith Carrick, shared comments and questions regarding
+            the line item for the 1300 East tank.
+
+            Parkway Avenue resident, Bryce Mihalevich, shared comments and questions
+            regarding the line item for the 1300 East tank.
+
+            The public hearing was closed at 7:35 p.m.
+
+            Council Member Williams expressed appreciation for the work put into the budget
+            under tight economic constraints, noting that the service fee increases for water,
+            sewer, and trash were necessary to maintain the quality of life in the City.
+
+            Council Chair Bynum voiced caution regarding any potential reductions to the
+            proposed cost-of-living adjustment, noting that employees are already absorbing
+            significant increases in healthcare premiums, and reducing their cost-of-living
+            adjustment could place them in a financial deficit.
+
+            Council Member Mitchell advocated for a more conservative approach, suggesting
+            the Council eliminate cost-of-living adjustments entirely for the fiscal year. He
+            argued that raising property taxes while providing salary increases did not represent
+                                               8
+South Salt Lake – Regular Council Meeting                                           June 10, 2026
+
+
+           a fair message to the public.
+
+           Council Member deWolfe expressed concern over a combined cost-of-living and
+           merit increase, noting that a 6% increase for non-sworn employees was difficult to
+           justify alongside a property tax increase. He requested a breakdown of what a 1% or
+           2% reduction in the cost-of-living adjustment would look like in savings.
+
+           Council Member Jones emphasized that the City must remain competitive with
+           other cities and private employers to prevent losing trained staff, particularly police
+           officers. He supported the proposed property tax increase for the Public Safety
+           Service Fund, noting that citizens are more willing to pay taxes if they know the
+           funds are dedicated to improving emergency response times and keeping them
+           safe.
+
+           Council Member Williams noted the recent approval of the Resolution by a majority
+           of the Council that would have the City join the Community Renewable Energy
+           program through a third-party group that would raise residents’ utility bills by
+           $4/month. She stated that making that choice was not the best way to address
+           renewable energy concerns and especially during a time when some or most of the
+           Council Members were also hesitant to amend the Transportation Utility Fee that
+           would now charge residents, as well as the current proposed tax rate increases.
+
+           Council Member deWolfe stated that the Resolution expressed an intent to join the
+           Community Renewable Energy program if a spot becomes available, and that the
+           City hasn’t officially joined the program yet.
+
+           Mayor Wood shared that the $11.7 million that was cut from the budget was done
+           so with the understanding and the hope that employees’ COLA and merit raises
+           would not be impacted in a year where their healthcare premiums had gone up.
+
+           Council Member Joy Glad suggested that rather than adjusting the cost-of-living
+           adjustment, the Council could look at adjusting the merit step increases, as cost-of-
+           living increases are essential regardless of performance.
+
+           HR Director, Charee Peck, clarified that a cost-of-living adjustment raises the entire
+           pay scale, whereas a merit increase is a step increase on the pay scale (always 3%
+           for non-sworn employees and 4% for sworn officers, based on meeting performance
+           requirements).
+
+           Council Chair Bynum acknowledged the first-hand knowledge of the burden that
+           public employees face when they rely on COLA and merit raises to provide livable
+           wages and to pay for their healthcare in comparison to private sector employees.
+
+           Council Chair Bynum requested information on the budget savings that would result
+           from a 1% reduction in the cost-of-living adjustment.
+
+           Council Member deWolfe requested a comparison of salary increases across
+           neighboring cities.
+                                                9
+South Salt Lake – Regular Council Meeting                                           June 10, 2026
+
+
+
+              Mayor Wood agreed to compile and provide this information.
+
+              Council Member Glad stressed that while healthcare is a vital need, the City must be
+              careful to avoid losing top talent because of uncompetitive salaries, as replacing
+              staff is more expensive than retaining them.
+
+              Council Member Glad made a motion to move all the separate Ordinances for each
+              fund budget as Unfinished Business to the next Regular Meeting.
+
+
+MOTION: Joy Glad
+SECOND: Clarissa Williams
+
+Voice Vote:
+Glad:             Yes
+Thomas:           Yes
+Bynum:            Yes
+Mitchell:         Yes
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+Public Hearing – 7:30 p.m. (Or As Soon Thereafter as Possible)
+   1. To receive public comment regarding a compensation increase for Elected and
+        Statutory Officers of South Salt Lake, which is included in the proposed budget for
+        fiscal year 2026-2027
+
+       The public hearing was opened at 8:07 p.m.
+
+       South Salt Lake resident, Haisel Stout, spoke in favor of increasing compensation for
+       elected and statutory officials. They argued that if compensation for elected offices do
+       not offer a living wage, only wealthy individuals will be able to afford to run for or hold
+       office, leading to a government disproportionately represented by the rich. They noted
+       that while pay increases for officials during tax hikes can feel counterintuitive, adequate
+       compensation ensures that individuals from all socioeconomic backgrounds can serve in
+       government.
+
+       No other members of the public came forward to speak.
+
+       The public hearing was closed at 8:10 p.m.
+
+       Council Member Glad asked how many statutory officers there were in the City.
+
+       Mayor Wood said that there are roughly 20.
+
+       Council Chair Bynum agreed with the resident’s comment and emphasized that
+       inadequate compensation for elected officers prevents lower-income residents from
+                                                10
+South Salt Lake – Regular Council Meeting                                          June 10, 2026
+
+
+       running, limiting the diversity of representation. She reminded the Council Members
+       that while elected officials can choose whether to accept their salary increases,
+       establishing a fair compensation structure is critical for future candidates who may rely
+       on that income to serve.
+       Council Chair Williams noted that City Council positions are part-time in theory but
+       often require full-time commitments. She thanked the resident for their input and
+       reminder that representation of the community is tied to fair and livable pay for elected
+       and statutory officers.
+
+       Council Member Ray deWolfe expressed that while he understood the structural
+       arguments for competitive pay, he personally found it difficult to accept a pay increase
+       in a budget year that features significant tax and utility fee increases. He noted he has
+       declined raises in the past and felt uncomfortable with the timing.
+
+       A copy of the Resolution is attached and incorporated by this reference.
+
+       Council Member Williams made a motion to move the Resolution as Unfinished
+       Business to the next Regular Meeting.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Glad:          Yes
+Thomas:        Yes
+Bynum:         Yes
+Mitchell:      Yes
+Jones:         Yes
+Williams:      Yes
+deWolfe:       Yes
+
+
+       Council Member Williams made a motion to Adjourn.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Glad:          Yes
+Thomas:        Yes
+Bynum:         Yes
+Mitchell:      Yes
+Jones:         Yes
+Williams:      Yes
+deWolfe:       Yes
+
+
+                                              11
+South Salt Lake – Regular Council Meeting                               June 10, 2026
+
+
+
+
+       The meeting adjourned at 8:19 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            12

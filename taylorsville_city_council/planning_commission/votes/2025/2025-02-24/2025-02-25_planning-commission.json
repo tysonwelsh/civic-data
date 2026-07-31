@@ -1,0 +1,99 @@
+{
+ "date": "2025-02-25",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2025/2025-02-24/2025-02-25_planning-commission.md",
+ "present": [
+  "Don Russell",
+  "Don Quigley",
+  "Lynette Wendel",
+  "Cindy Wilkey",
+  "David Wright",
+  "Gordon Willardson",
+  "David Young",
+  "Marc McElreath"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve the minutes of the February 11, 2025 meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Don Quigley",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Lynette Wendel",
+    "Cindy Wilkey"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to forward a negative recommendation to the City Council regarding File #1Z25 — DCA-000509-2025, a Zoning Text Amendment to Taylorsville Municipal Code Sections 13.02.200 and 13.26.040, as Specified in Exhibit A of the Staff Report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Negative recommendation 6-1",
+   "kind": "recommendation",
+   "mover": "Lynette Wendel",
+   "seconder": "David Wright",
+   "aye": [
+    "Don Russell",
+    "Cindy Wilkey",
+    "David Wright",
+    "Don Quigley",
+    "Lynette Wendel",
+    "Gordon Willardson"
+   ],
+   "nay": [
+    "David Young"
+   ],
+   "abstain": [],
+   "absent": [
+    "Marc McElreath"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "6-1",
+   "case_no": [
+    "1Z25"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "1Z25"
+   ],
+   "motion_no": 3
+  }
+ ]
+}

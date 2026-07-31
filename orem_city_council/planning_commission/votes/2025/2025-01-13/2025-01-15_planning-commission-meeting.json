@@ -1,0 +1,50 @@
+{
+ "date": "2025-01-15",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-01-13/2025-01-15_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "retain things as they are",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "James Hawkes",
+   "seconder": "Rod Erickson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "adjourn;",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "6:0 Pass",
+   "outcome": "Passed",
+   "mover": "",
+   "seconder": "",
+   "names_recorded": true,
+   "aye": [
+    "Mike Carpenter",
+    "Gerald Crismon",
+    "Rod Erickson",
+    "James Hawkes",
+    "Madeline Komen",
+    "Britton Runolfson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

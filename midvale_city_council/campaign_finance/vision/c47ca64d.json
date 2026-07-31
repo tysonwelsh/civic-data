@@ -1,0 +1,64 @@
+{
+  "reports": [
+    {
+      "reporting_period": "REPORT - Prior to General Election, Summary Column A: Total thru October 7, 2025 (itemization from Appendix A contributions and Appendix B expenditures)",
+      "contributions": [
+        {"date": null, "name": "Realtors", "amount": "1,000.00", "in_kind": false},
+        {"date": null, "name": "Stefan Spellman", "amount": "100.00", "in_kind": false},
+        {"date": null, "name": "Jon Rowe", "amount": "50.00", "in_kind": false},
+        {"date": null, "name": "Samatha Smith", "amount": "75.00", "in_kind": false},
+        {"date": null, "name": "Zach Robins", "amount": "150.00", "in_kind": false},
+        {"date": null, "name": "David Hall", "amount": "250.00", "in_kind": false},
+        {"date": null, "name": "Jeff McGill", "amount": "50.00", "in_kind": false},
+        {"date": null, "name": "Arne Carter", "amount": "100.00", "in_kind": false},
+        {"date": null, "name": "Dustin Gettle", "amount": "50.00", "in_kind": false},
+        {"date": null, "name": "Britta Mansfield", "amount": "100.00", "in_kind": false},
+        {"date": null, "name": "Suzanne Walker", "amount": "50.00", "in_kind": false},
+        {"date": null, "name": "Cliff Blair", "amount": "100.00", "in_kind": false},
+        {"date": null, "name": "Womens Democratic", "amount": "100", "in_kind": false},
+        {"date": null, "name": "Heidi Robinson", "amount": "35.00", "in_kind": false},
+        {"date": null, "name": "Joel helquist", "amount": "25.00", "in_kind": false},
+        {"date": null, "name": "Jessica Bezznat", "amount": "10.00", "in_kind": false},
+        {"date": null, "name": "Colling Lorescher", "amount": "22.00", "in_kind": false},
+        {"date": null, "name": "Caroline Ellils", "amount": "40.00", "in_kind": false},
+        {"date": null, "name": "Shane Earl", "amount": "25.00", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": null, "recipient": "Shirts", "purpose": null, "amount": "370.00", "in_kind": false},
+        {"date": null, "recipient": "Signs", "purpose": null, "amount": "435.00", "in_kind": false},
+        {"date": null, "recipient": "Fiverr Design", "purpose": null, "amount": "105.00", "in_kind": false},
+        {"date": null, "recipient": "Flyers", "purpose": null, "amount": "509.00", "in_kind": false},
+        {"date": null, "recipient": "Candy for Event", "purpose": null, "amount": "120.00", "in_kind": false},
+        {"date": null, "recipient": "Compliance Stickers", "purpose": null, "amount": "150.00", "in_kind": false},
+        {"date": null, "recipient": "Bracelets", "purpose": null, "amount": "120.00", "in_kind": false}
+      ],
+      "total_contributions": "2332",
+      "total_expenditures": "1809",
+      "contributions_50_or_less": "157",
+      "beginning_balance": "0",
+      "ending_balance": "523"
+    },
+    {
+      "reporting_period": "REPORT - Prior to General Election October 28, 2025 (cover checkbox marked; Summary Column B: Total thru October 28, 2025; itemization from handwritten Schedule B)",
+      "contributions": [],
+      "expenditures": [
+        {"date": null, "recipient": "Midvale City", "purpose": "Venue Rental", "amount": "425", "in_kind": false},
+        {"date": null, "recipient": "Mayor Dustin Gettel", "purpose": "Campaign", "amount": "100", "in_kind": false}
+      ],
+      "total_contributions": "0",
+      "total_expenditures": "525",
+      "contributions_50_or_less": "0",
+      "beginning_balance": "523",
+      "ending_balance": "-2"
+    }
+  ],
+  "_meta": {
+    "index_path": "raw/2025_08_Bryant-Brown.pdf",
+    "candidate": "Bryant Brown",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_08_Bryant-Brown.pdf",
+    "pages": 6
+  }
+}

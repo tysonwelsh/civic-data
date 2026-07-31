@@ -1,0 +1,142 @@
+{
+ "date": "2025-03-06",
+ "year": 2025,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2025/2025-03-06/2025-03-06_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to accept the financial report",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Tyler Huish",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to accept the minutes of February 6, 2025",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Ordinance No. 2025-02-02 An Ordinance Amending Title 8 of the White City Municipal Code, Provisions on Animals",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to table item this to send back that 2.40.2 is removed and it goes back to the way we currently have it and bring it back for consideration at the next council meeting. The motion",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Died (no second)",
+   "mover": "Tyler Huish",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve Ordinance No. 2025-O-03 An Ordinance setting forth the Election Process for White City’s Five-Member Form of Government pursuant to Utah Code Section 10-1- 201.5(H.B. 35-2024 Legislative Session) and to Enact Conforming Edits to Title 2 of the White City Municipal Code to Comply with this Ordinance as amended with corrections",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "Pass",
+   "mover": "Greg Shelton",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 6,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+# Community Reinvestment Agency Meeting
+> Source: https://www.utah.gov/pmn/files/1430807.pdf
+> Meeting date: 2025-09-08
+> Format: text
+
+---
+
+**Body:** CRA
+**Date:** 2025-09-08
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/1430807.pdf
+**Format:** text
+**In-body date match:** YES
+**Provenance:** pmn_minutes
+
+---
+
+                          CITY OF KEARNS
+                          COMMUNITY REINVESTMENT AGENCY (CRA) MEETING
+                          September 8, 2025, 6:00 PM
+                          KEARNS LIBRARY - 4275 W 5345 S, KEARNS, UTAH 84118
+
+
+
+                        CITY OF KEARNS CRA MEETING MINUTES
+                                  September 8, 2025
+
+BOARD MEMBERS PRESENT:                         BOARD MEMBERS EXCUSED:
+Kelly Bush, Chair                              Alan Peterson
+Chrystal Butterfield
+Patrick Schaeffer
+Tina Snow
+
+STAFF PRESENT:
+Nathan Bracken, City Attorney
+Dan Torres, Economic Development Manager
+Diana Baun, Secretary
+
+Others Present:
+
+1. CALL TO ORDER
+
+Board Chair Kelly Bush, presiding, called the meeting to order at 6:00 PM.
+
+2. DETERMINE QUORUM
+
+Chair Bush announced that a quorum was present allowing the meeting to proceed, noting that
+Board Member Al Peterson was absent from the meeting.
+
+3. CITIZEN PUBLIC INPUT - None
+
+
+
+
+4. CONSENT AGENDA
+   A. July 14, 2025 CRA Meeting Minutes
+
+Board Member Snow moved to approve the July 14, 2025 CRA Meeting Minutes as
+published. Board Member Schaeffer seconded the motion; vote was 4-0, unanimous in
+favor with Board Member Peterson absent from the vote.
+
+5. BOARD BUSINESS
+  A. Discussion and Potential Adoption of Agency Bylaws
+
+
+                                CITY OF KEARNS COUNCIL
+                       MAYOR KELLY BUSH, DEPUTY MAYOR TINA SNOW
+           COUNCIL MEMBER CHRYSTAL BUTTERFIELD, COUNCIL MEMBER ALAN PETERSON,
+                           COUNCIL MEMBER PATRICK SCHAEFFER
+Kearns City CRA Meeting                                                                          Page 2
+Kearns Library
+September 8, 2025
+
+Board Member Snow moved to approve adoption of the agency bylaws as published
+and presented in Attachment A tonight. Board Member Butterfield seconded the motion;
+vote was 4-0, unanimous in favor with Board Member Peterson absent from the vote.
+
+     B. Discussion and Potential Adoption of an Agency Code of Conduct
+
+Board Member Butterfield moved to approve adoption of an agency code of conduct as
+published and presented in Attachment B tonight. Board Member Schaeffer seconded
+the motion; vote was 4-0, unanimous in favor with Board Member Peterson absent from
+the vote.
+
+Dan Torres asked to postpone the discussion regarding forming a citizen committee, noting
+there will be an application created to bring to the board for approval at a future meeting.
+
+6. CLOSED SESSION IF NEEDED AS ALLOWED PURSUANT TO UTAH CODE §52-4-205
+
+     A. Discussion of the character, professional competence or physical or mental health of an
+        individual
+     B. Strategy sessions to discuss pending or reasonably imminent litigation
+     C. Strategy sessions to discuss the purchase, exchange, or lease of real property
+     D. Discussion regarding deployment of security personnel, devices, or systems; and/or
+     E. Other lawful purposes as listed in Utah Code §52-4-205
+
+7.    ADJOURN
+
+Board Member Schaeffer moved to adjourn the September 8, 2025 Community
+Reinvestment Agency Meeting and move to the City Council Meeting. Board Member
+Butterfield seconded the motion; vote was 4-0, unanimous in favor with Board Member
+Peterson absent from the vote.
+
+The September 8, 2025 CRA meeting adjourned at 6:04 PM
+
+This is a true and correct copy of the September 8, 2025 Kearns Community
+Reinvestment Agency Meeting Minutes, which were approved on May 11, 2026.
+
+
+Attest:
+
+                                                               Kelly Bush, Board Chair
+Diana Baun, Secretary
+
+
+
+
+                  City of Kearns • 4956 W 6200 S, Suite #527 • Kearns, UT 84118 • 801-654-2123
+

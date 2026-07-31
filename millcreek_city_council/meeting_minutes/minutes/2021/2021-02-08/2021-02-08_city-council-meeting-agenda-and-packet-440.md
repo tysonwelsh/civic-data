@@ -1,0 +1,530 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02082021-440
+> Meeting date: 2021-02-08
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2021-02-08
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02082021-440
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                           Minutes              of the
+                                                                                                  Millcreek              City      Council
+                                                                                                      February                  8, 2021
+                                                                                                                 5:00      p.m.
+                                                                                                           Work          Meeting
+                                                                                                                 7:00      p.m.
+                                                                                                       Regular             Meeting
+
+
+The City          Council        of Millcreek,                   Utah,      met in a public           work        meeting         and regular             meeting       on
+February           8, 2021       at City           Hall,      located        at 3330      S. 1300       E., Millcreek,              UT       84106.         The meeting
+was conducted                 electronically                per Millcreek             State of Local             Emergency               Directive         No.   2 of 2020
+ and live        streamed         via the City's                   website     with     an option          for online           public       comment.
+
+
+PRESENT:
+
+
+Council           Members                                                                 City     Staff
+Jeff     Silvestrini,         Mayor                                                       John     Brems,         City     Attorney
+Silvia      Catten,       District         I                                              Elyse     Sullivan,           City     Recorder
+Dwight           Marchant,         District           2                                   John     Miller,        City     Engineer             (electronic)
+Cheri      Jackson,         District           3                                          Kurt     Hansen,         Legislative            Policy       Director
+Bev      Uipi,     District        4                                                      Rita     Lund,       Cominunications                    Director
+                                                                                          Francis Lilly,            Planning         and Zoning              Director
+                                                                                          (electronic)
+                                                                                          Mike Winder,              Assistant            City     Manager
+                                                                                          (electronic)
+                                                                                          Laurie     Johnson,            HR-Finance               Director       (electronic)
+                                                                                          Jim Hardy,           Building           Official        (electronic)
+                                                                                          Erin     O'Kelley,          Planner         (electronic)
+                                                                                          Samah       Safiullali,          Plaru'ier       (electronic)
+                                                                                          Blaine     Gehring,            Legislative             Policy      Analyst
+
+
+Attendees:           Leslie        Silvestrini,             Tanner          Webster       (electronic),       Brian       Harris         (electronic),       Chief      Duane
+Woolsey           (electronic),        David         Spatafore            (electronic),     Ashley         Spatafore            Mirabelli,          Chief      Steve     DeBry,
+Michael          Lasko,       Tresann              Lasko,          Spencer     Hock,       Lauryn          Hock,        and Whitnee               Webster
+
+
+WORK             MEETING                 - 5:00           p.m.
+TIME         COMMENCED:                             5:07      p.m.
+
+
+Mayor        Silvestrini         called            the work          meeting      to order.
+
+
+1.   Open         and     Public        Meetings               Act       Annual       Training;            John      Brems,          City        Attorney
+     John     Brems        reviewed                the Open          and Public         Meetings           Act     with        the Council.           Council        Member
+     Marchant           asked      about           three      council        members         attending           the community                   council       meetings.
+     Brems         said when           in doubt,            to notice        the meeting.           Mayor          Silvestrini           said at community                 council
+     meetings,          public         coini'nent           could      be provided          for a matter            that might            come       before      the City
+     Council        which        would             then     fall    under     the definition          of a meeting.
+Millcreek        City     Council      Meeting            Minutes                                          8 February           2021        Page 2 of 10
+
+
+
+2. Continued            Discussion        of Capital          Improvement                   Project       Priorities
+   John Miller          said the Mt. Olympus                  Community               Council        provided          staff with      project      priorities
+   since the last City             Council      meeting.          The Canyon               Rim    Citizens       Association           had not submitted
+   any at that time. The Millcreek                        Community               Council        suggested       the "700         E. To Red Maple                 to
+   3300 S" line item on Miller's                        project     spreadsheet.            Miller       said he had received              public         feedback
+   about favoring            one side of the city over the others.                           He showed           the capital          improvement
+   projects      page on the City's              website          as a resource            for project       updates.       Miller       said he received
+   two different          public     comments,            one suggesting              that there were too many                     east side projects             and
+   another       comment        that there were too many west side projects.                                     Council        Member        Marchant
+   asked if the project             priority     list included             bike lanes. Miller              said in the City's            approved
+   budgets,       there was an active              transportation                section     which       included        bike   lanes. Mayor
+   Silvestrini      said the Council             would        need to decide               how much           to spend on projects               in the
+   coming        months.      Council          Member        Marchant             asked about the Millcreek                     Community             Council's
+   input.     Rita Lund        said their main             concern          was the crossing              on Highland           Drive.     Miller         said staff
+   added the "3900             S. Highland          Drive         to 2300 slurry            seal (shared         with     Holladay)"          line item.
+   Mayor       Silvestrini         asked if that included                  the painting          of bike lanes. Miller               said no, that would
+   be done with           an overlay         and not a slurry              seal. He said there may be future                          funding       to do that.
+   Rita Lund        said the construction                 on 3900 S. would                  start the following             week.       Council       Member
+   Marchant        asked about the torn-up                   road on Millcreek                   Way.     Mayor         Silvestrini       said temporary
+   repairs     would       be done in the winter                  until     better patches           could be done when                  the weather
+   warmed        up.
+
+
+3. Update        on City       Hall/Mfflcreek               Common               Progress;        Branding
+   Mike      Winder       said staff had been working                        on the branding              for Millcreek           Common            with
+   Anchor        & Alpine.         Francis      Lilly     presented          drafts       of logos for Millcreek                Common.            Winder        said
+   the draft arcmtectural              programming                document            was provided            to staff     from       MHTN,         Inc. Mayor
+   Silvestrini      said department              directors         had been working                  on a wish         list for departmental                needs
+   and broad        space concepts             for the future             City    Hall.     The draft plan would                  assist the Council              in
+   making        a decision        as it was looking              for city hall to be part of a mixed                        use building           with
+   commercial           and shared parking.                He said the document                      would     be made public              when it was no
+   longer      a draft.    Winder       said staff was working                      on community              outreach.         Mayor      Silvestrini           said
+   staff was doing           a survey         of other city halls and those construction                                costs. Winder            said there
+   would      be savings        with     a shared parking                  structure.       Mayor        Silvestrini       pointed       out that the
+   parking       would       be for the park too, so there might                           not be cost savings.              Council        Member
+   Jackson       asked about police              precincts          being        included        in the other cities'           city hall expenses.
+   Mayor       Silvestrini         said that Millcreek              residents         were paying            for Millcreek            Precinct's      rented
+   space already.
+
+
+4. Bus Bench            Discussion        and Direction;                  Kurt      Hansen,          Legislative         Policy       Director
+   Mayor       Silvestrini         said the issue of bus benches                      with       advertisements            was something              the
+   Council       had wrestled          with     since incorporation                   and the business             had been around               for a very
+   long time.       There      are concerns             about the content               of advertising           in the City's          right-of-way.            Kurt
+   Hansen        said there were two businesses                           operating        in the City:       Artistic      Promotions             with     16
+   benches       on private         and public          property          and Imaginos            with    15-20     benches           all on private
+   property.      Hansen        said the Council              last reviewed               the issue in September                2020. At that time,                the
+   Council       had discussed          adopting           a bus bench            and advertising            code, requiring             affidavits         for the
+   bench      owner       to use public         property          if they could            not get permission              from       a property      owner,
+   franchise      agreements,          requiring          trashcans          or not allowing             them,      adding      shelter     specifications
+Millcreek         City     Council       Meeting         Minutes                                            8 February         2021      Page 3 of 10
+
+
+
+    or not, and phasing               out benches            and replacing         them with           shelters.    He presented          the Council
+    with    three possible            choices      going      forward:       grant a grace period                and phase the private
+    advertisers          out over time, the City               writes     a code regulating                 bus benches        which     would        open the
+    door for others           who met code and do nothing                          and only         cite the owners          for maintenance
+    violations.
+
+
+    Council       Member         Marchant          said the primary              motivator          of action      should      be the convenience
+    and safety       of residents.         Council         Member         Jackson        asked about maintenance                     issues with        the
+    benches.       Mayor       Silvestrini         said a bench had been removed                            by city staff because it was unsafe.
+    Council       Member        Uipi      asked for input            from    the City's             code enforcement            personnel.          Mayor
+    Silvestrini      said the Council              could      seek public          input.     Council         Member        Catten     asked about
+    phasing       benches       out and if the City             would       install     its own benches.               Mayor     Silvestrini         said the
+    County        preferred      bus stop shelters.             Council          Member        Jackson         asked if the two businesses                   had
+    been presented            with     the problems            and asked for their              solution.       Hansen       said no. Council
+    Member         Jackson      asked if the City              could phase out the benches                      on private       property.          John
+    Brems      said the benches            were signs masquerading                       as benches.           The ones in the public                right-of-
+    way were not paying                 for the use of the property.                    Council        Member        Jackson      asked who
+   maintained            the garbage       cans by the bench.               Hansen           did not know.          Mayor       Silvestrini         pointed
+    out that the City          could not regulate               content      of the advertising               due to the First Amendment.                        He
+    said the ones on private               property          should      have to comply               with    the City's       sign ordinance.
+    Council       Member        Uipi     wanted        to have a discussion                  with    UTA,      have something            in ordinance,
+    and talk to the two businesses.                    Mayor         Silvestrini        asked if UTA            had a transit         riders    association
+   to ask for their input              or get the public's              input.     Council          Member       Jackson        asked if UTA           benches
+   had advertising.            Council         Member         Uipi     said the shelters             had advertising.           John Brems           said the
+   kiosks     met established             standards.          Mayor       Silvestrini         asked for public           engagement.
+
+
+5. Emergency             Cache        Discussion         and Direction;               Kurt      Hansen,         Legislative        Policy      Director
+   Kurt     Hansen        said staff had written               an ordinance           for emergency             caches (an available                store of
+   evacuation         and trauma          supplies)          for new construction                multi-family          developments            in
+   preparation           for a future     natural       disaster.       He said it would              be based on unit or bedroom                      count,
+   50 or 100. Hansen                 presented       a list of cache components                      and reviewed           the proposed            property
+   owners'        maintenance           requirements.            Council         Member         Marchant         asked about the City                doing       an
+   annual      inspection.           Council      Member         Catten      asked who would                  have access to it. Hansen                 said
+   the property          manager.        Mayor        Silvestrini        said the cache components                      could    be based on ratios.
+   He felt that there may be resistance                         from      developers.          Council         Member        Jackson      pointed          out
+   that brand       names should               not be included           in the cache components
+
+
+6. Staff    Reports
+   There      were none.
+
+
+7. Discussion         of Agenda          Items,       Correspondence,                   and/or        Future       Agenda        Items
+  There     were none.
+
+
+Council     Member            Uipi     moved        to adjourn           the work           meeting          at 6:34 p.m.       Council        Member
+Jackson       seconded.        Mayor           Silvestrini       called     for the vote.             All    Council     Members            voted      yes.
+The motion          passed      unanimously.
+Mfflcreek           City      Council       Meeting       Minutes                                      8 February         2021     Page 4 of 10
+
+
+
+
+REGULAR               MEETING                 - 7:00 p.m.
+TIME        COMMENCED:                         7:00 p.m.
+
+
+1. Welcome,            Introduction              and Preliminary          Matters
+        1.1 Pledge                of Allegiance
+            Mayor           Silvestrini       called    the meeting      to order then led the pledge                   of allegiance.
+
+
+        1.2 Public               Comment
+            Elyse       Sullivan          read an online     public      comment            received     from    the City's      website    from
+            Linda          Clawson,        2258 E. Gregson          Avenue.           "In   reading     the Public       Works'    recommended
+        projects from their wish listlnotice that not one of the nine provides improvement west
+        of 700 East. Are there no improvemeM projects needed in the western part of Millcreek
+        City? Does this area have equitable representation? It seems like most benefits are
+        afforded to the east area of our city.
+
+         Mayor Silvestrini read his reply email to Linda Clawson. "Hi Linda: Thanksfor reachirig
+         out. The story memions projects online for this fiscal year for which we already have
+        funding. Among those is resurfacing 3900 Sfrom 700E to 900W or the Jordan River.
+            Also,      this past year Millcreekredid                    Main      St. and added sidewalks                and bike lanes, built         a
+            new storm            sewer on CentralAvenue,                 did work to 300 East and spent about $400, 000 on
+            Futsal         Courts,        commu'tzity     garden    boxes, and lighting                at Suririyvale     Park    on 700 W         Our
+            west side is not beirxg neglected. In fctct it may be a year for the rest of our city to catch
+            up. ThanksforyourconcernforourwestMillcreekresidents.Jeff"
+
+            Elyse       Sullivan          read an online     public      comn'ient          received     from    the City's      website    from
+         Katie Bradford, 2695 E. 2940 S. "I would just like to add my support to the traffic
+         calming measure 072 2700 E. We live on the corner of 2700 and 2940 S, and we have seen
+         a huge increase in the traffic (artd speed of the traffic) over the past few years. There are
+         many families with small children along this road (ourselves included), arid we'd like it to
+        feel safer and more family friendly again. Thanksfor considering our input!"
+
+            Mayor           Silvestrini       said the City had invested                in additional      speed signs and law
+            enforcement              for 2700 E.
+
+
+        1.3 State              of the City        Address;      Mayor          Jeff    Silvestrini
+            Mayor           Jeff Silvestrini       said the year 2020 included                  a lot of events, pandemic,               earthquake,
+            civil    unrest,       wildfires,      and a windstorm.             He said the Millcreek              community        grieved    for the
+            four skiers          who lost their lives over the weekend                        during     an avalanche.         He recognized        the
+            first responders               who tended       to the event.        He likened          the community          to fabric    and the
+            threads         of the fabric        being    its people.     He recognized              Millcreek      resident     volunteers,    police
+            officers,         firefighters,      paramedics,        healthcare          workers,       teachers,     and city staff.
+
+
+            The Mayor             recognized           Pepa Tafui     and his family           who volunteered            their time nearly        every
+            week,          distributing       food from      the Utah Food Bank                 at the distribution         center on 1100 East.
+            Eagle       Scout Anton             Goodick     built   a food pantry            at Mill    Creek      Elementary,      stocked    it with
+            food donations                and raised more than $8,000                   in cash to supply          food to kids and their
+            families          at both Mill       Creek     and Moss Elementary.                 Nate Gibby          organized     "Canyon      Rim
+Mfflcreek        City     Council        Meeting         Minutes                                           8 February          2021        Page 5 of 10
+
+
+
+            Cares"       which      conducted          a socially      distanced        volunteer           effort    to collect       food,     clothing,
+            and hygiene          kits and raise money                for the Millcreek              Promise          Program       to provide
+            underprivileged            kids and families             with      internet        for school       and work.         Russ Booth          and
+            Mark        Mumford       each completed             four years of volunteer                     service     as Planning
+            Corni'nissioners,          dedicating          hundreds         of hours to the planning                   of the future          environment.
+            Mount        Olympus        Community             Council        Chair     David       Baird      kept his neighborhood                  informed
+            and prepared           in the event an evacuation                   was required           in response         to the Neff's           Canyon
+            wildfire.      He worked           with     the City,      the Forest         Service,         Unified     Fire, and police            to ensure
+            everyone       was informed,              was able to create defensible                        space if the fire had spread, and
+        ready for an orderly                   evacuation       if that had been required.
+
+
+        The Mayor             then recognized              select city staff:          Brandon         Johnson,          Andrew         Clark,     and Aaron
+        Roberts           who responded               to disasters      and provided             relief;     Jana Stratford           who fielded
+        incoming            calls and residents             in the front        office;        and Josie Showalter                and Alexander
+        Wendt            who helped          Millcreek's        businesses           survive      the pandemic.
+
+
+        The Mayor             recognized          Michael        Lasko,        Millcreek         resident,       as Volunteer           of the Year.
+        Lasko           produced      maps,       located      storm     sewers,          and plotted         infirastructure          in a professional
+        engineering              capacity      for the City.         After     last fall's       windstorm,            Lasko      organized        his
+        neighborhood                and gave the City maps of the worst                            damage,           suggesting        locations      for
+        waste trailers             so the neighborhood                could      clean up their             fallen    trees. He and his family
+        later hauled             load after load of green waste to the City's                               collection     site on Wasatch                Blvd.
+        Lasko           informed      the Mayor          that the emergency                response          network      in his neighborhood                    was
+        activated,          he organized          the cleanup          efforts,      kept in communication                     with     the City,        and
+        helped          residents      clean up yards.           Mayor         Silvestrini        said he was proud               of and grateful              for
+        Lasko.          The Mayor            presented      Lasko       with     a plaque        for his exemplary              volunteer          service        to
+        Millcreek.           Michael         Lasko      thanked       the Mayor           and Council           for their work.           He said he was
+        humbled            for the award          since so many people                  helped       out during          that event. He said
+        Millcreek           had a rich heritage             and legacy.
+
+
+        Mayor           Silvestrini      said that City         Hall     had stayed open every day during                              the pandemic.
+        Most        employees          have been able to work                   from home            or their work         trucks.        Staff had
+        shortened           the business         license       process       by a week and were ahead of schedule                                 on issuing
+        building          pen'nits.     The Economic             Development               Department            disbursed         $1.35 million            in
+        CARES             Act funding          to 135 Millcreek              businesses          through       a grant program             and assisted               98
+        others to obtain              business        grants    from     the County.             Through        the Millcreek            Promise
+        Program,           grants were obtained                to fund internet            service         and rental      assistance           to residents.
+        The Program               shifted      to a virtual      learning        platform         for volunteer          tutors       at Mill     Creek
+        Elementary.              The City       has assisted with              that food pantry             and cooperated             with
+        homelessness               agencies      to open an over-flow                  shelter      on 900 E. He announced                       that a
+        number           of capital      improvement            projects        had been completed:                   resurfaced         and added bike
+        lanes on Main               street, constructed             a storm       sewer on Central               Avenue        to alleviate        a flooding
+        problem,          resurfaced          sections      of 1300 E., installed                improvements             at Sunnyvale            Park, and
+        completed           utility     work     in anticipation             of the reconstruction               of the east side of 3900 S.
+        There        are plans to resurface                Highland          Drive     from      3900 S. to 3300 S. during                      the coming
+        year. Sidewalks               will    be completed           on 3300         S. and 700 E. Construction                       on the Mountaire
+        streetscape          was underway.               The Mayor           said the City          had acquired           all the property              needed
+        for Millcreek             Common          without       condemnation.              He anticipated              opening        the ice ribbon             in
+Millcreek          City     Council          Meeting         Minutes                                       8 February         2021         Page 6 of 10
+
+
+
+            the City        Center       by Thanksgiving.              There    would          be construction            of the new fire Station
+            112 on Jupiter              Drive.
+
+
+            Mayor         Silvestrini        reported        that the City      was financially              healthy.      When       the pandemic          hit,
+            staff tightened             the FY 2020-21           budget        and planned           on a 20% reduction                in sales tax, but
+            sales tax revenue                had gone up 1 16o/o from                the prior       year. The City           has been able to add
+            $1.7 million             into the Capital          Improvement            Project      Fund for the next fiscal                 year and
+            increase        the General           Fund balance           to 23.9%        of the allowable           25o/o. Millcreek             carried    a
+            $10 million          inherited         revolving         debt to pay for law enforcement                       and was able to retire
+            that debt. Staff has continued                      to update      ordinances            and address          concerns        of Millcreek
+            residents.        They were currently                working        on an accessory               dwelling      unit     ordinance,
+            revisions        to the commercial                code, and an Urban                Forestry       Standard.       There has been new
+            capital       investment           in the City,      the construction              of the Front       Climbing           Gym on Main
+            Street and a new medical                    tovver at St. Mark's                 Hospital.      Staff had licensed             100 new
+            businesses          last year. The Millcreek                 Business        Council,          a volunteer       organization,          had
+            assisted residents               in various       ways. Millcreek            became          a Monarch         City      and was giving
+            away milkweed                seeds to support             the monarchs.            Millcreek       had completed              two
+            annexations;             a boundary         adjustment         in the city center              area with      Salt Lake City,           and at the
+            request        of residents,          an area north         of Van Winkle             Expressway            between       900 E. and 1300
+            E. Millcreek             has also started to work               on a new community                   reinvestment             area with
+            property        including          and surrounding            St. Mark's           Hospital.
+
+
+            Mayor         Silvestrini        said he was happy             to be the mayor               of a city making            so much       progress.
+            He thanked           the Council           and community            councils          for their     assistance.
+
+
+            1.4 Legislative              Update;        Capstone          Strategies,          LLC
+            Mayor         Silvestrini        said Capstone            was the City's           contracted       lobbyists.         Ashley       Mirabelli
+            said she sends the Council                    a list of bills       and they review               the legislation         and offer
+            feedback.         They were tracking                about 30-35           bills     for Millcreek.
+
+
+            H.B.      82 Single-family              Housing          Modifications.            Mirabelli      said the bill        was heard and
+            passed through              a second hearing              in House       committee.            It allows      internal     accessory
+            dwelling         units     (ADU)        within     the footprint         of a home in single-family                      zones. The ADU
+            must be owner-occupied                      and restricts       short term rentals.               She said city governments
+            cannot        restrict     certain     things,     but can regulate               off street parking,          that the home maintains
+            its use and look,             and for the owner              to obtain      a permit         or license       for rentals.      The Utah
+            League         of Cities      and Towns           (ULCT)        is neutral         on the bill.     The bill      is on its third
+            substitution.            David       Spatafore     said an ADU            bill     would       pass during       the session and each
+            city could        take care of itself.             Mayor      Silvestrini          said Millcreek          residents      were concerned
+            about on-street             parking,       so the requirement              for at least one parking               space for the ADU
+            was a positive             thing     as was owner-occupancy                       and long-term        rentals.        Mike     Winder       said
+            city staff had a conversation                     with     Representative            Ward,       the bill's     sponsor,        on Millcreek's
+            stand on ADUs.
+
+
+            H.B.      248 Mental          Health       Support        Program     for First Responders.                   David       Spatafore       said the
+            bill   went through              House     committee          and it asked for $1 million                    in appropriations.
+Millcreek          City     Council         Meeting          Minutes                                     8 February        2021      Page 7 of 10
+
+
+
+            S.B. 61 0utdoor                Advertising         Amendments.             Spatafore         said the bill     went through
+            committee           but was still being             negotiated.         It would     allow      for the conversion          of regular
+            billboards         to digital        billboards       though       lobbyists      were trying       to negotiate       reducing       the
+            lumens         and number            of turns of the billboard             in residential         areas. The billboard            companies
+            argue that if a city allows                  electronic        on-premises          signs, it would        be discriminatory           to not
+            allow     electronic          off-premises          signs. If a city does not allow                 for electronic       on-premises
+            signs, then regular                 billboards      could not be converted.               Mayor      Silvestrini      said the digital
+            billboard         legislation         sponsor      said billboard         size was not an issue.
+
+
+            H.B.     244 First          Class County           Highway         Road Funds Amendments.                    Spatafore      said the first
+            substitute        allows       for appropriations             so Millcreek         would       get $400,000        per year for the next
+            15 years. He would                   try and get $1 million              more.
+
+
+            Mayor         Silvestrini       asked about H.B.              98 Local         Government         Building      Regulation
+            Amendments.                 Spatafore      said there were a lot of negotiations                     going      on. The original        bill
+            said builders          would         be allowed       to have their        own inspectors           because        sometimes        there
+            were delays          with      city inspections.
+
+
+2. Planning          Matters
+            2.1 First        Reading:
+              a. ZM-20-011,                Rezone       Request         from      R-2-10      to R-1-21       for    Property      Located        at
+                1411         E. Elm        Leaf     Cove;      Erin      O'Kelley,         Planner
+                   Erin O'Kelley            said the applicant             was requesting            a rezone    for the purpose            of allowing
+                   horses on tlie property.                  The property         is over an acre, so a maximum                   of four horses
+                   would       be allowed          though      the applicant's         intent     was to have only           one or two horses.
+                   The property            is at the end of a private              lane with      a single-family           house and accessory
+                   structures.      The applicant             would      construct         a structure     for the horses.        The residences           on
+                   the private          drive    are zoned R-2-10,             single-family.         The General          Plan designates         the
+                   area as Neighborhood                  2. The rezone           would       be considered          downzoning.         A
+                neighborhood                meeting      was held in December                   2020 and three residents               supported        the
+                rezone         and one expressed                concern      about the smell             and upkeep        of horses on the
+                property.          The Millcreek              Cornrnunity         Council       and Planning         Commission
+                recorni'nended              approval         of the rezone.         The Planning           Commission's          discussion       on the
+                   application          was about regulations               for horses on the property                 and they were
+                dissatisfied            by the lack of regulation                in code. Staff did not recommend                      a development
+                agreement.
+
+
+        2.2 Discussion                  and Consideration                of Ordinance            21-02,      Rezoning        Property        Located          at
+        Approximately                     4396 South           Garden       Drive      from      the R-l-10         Zone    to the R-1-5         Zone
+        Mayor             Silvestrini       said the Council            already      had first reading          of the item.      Samah        Safiullah
+        said the rezone                 would      be accompanied              by a development             agreement.         Mayor     Silvestrini
+        said the City would                     be regulating          the height     of building,         the pitch     of the roof,       and limiting
+        development               to only         single-family         dwellings.
+
+
+        Mayor             Silvestrini       asked for comment               'from the applicant.            There     was no comment.             Mayor
+        Silvestrini            asked for public              comment.       There      was no public          coinment.
+Millcreek           City      Council          Meeting       Minutes                                         8 February            2021       Page 8 of 10
+
+
+
+Council       Member                 Jackson        moved       to adopt      Ordinance          21-02         subject       to a development
+agreement            rezoning           property          located       at approximately               4396 South            Garden        Drive.       Council
+Member         Catten           seconded.           The     Recorder         called     for the vote. All               Council       Members           voted
+yes. The       motion           passed         unanimously.
+
+
+            2.3 Discussion                   and Consideration              of Ordinance              21-04,     Approving             a Development
+            Agreement                 with     Respect      to Approximately.40                   Acres        of Real        Property         Located        at
+            Approximately                     4396 Garden           Drive
+
+
+Council       Member                 Uipi     moved       to approve        item      2.3, Ordinance             21-04.          Council      Member
+Jackson       seconded.               The Recorder              called    for the vote.         All    Council           Members           voted    yes. The
+motion       passed          unanimously.
+
+
+            2.4 Discussion                   and Consideration              of Ordinance              21-05,     Approving             a Development
+            Agreement                 for    Opus       Green     for    Property       Located         at or Near            4186 S. Main           Street
+            Francis          Lilly     said the development                 agreement       was similar           to the one the Council
+            approved            the prior        year. At that time,          the Council          discussed            recrafting     the agreement            for
+            150 units in the three-acre                     park with        the bridge        to allow        the developer           time to sell units
+            until     after a period             of approximately            10-11     years to ride the benefits                    of the opportunity
+            zone. The Council                    gave verbal        direction       to staff to pursue           that plan. This agreement
+            effects        that minor           change.     It also allows          for a longer        timeline         for the City         to take
+            possession               of the park so the developer                  would    construct          and maintain            it for a period,         and
+            it allowed           the neighboring            property        owner      to be able to obtain                an on-premises           alcohol
+            license        which        would       be a problem          if the City      owned        the park too soon. The bond for the
+            warranty           of all the required              improvements           in the park would                 be triggered         upon the City
+            taking         possession           of the park.
+
+
+            Council          Member            Catten     asked about the alcohol               license.        Lilly      said The Front           Climbing
+            Gym had a two-phased                         development         plan with        phase two to the south of the gym being
+            developed            into a market            site for a microbrewery               or restaurant             with     a liquor    license.
+
+
+            Mayor          Silvestrini          asked for public          comment.         There       was no comment.
+
+
+Council       Member                 Catten      moved      to approve            Ordinance           21-05,     approving            a development
+agreement            for Opus               Green    property.          Council       Member          Uipi     seconded.           The Recorder            called
+for the vote.          All     Council          Members          voted      yes. The       motion        passed          unanimously.
+
+
+            2.5 Discussion                   and Consideration              of Ordinance              21-06,    Adopting             the Mfflcreek          City
+            Center          Urban            Forestry      Standard         as an Element              of the Millcreek              Together        General
+            Plan
+            Francis          Lilly     said there were no updates                   from   the last meeting.               He said the plan was
+            contemplated                in Millcreek         Code, the City           Center     Overlay         Zone,       and this would             enforce
+            that standard.
+
+
+            Mayor          Silvestrini          asked for public          comment.         There       was no comment.
+Millcreek          City     Council      Meeting         Minutes                                      8 February           2021        Page 9 of 10
+
+
+
+Council        Member          Uipi     moved       to approve           item    2.5, Ordinance           21-06.     Council            Member
+Jackson        seconded.         The Recorder              called     for the vote. All          Council         Members          voted     yes. The
+motion       passed        unanimously.
+
+
+3. Reports
+            3.1 Mayor's           Report
+            Mayor         Silvestrini     said Salt Lake            County      was in the process              of amending        their    animal
+            control        ordinance      and Millcreek           had that ordinance            adopted         by reference.           The new
+            ordinance         would     require      dogs to be on leash everywhere.                      The practice         in Millcreek          was
+            that dogs could be off leash in undeveloped                             land on the east bench.                He expressed           that he
+            did not want to change that. He said there was once a long ordinance                                             process       on domestic
+            fowl     and the new ordinance                 would      repeal     a lot of that code. He felt the ordinance                        worked
+            well    in Millcreek         and he would            like to keep that ordinance                at status quo. Council                Member
+            Uipi     said the domestic            fowl     ordinance       took about 2.5 years to get adopted.                          The Council
+            said if the public          wanted       to revisit      the ordinance,          the City     could     change it.
+
+
+            Mayor         Silvestrini     said there was a pending                 settlement         agreement       with     Scott Brown           for
+            $10,000         plus the cost of a building               permit      for an accessory          structure.       Johns Brems           asked
+            the Council         if there were any objections                    to it. The Council         members           said no.
+
+
+            3.2 City        Council      Member           Reports
+            Council        Member        Uipi   said the East Mill              Creek and Mt.           Olympus       Community             Councils
+            met the prior         week.      She was attending               a meeting       with     Sheriff     Rivera     the following          week
+            and with        the Municipal         Association            of Councils        the following         day.
+
+
+            3.3 Staff       Reports
+            There were none.
+
+
+4. Consent          Agenda
+            4.1 Approval           of November            23, 2020 Work            Meeting       and Regular         Meeting           Minutes
+            4.2 Approval           of December           14, 2020 Work            Meeting        and Regular         Meeting           Minutes
+            4.3 Approval           of January       19, 2021         Special     Meeting        Minutes
+
+
+Council        Member          Uipi     moved       to approve         item     4.1 through           4.3. Council         Member          Catten
+seconded.          Mayor       Silvestrini      called      for the vote.         All      Council      Members          voted         yes. The motion
+passed      unanimously.
+
+
+5. New      Items         for Subsequent          Consideration
+There     were none.
+
+
+6. Calendar           of Upcoming            Events
+   *    Plaru'iingCorni'nissionMtg.,2/17/21,5:OOp.m.atCityHall
+   *    City    Council        Mtg.,     2/22/21,        5:00 p.m. at City         Hall
+
+
+
+ADJOURNED:                  Council       Member          Uipi      moved       to adjourn           the regular      meeting           at 8:27 p.m.
+Council        Member          Jackson       seconded.           Mayor       Silvestrini       called     for the vote.          All    Council
+Members         voted       yes. The motion              passed      unanimously.
+Millcreek   City   Council      Meeting   Minutes                        8 February      2021    Page 10 of 10
+
+
+
+
+                                                                                      Date   3      8 Z€2,t
+                                             Jeff Silvestrini,   Mayor
+
+
+
+                             Attest:         E!n,                City Recorder
+

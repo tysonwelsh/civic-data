@@ -1,0 +1,15 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+271,1295,City Council,yes,meeting_minutes,,pm4,2020-01-01,council stored in meeting_minutes (body column walks Council/RDA); WARNING PMN "Meeting Minutes"-slot attachments are frequently AGENDA PACKETS not minutes — expect missing_minutes noise on the 214 residual agenda-only dates
+271,1296,Redevelopment Agency (RDA),yes,meeting_minutes,,pm4,2020-01-01,RDA stored in meeting_minutes as body=RDA (same board same Wednesday as council); shares meeting dates with council so same-day masking is possible with blank repo_body
+271,1297,Planning Commission,yes,planning_commission,,pm4,2020-01-01,PC minutes begin 2022-01-20 (2020-2021 PC genuinely unpublished on any channel — not a scraper miss)
+271,2821,Municipal Building Authority,no,,,,,2 notices (2010) — no in-scope minutes
+271,7603,Civilian Review Board,no,,,,,publishes 27 approved minutes but is a non-governance police-oversight body — out of scope
+271,7441,Ordinances,no,,,,,ordinance PDFs not minutes — out of scope
+271,5067,Arts Council,no,,,,,4 minutes but non-governance arts board — out of scope
+271,4109,Community Development Director,no,,,,,agendas/notices only — no in-scope minutes
+271,4247,Director of Community Development,no,,,,,agendas/notices only — no in-scope minutes
+271,4553,Police,no,,,,,no in-scope minutes
+271,4571,Public Works,no,,,,,no in-scope minutes
+271,6733,Purchasing,no,,,,,no in-scope minutes
+271,2763,Taxing Entity Committee,no,,,,,no in-scope minutes
+271,2839,Taxing Entity Committee,no,,,,,alternate Taxing Entity Committee id — no in-scope minutes

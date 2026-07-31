@@ -1,0 +1,15 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+riverton,Tawnee McCay,2021,Council,3,100.0,147.77,1,1,summary,
+riverton,Tish Buroker,2021,Council,4,600.0,306.71,1,1,summary,
+riverton,Trent Staggs,2021,Mayor,,28750.0,8133.28,1,1,summary,
+riverton,Andy Pierucci,2023,Council,1,5540.0,2817.78,4,4,summary,
+riverton,David Gatti,2023,Council,2,4253.02,4253.02,4,4,summary,
+riverton,Troy McDougal,2023,Council,2,2000.0,2669.04,4,4,summary,
+riverton,Steven Winters,2023,Council,5,4350.0,4358.0,4,4,summary,
+riverton,Spencer Haymond,2023,Council,5,4637.0,4340.22,4,4,summary,
+riverton,Alexander Johnson,2025,Council,3,9911.88,8265.68,3,3,sum-interim,
+riverton,Rustin Lance,2025,Council,3,0.0,2067.06,2,2,sum-interim,
+riverton,Shannon Smith,2025,Council,4,19183.81,18933.34,3,3,override,OVERRIDE: per-period filer (incremental). The Dec-5 Post-Election report is itself a period (Column C 1520/6615.99); the summary-vs-interims rule undercounts. Cycle = printed Column E Campaign Total on the Post-Election report = 28-Day 16743/7457.57 + General 920.81/4859.78 + Post 1520/6615.99.
+riverton,Darren Park,2025,Council,4,5766.88,4783.91,2,2,sum-interim,
+riverton,Tish Buroker,2025,Mayor,,32350.0,26932.59,4,4,override,"OVERRIDE: per-period filer (incremental). The Dec-5 Post-Election report is itself a period (Column D 2400/1836.49); the summary-vs-interims rule undercounts. Cycle = printed Column E Campaign Total on the Post-Election report = primary 19950/14003.71 + 28-Day 6000/8692.41 + General 4000/2399.98 + Post 2400/1836.49. (NB: the General report cache carries a filer typo '3,000,00' loan [comma for the decimal]; the cache preserves it verbatim, and build_finance._adapt_cache now maps it to the printed intent 3000.00 [2026-07-18 adjudication] so itemized_contrib_sum reconciles to the 4000 cover. This cycle total was computed from printed Column E and is unaffected either way.)"
+riverton,Tawnee McCay,2025,Mayor,,30690.55,26419.77,4,4,override,"OVERRIDE: per-period filer (regime detector: incremental; each report = one Summary-Page column A..E). The Dec-5 Post-Election report is itself a period (Column D 0/773.73), so the generic summary-vs-interims rule undercounts spent by 773.73. Cycle = the filer's own printed Column E Campaign Total on the Post-Election report = primary 18415.55/10386.76 + 28-Day 7175/1455.93 + General 5100/13803.35 + Post 0/773.73."

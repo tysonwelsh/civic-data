@@ -1,0 +1,316 @@
+# Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/647499.pdf
+> Meeting date: 2020-08-10
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2020-08-10
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/647499.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                      Planning and Development Services
+                                                      2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                                      Phone: (385) 468-6700 • Fax: (385) 468-6674
+
+
+
+
+   **Notice of this meeting posted July 30, 2020 to https://www.utah.gov/pmn/sitemap/notice/619829.html and
+ Accessory Dwelling Unit and Conditional Use Permit Ordinance published July 31, 2020, and notices mailed July
+                                                    29, 2020**
+                                         MEETING MINUTE SUMMARY
+                        KEARNS METRO TOWNSHIP PLANNING COMMISSION MEETING
+                                  Monday, August 10, 2020 5:30 p.m.
+
+                        **Meeting minutes approved on October 12, 2020**
+Approximate meeting length: 1 hour 39 minutes                             *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 2                                         found on the State and County websites, or from Planning
+                                                                          & Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner Nelson
+
+        Commissioners
+                                Public
+                                 Mtg
+                                           Business
+                                             Mtg
+                                                         Absent                       ATTENDANCE
+         David Taylor             x           x
+                                                                                                               Public      Business
+          Joy Nelson              x           x                                Planning Staff / DA
+                                                                                                                Mtg          Mtg
+        Jerry Wellman             x
+                                                                                   Wendy Gurr                     x            x
+           Joe Hatch              x           x
+                                                                                 Diana Martinez                   x            x
+        Laura Koester             x           x
+                                                                                    Travis Hair                   x            x
+                                                                                   Jim McNulty                    x            x
+                                                                                  Kayla Mauldin                   x            x
+                        BUSINESS MEETING                                         Nathan Bracken                   x            x
+
+
+                                              Meeting began at – 5:34 p.m.
+        Commissioner Nelson read the Kearns Metro Township electronic meeting notice, signed, and made
+        available for the record.
+
+    1) Welcome and Approval of the Agenda
+
+        Commissioner Nelson read the Opening Statement.
+
+        Commissioner Taylor motioned to approve the agenda, Commissioner Hatch seconded that motion.
+
+    2) Approval of Minutes from the July 13, 2020 meeting.
+       Motion: To approve minutes from the July 13, 2020 meeting with amendments by Commissioner
+       Nelson.
+              Motion by: Commissioner Hatch
+              2nd by: Commissioner Taylor
+              Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+
+
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary                                           Page 1 of 7
+    3) Transportation Element to be reviewed and recommended to the council for feedback.
+       (Motion/Voting) Presenter: Kayla Mauldin
+
+        Ms. Mauldin provided a presentation to the planning commission from the general plan steering
+        committee. Mr. Bracken said basic to look at, preliminary and if any comments provide feedback.
+
+        Motion: To submit the Transportation Element to the Kearns Metro Township Council for review,
+        recommendation, and feedback.
+              Motion by: Commissioner Hatch
+              2nd by: Commissioner Taylor
+              Vote: Commissioners voted unanimous in favor (of commissioners present)
+    4) Other Business Items (as needed)
+
+        No other business items to discuss.
+
+        Commissioner Hatch motioned to close the business meeting, Commissioner Taylor seconded that
+        motion. Commissioners voted unanimous in favor (of commissioners present)
+
+
+                                          LAND USE APPLICATION(S)
+                                          Hearings began at – 5:50 p.m.
+
+24679- St. Francis Xavier School is requesting a Temporary Change to the Conditional Use conditions
+allowing for pick up and drop off along 4520 West, during the COVID-19 restriction period. Acreage: 4.73
+acres. Location: 4501 West 5215 South. Zone: P.I. (Public Facility Zone) Planner: Diana Martinez.
+(Motion/Voting)
+
+The Planning Commission, in its discretion, may request public input on these applications prior to acting
+on the application. If public input is requested, public comment will be limited to three minutes per person.
+
+Greater Salt Lake Municipal Services District Planning and Development Planner Diana Martinez
+provided an analysis of the staff report.
+
+Commissioner Hatch said the kids are being dropped off in one direction only north and not southbound,
+preferable to have the kids exit the car on the passenger side and traffic go clockwise. Ms. Martinez said
+faculty will need direct contact with the child and the parents. Commissioner Taylor said if they have a sign
+signifying the certain students, what happens when the car has older students, are they going to drop off
+the whole lot and this is only limited to kindergarten and first grade. Ms. Martinez said the principal is
+cooperative and responsive to that and faculty is aware, and the car follows into the parking lot to drop off
+older students.
+
+                              PUBLIC PORTION OF MEETING OPENED
+
+Speaker # 1: Applicant, Principal
+Name: Marianne Rozsahegyi
+Address: Not provided
+Comments: Ms. Rozsahegyi said drop off and pickup is coordinated. Signage process used, made many
+parents angry when they do not show up with that. Preschool and prekindergarten three to four-year-old.
+
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary                    Page 2 of 7
+Ramp in the back door, understand clearly not allowed to use, exactly the situation was happening and
+defeats the purpose of density. Middle school comes early, and window of time works.
+
+Commissioner Hatch motioned to open the public meeting, Commissioner Taylor seconded that motion.
+Commissioners voted unanimous (of commissioners present).
+
+Speaker # 2: Kearns Community Council
+Name: Roger Snow
+Address: 5977 South Parkwood Drive
+Comments: Mr. Snow advised the Kearns Community Council gives a favorable recommendation.
+
+Commissioner Hatch motioned to close the public hearing, Commissioner Taylor seconded that motion.
+
+
+                              PUBLIC PORTION OF MEETING CLOSED
+
+Commissioners and staff had a brief discussion regarding drop off on east side of 4520 and flow of older
+students being taken around. Adding condition number 5 on east side next to 4520 and #6 older students
+being dropped off after as per the original agreement, adding to condition number 4 county transportation
+requirements.
+
+Motion: To temporarily change approval on application #24679 until November 20, 2020.
+         1. On this day, Staff will determine if the restrictions of the COVID-19 Pandemic have been
+             cleared or reduced.
+                             a.      If the pandemic restrictions have been cleared or reduced, then the
+                         school shall go back to the original facilitation of using the parking lot as the
+                         main drop off and pick up area.
+                             b.      If the pandemic restriction have not been cleared or reduced, the
+                         MSD Staff will make arrangements for the applicant to go back to the Planning
+                         Commission for the December 14, 2020 meeting, to determine an appropriate
+                         extension time period for drop off and pick up to continue along 4520 West.
+         2. This temporary change of approval is for the drop off approximately 22 children in the
+             morning, and for approximately 8 children being picked up in the afternoon.
+         3. The school will need to determine which cars (students) can be in the drop off and pick up
+             area along 4520 West. A car sticker or name board that designates the appropriate student
+             cars, may be helpful to show the faculty which cars should and should not be dropping off
+             or picking up along 4520 West.
+         4. Applicant should comply with the County Transportation Engineer’s condition of approval
+             as follows:
+                  a. The temporary drop off on 4520 West in the A.M.:
+                                     •       Temporary drop off point
+                                     •       15 minutes drop off time between 8:00 a.m. to 8:15 a.m.
+                                     •       Maximum of 22 students
+                                     •       Only during COVID_19 restrictions
+                  b. The temporary pick up on 4520 West in the P.M.
+                                     •       Temporary pick up point
+                                     •       20 minutes of pickup time between 2:50 and 3:10 p.m.
+                                     •       Only during COVID-19 restrictions.
+
+
+
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary                  Page 3 of 7
+            5. Drop off and pick up of the children should be on the east side of 4520 West, next to the
+               school, so that the children are not in danger of crossing the street.
+            6. The older Siblings, of any of the 22 children that can be dropped off along 4520 West,
+               should be dropped off in the main parking lot and should go through the main school
+               entrance.
+        Motion by: Commissioner Hatch
+        2nd by: Commissioner Taylor
+        Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+                                           PUBLIC HEARING(S)
+
+31222 – Proposed ordinance to enact Chapter 19.15 of the Kearns Metro Township Code regarding
+accessory dwelling units, particularly (i) authorizing accessory dwelling units in single-family detached
+units and (ii) regulating accessory dwelling units. Presenter: Travis Hair (Motion/Voting)
+
+The Planning Commission will act on the proposed ordinance amendment after taking comments from the
+public during the public hearing. Public comments will be provided pursuant to the planning commission’s
+rules of conduct, which are attached to the back of this agenda. Public comments will be limited to three
+minutes per person.
+
+Mr. Hair provided an analysis of the ordinance.
+
+Commissioner Hatch asked about business license for the home, if the property owns the business and sells
+the property, the new owner needs to get their own license. Mr. Hair said they would have to come in and
+get a new license and needs to be renewed annually. Mr. Hair said when someone comes in for a building
+permit, needs documentation and what they need to do going forward. Commissioner Taylor said people
+put out postings and how are we enforcing and are we grandfathering adu’s currently being advertised and
+representative and reinforcing. Mr. Hair said not sure what standards they were built to, but enforcement
+has their own standards and will need to come into compliance and speak with building department and
+pull all permits necessary to come in compliance.
+
+Commissioner Wellman asked on parking, 1915070, addition to require parking and one along the frontage,
+if there is a restriction for snow, is there enforceable parking. Mr. Hair said the reason we want business
+license, not providing general parking, and have a tool to open parking spots. garage must be used for
+home parking, add on to driveway for additional parking. Vehicle may need to be moved for plows, hoping
+people use transit more. Mr. Bracken said this is the most difficult part, one hand wants to make useable
+and easy, and did not want to create challenges. Require applicant to do a traffic study, cities disincentivize,
+probably a burden. If we require to show legally available along their property. Must comply with snow
+requirements, relying on existing laws work. Commissioner Wellman asked if an item added if the residence
+it close to public transportation and they actively use it, ADU can use one spot and reduce parking. Mr.
+Bracken said that is initially how it was drafted, the practical reality is it is hard to show. Circumstances
+could change, that will be too difficult to show and enforce. Commissioner Hatch said he looked at the
+smaller properties were built with carport or garage with a driveway, likes the option of detached garage,
+provides for at least two more car spaces, already a problem with cars parking on the street, prefers the
+ordinance to say allowed for minimum four parking spaces, carport, garage and driveway leading up to,
+keeps cars off the street. Mr. Bracken said does not have a strong preference and there is not a right or
+wrong answer. If the council decides to have parking off street would limit the adu’s in Kearns. Policy call,
+not a legal question. Still allowing on street, does not mean they will be able to make that show.
+Commissioner Taylor said still do not have enforcement unless someone calls enforcement. Commissioner
+Koester said her street is already lined with cars and it makes her nervous to allow this. Mr. Bracken said
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary                       Page 4 of 7
+if you want to pull the edits up on the screen.
+
+Commissioner Hatch motioned to open the public hearing, Commissioner Wellman seconded that motion.
+Unanimous in favor.
+
+                              PUBLIC PORTION OF HEARING OPENED
+
+Speaker # 1: Kearns Community Council
+Name: Roger Snow
+Address: 5977 South Parkwood Drive
+Comments: Mr. Snow advised this has been discussed how to do them, parking, electrical, separate units,
+they need to happen and there is a big parking problem. Come up with equal balance, off street parking is
+most desirable. If you have room to build, extra room for parking. the Kearns Community Council gives a
+favorable recommendation but need to address parking.
+
+Commissioner Hatch motioned to close the public hearing, Commissioner Wellman seconded that motion.
+
+                              PUBLIC PORTION OF HEARING CLOSED
+
+Commissioners, Staff and Counsel had a brief discussion regarding removing consistently available on
+street and add consistently available on site/property. Adding option D to 19.50.070, in winter months
+vehicles need to be removed from the street. Demonstrate dedicated parking for two additional spots for an
+ADU. Owner responsibility, and tracking for the ADU, coming into compliance.
+
+Motion: To recommend approval of file #31222 to the Kearns Metro Township Council with amendments
+to 19.15.070 Parking Requirements, striking all requirements and adding one: In addition to the required
+parking for the existing home, the property owner must demonstrate that two (2) on-site parking spaces are
+available for each ADU. A property owner bears the burden of showing by a preponderance of the evidence
+that sufficient parking is available.
+        Motion by: Commissioner Wellman
+        2nd by: Commissioner Hatch
+        Vote: Commissioners voted unanimous in favor
+
+
+Proposed ordinance to update and revise provisions of the Kearns Metro Township Code regarding (i)
+conditional uses, (ii) the Kearns Metro Township Planning Commission, and (iii) related provisions. The
+proposed ordinance also contains conforming and unifying modifications. Presenter: Jay Springer
+(Motion/Voting)
+
+The Planning Commission will act on the proposed ordinance amendment after taking comments from the
+public during the public hearing. Public comments will be provided pursuant to the planning commission’s
+rules of conduct, which are attached to the back of this agenda. Public comments will be limited to three
+minutes per person.
+
+Mr. Bracken provided information what changes for permitted and unpermitted uses. Deal with page 19 of
+the ordinance.
+
+Commissioner Hatch motioned to open the public hearing, Commissioner Taylor seconded that motion.
+Commissioners voted unanimous.
+
+
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary                  Page 5 of 7
+                              PUBLIC PORTION OF HEARING OPENED
+
+Speaker # 1: Kearns Community Council
+Name: Roger Snow
+Address: 5977 South Parkwood Drive
+Comments: Mr. Snow advised the Kearns Community Council gives a favorable recommendation to 19.15.
+
+Commissioner Hatch motioned to close the public hearing, Commissioner Wellman seconded that motion.
+Commissioners voted unanimous in favor.
+
+                              PUBLIC PORTION OF HEARING CLOSED
+
+Motion: To recommend approval of 19.15 Conditional Use permits to the Kearns Metro Township Council
+as presented.
+        Motion by: Commissioner Hatch
+        2nd by: Commissioner Taylor
+        Vote: Commissioners voted unanimous in favor
+
+Commissioner Hatch motioned to adjourn, Commissioner Wellman seconded that motion.
+
+                                         MEETING ADJOURNED
+                                        Time Adjourned – 7:13 p.m.
+
+
+
+
+Kearns Metro Township Planning Commission – August 10, 2020 – Meeting Summary           Page 6 of 7
+

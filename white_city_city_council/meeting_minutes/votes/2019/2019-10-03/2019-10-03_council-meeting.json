@@ -1,0 +1,39 @@
+{
+ "date": "2019-10-03",
+ "year": 2019,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Cody Cutler",
+  "Paulina Flint"
+ ],
+ "source": "meeting_minutes/minutes/2019/2019-10-03/2019-10-03_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to adopt Resolution 19-10-01",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

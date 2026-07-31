@@ -1,0 +1,4324 @@
+vote_id,motion_id,person,vote_value
+1,2,Larry A. Ellertson,Aye
+2,2,William C. Lee,Aye
+3,2,Greg Graves,Aye
+4,3,Larry A. Ellertson,Aye
+5,3,Greg Graves,Aye
+6,3,William C. Lee,Nay
+7,4,Larry A. Ellertson,Aye
+8,4,William C. Lee,Aye
+9,4,Greg Graves,Aye
+10,5,Larry A. Ellertson,Aye
+11,5,William C. Lee,Aye
+12,5,Greg Graves,Aye
+13,6,Larry A. Ellertson,Aye
+14,6,William C. Lee,Aye
+15,6,Greg Graves,Aye
+16,7,Larry A. Ellertson,Aye
+17,7,William C. Lee,Aye
+18,7,Greg Graves,Aye
+19,8,Larry A. Ellertson,Aye
+20,8,William C. Lee,Aye
+21,8,Greg Graves,Aye
+22,9,Larry A. Ellertson,Aye
+23,9,William C. Lee,Aye
+24,9,Greg Graves,Aye
+25,10,Larry A. Ellertson,Aye
+26,10,William C. Lee,Aye
+27,10,Greg Graves,Aye
+28,11,Larry A. Ellertson,Aye
+29,11,William C. Lee,Aye
+30,11,Greg Graves,Aye
+31,12,Larry A. Ellertson,Aye
+32,12,William C. Lee,Aye
+33,12,Greg Graves,Aye
+34,13,Larry A. Ellertson,Aye
+35,13,William C. Lee,Aye
+36,13,Greg Graves,Aye
+37,14,Larry A. Ellertson,Aye
+38,14,William C. Lee,Aye
+39,14,Greg Graves,Aye
+40,15,Larry A. Ellertson,Aye
+41,15,William C. Lee,Aye
+42,15,Greg Graves,Aye
+43,16,Larry A. Ellertson,Aye
+44,16,William C. Lee,Aye
+45,16,Greg Graves,Aye
+46,17,Larry A. Ellertson,Aye
+47,17,William C. Lee,Aye
+48,17,Greg Graves,Aye
+49,18,Larry A. Ellertson,Aye
+50,18,William C. Lee,Aye
+51,18,Greg Graves,Aye
+52,19,Larry A. Ellertson,Aye
+53,19,William C. Lee,Aye
+54,19,Greg Graves,Aye
+55,20,Larry A. Ellertson,Aye
+56,20,William C. Lee,Aye
+57,20,Greg Graves,Aye
+58,21,Larry A. Ellertson,Aye
+59,21,William C. Lee,Aye
+60,21,Greg Graves,Aye
+61,22,Larry A. Ellertson,Aye
+62,22,William C. Lee,Aye
+63,22,Greg Graves,Aye
+64,23,Larry A. Ellertson,Aye
+65,23,Greg Graves,Aye
+66,23,William C. Lee,Nay
+67,24,Larry A. Ellertson,Aye
+68,24,William C. Lee,Aye
+69,24,Greg Graves,Aye
+70,25,Larry A. Ellertson,Aye
+71,25,William C. Lee,Aye
+72,25,Greg Graves,Aye
+73,26,Larry A. Ellertson,Aye
+74,26,William C. Lee,Aye
+75,26,Greg Graves,Aye
+76,27,Larry A. Ellertson,Aye
+77,27,William C. Lee,Aye
+78,27,Greg Graves,Aye
+79,28,Larry A. Ellertson,Aye
+80,28,William C. Lee,Aye
+81,28,Greg Graves,Aye
+82,29,Larry A. Ellertson,Aye
+83,29,William C. Lee,Aye
+84,29,Greg Graves,Aye
+85,30,Larry A. Ellertson,Aye
+86,30,William C. Lee,Aye
+87,30,Greg Graves,Aye
+88,31,Larry A. Ellertson,Aye
+89,31,William C. Lee,Aye
+90,31,Greg Graves,Aye
+91,32,Larry A. Ellertson,Aye
+92,32,William C. Lee,Aye
+93,32,Greg Graves,Aye
+94,33,Larry A. Ellertson,Aye
+95,33,William C. Lee,Aye
+96,33,Greg Graves,Aye
+97,34,Larry A. Ellertson,Aye
+98,34,William C. Lee,Aye
+99,34,Greg Graves,Aye
+100,35,Larry A. Ellertson,Aye
+101,35,William C. Lee,Aye
+102,35,Greg Graves,Aye
+103,36,Larry A. Ellertson,Aye
+104,36,William C. Lee,Aye
+105,36,Greg Graves,Aye
+106,37,Larry A. Ellertson,Aye
+107,37,William C. Lee,Aye
+108,37,Greg Graves,Aye
+109,38,Larry A. Ellertson,Aye
+110,38,William C. Lee,Aye
+111,38,Greg Graves,Aye
+112,39,Larry A. Ellertson,Aye
+113,39,William C. Lee,Aye
+114,39,Greg Graves,Aye
+115,40,Larry A. Ellertson,Aye
+116,40,William C. Lee,Aye
+117,40,Greg Graves,Aye
+118,41,Larry A. Ellertson,Aye
+119,41,William C. Lee,Aye
+120,41,Greg Graves,Aye
+121,42,Larry A. Ellertson,Aye
+122,42,William C. Lee,Aye
+123,42,Greg Graves,Aye
+124,43,Larry A. Ellertson,Aye
+125,43,William C. Lee,Aye
+126,43,Greg Graves,Aye
+127,44,Larry A. Ellertson,Aye
+128,44,William C. Lee,Aye
+129,44,Greg Graves,Aye
+130,45,Larry A. Ellertson,Aye
+131,45,William C. Lee,Aye
+132,45,Greg Graves,Aye
+133,46,Larry A. Ellertson,Aye
+134,46,William C. Lee,Aye
+135,46,Greg Graves,Aye
+136,47,Larry A. Ellertson,Aye
+137,47,William C. Lee,Aye
+138,47,Greg Graves,Aye
+139,48,Larry A. Ellertson,Aye
+140,48,William C. Lee,Aye
+141,48,Greg Graves,Aye
+142,50,Larry A. Ellertson,Aye
+143,50,William C. Lee,Aye
+144,50,Greg Graves,Aye
+145,51,Larry A. Ellertson,Aye
+146,51,William C. Lee,Aye
+147,51,Greg Graves,Aye
+148,52,Larry A. Ellertson,Aye
+149,52,William C. Lee,Aye
+150,52,Greg Graves,Aye
+151,53,Larry A. Ellertson,Aye
+152,53,William C. Lee,Aye
+153,53,Greg Graves,Aye
+154,54,Larry A. Ellertson,Aye
+155,54,William C. Lee,Aye
+156,54,Greg Graves,Aye
+157,55,Larry A. Ellertson,Aye
+158,55,William C. Lee,Aye
+159,55,Greg Graves,Aye
+160,56,Larry A. Ellertson,Aye
+161,56,William C. Lee,Aye
+162,56,Greg Graves,Aye
+163,57,Larry A. Ellertson,Aye
+164,57,William C. Lee,Aye
+165,57,Greg Graves,Aye
+166,59,Larry A. Ellertson,Aye
+167,59,William C. Lee,Aye
+168,59,Greg Graves,Aye
+169,60,Larry A. Ellertson,Aye
+170,60,William C. Lee,Aye
+171,60,Greg Graves,Aye
+172,61,Larry A. Ellertson,Aye
+173,61,William C. Lee,Aye
+174,61,Greg Graves,Aye
+175,62,Larry A. Ellertson,Aye
+176,62,William C. Lee,Aye
+177,62,Greg Graves,Aye
+178,63,Larry A. Ellertson,Aye
+179,63,William C. Lee,Aye
+180,63,Greg Graves,Aye
+181,64,Larry A. Ellertson,Aye
+182,64,William C. Lee,Aye
+183,64,Greg Graves,Aye
+184,65,Larry A. Ellertson,Aye
+185,65,William C. Lee,Aye
+186,65,Greg Graves,Aye
+187,66,Larry A. Ellertson,Aye
+188,66,William C. Lee,Aye
+189,66,Greg Graves,Aye
+190,67,Larry A. Ellertson,Aye
+191,67,William C. Lee,Aye
+192,67,Greg Graves,Aye
+193,68,Larry A. Ellertson,Aye
+194,68,William C. Lee,Aye
+195,68,Greg Graves,Aye
+196,69,Larry A. Ellertson,Aye
+197,69,William C. Lee,Aye
+198,69,Greg Graves,Aye
+199,70,Larry A. Ellertson,Aye
+200,70,William C. Lee,Aye
+201,70,Greg Graves,Aye
+202,71,Larry A. Ellertson,Aye
+203,71,William C. Lee,Aye
+204,71,Greg Graves,Aye
+205,72,Larry A. Ellertson,Aye
+206,72,William C. Lee,Aye
+207,72,Greg Graves,Aye
+208,73,Larry A. Ellertson,Aye
+209,73,William C. Lee,Aye
+210,73,Greg Graves,Aye
+211,74,Larry A. Ellertson,Aye
+212,74,William C. Lee,Aye
+213,74,Greg Graves,Aye
+214,75,Larry A. Ellertson,Aye
+215,75,William C. Lee,Aye
+216,75,Greg Graves,Aye
+217,76,Larry A. Ellertson,Aye
+218,76,William C. Lee,Aye
+219,76,Greg Graves,Aye
+220,77,Larry A. Ellertson,Aye
+221,77,William C. Lee,Aye
+222,77,Greg Graves,Aye
+223,78,Larry A. Ellertson,Aye
+224,78,William C. Lee,Aye
+225,78,Greg Graves,Aye
+226,79,Larry A. Ellertson,Aye
+227,79,William C. Lee,Aye
+228,79,Greg Graves,Aye
+229,81,Larry A. Ellertson,Aye
+230,81,William C. Lee,Aye
+231,81,Greg Graves,Aye
+232,85,Larry A. Ellertson,Aye
+233,85,William C. Lee,Aye
+234,85,Greg Graves,Aye
+235,86,Larry A. Ellertson,Aye
+236,86,William C. Lee,Aye
+237,86,Greg Graves,Nay
+238,87,Larry A. Ellertson,Aye
+239,87,William C. Lee,Aye
+240,87,Greg Graves,Nay
+241,88,Larry A. Ellertson,Aye
+242,88,William C. Lee,Aye
+243,88,Greg Graves,Aye
+244,89,Larry A. Ellertson,Aye
+245,89,William C. Lee,Aye
+246,89,Greg Graves,Aye
+247,90,Larry A. Ellertson,Aye
+248,90,William C. Lee,Aye
+249,90,Greg Graves,Aye
+250,92,Larry A. Ellertson,Aye
+251,92,William C. Lee,Aye
+252,92,Greg Graves,Aye
+253,93,Larry A. Ellertson,Aye
+254,93,William C. Lee,Aye
+255,93,Greg Graves,Aye
+256,94,Larry A. Ellertson,Aye
+257,94,William C. Lee,Aye
+258,94,Greg Graves,Aye
+259,95,Larry A. Ellertson,Aye
+260,95,William C. Lee,Aye
+261,95,Greg Graves,Aye
+262,96,Larry A. Ellertson,Aye
+263,96,William C. Lee,Aye
+264,96,Greg Graves,Aye
+265,97,William C. Lee,Aye
+266,97,Greg Graves,Aye
+267,98,Larry A. Ellertson,Aye
+268,98,William C. Lee,Aye
+269,98,Greg Graves,Aye
+270,99,Larry A. Ellertson,Aye
+271,99,Greg Graves,Aye
+272,99,William C. Lee,Nay
+273,100,Larry A. Ellertson,Aye
+274,100,Greg Graves,Aye
+275,100,William C. Lee,Nay
+276,101,Larry A. Ellertson,Aye
+277,101,Greg Graves,Aye
+278,101,William C. Lee,Nay
+279,102,Larry A. Ellertson,Aye
+280,102,Greg Graves,Aye
+281,102,William C. Lee,Nay
+282,103,Larry A. Ellertson,Aye
+283,103,William C. Lee,Aye
+284,103,Greg Graves,Aye
+285,104,Larry A. Ellertson,Aye
+286,104,William C. Lee,Aye
+287,104,Greg Graves,Aye
+288,105,William C. Lee,Aye
+289,105,Greg Graves,Aye
+290,106,Larry A. Ellertson,Aye
+291,106,William C. Lee,Aye
+292,106,Greg Graves,Aye
+293,107,Larry A. Ellertson,Aye
+294,107,Greg Graves,Aye
+295,107,William C. Lee,Nay
+296,108,Larry A. Ellertson,Aye
+297,108,William C. Lee,Aye
+298,108,Greg Graves,Aye
+299,109,Larry A. Ellertson,Aye
+300,109,William C. Lee,Aye
+301,109,Greg Graves,Aye
+302,110,Larry A. Ellertson,Aye
+303,110,William C. Lee,Aye
+304,110,Greg Graves,Aye
+305,111,Larry A. Ellertson,Aye
+306,111,William C. Lee,Aye
+307,111,Greg Graves,Aye
+308,112,Larry A. Ellertson,Aye
+309,112,William C. Lee,Aye
+310,112,Greg Graves,Aye
+311,113,Larry A. Ellertson,Aye
+312,113,William C. Lee,Aye
+313,113,Greg Graves,Aye
+314,114,Larry A. Ellertson,Aye
+315,114,William C. Lee,Aye
+316,114,Greg Graves,Aye
+317,115,Larry A. Ellertson,Aye
+318,115,William C. Lee,Aye
+319,115,Greg Graves,Aye
+320,116,Larry A. Ellertson,Aye
+321,116,William C. Lee,Aye
+322,116,Greg Graves,Aye
+323,117,Larry A. Ellertson,Aye
+324,117,William C. Lee,Aye
+325,117,Greg Graves,Aye
+326,118,Larry A. Ellertson,Aye
+327,118,William C. Lee,Aye
+328,118,Greg Graves,Aye
+329,119,Larry A. Ellertson,Aye
+330,119,William C. Lee,Aye
+331,119,Greg Graves,Aye
+332,120,Larry A. Ellertson,Aye
+333,120,William C. Lee,Aye
+334,120,Greg Graves,Aye
+335,121,Larry A. Ellertson,Aye
+336,121,William C. Lee,Aye
+337,121,Greg Graves,Aye
+338,122,Larry A. Ellertson,Aye
+339,122,William C. Lee,Aye
+340,122,Greg Graves,Aye
+341,124,Larry A. Ellertson,Aye
+342,124,William C. Lee,Aye
+343,124,Greg Graves,Aye
+344,125,Larry A. Ellertson,Aye
+345,125,William C. Lee,Aye
+346,125,Greg Graves,Aye
+347,127,Larry A. Ellertson,Aye
+348,127,William C. Lee,Aye
+349,127,Greg Graves,Aye
+350,128,Larry A. Ellertson,Aye
+351,128,William C. Lee,Aye
+352,128,Greg Graves,Aye
+353,129,Larry A. Ellertson,Aye
+354,129,William C. Lee,Aye
+355,129,Greg Graves,Aye
+356,130,Larry A. Ellertson,Aye
+357,130,William C. Lee,Aye
+358,130,Greg Graves,Aye
+359,131,Larry A. Ellertson,Aye
+360,131,William C. Lee,Aye
+361,131,Greg Graves,Aye
+362,132,Larry A. Ellertson,Aye
+363,132,William C. Lee,Aye
+364,132,Greg Graves,Aye
+365,133,Larry A. Ellertson,Aye
+366,133,William C. Lee,Aye
+367,133,Greg Graves,Aye
+368,134,Larry A. Ellertson,Aye
+369,134,William C. Lee,Aye
+370,134,Greg Graves,Aye
+371,135,Larry A. Ellertson,Aye
+372,135,William C. Lee,Aye
+373,135,Greg Graves,Aye
+374,136,Larry A. Ellertson,Aye
+375,136,William C. Lee,Aye
+376,136,Greg Graves,Aye
+377,137,Larry A. Ellertson,Aye
+378,137,William C. Lee,Aye
+379,137,Greg Graves,Aye
+380,138,Larry A. Ellertson,Aye
+381,138,William C. Lee,Aye
+382,138,Greg Graves,Aye
+383,140,Larry A. Ellertson,Aye
+384,140,William C. Lee,Aye
+385,140,Greg Graves,Aye
+386,142,Larry A. Ellertson,Aye
+387,142,William C. Lee,Aye
+388,142,Greg Graves,Aye
+389,143,Larry A. Ellertson,Aye
+390,143,William C. Lee,Aye
+391,143,Greg Graves,Aye
+392,144,Larry A. Ellertson,Aye
+393,144,William C. Lee,Aye
+394,144,Greg Graves,Aye
+395,145,Larry A. Ellertson,Aye
+396,145,William C. Lee,Aye
+397,145,Greg Graves,Aye
+398,146,Larry A. Ellertson,Aye
+399,146,William C. Lee,Aye
+400,146,Greg Graves,Aye
+401,147,Larry A. Ellertson,Aye
+402,147,William C. Lee,Aye
+403,147,Greg Graves,Aye
+404,148,Larry A. Ellertson,Aye
+405,148,William C. Lee,Aye
+406,148,Greg Graves,Aye
+407,149,Larry A. Ellertson,Aye
+408,149,William C. Lee,Aye
+409,149,Greg Graves,Aye
+410,150,Larry A. Ellertson,Aye
+411,150,William C. Lee,Aye
+412,150,Greg Graves,Aye
+413,151,Larry A. Ellertson,Aye
+414,151,William C. Lee,Aye
+415,151,Greg Graves,Aye
+416,153,Larry A. Ellertson,Aye
+417,153,William C. Lee,Aye
+418,153,Greg Graves,Aye
+419,154,Larry A. Ellertson,Aye
+420,154,William C. Lee,Aye
+421,154,Greg Graves,Aye
+422,155,Larry A. Ellertson,Aye
+423,155,William C. Lee,Aye
+424,155,Greg Graves,Aye
+425,156,Larry A. Ellertson,Aye
+426,156,William C. Lee,Aye
+427,156,Greg Graves,Aye
+428,157,Larry A. Ellertson,Aye
+429,157,William C. Lee,Aye
+430,157,Greg Graves,Aye
+431,158,Larry A. Ellertson,Aye
+432,158,William C. Lee,Aye
+433,158,Greg Graves,Aye
+434,159,Larry A. Ellertson,Aye
+435,159,William C. Lee,Aye
+436,159,Greg Graves,Aye
+437,160,Larry A. Ellertson,Aye
+438,160,William C. Lee,Aye
+439,160,Greg Graves,Aye
+440,161,Larry A. Ellertson,Aye
+441,161,William C. Lee,Aye
+442,161,Greg Graves,Aye
+443,162,Larry A. Ellertson,Aye
+444,162,William C. Lee,Aye
+445,162,Greg Graves,Aye
+446,163,Larry A. Ellertson,Aye
+447,163,William C. Lee,Aye
+448,163,Greg Graves,Aye
+449,164,Larry A. Ellertson,Aye
+450,164,William C. Lee,Aye
+451,164,Greg Graves,Aye
+452,165,Larry A. Ellertson,Aye
+453,165,William C. Lee,Aye
+454,165,Greg Graves,Aye
+455,166,Larry A. Ellertson,Aye
+456,166,William C. Lee,Aye
+457,166,Greg Graves,Aye
+458,167,Larry A. Ellertson,Aye
+459,167,William C. Lee,Aye
+460,167,Greg Graves,Aye
+461,169,Larry A. Ellertson,Aye
+462,169,William C. Lee,Aye
+463,169,Greg Graves,Aye
+464,170,Larry A. Ellertson,Aye
+465,170,William C. Lee,Aye
+466,170,Greg Graves,Aye
+467,171,Larry A. Ellertson,Aye
+468,171,William C. Lee,Aye
+469,171,Greg Graves,Aye
+470,172,Larry A. Ellertson,Aye
+471,172,William C. Lee,Aye
+472,172,Greg Graves,Aye
+473,173,Larry A. Ellertson,Aye
+474,173,William C. Lee,Aye
+475,173,Greg Graves,Aye
+476,174,Larry A. Ellertson,Aye
+477,174,William C. Lee,Aye
+478,174,Greg Graves,Aye
+479,175,Larry A. Ellertson,Aye
+480,175,William C. Lee,Aye
+481,175,Greg Graves,Aye
+482,176,Larry A. Ellertson,Aye
+483,176,William C. Lee,Aye
+484,176,Greg Graves,Aye
+485,177,Larry A. Ellertson,Aye
+486,177,William C. Lee,Aye
+487,177,Greg Graves,Aye
+488,178,Larry A. Ellertson,Aye
+489,178,William C. Lee,Aye
+490,178,Greg Graves,Aye
+491,179,Larry A. Ellertson,Aye
+492,179,William C. Lee,Aye
+493,179,Greg Graves,Aye
+494,180,Larry A. Ellertson,Aye
+495,180,William C. Lee,Aye
+496,180,Greg Graves,Aye
+497,181,Larry A. Ellertson,Aye
+498,181,William C. Lee,Aye
+499,181,Greg Graves,Aye
+500,182,Larry A. Ellertson,Aye
+501,182,Greg Graves,Aye
+502,182,William C. Lee,Nay
+503,183,Larry A. Ellertson,Aye
+504,183,William C. Lee,Aye
+505,183,Greg Graves,Aye
+506,184,Larry A. Ellertson,Aye
+507,184,William C. Lee,Aye
+508,184,Greg Graves,Aye
+509,185,Larry A. Ellertson,Aye
+510,185,William C. Lee,Aye
+511,185,Greg Graves,Aye
+512,186,Larry A. Ellertson,Aye
+513,186,William C. Lee,Aye
+514,187,Larry A. Ellertson,Aye
+515,187,William C. Lee,Aye
+516,188,Larry A. Ellertson,Aye
+517,188,William C. Lee,Aye
+518,188,Greg Graves,Aye
+519,189,Larry A. Ellertson,Aye
+520,189,William C. Lee,Aye
+521,189,Greg Graves,Aye
+522,190,Larry A. Ellertson,Aye
+523,190,William C. Lee,Aye
+524,190,Greg Graves,Aye
+525,192,Larry A. Ellertson,Aye
+526,192,William C. Lee,Aye
+527,192,Greg Graves,Aye
+528,193,Larry A. Ellertson,Aye
+529,193,William C. Lee,Aye
+530,193,Greg Graves,Aye
+531,194,Larry A. Ellertson,Aye
+532,194,William C. Lee,Aye
+533,194,Greg Graves,Aye
+534,195,Larry A. Ellertson,Aye
+535,195,William C. Lee,Aye
+536,195,Greg Graves,Aye
+537,197,Larry A. Ellertson,Aye
+538,197,William C. Lee,Aye
+539,197,Greg Graves,Aye
+540,198,Larry A. Ellertson,Aye
+541,198,William C. Lee,Aye
+542,198,Greg Graves,Aye
+543,199,Larry A. Ellertson,Aye
+544,199,William C. Lee,Aye
+545,199,Greg Graves,Aye
+546,201,Larry A. Ellertson,Aye
+547,201,William C. Lee,Aye
+548,201,Greg Graves,Aye
+549,202,Larry A. Ellertson,Aye
+550,202,William C. Lee,Aye
+551,202,Greg Graves,Aye
+552,203,Larry A. Ellertson,Aye
+553,203,William C. Lee,Aye
+554,203,Greg Graves,Aye
+555,204,Larry A. Ellertson,Aye
+556,204,William C. Lee,Aye
+557,204,Greg Graves,Aye
+558,205,Larry A. Ellertson,Aye
+559,205,William C. Lee,Aye
+560,205,Greg Graves,Aye
+561,206,Larry A. Ellertson,Aye
+562,206,William C. Lee,Aye
+563,206,Greg Graves,Aye
+564,207,Larry A. Ellertson,Aye
+565,207,William C. Lee,Aye
+566,207,Greg Graves,Aye
+567,208,Larry A. Ellertson,Aye
+568,208,William C. Lee,Aye
+569,208,Greg Graves,Aye
+570,209,Larry A. Ellertson,Aye
+571,209,William C. Lee,Aye
+572,209,Greg Graves,Aye
+573,211,Larry A. Ellertson,Aye
+574,211,William C. Lee,Aye
+575,211,Greg Graves,Aye
+576,213,Larry A. Ellertson,Aye
+577,213,William C. Lee,Aye
+578,213,Greg Graves,Aye
+579,214,Larry A. Ellertson,Aye
+580,214,William C. Lee,Aye
+581,214,Greg Graves,Aye
+582,215,Larry A. Ellertson,Aye
+583,215,William C. Lee,Aye
+584,215,Greg Graves,Aye
+585,216,Larry A. Ellertson,Aye
+586,216,William C. Lee,Aye
+587,216,Greg Graves,Aye
+588,217,Larry A. Ellertson,Aye
+589,217,William C. Lee,Aye
+590,217,Greg Graves,Aye
+591,218,Larry A. Ellertson,Aye
+592,218,William C. Lee,Aye
+593,218,Greg Graves,Aye
+594,219,Larry A. Ellertson,Aye
+595,219,William C. Lee,Aye
+596,219,Greg Graves,Aye
+597,220,Larry A. Ellertson,Aye
+598,220,William C. Lee,Aye
+599,220,Greg Graves,Aye
+600,221,Larry A. Ellertson,Aye
+601,221,William C. Lee,Aye
+602,221,Greg Graves,Aye
+603,222,Larry A. Ellertson,Aye
+604,222,William C. Lee,Aye
+605,222,Greg Graves,Aye
+606,223,Larry A. Ellertson,Aye
+607,223,William C. Lee,Aye
+608,223,Greg Graves,Aye
+609,224,Larry A. Ellertson,Aye
+610,224,William C. Lee,Aye
+611,224,Greg Graves,Aye
+612,225,Larry A. Ellertson,Aye
+613,225,William C. Lee,Aye
+614,225,Greg Graves,Aye
+615,226,Larry A. Ellertson,Aye
+616,226,William C. Lee,Aye
+617,226,Greg Graves,Aye
+618,227,Larry A. Ellertson,Aye
+619,227,William C. Lee,Aye
+620,227,Greg Graves,Aye
+621,228,Larry A. Ellertson,Aye
+622,228,William C. Lee,Aye
+623,228,Greg Graves,Aye
+624,229,Larry A. Ellertson,Aye
+625,229,William C. Lee,Aye
+626,229,Greg Graves,Aye
+627,230,Larry A. Ellertson,Aye
+628,230,William C. Lee,Aye
+629,230,Greg Graves,Aye
+630,231,Larry A. Ellertson,Aye
+631,231,William C. Lee,Aye
+632,231,Greg Graves,Aye
+633,232,Larry A. Ellertson,Aye
+634,232,William C. Lee,Aye
+635,232,Greg Graves,Aye
+636,234,Larry A. Ellertson,Aye
+637,234,William C. Lee,Aye
+638,234,Greg Graves,Aye
+639,235,Larry A. Ellertson,Aye
+640,235,William C. Lee,Aye
+641,235,Greg Graves,Aye
+642,236,Larry A. Ellertson,Aye
+643,236,William C. Lee,Aye
+644,236,Greg Graves,Aye
+645,237,Larry A. Ellertson,Aye
+646,237,William C. Lee,Aye
+647,237,Greg Graves,Aye
+648,238,Larry A. Ellertson,Aye
+649,238,William C. Lee,Aye
+650,238,Greg Graves,Aye
+651,239,Larry A. Ellertson,Aye
+652,239,William C. Lee,Aye
+653,239,Greg Graves,Aye
+654,240,Larry A. Ellertson,Aye
+655,240,William C. Lee,Aye
+656,240,Greg Graves,Aye
+657,241,Larry A. Ellertson,Aye
+658,241,William C. Lee,Aye
+659,241,Greg Graves,Aye
+660,242,Larry A. Ellertson,Aye
+661,242,William C. Lee,Aye
+662,242,Greg Graves,Aye
+663,243,Larry A. Ellertson,Aye
+664,243,William C. Lee,Aye
+665,243,Greg Graves,Aye
+666,244,Larry A. Ellertson,Aye
+667,244,William C. Lee,Aye
+668,244,Greg Graves,Aye
+669,246,Larry A. Ellertson,Aye
+670,246,William C. Lee,Aye
+671,246,Greg Graves,Aye
+672,247,Larry A. Ellertson,Aye
+673,247,Greg Graves,Aye
+674,247,William C. Lee,Nay
+675,248,Larry A. Ellertson,Aye
+676,248,William C. Lee,Aye
+677,248,Greg Graves,Aye
+678,249,Larry A. Ellertson,Aye
+679,249,William C. Lee,Aye
+680,249,Greg Graves,Aye
+681,250,Larry A. Ellertson,Aye
+682,250,William C. Lee,Aye
+683,250,Greg Graves,Aye
+684,251,Larry A. Ellertson,Aye
+685,251,William C. Lee,Aye
+686,251,Greg Graves,Aye
+687,252,Larry A. Ellertson,Aye
+688,252,William C. Lee,Aye
+689,252,Greg Graves,Aye
+690,253,Larry A. Ellertson,Aye
+691,253,William C. Lee,Aye
+692,253,Greg Graves,Aye
+693,254,Larry A. Ellertson,Aye
+694,254,William C. Lee,Aye
+695,254,Greg Graves,Aye
+696,255,William C. Lee,Aye
+697,255,Greg Graves,Aye
+698,256,Larry A. Ellertson,Aye
+699,256,William C. Lee,Aye
+700,256,Greg Graves,Aye
+701,257,Larry A. Ellertson,Aye
+702,257,William C. Lee,Aye
+703,257,Greg Graves,Aye
+704,258,Larry A. Ellertson,Aye
+705,258,Greg Graves,Aye
+706,258,William C. Lee,Nay
+707,259,Larry A. Ellertson,Aye
+708,259,Greg Graves,Aye
+709,259,William C. Lee,Nay
+710,260,Larry A. Ellertson,Aye
+711,260,William C. Lee,Aye
+712,260,Greg Graves,Aye
+713,261,Larry A. Ellertson,Aye
+714,261,William C. Lee,Aye
+715,261,Greg Graves,Aye
+716,262,Larry A. Ellertson,Aye
+717,262,William C. Lee,Aye
+718,262,Greg Graves,Aye
+719,263,Larry A. Ellertson,Aye
+720,263,William C. Lee,Aye
+721,263,Greg Graves,Aye
+722,264,Larry A. Ellertson,Aye
+723,264,William C. Lee,Aye
+724,264,Greg Graves,Aye
+725,266,Larry A. Ellertson,Aye
+726,266,William C. Lee,Aye
+727,266,Greg Graves,Aye
+728,267,Larry A. Ellertson,Aye
+729,267,William C. Lee,Aye
+730,267,Greg Graves,Aye
+731,268,Larry A. Ellertson,Aye
+732,268,William C. Lee,Aye
+733,268,Greg Graves,Aye
+734,269,Larry A. Ellertson,Aye
+735,269,William C. Lee,Aye
+736,269,Greg Graves,Aye
+737,271,Larry A. Ellertson,Aye
+738,271,William C. Lee,Aye
+739,271,Greg Graves,Aye
+740,272,Larry A. Ellertson,Aye
+741,272,William C. Lee,Aye
+742,272,Greg Graves,Aye
+743,273,Larry A. Ellertson,Aye
+744,273,William C. Lee,Aye
+745,273,Greg Graves,Aye
+746,274,Larry A. Ellertson,Aye
+747,274,William C. Lee,Aye
+748,274,Greg Graves,Aye
+749,275,Larry A. Ellertson,Aye
+750,275,William C. Lee,Aye
+751,275,Greg Graves,Aye
+752,276,Larry A. Ellertson,Aye
+753,276,William C. Lee,Aye
+754,276,Greg Graves,Aye
+755,277,Larry A. Ellertson,Aye
+756,277,William C. Lee,Aye
+757,277,Greg Graves,Aye
+758,278,Larry A. Ellertson,Aye
+759,278,William C. Lee,Aye
+760,278,Greg Graves,Aye
+761,279,Larry A. Ellertson,Aye
+762,279,William C. Lee,Aye
+763,279,Greg Graves,Aye
+764,280,Larry A. Ellertson,Aye
+765,280,William C. Lee,Aye
+766,280,Greg Graves,Aye
+767,282,Larry A. Ellertson,Aye
+768,282,William C. Lee,Aye
+769,282,Greg Graves,Aye
+770,283,Larry A. Ellertson,Aye
+771,283,William C. Lee,Aye
+772,283,Greg Graves,Aye
+773,284,Larry A. Ellertson,Aye
+774,284,William C. Lee,Aye
+775,284,Greg Graves,Aye
+776,285,Larry A. Ellertson,Aye
+777,285,William C. Lee,Aye
+778,285,Greg Graves,Aye
+779,287,Larry A. Ellertson,Aye
+780,287,William C. Lee,Aye
+781,287,Greg Graves,Aye
+782,288,Larry A. Ellertson,Aye
+783,288,William C. Lee,Aye
+784,288,Greg Graves,Aye
+785,289,Larry A. Ellertson,Aye
+786,289,William C. Lee,Aye
+787,289,Greg Graves,Aye
+788,290,Larry A. Ellertson,Aye
+789,290,William C. Lee,Aye
+790,290,Greg Graves,Aye
+791,291,Larry A. Ellertson,Aye
+792,291,William C. Lee,Aye
+793,291,Greg Graves,Aye
+794,292,Larry A. Ellertson,Aye
+795,292,William C. Lee,Aye
+796,292,Greg Graves,Aye
+797,293,Larry A. Ellertson,Aye
+798,293,William C. Lee,Aye
+799,293,Greg Graves,Aye
+800,294,Larry A. Ellertson,Aye
+801,294,William C. Lee,Aye
+802,294,Greg Graves,Aye
+803,295,Larry A. Ellertson,Aye
+804,295,William C. Lee,Aye
+805,295,Greg Graves,Aye
+806,296,Larry A. Ellertson,Aye
+807,296,William C. Lee,Aye
+808,296,Greg Graves,Aye
+809,297,Larry A. Ellertson,Aye
+810,297,William C. Lee,Aye
+811,297,Greg Graves,Aye
+812,298,Larry A. Ellertson,Aye
+813,298,William C. Lee,Aye
+814,298,Greg Graves,Aye
+815,299,Larry A. Ellertson,Aye
+816,299,William C. Lee,Aye
+817,299,Greg Graves,Aye
+818,300,Larry A. Ellertson,Aye
+819,300,William C. Lee,Aye
+820,300,Greg Graves,Aye
+821,301,Larry A. Ellertson,Aye
+822,301,William C. Lee,Aye
+823,301,Greg Graves,Aye
+824,302,Larry A. Ellertson,Aye
+825,302,William C. Lee,Aye
+826,302,Greg Graves,Aye
+827,303,Larry A. Ellertson,Aye
+828,303,William C. Lee,Aye
+829,303,Greg Graves,Aye
+830,304,Larry A. Ellertson,Aye
+831,304,William C. Lee,Aye
+832,304,Greg Graves,Aye
+833,305,Larry A. Ellertson,Aye
+834,305,William C. Lee,Aye
+835,305,Greg Graves,Aye
+836,306,Larry A. Ellertson,Aye
+837,306,William C. Lee,Aye
+838,306,Greg Graves,Aye
+839,307,Larry A. Ellertson,Aye
+840,307,William C. Lee,Aye
+841,307,Greg Graves,Aye
+842,308,Larry A. Ellertson,Aye
+843,308,William C. Lee,Aye
+844,308,Greg Graves,Aye
+845,309,Larry A. Ellertson,Aye
+846,309,William C. Lee,Aye
+847,309,Greg Graves,Aye
+848,310,Larry A. Ellertson,Aye
+849,310,William C. Lee,Aye
+850,310,Greg Graves,Aye
+851,311,Larry A. Ellertson,Aye
+852,311,William C. Lee,Aye
+853,311,Greg Graves,Aye
+854,312,Larry A. Ellertson,Aye
+855,312,William C. Lee,Aye
+856,313,Larry A. Ellertson,Aye
+857,313,William C. Lee,Aye
+858,314,Larry A. Ellertson,Aye
+859,314,William C. Lee,Aye
+860,315,Larry A. Ellertson,Aye
+861,315,William C. Lee,Aye
+862,316,Larry A. Ellertson,Aye
+863,316,William C. Lee,Aye
+864,317,Larry A. Ellertson,Aye
+865,317,William C. Lee,Aye
+866,317,Greg Graves,Aye
+867,318,Larry A. Ellertson,Aye
+868,318,William C. Lee,Aye
+869,318,Greg Graves,Aye
+870,319,Larry A. Ellertson,Aye
+871,319,William C. Lee,Aye
+872,319,Greg Graves,Aye
+873,321,Larry A. Ellertson,Aye
+874,321,William C. Lee,Aye
+875,321,Greg Graves,Aye
+876,322,Larry A. Ellertson,Aye
+877,322,William C. Lee,Aye
+878,322,Greg Graves,Aye
+879,323,Larry A. Ellertson,Aye
+880,323,William C. Lee,Aye
+881,323,Greg Graves,Aye
+882,324,Larry A. Ellertson,Aye
+883,324,William C. Lee,Aye
+884,324,Greg Graves,Aye
+885,325,Larry A. Ellertson,Aye
+886,325,William C. Lee,Aye
+887,325,Greg Graves,Aye
+888,326,Larry A. Ellertson,Aye
+889,326,William C. Lee,Aye
+890,326,Greg Graves,Aye
+891,327,Larry A. Ellertson,Aye
+892,327,William C. Lee,Aye
+893,327,Greg Graves,Nay
+894,328,Larry A. Ellertson,Aye
+895,328,William C. Lee,Aye
+896,328,Greg Graves,Aye
+897,329,Larry A. Ellertson,Aye
+898,329,William C. Lee,Aye
+899,329,Greg Graves,Aye
+900,330,Larry A. Ellertson,Aye
+901,330,William C. Lee,Aye
+902,330,Greg Graves,Aye
+903,331,Larry A. Ellertson,Aye
+904,331,William C. Lee,Aye
+905,331,Greg Graves,Aye
+906,332,Larry A. Ellertson,Aye
+907,332,William C. Lee,Aye
+908,332,Greg Graves,Aye
+909,333,Larry A. Ellertson,Aye
+910,333,William C. Lee,Aye
+911,333,Greg Graves,Aye
+912,334,Larry A. Ellertson,Aye
+913,334,William C. Lee,Aye
+914,334,Greg Graves,Aye
+915,335,Larry A. Ellertson,Aye
+916,335,William C. Lee,Aye
+917,335,Greg Graves,Aye
+918,336,Larry A. Ellertson,Aye
+919,336,William C. Lee,Aye
+920,336,Greg Graves,Aye
+921,337,Larry A. Ellertson,Aye
+922,337,William C. Lee,Aye
+923,337,Greg Graves,Aye
+924,338,Larry A. Ellertson,Aye
+925,338,William C. Lee,Aye
+926,338,Greg Graves,Aye
+927,339,Larry A. Ellertson,Aye
+928,339,William C. Lee,Aye
+929,339,Greg Graves,Aye
+930,340,Larry A. Ellertson,Aye
+931,340,William C. Lee,Aye
+932,340,Greg Graves,Aye
+933,342,Larry A. Ellertson,Aye
+934,342,Greg Graves,Aye
+935,343,Larry A. Ellertson,Aye
+936,343,Greg Graves,Aye
+937,344,Larry A. Ellertson,Aye
+938,344,Greg Graves,Aye
+939,345,Larry A. Ellertson,Aye
+940,345,Greg Graves,Aye
+941,346,Larry A. Ellertson,Aye
+942,346,Greg Graves,Aye
+943,347,Larry A. Ellertson,Aye
+944,347,Greg Graves,Aye
+945,348,Larry A. Ellertson,Aye
+946,348,Greg Graves,Aye
+947,349,Larry A. Ellertson,Aye
+948,349,Greg Graves,Aye
+949,350,Larry A. Ellertson,Aye
+950,350,Greg Graves,Aye
+951,351,Larry A. Ellertson,Aye
+952,351,Greg Graves,Aye
+953,352,Larry A. Ellertson,Aye
+954,352,Greg Graves,Aye
+955,353,Larry A. Ellertson,Aye
+956,353,Greg Graves,Aye
+957,354,Larry A. Ellertson,Aye
+958,354,Greg Graves,Aye
+959,355,Larry A. Ellertson,Aye
+960,355,Greg Graves,Aye
+961,356,Larry A. Ellertson,Aye
+962,356,Greg Graves,Aye
+963,357,Larry A. Ellertson,Aye
+964,357,Greg Graves,Aye
+965,358,Larry A. Ellertson,Aye
+966,358,Greg Graves,Aye
+967,359,Larry A. Ellertson,Aye
+968,359,Greg Graves,Aye
+969,360,Larry A. Ellertson,Aye
+970,360,William C. Lee,Aye
+971,360,Greg Graves,Aye
+972,361,Larry A. Ellertson,Aye
+973,361,William C. Lee,Aye
+974,361,Greg Graves,Aye
+975,362,Larry A. Ellertson,Aye
+976,362,William C. Lee,Aye
+977,362,Greg Graves,Aye
+978,363,Larry A. Ellertson,Aye
+979,363,William C. Lee,Aye
+980,363,Greg Graves,Aye
+981,364,Larry A. Ellertson,Aye
+982,364,William C. Lee,Aye
+983,364,Greg Graves,Aye
+984,366,Larry A. Ellertson,Aye
+985,366,William C. Lee,Aye
+986,366,Greg Graves,Aye
+987,367,Larry A. Ellertson,Aye
+988,367,William C. Lee,Aye
+989,367,Greg Graves,Aye
+990,368,Larry A. Ellertson,Aye
+991,368,William C. Lee,Aye
+992,368,Greg Graves,Aye
+993,369,Larry A. Ellertson,Aye
+994,369,William C. Lee,Aye
+995,369,Greg Graves,Aye
+996,370,Larry A. Ellertson,Aye
+997,370,William C. Lee,Aye
+998,370,Greg Graves,Aye
+999,372,Larry A. Ellertson,Aye
+1000,372,William C. Lee,Aye
+1001,372,Greg Graves,Aye
+1002,373,Larry A. Ellertson,Aye
+1003,373,William C. Lee,Aye
+1004,373,Greg Graves,Aye
+1005,374,Larry A. Ellertson,Aye
+1006,374,William C. Lee,Aye
+1007,374,Greg Graves,Aye
+1008,375,Larry A. Ellertson,Aye
+1009,375,William C. Lee,Aye
+1010,375,Greg Graves,Aye
+1011,376,Larry A. Ellertson,Aye
+1012,376,William C. Lee,Aye
+1013,376,Greg Graves,Aye
+1014,377,Larry A. Ellertson,Aye
+1015,377,William C. Lee,Aye
+1016,377,Greg Graves,Aye
+1017,378,Larry A. Ellertson,Aye
+1018,378,William C. Lee,Aye
+1019,378,Greg Graves,Aye
+1020,379,Larry A. Ellertson,Aye
+1021,379,William C. Lee,Aye
+1022,379,Greg Graves,Aye
+1023,380,Larry A. Ellertson,Aye
+1024,380,William C. Lee,Aye
+1025,380,Greg Graves,Aye
+1026,381,Larry A. Ellertson,Aye
+1027,381,William C. Lee,Aye
+1028,381,Greg Graves,Aye
+1029,382,Larry A. Ellertson,Aye
+1030,382,William C. Lee,Aye
+1031,382,Greg Graves,Aye
+1032,383,Larry A. Ellertson,Aye
+1033,383,Greg Graves,Aye
+1034,384,Larry A. Ellertson,Aye
+1035,384,Greg Graves,Aye
+1036,385,Larry A. Ellertson,Aye
+1037,385,Greg Graves,Aye
+1038,386,Larry A. Ellertson,Aye
+1039,386,Greg Graves,Aye
+1040,387,Larry A. Ellertson,Aye
+1041,387,William C. Lee,Aye
+1042,387,Greg Graves,Aye
+1043,388,Larry A. Ellertson,Aye
+1044,388,William C. Lee,Aye
+1045,388,Greg Graves,Aye
+1046,389,Larry A. Ellertson,Aye
+1047,389,William C. Lee,Aye
+1048,389,Greg Graves,Aye
+1049,390,Larry A. Ellertson,Aye
+1050,390,William C. Lee,Aye
+1051,390,Greg Graves,Aye
+1052,391,Larry A. Ellertson,Aye
+1053,391,William C. Lee,Aye
+1054,391,Greg Graves,Aye
+1055,393,Larry A. Ellertson,Aye
+1056,393,William C. Lee,Aye
+1057,393,Greg Graves,Aye
+1058,394,Larry A. Ellertson,Aye
+1059,394,William C. Lee,Aye
+1060,394,Greg Graves,Aye
+1061,395,Larry A. Ellertson,Aye
+1062,395,William C. Lee,Aye
+1063,395,Greg Graves,Aye
+1064,396,Larry A. Ellertson,Aye
+1065,396,William C. Lee,Aye
+1066,396,Greg Graves,Aye
+1067,397,Larry A. Ellertson,Aye
+1068,397,William C. Lee,Aye
+1069,397,Greg Graves,Aye
+1070,398,Larry A. Ellertson,Aye
+1071,398,William C. Lee,Aye
+1072,398,Greg Graves,Aye
+1073,399,Larry A. Ellertson,Aye
+1074,399,William C. Lee,Aye
+1075,399,Greg Graves,Aye
+1076,400,Larry A. Ellertson,Aye
+1077,400,William C. Lee,Aye
+1078,400,Greg Graves,Aye
+1079,401,Larry A. Ellertson,Aye
+1080,401,William C. Lee,Aye
+1081,401,Greg Graves,Aye
+1082,402,Larry A. Ellertson,Aye
+1083,402,William C. Lee,Aye
+1084,402,Greg Graves,Aye
+1085,403,Larry A. Ellertson,Aye
+1086,403,William C. Lee,Aye
+1087,403,Greg Graves,Aye
+1088,404,Larry A. Ellertson,Aye
+1089,404,William C. Lee,Aye
+1090,404,Greg Graves,Aye
+1091,405,Larry A. Ellertson,Aye
+1092,405,William C. Lee,Aye
+1093,405,Greg Graves,Aye
+1094,406,Larry A. Ellertson,Aye
+1095,406,William C. Lee,Aye
+1096,406,Greg Graves,Aye
+1097,407,Larry A. Ellertson,Aye
+1098,407,William C. Lee,Aye
+1099,407,Greg Graves,Aye
+1100,408,Larry A. Ellertson,Aye
+1101,408,William C. Lee,Aye
+1102,408,Greg Graves,Aye
+1103,410,Larry A. Ellertson,Aye
+1104,410,William C. Lee,Aye
+1105,410,Greg Graves,Aye
+1106,411,Larry A. Ellertson,Aye
+1107,411,William C. Lee,Aye
+1108,411,Greg Graves,Aye
+1109,412,Larry A. Ellertson,Aye
+1110,412,William C. Lee,Aye
+1111,413,Larry A. Ellertson,Aye
+1112,413,William C. Lee,Aye
+1113,413,Greg Graves,Aye
+1114,414,Larry A. Ellertson,Aye
+1115,414,William C. Lee,Aye
+1116,414,Greg Graves,Aye
+1117,415,Larry A. Ellertson,Aye
+1118,415,William C. Lee,Aye
+1119,415,Greg Graves,Aye
+1120,416,Larry A. Ellertson,Aye
+1121,416,William C. Lee,Aye
+1122,416,Greg Graves,Aye
+1123,417,Larry A. Ellertson,Aye
+1124,417,William C. Lee,Aye
+1125,417,Greg Graves,Aye
+1126,418,Larry A. Ellertson,Aye
+1127,418,William C. Lee,Aye
+1128,418,Greg Graves,Aye
+1129,419,Larry A. Ellertson,Aye
+1130,419,William C. Lee,Aye
+1131,419,Greg Graves,Aye
+1132,420,Larry A. Ellertson,Aye
+1133,420,William C. Lee,Aye
+1134,420,Greg Graves,Aye
+1135,421,Larry A. Ellertson,Aye
+1136,421,William C. Lee,Aye
+1137,421,Greg Graves,Aye
+1138,422,Larry A. Ellertson,Aye
+1139,422,William C. Lee,Aye
+1140,422,Greg Graves,Aye
+1141,423,Larry A. Ellertson,Aye
+1142,423,William C. Lee,Aye
+1143,423,Greg Graves,Aye
+1144,424,Larry A. Ellertson,Aye
+1145,424,William C. Lee,Aye
+1146,424,Greg Graves,Aye
+1147,425,Larry A. Ellertson,Aye
+1148,425,William C. Lee,Aye
+1149,425,Greg Graves,Nay
+1150,426,Larry A. Ellertson,Aye
+1151,426,William C. Lee,Aye
+1152,426,Greg Graves,Aye
+1153,427,Larry A. Ellertson,Aye
+1154,427,William C. Lee,Aye
+1155,427,Greg Graves,Aye
+1156,428,Larry A. Ellertson,Aye
+1157,428,William C. Lee,Aye
+1158,428,Greg Graves,Aye
+1159,429,Larry A. Ellertson,Aye
+1160,429,William C. Lee,Aye
+1161,429,Greg Graves,Aye
+1162,430,Larry A. Ellertson,Aye
+1163,430,William C. Lee,Aye
+1164,430,Greg Graves,Aye
+1165,431,Larry A. Ellertson,Aye
+1166,431,William C. Lee,Aye
+1167,431,Greg Graves,Aye
+1168,432,Larry A. Ellertson,Aye
+1169,432,William C. Lee,Aye
+1170,432,Greg Graves,Aye
+1171,433,Larry A. Ellertson,Aye
+1172,433,William C. Lee,Aye
+1173,433,Greg Graves,Aye
+1174,434,Larry A. Ellertson,Aye
+1175,434,William C. Lee,Aye
+1176,434,Greg Graves,Aye
+1177,435,Larry A. Ellertson,Aye
+1178,435,William C. Lee,Aye
+1179,435,Greg Graves,Aye
+1180,436,Larry A. Ellertson,Aye
+1181,436,William C. Lee,Aye
+1182,436,Greg Graves,Aye
+1183,437,Larry A. Ellertson,Aye
+1184,437,William C. Lee,Aye
+1185,437,Greg Graves,Aye
+1186,438,Larry A. Ellertson,Aye
+1187,439,Larry A. Ellertson,Aye
+1188,439,William C. Lee,Aye
+1189,439,Greg Graves,Aye
+1190,440,Larry A. Ellertson,Aye
+1191,440,William C. Lee,Aye
+1192,440,Greg Graves,Aye
+1193,441,Larry A. Ellertson,Aye
+1194,441,William C. Lee,Aye
+1195,441,Greg Graves,Aye
+1196,442,William C. Lee,Aye
+1197,442,Greg Graves,Aye
+1198,442,Larry A. Ellertson,Recuse
+1199,443,Larry A. Ellertson,Aye
+1200,443,William C. Lee,Aye
+1201,443,Greg Graves,Aye
+1202,444,Larry A. Ellertson,Aye
+1203,444,William C. Lee,Aye
+1204,444,Greg Graves,Aye
+1205,445,Larry A. Ellertson,Aye
+1206,445,William C. Lee,Aye
+1207,445,Greg Graves,Aye
+1208,446,Larry A. Ellertson,Aye
+1209,446,William C. Lee,Aye
+1210,446,Greg Graves,Aye
+1211,447,Larry A. Ellertson,Aye
+1212,447,William C. Lee,Aye
+1213,447,Greg Graves,Aye
+1214,448,Larry A. Ellertson,Aye
+1215,448,William C. Lee,Aye
+1216,448,Greg Graves,Aye
+1217,449,Larry A. Ellertson,Aye
+1218,449,William C. Lee,Aye
+1219,449,Greg Graves,Aye
+1220,450,Larry A. Ellertson,Aye
+1221,450,William C. Lee,Aye
+1222,450,Greg Graves,Aye
+1223,451,Larry A. Ellertson,Aye
+1224,451,William C. Lee,Aye
+1225,451,Greg Graves,Aye
+1226,452,Larry A. Ellertson,Aye
+1227,452,William C. Lee,Aye
+1228,452,Greg Graves,Aye
+1229,453,Larry A. Ellertson,Aye
+1230,453,William C. Lee,Aye
+1231,453,Greg Graves,Aye
+1232,454,Larry A. Ellertson,Aye
+1233,454,William C. Lee,Aye
+1234,454,Greg Graves,Aye
+1235,455,Larry A. Ellertson,Aye
+1236,455,William C. Lee,Aye
+1237,455,Greg Graves,Aye
+1238,456,Larry A. Ellertson,Aye
+1239,457,Larry A. Ellertson,Aye
+1240,458,Larry A. Ellertson,Aye
+1241,459,Larry A. Ellertson,Aye
+1242,461,Larry A. Ellertson,Aye
+1243,462,Larry A. Ellertson,Aye
+1244,463,Larry A. Ellertson,Aye
+1245,465,Larry A. Ellertson,Aye
+1246,465,William E. Lee,Aye
+1247,465,Greg Graves,Aye
+1248,466,Larry A. Ellertson,Aye
+1249,466,William E. Lee,Aye
+1250,466,Greg Graves,Aye
+1251,467,Larry A. Ellertson,Aye
+1252,467,William E. Lee,Aye
+1253,467,Greg Graves,Aye
+1254,469,Larry A. Ellertson,Aye
+1255,469,William E. Lee,Aye
+1256,469,Greg Graves,Aye
+1257,470,Larry A. Ellertson,Aye
+1258,470,William E. Lee,Aye
+1259,470,Greg Graves,Aye
+1260,471,Larry A. Ellertson,Aye
+1261,471,William E. Lee,Aye
+1262,471,Greg Graves,Aye
+1263,472,Larry A. Ellertson,Aye
+1264,472,William E. Lee,Aye
+1265,472,Greg Graves,Aye
+1266,473,Larry A. Ellertson,Aye
+1267,473,William E. Lee,Aye
+1268,473,Greg Graves,Aye
+1269,474,Larry A. Ellertson,Aye
+1270,474,William E. Lee,Aye
+1271,474,Greg Graves,Aye
+1272,475,Larry A. Ellertson,Aye
+1273,475,William E. Lee,Aye
+1274,475,Greg Graves,Aye
+1275,477,Larry A. Ellertson,Aye
+1276,477,William C. Lee,Aye
+1277,477,Greg Graves,Aye
+1278,478,Larry A. Ellertson,Aye
+1279,478,William C. Lee,Aye
+1280,478,Greg Graves,Aye
+1281,479,Larry A. Ellertson,Aye
+1282,479,William C. Lee,Aye
+1283,479,Greg Graves,Aye
+1284,480,Larry A. Ellertson,Aye
+1285,480,William C. Lee,Aye
+1286,480,Greg Graves,Aye
+1287,482,Larry A. Ellertson,Aye
+1288,482,William C. Lee,Aye
+1289,482,Greg Graves,Aye
+1290,484,Larry A. Ellertson,Aye
+1291,485,Larry A. Ellertson,Aye
+1292,486,Larry A. Ellertson,Aye
+1293,487,Larry A. Ellertson,Aye
+1294,488,Larry A. Ellertson,Aye
+1295,494,Larry A. Ellertson,Aye
+1296,495,Larry A. Ellertson,Aye
+1297,496,Larry A. Ellertson,Aye
+1298,497,Larry A. Ellertson,Aye
+1299,498,Larry A. Ellertson,Aye
+1300,499,Larry A. Ellertson,Aye
+1301,500,Larry A. Ellertson,Aye
+1302,501,Larry A. Ellertson,Aye
+1303,502,Larry A. Ellertson,Aye
+1304,502,William C. Lee,Aye
+1305,502,Greg Graves,Aye
+1306,503,Larry A. Ellertson,Aye
+1307,503,William C. Lee,Aye
+1308,503,Greg Graves,Aye
+1309,504,Larry A. Ellertson,Aye
+1310,504,Greg Graves,Aye
+1311,504,William C. Lee,Nay
+1312,505,Larry A. Ellertson,Aye
+1313,505,William C. Lee,Aye
+1314,505,Greg Graves,Aye
+1315,506,Larry A. Ellertson,Aye
+1316,506,William C. Lee,Aye
+1317,506,Greg Graves,Aye
+1318,507,Larry A. Ellertson,Aye
+1319,507,William C. Lee,Aye
+1320,507,Greg Graves,Aye
+1321,508,Larry A. Ellertson,Aye
+1322,508,William C. Lee,Aye
+1323,508,Greg Graves,Aye
+1324,509,Larry A. Ellertson,Aye
+1325,509,William C. Lee,Aye
+1326,509,Greg Graves,Aye
+1327,510,Larry A. Ellertson,Aye
+1328,510,William C. Lee,Aye
+1329,510,Greg Graves,Aye
+1330,512,Larry A. Ellertson,Aye
+1331,512,William C. Lee,Aye
+1332,512,Greg Graves,Aye
+1333,513,Larry A. Ellertson,Aye
+1334,513,William C. Lee,Aye
+1335,513,Greg Graves,Aye
+1336,514,Larry A. Ellertson,Aye
+1337,514,William C. Lee,Aye
+1338,514,Greg Graves,Aye
+1339,515,Larry A. Ellertson,Aye
+1340,515,William C. Lee,Aye
+1341,515,Greg Graves,Aye
+1342,516,Larry A. Ellertson,Aye
+1343,516,William C. Lee,Aye
+1344,516,Greg Graves,Aye
+1345,517,Larry A. Ellertson,Aye
+1346,517,William C. Lee,Aye
+1347,517,Greg Graves,Aye
+1348,519,Larry A. Ellertson,Aye
+1349,519,William C. Lee,Aye
+1350,519,Greg Graves,Aye
+1351,520,Larry A. Ellertson,Aye
+1352,520,William C. Lee,Aye
+1353,520,Greg Graves,Aye
+1354,521,Larry A. Ellertson,Aye
+1355,521,William C. Lee,Aye
+1356,521,Greg Graves,Aye
+1357,522,Larry A. Ellertson,Aye
+1358,522,William C. Lee,Aye
+1359,522,Greg Graves,Aye
+1360,523,Larry A. Ellertson,Aye
+1361,523,William C. Lee,Aye
+1362,523,Greg Graves,Aye
+1363,524,Larry A. Ellertson,Aye
+1364,524,William C. Lee,Aye
+1365,524,Greg Graves,Aye
+1366,525,Larry A. Ellertson,Aye
+1367,525,William C. Lee,Aye
+1368,525,Greg Graves,Aye
+1369,528,Larry A. Ellertson,Aye
+1370,528,William C. Lee,Aye
+1371,528,Greg Graves,Aye
+1372,529,Larry A. Ellertson,Aye
+1373,529,William C. Lee,Aye
+1374,529,Greg Graves,Aye
+1375,530,Larry A. Ellertson,Aye
+1376,530,William C. Lee,Aye
+1377,530,Greg Graves,Aye
+1378,531,Larry A. Ellertson,Aye
+1379,531,William C. Lee,Aye
+1380,531,Greg Graves,Aye
+1381,533,Larry A. Ellertson,Aye
+1382,533,William C. Lee,Aye
+1383,533,Greg Graves,Aye
+1384,534,Larry A. Ellertson,Aye
+1385,534,William C. Lee,Aye
+1386,534,Greg Graves,Aye
+1387,535,Larry A. Ellertson,Aye
+1388,535,William C. Lee,Aye
+1389,535,Greg Graves,Aye
+1390,536,Larry A. Ellertson,Aye
+1391,536,William C. Lee,Aye
+1392,536,Greg Graves,Aye
+1393,538,Larry A. Ellertson,Aye
+1394,538,William C. Lee,Aye
+1395,538,Greg Graves,Aye
+1396,539,Larry A. Ellertson,Aye
+1397,539,William C. Lee,Aye
+1398,539,Greg Graves,Aye
+1399,540,Larry A. Ellertson,Aye
+1400,540,William C. Lee,Aye
+1401,540,Greg Graves,Aye
+1402,541,Larry A. Ellertson,Aye
+1403,541,William C. Lee,Aye
+1404,541,Greg Graves,Aye
+1405,542,Larry A. Ellertson,Aye
+1406,542,William C. Lee,Aye
+1407,542,Greg Graves,Aye
+1408,543,Larry A. Ellertson,Aye
+1409,543,William C. Lee,Aye
+1410,543,Greg Graves,Aye
+1411,544,Larry A. Ellertson,Aye
+1412,544,William C. Lee,Aye
+1413,544,Greg Graves,Aye
+1414,545,Larry A. Ellertson,Aye
+1415,545,William C. Lee,Aye
+1416,545,Greg Graves,Aye
+1417,546,Larry A. Ellertson,Aye
+1418,546,William C. Lee,Aye
+1419,546,Greg Graves,Aye
+1420,548,Larry A. Ellertson,Aye
+1421,548,William C. Lee,Aye
+1422,548,Greg Graves,Aye
+1423,549,Larry A. Ellertson,Aye
+1424,549,William C. Lee,Aye
+1425,549,Greg Graves,Aye
+1426,550,Larry A. Ellertson,Aye
+1427,550,William C. Lee,Aye
+1428,550,Greg Graves,Aye
+1429,551,Larry A. Ellertson,Aye
+1430,551,William C. Lee,Aye
+1431,551,Greg Graves,Aye
+1432,552,Larry A. Ellertson,Aye
+1433,552,William C. Lee,Aye
+1434,552,Greg Graves,Aye
+1435,553,Larry A. Ellertson,Aye
+1436,553,William C. Lee,Aye
+1437,553,Greg Graves,Aye
+1438,554,Larry A. Ellertson,Aye
+1439,554,William C. Lee,Aye
+1440,554,Greg Graves,Aye
+1441,555,Larry A. Ellertson,Aye
+1442,555,William C. Lee,Aye
+1443,555,Greg Graves,Aye
+1444,556,Larry A. Ellertson,Aye
+1445,556,William C. Lee,Aye
+1446,556,Greg Graves,Aye
+1447,557,Larry A. Ellertson,Aye
+1448,557,William C. Lee,Aye
+1449,557,Greg Graves,Aye
+1450,558,Larry A. Ellertson,Aye
+1451,558,William C. Lee,Aye
+1452,558,Greg Graves,Aye
+1453,559,Larry A. Ellertson,Aye
+1454,559,William C. Lee,Aye
+1455,559,Greg Graves,Aye
+1456,560,Larry A. Ellertson,Aye
+1457,560,William C. Lee,Aye
+1458,560,Greg Graves,Aye
+1459,561,Larry A. Ellertson,Aye
+1460,561,William C. Lee,Aye
+1461,561,Greg Graves,Aye
+1462,562,William C. Lee,Aye
+1463,562,Greg Graves,Aye
+1464,562,Larry A. Ellertson,Nay
+1465,563,Larry A. Ellertson,Aye
+1466,563,William C. Lee,Aye
+1467,563,Greg Graves,Aye
+1468,564,William C. Lee,Aye
+1469,564,Greg Graves,Aye
+1470,566,Larry A. Ellertson,Aye
+1471,566,William C. Lee,Aye
+1472,566,Greg Graves,Aye
+1473,567,Larry A. Ellertson,Aye
+1474,567,William C. Lee,Aye
+1475,567,Greg Graves,Aye
+1476,568,Larry A. Ellertson,Aye
+1477,568,William C. Lee,Aye
+1478,568,Greg Graves,Aye
+1479,569,William C. Lee,Aye
+1480,569,Greg Graves,Aye
+1481,570,Larry A. Ellertson,Aye
+1482,570,William C. Lee,Aye
+1483,570,Greg Graves,Aye
+1484,571,Larry A. Ellertson,Aye
+1485,571,William C. Lee,Aye
+1486,571,Greg Graves,Aye
+1487,572,Larry A. Ellertson,Aye
+1488,572,William C. Lee,Aye
+1489,572,Greg Graves,Aye
+1490,574,Larry A. Ellertson,Aye
+1491,574,William C. Lee,Aye
+1492,574,Greg Graves,Aye
+1493,575,Larry A. Ellertson,Aye
+1494,575,William C. Lee,Aye
+1495,575,Greg Graves,Aye
+1496,576,Larry A. Ellertson,Aye
+1497,576,William C. Lee,Aye
+1498,576,Greg Graves,Aye
+1499,577,Larry A. Ellertson,Aye
+1500,577,William C. Lee,Aye
+1501,577,Greg Graves,Aye
+1502,578,Larry A. Ellertson,Aye
+1503,578,William C. Lee,Aye
+1504,578,Greg Graves,Aye
+1505,579,Larry A. Ellertson,Aye
+1506,579,William C. Lee,Aye
+1507,579,Greg Graves,Aye
+1508,580,Larry A. Ellertson,Aye
+1509,580,William C. Lee,Aye
+1510,580,Greg Graves,Aye
+1511,581,Larry A. Ellertson,Aye
+1512,581,William C. Lee,Aye
+1513,581,Greg Graves,Aye
+1514,582,Larry A. Ellertson,Aye
+1515,582,William C. Lee,Aye
+1516,582,Greg Graves,Aye
+1517,585,Larry A. Ellertson,Aye
+1518,585,William C. Lee,Aye
+1519,585,Greg Graves,Aye
+1520,586,Larry A. Ellertson,Aye
+1521,586,William C. Lee,Aye
+1522,586,Greg Graves,Aye
+1523,587,Larry A. Ellertson,Aye
+1524,587,William C. Lee,Aye
+1525,587,Greg Graves,Aye
+1526,588,Larry A. Ellertson,Aye
+1527,588,William C. Lee,Aye
+1528,588,Greg Graves,Aye
+1529,589,Larry A. Ellertson,Aye
+1530,589,William C. Lee,Aye
+1531,589,Greg Graves,Aye
+1532,590,Larry A. Ellertson,Aye
+1533,590,William C. Lee,Aye
+1534,590,Greg Graves,Aye
+1535,591,Larry A. Ellertson,Aye
+1536,591,William C. Lee,Aye
+1537,591,Greg Graves,Aye
+1538,592,Larry A. Ellertson,Aye
+1539,592,William C. Lee,Aye
+1540,592,Greg Graves,Aye
+1541,594,Larry A. Ellertson,Aye
+1542,594,William C. Lee,Aye
+1543,594,Greg Graves,Aye
+1544,595,Larry A. Ellertson,Aye
+1545,595,William C. Lee,Aye
+1546,595,Greg Graves,Aye
+1547,596,Larry A. Ellertson,Aye
+1548,596,William C. Lee,Aye
+1549,596,Greg Graves,Aye
+1550,597,Larry A. Ellertson,Aye
+1551,597,William C. Lee,Aye
+1552,597,Greg Graves,Aye
+1553,598,Larry A. Ellertson,Aye
+1554,598,William C. Lee,Aye
+1555,598,Greg Graves,Aye
+1556,599,Larry A. Ellertson,Aye
+1557,599,William C. Lee,Aye
+1558,599,Greg Graves,Aye
+1559,600,Larry A. Ellertson,Aye
+1560,600,William C. Lee,Aye
+1561,600,Greg Graves,Aye
+1562,601,Larry A. Ellertson,Aye
+1563,601,William C. Lee,Aye
+1564,601,Greg Graves,Aye
+1565,602,Larry A. Ellertson,Aye
+1566,602,William C. Lee,Aye
+1567,602,Greg Graves,Aye
+1568,603,Larry A. Ellertson,Aye
+1569,603,William C. Lee,Aye
+1570,603,Greg Graves,Aye
+1571,605,Larry A. Ellertson,Aye
+1572,605,William C. Lee,Aye
+1573,605,Greg Graves,Aye
+1574,607,Larry A. Ellertson,Aye
+1575,607,William C. Lee,Aye
+1576,607,Greg Graves,Aye
+1577,608,Larry A. Ellertson,Aye
+1578,608,William C. Lee,Aye
+1579,608,Greg Graves,Aye
+1580,609,Larry A. Ellertson,Aye
+1581,609,William C. Lee,Aye
+1582,609,Greg Graves,Aye
+1583,610,Larry A. Ellertson,Aye
+1584,610,William C. Lee,Aye
+1585,610,Greg Graves,Aye
+1586,611,Larry A. Ellertson,Aye
+1587,611,William C. Lee,Aye
+1588,611,Greg Graves,Aye
+1589,612,Larry A. Ellertson,Aye
+1590,612,William C. Lee,Aye
+1591,612,Greg Graves,Aye
+1592,613,Larry A. Ellertson,Aye
+1593,613,William C. Lee,Aye
+1594,613,Greg Graves,Aye
+1595,614,Larry A. Ellertson,Aye
+1596,614,William C. Lee,Aye
+1597,614,Greg Graves,Aye
+1598,615,Larry A. Ellertson,Aye
+1599,615,William C. Lee,Aye
+1600,615,Greg Graves,Abstain
+1601,616,Larry A. Ellertson,Aye
+1602,616,William C. Lee,Aye
+1603,616,Greg Graves,Aye
+1604,618,Larry A. Ellertson,Aye
+1605,618,William C. Lee,Aye
+1606,618,Greg Graves,Aye
+1607,620,Larry A. Ellertson,Aye
+1608,620,William C. Lee,Aye
+1609,620,Greg Graves,Aye
+1610,621,Larry A. Ellertson,Aye
+1611,621,William C. Lee,Aye
+1612,621,Greg Graves,Aye
+1613,622,Larry A. Ellertson,Aye
+1614,622,William C. Lee,Aye
+1615,622,Greg Graves,Aye
+1616,623,Larry A. Ellertson,Aye
+1617,623,William C. Lee,Aye
+1618,623,Greg Graves,Aye
+1619,624,Larry A. Ellertson,Aye
+1620,624,William C. Lee,Aye
+1621,624,Greg Graves,Aye
+1622,625,Larry A. Ellertson,Aye
+1623,625,William C. Lee,Aye
+1624,625,Greg Graves,Aye
+1625,626,Larry A. Ellertson,Aye
+1626,626,William C. Lee,Aye
+1627,626,Greg Graves,Aye
+1628,628,Larry A. Ellertson,Aye
+1629,628,William C. Lee,Aye
+1630,628,Greg Graves,Aye
+1631,629,Larry A. Ellertson,Aye
+1632,629,Greg Graves,Aye
+1633,629,William C. Lee,Nay
+1634,630,Larry A. Ellertson,Aye
+1635,630,William C. Lee,Aye
+1636,630,Greg Graves,Aye
+1637,631,Larry A. Ellertson,Aye
+1638,631,William C. Lee,Aye
+1639,631,Greg Graves,Aye
+1640,632,Larry A. Ellertson,Aye
+1641,632,William C. Lee,Aye
+1642,632,Greg Graves,Aye
+1643,633,Larry A. Ellertson,Aye
+1644,633,William C. Lee,Aye
+1645,633,Greg Graves,Aye
+1646,634,Larry A. Ellertson,Aye
+1647,634,William C. Lee,Aye
+1648,634,Greg Graves,Aye
+1649,635,Larry A. Ellertson,Aye
+1650,635,William C. Lee,Aye
+1651,635,Greg Graves,Aye
+1652,636,Larry A. Ellertson,Aye
+1653,636,William C. Lee,Aye
+1654,636,Greg Graves,Aye
+1655,637,William C. Lee,Aye
+1656,637,Greg Graves,Aye
+1657,638,Larry A. Ellertson,Aye
+1658,638,William C. Lee,Aye
+1659,638,Greg Graves,Aye
+1660,639,Larry A. Ellertson,Aye
+1661,639,William C. Lee,Aye
+1662,639,Greg Graves,Aye
+1663,640,Larry A. Ellertson,Aye
+1664,640,William C. Lee,Aye
+1665,640,Greg Graves,Aye
+1666,642,Larry A. Ellertson,Aye
+1667,642,William C. Lee,Aye
+1668,642,Greg Graves,Aye
+1669,643,Larry A. Ellertson,Aye
+1670,643,William C. Lee,Aye
+1671,643,Greg Graves,Aye
+1672,644,Larry A. Ellertson,Aye
+1673,644,William C. Lee,Aye
+1674,644,Greg Graves,Aye
+1675,646,Larry A. Ellertson,Aye
+1676,646,William C. Lee,Aye
+1677,646,Greg Graves,Aye
+1678,647,Larry A. Ellertson,Aye
+1679,647,William C. Lee,Aye
+1680,647,Greg Graves,Aye
+1681,648,Larry A. Ellertson,Aye
+1682,648,William C. Lee,Aye
+1683,648,Greg Graves,Aye
+1684,649,Larry A. Ellertson,Aye
+1685,649,William C. Lee,Aye
+1686,649,Greg Graves,Aye
+1687,650,Larry A. Ellertson,Aye
+1688,650,William C. Lee,Aye
+1689,650,Greg Graves,Aye
+1690,651,Larry A. Ellertson,Aye
+1691,651,William C. Lee,Aye
+1692,651,Greg Graves,Aye
+1693,652,Larry A. Ellertson,Aye
+1694,652,William C. Lee,Aye
+1695,652,Greg Graves,Aye
+1696,653,Larry A. Ellertson,Aye
+1697,653,William C. Lee,Aye
+1698,653,Greg Graves,Aye
+1699,654,Larry A. Ellertson,Aye
+1700,654,William C. Lee,Aye
+1701,654,Greg Graves,Aye
+1702,655,Larry A. Ellertson,Aye
+1703,655,William C. Lee,Aye
+1704,655,Greg Graves,Aye
+1705,656,Larry A. Ellertson,Aye
+1706,656,William C. Lee,Aye
+1707,656,Greg Graves,Aye
+1708,657,Larry A. Ellertson,Aye
+1709,657,William C. Lee,Aye
+1710,657,Greg Graves,Aye
+1711,658,Larry A. Ellertson,Aye
+1712,658,William C. Lee,Aye
+1713,658,Greg Graves,Aye
+1714,659,Larry A. Ellertson,Aye
+1715,659,William C. Lee,Aye
+1716,659,Greg Graves,Aye
+1717,660,Larry A. Ellertson,Aye
+1718,660,William C. Lee,Aye
+1719,660,Greg Graves,Aye
+1720,662,Larry A. Ellertson,Aye
+1721,662,William C. Lee,Aye
+1722,662,Greg Graves,Aye
+1723,663,Larry A. Ellertson,Aye
+1724,663,William C. Lee,Aye
+1725,663,Greg Graves,Aye
+1726,664,Larry A. Ellertson,Aye
+1727,664,William C. Lee,Aye
+1728,664,Greg Graves,Aye
+1729,665,Larry A. Ellertson,Aye
+1730,665,William C. Lee,Aye
+1731,665,Greg Graves,Aye
+1732,666,Larry A. Ellertson,Aye
+1733,666,William C. Lee,Aye
+1734,666,Greg Graves,Aye
+1735,667,Larry A. Ellertson,Aye
+1736,667,William C. Lee,Aye
+1737,667,Greg Graves,Aye
+1738,668,Larry A. Ellertson,Aye
+1739,668,William C. Lee,Aye
+1740,668,Greg Graves,Aye
+1741,669,Larry A. Ellertson,Aye
+1742,669,William C. Lee,Aye
+1743,669,Greg Graves,Aye
+1744,670,Larry A. Ellertson,Aye
+1745,670,William C. Lee,Aye
+1746,670,Greg Graves,Aye
+1747,671,Larry A. Ellertson,Aye
+1748,671,William C. Lee,Aye
+1749,671,Greg Graves,Aye
+1750,672,Larry A. Ellertson,Aye
+1751,672,William C. Lee,Aye
+1752,672,Greg Graves,Aye
+1753,673,Larry A. Ellertson,Aye
+1754,673,William C. Lee,Aye
+1755,673,Greg Graves,Aye
+1756,675,Larry A. Ellertson,Aye
+1757,675,William C. Lee,Aye
+1758,675,Greg Graves,Aye
+1759,676,Larry A. Ellertson,Aye
+1760,676,William C. Lee,Aye
+1761,676,Greg Graves,Aye
+1762,677,Larry A. Ellertson,Aye
+1763,677,Greg Graves,Aye
+1764,677,William C. Lee,Nay
+1765,678,Larry A. Ellertson,Aye
+1766,678,William C. Lee,Aye
+1767,678,Greg Graves,Aye
+1768,679,Larry A. Ellertson,Aye
+1769,679,William C. Lee,Aye
+1770,679,Greg Graves,Aye
+1771,680,Larry A. Ellertson,Aye
+1772,680,William C. Lee,Aye
+1773,680,Greg Graves,Aye
+1774,681,Larry A. Ellertson,Aye
+1775,681,William C. Lee,Aye
+1776,681,Greg Graves,Aye
+1777,682,Larry A. Ellertson,Aye
+1778,682,William C. Lee,Aye
+1779,682,Greg Graves,Aye
+1780,683,Larry A. Ellertson,Aye
+1781,683,William C. Lee,Aye
+1782,683,Greg Graves,Aye
+1783,684,Larry A. Ellertson,Aye
+1784,684,William C. Lee,Aye
+1785,684,Greg Graves,Aye
+1786,685,Larry A. Ellertson,Aye
+1787,685,William C. Lee,Aye
+1788,685,Greg Graves,Aye
+1789,686,Larry A. Ellertson,Aye
+1790,686,William C. Lee,Aye
+1791,686,Greg Graves,Aye
+1792,687,Larry A. Ellertson,Aye
+1793,687,William C. Lee,Aye
+1794,687,Greg Graves,Aye
+1795,688,Larry A. Ellertson,Aye
+1796,688,William C. Lee,Aye
+1797,688,Greg Graves,Aye
+1798,689,Larry A. Ellertson,Aye
+1799,689,William C. Lee,Aye
+1800,689,Greg Graves,Aye
+1801,690,Larry A. Ellertson,Aye
+1802,690,William C. Lee,Aye
+1803,690,Greg Graves,Aye
+1804,691,Larry A. Ellertson,Aye
+1805,691,William C. Lee,Aye
+1806,691,Greg Graves,Aye
+1807,692,Larry A. Ellertson,Aye
+1808,692,William C. Lee,Aye
+1809,692,Greg Graves,Aye
+1810,693,Larry A. Ellertson,Aye
+1811,693,William C. Lee,Aye
+1812,693,Greg Graves,Aye
+1813,694,Larry A. Ellertson,Aye
+1814,694,William C. Lee,Aye
+1815,694,Greg Graves,Aye
+1816,695,Larry A. Ellertson,Aye
+1817,695,William C. Lee,Aye
+1818,695,Greg Graves,Aye
+1819,696,Larry A. Ellertson,Aye
+1820,696,William C. Lee,Aye
+1821,696,Greg Graves,Aye
+1822,698,Larry A. Ellertson,Aye
+1823,698,William C. Lee,Aye
+1824,698,Greg Graves,Aye
+1825,699,Larry A. Ellertson,Aye
+1826,699,William C. Lee,Aye
+1827,699,Greg Graves,Aye
+1828,700,Larry A. Ellertson,Aye
+1829,700,William C. Lee,Aye
+1830,700,Greg Graves,Aye
+1831,701,Larry A. Ellertson,Aye
+1832,701,William C. Lee,Aye
+1833,701,Greg Graves,Aye
+1834,702,Larry A. Ellertson,Aye
+1835,702,William C. Lee,Aye
+1836,702,Greg Graves,Aye
+1837,703,Larry A. Ellertson,Aye
+1838,703,William C. Lee,Aye
+1839,703,Greg Graves,Aye
+1840,705,Larry A. Ellertson,Aye
+1841,705,William C. Lee,Aye
+1842,705,Greg Graves,Aye
+1843,707,Larry A. Ellertson,Aye
+1844,707,William C. Lee,Aye
+1845,707,Greg Graves,Aye
+1846,708,Larry A. Ellertson,Aye
+1847,708,William C. Lee,Aye
+1848,708,Greg Graves,Aye
+1849,709,Larry A. Ellertson,Aye
+1850,709,William C. Lee,Aye
+1851,709,Greg Graves,Aye
+1852,710,Larry A. Ellertson,Aye
+1853,710,William C. Lee,Aye
+1854,710,Greg Graves,Aye
+1855,712,Larry A. Ellertson,Aye
+1856,712,William C. Lee,Aye
+1857,712,Greg Graves,Aye
+1858,713,Larry A. Ellertson,Aye
+1859,713,William C. Lee,Aye
+1860,713,Greg Graves,Aye
+1861,714,Larry A. Ellertson,Aye
+1862,714,William C. Lee,Aye
+1863,714,Greg Graves,Aye
+1864,715,Larry A. Ellertson,Aye
+1865,715,William C. Lee,Aye
+1866,715,Greg Graves,Aye
+1867,717,Larry A. Ellertson,Aye
+1868,717,William C. Lee,Aye
+1869,717,Greg Graves,Aye
+1870,718,Larry A. Ellertson,Aye
+1871,718,William C. Lee,Aye
+1872,718,Greg Graves,Aye
+1873,719,Larry A. Ellertson,Aye
+1874,719,William C. Lee,Aye
+1875,719,Greg Graves,Aye
+1876,720,Larry A. Ellertson,Aye
+1877,720,William C. Lee,Aye
+1878,720,Greg Graves,Aye
+1879,721,Larry A. Ellertson,Aye
+1880,721,William C. Lee,Aye
+1881,721,Greg Graves,Aye
+1882,722,Larry A. Ellertson,Aye
+1883,722,William C. Lee,Aye
+1884,722,Greg Graves,Aye
+1885,723,Larry A. Ellertson,Aye
+1886,723,William C. Lee,Aye
+1887,723,Greg Graves,Aye
+1888,724,Larry A. Ellertson,Aye
+1889,724,William C. Lee,Aye
+1890,724,Greg Graves,Aye
+1891,725,Larry A. Ellertson,Aye
+1892,725,William C. Lee,Aye
+1893,725,Greg Graves,Aye
+1894,727,Larry A. Ellertson,Aye
+1895,727,William C. Lee,Aye
+1896,727,Greg Graves,Aye
+1897,728,Larry A. Ellertson,Aye
+1898,728,William C. Lee,Aye
+1899,728,Greg Graves,Aye
+1900,729,Larry A. Ellertson,Aye
+1901,729,Greg Graves,Aye
+1902,730,Larry A. Ellertson,Aye
+1903,730,William C. Lee,Aye
+1904,730,Greg Graves,Aye
+1905,731,Larry A. Ellertson,Aye
+1906,731,William C. Lee,Aye
+1907,731,Greg Graves,Aye
+1908,732,Larry A. Ellertson,Aye
+1909,732,William C. Lee,Aye
+1910,732,Greg Graves,Aye
+1911,733,Larry A. Ellertson,Aye
+1912,733,William C. Lee,Aye
+1913,733,Greg Graves,Aye
+1914,735,Larry A. Ellertson,Aye
+1915,735,William C. Lee,Aye
+1916,735,Greg Graves,Aye
+1917,736,William C. Lee,Aye
+1918,736,Greg Graves,Aye
+1919,737,Larry A. Ellertson,Aye
+1920,737,William C. Lee,Aye
+1921,737,Greg Graves,Aye
+1922,738,Larry A. Ellertson,Aye
+1923,738,William C. Lee,Aye
+1924,739,Larry A. Ellertson,Aye
+1925,739,William C. Lee,Aye
+1926,740,Larry A. Ellertson,Aye
+1927,740,William C. Lee,Aye
+1928,741,Larry A. Ellertson,Aye
+1929,741,William C. Lee,Aye
+1930,742,Larry A. Ellertson,Aye
+1931,742,William C. Lee,Aye
+1932,743,Larry A. Ellertson,Aye
+1933,743,William C. Lee,Aye
+1934,744,Larry A. Ellertson,Aye
+1935,744,William C. Lee,Aye
+1936,744,Greg Graves,Aye
+1937,745,Larry A. Ellertson,Aye
+1938,745,William C. Lee,Aye
+1939,745,Greg Graves,Aye
+1940,746,Larry A. Ellertson,Aye
+1941,746,William C. Lee,Aye
+1942,746,Greg Graves,Aye
+1943,747,Larry A. Ellertson,Aye
+1944,747,William C. Lee,Aye
+1945,747,Greg Graves,Aye
+1946,748,Larry A. Ellertson,Aye
+1947,748,William C. Lee,Aye
+1948,748,Greg Graves,Aye
+1949,749,Larry A. Ellertson,Aye
+1950,749,William C. Lee,Aye
+1951,749,Greg Graves,Aye
+1952,750,Larry A. Ellertson,Aye
+1953,750,William C. Lee,Aye
+1954,750,Greg Graves,Aye
+1955,751,Larry A. Ellertson,Aye
+1956,751,William C. Lee,Aye
+1957,752,Larry A. Ellertson,Aye
+1958,752,William C. Lee,Aye
+1959,753,Larry A. Ellertson,Aye
+1960,753,Greg Graves,Aye
+1961,754,Larry A. Ellertson,Aye
+1962,754,Greg Graves,Aye
+1963,754,William C. Lee,Aye
+1964,755,Larry A. Ellertson,Aye
+1965,755,Greg Graves,Aye
+1966,755,William C. Lee,Aye
+1967,756,Larry A. Ellertson,Aye
+1968,756,William C. Lee,Aye
+1969,756,Greg Graves,Aye
+1970,757,Larry A. Ellertson,Aye
+1971,757,William C. Lee,Aye
+1972,757,Greg Graves,Aye
+1973,759,Larry A. Ellertson,Aye
+1974,759,William C. Lee,Aye
+1975,759,Greg Graves,Aye
+1976,760,Larry A. Ellertson,Aye
+1977,760,William C. Lee,Aye
+1978,760,Greg Graves,Aye
+1979,761,Larry A. Ellertson,Aye
+1980,761,William C. Lee,Aye
+1981,761,Greg Graves,Aye
+1982,762,Larry A. Ellertson,Aye
+1983,762,William C. Lee,Aye
+1984,762,Greg Graves,Aye
+1985,763,Larry A. Ellertson,Aye
+1986,763,Greg Graves,Aye
+1987,763,William C. Lee,Aye
+1988,764,Larry A. Ellertson,Aye
+1989,764,William C. Lee,Aye
+1990,764,Greg Graves,Aye
+1991,765,Larry A. Ellertson,Aye
+1992,765,Greg Graves,Aye
+1993,765,William C. Lee,Aye
+1994,766,Larry A. Ellertson,Aye
+1995,766,Greg Graves,Aye
+1996,766,William C. Lee,Aye
+1997,767,Larry A. Ellertson,Aye
+1998,767,William C. Lee,Aye
+1999,767,Greg Graves,Aye
+2000,768,Larry A. Ellertson,Aye
+2001,768,Greg Graves,Aye
+2002,768,William C. Lee,Aye
+2003,769,Larry A. Ellertson,Aye
+2004,769,Greg Graves,Aye
+2005,769,William C. Lee,Nay
+2006,770,William C. Lee,Aye
+2007,770,Larry A. Ellertson,Nay
+2008,770,Greg Graves,Nay
+2009,771,Larry A. Ellertson,Aye
+2010,771,Greg Graves,Aye
+2011,771,William C. Lee,Nay
+2012,773,Larry A. Ellertson,Aye
+2013,773,William C. Lee,Aye
+2014,773,Greg Graves,Aye
+2015,775,William C. Lee,Aye
+2016,775,Greg Graves,Aye
+2017,776,William C. Lee,Aye
+2018,776,Greg Graves,Aye
+2019,777,Larry A. Ellertson,Aye
+2020,777,Greg Graves,Aye
+2021,777,William C. Lee,Aye
+2022,778,Larry A. Ellertson,Aye
+2023,778,William C. Lee,Aye
+2024,778,Greg Graves,Aye
+2025,779,Larry A. Ellertson,Aye
+2026,779,Greg Graves,Aye
+2027,779,William C. Lee,Aye
+2028,780,Larry A. Ellertson,Aye
+2029,780,Greg Graves,Aye
+2030,780,William C. Lee,Aye
+2031,781,Larry A. Ellertson,Aye
+2032,781,William C. Lee,Aye
+2033,781,Greg Graves,Aye
+2034,783,Larry A. Ellertson,Aye
+2035,783,William C. Lee,Aye
+2036,783,Greg Graves,Aye
+2037,784,William C. Lee,Aye
+2038,784,Greg Graves,Aye
+2039,784,Larry A. Ellertson,Nay
+2040,785,William C. Lee,Aye
+2041,785,Greg Graves,Aye
+2042,785,Larry A. Ellertson,Nay
+2043,786,Larry A. Ellertson,Aye
+2044,786,William C. Lee,Aye
+2045,786,Greg Graves,Aye
+2046,787,William C. Lee,Aye
+2047,787,Greg Graves,Aye
+2048,787,Nathan Ivie,Aye
+2049,788,William C. Lee,Aye
+2050,788,Greg Graves,Aye
+2051,788,Nathan Ivie,Aye
+2052,790,William C. Lee,Aye
+2053,790,Greg Graves,Aye
+2054,790,Nathan Ivie,Aye
+2055,791,William C. Lee,Aye
+2056,791,Greg Graves,Aye
+2057,791,Nathan Ivie,Aye
+2058,792,William C. Lee,Aye
+2059,792,Greg Graves,Aye
+2060,792,Nathan Ivie,Aye
+2061,793,William C. Lee,Aye
+2062,793,Greg Graves,Aye
+2063,793,Nathan Ivie,Aye
+2064,794,William C. Lee,Aye
+2065,794,Greg Graves,Aye
+2066,794,Nathan Ivie,Aye
+2067,795,William C. Lee,Aye
+2068,795,Greg Graves,Aye
+2069,795,Nathan Ivie,Aye
+2070,796,William C. Lee,Aye
+2071,796,Greg Graves,Aye
+2072,796,Nathan Ivie,Aye
+2073,797,William C. Lee,Aye
+2074,797,Greg Graves,Aye
+2075,797,Nathan Ivie,Aye
+2076,798,William C. Lee,Aye
+2077,798,Greg Graves,Aye
+2078,798,Nathan Ivie,Aye
+2079,799,William C. Lee,Aye
+2080,799,Greg Graves,Aye
+2081,799,Nathan Ivie,Aye
+2082,800,William C. Lee,Aye
+2083,800,Greg Graves,Aye
+2084,800,Nathan Ivie,Aye
+2085,801,William C. Lee,Aye
+2086,801,Greg Graves,Aye
+2087,801,Nathan Ivie,Aye
+2088,802,William C. Lee,Aye
+2089,802,Greg Graves,Aye
+2090,802,Nathan Ivie,Aye
+2091,803,William C. Lee,Aye
+2092,803,Greg Graves,Aye
+2093,803,Nathan Ivie,Aye
+2094,804,William C. Lee,Aye
+2095,804,Greg Graves,Aye
+2096,804,Nathan Ivie,Aye
+2097,805,William C. Lee,Aye
+2098,805,Greg Graves,Aye
+2099,805,Nathan Ivie,Aye
+2100,806,William C. Lee,Aye
+2101,806,Greg Graves,Aye
+2102,806,Nathan Ivie,Aye
+2103,807,William C. Lee,Aye
+2104,807,Greg Graves,Aye
+2105,807,Nathan Ivie,Aye
+2106,809,William C. Lee,Aye
+2107,809,Greg Graves,Aye
+2108,809,Nathan Ivie,Aye
+2109,810,William C. Lee,Aye
+2110,810,Greg Graves,Aye
+2111,810,Nathan Ivie,Aye
+2112,811,William C. Lee,Aye
+2113,811,Greg Graves,Aye
+2114,811,Nathan Ivie,Aye
+2115,812,William C. Lee,Aye
+2116,812,Greg Graves,Aye
+2117,812,Nathan Ivie,Aye
+2118,814,William C. Lee,Aye
+2119,814,Greg Graves,Aye
+2120,814,Nathan Ivie,Aye
+2121,815,William C. Lee,Aye
+2122,815,Greg Graves,Aye
+2123,815,Nathan Ivie,Aye
+2124,816,William C. Lee,Aye
+2125,816,Greg Graves,Aye
+2126,816,Nathan Ivie,Aye
+2127,820,William C. Lee,Aye
+2128,820,Greg Graves,Aye
+2129,820,Nathan Ivie,Aye
+2130,821,William C. Lee,Aye
+2131,821,Greg Graves,Aye
+2132,821,Nathan Ivie,Aye
+2133,823,William C. Lee,Aye
+2134,823,Greg Graves,Aye
+2135,823,Nathan Ivie,Aye
+2136,824,William C. Lee,Aye
+2137,824,Greg Graves,Aye
+2138,824,Nathan Ivie,Aye
+2139,825,William C. Lee,Aye
+2140,825,Greg Graves,Aye
+2141,825,Nathan Ivie,Aye
+2142,827,William C. Lee,Aye
+2143,827,Greg Graves,Aye
+2144,827,Nathan Ivie,Aye
+2145,829,William C. Lee,Aye
+2146,829,Greg Graves,Aye
+2147,829,Nathan Ivie,Aye
+2148,830,William C. Lee,Aye
+2149,830,Greg Graves,Aye
+2150,830,Nathan Ivie,Aye
+2151,831,William C. Lee,Aye
+2152,831,Greg Graves,Aye
+2153,831,Nathan Ivie,Aye
+2154,832,William C. Lee,Aye
+2155,832,Greg Graves,Aye
+2156,832,Nathan Ivie,Aye
+2157,833,Greg Graves,Aye
+2158,833,Nathan Ivie,Aye
+2159,833,William C. Lee,Nay
+2160,834,William C. Lee,Aye
+2161,834,Greg Graves,Aye
+2162,834,Nathan Ivie,Aye
+2163,835,William C. Lee,Aye
+2164,835,Greg Graves,Aye
+2165,835,Nathan Ivie,Aye
+2166,836,William C. Lee,Aye
+2167,836,Greg Graves,Aye
+2168,836,Nathan Ivie,Aye
+2169,837,William C. Lee,Aye
+2170,837,Greg Graves,Aye
+2171,837,Nathan Ivie,Aye
+2172,838,William C. Lee,Aye
+2173,838,Greg Graves,Aye
+2174,838,Nathan Ivie,Aye
+2175,839,William C. Lee,Aye
+2176,839,Greg Graves,Aye
+2177,839,Nathan Ivie,Aye
+2178,840,William C. Lee,Aye
+2179,840,Greg Graves,Aye
+2180,840,Nathan Ivie,Aye
+2181,841,William C. Lee,Aye
+2182,841,Greg Graves,Aye
+2183,841,Nathan Ivie,Aye
+2184,842,William C. Lee,Aye
+2185,842,Greg Graves,Aye
+2186,842,Nathan Ivie,Aye
+2187,843,William C. Lee,Aye
+2188,843,Greg Graves,Aye
+2189,843,Nathan Ivie,Aye
+2190,844,William C. Lee,Aye
+2191,844,Greg Graves,Aye
+2192,844,Nathan Ivie,Aye
+2193,846,William C. Lee,Aye
+2194,846,Greg Graves,Aye
+2195,846,Nathan Ivie,Aye
+2196,847,William C. Lee,Aye
+2197,847,Greg Graves,Aye
+2198,847,Nathan Ivie,Aye
+2199,848,William C. Lee,Aye
+2200,848,Greg Graves,Aye
+2201,848,Nathan Ivie,Aye
+2202,849,William C. Lee,Aye
+2203,849,Greg Graves,Aye
+2204,849,Nathan Ivie,Aye
+2205,850,William C. Lee,Aye
+2206,850,Greg Graves,Aye
+2207,850,Nathan Ivie,Aye
+2208,851,William C. Lee,Aye
+2209,851,Greg Graves,Aye
+2210,851,Nathan Ivie,Aye
+2211,852,William C. Lee,Aye
+2212,852,Greg Graves,Aye
+2213,852,Nathan Ivie,Aye
+2214,854,William C. Lee,Aye
+2215,854,Greg Graves,Aye
+2216,854,Nathan Ivie,Aye
+2217,855,William C. Lee,Aye
+2218,855,Greg Graves,Aye
+2219,855,Nathan Ivie,Aye
+2220,856,William C. Lee,Aye
+2221,856,Greg Graves,Aye
+2222,856,Nathan Ivie,Aye
+2223,857,William C. Lee,Aye
+2224,857,Greg Graves,Aye
+2225,857,Nathan Ivie,Aye
+2226,858,William C. Lee,Aye
+2227,858,Greg Graves,Aye
+2228,858,Nathan Ivie,Aye
+2229,859,William C. Lee,Aye
+2230,859,Greg Graves,Aye
+2231,859,Nathan Ivie,Aye
+2232,860,William C. Lee,Aye
+2233,860,Greg Graves,Aye
+2234,860,Nathan Ivie,Aye
+2235,861,William C. Lee,Aye
+2236,861,Greg Graves,Aye
+2237,861,Nathan Ivie,Aye
+2238,862,William C. Lee,Aye
+2239,862,Greg Graves,Aye
+2240,862,Nathan Ivie,Aye
+2241,863,Greg Graves,Aye
+2242,863,Nathan Ivie,Aye
+2243,863,William C. Lee,Nay
+2244,864,William C. Lee,Aye
+2245,864,Greg Graves,Aye
+2246,864,Nathan Ivie,Aye
+2247,865,William C. Lee,Aye
+2248,865,Greg Graves,Aye
+2249,865,Nathan Ivie,Aye
+2250,866,William C. Lee,Aye
+2251,866,Greg Graves,Aye
+2252,866,Nathan Ivie,Aye
+2253,867,William C. Lee,Aye
+2254,867,Greg Graves,Aye
+2255,867,Nathan Ivie,Aye
+2256,869,William C. Lee,Aye
+2257,869,Greg Graves,Aye
+2258,869,Nathan Ivie,Aye
+2259,870,William C. Lee,Aye
+2260,870,Greg Graves,Aye
+2261,870,Nathan Ivie,Aye
+2262,871,William C. Lee,Aye
+2263,871,Greg Graves,Aye
+2264,871,Nathan Ivie,Aye
+2265,872,William C. Lee,Aye
+2266,872,Greg Graves,Aye
+2267,872,Nathan Ivie,Aye
+2268,873,William C. Lee,Aye
+2269,873,Greg Graves,Aye
+2270,873,Nathan Ivie,Aye
+2271,874,William C. Lee,Aye
+2272,874,Greg Graves,Aye
+2273,874,Nathan Ivie,Aye
+2274,875,William C. Lee,Aye
+2275,875,Greg Graves,Aye
+2276,875,Nathan Ivie,Aye
+2277,876,William C. Lee,Aye
+2278,876,Greg Graves,Aye
+2279,876,Nathan Ivie,Aye
+2280,877,William C. Lee,Aye
+2281,877,Greg Graves,Aye
+2282,877,Nathan Ivie,Aye
+2283,878,William C. Lee,Aye
+2284,878,Greg Graves,Aye
+2285,878,Nathan Ivie,Aye
+2286,879,William C. Lee,Aye
+2287,879,Nathan Ivie,Aye
+2288,882,William C. Lee,Aye
+2289,882,Greg Graves,Aye
+2290,882,Nathan Ivie,Aye
+2291,884,William C. Lee,Aye
+2292,884,Greg Graves,Aye
+2293,884,Nathan Ivie,Aye
+2294,885,William C. Lee,Aye
+2295,885,Greg Graves,Aye
+2296,885,Nathan Ivie,Aye
+2297,886,William C. Lee,Aye
+2298,886,Greg Graves,Aye
+2299,886,Nathan Ivie,Aye
+2300,887,William C. Lee,Aye
+2301,887,Greg Graves,Aye
+2302,887,Nathan Ivie,Aye
+2303,889,William C. Lee,Aye
+2304,889,Greg Graves,Aye
+2305,889,Nathan Ivie,Aye
+2306,890,William C. Lee,Aye
+2307,890,Greg Graves,Aye
+2308,890,Nathan Ivie,Aye
+2309,891,William C. Lee,Aye
+2310,891,Greg Graves,Aye
+2311,891,Nathan Ivie,Aye
+2312,892,William C. Lee,Aye
+2313,892,Greg Graves,Aye
+2314,892,Nathan Ivie,Aye
+2315,893,William C. Lee,Aye
+2316,893,Greg Graves,Aye
+2317,893,Nathan Ivie,Aye
+2318,894,William C. Lee,Aye
+2319,894,Greg Graves,Aye
+2320,894,Nathan Ivie,Aye
+2321,895,William C. Lee,Aye
+2322,895,Nathan Ivie,Aye
+2323,896,William C. Lee,Aye
+2324,896,Nathan Ivie,Aye
+2325,897,William C. Lee,Aye
+2326,897,Greg Graves,Aye
+2327,897,Nathan Ivie,Aye
+2328,898,William C. Lee,Aye
+2329,898,Greg Graves,Aye
+2330,898,Nathan Ivie,Aye
+2331,899,William C. Lee,Aye
+2332,899,Greg Graves,Aye
+2333,899,Nathan Ivie,Aye
+2334,900,William C. Lee,Aye
+2335,900,Greg Graves,Aye
+2336,900,Nathan Ivie,Aye
+2337,901,William C. Lee,Aye
+2338,901,Greg Graves,Aye
+2339,901,Nathan Ivie,Aye
+2340,902,William C. Lee,Aye
+2341,902,Greg Graves,Aye
+2342,902,Nathan Ivie,Aye
+2343,903,William C. Lee,Aye
+2344,903,Greg Graves,Aye
+2345,903,Nathan Ivie,Aye
+2346,905,Greg Graves,Aye
+2347,905,Nathan Ivie,Aye
+2348,905,William C. Lee,Nay
+2349,906,William C. Lee,Aye
+2350,906,Greg Graves,Aye
+2351,906,Nathan Ivie,Aye
+2352,907,William C. Lee,Aye
+2353,907,Greg Graves,Aye
+2354,907,Nathan Ivie,Aye
+2355,908,William C. Lee,Aye
+2356,908,Greg Graves,Aye
+2357,908,Nathan Ivie,Aye
+2358,909,William C. Lee,Aye
+2359,909,Greg Graves,Aye
+2360,909,Nathan Ivie,Aye
+2361,910,William C. Lee,Aye
+2362,910,Greg Graves,Aye
+2363,910,Nathan Ivie,Aye
+2364,911,William C. Lee,Aye
+2365,911,Greg Graves,Aye
+2366,911,Nathan Ivie,Aye
+2367,912,William C. Lee,Aye
+2368,912,Greg Graves,Aye
+2369,912,Nathan Ivie,Aye
+2370,913,William C. Lee,Aye
+2371,913,Greg Graves,Aye
+2372,913,Nathan Ivie,Aye
+2373,914,William C. Lee,Aye
+2374,914,Greg Graves,Aye
+2375,914,Nathan Ivie,Aye
+2376,915,William C. Lee,Aye
+2377,915,Greg Graves,Aye
+2378,915,Nathan Ivie,Aye
+2379,916,William C. Lee,Aye
+2380,916,Greg Graves,Aye
+2381,916,Nathan Ivie,Aye
+2382,917,William C. Lee,Aye
+2383,917,Greg Graves,Aye
+2384,917,Nathan Ivie,Aye
+2385,918,William C. Lee,Aye
+2386,918,Greg Graves,Aye
+2387,918,Nathan Ivie,Aye
+2388,919,William C. Lee,Aye
+2389,919,Greg Graves,Aye
+2390,919,Nathan Ivie,Aye
+2391,920,William C. Lee,Aye
+2392,920,Greg Graves,Aye
+2393,920,Nathan Ivie,Aye
+2394,921,William C. Lee,Aye
+2395,921,Greg Graves,Aye
+2396,921,Nathan Ivie,Aye
+2397,922,William C. Lee,Aye
+2398,922,Greg Graves,Aye
+2399,922,Nathan Ivie,Aye
+2400,923,William C. Lee,Aye
+2401,923,Greg Graves,Aye
+2402,923,Nathan Ivie,Aye
+2403,924,William C. Lee,Aye
+2404,924,Greg Graves,Aye
+2405,924,Nathan Ivie,Aye
+2406,925,William C. Lee,Aye
+2407,925,Greg Graves,Aye
+2408,925,Nathan Ivie,Aye
+2409,926,William C. Lee,Aye
+2410,926,Greg Graves,Aye
+2411,926,Nathan Ivie,Aye
+2412,927,William C. Lee,Aye
+2413,927,Greg Graves,Aye
+2414,927,Nathan Ivie,Aye
+2415,928,William C. Lee,Aye
+2416,928,Greg Graves,Aye
+2417,928,Nathan Ivie,Aye
+2418,929,William C. Lee,Aye
+2419,929,Greg Graves,Aye
+2420,929,Nathan Ivie,Aye
+2421,930,William C. Lee,Aye
+2422,930,Greg Graves,Aye
+2423,930,Nathan Ivie,Aye
+2424,932,William C. Lee,Aye
+2425,932,Greg Graves,Aye
+2426,932,Nathan Ivie,Aye
+2427,933,William C. Lee,Aye
+2428,933,Greg Graves,Aye
+2429,933,Nathan Ivie,Aye
+2430,934,William C. Lee,Aye
+2431,934,Greg Graves,Aye
+2432,934,Nathan Ivie,Aye
+2433,935,William C. Lee,Aye
+2434,935,Greg Graves,Aye
+2435,935,Nathan Ivie,Aye
+2436,936,William C. Lee,Aye
+2437,936,Greg Graves,Aye
+2438,936,Nathan Ivie,Aye
+2439,937,William C. Lee,Aye
+2440,937,Greg Graves,Aye
+2441,937,Nathan Ivie,Aye
+2442,938,William C. Lee,Aye
+2443,938,Greg Graves,Aye
+2444,938,Nathan Ivie,Aye
+2445,939,William C. Lee,Aye
+2446,939,Greg Graves,Aye
+2447,939,Nathan Ivie,Aye
+2448,940,William C. Lee,Aye
+2449,940,Greg Graves,Aye
+2450,941,William C. Lee,Aye
+2451,941,Greg Graves,Aye
+2452,941,Nathan Ivie,Aye
+2453,942,William C. Lee,Aye
+2454,942,Greg Graves,Aye
+2455,942,Nathan Ivie,Aye
+2456,943,William C. Lee,Aye
+2457,943,Greg Graves,Aye
+2458,943,Nathan Ivie,Aye
+2459,944,William C. Lee,Aye
+2460,944,Greg Graves,Aye
+2461,944,Nathan Ivie,Aye
+2462,945,William C. Lee,Aye
+2463,945,Greg Graves,Aye
+2464,945,Nathan Ivie,Aye
+2465,946,William C. Lee,Aye
+2466,946,Greg Graves,Aye
+2467,946,Nathan Ivie,Aye
+2468,947,William C. Lee,Aye
+2469,947,Greg Graves,Aye
+2470,947,Nathan Ivie,Aye
+2471,948,William C. Lee,Aye
+2472,948,Greg Graves,Aye
+2473,948,Nathan Ivie,Aye
+2474,949,William C. Lee,Aye
+2475,949,Greg Graves,Aye
+2476,949,Nathan Ivie,Aye
+2477,950,William C. Lee,Aye
+2478,950,Greg Graves,Aye
+2479,950,Nathan Ivie,Aye
+2480,951,William C. Lee,Aye
+2481,951,Greg Graves,Aye
+2482,951,Nathan Ivie,Aye
+2483,952,William C. Lee,Aye
+2484,952,Greg Graves,Aye
+2485,952,Nathan Ivie,Aye
+2486,953,William C. Lee,Aye
+2487,953,Greg Graves,Aye
+2488,953,Nathan Ivie,Aye
+2489,954,William C. Lee,Aye
+2490,954,Greg Graves,Aye
+2491,954,Nathan Ivie,Aye
+2492,955,William C. Lee,Aye
+2493,955,Greg Graves,Aye
+2494,955,Nathan Ivie,Aye
+2495,957,William C. Lee,Aye
+2496,957,Greg Graves,Aye
+2497,957,Nathan Ivie,Aye
+2498,958,William C. Lee,Aye
+2499,958,Greg Graves,Aye
+2500,958,Nathan Ivie,Aye
+2501,959,William C. Lee,Aye
+2502,959,Greg Graves,Aye
+2503,959,Nathan Ivie,Aye
+2504,961,William C. Lee,Aye
+2505,961,Greg Graves,Aye
+2506,961,Nathan Ivie,Aye
+2507,962,William C. Lee,Aye
+2508,962,Greg Graves,Aye
+2509,962,Nathan Ivie,Aye
+2510,965,William C. Lee,Aye
+2511,965,Greg Graves,Aye
+2512,965,Nathan Ivie,Aye
+2513,966,William C. Lee,Aye
+2514,966,Greg Graves,Aye
+2515,966,Nathan Ivie,Aye
+2516,967,William C. Lee,Aye
+2517,967,Greg Graves,Aye
+2518,967,Nathan Ivie,Aye
+2519,968,William C. Lee,Aye
+2520,968,Greg Graves,Aye
+2521,968,Nathan Ivie,Aye
+2522,969,William C. Lee,Aye
+2523,969,Greg Graves,Aye
+2524,969,Nathan Ivie,Aye
+2525,970,William C. Lee,Aye
+2526,970,Greg Graves,Aye
+2527,970,Nathan Ivie,Aye
+2528,971,William C. Lee,Aye
+2529,971,Greg Graves,Aye
+2530,971,Nathan Ivie,Aye
+2531,972,William C. Lee,Aye
+2532,972,Greg Graves,Aye
+2533,972,Nathan Ivie,Aye
+2534,973,William C. Lee,Aye
+2535,973,Greg Graves,Aye
+2536,973,Nathan Ivie,Aye
+2537,974,William C. Lee,Aye
+2538,974,Greg Graves,Aye
+2539,974,Nathan Ivie,Aye
+2540,975,William C. Lee,Aye
+2541,975,Greg Graves,Aye
+2542,975,Nathan Ivie,Aye
+2543,976,William C. Lee,Aye
+2544,976,Greg Graves,Aye
+2545,976,Nathan Ivie,Aye
+2546,977,William C. Lee,Aye
+2547,977,Greg Graves,Aye
+2548,977,Nathan Ivie,Aye
+2549,978,William C. Lee,Aye
+2550,978,Greg Graves,Aye
+2551,978,Nathan Ivie,Aye
+2552,979,William C. Lee,Aye
+2553,979,Greg Graves,Aye
+2554,979,Nathan Ivie,Aye
+2555,980,William C. Lee,Aye
+2556,980,Greg Graves,Aye
+2557,980,Nathan Ivie,Aye
+2558,981,William C. Lee,Aye
+2559,981,Greg Graves,Aye
+2560,981,Nathan Ivie,Aye
+2561,982,William C. Lee,Aye
+2562,982,Greg Graves,Aye
+2563,982,Nathan Ivie,Aye
+2564,983,William C. Lee,Aye
+2565,983,Greg Graves,Aye
+2566,983,Nathan Ivie,Aye
+2567,984,William C. Lee,Aye
+2568,984,Greg Graves,Aye
+2569,984,Nathan Ivie,Aye
+2570,985,William C. Lee,Aye
+2571,985,Greg Graves,Aye
+2572,985,Nathan Ivie,Aye
+2573,986,William C. Lee,Aye
+2574,986,Greg Graves,Aye
+2575,986,Nathan Ivie,Aye
+2576,987,William C. Lee,Aye
+2577,987,Greg Graves,Aye
+2578,987,Nathan Ivie,Aye
+2579,988,William C. Lee,Aye
+2580,988,Greg Graves,Aye
+2581,988,Nathan Ivie,Aye
+2582,989,William C. Lee,Aye
+2583,989,Greg Graves,Aye
+2584,989,Nathan Ivie,Aye
+2585,990,William C. Lee,Aye
+2586,990,Greg Graves,Aye
+2587,990,Nathan Ivie,Aye
+2588,991,William C. Lee,Aye
+2589,991,Greg Graves,Aye
+2590,991,Nathan Ivie,Aye
+2591,992,William C. Lee,Aye
+2592,992,Greg Graves,Aye
+2593,992,Nathan Ivie,Aye
+2594,993,William C. Lee,Aye
+2595,993,Nathan Ivie,Aye
+2596,994,William C. Lee,Aye
+2597,994,Nathan Ivie,Aye
+2598,995,William C. Lee,Aye
+2599,995,Nathan Ivie,Aye
+2600,996,William C. Lee,Aye
+2601,996,Nathan Ivie,Aye
+2602,997,William C. Lee,Aye
+2603,997,Nathan Ivie,Aye
+2604,998,William C. Lee,Aye
+2605,998,Nathan Ivie,Aye
+2606,999,William C. Lee,Aye
+2607,999,Nathan Ivie,Aye
+2608,1000,William C. Lee,Aye
+2609,1000,Greg Graves,Aye
+2610,1000,Nathan Ivie,Aye
+2611,1001,William C. Lee,Aye
+2612,1001,Greg Graves,Aye
+2613,1001,Nathan Ivie,Aye
+2614,1002,William C. Lee,Aye
+2615,1002,Greg Graves,Aye
+2616,1002,Nathan Ivie,Aye
+2617,1003,William C. Lee,Aye
+2618,1003,Greg Graves,Aye
+2619,1003,Nathan Ivie,Aye
+2620,1004,William C. Lee,Aye
+2621,1004,Greg Graves,Aye
+2622,1004,Nathan Ivie,Aye
+2623,1005,William C. Lee,Aye
+2624,1005,Nathan Ivie,Aye
+2625,1006,William C. Lee,Aye
+2626,1006,Greg Graves,Aye
+2627,1006,Nathan Ivie,Aye
+2628,1007,William C. Lee,Aye
+2629,1007,Greg Graves,Aye
+2630,1007,Nathan Ivie,Aye
+2631,1008,William C. Lee,Aye
+2632,1008,Greg Graves,Aye
+2633,1008,Nathan Ivie,Aye
+2634,1009,Nathan Ivie,Aye
+2635,1010,William C. Lee,Aye
+2636,1010,Nathan Ivie,Aye
+2637,1010,Greg Graves,Nay
+2638,1011,William C. Lee,Aye
+2639,1011,Nathan Ivie,Aye
+2640,1012,William C. Lee,Aye
+2641,1012,Nathan Ivie,Aye
+2642,1013,William C. Lee,Aye
+2643,1013,Nathan Ivie,Aye
+2644,1014,William C. Lee,Aye
+2645,1014,Nathan Ivie,Aye
+2646,1015,William C. Lee,Aye
+2647,1015,Nathan Ivie,Aye
+2648,1017,William C. Lee,Aye
+2649,1017,Nathan Ivie,Aye
+2650,1018,William C. Lee,Aye
+2651,1018,Greg Graves,Aye
+2652,1018,Nathan Ivie,Aye
+2653,1019,William C. Lee,Aye
+2654,1019,Greg Graves,Aye
+2655,1019,Nathan Ivie,Aye
+2656,1020,William C. Lee,Aye
+2657,1020,Greg Graves,Aye
+2658,1020,Nathan Ivie,Aye
+2659,1021,William C. Lee,Aye
+2660,1021,Greg Graves,Aye
+2661,1021,Nathan Ivie,Aye
+2662,1022,William C. Lee,Aye
+2663,1022,Greg Graves,Aye
+2664,1022,Nathan Ivie,Aye
+2665,1023,William C. Lee,Aye
+2666,1023,Greg Graves,Aye
+2667,1023,Nathan Ivie,Aye
+2668,1024,William C. Lee,Aye
+2669,1024,Greg Graves,Aye
+2670,1025,Greg Graves,Aye
+2671,1025,Nathan Ivie,Aye
+2672,1026,Greg Graves,Aye
+2673,1026,Nathan Ivie,Aye
+2674,1027,William C. Lee,Aye
+2675,1027,Greg Graves,Aye
+2676,1027,Nathan Ivie,Aye
+2677,1028,William C. Lee,Aye
+2678,1028,Greg Graves,Aye
+2679,1028,Nathan Ivie,Aye
+2680,1029,William C. Lee,Aye
+2681,1029,Greg Graves,Aye
+2682,1029,Nathan Ivie,Aye
+2683,1030,William C. Lee,Aye
+2684,1030,Greg Graves,Aye
+2685,1030,Nathan Ivie,Aye
+2686,1031,William C. Lee,Aye
+2687,1031,Greg Graves,Aye
+2688,1031,Nathan Ivie,Aye
+2689,1033,William C. Lee,Aye
+2690,1033,Greg Graves,Aye
+2691,1033,Nathan Ivie,Aye
+2692,1034,William C. Lee,Aye
+2693,1034,Greg Graves,Aye
+2694,1034,Nathan Ivie,Aye
+2695,1035,William C. Lee,Aye
+2696,1035,Greg Graves,Aye
+2697,1035,Nathan Ivie,Aye
+2698,1036,William C. Lee,Aye
+2699,1036,Greg Graves,Aye
+2700,1036,Nathan Ivie,Aye
+2701,1037,William C. Lee,Aye
+2702,1037,Greg Graves,Aye
+2703,1038,William C. Lee,Aye
+2704,1038,Greg Graves,Aye
+2705,1039,William C. Lee,Aye
+2706,1039,Greg Graves,Aye
+2707,1040,William C. Lee,Aye
+2708,1040,Greg Graves,Aye
+2709,1040,Nathan Ivie,Aye
+2710,1041,William C. Lee,Aye
+2711,1041,Greg Graves,Aye
+2712,1041,Nathan Ivie,Aye
+2713,1042,William C. Lee,Aye
+2714,1042,Greg Graves,Aye
+2715,1042,Nathan Ivie,Aye
+2716,1043,William C. Lee,Aye
+2717,1043,Greg Graves,Aye
+2718,1043,Nathan Ivie,Aye
+2719,1044,William C. Lee,Aye
+2720,1044,Greg Graves,Aye
+2721,1044,Nathan Ivie,Aye
+2722,1046,William C. Lee,Aye
+2723,1046,Greg Graves,Aye
+2724,1046,Nathan Ivie,Aye
+2725,1048,William C. Lee,Aye
+2726,1048,Greg Graves,Aye
+2727,1048,Nathan Ivie,Aye
+2728,1049,William C. Lee,Aye
+2729,1049,Greg Graves,Aye
+2730,1049,Nathan Ivie,Aye
+2731,1050,William C. Lee,Aye
+2732,1050,Greg Graves,Aye
+2733,1050,Nathan Ivie,Aye
+2734,1051,William C. Lee,Aye
+2735,1051,Greg Graves,Aye
+2736,1051,Nathan Ivie,Aye
+2737,1052,William C. Lee,Aye
+2738,1052,Greg Graves,Aye
+2739,1052,Nathan Ivie,Aye
+2740,1053,William C. Lee,Aye
+2741,1053,Greg Graves,Aye
+2742,1053,Nathan Ivie,Aye
+2743,1054,William C. Lee,Aye
+2744,1054,Greg Graves,Aye
+2745,1055,William C. Lee,Aye
+2746,1055,Greg Graves,Aye
+2747,1056,William C. Lee,Aye
+2748,1056,Greg Graves,Aye
+2749,1057,William C. Lee,Aye
+2750,1057,Greg Graves,Aye
+2751,1059,William C. Lee,Aye
+2752,1059,Greg Graves,Aye
+2753,1059,Nathan Ivie,Aye
+2754,1060,William C. Lee,Aye
+2755,1060,Greg Graves,Aye
+2756,1060,Nathan Ivie,Aye
+2757,1061,William C. Lee,Aye
+2758,1061,Greg Graves,Aye
+2759,1061,Nathan Ivie,Aye
+2760,1062,William C. Lee,Aye
+2761,1062,Greg Graves,Aye
+2762,1062,Nathan Ivie,Aye
+2763,1063,William C. Lee,Aye
+2764,1063,Greg Graves,Aye
+2765,1063,Nathan Ivie,Aye
+2766,1064,William C. Lee,Aye
+2767,1064,Greg Graves,Aye
+2768,1064,Nathan Ivie,Aye
+2769,1066,William C. Lee,Aye
+2770,1066,Greg Graves,Aye
+2771,1066,Nathan Ivie,Aye
+2772,1067,William C. Lee,Aye
+2773,1067,Greg Graves,Aye
+2774,1067,Nathan Ivie,Aye
+2775,1068,William C. Lee,Aye
+2776,1068,Greg Graves,Aye
+2777,1068,Nathan Ivie,Aye
+2778,1069,William C. Lee,Aye
+2779,1069,Greg Graves,Aye
+2780,1069,Nathan Ivie,Aye
+2781,1070,William C. Lee,Aye
+2782,1070,Greg Graves,Aye
+2783,1070,Nathan Ivie,Aye
+2784,1071,William C. Lee,Aye
+2785,1071,Greg Graves,Aye
+2786,1071,Nathan Ivie,Aye
+2787,1072,William C. Lee,Aye
+2788,1072,Greg Graves,Aye
+2789,1072,Nathan Ivie,Aye
+2790,1073,William C. Lee,Aye
+2791,1073,Greg Graves,Aye
+2792,1073,Nathan Ivie,Aye
+2793,1074,William C. Lee,Aye
+2794,1074,Greg Graves,Aye
+2795,1074,Nathan Ivie,Aye
+2796,1075,William C. Lee,Aye
+2797,1075,Greg Graves,Aye
+2798,1075,Nathan Ivie,Aye
+2799,1076,William C. Lee,Aye
+2800,1076,Greg Graves,Aye
+2801,1076,Nathan Ivie,Aye
+2802,1077,William C. Lee,Aye
+2803,1077,Greg Graves,Aye
+2804,1077,Nathan Ivie,Aye
+2805,1078,William C. Lee,Aye
+2806,1078,Greg Graves,Aye
+2807,1078,Nathan Ivie,Aye
+2808,1080,William C. Lee,Aye
+2809,1080,Greg Graves,Aye
+2810,1080,Nathan Ivie,Aye
+2811,1081,William C. Lee,Aye
+2812,1081,Greg Graves,Aye
+2813,1081,Nathan Ivie,Aye
+2814,1082,William C. Lee,Aye
+2815,1082,Greg Graves,Aye
+2816,1082,Nathan Ivie,Aye
+2817,1083,William C. Lee,Aye
+2818,1083,Greg Graves,Aye
+2819,1083,Nathan Ivie,Aye
+2820,1084,William C. Lee,Aye
+2821,1084,Greg Graves,Aye
+2822,1084,Nathan Ivie,Aye
+2823,1085,William C. Lee,Aye
+2824,1085,Greg Graves,Aye
+2825,1085,Nathan Ivie,Aye
+2826,1086,William C. Lee,Aye
+2827,1086,Greg Graves,Aye
+2828,1086,Nathan Ivie,Aye
+2829,1088,William C. Lee,Aye
+2830,1088,Greg Graves,Aye
+2831,1088,Nathan Ivie,Aye
+2832,1089,William C. Lee,Aye
+2833,1089,Greg Graves,Aye
+2834,1089,Nathan Ivie,Aye
+2835,1090,William C. Lee,Aye
+2836,1090,Greg Graves,Aye
+2837,1090,Nathan Ivie,Aye
+2838,1091,William C. Lee,Aye
+2839,1091,Greg Graves,Aye
+2840,1091,Nathan Ivie,Aye
+2841,1092,William C. Lee,Aye
+2842,1092,Nathan Ivie,Aye
+2843,1093,William C. Lee,Aye
+2844,1093,Greg Graves,Aye
+2845,1093,Nathan Ivie,Aye
+2846,1094,William C. Lee,Aye
+2847,1094,Greg Graves,Aye
+2848,1094,Nathan Ivie,Aye
+2849,1096,William C. Lee,Aye
+2850,1096,Greg Graves,Aye
+2851,1096,Nathan Ivie,Aye
+2852,1098,William C. Lee,Aye
+2853,1098,Greg Graves,Aye
+2854,1098,Nathan Ivie,Aye
+2855,1099,Bill Lee,Aye
+2856,1099,Greg Graves,Aye
+2857,1099,Nathan Ivie,Aye
+2858,1100,Bill Lee,Aye
+2859,1100,Greg Graves,Aye
+2860,1100,Nathan Ivie,Aye
+2861,1101,Bill Lee,Aye
+2862,1101,Greg Graves,Aye
+2863,1101,Nathan Ivie,Aye
+2864,1102,Bill Lee,Aye
+2865,1102,Greg Graves,Aye
+2866,1102,Nathan Ivie,Nay
+2867,1103,Bill Lee,Aye
+2868,1103,Greg Graves,Aye
+2869,1103,Nathan Ivie,Aye
+2870,1104,Bill Lee,Aye
+2871,1104,Nathan Ivie,Aye
+2872,1105,Bill Lee,Aye
+2873,1105,Nathan Ivie,Aye
+2874,1106,Bill Lee,Aye
+2875,1106,Nathan Ivie,Aye
+2876,1107,Bill Lee,Aye
+2877,1107,Nathan Ivie,Aye
+2878,1108,Bill Lee,Aye
+2879,1108,Nathan Ivie,Aye
+2880,1109,William C. Lee,Aye
+2881,1109,Greg Graves,Aye
+2882,1109,Nathan Ivie,Aye
+2883,1110,William C. Lee,Aye
+2884,1110,Greg Graves,Aye
+2885,1110,Nathan Ivie,Aye
+2886,1111,William C. Lee,Aye
+2887,1111,Greg Graves,Aye
+2888,1111,Nathan Ivie,Aye
+2889,1113,William C. Lee,Aye
+2890,1113,Greg Graves,Aye
+2891,1113,Nathan Ivie,Aye
+2892,1114,William C. Lee,Aye
+2893,1114,Nathan Ivie,Aye
+2894,1114,Greg Graves,Nay
+2895,1115,William C. Lee,Aye
+2896,1115,Greg Graves,Aye
+2897,1115,Nathan Ivie,Aye
+2898,1116,William C. Lee,Aye
+2899,1116,Greg Graves,Aye
+2900,1116,Nathan Ivie,Aye
+2901,1117,William C. Lee,Aye
+2902,1117,Nathan Ivie,Aye
+2903,1118,William C. Lee,Aye
+2904,1118,Greg Graves,Aye
+2905,1118,Nathan Ivie,Aye
+2906,1119,William C. Lee,Aye
+2907,1119,Nathan Ivie,Aye
+2908,1120,William C. Lee,Aye
+2909,1120,Nathan Ivie,Aye
+2910,1121,William C. Lee,Aye
+2911,1121,Nathan Ivie,Aye
+2912,1122,William C. Lee,Aye
+2913,1122,Nathan Ivie,Aye
+2914,1123,William C. Lee,Aye
+2915,1123,Greg Graves,Aye
+2916,1123,Nathan Ivie,Aye
+2917,1124,William C. Lee,Aye
+2918,1124,Greg Graves,Aye
+2919,1124,Nathan Ivie,Aye
+2920,1125,William C. Lee,Aye
+2921,1125,Greg Graves,Aye
+2922,1125,Nathan Ivie,Aye
+2923,1126,William C. Lee,Aye
+2924,1126,Greg Graves,Aye
+2925,1126,Nathan Ivie,Aye
+2926,1127,William C. Lee,Aye
+2927,1127,Greg Graves,Aye
+2928,1127,Nathan Ivie,Aye
+2929,1128,William C. Lee,Aye
+2930,1128,Greg Graves,Aye
+2931,1128,Nathan Ivie,Aye
+2932,1129,William C. Lee,Aye
+2933,1129,Greg Graves,Aye
+2934,1129,Nathan Ivie,Aye
+2935,1130,William C. Lee,Aye
+2936,1130,Greg Graves,Aye
+2937,1130,Nathan Ivie,Aye
+2938,1132,William C. Lee,Aye
+2939,1132,Nathan Ivie,Aye
+2940,1133,William C. Lee,Aye
+2941,1133,Nathan Ivie,Aye
+2942,1134,William C. Lee,Aye
+2943,1134,Nathan Ivie,Aye
+2944,1135,William C. Lee,Aye
+2945,1135,Nathan Ivie,Aye
+2946,1136,William C. Lee,Aye
+2947,1136,Nathan Ivie,Aye
+2948,1137,William C. Lee,Aye
+2949,1137,Nathan Ivie,Aye
+2950,1139,William C. Lee,Aye
+2951,1139,Nathan Ivie,Aye
+2952,1140,William C. Lee,Aye
+2953,1140,Nathan Ivie,Aye
+2954,1141,William C. Lee,Aye
+2955,1141,Greg Graves,Aye
+2956,1141,Nathan Ivie,Aye
+2957,1142,William C. Lee,Aye
+2958,1142,Greg Graves,Aye
+2959,1142,Nathan Ivie,Aye
+2960,1143,William C. Lee,Aye
+2961,1143,Greg Graves,Aye
+2962,1143,Nathan Ivie,Aye
+2963,1145,William C. Lee,Aye
+2964,1145,Greg Graves,Aye
+2965,1145,Nathan Ivie,Aye
+2966,1146,William C. Lee,Aye
+2967,1146,Greg Graves,Aye
+2968,1146,Nathan Ivie,Aye
+2969,1147,Nathan Ivie,Aye
+2970,1147,William C. Lee,Aye
+2971,1148,Nathan Ivie,Aye
+2972,1148,William C. Lee,Aye
+2973,1149,Nathan Ivie,Aye
+2974,1149,William C. Lee,Aye
+2975,1150,Nathan Ivie,Aye
+2976,1150,William C. Lee,Aye
+2977,1151,Nathan Ivie,Aye
+2978,1151,William C. Lee,Aye
+2979,1152,Nathan Ivie,Aye
+2980,1152,William C. Lee,Aye
+2981,1153,Nathan Ivie,Aye
+2982,1153,William C. Lee,Aye
+2983,1154,Nathan Ivie,Aye
+2984,1154,William C. Lee,Aye
+2985,1155,Nathan Ivie,Aye
+2986,1155,William C. Lee,Aye
+2987,1156,Nathan Ivie,Aye
+2988,1156,William C. Lee,Aye
+2989,1156,Greg Graves,Aye
+2990,1157,Nathan Ivie,Aye
+2991,1157,William C. Lee,Aye
+2992,1157,Greg Graves,Aye
+2993,1158,Nathan Ivie,Aye
+2994,1158,William C. Lee,Aye
+2995,1158,Greg Graves,Aye
+2996,1159,Nathan Ivie,Aye
+2997,1159,Greg Graves,Aye
+2998,1159,William C. Lee,Nay
+2999,1160,Nathan Ivie,Aye
+3000,1160,William C. Lee,Aye
+3001,1160,Greg Graves,Aye
+3002,1161,Nathan Ivie,Aye
+3003,1161,William C. Lee,Aye
+3004,1161,Greg Graves,Aye
+3005,1162,Nathan Ivie,Aye
+3006,1162,William C. Lee,Aye
+3007,1162,Greg Graves,Aye
+3008,1163,Nathan Ivie,Aye
+3009,1163,William C. Lee,Aye
+3010,1163,Greg Graves,Aye
+3011,1164,Nathan Ivie,Aye
+3012,1164,William C. Lee,Aye
+3013,1164,Greg Graves,Aye
+3014,1165,Nathan Ivie,Aye
+3015,1165,William C. Lee,Aye
+3016,1165,Greg Graves,Aye
+3017,1166,Nathan Ivie,Aye
+3018,1166,William C. Lee,Aye
+3019,1166,Greg Graves,Aye
+3020,1167,Nathan Ivie,Aye
+3021,1167,William C. Lee,Aye
+3022,1167,Greg Graves,Aye
+3023,1168,William C. Lee,Aye
+3024,1168,Greg Graves,Aye
+3025,1168,Nathan Ivie,Aye
+3026,1169,Nathan Ivie,Aye
+3027,1169,William C. Lee,Aye
+3028,1169,Greg Graves,Aye
+3029,1170,Nathan Ivie,Aye
+3030,1170,William C. Lee,Aye
+3031,1170,Greg Graves,Aye
+3032,1171,Nathan Ivie,Aye
+3033,1171,William C. Lee,Aye
+3034,1171,Greg Graves,Aye
+3035,1172,Nathan Ivie,Aye
+3036,1172,William C. Lee,Aye
+3037,1172,Greg Graves,Aye
+3038,1173,Nathan Ivie,Aye
+3039,1173,William C. Lee,Aye
+3040,1173,Greg Graves,Aye
+3041,1175,Nathan Ivie,Aye
+3042,1175,William C. Lee,Aye
+3043,1175,Greg Graves,Aye
+3044,1176,Nathan Ivie,Aye
+3045,1176,William C. Lee,Aye
+3046,1176,Greg Graves,Aye
+3047,1177,Nathan Ivie,Aye
+3048,1177,William C. Lee,Aye
+3049,1177,Greg Graves,Aye
+3050,1178,Nathan Ivie,Aye
+3051,1178,William C. Lee,Aye
+3052,1178,Greg Graves,Aye
+3053,1179,Nathan Ivie,Aye
+3054,1179,William C. Lee,Aye
+3055,1179,Greg Graves,Aye
+3056,1180,Nathan Ivie,Aye
+3057,1180,William C. Lee,Aye
+3058,1180,Greg Graves,Aye
+3059,1181,Nathan Ivie,Aye
+3060,1181,William C. Lee,Aye
+3061,1181,Greg Graves,Aye
+3062,1182,Nathan Ivie,Aye
+3063,1182,William C. Lee,Aye
+3064,1182,Greg Graves,Aye
+3065,1183,Nathan Ivie,Aye
+3066,1183,William C. Lee,Aye
+3067,1183,Greg Graves,Aye
+3068,1184,Nathan Ivie,Aye
+3069,1184,William C. Lee,Aye
+3070,1184,Greg Graves,Aye
+3071,1185,Nathan Ivie,Aye
+3072,1185,William C. Lee,Aye
+3073,1186,Nathan Ivie,Aye
+3074,1186,William C. Lee,Aye
+3075,1187,Nathan Ivie,Aye
+3076,1187,William C. Lee,Aye
+3077,1188,Nathan Ivie,Aye
+3078,1188,William C. Lee,Aye
+3079,1189,Nathan Ivie,Aye
+3080,1189,William C. Lee,Aye
+3081,1190,Nathan Ivie,Aye
+3082,1190,William C. Lee,Aye
+3083,1191,Nathan Ivie,Aye
+3084,1191,William C. Lee,Aye
+3085,1191,Greg Graves,Aye
+3086,1192,Nathan Ivie,Aye
+3087,1192,William C. Lee,Aye
+3088,1192,Greg Graves,Aye
+3089,1193,Nathan Ivie,Aye
+3090,1193,William C. Lee,Aye
+3091,1193,Greg Graves,Aye
+3092,1194,Nathan Ivie,Aye
+3093,1194,William C. Lee,Aye
+3094,1194,Greg Graves,Aye
+3095,1195,Nathan Ivie,Aye
+3096,1195,William C. Lee,Aye
+3097,1195,Greg Graves,Aye
+3098,1196,Nathan Ivie,Aye
+3099,1196,William C. Lee,Aye
+3100,1196,Greg Graves,Aye
+3101,1197,Nathan Ivie,Aye
+3102,1197,William C. Lee,Aye
+3103,1197,Greg Graves,Aye
+3104,1198,Nathan Ivie,Aye
+3105,1198,William C. Lee,Aye
+3106,1198,Greg Graves,Aye
+3107,1199,Nathan Ivie,Aye
+3108,1199,William C. Lee,Aye
+3109,1199,Greg Graves,Aye
+3110,1200,Nathan Ivie,Aye
+3111,1200,William C. Lee,Aye
+3112,1200,Greg Graves,Aye
+3113,1201,Nathan Ivie,Aye
+3114,1201,William C. Lee,Aye
+3115,1201,Greg Graves,Aye
+3116,1202,Nathan Ivie,Aye
+3117,1202,William C. Lee,Aye
+3118,1203,Nathan Ivie,Aye
+3119,1203,William C. Lee,Aye
+3120,1203,Greg Graves,Aye
+3121,1204,Nathan Ivie,Aye
+3122,1204,William C. Lee,Aye
+3123,1204,Greg Graves,Aye
+3124,1205,Nathan Ivie,Aye
+3125,1205,William C. Lee,Aye
+3126,1205,Greg Graves,Aye
+3127,1206,Nathan Ivie,Aye
+3128,1206,William C. Lee,Aye
+3129,1206,Greg Graves,Aye
+3130,1207,Nathan Ivie,Aye
+3131,1207,William C. Lee,Aye
+3132,1208,Nathan Ivie,Aye
+3133,1208,William C. Lee,Aye
+3134,1209,Nathan Ivie,Aye
+3135,1209,William C. Lee,Aye
+3136,1209,Greg Graves,Aye
+3137,1210,Nathan Ivie,Aye
+3138,1210,William C. Lee,Aye
+3139,1210,Greg Graves,Aye
+3140,1211,Nathan Ivie,Aye
+3141,1211,William C. Lee,Aye
+3142,1211,Greg Graves,Aye
+3143,1212,Nathan Ivie,Aye
+3144,1212,William C. Lee,Aye
+3145,1212,Greg Graves,Aye
+3146,1213,Nathan Ivie,Aye
+3147,1213,William C. Lee,Aye
+3148,1214,Nathan Ivie,Aye
+3149,1214,William C. Lee,Aye
+3150,1214,Greg Graves,Aye
+3151,1215,Nathan Ivie,Aye
+3152,1215,William C. Lee,Aye
+3153,1216,Nathan Ivie,Aye
+3154,1216,William C. Lee,Aye
+3155,1216,Greg Graves,Aye
+3156,1217,Nathan Ivie,Aye
+3157,1217,William C. Lee,Aye
+3158,1217,Greg Graves,Aye
+3159,1218,Nathan Ivie,Aye
+3160,1218,William C. Lee,Aye
+3161,1218,Greg Graves,Aye
+3162,1219,Nathan Ivie,Aye
+3163,1219,William C. Lee,Aye
+3164,1219,Greg Graves,Aye
+3165,1220,Nathan Ivie,Aye
+3166,1220,William C. Lee,Aye
+3167,1220,Greg Graves,Aye
+3168,1222,William C. Lee,Aye
+3169,1222,Nathan Ivie,Aye
+3170,1222,Greg Graves,Aye
+3171,1223,Nathan Ivie,Aye
+3172,1223,William C. Lee,Aye
+3173,1223,Greg Graves,Aye
+3174,1224,Nathan Ivie,Aye
+3175,1224,William C. Lee,Aye
+3176,1225,Nathan Ivie,Aye
+3177,1225,William C. Lee,Aye
+3178,1226,Nathan Ivie,Aye
+3179,1226,William C. Lee,Aye
+3180,1227,Nathan Ivie,Aye
+3181,1227,William C. Lee,Aye
+3182,1228,Nathan Ivie,Aye
+3183,1228,William C. Lee,Aye
+3184,1229,Nathan Ivie,Aye
+3185,1229,William C. Lee,Aye
+3186,1230,Nathan Ivie,Aye
+3187,1230,William C. Lee,Aye
+3188,1231,Nathan Ivie,Aye
+3189,1231,William C. Lee,Aye
+3190,1232,Nathan Ivie,Aye
+3191,1232,William C. Lee,Aye
+3192,1232,Greg Graves,Nay
+3193,1234,Nathan Ivie,Aye
+3194,1234,Greg Graves,Aye
+3195,1236,Nathan Ivie,Aye
+3196,1236,Greg Graves,Aye
+3197,1237,Nathan Ivie,Aye
+3198,1237,Greg Graves,Aye
+3199,1238,Nathan Ivie,Aye
+3200,1238,William C. Lee,Aye
+3201,1238,Greg Graves,Aye
+3202,1239,Nathan Ivie,Aye
+3203,1239,William C. Lee,Aye
+3204,1239,Greg Graves,Aye
+3205,1240,Nathan Ivie,Aye
+3206,1240,William C. Lee,Aye
+3207,1240,Greg Graves,Aye
+3208,1241,Nathan Ivie,Aye
+3209,1241,William C. Lee,Aye
+3210,1241,Greg Graves,Aye
+3211,1243,Nathan Ivie,Aye
+3212,1243,William C. Lee,Aye
+3213,1243,Greg Graves,Aye
+3214,1244,Nathan Ivie,Aye
+3215,1244,William C. Lee,Aye
+3216,1244,Greg Graves,Aye
+3217,1245,William C. Lee,Aye
+3218,1245,Nathan Ivie,Aye
+3219,1246,Nathan Ivie,Aye
+3220,1246,William C. Lee,Aye
+3221,1247,William C. Lee,Aye
+3222,1247,Nathan Ivie,Aye
+3223,1248,Nathan Ivie,Aye
+3224,1248,William C. Lee,Aye
+3225,1249,Nathan Ivie,Aye
+3226,1249,William C. Lee,Aye
+3227,1250,Nathan Ivie,Aye
+3228,1250,William C. Lee,Aye
+3229,1251,Nathan Ivie,Aye
+3230,1251,William C. Lee,Aye
+3231,1251,Greg Graves,Aye
+3232,1253,Nathan Ivie,Aye
+3233,1253,William C. Lee,Aye
+3234,1253,Greg Graves,Aye
+3235,1254,Nathan Ivie,Aye
+3236,1254,William C. Lee,Aye
+3237,1254,Greg Graves,Aye
+3238,1255,Nathan Ivie,Aye
+3239,1255,William C. Lee,Aye
+3240,1255,Greg Graves,Aye
+3241,1256,Nathan Ivie,Aye
+3242,1256,William C. Lee,Aye
+3243,1256,Greg Graves,Aye
+3244,1257,Nathan Ivie,Aye
+3245,1257,William C. Lee,Aye
+3246,1257,Greg Graves,Aye
+3247,1258,Nathan Ivie,Aye
+3248,1258,William C. Lee,Aye
+3249,1258,Greg Graves,Aye
+3250,1259,Nathan Ivie,Aye
+3251,1259,William C. Lee,Aye
+3252,1259,Greg Graves,Aye
+3253,1261,Nathan Ivie,Aye
+3254,1261,William C. Lee,Aye
+3255,1261,Greg Graves,Aye
+3256,1262,Nathan Ivie,Aye
+3257,1262,William C. Lee,Aye
+3258,1262,Greg Graves,Aye
+3259,1263,Nathan Ivie,Aye
+3260,1263,William C. Lee,Aye
+3261,1263,Greg Graves,Aye
+3262,1264,Nathan Ivie,Aye
+3263,1264,William C. Lee,Aye
+3264,1264,Greg Graves,Aye
+3265,1265,Nathan Ivie,Aye
+3266,1265,William C. Lee,Aye
+3267,1265,Greg Graves,Aye
+3268,1267,Nathan Ivie,Aye
+3269,1267,William C. Lee,Aye
+3270,1267,Greg Graves,Aye
+3271,1268,Nathan Ivie,Aye
+3272,1268,William C. Lee,Aye
+3273,1268,Greg Graves,Aye
+3274,1269,Nathan Ivie,Aye
+3275,1269,William C. Lee,Aye
+3276,1269,Greg Graves,Aye
+3277,1270,Nathan Ivie,Aye
+3278,1270,William C. Lee,Aye
+3279,1270,Greg Graves,Aye
+3280,1271,Nathan Ivie,Aye
+3281,1271,William C. Lee,Aye
+3282,1271,Greg Graves,Aye
+3283,1272,Nathan Ivie,Aye
+3284,1272,William C. Lee,Aye
+3285,1272,Greg Graves,Aye
+3286,1273,Nathan Ivie,Aye
+3287,1273,William C. Lee,Aye
+3288,1273,Greg Graves,Aye
+3289,1274,Nathan Ivie,Aye
+3290,1274,William C. Lee,Aye
+3291,1274,Greg Graves,Aye
+3292,1275,Nathan Ivie,Aye
+3293,1275,William C. Lee,Aye
+3294,1275,Greg Graves,Aye
+3295,1276,Nathan Ivie,Aye
+3296,1276,William C. Lee,Aye
+3297,1276,Greg Graves,Aye
+3298,1277,Nathan Ivie,Aye
+3299,1277,William C. Lee,Aye
+3300,1277,Greg Graves,Aye
+3301,1278,Nathan Ivie,Aye
+3302,1278,William C. Lee,Aye
+3303,1278,Greg Graves,Aye
+3304,1279,Nathan Ivie,Aye
+3305,1279,William C. Lee,Aye
+3306,1279,Greg Graves,Aye
+3307,1280,Nathan Ivie,Aye
+3308,1280,William C. Lee,Aye
+3309,1280,Greg Graves,Aye
+3310,1282,Nathan Ivie,Aye
+3311,1282,William C. Lee,Aye
+3312,1283,Nathan Ivie,Aye
+3313,1283,William C. Lee,Aye
+3314,1284,Nathan Ivie,Aye
+3315,1284,William C. Lee,Aye
+3316,1286,Nathan Ivie,Aye
+3317,1286,William C. Lee,Aye
+3318,1287,Nathan Ivie,Aye
+3319,1287,William C. Lee,Aye
+3320,1288,Nathan Ivie,Aye
+3321,1288,William C. Lee,Aye
+3322,1289,Nathan Ivie,Aye
+3323,1289,William C. Lee,Aye
+3324,1289,Greg Graves,Aye
+3325,1290,Nathan Ivie,Aye
+3326,1290,William C. Lee,Aye
+3327,1290,Greg Graves,Aye
+3328,1291,Nathan Ivie,Aye
+3329,1291,William C. Lee,Aye
+3330,1291,Greg Graves,Aye
+3331,1292,Nathan Ivie,Aye
+3332,1292,William C. Lee,Aye
+3333,1292,Greg Graves,Aye
+3334,1293,Nathan Ivie,Aye
+3335,1293,William C. Lee,Aye
+3336,1293,Greg Graves,Aye
+3337,1294,Nathan Ivie,Aye
+3338,1294,William C. Lee,Aye
+3339,1294,Greg Graves,Aye
+3340,1295,Nathan Ivie,Aye
+3341,1295,William C. Lee,Aye
+3342,1295,Greg Graves,Aye
+3343,1296,Nathan Ivie,Aye
+3344,1296,William C. Lee,Aye
+3345,1296,Greg Graves,Aye
+3346,1297,Nathan Lee,Aye
+3347,1297,William C. Lee,Aye
+3348,1297,Greg Graves,Aye
+3349,1298,Nathan Ivie,Aye
+3350,1298,William C. Lee,Aye
+3351,1298,Greg Graves,Aye
+3352,1299,Nathan Ivie,Aye
+3353,1299,William C. Lee,Aye
+3354,1299,Greg Graves,Aye
+3355,1300,Nathan Ivie,Aye
+3356,1300,William C. Lee,Aye
+3357,1300,Greg Graves,Aye
+3358,1301,Nathan Ivie,Aye
+3359,1301,William C. Lee,Aye
+3360,1301,Greg Graves,Aye
+3361,1302,Nathan Ivie,Aye
+3362,1302,William C. Lee,Aye
+3363,1302,Greg Graves,Aye
+3364,1303,Nathan Ivie,Aye
+3365,1303,William C. Lee,Aye
+3366,1303,Greg Graves,Aye
+3367,1304,Nathan Ivie,Aye
+3368,1304,William C. Lee,Aye
+3369,1304,Greg Graves,Aye
+3370,1305,Nathan Ivie,Aye
+3371,1305,William C. Lee,Aye
+3372,1306,Nathan Ivie,Aye
+3373,1306,William C. Lee,Aye
+3374,1306,Greg Graves,Aye
+3375,1307,Nathan Ivie,Aye
+3376,1307,William C. Lee,Aye
+3377,1307,Greg Graves,Aye
+3378,1308,Nathan Ivie,Aye
+3379,1308,William C. Lee,Aye
+3380,1308,Greg Graves,Aye
+3381,1309,Nathan Ivie,Aye
+3382,1309,William C. Lee,Aye
+3383,1309,Greg Graves,Aye
+3384,1310,William C. Lee,Aye
+3385,1310,Greg Graves,Aye
+3386,1310,Nathan Ivie,Nay
+3387,1311,Nathan Ivie,Aye
+3388,1311,William C. Lee,Aye
+3389,1311,Greg Graves,Aye
+3390,1312,Nathan Ivie,Aye
+3391,1312,William C. Lee,Aye
+3392,1312,Greg Graves,Aye
+3393,1313,Nathan Ivie,Aye
+3394,1313,Greg Graves,Aye
+3395,1314,Nathan Ivie,Aye
+3396,1314,Greg Graves,Aye
+3397,1315,Nathan Ivie,Aye
+3398,1315,Greg Graves,Aye
+3399,1333,William C. Lee,Aye
+3400,1333,Greg Graves,Nay
+3401,1333,Nathan Ivie,Nay
+3402,1359,Nathan Ivie,Aye
+3403,1359,Bill Lee,Aye
+3404,1359,Greg Graves,Aye
+3405,1360,Nathan Ivie,Aye
+3406,1360,Bill Lee,Aye
+3407,1360,Greg Graves,Aye
+3408,1361,Nathan Ivie,Aye
+3409,1361,Bill Lee,Aye
+3410,1361,Greg Graves,Aye
+3411,1362,William C. Lee,Aye
+3412,1362,Nathan Ivie,Aye
+3413,1363,William C. Lee,Aye
+3414,1363,Nathan Ivie,Aye
+3415,1364,William C. Lee,Aye
+3416,1364,Nathan Ivie,Aye
+3417,1371,Nathan Ivie,Aye
+3418,1371,Bill Lee,Aye
+3419,1371,Greg Graves,Aye
+3420,1372,Nathan Ivie,Aye
+3421,1372,Bill Lee,Aye
+3422,1372,Greg Graves,Aye
+3423,1379,Nathan Ivie,Aye
+3424,1379,Bill Lee,Aye
+3425,1379,Greg Graves,Aye
+3426,1380,Nathan Ivie,Aye
+3427,1380,Bill Lee,Aye
+3428,1380,Greg Graves,Aye
+3429,1382,Nathan Ivie,Aye
+3430,1382,Bill Lee,Aye
+3431,1382,Greg Graves,Aye
+3432,1383,Nathan Ivie,Aye
+3433,1383,Bill Lee,Aye
+3434,1383,Greg Graves,Aye
+3435,1384,Nathan Ivie,Aye
+3436,1384,Bill Lee,Aye
+3437,1384,Greg Graves,Aye
+3438,1385,Nathan Ivie,Aye
+3439,1385,Bill Lee,Aye
+3440,1385,Greg Graves,Aye
+3441,1386,Nathan Ivie,Aye
+3442,1386,Bill Lee,Aye
+3443,1386,Greg Graves,Aye
+3444,1387,Nathan Ivie,Aye
+3445,1387,Bill Lee,Aye
+3446,1406,Nathan Ivie,Aye
+3447,1406,Bill Lee,Aye
+3448,1407,Nathan Ivie,Aye
+3449,1407,Bill Lee,Aye
+3450,1408,Nathan Ivie,Aye
+3451,1408,Bill Lee,Aye
+3452,1409,Nathan Ivie,Aye
+3453,1409,Bill Lee,Aye
+3454,1410,Nathan Ivie,Aye
+3455,1410,Bill Lee,Aye
+3456,1412,Nathan Ivie,Aye
+3457,1412,Bill Lee,Aye
+3458,1415,Nathan Ivie,Aye
+3459,1415,Bill Lee,Aye
+3460,1417,Nathan Ivie,Aye
+3461,1417,Bill Lee,Aye
+3462,1418,Nathan Ivie,Aye
+3463,1418,Bill Lee,Aye
+3464,1419,Nathan Ivie,Aye
+3465,1419,Bill Lee,Aye
+3466,1420,Nathan Ivie,Aye
+3467,1420,Bill Lee,Aye
+3468,1430,Nathan Ivie,Aye
+3469,1430,William C. Lee,Aye
+3470,1437,Nathan Ivie,Aye
+3471,1437,Greg Graves,Aye
+3472,1438,Nathan Ivie,Aye
+3473,1438,Greg Graves,Aye
+3474,1439,Nathan Ivie,Aye
+3475,1439,Greg Graves,Aye
+3476,1440,Nathan Ivie,Aye
+3477,1440,Greg Graves,Aye
+3478,1457,Nathan Ivie,Aye
+3479,1457,Bill Lee,Aye
+3480,1457,Greg Graves,Aye
+3481,1458,Nathan Ivie,Aye
+3482,1458,Bill Lee,Aye
+3483,1458,Greg Graves,Aye
+3484,1459,Nathan Ivie,Aye
+3485,1459,Bill Lee,Aye
+3486,1459,Greg Graves,Aye
+3487,1460,Nathan Ivie,Aye
+3488,1460,Bill Lee,Aye
+3489,1460,Greg Graves,Aye
+3490,1463,Nathan Ivie,Aye
+3491,1464,Nathan Ivie,Aye
+3492,1465,Nathan Ivie,Aye
+3493,1465,William C. Lee,Aye
+3494,1465,Greg Graves,Aye
+3495,1466,William C. Lee,Aye
+3496,1466,Greg Graves,Aye
+3497,1467,Nathan Ivie,Aye
+3498,1467,William C. Lee,Aye
+3499,1467,Greg Graves,Aye
+3500,1468,Nathan Ivie,Aye
+3501,1469,Nathan Ivie,Aye
+3502,1469,William C. Lee,Aye
+3503,1469,Greg Graves,Aye
+3504,1475,Nathan Ivie,Aye
+3505,1475,William C. Lee,Aye
+3506,1475,Greg Graves,Nay
+3507,1480,Nathan Ivie,Aye
+3508,1480,William C. Lee,Aye
+3509,1480,Greg Graves,Aye
+3510,1498,Nathan Ivie,Aye
+3511,1498,Bill Lee,Aye
+3512,1499,Nathan Ivie,Aye
+3513,1499,Bill Lee,Aye
+3514,1500,Nathan Ivie,Aye
+3515,1500,Bill Lee,Aye
+3516,1501,Nathan Ivie,Aye
+3517,1501,Bill Lee,Aye
+3518,1502,Nathan Ivie,Aye
+3519,1502,Bill Lee,Aye
+3520,1503,Nathan Ivie,Aye
+3521,1503,Bill Lee,Aye
+3522,1504,Nathan Ivie,Aye
+3523,1504,Bill Lee,Aye
+3524,1512,Nathan Ivie,Aye
+3525,1512,Greg Graves,Aye
+3526,1512,Bill Lee,Nay
+3527,1513,Nathan Ivie,Aye
+3528,1513,Bill Lee,Aye
+3529,1513,Greg Graves,Aye
+3530,1515,Nathan Ivie,Aye
+3531,1515,Bill Lee,Aye
+3532,1515,Greg Graves,Aye
+3533,1516,Nathan Ivie,Aye
+3534,1516,Bill Lee,Aye
+3535,1516,Greg Graves,Aye
+3536,1517,Nathan Ivie,Aye
+3537,1517,Bill Lee,Aye
+3538,1517,Greg Graves,Aye
+3539,1518,Nathan Ivie,Aye
+3540,1518,Bill Lee,Aye
+3541,1518,Greg Graves,Aye
+3542,1519,Nathan Ivie,Aye
+3543,1519,Bill Lee,Aye
+3544,1519,Greg Graves,Aye
+3545,1520,Nathan Ivie,Aye
+3546,1520,Bill Lee,Aye
+3547,1520,Greg Graves,Aye
+3548,1521,Nathan Ivie,Aye
+3549,1522,Nathan Ivie,Aye
+3550,1522,Bill Lee,Aye
+3551,1522,Greg Graves,Aye
+3552,1523,Nathan Ivie,Aye
+3553,1523,Bill Lee,Aye
+3554,1523,Greg Graves,Nay
+3555,1524,Nathan Ivie,Aye
+3556,1524,Bill Lee,Aye
+3557,1524,Greg Graves,Aye
+3558,1568,Bill Lee,Aye
+3559,1568,Tanner Ainge,Aye
+3560,1568,Nathan Ivie,Aye
+3561,1569,Bill Lee,Aye
+3562,1569,Tanner Ainge,Aye
+3563,1569,Nathan Ivie,Aye
+3564,1570,Bill Lee,Aye
+3565,1570,Tanner Ainge,Aye
+3566,1570,Nathan Ivie,Aye
+3567,1571,Bill Lee,Aye
+3568,1571,Tanner Ainge,Aye
+3569,1571,Nathan Ivie,Aye
+3570,1572,Bill Lee,Aye
+3571,1572,Tanner Ainge,Aye
+3572,1572,Nathan Ivie,Aye
+3573,1573,Bill Lee,Aye
+3574,1573,Tanner Ainge,Aye
+3575,1573,Nathan Ivie,Aye
+3576,1574,Bill Lee,Aye
+3577,1574,Nathan Ivie,Aye
+3578,1574,Tanner Ainge,Nay
+3579,1575,Bill Lee,Aye
+3580,1575,Tanner Ainge,Aye
+3581,1575,Nathan Ivie,Aye
+3582,1577,Bill Lee,Aye
+3583,1577,Tanner Ainge,Aye
+3584,1577,Nathan Ivie,Aye
+3585,1578,Bill Lee,Aye
+3586,1578,Tanner Ainge,Aye
+3587,1578,Nathan Ivie,Aye
+3588,1579,Bill Lee,Aye
+3589,1579,Tanner Ainge,Aye
+3590,1579,Nathan Ivie,Aye
+3591,1580,Bill Lee,Aye
+3592,1580,Tanner Ainge,Aye
+3593,1580,Nathan Ivie,Aye
+3594,1581,Bill Lee,Aye
+3595,1581,Tanner Ainge,Aye
+3596,1581,Nathan Ivie,Aye
+3597,1582,Bill Lee,Aye
+3598,1582,Tanner Ainge,Aye
+3599,1582,Nathan Ivie,Aye
+3600,1583,Bill Lee,Aye
+3601,1583,Tanner Ainge,Aye
+3602,1584,Bill Lee,Aye
+3603,1584,Tanner Ainge,Aye
+3604,1584,Nathan Ivie,Aye
+3605,1585,Bill Lee,Aye
+3606,1585,Tanner Ainge,Aye
+3607,1585,Nathan Ivie,Aye
+3608,1586,Bill Lee,Aye
+3609,1586,Tanner Ainge,Aye
+3610,1586,Nathan Ivie,Aye
+3611,1587,Bill Lee,Aye
+3612,1587,Tanner Ainge,Aye
+3613,1587,Nathan Ivie,Aye
+3614,1588,Bill Lee,Aye
+3615,1588,Tanner Ainge,Aye
+3616,1588,Nathan Ivie,Aye
+3617,1589,Bill Lee,Aye
+3618,1589,Tanner Ainge,Aye
+3619,1589,Nathan Ivie,Aye
+3620,1590,Bill Lee,Aye
+3621,1590,Tanner Ainge,Aye
+3622,1590,Nathan Ivie,Aye
+3623,1598,Bill Lee,Aye
+3624,1598,Tanner Ainge,Aye
+3625,1598,Nathan Ivie,Aye
+3626,1599,Bill Lee,Aye
+3627,1599,Tanner Ainge,Aye
+3628,1599,Nathan Ivie,Aye
+3629,1600,Bill Lee,Aye
+3630,1600,Tanner Ainge,Aye
+3631,1600,Nathan Ivie,Aye
+3632,1607,Bill Lee,Aye
+3633,1607,Tanner Ainge,Aye
+3634,1607,Nathan Ivie,Aye
+3635,1608,Bill Lee,Aye
+3636,1608,Tanner Ainge,Aye
+3637,1608,Nathan Ivie,Aye
+3638,1609,Bill Lee,Aye
+3639,1609,Tanner Ainge,Aye
+3640,1609,Nathan Ivie,Aye
+3641,1610,Bill Lee,Aye
+3642,1610,Tanner Ainge,Aye
+3643,1610,Nathan Ivie,Aye
+3644,1614,Bill Lee,Aye
+3645,1614,Tanner Ainge,Aye
+3646,1614,Nathan Ivie,Aye
+3647,1615,Bill Lee,Aye
+3648,1615,Tanner Ainge,Aye
+3649,1615,Nathan Ivie,Aye
+3650,1616,Bill Lee,Aye
+3651,1617,Bill Lee,Aye
+3652,1617,Tanner Ainge,Aye
+3653,1617,Nathan Ivie,Aye
+3654,1618,Bill Lee,Aye
+3655,1618,Tanner Ainge,Aye
+3656,1618,Nathan Ivie,Aye
+3657,1619,Bill Lee,Aye
+3658,1619,Tanner Ainge,Aye
+3659,1620,Bill Lee,Aye
+3660,1620,Tanner Ainge,Aye
+3661,1620,Nathan Ivie,Aye
+3662,1621,Bill Lee,Aye
+3663,1621,Tanner Ainge,Aye
+3664,1621,Nathan Ivie,Aye
+3665,1632,Bill Lee,Aye
+3666,1632,Tanner Ainge,Aye
+3667,1632,Nathan Ivie,Aye
+3668,1638,Bill Lee,Aye
+3669,1638,Tanner Ainge,Aye
+3670,1643,Bill Lee,Aye
+3671,1643,Tanner Ainge,Aye
+3672,1647,Bill Lee,Aye
+3673,1647,Tanner Ainge,Aye
+3674,1647,Nathan Ivie,Aye
+3675,1648,Bill Lee,Aye
+3676,1648,Tanner Ainge,Aye
+3677,1648,Nathan Ivie,Aye
+3678,1651,Bill Lee,Aye
+3679,1651,Tanner Ainge,Aye
+3680,1651,Nathan Ivie,Aye
+3681,1653,Bill Lee,Aye
+3682,1653,Tanner Ainge,Aye
+3683,1653,Nathan Ivie,Aye
+3684,1654,Bill Lee,Aye
+3685,1654,Tanner Ainge,Aye
+3686,1655,Bill Lee,Aye
+3687,1656,Bill Lee,Aye
+3688,1661,Bill Lee,Aye
+3689,1661,Tanner Ainge,Aye
+3690,1661,Nathan Ivie,Aye
+3691,1662,Bill Lee,Aye
+3692,1662,Tanner Ainge,Aye
+3693,1662,Nathan Ivie,Aye
+3694,1663,Bill Lee,Aye
+3695,1664,Bill Lee,Aye
+3696,1665,Bill Lee,Aye
+3697,1665,Tanner Ainge,Aye
+3698,1665,Nathan Ivie,Aye
+3699,1667,Bill Lee,Aye
+3700,1667,Tanner Ainge,Aye
+3701,1667,Nathan Ivie,Aye
+3702,1676,Bill Lee,Aye
+3703,1676,Tanner Ainge,Aye
+3704,1676,Nathan Ivie,Aye
+3705,1681,Bill Lee,Aye
+3706,1681,Tanner Ainge,Aye
+3707,1682,Bill Lee,Aye
+3708,1682,Tanner Ainge,Aye
+3709,1682,Nathan Ivie,Aye
+3710,1687,Bill Lee,Aye
+3711,1687,Tanner Ainge,Aye
+3712,1689,Bill Lee,Aye
+3713,1689,Tanner Ainge,Aye
+3714,1689,Nathan Ivie,Aye
+3715,1690,Bill Lee,Aye
+3716,1690,Tanner Ainge,Aye
+3717,1690,Nathan Ivie,Aye
+3718,1691,Bill Lee,Aye
+3719,1691,Tanner Ainge,Aye
+3720,1691,Nathan Ivie,Aye
+3721,1692,Bill Lee,Aye
+3722,1692,Tanner Ainge,Aye
+3723,1692,Nathan Ivie,Aye
+3724,1693,Bill Lee,Aye
+3725,1693,Tanner Ainge,Aye
+3726,1693,Nathan Ivie,Aye
+3727,1694,Bill Lee,Aye
+3728,1694,Tanner Ainge,Aye
+3729,1694,Nathan Ivie,Aye
+3730,1702,Bill Lee,Aye
+3731,1702,Tanner Ainge,Aye
+3732,1703,Bill Lee,Aye
+3733,1703,Tanner Ainge,Aye
+3734,1707,Bill Lee,Aye
+3735,1707,Tanner Ainge,Aye
+3736,1707,Nathan Ivie,Aye
+3737,1710,Bill Lee,Aye
+3738,1710,Tanner Ainge,Aye
+3739,1710,Nathan Ivie,Aye
+3740,1713,Bill Lee,Aye
+3741,1713,Tanner Ainge,Aye
+3742,1713,Nathan Ivie,Aye
+3743,1714,Bill Lee,Aye
+3744,1714,Tanner Ainge,Aye
+3745,1715,Bill Lee,Aye
+3746,1715,Tanner Ainge,Aye
+3747,1715,Nathan Ivie,Aye
+3748,1720,Bill Lee,Aye
+3749,1720,Tanner Ainge,Aye
+3750,1720,Nathan Ivie,Aye
+3751,1722,Bill Lee,Aye
+3752,1722,Tanner Ainge,Aye
+3753,1722,Nathan Ivie,Aye
+3754,1723,Bill Lee,Aye
+3755,1723,Tanner Ainge,Aye
+3756,1723,Nathan Ivie,Aye
+3757,1724,Bill Lee,Aye
+3758,1724,Tanner Ainge,Aye
+3759,1724,Nathan Ivie,Aye
+3760,1726,Bill Lee,Aye
+3761,1726,Tanner Ainge,Aye
+3762,1726,Nathan Ivie,Aye
+3763,1729,Bill Lee,Aye
+3764,1729,Tanner Ainge,Aye
+3765,1730,Bill Lee,Aye
+3766,1730,Tanner Ainge,Aye
+3767,1737,Bill Lee,Aye
+3768,1737,Tanner Ainge,Aye
+3769,1737,Nathan Ivie,Aye
+3770,1740,Bill Lee,Aye
+3771,1740,Tanner Ainge,Aye
+3772,1742,Bill Lee,Aye
+3773,1742,Tanner Ainge,Aye
+3774,1743,Bill Lee,Aye
+3775,1743,Tanner Ainge,Aye
+3776,1744,Bill Lee,Aye
+3777,1744,Tanner Ainge,Aye
+3778,1745,Bill Lee,Aye
+3779,1745,Tanner Ainge,Aye
+3780,1747,Bill Lee,Aye
+3781,1749,Bill Lee,Aye
+3782,1749,Tanner Ainge,Aye
+3783,1752,Bill Lee,Aye
+3784,1752,Tanner Ainge,Aye
+3785,1752,Nathan Ivie,Aye
+3786,1753,Bill Lee,Aye
+3787,1786,Bill Lee,Aye
+3788,1786,Tanner Ainge,Aye
+3789,1786,Nathan Ivie,Aye
+3790,1793,Bill Lee,Aye
+3791,1793,Tanner Ainge,Aye
+3792,1793,Nathan Ivie,Aye
+3793,1798,Bill Lee,Aye
+3794,1798,Tanner Ainge,Aye
+3795,1799,Bill Lee,Aye
+3796,1799,Tanner Ainge,Aye
+3797,1799,Nathan Ivie,Aye
+3798,1806,Bill Lee,Aye
+3799,1806,Tanner Ainge,Aye
+3800,1806,Nathan Ivie,Aye
+3801,1807,Bill Lee,Aye
+3802,1807,Tanner Ainge,Aye
+3803,1807,Nathan Ivie,Aye
+3804,1808,Bill Lee,Aye
+3805,1808,Tanner Ainge,Aye
+3806,1808,Nathan Ivie,Aye
+3807,1809,Bill Lee,Aye
+3808,1809,Tanner Ainge,Aye
+3809,1809,Nathan Ivie,Aye
+3810,1810,Bill Lee,Aye
+3811,1810,Tanner Ainge,Aye
+3812,1810,Nathan Ivie,Aye
+3813,1811,Bill Lee,Aye
+3814,1811,Tanner Ainge,Aye
+3815,1812,Bill Lee,Aye
+3816,1812,Tanner Ainge,Aye
+3817,1813,Bill Lee,Aye
+3818,1818,Bill Lee,Aye
+3819,1818,Tanner Ainge,Aye
+3820,1818,Nathan Ivie,Aye
+3821,1825,Bill Lee,Aye
+3822,1825,Tanner Ainge,Aye
+3823,1828,Bill Lee,Aye
+3824,1828,Tanner Ainge,Aye
+3825,1831,Bill Lee,Aye
+3826,1831,Tanner Ainge,Aye
+3827,1841,Bill Lee,Aye
+3828,1841,Tanner Ainge,Aye
+3829,1841,Nathan Ivie,Aye
+3830,1845,Bill Lee,Aye
+3831,1845,Tanner Ainge,Aye
+3832,1845,Nathan Ivie,Aye
+3833,1846,Bill Lee,Aye
+3834,1846,Tanner Ainge,Aye
+3835,1846,Nathan Ivie,Aye
+3836,1848,Bill Lee,Aye
+3837,1848,Tanner Ainge,Aye
+3838,1850,Bill Lee,Aye
+3839,1850,Tanner Ainge,Aye
+3840,1851,Bill Lee,Aye
+3841,1851,Tanner Ainge,Aye
+3842,1854,Bill Lee,Aye
+3843,1871,Bill Lee,Aye
+3844,1871,Tanner Ainge,Aye
+3845,1880,Bill Lee,Aye
+3846,1880,Tanner Ainge,Aye
+3847,1880,Nathan Ivie,Aye
+3848,1889,Bill Lee,Aye
+3849,1890,Bill Lee,Aye
+3850,1890,Tanner Ainge,Aye
+3851,1890,Nathan Ivie,Aye
+3852,1893,Bill Lee,Aye
+3853,1893,Tanner Ainge,Aye
+3854,1893,Nathan Ivie,Aye
+3855,1894,Bill Lee,Aye
+3856,1894,Tanner Ainge,Aye
+3857,1894,Nathan Ivie,Aye
+3858,1895,Bill Lee,Aye
+3859,1895,Tanner Ainge,Aye
+3860,1895,Nathan Ivie,Aye
+3861,1896,Bill Lee,Aye
+3862,1896,Tanner Ainge,Aye
+3863,1896,Nathan Ivie,Aye
+3864,1897,Bill Lee,Aye
+3865,1897,Nathan Ivie,Aye
+3866,1900,Bill Lee,Aye
+3867,1917,Bill Lee,Aye
+3868,1917,Tanner Ainge,Aye
+3869,1926,Bill Lee,Aye
+3870,1926,Tanner Ainge,Aye
+3871,1926,Nathan Ivie,Aye
+3872,1935,Bill Lee,Aye
+3873,1936,Bill Lee,Aye
+3874,1936,Tanner Ainge,Aye
+3875,1936,Nathan Ivie,Aye
+3876,1939,Bill Lee,Aye
+3877,1939,Tanner Ainge,Aye
+3878,1939,Nathan Ivie,Aye
+3879,1940,Bill Lee,Aye
+3880,1940,Tanner Ainge,Aye
+3881,1940,Nathan Ivie,Aye
+3882,1941,Bill Lee,Aye
+3883,1941,Tanner Ainge,Aye
+3884,1941,Nathan Ivie,Aye
+3885,1942,Bill Lee,Aye
+3886,1942,Tanner Ainge,Aye
+3887,1942,Nathan Ivie,Aye
+3888,1943,Bill Lee,Aye
+3889,1943,Nathan Ivie,Aye
+3890,1944,Bill Lee,Aye
+3891,1945,Bill Lee,Aye
+3892,1945,Tanner Ainge,Aye
+3893,1945,Nathan Ivie,Aye
+3894,1946,Bill Lee,Aye
+3895,1946,Tanner Ainge,Aye
+3896,1946,Nathan Ivie,Aye
+3897,1947,Tanner Ainge,Aye
+3898,1947,Nathan Ivie,Aye
+3899,1948,Bill Lee,Aye
+3900,1948,Tanner Ainge,Aye
+3901,1948,Nathan Ivie,Aye
+3902,1949,Bill Lee,Aye
+3903,1949,Tanner Ainge,Aye
+3904,1949,Nathan Ivie,Aye
+3905,1950,Bill Lee,Aye
+3906,1950,Tanner Ainge,Aye
+3907,1950,Nathan Ivie,Aye
+3908,1951,Bill Lee,Aye
+3909,1951,Nathan Ivie,Aye
+3910,1959,Bill Lee,Aye
+3911,1959,Tanner Ainge,Aye
+3912,1959,Nathan Ivie,Aye
+3913,1967,Bill Lee,Aye
+3914,1967,Tanner Ainge,Aye
+3915,1967,Nathan Ivie,Aye
+3916,1970,Bill Lee,Aye
+3917,1970,Tanner Ainge,Aye
+3918,1970,Nathan Ivie,Aye
+3919,1971,Bill Lee,Aye
+3920,1971,Tanner Ainge,Aye
+3921,1971,Nathan Ivie,Aye
+3922,1973,Bill Lee,Aye
+3923,1973,Tanner Ainge,Aye
+3924,1973,Nathan Ivie,Aye
+3925,1974,Tanner Ainge,Aye
+3926,1974,Nathan Ivie,Aye
+3927,1974,Bill Lee,Nay
+3928,1978,Bill Lee,Aye
+3929,1980,Bill Lee,Aye
+3930,1980,Tanner Ainge,Aye
+3931,1980,Nathan Ivie,Aye
+3932,1981,Bill Lee,Aye
+3933,1981,Tanner Ainge,Aye
+3934,1982,Bill Lee,Aye
+3935,1982,Tanner Ainge,Aye
+3936,1982,Nathan Ivie,Aye
+3937,1984,Tanner Ainge,Aye
+3938,1984,Nathan Ivie,Aye
+3939,1984,Bill Lee,Nay
+3940,1987,Bill Lee,Aye
+3941,1987,Tanner Ainge,Aye
+3942,1987,Nathan Ivie,Aye
+3943,1989,Tanner Ainge,Aye
+3944,1989,Nathan Ivie,Aye
+3945,2001,Tanner Ainge,Aye
+3946,2009,Tanner Ainge,Aye
+3947,2009,Nathan Ivie,Aye
+3948,2010,Tanner Ainge,Aye
+3949,2010,Nathan Ivie,Aye
+3950,2012,Tanner Ainge,Aye
+3951,2012,Nathan Ivie,Aye
+3952,2015,Tanner Ainge,Aye
+3953,2015,Nathan Ivie,Aye
+3954,2025,Tanner Ainge,Aye
+3955,2025,Nathan Ivie,Aye
+3956,2027,Tanner Ainge,Aye
+3957,2027,Nathan Ivie,Aye
+3958,2028,Tanner Ainge,Aye
+3959,2028,Nathan Ivie,Aye
+3960,2029,Tanner Ainge,Aye
+3961,2029,Nathan Ivie,Aye
+3962,2032,Bill Lee,Aye
+3963,2034,Bill Lee,Aye
+3964,2034,Tanner Ainge,Aye
+3965,2036,Bill Lee,Aye
+3966,2036,Tanner Ainge,Aye
+3967,2036,Nathan Ivie,Aye
+3968,2041,Bill Lee,Aye
+3969,2041,Tanner Ainge,Aye
+3970,2042,Bill Lee,Aye
+3971,2042,Tanner Ainge,Aye
+3972,2042,Nathan Ivie,Aye
+3973,2050,Bill Lee,Aye
+3974,2050,Tanner Ainge,Aye
+3975,2050,Nathan Ivie,Aye
+3976,2052,Bill Lee,Aye
+3977,2052,Tanner Ainge,Aye
+3978,2081,Bill Lee,Aye
+3979,2081,Tanner Ainge,Aye
+3980,2081,Nathan Ivie,Aye
+3981,2086,Bill Lee,Aye
+3982,2086,Tanner Ainge,Aye
+3983,2086,Nathan Ivie,Aye
+3984,2087,Bill Lee,Aye
+3985,2087,Tanner Ainge,Aye
+3986,2087,Nathan Ivie,Aye
+3987,2088,Bill Lee,Aye
+3988,2088,Tanner Ainge,Aye
+3989,2088,Nathan Ivie,Aye
+3990,2089,Bill Lee,Aye
+3991,2089,Tanner Ainge,Aye
+3992,2089,Nathan Ivie,Aye
+3993,2090,Bill Lee,Aye
+3994,2090,Tanner Ainge,Aye
+3995,2090,Nathan Ivie,Aye
+3996,2091,Bill Lee,Aye
+3997,2092,Bill Lee,Aye
+3998,2092,Ive,Aye
+3999,2092,Tanner Ainge,Nay
+4000,2093,Bill Lee,Aye
+4001,2093,Tanner Ainge,Aye
+4002,2093,Nathan Ivie,Aye
+4003,2099,Bill Lee,Aye
+4004,2099,Tanner Ainge,Aye
+4005,2099,Nathan Ivie,Aye
+4006,2100,Bill Lee,Aye
+4007,2100,Tanner Ainge,Aye
+4008,2100,Nathan Ivie,Aye
+4009,2101,Bill Lee,Aye
+4010,2101,Tanner Ainge,Aye
+4011,2101,Nathan Ivie,Aye
+4012,2102,Bill Lee,Aye
+4013,2102,Aing,Aye
+4014,2102,Nathan Ivie,Aye
+4015,2103,Bill Lee,Aye
+4016,2103,Tanner Ainge,Aye
+4017,2103,Nathan Ivie,Aye
+4018,2104,Bill Lee,Aye
+4019,2104,Tanner Ainge,Aye
+4020,2104,Nathan Ivie,Aye
+4021,2106,Bill Lee,Aye
+4022,2106,Tanner Ainge,Aye
+4023,2106,Nathan Ivie,Aye
+4024,2107,Bill Lee,Aye
+4025,2108,Bill Lee,Aye
+4026,2108,Tanner Ainge,Aye
+4027,2108,Nathan Ivie,Aye
+4028,2109,Bill Lee,Aye
+4029,2109,Tanner Ainge,Aye
+4030,2109,Nathan Ivie,Aye
+4031,2110,Bill Lee,Aye
+4032,2110,Tanner Ainge,Aye
+4033,2110,Nathan Ivie,Aye
+4034,2111,Bill Lee,Aye
+4035,2111,Tanner Ainge,Aye
+4036,2111,Nathan Ivie,Aye
+4037,2112,Bill Lee,Aye
+4038,2112,Nathan Ivie,Aye
+4039,2113,Bill Lee,Aye
+4040,2113,Nathan Ivie,Aye
+4041,2128,Bill Lee,Aye
+4042,2128,Tanner Ainge,Aye
+4043,2128,Nathan Ivie,Aye
+4044,2131,Bill Lee,Aye
+4045,2131,Tanner Ainge,Aye
+4046,2131,Nathan Ivie,Aye
+4047,2132,Bill Lee,Aye
+4048,2132,Tanner Ainge,Aye
+4049,2133,Bill Lee,Aye
+4050,2133,Tanner Ainge,Aye
+4051,2133,Nathan Ivie,Aye
+4052,2134,Bill Lee,Aye
+4053,2134,Tanner Ainge,Aye
+4054,2134,Nathan Ivie,Aye
+4055,2135,Bill Lee,Aye
+4056,2135,Tanner Ainge,Aye
+4057,2135,Nathan Ivie,Aye
+4058,2136,Bill Lee,Aye
+4059,2136,Tanner Ainge,Aye
+4060,2136,Nathan Ivie,Aye
+4061,2137,Bill Lee,Aye
+4062,2137,Tanner Ainge,Aye
+4063,2137,Nathan Ivie,Aye
+4064,2138,Bill Lee,Aye
+4065,2138,Ajinge,Aye
+4066,2138,Nathan Ivie,Aye
+4067,2139,Bill Lee,Aye
+4068,2139,Tanner Ainge,Aye
+4069,2139,Nathan Ivie,Aye
+4070,2165,Bill Lee,Aye
+4071,2165,Tanner Ainge,Aye
+4072,2165,Nathan Ivie,Aye
+4073,2166,Bill Lee,Aye
+4074,2166,Tanner Ainge,Aye
+4075,2166,Nathan Ivie,Aye
+4076,2167,Bill Lee,Aye
+4077,2167,Tanner Ainge,Aye
+4078,2167,Nathan Ivie,Aye
+4079,2168,Bill Lee,Aye
+4080,2168,Tanner Ainge,Aye
+4081,2168,Nathan Ivie,Aye
+4082,2169,Bill Lee,Aye
+4083,2169,Tanner Ainge,Aye
+4084,2169,Nathan Ivie,Aye
+4085,2172,Bill Lee,Aye
+4086,2172,Tanner Ainge,Aye
+4087,2172,Nathan Ivie,Aye
+4088,2173,Bill Lee,Aye
+4089,2173,Tanner Ainge,Aye
+4090,2173,Nathan Ivie,Aye
+4091,2174,Bill Lee,Aye
+4092,2174,Tanner Ainge,Aye
+4093,2174,Nathan Ivie,Aye
+4094,2175,Bill Lee,Aye
+4095,2175,Tanner Ainge,Aye
+4096,2175,Nathan Ivie,Aye
+4097,2186,Bill Lee,Aye
+4098,2186,Tanner Ainge,Aye
+4099,2186,Nathan Ivie,Aye
+4100,2187,Bill Lee,Aye
+4101,2187,Tanner Ainge,Aye
+4102,2187,Nathan Ivie,Aye
+4103,2191,Bill Lee,Aye
+4104,2191,Tanner Ainge,Aye
+4105,2191,Nathan Ivie,Aye
+4106,2192,Bill Lee,Aye
+4107,2192,Tanner Ainge,Aye
+4108,2192,Nathan Ivie,Aye
+4109,2193,Bill Lee,Aye
+4110,2193,Tanner Ainge,Aye
+4111,2193,Nathan Ivie,Aye
+4112,2194,Bill Lee,Aye
+4113,2194,Tanner Ainge,Aye
+4114,2194,Nathan Ivie,Aye
+4115,2195,Bill Lee,Aye
+4116,2195,Tanner Ainge,Aye
+4117,2256,William C. Lee,Aye
+4118,2257,William C. Lee,Aye
+4119,2257,Tanner Ainge,Aye
+4120,2257,Nathan Ivie,Aye
+4121,2259,William C. Lee,Aye
+4122,2259,Tanner Ainge,Aye
+4123,2259,Nathan Ivie,Aye
+4124,2260,Bill Lee,Aye
+4125,2260,Tanner Ainge,Aye
+4126,2260,Nathan Ivie,Aye
+4127,2261,Bill Lee,Aye
+4128,2261,Tanner Ainge,Aye
+4129,2261,Nathan Ivie,Aye
+4130,2262,Bill Lee,Aye
+4131,2262,Tanner Ainge,Aye
+4132,2262,Nathan Ivie,Aye
+4133,2263,Bill Lee,Aye
+4134,2263,Tanner Ainge,Aye
+4135,2263,Nathan Ivie,Aye
+4136,2264,Bill Lee,Aye
+4137,2264,Nathan Ivie,Aye
+4138,2265,Bill Lee,Aye
+4139,2265,Tanner Ainge,Aye
+4140,2265,Nathan Ivie,Aye
+4141,2268,Bill Lee,Aye
+4142,2268,Tanner Ainge,Aye
+4143,2268,Nathan Ivie,Aye
+4144,2269,Bill Lee,Aye
+4145,2269,Nathan Ivie,Aye
+4146,2270,Bill Lee,Aye
+4147,2270,Tanner Ainge,Aye
+4148,2270,Nathan Ivie,Aye
+4149,2271,Bill Lee,Aye
+4150,2271,Tanner Ainge,Aye
+4151,2271,Nathan Ivie,Aye
+4152,2272,Bill Lee,Aye
+4153,2272,Tanner Ainge,Aye
+4154,2272,Nathan Ivie,Aye
+4155,2273,Bill Lee,Aye
+4156,2273,Tanner Ainge,Aye
+4157,2273,Nathan Ivie,Aye
+4158,2274,Bill Lee,Aye
+4159,2274,Tanner Ainge,Aye
+4160,2274,Nathan Ivie,Aye
+4161,2276,Bill Lee,Aye
+4162,2285,Nathan Ivie,Aye
+4163,2286,Nathan Ivie,Aye
+4164,2287,Nathan Ivie,Aye
+4165,2288,Nathan Ivie,Aye
+4166,2289,Tanner Ainge,Aye
+4167,2289,Nathan Ivie,Aye
+4168,2295,Bill Lee,Aye
+4169,2295,Tanner Ainge,Aye
+4170,2295,Nathan Ivie,Aye
+4171,2297,Bill Lee,Aye
+4172,2297,Tanner Ainge,Aye
+4173,2297,Nathan Ivie,Aye
+4174,2300,Bill Lee,Aye
+4175,2300,Tanner Ainge,Aye
+4176,2300,Nathan Ivie,Aye
+4177,2301,Bill Lee,Aye
+4178,2301,Tanner Ainge,Aye
+4179,2301,Nathan Ivie,Aye
+4180,2302,Bill Lee,Aye
+4181,2302,Tanner Ainge,Aye
+4182,2302,Nathan Ivie,Aye
+4183,2303,Bill Lee,Aye
+4184,2303,Tanner Ainge,Aye
+4185,2303,Nathan Ivie,Aye
+4186,2305,Bill Lee,Aye
+4187,2306,William C. Lee,Aye
+4188,2306,Tanner Ainge,Aye
+4189,2306,Nathan Ivie,Aye
+4190,2307,William C. Lee,Aye
+4191,2307,Tanner Ainge,Aye
+4192,2307,Nathan Ivie,Aye
+4193,2312,William C. Lee,Aye
+4194,2313,Bill Lee,Aye
+4195,2313,Nathan Ivie,Aye
+4196,2313,Tanner Ainge,Nay
+4197,2314,Bill Lee,Aye
+4198,2314,Tanner Ainge,Aye
+4199,2314,Nathan Ivie,Aye
+4200,2321,Bill Lee,Aye
+4201,2321,Tanner Ainge,Aye
+4202,2321,Nathan Ivie,Aye
+4203,2326,Bill Lee,Aye
+4204,2326,Tanner Ainge,Aye
+4205,2335,Bill Lee,Aye
+4206,2335,Tanner Ainge,Aye
+4207,2336,Bill Lee,Aye
+4208,2336,Tanner Ainge,Aye
+4209,2406,Tanner Ainge,Aye
+4210,2406,Bill Lee,Aye
+4211,2406,Nathan Ivie,Aye
+4212,2407,Bill Lee,Aye
+4213,2407,Tanner Ainge,Aye
+4214,2407,Nathan Ivie,Aye
+4215,2408,Bill Lee,Aye
+4216,2408,Tanner Ainge,Aye
+4217,2408,Nathan Ivie,Aye
+4218,2409,Bill Lee,Aye
+4219,2409,Tanner Ainge,Aye
+4220,2409,Nathan Ivie,Aye
+4221,2410,Bill Lee,Aye
+4222,2410,Tanner Ainge,Aye
+4223,2410,Nathan Ivie,Aye
+4224,2411,Tanner Ainge,Aye
+4225,2411,Nathan Ivie,Aye
+4226,2411,Bill Lee,Nay
+4227,2412,Bill Lee,Aye
+4228,2412,Tanner Ainge,Aye
+4229,2412,Nathan Ivie,Aye
+4230,2413,Bill Lee,Aye
+4231,2413,Tanner Ainge,Aye
+4232,2413,Nathan Ivie,Aye
+4233,2415,Bill Lee,Aye
+4234,2415,Tanner Ainge,Aye
+4235,2415,Nathan Ivie,Aye
+4236,2416,Bill Lee,Aye
+4237,2626,Nathan Ivie,Aye
+4238,2626,Tanner Ainge,Aye
+4239,2626,William C. Lee,Nay
+4240,2638,Tanner Ainge,Aye
+4241,2638,Nathan Ivie,Aye
+4242,2638,William C. Lee,Nay
+4243,2681,Tanner Ainge,Aye
+4244,2681,Nathan Ivie,Aye
+4245,2681,William C. Lee,Nay
+4246,2877,William C. Lee,Nay
+4247,3216,Tanner Ainge,Aye
+4248,3216,Nathan Ivie,Aye
+4249,3216,William C. Lee,Nay
+4250,3269,William C. Lee,Aye
+4251,3269,Nathan Ivie,Aye
+4252,3269,Tanner Ainge,Aye
+4253,3270,William C. Lee,Aye
+4254,3270,Nathan Ivie,Aye
+4255,3270,Tanner Ainge,Aye
+4256,3271,William C. Lee,Aye
+4257,3271,Nathan Ivie,Aye
+4258,3271,Tanner Ainge,Aye
+4259,3272,William C. Lee,Aye
+4260,3272,Nathan Ivie,Aye
+4261,3272,Tanner Ainge,Aye
+4262,3686,Tanner Ainge,Aye
+4263,3686,Nathan Ivie,Aye
+4264,3686,William C. Lee,Nay
+4265,3687,William C. Lee,Aye
+4266,3687,Nathan Ivie,Aye
+4267,3687,Tanner Ainge,Nay
+4268,3688,William C. Lee,Aye
+4269,3688,Nathan Ivie,Aye
+4270,3688,Tanner Ainge,Nay
+4271,3789,William C. Lee,Aye
+4272,3789,Sakievich,Aye
+4273,3789,Tanner Ainge,Nay
+4274,3827,William C. Lee,Aye
+4275,3827,Tanner Ainge,Nay
+4276,3828,William C. Lee,Aye
+4277,3828,Tanner Ainge,Nay
+4278,3857,William C. Lee,Aye
+4279,3857,Tanner Ainge,Nay
+4280,3858,William C. Lee,Aye
+4281,3858,Tanner Ainge,Nay
+4282,3922,William C. Lee,Aye
+4283,3922,Sakievich,Aye
+4284,3922,Tanner Ainge,Nay
+4285,3951,William C. Lee,Aye
+4286,3951,Tanner Ainge,Aye
+4287,3951,Sakievich,Nay
+4288,4395,Sakievich,Aye
+4289,4395,William C. Lee,Aye
+4290,4395,Gardner,Nay
+4291,4440,Gardner,Aye
+4292,4440,Sakievich,Aye
+4293,4440,William C. Lee,Nay
+4294,4573,William C. Lee,Aye
+4295,4573,Sakievich,Aye
+4296,4747,William C. Lee,Aye
+4297,4747,Sakievich,Nay
+4298,4962,Gardner,Aye
+4299,4962,William C. Lee,Aye
+4300,4962,Sakievich,Nay
+4301,5387,William C. Lee,Aye
+4302,5387,Sakievich,Aye
+4303,5387,Gardner,Nay
+4304,6645,Sakievich,Aye
+4305,6645,William C. Lee,Aye
+4306,6645,Powers Gardner,Nay
+4307,6702,Sakievich,Aye
+4308,6702,Powers Gardner,Aye
+4309,6702,William C. Lee,Nay
+4310,6729,Powers Gardner,Aye
+4311,6729,William C. Lee,Aye
+4312,6729,Sakievich,Nay
+4313,6796,Gordon,Aye
+4314,6796,Powers Gardner,Aye
+4315,6796,Sakievich,Nay
+4316,7767,Sakievich,Aye
+4317,7767,Gordon,Aye
+4318,7767,Powers Gardner,Nay
+4319,7799,Sakievich,Aye
+4320,7799,Gordon,Aye
+4321,7799,Powers Gardner,Nay
+4322,7874,Gordon,Aye
+4323,7874,Powers Gardner,Nay

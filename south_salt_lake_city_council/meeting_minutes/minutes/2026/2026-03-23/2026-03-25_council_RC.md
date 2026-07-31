@@ -1,0 +1,311 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_03252026-635
+> Meeting date: 2026-03-25
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 03252026-635 | label: Council WM Meeting 2026-03-25 | date: 2026-03-25 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_03252026-635 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                            Wednesday March 25, 2026
+                                                           7:00 p.m.
+
+CITY OFFICES                                               220 East Morris Avenue
+                                                           South Salt Lake, Utah 84115
+
+PRESIDING:                                                 Council Chair Sharla Bynum
+
+CONDUCTING:                                                Sharla Bynum
+
+PLEDGE OF ALLEGIANCE :                                     Irvin Jones
+
+SERGEANT AT ARMS:                                          Carson Aprato, Spencer Redden
+
+COUNCIL MEMBERS PRESENT:
+      Joy Glad, Sharla Bynum, Irvin Jones,
+      Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      Corey Thomas, Nick Mitchell
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Jared Christensen, Deputy Fire Chief
+       Anthony Biamont, Parks Project Manager
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Matt Robins, Executive Assistant
+       Spencer Redden, Police Officer
+       Carson Aprato, Police Sergeant
+       Joy Manwiller, Deputy Finance Director
+       Eliza Ungricht, Community Development Deputy Director
+       Spencer Cawley, Senior Planner
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      February 25th, Work Meeting
+      February 25th, Regular Meeting
+      March 11th, Work Meeting
+      March 11th, Regular Meeting
+
+
+                                             1
+South Salt Lake – Regular Council Meeting                                          March 25, 2026
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Joy Glad
+
+Voice Vote:
+Glad:             Yes
+Thomas:           Absent
+Bynum:            Yes
+Mitchell:         Absent
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—April 15th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake business owner, Jeffrey Popp, expressed frustration and concerns
+          with the Transportation Utility Fee.
+
+              Business representative, Tamra Burton, expressed concerns with the Transportation
+              Utility Fee.
+
+              South Salt Lake business resident, Leslie Jones, expressed disappointment at an
+              apparent lack of interest from the Council regarding the nation’s 250th anniversary
+              and emphasized the importance of celebrating and honoring the heritage of those
+              who fought for the country.
+
+              South Salt Lake business owner, Jonathan Hertel, expressed frustration and
+              concerns with the Transportation Utility Fee.
+
+              South Salt Lake business owner, Randy Schoeck, expressed frustration and concerns
+              with the Transportation Utility Fee.
+
+              South Salt Lake business owner, Joel Johnson, expressed frustration and concerns
+              with the Transportation Utility Fee.
+
+              South Salt Lake business owner, Glen Borst, expressed frustration and concerns with
+              the Transportation Utility Fee.
+
+              South Salt Lake business owner, Mike Katsanevas, expressed frustration and
+              concerns with the Transportation Utility Fee.
+
+              South Salt Lake business owner, Lexi Katsanevas, expressed frustration and concerns
+              with the Transportation Utility Fee.
+
+
+                                                 2
+South Salt Lake – Regular Council Meeting                                        March 25, 2026
+
+
+           South Salt Lake business owner, Ted Sargetakis, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Frank Coon, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Sam Plum, expressed frustration and concerns with
+           the Transportation Utility Fee.
+
+           South Salt Lake business owner, Scott Romney, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Garrity Repta, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Alex Knight, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Derek Mortensen, expressed frustration and
+           concerns with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Mark Malouf, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Jim Keech, expressed frustration and concerns with
+           the Transportation Utility Fee.
+
+           South Salt Lake business owner, Chris Mantes, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+           South Salt Lake business owner, Matt Walford, expressed frustration and concerns
+           with the Transportation Utility Fee.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood thanked the business owners for sharing their concerns. The Mayor
+          then advised residents to delay watering their lawns until May to encourage deeper
+          root growth and conserve water during unexpected hot weather. Additionally, the
+          Mayor announced that the City's Junior Jazz program won the "Best Program of
+          2025" award at the state convention, which included a $2,500 grant that would be
+          reinvested to keep the youth program affordable.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member deWolfe acknowledged the public feedback regarding the TUF and
+          committed to reviewing the Ordinance with the City administration, conceding that
+          the Council may not have gotten it right initially, and asked for the public's patience
+                                               3
+South Salt Lake – Regular Council Meeting                                          March 25, 2026
+
+
+             during the review process.
+
+             Council Member Glad thanked the public for their courage in speaking out. The
+             Council Member emphasized a belief in continuous improvement and expressed
+             hope that the Council could evaluate and improve the situation in the near future.
+
+             Council Chair Bynum echoed gratitude for the public attendance and explained that
+             the Council's original intent with the TUF was to exercise long-term vision regarding
+             infrastructure and road maintenance. Council Chair Bynum committed to revisiting
+             the fee structure with the administration and fellow Council Members.
+
+Action Items
+Unfinished Business
+    1. A Resolution of the South Salt Lake City Council Adopting a South Salt Lake Parks Plan.
+        Parks Project Manager, Anthony Biamont, presented the resolution to adopt the
+        updated South Salt Lake Parks Plan.
+
+        The plan has been in development for nearly two years and was previously presented to
+        the Council as a broad overview. It is being presented as an advisory resolution rather
+        than an ordinance because it acts as a master plan and does not directly alter
+        development codes or ordinances. The plan provides recommendations for developing
+        partnerships with other agencies, creating new park programming, improving public
+        access, and enhancing communication and progress monitoring.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Resolution
+
+
+MOTION: Clarissa Williams
+SECOND: Ray deWolfe
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Absent
+Bynum:            Yes
+Mitchell:         Absent
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+    2. An Ordinance of the South Salt Lake City Council Amending Section 17.03.230 of the
+       South Salt Lake Municipal Code to Amend and Update the Tracy Aviary Jordan River
+       Nature Center (JRNC) District.
+       Community Development Deputy Director, Eliza Ungricht, gave a review of the proposed
+       Ordinance that would allow the use of a permeable surface (specifically gravel) for an
+       overflow parking lot.
+
+
+                                                 4
+South Salt Lake – Regular Council Meeting                                         March 25, 2026
+
+
+        The matter was discussed at a previous Work Meeting. The Council Members had no
+        additional questions or concerns.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance.
+
+
+MOTION: Clarissa Williams
+SECOND: Ray deWolfe
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Absent
+Bynum:            Yes
+Mitchell:         Absent
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+    3. An Ordinance of the South Salt Lake City Council Amending Section 17.10.120 of the
+       South Salt Lake City Municipal Code to Establish a Standard Road Profile for 600 West
+       from 2100 South to 2890 South.
+       Senior Planner, Spencer Cawley, gave a review of the proposed Ordinance that would
+       amend the standard road profile and maintain consistency for any future development.
+
+        The matter was discussed at a previous Work Meeting. The Council Members had no
+        additional questions or concerns.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance
+
+
+MOTION: Clarissa Williams
+SECOND: Joy Glad
+
+Roll Call Vote:
+Glad:             Yes
+Thomas:           Absent
+Bynum:            Yes
+Mitchell:         Absent
+Jones:            Yes
+Williams:         Yes
+deWolfe:          Yes
+
+
+
+
+                                               5
+South Salt Lake – Regular Council Meeting                             March 25, 2026
+
+
+
+
+       Council Member deWolfe made a motion to Adjourn.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Voice Vote:
+Glad:          Yes
+Thomas:        Absent
+Bynum:         Yes
+Mitchell:      Absent
+Jones:         Yes
+Williams:      Yes
+deWolfe:       Yes
+
+
+
+       The meeting adjourned at 7:45 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            6

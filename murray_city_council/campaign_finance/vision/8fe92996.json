@@ -1,0 +1,46 @@
+{
+  "contributions": [
+    {"date": "06/26/2021", "name": "Dale Cox Jann Cox", "amount": "100.00", "in_kind": false},
+    {"date": "07/02/2021", "name": "Elnora Ferrero", "amount": "100.00", "in_kind": false},
+    {"date": "09/02/2021", "name": "Sherryl & Matt Cowley", "amount": "100.00", "in_kind": false},
+    {"date": "07/05/2021", "name": "Dallas & Sallie DiFrancesco", "amount": "30.00", "in_kind": false},
+    {"date": "07/10/2021", "name": "Lester & Brenda Deering", "amount": "50.00", "in_kind": false},
+    {"date": "07/12/2021", "name": "Ed & Carol Hansen", "amount": "10.00", "in_kind": false},
+    {"date": "08/02/2021", "name": "Michael Henrie", "amount": "50.00", "in_kind": false},
+    {"date": "10/12/2021", "name": "Drew & Cathie Pearson", "amount": "20.00", "in_kind": false},
+    {"date": null, "name": "Dividends on checking account", "amount": "0.12", "in_kind": false},
+    {"date": null, "name": "Pam & Bill Cotter", "amount": "2,305.74", "in_kind": false},
+    {"date": null, "name": "Chris Van Buskirk", "amount": "12.17", "in_kind": true},
+    {"date": null, "name": "Dale & Jann Cox", "amount": "500.00", "in_kind": true},
+    {"date": null, "name": "Chris Van Buskirk", "amount": "800.00", "in_kind": true},
+    {"date": null, "name": "Dale & Jann Cox", "amount": "10.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Fast Signs", "purpose": "Signs", "amount": "1,749.92", "in_kind": false},
+    {"date": null, "recipient": "SLCo Surveyor's office, Ut", "purpose": "map", "amount": "21.95", "in_kind": false},
+    {"date": null, "recipient": "Amazon.Com", "purpose": "parade Candy", "amount": "19.97", "in_kind": false},
+    {"date": null, "recipient": "Amazon.Com", "purpose": "parade Candy", "amount": "34.96", "in_kind": false},
+    {"date": null, "recipient": "Home Depot", "purpose": "Zip ties", "amount": "27.24", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake County Clerk", "purpose": "Voter Lists", "amount": "15.00", "in_kind": false},
+    {"date": null, "recipient": "Brand Slanted Sign Holder", "purpose": "", "amount": "17.82", "in_kind": false},
+    {"date": null, "recipient": "Murray Recorders Passport", "purpose": "", "amount": "95.00", "in_kind": false},
+    {"date": null, "recipient": "Minuteman Press", "purpose": "door hangers", "amount": "340.98", "in_kind": false},
+    {"date": null, "recipient": "Journal", "purpose": "Ad", "amount": "400.00", "in_kind": false},
+    {"date": null, "recipient": "8 1/2 x 11 District Maps for IHOP", "purpose": "", "amount": "24.25", "in_kind": false},
+    {"date": null, "recipient": "Meet the Candidate Night Candy", "purpose": "", "amount": "13.77", "in_kind": false}
+  ],
+  "total_contributions": "2,765.86",
+  "total_expenditures": "2,760.86",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "5.00",
+  "_meta": {
+    "index_path": "raw/202110_Pamela-J-Cotter_12492.pdf",
+    "candidate": "Pamela J. Cotter",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202110_Pamela-J-Cotter_12492.pdf",
+    "pages": 6
+  }
+}

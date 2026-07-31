@@ -1,0 +1,487 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12122022-646
+> Meeting date: 2022-12-12
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2022-12-12
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12122022-646
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                  Minutes            of the
+                                                                                         Mfflcreek            City       Council
+                                                                                           December                12,    2022
+                                                                                                       5:00       p.m.
+                                                                                                  Work        Meeting
+                                                                                                       7:00       p.m.
+                                                                                             Regular              Meeting
+
+
+
+
+The City        Council         of Millcreek,              Utah,    met in a public         work       meeting           and regular        meeting       on
+December         12, 2022,           at City        Hall,    located     at 3330 S. 1300 E., Millcreek,                         UT 84106.           The meeting
+was live streamed               via the City's              website     with     an option        for online          public        comment.
+
+
+PRESENT:
+
+
+Council        Members                                                           City     Staff
+Jeff Silvestrini,           Mayor                                                Francis     Lilly,       Assistant          City    Manager
+Silvia      Catten,     District         1 (electronic       5:14-6:00pm)        Elyse     Sullivan,          City    Recorder
+Thom        DeSirant,         District        2                                  Mike      Winder,         City      Manager
+Cheri      Jackson,       District        3                                      John Miller,          Public        Works          Director
+Bev Uipi,        District       4                                                Kurt     Hansen,          Facilities        Director
+                                                                                 Rita Lund,           Communications                  Director
+                                                                                 John Brems,           City       Attorney
+                                                                                 Laurie     Johnson,          HR-Finance              Director      (electronic)
+                                                                                 Robert      May,      Long          Range      Planner
+                                                                                 Katie     Larsen,        Plaru'ier
+                                                                                 Fred Lutze,          Deputy          City     Engineer
+                                                                                 Sean Murray,             Planning           Admin.       Asst.
+                                                                                 Sofia Linskey,             GIS Intern
+
+
+Attendees:            Commissioner                Ryan Luflcin,         Commissioner               Molly       Enos,      Kaleb        Claypool,      Angel
+Vice,      Mitchell       Vice,      Eric McKenna                  Spreng,     Jeff Miles,        Chief      Duane        Woolsey,          Chief    Steve
+DeBry
+
+
+WORK          MEETING                - 5:00 p.m.
+TIME        COMMENCED                         - 5:02 p.m.
+
+
+Mayor       Silvestrini        called         the meeting          to order.
+
+
+1. Mfflcreek           Arts     Council            Presentation;          Mitchell        Vice
+Mitchell      Vice      introduced            the art council          board members               Kate Scribner,              Rachel      Becker,      Skyler
+VornDorp,         Kaleb        Claypool,           Eric McKenna              Spreng,      and Angel           Vice.      He acknowledged                the
+donations the council                had received from various                       sources       totaling       over $17,000 with                 $13,500        paid
+to artists,    and a 2023 ZAP                     grant for $3,800.          There       were nine Summer                    Jam in the Park
+performances            with      roughly          2,500     attendees,        and it cost $7,460.             He highlighted              the Getting         Visual
+at the Library          which       started        in November           2021 and included                 92% Millcreek                artists.    They were
+Millcreek         City        Council          Meeting       Minutes                                    12 December                2022        Page 2 of 9
+
+
+
+free and accessible                shows        all month         long in partnership            with     Salt Lake          County        and cost $440.
+The Millcreek              Arts Fest included                over 65 local        artists,     11 stage performers,                   food trucks,         Venture
+Out activities,           over 4,000            attendees,      and cost $9,554.              Vice     showed           slideshows         of pictures        from
+the events. The Arts                   Council      was excited         about what they had accomplished                                 and would       continue
+to strive      for a performing                 and practicing         arts center,        paid directorial              staff, public        art installations
+throughout            the city,       artist residencies,           and mural       festivals.        They wanted              to have Millcreek              attract
+artists     and generate              revenue      from      art lovers,      art tourists,         and art collectors             from     around       the state
+and across the globe.                   Mayor       Silvestrini       commended             the council          for the wonderful               events.
+
+
+2. Historic           Preservation              Commission           Update;        Molly        Enos,      Commission                Chair      and Francis
+Lffly,     Assistant           City     Manager
+Francis       Lilly     requested         the commission              remark      on what they had accomplished                             during      the last
+six months.           He acknowledged                 that Sean Murray              had done a lot of work                     with      the commission             and
+would       be promoted               within      the Planning         and Zoning          Department.            Molly          Enos presented          a
+timeline       of the commission's                   development            and meetings,            and an organization                  chart of the
+cornrnissioners               and staff. The commission's                     sub committees              represented            the commission's              three
+primary       focus goals:             historic     properties        and markers,           community            awareness           and events,          and
+records       collection          and preservation.             They    developed            a strategic       plan with          the goals of 1)
+identifying           additional        historic     sites in Millcreek,            2) building           awareness          in the community                 around
+Millcreek's           historical        legacy,      and 3) creating           and maintaining             a lasting         and accessible            repository
+of historical          information             for the benefit       of Millcreek            residents.        Other      achievements            included:
+established           subcommittees               and a calendar           of meetings         and actions             to implement           a strategic      plan;
+obtained       Certified          Local        Government          status from       the National           Parks         Service,       which       allows
+Millcreek        residents            and the Historic          Preservation         Commission             to access grant               fiinding      and tax
+credits      related     to preserving             historical       sites and increasing              awareness           about our history;             and
+identified       51 potential            sites and three neighborhoods                       for possible         recognition            as significant
+historical       resources            within      the community.            New     sites include          a mixture           of commercial,
+institutional,          and residential            sites from the 1850s             to the 1960s,           reflecting           a diversity         of styles    and
+eras in Millcreek's                development.
+
+
+Mayor        Silvestrini        asked what the three neighborhoods                             were. Lilly             said Veteran        Heights,        Rancho
+Villa,     and Mountaire               Acres.      Enos noted that the commission                         would          apply     for a grant from           the
+State Historic           Preservation             Office     in 2023 for one of the neighborhoods                              to get a reconnaissance
+survey.      They       also wanted             to implement          an online      record         archive,      Preservica.            She presented           an
+annual       timeline         and process          for the commission's                  actions.     Mayor        Silvestrini        asked about public
+engagement             with     residents         of the historic       neighborhoods.               Enos said there would                   be periodic
+articles     in the Millcreek              newsletter         and open houses.               Mayor      Silvestrini         suggested          taking      the open
+house to the neighborhoods
+
+
+Lilly     added that there was departmental                           budgeting          for the Preservica               site. He recommended                   the
+council      review        the Cottonwood                Height's      website       as an example.              Lilly     would         like a budget         for the
+commission.             Council         Member        Uipi      asked about grant funding.                     Lilly     noted     there was some, but it
+often required           a match.         Ryan Lufkin,             cornrnission          vice chair,      said the commission                   prioritized         the
+Preservica        website          launch       because       the 51 identified            locations       could be acknowledged                       on it which
+could      increase       public        engagement.           Mayor        Silvestrini       requested         more newsletter              articles     from       the
+commission.             Council         Member        Uipi      suggested       an arts or historic             treasure         hunt.
+
+
+3. 2023-2024            Long          Range       Planning         Goals     Update;         Robert        May,         Long      Range        Planner
+ Millcreek          City     Council         Meeting          Minutes                                  12 December                2022       Page 3 of 9
+
+
+
+ Robert       May presented              eight tasks to the council                with      suggested         levels     of priority       and related
+ timelines.      The tasks were to complete                        and adopt the Millcreek/Murray                          Station        Area Plans,
+ complete        and adopt the Millcreek/South                          Salt Lake Station             Area Plans, create and adopt a
+ sidewalk       and trails      master         plan, create and adopt an engineering                           design      manual,          create and adopt
+ a street light        masterplan,           update      the zoning           and future      land use map, update                  and develop             a ditch
+ and canal map, and organize                        an ongoing          planning      and zoning          matters        meeting         that is directed            at
+ the public to help answer questions, describe                                  learning     tools,     and explain         future        projects.      He gave
+ a brief summary of each of the tasks.
+
+
+ Council       Member         DeSirant             asked what would             be addressed          in the street light               master plan. Fred
+Lutze      said it would            address the lighting               standard,     height,      type, and features.               Mayor         Silvestrini
+noted there were advantages                         to working         with     the canal companies.               Council         Member          Jackson
+liked      the idea of public            plaru'iing      meetings         and suggested           plaru'ied      topics     every month              and
+publishing          the schedule            in advance.        Mayor       Silvestrini        suggested         those meetings             not be limited                to
+planning        matters.       Council         Member         Uipi     emphasized           transparency          with     the public.
+
+
+Council        Member         Catten        noted the county             had recently         completed          a sidewalk             plan when the city
+incorporated           and asked if it would                  be used. Lutze         said the city did not adopt the Walk                             Millcreek
+Guide        created       in 2015.      He hoped         to use most of the information                       from      it and incorporate              trail
+master       planning        with     it. He noted there would                   be flow      charts in the engineering                    design manual.
+May      said he had been working                      with    the GIS intern,            Sofia Linskey,          on creating             sidewalk       and trail
+maps, which            he showed            to the council.          The updated           development           policy      would        preserve         areas for
+existing       and future       trails       and connections,            create guidance              for new and infill            development              that
+accommodates               proposed          routes     and connections,             and update         a policy        for sidewalk          exceptions
+and defenals.           May     suggested            a sidewalk         and trails      map book         by community               council        district.
+Council       Member          Uipi     asked if May            had considered              the list of sidewalk            repairs        from     the
+community           councils         and the city's           50/50     sidewalk        program.        Lutze     said the first step would                      be to
+address issues with             development               and a program            to get sidewalks             in. He said some things                     were
+time sensitive          and there needed to be a priority                         system.      May      said some neighborhoods                       did not
+have sidewalks              because         deferral     agreements           were in place from               sidewalk         exceptions.         Some
+suggested        potential      partners           to work      with    were canal companies,                   Murray          City,     Salt Lake City,
+Salt Lake County,              Utah Transit             Authority,        Seven Canyons               Trust,    Trails     Utah,         Jordan     River
+Commission,             and Boru'ieville             Shoreline        Board.
+
+
+Lilly    thanked        May     for his long range planning                      work.      Mayor       Silvestrini        acknowledged               May's
+creativity      and dedication.              May noted          the city applied            for a grant to develop                 a trails masterplan.
+
+
+4. Planning          Matter         First     Reading:          ZM-22-011,           Request          to Amend           a Development
+Agreement           Associated              with     an Approved              Rezone,       ZM-21-003,            to Reconfigure                 a Multi-
+Family        Project       Site Plan         at 4080-4090             Highland          Drive;     Katie       Larsen,         Planner
+Katie      Larsen      said the project             was approved          to be a mixed-use              planned         unit     development            (PUD)
+consisting       of seven residential                  townhomes         and four live/work              units.     The applicant             was now
+proposing        to change          the layout,         density,       and design        of the site which              required         an amendment               to
+the existing        development              agreement.         The development               would       be changing             by way of site plan
+configuration,          decreased           density      (loss of one unit)          and new commercial                    space configuration                   (as
+per code 19.60.060).                 The development's                 design      would      be changing          in color,        textures,       material,
+and height.         She showed           the council          renderings         of the previously             approved          project     frontage,
+building      characteristics,              and side profile           and the proposed            ones. The Millcreek                   Community
+Millcreek        City      Council      Meeting         Minutes                                    12 December            2022        Page 4 of 9
+
+
+
+Council       and Plaru'iing         Commission          both unanimously                 recommended            approval        of the changes.
+Larsen      highlighted        the following          staff findings:
+  1. The new proposal                is for 8 residential          townhomes             and two live-work             units.
+  2. The previous            proposal      was for 7 residential               townhomes            and 4 live-work          units.
+  3. Height        is being      reduced      from     40' to 30-32'.           (16.60.060:20)
+  4. The development                 agreement        would      be amended            by replacing          Exhibit     C with       revised      plans.
+  5. The new proposal                complies        with     current       C-2 code.
+  6. The proposal            meets parking           requirements            stipulated        in 19.80,     covering       both the need for
+        residential       guest parking         and for those utilizing               the business          space onsite
+  7. The site plan must be clear regarding                          established         parking       spots.
+  8. The updated            site plan must satisfy              all other criteria         of the development               agreement.
+        "Developer         shall plant      a minimum            of 6 trees no less than two inches                      in caliper        along the
+        west property         line. Trees along west property                     must be columnar               birch     or poplar."
+She concluded             that the amended           plan suited        the goals of the underlying                    zone and mixed-use
+designation,          and she recommended                   approval      of the application.
+
+
+Council      Member         DeSirant       asked why the site was redesigned.                          Nathan     Anderson,           applicant,      said
+the configuration           of the front        of the commercial              would       front     Highland      Drive        oriented      east-west
+and instead        of north-south.         The new configuration                     seemed to be more user friendly.
+
+
+5. Staff     Reports
+Mike      Winder       said the ice skating           had been successful                 at Millcreek         Common.          He said Millcreek
+Coffee      Roasters       signed     their lease for a shop in the new city hall.                           The sixth      floor    would      soon be
+poured      at the new city hall. The climbing                     wall      operation         request      for proposals        and the Highland
+Drive      property       request     for proposals          were due that week.               The demolition            of the Wilford            Ward
+would      take place that week.              Council        Member         Jackson       asked about souvenir              bricks       for nearby
+residents.      Mayor       Silvestrini       noted the condition              of the sale of the property                was that the existing
+building      be demolished.           He reported           the Millcreek           Common          skate loop had generated                 more than
+$24,000       in the first four days of opening                   ice skating         on December             ls'. Winder        noted     the goal with
+Millcreek       Coinrnon         was to build        it with     tax increment            and grants         and to operate         it as self-
+sustaining.      Council       Member         Jackson        asked if the design               of the plaza had worked                as intended.
+Winder       said on big snowstorms                there was not enough                   capacity       for snow pile up, they needed
+more      adult sized skates, and needed more Zamboni                                 drivers.     Winder       said city hall opening              would
+be based on Granite              School     District's        openings        with     respect      to snow days. There               would     be a
+holiday      staff party that week.             He said city officials               would       be attending      a breakfast           for Millcreek
+Common         receiving       the Parks & Plaza Award                      for Utah Construction               & Design         Magazine's          Most
+Outstanding         Projects        for 2022.
+
+
+6. Discussion           of Agenda         Items,     Correspondence,                  and/or       Future      Agenda       Items
+Mayor       Silvestrini      proposed       the council         not meet again until                January     and not have a second
+meeting      in December.            He wondered             about holding           council       meeting      on January          I@thinstead      of
+January      9Ih. The council          was okay with            the change.
+
+
+Council       Member          DeSirant        moved         to adjourn         the work          meeting       at 6:28 p.m.          Council
+Member         Jackson        seconded.         Mayor         Silvestrini       called       for the vote.       Council         Member
+DeSirant        voted      yes, Council         Member           Jackson        voted      yes, Council          Member           Uipi     voted    yes,
+and Mayor          Silvestrini        voted     yes. The motion               passed       unanimously.
+Millcreek         City     Councn          Meeting         Minutes                                   12 December              2022     Page 5 of 9
+
+
+
+
+REGULAR              MEETING                - 7:00 p.m.
+TIME        COMMENCED:                       7:01 p.m.
+
+
+1. Welcome,            Introduction            and Preliminary                Matters
+            1.1 Pledge           of Allegiance
+            Mayor         Silvestrini       called      the meeting         to order and led the pledge                  of allegiance.
+
+
+            1.2 Public         Comment
+            There        were no comments.
+
+
+            1.3 Unified          Police      Department             Millcreek          Precinct         Officer       of the Month        for
+            November             2022
+            Chief      Steve DeBry            announced           Officer      Steven      Ivan as Officer            of the Month       for November
+            2022.      Officer      Ivan pulled           over a vehicle         in which       a stolen handgun              and drugs      were
+
+            recovered,         and dangerous              individuals         were arrested.
+
+
+Council         Member         DeSirant         moved         to reorder         the agenda          to have 3.1 be the next                order       of
+business.        Council        Member          Uipi      seconded.          Mayor        Silvestrini        called      for the vote.      Council
+Member          DeSirant         voted       yes, Council          Member           Jackson         voted      yes, Council          Member          Uipi
+voted     yes, and Mayor                 Silvestrini       voted     yes. The motion                passed        unanimously
+
+
+3. Financial        Matters
+            3.1 Presentation               of FY 2021-22             Audit;       Jeff Miles,        HBME
+            Jeff Miles        presented        the FY 2021-22               audit to the council.             He read from           the report, "In          our
+            opinion,       the accompanying                 financial       statements       present        fairly,    in all material      respects,
+            the respective          financial          position    of the governrnental                 activities,    the business-type
+            activities,      each major          fund,      and the aggregate             remaining          fund infon'nation          of the City,          as
+            of June 30, 2022,              and the respective               changes       in financial       position,      and where       applicable,
+            cash flows         thereof       for the year then ended in confon'nity                          with     accounting       principles
+            generally        accepted        in the United          States of America."
+
+
+            Miles    reviewed            the financial       highlights:
+            *    Thetotalnetpositionofthecityincreasedfrom$177,603,465to$207,503,365.The
+                 total net position           is a combination              of $185,939,381              from     governmental          activities      and
+                 $21,563,984             from business-type              activities.
+            *    The total net position                 of governmental            activities       is made up of $135,663,957                  in capital
+                 assets, such as land, infrastructure                       and equipment;              $35,882,421         which     is restricted          for
+                 capital     projects       and the remaining               $14,393,003           is unrestricted         assets.
+            *    Thetotalnetpositionofbusiness-typeactivitiesismadeupof$l8,906,102incapital
+                 assets, such as equipment                   and infrastructure             and $2,657,882             wich      is considered
+                 unrestricted        assets.
+            *    Total     liabilities      of the City       increased         by $33,998,941.              This increase       is due to the City
+                 issuing      sales tax revenue             bonds       for the purpose           of building         a new city hall, which
+                 added $38,354,265               in non-current             liabilities     while       unearned       revenue       decreased
+Millcreek          City     Council          Meeting        Minutes                                    12 December                2022       Page 6 of 9
+
+
+
+                   $3,989,561,            due to utilizing       federal          funds     which     had been deferred               in fiscal         year 2021.
+                Additionally,               the net pension           liability     decreased         by $97,317.
+
+
+            Miles      showed             the council     the changes in net position.                       He presented           that internal        controls
+            were without              material        deficiencies.        There      were no findings                with    respect      to general          state
+            compliance              requirements          for: budgetary            compliance,          fraud risk assessment,                   governrnent
+            fees, fund balance,                restricted     taxes and related                 revenues,       and cash management.                     The
+            council        thanked          Jeff Miles      and Laurie            Johnson.
+
+
+2. Planning           Matters
+            2.1 Discussion                 and Consideration                of Ordinance              22-50,     Adopting           the Local           Link
+            Circulation              Study      as an Element             of the Mincreek                General         Plan
+            Francis        Lilly      said the study was done in partnership                           with      Salt Lake        City,     South Salt Lake,
+            and Holladay              with     the support       of the Wasatch               Front     Regional         Council.         The goal of the
+            study was to increase                  active     transportation              opportunities,         pedestrian         circulation,         and new
+            transit       opportunities          along 1300 E. and Highland                         Drive.     The adoption            of the plan would
+            help to enforce                new right-of-way            and development                standards.         He pointed          out an appendix
+            that Millcreek                staff added to the study that described                        the right-of-way             cross section            for
+            Highland          Drive        in Millcreek.       He noted Highland                    Drive      changes        depending       on the
+            location.        He said appendices               were added to both regional                        studies       to add absolute            clarity
+            for Millcreek.
+
+
+Council       Member               DeSirant       moved       to adopt            Ordinance          22-50.      Council          Member          Jackson
+seconded.          The Recorder                called     for the vote.           Council        Member          DeSirant           voted    yes, Council
+Member         Jackson             voted     yes, Council        Member              Uipi     voted      yes, and Mayor               Silvestrini         voted
+yes. The motion               passed         unanimously
+
+
+            2.2 Discussion                 and Consideration               of Ordinance               22-51,     Adopting           the 3300 S Corridor
+            Study         as an Element               of the Millcreek             General        Plan
+            Francis        Lilly      said that South         Salt Lake City               and Millcreek          collaborated            on the future          of
+            3300 S. The biggest                  change to the roadway                    was a shared use path on the north                            side of the
+            street from            I-15 to I-215.        The cross sections                 were from         I-15 to State Street,            State Street to
+            2700 E., and 2700 E. to I-215.                      Lilly       noted UDOT              was also involved               in the study since
+            they own 3300 S. Staff added an appendix                                   to this plan on how               the cross sections               would
+            be applied         in Millcreek.            By adopting           this plan, the city would                 be amending           the cross
+            sections        for 3300         s., and it would           give staff and developers                     direction      on how to design
+            the interface            between       the public         realm       and the private            realm.    The additional             right-of-way
+            would         give space and capacity                to solve          some problems              on 3300 S. From               State Street to I-
+            2I5,      there would            be a 100 foot cross section.                   Staff recommended                  amending           the
+            dimensions              stated in the Transportation                   Master       Plan to what was indicated                    in the staff
+            recornrnended                 appendix.      Fred Lutze         said the study gave a range                      and the appendix              defined
+            the requirements                 for Millcreek.      Mayor            Silvestrini       thanked       staff for their work.
+
+
+Council      Member                Uipi    moved        to approve         item      2.2. Council            Member           DeSirant        seconded.
+The Recorder               called         for the vote.      Council          Member            DeSirant        voted        yes, Council          Member
+Jackson       voted        yes, Council           Member         Uipi       voted      yes, and Mayor                 Silvestrini         voted     yes. The
+motion      passed         unanimously.
+Mfflcreek           City     Council         Meeting              Minutes                                            12 December                  2022          Page     7 of 9
+
+
+
+4. Business          Matters
+            4.1 Discussion                and      Consideration                   of Ordinance                    22-49,        Adopting             Millcreek's            2023
+            Regular           Meetings            Schedule
+            Staff      recoinmended                the schedule                 be adopted              as-is,    then      any changes               could      take place
+            throughout            the year         as needed.
+
+
+Council       Member              Uipi     moved          to approve               item          4.1,     adopting          the 2023           meeting           schedule.
+Council       Member              DeSirant            seconded.            The          Recorder            called        for     the vote.           Council        Member
+DeSirant        voted         yes, Council             Member              Jackson               voted      yes, Council              Member              Uipi       voted       yes,
+and   Mayor          Silvestrini           voted       yes. The            motion              passed       unanimously.
+
+
+            4.2 Discussion                and      Consideration                   of Resolution                   22-35,        Ratifying,            Confirming,               and
+            Approving              Amendment                   Six,     Seven,            and     Eight          to the     Cooperative                Agreement               by
+            Public         Agencies         to Create              a New          Entity,          to Consolidate                  Law       Enforcement                Service,
+            and      Provide         Rules        of Governance
+            Mayor          Silvestrini        said the resolution                       was to approve               three        separate        amendments               to the
+            UPD        interlocal         agreement            which            the city         had failed         to do previously.                  The      sixth
+            amendment              was to allow             the county              mayor           to appoint            a designee          from       the mayor's                 side
+            so if the mayor               was unable              to come          to a meeting                  the designee            could.       The     county         council
+            also had a representative.                         The     seventh                amendment            allowed          board      members            to appoint
+            designees          to attend          meetings            in their          absence.          The      eighth        amendment              provided         for
+            weighted          voting       on budgetary                matters.               Millcreek          has the largest            weighted            vote,    but other
+            entities       were     the ones who                requested               it.
+
+
+Council       Member              Jackson          moved           to adopt             Resolution               22-35.         Council        Member            Uipi
+seconded.         The       Recorder             called     for       the vote.               Council       Member               DeSirant             voted      yes, Council
+Member         Jackson            voted      yes, Council                Member                 Uipi      voted      yes, and            Mayor          Silvestrini            voted
+yes. The      motion           passed        unanimously
+
+
+5. Reports
+            5.1 Mayor's             Report
+            Mayor          Silvestrini       reported           a successful                   opening       of the ice skating                 loop.       He said there
+            were      not any legislative                 bills       out for the Utah                    League      of Cities           and Towns              to consider
+            language          on, but there            would          be bills          on housing,              spending           on trails         and active
+            transportation,              addressing            homelessness,                    and housing              affordability.            He said planning                    staff
+            submitted          to the Department                      of Workforce                 Services         the affordable                housing         amendments
+            to the General               Plan.    Millcreek's              plan         was approved                when         other      cities'     plans       were       not.     He
+            commended               planning          staff.
+
+
+            5.2 City         Council         Member               Reports
+            Council         Member          DeSirant            echoed           the success              of the ice skating                loop       and reported             that
+            there      had not been              issues     with       the temporary                    homeless          shelter         as relayed          from      people          he
+            had spoken            with.     Mayor          Silvestrini            commended                  the UPD             officers      for containing                the
+            homeless          shelter       illegal       activities.           Lilly          said at the last council                   meeting        it was reported
+            there     had been           a lot of police              calls      involving              the shelter.        Lilly        said 40 of the calls                  for
+            service        were     from      the shelter             itself.
+Millcreek          City     Council         Meeting           Minutes                                    12 December               2022      Page 8 of 9
+
+
+
+            Council        Member           Uipi      reported        that she and the mayor                attended       the Millcreek           Cornrnunity
+            Theater        play,      and it was well            attended.
+
+
+            5.3 Staff        Reports
+            There      were no reports.
+
+
+            5.5 Unified            Fire     Authority           Report
+            Chief      Duane          Woolsey         noted      Chief     Higgs       was retiring         and Chief       Dern would            be taking
+            the position.           Wade Russell               would      be taking       Chief        Dern's     spot. Station       125 in Midvale
+            would         have its grand opening                  on December             13'h. Station          102 in Magna             construction      was
+            progressing            on schedule           for completion             in May       2023.      Station     251 in Eagle Mountain                    may
+            be delayed,            and Station          253 was on schedule.                 The Station            l 12 reconstniction           was still on
+            hold     due to FEMA               floodplain         issues. The temporary                   station     would       be building        a garage
+            to house an ambulance.
+
+
+            5.6 Unified            Police      Department               Report
+            Chief      DeBry          reported       the November               2022    crime      statistics.      He compared            calls and cases,
+            and booking             arrests and citations                from     2020,    2021,        and 2022.       In November,             there were
+            33 assaults,           16 burglaries,             26 drug offenses,           77 family         offenses,      2 homicides,           100
+            larcenies,       O robberies,             7 sexual        offenses,       and 24 stolen         vehicles.      He presented            the reasons
+            for calls for service               within        the % mile radius            from        the homeless        shelters       in 2021 (195)
+            and 2022 (199)                for the month           of November.            There         were 40 calls for service               at the
+            temporary         homeless              shelter    between       November             Ist and December             ls'. He then described
+            the different          types of calls which                  included       trespassing,        ambulance,            domestic       release
+            notification,          drugs,      lewdness,          public     intoxication,             suspicious      activity,     traffic     stop,
+            transient,       civil,       citizen     assist, and welfare              checks.
+
+
+            Chief      DeBry          reported       the East Mill          Creek       Lions     Club      donated      Thanksgiving             turkeys     to
+            families       in need and 15 families                     from the Bud Bailey                 Apartments          were selected          in
+            Millcreek        to receive           turkeys,       desserts,        and other items.          The items,         generously         provided         by
+            the East Mill             Creek Lions             Club,    were handed           out by Millcreek             c.o.p.      detectives.
+            Millcreek         c.o.p. detectives                 located     two cases of graffiti               in the month         of December            and
+            both sites were cleaned                    up by UPD           Graffiti       Removal.         Millcreek       c.o.p. Detectives               met
+            with     administrators             at the Jean Massieu                 School       for the Deaf         and Utah       School       for the Deaf
+            and Blind         to discuss            the school's         plan for an active             shooter      situation.      Detectives          and a
+            S.W.A.T.         Team          Leader       walked        the school        to discuss         the school's        layout       in case of an
+            emergency.             Detectives          would      be teaching          the staff and administrators                  an active       shooter
+            presentation.             Millcreek        c.o.p.         detectives       located     an abandoned            campsite         at 250 W.
+            Central        Avenue.         Detectives          were coordinating                with     the Salt Lake County               Health
+            Department             to have the site cleaned                 up. Officers          responded          to 30 transient           calls for
+            service,       53 mental          health      calls, 198 traffic           accidents,         and issued 427 citations.
+
+
+            Council        Member           Jackson       asked how trespassing                   happens         at the temporary             homeless
+            shelter.       Chief      DeBry         said people         leaving       the shelter        could not come back and would
+            create a trespass.              Council       Member           Uipi     appreciated          the detail     with      the shelter      statistics.
+            Chief      DeBry        reported         that he would          be meeting           with     area chiefs       and mayors           to discuss
+            homelessness.
+Millcreek       City    Council       Meeting        Minutes                         12 December      2022      Page 9 of 9
+
+
+
+6. New Items           for Subsequent          Consideration
+There   were none.
+
+
+7. Calendar        of Upcoming              Events
+    *       Planning     Commission           Mtg.    12/21/22    5:00 p.m.
+
+
+
+ADJOURNED:               Council        Member        Uipi     moved   to adjourn     the meeting     at 8:04 p.m.        Council
+Member        Jackson      seconded.          Mayor     Silvestrini     called   for the vote.   Council   Member
+DeSirant       voted     yes, Council         Member         Jackson    voted    yes, Council    Member      Uipi   voted     yes,
+and Mayor        Silvestrini        voted     yes. The motion          passed    unanimously.
+
+
+                                                        '% /    - \ %I                                                j
+                                                        Jeff Silvestrini,   Mayor
+
+
+
+                                  Attest:
+

@@ -1,0 +1,25 @@
+# roster_overrides.csv — hand-editable correction layer for the Vineyard council roster.
+#
+# This is the repo's documented override convention (see civic-data/CLAUDE.md cardinal
+# rule 2: city-faithful automated output is never overwritten in place — corrections
+# live here, alongside).  build_roster.py applies this file LAST and it WINS TIES.
+#
+# Use it to record anything the automated reconciliation (elections + vote-bounds +
+# minutes events) cannot derive, e.g.:
+#   - the EXACT Cameron resignation / Ezra Nair appointment date, once the un-recovered
+#     Nov/Dec-2025 minutes are located (they currently sit in a recovery gap — see the
+#     AL-A2 tenure note; the VACANT interval is documented-service-bounded, not exact),
+#   - the EXACT Amber Rasmussen resignation date/letter (the recovered minutes declare a
+#     'Vacancy' + farewell but do not print the resignation date — see AL-B2),
+#   - a source conflict where you have adjudicated the correct value.
+#
+# Match key: (seat_id, person_key, start_date) must equal an existing tenure to patch
+# it; supplying a NEW (seat_id, person_key, start_date) triple inserts a tenure the
+# reconciliation missed.  Any non-empty column overrides the derived value; blanks are
+# ignored.  Always fill `reason` with the human justification + source.
+#
+# May legitimately contain zero data rows (as it does now — every current tenure is
+# derived from a cited source; the two honest date-gaps above are flagged in-place with
+# medium confidence rather than guessed here).
+#
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note,reason

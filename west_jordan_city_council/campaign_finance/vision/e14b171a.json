@@ -1,0 +1,72 @@
+{
+ "reports": [
+  {
+   "reporting_period": "FINAL Sep 9 2021 (bundle pp1-9) — restates the interim's rows under a no-new-activity cover",
+   "total_contributions": null,
+   "total_expenditures": null,
+   "contributions_50_or_less": null,
+   "beginning_balance": "45.00",
+   "ending_balance": "45.00",
+   "cover_lines": {
+    "line1_balance_forward": "45.00",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "-",
+    "line4_total_contributions": "-",
+    "line5_total_expenses": "-",
+    "line6_ending_balance": "45.00"
+   },
+   "contributions": [
+    {
+     "date": "7/23/2021",
+     "name": "Women's Democratic Club of Utah",
+     "address": "P.O. Box 91184 Millcreek, UT 84109",
+     "amount": "70.00",
+     "in_kind": false
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "6/7/21",
+     "recipient": "WJC",
+     "purpose": "Filing Fee",
+     "amount": "25.00",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-primary Jul 26 2021 (bundle pp10-20; form pages bound out of order)",
+   "total_contributions": "70.00",
+   "total_expenditures": "25.00",
+   "contributions_50_or_less": null,
+   "beginning_balance": "000",
+   "ending_balance": "4500",
+   "cover_lines": {
+    "1_balance_forward": "00 -0",
+    "2_contributions_50_or_less": "-",
+    "3_contributions_over_50": "70.00",
+    "4_total_contributions": "70.00",
+    "5_total_expenses": "25.-00",
+    "6_ending_balance": "45-00 (printed auto-populated 70.00 struck through)"
+   },
+   "contributions": [
+    {
+     "date": "7/23/2021",
+     "name": "Women's Democratic Club of Utah",
+     "amount": "70.00",
+     "in_kind": false
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "6/7/21",
+     "recipient": "Personal WJC",
+     "purpose": "File Fee",
+     "amount": "25.00",
+     "in_kind": false
+    }
+   ]
+  }
+ ],
+ "notes": "MERGED multi-report re-transcription from Read-tool page-range partials in vision/_partials/ (2026-07-12, cf-vision-transcribe, no API). total_expenditures/total_contributions are cover lines 5/4 as magnitudes (verbatim incl. signs/parens in each report's cover_lines echo). Row amounts in dollars/cents-column or dash-cents notation normalized to decimals (verbatim kept per-row in amount_verbatim). The FINAL's attachments re-list the interim's $70 contribution and $25 filing fee under a cover whose lines 2-5 print '-' (no new activity; line 6 repeats line 1 = 45.00) — the Springer/Holz re-listed-rows pattern: transcribed verbatim, will honestly over-reconcile by the re-listed rows."
+}

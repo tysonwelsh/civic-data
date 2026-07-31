@@ -1,0 +1,358 @@
+# Riverton Planning Commission Meeting — 2024-02-22
+> Source: https://www.utah.gov/pmn/files/1109421.pdf
+> Meeting date: 2024-02-22
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/894641.html
+> Format: text
+
+Approved: 4.13.24 PC
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                               FEBRUARY 22, 2024
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Evan Matheson, Chair                             Tim Prestwich, City Planner
+Gary Cannon                                      Lisa Halversen, City Planner
+Shelly Cluff                                     Ryan Carter, City Attorney
+Jon Gilchrist                                    Matt Casell, City Engineer
+Monique Mortensen
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Evan Matheson called the meeting to order at approximately 6:30 PM.
+
+2.     PUBLIC HEARINGS
+
+       A.     THE CHILDREN'S VILLA, PLZ-24-2006, A CONDITIONAL USE
+              APPLICATION FOR A HOME PRESCHOOL LOCATED AT 3558 W. NEW
+              PRIVATE DRIVE. APPLICANT - ROBYN MONS.
+
+Planner Lisa Halversen presented the Staff Report and stated that this request is unique
+because it involves a Spanish-immersion preschool. It is for an in-home preschool for
+children aged two to five and is located at 3558 West New Private Drive in the northwest
+section of the City. The home is located at the end of a private drive. The property itself is
+nearly one-half acre in size and zoned RR-22. Most of the neighboring property is also
+zoned either RR-22 or R2. The lot has access to 3600 West, which runs north and south
+near the New Private Drive. The home has two stories, 2,800 square feet above grade, a
+finished basement, a three-car garage, and an extra-wide driveway.
+
+The applicant, Robyn Mons was unable to be present until April and asked Ms. Halversen
+to present the application. Ms. Mons submitted a statement that was provided to the
+Commission Members. She is proposing a Spanish immersion preschool in her basement
+with 12 children per session, which is allowed by Code. She only plans to have eight
+students to begin with. Ms. Mons would like to start with one morning session Monday
+through Thursday. If that goes well, she would like to add an afternoon session on Tuesdays
+and Thursdays. Ms. Mons is a Certified Life Coach and will hire a woman who rents her
+basement and speaks Spanish as the Spanish teacher for the preschool. Staff received an
+email from a neighbor in support of the preschool.
+
+Ms. Mons has visited with her neighbors along the private drive to explain the situation and
+get their input. Those she spoke to were in favor of the request. The layout of the area was
+Riverton City Planning Commission Meeting                                                  2
+February 22, 2024
+
+
+described. Ms. Halversen reported that when she visited the site, she noticed cars parked
+in the turnaround. She was informed by Ms. Mons that the cars belong to the neighbors and
+park there frequently. Ms. Mons did not want to disrupt her relationship with the neighbors
+and plans to instruct the parents to continue past the end of the private drive onto her private
+driveway where there is a turnaround in front of her three-car garage. She will ensure that
+parents are aware of this before they drop off their children.
+
+Ms. Halversen reported that the State was excited about this application because they feel
+that her business model for a Spanish immersion preschool will be in high demand. One of
+her neighbors has already enrolled her child. Some children will live within walking distance.
+Ms. Mons hopes that if she begins with eight children per session, that two or three will live
+in the neighborhood and will be able to walk. The Transportation and Parking Plan was
+presented. Ms. Mons’ basement will be used as the learning space. The second floor is
+where a game room is located that will be used occasionally by the children as well. A view
+of the front of the home was presented as well as the driveway. Ms. Halversen reviewed
+the State requirements that indicate that child preschool classes are considered a child
+group activity and have special allowances in the ordinance. They are allowed more
+vehicles, more vehicle trips, and more visitors. The applicant will be allowed to have up to
+three sessions but currently, she would like to have only one with permission for two in the
+future. She understands that even though she is allowed a maximum of 12 children per
+session, she is only allowed 12 vehicles or a total of 24 trips per day. If she has an extra
+session, the number of vehicle trips will not increase.
+
+A question was raised regarding how the Commission can approve a private lane that is
+shared between homeowners for a business that will generate more traffic than was
+planned. City Attorney, Ryan Carter, stated that there could be more than one answer to
+that question but explained that more facts would need to be on the record before
+determining whether there is a perceived impact on the private lane by the others who share
+it. They would have to be present to give testimony. However, as a general rule, when
+someone applies for a Conditional Use Permit, if they meet the ordinance, they are entitled
+to it. There are no facts on record that suggest that there are any questions as to whether
+this would be permissible on the private lane. Sometimes people share easements and
+have limitations in the language of the documents that establish the easements that create
+a scope for their use. In the absence of anything on the record, however, the Code allows
+any homeowner to have a home occupation as long as they have a Traffic Plan. Mr. Carter
+suggested that the public hearing be conducted to see if they can yield additional facts.
+
+A question was raised on the width of the private drive and if it can accommodate a car going
+in and coming out at the same time. Ms. Halversen stated that it is pretty narrow at around
+20 feet. She stated that the private lane serves three homes. Only one car will enter
+Ms. Mons’ personal driveway and she agreed to stagger the times since there is no room
+on the narrow driveway for multiple cars.
+
+Commissioner Gilchrist asked if the basement is considered an Accessory Dwelling Unit
+(“ADU”). Ms. Halversen stated that she does not have an ADU Permit for the property but
+agreed to double-check. Chair Matheson asked if it needs to be approved as an ADU.
+Riverton City Planning Commission Meeting                                                  3
+February 22, 2024
+
+
+Ms. Halversen confirmed that an ADU permit is required in some circumstances. Whether
+or not these circumstances require an ADU permit has not been investigated. Mr. Carter
+stated that it is difficult to have a meaningful hearing without the applicant being present. He
+suggested the Commission hold the public hearing and then table the matter to the next
+meeting.
+
+A concern was raised regarding the lack of a sidewalk that goes around to the gate on the
+side of the home. Access issues were discussed. Ms. Halversen did not believe that was
+part of the qualifications, but the applicant should show a diagram of the path that will be
+taken by the children. A question was raised about the ownership of the turnaround.
+Ms. Halversen stated that it is not part of Ms. Mons’ property. Ms. Halversen also confirmed
+that there will be two adults present with the children at all times.
+
+Commissioner Park asked about timing and was of the understanding that the applicants
+need approval from the City before contacting the State. Ms. Mons then needs to maintain
+that licensure in order to keep her City Business License. Ms. Halversen stated that the
+applicant has started the process of obtaining State licensure, which can be done
+concurrently.
+
+Commissioner Cluff asked about grass accessibility and recalled that her son attended a
+preschool that had a grass path, which was allowed. She also commented that if it becomes
+problematic to use the private drive, 3600 West could be used. Ms. Halversen confirmed
+that it was an alternative recommended by the applicant where cars could line up along 3600
+West. From a safety perspective, Ms. Halversen thought it would be safer to use the private
+drive rather than have children come and go from the busy road.
+
+Commissioner Gilchrist did not object to approving an ADU in the basement but stated that
+the Code allows a home business in the ADU, but it seemed that the home business would
+have to be owned by the renter. He was concerned that the homeowner wants to own the
+business and utilize the rental space for the business while the renter is still occupying the
+home. Mr. Carter stated that it depends on the arrangement Ms. Mons has with the tenant.
+
+Commissioner Cannon commented that there is a lot of speculation that only the applicant
+or the neighbors can answer. If there are eight students or two per car, that equates to four
+additional car trips in the morning and four in the afternoon if there are two sessions. He felt
+there was too much speculation without the applicant being present.
+
+Commissioner Matheson referenced the letter from the applicant, which was submitted and
+made part of the record.
+
+Chair Matheson opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Rushton commented that there are a lot of unknowns and suggested the
+matter be continued until the applicant can be present. One of the questions was if they are
+granting a conditional use permit for a business in an ADU that may not even be of record,
+Riverton City Planning Commission Meeting                                                4
+February 22, 2024
+
+
+which entity should file the business application. Another issue was granting access on a
+private lane. He stated that the Commission does not have enough information to take
+action.
+
+A question was raised as to whether there are Covenants, Codes, and Restrictions
+(“CC&Rs”) for the private lane. It was reported that Ms. Mons spoke with one of the
+neighbors but had not been able to contact the other. Chair Matheson was concerned that
+too much is unknown and recommended the matter be tabled or continued to a future
+meeting.
+
+Commissioner Rushton commented on an issue on 3600 West where someone claimed to
+have received approval but did not. Anytime a request involves crossing a private lane
+proper documentation should be required. Mr. Carter suggested that the applicant be given
+an opportunity to present evidence at the next hearing on the topic. He stated that it is the
+duty of the Commission to stay true to the City’s ordinances and not enforce a private
+property right. The argument for the applicant could become a situation where those who
+had an opportunity to speak against the matter were notified. The City then has an issue
+which is what facts they have on record serve as a basis to deny a Conditional Use Permit.
+If they do not have any evidence of an obvious property right and the impacts of the request
+cannot be mitigated, the absence of evidence can be problematic in the event of an appeal.
+In the absence of contrary evidence, the request can be denied.
+
+Mr. Carter stated that requesting information and requiring the applicant to present evidence
+on the topic was determined to be reasonable. Staff would be in touch with the applicant
+and let them know of the Commission’s concerns. Ms. Halversen explained that there are
+three homes on the private lane. One belongs to Ms. Mons. She spoke to another
+homeowner who had no objection to what was proposed. The other home is a rental and
+Ms. Mons has been unable to contact the homeowner. Staff would continue to work with
+the applicant.
+
+Commissioner Gilchrist moved that the Planning Commission TABLE PLZ-24-2006,
+Children's Villa at 3558 West New Private Drive with a recommendation to staff to
+communicate the concerns raised regarding the Private Drive and the ADU. The
+motion was seconded by Commissioner Rushton. The motion passed with the
+unanimous consent of the Commission.
+
+       B.     STONE RIDGE VET CLINIC, PLZ-24-2001, A CONDITIONAL USE
+              APPLICATION TO COVER THEIR DOG-RUN AREA. APPLICANT - DR.
+              CLAY CANNON
+
+City Planner, Tim Prestwich presented the Staff Report and stated that the request is for a
+Conditional Use Permit for the expansion of a legal non-conforming use. An aerial map of
+the area was displayed. Stone Ridge Clinic is a veterinary clinic located off 1300 West in
+the northeast part of the City that has been in business since 1989. The clinic existed before
+the subdivision that was built around it. The applicants approached the City in 2003 and
+were granted permission for an addition to the clinic. As per the ordinances, if a use existed
+Riverton City Planning Commission Meeting                                                    5
+February 22, 2024
+
+
+and was approved by the City at some point in the past and the City changes, the ordinances
+that regulate can continue to exist. That is often referred to as grandfathering and is the
+continuation of a legal non-conforming use. As a result, the applicant can make updates or
+repairs to the business, building, or site. They can also request additions to the business.
+In this case, what is proposed is a small addition to the backside of the building on the interior
+of the compound.
+
+A public notice was sent out and due to confusion, a second notice was sent with a picture
+of the site plan. Concerns were received about the first notice. Mr. Prestwich reported that
+the proposed addition covers the dog runs that are outside that are used temporarily while
+the interior dog runs are cleaned. The desire is to cover them to provide a better space for
+the animals. There is currently a six-foot masonry wall with a buffer between the
+neighborhood. The clinic is zoned R-3 with R-22 to the east. Everything around it is zoned
+R-3. The proposal is to add covered dog runs. The request falls under the special exception
+section of the Code that allows for the continuation, maintenance, repair, alteration,
+additions, enlargements, and the moving of a non-conforming building, use, and lot.
+Mr. Prestwich reported that the request must be approved by the Planning Commission.
+Staff concluded that more outdoor space was to be added and not capacity to the clinic.
+Views of the property were presented. Board and batten will be used on the areas shown
+in yellow and will match the existing siding on the building. Staff recommended approval
+with the three conditions enumerated in the Staff Report.
+
+Commissioner Cannon reported that he and Dr. Cannon are not related but he has taken
+good care of his animals for years.
+
+A question was raised about whether the open property belongs to Dr. Cannon.
+Mr. Prestwich was unsure and stated that the property is in the name of several LLCs with
+similar names. With regard to the elevation views, it was confirmed that there will be a sound
+barrier with board and batten from the six-foot level of the masonry fence up to the roof line
+on the north and west sides.
+
+A question was raised about what it means to gradually eliminate the use of land, buildings,
+or lots. Mr. Carter responded that the best way to interpret it would be to read it in harmony
+with the State Statute on the topic. If there is a legal non-conforming use on a property but
+use is discontinued for a certain length of time, the property owner stands to lose it. Inactivity
+of the use of the land forces the property owner in the direction of code compliance. That is
+not an issue here. Mr. Carter explained that a legal non-conforming use cannot be taken
+away under any other circumstances.
+
+Commissioner Gilchrist commented that when he read that he assumed that the applicants
+have a right to continue to operate in the fashion that they had been but not necessarily the
+right to grow. In response to a question raised, Mr. Carter explained that staff’s
+understanding is that there will be no growth in terms of the number of kennels. The
+proposed addition, however, creates a better quality of life for the animals while they are
+kenneled. It also stands to create some mitigation to sounds that can emanate from the
+property.
+Riverton City Planning Commission Meeting                                                 6
+February 22, 2024
+
+
+
+Marni Cannon identified herself as Dr. Cannon’s daughter and stated that they are co-
+owners of Stone Ridge Veterinary Clinic. She referred to the photo of the neighborhood and
+explained that the clinic runs north and south and she owns the home to east. The
+undeveloped area next to the clinic is part of her one-half-acre property. The one-half acre
+behind her home is a bare lot that is owned by the clinic. Dr. Cannon owns the other home.
+She noted that they own the entire property along one side of the clinic. Ms. Cannon stated
+that what is proposed will not increase their boarding capacity. There is a back door where
+staff will take the dogs to the roofed area while the indoor kennels are cleaned. Afterward,
+the dogs are immediately returned to their runs. The addition will also create a sound buffer
+for the neighborhood to ensure the comfort of the dogs and the neighbors. Ms. Cannon also
+stated that dogs will never be left outside unattended.
+
+Dr. Cannon reported that he built the subdivision and previously owned all of the surrounding
+property. Where the clinic is located was actually Phase 3 of the subdivision which was
+constructed in the 1990s. They completed Phase 1, which was the area north of Stone
+Ridge Lane. Everything west of the clinic was Phase 2. He began to look for property to
+move to with the intent of demolishing the existing building; however, several neighbors
+approached him and urged him to remain in his current location. Dr. Cannon stated that the
+first notice for the current request referred to expanding the boarding in error. The error had
+since been corrected.
+
+Commissioner Mortensen stated that she does a lot of rescue work and was aware that
+there are a lot of dogs that need homes. Dr. Cannon takes all of the dogs from Riverton
+Animal Control. She was asked what they do if they exceed capacity at the clinic. Ms.
+Cannon stated that they have never exceeded their capacity and currently they have a
+capacity for 45 large runs with smaller cages within the clinic. The only time that might be
+an issue would be over major holidays when they are booked. The clinic staff actively tries
+to find homes for the pets and so far they have managed to do so without euthanasia. The
+exceptions to that are medically unfit animals.
+
+Commissioner Cannon asked about the hours of operation of the clinic. Ms. Cannon stated
+that if Animal Control or the Police Department take in an animal after hours, they have
+access to the building and place the animal inside. If a pet requires care after hours, the
+staff attends to it but that is only for pets brought in by the City. They do not care for
+emergency patients after hours and refer them to a 24-hour emergency clinic. The clinic is
+open from 8:00 AM to 5:30 PM Monday through Friday, 8:00 AM to 1:30 PM on Saturdays,
+and they are closed on Sundays. Boarded pets are let out twice per day on Sundays.
+
+Chair Matheson opened the public hearing.
+
+Dennis Hansen identified himself as a former Planning Commission Member and asked if
+the height of the new roof will be consistent with the current building. It was confirmed that
+it will not be as tall. Dr. Cannon explained that the new roof will be located along the south
+side of the building. Mr. Hansen expressed support for the proposal. He reported that he
+has lived across the street from the clinic for the last 26 years and the Cannons have been
+Riverton City Planning Commission Meeting                                          7
+February 22, 2024
+
+
+great neighbors. The dogs are let out at 8:00 AM and are fed at 5:00 PM. He appreciated
+Dr. Cannon’s effort to continue to improve the facility.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Cannon thanked former Planning Commission Member Dennis Hansen for
+his service to the City.
+
+Commissioner Cannon moved that the Planning Commission APPROVE PLZ-24-2001,
+“Stone Ridge Veterinary Clinic” at 1381 West Stone Ridge Lane subject to the
+following conditions:
+
+      1.    The site and structures may be added upon as shown in the plans
+            presented to the Commission.
+
+      2.    The site, structures, and use shall remain in compliance with all
+            applicable Riverton City standards and ordinances, and applicable
+            Building and Fire Codes.
+
+      3.    The applicant must obtain a Building Permit for the addition and have
+            the addition inspected by the Riverton Building Department as required
+            by City Ordinance.
+
+The motion was seconded by Commissioner Mortensen. The motion passed with the
+unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.    None.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    02/08/24 Planning Commission Meeting Minutes.
+
+Commissioner Cluff moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of February 8, 2024, as recorded. Commissioner
+Mortensen seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:16 PM.
+

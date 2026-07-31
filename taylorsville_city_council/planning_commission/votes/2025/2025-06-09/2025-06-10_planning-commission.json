@@ -1,0 +1,88 @@
+{
+ "date": "2025-06-10",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2025/2025-06-09/2025-06-10_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Barbara Munoz",
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Young",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to approve the minutes of the April 22, 2025 Planning Commission meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": null,
+   "aye": [
+    "Don Quigley",
+    "Marc McElreath",
+    "Gordon Willardson",
+    "David Young",
+    "Cindy Wilkey"
+   ],
+   "nay": [],
+   "abstain": [
+    "Barbara Munoz"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "5-0",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Young moved to approve the minutes of the May 13, 2025 Planning Commission meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Tabled (no quorum)",
+   "kind": "procedural",
+   "mover": "David Young",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": false,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Munoz moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Barbara Munoz",
+   "seconder": "Cindy Wilkey",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

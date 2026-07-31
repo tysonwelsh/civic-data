@@ -1,0 +1,99 @@
+{
+ "date": "2023-09-14",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2023/2023-09-11/2023-09-14_planning-commission-meeting.md",
+ "present": [
+  "Ken Heare",
+  "Jordy Guth",
+  "Roylan Croshaw",
+  "Jessica Lucero",
+  "David Lewis",
+  "Sara Doutre",
+  "Eldon Peterson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Peterson made a motion to Approve all items listed on the Consent Agenda. Commissioner Lucero seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "7:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Eldon Peterson",
+   "seconder": "Jessica Lucero",
+   "aye": [
+    "Ken Heare",
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Sara Doutre",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "7-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Peterson made a motion to Conditionally Approve a Design Review",
+   "motion_type": "Land-Use/Zoning",
+   "result": "7:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Eldon Peterson",
+   "seconder": "Jessica Lucero",
+   "aye": [
+    "Ken Heare",
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Eldon Peterson",
+    "Sara Doutre"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "7-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to Forward a Recommendation of Approval to the Municipal Council for a Code Amendment on PC 23-048 LDC Amendment Moderate Income Housing/Affordable Housing With the findings for approval listed below. Commissioner Guth seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 6:1",
+   "kind": "recommendation",
+   "mover": "Jessica Lucero",
+   "seconder": "Jordy Guth",
+   "aye": [
+    "Ken Heare",
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Sara Doutre"
+   ],
+   "nay": [
+    "Eldon Peterson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-1",
+   "outcome_word": "Approved",
+   "motion_no": 3
+  }
+ ]
+}

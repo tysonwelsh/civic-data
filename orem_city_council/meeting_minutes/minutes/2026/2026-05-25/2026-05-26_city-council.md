@@ -1,0 +1,1055 @@
+# City Council Meeting — 2026-05-26
+> Source: https://drive.google.com/uc?export=download&id=12sRYKNu_njn2pQ7Iux2PeU2nVt_mZM3p
+> Meeting date: 2026-05-26
+> Format: ocr
+
+---
+
+
+CITY OF OREM
+CITY COUNCIL MEETING
+56 North State Street Orem, Utah
+May 26, 2026
+3:00 P.M. WORK SESSION - CITY COUNCIL CONFERENCE ROOM
+—_—————_CONDUCEN&—————_ Maya aren MeCandiess ——_  — —™|  — 4
+ELECTED OFFICIALS Karen McCandless, Crystal Muhlestein, Jeff Lambson,
+LaNae Millett, Chris Killpack, Quinn Mecham BY ZOOM
+Jenn Gale
+APPOINTED STAFF Brenn Bybee, City Manager; Ryan Clark, Assistant City
+Manager; Keri Rugg, Deputy City Manager; Steve Earl,
+City Attorney; Chris Tschirki, Public Works Director;
+Bryce Merrell, Library and Recreation Director; Brandon
+Nelson, Finance Director; Marc Sanderson, Fire Chief; BJ
+Robinson, Police Chief; Gary McGinn, Community
+Development Director; Peter Wolfley, Communications
+Manager, PIO; Melissa Mullins, Deputy City Recorder
+NOTE: The referenced report and presentation documents for each discussion may be
+viewed at orem.gov/meetings under “City Council Presentations”
+WORK SESSION ITEMS
+Short Term Rentals Continued Presentation Presenter: D.Jacob Summers, Deputy City
+Attorney
+Mr. Summers opened his presentation by introducing a specific regulatory provision
+designed to address community concerns regarding property owners using STR platforms to
+bypass the city's current long-term student housing zoning ordinances. Mr. Summers proposed
+requiring a "dormant period" where any active STR would be legally mandated to sit vacant for
+five days during any given monthly period. He clarified that these five days would not need to be
+consecutive. Based on his online research and direct feedback from local STR operators, area
+rentals typically maintain an occupancy rate between 56% and 70%. Because a five-day vacancy
+rule still permits an overall monthly occupancy rate in excess of 80%, Mr. Summers argued that
+the provision would protect long-term housing stock for local residents without causing a
+massive, negative financial impact on legitimate short-term operators. City Attorney Earl added
+key legal nuance to this point, explaining that the dormancy rule does not solely target student
+housing; because the city's current residential code caps the number of unrelated occupants at
+three while the proposed STR ordinance would allow up to eight, the vacancy mandate serves as
+City Council Minutes — May 26, 2026, (pg.1) A complete video of the meeting can be found at www.orem.org/meeting
+
+a critical safeguard to prevent landlords from using an STR license as an "end around" to bypass
+standard neighborhood occupancy caps. Mr. Summers conceded that the primary downside to
+this rule is added administrative complexity, as it would force operators to submit detailed
+booking logs for city review upon their annual license renewals to prove compliance.
+
+Mr. Summers then transitioned to a "legacy status" provision, which was crafted in
+response to individuals who had appeared at personal council audiences or met privately with
+staff claiming they "thought they were doing everything right" because they had previously
+obtained a standard city rental license. Mr. Summers proposed a clean historical line of January
+1, 2025, explaining that by this date, the council had already held multiple work sessions and
+public meetings explicitly clarifying that STRs were entirely prohibited under the existing
+land-use code. To qualify for this equity-focused "olive branch," an operator would have to
+definitively prove four strict criteria: operation prior to January 1, 2025; possession of a valid
+city rental dwelling license prior to that date; evidence of continuous listing activity on active
+STR platforms; and verified compliance with local tax provisions, including the transient room
+tax and standard sales tax. Qualifying for legacy status would allow an operator to receive an
+exemption from future, more onerous restrictions like a proposed 1,000-foot separation buffer
+between units or strict citywide numerical caps. For example, if the city established a
+non-owner-occupied cap of 20 or 30 units and those slots were completely filled, a legacy
+operator would still be granted a license over and above that cap.
+
+This legacy proposal sparked debate and clarification from the council. Council Member
+Killpack inquired about the approximate number of properties that might qualify under this
+exemption, to which Mr. Summers responded that the exact number is currently unknown
+because the city has never actively tracked short-term rentals. Council Member Millett
+questioned the structural logic of the exemption, asking why legacy operators wouldn't simply be
+counted as the first layer of properties occupying the newly established density cap, rather than
+being placed above it. Mr. Summers explained that because many existing operators are already
+clustered in ways that directly violate the proposed density buffers, forcing them into the cap
+would immediately break the system. He and Mr. Bybee confirmed that legacy properties would
+still have to meet every single operational standard on the books—including quiet hours, parking
+plans, and occupancy limits—and would be required to pay significantly higher annual fees than
+past frameworks to absorb enforcement costs. Replying to a crucial procedural question from
+Mayor McCandless, Mr. Summers emphasized that this license is strictly non-transferable; if a
+legacy property is sold, the status does not pass to the buyer and the exemption is permanently
+lost, preventing the creation of a high-value real estate market for legacy-exempt homes. Council
+Member Muhlestein asked how the code would treat properties held in family trusts, prompting
+an in-depth explanation from Mr. Summers and Mr. McGinn. They noted that while the city code
+allows a trust beneficiary with a dominant 51% interest to register as an owner, the ordinance can
+be legally airtight. Mr. McGinn suggested mirroring existing code by requiring the operator to be
+both the trustor and the primary beneficiary for estate planning purposes, meaning that if the
+original principals pass away, the legacy STR right is instantly revoked rather than passing to
+
+City Council Minutes — May 26, 2026, (pg.2) A complete video of the meeting can be found at www.orem.org/meeting
+
+secondary heirs. Council Member Millett warned that without these tight trust boundaries, the
+city risked establishing commercial ventures in perpetuity, eroding their licensing authority as
+properties changed hands behind closed doors.
+
+To address the council's desire for a self-sustaining program, Mr. Summers detailed the
+exact personnel costs required to run a proactive regulatory and enforcement model. Working
+alongside the management services and innovation teams, staff calculated that a Level 1
+Neighborhood Inspection Team (NIT) code enforcement officer would require an overhead cost
+
+(covering salary and benefits) of roughly $65,000, while an associate planner withinthe ==
+Community Development Department would cost $75,000. Adding one planner to manage the
+immense paperwork, owner verifications, and annual licensing alongside one NIT officer to
+handle field enforcement would total $141,000; adding a second NIT officer to expand coverage
+would elevate the cost to $210,000. Council Member Millett expressed surprise at these
+numbers, characterizing them as "super low" and questioning how benefits could only account
+for a third of the entry-level salary. Mr. Bybee clarified that these figures represent standard,
+non-post-certified employees who do not receive the more expensive police retirement packages.
+Mr. McGinn added that the associate planner cost was highly accurate for a step-one entry
+position, noting that the necessity of the role depends entirely on the council's regulatory
+depth—a simple "set-and-forget" registration wouldn't require a planner, but a comprehensive
+program involving mandatory parking plan reviews, annual inspections, and property deed
+cross-referencing absolutely would. Mr. Bybee noted that code enforcement officers would be
+placed under the police department budget framework, allowing the city to cleanly route
+incoming landlord and STR fee revenues directly into the Public Safety Special Revenue fund to
+prove the program pays for itself. Mr. Summers projected that dividing the $210,000 overhead
+by a baseline of 250 suspected active local operators would result in an annual licensing fee of
+around $100+, which is significantly higher than regional benchmarks. He presented a Wasatch
+Front comparison showing that annual fees vary drastically, with Lehi charging $190 and Logan
+charging $575 (with an asterisk noting Logan also requires a separate conditional use permit that
+drops in cost upon renewal). To establish a legally defensible baseline, Mr. Summers proposed
+hiring the consulting firm Lewis Roberts and Birmingham (LRB) to conduct a formal fee study,
+ensuring a rational nexus connects the city's fees to its actual operational costs. Furthermore, Mr.
+Summers highlighted an overlooked tax equity provision: the city intends to coordinate directly
+with the Utah County Tax Assessor to ensure whole-home STRs are registered as commercial
+investments, and that any primary residence property tax exemptions are stripped from the
+short-term rented portions of owner-occupied homes.
+
+Mr. Summers mapped out the political landscape, dividing the council into three distinct,
+non-majority factions: Camp | favors maintaining or clarifying a total STR prohibition; Camp 2
+feels comfortable allowing owner-occupied rentals only; and Camp 3 is open to a broader
+regulatory system allowing both owner-occupied and non-owner-occupied operations.
+Recognizing that no single camp held a majority, Mr. Summers identified a potential path toward
+consensus by offering to bring back two distinct, competing draft ordinances to a future session.
+
+City Council Minutes — May 26, 2026, (pg.3) A complete video of the meeting can be found at www.orem.org/meeting
+
+Council Member Millett strongly requested an immediate vote on "Option 1" to see if the council
+wanted to pursue a total prohibition draft, but a roll call through the room revealed that only
+Millett and Muhlestein supported a ban, failing to reach the four-vote threshold required to move
+it forward. Council Members Killpack, Lambson, Gale, and Mecham, along with Mayor
+McCandless, all agreed that staff should proceed with drafting the two competing regulatory
+options for a future work session. Council Member Gale and Mayor McCandless both
+emphasized that continuing this debate within a dedicated work session would be far more
+productive than moving it to a regular city council session, as it would allow them to iron out
+specific technicalities before opening a formal public hearing. The next available opening in the
+city schedule would be the June 23rd session, as the intervening meetings were completely
+dedicated to the city budget. Council Member Millett requested that all finalized slides and draft
+text be delivered to the council at least eight days prior to that meeting to give members adequate
+preparation time without destroying their holiday weekends.
+
+The final portion of the meeting saw council members establishing extreme guardrails to
+be woven into the upcoming drafts. For the strictly owner-occupied ordinance, Council Member
+Muhlestein suggested a mandate requiring the owner to be physically present in the residence
+during active guest stays to prevent owners from renting homes while traveling long periods of
+the year. Council Member Millett asked that any owner-occupied STR must be restricted to a
+certified, legally approved ADU to prevent the rise of a "boarding house model." For the
+competing non-owner-occupied draft, council members demanded highly restrictive caps, with
+ideas ranging from a maximum citywide cap of 20 units to a limit representing 1% of total local
+residences. Council Member Millett and Quinn Mecham strongly supported a strict
+density/separation requirement to guarantee that STRs are evenly spread out, ensuring no single
+neighborhood bears an unfair operational or housing supply burden. Mayor McCandless stated
+she was entirely uncomfortable with a standard "three strikes" policy for code violations,
+demanding a strict "two strikes" framework with incredibly high stakes for non-compliant
+owners. Council Member Muhlestein encouraged monetary fines to be dynamically scaled based
+on the rental value of the property rather than using a flat fee, arguing that a flat penalty would
+fail to deter an owner pulling in $700 a night compared to someone operating a cheaper
+basement unit. Finally, the council engaged in a realistic debate regarding late-night
+enforcement. Council Member Millett voiced concerns that residents calling dispatch at 2:00 AM
+regarding flashing check-in lights or parking violations were frequently told that active police
+officers were too busy with priority calls to respond. Staff member BJ Robinson confirmed that
+while post-certified police officers will immediately respond to late-night criminal code or peace
+violations—such as disorderly conduct or noise complaints—they cannot pull patrol resources to
+investigate minor civil code infractions. Mr. Summers explained that if neighbors are willing to
+cooperate, submit video evidence, and testify, the city can build a successful administrative case.
+However, because neighbors frequently demand anonymity to avoid neighborhood feuds, the city
+often needs an on-duty officer or an on-call NIT officer to personally visit the site, make an
+official observation, conduct a brief "knock-and-talk," and refer the documented case to the
+
+City Council Minutes — May 26, 2026, (pg.4) A complete video of the meeting can be found at www.orem.org/meeting
+
+Community Development department for a follow-up investigation. City Attorney Earl closed
+the session by clarifying that no final legislative decisions or binding votes can be executed
+during a work session; the upcoming meeting will serve as a platform for the council to select a
+single majority-supported draft, which will then formally travel to the Planning Commission
+before returning to the full City Council for a binding, final vote.
+Know Your Force Presentation Presenter: Jeremy Jamison, Police Lieutenant
+Lieutenant Jamison presented an update on the police department's "Know Your Force" = SCS
+initiative, a community feedback system established in 2021 to capture data following
+citizen-officer interactions. The system utilizes QR codes placed directly on traffic citations,
+business cards, and the rear driver-side panels of patrol vehicles next to unique vehicle
+identification numbers. The program invites citizens to take a brief, three-question survey
+regarding interaction quality, comfort level with officers serving their family members, and
+open-ended compliments or concerns. Out of 686 total citizen submissions collected, the
+department achieved a 4.1 out of 5-star aggregate rating, with 77.3% of the data reflecting
+positive sentiment. While Lieutenant Jamison shared an unedited cross-section of raw
+submissions.
+
+The council warmly received the police presentation, commending the department for
+maintaining the vulnerability and transparency required to actively invite citizen critiques.
+Executive staff and council members noted that the program effectively builds a customer
+service mindset and serves as an excellent tool for psychological de-escalation. Crucially, the
+initiative has allowed the city to successfully comply with state mandate SB 124 ahead of
+schedule by integrating these community surveys directly into the department's internal early
+intervention tracking for officer behavior. Mr. Nelson inquired about anonymity rates, prompting
+an estimate that roughly 80% of users choose to remain completely anonymous, particularly
+when leaving deeply critical feedback. Council Member Lambson advocated for public
+transparency by asking to keep these cumulative ratings visible on the city website, while
+Council Member Millett highlighted the community value of the department's humanizing social
+media presence.
+
+Municipal Waterwaste Planning Program (MWPP) Presenter: Reed Price, Assistant Public
+Works Director
+
+Mr. Price presented the mandatory annual report for the Municipal Wastewater Planning
+Program (MWPP), which is designed to inform the city's governing body about the long-term
+viability and sustainability of the collection system and the Publicly Owned Treatment Works
+wastewater treatment plant. The MWPP consists of a detailed survey featuring roughly 100
+questions that evaluate the utility's technical, operational, and financial health. The process helps
+staff catch and resolve minor issues before they become serious, costly failures. Mr. Price
+reported that the financial evaluation yielded highly positive results, confirming a sufficiency of
+revenues thanks to recent council-supported rate increases, which were backed by
+
+City Council Minutes — May 26, 2026, (pg.5) A complete video of the meeting can be found at www.orem.org/meeting
+
+comprehensive rate studies. The utility successfully utilizes impact fees, a wastewater-specific
+capital facilities plan, and an overarching master plan that covers lining, cleaning, replacing, and
+increasing the capacity of the city's pipe network.
+
+Regarding the physical collection system—the underground network conveying sewage
+from residents to the reclamation facility—Mr. Price noted that the survey tracks system
+characteristics like pipe age and maximum sizes. Because of a proactive preventative
+maintenance plan, the city experienced zero sewer backups over the past year. The collection
+system is managed by a nine-member crew, five of whom are now fully certified. This includes
+three who hold advanced Grade 4 certifications, alongside a dedicated, younger generation of
+eager workers learning under the mentorship of tenured staff like Ryan and Chad Johnson. When
+assessing the treatment facility itself, Mr. Price verified that current inflows remain safely within
+original design capacities. While the structural treatment ability is in great shape with zero
+environmental violations, continuous capital investments remain necessary to upgrade
+technology to meet changing regulations. When asked what he found most fascinating about the
+field, Mr. Price described how the facility replicates Mother Nature on a highly compressed
+footprint, utilizing a massive, carefully balanced culture of microorganisms to eat organic waste
+matter, which ultimately results in a clean, clear final water product and disposable biosolids.
+
+Mr. Tschirki added broader industry context to the discussion, noting that the water of the
+Mississippi River is naturally recycled and reused approximately six times from Minnesota down
+to the Gulf of Mexico. He emphasized that the introduction of modern wastewater treatment
+plants in the early 1900s was a monumental achievement for human longevity, shifting the
+average life expectancy away from a historical baseline of 55 to 60 years old. Turning to political
+and economic pressures, Mr. Tschirki highlighted a bill proposed by the state legislature during
+the previous year that would require municipalities to meet a specific Modified Annual Gross
+Income percentage threshold to qualify for low-interest state loans. Under this legislation, if a
+community's metrics reveal that its financial model does not firmly support its capital facilities
+plan, it faces loan disqualification. This forces the impacted cities to redo their studies,
+restructure their financial plans, and incrementally raise utility rates to build a self-sustaining
+future for their water infrastructure.
+
+Concluding the presentation, Mr. Price extended his appreciation to Mr. Ryan Johnson
+and the field crew for keeping the city's sewage flows moving entirely uninterrupted. Mr. Bybee
+highly commended the utility team, stating that a recent sewer board briefing revealed
+neighboring municipalities are currently facing massive, disruptive cost shocks due to deferred
+capital improvements. Mr. Bybee emphasized that because the city has consistently prioritized
+sophisticated, long-term master planning and incremental system upgrades over a long period of
+time, it sits in a much stronger, more resilient position than its regional neighbors. Mayor
+McCandless closed the item by thanking the team for their dedication to the community.
+
+Flood Damage Prevention Amendments to Chapter 10 O.C.C. Presentation Presenter: Gary
+McGinn, Community Development Director
+City Council Minutes — May 26, 2026, (pg.6) 4 complete video of the meeting can be found at www.orem.org/meeting
+
+Mr. McGinn presented a mandatory update to Chapter 10 of the Orem City Code
+regarding flood damage prevention. Mr. McGinn highlighted that flooding is statistically the
+most common and destructive natural disaster in Utah, causing more consistent property damage
+year in and year out than any other hazard. Citing state data, he noted a surprising statistic: 60%
+of all properties in Utah have a 25% chance of experiencing a flood during the lifespan of a
+standard 30-year mortgage. Furthermore, 40% of all recorded flood damage in the state occurs
+entirely outside of designated high-risk zones, meaning properties far from rivers, creeks, or
+
+lakes are frequently impacted by localized events. =
+
+To illustrate how standard policies fail to cover these events, Mr. McGinn shared a
+personal anecdote from his 22 years in his home, where he experienced two separate floods
+despite living nowhere near a body of water. One was caused by a severe microburst 15 years
+ago, resulting in a flooded room that he had to pay for entirely out of pocket because he lacked
+specialized flood insurance. The second occurred just a few months prior when an outdoor water
+spigot broke. Because the physical pipe fracture happened on the inside wall of the house,
+standard homeowners insurance classified it as an internal plumbing failure and covered the
+$12,000 repair bill. Mr. McGinn emphasized that if the pipe had broken on the exterior of the
+wall and sent water flooding into the home from the outside, standard insurance would not have
+covered the damage, leaving him fully liable. Standard homeowners insurance strictly excludes
+external flood damage, which makes access to specialized coverage vital for local residents.
+
+The city’s access to federally backed flood insurance is tied directly to its participation in
+the National Flood Insurance Program (NFIP), which was established in the 1960s to reduce
+flood risks through community mitigation grants, disaster assistance, and floodplain
+management. Orem has maintained a voluntary federal-local partnership and an approved local
+ordinance since the 1980s. However, a local code update is now required due to federal map
+revisions finalized in June 2024. These map updates reflect changing regional flood risks,
+advancements in digital mapping technologies, and physical changes along the Utah Lake
+shoreline. Mr. McGinn also noted that regional flood risks are impacted by uncertified levees in
+the area—specifically referencing infrastructure built hastily in neighboring Provo during the
+historic 1983 floods that was never formally certified by the U.S. Army Corps of Engineers,
+creating unique ongoing challenges for local emergency planning.
+
+To maintain eligibility in the NFIP so that Orem residents can purchase federally backed
+flood policies, the City Council must formally adopt an ordinance that complies precisely with
+federal standards. While the city's initial application and adoption deadline was slated for June
+23, 2026, Mr. McGinn announced that Mayor McCandless had received an official extension
+letter from FEMA pushing the compliance deadline back to August 2026. The Community
+Development Department is utilizing FEMA's standard model template to update Chapter 10,
+ensuring seamless compliance without shifting or disrupting existing municipal protocols. The
+revised ordinance will continue to enforce best-practice building mandates within designated
+flood zones, such as requiring the habitable floor area of any new construction to be elevated
+safely above the base flood elevation line. Although the amendments were not up for an active
+
+City Council Minutes — May 26, 2026, (pg.7) A complete video of the meeting can be found at www.oreni.org/meeting
+
+vote during this specific meeting, Mr. McGinn concluded the briefing by noting that the finalized
+ordinance would wind its way back to the council for formal adoption over the coming month.
+Neighborhood Improvement Team (NIT) and Parking Enforcement Continued
+Presentation Presenter: Aaron McKnight, Assistant City Attorney
+
+Mr. McKnight presented a series of proposed code updates dividing municipal code
+enforcement into distinct administrative frameworks: neighborhood improvements and parking
+regulations. Mr. McKnight outlined immediate concessions designed to grant homeowners
+property flexibility while maintaining neighborhood aesthetics. The first major change allows
+residents to store one unregistered vehicle openly in a driveway—a practice strictly banned
+under current code, which forces unregistered vehicles into a garage or behind a side fence in the
+backyard. Under the proposed compromise, one vehicle can be kept in a driveway if it is shielded
+by an approved vehicle cover, remains completely free of visible body damage, flat tires, or
+jacks, and does not display junk parts that give the property an unkempt appearance. This allows
+car restoration hobbyists to park their projects in driveways, provided the vehicle is clean and
+neat while they are not actively working on it.
+
+To prevent neighborhood friction and prolonged compliance disputes, the proposed code
+will explicitly restrict all residential vehicle parking to paved driveways, specialized parking
+districts, or behind side fences. This update directly clarifies ambiguities surrounding gravel park
+strips, which are legally defined as four-inch-deep gravel beds running adjacent to a paved
+concrete, asphalt, or paving-stone driveway. Mr. McKnight explained that NIT officers
+frequently engage in circular debates with residents who park directly on lawns and argue they
+are in compliance because municipal code only mandates landscaping for up to 60% of a yard;
+the explicit text update will firmly establish that grass parking is a code violation. Additionally,
+the city will expand its existing authority over sidewalk-obstructing trees and bushes to target
+any vegetation blocking critical traffic control signals or speed limit signs. The code will classify
+blocked traffic signals as public nuisances, granting NIT the authority to step in and trim the
+growth or legally compel the property owner to clear the line of sight.
+
+A major pillar of the structural update focuses on increasing fine schedules for repeat
+code and parking violators to counter situations where breaking the law is a profitable business
+model. For instance, landlords frequently bypass the city's three-unrelated-person occupancy cap
+because the existing $50-a-day fine is lower than the rental income generated by the extra
+tenants. This has created a revolving door where landlords temporarily evict extra occupants to
+clear a ticket, only to refill the home six months later. Similarly, down by Utah Valley University
+(UVU), student renters systematically ignore the city’s $25 illegal parking fines because
+collecting two or three tickets a month is cheaper than buying an official apartment parking pass.
+The council confirmed they will escalate repeat fines rather than implementing booting or towing
+measures, which will remain reserved purely for abandoned vehicles. This targeted escalation
+aims to provide a clear financial wake-up call to chronic offenders who treat minor municipal
+penalties as a standard cost of doing business.
+
+City Council Minutes — May 26, 2026, (pg.8) A complete video of the meeting can be found at www.orem.org/meeting
+
+The council also tackled newly identified commercial loopholes, specifically targeting car
+dealerships that clog public streets by parking their vehicle inventories on public roadways. Mr.
+McKnight detailed ongoing efforts to educate transport drivers who create extreme traffic
+hazards by parking vehicle haulers directly in the middle of State Street at night. The upcoming
+text change will explicitly mandate that car dealerships house their entire inventory within their
+designated, paved dealership parking lots. Additionally, the code will establish an official park
+curfew for vehicles to prevent individuals from using city parks as permanent storage lots for
+
+their recreational vehicles (RVs), boats, and trailers to. evade the 72-hour street parking limit.»
+Council Member Millett requested an explicit timeline boundary on the street sale allowance,
+prompting Mr. McKnight to clarify that while the new code will allow residents to park a single
+vehicle for sale directly in front of their own home, these vehicles will remain strictly bound to
+the standard 72-hour street moving limit to close potential long-term storage loopholes.
+Furthermore, to combat the 72-hour shuffle, the code will now legally mandate that any
+street-parked boat, trailer, or RV must be moved a minimum distance of 200 feet down the block
+every three days.
+
+Looking toward long-term legislative goals, Mr. McKnight introduced three complex
+municipal projects slated for deeper review over the next year or two: 1) Rental Disclosures:
+Adapting a regulatory framework utilized by Provo, the city aims to implement mandatory rental
+disclosures for landlords to systematically track and enforce long-term occupancy limits in the
+local college-town environment. Mr. McKnight noted this requires a heavy administrative lift to
+collect, process, and track landlord submittals. 2) Food Truck Ordinances: The current municipal
+code restricts food trucks from operating in a single location for longer than five hours, an
+outdated metric that has driven some vendors to remove their wheels and place trucks on
+permanent blocks to bypass mobile vendor regulations. The city will actively engage the local
+food truck industry to draft an enforceable, modern framework that gives mobile businesses
+operational clarity. 3) Tax and Financial Equity: The council discussed tax distribution
+challenges, as standard mobile vendor sales taxes are frequently routed back to a food truck’s
+corporate home base rather than the city where the transaction occurs, placing brick-and-mortar
+restaurants at a competitive disadvantage.
+
+The meeting concluded with the council acknowledging the administrative steps ahead,
+noting that these immediate and future code overhauls will head to the Planning Commission for
+initial review before returning to the full City Council for a final legislative vote.
+
+CITY COUNCIL / STAFF REPORTS (BOARDS & COMMISSIONS, NEW BUSINESS,
+ETC.
+
+Council Member Muhlestein provided an update on four municipal areas of oversight.
+Highlighting her work with the Public Works Advisory Commission, she noted that the
+implementation of the transportation utility fee has been the primary focus of recent department
+discussions. Mr. Tschirki emphasized that the fee is at the forefront of their current efforts and
+announced that the city will shortly introduce a new public services director to help lead those
+
+City Council Minutes — May 26, 2026, (pg.9) A complete video of the meeting can be found at www.orem.org/meeting
+
+closed initiatives. Mr. Tschirki formally thanked Ms. Muhlestein for sitting on the interview
+committee, noting that while it has been a long hiring process, the addition will be well worth the
+effort.
+
+Ms. Muhlestein highlighted her work alongside Council Member Lambson on the Events
+Commission, noting that Oremfest is quickly approaching. She expressed excitement to see the
+commission's hard work come to fruition during what is always a fantastic week for the
+community. Furthermore, she reported that the Orem Youth Council wrapped up its operations
+for the school year last month, with the student participants thoroughly enjoying their time in the
+program. Ms. Muhlestein has already fielded emails from several individuals, including Miss
+Orem competition participants, who were previously unaware of the Youth Council and are eager
+to participate when the new school year begins. Finally, regarding her assignment with the Utah
+League of Cities and Towns (ULCT) Legislative Policy Committee, Ms. Muhlestein noted that
+the committee has been on a brief hiatus since the conclusion of the formal legislative session
+and the St. George convention, but interim sessions are scheduled to resume next month to track
+upcoming state-level policy.
+
+AGENDA REVIEW & PREVIEW OF UPCOMING AGENDA ITEMS
+ADJOURN TO REGULAR SESSION
+Ms. Millett moved to adjourn to the regular session, seconded by Mr. Killpack. Those
+voting yes: Karen McCandless, Chris Killpack, Crystal Muhlestein, Jeff Lambson, LaNae Millett
+and Quinn Mecham. The motion passed. Absent: Jenn Gale
+6:00 P.M. REGULAR SESSION - COUNCIL CHAMBERS
+CONDUCTING Mayor Karen McCandless
+ELECTED OFFICIALS Karen McCandless, Crystal Muhlestein, Jeff Lambson,
+LaNae Millett, Chris Killpack, Quinn Mecham ABSENT
+Jenn Gale
+
+APPOINTED STAFF Brenn Bybee, City Manager; Ryan Clark, Assistant City
+Manager; Keri Rugg, Deputy City Manager; Steve Earl,
+City Attorney; Chris Tschirki, Public Works Director;
+Bryce Merrell, Library and Recreation Director; Brandon
+Nelson, Finance Director; Marc Sanderson, Fire Chief; BJ
+Robinson, Police Chief; Gary McGinn, Community
+Development Director; Peter Wolfley, Communications
+Manager, PIO; Melissa Mullins, Deputy City Recorder
+
+CALL TO ORDER
+
+City Council Minutes — May 26, 2026, (pg.10) 4 complete video of the meeting can be found at www.orem.org/meeting
+
+INVOCATION / INSPIRATIONAL THOUGHT -Tom Scribner
+
+PLEDGE OF ALLEGIANCE / FLAG CEREMONY - Glenna Scribner
+
+MAYOR’S REPORT/ ITEMS REFERRED BY COUNCIL
+
+Legislative Report Presenter: Nelson Abbott, Utah State Representative
+
+Utah State Representative Nelson Abbott provided a legislative report to the council,
+
+--—_@pening with praise for the city's leadership and the touching nature of the recent Gold Star = —
+
+Memorial ceremony he attended. Rep. Abbott, who represents approximately one-third of
+
+Orem's population and 80% of neighboring Vineyard in the House of Representatives, explained
+
+that a primary anxiety at the state level is the rising cost of living. He expressed frustration that
+
+the state's hands are somewhat tied, as the primary economic levers driving inflation occur at the
+
+federal level. He noted that while the state's upcoming 15% reduction in the gas tax on July 1,
+
+2026, sounds beneficial on paper, it may pass largely unnoticed by consumers due to fuel prices
+
+doubling or worse over the preceding months. To counter broader financial strain, Rep. Abbott
+
+highlighted that the state has substantially lowered income taxes over the past six years while
+
+simultaneously increasing overall education funding by 36% during that same period. For the
+
+current fiscal year, the legislature successfully raised the weighted pupil unit (WPU) by 4.6%, a
+
+critical resource injection as the local community navigates the economic constraints and
+
+structural division associated with forming a new school district.
+
+Rep. Abbott highly commended his collaborative working relationship with Orem and
+Vineyard officials, thanking them for continuously screening proposed legislation and providing
+practical feedback on how specific bills would directly impact local citizens. Mayor McCandless
+echoed this sentiment, expressing gratitude for Rep. Abbott’s accessibility and willingness to
+discuss local legislative impacts. When asked by Council Member Mecham to outline his interim
+priorities leading up to the January 2027 legislative session, Rep. Abbott identified tax increment
+financing (TIF) and commercial tax incentives as a major area of focus. Sparked by recent public
+scrutiny over a data center development in northern Utah, Abbott stated that while business tax
+incentives serve an economic purpose, the legislature needs to establish tighter guardrails and
+more careful structures to ensure elected officials retain greater responsibility and oversight
+regarding which entities receive public funding. He acknowledged that returning back an
+established government program is incredibly difficult, but committed to tackling the challenge
+during the interim months. Concluding the item, City Manager Bybee praised Rep. Abbott as a
+thoughtful, highly accessible partner to the city, and Council Member Lambson extended a
+formal thank you to Rep. Abbott and his wife for the mutual personal sacrifices they make to
+serve the community.
+
+Natural Resources Advisory Commission Awards Presentation Presenter: Bradley Day,
+Community & Sustainability Officer and Hillary Hungerford, member of the Natural Resources
+Advisory Commission
+
+City Council Minutes — May 26, 2026, (pg.11) A complete video of the meeting can be found at www.orem.org/meeting
+
+Mr. Day introduced the annual Natural Resources Advisory Commission awards, an
+initiative designed to recognize local leaders who champion environmental efforts such as clean
+air, energy efficiency, water-wise landscaping, and healthy ecosystems. Commission member
+Hungerford presented the awards to two Orem residents, Cole Ludwig and Orin Cooper, who
+both took distinct, highly sustainable approaches to transforming their personal properties. Mr.
+Ludwig was recognized for converting roughly two-thirds of his traditional lawn into a thriving
+native pollinator habitat. Mr. Ludwig explained that his family's project began five years prior as
+an effort to cut down on their high household water use. By participating in the state's Pollinator
+Habitat Program—established by the Utah Legislature and Department of Agriculture in
+2002—Mr. Ludwig secured a variety of drought-tolerant native plants. He shared that the garden
+has successfully attracted a vibrant array of butterflies and native insects, including carpenter
+bees and various solitary bees, which are part of the state's diverse population of over 1,000
+native bee species.
+
+The second recipient, Mr. Cooper was recognized for transforming his entire, sloped front
+yard into a highly productive vegetable garden. Mr. Cooper stated that his family was driven by a
+desire to stop wasting water, noting that their old lawn consumed a staggering 96,000 gallons of
+water in a single month just to stay green. By removing the turf, they saved enough water
+annually to support a full household of four. Despite producing an abundance of fresh vegetables.
+Mr. Cooper highlighted several regulatory challenges they encountered during the transition. Due
+to local ordinances maintaining strict minimum turfgrass requirements, properties in Orem and
+Provo did not qualify for certain state conservation grants. Mr. Cooper noted that their property
+went from being reported as one of the ugliest yards in the city during its initial, muddy winter
+phase to being celebrated as one of the most beautiful just 15 months later.
+
+Mr. Cooper used the presentation to advocate for updates to the city's landscaping
+ordinances, pointing to recent regional policy updates where Salt Lake City's primary water
+supplier announced plans to fine municipalities that exceed their allotted water volumes. He
+urged the city to encourage more residents to adopt pollinator-friendly and water-wise yards,
+which would help conserve resources and naturally replenish regional groundwater supplies.
+Oremfest Kick Off Presentation Presenter: Kenice Whitaker, Events Manager and Sydney
+Wong, Events Coordinator
+
+Ms. Whitaker and Ms. Wong presented the official kickoff briefing for Oremfest 2026,
+which took place from June 8 through June 13. Mayor Karen McCandless opened the item by
+expressing her excitement for the upcoming festivities, humorously noting that the previous
+sustainable landscaping presentation gave her "yard envy" and inspired her to reduce the
+turfgrass in her own front yard next. Ms. Wong introduced the official theme for the 2026
+festival, "Red, White, Blue, and You," which was chosen to celebrate the National America 250
+milestone marking 250 years of freedom in the United States. The theme was framed as a tribute
+to the enduring American spirit and a living legacy passed down through generations in Orem,
+which is recognized nationally as "Family City USA."
+
+City Council Minutes — May 26, 2026, (pg.12) 4 complete video of the meeting can be found at www.orem.org/meeting
+
+Ms. Whitaker announced that the Colonial Heritage Festival was selected as the 250th
+anniversary Grand Marshal. As the largest colonial living history festival located east of the
+original 13 colonies, the organization is based right in Orem and hosts its main reenactment
+events from July 2 through July 4 at Scera Park. Reenactors dressed as historic revolutionary
+figures, such as George Washington and Benjamin Franklin, were scheduled to make special
+interactive appearances throughout Orem Fest at the car show, carnival, and Orchard Jam. Ms.
+Wong and Ms. Whitaker expressed immense gratitude to the 10 members of the Event Advisory
+
+Commission, municipal staff, and various corporate donors. They highlighted Servproas the =
+year's title sponsor, noting that their extensive cash and in-kind donations were critical in
+providing resources for volunteers and helping transition the massive city festival away from
+being a heavy taxpayer budget item into a community-supported celebration.
+
+The presenters then provided a detailed, day-by-day breakdown of the Orem Fest
+schedule: Monday, June 8: The festivities launched with the Orem Fest Car Show featuring over
+100 showcase vehicles, local business booths, and free hot dogs provided to the first 2,000
+attendees. Tuesday, June 9: The Orem Fest Pool Party offered discounted $3 admission tickets
+alongside live music, dancing contests, and free ice cream. Concurrently, the annual Kiwanis
+Club Charity Golf Tournament kicked off at 8:00 AM. Wednesday, June 10: The day began with
+an all-day Sports Fest Pickleball Tournament featuring men's, women's, mixed, and parent-child
+divisions. In the evening, the festival partnered with the University Place Mall to host "Orchard
+Jam," a large 250th American birthday celebration complete with foam cannons, giant lawn
+games, free birthday cake, balloons, a children's entrepreneurship market, and a silent disco.
+Thursday, June 11 & Friday, June 12: The main Oremfest Carnival and its 19 diverse food
+vendors and 48 boutique craft wagons opened at City Center Park, running from 11:00 AM to
+10:00 PM on Thursday, and extending until 11:00 PM on the weekend. The park hosted free
+patriotic children's crafts from 1:00 PM to 4:00 PM both days, with the Orem Public Library's
+Maker Space joining on Friday. Additional athletic events included a Sports Fest Cornhole
+Tournament and "Orem Fest Fit"—an outdoor, high-energy fitness showcase led by instructors
+from the Orem Family Fitness Center. Friday evening concluded with a community kickball
+tournament, the 10th anniversary of the "Orem's Got Talent" competition on the City Center
+Stage at 7:00 PM, and a massive synchronized drone show at 9:45 PM featuring music
+broadcasted locally over KOHS radio. Saturday, June 13: The final day opened with the annual
+Rotary Club Pancake Breakfast from 8:00 AM to 10:00 AM, followed immediately by "Yoga in
+the Park" in front of the main stage. A specialized baby contest was hosted at the Hillcrest Park
+Center, where the winning infants earned a spot to ride directly in the upcoming parade.
+
+The concluding segment of Saturday's itinerary featured two major highlights: the newly
+established Orem Fire Department Fun Run and the Grand Parade. Ms. Wong explained that the
+Fun Run was organized as a community fundraiser to support the Fire Department's efforts to
+fully restore the city's historic Engine Number One. Council Member Millett lauded the event
+organizers for strategically mapping the run directly along the main parade route just before the
+floats arrived, allowing runners to perform right in front of the gathered crowds. Ms. Millett also
+
+City Council Minutes — May 26, 2026, (pg.13) A complete video of the meeting can be found at www.orem.org/meeting
+
+highly commended the event staff for moving "Oremfest Fit" to an 8:00 PM time slot to escape
+the daytime heat, and repeated her praise for their success in shifting the festival’s financial
+burden onto community sponsors. Mayor McCandless concluded the presentation by endorsing
+the Fire Department Fun Run.
+
+Summer Reading Program Presentation Presenter: Meg Flinders-Peay, Program Librarian
+
+Ms. Flinders-Peay presented the annual briefing for the Orem Public Library's 2026
+Summer Reading Program. Ms. Flinders-Peay highlighted that the library staff had spent over a
+year planning and preparing for the seasonal initiative, which officially launched on Saturday,
+May 30. This year's overarching theme, selected by the Collaborative Summer Library Program,
+is "Unearth a Story." The slogan was chosen to celebrate the joy of exploration and discovery,
+whether patrons are digging into a new book, uncovering hidden historical narratives, or
+engaging with local community knowledge. The library manages the entire program digitally
+through an application called Beanstack, where participants can log their reading minutes, unlock
+digital badges, and qualify for various milestones and rewards. The library staff anticipates
+serving approximately 2,000 young participants between the ages of zero and 18 over the course
+of the summer.
+
+Ms. Flinders-Peay explained that the core mission of the program is to combat the
+"summer slide"—the well-documented decline in reading comprehension and critical literacy
+skills that frequently occurs when children are away from school on summer break. By providing
+free, educational, and interactive community experiences, the library aims to instill positive,
+lifelong attitudes toward literature and learning. The program's kickoff featured an interactive
+performance group called Live History Shows, which designed a library-wide quest blending
+elements of an escape room and a theatrical performance to challenge patrons to solve historical
+clues before time ran out. The rest of the summer schedule includes a targeted junior fiction "Red
+Pyramid Party" celebrating the popular series by Rick Riordan, educational film screenings, a
+specialized "Mammoth Day" highlighting the prehistoric mammoth remains famously
+discovered in Orem, and an archeological "Trash Talk" activity where teenagers will dissect
+artificially created garbage piles to learn how modern archeologists study ancient civilizations.
+
+Beyond the educational events, the library structured a dynamic incentive program to
+reward consistent reading. Participants can earn raffle tickets for prize drawings featuring games,
+toys, books, and donations from local museums and businesses. Every child between the ages of
+zero and 11 who successfully completes the summer challenge will receive a dinosaur toy, while
+teenage readers will receive a custom-curated goodie bag containing items they selected
+themselves. Furthermore, the library introduced an exclusive prize for "completionists" who
+finish the entire summer challenge: a genuine fossil dug up by Orem librarians during a team
+excavation trip the previous fall. Completing the full challenge also grants readers free entry into
+the annual pool party finale hosted at Scera Pool.
+
+The presentation concluded with praise from city leadership. In response to an inquiry
+from Mayor McCandless regarding summer programming for adults, Ms. Flinders-Peay clarified
+
+City Council Minutes — May 26, 2026, (pg.14) 4 complete video of the meeting can be found at www.orem.org/meeting
+
+that the library runs a separate, year-long initiative called the Orem Reading Challenge, which
+runs from January through November to better accommodate the scheduling demands of adult
+readers. Council Member Mecham commended Ms. Flinders-Peay's leadership, emphasizing that
+the Orem Public Library has successfully transitioned from a traditional repository for storing
+books into a modern "experience library." Mr. Mecham lauded the department for creating an
+inspiring community asset where residents actively gather to engage with one another, share
+unique experiences, and find inspiration.
+
+Miss Orem Introductions Presentation Presenter: Donna Millard, Miss Orem Director and
+Joanne Jeffs, Miss Orem Events Coordinator
+
+Ms.Millard and Ms. Jeffs presented the newly crowned 2026 Miss Orem and Miss
+Orem’s Teen royalty. Ms. Millard opened the presentation by noting that the young women had
+recently used the city council chambers to practice their official interview skills, and she
+commended the exceptional caliber of the program's participants each year. Ms. Jeffs emphasized
+the organization's strong working relationship with city officials, noting that residents will
+frequently see the newly elected royalty accompanying city leaders at local ribbon cuttings,
+parades, and municipal events. Following these introductory remarks, the members of the newly
+elected royalty introduced themselves and detailed their individual Community Service
+Initiatives (CSI): Mellie (Miss Orem 2026): Introduced her CSI titled "Melly for MLE"
+(Multilingual Education). Her platform focuses on advocating for bilingualism and expanding
+dual-language immersion programs within Utah schools. Brooke (Miss Orem Attendant):
+Formally introduced her CSI, "Dreamers into Believers," which is designed to help fifth-grade
+students build core leadership skills and map out actionable plans to achieve their future goals.
+Andy Oldham (Miss Orem’s Teen 2026): The 17-year-old titleholder introduced her platform,
+"Stronger than the Storm," which focuses on expanding mental health awareness and emotional
+support resources specifically for teenagers. Harley Wild (Miss Orem’s Teen First Attendant):
+Outlined her environmental CSI, "Keep It Green by Staying Clean." Her platform promotes
+community beatification through organized litter cleanups and the planting of trees, shrubs, and
+flowers across Orem. Sienna Busey (Miss Orem’s Teen Second Attendant): Presented her
+initiative, "Notes of Hope: Amplifying Change through Music," which aims to bridge local
+musicians with non-profit organizations to provide live musical support and raise community
+awareness at charity events. Elsie Thomas (Miss Orem’s Teen Third Attendant): Shared her
+platform, "The Joy Project," which focuses on researching, identifying, and teaching healthy,
+effective psychological coping mechanisms for individuals of all age groups.
+
+There was a warm expression of support from city leadership. Mayor McCandless
+congratulated the young women and expressed her enthusiasm for serving alongside them at
+upcoming community events throughout the year. Council Member Lambson offered a special
+behind-the-scenes shout-out to Ms. Millard, Ms. Jeffs, and their entire volunteer team. Mr.
+Lambson noted that he had personally heard from multiple parents over the preceding month
+
+City Council Minutes — May 26, 2026, (pg.15) A complete video of the meeting can be found at www.orem.org/meeting
+
+praising the directors for their powerful, empowering mentorship, and he thanked the
+coordinators for their enduring dedication to strengthening and uplifting Orem's youth.
+Police Autism Picnic Presentation Presenter: Kamryn Wilson, Behavioral Health Specialist
+
+Ms. Wilson provided a detailed recap of the fifth annual "Picnic with Police," an event
+organized by the police department's mental health unit to celebrate, support, and enhance
+positive relationships between uniform law enforcement and citizens with special needs. Ms.
+Wilson, who has run the department's mental health unit for six years, explained that the
+inspiration for the event came during her first two weeks on the job during a ride-along with a
+large, physically intimidating officer. The officer initiated a traffic stop on a minivan lacking a
+rear license plate; when the anxious mother explained she simply lacked the correct screwdriver
+to mount it, the friendly officer offered to install it for her on the side of the road. During the
+stop, Ms. Wilson and the officer noticed intense distress coming from inside the vehicle,
+prompting the mother to explain that her young son had autism and was absolutely terrified of
+police officers. Though the officer immediately ran back to his cruiser to gather standard-issue
+rapport-building items like stickers and treats to calm the boy, the overwhelmed mother
+ultimately asked if they could just be allowed to leave. Upon returning to the station, Ms.
+Wilson's lieutenant challenged her to address this community gap, which sparked the creation of
+the interactive picnic.
+
+The event has experienced massive growth, expanding from an initial first-year turnout of
+500 attendees to more than 1,500 participants at the most recent gathering held one month prior.
+The picnic successfully hit its target vulnerable demographic, drawing massive support from
+within the department itself, with over 70 active police employees volunteering to operate 15
+distinct, interactive police booths featuring activities like grilling, face painting, Connect Four,
+kickball, volleyball, and Legos. Additionally, 22 local organizations and resource groups set up
+booths to equip special-needs families with preventative tools designed to build community
+connections and avert crisis situations before they occur. Ms/ Wilson highlighted that the event
+functions as an invaluable, real-world training environment for officers to practice genuine
+de-escalation and relationship-building. The picnic has become so popular within the department
+that officers actively negotiate shift-work coverage on the road just to secure a spot to attend.
+
+Ms. Wilson noted that the high-impact event does not cost Orem taxpayers any money, as
+it is funded entirely through community donations and corporate sponsorships, specifically
+highlighting the Autism Council and Macy's as primary benefactors, alongside critical logistical
+setup support provided by the city's Parks Department. Although the City Council missed this
+year’s picnic due to a scheduling conflict with the Utah League of Cities and Towns convention,
+Council Member Millett lauded Ms. Wilson's efforts, stating that multiple personal friends who
+take their children to the picnic have called it an absolute "game changer" for fostering positive
+child-police interactions.
+PERSONAL APPEARANCES
+
+City Council Minutes — May 26, 2026, (pg.16) A complete video of the meeting can be found at www.orem.org/meeting
+
+Opened at 6:46 PM
+
+Amy Harrocks urged the City Council to find a regulatory middle ground for short-term
+rentals (STRs) rather than a total prohibition. While acknowledging the horrific disruptions
+caused by non-compliant properties, she argued that punishing every law-abiding owner for the
+bad behavior of a few is unfair, noting that she has friends whose primary income relies on
+legally run STRs. Ms. Horrocks advocated for a compromise that heavily penalizes and removes
+
+~~ bad actors who exploit the system, while legally protecting responsible operators who maintain”
+excellent relationships with their neighbors.
+
+Mayor McCandless provided a public update on the city's progress regarding short-term
+rentals (STRs), announcing that the City Council has officially directed the city attorney's office
+to draft two distinct, competing ordinances for further review. The first ordinance would strictly
+permit owner-occupied STR units, while the second would establish a two-tiered system
+allowing both owner-occupied and a limited number of non-owner-occupied rentals, with the
+exact citywide numerical caps still to be determined. Mayor McCandless clarified that these two
+drafts will return to the council for a productive debate during the next scheduled work session
+on June 23, 2026. She emphasized that while no final legislative decision has been made and a
+long process remains ahead, the directive indicates that the city is no longer moving toward an
+all-out ban on STRs. Council Member Millett clarified that shifting the focus exclusively to these
+two regulated frameworks represents a major political compromise by the council, explicitly
+noting that while many residents have strongly lobbied for a total prohibition, council members
+are actively working toward a middle ground. Mayor McCandless thanked Ms. Millett for the
+clarification, acknowledging that several council members initially felt an outright ban was the
+most appropriate path forward, and reaffirmed that the upcoming June 23rd ordinances are the
+direct result of compromise.
+
+Nikko Romney highlighted the positive economic and community impacts of short-term
+rentals (STRs) in Orem. He emphasized that the majority of local STR owners are local families
+and small investors using the income to offset rising costs and secure their retirement. Romney
+noted that STRs provide steady work for local contractors, cleaners, and landscapers, while
+driving tourism dollars directly to small businesses and unique Orem restaurants. Pointing out
+that many guests are returning residents or families visiting local universities, he thanked the
+council for making compromises and advocated for a fair regulatory framework that protects
+responsible operators.
+
+Aubree Spicer argued that regulations should target measurable neighborhood impacts
+rather than an arbitrary occupancy cap on short-term rentals (STRs). Sharing her experience
+living next to an STR, a sober living home, and multiple long-term rentals, Ms.Spicer noted that
+the STR has caused zero issues due to active management, whereas the long-term and sober
+living properties have been far more problematic. Pointing to Heber City’s policy, which allows
+up to 16 guests but limits parking strictly to the driveway, she urged the council to focus on
+
+City Council Minutes — May 26, 2026, (pg.17) A complete video of the meeting can be found at www.orem.org/meeting
+
+impact-based rules across all housing types to protect neighborhoods without punishing
+responsible owners.
+
+Kris Hammond urged the City Council to adopt a forward-thinking, data-driven
+short-term rental (STR) policy. She noted that strict regulations are already backfiring regionally.
+Ms. Hammond argued that STRs do not harm local housing stock and are necessary to support
+future regional growth. Representing an operation that employs 10 people, he criticized
+mandatory vacancy rules, noting average STRs sit empty 50% of the time, and asked the council
+to base limits on bedroom counts rather than an arbitrary eight-guest cap.
+
+John Brooks spoke in support of short-term rentals (STRs), noting that he lives next to
+one of the largest rental properties in the city and has never experienced any issues with noise or
+street parking. He praised the large home for providing an ideal space for visiting families.
+Brooks emphasized that he has far greater neighborhood concerns regarding foot traffic on
+Palisade Drive from a nearby hospital and lodge. Thanking the council for their service, he
+advocated for the value of responsible rentals that bring visitors and recognition to Orem.
+
+Jerry Duckworth spoke on behalf of Orem friends to advocate for short-term rentals
+(STRs). He highlighted how responsible rentals foster positive cultural exchanges. Mr.
+Duckworth emphasized that STRs allow visitors to support the local economy while providing
+vital income that helps residents afford their homes. Pointing to broader economic uncertainties
+and potential threats to fixed incomes. He urged the council to protect the livelihoods of
+operators who have diligently followed the city's previous guidelines.
+
+Connie Romney explained that cleaning short-term rentals (STRs) serves as a vital
+second job that has provided essential financial stability for her family following her husband's
+early retirement. Ms. Romney emphasized that for working-class families trying to navigate the
+high cost of living, these properties are not corporate enterprises but critical economic lifelines.
+She pointed out that the STR she cleans maintains a beautiful house and yard, whereas a
+neighboring owner-occupied home is falling apart. She urged the council to support responsible
+operators and protect the vital service-industry jobs that local residents depend on.
+
+Gavin Nebeker spoke in support of short-term rentals (STRs), urging the council not to
+overcorrect for a few "bad apples." Mr. Nebeker shared that after moving to Orem three years
+prior, he was surprised to learn his neighbors operated an Airbnb, as it was well-run and had
+never caused any disruptions. He explained that local STRs have directly benefited his family.
+He cautioned that excessive regulations could eliminate valuable community services and force
+responsible neighbors to move away.
+
+Rocia Lizano (speaking through a translator) shared that operating a short-term rental is a
+vital financial lifeline that allows her to remain home and care for her son, who has Down
+syndrome. By transforming a property into a beautiful space, she is able to support her family
+while providing a valuable service to the community by hosting families.
+
+Brandon Beebe urged the council to base short-term rental (STR) policy on data rather
+than anecdotes. Mr. Beebe countered inflated public claims by noting that Orem only has about
+200 total active STR listings, with only 89 being whole-home rentals. He shared that he
+
+City Council Minutes — May 26, 2026, (pg.18) A complete video of the meeting can be found at www.orem.org/meeting
+
+personally submitted a GRAMA records request for all neighborhood complaints since 2024,
+aiming to present an analysis proving that the same six or seven problematic properties drive the
+complaints heard at every meeting. He cautioned the council against creating restrictive citywide
+ordinances based on a few bad actors.
+
+Aaron Kirkham cautioned the council that overly restrictive policies like arbitrary
+eight-guest caps and mandatory five-day vacancy rules could expose Orem to costly legal
+liability. Mr. Kirkham warned against treating STRs differently than other licensed businesses.
+
+He noted that operational blackouts would severely harm the growing "midterm" market for = —
+traveling contractors and families, urging Orem to instead mirror Kane County, Utah, by
+systematically tying occupancy directly to bedroom counts.
+
+Morgan Romney spoke in support of short-term rentals (STRs), emphasizing that they act
+as a vital economic lifeline for local workers and small businesses. Ms. Romney highlighted that
+her family's STR operation directly employs local cleaners, landscapers, and contractors, while
+providing essential lodging for visiting families and tourists. While thanking the council for
+seeking compromises rather than a total ban, she cautioned that overly restrictive rules could
+cause small operators and working families to lose critical income.
+
+Closed at 7:23 PM
+
+CONSENT ITEMS
+
+City Council 2026 Schedule Update
+
+Mr. Killpack moved to approve the consent items, seconded by Mr. Mecham. Those voting
+yes: Karen McCandless, Chris Killpack, Crystal Muhlestein, Jeff Lambson, LaNae Millett and
+Quinn Mecham. The motion passed. Absent: Jenn Gale
+
+SCHEDULED ITEMS
+
+Orem Community Development Block Grant (CDBG) Updated Annual Action Plan and
+Proposed Budget - Presenter:Bradley Day, Community & Sustainability Officer and Jessica
+DeLora, Mountainland Association of Governments (MAG)
+
+Ms. DeLora, representing the Mountain Land Association of Governments (MAG),
+explained that a scheduled vote to approve the plan was delayed because the city had to adjust
+the timeline to address its historic revolving loan fund. Started decades ago to assist small
+businesses, the loan program has been inactive since 2017 because the heavy federal compliance,
+administration, and reporting requirements outweigh the benefits of the small-dollar loans.
+
+This inactivity left approximately $350,000 in unspent funds, triggering a U.S.
+Department of Housing and Urban Development (HUD) "timeliness test" violation, which
+mandates that a city cannot hold more than 1.5 times its annual allocation in its CDBG account.
+
+City Council Minutes — May 26, 2026, (pg.19) A complete video of the meeting can be found at www.orem.org/meeting
+
+Because a federal government shutdown and agency short-staffing delayed reconciliation efforts,
+HUD instructed the city to immediately program the $350,000 into the current action plan to
+resolve the issue. To meet this requirement, MAG inserted a generic capital improvements
+placeholder project, increasing the city's total expected CDBG funding for the year to over $1
+million, which includes a $563,000 annual allocation and $100,000 in recaptured past funds.
+
+Ms. DeLaura outlined the adjusted compliance timeline for public input and plan
+approval: June 11: Public hearing hosted online and at the MAG offices. June 22: Closure of the
+public comment period, which is hosted on the Orem CDBG website. June 23: City Council vote
+to officially approve the action plan for HUD submission.
+
+Mayor McCandless noted that the $350,000 delay was entirely the fault of federal
+government backlogs rather than the city, agreeing that the standard revolving loan program
+simply lacked the return on investment to justify the immense federal bureaucracy. Council
+Member Millett advocated using the upcoming fall application cycle to expand CDBG
+opportunities to a broader pool of out-of-the-box nonprofits. She suggested moving beyond
+traditional food pantries to support groups that provide meal preparation education and direct
+meal delivery. Ms. Millett also offered to utilize the city's relationships with federal legislators,
+like Senators Mitt Romney and Mike Lee, to help strip away excessive bureaucratic red tape.
+
+Ms. DeLora and Mayor McCandless discussed strategies to prevent setting up smaller
+nonprofits for failure due to rigid HUD financial management and reporting standards. Ms.
+DeLora suggested providing targeted technical assistance to help emerging nonprofits build the
+administrative capacity required to be competitive. Mayor McCandless proposed a consortium
+model where an established entity, like a community action agency, manages the primary
+compliance burden and subcontracts funds to smaller, localized groups. Ms. DeLora concluded
+by inviting the council to submit prospective organizations to MAG's thousands-strong mailing
+list and to collaborate early on future project ideas to vet their eligibility against HUD mandates
+before applying.
+
+PUBLIC HEARING - ORDINANCE - Amending Articles 2-15-2, 2-15-11, 2-16-2, and
+22-21 of the Orem City Code relating to the Powers and Duties of the Planning Commission
+and Special Exceptions- Presenter:Jared Hall, Planning Director
+
+Mr. Hall presented a proposed text amendment designed to transfer the review and
+granting of specific "special exceptions" from the Board of Adjustments (BOA) to the Planning
+Commission. Mr. Hall clarified that the amendment does not alter any existing zoning
+ordinances, criteria, or standards; rather, it strictly changes which municipal body handles the
+review. Specifically, the transfer impacts two types of special exceptions found in the city code:
+relocating billboards under highly specific circumstances, and findings to allow multi-family
+developments on single-family parcels. To achieve this, the amendment updates various code
+citations, including adding powers to the Planning Commission under Article Two, striking
+corresponding duties from the BOA under Article 16, and replacing all references to the BOA
+with the Planning Commission within Section 2221. Mr. Hall noted that applications for these
+
+City Council Minutes — May 26, 2026, (pg.20) A complete video of the meeting can be found at www.orem.org/meeting
+
+exceptions are rare, with many failing eligibility, and estimates that only one comes forward
+every few years.
+
+Council Member Mecham noted that the Planning Commission supported the change,
+highlighting that it streamlines the municipal timeline since the Planning Commission meets
+twice a month, whereas the BOA meets very irregularly. Hall agreed, adding that the current
+process unnecessarily forces two separate bodies to review the same standards for a single
+property, as the BOA currently determines eligibility while the Planning Commission handles the
+
+subsequent site plan review. When asked how the change impacts the BOA, Hall explained that —
+the board will still retain its primary statutory duties of handling variances and administrative
+appeals. He noted that the BOA meets rarely and because the city is currently between board
+terms and needs to appoint a new board, the members could not be directly polled, though the
+change removes redundant tasks from their historically limited workload.
+Public Hearing open at 7:45 PM
+
+No public comment
+Public Hearing closed at 7:45 PM
+
+Mr. Lambson moved to approve by ordinance amending Articles 2-15-2, 2-15-11,
+2-16-2, and 22-21 of the Orem City Code relating to the Powers and Duties of the Planning
+Commission and Special Exceptions, seconded by Mr. Mecham. Those voting yes: Karen
+McCandless, Chris Killpack, Crystal Muhlestein, Jeff Lambson, LaNae Millett and Quinn
+Mecham. The motion passed. Absent: Jenn Gale
+PUBLIC HEARING - ORDINANCE - Amending Articles 22-5-3(A) and the Zoning Map
+of the City of Orem by changing the zone of the property located generally at 355 West
+University Parkway from R8, Single-Family Residential, to C-2, Commercial together with
+a development agreement limiting certain uses. - Presenter:Jared Hall, Planning Manager
+
+Mr. Hall presented a request to rezone an approximately 6-acre parcel fronting University
+Parkway from the R8 single-family residential zone to the C2 general commercial zone.
+Historically utilized as a non-conforming conservation demonstration garden, the property
+contains an existing office building that currently operates non-conformingly within the
+residential zone. Because the Orem General Plan designates this high-traffic corridor as regional
+commercial, the C2 zone aligns with the city's long-term land-use map. The developer, Cole
+West, selected the C2 classification over a restrictive Planned Development (PD) zone to
+maintain site planning and layout flexibility as they negotiate with prospective high-end retail
+tenants. A concept site plan submitted with the application preserves the existing office building
+while introducing just over 12,000 square feet of high-visibility retail space directly along the
+parkway frontage. Mr. Hall emphasized that C2 zoning mandates strict neighborhood protection,
+requiring any new structures to be set back from the adjacent, well-established residential
+
+City Council Minutes — May 26, 2026, (pg.21) 4 complete video of the meeting can be found at www.orem.org/meeting
+
+property line by a distance at least equal to the height of the building, utilizing an existing wall
+and landscaping buffer.
+
+To address neighborhood concerns gathered during community outreach and two
+Planning Commission workshops, the applicant drafted a development agreement focused purely
+on restricting specific land uses. Under this agreement, Cole West voluntarily prohibited
+vehicle-oriented uses such as car sales and gas stations, while the Planning Commission added
+tattoo parlors to the prohibited list during their April 1 public hearing. On April 15, the
+commission voted 6—0 to recommend approval of the rezone alongside the finalized development
+agreement, with the caveat that any finalized site plan and development layout must return to the
+Planning Commission for administrative approval. McKenna Christiansen, representing Cole
+West, confirmed that the firm is not pursuing a high-density, mixed-use residential project,
+acknowledging that the local corridor is already heavily saturated with multi-family
+developments.
+
+Addressing council questions regarding an apparent excess of parking on the southwest
+corner of the site plan, Ms. Christiansen explained that the on-site office building is leased
+through 2032 to Greenix Pest Control, which requires between 150 and 175 stalls for its shifting
+seasonal workforce. She noted that current leasing efforts are focusing on a veterinary clinic for
+the eastern building and two restaurants for the western building. While the developer actively
+pursued a Longhorn Steakhouse for the location to satisfy local interest, the chain ultimately
+passed on the site in search of an anchored retail center. Council Member Millett raised
+neighborhood concerns regarding a potential alignment issue with the site's ingress/egress point
+and existing cross-streets. Ms. Christiansen responded that a comprehensive traffic study will
+determine final configurations, noting that the developer aims to maintain the current access
+point to avoid utility disruptions and extensive grading complications caused by the site's steep
+topography. Council Member Mecham concluded by observing that the site's hillside elevation
+presents unique visibility challenges and opportunities, encouraging the developers to craft a
+high-quality development that satisfies regional traffic safety demands.
+
+Public Hearing open at 7:58 PM
+
+No public comment
+Public Hearing closed at 7:58 PM
+
+Mr. Hall interrupted the proceedings to clarify that the development agreement, while
+fully finalized and ready, had not yet been formally executed and signed by both the city and the
+developer, Cole West. Rather than having the City Council approve the rezone contingent on a
+future signature, Mr. Hall requested that the council continue the item until their next scheduled
+meeting to allow for the proper execution of the document.
+
+Mayor McCandless and City Attorney Earl confirmed that because the public hearing for
+the rezone had already been held and closed, the item could safely be moved to the consent
+calendar for the upcoming June 23 meeting once the signatures were secured. Council Member
+
+City Council Minutes — May 26, 2026, (pg.22) A complete video of the meeting can be found at www.orem.org/meeting
+
+Millett expressed support for the continuance, noting that the council could easily pull the item
+off the consent calendar if any unforeseen issues arose with the final contract.
+Mr. Killpack moved to continue 10.3, Amending Articles 22-5-3(A) and the Zoning
+Map of the City of Orem by changing the zone of the property located generally at 355 West
+University Parkway from R8, Single-Family Residential, to C-2, Commercial together with a
+development agreement limiting certain uses, to June 23, 2026, seconded by Ms. Muhlestein.
+Those voting yes: Karen McCandless, Chris Killpack, Crystal Muhlestein, Jeff Lambson, LaNae —t—~S~S
+Millett and Quinn Mecham. The motion passed. Absent: Jenn Gale
+CITY MANAGER INFORMATION ITEMS
+Mr. Bybee extended a public thank you to the City Council for their complete investment
+of time, funding, space, and effort into the recent Memorial Day events, the Freedom Plaza, and
+the Gold Star Families Memorial dedication. Reflecting on his 19-year career in local
+government, Mr. Bybee stated that the past weekend would rank as a top highlight of his
+professional life. He noted that the experience brought his career full circle, reminding him of
+past conversations with the late Major Brent Taylor and his wife regarding the core principles of
+service leadership and personal sacrifice. Mr. Bybee thanked the council members for their
+shared dedication to bringing these impactful community projects to fruition.
+ADJOURN
+Ms. Millett moved to adjourn, seconded by Mr. Mecham. Those voting yes: Karen
+McCandless, Chris Killpack, Crystal Muhlestein, Jeff Lambson, LaNae Millett and Quinn
+Mecham. The motion passed. Absent: Jenn Gale
+(These minutes were created with the help of Al)
+PASSED and APPROVED on this 26th day of June 2026.
+ra ols au IE,
+ATTEST: Ke Ops, ¥
+al) fp oR)
+éresa McKitrick, City Recorder me ory , S/4]
+WW “" hy
+City Council Minutes — May 26, 2026, (pg.23) A complete video of the meeting can be found at www. cmmsratorcitin
+
+COUNCIL MEMBER AYE NAY ABSTAIN ABSENT
+Mayor Karen McCandless Ux Oo Oo o
+Chris Killpack ya Qo Qo Qo
+Crystal Muhlestein px a o Oo
+Jeff Lambson (9 oO o o
+Jenn Gale a Oo Oo Oo
+LaNae Millett (~~ Oo Oo Oo
+Quinn Mecham a oO o o
+City Council Minutes — May 26, 2026, (pg.24) 4 complete video of the meeting can be found at www.orem.org/meeting

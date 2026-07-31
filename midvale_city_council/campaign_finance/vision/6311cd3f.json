@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "8/19/2023 to 10/4/2023", "name": "Ben Umeadi - Candidate", "amount": "376.04", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/4/2023", "recipient": "Office Depot/Office Max", "purpose": "Toner to print flyers", "amount": "105.09", "in_kind": false},
+    {"date": "9/23/2023", "recipient": "FedEx Office - Fort Union", "purpose": "Yard signs", "amount": "197.95", "in_kind": false},
+    {"date": "8/19/2023", "recipient": "Site 123", "purpose": "Website hosting", "amount": "73.00", "in_kind": false}
+  ],
+  "total_contributions": "376.04",
+  "total_expenditures": "376.04",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2023_19_Ben-Umeadi.pdf",
+    "candidate": "Ben Umeadi",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_19_Ben-Umeadi.pdf",
+    "pages": 3
+  }
+}

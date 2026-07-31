@@ -1,0 +1,25 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "10/27/2023", "recipient": "VistaPrint", "purpose": "", "amount": "225.95", "in_kind": false},
+    {"date": "11/02/2023", "recipient": "Salt Lake County Elections", "purpose": "", "amount": "15", "in_kind": false},
+    {"date": "11/09/2023", "recipient": "Sugarhouse Printing", "purpose": "", "amount": "37.54", "in_kind": false},
+    {"date": "11/10/2023", "recipient": "Michael's", "purpose": "", "amount": "31.27", "in_kind": false},
+    {"date": "11/10/2023", "recipient": "Lowe's", "purpose": "", "amount": "9.88", "in_kind": false}
+  ],
+  "total_contributions": "3389.00",
+  "total_expenditures": "2135.15",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1620.84",
+  "ending_balance": "1301.20",
+  "_meta": {
+    "index_path": "raw/202311_Paul-Pickett_14803.pdf",
+    "candidate": "Paul Pickett",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202311_Paul-Pickett_14803.pdf",
+    "pages": 5,
+    "note": "November 14, 2023 interim (7-days-before-election box checked). Schedule A shows 'n/a / n/a / $0' (no new contributions this period); cover line 1 ($3389.00) is cumulative-to-date. Schedule B page subtotal $319.64 (5 expenditures), cumulative total $2135.15. Schedule C in-kind all N/A. Amounts verbatim (Salt Lake County Elections printed '15', no decimals)."
+  }
+}

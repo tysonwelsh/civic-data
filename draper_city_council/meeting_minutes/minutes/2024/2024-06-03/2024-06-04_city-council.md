@@ -1,0 +1,251 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1719&doc_id=2ddd5d76-394f-11ef-8c72-005056a89546
+> Meeting date: 2024-06-04
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JUNE 4,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:      Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+              Johnson, Tasha Lowery, Fred Lowry, and Cal Roberts
+
+EXCUSED:
+
+STAFF:        David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+              Challburg, Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson,
+              Chief of Police; Jennifer Jastremsky, Community Development Director;
+              Malena Murray, Human Resources Director; Rhett Ogden, Parks and
+              Recreation Director; Linda Peterson, Communications Director; Clint
+              Smith, Fire Chief; Jake Sorensen, Network Manager; and John Vuyk,
+              Finance Director
+
+______________________________________________________________________________________________
+
+Study Session
+
+       Training: Land Use Liability
+       City Attorney Mike Barker provided training on land use liability using a
+       situation in Springdale, Utah as an example, and answered questions from the
+       Council.
+
+       Discussion: Police Department Statistics and Special Teams
+       Police Chief Ferguson presented a 2023 Annual Report for the Police
+       Department, and described proactive measures taken within the Department.
+       Chief Ferguson encouraged the Council to remember that the Police
+       Department would need to grow as the community continues to grow.
+
+       Discussion: Accessory Dwelling Units
+       Community Development Director Jennifer Jastremsky explained State law
+       regarding accessory dwelling unit (ADU) regulations and presented staff
+       recommendations for the City. A majority of the Council indicated a desire to
+       include an owner occupancy requirement in City Code. The Council discussed
+       the possibility of establishing parking requirements and the need for
+       enforcement.
+
+
+                                                                                    1|Page
+         Draper City Council Approved Meeting Minutes – July 2, 2024
+      Closed Session
+      Councilmember T. Lowery moved to recess to a closed session to discuss
+      litigation and property acquisition. Councilmember Green seconded the
+      motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes No       Absent
+      Councilmember Green                     X
+      Councilmember Johnson                   X
+      Councilmember T. Lowery                 X
+      Councilmember F. Lowry                  X
+      Councilmember Roberts                   X
+
+Business Session
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Pledge of Allegiance
+
+3.    Recognition: Miss Draper Royalty
+      Mayor Walker expressed appreciation to Anna Page, Miss Draper 2023, and
+      Attendants Belynn Borg, Jules Smith, and Sloane James. Mayor Walker
+      introduced Sloane James, Miss Draper 2024, and Attendants Skylar Zamalloa,
+      Laulea Tavakee and Kamryn Stuart. He recognized and expressed appreciation
+      to Mandy Brady for five years as Director of the Miss Draper program. Anna
+      Page reported on her year as Miss Draper and presented a video recap. The
+      Council took the opportunity to take photographs.
+
+4.    Public Comments
+      None
+
+5.    Consent Items
+5.a   Approval of May 14, 2024, City Council Meeting Minutes.
+5.b   Approval of Resolution #24-18, a Resolution of the Draper City Council
+      accepting the conveyance of a conservation easement from Lehi City.
+5.c   Approval of Resolution #24-24, a Resolution of the Draper City Council
+      amending Section 8020 of the Personnel Policies and Procedures Manual
+      regarding Vacation Leave.
+
+
+
+                                                                       2|Page
+      Councilmember T. Lowery moved to approve the Consent Items.
+      Councilmember Green seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                          Yes No        Absent
+       Councilmember Green                X
+       Councilmember Johnson              X
+       Councilmember T. Lowery            X
+       Councilmember F. Lowry             X
+       Councilmember Roberts              X
+
+
+6.    Items for Council Consideration
+6.a   Public Hearing: Fiscal Year 2024-2025 Tentative Budget
+      Mayor Walker opened a public hearing for the FY 2025 Tentative Budget
+      and closed the public hearing seeing no one come forward.
+
+      Finance Director John Vuyk answered questions from the Council and said the
+      adoption of the budget was scheduled for June 18, 2024. The Council and staff
+      discussed the City’s vehicle fleet and Fleet Fund.
+
+6.b   Public Hearing: Statutory Officer Compensation
+      Finance Director John Vuyk explained that the Utah Code required cities to
+      hold a public hearing on proposed budget increases for both executive and
+      statutory officers.
+
+      Mayor Walker opened a public hearing for statutory officer
+      compensation and closed the public hearing seeing no one come
+      forward. Adoption of the budget was scheduled for June 18, 2024.
+
+6.c   Public Hearing: Executive Municipal Officer Compensation
+      Mayor Walker opened a public hearing for municipal officer
+      compensation and closed the public hearing seeing no one come
+      forward. Adoption of the budget was scheduled for June 18, 2024.
+
+6.d   Public Hearing: Ordinances #1613 and #1614, an ordinance amending the
+      official Land Use Map of Draper City for approximately 3.85 acres of
+      property from Community Commercial to Residential High Density and
+      an ordinance amending the official Zoning Map of Draper City for
+      approximately 3.85 acres of property from A2 (Agricultural) to RM2
+                                                                          3|Page
+(Residential, Multiple-Family), and approving a Development Agreement,
+for the property located at approximately 285 W. River Chapel Road,
+within Draper City, otherwise known as the Urbana Land Use Map
+Amendment, Zoning Map Amendment and Development Agreement.
+Maryann Pickering, a Planner, showed a vicinity map, aerial map, and Land
+Use Map, and explained the request for a Land Use Map Amendment from
+Commercial to Residential High Density and Zoning Map Amendment from A2
+to RM2. The RM2 Zone would allow up to 12 dwelling units per acre, and the
+average density proposed was 7.6 dwelling units per acre with up to 30 homes
+on private roads. No changes to development standards were proposed. The
+Planning Commission forwarded a positive recommendation.
+
+Mayor Walker opened a public hearing.
+
+Scott Pettit, a Draper resident, said his property backed up to the proposed
+development. Mr. Pettit said he supported the proposed development but had
+concerns about the RM2 designation. He suggested R3, R4, or R5 would be
+more appropriate in case the current developer pulled out before
+development.
+
+Darrell Smith, a Draper resident, said he owned rentals that would back the
+proposed development. He said he hoped the quality of the proposed homes
+would be as good or better than the existing neighborhood. He said he had no
+objections to the proposed development.
+
+Mayor Walker closed the public hearing.
+
+Jacob Ballstaedt with Garbett Homes said the current intention was to sell the
+proposed units. Mayor Walker said he encouraged selling the units over
+renting. Mr. Ballstaedt said the possibility of grade change along the existing
+fence line was significantly limited by the Development Agreement. He said
+Garbett Homes would be willing to consider replacing the existing 6-foot fence
+with an 8-foot wall if the grade ended up needing to be significantly changed,
+but said he did not personally think 8-foot fences looked good. Mr. Ballstaedt
+said the properties would be fully landscaped, and a fence would be added if
+not currently existing on an adjoining property.
+
+Referring to a public hearing comment, Mr. Ballstaedt said the Development
+Agreement limited development to 30 units and would remain with the
+
+                                                                     4|Page
+      property if ownership changed. Responding to a question from the Council,
+      staff indicated it was estimated the proposed development would have very
+      little traffic impact.
+
+      Councilmember F. Lowry moved to approve Ordinances #1613 and #1614.
+      Councilmember T. Lowery seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                         Yes No       Absent
+       Councilmember Green                X
+       Councilmember Johnson              X
+       Councilmember T. Lowery            X
+       Councilmember F. Lowry             X
+       Councilmember Roberts              X
+
+6.e   Action Item: Resolution #24-27, a Resolution appointing a Council
+      Member to the Board administering the interlocal agreement for the
+      creation of a new school district in Utah County.
+      Councilmember Roberts moved to approve Resolution #24-27 and
+      appoint Councilmember Johnson to the Board.
+      Councilmember T. Lowery seconded the motion.
+
+        A roll call vote was taken. The motion passed unanimously.
+                                          Yes No      Absent
+            Councilmember Green           X
+            Councilmember Johnson         X
+            Councilmember T. Lowery       X
+            Councilmember F. Lowry        X
+            Councilmember Roberts         X
+
+7.    Recess to a Community Reinvestment Agency Meeting
+      Councilmember T. Lowery moved to recess to a Community
+      Reinvestment Agency Meeting. Councilmember Green seconded the
+      motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                         Yes No       Absent
+       Councilmember Green                X
+       Councilmember Johnson              X
+
+                                                                      5|Page
+      Councilmember T. Lowery               X
+      Councilmember F. Lowry                X
+      Councilmember Roberts                 X
+
+     The Council resumed the City Council meeting at 8:06 pm.
+
+     Council/Manager Reports (continued from Study Session)
+     Councilmember Johnson expressed concern about the number of youth riding
+     scooters without helmets and asked if there were something the City could do
+     to address the safety issue. The Council discussed reposting a safety video
+     made by the City the previous year. A member of staff said enforcement was
+     occurring when possible.
+
+     Councilmember Johnson said the Historical Society expressed concern to her
+     about a lack of current history being recorded in Draper. She said she got the
+     impression the Historical Society would be willing to record and compile
+     information given to them. A member of staff commented that the Draper
+     Forward newsletter was archived, and suggested staff could work with the
+     Historical Society to compile a summary for Historical Society records.
+
+     A majority of the Council indicated interest in posting “no parking” on the south
+     side of 11400 South at the car dealership to clean up that entrance to the City.
+     Responding to a request from Mayor Walker, a majority of the Council
+     indicated support for a “Shop Draper” campaign in cooperation with the Miss
+     Draper program.
+
+8.   Adjournment
+     Councilmember Green moved to adjourn the meeting.
+     Councilmember F. Lowry seconded the motion, which passed by
+     unanimous vote (5-0).
+
+     The meeting adjourned at 8:17 p.m.
+
+
+
+
+                                                                            6|Page
+

@@ -1,0 +1,80 @@
+{
+ "date": "2017-07-31",
+ "year": 2017,
+ "title": "City Council Agenda",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Bev Uipi",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2017/2017-07-31/2017-07-31_city-council-agenda-69.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of July 17, 2017",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Cheri Jackson",
+   "seconder": "Dwight Marchant",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Ordinance No. 17-______ - amending Title 14-Highways, Sidewalks and Public Places of Millcreek Code of Ordinances adding section 14.16.120 entitled Restoration of Surface Required as amended, including but not limited to those specified in section 14-12-020",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "5-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Bev Uipi",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Resolution No. 17-______ - authorizing the mayor to negotiate and enter into a contract for architectural services for the leased space subject to approval as to form by the city attorney",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "5-0 Pass",
+   "mover": "Bev Uipi",
+   "seconder": "Silvia Catten",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

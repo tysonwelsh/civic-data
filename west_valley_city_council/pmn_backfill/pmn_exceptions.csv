@@ -1,0 +1,8 @@
+date,body_id,kind,reason,verified_date
+2026-02-12,398,wrong_date,"PMN filed the 2026-02-20 CC Budget Retreat (Day 2) under the wrong event_date 2026-02-12; the true 2026-02-20 meeting is recovered in pmn_backfill/index.csv. Under exact mode the bogus 2026-02-12 event date flags as a gap (coverage.md 'event_date != meeting date' quirk).",2026-07-06
+2023-09-05,398,duplicate,count_mismatch artifact: PMN lists the Study Meeting PDF twice (SM 09.05.2023.pdf x2); repo holds both the Regular and Study meeting minutes for 2023-09-05 - complete,2026-07-17
+2020-01-01,401,other,"'Municipal Building Authority Meetings- 2020' - annual meeting-schedule notice (Jan 1 placeholder date), not a meeting (meeting-schedule noise family)",2026-07-17
+2021-04-01,399,other,"'Electronic Meeting without Anchor Location Renewal' - COVID electronic-meeting determination/renewal, not a meeting",2026-07-17
+2021-04-01,401,other,"'Electronic Meetings with No Anchor Location Renewal' - COVID electronic-meeting determination/renewal, not a meeting",2026-07-17
+2026-01-05,398,other,"'2026 Oath of Office Ceremony' - ceremonial swearing-in, not a deliberative minuted meeting",2026-07-17
+2022-02-01,398,wrong_date,"count_mismatch artifact: repo holds both Feb-1 meetings (RM+SM); PMN's 3rd file 'Strategic Plan Minutes 2022.pdf' (file 826291, notice 731775 'January 28 and 29 Strategic Planning Meeting') is a verbatim court-reporter TRANSCRIPT of the Jan 28-29 2022 retreat mis-filed under a Feb-1 event_date - already recovered at its true date 2022-01-28 (index.csv status=recovered-not-promoted, transcripts-layer scope). Nothing missing. See pmn_backfill/CLAUDE.md 2026-07-17 disposition.",2026-07-19

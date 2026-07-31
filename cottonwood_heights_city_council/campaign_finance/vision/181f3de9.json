@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "11/02/2025", "name": "SL Board of Realtors", "amount": "3,000", "in_kind": false},
+    {"date": "11/02/2025", "name": "Trevor Long", "amount": "2,000", "in_kind": false},
+    {"date": "11/02/2025", "name": "Fresh Air PAC", "amount": "500", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/03/2025", "recipient": "Vottiv", "purpose": null, "amount": "10", "in_kind": false},
+    {"date": "11/04/2025", "recipient": "Vottiv", "purpose": null, "amount": "8", "in_kind": false},
+    {"date": "11/07/2025", "recipient": "City Journal", "purpose": null, "amount": "618", "in_kind": false},
+    {"date": "11/17/2025", "recipient": "Stone Mountain Press", "purpose": null, "amount": "2663.68", "in_kind": false},
+    {"date": "12/03/2025", "recipient": "Gathering Inc.", "purpose": null, "amount": "7,170", "in_kind": false}
+  ],
+  "total_contributions": "5,500",
+  "total_expenditures": "10,469.68",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2025_city_weichers_final-dec-4-2025.pdf",
+    "candidate": "Mike Weichers",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_weichers_final-dec-4-2025.pdf",
+    "pages": 2
+  }
+}

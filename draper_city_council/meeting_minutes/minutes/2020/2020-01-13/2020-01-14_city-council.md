@@ -1,0 +1,825 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=90&doc_id=396118e0-b0ca-11ea-888f-0050569183fa
+> Meeting date: 2020-01-14
+> Format: text
+
+Approved February 11, 2020
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+JANUARY 14, 2020, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:              Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                      Fred Lowry, Cal Roberts, and Marsha Vawdrey (by phone)
+EXCUSED:
+
+STAFF PRESENT:    David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                  Oscarson, City Recorder; Scott Cooley, City Engineer; Hazel Dunsmore,
+                  Human Resource Director; John Eining, Police Chief; Russ Fox, Assistant
+                  City Manager; Rhett Ogden, Recreation Director; Christina Oliver, Director
+                  of Community Development; Clint Smith, Fire Chief; and Bob Wylie,
+                  Finance Director
+________________________________________________________________________
+Dinner
+
+Study Meeting
+
+1.0    Discussion: Vacation of Right of Way on 12100 South – Scott Cooley
+
+       David Dobbins, City Manager, explained that vacation of right of way on 12100 South
+       would be an agenda item during the business meeting, but that a broader discussion of
+       vacation of right of ways was necessary.
+
+       Maryann Pickering, City Planner, explained that the 12100 South right of way was on the
+       last agenda in December and because no action was taken, it rolled over to the current
+       meeting. She provided some background information explaining that the area was re-zoned
+       from RA1 to RA2 in October of 2018. The owners of the property submitted some plot
+       amendments in March of 2019. When city staff members researched the owner’s
+       proposals, staff members realized that there was some city right of ways on their property
+       which brought the vacation of right of way to the Council through Scott Cooley, City
+       Engineer.
+
+       The staff member explained that they need more information as to if the proposed
+       subdivision is even feasible. She reminded the Council that the area under discussion was
+       located at 12400 South and is known as the Carter re-zone. For the proposed development
+       to occur, the right of way on 12100 South would need to be vacated and the development
+       would be divided into two flag lots. However, because a portion of the property
+       (highlighted in yellow) could not be included in the lots’ acreage because of regulations
+       outlined in the City’s code; if the owners did not get the vacation of the right of way, they
+       would not have enough land to be able to use the second lot for development.
+
+       When asked to address particularities surrounding the property area delineated in blue, Ms.
+       Pickering explained that in their research it was found that in 1974 there was a survey done
+by the property owner, Mr. Craig, who was interested then in seeking a vacation of right-
+of-way. The issue came up again in 1989 when vacation of right of way seemed as if it
+was going to be requested again. However, there was a single signature (of Mr. Craig’s)
+on the request and it didn’t appear the request was ever formally submitted to the City.
+When the current request by Mr. Carter for the vacation of right of way was received, there
+was a note suggesting that the vacation of right of way through the blue portion of the
+property being discussed was vacated in 1991; however, after Ms. Pickering reviewed City
+Council Meetings from 1989 to 1991, she saw no evidence that this vacation had occurred.
+Therefore, it is her belief that the City still has rights to that area.
+
+Ms. Pickering believes based on the current fence line that the current property owner, Mr.
+Carter, probably assumed that he owned the area. Councilmember Fred Lowry asked if
+the City knew that they had the easement when the property was rezoned from R1 to R2,
+or if this was only discovered after Mr. Carter had submitted his proposal for development.
+She explained that the easement was discovered afterward because it is the responsibility
+of the property owner to ensure that they have the appropriate land to subdivide and
+develop.
+
+Then Councilmember Lowry asked if there was an easement to the east that had recently
+been vacated. David Dobbins, City Manager, verified that yes there have been vacations
+of easements along 12100 South, but that they have resulted only after a property owner
+has requested the vacation.
+
+Scott Cooley, City Engineer, outlined how the City acquires the right of ways that are
+typically used for the development of public roads. He explained that they most often come
+from the recordation of a plat. When a developer submits a plan they must delineate the
+right of ways to the interior and exterior of the property that ultimately become public
+roads. However, in the case of the Carter property, the right of way was established in the
+1800s as part of the Draperville plat and had an extremely wide right of ways, eighty-two
+and a half feet. He stated that the City does not require that size at the discussed location
+so they could vacate. Typically, when a right of way is vacated, the property is returned to
+the original owner or the adjacent owner. In the case of the Draperville plat, because the
+land was granted to the City in 1873 the City not only has easement rights but actually
+owns the land. This means that not only would there need to be a vacation of the right of
+way but then the City would need to surplus the land and sell it to Mr. Carter, both of which
+require City Council approval.
+
+For the Council’s knowledge, Mr. Cooley explained that in areas other than Draperville it
+would be a single step process; the City would vacate the right of way and the property
+would automatically be returned to the adjacent owner.
+
+Ms. Pickering explained that the land area in question is only about twenty-five square feet
+and that even if the City did vacate the area, Mr. Carter still might not have enough acreage
+to be able to subdivide the property. It was explained that to be able to determine this, the
+property owner would need to get an ALTA survey at their expense. Because of this, the
+City was looking to know if the Council is likely to approve the vacation of right of way
+
+                                    Page 2 of 17
+      and would be willing to sell the land so that they could inform the property owner if it is
+      worth it for them to pay for the ALTA survey.
+
+      There was discussion by the Council as to the need for the easement in the future. It was
+      stated that even if the road was widened (which isn’t outlined in the master plan) they
+      would still have enough room to add gutters and sidewalks. In addition, these sorts of right
+      of ways could be required in development plans by the property owner as a part of code
+      requirements.
+
+      The Council then began to discuss if they supported the subdivision and development.
+      Some members argued that in approving the re-zone, they already sent the message that
+      was a direction they supported. However, other members pointed out that there is a
+      difference in opinion among Draperville residents surrounding the desire to subdivide or
+      keep larger one-acre properties. The area already has a mixture of RA1 and RA2
+      properties; however, the properties on either side of the Carter property were zoned as one-
+      acre lots. To better understand zoning and development trends, the Council looked at the
+      Draperville zoning map and noted that right across the street from the property in question
+      is an area zoned on half-acre lots as a part of the Ivory Tower subdivision.
+
+      It was asked if a decision like this was politically sensitive and if residents of the area
+      would be upset if the Council allowed the subdivision and creation of a flag lot. Council
+      Member Vawdrey asked if this approval would create a domino effect where other property
+      owners might begin petitioning to subdivide. It was explained that because the other areas
+      were still zoned R1 that the City could prevent the domino effect from happening.
+
+      In summary, during the business meeting, the Council could vacate the right of way to start
+      the process of potentially selling the land at fair market value to the property owner such
+      that they could develop. In doing so, however, the Council would be creating a flag lot. If
+      the Council did not want a lot of this type, it was recommended that they choose not to
+      vacate the right of way at the meeting.
+
+2.0   Council/Manager Reports
+
+2.1   Councilmember Fred Lowry brought up the assisted living center, Harmony Hills, which
+      is near completion. Russ Fox, Assistant City Manager, explained that Harmony Hills’
+      driveway approach was approved at a twelve percent slope. However, the actual
+      construction of the driveway and approach was completed at a thirteen percent slope.
+      Twelve percent is already pretty steep, the City prefers ten percent. Each time they have
+      built their driveway and approach, it has exceeded the City’s twelve percent maximum, so
+      they have been asked to take the driveway out and try again. In the best-case scenario, they
+      will reconstruct at a ten percent slope allowing accessibility for emergency responders.
+      Otherwise, they would be required to come in and make a site plan amendment to change
+      the street design so that they reduce their park strip and are able to adjust the approach of
+      the driveway to meet the twelve percent maximum slope. They would have to dig down
+      further, to lower their driveway and significantly reconstruct their parking lot.
+
+
+
+                                          Page 3 of 17
+      There was discussion by the Council about amending the code so that the maximum slope
+      allowance on projects like these is ten percent to ensure access to emergency response
+      vehicles and fire apparatuses.
+
+2.2   Councilmember Fred Lowry asked if the City had plans to provide Sandy with support for
+      their Police Chief’s funeral. Draper would be providing two police officers to work the
+      streets from 10:00 a.m. to 4:00 p.m. to help with coverage. In addition, the funeral service
+      is actually being held in Draper at the Juan Diego Catholic High School auditorium.
+      Although services have been offered, Sandy does not need that support at this time. It was
+      also explained that there would not be a large procession. The officer had been cremated
+      and his remains would be taken from the service via motorcycle with just the family.
+
+      It was added that Draper was contacted today by Sandy’s fire services asking if staff from
+      Draper could cover one of their stations so that they would be able to attend the services.
+      Draper agreed to offer this help.
+
+2.3   Councilmember Tasha Lowery said that she received a request from some SunCrest
+      residents that they would like a “Caution when Wet” sign on the s-curve that comes down
+      from Little Valley. In response, Councilmember Lowery was told that there isn’t really a
+      traffic sign for the purpose, especially because this warning wouldn’t be necessary during
+      the summer. Councilmember Lowery recognized that it is a place where frequent accidents
+      occur.
+
+      She also mentioned that residents are returning their recycling cans to the City at no charge.
+      She asked if residents could exchange a recycling can for a second trash can. Bob Wylie,
+      Finance Director, explained that residents get one recycling and one solid waste bin for the
+      flat rate of $15 dollars. Some residents return the recycling container, but their account is
+      not adjusted at this time.
+
+      Mr. Cooley explained that in a recent conversation it had been suggested that the City could
+      increase the rate for a nominal fee of three or four dollars for the additional can. It was
+      important that the City did not discourage recycling because it is a legitimate program and
+      that as Draper gets their recycling cleaner they are recycling more.
+
+      Councilmember Tasha Lowery also asked if the Rocky Mountain Power boxes that caught
+      on fire were ever addressed. She wanted to make sure that the boxes were addressed before
+      summer comes around.
+
+2.4   Councilmember Marsha Vawdrey was concerned about the speeding on Traverse Ridge.
+      She asked Lieutenant Pat Evans if police are ticketing in that area. Lieutenant Pat Evans
+      responded that he didn’t come with statistics, but that there are officers who are actively
+      writing tickets there. Mr. Dobbins noted that they actually receive complaints that it is a
+      speed trap and that they are ticketing too many people, as well as receiving calls that they
+      are not enforcing the speed enough there. Given this, he felt that they were doing a good
+      job balancing different people’s perspectives.
+
+
+
+                                          Page 4 of 17
+2.5   Councilmember Mike Green asked if they could make Traverse Mountain Road a Toll
+      Road so that Utah County members have to pay to use the road. He also said that non-
+      Draper residents should also pay to utilize Draper’s trails. It was mentioned that this issue
+      was suggested in the past and that the City’s lobbyist, Mr. Curtis, could pursue this again.
+      Three councilmembers are going to create a one-page proposal that outlines the restrictions
+      and how Draper residents would receive a free pass.
+
+      Councilmember Green also mentioned that a resident asked about painting the wall on
+      Bangerter Parkway above Pluralsight. Councilmember Tasha Lowery explained that this
+      had already been considered where the modern townhomes had recently been constructed.
+      Christina Oliver, Director of Community Development, explained that it was a
+      maintenance nightmare because it was a private retaining wall. Further, the current code
+      does not require either stamped or dyed concrete, but the code could be changed. There
+      was a discussion about making this change in the code for future concrete walls that are
+      over a certain size. It was suggested that Ms. Oliver, reach out to the owners to beautify
+      that area with better landscaping, or some artwork.
+
+      Finally, Councilmember Green mentioned the number of neighbors who are upset in South
+      Mountain and Pepi Band Road about the number of houses that were turned into rentals.
+      In the processes, many homes have been remodeled to included basement apartments
+      turning single-family units into multiple-family households. He would like to come up
+      with a solution to better enforce the code and alleviate parking concerns in that area. Ms.
+      Oliver explained that David Bernal, Code Compliance Officer, had gone out to investigate
+      the three addresses that the Council had received complaints about and two of the
+      complaints were unfounded. She explained that the City has a pretty informal process for
+      investigation and that in a lot of instances, the number of cars a household has more to do
+      with grown children continuing to live at home than multiple unit rentals. In addition, there
+      are several spaces that are permitted as accessory dwelling units (ADUs) which were used
+      by the City as a selling point on their housing plan with the state of Utah in order to make
+      them eligible for the transportation funding.
+
+      The consensus of the Council was that the primary concern of residents in the area was
+      lack of parking. In addition, the Council recognized that the problem is not that property
+      owners are creating multiple units within a single house, but rather are renting out rooms
+      to different tenants which makes it more challenging to enforce. Councilmember Lowery
+      said it would be helpful if the Council could have clarification on what is legal and what is
+      not. Ms. Oliver explained that there are two people, Mr. Portman and Mr. Christensen,
+      who are the main parties engaging with the City’s code enforcement officer and issuing
+      complaints. What she feels the Council should take away from the discussion is that they
+      need to be diligent about only approving projects that include long driveways or multiple
+      car garages.
+
+      The Council then discussed short-term rentals such as Air BnB and that to this point, they
+      are not something that the Council has regulated.
+
+
+
+
+                                          Page 5 of 17
+2.6   Chief Clint Smith brought up the strategic plan that the City is working on in regards to the
+      fire department. He wanted to encourage the Council and citizens to take the survey to
+      provide their input as stakeholders that allow them to draft a strategic plan in alignment
+      with people’s needs.
+
+      Councilmember Lowery returned to the issue of Rocky Mountain Power and explained that
+      she recently read an article in the Tribune that said that the area was at risk, as California
+      was, to have their power shut off if hit with certain wind speeds. It seemed that the edge
+      of the area stopped just below Draper, but she wanted to know if there were areas in Draper
+      that could potentially be at risk for fire danger. In response, it was explained that because
+      Draper does still have above-ground power lines, yes, there is a risk for the community.
+      However, as new and redevelopment happen, that technology is being upgraded for
+      underground alternatives. This is an issue that was brought up by Rocky Mountain Power.
+      Because of the way that Draper is connected to the grid, if Rocky Mountain Power turns
+      off the power in other places, there is a chance that Draper would be impacted.
+
+2.7   The Council was educated on best mic etiquette, particularly to be careful what they
+      continue to say after they are done speaking. Often times the recording doesn’t stop
+      immediately, so an unwanted conversation can be caught in the recording.
+
+2.8   Finally, the Council went over the assignment list. Councilmember Fred Lowry led the
+      discussion. It was explained that the Council typically changes its assignments annually
+      around the first of the year. Councilmember Green suggested that for City agencies, Mayor
+      Walker be the president of the Municipal Building Authority (MBA) and the
+      Redevelopment Agency (RDA) so that he could stay on the mic during the meetings and
+      that he could be the vice-chair of them. They decided on the assignments as follows:
+
+         •   Arena Board: Councilmember Fred Lowry
+         •   Historic Preservation Commission: Councilmember Marsha Vawdrey
+         •   Parks and Trails Recreation Committee: Councilmember Tasha Lowery
+         •   Planning Commission: Councilmember Marsha Vawdrey.
+             There was some discussion about the fact that councilmember presence can create
+             undue influence or tension at Planning Commission meetings because those
+             individuals were already appointed by the Council and given authority.
+         •   Tree Commission: Councilmember Fred Lowry
+         •   Emergency Preparedness Committee: Councilmember Mike Green
+         •   Youth Council/ Peer Court: Mayor Walker and Cal Roberts as the alternate.
+         •   Association of Municipal Councils: Councilmember Tasha Lowery
+         •   Economic Development: Mayor Troy K. Walker
+         •   Chamber of Commerce (South Valley and City): Councilmember Cal Roberts
+         •   Trans Jordan Landfill Alternate Member: Councilmember Cal Roberts
+         •   Jordan River Commission: Councilmember Fred Lowry
+         •   Mountainland Association of Governments (MAG): Councilmember Cal Roberts
+         •   Draper Foundation: Councilmember Marsha Vawdrey
+         •   Senior Center: Councilmember Roberts
+
+
+                                          Page 6 of 17
+         •   Air Quality Board: Councilmember Cal Roberts
+         •   Legislative Policy Committee (LPC): Mayor Walker and Councilmember Tasha
+             Lowery
+         •   Canyons Education Foundation: Councilmember Fred Lowry
+         •   Mosquito Abatement: resident volunteer
+         •   Prison Land Authority: Mayor Walker
+         •   Utah Transit Authority Board: Mayor Walker
+         •   Salt Lake County Council of Governments (COG): Mayor Walker
+         •   Conference of Salt Lake Valley Mayors (COM): Mayor Walker
+         •   Trans Com (Mayor appointed through COG): Mayor Walker
+         •   JPAC (Mayor appointed through COG): Mayor Walker
+         •   WFRC (Mayor appointed through COG): Mayor Walker
+         •   WFRC-RGC (Mayor appointed through COG): Mayor Walker
+
+Business Meeting
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Reverend Al Borcher, Holy Trinity Church, offered the prayer.
+
+2.2   Lieutenant Pat Evans led the Pledge of Allegiance.
+
+3.0   Proclamation: School Choice Week
+
+      Mayor Walker read an abbreviated version of the proclamation. “Whereas all children in
+      the city of Draper should have access to the highest quality of education possible, and
+      whereas quality education is critically important to the economic vitality of the City of
+      Draper, and whereas educational variety not only helps to diversify our economy but also
+      enhance the vibrancy of our community, now, therefore, I, Troy K. Walker, recognize
+      January 26th through February 1st as the City of Draper School Choice Week.”
+
+4.0   Proclamation: School Board Recognition Month
+
+      Mayor Walker said that this was an opportunity to recognize the outstanding Canyon
+      School Board and its members. He then read an abbreviated version of the proclamation.
+      “Whereas the mission of Canyon School District is to meet the diverse educational needs
+      of all 34,000 students, including 5,400 that reside in Draper City, and whereas members of
+      the board of education have secured and directed resources investing in such innovations
+      as standards-based grading, differential diplomas, the reconfiguration of grades in every
+      school, and expanded early childhood and early college programs, and whereas under the
+      board’s leadership Canyons has risen as a district of distinction as evidenced by the
+      amazing test scores, graduation rates and the celebrated achievements of its students, now,
+      therefore, I, Troy K. Walker, do hereby declare my deepest appreciation to the Canyon
+
+
+                                         Page 7 of 17
+      School Board of Education and recognize the month of January 2020 as School Board
+      Recognition Month.”
+
+      Amanda Oaks, a school board member, was asked to stand in recognition. The Mayor also
+      recognized Susan Edwards who handles issues of government relations with the school
+      board. The Council took a photograph with both individuals and gave them some chocolate
+      covered treats. The Mayor recognized that the school board celebrated its tenth-
+      anniversary last year. He also highlighted the success of Corner Canyon High School.
+
+**    Councilmember Marsha Vawdrey joined the meeting by phone at 7:11 p.m.
+
+5.0   Public Comments
+
+      To be considerate of everyone attending the meeting, public comments will be restricted
+      to items not listed on this or a future agenda and limited to three minutes per person.
+      Comments which cannot be made within these limits should be submitted in writing to the
+      City Recorder prior to noon the day before the meeting. Comments pertaining to an item
+      on the agenda should not be given at this time but should be held until that item is called.
+
+5.1   Mitt Stewart, Sandy resident, explained that he is the race organizer for the Wasatch Trail
+      Run Series and has held races in Corner Canyon for the last seven years. He believed that
+      it’s a great series given their willingness to accommodate everyone regardless of age or
+      ability. Most racers pay about $16 a race. He thanked the Council for allowing them to
+      run on Draper City trails. Every year the organization gives some of their money to non-
+      profits. This year, however, they are enlisting their runners to do a run-a-thon to choose a
+      non-profit to donate to. Most of the Wasatch Trail Run Series non-profits are trail-oriented
+      in addition to Wasatch Adaptive Sports. Mr. Stewart said that they would like to donate
+      some of their funds to projects that are proposed in Corner Canyon such as the Hog Hollow
+      Footpath and they would like for their runners to have the option to raise funds specifically
+      for that trail network. It was Mr. Stewart’s understanding that the way the City works now,
+      is that if a citizen has $100 to donate to trails it goes to the General Fund. He wanted to
+      propose that (1) a special fund be created so that runners who choose to raise funds for the
+      Hog Hollow Footpath can have their sponsors donate directly to the fund, (2) that race
+      organizers could provide individuals with a direct link so that their organization doesn’t
+      have to be an intermediary and (3) because the Wasatch Trail Run Series tries to keep their
+      costs so minimal and is contributing directly to projects in the area, Mr. Stewart hoped that
+      their trail usage fees could be waived, so long as they donate the bare minimum that equates
+      to what their trail fees would have been. If the trail fees for the two races on April 1st and
+      May 20th amounted to $4,000, these would be waived if they donated at least $4,000 to the
+      project. It’s the organization’s goal to raise a minimum of $40,000 amongst six different
+      organizations.
+
+      Mayor Walker explained that they have the Corner Canyon Foundation that was
+      established to help with situations like this to receive money. The waiver of the trail fees
+      would have to be decided by the Council in conjunction with the Parks and Trails
+      Committee.
+
+                                          Page 8 of 17
+5.2   Jeff Stenquist, resident, wanted to welcome the new councilmembers and expressed his
+      appreciation for their willingness to serve. He also wanted to express that with the
+      legislative session around the corner, the Council represents everyone that he represents
+      because Draper is entirely within his district. Earlier that day he had a luncheon with the
+      Canyon School District and all of the legislators who represent the area of the district to
+      recognize their accomplishments and make sure that they understood the district's
+      priorities.
+      He wanted to publicly express that he was available to hear about the councilmembers’ and
+      citizens’ concerns during the legislative session. He has already scheduled a town hall
+      meeting on Saturday, January 25th. He would like input for what the Draper community
+      would like him to do on their behalf in the legislative session.
+
+5.3   Amanda Oaks, resident, wanted to thank everyone for their recognition of the Canyon
+      School Board. She expressed gratitude for the cooperation of Draper City to merge the
+      districts. She noted that the current superintendent, Dr. Jim Briscoe, announced his
+      retirement. Although Dr. Briscoe has been a respected and accomplished leader, Ms. Oaks
+      recognized that things will move forward and that they look forward to what is to come.
+      She wanted to thank Draper City again for all of their assistance and cooperation, including
+      their help with road construction in front of Draper Elementary.
+
+6.0   Consent Items
+      a.    Approval of December 10, 2019, City Council Meeting Minutes
+      b.    Approval of Resolution #20-06, appointing Nate Shipp as a member of the
+            Draper City Arena Advisory Board
+
+6.1   Councilmember Mike Green moved to approve the consent items. Councilmember
+      Tasha Lowery seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Approval of Ordinance #1419, Draper Academy Town Center Text
+      Amendment Request, on the request of Christine Kremer and Bret Steel for a text
+      amendment to Draper City Municipal Code (DCMC) Section 9-11-110 to allow a
+      private school with up to 15 students within the TC (Town Center) zone.
+
+7.1   Jennifer Jastremsky, Planner, oriented to the Council to the area that is zoned as the town
+      center that the applicant is requesting the text amendment for. The applicant is requesting
+      that a private school can exist as a conditional use within the zone with a limit of no more
+      than fifteen students. She explained that private schools are designated as conditional use
+      in most of the City’s commercial zones which allows the City to provide mitigation
+      measures on the permit and make sure that there are adequate parking and access for private
+      schools. The small limit of fifteen students in the town center would check how large a
+      school could be, reducing the impact the City would see for a larger private or charter
+
+
+
+                                         Page 9 of 17
+      school. It would not take up the commercial or office spaces that the City is trying to utilize
+      to build up the core area.
+
+      She displayed the definition of a private school and summarized that it is any school serving
+      grades K through 12 that is not part of the public education system. The Planning
+      Commission recommended approval of the initiative in a five to zero vote at the December
+      12, 2019 meeting. Ms. Jastremsky was available to answer any questions.
+
+7.2   Mayor Walker asked if a new school would go in an existing structure or new construction.
+      Ms. Jastremsky responded that it would reside in an existing structure. The applicant
+      already had a site in mind. Ms. Jastremsky explained that if the text amendment was
+      approved she would have to present a conditional use permit for the proposed property. At
+      that time, the City would review if the proposed space had appropriate parking and access.
+      She also confirmed that the applicant was present.
+
+7.3   Councilmember Mike Green asked if a traffic study would need to be conducted as part of
+      the conditional use permit. Ms. Jastremsky said that the Planning Commission does have
+      the authority to require one, but that a school with a maximum of fifteen students might not
+      be large enough that it would be necessary.
+
+7.4   Christine Kremer, the applicant, explained that she is proposing a school called Draper
+      Academy designed for kids who struggle and are not succeeding in the public school system
+      be that due to a social, emotional, or academic challenge. She explained that she had
+      worked in a similar school in Riverton, but that there wasn’t a school in Draper. Further,
+      many of her students in Riverton come from the Draper area. Several of the students want
+      to follow Ms. Kremer to a location closer to their home. A struggling student approaches
+      Ms. Kremer, who pre-tests them in all content areas (reading, writing, and math) and is
+      then given a curriculum tailored to their needs. No two kids are working on the same thing
+      and students progress at their own rate. In the past, Ms. Kremer has been able to catch
+      students up and help them progress two reading levels in a single year. The primary goal
+      of the school is to have a safe, loving learning environment as opposed to a large school.
+      Options like this were important to Ms. Kremer because she has a daughter that has anxiety
+      who was overwhelmed by the public school system in Draper. Ms. Kremer actually drove
+      her daughter to a school in Sugarhouse.
+
+      She also added that the proposed location has parking spaces for twenty-one kids on the
+      corner of Pioneer and 800 East. Parents would come up 800 East to drop kids off and then
+      could proceed out of the location depending on what the City wanted. The applicant had
+      already purchased a building at 12390 S. 800 East.
+
+7.5   Councilmember Fred Lowry asked what the applicant’s timeline was to open. Ms. Kremer
+      said she hoped to open soon. They have already done a lot of work inside the building.
+      The house was built in 1928 and they have redone the painting and windows and are
+      working to have the building up to code.
+
+
+
+
+                                          Page 10 of 17
+7.6   Councilmember Tasha Lowery said that was very appropriate that the applicant was
+      presenting on the day that the City was recognizing school choice and the need for effective
+      educational options. As an educator herself, Councilmember Lowery felt that it was
+      wonderful that the applicant is giving parents alternatives for something that will work for
+      their kids. She thanked the applicant.
+
+7.7   Mayor Walker opened the meeting for public comment, no one came forward so
+      Mayor Walker closed the meeting for public comment.
+
+7.8   Councilmember Green moved to approve Ordinance #1419, Draper Academy Town
+      Center Text Amendment. Councilmember Tasha Lowery seconded the motion.
+
+7.9   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey voting in favor. The motion passed unanimously.
+
+8.0   Public Hearing: Approval of Ordinance #1420, Silverhawk Subdivision Zone Change
+      Request, on the request of Mike Gabel, representing Silverhawk Enterprises, for a
+      zone change from RA1 (Residential Agricultural, 40,000 square foot lot minimum) to
+      RA2 (Residential Agricultural, 20,000 square foot lot minimum) for 3.68 acres of
+      property located at 1110 East 13200 South and 13260 South 1162 East.
+
+8.1   Jennifer Jastremsky, Planner, oriented the Council to the location of the properties just
+      south of 13200 South. The two properties were located mid-block and already had two
+      houses. The first was accessed off of 13200 South and the second accessed off a private
+      lane. Both properties are zoned within the residential low-medium density land use which
+      supports one acre and half-acre lots. They are both currently zoned RA1 and the applicant
+      proposed the properties to be zoned RA2. Based on a displayed map, the Council could
+      see that the property was adjacent to a substantial number of lots in the neighborhood that
+      were already zoned as RA2. If the rezone was approved, the applicant would still be in
+      compliance with the land zoning map.
+
+      RA2 zoning requires a 20,000 square foot minimum lot. The applicant had already
+      submitted a concept plan showing how they could design the property. If the applicant was
+      successful tonight, they would still have to apply for subdivision, at which point they would
+      need fully engineered drawings that the City could review to ensure they were in
+      compliance with City Code. Their concept plan does show a private lane coming into the
+      property from 13200 South which would support access to four additional lots. Ms.
+      Jastremsky then displayed some images of the existing homes and the farmland behind
+      them. She informed the Council that the Planning Commission recommended approval for
+      the proposal with a five to zero vote during the December 12, 2019 meeting. Both she and
+      the applicant were available for questions.
+
+8.2   Mike Gabel, the applicant, made himself available for questions.
+
+8.3   Councilmember Mike Green asked about the house located off of 1162 East. He asked if
+      that house would remain intact. The applicant confirmed this and explained that it would
+
+                                         Page 11 of 17
+      continue to have access to the existing private lane. Councilmember Green then confirmed
+      that he would not need an easement and that all of the new access to the homes would come
+      from the additional private lane and that the applicant would tear down the existing house
+      to have access. The applicant clarified that the house would remain.
+
+8.4   Mayor Walker opened the public hearing. When no one came forward, Mayor
+      Walker closed the public hearing.
+
+8.5   Councilmember Fred Lowry moved to approve Ordinance #1420, Silverhawk
+      Subdivision Zone Change Request. Councilmember Vawdrey seconded the motion.
+
+8.6   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey voting in favor. The motion passed unanimously.
+
+9.0   Public Hearing: Approval of Resolution #20-03, amending the Fiscal Year 2020
+      Budget, including a discussion on amending the compensation for the Mayor.
+
+9.1   Bob Wylie, Finance Director, presented on the re-opened budget for the Fiscal Year 2020
+      General Fund. He mentioned that per Utah’s code, Draper City budget is a balanced
+      budget. Because of this, he presents to the Council a few times a year on a re-opened
+      budget to ensure that it stays balanced. He had twelve items for discussion in which he had
+      defined the dollar amount and source of funding for each item.
+
+      1. Item FY20-22 addressed the Mayor’s compensation. After a discussion of the Mayor’s
+         compensation at the December 10th council meeting, the Council was considering
+         amending the Mayor’s compensation. Funding for the request would come from an
+         increase in sales tax revenue. As a part of the amendment a monthly auto allowance of
+         $400 per month would be added, as well as participation in the City health insurance
+         program at a rate of $1,200 per month for a total of $14,400. The annual salary
+         compensation increase was requested at $19,200. Mr. Wyle prorated this increase for
+         the remainder of the 2019 fiscal year (February to June) at an amount of $8,000.
+
+      2. Item FY20-23 was for the Historic Preservation Committee who was awarded a
+         certified local government grant to work on the Joseph Mickelsen House. The grant
+         was for $10,000 and was awarded to the City in 2018. The City received the
+         reimbursement of this grant in October 2019, but a portion of the qualified expenditures
+         amounting to $6,500 was incurred in the current fiscal year (FY2020). This budget
+         item would amend the DHPC budget to reflect the expenditure and reimbursement.
+
+      3. Item FY20-24 was for an adaptive playground. Draper City Parks and Recreation
+         requested funding for $500,000 for an all-abilities playground. This amount was
+         approved by the City Council when the City applied for the Tourism, Recreation,
+         Culture and Convention (TRCC) Grant in August of 2019 which Draper City received
+         in the amount of $550,000. The funding would be paid to Salt Lake County who would
+         serve as the contractor for the playground. The funding for this request would come
+         from the Park Impact Fees as well as the grant from Salt Lake County.
+
+                                        Page 12 of 17
+4. Item FY20-25 was for electric charging stations. Draper City was awarded a grant from
+   the State of Utah Division of Air Quality to install four electrical car charging systems.
+   The estimated cost for installing the stations was $68,000. The City would need to fund
+   $44,500 from an appropriation from the General Fund. $23,500 of the funding request
+   would come from the State of Utah grant with the remaining $44,500 coming from the
+   General Fund.
+
+5. Item FY20-26 was for a reserve ambulance owned by the Fire Department that is
+   utilized during high volume call times. The current reserve ambulance had become
+   increasingly unreliable and was to be retrofitted using the existing chassis. The Fire
+   Department has requested $185,000 that would come from the Ambulance Fund. Mr.
+   Wylie explained that the Ambulance Fund is an Enterprise Fund that charges for
+   services and is separate from the General Fund.
+
+6. Item FY20-27 was for the buildout on the third floor of the police annex building.
+   Given that the project was near completion, staff had requested funding for the exercise
+   equipment that would be installed. The Police Department will utilize this area for
+   officer training and physical fitness requirements. In addition to the police’s use of the
+   facility, city staff will also be able to access the equipment. Funding for this request
+   would come from a Justice Assistance Grant (JAG) totaling $8,000 with an additional
+   $40,000 from a health insurance rebate from PEHP, the City’s public health insurance
+   plan. The rebate was calculated based on several criteria such as the City’s large risk
+   pool, experience ratings and the level of employee engagement. Draper City gained
+   approval from PEHP to use the rebate money to support wellness initiatives and
+   activities that incentivize employees to take preventative and cost savings measures.
+   Between these two funding sources, the total request was $48,000.
+
+7. Item FY20-28 was for stormwater detention basin improvements. The City had already
+   approved $70,000 in funds for the Corner Ridge Drive Storm Drain (CIP18-15). This
+   money was not needed for the project, so city staff requested that this project be closed
+   and that the money be re-appropriated to Storm Water Detention Basin Improvements
+   (CIP-0036). No additional funds are needed.
+
+8. Item FY20-29 was for the Jordan River Boat Launch. The City currently has an open
+   project called the Jordan River Trail Connect (CIP-180085) with allotted funds of
+   $248,500. City staff has requested that these funds be re-appropriated and rename the
+   project to Jordan River Boat Launch. This was discussed during December 2019’s
+   Study Session. No additional funds are needed.
+
+9. Item FY20-30 was for the Fire Department’s self-contained breathing apparatus
+   (SCBA). The Fire Department requested funding for a reserve SCBA because they do
+   not have a spare or reserve SCBA to put into service in the event that damage or
+   malfunction occurs to the primary SCBA during normal use. The funding request of
+   $18,000 would come from the General Fund.
+
+
+
+                                   Page 13 of 17
+         Mr. Wylie explained that the term “fund balance appropriation from the General Fund”
+         refers to the reserve that the state allows each city to have that the City can use for one-
+         time funding. This reserve acts as a savings account.
+
+      10. Item FY20-31 was for a Communication Consultant. The City Manager requested
+          funding for an outside communications assistant to assist with day-to-day
+          communication efforts to better inform residents and businesses of City issues and
+          projects. The funding request of $50,000 would come from additional sales tax
+          revenue.
+
+      11. Item FY20-32 was for a Communications Director. City Staff requested additional
+          funding to reclassify the Public Relations Specialist to a Communications Director.
+          The annual cost of the item would be $25,000 prorated for the remainder of FY2020 at
+          $8,000. The amount requested would come from additional sales tax revenue.
+
+         Mr. Wylie mentioned that he had cited sales tax as a source of revenue. He explained
+         that currently, sales tax revenue has been running about five percent higher than last
+         year’s month-to-month. If this continued, they would have an excess surplus of budget
+         sales tax revenue.
+
+      12. Item FY20-33 was a staffing chart. The City Council approves the City’s staffing chart,
+          or Full-Time Employees (FTEs) and their classifications. In conjunction with item
+          FY20-32 staff is requesting the reclassification of the Public Relations Specialist to
+          Communications Director. The total number of FTEs would not change, but the
+          position would move from grade 15 to grade 20.
+
+9.2   Councilmember Fred Lowry asked about the Jordan River Boat Launch. Although the staff
+      has asked for the $248,500 to be re-appropriated for the project, they do not currently have
+      an estimate for the project. David Dobbins, City Manager, confirmed this and explained
+      that what staff would like to do is have the Council re-appropriate the amount and then go
+      out and get an estimate on the project that would include several different designs. Once
+      this occurs, staff would report back to the Council with the estimated cost and the Council
+      would decide if they want staff to proceed with the construction. The staff does not expect
+      the project to actually cost that much. Other cities have reported the project to be in the
+      $100,000-$150,000 range.
+
+      Councilmember Tasha Lowery stated that there are already some existing drawings that
+      could potentially be used to implement the project. Councilmember Mike Green added
+      that they are not constructing a powerboat launch, but rather small vessels such as kayaks
+      and canoes. In addition, David Dobbins, City Manager, explained that several cities are
+      constructing similar projects. The City was actively pursuing a grant to fund the project
+      that has the goal of granting residents greater access to the river.
+
+      The Council expressed excitement about the project and the service it would provide to
+      residents who have been underutilizing the resource.
+
+
+
+                                         Page 14 of 17
+9.3   Mayor Walker opened the public hearing, no one came forward so Mayor Walker
+      closed the public hearing.
+
+9.4   Councilmember Roberts moved to separate item #1 (FY20-22) from the rest of the
+      items in the budget reopen. Councilmember Fred Lowry seconded the motion.
+
+9.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey voting in favor of separating the budget.
+
+9.6   Councilmember Green moved to approve Resolution # 20-03, amending the Fiscal
+      Year 2020 Budget without budget item #1 (FY20-22). Councilmember Vawdrey
+      seconded the motion.
+
+9.7   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey voting in favor. The motion passed unanimously.
+      All items are approved, except budget item #1, 5 to 0.
+
+9.8   Councilmember Fred Lowry voiced that he wanted to be transparent about the fact that the
+      Mayor’s compensation was a difficult issue for him to address on his very first City Council
+      Meeting. He stated that he values greatly the city administration and the Mayor and felt
+      that it was very important that they build the City financially in a way that they are able to
+      retain key talent. In addition, given that Draper is a top-tier city, he felt that it was necessary
+      to reflect that with their salary compensation. However, as someone who has just entered
+      public office, he did not yet feel that he had gained enough credibility and public trust to
+      vote on the matter.
+
+      Councilmember Mike Green stated two things. First, when the Council addressed the
+      Mayor’s compensation several months back, they accidentally omitted the auto allowance
+      as a result of a mistake in the way that he stated the motion. Second, in regards to providing
+      the Mayor with health insurance, it was his opinion that there was no difference between a
+      part-time mayor and a full-time mayor, except in how they are paid. He recognized that
+      Mayor Walker, consistently attends some seventeen meetings and that the reason why the
+      City has received so many grants and funding is a result of his efforts.
+
+      Councilmember Tasha Lowery asked if David Dobbins, City Manager, had the salary chart
+      of compensation for mayors in surrounding cities.
+
+      Councilmember Fred Lowry stated that although the Council wants to recognize the efforts
+      of Mayor Walker that they need to remember that the compensation is for the position not
+      for Mayor Walker’s efforts specifically.
+
+      Councilmember Tasha Lowery stated that it has always been the City’s policy to position
+      their salaries slightly above average and that if you look at the chart that is not where
+      Draper’s compensation for the position of Mayor falls. She felt that it is important to be
+      fair in all things, including wages. The position of Mayor requires an incredible amount of
+
+
+
+                                           Page 15 of 17
+       time that could be spent doing work at higher compensation and although some of this
+       could be considered public service, it is unfair to not pay well.
+
+       Councilmember Cal Roberts again stated that even though he has only been on the Council
+       for about a week, he recognizes that Draper has an incredibly dedicated mayor. He stated
+       that for himself, that political service should in part be service and that is part of his
+       consideration.
+
+       Councilmember Fred Lowry stated that one of the aspects that the chart points to is the fact
+       that comparable cities are providing their mayor with health insurance and that Draper is
+       not, as is the case with the auto allowance.
+
+       Mayor Walker wanted to address the issue. He explained that both he and the previous
+       mayor have both continued to work full-time with their own businesses. The amount of
+       time that the mayor can spend on behalf of the city has gone up markedly during his time
+       of service. He further explained that some of the places he serves, such as the Utah Transit
+       Authority, as positions he holds not for political gain, but because Draper has a transit
+       investment that is important for him to continue to be involved in. Some of his other tasks
+       outside of the normal portfolio include The Prison Land Development Authority and
+       Wasatch Front Committees. He voiced that he would not turn down an increase, but that
+       he didn’t run for office for the money, but that it has gotten more involved. He also stated
+       that he utilizes his own vehicle, phone, and laptop.
+
+       Councilmember Tasha Lowery stated that no one is getting rich off of public service.
+
+       Councilmember Fred Lowry wanted it noted again that it is not the best timing for new
+       councilmembers to have to vote on an issue like this because he does not feel as though he
+       has gained public trust.
+
+9.9    Councilmember Green moved to approve Budget item #1 (FY20-22) of Resolution
+       #20-03, amending the Fiscal Year 2020 Budget. Councilmember Vawdrey moved to
+       second the motion.
+
+9.9    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and Vawdrey
+       voting in favor. The motion passed 4 to 1.
+
+10.0   Action Item: Approval of Ordinance #1416, vacating a Public Right-of-Way along a
+       portion of 12100 South, at 690 East 12100 South in the Draperville Plat.
+
+10.1   Scott Cooley, City Engineer, explained that from time-to-time the City receives requests to
+       vacate their right of ways that are adjacent to private properties. The current request is of
+       a property owner who wants to subdivide his parcel into two parcels. He currently has the
+       zoning to do so but doesn’t have the acreage. After he approached the City and staff
+       reviewed the request, it was determined that the City does not need the right of way.
+       There is plenty of room outside of the right of way for the City to widen the road if that is
+       necessary.
+
+                                          Page 16 of 17
+10.2   Councilmember Vawdrey moved to approve Ordinance #1416, vacating a Public
+       Right-of-Way. Councilmember Fred Lowry seconded the motion.
+
+10.3   Councilmember Mike Green stated he was unsure about vacating the right of way.
+       Although the City does not need the right of way he recognized that the Draperville Plat
+       has had so many issues with neighbors subdividing properties. He was uncertain what the
+       right answer was.
+
+       Councilmember Fred Lowry stated that if the right of way would not be used by the City
+       the property owner should have that land.
+
+       Councilmember Cal Roberts voiced that flag lots are not his favorite, but that the area is
+       zoned RA2 and that it was important to respect the property rights of the owner.
+
+10.4   A roll call vote was taken with Councilmembers Lowry, Roberts, and Vawdrey voting
+       in favor. The motion passed 3 to 2.
+
+11.0   Action Item: Approval of Resolution #20-01, appointing the 2020 Mayor Pro
+       Tempore
+
+11.1   Councilmember Tasha Lowery moved to approve Resolution #20-01, appointing
+       Councilmember Green as the 2020 Mayor Pro Tempore. Councilmember Cal
+       Roberts seconded the motion.
+
+11.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey voting in favor. The motion passed unanimously.
+
+12.0   Action Item: Approval of Resolution #20-02, approving the 2020 Council Assignment
+       List
+
+12.1   Councilmember Mike Green moved to approve Resolution #20-02, approving the
+       Council Assignment List. Councilmember Tasha Lowery seconded the motion.
+
+12.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey voting in favor. The motion passed unanimously.
+
+13.0   Adjournment
+
+13.1   Councilmember Green moved to adjourn the meeting. Councilmember Cal Roberts
+       seconded the motion.
+
+13.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey voting in favor. The motion passed unanimously
+
+13.3   The meeting adjourned at 8:06 pm.
+
+                                         Page 17 of 17
+

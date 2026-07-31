@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "date": "2024-08-14",
+    "year": "2024",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/BoardsCommissions/DocView.aspx?id=6667561&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2024/2024-08-12/2024-08-14_planning-commission-meeting.md",
+    "present": [
+      "Mike Christensen",
+      "Aimee Burrows",
+      "Bree Scheer",
+      "Amy Barry",
+      "Anaya Gayle",
+      "Brian Scott"
+    ],
+    "absent": [
+      "Landon Kraczek"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the Consent Agenda",
+      "description": "approve the Consent Agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Bree Scheer",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Amy Barry",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Mike Christensen",
+        "Anaya Gayle"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation to adopt this zoning map amendment to the City Council",
+      "description": "forward a recommendation to adopt this zoning map amendment to the City Council",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Bree Scheer",
+      "seconder": "Amy Barry",
+      "result": "Positive recommendation 6:0",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Brian Scott",
+        "Anaya Gayle",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

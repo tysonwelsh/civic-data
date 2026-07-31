@@ -1,0 +1,575 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07132020-385
+> Meeting date: 2020-07-13
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2020-07-13
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07132020-385
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                Minutes           of the
+                                                                                       Millcreek            City     Council
+                                                                                                 July     13,      2020
+                                                                                                     5:00     p.m.
+                                                                                                Work        Meeting
+                                                                                                     7:00     p.m.
+                                                                                           Regular           Meeting
+
+
+The City       Council        of Millcreek,             Utah,    met in a public          work       meeting         and regular          meeting        on July
+13, 2020 at City           Hall,     located          at 3330 S. 1300 E., Millcreek,                     UT 84106.          The meeting           was
+ conducted       electronically              per Millcreek         State of Local          Emergency               Directive       No. 2 of 2020 and
+live streamed         via the City's                website     with     an option      for online        public      comment.
+
+
+PRESENT:
+
+
+Council        Members                                                         City     Staff
+Jeff Silvestrini,          Mayor                                               John Brems,           City       Attorney
+Silvia    Catten,     District       1                                         Elyse     Sullivan,        City Recorder
+Dwight        Marchant,        District         2                              Rita Lund,           Communications                 Director
+Cheri     Jackson,       District        3                                     Laurie     Johnson,          HR-Finance             Director
+Bev Uipi,       District      4                                                Francis     Lilly,       Planning       and Zoning             Director
+                                                                               Mike     Winder,         Economic           Development            Director
+                                                                               Kurt     Hansen,         Legislative         Policy     Director
+                                                                               Jim Hardy,           Building        Official       (electronic)
+                                                                               Jared Bowling,             IT & Facilities            Manager
+                                                                               Andrew       Clark,        Emergency            Manager
+                                                                               Robert     May,       Planner
+                                                                               Ashley      Cleveland,            Promise          Program       Manager
+
+
+Attendees:        Alex      Daybel,           Thom      DeSirant,         Adalyn       Call, Amy          Call,     Samuel         Watkins,       Adam      Von
+Maack,      Jacob Brace,            Dan Mack            (electronic), Chief           Steve DeBry,           and Chief            Duane      Woolsey.
+
+
+
+WORK          MEETING               - 5:00 p.m.
+TIME       COMMENCED:                          5:03 p.m.
+
+
+Mayor      Silvestrini        called      the work        meeting         to order.
+
+
+1. Discussion         of CARES                Act     Grant;      John      Brems,       City     Attorney
+   Mayor        Silvestrini        said Salt Lake              County       was distributing            money        to its cities from          the CARES
+   Act from        Congress         and Millcreek               qualified      for $1.8 million.            The purpose             of the funding          was
+   to offset      COVID-related                 expenses        the City      may incur,          first responders             may incur,         and was
+   eligible      to stimulate          the economy.             John Brems            said the Coronavirus                 Aid,    Relief,      and
+   Economic         Security        (CARES)             Act was passed by Congress                        with     overwhelming,              bipartisan
+   support       and signed         into law by President                   Trump       on March          27, 2020.        The CARES              Act created
+   a $2 trillion         economic            relief    package         that was allocated           into four buckets:               assistance       for
+Mfflcreek      City       Council           Meeting        Minutes                                              13 July       2020        Page 2 of 10
+
+
+
+   American         workers          and families,            assistance      for small        businesses,        preserving        jobs for American
+   industry,       and assistance             for state, local,         and tribal       goveri'unents.          The CARES            Act established
+
+   the $150 billion              Coronavirus           Relief  Fund for states and eligible units of local government,
+   other governrnental                agencies,         and tribal governments.   The CARES Act required that the
+   payments         from     the Coronavirus                Relief     Fund      only be used to cover                expenses        that are necessary
+   expenditures            incurred         due to the public           health     emergency             with   respect      to COVID-19             (funds
+   may not be used to fill                   shortfalls       in government            revenue);         were not accounted               for in the
+   budget      most recently            approved           as of March         27, 2020        (the date of enactment                of the CARES
+   Act)     for the state or government;                       and were incurred             during       the period        that begins       on March            1,
+   2020, and ends on December                          30, 2020.        A unit     of local       government           eligible      for receipt      of
+   direct     payment        includes          a county,        municipality,          town,      township,       village,      parish,      borough,        or
+
+   other unit of general               government              below      the state level         with     a population        that exceeds           500,000.
+
+   Eligible       local     governments              that certified       in Utah       were Salt Lake County,                    $203,603,981.20,
+   Utah County,             $111,630,341.90,                and the State, $934,765,676.9.
+
+
+   Brems       said there was a proposal                      that Salt Lake County                 would       provide      Millcreek       with
+
+    $1,810,016.83  as an indirect recipient of the Coronavirus Relief Fund received by the County
+   pursuant to the terms and conditions    of an agreement between the County and Millcreek.
+   Brems then reviewed     the agreement. He said paragraph 2 of the agreement provided   that
+    funds covcr           costs that are necessary                 expenditures          incurred         due to the public          health     emergency
+   with     respect       to COVID-19                (funds     caru'iot be used as a revenue                   replacement          for lower       than
+    expected       tax or other revenue                   collections);       were not accounted                 for in the budget           most recently
+    approved        as of March             27, 2020,         for Millcreek;           and were incurred             during       the period     that begins
+    on March   1, 2020 and ends on December 30, 2020. Paragraph 3 of the agreement                                                             identifies
+    prohibited  uses as: cannot be used as a revenue replacement   for lower than expected tax or
+    other revenue collections   and cannot be used for Millcreek, or a subgrantee's or subrecipient's,
+    losses or expenses               reimbursed           under      any other federal,             state or private          program.       Millcreek
+    would      agree to comply                with    all anti-discrimination               and drug-free            workplace        laws,     and all laws
+    governing         research        involving         human         subjects     and other federal             laws to the extent they apply
+    to the subject          matter      of this agreement.                Funds must be expended                     on or before         October      1, 2020,
+    provided       Millcreek          may petition            the County         to retain      allocated        but unspent         grant funds
+    beyond      October           1, 2020.      Such petitions            must be filed           in writing      with     the County         no later than
+    September         15, 2020,         and may be approved                   or denied         by the County,             in the County's           sole
+    discretion.       Millcreek         shall retain           documentation            of all uses of the grant funds,                   including         but
+
+    not limited        to invoices           and/or       sales receipts.        All    payroll      expenditures           must illustrate
+    compliance            with     the CARES            Act by detailed,           daily     documentation.
+
+
+    Brems      said Millcreek               shall,    each calendar         month        during      the term of the agreement,                  submit           to
+
+    the County         a detailed           report    and accounting             for how the grant funds                   were spent in the
+    previous       calendar         month.       Millcreek           shall, at least monthly,              on its website,          Facebook         page, or
+    other currently              existing     internet-accessible             site used by Millcreek,                 post only       the following
+    infornnation:          the amount           expended          and the purpose.             Millcreek        shall comply          with     all applicable
+    federal    and state laws and regulations                          regarding        financial        reporting        and auditing.        Millcreek
+    would      agree that Millcreek's                   disbursement           was appropriate              and waives         any right       in law or
+    equity     to challenge           the amount            of grant funds Millcreek                 receives        under     the agreement.
+
+
+    Mayor      Silvestrini          said there may be a subsequent                         distribution         to local     governrnents           from     the
+
+    County.       He said the disbursement                       formula      was based on population.                     He said the City's
+Mfflcreek         City        Councn          Meeting           Minutes                                                       13 July          2020         Page        3 of 10
+
+
+
+   expenses           related        to technology,              staff    overtime,           and law             enforcement             overtime.         He said the
+   City     could        spend        some      money           on economy              stimulus           though         staff     would       run any ideas                 through
+   the County               before     engaging           in any activity.              Council           Member            Jackson          asked      about       projecting
+   expenses.           Brems          said the funds             must      be expended               on or before             October          1, 2020.           Council
+   Member            Uipi      asked        about      providing          funding          for daycare              expenses.         Brems          said it could
+   possibly          be an economic                 reimbursement.                 Mayor           Silvestrini         said he was considering                         setting
+   aside      a fixed         amount         to businesses.              Council        Member              Jackson         asked         if school       districts           were
+   eligible       for funding.              Mike       Winder          said they        were        being         funding         through       something              other         than
+   CARES             Act.     Council         Member            Catten      asked       about         funding         preschools             not funded            by the
+   school        district.        Brems        said if they            did not get other              funding,         the City           could      look      into     it.
+
+
+2. Discussion               of Short-Term                Rental          Ordinance;                Kurt      Hansen,          Legislative              Policy         Director
+   Kurt     Hansen            said he was seeking                  Council         direction.             He said based              on resident            concerns
+   expressed           to code         compliance              inspectors,         staff     requested             to amend          Title      5 Chapter           19. The
+   purpose         of the code was to establish                           regulations              and design          standards            for residential             short-
+   teri'n rentals           located         in single-family              and multi-family                   neighborhoods.                  Hansen         then reviewed
+   the proposed               ordinance         which          included          new    definitions               for "short-term             rental"       and "primary
+   residence"           that would            include          the use of an affidavit.                     He went         through          the required             application
+   contents          and the maintenance                      requirements.
+
+
+   Council         Member             Jackson        asked       about      the one day turn                      around     for rentals          because          she said the
+   usual      tumover           happened            in the same day. Mayor                         Silvestrini         raised        concern         about        the 8 related
+   adults      and 4 unrelated                 adult     count         requirement.           Council             Member           Uipi      said there           was no
+   guarantee           of car count            based      on relation            for parking              concerns.         Mayor           Silvestrini           said the basis
+   for the regulation                 was to mitigate              a burden            imposed            on the neighborhood                     for noise           and
+   parking.          Council         Member            Uipi     said there         could       be noise            regulations            at certain        times       of the
+   night      with     a rental.        Mayor          Silvestrini         asked        about       a mechanism                   for transfornning               homes         into      a
+   hotel      or bed and breakfast                     because         that was what               he wanted           to avoid.           Francis        Lilly       said a bed
+   and breakfast              was defined              differently         in code.         Mayor           Silvestrini           said he wanted             the issue               to be
+   based      on licensing,             not zoning.             Council          Member            Uipi      asked     about         a renter        renting        for 29 days,
+   taking      a day off,            then    renting          again.     Mayor         Silvestrini           said that provision                  proposed            in the code
+   would       be removed.              Council          Member           Catten        asked        if a film        crew         was considered                 a commercial
+   purpose,          which        would       not be allowed.               Hansen           said no. Council                 Member            Jackson           asked         about
+   adding      "or      designee"            to the requirement                  of the property                  owner      being         available        within          twenty
+   minutes.          Hansen          said he would              add it. Mayor              Silvestrini             asked     about         the use of "sales                  tax"
+   terms.      Brems          said it would             be fixed         because        it was        a special        tax. Council               Member           Jackson
+   suggested           limiting        the number              of licenses         per district             to 30 instead            of the proposed                  25.
+
+
+   Hansen         asked        about        an implementation                 date.      Council            Member           Uipi      suggested            September                1.
+  Hansen          asked        about        the adult         occupant       count         and suggested               no more             than two         adults      per
+  room.        Mayor          Silvestrini          said he would             rather        limit     the overall            number           of people.           Council
+  Member             Jackson         suggested           no more          than     10 people              total     or 2 adults           per bedroom.             Brems
+   suggested          a one-         or two-year          grace         period     for the primary                   occupancy             requirement.             Mayor
+   Silvestrini         brought         up prior         obligations          and cornrnitments                      being         in place.       Council          Member
+  Jackson         brought            up that because              of the pandemic,                  people          were     not renting           as much.            Mayor
+  Silvestrini          suggested            1 year.      Brems           asked     about        a phased            approach.          The      Council           agreed         to put
+  some        regulations            in place       immediately              to address             problems.
+Millcreek       City     Council         Meeting       Minutes                                               13 July        2020        Page 4 of 10
+
+
+
+3. Planning          Matters       First      Reading:
+   a. ZM-20-003,              Rezone       from      R-I-10       to R-1-5        at 4524 S. 785 E.; Robert                      May,      Planner
+   Robert      May       said the property           was located            to the south of the not yet constructed                        Cyprus
+   Credit     Union.      May       said the applicant            first     applied      for a R-1-3       zone that did not gain
+   neighborhood              support,      so then he went with               staff's      recommendation                of a R-1-5       zone. The
+   applicant         did not have a proposed                concept         plan for development.               The neighborhood                and
+   community            council     did not want duplex                   style housing,        but detached          single-family          dwellings,
+   and low density              so as to not create a traffic                impact.       He said the Council              could      impose       a zone
+   condition         to limit     the density       and use or a development                     agreement          to limit     the construction
+   materials         and the things         the neighborhood                was concerned           about.     May        said the community
+   council      and Planning            Commission            had made positive              recommendations                   for approval      of the
+   rezone.      The traffic        study showed             that there would             not be any detrimental                 impacts      from the
+   development.
+
+
+   b. ZM-20-005,                Rezone      from     R-1-6       to R-1-5       at 755 E. 2910 S.; Robert                       May,    Planner
+   Robert      May       said the property           had been on the market                    for a year and staff had received
+   multiple         rezone      applications        on it. The new zone would                    allow       for smaller         lot width
+   requirements.          Council        Member        Marchant            pointed       out that neighboring              lots were small.             May
+   said the plan was compatible                     with     the area and staff had received                    little     opposition        from       the
+   public.     The Planning             Commission           had a few concerns                about building            materials        and driveways
+   that allowed          for guest parking.           Staff recommended                    approval       of the rezone.          He said it was the
+   best proposal          staff had seen for the property.                     Council       Member          Uipi    asked if the 15
+   development           agreement          conditions        were agreeable               for the applicant.            May     confirmed.
+
+
+   Francis      Lilly    said both of the rezones                 were the result            of multiple       years of finessing              and
+   commended             May      for his work        in balancing           competing          interests.
+
+
+   Adam       Von       Maack,      attorney       for Sancus Development,                     thanked       the Council          for considering             the
+   proposal.         He felt the proposal            was a good balance                  for the neighborhood               and solved         existing
+   problems.          He said the product            would        be individually            owned        single-family          residences.
+
+
+4. Staff     Reports
+   a.      Updated       Revenue           Report     for FY 2019-20;                 Laurie      Johnson,          HR-Finance             Director
+           Laurie     Johnson       said in budget          amendment            #4, staff raised the amount                     of property        tax
+           received      but the City had since received                      an additional$l35,000.                  She said the collection
+           would      be added to the Fiscal               Year '20 budget.              There would          be an added $211,159                   into the
+        Unified         Police     Department         (UPD)        reserve       giving      a total balance          of $1.8 million           going         into
+           the next fiscal        year. She said the truth in taxation                       hearing       for the FY 2020-21               budget
+           would      be on August          10tll. She felt that the current                 and next fiscal             year property        tax
+           increases     could be under             3%. Johnson             said the City       had not yet collected                sales tax for May
+           and June 2020. The City                  would       need to collect          at least $849,503.21.                 Mayor      Silvestrini         said
+           comments          he had received          from      the public       were in support             of the property            tax increase.
+           Council      Member          Jackson      asked about Taylorsville                   pulling      out of UPD.           Mayor      Silvestrini
+           said there would          be changes          with     regional       services.       He said UPD             was looking         for more
+           school     resource      officer     funding.        Mayor        Silvestrini       said staff would            fornn a new safety
+           committee         to address policing            issues through              the Promise        Program.         Council       Member
+        Marchant          pointed       out that Millcreek's               percentage         of the overall         property       tax increase          was
+        minimal.
+Mincreek            City      Council         Meeting       Minutes                                             13 July      2020        Page 5 of 10
+
+
+
+
+      b.     Promise         Internet         Essentials       Program;            Ashley      Cleveland,          Promise      Program           Manager
+             Ashley        Cleveland          said the Millcreek            Promise      subcommittees             were     still meeting         through
+             the pandemic.             The Economic            Wellbeing           Subcommittee            had reached        out to the Granite
+             School        District      about internet         interventions.          The District        put together        data and there were
+             800 households               in Millcreek         that needed internet            and could        qualify      for some of the low-
+             income        programs.          She said she was looking                  at barriers       and collective       impact.       Some
+             nonprofits        in the area were working                    on digital       inclusion      but it was not enough.             She teamed
+             up with        Comcast        and other entities          to put together           a package         that would         subsidize        internet
+             service.       She said Comcast              already     had a program             that heavily        subsidized         internet    service,
+             but the City         should       not promote          business       services.      Millcreek        was hoping          to model        work         of
+             an existing         nonprofit       to take care of the cost of an internet                       essentials     program,        so the goal
+             was to get internet              to 200 households              over the next six months.                The project         would        cost the
+             City   $13,000           over that time period.            Cleveland           showed      the Council         a flier     for the project.
+             Council        Member         Jackson       asked about continued                 internet     service       after November           30'.
+             Cleveland         said the subsidized              internet     service      was already          in effect,    but Millcreek             was
+             offering       free service        for residents         from    sign up date to November                     30. Council       Member
+             Jackson        asked what the $13,000                  paid for. Cleveland             said free internet          for 200 families               in
+             Millcreek.        She said she had already                 received        half of that amount               in donations.
+
+
+5. Discussion              of Agenda           Items,     Correspondence,                and/or       Future       Agenda       Items
+There was none.
+
+
+Council         Member            Uipi     moved        to adjourn         the work         meeting        at 6:32 p.m.        Council       Member
+Jackson         seconded.             Mayor      Silvestrini        called     for the vote. All            Council        Members         voted        yes.
+The        motion       passed        unanimously.
+
+
+
+
+REGULAR                 MEETING               - 7:00 p.m.
+TIME         COMMENCED:                        7:02 p.m.
+
+
+1. Welcome,             Introduction            and Preliminary               Matters
+             1.1 Pledge           of Anegiance
+             Mayor         Silvestrini        called    the meeting          to order and led the pledge                  of allegiance.          He
+             thanked         the Unified        Fire Authority             (UFA)     for assistance         with    the recent         fires. He
+              expressed          appreciation          for tlie other city agencies               and entities       that assisted too.
+
+
+             1.2 Public          Comment
+             There were no comi'nents.
+
+
+2. Financial            Matters
+              2.1 Public          Hearing        on Monetary            Contributions             to the Community                    Councils,        Events,
+             Rain       Barrel        Program,          Millcreek      Promise          Program,           and Federal         Land       Access
+             Program
+             Mayor         Silvestrini        said every year the City               provided       funds to other agencies                or entities
+             that the Council              determined        promoted         the general         health     and welfare        of the community.
+             There      are four         coinmunity        councils        and funding         amounts        were based on population.                   He
+Millcreek          City    Council       Meeting         Minutes                                               13 July         2020         Page 6 of 10
+
+
+
+            said the City usually              appropriated              about $100,000           to Venture         Out programs               like the
+            movies        on summer           Friday     nights,        MillFreaks,         and other events throughout                       the year. The
+            events        enabled     the Council             and staff to interact          with    the community.                 The City partners
+            with     the Utah Rivers            Council         on the rain barrel            program.        The program             helps with        storm
+
+            mter      management              with     the EPA.          Another      appropriation           was $2,000            to the Federal         Land
+            Access              Millcreek
+                          Program.          was applying,    in partnership                                  with    Salt Lake          County,        for a
+
+            federal  grant to raise $5 million  for improvements         in Millcreek    Canyon. The Canyon is
+            not in the City, but people could    not get  to  it without    going   through  Millcreek. The
+            funding would help to improve the road and bike lanes. He said all distributions             were
+            studied       by an outside          consultant            to ensure that they were in the best interest                            of the City.
+
+
+Council       Member           Uipi     moved         to open to the public                  hearing.        Council        Member            Catten
+seconded.          Mayor       Silvestrini           called     for the vote.         All    Council       Members            voted       yes. The        motion
+passed      unanimously.
+
+
+            Elyse     Sullivan        read a public            comment          submitted       online     into the record             firom Hilary
+            Lambert,         3796 S. Alta            Loma       Drive,     "The     Millcreek        Community              Courxcil      approved         $3,000
+
+            from our budget to be used to fund the iriternet essentialsproject. We know many of the
+            impacted         households          live within           our community            council      boundary.         Internet        access is an
+
+            invaluable tool for students,for adults seebrtg employment,and for everyortestayingsafe
+            and at home during                 this time, and our council                    was happy         to support           the initiative.       Ijust
+
+            wish we could raise or furid all 800 households, as digital inclusion in so important in
+            this time."
+
+
+Council       Member           Uipi     moved          to close the public             hearing.         Council        Member           Jackson
+seconded.          Mayor       Silvestrini           called     for the vote.         All    Council       Members             voted      yes. The motion
+passed      unanimously.
+
+
+            Mayor         Silvestrini        thanked      Hilary        Lambert       for her comment               as member           of the Millcreek
+            Community              Council.      He said the City did recognize                         the importance             of digital     inclusion,
+            hence the appropriation                    to the Promise           Program.
+
+
+            2.2 Discussion              and Consideration                  of Ordinance             20-31,     Approving              a Monetary
+            Contribution              that    shall     not exceed          $6,000      to the Canyon               Rim      Citizens         Association,
+            that     Shall     Not Exceed             $5,000       to the East        Mffl      Creek      Community                Council,       that     Shall
+            Not Exceed             $3,000      to the Mt          Olympus          Community              Council,          that    Shall     Not Exceed
+            $15,000         to the Mfflcreek              Community               Council,       that     Shall     Not      Exceed         $100,000       to
+            Events,         that    Shall     Not Exceed               $5,000    to the Rain         Barrel         Program,           that    Shall    Not
+            Exceed         $11,000       to the Millcreek                Promise       Program,           and that          Shall     Not Exceed
+            $2,000         to the Federal             Land      Access      Program
+
+
+Council       Member           Uipi     moved          to approve          item     2.2, Ordinance             20-31.        Council          Member
+Catten       seconded.         Council         Member           Uipi     thanked      staff for having            a third     party     conduct        the study.
+Rita Lund          said the rain barrel              program       was delayed          until    August        Ist and some barrels               were still
+available.         The Recorder              called     for the vote. All             Council       Members            voted        yes. The motion
+passed       unanimously.
+
+
+3. Business          Matters
+Mfflcreek         City     Council        Meeting          Minutes                                              13 July         2020      Page 7 of 10
+
+
+
+            3.1 Discussion              and Consideration                  of Ordinance            20-32,     Approving            a Non-Exclusive
+            License        Agreement             Between          Mfflcreek        and Google           Fiber     Utah      LLC         for the
+            Installation           of Network           Facilities         in the City       Public        Right-Of-Way
+            Mayor        Silvestrini         said he was pleased              that Google          Fiber     chose Millcreek              as the third         city
+            in Utah to work             with.     The agreement              would       provide      Google      with     access to the City's
+            right-of-way           and the right           to trench       in its streets. Google             would      be designing          a plan about
+            where        the fiber would          go first.       The agreement            contains        a clause that Google              must
+            exercise       good faith         and be inclusive              of the whole       city. Google           preferred         to put fiber          into
+            higher       density       on the west side as a for-profit                   business.
+
+
+            Jacob Brace,            Governrnent            Community           Affairs       Manager        for Google          Fiber in Utah,           said he
+            appreciated         Ashley        Cleveland's            presentation         on digital       inclusion.      He said he lived              in
+           Millcreek.         Google         Fiber's       mission      was for all communities                  to have access to fast and
+           reliable       internet.      Mayor         Silvestrini       asked about a construction                   and service         timeline.       Brace
+            said Google           would       immediately            work     on the permitting             process      with     the City.      He was
+            anticipating          coru'iecting      people        to service      in Quarter         I or II of next year. Mayor                  Silvestrini
+            asked about the potential                   monthly         cost for a residential             customer.       Brace        said it would           be
+           $70 for a gigabit             of service.        Council         Member        Marchant          asked when Provo               and Salt Lake
+           City     started     service       and for their build             out status. Brace             said Provo          started in 2011-2012
+           but it was a buy out for existing                         infrastructure.         Salt Lake City           was selected          in 2015,
+           construction            started      in 2016,     and they were three-quarters                     built     out. Council         Member            Uipi
+           asked about public                engagement.             Brace     said he would           seek help with            the community
+           councils,        the Millcreek          Promise           Program,       social    media,        the City's      printed       newsletter,           and
+           door-to-door            mailers       and hangers.           Council      Member         Uipi      asked about Millcreek's
+           projected        build      out. Brace          said he did not know,              but the Google             Fiber     engineers          would
+           work      on it. Mayor            Silvestrini      mentioned           tliat 2% of gross revenues                    would     be paid to
+           Millcreek         from      Google.
+
+
+           Mayor         Silvestrini      asked for public              comment.          There was none.
+
+
+Council      Member           Jackson           moved       to adopt         Ordinance         20-32,       Approving            a Non-Exclusive
+License      Agreement             Between         Millcreek           and Google          Fiber       Utah     LLC       for    the Installation               of
+Network       Facilities          in the City       Public        Right-Of-Way.               Council         Member            Marchant        seconded.
+The Recorder             called      for the vote.          All    Council        Members           voted     yes. The motion               passed
+unanimously.
+
+
+           3.2 Discussion              and Consideration                   of Ordinance            20-33,     Amending            Title    2 of the
+           Mmcreek            Code Regarding                 Surplus         of Personal        Property
+           Mayor         Silvestrini      said the Council              had a previous          first read of the matter.                 The ordinance
+           would      streamline          the process         for staff to be able to sell or dispose                      of items with              small
+           value.     Millcreek         received        furniture       from      Cottonwood           Heights        when the City           first     started
+           up but some of it did not serve a utility                           anymore.        Elyse       Sullivan      brought        up that she made
+           an amendment                to the ordinance           that was in the meeting                  packet.      She requested          the Council
+           adopt the recent             version     which         struck     out the word "his"              in reference         to the Mayor           or
+           designee        to keep the code gender                    neutral.
+
+
+Council      Member           Uipi      moved       to approve             item   3.2, Ordinance              20-33      with     the amended
+verbiage      removing          "he      feels"     in item       2.22.170(A)            as well     as the term          GGhis" in order             to make
+Millcreek        City     Council       Meeting       Minutes                                              13 July       2020       Page 8 of 10
+
+
+
+it gender       neutral.       Council       Member           Jackson         seconded.       The Recorder            called     for the vote.                All
+Council       Members          voted       yes. The     motion         passed      unanimously.
+
+
+            3.3 Discussion            and Consideration                of Resolution          20-27,     Approving           Amendment                  No. 1
+            of the Interlocal            Cooperative          Agreement            Between       Salt Lake          County       and Mnlcreek
+            Regarding          Transfer        of Regional         Transportation              Funds
+            Mayor       Silvestrini      said the agreement              would      allow     Salt Lake County              to give Millcreek
+            more funds         for projects       that were partially             funded      and needed          a boost to finish             them.
+
+
+Council       Member         Jackson        moved       to adopt         Resolution          20-27,     Approving           Amendment                  No. 1
+of the Interlocal           Cooperative           Agreement            Between        Salt Lake         County       and Millcreek
+Regarding         Transfer          of Regional        Transportation              Funds.       Council          Member        Catten           seconded.
+The Recorder             called     for the vote.       All    Council         Members         voted      yes. The motion              passed
+unanimously
+
+
+            3.4 Discussion            and Consideration                of Resolution          20-28,     Approving           the Renewal                of an
+            Agreement          for Informational               Technology           Services         and Equipment              Purchasing                  and
+            Maintenance             Services      Between        Millcreek          and Network            Providers,          Incorporated
+            Mayor       Silvestrini      said the resolution            was for a renewal             of the agreement           with      Network
+            Providers       who provides          IT services          to the City     on a contracted             hourly     basis. He thanked
+            Jared Bowling,            Millcreek       IT, for his work           and said that Network               Providers         was back-up
+            for IT services.
+
+
+Council       Member         Uipi     moved       to approve           item     3.4, Resolution           20-28.     Council        Member
+Catten      seconded.        The Recorder             called     for    the vote.      All    Council       Members            voted      yes. The
+motion       passed      unanimously.
+
+
+            3.5 Discussion            and Consideration                of Ordinance           20-34,      Amending           Section        2.24.060              of
+            the Millcreek           Code     of Ordinances              to Add      Reimbursements                 to the Consolidated                      Fee
+            Schedule
+            John Brems         said there was not a concept                     for reimbursement            in the consolidated                 fee
+            schedule,      so staff added it in the ordinance.
+
+
+Council       Member         Jackson        moved       to adopt         Ordinance           20-34,     Amending            Section      2.24.060             of
+the Millcreek           Code      of Ordinances          to Add         Reimbursements                 to the Consolidated                Fee
+Schedule.       Council        Member          Uipi    seconded.         The      Recorder        called     for the vote. All             Council
+Members         voted      yes. The motion             passed      unanimously.
+
+
+4. Reports
+            4.1 Mayor's           Report
+            Mayor       Silvestrini      thanked      UPD       for their      service.      He said Taylorsville             gave notice              of
+            depariure      from       UPD    at the end of June 2021.                The Midvale           City     Council      was considering
+            it but deferred         to see how UPD             reacted      to Taylorsville           leaving.     UPD      would       still    serve
+            about 170,000           residents     in Salt Lake County.               There      were still       economies        of scale to be
+            achieved       on shared services.           He said his view             was to be committed                 to UPD       and making                  it
+            better.     He said other municipalities                   departed     before     the needed budget               reformation             took
+            place.    Millcreek        and other jurisdictions                benefitted      from     pooled      services.     He felt
+            encouraged         that UPD         was ahead of the curve               on training.         Council      Member          Uipi       said
+Millcreek               City     Council         Meeting        Minutes                                               13 July       2020          Page 9 of 10
+
+
+
+               pooled           services        were important           and utilized       by all cities.           She suggested           that UPD           track
+               pooled           services       used in other jurisdictions                so that they could              contribute         for them.       Mayor
+               Silvestrini             said UPD would             not provide          services     on a regular          basis to jurisdictions                not in
+               UPD but would                    provide     mutual       aid to those in need during                   times     of disaster.         He said
+               Taylorsville              was a high user of shared services.
+
+
+               Mayor           Silvestrini        thanked       Venture       Out and staff for the 4I'l of July car show,                            and Rita
+               Lund        and Andrew             Clark      for cornrnunications               during       the recent        fire in the     canyon.
+
+
+
+               Mayor           Silvestrini        said the City       Manager          would      have to tender his resignation                       due to
+               health      reasons,            so the Council        would      go into a closed              session to discuss             it. The City
+               would           be advertising            for that position       and the Mayor               would      fill   the role during            the
+               interim.
+
+
+               4.2 City          Council         Member          Reports
+               Council           Member          Jackson       brought      up the Canyon              Rim      Cares event the coming                    weekend.
+               There       would         be four service          projects      to assist with:          a food drive,           contributing          to the
+               internet         essentials        program,       putting      together      cleaning         kits for refugees,            and a clothing
+               drive.
+
+
+               Council           Member          Marchant        mentioned        the food truck             rally     on Thursday           nights       at City
+               Hall.      He said there was a representative                        who attended              that rallied       people       to do the US
+               Census.
+
+
+               4.3 Staff             Reports
+               Chief      Duane          Woolsey          said there were four separate                   fires recently.         He said the
+               investigations                bureau      said two were not suspicious                    due to faulty          electrical        coru'iections.
+               One home               rekindled       was under          investigation.         He said the wildland               fire    crew       had great
+           relationships                 with     other organizations.            Mayor         Silvestrini          said he was impressed                 with     the
+               coordination              of agencies.          Council      Member        Jackson        asked about 4'h of July fireworks
+               fires.     Chief        Woolsey         said nothing         too big had occurred,                but call volume             was up about
+               70%.
+
+
+5. Consent              Agenda
+           5.1 Approval                  of June 22, 2020 Work                  Meeting         and Regular            Meeting      Minutes
+
+
+Council          Member               Uipi     moved       to approve         the minutes           from        June      22"d. Council            Member
+Catten         seconded.              Mayor       Silvestrini        called     for the vote.          All      Council        Members            voted     yes. The
+motion         passed           unanimously.
+
+
+6. New          Items          for    Subsequent           Consideration
+There     were none.
+
+
+7. Calendar               of Upcoming                 Events
+   @ Planning              Commission              Mtg.     7/15/20        at 5:00 p.m.,        City     Hall
+   *    City     Council              Mtg.     7/27/20     at 5:00 p.m.,        City     Hall
+Millcreek       City   Council         Meeting        Minutes                                      13 July      2020      Page 10 of 10
+
+
+
+   Mayor       Silvestrini     said the Utah           Food Bank        food distribution        would      take place the following
+   Saturday      but there would              not be one on July 25fll.
+
+
+8. Closed      Session       (If Needed)
+
+
+Council      Member          Jackson          moved    to go into       closed     session    as provided       by Utah     Code    Ann.
+§52-4-205       (a) discussion          of the character,             professional      competence,         or physical     or mental
+health      of an individual           at 8:06 p.m.       Council        Member        Marchant       seconded.        The Recorder
+called    for the vote.       All     Councn      Members         voted         yes. The motion      passed      unanimously.
+
+
+Council       Member         Jackson          moved    to go back        into    the open meeting           at 8:47 p.m.    Council
+Member        Catten     seconded.            Mayor     Silvestrini       called     for the vote.    All    Council      Members
+voted     yes. The motion             passed     unanimously.
+
+
+
+ADJOURNED:               Council         Member        Uipi     moved      to adjourn        the meeting       at 8:48 p.m.     Council
+Member        Jackson        seconded.         Mayor     Silvestrini        called    for    the vote. All     Council     Members
+voted     yes. The motion             passed     unanimously.
+
+
+
+                               APPROVED:
+                                                                                                            OATS              2-"'7,BTh
+
+                                    Attest:            !sL                         City Recorder
+

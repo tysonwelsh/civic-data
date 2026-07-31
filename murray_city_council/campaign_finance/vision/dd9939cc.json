@@ -1,0 +1,50 @@
+{
+  "contributions": [
+    {"date": "06/07/2023", "name": "Janice Strobell – personal", "amount": "500.00", "in_kind": false},
+    {"date": "07/20/2023", "name": "Natalie Gochnour", "amount": "125.00", "in_kind": false},
+    {"date": "08/09/2023", "name": "Susan Roylance", "amount": "100.00", "in_kind": false},
+    {"date": "08/09/2023", "name": "Alf Quist", "amount": "170.00", "in_kind": false},
+    {"date": "08/10/2023", "name": "Janice Strobell – personal", "amount": "2,200.00", "in_kind": false},
+    {"date": "08/09/2023", "name": "Anonymous", "amount": "50.00", "in_kind": false},
+    {"date": "07/03/2023", "name": "Anonymous", "amount": "10.00", "in_kind": false},
+    {"date": "07/10/2023", "name": "EMS Designs", "amount": "180.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "06/07/2023", "recipient": "Murray Recorder", "purpose": "Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "06/20/2023", "recipient": "DRI Signs", "purpose": "Yard sign sample for color", "amount": "8.84", "in_kind": false},
+    {"date": "06/21/2023", "recipient": "FedEx Office", "purpose": "Campaign posters", "amount": "62.86", "in_kind": false},
+    {"date": "07/03/2023", "recipient": "Winco Foods", "purpose": "Parade supplies", "amount": "27.03", "in_kind": false},
+    {"date": "07/03/2023", "recipient": "Winco Foods", "purpose": "Parade candy", "amount": "125.29", "in_kind": false},
+    {"date": "06/27/2023", "recipient": "HobbyLobby", "purpose": "Parade/campaign supplies", "amount": "21.99", "in_kind": false},
+    {"date": "06/28/2023", "recipient": "WalMart", "purpose": "Parade/campaign supplies", "amount": "24.39", "in_kind": false},
+    {"date": "06/28/2023", "recipient": "Vision Graphics", "purpose": "Yard Signs", "amount": "342.50", "in_kind": false},
+    {"date": "07/01/2023", "recipient": "Hobby Lobby", "purpose": "Parade/campaign supplies", "amount": "125.44", "in_kind": false},
+    {"date": "07/03/2023", "recipient": "Hobby Lobby", "purpose": "Parade/campaign supplies", "amount": "73.29", "in_kind": false},
+    {"date": "07/18/2023", "recipient": "SL County Elections", "purpose": "Voter Registration List", "amount": "15.00", "in_kind": false},
+    {"date": "07/20/2023", "recipient": "Minuteman Press", "purpose": "Door Hangers", "amount": "93.84", "in_kind": false},
+    {"date": "08/03/2023", "recipient": "Vision Graphics", "purpose": "Yard Signs", "amount": "335.78", "in_kind": false},
+    {"date": "08/03/2023", "recipient": "Minuteman Press", "purpose": "Door Hangers", "amount": "378.59", "in_kind": false},
+    {"date": "06/21/2023", "recipient": "Salt Lake Surveyors", "purpose": "District 3 Map", "amount": "21.95", "in_kind": false},
+    {"date": "08/18/2023", "recipient": "Costco", "purpose": "Campaign supplies", "amount": "35.71", "in_kind": false},
+    {"date": "06/23/2023", "recipient": "Murray Journal", "purpose": "July Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "07/20/2023", "recipient": "Murray Journal", "purpose": "August Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "08/24/2023", "recipient": "Murray Journal – online", "purpose": "September Murray Journal Ad", "amount": "200.00", "in_kind": false},
+    {"date": "08/28/2023", "recipient": "Costco", "purpose": "Printer Cartridge", "amount": "90.25", "in_kind": false},
+    {"date": "08/25/2023", "recipient": "SL County Elections", "purpose": "Voted List", "amount": "15.00", "in_kind": false},
+    {"date": "08/24/2023", "recipient": "Point Blank Political", "purpose": "Political Text Messaging", "amount": "275.00", "in_kind": false}
+  ],
+  "total_contributions": "3,155.00",
+  "total_expenditures": "3,087.75",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "67.25",
+  "_meta": {
+    "index_path": "raw/202308_Janice-Strobell_14466.pdf",
+    "candidate": "Janice Strobell",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202308_Janice-Strobell_14466.pdf",
+    "pages": 8
+  }
+}

@@ -1,0 +1,1252 @@
+# City Council Regular Meeting
+> Body: City Council
+> Meeting date: 2020-12-01
+> Source: https://www.midvale.utah.gov/Document%20Center/Agendas%20&%20Minutes/Recorders%20Office/2020/Minutes/CC%20Minutes%201212020.pdf?t=202309190902020
+> Source vendor: revize
+> Raw file: raw/2020-12-01_city-council-regular-meeting.pdf
+> Format: ocr
+> Retrieved: 2026-07-12
+
+---
+
+ON: 7505 South Holden Street
+ae Midvale, UT 84047
+‘ (801) 567-7200
+ae www. midvalecity.org
+[ MIDVALE CITY COUNCIL MEETING
+AGENDA
+January 21, 2020
+PUBLIC NOTICE IS HEREBY GIVEN that the Midvale City Council will hold a regular meeting on
+the 218 day of January 2020 at Midvale City Hall, 7505 South Holden Street, Midvale, Utah as
+follows:
+5:30 PM — Dinner, Dahl Conference Room
+6:00 PM — Dahl Conference Room
+WORKSHOP
+A. Discussion on Midvalley Improvement District Development Proposal at 160 E 7800 S
+Lesley Burns, City Planner]
+B. Discuss Form Based Code Alex Murphy Planner II]
+7:00 PM
+REGULAR MEETING - Council Chambers
+I. GENERAL BUSINESS
+A. WELCOME AND PLEDGE OF ALLEGIANCE
+B. ROLL CALL
+C. Unified Police and Fire Reports
+D. Utah Tax Help Presentation — Greg McDonald
+ll. PUBLIC COMMENTS
+Any person wishing to comment on any item not otherwise scheduled for public hearing on the Agenda
+may address the City Council at this point by stepping to the microphone and giving his or her name
+for the record.
+forthe record. Comment shouldbe Citizen groups will be asked to appoint a spokesperson. This is
+the time and place for any person who wishes to comment on non-hearing, non-Agenda items. Items
+brought forward to the attention of the City Council will be turned over to staff to provide a response
+outside of the City Council meeting.
+ill. COUNCIL REPORTS
+A. Councilmember Bryant Brown
+B. Councilmember Dustin Gettel
+C. Councilmember Quinn Sperry
+D. Councilmember Heidi Robinson
+E. Councilmember Paul Glover
+IV. MAYOR ROBERT M. HALE REPORT
+V. CITY MANAGER REPORT
+
+City Council Meeting
+January 21, 2020
+Page 2
+Vi. DEPARTMENT REPORTS
+A. Community Development Report/RDA Report [Matt Dahl, Assistant City
+Manager/CD Director]
+B. Admin Services Report [Kyle Maurer, Admin Services Director]
+Vil. CONSENT AGENDA
+A. Consider Minutes of January 7, 2020 [Rori Andreason, H.R. Director/City
+Recorder]
+B. Set Date and Time (February 4, 2020 at 7:00 p.m.) for a public hearing to Consider an
+Amendment to the Midvale City Fee Schedule
+Vill. ACTION ITEMS
+A. Consider Resolution No. 2020-R-05 Approving the 2020 Committee/Board
+Assignments [Kane Loader, City Manager]
+B. Consider Resolution No. 2020-R-06 A Resolution to Support the Ratification by the
+State of Utah of Equal Rights Amendment to the United States Constitution [Kane
+Loader, City Manager]
+C. Consider Ordinance No. 2020-O-01 Approving the Amended Midvale Municipal Code i
+Regarding Administrative Appeals to District Court Process [Lisa Garner, City
+Attorney]
+IX. DISCUSSION ITEMS
+A. Mid-Year Budget Review [Kyle Maurer, Admin Services Director]
+B. Discuss Entering into a Contract with Meter Works Replacing Warranty Meters [Glen
+Kennedy, Public Works Director]
+C. Discussion on Construction Fee and Curb Cut Policy Modifications [Matt Dahl,
+Assistant City Manager/CD Director]
+Xl. ADJOURN
+In accordance with the Americans with Disabilities Act, Midvale City will make reasonable accommodations
+for participation in the meeting. Request assistance by contacting the City Recorder at 801-567-7207, providing
+at least three working day notice of the meeting. TTY 711
+A copy of the foregoing agenda was provided to the news media by email and/or fax. The agenda was also
+posted at the following locations on the date and time as posted above: City Hall Lobby, on the City’s website
+at www.midvalecity.org and the State Public Notice Website at http://pmn.utah.gov. Council Members may
+participate in the meeting via electronic communications. Council Members’ participation via electronic
+communication will be broadcast and amplified so other Council Members and all other persons present in the
+Council Chambers will be able to hear or see the communication.
+PLEASE MAKE SURE ALL CELL PHONES ARE TURNED OFF DURING THE MEETING
+
+ON: COUNCIL MEETING
+1 NOL Minutes
+E —_ y Tuesday January 21, 2020
+Council Chambers
+7505 South Holden Street
+Midvale, Utah 84047
+MAYOR: Mayor Robert M. Hale
+COUNCIL MEMBERS: — Council Member Bryant Brown
+Council Member Dustin Gettel
+Council Member Quinn Sperry
+Council Member Heidi Robinson
+Council Member Paul Glover
+STAFF: Kane Loader, City Manager; Matt Dahl, Asst. City Manager; Rori
+Andreason, HR Director/City Recorder; Lisa Garner, City Attorney; Glen
+Kennedy, PW Director; Kyle Maurer, Administrative Services Director;
+Laura Magness, Communications Director; Lesley Burns, City Planner; Alex
+Murphy, Planner II, Christopher Butte, Economic Development Director;
+Chief Randy Thomas, UPD; Chief Brad Larson, UFA; and Jake Shepherd,
+Network Administrator.
+The pre-meeting workshop began at 5:30 p.m. — Dinner, Dahl Conference Room
+Workshop at 6:00 pm — Dahl Conference Room
+A. Discussion on Midvalley Improvement District Development Proposal at 160
+E 7800S
+Lesley Burns said Midvalley Improvement District is wanting to make improvements to its
+office/operation facilities property at 160 E 7800 S. A few of these improvements are in
+conflict with the development standards for the Transit Oriented Development (TOD)
+Zone in which its facility is located. Specifically, conflicts include: (1) a request to relocate
+and expand a carport structure closer to the east property line, infringing on the required
+15-foot landscape buffer adjacent to single family residential zones; and (2) expanding
+the width of a one-way driveway access to 40 feet; the maximum allowed is 20 feet. In
+the attached project description, Midvalley explains the reasons for these changes which
+would ease some of the access and circulation challenges they currently encounter in
+their daily operations.
+To address these issues, Midvalley is requesting the City consider the following:
+e Amend the Public Facilities Overlay Zone to include “Special Service Districts for
+| Utilities”. Currently, the ordinance does not define special service districts as a
+public facility that can utilize the legislative discretion for use and land use
+regulations afforded to other public facilities.
+1
+
+Proceedings of City Council Meeting .
+January 21, 2020
+
+e Rezone the Midvalley Improvement District property at 160 E 7800, which includes
+1.5 acres adjacent to the Jordan and Salt Lake City Canal, to include the Public
+Facilities Overlay Zone.
+
+e Approve a Site Plan that redesigns the access and circulation through the site and
+reduces landscape area to standards different from what is required by the
+underlying TOD Zone.
+
+Impacts to consider with this proposal include:
+
+e Reducing the landscape buffer between a use with large vehicle traffic and
+commercial/industrial type impacts and single family residential.
+
+e Further reducing the pedestrian realm along 7800 South by creating larger areas
+of conflict between vehicles and pedestrians with wider driveways.
+
+Staff and the Council discussed this issue. Staff was instructed to proceed with the
+process.
+
+Council Member Dustin Gettel asked if the District could provide a pedestrian study as
+well as a traffic study and how it will impact pedestrians.
+
+Council Member Bryant Brown said he would like a list of all the properties this would
+impact.
+
+B. Discuss Form Based Code
+
+Alex Murphy said discussed the language affecting nonconformities in the Main Street
+Form-Based Code and compared it to the nonconformity language currently in the zoning
+ordinance.
+
+“Nonconformities” are lots, uses, or structures that do not meet the current zoning
+ordinance requirements. The 2016 Utah Land Use Regulation Deskbook published by the
+Utah Land Use Institute dedicates an entire section (Section 2.9) to Nonconforming Uses
+and Noncomplying Structures; that section and the corresponding language in state law
+has been attached to this memo.
+
+The current zoning ordinance treats nonconformities generally as follows:
+
+e Nonconforming lot: considered legally buildable lots, but only for uses that are
+legal/permitted on the date an application is submitted (17-2-14 “N” Definitions).
+Boundaries may be adjusted through lot line adjustment or subdivision, provided
+resulting lots comply with current requirements (16.04 General Provisions [for
+Subdivisions]).
+
+e Nonconforming structure: allowed to remain and may be occupied by a use that j
+conforms with the associated zone (including pre-existing/nonconforming uses).
+Shall not be extended in any way onto the same or adjoining property. May be
+
+2
+
+Proceedings of City Council Meeting
+
+January 21, 2020
+replaced within one year in the event casualty provided it is not abandoned (17-2-
+j 14 “N” Definitions).
+
+e Nonconforming use: allowed to remain and may expand to occupy the entire
+existing building it is located within. Shall not be extended in any way onto the
+same or adjoining property. Once abandoned, may only be replaced with a
+conforming use (17-2-14 “N” Definitions).
+
+e Abandoned: nonuse for a period of one year after nonconforming designation is
+applied (17-2-14 “N” Definitions).
+
+The proposed form-based code treats nonconformities similarly, but clarifies or expands
+their treatment in the following ways:
+
+e Nonconforming lot: not listed; no minimum lot requirements apply, so no lots will
+be considered nonconforming. The creation of new lots will still be required to go
+through the subdivision process.
+
+e Nonconforming structure: may be altered if the alteration is routine repair or
+maintenance, eliminates a nonconformity, does not expand an existing
+nonconformity, creates a new nonconformity, or increases the amount of
+nonconformity. Nonconforming structures may be expanded on the same lot,
+provided the expansion is conforming or increases the overall conformity of the
+property. Nonconforming structures shall not be expanded onto an adjacent lot.
+
+e Nonconforming uses: shall not be expanded onto an adjacent lot. May be
+expanded within an existing lot, following the requirements for nonconforming
+structures.
+
+These proposed changes to nonconformity regulations for the Main Street Form-Based
+
+Code area are intended to balance the needs of existing business and property owners
+
+with the long-range planning efforts pursued by the City in the 2016 General Plan and
+
+2018 Main Street Small Area Plan.
+
+Council Member Paul Glover asked about the fire station and whether it could be used
+
+for another fire station.
+
+Alex Murphy said an existing building can stay in place as long as the use complies to the
+
+form-based code. He said the form-based code is much friendlier for non-conforming uses
+
+than in the rest of the City. He discussed adding an option to allow a non-conforming use
+
+to expand as long as the expansion complies with the form-based code.
+
+Council Member Bryant Brown said he would like to include the west side of Holden down
+to the Trax as well in the form-based code.
+
+3
+
+Proceedings of City Council Meeting
+January 21, 2020
+Council Members Paul Glover and Quinn Sperry said they wanted to stay with the
+identified area until they see how it works. Council Member Dustin Gettel and Council
+Member Heidi Robinson agreed.
+Mayor Robert Hale called the business meeting to order at 7:02 p.m.
+I. GENERAL BUSINESS
+
+A. WELCOME AND PLEDGE OF ALLEGIANCE
+
+B. ROLL CALL - Council Members Heidi Robinson, Dustin Gettel, Bryant
+Brown, Quinn Sperry, and Paul Glover were present at roll call.
+
+C. UNIFIED POLICE & UNIFIED FIRE DEPARTMENT REPORTS
+Chief Randy Thomas reported that Unified Police assisted with the Sandy Chief of Police
+O’Neal’s funeral services. He reported on a warrant served on a nuisance house. It went
+well with no injuries. He discussed other warrants that were also served. He read an email
+from a mother and a daughter involved in a crash on a stormy night. The email thanked
+Officer Showerhamer for helping a girl who totaled her car the night she received her
+driver’s license. She was devastated and he made her feel better stating there were other
+more experienced drivers that also crashed that evening. Officer Showerhammer is the
+recipient of the December Officer of the Month.
+Chief Brad Larson reviewed a UFA report that shows the crew’s response times, types of
+calls, etc. }
+
+D. Utah Tax Help
+Gary McDonald, Utah Tax Help, said Utah Tax Help runs the VITA Program. VITA is
+Volunteer Income Tax Assistance. It is a coalition in Utah that completes 20,000 free
+returns. He has been asked to move into the Midvale area. The goal is to service and
+do free tax returns. Earned Income Tax Credit has been around since 1975. The intent
+is to get people excited about Earned Income Tax Credits. They will have a EITC-National
+Awareness Day. It will be the last Friday in January; Lt. Governor Cox will speak, and it
+will be held at the Sorensen Center. He has been involved in this program for 15 years.
+The VITA program wants to bring awareness and education of filing taxes and claiming
+Earned Income Tax Credit.
+The Council approved this service being provided at City Hall. The proposed services will
+be held 6:00 p.m. to 9:00 p.m. on Mondays and Wednesdays starting in February and
+ending in April.
+il. PUBLIC COMMENTS
+David Bird, Manager at Tyler Library, said they provide free lunch to every child under the
+age 18 every day from 3:30 to 4:30. He would like to let everyone know about this. They
+also have free online tutoring for kindergarten all the way through college. They have
+incredible resources for small businesses they would like to share as well.
+Hl. COUNCIL REPORTS
+
+4
+
+Proceedings of City Council Meeting
+January 21, 2020
+
+A. Council Member Bryant Brown — thanked Public Works for helping the
+Arts Council with the lights that were out. The referendum has enough signatures to be
+on the ballot. He thanked the citizens who participated.
+. B. Council Member Dustin Gettel — asked that the information on the social
+media pages and city website be updated. Wikipedia page for Midvale also needs to be
+updated. He said he’s had some really great responses regarding the amended winter
+parking ordinance. Citizens now know what the policy is. He thanked everyone for their
+hard work on the ordinance amendment. There have been some issues with the live
+streaming capabilities. He would like a plan in place by the budget retreat as to how that
+can be fixed. There have been audio and other deficiencies as well.
+
+C. Council Member Quinn Sperry — said there are still a lot of people parking
+on the street. He suggested reminding everyone of the new ordinance.
+
+D. Council Member Heidi Robinson — thanked Public Works for their quick
+response on the water break as well as social media for the updates.
+
+E. Council Member Paul Glover — said he would be out of state on February
+4'" and asked to be excused from council meeting.
+IV. MAYOR REPORT
+Mayor Robert Hale — discussed the census and the need for 2000 more people within
+the County to go work for them to gather information. He encouraged everyone to assist
+with the census. He discussed the need for assistance in counting the homeless January
+22, 23, and 24. Point in Time Count training will be provided on January 22" at 6:00 p.m.
+to 7:00, p.m., located at 570 South 500 West.
+V. CITY MANAGER REPORT
+Kane Loader said the new chair of the VECC Governing Board is UFA Chief Peterson.
+They discussed the start of the legislature as well as the Local Officials Day on January
+29th,
+Vi. DEPARTMENT REPORTS
+
+A. COMMUNITY DEVELOPMENT REPORT / RDA REPORT
+Matt Dahl reported that permits and business licensing were down due to the holidays.
+The Planning Commission have two members that are not interested in serving after their
+term is up. Emails have been sent out notifying individuals of the vacancies.
+Council Member Dustin Gettel asked if the alternate members assume they will
+automatically go into the role of Planning Commissioner?
+Matt Dahl said everyone will be treated fairly.
+Council Member Dustin Gettel asked if the council could advise and consent on the new
+members?
+
+5
+
+Proceedings of City Council Meeting
+January 21, 2020
+Council Member Paul Glover said for as long as he has been here, the Council has not.
+Matt Dahl said he will look at the rules, and let the council know. 1
+Matt Dahl extended his thanks to Public Works and front-line staff regarding the main line
+water break. He said Midvale City approved the Housing Plan in December. Workforce
+Services will be doing a critique of all the plans submitted. Workforce Services want to
+make sure that there are resources behind the policies that are established. The critique
+will be coming through in the spring. He asked the Council to watch for information posted
+on social media sites that needs to addressed by the City.
+B. ADMIN SERVICES REPORT
+Kyle Maurer reported on the following:
+Justice Court - December 2019 Cases Filed
+* Traffic — 777
+* Criminal — 72
+* Small Claims — 44
+TOTAL CASES FILED — 893 (13% Increase from November 2019)
+Cases Disposed
+* Traffic — 747
+* Criminal — 70
+* Small Claims — 23
+TOTAL CASES DISPOSED -— 840 (25% Increase from November 2019)
+Utility Billing/Customer Service/AP — December 2019
+Utility Billing
+* Number of Accounts Billed — 8,082
+* Number of Xpress Bill Pay Users — 4,194
+* Number of ACH Preauthorized Payment Accounts — 405
+* Continued Setup of JVWCD Customers
+Utility Billing/Customer Service
+* Number of Cash Receipts Processed — 2,404
+* Number of Xpress Bill Pay Receipts Processed — 5,414
+Accounts Payable — Number of Checks Created — 184
+Accounting/IT — December 2019
+Accounting
+* Completion of fiscal year 2019 audit and financial statements.
+* New City Council budget versus actual report.
+* Review of existing financial policies.
+6
+
+Proceedings of City Council Meeting
+January 21, 2020
+Information Technology
+* IT help desk tickets - 79
+. * Continued updates to phone system infrastructure.
+Vil. CONSENT AGENDA
+A. CONSIDER MINUTES OF JANUARY 7, 2019
+B. SET DATE AND TIME [FEBRUARY 4, 2020 AT 7:00 P.M.] FOR A PUBLIC
+HEARING TO CONSIDER AN AMENDMENT TO THE MIDVALE CITY
+FEE SCHEDULE
+MOTION: Council Member Paul Glover MOVED to approve the consent agenda.
+The motion was SECONDED by Council Member Bryant Brown. Mayor
+Hale called for discussion on the motion. There being none, he called
+for roll call vote. The voting was as follows:
+Council Member Quinn Sperry Aye
+Council Member Paul Glover Aye
+Council Member Heidi Robinson Aye
+Council Member Bryant Brown Aye
+Council Member Dustin Gettel Aye
+The motion passed unanimously.
+Vill. ACTION ITEMS
+A. CONSIDER RESOLUTION NO. 2020-R-05 APPROVING COMMITTEE/
+BOARD ASSIGNMENTS
+Kane Loader said Midvale City is a member entity to several interlocal and governmental
+organizations. Each year the Mayor and City Council deliberate and consider individuals
+that they feel would best represent the City on the various governing boards and
+committees for those organizations.
+A resolution has been prepared along with a listing of the organizations and the respective
+assignments for the Council’s approval.
+Council Member Dustin Gettel said it was a difficult decision to leave the Community
+Council, but he felt it would be good for Council Member Heidi Robinson to serve on that
+committee. He said he would still attend the Community Council meetings.
+MOTION: Council Member Bryant Brown MOVED to approve Resolution
+No.2020-R-05 A Resolution Approving the Mayor and City Council’s
+Board and Committee Assignments. The motion was SECONDED by
+Council Member Quinn Sperry. Mayor Hale called for discussion on
+the motion. There being none, he called for roll call vote. The voting
+was as follows:
+Council Member Quinn Sperry Aye
+Council Member Paul Glover Aye
+| Council Member Heidi Robinson Aye
+Council Member Bryant Brown Aye
+7
+
+Proceedings of City Council Meeting
+January 21, 2020
+Council Member Dustin Gettel Aye
+The motion passed unanimously.
+B. CONSIDER RESOLUTION NO. 2020-R-06 A RESOLUTION TO
+SUPPORT THE RATIFICATION BY THE STATE OF UTAH OF EQUAL
+RIGHTS AMENDMENT TO THE UNITED STATES CONSTITUTION
+Council Member Dustin Gettel said The E.R.A. was first proposed in 1923, though
+Congress did not pass it until 1972. To approve the amendment, ratification was needed
+in 38 states by 1979; the deadline was later extended to 1982. By then, though, only 35
+states had done so. For years, and especially during the 1970s, the issue was a matter
+of intense national debate, the topic of legislative fights and political campaigns. But it
+faded some as the deadline passed and the national conversation seemed to move on.
+The E.R.A. promised equal rights to women, and was aimed at improving pay equity for
+them, strengthening domestic violence and sexual harassment protections, and blocking
+discrimination against pregnant people and mothers. The bill reads, in part: “Equality of
+rights under the law shall not be denied or abridged by the United States or by any State
+on account of sex.” Last week the State of Virginia became the 38th state to ratify the
+E.R.A. and now the debate will begin to decide if or how the deadline will be extended.
+MOTION: Council Member Heidi Robinson MOVED to Adopt Resolution No.
+2020-R-06 A Resolution by the Midvale City Council in Support of
+Ratification by the State of Utah of the Equal Rights Amendment to the
+United States Constitution. The motion was SECONDED by Council :
+Member Dustin Gettel. Mayor Hale called for discussion on the
+motion. There being none, he called for roll call vote. The voting was
+as follows:
+Council Member Quinn Sperry Aye
+Council Member Paul Glover Aye
+Council Member Heidi Robinson Aye
+Council Member Bryant Brown Aye
+Council Member Dustin Gettel Aye
+The motion passed unanimously.
+C. CONSIDER ORDINANCE NO. 2020-0-01 APPROVING THE AMENDED
+MIDVALE MUNICIPAL CODE REGARDING ADMINISTRATIVE
+APPEALS TO DISTRICT COURT PROCESS
+Lisa Garner said as discussed in the City Council on January 7, the City currently has
+three different administrative appeals processes that lead to district court. Business
+Licensing, Code Enforcement, and Planning and Zoning each has a unique appeal
+process that can produce very different results for the City and its residents.
+The proposed amendments to Chapters 5.04, 7.01, 7.02, 7.03, and Section 17-3-14 of
+the Midvale Municipal Code seek to simplify these processes and standardize the appeal
+process for Business Licensing, Code Enforcement, and Planning and Zoning. Because
+Planning and Zoning is required to follow certain state requirements under Utah’s
+Municipal Land Use, Development, and Management Act (Utah Code Ann. Title 10,
+8
+
+Proceedings of City Council Meeting
+January 21, 2020
+Chapter 9a), these requirements were used as the benchmark to standardize the three
+[ appeal processes.
+Staff proposes standardizing all three administrative appeals processes to share the
+following procedures:
+e Appeals of City actions/decisions are limited to 10 calendar days from the date of
+the City action/decision;
+e Appeals require substantially similar information and are submitted to the
+Community and Economic Development Director;
+e The City’s Hearing Officer must provide a written decision within 30 days of a
+hearing;
+e Appeals to district court must be made within 30 days of the Hearing Officer's
+decision;
+e The Hearing Officer's decision remains in effect pending a district court appeal
+unless the district court issues a stay; and
+e The district court may only review the City’s record to determine whether the
+f Hearing Officer’s decision is arbitrary and capricious.
+Standardizing the administrative appeal process will provide more equitable treatment
+and outcomes regardless if an individual is appealing a business license, code
+enforcement, or planning and zoning issue. Additionally, the standardization of these
+three processes will simplify the appeal process for City staff and improve enforcement.
+MOTION: Council Member Dustin Gettel MOVED to approve Ordinance No. 2020-
+O-01 to Amend the Midvale Municipal Code Chapters 5.04, 7.01, 7.02,
+7.03, and section 17-3-14 to Standardize the City’s Administrative
+Appeals Processes. The motion was SECONDED by Council Member
+Quinn Sperry. Mayor Hale called for discussion on the motion. There
+being none, he called for roll call vote. The voting was as follows:
+Council Member Quinn Sperry Aye
+Council Member Paul Glover Aye
+Council Member Heidi Robinson Aye
+Council Member Bryant Brown Aye
+Council Member Dustin Gettel Aye
+The motion passed unanimous.
+IX. DISCUSSION ITEM
+A. MID-YEAR BUDGET REVIEW
+Kyle Maurer said he prepared a December 2019 Financials At-a-Glance which included
+a budget versus actual report through December 2019.
+9
+
+Proceedings of City Council Meeting
+January 21, 2020
+50% of the fiscal year has elapsed
+General Fund — This is the City’s main operating fund and accounts for all resources of ]
+the City, except those required to be accounted for in a different fund (Such as water and
+sewer). The City has received the bulk of its property tax revenue for the year. Salt Lake
+County will provide a final disbursement and reconciliation of 2019 taxes in March. Sales
+tax revenue is 8% above the prior fiscal year year-to-date. Overall revenues and
+expenditures are within budgeted allotments. However, there are a few General Fund
+revenue items, such as Building Permits and Fines & Forfeitures, that are currently under
+budgeted expectations. Staff will continue to monitor.
+RDA Funds — The City’s active RDA project areas received a tax increment disbursement
+from Salt Lake County in December. A final disbursement and reconciliation will occur in
+March.
+Capital Project Funds — The City has received approximately $244,000 in transportation
+infrastructure funds from the 4th quarter sales tax passed by Salt Lake County in 2018.
+Utility Funds — All utility (water, sewer, storm water, street lighting, and sanitation) funds
+are within budgeted revenue and expenditure allotments. Water sales are 7% above
+budgeted expectations.
+Check registers from August 2019 through September 2019 were also included. Going
+forward, these will be sent to the Council monthly with a budget versus actual report. :
+Midvale City December 2019 Financials At-a-Glance
+50% of the Fiscal Year Has Elapsed
+General Fund
+The bulk of property tax revenue was received in November and December. Sales tax
+revenue is 8% above fiscal year 2019 year-to-date (the FY2020 budget expected a 3%
+increase). Building permits are 19% below fiscal year 2019 year-to-date and
+approximately 9% below budgeted expectations. Staff will continue to monitor through
+the rest of this year. Fines & Forfeitures are 3% below last December year-to-date and
+4% below budgeted expectations.
+RDA Funds
+The City received an initial property tax distribution from the County in December, with
+the final distribution occurring in March.
+Capital Projects Fund
+The City has received approximately $244,000 in transportation infrastructure funds from
+the 4'" quarter sales tax. These funds are restricted for transportation projects.
+Water Fund |
+Water user charges are 7% above expectations. Remainder of expenditures are within
+budgeted expectations.
+
+10
+
+Proceedings of City Council Meeting
+January 21, 2020
+1] B. DISCUSS ENTERING INTO A CONTRACT WITH METER WORKS
+REPLACING WARRANTY METERS
+
+Glen Kennedy said currently there are approximately 900 meters that are failing 12 years
+
+into a 20-year prorated warranty. The meters are being identified as those with serial
+
+numbers beginning with 182 or 183. There are currently 3,628 meters (including the 900
+
+currently not working) installed in the City with those serial numbers. The manufacturer
+
+(Neptune) and the supplier (Meterworks), have negotiated and proposed that the City
+
+have the ability to purchase new meters at the 12-year prorated warranty cost, minus the
+
+cost to have Meterworks install. The City will be getting installation included, on top of the
+warranty. Neptune has also committed that regardless of if/when the remaining 182s and
+183s fail, they will honor the prorated warranty as if they failed at the 12-year mark through
+
+August of 2021. The replacement meters will be an updated version that includes data
+
+logging capabilities to match the rest of the meters installed in our system, even though
+
+the 182s and 183s do not have this capability - we would be getting an upgraded product.
+
+After reviewing the proposal internally with the Water Manager, Utility Billing, Finance and
+
+the Assistant City Manager, it is agreed that this a suitable resolution to the issue.
+
+Proposed plan
+
+e Start with the replacement of 900 meters that have already failed as soon as an
+agreement has been drafted, approved and signed. (Funding currently available
+
+L and already allocated from the meter switch out program/account).
+
+° Replace 1364 meters each year over the next two fiscal years (would need to ask
+for approximately an additional $60,000 each year for the meter switch program —
+total $200,000 annually for the program/account for the next two years).
+
+. Per meter cost to replace and install - $138.50 (Cost would be $287 without
+prorated warranty)
+
+Year 1 (900 Meters) Year 2 (1364 Meters) Year 3 (1364 Meters)
+$124,650.00 $188,914.00 $188,914.00
+
+The Council agreed to place this item on the consent agenda for approval at the next
+
+meeting.
+
+C. DISCUSSION ON CONSTRUCTION FEE AND CURB CUT POLICY
+MODIFICATIONS
+Matt Dahl said in an effort to improve or update policies related to construction in Midvale,
+staff has developed several proposals for consideration by the City Council. The policy
+proposals generally improve transparency, update fees to reflect actual costs, or
+memorialize current practices. The following are summaries of the proposed policies:
+j e Building Fee Schedule: Midvale’s current municipal fee schedule states “Contact
+Building Official” rather than containing a table enumerating the current building
+11
+
+Proceedings of City Council Meeting
+January 21, 2020
+
+permit fees. As it is common for a city’s building fee schedule to be added into the
+
+general fee schedule, staff recommends following that practice. |
+Keith Ludwig reviewed the curb cut fees and the reasons for the increases.
+
+e Curb Cut Fees: The city engineer has determined that the current curb cut fee of
+$100 is insufficient to cover the hours of labor required to process and execute the
+permits. Staff often spends 5-6 hours on a standard project and may spend much
+more if complications arise. The fee has not been raised in over 20 years and is
+significantly lower than what neighboring cities charge. Staff recommends a new
+base fee of $250 plus $0.25-.50 per square feet depending on project type.
+
+e Bond Amount: Section 12.12.130 currently requires $1,000 as the bond amount
+for curb cut permits. Staff recommends increasing this amount to $5,000 to reflect
+cost increases that have occurred since the current bond amount was established.
+Additionally, it is anticipated that this will help with encouraging projects to be
+completed within the requisite timeframe and minimize disruption with in the cities
+right-of-way.
+
+e Curb Cut Approvals: Chapter 12.12 of the city code currently specifies the public
+works director as the party responsible for approving road cut permits. However,
+for the last several years, this process has been overseen by the city engineer.
+Staff recommends replacing all references to the public works director with city
+engineer.
+
+Building Permit Fee Schedule
+e Current Format:
+
+Building Permit Fees
+
+Contact Building Offical
+Proposed Format Sample:
+
+Fee Chart (round up to next $1000)
+Valuation BP Fee PC Fee Electrical Mechanical Plumbing
+$ 1,000.00 | $ 47.00 §$ 30.55 $ 2.35 §$ 235 $ 235 $ 0.54
+$ 2,000.00; 5 69.00 §$ 44.85 $ 3.45 § 345 $ 345 $ 0.79
+$ 3,000.00 | $ 83.00 $ 53.95 $ 415 § 415 $ 415 $ 0.95
+$ 4,000.00|S 97.00 §$ 63.05 $ 485 § 485 $ 485 $ 1.12
+$ 5,000.00 | $ 111.00 $ 245 $ 555 6&§ 555 $ 5.55 § 1.28
+$ 6,000.00 | $ 125.00 $ 81.25 $ 625 § 6.25 $ 6.25 § 1.44
+$ 7,000.00 | $ 139.00 $ 90.35 $ 695 § 6.95 $ 695 § 1.60 |
+12
+
+Proceedings of City Council Meeting
+January 21, 2020
+Curb Cuts
+e Current Fee:
+o $100 under 400 sf or
+o $0.25/sf over 400 sf
+e Proposed Fee:
+o $250 base fee +
+o $0.50/sf for excavation in new road or newly rebuilt/overlaid <5 years
+o $0.25/sf for all other roads, concrete surfaces, or unpaved areas
+o $0.50/If of boring
+e Bond Amount:
+o Current Minimum: $1,000
+o Proposed Minimum: $5,000
+e Policy Change: Change Title 12 to indicate that excavations within the City ROW
+and related activities should be administered by the City Engineer instead of Public
+Works Director.
+Matt Dahl said there will be a public hearing at the next meeting to consider the proposed
+changes to the curb policy and fee schedule.
+X. ADJOURN
+MOTION: Council Member Paul Glover MOVED to adjourn the meeting. The
+motion was SECONDED by Council Member Quinn Sperry. Mayor Hale
+called for discussion on the motion. There being none, he called for a
+vote. The motion passed unanimously.
+The meeting adjourned at 8:58 p.m.
+\tY ST4>
+SX f CORPORATE YC
+Rori L. Andreason; MMC $ 3
+P
+H.R. DIRECTOR/CITY RECORDER +\ 2 Do
+4) wv
+j th fe) e
+Approved this 4'" day of February 2020. Rp ORATE KA
+13
+
+) SIE Midvale City Public Comment
+ON: Sign in Sheet
+= 4 Mmye
+AN pes ais
+Sea Tuesday, January 21, 2020
+PUBLIC COMMENTS
+Any person wishing to comment on any item not otherwise scheduled for public hearing on the
+Agenda may address the City Council at this point by stepping to the microphone and giving his
+or her name for the record. Comments should be limited to not more than three (3) minutes,
+unless additional time is authorized by the Governing Body. Citizen groups will be asked to
+appoint a spokesperson. This is the time and place for any person who wishes to comment on
+non-hearing, non-Agenda items. Items brought forward to the attention of the City Council will
+be turned over to staff to provide a response outside of the City Council meeting.
+NAME (PLEASE PRINT) ADDRESS
+ice “Ai 6 EAST AP um
+
+| Midvale City Council Meeting |
+j Sign in Sheet
+Tuesday, January 21, 2020 :
+
+|
+
+|
+ee ee |
+ee ee |
+es ee |
+ee |
+
+O
+
+<
+mo
+= Mm
+‘ O00
+Eae JzO
+5 3 <2
+g 8 AZ?
+3 7a
+z m~< 2
+Ne)
+
+“.
+
+—
+
+: vic
+eipe|i ol =
+9 3 5 fe)
+Ss ac ct 3
+— | | 0
+18%) a) o a
+~ ~ @ > ~ oO
+Of. >
+(e) o| 2! 6
+: a) | a ss
+ee Cc
+9 Y)
+we Zz
+—| wv N | w ae m1
+o> NY
+ro) Y)
+®
+—
+(a)
+T1
+° w o a S be 3 a Zz
+Y)
+Mm
+z >
+a “™U
+3 “U
+—
+. 0)
+3 >
+Fs 3! 4
+_ S O
+7 >
+= Zz
+o a (Ta)
+8 .
+8 fe) A
+7 Dn m
+Zz CX)
+. xz] @
+p Si<
+3 > m
+e UO
+i.
+a
+
+~~) DW
+~ Be, 8 a oe '
+= an! &| 3/313
+2 of| >| 0/3) 8
+* 7 i wio; &
+—~@| 3) 8) al"! .
+= gS) gs] x) 2 <-
+me a; ~| 8 ©
+Dio =
+©
+a:
+}e¥)
+vw} =
+4 us)
+0
+Oy ni 3 C
+Neo) N N u}l o]/2 W)
+Ni AIS 3 4)
+o
+® Zz
+iT1
+YN
+WY
+o un Co and B RR GS A
+. (@)
+i Mm
+a Zz
+.0 Fp)
+[TI
+Ca)
+o
+0 —
+® YN
+: 3 | oO
+: s | C
+Z T1
+(q?)
+5 g UO
+® @)
+’s >
+x ©
+nn
+a
+2 =
+3 a
+3
+g <
+ed K¢
+fe)
+=
+iw) =
+oO
+®
+5
+S
+"5
+
+0
+Cc
+WY)
+O =
+>| zw
+> 2 | 8 43
+> a ¥
+rm e 3
+eo > g|F) al [cr
+ec 3 4 < =
+“5 a) fe) o
+pm 5 2
+o > — 3
+48 = Zia Z
+eer 2s < A =
+af m a m
+é o : yo
+: C N 0 rm
+= S| -|als3| | z
+~ 3 = 3 Z
+9 | Z
+—|noa rm s
++» | OS o ys : <
+o|—- 3 UW)
+anes w 2 Tr
+° has N N/25 ~
+re)
+x 7 1 Q
+m a
+Z O
+al SN
+y Cc
+” v2]
+m1
+CN
+
+TNiggN/ NN) —| —| ©) Uw! —
+s ulo hi —| @;| Oo >
+° 5 K4 0|
+cif} 2) 2)» ® 5
+a >ini< = ee;
+wo =| nS) 2.) 5.) 2 | 6 rs) o
+A\|0 YW! =! 4’ | oa 31/5! m4
+mois 2) 3/%)/8/ Z| eo | gt a
+Cio ®/e@|M/ Osi als =
+=/¥9 2/3 /9)/)9)/ 3G —
+Ohno le)|s » — Ww
+O| aig =|3/$/8 ° =
+SD) el? |r| |* 2 [—
+r : 0
+or A
+s|3\|| <
+a >
+2 oO
+Oo} . rT
+cry rr,
+N ve >|/ S|} C
+Ca * =
+: S °| 2
+Nv SS —
+FfirFA FFF HF HH
+RBsnsRsans O
+ooooooe.e Zz
+oo oocee9$gchmUcSCUcOlUCO
+ssssseseososes
+*6SS8S8SSESESSES
+soogoosesees |
+SSsBsSBBssss SON RHO ON BRD
+>
+> fad TI
+3 al = o"
+E = 10
+n Z z
+3 Oo 8 g O
+: < 3 Z
+g QO 3% a)
+: gs 2 | 4
+2 a 4
+° c 9 = BW
+om
+"1 <° a)
+= -/2
+Z o <€ >.
+g Ss # a O
+3 3S ¢& Cy Z
+fl os §& se
+3 z ° =
+Oo 4 =
+s a 8 =
+8 > 8
+8 3
+if 4
+: 3
+
+= N >= N
+, Sei9o| Px) Fe
+3 = 33,1 0Z oD
+a. r-¥) » Oo
+= 35 |= Bee) >
+a a 4 Ss 4 >
+ee me me “3 oO
+OgiO0an Pu po
+5 ~~ '3 p | & 4 a WO
+W wn & > =e
+@ @ &.
+= 2 3 6 Cc
+. as) a3 —
+g ih 7
+> “ 3 w UO
+rr thee
+S = Z
+= ws G)
+>
+ra)
+S| 0 <
+5 |3 >
+a oe
+if “ # fe) ® a
+nd Lf ore) — = C
+o Ww N wn N >
+~ wn S 0 ©
+“up =| Sie a © 4
+™~ > So ro ON —
+= O
+yk BF ® S NN Zz
+> > ee > ee > es > >)
+> ee © >
+s Ss S$ Ss S$ § |
+e &§ 8 8 8 8 8
+oss S$ S S&S S&S § co os 8 8 & Ss
+ocmUCCcOWlmlCOUlCCOCOCOCODTSTSsSs—CSDSS—“‘i DD] >
+(> ee <> <> <>
+> Uw)
+[<4
+g 4 U
+pa [e) Re —|
+hs > O
+wn a 8 OQ.
+4 a 8 a Zz
+© Oo 3 ce,
+3 3 § fe) WY
+‘ > = =a <
+ca
+ae oO rr
+fe) & Oo 3 =|
+o QO ¢ e. rm
+ee = = [e)
+7 SS 5 v2)
+: _ g | >
+a. 3
+z (e) —- tet
+= 3 2 10
+fo) o 2 oO
+a <3 <
+z < | Z
+S Oo Ss fe) —Y
+5 |
+> >
+S S)
+a 3
+e o
+° s
+
+Bal os |
+&2n 3 »
+= -_ | Y _
+, ct
+| 6 pr 4
+= CO)
+5/2 | 88
+~ ct,
+Zie-1°
+0'16
+ais
+Ole
+[e)
+>is
+rm| a
+Pi Ww
+a] | ©] lp
+oO
+3 2
+we eat x | o —
+N a a
+ad]
+S SS) a], U
+@ > > a a
+love) U1 N <a
+AAA AH HHH <
+A — —- NY NY W W DBD
+GFousius aus >
+oooo oo coco o&
+(> i > en > ee > rn > 2 > 2 > Te, =}
+oe ©o oo oo © © o©o' ©
+coo oeoeoe 8 Tr
+SsSsSsSBSB8SSESES C
+2823222228 jcs8ssssaa >
+> 4 =_———
+
+09 a
+
+A o 4 | O
+
+3 SB * Ss | Z
+s, OT |
+
+Wn
+oO
+
+8 ac 3 ~ a
+
+: - f 210
+
+® 5.6 (CS 0
+
+: a = 2.
+
+3 oC Q a
+s =) >
+< vu
+
+° a oO © r
+
+5 c 8 =
+
+5. p> ¢ 3
+
+& a 8 a
+
+x e) = “n
+
+ee) 5 e on
+o <
+<
+
+ra Zz <
+
+6 Ss 9 fo)
+
+3 fe) oO i]
+
+3 => 2 =
+
+5 8 a
+
+rr ee)
+
+iw) 1w)
+
+8 8
+
+3 3
+
+g 8
+
+Z S
+
+W
+x ¢
+a St
+< 5 3
+Qo =.
+= oo.
+w. fe)
+3 ? = (@)
+=|
+= O
+& UO
+m
+nN N
+© On 2 m
+< “T!
+— n
+SSR) 38 O
+32S qa o Fad
+Sea g| E: ne
+~*~, © EE, re)
+s4¥455/_0p 2) © mi
+©ScoY%|F = 3 ° 3
+3cPMP 2/9 BE 2 “<
+O8BalzscRg © °
+SES ls oe 1 * m
+—~ oF —~ o © a N Z
+- o > a oR o
+nn = n
+333 =e 0 oan
+vn ov )
+255|) Ga l
+oa
+m
+=
+<| oe Z
+ele
+oo a
+52 BH C)
+re c W zZ
+fe¥)
+oa & oz } O
+a oe <
+a D ga a) ® <
+To {endtiad @ =
+c o> 5 ™U
+a. 3 5 § a ey
+Bal $8 z; 8 S
+ag| =» 7) >
+= i
+Fe) 88 =| | Z
+ca| 28 °
+3 | —
+oy al ~”
+= &
+=
+0
+
+t
+o]zz\oF| 3| ¥| #7) ¥/ 9
+sig 3/0 ¥. S <3 2
+Ai\o gas e. 2 2
+o9\<2 < a
+i oe Ww =
+Ww oOo = ~ s s
+=/8 8 g o| ©
+sims RB} o
+a” 0 - a)
+: O
+9 T1
+5 NO v1
+Rolo felejel (Ss) Z
+~ gs Ss!
+= |
+~ ne)
+)
+z C1)
+g 33/7
+Dp N
+w boa] w =§ =<
+ot} = rm
+a oO
+_ +i Z
+g| | gz] 9] #9 |
+ma} 3 a ® | 3 Fa)
+E| 3 c 5 m
+o >] S =
+& O) pa} oa ‘a
+|
+3 3 ° << “TI
+= me} I
+re) = 3 .
+< 77)
+= Z
+~ ———
+g =
+= a
+> >
+- —
+a m
+no| O
+nd BN Loa N =—3
+| © 2
+®
+-
+54
+oom w | w = 3
+Loa! 22
+®
+
+ci; 3 zie 20 ) =
+fa) 9 =- er oy o. a O
+ct 0a = s nw }
+ci © oa 8 o ~ 0a
+Pp = = ZS o © — UO
+° w 4 a U0 < m
+¢ = 2 + wn = o
+0) o 3 0 7) 3 m
+~” ~ a3 ~
+y-)
+9 (@)
+me) m
+w ja] 8 | 8 s\| =<
+22 m
+o
+® Zz
+—|
+> |
+fo) “TI
+N < O
+; aN — BN Ww nN — i)
+m es — oo ree —
+nal =
+° rT
+5 O
+2
+fe) le] Cc
+9 ra
+3 |e #. U
+v3 7m
+5 rm) y,)
+0a 7)
+r} s|| O
+o| © cK
+a r4
+= " O
+> 0
+—|
+w2|| 2
+Mm
+© 0
+ww) SN
+e|| Z
+an ire)
+<
+z m
+_ w 2 <
+w oo WO
+= 23 m
+® yo]

@@ -1,0 +1,83 @@
+{
+ "date": "2026-05-13",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Darrick Porter",
+  "Harold Woodruff",
+  "Martell Winters",
+  "Nancy Drozdek",
+  "Pauline Matagi",
+  "Rob Durfee"
+ ],
+ "source": "minutes/2026/2026-05-11/2026-05-13_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the application",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_category": "final",
+   "result": "0:0 Approved (Final Action)",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "Rob Durfee",
+   "seconder": "Harold Woodruff",
+   "names_recorded": true,
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Darrick Porter"
+   ],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the application",
+   "body": "PlanningCommission",
+   "motion_type": "Site Plan",
+   "action_category": "final",
+   "result": "6:0 Approved (Final Action)",
+   "result_source": "UNANIMOUS— SMI-2-2026—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Pauline Matagi",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 6,
+    "nays": 0,
+    "source": "UNANIMOUS— SMI-2-2026—APPROVED"
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the application subject to the resolution of the 12 items in the Staff Report",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "6:0 Approved (Final Action)",
+   "result_source": "Unanimous – C-4-2026 - Approved",
+   "outcome_word": "approved",
+   "mover": "Harold Woodruff",
+   "seconder": "Pauline Matagi",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 6,
+    "nays": 0,
+    "source": "Unanimous – C-4-2026 - Approved"
+   }
+  }
+ ]
+}

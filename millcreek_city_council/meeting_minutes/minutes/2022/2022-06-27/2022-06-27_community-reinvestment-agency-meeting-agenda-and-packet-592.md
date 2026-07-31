@@ -1,0 +1,113 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06272022-592
+> Meeting date: 2022-06-27
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2022-06-27
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06272022-592
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                          Minutes         of the
+                                                              Millcreek         Community                Reinvestment                Agency
+                                                                                           June        27, 2022
+                                                                                                7:00    p.m.
+                                                                                         Regular        Meeting
+
+
+
+
+The Community               Reinvestment          Agency         of Millcreek,         Utah,     met in a regular           public     meeting        on
+June 27, 2022,           at City     Hall,    located     at 3330 S. 1300 E., Millcreek,                      Utah     84106.     The meeting          was
+live streamed           via the City's        website     with    an option         for online       public     coinrnent.
+
+
+PRESENT:
+
+
+Board       Members                                                    City      Staff
+Jeff Silvestrini,         Chair                                        Mike      Winder,         City Manager
+Silvia    Catten                                                       Elyse        Sullivan,      Agency       Recorder
+Thom      DeSirant                                                     Francis        Lilly,    Assistant       City    Manager
+Cheri     Jackson-                                                     Kurt     Hansen,         Facilities      Director
+Bev Uipi                                                               Laurie        Johnson,       HR-Finance           Director      (electronic)
+
+
+
+Attendees:         Chief     Steve DeBry
+
+
+REGULAR             MEETING:                 7:00 p.m.
+TIME        COMMENCED:                       9:51 p.m.
+
+
+
+Chair     Silvestrini       called    the meeting         to order.
+
+
+1. Public      Hearing        on -Opening            and Amending             the Fiscal         Year     2021-22        Budget
+Laurie      Johnson       said this was the second               amendment           for the FY 2021-22                budget.       This would        true
+up the property           tax received        in Millcreek        Center      CRA        and West Millcreek                CRA,      and update
+various     revenues        to get through        the end of the fiscal              year. In the Millcreek              Center       CRA,     the sale
+of property      was recognized               under miscellaneous             in revenues           and in the transfer           to Capital
+Improvement             Projects     Fund in expenses            at $1,295,764.           The amount           loaned      from      the West
+Millcreek      CRA        to the Millcreek           Center      CRA      was reduced.
+
+
+Board       Member         Jackson        moved         to open the public            hearing.         Board      Member          Catten
+seconded.       Chair       Silvestrini        called     for the vote.       All     Board        Members           present      voted      yes. The
+motion      passed        unanimously.
+
+
+There were no comments.
+
+
+Board       Member         DeSirant          moved      to close the public              hearing.       Board        Member          Jackson
+seconded.       Chair       Silvestrini        called     for the vote.       All     Board        Members           present      voted      yes. The
+motion      passed        unanimously.
+Millcreek      CRA        Meeting        Minutes                                                   27 June       2022      Page 2 of 2
+
+
+
+2. Discussion           and Consideration              of Resolution           22-10,      Amending        the Community
+Reinvestment            Agency       Annual      Budget         for the Fiscal          Year     Beginning        July 1, 2021 and
+Ending       June    30, 2022
+
+
+Board       Member        DeSirant        moved        to approve         Resolution           22-10,    Amending         the Community
+Reinvestment            Agency       Annual      Budget         for the Fiscal          Year     Beginning        July    1, 2021 and
+Ending       June    30, 2022. Board            Member           Jackson         seconded.       The Recorder            called    for the vote.
+All   Board     Members          present       voted     yes. The motion             passed       unanimously.
+
+
+3. Approval          of May      23, 2022 Meeting               Minutes
+
+
+4. Approval          of June 13, 2022 Meeting                   Minutes
+
+
+Board       Member        Uipi   moved         to approve         items       3 and 4. Board            Member         Catten     seconded.
+Chair     Silvestrini       called     for the vote. All           Board       Members          present      voted      yes. The motion
+passed      unanimously.
+
+
+
+ADJOURNED:                 Board       M-6mber         DeSirant        moved       to adjourn           the meeting       at 9:55 p.m.
+Board       Member        Uipi-seconded.           Chair        Silvestrini       called     for the vote.       All    Board     Members
+present      voted      yes. The      motion       passed       unanimously.
+
+
+                              APPROVED=                                                                           Dateq-10-1,i2-3
+                                                         Jeff     Silvestrini.       Chair
+
+
+
+                                     Attest:            !W!,                        Recorder
+

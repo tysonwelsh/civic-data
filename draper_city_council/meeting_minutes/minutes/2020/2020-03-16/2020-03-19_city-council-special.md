@@ -1,0 +1,292 @@
+# City Council Special Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=115&doc_id=04a0d478-898c-11ea-a2af-0050569183fa
+> Meeting date: 2020-03-19
+> Format: text
+
+Approved April 7, 2020
+MINUTES OF THE DRAPER CITY SPECIAL COUNCIL MEETING HELD ON
+TUESDAY, MARCH 19, 2020, IN THE DRAPER CITY ADMINISTRATION
+CONFERENCE ROOM, 1020 EAST PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:             Mayor Troy K. Walker
+
+PARTICIPATING
+ELECTRONICALLY: Councilmembers Mike Green, Tasha Lowery, Fred Lowry, Cal Roberts,
+              and Marsha Vawdrey
+
+STAFF PRESENT:    David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                  Oscarson, City Recorder; Russ Fox, Assistant City Manager; Jennifer
+                  Jastremsky, Planner; Christiana Oliver, Community Development Director,
+                  Jake Sorensen, Network Administrator
+________________________________________________________________________
+
+This meeting was held electronically.     Councilmembers, staff, and residents were able to
+participate through Zoom.us.
+
+Business Meeting
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+      Mayor Troy K. Walker explained that this meeting was held electronically, pursuant to
+      Draper City Resolution #14-5A. He explained that as restrictions take place across the
+      State for limited public gatherings, Draper City wanted to make sure everyone interested
+      in participating in City Council meetings could do so in a manner that they felt most
+      comfortable.
+
+      He said that there were several ways to participate such as listening live through the City’s
+      Website or by joining the Zoom meeting. If participants wanted to provide feedback, they
+      could email their comments to public.comment@draper.ut.us up until 5:00 p.m. the day of
+      the meeting, upon which those comments would be read aloud in the meeting if so indicated
+      and be a part of the public record.
+
+2.0   Consent Items
+
+             a.     Approval of Resolution #20-16, appointing Lisa Wilcox to the Tree
+             Commission
+             b.     Approval of Resolution #20-17, appointing Pimmie Lopez as an
+             alternate to the Draper City Arena Advisory Board
+             c.     Approval of Resolution #20-18, appointing Britnee Johnston as
+             Communications Director for Draper City
+             d.     Approval of Ordinance No. 1429, amending Titles 2 and 3 regarding
+             the use of electronic meetings for the City Council and Planning Commission
+               e.     Approval of Ordinance No. 1430, establishing Temporary Land Use
+               Regulations Regarding Temporary Signs, approve Ordinance No. 1430 to
+               suspend Sections 9-29-080(D)(3) and (4) of the Draper City Municipal Code
+               for temporary signage.
+
+2.1  Councilmember Marsha Vawdrey moved to approve the consent items. Council
+Member Fred Lowry seconded the motion.
+
+2.2  A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+Vawdrey, voting in favor. The motion passed unanimously.
+
+3.0    Action Item: Approval of Ordinance #1410 and #1411, Offices on 7th Land Use Map
+Amendment, Zoning Map Amendment, and Development Agreement Request, on the
+request of Keaton Morton for a land use map amendment from Residential Medium Density
+to Neighborhood Commercial (CN), a zoning map amendment from RA2 to CN, and a
+development agreement on 0.99 acres of property located at 681 East Pioneer Rd and 12388
+South 700 East.
+
+3.1    Jennifer Jastremsky, Planner, stated that the Council heard about the item on March 10th,
+2020 and were interested in potential use restriction as a part of the agreement. Ms. Jastremsky
+displayed a table that summarized the requested restrictions and said that the applicant had some
+additional uses, charter and private schools, they wanted to add to the Permitted Use table.
+
+       The applicant was present online to be able to answer questions.
+
+        Councilmember Tasha Lowery said that she saw the note added to private schools about
+limiting the number of students to 15 or less. She wanted to know if there was a similar restriction
+for charter school use.
+
+        Ms. Jastremsky said there was not as charter schools were considered public schools and
+therefore had legal rights as to where they can be located and what the State allows them to have
+for the number of students.
+
+        Councilmember Fred Lowry asked if there was the possibility to include the private school,
+limited to 15 students, but not include the charter school in the permitted use.
+
+        Ms. Jastremsky said she would recommend having that conversation with the applicant
+directly tonight.
+
+        Mike Barker, City Attorney, explained that charter schools are a permitted use in all zones
+per State law. He said that the ability of an applicant to waive the right for a charter school to be
+permitted in a development agreement was a legal gray area. He suggested that they allow the
+charter school so that down the line there was not a question about if the development agreement
+was within state code. He said to either accept charter schools as a permitted use or to deny the
+application.
+
+
+
+                                            Page 2 of 6
+       Councilmember Cal Roberts asked Mr. Barker if the Council denied the application if the
+property owner would still have the right to put a charter school there. Mr. Barker said yes.
+Councilmember Roberts said given this the charter school question doesn’t seem relevant because
+regardless of if they accept the application or not, a charter school could go there.
+
+        Dave Morton, the applicant, thanked the Council and staff for all of their efforts. He said
+that overall they intend to move forward as they have expressed previously.
+
+        Councilmember Marsha Vawdrey asked Mr. Barker if the development agreement states
+that this will be an office building. Mr. Barker said that it did and that the project was described
+as an office building. He read the definition of the project in the development agreement, “the
+total development of an office building to be constructed on the property pursuant to the MDA
+with associated public and private facilities.” He said that they have tried to be clear that the
+development agreement contemplates the construction of an office building.
+
+        Councilmember Fred Lowry wanted to restate that it is clearly stated in the development
+agreement that the property will be used as an office building. Mr. Barker, City Attorney, said
+yes. Councilmember Lowry continued that as an office building, some of those commercial uses
+would consist of The Piano Place for piano instruction, as opposed to being considered a private
+school.
+
+       Christina Oliver, Community Development Director, said that would be one of the uses
+allowed in the use table proposal.
+
+        Ms. Jastremsky said that The Piano Place would be considered a personal instruction
+service, not a private school.
+
+        Councilmember Tasha Lowery asked the applicant why they brought forth the change at
+this time. She wanted to know why they were only now asking to have private and charter schools
+included in the Permitted Use table.
+
+         Mr. Morton said that they didn’t. He felt that this was what was agreed upon before the
+City Council Meeting. He said that when they received the list from the City about an hour before
+the meeting, there were 22 items added which were to be restricted uses. The applicant was willing
+to agree to all of them. The only one he indicated to David Dobbins, City Manager, was that it be
+restricted it to public schools, but the applicant didn’t want there to be a risk that something being
+interpreted by a tenant or to somehow risk his use so he simply indicated we would limit it to
+public schools. But the charter and private he felt were fine based on the March 10th meeting. He
+said that to clarify the agreement, the two items were added to the Permitted Use table, but in their
+minds, they were already a part of the agreement at the March 10th meeting.
+
+       Councilmember Tasha Lowery asked if there was confusion about if The Piano Place was
+a school use.
+
+      Mr. Morton said that although they think that The Piano Place could be a tenant, they don’t
+know of future tenants who might also be instructional type groups. He did say that it was their
+
+                                             Page 3 of 6
+goal to be certain that those uses wouldn’t be restricted. He said that the 22 items were added by
+the City at the last minute, not by them the applicant.
+
+       Councilmember Tasha Lowery clarified that the applicant understands that The Piano Place
+would fall under the designation of personal instructional service.
+
+       Mr. Morton said they do understand that. He said that the private and charter schools were
+being included on the Permitted Use table to ensure that there wasn’t a gray area. He said that
+David Dobbins, City Manager, could vouch for their earlier considerations regarding clarity of
+use.
+
+        Councilmember Marsha Vawdrey recognized that they don’t have an option regarding
+charter schools, but she preferred that they not open the private school option.
+
+       Councilmembers Tasha Lowery and Fred Lowry agreed, especially since The Piano Place
+would be considered a personal instruction service. Councilmember Lowry said he didn’t
+understand why they would need to include the private school, as restricting them would not limit
+the applicant in the types of uses they have proposed.
+
+        Mr. Morton said that it would be important that the Council and staff understand the
+specific definitions for a private school versus personal instruction. He said that as an applicant
+he just wanted to make sure that with a different Council or staff that they wouldn’t have a problem
+with this type of tenant.
+
+        Councilmember Fred Lowry said that they agreed with the applicant that they didn’t want
+a gray area either and that was the reason why the Council was being so thorough. He asked if the
+applicant was willing to share other potential tenants that might fall into this gray area so that the
+Council could better understand.
+
+        Mr.Morton said that it would be something like Mathnasium. He asked for the Council
+and staff to be more specific in how they distinguished between personal instruction and a private
+school.
+
+        Mr. Barker said that both of the terms, personal instruction, and private schools were
+included in the City Code. He then spoke to the applicant’s concern and said that the development
+agreement locks in the code at the time the development agreement was approved. He said that
+because of this, future staff would have to refer back to the code that was in place at the time of
+the agreement.
+
+        Ms. Jastremsky said that was correct and worked to pull up the City code with the
+definitions.
+
+       While Ms. Jastremsky did that, Councilmember Fred Lowry asked Mr. Barker if they
+excluded the private schools now, but later the applicant (or whoever is developing that property)
+wanted to put in a private school, would they have to submit an amendment to the development
+agreement. Mr. Barker said that was correct. Councilmember Lowry emphasized that restricting
+
+                                             Page 4 of 6
+private schools now didn’t shut the door for private schools in the future, but just meant that the
+Council would have to approve an application for such at a later date.
+
+Jennifer Jastremsky, Planner, read the definitions as outlined in section 9-3-040: DEFINITIONS
+of the City Code. She said a personal instruction service was defined as:
+
+           An establishment primarily engaged in the provision of informational,
+           instructional, personal improvement and similar services of a non-professional
+           nature. Typical uses include art and music schools, driving and computer
+           instruction, gymnastic and dance studios, handicraft or hobby instruction,
+           health and fitness studios, martial arts training, and swimming clubs.
+
+       And that private schools were defined as:
+
+           A school serving at least two (2) of any of the grades K through 12 which is not
+           part of the public education system, and does not exclusively include any
+           privately owned or run preschool for children, but which may include a
+           privately owned or run preschool as an accessory or secondary use to the school.
+
+       She summarized that it serves as a primary K-12 school that is separate from public
+education.
+
+        Mr. Morton asked for clarification about schools such as Sunrise Elementary that include
+a Chinese immersion program which he would consider additional instruction or tutoring. He
+asked if, based on Ms. Jastremsky’s understanding, that would not fall under a private school.
+
+       Ms. Jastremsky said it would fall under a personal instruction service.
+
+       There was confusion about how a program that provided tutoring to help students make up
+work to be able to move onto the next grade would be classified.
+
+       Ms. Jastremsky said that typically those programs, such as summer school, were in
+conjunction with public school systems so they would not typically be offered by a private
+company or be eligible at this location.
+
+3.2    Councilmember Mike Green moved to approve Ordinance #1410 and #1411 Offices
+on 7th Land Use Map Amendment, Zoning Map Amendment, and Development Agreement
+with the change to exempt private schools as a permitted use. Councilmember Fred Lowry
+seconded the motion.
+
+3.3     Councilmember Marsha Vawdrey stated that the nature of Pioneer Road changed when it
+was determined that it would be an east-west corridor. She said that although she would have
+preferred it hadn’t, that decision did change that area. She said that they need to make decisions
+based on what exists now and be proactive about how they plan for that area. This could mean
+creating a special zone to be able to buffer the north side from the commercial area that had begun
+
+
+
+                                           Page 5 of 6
+to develop on the south side, that would need to be specific, limiting uses, size, scope, architectural
+features, etc.
+
+         Councilmember Tasha Lowery agreed with Councilmember Vawdrey. She added that she
+felt that height needed to be considered in the area and that the Council needed to be consistent as
+they moved forward.
+
+        Councilmember Fred Lowry also agreed and mentioned previous discussions about where
+they needed to implement the buffer between the residential and commercial areas. He echoed
+that the natural buffer would be Pioneer Road and that a special zone could be created to match
+the town center. He stated that the current proposal submitted by the applicant does demonstrate
+less impact on residents in the surrounding area. He said that if a private school is something that
+needs to be addressed in the future, there is an opportunity for the applicant to ask for an
+amendment in the future.
+
+        Councilmember Cal Roberts stated that he stands with the Council for the need to create a
+buffer zone to distinguish between the residential and commercial zones. He said this case was
+difficult because there were competing interests: those between the neighbors who are resistant to
+changes and those of a property owner who would like to get the most from the property.
+
+3.4  A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+Vawdrey, voting in favor. The motion passed unanimously.
+
+Councilmember Fred Lowery wanted to thank the Fire and Police Chief and staff in that
+department for their fantastic job at this difficult time. He also wanted to thank David Dobbins,
+City Manager, as well as administrative staff for their hard work and flexibility. He said that it
+was important for the applicant to know that it was a rarity in the state and country that a city had
+found a way to continue to function despite COVID-19.
+
+Mayor Troy K. Walker also acknowledged the administrative team and how well the staff
+transitioned in this fluid situation. He noted that they had been in the pandemic mode for one
+week.
+
+4.0    Adjournment
+
+4.1    Councilmember Mike Green moved to adjourn the meeting.
+
+4.2  A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+Vawdrey, voting in favor. The motion passed unanimously.
+
+4.3    The meeting was adjourned at 6:06 p.m.
+
+
+
+
+                                             Page 6 of 6
+

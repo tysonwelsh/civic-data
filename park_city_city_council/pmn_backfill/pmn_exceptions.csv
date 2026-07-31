@@ -1,0 +1,15 @@
+date,body_id,kind,reason,verified_date
+2020-01-01,653,other,"Annual Notice of Regular Meetings (year-long schedule posting, synthetic Jan-1 event date) — not a meeting the repo could hold minutes for",2026-07-17
+2020-01-01,654,other,"RDA Annual Notice of Regular Meetings (year-long schedule posting, synthetic Jan-1) — not a meeting",2026-07-17
+2020-03-26,653,other,"notice body states CANCELLATION of the 2020-03-26 City Council meeting (COVID) — no meeting held, no minutes",2026-07-17
+2020-05-08,653,other,"notice body: majority of Council attending business-sanitizer distribution, 'No City business will be conducted' — not a minutes-producing meeting",2026-07-17
+2020-06-03,653,wrong_date,"'Public Hearing' notice with event date 2020-06-03 but body states the hearing is held Thursday 2020-06-18, which the repo holds — PMN event date wrong",2026-07-17
+2021-01-14,653,other,notice body: regular City Council meeting 2021-01-14 cancelled — no minutes,2026-07-17
+2021-12-22,1860,other,notice body: Regular Planning Commission Meeting 2021-12-22 canceled (Christmas week) — no minutes,2026-07-17
+2022-01-19,1860,other,notice body: Planning Commission meeting 2022-01-19 CANCELLED — no minutes,2026-07-17
+2022-03-15,1860,other,"special JOINT City Council + Planning Commission meeting; minutes filed under council dataset (meeting_minutes 2022-03-15), not planning_commission — cross-filing",2026-07-17
+2022-11-23,1860,other,notice body: Planning Commission meeting 2022-11-23 CANCELED (Thanksgiving week) — no minutes,2026-07-17
+2025-01-01,1860,other,'2025 Regular Meetings' annual schedule posting (synthetic Jan-1 event date) — not a meeting,2026-07-17
+2025-08-18,1860,other,"special JOINT CC+PC meeting; minutes in meeting_minutes 2025-08-18 (council dataset), not planning_commission — cross-filing",2026-07-17
+2026-01-01,1860,other,annual Regular-Meetings schedule posting for 2026 (event 1/1–12/31/2026) — not a meeting,2026-07-17
+2026-02-03,1860,other,"special JOINT CC+PC meeting; minutes in meeting_minutes 2026-02-03 (council dataset), not planning_commission — cross-filing",2026-07-17

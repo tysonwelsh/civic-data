@@ -1,0 +1,1041 @@
+# Millcreek Planning Commission — 2026-04-15
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04152026-1026
+> Meeting date: 2026-04-15
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2026-04-15
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04152026-1026
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                       Minutes             of the
+                                                                        Millcreek          Planning            Commission
+                                                                                       April        15,     2026
+                                                                                            5:00      p.m.
+                                                                                     Regular          Meeting
+
+
+ The Planning            Coinmission              of Millcreek,        Utah,     met in a regular            public     meeting        on Wednesday,
+ April      15, 2026,       at City       Hall,    located      at 1330 E. Chambers                 Avenue,         Millcreek,       Utah      84106.     The
+meeting        was conducted               electronically            and live streamed            via the City's         website      with     an option      for
+ online     public      comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                             City     Staff
+Shawn        LaMar,       Chair       (excused)                                           Elyse     Sullivan,         City    Recorder
+Christian         Larsen,      Vice      Chair                                            Francis     Lilly,     Planning         & Zoning        Director
+Steven Anderson                                                                           Brad Sanderson,              Current      Planning       Manager
+Jenny Burgess                                                                             Jake Green,          Dev. Review           Specialist
+Nils     Per Lofgren           (excused)                                                  Carlos     Estudillo,         Planner
+Jacob Richardson                                                                          Sean Muray,           Plaru'ier
+Victoria       Reid (electronic)
+Diane       Soule (excused)
+Ian Wright
+
+
+Attendees:           Kathy       Wickersham,            Mike      Wickersham,           Madeleine           Tate, Eric         Stander,       Jamie Allyn,
+Rick      Hansen,       Dan Slaughter,              Steven      Dechter,       Russ Sorensen,              Dorothy       Byes,      Pace Measom,
+Jamie Allyn,            James Smith           (electronic)
+
+
+
+
+REGULAR               MEETING               - 5:00 p.m.
+TIME         COMMENCED                     - 5:00 p.m.
+
+
+Vice      Chair     Larsen       called     the meeting         to order and briefly               explained         the duties      of the planning
+commission.           He excused            Commissioners               LaMar,      Lofgren,        and Sorile,         and noted Commissioner
+Reid was participating                   electronically.
+
+
+1.   Public       Hearing
+     1.1 Consideration                of ZM-26-005,               Rezone       Request       from          Commercial            (C) Zone        and City
+     Center        Overlay        Zone       (CCOZ)          to the City         Center      Overlay-Development                       Agreement          Zone
+     (CCOZ-DA)                Location:       1285         E Villa     Vista     Avenue          Applicant:          Mike      Oborn        Planner:
+     Carlos       Estudillo
+     Carlos       Estudillo      presented          a proposed         rezoning      and development                  agreement        application       to
+     convert       a site at 1285 East Villa                 Vista     Avenue       from    the City         Center      Overlay       Zone to a City
+     Center       Overlay       Development            Agreement           Zone to accommodate                      a 23-unit      multi-family
+     condominium              project.     He explained              that the CCOZ-DA               zoning      framework           allows      flexibility
+     from     certain     City     Center         design     standards     in exchange            for defined         public      benefits,     in this case
+     the provision          of an affordable            housing        project      that is being          processed         for official     certification
+Mfflcreek         Planning           Commission                  Meeting             Minutes                                 15 April       2026            Page      2 of 17
+
+
+
+
+   through        the Utah          Housing           Authority.             He noted          the site is located             within       the City          Center,
+
+   surrounded            primarily           by commercial                and existing             multi-family              residential          uses, and is
+
+   consistent           with     the area's          long-term          land use vision               for a mixed-use,                walkable          urban         core.       He
+
+   described           the project           as a six-story,           approximately                64-foot-tall            building,       consisting           entirely             of
+
+   two-bedroom                 condominium               units     with        structured          parking         located      on the ground                level.        The
+
+   proposal         includes         approximately                20 percent            open       space      and meets           applicable           amenity
+
+   requirements.               In exchange             for the public               benefit      of affordable           housing,          the applicant              is
+
+   requesting           deviations           from      standard         City         Center     development              regulations,             including           relief
+
+   from       typical      step-back           requirements             that would              otherwise          apply      to street-facing               fagades,          side
+
+   yards,       and upper          building           levels.     Estudillo            noted      that,     despite     these modifications,                    the building
+
+   incorporates            architectural              articulation,           material         variation,          and transparency,                including
+
+    significant          use of brick           and window              coverage,             to avoid        a monolithic            appearance.
+
+
+    Estudillo          further      explained           that the project               qualifies          for additional         incentives           under        the City's
+
+    affordable          housing           provisions,           incIuding           waivers        of first-floor           commercial             requirements                and a
+
+   reduced        parking          ratio.     Parking           is proposed            primarily          within      the internal          garage,          supplemented
+
+   by limited           on-street          stalls     and additional                shared      parking        secured         through       an agreement                  with         a
+
+   nearby        commercial                property       within       300 feet of the site. He noted                           that these          arrangements
+
+    would       be formalized                through       the reqriired              development             agreement.             Estudillo         also stated             that
+
+    the development                 agreement            would        include          key conditions              and restrictions,               including
+
+    affordability           controls,         ownership            structure           requirements            (owner-occupied                    units),     density          and
+
+    use parameters,                and enforcement                 mechanisms                 tied to housing            authority         certification.             He
+
+    reported        that the proposal                 has undergone                  preliminaiy           review,      neighborhood                 outreach,             and an
+
+    open house            process,          with     no public         comments               received        from      nearby        residents.            The Millcreek
+
+    Community              Council          reviewed            the application               and recornrnended                 approval           by a 5-l        vote,         with
+
+    a suggestion           to consider              additional        parking.
+
+
+    Estudillo          concluded            that the project            complies           with      underlying             zoning       intent      and land use
+
+    policy      objectives          for the City            Center,          will     require      additional          review        including          a conditional
+
+    use permit           process          due to building             height,          and that      staff     recommends                approval           of the CCOZ-
+
+    DA       zoning       designation              and associated              development                agreement           for consideration               by the City
+
+    Council.
+
+
+    Russ      Sorensen,            an owner-partner                on the project,                described          the proposal           as a long-standing
+
+    joint     effort     between            the development                  team,      Millcreek,           and the Utah            Housing           Authority.              He
+
+    noted       that the Millcreek                  CRA     recently           approved           a per-unit          subsidy        to help       advance         the project
+
+    and explained                that the development                   involves          several          small     City     Center       parcels          that are best
+
+    suited      for a vertically              integrated          housing            product       due to site constraints,                 particularly              limited
+
+    parking        efficiency             for larger-scale            development.
+
+
+    Sorensen           clarified          that the project's           "affordable              housing"           designation           does not equate                   to low-
+
+    income        housing,          but rather "attainable"                         ownership        housing          targeted        to income-qualified
+
+    buyers.       He explained               that     all units       will     be owner-occupied,                     subject        to deed restrictions                   tied to
+
+    the state and housing                     authority          subsidy        programs,           including          a minimum             occupancy             period           of
+
+    six years          before      full     equity      realization.           He also noted                that resale        pricing      is capped           through             a
+
+    state-established               formula           administered             by Utah          Housing,           similar      to federal          lending        limits,          and
+
+    that these restrictions                   are incorporated                 into     recorded           agreements          and HOA              governing
+
+    documents.            He emphasized                  that the project               is intended           to serve        first-time         homebuyers,                who
+Mfflcreek        Planning          Commission             Meeting       Minutes                                15 April       2026        Page 3 of 17
+
+
+
+   may also be eligible               for state-supported             down payment                 assistance        programs        and potentially
+   favorable       mortgage          temis      through       participating           local     lenders.     Sorenson        stated that the intent                is
+   to provide          attainable      homeownership                opportunities          for approximately                23 households             that
+   would      otherwise           be unable       to afford        entry into the Millcreek                 housing        market.
+
+
+   Sorensen        further        described      the regulatory          and administrative                 complexity         associated         with       the
+   program       but expressed              support      for its potential            as a pilot    project        that could be replicated                  on
+   other City          Center     parcels.      Sorensen         noted that design              efforts     have been made to meet city
+   requirements,           including         building      articulation,        height        transitions,         and contextual         integration
+   with     surrounding           development,           with      the structure         maintained          below      74 feet to support
+   neighborhood            compatibility.          He concluded              by stating         that the development               aims to produce                 a
+   high-quality,          ownership-based               housing       product         that supports         long-term        community            stability
+   and requested           continued         collaboration           as the project           advances.
+
+
+   Commissioner              Burgess        asked about price per unit.                   Sorensen          said they were fixed             at $450,000.
+   The units are 1,000               square feet with            two bedrooms              and two bathrooms.
+
+
+   Vice Chair          Larsen       opened       the public        hearing.
+
+
+  There were no comi'nents.
+
+
+   Vice Chair          Larsen       closed      the public       hearing.
+
+
+  Commissioner              Reid asked how long the deed restriction                               would       last. Sorensen           explained        that
+  the state first-time             homebuyer           program        includes         a minimum            six-year       occupancy       requirement
+  tied to the subsidy              structure.      He noted that if owners                    sell prior      to meeting       the required            term,
+  they forfeit         a significant         portion      of the equity         earned through              the program.          After    the six-year
+  period,      owners        may retain         up to approximately                75% of accumulated                   equity,      subject      to the
+  program's         specific        terms     and conditions.          He stated that resale pricing                       and ongoing           restrictions
+  are governed            by Utah Housing               Authority       and may be adjusted                   over time through             state
+  legislative       changes.         Sorensen         explained       that past legislative                updates     have modified             or
+  eliminated           certain     long-term       restrictions,       and that future             changes         could    similarly       affect
+  program        requirements.           He emphasized               that these provisions                 are established         and administered
+  at the state level             in connection         with      the subsidy          funding      and are reflected           in the deed
+  restrictions         governing       the units.
+
+
+  Coinmissioner             Reid asked about the income                       limit     for owners.          Sorensen        said there was no
+  income       limit     because       it is attainable          and affordable           housing,         not a low income             project.       He said
+  to qualify       for a $450,000 mortgage,                      one has to make              approximately            $60,000       a year of income
+  with     no debt. Coinmissioner                  Reid felt the parking                was tight.         Sorensen        stated that a broader
+  objective      of attainable          housing         within     the City      Center         framework          is to support        reduced
+  reliance      on personal          veliicle     use, particularly           by aligning           housing        opportunities          with     residents
+  who are less likely              to maintain          multiple      vehicles         due to financial            constraints.       He explained
+  that, in his view,             the City     Center      master      plan is intended             to promote          more transit-oriented
+  living     patterns      by encouraging              residents      to utilize        available         public    transportation,         bicycle
+  infrastructure,          and walkable           amenities         rather    than relying          primarily          on automobiles.
+Millcreek        Planning           Commission                  Meeting           Minutes                               15 April        2026          Page      4 of 17
+
+
+
+
+   Sorensen         further        noted       that     attainable        housing           developments            in transit-accessible                areas are
+   intended        to reinforce            this land        use and mobility                 approach,          given    their     proximity            to bus routes,
+   future      transit      connections,              and non-motorized                 transportation             infrastructure.             Sorensen
+   characterized            this    as an additional               policy         benefit      of locating         higher-density              attainable       housing
+   within       the City       Center,         aligning         housing       development                with     broader     planning           goals      related         to
+   transportation            demand            management               and reduced            vehicle       dependency.
+
+
+   Commissioner               Richardson asked about the conditions                                      of the $20,000 first time homebuyer
+   money        provided           by the state if the property                      owner        sold prior        to the six years            being       completed.
+   Sorensen         said the first            time      homebuyer           plan      applied       throughout           the state,       not just       with     this
+   property,       and the same restrictions                           applied.      Commissioner                Richardson          asked       about      a fall back
+   plan     for the CRA             funds.        Francis       Lilly      said the money               is paid     on performance               as
+   reimbursement.               The      city's       leverage          is the building           needs       to be built,        and the developers                need
+   to have       an agreement              with       the Utah          Housing        Corporation              for the other        public       monies.
+
+
+   Sorensen        clarified         the funding            and reimbursement                     structure       for the project,             explaining         that
+   CRA        and state participation                    is tied directly            to completed            construction          work        rather     than direct
+   payments         to the developer.                   He stated         that project          costs     are reimbursed             through       a struchired
+   process       in which          completed             work     is inspected              and verified         by the State         of Utah         before      public
+   funds       are released,           with     the state contributing                  the majority             share and the city              contributing            a
+   smaller       matching           portion        based        on the approved                agreement.          He explained              that public        funds
+   are disbursed            directly       to contractors,               suppliers,         and labor        providers        rather      than     to the
+   developer,        and only           for work          that has been fully                 completed           and verified.         Sorensen          noted        that
+   the developer            does not receive                payment          until     project       completion            and the sale of units,
+   including        repayment            of associated             financing          obligations,           thereby       maintaining            significant
+   financial       risk     on the private              development               side throughout               the project       lifecycle.
+
+
+   Estudillo       added        clarification            on the state's            attainable        housing        program,         explaining           that its
+   primary       objective          is to support           the development                   of owner-occupied               housing           units    priced        at
+   approximately              $450,000 or below through targeted incentives.    He noted that eligible   first-time
+   homebuyers             may   receive a $20,000 incentive, but that this assistance  is subject to program
+   requirements             and may           be forfeited         if program           conditions            are not met.         He explained             that the
+   broader       intent      of the program               is to encourage              the production              of attainable          ownership            housing
+   throrigh      coordinated             efforts        between          the state, housing              authorities,         CRA       funding         mechanisms,
+   and local       governments.                Estudillo         noted      that while           developers         may      receive         construction-related
+   incentives        to facilitate            delivery      of these units,             the direct         financial       benefit      to individual            buyers
+   is limited      primarily           to the $20,000 assistance,                       witli overall            program         structure       designed to
+   increase       the supply           of lower-cost             ownership            housing        within       the market.
+
+
+   Commissioner               Burgess           asked      about        the six year          threshold.         Sorensen         reiterated       that the
+   program        requirements                are governed              by state legislation              and associated             agreements,            which
+   currently       impose          a six-year           minimum           occupancy            and ownership             restriction.          He noted         that
+   although the State of Utah allocated                                 approximately              $300 million           to the attainable housing
+   program,        only      a small          portion      has been utilized                 to date,     and characterized               participation           by
+   developers            as limited        due to the complexity                     of the application              process,        regulatory
+   requirements,            and associated                constraints         on potential           returns.       He explained              that while
+   development             costs      and financial             risk     for builders          remain        comparable           to market-rate            projects,
+   profit     potential       is constrained              by state-imposed                   affordability         requirements.             Sorensen          further
+Mfflcreek            Planning         Commission              Meeting         Minutes                            15 Aprn         2026       Page 5 of 17
+
+
+
+       stated that the application                 and compliance              process      is extensive         and administratively
+       burdensome.             He referenced           that, under        current     market       conditions,        comparable           units     would
+       appraise       at approximately               $520,000        and noted that achieving                  attainable       price points         requires
+       significant       subsidy        contributions           from both the city and state, resulting                        in reduced        developer
+   margins.
+
+
+       Sorensen        emphasized            that the success of the program                     depends        on coordinated            participation
+       among      multiple        entities,     including         the City,      State, and private             developers,        and characterized
+   the effort          as a collaborative              but complex           system      that requires         alignu'nent      across agencies.            He
+   concluded             by noting       that, given          the program's           scale and administrative                 structure,     continued
+   evaluation            and refinement              may be necessary             to improve           effectiveness          and participation.
+
+
+   Commissioner                 Wright        asked about the overflow                   parking       on the neigliboring           corni'nercial
+   property.           Sorensen         said he owned             the strip mall         and the property            to the south of it. He said
+   there would            be a shared parking                 agreement         between         the properties.        Estudillo        clarified        that
+   parking           within     the City       Center is managed                as a shared, district-wide              system       rather        than being
+   allocated          to specific        developments.             He explained           that on-street         parking       in the City         Center       is
+   intended           to serve overall          area demand              and is not exclusively             assigned         to individual          projects.
+   As such, the project                  was designed             to fully     accommodate             residential      parking      within        the
+   building          itself,    while    relying        on existing          on-street    parking        supply      within      the surrounding             City
+   Center         streets to help address guest parking                          needs. He further             noted that, due to site
+   constraints,           a portion       of the required              guest parking        is proposed         to be provided            on a nearby
+   property          owned       by tlie applicant              within    approximately            300 feet of the project               site. Estudillo
+   stated that this arrangement                        was considered            reasonable        given       the short walking            distance        and
+   the existing           pedestrian-oriented                 nature     of the City       Center       area and emphasized                that the intent
+   is to maintain              'functional      parking         compliance        while     supporting          a more compact,             walkable
+   urban       fori'n.
+
+
+   Commissioners                 Larsen       and Richardson              expressed        favor    for the project.           Commissioner              Wright
+   worried         about parking             since Utah was a place where                       people     moved       to recreate        with      vehicles.
+   Vice      Chair       Larsen       noted the Millcreek                Community          Council        was also concerned               aborit
+   parking.          Commissioner              Burgess        felt the affordability            component            outweighed          the parking
+   issue. Lilly          noted there were three high                     frequency        bus lines on Highland                 Drive,      3300 S, and
+   1 300 E. Lilly              and Commissioner                 Richardson        noted     from personal            experience         how they got by
+   with      one or no cars.
+
+
+Vice     Chair       Larsen        moved        that     the Planning            Commission             recommend              approval       of ZM-26-
+005, based           on the findings            and conclusions                as presented            by staff.     Commissioner                Anderson
+seconded.         Vice        Chair     Larsen         called     for the vote.          Vice    Chair      Larsen       voted      yes,
+Commissioner               Anderson            voted     yes, Commissioner                  Burgess        voted      yes, Commissioner                   Reid
+voted     yes, Commissioner                    Richardson            voted      yes, and Commissioner                   Wright        voted         yes. The
+motion       passed        unanimously.
+
+
+  1.2 Consideration                   of ZM-26-006,               Rezone        Request         from     the Residential            (R-1-8)        Zone         and
+   Residential            Mixed         (RM)     Zone         to the Commercial                 (C) Zone        Location:        1398       E Luck         Lane
+   Applicant:            Madeleine            Tate     with      Woodhaven            Planner:          Brad       Sanderson
+   Brad      Sanderson           presented       a request         to rezone        an approximately               O.8-0.9      acre irregularly
+   shaped property               located       near Home           Depot,      noting     that the site currently               contains      three zoning
+Millcreek        Planning           Commission              Meeting          Minutes                                15 April           2026         Page       6 of 17
+
+
+
+
+   designations            (Commercial,             RM,      and R-1-8).           He explained             that the applicant                 is seeking            to
+
+    consolidate          the property        into      a single        coinmercial         zoning          designation           to better       align     with
+
+   adjacent        commercial            and non-residential                 uses to the north              and east. He noted                  that    although             the
+
+    site is currently           designated          under     a neighborhood               land        use category            intended        for low-density
+
+   residential        development,            it has functioned               as an office             use for many            years     following             the
+
+    conversion        of an original            single-family             residence.
+
+
+    Sanderson         described         the site context,              including        its unique         topography,             elevation           above         the
+
+    adjacent       residential         neighborhood             to the west,          and separation             by a significant               grade      change
+
+    and vegetation,           which       he stated         makes        the site function              more     similatly         to nearby            coinmercial
+
+    and mixed-use             areas than to the lower-density                         residential          neighborhood             below.          He provided
+
+    an overview           of public       outreach          efforts,      including        a neighborhood                meeting          and an open house,
+
+    noting      moderate           attendance        and general           concern        expressed          primarily           regarding          a related             text
+
+    amendment             rather     than the rezoning             itself.     He also referenced                  written        comments              from     nearby
+
+    property       owners,         some of whom               expressed         opposition.
+
+
+    Sanderson         further       explained         that staff        does not have             significant         concerns          with     the rezoning
+
+    request      and views          the consolidation              into      a single     commercial             zone     as generally              appropriate
+
+    given       surrounding           land uses, though                it is not fully      consistent          with     the adopted             future        land use
+
+    map.      He noted        that a zone         condition        is proposed            to limit        allowable        uses within            the commercial
+
+    designation           to a more       restricted        set, including            office,      medical,        dental,       personal         services,
+
+    financial      institutions,          and reception/event                 center      uses, while           excluding          more        intensive
+
+    cornrnercial          uses such as gas stations.                    He added         that     any allowance                for reception            or event
+
+    centers      would       include       additional         restrictions,         including           limitations        on outdoor             use within               300
+
+    feet of single-family               residential         zoning.        Sanderson            concluded          by noting           that related         code text
+
+    amendment             proposals       regarding          reception         centers      are still       under      consideration              and may
+
+    influence       the final         application         framework.
+
+
+    Kathy       Wickersham,             owner       of Woodhaven               at Millcreek              Psychotherapy             Services,            stated       that
+
+    she purchased            and renovated             the property           in 2019,          opening        a psychotherapy                 practice         in early
+
+    March        2020,     which       was briefly          internipted         by the COVID-19                    pandemic.             She noted         that the
+
+    practice      has since         expanded          significantly,          now       employing           nine      clinicians         and serving
+
+    primarily       Millcreek           residents       experiencing            a wide      range         of acute      life     challenges,            including
+
+    trauma,       loss,    illness,      and family          crises.      She described                the practice      as a mission-driven                     service
+
+    that provides           mental       health      care to community                  members           regardless           of insurance            status,
+
+    offering       reduced         fees and payment               plans      where      needed,           and emphasized                financial        pressures
+
+    due to increasing               operational        costs and insufficient                    insurance       reimbursement                  rates.
+
+
+    Wickersham             explained        that the property,               situated      on nearly           an acre with            significant         natural
+
+    landscaping           and views,         is also costly            to maintain,         and that the proposal                   to allow           limited            event
+
+    uses was developed                  as a potential          supplemental             revenue          source      to support          the continued
+
+    viability      of the therapeutic               services.      She indicated                that    any proposed             event     use would             be
+
+    limited       in frequency           (estimated         at approximately               30-40          days per year),           primarily            seasonal            and
+
+    weekend-based,                 and designed           to minimize           impacts          on neighboring              properties          through
+
+    measures         such as speaker              orientation,          use of natural            topography           and vegetation                  for sound
+
+    buffering,        and other         mitigation          strategies.
+Millcreek         Planning            Commission              Meeting        Minutes                              15 April          2026         Page 7 of 17
+
+
+
+   Wickersham                acknowledged              community           concerns          regarding       noise and compatibility                    with
+   surrounding              uses and expressed                willingness           to accept conditional                use restrictions          and
+   collaborate             with    the city to address impacts.                     She also noted that, without                    the ability         to
+   generate         supplemental             income,         the property           could     become        financially       unsustainable              and
+   potentially         be redeveloped                into a higher-density               use, which          she stated would              significantly               alter
+   the site's        character.           She concluded           by emphasizing                the intent      to preserve         both the therapeutic
+   mission         of the facility           and the unique             natural      setting       of the property          and stated that the
+   proposed          use could            allow     the site to serve both as a place for community                                 members            in crisis
+   and for meaningful                   life celebrations           in a controlled             and compatible            manner.
+
+
+   Commissioner                   Richardson         asked about putting                restrictions        on hours        of operation.          Sanderson
+   said development                   agreements         follow        development             and conditional            use permits        run with             the
+   land; however,                 this application           is solely     a rezone         with    no new development                  proposed.            Vice
+   Chair     Larsen          asked for clarification               with     reception          center venues.            Sanderson         noted       an indoor
+  reception          center is a permitted                  use in the Coinmercial                  Zone and outdoor              venues require                  a 300
+   foot distance            to residential           property.         However,        the corni'nission           would      be considering                 an
+   amendment               to the Commercial                 Zone in the next application                    regarding        outdoor        venues.
+
+
+   Vice Chair          Larsen          opened       the public         hearing.
+
+
+  Pace Measom                 stated that his family               owns two properties                 directly       adjacent        to the subject              site
+  and has lived              and invested           in the area for approximately                      15 years. He described                    the
+  surrounding              hillside       as a natural,        forested      greenbelt          associated        with     the local     fault     line, noting
+  its ecological             value,       quiet    character,      and presence              of wildlife       such as deer, foxes,               owls,        and
+  raccoons.          He emphasized                 that the area functions               as a tranquil         residential         environment               in close
+  proximity          to the city.          He expressed            concern          regarding       the proposed           outdoor       event center use,
+  noting         that recent          event activity          on the property-including                      music,       lighting,      and late-evening
+  gatherings-has                   already        been audible          and noticeable             to nearby      residents,        and suggested                 these
+  may have functioned                      as informal         test events.          While      he did not raise objections                  to the zoning
+  change         itself,     he stated opposition                to the introduction               of regular      or late-night         event uses due to
+  their impact             on the surrounding                neighborhood's              quiet residential           character.
+
+
+  Jamie Allyn,              East Mill        Creek      Community             Council,         stated appreciation               for being       included              in
+  the review          process          and noted that the community                         council     attempted          to approach           the proposal
+  thoughtfully             and sensitively.            He acknowledged                 the value of the services                  provided         by
+  Woodhaven                and expressed             support      for the continued                success of the business.                However,               he
+  emphasized               that noise is one of the most significant                            adverse      impacts        on residential             areas due
+  to its inability           to be contained            by property           boundaries            and the challenges              associated          with
+  enforcement.              He referenced             the city's        recent      code update,         which       followed         a two-year
+  stakeholder              engagement             process     and resulted           in restrictions        on outdoor           reception        center uses
+  within     300 feet of residential                   zones. He explained                   that this buffer         distance        reflects     a balance
+  between         competing            land use interests              intended        to mitigate         impacts       while     allowing        limited
+  flexibility.        Allyn        further        noted broader          concerns        about increasing             residential        development
+  pressures,         including          upzoning,           density,     traffic,     and associated           noise impacts,            which         can affect
+  neighborhood               livability       and residents'            sense of well-being.               He concluded             that the community
+  council        believes         the existing        code provisions               represent        a reasonable          and appropriate              balance
+  and recoininended                   that they remain            unchanged.
+Millcreek         Planning            Commission                  Meeting          Minutes                                     15 April          2026          Page          8 of 17
+
+
+
+
+   Dorothy          Byes      resides          in tlie neighborhood                   directly         below         the subject             property.         She expressed
+
+   concerns          regarding            the proposed                outdoor       venue        and its potential               impacts             on privacy         and
+
+   residential           use. She noted                that     due to the elevated                   nature     of the site and limited                       screening            from
+
+   vegetation,            adjacent          properties          currently          have      clear      visibility        into       one another,              and that the
+
+   introduction              of an event           venue        accommodating                  approximately                   150 attendees              would         further
+
+   eliminate         existing          privacy          for nearby            residents.       She also reported                     prior     instances         of event-
+
+   related        activity         resulting        in individuals              trespassing            onto     her property,                describing          this    as an
+
+   ongoing          concern          and expressing                  skepticism           that proposed               limits     would          be consistently
+
+   respected.            Additionally,             she stated            that portions           of the proposed                 venue         area appear            to extend
+
+   near or beyond                  property        boundaries             and referenced                the proximity                of a nearby             walking          patli     as
+
+    further       contributing              to the lack          of separation             between          uses.      She further             indicated          that, based
+
+    on her measurements,                       the distance              from     the proposed              pavilion           area to her residence                    is
+
+    approximately              200 feet,           asserting           that this does not meet                   the referenced                 300-foot          separation
+
+    standard        from      residential              areas.        She concluded            by stating             that her primary                  concerns         relate        to
+
+    loss of privacy,               potential           boundary          encroachments,                 and insufficient                 buffering           between          the
+
+   proposed          use and nearby                    homes.
+
+
+    Dan       Slaughter,           Canyon         View         Credit      Union,          provided         general          cominents               regarding        the subject
+
+    property,        noting          its riniqrie        configuration              with     frontage          on Luck           Lane         in a commercially
+
+    accessed         area and rear property                       lines       adjoining        residential            uses. He acknowledged                           the site as
+
+    an unusual            transitional          property             between        commercial              and residential                  zones.      He stated           he was
+
+    not     expressing             fonnal      opposition              or support          but offered          observations                 and questions              related        to
+
+    potential        future         implications.              Specifically,          he raised          concern          about        how      the proposed                 use or
+
+    zoning        decisions           could      affect        the long-teri'n            viability        and future            sale or redevelopment                        of the
+
+    Credit        Union       property.          He also inquired                  about      parking          capacity          and logistics            associated             with
+
+    events        of approximately                  100       attendees,          asking      where        parking           for such gatherings                     would       be
+
+    accoinmodated.
+
+
+      Vice Chair          Larsen          closed        the public         hearing.
+
+
+    Commissioner                   Larsen       felt    it was odd to have                  three parcels             with       different           zones      and felt the
+
+    rezone        request          was prudent            and he supported                  tlie zone          condition          that       staff    has recommended
+
+    limiting        the use to low              or medium                impact      commercial                uses like         medical,            dental,     general
+
+    office,       etc.
+
+
+Commissioner                 Richardson                 moved          that     the Planning               Commission                  recommend                 approval             to
+
+the City        Council            pertaining            to the proposed                   rezone        of application                 ZM-26-006                as proposed,
+
+which       includes          a zone         condition            that     the use of the property                         is limited           to medical,             dental
+
+and     general          office,      personal            services,           financial       institutions,              and      reception              and     event        centers.
+
+Vice      Chair      Larsen           seconded.               Vice     Chair       Larsen         called        for      the    vote.        Vice      Chair         Larsen
+
+voted       yes, Commissioner                      Anderson               voted      yes, Commissioner                         Burgess          voted         yes,
+
+Commissioner                 Reid       voted          yes, Commissioner                     Richardson                voted         yes, and          Commissioner
+
+Wright         voted       yes. The            motion          passed         unanimously.
+
+
+    1.3     Consideration                   of ZT-26-001/ZT-25-006,                           Amending                Various            Provisions             of Title        18 of
+
+    the Millcreek                  Code      of Ordinances                    Planners:         Francis          Lilly         and     Sean          Murray
+
+    Brad       Sanderson             provided           an overview              of tlie current           zoning         code provisions                 related        to
+
+    reception            and event          centers,          noting      that indoor          reception             centers      are permitted                uses in
+Millcreek        Planning          Commission               Meeting        Minutes                              15 April          2026       Page 9 of 17
+
+
+
+   cornunercial         zones, while           outdoor       reception        center uses are currently                   prohibited         within     300
+   feet of residential           zone boundaries.               He explained             that the applicant            is requesting          a text
+   amendment            to allow      outdoor         reception       centers        as a conditional            accessory        use to legally
+   established         office    or retail      uses, subject          to additional             standards      including         limited     hours      of
+   operation       from        7am to 1 lpm,           a participant        cap of 150 people,                directional         speaker      orientation
+   away from residential                  areas, noise compliance,                    lighting       limitations,       and buffering
+   requirements           such as landscaping                 or sound mitigation.                 He also summarized                proposed
+   definitional         updates      clarifying         the scope of outdoor                  reception      centers       and reinforcing
+   separation       distances,        including         a reduced          100-foot       residential        buffer       in certain        contexts.
+
+
+   Sanderson        provided         context        on staffs      review           process,      noting     that significant            concerns       were
+   initially     identified       regarding          compatibility          between           outdoor       event uses and nearby                residential
+   areas. He referenced               the historical          purpose       of zoning            as a mechanism            to separate potentially
+   incompatible           uses and reiterated               that the city's          existing      code structure           reflects      this principle,
+   including       the 300-foot           separation         standard       adopted        after a recent           stakeholder          process.       He
+   explained       that the proposed                approach-making                   outdoor        reception        centers      an accessory
+   conditional         use tied to office/retail                development            with      added performance                standards-
+  represents        staf'f's    effort     to balance         business       viability        with     mitigation         of neighborhood              impacts.
+  He acknowledged,                 however,          that enforcement               limitations        remain        a concern,        particularly          given
+  that such regulations               would         apply    broadly        across qualifying               cornrnercial        properties        and could
+  be difficult         to monitor         continuously.          He concluded              by emphasizing              that the current           code
+  framework            is intentionally            structured     to minimize            land use conflicts               and that any allowance                   of
+  outdoor       reception        center uses should               be carefully           considered         within      a conditional          use
+  framework            to address potential             impacts        on adjacent            residential      areas.
+
+
+   Vice Chair       Larsen         opened       the public        hearing.
+
+
+  Madeleine         Tate, representing                the applicant,         emphasized              the unique        characteristics          of the
+  property        and clarified          the intent      behind       the proposed             outdoor       event use. She stated that the
+  applicant       does not intend              to host large-scale            events       and indicated             that a reduced          capacity         of
+  approximately            100 attendees-rather                   than 150-would                   be sufficient          given     the site's
+  constraints,         including         limited     restroom         facilities.      She explained             that the proposal            aims to
+  establish       a small,      boutique-style           venue focused               on weddings,            corporate       retreats,       and similar
+  gatherings,       rather       than high-intensity              or late-night          events.       Tate noted that there are limited
+  comparable           venues      within       Millcreek,        identifying           an opportunity            to provide        a local      option       with
+  potential       benefits      such as discounted               access for residents.                 She acknowledged                  concerns       raised
+  by neighboring             property         owners,       particularly       regarding           noise and impacts,               and stated that
+  efforts      would     be made to minimize                    disturbances.           She further         indicated       that the proposed
+  venue would            operate     on a limited,           seasonal basis-significantly                         fewer     days per year than
+  comparable           venues      in the region-and                 asserted that this reduced                     frequency       would       help limit
+  overall      impacts       while    still    supporting         the viability          of the use. She handed                   the commission               a
+  local venue comparison                   with      the Woodhaven              at Millcreek,           Carmelle          Reception         Center,      Meet
+  Me on 33"d, Cactus               & Tropicals,             and Grandview              Event      Center      with     the number           of directly
+  impacted        neighbors,         parking        count,      days a week           and months            a year of operation,              elevation
+  change,       number         of guests,      and whether            there was outdoor                seating.
+
+
+  Dorothy       Byes reiterated            her opposition             to the proposed              use, emphasizing               the distinction
+  between       the property          as a business           venture       and the surrounding                 properties         as long-tenn
+Millcreek         Planning            Commission            Meeting         Minutes                              15 April       2026      Page 10 of 17
+
+
+
+   residences.             She expressed           concern        about the lasting          impact       of the proposal           on the residential
+   character          of the neighborhood                 and affirined        her objection           based on the importance                  of
+   preserving             the integrity        and livability            of her home       environment.
+
+
+   Vice Chair             Larsen        closed    the public        hearing.
+
+
+   Commissioner                Larsen       said he was not comfortable                     removing        the 300 foot limitation.
+   Coinmissioner               Burgess         was also concerned              about the 300 foot limit.                 Coinmissioner
+   Richardson              was sensitive          to noise from           coi'nu'nercial     properties         and felt the proposed                1 lpm
+   time limit         was too late. Coinmissioner                        Anderson       wondered          if limiting       the operation         window
+   would         be helpful.          Coini'nissioner        Wright         said it was unfair          to make the neighbors
+   accommodate                their     social    schedules         around     the business.           Commissioner             Reid felt it would              be
+   a different            situation      if the business          was there before           the neighbors           moved       in. Corni'nissioner
+   Wright         worried       about enforcement.                 Sanderson          noted the proposed             standards          could be
+   changed.         The commission                 was not in favor            of removing            the residential        property        spacing       limit.
+
+
+Vice     Chair      Larsen         moved         that    the Planning           Commission              recommend              denial    to the City
+Council       pertaining              to the proposed             text    amendment,           ZT-25-006,           as proposed.
+Commissioner                Richardson            seconded.          Vice     Chair     Larsen         called     for the vote. Vice            Chair
+Larsen      voted         yes, Commissioner                 Anderson           voted    yes, Commissioner                   Burgess       voted       yes,
+Commissioner                Reid       voted     yes, Commissioner                Richardson            voted      yes, and Commissioner
+Wright        voted        yes. The motion              passed       unanimously.
+
+
+The coinmission               took a break           from    6:51-7:02pm.
+
+
+   Francis        Lilly      presented         a series of proposed            zoning       code text amendments,                   noting     that this
+   package         represents           tlie second       of three planned            updates,     with     a future      package        anticipated         to
+   address sensitive               lands, historic          preservation,        and additional            state requirements.               He explained
+   that the amendments                    are part of an ongoing               effort    to refine       and improve            the city's     relatively
+   new code in response                    to practical       implementation             issues,       evolving      circumstances,            and recent
+   statutory        changes,          including         updates     that required          renumbering           portions       of the code. He
+   emphasized              that many         of the proposed              cl'ianges are informed            by day-to-day           planning         and
+   zoning        activities,          such as addressing            nonconfonnities,             neighborliood           compatibility          concerns,
+   and common                property-related            questions.
+
+
+   Lilly    highlighted            one key component                 of the amendments                focused       on small       lot residential
+   zones (R-1-3,              R-1-4,      and R-1-5),        which         proposes     adjustments             to lot width,      setbaclcs, and lot
+   coverage         requirements             while      maintaining          existing      building      height      and envelope            standards.
+   Lilly    explained           that tliese changes               are intended        to address feedback               from     developers
+   indicating         that current          standards       make it difficult           to construct        viable      small-lot        detached       single-
+   family        homes.        He noted that, under                existing     regulations,          some configurations               could result         in
+   impractically             nanow        homes         or even make development                   of certain        lots-such          as corner       lots-
+   effectively            infeasible,       and that the proposed               amendments             aim to create more realistic                  and
+   flexible       development              options       within     these zones.
+
+
+   Murray         explained           that under        current     R-1-3     zoning       standards,       a minimum-sized               lot with      a
+   width      of 25 feet could be subject                    to a 20-foot        corner      side yard setback              and a 5-foot        setback         on
+   the opposite             side, effectively           leaving     no buildable           area on certain          corner      lots. He noted that
+Millcreek        Planning          Commission               Meeting           Minutes                            15 April          2026        Page 11 of 17
+
+
+
+   this creates a practical                 constraint       where       development               becomes       infeasible         despite       the lot
+   meeting        minimum            requirements.           He stated that the proposed                       amendment            would      reduce        these
+   setback       requirements              to ensure that construction                    is possible         on such lots, particularly                 given
+   that corner          lots can offer         added value due to dual frontage,                             increased      yard space, and
+   improved         fagade opportunities.
+
+
+   Lilly      explained         that although           certain      small-lot     residential           zones are designated                as R-1, they
+   currently       allow        for attached           housing       types such as duplexes,                  which       in practice        may be the
+   only feasible           development            option      under existing              standards.         He noted that the proposed
+   adjustments            are intended         to make it more practical                        to construct      detached         single-family             homes
+   within       these zones by addressing                    dimensional           constraints.           He emphasized              that these changes
+   worild       apply     only     to a limited          number       of properties             within     the city and are not intended                     to
+   broadly       expand         development             intensity,      but rather        to create more viable                infill      opportunities
+   within       existing        zoning.      He stated that the amendments                          would      provide       flexibility       for
+   developers           while     still    allowing       the city to evaluate              any rezoning             proposals          through      established
+   processes,        including            consideration          of the general           plan, neighborhood                compatibility,
+   infrastructure          capacity,         and ownership             patterns.        Lilly     referenced         comparable            small-lot
+   development             examples,          such as those in the Daybreak                         community,           to illustrate       market
+   demand         and feasibility            for this type of housing.                Additionally,            he introduced             proposed
+   adjustments           to R-2 and R-4 zone setbacks                         aimed       at encouraging             more pedestrian-oriented
+   design,       including        front-facing           entrances       and porches              that extend        beyond        garage-dominated
+   fagades. He noted that these changes                              are relatively         modest         in scope and would                primarily         affect
+   a limited      number          of existing          zones within           the city.
+
+
+  Brad        Sanderson          described       a development                challenge          involving      a narrow,          elongated       parcel
+  where        existing      zoning         and dimensional             standards         make typical           residential         development
+  impractical.          He explained            that accommodating                  internal         access roads and required                    setbacks
+  significantly           reduces         the buildable          area, limiting          the site's       feasibility      for anything           beyond          a
+  single       home on a disproportionately                       large lot. In response,                 staff explored           potential       zoning
+  adjustments           within       R-2 and R-4 districts,               drawing          on prior        experience,         to allow        more      flexible
+  site design-particularly                     by encouraging             side- or rear-loaded                 garages       and permitting
+  residential       structures            to be positioned           closer      to the street. This approach                   would        prioritize
+  front-facing          living     spaces and porches,                 enhance        pedestrian-oriented                 streetscapes,           and make
+  better use of constrained                   infill     properties.       Sanderson             noted that this concept                 corild be tested
+  initially      in limited        R-4 areas as a pilot,               with     the potential            for broader       application         if proven
+  successful        in improving              development            feasibility        and neighborhood                 design.
+
+
+  Lilly       explained      several        proposed        code refinements                aimed        at improving          clarity,      functionality,
+  and neighborhood                 compatibility.           He noted that one change                       introduces        a two-tiered            front    yard
+  setback,       maintaining              a 25-foot      setback       for garage         entrances          while      allowing        other portions            of a
+  structure       to be positioned             closer      to the street to support                  improved         design       and streetscape
+  interaction.          He also outlined               updates     to neighborhood                 compatibility          modification            standards,
+  emphasizing            that while         the core intent           remains      unchanged,              the revisions         clarify      and in some
+  cases tighten           requirements           by mandating            broader          analysis        of surrounding            properties         and
+  simplifying           previously          complex        tables into more user-friendly                       formats.
+
+
+  Lilly     described        significant        updates       to nonconfori'nity                 regulations,        which      are frequently
+  encountered           in day-to-day           planning          activities.      These         changes       distinguish         between         different
+Millcreek       Planning        Commission                Meeting         Minutes                                  15 April        2026         Page 12 of 17
+
+
+
+   types of nonconfori'nities               and how they may be expanded,                                 establish        clearer     rules for changes
+   in use and abandom'nent,                 and define          how structures                 are treated        when        demolished         under
+   varying      circumstances.           He noted that these revisions                           draw heavily             from     comparable
+   ordinances        and are intended             to create a more consistent                       and understandable                 process         for
+   applicants       and staff. Finally,            he addressed            amendments               to tlie tree preservation                  ordinance,
+   highlighting       challenges          with     enforcement             under       current       rules and introducing                   a one-year
+  "look-back"         provision          to prevent         preemptive          tree removal              prior       to development            applications,
+   tliereby     strengthening          the city's         ability     to preserve             existing     tree canopy.
+
+
+   Murray       provided       additional         detail     on proposed              amendments                to the tree preservation
+   ordinance,       emphasizing            efforts    to prevent           the preemptive                 removal       of trees prior          to
+   development.            He explained          that the introduction                  of a one-year             "look-back"          provision         would
+   allow      the City to utilize          GIS and regularly                updated           satellite     imagery,          along with        professional
+   arborist     assessments,          to verify       whether          trees were recently                 removed         and require          appropriate
+   replacement        as part of a development                       application.         This      approach           is intended          to discourage
+   property       owners      from     clearing       trees to avoid            compliance               with     preservation         standards.
+
+
+   Murray       also addressed           practical        challenges         in meeting            current        replanting        requirements,             noting
+   that in some cases the number                      of required          replacement             trees is not feasible               for a given           site. To
+   address this, proposed                changes      include          the creation            of a fee-in-lieu           or tree fund option,
+   allowing       applicants       to contribute           toward        broader        community               tree planting         efforts        when on-site
+   replacement        is    impractical.         Additionally,            provisions            would      allow       for shared responsibility
+   with     neighboring        properties         to accommodate                replacement               requirements.            Murray        emphasized
+   tliat the goal is to maintain                 and enhance            overall       tree canopy           coverage           across the city rather
+   than overburden            individual         properties.          Other updates              include        refined       definitions,       adjustments
+   to minimum         tree size thresholds                 for preservation             requirements,              and increased             replacement
+   obligations       for the removal             of larger,         mature      trees to better            reflect      their environmental                  value.
+
+
+   Lilly    presented        a compreliensive              set of zoning           and development                    code amendments,                 noting
+   they are part of an ongoing                   effort     to improve          clarity,        consistency,            and implementability                  of the
+   city's     regulations      while      responding           to emerging             policy      needs and administrative                      challenges.
+   He explained           that many        of the proposed              changes         address ptactical               issues encountered               in daily
+   planning       work,      including      clarification            of standards,             resolution         of ambiguities,            and refinement
+   of processes       used by staff and applicants.                       Key      planning         and zoning            updates      include
+   adjustments        to accessory          dwelling         unit regulations                 to expand          compliance          with     state law by
+   allowing       internal     ADUs        in additional             residentially         designated            zones where           single-family
+   dwellings       are permitted,          subject        to simplified           proof        of owner-occupancy                  requirements.             Lilly
+   also described          new standards             for commercial               and manufacturing                    zones requiring           inoperable           or
+   dismantled       vehicles       and parts to be stored indoors                          to improve            code enforcement               consistency.
+   Additional       procedural         changes        would          streamline         municipal           utility     and street vacation              reviews
+   by assigning        decision-making               authority          to the City           Council,       while      also standardizing              noticing
+   requirements           for subdivision          applications           to ensure a consistent                      21-day     public      review      period
+   for Planning       Coinmission            matters.        The amendments                     further     include        revisions        to open space
+   requirements         in the MD          zone to provide              more       flexibility        for higher-density               and affordable
+   housing      projects,      as well      as updates          to parking            standards          for senior       housing      to better        reflect
+   operational       needs of independent                   living      facilities.       A new district              blade      sign provision          is also
+   proposed       for hotel       developments             to allow        a non-electronic,               placemaking-oriented                      signage
+   feature     consistent      with      city center design               goals.      Lilly      additionally           outlined      clarifications           to
+Millcreek       Planning          Commission            Meeting           Minutes                             15 April        2026        Page 13 of 17
+
+
+
+   development          standards,         including        restoration          of planned        unit development              envelope          language,
+   improved         definitions       for building          height       and architectural           features,     and clearer           fence height
+   measurement           standards,        including         reinforcement            of restrictions          on berm usage to artificially
+   increase      fence height.        Finally,        revisions         to clear view         regulations        would       reintroduce          prior
+   code language          to improve          enforcement               near rights-of-way            where      pavement          edges and survey
+   markers       are unclear.
+
+
+   Lilly    noted that public          feedback           has been limited            but includes           cornrnents         from     coinrnunity
+   councils,       and staff recommends                 either        continuing      the item for further              consideration             or
+   forwarding        the proposed            ordinance        to City       Council        for adoption         with    any additional             changes
+   identified       by the Commission.
+
+
+   Vice Chair        Larsen       opened       the public        hearing.
+
+
+   Jamie Allyn         said the East Mill              Creek         Comi'nunity      Council         recommended               a continuation             of the
+   application.
+
+
+   Vice Chair        Larsen       closed     the public         hearing.
+
+
+   Commissioner           Larsen       asked about nonconforming                           fence heights        and demolition             of
+   nonconforming             structures       by wind,        fire, earthquake,             etc. Lilly       explained       that the city currently
+   provides        a neighborhood            compatibility            modification          option     for fencing;         however,         the existing
+   language        was narrowly         drafted        and lacked          clear distinctions            between        front    yard and rear yard
+   fence standards.            As written,       the provision            could     allow     a property        owner        to request         a taller
+   front    yard fence by citing             taller    rear yard fences in the surrounding                         neighborhood              as
+  justification.       Lilly      noted that, under             state statute,       the plain       reading      of the code language
+   generally       governs,       creating     the potential             for unintended          interpretations           that could       circumvent
+   established       fence height          regulations.         To address this issue, staff revised                        the language              to clarify
+   that any neighborhood               compatibility             comparison          must be "like            for like,"     meaning         that front
+   yard fence modification                 requests       may only be evaluated                  against       comparable          front     yard fences,
+  rather      than rear yard fencing.             Lilly      clarified         the distinction        between       the destruction             of a
+  noncomplying            struchire        and the destruction                 of a structure        containing        a nonconforming                   use,
+  noting       that while       the difference         is narrow,          it is significant         because      it affects      applicable             timing
+  requirements          for restoration.         He explained              that the ordinance               provides       specific      provisions             for
+   structures      housing        nonconfoi'ming            uses that are damaged                  by events such as fire, wind,
+   earthquake,        or other acts of God, provided                       the use has not been abandoned.                        Under         the
+  ordinance,        a nonconforming              use may be resumed                   and the structure           restored        to its prior
+  condition        if certain     thresholds          are met: the property                owner      must demonstrate                 an intent       not to
+  abandon        the use by responding                 within        one year, obtain          a building        permit       within       six months,
+  and complete          the restoration          process,        including         final    inspection        and certificate           of occupancy,
+  within       two years of permit            issuance.         Lilly     noted that these timelines                   are intended         to provide
+  property       owners        and builders       with      reasonable           time to navigate            the challenges            associated          with
+  insurance        claims,      inspections,          and rebuilding            after unforeseen             damage.
+
+
+  Coinmissioner           Reid expressed              support         for the proposed           off-site     tree replacement              policy        and
+  the tree removal             look-back       provisions,            noting     appreciation         for the added protections                    for
+  preserving        existing      trees. She raised             a concern         regarding        situations      in which        a developer             may
+  technically        preserve       a tree during          initial      site work     but alter the surrounding                   grade or fail to
+Millcreek       Planning           Commission            Meeting       Minutes                                15 April         2026       Page 14 of 17
+
+
+
+   provide       adequate       care, ultimately            leading        to the tree's         decline    or removal          later in the
+   development            process.      She referenced             a prior     neighborhood               example      where      site grading
+   significantly          changed      the surrounding              land elevation,           contributing          to the eventual         loss of a
+   mature       tree. She asked whether                  the proposed           ordinance         language         would      adequately         address
+   similar      scenarios       by holding         developers         accountable           for the long-teri'n            preservation          and proper
+   care of trees intended              to remain         on-site.
+
+
+   Lilly     said staff could          consider      adding        language       that talks about trees that are lost during                             the
+   course of development.                 Comi'nissioner             Larsen      expressed          support        for the small       lot refon'n
+   changes,        tl'ie setback      changes       for R-2 and R-4 zones, the changes                             to better    enable
+   neighborhood             compatibility,         and modifications               for expansions            and the look back provision                         for
+   tree preservation.
+
+
+Commissioner              Wright       moved       to continue             to the next        Planning        Commission              meeting           for
+additional       consideration.           Commissioner                Richardson              seconded.        Vice     Chair      Larsen         called
+for the vote.       Vice      Chair     Larsen          voted     yes, Commissioner                  Anderson          voted      yes,
+Commissioner              Burgess       voted      yes, Commissioner                   Reid      voted     yes, Commissioner                Richardson
+voted      yes, and Commissioner                   Wright         voted      yes. The         motion       passed      unanimously.
+
+
+2. New Item
+   2.1 Consideration                 of CUP-26-003/SD-26-002,                      Request          for    a Conditional           Use Permit                 and
+   Major       Subdivision            to Accommodate                 a Mixed-Use              Development             with     17 Units        and 1,500
+   Square        Feet of Commercial                 Space        Location:        3347 S 900 E Applicant:                       Moffat
+   Construction             Planner:       Carlos        Estudillo
+   Carlos      Estudillo       presented         a conditional        use permit           and major        subdivision         application             for a
+   mixed-use         townhome           development             at 3347 Soutli          900 East. Tlie proposal                 includes       17
+   townhome          units,     and 1,500        square feet of commercial                       space incorporated             as live-work            units
+   intended       for owner          occupancy.         He explained           that the O.79-acre             site is located         within      a
+   commercial         zone      that permits        multifamily             residential       development            when paired          with      a
+   coini'nercial       component,          despite       the future         land use designation              of Neighborhood               One. Based
+   on the zoning            code's     density     standard         of one dwelling              unit per 2,000        square feet, the site
+   supports      the proposed           I 7-unit     density.       The project           is organized        into three buildings,              with         two
+   six-unit     buildings        and one five-unit              building,      and includes            three floor      plan types,        all consisting
+   of four-bedroom,             three-story        units.       Building      heights       are limited       to 35 feet due to proximity                       to
+   adjacent      single-family          residential         properties,        although          the zone would            otherwise       allow        up to
+   45 feet.
+
+
+   Estudillo       further     outlined       the project's         compliance            with    commercial          live-work          standards,
+   including       frontage        requirements           along 900 East, minimum                      coinmercial           space thresholds,                floor
+   elevation       standards,         and transparency             requirements           for street-facing           facades.        He noted that the
+   proposal       also meets private              and common           open space reqriirements                     and includes          landscaping
+   buffers      in accordance          with      city code. During             the public         outreach     process,        neighboring
+   residents       raised     concerns        related     to privacy         impacts       from     second-story           balconies       overlooking
+   adjacent      single-family          properties,         increased        traffic      congestion        along     900 East, and the
+   potential      for overflow          parking      on nearby         streets. Estudillo              explained       that while        the code does
+   not prohibit       balconies         in this context,           additional      landscaping             could    be considered           as a
+   mitigation       measure          to address privacy             concerns.          He also reviewed             the project's        parking         plan,
+   which       includes       34 residential        garage stalls and eight additional                        guest and coininercial                parking
+Mfflcreek           Planning          Commission                 Meeting           Minutes                               15 April            2026        Page 15 of 17
+
+
+
+
+    stalls,    meeting         code requirements.                     He noted        that the Millcreek                Community                Council
+    recoinmended               approval          of the application                with     a condition           prohibiting            parking         along       900 East
+    in front      of the property.               Staff     recommended                approval         as presented,             while       acknowledging                    that
+    the Planning            Cornrnission             could       consider          additional         conditions         if deemed            necessary           to
+    mitigate        identified        impacts.
+
+
+    James       Smith,        with    Moffat         Construction             representing            the applicant,             expressed           appreciation                  for
+    staff     for their       collaboration           througliout            the application             process        over     the past several                months.
+    He stated          that the applicant                is willing        to work        with      the city      to address           parking        concerns,
+    noting      that similar          issues      have been             successfully            managed          on other        projects        through          measures
+    such as painted              curbs,     posted         signage,         and agreements                with       snow      removal        and maintenance
+    providers,         with      the homeowners                  association          able to respond                promptly           if parking          issues        arise.
+    Regarding           privacy       concerns            from    balconies           facing        the neighboring              residential          property,            Smith
+    indicated         a willingness           to discuss          modifications              with      the property            owners,        including
+    increasing         landscape          buffering          or replacing            upper-level           balconies           with      ground-level             patios
+    that would          be more         effectively           screened            by shrubs       while      still     meeting          code requirements.                       He
+    also noted         that the applicant                plans     to install        a six-foot        vinyl         fence     along      the shared          property
+    line    to provide         additional          screening            and improve            privacy       for adjacent              residents.
+
+
+    Vice      Chair       Larsen      asked       for public          coinrnent.          There       was none.          Vice        Chair    Larsen          asked          for
+    clarification          that the applicant               is amenable             to a rear patios             instead       of balconies,             to taller
+    landscaping,           screening          and striping              or signing         900 E to mitigate                 these     standards,           but staff         did
+    not recoinmend               them      as conditions.               Estudillo         clarified      that staff          had not initially              identified             the
+    proposed          mitigation        measures            as forinal        conditions            of approval          but noted           that the Planning
+    Coinmission            has the authority                to recorni'nend            such       conditions           if it detennines              they     are
+    necessary          to address         potential         detrimental            impacts.         He explained              that while         staff      could         work
+    collaboratively            with     the applicant             to implement               mitigation          measures            voluntarily,           formalizing
+    them      as conditions           of approval            would         provide        enforceability              and ensure           that identified
+    concerns          are adequately             addressed.
+
+
+    Cornrnissioner             Burgess        recoini'nended               the patio         over     the balcony             and the higher             foliage          and
+    expressed          concern        about      parking.         Coiumissioner                Larsen        asked      about         restricting        the parking                on
+    900 E. Lilly           said it would          be on the Public                  Works        Department             to put a work               order     into        Salt
+   Lake       County        Operations.
+
+
+Commissioner               Larsen         moved           that    the Planning               Commission                recommend               approval              of
+application           CU-25-006            and     SD-26-001,               as presented,             with       the conditions               that     rear       patios           be
+included       instead         of balconies,              that    taller      landscape             screening          be required             along         the east
+perimeter,          and     recommend              to the        city      that     measures           be taken         to prohibit            parking            on 900 E
+in front      of the property.              Commissioner                    Burgess          seconded.           Vice        Chair       Larsen          called        for       the
+vote.   Vice     Chair        Larsen        voted         yes, Commissioner                      Anderson             voted      yes, Commissioner
+Burgess        voted      yes, Commissioner                      Reid       voted      yes, Commissioner                       Richardson             voted          yes, and
+Commissioner               Wright         voted       yes. The           motion        passed         unanimously.
+
+
+3. Commission              Business
+   3.1 Approval               of March         18,       2026     Regular           Meeting           Minutes
+Millcreek           Planning           Commission               Meeting           Minutes                                     15 April            2026          Page 16 of 17
+
+
+
+
+Commissioner                  Larsen         moved          to approve            the     March          18,    2026         Regular             Meeting             Minutes.
+Commissioner                  Richardson              seconded.           Vice        Chair       Larsen          called           for    the vote.        Vice        Chair
+Larsen          voted       yes, Commissioner                    Anderson               voted     yes, Commissioner                          Burgess            voted         yes,
+Commissioner                  Reid      voted        yes, Commissioner                     Richardson               voted           yes, and        Commissioner
+Wright          voted       yes. The         motion          passed       unanimously.
+
+
+   3.2 Housing                Subcommittee                  Report
+    Coi'mnissioner               Richardson            reported          on recent         outreach            and housing               policy         discussions,               noting
+   that he met with                  the Millcreek            Youth           Council      to provide            a high-level               overview            of housing-
+   related        proposals           currently        under          consideration             and to facilitate              a discussion               on affordable
+   housing          in the city.          As part          of the meeting,             Youth       Council         members                participated               in a mapping
+   exercise         identifying           where        they     currently          live    and where             they     would           like    to live        in tlie future,
+   which          led to a broader              conversation             about        housing        costs,      neighborhood                    preferences,               and the
+   cl'iallenges            of affordability,            particularly            in higher-cost             areas of the coininunity.                           The      discussion
+   also covered               potential       approaches              to addressing             housing          affordability,              including           urban            living
+   trade-offs,             public     transportation,               and cycling           infrastructure.               Commissioner                    Richardson
+   concluded               the Youth         Council         meeting          by explaining              recent       zoning             code     changes            and
+   encouraging               continued          youth        engagement,              particularly             as the city           prepares           to update           its
+   general         plan      in the ripcoming                fiscal     year.
+
+
+   Commissioner                  Ricliardson           also reported             that     the city's        housing            subcommittee                    met     earlier        in
+   the day to discuss                 next      steps for small               lot and other          housing            refori'n         initiatives.          He explained
+   that the subcommittee                      determined               that proposed             housing-related                   changes         would         be
+   incorporated               into    the upcoming              general         plan      update         process        to maximize               public         engagement
+   and ensure              a robust       priblic     record          for reviesv         by the Planning                Commission,                    City    Council,             and
+   cornrnunity              councils.        He noted          that this approacli                will     provide           greater        opportunity               for
+   residents            to share input          on the proposed                  reforms.        He added             that     community                 councils           will     be
+   invited         to participate           in early         discussions          with      the housing            subcommittee                    to begin           reviewing
+   and discussing               the potential              changes,        and he stated             that future           updates           would        be provided                 as
+   the process              moves       forward.
+
+
+   3.3 Updates               from       the Planning                Director
+   Francis         Lilly      did not have            anything          to report.
+
+
+4. Calendar             of Upcoming                 Meetings
+   *     City     Corincil       Mtg.      4/27/26,          7:00 p.m.
+   *     City     Council        Mtg.      5/1 1/26,         7:00      p.m.
+   *   Historic          Preservation           Commission                Mtg.        5/14/26,       6:00      p.m.
+   *   Planning            Coinrnission             Mtg.     5/20/26,          5:00     p.m.
+
+
+
+
+ADJOURNED:                      Commissioner                  Richardson                moved        to adjourn               the meeting                 at 8:19           p.m.
+Commissioner                 Anderson            seconded.             Vice      Chair         Larsen          called        for     the vote.          Vice         Chair
+Larsen          voted      yes, Commissioner                    Anderson               voted      yes, Commissioner                          Burgess            voted        yes,
+Commissioner                 Reid       voted       yes, Commissioner                      Richardson              voted            yes, and        Commissioner
+Wright          voted       yes. The        motion          passed        unanimously.
+Millcreek   Planning   Commission   Meeting   Minutes    15 April   2026   Page 17 of 17
+
+
+
+
+                       wpnovvo:
+                           €-shawnaMa,trCha[lr44[nate7lyl,,,
+                        Attest:       ElysPL, Recorder

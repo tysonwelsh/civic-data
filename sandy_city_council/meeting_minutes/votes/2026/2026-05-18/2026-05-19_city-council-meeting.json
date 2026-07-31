@@ -1,0 +1,44 @@
+{
+ "date": "2026-05-19",
+ "year": 2026,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2026/2026-05-18/2026-05-19_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Brooke D'Sousa, seconded by Alison Stroud, to approve the minutes as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Brooke D'Sousa",
+   "seconder": "Alison Stroud",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Kris Nicholl, seconded by Brooke Christensen, that this Motion to adopt ordinance 26-47",
+   "motion_type": "Ordinance",
+   "result": "5-0 Pass",
+   "mover": "Kristin Coleman-Nicholl",
+   "seconder": "Brooke Christensen",
+   "aye": [
+    "Alison Stroud",
+    "Kristin Coleman-Nicholl",
+    "Cyndi Sharkey",
+    "Brooke Christensen",
+    "Brooke D'Sousa"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  }
+ ]
+}

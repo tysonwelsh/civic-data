@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": null, "name": "Norman Stevens", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Phil Mecham", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Maurine Helm", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Mary Ellen Reid", "amount": "200.00", "in_kind": false},
+    {"date": null, "name": "Mary Owens", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Midvale City filing fee", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Signs on the cheap", "purpose": null, "amount": "827.80", "in_kind": false}
+  ],
+  "total_contributions": "550.00",
+  "total_expenditures": "877.80",
+  "contributions_50_or_less": "50.00",
+  "beginning_balance": "0.00",
+  "ending_balance": "-327.80",
+  "_meta": {
+    "index_path": "raw/2025_10_David-Fair.pdf",
+    "candidate": "David B. Fair",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_10_David-Fair.pdf",
+    "pages": 4
+  }
+}

@@ -1,0 +1,198 @@
+# Cottonwood Heights Planning Commission — 2022-10-12
+> Source: https://www.utah.gov/pmn/files/903707.pdf
+> Meeting date: 2022-10-12
+> Format: pdf-text
+
+---
+
+
+> Source URL: https://www.utah.gov/pmn/files/903707.pdf
+> Meeting date: 2022-10-12  ·  Retrieved: 2026-07-13  ·  Format: pdf-text  ·  Source: pmn
+
+---
+
+ 1
+ 2                       MINUTES OF THE COTTONWOOD HEIGHTS CITY
+ 3                               ADMINISTRATIVE HEARING
+ 4
+ 5                                      Wednesday, October 12, 2022
+ 6                                              12:00 p.m.
+ 7                                        City Council Chambers
+ 8                                      2277 East Bengal Boulevard
+ 9
+10   ATTENDANCE
+11
+12   Present:       Michael Johnson, Community and Economic Development Director/Hearing Officer
+13                  Heather Sundquist, Deputy City Recorder
+14                  Maverick Yeh, Assistant City Planner
+15
+16   ADMINISTRATIVE HEARING
+17
+18   1.0    Business Items
+19
+20   Community and Economic Development Director/Hearing Officer, Michael Johnson called the
+21   meeting to order at 12:00 p.m. and welcomed those present.
+22
+23          1.1     (Project CUP-22-015) Request from Reza Ahmadi for Conditional Use Approval
+24                  of an Eight-Foot Metal Fence along the South Portion of the East Property at
+25                  8853 South Sutton Way.
+26
+27   City Planner, Maverick Yeh, presented the Staff Report and stated that the above request is for
+28   Conditional Use Approval of an eight-foot metal fence along the south portion of the east property
+29   located at 8853 South Sutton Way. The applicant requested the additional fencing height to provide
+30   privacy as the neighboring property intends to pour an RV parking pad up to the property line. The
+31   eight-foot fencing will limit the visibility of the RV and provide additional screening. The maximum
+32   fencing height allowed is eight feet in any zone as a Conditional Use and up to 12 feet with a
+33   Conditional Use Permit and the consent of the neighbor. Proper notice was given with one comment
+34   received. Staff recommended approval with conditions set forth in the Staff Report.
+35
+36   The applicant, Reza Ahmadi, reported that the fence is located at the lowest point on the property and
+37   seems shorter than eight feet largely due to grade. He believed the proposed fencing will be
+38   maintenance-free and aesthetically pleasing.
+39
+40   Mr. Johnson opened the public hearing.
+41
+42   Mr. Johnson stated that due to the location, fencing higher than four feet is not permitted in the front
+43   yard. City Code restricts the first 25 feet of fencing to four feet with increased height allowed in the
+44   side and rear yards. He understood the request for privacy and questioned the increasing height along
+45   the rear.
+46
+47   Mr. Ahmadi stated with the way the properties are situated there are areas of the yard where the six-
+48   foot line of sight will be visible. Prior to designing the fence, the requirements were reviewed with
+
+     APPROVED Cottonwood Heights Administrative Hearing – 10/12/22                                         1
+ 1   former City Planner, Andrew Hulka, who indicated that a six-foot fence in the indicated location may
+ 2   be pursued. A visual rendering was provided.
+ 3
+ 4   Mr. Johnson understood the applicant’s concern and confirmed that the City Code specifies that the
+ 5   first 25 feet require a maximum height of four feet. The area in question is viewed as the front yard.
+ 6   He recommended either approving the request with conditions or continuing the item to allow for
+ 7   further discussion with Staff. He explained that the Conditional Use process does not apply to front
+ 8   yard fencing.
+ 9
+10   The applicant’s representative, Wayne Gordon, presented a plan rendering showing the front yard
+11   setbacks. He asked if there was a precedent for a fencing alternative. Allowing landscaping to serve
+12   as screening was discussed.
+13
+14   There were no further comments. The public hearing was closed.
+15
+16   Mr. Johnson moved to CONTINUE consideration of CUP-22-2015 to the November
+17   Administrative Hearing.
+18
+19          1.2     (Project CUP-22-016) Request from Drew Rothkopf for Conditional Use
+20                  Approval of a Short-Term Rental at 3549 East Wasatch Grove Lane.
+21
+22   Mr. Yeh presented the Staff Report and stated that the above request is for Conditional Use approval
+23   of a short-term rental at 3549 East Wasatch Grove Lane. The property is located in the R-2-8 Zone
+24   where short-term rentals may be approved. The property is part of a Planned Unit Development
+25   (“PUD”) that includes 107 units. Staff recommended approval with conditions set forth in the Staff
+26   Report.
+27
+28   Mr. Johnson reported that these types of short-term rental requests are common in similar
+29   developments when in compliance with City Code.
+30
+31   Mr. Johnson opened the public hearing. There were no public comments. The public hearing was
+32   closed.
+33
+34   Mr. Johnson moved to approve Project CUP-22-016 with the following:
+35
+36   Conditions:
+37
+38          1.      The applicant must complete the necessary steps to obtain a Business License
+39                  through the City of Cottonwood Heights. Obtaining a Business License will indicate
+40                  final approval of the Short-Term Rental Application. The short-term rental property
+41                  will not be considered legal until a Business License is obtained.
+42
+43          2.      The short-term rental property is required to maintain compliance with all sections
+44                  and subsections of Chapter 19.89 and Chapter 5.85 of the Cottonwood Heights
+45                  Municipal Code, as hereafter amended from time to time, and all other legal
+46                  requirements and applicable laws.
+47
+
+
+     APPROVED Cottonwood Heights Administrative Hearing – 10/12/22                                       2
+ 1         3.     Occupancy in any short-term rental property shall not exceed the lesser of: (a) up to
+ 2                two adults (persons aged 18 and above) and two related children (persons under age
+ 3                18) per bedroom or (b) a total occupancy (adults and children) of no more than 12
+ 4                persons in the entire short-term rental property. It is prohibited to create artificial
+ 5                divisions or partitions for the purpose of increasing available occupancy of an
+ 6                otherwise standard dwelling unit.
+ 7
+ 8         4.     This short-term rental property will be approved for no more than four (4) bedrooms.
+ 9                The term “bedroom” means a room designated and used primarily for sleeping and
+10                rest on a bed.
+11
+12         5.     Upon issuance of a Business License and Conditional Use Permit, the applicant
+13                must display a copy of the Business License inside the main entry of the property.
+14
+15         6.     The facility and its use shall comply with all applicable laws, rules, and regulations,
+16                including those instituted by the state, county, county health department, or the City
+17                to mitigate the impact of the COVID-19 pandemic.
+18
+19   Findings:
+20
+21         1.     The proposed short-term rental meets the applicable provisions of Chapter 19.89
+22                and Chapter 5.85 of the Cottonwood Heights Municipal Code.
+23
+24         2.     The proposed project will continue to meet the applicable provisions of
+25                Chapter 19.84, “Conditional Uses,” of the zoning code:
+26
+27                a.     The proposed use is one of the conditional uses specifically listed in the
+28                       zoning district in which it is to be located (19.89.050).
+29
+30                b.     Such use will not, under the circumstances of the particular case, be
+31                       detrimental to the health, safety, comfort, order, or general welfare of
+32                       persons residing or working in the vicinity.
+33
+34                c.     The use will comply with the intent, spirit, and regulations of this title and
+35                       will be compatible with and implement the planning goals and objectives of
+36                       the City.
+37
+38                d.     The use will be harmonious with the neighboring uses in the zoning district
+39                       in which it is to be located.
+40
+41                e.     Nuisances which would not be in harmony with the neighboring uses will be
+42                       abated by the conditions imposed.
+43
+44                f.     Protection of property values, the environment, and the tax base for the city
+45                       will be assured.
+46
+47                g.     The use will comply with the City’s General Plan.
+48
+
+     APPROVED Cottonwood Heights Administrative Hearing – 10/12/22                                     3
+ 1                 h.     The property will be required to comply with all conditions of approval in
+ 2                        perpetuity, in accordance with sections 19.89.160 – Inspections and
+ 3                        19.89.190 – Violations and penalties of the Cottonwood Heights Municipal
+ 4                        Code.
+ 5
+ 6   2.0    Consent Agenda
+ 7
+ 8          2.1    Approval of Minutes for October 12, 2022.
+ 9
+10   Mr. Johnson moved to approve the Minutes of October 12, 2022.
+11
+12   3.0    Adjournment
+13
+14   The Administrative Hearing adjourned at approximately 12:17 p.m.
+
+
+
+
+     APPROVED Cottonwood Heights Administrative Hearing – 10/12/22                                 4
+1   I hereby certify that the foregoing represents a true, accurate, and complete record of the
+2   Cottonwood Heights City Administrative Hearing held Wednesday, October 12, 2022.
+3
+
+4   Teri Forbes
+5   Teri Forbes
+6   T Forbes Group
+7   Minutes Secretary
+8
+9   Minutes Approved: October 20, 2022
+
+
+
+
+    APPROVED Cottonwood Heights Administrative Hearing – 10/12/22                             5
+

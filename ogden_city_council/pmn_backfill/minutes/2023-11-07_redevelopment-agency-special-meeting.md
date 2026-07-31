@@ -1,0 +1,228 @@
+# Redevelopment Agency Special Meeting — 2023-11-07
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw PDF: pmn_backfill/raw/ogden_2023-11-07_RDA.pdf  |  file id 1085551.
+> Recovered 2026-07-05 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new RDA minutes — flag for promotion review.
+
+---
+
+         Minutes of Special Meeting of Redevelopment Agency of Ogden City, Utah, November 7, 2023 Page
+
+
+         Minutes of the special meeting of the Ogden City Redevelopment Agency held on Tuesday, November 7, 2023 at 7:56
+p.m., in the Council Chambers, and via electronic meeting, on the third floor of the Municipal Building, 2549 Washington
+Boulevard, Ogden City, Weber County, Utah.
+
+         Present:           Chair                  Angela Choberka
+                            Vice Chair             Ken Richey
+                            Board members          Bart E. Blair
+                                                   Richard A. Hyer
+                                                   Ben Nadolski
+                                                   Marcia L. White
+
+                            Board Administrator Janene Eller-Smith
+                            Board Deputy Administrator Glenn Symes
+                            Communications and Public Engagement Coordinator Brandon Garside
+                            Communication Project Coordinator Eric Davenport
+
+         Excused:           Board member Luis Lopez
+
+         Also present:      Chief Administrative Officer Mara A. Brown
+                            Assistant City Attorney Katie Ellis
+                            Community and Economic Development Director Brandon Cooper
+                            Economic Development Manager Damen Burnham
+                            Deputy Business Development Manager David Sawyer
+                            Management Services Director Lisa Stout
+                            Deputy City Recorder Jason Gould
+
+
+Proposed Resolution 2023-19 authorizing the Executive Director to execute
+the terms and conditions of a Real Estate Purchase Contract for the
+purchase of property located at 1781 Gibson Avenue. (Continued from
+October 17, 2023)
+          A memo from the Community and Economic Development Department came before the Board to consider a resolution
+authorizing the Executive Director to execute a Real Estate Purchase Contract (REPC) for 1781 Gibson Avenue. The memo
+stated the Administration is requesting approval of an REPC with Nathanial Jones for the purchase of a duplex located at 1781
+Gibson Avenue for $725,000. This property is located within the proposed Gibson Community Reinvestment Area.
+          Community and Economic Development Director Cooper summarized the memo and presented a map identifying the
+properties currently controlled by the City, which the City has been purchasing since 2015. This assemblage of property has been
+referred to as the Gibson Grove area. It is contiguous to properties owned by Lotus Development, the firm performing
+development of property south of the Ogden River. They have plans to build a bridge spanning the Ogden River to connect their
+project to the Gibson Grove area. He noted the subject property, 1781 Gibson Avenue, is located in the middle of the City owned
+property; it contains a single-family home on .43 acres and is used as a duplex with two tenants currently occupying it. The
+purchase price is $725,000 and the City has paid earnest money of $5,000. The amount due at closing is $720,000 plus closing
+costs and he hopes to close by November 14, 2023. The funding source for the purchase is the Redevelopment Agency (RDA)
+Housing Fund. He presented a conceptual rendering of the type of housing project that could be developed on the property; it
+includes a variety of housing types – townhomes, single-family homes, and apartments – and would have 40 percent, or 6.75 acres
+of open space, which would enhance the Ogden River frontage.
+          Board member Hyer referenced another property in the project area that is not yet owned by the City; he asked if the City
+would also like to acquire it. Mr. Cooper answered yes but noted that it has not been for sale in the past. Purchasing 1781 Gibson
+Avenue makes the connection to that property much more manageable.
+          Board member Nadolski inquired as to the market value of the property. Mr. Cooper stated that the appraised value was
+$446,762 and it reflected the as-is condition of the property being used as a duplex and not what the valuation would be under any
+type of development scenario.
+          Board member Blair thanked Mr. Cooper for the numerous meetings he participated in with the Board to educate them on
+this proposal and answering their questions in preparation for making a decision. Chair Choberka agreed; she has appreciated the
+conversations about the potential for the area. She has reservations about purchasing properties at a price higher than appraised
+value, but she understands the desire to pursue an innovative project and providing different housing types in demand in the
+community. Mr. Cooper stated that the RDA’s participation in development of the area will create many great benefits for families
+with different economic means; the Agency’s housing programs are best in class. The project is very exciting to him and will add
+to the current single-family ownership projects currently underway in Ogden City.
+          Board member White also thanked Mr. Cooper for spending a great deal of time helping the Board understand the broad
+scope of the development potential of the area; she was having difficulty seeing the benefit of purchasing 1781 Gibson for a price
+much greater than appraised value, but considering the development of the project area as a whole has helped her to understand
+the opportunities that will be created in this neighborhood.
+          Board member Nadolski stated that he thinks the project concept is great, but each individual Board member has had to
+consider whether they feel the Agency can afford to purchase the subject property at a price much higher than the appraised value.
+Mr. Cooper agreed and noted that assembling the entire project area gives the Agency greater flexibility relative to the future use
+of the property, which could even include selling the property to another entity or developer for a greater value than the total spent
+to acquire all properties.
+          Chair Choberka introduced in writing proposed Resolution 2023-19, entitled:
+                   “A resolution of the Ogden City Redevelopment Agency approving and authorizing the Executive Director to
+                   execute a real estate purchase contract with Nathanial Jones, an individual, for the purchase of approximately
+                   .43 acres of real property located at 1781 Gibson Avenue, Ogden, Utah.”
+          Chair Choberka then called for public input regarding the proposed resolution.
+          Heath Satow referenced Mr. Cooper’s mention of the option of selling the property to a developer and he referenced the
+WonderBlock project, in which the City was speaking to a developer before purchasing the land, and that developer has now
+received bonuses and incentives funded by a $1 million loan from the City’s sewer fund. The Board was told that money would be
+recovered when the property was sold to a developer, but the City is now funding up to $100 million for the WonderBlock project.
+He has some difficulty in believing what the Board is being told by Mr. Cooper relating to the Gibson Grove project.
+          Angel Castillo stated that acquiring property is important if the Agency truly plans to pursue innovative housing solutions
+for the community. However, there are different ways to maintain control over the end use of a property, including land trusts or a
+partnership with another party, such as the public/private partnership that has occurred at Business Depot Ogden (BDO) for the
+management of that installation. Ogden City has done some great work with its RDA. She is supportive of purchasing the property
+but would encourage the Boad to impose hard parameters. She cited the goal of the Quality Neighborhoods Initiative but noted
+that the goal does not have any ‘teeth’ or metrics to be measured to ensure how close the Agency is to achieving that goal. It is
+imperative that the Board be very granular in determining how the success of a project or program will be measured.
+          Travis Pate discussed his experience working on the Ogden River Redevelopment Project, which encompassed the area
+between 18th and 20th Street and Washington Boulevard to Wall Avenue. That project was phenomenal, but now it seems the
+Agency is pushing development out of the downtown area with the justification that it is linked to a transportation hub. He noted
+that the Board continues to be made promises by Administration, but those promises are not delivered upon, and the Board needs
+to demand delivery before continuing to approve new redevelopment projects. He stated that if the Agency partners with Lotus
+Development, the project will be high rise apartments rather than single family homes as mentioned by Mr. Cooper.
+          There were no additional persons appearing to be heard.
+          Chair Choberka asked if the decision to sell the property at any point in the future would need to be approved by the
+Board. Mr. Cooper answered yes, all property transactions must be considered by the Board before they are finalized. He also
+indicated he is willing to partner with the Board on developing the conceptual plans for the project. Board member Nadolski stated
+that is very important to him but noted that his greatest concern remains the purchase price of the property.
+          Board member White noted that the Utah Legislature is working to adjust regulations relative to the types of development
+matters that must be presented to the Board; she believes what Mr. Cooper is doing actually exceeds what has been required by the
+Legislature. Board member Nadolski stated that achieving alignment with City Administration on these types of projects, in a
+public and transparent manner, will help to strengthen the public’s trust in City government and its processes. Chair Choberka
+agreed and added that the Board has been learning of these types of projects much earlier in the process than was the case in the
+past. She added she looks forward to detailed discussion about housing problems in the community and how the City can help
+residents to achieve home ownership and equity. She is optimistic for the future.
+          VICE CHAIR RICHEY MOVED THE RESOLUTION BE ADOPTED, AND THE CHAIR BE AUTHORIZED
+TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER BLAIR, WITH THE FOLLOWING ROLL
+CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, NADOLSKI, WHITE, VICE CHAIR RICHEY,
+AND CHAIR CHOBERKA. VOTING NO – NONE. Board member Lopez was not present when this vote was taken.
+          Board member Hyer stated that he would be very disappointed if the property were developed solely into an apartment
+complex; he was also uncomfortable paying a higher price than appraised value for the property, but his concerns were somewhat
+addressed by the commitment of a project that will include different housing types. Boad member Nadolski agreed; he was also
+concerned about the purchase price, but he feels better about doing it if it creates home ownership opportunities for residents of
+Ogden City.
+
+Proposed Resolution 2023-20 approving a first amendment to interlocal
+agreement between the Ogden City Redevelopment Agency and Ogden
+City authorizing the extension of the sharing of tax increment in the
+Continental Community Reinvestment Project Area; and
+Proposed Resolution 2023-21 approving a first amendment to interlocal
+agreement between the Ogden City Redevelopment Agency and Weber
+County authorizing the extension of the sharing of tax increment in the
+Continental Community Reinvestment Project Area; and
+Proposed Resolution 2023-22 approving a first amendment to interlocal
+agreement between the Ogden City Redevelopment Agency and the Ogden
+School District authorizing the extension of the sharing of tax increment in
+the Continental Community Reinvestment Project Area
+          A memo from the Community and Economic Development Department came before the Board to consider the extension
+of the Continental Community Reinvestment Project Area (CRA) and amending the interlocal agreements with Ogden City,
+Weber County, and the Ogden School District. The memo stated the purpose of the proposed extension of the Continental CRA is
+to support the bonds for the WonderBlock project. The Continental CRA plan and budget was approved initially in January 2019
+for a period of 22 years, expiring in 2041. In December 2021, the Board approved the two-year extension of seven project areas
+including the Continental CRA. No project area budgets changed with the 2021 extensions. The current expiration of the
+Continental CRA is 2043. Participating entities for the Continental CRA include Ogden City, Ogden School District, and Weber
+County. To support the bonds issued for the development of the WonderBlock project, the Administration is proposing an
+extension of the Continental CRA. The budget for the project area would remain the same but the collection period would be
+extended, and the participation level would be reduced during the extended years.
+          Community and Economic Development Director Cooper summarized the memo and stated the proposal is for the RDA
+Board to approve interlocal agreements between the RDA and the City, Ogden School District, and Weber County extending the
+collection period for the Continental CRA. The extension for the school district and the county would be for a period of six years
+and for the City would be for a period of 15 years. The extension of the collection period may be revoked, and the original
+collection period may be reinstated in the event the WonderBlock project is sold prior to the expiration of the extended tax
+increment period and the municipal bonds associated with the WonderBlock project are paid in full. He noted that Weber County
+and the Ogden School District have already approved the amended agreements on their end.
+          Chair Choberka introduced in writing proposed Resolution 2023-20, entitled:
+                   “A resolution of the Ogden City Redevelopment Agency approving a First Amendment to Interlocal Agreement
+                   between the Ogden City Redevelopment Agency and Weber County authorizing the extension of the sharing of
+                   tax increment in the Continental Community Reinvestment Project Area.”
+          Chair Choberka introduced in writing proposed Resolution 2023-21, entitled:
+                   “A resolution of the Ogden City Redevelopment Agency approving a First Amendment to Interlocal Agreement
+                   between the Ogden City Redevelopment Agency and the Ogden School District authorizing the extension of the
+                   sharing of tax increment in the Continental Community Reinvestment Project Area.”
+          Chair Choberka introduced in writing proposed Resolution 2023-22, entitled:
+                   “A resolution of the Ogden City Redevelopment Agency approving a First Amendment to Interlocal Agreement
+                   between the Ogden City Redevelopment Agency and Ogden City authorizing the extension of the sharing of tax
+                   increment in the Continental Community Reinvestment Project Area.”
+          BOARD MEMBER HYER MOVED RESOLUTIONS 2023-20, 2023-21, AND 2023-22 BE ADOPTED, AND THE
+CHAIR BE AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY VICE CHAIR RICHEY, WITH
+THE FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, NADOLSKI, WHITE,
+VICE CHAIR RICHEY, AND CHAIR CHOBERKA. VOTING NO – NONE. Board member Lopez was not present
+when this vote was taken.
+
+Proposed Resolution 2023-23 authorizing and approving the execution and
+delivery of a ground lease agreement, by and between the Agency and the
+Municipal Building Authority
+          A memo from the Community and Economic Development Department came before the Board to consider a resolution
+approving a Ground Lease Agreement with the Municipal Building Authority (MBA). The memo stated this agreement is
+associated with the issuance of Lease Revenue Bonds which were approved by the MBA Board on January 10, 2023, to fund
+construction of parking structures associated with the WonderBlock project. That bond parameters agreement included an
+authorization of a ground lease agreement between the MBA and Ogden City. The Agreement between the RDA and the MBA
+will replace the ground lease previously approved.
+          Community and Economic Development Director Cooper summarized the memo and summarized the following key
+terms of the ground lease:
+              • The Agreement is between the Municipal Building Authority and the Redevelopment Agency.
+              • The Agency owns fee simple title to the Property.
+              • The Building Authority will not default on the master lease or the ground lease.
+              • The Agency leases the property to the Building Authority.
+              • The Lease Agreement will commence on the date the Series 2023 Bonds are issued.
+              • The Lease Agreement will terminate after forty years or upon conveyance of the property under the terms of the
+                   Master Lease Agreement.
+              • The Building Authority has the option to renew the ground lease if, on the termination date, the debt has not
+                   been fully repaid. The Building Authority may also renew the lease if the Master Lease Agreement is renewed.
+              • The Building Authority shall pay a rental fee to the Agency of $1 per year for forty years or until the ground
+                   lease is terminated.
+            • Agency may not subordinate or encumber its interest in the property.
+            • The Building Authority will acquire and carry insurance on the property.
+            • The Building Authority will maintain the property during the term of lease.
+        Chair Choberka introduced in writing proposed Resolution 2023-23, entitled:
+                “A resolution of the Board of Directors (the “Board”) of the Ogden City Redevelopment Agency (the
+                “Agency”) authorizing and approving the execution and delivery of a Ground Lease Agreement, by and
+                between the Agency and the Municipal Building Authority of Ogden City, Utah (the “Authority”); and related
+                matters.”
+        BOARD MEMBER WHITE MOVED THE RESOLUTION BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER HYER, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, NADOLSKI, WHITE,
+VICE CHAIR RICHEY, AND CHAIR CHOBERKA. VOTING NO – NONE. Board member Lopez was not present
+when this vote was taken.
+
+Executive Director Comments
+        There were no comments from the Executive Director.
+
+Board members Comments
+       There were no comments from Board members.
+
+
+     There being no further business to come before the Agency, VICE CHAIR RICHEY MOVED THE MEETING
+ADJOURN AT 8:46 P.M. MOTION WAS SECONDED BY BOARD MEMBER HYER, ALL VOTING AYE.
+
+
+
+
+                                                                     ________________________________________
+                                                                     JASON GOULD
+                                                                     DEPUTY CITY RECORDER
+________________________________________
+ANGELA CHOBERKA, CHAIR
+
+APPROVED: February 13, 2024
+

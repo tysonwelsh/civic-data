@@ -1,0 +1,211 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09252024-417
+> Meeting date: 2024-09-25
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 09252024-417 | label: Council SM Meeting 2024-09-25 | date: 2024-09-25 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09252024-417 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday September 25,2024
+                                                             7:00 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  Nick Mitchell
+
+PLEDGE OF ALLEGIANCE :                                       Clarissa Williams
+
+SERGEANT AT ARMS:                                            Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum, Nick Mitchell,
+      Paul Sanchez (Zoom), and Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+      Natalie Pinkney
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Ariel Andrus, City Recorder
+       Crystal Makin, Finance Director
+       Eliza Ungricht, Deputy Community Development Director
+       Carson Aprato, Police Officer
+       Jen Hill, Executive Assistant
+       Lisa Forrester, Justice Court Administrator
+       Yasmin Abbyad, Emergency Management Coordinator
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      August 7th, Truth in Taxation Public Hearing
+      August 21st, City Council & Planning Commission Special Meeting
+
+Council Member Thomas made a motion to approve the minutes listed above.
+
+MOTION: Corey Thomas
+SECOND: Clarissa Williams
+
+
+                                             1
+South Salt Lake – Regular Council Meeting                                   September 25, 2024
+
+
+Voice Vote:
+Bynum:           Yes
+Huff:            Yes
+Mitchell:        Yes
+Pinkney:         Yes
+Thomas:          Yes
+Williams:        Yes
+Sanchez:         Yes
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—October 9th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          Granite Library manager, Kim Welch, shared some upcoming events and activities at
+          the County library.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood shared some City highlights that involved recent recognition of some
+          of the City’s firefighters that were involved in the aftermath of a mass casualty drive
+          by shooting in Murray City and performed a rapid trauma assessment and critical
+          emergency care to a severely injured patient with multiple gunshot wounds.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Bynum shared some comments.
+
+              Council Member Williams shared some comments.
+
+Action Items
+
+Appointments by the Mayor
+
+   1. Appointment of Judicial Nominating Committee Members
+      The Mayor provided a summary of the information presented in the previous meeting
+      regarding the appointment of a judicial nominating committee to address the upcoming
+      justice court vacancy. The city gets to seat two individuals on the committee and is
+      presenting City Attorney, Josh Collins, and Justice Court Administrator, Lisa Forrester for
+      the Council’s advice and consent.
+
+       Council Member Bynum made a motion to approve City Attorney, Josh Collins, as one of
+       the committee members.
+
+
+MOTION: Sharla Bynum
+                                               2
+South Salt Lake – Regular Council Meeting                                  September 25, 2024
+
+
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          No
+
+        Council Member Bynum made a motion to approve Justice Court Administrator, Lisa
+        Forrester, as one of the committee members.
+
+
+MOTION: Sharla Bynum
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+
+Unfinished Business
+
+    1. An Ordinance of the South Salt Lake City Council Amending §17.10.010 of the South
+       Salt Lake City Municipal Code to Allow for Off-Premise Beer Alcoholic Beverage Sales
+       in Retail Space on the Ground-Floor of Multi-Family Dwelling Developments and to
+       Amend the Park and Ride Definition
+       Deputy Community Development Director, Eliza Ungricht, reviewed the three
+       definitions that this Ordinance would amend. This item was presented and discussed in
+       the Work Meeting that was held prior to this meeting.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance.
+
+
+MOTION: Clarissa Williams
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:          Yes
+                                               3
+South Salt Lake – Regular Council Meeting                          September 25, 2024
+
+
+Huff:          Yes
+Mitchell:      Yes
+Pinkney:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       Yes
+
+
+       Council Member Huff made a motion to adjourn the meeting.
+
+
+MOTION: LeAnne Huff
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+Pinkney:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       Yes
+
+
+
+
+       The meeting adjourned at 7:12 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            4

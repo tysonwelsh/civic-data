@@ -1,0 +1,51 @@
+Emigration Canyon CITY COUNCIL — vote extraction validation
+============================================================
+
+Meetings (JSON)         : 89
+Meetings with >=1 motion: 76
+Motions                 : 297
+  named-dissent motions : 6
+  tally-only motions    : 291  (unanimous: 290)
+Contested motions       : 6
+Mayor-participation mtns : 145  (the mayor VOTES; counted in the 5)
+
+CSV rows                : 301
+Expected (from JSON)    : 301   [OK]
+body != Council         : 0
+
+Motion-type distribution:
+    Procedural/Administrative    83
+    Other                        60
+    Resolution                   35
+    Public Hearing Action        33
+    Ordinance                    28
+    Budget Amendment             20
+    Appointment                  16
+    Land-Use/Zoning              7
+    Contract/Purchase            6
+    Ceremonial                   4
+    Interlocal                   3
+    Grant-Funding                2
+
+Meetings per year:
+    2018: 3
+    2019: 14
+    2020: 5
+    2021: 15
+    2022: 13
+    2023: 13
+    2024: 10
+    2025: 10
+    2026: 6
+
+>5-vote tally flags     : 0  (expected 0 — max seat = 5, mayor votes)
+
+Off-roster voter names  : 0  (expected 0)
+
+Contested motions (6):
+    - 2021-02-25 m4 4-1 Pass  nay=['Gary Bowen'] abstain=[] :: approve the Resolution
+    - 2021-04-27 m3 4-1 Pass  nay=[] abstain=[] :: approve payment of $12,000 to help fund the Fuel Mitiga
+    - 2021-08-24 m1 4-1 Pass  nay=[] abstain=['Joe Smolka'] :: approve the Resolution cancelling the November 2, 2021 
+    - 2021-12-14 m1 4-1 Pass  nay=[] abstain=['Catherine Harris'] :: appoint Council Member Harris to the Unified Fire Autho
+    - 2023-08-22 m1 4-1 Pass  nay=['Catherine Harris'] abstain=[] :: authorize the Mayor to purchase the property located at
+    - 2023-10-24 m2 4-1 Pass  nay=['Joe Smolka'] abstain=[] :: approve Resolution 2023-10-02

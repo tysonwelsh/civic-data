@@ -1,0 +1,83 @@
+{
+ "date": "2025-04-08",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2025/2025-04-07/2025-04-08_planning-commission.md",
+ "present": [
+  "Don Russell",
+  "Marc McElreath",
+  "Don Quigley",
+  "Lynette Wendel",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to approve the minutes of the March 25, 2025 Planning Commission meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wilkey moved to forward a positive recommendation to the City Council Regarding the Taylorsville Expressway Station Area Plan",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation (unanimous)",
+   "kind": "recommendation",
+   "mover": "Cindy Wilkey",
+   "seconder": "David Young",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "1G24"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to adjourn. Chair Russell",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

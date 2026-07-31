@@ -1,0 +1,88 @@
+{
+ "config": {
+  "contest": "2023 Lehi City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Lehi, Utah",
+  "office": "City Council",
+  "threshold": "2863"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "HEATHER NEWALL": 1559.0,
+    "K. CASEY GLADE": 583.0,
+    "KENNETH ROBERTS": 918.0,
+    "MICHELLE STALLINGS": 1830.0,
+    "NICOLE KUNZE": 1265.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "K. CASEY GLADE",
+     "transfers": {
+      "HEATHER NEWALL": 86.0,
+      "KENNETH ROBERTS": 100.0,
+      "MICHELLE STALLINGS": 305.0,
+      "NICOLE KUNZE": 74.0,
+      "Inactive Ballots": 18.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "HEATHER NEWALL": 1645.0,
+    "KENNETH ROBERTS": 1018.0,
+    "MICHELLE STALLINGS": 2135.0,
+    "NICOLE KUNZE": 1339.0,
+    "Inactive Ballots": 18.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KENNETH ROBERTS",
+     "transfers": {
+      "HEATHER NEWALL": 298.0,
+      "MICHELLE STALLINGS": 265.0,
+      "NICOLE KUNZE": 318.0,
+      "Inactive Ballots": 137.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "HEATHER NEWALL": 1943.0,
+    "MICHELLE STALLINGS": 2400.0,
+    "NICOLE KUNZE": 1657.0,
+    "Inactive Ballots": 155.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "NICOLE KUNZE",
+     "transfers": {
+      "HEATHER NEWALL": 864.0,
+      "MICHELLE STALLINGS": 517.0,
+      "Inactive Ballots": 276.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "HEATHER NEWALL": 2807.0,
+    "MICHELLE STALLINGS": 2917.0,
+    "Inactive Ballots": 431.0
+   },
+   "tallyResults": [
+    {
+     "elected": "MICHELLE STALLINGS",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

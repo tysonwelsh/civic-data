@@ -1,0 +1,576 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1974&doc_id=a57e95a0-dc68-11f0-bb28-005056a89546
+> Meeting date: 2025-10-23
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, OCTOBER 23, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Mary Squire
+               Alternate Commission Member Laura Fidler
+               Alternate Commission Member Christine Green
+
+NOT SITTING:         Alternate Commission Member Shivam Shah
+
+EXCUSED:             Andrew Adams, Chair
+                     Commission Member Kendra Shirey
+                     Commission Member Gary Ogden
+                     Jennifer Jastremsky, Community Development Director
+
+STAFF:               Todd Draper, Planning Manager
+                     Nick Whittaker, City Planner
+                     Lori Stout, Executive Assistant
+                     Brien Maxfield, City Engineer
+                     Traci Gundersen, City Attorney
+
+6:31 PM Business Meeting
+
+In the absence of Chair Andrew Adams, Vice-Chair Lisa Fowler called the Planning Commission
+Meeting to order at 6:31 PM. Since Vice-Chair Fowler is a voting member, she will vote on the
+agenda items. She thanked Commissioners, City Staff, applicants, and members of the public for
+attending the meeting. It was noted that the last two agenda items have been continued.
+
+1.     Items for Commission Consideration.
+
+       A.     Action Item: Approve Planning Commission Meeting Minutes for September
+              25, 2025.
+              (Administrative Action)
+              Approval of Planning Commission Meeting Minutes for September 25, 2025.
+
+Motion: Commissioner Nixon moved to APPROVE the September 25, 2025, Planning
+Commission Meeting Minutes, as presented.
+
+Second: Commissioner Squire seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 2
+
+
+        Commissioner        Yes   No     Abstained     Not Participating     Absent
+        Chair Adams                                                          X
+        Fowler              X
+        Squire              X
+        Nixon               X
+        Shirey                                                               X
+        Ogden                                                                X
+        Fidler, Alternate   X
+        Shah, Alternate                                X
+        Green, Alternate    X
+
+       B.      Public Hearing: Pond Lane Plat Amendment Request.
+               (Administrative Action)
+               On the request of Garrett Daw, representing Trent and Candice Eyre, for a Plat
+               Amendment on 0.54 acres of property located at 291 East Pond Lane in the RA2
+               (Residential Agricultural) Zone, application 2025-0082-SUB. Staff contact is Todd
+               Draper at 801-576-6335 or todd.draper@draperutah.gov.
+
+Planning Manager, Todd Draper, presented the Staff Report and stated that this is a Plat
+Amendment request for property located at 291 East Pond Lane in the RA2 (Residential
+Agricultural) Zone. It is approximately 0.54 acres, with a land use of Residential Medium Density.
+Mr. Draper shared the Vicinity Map, Aerial Map, and Land Use Map with the Commission. The
+recorded subdivision plat was reviewed. With this subdivision, there is a settlement agreement
+and setbacks were recorded on the plat. The Settlement Agreement was recently amended, and has
+been approved and signed.
+
+The applicant is requesting that a Plat Amendment be approved to allow for a modification to the
+building setback from the western property line. This amendment would shift from a 20-foot
+minimum to a 12-foot minimum. The proposed subdivision plat was reviewed. Images of the
+existing site were shared. Mr. Draper explained that the amendment would allow for a side
+addition to the home.
+
+The applicant, Trent Eyre, introduced himself and reiterated that the request is for a Plat
+Amendment. Switching the setback from 20 feet to 12 feet is still compliant with City Code. He
+noted that this is a reasonably simple request. There were no Commissioner questions.
+
+Vice-Chair Fowler opened the public hearing.
+
+Mark Johnson identified himself as the owner of Lot 1. The setback is not a problem, and he
+expressed his support for the Plat Amendment requested for Lot 2 of the Pond Lane Subdivision.
+
+There were no further comments. The public hearing was closed.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 3
+
+Commissioner Nixon noted that the Settlement Agreement has already been approved. She
+thought the Plat Amendment made sense and noted that this is a straightforward application.
+
+Motion: Commissioner Nixon moved to APPROVE the Plat Amendment, as requested by
+Garrett Daw, representing Trent and Candice Eyre for Pond Lane Plat Amendment,
+application 2025-0082-SUB, based on the following findings for approval and subject to the
+requirements listed in the Staff Report dated October 9, 2025:
+
+Findings for Approval:
+
+       1.      There is Good Cause for the vacation or amendment, and no public street or
+               municipal utility easement has been vacated or amended.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+        Commissioner        Yes    No     Abstained      Not Participating      Absent
+        Chair Adams                                                             X
+        Fowler              X
+        Squire              X
+        Nixon               X
+        Shirey                                                                  X
+        Ogden                                                                   X
+        Fidler, Alternate   X
+        Shah, Alternate                                  X
+        Green, Alternate    X
+
+       C.      Public Hearing: Specialized Manufacturing Site Plan, Conditional Use
+               Permit, and Deviation Requests.
+               (Administrative Actions)
+               On the request of Robert Simons, Site Plan, Conditional Use Permit, and Deviation
+               Requests for construction of a new commercial building for limited manufacturing
+               and limited wholesale and warehousing uses on approximately 4.2 acres located at
+               approximately 687 West 12300 South. Known as applications 2025-0123-SP,
+               2025-0079-USE, and 2025-0219-VAR. Staff Contact: Todd A. Draper, (801) 576-
+               6335, todd.draper@draperutah.gov.
+
+Mr. Draper presented the Staff Report and stated that the request is for approval of a Site Plan,
+Conditional Use Permit (“CUP”), and Parking Deviation for approximately 4.2 acres of property.
+The subject property is at approximately 687 West 12300 South, and the property is currently
+zoned CG (General Commercial). The Vicinity Map, Aerial Map, and Land Use Map were shared
+with the Commission. Mr. Draper reviewed the Site Plan and explained that the building will be
+centrally located. There will be a shared entrance with the property to the east. There is another
+access point on the west side. In the Staff Report, one condition that is included is that there must
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 4
+
+be final approval from the Utah Department of Transportation (“UDOT”) for the access. Mr.
+Draper reported that the proposed parking spaces are evenly distributed around the building.
+Freight will be directed to use the shared access and will be immediately routed to the back. A
+few smaller doors are available for box trucks. He explained that the larger trucks will be able to
+pull into the back area to use the docks.
+
+The Landscape Plan was shared. Mr. Draper reported that the use of grass is slightly too high, so
+another Condition of Approval is proposed in the staff report to make the necessary modifications.
+No changes will need to be made to the actual locations where the landscaping will be installed.
+He reviewed the elevations and explained that the materials and colors for the facades comply.
+The façade materials will primarily be architectural precast concrete panels, colored with
+admixture and scored and form-lined per the proposed plan. The building is 35 feet tall. There
+will be additional mechanical screening needed on the sides of the building. Other elevations were
+also shared.
+
+Information about the colors and materials was presented. Mr. Draper mentioned the metal
+composite ACM panels and some of the different colors that will be used. An image of the
+dumpster construction was shared. Mr. Draper next reviewed the floor plans and pointed out
+where the specialized manufacturing will initially be located inside the building. The remaining
+area will be leased to other potential tenants. The idea is that over time, it will be possible for
+Specialize Manufacturing to expand within the building. There will be some second-floor
+mezzanine space, which has also been included in the parking calculations. Information about the
+trash enclosure and fencing was provided. Mr. Draper pointed out the fence location on the
+landscape plan. He reported that a six-foot fence will be required as part of the land use buffer on
+the western site. On the southern side, where the parking is a little closer, there is an eight-foot
+height requirement for the fencing.
+
+Mr. Draper discussed the CUP and explained that two conditional uses are proposed: Limited
+Manufacturing and Limited Wholesale and Warehousing. Potential impacts are limited as the uses
+are contained within the building. Information about the Parking Deviation request was shared.
+Mr. Draper reported that a Parking Study was provided and that there is a request to increase the
+number of parking stalls from 94 to 135. He next shared a site photo for reference and pointed out
+the overhead power line. Work is being done with Rocky Mountain Power to bring the power
+needed to the building and to remove the overhead line. The issue is that some of the proposed
+street trees are not on the list of allowed trees under a power line. As a result, a Condition of
+Approval is included in the staff report to allow the trees to be used if the power line is removed.
+However, if the power line cannot be removed, the trees will need to be replaced with those on the
+list approved for use under power lines.
+
+Commissioner Green asked about the excess grass or turf on the landscaping plan. Mr. Draper
+clarified that there is too much turf grass proposed. The amount proposed is a bit too high, so a
+reduction is needed. The overall coverage rate with the plants was also slightly short, so a few
+more plants also need to be added. With a decrease in the turf and increase in the number of
+plantings, it should be possible to make the necessary changes.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 5
+
+The applicant, Bob Simons, introduced himself and shared the history of the business, which was
+founded 30 years earlier in Draper. This will be their fourth location in Draper, as the business
+continues to expand. The have around 100 employees in total. He explained that there is a desire
+for the business to remain in Draper and there is excitement about the project. There was support
+expressed for the built in growth plan. Mr. Simons explained that the business began with three
+people and now there are nearly 80 employees. It continues to grow.
+
+Commissioner Nixon asked for clarification about the 100 employees mentioned earlier. Mr.
+Simons clarified that there are almost 80 employees currently, but the plan is to expand once more
+space becomes available. Commissioner Nixon wanted to better understand the request for
+increased parking. Mr. Simons explained that in previous locations, there has been a shortage of
+parking, so the intention is to address that through the proposal. Commissioner Nixon noted that
+it is uncommon to request additional parking, but it seems to make sense given the information
+provided. Mr. Simons reported that there is a willingness to address the landscaping needs that
+were mentioned earlier.
+
+Vice-Chair Fowler opened the public hearing.
+
+Mason Chavez is one of the architects working on the project. There has been close collaboration
+with Staff throughout this process to ensure compliance. The comments from Staff are accurate
+regarding the landscape, and they have since been addressed to bring it into compliance.
+
+There were no further comments. The public hearing was closed.
+
+Vice-Chair Fowler expressed support for the additional parking request because parking can be an
+issue, and sufficient parking must be provided for its use. It was noted that three motions will be
+required to address the requests related to this property.
+
+Motion: Commissioner Squire moved to APPROVE the Parking Deviation, as requested by
+Robert Simons, representing Concord Properties, application 2025-0219-VAR, based on the
+findings for approval listed in the Staff Report dated October 16, 2025:
+
+Findings for Approval:
+
+       1.      Adequate parking will be provided.
+
+       2.      The total number of spaces otherwise required would be overly burdensome
+               to individual establishments in the development.
+
+       3.      Site or use specific conditions or factors do not provide for compliance with
+               the parking requirements of the DCMC.
+
+       4.      Potential for future expansion or addition to the development will have
+               adequate parking for the expansion or addition.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 6
+
+      5.      ADA-compliant parking requirements are not proposed for adjustment.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner        Yes   No    Abstained     Not Participating     Absent
+       Chair Adams                                                         X
+       Fowler              X
+       Squire              X
+       Nixon               X
+       Shirey                                                              X
+       Ogden                                                               X
+       Fidler, Alternate   X
+       Shah, Alternate                               X
+       Green, Alternate    X
+
+Motion: Commissioner Nixon moved to APPROVE the Site Plan, as requested by Robert
+Simons, representing Concord Properties for the Specialized Manufacturing Site,
+application 2025-0123-SP, based on the findings for approval and subject to the conditions
+listed in the Staff Report dated October 16, 2025:
+
+Findings for Approval:
+
+      1.      The proposal represents development of the entire site at one time.
+
+      2.      With the imposed conditions, the Site Plan conforms to applicable standards
+              set forth in Title 9 of the DCMC, including but not limited to, building heights,
+              setbacks, access points, parking, landscaping, and building materials.
+
+      3.      The proposed development plans meet the intent, goals, and objectives of the
+              General Plan and the purpose of the Zone District in which the site is located.
+
+      4.      The public facilities and services in the area are adequate to support the
+              subject development, as required by engineering standards and specifications.
+
+      5.      The proposed development plans comply with the engineering standards
+              found in Titles 7, 8, 11, 12, 16, and 18 of the DCMC, including traffic, storm
+              water drainage, and utilities concerns.
+
+Second: Commissioner Green seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 7
+
+       Commissioner        Yes   No   Abstained    Not Participating    Absent
+       Chair Adams                                                      X
+       Fowler              X
+       Squire              X
+       Nixon               X
+       Shirey                                                           X
+       Ogden                                                            X
+       Fidler, Alternate   X
+       Shah, Alternate                             X
+       Green, Alternate    X
+
+Motion: Commissioner Squire moved to APPROVE the Conditional Use Permit, as
+requested by Robert Simons, representing Concord Properties for the Limited
+Manufacturing and Limited Wholesale and Warehousing uses, application 2025-0079-USE,
+based on the findings for approval and subject to the conditions listed in the Staff Report
+dated October 16, 2025:
+
+Finding for Approval:
+
+      1.      The proposal complies with the standards for approval found in DCMC
+              Section 9-5-080(E), and potential negative impacts are mitigated through the
+              imposition of reasonable conditions.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner        Yes   No   Abstained    Not Participating    Absent
+       Chair Adams                                                      X
+       Fowler              X
+       Squire              X
+       Nixon               X
+       Shirey                                                           X
+       Ogden                                                            X
+       Fidler, Alternate   X
+       Shah, Alternate                             X
+       Green, Alternate    X
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 8
+
+       D.      Public Hearing: Premier Engraving and Awards. Home Occupation
+               Conditional Use Permit Request.
+               (Administrative Item)
+               On the request of Chloe Wardle, representing Premier Engraving and Awards, a
+               Home Occupation Conditional Use Permit to operate a cottage business for
+               approximately 0.50 acres, located at approximately 201 East 13560 South, known
+               as Application 2025-0173-USE. Staff Contact: Nick Whittaker, (801) 576-6522,
+               nick.whittaker@draperutah.gov.
+
+City Planner Nick Whittaker presented the Staff Report and stated that the request is for a Home
+Occupation CUP. The request is to operate a cottage business for approximately 0.50 acres. The
+applicant property is located at approximately 201 East 13560 South. It is Residential Medium
+Density and is in the RA2 (Residential Agricultural) Zone. The Vicinity Map, Aerial Map, and
+Land Use Map were shared with the Commission. Mr. Whittaker reported that the applicant is
+seeking a Home Occupation CUP to operate a cottage business that provides custom engraving
+and creates small custom awards and gifts sold online. The Draper City Municipal Code considers
+this a cottage business. In DCMC 9-3-040, a cottage business is defined as the following:
+
+   •   A business where products are created in the home. The products are unique in nature,
+       such as handicrafts, art, and jewelry. Limited food production can also be considered.
+       Anything that uses a material, a mixture of materials, or a quantity of materials that could
+       be classified by the Fire Marshal or Building Official as dangerous or hazardous will not
+       be allowed.
+
+The site plan was shared with the Commission. Mr. Whittaker reported that no customers will
+come to the home, and there are no business vehicles. The business use will be contained within
+the home. The floor plan was reviewed, and Mr. Whittaker explained that two spaces in the home
+will be utilized. One space is an office area with two computers and administrative storage. The
+other space is the main engraving area with three engraving machines, two UV printers, four
+computers, and supplies. The identified potential impacts were shared. These relate to the
+possibility of loud noises and traffic generated by customers. He reviewed the proposed mitigation
+measures:
+
+   •   That all engraving and assembly of the custom gift items shall be confined to the areas
+       indicated in this report and as shown on the approved plans;
+   •   No customers come to the home;
+   •   All requirements of the Draper City Engineering, Public Works, Building, Planning, and
+       Fire Divisions shall be satisfied;
+   •   The applicant shall maintain an active Business License for as long as the business is in
+       operation from the residence.
+
+Commissioner Squire noted that customer traffic will not be an issue because customers are not
+coming to the home. However, she wondered whether noise might be an issue and asked for
+additional information about the equipment to be used. She wanted to know whether the
+equipment's sound could be heard outside the home. Mr. Whittaker reported that, according to the
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 9
+
+materials submitted by the applicant, the equipment does not make discernible noise. The
+applicant, Chloe Wardle, introduced herself to the Commission. She and her husband recently
+purchased this business. The previous owners ran it out of their home in Taylorsville for 35 years
+without complaint. As for the equipment, there are three engraving machines and two UV printers.
+The sound is contained within the room. It cannot be heard within the rest of the home or outside
+of the house. Commissioner Fidler asked about mail and deliveries. Ms. Wardle reported that
+mail is taken to the post office. Deliveries will be minimal to standard UPS shipping.
+
+Vice-Chair Fowler opened the public hearing. There were no comments. The public hearing was
+closed.
+
+Motion: Commissioner Fidler moved to APPROVE the Home Occupation Conditional Use
+Permit, as requested by Chloe Wardle, representing Premier Engraving and Awards,
+application 2025-0173-USE, based on the following findings for approval and subject to the
+conditions listed in the Staff Report dated October 8, 2025:
+
+Finding for Approval:
+
+       1.      The proposal complies with the standards for approval found in DCMC
+               Section 95-080(E) and potential negative impacts are mitigated through the
+               imposition of reasonable conditions.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+        Commissioner        Yes   No     Abstained     Not Participating     Absent
+        Chair Adams                                                          X
+        Fowler              X
+        Squire              X
+        Nixon               X
+        Shirey                                                               X
+        Ogden                                                                X
+        Fidler, Alternate   X
+        Shah, Alternate                                X
+        Green, Alternate    X
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 10
+
+       E.      Public Meeting: Eagle Crest No. 3 at Suncrest Subdivision Plat Amendment
+               Request.
+               (Administrative Item)
+               On the request of John and Krista Lebaron, a Subdivision Plat Amendment on 0.83
+               acres of property located at 15641 South Winged Trace Court in the RR-22 (Rural
+               Residential) Zone, Suncrest Development Agreement, known as application 2025-
+               0056-SUB. Staff contact is Nick Whittaker at 801-576-6522 or
+               nick.whittaker@draperutah.gov.
+
+Mr. Whittaker presented the Staff Report and stated that a request for a Subdivision Plat
+Amendment has been received. The property is located at 15641 South Winged Trace Court and
+is in the RR-22 (Rural Residential) Zone. The Vicinity Map, Aerial Map, and Land Use Map were
+shared with the Commission. Beyond the property lines, the area is rural, with residential low- to
+medium-density land use. Mr. Whittaker reported that the request is for a proposed adjustment of
+the area of non-disturbance located on the subject property. The adjustment to the non-disturbance
+area is to allow for more developable space on the property. A geotechnical study was conducted
+at the subject property, and the report concludes that the proposed non-disturbance area can support
+development so long as the structures built in that area follow the stipulations listed in the
+geotechnical report.
+
+The site plan was shared with the Commission. Mr. Whittaker identified the original non-
+disturbance area. He explained that the applicant proposes to change the non-disturbance area to
+the red lines shown in the image. This shift does not remove the non-disturbance area, but pushes
+it back. The current subdivision Plat was reviewed. He highlighted the non-disturbance area as
+shown on the original subdivision plat and noted that there has not been an amendment made to
+Eagle Crest No. 3 at Suncrest to date. The plat amendment document was presented. He explained
+that no boundary lines are proposed for change, but the non-disturbance area is proposed for
+change.
+
+Commissioner Fidler asked about the difference. She wanted to understand how much would be
+removed from the non-disturbance area. Mr. Whittaker reported that the non-disturbance area of
+the subject property is approximately 0.54 acres. The total acreage of the property is 0.83 acres,
+so a significant amount of the property is the non-disturbance area. As for what is proposed, he
+did not add the exact number into the Staff Report but shared the site plan with the Planning
+Commission for reference. The Commission further reviewed the current subdivision plat
+presentation slide.
+
+Commissioner Nixon mentioned compliance with the geotechnical report. She asked if the City
+Engineer had had the opportunity to review the report. City Engineer Brien Maxfield confirmed
+that he has reviewed the geotechnical report. It was reviewed to verify that there were no issues
+with pulling the non-disturbance back. Staff does not see any issues with the proposed amendment.
+Discussions were had about the non-disturbance area and the rationale for it on the subject
+property. Mr. Whittaker reported that the proposal is to remove 1,641 square feet of the non-
+disturbance area.
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 11
+
+It was noted that on the earlier aerial image, something appeared to be built in the non-disturbance
+area. It was reported that there is currently a garden bed. The property owners disturbed that area
+before there was an awareness of the non-disturbance, so this amendment will also correct that
+situation. However, the amendment is mainly to allow for future expansion of the home. There
+are also some retaining walls in the non-disturbance area, so this amendment will correct that by
+removing them from the non-disturbance area. The current subdivision plat was further reviewed.
+There were concerns about setting a precedent if the non-disturbance area of this lot is amended.
+It is important to think about what other property owners might request in the future.
+Commissioner Nixon did not have an issue with the amendment, as long as what is outlined in the
+geotechnical report is followed. It makes sense to allow the owners to utilize the lot as much as
+possible. Commissioners felt the increase in square footage seemed reasonable given the lot size.
+
+Mr. Whittaker addressed concerns about what other property owners might request in the future.
+He explained that the procedure requires a Geotechnical Report. The city reviews the geotechnical
+report before presenting anything to the Planning Commission.
+
+The applicants, John and Krista Lebaron, introduced themselves to the Commission. Mr. Lebaron
+explained that they have lived at the property for 10 years. There is a desire to have a greenhouse
+and use more of the land. Commissioner Green asked if the non-disturbance area was
+communicated to the property owners at the time of purchase. Mr. Lebaron explained that it is
+shown on the plat. There was a misunderstanding that the non-disturbance was issued by the
+Homeowners Association (“HOA”) rather than the City. There was a discussion with the HOA
+when the outdoor garden was built, but the HOA did not actually have permission to grant that
+use. As a result, work has been done with the staff to see what can be done about the current
+situation. Commissioner Squire wondered whether the retaining walls were in place when the
+property was purchased, but this was denied. Mr. Lebaron believed the builder received approval
+for the walls and was previously unaware that a small portion of the retaining walls was non-
+conforming. He discussed the rationale for the location.
+
+Vice-Chair Fowler noted that this is not a public hearing item and asked for additional comments
+from the Commissioners. Commissioner Squire stated that in these cases, it would be preferable
+to see a trade of some sort. For example, some of the land removed from the non-disturbance area
+to be added back in somewhere else. She asked for clarity about the lines shown on the site plan.
+Mr. Whittaker provided clarification on the locations of the existing and proposed lines.
+
+Commissioners further reviewed the site plan image and discussed the proposed plat amendment.
+It was noted that an earlier version did not include one of the wall sections. However, the neighbors
+built across the line, so a request was made to include that wall in the proposal. That retaining
+wall is from a neighboring property, but was built across the property line.
+
+Motion: Commissioner Nixon moved to APPROVE the Eagle Crest No. 3 at Suncrest
+Subdivision Plat Amendment for Lot 539,, as requested by John and Krista Lebaron,
+application 2025-0056-SUB, based on the following findings for approval and subject to the
+requirements listed in the Staff Report dated October 8, 2025:
+
+Finding for Approval:
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 12
+
+
+       1.     There is Good Cause for the amendment, and no public street or municipal
+              utility easement will be vacated or amended.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner        Yes   No    Abstained     Not Participating    Absent
+       Chair Adams                                                        X
+       Fowler              X
+       Squire              X
+       Nixon               X
+       Shirey                                                             X
+       Ogden                                                              X
+       Fidler, Alternate   X
+       Shah, Alternate                               X
+       Green, Alternate    X
+
+       F.     Public Hearing: Plummer Zoning Map Amendment Request.
+              (Legislative Item)
+              On the request of Benchmark Engineering, representing LRP TR, for a Land Use
+              Map and Zoning Map Amendment on 1.31 acres of property located at 1360 East
+              13200 South in the RA1 (Residential Agricultural) Zone, applications 2025-0137-
+              MA.        Staff contact is Nick Whittaker at 801-576-6522 or
+              nick.whittaker@draperutah.gov.
+
+The above item was continued to the November 13, 2025 Planning Commission Meeting.
+
+       G.     Public Hearing: Fetzer Land Use and Zoning Map Amendment Requests.
+              (Legislative Item)
+              On the request of Natalie Thorell, representing Robert and Debbie Fetzer, a Land
+              Use Map and Zoning Map Amendment on 0.89 acres of property located at 1394
+              East 12900 South in the RA2 (Residential Agricultural) Zone, applications 2025-
+              0192-MA and 2025-0193-MA. Staff contact is Nick Whittaker at 801-576-6522 or
+              nick.whittaker@draperutah.gov.
+
+This item was continued to a future Planning Commission Meeting.
+
+2.     Other Business.
+
+       A.     Coordination Between City Staff and Planning Commission (as needed).
+
+It was reported that Station Area Plans were certified by the Wasatch Front Regional Council
+(“WFRC”) earlier in the day. As for the City Council Meeting on October 21, 2025, the Kimballs
+Draper City Planning Commission Meeting
+October 23, 2025
+Page 13
+
+Junction Addition Zoning Map and Land Use Map Amendments were approved. Commissioners
+expressed appreciation for the update.
+
+3.    Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+The Vice-Chair adjourned the meeting at 7:23 pm.
+

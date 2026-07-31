@@ -1,0 +1,60 @@
+{
+ "date": "2024-03-05",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-03-04/2024-03-05_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of February 20, 2024",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Trish Hatch",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Ammon Allen"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the bylaws presented today for Option B, with the reference to Section D in Section A2",
+   "motion_type": "Other",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Trish Hatch",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Ammon Allen"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council to rezone the parcels comprising 16.36 acres and located at 1996 and 1986 West Gardner Lane from an A-1 zone (Agriculture - 1 acre lots) to an R-1-8C zone (Single-Family Residential - 8,000 square foot lots)",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "Jay Thomas",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Ammon Allen"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09102025-569
+> Meeting date: 2025-09-10
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 09102025-569 | label: Council WM Meeting 2025-09-10 | date: 2025-09-10 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09102025-569 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                    CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday September 10,
+                                                             2025 7:00 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  Sharla Bynum
+
+PLEDGE OF ALLEGIANCE :                                       Corey Thomas
+
+SERGEANT AT ARMS:                                            Carson Aprato, Spencer Redden
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum,
+      Nick Mitchell, Clarissa Williams, and Ray deWolfe (Zoom)
+
+COUNCIL MEMBERS EXCUSED:
+      Paul Sanchez
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Jared Christensen, Deputy Fire Chief
+       Corby Talbot, Capital Improvement Plan & Accreditation Manager
+       Crystal Makin, Finance Director
+       Spencer Redden, Police Officer
+       Carson Aprato, Police Officer
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      July 23rd, Work Meeting
+      July 23rd, Regular Meeting
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:         Yes
+                                             1
+South Salt Lake – Regular Council Meeting                                September 10, 2025
+
+
+Huff:          Yes
+Mitchell:      Yes
+deWolfe:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       Absent
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+         meetings, activities, etc. Next Council Meeting—September 24th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Jeremy Carter, shared some comments regarding the
+          involvement of local police departments across the State with Immigration and
+          Customs Enforcement operations.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood shared some comments regarding the recent water main break in the
+          City and how residents could find more information on sslc.gov
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member deWolfe shared his thoughts and condolences regarding the recent
+          breaking news of a tragic event at a political rally that took place in Utah.
+
+            Council Member Thomas shared her thoughts and condolences regarding the recent
+            breaking news of a tragic event at a political rally that took place in Utah.
+
+            Council Member Huff shared her thoughts and condolences regarding the recent
+            breaking news of a tragic event at a political rally that took place in Utah.
+
+            Council Member Mitchell shared his thoughts and condolences regarding the recent
+            breaking news of a tragic event at a political rally that took place in Utah.
+
+            Council Chair Bynum shared her thoughts and condolences regarding the school
+            shooting that also took place earlier in the day in Colorado.
+
+Action Items
+Unfinished Business
+    1. An Ordinance of the South Salt Lake City Council Amending Chapters, 13.76, 13.78,
+        13.79 and 13.80, and Amending and Recodifying Chapter 13.25 of the South Salt Lake
+        Municipal Code to Reflect Legislative Developments and Ensure Compliance with the
+        City’s Municipal Separate Storm Sewer System Permit.
+
+       This item was reviewed and discussed at the last meeting.
+
+
+                                              2
+South Salt Lake – Regular Council Meeting                                  September 10, 2025
+
+
+        There were no further questions or comments from the Council Members.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance
+
+
+MOTION: Clarissa Williams
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+        Council Member Thomas made a motion to Adjourn.
+
+
+MOTION: Corey Thomas
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+        The meeting adjourned at 7:12 p.m.
+
+
+
+                                               _____________________________
+                                               Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+                                               3

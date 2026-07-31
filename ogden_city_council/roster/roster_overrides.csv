@@ -1,0 +1,4 @@
+# roster_overrides.csv — hand corrections for the Ogden rolling roster, applied LAST (win ties).
+# Keyed by (seat_id, person_key, start_date). Only non-empty cells override. Repo override
+# convention (see CLAUDE.md cardinal rule 2). Currently 0 data rows — the reconciled build is clean.
+seat_id,person_key,start_date,person_name,end_date,start_event,end_event,confidence,note

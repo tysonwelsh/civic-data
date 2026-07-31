@@ -1,0 +1,124 @@
+South Jordan City Council — vote extraction validation report
+========================================================================
+Meeting JSONs                : 243
+Meetings with >= 1 motion    : 241
+Motions extracted            : 1029
+
+Body counts:
+   Council  1007
+   MBA      1
+   RDA      21
+
+Motion-type distribution:
+   Procedural/Administrative  506
+   Land-Use/Zoning            186
+   Resolution                 104
+   Ordinance                  72
+   Appointment                47
+   Contract/Purchase          39
+   Other                      32
+   Budget Amendment           21
+   Interlocal                 14
+   Public Hearing Action      4
+   Grant-Funding              3
+   Ceremonial                 1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year).
+Expected voters: Harris, Johnson, Shelton, Zander, McGuire, Marlor.
+Mayor Dawn R. Ramsey should appear ONLY on flagged mayor-vote motions.
+------------------------------------------------------------------------
+
+2020:
+   Brad Marlor            13
+   Tamara Zander          1
+   Don Shelton            1
+
+2021:
+   Tamara Zander          12
+   Patrick Harris         7
+   Jason McGuire          3
+   Brad Marlor            1
+
+2022:
+   Brad Marlor            23
+   Tamara Zander          22
+   Don Shelton            13
+   Patrick Harris         9
+   Jason McGuire          9
+
+2023:
+   Tamara Zander          31
+   Don Shelton            11
+   Jason McGuire          4
+   Patrick Harris         2
+   Brad Marlor            1
+
+2024:
+   Tamara Zander          15
+   Don Shelton            14
+   Kathie Johnson         13
+   Jason McGuire          9
+   Patrick Harris         6
+
+2025:
+   Tamara Zander          92
+   Jason McGuire          89
+   Patrick Harris         84
+   Don Shelton            77
+   Kathie Johnson         76
+   Dawn R. Ramsey         1   <-- MAYOR (should be flagged mayor-vote only)
+
+2026:
+   Tamara Zander          27
+   Kathie Johnson         25
+   Don Shelton            22
+   Jason McGuire          22
+   Patrick Harris         22
+
+------------------------------------------------------------------------
+MAYOR-VOTE FLAGS (source recorded the Mayor casting a vote): 1
+A tie-break or ceremonial vote is a REAL event — Ramsey is otherwise non-voting.
+------------------------------------------------------------------------
+   2025-06-17 [Council] m9 3-2 Pass: Dawn R. Ramsey voted Aye :: Council Member Shelton motioned to approve Ordinance 2025-09, Amending
+
+------------------------------------------------------------------------
+6th-VOTE / >5-VOTER FLAGS: 1
+------------------------------------------------------------------------
+   2025-06-17 m9: 6 voters (> 5) :: aye=['Don Shelton', 'Kathie Johnson', 'Dawn R. Ramsey'] nay=['Patrick Harris', 'Jason McGuire'] absent=['Tamara Zander'] mayor_voted=True
+
+------------------------------------------------------------------------
+TALLY-VS-NAMED MISMATCHES (full roll calls only): 1
+Not auto-corrected — each flags a source typo or a parse miss to hand-review.
+------------------------------------------------------------------------
+   2025-08-19 [Council] m7: named aye=3 nay=1 vs printed 4-1 :: 4-1 Pass :: Council Member Shelton motioned to table Resolution R2025-41
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (full roll calls with seated != 5): 1
+Expected: an absent member (4 seated) or a brief vacancy. All reviewed.
+------------------------------------------------------------------------
+   2025-08-19 [Council] m7: 4 seated (expected 5) aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Council Member Shelton motioned to table Resolution R20
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 14
+------------------------------------------------------------------------
+   2023-01-17 [Council] m6 4-1 Pass | AYE=[] NAY=['Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Shelton motioned to approve Resolution R2023-06, Authorizing the 
+   2023-01-17 [Council] m7 4-1 Pass | AYE=[] NAY=['Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Marlor motioned to approve Resolution R2023-07, Amending the Futu
+   2023-01-17 [Council] m8 4-1 Pass | AYE=[] NAY=['Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Zander motioned to approve Zoning Ordinance 2023-01-Z, Rezoning P
+   2023-03-07 [Council] m5 3-2 Pass | AYE=[] NAY=['Tamara Zander', 'Brad Marlor'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Harris motioned to remove Item J.1., a discussion and reconsidera
+   2023-05-16 [Council] m3 2-3 Fail | AYE=[] NAY=['Tamara Zander', 'Jason McGuire', 'Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Marlor motioned to approve Resolution R2023-19, Consenting to inc
+   2024-12-03 [Council] m2 2-3 Fail | AYE=['Tamara Zander', 'Don Shelton'] NAY=['Jason McGuire', 'Kathie Johnson', 'Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Zander motioned to approve Resolution R2024-42, Authorizing the M
+   2024-12-03 [Council] m3 3-2 Pass | AYE=['Don Shelton', 'Tamara Zander', 'Patrick Harris'] NAY=['Jason McGuire', 'Kathie Johnson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Shelton motioned to approve Zoning Ordinance 2024-08-Z, Rezoning 
+   2025-02-18 [Council] m6 3-2 Pass | AYE=['Tamara Zander', 'Don Shelton', 'Patrick Harris'] NAY=['Kathie Johnson', 'Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Zander motioned to approve Resolution R2025-09, Authorizing the M
+   2025-06-17 [Council] m9 3-2 Pass | AYE=['Don Shelton', 'Kathie Johnson', 'Dawn R. Ramsey'] NAY=['Patrick Harris', 'Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=['Tamara Zander'] :: Council Member Shelton motioned to approve Ordinance 2025-09, Amending Section 1
+   2025-08-19 [Council] m7 4-1 Pass | AYE=['Don Shelton', 'Jason McGuire', 'Kathie Johnson'] NAY=['Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Shelton motioned to table Resolution R2025-41 to the next City Co
+   2025-09-02 [Council] m1 4-1 Pass | AYE=['Tamara Zander', 'Jason McGuire', 'Kathie Johnson', 'Don Shelton'] NAY=['Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Zander motioned to approve Resolution R2025-41, Authorizing the M
+   2025-09-02 [Council] m2 4-1 Pass | AYE=['Tamara Zander', 'Kathie Johnson', 'Jason McGuire', 'Don Shelton'] NAY=['Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Zander motioned to approve Resolution R2025-42, Amending the Futu
+   2025-09-02 [Council] m3 4-1 Pass | AYE=['Jason McGuire', 'Tamara Zander', 'Kathie Johnson', 'Don Shelton'] NAY=['Patrick Harris'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member McGuire motioned to approve Zoning Ordinance 2025-06-Z, Rezoning 
+   2025-12-02 [Council] m6 4-1 Pass | AYE=['Kathie Johnson', 'Don Shelton', 'Patrick Harris', 'Tamara Zander'] NAY=['Jason McGuire'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Member Johnson motioned to approve Resolution R2025-57, Authorizing the 
+

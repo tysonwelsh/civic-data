@@ -1,0 +1,39 @@
+{
+  "contributions": [
+    {"date": null, "name": "Daniel Hemmert", "amount": "1000.00", "in_kind": false},
+    {"date": null, "name": "Stan Lockhart", "amount": "250.00", "in_kind": false},
+    {"date": null, "name": "Brad Bonham", "amount": "5000.00", "in_kind": false},
+    {"date": null, "name": "Republican Women Lead", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Ann Millner", "amount": "250.00", "in_kind": false},
+    {"date": null, "name": "Todd Weiler", "amount": "75.00", "in_kind": false},
+    {"date": null, "name": "Lincoln Fillmore", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Phoneburner", "purpose": null, "amount": "177.29", "in_kind": false},
+    {"date": null, "recipient": "Renaissance Signs", "purpose": null, "amount": "90.93", "in_kind": false},
+    {"date": null, "recipient": "Kneaders Bakery & Cafe", "purpose": null, "amount": "15.65", "in_kind": false},
+    {"date": null, "recipient": "Tacomania", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Squarespace.com", "purpose": null, "amount": "206.30", "in_kind": false},
+    {"date": null, "recipient": "Murphys Cafe", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "560.00", "in_kind": false},
+    {"date": null, "recipient": "", "purpose": null, "amount": "20.00", "in_kind": false},
+    {"date": null, "recipient": "Stripe Credit Card Fee", "purpose": null, "amount": "145.30", "in_kind": false},
+    {"date": null, "recipient": "Walmart - Meet the Candidate Treat", "purpose": null, "amount": "18.46", "in_kind": false},
+    {"date": null, "recipient": "PostNet", "purpose": null, "amount": "122.00", "in_kind": false}
+  ],
+  "total_contributions": "7175.00",
+  "total_expenditures": "1455.93",
+  "contributions_50_or_less": null,
+  "beginning_balance": "10673.88",
+  "ending_balance": "16392.95",
+  "_meta": {
+    "index_path": "raw/2025_mccay_28-day-report.pdf",
+    "candidate": "Tawnee McCay",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_mccay_28-day-report.pdf",
+    "pages": 5,
+    "method": "text-layer transcription 2026-07-18 (born-digital, typed). 28-Day Report; THIS-PERIOD = Column B (8/5/25 THRU 10/7/25) per convention: contrib 7175.00 / expend 1455.93. Column A (thru 8/5 primary) = 18415.55 contrib / 10386.76 expend (that is the Pre-Primary report, cached separately). One expenditure line has a blank recipient (20.00) -> needs_review. Cover excludes in-kind (Schedule C = 0.00)."
+  }
+}

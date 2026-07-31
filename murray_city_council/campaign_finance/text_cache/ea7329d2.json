@@ -1,0 +1,52 @@
+{
+  "contributions": [
+    {"date": "10/24/2023", "name": "MARCUS STEVENSON", "amount": "25", "in_kind": false},
+    {"date": "10/24/2023", "name": "KATHY MCMANUS MERCER", "amount": "100", "in_kind": false},
+    {"date": "10/25/2023", "name": "DILLON HASE", "amount": "100", "in_kind": false},
+    {"date": "10/25/2023", "name": "VICTORIA PETRO-ESCHLER", "amount": "50", "in_kind": false},
+    {"date": "10/26/2023", "name": "ROMALDO DESOUZA", "amount": "100", "in_kind": false},
+    {"date": "10/29/2023", "name": "MARY ROSE MURRAY CAREY", "amount": "50", "in_kind": false},
+    {"date": "10/30/2023", "name": "JENNY WILSON", "amount": "250", "in_kind": false},
+    {"date": "10/30/2023", "name": "INSULATORS INTERNATIONAL POLITICAL ACTION CO", "amount": "100", "in_kind": false},
+    {"date": "10/30/2023", "name": "UNITED STEELWORKERS DISTRICT 12", "amount": "400", "in_kind": false},
+    {"date": "10/31/2023", "name": "MUNIR MERCHANT", "amount": "250", "in_kind": false},
+    {"date": "10/31/2023", "name": "ROBIN HOUGH", "amount": "75", "in_kind": false},
+    {"date": "10/31/2023", "name": "CAMERON BEECH", "amount": "50", "in_kind": false},
+    {"date": "11/3/2023", "name": "CHRIS SPIETH", "amount": "50", "in_kind": false},
+    {"date": "11/3/2023", "name": "SIM GILL FOR DA CAMPAIGN", "amount": "300", "in_kind": false},
+    {"date": "11/9/2023", "name": "RYAN ODOM", "amount": "15", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/24/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "1.88", "in_kind": false},
+    {"date": "10/25/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "2.25", "in_kind": false},
+    {"date": "10/26/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "1.50", "in_kind": false},
+    {"date": "10/27/2023", "recipient": "Costco", "purpose": "Campaign Supplies", "amount": "104.80", "in_kind": false},
+    {"date": "10/28/2023", "recipient": "Elevate", "purpose": "Consulting & Texting", "amount": "1,250.00", "in_kind": false},
+    {"date": "10/29/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "0.75", "in_kind": false},
+    {"date": "10/30/2023", "recipient": "Loyal Perch Medi", "purpose": "Murray Journal Ads Nov", "amount": "810.00", "in_kind": false},
+    {"date": "10/30/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "3.75", "in_kind": false},
+    {"date": "10/31/2023", "recipient": "SSFCU", "purpose": "Bank Fee", "amount": "20.00", "in_kind": false},
+    {"date": "10/31/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "5.63", "in_kind": false},
+    {"date": "11/1/2023", "recipient": "Tissot Solutions", "purpose": "Fundraising", "amount": "1,000.00", "in_kind": false},
+    {"date": "11/3/2023", "recipient": "Elevate", "purpose": "Mailer", "amount": "1,642.20", "in_kind": false},
+    {"date": "11/3/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "0.75", "in_kind": false},
+    {"date": "11/6/2023", "recipient": "Elevate", "purpose": "Digital", "amount": "1,000.00", "in_kind": false},
+    {"date": "11/7/2023", "recipient": "Tissot Solutions", "purpose": "Fundraising", "amount": "10.00", "in_kind": false},
+    {"date": "11/9/2023", "recipient": "ActBlue", "purpose": "Fee", "amount": "0.23", "in_kind": false}
+  ],
+  "total_contributions": "1,915.00",
+  "total_expenditures": "5,853.74",
+  "contributions_50_or_less": null,
+  "beginning_balance": "7,426.13",
+  "ending_balance": "3,487.39",
+  "_meta": {
+    "index_path": "raw/202311_Garry-Hrechkosy_14808.pdf",
+    "candidate": "Garry Hrechkosy",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-General 7-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "reconciles: 15 itemized Schedule A contributions sum to $1,915 = printed cover total ($1,915.00); 16 Schedule B expenditure rows sum to $5,853.74 = printed Schedule B/page total. (Summary-page line 2 prints a garbled '$ 5'; the correct $5,853.74 is taken from the Schedule B footer and line 6.) Schedule C in-kind is None ($0)."
+  }
+}

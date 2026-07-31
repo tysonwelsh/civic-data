@@ -1,0 +1,29 @@
+{
+  "contributions": [
+    {"date": "10/28/25", "name": "Western States Regional Council of Carpenters", "amount": "500.00", "in_kind": false},
+    {"date": "11/14/25", "name": "Luke Maynes", "amount": "25.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Google Ads", "purpose": null, "amount": "179.91", "in_kind": false},
+    {"date": null, "recipient": "Felicia Cotton", "purpose": null, "amount": "600.00", "in_kind": false},
+    {"date": null, "recipient": "Scale to Win", "purpose": null, "amount": "84.76", "in_kind": false},
+    {"date": null, "recipient": "Facebook Ads", "purpose": null, "amount": "17.49", "in_kind": false},
+    {"date": null, "recipient": "Google Ads", "purpose": null, "amount": "79.07", "in_kind": false},
+    {"date": null, "recipient": "Transfer to Friends of Ben Peck (State PAC)", "purpose": null, "amount": "2,091.34", "in_kind": false}
+  ],
+  "total_contributions": "525.00",
+  "total_expenditures": "3052.57",
+  "contributions_50_or_less": null,
+  "beginning_balance": "2527.57",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/202512_Ben-Peck_17344.pdf",
+    "candidate": "Ben Peck",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "reporting_period": "Year-end final",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "itemized Schedule A sums to 525.00 vs printed cover 525.00 (reconciles); itemized Schedule B sums to 3052.57 vs printed cover 3052.57 (reconciles). Form Section 2 marks '30 Days After Municipal General Election'."
+  }
+}

@@ -1,0 +1,422 @@
+---
+title: Alta Town Council — Regular Meeting 2024-01-10
+date: 2024-01-10
+meeting_type: regular
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1086131.pdf
+source_file: 2024-1-10 TC Meeting Minutes APPROVED.pdf
+pmn_file_id: 1086131
+format: ocr
+---
+
+_ MINUTES |
+PUBLIC HEARING . |
+ALTA TOWN COUNCIL MEETING .
+. Wednesday, January 10, 2024, 2:45 PM
+Alta Community Center, 10351 E. Highway 210, Alta, Utah
+PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil |
+Councilmember John Byrne |
+Councilmember Elise Morgan
+; Councilmember Dan Schilling (virtual) .
+STAFF PRESENT: Chris Cawley, Interim Town Manager |
+Mike Morey, Town Marshal
+; Jen Clancy, Town Clerk
+. Molly Austin, Deputy Town-Clerk |
+Chris Otto, Assistant Town Manager
+ALSO PRESENT: Polly McLean, Legal Counsel (virtual)
+Cameron Platt, Legal Counsel (virtual)
+PUBLIC HEARING :
+1. CALL THE PUBLIC HEARING TO ORDER
+00:00:00 — |
+Mayor Bourke called the public hearing on January 10, 2024 to order. ,
+2. PUBLIC HEARING TO RECEIVE COMMENT ON PROPOSED ORDINANCE 2024-0-1 REGARDING ;
+' THE COMPENSATION OF ELECTIVE AND STATUTORY OFFICERS .
+00:01:45 | , |
+Mayor Bourke asked for comments from the public on the draft ordinance regarding the compensation
+of elective and statutory officers. There were no public comments. a
+3. MOTION TO ADJOURN | :
+00:07:30 , :
+MOTION: Elise Morgan motioned to adjourn, and John Byrne seconded. | |
+|
+VOTE: All were in favor. The public hearing was adjourned unanimously. |
+RESULT: APPROVED ,
+Alta Town Council Meeting ; |
+January 10, 2024 1 | |
+
+, : ALTA TOWN COUNCIL MEETING |
+1. CALL THE MEETING TO ORDER
+
+00:09:45
+
+Mayor Bourke called the January 10, 2024 Alta Town Council meeting to order.
+2. CITIZEN INPUT | : |
+
+00:09:50 :
+
+Mayor Bourke opened the floor for public comment, there was no public comment. -
+3. OPEN PUBLIC MEEING ACT TRAINING, POLLY MCLEAN
+
+00:11:00. , . |
+
+Polly McLean provided a presentation on the Open Public Meetings Act, emphasizing the annual =.
+
+training requirement mandated by state law. She highlighted the importance of transparency and open
+
+decision-making, urging councilmembers to conduct town business in public meetings rather than
+
+behind closed doors. Councilmembers were reminded of the legislative nature of their role. While one-
+
+on-one discussions are allowed, she again encouraged councilmembers to have conversations in public
+
+forums. The Act's broad applicability to various aspects of public business was outlined, with ,
+
+exceptions for subcommittees with less than a quorum of the council present.
+
+Polly reviewed the definition of a meeting, cautioning against discussing town business during chance |
+
+encounters and discouraging email or text conversations on substantive matters. Chance encounters at |
+
+social events were deemed acceptable, but caution was advised against discussing town business
+
+and/or rehashing intense meetings. The impact of emails on the Government Records Management -
+
+Act was underscored, emphasizing the public nature of town-related emails. Polly urged |
+
+councilmembers to be mindful of the potential public disclosure of their communications. The |
+
+presentation emphasized the significance of conducting discussions in open meetings, and discouraged
+
+private exchanges during official sessions. Polly also informed the councilmembers that they could not ~
+
+text each other during council meetings regardless of if the messages were about town business or not.
+
+Elise Morgan shared her experience with closed meetings, mentioning that there were more closed —
+
+meetings during her initial years on the council. Mayor Bourke and Chris Cawley added their comments
+
+on the frequency of closed meetings, with the mention of a placeholder in the agenda for potential
+
+closed sessions. . . .
+
+Polly McLean shifted to the importance of agenda setting, noting the 24-hour requirement for setting .
+the agenda and the significance of the public knowing the topics to be discussed. The adoption of the .
+annual meeting schedule in June was mentioned. The public comment section of the meeting was also —
+mentioned and that everyone would be held to the same time cap as noted on the meeting agendas. ;
+Alta Town Council Meeting
+January 10, 2024 2
+
+, |
+The meeting recording and availability of minutes were highlighted. Elise Morgan and John Byrne |
+sought clarification on making motions for topics not on the agenda. Elise explained her understanding |
+of the practice of making a motion for discussion but clarified that a final vote or action.couldn't occur |
+without prior notice on the agenda.
+The conversation concluded with a brief discussion on the mechanics of proposing and passing |
+resolutions, and Polly McLean reiterated the consequences of knowingly or intentionally violating the :
+Open Public Meetings Act. Overall, the discussion covered various aspects of the Open Public Meetings
+Act, agenda setting, public participation, and the documentation of meetings.
+_ The discussion continued with John Byrne pointing out a potential conflict in the special meetings .
+provision of the Rules of Procedure and Order for the Alta Town Council, mentioning that the town's
+, rule contradicts what was discussed earlier about the majority of the council being required to call a
+special meeting. Polly McLean acknowledged this and mentioned that it would be considered for
+updates.
+Polly McLean also touched on various aspects of the rules of procedure, highlighting that the minimum |
+number of votes required to pass any action is three, and a roll call vote is required for all resolutions
+and ordinances. John Byrne raised a question about the requirement for councilmembers to vote if
+present unless recused, and whether this was a policy decision. The discussion delved into the topic of
+- abstention, with John expressing his view that councilmembers should be allowed to abstain without ae
+providing a reason and the rules of procedure be updated to make that allowance. :
+The conversation concluded with the mention of the need to elect a Mayor Pro Tempore, and it was .
+decided to include it on the agenda at the next meeting. Polly McLean expressed appreciation for the
+council's efforts and dedication to local governance. |
+’ 4. REVIEW: RULES OF PROCEDURE AND ORDER FOR THE ALTA TOWN COUNCIL, JEN CLANCY |
+00:48:14 .
+Jen Clancy emphasized the importance of reviewing documents regularly, especially with the presence 7
+of new councilmembers. She highlighted key points such as setting the meeting schedule, agenda
+procedures, and the recording of votes in resolutions and ordinances. Jen also stressed the significance
+of timely communication about attendance at meetings for efficient management.
+John Byrne expressed concerns about the rigid timeframe for notifying the council about agenda items, .
+suggesting a more flexible approach. He also discussed the need to differentiate between special and
+emergency meetings. The discussion touched upon the time limits for public comments and the
+potential imposition of time constraints during the commentary period. Cameron Platt explained the :
+importance of treating all public comments equally to avoid First Amendment issues. The conversation
+further delved into the council's response time to staff communications, with John Byrne proposing a :
+more flexible approach.
+Mayor Bourke suggested there be flexibility in notifying the clerk of attendance changes, considering
+unforeseen circumstances. Overall, the councilmembers engaged in a constructive discussion to refine
+and clarify certain procedures for effective governance. Staff said they would prepare and present an
+Alta Town Council Meeting
+January 10, 2024 3
+;
+
+edited version of the rules and procedures at the February meeting to address concerns identified by |
+
+the councilmembers. . , | )
+
+- 5. ALTA SKI AREA UPDATE, MIKE MAUGHAN : |
+
+01:16:05 } |
+
+|
+
+Mayor Bourke reported that Mike Maughan was absent and then shared an email communication from
+
+Mike regarding updates related to the mountain collective meetings and snow conditions. Mike - |
+
+suggested the possibility of a work session or open community forum to present findings and gather
+
+feedback on traffic issues. He also mentioned the idea of the Alta community sending a letter to
+
+Snowbird regarding traffic management and, if needed, a letter to various authorities if Snowbird's
+
+response was unfavorable. Additionally, he said there is a proposal from BHA Avalanche Safety to
+
+explore alternatives for mitigating avalanche risk on the main line under Mount Superior.
+
+|
+
+Carolyn Anctil expressed concern about the road conditions in the canyon, specifically mentioning that |
+
+the buses are significantly fewer than before. She questioned whether there was data suggesting a
+
+reduction in road conditioning, possibly connecting it to a push for supporting the gondola, Elise , |
+
+Morgan and others contributed to the discussion, mentioning challenges faced by plows in heavy |
+
+traffic and snow conditions, and Mike Morey explained the importance of vehicular movement on top
+
+of plowing efforts for effective salt and sand application. Elise Morgan also mentioned the ability to |
+
+track plows on the traffic website.
+
+The conversation also touched upon compliance with traction laws, the presence of destination
+visitors, and the impact of unfamiliar drivers on traffic. Mayor Bourke attributed increased visitors to
+
+"the area due to having the best snow in Utah and the west. John Byrne mentioned the challenge posed
+
+by the high number of Ikon Passes.
+
+. _ 6 QUESTIONS REGARDING DEPARTMENTAL REPORTS . ,
+
+01:21:50
+
+John Byrne raised some points regarding Chris Cawley's presentation, noting a discrepancy in the date |
+
+mentioned by Chris and seeking clarification that "shovel ready" refers to the upcoming building
+
+season in calendar year 2024, not the fiscal year. The conversation then shifted to a discussion about |
+
+purging files, with Chris Otto suggesting they discard unnecessary documents and consider the
+
+opportunity to archive the rest in state archives for no or low-cost storage. :
+
+Chris Cawley previewed Administrative Code Enforcement, mentioning that they lost track of it after |
+
+the November or October meeting and staff plans to bring it back to the council in February. Cameron — |
+
+Platt explained the three enforcement options—criminal, code enforcement, and administrative
+
+enforcement—and the proposed approach to have civil code enforcement for any town ordinance that
+
+is a misdemeanor or below. John Byrne expressed support for this direction, and Elise Morgan also .
+
+approved, highlighting the flexibility it offers. The discussion touched on the importance of having
+
+additional tools in the toolbox. .
+
+|
+
+Alta Town Council Meeting , |
+
+January 10, 2024 4
+
+Mayor Bourke asked for any questions on the staff reports and prompted Mike Morey to elaborate on - |
+his report. Mike Morey provided a brief overview of a recent sexual assault case that the police
+__ department handled. He reported that the incident occurred at the Albion Day Lodge, where workers
+observed a visually distressed young female. Initial field interviews didn't reveal evidence of acrime, _
+but further investigation led to the discovery of a relative relationship between the individuals. After
+gaining intelligence and coordinating with partner agencies, the police were able to gather evidence
+supporting six counts of forcible sexual abuse of a child. The suspect was been booked into the Salt
+' Lake County Jail, is being held without bail, and awaits further legal proceedings. |
+Mike Morey expressed the challenges faced by the police department in handling such cases, |
+particularly the lack of resources for forensic interviews in crimes against children. He emphasized the |
+need for the department to become more adept at managing various situations. Mayor Bourke |
+mentioned the significance of investing in resources for the police department, and Mike expresses his |
+. intention to discuss this further at the upcoming retreat.
+‘Carolyn Anctil acknowledged and applauded the efforts of the police department in handlingthe __
+incident mentioned. She reflected that her daughter and the other community members that reported
+what they had witnessed were treated professionally and with care. She expressed gratitude for the
+support and suggested providing any assistance or legal work that the community can offer to support
+the police department.
+John Byrne mentioned he felt the finance reports were great.
+7.. APPROVAL OF CONSENT AGENDA: DECEMBER 13, 2023, MEETING MINUTES, STAFF AND
+FINANCE REPORTS
+01:40:30
+MOTION: John Byrne motioned to approve the consent agenda including the December 13, .
+2023 town council meeting minutes, and staff and finance reports. Elise Morgan seconded. ;
+VOTE: All were in favor. The December 13, 2023 meeting minutes, and staff and finance
+reports were approved. .
+RESULT: APPROVED :
+8. MAYORS REPORT .
+01:41:00 |
+Mayor Bourke highlighted the monthly meetings with other mayors from Salt Lake County, where )
+homelessness was a recurring concern. He said the Council of Mayors would be meeting in Alta in July.
+Mayor Bourke mentioned his support of trailhead toilets and said he had an upcoming meeting with
+the Forest Service to discuss potential placement.
+Mayor Bourke also addressed the upcoming legislative session, emphasizing vigilance through our
+lobbyist. .
+Alta Town Council Meeting . i
+January 10,2024 5
+
+Mayor Bourke mentioned the potential removal of year-round roadside parking on the north side of SR )
+210, though he acknowledged it as a long-term goal. He stated the Central Wasatch Commission had |
+‘held a retreat in January and took.a position on the Little Cottonwood Canyon EIS that they strongly
+favored phase one along with a canyon wide parking reservation system and suggested with these
+improvements a gondola wouldn’t be necessary.
+Mayor Bourke mentioned the upcoming town retreat organized by Chris to address long-term plans. .
+He said the next town council meeting was scheduled for February 14, with a start time subject to
+revision. The councilmembers discussed the meeting start times for the rest of the fiscal year. Itwas
+generally agreed upon that a 4pm start time worked better and the council asked staff to prepared a |
+revised schedule that they could vote on at the February meeting.
+MOTION: Mayor Bourke motion to change the start time for the February town council i
+meeting from 3pm to 4pm. John Byrne seconded. |
+VOTE: All were in favor. The February town council meeting was rescheduled to start at 4pm.
+ue RESULT: APPROVED .
+9. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2024-R-1 CONFIRMING: |
+APPOINTMENT OF THE TOWN MARSHAL
+01:49:30 | oe
+Cameron Platt, explained that the next few resolutions confirm existing appointments and discussed __
+the absence of a legal provision for reappointment. Cameron highlighted the council's request for this |
+‘resolution and suggested the option to close the meeting when discussing the character or |
+professional competence of an individual. Chris Cawley expressed satisfaction with the appointments
+. _ of Mike Morey as Town Marshal, Jen Clancy as Clerk, and Craig Heimark as Treasurer, praising their
+exemplary fulfillment of duties and value beyond statutory obligations.
+MOTION: Elise Morgan motioned to approve Resolution 2024-R-1 confirming reappointment
+of the Town Marshal. Dan Schilling seconded.
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Anctil — yes; Councilmember Byrne —
+yes, Councilmember Morgan — yes, Councilmember Schilling — yes, Resolution 2024-R-1 was
+unanimously adopted and Mike Morey’s appointment as Town Marshal was reconfirmed..
+RESULT: APPROVED :
+| 10. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2024-R-2 CONFIRMING
+APPOINTMENT OF THE TOWN CLERK AND APPOINTING THE BUDGET OFFICER ,
+01:53:10 . | .
+Alta Town Council Meeting .
+January 10, 2024 6 |
+
+John Byrne commended Jen for her excellent job as the town clerk and expressed that appointing her :
+as the town budget officer was overdue, offering congratulations. Carolyn Anctil inquired about
+potential education opportunities for Jen, who mentioned pursuing a clerk certification (CMC) and
+utilizing training opportunities in her current role.
+MOTION: Elise Morgan motioned to approve Resolution 2024-R-2 confirming appointment of
+the Town Clerk and Budget Officer. John Byrne seconded. |
+Mayor Bourke — yes, Councilmember Anctil ~ yes, Councilmember Byrne — yes, Councilmember 3
+Morgan — yes, Councilmember Schilling — yes, Resolution 2024-R-2 was unanimously adopted |
+and Jen Clancy’s appointment as Town Clerk was reconfirmed, and Jen Clancy was appointed
+the Budget Officer. |
+RESULT: APPROVED :
+: |
+11. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2024-R-3 CONFIRMING ; !
+APPOINTMENT OF THE TOWN TREASURER
+01:55:30 oo
+Mayor Bourke acknowledged that Craig Heimark does his job responsibly on essentially a volunteer |
+basis. The mayor praised his expertise that was volunteered for the benefit of the town, highlighting it .
+' as a commendable display of community spirit.
+John Byrne chimed in, noting that although there were rough spots at the beginning, Craig had shown , |
+significant growth in the role. John expressed satisfaction with the ongoing exchange of information  -
+and the positive direction of their relationship.
+. MOTION: Elise Morgan motioned to approve Resolution 2024-R-3 confirming appointment of
+the Town Treasurer. Carolyn Anctil seconded.
+; ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Anctil — yes, Councilmember Byrne —
+yes, Councilmember Morgan — yes, Councilmember Schilling — yes, Resolution 2024-R-1 was
+unanimously adopted and Craig Heimark’s appointment as Town Treasurer was reconfirmed. |
+; |
+RESULT: APPROVED | |
+12. DISCUSSION AND POSSIBLE ACTION TO ADOPT ORDINANCE 2024-0-1 REGARDING THE
+COMPENSATION OF ELECTIVE AND STATUTORY OFFICERS
+01:57:15 . .
+Elise Morgan raised a question about the necessity of voting on this issue, to which Chris Cawley —- |
+explained that it is a statutory requirement for all municipal governments to approve the
+compensation of appointed officers by ordinance annually. John Byrne added that it was not a new
+requirement but rather a modest non-compliance that the council was not aware of in the past.
+Alta Town Council Meeting .
+January 10, 2024 ; 7 |
+
+Elise expressed her lack of recollection of voting on this annually but expressed satisfaction with the
+compliance efforts. Jen Clancy clarified that this was a catch-up action to ensure compliance and
+mentioned that such votes would become more regular in the future. Chris Cawley explained that it
+usually gets wrapped up in the budget approval documents in most cities, and going forward, the
+council should expect to see it annually. ,
+MOTION: John Byrne motioned to adopt Ordinance 2024-O-1. Elise Morgan seconded. |
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Anctil — yes, Councilmember Byrne — . !
+yes, Councilmember Morgan — yes, Councilmember Schilling — yes, Ordinance 2024-O-1 was
+unanimously adopted. |
+. |
+RESULT: APPROVED |
+13. DISCUSSION AND POSSIBLE ACTION TO ADOPT ORDINANCE 2024-0-2 UPDATING SECTION 1- . |
+15-1 OF THE TOWN CODE REGARDING BOND AND CRIME COVERAGE
+01:59:15 | . |
+Chris Cawley explained that this update was related to the town manager appointment, and it |
+stemmed from the town manager ordinance passed the previous March. He detailed the discussions
+about getting a bond and the proposal to include an option in the ordinance allowing the crime
+insurance policy to provide the necessary coverage instead of obtaining a special bond.
+Mayor Bourke expressed confidence in the town's system for protecting fiscal resources, highlighting |
+the practice of having two signatures on each check. Jen Clancy provided additional details on the |
+coverage, including policies for receiving cash and payments in the office. |
+Mayor Bourke voiced comfort with the idea that the regular insurance covers these aspects. John ; |
+Byrne raised a question about a past credit card issue, and Chris Cawley clarified that it was covered by
+fraud protection with the bank. Jen Clancy confirmed that they recouped 100%, though the downside
+was the time spent dealing with the issue. The council expressed satisfaction with the resolution of the
+matter. ;
+| MOTION: John Byrne motioned to adopt Ordinance 2024-O-2. Mayor Bourke seconded.
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Anctil ~ yes, Councilmember Byrne —
+
+- yes, Councilmember Morgan — yes, Councilmember Schilling — yes, Ordinance 2024-O-2 was
+unanimously adopted. |
+RESULT: APPROVED , | |
+
+John Byrne raised a question to Cameron Platt regarding consents, seeking clarification on whether the , :
+council would still demand consents for appointed officials annually. Cameron Platt explained that
+- going forward, individuals appointed to positions would serve until replaced, and the process of
+removal would only occur when a replacement is found. |
+Alta Town Council Meeting |
+January 10, 2024 8 |
+
+14. UPDATE ON THE JANUARY TOWN COUNCIL RETREAT
+02:05:30
+Chris Cawley expressed gratitude for everyone's participation in the retreat preparation. He shared the
+adjusted schedule for the retreat due to potential road closures and thanked Carolyn for making
+adjustments to participate. Elise Morgan expressed excitement about the retreat, emphasizing the
+importance of dedicating a day to discussing important matters that couldn't be addressed in regular
+council meetings.
+Carolyn Anctil commended Chris for his efforts, seeking outside counsel and involving each council
+member in the process. Dan Schilling expressed enthusiasm despite being unable to physically attend
+today’s meeting due to the road closure and appreciated the communication among the team. John
+Byrne shared his excitement and readiness for the retreat, mentioning the survey and acknowledging
+that it's a new and exciting prospect.
+Chris Cawley discussed the challenges of finding the right balance and timing for such work,
+recognizing the special constraints of the town. Mayor Bourke expressed expectations of coming out of
+the retreat with eager resolves and action items and acknowledged the challenge of sustaining
+enthusiasm.
+Jen Clancy asked the council if they would be ok without a Zoom setup for virtual participation and the
+council supported the idea. She assured the council that the meeting would be recorded.
+15. NEW BUSINESS
+02:16:50
+There was no new business.
+16. MOTION TO ADJOURN
+
+02:17:10
+
+MOTION: John Byrne motioned to adjourn, and Elise Morgan seconded.
+
+VOTE: Allin favor. The meeting was adjourned unanimously.
+
+RESULT: APPROVED
+Passed this 14" day of February, 2024
+
+if
+LX a
+
+Jen lahcy, Town Cler
+Alta Town Council Meeting
+January 10, 2024 9

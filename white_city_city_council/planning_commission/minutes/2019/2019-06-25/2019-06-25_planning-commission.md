@@ -1,0 +1,117 @@
+# White City Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/516409.pdf
+> Meeting date: 2019-06-25
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2019-06-25
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/516409.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                             Planning and Development Services
+                                             2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                             Phone: (385) 468-6700 • Fax: (385) 468-6674
+                                             www.pwpds.slco.org
+
+
+                                           MEETING MINUTE SUMMARY
+                      WHITE CITY METRO TOWNSHIP PLANNING COMMISSION MEETING
+                                    Tuesday, June 25, 2019 7:00 p.m.
+
+                              **Meeting minutes approved on July 23, 2019**
+Approximate meeting length: 42 minutes                                   *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 1                                        found on the State and County websites, or from Salt Lake
+                                                                         County Planning & Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner
+
+                                                    ATTENDANCE
+Commissioners and Staff:
+
+                                  Public     Business
+        Commissioners                                   Absent                                                  Public      Business
+                                   Mtg         Mtg                              Planning Staff / DA
+                                                                                                                 Mtg          Mtg
+     Christy Seiger-Webster         x           x
+     Christopher Spagnuolo          x           x                                  Wendy Gurr                      x             x
+          Robert Frailey            x           x                                  David White
+          Gene Wilson               x           x                               Lupita McClenning
+        Antoinette Blair                                  x
+         Weston Millen              x           x
+
+
+
+
+                                               BUSINESS MEETING
+
+                                            Meeting began at – 7:08 p.m.
+    1) Approval of Minutes from the January 29, 2019 meeting.
+       Motion: To continue minutes from the January 29, 2019 meeting to July 23rd.
+             Motion by:
+             2nd by:
+             Vote:
+    2) Confirm July 23, 2019 meeting attendance
+       Majority advised they would be available on July 23rd.
+    3) Other Business Items (as needed)
+
+
+                                                PUBLIC HEARINGS
+
+                                            Hearings began at – 7:10 p.m.
+
+30939 – Ordinance Amendments – Enactment of an administrative code enforcement process to be codifies
+in Title 12 of the White City Metro Township Municipal Code.
+
+White City Metro Township Planning Commission – June 25, 2019 – Meeting Summary                                        Page 1 of 2
+Craig Smith and Scott Ellsworth, MSD Attorneys provided information to the planning commissioner with
+regards to the metro township abatement and code enforcement.
+
+Commissioner Spagnuolo confirmed they need to have a process to take action. Mr. Smith said related to
+land use and regulations to avoid negative impact on neighboring properties. Commissioner Seiger-
+Webster asked of any up changing law enforcement coming from West Valley and about one year and time
+frame within the code about how the time frame is assigned and violation, the citation would have a time
+to mitigate and when a second notice is issued. Commissioner Spagnuolo said he is concerned with noticing
+process and whether the owner is notified.
+
+12.2.310 – uniform code and abatement of code and lead into the process.
+12.2.550 – responsible party and response time
+12.2.590 – failure to attend meeting, other party granted. If the metro township doesn’t show up, cease.
+
+                              PUBLIC PORTION OF MEETING OPENED
+
+Speaker # 1: Citizen
+Name: Scott Little
+Address: 854 East Hollyhock Avenue
+Comments: Mr. Little said he’s concerned with the notice under rule 4 and allow served personally, by
+mail or courier requiring signature. ALJ within 20 days, working with code enforcement, should lose the
+hearing right if things break down or disagreement, can still have a hearing. Give notice per code section,
+$100 day/ and accrues until inspection and certificate of compliance.
+
+Commissioner Wilson said should be some period of remediation and time to take care of a problem. Mr.
+Little said start out compassionate before the hard approach. Mr. Wilson said ALJ needs structure. Second
+violation notice required. If they haven’t remedied a problem and got a second notice, maybe have a
+continuing fine. ALJ would only consider the evidence in 12.2.540, subsection 4.
+
+Commissioner Seiger-Webster motioned to adjourn.
+
+                              PUBLIC PORTION OF MEETING CLOSED
+
+Motion: To continue file #30939 to the July 23rd meeting.
+      Motion by: Commissioner Seiger-Webster
+      2nd by: Commissioner Frailey
+      Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+                                          MEETING ADJOURNED
+                                         Time Adjourned – 7:50 p.m.
+
+
+
+
+White City Metro Township Planning Commission – June 25, 2019 – Meeting Summary                 Page 2 of 2
+

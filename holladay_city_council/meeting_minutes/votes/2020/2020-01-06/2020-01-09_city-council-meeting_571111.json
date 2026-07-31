@@ -1,0 +1,75 @@
+{
+ "date": "2020-01-09",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/571111.pdf",
+ "path": "minutes/2020/2020-01-06/2020-01-09_city-council-meeting_571111.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "and",
+   "seconder": "Gibbons",
+   "motion": "approve Resolution 2020-01",
+   "motion_type": "Resolution",
+   "result": "Resolution 2020-01 was approved by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "recess and reconvene in a Work Session",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Petersen",
+   "seconder": "Fotheringham",
+   "motion": "adjourn",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

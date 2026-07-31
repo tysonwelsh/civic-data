@@ -1,0 +1,84 @@
+city,value,recorded_meaning,notes
+*,Aye,vote in favor,
+*,Nay,vote against,
+lehi,Absent,not present at the vote,
+lehi,Abstain,"present, declined to vote",rare (6 rows)
+lehi,Recuse,recused for conflict,1 row
+logan,Absent,not present at the vote,
+logan,Abstain,"present, declined to vote",
+logan,,(no member rows),"many logan council votes are narrative ""Carried unanimously (no names)"" — no member rows exist"
+millcreek,Absent,not present at the vote,Council (7 rows); mayor VOTES here so full council tally tops out at 5 (4 districts + mayor)
+millcreek,Abstain,"present, declined to vote",Council + Planning Commission
+millcreek,Recuse,recused for conflict,4 rows (Planning Commission)
+nephi,Absent,not present at the vote,
+nephi,Abstain,"present, declined to vote",
+nephi,Recuse,recused for conflict,
+nephi,,(no member rows),nephi minutes are mostly tally-only; named rows exist for only ~260 votes
+ogden,Absent,not present at the vote,
+ogden,Abstain,"present, declined to vote",
+ogden,Recuse,recused for conflict,
+orem,,Aye/Nay only ceiling,"orem minutes record only Aye/Nay (+8 Abstain rows); absences appear as missing names, never as Absent rows"
+orem,Abstain,"present, declined to vote",8 rows
+park_city,Absent,not present at the vote,
+park_city,Abstain,"present, declined to vote",
+park_city,Recuse,recused for conflict,
+park_city,Nay (Mayor tie-break),mayor cast tie-breaking Nay,"2 rows; in db/parkcity.db these carry vote.note=""Mayor tie-break"" on vote_value=Nay"
+provo,Absent,not present at the vote,
+provo,Abstain,"present, declined to vote",
+sandy,Absent,not present at the vote,
+sandy,Abstain,"present, declined to vote",
+sandy,Recuse,recused for conflict,
+sandy,Excused,absence excused in the minutes,sandy-only value (Legistar); treat as Absent for comparisons
+sandy,Nonvoting,nonvoting seat,db-only value (Legistar EventItemVote); never appears in all_votes.csv
+slc,Absent,not present at the vote,
+slc,Abstain,"present, declined to vote",
+slc,Recuse,recused for conflict,
+south_jordan,Absent,not present at the vote,
+south_jordan,Abstain,"present, declined to vote",5 rows (Planning Commission)
+st_george,Absent,not present at the vote,
+st_george,Abstain,"present, declined to vote",
+st_george,Recuse,recused for conflict,
+vineyard,Absent,not present at the vote,
+vineyard,Recuse,recused for conflict,vineyard records no Abstain
+west_jordan,Absent,not present at the vote,
+west_jordan,Abstain,"present, declined to vote",
+west_jordan,Recuse,recused for conflict,
+west_valley,Absent,not present at the vote,
+west_valley,Abstain,"present, declined to vote",
+west_valley,Recuse,recused for conflict,
+taylorsville,Absent,not present at the vote,"Council + Planning Commission; mayor does NOT vote so a full council roll call tops out at 5 (5 councilmembers, presiding Chair one of them)"
+taylorsville,Abstain,"present, declined to vote",35 rows (Planning Commission)
+taylorsville,Recuse,recused for conflict,3 rows (Planning Commission)
+murray,Absent,not present at the vote,"Council + Planning Commission; mayor does NOT vote (executive) so a full council roll call tops out at 5 (5 districts D1-D5, no at-large)"
+murray,Abstain,"present, declined to vote",Council + Planning Commission
+murray,Excused,absence excused in the minutes,Murray records Excused distinctly from Absent (39 council rows); treat as Absent for comparisons
+herriman,Absent,not present at the vote,"Council + Planning Commission + CDRA/HCSEA/HCFSA; the MAYOR VOTES here (Millcreek model, NOT non-voting) so a full council roll tops out at 5 (4 districts D1-D4 + mayor)"
+herriman,Excused,absence excused in the minutes,14 rows (Planning Commission)
+herriman,Abstain,"present, declined to vote",Planning Commission (surfaced in the recovered named rolls)
+herriman,Recuse,recused for conflict,"1 row (Planning Commission 2023-01-04 m4: Commissioner Fenn conflict-of-interest recusal, PMN-recovered minutes promoted 2026-07-16)"
+draper,Absent,not present at the vote,"Council + Planning Commission; 5 AT-LARGE council seats + separately-elected Mayor who is NON-voting except a rare tie-break (1 row, Mayor Troy K. Walker 2024-10-15, recorded as a plain Aye) - max ordinary council roll = 5"
+draper,Abstain,"present, declined to vote",76 rows (Planning Commission)
+draper,Recuse,recused for conflict,"Council (1) + Planning Commission (167; the PC grid column ""Not Participating"" maps to Recuse)"
+riverton,Absent,not present at the vote,Council; 5 districts + separately-elected NON-voting Mayor (Park City model) so max ordinary council roll = 5
+riverton,Recuse,recused for conflict,Council (9) + Planning Commission
+riverton,Abstain,"present, declined to vote",Council (1) + Planning Commission (9)
+riverton,Aye (Mayor tie-break),mayor cast tie-breaking Aye,"1 row (2025-12-16, Mayor Staggs broke a 2-2 tie); documented tie-break extension like park_city's Nay variant"
+alta,Abstain,"present, declined to vote",1 row (Council). Town form: the MAYOR VOTES (max council tally = 5: 4 at-large councilmembers + voting Mayor Bourke)
+midvale,Absent,not present at the vote,Council + RDA + Planning Commission; 5 districts + a six-member-form Mayor who votes ONLY on ties (max ordinary council roll = 5). Council also convenes in-session as the RDA (body=RDA).
+midvale,Recuse,recused for conflict,Council (1 row)
+midvale,Abstain,"present, declined to vote",Planning Commission (1 row)
+cottonwood_heights,Absent,not present at the vote,Council + CDRA + Planning Commission; the MAYOR VOTES (max council roll = 5: 4 districts + a separately-elected voting Mayor). Council convenes in-session as the CDRA (body=CDRA).
+cottonwood_heights,Abstain,"present, declined to vote",Council (16) + Planning Commission (10)
+holladay,Recuse,recused for conflict,"Council (1) + Planning Commission (2). The MAYOR VOTES here (Council-Manager form) so a full council roll = 6 (5 districts + mayor); printed ""Yes/No"" tokens are normalized to Aye/Nay per SCHEMA_SPEC §4."
+holladay,Abstain,"present, declined to vote",Planning Commission (2 rows)
+south_salt_lake,Absent,not present at the vote,Council (7 members: 5 districts + 2 at-large) + RDA + Planning Commission; the executive Mayor does NOT vote (max council roll = 7). Council also convenes as a separate RDA (body=RDA).
+south_salt_lake,Abstain,"present, declined to vote",Planning Commission (6 rows)
+bluffdale,Absent,not present at the vote,"Council + RDA + LBA + Planning Commission; 5 AT-LARGE council seats + a Mayor who is NON-voting in Council (max member tally = 5) except 2 tie-breaks, but VOTES as Chair in the in-session RDA/LBA (max 6)."
+bluffdale,Abstain,"present, declined to vote",Council (5) + Planning Commission (10)
+white_city,Abstain,"present, declined to vote","Council (12 rows) + Planning Commission (1 row - Millen 2021-05-25). Metro township (2017-2024) -> CITY 2024; the presiding Chair/Mayor VOTES in both eras (max tally 5). PC minutes recovered from PMN body 5879 (provenance=pmn_minutes, promoted 2026-07-16); the MSD narrative-tally form names only mover/seconder/abstainers, so unanimous PC rolls are tally-only placeholders."
+kearns,Abstain,"present, declined to vote",Council (1) + Planning Commission (4). Metro township (2017-2024) -> CITY 2024; city-era Mayor VOTES (max 5). Votes are narrative-tally (unanimous rolls are unnamed tally-only placeholders; only abstainers named). Township-era council 2017-2023 published no written minutes (audio-only; logged in minutes_unrecovered.csv) - text minutes begin 2024.
+magna,Absent,not present at the vote,"Council + CRA + Planning Commission; 5 districts. Metro township (2017-2024) -> CITY 2024: the township-era elected Chair (titled ""Mayor"") VOTES, but the 2026+ directly-elected executive Mayor (Sudbury) does NOT vote (max council roll = 5 both eras). Council also convenes as the CRA (body=CRA) — in-recess captures plus standalone CRA meeting docs (PMN body 6925) promoted 2026-07-16."
+magna,Abstain,"present, declined to vote",Council (6) + Planning Commission (6)
+copperton,Abstain,"present, declined to vote","Council (7) + Planning Commission (3). Metro township (2017-2024) -> TOWN 2024; the Mayor/Chair VOTES in both eras (max tally 5). Narrative-tally votes (unanimous rolls unnamed/tally-only); 2017-mid2018 council minutes purged from PMN (404, logged)."
+emigration_canyon,Abstain,"present, declined to vote","Council (2) + Planning Commission (2). Metro township (2017-2024) -> CITY 2024; the peer-selected Mayor (Smolka township -> Brems city) PRESIDES AND VOTES (Millcreek pattern, max tally 5). Narrative-tally votes. 2017 PMN file store purged (404); coverage begins 2018-10."
+emigration_canyon,Recuse,recused for conflict,"Council (1): 2021-04-27 m3, Mayor David Brems recused (conflict of interest) on the $12,000 Fuel Mitigation Program funding motion (4-1 tally). The peer-selected Mayor PRESIDES AND VOTES (Millcreek pattern); a recusal removes him from the roll. See the emigration_canyon,Abstain row for entity context."

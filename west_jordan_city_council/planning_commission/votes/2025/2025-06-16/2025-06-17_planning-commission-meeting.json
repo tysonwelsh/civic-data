@@ -1,0 +1,79 @@
+{
+ "date": "2025-06-17",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-06-16/2025-06-17_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Consent Calendar",
+   "motion_type": "Other",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "John Roberts",
+   "seconder": "Ammon Allen",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to approve the Conditional Use Permit for Outdoor Storage and Operations, located at 5434 West Leo Park Road in an M- 1 zone and Drinking Water Source Protection Overlay zone, subject to all the conditions of approval",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Ammon Allen",
+   "seconder": "",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "to forward a negative recommendation to the City Council to Rezone 2.7 acres from R-1-8C to R-1-8C (IDO-1) for Lumina located at 8399 South Dunlop Drive based on Finding 2, the rezone may result in incompatible land use relationships due to the size of the lots in comparison with the neighbors, and Finding 3 the proposed setbacks are a concern for the health, safety, and general welfare of the…",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 5:1",
+   "mover": "Ammon Allen",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [
+    "Trish Hatch"
+   ],
+   "abstain": [],
+   "absent": [
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council for the Text Amendment regarding Massage Therapy",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "Trish Hatch",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

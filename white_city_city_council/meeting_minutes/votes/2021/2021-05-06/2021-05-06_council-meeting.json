@@ -1,0 +1,105 @@
+{
+ "date": "2021-05-06",
+ "year": 2021,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2021/2021-05-06/2021-05-06_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the staff meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the minutes of the White City Metro Township Council meeting held on April 1, 2021 with corrections",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Scott Little",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to defer the resolution to restrict fireworks to the June meeting",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to defer the resolution receiving the Steering Committee report regarding the White City Metro Township General Plan and referral to the Planning Commission, until the June meeting",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Pass (unanimous)",
+   "mover": "Paulina Flint",
+   "seconder": "Scott Little",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

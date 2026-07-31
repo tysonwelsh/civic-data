@@ -1,0 +1,61 @@
+{
+ "date": "2024-07-11",
+ "year": 2024,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "ocr",
+ "present": [
+  "Linda Price",
+  "Paulina Flint",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2024/2024-07-11/2024-07-11_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the May 2, 2024 Minutes",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

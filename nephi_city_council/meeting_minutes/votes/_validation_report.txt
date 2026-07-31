@@ -1,0 +1,16 @@
+Nephi — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 1180   motions: 989   named-vote motions: 51   tally-only motions: 938
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 0, undocumented (DEFECTS): 0
+
+4. ROSTER: roster.csv present (11 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 51/51 match (100.0%)
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

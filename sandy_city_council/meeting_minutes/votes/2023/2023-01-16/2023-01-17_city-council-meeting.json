@@ -1,0 +1,94 @@
+{
+ "date": "2023-01-17",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2023/2023-01-16/2023-01-17_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson, to approve Resolution #23-01M, a resolution appointing James Edwards as an alternate member to the Sandy City Planning Commission",
+   "motion_type": "Appointment",
+   "result": "3-4 Fail",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Ryan Mecham"
+   ],
+   "nay": [
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Ryan Mecham, to approve Resolution #23-02M, a resolution appointing David Hart as an alternate member to the Sandy City Planning Commission",
+   "motion_type": "Appointment",
+   "result": "7-0 Pass",
+   "mover": "Zach Robinson",
+   "seconder": "Ryan Mecham",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Brooke D'Sousa, to adopt Resolution 23-05C, a resolution adopting the State of Utah & Sandy City Pledge of Fair Campaign Practices and directing the City Recorder to publish all signed pledges to the City website beginning in 2023",
+   "motion_type": "Resolution",
+   "result": "5-2 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Brooke D'Sousa",
+   "aye": [
+    "Alison Stroud",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [
+    "Zach Robinson",
+    "Ryan Mecham"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 4
+  }
+ ]
+}

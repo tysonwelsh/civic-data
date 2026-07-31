@@ -1,0 +1,2 @@
+source_filing,line_no,csv,field,old_value,new_value,reason,added
+raw/cf_2706_Campaign-Financial-Reports-2023.pdf,v1,contributions.csv,in_kind,False,True,"SHARI COWAN 2023 interim Form A: the Jeff & Patty Banks $202.35 contribution has 'Door hangers' written in the In-Kind column; vision recorded in_kind=False. Documented only (row reconciles; raw PDF authoritative) — not auto-applied.",2026-07-06

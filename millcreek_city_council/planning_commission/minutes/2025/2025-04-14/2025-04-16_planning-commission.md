@@ -1,0 +1,336 @@
+# Millcreek Planning Commission — 2025-04-16
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04162025-901
+> Meeting date: 2025-04-16
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2025-04-16
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04162025-901
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                   Minutes            of the
+                                                                     Mincreek           Planning            Commission
+                                                                                    April       16,    2025
+                                                                                         5:00      p.m.
+                                                                                  Regular          Meeting
+
+
+The Planning             Coinrnission            of Millcreek,      Utah, met in a regular              public       meeting       on Wednesday,
+April     16, 2025,         at City      Hall,    located     at 1330 E. Chambers               Avenue,        Millcreek,       Utah 84106.            The
+meeting          was conducted            electronically         and live streamed          via the City's           website       with   an option      for
+online     public        corni'nent.
+
+
+PRESENT:
+
+
+Commissioners                                                                        City     Staff
+Shawn       LaMar,         Chair                                                     Elyse      Sullivan,        City     Recorder
+Victoria         Reid,    Vice      Chair                                            Francis       Lilly,     Plani'iing     Director
+Steven Anderson                                                                      Carlos       Estudillo,       Planner
+Christian         Larsen                                                             Brad     Sanderson,          Current      Planning       Manager
+Nils    Per Lofgren                                                                  Sean Murray,             Plaru'ier
+Jacob Richardson
+Diane      Soule (excused)
+Dwayne           Vance      (excused)
+Ian Wrigl'it
+
+
+Attendees:          Miles         Mayne      (electronic), Rocky       Schutjer,        Russ Platt,         Steven      Thompson
+
+
+REGULAR               MEETING                - 5:00 p.m.
+TIME        COMMENCED                       - 5:01 p.m.
+
+
+Chair      LaMar         called     the meeting        to order and briefly         described          the duties        of the Planning
+Coinmission.
+
+
+1.   Public       Hearings
+       1.1 Consideration                of ZM-25-001,            Request        to Rezone        Property         from      the R-1-8
+       (Residential          Single       Family)      Zone       to the R-M       (Residential             Multi-Family)           Zone     to
+       Accommodate                 a Residential         Complex        Consisting          of Four         (4) Townhomes             Location:
+       4261 S 700 E Applicant:                     Miles     Mayne      Planner:         Carlos       Estudnlo
+       Carlos      Estudillo        said this proposal           is a revised     version       of a similar         application      (ZM-22-007)
+       presented         in June 2022, which               was continued         by the Planning             Corni'nission         at that time.       Since
+       then, there have been discussions                      and reassessments             regarding         the definition        and intent      of the
+       "Mixed       Use I " designation              in the city's     future     land use map. The original                   proposal      included
+       five units with            insufficient      open space; the revised              plan reduces          the density         to four units,
+       improves          access, and now meets the 40% landscaping                            requirement.              The 14,700-square-foot
+       parcel,     currently        occupied       by a single-family           liome    to be demolished                if approved,      is adjacent
+       to other recent            rezoning       approvals       and lies in an evolving              neighborhood           transitioning        toward
+       mixed      use. Although             the parcel      is designated       as Mixed        Use 1, which             supports     a blend     of
+Millcreek        Planning            Commission                Meeting         Minutes                           16 April           2025           Page      2 of 6
+
+
+
+
+    Neighborhood               2 or 3 designations.                    A future        land    use map            amendment                is not currently               part      of
+    the application             but may         be considered               by the city         council          in future         planning           updates.
+     Estudillo         showed         the coinmission               aerials        of the area, including                     the surrounding                zones        of R-1-
+     8 and R-1-5.            The     existing         zone would            allow      for two        units,          but the R-M           would         allow       for
+     seven.      The proposed                development            features         four     townhome                units    accessed            from      700 East,
+     each with         a two-car            garage     and additional               guest     parking.           The buildings               comply          with     height,
+    parking,       and fire          access requirements,                   and the applicant                 intends          the units          to be for sale,
+    necessitating            a subdivision             application           for final        approval.          Estudillo          showed            the commission
+    the proposed             floor     plans        and building            elevations.
+
+
+     Francis      Lilly      mentioned              the city      council      has recently               been        deed restricting             developments                  for
+     owner       occupancy            for several         years.
+
+
+     Estudillo        said the applicant                is proposing           a four-unit           townhome                 development             with       buildings
+     approximately             32 feet tall           and primarily            brick        in design.         The development                     is oriented         north-
+     facing      and is intended              to complement                 the surrounding                neighborhood's                  character          while
+    providing          medium-density,                  for-sale       housing         options.           It aligns       with     two      general        plan      goals:
+    preserving            neighborhood               character         through       compatible              infill      development               and offering
+     diverse      housing           types     and price         points.       The units         are expected               to be more             affordable          than
+    traditional           single-family             homes       in Millcreek.           A development                    agreement            has been           drafted         to
+     ensure      key      aspects      such     as use, ownership,                  building         height           (35 feet max),              high-quality
+    materials,         site layout,          parking        (10 stalls,        including            two     guest       spaces),          and individual              unit
+     ownership            are secured.          Ownership            will     be further        regulated              through          restrictive        use
+     declarations           to encourage             owner        occupancy            and discourage                  institutional          purchases.            While           the
+    project       meets       the design,           landscape,          and parking            requirements                of the RM              zone     and is
+    generally          compatible            with     the goals         of the "Mixed               Use 1" future                land     use designation,                  staff
+    does not support                 a land     use amendment                 at this       time.     Instead,          the city        plans      a broader          analysis
+     of the 700 East corridor,                      potentially         leading        to future          updates        in 2025          or 2026.        The
+    neighborhood              meeting          in 2022         was held        and there            were      concerns           about       increased           traffic,
+    neighborhood              safety,        parking        spilling        onto    730 E and neighborhood                              compatibility.              The
+    Millcreek          Community               Council         recommended                  approving          the rezone           on April           1, 2025,        and
+    recommended                the applicant            hold      another        neighborhood                meeting           to show          the neighborhood
+    the updated            site plan.        The      applicant        did hold         an additional                 neighborhood              meeting          on April
+    14, 2025,          and four        neighbors          showed            up and commented                     on improvements                    to the site plan
+    and unit       count,       acceptable            neighborhood               compatibility,              relative         affordability            of units,        and
+    construction            mitigations             for neighbors            on 730 E. However,                        based     on the lack             of a staff-
+    supported          land use amendment,                      the Planning            Commission                    is advised         to consider          public         input
+    but ultimately            recommend                denial      of the rezone             and associated               development                 agreement.
+
+
+    Lilly     noted       staff's     recoinmendation                  was based            on the policy               framework            the city        adopted.
+    There        are elements           of the General              Plan that could             support           this project,            too.
+
+
+    Miles      Mayne         said the project             was scaled            down         and felt the project                  fit the property.
+
+
+     Chair     LaMar          opened         the public         hearing.
+
+
+    There      were       no comments.
+Millcreek       Planning          Commission             Meeting          Minutes                       16 April          2025       Page 3 of 6
+
+
+
+     Chair      LaMar       closed       the public       hearing.
+
+
+     Chair     LaMar        asked if the project             would       come back for a conditional                          use pernnit.     Estudillo
+     confirmed.          The commission               felt the General            Plan arguments               to approve         were compelling.
+     Commissioner               Larsen    felt Neighborhood                  2 made 'inore sense that Mixed                         Use on midblock
+     700 E. Commissioner                  Lofgren        asked about an update                    to the General              Plan. Lilly     anticipated             it
+    would       happen       by the end of the year.
+
+
+Commissioner             Larsen,         regarding         ZM-25-001,             a request          to rezone           from     R-1-8      to R-M        at
+4261 South         700 East,        moved        that     the planning             commission               recommend             approval        of the
+application,        including         a development                 agreement         as outlined             by staff        specifying       design
+standards        as well        as deed restriction               ensuring        owner       occupancy.                The     supporting       causes         are
+based    on the General              Plan      goals for mixed                 housing      types,      for     affordable          housing,      for
+owner-occupied              housing,         and for neighborhood                    compatibility,               based        on the design
+presented       by staff.        Comtnissioner             Reid       seconded.           Chair      LaMar           called      for the vote.
+Commissioner             Anderson            voted      yes, Chair         LaMar          voted      yes, Commissioner                  Larsen        voted
+yes, Commissioner                Lofgren        voted      yes, Commissioner                     Reid       voted       yes, Commissioner
+Richardson         voted        yes, and Commissioner                     Wright          voted      yes. The motion                passed
+unanimously
+
+
+    1.2 Consideration                 of CU-25-001,               Request        for a Conditional                  Use Permit         to Expand              the
+    Site Area        and Width            and Relocate               an Existing          60 Foot           Monopole           Location:       Evergreen
+    Junior        High      School,       3401 South           2000 East Applicant:                     Britton         Knaphus,          on behalf           of T-
+    Mobile        and Granite            School        District       Planner:       Brad         Sanderson
+    Brad Sanderson               said this application               requires      the Planning             Coinmission           to act in an
+    administrative           capacity,        rather     than a legislative              one, as it involves              evaluating        a proposal          for
+    compliance           with     existing      code rather          than making           or amending              policy.      The request       concerns
+    Evergreen        Junior       High,       located     near 2200 East and 7330 South,                             where       there is an existing
+    utility     pole and adjacent             mechanical            equipment        building.          The applicant             proposes      replacing
+    tlie current      wooden          pole,    which      lacks structural           capacity,          with      a new, sturdier           60-foot-tall
+    pole located          approximately              10 feet north        and slightly            east of the current             location.      The new
+    pole will      maintain        the same height                but will      feature     an expanded             antenna         array using       ari'n
+    mounts        that extend         antennas        up to five feet from               tlie pole, resulting             in a total diameter            of
+    approximately            11 to 12 feet. All            mechanical            equipment           will     remain       housed      in the existing
+    building.       The proposal            complies         with     current      zoning        regulations,           including      the height
+    restriction      (60 feet maximum),                  required        setbacks         from     residential          properties      (twice     the pole's
+    height),      and general         design      standards,          even though           a stealth         design      is not required.         Since the
+    application          was submitted           before      the new ordinance                takes effect,             it is evaluated       under
+    existing      rules, under         which      it fully        qualifies.
+
+
+    Commissioner             Anderson          asked if the pole was only                    for one carrier,             T-Mobile.          Sanderson          said
+    another       carrier    could be added but it was not ideal due to the height                                         of the pole.
+
+
+    Rocky       Schutjer,        representing          the applicant,           said the current             wood       pole was owned            by Rocky
+    Mountain        Power.        The site had been there for almost                         25 years. The applicant                    was trying            to put
+    in a better      structure        to meet the demands                 of current        technologies.               The pole would           shift     about
+                                                                                            mnstly          in hnilrl     the new pole formdation
+Millcreek        Planning             Commission              Meeting            Minutes                       16 April           2025          Page    4 of 6
+
+
+
+
+     and not impact                 the existing         service.        Once      the new pole          is in the air, the existing                    pole    will         be
+     removed.
+
+
+     Sanderson              noted     the coinrnunity              councils        recommended                approval.          Staff    recoinmended               the
+     condition           that the existing           pole     be removed             upon      completion              of the new         pole.
+
+
+     Chair      LaMar           opened       the public            hearing.
+
+
+     Elyse      Sullivan         read a cominent               received          from     the city's       website         from      Kerrie       Leavitt,      "I
+     object      to replacing            and relocating               the monopole.            Moving          the monopole              will     increase       the
+
+     rislcs of RM and EMF exposure to the residents that already live too close to the monopole.
+     Someresearch suggeststhat there shordd be a minimum distance of 1300 feet! The current
+     monopole            location        is already         a hazard.          Increasing         health       risks     to residerxts           so someone            can
+
+     build townhomesfor profit is tmacceptable. Move it awayfrom a location wherepeople don't
+     live and children                 dorx't play."
+
+
+     Sanderson              commented           that he had spoken                 with     Leavitt      on the phone               and there          was confiision
+     about     the application.                He said the FCC                [Federal       Communications                  Commission]                does not
+     allow      cities       to regulate        safety      issues.
+
+
+     Chair      LaMar           closed      the public         hearing.
+
+
+Commissioner                 Lofgren        moved,          based        on the proposed               plans       as well         as findings           and
+conclusions           listed        in the staff         report,      for     approval         of application              CU-25-001              subject       to the
+existing      pole       being        removed        upon          completion            of the new        pole,        as presented.             Commissioner
+Richardson            seconded.            Chair         LaMar        called       for    the vote.      Commissioner                    Anderson            voted       yes,
+Chair       LaMar           voted      yes, Commissioner                    Larsen        voted       yes, Commissioner                     Lofgren          voted       yes,
+Commissioner                 Reid      voted       yes, Commissioner                     Richardson            voted      yes, and          Commissioner
+Wright        voted         yes. The       motion         passed         unanimously.
+
+
+2. Commission                Business
+     2.1 Approval                of March          19,    2025       Regular         Meeting          Minutes
+
+
+Commissioner                 LaMar         moved          to approve            the minutes           from       March           19 as presented               in the
+packet.       Commissioner                 Reid      seconded.            Chair      LaMar           called      for     the vote.         Commissioner
+Anderson         voted         yes, Chair          LaMar            voted      yes, Commissioner                   Larsen          voted        yes,
+Commissioner                 Lofgren        voted        yes, Commissioner                   Reid      voted       yes, Commissioner                     Richardson
+voted      yes, and          Commissioner                Wright          voted     yes. The          motion        passed         unanimously
+
+
+     2.2 Updates               from     the Planning               and      Zoning        Director
+     Francis        Lilly      said the city         is in the final           stages     of implementing                 a significant           code update,
+     with     formal         adoption       by the City             Council        scheduled         for April          28 and an effective               date of
+     May      19. This          timeline       allows       for updates           to forms        and the launch            of a customized                online
+     portal     tailored         to the new         application           types.     In preparation,             city    staff     have     already       been
+     informing           developers          of upcoming              changes        through         Development             Review             Committee            (DRC)
+     meetings,         helping          applicants         prepare       for the transition.            A brief          surge     in planning           activity        is
+     expected         following          the code's          implementation,               as several          applicants          have     been waiting               for
+     the new         standards.
+Millcreek         Planning          Commission              Meeting          Minutes                      16 April        2025         Page 5 of 6
+
+
+
+    The City          Council        is also addressing              supporting          elements         such as Title       14 engineering
+    standards,         updates           to the consolidated           fee schedule,            and revised          application           checklists.
+    Regarding           recent      discussions           on stepbacks          in the CCOZ              area, the Planning                Commission
+    previously          recommended               more      flexibility,        potentially         through         development             agreements.              The
+    City      Council      supported           this concept,          favoring        a system       that balances          flexibility         with       clear
+    eligibility        criteria-such              as requirements             for open space, parking,                  and affordable              housing-
+    while      excluding           particularly         sensitive      areas from          eligibility       (e.g., properties             north     of
+    Chambers           Avenue            on Highland         Drive     and certain          residential-adjacent              streets).         The Council
+    agreed that development                       agreements          offer     a discretionary            tool to evaluate           project-specific
+    exceptions          without          making       the overall         code too complex                or arbitrary.      To support              this, a set of
+    24 design          criteria      was proposed,            with     the flexibility         to add more based on context                           (e.g.,
+    lighter       fagades for north-facing                  buildings         to reduce       visual       massing).       The final          approach
+    retains       structured        criteria      while     allowing          for creative        proposals,         ensuring        public        oversight
+    through          an enhanced           review       process      involving           neighborhood          meetings,           joint     City     Council
+    and Planning              Commission              sessions,      and full       legislative      approval.         Staff encouraged
+    commissioners               to submit         any remaining             input     by April       23, ahead of the final                  code
+    submission.
+
+
+    Chair      LaMar       asked if Miller              Avenue        would       connect       at the streetlight          on Richrnond.                 Lilly       said
+    it depended          on the current             occupant         of the site redeveloping.
+
+
+    Lilly     continued           with     the Utah       State Legislature              recently        enacted      new laws impacting                     local
+    planning          and zoning,          requiring       cities to implement                several       procedural       changes.           One
+    significant        update        involves         the introduction           of "classification            requests,"          a process         allowing
+    business         license      applicants          to seek a deterinination                on whether            their proposed            use fits within
+    existing         zoning       definitions.        If the planning           director      denies the request,             applicants             can appeal
+    directly      to the city council,                and, if denied          again, to a land use hearing                   officer-a              highly
+    unusual          step since zoning            text amendments                have traditionally             been considered                legislative            and
+    not subject         to appeal.         This process           emerged        from      state legislation           influenced            by groups            like
+    the Libertas         Institute,         aiming      to reduce         regulatory        barriers,       though      ironically,          it requires
+    municipalities             to create entirely           new code provisions                   and administrative                frameworks.              While
+    cities     already     apply broad            and flexible         use definitions              and have existing              mechanisms-like
+    mediation          through        the Utah Property               Rights      Ombudsman-to                  resolve      ambiguity,              they must
+    now implement                 this classification          process.         Staff has noted            concerns       about the precedent                     this
+    sets, particularly             in terms       of separating            legislative      authority        and administrative                procedure,
+    and how appeals                could      challenge       city council           decisions       to deny certain            land use requests,
+    which      is unprecedented                in Utah law.
+
+
+    hi addition         to classification             requests,      the legislature          mandated          other procedural                changes:
+    cities must simplify                  the process       for boundary            line adjustments,               particularly           distinguishing
+   between           lots in recorded            subdivisions          and unplatted           parcels.       This     change        is expected           to
+   improve           customer        service      by reducing          the need for costly                and time-consuming                   subdivision
+    amendments.            Additional            updates      include         clearer     rules for releasing             construction             bonds        for
+   public      improvements                (e.g., landscaping,              storinwater),         and standardized              measurements                   for
+   parking        spaces-now                legally     set at 9xl8          feet. Although          this new size standard                    may conflict
+   with      rural    communities'             preferences           for larger       vehicle       spaces, most urban jurisdictions,
+   including          this one, are already               in compliance.             Staff remains           corni'nitted       to compliance                 but
+   anticipates         the need for future                clarification         or legislative           revision      to these changes.
+Millcreek          Planning      Commission               Meeting          Minutes                    16 April     2025     Page 6 of 6
+
+
+
+
+       Sullivan      reminded        the commission               to take the online            Open and Public       Meetings     Act training
+       she emailed         them about a couple              weeks          prior.
+
+
+3. Calendar          of Upcoming           Meetings
+   *    City   Council        Mtg.    4/28/25      7:00 p.m.
+   *    East Mill      Creek     Coinmunity              Council      Mtg.,         5/1/25,    6:30 p.m.
+   *    Mt.    Olympus        Community            Council         Mtg.,     5/5/25,      6:00 p.m.
+   *    Millcreek      Community               Council     Mtg.,      5/6/25,        6:30 p.m.
+   *    Canyon       Rim      Citizens     Association            Mtg.,      5/7/25,     7:00 p.m.
+   *    Historic     Preservation         Commission               Mtg.,     5/8/25,      6:00 p.m.
+   *    City   Council        Mtg.    5/12/25      7:00 p.m.
+   *    Plaru'iing    Commission           Mtg.      5/21/25,        5:00 p.m.
+
+
+ADJOURNED:                   Commissioner                Wright       moved          to adjourn       the meeting      at 6:11 p.m.
+Commissioner               Lofgren       seconded.         Chair       LaMar           called     for the vote.    Commissioner
+Anderson           voted    yes, Chair          LaMar       voted         yes, Commissioner               Larsen    voted   yes,
+Commissioner               Lofgren       voted     yes, Commissioner                    Reid      voted   yes, Commissioner        Richardson
+voted     yes, and Commissioner                    Wright          voted      yes. The motion             passed   unanimously.
+
+
+
+
+                                                              Shawn LaMar.                Chair
+
+
+
+                                     Attest:                 Ely                         Recorder

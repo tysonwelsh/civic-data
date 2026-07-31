@@ -1,0 +1,17 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+160,388,City Council,yes,meeting_minutes,,pm4,2020-01-01,repo is a complete 2020+ superset; in-session RDA + LBA ride these combined council docs (no standalone LBA on PMN)
+160,389,Planning Commission,yes,planning_commission,,pm4,2020-01-01,known PC PMN gap — PMN 389 holds NO 2020/2021/2023 PC minutes (agendas only); 2020H1+2021H1 recovered via Wayback and promoted (source=wayback) so those dates now read as repo-has
+160,791,Redevelopment Agency (RDA),yes,meeting_minutes,,pm4,2020-01-01,5 standalone RDA minutes stored as body=RDA docs in meeting_minutes; no gap in-window
+160,390,Board of Adjustments,no,,,,,agendas/notices only — 0 minutes
+160,392,Design Review Board,no,,,,,agendas/notices only — 0 minutes
+160,4813,Administrative Appeals,no,,,,,agendas/notices only — 0 minutes
+160,4823,Arts Council,no,,,,,non-governance board — 0 minutes
+160,6055,Historical Commission,no,,,,,agendas/notices only — 0 minutes
+160,6211,Tree Committee,no,,,,,agendas/notices only — 0 minutes
+160,2398,Housing Task Force,no,,,,,agendas/notices only — 0 minutes
+160,391,Education Task Force,no,,,,,agendas/notices only — 0 minutes
+160,7341,Adopted Ordinances,no,,,,,ordinance PDFs not minutes — out of scope
+160,6605,Bids & RFPs,no,,,,,RFP docs only — out of scope
+160,8423,Elections,no,,,,,notices only — 0 minutes
+160,9191,Elections/Board of Canvassers,no,,,,,notices only — 0 minutes
+160,9331,Local Building Authority (LBA),no,,,,,no standalone LBA minutes on PMN; LBA is in-session and rides the council docs (body 388)

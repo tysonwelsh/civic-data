@@ -1,0 +1,68 @@
+{
+ "date": "2026-04-08",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Adrianne Ramirez",
+  "Darrick Porter",
+  "Harold Woodruff",
+  "Martell Winters",
+  "Mathew Lovato",
+  "Nancy Drozdek",
+  "Rob Durfee"
+ ],
+ "source": "minutes/2026/2026-04-06/2026-04-08_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the vacation",
+   "body": "PlanningCommission",
+   "motion_type": "Street Vacation",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 7:0",
+   "result_source": "UNANIMOUS—SV-1-2026—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Martell Winters",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 7,
+    "nays": 0,
+    "source": "UNANIMOUS—SV-1-2026—APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve subject to the eight conditions listed in the staff report",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "6:1 Approved (Final Action)",
+   "result_source": "Majority – C-2-2026 - Approved",
+   "outcome_word": "approved",
+   "mover": "Darrick Porter",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": true,
+   "aye": [
+    "Adrianne Ramirez",
+    "Darrick Porter",
+    "Harold Woodruff",
+    "Martell Winters",
+    "Mathew Lovato",
+    "Nancy Drozdek"
+   ],
+   "nay": [
+    "Rob Durfee"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

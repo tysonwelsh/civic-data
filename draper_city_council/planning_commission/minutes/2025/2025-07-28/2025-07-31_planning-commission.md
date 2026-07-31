@@ -1,0 +1,725 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1941&doc_id=b551e915-933a-11f0-8df7-005056a89546
+> Meeting date: 2025-07-31
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, JULY 31, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Commission Member Gary Ogden
+               Commission Member Susan Nixon
+               Commission Member Kendra Shirey
+               Commission Member Mary Squire
+               Alternate Commission Member Christine Green
+
+NOT SITTING:          Alternate Commission Member Laura Fidler
+
+EXCUSED:              Lisa Fowler, Vice-Chair
+                      Alternate Commission Member Shivam Shah
+
+STAFF:                Jennifer Jastremsky, Community Development Director
+                      Todd Draper, Planning Manager
+                      Nick Whittaker, City Planner
+                      Todd Taylor, City Planner
+                      Paul Geilman, Planning Coordinator
+                      Lori Stout, Executive Assistant
+                      Brien Maxfield, Senior Engineering Manager
+                      Spencer DuShane, Assistant City Attorney
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the Planning Commission Meeting to order at 6:30 PM. He expressed
+appreciation for the work that the staff does before each meeting to prepare the reports and post the
+necessary notices. He also took a moment to thank commissioners and members of the community.
+
+1.     Items for Commission Consideration.
+
+       A.      Public Hearing: Indigo Tech Center Zoning Map Amendment Request.
+               (Administrative Action)
+               On the request of Jeremy Pixton, representing Mashies Golf Lounge, LLC a Zoning
+               Map Amendment from the CO2 (Professional Office) Zone to the CR (Regional
+               Commercial) Zone for approximately 2.84 acres. Located at approximately 14198
+               South Minuteman Drive, known as Application 2025-0131-MA. Staff Contact: Paul
+               Geilman, (801)-576-6551, paul.geilman@draperutah.gov.
+
+Planning Coordinator, Paul Geilman, presented the Staff Report and explained that this is a Zoning
+Map Amendment request. The Vicinity Map was presented, and the applicant's property was
+highlighted. The location is approximately 14198 South Minuteman Drive. The Land Use Map was
+shared, and it was noted that the request is to rezone from the CO2 (Professional Office) Zone to the
+CR (Regional Commercial) Zone. The land use is congruent with the proposed zone change, so no
+land use amendment is needed. There are additional uses permitted or allowed as conditional uses in
+the CR Zone. The use for which the applicant has expressed interest is the Recreation and
+Entertainment Indoor use. The applicant is present at the meeting to answer questions.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 2
+
+
+Commissioner Nixon noted that the meeting agenda references 14198 South Minuteman Drive, but
+that address does not exist. There is a 14193, 14197, and 14203. She drove in the area and also
+checked the County records for the address, but 14198 is not on any of the buildings. Mr. Geilman
+indicated that the address is the address for the overall property. Planning Manager, Todd Draper
+indicated that the address is listed as approximate, and that it is the correct approximate address and
+staff could check on it further. Chair Adams invited the applicant to add any additional information
+about the application.
+
+The applicant, Jeremy Pixton, reported that there are three buildings in the complex. Chair Adams
+explained that Staff can double-check the exact location, but the word “approximately” is used in the
+Staff Report. As a result, the address itself will not impact the application that has been submitted.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Motion: Commissioner Squire moved to forward a POSITIVE RECOMMENDATION to the
+City Council for the Zoning Map Amendment, as requested by Jeremy Pixton, representing
+Mashies Golf Lounge, LLC, Application 2025-0131-MA, based on the following findings:
+
+Findings for Approval:
+
+       1.      The proposed Zoning Map Amendment is consistent with the goals, objectives,
+               and policies of the City’s General Plan.
+
+       2.      The proposed Zoning Map Amendment is harmonious with the overall character
+               of existing development in the vicinity of the subject property.
+
+       3.      The proposed Zoning Map Amendment is consistent with the standards of any
+               applicable Overlay Zone.
+
+       4.      The proposed Zoning Map Amendment will not adversely affect adjacent
+               property.
+
+       5.      There are adequate facilities and services intended to serve the subject property,
+               including, but not limited to, roadways, parks and recreation facilities, police and
+               fire protection, schools, stormwater drainage systems, water supplies, and
+               wastewater and refuse collection.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 3
+
+
+         Commissioner        Yes    No     Abstained      Not Participating     Absent
+         Chair Adams                       X
+         Fowler                                                                 X
+         Squire              X
+         Nixon               X
+         Shirey              X
+         Ogden               X
+         Fidler, Alternate                                X
+         Shah, Alternate                                                        X
+         Green, Alternate    X
+
+Note: Item 1B on the meeting agenda was presented after Item 1C on the agenda at the request of
+Staff. Following the discussion on Item 1C, the Conditional Use Permit (“CUP”) request for Jiffy
+Lube (Item 1B) was reviewed.
+
+       B.      Public Hearing: Jiffy Lube Conditional Use Permit Request.
+               (Administrative Action)
+               On the request of Robert Poirier of McNeil Engineering, representing Don Ballard and
+               Lube Management Corp., a request for approval of a Conditional Use Permit for a
+               Limited Vehicle Repair business on approximately 0.32 acres. Located at 681 East
+               12300 South, known as Application 2025-0138-USE. Staff Contact: Todd Taylor,
+               (801) 576-6510, todd.taylor@draperutah.gov.
+
+City Planner, Todd Taylor, presented the Staff Report. He shared the Vicinity Map and pointed out
+the location of the property, which is located at 681 East 12300 South. An Aerial Map was shown as
+well as the Land Use Map. The property is Neighborhood Commercial and is located in the CC
+(Community Commercial) Zone. The site is surrounded by properties zoned CC on all sides. The
+proposal is a CUP for Vehicle Repair, Limited. The following definition was read:
+
+   •   Vehicle Repair, Limited:
+          o An establishment providing motor vehicle repair or maintenance services within
+              completely enclosed buildings, including paint and body shops or other general vehicle
+              repair services, which have no storage, overnight or otherwise, of vehicles, equipment,
+              supplies, parts, or inventory outside of the building.
+
+The applicant has submitted a Draft Site Plan along with the CUP application. The Site Plan is still
+under review, but it shows the proposed Jiffy Lube building towards the front of the property, roughly
+centered. The Draft Elevations were shared for reference. Staff is recommending Conditions of
+Approval for the CUP application. The five proposed Conditions of Approval were read aloud.
+
+Mr. Taylor further reviewed the Aerial Map and explained that during a review of the Site Plan, it
+became known that there is a property boundary issue between this property and the flower shop to
+the east. As a result, the Site Plan item on the agenda is proposed to be continued until that property
+boundary issue is resolved. If the Planning Commission approves the CUP, it will only be for the
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 4
+
+portion of the property currently identified by the County Records. In discussions with the applicant,
+there is a desire to move forward with the current application and come back with another CUP
+application in the future when the Planning Commission considers the Site Plan. That will be
+following the resolution of the property boundary issue and would then cover the entire site.
+
+There was a discussion about continuations. Assistant City Attorney, Spencer DuShane, explained
+that CUPs are by law in privity of the state. Right now, the applicant can only receive a CUP for the
+property as the applicant currently owns it and as it is recorded on the Salt Lake County Recorder’s
+Office records. If the applicant acquires that sliver of property indicated on the Aerial Map, then that
+part of the property would not have a CUP. The use of the property requires a CUP, so the applicant
+would need to come in and receive a separate CUP for that sliver of property. Community
+Development Director Jennifer Jastremsky confirmed that the applicant is already aware of this.
+
+Commissioner Nixon stated that she had a difficult time voting on a CUP application with a Draft
+Site Plan submitted. It was clarified that the Site Plan is not what the Commission is voting on at this
+time. Commissioner Nixon pointed out that it is part of the application, and the Commission can
+consider it. Chair Adams stated that the applicant can choose how they would like to proceed.
+
+The applicant representatives, Kirk Umphrey and Justin Soha, introduced themselves to the
+Commission. The ALTA Survey stated that the property line was down the fence line, so he does not
+believe there is a property line dispute, but there is a bit of confusion that needs to be resolved. Their
+title company has looked at this and is willing to insure the title to the fence line. Mr. Umphrey
+believes this is something that can be resolved in the next few days. Some work is being done with
+Mr. DuShane, so the City feels comfortable. They request that the Commission approve the Jiffy
+Lube on that site, subject to Site Plan approval. In the future, they will return with the property line
+issue resolved and the Site Plan.
+
+Commissioner Nixon stated that the address on the application is 681 East, but there is no 681 East.
+She believes this is 673 East and wanted to know what the address will be as this moves forward. It
+was clarified that there are multiple buildings on the property, so there are multiple addresses.
+
+Chair Adams opened the public hearing.
+
+Nate Ballard explained that he is present to represent his father, who is the current owner of the
+property. The loss of the Iceberg is bittersweet, but his father was ready to retire and sell the property.
+He is hopeful that this moves forward. Unfortunately, there has been a bit of an issue with the property
+line, but he believes that it will be a simple fix. There is a limited amount of space available on the
+parcel, but Jiffy Lube is a suitable use. He stated that this will be beneficial for all involved.
+
+There were no further comments. The public hearing was closed.
+
+There were discussions about the process moving forward. Ms. Jastremsky suggested that language
+in the motion state that “the CUP is for the property lines shown on the County Records and any
+additional property would need to have a separate CUP.” Chair Adams pointed out that it would only
+be if property were added to what is currently owned. Commissioner Nixon thought it would be
+cleaner to have an amendment to a CUP come forward rather than two separate CUPs.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 5
+
+Ms. Jastremsky clarified that it would be the same process, as the City has no amended CUP
+application. Mr. Umphrey added that if it is determined that the line drawn is incorrect and the
+property line is located where the fence line is shown, then the CUP process will not need to be done
+again.
+
+Motion: Commissioner Ogden moved to APPROVE the CUP as requested by Robert Poirier
+of McNeil Engineering, representing Don Ballard and Lube Management Corp., Application
+2025-0138-USE, based on the following Findings for Approval and Conditions of Approval.
+The CUP proposed to be approved is based on the current Salt Lake County property line
+records. Any additional property added to the parcel will need to obtain a separate CUP.
+
+Findings for Approval:
+
+       1.      The proposal complies with the standards for approval found in DCMC Section
+               9-5080(E), and potential negative impacts are mitigated through the imposition
+               of reasonable conditions.
+
+Conditions of Approval:
+
+       1.      That all requirements of the Draper City Engineering, Public Works, Building,
+               Planning, and Fire Divisions are satisfied throughout the development of the site
+               and the construction of all buildings on the site, including permitting.
+
+       2.      That a Draper City Business License shall be obtained prior to operating and
+               shall be maintained by the business owner for as long as the business remains in
+               operation.
+
+       3.      That there shall be no noise, glare, dust, pollutants, odor, or other impacts
+               discernible outside of the building.
+
+       4.      That there shall be no storage, overnight or otherwise, of vehicles, equipment,
+               supplies, parts, or inventory outside of the building.
+
+       5.      That prior to Site Plan approval by the Planning Commission, the applicant shall
+               submit a revised Landscaping and Irrigation Plan which complies with DCMC
+               Chapter 9-23, and a revised Lighting Plan which complies with DCMC Chapter
+               9-20.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 6
+
+
+          Commissioner        Yes    No     Abstained      Not Participating      Absent
+          Chair Adams                       X
+          Fowler                                                                  X
+          Squire              X
+          Nixon               X
+          Shirey              X
+          Ogden               X
+          Fidler, Alternate                                X
+          Shah, Alternate                                                         X
+          Green, Alternate    X
+
+       C.      Public Hearing: Follis Transport, LLC Home Occupation Conditional Use
+               Permit Request.
+               (Administrative Action)
+               On the request of George Follis, representing Follis Transport, LLC. A Home
+               Occupation Conditional Use Permit regarding the operation of a home office that
+               provides trucking services for approximately 0.74 acres. Located at 11747 South 300
+               East, known as Application 2024-0349-USE. Staff Contact: Nick Whittaker, (801)
+               576-6522, nick.whittaker@draperutah.gov.
+
+City Planner Nick Whittaker presented the Staff Report and explained that this is a Home Occupation
+CUP request for Follis Transport, LLC. The Vicinity Map and Aerial Map were shared. It is an
+unusually shaped property with a flag-like shape. The Land Use Map was shared. Mr. Whittaker
+reported that the land use is Residential Medium Density, and it is in the RA1 (Residential
+Agricultural) Zone. The Site Plan provided by the applicant was reviewed. The applicant is hoping
+to operate a trucking business from his home. The administrative portion of the business will be
+operated in a room in the basement of the home. Part of the request is to use the flagpole portion of
+the lot to store four trailers and one vehicle. Existing conditions photographs were shared.
+
+Mr. Whittaker reviewed the existing conditions and photographs in more detail and pointed out the
+front yard storage area where the applicant would like to store four trailers and one vehicle. An image
+of the existing front yard fence was shown, which provides screening. However, it was noted that the
+fence is not compliant with Draper City Code. As a condition of approval, it is recommended that
+the applicant bring the fence into compliance. Chair Adams asked what would make the fence
+compliant. Mr. Whittaker clarified that it is difficult to know that, because there was no permit or
+conditional use permit for the fence. In the front yard, there cannot be a fence that is higher than four
+feet. Commissioner Nixon asked if it would need to be set back more or reduced in height to meet
+code. Chair Adams asked if this application for a conditional use permit could allow for a taller fence
+in the front yard. Mr. Whittaker reported that additional work would need to be done with the staff to
+determine what the code would allow.
+
+Mr. Whittaker reported that in the Site Plan, the applicant points out two areas where the trucks tow
+the trailers into the designated front yard area. One of them is on the south side. There is an entrance
+off Kimballs Lane. This entrance appears to be used to access the utility box. The second driveway
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 7
+
+would be required to be at least 40 feet from the intersection. Mr. Whittaker shared an image of the
+north side, which is another area where the vehicles are pulled into the desired parking area.
+
+The Impact Analysis and Mitigation information was shared. Identified potential impacts include:
+
+   •   Large trailers and vehicles entering and exiting the property impact pedestrian safety.
+   •   Vehicles and trailers stored on the unpaved front yard parking area, stirring up dust and
+       spreading gravel on the roads and sidewalks, causing unstable and potentially hazardous
+       surfaces to pedestrians and vehicles;
+   •   Pedestrian blind spots caused by the illegal front yard fencing;
+   •   Business vehicles and trailers parked on the street;
+   •   Noticeable storing of vehicles, inventory, and supplies in yard areas;
+   •   Noticeable storing of freight, cargo, and shipments;
+   •   Noticeably modified yard;
+   •   Size and scale of the utilized front yard area detracting from the residential use; and
+   •   Nuisance from vehicle emissions, dust from the gravel surface, and generating noise when
+       hitching and unhitching trailers.
+
+Staff finds that potential ways to mitigate the impacts mentioned are as follows:
+
+   •   That all requirements of the Draper City Engineering, Public Works, Building, Planning, and
+       Fire Divisions are satisfied;
+   •   That a Draper City Business License shall be obtained and maintained by the applicant;
+   •   That no more than four (4) work trailers and one (1) work trust being utilized for the home-
+       based business shall be parked at the property;
+   •   That the four (4) work trailers and one (1) work truck shall not be parked in the street;
+   •   That only one (1) work truck shall be parked in a designated stall per an approved Site Plan;
+   •   That the drive approach facing Kimballs Lane shall not be used for vehicular access by the
+       property owner;
+   •   That the applicant shall obtain a Conditional Use Permit to bring the illegal fencing located in
+       the front yard into compliance;
+   •   That no business deliveries shall be received at the property;
+   •   That no business deliveries shall be shipped from the property;
+   •   That no business deliveries shall be stored at the property;
+   •   That the parking area shall be paved with cement or asphalt;
+   •   That the size of the parking area shall not exceed 5,000 square feet;
+   •   That the days of the week in which the home business may operate shall be limited to Monday
+       through Saturday;
+   •   That the hours of operation shall be limited to 8:00 a.m. through 6:00 p.m.; and
+   •   That no customers shall come to the home.
+
+Mr. Whittaker shared a photograph of the exterior of the primary structure, pointing out the location
+of the fenced area, which is situated on the south side of the home. Commissioner Squire noted that
+there are often screening requirements put in place. She can appreciate that the purpose of the existing
+fence is to screen the use, but wonders how screening could be required that would essentially violate
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 8
+
+the City Code. It was noted that the Planning Commission is required to assess the residential
+character of the neighborhood to determine if the proposed business has detrimental effects. If
+conditions can be imposed to mitigate those detrimental effects, then those can be imposed. That
+being said, those conditions cannot be unlawful, which includes those that violate the ordinances in
+the City.
+
+Mr. Whittaker informed the Commission that there is a history of land use violations on the subject
+property. Chair Adams requested additional information about past violations. Mr. DuShane clarified
+that it is not appropriate for the Planning Commission to consider previous violations when making
+a decision on an application and to disregard the previous comment from staff. He advised the
+Commission to focus on what is relevant to the current proposal. Commissioner Nixon believed that
+for a fence to meet the City Code, it would need to be set back a certain amount to be in line with the
+dwelling, however, that would make the area too narrow to utilize for the business. Commissioner
+Squire noted that a taller fence would have to be behind the front line of the house. There was a
+discussion about the application and what the Commission is able to do. It was reiterated that the
+impact of the use would need to be mitigated through conditions. Chair Adams invited the applicant
+to present additional information to the Planning Commission regarding the business.
+
+The applicant, George Follis, introduced himself to the Planning Commission. He moved into the
+home in 2002. At that time, there was no landscaping at all, and the road had only been put in a year
+or two before. The sidewalk along the 356-feet of frontage was lower by about 18 inches, so he called
+Code Enforcement and asked them about bringing in fill dirt to make it level so there would not be a
+safety hazard. He was informed that he could. At the time, he had personal trailers and an RV at the
+site. He mentioned that he knew it was not legal to park in the front yard, but only about 2-3 feet
+would be legal.
+
+Mr. Follis reported that he spoke to the Code Enforcement Officer about the shape of the lot. A
+meeting was arranged for Mr. Follis to speak to the Planning Department when they were at the old
+City Hall down the street. During that conversation, he was told that this portion of his property was
+a side yard and was not considered the front yard. On a side yard, it is possible to have a 6-foot fence.
+He indicated that the Planning Department told him that the 6-foot fence could be installed. He had
+a friend put a semi-trailer on the property to sell it. He has not had a problem with violations for two
+decades until now, with one for parking. Mr. Follis reported that he also received a violation for not
+having a business license. He was on the road most of the time and staying in hotels and he did not
+know that he needed a business license for this use and accrued $800 dollars in fines. Mr. Follis
+reported that it has been frustrating not to be able to use the piece of land that he owns. It is an odd
+piece of land compared to the other lots in Draper.
+
+Chair Adams noted some Conex trailers in the rear yard and asked if Mr. Follis could run the business
+using that location instead. Mr. Follis indicated that he could not. Chair Adams asked about the
+trailers currently shown on the site in the triangle to the east. Mr. Follis clarified that those are
+personal items. Chair Adams asked to review the site plan and noted that the blue area is what is
+fenced. Mr. Follis described the vehicle and the trailers that are used for his work. He informed the
+Commission that he drives in and out of the area shown in blue once a week. He put in gravel and
+improved the area to prevent dust. It was dirt before, which created dust and mud, which was the
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 9
+
+reason he improved the site. The applicant reported that a lot of time and money have been spent
+improving the land so it can be used.
+
+Chair Adams asked whether it is possible to park a trailer in the front yard. Planning Manager, Todd
+Draper, noted that trailers and recreational vehicles are required to be parked behind the front wall
+plane of the house. Chair Adams would like to see what the City Code states, so there is more clarity
+about what the applicant can have in the front yard. There was a discussion about screening. Mr.
+Draper noted that it is possible to screen with landscaping and that there are other options available
+to the Planning Commission.
+
+Mr. Follis discussed the curb cutout on the side of Kimball's Lane. That has been there since the road
+was installed, and it has been his access to that side of his property. The utilities were put in after he
+moved in and he sold that area to the utilities. Chair Adams believed it is an access cutout for his
+property, as there is no other reason for it to be there. There was some uncertainty among staff
+regarding whether the approach constitutes legal access to the property. Mr. Whittaker pointed out
+that having access that close to an intersection would not be permitted, because at least 40 feet is
+required. Chair Adams acknowledged that a lot has changed since the installation. Ms. Jastremsky
+indicated that there were concerns about large vehicles exiting next to the intersection and crosswalk,
+presenting a safety hazard. Chair Adams understood why the Condition of Approval related to that
+was drafted.
+
+Chair Adams wondered whether landscaped screening would be appropriate. Mr. Whittaker
+explained that it is up to the applicant to determine what is best and then provide that to the Staff for
+consideration and review. Mr. Follis reported that the fence was agreed upon previously due to the
+odd shape of the lot. It is not a front yard. He clarified that it has never been treated as a front yard
+and does not appear as a front yard. Chair Adams suggested pausing this application to review the
+options. He wondered whether the public hearing should be held, but then left it open so there can
+be additional comments made when this item comes back to the Planning Commission. Ms.
+Jastremsky stated that it is up to the Planning Commission to determine that.
+
+Mr. DuShane explained that whether the application is continued will ultimately be up to the applicant
+to decide. The Commission shall approve, approve with conditions, or deny the application. If the
+public hearing is held, the Commission needs to make a decision. If the decision is made to deny the
+application, then the applicant will have to start the application process over again. Once the public
+hearing is opened, the Commission will need to vote on the item. Commissioners discussed whether
+additional time to review this item would be productive. Commissioner Squire noted that it appears
+that the Staff has invested considerable time in the application, which raises uncertainty about whether
+continuing the item would be beneficial.
+
+Mr. Whittaker reported that the Staff has been working on this application for almost a full year. In
+terms of changing the design or changing how the applicant would operate the business from the
+property, that would be up to the applicant. As far as what has been shared with the Commission
+during this meeting, the information has been put together over a long time. Chair Adams wanted to
+know what a solution could be. Commissioners believed the most appropriate approach was to take
+a vote.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 10
+
+It was noted that the City Code has certain language the definition of front yard, how high the fence
+can be, and how to mitigate potential uses. Chair Adams expressed frustration that a private property
+owner came to the City in 2002 and was told something that is now completely different. The code
+has changed, and now there is a front yard that essentially acts as a side yard, but cannot be used. He
+wants to look into solutions. Commissioner Squire noted that there might not be a positive solution.
+The decision needs to be based on what has been presented to the Commission in the staff report.
+Chair Adams asked if it was possible to subdivide, staff indicated that subdividing was not possible.
+
+Commissioner Nixon noted that the area requested for the Home Occupation is 5,000 square feet,
+which is larger than the area of the home itself. Typically, for this type of application, the Commission
+considers areas that are 300 or 500 square feet. She has concerns about the size of the area.
+Commissioner Nixon asked if the applicant lives in the home, which was confirmed. Mr. Follis
+informed her that there are no employees besides himself. There is one vehicle and one trailer at a
+time that is coming or going. He thought he was doing everything correctly with the City and never
+had an issue until last year. Each time he submits something, it takes four to six months to hear back.
+The previous two times that he resubmitted, he made a lot of calls, and it went through much faster,
+but it has still taken many months to make it to this point. He does not understand the purpose of this
+meeting if nothing can be done. It was noted that the Staff is not responsible for creating a plan for
+the applicant. Commissioner Shirey indicated that the staff can give their guidance, but that ultimately
+the matter is decided by the Planning Commission. Mr. Follis explained that if the use is not possible,
+then that should have been communicated previously. In addition, the first time he heard anything
+negative about the fence or its placement was immediately before the current meeting.
+
+Mr. Follis discussed the citations that he received previously, which were related to parking and not
+having a business license. He was not aware he needed a business license because he was operating
+from his home. He submitted the business license, but then got a fine. He paid over $800 in fines and
+spent over $8,000 improving the lot. Based on what has been stated during the Planning Commission
+Meeting, it sounds like the proposed use is not possible. Chair Adams asked the Staff if anyone had
+mentioned previously that the fence cannot be in the front yard. Ms. Jastremsky stated that she had
+mentioned the fencing to Mr. Follis in multiple conversations about complaints that were filed. She
+did some research on the fencing. When that fence was installed in the early 2000s, the code did not
+allow for it, which means the fencing was non-compliant when installed initially.
+
+Commissioner Shirey asked if there was anything in the code that would suggest that portion of the
+property could have been considered as a side yard as opposed to a front yard, or if the Planning
+Commission could consider it to be a side yard. Ms. Jastremsky reported that under the code, anything
+along the street front is considered to be a front yard. Mr. DuShane added that this specific matter is
+outside the scope of the Planning Commission's authority to decide. Mr. Follis reiterated that he has
+never been cited for the fence, and he does not recall it being mentioned by Staff.
+
+Ahead of the public hearing, Commissioner Nixon reported that the Planning Commission received
+several emails from adjacent property owners. Those emails were reviewed before the meeting.
+
+Chair Adams opened the public hearing.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 11
+
+Terry Sommerdyke explained that she submitted an email comment to the Planning Commission, but
+is present to share additional comments. She lives near the applicant property. Ms. Sommerdyke
+requested that the Planning Commission deny the request. While she understands this is being
+presented as a home office use, this is not just an administrative operation. Follis Transport, LLC, is
+a business tied to logistics, trucking, and freight activities that are inherently incompatible with a
+quiet, family-oriented community. The neighborhood has high-value single-family homes that sit
+adjacent to the Catholic school campus. Children walk past the property every day on their way to
+school and to the nearby parks. Introducing a commercial use, especially one tied to trucking, raises
+serious safety concerns. It also disrupts the residential character. Approving this application would
+set a dangerous precedent and would open the door to other home-based commercial ventures that
+are not appropriate for residential settings. The applicant could efficiently operate their business from
+a commercial or industrial zoned property that is designed for this kind of activity. Ms. Sommerdyke
+asked that the application be denied.
+
+Robert Wheat stated that he is a resident who has lived in the neighborhood for over 10 years. He
+respectfully disagrees with the previous comment that was shared. This is an application he feels
+should be supported. That specific strip of land has been the best-maintained part of the street. It is
+always weed-free and there is no dust. The use does not impact the sightlines or safety. Landscape
+screening with trees, shrubbery, and natural hedge, which is recommended for front yards, would be
+more detrimental to sightlines. He understands the issue with fencing due to the code language, but
+the fence is effective for screening. Mr. Follis has been a good neighbor and is always willing to
+listen to feedback. Mr. Wheat has an issue with telling a property owner how they can and cannot
+use their property. He expressed support for the application and recommended that it be approved.
+
+Mary Schuman explained that she has lived in the neighborhood since 2005. She asked if there are
+any specifics in the application about the size of the trailers that are proposed to be stored. There
+have been semi-trucks and trailers on that property listed for sale. The home also appears to be
+functioning as a short-term rental property. She passes by there at least three times per week, and
+there are always vehicles with out-of-state plates. Ms. Schuman asked if it is permissible for one
+residence to operate several different businesses. As for the area, she cannot think of a more
+inappropriate place for vehicles of that size to enter and exit the property. She pointed out that it is
+directly across the street from the Catholic school center and church. Dozens of children walk through
+there every morning and afternoon. It is a beautiful neighborhood, and she loves the fact that it is
+residential. Ms. Schuman believes the proposed application is inappropriate.
+
+Shelly Carver reported that her home was completed in 1997, and her family has lived there since
+that time. She stated that the applicant's property is an eyesore. She agrees with the comments shared
+by Ms. Shuman that large vehicles are frequently parked there. If this application is approved, it will
+allow similar uses to happen, which could impact the property values. Contrary to what was stated
+earlier, this is not the only flag lot in Draper. There are flag lots located in other areas of the city as
+well, and she did not believe those lots have this kind of business use on them.
+
+Ms. Carver believes that Mr. Follis had a period of due diligence before purchasing the property,
+since it was clear that this is an irregularly shaped lot. Additionally, she does not believe that running
+a home business like this, especially when the home is located near a school, is wise. Additional
+traffic could impact the area, especially since there are already traffic issues in the neighborhood. Ms.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 12
+
+Carver is a business owner, but out of respect for her neighbors, she has not conducted business out
+of her home. In the past, some neighbors have run businesses out of their homes, which has brought
+unnecessary traffic to the area, including parked vehicles and questionable individuals. Ms. Carver
+suspected that someone had previously reported what was happening on the applicant's property.
+There were semi-trailers parked there, along with various vehicles for sale. In addition, there was a
+homeless encampment. Based on the information provided, she asked that the Planning Commission
+deny this application.
+
+Rex Myers lives in the neighborhood and has been there since the beginning. Mr. Follis purchased
+the property 20 years ago, and the approach was there 25 years ago. He clarified that there has never
+been a homeless encampment there. He believes a fence all the way along would be beneficial
+because it would shield everything. It doesn't make sense to have landscaping there since the fence
+already looks good in terms of ingress and egress, which he believes has been grandfathered in for a
+long time. Draper City built this lot, approved it, and Mr. Follis purchased the property. Mr. Myers
+agrees with the applicant and feels the City should allow him to use the property. The vehicles the
+applicant has are no different than other vehicles in the area. Just because he runs a transport business
+does not mean he will store goods on the site. He expressed frustration about this situation, as it does
+not seem fair for the applicant to have to pay fines and fees when his property is maintained better
+than most. Mr. Follis is a good friend, neighbor, and person, and he would like to see this application
+approved.
+
+Tim Wong is a resident who has lived to the northeast of this property since 2002. He is familiar with
+this neighborhood and the subject property. He remembers what it looked like before the fence went
+up and the improvements were made. Based on what he has heard during the Planning Commission
+Meeting, it sounds like some expectations were set for Mr. Follis when he purchased the property,
+before the codes were clarified. It sounds like things have since changed. Mr. Follis is working in
+good faith to bring the current activity on the site into compliance. Mr. Wong does not believe it
+detracts from the neighborhood and feels the fence screens it well. He has not observed any instances
+of nuisances or dangerous driving and has encouraged the Planning Commission to consider a path
+forward so the applicant can continue this use on the property. It is unfortunate that a property owner
+may not be able to utilize a significant portion of their property.
+
+There were no further comments. The public hearing was closed.
+
+Mr. Follis was invited back to respond to the comments made during the public hearing. He pointed
+out that many of the comments were positive, which is reflective of the work that he has put into the
+property. He has continually improved the site since he has lived there. Mr. Follis reiterated that he
+has always tried to comply with the City requirements. From the beginning, he believed that he had
+received approval through the Planning Department. The fence is almost 20 years old, and he
+acknowledges that some work needs to be done there. That was something he planned to improve
+before all of this happened.
+
+Mr. Follis informed the Commission that this section of his property is not a front yard, even though
+it technically may fall into that category. It cannot be used as a front yard, because it is not even in
+front of his house. It is a side yard, and as a side yard, it can have a 6-foot fence. The section of the
+property was not previously considered a front yard, but it now appears to be viewed that way by the
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 13
+
+City. Mr. Follis reiterated that he has never been cited for the fence, and he does not remember it
+having been mentioned to him before. This is the first time he has heard that the fence is in violation.
+He has been cited once for weeds, once for parking, and once for not having a business license. There
+have not been issues since.
+
+Commissioner Squire asked for additional information about the business. Mr. Follis reported that
+he drives a pickup truck and a 40-foot gooseneck trailer. He indicated that he had to register it
+commercially because he drives it over the road. Commissioner Squire asked Mr. Follis what he
+transports. He stated that he transports goods, equipment, and various items using a truck and trailer,
+but these items are not brought to the home at any point. He leaves his home with the truck and trailer
+and returns with the truck and trailer. Commissioners asked about the RV on the property in the
+photos and if he lives in it. He indicated that it is a personal RV and is not used for the business.
+
+Commissioner Squire wanted the applicant to speak to the comments made about semi-trucks. Mr.
+Follis clarified that the items were placed on the site by a friend who wanted to sell them, unaware
+that this was against the code. Once he was informed that it was, those were removed within two
+days. Commissioner Squire noted that the plan indicates two access points, one on the north end and
+one on the south. Staff has instructed the Commission that it is not possible to consider that south
+access as part of the CUP, because it is not a legal access. She believes he has proposed it because it
+is easier to get in and out using that access. If it is not possible to use that, she wanted to know if it
+is still possible to get in and out. Mr. Follis reported that it is not possible to turn around on that
+parcel. It can be backed in, but that is not how he has been accessing the site previously. It is easier
+to pull through. Commissioner Squire explained that the Commission has some limitations. The
+Commission can't consider this section as the side yard rather than the front.
+
+Commissioner Squire thinks the applicant has operated in good faith. The fence is effective at
+screening, but it cannot be considered due to the current requirements. Mr. Follis understands the
+comments made by the Commission, but asked about grandfathered uses. Commissioner Squire
+acknowledged that things have changed in Draper over the years, but that does not mean the Planning
+Commission can overlook the regulations that are in place now. Mr. Whittaker reported that there is
+a process that the applicant can apply for, which determines whether the use was historically
+conforming. Commissioner Shirey asked regarding potential documentation that would outline
+previous agreements with the City. That is something the Commission could take into consideration.
+Mr. Follis reported that he no longer has that kind of documentation due to a divorce and he does not
+have text messages from that time either.
+
+There was additional discussion about the home occupation CUP application. Commissioner Squire
+noted that, based on the comments received, there might be another business functioning in the home.
+A question was asked of staff about whether someone is allowed to operate more than one business
+on a residential property. Mr. Whittaker understands that it is possible to have more than one business
+at home so long as the requirements of the home occupation are met. It was next asked of staff
+whether an Airbnb or short-term rental in the home requires a business license or if that is considered
+a home occupation. Ms. Jastremsky reported that an Airbnb is not regulated, so there is no permit or
+licensing required. She clarified that a short-term rental is not considered to be a home occupation.
+Commissioner Squire questioned that if the home was rented out as an Airbnb it was questionable as
+to if the applicant really lived in the home and if a home based business license could even operate.
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 14
+
+
+Mr. Whittaker explained that if an Airbnb were rented out it would be required to be the entire house,
+and it would likely not be possible to have a Home Occupation. He clarified that it would not be
+possible for the applicant to live in the home and operate a home based business while also renting
+out a portion of the home for an Airbnb. Mr. Draper clarified that if there was a legal second unit or
+ADU (Accessory Dwelling Unit) there would not be a restriction on the occupant of the primary unit
+having a home-based business. Commissioner Squire mentioned that the issue was likely moot.
+
+Mr. Follis reported that the home is a three-level home. He rents out the main level and upper level
+while he lives in the basement where his office is. There is an Airbnb manager who manages the
+Airbnb. He knows nothing about the schedule. Mr. Follis re-stated that the main portion of the house
+is rented out as an Airbnb and he lives in the basement. It was suggested that Mr. Follis stop talking
+and not admit to other things that might create additional issues. It was reiterated that the Commission
+discussion needed to remain focused on the home occupation CUP application and not the Airbnb.
+
+Commissioner Nixon believes there is often a misconception about what a grandfathered use is.
+When something is legally non-conforming, it means it had to have previously met the code.
+However, according to the Staff, the codes for the front yard have not changed as far as the fencing
+requirements since 2002. Based on the comments from Staff, there is a process that the applicant can
+go through to determine whether something was historically conforming. Chair Adams believes that
+2015 and 2019 are the years that reference the code as it is now. It was pointed out that, according
+to the Staff, the fence was non-compliant at the time it was built.
+
+There was additional discussion about the home occupation CUP application before the Commission.
+Chair Adams requested Commissioner feedback on running the business as described, with the
+mitigation measures presented by Staff. Commissioner Nixon noted that there is one section of the
+Home Occupation Code that refers to the residential character. In her view, the proposed business
+does not suit a residential area because it is a commercial transport business. She believes it changes
+the character of this residential property. Commissioner Squire referenced the sightlines and blind
+spots, the nearby school, and the traffic in the area. The reason tall fences aren’t allowed in the front
+has to do with safety. Some of the comments received via email and during the public hearing are
+concerning. She agrees that this kind of use changes the residential character.
+
+Commissioner Ogden sympathizes with the applicant, as it appears he has made a genuine effort to
+make this unique lot work. Unfortunately, he cannot think of a solution that makes sense based on
+the current restrictions. The Commission further discussed the fence and the screening that is
+currently on the site. Chair Adams asked for additional clarification on the minimum setbacks for the
+fence and for screening. Mr. Draper noted that the trailer does need to be parked behind the front wall
+plane, so a trailer would not be allowed to be parked in the front yard, whether it was for a commercial
+business or residential use. It was clarified that the same applied to RVs. The Commissioners were
+reminded of other difficult home occupation requests they have reviewed and denied in the past.
+
+Motion: Commissioner Shirey moved to DENY the Home Occupational CUP as requested by
+George Follis, representing Follis Transport, LLC, Application 2024-0349-USE, based on the
+following Findings for Denial:
+Draper City Planning Commission Meeting
+July 31, 2025
+Page 15
+
+       1.        The proposal does not comply with all standards for approval found in DCMC
+                 Section 9-5-080(E) and potential negative impacts are not able to be sufficiently
+                 mitigated through the imposition of reasonable conditions.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+            Commissioner        Yes   No   Abstained      Not Participating    Absent
+            Chair Adams                    X
+            Fowler                                                             X
+            Squire              X
+            Nixon               X
+            Shirey              X
+            Ogden               X
+            Fidler, Alternate                             X
+            Shah, Alternate                                                    X
+            Green, Alternate    X
+
+       D.        Public Hearing: Jiffy Lube Site Plan Request.
+                 (Administrative Action)
+                 On the request of Robert Poirier of McNeil Engineering, representing Don Ballard and
+                 Lube Management Corp., a request for approval of a Site Plan for a Limited Vehicle
+                 Repair business on approximately 0.32 acres. Located at 681 East 12300 South,
+                 known as Application No.: 2025-0139-SP. Staff Contact: Todd Taylor, (801) 576-
+                 6510, todd.taylor@draperutah.gov.
+                 (Application continued to a date uncertain.)
+
+The item was continued to an uncertain date.
+
+2.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+The Chair adjourned the Planning Commission Meeting at 8:18 PM.
+

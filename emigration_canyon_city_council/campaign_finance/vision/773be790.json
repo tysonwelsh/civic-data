@@ -1,0 +1,39 @@
+{
+  "reports": [
+    {
+      "reporting_period": "June 21 report (contributions & expenditures through June 16; signed 6/16/2016, received JUN 15 2016)",
+      "contributions": [],
+      "expenditures": [],
+      "total_contributions": "55.00",
+      "total_expenditures": "55.00",
+      "beginning_balance": "0",
+      "ending_balance": "0"
+    },
+    {
+      "reporting_period": "November 1 report (contributions & expenditures through October 27; signed 10/27/2016, received OCT 28 2016)",
+      "contributions": [],
+      "expenditures": [],
+      "total_contributions": "0",
+      "total_expenditures": "0",
+      "beginning_balance": "0",
+      "ending_balance": "0"
+    }
+  ],
+  "contributions": [],
+  "expenditures": [],
+  "total_contributions": "55.00",
+  "total_expenditures": "55.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016_nov_gary-bowen.pdf",
+    "candidate": "Gary Bowen",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/2016_nov_gary-bowen.pdf",
+    "pages": 4,
+    "note": "RE-VISIONED 2026-07-17 into the multi-report reports[] schema: this single indexed PDF STAPLES TWO reports — pp.1-2 the November 1 report (Column A 'this period' = $0, Column B year-to-date = $55.00) and pp.3-4 the June 21 report (Column A this-period = $55.00, Column B YTD = $55.00). Neither report itemizes (Summary-Page-only, under-$500 exemption; the $55 is the filing fee). Bundle top-level total = the $55 cumulative year-to-date the November Column B shows; the December summary (cff93a02) independently restates $55/$55. Prior cache captured the November Column-A ($0) only and lost the June sub-report — corrected here. Original backed up to _backups/2026-07-17-cf-structuring/emigration_canyon/773be790.json.orig."
+  }
+}

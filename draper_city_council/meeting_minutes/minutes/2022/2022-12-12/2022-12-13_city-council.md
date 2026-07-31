@@ -1,0 +1,150 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=650&doc_id=edafa455-91e3-11ed-96ab-0050569183fa
+> Meeting date: 2022-12-13
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, DECEMBER
+13, 2022, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Mike Green
+                    (electronically), Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+
+EXCUSED:            Councilmember Roberts
+
+STAFF PRESENT:      David Dobbins, City Manager; Fred Aegerter, Community
+                    Development Director; Mike Barker, City Attorney; Kellie
+                    Challburg, Chief of Staff; Scott Cooley, City Engineer; John Eining,
+                    Police Chief; Bret Millburn, Assistant City Manager; Malena
+                    Murray, Human Resources Director; Rhett Ogden, Recreation
+                    Director; Laura Oscarson, City Recorder; Linda Peterson,
+                    Communications Director; Maryann Pickering, Planner, Clint
+                    Smith, Fire Chief; Jake Sorensen, IT; and Bob Wylie, Finance
+                    Director
+_____________________________________________________________
+Study Session
+
+1.0   Discussion: Mike Weir and Traverse Ridge Road Project
+
+1.1   City Engineer Scott Cooley oriented the Council with the planned Mike
+      Weir/Traverse Ridge Road Project.
+
+2.0   Council/Manager Reports
+
+2.1   Councilmembers expressed appreciation for City snowplow drivers. City
+      Manager David Dobbins reminded Councilmembers of the Holiday Market
+      that would occur December 16th and 17th at Draper Park.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Boy Scout Troop 1444 recited the Scout Oath and led the Pledge of Allegiance.
+
+
+Draper City Council Approved Minutes – January 10, 2023
+3.0   Presentation: Police Department 2022 Holiday Card Winners
+
+3.1   Chief John Eining showed a selection of winning holiday card submissions
+      since 2013. Chief Eining introduced and presented awards to the top three
+      winners for 2022. Katie Ahern won First Place with “Christmas Dreams”,
+      Charley Hawley won First Runner Up with “The Christmas That Went Wrong”
+      and Soren Harston won Second Runner Up with “Have a Sweet Holiday”.
+
+4.0   Public Comments
+      None
+
+5.0   Consent Items
+      a. Approval of Resolution #22-59, a Resolution granting Questar Gas
+         Company dba Dominion Energy Utah a right-of-way and easement on
+         Parcel I.D. #34-10-100-006.
+      b. Approval of Resolution #22-64, a Resolution by the Draper City Council
+         approving the City Council Assignment List for 2023.
+      c. Approval of Resolution #22-66, a Resolution appointing Emily Dziatlik to
+         serve on the Draper City Special Event Advisory Committee.
+
+5.1   Councilmember Vawdrey moved to approve all three Consent Items.
+      Councilmember F. Lowry seconded the motion.
+
+5.2   A roll call vote was taken. The motion passed unanimously.
+
+                                    Yes     No      Absent
+        Councilmember Green         X
+        Councilmember T. Lowery     X
+        Councilmember F. Lowry      X
+        Councilmember Roberts                       X
+        Councilmember Vawdrey       X
+
+6.0   Public Hearing: Ordinance #1572, an Ordinance of Draper City amending a
+      Master Area Plan per the Land Use and Development Code of the Draper City
+      Municipal Code relating to the Vista Station Master Area Plan
+
+6.1   Planner Maryann Pickering explained the request to reallocate density in the
+      Vista Station Master Area Plan. Reallocation from TSD-2 to TSD-1 would allow
+
+                                                                       Page 2 of 4
+      up to 118 units where none were currently allowed. The requested
+      amendment would update maps and charts with allowed densities, but would
+      not increase the total number of units allowed. Ms. Pickering said the Planning
+      Commission reviewed the request and forwarded a positive recommendation.
+      She described the proposed mixed-use development at the subject location.
+
+6.2   Jake Hemingway and Derek Allen, applicants, spoke of their development
+      objectives and answered questions from the Council. The applicants showed
+      conceptual renderings and described design plans.
+
+6.3   Mayor Walker opened a public hearing and closed the public hearing seeing
+      that no one came forward to comment.
+
+6.4   Councilmember F. Lowry moved to approve                   Ordinance     #1572.
+      Councilmember Vawdrey seconded the motion.
+
+6.5   A roll call vote was taken. The motion passed unanimously.
+
+                                      Yes     No      Absent
+       Councilmember Green            X
+       Councilmember T. Lowery        X
+       Councilmember F. Lowry         X
+       Councilmember Roberts                          X
+       Councilmember Vawdrey          x
+
+7.0   Action Item: Resolution #22-65, a Resolution accepting the City of Draper Audit
+      and Annual Comprehensive Financial Report (ACFR) for the Fiscal Year ending
+      June 30, 2022
+
+7.1   Rob Wood with HBME, LLC presented the FY2022 Audit and Annual
+      Comprehensive Financial Report. The audit included a clean, unmodified
+      opinion.
+
+7.2   Councilmember F. Lowry moved to approve Resolution #22-65 accepting the
+      Audit and Annual Comprehensive Financial Report for Fiscal Year ending June
+      30, 2022. Councilmember T. Lowery seconded the motion.
+
+7.3   A roll call vote was taken. The motion passed unanimously.
+
+
+
+                                                                         Page 3 of 4
+                                   Yes     No      Absent
+       Councilmember Green         x
+       Councilmember T. Lowery     X
+       Councilmember F. Lowry      x
+       Councilmember Roberts                       X
+       Councilmember Vawdrey       x
+
+8.0   Adjournment
+
+8.1   Councilmember Green moved to adjourn the meeting. Councilmember T.
+      Lowery seconded the motion.
+
+8.2   A voice vote was taken. The motion passed unanimously.
+
+8.3   The meeting adjourned at 7:45 p.m.
+
+
+
+
+                                                               Page 4 of 4
+

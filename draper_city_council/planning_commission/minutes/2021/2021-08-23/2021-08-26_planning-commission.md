@@ -1,0 +1,285 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=486&doc_id=a23f652a-32ac-11ec-88a7-0050569183fa
+> Meeting date: 2021-08-26
+> Format: text
+
+Approved minutes 10/14/2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, AUGUST 26, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:        Vice Chairperson Craig Hawker Commissioners Mary Squire, Lisa
+                      Fowler, Gary Ogden, and John Van Hoff, Alternate Commissioners Susan
+                      Nixon and Tab Bingham
+
+ABSENT:               Chairperson Andrew Adams and Alternate Commissioner DeLaina Tonks
+
+STAFF PRESENT:        Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                      Amie Salazar, Todd Draper, Jake Sorensen and Travis Van Ekelenburg
+
+6:30 PM Business Meeting:
+
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for July 22, 2021
+       (Administrative Action)
+
+Motion: Commissioner Van Hoff motioned to approve the Planning Commission Meeting
+Minutes for July 22, 2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Squire, Fowler, Bingham, Van Hoff, and Nixon voted, “Aye”.
+
+2.     Action Item:     Big Willow Creek Phase 3 Final Subdivision Plat Request
+       (Administrative Action)
+
+On the request of Bryon Prince, representing Ivory Development LLC, for approval of a Final
+Subdivision Plat for 37 single-family residential lots in the Big Willow Creek Phase 3
+development, located on 11.91 acres of property located at approximately 425 West 11400 South.
+The property is located in the R4 zoning designation. Application SUBD-068-2021. Staff contact
+is Jennifer Jastremsky, 801.576.6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented. She illustrated the overall layout for the entire
+development. She explained the developmental agreement. She showed the land use designations
+and zoning map. She stated that the subdivision plat would have 37 lots. She stated that the lots
+proposed in phase 3 are those originally shown in the preliminary plat.
+
+Applicant, Bryon Prince, was not present.
+
+Motion: Commissioner Van Hoff motioned to approve the final subdivision plat as requested
+by Bryon Prince, representing Ivory Development LLC, for Big Willow Creek Phase 3
+subdivision plat application SUBD-068-2021 based on the findings and subject to general
+and specific conditions as stated and listed in the staff report dated August 18, 2021.
+Draper City Planning Commission Meeting
+August 26, 2021
+Page 2
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Nixon, Squire, and Fowler voted, “Aye”.
+
+3.     Public Hearing: Brotherson Inc. Home Occupation Conditional Use Permit
+       (Administrative Action)
+
+On the request of Stacey Brotherson representing Brotherson Inc., a Home Occupation Conditional
+Use Permit request to operate a photo studio in a detached garage, on approximately 0.52 acres,
+located at 786 E. Golden Pheasant Dr. Known as application USE-0107-2021, Staff contact: Todd
+Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner, presented an aerial map of the property and the land use designation as well
+as the zoning map. He stated that the detached garage footprint is approximately 1600 square feet,
+which includes an 800 square foot loft, with the total footage being 2400 square feet, and this is
+where the photo studio would be. He stated that the garage is used for personal and commercial
+use. He stated that there would be no yard space or additional house space used for the business.
+He stated that there are two parking spaces designated to the business with customers coming to
+the business, and two additional spaces proposed to be added for personal use. He stated that the
+size of the proposed business is 56% of the size of the main home, which exceeds the typical 25%
+requirement of home occupations. He stated that the applicant is asking for deviation for that as
+well as the customers coming to the home. He stated that the applicant does live in the home and
+is willing to comply with all other standards. He listed the proposed conditions for the business
+including that customers were permitted on an appointment only basis and limited to one costumer
+group per hour. That 2 parking spaces be reserved for the business use, and stated that the proposed
+hours of operation limit is between 8AM and 8PM. He stated that the driveway must be left open
+during business hours so that backup space behind parking stalls was maintained and that ingress
+and egress was available.
+
+Commissioner Van Hoff inquired about the 56% size of the business.
+
+Mr. Draper clarified that the 56% is the size of the garage compared to the home itself.
+
+Vice Chairman Hawker asked about possible personal use for the garage.
+
+Mr. Draper stated that they do use the garage for personal use at times, but that the full garage
+would be available to the business. He stated that the customers would only come to the detached
+garage.
+
+Vice Chairman Hawker asked about workshop space.
+
+Mr. Draper indicated that the work room on the plans was part of the main home and not part of
+this business.
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+August 26, 2021
+Page 3
+Commissioner Nixon asked about the garage functioning as an office.
+
+Mr. Draper stated that the applicant would be able to address that.
+
+Commissioner Nixon asked about varying from the standards.
+
+Mr. Draper stated that the Planning Commission does have the authority to allow deviations from
+the standards.
+
+Commissioner Fowler asked about voting for the deviations separately.
+
+Mr. Draper stated that they’re included in one vote as a single operation and don’t need to be voted
+on individually.
+
+Applicant’s husband, Bryan Brotherson, stated that they’ve had a business license in Draper for
+many years. He explained their history of their internet business and how they came to be
+photographers. He stated that they received a letter from the city years ago stating that they did not
+need a business license, then received another letter after that stating that they were required to
+have a business license. He stated that they obtained a license and it now came to their attention
+that they need a home occupational permit. He stated that they’ve lived in Draper in 22 years. He
+stated that they’ve used the external barn for many personal events, weddings and parties. He
+stated that the photography sessions are usually about 20-30 minutes long. They will comply with
+parking only 2 cars and keeping the driveway open. He stated that customers are by appointment
+only.
+
+Commissioner Fowler asked about using the yard, or if it was confined to the garage.
+
+Mr. Brotherson stated that it’s usually confined to the garage. He stated that outdoor shots are
+usually taken elsewhere.
+
+Vice Chairman Hawker opened the public hearing.
+
+Mark Weisbender stated that he lives in the home east of the proposed business. He stated that his
+property is the most affected by this business. He stated that the detached garage is more of a large
+barn and he believes it to be a commercial building built with city approval under false pretenses.
+He stated that the barn soon became very active. He stated that customers use his property to park
+or turn around or walk through his yard. He stated that he asked the Brothersons to confine their
+customers and they seemed willing to comply. He stated that crime rates go up in neighborhoods
+where construction projects like this are prevalent. He stated that, on one occasion, the Brothersons
+asked him to park his car in their driveway so the home appeared occupied as to deter any potential
+crime or theft from their customers. He stated that he built a fence to secure his privacy, and that
+the Brothersons have not approached him about the Conditional Use Permit (CUP). He stated that
+he had many more complaints, but that they would exceed the time limit given.
+
+Jenifer Vance stated she is a neighbor of the Brothersons. She stated that the parking has not been
+a problem. She stated that she believes the impact on the neighborhood is not substantial.
+
+
+                                                  3
+Draper City Planning Commission Meeting
+August 26, 2021
+Page 4
+
+Nate Call stated that there is traffic already on the streets and the traffic caused by the Brotherson’s
+business is nothing compared to the traffic already there. He stated that the disruption to the
+neighborhood is negligible.
+
+Elisa Eaton stated that she built and used to live in what is now Mr. Weisbender’s home. She stated
+that she lived there for 14 years. She stated that the Brothersons are a wonderful family. She stated
+that she’s never observed any issues or concerns from them.
+
+Kayli Stewart stated that she has a friend who parked in front of Mr. Brotherson’s house when she
+was visiting. She stated that Mr. Brotherson came out and was very angry about the parking despite
+the fact that there was no business going on at the time.
+
+Vice Chairman Hawker closed the public hearing.
+
+Commissioner Bingham asked about a privacy fence.
+
+Ms. Jastremsky stated that extended fencing could be an option, but that may be a question for the
+applicant. She stated that the fence should address Mr. Weisbender’s issue of privacy, and that it
+appeared to already be installed.
+
+Mr. Draper referred to the photographs in the presentation and indicated that a privacy fence was
+already installed.
+
+Commissioner Van Hoff asked again about the 56% size in comparison to the main home.
+
+Mr. Draper stated that they’re able to ask for more usage of more square footage with CUPs.
+
+Vice Chairman Hawker clarified CUPs. He stated that sometimes the business is too big for
+residential space and the applicant is asked to obtain some commercial space. He stated that the
+CUP allows them to monitor the business.
+
+Commissioner Nixon stated that she’s okay with allowing them the CUP. She stated that she does
+like the conditions listed.
+
+Commissioner Van Hoff stated that they could move the backgrounds to use less than 56%, but he
+doesn’t see it as a problem. He asked about bylaws for photography and limits on photography
+studios the number of people who can come at one time.
+
+Mr. Draper stated that there is no such limit on the number of people in the Home Occupation
+Standards.
+
+Commissioner Fowler stated that as long as the applicant is adhering to the two car limit, that’s a
+reasonable request.
+
+
+
+
+                                                   4
+Draper City Planning Commission Meeting
+August 26, 2021
+Page 5
+Vice Chairman Hawker noted that they have to be very strict with the number of customers because
+there is a point at which there are too many people for a residential area and they should move to
+a commercial area.
+
+Vice Chairman Hawker stated that the parking should be limited; however, he reminded everyone
+that the street is public parking and anyone can park on the street. He stated that the parking is
+more confined with a CUP than without one.
+
+Commissioner Squire stated that they should modify it early if they’re going to modify it.
+
+Commissioner Fowler stated that they should limit the parking stalls and the number of vehicles.
+
+Motion: Commissioner Nixon motioned to grant the Conditional Use Permit as requested by
+Stacey Brotherson representing Brotherson Inc. Application USE-0107-2021, based on the
+findings and subject to the conditions listed in the staff report dated August 16, 2021 with
+modification to condition #6, limiting the number of customers to 14 at any one time and 2
+vehicles.
+
+Second: Commissioner Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Fowler, Van Hoff, Bingham, Squire, and Nixon voted, “Aye”.
+
+4.     Public Hearing: Larson Zoning Map Amendment (Legislative Action)
+
+On request of Mark Larson for approval of a Zoning Map Amendment on 1.95 acres of property
+regarding a rezone on the property from the RA1 zoning designation to the RA2 zoning designation
+located at 12990 S. Boulter Street. Application TEXTMAP-0111-2021; Staff contact: Travis Van
+Ekelenburg, 801-576-6391 travis.vanekelenburg@draperutah.gov.
+
+Travis Van Ekelenburg, Planner, presented the land use map and zoning map. He stated that the
+property is surrounded by RA1 and RA2 designations. He stated that the applicant is looking to
+rezone to RA2 for the possibility of a future subdivision. He explained the qualifications for RA1
+and RA2 designations. He stated that the intent is to go from one lot to three lots.
+
+Mark Larson, applicant, presented. He stated that he hopes to rezone to get some additional lots in
+the back.
+
+Commissioner Fowler asked about a private lane.
+
+Mr. Larson stated that they would put in a private lane.
+
+Opened the public hearing.
+
+Closed the public hearing.
+
+
+
+                                                 5
+Draper City Planning Commission Meeting
+August 26, 2021
+Page 6
+Motion: Commissioner Fowler motioned to approve the zoning map amendment as
+requested by Mark Larson for application TEXTMAP-0111-2021 based on the findings and
+subject to the conditions listed in the staff report dated August 18, 2021.
+
+Second: Commissioner Van Hoff.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Fowler, Squire, and Nixon voted, “Aye”.
+
+5.    Adjournment
+
+Motion: Commissioner Fowler motioned to adjourn.
+
+Vote: A vote was taken with the Commissioners voting 5-0 in favor of the motion.
+
+The meeting adjourned at 7:19PM
+
+
+
+
+                                            6
+

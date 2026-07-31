@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": null, "name": "Dr. Mona Lee Clark", "amount": "20.00", "in_kind": false},
+    {"date": null, "name": "Angie Wave", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Steve Smith loan", "amount": "1000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "RiverPrint", "purpose": null, "amount": "1340.09", "in_kind": false},
+    {"date": null, "recipient": "Rumble Up", "purpose": null, "amount": "172.81", "in_kind": false},
+    {"date": null, "recipient": "Austin Cox", "purpose": null, "amount": "5050.00", "in_kind": false},
+    {"date": null, "recipient": "Little Caesars", "purpose": null, "amount": "53.09", "in_kind": false}
+  ],
+  "total_contributions": "1520.00",
+  "total_expenditures": "6615.99",
+  "contributions_50_or_less": null,
+  "beginning_balance": "5346.46",
+  "ending_balance": "250.47",
+  "_meta": {
+    "index_path": "raw/2025_smith_post-election-report.pdf",
+    "candidate": "Shannon Smith",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_smith_post-election-report.pdf",
+    "pages": 5,
+    "method": "read-tool-vision 2026-07-18 (handwritten). Post-Election Report; THIS-PERIOD = Column C (10/28-12/4/25): contrib 1520.00 (3 rows incl. sub-$50 Clark 20.00, itemized as printed) / expend 6615.99. Printed Column E Campaign Total = 19183.81 contrib / 18933.34 expend (= 28-Day 16743/7457.57 + General 920.81/4859.78 + Post 1520/6615.99). Per-period filer -> cycle_overrides.csv carries the Column-E cycle total."
+  }
+}

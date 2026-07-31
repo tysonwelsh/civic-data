@@ -1,0 +1,262 @@
+# Millcreek Planning Commission — 2022-04-20
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04202022-564
+> Meeting date: 2022-04-20
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2022-04-20
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04202022-564
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                            Minutes               of the
+                                                                             Millcreek            Planning              Commission
+                                                                                                April      20, 2022
+                                                                                                    5:00         p.m.
+                                                                                           Regular               Meeting
+
+
+Tlie Planning          Commission                of Millcreek,       Utah,     met in a regular             public         meeting       on Wednesday,
+April      20, 2022 at City             Hall,     located    at 3330 S. 1300 E., Millcreek,                         UT 84106.          The meeting          was
+conducted          electronically          and live streamed             via the City's           website         with     an option       for online      public
+coinment.
+
+
+PRESENT:
+
+
+Commissioners                                                                            City     Staff
+Shawn       LaMar,         Chair                                                         Francis        Lilly,     Planning        and Zoning          Director
+Victoria      Reid, Vice           Chair                                                 Elyse      Sullivan,           City   Recorder
+David      Allen     (absent)                                                            John Miller,             Public       Works     Director
+Scott Claerhout             (electronic)                                                 Kurt     Hansen,          Facilities      Manager
+Skye Sieber                                                                              Brad      Sanderson,            Current       Planning      Manager
+Tom     Stephens           (excused)                                                     Jake Green,             Development             Review      Specialist
+Ian Wright         (electronic)                                                          (electronic)
+Christian       Larsen
+Aryel      Cianflone         (excused)
+
+
+Attendees:          Frank      Miller      (electronic), David           Kingston,        Joe Pienezza
+
+
+REG{n,AR             MEETING               - 5:00 p.m.
+TIME        COMMENCED:                          5:03 p.m.
+
+
+Chair      LaMar      called       the meeting         to order and read a statement                       explaining          the duties       of the
+Planning      Commission.
+
+
+1. Public       Hearings
+    1.1 Consideration                   of EX-22-002,            Request        for    an Exception                to Millcreek's           Sidewalk
+      Standards            for the Dedication               of the Pinnacle            Place       Right-of-Way                Location:        4842      s.,
+      4848    s., and 4852              S. Pinnacle         Place    Applicants:           Franklin              and Bonnie          Miller,       Roger        and
+      Camille       McGillis,           Terry      05Hara,          and Brenda           Ruthizer          Planner:            Francis     Lilly
+    Francis        Lilly     said the first two items were for the same project                                    so he would           give one
+    presentation,            but the Coinmission                 would     still hold two public                  hearings       and make two
+    motions.         He said the applicants                 lived    on a cul-de-sac             called     Piru'iacle         Place. They         came to the
+    city the prior           year to have Pinnacle                Place dedicated           as a public            right-of-way.           It was platted         as
+    a private        right-of-way,              but the county       had routinely          been maintaining                    the street. The City
+    Council         was the authority              to dedicate       a private        right-of-way           to a public          one and that process
+    was done through                 a subdivision          plat. The cul-de-sac                does not have a sidewalk.                      The code
+    requires        that private         right-of-way         dedications         to public         rights-of-way              meet the public           right-
+Millcreek       Planning           Commission              Meeting         Minutes                           20 April          2022         Page 2 of 5
+
+
+
+    of-way       standards.         The right-of-way                meets all the standards                 except         the sidewalk,         so the
+    applicants         were seeking            a sidewalk          exception.        The Planning             Coinrnission              would    need to
+    recommend            to the mayor             an exception         to the sidewalk               standards         and approve           the final
+    subdivision          plat. The City            Council        would     then accept the plat to accept                         the dedication            to a
+    public      right-of-way.            He briefly         reviewed        the city policy            for dedicating             private     streets to the
+    public.      Applicants             had to make the request                 and there had to be a compelling                            public     interest
+    for the city accepting                  the right-of-way.
+
+
+    Lilly     showed       the Commission                 pictures      of the cul-de-sac              and the old and proposed
+    subdivision          plats. The condition                of the road was similar                   to the area. There                were narrow           front
+    yard setbacks           with        mature     landscaping.           Requiring          sidewalks            would       render     the setbacks          non-
+    conforming           and the sidewalk                would      not connect        to anything            as there were no other sidewalks
+    in the neighborhood.                  The city was seeking                a 41-foot         radius      dedication            from    the center point
+    of Pinnacle          Place in order to maintain                    the street.
+
+
+    Lilly     presented          the staff findings.          There       was a history              of public       maintenance            of the cul-de-
+    sac, there were unusual                    aesthetic      and topographical               considerations               that warranted            a sidewalk
+    exception,         and the Millcreek                 Public     Works       Director       recommended                 both     the dedication             and
+    the sidewalk          exception.           Neither      the matter       of the dedication               nor the final             plat were fori'nally
+    subject      to recommendation                  by a community                council.      However,             the Mount           Olympus
+    Community            Council          considered         the request        for a sidewalk             exception           in the broader          context
+    of the request          for dedication.              At a meeting        held on April              4, 2022, the Mt.               Olympus
+    Cornrnunity          Council          expressed         support       for the dedication              of the Piru'iacle            Place cul-de-sac
+    into a public         right-of-way,            and voted unanimously                     to recornrnend               to the Planning
+    Commission             and Mayor            that a sidewalk           exception          be granted           as part of the dedication,                   in an
+    effort     to maintain         the unusual            aesthetic      conditions          along the cul-de-sac,                 namely       the relatively
+    narrow       setbacks         and the existing            landscaping          that would           otherwise            be eliminated           if a
+    sidewalk          were installed.          He recoinrnended              approval          of the subdivision                 plat and sidewalk
+    exception          subject     to the following               conditions:
+    1.      The applicant          obtain        all required       approvals        from       affected          entities,     including       but not
+            limited     to the Salt Lake City                Department           of Public          Utilities,      the Mount           Olympus
+            Improvement            District,       and the Salt Lake              County       Health       Department.
+    2.      The final     boundary           of the dedication             of Pinnade           Place be establislied                  at one foot beyond
+            the existing         back of curb on Pinnacle                   Place.
+    3.      The applicant          obtain       acceptance          of the final      plat and approval                   of the dedication            of
+            Pinnacle      Place as a public               right-of-way          by the City           Council        prior     to recording          the
+            amended       subdivision            plat.
+    4.      The applicant          obtain       a final     decision       from    the Millcreek             Mayor           regarding       a sidewalk
+            exception      prior        to recording        the amended            subdivision           plat.
+
+
+    Commissioner                Larsen      clarified      that staff was not recommending                             a sidewalk         deferral
+    agreement.          Lilly     confirmed.         Chair        LaMar     noted     that condition               two protected            the landscaping
+    from      no sidewalk.          Lilly      confirmed.          He planned         to write         a letter     explaining           that to the
+    applicants.         Chair      LaMar         asked about the city's              benefit         for taking        on the cul-de-sac.              Lilly     said
+    there was not necessarily                    one, it would         be an acknowledgement                         of an existing           condition.
+    Jom      Miller      said there was a benefit                  to getting       the foot behind               the road.       Chair      LaMar          noted
+    that the public             could    use the road as a turn around.                      Lilly     confirnned            and said an easement
+    allowed       that before.
+Millcreek            Planning        Commission               Meeting        Minutes                          20 April        2022       Page 3 of 5
+
+
+
+
+       Frank        Miller,     applicant,       said the circle            had been used since 1991                  as a public        street. The
+       advantage           to Millcreek         was a public          space that was already                  used as one for three decades.
+       The applicants,             all three property             owners       abutting      the road, would             like the road to be
+       declared          public.
+
+
+       Chair        LaMar       opened       the public          hearing.
+
+
+       There        were no coinments.
+
+
+       Chair        LaMar       closed     the public           hearing.
+
+
+       Coinmissioner               Claerhout        said the applications              made sense and were acceptable.
+
+
+Commissioner                  Larsen,      regarding            application          EX-22-002,           moved       that    we recommend
+approval            of an exception             to Millcreek's             sidewalk        standards          for the dedication               of the
+Pinnacle           Place      right-of-way          at 4842        s., =ts=ts s., and 4852                S. Pinnacle         Place.     Commissioner
+Claerhout            seconded.          Chair     LaMar           called     for the vote.          All    Commissioners               present         voted
+yes.    The motion              passed      unanimously.
+
+
+       1.2 Consideration                 of SD-21-011,             Final     Plat Approval                for an Amendment                to the Pinnacle
+       Place       Subdivision           to Dedicate            Pinnacle       Place      into     a Public      Right-of-Way                 Pursuant          to
+       Millcreek           Code 14.50           Location:          4842      s., 4848 s., and             4852 S. Pinnacle             Place        Applicants:
+       Franklin           and Bonnie          Mmer,         Roger        and Camille             McGillis,      Terry        O'Hara,          and Brenda
+       Ruthizer           Planner:        Francis       Lilly
+
+
+       Chair       LaMar        opened       the public         hearing.
+
+
+       There were no comments.
+
+
+       Chair       LaMar        closed     the public         hearing.
+
+
+Commissioner                  Claerhout         moved         to make        a final      plat    approval        for SD-21-001               for    an
+Amendment                to the Pinnacle            Place        Subdivision           to Dedicate           Pinnacle        Place     into     a Public
+Right-of           Way     Pursuant          to Millcreek           Code      Chapter        14.50        at 4842       s., 4848 s., and 4852                   S.
+Pinnacle           Place with        all other        indicators           mentioned         m the staff         report.       Commissioner                Sieber
+seconded.           Chair       LaMar        called     for      the vote.     All     Commissioners              present        voted        yes. The
+motion        passed          unanimously.
+
+
+       1.3 Consideration                 of SD-22-001,             Preliminary            Plat    Approval         for     a 2-Lot      Subdivision
+       Location:           4181 S. State          Street        Applicant:       Elliot      Smith         Planner:      Brad        Sanderson
+       Brad        Sanderson        said the applicant             was seeking          a preliminary           subdivision          approval         for a
+       commercial             subdivision.        The Coininission              recently         reviewed       a site plan for the Mister
+       Carwash         that would         be on the property.                Sanderson           showed      the Coinmission             the proposed
+       subdivision            plat. There       would      be an access easement                   on State Street,          and sewer and public
+       utilities     easements.          There would             also be a dedication              on Gordon          Lane. He said there was not
+       a minimum              lot size or setbacks            in the commercial              zone. He said he would                  work       with      the
+       County        Surveyor        for the dedication              on Gordon          Lane.      The dedication            on Gordon           Lane would
+Mfflcreek       Planning           Commission          Meeting          Minutes                       20 April       2022              Page 4 of 5
+
+
+
+    be made with            the subdivision,          but the improvements               would        not be installed             until     the property
+    developed.           The community            council      did not provide          a recomtnendation                 since it was a
+    subdivision           application.      Staff recommended                approval      of the preliminary                  plat.
+
+
+    The applicant's              representative       declined        to coinrnent.
+
+
+    Comi'nissioner            Claerhout        asked if the property              was currently        vacant.      Sanderson               confirmed.
+
+
+    Chair      LaMar        opened       the public     heariizg.
+
+
+    David       Kingston,          representing       the landowner          to the north,       asked what the property                       to the
+    north      would       be used for. Chair          LaMar       said the Commission                recently       approved             an application
+    for a Mister          Carwash        on the northern         lot.
+
+
+    Chair      LaMar        closed     the public      hearing.
+
+
+Commissioner              Reid     moved       to recommend              preliminary          plat    approval           for    a 2-lot      subdivision
+at 4181 S. State           Street,     SD-22-001.         Commissioner              Larsen       seconded.          Chair         LaMar         called      for
+the vote. All        Commissioners              present       voted      yes. The motion             passed      unanimously
+
+
+2. Commission             Business
+    2.1 Approval             of March       16, 2022 Meeting               Minutes
+
+
+Chair    LaMar           moved       to approve        the meeting          minutes      as presented            in the staff              report.
+Commissioner              Claerhout        seconded.        Chair        LaMar       called     for the vote.            Commissioners
+LaMar,       Reid,       Sieber,     Wright,      and Claerhout             voted      yes. Commissioner                   Larsen          abstained.
+The motion         passed.
+
+
+    2.2 Updates            from      the Planning         and Zoning          Director
+    Francis      Lilly     introduced       Jake Green to the Coinmission.                      He said the next Coinmission
+    meeting       would       be on May 18'.            The first part of the meeting                 would       be joint         with      the City
+    Council.       The agenda would               include       a City    Center     Overlay         Zone (CCOZ)                discussion,          a public
+    arts policy          discussion,      and the Open and Public                  Meetings      Act annual          training.           Commissioner
+    Sieber      asked if there would              be a draft public          arts policy       to review.        Lilly         said it would         be a
+    conceptual           discussion.
+
+
+3. Calendar          of Upcoming           Meetings
+    *       City Council         Mtg., 4/25/22, 7:00 p.m.
+    *       Mt. Olympus          Community        Council     Mtg., 5/2/22, 6:00 p.m.
+    *       Millcreek      Community        Coiu'icil Mtg., 5/3/22, 6:30 p.m.
+    *       Canyon Rim Citizens Association                   Mtg., 5/4/22, 7:00 p.m.
+    *       East Mill      Crcek Cornrnunity          Council     Mtg., 5/5/22, 6:30 p.m.
+    *       City Council         Mtg., 5/9/22, 7:00 p.m.
+    *       PlanningCornrnissionMtg.,5/18/22,5:00p.m.
+
+
+ADJOURNED:                  Commissioner              Claerhout          moved      to adjourn         the meeting               at 5:50 p.m.
+Commissioner              Sieber     seconded,        Chair      LaMar        called     for the vote.        All        Commissioners                 voted
+yes. The motion             passed      unanimously.
+Millcreek   Planning   Commission   Meeting   Minutes             20 April    2022   Page 5 of 5
+
+
+
+
+                       APPROVED:
+                                       Shawn LaMar,
+                                                        Li,,i
+                                                         Chair
+                                                                             Date as/z/71
+
+
+                        Attest:     !mn,                City Recorder

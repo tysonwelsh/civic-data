@@ -1,0 +1,529 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=570&doc_id=b1b68176-e5b6-11ec-9ad4-0050569183fa
+> Meeting date: 2022-04-14
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, APRIL 14, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:                Chairperson Andrew Adams, Vice Chairperson Craig Hawker
+                              Commissioners Gary Ogden, Lisa Fowler, John Van Hoff, and
+                              Alternate Commissioner DeLaina Tonks, Tab Bingham and Susan
+                              Nixon
+
+ABSENT:                       Commissioner Mary Squire
+
+STAFF PRESENT:                Jennifer Jastremsky, Amie Salazar, Fred Aegerter, Mike Barker,
+                              Spencer DuShane, Brien Maxfield, Maryann Pickering, Todd
+                              Draper and Don Buckley
+
+6:30 PM Business Meeting:
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for March 10, 2022
+       (Administrative Action)
+
+Jennifer Jastremsky, Senior Planner, noted that an email should have been sent out earlier that day
+with changes suggested by Susan Nixon. She indicated that the changes dealt with consistency in
+titles throughout the minutes.
+
+Motion: Commissioner DeLaina Tonks motioned to approve the Draper City Planning
+Committee Meeting Minutes for March 10, 2022 with a few minor changes to provide
+consistency in the titles, “chair” to “chairman” used in the minutes.
+
+Second: Commissioner Lisa Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+2.     Action Item: Approve Planning Commission Meeting Minutes for March 24, 2022
+       (Administrative Action)
+
+Motion: Commissioner Fowler motioned to approve the Draper City Planning Committee
+Meeting Minutes for March 24, 2022 with the title changes that staff has recommended.
+
+Second: Commissioner Gary Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 2
+3.     Public Hearing: Jordan Maddocks I-ADU Deviation (Administrative Action)
+
+On the request of Jordan Maddocks, a deviation request to allow for an Internal Accessory
+Dwelling Unit (I-ADU) on 0.82 acres located at approximately 1515 E. Bluff Point Dr., known as
+application    VAR-0095-2022.       Staff     contact:    Todd     Draper,      801.576.6335,
+todd.draoer@draperutah.gov.
+
+Todd Draper, City Planner, explained that the request was a deviation for an accessory dwelling
+unit (ADU). He shared that the property was low/medium density and zoned RR43. He shared that
+the deviation could be authorized if the following conditions were met under the approval of the
+planning commission: The lot or parcel on which the primary dwelling is located is at least 20,000
+square feet, no detached accessory dwelling units exist on the property, that the internal accessory
+dwelling unit meets all other applicable requirements contained in chapter 31, and at least two
+parking stalls be provided for the use of the internal accessory dwelling unit.
+
+Mr. Draper presented the site plan. He pointed out that there was a one car garage designated for
+the accessory dwelling unit along with an additional space next to it for parking that did not
+interfere with any of the other existing parking on the site. He provided site photos of the home
+and noted that they had not received any public comments.
+
+Chairperson Adams inquired why this was not included with the approval of ADU’s they did when
+the State law was changed.
+
+Mr. Draper clarified that when the city adopted the ordinance to allow ADU’s they restricted about
+20% of residential land areas from having them due to narrow streets but allowed for a deviation
+for larger lots that could hold additional onsite parking for the ADU.
+
+Chairperson noted that this was not a public hearing. He invited the applicant up to share thoughts
+and comments.
+
+Jordan Maddocks, Applicant, indicated that they had ample parking on their property and did not
+see a reason that parking would ever spill out into the street. He noted that there were about four
+extra parking spaces on his property.
+
+Commissioner Craig Hawker stated that he liked the deviation.
+
+Motion: Commissioner Hawker motioned to approve the deviation as requested by Jordan
+Maddocks for Jordan Maddocks I-ADU, application VAR-0095-2022, based on the findings
+and subject to the conditions listed in the staff report dated April 4, 2022.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 3
+4.     Public Hearing: My Backyard Playschool Home Occupation Conditional Use Permit
+       (Administrative Action)
+
+On the request of Sasha Johnson for a Home Occupation Conditional Use Permit preschool on 0.4
+acres of property located at 621 East Hourglass Cir. Application USE-61-2022. Staff contact:
+Jennifer Jastremsky, 801.576.6328, jennifer.jastremsky@draperutah.gov.
+
+Commissioner Fowler recused herself from this item.
+
+Ms. Jastremsky provided an overview of the subject property indicating that it was within the
+residential medium density land use designation and was zoned RA2. She indicated that the
+applicant’s plan was to do a nature-based preschool that took place outdoors with up to 10 students,
+3-6 years old, in each class. She noted the classes would run from 12pm to 3pm two to three days
+a week. She presented the applicant’s drop-off and pick-up plan that included space for queuing
+and noted the driveway could be used for longer parent visits. Ms. Jastremsky provided site photos
+of the home and property.
+
+Sasha Johnson, Applicant, explained that there was side yard access to the backyard on both sides
+of the home, but anticipated using the east side for access.
+
+Commissioner DeLaina Tonks inquired what would happen with the preschool during inclement
+weather.
+
+Ms. Johnson stated that parents would be directed to dress their child for the weather. She noted
+that if weather conditions became dangerous, she did have a basement play area to shelter children.
+
+Commissioner Tonks asked how the 3pm pick-up time would flow with bus drop-off times.
+
+Ms. Johnson pointed out that the 3pm pick up time was offset by at least 20 minutes for both
+schools in the area. She indicated that the pre-school would only be running during the school year
+and not year-round.
+
+Chairperson Adams called for public comments on the item.
+
+Kasey Douglar commented that he was nearby homeowner. He expressed that he was in support
+of his neighbor’s proposed preschool.
+
+Chairperson Adams called for additional comments. None were offered, and the public hearing
+was closed.
+
+Commissioner John Van Hoff asked if city code 9-34-040 indicating that activity should not take
+place outside the dwelling applied or if a deviation was needed.
+
+Ms. Jastremsky remarked that the conditional use permit would prove the deviation. She clarified
+that a separate deviation was not needed.
+
+
+
+                                                 3
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 4
+Motion: Commissioner Van Hoff motioned to approve the home occupation conditional use
+permit as requested by Sasha Johnson for My Backyard Playschool, Application USE-61-
+2022, based on the findings and subject to the conditions listed in the staff report dated April
+6, 2022.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, and Tonks voted, “Aye”.
+
+5.     Public Hearing: 3D Print Fly Home Occupation Conditional Use Permit
+       (Administrative Action)
+
+On the request of John Watson for a Home Occupation Conditional Use Permit in the R3 zone for
+a cottage business that utilizes a 3D printer to design and create items to sell online. The property
+is located at approximately 459 E. Willow Moor Cove in the R3 (Single Family Residential, 13,000
+square foot lot minimum zoning district. Staff contact: Maryann Pickering, 801.576.6391,
+maryann.pickering@draperutah.gov.
+
+Maryann Pickering, City Planner, indicated the land use designation for the property was
+residential medium density and the zoning was R3. She shared that the applicant was looking to
+do a cottage business that did not include any company vehicles or customers coming to the home.
+She noted that the permit was required since the product was being made in the home.
+
+Chairperson Adams provided an opportunity for the applicant to speak.
+
+John Watson, Applicant, noted that he and his sons had been doing 3D printing for several years
+and wanted to go through the process of setting up a business and make money with it. He indicated
+that they mainly created customized address plaques, remote car parts, miniature figurines, license
+plate adapters for cars.
+
+Chairperson Adams inquired how they planned to market and deliver the product.
+
+Mr. Watson replied that business was all done online, and the products were shipped. He noted
+that they have done several things to avoid having customers come to their home including having
+a PO Box for returns.
+
+Chairperson Adams opened the meeting up for public comments on the item. No comments were
+made, and the public hearing was closed.
+
+Commissioner Hawker thanked the applicant for coming in and doing things the right way.
+
+Motion: Commissioner Hawker motioned to approve the Home Occupation Conditional Use
+Permit as requested by John Watson, Application USE-072-2022, based on the findings and
+subject to the conditions listed in the staff report dated April 5, 2022.
+
+
+
+                                                 4
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 5
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+6.     Public Hearing: Denney Subdivision Plat Amendment (Administrative Action)
+
+On the request of Tanner Eldredge, a Subdivision Plat Amendment request to create a Flag Lot on
+approximately 0.99 acres located at approximately 685 E. 12000 S., Known as application SUBD-
+0205-2021. Staff contact: Todd Draper, 801.576.6335, todd.draoer@draperutah.gov.
+
+Mr. Draper presented the subdivision application to amend the Denney Subdivision. He noted that
+the subject property was in the low/medium density land use designation and RA2 zone. He noted
+that the applicant was proposing to divide the original subdivision creating a flag lot. He indicated
+that the 20-foot access to the rear lot would include a fire department turn around. He noted there
+was a large canal on the east side of existing property which resulted in an easement from the front
+property that ran back along the proposed rear lot.
+
+Mr. Draper reviewed the street tree plan which included the addition of a tree along the front of
+the front lot. He shared that the city had received one public comment on the item from a neighbor
+who expressed they were not in favor of the amendment.
+
+Commissioner Hawker asked if a full survey was required and if it had been completed.
+
+Mr. Draper responded that they do require a full survey and that it had been completed.
+
+Ms. Jastremsky clarified that a survey is done to create a subdivision plat at which point they
+identify any overlaps or gaps in property lines. She noted those corrections are then made with the
+plat or prior to the plat.
+
+Commissioner Hawker asked if there were concerns about the traffic from the proposed driveway
+and the roadway across the street from the site.
+
+Mr. Draper explained that since driveways had low traffic volumes, they do not consider it under
+potential conflicts that would warrant additional action.
+
+Commissioner Fowler commented that flag lots did not appear to be uncommon in the larger area
+surrounding the site.
+
+Tanner Eldredge, Applicant, noted that the individual planning to purchase the back lot already
+had plans drawn up for their home and it was well off the easement road for the canal even with
+all the setbacks. He remarked that there were three flag lots along the road, two of which were
+currently being built and were similar in size.
+
+Commissioner Hawker asked if there were plans to keep the existing structure.
+
+
+
+                                                 5
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 6
+Mr. Eldredge indicated that they were currently unsure if it would remain or be demolished.
+
+Chairperson Adams opened the public hearing for the item.
+
+Christian Cole, 11963 South 645 East, noted that he lived adjacent to the subject property. He
+expressed concerns that this would create a property directly surrounded by other developments
+and that the banks of the canal went up far onto the property. He pointed out that about a year ago
+a nearby property was trying to subdivide into three lots and it was denied. He noted that he did
+not understand the lack of consistency with subdivisions in the area. He indicated he was also
+speaking on behalf of Benjamin North who lived at 12123 South Comancheria Drive, who is also
+opposed to the amendment.
+
+Cameron Fulwood stated his family was the only people that used the easement to the right of the
+property. He noted there was a water gate on the back east corner of the property that they use
+daily during the summer. He indicated that they had water rights and needed to be guaranteed
+access to the gate.
+
+Nicki Ferguson, 565 East 12000 South, indicated that she was one of the three turned down in
+2019. She stated that at the time they indicated that allowing the flag lots would be setting a
+precedence. She pointed out the flag lots that were currently being built were created long ago but
+were not being built on until now.
+
+Nelson Glassed, 545 East 12000 South, commented that the flag lot currently being constructed
+was miserable. He noted that he and 22 homes west of him were all opposed to flag lots. He stated
+that flag lots were not a common thing in the area and that the neighbors wished to maintain acre
+lots and not have them split up.
+
+Tyson Moore, 12041 South 645 East, expressed his agreement with the neighboring property
+owners who had spoken. He stated that he would like to know where the property owner was
+proposing to put their home. He clarified that the neighborhood would like to see consistency
+applied and not have the precedence changed.
+
+Chairperson Adams closed the public hearing portion of the agenda item.
+
+Ms. Jastremsky explained that the denial the neighbors were referring to, was a rezone request on
+three properties located to the west of the subject property. She noted that the properties were
+surrounded by one-acre lot zoning and were hoping to rezone to half-acre lots which was denied.
+She noted that the subject property’s neighborhood had an array of both one-acre and half-acre
+lots. She noted that half-acre lots were consistent with the properties directly adjacent to the subject
+lot and half-acre lots were allowed under its current zoning.
+
+Mr. Draper remarked that there was an easement to the canal on the property and the property
+owners were not necessarily allowed to restrict access. He noted that the access road met the road
+on the neighboring property and cut across the back corner where the water gate was.
+
+
+
+
+                                                   6
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 7
+Chairperson Adams noted that precedence was not something that the commission really had to
+consider. He pointed out that this property was also already in a zone that allowed for half-acre
+lots.
+
+Ms. Pickering noted that the zone the subject property was in acted as a buffer zone between
+commercial lots and larger residential lots.
+
+Mr. Eldredge noted that he was aware people needed access to the water gate and did not have an
+issue with that. He remarked that he did a lot of research before purchasing the property and felt
+what he was proposing would better the neighborhood.
+
+Commissioner Hawker commented that while he was not a big fan of flag lots, he felt that allowing
+the flag lot was consistent and was not setting a precedence.
+
+Motion: Commissioner Fowler motioned to approve the Subdivision Plat Amendment as
+requested by Tanner Eldredge for the Denney Subdivision, Application SUBD-0205-2021,
+based on the findings and subject to conditions listed in the staff report dated April 5, 2022.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+7.     Public Hearing: Irvine CSD Medical Text Amendment (Legislative Action)
+
+On the request of Scott Irvine for a text amendment to DCMC Section 9-18N-020 in order to add
+Medical or Dental Laboratory use as a permitted use in the CSD-IOP zone. Application
+TEXTMAP-79-2022.            Staff      contact:    Jennifer   Jastremsky,     801.576.6328,
+jennifer.jastremsky@draperutah.gov.
+
+Ms. Jastremsky noted that the Irvine Office Park Commercial Special District (CSD) was adopted
+in 2018 and was located south of Bangerter Highway and north of the prison. She noted that piece
+of property within the zoning district that would be affected by the proposed change. She clarified
+that the proposed amendment would add medical or dental laboratory as permitted uses within the
+CSD. She pointed out that medical offices were already allowed within the zone but that this would
+allow for offices focused more on medical research than treating patients.
+
+Chairperson Adams invited the applicant up to speak.
+
+Scott Irvine, Applicant, noted that it was an oversite that they did not include medical laboratory
+uses when the CSD was first created in 2018. He stated that a potential tenant requesting medical
+laboratory use was at the meeting and available to answer additional questions.
+
+Chairperson Adams opened the public comment period. No comments were offered, and the public
+hearing was closed.
+
+
+
+                                                7
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 8
+Commissioner Hawker expressed that he was in support of the change.
+
+Motion: Commissioner Ogden motioned forward a positive recommendation to the city
+council for the text amendment as requested by Scott Irvine representing IOPLC for Irvine
+CSD Medical Text Amendment, Application TEXTMAP-79-2022, based on the findings and
+subject to conditions listed in the staff report dated April 5, 2022.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+8.     Public Hearing: Norman Family Flag Lot Land Use and Zoning Map Amendments
+       (Legislative Action)
+
+On the request of Jeff Norman and Carla Hansen to amend the land use designation from
+Residential Low/Medium Density to Residential Medium Density and rezone the property from
+RA2 (Residential Agricultural, 20,000 square foot minimum) to R3 (Single Family Residential,
+13,000 square foot lot minimum). The property is 0.84 acres in size and is located at approximately
+192 E. 13560 South. Applications TEXTMAP-030-2022 and TEXTMAP-031-2022. Staff contact:
+Maryann Pickering, 801.576.6391, maryann.pickering@draperutah.gov.
+
+Ms. Pickering provided an overview of the property noting that the land use designation was
+residential low/medium density, and the zoning was RA2. She clarified that the applicant is
+requesting to change the land use to residential medium density and the zoning to R3. She noted
+that if the application is approved by council that the applicant would request to subdivide and
+create a flag lot with approximately 13,000 square foot lots. She indicated that she received one
+public comment from a neighbor who was concerned that townhomes would be built on the
+property. She noted that the two lot directly to the east looked similar but were slightly larger
+which is why they did not have to change the zoning to R3 to create a flag lot.
+
+Jeff Norman, Applicant, indicated that they have received support from neighbors regarding their
+proposed changes. He noted that he intended to build his forever home on the rear lot if they were
+allowed to split the property and create a flag lot.
+
+Commissioner Hawker stated that he was in favor of the application.
+
+Motion: Commissioner Hawker motioned forward a positive recommendation to the city
+council for the Land Use Map Amendment as requested by Jeff Norman and Carla Hansen
+from the Norman Family Flag Lot ZMA and LMA, Application TEXTMAP-031-2022, based
+on the findings and subject to conditions listed in the staff report dated April 5, 2022.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+
+                                                8
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 9
+Motion: Commissioner Van Hoff motioned forward a positive recommendation to the city
+council for the Zoning Map Amendment as requested by Jeff Norman and Carla Hansen
+from the Norman Family Flag Lot ZMA and LMA, Application TEXTMAP-030-2022, based
+on the findings and subject to conditions listed in the staff report dated April 5, 2022.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+9.     Public Hearing: Jarvie Estates Phase 2 Zoning Map Amendment and Development
+       Agreement (Legislative Action)
+
+On the request of Andy Flamm for a Zoning Map Amendment for 1.14 acres of property from the
+RA1 zone to the RA2 zone and a Development Agreement to waive private lane width standards
+for the property located at 498 East 13800 South. Applications TEXTMAP-67-2022 and DA-68-
+2022. Staff contact: Jennifer Jastremsky, 801.576.6328, jennifer.jastremsky@draperutah.gov.
+
+Ms. Jastremsky indicated that the subject property currently had access via a private dirt lane
+running along the west side of the property. She stated there was previously a home on the
+property, but it burned down a few years ago. She noted that the property was within the residential
+low/medium land use designation and the RA1 zone. She explained that the applicant was
+requesting a rezone to the RA2, which was like much of the land surrounding the property. She
+stated the applicants were also proposing a development agreement which would limit the property
+to becoming no more than two lots under section 2.2.
+
+Ms. Jastremsky explained that the applicant desired to have the access to the property change from
+the dirt road to access via the existing private road belonging to Jarvie Estates. She noted that
+under current code they cannot allow additional lots to be added to the private lane belonging to
+Jarvie Estates since it did not meet current city standards. She clarified that under section 2.5 of
+the development agreement the city would not require Jarvie Lane to be widened to full private
+lane width standards if the applicant is granted access to use Jarvie Lane as a primary access by
+the private road owner. She noted that if the applicant was not given access to Jarvie Lane they
+would have to widen and pave the current dirt access road to subdivide the lot.
+
+Andy Flamm, Applicant, shared that he had concerns about having to pave the dirt road. He
+indicated that he was told that even if he did not subdivide the property, he would have to make
+improvements to the road to build on the property. He pointed out that his neighbor to the north
+did not want the road paved or utilities up the lane and that road improvements would take out his
+neighbors existing tree. He stated that the only way the subdivision was possible was to have access
+off Jarvie Lane. He noted that he has worked with the owner of Jarvie Estates and planned to pay
+to get access onto their private road.
+
+Commissioner Hawker asked how trash cans were being addressed for the private lanes.
+
+
+
+
+                                                 9
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 10
+Ms. Pickering remarked that Jarvie Estates could contract with the city for trash services.
+
+Commissioner Fowler commented that she did not understand what the concern was in the email
+they received from Mr. Johnson.
+
+Ms. Jastremsky clarified that his concern was the private dirt lane since his home is south of the
+subject property and would still need the lane and easement maintained for him to have access to
+his property. She indicated that it would need to be made clear to any future buyers that the land
+and easement was on the property, and the buyer would have to maintain and allow access on it.
+
+Chairperson Adams opened the public hearing. No comments were made, and the public hearing
+was closed.
+
+Mr. Flamm commented that he also believed that his property would be safer regarding fire truck
+access if they were to have primary access through Jarvie Lane rather than the private lane on the
+west of his property.
+
+Chairperson Adams asked if Mr. Flamm was receiving utilities from Jarvie Estate.
+
+Mr. Flamm replied that was his plan. He indicated that he would have to go in and stub the line
+for him to gain access.
+
+Commissioner Fowler indicated she appreciated there was a development agreement.
+
+Motion: Commissioner Fowler motioned forward a positive recommendation to the city
+council for the Zoning Map Amendment as requested by Andy Flamm for Jarvie Estates
+Phase 2, Application TEXTMAP-67-2022, based on the findings and subject to conditions
+listed in the staff report dated April 7, 2022.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+Motion: Commissioner Tonks motioned forward a positive recommendation to the city
+council for the Development Agreement as requested by Andy Flamm for Jarvie Estates
+Phase 2, Application DA-68-2022, based on the findings and subject to conditions listed in
+the staff report dated April 7, 2022.
+
+Second: Commissioner Van Hoff
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Van Hoff, Fowler, and Tonks voted, “Aye”.
+
+10.    Adjournment
+
+
+
+                                                10
+Draper City Planning Commission Meeting
+April 14, 2022
+Page 11
+Motion: Commissioner Fowler motioned to adjourn the meeting.
+
+[No audible second or vote was taken on this action] (38:18)
+
+The meeting was adjourned.
+
+
+
+
+                                               11
+

@@ -1,0 +1,569 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=431&doc_id=48ac1c83-bd7e-11eb-8549-0050569183fa
+> Meeting date: 2021-04-22
+> Format: text
+
+Approved minutes May 13, 2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, APRIL 22, 2021 IN THE DRAPER CITY COUNCIL
+CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:         Chairman Andrew Adams, Vice Chairman Craig Hawker,
+                         Commissioners Gary Ogden and Mary Squire, Lisa Fowler, John Van
+                         Hoff
+
+ABSENT:                  Alternate Commissioners DeLaina Tonks and Tab Bingham
+
+STAFF PRESENT:            Christina Oliver, Brien Maxfield, Travis Van Ekelenburg, Todd
+                          Draper, Don Buckley, Jake Sorenson, and Amie Salazar
+
+STAFF PRESENT
+ELECTRONICALLY:           Mike Barker and Spencer DuShane
+
+
+
+
+The Agenda will be as follows:
+
+6:30 PM Business Meeting
+
+1. Electronic Meeting Notice
+   • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+   • Email your comments to the project planner listed on the agenda item below by Noon on
+      the day of the meeting. These will become part of the public record.
+   • If you wish to speak during the Public Comment or Public Hearings portion of the
+      meeting, please send a request for the Zoom Meeting ID to the project planner listed on
+      the agenda item below by noon, on the day of the meeting.
+
+2. WRITTEN DETERMINATION 2021-24 Pursuant to Utah Code Ann. 52-4-207(4)
+   I, Andrew Adams, do hereby determine conducting an electronic meeting of the Draper City
+   Planning Commission with an anchor location presents a substantial risk to the health and
+   safety of those who may be present at the anchor location and hereby authorize the Draper
+   City Planning Commission to conduct electronic meetings without an anchor location.
+B.     The foregoing determination is based on the following facts:
+   • Federal, state, and local leaders, including the Draper City Mayor and City Council, have
+       all recognized a global pandemic caused by the spread of the COVID-19 virus.
+   • While COVID-19 cases and hospitalizations in Draper show an encouraging downward
+       trend and vaccines are becoming available to a larger segment of the Draper population,
+       vigilance is required so that there is not a rebound in cases and hospitalizations.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 2
+   • It is difficult, if not impossible, to predict the number of attendees at any meeting and to
+       manage issues regarding social distancing in order to comply with state and local health
+       departments health orders.
+   • COVID-19 poses a continuing and immediate threat to the health, safety, and welfare of
+       Draper City residents.
+   • The City has the technological capability to provide means by which the public may hear,
+       or view and hear, the open portions of the meeting and to participate in public hearings.
+
+       Chairman Andrews mentioned the applicant of item eight requested to move item eight
+       up ahead of number three.
+
+       Commissioner Fowler stated she had seen multiple public submissions on item number
+       eight. She suggested not moving the item, due to some individuals not being able to
+       attend and comment.
+
+       Commissioner Squire believed the public submissions had been in reference to the
+       previous agenda item which had already been decided upon by the City Council.
+
+       Ms. Oliver directed the Commissioners to one piece of public feedback on page 18,
+       which was concerning the upkeep and maintenance of one of the roads.
+
+       Mr. Draper stated as an abundance of caution, they had forwarded all the public
+       comments regarding Big Willow to the Commissioners.
+
+       Commissioner Van Hoff believed most of the comments were in reference to high
+       density. The item on the agenda was not addressing density but changing the roads from a
+       thru street to a cul de sac.
+
+       Commissioner Fowler added the entire Big Willow project was a controversial issue for
+       many of the neighbors and voiced concern regarding changing the agenda items position
+       in the meeting causing additional contention and frustration.
+
+       Mr. Barker clarified it was an administrative action for a plat amendment. If it met the
+       code and the findings were met, the discretion was greatly limited.
+
+       Chairman Andrews stated thatif he were interested in an agenda item in a meeting, he
+       would plan to attend the meeting from the beginning. He appreciated Commissioner
+       Fowler’s concern, but the public comment may be misguided. He suggested putting
+       moving the agenda item to a vote.
+
+       Motion re: Commissioner Hawker made a motion to move agenda item eight ahead of
+       agenda item number three.
+
+       Commissioner Ogden seconded the motion.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 3
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+3.     Public Hearing: Big Willow Creek Ph 1A 1st Amendment Development and Ph 1B
+       2nd Amendment Plat Amendment (Administrative Action)
+       On the request of Bryon Prince, representing Ivory Development LLC for Plat
+       Amendment to Phases 1A and 1B of the Big Willow Creek Subdivision located at 11507
+       Wildrye Field Way. Application SUBD-1033-2020. Staff contact is Jennifer Jastremsky,
+       (801) 576-6328, jennifer.jastremsky@draperutah.gov.
+
+       Todd Draper, Planner, presented the development history. He stated the application was
+       an amendment to phase 1A and second amendment to phase 1B. The land use category
+       was residential medium density. The zoning was R3 and R4. The development agreement
+       and rezone had been approved January 17, 2017, which approved 115 single-family lots
+       on 49.75 acres with one access point to 11400 S and one to Jenson Farms. The
+       preliminary plat was approved July 18, 2017 and the phase one final plat was approved
+       September 18, 2018. He added the first amendment development agreement and rezone
+       was approved April 16, 2019, which approved additional property, phase six, to be added
+       to the development with the R4 and RM2 zone, with a maximum density of nine dwelling
+       units per acre in the RM2 zone.
+
+       Then, the phase 1B first amendment was approved November 21, 2019, which approved
+       a small modification to the open space trail area. The second amendment development
+       agreement was approved May 5, 2020, which added additional property, into phase six,
+       and to the development agreement and allowed density of phase six to be allocated across
+       the entire phase six property. The development then included 70.65 acres and 256
+       dwelling units. On August 27, 2020, the phase two final plat was approved with a street
+       vacation being approved on April 6, 2021. The phase six minor subdivision was approved
+       April 7, 2021, which approved new access road configuration.
+
+       Mr. Draper added the third amendment development agreement was heard by the
+       Planning Commission on April 8, 2021 and the City Council on April 20, 2021. The
+       phase 1A first amendment and 1B second amendment plat were the current items on the
+       agenda. The phase 6 plat amendment had not yet been scheduled and there had been no
+       applications received for the phase three through five final plats.
+
+       Mr. Draper displayed the existing access road map and explained the connection to 114th
+       south. He then displayed the proposed reconfigured access road map. He added there
+       would still be public utilities through the area and Ivory would be granting a private
+       access easement to one owner to reach their property. He displayed an overall layout map
+       and site photos and briefly explained the images. He noted there was a staff
+       recommendation in the staff report, and reviewed the conditions listed. The findings were
+       listed for approval in the staff report. He asked if there were any questions.
+
+       Commissioner Van Hoff requested clarification regarding the location of the new road.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 4
+
+      Mr. Draper displayed the map and provided clarification that the new road would follow
+      to the east and connect to the rest of the development. The road to the west would end in
+      a cul-de-sac.
+
+      Commissioner Fowler questioned how the private property would be accessed and who
+      would be responsible for the upkeep of the private lane.
+
+      Mr. Draper responded the road had been a private road and then became a public road
+      when the subdivision plat was initially recorded. Then, with the action of the Council,
+      they approved the vacation of the portion and the recording of the amended plats to
+      vacate the portion of the public road and return them to a private lane. It had not yet been
+      determined who would be responsible for the upkeep and maintenance.
+
+      Brien Maxfield believed where it was being returned to ownership, it would be between
+      the two owners to decide how they would handle the road maintenance. He explained
+      Ivory would still own the property under the access easement, but the private property
+      owner would be granted the access easement.
+
+      Bryon Prince, applicant, stated the property owner, Mr. Ernest, was aware of the vacation
+      and the situation. Those homes had been on the same private lane and had historically
+      accessed their property from 114th.
+
+      Chairman Adams asked if there were any other questions, there were not.
+
+      Mr. Prince thanked Mr. Draper and Ms. Oliver for the overview. He noted the permanent
+      public right of way needed to be fully constructed, placed into warranty, and inspected by
+      city staff prior to the cul-de-sac plat recordation. He believed Ivory would commence
+      construction within the following two weeks and anticipated completion in the summer.
+
+      Commissioner Fowler wanted to verify the letter from Mr. Holly had been received.
+
+      Mr. Prince replied he had called Mr. Holly and provided pertinent information to him. He
+      believed there was a clear line of communication.
+
+      Chairman Adams opened the public hearing.
+
+      Chairman Adams closed the public hearing.
+
+      Motion re: Commissioner Hawker made a motion to approve Plat Amendment, as
+      requested by Bryon Prince, representing Ivory Development, LLC for Big Willow Creek
+      Phase 1A, first amendment and Phase 1B, second amendment, application SUBD-1033-
+      2020, based on the findings and subject to the conditions listed in the staff report dated
+      April 12, 2021.
+
+      Commissioner Squire seconded the motion.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 5
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+4. (Public Hearing): Greg Zitting Fine Art Home Occupation Conditional Use Permit
+   (Administrative Action)
+      On the request of Greg Zitting for approval of a Home Occupation Conditional Use
+      Permit. The property is approximately 0.96 acres in size and is located at approximately
+      13086 S. Green Clover Rd. Application: USE-0033-2021. Staff contact is Todd A.
+      Draper (801) 576-6335 or todd.draper@draperutah.gov
+
+       Mr. Draper introduced the application. He displayed an aerial map and explained it was
+       located in the residential low to medium density land use designation with RA1 zoning.
+       He displayed the site plan and explained the business would be conducted in one
+       bedroom of the home, approximately 15’ x 11’. The applicant would be the sole
+       employee of the business with no vehicles or customers coming to the property. The
+       painting would take place in their artist studio. He briefly reviewed the conditions listed
+       in the staff report.
+
+       Chairman Adams invited the applicant to speak.
+
+       Greg Zitting, applicant, stated the application was straight forward. He would paint the
+       paintings and sell them online, or paint commissioned pieces.
+
+       Chairman Adams questioned if there would be instruction or lessons.
+
+       Mr. Zitting explained if he did any instruction, it would be via YouTube videos.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams closed the public hearing.
+
+       Motion re: Commissioner Fowler made a motion to approve the Home Occupation
+       Conditional Use Permit, as requested by Greg Zitting, for Greg Zitting Fine Arts,
+       application USE-0033-2021, based on the findings and conditions listed in the staff report
+       dated April 7, 2021.
+
+       Commissioner Van Hoff seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+5.     Public Hearing: Moore Tennis Court Conditional Use Permit (Administrative
+       Action)
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 6
+       On the request of Tyson Moore for approval of a Conditional Use Permit in the RA2
+       zone, regarding an increase in fence height to 10-feet for a future tennis court. The
+       property is located at 12041 S. 645 E. Application USE-30-2021. Staff contact is Travis
+       Van Ekelenburg, (801) 576-6522, travis.vanekelenburg@draperutah.gov.
+
+       Travis Van Ekelenburg stated the land use map was low to medium density with zoning
+       being RA2 residential agricultural. The tennis court would be constructed at the rear of
+       the property with the proposed black powder coated ten-foot fence being located around
+       the tennis court, inside the six-foot vinyl fence. The distance between the home and the
+       court would be approximately 60 feet. He mentioned two emails in favor of the
+       application being received from the neighbors. The lighting would be addressed
+       separately.
+
+       Tyson Moore, applicant, stated they were looking to build a top-of-the-line
+       tennis/pickleball court. He added they hoped to invite the neighbors and have it used as a
+       neighborhood gathering place.
+
+       Chairman Adams questioned if the entire property was enclosed with the vinyl fence.
+
+       Mr. Moore responded that was correct.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams closed the public hearing.
+
+
+       Motion re: Commissioner Ogden made a motion to approve the Conditional Use Permit,
+       as requested by Tyson Moore, application USE-0030-2021, based on the findings and
+       subject to the conditions listed in the staff report dated April 13, 2021.
+
+       Commissioner Squire seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+6.     Public Hearing: Rosee Florals Home Occupation Conditional Use Permit
+       (Administrative Action)
+       On the request of Sandy Mataele, for approval of a Home Occupation Conditional Use
+       Permit. The property is approximately 0.23 acres in size and is located at approximately
+       14636 Snow Leopard Ln. Application: USE-0031-2021. Staff Contact: Todd A. Draper
+       (801) 576-6335 or todd.draper@draperutah.gov
+
+       Mr. Draper presented the application. He displayed the aerial image and stated it was
+       located in the residential medium density land use designation and the zoning was RM. It
+       was part of the master development agreement for the Hidden Canyon Estates, Mercer
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 7
+       Mountain Estates and Lakeview Heights Properties. The site plan and floor plan showed
+       the kitchen area workspace of approximately 81 square feet. The applicant would be the
+       sole employee and operator of the business. There would be no more than one client per
+       day and the owner would rarely have clients to the home. Some of the work would be
+       done offsite, as well. There would be nothing stored outdoors with no signage on the
+       vehicles. He reviewed the conditions listed in the staff report.
+
+       Sandy Mataele, applicant, stated she would like to conduct part time floral design out of
+       her kitchen. She added all the consultations would be virtual. If she needed to meet with
+       the client, it would be at the venue. Most products would be delivered with an occasional
+       pick up. She did not believe it would be disruptive to the neighborhood.
+
+       Chairman Adams asked if the Commissioners had any comments or questions. There
+       were none.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams closed the public hearing.
+
+       Motion re: Commissioner Squire made a motion to approve the Home Occupation
+       Conditional Use Permit, as requested by Sandy Mataele, for Rosee Florals, application
+       number USE-0031-2021, based on the findings and subject to the conditions listed in the
+       staff report dated April 8, 2021.
+
+       Commissioner Van Hoff seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+7.     Public Hearing: Quality Diamond Tools 2 Home Occupation Conditional Use
+       Permit (Administrative Action)
+       On the request of Jim and Lois Duncan for a Home Occupation Conditional Use Permit
+       at 12138 S. 800 E. for a home office and assembly and repair, limited business.
+       Application: USE-0019-2021. Staff contact is Jennifer Jastremsky, (801) 576-6328,
+       jennifer.jastremsky@draperutah.gov.
+
+       Mr. Draper stated the permit had come before the commission on June 11, 2020 and was
+       denied based on the inability to control delivery vehicles that would comply with
+       conditions, the use of a forklift and the intensity of use of the business. The application
+       had been appealed on August 20, 2020 and the Planning Commission affirmed its
+       decision in totality. This was a reapplication with some altered parameters. The property
+       consisted of two parcels along 800 east and was in residential medium density land use
+       and currently zoned RA2. He reviewed the site plan and mentioned the home office in the
+       main home and a wood shop, garage and two additional trailers that would be used half
+       for the business and half for personal use.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 8
+
+      Mr. Draper noted the applicant added a proposed delivery vehicle operation policy that
+      stated there would be no semi-trucks entering the property, deliveries to or from the
+      business would be handled at an off-site dock, incoming deliveries would only occur
+      during the hours of 8 am to 5:30 pm, be limited to no more than two per week and would
+      be by nothing larger that a pick-up or flatbed truck. All outgoing deliveries would be
+      handled by UPS and all operations and traffic would be conducted in a manner to limit
+      disturbances to neighboring properties to the maximum extent possible. They also
+      provided a forklift operation policy which stated the forklift would only be operated
+      during the hours of 8 am to5:30 pm, no more than one machine-hour per week, would be
+      parked and shut off when not in use and used only to unload palettes or move heavy
+      items. The back-up alarm would be always silenced, and only trained operators would be
+      authorized to operate the forklift. The forklift would be kept clean and free of excess dirt,
+      oil, and grease at all times. All operations and traffic would be conducted in a manner to
+      limit disturbances to neighboring properties to the maximum extent possible.
+
+      Mr. Draper reviewed the proposed business area which detailed the amount of square
+      footage to be used by the business. The proposed total storage square feet was 2,040,
+      which was 814% greater than the allowed 250 square feet. He added staff had included
+      suggested conditions of approval which would bring the total storage area down to 1,480
+      square feet, or 592% greater than the allowed. He referred to a list of existing home-
+      based businesses currently operating in the City with accessory structures. He then
+      reviewed the 19 conditions of approval detailed in the staff report and displayed several
+      photos that had been submitted with the 2020 application.
+
+      Commissioner Van Hoff and Mr. Barker questioned if silencing the forklift back-up
+      alarm was allowed by OSHA.
+
+      Commissioner Fowler requested education regarding limiting the square footage for
+      home-based businesses.
+
+      Ms. Oliver replied the code was in place to mitigate the influence of businesses in
+      residential areas, including traffic, noise, smells, and the like.
+
+      Jim Duncan, applicant, stated he purchased the property approximately 18 months prior
+      and had completed multiple projects to improve the aesthetic nature of the property,
+      including removing an 18-foot crane and planting 17 trees. He believed the neighbors
+      felt safe and were pleased with the improvements.
+
+      Brent Batemen, Attorney, explained the size of the items the business produced did not
+      equate to the business being intense. He discussed the forklift back-up alarm and stated
+      they would go to OSHA to receive permission to silence the alarm, if necessary.
+
+      Chairman Adams questioned if they could remove the requirement of the forklift alarm
+      being silenced. He voiced concern regarding safety and did not think it was wise to
+      silence the alarm.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 9
+
+      Mr. Barker stated it would be appropriate in a motion to state the operation of the forklift
+      apply with all OSHA recommendations.
+
+      Mr. Duncan agreed it was better to have the alarm. He added there was always a spotter
+      and they utilized the forklift on the side of the property next to a vacant lot to minimize
+      noise transfer to the neighbors.
+
+      Ms. Oliver clarified Draper City had not requested the alarm be silenced. That had been
+      included by the applicant in the forklift use conditions.
+
+      Commissioner Squire voiced concern regarding the business having been operating
+      without a Conditional Use Permit. She also questioned if the applicant would be willing
+      to comply with all 19 staff recommendations.
+
+      Mr. Bateman replied his client would be willing to comply with all staff
+      recommendations. Although, they would prefer to be able to use the forklift until 6:00
+      pm. He added they had been operating at a very reduced capacity, as it was Mr. Duncan’s
+      livelihood. He believed they had been actively seeking approval since the initial denial,
+      through appeals, and preparing for the second application process.
+
+      Commissioner Van Hoff inquired regarding Mr. Duncan’s other property on Kimball
+      Lane. He questioned if they still ran some of the business operation there.
+
+      Mr. Duncan replied they had moved to the new location, as it was required. He still
+      owned the property on Kimball Lane, which his son currently lived in and he stored a
+      fifth wheel trailer and small fishing boat. When he first moved to Draper, he took out a
+      business license and paid the renewal fees every year. He no longer utilized offsite
+      storage.
+
+      Commissioner Squire requested clarification that this was his full-time primary residence.
+
+      Mr. Duncan replied it was his primary residence and had been since February 2020.
+
+      Chairman Adams questioned what the applicant was storing in the Conex containers.
+
+      Mr. Duncan responded the Conex containers were primarily used for unboxing crates and
+      organization. He utilized the space to try to keep the area around the buildings neat and
+      tidy.
+
+      Chairman Adams opened the public meeting.
+
+      Dave Hanson, neighbor, stated the Duncan’s had been a great neighbor and had improved
+      the property. He did not see or hear the business activity and did not believe it was a
+      nuisance.
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 10
+       Chairman Adams closed the public hearing.
+
+       Chairman Adams suggested the Conex containers not be removed, the forklift be allowed
+       to run according to OSHA standards, including the back-up alarm and the operating hours
+       be moved to 6:00 pm, to allow for summer hours.
+
+       Commissioner Hawker agreed with Chairman Adams. He believed the applicant had
+       done everything to upkeep, maintain and improve the property.
+
+       Commissioner Van Hoff questioned regarding the fencing around the property.
+
+       Mr. Duncan responded there was a fence that bordered the entire property.
+
+       Ms. Oliver clarified allowing Conex trailers would be a clear departure from the code.
+
+       Mr. Draper added it would not be legal to allow the Conex trailers to remain on the
+       property, which was the reason they were being asked to be removed.
+
+       Commissioner Squire voiced concern regarding the size and volume of business. If they
+       were needing the extra space, it could possibly be time to reduce the size of the business
+       or require them to move their business to a commercial space.
+
+       Chairman Adams stated his biggest concern previously had been traffic and large
+       delivery trucks, which had seemed to be mitigated.
+
+       Motion re: Commissioner Hawker made a motion to approve the Home Occupation
+       Conditional Use permit, as requested by Jim and Lois Duncan, for Quality Diamond
+       Tools 2, application USE-013-2021, based on the findings and subject to the conditions
+       listed in the staff report dated April 13, 2021 with modification that item eight, the
+       forklift delivery vehicle policy maintain current and upcoming OSHA standard, and that
+       the hours of operation noted in number four and eight be 8:00 am to 6:00 pm.
+
+       Commissioner Fowler seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+8.     Public Hearing: 700 E Draper Medical Site Plan (Administrative Action)
+       On the request of Adam Watts, representing Northstar Builders for approval of a Site
+       Plan in the CN zone regarding the construction of a medical office building located at
+       12188 S 700 E. Application: SPR-0007-2021. Staff Contact: Travis Van Ekelenburg,
+       (801) 576-6522, travis.vanekelenburg@draperutah.gov.
+
+       Mr. Van Ekelenburg presented the application. He displayed the land use map and noted
+       the neighborhood commercial zoning designation. The building was on the east end of
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 11
+       the property with parking on the west end. The applicant has proposed an eight-foot solid
+       barrier fence as a land use buffer. The zoning administrator could decrease the standard
+       20-foot residual buffer with the eight-foot fence. The front of the building would face the
+       west side of the parking lot, rather than the public right of way, as required by code.
+       There was a design standard deviation requested with four of the criteria being met. He
+       briefly reviewed the criteria met. He displayed the conceptual rendering and explained it
+       would be two stories high, maximum of 35-feet, with 7,767 square feet. The applicant
+       also submitted a photometric analysis for lighting, which met code. They also met the
+       parking requirements.
+
+       Commissioner Fowler questioned if the entrances to the buildings across the street were
+       in the parking lot.
+
+       Adam Watts, applicant, responded the buildings across the streets had their main
+       entrances directed toward the parking lot, as well. They were hoping to match the
+       aesthetic and provide better access for the clients.
+
+       Chairman Adams asked if the Commissioners had any questions. There were none.
+
+       Commissioner Adams opened the public meeting.
+
+       Commissioner Adams closed the public hearing.
+
+       Motion re: Commissioner Fowler made a motion to approve the deviation request for
+       building placement, as requested by Adam Watts, representing Northstar Builders,
+       application SPR-0007-2021 based on the findings and subject to the conditions listed in
+       the staff report dated April 14, 2021.
+
+       Commissioner Ogden seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+       Motion re: Commissioner Fowler made a motion to approve the site plan, as requested
+       by Adam Watts, representing Northstar Builders, application SPR-0007-2021 based on
+       the findings and subject to the conditions listed in the staff report dated April 14, 2021.
+
+       Commissioner Van Hoff seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+9.     Public Hearing: City Initiated State Law Changes Text Amendment (Legislative
+       Item)
+       On the request of Draper City for a Text Amendment to amend portions of Titles 9 and
+       17 of Draper City Municipal Code. This application is known as the City Initiated State
+Draper City Planning Commission Meeting
+April 22, 2021
+Page 12
+       Law Changes Text Amendment. Application: TEXTMAP-0047-2021. Staff Contact:
+       Todd A. Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+      Todd Draper explained in the state legislative session this year there were several bills
+      that dealt with land use regulations and subdivisions. This text amendment was the first
+      to deal with these new regulations and make changes to the Draper City Municipal Code.
+      He mentioned the text of the changes was included in the staff report and asked if the
+      Commissioners had any questions.
+
+      Commissioner Adams opened the public meeting.
+
+      Commissioner Adams closed the public hearing.
+
+      Motion re:       Commissioner Van Hoff made a motion to forward a positive
+      recommendation to City Council for the text amendment, as suggested by Draper City,
+      for the City initiated state law changes text amendment, application TEXTMAP-0047-
+      2021 based on the findings and subject to the conditions listed in the staff report dated
+      April 14, 2021.
+
+      Commissioner Squire seconded the motion.
+
+      Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 5 to 0 vote.
+
+      Ms. Oliver advised that electronic meetings were going to continue. There was not yet a
+      set date to return to in person meetings.
+
+10.   Adjournment
+
+      The meeting adjourned at 8:40 pm.
+

@@ -1,0 +1,54 @@
+{
+ "date": "2024-12-09",
+ "year": 2024,
+ "title": "City Council Special Meeting",
+ "file_body": "Council",
+ "present": [],
+ "source": "minutes/2024/2024-12-09/2024-12-09_city-council-special-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Ordinance 2024-12-01 adopting an airport overlay zone",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Pass",
+   "mover": "Patrick Schaeffer",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-0 unanimous in favor Pass",
+   "mover": "Alan Peterson",
+   "seconder": "",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": 4,
+    "nays": 0,
+    "present_count": null
+   }
+  }
+ ]
+}

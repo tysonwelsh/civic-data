@@ -1,0 +1,32 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+cottonwood_heights,(multiple candidates — combined filing),2017,Council,,0.0,0.0,3,3,summary,
+cottonwood_heights,Tonia Dalton,2017,Council,,0.0,0.0,1,1,single,
+cottonwood_heights,Christopher McHugh,2019,Council,1,0.0,0.0,2,2,sum-interim,
+cottonwood_heights,Deborah Case,2019,Council,1,0.0,0.0,4,4,summary,
+cottonwood_heights,Douglas Petersen,2019,Council,1,0.0,0.0,3,3,summary,
+cottonwood_heights,Scott Bracken,2019,Council,2,0.0,0.0,2,2,summary,
+cottonwood_heights,Timothy E. Hallbeck,2019,Council,2,0.0,0.0,1,1,single,
+cottonwood_heights,Michael Hanson,2021,Council,3,11199.89,10256.46,2,1,summary,
+cottonwood_heights,David Rawlings,2021,Council,3,6946.44,7065.19,3,2,summary,
+cottonwood_heights,Shawn Newell,2021,Council,3,6808.28,5273.71,3,1,summary,
+cottonwood_heights,Runar Boman,2021,Council,3,2500.0,2333.26,2,2,sum-interim,
+cottonwood_heights,E. Samuel McShaffrey,2021,Council,3,64.69,64.69,1,1,single,
+cottonwood_heights,Ellen Birrell,2021,Council,4,18677.0,18756.0,2,2,override,"OVERRIDE: per-period filer whose year-end final is a distinct period report (the 2025-Birrell/Weichers precedent): Birrell's two 2021 D4 reports cover DISJOINT date ranges (interim 8/20-10/24; final 10/29-11/30), so the generic sum-interim basis dropped the final's period (raised +100, spent +1648). Balance chain confirms per-period: interim ending 1864 = final beginning (handwritten cover margin 'Balance from 10/26/21: $1864'; 1864+100-1648=316 final ending). Cycle = SUM of the two filings' stated COVERS: contrib 18577.00+100.00=18677.00 (each cover excludes its own <=$50 aggregate per CH convention; interim line-2=395) / expend 17108.00+1648.00=18756.00. No in-kind, no row overlap."
+cottonwood_heights,Ernie Kim,2021,Council,4,5471.02,5554.38,3,1,summary,
+cottonwood_heights,Lee Anne Walker,2021,Council,4,646.9,696.9,2,2,sum-interim,
+cottonwood_heights,Mike Weichers,2021,Mayor,,25662.35,21871.89,2,1,summary,
+cottonwood_heights,Maile Evans,2021,Mayor,,18336.22,18336.22,2,1,summary,
+cottonwood_heights,Eric Kraan,2021,Mayor,,11383.91,11383.91,2,1,summary,
+cottonwood_heights,Edward Schwartz,2021,Mayor,,1219.16,1219.16,1,1,single,
+cottonwood_heights,Timothy Hallbeck,2021,Mayor,,0.0,89.0,2,2,sum-interim,
+cottonwood_heights,Matt Holton,2023,Council,1,35170.0,35166.91,2,1,summary,
+cottonwood_heights,Jen Cottam,2023,Council,1,15631.46,11675.42,4,1,summary,
+cottonwood_heights,Sharon Daurelle,2023,Council,2,8771.0,8255.59,2,1,summary,
+cottonwood_heights,Suzanne Hyland,2023,Council,2,8514.87,7430.88,3,3,override,"OVERRIDE: per-period filer: Hyland's three 2023 D2 reports cover DISJOINT date ranges (pre-general 6/7-8/23; interim 8/29-10/19; year-end final 11/16-12/14), so the generic max-mixed basis undercounted (raised dropped the final's +540 in-kind; spent took only the final's 3838.55 period). Cycle = SUM of the three filings' stated COVERS: contrib 2281.55+5693.32+540.00=8514.87 / expend 2081.30+1511.03+3838.55=7430.88. The two Scott Bracken $540 in-kind City Journal ads are DISTINCT ads (dated 9/23 and 11/16), NOT a double-count; each filing reconciles both-sides True."
+cottonwood_heights,Scott Bracken,2023,Council,2,6000.0,4122.23,2,2,sum-interim,
+cottonwood_heights,Shawn Newell,2025,Council,3,7465.0,4800.86,3,3,override,"OVERRIDE: regime mis-detection correction: Newell files CUMULATIVE snapshots (all three 2025 reports restate from 3/26/25; contrib counts 16->19->18, a minor correction), but detect_regimes flagged 'incremental' off the tiny 7615->7465 dip, so cycle_totals summed the interims (14105) and overcounted. Cumulative-to-date = the Dec-4 summary's stated cover (contrib 7465.00 [itemized 7540, +75 = a printed cover<itemized flag, retained] / expend 4800.86, which reconciles)."
+cottonwood_heights,Randy Prazen,2025,Council,3,3471.64,3556.64,3,3,override,"OVERRIDE: duplicate + cumulative correction: the Dec-4 'summary' scan (df89b7c3) is a byte-distinct re-upload of the Oct-28 interim (4779b80c) — index.csv duplicate_of; page-identical, same totals. Prazen files cumulative snapshots (all rows start 06/23/25); the Oct-28 snapshot CORRECTED Oct-7 by dropping a 10/03 $507.18 self-gift (3978.82->3471.64). Cumulative-to-date = Oct-28 interim (contrib 3471.64 / expend 3556.64). His GENUINE Dec-4 final is NOT on file (acquisition gap)."
+cottonwood_heights,Ellen Birrell,2025,Council,4,10793.0,3807.0,3,3,override,"OVERRIDE: per-period filer whose Dec-4 'summary' is itself a period report: Birrell's three 2025 reports cover DISJOINT ranges (Oct-7 = 7/2-10/5; Oct-28 = 10/8-10/9; Dec-4 = 10/29-11/3), so the generic max() drops the Dec-4 period. Cycle = SUM of the three filings' stated COVERS: contrib 9380.00+513.00+900.00 = 10793.00 / expend 2574.00+513.00+720.00 = 3807.00. NOTE: the Oct-28 cover expenditure prints 513.00 while its own Form B itemizes ~5363.00 (a retained filer error, verbatim in expenditures.csv); the summed spent uses the printed covers, so 3807.00 is a documented LOWER BOUND on Birrell's true 2025 spend."
+cottonwood_heights,Ernie Kim,2025,Council,4,3444.5,3444.5,3,1,summary,
+cottonwood_heights,Gay Lynn Bennion,2025,Mayor,,46774.74,43288.7,3,1,summary,
+cottonwood_heights,Mike Weichers,2025,Mayor,,33700.0,33837.5,3,3,override,"OVERRIDE: per-period filer whose Dec-4 'summary' is itself a period report (the midvale precedent): Weichers' three 2025 reports cover DISJOINT date ranges (Oct-7 = Jul thru 9/30; Oct-28 = 10/12-10/27; Dec-4 = 11/02), so max(summary, summed-interims) undercounts by the Dec-4 period. Cycle = SUM of all three filings' stated covers: contrib 26050.00+2150.00+5500.00 = 33700.00 / expend 17059.48+6308.34+10469.68 = 33837.50."

@@ -1,0 +1,257 @@
+{
+ "reports": [
+  {
+   "reporting_period": "FINAL general (signed 11/30/21; bundle pp1-6)",
+   "total_contributions": null,
+   "total_expenditures": "379.27",
+   "contributions_50_or_less": null,
+   "beginning_balance": "1,027.04",
+   "ending_balance": "647.77",
+   "cover_lines": {
+    "line1_balance_forward": "1,027.04",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "-",
+    "line4_total_contributions": "-",
+    "line5_total_expenses": "(379.27)",
+    "line6_ending_balance": "647.77"
+   },
+   "contributions": [],
+   "expenditures": [
+    {
+     "date": "11/1/21",
+     "recipient": "City Journals",
+     "purpose": "Print Ad",
+     "amount": "200.00",
+     "in_kind": false,
+     "address": "9500 S. 500 W #205, Sandy, UT"
+    },
+    {
+     "date": "11/1/21",
+     "recipient": "Facebook",
+     "purpose": "Facebook Ads",
+     "amount": "155.47",
+     "in_kind": false,
+     "address": "#1 Hacker Way, Menlo Park CA"
+    },
+    {
+     "date": "11/30/21",
+     "recipient": "Facebook",
+     "purpose": "Facebook Ads",
+     "amount": "23.80",
+     "in_kind": false,
+     "address": "#1 Hacker Way, Menlo Park CA"
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-general Oct 26 2021 (bundle pp7-13)",
+   "total_contributions": "5,577.00",
+   "total_expenditures": "5,407.08",
+   "contributions_50_or_less": null,
+   "beginning_balance": "857.12",
+   "ending_balance": "1,027.04",
+   "cover_lines": {
+    "line1_balance_forward": "857.12",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "5,577.00",
+    "line4_total_contributions": "5,577.00",
+    "line5_total_expenses": "(5,407.08)",
+    "line6_ending_balance": "1,027.04"
+   },
+   "contributions": [
+    {
+     "date": "8/12/21",
+     "name": "Dave Newton",
+     "amount": "$100",
+     "in_kind": false
+    },
+    {
+     "date": "9/7/21",
+     "name": "Salt Lake County Board of Realtors",
+     "amount": "$1,500",
+     "in_kind": false
+    },
+    {
+     "date": "9/13/21",
+     "name": "Stacy Schultz",
+     "amount": "$100",
+     "in_kind": false
+    },
+    {
+     "date": "9/13/21",
+     "name": "Brian Schultz",
+     "amount": "$100",
+     "in_kind": false
+    },
+    {
+     "date": "9/13/21",
+     "name": "Sandra Poulsen",
+     "amount": "$100",
+     "in_kind": false
+    },
+    {
+     "date": "9/13/21",
+     "name": "Dave Newton",
+     "amount": "$100",
+     "in_kind": false
+    },
+    {
+     "date": "9/20/21",
+     "name": "John Jonson",
+     "amount": "$200",
+     "in_kind": false
+    },
+    {
+     "date": "9/27/21",
+     "name": "Garbett Homes",
+     "amount": "$300",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "name": "Salt Lake County Board of Realtors",
+     "amount": "$750",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "name": "Peterson Development",
+     "amount": "$500",
+     "in_kind": false
+    },
+    {
+     "date": "10/21/21",
+     "name": "Utah Home Builders Association",
+     "amount": "$250",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "name": "Reagan Outdoor",
+     "amount": "$1,577.00",
+     "in_kind": true
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "7/31/21",
+     "recipient": "Facebook",
+     "purpose": "Facebook Ads",
+     "amount": "$103.25",
+     "in_kind": false
+    },
+    {
+     "date": "8/31/21",
+     "recipient": "Facebook",
+     "purpose": "Facebook Ads",
+     "amount": "$52.89",
+     "in_kind": false
+    },
+    {
+     "date": "9/17/21",
+     "recipient": "City Journals",
+     "purpose": "Door Hangars",
+     "amount": "$214.50",
+     "in_kind": false
+    },
+    {
+     "date": "9/23/21",
+     "recipient": "City Journals",
+     "purpose": "Newspaper Ad",
+     "amount": "$540.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "recipient": "City Journals",
+     "purpose": "Mailer",
+     "amount": "$750.75",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "recipient": "Facebook",
+     "purpose": "Facebook Ads",
+     "amount": "$5.08",
+     "in_kind": false
+    },
+    {
+     "date": "10/1/21",
+     "recipient": "Reagan Outdoor",
+     "purpose": "Billboard (In Kind)",
+     "amount": "$1,577.00",
+     "in_kind": true
+    },
+    {
+     "date": "10/6/21",
+     "recipient": "Elizabeth Lamb",
+     "purpose": "Graphic Design",
+     "amount": "$50.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/12/21",
+     "recipient": "Salt Lake Mailing",
+     "purpose": "Mailer",
+     "amount": "$2,113.61",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-primary Jul 30 2021 (bundle pp14-20)",
+   "total_contributions": "1,000.00",
+   "total_expenditures": "211.77",
+   "contributions_50_or_less": null,
+   "beginning_balance": "68.89",
+   "ending_balance": "857.12",
+   "cover_lines": {
+    "line1_balance_forward": "68.89",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "1,000.00",
+    "line4_total_contributions": "1,000.00",
+    "line5_total_expenses": "(211.77)",
+    "line6_ending_balance": "857.12"
+   },
+   "contributions": [
+    {
+     "date": "5/14/21",
+     "name": "Salt Lake Board of Realtors",
+     "amount": "1,000.00",
+     "in_kind": false
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "6/4/21",
+     "recipient": "City of West Jordan",
+     "purpose": "Campaign",
+     "amount": "$25.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/7/21",
+     "recipient": "WIX.COM",
+     "purpose": "Website Domain",
+     "amount": "$24.85",
+     "in_kind": false
+    },
+    {
+     "date": "6/7/21",
+     "recipient": "WIX.COM",
+     "purpose": "Website",
+     "amount": "$148.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/8/21",
+     "recipient": "Home Depot",
+     "purpose": "Sign Supplies",
+     "amount": "$13.92",
+     "in_kind": false
+    }
+   ]
+  }
+ ],
+ "notes": "MERGED multi-report re-transcription from Read-tool page-range partials in vision/_partials/ (2026-07-12, cf-vision-transcribe, no API). total_expenditures/total_contributions are cover lines 5/4 as magnitudes (verbatim incl. signs/parens in each report's cover_lines echo). Row amounts in dollars/cents-column or dash-cents notation normalized to decimals (verbatim kept per-row in amount_verbatim). Line 4 on the Oct interim INCLUDES the $1,577 Reagan Outdoor in-kind (cash rows 4,000 + in-kind = 5,577); Attachment B's matching $1,577 'Billboard (In Kind)' wash entry is flagged in_kind on the expenditure side."
+}

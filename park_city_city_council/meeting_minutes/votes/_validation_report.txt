@@ -1,0 +1,25 @@
+Park City — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 7927   motions: 1592   named-vote motions: 1590   tally-only motions: 2
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 9, undocumented (DEFECTS): 0
+   OK  2020-06-11 m4 Nann Worel x2 (Abstain+Aye) :: 2020-06-11_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2020-07-09 m4 Max Doilney x2 (Abstain+Aye) :: 2020-07-09_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2020-09-17 m3 Becca Gerber x2 (Abstain+Aye) :: 2020-09-17_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2020-10-13 m4 Nann Worel x2 (Abstain+Aye) :: 2020-10-13_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2020-12-17 m6 Tim Henney x2 (Abstain+Aye) :: 2020-12-17_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2022-06-09 m4 Ryan Dickey x2 (Abstain+Aye) :: 2022-06-09_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2022-10-06 m4 Becca Gerber x2 (Abstain+Aye) :: 2022-10-06_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2022-10-06 m8 Ryan Dickey x2 (Aye+Nay) :: 2022-10-06_city-council-meeting.md  [db/vote_overrides.csv]
+   OK  2022-10-06 m8 Tana Toly x2 (Aye+Nay) :: 2022-10-06_city-council-meeting.md  [db/vote_overrides.csv]
+
+4. ROSTER: roster.csv present (13 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 1590/1590 match (100.0%)
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

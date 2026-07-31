@@ -1,0 +1,53 @@
+{
+  "contributions": [
+    {"date": "6/7", "name": "Janice Strobell – personal", "amount": "500.00", "in_kind": false},
+    {"date": "7/20", "name": "Natalie Gochnour", "amount": "125.00", "in_kind": false},
+    {"date": "8/9", "name": "Susan Roylance", "amount": "100.00", "in_kind": false},
+    {"date": "8/9", "name": "Alf Quist", "amount": "170.00", "in_kind": false},
+    {"date": "8/10", "name": "Janice Strobell – personal", "amount": "2,200.00", "in_kind": false},
+    {"date": "8/9", "name": "Anonymous", "amount": "50.00", "in_kind": false},
+    {"date": "7/3", "name": "Anonymous", "amount": "10.00", "in_kind": false},
+    {"date": "7/10", "name": "EMS Designs", "amount": "180.00", "in_kind": true},
+    {"date": "7/5", "name": "Powell Designs", "amount": "25.00", "in_kind": true},
+    {"date": "7/25", "name": "Goates Consulting", "amount": "480.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "6/7", "recipient": "Murray Recorder", "purpose": "Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "6/20", "recipient": "DRI Signs", "purpose": "Yard sign sample for color", "amount": "8.84", "in_kind": false},
+    {"date": "6/21", "recipient": "FedEx Office", "purpose": "Campaign posters", "amount": "62.86", "in_kind": false},
+    {"date": "7/03", "recipient": "Winco Foods", "purpose": "Parade supplies", "amount": "27.03", "in_kind": false},
+    {"date": "7/03", "recipient": "Winco Foods", "purpose": "Parade candy", "amount": "125.29", "in_kind": false},
+    {"date": "6/27", "recipient": "HobbyLobby", "purpose": "Parade/campaign supplies", "amount": "21.99", "in_kind": false},
+    {"date": "6/28", "recipient": "WalMart", "purpose": "Parade/campaign supplies", "amount": "24.39", "in_kind": false},
+    {"date": "6/28", "recipient": "Vision Graphics", "purpose": "Yard Signs", "amount": "342.50", "in_kind": false},
+    {"date": "7/01", "recipient": "Hobby Lobby", "purpose": "Parade/campaign supplies", "amount": "125.44", "in_kind": false},
+    {"date": "7/03", "recipient": "Hobby Lobby", "purpose": "Parade/campaign supplies", "amount": "73.29", "in_kind": false},
+    {"date": "7/18", "recipient": "SL County Elections", "purpose": "Voter Registration List", "amount": "15.00", "in_kind": false},
+    {"date": "7/20", "recipient": "Minuteman Press", "purpose": "Door Hangers", "amount": "93.84", "in_kind": false},
+    {"date": "8/3", "recipient": "Vision Graphics", "purpose": "Yard Signs", "amount": "335.78", "in_kind": false},
+    {"date": "8/3", "recipient": "Minuteman Press", "purpose": "Door Hangers", "amount": "378.59", "in_kind": false},
+    {"date": "6/21", "recipient": "Salt Lake Surveyors", "purpose": "District 3 Map", "amount": "21.95", "in_kind": false},
+    {"date": "8/18", "recipient": "Costco", "purpose": "Campaign supplies", "amount": "35.71", "in_kind": false},
+    {"date": "6/23", "recipient": "Murray Journal", "purpose": "July Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "7/20", "recipient": "Murray Journal", "purpose": "August Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "8/24", "recipient": "Murray Journal", "purpose": "September Murray Journal - online", "amount": "200.00", "in_kind": false},
+    {"date": "8/28", "recipient": "Costco", "purpose": "Printer Cartridge", "amount": "90.25", "in_kind": false},
+    {"date": "8/24", "recipient": "Point Blank Political", "purpose": "Political Text Messaging", "amount": "275.00", "in_kind": false},
+    {"date": "8/25", "recipient": "SL County Elections", "purpose": "Voted List", "amount": "15.00", "in_kind": false}
+  ],
+  "total_contributions": "3,155.00",
+  "total_expenditures": "3,087.75",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "67.25",
+  "_meta": {
+    "index_path": "raw/202310_Janice-Strobell_14647.pdf",
+    "candidate": "Janice Strobell",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "reporting_period": "Post-Primary final (eliminated in primary)",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A itemized (7 rows) sums to 3,155.00 = printed cover 3,155.00 (THRU 10/3/23) and summary line 1 3,155.00 — reconciles. Schedule B spans two pages (22 rows total); all rows sum to 3,087.75 = printed cover 3,087.75 — reconciles, though the filer's page-2 printed subtotal 1,285.25 omits the 8/25 SL County Elections 15.00 row (page-2 rows actually sum to 1,300.25) — printed subtotals left verbatim. Schedule C in-kind (3 rows) sums to 685.00 = printed cover 685.00; in-kind total is separate from the 3,155.00 Schedule A cover."
+  }
+}

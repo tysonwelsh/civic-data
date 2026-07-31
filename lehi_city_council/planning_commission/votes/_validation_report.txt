@@ -1,0 +1,283 @@
+Lehi PLANNING COMMISSION — vote extraction validation report
+========================================================================
+Meetings with JSON : 161
+Motions extracted  : 1097
+Body check         : all rows body='PlanningCommission'  (OK)
+
+Stage split (DB keys on 'recommend' substring in result):
+   pc_recommendation    586
+   pc_final_action      511
+Recommendation direction:
+   positive             540
+   negative             46
+
+Motion-type distribution:
+   Land-Use/Zoning              917
+   Procedural/Administrative    123
+   Public Hearing Action        44
+   Other                        11
+   Ordinance                    1
+   Appointment                  1
+
+Roll-call size distribution (PC seats vary; up to 7 + 2 alternates — informational):
+   2 voters : 1 motions
+   3 voters : 6 motions
+   4 voters : 44 motions
+   5 voters : 562 motions
+   6 voters : 113 motions
+   7 voters : 367 motions
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year):
+------------------------------------------------------------------------
+
+2020:
+   Abram Nielsen          155
+   Scott Bunker           146
+   Brent Everett          143
+   Bill Hereth            142
+   Roger Ellis            132
+   Matt Hemmert           126
+   Jared Peterson         94
+   Tyson Eyre             71
+   Gregory Jackson        19
+
+2021:
+   Abram Nielsen          182
+   Scott Bunker           171
+   Brent Everett          158
+   Bill Hereth            155
+   Roger Ellis            137
+   Tyson Eyre             129
+   Gregory Jackson        99
+   Matt Hemmert           83
+   Heather Newall         66
+   Jared Peterson         51
+   Emily Britton          13
+
+2022:
+   Heather Newall         181
+   Abram Nielsen          165
+   Tyson Eyre             154
+   Scott Bunker           150
+   Brent Everett          148
+   Gregory Jackson        132
+   Roger Ellis            122
+   Scott Carlson          63
+   Emily Britton          47
+
+2023:
+   Heather Newall         163
+   Tyson Eyre             155
+   Scott Bunker           152
+   Brent Everett          149
+   Gregory Jackson        120
+   Scott Carlson          71
+   Emily Britton          39
+
+2024:
+   Nicole Kunze           139
+   Brent Everett          137
+   Tyson Eyre             133
+   Emily Lockhart         118
+   Gregory Jackson        116
+   Beau Jones             44
+   Ken Roberts            25
+
+2025:
+   Nicole Kunze           172
+   Tyson Eyre             149
+   Brent Everett          148
+   Gregory Jackson        143
+   Emily Lockhart         136
+   Ken Roberts            61
+   Beau Jones             43
+
+2026:
+   Tyson Eyre             80
+   Beau Jones             76
+   Nicole Kunze           74
+   Ken Roberts            74
+   Lindsay Gehman         42
+   Gregory Jackson        30
+   Stephen Su’a-Filo      30
+
+------------------------------------------------------------------------
+OFF-ROSTER VOTERS (HARD check — must be 0): 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+OUT-OF-WINDOW VOTERS (on-roster, date outside present-window — reviewed source anomalies): 1
+Roster windows come from 'Members Present' headers; a roll call that names a commissioner the header marked Excused (or a stale re-read) lands here. Traced to source; flagged not fabricated.
+------------------------------------------------------------------------
+   2022-12-08 m7: 'Roger Ellis' OUT-OF-RANGE (2020-01-09..2022-12-01)
+
+------------------------------------------------------------------------
+TALLY-VS-RESULT MISMATCHES (named count != printed tally): 8
+Not auto-corrected — each flags a source typo or a parse miss to hand-review.
+------------------------------------------------------------------------
+   2020-11-12 m5: named aye=5 nay=0 but printed 5:1 :: Positive recommendation 5:0 :: Public hearing and recommendation of Arive Homes’ request fo
+   2021-07-08 m2: named aye=5 nay=1 but printed 6:1 :: 5:1 Approved (Final Action) :: Public hearing and consideration of Dennis Schoonover’s requ
+   2021-07-08 m8: named aye=5 nay=1 but printed 6:1 :: 5:1 Approved (Final Action) :: Consideration of Shawn Jones’ request for approval of the Av
+   2021-07-08 m9: named aye=5 nay=1 but printed 6:1 :: Positive recommendation 5:1 :: Public hearing and consideration of Lone Star Builders reque
+   2021-08-12 m10: named aye=5 nay=1 but printed 4:2 :: Negative recommendation 5:1 :: Public hearing and recommendation of Lehi City's request for
+   2022-04-14 m4: named aye=5 nay=2 but printed 5:7 :: 5:2 Approved (Final Action) :: Public hearing and recommendation of Matthew Jorgensen’s req
+   2022-10-27 m4: named aye=5 nay=1 but printed 6:1 :: Negative recommendation 5:1 :: Public hearing and recommendation of Chris Bick’s request fo
+   2023-10-12 m6: named aye=4 nay=1 but printed 5:1 :: Positive recommendation 4:1 :: Public hearing and consideration of Gardner Plumb’s request 
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 2
+------------------------------------------------------------------------
+   2021-05-13 m1: PASS but aye=3<=nay=3 :: Negative recommendation 3:3
+   2023-03-09 m6: PASS but aye=2<=nay=3 :: 2:3 Approved (Final Action)
+
+------------------------------------------------------------------------
+JSON<->CSV RECONCILIATION: json_member_votes=6253 csv_member_rows=6253  csv_total_rows=6257  (OK)
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse): 141
+------------------------------------------------------------------------
+   2020-01-09 m1 6:1 Pass | AYE=6 NAY=['Matt Hemmert'] ABSTAIN=[] RECUSE=[] :: Commissioner Nielsen nominated Commissioner Hemmert for Planning Commission Chai
+   2020-01-23 m3 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Dan Ford’s request for review of the Pine S
+   2020-01-23 m4 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Dan Ford’s request for review of the Pine S
+   2020-02-06 m1 Positive recommendation 4:3 | AYE=4 NAY=['Brent Everett', 'Jared Peterson', 'Matt Hemmert'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Ivory Development’s request for review of t
+   2020-02-06 m2 Positive recommendation 4:2 | AYE=4 NAY=['Brent Everett', 'Jared Peterson'] ABSTAIN=['Matt Hemmert'] RECUSE=[] :: Public hearing and recommendation of Ivory Development’s request for review of t
+   2020-02-13 m2 Positive recommendation FAILED 2:5 | AYE=2 NAY=['Brent Everett', 'Jared Peterson', 'Matt Hemmert', 'Abram Nielsen', 'Scott Bunker'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Innovation Pointe’s request for review of a
+   2020-02-13 m4 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jared Osmond’s request for review of Commer
+   2020-02-13 m7 Positive recommendation 6:1 | AYE=6 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: Consideration of Alpine School District’s request for approval of the Micron Mid
+   2020-02-27 m2 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Dan Ford’s request for review of the Pine S
+   2020-03-26 m3 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Matt Hemmert'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Avante Recovery Center’s request for review
+   2020-04-23 m2 Positive recommendation 3:2 | AYE=3 NAY=['Brent Everett', 'Bill Hereth'] ABSTAIN=['Abram Nielsen'] RECUSE=[] :: Public hearing and consideration of Innovation Pointe’s request for approval of 
+   2020-05-14 m7 Positive recommendation 6:1 | AYE=6 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2020-05-28 m1 Negative recommendation 6:1 | AYE=6 NAY=['Matt Hemmert'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Cody Black’s request for review of a Develo
+   2020-05-28 m2 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: acres at approximately 7550 North 8350 West (600 West 1300 South). Jacob Curtis,
+   2020-06-11 m3 Positive recommendation 5:2 | AYE=5 NAY=['Matt Hemmert', 'Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Casey Hansen’s request for review of the Ha
+   2020-06-25 m1 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Dan Ford’s request for review of the Pine S
+   2020-07-23 m1 Negative recommendation FAILED 3:4 | AYE=3 NAY=['Abram Nielsen', 'Scott Bunker', 'Bill Hereth', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Adam Albrecht’s request for review of the Y
+   2020-07-23 m2 Positive recommendation 4:3 | AYE=4 NAY=['Matt Hemmert', 'Jared Peterson', 'Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Adam Albrecht’s request for review of the Y
+   2020-08-13 m1 Positive recommendation 5:1 | AYE=5 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: is not detrimental to the public health, safety, and welfare of the City 2) not 
+   2020-08-13 m8 Positive recommendation 5:0 | AYE=5 NAY=[] ABSTAIN=[] RECUSE=['Abram Nielsen'] :: Consideration of Lehi City’s request for approval of the Monument Park site plan
+   2020-08-27 m4 4:2 Approved (Final Action) | AYE=4 NAY=['Brent Everett', 'Matt Hemmert'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Danny Gutierrez & Mike Dubois’s request for
+   2020-09-10 m4 Negative recommendation FAILED 2:5 | AYE=2 NAY=['Abram Nielsen', 'Brent Everett', 'Matt Hemmert', 'Tyson Eyre', 'Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2020-09-24 m3 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Jared Peterson'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of David Doty’s request for approval of a conce
+   2020-10-08 m1 Positive recommendation 6:1 | AYE=6 NAY=['Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Edge Homes’ request for preliminary subdivi
+   2020-10-08 m4 Positive recommendation 6:1 | AYE=6 NAY=['Jared Peterson'] ABSTAIN=[] RECUSE=[] :: Consideration of Ivory Homes’ request for approval of the Holbrook Village Clubh
+   2020-10-22 m1 Positive recommendation 4:3 | AYE=4 NAY=['Jared Peterson', 'Matt Hemmert', 'Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Arive Homes’ request for review of the Tayl
+   2020-12-10 m9 Positive recommendation 4:3 | AYE=4 NAY=['Tyson Eyre', 'Jared Peterson', 'Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for the Traverse Mounta
+   2020-12-10 m10 Positive recommendation 4:3 | AYE=4 NAY=['Tyson Eyre', 'Roger Ellis', 'Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Fieldstone Homes’ request for the Traverse 
+   2021-01-14 m3 Negative recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Roger Ellis', 'Scott Bunker'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Adam Albrecht’s request for review of the Y
+   2021-01-14 m4 Negative recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Roger Ellis', 'Scott Bunker'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Adam Albrecht’s request for review of the H
+   2021-01-14 m15 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Roger Ellis'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation Lehi City’s request for review of a Developmen
+   2021-02-25 m4 Positive recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Brent Everett', 'Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Yesco’s request for approval of a conditiona
+   2021-04-22 m2 Positive recommendation 5:2 | AYE=5 NAY=['Matt Hemmert', 'Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Cole Peck’s request for review of the Lakev
+   2021-05-13 m1 Negative recommendation 3:3 | AYE=3 NAY=['Brent Everett', 'Abram Nielsen', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of DR Horton’s request for review of the Micro
+   2021-05-27 m2 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jacob Hansen’s request for review of a Gene
+   2021-06-10 m4 Negative recommendation FAILED 2:5 | AYE=2 NAY=['Abram Nielsen', 'Gregory Jackson', 'Scott Bunker', 'Bill Hereth', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of X Development’s request for review of the 2
+   2021-06-10 m5 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Roger Ellis'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of X Development’s request for review of the 2
+   2021-06-10 m16 6:1 Approved (Final Action) | AYE=6 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of DR Horton’s request for conditional use appr
+   2021-07-08 m2 5:1 Approved (Final Action) | AYE=5 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Dennis Schoonover’s request for approval of 
+   2021-07-08 m8 5:1 Approved (Final Action) | AYE=5 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: Consideration of Shawn Jones’ request for approval of the Avondale Academy site 
+   2021-07-08 m9 Positive recommendation 5:1 | AYE=5 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Lone Star Builders request for approval of t
+   2021-07-22 m7 Positive recommendation 3:2 | AYE=3 NAY=['Abram Nielsen', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Symphony Home’s request for review of a Gen
+   2021-07-22 m8 3:2 Approved (Final Action) | AYE=3 NAY=['Abram Nielsen', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Symphony Home’s request for review of the L
+   2021-08-12 m4 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Kraig Johnson’s request for review of the J
+   2021-08-12 m10 Negative recommendation 5:1 | AYE=5 NAY=['Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City's request for review of the 600 E
+   2021-09-09 m9 Positive recommendation 6:1 | AYE=6 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: and 2.10 were heard simultaneously
+   2021-09-09 m10 Positive recommendation 6:1 | AYE=6 NAY=['Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: and 2.10 were heard simultaneously
+   2021-10-14 m8 Negative recommendation 3:2 | AYE=3 NAY=['Abram Nielsen', 'Emily Britton'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Edge Homes’ request for review of the River
+   2021-10-28 m6 4:2 Approved (Final Action) | AYE=4 NAY=['Abram Nielsen', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Commissioner Jackson moved to approve Rick Magness’ request for         conditio
+   2021-11-18 m5 5:1 Pass | AYE=5 NAY=['Bill Hereth'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Slopes Residential’s request for review of 
+   2021-11-18 m6 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Slopes Residential’s request for review of 
+   2022-02-24 m5 Positive recommendation 4:3 | AYE=4 NAY=['Brent Everett', 'Tyson Eyre', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of SDM Development’s request for review of The
+   2022-03-10 m5 Positive recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Marion Surgical Center's request for approva
+   2022-03-10 m8 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Thanksgiving Station LLC’s request for revi
+   2022-04-14 m4 5:2 Approved (Final Action) | AYE=5 NAY=['Roger Ellis', 'Abram Nielsen'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Matthew Jorgensen’s request for preliminary
+   2022-04-28 m3 4:3 Pass | AYE=4 NAY=['Brent Everett', 'Scott Bunker', 'Emily Britton'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Kevin & Sarah Gordon’s request for approval 
+   2022-04-28 m4 4:3 Pass | AYE=4 NAY=['Brent Everett', 'Scott Bunker', 'Emily Britton'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Kevin & Sarah Gordon’s request for approval 
+   2022-07-14 m4 4:3 Approved (Final Action) | AYE=4 NAY=['Brent Everett', 'Emily Britton', 'Scott Carlson'] ABSTAIN=[] RECUSE=[] :: Consideration of Smartlink’s request for approval of the AT&T Lehi Riverwalk Ste
+   2022-08-04 m3 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of DR Horton’s request for review of the Skye 
+   2022-08-04 m4 6:1 Pass | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of DR Horton’s request for review of the Skye 
+   2022-09-08 m4 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Scott Bunker'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Jeff Southard’s request for approval of the 
+   2022-09-22 m3 Negative recommendation FAILED 3:3 | AYE=3 NAY=['Roger Ellis', 'Abram Nielsen', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jeffrey Merchant’s request for review of th
+   2022-09-22 m4 Positive recommendation 4:3 | AYE=4 NAY=['Tyson Eyre', 'Brent Everett', 'Scott Carlson'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jeffrey Merchant’s request for review of th
+   2022-10-27 m4 Negative recommendation 5:1 | AYE=5 NAY=['Roger Ellis'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Chris Bick’s request for review of the Ken 
+   2022-11-17 m7 Positive recommendation 5:2 | AYE=5 NAY=['Brent Everett', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jamie Barnes’ request for review of the Sma
+   2022-11-17 m8 Negative recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Scott Bunker', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: and 3.8 were heard simultaneously.
+   2022-11-17 m9 Negative recommendation 5:2 | AYE=5 NAY=['Abram Nielsen', 'Scott Bunker'] ABSTAIN=[] RECUSE=[] :: and 3.8 were heard simultaneously.
+   2022-12-08 m1 Positive recommendation 6:1 | AYE=6 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of UTA and Lehi City’s request for review of t
+   2022-12-08 m7 Positive recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Scott Bunker', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2022-12-08 m8 3:4 Failed (Final Action) | AYE=3 NAY=['Brent Everett', 'Scott Bunker', 'Tyson Eyre', 'Scott Carlson'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City's request for review of a Develop
+   2022-12-08 m9 Positive recommendation 4:3 | AYE=4 NAY=['Abram Nielsen', 'Gregory Jackson', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: adding dog parks as an option to fulfill the multi-family amenity requirement in
+   2023-01-26 m7 Positive recommendation 4:1 | AYE=4 NAY=['Gregory Jackson'] ABSTAIN=[] RECUSE=[] :: Recommendation of Lehi City’s request for review of a Development Code Amendment
+   2023-02-09 m5 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2023-02-23 m4 3:1 Pass | AYE=3 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Recommendation of Britani & John Underwood’s request for concept approval of the
+   2023-02-23 m5 3:1 Pass | AYE=3 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Recommendation of Britani & John Underwood’s request for concept approval of the
+   2023-03-09 m1 Negative recommendation 4:1 | AYE=4 NAY=['Emily Britton'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Capital Real Estates request for approval of
+   2023-03-09 m6 2:3 Approved (Final Action) | AYE=2 NAY=['Brent Everett', 'Emily Britton', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Recommendation of Chad Jones’ request for review of the Vantage concept plan and
+   2023-07-13 m6 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Stack and Gardner Company’s request for rev
+   2023-07-13 m8 Positive recommendation FAILED 2:3 | AYE=2 NAY=['Heather Newall', 'Emily Britton', 'Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Bronson Tatton’s request for review of the 
+   2023-07-13 m9 Negative recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Bronson Tatton’s request for review of the 
+   2023-07-27 m4 Positive recommendation 4:0 | AYE=4 NAY=[] ABSTAIN=['Tyson Eyre'] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of an amendm
+   2023-07-27 m9 Positive recommendation 3:2 | AYE=3 NAY=['Scott Carlson', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of an amendm
+   2023-08-10 m3 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of DR Horton’s request for review of the Skye 
+   2023-08-10 m5 Positive recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2023-09-28 m1 3:0 Approved (Final Action) | AYE=3 NAY=[] ABSTAIN=['Scott Carlson'] RECUSE=[] :: Commissioner Eyre moved to approve the consent agenda. The motion was seconded b
+   2023-10-12 m5 Positive recommendation FAILED 1:4 | AYE=1 NAY=['Heather Newall', 'Gregory Jackson', 'Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Gardner Plumb’s request for review of the H
+   2023-10-12 m6 Positive recommendation 4:1 | AYE=4 NAY=['Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Gardner Plumb’s request for approval of the 
+   2023-10-26 m2 3:2 Approved (Final Action) | AYE=3 NAY=['Scott Bunker', 'Emily Britton'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Brad Long’s request for approval of the BDL 
+   2023-11-02 m7 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Tracy Tanner’s request for review of the Be
+   2023-11-02 m8 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Consideration of Tracy Tanner’s request for approval of the Tanner Indoor Pickle
+   2023-12-14 m8 3:2 Approved (Final Action) | AYE=3 NAY=['Brent Everett', 'Heather Newall'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Jeff Southard’s request for conditional use 
+   2023-12-14 m11 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Britani Bateman’s request for review of the
+   2024-01-11 m4 Positive recommendation 4:1 | AYE=4 NAY=['Gregory Jackson'] ABSTAIN=[] RECUSE=[] :: Recommendation of Lehi City’s request for review of a Development Code Amendment
+   2024-02-22 m2 4:0 Approved (Final Action) | AYE=4 NAY=[] ABSTAIN=['Tyson Eyre'] RECUSE=[] :: Public hearing and consideration of James Whitmore’s requests for conditional us
+   2024-03-14 m2 Positive recommendation FAILED 1:4 | AYE=1 NAY=['Gregory Jackson', 'Brent Everett', 'Emily Lockhart', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Cole Peck's request for review of the Lakev
+   2024-03-14 m3 Negative recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Cole Peck's request for review of the Lakev
+   2024-03-14 m9 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Gardner Company’s request for approval of th
+   2024-03-14 m10 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Aaron Larson’s request for preliminary subdi
+   2024-03-28 m2 3:2 Approved (Final Action) | AYE=3 NAY=['Brent Everett', 'Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Ryan Wilson’s request for conditional use ap
+   2024-03-28 m3 Positive recommendation 3:2 | AYE=3 NAY=['Brent Everett', 'Beau Jones'] ABSTAIN=[] RECUSE=[] :: acres of property located at approximately 1200 West 1450 South, changing the la
+   2024-04-11 m6 Positive recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Tyson Fox’s request for review of the Grant
+   2024-05-23 m3 4:1 Approved (Final Action) | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Boyd Brown’s request for approval of the Exc
+   2024-07-11 m5 Positive recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Edge Homes? request for a Zone Change on 36
+   2024-08-22 m9 4:1 Pass | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for a Development Code 
+   2024-10-10 m2 4:1 Approved (Final Action) | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Steve Kelly’s request for approval of the Em
+   2024-11-14 m4 Positive recommendation 4:1 | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public Hearing and Recommendation of AWA’s Request for Review of a Development C
+   2024-12-05 m1 Negative recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2025-01-23 m3 4:1 Approved (Final Action) | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Sensapure’s request for approval of conditio
+   2025-02-27 m7 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2025-03-27 m5 Positive recommendation 4:1 | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of the Hospital and 2100 North Station Area Pl
+   2025-05-22 m5 4:1 Pass | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Provide a bike ramp from the trail to the 1200 W bike lane. Use directional ADA 
+   2025-05-22 m8 4:1 Pass | AYE=4 NAY=['Gregory Jackson'] ABSTAIN=[] RECUSE=[] :: City Business
+   2025-06-12 m5 4:1 Approved (Final Action) | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Roger Harding’s request for conditional use 
+   2025-06-12 m6 Negative recommendation 4:1 | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Strap Tank’s request for the Traverse Mounta
+   2025-07-10 m2 Negative recommendation 3:2 | AYE=3 NAY=['Emily Lockhart', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public Hearing and recommendation of Justin Hamond’s request for review of the H
+   2025-07-31 m6 Positive recommendation 4:1 | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Enterprise Mobility’s request for approval o
+   2025-07-31 m10 Positive recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2025-08-28 m5 Positive recommendation FAILED 2:3 | AYE=2 NAY=['Emily Lockhart', 'Gregory Jackson', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Bob Perdue’s request for review of the Wate
+   2025-08-28 m6 Negative recommendation 4:1 | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Bob Perdue’s request for review of the Wate
+   2025-09-11 m2 4:1 Pass | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Commissioner Lockhart moved to table the item to give the applicant an          
+   2025-09-25 m3 4:1 Pass | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Jordan Lee’s request for review of the Lee 
+   2025-10-09 m2 3:2 Approved (Final Action) | AYE=3 NAY=['Emily Lockhart', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Consideration of Clyde Capital Group’s request for approval of revisions to the 
+   2025-10-09 m4 4:1 Pass | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Commissioner Lockhart moved to table the item to allow the applicant to         
+   2025-11-13 m7 3:2 Approved (Final Action) | AYE=3 NAY=['Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Austin Cope’s request for conditional use ap
+   2025-11-13 m8 4:1 Approved (Final Action) | AYE=4 NAY=['Brent Everett'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Center Cal’s request for approval of the Col
+   2025-11-13 m9 Positive recommendation 4:1 | AYE=4 NAY=['Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Justin Hammond’s request for review of the 
+   2025-11-13 m10 Positive recommendation 3:2 | AYE=3 NAY=['Brent Everett', 'Emily Lockhart'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of John Hadfield’s request for review of the J
+   2025-11-13 m11 Positive recommendation 3:2 | AYE=3 NAY=['Emily Lockhart', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Bob Perdue’s request for review of the Wate
+   2025-12-04 m4 4:1 Denied (Final Action) | AYE=4 NAY=['Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of the Final Spur Ranch concept plan, a 14-lot 
+   2025-12-04 m6 Positive recommendation FAILED 1:4 | AYE=1 NAY=['Ken Roberts', 'Tyson Eyre', 'Gregory Jackson', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public Hearing and recommendation of Stack’s request for review of the Thanksgiv
+   2025-12-04 m8 Positive recommendation 3:2 | AYE=3 NAY=['Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public Hearing and recommendation of Stack’s request for review of the Thanksgiv
+   2025-12-04 m11 Negative recommendation FAILED 2:3 | AYE=2 NAY=['Ken Roberts', 'Gregory Jackson', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Stack’s request for review of the Stack Socc
+   2025-12-04 m12 Positive recommendation 3:2 | AYE=3 NAY=['Brent Everett', 'Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Stack’s request for review of the Stack Socc
+   2026-01-08 m12 Positive recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of JDH Development’s request for review of the
+   2026-01-08 m15 Positive recommendation 4:1 | AYE=4 NAY=['Tyson Eyre'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Kenneth Glod’s request for review of the Co
+   2026-02-26 m4 4:1 Approved (Final Action) | AYE=4 NAY=['Beau Jones'] ABSTAIN=[] RECUSE=[] :: Public hearing and consideration of Symphony Homes request for preliminary subdi
+   2026-02-26 m7 Positive recommendation 3:2 | AYE=3 NAY=['Stephen Su’a-Filo', 'Ken Roberts'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Lehi City’s request for review of a Develop
+   2026-03-26 m7 Negative recommendation FAILED 2:3 | AYE=2 NAY=['Tyson Eyre', 'Nicole Kunze', 'Ken Roberts'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Georgetown Development’s request for a Gene
+   2026-03-26 m8 Positive recommendation 3:2 | AYE=3 NAY=['Beau Jones', 'Stephen Su’a-Filo'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Georgetown Development’s request for a Gene
+   2026-05-14 m2 Positive recommendation 4:1 | AYE=4 NAY=['Stephen Su’a-Filo'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Symphony Development’s request for prelimin
+   2026-06-11 m5 Negative recommendation 3:2 | AYE=3 NAY=['Tyson Eyre', 'Nicole Kunze'] ABSTAIN=[] RECUSE=[] :: Public hearing and recommendation of Deborah Walker’s request for review of the 
+

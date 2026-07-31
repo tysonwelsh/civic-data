@@ -1,0 +1,45 @@
+{
+ "date": "2025-04-01",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-03-31/2025-04-01_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of March 18, 2025",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "5:0 Pass",
+   "mover": "Ammon Allen",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch",
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to approve the Temporary Use Permit for the Haun Ventures Storage Containers, located at 2821 West Haun Drive in an RR-1D zone, with the Conditions of Approval listed in the staff report",
+   "motion_type": "Other",
+   "action_class": "pc_final_action",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Emily Gonzalez",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch",
+    "Jimmy Anderson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

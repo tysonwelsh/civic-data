@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "08/04/2025", "name": "Salt Lake Home Builders", "amount": "250.00", "in_kind": false},
+    {"date": "08/04/2025", "name": "Tyler Clancy", "amount": "47.25", "in_kind": false},
+    {"date": "08/04/2025", "name": "UA Local 140", "amount": "500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Landslide Political", "purpose": "Media", "amount": "750.00", "in_kind": false},
+    {"date": null, "recipient": "Murray Journal", "purpose": "Ad", "amount": "540.00", "in_kind": false},
+    {"date": null, "recipient": "Dale Cox", "purpose": "Repay Loan", "amount": "3,000.00", "in_kind": false}
+  ],
+  "total_contributions": "797.25",
+  "total_expenditures": "4,290.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "7,205.70",
+  "ending_balance": "3,712.95",
+  "_meta": {
+    "index_path": "raw/202509_Dale-M-Cox_17136.pdf",
+    "candidate": "Dale M Cox",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202509_Dale-M-Cox_17136.pdf",
+    "pages": 5
+  }
+}

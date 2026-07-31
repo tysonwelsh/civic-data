@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "10/11/25", "name": "Janet Reiser", "amount": "20.60", "in_kind": false},
+    {"date": "10/13/25", "name": "Eddie Bejarano", "amount": "103.00", "in_kind": false},
+    {"date": "10/15/25", "name": "Rosemary Marchant: In-kind donation", "amount": "299.69", "in_kind": true},
+    {"date": "10/15/25", "name": "Vona Williams", "amount": "41.20", "in_kind": false},
+    {"date": "10/23/25", "name": "Jeremiah Clark", "amount": "206.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/10/25", "recipient": "Compass Billboards", "purpose": "Billboard printing & rental", "amount": "1720.00", "in_kind": false},
+    {"date": "10/10/25", "recipient": "Amazon", "purpose": "Lanyards for volunteers", "amount": "20.99", "in_kind": false},
+    {"date": "10/15/25", "recipient": "Rosemary Marchant: In-kind donation", "purpose": "Mail campaign--copies, stamps, envelopes", "amount": "299.69", "in_kind": true},
+    {"date": "10/16/25", "recipient": "Postcard Mania", "purpose": "Marketing materials", "amount": "742.50", "in_kind": false},
+    {"date": "10/17/25", "recipient": "Proximity", "purpose": "Marketing materials (email package)", "amount": "25.00", "in_kind": false},
+    {"date": "10/23/25", "recipient": "Proximity Political", "purpose": "Data management", "amount": "168.12", "in_kind": false},
+    {"date": "10/24/25", "recipient": "Signz", "purpose": "Door hangers", "amount": "217.50", "in_kind": false},
+    {"date": "10/23/25", "recipient": "Squarespace", "purpose": "Gross donation transaction fees", "amount": "12.3", "in_kind": false}
+  ],
+  "total_contributions": "670.49",
+  "total_expenditures": "3206.10",
+  "ending_balance": "426.27"
+}

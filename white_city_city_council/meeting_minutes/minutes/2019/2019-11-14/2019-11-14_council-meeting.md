@@ -1,0 +1,612 @@
+# White City Council Meeting
+> Source: https://www.utah.gov/pmn/files/556713.pdf
+> Meeting date: 2019-11-14
+> Format: text
+
+---
+
+**Body:** Council
+**Date:** 2019-11-14
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/556713.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+DATE           THURSDAY                             NOVEMBER                       14, 2019
+
+
+           THE WHITE CITY METRO TOWNSHIP COUNCIL, STATE OF UTAH, MET ON
+THURSDAY, NOVEMBER 14, 2019, PURSUANT TO ADJOURNMENT ON THURSDAY,
+OCTOBER 3, 2019, AT THE HOUR OF 6:00 P.M., AT ALTA VEW ELEMENTARY SCHOOL
+AUDITORIUM, 917 E LARKSPUR DR, WHITE CITY, UT 84094.
+
+COUNCIL MEMBERS
+PRESENT:                     ALLAN PERRY
+                             KAY DICKERSON
+                             LINDA PRICE
+                             PAULINA FLINT, Mayor
+
+COUNCIL MEMBERS
+EXCUSED:                     CODY CUTLER
+
+OTHERS IN ATTENDANCE: PAUL ASHTON, LEGAL COUNSEL
+                      GREG SCHULZ, STAFF
+                      SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+                       By: NICHOLE WATT, DEPUTY CLERK
+
+                                ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                     Mayor Flint, Chair, presided.
+
+                                ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                             White City 2020 Budget Presentation
+
+              Greg Schulz reviewed White City Metro Township’s 2020 budget.
+
+                                ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                           Staff Meeting
+
+Discussion/Clarification of Agenda Items
+
+              The Council reviewed the following agenda and future agenda items:
+
+      Moderate Income Housing Plan
+      CodeRED update
+      Unified Fire Authority (UFA) master interlocal agreement
+      Emergency specialist contract update
+      2020 budget workshop
+      Discussion of HB 411 at the next meeting
+
+                                ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+
+                                                1
+DATE           THURSDAY                             NOVEMBER                             14, 2019
+
+
+
+                                         Public Hearing
+
+White City Metro Township Moderate-Income Housing Plan
+
+              THIS BEING THE TIME heretofore set for a public hearing to receive input
+regarding the White City Metro Township Moderate-Income Housing Plan element of the White
+City Land Use General Plan.
+
+               The public hearing was opened.
+
+              Mark Hakala asked for a broader description of what the moderate-income
+housing plan means.
+
+             Mikala Jordan stated the moderate-income housing plan will be part of the overall
+housing element for the general plan. Moderate income is defined as under 80 percent of the area
+median income. It requires to have a housing plan for those who make under the 80 percent
+median income.
+
+               Scott Little stated the median income for Salt Lake County does not benefit White
+City, the income maybe lower than the rest of Salt Lake County and it is not being reflected in the
+reports. The White City Metro Township Planning Commission has only posted minutes from June
+and July and neither of those meetings discussed the moderate-income housing plan. He
+recommended that the resolution to approve the moderate-income plan be amended to remove
+the portion where it states they discussed it.
+
+                Ranae Sutton stated during the Steering Committee meeting they discussed
+short-term rental is six months; however, Salt Lake County code states that it is 30 days or less,
+this needs to be clarified. She did not locate any data about how many White City residents are
+non-automobile owners. If an individual does not drive or does not own a car they could be lumped
+in with the elderly or disabled community.
+
+               Jessica Davies stated she likes the plan and appreciates the goals. The concern
+is the implementation of the plan, she encourages the Council to adopt the plan and keep the
+public informed.
+
+               Mr. Little stated the language in the sidewalk portion should be changed so it does
+not state non-automobile and says pedestrians.
+
+               Council Member Perry, seconded by Council Member Price, moved to close the
+public hearing. The motion passed unanimously.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Community Input/Reports
+
+
+
+
+                                                2
+DATE           THURSDAY                             NOVEMBER                             14, 2019
+
+
+Recognize Visiting Officials
+
+               None
+                                −−−−−−−−−−−−−−
+Citizen Comments
+
+               Mark Hakala asked if White City Water District was once named Sandy City/White
+City Water District.
+
+               Mayor Flint stated no, it has always been White City Water District.
+
+               Ranae Sutton stated she is not sure what the storm drain fee and why it is doubling
+in 2020.
+
+                Greg Schulz stated the storm water fee has been amended out of the budget and
+will not be implemented.
+
+              Ms. Sutton stated under expenditures; printing, publications, and advertising
+increase by more than 300 percent. What caused such a large increase?
+
+               Paul Ashton stated notifications and ordinances must be posted in a newspaper
+and posting is expensive. The Council hopes not to have to use all those funds.
+
+               Mr. Little stated posting on the website makes more sense than other publications.
+
+               Katie Johnson stated instead of posting notices in the newspaper, could the
+Council put out a sign with the information on it.
+
+               Mr. Schulz stated no, notices must be posted in the newspaper.
+
+               Mr. Ashton stated there is not a lot of places in White City to post notices. White
+City Water District posts information regarding meetings on the board outside the building.
+
+                                −−−−−−−−−−−−−−
+White City Community Council Report
+
+               Council Member Dickerson stated the Community Council discussed concerns
+with a resident sandblasting in his garage and Airbnb’s.
+
+                                −−−−−−−−−−−−−−
+Unified Fire Authority (UFA)
+
+
+
+
+                                                3
+DATE            THURSDAY                              NOVEMBER                              14, 2019
+
+
+                Chief Jay Ziolkowski stated UFA has an annual hiring process instead of bi-
+annually and it is bringing in better recruits. There are 47 individuals that will be tested and moved
+on to background tests. Approximately 35 individuals will be hired for training. UFA deployed fire
+fighters and various apparatuses to California. A grant was awarded to help employees with
+mental health and wellness.
+
+                                  −−−−−−−−−−−−−−
+Unified Police Department (UPD)
+
+                Officer Paula Stinson reviewed the October statistics; they did go up slightly but
+nothing major. The speed trailer was placed on Poppy for a month; however, it only collected
+three days’ worth of data. The majority of drivers are going the speed limit. If someone wants the
+speed trailer set up in a specific place, they can notify her. Officers have been working on
+enforcement at school crossings. Commercial vehicles in excess of ¾ tons can be parked on the
+street for three hours. Winter parking is enforced between November and April. During the first
+month warnings will be handed out to educate the residents after that it will be enforced when
+there is snow and when there is a safety issue. She presented White City Metro Township Council
+with a framed UPD mission statement.
+
+                                  ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Business
+
+Meeting Minutes
+
+             Council Member Price, seconded by Council Member Perry, moved to approve the
+minutes of the White City Metro Township Council meetings held on September 5, 2019,
+September 23, 2019, and October 3, 2019. The motion passed unanimously.
+
+                                  −−−−−−−−−−−−−−
+Resolution – 2020 White City Metro Township Tentative Budget & Public Hearing
+
+             The Council reviewed the following Resolution approving the 2020 White City
+Metro Township Tentative budget and set the public hearing:
+
+RESOLUTION NO. 19-11-01                                                  Date: November 14, 2019
+
+               A RESOLUTION OF THE WHITE CITY METRO TOWNSHIP COUNCIL
+               APPROVING THE 2020 WHITE CITY METRO TOWNSHIP TENTATIVE
+               BUDGET AND SETTING THE PUBLIC HEARING FOR PUBLIC
+               COMMENT AND A POSSIBLE FINAL ADOPTION OF THE BUDGET
+
+                                             RECITALS
+
+
+
+                                                  4
+DATE            THURSDAY                             NOVEMBER                             14, 2019
+
+
+      WHEREAS, the White City Metro Township (“White City”) is a Municipality pursuant to
+Utah Code §§ 10-2a-401 et seq.; and
+
+         WHEREAS, the White City Metro Township Council (the “Council”) is the municipal
+legislative body for White City pursuant to Utah Code § 10-3b-501; and
+
+      WHEREAS, pursuant to Utah Code §§ 10-6-111 et al, White City is required to prepare
+an annual tentative budget for consideration, possible amendment, and tentative adoption; and
+
+        WHEREAS, the budget and related supporting documents shall be made available for
+public inspection no later than ten (10) days prior to the public hearing for the budget pursuant to
+Utah Code §§ 10-6-112 et al; now therefore be it
+
+             Council Member Price, seconded by Council Member Dickerson, moved to
+approve Resolution No. 19-11-01. The motion passed unanimously.
+
+                                          RESOLUTION
+
+         RESOLVED, the Council hereby approves the 2020 White City Tentative Budget, attached
+to this resolution as listed as “Attachment-Budget” and sets the date, time and place for the Public
+Hearing to be as follows:
+
+      PLACE: White City Water Improvement Districts Offices – Board Room 999 East Galena
+Drive White City, Utah 84094
+
+       DATE: December 5, 2019
+
+       TIME: 7:00 PM; and be it further
+
+       RESOLVED, that a notice of the Public Hearing for the 2020 White City Tentative Budget
+be printed in a newspaper of general circulation and posted to the Utah Public Meeting Notice
+Website https://www.utah.gov/pmn/index.html no later than November 22, 2019; and be it further
+
+       RESOLVED, copies of the 2020 White City Tentative Budget be available for public
+inspection no later than November 22, 2019 at the Salt Lake County Clerk’s Office, located at
+2001 South State St Suite N2-700 Salt Lake City, Utah 84114, attached to the Notice of Public
+Hearing on the Utah Public Meeting Notice Website https://www.utah.gov/pmn/index.html, and
+posted to the White City Metro Township Website www.whitecity-ut.org for public inspection.
+
+       APPROVED AND ADOPTED in the White City Metro Township, Salt Lake County, Utah
+      th
+this 14 day of November, 2019.
+
+                                                     By: /s/ PAULINA F FLINT
+                                                         Mayor
+ATTEST
+
+
+
+
+                                                 5
+DATE           THURSDAY                           NOVEMBER                            14, 2019
+
+
+/s/ SHERRIE SWENSEN
+Salt Lake County Clerk
+Metro Township Clerk/Recorder
+
+              Council Member Price, seconded by Council Member Perry, moved to approve
+Resolution No. 19-11-01 and set the public hearing for December 5, 2019 at 7:00 p.m. The motion
+passed unanimously.
+
+                                −−−−−−−−−−−−−−
+Resolution – 2020 White City Metro Township Council Regular Meeting Schedule
+
+              The Council reviewed the following Resolution approving and adopting the 2020
+White City Metro Township Council regular meeting schedule:
+
+RESOLUTION NO. 19-11-02                                              Date: November 14, 2019
+
+       A RESOLUTION OF THE WHITE CITY METRO TOWNSHIP COUNCIL
+       APPROVING AND ADOPTING THE 2020 WHITE CITY METRO TOWNSHIP
+       COUNCIL REGULAR MEETING SCHEDULE
+
+                                          RECITALS
+
+   A. The White City Metro Township (“White City”) is a Municipality pursuant to Utah Code §§
+      10-2a-401 et seq.
+
+   B. The White City Metro Township Council (“Council”) is a Metro Township Council pursuant
+      to Utah Code §§ 10-3b-501 et al.
+
+   C. Pursuant to the Utah Open and Public Meetings Act (the “Act”), the Council must adopt
+      and post an annual regular meeting schedule of the Council.
+
+   D. The 2020 White City Metro Township Council Regular Meeting Schedule (ATTACHMENT
+      “A”) fulfills the requirement of the Act.
+
+                                        RESOLUTION
+
+       THEREFORE BE IT RESOLVED by the White City Metro Township Council, the Council
+approves and adopts the attached 2020 White City Metro Township Regular Meeting Schedule
+hereinafter to be known as Attachment “A” to this resolution, for the benefit of White City.
+
+        APPROVED AND ADOPTED in the White City Metro Township, Salt Lake County, Utah
+this 14th day of November, 2019.
+
+                                                   By: /s/ PAULINA F FLINT
+                                                       Mayor
+
+
+                                              6
+DATE           THURSDAY                            NOVEMBER                             14, 2019
+
+
+ATTEST
+
+/s/ SHERRIE SWENSEN
+Salt Lake County Clerk
+Metro Township Clerk/Recorder
+
+              Council Member Perry, seconded by Council Member Price, moved to approve
+Resolution No. 19-11-02. The motion passed unanimously.
+
+                                −−−−−−−−−−−−−−
+Resolution – White City Moderate-Income Housing Plan
+
+              The Council reviewed the following Resolution adopting the White City Metro
+Township Moderate-Income Housing element as a component of the White City Metro Township
+General Plan:
+
+RESOLUTION NO. 19-11-03                                               Date: November 14, 2019
+
+       A RESOLUTION ADOPTING THE WHITE CITY METRO TOWNSHIP
+       MODERATE-INCOME HOUSING ELEMENT, 2019, AS A COMPONENT OF THE
+       WHITE CITY METRO TOWNSHIP GENERAL PLAN
+
+        WHEREAS: Utah Code 10-9a-103(38) defines “Moderate-income housing” as housing
+occupied or reserved for occupancy by households with a gross household income equal to or
+less than 80 percent of the median gross income for households of the same size in the county
+in which the city is located; and,
+
+       WHEREAS: Utah Code 10-9a-103(47) describes that a “plan for Moderate-income
+housing” means a written document adopted by a municipality’s legislative body that includes:
+
+   a. An estimate of the existing supply of Moderate-income housing located within the
+      municipality;
+   b. An estimate of the need for Moderate-income housing in the municipality for the next five
+      years;
+   c. A survey of total residential land use;
+   d. An evaluation of how existing land uses and zones affect opportunities for Moderate-
+      income housing; and,
+   e. A description of the municipality’s program to encourage an adequate supply of Moderate-
+      income housing; and,
+
+       WHEREAS: Utah Code 10-9a-404(5)(c) states that the legislative body shall adopt for a
+municipality, other than a town, after considering the factors included in Subsection 10- 9a-
+403(2)(b)(ii), a plan to provide a realistic opportunity to meet the need for additional moderate
+income housing within the next five years; and,
+
+
+
+
+                                               7
+DATE           THURSDAY                             NOVEMBER                              14, 2019
+
+
+        WHEREAS: Utah Code 10-9a-403(2)(b)(ii) states that in drafting the Moderate-income
+Housing Element, the planning commission for a town may include, and for other municipalities,
+shall include, an analysis of how the municipality provides a realistic opportunity for the
+development of Moderate-income housing within the next five years; and,
+
+       WHEREAS: Utah Code 10-9a-408 identifies the “reporting requirements and civil action
+regarding the Moderate-income housing element of a General Plan,” including:
+
+   1. The legislative body of a municipality described in Subsection 10-9a-401(3)(b) shall
+      annually:
+
+   a. Review the Moderate-income Housing Plan Element of the municipality’s General Plan
+      and implementation of that element of the General Plan;
+   b. Prepare a report on the findings of the review described in Subsection (1)(a); and
+   c. Post the report described in Subsection (1)(b) on the municipality’s website; and,
+
+   2. The report described in Subsection (1) shall include:
+
+   a. A revised estimate of the need for Moderate-income housing in the municipality for the
+      next five years;
+   b. A description of progress made within the municipality to provide Moderate-income
+      housing, demonstrated by analyzing and publishing data on the number of housing units
+      in the municipality that are at or below:
+
+          i.   80% of the adjusted median family income;
+         ii.   50% of the adjusted median family income; and
+        iii.   30% of the adjusted median family income;
+
+   c. (c)    A description of any efforts made by the municipality to utilize a Moderate-income
+      housing set-aside from a community reinvestment agency, redevelopment agency, or
+      community development and renewal agency; and
+   d. (d)    A description of how the municipality has implemented any of the
+      recommendations related to Moderate-income housing described in Subsection 10-9a-
+      403(2)(b)(iii); and,
+
+   3. The legislative body of each municipality described in Subsection (1) shall send a copy of
+      the report under Subsection (1) to the Department of Workforce Services, the association
+      of governments in which the municipality is located, and, if located within the boundaries
+      of a metropolitan planning organization, the appropriate metropolitan planning
+      organization; and,
+
+   4. In a civil action seeking enforcement or claiming a violation of this section or of Subsection
+      10-9a-404(5)(c), a plaintiff may not recover damages but may be awarded only injunctive
+      or other equitable relief; and,
+
+
+
+
+                                                8
+DATE           THURSDAY                            NOVEMBER                             14, 2019
+
+
+       WHEREAS: Utah Code 10-9a-401(3)(b)(iii) requires each Metro Township in the State of
+Utah, with a population of five thousand or more residents, to conduct a review of and revise the
+Moderate-Income Housing Element of its General Plan; and,
+
+       WHEREAS: The WHITE CITY METRO TOWNSHIP began operating and functioning as
+a Metro Township in January of 2017; and,
+
+       WHEREAS: The WHITE CITY METRO TOWNSHIP Council initiated the General Plan
+process in January of 2019 that is currently underway, known as the WHITE CITY METRO
+TOWNSHIP General Plan Update; and,
+
+      WHEREAS: The WHITE CITY METRO TOWNSHIP Council initiated the creation of the
+Moderate-Income Housing Element of the WHITE CITY METRO TOWNSHIP proposed General
+Plan Update; and
+
+      WHEREAS: The WHITE CITY METRO TOWNSHIP Planning Commission held a public
+meeting to address the Housing Element of the WHITE CITY METRO TOWNSHIP proposed
+General Plan Update, during the regularly scheduled meeting of the WHITE CITY METRO
+TOWNSHIP Planning Commission on October 22, 2019; and,
+
+       WHEREAS: The WHITE CITY METRO TOWNSHIP Planning Commission upon receiving
+and carefully reviewing the input, documents, and testimony from the public prepared its final
+recommendation regarding the Housing Element to the WHITE CITY METRO TOWNSHIP
+Council; and
+
+        WHEREAS: The WHITE CITY METRO TOWNSHIP Council held a public meeting
+regarding the proposed amendment, during the first regularly scheduled public meeting of the
+WHITE CITY METRO TOWNSHIP Council immediately following the period of public notice on
+the 7th day of November 2019; and,
+
+       WHEREAS: The WHITE CITY METRO TOWNSHIP Council has received and carefully
+reviewed the final recommendation from the Planning Commission regarding the proposed
+amendment, the       draft minutes       from the      WHITE CITY METRO TOWNSHIP
+Planning Commission meetings, public hearings, and considered all public input regarding the
+Housing Element to the proposed WHITE CITY METRO TOWNSHIP General Plan Update; and
+
+      WHEREAS: The WHITE CITY METRO TOWNSHIP Council finds the Housing Element to
+the WHITE CITY METRO TOWNSHIP proposed General Plan Update, contains all mandated
+elements of the Utah State Code meets current and future Moderate- income housing needs of
+WHITE CITY METRO TOWNSHIP; and
+
+         WHEREAS: The WHITE CITY METRO TOWNSHIP Council finds the Housing Element to
+the WHITE CITY METRO TOWNSHIP proposed General Plan Update, is in the best interest of
+the health, safety, and welfare of the residents of WHITE CITY METRO TOWNSHIP, considering
+all factors.
+
+
+
+
+                                               9
+DATE            THURSDAY                             NOVEMBER                             14, 2019
+
+
+    NOW, THEREFORE, THE LEGISLATIVE BODY OF THE WHITE CITY METRO
+TOWNSHIP RESOLVES AS FOLLOWS:
+
+        PART I: The City Council of WHITE CITY METRO TOWNSHIP, Salt Lake County, State
+of Utah that WHITE CITY METRO TOWNSHIP hereby adopts Resolution #19- 11-03, adopting
+Amendment “Moderate-Income Housing Element, 2019,” hereinafter known as Exhibit “B” as part
+of the Metro Township's proposed General Plan in compliance with state statutes (Utah Code 10-
+9a-103(38), Utah Code 10-9a-103(47), Utah Code 10-9a-404(5)(c), Utah Code 10-9a-
+403(2)(b)(ii), Utah Code 10-9a-408, and Utah Code 10-9a-401(3)(b)(iii)).
+
+       PART II: A copy of the WHITE CITY METRO TOWNSHIP Housing Element is hereby
+ordered to be filed with and retained by, the WHITE CITY METRO TOWNSHIP Clerk/Recorder.
+
+        PART III: An electronic copy of the Amendment “Moderate-Income Housing Element,
+2019” is hereby ordered to be filed with both the Wasatch Front Regional Council and the Housing
+and Community Development Division of the Utah Department of Workforce Services.
+
+        PART IV: If any of the sections, sentences, clauses or provisions of this general plan shall
+for any reason be adjudged inapplicable or invalid by a court of competent jurisdiction, such shall
+not affect or invalidate the remaining portion contained herein.
+
+         PART V: This resolution, with attachments, shall become effective fifteen (15) days after
+it is passed and upon promulgation through the website of WHITE CITY METRO TOWNSHIP or
+publication in a newspaper having general circulation in the WHITE CITY METRO TOWNSHIP.
+
+        APPROVED AND ADOPTED in the White City Metro Township, Salt Lake County, Utah
+this 14th day of November, 2019.
+
+                                                     By: /s/ PAULINA F FLINT
+                                                         Mayor
+ATTEST
+
+/s/ SHERRIE SWENSEN
+Salt Lake County Clerk
+Metro Township Clerk/Recorder
+
+              Council Member Perry, seconded by Council Member Price, moved to approve
+Resolution No. 19-11-03 with amendments. The motion passed unanimously.
+
+                                  ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+White City Metro Township Council Member Reports
+
+Unified Police Department (UPD) & Salt Lake Valley Law Enforcement Service Area (SLVLESA)
+
+
+
+
+                                                10
+DATE            THURSDAY                             NOVEMBER                             14, 2019
+
+
+               Nothing to report.
+
+                                    −−−−−−−−−−−−−−
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+
+              Council Member Perry stated an interlocal agreement between UFA and the
+member cities was approved and will come to the Council for review next month. UFA is in the
+process of adopting its budget. UFSA is going through the grant writing process to fund fire station
+upgrades to bring it into compliance.
+
+                                    −−−−−−−−−−−−−−
+South Salt Lake Valley Mosquito Abatement District
+
+                Council Member Price stated seasonal employees are gone until next year.
+Testing will be brought in-house, pricing will be same but the results will come back sooner. Moab
+City identified a new mosquito, Aedes Aegypti, that is aggressive and carries Zika and West Nile
+Virus.
+
+                                    −−−−−−−−−−−−−−
+Greater Salt Lake Municipal Services District (GSLMSD)
+
+              Mayor Flint stated an associate general manager and treasurer was hired. The
+GSLMSD has 30 employees, 6 administrators, and there are currently positions open for hire. A
+new system is being put in place to allow 3D imaging of a development.
+
+                                    −−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+
+               Council Member Dickerson stated costs for recycling and trash disposal will
+increase in 2020.
+
+                                    −−−−−−−−−−−−−−
+Council of Governments (COG)
+
+               Mayor Flint stated legislative issues will be talked about during the next meeting.
+
+                                    ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                     Staff or Committee Reports
+
+
+
+
+                                                11
+DATE            THURSDAY                               NOVEMBER                              14, 2019
+
+
+Legislative Update
+
+               Paul Ashton stated legislative issues are being finalized and a new issue has
+come up regarding the certification of official election results. He will be looking into the timeframe
+in which votes are canvassed.
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+              THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+
+                                       ___________________________________________
+                                       MAYOR, WHITE CITY METRO TOWNSHIP COUNCIL
+
+
+SHERRIE SWENSEN
+METRO TOWNSHIP CLERK
+
+
+
+By ________________________________
+       Deputy Clerk
+
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+
+
+
+                                                  12
+

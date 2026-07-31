@@ -1,0 +1,24 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "8-14-23", "recipient": "Midvale City", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false},
+    {"date": "8-18-23", "recipient": "Salt Lake County", "purpose": "Voters List", "amount": "15.00", "in_kind": false},
+    {"date": "9-8-23", "recipient": "Next Day Flyers", "purpose": "Door Hangers", "amount": "390.96", "in_kind": false},
+    {"date": "9-12-23", "recipient": "Sugarhouse Print Solutions", "purpose": "Yard Signs", "amount": "156.59", "in_kind": false},
+    {"date": "10-4-23", "recipient": "Deseret News Publishing", "purpose": "Mailers", "amount": "1,119.16", "in_kind": false},
+    {"date": "10-10-23", "recipient": "Deseret News Publishing", "purpose": "Postage", "amount": "669.97", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "2376.68",
+  "ending_balance": "2376.68",
+  "_meta": {
+    "index_path": "raw/state/2023_state_Bart-Benson_Election-CF-Statement.pdf",
+    "candidate": "Bart Benson",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/state/2023_state_Bart-Benson_Election-CF-Statement.pdf",
+    "pages": 3,
+    "note": "STATE-portal copy (raw/state/). The rendered form is the GENERAL ELECTION REPORT (Nov 14, 2023 type box checked), signed 11/8/23, stamped 'Rec'd November 13, 2023 11:10am' — a cumulative restatement that duplicates the interim (raw/2023_01_Bart-Benson.pdf) expenditure schedule verbatim (same six rows and totals). Itemized contribution table blank; Total value of contributions = 0. Balance entered as positive 2376.68 (not negated). Looks like a cumulative year-end/general restatement of the interim; dedup happens downstream. Cover totals copied verbatim, not reconciled."
+  }
+}

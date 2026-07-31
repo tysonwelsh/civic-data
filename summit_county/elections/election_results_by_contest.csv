@@ -1,0 +1,344 @@
+year,election_type,contest,jurisdiction_slug,office,district,seats,candidate,party,votes,rank_in_contest,n_precincts,suppressed,source_file
+2006,general,COUNTY ASSESSOR,summit_county,County Assessor,,,BARBARA J. KRESSER (DEM),DEM,9337,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY ASSESSOR,summit_county,County Assessor,,,Write-In Votes,,55,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY ATTORNEY,summit_county,County Attorney,,,DAVID R. BRICKEY (REP),REP,7491,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY ATTORNEY,summit_county,County Attorney,,,Write-In Votes,,185,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY AUDITOR,summit_county,County Auditor,,,BLAKE L. FRAZIER (DEM),DEM,9041,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY AUDITOR,summit_county,County Auditor,,,Write-In Votes,,49,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY CLERK,summit_county,County Clerk,,,KENT H. JONES (DEM),DEM,7447,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY CLERK,summit_county,County Clerk,,,KATHY DOPP (DES),DES,2256,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY CLERK,summit_county,County Clerk,,,Write-In Votes,,53,3,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY COMM A,summit_county,County Commission,Seat A,,"ROBERT ""BOB"" RICHER (DEM)",DEM,6404,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY COMM A,summit_county,County Commission,Seat A,,WILLIAM G. MILES (REP),REP,4536,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY COMM A,summit_county,County Commission,Seat A,,Write-In Votes,,10,3,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY COMM B,summit_county,County Commission,Seat B,,K. WOOLSTENHULME (DEM),DEM,8620,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY COMM B,summit_county,County Commission,Seat B,,Write-In Votes,,170,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY RECORDER,summit_county,County Recorder,,,ALAN SPRIGGS (DEM),DEM,8997,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY RECORDER,summit_county,County Recorder,,,Write-In Votes,,21,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY SHERIFF,summit_county,County Sheriff,,,DAVID A. EDMUNDS (REP),REP,7028,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY SHERIFF,summit_county,County Sheriff,,,Write-In Votes,,2401,2,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY SHERIFF,summit_county,County Sheriff,,,Brody Taylor,,0,3,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY TREASURER,summit_county,County Treasurer,,,GLEN G. THOMPSON (REP),REP,8169,1,41,false,raw/2006_general_precinct.pdf
+2006,general,COUNTY TREASURER,summit_county,County Treasurer,,,Write-In Votes,,55,2,41,false,raw/2006_general_precinct.pdf
+2008,general,SEAT A,summit_county,County Council,Seat A,,"ELLIOTT, SALLY (DEM)",DEM,9366,1,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT A,summit_county,County Council,Seat A,,"MILES, WILLIAM ""BILL (REP)",REP,6792,2,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT A,summit_county,County Council,Seat A,,Write-In Votes,,10,3,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT B,summit_county,County Council,Seat B,,"McMULLIN, CLAUDIA (DEM)",DEM,8806,1,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT B,summit_county,County Council,Seat B,,"RICHINS, GRANT (REP)",REP,7109,2,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT B,summit_county,County Council,Seat B,,Write-In Votes,,12,3,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT C,summit_county,County Council,Seat C,,"HANRAHAN, JOHN (DEM)",DEM,9724,1,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT C,summit_county,County Council,Seat C,,"HURD, THOMAS L. (REP)",REP,6032,2,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT C,summit_county,County Council,Seat C,,Write-In Votes,,7,3,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT D,summit_county,County Council,Seat D,,"ROBINSON, CHRISTOPHE (DEM)",DEM,8039,1,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT D,summit_county,County Council,Seat D,,"PITT, ALISON (REP)",REP,6093,2,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT D,summit_county,County Council,Seat D,,"SHUMWAY, GARY (CON)",CON,1553,3,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT D,summit_county,County Council,Seat D,,Write-In Votes,,8,4,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT E,summit_county,County Council,Seat E,,"URE, DAVID (REP)",REP,8259,1,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT E,summit_county,County Council,Seat E,,"WEINSTEIN, STEVE (DEM)",DEM,7586,2,48,false,raw/2008_general_precinct.pdf
+2008,general,SEAT E,summit_county,County Council,Seat E,,Write-In Votes,,9,3,48,false,raw/2008_general_precinct.pdf
+2010,general,ASSESSOR,summit_county,County Assessor,,,"MARTIN, STEVE (DEM)",DEM,5969,1,49,false,raw/2010_general_precinct.pdf
+2010,general,ASSESSOR,summit_county,County Assessor,,,"HUNT, ROBERT D. (REP)",REP,5074,2,49,false,raw/2010_general_precinct.pdf
+2010,general,ASSESSOR,summit_county,County Assessor,,,Write-In Votes,,2,3,49,false,raw/2010_general_precinct.pdf
+2010,general,ATTORNEY,summit_county,County Attorney,,,"BRICKEY, DAVID (REP)",REP,8270,1,49,false,raw/2010_general_precinct.pdf
+2010,general,ATTORNEY,summit_county,County Attorney,,,Write-In Votes,,105,2,49,false,raw/2010_general_precinct.pdf
+2010,general,AUDITOR,summit_county,County Auditor,,,"FRAZIER, BLAKE (DEM)",DEM,8626,1,49,false,raw/2010_general_precinct.pdf
+2010,general,AUDITOR,summit_county,County Auditor,,,Write-In Votes,,73,2,49,false,raw/2010_general_precinct.pdf
+2010,general,CLERK,summit_county,County Clerk,,,"JONES, KENT H. (DEM)",DEM,6672,1,49,false,raw/2010_general_precinct.pdf
+2010,general,CLERK,summit_county,County Clerk,,,"MOTTO, RICHARD (REP)",REP,4158,2,49,false,raw/2010_general_precinct.pdf
+2010,general,CLERK,summit_county,County Clerk,,,Write-In Votes,,3,3,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT D,summit_county,County Council,Seat D,,"ROBINSON, CHRISTOPHE (DEM)",DEM,6206,1,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT D,summit_county,County Council,Seat D,,"SHUMWAY, GARY (CON)",CON,4043,2,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT D,summit_county,County Council,Seat D,,Write-In Votes,,29,3,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT E,summit_county,County Council,Seat E,,"URE, DAVID (REP)",REP,6548,1,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT E,summit_county,County Council,Seat E,,"SIMPSON, KAYCEE (DEM)",DEM,4478,2,49,false,raw/2010_general_precinct.pdf
+2010,general,COUNCIL SEAT E,summit_county,County Council,Seat E,,Write-In Votes,,8,3,49,false,raw/2010_general_precinct.pdf
+2010,general,RECORDER,summit_county,County Recorder,,,"SPRIGGS, ALAN (DEM)",DEM,8534,1,49,false,raw/2010_general_precinct.pdf
+2010,general,RECORDER,summit_county,County Recorder,,,Write-In Votes,,73,2,49,false,raw/2010_general_precinct.pdf
+2010,general,SHERIFF,summit_county,County Sheriff,,,"EDMUNDS, DAVE (REP)",REP,6553,1,49,false,raw/2010_general_precinct.pdf
+2010,general,SHERIFF,summit_county,County Sheriff,,,"SHANE, DAX (DEM)",DEM,4774,2,49,false,raw/2010_general_precinct.pdf
+2010,general,SHERIFF,summit_county,County Sheriff,,,Write-In Votes,,16,3,49,false,raw/2010_general_precinct.pdf
+2010,general,TREASURER,summit_county,County Treasurer,,,"KIRKLEN, CORRIE (DEM)",DEM,5556,1,49,false,raw/2010_general_precinct.pdf
+2010,general,TREASURER,summit_county,County Treasurer,,,"GLASHEEN, HENRY (REP)",REP,5378,2,49,false,raw/2010_general_precinct.pdf
+2010,general,TREASURER,summit_county,County Treasurer,,,Write-In Votes,,4,3,49,false,raw/2010_general_precinct.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Coleman,,230,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Judd,,170,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Richins,,167,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Brundy,,166,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Price,,75,5,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Leyba,,46,6,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Coalville City Council,coalville,Council,,,Write-in Votes,,7,7,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Francis City Council,francis,Council,,,Forman,,171,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Francis City Council,francis,Council,,,Crittenden,,166,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Francis City Council,francis,Council,,,Prescott,,88,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Francis City Council,francis,Council,,,Major,,53,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Francis City Council,francis,Council,,,Write-in Votes,,4,5,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Henefer Town Council,henefer,Council,,,Housley,,151,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Henefer Town Council,henefer,Council,,,Butler,,115,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Henefer Town Council,henefer,Council,,,Marvin Jensen,,63,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Henefer Town Council,henefer,Council,,,Write-in Votes,,8,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Todd,,164,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Littledike,,139,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Crystal,,138,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Atkinson,,118,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Miles,,109,5,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Latham,,79,6,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Kamas City Council,kamas,Council,,,Write-in Votes,,1,7,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Bowen,,172,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,England,,160,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Rose,,148,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Morrison,,101,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Elbert,,74,5,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Lee,,62,6,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Oakley City Council,oakley,Council,,,Write-in Votes,,3,7,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Park City Municipal Council,park_city,Council,,,Peek,,879,1,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Park City Municipal Council,park_city,Council,,,Beerman,,870,2,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Park City Municipal Council,park_city,Council,,,Simpson,,794,3,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Park City Municipal Council,park_city,Council,,,Bransford,,300,4,0,false,raw/2011_special_summary.pdf
+2011,municipal general,Park City Municipal Council,park_city,Council,,,Write-in Votes,,22,5,0,false,raw/2011_special_summary.pdf
+2012,general,Council Seat A,summit_county,County Council,Seat A,,ARMSTRONG (DEM),DEM,8257,1,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat A,summit_county,County Council,Seat A,,GREENHALGH (REP),REP,7956,2,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat A,summit_county,County Council,Seat A,,Write-In Votes,,32,3,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat B,summit_county,County Council,Seat B,,McMULLIN (DEM),DEM,8237,1,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat B,summit_county,County Council,Seat B,,POLLARD (REP),REP,8036,2,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat B,summit_county,County Council,Seat B,,Write-In Votes,,43,3,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat C,summit_county,County Council,Seat C,,CARSON (DEM),DEM,9258,1,50,false,raw/2012_general_precinct.pdf
+2012,general,Council Seat C,summit_county,County Council,Seat C,,Write-In Votes,,1602,2,50,false,raw/2012_general_precinct.pdf
+2014,general,ASSESSOR,summit_county,County Assessor,,,MARTIN DEM,DEM,8019,1,49,false,raw/2014_general_summary.pdf
+2014,general,ATTORNEY,summit_county,County Attorney,,,HILDER DEM,DEM,5440,1,49,false,raw/2014_general_summary.pdf
+2014,general,ATTORNEY,summit_county,County Attorney,,,BRICKEY REP,REP,5055,2,49,false,raw/2014_general_summary.pdf
+2014,general,AUDITOR,summit_county,County Auditor,,,HOWARD DEM,DEM,5230,1,49,false,raw/2014_general_summary.pdf
+2014,general,AUDITOR,summit_county,County Auditor,,,SHUMWAY REP,REP,5174,2,49,false,raw/2014_general_summary.pdf
+2014,general,CLERK,summit_county,County Clerk,,,JONES DEM,DEM,6350,1,49,false,raw/2014_general_summary.pdf
+2014,general,CLERK,summit_county,County Clerk,,,COLEMAN REP,REP,3947,2,49,false,raw/2014_general_summary.pdf
+2014,general,COUNCIL SEAT D,summit_county,County Council,Seat D,,ROBINSON DEM,DEM,5954,1,49,false,raw/2014_general_summary.pdf
+2014,general,COUNCIL SEAT D,summit_county,County Council,Seat D,,WILLIAMS REP,REP,4584,2,49,false,raw/2014_general_summary.pdf
+2014,general,COUNCIL SEAT E,summit_county,County Council,Seat E,,URE REP,REP,5469,1,49,false,raw/2014_general_summary.pdf
+2014,general,COUNCIL SEAT E,summit_county,County Council,Seat E,,WHARTON DEM,DEM,5103,2,49,false,raw/2014_general_summary.pdf
+2014,general,SHERIFF,summit_county,County Sheriff,,,MARTINEZ DEM,DEM,7190,1,49,false,raw/2014_general_summary.pdf
+2014,general,SHERIFF,summit_county,County Sheriff,,,HENDRICKSEN REP,REP,3432,2,49,false,raw/2014_general_summary.pdf
+2014,general,TREASURER,summit_county,County Treasurer,,,FORSLING DEM,DEM,5332,1,49,false,raw/2014_general_summary.pdf
+2014,general,TREASURER,summit_county,County Treasurer,,,YOST REP,REP,5085,2,49,false,raw/2014_general_summary.pdf
+2015,municipal general,COALVILLE CITY 2yr,coalville,Council,2 Year,,CODY BLONQUIST,,184,1,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 2yr,coalville,Council,2 Year,,EDWARD KEYES,,37,2,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,ARLIN B JUDD,,134,1,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,TYLER J ROWSER,,126,2,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,ADRIANNE ANSON,,124,3,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,STEVEN B RICHINS,,97,4,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,COLBY G WILLOUGHBY,,77,5,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,COALVILLE CITY 4 Yr,coalville,Council,4 Year,,WALTER BROCK,,70,6,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,KAMAS CITY,kamas,Council,,,MONICA K BLAZZARD,,157,1,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,KAMAS CITY,kamas,Council,,,KEVAN N TODD,,155,2,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,KAMAS CITY,kamas,Council,,,MICHAEL J CRYSTAL,,144,3,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,KAMAS CITY,kamas,Council,,,MATT MCCORMICK,,129,4,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,OAKLEY CITY 2 Yr,oakley,Council,2 Year,,AMY RYDALCH,,232,1,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,OAKLEY CITY 4 yr,oakley,Council,4 Year,,TOM SMART,,183,1,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,OAKLEY CITY 4 yr,oakley,Council,4 Year,,JOE B FRAZIER,,175,2,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,OAKLEY CITY 4 yr,oakley,Council,4 Year,,LORRIE J HOGGAN,,151,3,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,OAKLEY CITY 4 yr,oakley,Council,4 Year,,MONT J FLYGARE,,135,4,1,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,ANDY BEERMAN,,1265,1,10,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,NANN WOREL,,1011,2,10,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,BECCA GERBER,,913,3,10,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,RORY MURPHY,,862,4,10,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,HOPE MELVILLE,,688,5,10,false,raw/2015_general_precinct.pdf
+2015,municipal general,PARK CITY MUNICIPAL,park_city,Council,,,DAN PORTWOOD,,293,6,10,false,raw/2015_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT A,summit_county,County Council,Seat A,,ROGER ARMSTRONG (DEM),DEM,14137,1,45,false,raw/2016_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT B,summit_county,County Council,Seat B,,DOUG CLYDE (DEM),DEM,10281,1,45,false,raw/2016_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT B,summit_county,County Council,Seat B,,COLIN DEFORD (REP),REP,8754,2,45,false,raw/2016_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT C,summit_county,County Council,Seat C,,KIM A CARSON (DEM),DEM,13611,1,45,false,raw/2016_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT E,summit_county,County Council,Seat E,,GLENN J WRIGHT (DEM),DEM,10048,1,45,false,raw/2016_general_precinct.pdf
+2016,general,COUNTY COUNCIL SEAT E,summit_county,County Council,Seat E,,TAL ADAIR (REP),REP,9051,2,45,false,raw/2016_general_precinct.pdf
+2018,general,COUNTY ATTORNEY,summit_county,County Attorney,,1,DEM MARGARET OLSON,DEM,14345,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY AUDITOR,summit_county,County Auditor,,1,DEM MICHAEL HOWARD,DEM,14269,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY CLERK,summit_county,County Clerk,,1,DEM KENT H. JONES,DEM,14627,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY COUNCIL SEAT D,summit_county,County Council,Seat D,1,DEM CHRISTOPHER F. ROBINSON,DEM,14417,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY COUNCIL SEAT E,summit_county,County Council,Seat E,1,DEM GLENN J. WRIGHT,DEM,13467,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY COUNCIL SEAT E,summit_county,County Council,Seat E,1,Write-In Totals,,1360,2,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY RECORDER/SURVEYOR,summit_county,County Recorder,,1,DEM RHONDA FRANCIS,DEM,14471,1,51,false,raw/2018_general_precinct.pdf
+2018,general,COUNTY SHERIFF,summit_county,County Sheriff,,1,DEM JUSTIN MARTINEZ,DEM,15019,1,51,false,raw/2018_general_precinct.pdf
+2019,municipal general,Oakley City Council 2 Year,oakley,Council,2 Year,1,RONALD L. BOWEN,,421,1,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Oakley City Council 4 Year,oakley,Council,4 Year,3,DAVE NEFF,,422,1,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Oakley City Council 4 Year,oakley,Council,4 Year,3,JOE B. FRAZIER,,353,2,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Oakley City Council 4 Year,oakley,Council,4 Year,3,TOM SMART,,258,3,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Oakley City Council 4 Year,oakley,Council,4 Year,3,LES F. ENGLAND,,245,4,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Oakley City Council 4 Year,oakley,Council,4 Year,3,LORRIE J. HOGGAN,,201,5,1,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,NANN WOREL,,1562,1,11,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,BECCA GERBER,,1542,2,11,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,MAX DOILNEY,,954,3,11,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,ED PARIGIAN,,773,4,11,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,DEANNA RHODES,,724,5,11,false,raw/2019_general_summary.pdf
+2019,municipal general,Park City Council,park_city,Council,,3,DANIEL LEWIS,,234,6,11,false,raw/2019_general_summary.pdf
+2020,general,Assessor,summit_county,County Assessor,,1,DEM STEPHANIE LARSEN,DEM,17288,1,50,false,raw/2020_general_summary.pdf
+2020,general,Council Seat A,summit_county,County Council,Seat A,1,DEM ROGER ARMSTRONG,DEM,17476,1,50,false,raw/2020_general_summary.pdf
+2020,general,Council Seat B,summit_county,County Council,Seat B,1,DEM DOUGLAS CLYDE,DEM,17249,1,50,false,raw/2020_general_summary.pdf
+2020,general,Council Seat C,summit_county,County Council,Seat C,1,DEM MALENA STEVENS,DEM,17269,1,50,false,raw/2020_general_summary.pdf
+2020,general,Recorder,summit_county,County Recorder,,1,DEM RHONDA FRANCIS,DEM,17607,1,50,false,raw/2020_general_summary.pdf
+2020,general,Treasurer,summit_county,County Treasurer,,1,DEM CORRIE FORSLING,DEM,17440,1,50,false,raw/2020_general_summary.pdf
+2021,municipal general,Coalville Council,coalville,Council,,2,LOUISE WILLOUGHBY,,296,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Coalville Council,coalville,Council,,2,STEVEN B RICHINS,,261,2,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Coalville Council,coalville,Council,,2,STEFANIE BOWEN,,222,3,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Coalville Council,coalville,Council,,2,CHRISTOPHER HORNE,,189,4,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Coalville Mayor,coalville,Mayor,,1,MARK R MARSH,,278,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Coalville Mayor,coalville,Mayor,,1,LYNN WOOD,,228,2,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Kamas Council,kamas,Council,,2,DAVID W. DARCEY,,336,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Kamas Council,kamas,Council,,2,JESSICA ALLEN BATEMAN,,243,2,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Kamas Council,kamas,Council,,2,KANDILEE SAUTER,,234,3,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Kamas Council,kamas,Council,,2,NATALIE RUTH SOUZA,,154,4,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Kamas Mayor,kamas,Mayor,,1,MATT MCCORMICK,,467,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Council,oakley,Council,,2,KELLY KIMBER,,412,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Council,oakley,Council,,2,STEVE M WILMOTH,,270,2,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Council,oakley,Council,,2,CLAYTON PAGE,,208,3,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Council,oakley,Council,,2,MARISSA DILLMAN,,190,4,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Mayor,oakley,Mayor,,1,ZANE K. WOOLSTENHULME,,299,1,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Oakley Mayor,oakley,Mayor,,1,JOE B. FRAZIER,,267,2,1,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Council,park_city,Council,,2,TANA TOLY,,2208,1,11,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Council,park_city,Council,,2,JEREMY RUBELL,,2130,2,11,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Council,park_city,Council,,2,TIM B HENNEY,,1439,3,11,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Council,park_city,Council,,2,Withdrawn,,0,4,11,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Mayor,park_city,Mayor,,1,NANN WOREL,,2048,1,11,false,raw/2021_general_summary.pdf
+2021,municipal general,Park City Mayor,park_city,Mayor,,1,ANDY BEERMAN,,1317,2,11,false,raw/2021_general_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Louise Willoughby,,198,1,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Stefanie Bowen,,108,2,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Christopher Horne,,90,3,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Steven B. Richins,,88,4,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Drew Robinson,,85,5,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Brandon Brady,,81,6,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Kelly Ovard,,68,7,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville City Council,coalville,Council,,2,Gibeon Robbins,,46,8,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville Mayor,coalville,Mayor,,1,Mark R. Marsh,,207,1,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville Mayor,coalville,Mayor,,1,Lynn Wood,,173,2,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Coalville Mayor,coalville,Mayor,,1,Tyler Rowser,,12,3,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Kelly Kimber,,245,1,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Clayton Page,,152,2,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Steve M. Wilmoth,,134,3,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Marissa Dillman,,89,4,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Jane Sorensen Lewis,,85,5,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Eric Kendell Woolstenhulme,,74,6,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Oakley City Council,oakley,Council,,2,Betty Ann Heck,,29,7,1,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Tana Toly,,1351,1,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Jeremy Rubell,,1246,2,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Tim B. Henney,,806,3,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Thomas C. Purcell,,327,4,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,John Greenfield,,292,5,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Daniel Lewis,,156,6,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Jamison Brandi,,147,7,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Council,park_city,Council,,2,Michael J. Franchek,,52,8,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Mayor,park_city,Mayor,,1,Nann Worel,,1393,1,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Mayor,park_city,Mayor,,1,Andy Beerman,,738,2,11,false,raw/2021_municipal_primary_summary.pdf
+2021,municipal primary,Park City Mayor,park_city,Mayor,,1,David A. Dobkin,,367,3,11,false,raw/2021_municipal_primary_summary.pdf
+2022,general,Summit County Attorney,summit_county,County Attorney,,1,DEM MARGARET OLSON,DEM,13763,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Auditor,summit_county,County Auditor,,1,DEM CINDY MARCHANT KEYES,DEM,14191,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Clerk,summit_county,County Clerk,,1,DEM EVE FURSE,DEM,14149,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Clerk,summit_county,County Clerk,,1,Write-In: DAWN MATHIESEN LANGSTON,,468,2,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Clerk,summit_county,County Clerk,,1,Write-In: INVALID,,283,3,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Clerk,summit_county,County Clerk,,1,Not Assigned,,0,4,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Council Seat D,summit_county,County Council,Seat D,1,DEM CHRISTOPHER F. ROBINSON,DEM,11295,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Council Seat D,summit_county,County Council,Seat D,1,REP HOLLY MCCLURE,REP,8448,2,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Council Seat E,summit_county,County Council,Seat E,1,DEM CANICE HARTE,DEM,10891,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Council Seat E,summit_county,County Council,Seat E,1,"REP JOHN ""JACK"" MURPHY",REP,8359,2,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Council Seat E,summit_county,County Council,Seat E,1,Withdrawn,,0,3,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Sheriff,summit_county,County Sheriff,,1,DEM JUSTIN MARTINEZ,DEM,14962,1,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Sheriff,summit_county,County Sheriff,,1,Write-In: INVALID,,754,2,65,false,raw/2022_general_summary.pdf
+2022,general,Summit County Sheriff,summit_county,County Sheriff,,1,Not Assigned,,0,3,65,false,raw/2022_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,LYNN WOOD,,230,1,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,SHAUN H. POWIS,,215,2,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,BRANDON BRADY,,164,3,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,STEFANIE BOWEN,,154,4,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,TYLER ROWSER,,100,5,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Coalville City Council Member,coalville,Council,,3,CINDY PADGETT,,98,6,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Kamas City Council Member,kamas,Council,,3,MONICA K. BLAZZARD,,312,1,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Kamas City Council Member,kamas,Council,,3,LESLIE C STAPLES,,298,2,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Kamas City Council Member,kamas,Council,,3,LARRY GINES,,282,3,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Kamas City Council Member,kamas,Council,,3,JUSTIN REBER,,157,4,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Oakley City Council Member,oakley,Council,,3,DAVE NEFF,,364,1,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Oakley City Council Member,oakley,Council,,3,JOE B. FRAZIER,,322,2,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Oakley City Council Member,oakley,Council,,3,TOM SMART,,224,3,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Oakley City Council Member,oakley,Council,,3,KELLY EDWARDS,,183,4,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Oakley City Council Member,oakley,Council,,3,KERBEE LEAVITT ATKINSON,,174,5,2,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,RYAN DICKEY,,1778,1,11,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,ED PARIGIAN,,1311,2,11,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,BILL CIRACO,,1158,3,11,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,BOB SERTNER,,1084,4,11,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,MATTHEW NAGIE,,972,5,11,false,raw/2023_general_summary.pdf
+2023,municipal general,Park City Council Member,park_city,Council,,3,JOHN GREENFIELD,,557,6,11,false,raw/2023_general_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,LYNN WOOD,,210,1,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,SHAUN H. POWIS,,183,2,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,STEFANIE BOWEN,,127,3,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,BRANDON BRADY,,118,4,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,TYLER ROWSER,,97,5,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,CINDY PADGETT,,95,6,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Coalville City Council Member,coalville,Council,,3,DAVID N ANDERSON,,21,7,2,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,RYAN DICKEY,,1364,1,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,ED PARIGIAN,,844,2,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,MATTHEW NAGIE,,828,3,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,BOB SERTNER,,745,4,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,JOHN GREENFIELD,,599,5,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,BILL CIRACO,,585,6,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,JODY WHITESIDES,,338,7,11,false,raw/2023_municipal_primary_summary.pdf
+2023,municipal primary,Park City Council Member,park_city,Council,,3,"DAVID ""PICKLEBALL TRAFFIC"" DOBKIN",,216,8,11,false,raw/2023_municipal_primary_summary.pdf
+2024,general,Summit County Assessor,summit_county,County Assessor,,1,DEM STEPHANIE POLL,DEM,17139,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Council Seat A,summit_county,County Council,Seat A,1,DEM ROGER ARMSTRONG,DEM,12945,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Council Seat A,summit_county,County Council,Seat A,1,REP TORY WELCH,REP,11842,2,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Council Seat B,summit_county,County Council,Seat B,1,DEM TONJA BLONQUIST HANSON,DEM,17174,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Council Seat C,summit_county,County Council,Seat C,1,DEM MEGAN MARIE MCKENNA,DEM,12520,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Council Seat C,summit_county,County Council,Seat C,1,REP ARI IOANNIDES,REP,12180,2,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Recorder,summit_county,County Recorder,,1,DEM GREG R. WOLBACH,DEM,17261,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Sheriff,summit_county,County Sheriff,,1,DEM FRANCIS ANTHONY SMITH,DEM,17534,1,74,true,raw/2024_general_summary.pdf
+2024,general,Summit County Treasurer,summit_county,County Treasurer,,1,DEM CORRIE FORSLING,DEM,17398,1,74,true,raw/2024_general_summary.pdf
+2025,municipal general,Coalville City Council,coalville,Council,,2,MATTHEW BOYER,,321,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Coalville City Council,coalville,Council,,2,JEFF M PETERSON,,303,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Coalville City Council,coalville,Council,,2,ANDREW EDWARD NELSON,,200,3,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Coalville City Council,coalville,Council,,2,STEVEN BINGHAM RICHINS,,151,4,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Coalville City Mayor,coalville,Mayor,,1,RORY THOMAS SWENSEN,,276,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Coalville City Mayor,coalville,Mayor,,1,LYNN WOOD,,251,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Council,francis,Council,,2,RILEY J. ATKINSON,,327,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Council,francis,Council,,2,CLAYTON WILSON QUERRY,,283,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Council,francis,Council,,2,LYNSI STONE,,280,3,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Council,francis,Council,,2,SHANA JAI FRYER,,217,4,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Mayor,francis,Mayor,,1,JEREMIE FORMAN,,351,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Francis City Mayor,francis,Mayor,,1,BYRON LANSING AMES,,234,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Henefer Town Mayor,henefer,Mayor,,1,KAY H. RICHINS,,189,1,1,false,raw/2025_general_summary.pdf
+2025,municipal general,Henefer Town Mayor,henefer,Mayor,,1,JAMES ALFRED REES,,167,2,1,false,raw/2025_general_summary.pdf
+2025,municipal general,Kamas City Council,kamas,Council,,2,DAVID W. DARCEY,,377,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Kamas City Council,kamas,Council,,2,MICHAEL K GEORGI,,339,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Kamas City Council,kamas,Council,,2,STEVE CYR,,186,3,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Oakley City Council,oakley,Council,,2,CHRISTOPHER L DILLMAN,,442,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Oakley City Council,oakley,Council,,2,AMY REGAN,,386,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Oakley City Council,oakley,Council,,2,KERBEE LEAVITT,,304,3,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Oakley City Mayor,oakley,Mayor,,1,STEVEN M WILMOTH,,435,1,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Oakley City Mayor,oakley,Mayor,,1,ZANE K. WOOLSTENHULME,,211,2,2,false,raw/2025_general_summary.pdf
+2025,municipal general,Park City Council,park_city,Council,,2,TANA TOLY,,2337,1,11,true,raw/2025_general_summary.pdf
+2025,municipal general,Park City Council,park_city,Council,,2,DIEGO ZEGARRA,,2016,2,11,true,raw/2025_general_summary.pdf
+2025,municipal general,Park City Council,park_city,Council,,2,JEREMY RUBELL,,1530,3,11,true,raw/2025_general_summary.pdf
+2025,municipal general,Park City Mayor,park_city,Mayor,,1,RYAN DICKEY,,1706,1,11,true,raw/2025_general_summary.pdf
+2025,municipal general,Park City Mayor,park_city,Mayor,,1,JACK RUBIN,,1699,2,11,true,raw/2025_general_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,MATTHEW BOYER,,223,1,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,JEFF M PETERSON,,196,2,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,ANDREW EDWARD NELSON,,85,3,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,STEVEN BINGHAM RICHINS,,71,4,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,CHRIS TOMCZYK,,45,5,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Council,coalville,Council,,2,Withdrawn,,0,6,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Mayor,coalville,Mayor,,1,RORY THOMAS SWENSEN,,172,1,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Mayor,coalville,Mayor,,1,LYNN WOOD,,132,2,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Mayor,coalville,Mayor,,1,WALTER WILLIAM BROCK,,45,3,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Coalville City Mayor,coalville,Mayor,,1,TYLER J ROWSER,,39,4,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,RILEY J. ATKINSON,,177,1,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,LYNSI STONE,,122,2,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,CLAYTON WILSON QUERRY,,121,3,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,SHANA JAI FRYER,,97,4,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,JUSTIN CIAMPI,,60,5,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Francis City Council,francis,Council,,2,SCOTT IAN BUCHANAN,,32,6,2,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Henefer Town Mayor,henefer,Mayor,,1,KAY H. RICHINS,,131,1,1,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Henefer Town Mayor,henefer,Mayor,,1,JAMES ALFRED REES,,104,2,1,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Henefer Town Mayor,henefer,Mayor,,1,DAWN M. LANGSTON,,13,3,1,false,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,TANA TOLY,,1081,1,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,DIEGO ZEGARRA,,972,2,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,JEREMY RUBELL,,648,3,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,"JOHN ""J.K."" KENWORTHY",,563,4,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,BETH ARMSTRONG,,538,5,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,DANNY GLASSER,,520,6,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,MOLLY MILLER,,432,7,12,true,raw/2025_primary_summary.pdf
+2025,municipal primary,Park City Council,park_city,Council,,2,IAN HARTLEY,,205,8,12,true,raw/2025_primary_summary.pdf
+2026,primary,Democratic Candidate for Summit County Council District 4,summit_county,County Council,District 4,1,CHRISTIE BABALIS,,436,1,9,false,raw/2026_primary_summary.pdf
+2026,primary,Democratic Candidate for Summit County Council District 4,summit_county,County Council,District 4,1,JOHN KUCERA,,386,2,9,false,raw/2026_primary_summary.pdf
+2026,primary,Democratic Candidate for Summit County Council District 5,summit_county,County Council,District 5,1,CANICE HARTE,,361,1,11,false,raw/2026_primary_summary.pdf
+2026,primary,Democratic Candidate for Summit County Council District 5,summit_county,County Council,District 5,1,MEREDITH REED,,346,2,11,false,raw/2026_primary_summary.pdf

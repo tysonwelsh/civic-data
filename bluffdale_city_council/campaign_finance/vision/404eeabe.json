@@ -1,0 +1,19 @@
+{
+  "contributions": [
+    {"date": null, "name": "Lynn Watterson", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Salt Lake Board of Realtors", "amount": "2000", "in_kind": false},
+    {"date": null, "name": "Wendy W. Aston", "amount": "916.42", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Smith + Edwards", "purpose": "candy", "amount": "69.80", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake Mailing + Printing", "purpose": null, "amount": "1,383.05", "in_kind": false},
+    {"date": null, "recipient": "United States Postal Service", "purpose": null, "amount": "509.77", "in_kind": false},
+    {"date": null, "recipient": "Victory Companies", "purpose": null, "amount": "657.63", "in_kind": false},
+    {"date": null, "recipient": "Brown Sign", "purpose": null, "amount": "200.00", "in_kind": false},
+    {"date": null, "recipient": "Tractor Supply", "purpose": "T-Posts", "amount": "35.08", "in_kind": false},
+    {"date": null, "recipient": "Facebook ads", "purpose": null, "amount": "213.12", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake County", "purpose": null, "amount": "52.00", "in_kind": false},
+    {"date": null, "recipient": "Home Depot", "purpose": "T-posts, zip ties, stakes, wire, wood", "amount": "95.97", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "3,016.42", "total_expenditures": "3,216.42"}
+}

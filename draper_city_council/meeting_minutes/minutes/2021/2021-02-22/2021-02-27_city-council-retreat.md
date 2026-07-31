@@ -1,0 +1,131 @@
+# City Council Retreat
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=408&doc_id=5e87ea64-8759-11eb-96cb-0050569183fa
+> Meeting date: 2021-02-27
+> Format: text
+
+Approved March 16, 2021
+
+THE MINUTES OF THE DRAPER CITY COUNCIL MEETING RETREAT HELD ON SATURDAY,
+FEBRUARY 27, 2021, IN THE VELVET ROOM AT THANKSGIVING POINT 3003 NORTH
+THANKSGIVING WAY
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Tasha Lowery, Fred Lowry,
+                    Cal Roberts, and Marsha Vawdrey
+EXCUSED:            Councilmember Mike Green
+
+STAFF PRESENT:      David Dobbins, City Manager; Laura Oscarson, City Recorder; Kellie
+                    Challburg, Chief of Staff; Bret Millburn, Assistant City Manager; Jake
+                    Sorensen, Network Administrator
+OTHER:              Jeff Hartley
+
+
+CALL TO ORDER by Mayor Troy Walker at 10:18 am
+
+1.0   Andy Ballard Arena events: The discussion began by reviewing the time needed to
+      plan big events for the Andy Ballard Arena. With the uncertainty caused by the
+      pandemic, it is unclear how many people can be seated in the Arena and whether
+      residents are ready for a crowded event. Deposits need to be paid before the event
+      and if the event is canceled, the deposits are not always refundable.
+
+      The history of the Moto-challenge and the money spent on past events was
+      reviewed. Council members agreed that the Moto-Challenge would attract riders
+      and spectators from outside of Draper, even from out of state.
+
+      There was discussion about what percentage of other cities are planning summer
+      activities or events, how much staff time would be required to hold events, whether
+      mass gathering permits would be needed, and the idea of holding smaller
+      “neighborhood” events throughout the city, rather than one or two big events.
+
+
+2.0   Draper Days: Discussion about Draper Days Events centered around how big the
+      event would be in 2021. The consensus was that there would be no booths and that
+      the committee was looking at fireworks and a concert. There was a discussion about
+      the number of attendees and how to limit the crowds to a safe number.
+
+
+3.0   Food Truck Court: Staff was looking at whether local restaurants had objections to a
+      food truck court. There was discussion about locations for a court, legal aspects of
+      allowing a court, and whether having food trucks come to various parks would be
+      preferable.
+4.0   Eduroam: The council discussed the feasibility of installing Eduroam Wifi throughout
+      the city to help those who do not have internet access in their home. This is an
+      initiative of the Canyons School District, called the Canyons Connect Initiative. There
+      aren’t internet connections at most of the parks and Salt Lake County was
+      concerned about liability. Some cities were using mobile options.
+
+
+5.0   Canyons Educational Foundation: The Foundation does a gala every year, but last
+      year the gala was canceled and the money the city paid was used as a contribution.
+      There was a discussion about how the city would support the Foundation.
+
+*** Mayor Walker left the meeting at 10:50 am
+
+
+6.0   All-abilities Park: The discussion began by reviewing where the City stood on
+      creating an All-abilities park. The county funding is tied to tourism and it was unclear
+      when the funds would be available to help pay for an All-Abilities Park.
+
+**** Mayor Walker returned to the meeting at 10:55 am
+
+      Jenson Farms Park was a possible location for an All-Abilities park because it had not
+      been built yet.
+
+      Draper Park was another suggestion for the All-abilities equipment since it had
+      equipment that needed replacement and could be finished sooner.
+
+      Councilmembers discussed what could be put in Draper parks to update them,
+      including ideas to trade volleyball/basketball courts for pickleball courts.
+
+7.0   Parks & Rec programs: Currently the city is renting space for recreation programs
+      from the Canyons School District. The discussion centered on whether there was a
+      need to build a city Recreation Center, possibly one that could be multipurpose.
+      Costs and maintenance were also discussed.
+
+8.0   Tree Commission: The Draper City Municipal Code pertaining to trees is being
+      reviewed by staff to make it clearer for staff and residents. The discussion included
+      how to beautify the city’s entrances, especially at 14600 South. The city would have
+      to work with the Utah Department of Transportation since they own the land
+      around the on and off-ramps
+      The use of water-wise plantings was discussed and how to encourage homeowners
+      to plant water-wise plants.
+       Upper Corner Canyon Road continued closure was discussed for this year due to the
+       lack of water this winter.
+
+
+
+9.0    Vacant Commercial Properties: The council discussed some of the vacant
+       commercial properties in Draper. Everyone agreed that these areas needed to be
+       developed.
+
+10.0 Public Relations: Questions were brought forth about keeping the momentum that
+     had been gained since hiring a Communications Director. The city has done a good
+     job with communication with the residents and needs to continue to push
+     information to residents on the City's website.
+
+11.0 Jeff Hartley, a lobbyist, presented to the council on the bills currently before the
+     Utah State Legislature: Mr. Hartley discussed many of the bills that would
+     affect the City, and how the Utah League of Cities and Towns supports the
+     various cities they represent.
+
+12.0   Draper City Branding: A suggestion was made that Draper become a brand similar
+       to Park City. Draper’s open space and trails are attractive and help bring people and
+       businesses to the city.
+
+13.0   City Staff Support: A Staff Appreciation Day and more interaction between the
+       council and the staff were discussed.
+
+14.0   Boards and Commissions: There was a discussion about how the Boards and
+       Commissions can be better supported. Suggestions ranged from having each Board
+       report to the Council annually, updating City Code for clarity, and annual direction
+       from the Council.
+
+15.0   Chamber of Commerce: The City currently pays dues to both the South Valley
+       Chamber of Commerce and the Draper Chamber of Commerce. It would be ideal if
+       both of them would work together.
+
+       Council members stated they would like to bring back the Brown Bag Lunch with a
+       Councilmember or something similar, possibly starting in April.
+
+16.0   Adjournment: Councilmember F. Lowry Moved to adjourn the retreat. The meeting
+       adjourned at 1:06 pm
+

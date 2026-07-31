@@ -1,0 +1,65 @@
+{
+ "config": {
+  "contest": "2023 Genola City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Genola, Utah",
+  "office": "City Council",
+  "threshold": "133"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "BRYAN LEROY": 18.0,
+    "CORINNE AAGARD": 53.0,
+    "NEIL BROWN": 101.0,
+    "STAN JUDD": 111.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "BRYAN LEROY",
+     "transfers": {
+      "CORINNE AAGARD": 10.0,
+      "NEIL BROWN": 4.0,
+      "STAN JUDD": 1.0,
+      "Inactive Ballots": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "CORINNE AAGARD": 63.0,
+    "NEIL BROWN": 105.0,
+    "STAN JUDD": 112.0,
+    "Inactive Ballots": 3.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CORINNE AAGARD",
+     "transfers": {
+      "NEIL BROWN": 16.0,
+      "STAN JUDD": 31.0,
+      "Inactive Ballots": 16.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "NEIL BROWN": 121.0,
+    "STAN JUDD": 143.0,
+    "Inactive Ballots": 19.0
+   },
+   "tallyResults": [
+    {
+     "elected": "STAN JUDD",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

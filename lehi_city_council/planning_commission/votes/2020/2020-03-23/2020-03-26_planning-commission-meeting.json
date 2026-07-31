@@ -1,0 +1,132 @@
+{
+ "date": "2020-03-26",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2020/2020-03-23/2020-03-26_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Matt Hemmert",
+  "Abram Nielsen",
+  "Brent Everett",
+  "Scott Bunker",
+  "Bill Hereth",
+  "Tyson Eyre",
+  "Gregory Jackson"
+ ],
+ "members_absent": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Public hearing and consideration of James Bullington’s request for approval of the Clutch Warehouse concept, a commercial building to be located on 3-acres at approximately 351 South 1000 East.",
+   "body": "PlanningCommission",
+   "motion_type": "Public Hearing Action",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 7:0",
+   "mover": "Scott Bunker",
+   "seconder": "Roger Ellis",
+   "aye": [
+    "Matt Hemmert",
+    "Abram Nielsen",
+    "Brent Everett",
+    "Roger Ellis",
+    "Scott Bunker",
+    "Bill Hereth",
+    "Tyson Eyre"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and recommendation of the Gardner and Boyer Companies’ request for review of a General Plan Amendment on approximately 30-acres of property changing the land use designation on the Lehi Block property from Industrial to Commercial.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 7:0",
+   "mover": "Abram Nielsen",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Matt Hemmert",
+    "Abram Nielsen",
+    "Brent Everett",
+    "Roger Ellis",
+    "Scott Bunker",
+    "Bill Hereth",
+    "Tyson Eyre"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and recommendation of Avante Recovery Center’s request for review of a Development Code amendment to Chapter 12 changing the exception for group homes to allow up to 16 residents.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:2",
+   "mover": "Abram Nielsen",
+   "seconder": null,
+   "aye": [
+    "Roger Ellis",
+    "Abram Nielsen",
+    "Scott Bunker",
+    "Bill Hereth",
+    "Tyson Eyre"
+   ],
+   "nay": [
+    "Brent Everett",
+    "Matt Hemmert"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    5,
+    2
+   ]
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of a Development Code amendment to Chapter 20, adding a home office with mobile services as an allowed use.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "7:0 Pass",
+   "mover": "Abram Nielsen",
+   "seconder": null,
+   "aye": [
+    "Matt Hemmert",
+    "Abram Nielsen",
+    "Brent Everett",
+    "Roger Ellis",
+    "Scott Bunker",
+    "Bill Hereth",
+    "Tyson Eyre"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

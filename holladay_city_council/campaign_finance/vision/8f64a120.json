@@ -1,0 +1,24 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Holladay City (Filing Fee)", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "10/27/25", "recipient": "Salt Lake County Clerk", "purpose": null, "amount": "15", "in_kind": false},
+    {"date": "11/4/25", "recipient": "Delice", "purpose": null, "amount": "166.03", "in_kind": false},
+    {"date": "11/6/25", "recipient": "Apollo Political", "purpose": null, "amount": "61.15", "in_kind": false},
+    {"date": "11/14/25", "recipient": "Square Space", "purpose": null, "amount": "26.86", "in_kind": false}
+  ],
+  "total_contributions": null,
+  "total_expenditures": "269.04",
+  "contributions_50_or_less": "50",
+  "beginning_balance": null,
+  "ending_balance": "250.12",
+  "_meta": {
+    "index_path": "raw/2025_city_bradley-final.pdf",
+    "candidate": "Natalie Bellamy Bradley",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_bradley-final.pdf",
+    "pages": 2
+  }
+}

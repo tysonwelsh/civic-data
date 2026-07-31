@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "12/14/2023", "name": "Aggregate donations less than $50", "amount": "103", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/13/2023", "recipient": "Facebook Ads", "purpose": "Ads", "amount": "21.80", "in_kind": false},
+    {"date": "12/12/2023", "recipient": "Facebook Ads", "purpose": "Ads", "amount": "24.20", "in_kind": false},
+    {"date": "11/22/2023", "recipient": "WIX", "purpose": "", "amount": "7.72", "in_kind": false}
+  ],
+  "total_contributions": "103.00",
+  "total_expenditures": "53.72",
+  "contributions_50_or_less": null,
+  "beginning_balance": "386.03",
+  "ending_balance": "435.31",
+  "_meta": {
+    "index_path": "raw/202312_David-W-Rodgers_14939.pdf",
+    "candidate": "David W. Rodgers",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202312_David-W-Rodgers_14939.pdf",
+    "pages": 5
+  }
+}

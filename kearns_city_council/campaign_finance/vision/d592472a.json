@@ -1,0 +1,39 @@
+{
+  "contributions": [
+    {"date": "02/22/2016", "name": "Paid to self", "amount": "50.00", "in_kind": false},
+    {"date": "05/12/2016", "name": "Reagan Outdoor Advertising", "amount": "100.00", "in_kind": false},
+    {"date": "05/17/2016", "name": "Paid to self", "amount": "15.00", "in_kind": false},
+    {"date": "08/06/2016", "name": "Paid to self", "amount": "135.99", "in_kind": false},
+    {"date": "09/01/2016", "name": "Paid to self", "amount": "62.98", "in_kind": false},
+    {"date": "09/01/2016", "name": "Paid to self", "amount": "34.99", "in_kind": false},
+    {"date": "09/10/2016", "name": "Paid to self", "amount": "46.98", "in_kind": false},
+    {"date": "09/26/2016", "name": "Reagan Outdoor Advertising", "amount": "300.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "02/22/2016", "recipient": "Salt Lake County Clerk", "purpose": "Candidate Registration Fee", "amount": "50.00", "in_kind": false},
+    {"date": "05/17/2016", "recipient": "Salt Lake County Clerk", "purpose": "Voter Registration List KEARNS #5", "amount": "15.00", "in_kind": false},
+    {"date": "07/13/2016", "recipient": "Vistaprint", "purpose": "Campaign materials", "amount": "69.98", "in_kind": false},
+    {"date": "08/06/2016", "recipient": "Vistaprint", "purpose": "Campaign materials", "amount": "26.98", "in_kind": false},
+    {"date": "08/06/2016", "recipient": "Vistaprint", "purpose": "Campaign materials", "amount": "135.99", "in_kind": false},
+    {"date": "09/01/2016", "recipient": "Vistaprint", "purpose": "Campaign materials (Reorder)", "amount": "62.98", "in_kind": false},
+    {"date": "09/01/2016", "recipient": "Vistaprint", "purpose": "Campaign materials", "amount": "34.99", "in_kind": false},
+    {"date": "09/10/2016", "recipient": "Vistaprint", "purpose": "Campaign materials (Reorder)", "amount": "46.98", "in_kind": false}
+  ],
+  "total_contributions": "745.94",
+  "total_expenditures": "442.90",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "303.04",
+  "_meta": {
+    "index_path": "raw/2016november_kelly_bush_kearns_5.pdf",
+    "candidate": "Kelly F. Bush",
+    "office": "Metro Township Council Seat 5",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016november_kelly_bush_kearns_5.pdf",
+    "pages": 4
+  }
+}

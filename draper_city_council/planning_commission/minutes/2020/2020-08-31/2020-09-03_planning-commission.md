@@ -1,0 +1,389 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=315&doc_id=f9628af7-2827-11eb-a4b6-0050569183fa
+> Meeting date: 2020-09-03
+> Format: text
+
+Approved November 12, 2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, SEPTEMBER 3, 2020 IN THE DRAPER CITY
+COUNCIL CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:          Chairperson Andrew Adams, Commissioners John Van Hoff, Kent
+                         Player, Gary Ogden, Alternate Commissioner Lisa Fowler and Tab
+                         Bingham
+
+ABSENT:                  Vice Chairman Craig Hawker and Alternate Commissioner DeLaina
+                         Tonks
+
+STAFF PRESENT:            Jennifer Jastremsky, Brien Maxfield, Maryann Pickering, Travis Van
+                          Ekelenburg, Todd Draper and Amie Salazar
+
+STAFF PRESENT
+ELECTRONICALLY:           Spencer DuShane
+
+
+
+The Agenda will be as follows:
+
+6:30 PM Business Meeting
+
+Electronic Meeting Notice
+
+This meeting will be held electronically
+   • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+   • Email your comments to the project planner listed on the agenda item below by Noon on
+      the day of the meeting. These will become part of the public record.
+   • If you wish to speak during the Public Comment or Public Hearings portion of the
+      meeting, please send a request for the Zoom Meeting ID to the project planner listed on
+      the agenda item below by noon, on the day of the meeting.
+
+                             Written Determination 2020-09
+                       Pursuant to Utah Code Annotated 52-4-207(4)
+
+ A.       I, Andrew Adams, Chair of the Draper City Planning Commission, do hereby determine
+ conducting an electronic meeting of the Draper City Planning Commission with an anchor
+ location presents a substantial risk to the health and safety of those who may be present at
+ the anchor location and hereby authorize the Draper City Planning Commission to conduct
+ electronic meetings without an anchor location.
+ B.      The foregoing determination is based on the following facts:
+     • Federal, state and local leaders, including the Draper City Mayor and City Council,
+         have all recognized a global pandemic caused by the spread of the COVID-19 virus.
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 2
+     • COVID-19 cases and related hospitalizations in Salt Lake County and Draper continue
+         at rates which pose a risk of overburdening the local health care system.
+     • It is difficult, if not impossible, to predict the number of attendees at any meeting and
+         to manage issues regarding social distancing in order to comply with State Phased
+         Guidelines.
+     • COVID-19 poses a continuing and immediate threat to the health, safety, and welfare of
+         Draper City residents.
+     • The City has the technological capability to provide means by which the public may
+         hear, or view and hear, the open portions of the meeting and to participate in public
+         hearings.
+ C.      This written determination shall be included in the public notice of the Draper City
+ Planning Commission meetings and shall be read at the beginning of an electronic meeting
+ held without an anchor location.
+ D.      The public notice of any meeting conducted pursuant to this written determination
+ shall include information on how members of the public may hear, or view and hear, or
+ make a
+comment at the meeting.
+ E.     This written determination shall take effect immediately and will expire thirty (30) days
+after the date written below or until revoked, whichever is earlier.
+F. This written determination shall be filed promptly with the office of the city recorder.
+DATED this 31st day of August, 2020.
+
+
+   1. Action Item: Jenson Farms Phase 1B Final Subdivision Plat Request
+      (Administrative Action)
+      A request by Tim Gough, representing Gough Homes, for approval of a Final
+      Subdivision Plat in the R4 (Single Family Residential, 10,000 square foot lot minimum)
+      for a three lot and one parcel single-family development. The property is located at 578
+      West Rolling Hills Way. Application: SUBD-1051-2020. Staff contact: Maryann
+      Pickering at (801) 576-6391 or maryann.pickering@draper.ut.us.
+
+Maryann Pickering gave a presentation on the development agreement. She showed an aerial
+view of where the phase one would be. This plat would encompass Willow Creek and there
+would be three other plats. The land use was Residential Medium Density, and the zoning was
+R4. This subdivision had been previously approved by the City Council and Planning
+Commission. Approval of this phase would allow for the rest of the subdivision to commence.
+She stated she was happy to answer any questions.
+
+Commissioner Lisa Fowler commented there was land sold to the school district in that
+development and wondered about the elementary school that was supposed to be built on that
+part of the parcel.
+
+Ms. Pickering showed a highlighted portion of the map and stated if a school were to be built, it
+would be in the highlighted area.
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 3
+Commissioner John Van Hoff thanked Maryann for the map because it clarified where the
+development was in relation to other developments.
+
+Commissioner Kent Player asked if the creek went along the red boundary on the map.
+
+Mr. Pickering replied the creek did go on the edge of the boundary and the approved park would
+be on the other side of the stream.
+
+Commissioner Player stated his company used the stream and was afraid of losing access to the
+pump. There needed to be some type of convenient access to the pump for irrigation companies,
+as his company needed to access the pump several times per day.
+
+Brien Maxfield, the City Engineer, stated an adjacent part of the property to lot 109 had an
+irrigation easement district that was being recorded and there would be equipment on site in the
+next 30-45 days.
+
+Commissioner Player mentioned they stopped needing access to the pump mid-September and
+that timeline would work out.
+
+Chairman Adams asked for any additional questions and there were none.
+
+       Motion re: Commissioner Fowler made a motion to approve the Final Subdivision Plat
+       requested by Tim Gough representing Gough Homes, application SUBD-1051-2020, based
+       on the findings and subject to the conditions listed in the staff report dated August 20, 2020
+       and Commissioner Player seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+2.     Action Item: Jenson Farms Phase 6 Final Subdivision Plat Request (Administrative
+       Action)
+       A request by Tim Gough, representing Bowler Properties, for approval of a Final
+       Subdivision Plat in the R4 (Single Family Residential, 10,000 square foot lot minimum)
+       for a three-lot single-family development located at approximately 11875 South 700
+       West. Application: SUBD-1045-2020. Staff contact: Maryann Pickering at (801) 576-
+       6391or maryann.pickering@draper.ut.us.
+
+Ms. Pickering gave a presentation on this item. She showed phase six and highlighted it on the
+screen and mentioned its land use was Residential Medium Density and was zoned R4. This was
+the smallest phase of Jenson development and contained three lots. She commented she could
+answer any questions on this item.
+
+Commissioner Player asked about a lot that neighbored this lot.
+
+Ms. Pickering replied that lot was actually two lots and had already been recorded.
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 4
+
+Chairman Adams asked for any questions and there were none.
+
+Chairman Adams asked if the applicant is present and he was in attendance.
+
+Tim Gough, the applicant, stated he didn’t have any questions, but could answer any questions
+commissioners had for him.
+
+       Motion re: Commissioner Ogden made a motion to approve the Final Subdivision Plat as
+       requested by Tim Gough and Commissioner Van Hoff seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+3.     Public Hearing: Short Subdivision Zoning Map Amendment (Legislative
+       Action)
+       A request by Alex Short, to amend the zoning designation for the property from RA1
+       (Residential Agricultural, 40,000 square foot lot minimum) to RA2 (Residential
+       Agricultural, 20,000 square foot lot minimum). The property is approximately 1.5 acres
+       in size and is located at approximately 1017 East 13200 South. Application TEXTMAP
+       1028-2020. Staff contact Todd A. Draper (801) 576-6335 or todd.draper@draper.ut.us.
+
+Todd Draper, the staff contact, gave a presentation on the item. This was approximately 1.5 acres
+located at 1017 East 13200 South. The applicant was looking to rezone from RA1 to RA2. There
+as a mix of RA1 and RA2 zoning in the neighborhood. The land use was Residential low to
+medium density and the RA2 zone would be consistent with this designation. He showed site
+photos. This property had a settlement agreement that was created in 2016. Staff recommended
+receiving the request, having public comment, and making a decision based on this information.
+
+Commissioner Van Hoff asked if this private drive would remain as a private status.
+
+Mr. Draper replied that was a question that would be best answered by the applicant.
+
+Senior Planner Jennifer Jastremsky stated the applicant would have to go through a process to
+maintain this as a private lane and would have to provide documentation they had a legal right to
+have this as a private lane.
+
+Chairman Adams asked if there were any additional questions and there were none.
+
+Jennifer Jastremsky stated the applicant was not in the meeting.
+
+Bryan Campbell, a neighbor, stated he would like to make a comment.
+
+Ms. Jastremsky replied they had to open the public hearing and then he could make his comment
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 5
+Chairman Adams opened the public hearing.
+
+Bryan Campbell, a neighbor, stated his housed backed up to the private back road. Their property
+went onto where they were trying to develop. He was concerned that the lot was too small to put
+something on it and sharing the private road. The private road did not give value to his property,
+but he still owned a piece of it. He was concerned about something being built on a piece of land
+he owned.
+
+Taylor Cotterell at 13114 Grouse Point Cove, just south of Bryan. He was concerned the
+property backed up to his back yard and the property was very narrow and likely tall house. He
+also owned part of the lane behind him and they gave no permission to access to this lane. He
+would rather not give permission to a house that would end up being tall and towering over his
+yard.
+
+Elizabeth Hansen, at 13052 Grouse Point Cove, stated she had access to the lane behind her
+house. She had the same concerns as the previous comments.
+
+Chairman Adams closed the public hearing.
+
+David Wilding, representing Alex Short, dropped offline
+
+Chairman Adams asked if there were any questions.
+
+Commissioner Lisa Fowler mentioned she understood the concerns the neighbors had. She did
+not know how else the land could be developed though.
+
+Mr. Draper clarified the applicant was asking for just a zoning change and they could deliberate
+over the plat when the applicant came to the planning commission about their plans with the plat.
+
+       Motion re: Commissioner Player made a motion to send a positive recommendation to
+       the City Council to amend the zoning designation and Commissioner Fowler seconded the
+       motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+4.     Public Hearing: Park Crossing Zoning Map Amendment and Land Use Map
+       Amendment (Legislative Action)
+       On the request of Robert Thomson representing Utah Land Co. LLC, for approval of a
+       Zoning Map Amendment from RA1 (Residential Agricultural, 40,000 square foot lot
+       minimum) and CC (Community Commercial) to RM2 (Multiple-Family Residential, up to
+       12 dwelling units per acre) and a Land Use Map Amendment from Residential
+       Low/Medium Density and Neighborhood Commercial to Residential High-Density Land
+       Use designation. The property is 3.7 acres in size and located at approximately 675 West,
+       679 West, 681 West, and 693 West 12300 South. Applications T EXT MAP-1013-2020
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 6
+       and TEXT MAP-1016-2020. Staff contact is Travis Van Ekelenburg, 801-576-6522,
+       travis.vanekelenburg@draper.ut.us.
+
+Travis Van Ekelenburg, the staff contact, gave a presentation. He mentioned the applicant
+wanted to change the zoning on several properties for a future town home development. The
+properties were currently a mix of RA1, and CC zoning and the applicant was requesting to
+change the zoning for all of them to RM2 zoning. RM2 zoning was meant for relatively high-
+density townhomes or apartment buildings. All the subject properties were 3.7 acres. Parts of the
+neighborhood were Neighborhood Commercial and Residential low to medium designation. The
+engineering department mentioned low density areas would not be affected by the change of this
+zoning.
+
+Commissioner Fowler wanted to know more about the buffering.
+
+Mr. Maxfield responded UDOT had a plan to widen the street and wanted to preserve space for
+widening the street.
+
+Chairman Adams asked for further questions and invited the applicant to speak.
+
+Robert Thomson, the applicant, stated this was a good project on the outskirts of Draper City.
+There was a proposed dog park on the site plan, and they had talked to Parks and Recreation
+about this. They also had come up with another access point. He took rezoning very seriously
+and went through City Code to make sure the requested zoning fit their subdivision. He stated he
+could answer any questions.
+
+Chairman Adams opened the public hearing.
+
+Tim Gough did not have a comment.
+
+Chairman Adams closed the public hearing.
+
+Commissioner Fowler commented on a letter sent by Fred Jones. He was concerned about spot
+zoning, but she thought they liked using buffers. She liked how this would match another
+development across the street.
+
+Commissioner Player mentioned there were some traffic issues.
+
+Mr. Maxfield replied they would not know of access points and street safety until they brought
+the site plans in.
+
+Commissioner Van Hoff commented UDOT would likely conduct a traffic study and agreed with
+Ms. Fowler in thinking this was a good application. He liked that this would provide a buffer.
+
+Commissioner Player stated every letter he had seen were all against changing the zoning.
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 7
+       Motion re: Commissioner Van Hoff made a motion to forward a positive recommendation
+       to City Council as requested by Robert Thomson and Commissioner Fowler seconded the
+       motion.
+
+         Vote: A roll call vote was taken with Commissioners voting 4-1 in favor of the motion.
+         This item passed with a 4 to 1 vote. Commissioner Player voted “nay”.
+
+         Motion re: Commissioner Fowler made a motion to forward a positive recommendation
+         to City Council for the zoning amendment as requested by Robert Thomson and
+         Commissioner Ogden seconded the motion.
+
+         Vote: A roll call vote was taken with Commissioners voting 4-1 in favor of the motion.
+         This item passed with a 4 to 1 vote. Commissioner Player voted “nay”.
+
+
+5.       Public Hearing: City Initiated Flag Lot Text Amendment (Legislative Action)
+         On the request of Draper City for a text amendment to amend Section 9-27-090 Flag Lots
+         of the Draper City Municipal Code. This application is known as the City Initiated Flag
+         Lot Text Amendment. Application: TEXTMAP -1049-2020. Staff contact Todd A.
+         Draper, 801576-6335, todd.draper@draper.ut.us.
+
+Mr. Draper stated this was a text amendment being proposed. On April 7, 2020, the City Council
+enacted a moratorium on new development applications of flag lots and this expired on October 7,
+2020. The proposed changes were as follows:
+
+     •   An updated purpose statement was noted
+     •   Added a preference of development to be on private lanes
+     •   Put a limit on flag lots for lot splits or subdivisions
+     •   Limited it to non-classified streets
+     •   Increase of the width of the staff to 30 feet
+     •   Increase minimum flag size to 1.25 times the current minimum
+     •   Requiring paved driveways with screening
+     •   Increased setbacks and made them uniform
+     •   Language to reduce structure size and allowable lot coverage
+     •   Added a new graphic
+
+Mr. Draper showed an image to give the Planning Commission an example of what this would
+look like. Staff requested one change in language clarifying where the front of the property was.
+
+Chairman Adams asked for clarification of the language for the front of the property.
+
+Mr. Draper replied language regarding where the front of the property was had been ambiguous,
+so they clarified the front of the property was the one closest to facing the street.
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 8
+Ms. Jastremsky explained their code did not clarify where a house faced and so they had to clarify
+the flag lot would have to be on the front of the property facing the street.
+
+Chairman Adams thanked Ms. Jastremsky for the clarification.
+
+Commissioner Van Hoff wondered why they had to define where the front of the property was.
+
+Mr. Draper replied defining front yard made it easier to administrate.
+
+Commissioner Fowler asked what the main concerns were.
+
+Mr. Draper replied the main concern was the health and safety and ensure new developments do
+not loom onto adjacent properties. They did not want to have properties being intrusive.
+
+Commissioner Fowler commented that explanation made sense. She asked if they would be adding
+the diagram to the ordinance so a person could understand what a flag lot was.
+
+Ms. Jastremsky stated she could pull up the definition of a flag lot was in City code and read it to
+the Planning Commission.
+
+Commissioner Fowler thought they needed to reference the definition in the code so a citizen could
+easily understand what a flag lot was.
+
+Spencer DuShane thought Commissioner Fowler’s idea was good. They could link the definition
+online. She could amend the motion to add the definition to the code.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing
+
+       Motion re: Commissioner Fowler made a motion to send a positive recommendation to
+       the City Council with recommended change 11 and Commissioner Player seconded the
+       motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+6.     Adjournment
+
+Chairman Adams asked if there was any other business or announcements.
+
+Chairman Adams moved to adjourn the meeting. Chairman Adams called for a vote and all were
+unanimous in favor of adjournment.
+
+
+       The meeting adjourned at 7:45 pm
+Draper City Planning Commission Meeting
+September 3, 2020
+Page 9
+

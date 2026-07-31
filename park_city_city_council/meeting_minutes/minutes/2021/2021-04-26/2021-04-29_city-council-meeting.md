@@ -1,0 +1,1949 @@
+# Park City Council Meeting — 2021-04-29
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2933,plainText=false)
+> Meeting date: 2021-04-29
+> Format: text
+
+---
+
+
+PARK CITY COUNCIL MEETING MINUTES
+445 MARSAC AVENUE
+PARK CITY, SUMMIT COUNTY, UTAH 84060
+
+April 29, 2021
+
+The Council of Park City, Summit County, Utah, met in open meeting on April 29, 2021,
+at 2:45 p.m. The meeting was a remote, electronic meeting due to the declared public
+health emergency.
+
+Mayor Beerman read the Determination of Substantial Health and Safety Risk.
+
+Council Member Joyce moved to close the meeting to discuss property, and litigation at
+2:47 p.m. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+CLOSED SESSION
+
+Council Member Joyce moved to adjourn from Closed Meeting at 3:25 p.m. Council
+Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+WORK SESSION
+
+Fourth of July Update:
+Jenny Diersen, Special Events Manager, presented this item. She reviewed the
+celebration events in the past and asked if Council would like fireworks and the parade
+to be part of the celebration this year. She noted staff recommended allowing some
+community activities such as the annual volleyball tournament, the virtual 5K race, and
+Car-Free Sunday programming. She indicated Council should consider having the
+parade on Sunday the Fourth or moving the parade to Friday, July 2nd, and noted if it
+was moved to July 2nd, there would be cost savings and reduced traffic from Salt Lake
+City. She suggested aligning with the Canyons’ celebration by having the fireworks
+display on July 3rd to spread out crowds, or having it on the Deer Valley truck ramp.
+
+Council Member Worel asked if fireworks were safe considering the draught situation.
+Dave Thacker stated fireworks had proceeded in past years when there were dry
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|2
+
+conditions. Grass surrounding the fireworks area would be mowed and other
+precautions were always taken to ensure safety. Council Member Doilney asked if
+personal fireworks were used when the City fireworks show was not offered. Thacker
+thought people would celebrate on their own if a show was not displayed. He indicated
+small fireworks were often more dangerous than bigger productions.
+
+Mayor Beerman asked how much the event cost would be reduced if fireworks were not
+implemented. Diersen stated the fireworks show cost $15,000 plus some security costs.
+Council Member Joyce asked if fireworks shows would be done in the Salt Lake Valley.
+Diersen thought a lot of the celebrations in the valley would be held on July 3rd. Council
+Member Joyce was concerned about the crowds coming from Salt Lake Valley,
+especially if Park City was the only entity celebrating on July 4th. He thought the
+celebration should be coordinated to take place at the same time as celebrations in
+other cities. He also favored holding the parade on Friday.
+
+Council Member Worel stated many of the residents worked on Fridays and this
+celebration was geared to local residents. Council Member Gerber stated most of the
+workforce worked on holidays no matter what day it fell on. She thought many people
+worked from home and Friday wasn't a concern for her. Her concern was that there
+weren't any children that had been vaccinated. Mayor Beerman stated residents wanted
+a July 4th celebration for locals and he thought many people would be able to attend the
+parade if it was held on Friday, July 2nd.
+
+Council Member Henney thought people liked coming to Park City and would choose
+the City's parade instead of their own parades held in the valley, but he agreed
+attendance would be smaller on a Friday. He requested community feedback on the
+parade date. Council Member Worel asked if the City wanted a parade at all this year.
+Council Member Doilney stated retail and restaurants had big revenue days on July 4th
+and starting the celebrations on Friday would make it even better for businesses. He
+thought people would celebrate with or without the parade. Council Member Joyce did
+not support having a band at City Park, and indicated on July 4th there would still be
+Silly Market and Car-Free Sunday.
+
+Council Member Gerber requested the parade be kept local and that groups from
+outside Summit County not be allowed. Mayor Beerman summarized a majority of
+Council favored the parade on Friday, July 2nd. Diersen stated this event would come
+back to Council on May 27th for discussion on making the parade more local and would
+allow time for community feedback. With regard to fireworks, the Council favored the
+display in combination with the Canyons event on Saturday, July 3rd.
+
+Song Summit Event Update:
+Jenny Diersen, Special Events Manager, stated this was a new Level Four event. She
+reviewed it started in 2019 as a Level Two event, gathering songwriters from across the
+
+Park City                                 Page 2                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|3
+
+nation and focusing on sobriety and mental health. The organizers requested it be held
+September 8-12 and they anticipated a total of 15,000 attendees. Diersen stated the
+quiet weekends were controlled by Council and this event proposed to bring respite to
+the community. There would be increased transportation implications. She noted this
+event would come back to Council for full approval at a future meeting.
+
+Ben Anderson, event sponsor, stated this was a unique arts and culture event. He
+thought the artists and community needed to connect as the City came out of the
+pandemic. Part of the event was to have labs to conduct podcasts involving poetry,
+music and other art forms. He thought this event would also benefit Main Street
+businesses. He noted they intentionally picked a non-busy weekend.
+
+Julia Rametta stated her team had produced and attended events in Park City for years.
+She indicated the estimated 15,000 attendees would be spread out over five days. She
+knew there would be a need for transportation mitigation, and they would promote
+alternate ways to attend.
+
+Council Member Doilney thought this event fit with what Park City was looking for. The
+residents would enjoy this as a local event for a couple years, but he felt it would grow
+beyond local interest in the future. He was in favor of having something unique and
+special.
+
+Council Member Henney asked how the event could be contained so it wouldn't grow
+too large in the future. Anderson stated he wanted to do this because it was important to
+him. He really liked putting on the labs with this event, which other events couldn't offer.
+He didn't see this growing on Main Street, but it could grow in the Eccles Center and
+maybe at the Canyons resort. He thought too much growth would take away the
+purpose of the event.
+
+Council Member Worel thought a focus on mental health and sobriety was very needed
+and unique. She asked if this would be different than a jazz fest. Anderson stated this
+was different because most venues had a 75-person maximum occupancy. Performers
+would also talk about the pressure of being on the road and other things that affected
+them. The larger stage would be a little more like a jazz fest.
+
+Council Member Gerber stated she had attended this event in the past and one thing
+that made it special was the intimate settings. She hoped the success wouldn't change
+that uniqueness and hoped the organizers would be able to manage growth. Anderson
+indicated his team talked a lot about that to ensure that overgrowth did not happen.
+
+Council Member Joyce stated this event had grown exponentially from the first year to
+the second and he expressed concern about future growth as well. He asked about the
+event caps. Diersen stated there was room for a couple more events due to
+
+Park City                                 Page 3                              April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|4
+
+cancellations from other events. Council Member Joyce stated some events cancelled
+because of COVID, but they might be back next year. He wanted to be careful not to
+overbook events or penalize events because of their precautions during the pandemic.
+He was also concerned about reducing fee waivers and thought this could be an
+expensive event due to the amount of City services required. Anderson stated he did
+not want a fee reduction and resolved to be a responsible event organizer. He also
+clarified that the first year there were 1,000 attendees per day. This year, they added
+days and planned larger events on a couple of days during the five-day event, so the
+daily average attendance would not be dramatically different.
+
+Mayor Beerman agreed with Council Member Doilney that this was the type of event
+that appealed to Park City, with larger attendances at the resorts that impacted the
+residents less. He hoped the event did not outgrow the City. He asked Diersen to
+regroup after the event and plan for the future. Diersen stated she would come back to
+Council in the fall to debrief the event and discuss long-term plans moving forward.
+
+Discuss the Request by Fairway Village Homeowners Association for Park City to
+Accept its Private Streets into the Public Road System:
+The applicant asked to continue this item to a future meeting.
+
+Park City Arts and Culture District Follow Up Discussion: Scope and Plan of
+Finance:
+David Everitt, Deputy City Manager, presented this item. Mayor Beerman complimented
+the ability of Everitt and his team to adapt as new perspectives came to light and
+Council gave different direction for this district. Everitt reviewed the requests to reduce
+overall project costs, reduce housing costs per unit, offer phased plans, show a budget
+without Additional Resort Sales Tax (ARST), aggressively leverage Transient Room Tax
+(TRT), and identify a process regarding the City and its partners' commitments.
+
+Everitt proposed using 75% of anticipated TRT revenues for debt service to pay a 20-
+year bond of $25 million. He stated the Housing Fund would contribute $100,000 per
+unit for base site elements such as parking and elevators. The Transportation Fund
+would contribute $5 million and $1.25 million would come from the Walkability (WALC)
+bond proceeds. Also, $5.55 million would be used from repurposing/recapturing Capital
+Project funds.
+
+Everitt reviewed the proposed scope of the project and stated there would be a shell
+space for non-residential parts of the district, which would allow occupants to fill in the
+space with their specific needs. The project would use more economical materials
+instead of mass timber, and the artist-in-residence units would be moved to Building
+One. The affordable housing units’ layout would be reconfigured to reduce costs, and
+tenant improvements would be funded by tenants and an allowance from the City.
+
+
+Park City                                  Page 4                              April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|5
+
+Everitt indicated the project team recommended Scenario One-eliminating Building Two
+and building 28 affordable units initially. The cost would be $57.3 million, excluding land.
+Building Three would be extended to the south and the corner space would be
+redesigned. Outdoor interactive features would be added on the southeast corner
+instead of a building. Council Member Joyce stated the original Building One had 50
+housing units and asked why this plan only had 28 units. Everitt stated this plan
+incorporated Phase A of housing so all the Housing Funds would not be depleted. The
+second and third phases of housing could be built in the future for a total of 60 units.
+The plaza experience would remain the same.
+
+Everitt displayed Scenario Two-no housing on-site, delaying the co-op spaces, and not
+constructing Building Two. The cost would be $42.4 million. Building Three would be
+extended to the south and the corner space would be redesigned to access transit
+directly on Bonanza. Outdoor interactive features would be added on the southeast
+corner instead of a building. He stated this scenario would give the City the most
+flexibility over time.
+
+Scenario Three would be the full build out with 60 units of housing, and all cultural/artist
+facilities. The cost would be $73.9 million. It would use the bulk of the housing funds
+and there would be 50,000 square feet of creative and cultural space. There would be
+no funding gap, but less funds would be available for tenant improvements and other
+enhancements.
+
+Council Member Gerber asked if the cost of Building Three would increase if Building
+Two was removed. Everitt stated Building Two was the most expensive building in the
+plan. He noted some of the excess funds could cover the costs for Building Three if the
+Transit Center was moved.
+
+Council Member Worel asked how the Transportation Fund could be used if the Transit
+Center was removed and only a couple of transit stops were added. Everitt stated the
+Transportation Fund could fund all types of transportation including walkability.
+
+Council Member Joyce thought there would be a flexible space for future use if Building
+Two was removed. He didn't think there was value with the Transit Center/Building Two
+since it would not be a hub. He suggested leaving Building Three where it was planned
+and not constructing Building Two. Everitt indicated Building Three would have
+extended awnings or other options that added to the Transit stops. He understood there
+should not be impediments to the Building Two pad so the space could be used in the
+future for other things.
+
+Council Member Gerber stated the City required affordable housing to be completed
+before other improvements could be developed with private developments. She thought
+affordable housing should be built out with this project. She favored having housing at
+
+Park City                                  Page 5                              April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|6
+
+the Arts and Culture District as well as the Homestake parcel. Council Member Doilney
+stated he had a $60 million project limit for this project and suggested phasing, but
+wanted to include 16 extra housing units on one side of Building One in Phase A. He
+was pleased to see the value engineering and these new proposals.
+
+Council Member Worel asked what the City would not be able to do if it went with the
+$57 million option. Council Member Joyce liked that the ARST was left out of the
+funding options. He felt Kimball Art Center and Sundance were bringing the arts and
+culture part to the district and indicated the City's part of the development was the
+infrastructure and Building One with housing and artist spaces. Building Four with food
+was the next priority and Buildings Two and Three were the last priorities. He suggested
+constructing Building One with all the housing and Building Four and leave the spaces
+for Buildings Two and Three for future use. He did not favor building a shell without
+knowing what would go in there.
+
+Council Member Henney stated the Council now had components to work with. He
+asked for numbers on the housing so he could see the revenue at 60% AMI. He also
+asked for more information on the food building. He liked the idea of local businesses
+coming into the proposed buildings. Mayor Beerman asked if Homestake housing was
+still more affordable than housing at the Arts and Culture District. Everitt stated the Arts
+and Culture District housing was more on par with the Homestake housing cost per unit
+and indicated the per unit cost for the first 28 was $460,000 per unit, but for 44 units the
+cost would be $420,000 per unit and constructing all 60 units would cost $400,000 per
+unit. The site costs and value engineering enabled him to bring down the costs. Council
+Member Joyce asked if any money would be left in the Housing Fund for other projects
+in this scenario. He stated the housing pipeline was from RDA money, so it could only
+be used for housing. He thought TRT money was more flexible and he suggested using
+the money saved from not constructing Building Three to construct the extra 32 housing
+units.
+
+In response to Council Member Worel's question about opportunity costs, Everitt stated
+he was looking at long-term Transportation Fund projects and noted the fund was
+healthy, so using the proposed funds for the district would not impact it detrimentally. By
+not using the ARST, there would be significant funds available for other projects. Dias
+stated the next Council meeting would discuss the tentative budget, including
+Transportation funds and Walkability projects. Staff recommended Scenario One so
+money would be available for other projects. He indicated transportation and walkability
+investments were needed in this area.
+
+Council Member Worel thought the City had previously indicated it did not want to
+subsidize affordable units more than 20%, and asked how much the City would
+subsidize on these affordable rental units.
+
+
+Park City                                  Page 6                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|7
+
+Mayor Beerman summarized Council was interested Scenario One and Council
+Member Doilney’s suggestion for 16 extra housing units for $64 million. There was also
+interest in Scenario Three with the omission of Building Two for $66 million and possibly
+omitting Building Three as well. He agreed housing should not subsidize the
+infrastructure cost and wanted to see that model. Council Member Henney wanted to
+look more closely at both scenarios. He wanted to know more about revenue streams
+and if that was now gone or if the units would be 100% AMI. Everitt stated setting the
+AMI % for the rental units was Council's decision, and they could prioritize revenue or
+AMI. Council Member Doilney stated he liked Council Member Joyce’s Scenario Three
+without Buildings Two and Three and with all 60 housing units for $57 million. Council
+Member Gerber liked that scenario too. She wanted a future discussion on community
+building and favored meshing lower and higher AMIs.
+
+Mayor Beerman stated the full buildout of housing would get the cost per unit down to
+$405,000 per unit, which would be very favorable. He didn't want to discount the shell
+spaces though, since many businesses and non-profits expressed interest in coming
+into this area.
+
+REGULAR MEETING
+
+I)     ROLL CALL
+
+      Attendee Name                                          Status
+      Mayor Andy Beerman
+      Council Member Max Doilney
+      Council Member Becca Gerber
+      Council Member Tim Henney
+                                                             Present via
+      Council Member Steve Joyce
+                                                             technology
+      Council Member Nann Worel
+      Matt Dias, City Manager
+      Margaret Plane, Special Counsel
+      Michelle Kellogg, City Recorder
+      None                                                   Excused
+
+II)    RECOGNITION
+
+1. Consideration to Adopt Resolution 07-2021, a Resolution Acknowledging the
+Legacy of Adolph's Restaurant - A Ski Town's Host:
+Michelle Downard, Resident Advocate, was joined by Adolph Imboden. She indicated
+the City was honoring Adolph's Restaurant and its founding owner as he closed his
+doors after many years of building community and serving locals and tourists. Imboden
+stated business was busy, but he was anxious to get on his bike. He thanked all who
+
+
+ Park City                               Page 7                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|8
+
+supported him over the years and noted he had been in Park City since 1971. Council
+Member Henney remarked that Adolf's supported the community over the years and the
+community appreciated him.
+
+Mayor Beerman opened the meeting for public input.
+
+DR Theobald via Zoom stated Adolph was a stalwart in the community. He used to live
+above Adolph's first restaurant and conducted phone meetings from Adolph's bar.
+Imboden provided a place for friends to gather and he wished Adolph luck in the future.
+
+Alyson Badami and family via Zoom thanked Imboden for everything he did for the
+skiing community and the ski racers.
+
+Kran via Zoom thanked Council for recognizing Adolph's. He thanked Imboden for his
+friendship.
+
+Mayor Beerman closed the public input portion of the meeting and expressed
+appreciation for all Imboden had done in the community.
+
+Council Member Henney moved to adopt Resolution 07-2021, a resolution
+acknowledging the legacy of Adolph's Restaurant - a ski town's host. Council Member
+Doilney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+III) APPOINTMENTS
+
+1. Reappointment of Sarah Hall and the Appointment of William Johnson to the
+Planning Commission with Terms Expiring July 2024:
+Michelle Downard presented this item and stated this was a request to appoint the
+above nominees to the Planning Commission. Mayor Beerman stated there were many
+good applicants for these positions.
+
+Council Member Gerber moved to reappoint Sarah Hall and appoint William Johnson to
+the Planning Commission with terms expiring July 2024. Council Member Henney
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV)   COMMUNICATIONS AND DISCLOSURES FROM COUNCIL AND STAFF
+
+
+Park City                                Page 8                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+Page|9
+
+Council Questions and Comments:
+Council Member Doilney stated he had confidence in those serving on Council and
+Planning Commission and thought they served the community with all they had. He
+appreciated the opportunity he had to serve the community. Council Member Worel
+reminded the public that May was Mental Health Awareness Month. She encouraged
+people to apply to serve on the Library Board. Council Member Joyce stated the new
+Snyderville Basin Water Treatment Plant was finished, and because of the population
+growth, they were starting to plan an enhancement to the East Canyon Creek Sewer
+District.
+
+Council Member Henney looked forward to the Council retreat and discussing protocols.
+He stated the next Coffee with Council would involve a discussion with the LGBTQ+
+community. Council Member Gerber indicated the Historic Park City Alliance (HPCA)
+interviewed organizations to help with their visioning process. It was Earth Week last
+week and Recycle Utah had a hazmat event. She also indicated she enjoyed the
+Housing Update staff communication and commended staff on the housing projects.
+
+Mayor Beerman asked Council Member Henney if he wanted to have an auto response
+to community emails instead of having to respond to hundreds of emails. Council
+Member Henney favored the auto response and thought there should be a discussion at
+the Council retreat on more in-depth responses. He indicated he would still respond to
+questions. The Council members thanked Council Member Henney for his diligence in
+responding to the numerous emails.
+
+Mayor Beerman indicated he met with Representative Moore and requested Federal
+funds for Bonanza Park as well as Summit County bus rapid transit (BRT). He was
+reappointed to the State Quality Growth Commission, which dealt with statewide issues
+based on growth and open space. He attended the Utah League of Cities and Towns
+(ULCT) conference in St. George and met with the resort towns in the State. They
+discussed the last legislative session and the one-size-fits-all legislation. The group
+wanted to meet monthly and bring things to the State proactively. He stated a Council
+member could represent Park City at these upcoming meetings. Mayor Beerman also
+noted the Colorado Association of Ski Towns (CAST) was coming to Park City October
+21-23 and he asked Council to save the date.
+
+Staff Communications Reports:
+Mayor Beerman complimented staff for the excellent updates.
+
+1. Public Art Update:
+
+2. FY2021 Distinguished Budget Award and March 2021 Budget Report:
+
+3. Affordable Housing Projects Update:
+
+Park City                                Page 9                           April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 10
+
+4. Water Conservation and Drought Update:
+
+5. Social Equity Quarterly Update:
+
+V)   PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Mayor Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Council on items not included on the agenda.
+
+Deanna Rhodes, Summit County Connect Executive Director, via Zoom read the
+following statement: “Summit County resident Julie* called CONNECT Summit County’s
+Peer Navigation Services the same day the Summit County Health Department issued
+its stay-at-home order⎯desperate for help contacting her son Nate, who had been
+admitted to a psychiatric facility in Salt Lake City just days before. Because of lockdown
+orders put in place to safeguard the public against COVID-19, the facility prevented
+Julie from visiting her son, and she was also having difficulty getting messages to him.
+Her fear and frustration were overwhelming but CONNECT Summit County’s Peer
+Navigator was able to coach Julie on how to get in touch with her son and to advocate
+for him at the facility. Julie is not alone in her fear and frustration. Here in Summit
+County and around the world, COVID-19 has upended life as we knew it. Many people
+were suddenly faced with the realities of loss of income and health insurance, food
+insecurity, serious illness, school closures, social isolation, and disruption of routines.
+These serious issues have caused a widespread spike in anxiety, fear, depression, and
+grief⎯the perfect storm for an unprecedented mental health crisis whose repercussions
+will last months and perhaps even years to come. More than ever, people need
+direction and resources for mental health, as well as encouragement to speak up about
+mental illness and to seek help.
+
+According to Kaiser Family Foundation, the COVID-19 pandemic has created national
+challenges related to mental health, with nearly 45% of adults in the United States
+reporting that their mental health has worsened since the start of the pandemic
+response in March 2020. Park City is no exception to these impacts. In 2020,
+CONNECT Summit County provided 237 community resources to 72 people seeking
+support. Nine of these encounters were in Spanish. This year, CONNECT Summit
+County, with the support of many other community organizations, is continuing to
+normalize the conversation surrounding mental health by recognizing Mental Health
+Awareness Month. We will be back to address the Council on May 13th with hopes of
+passing a proclamation of once again declaring that May is Mental Health Awareness
+Month and the significance that holds. CONNECT Summit County is proud to host
+Mental Health Awareness Month. In these extraordinary circumstances, dissolving the
+stigma associated with mental illness is critical, because that stigma often prevents
+individuals from seeking help. Since its establishment in 2016, CONNECT Summit
+
+Park City                                 Page 10                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 11
+
+County has focused on mental health awareness and education. Our mission—to create
+a well-informed and stigma-free community with access to mental health resources for
+everyone—has perhaps never been more relevant than it is now. The official calendar
+has virtual and in-person events, social media campaigns, and grassroots activities
+during the entire month of May. For the first time ever, we are also hosting a 21-Day
+Mental Health Awareness Challenge. Visit CONNECTSummitCounty.org/MAY for all
+up-to-date details and to RSVP. Thank you for your continued support of mental health
+in our community and recognizing the importance of publicly acknowledging the
+challenges that individuals face. We hope that you will join us during the month of May
+and consider sharing your personal stories of mental health to normalize the
+conversation.”
+
+Ed Parigian via Zoom indicated he was grateful the Council was reimaging the Arts and
+Culture District. He encouraged more discussion. He thought a space to the recycle
+center could be created instead of a road. He also asked to see a revenue model for the
+project. Council Member Joyce stated a rental revenue analysis was calculated and a
+new analysis would be performed based on the new scenarios. Mayor Beerman stated
+a promenade was being created, not a road, and it would be a multi-use road that might
+run all the way to Park Avenue.
+
+Angela Moschetta via Zoom, indicated she heard a discussion on a toxic soil repository
+at the Gordo site for toxic soils from the Arts and Culture District. She researched
+Council discussions regarding the site and found that discussions started last summer.
+She felt that the soils repository was a big part of the project and the community had not
+been involved. She requested to extend the public input period for the site. Mayor
+Beerman related a soils commission was formed five or six years ago at the
+recommendation of the community and this was not a new topic. Dias stated the
+community hearing that was held recently was an effort to reach the public. It was
+always a community goal to not put Park City’s debris in other communities. The City
+always tried to be transparent in its business. Council Member Worel asked who
+imposed the May 4th deadline for public input. Dias stated it was an Environmental
+Protection Agency (EPA) comment period and he would ask the if the comment period
+could be extended.
+
+Council Member Joyce stated soil would be put there and when the repository was full,
+it would then be capped off, and the property could be developed. It was safe and much
+less expensive than any other option.
+
+Ken Lott eComment: “I’m writing in opposition to the excessive noise emitted from
+modified engine and muffler vehicles that drive around Park City. Having lived here
+since 2007, I have noticed an increase in the number of these types of vehicles in our
+community. I live in Park City for the peacefulness of the mountains and appreciate the
+tranquil outdoors. Undoubtedly, there are numerous others that feel the same way. Our
+
+Park City                                Page 11                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 12
+
+community is growing and as more people and vehicles move to the area, they add to
+the overall level of noise in Park City. I’m concerned that we are diminishing the
+tranquility of why so many people enjoy Park City. Productive Noise that benefits the
+community, as the inevitability of a growing community, is capable of being understood
+by all. • Construction vehicles • Snow Making and Moving equipment • Garbage trucks •
+Busses • UPS trucks • Landscapers • Even Dogs, because they’re Dogs! But
+Unproductive Noise, noise with no overarching community benefit, does harm to Park
+City. Noise for the sake of noise, produced by a few individuals with their excessively
+loud modified engine and muffler vehicles, should not have to be endured by the overall
+citizenry in Park City. As a condition, the vehicles could be temporarily un-modified to
+meet municipal standards. I would propose that the Park City Council work with City
+Hall to create a straightforward overlay of the very thorough, but difficult to understand,
+Municipal Code (6-3 Noise). Doing so will help our community better understand the
+noise we encounter and what the real-world expectations should be for such noise. My
+desired outcome would be a better understanding of the tolerance of noise in our
+community and that the Park City Council put a Stop to Unproductive Noise in city limits.
+Specifically, noise for the sake of noise, such as, modified engine and muffler vehicles
+within city limits of Park City, Utah.”
+
+Mayor Beerman closed the public input portion of the meeting.
+
+VI)    CONSIDERATION OF MINUTES
+
+Consideration to Approve the City Council Meeting Minutes from April 15, 2021:
+Mayor Beerman referred to Page Four, Line 15, and requested the word “labor” replace
+“manhours.”
+
+Council Member Doilney moved to approve the City Council meeting minutes from April
+15, 2021 as amended. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+VII) CONSENT AGENDA
+
+1. Request to Accept a Donation of a Mixed Media Painting on Behalf of Artist
+Nancy Scheibe to the Public Art Collection in an Art Agreement Approved by the
+City Attorney:
+
+2. Request to Appropriate $25,000 for Spring 2021 Wildfire Mitigation Efforts:
+
+Council Member Doilney moved to approve the Consent Agenda. Council Member
+Gerber seconded the motion.
+
+Park City                                Page 12                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 13
+
+
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+VIII) OLD BUSINESS
+
+1. Consideration to Adopt Resolution 08-2021, a Resolution Approving the
+Refinancing by Park City, Utah of a Training and Office Facility and Related
+Improvements for the Center of Excellence Properties, LLC; Authorizing the
+Issuance by the Issuer of its Not to Exceed $16,500,000 Industrial Revenue
+Refunding Bonds, Series 2021 (United States Ski and Snowboard Association);
+and Related Matters:
+Mindy Finlinson, Finance Manager, and Randy Larsen, Gillmor Bell, were present for
+this item. Finlinson reviewed the process of facilitating the bonding process for
+nonprofits in order to save them money, and recommended that Council adopt the
+resolution finalizing the issuance of bonds.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Gerber moved to adopt Resolution 08-2021, a resolution approving the
+refinancing by Park City, Utah of a training and office facility and related improvements
+for the Center of Excellence Properties, LLC; authorizing the issuance by the issuer of
+its not to exceed $16,500,000 Industrial Revenue Refunding Bonds, Series 2021
+(United States Ski and Snowboard Association); and related matters. Council Member
+Joyce seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Park Avenue Redesign Pilot Program Update:
+Linda Jager, Community Engagement Manager, Johnny Wasden, Parking Manager,
+and John Robertson, City Engineer, presented this item. Robertson reviewed the
+progress on this project and explained there would be a parking lane on one side of the
+road with a bike lane next to it. There would be a sharrow with no parking on the
+opposite side of the street. Wasden stated he looked to see what the parking impacts
+would be to this street and noted 60 vehicles would need parking. He concluded with
+that number of vehicles, there would be ample space for parking.
+
+Jager stated there was public outreach in the fall and there would be additional outreach
+next week. The striping work would begin May 12th. Dias stated the City was being bold
+in changing the streetscape and adding timed parking. He cautioned that public parking
+
+
+Park City                                Page 13                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 14
+
+was being eliminated and that could be hard for some people. He reiterated this was a
+pilot program and he welcomed public feedback after the striping.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting and stated he used this portion
+of Park Avenue on a daily basis and he looked forward to trying the new configuration.
+
+IX)    NEW BUSINESS
+
+1. Consideration to Adopt Resolution 06-2021, a Resolution Allowing All Park City
+Municipal Public Bodies to Hold Electronic Meetings:
+Margaret Plane, Special Counsel, indicated this resolution would allow all City boards
+and commissions to hold electronic meetings. Currently, Park City code only allowed
+the City Council and Planning Commission to hold electronic meetings unless there was
+a declared emergency. She wanted to extend the status quo for six months. Preliminary
+feedback from staff was that boards liked the flexibility of having electronic meetings.
+
+Council Member Henney clarified it was Park City's code that required a declared
+emergency to hold electronic meetings, and asked if that was the reason the City was
+looking to change the language to allow those electronic meetings at any time. Plane
+affirmed that State law said a city could only hold electronic meetings if the public body
+passed a rule, resolution, or ordinance allowing electronic meetings. The proposal was
+to pass the resolution to continue the status quo and then Council could give direction
+on a permanent solution for electronic meetings. Mayor Beerman thought the Council
+would like a policy change to allow hybrid meetings in the future. Plane indicated she
+would work on that.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Doilney moved to adopt Resolution 06-2021, a resolution allowing all
+Park City Municipal public bodies to hold electronic meetings. Council Member Worel
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration of the Park City Baseball Event Appeal of Peak Times:
+Jenny Diersen, Special Events Manager, stated the Park City Baseball Club was
+appealing staff's denial of having the event during a peak time. She reviewed this was a
+Level Two event and had minor impacts. The event was held at the high school and at
+Quinn's Junction. Last year, staff approved a one-time event date change to June. This
+year, the applicant asked to hold the event during Savor the Summit event, which was a
+
+Park City                                 Page 14                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 15
+
+peak time. She indicated this event didn't meet one of the exceptions to hold an event
+during a peak time. Staff was working hard to find a balance for the community and
+denied the request for the peak time event date.
+
+Jennifer Schmidt, Park City Baseball Club President, urged Council to approve the Park
+City Baseball Invitational (PCBI) on June 24-26. There was good cause to support the
+community baseball program and its fundraising efforts. She noted they would be
+limiting spectators at the events. She also proposed alternate dates of July 8-10, if their
+first choice was unacceptable. She indicated staff was hesitant to approve the second
+choice because of the quick turnaround in games, and indicated if the alternate dates
+were approved, they would contribute volunteers to help with field cleanup. She noted
+this was a fundraising event to help the 12-year-old teams.
+
+Council Member Gerber asked why those two dates were the only two options. Schmidt
+stated there were eight teams and they chose other tournaments on other weeks so that
+limited the weekends where all teams were available. Council Member Worel asked
+about the diversity of the teams. Schmidt stated there were Salt Lake City teams, some
+Colorado teams, and Utah County teams. Council Member Worel asked more
+specifically about the ethnic diversity of local teams. Schmidt stated there were
+Solomon Fund scholarships given to children who would benefit from them. There were
+currently male and female ball players in the club.
+
+Council Member Doilney asked why the County ballfields were not an option. Schmidt
+stated she hadn't reached out to the County because they wanted to keep it local and
+small.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Joyce stated Council had deep discussions on events a few years ago,
+in response to community feedback. Blackout dates were created and he wanted to
+respect that commitment to the community. He suggested she book next year on an
+available date. Schmidt requested that Council consider July 8-10. Diersen stated
+Council's decision was only on the appeal.
+
+Council Member Doilney stated he supported Triple Crown from an economic
+perspective. He agreed with Council Member Joyce on making exceptions on blackout
+dates and stated he could not support this appeal. Council Member Gerber did not
+support the appeal and requested they work with staff for future dates.
+
+Council Member Worel moved to deny the Park City Baseball event appeal of peak
+times. Council Member Doilney seconded the motion.
+
+
+Park City                                 Page 15                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 16
+
+
+RESULT: DENIAL OF APPEAL
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+3. Consideration to Approve the Park Silly Sunday Market (PSSM) Supplemental
+Plan:
+Jenny Diersen, Special Events Manager, and Kate McChesney, PSSM Executive
+Director, presented this item. Diersen noted the changes in the contract, including noise
+reduction, bollard installation by market personnel, and no vendor parking on Park
+Avenue. The market dates would be June 6-September 26, with no events on August 1,
+8, or 15. She indicated there would be high COVID protocols regarding masks,
+reduction of booths during the first four weeks, a QR code for contact tracing, and other
+COVID mitigation related efforts. City services fees were estimated at $84,500 and
+PSSM would owe the City $10,300 at the end of the season. Diersen requested two
+Council liaisons for the PSSM working group. McChesney thanked Council and was
+confident that her team could put on a safe event this summer.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Joyce volunteered to be a liaison for this event. He thought the COVID
+protocols were good, but he had concerns. He noted the CDC thought outdoor events
+were safe. He felt the key to success was being flexible. McChesney indicated they
+would have frequent check-ins with the health department and the City in order to be
+flexible.
+
+Council Member Henney volunteered to be a liaison as well. Council Member Gerber
+stated 45 booths would be reduced for the first four weeks and asked what would
+happen after that. McChesney stated it was a wait-and-see game and plans would be
+adjusted depending on the circumstances. She appreciated having Car-Free Main
+Street Sundays so the market could be spread out across nine blocks instead of three.
+
+Council Member Worel was happy that PSSM was collaborating with the Latino Arts
+Festival and felt the residents were getting two events in one. McChesney noted that
+would be held on June 20th. Council Member Joyce referred to the past parking
+problems associated with this event and indicated parking prices were used as a
+control. He thought people might be hesitant to take transit because of COVID, and he
+thought parking would be a concern. He asked if there should be a higher charge for
+parking to curb that demand. Diersen stated the recommendation was to leave the 2019
+rates for a couple weeks and monitor the demand before returning to Council with an
+amendment. Council Member Joyce encouraged staff to tee up an expectation that the
+capacity would be full. Diersen indicated she would be attending a meeting with HPCA
+representatives and this topic would be brought up. She stated last year during Car-
+
+Park City                                Page 16                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 17
+
+Free Sundays there was not paid parking and there were no parking problems. She
+hoped visitors would look at alternate modes of transportation. Council Member Henney
+stated Diersen should plan for dynamic pricing for parking instead of an amendment to
+the supplemental plan.
+
+Council Member Joyce moved to approve the Park Silly Sunday Market Supplemental
+Plan with the amendment that Council will consider updating parking prices on a regular
+basis throughout the summer, and that Steve Joyce and Tim Henney will serve as the
+Council liaison appointments. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+4. Consideration to Approve Ordinance 2021-18, an Ordinance Amending the
+Land Management Code § 15-6.1-3, Zoning Districts and Uses; § 15-6.1-6, Density;
+§ 15-6.1-7, Setbacks; § 15-6.1-8, Building Height and Facades; § 15-6.1-9, Parking -
+to Allow Affordable Master Planned Developments (AMPD) in the Historic
+Commercial Business and Historic Recreation Commercial Zoning Districts:
+Rebecca Ward, Land Use Planner, presented this item. She reviewed the code
+amendments over the past few years were an effort to reach the City's affordable
+housing goals. This amendment would allow Affordable Master Planned Developments
+(AMPD) in non-residential historic districts. The Historic Preservation Board (HPB) also
+recommended allowing affordable employee accessory units within non-residential
+uses, incentives to preserve historic footprints for more affordable historic single family
+dwellings, workforce housing units in Old Town that would allow for shared living and
+kitchen spaces, and incentives to attract car-free tenants.
+
+She noted the AMPD in the Historic Commercial Business (HCB) District must comply
+with the zoning requirements of setbacks, building volume and height, floor area ratio,
+restrictions for properties that extended from Main Street to Swede Alley, and parking.
+An AMPD in the HRC zone would be eligible for incentives, such as additional height
+extensions with a 10-foot setback, up to 45 feet and the ability to request parking
+reductions.
+
+Ward indicated AMPDs would be prohibited in the Historic Recreation Commercial
+(HRC) District adjacent to the HR-1 zone to serve as a buffer between the HRC and the
+HR-1 zones. She thought carving out the properties on the west side of Park Avenue
+would be a buffer between the higher density and greater heights area and residential
+areas.
+
+Council Member Worel asked what would trigger parking exceptions that were granted
+by the Planning Commission returning to them for reconsideration. Ward stated a few
+permits required reevaluation if there were community complaints. Council Member
+
+Park City                                Page 17                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 18
+
+Worel was concerned that the burden of enforcement was placed on the neighbors and
+she thought it would be good to put a solution in the code language if possible.
+
+Mayor Beerman asked if the zone included China Bridge and Sandridge Lot. Ward
+stated the Planning Commission recommended looking into expanding this to those
+areas. Currently, no residential uses were allowed in those areas. Staff needed more
+time to evaluate what the parameters might look like so it would fit into the adjacent
+zones, i.e., where the HCB zone was located and the buffers in place, they would look
+at what the buffers would look like to those extended parking areas. Mayor Beerman
+was hopeful code language could be developed because those were the areas where
+the most AMPDs could be developed.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Worel moved to approve Ordinance 2021-18, an ordinance amending
+the Land Management Code § 15-6.1-3, Zoning Districts and Uses; § 15-6.1-6, Density;
+§ 15-6.1-7, Setbacks; § 15-6.1-8, Building Height and Facades; § 15-6.1-9, Parking - to
+allow Affordable Master Planned Developments (AMPD) in the Historic Commercial
+Business and Historic Recreation Commercial Zoning Districts. Council Member Gerber
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+5. Consideration to Approve Ordinance 2021-19, an Ordinance Approving the
+Northstar Subdivision Lot 2 & 3 Lot Line Adjustment, Located at 1049 and 1025
+Lowell Avenue, Park City, Utah:
+Brendan Conboy, Senior Planner, presented this item. He indicated this was a lot line
+adjustment to accommodate a garage. There were conditions to bring a teepee
+structure into compliance, to make the shared driveway beneficial to both lots, and to
+allow access only from Lowell Avenue.
+
+Council Member Worel asked how long the teepee structure could be up and how would
+the City know somebody had a teepee. Conboy stated the teepee structure was allowed
+to be set up for a maximum of 180 days per year. There was no permit for a teepee,
+but the City would know if it wasn’t in compliance from complaints.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+
+
+
+Park City                               Page 18                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 19
+
+Council Member Joyce moved to approve Ordinance 2021-19, an ordinance approving
+the Northstar Subdivision Lot 2 & 3 Lot Line Adjustment, located at 1049 and 1025
+Lowell Avenue, Park City, Utah. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+6. Consideration to Approve Ordinance 2021-20, an Ordinance Approving the Lot
+2 Willow Ranch Replat, First Amended, Located at 2750 Meadow Creek Drive,
+Park City, Utah:
+Brendan Conboy, Senior Planner, presented this item and stated the applicant
+requested to move some of the home square footage to the barn to stay in allowed
+maximum square footage limits.
+
+Council Member Joyce was concerned about the new height for the barn in relation to
+the square footage, and thought the actual square footage of the barn should be
+determined. Some of the Council thought there were many unanswered questions with
+this request.
+
+Jerry Hall, applicant, stated he was trying to solve this issue that was created years ago.
+He thought 400-600 square feet would be shifted from the home to the barn. He hoped
+for Council approval before the demolition began because he was afraid of completing
+the demolition phase and then not being able to get approval. The current house had a
+steep pitched roof and he wanted the barn’s roof to match. Council Member Joyce
+asked if Hall understood that the barn could not be a dwelling, to which Hall affirmed.
+Council Member Henney stated Hall requested to go back to the original plat with the
+original conditions and he supported that. Hall noted the conditions stated the Certificate
+of Occupancy had to be received on the house before they could start on the barn.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Worel asked what process the HOA went through before they
+supported this amendment. Hall indicated he had to discuss it with the other owners in
+the HOA and it was not a difficult process.
+
+Council Member Joyce moved to approve Ordinance 2021-20, an ordinance approving
+the Lot 2 Willow Ranch Replat, First Amended, located at 2750 Meadow Creek Drive,
+Park City, Utah. Council Member Henney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+
+
+Park City                                Page 19                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 20
+
+X)     ADJOURNMENT
+
+XI)    PARK CITY HOUSING AUTHORITY MEETING
+
+I)     ROLL CALL
+
+      Attendee Name                                         Status
+      Chair Andy Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+                                                            Present via
+      Board Member Steve Joyce
+                                                            technology
+      Board Member Nann Worel
+      Matt Dias, Executive Director
+      Margaret Plane, Special Counsel
+      Michelle Kellogg, Secretary
+      None                                                  Excused
+
+II)  PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Chair Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Board on items not included on the agenda. No comments were given.
+Chair Beerman closed the public input portion of the meeting.
+
+III) NEW BUSINESS
+
+1. Consideration to Approve the PEG Development Affordable Housing Mitigation
+Plan in Fulfillment of the Affordable Housing Obligation Generated by the Park
+City Mountain Base Area Development Project:
+Jason Glidden, Housing Manager, and Nick Blayden and Kristin Williams from PEG
+Development, presented this item. Glidden reviewed the history of the development and
+the associated affordable housing requirement for this development. PEG proposed to
+amend the housing mitigation plan and meet the outstanding requirements. He stated
+the rental rates for the dorm style units were not consistent with City requirements and
+would be recalculated to be in compliance. All sales prices would be in compliance with
+the housing resolution at or below 80% Area Median Income (AMI). PEG would also
+submit a letter of credit in the amount of $2,598,000 for the completion of 23 beds that
+needed to be built.
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+
+Park City                               Page 20                            April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 21
+
+Board Member Joyce moved to approve the PEG Development Affordable Housing
+Mitigation Plan in fulfillment of the affordable housing obligation generated by the Park
+City Mountain Base Area Development Project. Board Member Henney seconded the
+motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV)    ADJOURNMENT
+
+XII) PARK CITY REDEVELOPMENT AGENCY MEETING
+
+I)     ROLL CALL
+
+      Attendee Name                                           Status
+      Chair Andy Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+                                                              Present via
+      Board Member Steve Joyce
+                                                              technology
+      Board Member Nann Worel
+      Matt Dias, Executive Director
+      Margaret Plane, Special Counsel
+      Michelle Kellogg, Secretary
+      None                                                    Excused
+
+II)  PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Chair Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Board on items not included on the agenda. No comments were given.
+Chair Beerman closed the public input portion of the meeting.
+
+III) NEW BUSINESS
+
+1. Consideration to Approve an Economic Development Grant Contract for
+$20,000 for Offset Bier LLC in a Form Approved by the City Attorney:
+Jonathan Weidenhamer, Economic Development Manager, and Conor Brown with
+Offset Bier, presented this item. Weidenhamer stated the applicant met all the
+requirements for this grant.
+
+
+
+
+Park City                                Page 21                             April 29, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+April 29, 2021
+P a g e | 22
+
+Brown stated he lived in Park City for 15 years. He was a ski racer and moved here
+from Vermont. He was excited to open the brewery and connect with the community. He
+noted his dad and grandfather were small business owners and now he had the
+opportunity to be a small business owner as well.
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+Board Member Doilney moved to approve an economic development grant contract for
+$20,000 for Offset Bier LLC in a form approved by the City Attorney. Board Member
+Worel seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV)   ADJOURNMENT
+
+With no further business, the meeting was adjourned.
+
+                                                       _________________________
+                                                       Michelle Kellogg, City Recorder
+
+
+
+
+Park City                              Page 22                           April 29, 2021
+Park City Arts and Culture District
+          Council Work Session – April 29, 2021
+                 Recent council work sessions
+July 9, 2020 – Preliminary construction cost estimates & cash flow model
+December 15, 2020 – Revised cost estimates & proposed phasing plan
+for City-owned District elements
+January 7, 2021 – District housing, transportation, and costs
+January 21, 2021 – District transportation infrastructure
+February 4, 2021 – District housing
+February 25, 2021 – Revised plan of finance
+March 31, 2021 – Public hearing
+April 1, 2020 – Next steps brief discussion
+       Feedback we heard on scope and budget
+
+• Reduce project costs overall
+• Bring down the housing cost per unit
+• Prepare additional scope options + phasing
+• Show a budget that doesn’t use ARCST
+• Consider more aggressively leveraging TRT
+• Identify a process and deliverables regarding City and Partners’
+  commitments
+City Facilities
+Building 1 Creative Spaces
+Housing Phasing
+                                    Funding
+No use of ARCST
+Use 75% of anticipated TRT revenues for debt service – a 20 year $25 million bond
+Housing funds contribute $100,000 per unit for Base Site Elements
+$5 million from Transportation Fund (+ $900,000)
+$1.25 million from WALC bond proceeds (+ $750,000)
+$5.55 million from repurposing/recapturing capital project funds (+ $1 million)
+                                      Scope
+Shell/fit-out approach for non-residential parts of the District
+More economical materials – no mass timber
+Move the artist-in-residence units to Building 1
+Tenant improvement funds TBD
+                                    Scenario 1
+                  Eliminate Building 2; build 28 housing units initially
+Cost: $57.3 million (excluding land)
+Extend Building 3 to south and redesign the corner space to fully embrace a transit
+center/depot that better integrates with the Bonanza/Munchkin corner.
+Add outdoor interactive features instead of a building – sculpture space, play area,
+and a place for recreation to merge with art space
+Uses $13 million of housing funds initially; preserves ability to add housing later
+(affordable or artist in residence or market rate).
+No funding gap; some funds available for tenant improvements and other
+enhancements.
+                                 Scenario -->          1
+                                                  No Bldg 2; No
+USES                                              Housing B/C
+Subtotal Site                                     $ 28,176,562
+Housing Phase II (28 units)                       $ 8,907,424
+Housing Phase III (16 units)                      $          -
+Housing Phase IV (16 units)                       $          -
+Building 1 Balcony/Housing common                 $ 1,281,464
+Building 1 Coop Core & Shell                      $ 4,707,664
+Building 4 Food Hall/Event Core & Shell           $ 6,555,022
+Building 2 Transit Center/Acoustic performance    $          -
+Building 3 Programmable Arts Space Core & Shell   $ 7,622,046
+Total                                             $ 57,250,181
+SOURCES
+Housing funds                                     $ 12,988,888
+Transportation Fund                               $ 5,000,000
+WALC Bond proceeds                                $ 1,250,000
+TRT Bond                                          $ 25,200,000
+TRT cash on hand                                  $ 6,000,000
+Capital repurpose                                 $ 5,550,000
+Sale of land                                      $ 6,825,000
+Total                                             $ 62,813,888
+delta                                             $   5,563,707
+                                   Scenario 2
+                  Delay all housing; delay co-op spaces; no Building 2
+Cost: $42.4 million.
+Extend Building 3 to south and redesign the corner space to embrace transit along
+Bonanza more directly.
+Add outdoor interactive features instead of a building here – sculpture space, play
+area, a place for recreation to merge with art space.
+Buildable pads for future determination potentially allows for a more organic
+approach to the District’s buildout over time.
+Move co-op studio uses into Building 3.
+No funding gap; substantial funds available for tenant improvements and other
+enhancements.
+                                 Scenario -->            2
+                                                  No Housing; No
+USES                                              Co-op; No Bldg 2
+Subtotal Site                                     $   28,176,562
+Housing Phase II (28 units)                       $            -
+Housing Phase III (16 units)                      $            -
+Housing Phase IV (16 units)                       $            -
+Building 1 Balcony/Housing common                 $            -
+Building 1 Coop Core & Shell                      $            -
+Building 4 Food Hall/Event Core & Shell           $    6,555,022
+Building 2 Transit Center/Acoustic performance    $            -
+Building 3 Programmable Arts Space Core & Shell   $    7,622,046
+Total                                             $   42,353,629
+SOURCES
+Housing funds                                     $            -
+Transportation Fund                               $    5,000,000
+WALC Bond proceeds                                $    1,250,000
+TRT Bond                                          $   25,200,000
+TRT cash on hand                                  $    6,000,000
+Capital repurpose                                 $    5,550,000
+Sale of land                                      $    6,825,000
+Total                                             $   49,825,000
+delta                                             $      7,471,371
+                                    Scenario 3
+         Full buildout – Construct 60 housing units, all cultural/artist facilities
+Cost: $73.9 million
+Uses $24.3 million of housing funds
+No funding gap; but less funds available for tenant improvements and other
+enhancements
+                                 Scenario -->          3
+
+USES                                              Full Buildout
+Subtotal Site                                     $ 28,176,562
+Housing Phase II (28 units)                       $ 8,907,424
+Housing Phase III (16 units)                      $ 3,898,451
+Housing Phase IV (16 units)                       $ 4,184,868
+Building 1 Balcony/Housing common                 $ 1,281,464
+Building 1 Coop Core & Shell                      $ 4,707,664
+Building 4 Food Hall/Event Core & Shell           $ 6,555,022
+Building 2 Transit Center/Acoustic performance    $ 8,504,463
+Building 3 Programmable Arts Space Core & Shell   $ 7,622,046
+Total                                             $ 73,837,963
+SOURCES
+Housing funds                                     $ 24,272,207
+Transportation Fund                               $ 5,000,000
+WALC Bond proceeds                                $ 1,250,000
+TRT Bond                                          $ 25,200,000
+TRT cash on hand                                  $ 6,000,000
+Capital repurpose                                 $ 5,550,000
+Sale of land                                      $ 6,825,000
+Total                                             $ 74,097,207
+delta                                             $    259,244
+                    Park Avenue Redesign Pilot Program
+
+
+
+
+                                                  Alternative 1A
+• Fall 2020 - public outreach, door-to-door outreach, stakeholder group presentations, website and stakeholder
+  survey
+• Survey - 190 responses; 50% of responders stated parking was not important, 90% indicated walkability was
+  important
+• Five alternatives were presented to the neighborhood and Council for consideration in September
+• The preferred alternative (1A):
+       • Prioritizes a neighborhood-street aesthetic option over the traditional option that favored storage of on-
+         street parking and vehicle per hour throughput;
+       • Adds a striped parking lane, placement of an advisory bike lane (ABL) on the west side of the roadway for
+         southbound bikes, and markings for “sharrows” on the east side of the road; and
+       • Preserves a total of 91 on-street parking stalls
+• May 12: Restriping work scheduled to begin
+• May 12-15: Bike lane painting
+ LAND MANAGEMENT CODE AMENDMENTS
+AFFORDABLE MASTER PLANNED DEVELOPMENTS IN HISTORIC DISTRICTS
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+ HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+Affordable Master Planned Developments (AMPDs) that provide at least
+ half of the Residential Unit Equivalents for affordable units qualify for:
+
+       • Building Heights up to 45 feet with a 10-foot stepback
+
+                     • Potential parking reductions
+
+                 • Reduced open space requirements
+
+                   • Reduced setback requirements
+
+       •   Up to 10,000 square feet retail/commercial/office use
+           AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+AMPDs are currently allowed in non-historic Zoning Districts that allow
+                  Multi-Unit Dwellings, including:
+
+                      Residential Development
+                  Residential Development Medium
+                         Residential Medium
+                       Recreation Commercial
+                        General Commercial
+                           Light Industrial
+                        Community Transition
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+        On February 25, 2021, the City Council adopted the new
+        Affordable Master Planned Development (AMPD) code.
+
+             The Council directed staff to evaluate AMPDs
+                  in non-residential Historic Districts.
+
+The proposed Land Management Code (LMC) amendments allow AMPDs
+              in the Historic Commercial Business (HCB)
+      and Historic Recreation Commercial Zoning Districts (HRC),
+                   subject to additional requirements.
+             AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+On April 7, 2021, the Historic Preservation Board unanimously forwarded a
+          positive recommendation for Planning Commission and
+                        City Council consideration.
+
+On April 14, 2021, Planning Commission unanimously forwarded a positive
+              recommendation for City Council consideration.
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+   The Historic Preservation Board also recommended exploring
+      affordable opportunities in Historic Districts, including:
+
+  Accessory Affordable Employee Units within non-residential uses
+                 (Summit County is exploring this)
+
+          Incentives to preserve historic footprints for more
+              affordable historic single-family dwellings
+
+         Workforce housing units in Old Town that allow for
+                 shared living and kitchen spaces
+
+                Incentives to attract car-free tenants
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+ HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+ The Planning Commission voiced support for the Historic Preservation
+     Board recommendations and also recommended staff explore
+             Accessory Dwelling Unit (ADU) opportunities.
+
+Last night, the Planning Commission conducted a work session on ADUs
+and H.B. 82, which will pre-empt some City ADU regulations in October.
+            The Commission provided input on recommended
+                  Land Management Code amendments.
+
+        Staff anticipates bringing proposed code amendments
+                    to the Commission in early June.
+             AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+                             GENERAL PLAN
+
+Goal 15 is to preserve the integrity, mass, scale, compatibility and historic
+  fabric of the nationally and locally designated historic resources and
+                      districts for future generations
+
+Goal 16 is to maintain the Historic Main Street District as the heart of the
+   City for residents and encourage tourism in the district for visitors
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+          AMPDs require preservation of Historic Buildings
+
+   The AMPD review process already includes required analysis of
+         Historic Structures and preservation obligations
+
+               AMPDs are required to comply with the
+                 Historic District Design Guidelines
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+ AMPDs in the HCB and HRC Zoning Districts must comply with the
+                Storefront Property Regulations
+
+      No office or residential uses is allowed at the street level
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+        AMPDs in the HCB Zoning District must comply with
+            underlying zoning regulations, including
+
+                              Setbacks
+
+                    Building Volume and Height
+
+                          Floor Area Ratio
+
+             Restrictions for properties that extend from
+                      Main Street to Swede Alley
+
+                               Parking
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+          AFFORDABLE MASTER PLANNED DEVELOPMENTS
+HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+       AMPDs in the HRC Zoning District would be eligible for
+            some of the AMPD incentives, including:
+
+  Additional height extension with a 10-foot stepback, up to 45 feet
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+            AMPDs in the HRC Zoning District could request
+                a reduction in parking requirements
+
+                          The applicant must
+
+        • Demonstrate parking reductions materially increases
+                    the feasibility of the AMPD
+
+• Fund and submit a parking and traffic study completed by a third party
+                          selected by the City
+
+• Demonstrate that the AMPD sufficiently addresses the parking demand
+                           for the project
+             AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+The Planning Commission may consider certain factors to reduce parking
+                          requirements:
+
+• A clear and irrevocable agreement authorizes AMPD tenants to park in
+   an off-site Parking Area of Parking Structure within 1,000 feet of the
+                          AMPD perimeter boundary
+              • The AMPD is within ¼-mile from a bus stop
+         • The AMPD provides dedicated parking spaces for
+                        resident carshare vehicles
+• Parking in the right-of-way along the perimeter of the AMPD is available
+
+ Additional considerations include extra parking facilities for motorcycles,
+   scooters, and bikes, and reductions for sites smaller than one acre
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+If the Planning Commission approves reduced parking, the applicant must
+submit a parking management plan to the Planning Commission for review
+               prior to issuance of a Certificate of Occupancy
+
+The Planning Commission may amend the parking management plan at any
+               time to address changing circumstances
+             AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+  AMPDs would be prohibited in the HRC Zoning District adjacent to the
+Historic Residential – 1 (HR-1) Zoning District to serve as a buffer between
+                          the HRC and HR-1 zones
+            AFFORDABLE MASTER PLANNED DEVELOPMENTS
+  HISTORIC COMMERCIAL BUSINESS AND HISTORIC RECREATION COMMERCIAL ZONES
+
+
+
+
+Staff recommends the City Council conduct a public hearing and consider
+                 approving Ordinance No. 2021 – 18
+1049 Lowell Avenue – Lot Line Adjustment
+           (Plat Amendment)
+              City Council
+            Regular Agenda
+             April 29, 2021
+                   1025 Lowell      1049 Lowell    Northstar             Neighborhood
+                                                   Subdivision           in General
+Average Lot Size   Existing: 0.25   Existing: 0.33 0.30 Acres for lots   .05 Acres on
+                   Acres            Acres          fronting Lowell       Eastern side
+                                                   Ave                   of Lowell Ave
+
+                   Proposed:        Proposed:      0.56 Acres total      0.08 Acres for
+                   0.15 Acres       0.43 Acres     including larger      Lots fronting
+                                                   hillside lots         Lowell Ave
+Lot 2 (1049 Lowell)         Existing         Proposed
+Lot Size                    14,483 SF        18,750 SF
+                                             (~29% increase in Lot Size)
+Allowable Footprint         3,209 SF         4,500 SF Max
+                                             3,465 Proposed
+
+                                             (400 SF Garage Exempt for Lots >
+                                             18,750)
+                                             Total: 3,865 Proposed actual
+Existing Footprint          3,515 SF House   - 638 SF (Demo existing garage)
+                            and Detached
+                            Garage           + 988 SF New attached garage/ski
+                                             room
+
+                                             = Net 350 SF addition overall
+
+Existing/Potential Square   4,802 Existing
+Footage                     per Assessor
+
+                            Potentially      Potentially
+                            ~6,000+ SF       ~6,500+ SF
+Lot 3 (1025 Lowell)        Existing          Proposed
+Lot Size                   10,867 SF         6,559 SF
+                                             (~40% decrease in Lot Size)
+Allowable Footprint        2,950 SF Max      2,269 SF Max
+
+Existing Footprint         N/A               N/A
+
+
+Potential Square Footage   Potentially       Potentially
+                           ~5,500 to 6,000   ~4,500 to 5,000 SF
+                           SF
+Findings of Fact:
+1. The subject properties are located at 1049 and 1025 Lowell Avenue.
+2. The subject properties consist of Lot 2 and Lot 3 of the Northstar Subdivision.
+3. The property is in the Historic Residential (HR-1) District.
+4. 1049 Lowell Avenue contains an existing Detached Single Family Dwelling. 1025
+    Lowell Avenue is vacant land.
+5. The applicant proposes to adjust the Interior Lot Line of the subject Lots.
+6. The proposed Lot Adjustment meets the Lot and Site Requirement of the Land
+    Management Code.
+7. The applicant has submitted an application for Historic District Design Review, which
+    will be processed should the Plat be approved..
+8. The applicant will be subject to the Design Guidelines for Park City’s Historic Districts.
+9. No public Streets, Right-of-Way, or easements will be vacated or amended as a result
+    of the proposed Plat Amendment.
+10. The teepee structure on site has been erected for a period of time exceeding 180 days
+    and is subject to code enforcement.
+Conditions of Approval:
+1. The City Planner, City Attorney, and City Engineer will review and approve the final form and content of the Plat for compliance
+   with State law, the Land Management Code, and the Conditions of Approval, prior to recordation of the Plat.
+2. The applicant will record the Plat at the County within one year from the date of City Council approval. If recordation has not
+   occurred within one (1) years’ time, this approval for the Plat will be void, unless a request for an extension is made in writing
+   prior to the expiration and an extension is granted by the City Council.
+3. New construction shall meet Site and Lot requirements of the HR-1 District per the Land Management Code in effect at the
+   time of application submittal.
+4. A Historic District Design Review application is required for any new construction proposed at the Site.
+5. A shared driveway easement for the benefit of Lots 2 and 3 shall be recorded for the driveway and the retaining wall
+   that crosses Lot 3 and shall be reviewed and approved by the City Engineer and City Attorney prior to recordation of
+   the plat.
+6. The existing teepee shall be removed prior to plat recordation. The applicant shall limit any future tent or tarpaulin
+   structure less than 400 square feet erected on site to a maximum of 180 days within a 12-month period. Should the
+   applicant desire to exceed the 180 day limit a Building Permit will be required. Failure to adhere to these terms will
+   result in code enforcement.
+7. The applicant shall include a plat note stating that any encroachments onto Lot 3 for the benefit of Lot 2 shall be
+   removed from the site prior to dispossession or sale of the property to a second party or the applicant shall otherwise
+   record encroachment agreements prior to the recordation of the plat with Summit County.
+8. Access to Lots 2 and 3 shall be only from Lowell Avenue or an easement off of Lowell Avenue.
+
+5.   The applicant shall obtain encroachment agreement(s) for all encroachments prior to recording the plat with Summit County.
+6.   The applicant shall record the extension of Northstar Road on the Final Plat, subject to City Engineer approval.
+Lot 2 Willow Ranch Plat Amendment
+     2750 Meadow Creek Drive
+
+           City Council
+          April 29, 2021
+   Background
+• Lot 2 Willow Ranch Subdivision.
+• Estate Zone, 7-acre site, improved with SF
+  residence.
+• Lot has maximum house and barn size as noted in
+  Plat Notes and CC&Rs.
+• Applicant is requesting to move square footage
+  allocated from the house to the barn but will stay
+  within the original total square feet allocated to the
+  lot, as well as building envelopes shown on Plat.
+          1993 Plat
+Limited Home
+size to 8,000 sf
+and Barns to
+1,800 sf.
+
+Height limited to
+Zone Height of 28
+ft.
+       1999 Replat
+Approved the
+reallocation of
+1,300 sf of Barn
+area to the Home
+and limited height
+of Barn.
+House max 9,300
+sf.
+Barn max 500 sf
+& 18 ft. height.
+             Proposed Amendment
+Move square
+footage from the
+house back to the
+barn, remain within
+the original total sf
+allowed on the lot
+(9,800 sf), as well
+as within the
+building envelopes
+shown on Plat, but
+not have the
+square footage
+fixed between the
+two structures.
+   Good Cause
+• Proposed Amendment is consistent with the total square
+  footage allowed on the lot between the home and barn. The
+  Plat Amendment will allow the applicant to allocate square
+  footage from the house to the barn consistent with the
+  original Willow Ranch Subdivision Plat Notes and CC&R’s.
+  The barn will not exceed 1,800 square feet and will be
+  constructed within the allowed building envelope shown on
+  the Plat.
+     Conditions
+18. The Building Heights of the home and barn are limited to 23 feet to
+    the midpoint of the roof and 28 feet to the peak of the roof. and the
+    building height of the barn is limited to 18 feet to the peak of the
+    roof. The barn shall not have a flat roof.
+21. The combined total square footage of the home and the barn shall not
+    exceed 9,800 square feet, excluding the first 600 square feet of home
+    attached garage space per CC&Rs and the City’s Land Management
+    Code.
+22. The barn square footage will be limited to a maximum of 1,800 square
+    feet as originally allowed in the Willow Ranch Subdivision Plat and
+    CC&R’s, with no human occupancy.
+         Recommendation
+• Staff recommends the City Council hold a Public Hearing
+  and consider approving Ordinance Number 2021-20, An
+  Ordinance Approving the Lot 2 Willow Ranch Replat, First
+  Amended, Located at 2750 Meadow Creek Drive, Park
+  City, Utah, based on the Findings of Fact, Conclusions of
+  Law and Conditions of Approval found in the Ordinance.
+  PEG Development
+Housing Mitigation Plan
+      April 29, 2021
+            Housing Mitigation Plan
+•   Section 3 of the 03-17 Housing Resolution states the purpose of the
+    resolution and why the City requires Housing Mitigation Plans for
+    large developments.
+
+    SECTION 3. PURPOSE. The purpose of this Resolution is to ensure
+    that new development does not adversely affect the supply of
+    affordable housing in the City and to maintain the social, economic
+    and political fabric of Park City’s community character. It is
+    intended that the requirements imposed herein are roughly
+    proportionate and reasonably related to the impacts of the
+    Development.
+                 Park City Resort
+                   Background
+• The 1998 Development Agreement requires the Developer to
+  construct or provide deed-restricted offsite housing for 80 PCMR
+  employees
+• Outstanding obligation of 23 beds from the development of parcel
+  A (Marriot, Legacy Lodge)
+• From 2015 MPD Amendment: Prior to any new application
+    • Outstanding obligation must be satisfied with off-site housing,
+      or
+    • Amend the Housing Mitigation plan, and
+    • Submit a completion bond or letter of credit in a form
+      approved by the City Attorney
+• Any new applications must meet guidelines of current resolution
+                  Background
+• The Housing Authority provided the following feedback during the
+  October 13, 2020 work session. The feedback centered around:
+   • Outstanding Obligations
+   • Dorm Style Housing
+   • Independent Calculations
+   • Phasing
+   • Bond/Letter of Credit
+
+• The Housing Authority held a second work session on April 1, 2021
+  and provided feedback to the updated plan that addressed the issues
+  identified at the first work session.
+         PEG Proposed HMP
+Summary of proposed Housing Obligation according to PEG
+(Exhibit B):
+• 23 beds outstanding from the 1998 DA
+• 65.97 AUE’s required by new commercial development
+• 20.85 AUE’s required by new residential development
+
+Summary of PEG’s proposal to meet the Housing Obligation:
+• Three dormitories of 8 rooms each, totaling 24 beds; and
+• Eighty-Six - 1, 2, and 3 bedroom condominiums ranging
+  from 575 to 1,832 sqft.
+• AUE’s required by commercial will be rental units (70%).
+• AUE’s required by residential will be for sale units (30%).
+• A total of 161 beds provided (23 outstanding and 138 new)
+                     PEG Proposed HMP
+Phasing
+•   All the affordable housing will be built in the first phase, on Parcel B. An unconditional
+    certificate of occupancy for the Project, or a temporary certificate of occupancy if it allows for
+    operation of the affordable housing units.
+
+Eligibility & Selection Process
+•   The dorm style units will be reserved for seasonal employees working at the new base
+    development to rent.
+•   The rental and for-sale units will be offered to the new base development employees first,
+    then offered to the rest of the Resort employees. If units remain un-rented, they will be offered
+    to employees of other commercial businesses located at the Resort base.
+                                        Issues
+Rental Rates
+•   Rental rates will be set in accordance with the 03-17 Housing Resolution. All rental rates will
+    be calculated to target households of 45% AMI for Summit County and will be at or below the
+    allowable maximum rental rates as determined by the City and updated on an annual basis.
+
+Sales Prices
+•   PEG proposes to construct all affordable units (including the outstanding obligation of 23
+    beds) on-site in the first phase after “occupancy” of the proposed parking structure. The
+    affordable units will be built concurrently with market-rate units in lot B, but PEG is proposing
+    that none of the market rate units receive Certificates of Occupancy prior to affordable unit
+    completion.
+
+Letter of Credit
+•   PEG will get a letter of credit in place for the 23 beds that are required to be built per the 2017
+    agreement. These units will be first to receive Certificate of Occupancy. The credit will be in
+    the amount of $2,598,000.
+               Recommendation
+Review the Affordable Housing Mitigation Plan proposed by PEG
+Development, hold a public hearing, and consider approving the
+plan to fulfill the affordable housing obligation generated by the
+proposed Park City Mountain Base Area Development project.
+PEG Housing Mitigation Plan
+2.23.21
+
+PEG Development is pleased to be able to incorporate the housing mitigation plan as a part of the
+proposed Master Site Plan, maximizing the base area parcels for workforce housing that is within
+walking distance of employment, and integrating for-sale attainable housing into the redeveloped area,
+creating a vibrant, year-round neighborhood compatible with surrounding residents, reducing daily
+traffic, enhancing the quality of life for our valued workforce and local resident, and helping to meet
+community environmental and housing goals. The housing mitigation plan is in response to the March
+25, 2015 Master Planned Development, Development Agreement, and Mountain Upgrade Plan
+Amendments and Conditional Use Permit, whereby MPD Condition of Approval #3 requires that unless
+section 2.2 of the Development Agreement is satisfied an updated housing plan shall be presented to
+the Housing Authority, either independently or in conjunction with a Small Scale MPD/CUP.
+
+Background
+
+The 1998 Development Agreement requires the construction of 80 beds. (DA Section 2.2 Employee
+Housing). The Marriott Mountainside on Parcel A was constructed in 2001 without providing any beds.
+
+The March 25, 2015 action identified the 23 beds are outstanding from the Marriott Mountainside per a
+pro-rata allocation based on square footage for the project (findings of fact #116) and that Vail Resorts,
+as the now owner of the base area parcels, would be responsible for those beds. PEG, as the developer
+of the base area parcels, has agreed to assume that obligation within the updated housing mitigation
+plan and new proposal for the base area.
+
+Proposed Plan
+
+PEG, in conjunction with the Master Site Plan, proposes that the 57 remaining bed requirements of the
+DA be replaced instead by the current 2017 Park City Affordable Housing Guidelines, as allowed by
+Condition of Approval #3 in the 2015 action. What this means is PEG, in meeting its obligations, will be
+able to deliver more housing than the other option of 80 beds. As stated in Section 14 (A) of the 03-2017
+Affordable Housing Plan, PEG is also committing to delivering all of the housing in Phase 1 of
+construction on Parcel B and within a very dynamic plan to construct structured day-skier parking, on-
+site housing and innovative pedestrian connectivity through the redevelopment, before any market rate
+for sale condos receives Certificate of Occupancy.
+
+The 2017 Park City Affordable Housing Resolution calls for a total affordable housing square footage for
+commercial uses based on an employee mitigation calculation.
+
+The 2017 Park City Affordable Housing Resolution regarding for sale condominium mitigation calls for
+15% of units to be affordable units. Each affordable unit is calculated as 900 SF per the Resolution.
+
+Per the Resolutions methodology and PEG’s classification of the square footages by use in the proposed
+Master Site Plan, the required affordable housing square footage is determined as shown on the
+attached calculations in Table 1. The square footage and number of units provided under the 2017
+Resolution is significantly more than the remaining 57 beds. While a direct comparison between the DA
+requirement of 57 beds and the current resolution (i.e. beds vs square footage), is a little like apples and
+oranges, the proposed plan based on the Master Site Plan provides 77,065 sf of net affordable housing
+which results in approximately 86 units in a mix of 1, 2 and 3 bedroom configurations with a total of 137
+bedrooms; this calculation excludes the Parcel A requirement of 23 beds which would further increase
+the total affordable beds included in the proposed project to approximately 161 beds. The 23-bed
+
+                                                                                                           1
+PEG Housing Mitigation Plan
+2.23.21
+
+requirement would be fulfilled by building three dorm style units with 8 beds per unit totaling to 24
+beds. These units will be designed with no more than two beds per bedroom and follow the 03-2017
+Affordable Housing Guidelines Section C. See Exhibit A of current dorm style units in other PEG
+properties. The final count of units/bedrooms may adjust slightly with final preparations of plans and to
+address City input, however the required square footage will be provided per the Resolution.
+Calculations for the affordable housing are shown on Table 1.
+
+Table 1
+
+
+
+
+                                                                                                        2
+PEG Housing Mitigation Plan
+2.23.21
+
+All affordable housing would be deed restricted and subject to Park City affordable housing guidelines
+including very affordable rent and sales restrictions.
+
+All the affordable housing will be built in the first phase, on Parcel B. An unconditional certificate of
+occupancy for the Project, or a temporary certificate of occupancy if it allows for operation of the
+affordable housing units has been issued and all other licenses, permits, authorizations and approvals
+required for the Owner to use the Project for its intended use have been issued.
+A site plan and floor plans for Parcel B, including the parking, market rate condos and affordable housing
+are attached as Exhibit A and B.
+Exhibit A
+
+
+
+
+Exhibit B
+
+
+
+
+                                                                                                         3
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+                              4
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+                              5
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+                              6
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+The following tables shows how we did the independent calculation of the proposed membership-only
+Ski Club and for the associated positions to support the ski club. As modeled after successful club
+operations at Deer Valley and Vail, the ski club will have valet parking, designated lockers with private
+locker rooms, year-round ski storage, year-round roof top pool and hot tubs. A few of the benefits will
+be complimentary daily continental breakfast, refreshments served daily in the club great room, special
+member spa and dining discounts, first tracks and club ski days in the winter, weekly club ski days with
+an Instructor, winter snowshoe hikes, hiking and biking in the summer and week long summer kids
+camps and après ski activities.
+
+
+
+
+The independent calculation of the hotel meeting space is found below. The calculations show the
+staff support, the total work hours each year and the total number of employees per 1000 square feet.
+We have confirmed this with other resorts in the area, these numbers are shown pre- Covid-19.
+
+
+
+
+                                                                                                            7
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+Eligibility and Pricing
+
+Units will be divided among affordable for rent units and affordable for sale units as defined in
+Resolution 03-2017. Given that the project is built as a multi-family structure with condos for sale, the
+required affordable housing units derived from the market rate condos will be for-sale. The affordable
+housing units derived from the commercial portion of the project will be for rent. The 24 proposed beds
+to cover the 23-bed outstanding obligation from Parcel A will be Winter Seasonal Units as defined by the
+Resolution in Section 9.B. The City will pre-approve that all buyers/renters are qualified. PEG or Vail will
+administer the sale or rental of the units.
+
+Eligibility and selection of units will be determined and administered by the City’s Affordable Housing
+Office, in accordance with current Housing Selection Process, with priority given first to employees of
+the new uses of the Base Area Development (i.e. from uses on Parcel B, C, D and E), then to employees
+of Park City Mountain Resort, then to employees of commercial uses currently at the base, then to
+Senior Citizens and persons who are physically and/or mentally challenged per Section 16 of the
+Resolution. All sales will be in accordance with the Utah Fair Housing and will be handled by the owner.
+
+Pricing of for-sale units will be based on the Park City Affordable Housing Resolution 03-2017 Section
+17.C. For Sale Units. “In general, the initial sale price for an affordable unit in any one development shall
+average a price affordable to a household earning 80 percent of Summit county AMI “Target Household
+Income Sale Price shall be calculated according to the following guidelines: mortgage payment for the
+Owner Occupied Unit, including principal, interest, taxes and insurance (“PITI”), shall not exceed 30% of
+the Target Household Income. The assumptions used to calculate the sales price shall be: (i) a 5% down
+payment; (ii) a 30-year term; and (iii) an interest rate equal to the prevailing FirstHome rate, or its
+program equivalent, of the Utah Housing Corporation (www.utahousingcorp.org) at the time of the
+offer.”
+
+
+
+
+                                                                                                            8
+PEG Housing Mitigation Plan
+2.23.21
+
+Appreciation of the for-sale units will be limited to the lesser of the CPI, or the value of the unit by
+calculating the sales price in accordance with the then current Affordable Housing Resolution See
+Exhibit.
+
+(For Sale)
+
+
+
+
+*AMI is based on 2020 Summit County AMI. Affordable housing is defined as not consuming more than
+30% of the household income. $91,120.00 (80% AMI) x .30 (30%) = $27,336.00 (Yearly Mortgage);
+$27,336.00 (Yearly Mortgage) /12 = $2,278 (Monthly Mortgage)
+
+
+
+For rent housing will be managed by a professional property management company. Eligibility for the
+affordable for-rent housing will be based on the AMI standards of for-rent affordable housing with
+priority given first to employees of the new uses of the Base Area Development (i.e. form uses on Parcel
+B, C, D, and E), then to employees of Park City Mountain Resort, then to employees of commercial uses
+currently at the base. All rentals will be conducted in accordance with the Utah Fair Housing Act.
+
+Rental rates will be set in accordance with the 03-17 Housing Resolution. All rental rates will be
+calculated to target households of 45% AMI for Summit County and will be at or below the allowable
+maximum rental rates as determined by the City and updated on an annual basis. All rental units will
+submit annual compliance surveys in accordance with the recorded deed restrictions.
+
+Eligibility for the 24-bed dorm style units will be based on employment at the new hotel on Parcel C, or
+employment at Park City Mountain Resort. Should there remain vacancies the next priority would be for
+employees of existing commercial uses at the base.
+
+Rents for the 24-bed dorm style unit will be based on 03-2017 Section 9.C, and set by Special Review of
+the Housing Authority. See Exhibit B.
+
+
+
+(For rent)
+
+
+
+
+*AMI is based on 2020 Summit County AMI. Affordable housing is defined as not consuming more than
+30% of the household income. $46,129.50 (45% AMI) x .30 (30%) = $13,838.85 (Yearly Rent);
+$13,838.85 (Yearly Rent) /12 = $1,153.24 (Monthly Gross Rent); $1,153.24 (Monthly Gross Rent) – $125
+(Utilities) = $1,028.24 (Net Rent).
+
+
+
+
+                                                                                                           9
+PEG Housing Mitigation Plan
+2.23.21
+
+
+
+
+Letter of Credit
+
+PEG will get a letter of credit in place for the 23 beds that are required to be built per the 2017
+agreement. These units will be first to receive Certificate of Occupancy. The credit will be in the amount
+of $2,598,000. This was calculated by the square footage of the total 23 bed units (6000 SF) divided by
+900, the sq footage used to calculate an Affordable Unit equivalent (AUE), and multiply by the fee in lieu
+amount ($389,700). This equals $2,598,000.
+
+
+
+
+                                                                                                       10
+

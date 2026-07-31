@@ -1,0 +1,405 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1836&doc_id=35adae69-8aa5-11f0-a766-005056a89546
+> Meeting date: 2025-01-23
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, JANUARY 23, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Mary Squire
+               Commission Member Kendra Shirey
+               Commission Member Gary Ogden
+
+EXCUSED:             Andrew Adams, Chair
+                     Alternate Commission Member Laura Fidler
+                     Alternate Commission Member Shivam Shah
+                     Alternate Commission Member Christine Green
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Spencer DuShane, City Attorney
+                     Brien Maxfield, Senior Engineering Manager
+                     Nick Whittaker, City Planner
+                     Lori Stout, Administrative Assistant
+                     Michael Todd, Police Officer
+                     Mike Elkins, Police Officer
+                     Devin Sorensen, Police Officer
+                     David Bernal, Code Enforcement
+
+6:30 PM Business Meeting
+
+In the absence of Chair Andrew Adams, Vice-Chair Lisa Fowler called the meeting to order at
+6:01 PM and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+       A.     Public Meeting: Kogel I-ADU Deviation Request (Administrative Action)This
+              Item to be continued to the February 13, 2025, Planning Commission Meeting.
+              On behalf of Jayme Kogel & Jean Weatherwax, a request for approval of a
+              Deviation from strict compliance with the geographical restrictions for Internal
+              Accessory dwelling Units (I-ADUs) on approximately 0.14 Acres located at
+              approximately 268 E Steep Mountain Dr. Known as application 2024-0427-VAR,
+              Staff Contact: Nick Whittaker, 801-576-6522, nick.whittaker@draperutah.gov.
+
+The above item was continued to February 13, 2025.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 2
+
+       B.      Public Hearing: Lionheart Enterprise, LLC. Conditional Use Permit.
+               (Administrative Item)
+               On behalf of Dwight Beckstrand of Beckstrand Law, representing Lionheart
+               Enterprises, LLC. & B T B Enterprise LLC, a Conditional Use Permit request to
+               operate a limited manufacturing business on approximately 6.80 acres located at
+               12411 South 265 West, Suite C. Known as Application 2024-0361-USE, Staff
+               Contact: Nick Whittaker, 801-576-6522, nick.whittaker@draperutah.gov
+
+City Planner, Nick Whittaker, presented the Staff Report and stated that the request is for a
+Conditional Use Permit to operate a business called Nutrastrips. The vicinity, aerial, land use, and
+zoning maps were displayed. The property’s Land Use Designation is Industrial and
+Manufacturing. The property’s Zoning is Business/Manufacturing Park (“CBP”). Mr. Whittaker
+explained that a Conditional Use Permit was required as the proposed land use was Limited
+Manufacturing within the CBP Zone. The site plan, floor plan, and site photos were reviewed.
+The property has two buildings that house multiple businesses. Mr. Whittaker reviewed the impact
+analysis and proposed mitigation against the potential for noise, odor, and vibration being
+discernable outside of the building.
+
+Dwight Beckstrand from Beckstrand Law was present representing the applicant. He reported that
+the machine utilized for the manufacturing is approximately the size of a pizza oven and will
+involve cleanroom manufacturing, which is permitted in the CBP Zone. He stated no noise would
+be detected from outside, though the smell of peppermint is sometimes detectable. Mr. Beckstrand
+stated that concerns were raised regarding a byproduct called ethylene oxide on the property,
+however, this is never used in production. The product is a chemical used for cleaning medical
+manufacturing equipment that cannot be cleaned with soap and water. Lionheart uses soap and
+water to clean its equipment and there is no ethylene oxide on the premises.
+
+Nutrastrips Founder and Chief Executive Officer Benjamin Bartel reported that his company is a
+clean manufacturing facility that is certified under Good Manufacturing Process (“GMP”) and the
+National Sanitation Foundation (“NSF”). The neighbor has registered a complaint regarding
+ethylene oxide which stems from the use of a sensor purchased on Amazon. Mr. Bartel turned on
+a device that he stated was an unopened sensor of the same type and advised that the reading in
+Chambers was higher than that in the complaint. He asserted that he communicated with the
+manufacturer and learned that the sensor picks up carbon monoxide and alcohol vapors, resulting
+in a false positive reading. Photos of sensor readings in various locations were provided by Mr.
+Bartel and added to the record.
+
+In response to a question regarding Stop Work Orders and issues with compliance with City
+Ordinances, Mr. Beckstrand explained that the facility was relocated from Vineyard to this facility
+in April 2024. They applied for a Business License at which time they learned that a Conditional
+Use Permit was needed. The applicant described the process and later brought Mr. Beckstrand in
+to complete the filing. They have been as diligent as possible, but the Stop Work Orders came as
+a result of the delay in obtaining a Business License.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 3
+
+In response to a question, Mr. Beckstrand confirmed that the facility obtained manufacturing
+certificates from the Food and Drug Administration (“FDA”) and the Utah Department of
+Agriculture. He advised that there were no issues with the Department of Air Quality that he was
+aware of.
+
+Vice-Chair Fowler opened the public hearing.
+
+Christopher Sanders identified himself as the legal counsel for PurpleAir, the business adjacent to
+Lionheart Industries. He asserted that the applicant did not have respect for the process and had
+been operating illegally for nearly one year. Work continued after a Stop Work Order was issued
+and after follow-up visits by law enforcement. His client’s concerns were outlined in a letter
+submitted to the Commission. He argued that the device shown by the applicant had not been
+calibrated and data shows that levels spike when the manufacturing of Nutrastrips is in process.
+He stated that illnesses have been caused at PurpleAir and caused grave concern. He noted that
+the applicant will not comply with the conditions imposed on them.
+
+Adrian Dybwad, the owner of PurpleAir, found it concerning to come into the office and smell the
+applicant’s manufacturing process and noted that they have been operating for some time illegally.
+He commented that at first it smells like peppermint or stale cigarettes but it becomes an issue over
+time. He stated that the chemicals are akin to working in a body shop every day. He was worried
+about the health of the children visiting his office, his employees, and himself. Many have
+complained about having headaches and he felt dizzy recently. He stated that mitigating the issue
+by opening his own front and back door for ventilation had improved the situation but it is difficult
+to deal with in weather. He commented that the applicant has been operating illegally and will not
+adhere to the conditions set forth in a Conditional Use Permit as evidenced by the seven citations
+issued and does not obey the Stop Work Orders.
+
+James Lund, general counsel for Pacific Bridge, the tenant adjacent to the east of Lionheart
+Industries. Pacific Bridge has worked from the current location for more than five years and
+witnessed issues between PurpleAir and Lionheart over parking and other concerns. He was in
+favor of reasonableness and treating each other fairly. He noted that there have been several
+attempts at independent, third-party professional testing that were refused by PurpleAir. He
+asserted that the burden of proof is on PurpleAir to show that health issues exist. He commented
+that the 20 to 30 employees in the 60,000-square-foot Pacific Bridge facility are healthy and have
+no issues.
+
+Tracy Gibbs, Nutrastrips Executive Vice President, stated that he has a PhD in Pharmacognosy.
+As a scientist, he understands the device and readings being utilized by the neighboring business
+owner. He explained that the device tests for more than seven different gases, most of which are
+harmless, but it does not discern between types. He has worked at Nutrastrips for nearly two years
+and has never had a health concern, in the current or the previous facility in Vineyard. They have
+31 employees who work three shifts each day and there have been no internal health or smell
+complaints. He commented that the only odor is a few times a month when peppermint is on the
+machines but he cannot smell or hear anything outside the building. He felt harassed by the
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 4
+
+neighbor and employees have had issues with being recorded. He noted that every seal had been
+double caulked and the HVAC system was separated to appease the neighbor.
+
+Chelsea __________ reported that she has worked for PurpleAir for a long time and there had
+never been problems with any other neighbors. She asserted that the smells are horrible and the
+physical effects such as headaches, nausea, and foggy head have been an issue since April 2024
+when Lionheart moved in. She has never dealt with those types of health concerns before and
+every employee in the office has been impacted.
+
+Jessica Bird works for PurpleAir and stated that PurpleAir shares a wall with the clean room, while
+Pacific Bridge does not. As a result, they may not smell the odors as much. She has experienced
+the same side effects described, including nausea and dizziness, and stated that she arrives early to
+air the building out in the hopes that others do not have the same experience.
+
+Tabitha Newbreast, Nutrastrips Quality Director, explained that everything they use is food grade
+and all of the materials and chemicals have been vetted. She would investigate any failures but
+there had not been any. She works on-site long hours and none of them have been sick. The Fire
+Department was called on occasion and she was tested for carbon monoxide contamination which
+came back at zero.
+
+Tianna Ozuna has been with PurpleAir for 90 days and lives with chronic asthma. Since working
+at PurpleAir she has had numerous asthma attacks due to the smells and the air in the building.
+She commented that just getting out of her car in the morning, she could smell the odors outside
+the building and experienced pain in her lungs.
+
+Rafael Quevedo translated for Luisaly Socorro, who stated that she mixes the products to
+manufacture Nutrastrips. She is a healthy person and has never reacted to any of the products. All
+of the products used for cleaning and sanitizing are food-grade. She stated that her skin, face, and
+breathing are good and she has been with the company for two years. She noted that the only
+smells are peppermint, raspberry, strawberry, and other normal smells, and volunteered to be tested
+to show that she is completely healthy.
+
+Wendy Martinez has worked with PurpleAir for 4.5 years, and after returning from a break over
+the last year she has been feeling ill, including headaches, blurry vision, and vomiting. She
+commented that the smell in the morning when the building opens for business is bad. She
+expressed concern that they are working in the building with chemicals that set off the sensors.
+
+Melissa Rasmussen has worked with PurpleAir for seven years and there was not a problem before
+Nutrastrips. She asserted that the smell is not just peppermint and the odors resemble a morgue.
+Everyone has been sick with headaches and dizziness and they would not be bringing it forward if
+it was not a problem. She commented on issues with parking and trash and stated that she has
+picked up hundreds of Nutrastrips off the ground. She commented that PurpleAir is making the
+world a better place and should not have to sit in smells or have doors open in the winter.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 5
+
+Julie Johnson, Nutrastrips Executive Assistant to the CEO, has been with the company since
+March 2024 and has never had any of the health issues described. Her first interaction with
+PurpleAir related to a concern brought to her that someone was parked in the boss’ spot but none
+of the parking was marked. She stated that being neighbors has increasingly gotten worse with
+aggressive interactions and employees being harassed. She commented that they would love to
+have a good working environment for everyone involved but it has not been that way.
+
+Joshua Conner, PurpleAir employee, has never met someone with a worse sense of smell than
+himself, and at first, he was skeptical of the complaints. He had never suffered from frequent
+headaches but after a long day sometimes he has to go home because his head starts to hurt. He
+asserted that this is not a place he or those he cares about should have to be.
+
+Rafael Quevedo has worked with Nutrastrips for one year. He has experienced allergies and
+asthma since childhood and his skin is reactive to chemicals, but he has not had any issues since
+working with Nutrastrips. There are frequently people from PurpleAir at the back of the building
+vaping and smoking cigarettes when he goes out to unload deliveries, which makes him feel bad.
+
+Matthew Hawkins was of the opinion that Nutrastrips produces a smell. He and his father went to
+PurpleAir at night to set up detectors and after being there 10 to 15 minutes, he began feeling
+nauseous and distraught. He stated that recently there has been excessive banging and loud music
+and he hopes it will stop.
+
+There were no further comments. The public hearing was closed.
+
+Mr. Beckstrand presented a declaration from the landlord’s representative, Mark Beesley. Vice-
+Chair Fowler clarified for the record that the Commission received the declaration and had an
+opportunity to review it prior to the meeting. Mr. Beckstrand read the declaration from Mr.
+Beesley, outlining a parking dispute that had gone awry and concerns that the tenant, PurpleAir,
+was not able to get along with others. The statement advised that after being walked through the
+process of manufacturing and cleaning, the landlord believed Mr. Bartel’s explanation to be
+credible. It further advised that despite multiple landlord entreaties over several months, PurpleAir
+has produced no credible evidence that Nutrastrips or any tenant at the property uses or stores
+ethylene oxide. No tenant, employee, or contractor of a tenant outside of PurpleAir has complained
+of smells or exposure. The landlord has visited the property multiple times since June 2024 and
+has made an effort to detect odors on the property.
+
+According to Mr. Beesley’s statement, representatives of PurpleAir contacted the Draper Fire
+Department twice. On or about August 2, 2024, the Fire Department evacuated the property,
+inspected it, tested the air, and found no cause for concern, though they did recommend tenants
+ventilate warehouse areas when using forklifts. The evacuation of the property negatively affected
+the business of the landlord and all tenants of the property. The second call was made on January
+20, 2025, and the Fire Department found no grounds to inspect the property. Other than the
+allegations that Nutrastrips uses ethylene oxide to clean machinery, PurpleAir has not explained
+why this suite is the target of its air quality allegations. The landlord has repeatedly asked for
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 6
+
+access to the air sampling records, but PurpleAir has not responded to requests or produced a
+professional contact as promised.
+
+Mr. Beesley’s statement indicated that tenants have complained of Mr. Dybwad entering their
+suites unannounced, conducting air analysis and disrupting business, and more recently
+approaching male and female employees in the parking lot after dark, video recording them and
+engaging in threatening behavior. The complaints have been found credible, and Mr. Dybwad has
+been notified that further complaints may constitute grounds for release. The landlord secured a
+contractor in June 2024 to fill any gaps and cracks in the wall between suites B and C at a cost of
+$4,000, and the contractor represented that gaps and cracks were filled and there should be no
+significant air transfer, if any. In August 2024, an HVAC contractor inspected the rooftop HVAC
+units in both suites and confirmed zero cross-ventilation. In September 2024, the HVAC
+contractor fabricated and installed an outdoor air hood, damper, and filter on the rooftop of suite
+B to provide constant outside airflow and to slightly pressurize the space to prevent outward air
+migration at a cost of $1,500. The contractor represented that there was virtually no chance of
+cross-airflow when HVAC units were in use.
+
+The statement advised that in January 2025, testing was scheduled at the property to test for
+ethylene oxide and other volatile compounds in connection with this application but was
+subsequently canceled as Mr. Dybwad complained and there was concern the only complaining
+tenant would not accept the results. The landlord has provided floor plans for alternative sites in
+the compound and invited PurpleAir to move away from the alleged danger or to be released from
+their lease to be allowed to move elsewhere, but they have not responded.
+
+In response to questions, it was confirmed that the Occupational Safety and Health Administration
+(“OSHA”) had not responded to any complaints on the property. The Food and Drug
+Administration (FDA) and the Utah Department of Agriculture conduct inspections prior to issuing
+certifications, and the FDA conducts an annual inspection.
+
+Mr. Bartel stated that if his company felt they were doing something incorrect, dangerous, or
+hazardous they would address it, but based on their research and findings, they did not feel there
+was anything to be addressed. He questioned the motives behind calling the Fire Department,
+asserting that his employees had their oxygen tested but Mr. Dybwad refused and returned to work.
+He commented that he would also not want to put his own health at risk and believed the air quality
+readings included false positives. He noted NSF and other inspectors had visited the facility. He
+stated the machines vent straight out, through the room, and into the HVAC system.
+
+At the request of Commissioner Squire, Mr. Bartel stated for the record that he does not have
+ethylene oxide on the premises, nor have they purchased it or used it in the past. He noted the
+monitor is not exclusively testing for ethylene oxide. Anything with alcohol in it would set off the
+monitors, and due to the certification by the landlord that there is no airflow between the units, he
+believes the monitors are being set off by PurpleAir’s own sanitation process. In response to a
+follow-up question, Mr. Bartel stated the only thing that would have alcohol in his manufacturing
+process would be the flavors, which utilize an alcohol-based extract.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 7
+
+In response to a question from Commissioner Shirey, Mr. Bartel reported that his company is
+certified for oral strip manufacturing and undergoes certification and auditing processes annually.
+
+Commissioner Squire stated the Commission was not an authority on emissions and nothing
+definitive had come of the testimony. She asked staff for direction on how to consider the
+allegations in making its determination. City Attorney, Spencer DuShane advised that the
+Commission should stay within the scope of its role as a Planning Commission. He stated
+operating a business without a license was an issue for the courts, and the City has no authority to
+regulate anything toxic in the air. He noted the Fire Department responds for health and safety,
+but not for regulation. He reviewed the applicable section of the Municipal Land Use Management
+Act in the State Statute in relation to the Land Use Authority’s role in a Conditional Use Permit
+application, followed by the applicable City Ordinance.
+
+Commissioner Nixon inquired about the third-party inspection referenced by Mr. Beesley and the
+reasons it was canceled. The Commission reviewed the reasons outlined in Mr. Beesley’s
+statement.
+
+In response to a question from Vice-Chair Fowler, Mr. Whittaker confirmed that no documentation
+had been submitted from an independent air quality expert regarding the alleged chemicals being
+present at this facility.
+
+Commissioner Squire noted the staff recommendations showed hours of production being from
+8:00 AM to 5:00 PM and asked if that included cleaning. Discussion ensued as to the hours of
+operation, and Mr. Beckstrand confirmed the administrative offices are open from 8:00 AM to
+5:00 PM and manufacturing operations are three shifts in the clean room area. Mr. Whittaker
+commented that he had been under the impression that production was limited to these hours when
+drafting the report.
+
+Commissioner Squire asked if 24-hour production was allowed within the CBP Zone. Mr.
+Whittaker believed it was allowed under the Code so long as they were not violating noise
+ordinances. Discussion ensued as to the elimination of the condition.
+
+Commissioner Ogden stated if there was not an odor complaint, this application would be approved
+quickly. He asserted that it was difficult for him to determine what was going on when hearing
+contradictory statements from two groups of people. Mr. DuShane explained that the role of the
+Planning Commission is to listen to the presentation and comments, then weigh the evidence and
+make a determination. He explained the standard was a standard of substantial evidence and
+described substantial evidence briefly.
+
+In response to a question from Commissioner Squire, Mr. DuShane noted that the Code states that
+the Commission shall approve if reasonable conditions can be imposed to mitigate the effects of
+the proposed use. He advised that findings should be supported by substantial evidence.
+
+Commissioner Squire stated that staff identified the possible detrimental effects, the Staff Report
+identified mitigation to the satisfaction of the City, and this was a reasonable basis for approval.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 8
+
+
+Commissioner Ogden noted that the applicant had done everything they could, including a separate
+air system, and a separate wall which has been caulked and double caulked so there is no
+penetration of air based on the evidence submitted, but there will likely still be odor.
+
+Commissioner Squire respected the concerns of the employees of PurpleAir but stated that the
+standard of substantial evidence does not provide a reasonable basis to deny the Conditional Use
+Permit. Based on the evidence provided, the concern has been addressed.
+
+Commissioner Shirey pointed to Condition 3, which requires that there be no noise, odor,
+vibration, or other impacts discernible outside the building, and asked for clarification on the
+standard. Mr. Whittaker explained that the condition resulted from the language in the definition
+of Manufacturing, Limited in the DCMC.
+
+Motion: Commissioner Squire moved to APPROVE the Conditional Use Permit as
+requested by Dwight Beckstrand of Beckstrand Law, representing Lionheart Enterprises,
+LLC. & B T B Enterprise LLC, Application No. 2024-0361-USE, subject to the following:
+
+Findings for Approval:
+
+       1.     The proposal complies with the standards for approval found in DCMC
+              Section 9-5-080(E), and the potential negative impacts are mitigated through
+              the imposition of reasonable conditions.
+
+Conditions:
+
+       1.     That all requirements of the Draper City Engineering, Public Works,
+              Building, Planning, and Fire Divisions are satisfied throughout the
+              development of the site and the construction of all buildings on the site,
+              including permitting.
+
+       2.     That a Draper City Business License shall be obtained prior to operating and
+              shall be maintained by the business owner for as long as the business remains
+              in operation.
+
+       3.     That there shall be no noise, odor, vibration, or other impacts discernible
+              outside of the building.
+
+       4.     That the HVAC and filtration system be maintained in functional operational
+              working order at all times when manufacturing operations are taking place
+              inside the building.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+January 23, 2025
+Page 9
+
+
+       Commissioner        Yes   No   Abstained   Not Participating   Absent
+       Fowler              X
+       Squire              X
+       Adams                                                          X
+       Ogden               X
+       Nixon               X
+       Shirey              X
+       Fidler, Alternate                          X
+       Shah, Alternate                            X
+       Green, Alternate                           X
+
+2.     Adjournment.
+
+Motion: Commissioner Ogden moved to ADJOURN.              The motion passed with the
+unanimous consent of the Commission.
+
+The meeting adjourned at 8:03 PM.
+

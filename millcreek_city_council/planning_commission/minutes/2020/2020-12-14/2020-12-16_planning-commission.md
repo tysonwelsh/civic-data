@@ -1,0 +1,489 @@
+# Millcreek Planning Commission — 2020-12-16
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12162020-427
+> Meeting date: 2020-12-16
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2020-12-16
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12162020-427
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                           Minutes         of the
+                                                                            Millcreek        Planning         Commission
+                                                                                       December           16, 2020
+                                                                                               5:00 p.m.
+                                                                                        Regular           Meeting
+
+
+
+The Plaru'iing         Cornrnission          of Millcreek,        Utah,     met in a regular            public     meeting       on Wednesday,
+December           16, 2020 at City           Hall,    located     at 3330 S. 1300 E., Millcreek,                    UT 84106.            The meeting
+was conducted           electronically          per Millcreek            State of Local        Emergency            Directive        No. 2 of 2020
+and live      streamed         via the City's         website     with     an option       for online       public     coinrnent.
+
+
+PRESENT:
+
+
+Commissioners                                                                       City      Staff
+Shawn       LaMar,      Chair                                                       Alexander           Wendt,       Deputy         Recorder
+Russ Booth,          Vice      Chair      (absent)                                  Francis      Lilly,     Planning         and Zoning            Director
+David      Allen     (electronic)                                                   Erin     O'Kelley,        Planner        (electronic)
+Scott Claerhout          (electronic)                                               Samah        Safiullah,        Planner       (electronic)
+Fred Healey          (absent)                                                       Naba Faizi,           Planning         Permit       Tech (electronic)
+Victoria      Reid (electronic)                                                     Kurt     Hansen,        Legislative         Policy       Director
+Skye Sieber          (electronic)                                                   John Brems,            City Attorney            (electronic)
+
+Tom      Stephens
+Ian Wright         (electronic)
+
+
+Minutes       by Alexander             Wendt.
+
+
+Attendees:          Arnold      Wilcox,       Vicki,     Tanner        Webster,     Allen      Sowards,          Jeffery     Walton,       Erin
+Koelikker,         Genny       Hayward,         Calvin       Close,    Anya    Harmon,         and Harold          Walk.
+
+
+REGULAR              MEETING               - 5:00 p.m.
+TIME        COMMENCED:                      5:19 p.m.
+
+
+Chair      LaMar      called     the meeting          to order and read a statement                   explaining       the duties         of the
+Planning      Commission.
+
+
+1. Public      Hearings
+  1.1 Consideration               of SD-20-024,              Requesting       creation        of a two-lot           subdivision          at 3896
+  Honeycutt          Drive.       Applicant           Genny      Hayward          Planner:       Erin      O!Kelley
+  Erin     O'Kelley,         Plaru'ier,    shared the scope of the application                    from       her presentation.             This lot is in
+  a R-1-10         zone. The applicant               would     like to create a two-lot               subdivision.         There will        be a small
+  dedication         along     3900 S. Ms. O'Kelley                   said the applicant        intends       to keep the single-family
+  home       if it meets setback            requirements.         On lot 2, there is a proposed                   public      utility     easement        that
+  is 18.7 feet. It is still            expected       that lot 2 would        meet the setback              requirements            in a R-1-10         zone.
+  A power          pole is located         on Honeycutt           on the northeast           side of proposed              lot 2. There        are many
+  old growth         trees. There          are no public         improvements           on Honeycutt.            The applicant            would      be
+Millcreek       Planning           Commission            Meeting       Minutes                           16 December            2020       Page 2 of 9
+
+
+
+  required      to put in full        curb, gutter,        and sidewalk          as a requirement               for the subdivision.
+  Community            councils       are not required        to provide             a recommendation.             There      is a PUD       on 3900 S.
+  and the President             of the HOA         reached     out with         concerns         about increased            density,     a decrease        in
+  lot size, removal             of mature      trees, an increase            in traffic,       and concem          about the height          of a
+  potential     home on lot 2. Staff said properties                         range from.l7              to.5    acres. The new lot would                 still
+  meet zoning          rules.     Some trees must be removed                     for the public           improvements.
+
+
+  Commissioner             Reid     asked if there is a tree replacement                       plan. Ms. O'Kelley              replied     that single
+  family      lots are not regulated             by the City        landscaping            ordinance.          Commissioner        Reid
+  encouraged         the creation          of a plan for single             family     lots. Ms. O'Kelley             said that the applicant
+  will     be taking      inventory        of the trees and then create a plan for trees removed                                due to public
+  improvements.            Chair      LaMar      asked if the fence on 3900 S. would                            be removed.       Ms. O'Kelley
+  said that the applicant             will     be required         to sign an agreement              that they understand                that at any
+  time the City         could      require     movement            of the fence in the right-of-way.                   Commissioner              Sieber
+  asked about the public               concerns         about height          and asked what kind                of home       is going     in on lot 2.
+  Ms. O'Kelley            said it would         be subject     to height         requirements            in the R-1-10         zone and can be 30
+  feet tall. The home              would      still have to meet Residential                    Compatibility         Overlay      Zone (RCOZ)
+  requirements.           An 1 8-foot         setback     can help with          the loss of view              for the neighbor          to the north.
+
+
+  Applicant,      Genny          Hayward,        said that the proposed                home      for lot 2 is 27 feet tall and that they
+  are 99% sure that the height                   of the home will             remain       that way. Her plan for the trees is to keep
+  almost      all the mature          trees. One dead tree fell during                     the windstorm.           Commissioner            Reid asked
+  what kind       of condition         the applicant         would          be okay with         as far as a tree plan and if any trees
+  would      be taken out. Ms. Hayward                     said they would             not take out more            trees than needed to put a
+  driveway       in. Ms. O'Kelley              said the best condition                to put in is to require           the following         of the
+  current     tree preservation              plan. If the applicant           removes          trees, they need to replace               them with
+  the equivalent          tree on their        own property.           Francis        Lilly,    Planning        Director,     said they would
+  replace     the tree with         an equivalent          tree. Commissioner                  Wright      said there was a concern               about
+  density,     but the plan sounds like a single-family                          home.         Ms. O'Kelley          said the residents           see a
+  trend of lots being             cut up in size and they do not want more density                                 in their    neighborhood.
+
+
+  Chair      LaMar      opened        the public        hearing.
+
+
+  Calvin      Close,      3836 Honeycut,           stated he is concerned                  about the height           of the house. His house
+  is a single     level     with    solar panels,         and he does not want them blocked                          with     a two-story        house.
+  He also questioned               where      the driveway          would      be. Applicant,            Ms. Hayward           said the driveway
+  will     be roughly      in the center.         Mr.     Close reiterated            that he was concerned                 about the height           of the
+  house.
+
+
+  Chair      LaMar      closed      the public      hearing.
+
+
+  Cornrnissioner           Stephens        said that Millcreek              has an ordinance             that restricts       the height     of the
+ home.       Ms. O'Kelley           said that on the preliminary                     plat to the north the setback               for the public
+ utility     is 18 feet. The additional                 distance     will    allow      for additional          sunlight.     Chair      LaMar      said
+  that looking         at the overhead           view     of the property            it appears that a 27-foot              home would           not
+ restrict     sunlight.
+Millcreek            Planning            Commission               Meeting          Minutes                           16 December                    2020       Page         3 of 9
+
+
+
+  Mr.      Lilly      recited        a comment           from        the online         comment          box     from       Allen         Sowards,         Garden
+  Avenue.            "It     seems      odd to require               a private      homeowner              to comply          with         tree preservation.                 All
+
+  other homeownersare free to do what they deem necessary.New construction will require a
+  lot of tear down. Also, if they want a yard, it may not bepossible to replace treesfor like kind
+  trees.Is this an undue burdenfor this owner?" Mr. Lilly explained that Mr. Sowards is a
+  member             of the Millcreek              Community               Council.
+
+
+  Mr.      Lilly      explained          that if someone               buys       an existing         subdivided            lot, they        can take out trees,                    but
+  by dividing               a lot the Millcreek             code        chapter         l9.77     triggers       the requirement                to add trees.            Mr.
+  Lilly      said as he read the code,                     they       are subject         to the tree preservation                    standard.         Chair         LaMar
+  said they           must      follow       the law but not have                   overdue        burden.         John Brems,               City     Attorney,          stated
+  his agreement.                Commissioner               Sieber        asked      if there       is a problem            with      putting         trees in the
+  dedicated            easement.          Ms.     O'Kelley            said the applicant              can re-landscape                in the easement.                  Chair
+  LaMar            asked      if there     were     more         comments.             There      were     none.
+
+
+Commissioner                   Stephens          moved          to approve             SD-20-024,            the preliminary                  plat     approval
+subject       to the conditions                  stated         in the staff        report        plus     the condition               that     the applicant
+comply        with          the Millcreek           Ordinance              19.77.040            and    give      positive          recommendation                      to the
+City      Council.           Commissioner                Sieber         seconded.          Chair         LaMar        called         for     the vote.         All
+Commissioners                   present         voted      yes. The          motion         passed        unanimously.
+
+
+  1.2     Consideration                 EX-20-007.              An     Application              to have       a use of violation                    declared          legal
+  through            special         exception          at 2975        S Grace          Street.       Applicant:            Erin      Koelliker.            Planner:
+  Samah            Safiullah
+  Samah            Safiullah,        Planner,       explained           that the existing             parcel       is a single-family                 lot in the R-1-8
+  zone      and the neighborhood                     is primarily               zoned     as R-1-8         as well.        The zones           are residential
+  single-family               with     a minimum            lot size of 8,000               square       feet.     From       her research,             the home            has
+  been in existence                  since      at least 1951.           The      applicant        is asking        for the duplex              to be declared                 legal
+  through           special      exception.         Ms.     Safiullah            showed         the basement            entrance           and the entrance                 to the
+  primary           dwelling.         For an application                 to be declared            legal      through         special        exception          the use
+  must      exist          on the property          at the time            of the application              and have been               in continuous                 violation
+  of the zoning               ordinance         for a period            of time        exceeding         ten years,         no complaints               have         been
+  made       to the development                    services          division       concerning           the violation             for a period            exceeding            ten
+  years,      and continuation                  of the use will            not have         a detrimental            effect        on the health,            safety,        and
+  welfare          of the persons            or property             in the vicinity.           The    application            was taken             to Canyon           Rim
+  Citizens          Association           and they         gave        a positive        recoinmendation.                  Staff     analysis         includes          that one
+  of the two           units     must      be owner             occupied         per the accessory               dwelling          unit      (ADU)         draft.      Staff
+  recomt'nendation                   is that the use of the property                       has been in continuous                     violation         of the zoning
+  ordinance            for at least        20 years.        Staff       does not have             any evidence              of a complaint              being         made          to
+  the development                    services      division.          If the property            can meet          applicable          codes         for adding          an
+  additional           legal     dwelling        to the property                such     as meeting           off-street       parking          ordinances,             staff
+  does not feel this                 application         will     have      a detrimental             impact       to neighbors.              Commissioner
+  Stephens           said that if they             approve           it without        one of the owner               units        being      occupied          then it
+  would       not have          to comply           with        a future     ADU         ordinance.          Ms.     Safiullah            said there        would        have
+  to be an inspection                  before      a business           license         is issued.
+Millcreek         Planning             Commission             Meeting        Minutes                              16 December               2020         Page         4 of 9
+
+
+
+  Applicants            Erin     and Rob        Koelliker,        3219       S Metropolitan             Way,        said they          are trying        to buy         this
+  property        but to get financing                 they     have      to have      the basement           declared           legal.     They     plan       on
+  living      in the home.
+
+
+   Chair      LaMar        operxed        the public          hearing.
+
+
+  Bob       and Rae Lortsher,              2993        S. Grace        Street,    provided        the following               written       comment.            "It         is
+
+  our 'i,mderstandingthat the applicant wants to have this home zoned to allow for a mother-in-
+  law      apartment.            We have        rw problem          with     that,     but we would               riot want          it to be allowed           to be a
+  rentalvmit. Wewouldpreferastipulationaddedthatsaysitwillbeoccupiedbyafamily
+  member          only.         We would        like    to keep the street             a true     residential          area."
+
+
+  Jeff Walton,            2999       S. Grace,      provided           the following         written        comment.             "I     live at 2999        Grace                St.
+
+  a few doors south of the referencedproject. I am vmableto attend the meeting 072 Wednesday,
+  butl wanted to let you lcnowI am in favor of the special exception that is being requestedby
+  Erin      Koelliker.          I have spoken           to the Koellilcer's             about      the project             and I have           no objection.
+
+  Pleasefeel free to contact me if you have any questions, and please reply to this email so thatI
+  lcnow you         have       received        my input."
+
+
+  Anya       Harmon,           3061      S. Grace,       said it would            be an improvement                  if the applicant              is allowed               the
+  special      exception.            The home          has been          empty,      and people          living      there      and beautifying             the home
+  would       be nice.         Ms.     Harmon       said the applicant               would       pick     great      renters.         It would      be great           if
+  they      can move           forward.
+
+
+  Jeff Walton,            2999       S. Grace,      said the prior           owners       had a large             family       and there         is no way            there
+  will     be as many           cars at the current             home       as there      was historically.                 It will     be a large
+  improvement              to the neighborhood                  and the street.
+
+
+  Harold       Walk,       2962        S. Grace,       said it would           be an improvement                   to the neighborhood                   because                 the
+  property        was neglected             for years.
+
+
+  ChairLaMar               closed       the public       hearitzg.
+
+
+  Commissioner                 Allen      said he did not see any problems                        with      the application,                and it is impossible
+  to enforce        renting          to a family       member.           Corni'nissioner          Reid      asked          if the owners          rent     the home
+  now.      Ms.    Koeliker            said the home           is empty.
+
+
+Commissioner               Sieber         moved        to approve           the special          exception          to have           the   second       unit
+declared        legal     including         the three           conditions          presented           in the meeting.                 Commissioner
+Allen      seconded.           Chair      LaMar         called      for     the vote.      All    Commissioners                       present      voted      yes. The
+motion       passed        unanimously.
+
+
+2. Continuing             Business
+  2.1 Consideration                    of ZM-20-009.             Requesting            to rezone          from       R-1-10           to R-1-5.      Applicant
+  Tanner          Webster.           Planner       Samah          Safiullah.
+  Samah        Safiullah,         Plaru'ier,     presented         the existing         conditions          of the property.                The    applicant            is
+  proposing         to rezone          property        located      4396       South     Garden         Drive       and it is currently              zoned        R-1-
+  10. The parcel               to the south        of the property           is zoned        as R-1-5.        The      surrounding               properties           make-
+Millcreek        Planning            Commission                   Meeting             Minutes                               16 December                2020         Page      5 of 9
+
+
+
+  up a mixture            of R-1-10,            R-2-10,        R-M,         and R-4-8.               The applicant               has the intent           of subdividing
+  the parcel       into     two      narrow         lots and building                   two     small        side-by-side              single-family             homes,
+  subject      to a development                   agreement             with       the City.          The     development                agreement          will     place
+  regulations           on the future             development               of the lot, including                     setbacks,          height,       slope     of roof,
+  building       envelope,           lot coverage,             etc. The parcel                 has a boarded                up single-family                dwelling.          They
+  plan      to split     the lot and build               two      small        homes.         The General               Plan       is not contradicted                by the
+  application.          Development                plan       agreement               considerations                include:        only      single-family           detached
+  dwellings        are pennitted;                30-foot        front       yard       setback,        20-foot         rear yard           setback,        8-foot     side
+  setbacks;       dwellings            will     be no higher              than 28 feet measured                         from       original        ground        surface;
+  dwellings        for each lot must                   incorporate             a minimum               3/12 pitch            roo'f;    rezone       area is subject               to a
+  maximum              of only      2 lots;       each dwelling                will     incorporate            a two-car              garage     that is at minimum
+  20'width        x 22'         length;       each lot will          have        driveways             measuring               at minimum              20'x22'       and
+  capable       of parking           two       automobiles;             driveways              may      not block             sidewalk          or impede           pedestrian
+  travel     in any way;            landscaping            Millcreek             code       chapter          19.77        will     be enforced            on the newly
+  established          residential            single-family             homes;          dwellings            will     be subject           to all remaining              RCOZ
+  standards.
+
+
+  Ms.      Safiullah       said On November                       24, 2020,            the applicant               hosted        a neighborhood                meeting        where
+  several      residents           were       in support          of the proposal               and one resident                   did not support               it. The
+  Millcreek        Community                  Council         recornrnended                 the rezone             be adopted            with      the recommended
+  zoning       condition           of a 30-foot           front     yard       setback          which        was incorporated                   into      the development
+  agreement.           Commissioner                Stephens             asked         Ms.     Safiullah            if there       were     specific        standards          that
+  she would        like     to suggest.            She said that she does not have                                  additional           standards         beyond        the
+  report.      Chair      LaMar           asked     if the site plan               has changed               since      the Commission's                   meeting          packet.
+  It is a cleaned-up               version        said Ms.         Safiullah,            the setbacks               are the same.
+
+
+  Applicant        Taru'ier         Webster,           1626       E. Downington                  Avenue,             said he does not own                   the property
+  and is doing           this      for the owner.             The main             concern           is about        an increase            in density,          so they
+  adjusted       the site plan            to make         the lots feel less dense.                         Commissioner                 Claerhout          asked      if the
+  current      home       is occupied.             Mr.     Webster           replied          no, it is not habitable.                     Commissioner               Claerhout
+  asked      if it is dilapidated.               Mr.     Webster            said yes.
+
+
+  Allen      Sowards        said that he is on the Millcreek                                Community                 Council,           he abstained            in the vote.
+  He thinks        there        are more          comments           and would                like    to communicate                    more       from     what      neighbors
+ have told        him.      Chair         LaMar        said he would                  come      back        to these         comments            during        the public
+ hearing.
+
+
+  ChairLa         Mar      opened          the public          hearing.
+
+
+ Allen       Sowards,           4315      S. Garden           Drive,        said the neighbors                      say they          would      prefer       to see a single-
+  family      home,       and the developer                    was going              to do a flag           lot which            the neighbors            liked      less.
+ RCOZ         should       still    apply        according          to his understanding.                          They      want       to preserve         the space
+ around        the neighbors.              Ms.     Safiullah         replied           that RCOZ              applies         and the building              permit         will
+ enforce       the building            envelope.           Mr.      Lilly       said that the ordinance                          changed        and now          requires         an
+ elevation        certificate          to measure             against        existing          grade.
+
+
+ Arnold        Wilcox,          4371       S. Garden           Drive,        said he agrees                 with      Mr.        Sowards.       They       would       prefer        to
+ see a single           home        on the lot.
+Millcreek       Planning          Commission           Meeting          Minutes                      16 December                2020       Page 6 of 9
+
+
+
+
+  Pam Smith,           4383 S. Garden             Drive,   provided        written      comment.          "Living       right     across      the street
+  for 25 years. Strongly oppose the rezone. Strongly oppose the increase in density. The addition
+   of the housewiu ruin the character of the neighborhood. Weare agaimt the increase in traffic.
+   Nobody in this neighborhood wants it. The second stories will be incompatible with the rest of
+  the neighborhood.               The people       in the apartments              do not want       this rezone granted."
+
+
+  Chair     LaMar      closed      the public       hearing.
+
+
+  Cornrnissioner          Stephens        asked Mr. Lilly           if there are other design               standards         to ensure more
+  attractive     homes.       Mr. Lilly      said the 3/12 pitch             is a nice concept.            Mr. Lilly         suggested        a brick
+  veneer      or fiberboard         of at least 30%. Mr. Webster                   said he is happy           to accommodate                  on design
+  standards.      Commissioner             Claerhout         asked if there was a plan to destroy                      the current         home     and
+  build     one home.         Mr. Webster          said it is not financially            feasible        to build     one home.
+  Commissioner            Claerhout        asked if they had applied                 for a construction             loan for the lot. Mr.
+  Webster       said that he is a residential              broker        and from      previous          experience      it does not make
+  financial     sense. Chair         LaMar        said that usually         he is not in favor             of a rezone          that is not in
+  harmony        of the neighborhood.               It appears that each lot would                  be almost         10,000       square feet per
+  lot. He said the current            home        sticks   out because         it is in severe disrepair.              Chair       LaMar       said the
+  staff recommendations               are a good way to clean the property                          up. Commissioner                Reid asked
+  what the applicant             would     do if the Commission               turned         the rezone      down.      Mr.      Webster         said he
+  would       do nothing,        and the house would               sit there until      it becomes          economically            viable.
+  Commissioner            Allen     said he thinks         the request       was close to the existing                  zoning,        so he is fine
+  with     the project.       Commissioner           Wright        said he is concerned             that many         neighbors         have
+  expressed       frustration,       but he is in favor            of the project.       Cornrnissioner             Stephens        said he is in
+  favor     of the rezone         if there is a condition            that all fagades          shall not be less than 30% brick.                        Mr.
+  Webster       said that there is a house on the street that he wishes                              to emulate.         Commissioner
+  Stephens       recommends           that the Commission                 implement          the brick      recornrnendation.
+  Commissioner            Reid said that homes               can be 28 feet and asked the applicant                           if they would         build
+  a 2-story     home.      Mr. Webster            said their plan is to build                a 22-foot     home,      or thereabouts.            They
+  are also planning           on a basement.           Each home would               be 2,700       square feet with              a 900 square foot
+  basement.
+
+
+Commissioner            Alien      moved         to approve        the rezone        request        ZM-20-009            to rezone         the
+property       from     R-1-8      to R-1-5,       subject      to the conditions              in the staff         report      and the condition
+that   the exterior        of the home            be 30%       brick.      Commissioner             Stephens          seconded.         All
+Commissioners             present        voted     yes. The motion            passed         unanimously
+
+
+3. Business       Meeting
+  3.1 Updates          from      the Planning          and Zoning           Director
+  Mr. Lilly      thanked        the Commission             for their service         in the weird          year of 2020.          In the first
+  meeting       of 2020 they must elect a new chair, so the Planning                                 Comrriission            should     think     about
+  who they want to elect.
+
+
+  3.2 0rdinance           Updates         - Accessory          Dwelling        Units
+  Erin     O'Kelley,      Planner,       gave an update            on the ADU          draft ordinance.             The proposal         recognized
+  attached      and detached         units with        different        requirements.          The ADU        must be on an owner-
+  occupied,      single-family           lot. Residents        in the City's         prior     Townhall       meeting         wanted       the ability
+Millcreek        Planning           Commission             Meeting        Minutes                          16 December              2020        Page 7 of 9
+
+
+
+  to have detached             garage ADUs.            Feedback           :[rom Salt Lake           City     showed          that having        a detached
+  AJ)U      be a conditional            use permit          is a large burden.            They must still meet certain                    design
+  requirements.          One parking            stall for bedroom               is required.       The current         draft     allows        for detached
+  ADUs       on a flag lot. There               are area requirements                  for detached        ADUs,        setbacks       are 8 feet from
+  the side property           line, maximum                height      is 24 feet for accessory               structures.        Detached         ADUs           are
+  not eligible       for short term rentals                in the current          draft.     As a result      of allowing           detached        ADUs,
+  owners      must pick         three design          options         from      a list. These are directly             related      to concerns           from
+  public     engagement             done in the last year. Windows                       must face the interior                of a lot, or windows
+  must be translucent,               open parking            for an ADU           caru'iot be located          within        8 feet of a property
+  line, ADU         parking         in a garage,      or the ADU               must be one story with                a maximum            height     of 18
+  feet. Planning         must still       conduct          a site plan review.              Staff will     review      for compliance              and
+  reserve     the right       to contact        engineering.           There must also be a building                      inspection.          Ms.
+  O'Kelley       said they are taking                the draft ordinance                to the community             councils       in January.
+
+
+  Commissioner              Allen     asked if Ms. O'Kelley                    wants     input    on the draft.        She said she would                 like
+  input.    Commissioner               Sieber     asked how people                access a corner           ADU.       Ms. O'Kelley              said that
+  access to the ADU                 depends      on the lot. People              who have wide             enough       setbacks        will    probably
+  allow     people      to add driveways              and park in the back. Commissioner                             Stephens        asked why there
+ is not a minimum              size ADU.            Ms. O'Kelley               said they have not explicitly                  decided      on it; it would
+  exclude     people        who want to do tiny homes.                         Commissioner           Stephens        said he does not prefer                    the
+  8-foot     setback     and prefers           the 15-foot           setback.     Ms. O'Kelley             said that detached             ADUs       have the
+  8-foot     setback.       Commissioner             Stephens          asked what the rationale                is behind         on-street       parking.
+ He expects          that people        will     have one bedroom                 and the rule is that they must have one off-street
+ parking      per bedroom,             but people          will     have two cars. Ms. O'Kelley                      said they can put a note in
+ that increases         the parking            requirement           on the property.            Corni'nissioner          Stephens        asked about
+ short-term        rentals     in attached          units but not detached                  units because        short term rentals              do not
+ enable people          to buy homes,               he was in favor             of not allowing           any short-term            rentals     for any
+ ADU.       Ms. O'Kelley              said that short term rentals                  are allowed          in single     family       homes now, which
+ is why they did not prohibit                    it for attached          homes,         a business        license    is required.         Coinrnissioner
+ Stephens        said that it is possible             to change the short-term                    rental     code to account            for the potential
+ proliferation        of ADUs.          Mr. Lilly          said that in the short-term                rental    ordinance           there is a limit         on
+ how many there are allowed.                        Alex     Wendt,       Business          License      Administrator,           said the number                of
+ short-term        rental     licenses      is 30 short term rentals                   in each council         district       boundary.         If that
+ number       is reached,           the application          will     be placed         on a wait     list. If someone           does not renew,
+ they must reapply             for a new business                   license     and go through            the inspection         process        again.
+ Chair      LaMar      said that new ADU                   owners       need to provide            enough      hard surface           parking        to
+ accorni'nodate         parking.
+
+
+ Commissioner            Wright         clarified     if all windows              or all significant         windows           must face the interior
+ of the lot. Ms. O'Kelley                 replied      the windows              must be interior           facing     or translucent.
+ Cornrnissioner          Wright         said that some units                  are awkwardly          placed     where         ADU     doors open to
+ the neighbor's          yard. Ms. O'Kelley                  said that the fencing               requirement          will    help alleviate          some of
+ the privacy        concerns.         This helps address the entrance                        location       for a detached           ADU.
+ Commissioner            Allen        said that a perimeter              fence means that many homeowners                               would        have to
+ knock      down      existing        vegetation,       if the setback            requirements           are met then it should                 not matter
+ whether      it is a single-family              home        or ADU.           Chair    LaMar       asked for the setback               of a detached
+ garage.     Ms. O'Kelley              said the setback              for a garage 14 feet in height                  or less is 30 inches.
+ Commissioner            Claerhout         asked if people              will    build     garages        and then turn them into an ADU.
+Millcreek       Planning       Commission             Meeting        Minutes                            16 December           2020        Page 8 of 9
+
+
+
+  Ms. O'Kelley        said that per this draft,             people         would      be allowed         to do that. Chair          LaMar        said
+  that the draft     should        close that loophole.            Ms. O'Kelley            said if there was a detached                   garage that
+  did not meet the requirements,                    they would           have to go through              a land use hearing.          Mr. Lilly           said
+  that conversion          could     apply    to units only         in    existence       at the time the ordinance                was passed. Mr.
+  Lilly     said that Ms. O'Kelley             and John Brems,               the City      Attorney,       have worked            very hard on this
+  project.
+
+
+3.3 Discussion        on RM          and Planned         Unit       Development             (PUD)        Updates
+  Mr. Lilly      said staff was going              to restructure         the standards         and code for the residential
+  multifamily       zone. The standards               are like the code now.               They have created              a consolidated
+  development        table where           staff can look        side by side at the development                       requirements          based on
+  building      type. Multifamily            dwellings      will     be limited        to 200 feet like the City                Center      Overlay
+  Zone (CCOZ).           Anything          above a 4-family              dwelling,      the side yard must have 20-foot                      setbacks.
+  But these are only for larger               multifamily           dwellings.         There     will    be bigger      setbacks      on front           and
+  side yards for dwellings                that are 5-family         dwellings          and greater.        Minimum         driveway         width         will
+  be 25 feet. This will            help strengthen        the fire code. 20 feet is simply                     too narrow          said Mr. Lilly.
+  Some developers             push back on this. But the goal is to create a livable                                situation     where people
+  can grow       into the space for a trailer             or larger         car. Materials        requirements          have been updated,
+  with    an emphasis         on brick       and stone. The Planning                  Commission           seems comfortable                granting
+  parking     reductions       up to a point,         but there is a point             at which         the Commission            grows
+  uncomfortable.         Mr. Lilly         added a stop on the maximum                      amount         of parking      reduction         to 25%.
+  Staff would       benefit     from       a robust    application          process       like the one in CCOZ.                 This will     help
+  people     be more descriptive             in their application             process      before       the application          comes to the
+  Planning      Commission.            Mr. Lilly      said that if the Planning                Commission             would      like, they could
+  hold    a work    session to go over the new RM                         code proposal.
+
+
+  Cornrnissioner         Sieber asked about a renewa'ble                      energy      incentive        in the PUD         Code. Mr.          Lilly
+  said that he will        add it. Commissioner                 Sieber      saw that some developments                    used materials             on
+  site to create planters            or retaining      walls     thereby       reusing      materials       keeping      them out of landfills.
+  Mr. Lilly      said that he liked          the suggestion.             The planning          and development            ordinance         is easier
+  to fix than the RM           code, but it will         be challenging              for a PUD          in the RM zone. The concept                      of
+  abutting      or contiguous         does not work            anymore.        Street typology            has changed,          new definitions
+  are used. In the past, Mr. Lilly                 has heard that a PUD                needs enough           units    for the HOA           to be able
+  to cover repairs.        For example,            in case the connection               to city sewers fails.           Staff would          like to
+  add wordage        developments            with     at least 150 feet of frontage,                    along a right-of-way,             and 60 feet
+  in width      are exempt         from    the minimum           acreage requirement                but shall have at least 80 units.
+  This is consistent          with    the C and RM          zone. Staff picked              150 feet of frontage                to have a PUD
+  where      houses that front         streets even if they access a side lane. The PUD                                feels more like it is
+ part of the neighborhood.                 If a new road is built             in Millcreek          it must be 60 feet to accommodate
+  two lanes, sidewalk,             curb, gutter,       and park strip.          There      are many roads in Millcreek                    that do not
+ meet this requirement.               Driveway        requirements            are still    25 feet to prevent           argument          from
+  developers.      The proposed            zone will      meet the current              garage      code. The PUD             code currently             has
+ its own parking         requirements.             Staff will      be taking         that out, so the requirement                matches         the RM
+ zone. Mr. Lilly         said they are adding             street trees requirements                     to the PUD      and RM        code. The
+  old code used a height              definition      that the City          does not use anymore.              This will         be changed             to
+ meet other requirements.                 Maximum         height         is 28 feet and is still          subject     to RCOZ.        If a
+  developer      would      like to create a PUD               in the cornrnercial           zone it must be a mixed-use                     building.
+Millcreek          Planning      Commission             Meeting          Minutes                       16 December          2020          Page   9 of 9
+
+
+
+4.   Calendar         of Upcoming            Meetings
+     *      City    Council      Special      Meeting,       12/21/20,        6:30 p.m.        at City     Hall
+     *      CityCouncilMeeting,01/11/21,5:OOp.m.atCityHall
+     *      Planning      Commission,            01/20/21,        5:00     p.m.    at City     Hall
+
+
+
+
+ADJOURNED:                    Commissioner          Allen      moved         to adjourn         the meeting          at 7:36       p.m.
+Commissioner             Claerhout           seconded.       Chair        LaMar       called     for     the vote.    All   Commissioners
+present      voted     yes. The      motion       passed
+
+
+                                APPROVED.                                                                            Date      .            [';5 ?e>z(
+
+
+                                                              ua(-'J-""
+                                   Attest:                ElysJ      Sullivan,        City     Recorder

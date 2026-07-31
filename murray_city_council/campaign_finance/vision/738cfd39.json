@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "07/20/2023", "name": "Salt Lake Board of Realtors", "amount": "1650.00", "in_kind": false},
+    {"date": "08/01/2023", "name": "Ed Goodman", "amount": "100.00", "in_kind": false},
+    {"date": "08/01/2023", "name": "Robby Russo", "amount": "150.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "07/21/2023", "recipient": "MyCampaignStore.com", "purpose": "Signs and door hangers", "amount": "1033.08", "in_kind": false},
+    {"date": "08/08/2023", "recipient": "SL County Clerk", "purpose": "Voter list", "amount": "15.00", "in_kind": false},
+    {"date": "06/14/2023", "recipient": "SL County Clerk", "purpose": "Voter list", "amount": "15.00", "in_kind": false},
+    {"date": "07/22/2023", "recipient": "GoDaddy", "purpose": "Website", "amount": "69.61", "in_kind": false},
+    {"date": "07/21/2023", "recipient": "GoDaddy", "purpose": "Website", "amount": "32.22", "in_kind": false}
+  ],
+  "total_contributions": "1900.00",
+  "total_expenditures": "1164.91",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "735.09",
+  "_meta": {
+    "index_path": "raw/202310_Scott-Goodman_14646.pdf",
+    "candidate": "Scott Goodman",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202310_Scott-Goodman_14646.pdf",
+    "pages": 5
+  }
+}

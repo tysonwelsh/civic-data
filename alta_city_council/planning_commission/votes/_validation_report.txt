@@ -1,0 +1,41 @@
+Town of Alta — pc vote extraction validation report
+======================================================================
+Meeting JSONs             : 17
+Meetings with >=1 motion  : 17
+Motions extracted         : 47
+  named-vote motions      : 0
+  tally-only motions      : 47
+  motions w/ mayor voting  : 0
+
+Body counts: PlanningCommission=47
+
+Motion-type distribution:
+   Procedural/Administrative  17
+   Other                      16
+   Land-Use/Zoning            4
+   Public Hearing Action      3
+   Consent/Minutes            3
+   Appointment                2
+   Ordinance                  1
+   Ceremonial                 1
+
+----------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes). Alta: Mayor VOTES;
+a full roll call = 5 (Mayor + 4 at-large). Roster turns over across 2020->2026.
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+>5-VOTER FLAGS (would break the Mayor+4 ceiling): 0
+----------------------------------------------------------------------
+      (none)
+
+----------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+----------------------------------------------------------------------
+      (none)
+
+----------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 0
+----------------------------------------------------------------------
+      (none)
+

@@ -1,0 +1,874 @@
+candidate,office,seat,election_year,filing_date,reporting_period,date,vendor_raw,vendor_normalized,purpose,amount,in_kind,is_incremental,source_filing,document_id,line_no,extraction_confidence,extract_method,needs_review
+Richard Hyer,Council,2,2019,2019-01-01,,,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2019/31388_2019-Hyer-Combined.pdf,31388,v1,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,COSTCO WAREHOUSE #0770,Costco Warehouse #0770,Election Night Event Food,133.88,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v1,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,"HUSTLE, INC",Inc Hustle,Voter Outreach Texts,176.54,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v2,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,SMITHS FOOD,Smiths Food,Election Night Event Food,12.33,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v3,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,SMITHS FOOD,Smiths Food,Election Night Event Food,445.47,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v4,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,FRESH MARKET,Fresh Market,Election Night Event Food,65.90,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v5,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,M3 STRATEGIES,M3 Strategies,Voter Outreach,2514.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v6,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-05,SMITHS FOOD,Smiths Food,Election Night Event Food,17.44,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v7,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-06,FACEBOOK,Facebook,Social Media Promotions,500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v8,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-06,HOME DEPOT #4411,Home Depot #4411,PURCHASE RETURN,-133.08,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v9,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-06,STATE LIQUOR STORE 24,State Liquor Store 24,Election Night Event Drinks,217.60,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v10,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-07,CREATIVE ENTERTAINMENT,Creative Entertainment,Election Night Event DJ,300.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v11,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-07,STATE LIQUOR STORE 24,State Liquor Store 24,Election Night Event Drinks,169.57,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v12,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-07,UTOG BREWING COMPANY,Utog Brewing Company,Election Night Event Drinks,21.42,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v13,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-12,STANDARD-EXAMINER,STANDARD-EXAMINER,Promo Photo,10.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v14,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-30,FACEBOOK,Facebook,Social Media Promotions,355.96,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v15,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-30,BLIP BILLBOARDS,Blip Billboards,Billboard,50.89,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v16,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-01,BLIP BILLBOARDS,Blip Billboards,Billboard,60.90,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v17,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-02,FACEBOOK,Facebook,Social Media Promotions,201.95,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v18,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-11-04,BLIP BILLBOARDS,Blip Billboards,Billboard,19.10,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v19,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-17,VISTAPRINT,Vistaprint,Flyers,139.40,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v20,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-17,VISTAPRINT,Vistaprint,Flyers,28.15,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v21,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-20,M3 STRATEGIES,M3 Strategies,Voter Outreach Texts,1700.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v22,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-21,THE HOME DEPOT #4411,The Home Depot #4411,Zip ties for large signs,55.20,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v23,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-24,BLIP BILLBOARDS,Blip Billboards,Billboard,100.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v24,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-24,HOME DEPOT,Home Depot,Stakes for large signs,524.24,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v25,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-26,FRESH MARKET,Fresh Market,"Water, candy, flowers for debate table",10.71,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v26,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-27,WING WAH,Wing Wah,Town Hall - Food,50.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v27,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-01,WRIGHT SIGNS INC,Wright Signs Inc,Yard Sign Stakes,170.53,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v28,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-02,FACEBOOK,Facebook,Social Media Promotions,116.60,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v29,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-03,WEBER STATE PARKING,Weber State Parking,Debate - Parking,3.50,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v30,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-04,"HUSTLE, INC",Inc Hustle,Voter Outreach Texts,100.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v31,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-04,M3 STRATEGIES,M3 Strategies,Voter Outreach,2000.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v32,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-08,VISTAPRINT,Vistaprint,Printing - Door Hnagers,272.92,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v33,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-09,M3 STRATEGIES,M3 Strategies,Voter Outreach,6912.50,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v34,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-15,FRESH MARKET,Fresh Market,"Water, candy, flowers for debate table",21.43,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v35,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-18,WRIGHT SIGNS INC,Wright Signs Inc,Yard Sign Stakes,137.09,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v36,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-24,M3 STRATEGIES,M3 Strategies,Voter Outreach,4406.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v37,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-26,FACEBOOK,Facebook,Social Media Promotions,500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v38,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-10-28,BLIP BILLBOARDS,Blip Billboards,Billboard,82.19,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v39,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-10,HARLAND CLARKE,Harland Clarke,Checks,18.88,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v40,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-16,AMAZON.COM,AMAZON.COM,Table cover,20.95,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v41,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-18,BANNERBUZZ,Bannerbuzz,Campaign step and repeat banner/stand,297.80,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v42,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-24,AMAZON.COM,AMAZON.COM,Dry erase board,123.99,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v43,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-27,AMAZON.COM,AMAZON.COM,Event speaker/microphones,299.99,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v44,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-27,SMITHS FOOD,Smiths Food,"Water, candy for promo event",20.44,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v45,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-04-30,M3 STRATEGIES,M3 Strategies,Field plan,500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v46,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-03,BUZZ GRAPHICS,Buzz Graphics,"Reimbursement: cards, card holders, website",80.33,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v47,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-03,HEATH SATOW,Heath Satow,Flyers,229.19,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v48,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-04,OGDEN CITY,Ogden City,Volunteer coordination/canvassing,25.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v49,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-06,M3 STRATEGIES,M3 Strategies,Candidate filing fee,1500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v50,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-08,VISTAPRINT,Vistaprint,Door hangers,204.76,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v51,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-05-11,CROWDPAC,Crowdpac,Fees,22.73,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v52,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-06-04,HEATH SATOW,Heath Satow,Reimbursement: door hanger printing (vistaprint),472.80,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v53,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-06-05,M3 STRATEGIES,M3 Strategies,Volunteer coordination/canvassing,1000.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v54,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-06-14,M3 STRATEGIES,M3 Strategies,Volunteer coordination/canvassing,700.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v55,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-03,M3 STRATEGIES,M3 Strategies,Volunteer coordination/canvassing,700.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v56,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-05,VISTAPRINT,Vistaprint,Door hangers,257.18,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v57,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-08,SMITHS FOOD,Smiths Food,H2O/candy for promo event,13.77,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v58,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-15,JM ALEXANDER CO.,JM Alexander CO,Yard signs,958.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v59,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-15,VISTAPRINT,Vistaprint,Door hangers,249.02,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v60,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-07-16,VISTAPRINT,Vistaprint,Flyers,152.56,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v61,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-08-02,FACEBOOK,Facebook,Social media promotion,95.39,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v62,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-08-09,M3 STRATEGIES,M3 Strategies,Volunteer coordination/GOTV calls,500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v63,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-08-14,FACEBOOK,Facebook,Social Media Promotions,500.00,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v64,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-08-19,ASHLEY THALMAN PHOTOGRAPHY,Ashley Thalman Photography,Photography,803.25,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v65,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-03,FACEBOOK,Facebook,Social Media Promotions,161.70,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v66,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-05,M3 STRATEGIES,M3 Strategies,Calls,267.20,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v67,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-11,VISTAPRINT,Vistaprint,Door Hangers,283.65,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v68,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2019,2019-01-01,,2019-09-12,SMITHS FOOD,Smiths Food,"Water, candy, flowers for debate table",62.20,False,False,raw/2019/31387_2019-Castillo-Combined.pdf,31387,v69,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-05-20,Landslide Political,Landslide Political,"Campaign assistance, Field efforts",12113.14,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v1,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-06-07,Ogden City,Ogden City,Registration Fee,25.00,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v2,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-06-08,Master Image Wear,Master Image Wear,Logo T-shirts,241.26,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v3,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-07-08,Google Voice,Google Voice,Phone Service,25.00,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v4,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-07-14,Ace Hardware,Ace Hardware,Sign Posts,17.14,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v5,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-07-18,Landslide Political,Landslide Political,Campaign Assistance,500.00,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v6,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-07-19,Landslide Political,Landslide Political,Campaign Assistance,1000.00,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v7,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-07-28,Ace Hardware,Ace Hardware,Posts For Signs,34.28,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v8,medium,ogden_form/vision,0
+Daniel Tabbish,Mayor,,2019,2019-01-01,,2019-08-14,Daniel Tabish,Daniel Tabish,Repayment of Loan,1194.34,False,False,raw/2019/31391_2019-Tabbish-combined.pdf,31391,v9,medium,ogden_form/vision,0
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-11-05,Union Grill,Union Grill,Campaign Party Catering,541.25,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v1,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-11-05,Stone Mountain Press,Stone Mountain Press,Campaign Mailer,2407.04,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v2,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-11-14,Eluvio Marketing,Eluvio Marketing,Campaign Strategy/Execution,25000.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v3,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-10-23,Stone Mountain Press,Stone Mountain Press,6x9 Mailers & postage,3344.40,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v4,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-10-23,Scott Lund,Scott Lund,Campaign services,1582.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v5,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-10-23,Pay Pal,Pay Pal,Fees for online donations,136.67,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v6,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-08-14,Consolidated Direct Mailer,Consolidated Direct Mailer,Mailer Expense,1889.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v7,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-08-14,Stone Mountain Press,Stone Mountain Press,Campaign Mailer,3271.46,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v8,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-07-01,Data Z,Data Z,"Web Site Upgrades, Support",3500.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v9,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-06-20,Kristin Sperry,Kristin Sperry,Photography,250.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v10,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-07-05,Jeremiah Springer,Jeremiah Springer,sign placement,84.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v11,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-07-18,Stone Mountain Press,Stone Mountain Press,"Mailers, Door Hangers, Printing",3454.63,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v12,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-07-03,Stone Mountain Press,Stone Mountain Press,Fundraising Letter- Print job,345.36,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v13,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2019-06-03,Ogden City Corp,Ogden City Corp,Election Filing Fees,25.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v14,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2018-04-26,Kevin Burns for Sheriff,Kevin Burns for Sheriff,Election Donation,1000.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v15,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2018-04-02,Friends of James Ebert,Friends of James Ebert,Election Donation,1500.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v16,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2018-08-29,Ogden High School Ozone,Ogden High School Ozone,Fundraiser,200.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v17,low,ogden_form/vision,1
+Mike Caldwell,Mayor,,2019,2019-01-01,,2016-06-23,Caitlin Gochnour for County Commisioner,Caitlin Gochnour for County Commisioner,Election Donation,1000.00,False,False,raw/2019/31386_2019-Caldwell-Combined.pdf,31386,v18,low,ogden_form/vision,1
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-26,Stone Mountain Press,Stone Mountain Press,Mailers and Postage,931.97,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v1,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-27,FedEx,FedEx,Copies,8.88,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v2,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-11-01,"Vimeo.com, Inc.",Inc Vimeo.com,Video Hosting,90.09,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v3,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-11-01,"Facebook, Inc.",Inc Facebook,Social Media Advertising,156.74,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v4,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-11-02,Crowdpac,Crowdpac,Processing Fees,2.76,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v5,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-12-01,"Facebook, Inc.",Inc Facebook,Social Media Advertising,89.47,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v6,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-01,Crowdpac,Crowdpac,Processing Fees,18.42,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v7,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-02,Facebook,Facebook,Social Media Boosting,4.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v8,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-08,Colby Peterson,Colby Peterson,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v9,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-08,Crowdpac,Crowdpac,Processing Fees,8.37,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v10,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-11,Ellis Printing,Ellis Printing,Campaign Fliers,42.90,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v11,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-15,M3 Strategies,M3 Strategies,Campaign Outreach,1250.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v12,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-15,"Wright Signs & Graphics, Inc.","Wright Signs & Graphics, Inc",Signs,1521.07,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v13,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-15,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v14,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-20,US Postal Service,US Postal Service,Stamps,23.20,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v15,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-25,Lowes,Lowes,Sign Posts and Zip Ties,112.29,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v16,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-26,Lowes,Lowes,Tools to install signs,34.28,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v17,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-28,Ellis Printing,Ellis Printing,Door Hangers,128.70,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v18,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-09-29,O2 Utah,O2 Utah,Texting Platform,110.62,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v19,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-02,Facebook,Facebook,Social Media Boosting,25.11,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v20,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-05,Stone Mountain Press,Stone Mountain Press,Mailers and Postage,767.04,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v21,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-09,Colby Peterson,Colby Peterson,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v22,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-13,Yesco Outdoor Media,Yesco Outdoor Media,Digital Media,825.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v23,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-13,Crowdpac,Crowdpac,Processing Fees,7.53,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v24,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-16,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v25,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-10-25,In-Kind Donations Total,In-Kind Donations Total,In-Kind Donations,721.60,True,False,raw/2021/17487_Choberka-Combined.pdf,17487,v26,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2017-09-02,"Squarespace, Inc.",Inc Squarespace,Website,16.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v27,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2017-10-02,"Squarespace, Inc.",Inc Squarespace,Website,16.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v28,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2017-11-02,"Squarespace, Inc.",Inc Squarespace,Website,16.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v29,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2017-12-02,"Squarespace, Inc.",Inc Squarespace,Website,16.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v30,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2018-01-02,"Squarespace, Inc.",Inc Squarespace,Website,16.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v31,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2018-03-11,"Squarespace, Inc.",Inc Squarespace,Website,20.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v32,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2019-03-03,"Squarespace, Inc.",Inc Squarespace,Website,21.42,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v33,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2020-03-05,"Squarespace, Inc.",Inc Squarespace,Website,21.45,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v34,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-04-21,Utah Democratic Party,Utah Democratic Party,Votebuilder,100.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v35,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-05-05,Colby Peterson,Colby Peterson,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v36,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-05-09,Knit Hero,Knit Hero,Photography,101.80,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v37,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-05-13,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v38,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-05-14,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v39,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-05-24,Cuppa,Cuppa,Campaign Meeting Refreshments,6.05,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v40,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-06-01,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v41,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-06-03,Crowdpac,Crowdpac,Processing Fees,46.10,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v42,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-06-13,Colby Peterson,Colby Peterson,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v43,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-06-14,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v44,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-07,"Wright Signs & Graphics, Inc.","Wright Signs & Graphics, Inc",Re-elect Stickers for Signs,247.53,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v45,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-12,WBs Eatery,WBs Eatery,Campaign Fundraising Event,123.73,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v46,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-12,Roosters B Street,Roosters B Street,Campaign Fundraising Event,35.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v47,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-21,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v48,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-23,Fox and Raven Studios,Fox and Raven Studios,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v49,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-28,Ellis Printing,Ellis Printing,Campaign Buttons,125.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v50,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-31,Crowdpac,Crowdpac,Campaign Fliers,58.99,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v51,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-07-31,Crowdpac,Crowdpac,Processing Fees,57.11,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v52,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-08-11,Crowdpac,Crowdpac,Processing Fees,2.85,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v53,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-08-16,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v54,medium,ogden_form/vision,0
+Angela Choberka,Council,1,2021,2021-01-01,,2021-08-17,Colby Peterson,Colby Peterson,Campaign Communications,200.00,False,False,raw/2021/17487_Choberka-Combined.pdf,17487,v55,medium,ogden_form/vision,0
+Bart Blair,Council,At-Large B,2021,2021-01-01,,2021-09-20,Stone Mountain,Stone Mountain,Yard Signs,851.50,False,False,raw/2021/17486_Blair-Combined.pdf,17486,v1,medium,ogden_form/vision,0
+Bart Blair,Council,At-Large B,2021,2021-01-01,,2021-10-10,Stone Mountain,Stone Mountain,Flyers & Mailers,2939.19,False,False,raw/2021/17486_Blair-Combined.pdf,17486,v2,medium,ogden_form/vision,0
+Bart Blair,Council,At-Large B,2021,2021-01-01,,2021-06-02,Ogden City Recorder,Ogden City Recorder,Filing Fee,25.00,False,False,raw/2021/17486_Blair-Combined.pdf,17486,v3,medium,ogden_form/vision,0
+Bart Blair,Council,At-Large B,2021,2021-01-01,,2021-07-30,US Post Office,US Post Office,Stamps,112.00,False,False,raw/2021/17486_Blair-Combined.pdf,17486,v4,medium,ogden_form/vision,0
+Bart Blair,Council,At-Large B,2021,2021-01-01,,2021-08-14,Home Depot,Home Depot,,93.42,False,False,raw/2021/17486_Blair-Combined.pdf,17486,v5,medium,ogden_form/vision,0
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,Wix.com,Wix.com,A671,5.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,134,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,"Oct 19,2021","Oct 19,2021",wwwdaniel glawell. info,53.62,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,135,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,"Oc122,2021","Oc122,2021",,424.58,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,140,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,"Sep 20, 2021 Jukebox","Sep 20, 2021 Jukebox",Stickers for Signs,379.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,144,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,"Oct 6, 2021 Fedex","Oct 6, 2021 Fedex",Flyers to Handout,79.79,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,148,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,Wix.com lsrael,Wix.com lsrael,www.danielgladwell.info,26.81,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,300,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,Weber County Clerk,Weber County Clerk,Election Data,67.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,303,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,,,Filing Fee,25.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,400,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,Tel Aviv,Tel Aviv,A67L                  website:,5.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,403,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,,,,26.81,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,404,low,ogden_form/text,1
+Daniel J. Gladwell,Council,At-Large A,2021,2021-01-01,,,,,Facebook Advertising,250.00,False,False,raw/2021/17260_Gladwell-Combined.pdf,17260,408,low,ogden_form/text,1
+Jase Reyneveld,Council,At-Large A,2021,2021-01-01,,,,,Purchase of 60 signs,920.47,False,False,raw/2021/17252_Financial-Report-Place-holder---Reyneveld.pdf,17252,117,high,ogden_form/text,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-12-02,Rusty Sessions,Rusty Sessions,flier design,100.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v1,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-12-02,Kevin Johnson Media,Kevin Johnson Media,digital media,250.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v2,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-11-02,Prairie Schooner,Prairie Schooner,election night party,100.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v3,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-12-02,Facebook,Facebook,social media ads,391.15,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v4,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-12-02,Kenneth Richey,Kenneth Richey,reimbursement,600.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v5,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-10-08,Grizzly Graphics,Grizzly Graphics,large campaign signs,347.49,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v6,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-09-29,Luna Group,Luna Group,advertising/golf tour,50.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v7,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-10-25,Ogden Litho Inc.,Ogden Litho Inc,campaign flyers,571.64,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v8,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-10-25,vis-à-vis,vis-à-vis,direct mail flyers,2791.05,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v9,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-08-20,Kevin Johnson Media,Kevin Johnson Media,campaign media,1500.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v10,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-08-20,Home Depot,Home Depot,Yard signs,34.15,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v11,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-08-27,Weber County,Weber County,District map,10.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v12,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-08-27,Weber County,Weber County,Voter Registrations,32.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v13,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-05-27,GoDaddy.com,GoDaddy.com,.com Domain Registration,467.82,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v14,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-05-27,GoDaddy.com,GoDaddy.com,.com Domain,94.70,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v15,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-01,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v16,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-15,Wright Sign,Wright Sign,Campaign signs,2276.92,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v17,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-21,Home Depot,Home Depot,Campaign sign materials,31.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v18,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-24,Home Depot,Home Depot,steel posts for campaign signs,85.37,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v19,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-19,Walmart.com,Walmart.com,thank you cards,38.16,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v20,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-06-25,Weber County Assessor,Weber County Assessor,Voter registration lists,32.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v21,low,ogden_form/vision,1
+Ken Richey,Council,3,2021,2021-01-01,,2021-08-02,Kenneth Richey,Kenneth Richey,Personal Contribution reimbursement,2000.00,False,False,raw/2021/17257_Richey-Combined.pdf,17257,v22,low,ogden_form/vision,1
+Mary Khalaf,Council,3,2021,2021-01-01,,2021-07-21,Bint Blanc Political,Bint Blanc Political,text outreach,200.00,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v1,medium,ogden_form/vision,0
+Mary Khalaf,Council,3,2021,2021-01-01,,2021-07-13,Jones Shirts & Signs,Jones Shirts & Signs,Signs,186.19,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v2,medium,ogden_form/vision,0
+Mary Khalaf,Council,3,2021,2021-01-01,,2021-07-20,Jones Shirts & Signs,Jones Shirts & Signs,Signs,71.02,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v3,medium,ogden_form/vision,0
+Mary Khalaf,Council,3,2021,2021-01-01,,,FedEx,FedEx,Fliers,33.14,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v4,medium,ogden_form/vision,0
+Mary Khalaf,Council,3,2021,2021-01-01,,2021-07-05,Ogden City Recorder,Ogden City Recorder,filing fee,25.00,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v5,medium,ogden_form/vision,0
+Mary Khalaf,Council,3,2021,2021-01-01,,2021-07-20,Weber County elections,Weber County elections,voter rolls,17.00,False,False,raw/2021/17255_Khalaf-Combined.pdf,17255,v6,medium,ogden_form/vision,0
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-28,FACEBOOK ADS,Facebook Ads,FB Ads,-25.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,110,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-28,FACEBOOK ADS,Facebook Ads,FB Ads,-25.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,112,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-28,FUNDHERO,Fundhero,Donation plataform fees,-0.79,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,114,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-29,FACEBOOK ADS,Facebook Ads,FB Ads,-25.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,116,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-30,FACEBOOK ADS,Facebook Ads,FB Ads,-35.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,118,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-01,HARMONS - ROY 5370 S 1900 W,Harmons - Roy 5370 S 1900 W,Volunteer meals,-232.46,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,120,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-01,FACEBOOK ADS,Facebook Ads,FB Ads,-75.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,122,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-01,FACEBOOK ADS,Facebook Ads,FB Ads,-75.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,124,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-01,FACEBOOK ADS,Facebook Ads,FB Ads,-50.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,126,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-03,FACEBOOK ADS,Facebook Ads,FB Ads,-125.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,128,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-04,FACEBOOK ADS,Facebook Ads,FB Ads,-175.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,130,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-06,FACEBOOK ADS,Facebook Ads,FB Ads,-7.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,132,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-08,FUNDHERO,Fundhero,Donation plataform fees,-35.96,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,134,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-09,,,social media,-500.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,136,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-12,O2UTAH.ORG* O2UTAH O2UTAH.ORG UT 009239,O2UTAH.ORG* O2UTAH O2UTAH.ORG UT 009239,text,-126.26,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,138,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-12,O2UTAH.ORG* O2UTAH O2UTAH.ORG UT 009263,O2UTAH.ORG* O2UTAH O2UTAH.ORG UT 009263,donation,-101.14,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,140,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-11-12,FACEBOOK ADS,Facebook Ads,FB Ads,-42.92,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,142,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-07,VISA - 09/05 FUNDHERO PREMIUM WWW.FUNDHERO. UT 005247,Visa - 09/05 Fundhero Premium WWW.FUNDHERO. UT 005247,Fundhero service fee,35.96,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,342,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-16,VISA - 09/15 STICKER MULE STICKERMULE.C NY 014346,Visa - 09/15 Sticker Mule STICKERMULE.C NY 014346,Sticker and pins,217.18,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,344,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-17,VISA - 09/15 SQ *M3 STRATEGIES GOSQ.COM UT 015089,Visa - 09/15 SQ *M3 Strategies GOSQ.COM UT 015089,Door Knocking,1000.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,346,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-17,VISA - 09/15 SM3-CUSTOMPROMO 2815338932 TX 015804,Visa - 09/15 SM3-CUSTOMPROMO 2815338932 TX 015804,Table cloth,176.17,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,348,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-18,"VISA - 09/16 ELLIS PRINTING, LLC OGDEN UT 016022","Visa - 09/16 Ellis PRINTING, Llc Ogden UT 016022",Post cards,359.29,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,350,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-24,VISA - 09/23 CAMPAIGN VERIFY WWW.CAMPAIGNV VA 022261,Visa - 09/23 Campaign Verify WWW.CAMPAIGNV VA 022261,Text message service fee,95.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,352,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-09-27,"POINT OF SALE PURCHASE US UT OGDEN, IFA OGDEN 1470 WAL","Point OF Sale Purchase US UT OGDEN, Ifa Ogden 1470 Wal",post pounder,32.17,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,354,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-07,VISA - 10/04 WRIGHT SIGNS INC 801-3923544 UT 004870,Visa - 10/04 Wright Signs Inc 801-3923544 UT 004870,Signs,201.63,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,356,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-07,VISA - 10/05 FUNDHERO PREMIUM WWW.FUNDHERO. UT 005043,Visa - 10/05 Fundhero Premium WWW.FUNDHERO. UT 005043,Fundhero service fee,35.96,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,358,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-12,VISA - 10/10 FACEBK EKG5E8PJV2 650-5434800 CA 010909,Visa - 10/10 Facebk EKG5E8PJV2 650-5434800 CA 010909,Facebook ads,30.06,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,360,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-14,"VISA - 10/12 ELLIS PRINTING, LLC OGDEN UT 012813","Visa - 10/12 Ellis PRINTING, Llc Ogden UT 012813",Mailer,1231.51,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,362,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-15,VISA - 10/13 IFA OGDEN OGDEN UT 013672,Visa - 10/13 Ifa Ogden Ogden UT 013672,posts for signs,44.34,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,364,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-20,VISA - 09/05 FUNDHERO PREMIUM WWW.FUNDHERO. UT 005247,Visa - 09/05 Fundhero Premium WWW.FUNDHERO. UT 005247,Fundhero service fee,158.26,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,366,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-10-23,"VISA - 10/12 ELLIS PRINTING, LLC OGDEN UT 012813","Visa - 10/12 Ellis PRINTING, Llc Ogden UT 012813",Mailer,1168.22,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,368,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-08-03,"WIX*WIX.COM, INC. ($","WIX*WIX.COM, INC. ($",Website service fee,24.85,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,493,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-08-07,FUNDHERO PREMIUM WWW.FUNDHERO ($,Fundhero Premium WWW.FUNDHERO ($,Fundhero service fee,26.97,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,495,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-08-16,Olivia Erickson,Olivia Erickson,Campaigh Mgmt,300.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,496,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-08-20,O2 Utah,O2 Utah,Text message service,179.57,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,498,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-02-23,Payment to Oscar Mata,Payment to Oscar Mata,Campaign field plan,300.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,693,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-03-05,Sandy Lopez,Sandy Lopez,Website design,500.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,694,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-03-06,UTAH STATE DEMOCRATIC COM 801-3281212 UT 003,Utah State Democratic Com 801-3281212 UT 003,Votebuilder Software,100.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,695,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-04-07,FUNDHERO PREMIUM WWW.FUNDHERO. UT 005705,Fundhero Premium WWW.FUNDHERO. UT 005705,Fundhero service fee,8.99,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,696,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-04-15,"FUNDHERO, LLC WWW.FUNDHERO. UT 013917","FUNDHERO, Llc WWW.FUNDHERO. UT 013917",Fundhero service fee,6.81,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,697,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-05-01,WIX.COM PREMIUM-PLAN WWW.WIX.COM CA 027472,WIX.COM PREMIUM-PLAN WWW.WIX.COM CA 027472,Web hosting,178.24,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,698,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-05-07,FUNDHERO PREMIUM WWW.FUNDHERO. UT 005660,Fundhero Premium WWW.FUNDHERO. UT 005660,Fundhero service fee,26.97,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,699,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-05-24,V USPS PO 4964950222 OGDEN UT 021672,V Usps PO 4964950222 Ogden UT 021672,PO box,67.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,700,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-05-28,Payment Mark Burgener,Payment Mark Burgener,Volunteers T-shirts,234.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,701,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-05-28,COPPINS HALLMARK SHOP 3 HARRISVILLE UT 02518,Coppins Hallmark Shop 3 Harrisville UT 02518,Thank you notes,25.77,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,702,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-01,USPS PO 4964950222 OGDEN UT 028998,Usps PO 4964950222 Ogden UT 028998,Stamps,11.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,703,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-03,Ogden City,Ogden City,Registration fee,25.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,704,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-05,Dollar store (snaks for volunteers),Dollar store (snaks for volunteers),Volunteer snacks,12.98,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,705,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-07,FUNDHERO PREMIUM WWW.FUNDHERO. UT 005122,Fundhero Premium WWW.FUNDHERO. UT 005122,Fundhero service fee,26.97,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,706,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-07,SMITHS FOOD #4131 OGDEN UT 005204,Smiths Food #4131 Ogden UT 005204,Volunteer snacks,7.33,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,707,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-08,"ELLIS PRINTING, LLC OGDEN UT 004301","Ellis PRINTING, Llc Ogden UT 004301",Mailers,318.00,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,708,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-21,CHEVRON 0203434 OGDEN UT 019587,Chevron 0203434 Ogden UT 019587,Volunteer snacks,10.28,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,709,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-06-30,SIGNSONTHECHEAP.COM 866-664-9239 TX 028538,SIGNSONTHECHEAP.COM 866-664-9239 TX 028538,Yard signs,756.10,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,710,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-07-07,FUNDHERO PREMIUM WWW.FUNDHERO. UT 005932,Fundhero Premium WWW.FUNDHERO. UT 005932,Fundhero service fee,26.97,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,711,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-07-10,SMITHS FOOD #413 1485 HARRISON BVD.,Smiths Food #413 1485 Harrison Bvd,Volunteers snacks,25.26,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,712,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-07-16,WRIGHT SIGNS INC OGDEN UT 013025,Wright Signs Inc Ogden UT 013025,Flyers,284.64,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,713,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-07-28,"ELLIS PRINTING, LLC OGDEN UT 026385","Ellis PRINTING, Llc Ogden UT 026385",Mailers,1385.67,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,714,low,ogden_form/text,1
+Priscilla Martinez,Council,3,2021,2021-01-01,,2021-07-29,O2 payment,O2 payment,Text message service,105.47,False,False,raw/2021/17256_Martinez-Combined.pdf,17256,715,low,ogden_form/text,1
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-06-01,Ogden City,Ogden City,To sign candidance filing,25.00,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v1,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-09-01,Ellis Printing LLC,Ellis Printing Llc,Corex Signs 4x8 and 18x24,3667.95,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v2,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-09-21,Ellis Printing LLC,Ellis Printing Llc,Vinyl 3M Stickers,214.50,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v3,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-09-24,Ellis Printing LLC,Ellis Printing Llc,"Vinyl stickers, white blanks",305.66,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v4,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-10-13,Ellis Printing LLC,Ellis Printing Llc,Post cards and mailings,10038.69,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v5,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-10-13,Linda Neddo Graphic Design,Linda Neddo Graphic Design,Post card design,120.00,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v6,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-10-14,Julie White Webside Design,Julie White Webside Design,Website design,1500.00,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v7,medium,ogden_form/vision,0
+Sebastian Benitez,Council,At-Large B,2021,2021-01-01,,2021-10-21,Standard Examiner,Standard Examiner,Publication,1925.00,False,False,raw/2021/17485_Benitez-Combined.pdf,17485,v8,medium,ogden_form/vision,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-06-03,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,88,high,ogden_form/text,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-06-09,Hostinger.com,Hostinger.com,Web domanin,10.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,90,high,ogden_form/text,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-06-26,Hostinger.com See above,Hostinger.com See above,Web hosting,35.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,92,high,ogden_form/text,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-07-01,Weber County,Weber County,Voter records,25.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,95,high,ogden_form/text,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-08-03,,,Fliers,140.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,97,high,ogden_form/text,1
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-08-05,Cheapyardsigns.com,Cheapyardsigns.com,Yard signs,150.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,100,high,ogden_form/text,0
+Thomas H. Gooch,Council,1,2021,2021-01-01,,2021-08-10,Hostinger.com See above,Hostinger.com See above,New domain,11.00,False,False,raw/2021/17495_Gooch-Combined.pdf,17495,102,high,ogden_form/text,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-03-13,zyro.com,zyro.com,website,39.48,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v1,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-03-18,namebadge.com,namebadge.com,name badge,14.51,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v2,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-04-03,cheapyardsigns.com,cheapyardsigns.com,yard signs,235.50,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v3,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-05-15,docucopies.com,docucopies.com,fliers,126.67,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v4,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-06-01,Fund Hero,Fund Hero,donation management fee,28.90,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v5,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-06-02,Ogden City,Ogden City,candidate filing fee,25.00,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v6,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-06-07,Vistaprint,Vistaprint,t-shirts,27.72,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v7,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-06-10,Vistaprint,Vistaprint,t-shirts,41.49,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v8,medium,ogden_form/vision,0
+Alexander Castagno,Council,4,2023,2023-01-01,,2023-08-13,Blip Billboards,Blip Billboards,billboard ad,90.00,False,False,raw/2023/30770_Castagno-Combined.pdf,30770,v9,medium,ogden_form/vision,0
+Austin Raymond,Council,4,2023,2023-01-01,,2023-06-01,Ogden City,Ogden City,Candidate filing fee,25.00,False,False,raw/2023/30781_08-29-2023-Raymond.pdf,30781,121,high,ogden_form/text,0
+Dave Graf,Council,4,2023,2023-01-01,,2023-11-16,Elevate Strategies,Elevate Strategies,Text Messages,832.59,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v1,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-11-15,Kim Graf,Kim Graf,E Vite Service,36.99,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v2,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-11-27,Elevate,Elevate,Texting & Campaign Advice,2450.06,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v3,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-10-21,Farr Better Ice Cream,Farr Better Ice Cream,treats for meet-n-greet,34.72,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v4,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-10-21,Smiths,Smiths,Peanuts Chocolate Syrup,5.75,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v5,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-11-02,Stone Men Press,Stone Men Press,Mail + Printing,3212.91,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v6,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-11-06,Elevate Strategies,Elevate Strategies,digital Advertising,1000.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v7,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Sapori,Sapori,Bakery,50.85,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v8,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Kaffe Mave,Kaffe Mave,Hot Cocoa,25.94,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v9,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Kevin Johnson Media,Kevin Johnson Media,Media Service,2000.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v10,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Lowes,Lowes,For Signs Zipties,10.72,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v11,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Elevate,Elevate,Campaign Advice,500.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v12,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,U.S. Postal,U.S. Postal,100 qty 1st Class Stamps,66.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v13,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Stone Men,Stone Men,9x6 Flyers,69.71,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v14,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Stone Men Press,Stone Men Press,11x17 Mailer,4206.31,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v15,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Stone Men Press,Stone Men Press,Kingston Mailer,214.73,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v16,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Stone Mtn Press (ck #192),Stone Mtn Press (ck #192),G.O.T.V. Mailer,1626.89,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v17,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Rumbleup,Rumbleup,Texting Service,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v18,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Rumble up,Rumble up,Texting Subscription,19.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v19,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Claire Ewert (ck #193),Claire Ewert (ck #193),Social Media Maint.,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v20,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Lowes,Lowes,Stakes for large signs,118.17,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v21,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-09-19,Stone Mtn Press,Stone Mtn Press,Campaign Flyers,185.01,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v22,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-09-22,Stone Mtn Press,Stone Mtn Press,Fund raising letters,24.67,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v23,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,U.S. Post Office,U.S. Post Office,Stamps,66.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v24,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,,Stone Mtn Press,Stone Mtn Press,Fund raising letters,48.05,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v25,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-03,Harland,Harland,Check printing,40.22,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v26,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-10,Staples,Staples,Office Supplies,92.40,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v27,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-05,Costco,Costco,Dinner food for meet & greet,59.14,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v28,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-06,Kevin Johnson Media,Kevin Johnson Media,Web Hosting,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v29,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-08,Claire Ewert,Claire Ewert,Social Media Marketing,127.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v30,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-10,Stone Mtn Press,Stone Mtn Press,Copies,8.04,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v31,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-12,Visit Ogden,Visit Ogden,Postcards,57.92,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v32,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-23,Stone Mtn. Press,Stone Mtn. Press,Car door magnets Large signs,881.60,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v33,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-23,Claire Ewert,Claire Ewert,Social media marketing,90.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v34,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-27,Sticker Mule,Sticker Mule,Campaign Buttons,60.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v35,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-27,Home Depot,Home Depot,Sign Stakes Zip ties,140.44,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v36,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-29,Stone Mtn Press,Stone Mtn Press,Flyers,227.91,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v37,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-28,Rumble Up,Rumble Up,Texting,19.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v38,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-28,Rumble Up,Rumble Up,Texting,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v39,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-07,FedEx Office,FedEx Office,Copies,59.33,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v40,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-06,Claire Ewert,Claire Ewert,Social Media Mkting,71.25,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v41,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-07,Staples,Staples,Door knocking supplies,20.75,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v42,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-10,Art Box,Art Box,Thank you cards,59.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v43,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-12,Wilkinson Supply,Wilkinson Supply,Tool Repair part,33.09,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v44,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-12,Rumble Up,Rumble Up,Texting Svc,749.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v45,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-14,USPS,Usps,Postcard Stamps,19.26,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v46,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-13,Clear Checks (Online Svc),Clear Checks (Online Svc),Self Background check,69.99,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v47,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-16,Lowes,Lowes,Sign Supplies,52.65,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v48,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-20,Art Box,Art Box,Thank you cards,56.05,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v49,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-20,Stone Mtn Press,Stone Mtn Press,"Mailers #1&2, Stickers, Invites",3625.80,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v50,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-17,Claire Ewert,Claire Ewert,Social Media Mktg,87.45,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v51,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-31,Stone Mtn Press,Stone Mtn Press,Mailers,174.28,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v52,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-31,Rumble Up,Rumble Up,Texting Svc,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v53,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-07-31,USPS,Usps,Stamps,76.26,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v54,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-08-03,Claire Ewert,Claire Ewert,Wages & Supplies,134.22,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v55,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-08-11,Rumble Up,Rumble Up,texting svc,100.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v56,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-08-12,Rumble Up,Rumble Up,texting svc,527.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v57,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-04-19,Weber County Clerk,Weber County Clerk,voter data,39.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v58,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-04-25,Roosters,Roosters,campaign luncheon,72.79,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v59,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-04-25,USPS,Usps,PO Box Rental,248.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v60,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-08,Kevin Johnson Media,Kevin Johnson Media,website,1000.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v61,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-15,Office Max,Office Max,office supplies,32.05,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v62,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-16,Stone Mtn Press,Stone Mtn Press,Yard signs,2556.84,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v63,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-24,Stone Mtn Press,Stone Mtn Press,Printed Materials,124.14,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v64,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-16,USPS,Usps,Postage,75.60,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v65,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-06-06,Ogden City,Ogden City,Candidate Registration,25.00,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v66,low,ogden_form/vision,1
+Dave Graf,Council,4,2023,2023-01-01,,2023-05-09,Staples,Staples,Printer Ink,92.40,False,False,raw/2023/30773_Graf-Combined.pdf,30773,v67,low,ogden_form/vision,1
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-11-13,Wix.com,Wix.com,Website Fee's,36.15,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v1,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-11-04,South Fork Hardware,South Fork Hardware,Sign Materials,21.41,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v2,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,,Carrie Andersen,Carrie Andersen,Annual Website Fee Reimbursment,200.00,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v3,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-07-24,Stone Mt. Press,Stone Mt. Press,Business Cards,28.96,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v4,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-07-29,South Fork Hardware,South Fork Hardware,zip ties & sign stakes,31.06,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v5,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-08-14,Store Mt. Press,Store Mt. Press,"Signs, magnets",933.08,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v6,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-06-20,Wix.com,Wix.com,Website costs,27.25,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v7,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-06-20,Wix.com,Wix.com,Website costs,36.07,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v8,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-07-15,Wix.com,Wix.com,Website costs,36.07,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v9,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-08-15,Wix.com,Wix.com,Website costs,36.07,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v10,medium,ogden_form/vision,0
+J. Levi Andersen,Council,At-Large C,2023,2023-01-01,,2023-06-28,axs.com,axs.com,Website costs,109.52,False,False,raw/2023/30766_Anderson-Combined.pdf,30766,v11,medium,ogden_form/vision,0
+Lara Gale,Council,At-Large C,2023,2023-01-01,,,"ValPak Northern UT Roy, UT 84067","ValPak Northern UT Roy, UT 84067",Fliers,382.29,False,False,raw/2023/30772_Gale-Combined.pdf,30772,116,low,ogden_form/text,1
+Lara Gale,Council,At-Large C,2023,2023-01-01,,,"City of Ogden Ogden, UT 84401","City of Ogden Ogden, UT 84401",Filing Fee,25.00,False,False,raw/2023/30772_Gale-Combined.pdf,30772,119,low,ogden_form/text,1
+Sebastian Benitez,Council,4,2023,2023-01-01,,2023-07-15,Ellis Pointing,Ellis Pointing,Vinyl Stickers,638.14,False,False,raw/2023/30768_Benitez-Combined.pdf,30768,v1,medium,ogden_form/vision,0
+Sebastian Benitez,Council,4,2023,2023-01-01,,2023-08-08,Linda Dimmoir,Linda Dimmoir,Website for SebastianBenitez.com,350.00,False,False,raw/2023/30768_Benitez-Combined.pdf,30768,v2,medium,ogden_form/vision,0
+Sebastian Benitez,Council,4,2023,2023-01-01,,2023-08-01,Lowe's,Lowe's,Post For Big Signs,95.86,False,False,raw/2023/30768_Benitez-Combined.pdf,30768,v3,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-10-30,Consolidated Direct Mail,Consolidated Direct Mail,Mailers,2465.15,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v1,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-11-10,Consolidated Direct Mail,Consolidated Direct Mail,Mailers,2465.15,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v2,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-12-05,Dailey Solutions LLC,Dailey Solutions Llc,Campaign Management,4500.00,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v3,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-12-02,Rate Now,Rate Now,MSM Messages,350.00,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v4,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-08-04,Consolidated Direct Mail,Consolidated Direct Mail,Campaign Mail,3462.01,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v5,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-07-20,Consolidated Direct Mail,Consolidated Direct Mail,Campaign Mail,2107.02,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v6,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-07-14,RiverPrint,RiverPrint,Campaign Signage,6159.87,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v7,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-08-14,Consolidated Direct Mail,Consolidated Direct Mail,Campaign Mail,1657.02,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v8,medium,ogden_form/vision,0
+Shaun Myers,Council,At-Large C,2023,2023-01-01,,2023-07-01,Filing Fee,Filing Fee,Filing Fee,25.00,False,False,raw/2023/30779_Myers-Combined.pdf,30779,v9,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-16,Advantage Utah,Advantage Utah,Marketing,565.63,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v1,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-18,Facebook,Facebook,Marketing,900.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v2,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-18,Advantage Utah,Advantage Utah,Marketig,2439.65,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v3,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-20,Ogden Support,Ogden Support,Marketing,120.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v4,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-24,CallHub,CallHub,Marketing,75.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v5,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-12-02,Facebook,Facebook,Marketing,296.56,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v6,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-27,Advantage Utah,Advantage Utah,Marketing,1058.60,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v7,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-30,Advantage Utah,Advantage Utah,Marketig,739.27,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v8,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-31,Advantage Utah,Advantage Utah,Marketing,688.34,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v9,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-31,Advantage Utah,Advantage Utah,Marketing,788.16,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v10,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-02,Facebook,Facebook,Marketing,453.40,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v11,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-04,CallHub,CallHub,Marketing,250.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v12,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-06,Protime Sports Inc,Protime Sports Inc,Marketing,144.81,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v13,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-11-09,Facebook,Facebook,Marketing,750.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v14,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-12,Pie Pizza,Pie Pizza,Meeting,35.40,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v15,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-12,Lowes,Lowes,Marketing,31.10,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v16,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-10-12,Weber Count Clerk,Weber Count Clerk,Marketing,26.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v17,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-09-02,Facebook,Facebook,Marketing,423.34,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v18,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-09-09,Pie Pizza,Pie Pizza,Meeting,27.46,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v19,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-09-09,Virgs,Virgs,Meeting,40.87,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v20,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-09-25,Lowes,Lowes,Marketing,90.52,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v21,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-09-25,Ellis Printing,Ellis Printing,Marketing,1401.76,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v22,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-05-12,Weber County Clerk,Weber County Clerk,Voter Info,39.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v23,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-05-24,Ellis Printing,Ellis Printing,Signs,2140.85,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v24,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-05-24,Lucky Slice Pizza,Lucky Slice Pizza,Thank you Pizza,113.38,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v25,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-05-24,Sticker Mule,Sticker Mule,Marketing,544.83,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v26,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-01,Ogden City Recorder,Ogden City Recorder,Filing Fee,25.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v27,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-01,Advantage Utah,Advantage Utah,Marketing,664.68,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v28,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-08,Advantage Utah,Advantage Utah,Marketing,2411.33,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v29,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-13,QR Code Generator,QR Code Generator,Marketing,193.80,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v30,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-19,Virgs,Virgs,Meeting,27.96,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v31,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-20,Office Depot,Office Depot,Marketing,79.37,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v32,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-20,Ogden School District,Ogden School District,Rental,187.75,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v33,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-20,Corner Street Bakery café,Corner Street Bakery café,Meeting,24.31,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v34,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-24,Ellis Printing,Ellis Printing,Marketing,404.47,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v35,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-16,Vista Print,Vista Print,Marketing,47.17,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v36,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-06-16,Costco,Costco,Volunteer Hydrations,102.78,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v37,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-10,Harmons,Harmons,Cotton Candy Giveout,135.73,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v38,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-10,Office Depot,Office Depot,Marketing,56.84,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v39,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-14,United States Post Office,United States Post Office,Mailing,132.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v40,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-14,Pro Time Sport,Pro Time Sport,Campagin Shirts,459.82,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v41,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-18,Ellis Printing,Ellis Printing,Signs,880.12,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v42,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-24,Office Depot,Office Depot,Marketing,68.99,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v43,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-30,Virgs,Virgs,Meeting,27.84,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v44,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-07-31,Campaign Verifiy,Campaign Verifiy,Compliance,95.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v45,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-02,Facebook,Facebook,Marketing,248.43,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v46,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-05,CallHub,CallHub,Marketing,50.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v47,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-08,Advantage Utah,Advantage Utah,Marketing,656.15,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v48,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-09,Wasatch Roasting Co,Wasatch Roasting Co,Meeting,16.53,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v49,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-12,Office Depot,Office Depot,Marketing,441.87,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v50,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-19,CallHub,CallHub,Markting,500.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v51,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-21,Advantage Utah,Advantage Utah,Marketing,660.65,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v52,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-22,Advantage Utah,Advantage Utah,Marketing,909.43,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v53,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-28,CallHub,CallHub,Marketing,500.00,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v54,medium,ogden_form/vision,0
+Steven Van Wagoner,Council,4,2023,2023-01-01,,2023-08-28,Advantage Utah,Advantage Utah,Marketing,2225.90,False,False,raw/2023/30783_Van-Wagoner-Combined.pdf,30783,v55,medium,ogden_form/vision,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-30,Jamie Carter-Park,Jamie Carter-Park,Campaign admin,508.98,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,27,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-30,Taboo Pizza,Taboo Pizza,Volunteer lunch/work session,63.27,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,28,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-02,FACEBK/META,FACEBK/META,Social ad,159.86,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,29,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-02,AMAZON,Amazon,yard sign stakes,23.58,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,30,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-05,Namecheap Internet,Namecheap Internet,Web hosting,11.88,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,31,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-05,AMAZON,Amazon,Creator Kit (campaign social media content),202.70,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,32,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-05,FACEBK/META,FACEBK/META,Social ad,600.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,33,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-03,THE LUCKY SLICE,The Lucky Slice,Volunteer lunch/work session,86.95,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,34,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-03,Jamie Carter-Park,Jamie Carter-Park,Campaign admin,468.34,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,35,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-10,Taboo Pizza,Taboo Pizza,Volunteer lunch/thank you,81.78,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,36,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-09,Jamie Carter-Park,Jamie Carter-Park,Campaign admin,300.67,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,37,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-09-16,Phoenix Business Solutions,Phoenix Business Solutions,Targeted texting GOTV (Sept.1st-5th),1000.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,38,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2019-12-16,Yard Masters,Yard Masters,2019 campaign: sign stake hit water line,375.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,160,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-02-28,Amazon,Amazon,Office – Streaming equipment,211.40,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,161,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-03-01,Amazon,Amazon,Office – Streaming equipment,182.31,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,162,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-03-30,Squarespace,Squarespace,Website,154.44,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,163,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-04-20,Amazon,Amazon,Office – Streaming equipment,181.22,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,164,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-04-27,Amazon,Amazon,Office – Supplies,9.64,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,165,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-05-02,Amazon,Amazon,Office – Supplies,42.89,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,166,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-10-02,Winred Ally UT,Winred Ally UT,Donation,25.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,167,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-10-25,Amazon,Amazon,Office – Supplies,101.88,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,168,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-10-26,Amazon,Amazon,Office – Supplies,17.69,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,169,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-10-29,Amazon,Amazon,Office – Supplies,38.61,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,170,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2021-11-23,Amazon,Amazon,Office – Supplies,38.61,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,171,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2022-03-05,Cat Palmer Photography,Cat Palmer Photography,Photos,284.05,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,172,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2022-03-31,Squarespace,Squarespace,Website,154.44,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,173,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2022-04-23,"Utah Audio, LLC","Utah Audio, Llc",Sound/streamiong,300.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,174,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2022-09-22,Ashley Thalman Photography,Ashley Thalman Photography,Photos,657.43,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,175,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-01-12,Zurchers,Zurchers,Event balloons,118.57,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,176,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-01-13,Gloho Photogrpahy,Gloho Photogrpahy,Photos,100.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,177,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-01-14,XYZ Marketing,Xyz Marketing,Video/sound,400.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,178,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-01-26,Sun Lithograph,Sun Lithograph,Business cards,236.80,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,179,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-02-06,Kevin Johnson Media,Kevin Johnson Media,Photos,100.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,180,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-03-28,Walmart,Walmart,Office furniture,343.83,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,181,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-03-28,Walmart,Walmart,Office supplies,256.33,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,182,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-03-30,Monarch Venues,Monarch Venues,Event space rental,500.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,183,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-03-30,Squarespace,Squarespace,Website,180.18,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,184,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-03-31,XYZ Marketing,Xyz Marketing,Video,800.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,185,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-12,Monarch Venues,Monarch Venues,Event rental,150.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,186,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-12,Monarch Venues,Monarch Venues,Event food,50.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,187,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-14,Criss Cross Macarons,Criss Cross Macarons,Event food,120.59,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,188,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-14,Smiths Food #4131,Smiths Food #4131,Event food,152.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,189,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-15,Gloho Photogrpahy,Gloho Photogrpahy,Photos,125.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,190,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-18,Jim Gonzales,Jim Gonzales,Consulting,750.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,191,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-04-18,Jim Gonzales,Jim Gonzales,Consulting,750.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,192,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-05-23,Morgan and May,Morgan and May,Consulting,2000.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,199,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-05-31,Betos Mexican Food,Betos Mexican Food,Volunteer food,43.05,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,200,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-15,Amazon,Amazon,Office – Supplies,6.40,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,201,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-15,Checks In The Mail Inc,Checks In The Mail Inc,Checks,387.73,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,202,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-15,Tiered Utopia Llc,Tiered Utopia Llc,Volunteer food,200.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,203,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-17,The Lucky Slice,The Lucky Slice,Volunteer food,24.54,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,204,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-21,Harland Clarke,Harland Clarke,Checks,24.54,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,205,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-26,Morgan And May,Morgan And May,Consultant,2500.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,206,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-06-26,Morgan And May,Morgan And May,Subscription fee (reimbursement),110.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,207,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-07-06,Amazon,Amazon,Office – Supplies,128.65,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,208,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-07-12,Operating Engineers Local 3,Operating Engineers Local 3,Donation,50.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,209,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-07-15,Alex and Jennifer Martinez,Alex and Jennifer Martinez,Sign installs,200.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,210,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-07-15,The Home Depot #4411,The Home Depot #4411,Sign Stakes,164.86,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,211,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-01,Jamie Carter-Park,Jamie Carter-Park,Campaign Administration,386.34,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,212,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-02,Facebook/Meta,Facebook/Meta,Advertising,6.47,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,213,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-05,Jamie Carter-Park,Jamie Carter-Park,Campaign Administration,386.34,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,214,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-07,Fresh Mkt,Fresh Mkt,Event water,8.84,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,215,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-07,Fresh Mkt,Fresh Mkt,Event soda,4.05,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,216,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-09,Morgan And May,Morgan And May,Consultant,2500.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,217,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-12,Weber County Center,Weber County Center,Election report fee,2.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,218,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-12,Weber County Center,Weber County Center,Election report fee,65.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,219,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-15,PDQ Union Printing,Pdq Union Printing,Mailer,5082.21,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,220,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-21,Jamie Carter-Park,Jamie Carter-Park,Campaign Administration,588.66,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,221,high,ogden_form/text,0
+Angel Castillo,Mayor,,2023,2023-01-01,,2023-08-21,Morgan And May,Morgan And May,Consultant,1417.00,False,False,raw/2023/30771_Castillo-Combined.pdf,30771,222,high,ogden_form/text,0
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-01,STONE MOUNTAIN PRESS,Stone Mountain Press,MAIL PIECE,1645.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v1,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-08,ROOTS INC.,Roots Inc,CAMPAIGN CONSULTING,2500.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v2,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-05,SAM'S CLUB,SAM'S Club,ELECTION NIGHT GATHERING,465.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v3,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-05,WAL-MART,WAL-MART,ELECTION NIGHT SUPPLIES,160.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v4,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-08,POST OFFICE,Post Office,POSTAGE,50.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v5,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-08,WAL-MART,WAL-MART,THANK YOU CARDS,88.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v6,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-09-08,WAL-MART,WAL-MART,GIFT CARDS FOR ELECTION TEAM (PAYMENT),2400.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v7,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-06-06,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v8,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-06-06,Lowe's,Lowe's,"Stakes, zip ties",82.05,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v9,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-06-07,Home Depot,Home Depot,"Steel Stakes,",211.65,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v10,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-07-28,Home Depot,Home Depot,"Stakes, zip ties",64.11,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v11,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-05-10,Stone Mountain Press,Stone Mountain Press,Yard Signs/Step Stakes,826.08,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v12,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-07-17,Stone Mountain Press,Stone Mountain Press,Yard Signs/Step Stakes/Signs,2901.43,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v13,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-07-19,Stone Mountain Press,Stone Mountain Press,Debate Handouts,50.94,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v14,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-08-12,Roost Company,Roost Company,Mailer,1444.05,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v15,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-08-15,Home Depot,Home Depot,Cable Ties,30.91,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v16,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-08-10,Stone Mountain Press,Stone Mountain Press,Debate Handouts/Cards,171.44,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v17,low,ogden_form/vision,1
+Bart E. Blair,Mayor,,2023,2023-01-01,,2023-08-10,Zurchers,Zurchers,Debate Balloons/Candy,28.12,False,False,raw/2023/30769_Blair-Combined.pdf,30769,v18,low,ogden_form/vision,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-05,"In The Field, LLC","In The Field, Llc",Campaign Doors & Liturature Drops,1153.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,104,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-15,Waters Array,Waters Array,Website Redesign,586.67,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,105,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-16,Integrity Matters,Integrity Matters,Voter probablity forcast and email service,647.52,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,106,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-17,Copper Nickel Events,Copper Nickel Events,Election Night Event Venue,1421.09,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,107,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-21,Integrity Matters,Integrity Matters,Voter probablity forcast and email service,545.40,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,108,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-21,Walmart,Walmart,Supplies for Election Night Event,485.20,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,109,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-21,Katie Howell,Katie Howell,Campaign Photobooth Election Night,600.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,110,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-23,Innovative Creations,Innovative Creations,Decorations for Election Night Event,975.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,111,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Daniela Harding,Daniela Harding,Campaign management services (Nov 1-30),3400.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,112,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Kelly Froerer,Kelly Froerer,Campaign Constituent Outreach-Phone Calls,510.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,113,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Shandra Froerer,Shandra Froerer,Campaign Constituent Outreach-Phone Calls,119.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,114,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Danielle Thompson,Danielle Thompson,Campaign Constituent Outreach-Phone Calls,102.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,115,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Lindley Richards,Lindley Richards,Campaign Constituent Outreach-Phone Calls,51.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,116,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Michelle Adams,Michelle Adams,Campaign Constituent Outreach-Phone Calls,145.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,117,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Anotnia Ortega,Anotnia Ortega,Campaign Constituent Outreach-Phone Calls,221.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,118,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Desiree Henessey,Desiree Henessey,Campaign Management Assistance,1000.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,119,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Alyssa Smailes,Alyssa Smailes,Campaign Management Assistance,1000.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,120,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Karece Thompson,Karece Thompson,"Data Analysis, Cavassing",1000.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,121,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Gabby Saunders,Gabby Saunders,Door Hanger Design,150.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,122,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Dailey Solutions,Dailey Solutions,Campaign Mailer Design,350.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,123,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Xalisco,Xalisco,Campaign Election Night - Catering,3187.50,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,124,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Desiree Henessey,Desiree Henessey,Campaign Management Assistance,1500.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,125,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-27,Alyssa Smailes,Alyssa Smailes,Campaign Management Assistance,1500.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,126,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-28,Royalty Awakened,Royalty Awakened,Community Christmas Event - Donation,500.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,127,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,,($,($,Facebook Ads,400.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,129,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-12-12,Michelle Adams,Michelle Adams,Campaign Constituent Outreach-Phone Calls,127.50,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,130,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-12-21,Fund Hero,Fund Hero,Donation platform services and fees (11/15-12/21),10.10,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,131,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-10-25,Weber County Sherriff's Foundation,Weber County Sherriff's Foundation,Human Trafficking Symposium,2500.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,248,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-10-27,Broadway Media,Broadway Media,Radio Campaign Ads,5510.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,249,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-10-31,"Consolidated Direct Mail, Inc.","Consolidated Direct Mail, Inc",Campaign Mailers,5301.37,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,250,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-01,Daniela Harding,Daniela Harding,Campaign management services (Oct 1-31),3400.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,251,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-06,Weber County Elections,Weber County Elections,Election Ballot Updates,15.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,252,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-06,Weber County Elections,Weber County Elections,Transaction Fee for Ballot Updates,2.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,253,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-06,Standard Examiner,Standard Examiner,Newpaper Campaign Ad,2000.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,254,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-06,Standard Examiner,Standard Examiner,Newpaper Campaign Ad,1600.00,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,255,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-09,Integrity Matters,Integrity Matters,Voter probability forcast and email service,747.78,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,256,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-10,Integrity Matters,Integrity Matters,Voter probability forcast and email service,707.34,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,257,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-13,Image & Film,Image & Film,Digital Content Strategies,8794.50,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,258,low,ogden_form/text,1
+Ben Nadolski,Mayor,,2023,2023-01-01,,2023-11-14,Fund Hero,Fund Hero,Donation platform services and fees (10/25-11/14),57.99,False,False,raw/2023/30780_Nadolski-Combined.pdf,30780,259,low,ogden_form/text,1
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Feb 20, 2023 Squarespace","Feb 20, 2023 Squarespace",Website,276.00,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,55,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"May 5, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401","May 5, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401",Buttons/Yard Signs,4288.50,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,56,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Jul 25, 2023 The Sandlot 30th LLC 381 E Corral Creek Dr Midvale, UT 84047","Jul 25, 2023 The Sandlot 30th Llc 381 E Corral Creek Dr Midvale, UT 84047",Cast Appearance Fee,7500.00,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,57,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 2, 2023 Ellis Printing","Aug 2, 2023 Ellis Printing",Signage,652.40,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,58,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 5, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401","Aug 5, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401",Shirts/Stickers,367.65,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,59,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 11, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401","Aug 11, 2023 Stone Mountain Press 520 26th Street Ogden, UT 84401",Campaign Shirts,333.55,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,60,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 21,2023 Ellis Printing","Aug 21,2023 Ellis Printing",Mailers,1561.00,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,61,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 21, 2023 WhistlePitch","Aug 21, 2023 WhistlePitch",SMS Delivery,181.72,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,62,high,ogden_form/text,0
+Chris Barragan,Mayor,,2023,2023-01-01,,,"Aug 21, 2023 Google","Aug 21, 2023 Google",Email Platform,139.93,False,False,raw/2023/30767_Barragan-Combined.pdf,30767,63,high,ogden_form/text,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-05-07,Fed Ex,Fed Ex,Campaign Flyers and support materials,451.20,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v1,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-01,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v2,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-01,Integrity Matters LLC,Integrity Matters Llc,Data information and Software,549.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v3,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-03,Vu Doan,Vu Doan,Web Site and Flyer Design,2500.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v4,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-03,Fine Art America,Fine Art America,Photos for campaign use,600.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v5,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-15,Fund Hero,Fund Hero,Transaction Fee,98.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v6,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-15,Saunders Outdoor Signs,Saunders Outdoor Signs,Billboards,7500.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v7,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-16,Wright Signs,Wright Signs,Yard Signs,6714.84,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v8,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-23,Yesco Outdoor Signs,Yesco Outdoor Signs,Billboards,4797.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v9,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-28,Lowes,Lowes,Yard sign support materials,271.73,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v10,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-10,Wright Signs,Wright Signs,Yard Signs,634.32,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v11,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-10,Fund Hero,Fund Hero,Transaction Fee,5.20,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v12,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-13,Lowes,Lowes,Yard sign support materials,79.74,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v13,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-03,Fund Hero,Fund Hero,Transaction Fee,49.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v14,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-24,Kevin Johnson Media,Kevin Johnson Media,Campaign videos,1000.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v15,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-07,Shades of Gray Communications,Shades of Gray Communications,Mailers,12295.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v16,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-10,Fed Ex,Fed Ex,Mailers,106.96,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v17,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-12,Weber County Te Elections,Weber County Te Elections,Data Information,65.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v18,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-17,Integrity Matters LLC,Integrity Matters Llc,Text/Video Advertisement,1769.47,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v19,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-22,Lowes,Lowes,Yard sign support materials,47.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v20,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-25,Integrity Matters LLC,Integrity Matters Llc,Text Advertisement,999.44,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v21,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-05-07,Fed Ex,Fed Ex,Campaign Flyers and support materials,451.20,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v22,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-01,Ogden City,Ogden City,Filing Fee,25.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v23,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-01,Integrity Matters LLC,Integrity Matters Llc,Data information and Software,549.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v24,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-03,Vu Doan,Vu Doan,Web Site and Flyer Design,2500.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v25,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-03,Fine Art America,Fine Art America,Photos for campaign use,600.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v26,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-15,Fund Hero,Fund Hero,Transaction Fee,98.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v27,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-15,Saunders Outdoor Signs,Saunders Outdoor Signs,Billboards,7500.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v28,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-16,Wright Signs,Wright Signs,Yard Signs,6714.84,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v29,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-23,Yesco Outdoor Signs,Yesco Outdoor Signs,Billboards,4797.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v30,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-06-28,Lowes,Lowes,Yard sign support materials,271.73,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v31,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-10,Wright Signs,Wright Signs,Yard Signs,634.32,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v32,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-10,Fund Hero,Fund Hero,Transaction Fee,5.20,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v33,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-13,Lowes,Lowes,Yard sign support materials,79.74,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v34,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-03,Fund Hero,Fund Hero,Transaction Fee,49.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v35,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-07-24,Kevin Johnson Media,Kevin Johnson Media,Campaign videos,1000.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v36,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-07,Shades of Gray Communications,Shades of Gray Communications,Mailers,12295.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v37,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-10,Fed Ex,Fed Ex,Mailers,106.96,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v38,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-12,Weber County Te Elections,Weber County Te Elections,Data Information,65.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v39,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-17,Integrity Matters LLC,Integrity Matters Llc,Text/Video Advertisement,1769.47,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v40,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-22,Lowes,Lowes,Yard sign support materials,47.30,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v41,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-08-25,Integrity Matters LLC,Integrity Matters Llc,Text Advertisement,999.44,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v42,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-09-01,Integrity Matters LLC,Integrity Matters Llc,Text Advertisement (Get Out and Vote),1012.96,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v43,medium,ogden_form/vision,0
+Jon J. Greiner,Mayor,,2023,2023-01-01,,2023-09-22,Majority 51,Majority 51,Campaign Advisor Fee,1000.00,False,False,raw/2023/30774_Greiner-Combined.pdf,30774,v44,medium,ogden_form/vision,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-05-10,Google Domains,Google Domains,domain,12.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,342,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-05-21,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,343,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-05-31,Fundhero,Fundhero,payment processing,11.93,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,344,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-06-26,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,345,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-06-28,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,346,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-06-30,Fundhero,Fundhero,payment processing,11.93,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,347,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-07-31,Fundhero,Fundhero,payment processing,11.93,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,348,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-07-31,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,349,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-08-31,Fundhero,Fundhero,payment processing,10.40,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,350,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-08-31,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,351,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-09-30,Fundhero,Fundhero,payment processing,11.93,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,352,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-09-30,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,353,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-10-31,Fundhero,Fundhero,payment processing,11.93,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,354,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-11-01,Google Workspace,Google Workspace,g suite,25.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,355,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-11-21,Chapters Creative,Chapters Creative,brand development,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,356,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-11-30,Fundhero,Fundhero,payment processing,16.52,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,357,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-12-01,Google Workspace,Google Workspace,g suite,35.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,358,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-12-19,Impactive,Impactive,relational organizing tool,26.67,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,359,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-12-21,Chapters Creative,Chapters Creative,brand development,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,360,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-12-27,GoDaddy,GoDaddy,domain and hosting,60.32,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,361,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2022-12-31,Fundhero,Fundhero,payment processing,14.99,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,362,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-01-01,Google Workspace,Google Workspace,g suite,38.61,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,363,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-01-02,Campaign Verify,Campaign Verify,campaign tech,95.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,364,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-01-31,Fundhero,Fundhero,payment processing,87.26,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,365,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-02-01,Google Workspace,Google Workspace,g suite,38.61,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,366,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-02-21,Impactive,Impactive,relational organizing tool,50.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,367,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-02-21,Mailchimp,Mailchimp,email distribution,42.36,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,368,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-02-28,Fundhero,Fundhero,payment processing,13.46,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,369,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-01,Google Workspace,Google Workspace,g suite,38.61,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,370,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-13,Impactive,Impactive,relational organizing tool,50.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,371,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-22,Mailchimp,Mailchimp,email distribution,69.71,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,372,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-24,Google Domains,Google Domains,domain,12.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,373,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-31,ActBlue,ActBlue,payment processing,4.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,374,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-31,Fundhero,Fundhero,payment processing,10.71,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,375,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-03-31,Joshua Hoggan,Joshua Hoggan,campaign management,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,376,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-01,Google Workspace,Google Workspace,g suite,40.68,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,377,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-03,PDQ Printing,Pdq Printing,buttons + stickers,665.85,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,378,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-05,Bumperactive,Bumperactive,banners,129.90,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,379,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-10,Impactive,Impactive,relational organizing tool,50.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,380,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-12,Wright Signs,Wright Signs,yard signs,1600.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,381,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-13,Vistaprint,Vistaprint,logo stationery,267.08,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,382,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-14,Wright Signs,Wright Signs,yard signs,1610.12,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,383,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-16,Quality Quick Print,Quality Quick Print,leaflets and flyers,1611.74,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,384,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-17,Chapters Creative,Chapters Creative,social media advising,250.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,385,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-18,Mailchimp,Mailchimp,email distribution,31.64,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,386,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-20,Crumbl Cookies,Crumbl Cookies,launch gathering,190.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,390,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-20,FedEx Office,FedEx Office,printing,6.65,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,391,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-20,Jimmy John's,Jimmy John's,launch gathering,423.65,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,392,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-20,Wal-Mart,Wal-Mart,launch supplies,9.41,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,393,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-20,Zurchers,Zurchers,launch supplies,45.35,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,394,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-21,America First,America First,wire fee,15.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,395,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-21,Ogden Youth Impact,Ogden Youth Impact,community engagement,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,396,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-21,Winning Mark,Winning Mark,website development,6000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,397,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-22,Mailchimp,Mailchimp,email distribution,74.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,398,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-25,Chapters Creative,Chapters Creative,social media advising,250.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,399,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-30,ActBlue,ActBlue,payment processing,25.44,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,400,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-04-30,Fundhero,Fundhero,payment processing,9.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,401,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-01,Google Workspace,Google Workspace,g suite,51.48,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,402,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-05,Ethical Assessment Center,Ethical Assessment Center,office rent,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,403,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-06,"Weber County Democratic Party 221 25th Street., Ogden UT 84401","Weber County Democratic Party 221 25th Street., Ogden UT 84401",fundraising dinner,800.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,404,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-09,Joshua Hoggan,Joshua Hoggan,campaign management,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,405,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-09,Winning Mark,Winning Mark,website development,10000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,406,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-15,Canva,Canva,design tools,15.14,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,407,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-18,Oscar Mata,Oscar Mata,sign stake reimbursements,724.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,408,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-22,Mailchimp,Mailchimp,email distribution,74.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,409,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-22,Savers,Savers,office furniture,8.03,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,410,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-22,Wal-Mart,Wal-Mart,office supplies,129.31,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,411,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-24,MinuteKey,MinuteKey,office keys,17.20,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,412,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-25,FedEx Office,FedEx Office,printing,57.60,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,413,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-25,Joshua Hoggan,Joshua Hoggan,office supplies,150.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,414,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-26,Impactive,Impactive,relational organizing tool,50.28,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,415,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-30,"TipoType Montevideo, Uruguay","TipoType Montevideo, Uruguay",font,249.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,416,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-31,ActBlue,ActBlue,payment processing,34.43,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,417,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-31,Fundhero,Fundhero,payment processing,9.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,418,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-05-31,VistaPrint,VistaPrint,literature pieces,838.72,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,419,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-01,Google Workspace,Google Workspace,g suite,51.48,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,420,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-03,Chevron,Chevron,gas,12.82,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,421,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-04,OfficeMax,OfficeMax,office supplies,26.44,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,422,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-04,OfficeMax,OfficeMax,office supplies,12.82,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,423,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-04,VistaPrint,VistaPrint,literature pieces,189.32,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,424,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-05,Ethical Assessment Center,Ethical Assessment Center,office rent,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,425,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-06,Ogden City Corporation,Ogden City Corporation,filing fee,25.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,426,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-07,Joshua Hoggan,Joshua Hoggan,campaign management,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,427,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-07,Utah Democratic Party,Utah Democratic Party,dinner sponsorship,625.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,428,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-07,Wal-Mart,Wal-Mart,food and drinks for office,134.95,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,429,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-08,OfficeMax,OfficeMax,office supplies,22.51,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,430,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-08,Utah Democratic Party,Utah Democratic Party,VAN,601.09,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,431,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-10,The Pie Pizzeria,The Pie Pizzeria,lunch gathering,31.35,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,432,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-11,Savers,Savers,office furniture,27.30,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,433,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-11,Savers,Savers,office furniture,8.03,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,434,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-12,Canva,Canva,design tools,14.99,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,438,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-12,Wal-Mart,Wal-Mart,office supplies,27.38,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,439,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-14,Wal-Mart,Wal-Mart,juneteenth supplies,23.21,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,440,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-15,Wal-Mart,Wal-Mart,food and drinks for office,81.47,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,441,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-15,Wright Signs Inc,Wright Signs Inc,large yard signs,1100.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,442,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-18,,,juneteenth food,11.21,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,443,high,ogden_form/text,1
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-18,Project Success Coalition,Project Success Coalition,juneteenth fee,160.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,444,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-18,The Ivorian Way,The Ivorian Way,juneteenth food,77.94,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,445,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-18,The Ivorian Way,The Ivorian Way,juneteenth food,38.98,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,446,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-19,Petco,Petco,festival supplies,23.83,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,447,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Emma Craig,Emma Craig,canvassing help,237.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,448,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Franklin Stull,Franklin Stull,canvassing help,280.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,449,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Henri Bauer,Henri Bauer,canvassing help,790.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,450,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Isaiah Sanchez,Isaiah Sanchez,canvassing help,532.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,451,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Isayiah Pena Fenster,Isayiah Pena Fenster,canvassing help,477.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,452,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Ivy Combe,Ivy Combe,canvassing help,325.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,453,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Ixzel Cabrera,Ixzel Cabrera,canvassing help,532.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,454,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Kassel Stohel,Kassel Stohel,canvassing help,100.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,455,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,OfficeMax,OfficeMax,office supplies,39.03,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,456,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Rose Mitchell,Rose Mitchell,management assistance,250.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,457,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Rudy Vivar,Rudy Vivar,canvassing help,305.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,458,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-20,Wal-Mart,Wal-Mart,office supplies,6.14,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,459,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-21,Mailchimp,Mailchimp,email distribution,74.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,460,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-22,OfficeMax,OfficeMax,office supplies,56.56,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,461,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-22,Wal-Mart,Wal-Mart,office supplies,18.21,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,462,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-23,Linktree,Linktree,social media tools,9.09,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,463,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-23,Savers,Savers,office furniture,10.71,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,464,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-23,Wright Signs Inc,Wright Signs Inc,large yard signs,1211.24,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,465,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-26,The Home Depot,The Home Depot,yard sign supplies,355.82,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,466,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-27,TimeCamp,TimeCamp,time tracking,87.89,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,467,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-28,Lowe's,Lowe's,yard signs,353.51,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,468,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-29,Wal-Mart,Wal-Mart,food and drinks for office,111.95,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,469,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-29,Wal-Mart,Wal-Mart,office supplies,38.35,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,470,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-30,ActBlue,ActBlue,payment processing,103.45,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,471,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-30,DemTEC Inc,DemTEC Inc,automated voter contact tools,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,472,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-06-30,Fundhero,Fundhero,payment processing,9.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,473,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-01,Google Workspace,Google Workspace,g suite,51.48,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,474,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-02,Ogden Pride,Ogden Pride,community festivals,200.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,475,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,,,water bottles,360.92,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,476,high,ogden_form/text,1
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Comcast,Comcast,internet,371.30,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,477,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Emma Craig,Emma Craig,canvassing help,845.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,478,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Franklin Stull,Franklin Stull,canvassing help,1206.30,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,479,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Henri Bauer,Henri Bauer,canvassing help,750.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,480,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Impactive,Impactive,relational organizing tool,431.60,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,481,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Isaiah Sanchez,Isaiah Sanchez,canvassing help,712.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,482,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Isayiah Pena Fenster,Isayiah Pena Fenster,canvassing help,822.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,486,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Ivy Combe,Ivy Combe,canvassing help,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,487,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Ixzel Cabrera,Ixzel Cabrera,canvassing help,712.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,488,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Joshua Hoggan,Joshua Hoggan,campaign management,1000.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,489,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Kassel Stohel,Kassel Stohel,canvassing help,555.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,490,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Rose Mitchell,Rose Mitchell,management assistance,750.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,491,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-03,Rudy Vivar,Rudy Vivar,canvassing help,425.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,492,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-05,Ethical Assessment Center,Ethical Assessment Center,office rent,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,493,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-05,Wal-Mart,Wal-Mart,office supplies,22.09,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,494,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-05,Wal-Mart,Wal-Mart,office supplies,5.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,495,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-06,Scale to Win,Scale to Win,bulk contact tools,44.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,496,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-07,VistaPrint,VistaPrint,literature pieces,369.12,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,497,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-07,Wal-Mart,Wal-Mart,office supplies,9.48,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,498,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-11,Wal-Mart,Wal-Mart,office supplies,19.76,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,499,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-12,Canva,Canva,design tools,14.99,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,500,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-13,OfficeMax,OfficeMax,office supplies,66.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,501,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-13,The Home Depot,The Home Depot,yard sign supplies,79.15,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,502,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Emma Craig,Emma Craig,canvassing help,610.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,503,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Franklin Stull,Franklin Stull,canvassing help,906.59,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,504,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Henri Bauer,Henri Bauer,canvassing help,709.75,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,505,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Isaiah Sanchez,Isaiah Sanchez,canvassing help,653.75,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,506,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Isayiah Pena Fenster,Isayiah Pena Fenster,canvassing help,621.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,507,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Ivy Combe,Ivy Combe,canvassing help,303.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,508,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Ixzel Cabrera,Ixzel Cabrera,canvassing help,638.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,509,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Kassel Stohel,Kassel Stohel,canvassing help,617.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,510,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Rose Mitchell,Rose Mitchell,management assistance,375.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,511,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-20,Rudy Vivar,Rudy Vivar,canvassing help,436.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,512,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-21,Mailchimp,Mailchimp,email distribution,74.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,513,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-22,Linktree,Linktree,social media tools,9.09,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,514,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-26,TimeCamp,TimeCamp,time tracking,87.89,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,515,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-26,Wal-Mart,Wal-Mart,food and drinks for office,41.98,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,516,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-28,Angie's Restaurant,Angie's Restaurant,lunch,20.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,517,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-31,ActBlue,ActBlue,payment processing,42.16,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,518,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-07-31,Fundhero,Fundhero,payment processing,9.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,519,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-01,Google Workspace,Google Workspace,g suite,53.13,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,520,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-02,Joann's,Joann's,pride,43.96,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,521,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-02,Michael's,Michael's,pride,34.33,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,522,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-02,Ulta Beauty,Ulta Beauty,pride supplies,37.06,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,523,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-02,Wal-Mart,Wal-Mart,pride supplies,27.45,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,524,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-03,Comcast,Comcast,internet,171.35,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,525,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-03,Scale to Win,Scale to Win,bulk contact tools,756.94,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,526,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Emma Craig,Emma Craig,canvassing help,648.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,527,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Franklin Stull,Franklin Stull,canvassing help,321.48,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,528,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Henri Bauer,Henri Bauer,canvassing help,516.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,529,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Isaiah Sanchez,Isaiah Sanchez,canvassing help,513.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,530,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Isayiah Pena Fenster,Isayiah Pena Fenster,canvassing help,233.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,534,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Ivy Combe,Ivy Combe,canvassing help,177.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,535,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Ixzel Cabrera,Ixzel Cabrera,canvassing help,445.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,536,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Kassel Stohel,Kassel Stohel,canvassing help,550.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,537,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Rose Mitchell,Rose Mitchell,management assistance,525.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,538,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-04,Rudy Vivar,Rudy Vivar,canvassing help,195.25,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,539,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-05,Ethical Assessment Center,Ethical Assessment Center,office rent,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,540,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-05,Wal-Mart,Wal-Mart,pride supplies,14.88,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,541,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-05,Zurchers,Zurchers,pride supplies,8.56,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,542,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-06,Michael's,Michael's,pride,10.73,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,543,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-10,Landslide Political,Landslide Political,social media advising,750.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,544,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-11,Joshua Hoggan,Joshua Hoggan,campaign management,500.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,545,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-12,Canva,Canva,design tools,14.99,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,546,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-14,DemTEC Inc,DemTEC Inc,automated voter contact tools,550.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,547,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-15,Parseur,Parseur,data management tool,69.69,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,548,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-16,Turn It Blue Digital,Turn It Blue Digital,digital ads,495.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,549,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-19,Beans and Brews,Beans and Brews,day of action,30.12,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,550,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-19,Wal-Mart,Wal-Mart,food and drink for gathering,41.61,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,551,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-21,Landslide Political,Landslide Political,social media advising,750.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,552,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Henri Bauer,Henri Bauer,canvassing help,321.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,553,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Isaiah Sanchez,Isaiah Sanchez,canvassing help,350.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,554,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Isayiah Pena Fenster,Isayiah Pena Fenster,canvassing help,274.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,555,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Ixzel Cabrera,Ixzel Cabrera,field director,750.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,556,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Kassel Stohel,Kassel Stohel,canvassing help,317.50,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,557,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-22,Linktree,Linktree,tech,9.09,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,558,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-23,Ivy Combe,Ivy Combe,canvassing help,172.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,559,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-23,Rudy Vivar,Rudy Vivar,canvassing help,92.75,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,560,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-23,Turn It Blue Digital,Turn It Blue Digital,digital ads,495.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,561,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-24,Franklin Stull,Franklin Stull,canvassing help,180.98,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,562,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-24,Weber County Elections,Weber County Elections,vote report,67.00,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,563,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-25,ActBlue,ActBlue,payment processing,65.41,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,564,high,ogden_form/text,0
+Oscar Landon Mata,Mayor,,2023,2023-01-01,,2023-08-25,Fundhero,Fundhero,payment processing,9.18,False,False,raw/2023/30777_08-29-2023-Mata.pdf,30777,565,high,ogden_form/text,0
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-21,O2 Utah,O2 Utah,Field,78.39,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,359,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-21,O2 Utah,O2 Utah,Field,23.44,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,360,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-21,O2 Utah,O2 Utah,Field,47.54,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,361,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-21,O2 Utah,O2 Utah,Field,47.54,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,362,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-21,O2 Utah,O2 Utah,Field,40.94,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,363,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-24,Lyon Printing,Lyon Printing,Printing Materials,710.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,364,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-25,United States Postal Service,United States Postal Service,Office expenses,153.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,365,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-25,MailChimp,MailChimp,Software subscription,83.65,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,366,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-26,Zoom,Zoom,Software subscription,17.15,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,367,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-27,BW Productions,BW Productions,Video Production,600.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,368,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-27,AlphaGraphics,AlphaGraphics,Marketing and advertising,72.69,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,369,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-28,CustomInk LLC,CustomInk Llc,Printing Materials,1622.93,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,370,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-10-28,"PalmerSound, INC",Inc PalmerSound,Video Production,205.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,371,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-01,O2 Utah,O2 Utah,Field,47.54,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,372,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Tissot Solutions,Tissot Solutions,Campaign advisors/staff,1500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,373,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Standard Examiner,Standard Examiner,Marketing and advertising,1750.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,374,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Elevate Strategies,Elevate Strategies,Voter Outreach,565.77,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,375,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Elevate Strategies,Elevate Strategies,Campaign advisors/staff,1500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,376,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Elevate Strategies,Elevate Strategies,Marketing and advertising,6189.91,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,377,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-02,Elevate Strategies,Elevate Strategies,Marketing and advertising,3500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,378,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-03,BW Productions,BW Productions,Video Production,5000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,379,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-03,BW Productions,BW Productions,Video Production,5000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,380,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-03,Google Workspace,Google Workspace,Software subscription,90.09,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,381,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-03,Elevate Strategies,Elevate Strategies,Marketing and advertising,5000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,382,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-06,Elevate Strategies,Elevate Strategies,Marketing and advertising,6402.44,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,383,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-08,Sole Strategies,Sole Strategies,Voter Outreach,5000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,384,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-09,Ruthann Gagnon,Ruthann Gagnon,Fundraiser Catering,900.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,385,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-09,Standard Examiner,Standard Examiner,Marketing and advertising,1500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,386,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-10,WSU Market,Wsu Market,Marketing and advertising,125.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,387,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-10,Priscilla Jambor,Priscilla Jambor,Campaign advisors/staff,1500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,388,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-10,FundHero Processing fees,FundHero Processing fees,Bank & Fundraising fees,3.30,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,389,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-11-10,ActBlue Processing Fees,ActBlue Processing Fees,Bank & Fundraising fees,182.12,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,390,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-26,Zoom,Zoom,Software Subscription,17.15,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,644,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-28,United States Postal Service,United States Postal Service,Office Supplies,153.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,645,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-30,Elevate Strategies,Elevate Strategies,Marketing and advertising,1249.44,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,646,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-30,TargetSmart,TargetSmart,Voter Outreach,700.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,647,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-31,FundHero Processing fees,FundHero Processing fees,Bank & Fundraising fees,7.58,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,648,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-08-31,ActBlue Processing Fees,ActBlue Processing Fees,Bank & Fundraising fees,144.35,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,649,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-05,Priscilla Jambor,Priscilla Jambor,Campaign advisors/staff,1000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,650,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-05,Booth WSU,Booth Wsu,Events/Booths,125.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,651,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-05,Google Workspace,Google Workspace,Software Subscription,90.09,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,652,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-06,Mayren Rancifer,Mayren Rancifer,Campaign advisors/staff,420.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,653,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-07,Tissot Solutions,Tissot Solutions,Campaign advisors/staff,1500.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,654,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-13,Lyon Printing,Lyon Printing,Printing Materials,662.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,655,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-13,Elevate Strategies,Elevate Strategies,Voter Outreach,3339.22,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,656,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-14,Target,Target,Office Supplies,37.53,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,657,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-15,Elevate Strategies,Elevate Strategies,Campaign advisors/staff,5000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,658,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-18,Viviana Felix,Viviana Felix,Campaign advisors/staff,1000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,659,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-18,,,Campaign advisors/staff,1000.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,660,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-18,United States Postal Service,United States Postal Service,Office Supplies,102.00,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,661,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-18,Office Max,Office Max,Office Supplies,194.28,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,662,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-18,WBS EATERY OGDEN UT 015945,Wbs Eatery Ogden UT 015945,Staff Lunch,49.16,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,663,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-20,Office Max,Office Max,Office Supplies,12.10,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,664,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-23,FundHero Processing fees,FundHero Processing fees,Bank & Fundraising fees,7.58,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,665,low,ogden_form/text,1
+Taylor Knuth,Mayor,,2023,2023-01-01,,2023-09-23,ActBlue Processing Fees,ActBlue Processing Fees,Bank & Fundraising fees,174.01,False,False,raw/2023/30776_Knuth-Combined.pdf,30776,666,low,ogden_form/text,1

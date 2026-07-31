@@ -1,0 +1,259 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=348&doc_id=effd434a-43c5-11eb-920e-0050569183fa
+> Meeting date: 2020-10-22
+> Format: text
+
+Approved 12/10/2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, OCTOBER 22, 2020 IN THE DRAPER CITY
+COUNCIL CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:            Vice Chairman Craig Hawker, Commissioner Kent Player, Mary
+                           Squire, Gary Ogden, John Van Hoff and Alternate Commissioner
+                           DeLaina Tonks
+
+ABSENT:                    Chairperson Andrew Adams, Alternate Commissioners Lisa Fowler
+                           and Tab Bingham
+
+STAFF PRESENT:              Jennifer Jastremsky, Travis Van Ekelenburg and Amie Salazar
+
+STAFF PRESENT
+ELECTRONICALLY:             Christina Oliver, Mike Barker, and Brien Maxfield
+
+
+
+
+6:30 PM Business Meeting
+Vice Chair Hawker called the meeting to order and provided roll call. He then read the Zoom
+meeting rules into the record.
+
+1.     Written Determination 2020-09
+
+Vice Chair Hawker read the following written determination 2020-09:
+
+This meeting will be an electronic meeting according to Draper City Municipal Code 2-1-
+040.
+Determination 2020-09, pursuant to Utah Code Annotated 52-4-207(4).
+.        I, Andrew Adams, do hereby determine conducting an electronic meeting of the
+Draper City with an anchor location presents a substantial risk to the health and safety of
+those who may be present at the anchor location and hereby authorize the Draper City
+Council to conduct electronic meetings without an anchor location.
+B.       The foregoing determination is based on the following facts:
+•        Federal, state and local leaders, including the Draper City Mayor and City
+Council, have all recognized a global pandemic caused by the spread of the COVID-19
+virus.
+•        Under Governor Herbert’s COVID-19 Transmission Index, Salt Lake and Utah
+Counties are classified as “high” level meaning both counties meets “high” level criteria in
+at least two of the three following criteria: 7-day average positivity rate, 14-day case rate
+per 100,000 people, and statewide ICU utilization.
+•        It is difficult, if not impossible, to predict the number of attendees at any meeting
+and to manage issues regarding social distancing in order to comply with COVID-19
+Draper City Planning Commission Meeting
+October 22, 2020
+Page 2
+Transmission Index guidelines and Salt Lake and Utah County Public Health Orders.
+•      COVID-19 poses a continuing and immediate threat to the health, safety, and
+welfare of Draper City residents and the public in general.
+•      The City has the technological capability to provide means by which the public
+may hear, or view and hear, the open portions of the meeting and to participate in public
+hearings.
+
+
+2.     Action Item: Approve Planning Commission Meeting Minutes for May 28, 2020
+       (Administrative Action)
+
+       Motion re: Commissioner Van Hoff made a motion to approve the Planning
+       Commission Meeting minutes for May 28, 2020 and Commissioner Tonks seconded the
+       motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+
+3. Public Hearing: Kennington Estates Plat Amendment (Administrative Action)
+   On the request of Bryan Flamm for approval of a Subdivision Plat Amendment in the RA2
+   zone, regarding the Kennington Estates Subdivision to amend lot 8 and create a new lot
+   within the subdivision. Application: SUBD-1041-2020. Staff Contact: Travis Van
+   Ekelenburg, 801-576-6522, travis.vanekelenburg@draper.ut.us.
+
+Travis Van Ekelenburg, Planner II presented the application to the commission. He overviewed
+an aerial map of the project and indicated the applicant is proposing to adjust the Kennigton
+Estates Subdivision boundary and to integrate a new lot into the subdivision. He mentioned the
+property is zoned RA-2 and land use designation is Residential Low-medium Density. He
+presented the proposed plat and mentioned that the applicant is currently in the Kennington
+Estates Subdivision and would like to extend the rear yard of lot 101 half an acre into lot 102 that
+is coming into the subdivision. Lot 101 has the address of 13648 South Kennington Court, and
+Lot 102 is 13755 South Shadow Mountain Lane which is a private lane. The property owner will
+need to obtain an access easement off of the private lane. He overviewed site photos of the
+properties.
+
+Vice Chair Hawker asked if this property is one that was under consideration before.
+
+Mr. Van Ekelenburg indicated that the property owner applied for a rezone to make this
+boundary line adjustment work. Lot 102 was actually zoned RA-1 which requires one acre in
+size. Adjusting the zoning to RA-2 allowed for the boundary adjustment.
+
+Commissioner Squire asked why having a remnant lot is a problem.
+Draper City Planning Commission Meeting
+October 22, 2020
+Page 3
+Mr. Van Ekelenburg commented this other property was not in a subdivision and it required
+moving the full parcel into the subdivision. Commissioner Squire asked why the half portion of
+the property not being purchased needs to be in the subdivision.
+
+Jennifer Jastremsky, Senior Planner replied when you take a piece of a parcel and place it in a
+subdivision and leave the other portion outside of a subdivision it creates a remnant parcel. The
+lots on Shadow Mountain are not in a subdivision. Remnant parcels are not allowed in the code.
+
+Commissioner Van Hoff mentioned that he voted against the rezone because the HOA did not
+provide a recommendation. Now the HOA indicated their support for this plat amendment so he
+sees no reason to not vote for it this time.
+
+Vice Chair Hawker opened the public hearing. No one spoke. He closed the public hearing. He
+then allowed the applicant to speak.
+
+Bryan Flamm stated he was surprised he had to bring the property into the plat. He indicated that
+because Mr. Stevens is being included in the plat and the HOA has nothing to do with Shadow
+Mountain Lane, so he will not be included in the HOA. There is no HOA for Shadow Mountain
+Lane. He mentioned he has an easement on the lane he has agreed to amend the easement so he
+cannot subdivide another lot.
+
+Motion re: Commissioner Player motioned to approve the plat amendment, as requested by
+Bryan Flamm for the Kennington Estates Subdivision, Application SUBD-1041-2020, based on
+the findings and subject to the conditions listed in the staff report, dated October 6, 2020.
+Commissioner Squire seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 5 to 0 vote.
+
+   4. Public Hearing: Shadow Mountain Subdivision Zoning Map Amendment and Land
+      Use Map Amendment Request (Legislative Action)
+      On the request of David Johnson and Sean Shah approval of a Zoning Map Amendment
+      from the RA1 zone to a split zoning of RA2 and R3, and to amend the Land Use Map on
+      a portion of the property from Residential Low/Medium Density to Residential Medium
+      Density designation. Applications: TEXTMAP-1064-2020 and TEXT MAP-1065-2020.
+      Staff Contact: Travis Van Ekelenburg, 801-576-6522,
+
+Mr. Van Ekelenburg presented the staff report. He indicated the applicant is requesting a land
+use and zoning map amendment for 0.92 acres located at 671 E. 13800 S. The zoning is currently
+RA-1 and Land Use designation is Residential Low-Medium Density. Residential Medium
+Density is across the street and there is a lot of surrounding Low-Medium Density properties on
+either side of the subject parcel. He presented a map from the GIS Division and indicated the
+back property is requested to be rezoned to RA-2. The RA-1 and RA-2 districts are similar but
+do differ in lot area requirements. The RA-1 district requires a minimum lots size of 40,000 sf
+and the RA-2 requires 20,000 sf. He mentioned the area shown in blue on the map, the applicant
+would like to rezone to R-3 from RA-1. He mentioned that the proposed configuration will
+Draper City Planning Commission Meeting
+October 22, 2020
+Page 4
+comply with area requirements which include a minimum lot size of 13,000 sf. If approved, area
+one will be reviewed for access off Shadow Mountain Lane. He indicated that he received a
+phone call from Mr. Stevens, a resident on Shadow Mountain Lane. Mr. Stevens expressed that
+he has lived on the lane longer than other residents and is concerned that if area one develops it
+will prohibit the ability of other lots on the lane to develop as well.
+
+Vice Chair Hawker indicated there are many homes that are not RA-2 compliant. He asked what
+is the rule regarding the capacity of the lane.
+
+Mr. Van Ekelenburg mentioned that this is only the rezone application and the applicant would
+have to subdivide the property.
+
+Vice Chair Hawker stated the Planning Commission could approve this tonight and then review
+the subdivision application and deny it if requirements are not met.
+
+Ms. Jastremsky mentioned that they will need to come in for a subdivision application if they are
+successful in their rezone application. She indicated they will need to meet the minimum width
+standards for a private lane. In the zoning code the width is based on the number of lots on the
+lane. They would be required to improve the lane up to their north boundary.
+
+Commissioner Squire stated that in the past they have waived private lane requirements. She
+asked if they could ask for a waiver in this situation.
+
+Ms. Jastremsky responded they are looking at the private ROW to see if it complies. The code
+does not allow deviations to the width of the asphalt standards. Any waiver would be reviewed
+by the Planning Commission.
+
+Commissioner Van Hoff mentioned that during the subdivision plat they will need to show
+access onto the private lane. He asked if they would need to get permission from the other
+property owners.
+
+Ms. Jastremsky mentioned they would need to show a legal right to access and improve the lane
+during the subdivision application.
+
+Commissioner Squire commented that there could be an easement on the property they are not
+aware of.
+
+Vice Chair Hawker invited the applicant to speak.
+
+Sean Shah, applicant mentioned that there is a 67% chance that a lot chosen randomly would not
+meet the requirements of its zone. He indicated that the road is owned by the Zimmerman’s who
+live north of area one on three acres. The Zimmerman’s are supportive of giving him an
+easement to access the property. The road needs to be widened to 30 feet to north portion of area
+one.
+Draper City Planning Commission Meeting
+October 22, 2020
+Page 5
+Vice Chair Hawker mentioned that tonight they are only considering the rezone application. He
+then opened the public hearing.
+
+Bryan Flamm commented that he does not see a problem with the request from a zoning
+perspective and is supportive of the application. He indicated that the neighbor to the west of
+property have not been able to join the meeting.
+
+Vice Chair Hawker asked staff if they see anyone trying to get in.
+
+Ms. Jastremsky stated that she does not see anyone but mentioned they can access the live stream
+from the website. She offered to send the neighbors a link.
+
+Mike Baker stated that they should try to get them an invite to the meeting.
+
+Ms. Jastremsky indicated that she can forward an invite to Bryan Flamm which he could then
+send to them.
+
+Mr. Flamm stated that he would forward the invite.
+
+Vice Chair Hawker asked if Mr. Shah had reached out to the west neighbor.
+
+Mr. Shah mentioned that he visited with the Nichols and they are excited for the rezone and
+would like to purchase area one.
+
+David Compton, owner of area two, stated that he is on the phone with the Nichols and they
+would like to join to show their support.
+
+Nancy Nichols, neighbor west of project site, stated that her property is surrounded on both sides
+of the subject property. She voiced her support and mentioned she is interested in purchasing the
+back lot.
+
+Roy Nichols stated that they have no concerns at this point.
+
+Vice Chair Hawker closed the public hearing.
+
+Commissioner Squire stated that she appreciates seeing all of the lots that are out of conformance
+with the zoning. She believes the proposal harmonizes with the area.
+
+Motion re: Commissioner Squire motioned to forward a positive recommendation of the land
+use map amendment, as requested by David Johnson and Sean Shah, for the Shadow Mountain
+Subdivision Land Use Map Amendment, Application TEXT MAP 1064-2020, based on the
+findings and subject to the conditions listed in the staff report, dated October 9, 2020.
+Commissioner Van Hoff seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 5 to 0 vote.
+Draper City Planning Commission Meeting
+October 22, 2020
+Page 6
+
+Motion re: Commissioner Van Hoff motioned to forward a positive recommendation to City
+Council of the zoning map amendment, as requested by David Johnson and Sean Shah, for the
+Shadow Mountain Subdivision Zoning Map Amendment, Application TEXT MAP 1065-2020,
+based on the findings and subject to the conditions listed in the staff report, dated October 9,
+2020. Commissioner Ogden seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 5 to 0 vote.
+
+5.     Adjournment
+       Commissioner Van Hoff motioned to adjourn at 7:22 p.m. All voted in favor of the
+       motion.
+

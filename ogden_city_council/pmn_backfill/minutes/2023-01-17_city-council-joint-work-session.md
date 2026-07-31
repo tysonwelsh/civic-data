@@ -1,0 +1,135 @@
+# City Council Joint Work Session — 2023-01-17
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw file: pmn_backfill/raw/ogden_2023-01-17_JWS.pdf  |  file id 1085453.
+> Notice: https://www.utah.gov/pmn/sitemap/notice/804227.html
+> Recovered 2026-07-17 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new reverse-combined sibling minutes the audited per-night doc dropped.
+
+---
+
+         Minutes of Joint Session of Council of Ogden City, Utah, January 17, 2023 Page
+
+
+        Minutes of the joint work session of the Ogden City Council, also acting as the Redevelopment Agency, held on
+Tuesday, January 17, 2023 at 4:00 p.m., in the Council Work Room and via electronic meeting, on the third floor of the Municipal
+Building, 2549 Washington Boulevard, Ogden City, Weber County, Utah.
+
+         Present:           Chair                  Angela Choberka
+                            Vice Chair             Ken Richey
+                            Council members        Bart E. Blair
+                                                   Richard A. Hyer
+                                                   Luis Lopez (arrived at 4:35 p.m.)
+                                                   Ben Nadolski
+                                                   Marcia L. White
+
+                            Council Executive Director Janene Eller-Smith
+                            Council Deputy Director Glenn Symes
+                            Council Policy Analyst Warren Hallmark
+                            Communications and Public Engagement Coordinator Brandon Garside
+
+         Also present:      Chief Administrative Officer Mark L. Johnson
+                            Community Development Manager Ward Ogden
+                            Deputy Community Development Manager Jeremy Smith
+                            Management Services Director Mara Brown
+                            Comptroller Lisa Stout
+                            Public Services Director Jay Lowder
+                            Parks and Cemetery Manager Monte Stewart
+                            Recreation Manager Edd Bridge
+                            Deputy Business Development Manager David Sawyer
+                            Deputy City Recorder Jason Gould
+
+
+        The purpose of the Joint Work Session was to discuss Ogden School District property; Council/Board business; and
+Council/Board comments.
+
+Agenda Review
+        Chair Choberka and members of Council staff reviewed the items listed on the agenda for the City Council meeting
+scheduled to begin at 6:00 p.m.
+
+Ogden School District Property
+          On December 13, 2022, the Ogden City Council passed a resolution declaring the City’s intent to purchase four
+properties deemed surplus by Ogden School District (OSD). Per state law (§53G-4- 902), once the Council passes the resolution
+declaring intent to purchase, the City has 90 days to deliver to the school district an earnest money offer to purchase the surplus
+property at the purchase price. The initial proposal from the City’s administration was to purchase three of the four properties for
+the purpose of developing housing. However, the Council felt that further discussion should be had in order to explore all options
+for the future use of the property. If it is determined that not all properties should be purchased and the City does not deliver an
+offer to purchase the property, the City forfeits its exclusive right to purchase the property and the property will be sold by the
+district on the public real estate market.
+          Public Services Director Lowder, Recreation Manager Bridge, Parks and Cemetery Manager Stewart, and Deputy
+Community Development Manager Smith used the aid of a PowerPoint presentation to discuss Administration’s presentation
+regarding the OSD properties. Mr. Smith reviewed the schedule of the City’s consideration of the properties declared as surplus by
+the OSD and summarized the Administration’s evaluation of each of the four properties, including the appraised value of the
+properties, recommendations to purchase or waive the purchase of the properties, potential future use of the properties, and
+funding sources for the purchases. He presented a map of the City to identify the location of each of the properties, after which he
+referenced the documents and plans that Administration relied upon to formulate their recommendations: the Quality
+Neighborhoods Initiative, Community Plans, and Parks and Recreation Master Plan. The intent of the Quality Neighborhoods
+Initiative is to stabilize and revitalize Ogden’s neighborhoods as “neighborhoods of choice” by establishing a pattern of public
+investment that catalyzes desirable and appropriate community development. The Community Plans that were examined for this
+matter include the Mt. Lewis Community Plan, Southeast Ogden Community Plan, and the Lynn Community Plan. He discussed
+the assets and goals of each Community Plan areas that relate to parks and open space.
+          Discussion among the Council and staff centered on the age of the community plans that were consulted; and
+connectivity of the neighborhoods and ease of access to the parks and open space within the areas.
+          Mr. Bridge and Mr. Stewart then discussed the following key points from the Parks and Recreation Master Plan:
+               • Future Needs
+               • Park Gap Assessment
+               • Current City Staffing Challenges
+               • Maintenance Challenges
+               • Vicinity to existing parks
+               • How Can Current Projects Accomplish Future Needs
+               • Economic Impact
+               • Topography
+               • Cost
+          Mr. Bridge presented a map that identified park service areas and gaps in service; results of a parks survey indicate
+general satisfaction with the number and acreage of existing parks. The fact that park distribution gaps are relatively small
+supports this analysis. While ideally the City would maintain their current level of service (LOS) (3.01 acres per 1,000) as it
+moves forward, a decision has been made to keep the goal of maintaining a minimum LOS of 2.0 acres per 1,000 population, and
+to focus future efforts on upgrading and maintaining the City’s existing park system.
+          There was discussion about programming of some of the park spaces and other open spaces identified on the service map,
+after which Mr. Bridge discussed current projects underway that will add multi-use field space at Orchard Park and the Marshall
+White Center Park as well as plans to adjust the use of existing spaces to add multi-use field space at Mr. Eyrie Park, West Ogden
+Park, Jefferson Park, and the Lions Park. The Recreation Division recommends purchase of the Lynn School site to create a multi-
+use sports complex that can accommodate baseball, softball, soccer, flag football, 7 on 7 football, volleyball, ultimate frisbee, and
+lacrosse. This would essentially double the programmable space at 4th Street Park, and he presented three different conceptual
+plans to identify possible use of the space. The Division would like to hire a specialized design professional to create a master plan
+which best utilizes the entire 4th Steet complex and continue to seek funding for scheduled park improvements to reutilize existing
+inventory to accomplish future needs.
+          Mr. Smith concluded by reiterating Administration’s regarding the OSD properties:
+          605 North Jackson Avenue:
+               • 5.87 acres
+               • Appraised value: $1,075,000
+               • Purchase for new single family home development
+               • Funding source: Quality Neighborhoods.
+          685 North Jackson single family home
+               • 0.5 acres
+               • Appraised value: $385,000
+               • Purchase for renovation and resale through Home Sweet Ogden program
+               • Funding source: Quality Neighborhoods
+          3865 Jackson Avenue
+               • 5.15 acres
+               • Appraised value: $1,805,000
+               • Waive right to purchase property, the City will work with private developer to achieve a quality housing
+                   development that meets goals of the Community Plan.
+          625 Grant Avenue
+               • 5.87 acres
+               • Appraised value: $955,000
+               • Purchase for future park expansion
+               • Fund balance
+          Discussion centered on the condition of the home at 685 North Jackson and the City’s ability to resale the home for a
+profit and whether the City should purchase the home or allow a private investor or resident to purchase it. Mr. Smith noted that
+the home is currently being rented by a schoolteacher and the District has a specific concern about her displacement if the property
+is purchased by a private investor. The City would honor the lease and give her time to find a new home before remodeling and
+reselling the property. This led to philosophical discussion and debate about the appropriateness of the City’s acquisition of the
+home and continuing the lease rather than publicly advertising the availability of the home for purchase or lease. Discussion then
+shifted to the potential impact the housing and park expansion proposals could have on the surrounding neighborhoods. The
+Council asked for follow-up discussion on the implications of the proposals specific to funding and neighborhood impacts.
+Council staff indicated they will calendar the discussions for future work session meetings.
+
+         The meeting adjourned at 4:57 p.m.
+                                           ________________________________________
+                                           JASON GOULD
+                                           DEPUTY CITY RECORDER
+________________________________________
+ANGELA CHOBERKA, CHAIR
+
+APPROVED: December 19, 2023
+

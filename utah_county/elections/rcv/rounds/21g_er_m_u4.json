@@ -1,0 +1,44 @@
+{
+ "config": {
+  "contest": "Elk Ridge Mayor",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "637"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "GEORGE D. POTTER": 263.0,
+    "GORDON REYNOLDS": 487.0,
+    "ROBERT HADDOCK": 559.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "GEORGE D. POTTER",
+     "transfers": {
+      "GORDON REYNOLDS": 58.0,
+      "ROBERT HADDOCK": 169.0,
+      "Inactive Ballots": 36.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "GORDON REYNOLDS": 545.0,
+    "ROBERT HADDOCK": 728.0,
+    "Inactive Ballots": 36.0
+   },
+   "tallyResults": [
+    {
+     "elected": "ROBERT HADDOCK",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

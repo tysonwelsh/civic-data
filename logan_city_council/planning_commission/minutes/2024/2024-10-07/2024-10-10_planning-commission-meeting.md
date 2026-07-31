@@ -1,0 +1,877 @@
+# Logan Planning Commission Meeting — 2024-10-10
+> Source: https://www.loganutah.gov/departments/comdev/PC%20Minutes/PC%20Minutes%2010.10.24.pdf?t=20241030170710288
+> Meeting date: 2024-10-10
+> Format: ocr
+
+---
+
+
+<!-- meta
+date: 2024-10-10
+body: Planning Commission
+status: approved/final (as posted)
+format: ocr
+Source URL: https://www.loganutah.gov/departments/comdev/PC%20Minutes/PC%20Minutes%2010.10.24.pdf?t=20241030170710288
+-->
+
+NN
+CAN PLANNING COMMISSION MINUTES
+
+TTY uwivep iw seavice Meeting of October 10, 2024
+
+COMMUNITY DEVELOPMENT
+
+L
+
+Logan City Council Chambers (280 N 100 W Logan, UT 84321) www. loganutah.org
+
+Minutes of the meeting for the Logan City Planning Commission convened in regular session on
+Thursday, October 10, 2024. Commissioner Doutre called the meeting to order at 5:30 p.m.
+
+Commissioners Present: Sara Doutre, Jordy Guth, Ken Heare, Jessica Lucero, David Lewis, Eldon
+Peterson, Sarah McNamara
+
+Commissioners Excused:
+
+Staff Present: Russ Holley, Mike DeSimone, Mohamed Abdullahi, Amanda Pearce, Darren Farrar,
+Ben Anderson, Mark Montgomery, Jeannie Simmonds (City Council)
+
+Approval of the Minutes: Commissioner Guth made a motion to approve the minutes from the
+September 26, 2024 meeting. Commissioner Lucero seconded the motion. The motion was
+approved unanimously.
+
+PUBLIC HEARING:
+
+PC 24-037 William A. Burnard Warming Center [Conditional Use Permit] Lindsey
+Harrelson/Corporation of the Episcopal Church of Utah, authorized agent/owner is requesting an
+amendment to their conditional use permit to operate the Warming Center to shelter unhoused
+persons beginning the last week of November through mid-April, between the hours of 7 pm to 8 am
+within the St. John’s Episcopal Church located at 85 East 100 North in the Town Center One (TC-1)
+zone; TIN 06-018-0037; 0001 (Adams Neighborhood).
+
+Staff: Russ Holley reviewed the request to amend an existing Conditional Use Permit issued in 2022
+to the Warming Center. The Warming Center has been operating for two seasons at the St John’s
+Episcopal Church located at 85 East 100 North in the Town Center One (TC-1) zone. The Warming
+Center has provided overnight shelter and care to unhoused individuals and families during the winter
+months from December through February. This proposal is to extend the operational hours during
+the year from the last week in November through mid-April, between the hours of 7:00 PM to 8:00
+AM seven days a week. The Planning Commission is reviewing the impact of the Warming Center
+on the surrounding community which may include neighborhood compatibility, parking, and access.
+
+Commissioner Doutre asked about the Warming Center's off-site parking agreement and if that
+agreement were to terminate if the Conditional Use Permit would no longer be valid. R. Holley said
+that if the current parking agreement were terminated the Warming Center would have to replace the
+agreement with a new one that is within the same proximity to the Warming Center and with the same
+number of parking stalls.
+
+Proponent: Jayme Walters, President of the Warming Center said they are planning to add cameras
+to the parking areas to monitor guests. Warming Center staff and volunteers will also be checking
+the parking lots and surrounding site every morning to ensure that there is no trash or items left
+behind. The Warming Center will reach out to the surrounding neighbors to provide their contact
+information if there are any issues or concerns that need to be addressed.
+
+
+=.
+
+All standard conditions of approval will be recorded with the Conditional Use Permit and are
+available in the Community Development Department.
+Warming Center hours of operation are 7:00 PM to 8:00 AM.
+Quiet times shall comply with the City noise ordinance of 10 PM to 8 AM.
+The Warming Center may operate between November 23" to April 15".
+Maximum occupancy for the Warming Center shall comply with fire and building codes.
+The Boards Policies and Procedures shall be completed prior to opening.
+The Guest Occupancy Agreement shall be available prior to opening the Warming Center.
+All parking related to the Warming Center including staff, volunteers, and guests shall be off the
+street and located on-site at the Church or across the street at 112 East 100 North. Warming
+Center volunteers shall monitor the off-site parking area to prevent further loitering.
+9. No signs are approved with this Conditional Use Permit. All signage shall be approved and
+permitted by staff in accordance with the Land Development Code.
+10. Annual security, maintenance, and grounds monitoring plan, including contact information to
+report issues, shall be submitted to the City for review and to the surrounding property owners.
+11.A Logan City building/fire inspection is required to determine maximum occupancy prior to
+operation.
+12. A Logan City business license is required prior to operating.
+13. The Warming Center shall comply with local and state Building, Health, Fire, Safety,
+Maintenance, and Nuisance Codes prior to operating.
+14. Prior to issuance of Business License, the Director of Community Development shall receive a
+written memorandum from each of the following departments or agencies indicating that their
+requirements have been satisfied:
+a. Fire —contact 716-9515
+1. This church building is equipped with a fire alarm and fire sprinkler system in the areas
+of application. This is a change of use. The building department will need to approve
+the change of use and establish the occupancy limitations and determine time of day
+and number of days to allow this temporary use. The historic chapel does not have
+fire alarm or fire sprinklers and will not be allowed to be used for this type of use.
+b. Water/Cross Connection—contact 716-9627
+1. All points of use of water down stream of this properties water meter/s should meet the current
+adopted plumbing code and its amendments along with Utah's Administrative Drinking Water
+rules. This would help minimize the risk of a contamination of the water that would affect the
+homes/buildings occupants, guest or lodger and Logan Cities water system. This also would
+help minimize liabilities to the owner.
+c. Environmental —contact 716-9761
+1. Applicant can continue existing service.
+
+So I OP Or de Coho
+
+FINDINGS FOR APPROVAL
+
+1. A Warming Center is compatible with surrounding land uses and zoning designations and, as
+conditioned, will not interfere with the use and enjoyment of adjoining properties.
+
+2. The streets providing access and other infrastructure to the subject property have adequate
+capacities and level of service for the conditional use.
+
+3. The Conditional Use Permit conforms to the requirements of Title 17 of the Logan Municipal Code
+as an identified conditional use.
+
+4. The project was noticed as required by State and City regulations and proper procedure was
+followed in processing this request.
+
+Moved: K. Heare Seconded: E. Peterson Approved: 7-0
+
+Yea: Doutre, Guth, Heare, Lucero, Lewis, Peterson, McNamara Nay: Abstain:
+
+
+PC 24-038 West Meadows Subdivision Resubmittal [Subdivision Permit] Clark Rigby/Northwest
+17, LLC, authorized agent/owner is requesting to subdivide approximately 17.57 acres into 57 single-
+family lots located at approximately 550 West 1800 North in the Traditional Neighborhood Residential
+(NR-6) zone; TIN 04-079-0016 (Bridger Neighborhood).
+
+Staff: Russ Holley reviewed the request to subdivide approximately 11.5 acres into 37 new single-
+family lots in Phase 1 of the West Meadows Subdivision. This review is for Phase 1 only, the
+proponent is waiting for North Logan City to install the sewer connection to the south before they
+start the approval process for Phase 2.
+
+Proponent: Clark Rigby asked about the requirement for two access points for Phase 1 and
+explained that they had to swap Phase 1 and Phase 2 due to the sewer issue which left Phase 1 with
+only one access. The second access will be part of the Phase 2 development.
+
+R. Holley said the Land Development Code allows a stub to a future road connection to count towards
+the access requirement.
+
+Darren Farar, City Engineer, said that he would like to see two full street connections in Phase 1 in
+case Phase 2 is never completed. D. Farar also stated that Phase 1 is required to have two water
+connections.
+
+Public: Dean Quayle, who owns the property to the north and east, said he receives irrigation water
+through the proposed subdivision and asked for a 6-foot fence around the north perimeter to protect
+his cattle that graze on his property.
+
+Jeannie Simmonds, City Council, said the Orton’s who own the home to the northwest of the
+development are concerned about their septic field and their access being impacted by the
+development. J. Simmonds also brought up receiving numerous complaints about the weeds in the
+undeveloped properties in this area.
+
+Mohammed Abdullahi, City Attorney, said that a fence cannot be conditioned for this Subdivision
+Permit.
+
+Commission: Commission Heare asked if the city should look into a code amendment to require
+fencing around new subdivision developments.
+
+Commissioner Heare asked the proponent if there is a recorded easement to the Orton’s property.
+Clark Rigby said there will be public streets in both Phase 1 and 2 that will connect to the Ortons
+property, which they can use for access, they can also continue to use their existing access from 600
+West.
+
+Commissioner Hear said that the City has a Code Enforcement Department that enforces on
+overgrown weeds and any complaints received should be directed to that department.
+
+Commissioner Doutre asked if there is an HOA for this development. Clark Rigby said that there is
+not an HOA.
+
+Dean Quayle said he will not be developing any more of his property to the north of the proposed
+subdivision.
+
+
+Motion: Commissioner Heare made a motion to conditionally approve a subdivision permit for PC
+24-038 West Meadows Subdivision Resubmittal with the conditions of approval and findings for
+approval as listed below. Commissioner McNamara seconded the motion.
+
+CONDITIONS OF APPROVAL
+
+1. All standard conditions of approval will be recorded with the Subdivision Permit and are
+available in the Community Development Department.
+
+2. Thirty-seven (37) new single-family lots and two (2) open space parcels are approved with this
+subdivision permit.
+
+3. Open Space containing storm water retention shall be listed as “non-buildable” on the final plat.
+
+4. Trails, parks, and open space associated with the original Quayle Meadows subdivision
+detailed in the 2017 Agreement to Develop Land must be upheld with this proposal unless all
+parties agree to an amendment to that arrangement.
+
+5. The Orton property boundaries (04-079-0012 & 04-079-0019) were modified through a
+boundary line adjustment at the county and without city approval. These original parcels shall
+be included in the final plat of this subdivision to legitimize that land use action by the applicable
+land use authority.
+
+6. The 37-lot subdivision shall meet the requirements of LDC 17.30.170 for street connectivity.
+Future phases may be required to install a temporary roadway to ensure adequate fire access
+is provided.
+
+7. The project shall comply with LDC 17.24 which regulates wetland impacts prior to final plat
+recordation. If the applicant is unable to secure a U.S. Army Corp of Engineering Permit for
+wetland disturbances & mitigation, the applicant shall submit a redesigned preliminary plat for
+review and approval by the Planning Commission demonstrating compliance with 17.24.
+
+8. Street trees shall be provided on park-strips at every 30 linear feet, aside from driveway
+approaches, along all public street frontages.
+
+9. All street cross-sections must follow Logan City Public Works Standards and Specifications.
+
+10. Provide 10’ public utility easement on all property lines at the bounds of the subdivision and 5’
+PUE on all other property lines.
+
+11. The final plat shall be recorded within one (1) year of this action or comply with LDC 17.58
+Expirations and Extensions of Time.
+
+12. Developments with common areas or facilities shall be owned and managed by a “homeowner
+association” as defined in U.C.A. §57-8a-102.
+
+13. The homeowner association shall adopt Logan City approved covenants, conditions, and
+restrictions (CC&Rs), bylaws and rules for the association. The bylaws and rules for the
+association shall provide for enforcement of the CC&Rs, including assessing fines for violations.
+The CC&Rs shall be reviewed by the City prior to recordation. The CC&Rs shall be recorded
+with the final plat.
+
+14. Prior to the issuance of any permits, the developer shall file a lien in favor of the homeowner
+association against each residential lot equal to the pro rata share of ten percent (10%) of the
+total cost of the common area and facility improvements. Upon payment of the liens, the
+homeowner association shall place the proceeds in a restricted fund to be used solely for the
+maintenance, repair, and replacement of the common area and facility improvements.
+
+15. Prior to the recording of a Final Plat or issuance of a Building Permit, the Director of Community
+Development shall receive a written memorandum from the following departments indicating
+that their requirement has been satisfied:
+
+a. Environmental —contact 716-9515
+1. Hammer head turn around area between homes needs to be 20 feet wide and 20 feet
+deep. In addition, the surface must be asphalt, cement, or improved gravel. It cannot be
+
+used as additional parking or storage of snow in winter months. Snow will need to be
+removed promptly for winter access.
+
+
+b. Engineering —contact 716-9153
+
+1.
+
+10.
+
+11.
+
+GENERAL
+
+Table 17.30.170.E.2 of the land development code requires a minimum of 2 roadway
+connections for developments greater than 20 lots. Right of way and improvements
+shall be provided to meet the minimum required connections.
+
+Parcel 04-079-0019 (Orton's) appears to have been illegally subdivided as it is not
+showing as a legal parcel on the City’s GIS system. Provide documentation of the
+subdivision approved by the City or include the property within the boundaries of the
+plat, extend the road, water, sewer, stormwater, and all other subdivision
+improvements required by City and State codes.
+
+Per section 5.5.C.3 of the engineering design standards, a second water connection
+is required for subdivisions greater than 30 lots. A second connection will be required
+to be shown on the construction plans prior to approval.
+
+Water shares or in-lieu fee for indoor and outdoor water demands shall be provided
+to the City in accordance with City Code 17.29.210 and Utah Administrative Rule
+R309-510-7.
+
+All existing easement / right of way lines shall be shown on the plat and the type of
+easement / right of way and recording information shall be labeled on the plat.
+Improvements shall not infringe upon the rights of an existing easement / right of way
+/ property owned by others. Where non-existent or insufficient, provide a 10’ Public
+Utility Easement along all street frontages, and provide a 5’ Public Utility Easement
+along each side of all interior property lines and perimeter property lines.
+
+The plat shall include the entirety of the properties being subdivided. This includes
+the balance of the property to the west, the Orton’s property that was illegally
+subdivided, and the Roger Jones property that is being proposed to be subdivided in
+conjunction with this development. All property owners involved will be required to be
+signers on the Final Plat and shall provide a letter of acknowledgement for the work
+identified on their property on the construction plans.
+
+Due to development being within 1000 feet of an existing railroad crossing, a
+diagnostic review of this developments impacts to the crossing must be completed
+with Utah Department of Transportation (UDOT) and Union Pacific Railroad. All
+requirements imposed on project by UDOT and Union Pacific Railroad shall be
+incorporated into the final design permit package (Reference State Code R930-5-7(2).
+This has been completed with the previous submittal which documentation may be
+used with this submittal so long as the subdivision does not substantially change.
+The engineering design shall coordinate with and adjust plans as may be necessary
+to account for improvements being designed and / or constructed by adjacent
+developers, UDOT, and Logan City.
+
+This development has been identified as a multi lot subdivision and as such shall
+provide a subdivision plat that meets City standards to be recorded after construction
+plans have been approved and all other City and State requirements have been met.
+Covenants, Conditions, and Restrictions (CC&R’s) for the subdivision shall include
+language that addresses the requirement of the Home-owners Association (HOA) /
+homeowners to maintain any private water lines, private sewer lines, common areas,
+parking areas, and the Storm Water management system, basins, swales, and related
+infrastructure along with the adjacent right-of-way park strips.
+
+A Development Agreement and Financial Surety equal to at least 110% of the cost to
+construct all infrastructure & storm water improvements shall be provided prior to Final
+Plat approval. Financial assurances shall not expire for a minimum of 2 years from
+date of City acceptance.
+
+
+12. Provide a Geotechnical Report that includes but is not limited to: 1) California Bearing
+Ratio (CBR) of the subgrade under the City’s pavement section, 2) Historical high
+ground water elevation, and 3) Percolation rate of soils at bottom of all storm water
+retention ponds. The report shall include a City roadway cross section design based
+on the CBR and the 30 year projected ESALs identified in the Logan City
+Transportation Master Plan and the following truck percentages: 2% for residential
+and grided streets, 4% for collector streets, 8% for arterial streets.
+
+13. A “Preconstruction meeting” shall be held with the City’s Engineering Division prior to
+starting construction activities and a “Work in the Right of Way” permit shall be
+obtained for all work in the City’s right-of-way and PUE prior to scheduling the Pre
+Construction meeting.
+
+14. Wetlands have been identified as existing or previously existing on the property. If
+this development contemplates doing work within 100 feet of the wetland area, a
+wetlands delineation study approved by the Army Corps of Engineers will be required
+to confirm the location of any jurisdictional wetlands. If jurisdictional wetlands are
+found, provide a wetlands mitigation plan approved by the Army Corps of Engineers.
+
+15. This development is located in an area of high-water table (0 to 24 inches) and
+classified as having moderate liquefaction potential; as such structures and
+stormwater management facilities shall be designed accordingly.
+
+16. Agreements between property owners and easements where necessary shall be
+provided to the City prior to approval of a construction plan set that shows construction
+improvements outside of the property boundary lines.
+
+17. The City may elect to have a 3rd party review technical studies such as a traffic study,
+floodplain study, noise study, vibration study, etc. provided in support of the
+development. Reasonable costs associated with the third-party review shall be borne
+by the applicant.
+
+UTILITIES
+
+18. A 20’ easement for sewer improvements located along the Union Pacific Railroad
+alignment shall be provided on the plat for the construction of a regional sewer line
+that will serve Logan and North Logan residents. The developer shall coordinate with
+North Logan regarding the installation and easement location for this facility. This is
+per a proposed alignment previously studied and accepted by both Logan and North
+Logan and the consortium of property owners proposing to develop this master
+planned community.
+
+19. Where utilities have to extend onto other properties to serve this development,
+easements or rights of way shall be dedicated to the City and the adjacent property
+owners shail provide written approval for the proposed construction work.
+
+20. All lots shall have separate water service and sewer service connections to water
+distribution and sewer collection systems.
+
+21. Fire hydrants locations shall meet the Fire Code requirements as determined by the
+City’s Fire Marshall.
+
+22. The existing sewer manhole in 1800 S to which the project is connecting shall be
+upsized to a 60” manhole if the existing is of a smaller diameter.
+
+23. All existing water and sewer service lines extending to the site that are not proposed
+to be used with the new development shall be capped at the City main line.
+
+24, Proposed water and sewer lines in the rights of way shall typically be a minimum of 8
+inches in diameter. The City may require larger diameter utility lines (proposed or
+existing) if required according to modeling results or if identified by the City’s master
+plans. If required per a master plan document, the City will pay for any increase in
+size.
+
+STORMWATER / IRRIGATION
+
+
+25, Provide storm water detention/retention per Logan City Design standards. This
+includes the retention of stormwater from an adjacent existing street that discharges
+to the property. Retention of the 90% storm event is required and shall be provided
+according to Low Impact Design methods.
+
+26. Except for stormwater from City rights-of-way which shall be managed on the property,
+the development shall either incorporate into its stormwater design or pass through in
+a historical manner any stormwater that flows onto the property from adjacent
+properties.
+
+27. Provide a stormwater maintenance agreement for City Review, approval, and
+recordation at County Recorder’s Office.
+
+28. Area is greater than 1 acre so compliance with the State Storm Water Permit is
+required. Development shall also provide a sediment and erosion control plan for all
+construction activities.
+
+29. Maintain the capacity, size, and location of all existing irrigation system infrastructure
+along and within the project; or where irrigation infrastructure is required to be
+relocated or changed, improve the infrastructure to the irrigation company standards.
+The City will require all affected Irrigation companies to provide a signature approval
+on all final construction plans and final plats.
+
+30. Stormwater information has been provided without the benefit of a grading plan or
+geotechnical considerations. Given the high groundwater elevations in the area,
+additional stormwater pond area may be required to comply with the City’s storm water
+management standards which could result in the loss of lots.
+
+31. Stormwater basins shall not be located on residential lots. A dedicated parcel for
+stormwater management shall be provided and language added to the CC&Rs
+indicating that the storm water systems and ponds shall be maintained by the HOA.
+
+32. The minimum diameter of storm drain piping in a City right of way shall be 15 inches
+unless a larger size is required by the design.
+
+STREETS
+
+33. Temporary turnarounds shall be provided for Lavender Loop, 450 West, 1950 North,
+and 2000 North.
+
+34, Any existing improvements (such as stormwater ponds, utilities, etc) on adjacent
+properties that will be modified or removed with the proposed improvements of this
+development shall be designed and included on the construction plans.
+
+35. If the circle area to the east of 450 West is to be used for stormwater for this
+development, the basin design and improvements shall be included in the construction
+plan design, and approval will be required from other property owners that are
+affected.
+
+36. The adjacent Union Pacific Railroad right-of-way on the plat shall be shown on the
+plat.
+
+37. Dedicate right-of-way as needed to construct trail improvements along 1800 North.
+
+38.450 West shall be dedicated as a 66-foot-wide right of way and constructed to the
+City’s gridded street cross section.
+
+39. All other full streets not previously identified shall be dedicated as 60-foot-wide rights
+of way and constructed to the City’s residential street cross section.
+
+40. Temporary turnaround facilities shall meet minimum fire code requirements regarding
+length and width which shall be determined assuming cars are parked in the on-street
+parking area, shall be constructed of concrete or asphalt, and a no parking sign shall
+be placed at the end of the turnaround portion on private property. The plat shall
+dimension these easements and provide information in the dedication regarding their
+use as a temporary turnaround and the requirement to not park or store items within
+the easement.
+
+
+41. Where existing asphalt, curb & gutter, or sidewalk adjacent to a project boundary are
+
+found to be in poor condition with regards to thickness, cracking, or other damage, or
+is otherwise damaged during construction; owner shall reconstruct the improvements
+out to an area where the improvements are in satisfactory condition. Where asphalt
+is required to be remedied, a minimum width of 3 feet shall be removed and replaced
+and shall not leave a smalier than 3-foot width to the edge and shall be continuous in
+nature rather than performed in several small pieces.
+
+c. Water/Wastewater Collections — 716-9622
+
+1.
+
+2.
+
+3.
+
+Fire Flow analysis must be obtained. Contact joseph.hawkes@loganutah.gov for
+analysis.
+
+Water looping must be installed so that no more than thirty 1” connections are on a dead-
+end line.
+
+Gravity sewerage is likely not possible based on existing infrastructure. However, future
+planned projects will provide possible gravity sewerage. A temporary lift station may be
+required but must be designed to connect the system to gravity sewer in the future.
+Coordinate with Engineering and Water/Wastewater Divisions on design.
+
+d. Water/Cross Connection — 716-9627
+
+1.
+
+2.
+
+All privately or commonly owned landscape irrigation system’s fed from Logan City
+water must have a high hazard rated backflow assembly installed and tested. All
+backflow assemblies must be tested within 10 days of turning in water to them and
+annually thereafter.
+
+Project shall comply with all current Utah State plumbing codes, amendments and
+Utah Admin. code R 309-105-12-(1) rules and regulations including, but not limited
+to, those pertaining to backflow prevention and cross connection protection, during
+and after construction, for the safety of the water and its consumption.
+
+e. Fire — 716-9515
+
+1.
+
+2.
+
+The dead-end road 2000 N indicates a permanent fire apparatus turnaround. NO
+PARKING — FIRE LANE signs in accordance with IFC D103.6 shall be installed on
+each side of the turn-around area.
+
+Developments exceeding 30 dwelling shall be provided with two access roads. The
+number of dwellings can be increased when fire apparatus access roads will connect
+with future development, as approved by the fire code AHJ. Temporary turnarounds
+are required.
+
+EINDINGS FOR APPROVAL
+
+1.
+
+The proposed subdivision is compatible with surrounding land uses and will not interfere with the
+use and enjoyment of adjacent properties because the subdivision meets the minimum
+requirements of the LDC.
+
+Each lot conforms to the requirements of Title 17 of the Logan LDC in terms of lot size and
+development requirements.
+
+The Subdivision Permit conforms to the requirements of Title 17 concerning hearings,
+procedures, application requirements and plat preparations.
+
+The project meets the goals and objectives of the NR-6 zoning designations within the Logan
+General Plan.
+
+The project met the minimum public noticing requirements of the Land Development Code and
+the Municipal Code.
+
+Infrastructure and utilities are adequate in size to handle anticipated traffic and use.
+
+Moved: K. Heare Seconded: S. McNamara Approved: 7-0
+
+Yea: Doutre, Guth, Heare, Lucero, Lewis, Peterson, McNamara Nay: Abstain:
+
+
+PC 24-039 Light & Power Substation 7 Addition [Design Review Permit] Mark Montgomery/Logan
+City, authorized agent/owner is requesting a design review permit for a new 7,072 SF steel
+warehouse building that will house four 2.5mw, natural gas generators and related equipment,
+located at 810 West 1800 North in the Industrial (IP) zone; TIN 04-078-0007 (Bridger Neighborhood).
+
+Staff: Russ Holley, City Planner, reviewed the request for a new 7,072 square foot, single-story metal
+public facility building that will house four natural gas electric power generators capable of producing
+2.5 megawatts. The building will also contain accessory equipment, a bathroom, and a workroom.
+The project is proposed next to an existing power substation along 800 West. Because of the nature
+and use of this building, security fencing is required around the .9-acre perimeter. The project will
+also require street improvements along 800 West and landscaping.
+
+Proponent: Mark Montgomery, Logan City Light & Power asked the commission if they had any
+questions.
+
+The Commission asked why the project had already begun before the project was approved and
+permitted. M. Montgomery said he typically is not required to get permits for distribution and
+substations, but since this project included a building a permit was required. Mike DeSimone,
+Community Development Director stated that Light & Power had permission to start the groundwork.
+
+M. Montgomery said they are planning to do the same fencing as the existing substation to the west,
+chain link with razor wire along the top.
+
+Commissioner Peterson asked how 2.5 megawatts compares to the generators at Second Damn.
+M. Montgomery said that with a full river and running at full bore, the generators at second damn can
+run at 1.5 megawatts. The two generators at first damn are 3.5 megawatts, and the three generators
+at the 300 West Substation are 5 megawatts each.
+
+Public: No public comments were made.
+
+Commission: The Commission discussed requiring slats in the chain link fence, and/or additional
+landscaping along the fence to help with buffering.
+
+The Commission determined that the trees outside the fence need to be at least as tall as the fence
+and that a slatted fence will need to be required when the applicant applies for a fence permit.
+
+Motion: Commissioner Guth made a motion to conditionally approve a design review permit for
+PC 24-039 Light & Power Substation 7 Addition with the amended conditions of approval and
+findings for approval as listed below. Commissioner Lucero seconded the motion.
+
+AMENDED CONDITIONS OF APPROVAL
+
+1. All standard conditions of approval will be recorded with the Design Review and are available
+in the Community Development Department.
+
+2. This Design Review Permit authorizes a new 7,072 SF power generation building and
+associated site improvements.
+
+3. A performance landscaping plan, prepared in accordance with §17.32 of the LDC, shall be
+submitted for approval to the Community Development Department prior to the issuance of the
+building permit. The plan shall include the following:
+
+a) 18 trees along public streets and in areas outside of security fence that are at least as
+tall as the fence to help buffer the building. 45 shrubs, perennials, and grasses shall
+be provided.
+
+
+b) Open space and landscaping areas shall be a minimum area of 7,800 SF.
+
+4. No open pit storm-water detention basins shall be placed in the yard between the building and
+the adjoining streets. If designed as landscaping with maximum 4-to-1 cross slopes, undulating
+shapes, and ground cover containing 75% grass and a combination of trees and shrubbery so
+that it does not appear to be a storm water collection area, then it may be located in the front
+yard area.
+
+5. Exterior lighting, including gas canopy lighting, shall be concealed source, down-cast and shall
+not illuminate or cast light onto adjacent properties.
+
+6. No signs are approved with this Design Review Permit. All signage shall be approved and
+
+permitted by seul in eee a the eat eee ae
+
+fencing will require slats to tal butfer the building,
+
+8. Prior to issuance of a Building Permit, the Director of Community Development shall receive a
+written memorandum from each of the following departments or agencies indicating that their
+requirements have been satisfied:
+
+a. Water—contact 716-9622
+
+1. The buildings water service needs to have a RP (ASSE1013) installed and tested on the
+water service line after the water meter, as it enters the building before any branch offs or
+possible connections inside or outside of building. Properly sized drain required to serve the
+backflow assemblies dump port. All backflow assemblies must be tested within 10 days of
+turning in water to them and annually thereafter. Refer to current IPC Utah State
+Amendment # 608.1.1,608.1.2,608.1.2.1 for installation criteria.
+
+2. All landscape irrigation system's fed from Logan City water must have a high hazard rated
+backflow assembly installed and tested. All backflow assemblies must be tested within 10
+days of turning in water to them and annually thereafter.
+
+3. Fire suppression systems that are connected to Logan City water (with no added
+unapproved chemicals) must have a minimum DC (ASSE1015) installed and tested. Fire
+risers and all B/F assemblies must be installed and tested as per Logan City standards.
+
+4. Project shall comply with all currently adopted plumbing codes and their amendments and
+Utah Admin. code R 309-105-12-(1) rules and regulations including, but not limited to, those
+pertaining to backflow prevention and cross connection protection, during and after
+construction, for the safety of the water source and its consumption.
+
+b. Engineering — contact 716-9160
+GENERAL
+
+1. Water shares or in-lieu fee for indoor and outdoor increased water demands shall be
+provided to the City in accordance with City Code 17.29.210 and Utah Administrative Rule
+R309-510-7.
+
+2. Dedicate a 10’ Public Utility Easement along1800 North and 800 West street frontages and
+dedicate a 5’ Public Utility Easement along all side and rear property lines.
+
+3. Provide a Geotechnical Report that includes but is not limited to: 1) Historical high ground
+water elevation, 2) Percolation rate of soils at bottom of all unlined storm water holding
+facilities and 3) California Bearing Ratio (CBR) of the subgrade under proposed City rights
+of way. The report shall include a City roadway cross section design based on the CBR
+and the 30-year projected ESALs identified in the Logan City Transportation Master Plan
+and the following truck percentages: 2% for residential and grided streets, 4% for collector
+streets, 8% for arterial streets.
+
+4. A “Preconstruction meeting” shall be held with the City’s Engineering Division prior to
+starting construction activities and a “Work in the Right of Way” permit shall be obtained for
+all work in the City’s right-of-way and PUE or for any tie-in to City utilities.
+
+
+5. The property is shown to have a riverine type wetland identified on the south boundary
+along the canal alignment. Improvements will need to the property shall not extend into this
+riverine area without a jurisdictional wetlands delineation by the USACE and appropriate
+mitigation measures identified.
+
+UTILITIES
+
+6. The City has recently updated the Public Works Design Standards and Amendments to
+APWA standard details for Water and Sewer and have developed a document of approved
+materials to be used for construction. Please refer to these new standards and details in
+the development of construction plans. The updated information can be found on the City
+Website:
+https:/Awww. loganutah.org/government/departments/public_works/engineering/Engineerin
+g_Docs.php#outer-11851.
+
+STORMWATER / IRRIGATION
+
+7. Storm water detention/retention shall be designed and constructed according to Logan City
+standards. This includes the retention of stormwater from any adjacent street that currently
+discharges to the property. Retention of the 90% storm event is required and shall be
+provided using Low Impact design methods,
+
+8. The development shall either incorporate into its stormwater design or pass through in a
+historical manner any stormwater that flows onto the property from adjacent properties and
+rights of way.
+
+9. Property improvements are less than 1 acre, so compliance with the State Storm Water
+Permit is not required. A sediment and erosion control plan will be required for all
+construction activities.
+
+10. Maintain the capacity, size, and location of all existing irrigation system infrastructure along
+and within the project; or where irrigation infrastructure is required to be relocated or
+changed, improve the infrastructure to the irrigation company standards. The City will
+require all affected Irrigation companies to provide a signature approval on all final
+construction plans and final plats.
+
+11. This development is located in an area of high-water table elevation (0 to 24 inches) and
+classified as having moderate liquefaction potential; given the potential groundwater
+elevation in the area, more than normal stormwater pond area may be required to maintain
+the pond elevation sufficiently above the historic high groundwater elevation.
+
+12. Above ground and below ground stormwater facilities shall be designed to be a minimum 1
+foot above the historic high groundwater elevation as determined by the geotechnical
+engineer. Regardless of the design, stormwater facilities that are found to be constantly
+wet by groundwater will be required to complete a design revision that revises the facility to
+meet the City’s standard.
+
+13. The minimum diameter of storm drain piping in a City right of way shall be 15 inches unless
+a larger size is required by the design.
+
+STREETS
+
+14. Dedicate right of way along 800 West as required such that a minimum 66’ of right-of-way
+exists and construct half street improvements for a 66’ Gridded Street cross section and
+pavement section per City Design Standards.
+
+15. Development shall construct half of the 800 West roadway along the frontage of the
+development. This requirement is inclusive of curb and gutter, sidewalk, park strip,
+landscaping, and all City infrastructure for water, sewer, irrigation/storm water required
+beneath the roadway improvements. The 800 West Roadway improvements may
+terminate at the end of the existing roadway improvements to the east or continue to the
+south end of the property. If continued to the South, the improvements will need to relocate
+the existing power pole, utility boxes and will need to perform a wetlands delineation for
+impacts to the Riverine wetlands condition. If terminated at the end of the existing roadway,
+
+
+the balance of the roadway improvements will be required when the southern portion of the
+property develops.
+
+16. Provide a temporary cul de sac or hammer head turn around at the south terminus of 800
+West.
+
+17. Access to the development shall be in accordance with Logan Design Standards.
+
+18. Sidewalk through the drive approaches to this development shall be a minimum of 8” thick
+per City standards. Remove and replace sidewalk as needed to comply with this
+requirement.
+
+19. All new commercial accesses through City right of way shall be a minimum of 8” thick
+concrete.
+
+20. It is recommended that the driveway access be adjusted to align with the driveway access
+to the east.
+
+c. Fire Dept — contact 716-9515
+Access
+
+4. IFC 503.1.1 Fire Apparatus Access shall extend to within 150 feet of all portions of the facility
+as measured by an approved route around the exterior of the building.
+Fire Water Flow
+
+2. (IFC 507.1) An approved water supply capable of supplying the required fire flow for fire
+protection shall be provided to premises upon which facilities, building or portions of
+buildings are hereafter constructed or moved into or within the jurisdiction. (IFC 507.3)
+
+3. Fire flow requirements for buildings or portions of building and facilities shall be determine
+by an approved method. Fire flow is calculated on the fire area, fire area is defined as the
+aggregate floor area enclosed and bounded by fire walls, fire barriers, exterior walls or under
+horizontal projection of a roof or floor above.
+
+4. According to IFC Table B105.1(2) a building with Type VB construction of 7,072 sq. ft. fire
+area requires 2,250 gpm @ 20 psi.
+
+5. According to the Fire Flow Analysis provided by Logan Water Department dated 9/26/24
+the existing fire hydrant FHO0387 located at 1750 N 800 W has a fire flow of 2,650 gom @
+20 psi.
+
+Fire Hydrant Locations and Distribution
+
+6. (IFC 507.5.1) Fire Hydrants shall be located within 400 feet of the building as measured by
+an approved route around the exterior of the building.
+
+7. According to Table C102.1 a fire flow requirement of 2,250 gpm requires 2 accessible
+hydrants.
+
+FINDINGS FOR APPROVAL
+
+1.
+
+The proposed project is compatible with surrounding land uses and will not interfere with the use
+and enjoyment of adjacent properties because of the building design, site layout, materials,
+landscaping, and setbacks.
+
+The Design Review and Conditional Use Permit conforms to the requirements of Title 17 of the
+Logan Municipal Code.
+
+The proposed project provides adequate open space and useable outdoor space in
+conformance with Title 17.
+
+The proposed project provides the required amount of off-street parking stalls.
+
+The proposed project complies with maximum height, density and building design standards
+and is in conformance with Title 17.
+
+The project met the minimum public noticing requirements of the Land Development Code and
+the Municipal Code.
+
+800 West provides access and are adequate in size and design to sufficiently handle all traffic
+modes and infrastructure related to the land use.
+
+Planning Commission Minutes — October 10, 2024 13}Page
+
+Moved: J. Guth Seconded: J. Lucero Approved: 7-0
+
+Yea: Doutre, Guth, Lucero, Peterson, McNamara, Heare, Lewis Nay: Abstain:
+
+PC 24-040 LDC  Amendment_ Chapter 17.62-Definitions [Code Amendment] Mike
+DeSimone/Logan City is requesting a code amendment to modify the definition of behavioral and
+mental health receiving center to include a provision for supportive housing on a Behavioral and
+Mental Health Receiving Center Campus.
+
+Staff/ Proponent: Mike DeSimone reviewed the proposed amendment to the Land Development
+Code adding Supportive Housing to the definition of a Behavioral and Mental Health Receiving
+Center.
+
+“Behavioral and Mental Health Receiving Center” means a 23 hour nonsecure program or facility that
+is responsible for, and provides mental health crisis services to, an individual experiencing a
+behavioral or mental health crisis. A Behavioral and Mental Health Receiving Center may also
+provide on-site, supervised-supportive, long term, short term or transitional housing for individuals
+needing a supervised living environment due to emotional, psychological, developmental, or
+behavioral dysfunctions or impairments. Supportive housing shall be designed and integrated into
+the overall site design as an accessory use. Stand-alone housing without a receiving center is not
+permitted.
+
+Commissioner Lucero asked if the word supervised could be changed to supportive in the definition.
+Public: No public comments were made.
+
+Motion: Commissioner Heare made a motion to forward a recommendation of approval to the
+Municipal Council on a code amendment to amend the definition of Behavioral and Mental Health
+
+Receiving Center as written above for PC 24-040 LDC Amendment Chapter 17.62-Definitions with
+the findings for approval as listed below. Commissioner Lucero seconded the motion.
+
+FINDINGS FOR APPROVAL
+
+1. Utah State Law authorizes local Planning Commission to recommend ordinance changes to the
+legislative body (Municipal Council).
+
+2. The Code Amendments are done in conformance with the requirements of Title 17.51 of the
+Logan Municipal Code.
+
+3. The proposed Code Amendments are consistent with the Logan City General Plan.
+
+4. The proposed Code Amendments are consistent with UCA Title 10, Chapter 9a, Part 5 & Part 6.
+
+5. No public comment has been received regarding the proposed amendments.
+
+Moved: K. Heare Seconded: J. Lucero Approved: 7-0
+
+Yea: Doutre, Guth, Lucero, Peterson, McNamara, Heare, Lewis Nay: Abstain:
+
+Meeting adjourned at 6:50 p.m.
+
+
+Minutes approved as written and digitally recorded for the Logan City Planning Commission
+
+meeting on October 10, 2024.
+(Wp
+Lar
+
+C7
+Michael A. DeSimone sara Boutre
+Planning Commission Chair
+
+Community Development Director
+
+7 of
+Amanda Pearce
+Administrative Assistant

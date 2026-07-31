@@ -1,0 +1,208 @@
+# White City Council Meeting
+> Source: https://www.utah.gov/pmn/files/844751.pdf
+> Meeting date: 2022-03-03
+> Format: text
+
+---
+
+**Body:** Council
+**Date:** 2022-03-03
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/844751.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+DATE            THURSDAY                             MARCH                           3, 2022
+
+            THE WHITE CITY METRO TOWNSHIP COUNCIL, STATE OF UTAH, MET ON
+THURSDAY, MARCH 3, 2022, PURSUANT TO ADJOURNMENT ON MONDAY, FEBRUARY 3,
+2022, AT THE HOUR OF 6:00 P.M. THE MEETING WAS HELD AT THE WHITE CITY WATER
+IMPROVEMENT DISTRICT AT 999 EAST GALENA DRIVE, WHITE CITY, 84094.
+
+
+COUNCIL MEMBERS
+PRESENT:                      ALLAN PERRY 1
+                              SCOTT LITTLE
+                              PHILLIP CARDENAZ
+                              LINDA PRICE, Mayor Pro-Tempore
+
+
+COUNCIL MEMBERS
+EXCUSED:                      PAULINA FLINT, Mayor
+
+
+OTHERS IN ATTENDANCE: PAUL ASHTON, LEGAL COUNSEL
+                      RORI ANDREASON, ADMINISTRATOR
+                      NICHOLE WATT, DEPUTY CLERK
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+               Council Member Price, Mayor Pro-Tempore, presided.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                      Business Meeting
+
+               The Council did not discuss agenda items or other business during the Business
+Meeting.
+
+              Council Member Cardenaz, seconded by Council Member Little, moved to close
+the Business Meeting. The motion passed unanimously.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                       Public Meeting
+
+White City Metro Township Financial Report
+
+               Dave Sanderson reviewed the White City Metro Township financial report.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+1 Participated via GoToMeetings.com
+
+
+
+                                              1
+DATE            THURSDAY                                 MARCH                                3, 2022
+
+
+Unified Fire Authority
+
+                Captain Ken Aldridge stated the UFA budget process has begun with each
+division creating their individual budgets to later be combined with the overall budget. The Finance
+Committee will review the budget and present it to the Board and final adoption will be on June
+21, 2022. Chief Dan Petersen will retire on April 1, 2022, and the Change of Command Ceremony
+will be on April 2, 2022. The Ad Hoc Committee that was created to help facilitate the hiring
+process is reviewing three internal candidates and will present its recommendations to the UFA
+Board on March 15, 2022. The Midvale fire station is halfway through its construction and the
+Eagle Mountain site plans were approved. Geotech studies for the Magna fire station found that
+there is liquefaction and requires soil stabilization before it can continue with construction. Fire
+fighter recruit camp began in February with 23 recruits. Sandy City Fire Department held a
+strategic planning workshop that he and Council Member Perry attended. He emailed the Council
+the call numbers for February.
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Unified Police Department (UPD)
+
+                 Detective Jeff Fenton stated the high crimes for February were stolen vehicles
+and vehicle burglaries. There have been 24 new hires and 7 candidates that are lateral hires.
+After the legislature ends their session, UPD will know what laws and policies will be implemented.
+Investigators are working on finalizing the fire investigation. There was a theft before the fire broke
+out. He is working with code enforcement on contacting landlords for code violations.
+
+                Chief Randy Thomas stated UPD is hosting a UPD 101 luncheon where it will
+discuss shared and regional services. The event is open to those that want a refresher course or
+newly elected officials. It will be two hours and those that want to attend will need to RSVP. His
+precinct is down five officers. Recruitment efforts are being made with 24 individuals applying
+during the last job opening.
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Public Comments
+
+                 Kent McClure stated last month he inquired about adopting an ordinance to
+eliminate street parking. The MSD needs to come out and do more code enforcement for the
+various violations. Residents have available parking but are not utilizing it. He believes Google
+Fiber closed a sidewalk illegally. Inspectors need to come out and make sure Google Fiber is
+doing it job right and safely.
+
+              Jaimie Broadhead stated she lives at the end of Amber Lane; she has little kids
+and a puppy. Drivers are speeding when they come down Amber Lane. She requested a speed
+study be completed and was told that a driver was going 45 miles per hour. Something needs to
+change and speed bumps would be beneficial. A petition was signed by residents and given to
+
+
+                                                  2
+DATE             THURSDAY                              MARCH                               3, 2022
+
+Mayor Flint and the staff at the Greater Salt Lake Municipal Services District (MSD). She was told
+the traffic is low; however, the traffic that drives on Amber Lane are going very fast.
+
+             Doug Denning stated he is concerned with the speeding drivers on his street.
+There are small children that live there, and speeding is a big concern for everyone.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Action
+
+Set Public Hearing for the White City Metro Township General Plan
+
+              Council Member Cardenaz, seconded by Council Member Little, moved to set the
+date of Thursday March 31, 2022, beginning at 6:00 pm, at Eastmont Middle School to accept
+public comment and consider adoption of the White City Metro Township General Plan.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Reports
+
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+
+                Council Member Perry stated UFA and Sandy City Fire Department plan on
+attending the community events this year. Requests to have Council Members Price and Little
+participate in Fire School 101 have been submitted. He attended Sandy City Fire Departments
+strategic plan workshop with Captain Ken Aldridge. It was a good opportunity to sit down with
+Sandy City Fire and go over its concerns and goals. They are currently working with 2-person
+crews due to staffing issues. Future goals were discussed but have to be approved by the Sandy
+City Council before moving forward.
+
+                                 −−−−−−−−−−−−−−
+South Salt Lake Valley Mosquito Abatement District
+
+                 Council Member Price stated it is in the process of posting for new hires and will
+start the hiring process for the summer season. The salary will need to be increased to compete
+with other hiring entities. UPDES is having a public hearing on March 14, 2022, regarding the
+discharge of pesticides to treat mosquitos and various other issues.
+
+                                 −−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+
+               Council Member Cardenaz stated two new employees were hired. A new
+program to collect food waste will be tested in Millcreek City.
+
+
+
+                                                3
+DATE           THURSDAY                               MARCH                               3, 2022
+
+                                −−−−−−−−−−−−−−
+Salt Lake County Animal Services
+
+                Council Member Little stated as the weather gets warmer, Animal Services is
+anticipating that more animals will be outside; therefore, there will be more issues to deal with.
+The election for the cutest couple was selected.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Other Announcements
+
+                 Paul Ashton stated there have been questions on how to contact Google Fiber
+in the case of issues that arise. Google Fibers phone number is 877-454-6959.
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+              THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+
+                                     ___________________________________________
+                                     MAYOR
+                                     WHITE CITY METRO TOWNSHIP COUNCIL
+
+
+SHERRIE SWENSEN
+METRO TOWNSHIP CLERK
+
+
+
+By ________________________________
+       Deputy Clerk
+
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                                 ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+
+
+
+                                                4
+

@@ -1,0 +1,202 @@
+{
+ "date": "2025-06-25",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Darrick Porter",
+  "Harold Woodruff",
+  "Nancy Drozdek",
+  "Pauline Matagi",
+  "Rob Durfee"
+ ],
+ "source": "minutes/2025/2025-06-23/2025-06-25_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve GP-3-2025",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan Amendment",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:0",
+   "result_source": "UNANIMOUS—GP-3-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Darrick Porter",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—GP-3-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Z-2-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:0",
+   "result_source": "UNANIMOUS—Z-2-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Pauline Matagi",
+   "seconder": "Darrick Porter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—Z-2-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Z-3-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_category": "recommendation",
+   "result": "Negative recommendation 2:2",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "Darrick Porter",
+   "seconder": "Pauline Matagi",
+   "names_recorded": true,
+   "aye": [
+    "Darrick Porter",
+    "Pauline Matagi"
+   ],
+   "nay": [
+    "Nancy Drozdek",
+    "Rob Durfee"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve Z-3-2025 only on the developed portion of the property",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 3:1",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "Rob Durfee",
+   "seconder": "Pauline Matagi",
+   "names_recorded": true,
+   "aye": [
+    "Darrick Porter",
+    "Pauline Matagi",
+    "Rob Durfee"
+   ],
+   "nay": [
+    "Nancy Drozdek"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve Z-4-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:0",
+   "result_source": "UNANIMOUS—Z-4-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Darrick Porter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—Z-4-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 6,
+   "motion": "to approve SMI-5-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Site Plan",
+   "action_category": "final",
+   "result": "5:0 Approved (Final Action)",
+   "result_source": "UNANIMOUS—SMI-5-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—SMI-5-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 7,
+   "motion": "to approve C-8-2025 subject to the three conditions in the Staff Report",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "5:0 Approved (Final Action)",
+   "result_source": "UNANIMOUS—C-8-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Darrick Porter",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—C-8-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 8,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "5:0 Pass",
+   "result_source": "Minutes. Commissioner Matagi seconded the motion. A voice vote was taken and all members voted in",
+   "outcome_word": "",
+   "mover": "Rob Durfee",
+   "seconder": "Pauline Matagi",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "Minutes. Commissioner Matagi seconded the motion. A voice vote was taken and all members voted in"
+   }
+  }
+ ]
+}

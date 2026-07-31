@@ -1,0 +1,313 @@
+# Riverton Planning Commission Meeting — 2023-08-10
+> Source: https://www.utah.gov/pmn/files/1027133.pdf
+> Meeting date: 2023-08-10
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/851143.html
+> Format: text
+
+Approved: PC 9.28.23
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                 AUGUST 10, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                    Staff:
+
+Shelly Cluff, Acting Chair                      Tim Prestwich, City Planner
+Gary Cannon                                     Lisa Halversen, Planner
+Monique Mortensen                               Ryan Carter, City Attorney
+Darren Park
+
+1.     CALL TO ORDER/ROLL CALL
+
+In the absence of Chair Jon Gilchrist, Commissioner Shelly Cluff called the meeting to order
+at approximately 6:30 p.m. The Pledge was led by Commissioner Darren Park.
+
+2.     PUBLIC HEARINGS
+
+       A.     MCNEIL AUTO, PLZ-23-8013, AN AMENDMENT TO A PREVIOUSLY
+              APPROVED COMMERCIAL SITE PLAN TO BE LOCATED ON 1.5 ACRES
+              IN THE M-1 (MANUFACTURING LIGHT INDUSTRIAL) ZONE LOCATED AT
+              3311 WEST 12600 SOUTH. APPLICANT - PETE MCNEIL
+
+City Planner, Tim Prestwich, presented the Staff Report and explained that the application
+is for an Amended Commercial Site Plan for McNeil Auto. The property is 1.5 acres in size
+in the M-1 (Manufacturing Light Industrial) Zone. The subject property is located at 3311
+West 12600 South. Mr. Prestwich reported that the building planned in the back, which was
+previously called Phase 2, will be a NAPA building. Mr. Prestwich shared an image of the
+site and explained that the site was located on a corner lot with frontage on 12600 South
+and Verona Creek Way. Verona Creek Way is a neighborhood street that goes down into
+the Castlewood Estates Subdivision. As for the surrounding zoning, there is M-1 to the east
+and west and R-3 to the south. The proximity to the R-3 Zone and the Castlewood Estates
+Subdivision neighborhood played a role in the overall design of the project.
+
+Notices were sent as required. Mr. Prestwich reported that a comment came in late from a
+neighbor who lives immediately south. That comment was shared with the Commission.
+The application and notice of the public hearing were shared. Mr. Prestwich further
+discussed the M-1 Zone. He explained that M-1 has slightly different restrictions and allows
+uses that other zones in the City do not. The Site Plan was shared. In 2021, there was a
+hearing and some of the site was approved with the idea that more would come forward in
+the future. In 2022, the rest of the site was designed and there were modifications to what
+was approved with the first approval. That approval was still in place and the applicant was
+working toward being able to build. There is an existing shop and the intention was to add
+an addition and a new building. The parking shown will mostly accommodate the NAPA
+Riverton City Planning Commission Meeting                                               2
+August 10, 2023
+
+building but it would also be used for existing shop customers. A drive approach would be
+added as well as landscape buffering. The six-foot concrete wall would remain.
+
+Mr. Prestwich explained that the applicant was progressing toward the Building Permit phase
+and had gone through some different contractors. The new contractor looked at the building
+plans and asked questions about the choices. The existing plans would add approximately
+$180,000 to the construction costs. It was suggested by the Building Official that it be done
+differently but the cost would be $30,000 in additional design work. The contractor wondered
+if it would be possible to change the construction type so there was a block wall on the
+outside. It was determined that this could be done, but the item would need to return to the
+Planning Commission for consideration and approval.
+
+Mr. Prestwich shared what was previously approved. The brick played off of what was on
+the building out front. Part of the challenge was that it did not make a distinction between
+the two uses. Mr. Prestwich shared what was now proposed. The building would be
+Concrete Masonry Unit (“CMU”) or block cement in a tan color with a white cap along the
+top. The footprint of the building would remain the same, but there was a new garage door
+proposed. The more modern and brighter color had been proposed to create contrast.
+Mr. Prestwich reminded the Commissioners that the property is in the M-1 Zone, which has
+a separate set of standards. The proposed building met all of the standards within the M-1
+Zone. Since there are no architectural standards in the M-1 Zone, Staff had to fall back to
+the Site Plan Review and Standards section of the Code, under Title 18.215, which states
+the following:
+
+      “(ii) Prohibited Materials. Concrete block buildings may be allowed but must be of
+       quality design (such as combinations of split-face block and standard block), and
+       must receive approval by the Planning Commission. This type of building shall be
+       limited to the C-R, C-N, and M-1 zones only.”
+
+The proposal met that language, as it is concrete block. Mr. Prestwich shared an example
+of a split-face block and a standard block. It was up to the Planning Commission to
+determine what a “quality design” was. An image of a block building in the C-R Zone was
+shared for reference. Mr. Prestwich discussed the preferred design submitted by the
+applicant. However, the architect also designed different options, including one with brown
+banding along the top and mid-way down as well as one with a third band. The all-tan
+version was a clean design that had a more modern look. It was similar to what was seen
+in other cities. Ultimately, the Planning Commission would determine what made sense.
+
+Mr. Prestwich reported that the view on the south property line showed the trees and the
+wall out. He clarified that this was done to make it possible to see the building. It did not
+indicate that there would not be trees or a wall. Everything except for the building would
+remain the same as what was approved previously. Trees were proposed in the area, which
+included elm trees. The comment received from a nearby neighbor asked that the tree type
+be changed to Norwegian Pines instead. Mr. Prestwich reminded the Commissioners that
+the trees were approved previously and the applicant was not requesting an amendment
+there. The trees that were approved met the ordinance.
+Riverton City Planning Commission Meeting                                                  3
+August 10, 2023
+
+Commissioner Park asked if the trees had been specified already or if it was up to the
+applicant to determine. Mr. Prestwich reported that the trees were specified within the
+previous approval. Chair Cluff wondered if there were mock-ups available that showed the
+existing building. She believed the existing building was red brick. Mr. Prestwich shared a
+sample image. Commissioner Park noted that the new renderings with the light-colored
+building did not show the addition to the existing building. He wanted to know if the addition
+would still be done. Mr. Prestwich clarified that the addition was still approved but the
+applicant wanted to focus on the NAPA building currently. NAPA will vacate its existing
+building and move over to the new building to stay within Riverton. Commissioner Park
+asked about the distance between the two buildings once the addition was added. Mr.
+Prestwich estimated that the distance would be 25 feet or so.
+
+The applicant, Pete McNeil, introduced himself to the Commission. He explained that NAPA
+had concerns that the building with the red brick design was identical to the existing building.
+NAPA did not want there to be any confusion. There was a request to have some variation
+to make sure that their building had an original look and design. This was a cost-saving
+factor but would also ensure that there was not any confusion moving forward. Chair Cluff
+asked about the color that had been proposed. Mr. McNeil explained that the intention was
+to create something more modern in nature. A brick sample had been provided and was
+sent in an email. It was a neutral tan/beige kind of color.
+
+There was discussion about the proposed banding. Mr. McNeil explained that he was open
+to either option. The reason the different banding proposals had been submitted was to
+share some different design looks. If there was something that the Commission preferred,
+that could be the design that moved forward. The banding would not add a lot to the cost.
+
+Commissioner Cannon asked for a brief history of NAPA and McNeil in Riverton. Mr. McNeil
+reported that they were celebrating their 40th year in the market. There was a towing
+business as well as two repair facilities. It was important to continue the mechanic trade,
+but the industry was showing that there would be a 40% deficit of technicians. That would
+cause prices to increase. As a result, the apprentice program was created. Three years
+ago, NAPA also adopted the program nationally, and now there are over 800 candidates
+throughout the country enrolled in the apprentice program. It was anticipated that it would
+continue to grow. Part of the NAPA building would be used for teaching.
+
+The Commission asked about the reorientation of the bay door on the north side and the
+addition. There were questions about whether there was enough space to use that bay
+door. Mr. McNeil clarified that the bay door would not have a lot of use, but had been added
+for convenience. There had been some concern about only having one access door.
+
+Commissioner Park wondered if there would be continuity on the property with two different
+building designs. Mr. McNeil reported that the buildings would look different. Having similar
+buildings could confuse customers and that was not desirable to NAPA. It was a significant
+concern, so when it was discovered that there was an option to separate the look, NAPA
+supported that. Commissioner Park wondered who would own the NAPA building. Mr.
+McNeil clarified that he would own the building itself and NAPA would use it as a distribution
+center. There was also space identified for teaching the apprentices. Commissioner Park
+Riverton City Planning Commission Meeting                                              4
+August 10, 2023
+
+wanted to know what NAPA would do with the existing building across the street. Mr. McNeil
+believed that the building would be vacated as the lease ended in March. He thought there
+had already been communication with the owners of that building.
+
+Chair Cluff asked about the trees. She wondered if the applicant was interested in changing
+the trees to an evergreen variety. Mr. McNeil felt fairly neutral about that. There was a
+desire for the site to look good. If the Commission wanted to see a change to the type of
+trees, that could be done. Commissioner Mortensen liked the banding that had been
+proposed for the building and wondered if it would be possible to make that a similar color
+to the red brick. That might tie the two buildings together. Mr. McNeil believed that could
+be accommodated. The intention was to keep things neutral. Commissioner Mortensen
+praised Mr. McNeil for the apprenticeship program work.
+
+Chair Cluff believed there was some support for the banding that had been proposed. She
+wondered if there was a preference between the different banding options. She leaned
+towards the two lines of banding. Example images of the two options were shared.
+Commissioner Park noted that he was open to allowing the tree type to be left to the
+discretion of the property owner. There could be continued discussion with the neighboring
+property owners about the trees, but he felt sufficient concessions had been made. He did
+not want to require a change to something that had already been approved.
+
+The public hearing was opened. There were no comments. The public hearing was closed.
+
+Chair Cluff moved that the Planning Commission APPROVE PLZ 23-8013 – McNeil’s
+Site Plan Amendment, with the following conditions:
+
+      1.     All requirements and conditions approved by the Planning Commission
+             in the August 25, 2022, Site Plan approval are still in effect.
+
+      2.     The building color, design, and architecture will match the rendering
+             shown to the Commission in this application:
+
+             a.      Approve the two-band option with trim above the bay doors.
+
+      3.     Applicant may choose any columnar tree.
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     None.
+Riverton City Planning Commission Meeting                                                      5
+August 10, 2023
+
+4.     DISCUSSION ITEMS
+
+       A.     Discussion Regarding Artificial Turf.
+
+Mr. Prestwich explained that there was a discussion item scheduled about artificial turf. It
+had not been noticed as a public hearing and there was no proposal to change any
+ordinances. The intention was to receive some feedback from the Planning Commission. A
+few Council Members reached out to City Staff about some instances of artificial turf in the
+City. There was a desire to determine how to address those types of situations. Whatever
+feedback was received from the Planning Commission would be shared with the City
+Council. From there, it would be possible to have discussions about how to proceed.
+
+Water conversation was an important topic and it had become a priority for a lot of residents.
+The City received numerous calls from residents asking if it was possible to remove the sod
+in their yards. Mr. Prestwich noted that there were good examples of artificial turf and not-
+so-good examples of artificial turf. If the turf was not installed properly, particularly on slopes,
+bunching could occur. He shared sample images with the Commission. Most of the
+examples he had found were in residential settings rather than commercial settings.
+
+The current City Code was relevant to artificial turf in a few sections. The first section
+referenced was 18.135, which stated that front yard landscaping should be maintained in
+the lawn, trees, other plantings, or landscape features. The City had been allowing the turf
+to go in as a landscape feature, except for areas covered by driveways and structures.
+Commercial landscaping had similar language in place. As for the section of City Code that
+related to park strip landscaping, it referenced materials that minimized water use.
+
+Mr. Prestwich referenced the Site Plan Development Standards. He explained that the
+section applied specifically to Site Plans, which included commercial, quasi-public, and
+multi-family sites. It stated that “in no case shall yards be maintained in artificial plantings.”
+The section specifically prohibited the use of commercial, quasi-public, and multi-family sites
+in the community. There was also a third standard, the Water Efficiency Standards. It was
+modeled after the Jordan Valley Water Conservancy District and applied to new projects. It
+stated that landscaping meant any combination of living plants, natural features, and
+structural features. It did not specify artificial turf, so if desired, specificity was needed.
+
+If the City wants to allow for artificial turf throughout the community, some amendments
+would need to be made to the existing language. Mr. Prestwich asked for feedback from
+the Planning Commission on artificial turf and how to best move forward. Commissioner
+Cannon referenced language that stated, “Such landscaping shall be done within one year
+from the date of the occupancy of the building.” He wondered who enforced that and what
+the consequences were. Mr. Prestwich noted that enforcement was often resident-driven
+where Code Enforcement was involved. It was not possible to receive occupancy on a
+commercial site without the landscaping in place. Single-family residential had one year.
+
+Commissioner Park explained that his concerns related to the type and style of artificial turf
+that would be allowed. There was high-quality turf but there was also lower quality turf.
+Installation and maintenance was also a factor. Since there were varying types of turf, any
+Riverton City Planning Commission Meeting                                                   6
+August 10, 2023
+
+updates to the ordinances would need to add clarity about the turf requirements.
+Discussions were had about examples in the community. It was important to maintain a
+consistent look throughout the City. Commissioner Park believed City Staff would need to
+define what types were acceptable to have. Otherwise, not all of the landscaping would be
+aesthetically pleasing. It was noted that the artificial turf that looked good was still a fairly
+new product in the marketplace. He was not sure how it would look over time.
+
+City Attorney, Ryan Carter, suggested that City Staff look into how the industry defined the
+different grades of artificial turf. That might be a good starting point. Mr. Carter pointed out
+that the more specificity there is in the Code language, the greater risk there will be that the
+Code will fall out of date. He hoped there would be a way to define things in a more general
+way but still provide some clarity. Chair Cluff noted that turf will function differently than
+more natural products in terms of drainage. She felt that needed to be considered. It was
+important to determine the purpose of the landscaping and whether artificial turf would meet
+the purpose. If something is added to allow artificial turf, it might be necessary to amend
+the maintenance standards as well to account for turf issues.
+
+Commissioner Cannon suggested that direction be received from some sort of study. He
+wondered what direction the City was able to take. Mr. Carter explained that the City has
+the general, lawful authority to preserve aesthetic standards and landscaping standards in
+the community. Requiring artificial turf instead of permitting it is not something that would
+be appropriate. However, it would be possible to allow artificial turf in certain areas where it
+made sense to place the material. Commissioner Park noted that a specific manufacturer
+could not be required, but if there were grades of artificial turf out there, a certain grade
+would be appropriate. Mr. Carter confirmed this. He also noted that it would also be
+worthwhile to look into how long artificial turf lasted and how it changed over time.
+
+Chair Cluff thought it made sense to have stricter regulations for commercial entities. The
+ground coverage would be much greater in those instances. She believed in those cases,
+the artificial turf should be something that the Planning Commission needed to approve.
+There should be a reason articulated to explain why artificial turf was desired. Chair Cluff
+liked having more flexibility for residents, especially in the backyard. She wondered if the
+City ever needs to dig into park strips. This was confirmed. As a result, she thought it would
+be wise to prohibit the use of artificial turf in those areas.
+
+Mr. Carter believed it would be appropriate to state that artificial turf cannot be installed
+above locations where utilities were found. Mr. Prestwich noted that there was a maximum
+amount of rock that was allowed in commercial landscaping. He wondered if the Planning
+Commission was interested in there being a maximum allowed for artificial plantings.
+Commissioner Park believed there would need to be specificity about what artificial plantings
+were. Mr. Carter agreed that there would need to be a clear definition provided. Chair Cluff
+did not believe a percentage should be specified.
+
+Mr. Prestwich thanked the Commissioners for their input on artificial turf in the community.
+The discussion would likely be brought back to the Planning Commission again in the future.
+Riverton City Planning Commission Meeting                              7
+August 10, 2023
+
+5.    MINUTES
+
+      A.    Planning Commission Meeting Minutes of May 25, 2023.
+
+Chair Cluff moved that the Planning Commission APPROVE the Minutes from the
+Planning Commission Meeting on May 25, 2023, as reported. Commissioner
+Mortensen seconded the motion. The motion passed unanimously.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:32 p.m.
+

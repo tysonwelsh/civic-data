@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "8/17/2021", "name": "Rex Williams", "amount": "17.24", "in_kind": false},
+    {"date": "9/17/2021", "name": "Rex Williams", "amount": "17.24", "in_kind": false},
+    {"date": "10/17/2021", "name": "Rex Williams", "amount": "17.24", "in_kind": false},
+    {"date": "8/16/2021", "name": "Rex Williams", "amount": "13.17", "in_kind": false},
+    {"date": "8/30/2021", "name": "Rex Williams", "amount": "175.76", "in_kind": false},
+    {"date": "8/10/2021", "name": "Rex Williams", "amount": "50", "in_kind": false},
+    {"date": "11/17/2021", "name": "rex Williams", "amount": "17.24", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/17/2021", "recipient": "Squarespace", "purpose": "Website", "amount": "17.24", "in_kind": false},
+    {"date": "9/17/2021", "recipient": "Squarespace", "purpose": "Website", "amount": "17.24", "in_kind": false},
+    {"date": "10/17/2021", "recipient": "Squarespace", "purpose": "Website", "amount": "17.24", "in_kind": false},
+    {"date": "8/16/2021", "recipient": "Hover", "purpose": "domain registration", "amount": "13.17", "in_kind": false},
+    {"date": "8/30/2021", "recipient": "Amazon", "purpose": "Sign supplies", "amount": "175.76", "in_kind": false},
+    {"date": "8/10/2021", "recipient": "Millcreek City", "purpose": "Filing Fee", "amount": "50", "in_kind": false},
+    {"date": "11/17/2021", "recipient": "Squarespace", "purpose": "Website", "amount": "17.24", "in_kind": false}
+  ],
+  "total_contributions": "325.13",
+  "total_expenditures": "325.13",
+  "ending_balance": "0"
+}

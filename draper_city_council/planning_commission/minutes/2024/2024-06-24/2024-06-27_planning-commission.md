@@ -1,0 +1,384 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1731&doc_id=9f85f8a7-6c97-11ef-9b71-005056a89546
+> Meeting date: 2024-06-27
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, JUNE 27, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Commission Member Susan Nixon
+               Commission Member Gary Ogden
+               Commission Member Kendra Shirey
+               Commission Member Mary Squire
+               Alternate Commission Member Christine Green
+
+DID NOT SIT:         Alternate Commission Member Shivam Shah                                    Commented [SN1]: I don’t think Laura Fidler and
+                     Alternate Commission Member Laura Fidler                                   Shivam Shah actually participated. I think they were in
+                                                                                                attendance, but didn’t participate. They ddid not vote
+                                                                                                at all. Should they be shown as “not participating but in
+EXCUSED:             Commission Member Lisa Fowler                                              attendance”?
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Mike Barker, City Attorney
+                     Brien Maxfield, Senior Engineering Manager
+                     Todd Taylor, City Planner III
+                     Nick Whittaker, City Planner
+                     Amie Salazar, Officer Manager
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order at 6:30 PM and welcomed those present.
+
+Community Development Director, Jennifer Jastremky introduced New City Planner, Nick
+Whittaker.
+
+1.     Items for Commission Consideration.
+
+       A.     Action Item: Approve Planning Commission Meeting Minutes for May 9,
+              2024. (Administrative Action).
+
+Motion: Commissioner Nixon moved to APPROVE the Planning Commission Meeting
+Minutes for May 9, 2024, as written.
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote: A roll call vote was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Ogden, Shirey, Green, and Squire voted “Yes.” The motion passed
+unanimously.
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 2
+
+       B.      Action Item: Approve Planning Commission Meeting Minutes for May 23,
+               2024. (Administrative Action).
+
+Motion: Commissioner Squire moved to APPROVE the Planning Commission Meeting
+Minutes for May 23, 2024, as written.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote: A roll call vote was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Ogden, Shirey, Green, and Squire voted “Yes.” The motion passed
+unanimously.
+
+       C.      Public Hearing: City-Initiated South Mountain ADU Update.
+               (Legislative Item).
+               On the request of Draper City, a request for approval of a Zoning Text Amendment
+               to Draper City Municipal Code Sections 9-31-020 and 9-31-090 regarding
+               Accessory Dwelling Unit (“ADU”) standards for a portion of the South Mountain
+               development. Known as application 2024-0253-TA. Staff Contact: Todd Taylor,
+               801-576-6510, todd.taylor@draperutah.gov.
+
+City Planner, Todd Taylor presented the Staff Report and displayed Aerial and Vicinity Maps of
+the subject property. The Land Use Designation is Residential Medium-Density and the zoning is
+RM. It was reported that the alley-loaded properties were originally developed under the original
+South Mountain Development Agreement and Design Guidelines. The Design Guidelines
+encourage Granny Flats and Carriage Houses but there are no definitions for those types of units.
+Typically, when that is the case staff looks to the Code that was in place at the time of development
+to determine other standards. The 1990 Code was in place at the time and the closest uses include
+a Guesthouse, which is similar to a Detached Accessory Dwelling Unit (“D-ADU”), and an ADU,
+which is focused more toward an Internal Accessory Dwelling Unit (“I-ADU”). In the Code,
+neither uses were allowed to be separately rented or leased from the home.
+
+The current Code includes a section that addresses the South Mountain Development Agreement,
+which is exempt from the current Title 9 except in cases of ADUs and second kitchens. The current
+ADU Code allows both D-ADUs and I-ADUs to be separately leased if the property is owner-
+occupied. Minimum lot size standards are also included. The proposed Code Amendment intends
+to help facilitate originally constructed units to come into compliance with the current Code and
+allow the owners of the originally constructed detached Carriage Houses and Granny Flats to apply
+for an ADU permit. The proposed text exempts the lots from the minimum lot size requirement
+of 12,000 square feet because the lots are smaller than 12,000 square feet. The Carriage Houses
+or apartments that existed as of the date of the adoption of the ordinance were identified. There
+will also be a proposed exhibit showing the location of the subject properties that will be exempted
+from the minimum lot size requirement. The units will be required to comply with all other ADU
+standards such as being owner-occupied, not having another I-ADU or D-ADU, and providing one
+additional paved parking space. The standards apply across the City. One letter was received that
+was provided to the Commission.
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 3
+
+Mr. Taylor was asked to address the number of properties this action will affect. Mr. Taylor
+explained that it will only impact properties that were originally constructed with a unit over the
+garage that exists as of the date of the adoption of the ordinance. It was estimated that the proposed
+change will apply to about half of the units.
+
+In response to a question raised, Mr. Taylor stated that in 1990, the D-ADUs and I-ADUs were
+not allowed to be rented separately. Even if the property was owner-occupied, the units were not
+allowed to be rented. Ms. Jastremsky explained that the entire property could be rented but the
+other portions could not be rented separately. Chair Adams summarized the proposed change and
+stated that Exhibit G specifies the lots that fall under the standard ADU requirements throughout
+the City. The proposed action grants an exemption because of the lot size.
+
+Chair Adams opened the public hearing.
+
+Martin Cummings gave his address as 1051 Straw Hat Lane and has been a resident in the homes
+identified since October 1995. He asked what is proposed by way of a permit, cost, and
+restrictions. Mr. Cummings stated that his son lives in his mother-in-law apartment and asked if
+this action will result in an inspection.
+
+Mike Zackrison gave his address as 14051 South Pepi Band Road and stated that he has lived in
+his home for the past 20 years. He was surprised to see that the previous Code did not allow the
+rental of the units because the majority are rentals. There is an active market with the current
+rentals being $1,100 per month. He commented that the Code is not useful without enforcement
+and he asked what type of enforcement is proposed. He commented that since the new ADU rules
+went into effect he has not seen any change in how the properties are being used. If the change
+takes effect he wanted to ensure that everyone is adhering to the same set of rules.
+
+Chair Adams asked staff to provide information on the standard ADU rules for the City that would
+also apply to this area. Ms. Jastremsky explained that there are General Standards and some that
+are specific to D-ADUs. Chair Adams explained that to use any part of the home as an ADU it
+would have to be owner-occupied. The intention was for a renter to help offset the owner’s housing
+costs and provide affordable housing in the form of a rental unit. Ms. Jastremsky explained that
+the rental must meet certain requirements, have a full kitchen, and match the home architecturally.
+There cannot be separate utility meters and a square footage minimum based on the size of the
+home. There can only be one D-ADU per lot that meets the minimum building setbacks and there
+must be one additional parking space that does not include the garage spaces that are required for
+the home. The parking space must be additional and cannot be in tandem with the garage spaces.
+
+Chair Adams explained that currently, an owner-occupant is allowed to have a separate non-family
+renter in an ADU. A non-owner occupant must rent out the entire unit. Ms. Jastremsky explained
+that the proposed change does not address I-ADUs such as basement apartments, which would still
+be prohibited. Chair Adams explained that the specified units are being grandfathered into the
+new ADU rules because the lots are too small. What was being discussed was the specified area
+where the lots are too small to qualify. The proposed text amendment will allow them to operate
+under the same rules as any other D-ADU.
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 4
+
+Hubbard Green gave his address a 14149 South Radial Lane and stated that of the 81 homes, 40
+have mother-in-law apartments above the garage and the rest do not. He purchased his home in
+1997 and he did not have an ADU. The Mayor at the time allowed them to grandfather in the R2
+zoning so that they could construct an I-ADU in the basement. He asked about the rules for I-
+ADUs and stated that his contains a kitchen. He was concerned about safety and potential Code
+violations over the last 30 years in the legacy area and asked if there were any significant problems.
+
+Josh Christensen reported that for the past 21 years, he has lived in the neighborhood directly
+adjacent to the proposed units. About 10 years ago there was a shift where someone figured out
+that they could convert the tiny lots and homes into triplexes and rental units. For 10 years it was
+a beautiful neighborhood for families. After the shift, owners began renting out their basements,
+upstairs, and garages which resulted in congestion in the neighborhood. Dozens of great families
+moved away because they felt that things were too tight and the result was degradation of the
+neighborhood. The family vibe is gone and the character of the area has changed dramatically.
+The residents worked with the City to update some of the standards and bring them in line with
+State law to help revitalize the neighborhood. Mr. Christensen was concerned and wanted to make
+sure that the regulations are solidified. He also stressed the importance of enforcement. He stated
+that the laws have been on the books since the beginning and have been violated for the past 27
+years. Over the past 2 ½ years there have been very strict laws and nothing has been done. He
+asked that the Commission keep the goal of overall community benefit in mind. The goal is to
+revive the neighborhood and make it a great place for starter homes for families.
+
+Shaun Whetstein identified himself as the owner of one of the homes in the neighborhood. He
+moved away about eight years ago specifically because he started to feel the shift described by
+Mr. Christensen. When he lived in the neighborhood, they had a great community but he has seen
+the dynamics change with cars always parked on the street leaking oil. They can now only park
+on one side of the street because if they park on both sides the streets get clogged up and emergency
+vehicles cannot get through. He doubted that anyone who currently owns a home in that
+neighborhood and rents it out is going to be economically challenged by the proposed changes.
+Mr. Whetstein stated that he rents his home to one family. He wanted to see the neighborhood get
+back to how it was before. He commented that the area is no longer appealing as a place for most
+people unless they are short-term tenants, which devalues the area. He agreed with the direction
+proposed by the City and felt that if there were more owner-occupied units, the neighborhood
+would be cleaner and better maintained.
+
+Brady Ririe admitted that he is not following the rules. He bought a home in the neighborhood
+with the intent to raise his family there. For him, it was a starter home and all he could afford.
+Eventually, he outgrew the home but kept it and now rents it to his sister-in-law and family. They
+also have a garage apartment that is occupied by someone who works at Harmon’s grocery store.
+He stated that changing the rules makes it more difficult for people to service Draper City and
+work in occupations where they cannot afford a home on a one-half-acre lot. He stated that if the
+rule has been in place for 27 years and never followed, he acknowledged that it is an issue. He
+would not, however, change things going forward and impact everyone who has tried to build a
+retirement for their family. He did not support eliminating something that has never been enforced
+and doing away with it now. He asked how the City will address the situation going forward.
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 5
+
+Abby Shahe gave her address as 14018 Old Saddle Road and stated that she previously resided at
+14136 Senor Band Road. They moved three streets over because they love the neighborhood. She
+distinctly recalled one day when she was out front and an ambulance was unable to get up the
+street because of congestion. It is a huge problem and she was very sympathetic to those who
+would like to live in the area since it would be a more affordable option. She pointed out that
+many property owners have several homes. She would be much more sympathetic to the idea that
+affordable housing options are being provided if there was not such a large investment behind it.
+She stated that it is coming at the cost of people who still live in the neighborhood. It did not seem
+like a fair burden to shoulder if those who are benefiting live elsewhere. Ms. Shahe was also very
+concerned about enforcement and admitted that it is confusing and has been inconsistent. She
+suggested that they move forward with the intent and purpose of making sure that those who
+benefit from rentals and are burdened are the same.
+
+Eddie Lazari reported that he has lived in his home for 17 years. He asked about parking and
+where people will park. He lives across from the townhomes and cannot park in front of his home
+because of congestion. He felt he had no rights because the rental tenants use all of the parking.
+Every unit has a two-car garage and there are more townhomes than homes. He was certain that
+the parking issue is coming from the townhomes.
+
+Ken Murdock gave his address as 246 East Tanager Lane and stated that he and his family have
+owned three of the homes for nearly 30 years. He was shocked to hear that their neighborhood
+would no longer qualify for something like this. He considered what is proposed to be a step in
+the right direction. He commented that one of their homes has a garage apartment, a main house,
+a basement apartment, and eight parking spaces counting the garage, which is more than adequate.
+Others have more than that and many of the landlords they have spoken to have adequate parking.
+The issue is with the residents who do not use their garages for parking. He reported that one of
+the former residents who spoke tonight, never parked in his garage. His business was in the garage
+and they used two spaces in front of homes, which created an issue. The homes have plenty of
+room for the extra parking from the alley. Mr. Murdock stated that he has owned the properties
+for a long time and they are his retirement and something he has paid for over the last 30 years.
+When he contacted the State he was informed that the City has the right to grandfather one-on-one
+situations. Any of the rules they choose can be grandfathered on properties. They can conduct an
+inspection, look at leases, and ask for permits. Mr. Murdock stated that there are protections in
+place and permits that have to be renewed annually.
+
+Dan Portwood gave his address as 14112 South Pepi Band Road and stated that he moved to
+Draper about five years ago from Park City. He moved into the neighborhood and has noticed
+over the past few years that the City has failed the neighborhood. The City has posted no parking
+signs everywhere. The previous Police Chief informed him that until the City enforces the ADU
+rules the State and City both adopted 2 ½ years ago, they cannot enforce parking. Mr. Portwood
+stated that investor-owned properties tend to have yards that are not mowed and parking issues.
+Originally, there was a map where the entire area excluded ADUs altogether primarily because of
+the small lots. He appreciated the investors who have owned homes for a long time but as they
+have all admitted, their rentals are illegal. He pointed out that an illegal use cannot be
+grandfathered in. He appreciated the City’s efforts to accommodate the illegal ADUs but in reality,
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 6
+
+these homes are not affordable, primarily because investors can buy them and put an apartment
+over the garage, in the basement, and another above. He stated that allowing ADUs makes Draper
+City look like it is not protecting the neighborhood. He considered it an embarrassment.
+
+Michelle Sears reported that she and her husband, Vince, own one of the homes and have been
+Draper residents since 1996. Their retirement rests in one of these homes. They purchased one
+specifically because it had a garage apartment that could be rented. They saw it as an opportunity.
+It was important for them to be good neighbors because they love living in Draper. For many
+years it worked perfectly for the Sears and others. Their first renter in their garage apartment was
+a single mother who lived there with her daughter. She lived in their home for more than three
+years. Their next tenant was quiet and no complaints were ever received from neighbors. Neither
+had an impact on the neighborhood because they had off-street parking behind the home. When
+the State looks to provide affordable housing, those are the type of people they are looking to help.
+The apartments they provide are good options. Despite the small lot sizes, she felt the situation
+worked for the owner and the renter. Ms. Sears stated that they will continue to be good neighbors.
+When they look at a renter, they conduct background checks and they live close by. They make
+sure that the yard is well maintained and they do yard maintenance.
+
+Vicki Christensen reported that she lived in the area for over 20 years and has seen the decline and
+the value of renting the homes. She pointed out that the value of the homes has doubled or tripled
+over time and suggested the investors sell and use that money elsewhere. Many of those who have
+spoken in favor have lived in the area and know the damage the rentals have done to the
+neighborhood. There have been countless issues with dogs, parking, and congestion. One street
+in particular has many rentals that results in numerous cars being parked throughout the
+community. She stated that it is difficult to get around the neighborhood with the high number of
+cars. Ms. Christensen stated that she moved from the townhomes because of the overall decline.
+She appreciated those who take care of their homes but some do not. There was a situation where
+a teenager was dealing drugs out of one of the homes. He was renting illegally through a sublet.
+The neighbors watched this young man do drugs and carry large amounts of cash near schools and
+the Amphitheatre. She stressed the need for a change and for action to be taken.
+
+Colton Reading, a long-time Draper resident, stated that he has owned one of these properties since
+it was built. He understood the concerns with parking and emergency vehicle access but went
+back to the original Development Plan that indicated that the street widths and parking were
+acceptable. He questioned what has changed. If there is to be a limit on the number of cars, the
+parking rules have been in place for some time. Another option was to impose an occupancy
+number on those living in rentals. He noted that as owners they have a responsibility to maintain
+their properties. In Draper City, many homes are owner-occupied with no additional rental that
+are not properly maintained. He wants it to be a safe neighborhood and they conduct background
+checks on every tenant. He asked that the Commission pay special attention to the letter submitted
+earlier by Dave Bennett.
+
+Julie Lazare reported that she has lived in the neighborhood for 17 years. She was unaware of this
+situation when she first moved to the neighborhood. She has a lot of memories in this
+neighborhood and loves many of those present. At one point she and her family lived in the home
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 7
+
+as renters and someone else lived in the garage apartment. They have since purchased the home.
+She was heartbroken by what she was hearing. She was unaware of some of the things people
+have struggled with but this is a good neighborhood where people care for each other. She stated
+that they are in the middle of a housing crisis and Draper is not exempt from that.
+
+There were no further public comments. The public hearing was closed.
+
+Chair Adams commented that this neighborhood has been around for about 27 years. Before the
+proposed ADU text change, he asked what has been allowed. Ms. Jastremsky reported that the
+Development Agreement for South Mountain called for Carriage Houses in this neighborhood and
+apartments above garages were encouraged. The Code at that time allowed for D-ADUs that were
+referred to as Guest Houses but they were not allowed to be rented out separately from the home.
+There was nothing in the Development Agreement for South Mountain that modified that
+requirement. It was clarified the units above the garages were never allowed to be rented out
+separately from the home.
+
+Chair Adams clarified that if the City did not approve the proposed ADU policy then the units
+would be subject to the previous code and not be allowed to be rented out. Ms. Jastremsky
+answered in the affirmative. Chair Adams stated this change was a move forward. They have
+heard stories about owner-occupants in the main home that helped the owner. It was clarified that
+an owner-occupant in the house with a renter in the garage would be allowed under the proposed
+ADU guidelines. Possible options were discussed.
+
+The stories shared about low-income renters are exactly what the ADU framework is all about.
+The intent is to allow people to live in Draper who otherwise could not afford it. It also lets people
+buy single-family homes in the front who otherwise could not afford it without any assistance from
+renting the back unit. There is a symbiotic relationship between the two. Chair Adams commented
+that grandfathering would be a step backward. What is proposed is to move forward since the lots
+are too small. They must, however, comply with parking and kitchen requirements, have no
+separate gas meters, and ensure that the owner-occupant lives in the front in the larger units. The
+larger space should be occupied by the owner and the smaller space by a renter. The biggest impact
+would be to have a family in the front house and a renter family in the back, which would not be
+allowed under any circumstance.
+
+Commissioner Squire commented that what is proposed seemed to right previous wrongs. When
+the homes were built, there was no ADU ordinance in place. The City is compliant with the State
+requirements including owner-occupied units, which is required by the State. It seemed that dual
+renters would be unprecedented and equates to multi-family housing. That is what changed
+materially. The Code amendment does not take rights away from anyone. It adds to property
+rights and makes the D-ADUs able to apply for a permit. This was considered a step forward.
+Commissioner Squire recognized that enforcement might be an issue but is not within the purview
+of the Planning Commission. It was noted that Code Enforcement operates off of complaints.
+Draper City Planning Commission Meeting
+June 27, 2024
+Page 8
+
+Chair Adams described the role of the Planning Commission, which consists of members who are
+appointed and not elected. The intent tonight is to forward a recommendation to the City Council
+who will make the final decision.
+
+Motion: Commissioner Ogden moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Text Amendment as requested by Draper City for the City-initiated
+South Mountain ADU Update Application Number 2024-0253-TA subject to the following:
+
+Findings:
+
+       1.     The proposed amendment is consistent with the goals, objectives, and policies
+              of the City's General Plan.
+
+       2.     The proposed amendment is appropriate given the context of the request and
+              there is sufficient justification for a modification to the development codes.
+
+       3.     The proposed amendment will not create a conflict with any other section or
+              part of the development codes or the General Plan.
+
+       4.     The potential effects of the proposed amendment have been evaluated and are
+              determined not to be detrimental to public health, safety, or welfare and
+              represents an overall community benefit.
+
+       5.     The proposed text amendment implements best current, professional practices
+              of urban planning, design, and engineering practices.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote: A roll call vote was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Ogden, Shirey, Green, and Squire voted “Yes.” The motion passed
+unanimously.
+
+2.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at approximately 7:29 PM.
+

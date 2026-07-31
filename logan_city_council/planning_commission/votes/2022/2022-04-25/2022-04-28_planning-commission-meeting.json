@@ -1,0 +1,115 @@
+{
+ "date": "2022-04-28",
+ "year": 2022,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2022/2022-04-25/2022-04-28_planning-commission-meeting.md",
+ "present": [
+  "Roylan Croshaw",
+  "Jordy Guth",
+  "Ken Heare",
+  "David Lewis",
+  "Eldon Peterson",
+  "Sara Doutre",
+  "Jessica Lucero"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Croshaw moved to continue PC 22-022 to the May 26, 2022, meeting. Commissioner Guth seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "6:0 Pass",
+   "kind": "procedural",
+   "mover": "Roylan Croshaw",
+   "seconder": "Jordy Guth",
+   "aye": [
+    "Roylan Croshaw",
+    "Jordy Guth",
+    "David Lewis",
+    "Ken Heare",
+    "Sara Doutre",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Guth moved to conditionally approve a Design Review and Subdivision Permit for PC 22-019 with the amended conditions of approval and findings for approval as listed below. Commissioner Lewis seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:1 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Jordy Guth",
+   "seconder": "David Lewis",
+   "aye": [
+    "Roylan Croshaw",
+    "Jordy Guth",
+    "David Lewis",
+    "Ken Heare",
+    "Sara Doutre"
+   ],
+   "nay": [
+    "Eldon Peterson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-1",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero moved to Continue PC 22-023 and PC 22-024 to May 26, 2022, for a second public hearing. Commissioner Lewis seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "7:0 Pass",
+   "kind": "procedural",
+   "mover": "Jessica Lucero",
+   "seconder": "David Lewis",
+   "aye": [
+    "Jordy Guth",
+    "David Lewis",
+    "Ken Heare",
+    "Eldon Peterson",
+    "Roylan Croshaw",
+    "Sara Doutre",
+    "Jessica Lucero"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "7-0",
+   "outcome_word": "Approved",
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the April 14, 2022 meeting as submitted",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Jordy Guth",
+   "seconder": "Sara Doutre",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 4
+  }
+ ]
+}

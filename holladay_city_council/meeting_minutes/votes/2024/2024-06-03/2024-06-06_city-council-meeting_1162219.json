@@ -1,0 +1,75 @@
+{
+ "date": "2024-06-06",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1162219.pdf",
+ "path": "minutes/2024/2024-06-03/2024-06-06_city-council-meeting_1162219.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Brewer",
+   "seconder": "Fotheringham",
+   "motion": "APPROVE Resolution 2024-20 - Authorizing Designated Individuals as Signatories on Various Financial Accounts",
+   "motion_type": "Resolution",
+   "result": "Resolution 2024-20 was approved by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "RECESS the City Council Meeting and RECONVENE in an RDA Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Brewer",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "date": "2023-06-22",
+ "year": 2023,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Allan Perry",
+  "Paulina Flint",
+  "Greg Shelton",
+  "Phillip Cardenaz"
+ ],
+ "source": "meeting_minutes/minutes/2023/2023-06-22/2023-06-22_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Resolution No. 2023-06-02",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 2023-06-02",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the audited financial statements with technical corrections as necessary",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

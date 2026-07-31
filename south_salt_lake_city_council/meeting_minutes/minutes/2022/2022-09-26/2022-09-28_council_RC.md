@@ -1,0 +1,222 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09282022-13
+> Meeting date: 2022-09-28
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 09282022-13 | label: Council WM Meeting 2022-09-28 | date: 2022-09-28 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09282022-13 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                           CITY COUNCIL MEETING
+
+COUNCIL MEETING                                       Wednesday, September 28,
+                                                      2022, 7:00 p.m.
+
+CITY OFFICES                                          220 East Morris Avenue
+                                                      South Salt Lake, Utah 84115
+
+PRESIDING                                             Sharla Bynum
+
+CONDUCTING:                                           Sharla Bynum
+
+SERIOUS MOMENT OF REFLECTION/                         Clarissa Williams
+PLEDGE OF ALLEGIANCE
+
+SERGEANT AT ARMS:                                     Carson Aprato
+
+
+COUNCIL MEMBERS PRESENT:
+    Sharla Bynum, LeAnne Huff, Portia Mila (on the phone), Natalie Pinkney,
+    Shane Siwik, and Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+    Corey Thomas
+
+STAFF PRESENT:
+     Mayor Wood
+     Brie Brass, Deputy City Attorney
+     Jack Carruth, Police Chief
+     Terry Addison, Fire Chief
+     Eliza Ungricht, Interim Deputy Community Development Director
+     Danielle Croyle, Public Information Officer
+     Mary Winters, Police Sergeant
+     Ariel Andrus, City Recorder
+     Sara Ramirez, Deputy City Recorder
+
+
+
+
+                                        1
+South Salt Lake- Regular Council Meeting                            September 28, 2022
+
+
+OTHERS PRESENT:
+    See list
+
+APPROVAL OF MINUTES
+    August 10, 2022, Work Meeting
+    August 10, 2022, Regular Meeting
+    August 24, Regular Meeting
+
+       Council Chair Bynum opened the floor for a motion to approve the minutes.
+
+MOTION: Clarissa Williams
+SECOND: Shane Siwik
+
+Voice Vote:
+Bynum:        Yes
+Huff:         Yes
+Mila:         Yes
+Pinkney:      Yes
+Siwik:        Yes
+Thomas:       Absent
+Williams:     Yes
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING.
+          The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. The next City Council meeting will be on October 12
+          at 7:00 pm.
+
+       2. CITIZEN COMMENTS/QUESTIONS.
+          Council Chair Bynum read a comment sent by email from Callie Quong,
+          South Salt Lake resident. A copy is attached and incorporated by this
+          reference.
+
+          South Salt Lake resident, Kathy Ivie, shared her thoughts and concerns on the
+          300 Loft Project.
+
+          South Salt Lake resident, Mellanie Allgood, shared her thoughts and concerns
+          on the 300 Loft Project.
+
+          Commercial property owner, Gary Olson, shared the situation regarding a
+          citation he received over a storage container on his property from City Code
+          Enforcement.
+
+       3. MAYOR COMMENTS.
+          Granite School District boundary proposal update.
+
+                                           2
+South Salt Lake- Regular Council Meeting                             September 28, 2022
+
+
+          Craftober Fest to be held next week, October 8th from 1-6 pm.
+
+          Personal update from Chief Carruth on the officer involved incident in South
+          Salt Lake earlier this week.
+
+       4. CITY ATTORNEY COMMENTS.
+          Deputy City Attorney, Brie Brass, announced her departure from her current
+          role and extended her gratitude to the Council and the city for the opportunity
+          to have worked with the city.
+
+       5. CITY COUNCIL COMMENTS.
+          Council member Williams, extended her thanks to Ms. Brass for her time and
+          work with the city, expressed gratitude to Chief Carruth and the South Salt
+          Lake Police Department for their efforts in keeping the city safe.
+
+          Council member Pinkney expressed her sympathy for anyone who has family
+          or friends in Florida that are experiencing a category 4 hurricane and is
+          wishing them safety and wellness.
+
+          Council member Siwik wanted to disclose that in previous years he worked
+          with the development company that is the topic of today’s items and is friends
+          with their extended family but affirms that he feels there is no conflict of
+          interest on his part.
+
+          Council Chair Bynum expressed her relief for the police officers’ wellbeing in
+          this week’s officer related incident. She also stated that she attended last
+          week’s Promise South Salt Lake 10-year celebration and noted how well
+          attended and executed it was.
+
+
+
+
+ACTION ITEMS
+
+       NEW BUSINESS
+
+       1. A Resolution of the South Salt Lake City Council Authorizing the City to
+       Enter into and Execute a Development Agreement with 300 Lofts, LLC for
+       the Development of a Townhome Project located at 3383 South 300 East and
+       3360 South 354 East.
+
+       A motion was made to move this item as Unfinished Business to the next Council
+       meeting on October 12, 2022.
+
+MOTION: Shane Siwik
+SECOND: Portia Mila
+
+                                            3
+South Salt Lake- Regular Council Meeting                            September 28, 2022
+
+
+Roll Call Vote:
+Bynum:         Yes
+Huff:          Yes
+Mila:          Yes
+Pinkney:       Yes
+Siwik:         Yes
+Thomas:        Absent
+Williams:      Yes
+
+
+       2. An Ordinance of the South Salt Lake City Council to Amend the South
+       Salt Lake Zoning Map for Properties Located at 3383 South 300 East and
+       3360 South 354 East, currently zoned Residential Multiple, to include a
+       Townhome Overlay District.
+
+       A motion was made to move this item as Unfinished Business to the next Council
+       meeting on October 12, 2022.
+
+MOTION: Clarissa Williams
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:         Yes
+Huff:          Yes
+Mila:          Yes
+Pinkney:       Yes
+Siwik:         Yes
+Thomas:        Absent
+Williams:      Yes
+
+
+
+       Council Chair Bynum stated that there was no need for a closed meeting at this
+       time and opened the floor for a motion to adjourn this meeting.
+
+MOTION: LeAnne Huff
+SECOND: Natalie Pinkney
+
+Voice Vote:
+Bynum:        Yes
+Huff:         Yes
+Mila:         Yes
+Pinkney:      Yes
+Siwik:        Yes
+Thomas:       Absent
+Williams:     Yes
+
+                                           4
+South Salt Lake- Regular Council Meeting                       September 28, 2022
+
+
+
+
+       The meeting adjourned at 8:03 p.m.
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            5

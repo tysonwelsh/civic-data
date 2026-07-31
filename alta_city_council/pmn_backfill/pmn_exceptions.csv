@@ -1,0 +1,11 @@
+date,body_id,kind,reason,verified_date
+2023-11-28,1602,draft,"only PMN copy of the PC minutes is a pre-approval DRAFT (watermark on every page; PDF authored 2024-02-23, before its pre-printed 2024-02-27 approval date); approved version never posted to PMN; logged in planning_commission/minutes_unrecovered.csv - not a live recovery lead",2026-07-16
+2024-08-14,1602,mislabel,a COUNCIL meeting mis-FILED under PC body 1602 (bundled in the 2024-08-28 PC notice); recovered and promoted into meeting_minutes (provenance=pmn_minutes) - not a PC gap,2026-07-16
+2021-02-26,1601,not_minutes,"Budget Committee (fiscal subcommittee, out-of-scope per pmn_bodies body 8621) minutes cross-filed under Town Council(1601)",2026-07-17
+2022-03-01,1601,not_minutes,Budget Committee minutes cross-filed under 1601 - out-of-scope subcommittee,2026-07-17
+2022-03-18,1601,not_minutes,Budget Committee ('catch up') minutes under 1601 - out-of-scope subcommittee,2026-07-17
+2024-03-29,1601,not_minutes,Budget Committee #1 minutes under 1601 - out-of-scope subcommittee,2026-07-17
+2024-04-16,1601,not_minutes,Budget Committee #2 minutes under 1601 - out-of-scope subcommittee,2026-07-17
+2020-04-13,1601,other,Budget Committee agenda cross-filed under 1601 - out-of-scope subcommittee,2026-07-17
+2021-03-12,1601,other,Budget Committee agenda under 1601 - out-of-scope subcommittee,2026-07-17
+2022-06-06,1601,other,Budget Committee agenda under 1601 - out-of-scope subcommittee,2026-07-17

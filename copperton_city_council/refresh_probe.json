@@ -1,0 +1,621 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "godaddy+pmn",
+    "index_max_date": "2026-05-20",
+    "index_rows": 106,
+    "status": "ok",
+    "new_count": 19,
+    "new_items": [
+      {
+        "date": "2019-04-23",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-07-07",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-08-18",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-06-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-06-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-03-21",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-10-19",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-09-19",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-11-21",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-11-25",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-12-20",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-06-02",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-06-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-08-29",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-09-17",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-12-17",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-06-17",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-07-15",
+        "title": "Copperton meeting",
+        "url": ""
+      }
+    ],
+    "notes": "PMN body 5831 + GoDaddy town site; 19 candidate new meeting date(s); 1 pre-2018-07 notices 404-purged (honest gap). Open each doc to confirm minutes vs agenda before ingesting.",
+    "fetch_cmd": "feed real NEW dates to meeting_minutes/fetch_minutes.py"
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "pmn",
+    "index_max_date": "2025-05-13",
+    "index_rows": 17,
+    "status": "ok",
+    "new_count": 100,
+    "new_items": [
+      {
+        "date": "2018-07-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2018-08-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2018-09-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2018-10-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2018-11-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2018-12-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-01-15",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-02-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-04-25",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-06-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-06-26",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-08-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-09-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-10-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-11-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2019-12-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-01-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-01-30",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-03-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-03-26",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-04-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-05-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-06-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-06-24",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-07-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-07-29",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-08-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-08-26",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-09-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-09-16",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-10-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-11-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2020-12-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-01-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-02-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-03-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-04-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-05-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-06-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-07-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-08-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-09-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-10-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-11-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2021-12-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-01-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-04-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-05-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-06-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-07-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-08-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-09-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-10-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2022-11-15",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-02-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-03-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-04-25",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-05-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-07-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-08-15",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-09-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-10-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-11-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2023-12-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-01-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-02-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-03-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-04-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-05-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-06-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-07-09",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-08-13",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-10-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-11-12",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2024-12-10",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-01-14",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-02-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-03-11",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-04-08",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-06-04",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-08-06",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-09-03",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-10-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2025-12-03",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-01-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-01-07",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-02-04",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-03-04",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-04-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-05-06",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-06-03",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-07-01",
+        "title": "Copperton meeting",
+        "url": ""
+      },
+      {
+        "date": "2026-08-05",
+        "title": "Copperton meeting",
+        "url": ""
+      }
+    ],
+    "notes": "PMN body 1560; 100 candidate new meeting date(s); 116 pre-2018-07 notices 404-purged (honest gap). Open each doc to confirm minutes vs agenda before ingesting.",
+    "fetch_cmd": "feed real NEW dates to meeting_minutes/fetch_minutes.py"
+  }
+}

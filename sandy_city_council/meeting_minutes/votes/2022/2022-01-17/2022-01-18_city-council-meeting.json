@@ -1,0 +1,45 @@
+{
+ "date": "2022-01-18",
+ "year": 2022,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2022/2022-01-17/2022-01-18_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson to amend Resolution 21-03, a resolution appointing Mr. Scott Earl to fill the District 4 Council seat vacancy",
+   "motion_type": "Appointment",
+   "result": "6-0 Pass",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Alison Stroud, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Alison Stroud",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 2
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2026-01-08",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1396111.pdf",
+ "path": "minutes/2026/2026-01-05/2026-01-08_city-council-meeting_1396111.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Durham",
+   "seconder": "Gray",
+   "motion": "APPROVE Resolution 2026-01 - Appointing a New Mayor Pro-Tem, with Drew Quinn serving as the Mayor Pro-Tem",
+   "motion_type": "Resolution",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Bradley",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Sundwall",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Quinn",
+   "motion": "APPROVE Resolution 2026-02 - Approving a Lease Agreement with Woodbury Corporation for the Temporary City Hall Location, with the understanding that it is possible to sign a revised Lease Agreement as long as the financial terms are not materially different than what has been presented in the Lease Agreement",
+   "motion_type": "Resolution",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Bradley",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Sundwall",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Durham",
+   "seconder": "Gray",
+   "motion": "APPROVE the Consent Agenda",
+   "motion_type": "Other",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Quinn",
+   "seconder": "Gray",
+   "motion": "RECESS the City Council Meeting and RECONVENE in a Work Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 5,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Sundwall",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

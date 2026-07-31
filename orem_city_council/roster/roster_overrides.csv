@@ -1,0 +1,7 @@
+# roster_overrides.csv — Orem hand-correction layer (applied LAST by roster_lib, wins ties).
+# Keyed by (seat_id, person_key, start_date); any non-empty cell overwrites the generated row,
+# and 'override:roster_overrides.csv' is appended to that row's sources. Lines starting with
+# '#' are ignored. Currently 0 data rows — the generated council_terms.csv is fully sourced.
+# Add a row here (never hand-edit council_terms.csv) if, e.g., a pre-floor 2018 seating date or
+# a future mid-term appointment/resignation date is later documented.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

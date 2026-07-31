@@ -1,0 +1,101 @@
+{
+ "date": "2023-08-09",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2023/2023-08-07/2023-08-09_planning-commission-meeting.md",
+ "attendance": [
+  "Alan Hancock",
+  "Cory Thomson",
+  "Fran Petersen",
+  "John Ford"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "accept the rezone request",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 3:1",
+   "action_class": "recommendation",
+   "mover": "Fran Petersen",
+   "seconder": "John Ford",
+   "aye": [
+    "Cory Thomson",
+    "Fran Petersen",
+    "John Ford"
+   ],
+   "nay": [
+    "Alan Hancock"
+   ],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": true,
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "table this issue until the next meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Alan Hancock",
+   "seconder": "Fran Petersen",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Clean up code language in all zones to include the verbiage, “whichever is smaller” when referencing the maximum height and",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "John Ford",
+   "seconder": "Alan Hancock",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the regular meeting on 7/12/23",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Alan Hancock",
+   "seconder": "John Ford",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 4
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "adjourn at 9:04pm",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Fran Petersen",
+   "seconder": "Alan Hancock",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 5
+  }
+ ]
+}

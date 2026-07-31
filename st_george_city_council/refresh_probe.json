@@ -1,0 +1,53 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "revize",
+    "index_max_date": "2026-06-04",
+    "index_rows": 305,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://sgcityutah.gov/government/city_council/agendas_and_minutes.php",
+    "new_count": 4,
+    "notes": "",
+    "new_items": [
+      {
+        "date": "2026-06-18",
+        "title": "City Council Regular Meeting",
+        "url": "https://sgcityutah.gov/Documents/Government/City%20Council/Agendas%20And%20Minutes/2026/Minutes/2026.06.18%20%20Minutes%20Regular%20Meeting.pdf?t=202607171320400"
+      },
+      {
+        "date": "2026-06-18",
+        "title": "City Council Regular Meeting",
+        "url": "https://sgcityutah.gov/Documents/Government/City%20Council/Agendas%20And%20Minutes/2026/Minutes/2026.06.18%20%20Minutes%20Regular%20Meeting.pdf?t=202607171320400"
+      },
+      {
+        "date": "2026-06-18",
+        "title": "City Council Work Meeting",
+        "url": "https://sgcityutah.gov/Documents/Government/City%20Council/Agendas%20And%20Minutes/2026/Minutes/2026.06.18%20%20Minutes%20Work%20Meeting.pdf?t=202607171322410"
+      },
+      {
+        "date": "2026-07-02",
+        "title": "City Council Regular Meeting",
+        "url": "https://sgcityutah.gov/Documents/Government/City%20Council/Agendas%20And%20Minutes/2026/Minutes/2026.07.02%20%20Regular%20Meeting%20Minutes.pdf?t=202607171316250"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "revize",
+    "index_max_date": "2026-06-09",
+    "index_rows": 132,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://sgcityutah.gov/departments/community_development/planning_commission.php",
+    "new_count": 1,
+    "notes": "",
+    "new_items": [
+      {
+        "date": "2026-06-23",
+        "title": "Planning Commission",
+        "url": "https://sgcityutah.gov/PC%20Minutes%20%2006.23.2026.pdf?t=202607161148150"
+      }
+    ]
+  }
+}

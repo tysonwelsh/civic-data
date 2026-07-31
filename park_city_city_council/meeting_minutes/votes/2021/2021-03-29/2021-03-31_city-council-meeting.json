@@ -1,0 +1,53 @@
+{
+ "date": "2021-03-31",
+ "title": "City Council",
+ "body_slug": "city-council-meeting",
+ "source": "minutes/2021/2021-03-29/2021-03-31_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Council Member Gerber moved to close the meeting to discuss personnel at 3:40 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Becca Gerber",
+   "seconder": "Tim Henney",
+   "aye": [
+    "Max Doilney",
+    "Becca Gerber",
+    "Tim Henney",
+    "Steve Joyce",
+    "Nann Worel"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "Council Member Doilney moved to adjourn from Closed Meeting at 4:30 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Max Doilney",
+   "seconder": "Nann Worel",
+   "aye": [
+    "Max Doilney",
+    "Becca Gerber",
+    "Tim Henney",
+    "Steve Joyce",
+    "Nann Worel"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

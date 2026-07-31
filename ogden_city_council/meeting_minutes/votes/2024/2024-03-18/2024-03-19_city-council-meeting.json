@@ -1,0 +1,65 @@
+{
+ "date": "2024-03-19",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "body_default": "Council",
+ "source": "meeting_minutes/minutes/2024/2024-03-18/2024-03-19_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "MOVED TO APPROVE THE MINUTES AS PRESENTED. MOTION WAS SECONDED BY COUNCIL MEMBER MYERS,",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice Pass",
+   "mover": null,
+   "seconder": "Shaun Myers",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "ON A MOTION BY COUNCIL MEMBER CHOBERKA AND SECONDED BY COUNCIL MEMBER MYERS, ORDINANCE 2024-6 WAS ADOPTED [ENTITLED: \"An ordinance of Ogden City, Utah, amending Section 3-14-6 of the Ogden Municipal Code to extend the sunset provision for the Marshall N. White Center Advisory Committee to April 30, 2026; and by providing that this ordinance shall become effective immediately upon posting after final passage.\"]",
+   "motion_type": "Ordinance",
+   "result": "6-0 Pass",
+   "mover": "Angela Choberka",
+   "seconder": "Shaun Myers",
+   "aye": [
+    "Angela Choberka",
+    "Dave Graf",
+    "Richard A. Hyer",
+    "Shaun Myers",
+    "Marcia L. White",
+    "Ken Richey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Bart E. Blair"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "subject": "An ordinance of Ogden City, Utah, amending Section 3-14-6 of the Ogden Municipal Code to extend the sunset provision for the Marshall N. White Center Advisory Committee to April 30, 2026; and by providing that this ordinance shall become effective immediately upon posting after final passage.",
+   "subject_source": "ENTITLED",
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "MOVED THE MEETING ADJOURN AT 6:38 P.M. MOTION WAS SECONDED BY VICE CHAIR WHITE,",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice Pass",
+   "mover": null,
+   "seconder": "Marcia L. White",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 3
+  }
+ ]
+}

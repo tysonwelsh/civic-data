@@ -1,0 +1,345 @@
+Draper Planning Commission — vote extraction validation report
+========================================================================
+Meeting JSONs             : 143  (with >=1 motion: 143)
+Motions extracted         : 911   (with a case number: 206)
+
+Motion-type distribution:
+   Land-Use/Zoning              563
+   Procedural/Administrative    217
+   Other                        113
+   Appointment                  17
+   Ordinance                    1
+
+Recommendation vs final-action (from result string):
+   Approved (Final Action)      520
+   Positive Recommendation      200
+   Pass                         156
+   Negative Recommendation      28
+   Denied (Final Action)        5
+   other                        1
+   Fail                         1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED COMMISSIONERS (appointed body; size varies):
+------------------------------------------------------------------------
+
+2020:
+   Commissioner Player          109
+   Commissioner Van Hoff        87
+   Commissioner Squire          83
+   Commissioner Ogden           62
+   Commissioner Hawker          59
+   Commissioner Gundersen       52
+   Commissioner Tonks           45
+   Commissioner Fowler          43
+   Commissioner Bingham         22
+   Commissioner Adams           4
+
+2021:
+   Commissioner Van Hoff        79
+   Commissioner Ogden           77
+   Commissioner Nixon           67
+   Commissioner Squire          66
+   Commissioner Fowler          48
+   Commissioner Tonks           48
+   Commissioner Hawker          46
+   Commissioner Bingham         33
+   Commissioner Player          12
+
+2022:
+   Commissioner Fowler          90
+   Commissioner Squire          81
+   Commissioner Hawker          81
+   Commissioner Nixon           72
+   Commissioner Ogden           52
+   Commissioner Tonks           52
+   Commissioner Bingham         47
+   Commissioner Van Hoff        24
+   Commissioner Shirey          8
+
+2023:
+   Commissioner Nixon           65
+   Commissioner Fowler          63
+   Commissioner Ogden           61
+   Commissioner Squire          60
+   Commissioner Hawker          39
+   Commissioner Shirey          37
+   Commissioner Tonks           27
+   Commissioner Bingham         26
+   Commissioner Fidler          19
+
+2024:
+   Commissioner Nixon           87
+   Commissioner Squire          80
+   Commissioner Fowler          71
+   Commissioner Fidler          70
+   Commissioner Shirey          66
+   Commissioner Shah            66
+   Commissioner Ogden           57
+   Commissioner Green           56
+   Commissioner Adams           3
+
+2025:
+   Commissioner Fowler          133
+   Commissioner Squire          133
+   Commissioner Nixon           133
+   Commissioner Fidler          133
+   Commissioner Ogden           133
+   Commissioner Shirey          133
+   Commissioner Green           133
+   Commissioner Shah            122
+   Commissioner Adams           101
+
+2026:
+   Commissioner Fowler          55
+   Commissioner Nixon           55
+   Commissioner Shirey          55
+   Commissioner Ogden           55
+   Commissioner Green           55
+   Commissioner Squire          55
+   Commissioner Adams           55
+   Commissioner Fidler          55
+   Commissioner Best            18
+
+------------------------------------------------------------------------
+TALLY-VS-NAMED MISMATCHES: 7
+Named counts vs the minutes' printed tally — source typo or parse miss; not fixed.
+------------------------------------------------------------------------
+   2020-05-14 m3: named aye=4 nay=0 vs printed 4-1 :: 4-1 Positive Recommendation :: Commissioner Squire motioned to forward a positive
+   2021-07-22 m7: named aye=4 nay=0 vs printed 4-1 :: 4-1 Approved (Final Action) :: Commissioner Van Hoff motioned to approve the park
+   2021-10-14 m5: named aye=4 nay=0 vs printed 3-0 :: 3-0 Pass :: Commissioner Tonks motioned to move item six of th
+   2022-02-10 m2: named aye=4 nay=0 vs printed 3-2 :: 3-2 Approved (Final Action) :: Commissioner Squire motioned to approve Home Occup
+   2022-10-13 m4: named aye=4 nay=0 vs printed 5-0 :: 5-0 Approved (Final Action) :: Commissioner DeLaina Tonks made a motion to approv
+   2022-11-17 m3: named aye=5 nay=0 vs printed 5-1 :: 5-1 Approved (Final Action) :: Commissioner Nixon made a motion to approve the si
+   2025-03-27 m4: named aye=5 nay=0 vs printed 4-1 :: 5-0 Negative Recommendation :: Commissioner Fowler moved to forward a NEGATIVE re
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+CONTESTED / NON-AYE VOTES (Nay/Abstain/Recuse) — the signal: 220
+Recusals are common (a commissioner with a conflict); Nay is real dissent.
+------------------------------------------------------------------------
+   2020-01-23 m2 3-2 Negative Recommendation | NAY=['Commissioner Player', 'Commissioner Fowler'] ABSTAIN=[] RECUSE=[] :: Commissioner Mary Squire motioned to submit a negative recommendation 
+   2020-02-13 m4 4-1 Negative Recommendation | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire motioned to forward a negative recommendation to C
+   2020-02-27 m3 3-2 Positive Recommendation | NAY=['Commissioner Van Hoff', 'Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Tonks motioned to forward a positive recommendation to Ci
+   2020-02-27 m4 3-2 Positive Recommendation | NAY=['Commissioner Van Hoff', 'Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Ogden motioned to forward a positive recommendation to Ci
+   2020-04-02 m9 4-1 Positive Recommendation | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Craig Hawker made a motion to give a positive recommendat
+   2020-05-28 m3 4-1 Negative Recommendation | NAY=['Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Player moved to forward a negative recommendation to the 
+   2020-05-28 m4 4-1 Negative Recommendation | NAY=['Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire moved to forward a negative recommendation to the 
+   2020-05-28 m5 4-1 Negative Recommendation | NAY=['Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff moved to forward a negative recommendation to Ci
+   2020-06-11 m4 4-1 Negative Recommendation | NAY=['Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire moved to forward a negative recommendation to the 
+   2020-06-11 m5 4-1 Negative Recommendation | NAY=['Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire moved to forward a negative recommendation to the 
+   2020-06-11 m10 2-3 Approved (Final Action) | NAY=['Commissioner Ogden', 'Commissioner Squire', 'Commissioner Tonks'] ABSTAIN=[] RECUSE=[] :: Commissioner Player made a motion to approve the request by Jim and Lo
+   2020-06-11 m11 3-2 Denied (Final Action) | NAY=['Commissioner Player', 'Commissioner Gundersen'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire made a motion to deny the Home Occupation Conditio
+   2020-07-09 m2 3-2 Approved (Final Action) | NAY=['Commissioner Hawker', 'Commissioner Van Hoff'] ABSTAIN=[] RECUSE=[] :: Commissioner Player moved to approve the fencing deviation to DCMC sec
+   2020-07-09 m3 3-2 Approved (Final Action) | NAY=['Commissioner Hawker', 'Commissioner Van Hoff'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire made a motion to approve the site plan as requeste
+   2020-07-09 m5 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff moved to approve the deviation to the roofline l
+   2020-07-09 m8 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Player moved to approve the deviation to building placeme
+   2020-07-09 m10 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Ogden moved to approve the site plan as requested by Eliz
+   2020-07-23 m4 4-1 Positive Recommendation | NAY=['Commissioner Van Hoff'] ABSTAIN=[] RECUSE=[] :: Commissioner Ogden moved to forward a positive recommendation to City
+   2020-09-03 m4 4-1 Positive Recommendation | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff made a motion to forward a positive recommendati
+   2020-09-03 m5 4-1 Positive Recommendation | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler made a motion to forward a positive recommendation
+   2020-09-10 m3 3-1 Approved (Final Action) | NAY=['Commissioner Fowler'] ABSTAIN=[] RECUSE=[] :: Commissioner Player made a motion to approve the deviation site plan s
+   2020-11-12 m4 4-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=['Commissioner Tonks'] :: Commissioner Player motioned to forward a positive recommendation to t
+   2020-12-17 m13 4-1 Approved (Final Action) | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff motioned to approve the Site Plan as requested b
+   2020-12-17 m14 4-1 Approved (Final Action) | NAY=['Commissioner Player'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler motioned to approve the final subdivision plat as 
+   2021-02-25 m3 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff motioned to approve the amended site plan as req
+   2021-05-13 m4 4-1 Negative Recommendation | NAY=['Commissioner Hawker'] ABSTAIN=[] RECUSE=[] :: Commissioner Van Hoff made a motion to send a negative recommendation 
+   2021-05-13 m9 Approved (Final Action) (voice/tally-only) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Ogden'] :: Commissioner Ogden made a motion to approve the site plan amendment Br
+   2021-07-22 m2 4-1 Approved (Final Action) | NAY=['Commissioner Van Hoff'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon motioned to approve the Conditional Use Permit as r
+   2021-10-14 m3 3-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Ogden'] :: Commissioner Fowler motioned to forward a positive recommendation to C
+   2021-10-14 m4 3-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Ogden'] :: Commissioner Nixon motioned to forward a positive recommendation to Ci
+   2021-11-18 m3 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler motioned to approve deviation for increased height
+   2021-11-18 m4 4-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Ogden motioned to approve the site plan, as requested by 
+   2022-02-24 m1 4-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler motioned to send a positive recommendation to the 
+   2022-02-24 m2 4-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon motioned to forward a positive recommendation to th
+   2022-02-24 m6 3-2 Negative Recommendation | NAY=['Commissioner Hawker', 'Commissioner Nixon'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire motioned to send a negative recommendation to the 
+   2022-02-24 m7 3-2 Positive Recommendation | NAY=['Commissioner Hawker', 'Commissioner Ogden'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon motioned to forward a positive recommendation to th
+   2022-03-24 m5 4-1 Positive Recommendation | NAY=['Commissioner Hawker'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler motioned to forward a positive recommendation to t
+   2022-07-14 m5 3-1 Positive Recommendation | NAY=['Commissioner Hawker'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon motioned to make a positive recommendation to the C
+   2022-08-11 m2 3-2 Negative Recommendation | NAY=['Commissioner Hawker', 'Commissioner Nixon'] ABSTAIN=[] RECUSE=[] :: Commissioner Mary Squire motioned to send a negative recommendation to
+   2022-11-17 m4 4-1 Positive Recommendation | NAY=['Commissioner Hawker'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler made a motion for a positive recommendation to the
+   2022-12-08 m6 3-1 Negative Recommendation | NAY=['Commissioner Nixon'] ABSTAIN=[] RECUSE=[] :: Commissioner Fowler motioned to make a negative recommendation for a Z
+   2023-08-24 m4 3-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon moved to send a POSITIVE recommendation to the City
+   2024-06-13 m2 4-1 Pass | NAY=['Commissioner Shah'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire moved to CONTINUE the Street Improvement Deviation
+   2024-06-13 m3 4-1 Pass | NAY=['Commissioner Shah'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon moved to CONTINUE the Subdivision Plat Amendment as
+   2024-06-13 m8 3-2 Negative Recommendation | NAY=['Commissioner Nixon', 'Commissioner Fidler'] ABSTAIN=[] RECUSE=[] :: Commissioner Squire moved to forward a NEGATIVE recommendation to City
+   2024-10-10 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the minutes of August 8, 2024, as 
+   2024-10-10 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the minutes of August 22, 2024
+   2024-10-10 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Subdivision Plat Amendment as
+   2024-10-10 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2024-10-10 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2024-10-10 m6 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2024-10-10 m7 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Home Occupation Conditional U
+   2024-10-10 m8 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2024-10-24 m3 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Shirey moved to APPROVE the Conditional Use Permit as req
+   2024-11-21 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Fowler'] RECUSE=['Commissioner Fidler'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2024-11-21 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler', 'Commissioner Shah', 'Commissioner Green'] :: Commissioner Squire moved to APPROVE the Conditional Use Permit, as re
+   2024-11-21 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler', 'Commissioner Green'] :: Commissioner Fowler moved to APPROVE the Site Plan Amendment as reques
+   2024-12-12 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Green'] :: Commissioner Shirey moved to APPROVE the Request for an Extension of A
+   2024-12-12 m2 4-1 Positive Recommendation | NAY=['Commissioner Shirey'] ABSTAIN=[] RECUSE=['Commissioner Green'] :: Commissioner Shah moved to forward A POSITIVE RECOMMENDATION to the Ci
+   2025-01-23 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Fidler', 'Commissioner Shah', 'Commissioner Green'] :: Commissioner Squire moved to APPROVE the Conditional Use Permit as req
+   2025-02-27 m3 2-1 Positive Recommendation | NAY=['Commissioner Shah'] ABSTAIN=[] RECUSE=[] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-03-13 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Ogden moved to APPROVE the Conditional Use Permit, as req
+   2025-03-13 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the Conditional Use Permit, as req
+   2025-03-13 m3 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-03-13 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-03-13 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-03-13 m8 4-1 Positive Recommendation | NAY=['Commissioner Fowler'] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-03-27 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the January 9, 2025, January 23, 2
+   2025-03-27 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Deviation request from strict
+   2025-03-27 m3 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Nixon'] RECUSE=['Commissioner Shah'] :: Commissioner Shirey moved to APPROVE the Deviation Request from strict
+   2025-03-27 m4 5-0 Negative Recommendation | NAY=[] ABSTAIN=['Commissioner Shah'] RECUSE=[] :: Commissioner Fowler moved to forward a NEGATIVE recommendation to the 
+   2025-03-27 m5 4-1 Negative Recommendation | NAY=['Commissioner Fidler'] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to forward a NEGATIVE recommendation to the 
+   2025-03-27 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit, as re
+   2025-03-27 m7 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Shirey moved to forward a POSITIVE RECOMMENDATION to the 
+   2025-04-10 m1 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to APPROVE the Planning Commission Meeting M
+   2025-04-10 m2 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to APPROVE the Preliminary Subdivision Plat a
+   2025-04-10 m3 3-1 Approved (Final Action) | NAY=['Commissioner Squire'] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to APPROVE the Home Occupation Conditional Us
+   2025-04-10 m4 4-0 Negative Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Ogden', 'Commissioner Shirey', 'Commissioner Fidler', 'Commissioner Green'] :: Commissioner Squire moved to forward a NEGATIVE recommendation to the 
+   2025-04-10 m5 4-0 Negative Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a NEGATIVE recommendation to the 
+   2025-04-10 m6 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-04-10 m7 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Squire moved to forward a POSITIVE recommendation to the 
+   2025-04-10 m8 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-04-24 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to APPROVE the Site Plan Extension as reques
+   2025-04-24 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to APPROVE the Deviation Request from strict 
+   2025-04-24 m3 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-04-24 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to APPROVE the Home Occupation Conditional Us
+   2025-04-24 m5 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to APPROVE the Amended Subdivision Plat, App
+   2025-04-24 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Ogden moved to APPROVE the Home Occupation Conditional Us
+   2025-04-24 m7 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-05-08 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Subdivision Plat Amendment, a
+   2025-05-08 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Shah'] :: Commissioner Fowler moved to APPROVE the Home Occupation – Conditional
+   2025-05-22 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Nixon moved to APPROVE the March 13, 2025, Planning Commi
+   2025-05-22 m2 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Squire moved to forward a POSITIVE recommendation to the 
+   2025-05-22 m3 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Ogden moved to forward a POSITIVE recommendation to the C
+   2025-05-22 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-06-12 m1 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-06-12 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2025-06-12 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to APPROVE the Site Plan, as requested by Eli
+   2025-06-12 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2025-06-12 m5 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Preliminary Subdivision Plat,
+   2025-06-12 m6 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to forward a POSITIVE recommendation to the 
+   2025-06-12 m7 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Preliminary Subdivision Plat,
+   2025-06-12 m9 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Shah'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-06-26 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams', 'Commissioner Fidler'] RECUSE=[] :: Commissioner Nixon moved to APPROVE the April 10, 2025, and April 24, 
+   2025-06-26 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams', 'Commissioner Ogden', 'Commissioner Green', 'Commissioner Fidler'] RECUSE=[] :: Commissioner Shah moved to APPROVE the Deviation Request from Strict C
+   2025-06-26 m3 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams', 'Commissioner Fidler'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE RECOMMENDATION to the 
+   2025-06-26 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams', 'Commissioner Fidler'] RECUSE=[] :: Commissioner Squire moved to APPROVE the Subdivision Plat Amendment, a
+   2025-07-10 m4 3-2 Negative Recommendation | NAY=['Commissioner Ogden', 'Commissioner Shah'] ABSTAIN=[] RECUSE=[] :: Commissioner Shirey moved to forward a NEGATIVE recommendation to the 
+   2025-07-10 m5 3-2 Negative Recommendation | NAY=['Commissioner Ogden', 'Commissioner Shah'] ABSTAIN=[] RECUSE=[] :: Commissioner Shirey moved to forward a NEGATIVE recommendation to the 
+   2025-07-31 m1 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Squire moved to forward a POSITIVE RECOMMENDATION to the 
+   2025-07-31 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Ogden moved to APPROVE the CUP as requested by Robert Poi
+   2025-07-31 m3 5-0 Denied (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Shirey moved to DENY the Home Occupational CUP as request
+   2025-08-14 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to APPROVE the Subdivision Plat Amendment, a
+   2025-08-28 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to approve the June 12, June 26, and July 10,
+   2025-08-28 m2 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-08-28 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Ogden moved to APPROVE the Home Occupation Conditional Us
+   2025-08-28 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shah moved to forward a POSITIVE recommendation to the Ci
+   2025-08-28 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2025-08-28 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Squire', 'Commissioner Shirey', 'Commissioner Green'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit, as re
+   2025-08-28 m7 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shah moved to forward a POSITIVE recommendation to the Ci
+   2025-08-28 m8 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shah moved to forward a POSITIVE recommendation to the Ci
+   2025-08-28 m9 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-08-28 m10 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shah moved to forward a POSITIVE recommendation to the Ci
+   2025-09-11 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Nixon moved to APPROVE the July 31, 2025, and August 14, 
+   2025-09-11 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit Amendm
+   2025-09-11 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Nixon moved to APPROVE the Site Plan, as requested by Rob
+   2025-09-11 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler'] :: Commissioner Ogden moved to APPROVE the Home Occupation Conditional Us
+   2025-10-09 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Squire moved to APPROVE the September 11, 2025, Planning 
+   2025-10-09 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Nixon moved to APPROVE the Subdivision Plat Amendment, as
+   2025-10-09 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Shirey moved to APPROVE the Deviation request from strict
+   2025-10-09 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Ogden moved to forward a POSITIVE recommendation to the C
+   2025-10-09 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah', 'Commissioner Green'] :: Commissioner Squire moved to forward a POSITIVE recommendation to the 
+   2025-10-23 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the September 25, 2025, Planning C
+   2025-10-23 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the Plat Amendment, as requested b
+   2025-10-23 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Squire moved to APPROVE the Parking Deviation, as request
+   2025-10-23 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the Site Plan, as requested by Rob
+   2025-10-23 m5 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Squire moved to APPROVE the Conditional Use Permit, as re
+   2025-10-23 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Fidler moved to APPROVE the Home Occupation Conditional U
+   2025-10-23 m7 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Shah'] :: Commissioner Nixon moved to APPROVE the Eagle Crest No. 3 at Suncrest 
+   2025-11-13 m1 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to APPROVE the October 9, 2025, Planning Com
+   2025-11-13 m2 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to APPROVE the October 23, 2025, Planning Co
+   2025-11-13 m3 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m4 4-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shah moved to APPROVE the Subdivision Plat Amendment, as 
+   2025-11-13 m5 3-1 Approved (Final Action) | NAY=['Commissioner Shah'] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to APPROVE the Home Occupation Conditional U
+   2025-11-13 m6 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m7 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m8 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m9 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m10 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m11 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m12 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-11-13 m13 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2025-11-20 m1 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit, as re
+   2025-11-20 m2 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Amendment to the Home Occupat
+   2025-11-20 m3 4-0 Negative Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to forward a NEGATIVE recommendation to the 
+   2025-11-20 m4 4-0 Negative Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to forward a NEGATIVE recommendation to the 
+   2025-11-20 m5 4-0 Negative Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved that the Planning Commission forward a NEGAT
+   2025-11-20 m6 4-0 Negative Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved that the Planning Commission forward a NEGAT
+   2025-12-11 m1 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Ogden moved to APPROVE the November 13, 2025 Planning Com
+   2025-12-11 m2 4-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-12-11 m3 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Ogden moved to APPROVE the Conditional Use Permit, by Jim
+   2025-12-11 m4 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to approve the Conditional Use Permit Amendm
+   2025-12-11 m5 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2025-12-11 m6 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Deviation for Building Orient
+   2025-12-11 m7 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Ogden moved to APPROVE the Deviation for Cross Access, as
+   2025-12-11 m8 4-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Site Plan, as requested by Ti
+   2025-12-11 m9 4-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2025-12-18 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=[] :: Commissioner Squire moved to APPROVE the Subdivision Plat Amendment, a
+   2025-12-18 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit amendm
+   2026-01-08 m1 5-0 Pass | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Ogden moved to APPOINT Andrew Adams as Planning Commissio
+   2026-01-08 m2 5-0 Pass | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Nixon moved to APPOINT Lisa Fowler as Planning Commission
+   2026-01-08 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Fowler moved to APPROVE the Home Occupation Conditional U
+   2026-01-08 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Shirey moved to APPROVE the Conditional Use Permit, as re
+   2026-01-08 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2026-01-08 m6 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Fidler'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2026-01-22 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Green'] :: Commissioner Squire moved to APPROVE the November 20, 2025, Planning C
+   2026-01-22 m2 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Green'] :: Commissioner Nixon moved to forward a POSITIVE recommendation to the C
+   2026-01-22 m3 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Green'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2026-01-22 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Green'] :: Commissioner Ogden moved to forward a POSITIVE recommendation to the C
+   2026-01-22 m5 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Green'] :: Commissioner Squire moved to forward a POSITIVE recommendation to the 
+   2026-02-26 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to APPROVE the Cross Access Deviation, as re
+   2026-02-26 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Site Plan, as requested by Ga
+   2026-02-26 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Home Occupation Conditional U
+   2026-02-26 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward positive recommendations of APPRO
+   2026-03-12 m1 4-1 Negative Recommendation | NAY=['Commissioner Fidler'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward a NEGATIVE recommendation to the 
+   2026-03-12 m2 4-1 Negative Recommendation | NAY=['Commissioner Fidler'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to forward a NEGATIVE recommendation to the 
+   2026-03-12 m3 4-1 Negative Recommendation | NAY=['Commissioner Fidler'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to forward a NEGATIVE recommendation to the C
+   2026-03-12 m4 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward a POSITIVE recommendation to the 
+   2026-03-12 m5 4-1 Approved (Final Action) | NAY=['Commissioner Nixon'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to APPROVE the Parking Deviation as requeste
+   2026-03-12 m6 4-1 Approved (Final Action) | NAY=['Commissioner Nixon'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to APPROVE the Site Plan, as requested by Ri
+   2026-03-12 m7 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to forward a positive recommendation to the C
+   2026-03-12 m8 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward a positive recommendation to the 
+   2026-03-26 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to APPROVE the January 8, 2026, and January 2
+   2026-03-26 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Home Occupation Conditional U
+   2026-03-26 m3 4-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward a positive recommendation to the 
+   2026-03-26 m4 4-1 Positive Recommendation | NAY=['Commissioner Squire'] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Fowler moved to forward a positive recommendation to the 
+   2026-04-23 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the February 12, 2026, and Februa
+   2026-04-23 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to APPROVE the Amended Subdivision Plat, Appl
+   2026-04-23 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Ogden moved to APPROVE the Parking Deviation, as requeste
+   2026-04-23 m4 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Nixon moved to APPROVE the Site Plan, as requested by Bra
+   2026-04-23 m5 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Squire moved to APPROVE the Park Strip Deviation, as requ
+   2026-04-23 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams'] :: Commissioner Shirey moved to APPROVE the Preliminary Subdivision Plat,
+   2026-05-14 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Nixon moved to APPROVE the Subdivision Plat Amendment, as
+   2026-05-14 m2 5-0 Positive Recommendation | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Fowler moved to forward a POSITIVE RECOMMENDATION to the 
+   2026-05-14 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Fowler moved to APPROVE the Home Occupation Conditional U
+   2026-05-14 m4 4-1 Positive Recommendation | NAY=['Commissioner Green'] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Fowler moved to forward a POSITIVE RECOMMENDATION to the 
+   2026-05-14 m5 4-1 Positive Recommendation | NAY=['Commissioner Green'] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Squire moved to forward a POSITIVE RECOMMENDATION to the 
+   2026-05-14 m6 4-1 Approved (Final Action) | NAY=['Commissioner Green'] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Nixon moved to APPROVE the Conditional Use Permit, as req
+   2026-05-14 m7 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Fowler moved to APPROVE the Preliminary Subdivision Plat,
+   2026-05-14 m8 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Nixon moved to APPROVE the Conditional Use Permit, as req
+   2026-05-14 m9 5-0 Approved (Final Action) | NAY=[] ABSTAIN=[] RECUSE=['Commissioner Adams', 'Commissioner Best'] :: Commissioner Squire moved to APPROVE the Conditional Use Permit, as re
+   2026-05-28 m1 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Fowler moved to APPROVE the Conditional Use Permit, as re
+   2026-05-28 m2 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Shirey moved to APPROVE the Conditional Use Permit, as re
+   2026-05-28 m3 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Ogden moved to APPROVE the Conditional Use Permit, as req
+   2026-05-28 m4 5-0 Pass | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Fowler moved to SUSPEND the hearing on Application 2025-0
+   2026-05-28 m5 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Squire moved to APPROVE the Conditional Use Permit, as re
+   2026-05-28 m6 5-0 Approved (Final Action) | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Nixon moved to APPROVE the Home Occupation Conditional Us
+   2026-05-28 m7 5-0 Pass | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Nixon moved to RETURN to Item 1.d, Application 2025-0025-
+   2026-05-28 m8 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Shirey moved to forward a POSITIVE recommendation to the 
+   2026-05-28 m9 5-0 Positive Recommendation | NAY=[] ABSTAIN=['Commissioner Adams'] RECUSE=['Commissioner Fidler', 'Commissioner Best'] :: Commissioner Squire moved to forward POSITIVE recommendations to the C
+

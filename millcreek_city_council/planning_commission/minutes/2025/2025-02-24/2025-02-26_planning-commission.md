@@ -1,0 +1,599 @@
+# Millcreek Planning Commission — 2025-02-26
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02262025-884
+> Meeting date: 2025-02-26
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Special Meeting Agenda and Packet
+- **Date:** 2025-02-26
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02262025-884
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                      Minutes             of the
+                                                                        Millcreek        Planning               Commission
+                                                                                    February            26, 2025
+                                                                                              5:00     p.m.
+                                                                                      Special         Meeting
+
+
+The Planning              Commission             of Millcreek,         Utah, met in a special              public       meeting       on Wednesday,
+February          26, 2025,        at City       Hall,    located      at 1330 E. Chambers                Avenue,        Millcreek,        Utah      84106.
+The meeting              was conducted               electronically       and live streamed             via the City's         website        with    an
+option      for online        public        comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                           City     Staff
+Shawn       LaMar,         Chair                                                        Elyse        Sullivan,      City    Recorder
+Victoria         Reid,    Vice      Chair                                               Francis        Lilly,     Planning        Director
+Steven Anderson                                                                         John Brems,              City Attorney
+Christian         Larsen                                                                Brad     Sanderson,             Current     Planning         Manager
+Nils     Per Lofgren                                                                    Sean Murray,              Planner
+Jacob Richardson                                                                        Robert        May,       Long      Range Planning            Manager
+Diane      Soule                                                                        Zack Wendel,               Planning       Permit      Technician
+Dwayne           Vance                                                                  Jake Green,             Dev. Review           Specialist
+Ian Wright          (absent)                                                            Carlos        Estudillo,        Planner
+                                                                                        Ryan Bagshaw,               Dev. Review              Coordinator
+
+
+Attendees:          Judith        Goff,        Tim   Condrick,        Jens Day, Pam Smith,                 Chase Freebairn,            Abraham         Lopez,
+Vera     Schrodar,         Arnold         Wilcox,        Jeff Fraza, Nate Brockbank,                   Sean Philipsen,            Allen      Sowards,
+Jeremy        Semon,        Cori     Semon,          Collin   Bagley,      Brandon        Fry
+
+
+SPECIAI,            MEETING                - 5:00 p.m.
+TIME        COMMENCED                          - 5:03 p.m.
+
+
+Cliair    LaMar          called     the meeting          to order and briefly           described          the duties       of the Planning
+Coini'nission.
+
+
+1.   Public       Hearings
+       1.1 Consideration                  of    SD-24-011         & CU-24-005,            Request          for    a Conditional            Use Permit
+       and Subdivision               to Construct             a 20 Residential          Unit         Townhouse           Development              Location:
+       960 E Grape            Ivy     Way        Applicant:           Chase     Freebairn,           CW     Urban        Planner:         Brad
+       Sanderson
+       Corni'nissioner            Lofgren        declared      he previously         worked          for the predecessor             company         of CW
+       Urban,      CW Land           Co, for a few months                 in 2017. John Brems                   said recusal       from      the item was
+       not necessary          since he had disclosed                   the information.
+
+
+       Brad Sanderson               said the property            was recently        rezoned         to R-M        for this development.              The
+       approved          development             agreement       aimed        at mitigating      concerns          by staff. There           is a public
+       accesseasementon the priva.teroa.d.,Grape Tvy Way, which servesthe prnIierty T-Te
+                                                                                       reviewed
+Millcreek      Planning        Commission            Meeting        Minutes                       26 February              2025      Page 2 of 9
+
+
+
+    the items in the adopted              development            agreement        uses, ownership,            parking,        access,
+    landscaping        and open space, setbacks,                  fencing,      architecture,        street lighting,         and utilities.          The
+    project     proposes       20 townhouse           units,    each witli      three bedrooms,              and will      include      both
+    individual      ownership          and a subdivision           application.         The development               exceeds        certain    zoning
+    requirements,          such as parking           and side-yard       setbacks,         and incorporates             a buffer      of
+    landscaping        on the west side. The site layout                     includes     a private     road with           public     access,
+    where      road improvements             and utility       upgrades        will     take place,     including          the reconstructton
+    of a 30-foot-wide           road to accomi'nodate              parking       and travel       lanes. During            the plaru'iing
+    process,     concerns       regarding      parking,        roadwork,        and utility       disruptions         were raised,          but the
+    developer       corni'nitted       to coordinating         with    residents        to minimize          disruptions.         Ultimately,          staff
+    recommended             approval      of tlie conditional          use perinit       based on the development                     agreement's
+    stipulations.      He showed          elevations         of the buildings,          the landscape         plan,     site plan,         and Grape
+    Ivy Way improvements.                 The Millcreek            Coinmunity           Council      recoinmended             approval         of the
+    development         with    the exception          that green space in the development                        be reduced           to increase
+    parking      or that a reduction         in the number            of buildings        be considered.           Staff recoinmended
+    approval      of the application          based on the findings               in the staff report.
+
+
+    Cornrnissioner          Vance      asked about sidewalk              requirements            on the private         road.      Sanderson
+    noted there was no space for sidewalk                         on the frontage,         however       there was existing                 sidewalk
+    on the south side of Grape               Ivy Way that would                be coru'iected        with     the project's          internal
+    sidewalk.       Chair    LaMar       clarified     location       of the guest parking            stalls on the site plan.
+
+
+    Chase Freebairn,           representing          Cole West,        said they made every              effort       to coordinate          with     the
+    neighbors       for construction.
+
+
+    Allen      Sowards,      Millcreek      Coinrnunity           Council,      expressed         concern      about the lack of guest
+    parking      to accomn'iodate          the number          of people       within     the units.     The council              recommended
+    decreasing       the number          of units     or increasing       the parking.
+
+
+    Chair      LaMar       opened      the public      hearirtg       on CU-24-005.
+
+
+    Jeff Fraza, Grape Ivy HOA                 President,         said Grape           Ivy Way is very nanow.                 The property             to
+    the west of the subject             property      places individual               garbage    cans on the street which                   further
+    narrows      the drivability.        Each of those units has two designated                         parking         stalls and they still
+    utilize    street parking.
+
+
+    Cori      Semon,   Grape Ivy Way,               expressed      concern       with     parking,     access, and traffic              onto 900 E.
+    She asked for the city's              support     with     those concerns.
+
+
+    Sanderson        aclaiowledged          an email he had received                   from     a resident      about the project.
+
+
+    ChairLaMar             closed   the public        hearing.
+
+
+    Commissioner            Richardson        asked if the existing             trees would        remain       on the north          side of
+    Grape Ivy Way.             Sanderson      said one was likely              to get removed.          Commissioner                 Larsen     asked
+    about parking          requirements        and the traffic         study.     Sanderson          noted     a traffic     study was
+    conducted       with     the rezone      and it acknowledged                clear site of view            issues on 900 E with                  street
+    parking.     The corners        of the intersection            of 900 E and Grape              Ivy Way         may need to striped                 or
+Mfflcreek         Planning        Commission             Meeting          Minutes                     26 February           2025      Page 3 of 9
+
+
+
+    signed        to prevent        parking      too close to the intersection                  on 900 E. There           are no intentions              to
+    prevent        street parking           on Grape Ivy Way,               but it would        not be designated           for parking.           The
+    proposal        included        2 garage         spaces per unit and 8 surface                 parking      spaces. The code only
+    requires       45 stalls,       and the applicant            is providing        48 with       the potential        for 4 more street
+    parking        spots. The entire           width     and lengtli        of Grape Ivy Way               would       be reconstructed            by the
+    developers.
+
+
+Commissioner              Vance,       based       on the findings           and conclusions               by staff,    moved       that     the
+Planning         Commission            approve         application          file CU-24-005,           as proposed.          Commissioner
+Soule     seconded.         Chair        LaMar        called     for the vote.         Chair      LaMar        voted     yes, Commissioner
+Anderson          voted     yes, Commissioner                  Larsen       voted      yes, Commissioner                Lofgren       voted       yes,
+Commissioner              Reid      voted     yes, Commissioner                Richardson           voted      yes, Commissioner                  Soule
+voted     yes, and Commissioner                      Vance      voted      yes. The motion            passed        unanimously.
+
+
+    Sanderson            said the development              proposed         would      be subdivided           to allow     for owner
+    occupancy.            Property       not labeled       for units 1-20 would                be common            area. Commissioner               Vance
+    asked if the density              allowed        under      the R-M       Zone was greater             than what was proposed.
+    Sanderson            could    not recall       the density         allowed,     but the development                agreement       stipulated             the
+    20 units.
+
+
+    ChairLaMar              opened        the public      hearing         on SD-24-011.
+
+
+    There were no comments.
+
+
+    Chair        LaMar      closed       the public      hearing.
+
+
+Commissioner              Larsen,        based      on the findings           and conclusions               based      on the staff        report,
+moved       the Planning            Commission           approve          file number           SD-24-011,          as proposed.
+Commissioner              Reid      seconded.         Chair      LaMar        called    for the vote.          Chair      LaMar       voted        yes,
+Commissioner              Anderson          voted     yes, Commissioner                 Larsen        voted     yes, Commissioner
+Lofgren         voted     yes, Commissioner               Reid      voted     yes, Commissioner                 Richardson          voted      yes,
+Commissioner              Soule     voted     yes, and Commissioner                     Vance       voted      yes. The      motion        passed
+unanimously.
+
+
+   1.2 Consideration                 of SD-24-012,             Request       for    a 6 Residential           Unit      Subdivision         Location:
+    4433 S Garden                Drive      Applicant:          Nate     Brockbank          Planner:          Zack     Wendel
+    Zack Wendel             said the Comi'nission                had recently        seen the proposal              as a rezone     to the R-4-8.5
+    Zone.       The project         would      consist    of two residential             buildings,        each containing          three units           for a
+    total of six residential              units.     The applicant          is requesting         that each unit be subdivided                    into
+    individual          lots to make them available                    for individual      ownership.          The Planning           Commission
+    initially      recoinrnended            approval      of a development              project     with      four units,    but after presenting
+    it to the City         Council,       the developers           made redesigns              to better    align the project         with     the
+    surrounding           neighborhood's             aesthetic.      The City       Council       requested         that the development                 have
+    a more        single-family          appearance,           leading     to the revised         design      of two buildings,            each
+    containing          three units.        As part of the development                  agreement,          the developers         are required               to
+    subdivide           the property        before     receiving         their building        permit,      ensuring      that each unit is
+    individually          owned.       The approved             development          agreement           included      sections    on uses,
+    ownership,           parking,      landscaping         and open space, fencing,                  and architecture.            Wendel      presented
+Millcreek        Planning           Commission                 Meeting          Minutes                        26 February             2025       Page 4 of 9
+
+
+
+     the proposed           plat and building                  elevations.        Staff recoinmended                  approval         of the proposal           based
+     on the findings              and conclusions               of the staff report.
+
+
+     ChairLaMar              opened         the public          hearing.
+
+
+     Allen       Sowards,         resident      on Garden              Drive,     wondered           how six units were allowed                     on this
+     property.      The changes              from       the city council            were not brought                 back to the comtnunity                  council
+     or neighborhood.               He felt it was spot zoning,                      and the added density                    would      change the
+     neighborhood.
+
+
+     Pam Smith            expressed         conceri'i      about density             coming          onto the street without               transparency           to
+     the neighborhood.
+
+
+     Chair       LaMar       closed        the public          hearing.
+
+
+     Francis      Lilly     reviewed         the legislative             history      of the project.           The proposal            was first presented
+     to the Millcreek              Community             Council         and Planning              Coinmission            in February         2024. The
+     Planning       Commission               had voted 4-3 to recorninend                           the City     Council         approve         the amendment
+     to both the Future              Land      Use map and the zone change                                to R-4-8.5,        subject    to a condition
+     limiting      the project         to four units,            despite        an initial        proposal      for six. The City             Council,        after
+     reviewing         the project,          suggested           the developers              could proceed            with     six units      but required
+     redesigns         to ensure the units had a more single-family                                       appearance.         The developer           returned
+     with     a revised       design       that incorporated               the requested             changes,        and the City          Council
+     ultimately        approved           the project           with    a development               agreement         to include         tliose design
+     criteria.     At no point            was the project              remanded           back to the community                   council,        as both the
+     Planning       Commission               and City           Council         proceeded          with     their respective           reviews.      The City
+     Council,       while         considering         the concerns              of both the developer                 and the neighborhood,                  aimed
+     to balance        the competing             interests         and make a decision                     that was in good faith,               though      not all
+     parties     may be fully             satisfied      with      the outcome.
+
+
+     Coinmissioner                Larsen     noted       community              councils      do not review             subdivision         applications.
+     Commissioner                 Vance     asked if there were deed restrictions                              limiting       the units       to owner
+     occupancy.           Lilly     said no. The coinmission                      appreciated             the creativity        of the buildings             looking
+     like single        family       dwellings.
+
+
+Commissioner              Larsen          moved         that     based       on the findings                and conclusions             listed     in the staff
+report,      the Planning            Commission                 approve          application          SD-24-012,             as proposed.
+Commissioner              Lofgren          seconded.            Chair      LaMar           called         for the vote.        Chair      LaMar          voted     yes,
+Commissioner              Anderson           voted        yes, Commissioner                    Larsen         voted       yes, Commissioner
+Lofgren        voted      yes, Commissioner                     Reid      voted     yes, Commissioner                     Richardson             voted    yes,
+Commissioner              Soule      voted      yes, and Commissioner                             Vance      voted      yes. The        motion       passed
+unanimously.
+
+
+    1.3 Consideration                 of EX-24-003,                Request          for     an Exception             of Sidewalk,          Curb,         and
+     Gutter       Location:          3410 S 2700 E Applicant:                             Colin     Bagley       Planner:         Carlos         Estudfflo
+     Carlos      Estudillo         said the application                 is a request         for a sidewalk           and improvement                exception
+     for a property          located        at 3410 South 2700 East. The applicant,                                  Mr. Bagley,           is seeking        an
+     exception         to Millcreek's           code, which             typically         requires        the installation        of improvements                 such
+Mfflcreek        Planning        Commission             Meeting       Minutes                        26 February               2025      Page 5 of 9
+
+
+
+    as sidewalks,           curbs, gutters,         and piping        of an existing          irrigation       ditch whenever              a property             is
+    subdivided.        The request           is based on unique            conditions          at the site, such as the presence                      of a
+    mature       cottonwood          tree and an irrigation             ditch,    both of which              would      be affected        by the
+    required       improvements.             The property,         which       spans O.73 acres, has an approximately                               1.7-foot
+    slope along its frontage.                The proposed            improvements,            including            piping    the irrigation         ditch,
+    would        improve       safety for pedestrians,             cyclists,      and vehicles,            especially        given     the property's
+    proximity        to schools          and its designation          as a "Safe        Routes       to School"             area.
+
+
+    Despite       these factors,          staff does not identify             any unusual         topographical,              aesthetic,      or
+    exceptional        conditions          that would      justify     an exception           to the required               improvements.           While
+    the mature        tree is a significant            aesthetic      feature     of the neighborhood,                  its removal         would         be
+    necessary       to install       the sidewalk.        Additionally,           staff concluded             that no topographical
+    hindrances        would       prevent      the installation         of the required           improvements,                and the design             of the
+    improvements             would       confon'n      to the city's      transportation           standards.          On February          6, the
+    Millcreek       Coininunity            Council      recornrnended            a deferral      of the improvement                   requirement,
+    citing      complications            from the irrigation          ditch    and the fact that the west side of 2700 East
+    lacks similar          improvements.            The council        also suggested            addressing            the east side of the street,
+    where       a sidewalk        already     exists.     The Millcreek           Public      Works         Director         does not recommend
+    granting       an exception           but suggests      a deferral         until   surrounding            properties          are developed           and
+    improvements             are made. The final            decision          on whether        to grant the exception                  or deferral        will
+    rest with      the mayor.
+
+
+    Commissioner              Lofgren       asked about bussing               kids to Wasatch              Junior      High     School      as the
+    property       seemed too far for the "Safe                   Route       to Schoor' map. Lilly                  said the city was relying
+    on the school           district's     decisions      on those matters.             Coinmissioner                Soule asked why            the
+    sidewalk       improvement             was triggered.          Estudillo       said the property               was going         to subdivide          with
+    a flaglot.     Corni'nissioner           Reid asked if the sidewalk                 could      go around            the tree. Ryan Bagshaw
+    said there would            be a gap between            the back of sidewalk                 and the tree. Coinmissioner                       Vance
+    asked if any other properties                    on the street had deferral               agreements.             Estudillo       did not know.
+    Lilly     said there was a home              on Oakwood            to the west that had an exception.                            Coininissioner
+    Richardson        asked for an explanation                 on the deferral            process.         Lilly     said typically        the owner
+    cominits       to the city to pay for the sidewalk                    and improvements                   when the city decides                 to install
+    it within      a certain      amount       of time,    typically          20-40    years. Bagshaw                noted the right-of-way
+    was already        there, it was just not improved.
+
+
+    Collin      Bagley,      3410 S 2700 E, said installing                     sidewalk       on the west side of the street would
+    require      multiple       trees to be removed.           The Arnos           Neff     ditch,    a major          artery       for water      flow      in
+    the region,       operates       most days of the week,                and any construction                    on the property          would
+    require      rerouting       the ditch,     which      presents       significant       topographical              challenges.         Moving          the
+    ditch     to the west and then back uphill                    to its original         location     would          require       ongoing        work      if
+    properties      along the street changed                ownership            over the next several                 decades.       He felt it did not
+    make sense to have a sidewalk                      end in a forest           on one end and a driveway                      on the other.         He
+    requested       a deferral       agreement.
+
+
+    Chair     LaMar         opened       the public     hearing.
+
+
+    There were no comments.
+Millcreek            Planning          Commission            Meeting        Minutes                      26 February             2025       Page 6 of 9
+
+
+
+        Chair      LaMar        closed      the public        hearing.
+
+
+        Commissioner             Larsen      did not feel the property                 met the criteria           for an exception,          however,            if
+        the sidewalk          was deferred            and not called         upon within         the specified         timeframe,          then it would
+        turn into an exception.                 Corninissioner           Reid felt not as many                sidewalk        exceptions      should        be
+        granted      because        there was a standard               to install     them,      and somebody              always       has to be the first
+        to install     for the city to get it. Coinmissioner                        Anderson         felt sidewalk         would        go on the east
+        side if it were to be installed.                    He recorni'nended           a deferral      agreement.           Commissioner             Soule
+        would      rather      see a bike lane but suggested                     the deferral.       Corni'nissioner           Richardson          wanted        the
+        sidewalk       installed        because       the city may not have the funds to install                           them in the future.
+        Commissioner             Lofgren         did not think         sidewalk       on tliis propeity           would       get used.
+        Commissioner             Vance       did not think           the property          met the statutory          exception         requirements;            it
+        does not make sense to put a sidewalk                            there now, but a deferral                made sense. Chair              LaMar
+        was in favor          of a deferral.
+
+
+Commissioner                  Larsen      regarding           application,          EX-24-003,          moved       that      the Planning
+Commission              recommend               not granting           an exception,           but    suggest      the mayor            consider       a
+deferral         based      on the findings             and conclusions              the staff       report       and also the commission's
+discussion.           Commissioner               Lofgren          seconded.
+Lilly     noted the mayor               typically      ISSUES deferrals            rather than exceptions.
+Chair       LaMar          called       for the vote.         Chair      LaMar        voted      yes, Commissioner                  Anderson          voted
+yes, Commissioner                   Larsen          voted    yes, Commissioner                 Lofgren        voted      yes, Commissioner                  Reid
+voted      no as the exception                  criteria      was not met and should                    not be deferred,                Commissioner
+Richardson             voted     no as the exception                  criteria      was not met and should                     not be deferred,
+Commissioner                  Soule     voted       yes, and Commissioner                    Vance      voted      yes. The motion             passed.
+
+
+The cointnission               took a break          from     6:43-6:57pm.
+
+
+        1.4 Consideration                of ZT-25-001,             Request         to Amend          Millcreek        Code      Chapter       19.86        to
+        Include       the Baldwin            Radio         Factory       (3474-3476          S 2300 E) to the Millcreek                    Historic        Sites
+        and Districts           List    Planner:           Sean Murray
+        Sean Murray            said ZT-25-001               seeks to amend the zoning                  code to add the Baldwin                 Radio
+        Factory       to the local list of Historic                Structures        and Sites. Adding             a site to this local list
+        requires      a text amendment                to the code since the list is embedded                        within      the Millcreek          zoning
+        code, specifically             section      19.86     Historic      Buildings         and Sites Preservation.               This amendment                    is
+        being     pursued       by Millcreek           after receiving            a request     from     the Millcreek          Historic      Preservation
+        Coinmission            to add this site to the local historic                   list. The property            owner      has been informed
+        of this application             and has communicated                     support     for its addition        to the local list. A letter                of
+        support       can be found          in the staff report.
+
+
+        The criteria        for addition         to the local list requires                that the site be at least 50 years old, be
+        located      within     the boundaries              of Millcreek,         and has no major              alterations      that have obscured
+        or destroyed          significant        historic     features.      The site is also listed              as "Contributing           A & B" on
+        the Evergreen           Ave Historic           District       Reconnaissance           Level      Survey       conducted          in 2007. Being
+        placed     on the local list grants benefits                     and restrictions         on the property.             Listed     properties       have
+        increased       review         processes       for alterations           to the property.        Listed     properties          can also apply           for
+        conditional         use pennits          they may not otherwise                be able to apply            for. Any        conditional        use
+        process      for a listed        site goes to the community                   council,       Historic      Preservation          Commission,
+Mfflcreek           Planning          Commission             Meeting        Minutes                     26 February              2025        Page 7 of 9
+
+
+
+        and the Planning              Commission.            The Baldwin           Radio    Factory          is within     the C-1 zoning
+        designation          which      has a list of uses focused                 on low intensity           uses and neighborhood                       services.
+        If placed      on the local           list of historic      places,     the property         owner        could      apply      for a conditional
+        use pen'nit         for a use listed        within     the coininercial           zone.
+
+
+        Murray       reported        that all coinmunity             councils       voted unanimously                 to recommend            adding          the
+        Baldwin       Radio         Factory     to the local historic           site list. The East Mill               Creek      Community                 Council
+        recommended                the addition        of the site and issued a recommendation                            letter that can be found                       in
+        the submitted           staff report.       The Historic           Preservation         Commission             also unanimously
+        recommended                the addition        of the Baldwin         Radio      Factory       to the local          list. During         their
+        meeting,      they discussed             the process        if the property         owner      were to apply             for a conditional                 use
+        pen'nit.    If a conditional            use permit        is applied       for on the property,               it would     be reviewed               by the
+        East Mill      Creek         Coinmunity          Council,       Historic       Preservation          Commission,           and the Planning
+        Comi'nission.          Staff recorni'nended               that the Planning          Coinrnission           move to recommend                       the
+        addition      of the Baldwin             Radio     Factory        to the Millcreek          Historic       Sites and Districts              List to the
+        Millcreek       City       Council.      He showed          the commission              historical      photos       of the site.
+
+
+        Chair      LaMar       opened         the public      hearing.
+
+
+        There      were no coininents.
+
+
+        Chair      LaMar       closed     the public         hearing.
+
+
+        Commissioner               Anderson       noted the Baldwin                home was across the street from                       the radio
+        factory     to the east. Murray                said the home         was in the Evergreen                 Historic       District.       This
+    property          would         be designated          separately
+
+
+Commissioner                Anderson           moved       that     the Mfflcreek          Planning           Commission             forward            a
+positive        recommendation                  onto     the Millcreek          City     Council       to add the Baldwin                    Radio
+Factory         to the Millcreek              Historic       Sites and Districts            List     based        on the info         found        within          the
+submitted           staff    report.      Commissioner               Richardson            seconded.          Chair      LaMar          called      for      the
+vote.     Chair      LaMar           voted     yes, Commissioner                Anderson           voted       yes, Commissioner                   Larsen
+voted      yes, Commissioner                   Lofgren       voted        yes, Commissioner                Reid     voted      yes, Commissioner
+Richardson            voted        yes, Commissioner                Soule     voted      yes, and Commissioner                       Vance        voted        yes.
+The motion            passed         unanimously.
+
+
+2. Continuing               Item
+    2.1 Consideration                   of ZM-24-014,              Request         to Rezone        from       the R-1-8         (Residential               Single
+    Family)          Zone          to the R-M       (Residential           Multi-family)            Zone       to Accommodate                 a
+
+    Residential              Complex          Consisting          of 8 Apartment            Units      and 6 Townhome                    Units      Location:
+    4317 S 700 E Applicant:                        Brandon          Fry     Planner:       Carlos       Estudillo
+    Carlos         Estudillo        said this item was a follow-up                     to a previous          discussion         from    December
+    regarding          a subdivision            request      for the property           located     at 4317       South 700 East. The
+    applicant         is seeking         to rezone        the property        from      R-1-8      to R-M       (Residential          Multi-family).
+    The continuation                 of the request          was necessary           for the staff to review              more detailed             plans         and
+    gather         additional        information         to begin       crafting     the development               agreement.           The subject
+    property         spans approximately                  2.09 acres and currently                 contains       residential        structures,            which
+    will     be demolished              if development            proceeds.        The property         is in the Mixed-Use                  1 and
+Mnlcreek        Planning           Commission            Meeting        Minutes                        26 February              2025      Page 8 of 9
+
+
+
+    Neighborhood             1 designations             in the General         Plan, creating           some complexity                as the mixed-
+    use designation               allows     for medium-density               residential,        retail,     and office        spaces, while         the
+    neighborhood            designation             is intended     for single-family             homes.        Staff will       review     a future
+    update      to the land use map for the 700 East corridor                                in 2025-2026,              which       is why no general
+    plan amendment                 is proposed         at this time.      The surrounding              properties         were zoned R-1-5,               R-1-
+    10, and R-M.           The proposal              includes     14 residential         units:     8 in an eight-plex               on the west side,
+    in line with         the mixed-use              land designation,          and 6 in two triplex               buildings         on the east side,
+    which       aligns     with     the neighborhood              designation.       The development                    includes      adequate
+    parking,      with     19 spaces provided                (including        3 guest stalls)         to meet the required               parking        stalls.
+    Access       to the property            will     be from      700 East, with         a private          road extension           at 730 East to be
+    built     according       to tlie 2019 transportation                 master     plan. A development                      agreement       will     ensure
+    that the project          complies         with     zoning      ordinances,       including             parking,     landscaping,         and road
+    access requirements.                   The developer          is also required        to provide            a shared access easement                    for
+    the private       road.
+
+
+    Estudillo      said staff recommended                      that the Planning          Commission              approve        the application,
+    subject      to the conditions             laid out in the development                   agreement,          which        includes     restrictions
+    on unit ownership,               parking         requirements,        and material          specifications            for the buildings.           He
+    showed       the coinmission              the proposed          site plan. Jake Green               said there would               be a public
+    access easement               on the site to provide             for turnaround            from     730 E.
+
+
+    Chair     LaMar        asked how guests accessed the garage in the condo                                      building.         Brandon      Fry said
+    there would          be a keypad.              The turnaround         outside     of the garage would                  be used for delivery
+    trucks.     Chair      LaMar       asked if the public              could utilize        the sidewalks             from     700 E. through           to
+    730 E. Fry said the neighbors                      had requested           a fence between               the condos         and townhomes               to
+    deter parking          on 730 E. and walking                   through.      He was open to that suggestion.
+
+
+    Estudillo      said the Millcreek                Cominunity          Council     in November                2024 had a 3-3 split
+   recomtnendation                 to not recommend               the proposal       based on spot zoning,                    General     Plan
+   inconsistency,           neighborhood               compatibility,         density,    parking,           and access.
+
+
+    Chair     LaMar        asked for public             comment.
+
+
+   Judith      Cheryl       Goff,     4290 S 730 E, provided                  and read a written               comment          (see attached).         Chair
+    LaMar       acla'iowledged              emails     the commission            had received           from      Mitch       George,     Barbara
+   Curtis,      and Jen Muse               objecting     to the rezone.
+
+
+    Commissioner             Vance         supported       the development            of tlie condo            building       but did not feel the
+   townhomes             fit with     the surrounding             uses. Commissioner                Lofgren        felt the development                should
+   be split into two parcels.                  Commissioner             Richardson        appreciated            the variety         of sized units         to
+   support       the missing          middle         housing      in the city.     Commissioner                Anderson         asked about the
+   density       on the townhome               property.        Fry said whether             it was this development                   or 5-6 homes
+   with     another       proposal         in the same zoning,            UDOT        would         not let more          traffic     access 700 E,
+   which       is why the townhomes                    access 730 E. UDOT                would        only      allow     one driveway           access on
+   700 E as it exists.              They would          not allow       through      traffic      to 730 E. In terms                of density       without
+   the rezone,        the other units              on that property        would      still have to access 730 E, so it would                           be 6
+   new homes             either     way, but the townhomes                 help with         affordability.            Cominissioner          Anderson
+   noted 730 E was stubbed                     to the subject        property       for its use.
+Mfflcreek        Planning          Commission           Meeting         Minutes                            26 February        2025       Page 9 of 9
+
+
+
+
+     Tlie commission              discussed         their preferences           for the blend             of units on the property.
+     Cominissioner              Larsen      would     like to see more Neighborhood                           2 designations       in the updated
+     General         Plan near major           arterials.     Cornrnissioner              Richardson           suggested      sound proofing            the
+     condo building             due to proximity            of 700 E. Fry pointed                   out that the townhomes'              setbacks
+     were doubled              to move      them further        away from              the single       family       neighborhood.
+     Corninissioner             Soule asked about construction                     traffic.        Fry said construction           would      access 730
+     E and they would              construct         the condo building                first;     700 E is too fast of a road for
+     construction          vehicles      to access.
+
+
+Commissioner              Reid     moved       that    the Planning             Commission                 recommend          approval     of
+application          ZM-20-014           as presented           based      on the findings                 and conclusions         of the staff
+report.     Commissioner                Richardson          seconded.           Chair           LaMar       called    for the vote.      Chair
+LaMar       voted        yes, Commissioner              Anderson           voted         yes, Commissioner                Larsen     voted       yes,
+Commissioner              Lofgren        voted       yes, Commissioner                  Reid       voted     yes, Commissioner             Richardson
+voted     yes, Commissioner                  Soule    voted     yes, and Commissioner                         Vance      voted     yes. The      motion
+passed      unanimously
+
+
+3. Commission             Business
+    3.1 Updates            from     the Planning            and Zoning            Director
+    Francis      Lilly     expected         to do corni'nunity          engagement                on the zoning         along 700 E in the
+    summer.
+
+
+
+4. Calendar          of Upcoming             Meetings
+    *     City   Council         Mtg.    2/24/25       7:00 p.m.
+    *     Mt. Olympus             Community           Council      Mtg.,     3/3/25,            6:00 p.m.
+    *     Millcreek        Coinmunity          Council      Mtg.,       3/4/25,        6:30 p.m.
+    *     Canyon         Rim     Citizens     Association        Mtg.,      3/5/25,             7:00 p.m.
+    *     East Mill       Creek     Comi'nunity          Council        Mtg.,     3/6/25,          6:30 p.m.
+    *     Historic       Preservation         Cominission          Mtg.,     3/13/25,             6:00 p.m.
+    *     Planning        Commission           Mtg.     3/19/25,     5:00       p.m.
+
+
+
+
+ADJOURNED:                 Commissioner               LaMar         moved         to adjourn            the meeting        at 8:00 p.m.
+Commissioner              Vance      seconded.         Chair     LaMar           voted           yes, Commissioner            Anderson          voted
+yes, Commissioner                Larsen       voted     yes, Commissioner                       Lofgren       voted     yes, Commissioner               Reid
+voted     yes, Commissioner                 Richardson          voted      yes, Commissioner                     Soule    voted    yes, and
+Commissioner              Vance      voted     yes. The motion              passed              unanimously.
+
+
+
+
+                                  APPROVED:
+                                                            Shawn LaMar.                  Chair
+                                                                                                                       Date
+                                                                                                                                 ";1/41zr
+                                                                 =l i '-
+                                   Attest:                  Elyse giimivan,             Recorder
+   26 February            2025
+  Judith        Cheryl Goff
+  4290 S 730 E
+  Millcreek.           UT 84107
+
+
+
+
+  Subject:        Project ZM-23-014
+
+  First, I would          like to state that I am not in favor of the multifamily                           rezone in this development.           If you look at the
+  map, you will see that this would                      insert a multifamily            designation        into a solidly, single family       area,
+
+  In addition,         the proposed             access would      be 730 E which           currently       dead ends at the property           in question.         This is
+ a 500 ft road tliat currently                    does not have the infrastructure                to accommodate            more traffic.    The road is 25 ft
+ wide from gutterto                   gutter.     With parking,     the widthshrinks to 9 ft. This is hardly enough to allow emergency
+ vehicles,        construction          vehicles,      or for that matter, two-way traffic with regular vehicles. This does not concur
+ with the standards                  of Millcreek's     Level of Service Roadways                 and is likely to fail in many ways.
+
+ The lack of sidewalks                 for the entire      length    of the street         is an extreme       safety issue for residents         of the area
+ which         leaves only the street to walk in. This is a major                         problem        for the children      in the area who walk home
+ from         school and all residents              who have no other ways to walk to neighboring                           areas.
+
+ The developer              has stated that the construction                   is likely to go on for a year with all the equipment                     utilizing    730
+ E. I feel this will severely               impact     the safety and health             of our residents.
+
+ I understand             that major throughways              are a priority       for development,            but local roads must be accommodated
+for increased             traffic,    health      and safety. Our street         may be insignificant            in the grand scheme of things,              but our
+safety is a high priority                to us.
+
+Opening          our    street does nothing             for Millcreek's        vision.    It does not add connectivity.              It only extends the dead-
+end road. If that ended in more single-family                             residences,         I might be able to understand,             except it sUll does not
+solve the traffic            problem        on a substandard          street.
+
+I would         like to address the health              and safety of residents               residing     in a construction     area.
+
+According          to Millcreek         when it comes to construction                    in a residential      area, key rules to protect         residents'
+health         include:     strict dust control         measures,       noise mitigation           strategies,    proper     waste disposal,       designated
+work      hours, clear communication                    with residents,         mandatory         use of protective         equipment       by construction
+workers,         and adherence            to local building         codes regarding           hazardous       materials,     all aimed at minimizing
+exposure          to airborne         particles,     noise pollution,       and potential           health    risks associated       with construction
+activities.       In addihion,         Coristruction      hazards near          residential      areas     with children     include     noise, falllng,    moving
+objects        (construction          traffic),    and unsafe structures.
+
+The health         issue is not only important               to me for the residents,               but also personally         as I am an 80-year-old,             100%
+disabled        veteran       with severe breathing            difficulties.      I moved       to a street with      a dead-end         to minimize       pollutants
+for my breathing.              I am concerned           with pollutants         that would        be generated       with the length of the construction
+period        and projected         increased traffic. The last I checked, it would cost me 914,000.00 to retrofit my house to
+combat         airborne       pollutants,   which is greatly above my budget. I would like to live longer.
+)-IILLCREEK.   UTAH - 2038 - 2040 TRANSPORTATIOI"l     hlASTE R P LjV'l
+
+
+
+
+                                           ii----Y-----!=:a:-
+                                           I
+                                               LOCAL     STREET:      5DFOOT      (TYPICAL)
+                                                                    2 LANES    6 25   MPH

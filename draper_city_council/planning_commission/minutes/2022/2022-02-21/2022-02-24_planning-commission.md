@@ -1,0 +1,512 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=556&doc_id=d188478c-c0c3-11ec-a5da-0050569183fa
+> Meeting date: 2022-02-24
+> Format: text
+
+Approved minutes 02/24/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, FEBRUARY 24, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:           Vice Chairperson Craig Hawker, Commissioner Lisa Fowler, Mary
+                         Squire, and Gary Ogden and Alternate Commissioner Susan Nixon
+
+ABSENT:                  Chairman Andrew Adams, Commissioner John Van Hoff and Alternate
+                         Commissioners DeLaina Tonks and Tab Bingham
+
+
+STAFF PRESENT:           Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                         Amie Salazar, Maryann Pickering, Don Buckley and Todd Draper
+
+6:30 PM Business Meeting:
+
+
+    1.      Public Hearing: Draper 138 2 Zoning and Land Use Map Amendment (Legislative
+            Action)
+
+            On the request of Charlie Openshaw, representing CJO Holdings, LLC for a Zoning Map
+            Amendment from RA1 and OR to the CC zone and a Land Use from Office Service to
+            Community/Neighborhood Commercial. The property encompasses 1.44 acres and is located
+            at 231 East 13800 South. Applications TEXTMAP-15-2022 and TEXTMAP-16-2022. Staff
+            Contact is Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented the staff report. She indicated the property is located at
+138 South and Bangerter Highway. The property is designated as Office Service in the General Plan and
+the applicant is requesting a Neighborhood Commercial designation. This designation is location south and
+east of the subject property. The property is split zoned with RA1 and OR Districts. The applicant is
+proposing to change the zoning to CC Community Commercial District. The CC District is located to the
+south of the property. She showed street view images of the property and noted they site is vacant. Parking,
+landscaping and architecture will be discussed during the site plan process.
+
+Commissioner Fowler asked if there is a chart comparing allowable uses for each district.
+
+Jennifer Jastremsky directed the Planning Commission to the zoning code. She overviewed the uses within
+the CC code. She mentioned retail, service and restaurant uses are allowed. She explained there are different
+restaurant categories in the code, but this district allows all restaurant types.
+
+Commissioner Fowler asked if carwashes are allowed.
+
+Jennifer Jastremsky stated carwashes are a conditional use. She indicated the applicant is wanting to
+construct retail and restaurant buildings on the property. There is no development agreement that limits the
+uses.
+
+Commissioner Fowler asked if drive-throughs are allowed in banks and restaurants. Ms. Jastremsky stated
+that they are allowed.
+
+Vice Chair Hawker asked if there is a right turn only coming out onto Bangerter Highway.
+Brien Maxfield, City Engineer replied that they would have to work with UDOT on spacing
+requirements. Access would be off 138 and not Bangerter.
+
+Jennifer Jastremsky stated they will evaluate access during the site plan.
+
+Commissioner Nixon mentioned there is a comment from engineering that cross access will be
+considered. She asked if the zone is approved would the property need to meet the site plan code
+in place at the time.
+
+Jennifer Jastremsky replied that she is correct.
+
+Vice Chair Hawker invited the applicant to speak.
+
+Charlie Openshaw stated they have owned the property for five years. He stated he has not submitted for a
+carwash in the past and it is not his intent. He would like a general retail use on the property like a quick
+serve tenant and maybe a multi-tenant building. Nothing specific has been decided at this point.
+
+Commissioner Squire asked if he has spoken with the adjacent property owners.
+
+Charlie Openshaw indicated that he has spoken with them. He noted they are planning a large retail use like
+a grocery store for the property, but this may change. He stated they do plan for an access point on the rear
+of their property for the time when they develop, they can share it.
+
+Vice Chairman Hawker opened the public hearing.
+
+Greg Kielsmeier stated he has been in the area of 32 years and mentioned there is a construction company
+east of him and now he has lost his resale value due to the area. He asked what is going to happen to his
+property.
+
+Austin Bankhead asked what the plan is for the property west of the subject property.
+
+Vice Chairman Hawker closed the public hearing.
+
+Commissioner Fowler asked for specifics regarding the applicant’s plans.
+
+Charlie Openshaw commented they would like an access of the east end of their property. He stated they
+have discussed access with their neighboring property which would include a portion of his property. They
+are open to being cooperative.
+
+Commissioner Ogden asked if the property goes all the way to Bangerter Highway. She replied that it does
+and showed it in the map.
+
+Commissioner Squire stated she has a hard time going with a retail district when homes are located nearby.
+The current zone appears to be better as it is set up as a buffer district.
+
+Jennifer Jastremsky explained what the land use map and general plan are in comparison to the zoning map.
+
+
+
+
+                                                     2
+Commissioner Ogden stated they are uncertain with what is going to happen in the surrounding area. He
+mentioned things are headed in the direction of retail. He noted he is not sure if this is the right change at
+this time.
+
+Commissioner Fowler stated the owners on the corner has asked to develop in the past.
+
+Vice Chair Hawker stated that the applicant is looking at the highest and best use for the property. He
+commented people have hoped someone would assemble all of the properties and develop it at the same
+time but for some reason this as not happened.
+
+Commissioner Nixon stated that this is the perfect location for commercial due to the intersection and high
+traffic. She asked if the property were to change to commercial how would buffering be handled between
+the residential zone.
+
+Jennifer Jastremsky explained the code requires a 20 feet landscape buffer with a six-foot wall between
+commercial and residential zones. The applicant may request a deviation through the zoning administrator
+of a 10-foot landscape buffer and eight-foot wall.
+
+Commissioner Fowler stated she is worried about impacts from commercial on to the adjacent neighbors.
+She does not believe this is a good thing to do with existing residential on the same street. She believes the
+current zone is appropriate.
+
+Vice Chair Hawker mentioned, due to the size of the lot the retail buildings will not be large. Space will be
+required for access and parking which reduces the size of the buildings.
+
+Motion: Commissioner Fowler motioned to send a positive recommendation to the City Council for
+a zoning map amendment, as requested by Charlie Openshaw, representing CJO Holdings, LLC for
+the Draper 138 Zoning Map Amendment, Application TEXTMAP-15-2022, based on the findings
+and subject to the conditions listed in the staff report, dated February 15, 2022.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 4-1 in favor of the motion. Commissioners
+Hawker, Ogden, Fowler, and Nixon voted, “Aye”. Commissioner Squire voted “Nay”.
+
+Motion: Commissioner Nixon motioned to forward a positive recommendation to the City Council
+for a land use map amendment, as requested by Charlie Openshaw, representing CJO Holdings,
+LLC for the Draper 138 Land Use Map Amendment, Application TEXTMAP-16-2022, based on the
+findings and subject to the conditions listed in the staff report, dated February 15, 2022.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 4-1 in favor of the motion. Commissioners
+Hawker, Ogden, Fowler, and Nixon voted, “Aye”. Commissioner Squire voted “Nay”.
+
+    2.      Public Hearing: 136 Center Additional Parking Site Plan (Administrative Action)
+
+            On the request of Ryan Simmons, representing The Boyer Company, for a Site Plan for a
+            parking lot on 3.37 acres of property located at 13697 S 200 W. Application SPR-179-2021.
+            Staff Contact is Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+
+
+                                                      3
+Jennifer Jastremsky presented the staff report. She indicated that this is the last parcel in the 136 Center
+Commercial Special District. This district was created in 2016 and allows for a variety of uses. The property
+is located in the Commercial Special District land use designation. The applicant is proposing a parking lot
+addition to serve the office buildings on the property. There is approximately 305,000 square feet of office
+space. She explained with the additional parking the development will fall within the range of the allowed
+parking. This parking lot provides 376 stalls to the CSD. The parking lot will connect into existing parking
+aisles. Center landscape islands are required in the CSD. She overviewed the landscape plan and highlighted
+a center boulevard.
+
+Commissioner Nixon asked why they are planning for 5.79 stalls per 1,000 square feet. She believes this is
+a high amount.
+
+Jennifer Jastremsky indicated the CSD allows three space to eight spaces for 1,000 square feet.
+
+Vice Chair Hawker invited the applicant to speak.
+
+Logan Fawcett, representing the Boyer Company, stated there may be potential to build out the parking lot
+in the future. Both buildings are fully occupied. He indicated people are starting to come back to the office.
+
+Commissioner Nixon asked if there are ADA stalls on the site.
+
+Mr. Fawcett stated the ADA stalls are located in front of the buildings.
+
+Commissioner Nixon stated parking lots are typically not aesthetically pleasing and asked if a parking
+structure could be required.
+
+Jennifer Jastremsky mentioned a parking structure is not required but there are requirements if the applicant
+chooses to construct a structure.
+
+Vice Chair Hawker opened the public hearing. There were no comments. He then closed the public hearing.
+
+Motion: Commissioner Fowler motioned to approve the site plan, as requested by Ryan Simmons,
+representing the Boyer Company, for the 136 Center Additional Parking Site Plan, Application SPR-
+179-2021, based on the findings and subject conditions listed in the staff report, dated February 16,
+2022.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion. Commissioners
+Hawker, Ogden, Squire, Fowler, and Nixon voted, “Aye”.
+
+
+    3.      Public Hearing: Draper Galena Park Office Zoning and Land Use Map Amendment
+            (Legislative Action)
+
+            On the request of Ryan Simmons, representing The Boyer Company, for a Zoning Map
+            Amendment from RA1 to CC and a Land Use Map Amendment from Residential Low/Medium
+            Density to Neighborhood Commercial. The property encompasses 3.7 acres and is located at
+            681 West 12300 South. Application TEXTMAP-195-2021 and TEXTMAP-196-2021. Staff
+            contact is Jennifer Jastremsky, 801-576-6328, Jennifer.jastremsky@draperutah.gov
+
+
+
+                                                      4
+Jennifer Jastremsky presented the staff report. She indicated the property contains a split land use and
+zoning designation. A couple parcels are designated Neighborhood Commercial and other within the
+Residential Low/Medium in the Land Use Map. The applicant is requesting to designate all properties to
+the Neighborhood Commercial category. This change would affect 1.93 acres of the property. One property
+is zoned Community Commercial and the other are zoned RA1. The applicant is requesting to rezone 2.77
+acres to Community Commercial. The intent is that all properties will have the same designations. She
+presented a zoning and land use table. She mentioned all properties have a single-family home.
+
+Commissioner Fowler asked if the residential home on the west side of the property is in use. Jennifer
+Jastremsky responded that she did not know. She mentioned the applicant desires to redevelop the
+properties into an office building. The CC District limits height to 45 feet.
+
+Vice Chair Hawker asked if there is an Apollo Burger on the south side. Jennifer Jastremsky stated there is
+and she listed the other uses surrounding the property. He stated there would be no more residential
+remaining after this.
+
+Jennifer Jastremsky noted another residence and mentioned it is owned by the landscape company.
+
+Logan Fawcett, Boyer Company, stated the proposed rezone is for a new office building. He mentioned the
+building will be occupied by an owner-user. He stated there are still people living in the homes.
+
+Vice Chair Hawker opened the public hearing.
+
+LaVar Christensen, President of Draper Land Development mentioned he is there with the Ken and Mindy
+Doyle, owners of All States Landscaping, stated there is a lot of multifamily across the street. He stated
+other property owners are planning to come to the city and request a zone in order to provide the highest
+and best use for their properties. He stated a multifamily property would be attractive on his client’s property
+and indicated the Galena property is a great amenity. He stated the Boyer property should come in as a
+mixed-use development and indicated they could upgrade their request to a mixed-use project. He
+mentioned they could make the street scape very attractive. He does not want a precedent set that will
+require all other properties to be built as office only.
+
+Daryl Feilding stated that he works with the Doyels. He commented that a mixed-use development would
+be preferred to offer retail, office and high-density housing. He indicated that based on the general plan
+goals of providing a wide range of housing would be achieved through a mixed-use development.
+
+Vice Chair Hawker closed the public hearing.
+
+Commissioner Fowler noted the proposed land use and zoning designations match the landscape company’s
+zoning. She feels this is an appropriate request.
+
+Vice Chair Hawker stated he does not have any issue with the request.
+
+Motion: Commissioner Nixon motioned to forward a positive recommendation to the City Council
+for the zoning map amendment as requested by, Ryan Simmons, representing the Boyer Company
+for the Draper Galena Office Park Zoning Map Amendment, Application TEXTMAP-195-2021,
+based on the findings and subject to the conditions listed in the staff report, dated February 15, 2022.
+
+Second: Commissioner Fowler
+
+
+
+
+                                                       5
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion. Commissioners
+Hawker, Ogden, Squire, Fowler, and Nixon voted, “Aye”.
+
+
+Motion: Commissioner Fowler motioned to forward a positive recommendation to the City Council
+for the land use map amendment as requested by, Ryan Simmons, representing the Boyer Company
+for the Draper Galena Office Park Land Use Map Amendment, Application TEXTMAP-196-2021,
+based on the findings and subject to the conditions listed in the staff report, dated February 15, 2022.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion. Commissioners
+Hawker, Ogden, Squire, Fowler, and Nixon voted, “Aye”.
+
+
+    4.       Public Hearing: Sole @ Rockwell Text Amendment (Legislative Action)
+
+             On the request by Bruce Baird, representing Rockwell Apartments, LLC, for a zoning text
+             amendment to the MARF zoning district. The proposed changes will modify parking and
+             landscaping standards. The MARF zone is located at approximately 356 W. Marion Vista
+             Drive. Application: TEXTMAP-014-2022. Staff contact: Maryann Pickering at 801-576-6391
+             or maryann.pickering@daperutah.gov
+
+Maryann Pickering presented the staff report and showed the properties affected by the MARF zone. She
+indicated this is the only place in the city where the district exists. The land use designation for the property
+is Commercial Special District. She stated the MARF district was adopted in August 2019. The proposed
+changes include modifying landscaping in the buffer area where emergency stairs are located and reducing
+overall parking for the residential component of the district. These changes are requested now since a site
+design is in process. She provided a breakdown of the unit types and indicated there will be a total of 506
+units.
+
+Commissioner Squire asked if the density is limited by the parking.
+
+Maryann Pickering stated that this is a form-based code which is limited by the development standards.
+
+Commissioner Squire asked if reducing the required amount of parking would reduce the number of units.
+
+Maryann Pickering stated they did not know the number of units when the code was adopted. The proposal
+is under the height limit. There is no limit on the number of residential units. She explained that more units
+will require additional parking.
+
+Vice Chair Hawker stated that the property is near Pluralsite. Maryann Pickering overviewed the aerial
+photo of the property and called out surrounding uses and zoning districts.
+
+Commissioner Squire asked if they would need to get approval from the state for right of way
+improvements.
+
+Brien Maxfield, City Engineer mentioned that the applicant is required to improve their frontage
+on Minuteman Drive. Potentially UDOT may widen the frontage road in the future.
+
+
+
+
+                                                       6
+Bruce Baird, Attorney for Applicant, stated they are in a process of setting up a meeting with staff and
+UDOT to figure out improvements. He stated that parking overflow typically impacts adjacent
+neighborhoods. This property is not near a neighborhood and these issues would not exist. He referenced
+the Point of the Mountain Transportation Study and indicated there is a plan for a TRAX line close to the
+property. He stated that originally, they did not know what would be constructed on the MARF property.
+What they thought the mix would be with the units turned out not to be. Now they do know that types of
+units and hired Hales Engineering to conduct a parking study. They believe 746 stalls provides enough
+parking as the project is designed now. The units are important in this location due to the high cost of
+housing. He explained that they decided to default to incorporate the city’s landscaping requirements. He
+noted an issue where conflicts arose due to the location of stairwells.
+
+Commissioner Fowler asked which parcel will contain residential uses and will parking be shared between
+the parcels.
+
+Mr. Baird stated it is the south parcel and sharing will be allowed. There will be landscaping and stairs
+separating the parcels.
+
+Commissioner Nixon asked about the proposed parking rate of 1.5 parking stalls and noted the comparable
+projects used and stated the success of the project depends on management. She mentioned her concern
+with the lack of visitor parking as only .2 visitor parking stalls is proposed and she would like it increased
+to .5 stalls per units.
+
+Scottie Duclos, Hales Engineering commented that they did not use all of the studies in the appendix and
+only used the ones with similar bedroom ranges and not near transit facilities.
+
+Mr. Baird stated they had guest parking analyzed and found that units with smaller footprints tend to have
+less guest and therefore need less guest parking.
+
+Commissioner Fowler asked when the counts were taken. She believes weekends and weekdays would be
+different.
+
+Mr. Duclos stated the studies were performed on week nights from midnight – 4am when most people are
+home.
+
+Vice Chair Hawker asked if the units would be rented or sold.
+
+Mr. Baird stated they will be rented.
+
+Vice Chair Hawker opened the public hearing.
+
+There were no comments. He closed the public hearing.
+
+Commissioner Fowler stated she feels strongly about not recommending the reduction in parking.
+
+Vice Chair Hawker asked if there were issues with the other modification.
+
+Commissioner Ogden expressed his concerns regarding the parking reduction.
+
+Commissioner Nixon stated she agrees with the consultant but would like to see a little more parking than
+what was proposed.
+
+
+
+                                                      7
+Commissioner Squire stated that they already have a reduction from the standard city code and they want
+to go below this. Due to the scale of the project, if the parking becomes problematic it will get really bad.
+
+Commissioner Nixon stated that typically a reduction in parking is done when the site is near transit.
+
+Commissioner Fowler stated the applicant is still working out fire code issues.
+
+Don Buckley, Fire Marshal mentioned they do not have other concerns. The modifications allow them to
+meet code.
+
+Motion: Commissioner Squire motioned to send a negative recommendation to the City Council for
+Sole @ Rockwell Zoning Text Amendment, as requested by Bruce Baird, representing Rockwell
+Apartments, LLC, Application TEXTMAP-014-2022, based on the findings listed in staff report
+dated February 15, 2022.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion. Commissioners
+Squire, Fowler and Ogden voted “Aye”. Commissioners Hawker and Nixon voted “Nay”.
+
+
+    5.       Public Hearing: City Initiate 2021 Bulk Text Amendment #2 (Legislative Action)
+
+             This item was continued from the January 13, 2022 and February 10, 2022 Planning
+             Commission meetings to this date.
+
+             On the request of Draper City for at Text Amendment to Titles 9 and 17 of Draper City
+             Municipal Code in order to amend general regulations pertaining to definitions, exactions,
+             special regulations in commercial zones, deviations from design standards, building design,
+             site design, parking location, parking area design and construction, height limitations and
+             exceptions, cross access and connectivity, and other typographical and de minimis
+             corrections, this application is known as the City Initiated 2021 Bulk Text Amendment #2.
+             Application: TEXTMAP-0203-2021. Staff Contact: Todd Draper, (801) 576-6335,
+             todd.draper@draperutah.gov.
+
+Todd Draper, Planner stated that they have reviewed most of the proposed amendments in the past. He
+stated they addressed standards related to site and building design, deviations and accuracy and consistency
+in the application of the ordinance. He provided an overview of the changes:
+
+    •    Adding definition for Abut, Abutting and Cross Access. Mixed Use Center was changed to Mixed
+         Use.
+    •    They added a new Section: Exactions which formally recognizes the city’s ability to imposed
+         exactions on development and provides for a review of exactions by the director. It provides the
+         ability to appeal decision of the director.
+    •    Under special regulations for commercial development, they are proposing to remove current,
+         essentially unlimited, deviations to commercial building height. They would instead cap additional
+         height allowances to architectural features and not allow more than 14 feet for additional height.
+         The additional height shall cover an area equal to or less than 10% of floor area of the uppermost
+         floor. Buildings requesting a height deviation must also provide specific architectural detailing of
+         the façade or roofline.
+
+
+
+                                                      8
+    •   Clarifies which design standards can be deviated from, proposes the elimination of the ability to
+        deviate from height and roofline design standards, and eliminates existing subjective standards that
+        are unable to be enforced. Adds clarification for individual criteria that proposed developments
+        must meet to request a deviation. The amendments seek to strengthen the required responsibility of
+        the applicant to demonstrate compliance with the deviation criteria to the Planning Commission by
+        providing a written analysis from a licensed professional.
+    •   Amendments would strengthen requirements for rooflines and parapets walls to vary architecturally
+        and avoid monotonous rooflines. New standards for screening of mechanical equipment are
+        proposed that will allow additional building up to the height of the equipment with a maximum of
+        14 feet of additional height.
+    •   Amendments to parking and circulation. Includes updates from cross access for vehicular and
+        pedestrian traffic. Clarifies the ability to request a traffic study and changes the term “Deadmen”
+        to “wheel stops”.
+    •   Emphasizes cross access and connectivity between existing and anticipated parking areas on
+        abutting properties.
+    •   Clarifies that mixed use developments are required to have paved easements for cross access.
+        Deviation requirements are provided for.
+    •   Additional height is limited to things like spires and towers not used for human occupancy.
+    •   Similar definitions were referenced between the Subdivision Code and Zoning Code. Stub Street
+        definition was added to the Subdivision Code.
+    •   A new Exactions section was added to the Subdivision Ordinance as well as cross access and
+        connectivity standards.
+
+Mike Barker, Attorney explained his analysis of their cross-access amendments.
+
+Chris Hogle, Attorney for Utah Capital stated that the government cannot take private property for public
+use without compensation. The government cannot also force a landowner to use their property for a public
+purpose. He mentioned that this is a form of a takings, known as an exaction. He indicated that some
+exactions are legal and others are illegal. He stated that an access easement is an exaction as it says mixed
+use and non-residential developments “shall” provided access for abutting for mixed use or non-residential
+uses. He stated that they do not know the proposed development will be. He stated that a determination of
+the impact was done then they could see if an exaction is warranted.
+
+Sam Wilkinson referenced proposed constitution taking language in the code and read the criteria for
+determining if an exaction is a taking or not. He asked how can the City enact a text change that in a blanket
+fashion?
+
+Commissioner Fowler stated that she does not believe it is the planning commission’s job to make a
+constitutional call on the proposed code.
+
+Commissioner Squire mentioned it is the city attorney’s job to make this determination and they have
+looked into it.
+
+Mike Barker stated he is still considering Mr. Hogle’s letter. He mentioned he has looked at the State
+Ombudsmen’s determinations and court decisions. He indicated the City needs to have standards within the
+code. For an individual analysis of an exaction to occur. He mentioned they are cognizant of the constitution
+and will review the applicant’s development proposal once they make a submittal.
+
+Commissioner Ogden asked if there are changes needed, would this need to come back to the Planning
+Commission.
+
+
+
+                                                      9
+Mike Barker stated that it could be handled at the City Council and would not need to come back.
+
+Commissioner Ogden indicated that every project that comes in they would look at individually and only
+require exactions when necessary.
+
+Commissioner Nixon stated she believes the code has been thoroughly vetted and the Planning Commission
+is only a recommending body.
+
+Motion: Commissioner Nixon motioned to forward a positive recommendation to the City Council
+for the text amendments as requested by Draper City, for the city initiated 2021 Bulk Text
+Amendment #2, TEXTMAP-0203-2021, based on the findings and subject to the conditions listed in
+the staff report, dated February 18, 2022.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion. Commissioners
+Squire, Fowler, and Nixon voted, “Aye”. Commissioners Hawker and Ogden voted, “Nay”.
+
+6.      Adjournment
+
+        Commissioner Fowler made a motion to adjourn the meeting. All were in favor.
+        The meeting adjourned at 8:50p.m.
+
+
+
+
+                                                  10
+

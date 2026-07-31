@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "12/18/23", "name": "Drew Quinn", "amount": "2544.45", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/27/23", "recipient": "Legacy Images", "purpose": null, "amount": "137.50", "in_kind": false}
+  ],
+  "total_contributions": "2544.45",
+  "total_expenditures": "137.50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "-2406.95",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2023_city_drew-final.pdf",
+    "candidate": "Drew B. Quinn",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_drew-final.pdf",
+    "pages": 3
+  }
+}

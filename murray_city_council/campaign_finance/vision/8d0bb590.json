@@ -1,0 +1,48 @@
+{
+  "contributions": [
+    {"date": "06/13/2021", "name": "Joelle Rasmussen", "amount": "5.00", "in_kind": false},
+    {"date": "06/17/2021", "name": "Blair Camp", "amount": "250.00", "in_kind": false},
+    {"date": "06/23/2021", "name": "Janet Towers", "amount": "100.00", "in_kind": false},
+    {"date": "06/26/2021", "name": "KC & Ruth Johnson", "amount": "200.00", "in_kind": false},
+    {"date": "07/01/2021", "name": "Nick Skene", "amount": "50.00", "in_kind": false},
+    {"date": "07/05/2021", "name": "Dallas DiFrancesco", "amount": "20.00", "in_kind": false},
+    {"date": "08/17/2021", "name": "Blair Camp", "amount": "200.00", "in_kind": false},
+    {"date": "10/07/2021", "name": "Mark Rosen", "amount": "200.00", "in_kind": false},
+    {"date": "10/25/2021", "name": "Loan From Personal Account of Daren Rasmussen", "amount": "2,855.94", "in_kind": false},
+    {"date": "07/04/2021", "name": "Jen Klingler - Parade Truck & Trailer", "amount": "120.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "06/07/2021", "recipient": "Murray Recorder's Office", "purpose": "Candidate Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "06/08/2021", "recipient": "Crazy Cheap Political Signs", "purpose": "Yard Signs", "amount": "602.15", "in_kind": false},
+    {"date": "06/10/2021", "recipient": "Magnets On The Cheap.com", "purpose": "Car Magnet Signs", "amount": "50.95", "in_kind": false},
+    {"date": "06/12/2021", "recipient": "Amazon", "purpose": "Bubble Machines for Parade", "amount": "92.38", "in_kind": false},
+    {"date": "06/12/2021", "recipient": "Amazon", "purpose": "Bubble Solution for Parade", "amount": "26.85", "in_kind": false},
+    {"date": "06/13/2021", "recipient": "Weebly", "purpose": "Website Purchase", "amount": "154.73", "in_kind": false},
+    {"date": "06/14/2021", "recipient": "Weebly", "purpose": "Domain Website Fee", "amount": "10.00", "in_kind": false},
+    {"date": "06/15/2021", "recipient": "Sarah Photography", "purpose": "Head Shots", "amount": "50.00", "in_kind": false},
+    {"date": "06/21/2021", "recipient": "SL Co Elections", "purpose": "Voter List", "amount": "15.00", "in_kind": false},
+    {"date": "06/24/2021", "recipient": "Creative Graphics LLC", "purpose": "Shirts", "amount": "232.63", "in_kind": false},
+    {"date": "06/24/2021", "recipient": "Harland AFCU", "purpose": "Blank Checks", "amount": "20.13", "in_kind": false},
+    {"date": "06/25/2021", "recipient": "Office Depot/Max", "purpose": "125 Flyers", "amount": "100.55", "in_kind": false},
+    {"date": "06/26/2021", "recipient": "Dri Uprinting", "purpose": "Door Hangers", "amount": "214.28", "in_kind": false},
+    {"date": "07/01/2021", "recipient": "Smith & Edwards", "purpose": "Parade Candy", "amount": "512.09", "in_kind": false},
+    {"date": "07/19/2021", "recipient": "Wal-Mart", "purpose": "Misc Supplies", "amount": "62.14", "in_kind": false},
+    {"date": "09/29/2021", "recipient": "Costco", "purpose": "Treats for \"Meet The Candidates\"", "amount": "34.99", "in_kind": false},
+    {"date": "09/20/2021", "recipient": "Dri Uprinting", "purpose": "EDDM Mailer Printing", "amount": "659.67", "in_kind": false},
+    {"date": "10/04/2021", "recipient": "USPS", "purpose": "EDDM Mailer Postage", "amount": "947.40", "in_kind": false}
+  ],
+  "total_contributions": "3880.94",
+  "total_expenditures": "3880.94",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/202110_Daren-Rasmussen_12491.pdf",
+    "candidate": "Daren Rasmussen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202110_Daren-Rasmussen_12491.pdf",
+    "pages": 7
+  }
+}

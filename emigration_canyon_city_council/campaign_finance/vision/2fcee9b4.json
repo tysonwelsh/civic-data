@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": null, "name": "Zach Posner", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "MSD - Filing fee", "purpose": "Filing fee", "amount": "50", "in_kind": false}
+  ],
+  "total_contributions": "50",
+  "total_expenditures": "50",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/city_electioninfo_zachary-posner.pdf",
+    "candidate": "Zachary Posner",
+    "office": "City of Emigration Canyon Council (2025, at-large)",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/city_electioninfo_zachary-posner.pdf",
+    "pages": 3
+  }
+}

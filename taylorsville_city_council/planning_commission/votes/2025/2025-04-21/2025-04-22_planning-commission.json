@@ -1,0 +1,112 @@
+{
+ "date": "2025-04-22",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2025/2025-04-21/2025-04-22_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to table the minutes of the March 25‘ meeting to the next meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Cindy Wilkey",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "2S25"
+   ],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to approve File 2S25 / SUB-000512- 2025, a preliminary subdivision plat creating 50 residential lots on 5.318-acres of property located at 4027 West and 4035 West 6200 South in Taylorsville, subject to the findings and conditions outlined in the staff report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6-0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Don Quigley",
+   "seconder": "David Wright",
+   "aye": [
+    "Cindy Wilkey",
+    "Gordon Willardson",
+    "David Wright",
+    "Marc McElreath",
+    "Don Quigley",
+    "David Young"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "6-0",
+   "case_no": [
+    "2S25",
+    "SUB-000512"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wilkey moved to forward a positive recommendation to the City Council for their May 7 meeting with the ability for the planning commissioners to get any final recommendations and edits to Mr. McGrath by April 30th",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation (unanimous)",
+   "kind": "recommendation",
+   "mover": "Cindy Wilkey",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Chair McElreath moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 4
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "contributions": [
+    {"date": "10/08/25", "name": "Maddy Shear", "amount": "80.23", "in_kind": false},
+    {"date": "10/14/25", "name": "Joseph Scovel", "amount": "100.00", "in_kind": false},
+    {"date": "10/15/25", "name": "Katherine Wright", "amount": "659.98", "in_kind": false},
+    {"date": "10/23/25", "name": "United Steelworkers District 12", "amount": "1,000.00", "in_kind": false},
+    {"date": "10/23/25", "name": "Dustin Gettel", "amount": "516.00", "in_kind": false},
+    {"date": "10/24/25", "name": "Impact PAC", "amount": "500.00", "in_kind": false},
+    {"date": "10/27/25", "name": "Bryant Brown", "amount": "100.00", "in_kind": false},
+    {"date": "10/08/25", "name": "Deena Mitchell", "amount": "16.03", "in_kind": false},
+    {"date": "10/08/25", "name": "Paige Anderson", "amount": "16.03", "in_kind": false},
+    {"date": "10/08/25", "name": "Nancy Wingelaar", "amount": "16.03", "in_kind": false},
+    {"date": "10/09/25", "name": "Ross Adrian", "amount": "50.00", "in_kind": false},
+    {"date": "10/24/25", "name": "Turner Bitton", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/08/25", "recipient": "DeSirant Consulting", "purpose": "USPS Mailer", "amount": "3,526.96", "in_kind": false},
+    {"date": "10/13/25", "recipient": "Facebook (Meta) Advertising", "purpose": "Campaign advertising", "amount": "257.00", "in_kind": false},
+    {"date": "10/25/25", "recipient": "Midvale Journal", "purpose": "November Journal Ad", "amount": "540.00", "in_kind": false},
+    {"date": "10/27/25", "recipient": "ActBlue", "purpose": "October service fees", "amount": "9.75", "in_kind": false}
+  ],
+  "total_contributions": "3,104.30",
+  "total_expenditures": "4,333.71",
+  "contributions_50_or_less": "148.09",
+  "beginning_balance": "15,727.05",
+  "ending_balance": "14,497.64",
+  "_meta": {
+    "index_path": "raw/2025_14_Dustin-Gettel.pdf",
+    "candidate": "Dustin Gettel",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_14_Dustin-Gettel.pdf",
+    "pages": 7,
+    "note": "Period report (October 28, 2025 REPORT box checked). Schedule A/B itemized on ATTACHED spreadsheets that carry real Date and Purpose columns (unlike the bare 2025 form) so date/purpose captured verbatim, not nulled. Schedule A = Part I 7 donors (subtotal 2,956.21) + Part II 5 donors (subtotal 148.09), TOTAL CONTRIBUTIONS RECEIVED 3,104.30 = Summary Column B (thru Oct 28); expenditures period TOTAL 4,333.71 = Column B. Beginning/ending balances are Column B (15,727.05 -> 14,497.64). Both sides reconcile to the printed covers exactly."
+  }
+}

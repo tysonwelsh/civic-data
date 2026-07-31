@@ -1,0 +1,326 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1688&doc_id=14d15b4e-80f4-11ef-ab4b-005056a89546
+> Meeting date: 2024-03-14
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, MARCH 14, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Commission Member Susan Nixon
+               Commission Member Gary Ogden
+               Commission Member Kendra Shirey
+               Commission Member Mary Squire
+               Alternate Commission Member Christine Green
+
+EXCUSED:             Lisa Fowler, Vice-Chair
+                     Alternate Commission Member Laura Fidler
+                     Alternate Commission Member Shivam Shah
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+               Todd Draper, Planning Manager
+               Mike Barker, City Attorney
+               Spencer DuShane, Assistant City Attorney
+               Brien Maxfield, Senior Engineer Manager
+               Amie Salazar, Office Manager
+               Maryann Pickering, Planner III
+               Tevai Haunga, City Planner I
+               Don Buckley, Fire Marshal
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+      A.      Action Item: Approve Planning Commission Meeting Minutes for February 8,
+              2024 (Administrative Action).
+
+Motion: Commissioner Squire moved to APPROVE the Planning Commission Meeting
+Minutes from February 8, 2024.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Ogden, Squire, Nixon, Shirey, and Green voted “Yes”. The motion passed
+unanimously.
+
+      B.      Action Item: Approve Planning Commission Meeting Minutes for February 22,
+              2024 (Administrative Action).
+
+Motion:      Commissioner Nixon moved to APPROVE the Planning Commission Meeting
+Minutes from February 22, 2024, as written.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 2
+
+Second:        Commissioner Squire.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Ogden, Squire, Nixon, Shirey, and Green voted “Yes”. The motion passed
+unanimously.
+
+       C.      Public Hearing: Raining Hot Coupons, LLC Home Occupation Conditional Use
+               Permit (Administrative Action).
+               On the request of Sarah Gibbons for a Home Occupation Conditional Use Permit for
+               an assembly and repair, limited home-based business. The property is located at
+               approximately 1935 East Stag Hill Circle in the RA2 (Residential Agricultural 20,000
+               square foot minimum lot size) zone. Application 2023-4587-USE. Staff contact is
+               Tevai Haunga, 801-576-6522, tevai.haunga@draperutah.gov.           This item was
+               continued from the February 8, 2024, meeting.
+
+Planner I, Tevai Haunga presented the Staff Report and stated that the request is for approval of a
+home occupation for Sarah Gibbons on property zoned RA2. The use is a limited assembly and repair
+home-based business with online sales and three (3) non-residential, non-family employees. The
+property is part of the Hunter Ridge at Draper subdivision and the home was built in 2005. The home-
+based business application was originally filed in June of 2023 as a result of City Code enforcement
+actions where the applicant was cited for operating without a Business License. Resolution of the
+citation regarding the lack of a Business License is currently pending in a separate court case. The
+applicant reportedly did not appear at the previous two court dates. The business is operating outside
+of the permitted use standards for home occupations and may not receive a Business License to
+continue operating without first obtaining a Conditional Use Permit. The application for Raining Hot
+Coupons was first presented to the Planning Commission on February 8, 2024, and was continued to
+the March 14, 2024 meeting. The applicant was given time to submit accurately scaled and
+dimensioned floor plans and to propose mitigating conditions with regard to the current non-
+compliance with required residential parking, Fire Code violations, and displacement of the primary
+residential use by the overall scale of the operation. The applicants were emailed a list of the
+documents needed for re-submission but did not provide the requested information prior to the Staff
+Report being written. The applicants met with the Fire Marshall for a Fire Inspection to resolve fire
+concerns.
+
+Staff recommended denial of the Conditional Use Permit as there are detrimental impacts to the
+neighborhood that are not able to be mitigated through the imposition of reasonable conditions. The
+development standards were enumerated in the Staff Report.
+
+Chair Adams opened the public hearing.
+
+David Wertz, a neighborhood resident, reported that he works in the real estate industry. It was his
+opinion that the proposed use should not be in this high-end neighborhood and has an impact.
+
+Carol Erekson, a neighborhood resident, was also surprised by the business. She stated that they are
+running a very productive business from the home.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 3
+
+There were no further public comments. The public hearing was closed.
+
+Planning Manager, Todd Draper, stated that enforcement is of concern as this is a commercial
+business. It was noted that the applicants committed to only allow deliveries between 11:00 AM and
+2:00 PM.
+
+Chair Adams stated that it will be necessary to ensure that the use is not a nuisance.
+
+City Attorney, Mike Barker, reported that the criteria for receiving a Conditional Use Permit is to
+identify potential detrimental effects and use the Code standards to provide reasonable mitigation and
+decide whether they can be reasonably mitigated. He was concerned that they were discussing
+garbage but asked if anyone had quantified how much business is generated by the business. To
+simply state that there is excessive garbage is subjective and needs to be quantified. Mr. Barker
+recommended that if the Planning Commission approve the request, that it not be approved until all
+of the documents have been submitted with a complete application.
+
+Parking issues were discussed. It was noted that no Parking Plan has been submitted. It was
+acknowledged that the points outlined in the Staff Report are important and need to be addressed.
+The duty of the Commission is to ensure that they are addressed and mitigated to the extent possible.
+Commissioner Ogden stated that having the applicants describe what they plan to do is not the same
+as providing a Parking Plan. He did not think a determination could be made until that is provided.
+
+The applicants, Tosh Heyes and Sarah Gibbons were present. Mr. Heyes stated that the two
+employees will park in front of the garage and not in tandem. There are four stalls total. They own
+two vehicles and two would be used by their employees. Mr. Heyes reported that a floating option
+for parking works better than having to shuffle cars. It was noted that a trailer is used for trash. They
+also no longer have semi-trucks come to the home. All items are sent via the US Mail and they are
+on the same pick-up schedule as their neighbor who sells pickleball racquets.
+
+Community Development Director, Jennifer Jastremsky noted that the parking involves more than
+Mr. Heyes simply stating where the parking will occur because there is the potential to block resident
+access to the garage. Parking options were discussed. The applicants were asked to provide the
+specifics in a Parking Plan to be submitted to the City as requested. It was noted that home businesses
+can be a nuisance. The vehicles that are to be at the home should be specified in the Parking Plan
+along with the size of the cars to confirm that they meet the size requirements set forth in the
+ordinance.
+
+Mr. Heyes explained how deliveries are being dealt with. Outgoing shipments are picked up at the
+same time each day and they are on the same schedule as their neighbor. Daily deliveries are made
+by US mail each day and UPS on their regular schedule. He estimated that there are two to three
+deliveries each week. The business was moved from a commercial to a residential space because the
+business model was 90% in-house and 10% drop shipping. That has since been reversed and they are
+moving toward more drop shipping. Mr. Heyes explained that the business model has changed from
+when they were operating from a commercial facility.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 4
+
+In response to a question raised, Mr. Heyes stated that merchandise pickup is not offered as an option
+to customers. Outstanding issues were identified. It was noted that the application is incomplete.
+Mr. Barker stated that approving a request when there is an incomplete application creates an
+enforcement nightmare. 19 outstanding items remained to be addressed by the applicants. The
+importance of documentation was stressed. Chair Adams suggested that the applicants address the
+19 items and work with staff to rectify each.
+
+Ms. Jastremsky reported that two previous public hearings have been held on the matter. As a result,
+the potential to hold another at the next meeting when the matter is addressed would be at the
+discretion of the Planning Commission.
+
+Motion: Commissioner Squire moved to CONTINUE Application 2023-4587-USE to the April
+25, 2024, Planning Commission Meeting.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Ogden, Squire, Nixon, Shirey, and Green voted “Yes”. The motion passed
+unanimously.
+
+       D.      Public Hearing: Trailside Townhomes Plat Amendment (Administrative Item).
+               On the request of David Tillotson, Representing IKON Development a Request to
+               Amend the existing Maple Hollow Phases 10, 11, and 13 at Suncrest Plat to
+               consolidate the six parcels owned by the applicant into one large parcel. The property
+               is approximately 19.37 acres in size and located at 2142 East Brookings Drive in the
+               RR-11 (Rural Residential), RR-43 (Rural Residential, and RM (Multiple Family)
+               Zones. Application: 2023-4653-SUB. Staff contact is Maryann Pickering, 801-576-
+               6391, maryann.pickering@draperutah.gov.
+
+Planner III, Maryann Pickering presented the Staff Report and presented a Vicinity Map showing the
+six existing parcels. The land use designation is Residential Medium-Density with three zoning
+designations on the property consisting of RM, RR-22, and RR-43. The proposed subdivision
+includes a Street Tree Plan. The request was initially approved by the Planning Commission in July
+2022. The applicant obtained a six-month extension in May that expired in January 2024 due to not
+being recorded. The proposal remains the same and is to consolidate the six lots into one. Because
+the City’s Landscape Ordinance was updated last year, modifications need to be made to the street
+trees along the public street. That has been updated with the current plat. The applicants are also
+submitting an amended site plan application for development of the townhomes. The architectural
+style had to be changed and will be approved at the staff level. The project includes 149 townhomes.
+The proposed Street Tree Plan was found to meet the new standards that were adopted last year by
+the City Council.
+
+The applicant, David Tillotson, reported that they initially came to the Planning Commission in July
+2022 for the plat consolidation and plat approval. They were also seeking site plan approval with
+deviations they were requesting that were denied. He explained that the site plan is still approved and
+active. The plat expired because it was approved in July and the site plan was approved in November.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 5
+
+They are currently proposing a site plan amendment. Because the property is part of Suncrest, after
+they were granted approval, they had to go back and work with Suncrest on the proposed roof design.
+A change was made that impacted the drainage coming off of the buildings and necessitated a site
+plan amendment. Other issues included rising interest rates, which created a difficult environment
+for new development. They are now ready to proceed and have posted the required bonds.
+
+Chair Adams opened the public hearing. There were no further public comments. The public hearing
+was closed.
+
+Motion: Commissioner Nixon moved to APPROVE the Trailside Townhomes Plat Amendment
+as requested by David Tillotson, representing IKON Development subject to the following:
+
+Conditions:
+
+       1.     All requirements of the Draper City Engineering, Public Works, Building,
+              Planning, and Fire Divisions shall be satisfied throughout the development of the
+              site and the construction of all buildings on the site, including permitting.
+
+       2.     All requirements of the Geotechnical Report shall be satisfied throughout the
+              development of the site and the construction of all buildings on the site.
+
+              a.      Prior to obtaining a Land Disturbance Permit addressing the following:
+                      TG recommendation No. 2, in the December 13, 2021, TG Geotechnical
+                      Engineering Review No. 2 (TG, 2021), is implemented by the City: “Before
+                      commencement of mass grading, the City requires a project meeting to
+                      review grading and earthwork requirements.”
+
+              b.      Prior to obtaining a Building Permit: Summary of CMT Earthwork
+                      Recommendations      and     Summary     of   CMT      Geotechnical
+                      Recommendations for Plan Review in the December 13, 2021, TG
+                      Geotechnical Engineering Review No. 2, (TG, 2021), are implemented
+                      during Plan Review by the City.
+
+              c.      Prior to obtaining a Land Disturbance Permit address the following: On
+                      page 2 of the June 27, 2022, CMT document, CMT states:
+
+                      •   “We also understand that a storm brick system will be constructed at
+                          the site to collect and convey stormwater. The storm brick system will
+                          discharge water to a couple locations at the fill slope face and water
+                          will not be allowed to drain into the ground below the system.”
+                      •   Based on a review of Sheet C3.0, Grading and Drainage Plan, and
+                          Sheet C7.3, Construction Details, Trailside Townhomes, prepared by
+                          Kimley Horn, dated June 6, 2022, it appears the proposed
+                          “stormbrick” system will allow water to drain into the ground below
+                          the stormwater system.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 6
+
+                    •   If the “stormbrick” system is used as part of the development storm
+                        drainage plan, before final permit approval by the City, TG
+                        recommends the City REQUIRE CMT to update their global stability
+                        analyses of the affected slopes to include seepage pressure derived
+                        from the drainage water infiltrating the slope.
+
+             d.     Prior to obtaining a Building Permit address the following: Under review
+                    comment (2) in the July 11, 2022, TG review letter, TG stated:
+
+                    •   “Should CMT rely on the Geopier/stone column specialty contractor
+                        for the design analysis of the Geopiers/stone columns, TG recommends
+                        the City request the specialty contractor provide the design analysis
+                        for review.”
+                    •   In response to the comment, the July 12, 2022, CMT response letter
+                        stated:
+
+                        “We understand that a specialty contractor will provide settlement
+                        analysis for Geopiers/stone columns.”
+
+                    •   Before final building plan permit approval, TG recommends the City
+                        REQUIRE CMT to provide the settlement and bearing design analysis
+                        for the Geopiers/stone columns for review.
+
+      3.     All hydrants and a form of acceptable temporary Fire Department Access to the
+             site shall be installed and APPROVED by the Fire Department prior to the
+             issuance of any Building Permits. If at any time during the building phase, any of
+             the hydrants or temporary Fire Department Access becomes non-compliant any
+             and all permits could be revoked.
+
+      4.     No combustible construction shall be allowed prior to hydrant installation and
+             testing by the water purveyor. All hydrants must be operational prior to any
+             combustible elements being received or delivered to the building site.
+
+Findings:
+
+      1.     There is good cause for the vacation or amendment; and no public street, right-
+             of-way, or easement has been vacated or amended.
+
+Second: Commissioner Shirey.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Ogden, Squire, Nixon, Shirey, and Green voted “Yes”. The motion passed
+unanimously.
+Draper City Planning Commission Meeting
+March 14, 2024
+Page 7
+
+      E.     Public Hearing: Windsor Mill Townhomes Site Plan and Deviation Request
+             (Administrative Action).
+             On the request of David Jenkins, Representing Olsen and Associates, for a Site Plan
+             for 30 Townhomes and a Deviation to Building Material Standards for 3.77 Acres of
+             Land located in the RM2 Zone. The property is located at approximately 11450 South
+             820 West. Applications 2023-0239-SP, 2024-4660VA. Staff contact is Jennifer
+             Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+The above item was continued.
+
+Motion: Commissioner Squire moved to CONTINUE agenda item 2E to the April 25, 2024,
+Planning Commission Meeting.
+
+Second: Commissioner Shirey.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Ogden, Squire, Nixon, Shirey, and Green voted “Yes”. The motion passed
+unanimously.
+
+2.     Adjournment.
+
+Motion: Commissioner Ogden moved to ADJOURN.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at 7:57 PM.
+

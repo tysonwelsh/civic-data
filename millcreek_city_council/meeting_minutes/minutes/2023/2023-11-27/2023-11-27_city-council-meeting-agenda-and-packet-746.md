@@ -1,0 +1,407 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11272023-746
+> Meeting date: 2023-11-27
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2023-11-27
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11272023-746
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                      Minutes           of the
+                                                                                              Mincreek           City         Council
+                                                                                                November                27, 2023
+                                                                                                          5:30         p.m.
+                                                                                                      Work       Meeting
+                                                                                                          7:00         p.m.
+                                                                                                  Regular          Meeting
+
+
+
+
+The City        Council        of Millcreek,                Utah,       met in a public           work    meeting             and regular         meeting       on
+November          27, 2023,           at City          Hall,        located     at 1330 E. Chambers                Avenue,           Millcreek,        UT     84106.
+The meeting           was recorded                   for the City's           website        and had an option                for online      public     comment.
+
+
+PRESENT:
+
+
+Councn         Members                                                                          City     Staff
+Jeff Silvestrini,           Mayor                                                               Francis       Lilly,     Assistant          City Manager
+Silvia     Catten,       District       l                                                       Elyse     Sullivan,           City    Recorder
+Thom       DeSirant,         District           2                                               Jobn 'Miller,           Public       Works        Director
+Cheri      Jackson,        District         3                                                   John Brems,              City     Attorney
+Bev Uipi,        District      4 (electronic)                                                   Kurt     Hansen,         Facilities         Director
+                                                                                                Rita Lund,         Communications                   Director
+                                                                                                Mike      Winder,         City       Manager
+                                                                                                Carlos       Estudillo,         Planner
+
+
+Attendees:         Tariq      Mughal                (electronic),      Crystal      Hulbert,      Chief      Petty-Brown,               Officer      Tyrone
+Thammavongsa,                Officer            Anthony             Crawford,         Rick    Hansen,      Russell        Platt
+
+
+WORK           MEETING                - 5:30 p.m.
+TIME         COMMENCED                          - 5:33 p.m.
+
+
+Mayor        Silvestrini       called           the work        meeting         to order.
+
+
+1. Snow        Removal          Update;                Crystal         Hulbert,        Salt Lake         County          Public       Works         Operations
+   Crystal       Hulbert,       Director,               addressed         the street priorities           for snow removal:                   first priority,        high
+   traffic     roads,       school      zones, steeper hills,                      and arterial       and collector            roads;       second priority,
+   streets through            residential               subdivisions            including       roads that connect                to a collector        street;      and
+   third     priority,       cul-de-sacs,               circles,       and dead-end           streets (could            take up to 48 hours             after a
+   major       snowstorm            ends). When                 it keeps snowing,              they continue             to plow        the bigger       streets so
+   safety vehicles             can access main roads.                          She said residents            could       help with          the snow plowers            by
+   not parking           on the street, understanding                            that some roads are lower                      priority      and to be patient
+   with      large snow events,                     to refrain         from     driving      during      snow events             if possible,       to not
+   blow/shovel             snow onto the road when                            clearing       driveways        or sidewalks,                and to keep a safe
+   distance       from       snowplows.                  Snow is pushed               where     it is because           the weight          of snow and traction
+   on road can sometimes                            deten'nine         location,       as can fire hydrants,              ADA        ramps,        school
+   crossings,        driveways,                 and mailboxes.                Plows     come back after the storm                     to push edges back to
+Millcreek         City      Council          Meeting        Minutes                                        27 November            2023         Page 2 of 7
+
+
+
+   widen        the road for future               snow storage.          The snow in large intersections                         must go somewhere.
+   Sometimes             people       wonder        why their street has not been plowed,                             and it could        be because           snow
+   is still     falling,     people      blow        snow back on the road, time,                       large storm,       and too many               cars are
+   parked        on the road. John Miller                   told the county             drivers       not to go down            roads they are not
+   comfortable             driving      on. Hulbert          asked residents             to provide         feedback       and Operations              would
+   provide        education           for residents.         Council         Member        Jackson         said she received             a lot of
+   compliments              on snow plowing                 during     the prior        winter.       Mayor      Silvestrini          said Millcreek
+   residents        loved       the snow removal                  services    provided.           Council      Member          Uipi     echoed        the
+   sentiments.
+
+
+2. Planning            Matter        First      Reading:          ZM-23-006,            Request        to Rezone         from         C-2 to RM         at 2888
+   E 3300 S; Carlos                  Estudnlo,          Planner
+   Carlos       Estudillo        said the applicant               previously       received           preliminary        approval         for a 19 unit
+   hotel      at the location,          but the project             did not come to fruition.                  This project           would     consist       of
+   residential         units     and not be of commercial                     use. He said the lot was O.32 acres and was
+   surrounded            by R-1-8,           R-M,     and C-2. The new proposal                       consisted        of 6 townhome             units capped
+   at 35 feet high.             Every        unit would       have a two-car              garage,       there would        be three guest parking
+   stalls,    water-wise          plants        would      be planted,         and most          architectural         requirements            of the project
+   had been met. Mayor                       Silvestrini     asked about the height                   of the existing          zone. Estudillo              noted
+   under      the C-2 and R-M                  zones, the maximum                 height        allowed       was 45 feet, however                both zones
+   required        a transition         with      residential        uses. He showed               the council         an image         of the existing            site
+   and a site plan for the proposed                         project.     Mayor          Silvestrini        asked about the guest parking                      and
+   public       safety      access. Estudillo              said it would        be located            on the southern           portion       of the property,
+   and a fire turnaround                 was not required.              He showed            the council         renderings           of the proposed
+   buildings.          Mayor      Silvestrini          asked about the balcony                    supports.      Estudillo        said the fire
+   department            was not woried               about the trusses.               Council      Member           DeSirant         asked what was to
+   the east and west of the subject                         property,        Estudillo       said to the west was an office                     and to the
+   east was a vet clinic.
+
+
+   Estudillo        showed        the council           the proposed           floor     plans.     He said the General                 Plan designated
+   the property            as Mixed-Use             1, and the project            met goals N-I,              N-2,     and N-6.        The Canyon            Rim
+   Citizens       Association            unanimously              recommended             the rezone.          The East Mill            Creek    Community
+   Council        unanimously                recommended             the rezone;         however,          members        of the council          proposed
+   the following            conditions           or items to address in a potential                        development           agreement:
+    *   Units     to be allowed               for owner       occupancy.
+    s No short-term               rentals       written     in the CC&R's.
+    s No left turns on 3300 South,                          coming      out of parking             lot.
+    *   A ten (10) foot fence to be placed                           along the south property                   line, against          the R-1
+        neighborhood.             The fence must be composed                            of sturdy         materials     such as brick           or masor'u'y.
+    *   No motion           lights,     balcony         screens, or any mitigation                    to protect       the privacy         of the R-1
+        neighborhood,             just south of the subjected                    lot.
+
+
+   Mayor        Silvestrini       mentioned            that in the neighborhood                    meeting,       opinions        were expressed              that
+   owner        occupied        residential         was more favorable                  than the prior         hotel.     Mayor         Silvestrini         said a
+   10 foot fence on the south property                             line was imposing               on the neighbors              to the south. Estudillo
+   said the fence was a carryover                          from     the original        hotel     proposal.       Code required               a 6 foot fence
+   with      certain       elements.         The Planning           Commission             recommended                approval        of the application
+   with      the added condition                 that it be platted           for owner          occupancy.          He noted         owner     occupancy
+Millcreek         City      Council        Meeting          Minutes                                       27 November               2023           Page 3 of 7
+
+
+
+    could not be enforced                  via code, but the applicant                     was amenable               to it via a development
+    agreement.
+
+
+    Estudillo        reviewed         his findings           and conclusions              from      the staff report.           The development
+    agreement            would     address uses, height,                   setbacks,      parking,        landscaping           and open space, exterior
+    lighting,      materials,         right-of-way             improvements,              street lighting,           and utilities.        He said the owner
+    occupancy            was not in code, so he did not add it to the development                                             agreement           but would
+   under        the council's         direction.        He recommended                    approval        of the application.              John Brems                 said
+   the owner         occupancy            could      be addressed              in the development                 agreement,        CC&Rs,             or in a deed
+   restriction.
+
+
+   Russell        Platt,     architect,     said they were favorable                      to owner          occupancy          on the plat. He was
+   willing       and able to remove                  the balcony            trusses.     Tariq      Mughal,         applicant,      described              the uses
+   that were previously                explored          for the site. He noted his family                          would      like to live on site. The
+   intention        for the project           was for owner                occupancy.         Mayor         Silvestrini        and Council             Member
+   Uipi      expressed          appreciation          for the project.
+
+
+3. Grandeur              Peak     Bonneville           Shorenne             Trail      Funding         Request        Discussion
+   Mayor         Silvestrini       said the city and Salt Lake County                             were able to acquire                  property           on the
+   shoulder        of Grandeur            Peak to construct                 a segment        of the Bonneville                Shoreline           Trail.     The trail
+   was constructed                by Trails      Utah.       He said it was a great amenity                         for the city and was already
+   well     loved.       Trails    Utah,      due to unforeseen                 issues, were in the hole on the project                              by about
+   $19,000        and had asked the city to help alleviate                               that. The city had already                     given       them
+   $10,000,        but the mayor            asked the council                  if they would           be willing         to provide         an additional
+   $5,000.       Tlie council          said it was worth              commissioning                 a study        on the appropriation.
+
+
+4. Millcreek         Historic         Preservation              Scope         of Collection           Policy       Discussion;           Francis            Lffly,
+   Assistant         City       Manager
+   Francis       Lilly      said one of the roles of the Historic                          Preservation            Cornrnission           (HPC)            is to be a
+   repository        for Millcreek's             history.       The coinmission                  received        grant money            from       the State
+   Historic       Preservation            Office      to set up a digital              historical       archive,       which       presented           questions               of
+   what and how to collect                    artifacts.       The HPC recommended                          only     collecting         digital
+   documentation.               The scope of collections                     policy      would       articulate       what would            and would                not be
+   collected,        how it was collected,                  and what to do with                  collections.         They want digital                    copies         of
+   historical       documents          and photographs,                    digital     audio files or oral istories                  from         Millcreek
+   residents       if done in the right               way,      official       documents          pertaining         to the grassroots               efforts         to
+   incorporate           Millcreek,        digital     copies       of historic          video      footage        of public      life in Millcreek,                  and
+   any news or documentary                       footage        involving            Millcreek       government,              as well     as interview
+   footage       of elected        officials.        They      do not want             any physical         object,       unless    collected
+   temporarily            for digitization,          digital      copies       of personal          artifacts,      letters,     or documents                that do
+   not pertain           to Millcreek's         history,        or video        interviews,          unless       initiated     by the city.           He said
+   Cottonwood              Heights     had a similar             digital       archive     the council            could view        as an example.
+
+
+   Lilly     said the purpose             of the collection            was to increase               the awareness             of Millcreek's               history
+   and to serve as a repository                      for important            documents,            artifacts,      and other items               of historical
+   significance           to Millcreek,          and to commemorate                      particular       moments           in Millcreek's             history,
+  including         but not limited             to the time periods                  the HPC would               be interested          in - the role of
+  Black       pioneers         in the founding           of the community,                  Millcreek's            development            in the mid-20th
+Mfflcreek        City     Council        Meeting         Minutes                                      27 November                2023         Page 4 of 7
+
+
+
+   Century        as a suburb,          and the incorporation                of Millcreek            as a municipality              in 2016.     Council
+   Member         Jackson          asked wliy       pioneers       were limited             to Black        pioneers,      and suggested
+   Millcreek's           historical      families       be included.         Lilly     said the eras were to include                       them but would
+   not be limited           to them.      The sub collection               eras reflected            Kirk     Huffaker's           recoru'iaissance
+   survey       ofi
+    1. Pre-Pioneer            Settlement,          Pre-1847
+    2. Early          Settlement       and Milling         Period,      1848-1877
+     3. Community             Building,        Black      Settlement         & Transition             Period,         1878-1904
+    4. 5rom Prosperity to the Great Depression, 1904-1938
+     5. Subdivision           Development,              1939-1957
+     6. Suburban           and Late Twentieth                Century       Development,              1958-1977
+    7. Millcreek           from       1978 to Today's           eras.
+
+
+   Lilly     said there were two ways artifacts                        would         be collected,          digital     and physical.          There      was a
+   process       to retum       artifacts.     Mayor         Silvestrini       said this policy             provided       guidelines          for
+   collection.         Artifacts       could be collected            by the city, but the city did not want to be a storage
+   tmit for them.           He mentioned            the Baldwin            Radio      Factory        had artifacts         of products         produced          in
+   the early days. He felt things                   of that nature           could be collected               and put on display.               Lilly     said
+   this policy         addressed        ownership         and custody.          He was concerned                      about the city being              too eager
+   to take possession               of artifacts     without       having       the resources           to protect         them.      Lilly    requested         the
+   council       adopt the policy            via resolution.         Council          Member          Catten      asked about           accepting
+   something           that was subject         to being        offensive,           though       part of history.         Lilly     said that would             be
+   decided       during      the HPC's         determination            discussion           (as described            in the policy).         Council
+   Member         Uipi     coinmended           Lilly     for his leadership               with     the commission.              She wantedto             convey
+   utilizing      the coinrnission's            priorities      with       artifact     intake.      She noted existing               families       in
+   Millcreek          who could be added to the timeline.                          Lilly     said the HPC recomi'nended                        approval      of
+   the policy.         He suggested          changing         the purpose            of the collection           to add a line addr'essing                 the
+   heritage       of Millcreek          families        still in existence.
+
+
+5. Staff     Reports
+  There      were none.
+
+
+6. Discussion           of Agenda         Items,        Correspondence,                and/or        Future       Agenda           Items
+   There       was none.
+
+
+
+Council        Member         DeSirant         moved        to adjourn          the work            meeting           at 6:46 p.m.         Council
+Member         Jackson        seconded.         Mayor         Silvestrini        called       for    the vote.         Council        Member            Catten
+voted      yes, Council         Member         DeSirant          voted       yes, Council            Member             Jackson       voted      yes,
+Council        Member         Uipi     voted    yes, and Mayor                Silvestrini           voted      yes. The       motion          passed
+unanimously,
+
+
+
+
+REGULAR               MEETING            - 7:00 p.m.
+TIME        COMMENCED:                    7:05 p.m.
+ Millcreek         City     Council         Meeting        Minutes                                   27 November              2023        Page 5 of 7
+
+
+
+1. Welcome,             Introduction             and Preliminary              Matters
+             1.1 Pledge           of Allegiance
+             Mayor         Silvestrini      called      the meeting         to order and led the pledge                 of allegiance.
+
+
+             1.2 Unified           Police     Department             Millcreek         Precinct      Officer         of the Month          for October
+             2023
+             Chief      Petty-Brown           announced           Officer     Tyrone       Thainrnavongsa              and Officer        Anthony
+             Crawford         as the Officers            of the Month          for October         2023. An elderly            resident         called        and
+             requested        assistance         with     a large tree that had fallen              during         a storm    that had blocked                the
+             roadway         and her driveway.              The officers         cut and removed             the tree though           it was not a
+             routine       call for service.          The cliief      said these officers           were always          finding       ways to solve
+             problems,         even when the problems                   were not typical            for the police.
+
+
+            1.3 Public          Comment
+             There      was none.
+
+
+2. Business          Matters
+             2.1 Discussion              and Consideration              of Resolution             23-51,     Authorizing           the City        to
+            Intervene          in and Participate               m any Proceedings                  Before      the Utah        Department                of
+            Environmental                 Quality,       Division       of Air       Quality,      Regarding           any Approval              Order
+            Granted          to Granite           Construction          Company,            its Successors            or Assigns,         for a
+            Proposed           Permanent             Aggregate        Mining,         Crushing        and Screening             Facility         Known              as
+            the I-80        South        Quarry         and to Engage            Legal     Counsel         to Advise         and Represent               the
+            City     in such Proceedings
+            Mayor         Silvestrini       said this resolution             would     formalize         the city's     position      in opposing              the
+            application         for a mine          in Parley's       Canyon.        Millcreek       filed    an opposition           coinn'ient         to the
+            Division        of Air       Quality.       The city's     outside       counsel      had been meeting             with       stakeholders
+            on the issue. There               was an objection              by tlie applicant        that the city did not have authority.
+            This resolution              would      give the council          authority         to pursue     a potential       appeal.
+
+
+Council       Member           Jackson           moved      to adopt        Resolution          23-51,     Authorizing          the City          to
+Intervene          in and Participate               in any Proceedings                Before       the Utah         Department            of
+Environmental               Quality,        Division       of Air     Quality,        Regarding            any Approval            Order         Granted
+to Granite         Construction             Company,          its Successors              or Assigns,        for    a Proposed         Permanent
+Aggregate          Mining,         Crushing          and Screening             Facility     Known          as the I-80        South       Quarry          and
+to Engage          Legal      Counsel        to Advise        and Represent               the City       in such Proceedings.                   Council
+Member         DeSirant            seconded.
+Council      Member          Jackson        said residents          in her district        were directly           impacted     by the dust from
+the canyon.         Mayor       Silvestrini         said it may be effective               to have a resident           directly      affected         by the
+current     dust testify.         Council        Member       Uipi     agreed      and appreciated            the council's         support.
+The Recorder              called     for the vote.         Council          Member         Catten     voted         yes, Council          Member
+DeSirant       voted        yes, Council            Member        Jackson         voted     yes, Council            Member         Uipi        voted     yes,
+and Mayor           Silvestrini          voted      yes. The motion             passed      unanimously.
+
+
+           2.2 Discussion               and Consideration               of Ordinance             23-45,      Adopting         Millcreek's              2024
+           Regular          Meetings         Schedule
+           Elyse       Sullivan      said the annual          schedule         was required          by code and it reflected                   the same
+           recurring         days/times          as the prior       year.
+Mfflcreek          City    Council         Meeting         Minutes                                       27 November            2023        Page 6 of 7
+
+
+
+
+Council       Member             Catten     moved          to approve        Ordinance             23-45,      Adopting         Millcreek's           2024
+Regular       Meetings            Schedule.         Council         Member        Jackson          seconded.          The Recorder             called       for
+the vote.      Council           Member           Catten     voted      yes, Council             Member         DeSirant        voted       yes, Council
+Member         Jackson           voted     yes, Council           Member          Uipi     voted         yes, and Mayor           Silvestrini          voted
+yes. The motion                 passed     unanimously.
+
+
+3. Reports
+            3.1 Mayor's            Report
+            Mayor         Silvestrini      reported        a successful         grand opening              for the new city hall. He
+            corni'nended          staff for putting           the event together.               He thanked          Council      Members            Jackson
+            and Uipi        for participating           in the tree lighting             on Millcreek           Cominon         the prior      week.        The
+            Millcreek           Magic      Ice Show would             be that week.             He congratulated             Council       Member
+            Jackson        for winning            the District      3 race in the recent                election.
+
+
+            3.2 City        Council        Member           Reports
+            Council        Member          Uipi     echoed       the success of the city hall grand                     opening.
+
+
+            3.3 Treasurer's               Report
+            Council        Member          Jackson      reported:
+            a As of November                27, 2023, the balance                 of the Series 2021 Bond                    Construction           Fund is:
+               $0. The final            draw was sent that morning.                   (City       Hall     construction)
+            a As of November                27, 2023, Millcreek's                 PTIF       account       balance      is: $42,035,674.07.
+            a As of November                27, 2023, FY24              property         tax has been received                in the amount           of
+               $2,239,013.43.              Lastyearatthissametime,Millcreekhadreceived$2,353,220.70.
+            a As of November                 27, 2023, FY24             sales tax has been received                    in the amount           of
+               $3,750,506.48.              Last year at this same time, Millcreek                           had received         $3,816,869.02.
+
+
+            3.4 Staff       Reports
+            Mike      Winder        reported        on the executive            holiday         party    the following         week.       He requested
+            the council          attend the first Millcreek               Magic      ice show to welcome                     residents.      He said staff
+            anticipated          cancelling         the December          18"1 council            meeting.      He reported         a memorial             bench
+            for Winnie           Watson       had been designed              for Canyon            Rim      Park and would             be installed         in the
+            spring.
+
+
+            3.5 Unified           Police     Department             Report
+            Chief      Petty-Brown           reported        that she selected            Lt. Luis        Lavado      as the Executive              Officer        for
+            the precinct.          She reported         the October          ce          statistics.       There     were 2,797         calls for service,
+            960 cases, 433 citations,                  and 22 booking             arrests.       There     were 40 assaults,            9 burglaries,          17
+            drug offenses,           74 family         offenses,      87 larcenies,             4 robberies,        5 sex offenses,          and 22 stolen
+            vehicles.       Millcreek         c.o.p.       detectives     joined         with     Salt Lake         County     Health,       Salt Lake
+            City    Public       Works,       Salt Lake City           Police,      and Advantage              Services       to clean up garbage
+            from      illegal     encampments              on the north      and south side of Van Winkle                         Expressway            from
+            900 East to 1300 East. Over 4.5 tons or 9,800 pounds                                          of waste was collected.              The East
+            Mill    Creek Lion's            Club      donated       15 turkeys       to families           in need for Thanksgiving.
+            Millcreek           c.o.p.     detectives       worked       with     the Millcreek            Promise      Program           to identify
+            families       in need to receive              the turkeys       from    the Lion's            Club.     The detectives          picked        up the
+            turkeys       on the Wednesday                 before     Thanksgiving              and handed          them out to the families                  in
+Millcreelc        City         Council      Meeting          Minutes                                  27 November                 2023       Page 7 of 7
+
+
+
+             time for the Thanksgiving                       meal. In the month            of October,         Millcreek's           Community            Crime
+             Suppression            Unit     had 8 arrests, 151 traffic               stops, 12 stolen vehicles                   investigations,         5
+            recovered            stolen vehicles,           14 drug investigations,               and 5 agency           assists, and seized 97.4
+             grams       o m                           o                                    grams     o Marijuana,            201 pills        of Fentanyl,
+             and 24.6 grams               of Cocaine.         In the month          of October,          officers     responded          to 18 transient
+             calls, 63 mental              health     calls, 110 traffic          accidents,       and 24 hit and runs.
+
+
+            Council        Member           Uipi     brought      up the decrease in bookings                       but increase         in citations.        She
+           mentioned             repeat callers            and asked if they pulled               resources         from high priority           calls.       Chief
+           Petty-Brown              said calls were prioritized                   as they were called               into dispatch.          Lower    priority
+            calls did take longer                  to be responded             to, but they were not pulling                away resources               from
+           higher        priority        calls.
+
+
+4. Consent          Agenda
+           4.1 Approval              of October            26, 2023 Work           Meeting        and Regular          Meeting        Minutes
+
+
+Council         Member           Jackson          moved       to approve          the work        and regular           meeting          minutes         from
+October         26, 2023.         Council          Member        Catten         seconded.        Mayor        Silvestrini          called    for the vote.
+Council         Member           Catten       voted        yes, Council         Member           DeSirant       voted       yes, Council            Member
+Jackson         voted     yes, Council              Member        Uipi      voted     yes, and Mayor                Silvestrini        voted    yes. The
+motion       passed        unanimously
+
+
+5. New       Items       for     Subsequent           Consideration
+There were none.
+
+
+6. Calendar             of Upcoming               Meetings
+    *    Mt. Olympus              Community            Council         Mtg.,    12/4/23,        6:00 p.m.
+    *    Millcreek         Comi'nunity             Council      Mtg.,    12/5/23,       6:30 p.m.
+    *    Canyon         Rim      Citizens         Association       Mtg.,       12/6/23,        7:00 p.m. TBD
+    *    East Mill        Creek         Community            Council      Mtg.,     12/7/23,       6:30 p.m.
+    *    City    Council         Mtg.      12/1 1/23,        7:00 p.m.
+    *    Historic       Preservation              Comi'nission      Mtg.,       12/19/23,        11:30      a.m.
+
+
+
+ADJOURNED:                     Council       Member           DeSirant          moved      to adjourn          the meeting            at 7:39 p.m.
+Council         Member           Jackson          seconded.       Mayor         Silvestrini        called     for the vote.           Council       Member
+Catten     voted        yes, Council              Member         DeSirant         voted     yes, Council            Member          Jackson         voted       yes,
+Councn          Member           Uipi     voted      yes, and Mayor               Silvestrini      voted      yes. The       motion          passed
+unanimously
+
+
+
+
+                                        Attest:                 Elyse Sullivan,           City Recorder
+

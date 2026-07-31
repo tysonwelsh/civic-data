@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "Terry George", "amount": "1108.83", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Vista Print - Signs & Cards", "purpose": null, "amount": "918.83", "in_kind": false},
+    {"date": null, "recipient": "USPS - Stamps", "purpose": null, "amount": "140.00", "in_kind": false},
+    {"date": null, "recipient": "SL County - Candidate Fee", "purpose": null, "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "1108.83",
+  "total_expenditures": "1108.83",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202508_george_magna-d4_primary_v575.pdf",
+    "candidate": "Terry George",
+    "office": "City Council District 4",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/magna_city_council/campaign_finance/raw/202508_george_magna-d4_primary_v575.pdf",
+    "pages": 5
+  }
+}

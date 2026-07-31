@@ -1,0 +1,373 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1900&doc_id=dc12ecb1-367b-11f0-856f-005056a89546
+> Meeting date: 2025-05-06
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 6,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:       Mayor Troy K. Walker, and Councilmembers Bryn Heather Johnson,
+               Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED: Mike Green
+STAFF:         Mike Barker, City Manager; Travis DeJong, Business License Official; Rich
+               Ferguson, Chief of Police; Traci Gundersen, City Attorney; Jennifer
+               Jastremsky, Community Development Director; Robert Markle, Public
+               Works Deputy Director; Malena Murray, Human Resource Director;
+               Rhett Ogden, Parks and Recreation Director; Linda Peterson,
+               Communications Director; Maryann Pickering, Planner; Nicole Smedley,
+               City Recorder; Clint Smith, Fire Chief; Jake Sorensen, Network Manager;
+               and John Vuyk, Finance Director.
+______________________________________________________________________________________________
+
+Study Session
+
+South Valley Chamber Annual Update
+Jay Francis, President and CEO of the South Valley Chamber of Commerce, provided
+an update on the Chamber’s activities. He reported on tourism initiatives, highlighted
+social media engagement metrics, and reviewed events and accomplishments from
+2024.
+
+Closed Meeting
+Mayor Walker moved the Closed Session item forward on the agenda to allow
+sufficient time for discussion.
+
+At 6:21 pm, Councilmember T. Lowrey motioned to go into closed session to
+discuss the purchase, exchange, or lease of real property or a development
+agreement. Councilmember Vawdrey seconded the motion.
+
+A roll call vote was taken. The motion passed unanimously.
+                                Yes No Absent
+Councilmember Green                          X
+
+                                                                                    1|Page
+         Draper City Council Approved Meeting Minutes – May 20, 2025
+Councilmember Johnson            X
+Councilmember T. Lowery          X
+Councilmember F. Lowry           X
+Councilmember Vawdrey            X
+
+The Council reconvened in open session at 6:59 pm.
+
+OPMA/Ethics Training
+This item was continued to a future meeting.
+
+
+Council/Manager Reports
+This item was moved to the end of the Business Session.
+
+
+Business Session
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Pledge of Allegiance led by Jake Sorensen
+
+3.    Recognition: Miss Draper 2024 Royalty
+      Mayor Walker recognized and thanked Sloane James, Miss Draper 2024, along
+      with Attendants Skylar Zamalloa, Laulea Tavake, and Kamryn Stuart, for their
+      year of service as Miss Draper Royalty. Mayor Walker also expressed
+      appreciation to all individuals involved in the Miss Draper Royalty program.
+      Ms. James presented a video showcasing photographs from the past year of
+      service.
+
+4.    Proclamation
+      Mayor Walker read aloud a proclamation recognizing May 2025 as Bike Month
+      in Draper City, and urged all residents to join in observance.
+
+5.    Public Comments
+      Christopher Gardner, a Draper resident, stated that he had unintentionally
+      violated the Zoning Code by constructing a structure in his backyard without a
+      permit, not realizing one was required. He explained that he is a disabled
+      veteran with mental health challenges and was unaware of the setback
+      requirements, noting that due to his condition, he sometimes misses details
+      others may take for granted. Mr. Gardner said he had been working with city
+
+                                                                           2|Page
+      staff to obtain a permit retroactively but was informed that staff were limited
+      by the constraints of the Code. He noted he had obtained letters of support
+      from neighbors and encroachment clearance from all utility companies. Mr.
+      Gardner expressed a desire to resolve the issue appropriately and asked for
+      guidance on how to proceed. He stated he was willing to pay a fine and
+      officially include the structure in the property’s taxable footprint. He shared
+      that one reason for building the structure was to make his yard accessible to
+      the neighborhood for recreational activities. He added that modifying the
+      structure to bring it into compliance would be cost-prohibitive and be
+      unsightly.
+
+      Michael Edward Chenoweth, a Draper resident, thanked the Council for the
+      opportunity to recite the Pledge of Allegiance in a public setting. Mr.
+      Chenoweth stated that he is a neighbor of Mr. Gardner and spoke about
+      challenges in the neighborhood related to irrigation mitigation. He noted that
+      Mr. Gardner’s landscaping improvements and the addition of the accessory
+      structure had resolved standing water issues on his corner of the adjacent lots,
+      benefiting neighboring properties. Mr. Chenoweth stated that adjoining
+      neighbors had no objections to the structure and expressed concern that
+      dismantling it would be unfortunate. He remarked that the Zoning Code can
+      be confusing and suggested that the City provide a simplified explanation or
+      an instructional video on the website to help property owners better
+      understand allowable uses.
+
+
+6.    Consent Items
+6.a   Approval of the April 22, 2025 City Council Meeting Minutes
+6.b   Approval of Resolution #25-19 establishing an interim policy for
+      processing classification requests for new and unlisted business uses
+      pursuant to Senate Bill 179
+6.c   Approval of Resolution #25-22 approving and authorizing the execution
+      of a Vote Center Agreement between Draper City and Salt Lake County
+      for the 2025 municipal elections
+
+      Councilmember T. Lowery moved to approve the Consent Agenda.
+      Councilmember Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+
+
+                                                                            3|Page
+      Councilmember Green                                X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+7.    Action Items
+7.a   Ordinance #1648 amending Title 6-4 of the Draper City Municipal Code
+      pertaining to alcoholic beverage licenses – hospitality amenity licenses
+      and bar establishment licenses
+      Business License Official Travis DeJong presented proposed amendments to
+      Title 6-4, which would add hospitality amenity license to City Code. He
+      explained that with a hospitality amenity license, which may be used all year,
+      alcohol may only be served to hotel guests, and two single servings of alcohol
+      may be provided free of charge (if not spiritous liquor). Comparatively, with a
+      single event license, which may only last up to five days, alcohol may be
+      provided only for purchase, and may be purchased by all attendees.
+
+      Mr. DeJong said the total number of bar establishment licenses allowed in the
+      City was capped at eight, with an added restriction that one license must go to
+      a bar establishment located within a full-service hotel. The City currently had
+      seven active bar establishment licenses, none of which were in a full-service
+      hotel. Mr. DeJong recommended removing the requirement that one of the
+      bar establishment licenses must be reserved for a full-service hotel, without
+      increasing the number of bar establishments allowed.
+
+      Mr. DeJong explained proposed amendments regarding transfer of licenses,
+      and removal of application requirements from Code to allow staff to
+      determine and update what was required in application forms without Code
+      amendment.
+
+      Responding to a question from Councilmember Vawdrey, Mr. DeJong said
+      hospitality amenity licenses would need to be renewed yearly, but renewal
+      would not require Council consent. Mr. DeJong said the proposed text was
+      copied from another Draper Code text amendment and modified for
+      hospitality amenity license, and was not directly pulled from State Code. Mr.
+      DeJong answered questions from the Council regarding hospitality amenity
+      license versus single event license. He said the proposed amendments were
+      drafted in response to a request from an applicant.
+
+                                                                            4|Page
+Councilmember T. Lowery asked if hospitality amenity licenses were common
+in other cities. Community Development Director Jennifer Jastremsky said it
+typically depended on the classification of hotel. Mr. DeJong said he did not
+know if cities adjacent to Draper offered hospitality amenity licenses.
+
+Councilmember F. Lowry expressed concern that amending the Code to
+eliminate the future possibility of an alcohol license for a full-service hotel in
+order to accommodate a single applicant was troubling. Councilmember
+Vawdrey said no one seemed to completely understand what a hospitality
+amenity license was, and said she was uncomfortable combining so many
+separate changes in one ordinance. She suggested the different changes
+should be approved separately.
+
+City Attorney Traci Gundersen explained a hospitality amenity license could be
+obtained from the State, but Draper Code did not currently include a definition
+for that type of license.
+
+Councilmember Vawdrey moved to approve removing the full-service
+hotel stipulation from bar establishment licenses, Section 6-4-
+050(B)(2)(c). Councilmember T. Lowery seconded the motion.
+
+A roll call vote was taken. The motion passed unanimously.
+                                 Yes No Absent
+Councilmember Green                            X
+Councilmember Johnson             X
+Councilmember T. Lowery           X
+Councilmember F. Lowry            X
+Councilmember Vawdrey             X
+
+Councilmember F. Lowry moved to continue amendments related to
+hospitality amenity licenses, application requirements, the transfer of
+on-premises beer retailer licenses, and various formatting and grammar
+changes to a future meeting. Councilmember Johnson seconded.
+
+A roll call vote was taken. The motion passed unanimously.
+                                 Yes No Absent
+Councilmember Green                            X
+Councilmember Johnson             X
+
+                                                                        5|Page
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+8.    Items for Council Consideration
+8.a   Public Hearing: Ordinances #1649 and #1650 amending the official Land
+      Use Map of Draper City from Residential Low-Medium Density to
+      Residential Medium-High Density, amending the official Zoning Map of
+      Draper City from RA2 (Residential Agricultural) to RM2 (Residential
+      Multiple-Family), and approving a Development Agreement for
+      approximately 0.046 acres for the property located at approximately
+      13040 S. 1300 East, within Draper City, otherwise known as the Lingo Land
+      Use, Zoning and Development Agreement
+      Maryann Pickering, Planner, showed the property under consideration on a
+      map, and explained the proposal was to change the land use designation to
+      Medium-High Density and the zoning to RM2 to match the property to the
+      north. The Development Agreement would be upgraded for the property to
+      allow one single-family residential unit. Ms. Pickering explained the three
+      applications must be considered prior to a boundary line adjustment and
+      official transfer of the property. She stated that the Planning Commission
+      reviewed the application and forwarded a positive recommendation.
+
+      Councilmember Johnson asked about future development restrictions on the
+      property when the 10-year Development Agreement expired. Ms. Pickering
+      said the property did not meet square-foot requirements for multi-family
+      development.
+
+      Shane Lingo, applicant, said he was trying to purchase the small subject
+      property to connect it to his current backyard.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember Vawdrey moved to approve Ordinance #1649 and
+      Ordinance #1650. Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                            X
+
+                                                                        6|Page
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+8.b   Public Hearing: Resolution #25-20 establishing the Draper City Tentative
+      Budget for Fiscal Year 2025-2026 ending June 30, 2026, and setting the
+      public hearing date of May 20, 2025 to receive comment on the tentative
+      budget
+      Finance Director John Vuyk presented a Tentative Budget for FY2026,
+      highlighting increases and decreases compared to the FY2025 Budget. Mr.
+      Vuyk pointed out the property tax rate would reduce with removal of the
+      current general obligation (GO) bond. He explained a plan to reduce the deficit
+      in the Water Fund with proposed increases to water rates over multiple years.
+
+      Mayor Walker opened a public hearing.
+
+      David Cloward, Draper resident and Chair of the Draper Tree Committee,
+      thanked the City Council and City staff for support of the Tree Committee. He
+      referred to a presentation he made previously to the City Council in which he
+      emphasized the need for a full-time arborist on staff, and repeated that a
+      dedicated full-time arborist was needed. He commented that all neighboring
+      cities had a dedicated full-time arborist. Mr. Cloward said it was his
+      understanding that the request for a City arborist had been addressed by
+      outsourcing mowing to be able to free up other resources, but the City would
+      still not have an individual on staff dedicated to the trees. He emphasized the
+      need for a dedicated full-time arborist, and asked the Council to reconsider.
+
+      Mayor Walker closed the public hearing.
+
+      Councilmember F. Lowry moved to approve Resolution #25-20 adopting
+      the FY2026 Tentative Budget and setting a public hearing date of May 20,
+      2025. Councilmember Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                            X
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+
+                                                                           7|Page
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+8.c   Public Hearing: Resolution #25-21 amending the adopted budget of
+      Draper City for Fiscal Year 2024-2025
+      Mr. Vuyk presented proposed amendments to the FY2025 Budget, and
+      answered questions from the Council.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember F. Lowry moved to approve Resolution           #25-21.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                            X
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+9.    Recess to a Draper City Community Reinvestment Agency Meeting
+      Councilmember T. Lowery moved to recess to a Community
+      Reinvestment Agency meeting. Councilmember Vawdrey seconded the
+      motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                            X
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+      The Council resumed the City Council meeting at 8:21 pm.
+
+Council/Manager Reports (Continued from Study Session)
+
+
+
+                                                                   8|Page
+      Councilmember F. Lowry thanked Mr. Vuyk for his work on the budget and
+      asked if crosswalks could be added at two specific trail crossings to improve
+      safety. Staff indicated they would look into the possibility. Councilmember F.
+      Lowry also requested that markers be added on northbound Fort Street to
+      warn drivers of the bend in the road.
+
+      Councilmember Johnson thanked all those involved in the Arbor Day and Cinco
+      de Mayo celebrations.
+
+      Councilmember T. Lowery inquired about how recent State legislation might
+      affect parking in bike lanes. Staff stated they would explore potential options.
+      She also asked if funding for an arborist position could be included in the
+      FY2026 budget. Mr. Ogden responded that staffing could potentially be
+      adjusted to create a full-time arborist position. Councilmember Johnson
+      requested a tentative proposal showing how the staffing structure would be
+      organized. Additionally, Councilmember T. Lowery noted she had received
+      positive feedback from residents regarding the new lighting at the
+      amphitheater.
+
+      Parks and Recreation Director Rhett Ogden asked the Council if they wished
+      to provide updated direction for the hours of operation at the City splash pad.
+      Councilmember Vawdrey suggested opening the splash pad during the
+      farmers market and expressed interest in having it open more frequently. The
+      Council discussed parking arrangements for the farmers market, including the
+      option of closing the road for the event. A majority of the Council appeared to
+      support opening the splash pad daily, provided staff availability.
+
+      Fire Chief Smith reported that Draper City had received a grant of
+      approximately $120,000 to create a fire break in the Mercer Hollow area.
+
+10.   Adjournment
+      Councilmember Johnson moved to adjourn the meeting. Councilmember
+      T. Lowery seconded the motion, which passed by unanimous voice vote
+      (4-0).
+
+      The meeting adjourned at 8:38 pm.
+
+
+                                                                            9|Page
+

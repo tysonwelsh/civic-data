@@ -1,0 +1,42 @@
+{
+  "contributions": [
+    {"date": "6/23/2025", "name": "Matt & Sherryl Cowley", "amount": "100.00", "in_kind": false},
+    {"date": "7/5/2025", "name": "Deb Hutchison", "amount": "100.00", "in_kind": false},
+    {"date": "6/1-7-17/2025", "name": "Bill & Pam Cotter", "amount": "2,938.83", "in_kind": false},
+    {"date": "6/12/2025", "name": "Laura Cotter", "amount": "90.00", "in_kind": true},
+    {"date": "6/14/2025", "name": "Laura Cotter", "amount": "60.00", "in_kind": true},
+    {"date": "6/16/2025", "name": "Laura Cotter", "amount": "30.00", "in_kind": true},
+    {"date": "6/19/2025", "name": "Laura Cotter", "amount": "15.00", "in_kind": true},
+    {"date": "6/21/2025", "name": "Laura Cotter", "amount": "30.00", "in_kind": true},
+    {"date": "6/22/2025", "name": "Laura Cotter", "amount": "90.00", "in_kind": true},
+    {"date": "7/1/2025", "name": "Laura Cotter", "amount": "15.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "6/2/2025", "recipient": "FastSigns", "purpose": "Re-elect stickers", "amount": "398.64", "in_kind": false},
+    {"date": "6/2/2025", "recipient": "Murray City", "purpose": "Candidate Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "6/5/2025", "recipient": "Amazon", "purpose": "Parade candy", "amount": "108.60", "in_kind": false},
+    {"date": "6/5/2025", "recipient": "SL County Clerk", "purpose": "Voter list", "amount": "15.00", "in_kind": false},
+    {"date": "6/5/2025", "recipient": "FastSigns", "purpose": "magnetic signs", "amount": "113.71", "in_kind": false},
+    {"date": "6/12/2025", "recipient": "WIX Webpage", "purpose": "", "amount": "186.61", "in_kind": false},
+    {"date": "6/12/2025", "recipient": "WIX Webpage", "purpose": "", "amount": "12.90", "in_kind": false},
+    {"date": "6/20/2025", "recipient": "Exchange Club Candidate Night", "purpose": "", "amount": "30.00", "in_kind": false},
+    {"date": "6/25/2025", "recipient": "Amazon", "purpose": "Business Cards", "amount": "26.24", "in_kind": false},
+    {"date": "7/2/2025", "recipient": "City Journal ad (August)", "purpose": "", "amount": "360.00", "in_kind": false},
+    {"date": "7/8/2025", "recipient": "Sun Printing", "purpose": "Mailer", "amount": "1,771.63", "in_kind": false},
+    {"date": "7/9/2025", "recipient": "District Map - SL County Surveyor", "purpose": "", "amount": "20.50", "in_kind": false}
+  ],
+  "total_contributions": "3,138.83",
+  "total_expenditures": "3,138.83",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202508_Pamela-Jane-Cotter_17017.pdf",
+    "candidate": "Pamela Jane Cotter",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202508_Pamela-Jane-Cotter_17017.pdf",
+    "pages": 8
+  }
+}

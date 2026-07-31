@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "LOAN TO SELF", "amount": "660.82", "in_kind": false},
+    {"date": null, "name": "LOAN TO SELF", "amount": "35.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "CAROUSEL HAT", "purpose": null, "amount": "660.82", "in_kind": false},
+    {"date": null, "recipient": "WCCC - LAST BLAST OF SUMMER", "purpose": null, "amount": "35.00", "in_kind": false}
+  ],
+  "total_contributions": "695.82",
+  "total_expenditures": "695.82",
+  "contributions_50_or_less": "35.00",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2025_price_cf_10-07.pdf",
+    "candidate": "Linda Price",
+    "office": "Council At-Large B",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/white_city_city_council/campaign_finance/raw/2025_price_cf_10-07.pdf",
+    "pages": 4
+  }
+}

@@ -1,0 +1,11 @@
+# roster_overrides.csv — West Jordan hand-correction layer (applied LAST by roster_lib.apply_overrides; wins ties).
+# Keyed by (seat_id, person_key, start_date). Only non-empty cells overwrite the generated row; "sources" gets
+# "; override:roster_overrides.csv" appended. Regenerate the roster after editing: python3 roster/build_roster.py
+# Columns must be a subset of council_terms.csv's schema:
+#   city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note
+#
+# Currently 0 data rows. The single VACANT interval (D2 [2023-10-26, 2023-11-29), Worthen -> Bennett) is FULLY
+# documented (Worthen's 2023-10-25 farewell + the 2023-11-29 Resolution 23-070 appointment), so the library's
+# auto-generated "seat empty between the documented departure and the successor's seating" note is accurate and
+# needs no override.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

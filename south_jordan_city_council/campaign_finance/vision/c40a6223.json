@@ -1,0 +1,34 @@
+{
+  "contributions": [
+    {"date": "10/21/25", "name": "SHERRY NICHOLES", "city": "Washington", "state": "UT", "amount": 50.00, "in_kind": null},
+    {"date": "10/24/25", "name": "Brad Russell", "city": "SLC", "state": "UT", "amount": 300.00, "in_kind": null},
+    {"date": "10/24/25", "name": "Kathleen Hughes", "city": "Midway", "state": "UT", "amount": 260.00, "in_kind": null},
+    {"date": "10/24/25", "name": "Amy Russell (In-kind)", "city": "SLC", "state": "UT", "amount": 50.00, "in_kind": "in-kind"},
+    {"date": "10/25/25", "name": "Kathryn Popeil Gantman", "city": "Gig Harbor", "state": "WA", "amount": 100.00, "in_kind": null},
+    {"date": "10/27/25", "name": "Stacy Hughes (Loan)", "city": "South Jordan", "state": "UT", "amount": 1000.00, "in_kind": null},
+    {"date": "10/28/25", "name": "Stacy Hughes (Loan)", "city": "South Jordan", "state": "UT", "amount": 1000.00, "in_kind": null}
+  ],
+  "expenditures": [
+    {"date": "10/3/25", "recipient": "META", "purpose": "Digital Ads", "amount": 500.00, "in_kind": null},
+    {"date": "10/4/25", "recipient": "META", "purpose": "Digital Ads", "amount": 100.00, "in_kind": null},
+    {"date": "10/4/25", "recipient": "META", "purpose": "Digital Ads", "amount": 45.69, "in_kind": null},
+    {"date": "10/9/25", "recipient": "WIX", "purpose": "Service Fee", "amount": 38.68, "in_kind": null},
+    {"date": "10/13/25", "recipient": "META", "purpose": "Digital Ads", "amount": 40.00, "in_kind": null},
+    {"date": "10/14/25", "recipient": "WIX", "purpose": "Email Account", "amount": 9.02, "in_kind": null},
+    {"date": "10/14/25", "recipient": "Good Party", "purpose": "Text Campaign", "amount": 6.49, "in_kind": null},
+    {"date": "10/15/25", "recipient": "Gurudocs", "purpose": "Graphic Design Tool", "amount": 49.99, "in_kind": null},
+    {"date": "10/20/25", "recipient": "META", "purpose": "Digital Ads", "amount": 250.00, "in_kind": null},
+    {"date": "10/21/25", "recipient": "Adobe", "purpose": "InDesign Graphic Design Software", "amount": 24.70, "in_kind": null},
+    {"date": "10/21/25", "recipient": "META", "purpose": "Digital Ads", "amount": 85.71, "in_kind": null},
+    {"date": "10/21/25", "recipient": "META", "purpose": "Digital Ads", "amount": 60.00, "in_kind": null},
+    {"date": "10/21/25", "recipient": "WIX", "purpose": "Donation Processing", "amount": 1.75, "in_kind": null},
+    {"date": "10/22/25", "recipient": "Deseret News", "purpose": "Digital Ads", "amount": 180.00, "in_kind": null},
+    {"date": "10/24/25", "recipient": "Amy Russell (In-Kind)", "purpose": "Signs and Shirts", "amount": 50.00, "in_kind": "in-kind"},
+    {"date": "10/25/25", "recipient": "WIX", "purpose": "Donation Processing", "amount": 4.00, "in_kind": null},
+    {"date": "10/19/25", "recipient": "WIX", "purpose": "Google Ads", "amount": 967.05, "in_kind": null}
+  ],
+  "total_contributions": 2760.00,
+  "total_expenditures": 2413.08,
+  "total_contributions_ytd": 12465.00,
+  "total_expenditures_ytd": 12156.43
+}

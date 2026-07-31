@@ -1,0 +1,475 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09142020-398
+> Meeting date: 2020-09-14
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2020-09-14
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09142020-398
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                             Minutes                of the
+                                                                                                    Millcreek                City         Council
+                                                                                                         September                  14,     2020
+                                                                                                                     5:00      p.m.
+                                                                                                             Work            Meeting
+                                                                                                                     7:00      p.m.
+                                                                                                           Regular             Meeting
+
+
+The      City     Council         of Millcreek,                  Utah,     met in a public                work       meeting              and regular          meeting       on
+September            14, 2020          at City           Hall,     located        at 3330         S. 1300           E., Millcreek,              UT      84106.       The meeting
+was conducted                 electronically                 per Millcreek              State of Local               Emergency                Directive        No.     2 of 2020
+and live         streamed         via the City's                 website         with     an option           for online            priblic      comment.
+
+
+PRESENT:
+
+
+Council           Members                                                                  City      Staff
+Jeff     Silvestrini,         Mayor                                                        John Brems,                City     Attorney
+Silvia      Catten,        District        I                                               Elyse         Sullivan,          City     Recorder
+Dwight           Marchant,          District         2                                     Kurt      Hansen,           Legislative             Policy       Director
+Cheri      Jackson,         District           3                                           Laririe        Johnson,           HR-Finance                Director
+Bev      Uipi,     District       4                                                       Francis          Lilly,     Plaru'iing            and Zoning            Director
+                                                                                          Mike           Winder,       Economic                Development               Director
+                                                                                          John       Miller,         City     Engineer
+                                                                                           Rita      Lund,          Communications                     Director
+                                                                                           Jared         Bowling,           IT/Facilities             Manager
+                                                                                           Blaine         Gehring,           Legislative              Policy      Analyst
+
+
+Attendees:               Courtney       Bovee              (electronic),     Lynn         Jacobs          (electronic),       Thom          DeSirant,           Lisa     Bagley,
+Chief      Steve         DeBry,       and Chief               Duane        Woolsey.
+
+
+WORK             MEETING               - 5:00            p.m.
+TIME         COMMENCED:                             5:02      p.m.
+
+
+Mayor        Silvestrini          called           the work        meeting         to order.
+
+
+1. Discussion               on Future               City      Hall;      Kurt       Hansen,              Legislative           Policy          Director
+   Mayor           Silvestrini         said there             was about           3 years         left     on the current                 lease for City          Hall.      Kurt
+   Hansen           said the previous                    City     Manager          sent out questions                   to city           department           directors       about      a
+   future         city    hall.   Hansen             reviewed            those     questions             and the responses.                    Council         Member         Jackson
+   asked         how       many       other         cities       had a police           department             as part        of their         city    hall.    Mayor
+   Silvestrini            said this was a preliminary                            discussion              and the Millcreek                  Unified        Police        Department
+   (UPD)           Precinct       would             need to relocate              soon,      too.        Council        Member              Marchant           asked      what
+   Chief         Steve      DeBry        wanted.              Hansen        said the objective                   was to review                 the questions             and note
+   the things             that stood           out to the Council.                 Mayor          Silvestrini           said the City                 was renting         space     so
+   in the future             it would           make         sense to own               a city    hall.      There      would             need to be public
+   engagement               at some            point.        Council       Member            Uipi         suggested           proposing             several       plan    options        to
+Mfflcreek         City       Council          Meeting        Minutes                                              14 September                    2020            Page       2 of 8
+
+
+
+   the public          for their       opinion.        Council           Member         Marchant             requested           feedback           from          Murray           City
+    since      they    were      building         a new      city     hall.     Mayor          Silvestrini        said several             cities     had new               city
+   halls     and staff         could     get their         input.     The Council               liked     the idea of have                a large          community
+   room,        especially        for rent.       Council           Member          Uipi       asked      for a timeline               for the process.                  Mayor
+    Silvestrini         asked     Hansen          for a plan         on the process.               Hansen         said Woodbury                    Corporation                  could
+   end the City's              City     Hall     lease at any time                 and would            pay to move             city     hall     until      June 30, 2023
+   when        the lease was up. Council                        Member          Marchant           asked        about        finding       a city         hall      location.
+   Mike        Winder          said there       would       be a process              for finding          a location,           but he anticipated                      finding            a
+   final     one in the next             90 days.
+
+
+2. Discussion            on Millcreek              Property           Maintenance                 Code;         Kurt         Hansen,            Legislative               Policy
+   Director
+   Kurt      Hansen          said he met with              the community                 corincils        and some             were      in favor           of and some
+   were      not for adopting               a property           maintenance             code.       He said the code                  enforcement                  officers
+   would        enforce        by what         they     could       see from          the street.         He gave the Council                      an overview                   of the
+   proposed           code that was largely                  based         on the International                  Property         Maintenance                    Code.       Mayor
+   Silvestrini         pointed         out that "damaged                   trees"     would        need specific               requirements.                Hansen              said he
+   could       add that if the "damaged                      tree"       posed      a safety       risk      or was a public               nuisance,              that      it would
+   need to be removed.                   Hansen           pointed        out that the City               would        need to have               a contract              with      a
+   certified       arborist.          Mayor      Silvestrini          said the code             enforcement                 officers      needed           tools      for
+   enforcement               and property          owners           were      obligated         to maintain            their     property.          Hansen               said he
+   would        take the proposed                ordinance           back      to the community                   councils          for their        review.
+
+
+3. Discussion            on Bus         Benches           and     Bus      Bench        Advertising;                 Kurt       Hansen,           Legislative                Policy
+   Director
+   Mayor        Silvestrini           said the Council               needed         to make        a policy          decision          on this item              because           they
+   had reviewed              the topic         multiple         times.      Kurt      Hansen         said an email              from      UTA         was received                     by
+   staff     about      the maintenance                of bus benches.                He said he used components                                of West           Jordan's
+   code to write             a proposed          code for Millcreek.                   He reviewed               the proposed              code on bus shelters
+   and benches.              Mayor       Silvestrini         requested           an affidavit            from     the applicant             instead              of written
+   documentation                from     the property            owner         (per the proposed                 code)        about      the refusal               of a bus
+   shelter      being        located     behind         the sidewalk             in order        for one to be approved                         in the right-of-way.
+   Council        Member          Catten         asked      about        free-standing            bus benches                that did not have                   a shelter.
+   John      Brems        said the proposed                code would               make       those      illegal.      Council          Member              Catten
+   suggested          not having          a garbage          can in or near bus shelters.                         Brems          said the City              could         phase
+   out bus benches               and phase            in bus shelters            through         a franchise           agreement.               He said one of the
+   conditions          of the agreement                could        be to pick         up the trash             at those        sites.
+
+
+4. LocalLink             Presentation;             Rita      Lund,          Communications                      Director          and      John           Miller,         City
+   Engineer
+   Courtney           Bovee,      LocalLink,              said Salt Lake              City     teamed        up with          Millcreek,            South           Salt Lake,
+   and Holladay              to look      at transit        options.          There     were       two       studies        being      conducted,                circulation
+   and transit.          One of the areas of the circulation                             study      was the Sugar                House           Business            District          to
+   Millcreek          City     Center       and Brickyard.                She said the priority                  projects         were      bicycle              lanes      on
+   Highland           Drive,     connecting            the McClelland                 Trail,     having         a shared         path      on 1300               East,     and
+   adding       bicycle        lanes     on 900 East.
+Mfflcreek          City     Council        Meeting          Minutes                                       14 September              2020        Page 3 of 8
+
+
+
+   Council         Member          Marchant          asked about the McClelland                     trail.     Lynn      Jacobs,      Salt Lake City,
+   said it would            be a lower           speed bike trail.
+
+
+   Bovee         said the transit          study would           impact      Millcreek.          They were analyzing                 possible        transit
+   improvements               on 1300 E. and have started                     with     a transit     survey       on their new website,
+   locallinkstudy.com.                  She said the team would                    develop       alternatives           from     the feedback.          She said
+   they would             be sending         out a mailer         to residents         who lived         along 1300 E. for their input.                      She
+   requested         feedback           from     the Council         about the website             and the survey.
+
+
+5. Staff     Reports
+   Kurt     Hansen          said the City          needed to update               code signs in the parks.                He reviewed           Millcreek
+   and County             code about alcohol                in the parks which                said that alcohol          was allowed            at Canyon
+   Rim      Park but not in the other ones. The State's                               code said liquor            was not allowed               to be
+   consumed           in any public            park.    Council         Member         Uipi     pointed       out that liquor         did not include
+   beer or wine.            Hansen        said he would            do more research              on the issue.
+
+
+6. Discussion             of Agenda          Items,        Correspondence,               and/or      Future            Agenda       Items
+   There         was none.
+
+
+Council      Member            Uipi      moved         to adjourn          the work           meeting        at 6:40 p.m.          Council       Member
+Jackson          seconded.         Mayor         Silvestrini       called     for the vote.          AJI Council               Members        voted         yes.
+The motion           passed        unanimously.
+
+
+
+
+REGULAR              MEETING               - 7:00 p.m.
+TIME       COMMENCED:                          7:03 p.m.
+
+
+1. Welcome,          Introduction                and Preliminary              Matters
+           1.I     Pledge      of Anegiance
+           Mayor          Silvestrini      called      the meeting          to order then led the pledge                       of allegiance.        He
+           said Millcreek             suffered        a natural      disaster,      high winds,           the prior       week,     and some areas
+           had been hit particularly                   hard. He said some people                    were still without               power      and
+           Rocky          Mountain        Power        was calling         on crews from            other states to assist in restoring                       it.
+           The remarkable               thing      was the community                 support      in cleaning           up the City.        Hundreds
+           of volunteers            collected       and hauled            green waste. He thanked                  area churches,            block
+           captains,        residents,         and city staff. He personally                    recognized         some city staff: Jordan
+           Hatch,         Jana Stratford,          and Kalie        Boska         in the Information            Center         at City   Hall    for
+           answering          the phones           well;    Rita Lurid,           Communications              Director,         and Hatch        for
+           assisting        with    the social         media;      Brandon         Johnson        in Public       Works         for sawing       tree
+           limbs;     Andrew            Clark,     the Emergency             Manager,           for coordinating            response        efforts;      and
+           Rich Novasio,              Building         Department,          for inspecting          homes         for safe power
+           reconnections.             He also recognized                  Lisa Bagley          in the audience           for volunteering.             He
+           requested         that the volunteers               report     their    time and expenses               for the cleanup           to City
+           Hall     to be used for potential                   disaster     funding.      The City           Council      also volunteered             in
+           the cleanup.            Council       Member          Marchant          mentioned        that volunteers              came from        other
+           cities because           they heard about the damage                        and cleanup            effort     in Millcreek        on the
+           news. Council              Member         Uipi      thanked       the volunteers.            Council        Member        Catten      thanked
+Millcreek           City    Councn            Meeting         Minutes                                        14 September                2020       Page 4 of 8
+
+
+
+            her husband,             the Council,            and the volunteers.               Council       Member          Jackson        echoed the
+            sentiments.            Mayor         Silvestrini        said the green waste lot collection                        on 3800 S. and
+            Wasatch          Boulevard            would        be open all week.
+
+
+            1.2 Public             Comment
+            Lisa Bagley,             3387 S. Honeycut                  Road, said she was running                         for House      District       36. She
+            mentioned              all of the organizations                  and committees             that she served on that benefited                        the
+            community.
+
+
+2. Planning           Matters
+            2.1 First        Reading:            ZT-20-005,            Amendments                to the Commercial                  Zone      Text
+            Regarding              Mixed-Use             Development;                Francis      Lilly,     Planning          and Zoning            Director
+            Francis        Lilly     said up until           2018 residential             uses were conditionally                   allowed       in the
+            commercial              zones.     Since then, the City had a policy                           that residential          uses in commercial
+            zones had to be a mixed-use                           project.       He said the proposed                changes to the code were to
+            ensure better            quality       projects         since the current            code was difficult            to apply         and interpret.
+            Residential            development              in mixed         use zones were not held to the same standard                                  as
+            residential        development                 in multifamily            zones, so staff wanted                 to avoid       the incentive         or
+            rezoning        to commercial                  in order to develop             a substandard            residential        project.      He said
+            coini'nercial           ground       floor      requirements             were inadequate             and inflexible,           the City      was     not
+            getting        the type of wanted                commercial,             the design      standards            were inadequate,              and the
+            current        zone preferred             a vertically          integrated        mixed-use          building      type.
+
+
+            Lilly     critiqued        and showed              the Council           photos      of mixed-use             developments            in the City.         He
+            said 3300 S. was a mixed-use                            corridor        because residential              and commercial              uses
+            coexisted.        More       people          living     along the corridor             would         help activate         existing      and
+            proposed         commercial              spaces. Desired              spaces like small              retail    shops, personal           services,
+            and restaurants             thrive       where        there are many people                 living      nearby.        Mixed     use
+            development              provides         a viable       option       to redevelop        obsolete            sites. Many       smoke        sliop and
+            commercial              storage      requests          along the corridor            suggested          that Millcreek           had an
+            overabundance               of single-purpose                  coinrnercial        buildings         that performed            below
+            expectations.            Lilly     showed          the Council           the Future      Land Use Map in the General                           Plan and
+            said it supported                mixed       uses. He then reviewed                  the Mixed           Use 1 and Mixed                Use 2
+        District           descriptions.           Lilly     said that mixed             use commercial              was flourishing              but some
+        retail        sites were empty                or functionally               obsolete     in commercial              corridors.
+
+
+        Lilly        reviewed          the proposed               code changes.           He said to qualify,               a mixed-use          project        must
+        have a minimum                       of 100 feet of frontage                  on a major        collector         or arterial      road. There
+        would          be an increase              in maximum               building      height     to 45 feet, and 35 feet within                      100 feet
+        of a residential               zone. The current                   standard     was 40 feet and 30 feet. The extra feet offered
+        more flexibility,                tall residential             ceilings,       better roof       articulation,         possibility         of pitched
+        roofs,        more 'functional               garages,         a retail      storefront      at grade, and other creative                     design
+        elements.            Lilly     showed          the Council           examples          of recent      commercial,            residential,         and
+        mixed-use             buildings           in Millcreek             to point     out where          some of the code changes                     would
+        have helped                the project         and what had already                    worked       well     with    the project.         He explained
+        why a two-story                  limit       or building           height     of 30 feet was not desirable.                    There      is a two-story
+        limit        in the CCOZ              area immediately                 adjacent        to existing        single-family,           affecting       property
+        on the east side of Highland                              Drive.     In this instance,          the City          Center    Master        Plan actively
+Mnlcreek        City      Council           Meeting         Minutes                                         14 September                2020      Page 5 of 8
+
+
+
+           encouraged             the adaptive          reuse of the existing               commercial           uses along the Highland                       Drive
+           corridor       in the City          Center.       Staff was not convinced                    that the same desire existed                     for many
+           of the functionally                obsolete       commercial            buildings         elsewhere         in the commercial                corridor.
+
+
+           The proposed                 code included         a maximum             building         length     of 200 feet, no more than 20%
+           of a fagade could be stucco,                      EIFS,      or metal       siding,        and a 10-foot            step back for buildings
+           taller    than 35 feet. Coinmercial                       uses would        not include            lobbies,        leasing    offices,       required
+           parking,       or residential            amenities.         Currently,       code required             a minimum             of 40-foot-deep
+           coinrnercial           spaces occupy             50% of building            frontage.            The proposal           offered       flexibility      of a
+           40-foot      depth with            50% frontage             or 30-foot      depth at 80% of frontage,                        and freestanding
+           comi'nercial           buildings         occupy      30% of the gross ground                       floor    area of the development                    site.
+           There would              be two concepts             of mixed        use, vertically             mixed-use           buildings,       and mixed-
+           use buildings                in a unified     site plan. Staff wanted                to make sure             that freestanding
+           commercial             buildings         meaningfully          contribute         to the mixed-use                 concept.       Freestanding
+           coinrnercial           buildings         could    occupy       30% of the gross ground                       floor     area of the
+           development              site, and at least 50% of the frontage                           with     the proposed           ordinance.         Lilly
+           showed       the Council             examples         and site plans of both mixed-use                          types.
+
+
+       The proposed                     ordinance      included        a pre-application              site plan review,             prior      to qualifying           an
+       application               for community              council      and Planning           Commission               review.        A similar       process
+       exists for applications                      in the CCOZ,          because       a longer            review      lead time results            in better
+       clarity         and better           outcomes.        Lilly     said the Plaru'iing             Comi'nission            emphasized          not wanting
+       to lose commercial                      opportunity           in existing      commercial              areas, so certain             areas of the City
+       could redevelop                     but under      specific       conditions.         Lilly     concluded          that the ordinance               should
+       change because                     the mixed       use fon'n was the most likely                       redevelopment              scenario        for
+       commercial                 corridors,        especially        for functionally           obsolete         sites outside          of the City           Center
+       and Meadowbrook,                        heightened            design    standards        would         result     in better      looking       buildings,
+       frontage          and coinmercial                areas and ground              story height            requirements           would       promote         the
+       creation          of meaningful               commercial          spaces along           corridors,            and updates         would      produce
+       better        outcomes             in the form        of mixed         use projects           with    more meaningful                 commercial
+       uses. He said the community                             councils       and Planning             Commission               recomi'nended           approval
+       of the ordinance.                    Mayor      Silvestrini       said the ordinance                 would      give      the City more
+       significant              commercial           development.             The Mayor          said he appreciated                 the input       received
+       from         the Mt.        Olympus          Corni'nunity         Council       Chair.        Council          Member        Jackson        appreciated
+       Lilly        improving             the City's      ordinances.
+
+
+       2.2 Discussion                    and Consideration                of Ordinance               20-47,     Amending             Title     14 and Title
+       19 of the Millcreek                      Code      of Ordinances              with     Respect          to Fencing,           Walls,       and
+       Clearview                Requirements
+       Francis          Lilly      said the changes             to the proposed             ordinance          from      the last Council            meeting
+       included           a summary             table of the general              fence requirements,                  spelling      and grammatical
+       fixes,        and the clearview                 requirement         with     visual     obstructions             in proposed          section
+       19.95.020.               Lilly     said AASHTO                A Policy      on Geometric               Design      of Highways              and Streets
+       assumes that the typical                        person    in a typical         car is 3.5 feet above the road surface,                             so staff
+       removed           the provision              allowing         fences 4 feet in height.                 He said the intent             was to apply
+       the proposed                ordinance         to new fencing             as laid out in proposed                  section        19.95.020.
+
+
+       Mayor           Silvestrini          asked for public            comment.        There         was none.
+Millcreek        City       Council       Meeting          Minutes                                  14 September               2020      Page 6 of 8
+
+
+
+
+Council       Member           Uipi     moved           to approve       item     2.2, Ordinance            20-47     with     the amendments
+as presented           tonight.        Council          Member         Catten     seconded.        The Recorder              called    for the vote.
+All   Council        Members            voted      yes. The       motion         passed   unanimously.
+
+
+3. Business         Matters
+            3.1 Discussion             and Consideration                 of Resolution          20-39,    Accepting           and Approving                the
+            Edward          Byrne       Memorial            Justice     Assistance        Grant      for the Millcreek                UPD    Precinct
+            Laurie       Johnson        said the State had funds that they were allocating                             to Millcreek          because
+            Millcreek         was not able to apply               for funds as a separate             entity       though     that would       be an
+            opportunity         in the future.           The grant was for $4,50'O for the purchase                          of equipment           for the
+            Millcreek         Unified      Police        Department        (UPD)      Precinct.       She said the City needed to
+            approve         the resolution         to be able to accept the funds.                 Mayor       Silvestrini       thanked       Millcreek
+            Precinct        personnel          for noticing      the discrepancy          of fiinds      so that Millcreek            was able to
+            acquire        the grant.
+
+
+Council       Member           Uipi     moved           to approve       item     3.1, Resolution         20-39.       Council        Member
+Jackson       seconded.           Council        Member         Uipi    asked what        equipment         would      be purchased.          Chief
+Steve DeBry          said a scanner,             a printer,     new chairs,        and a tracker.        The Recorder             called      for    the
+vote. All     Council         Members             voted     yes. The motion            passed      unanimously.
+
+
+            3.2 Discussion             and consideration                of Resolution        20-40,      Approving            a Cooperative
+            Agreement           with      Salt Lake           County      with     Respect       to Participation             as a Co-Permittee
+            Under        Permit        No. UTSOOOOOI
+            Mayor        Silvestrini       said the item was a stori'n water                    management           issue and a renewal              of an
+            interlocal       agreement           with    the County        to continue       to participate          as a co-permittee          with
+          respect        to management              of ston'n water.
+
+
+Council      Member           Jackson           moved       to adopt      Resolution         20-40,      Approving            a Cooperative
+Agreement         with       Salt Lake           County.       Council      Member         Catten        seconded.           The Recorder            called
+for the vote.        All     Council       Members             voted    yes. The motion            passed      unanimously.
+
+
+          3.3 Discussion               and Consideration                of Resolution           20-41,    Approving            a Small       Wireless
+          Communications                   Facilities         Master      License      Agreement            with     SQF,     LLC
+          John Brems            said there would               be more small         cells in Millcreek.            The difference           with    this
+          agreement           compared           to prior      agreements         was that this company's               business       plan was to
+          acquire          sites and sell them to users. He said he added to the agreement                                      that they could             not
+          assign the right             tliey    acquired       unless that entity         had a small        cell site franchise            agreement
+          with    the City.          Mayor       Silvestrini      said the City       was required          to pei'mit       these under        state law
+          and the agreement                required         the same design          standards      as before.
+
+
+Council      Member           Uipi      moved       to approve          item      3.3, Resolution         20-41.      Council         Member
+Jackson       seconded.         The Recorder                called     for the vote.      All     Council      Members           voted      yes. The
+motion      passed         unanimously.
+
+
+          3.4 Discussion               and Consideration                of Ordinance            20-48,    Amending            Various        Sections
+          of the Millcreek               Code       of Ordinances           Chapter        14.16      Excavations            Related        to Sidewalk
+          Closures
+Mfflcreek           City     Council              Meeting          Minutes                                            14 September                  2020          Page       7 of 8
+
+
+
+            Mayor          Silvestrini            said the Council             requested            a code provision                   for sidewalk            closures.         Kurt
+            Hansen          said there            were      fees in code that were                     not in the fee schedule,                         so he was
+            proposing           changes              to the fee schedule.               He added             a provision              about      sidewalk         closures         to
+            the code and a $25 fee to the fee schedule                                        for the first day and $20 for each consecutive
+            day.
+
+
+Council        Member               Uipi     moved           to approve          item        3.4, Ordinance                    20-48.       Council          Member
+Jackson         seconded.             The        Recorder           called     for     the vote.            All     Council           Members             voted     yes. The
+motion       passed          unanimously.
+
+
+            3.5 Discussion                  and         Consideration           of Resolution                     20-42,       Approving                an Interlocal
+            Cooperation                Agreement                  Among        Salt        Lake      County,              Mincreek,           Town         of Alta,        Town
+            of Brighton,              Bluffdale             City,     Copperton              Metro           Township,              Cottonwood                Heights         City,
+            Draper           City,     Emigration                  Canyon       Metro             Township,               Herriman              City,      Holladay          City,
+            Kearns          Metro           Township,               Magna       Metro          Township,                  Midvale        City       Corp.,        Murray
+            City,       Riverton             City,       City      of South         Salt     Lake,       and        White        City      Metro           Township
+            Relating          to the         Conduct              of the Community                     Development                  Block        Grant        Program,
+            Emergency                Solutions             Grant          Program,           and     the HOME                  Investment                Partnership
+            Program
+            Francis         Lilly     said HUD              Region         8 notified         the County              that previous              agreements             had not
+            been        done right,              so tlie agreement            needed         to be amended.                    The agreement                allowed        the
+            County          as a grantee                to move      forward         in compliance                  with      HUD.
+
+
+Council       Member                Jackson             moved       to adopt         Resolution                20-42,         approving           an Interlocal
+Cooperation              Agreement                 among          all the listed           entities.        Council            Member            Catten        seconded.
+The    Recorder             called         for     the vote.        All    Council          Members                voted       yes. The          motion        passed
+unanimously.
+
+
+            3.6 Discussion                  and         Consideration           of Resolution                     20-43,       Ratifying          the Millcreek
+            Emergency                Proclamation                   No.    2 of 2020         Proclamation                     Declaring           a Local         Emergency
+            with        Respect        to the Severe                 Windstorm               of September                   8 and       September             9, 2020
+            Mayor          Silvestrini            said after        the recent        windstorm                and in consultation                  with     Salt Lake
+            County,         he declared                 a local     state of emergency                  to qualify            Millcreek           for FEMA              funding.
+
+
+Council       Member                Catten         moved          to ratify     Resolution               20-43          for    Millcreek           Emergency
+Proclamation               Number                2. Council         Member            Uipi        seconded.             The     Recorder            called        for    the vote.
+All   Council           Members             voted         yes. The         motion          passed       unanimously.
+
+
+4. Reports
+            4.1 Mayor's               Report
+            Mayor          Silvestrini            thanked         Millcreek         residents          for the cleanup                effort.
+
+
+            4.2 City         Council              Member           Reports
+            Council         Member               Uipi     said she went             on a field         visit       with       UPD's      special          operations
+            facility.       She said the next                   policing      committee              discussion               would     be on October               6Ih.
+            Council         Member               Jackson          asked     about     a town         hall      date for accessory                  dwelling         units.       The
+            Council         decided              on October         13I'1 from        7-8:30         p.m.
+Millcreek             City     Councn          Meeting          Minutes                                    14 September              2020          Page 8 of 8
+
+
+
+                  4.3 Staff     Reports
+              There         were none.
+
+
+5. Consent             Agenda
+                  5.1 Approval         of August            17, 2020 Work           Meeting          Minutes
+                  5.2 Approval         of August            17, 2020 Special          Meeting         Minutes
+                  5.3 Approval         of August            24, 2020 Work           Meeting          and Regular      Meeting         Minutes
+
+
+Elyse        Sullivan         said she forgot           to attach the emailed               public     cornrnents         read into the record              from
+the August             I 7" special          meeting        to the meeting          minutes        in the packet      and asked the Council                   to
+approve            the minutes         with     that attachment.
+
+
+Council            Member           Uipi-moved              to approve       item     5.1, 5.2, and 5.3 with                the exception            of adding
+the document                  of comments              to item     5.2 with        the special        meeting       of August         17fh. Council
+Member              Jackson         seconded.           Mayor      Silvestrini        called       for the vote.          All    Council         Members
+voted        yes. The motion                 passed         unanimously.
+
+
+6. New Items                 for Subsequent                 Consideration
+There were none.
+
+
+7. Calendar                 of Upcoming               Events
+       *   Planning         Commission               Mtg.    9/16/20      at 5:00 p.m., City           Hall
+       *   City     Council      Mtg.        9/28/20        at 5:00 p.m.,      City    Hall
+
+
+Council           Members        Jackson             and Uipi     said they would            not be present         at the Council               meeting     on the
+28'.
+
+
+8. Closed           Session
+
+
+Council            Member           Jackson          moved       to go into        closed     session     per     [Jtah     Code ,4nn.           §52-4-205
+(d)strategy sessions to discuss the purchase, exchange, or lease of real propeWy at 8:29 p.m.
+Council            Member           Uipi     seconded.          The Recorder              called     for the vote.         All    Council         Members
+voted       yes. The motion                  passed         unanimously.
+
+
+Council            Member        Jackson             moved       to go back        into     the open meeting               at 8:53 p.m.            Council
+Member              Uipi     seconded.          The     Recorder          called     for the vote.        All    Councn          Members            voted    yes.
+The        motion          passed     unanimously.
+
+
+ADJOURNED:                     Council          Member           Jackson      moved          to adjourn          the regular         meeting         at 8:53
+p.m.       Council          Member           Uipi      seconded.       Mayor        Silvestrini         called    for the vote.            All    Council
+Members              voted     yes. The         motion          passed     unanimously.
+
+
+
+
+                                       ypuovbn!                    Jeff Silvmfini,           Mayor
+                                                                                                                            Date    ')-'23!'-2""
+
+
+                                           Attest:                ffiylLn,citynecoraer
+

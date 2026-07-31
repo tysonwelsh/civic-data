@@ -1,0 +1,181 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07292024-831
+> Meeting date: 2024-07-29
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2024-07-29
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07292024-831
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                Minutes              of the
+                                                                Millcreek           City      Council              & Planning           Commission
+                                                                                                    July      29, 2024
+                                                                                                       5:00         p.m.
+                                                                                        Special            Work        Meeting
+
+
+
+
+The City       Council        and Planning                 Commission            of Millcreek,         Utah,        met in a special          public   work
+meeting       on July 29, 2024,                  at City     Hall,     located      at 1330 E. Chambers                     Avenue,     Millcreek,        UT
+ 84106.     The meeting              was recorded            for the City's          website.
+
+
+PRESENT:
+
+
+Council       Members                                                                        City     Staff
+Jeff Silvestrini,          Mayor                                                            Francis        Lilly,     Assistant        City Manager
+Silvia     Catten,      District       1                                                    Elyse      Sullivan,           City    Recorder
+Thom       DeSirant,        District           2 (absent)                                   John Brems,              City    Attorney
+Cheri      Jackson,       District         3                                                 Kurt     Hansen,         Facilities       Director
+Bev Uipi,       District      4 (online)                                                    Ryan Bagshaw,                   Dev. Review          Coordinator
+                                                                                            Zack Wendel,               Plaru'iing      Pen'nit    Tech.
+Commissioners:
+Shawn       LaMar
+Victoria      Reid
+Steven Anderson              (absent)
+David      Hulsberg         (absent)
+Christian      Larsen
+Nils     Per Lofgren        (absent)
+Diane      Soule
+Dwayne        Vance
+
+
+Attendees:         Philip     Wilkinson              (electronic),         David     Baird,         Nancy      Carlson-Gotts,            Chris Zarek
+
+
+WORK          MEETING                - 5:00 p.m.
+TIME        COMMENCED                          - 5:01 p.m.
+
+
+Mayor       Silvestrini      called        the work         meeting        to order.
+
+
+1. Discussion           of Olympus                Hffls     West       Village      Center      Phase         II
+   Francis      Lilly      noted      the code process                 required      this meeting.
+
+
+   Cluis      Zarek,      Cowboy               Partners,     introduced          himself.      Mayor          Silvestrini         asked about public
+   engagement             for this application.                Lilly     said there were neighborhood.                        outreach     meetings       on
+   June 4, 13, aiid 20. There                      were preliminary               coinmunity          council         discussions        in July. There        will
+   be an infonnal            coiuinunity             council       recoinmendation              in August            and a formal        recommendation
+   in September.            The Planning               Coinmission           will    review         the application               in September       and the
+Millcreek        City        Council        Meeting               Minutes                                              29 July      2024         Page 2 of 3
+
+
+
+   Council        will      review       it in October.              Zarek     said on June 4, an open house was held at Olympus
+   Hills      Mall     to discuss          the mixed-use                 center concept, showcasing    various potential uses such as
+   office,      residential,           retail,     and public            green spaces. The event aimed                     to gather        community
+   feedback          through          displays       and general             discussions.         Following          this, a tour on June 13
+   examined           different         public       space precedents                 around      the valley,        including      Holladay        Village
+   Plaza and Swaner                    Center       in Park City.            These examples               provided      insights     into successful
+   design       features        and challenges,                   such as the potential             for large spaces to feel empty                   when not in
+   use. The project                 team, working                 with    city departments,             is now refining          designs       to address
+   practical         and community                  needs. The site, constrained                        to two acres with          significant       grade
+   changes,          will    incorporate            'below-grade             parking        to accomtnodate            anticipated         demand.        The
+   design       includes            residential          units,     a restaurant,          and retail      spaces, with      access from           Wasatch
+   Boulevard             and a ramp to the parking                        area.
+
+
+   Zarek       showed         the council            and corni'nission                an image      highlighting         the grade change                on the site
+    (Wasatch          Boulevard).            He illustrated               a broad       site plan concept            that consisted         of office,
+   residential,           retail,     a restaurant,           and open space. The defined                      setbacks      will     define      the size of the
+    garage.      He highlighted                  placement           of the garage on the site plan. Zarek                       showed         a potential
+    concept          for the UDOT                ramp parcel             to the north        should       it be abandoned          with     residential/retail
+    and/or      a hotel.       The developers                 have a right            of first refusal       on title for purchasing              the property,
+    as does Unified                 Fire Authority.               He showed           site sections        of the area highlighting               the different
+    elevations.          Zarek        then expounded                 on the concept             vision.    The developers            tried to capture           a
+    pedestrian           centric       space with           a plaza,        residential        court,     and village     green with           a neighborhood
+    office,     retail,      apartments,            and restaurant             as surrounding             uses. He showed            the concept           site plan,
+    ground       and landscaping                   plan, 10,000             square foot open space concept,                      basement        parking        plan,
+
+    first    floor    plan, second               floor     plan, third        floor     plan,    and an area summary                table detailing           square
+    footages,         residential         units,         and parking.
+
+
+    Council          Member           Jackson        asked about unit                 count.    Zarek      anticipated      60-74      residences          with
+    studio,      one-bedroom,                and two-bedroom                   units,      all of which       will    be for rent. Council               Member
+    Uipi      asked how many                 public         parking         stalls were above             and below       ground       on the west parking
+    lot. Philip        Wilkinson,            architect,            said 36 above and 160 below.
+
+
+    Zarek       showed         images        that were models                  for the concepts            the developers           were trying          to achieve
+    for open space, neighborhood                              restaurant,         office     and residential,          neighborhood            retail,    exterior
+    lighting,        and exterior           signage.          They did not anticipate                   a franchise      restaurant.          The residential
+    component               would      be high-end.               Cowboy        Partners        was looking          to relocate      their     office     to this
+    location.
+
+
+    Corninissioner              LaMar            asked about a pedestrian                    crosswalk       across Wasatch               Boulevard.        Zarek
+    said the traffic            study did not necessitate                      a crosswalk          for this project,        but they recognized                  it
+
+    may be a good idea. Mayor     Silvestrini said city engineering                                             would      need to visit         that as there
+    would                        to use the shared path on the west side of the street. The foot
+                be cross over traffic
+    traffic may warrant that kind of expense once the project was developed.      Commissioner
+    LaMar asked about shared parking with the Porsche dealership.        Zarek did not anticipate   any
+
+    since Porsche had expensive inventory      sitting out. Commissioner   Soule commended      Zarek   for
+
+    listening         to the public              as prior     comments            were reflected           in this concept.         She brought            up bike
+    racks and a potential                   inundation              of bicyclists.         She noted that women              did not want to use
+    underground              parking        for safety             reasons.     She asked why the units would                       be for rent. Zarek                 said
+Millcreelc        City     Council       Meeting          Minutes                                                29 July         2024       Page 3 of 3
+
+
+
+   rental      developments             are what Cowboy                 Partners      did. They value the rental                  coiniuunity          because
+   they control           and operate         tliem.     Cowboy          Partners        operates      everything         they own.        Comi'nissioner
+   Reid asked about security                    in the parking            garage and ramp.              Zarek      said they would            have
+   controlled          access to the garage              and the residential               would      have controlled            accesses beyond             the
+   public      parking.       Coi'nunissioner            LaMar       asked if the residential                leasing      component          could      be
+   incorporated            into the corporate            poition        so as to not be as big. Zarek                   said there would              be shared
+   operational           spaces with       the office.
+
+
+   Lilly     said the Village           Center         Special     District       was approved;            however,       Pliase II is subject            to a
+   development             agreement          wliich     is treated       like     a rezone.       There    could be an amendment                     to the
+   existing       development            agreement.         The process             for approval        is outlined         in Millcreek          Code
+   19.62       and 19.62A.          Development             standards         are established           for height,       materials,        minimum
+   retail     area, restaurant          uses, fagade articulation,                  landscaping,           streetscape,         and signs. The
+   application for this pro'3ectis due August 9'h.
+
+2. Progress         Report         on the Zoning            and Subdivision                 Code      Update
+   Francis      Lilly      gave an update              on the Millcreek            Code update.            He anticipated          open houses           and
+   corni'nunity          notices     to go out in October,                Planning         Coinmission          consideration            in November,
+   City      Council       consideration         in December,             and for the new code to go into effect                           in January.
+   The code components                   changed         included        landscape         standards,        subdivisions,         parking        and
+   mobility,        Forestry       Recreation           Estate Zone,          mobile       homes/tiny        homes,        R-1 Zone/Residential
+   Compatibility            Overlay      Zone consolidation,                  medium         density       residential       zones, multifamily
+   residential,          comt'nercial      zones,        City    Center       Overlay       Zone,      sensitive       land, light       industrial      and
+   mixed       development            zones, application             procedures,           wireless        telecommunications,               building
+   height      in general,         affordable      housing         incentives,           lot on a private       right-of-way,            reasonable
+   accoinmodations              and residential            facilities      for persons         with     a disability,       accessory         dwelling
+   units,     accessory        buildings        in general,        fencing         and walls,       sensitive      lands,       home businesses              and
+   temporary         uses, and recodification.                   This has been a two year process.                        Mayor         Silvestrini
+   thanked       the Planning           Commission              and staff for their          work.
+
+
+ADJOTJRNED:                 Council      Member            Jackson         moved          to adjourn         the meeting          at 6:05 p.m.
+Council       Member          Catten       seconded.            Mayor      Silvestrini         called      for the vote.          Council       Member
+Catten      voted       yes, Council          Member            Jackson          voted    yes, Council          Member           Uipi     voted       yes, and
+Mayor       Silvestrini       voted      yes. The         motion         passed      unanimously.
+
+
+                                   APPROVF,D:                                                                            Date     '3        l l -2,01-=={
+                                                                Jeff Silvestrini,         Mayor
+
+
+
+                                    Attest:
+

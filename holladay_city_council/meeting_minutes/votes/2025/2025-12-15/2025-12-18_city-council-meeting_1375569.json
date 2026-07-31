@@ -1,0 +1,63 @@
+{
+ "date": "2025-12-18",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1375569.pdf",
+ "path": "minutes/2025/2025-12-15/2025-12-18_city-council-meeting_1375569.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Brewer",
+   "seconder": "Quinn",
+   "motion": "APPROVE Resolution 2025-37 - Approving an Agreement Between the City, the Redevelopment Agency of Holladay, and KMW Development, LLC, Relating to Affordable Housing in the Royal Holladay Hills Project",
+   "motion_type": "Resolution",
+   "result": "The motion passed unanimously.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Durham",
+   "motion": "ADJOURN the City Council Meeting and RECONVENE in a Redevelopment Agency Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed unanimously.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

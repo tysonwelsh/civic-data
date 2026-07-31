@@ -1,0 +1,43 @@
+{
+ "date": "2024-05-21",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-05-20/2024-05-21_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of May 7, 2024",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Ammon Allen",
+   "seconder": "Emily Gonzalez",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the Preliminary Major Subdivision Plat and Preliminary Sub-Area Plan for Terraine Plat 4 Subdivision located on approximately 18.402 acres at 7400 South and SR-111, with the conditions and requirements of approval listed in the report",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Ammon Allen",
+   "seconder": "",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+# Riverton Planning Commission Meeting — 2023-07-13
+> Source: https://www.utah.gov/pmn/files/1027139.pdf
+> Meeting date: 2023-07-13
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/861511.html
+> Format: text
+
+Approved: PC 9.28.23
+
+                        RIVERTON CITY PLANNING COMMISSION
+                                 MEETING MINUTES
+                                   JULY 13, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                      Staff:
+
+Jon Gilchrist, Chair                              Tim Prestwich, City Planner
+Gary Cannon                                       Matt Cassel, City Engineer
+Shelly Cluff                                      Ryan Carter, City Attorney
+Evan Matheson                                     Lisa Halversen, Planner
+Monique Mortensen
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Jon Gilchrist called the Planning Commission Meeting to order at approximately 6:30
+p.m.
+
+2.     PUBLIC HEARINGS
+
+       A.     SIPPY, PLZ-22-8026, AN APPLICATION FOR A COMMERCIAL SITE PLAN
+              TO BE LOCATED ON 0.79 ACRES IN THE C-G (GATEWAY COMMERCIAL)
+              ZONE LOCATED AT 2464 WEST 12600 SOUTH. APPLICANT - KENDRIC
+              SHUMWAY
+
+Chair Gilchrist reported that there was one item on the Planning Commission Meeting
+agenda relating to a Commercial Site Plan application. City Planner, Tim Prestwich reported
+that the application is for a drive-thru drink shop, “Sippy,” to be located on the north side of
+12600 South at 2464 West. The application is for a Final Site Plan and a Conditional Use
+Permit. He explained that the Conditional Use Permit will be needed because of the drive-
+thru. The property is located in the Hosac Retail Center in the C-G (Gateway Commercial)
+Zone. Sippy will sit on a pad site on a partially vacant 0.79-acre parcel that was part of the
+Hosac Retail Center. Mr. Prestwich stated that the Hosac Retail Center is a Master Site
+Plan from 2008 that features a large multi-tenant commercial building with a smaller vacant
+pad site. As for the current application, notices were sent to neighbors within 300 feet of the
+property. Some were present to share comments.
+
+Mr. Prestwich shared a site visit photograph taken from the public sidewalk. He referenced
+the shipping container that was onsite. It was delivered recently but he reassured the
+Commission that all architectural requirements would be met. Additional photos were
+shared of the site. An area map was shown to identify the zoning. He pointed out the
+location of the parcel and explained that the subject parcel and the two parcels to the left
+are all part of the Hosac Retail Center. The pad was left vacant with the idea that something
+would be added there. Many years prior, a drive-thru restaurant was contemplated but there
+Riverton City Planning Commission Meeting                                                  2
+July 13, 2023
+
+was not a tenant at that time for the space. It was set up for drive-thru use, as there were
+cross-access, cross-drainage, and shared parking agreements in place.
+
+The zoning on the subject property and all other parcels in the Hosac Retail Center is C-G,
+which is consistent with the General Plan designation of Business Park. Other nearby
+properties were also General Planned for Business Park but not all properties in the area
+had been rezoned. Some residential zoning remained in the surrounding areas. An aerial
+image was shared with the Commission. Mr. Prestwich identified the subject property and
+shared additional information about the Hosac Retail Center and images for reference.
+
+There was discussion regarding available parking on the site. Certain sections have slanted
+parking, which is one-way. To add a site, there needed to be work with the one-way traffic.
+The site would add five parking stalls, one of which is an Americans with Disabilities Act
+(“ADA”) stall and can share parking with the existing 151 stalls in the Hosac Retail Center.
+The drive-thru met the minimum requirements and would have four cars stacked before the
+order window. Mr. Prestwich shared an early version of the drive-thru layout but noted that
+a lot had been cleaned up since then to make sure it meets all of the City requirements.
+
+Mr. Prestwich discussed the building. It is a 430-square-foot shipping container that will
+have façade elements added to meet the Riverton City architectural requirements. There
+will be a simple drive-thru with a small food preparation area and an outside entrance to the
+restrooms. Since the building is in the C-G Zone, it requires three Turn of the Century
+features. Mr. Prestwich reported that there is an ADA walking route from the public right-of-
+way to the storefront. There are three proposed outdoor seating areas as well as
+landscaping around the building. The Landscape Plan was shared. The proposal included
+low-impact and waterwise landscaping but there were also areas with sod. The reason for
+the sod areas was to soften the look and feel of the center. Some of the existing trees that
+had to be removed would be relocated to the park strip.
+
+The design of the building was discussed. Mr. Prestwich reported that it would not have the
+exterior finish of a shipping container. The bottom portion would have brick approximately
+one-third of the way up (3.5 feet out of the 8.5-tall container). As for the Turn of the Century
+features, there would be brick accents, a vertical element to break up the roofline, and metal
+awnings. He shared example images of buildings at various other locations. It was
+proposed that there be a neon band along the building with single lights pointing down,
+according to dark sky principles. The signage shown would not be approved with the
+application and would be reviewed by City Staff as part of the Sign Permit process to ensure
+that all signs met the size requirements. Mr. Prestwich reported that Fire, Planning,
+Stormwater, and Engineering, all reviewed the application and found it to comply. Since
+what is proposed is a drive-thru use in the C-G Zone, it is conditional. If the Commission
+identified an element that would impact the surrounding area more than another commercial
+use, an additional Condition of Approval could be drafted to mitigate that potential impact.
+Staff recommended approval with the Conditions of Approval listed in the Staff Report.
+
+Chair Gilchrist asked if it was possible to walk up and order or if only be drive-thru would be
+available. Mr. Prestwich deferred to the applicant.
+Riverton City Planning Commission Meeting                                                  3
+July 13, 2023
+
+Commissioner Cannon noted that there was a lot of landscaping for such a small building.
+He wondered if it looked like a lot because it is on 0.79 acres of property. Mr. Prestwich
+explained that it is 0.4 acres. The 0.79-acre is the parking lot to the north that was developed
+with the Hosac Retail Center. Approximately 30% of the site was dedicated to landscaping
+but only 20% is required. It was noted that the detention/retention area for the rest of the
+development was to the east of the building. There was some area that the applicant could
+not do anything with as it services the rest of the development. Commissioner Cannon
+wondered if the City had adjusted the green percentage requirement in recent years. Mr.
+Prestwich reported that the percentage of landscaping had not been adjusted but there had
+been adjustments within the requirements. The application came in at a time when the City
+had adopted the Jordan Valley Water Conservancy District’s (“JVWCD”) suggestions.
+However, they were later adopted as requirements.
+
+Commissioner Rushton noted that there was a similar business south of the high school.
+He wondered if it was also in the C-G Zone. This was confirmed. Commissioner Rushton
+asked about the parcel to the north. Mr. Prestwich explained that parking is required as part
+of the Hosac Retail Center, so any additional development would not work there. He
+identified an island that acted as one of the storm drain ponds on the site.
+
+Commissioner Cluff asked to review the image that showed the parking arrows.
+Mr. Prestwich explained that the applicant is trying to get people to circle around so there
+would need to be some internal signage or painting on the existing site. The traffic flow went
+around in a loop. Commissioner Cluff was concerned that people will not go around the loop
+and will come out the way they came in instead. There might be some traffic confusion if
+there is not clear signage posted on the site. She wondered if it would be possible to address
+that as a Condition of Approval. This was confirmed. Discussions were had about the traffic
+flow and appropriate wording for a Condition of Approval.
+
+Commissioner Matheson asked about the restroom that needs to be accessed from the
+outside. He wondered how that would work as far as sanitation rules for staff. Mr. Prestwich
+reported that there are food prep sinks in two places and a mop sink inside as well. This
+means there are hand-cleaning stations inside for workers. The restroom would be shared
+between customers and employees. The building itself would be reviewed by the Health
+Department as part of the Building Permit Review. If there is an issue, it will be addressed
+at that time. Commissioner Matheson wanted to know if there was an issue with the building
+being a container. Mr. Prestwich explained that this was the first commercial container that
+has been seen in the City but it was done in other areas. He noted that this would look
+similar to the other nearby building in terms of the design features but he acknowledged that
+it would have the container shape. As for potentially seeing more containers moving
+forward, the response from the Planning Commission would determine whether more needs
+to be done to the ordinances in the future. Staff believed this particular application meets
+the minimum requirements.
+
+Commissioner Cannon referenced the arrows and wondered how to prevent interfering with
+the property owner to the northwest. City Attorney, Ryan Carter, shared some suggested
+language for a Condition of Approval. It could state that the existing traffic symbols be
+modified to accommodate traffic flow to the site in shared parking areas. The site utilizes
+Riverton City Planning Commission Meeting                                                     4
+July 13, 2023
+
+cross-access easements, which means there is some regulatory control to make sure the
+traffic flow works well in the area. The intention was to make sure the vehicles flow in the
+right direction so no conflict is created. Mr. Prestwich added that the parcels are all owned
+by the same trust company. Since there is no separate ownership, that would reduce the
+likelihood of there being conflicts or difficulties.
+
+Commissioner Park discussed the container and referenced similar types of development.
+He did not think there was much to worry about there. Chair Gilchrist noted that containers
+are specifically prohibited in the Accessory Dwelling Unit (“ADU”) Ordinance. That was
+something that the City could potentially revisit in the future. There could be architectural
+standards implemented for those rather than prohibiting the containers entirely.
+
+The applicant, Kendric Shumway, introduced himself to the Commission. He was excited to
+see the process move forward and available to answer questions. Commissioner Park
+asked if this was the first location for Sippy, which was confirmed. The hope was to have
+more locations in the future. Commissioner Cluff wondered if there had been discussions
+about parking and traffic flow. Mr. Shumway reported that the agent representing the trust
+company has been very involved in the process. If there are issues on the site, the traffic
+flow for the parking lot would be given appropriate signs and arrows. Commissioner Park
+asked to view the west elevation. He wondered if it was a walk-up window since it looked
+like there was space for it. Mr. Shumway confirmed that there will be walk-up service and
+outdoor seating.
+
+Chair Gilchrist opened the public hearing.
+
+Steve Winters reported he has a family interest in property south of the building. As a result,
+he was pleased to see that the headlights in the drive-thru will point the other way rather
+than south toward Redwood Road. He supported that aspect of the application but would
+not support the application if that were to change in the future. Mr. Winters referenced the
+lighting on the front. He had questions about the signage and how late it would be on. Until
+there are clear answers about signage and lighting he would continue to have concerns.
+Overall, it seemed like a good project. The proposed landscaping is excellent and he
+applauded the applicant for focusing on that.
+
+Jessica Cannon stated that she lives in the townhomes north of the proposed project. She
+had concerns about the headlights as they will point toward the back of her home. There
+were also concerns about the neon lights on the outside. Ms. Cannon reiterated her worries
+that the lights will be disruptive and shine through her back windows. She wanted to know
+about the hours of operation and the traffic levels. Other soda shops in different areas have
+very long lines. If traffic backs up here, there is the potential for traffic to reach 12600 South.
+She was also worried people not following the appropriate traffic flow, which could create
+traffic issues in and out of the neighborhood.
+
+There were no further comments. The public hearing was closed.
+
+Commissioner Rushton wondered if the applicant wanted to respond to any of the concerns
+expressed during the public hearing. Mr. Shumway explained that the lighting will likely be
+Riverton City Planning Commission Meeting                                                 5
+July 13, 2023
+
+on the same timer as the parking lot lights. From 1:00 a.m. to 7:00 a.m. he believed those
+lights would be off. As for the traffic concerns, there are numerous ways to address them to
+ensure that none of the traffic goes onto 12600 South. There is plenty of room in the parking
+lot to accommodate the anticipated traffic levels. Mr. Shumway discussed the concerns
+related to headlights. There is a fence there and a bit of a berm. The location of the
+relocated trees was identified on an image of the area. Mr. Shumway added that Sippy does
+not plan to be open late. He believed 9:00 p.m. was the cutoff.
+
+Commissioner Matheson asked about the fence to the north. He wondered how tall the
+fence is and what it will be constructed of. Mr. Prestwich reported that it is a six-foot vinyl
+fence. Commissioner Park asked about the hours of operation. Mr. Shumway reported that
+the location will be open from 7:30 a.m. to 9:00 p.m. Commissioner Park wanted additional
+details about the other signs in the Hosac Retail Center and whether they are lit at night. It
+was confirmed that other signs are lit at night.
+
+Commissioner Cluff asked about the neon band proposed to go around the building and
+wondered if that was something that was typically allowed or whether that would be an
+exception. Mr. Prestwich reported that it is part of the building lighting and is subject to
+Planning Commission review. While it is not done all the time, it is occasionally. He
+referenced other buildings with similar lighting. Commissioner Cluff asked if a lighting
+analysis had been performed. Mr. Prestwich confirmed that one had been done and shared
+that with the Commission. However, the Photometric Plan did not account for headlights
+from cars in the drive-thru. Commissioner Cluff asked how far headlights are visible. Mr.
+Prestwich believed it was 200 feet. As for signage, Mr. Prestwich explained that it would be
+possible for the applicant to have one that is 15% of one facade as well as two 30-square-
+foot signs.
+
+Commissioner Cannon asked about the maximum height permitted in the zone.
+Mr. Prestwich believed it was 50 feet. The signs could go within a foot of the top of the
+building. It could then be 15% of the façade. Commissioner Park shared information about
+headlights. High-beam headlights shone at an angle to illuminate the road from 350 to 400
+feet ahead or twice as far as low beams. As a result, someone rolling through the drive-thru
+should have a reach that is 175 to 200 feet on their headlights.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ 22-
+8026, "Sippy" Final Site Plan, with the following conditions:
+
+       1.     Site Plan improvements and the buildings shall be consistent with the
+              plans presented to the Planning Commission except where otherwise
+              noted.
+
+       2.     The applicant shall correct or resolve the remaining Staff redlines on the
+              civil plans.
+
+       3.     Storm drainage systems and accommodations shall comply with the
+              Riverton City Standards and Ordinances, and with the recommendations
+              of the Riverton City Engineering Division.
+Riverton City Planning Commission Meeting                                         6
+July 13, 2023
+
+
+      4.    The Applicant must create and agree to follow a Long-Term Storm Water
+            Management Plan according to Riverton City standards and ordinances.
+
+      5.    A Land Disturbance Permit must be issued by the City prior to any
+            construction grading on the site.
+
+      6.    The site and structures shall comply with any and all applicable Riverton
+            City Standards and Ordinances, including International Building and Fire
+            Codes.
+
+      7.    The applicant must obtain final approval from utility providers.
+
+      8.    Rooftop mechanical shall be screened by parapet walls or rooftop
+            screens.
+
+      9.    Wall-mounted service panels shall be painted to match the building.
+
+      10.   Existing traffic symbols and shared parking areas be modified to
+            accommodate the traffic flow for the site.
+
+Commissioner Cluff seconded the motion. The motion passed unanimously.
+
+3.    DECISION ITEMS
+
+      A.    None.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    None.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:22 p.m.
+

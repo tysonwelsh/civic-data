@@ -1,0 +1,51 @@
+{
+ "contributions": [
+  {
+   "date": "11/10/2023",
+   "name": "Marcia Burchstead",
+   "amount": "50",
+   "in_kind": false
+  },
+  {
+   "date": "11/10/2023",
+   "name": "Candice Daniel",
+   "amount": "50",
+   "in_kind": false
+  },
+  {
+   "date": "11/11/2023",
+   "name": "Bryce Christensen",
+   "amount": "400",
+   "in_kind": true
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "11/10/2023",
+   "recipient": "Love Communications",
+   "purpose": "consulting",
+   "amount": "1,101.13"
+  },
+  {
+   "date": "11/22/2023",
+   "recipient": "Facebook",
+   "purpose": "ads",
+   "amount": "374.26"
+  },
+  {
+   "date": "12/01/2023",
+   "recipient": "St. George Party Rentals",
+   "purpose": null,
+   "amount": "634.10"
+  },
+  {
+   "date": "12/01/2023",
+   "recipient": "Heather Atkin",
+   "purpose": "volunteer appreciation",
+   "amount": "800.00"
+  }
+ ],
+ "total_contributions": "500.00",
+ "total_expenditures": "2,909.49",
+ "ending_balance": "1,079.76"
+}

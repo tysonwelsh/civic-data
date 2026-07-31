@@ -1,0 +1,32 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-18",
+    "portal": "granicus",
+    "index_max_date": "2026-01-27",
+    "index_rows": 175,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://lehi.granicus.com/ViewPublisher.php?view_id=1",
+    "new_count": 0,
+    "notes": "21 newer meeting(s) listed with no Minutes link yet (unposted)",
+    "new_items": []
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "granicus",
+    "index_max_date": "2026-05-28",
+    "index_rows": 160,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://lehi.granicus.com/ViewPublisher.php?view_id=1",
+    "new_count": 1,
+    "notes": "1 newer meeting(s) listed with no Minutes link yet (unposted)",
+    "new_items": [
+      {
+        "date": "2026-06-11",
+        "title": "Planning Commission",
+        "url": "https://lehi.granicus.com/MinutesViewer.php?view_id=1&clip_id=1010&doc_id=cd2b9848-7ec5-11f1-94fc-005056a89546"
+      }
+    ]
+  }
+}

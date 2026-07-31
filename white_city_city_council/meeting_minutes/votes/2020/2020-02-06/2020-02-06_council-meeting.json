@@ -1,0 +1,105 @@
+{
+ "date": "2020-02-06",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-02-06/2020-02-06_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes with amendments, of the White City Metro Township Council meetings held on December 5, 2019, and January 2, 2020",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 20-02-01",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Resolution No. 20-02-02",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to set the public hearing for March 5, 2020 at 7:00 pm",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

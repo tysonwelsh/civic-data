@@ -1,0 +1,45 @@
+{
+ "contributions": [
+  {
+   "date": "10/13/2025",
+   "name": "SLBOR RPAC",
+   "amount": "250.00",
+   "in_kind": true
+  },
+  {
+   "date": "10/14/2025",
+   "name": "SLBOR RPAC",
+   "amount": "3,581.06",
+   "in_kind": true
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "10/08/2025",
+   "recipient": "Sun Print Solutions",
+   "purpose": "Mailer",
+   "amount": "2,867.39",
+   "in_kind": false
+  },
+  {
+   "date": "10/13/2025",
+   "recipient": "SLBOR RPAC",
+   "purpose": "Maps",
+   "amount": "250.00",
+   "in_kind": true
+  },
+  {
+   "date": "10/14/2025",
+   "recipient": "SLBOR RPAC",
+   "purpose": "Mailer",
+   "amount": "3,581.06",
+   "in_kind": true
+  }
+ ],
+ "total_contributions": "$0.00",
+ "total_in_kind_contributions": "$3,831.06",
+ "total_expenditures": "$2,867.39",
+ "total_in_kind_expenditures": "$3,831.06",
+ "beginning_balance": "$13,083.19",
+ "ending_balance": "$10,215.80"
+}

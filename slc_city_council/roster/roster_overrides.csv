@@ -1,0 +1,7 @@
+# roster_overrides.csv — hand-correction layer for the SLC council roster (applied LAST, wins ties).
+# The three generated CSVs (council_terms / district_versions / district_precincts) are DERIVED and
+# regenerable — NEVER hand-edit them; make every correction here instead (repo override convention).
+# Key = (seat_id, person_key, start_date); any non-empty column overrides the built value; the row's
+# `sources` gets `; override:roster_overrides.csv` appended so the provenance stays visible.
+# Currently 0 data rows — the built roster reconciles cleanly (see roster/CLAUDE.md).
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

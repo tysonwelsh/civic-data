@@ -1,0 +1,105 @@
+{
+ "date": "2024-12-05",
+ "year": 2024,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "ocr",
+ "present": [
+  "Linda Price",
+  "Paulina Flint",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2024/2024-12-05/2024-12-05_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the August 1, 2024 minutes",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Tyler Huish",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 2024-12-01, correcting the billing start-date to 2025",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Ordinance No. 2024-0-06 with changes discussed",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "Pass (unanimous)",
+   "mover": "Tyler Huish",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

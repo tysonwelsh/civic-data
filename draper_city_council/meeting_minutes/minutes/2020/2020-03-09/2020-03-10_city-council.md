@@ -1,0 +1,867 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=114&doc_id=7152c6ed-8978-11ea-a2af-0050569183fa
+> Meeting date: 2020-03-10
+> Format: text
+
+Approved April 7, 2020
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+MARCH 10, 2020, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:               Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                       Fred Lowry, Cal Roberts, and Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:    David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                  Oscarson, City Recorder; Scott Cooley, City Engineer; Hazel Dunsmore,
+                  Human Resource Director; John Eining, Police Chief; Russ Fox, Assistant
+                  City Manager; Rhett Ogden, Recreation Director; Christina Oliver, Director
+                  of Community Development; Clint Smith, Fire Chief; and Bob Wylie,
+                  Finance Director
+________________________________________________________________________
+Dinner
+
+Study Meeting
+
+1.0    Report: Fire Department 2019 Response Update and Strategic Plan, Chief Clint
+       Smith
+
+       Clint Smith, Fire Chief, provided a fire update for what happened over the previous
+       calendar year, compared these numbers to the 2018 calendar year and commented on the
+       department’s strategic plan.
+
+       In 2019 the Fire Department received a total of 3,792 calls. 3,000 calls, or 78%, were in
+       response to medical situations and 850, or 22%, for fire. He said this is common to see an
+       80-20 split.
+
+       In regards to medical calls, the time from dispatch to the time the unit was on route,
+       averaged about two minutes. He clarified that sometimes with medical calls there was also
+       a turn out time. This describes the amount of time it takes staff to put on their full fire gear.
+       When the department receives medical calls related to traffic accidents, respondents have
+       to wear their full gear. Their average time from when the unit was on route to when it
+       arrived on the scene was just over five and a half minutes. He said this number will be
+       important for the Council to consider when he talks about the department’s strategic plan
+       and how this compares to what they deem their threshold response time. He said that
+       nationally, the target response time is around the four-minute mark. On average the team
+       spends about 14 minutes on the scene before they are either cleared or have the patient in
+       an ambulance moving towards the hospital.
+
+       In response to fire calls, the time from dispatch to the unit arriving on the scene was just
+       over seven and a half minutes. This includes the turn out time for crews to get dressed in
+       their full gear.
+      Chief Smith highlighted the amount of time that the Fire Department spends responding to
+      calls for incidents that occurred on the interstate. Of their 3,800 calls, 3,577 were within
+      the City, 143 were on the interstate. In addition to this, the department provided mutual
+      aid and assistance to surrounding areas. He explained that the calls where the Draper City
+      Fire Department responded with the Lehi Fire Department were primarily related to I-15
+      incidents because of the different access points.
+
+      Chief Smith presented data on the calls broken down by time and day of the week and
+      highlighted that Thursdays between 4:00 p.m. and 8:00 p.m. were consistently their busiest
+      time. The second busiest day tends to be Fridays.
+
+      Next, Chief Smith addressed the total number of patients and fire transports (1,622). Of
+      those transports, 677 or 42% were to Lone Peak Hospital. He explained that was a
+      partnership the department created because they believed it enhanced the service to
+      residents. These types of transports account for the highest number of the department’s
+      medical calls. After this, their biggest 911 calls are for traffic accidents both on the
+      interstate and within the city, followed by falls, a sick person, someone who was
+      unconscious, seizures, overdoses, chest pain, stroke, chokings and lastly
+      pregnancy/childbirth.
+
+      In regards to fire calls, the highest volume of calls they received were false alarm or “good
+      intent” calls (where someone believes there was an issue, but the department doesn’t find
+      anything significant). These types of calls were followed closely by service calls (someone
+      who has fallen and needs a lift assist but does not need medical attention; a malfunctioning
+      smoke detector; or a duck rescue). In total, the department responded to 92 actual fires.
+
+1.1   Councilmember Fred Lowry asked for some clarification about what constituted a false
+      alarm call. Deputy Chief Bart Vawdrey explained that these were the types of calls where
+      a neighbor saw smoke, but there wasn’t a problem or calls from business security
+      companies whose system showed an alarm that usually resulted from a lack of
+      maintenance.
+
+      Chief Smith returned to talk about the breakdown of the types of fires the department
+      responded to. Building fires and car fires accounted for the most frequent types of fires,
+      followed by brush fires. In most cases, grass or brush fires were contained in garbage bins
+      or dumpsters. He said that 2019 was a pretty active year in regards to structure fires in the
+      City. He presented on the breakdown of response by platoon and that the workload was
+      pretty even on their firefighters.
+
+      In comparison to 2018, the department received a slight increase in calls for service in
+      2019, a 92 call increase. The breakdown between medical and fire was consistent with
+      previous years, as well as the number of transports. There was only a seven-transport
+      increase in 2019. They average about two transports per day. Chief Smith stated with the
+      growth of residential and commercial development on the west side of I-15 that an overall
+      increase in calls is to be expected. Despite a higher than the usual number of structural
+      fires in 2019, the total number of fires in the community was down from 2018. He
+
+                                          Page 2 of 18
+      emphasized that he felt the department’s trends were holding steady and aligned with other
+      departments in the state and asked if the Council had questions.
+
+1.2   Councilmember Fred Lowry asked if in addition to keeping track of how frequently Draper
+      City fire helped neighboring areas if they also kept track of how often Draper City was
+      helped. Chief Smith said they did keep track of that and explained that a few years ago
+      they changed one of their ambulances from 12 hours of service to 24 hours of service
+      because they noticed they had received more help than they were offering neighboring
+      areas. Ambulance services are the primary aid Draper tends to receive.
+
+      Finally, Chief Smith offered an update on the department’s strategic plan. He explained
+      that the department identified four groups – internal employees, stakeholders (city officials
+      and staff), the Draper community at large, and the business community at large – to survey
+      to identify needs and priorities. They received 56 responses from employees, a 96%
+      response rate; 13 stakeholder response, a 95% response rate; 224 responses from the
+      community, which represented an even distribution of residents from different areas of the
+      City; and 82 total responses from the business community.
+
+      Chief Smith said that the common feedback they received across the different groups was
+      fairly consistent. The primary concerns of stakeholders were response times, followed by
+      growth and west side coverage, community education and engagement, and the
+      training/compensation of personnel. He emphasized that people felt it was not only
+      important that staff were well qualified but that they were compensated such that they
+      wanted to stay in Draper. Employees’ primary concerns consisted of career development,
+      compensation, training, and consistency of part-time staffing. Chief Smith explained that
+      the department has often relied upon well trained, reliable part-time staff, but that they have
+      found a much smaller pool of people willing to do this type of work, making these roles
+      more challenging to schedule. David Dobbins, City Manager, pointed out that this is a
+      shift for the Fire Department because historically, there have been people who have been
+      very committed to part-time work that can augment full-time staff. Chief Smith said that
+      this shift away from part-time workers has been occurring across departments in the state
+      because of the correlation between the training investment of employees and their high
+      turnover.
+
+1.3   Councilmember Cal Roberts asked if this trend was a result of tighter labor markets or
+      because departments were just finding that the old model was inefficient. Chief Smith said
+      it was a combination of both, but that they have seen significantly less qualified people
+      enter into the fire service. He said that with the strong job market people can make a lot
+      more without the manual labor and risk exposure of the fire service making the job less
+      appealing. David Dobbins, City Manager, added that they have also found that the younger
+      generation is not interested in a job that has a set schedule that includes needing to work
+      holidays.
+
+      Councilmember Cal Roberts asked to what degree those seeking service jobs had been
+      impacted by the changes in pensions. Chief Smith said that the tier two system had been
+      another significant factor in attracting folks as the benefits decreased significantly in 2011.
+
+                                          Page 3 of 18
+      He explained that anyone who entered the system before 2011 is on the tier one plan that
+      has a 20-year, 50% retirement plus 2% a year for any additional year you stay on beyond
+      that. In 2011 the tier two system was implemented which for the fire service meant a 25-
+      year, 37.5% retirement. He said that they had been working with the legislature over the
+      last couple of years and last year were able to change the tier two plan to a 25-year, 50%
+      retirement structure. He further explained that before getting this change, one of the things
+      they did to try and increase recruitment was to pay the tier two individuals a tier two offset.
+
+      Chief Smith returned to talk about the priorities expressed by both community and business
+      members. These were response times, staffing, station coverage, public education and
+      prevention, and well-paid staff. Chief Smith that the exercise proved valuable because
+      what the department thought were the priorities of concerns of their constituents truly
+      turned out to be those priorities. He said, however, that the department needed to do a
+      better job communicating how those priorities were being met. There were a lot of
+      comments in the surveys were a respondent thought a program had gone away when in
+      reality those programs had been increased.
+
+      Chief Smith said that their next steps would be to create the strategic plan’s goals and
+      objectives, followed by selecting the strategies and tactics to complete those goals. The
+      department wanted to make sure that future decisions were data-driven. Additionally, they
+      are exploring program options to track and provide said data. He said that in addition to
+      their strategic plan and communications plan they would also develop a Standards of Cover
+      plan that helps the department know the location of fixed and mobile resources and the
+      deployment of those. This would include a full community risk plan.
+
+1.4   Councilmember Cal Roberts asked about the response times which were stated to be higher
+      than the national average. He wanted to know if this was a result of coverage and the
+      station location to the calls they received for the west side. Chief Smith, confirmed that
+      was the primary reason because the Fire Department has fixed locations to house the
+      needed equipment and resources. David Dobbins, City Manager, said that one of the
+      challenges staff has is that because SunCrest is apart from the core of the City, although
+      they receive a low number of calls for that area, they still have to commit resources to that
+      space, should an incident happen, that pull away from other areas of the City. He also said
+      that as the prison site gets developed they are looking proactively about adding a station to
+      be able to respond to the increased development on the west side of the highway.
+
+2.0   Introduction of Volunteers in Police Service (V.I.P.S.) members, Chief John Eining
+
+**    6:05 p.m. The Council met the VIPS in the City Hall lobby.
+
+      Police Chief John Eining had the volunteers introduce themselves. The volunteers are
+      Ginnii Altankhuyag, Lisa Berente, Lori Johnson, Jason Koop, Dean Lowe, Travis Meihls,
+      Ben Paynter, Jeri Rollins, Mary Squire, and Da Yang Wipfel. Sue Campbell, Draper City
+      Police Crime Prevention Specialist, stated the volunteers have logged 100 hours which
+      included their training.
+
+
+
+                                          Page 4 of 18
+      Pictures were taken with the Councilmembers, Mayor Walker, the volunteers and the e-
+      bike they will be using.
+
+      The Councilmembers spoke to the volunteers one-on-one.
+
+**    6:44 p.m. The Council and Mayor returned to the Administration Conference Room.
+
+3.0   Council/Manager Reports
+
+3.1   Councilmember Cal Roberts asked about the status of the Traverse Ridge Special Service
+      District (TRSSD). David Dobbins, City Manager, said that the board of the TRSSD had
+      given the City their terms and some different options that the staff needed to review.
+      Councilmember Roberts asked if they had a timeline for when they would start to move on
+      the project. David Dobbins said a couple of weeks. Councilmember Roberts asked how
+      and at what point they would want to incorporate Deer Ridge into the TRSSD plans.
+
+3.2   Councilmember Tasha Lowery asked about the street lights in the Traverse Ridge Special
+      Service District (TRSSD). Mr. Dobbins said they had not gotten any information. He said
+      that the City no longer has control over those lights and that they are now handled internally
+      by the TRSSD. The City has received a lot of complaints that this process is not handled
+      well. Councilmember Lowery said that what has been posted on the SunCrest page is that
+      two of the problems have to do with electrical wiring that would be something the City
+      should address. Mr. Dobbins said he would double-check on it.
+
+3.4   Councilmember Marsha Vawdrey reported that a street light on White Rose Circle had
+      been out for over a year. Mr. Dobbins verified the address to follow up on the concern.
+
+3.5   Councilmember Fred Lowry reported on the Tree Commission. He stated that the
+      committee would like to do a resident survey on trees and beautifying the City entrances.
+      He asked Mr. Dobbins, what the reasoning was not to survey residents. Mr. Dobbins said
+      they could, but that type of survey tends to be informal and unscientific, but once it is done
+      people take the results as fact. Other councilmembers asked what the committee was trying
+      to find out. Councilmember Lowry said they wanted to get a feel for the type of trees
+      people would like, as well as what they would like to see in regards to beautification around
+      the City, particularly at City entrances.
+
+      Councilmember Tasha Lowery asked if they had narrowed the survey down to specific
+      questions. Councilmember Fred Lowry said they didn’t have specific questions. Mr.
+      Dobbins said that when the City conducted its General Plan survey it gave the City a panel
+      of people who will participate.
+
+      There was consensus from the rest of the Council that it was the Tree Commission that
+      should be stating what types of trees should be used, not seeking the desires of residents
+      because they were the experts. Councilmember Fred Lowery clarified that they wanted to
+      know if people would be willing to have an increased tax to fund more trees.
+
+
+
+                                          Page 5 of 18
+3.6   Councilmember Fred Lowry said that there was also a suggestion about splitting the Parks
+      and Trails Committee so that Trails was a separate committee and Parks and Trees combine
+      as a committee. He said this suggestion came forth to address the large number of trails in
+      the area that tend to get more attention than the parks.
+
+      There was a mixed response from the Council. Councilmember Lowry said that Dave
+      Cloward was going to talk with Jamie Pogue about the suggestion. He added that he had
+      talked with Rhett Ogden, Recreation Director, to get his opinion. According to
+      Councilmember Lowry, Mr. Ogden felt good about the idea and felt that it could help give
+      those committees more direction and the ability to specialize.
+
+      Mayor Walker said that he could initiate conversations to see how people feel about the
+      idea and set a meeting to discuss it further.
+
+      Councilmember Marsha Vawdrey said that she was hesitant about the idea.
+
+3.8   Russell Fox, Assistant City Manager, talked about special event signage in the City and
+      some of the challenges it presents. He explained that in 2009 the City got sued by Big
+      Daddy’s Pizza after the City had executed some enforcement on them for some temporary
+      signage. The City was taken to court and forced to re-write their code around signs, which
+      at the time was content-based. Since then, the Supreme Court has ruled that signs cannot
+      be regulated based on the language/content on the sign. Civic or governmental signs could
+      be placed without a permit, but other signs couldn’t be posted. Currently, signs can be
+      regulated based on time, manner or place, and the code was re-written again in 2011 to
+      reflect this. One of the issues that came up from the Planning Commission and City
+      Council at the time was how to deal with special event signs because the City still wanted
+      to be able to advertise for Draper Days, City events, plays, etc. However, when unable to
+      limit by content it makes it very difficult to restrict other entities. To address this, the
+      specific language was added into the code about the duration of special event permits (30
+      days) and the associated signage. Events are allowed up to 50 signs per permit that are
+      encouraged to be placed on city property. Now they have the problem that city properties
+      are now saturated with signs.
+
+      Mr. Dobbins added that some people believe that because they are on city property that the
+      City is endorsing/sponsoring those events.
+
+      Mr. Fox said this was an issue they wanted to bring before the Council because if an
+      extremist group was holding an event they could place those signs on City property once
+      they had a special event permit. Mr. Dobbins said another challenge has been that when
+      people say they want to post signs and staff respond that they can’t unless they have a
+      special event permit, those entities say they are going to have a special event to be able to
+      post the signs. He said that he felt the City needed to look at placing some restrictions
+      around the time, place and manner because there are too many signs. He asked for
+      permission to look at those broad categories (time, place and manner) to see if they could
+      be adjusted.
+
+
+
+                                          Page 6 of 18
+      Councilmember Fred Lowry asked if they could make signage permissible for city events
+      only. Mr. Dobbins said they couldn’t because that would be a restriction based on content.
+      He said that the question came down to if the City was okay with a sign appearing in a
+      particular spot, regardless of what it advertised or who sponsored it. He said that staff
+      wanted to look at what spots they felt they should restrict, regardless of a sign’s content.
+
+      Mayor Walker referenced a case where the Confederacy wanted to participate in a City
+      parade, but a judge ruled they could be excluded because it wasn’t a parade about the
+      Confederacy.
+
+      Mr. Dobbins said that placing these restrictions was something that they wanted to look at
+      very carefully. Just because the sign advertised something someone personally disagreed
+      with or thought the City shouldn’t in any way look like it supports, it might still have to
+      post it because of free speech. He said staff wanted to make sure everyone had agreed
+      upon where that free speech should take place.
+
+      Councilmember Fred Lowry said they almost needed an additional sign that said that none
+      of the events posted were endorsed by the City. He also asked if there was a restriction on
+      how long an A-frame sign could be out in front of a business or for an event.
+
+      Mr. Fox said that those signs were allowed, so long as they were not in the park strip or
+      blocking the sidewalk. He explained that they are supposed to be pulled in when a business
+      closes for the night.
+
+      Christina Oliver, Director of Community Development, explained that they try to work
+      with businesses who utilize those signs offering reminders for them to pull the signs. After
+      this has happened two or three times the City pulls the signs and places them behind the
+      shed in the City parking lot.
+
+      Mr. Dobbins confirmed that the Council was okay with them looking at restricting the code.
+
+Business Meeting
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Imam Shuaib offered the prayer.
+
+2.2   Russ Fox, Assistant City Manager, led the Pledge of Allegiance.
+
+
+2.0   Recognition: Marty Bodell, Cooper Gardiner, and Camryn Young as Finalists in the
+      2020 Competition for National Merit Scholarships
+
+
+
+
+                                         Page 7 of 18
+3.1   Mayor Walker recognized three students from Corner Canyon High School who were
+      named finalists in the 2020 Competition for National Merit Scholars. The National Merit
+      Scholarship is an academic competition for recognition and scholarships that began in
+      1955. Approximately 1.6 million high school students enter the program each year. In
+      February the group was narrowed to 15,000 students that advanced to the finalist standing.
+      The scholarship winners will be announced later this spring. Mayor Walker extended his
+      congratulations to Marty Bodell, Cooper Gardiner, and Camryn Young.
+
+      The Council took a picture with the three students who were also given a treat.
+
+3.0   Recognition: Corner Canyon High School Swim Team
+
+      Mayor Troy K. Walker recognized the Corner Canyon High School Swim team who
+      recently competed in the 6A State Championship at Brigham Young University. He
+      highlighted that Rivers Johnson earned the Swimmer of the Year Award for her
+      performance. Over the two-day competition, she set a new 6A record in the butterfly and
+      backstroke events. Also, Corner Canyon had a winning medley relay with Aliza Smith,
+      Britta Catmull, Rivers Johnson, Eliza Balfe, and Tyler Lybbert. Corner Canyon placed
+      third in both the 200 and 400 freestyle relays and took third place overall in the 6A State
+      Championship. They also had four individuals who received the Academic Allstate Award
+      granted to athletes that have a 4.0-grade point average. These students were Annika
+      Manwaring, Grace Poulson, Juliana Smith, and Rivers Johnson. The Mayor congratulated
+      the team’s coaches and athletes.
+
+      Before the Council took a picture with the team, Mayor Walker highlighted the City’s new
+      recreation center and stated that for several years it has been a priority of the City to create
+      more swimming opportunities and have a swimming pool that featured stadium seating to
+      better highlight them as athletes.
+
+      The members of the team who were present took a photo with the Council and were given
+      treats.
+
+5.0   Public Comments
+
+      To be considerate of everyone attending the meeting, public comments will be restricted
+      to items not listed on this or a future agenda and limited to three minutes per person.
+      Comments which cannot be made within these limits should be submitted in writing to the
+      City Recorder prior to noon the day before the meeting. Comments pertaining to an item
+      on the agenda should not be given at this time but should be held until that item is called.
+
+5.1   Bryce Green, resident and business owner. He explained his event center is right across
+      from Nielsen’s Custard. He stated that after speaking with all of the neighboring owners,
+      and landlords in the area, no one knew what was going on with Nielsen’s Custard. He said
+      that businesses in the area have concerns about the issue including parking. He stated that
+      he listened to the previous meeting twice and that although Nielsen’s felt there would not
+      be a parking concern there would be. Mr. Green explained that he went and looked at the
+
+                                           Page 8 of 18
+      amount of parking at the Nielsen’s South Jordan location and found that they had almost
+      twice as much parking there as they currently have at the proposed Draper location. He
+      also stated that currently, whenever he hosts an event, the current tenants already complain
+      about parking. Based on what he heard in the meeting, Mr. Nielsen expects 1,500 people
+      on the weekends. Mr. Green said that there was no way that there would be enough parking
+      for that.
+
+      His second concern was about the proposed orientation of the building. He said that anyone
+      leaving the event center, including brides, would see the bright pink neon ice cream cone
+      first. He explained that his business spent a lot of money renovating the space and was
+      willing to do that specifically because of the view of the mountains. He felt that the
+      proposed building would not fit in with the surrounding area and would completely change
+      the feel of the location. He further pointed out that if they were already going to rip the
+      building down, why wouldn’t they have the cone oriented towards the street. Mr. Green
+      also felt as though a neon sign would be an eyesore that could be seen throughout the whole
+      valley. He said, “I don’t think that’s the light on the hill that people want to see as they
+      walk out their front door.” He said that if he was Nielsen’s Custard he would want exactly
+      what they were asking for because it would be a huge neon billboard that the whole valley
+      would see 24/7.
+
+6.0   Consent Items
+      a.    Approval of February 11, 2020, and February 18, 2020, City Council Meeting
+            Minutes
+      b.    Approval of February 28-29, 2020, City Council Retreat Meeting Minutes
+      c.    Approval of Resolution #20-13, approving an Interlocal Agreement with
+            Metro Fire
+      d.    Approval of Draper Fire Department Board-Up Rotation Contract
+
+6.1   Councilmember Marsha Vawdrey moved to approve the consent items.
+      Councilmember Fred Lowry seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Approval of Ordinance #1410 and #1411, Offices on 7th Land Use
+      Map Amendment, Zoning Map Amendment, and Development Agreement Request
+      (Legislative Action). On the request of Keaton Morton for a land use map
+      amendment from Residential Medium Density to Neighborhood Commercial (CN), a
+      zoning map amendment from RA2 to CN, and a development agreement on 0.99 acres
+      of property located at 681 East Pioneer Road and 12388 South 700 East.
+
+7.1   Jennifer Jastremsky, Planner, stated that the property was located on the corner of Pioneer
+      Road and 700 East. She said that there were two homes on the property, both with access
+      off of Pioneer Road. The land use is currently zoned as residential medium density, which
+      allows for a third to quarter-acre single-family residential lot. The applicant has proposed
+      to change that designation to neighborhood commercial which is the same designation as
+
+                                         Page 9 of 18
+      the area to the north of the property. The zoning designation is currently RA2 which is
+      half-acre, single-family residential. The applicant proposed to change the zoning
+      designation to CN which is a neighborhood commercial zone.
+
+      The applicant has proposed a development agreement that includes some restrictions. It
+      would restrict the property from being used as a drug and alcohol rehabilitation center.
+      Also, it looks at requiring that any buildings on the property meet the town center
+      architectural standards, except for window transparency which would allow for tinted or
+      glazed windows. The town center zone currently does not allow for that because when you
+      have a commercial space where people are shopping you don’t want the windows to be
+      blocking views. The applicant plans to build office buildings so that requirement was not
+      as critical as in the town center core.
+
+      Ms. Jastremsky reminded the Council that the town center architectural standards require
+      horizontal and vertical variations in building design, architectural details that go above and
+      beyond Draper City standard code and an 80% brick façade.
+
+      The applicant already had an architectural plan in the development agreement. It has not
+      already been reviewed against code, so there would be changes following the review
+      process.
+
+      Ms. Jastremsky then reviewed the neighborhood use table. She pointed out the Planning
+      Commission had discussed removing additional uses from what the Planning Commission
+      reviewed. They recommended restricting the use of that area further to remove assisted
+      living, a residential facility for the elderly and disabled, charter schools, club and service
+      organization, cultural service, private school, protective service, public school, utility
+      minor, bank and a financial institution, bed and breakfast inn, convenient store, daycare,
+      farmers market, funeral home, gasoline service station, grooming service, laundry and dry
+      cleaning, laundry service, medical cannabis pharmacy, nursery, preschool general, photo
+      and copying, restaurant, retail general, and secondhand and thrift store and veterinary
+      service.
+
+      The Planning Commission reviewed the development proposal at the February 27, 2020
+      meeting and forwarded a positive recommendation on a 3-2 vote.
+      Ms. Jastremsky showed some images of the property and was available for questions.
+
+7.2   Mayor Walker opened the meeting for public comment.
+
+7.3   Ray Bryant, resident, said that various entities have tried to do several different things with
+      the property under discussion. He said that what the applicant has proposed seems to him
+      to be the best thing that could be done with the property. He said that no one was going to
+      come to build a big fancy home on it because of the traffic on the neighboring street. He
+      said no one would want to build a property on Pioneer Road because it has become a main
+      thoroughfare through the City. He said the neighborhood feel of the street was killed the
+      first time Pioneer Road was widened. He said that he has lived on Pioneer Road since
+
+
+
+                                          Page 10 of 18
+      1960. Although he remembers times when he used to play ball on the street, sometimes he
+      is afraid to go out and get the mail because of the volume and hazards of the traffic.
+
+7.4   Steve Bryant, resident, said that he owns the property adjacent to the property that wants
+      to be developed. He said that he had three concerns: (1) increased traffic (2) the changing
+      of the neighborhood/commercial creep and (3) fairness.
+
+      Mr. Steve Bryant equated the increased traffic not to closing the gate after the cows were
+      out, but closing the gate after one heard the cows were out. Draper encouraged more traffic
+      on Pioneer Road. He said there were three east-west corridors in Draper: 12300 South,
+      Pioneer Road, 13800 South. He recognized that because of this, increased traffic is
+      inevitable.
+
+      Steve Bryant, Ray Bryant’s brother, has also lived in Draper since 1960. He said that he
+      finds the language “changes to the neighborhood,” laughable as he used to drive his tractor
+      down Pioneer Road over to the Iceberg. He said it was not the case anymore. Anyone who
+      moved in in the last ten years should have realized that Draper was changing and this area
+      would be developed.
+
+      In regards to fairness, Mr. Bryant felt that the applicant, Mr. Smith, had the right to liquidate
+      the property as an investment and get a good return on it. He explained the applicant had
+      owned it for many years as an investor and has been a good neighbor. Mr. Bryant said that
+      although he and his wife moved when they had the opportunity to buy their dream home.
+      However, he still owns the adjacent property and believes that Mr. Smith should be able to
+      make money off of the property that has no chance of remaining residential.
+
+7.5   Donna Bryant, resident, began by presenting a few facts. She stated that the current
+      population in Draper was about 48,000 people, an increase of about 89% since the year
+      2000. Given this, she said that of course there has been an increase in traffic in Draper.
+      The City has been improving the roads trying to keep up with the demand. She said that
+      two of those roads just happened to be 700 East and Pioneer Road which were turned into
+      secondary roads to reduce traffic on the main streets.
+
+      Ms. Bryant also stated that a few years ago Draper City was very open and honest and held
+      an open house with residents to hear what they wanted in the town’s center. She said that
+      even then it was clear that you could see small businesses and commercial development
+      coming. She said that she could see why residents in the surrounding area would be
+      concerned about commercial development, but she asked that people be realistic. “We are
+      not talking Krispy Kreme Doughnut commercial. We’re talking small business
+      commercial – an accountant or insurance agent – that will be open Monday through Friday,
+      nine to five.” She also pointed out that if you look at the development plan, the applicant
+      has his entrances and exits onto 700 East as opposed to Pioneer Road, which she felt was
+      very thoughtful of the neighbors across the street. She said that one thing she hopes that
+      the applicant includes in his plan was to make the entrance and exit a right turn only so that
+      there is no traffic back up on 700 East.
+
+
+
+                                          Page 11 of 18
+      Ms. Bryant then directed the Council to look at what is currently being developed: the
+      offices on 300 East, the development by America First Credit Union, the two developments
+      that are being built between 800 East and 900 East, the multi-housing outside of the City
+      office buildings, the sixteen half-acre homes that will eventually be built by Draper
+      Elementary. Ms. Bryant said all of these developments would increase the amount of traffic
+      on Pioneer Road and 700 East. Because of this, she wanted the Council to approve the
+      development proposal because she felt it was the best deal for the area.
+
+7.6   Anna Freeman, resident, who stated she lives four houses down from the property under
+      discussion. She said that right now 600 East through 700 East was all residential and that
+      if the property was changed, that wouldn’t be the case anymore. She said that she could
+      understand why the property owners would want the land to be closer to commercial to be
+      able to sell it for more money. However, historically it has been residential. She said, “I
+      can look out my window now and see that stupid storage unit because it’s so big it blocks
+      my view.” She said she was concerned that this building would be too high and also block
+      her view of the mountains. She said she knows a lot of her neighbors feel that way. She
+      hopes the Council does not approve the rezoning.
+
+7.7   Seth Wright, resident, who stated he lived directly across the street from the property under
+      discussion. He said he shared similar concerns with what was previously mentioned. He
+      stated that he wasn’t sure why they needed the commercial zoning in the quadrant under
+      discussion and change it from a residential neighborhood. He said that as far as that block
+      is concerned it still was a residential neighborhood. Although he didn’t fault anyone for
+      wanting to sell their property for more, he felt that rezoning the property would result in a
+      domino effect. He said that he felt that the people who are for the rezoning would benefit
+      from the change financially and that those who are against it would not. Mr. Wright
+      explained that although other residents have talked about the commercial creep, rezoning
+      the property to commercial had been voted down previously. He wanted to know why it
+      was approved this time and worried about how this would affect the sale of residential
+      properties in the future. Mr. Wright also voiced feeling pushed out by the entrance of
+      commercial entities.
+
+7.8   Kelsey Wright, resident, voiced concerns about the current traffic level. She said that
+      people run the four-way stop at Pioneer Road and 700 East all the time. She said that the
+      night previously she was almost hit on her bicycle while she was in the crosswalk because
+      someone ran the light. She also stated that there is already a traffic problem that makes
+      accessing her driveway complicated. She said that it seemed like most people would
+      approach the space from Pioneer Road, she wondered why the entrances were not on that
+      road. Also, she stated that the increased traffic doesn’t provide an incentive for residents,
+      who are currently in a residential area to stay and have the desire to start families and
+      establish some roots, to stay.
+
+7.9   Janae Holmstead, resident, who lives half a block west of the property under discussion.
+      She said that in her opinion there was not a need for more commercial development in the
+      area or any part of Draper. She said that there is an abundance of spaces that are for sale
+      or for lease that are already in the business complexes that have been sitting empty. She
+
+                                         Page 12 of 18
+       felt those spaces should be filled before they build more buildings. Her second concern
+       was the commercial creep. She asked how long it would be before the Bryants sold their
+       three properties directly west. (She suspected not very long). She pointed out that if that
+       happened there would only be four more houses on the north side of the street. She stated
+       that it feels as though her opinion doesn’t matter.
+
+7.10   Steve Linn, resident, said that he lives around the corner from the property under
+       discussion. He wanted to reiterate what had already been said about the commercial creep
+       is difficult to accept and that he wished they could keep the residential area, residential. He
+       said that there were so many other commercial spots that were available, why we wouldn’t
+       use empty spaces and specifically pointed out the empty K-Mart up on the hill that was,
+       “just sitting there.” He said that as he listened to the different comments it felt as though
+       there was this side and that side without an in-between, but he wanted to know if they were
+       going to make it commercial if there was the possibility for some compromises such as
+       making it similar to the mixed-use area to the west where there was a wall separating the
+       residential from the commercial.
+
+7.11   Brady Davies, resident, said that he and his wife own The Piano Place. He said that the
+       reason why he was in attendance was that if the plan were to be approved they plan to
+       occupy a big portion of the building. He explained that they started their business in Draper
+       three years ago in the barbershop across from the City offices. He explained that they
+       outgrew the space in a few short months because of the demand in Draper for music lessons
+       in a time when schools are cutting music programs and kids are looking for an outlet to
+       advance their musical skills. He said that when they outgrew the space, they struggled to
+       find a place that was big enough for them, and ultimately just had to open two locations.
+       However, having one business under two different roofs has proven challenging for them
+       as business owners. He said that they are looking for a community commercial zoning and
+       that The Piano Place embodies that perfectly as they have the opportunity to teach hundreds
+       of families in the community and can be a good asset for the neighborhood. He stated that
+       they typically are only open from 3:00 p.m. to 7:00 p.m. with a handful of early before
+       school lessons.
+
+7.12   Mayor Walker closed the meeting for public comment.
+
+7.13   Keaton Morton, applicant, said that they have put a lot of thought into the project over the
+       last few months. He said that they want the space to have a use that is consistent with other
+       corner offices in the area. He said that the neighborhood offices would allow residents to
+       work nearby and have close access to neighborhood services such as dance studios, piano
+       lessons, karate lessons, and other professional services. He then presented a map of the
+       areas that have not already been zoned as commercial to address the issue of commercial
+       creep. Mr. Morton stated that they spent quite a bit of time going door to door to understand
+       and be able to address neighbors’ concerns which included: traffic, project height, project
+       appearance, and the project uses.
+
+       In response to the traffic concern, the applicant felt that the traffic flow into the parking lot
+       would be the opposite of the residential traffic patterns. Mr. Morton then outlined their
+
+                                           Page 13 of 18
+       efforts to date. He said that they have worked with Draper City planning and public works
+       regarding uses; have worked with surrounding neighbors to understand their concerns; have
+       worked with the City Council and Staff to better understand how they can address residents’
+       concerns; and have worked with the staff to develop an agreement that memorializes: (a)
+       limitation on uses, (b) limitation on height to two stories and (c) sets building aesthetics to
+       conform with town center standards. He said that as residents, they care about how space
+       would be used and its impact on the neighborhood and that he hoped the Council would
+       consider the efforts made and the use they are trying to provide.
+
+7.14   Councilmember Fred Lowry asked Mr. Morton about the reasoning behind the window
+       transparency.
+
+       Mr. Morton said that generally in an office setting, especially on the first floor, a party
+       wouldn’t want full transparency because of the meetings that might be held in those spaces.
+       The full transparency requirement in the town center was intended for retail spaces.
+
+       Councilmember Lowry said that he was concerned about a space that had mirror windows.
+       He said that he felt a lot of sympathy for the residents across the street and felt that the last
+       thing they would want was to see their reflection.
+
+7.15   Councilmember Fred Lowry then stated that he also felt that the Cubes design did make
+       buildings that were too high. He asked how the height of the proposed building compared
+       to those structures. Mr. Morton said that their height restriction would limit them to the
+       same height if it was residential. He asked for confirmation from Jennifer Jastremsky.
+
+       Ms. Jastremsky said that the CN zone had a maximum building height of 35 feet, the same
+       height that is allowed in residential zones.
+
+       Councilmember Tasha Lowery wanted to know how this compared to Cubes.
+
+       Ms. Jastremsky said she was not sure the exact numbers for Cubes, but she knew they
+       received a deviation for height so they go above what the code allows. Councilmember
+       Lowery clarified that this building would be significantly lower. Ms. Jastremsky said that
+       was correct. She said Cubes was allowed three or four stories.
+
+7.16   Councilmember Fred Lowry asked about setbacks and the road improvements that will
+       probably need to happen. He asked if the building would be positioned in a way that the
+       setback was appropriate should any road improvements need to occur.
+
+       Ms. Jastremsky said that when the applicant comes in Engineering would evaluate the
+       City’s needs for any additional rights-of-way at that time. She said the CN zone and other
+       commercial zones do not have a minimum set back from the road so a building can be up
+       against the street. That was encouraged to create a more aesthetic right-of-way.
+
+7.17   Councilmember Tasha Lowery asked if Ms. Jastremsky, Planner, could bring up the image
+       of the building that showed the proposed access to the building so that she could address
+
+                                           Page 14 of 18
+       residents’ questions about access. Councilmember Lowery pointed out that it did appear
+       as though there was access from both roads.
+
+       Councilmember Fred Lowry said that it was important to note that it would be vital to have
+       two means of egress for that property.
+
+7.18   Mr. Morton wanted to make certain that the Council understands that they do care about
+       neighborhood concerns. He said that he knew that at times developers have a certain
+       persona, but he felt they had made a lot of effort to make accommodations to meet
+       neighborhood needs. He hopes that this demonstrated their attempts to be a good neighbor.
+
+       Councilmember Fred Lowry was concerned that the specific uses were not stated in the
+       development agreement.
+
+       Mr. Dobbins, said that staff had sent a list of uses (which Ms. Jastremsky read during her
+       initial presentation) to the applicant and they had agreed to include those restrictions in the
+       development agreement.
+
+7.19   Councilmember Fred Lowry clarified that to make sure those were included in the
+       agreement the Council would need to continue this as a future agenda item. He then
+       commented to the residents. He said that he had a lot of empathy towards those who live
+       in the surrounding area. In response to the question why this was being considered for new
+       zoning when it was turned down in the past, he said that it was because the Council wanted
+       to make sure that the area was protected and that they could have a set development
+       agreement with an applicant that would limit its uses that attempts to help all sides and then
+       began to make a motion.
+
+7.20   Mayor Walker stated that Councilmember Lowry did not need to make a motion. That if
+       no motion was made it would automatically be rolled over to the next meeting. He also
+       clarified that the Council had not seen this proposal before.
+
+7.21   Councilmember Mike Green stated that he appreciated the applicant, Keaton Morton, for
+       the degree that they had been accommodating and the effort they made to make the project
+       the best it could be.
+
+7.22   Mayor Walker asked for a motion from the Council.
+
+7.22   There was no motion forwarded by the Council for this item. This item will be heard at the
+       March 17, 2020, City Council meeting for Action.
+
+8.0    Action Item: Approval of Ordinance #1422, Nielsen's Frozen Custard Development
+       Agreement Request (Legislative Action). On the request of Steve Nielsen,
+       representing Nielsen's Frozen Custard and Diner, for a Development Agreement
+       modifying Title 9 design standards on 0.70 acres of property located at 1462 East
+       Draper Parkway.
+
+
+
+                                           Page 15 of 18
+8.1   Jennifer Jastremsky, Planner, reoriented the Council to the location of the project and the
+      applicant’s intent to remove the existing bank building and build a new structure for their
+      diner. She explained that the applicant had made some updates to their signs since the
+      Council last heard the item. The monument sign had been modified so that it fully
+      conformed with Draper City Code about sign height and area. The one exception was for
+      the amount of copy. City code limits this to 50%, but the applicant would like to be allowed
+      60%. In regards to the ice cream cone, the applicant has reduced the sign to be two feet
+      shorter and one foot narrower. The cone would still extend above the roofline. The
+      applicant also eliminated the awning sign they had proposed on the back of the building,
+      but are still proposing the neon.
+
+8.2   Councilmember Marsha Vawdrey wanted to know how the parking area was determined.
+      Ms. Jastremsky said this was based on the size of the building. She said that she looked at
+      the South Jordan location on Google Earth which had 36 parking spaces. Ms. Jastremsky
+      said that the concept plan provided by the applicant for the Draper location had 24 spaces,
+      but would meet Draper City parking code which requires 10 spaces per 1,000 square feet
+      of gross building floor area. For their building that would be 24 spaces. The development
+      agreement does allow them to have a shared parking agreement, which the applicant
+      indicated already exists within the shopping center.
+
+8.3   Doug Nielsen, the applicant, pointed out some changes to the Development Agreement.
+      He said that one of the changes that must have been left out was the lowering of the cone
+      and the monument sign.
+
+8.4   Councilmember Mike Green wanted to know at what time they anticipated having the lights
+      turned off at.
+
+      Doug Nielsen said that on Monday through Thursday they close at 10:00 p.m. and that they
+      close at 11:00 p.m. on the weekends. He said the neon goes off right then. Closed Sundays.
+
+      Councilmember Fred Lowry asked if that could be included in the agreement: the neon
+      lights would be turned off after business hours. The applicant said yes.
+
+8.5   Councilmember Cal Roberts wanted to know how the cone compared to the top of the
+      roofline to the current building. He wanted to know how much higher the cone height
+      would be to the current building height.
+
+      Ms. Jastremsky said she didn’t have the cone height relative to the current building because
+      they had been comparing the height to what had been previously proposed by the applicant.
+
+      Mr. Nielsen explained that the current height of the building is two feet lower than the
+      pinnacle height of the cone, but that the rest of the building is much lower than the cone
+      and the bank building. Also, because of the width of the diner, it would have a much
+      smaller footprint. The current building was 4,500 square feet and the diner would be about
+      half the size.
+
+
+
+                                         Page 16 of 18
+       Councilmember Fred Lowry clarified that the top of the cone would be two feet higher than
+       the peak of the existing building. Mr. Nielsen said that was correct.
+
+8.6    Councilmember Tasha Lowery asked if she was correct in her understanding that part of
+       the area where the existing bank building had been would now become an outdoor eating
+       area.
+
+       Mr. Nielsen highlighted on the aerial of the property what places would be concrete and
+       grass. Councilmember Lowery asked if he had any images of what that would look like.
+       The applicant said the South Jordan store looks just like this, although this location would
+       have a slightly larger patio. He showed a picture of the South Jordan store. Councilmember
+       Lowery reiterated that the grassy area in Draper would be more extensive to allow for more
+       picnicking. Mr. Nielsen said he believed so. In South Jordan, it was 20 square feet, but in
+       Draper, it would be 23 feet of cement and 20.75 feet of grass.
+
+8.7    Councilmember Cal Roberts asked about the cone lighting. He wanted to know how it
+       looks fully lit because in the picture there was only the outline of the neon light. Mr.
+       Nielsen said that was the extent of the lighting.
+
+       Councilmember Fred Lowry clarified that the only lighting on the cone was the outline.
+
+8.8    Councilmember Mike Green asked if a traffic study had been done. It was stated that it
+       wasn’t needed. Councilmember Green was specifically concerned about the number of
+       parking spaces. In response, Mr. Nielsen said that at their Bountiful location they have 25
+       parking stalls. He explained that this location was designed based on the traffic at the
+       Bountiful location. He also stated that the South Jordan location was unique because it
+       shared the parking lot with a city park.
+
+8.9    Councilmember Tasha Lowery wanted to know when the diner’s busiest hours were.
+       Mr. Nielsen said they were Friday and Saturday nights from 7:00 p.m. to 9:00 p.m. He said
+       that it was also important to note that 50% of the business, day and night, goes through the
+       drive-through which doesn’t create parking issues.
+
+8.9    Mr. Nielsen said that it needed to be added to the development agreement that the sign on
+       the east side of the building would be removed.
+
+8.10   Councilmember Mike Green, wanted to thank the applicant for their willingness to engage
+       in extensive conversations over the two weeks between their appearance at the City Council
+       meetings. He said he was appreciative of their willingness to adjust and align with City
+       code and that spoke volumes to the applicant and their reputation.
+
+8.11   Councilmember Green moved to approve Ordinances #1422, Nielsen's Frozen
+       Custard Development Agreement Request with the changes that were submitted.
+       Councilmember Lowery seconded the motion.
+
+
+
+
+                                          Page 17 of 18
+8.12   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0    Public Hearing: Approval of Ordinance #1423, Draper City General Plan CR Text
+       Amendment Request (Legislative Action). On the request of Draper City for a Text
+       Amendment to the General Plan to add the Regional Commercial (CR) land use
+       designation into the written plan document.
+
+9.1    Jennifer Jastremsky, Planner, explained that the City updated its General Plan late in 2019
+       and inadvertently left out the regional and commercial land use designation from the
+       written document. She said it was included in the land use map, but that the written
+       document needed to be amended to include the designation. She highlighted the area that
+       is currently under this designation and said that the Planning Commission had reviewed the
+       request and recommended approval on a 5-0 vote.
+
+9.2    Mayor Walker opened the public hearing, no one came forward so Mayor Walker
+       closed the public hearing.
+
+9.3    Councilmember Green moved to approve Ordinance #1423, Draper City General
+       Plan CR Text Amendment Request. Councilmember Marsha Vawdrey seconded the
+       motion.
+
+9.4    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Adjournment
+
+10.1   Councilmember Green moved to adjourn the meeting.
+
+10.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.3   The meeting adjourned at 8:15 p.m.
+
+
+
+
+                                         Page 18 of 18
+

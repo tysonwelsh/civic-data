@@ -1,0 +1,83 @@
+{
+ "date": "2022-05-04",
+ "year": 2022,
+ "title": "City Council Meeting",
+ "source": "minutes/2022/2022-05-02/2022-05-04_city-council.md",
+ "body": "Council",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "moved adopt the same map that was tentatively accepted at the previous council meeting, as the final redistricting map",
+   "motion_type": "Other",
+   "result": "4-1 Pass",
+   "mover": "Meredith Harker",
+   "seconder": "Ernest Burgess",
+   "aye": [
+    "Bob Knudsen",
+    "Ernest Burgess",
+    "Meredith Harker",
+    "Anna Barbieri"
+   ],
+   "nay": [
+    "Curt Cochran"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    4,
+    1
+   ],
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "moved approve Resolution 22-11 as presented",
+   "motion_type": "Resolution",
+   "result": "4-1 Pass",
+   "mover": "Meredith Harker",
+   "seconder": "Ernest Burgess",
+   "aye": [
+    "Anna Barbieri",
+    "Meredith Harker",
+    "Ernest Burgess",
+    "Bob Knudsen"
+   ],
+   "nay": [
+    "Curt Cochran"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    4,
+    1
+   ],
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "moved adjourn the City Council meeting and convene a meeting of the Redevelopment Agency Board",
+   "motion_type": "Land-Use/Zoning",
+   "result": "",
+   "mover": "Bob Knudsen",
+   "seconder": "Ernest Burgess",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 3
+  }
+ ]
+}

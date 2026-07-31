@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "pages": "22-31",
+      "report_label": "INTERIM (due 5:00 PM August 3rd, 2021, seven days before primary) — separator page dated 08/02/2021; City Clerk received-stamp AUG 02 2021, Time 4:33, By Tangee; signed Shauna K Whitelock 8/2/2021; report is COMPLETE within this range (separator p22 + form pages 1-9 on PDF p23-31)",
+      "cover_lines": {
+        "1_balance_forward": "925.60",
+        "2_contributions_50_or_less": "50.00",
+        "3_contributions_over_50": "1,000.00",
+        "4_total_contributions": "1,050.00",
+        "5_total_expenditures": "(477.10)",
+        "6_ending_balance": "1,498.50"
+      },
+      "contributions": [
+        {"date": "6/29/2021", "name": "Colleen Schow", "amount": "50.00", "in_kind": false},
+        {"date": "6/29/2021", "name": "Salt Lake Board of Realtors", "amount": "1,000.00", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": "5/25/2021", "recipient": "Wix.com", "purpose": "website and domain", "amount": "122.26", "in_kind": false},
+        {"date": "6/11/2021", "recipient": "Kwik Kopy", "purpose": "Campaign flyers", "amount": "262.76", "in_kind": false},
+        {"date": "6/1/2021", "recipient": "City of West Jordan", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false},
+        {"date": "7/21/2021", "recipient": "Walmart", "purpose": "tape", "amount": "8.41", "in_kind": false},
+        {"date": "8/2/2021", "recipient": "Erin Whitelock", "purpose": "reimbursement", "amount": "33.67", "in_kind": false},
+        {"date": "8/22/2021", "recipient": "Carter Bramhall", "purpose": "distribute flyers", "amount": "25.00", "in_kind": false}
+      ]
+    }
+  ],
+  "notes": "Range p22-31 holds exactly ONE full report: p22 is a typed separator page ('Kayleen Whitelock / 08/02/2021' + INTERIM period description); p23 = form Page 1 (candidate info: Whitelock, Shauna, Kayleen; At-Large Council Member; INTERIM box checked with X; lines 1-2); p24 = form Page 2 (lines 3-6 + certification, signed Shauna K Whitelock 8/2/2021); p25-26 = boilerplate code text; p27 = Attachment A + A-1 (2 itemized rows; internal Attachment A box 1 = $50.00, box 2 = $1,500.00 — box 2 CONFLICTS with cover line 3 ($1,000.00) and with the A-1 itemized TOTAL; transcribed verbatim, not reconciled); p28 = A-1 continuation, TOTAL $1,050.00; p29 = Attachment B (6 rows); p30 = Attachment B TOTAL $477.10 + Attachment C (in-kind) header, no rows; p31 = Attachment C TOTAL IN-KIND CONTRIBUTIONS $0.00 (no in-kind rows anywhere — all in_kind=false). Anomaly kept verbatim: last expenditure dated 8/22/2021, AFTER the 8/2/2021 report/signature date (digit clearly reads 8/22). Colleen Schow row ($50.00) appears in the over-$50 itemized A-1 table despite being exactly $50 — transcribed as printed. Candidate street addresses and Colleen Schow's street address are redacted (blacked out) in source; some A-1/B address cells truncated at column edge (e.g. 'West Jordan Ut 8...') — addresses not part of output schema. Line 5 printed in parentheses '(477.10)'. No unreadable amounts; nothing illegible. Report starts and ends cleanly within this range — no mid-report edges at p22 or p31."
+}

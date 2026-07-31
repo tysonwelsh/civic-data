@@ -1,0 +1,2343 @@
+Air Quality Memorandum 42
+
+Air Quality Memorandum
+REPORT NO. 42
+DATE May 23, 2024
+SUBJECT CONFORMITY ANALYSIS FOR AMENDMENT #1 OF THE WFRC 2023-2050
+REGIONAL TRANSPORTATION PLAN.
+ABSTRACT
+
+The Infrastructure Investment and Jobs Act (IIJA) and the Clean Air Act
+Amendments (CAAA) require that all regionally significant highway and transit
+projects in air quality non-attainment and maintenance areas be derived from a
+“conforming” Regional Transportation Plan and Transportation Improvement
+Program. A conforming Plan or Program is one that has been analyzed for emissions
+of controlled air pollutants and found to be within emission limits established in the
+State Implementation Plan (SIP) or within guidelines established by the
+Environmental Protection Agency (EPA) until such time that a SIP is approved. This
+conformity analysis is made by the Wasatch Front Regional Council (WFRC), as the
+Metropolitan Planning Organization for the Salt Lake City and Ogden-Layton
+Urbanized Areas, and submitted to the Federal Highway Administration (FHWA)
+and the Federal Transit Administration (FTA) for their concurrence. This conformity
+analysis is being prepared according to the EPA transportation conformity
+regulations published in the Federal Register March 2012 and according to the
+Infrastructure Investment and Jobs Act (IIJA). The EPA approved MOVES model
+for estimating vehicle emissions was used for this conformity analysis.
+This conformity analysis addresses the emissions impact of Amendment #1 of the
+2023-2050 RTP. The projected vehicle activity is based on Version 9.0 of the
+Wasatch Front travel demand model which has been calibrated to a 2019 base year.
+For a description of the project changes as part of this Amendment #1, see Appendix
+3. For a detailed view of all the projects included in this conformity analysis, see the
+interactive map of the 2023-2050 Regional Transportation Plan.
+Based on the analysis presented in this document, the amended WFRC 2023-2050
+RTP conforms to the State Implementation Plan or the Environmental Protection
+Agency interim conformity guidelines for all pollutants in applicable non-attainment
+or maintenance areas. Therefore, all transportation projects in Box Elder, Weber,
+Davis, Salt Lake, and Tooele Counties included in the amended 2023-2050 RTP are
+found to conform.
+
+Wasatch Front Regional Council
+
+41 North Rio Grande Street, Suite 103
+Salt Lake City, Utah 84101
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 1
+
+Air Quality Memorandum 42
+
+Table of Contents
+
+Page
+
+A. Conformity Requirements ........................................................................................ 4
+Conformity Process ................................................................................................................... 4
+Latest Planning Assumptions.................................................................................................... 5
+Latest Emissions Model ............................................................................................................ 5
+Consultation Process ................................................................................................................. 6
+TCM Implementation................................................................................................................ 6
+Emissions Budget...................................................................................................................... 6
+Currently Conforming Plan and TIP ......................................................................................... 6
+Projects from a Conforming Plan and TIP ................................................................................ 6
+Regionally Significant .............................................................................................................. 6
+CO, PM10 and PM2.5 “Hot Spot” Analysis ................................................................................ 7
+PM10 Control Measures............................................................................................................. 7
+Other Conformity Requirements............................................................................................... 8
+
+B. Transportation Modeling ......................................................................................... 8
+Planning Process ....................................................................................................................... 9
+Travel Characteristics ............................................................................................................... 9
+Peak and Off-Peak Trip Distribution ...................................................................................... 11
+Comparison of Modeled Speeds with Observed Data ............................................................ 12
+
+C. Emission Modeling .................................................................................................13
+Inspection Maintenance (I/M) Programs ................................................................................ 13
+Vehicle Miles Traveled (VMT) Mix....................................................................................... 13
+Vehicle Weights ...................................................................................................................... 13
+Post Model Adjustments ......................................................................................................... 14
+MOVES Inputs........................................................................................................................ 14
+Road Dust Estimates ............................................................................................................... 16
+
+D. Conformity Determination .....................................................................................17
+Salt Lake City and Ogden CO Conformity ............................................................................. 17
+Ogden PM10 Conformity ....................................................................................................... 18
+Salt Lake County PM10 Conformity ...................................................................................... 20
+Salt Lake PM2.5 Conformity.................................................................................................... 22
+Northern Wasatch Front Ozone Conformity........................................................................... 24
+
+Appendix – 1 .................................................................................................................26
+Definition of Regionally Significant Projects ............................................................. 26
+Appendix – 2 .................................................................................................................30
+RTP 2023-2050 List of Projects ...................................................................................30
+Appendix – 3 .................................................................................................................31
+Amendment #1 Project Overviews ............................................................................... 31
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 2
+
+Air Quality Memorandum 42
+
+List of Tables
+Page
+Table 1 Wasatch Front Region Non-attainment Designations
+Table 2a Vehicle Miles Traveled (HPMS Adjusted Average Winter Weekday)
+Table 2b Vehicle Miles Traveled (HPMS Adjusted Average Summer Weekday)
+Table 3 Percent of Trips by Time of Day
+Table 4 Percent of Trips by Purpose
+Table 5 WFRC Planning Area Modeled Speeds Compared to Observed Speeds
+Table 6 MOVES Data – Input Database Folders
+Table 7 Ogden PM10 Conformity – Direct Particulates
+Table 8 Ogden PM10 Conformity – NOx Precursor
+Table 9 Salt Lake County PM10 Budgets
+Table 10a Salt Lake County PM10 Conformity – Direct Particulates
+Table 10b Salt Lake County PM10 Conformity – NOx Precursor
+Table 11a Salt Lake Area PM2.5 Conformity – NOx Precursor
+Table 11b Salt Lake Area PM2.5 Conformity – VOC Precursor
+Table 11c Salt Lake Area PM2.5 Conformity – Direct PM Emissions
+Table 12a Northern Wasatch Front Ozone Conformity – NOx Precursor
+Table 12b Northern Wasatch Front Ozone Conformity – VOC Precursor
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+5
+10
+10
+11
+11
+12
+15
+20
+20
+21
+22
+22
+24
+24
+25
+26
+27
+
+Page 3
+
+Air Quality Memorandum 42
+
+A. Conformity Requirements
+Conformity Process
+Since the commencement of the federal transportation planning requirements in the late 1960s, further
+requirements (most recently the 2021 Infrastructure Investment and Jobs Act and the 1990 Clean Air
+Act Amendments) have added to the responsibilities and the decision-making powers of local
+governments through the Metropolitan Planning Organization. The Wasatch Front Regional Council
+(WFRC) is the Metropolitan Planning Organization for the Salt Lake City and Ogden - Layton
+Urbanized Areas. This report summarizes WFRC’s conformity analysis of the amended 2023-2050
+RTP with the Division of Air Quality’s State Implementation Plan (SIP) and the Environmental
+Protection Agency’s interim conformity guidelines. This conformity analysis is subject to public and
+agency review, and requires the concurrence of the Federal Highway Administration and Federal
+Transit Administration.
+In November, 1993, the Environmental Protection Agency and the U.S. Department of Transportation
+issued rules establishing the procedures to be used to show that transportation plans and programs
+conform to the SIP. The conformity rules establish that federal funds may not be used for
+transportation projects that add capacity in areas designated as “non-attainment (or maintenance) with
+respect to the National Ambient Air Quality Standards”, until and unless a regional emissions analysis
+of the Plan and TIP demonstrates that the projects conform to the SIP. This restriction also applies to
+“regionally significant” transportation projects sponsored by recipients of federal funds even if the
+regionally significant transportation project uses local funds exclusively.
+Davis and Salt Lake Counties, Ogden City and portions of Weber, Box Elder and Tooele Counties are
+designated as non-attainment (or maintenance) for one or more air pollutants. Specifically, there are
+four areas in the Wasatch Front region for which the conformity rules apply. These areas are listed in
+Table 1 below.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 4
+
+Air Quality Memorandum 42
+
+Table 1
+Wasatch Front Region Nonattainment Designations
+Area
+
+Designation
+
+Pollutant
+
+Attainment
+Date
+
+Ogden City
+
+Moderate Non-Attainment Area
+
+Particulate Matter (PM10)
+
+TBD
+
+Salt Lake County
+
+Moderate Non-Attainment Area
+
+Particulate Matter (PM10)
+
+2003
+
+Salt Lake
+
+Serious Non-Attainment Area
+
+Particulate Matter (PM2.5)
+
+2019
+
+Moderate Non-Attainment Area
+
+Ozone (O3)
+
+2023
+
+(including Davis, Salt Lake,
+and portions of Weber, Box
+Elder, and Tooele Counties)
+Northern Wasatch Front
+(including Salt Lake, Davis,
+and portions of Weber and
+Tooele Counties)
+
+The CAA established requirements for conformity. These requirements are outlined in 40 CFR
+93.109 and include the following:
+- Latest planning assumptions
+- Latest emissions model
+- Transportation Control Measures (TCM)
+- Consultation
+- Emissions budget
+- Currently conforming plan and TIP
+- Projects from a conforming plan and TIP
+- CO, PM10, and PM2.5 “hot spots”
+- PM10 control measures
+Each of these requirements will be discussed in the following paragraphs.
+Latest Planning Assumptions
+Current travel models utilize socioeconomic data and forecasts derived from local government land
+use and permit/approval information, employment data from the Utah Department of Workforce
+Services, and county-level household and job projections from University of Utah’s Kem C. Gardner
+Policy Institute (GPI) Base year socioeconomic data are for calendar year 2019. Forecasts of
+population and employment by traffic analysis zone were developed by WFRC in 2022 and are
+controlled to the county-level forecast totals produced in 2022 by GPI through funding provided by
+the Utah Legislature.
+Latest Emissions Model
+The conformity analysis presented in this document is based on EPA mobile source emissions models:
+MOVES4.0 for tailpipe emissions and AP-42 section 13.2.1 for paved road dust emissions. The
+application of these models will be discussed in greater detail in the Emissions Model section of this
+document.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 5
+
+Air Quality Memorandum 42
+
+Consultation Process
+Section 105 of 40 CFR Part 93 (Conformity Rule) requires, among other things, interagency
+consultation in the development of conformity determinations. To satisfy this requirement, the State
+Division of Air Quality (DAQ) prepared a Conformity SIP to outline the consultation procedures to
+be used in air quality and transportation planning. The Conformity SIP also defines the membership
+of the Interagency Consultation Team (ICT) as representatives from DAQ, WFRC, Mountainland
+Association of Governments, Utah Department of Transportation, Utah Transit Authority, EPA,
+FHWA, and the FTA. The Conformity SIP has been approved by EPA. WFRC followed the
+consultation procedures as outlined in the Conformity SIP in the preparation of this conformity
+analysis. The Utah Division of Air Quality and other members of the ICT were also provided with a
+copy of this report during the public comment period for the amended 2023-2050 RTP.
+This Conformity Analysis for the amended 2023-2050 RTP was made available for public inspection
+and comment for a 30-day period in accordance with EPA conformity regulations. This analysis was
+also posted on the WFRC website during the comment period. Notification of the comment period
+was sent by electronic mail to interested stakeholders. In addition, public comment was taken during
+various committee meetings of the Wasatch Front Regional Council.
+TCM Implementation
+A conformity analysis for the amended 2023-2050 RTP must certify that the RTP does not interfere
+with the implementation of any Transportation Control Measure (TCM) identified in the applicable
+State Implementation Plan (SIP). There are not any TCM’s identified in any of the currently applicable
+SIP documents for the Wasatch Front Region.
+Emissions Budget
+A comparison of mobile source emission estimates to emission budgets defined in the SIP is outlined
+in this document in Section D - Conformity Determination.
+Currently Conforming Plan and TIP
+The existing 2023-2050 RTP for the Wasatch Front Area conforms to State air quality goals and
+objectives as noted in a letter from FHWA and FTA dated May 31, 2023. The existing 2024-2029
+TIP for the Wasatch Front Area was also found to conform and this was noted in a letter from FHWA
+and FTA dated October 1, 2023.
+Projects from a Conforming Plan and TIP
+TIP Time Frame - All projects which must be started no later than 2029 in order to achieve the
+transportation system envisioned by the amended 2023-2050 RTP are included in the 2024-2029 TIP.
+The TIP is fiscally constrained, meaning that only those projects with an identified source of funds are
+included in the TIP. Estimated funding availability is based on current funding levels and reasonable
+assumptions that these funds will continue to be available. Conformity for the 2024-2029 TIP is
+addressed separately in Air Quality Memorandum 41a.
+Regionally Significant
+All regionally significant projects, regardless of funding source (federal, state, or local) are included
+in the RTP. All regionally significant projects are also included in the regional emissions analysis of
+the RTP. Regionally significant highway projects are identified as capacity projects on roadways
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 6
+
+Air Quality Memorandum 42
+
+functionally classified as a principal arterial or higher order facility, and certain minor arterials as
+identified through the interagency consultation process (see Appendix 1 for a complete definition of
+regionally significant projects). The latest Utah Department of Transportation Functional
+Classification map is used to identify functional classification. Capacity projects on interstate
+highways, freeways, expressways, principal arterials, certain minor arterials, and fixed guideway
+transit are treated as regionally significant projects.
+Because of their relative impact on air quality, all regionally significant projects regardless of funding
+source must be included in the regional emissions analysis, and any significant change in the design
+or scope of a regionally significant project must also be reflected in the analysis. All regionally
+significant projects have been included in the regional emissions analysis, and the modeling
+parameters used for these projects are consistent with the design and scope of these projects as defined
+in the RTP. In order to improve the quality of the travel model, minor arterials and collectors, as well
+as local transit service, are also included in the regional travel model (and thus the regional emissions
+analysis) but these facilities are not considered regionally significant since they do not serve regional
+transportation needs as defined by EPA. For a detailed view of projects included in this conformity
+analysis, see the interactive map of the 2023-2050 Regional Transportation Plan.
+CO, PM10 and PM2.5 “Hot Spot” Analysis
+In addition to the regional emissions conformity analysis presented in this document, specific projects
+within carbon monoxide (CO) and particulate matter (PM10 and PM2.5) non-attainment areas are
+required to prepare a “hot spot” analysis of emissions. The “hot spot” analysis serves to verify whether
+localized emissions from a specific project will meet air quality standards. This requirement is
+addressed during the NEPA phase of project development before FHWA or FTA can issue final project
+approval.
+FHWA has issued guidance on quantitative PM10 and PM2.5 “hot spot” analysis to be used for the
+NEPA process.
+PM10 Control Measures
+Construction-related Fugitive Dust - Construction-related dust is not identified in the Utah SIP as a
+contributor to the PM10 non-attainment area. Therefore, there is no conformity requirement for
+construction dust. Section 93.122(d) (1) of 40 CFR reads as follows:
+“For areas in which the implementation plan does not identify construction-related fugitive
+PM10 as a contributor to the non-attainment problem, the fugitive PM10 emissions
+associated with highway and transit project construction are not required to be considered
+in the regional emissions analysis.”
+In the Utah PM10 SIP, construction-related PM10 is not included in the inventory, nor is it included in
+the attainment demonstration or control strategies. Control of construction-related PM10 emissions is
+mentioned in qualitative terms in Section IX.A.7 of the SIP as a maintenance measure to preserve
+attainment of the PM10 standard achieved by application of the control strategies identified in the SIP.
+Section IX.A.7.d of the SIP requires UDOT and local planning agencies to cooperate and review all
+proposed construction projects for impacts on the PM10 standard. This SIP requirement is satisfied
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 7
+
+Air Quality Memorandum 42
+
+through the Utah State Air Quality Rules. R307-309-4 requires that sponsors of any construction
+activity file a dust control plan with the State Division of Air Quality.
+Other Conformity Requirements
+Transit Fares - Historically, transit fares have increased periodically in response to rising operating
+costs. The percentage of transit fare revenues to overall operating costs has remained relatively
+constant over the years.
+The WFRC anticipates that $574,000,000 will be generated from passenger fares to use new transit
+services over the life of the 2023-2050 RTP. Fare revenues are estimated using ridership projections
+from the WFRC travel demand model and the historic trend of the average revenue per ride collected
+by the agency.
+Since 2013, UTA’s base fare has been $2.50. The average revenue per ride has ranged between $1.11
+and $1.16 between 2016 and 2022.
+Recently there has been interest in a free fare policy for transit service. This policy was tested for the
+month of February 2022. Free fare within the downtown area of Salt Lake City has been the policy
+of Utah Transit Authority for many decades. A year-long test is being proposed in the near future for
+system wide free fare transit service provided a revenue source can be identified to recover the lost
+passenger fares. A free fare policy would be expected to attract more transit passengers and reduce
+vehicle miles traveled. Identifying a source for replacing the passenger revenue would be essential to
+avoid service reductions that would otherwise result from the reduced operating revenue.
+Plans to expand light rail service, to increase and enhance bus service including bus rapid transit, and
+to extend or enhance commuter rail operations (including the addition of more double-track sections)
+are moving forward. These transit projects are envisioned in the Plan and the steps necessary to
+implement these projects are moving forward including various sales tax increases for transit funding.
+
+B. Transportation Modeling
+
+Improvement to the Wasatch Front travel demand model practice and procedure is an ongoing
+process. This conformity analysis is based on the latest version (9.0) of the travel demand
+model. Version 9.0 of the travel demand model has been calibrated to a 2019 base year, which
+includes updated inputs and parameters to reflect 2019 conditions, and has been validated to 2019
+traffic count and transit boarding data. The calibration process used local data estimated from the
+2012 Household Travel Survey conducted by WFRC and the 2019 5-year American Community
+Survey data. Version 9.0 of the model included expanding the area covered by the model to the county
+boundaries and an update to the mode choice model to make the model more sensitive to changes in
+transit frequency.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 8
+
+Air Quality Memorandum 42
+
+Planning Process
+Federal funding for transportation improvements in urban areas requires that these improvements be
+developed through a comprehensive, coordinated, and continuous planning process involving all
+affected local governments and transportation planning agencies. The planning process is certified
+annually by the Regional Council and reported to the Federal Highway Administration and Federal
+Transit Administration. Every four years FHWA and FTA conduct a comprehensive certification
+review. The certification review of 2021 found that the WFRC planning process meets federal
+requirements. Recommendations were made to continue to improve WFRC’s planning process and
+these are being addressed.
+The documentation of the planning process includes, at a minimum, a twenty-year Regional
+Transportation Plan updated at least every four years; and a four-year Transportation Improvement
+Program (capital improvement program) updated and adopted at least every four years. The planning
+process includes the involvement of local elected officials, state agencies, and the general public.
+Travel Characteristics
+The WFRC travel model is used to estimate and forecast highway Vehicle Miles Traveled (VMT) and
+vehicle speeds for Davis, Salt Lake, and western Weber Counties. The Utah State Travel Model
+(USTM) is used to estimate VMT and speed in Box Elder County, Tooele County, and eastern Weber
+County. The WFRC travel demand model is based on the latest available planning assumptions and
+a computerized representation of the transportation network of highways and transit service. The base
+data for the travel demand model is reviewed regularly for accuracy and updates. The travel model
+files used for this conformity analysis are available upon request.
+Shown below in Table 2a and Table 2b is a summary of winter and summer weekday VMT for the
+cities and counties in designated non-attainment areas. Totals for VMT are given for various air
+quality analysis years from 2028 to 2050. Note that the VMT values for Weber, Box Elder and Tooele
+Counties are not for the entire county but only that portion of the county designated as non-attainment
+for a criteria pollutant.
+Seasonal factors for highway VMT variations have been revised and refined by data collected by the
+Utah Department of Transportation. Seasonal factors are determined for each link of the highway
+system based on the functional class (freeway or arterial) and the area type (rural, transitional,
+suburban, and urban). Other considerations include traffic volume and recreational activity.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 9
+
+Air Quality Memorandum 42
+
+Table 2a
+Vehicle Miles Traveled (HPMS Adjusted Average Winter Weekday)
+2028
+2032
+2042
+2050
+Ogden City
+1,860,303
+1,929,834
+2,129,872
+2,258,644
+Salt Lake County
+31,776,604
+34,545,959
+38,090,523
+41,174,859
+Davis County
+9,854,037
+10,926,938
+12,294,388
+13,129,730
+Weber County*
+5,355,835
+5,759,289
+6,803,284
+7,542,204
+Box Elder County*
+1,156,251
+1,238,151
+1,436,304
+1,584,821
+Tooele County*
+1,818,423
+2,029,218
+2,462,958
+2,859,700
+*non-attainment portion of the county
+
+Table 2b
+Vehicle Miles Traveled (HPMS Adjusted Average Summer Weekday)
+2028
+2032
+2042
+2050
+Salt Lake County
+35,447,852
+38,574,366
+42,413,282
+45,790,242
+Davis County
+11,151,194
+12,354,177
+13,863,312
+14,779,948
+Weber County*
+6,282,941
+6,764,111
+7,986,424
+8,826,949
+Tooele County*
+2,204,823
+2,457,095
+2,980,304
+3,456,061
+*non-attainment portion of the county
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 10
+
+Air Quality Memorandum 42
+
+Peak and Off-Peak Trip Distribution
+The modeled VMT and the modeled vehicle speed depend on the number of vehicle trips assigned for
+each time period (AM, midday, PM, and evening) defined in the travel demand model. The percentage
+of trips by purpose varies for each time period. The percentages in Table 3 and Table 4 below are
+based on data from the 2012 Household Travel Survey, the 2012 College Survey, and observed truck
+counts.
+Table 3
+Percent of Trips by Time of Day
+Trip Purpose
+
+AM
+
+Mid-Day
+
+PM
+
+Evening
+
+Grand Total
+
+Home Based - Work
+
+32.5%
+
+18.3%
+
+30.7%
+
+18.4%
+
+100.0%
+
+Home Based - Shopping
+
+1.9%
+
+43.9%
+
+25.0%
+
+29.2%
+
+100.0%
+
+Home Based - Other
+
+10.0%
+
+31.3%
+
+23.7%
+
+35.1%
+
+100.0%
+
+Home Based - School
+
+37.8%
+
+29.3%
+
+29.4%
+
+3.4%
+
+100.0%
+
+Home Based - College
+
+25.9%
+
+33.7%
+
+18.5%
+
+21.8%
+
+100.0%
+
+Non-home Based - Work
+
+7.0%
+
+55.8%
+
+26.0%
+
+11.2%
+
+100.0%
+
+Non-home Based - Non-work
+
+5.0%
+
+47.5%
+
+24.3%
+
+23.2%
+
+100.0%
+
+Internal-to-External
+
+19.1%
+
+31.4%
+
+25.7%
+
+23.9%
+
+100.0%
+
+External-to-Internal
+
+19.7%
+
+32.6%
+
+26.2%
+
+21.5%
+
+100.0%
+
+External-to-External
+
+17.9%
+
+32.9%
+
+26.0%
+
+23.2%
+
+100.0%
+
+Truck
+
+15.9%
+
+35.2%
+
+22.7%
+
+26.1%
+
+100.0%
+
+Evening
+54%
+1%
+12%
+12%
+18%
+3%
+100%
+
+Grand Total
+38%
+7%
+10%
+16%
+19%
+9%
+100%
+
+Table 4
+Percent of Trips by Purpose
+Trip Purpose
+Home Based - Other
+Home Based - School
+Home Based - Shopping
+Home Based - Work
+Non-home Based - Non-work
+Non-home Based - Work
+Grand Total
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+AM
+28%
+19%
+1%
+37%
+7%
+8%
+100%
+
+Mid-Day
+34%
+6%
+13%
+8%
+25%
+13%
+100%
+
+PM
+36%
+7%
+10%
+17%
+18%
+11%
+100%
+
+Page 11
+
+Air Quality Memorandum 42
+
+Comparison of Modeled Speeds with Observed Data
+WFRC strives for a high level of consistency between speeds predicted by its travel demand model
+and those observed in the real world. As part of WFRC's travel model validation process, observed
+travel speeds were collected in the Fall of 2018 and compared to speeds predicted by the Wasatch
+Front Travel Demand Model (v.8.3 beta). Validation of speeds for v9.0 of the travel demand model
+will be completed at a future date.
+Observations were collected for weekdays, from real time trip-routing web applications for the
+morning and evening peak travel periods for a set of 138 origin-destination pairs within the Wasatch
+Front region. Several web applications and data sources were evaluated before selecting the observed
+data source most consistent with real world experiences.
+For the validation comparison, 43 trip origins, from traffic analysis zone (TAZ) centroids, were
+selected by staff, balancing the desires for region-wide coverage and trips volume representation. A
+set of up to 6 TAZ centroid destinations were selected for each trip origin point.
+For each origin-destination pair, average trip speed was collected on the half-hour for each of the three
+peak hours of both the AM and PM periods. A weighted average of the hourly observed travel speeds
+for each peak period was calculated using observed travel volume as the weight factor.
+Across the region, as shown in Table 5, averaged modeled trip speeds were 11% faster than the
+observed speed during the AM peak period and 6% faster during the PM peak period.
+Table 5
+WFRC Planning Area Modeled Speeds Compared to Observed Speeds
+
+Modeled Speeds (mph)
+Observed Speeds (mph)
+Percent Difference
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+AM Peak
+41
+37
+11%
+
+PM Peak
+36
+34
+6%
+
+Page 12
+
+Air Quality Memorandum 42
+
+C. Emission Modeling
+Inspection Maintenance (I/M) Programs
+Assumptions for the input files for EPA’s MOVES vehicle emissions model include I/M programs in
+Salt Lake, Davis, and Weber Counties. Box Elder and Tooele Counties do not presently have I/M
+programs.
+Vehicle Miles Traveled (VMT) Mix
+The “VMT mix” is the percentage of vehicle miles traveled for each vehicle type. While no longer a
+required input for the MOVES model as it was for MOBILE6.2, VMT mix is used in several instances
+to generate the input files required to run the MOVES model. The national default VMT mix found
+in the MOVES database was used to disaggregate local vehicle type data collected in 2022. The local
+vehicle type data is collected by UDOT as part of the federal Highway Performance Monitoring
+System (HPMS) data collection system and is based on automated counters which classify vehicles
+based on vehicle length. The UDOT classification is used to calculate control percentages for light
+duty (LD) vehicles and heavy duty (HD) vehicles for each facility type. The EPA default VMT mix
+is then applied to disaggregate the two UDOT control percentages into detailed percentages for the
+thirteen vehicle classes used in MOVES.
+Vehicle Weights
+Facility specific VMT mix data described above was also used to estimate the average vehicle weight
+on each facility type. From the percentage of each vehicle type (or VMT mix) and the average weight
+for each vehicle type, a composite vehicle weight is estimated for each roadway type. Since vehicle
+weight affects the rate of re-entrained road dust emissions estimated using the AP-42 method, vehicle
+weight variations on different facilities will affect the amount of fugitive dust created. The VMT mix
+for each facility type was used to estimate an average vehicle weight for each facility type with the
+following results:
+Facility
+Urban - Freeway
+Urban - Arterial
+Urban - Local
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Composite Vehicle Weight
+6,500 lbs, or 3.25 tons
+6,100 lbs, or 3.05 tons
+3,900 lbs, or 1.95 tons
+
+Page 13
+
+Air Quality Memorandum 42
+
+Post Model Adjustments
+For conformity analyses prior to 2000, the WFRC applied post model adjustments to vehicle emission
+estimates. Emission credits for work trips were modeled for reductions in single occupant vehicle
+rates based primarily on increased investments in transit service and rideshare programs, and the
+projected increase in telecommuting. Other less significant post model adjustments were also
+estimated for incident management, pavement restriping, and signal coordination. Additional
+emission reducing programs and projects supported by CMAQ funds such as park and ride lots, bicycle
+facilities, transit vehicles, intelligent transportation systems (ITS), and intersection improvements
+have also been implemented.
+WFRC believes that these programs have a positive effect in reducing vehicle emissions. In practice,
+however, WFRC has found that documenting the air quality benefits of these programs can be
+challenging. WFRC will continue to support these emission reduction programs, but credits from
+these programs have not been included in this conformity analysis.
+Project level “hot spot” emissions analysis is included in the NEPA phase of project development to
+address localized and possibly concentrated emission exposure. The regional conformity analysis
+discussed in this document addresses weekday emissions from all transportation projects on a regional
+scale, not localized concentrations. Seasonal and weekend traffic is not usually considered with
+weekday traffic conditions which are typically higher. In the case of proposed transit operations in
+Little Cottonwood Canyon (LCC), those activities could also be present on a weekday. Post model
+estimates of the regional emission impact of LCC transit operations were prepared and included in this
+conformity analysis. On a regional scale, the net emissions maximum impact (added bus emissions
+versus eliminated private vehicle emissions) from LCC transit operations in 2050 tons/day is small:
+NOx increases 0.0100, PM10 is reduced 0.0020, and VOC is increased 0.0003.
+MOVES Inputs
+The MOVES model is a very data intensive computer program based on the MariaDB software.
+Through the interagency consultation process the required MOVES inputs reflecting local conditions
+have been established.
+Data files defining local conditions by county and year are required inputs to the MOVES model
+including vehicle population, emission testing programs, fuel supply, fuel formulation, meteorological
+conditions, and vehicle age. Vehicle population estimates by county are based on 2022 registration
+data for light duty vehicles, transit and school bus counts, and MOVES default data for heavy duty
+vehicles and the estimated VMT for the same year. This vehicle population to VMT ratio is then
+applied to model projections of VMT to estimate future year vehicle population. By estimating vehicle
+population in this way, the calculation considers the effects of human population and employment
+projections, as well as mode choice options that are included in the travel demand model.
+Vehicle activity input files for the MOVES model are generated by the WFRC travel demand model
+using a customized in-house computer program for this purpose. The MOVES input files required
+include data for road distribution, speed distribution, and VMT by vehicle type for each county (Box
+Elder, Davis, Salt Lake, Tooele, and Weber) and analysis year as required for operating the MOVES
+model.
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 14
+
+Air Quality Memorandum 42
+
+The input files listed above are read into the MOVES program as database files. The input database
+folders in Table 6 below contain the database files used for each county, season and year modeled
+using MOVES4 for this conformity analysis. The results of the MOVES model are stored in the output
+database “Conf24_out” for each county and analysis year identified in Table 6.
+Table 6
+
+MOVES Data – Input Database Folders
+
+Box Elder
+Conf24_be
+_2032_IN
+Conf24_be
+_2042_IN
+Conf24_be
+_2050_IN
+
+Weber
+
+Conf24_we
+_2028_IN
+Conf24_we
+_2032_IN
+Conf24_we
+_2042_IN
+Conf24_we
+_2050_IN
+
+Davis
+
+Conf24_da
+_2028_IN
+Conf24_da
+_2032_IN
+Conf24_da
+_2042_IN
+Conf24_da
+_2050_IN
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Salt Lake
+Conf24_sl
+_2028_IN
+Conf24_sl
+_2032_IN
+Conf24_sl
+_2042_IN
+Conf24_sl
+_2050_IN
+
+Tooele
+Conf24_to
+_2032_IN
+Conf24_to
+_2042_IN
+Conf24_to
+_2050_IN
+
+Ogden
+
+Conf24_og
+_2028_IN
+Conf24_og
+_2032_IN
+Conf24_og
+_2042_IN
+Conf24_og
+_2050_IN
+
+Page 15
+
+Air Quality Memorandum 42
+
+Road Dust Estimates
+In January 2011, the EPA released new guidance for estimating dust emissions from paved roads.
+These guidelines are published in Chapter 13.2.1 of the AP-42 document. The new formula is
+
+E = k (sL)0.91 x (W)1.02
+where:
+
+E = particulate emission factor (grams/mile),
+k = particle size multiplier for particle size range and units of interest (for PM10,
+k=1.0 and for PM2.5 k=0.25),
+sL = road surface silt loading (grams per square meter - g/m2), and
+W = average weight (tons) of the vehicles traveling the road.
+
+Based on vehicle type counts on roads in the WFRC region, average vehicle weights for local roads,
+arterials, and freeways are 1.95, 3.05, and 3.25 tons respectively. The silt load (sL) factor varies by
+highway functional class and by traffic volume. The default silt load factors found in Table 13.2.1-2
+of the AP-42 document are summarized below.
+Traffic Volume Functional Class
+500-5,000
+local roads
+5,000-10,000
+arterial roads
+limited access freeways
+
+Silt Load (grams/meter2)
+0.200
+0.060
+0.015
+
+A precipitation reduction factor is also applied to the above equation using the following expression:
+Where:
+
+(1 – P/4N)
+P = number of "wet" days with at least 0.254 mm (0.01 in) of precipitation during the
+averaging period, and
+N = number of days in the averaging period (e.g., 365 for annual, 91 for seasonal, 30
+for monthly).
+
+The AP-42 guidance recommends a value of 90 precipitation days per year for the Wasatch Front
+region. Using these values, the precipitation reduction factor yields a value of 0.9384. Combined
+with the basic road dust emission rate, the net PM2.5 and PM10 road dust factors by highway functional
+class are as follows:
+
+Functional Class
+local roads
+arterials
+freeways
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+PM10 Road
+Dust Rate
+(grams/mile)
+0.429
+0.226
+0.068
+
+PM2.5 Road
+Dust Rate
+(grams/mile)
+0.107
+0.057
+0.017
+Page 16
+
+Air Quality Memorandum 42
+
+D. Conformity Determination
+The following conformity findings for the amended 2023-2050 Regional Transportation Plan for the
+Wasatch Front are based on the transportation systems and planning assumptions described in this
+report and the EPA approved vehicle emissions model (MOVES4).
+Salt Lake City and Ogden CO Conformity
+Carbon monoxide levels in Salt Lake City and Ogden have been at healthy levels for over 20 years
+which has resulted in the EPA removing the non-attainment designation. Salt Lake City and Ogden
+were first designated as non-attainment areas for carbon monoxide in 1978. After 42 years of
+monitoring CO pollution, implementing vehicle emission testing, and adopting much improved
+vehicle emission standards, the air in Salt Lake City and Ogden continues to be clear of unhealthy
+levels of carbon monoxide pollution.
+The chart below shows the dramatic reductions in CO pollution in Salt Lake City and Ogden since
+1980. The EPA health standard for CO is 9 ppm. Salt Lake City has not exceeded that level since
+1987, and Ogden has not exceeded the CO standard since 1995 or earlier according to available data.
+This dramatic improvement in CO pollution is primarily due to improved vehicle emission standards
+and cleaner fuels. Before 1966, passenger cars and light duty trucks emitted about 80 grams/mile and
+102 grams/mile of CO respectively. Following a series of vehicle emission standard improvements,
+the emission rate for both types of vehicles since 2006 now stands at 3.4 grams/mile for CO – a
+reduction of over 96%.
+Over the years as older vehicles have been replaced with newer, cleaner vehicles, the accumulated CO
+pollution has gone down steadily to the point that Salt Lake City and Ogden carbon monoxide levels
+have remained in the healthy range for the last 33 years. Emissions of other pollutants such as nitrogen
+oxides and volatile organic compounds – precursor emissions to particulate pollution and ozone
+pollution – have likewise been reduced but more work remains for management of these pollutants.
+
+Source: Second highest 8-hour observation. 1980-1994 EPA AIRS data for Salt Lake City, 1995-2021 Utah DAQ monitoring archive
+“Quick Look” reports.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 17
+
+Air Quality Memorandum 42
+
+Ogden PM10 Conformity
+For analysis years 2030 and later, the Ogden City PM10 Maintenance Plan defines motor vehicle
+emissions budgets for NOx and direct PM10 as shown below in Tables 7 and 8.
+Ogden City was designated as a PM10 non-attainment area in August of 1995 based on PM10 violations
+in 1993 or earlier. For conformity analysis years prior to 2030, it must be demonstrated that Ogden
+PM10 emissions are either less than 1990 emissions or less than “no-build” emissions. The analysis
+years 2028, 2032, 2042, and 2050 were selected in accordance with the requirements of 40 CFR
+Section 93.119(e).
+PM10 emissions are present in two varieties referred to as primary and secondary PM10. Primary PM10
+consists mostly of fugitive road dust but also includes particles from brake wear and tire wear and
+some “soot” particles emitted directly from the vehicle tailpipe. The methods defined in the January
+2011 version of the EPA publication known as “AP-42” were used to estimate dust from paved roads.
+Secondary PM10 consists of gaseous tailpipe emissions that take on a particulate form through
+subsequent chemical reactions in the atmosphere. Nitrogen oxides are the main component of
+secondary PM10 emissions with sulfur oxides a distant second.
+As summarized in Tables 7 and 8, emission estimates for the amended 2023-2050 RTP satisfy the
+“Build < 1990” test or the “Projection < Budget” test for secondary PM10 (NOx precursors) and
+primary PM10 (direct tailpipe particulates, brake wear, tire wear, and road dust) in Ogden City. The
+1990 emission estimates based on the Mobile6.2 vehicle emissions model for the 2003 conformity
+analysis have been updated for this conformity analysis using the MOVES model and the January
+2011 AP-42 road dust methodology for consistency with current emission modeling requirements.
+Specifically, the NOx precursor budget (1990 emission estimate) changes from 4.57 tons/day to 6.92
+tons/day, and the direct PM10 budget (1990 estimate) changes from 2.28 tons/day to 1.28 tons/day.
+The 1990 primary PM10 estimate for Ogden City includes emissions from the unpaved access road to
+the Ogden landfill which was closed in 1998.
+For projections of primary PM10 emissions, no credit was taken for a number of programs adopted
+since Ogden City last violated the PM10 standard. These particulate reducing programs include
+covered load ordinances, increased frequency of street sweeping, and reduced application of deicing
+and skid resistant materials (salt and sand). Documentation of these programs has been provided by
+Ogden City but the actual benefits of these programs are not included in the emission projections
+below. Other areas that have estimated the benefit of these programs have found a silt load reduction
+of over 30% for effective street sweeping programs and a 5% silt load reduction when limiting the
+amount of sand and salt applied to the roads. Ogden City has also implemented a number of specific
+projects that have a positive effect in reducing particulate emissions including park and ride lots,
+stormwater improvements, shoulder widening and edge striping, and addition of curb and gutter on
+several roadways.
+From this demonstration it is concluded that the amended 2023-2050 RTP conforms under the
+Emission Reductions Criteria for areas without motor vehicle emissions budgets for years prior to
+2030, and for years after 2030 conforms to the motor vehicle emission budgets in the maintenance
+plan for PM10 in Ogden City.
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 18
+
+Air Quality Memorandum 42
+
+Table 7
+
+Ogden City - PM10 (NOx Precursor)
+Conformity Determination
+Year
+1990 Emissions or 2030
+Maintenance Plan Budget
+(tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection* (tons/day)
+Conformity
+(Projection < 1990 Emissions
+or < Budget)
+
+d
+
+c
+
+c
+
+e
+
+2028
+
+2032
+
+2042
+
+2050
+
+6.92
+0.3979
+1,860,303
+0.82
+
+1.00
+0.1751
+1,929,834
+0.37
+
+1.00
+0.1018
+2,129,872
+0.24
+
+1.00
+0.0909
+2,258,644
+0.23
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, d - no budget 5-year rule, e - last year of Plan
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+Table 8
+
+Ogden City - PM10 (Primary Particulates**)
+Conformity Determination
+Year
+1990 Emissions or 2030
+Maintenance Plan Budget
+(tons/day)
+emission rates (grams/mile)
+total exhaust particulates
+brake particulates
+tire particulates
+road dust particulates
+seasonal VMT
+Projection* (tons/day)
+Conformity
+(Projection < 1990 Emissions
+or < Budget)
+
+d
+
+c
+
+c
+
+e
+
+2028
+
+2032
+
+2042
+
+2050
+
+1.28
+
+1.50
+
+1.50
+
+1.50
+
+0.0327
+0.1064
+0.0245
+0.5541
+1,860,303
+0.72
+
+0.0184
+0.0991
+0.0244
+0.5677
+1,929,834
+0.71
+
+0.0142
+0.1122
+0.0270
+0.6206
+2,129,872
+0.77
+
+0.0143
+0.1214
+0.0287
+0.6551
+2,258,644
+0.82
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+** Includes total PM10 exhaust particulates, road dust, tire wear, and brake wear.
+c - 10-year rule, d - no budget 5-year rule, e - last year of Plan
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 19
+
+Air Quality Memorandum 42
+
+Salt Lake County PM10 Conformity
+For analysis years 2030 and later, the Salt Lake County PM10 Maintenance Plan defines motor vehicle
+emissions budgets for NOx and direct PM10 as shown below in Table 9.
+The previous PM10 SIP for Salt Lake County does not define a budget beyond the year 2003.
+Therefore, conformity tests are required only for analysis years which are identified in accordance
+with 40 CFR 93.118. Analysis years after 2003 but prior to 2030 must meet the 2003 budgets for
+primary particulates and secondary particulates (see the discussion above under Ogden PM10
+Conformity for an explanation of primary and secondary PM10 emissions). The State air quality rule
+R307-310 allows a portion of the surplus primary PM10 budget to be applied to the secondary PM10
+budget for conformity purposes. However, for the 2028 analysis year, no budget adjustment was
+necessary.
+Table 9
+
+Salt Lake County - PM10 Budgets
+Direct (Dust) and Precursor (NOx) PM10 Emission Budgets
+Year
+Total PM10 Budget
+Direct PM10 Budget to be Traded
+Direct PM10 Budget
+NOx Precursor PM10 Budget
+
+(tons/day)
+2028
+72.60
+
+2032
+--
+
+2042
+--
+
+2050
+--
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+40.30
+32.30
+
+24.00
+21.00
+
+24.00
+21.00
+
+24.00
+21.00
+
+Table 10a and Table 10b below demonstrate that projected mobile source emissions are within the
+emission budget defined in the SIP. The years listed in Table 10a and Table 10b are in accordance
+with requirements of the Conformity Rule (40 CFR Part 93) as noted in the tables.
+From this demonstration it is concluded that the amended 2023-2050 RTP conforms to the applicable
+controls and goals of the State Implementation Plan for PM10 in Salt Lake County.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 20
+
+Air Quality Memorandum 42
+
+Table 10a
+
+Salt Lake County - PM10 (NOx Precursor)
+Conformity Determination
+Year
+Budget (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection* (tons/day)
+
+c
+
+c
+
+c
+
+e
+
+2028
+32.30
+0.2787
+31,776,604
+9.76
+
+2032
+21.00
+0.1681
+34,545,959
+6.40
+
+2042
+21.00
+0.1061
+38,090,523
+4.46
+
+2050
+21.00
+0.0954
+41,174,859
+4.33
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+Conformity
+(Projection < Budget)
+c - 10-year rule, e - last year of Plan
+# WFRC Memo to Jeff Houk of EPA, April 15, 1994.
+
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton. Add 0.01 tons/day for LCC
+transit operations beginning 2032.
+
+Table 10b
+
+Salt Lake County - PM10 (Primary Particulates**)
+Conformity Determination
+Year
+Budget (tons/day)
+emission rates (grams/mile)
+total exhaust particulates
+brake particulates
+tire particulates
+road dust particulates
+seasonal VMT
+Projection* (tons/day)
+Conformity
+(Projection < Budget)
+
+c
+
+c
+
+c
+
+e
+
+2028
+40.30
+
+2032
+24.00
+
+2042
+24.00
+
+2050
+24.00
+
+0.0087
+0.0369
+0.0106
+0.1950
+31,776,604
+8.80
+
+0.0071
+0.0340
+0.0100
+0.1804
+34,545,959
+8.82
+
+0.0052
+0.0352
+0.0101
+0.1807
+38,090,523
+9.71
+
+0.0049
+0.0361
+0.0101
+0.1807
+41,174,859
+10.52
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+** Includes total PM10 exhaust particulates, road dust, tire wear, and brake wear.
+# WFRC Memo to Jeff Houk of EPA, April 15, 1994.
+
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 21
+
+Air Quality Memorandum 42
+
+Salt Lake PM2.5 Conformity
+Davis, Salt Lake, and portions of Weber, Tooele, and Box Elder Counties have been designated as a
+non-attainment area under the new PM2.5 standard (35 µg/m3) that was established in 2006. As
+reported in the November 6, 2020 Federal Register, EPA proposed the following motor vehicle
+emission budgets for the Salt Lake PM2.5 area effective in 2035 and thereafter: 21.63 tpd of NOX,
+20.57 tpd of VOC, and 1.38 tpd of direct PM2.5. Until these budgets are officially approved including
+a public comment period, the interim conformity test applies which requires that PM2.5 emissions
+remain below 2008 levels.
+Table 11a below demonstrates that projected mobile source emissions of NOx (a precursor to PM2.5
+emissions) in the five-county PM2.5 non-attainment area are less than 2008 NOx emissions. Table
+11b below demonstrates that projected mobile source emissions of VOC (also a precursor to PM2.5
+emissions) in the five-county PM2.5 non-attainment area are less than 2008 VOC emissions. Table
+11c below demonstrates that direct particle emissions of PM2.5 in the five-county PM2.5 nonattainment area are also less than 2008 direct particle emissions. Direct particle emissions include
+exhaust emissions of elemental carbon, organic carbon, and sulfates (SO4); and mechanical
+emissions from brake wear and tire wear.
+From this demonstration it is concluded that the amended RTP conforms under the interim
+conformity guidelines for PM2.5 areas without an approved motor vehicle emissions budget for the
+Salt Lake PM2.5 non-attainment area.
+Table 11a
+
+Salt Lake Area - PM2.5 (NOx Precursor)
+Conformity Determination
+#
+
+c
+
+c
+
+c
+
+e
+
+Year
+2008 Emissions (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection* (tons/day)
+
+2028
+97.98
+0.3240
+49,961,150
+17.85
+
+2032
+97.98
+0.1927
+54,499,555
+11.57
+
+2042
+97.98
+0.1114
+61,087,457
+7.50
+
+2050
+97.98
+0.1000
+66,291,314
+7.30
+
+Conformity
+(Projection < 2008 Emissions)
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+# Salt Lake PM2.5 Non-Attainment Area includes: Davis, Salt Lake, and portions of Weber, Box Elder and Tooele Counties.
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton. Add 0.01 tons/day for LCC
+transit operations beginning 2032.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 22
+
+Air Quality Memorandum 42
+
+Table 11b
+
+Salt Lake Area# - PM2.5 (VOC Precursor)
+Conformity Determination
+c
+
+c
+
+c
+
+e
+
+Year
+2008 Emissions (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection* (tons/day)
+
+2028
+61.35
+0.1700
+49,961,150
+9.36
+
+2032
+61.35
+0.1562
+54,499,555
+9.39
+
+2042
+61.35
+0.1292
+61,087,457
+8.70
+
+2050
+61.35
+0.1192
+66,291,314
+8.71
+
+Conformity
+(Projection < 2008 Emissions)
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+# Salt Lake PM2.5 Non-Attainment Area includes: Davis, Salt Lake, and portions of Weber, Box Elder and Tooele Counties.
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+Table 11c
+
+Salt Lake Area - PM2.5 (Direct PM Emissions**)
+Conformity Determination
+#
+
+c
+
+c
+
+c
+
+e
+
+Year
+2008 Emissions (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection* (tons/day)
+
+2028
+7.33
+0.0148
+49,961,150
+0.81
+
+2032
+7.33
+0.0125
+54,499,555
+0.75
+
+2042
+7.33
+0.0104
+61,087,457
+0.70
+
+2050
+7.33
+0.0102
+66,291,314
+0.75
+
+Conformity
+(Projection < 2008 Emissions)
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+# Salt Lake PM2.5 Non-Attainment Area includes: Weber, Davis, Salt Lake, and portions of Box Elder and Tooele Counties.
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+** Direct PM for conformity includes total PM2.5 exhaust particulates, brake wear, and tire wear. Road dust is excluded.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 23
+
+Air Quality Memorandum 42
+
+Northern Wasatch Front Ozone Conformity
+A new 8-hour National Ambient Air Quality Standard for ozone was approved in October 2015 at 70
+ppb. The Northern Wasatch Front (NWF) Area was designated as a marginal non-attainment area for
+ozone by EPA effective December 2018. On November 7th, 2022 the NWF was redesignated as a
+moderate non-attainment area. The NWF area includes Salt Lake and Davis Counties, and portions
+of Weber and Tooele Counties. Pending development and approval of a State Implementation Plan
+for ozone, interim conformity is based on the approved 1997 Ozone SIP for Salt Lake and Davis
+Counties which established motor vehicle emission budgets for NOx and VOC of 85.63 tons/day and
+71.15 tons/day respectively.
+Table 12a below demonstrates that projected mobile source emissions of NOx (a precursor to ozone
+emissions) in the four-county ozone non-attainment area are less than the 1997 NOx budget. Table
+12b below demonstrates that projected mobile source emissions of VOC (also a precursor to ozone
+emissions) in the four-county ozone non-attainment area are less than the 1997 VOC budget.
+From this demonstration it is concluded that the amended RTP conforms under the interim conformity
+guidelines for ozone areas with an approved motor vehicle emissions budget for the NWF area ozone
+non-attainment area.
+
+Table 12a
+
+Northern Wasatch Front Ozone# - NOx Precursor
+Conformity Determination
+Year
+1997 SIP Budget (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection (tons/day)
+Conformity
+(Projection < Budget)
+
+c
+
+c
+
+c
+
+e
+
+2028
+85.63
+0.2619
+55,086,810
+15.90
+
+2032
+85.63
+0.1526
+60,149,749
+10.12
+
+2042
+85.63
+0.0818
+67,243,322
+6.06
+
+2050
+85.63
+0.0703
+72,853,200
+5.65
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+# Northern Wasatch Front Ozone Non-Attainment Area includes: Davis, Salt Lake, and portions of Weber and Tooele Counties.
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 24
+
+Air Quality Memorandum 42
+
+Table 12b
+
+Northern Wasatch Front Ozone# - VOC Precursor
+Conformity Determination
+Year
+1997 SIP Budget (tons/day)
+emission rate (grams/mile)
+seasonal VMT
+Projection (tons/day)
+Conformity
+(Projection < Budget)
+
+c
+
+c
+
+c
+
+e
+
+2028
+71.15
+0.1417
+55,086,810
+8.60
+
+2032
+71.15
+0.1305
+60,149,749
+8.65
+
+2042
+71.15
+0.1013
+67,243,322
+7.51
+
+2050
+71.15
+0.0897
+72,853,200
+7.21
+
+Pass
+
+Pass
+
+Pass
+
+Pass
+
+c - 10-year rule, e - last year of Plan
+# Northern Wasatch Front Ozone Non-Attainment Area includes: Davis, Salt Lake, and portions of Weber and Tooele Counties.
+* Projection = Emission Rate x Seasonal VMT / 453.6 grams per pound / 2,000 pounds per ton.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 25
+
+Air Quality Memorandum 42
+
+Appendix – 1
+
+Definition of Regionally Significant Projects
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 26
+
+Air Quality Memorandum 42
+
+Process for Determining Regionally Significant Facilities
+for Purposes of Regional Emissions Analysis (see CFR 93.105.2.c.1.ii)
+Background: 40 CFR 93.101 defines “regionally significant project” and associated facilities for the
+purpose of transportation conformity. The federal definition does not specifically include minor
+arterials. The following definitions and processes will be used by the Wasatch Front Regional Council
+(WFRC) and Mountainland Association of Governments (MAG) in consultation with DAQ, UDOT,
+UTA, FHWA, FTA, and EPA to determine which facilities shall be considered regionally significant
+for purposes of regional emissions analysis. It is the practice of the MPO to include minor arterials
+and collectors in the travel model for the purpose of accurately modeling regional VMT and associated
+vehicle emissions. The inclusion of minor arterials and collectors in the travel model, however, does
+not identify these facilities as regionally significant.
+1. Any new or existing facility with a functional classification of principal arterial or higher on the
+latest UDOT Functional Classification Map shall be considered regionally significant (see
+https://www.arcgis.com/home/webmap/viewer.html?webmap=494d57208ea4464bb664ac2da38f
+9c91&extent=-116.9385,35.9224,-106.1719,42.8498).
+2. Any fixed guide-way transit service including light rail, commuter rail, or portions of bus rapid
+transit that involve exclusive right-of-way shall be considered regionally significant.
+3. As traffic and land use conditions change in the future, the MPO’s - in consultation with DAQ,
+UDOT, FHWA, and EPA - will consider 1) the relative importance of minor arterials serving major
+activity centers, and 2) the absence of principal arterials in the vicinity to determine if any minor
+arterials in addition to those listed in Exhibit A should be considered as regionally significant for
+purposes of regional emissions analysis.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 27
+
+Air Quality Memorandum 42
+
+Exhibit A
+Minor Arterials Determined to be Regionally Significant
+for Purposes of Regional Emissions Analysis
+40 FR 93.105(c)(ii), “Consultation – Interagency consultation procedures: Specific processes”
+specifies that Interagency Consultation shall include a process to identify which minor arterials should
+be considered as “regionally significant” for the purpose of regional emissions analysis. Based on
+inspection and engineering judgment of current traffic conditions; and based on application of the
+“Process for Determining Regionally Significant Facilities for Purposes of Regional Emissions
+Analysis” agreed upon by members of the Interagency Consultation Team; the WFRC initially
+designated several minor arterials as regionally significant.
+Since 2015, all but one of the minor arterials referenced above have been reclassified with the
+functional type of principal arterial and are therefore by definition regionally significant. The
+remaining minor arterial to be considered as regionally significant for emissions analysis is listed
+below. It should also be noted that all collectors, minor arterials, and principal arterials are included
+in the highway network used in the WFRC travel demand model.
+
+Davis County
+none
+Salt Lake County
+none
+Weber County
+SR-79 (Hinckley Drive): SR-108 to I-15
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 28
+
+Air Quality Memorandum 42
+
+Process for Determining Significant Change in Design Concept and Scope
+for Purposes of Regional Emissions Analysis (see CFR 93.105.2.c.1.ii)
+Changes to regionally significant projects may or may not necessitate a new regional emissions
+analysis. The following definitions and processes will be used to determine what changes to project
+concept and scope are to be considered significant or not for purposes of regional emissions analysis.
+1. Adding or extending freeway auxiliary lanes or weaving lanes between interchanges is not
+considered a significant change in concept and scope since these lanes are not normally included
+in the travel model.
+2. Adding or extending freeway auxiliary/weaving lanes from one interchange to a point beyond the
+next interchange is considered a significant change in concept and scope.
+3. A change to a regionally significant project defined in the Regional Transportation Plan that does
+not change how the project is defined in the travel model is not considered a significant change in
+concept and scope. These changes include but are not limited to lane or shoulder widening, cross
+section (other than the number of through lanes), alignment, interchange configuration,
+intersection traffic control, turn lanes, continuous or center turn lanes, and storage lanes.
+4. A change to a regionally significant project defined in the Regional Transportation Plan that does
+alter the number of through lanes, lane capacity, or speed classification as defined in the travel
+model is considered a significant change in concept and scope.
+5. Advancing or delaying the planned implementation of a regionally significant project that does not
+result in a change in the transportation network described in the travel model for any horizon year
+(as defined in CFR 93.101) is not considered a significant change in concept and scope.
+6. Advancing or delaying the planned implementation of a regionally significant project that does
+result in a change in the transportation network described in the travel model for any horizon year
+(as defined in CFR 93.101) is considered a significant change in concept and scope.
+7. Project changes not addressed in the above statements will be decided on a case-by-case basis
+through consultation by representatives from DAQ, WFRC, MAG, UDOT, UTA, FHWA, FTA,
+and EPA.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 29
+
+Air Quality Memorandum 42
+
+Appendix – 2
+
+RTP 2023-2050 List of Projects
+
+A final list of amended 2023-2050 RTP projects can be found in Appendix H: 2023-2050 Phased Project
+Lists by Mode. The new 2023-2050 RTP interactive map (https://wfrc.org/rtp-2023-map/) is also
+available.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 30
+
+Air Quality Memorandum 42
+
+Appendix – 3
+
+Amendment #1 Project Overviews
+Level 1 – Staff Modifications (For information only)
+Active Transportation
+1.
+Weber Canyon Bike Path
+Cost: N/A due to removal
+The Utah Department of Transportation (UDOT) is requesting an amendment to remove the
+Weber Canyon Bike Path from the Weber River Parkway to the Morgan County line. The
+Wasatch Front Regional Council (WFRC) and UDOT have overlapping projects between the
+RTP and UDOT’s Long Range Plan (LRP). The project will remain in the UDOT LRP and will
+fix the overlap in Utah’s Unified Transportation Plan.
+2.
+
+Porter Lane Bike Lane
+Cost: $86,000
+WFRC Staff is requesting an amendment to modify the eastern extent of the 0.68-mile bike
+lane on Porter Lane based on the relocation of a proposed crossing over I-15. The I-15
+Farmington to Salt Lake City Environmental Impact Statement (EIS) has moved the planned
+crossing of I-15 to the north. This new extent will terminate the project at the logical endpoint
+of the future 1250 West shared-use path. Potential funding sources include City funds, County
+funds, Surface Transportation Program (STP), Congestion Mitigation and Air Quality (CMAQ),
+Transportation Alternatives Program (TAP), Carbon Reduction Program (CRP), and/or
+Transportation Investment Fund Active (TIF Active).
+
+3.
+
+Bonneville Shoreline Trail
+Cost: $10.4 Million
+Salt Lake County is requesting an amendment to update the alignment of the 40-mile
+Bonneville Shoreline Trail West based upon the recent Salt Lake County Parks & Recreation
+Study. This project will increase access to outdoor recreation and improve feasibility of the
+proposed alignment. Potential funding sources include City funds, TAP, developer funding,
+Recreational Trails Program, and/or Utah Outdoor Recreation grants.
+
+4.
+
+Perry Farm Overhead Pedestrian/Bike Crossing
+Cost: $6.3 Million
+The City of Bluffdale is requesting an amendment to change the phasing of the Perry Farms
+to Independence overhead pedestrian/bike crossing from Phase 2 (2033-2042) to Phase 1
+(2023-2032). This project will increase safety, improve access to opportunities, has the
+potential for vehicle trip replacement, and improved safe routes to school. This project has
+received partial funding from the Federal Railroad Administration’s Railroad Crossing
+Elimination Grant. Additional potential funding sources include TAP, STP, CMAQ, CRP,
+and/or TIF Active.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 31
+
+Air Quality Memorandum 42
+
+5.
+
+I-15 EIS - Active Transportation Projects
+Cost: Project costs included in the I-15 reconstruction project.
+UDOT is requesting an amendment for eleven project changes included in the I-15 Farmington
+to Salt Lake City EIS. There are seven project modifications and four new projects, all in Phase
+1 (2023-2032). The project types include a shared lane, a bike lane, a buffered bike lane, two
+overhead crossings, and six shared use paths. These projects will increase connectivity,
+safety, and access to the regional active transportation network. These active transportation
+projects costs and construction will be included with the I-15 reconstruction project. For
+specific project information, please see the “I-15” tab within this spreadsheet.
+
+6.
+
+Kearns Active Transportation Plan
+Cost: $14.4 Million
+Kearns Metro Township is requesting an amendment for four new projects in various phases
+that come from the recently completed Kearns Active Transportation Plan. Of the four new
+projects, three are shared use paths and one is a buffered bike lane. These projects will
+increase connectivity, safety, and access to the regional active transportation network.
+Potential funding sources include City funds, County funds, STP, CMAQ, TAP, CRP, TIF
+Active, Transit Transportation Investment Funds First Last Mile (TTIF FLM), and/or Active
+Transportation Investment Funds (ATIF). For specific project information, please see the
+“Kearns” tab within this spreadsheet.
+
+7.
+
+Layton Active Transportation Plan
+Cost: $25.3 Million
+The City of Layton is requesting an amendment for 36 new projects in various phases that
+come from the recently completed Layton Active Transportation Plan. These new projects
+include bike lanes, buffered bike lanes, shoulder bikeways, shared use paths, and street
+crossings. These projects will increase connectivity, safety, and access to the regional active
+transportation network. Potential funding sources include City funds, County funds, STP,
+CMAQ, TAP, CRP, TIF Active, TTIF FLM, and/or ATIF. For specific project information, please
+see the “Layton” tab within this spreadsheet.
+
+8.
+
+Taylorsville Active Communities Plan
+Cost: $24.3 Million
+The City of Taylorsville is requesting an amendment for 17 active transportation projects.
+These projects include ten new projects, five modified projects, and two removed projects, all
+in various phases, from the recently completed Taylorsville Active Communities Plan. These
+projects include buffered bike lanes, shared use paths, and roadway undercrossings. These
+projects will increase connectivity, safety, and access to the regional active transportation
+network. Potential funding sources include City funds, County funds, STP, CMAQ, TAP, CRP,
+TIF Active, TTIF FLM, and/or ATIF. For specific project information, please see the
+“Taylorsville” tab in this spreadsheet.
+
+9.
+
+Walk White City Plan
+Cost: $7.8 Million
+White City Metro Township is requesting an amendment for three new projects in various
+phases that come from the recently completed Walk White City Plan. These projects include
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 32
+
+Air Quality Memorandum 42
+
+two shared use paths and one street crossing. These projects will increase connectivity,
+safety, and access to the regional active transportation network. Potential funding sources
+include City funds, County funds, STP, CMAQ, TAP, CRP, TIF Active, TTIF FLM, and/or ATIF.
+For specific project information, please see the “White City” tab in this spreadsheet.
+Transit
+10.
+400 West - American Spur TRAX Extension
+Cost: $120 Million
+The Utah Transit Authority (UTA) is requesting an amendment to change the needs-based
+phasing from Phase 2 (2033-2042) to Phase 1 (2023-2032). This 1.7-mile project is a
+realignment of the Red TRAX Line between 200 South and 1300 South in Salt Lake City. This
+project will increase mobility and access to opportunities within the new corridor. Potential
+funding sources include Transit Transportation Investment Fund (TTIF), federal funds, and/or
+local option sales tax.
+11.
+
+TRAX Orange Line - University of Utah to Downtown Salt Lake City
+Capital Cost: $101 Million
+O&M (per year): $10.4 Million
+UTA is requesting an amendment to change the needs-based phasing from Phase 2 (20332042) to Phase 1 (2023-2032). This 4.7-mile project is a reconfiguration project from the
+University of Utah to 600 West. The Orange TRAX Line will increase access to opportunities
+and provide increased mobility along its corridor. Potential funding sources include TTIF,
+federal funds, and/or local option sales tax.
+
+12.
+
+TRAX Orange Line - Downtown Salt Lake City to the Salt Lake City International Airport
+Capital Cost: $30 Million
+O&M (per year): $7.5 Million
+UTA is requesting an amendment to change the needs-based phasing from Phase 3 (20432050) to Phase 1 (2023-2032). This 6.7-mile project is a reconfiguration project from
+Downtown Salt Lake City to the Salt Lake City International Airport. The Orange TRAX Line
+will increase access to opportunities and provide increased mobility along its corridor.
+Potential funding sources include TTIF, federal funds, and/or local option sales tax.
+Level 2 – Board Modifications
+
+Roadway
+1. 12600 South
+Cost: $50 Million
+The City of Herriman and the Utah Department of Transportation (UDOT) are requesting an
+amendment to change the lane configuration of the 12600 South (Herriman Boulevard) new
+construction project. The recommendation is to change the lane configuration from 6800
+West to 7300 West (future SR-111) to five lanes and leave the existing remaining portion of
+the project from 7300 West to Oquirrh Boulevard as three lanes. The project aligns with the
+12600 South State Environmental Study (SES) completed by UDOT which addresses
+current and future growth in southwestern Salt Lake County. Potential funding sources
+include the Transportation Investment Fund (TIF) and local funds.
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 33
+
+Air Quality Memorandum 42
+
+2.
+
+Freedom Point Way
+Cost: $2.5 Million
+The City of Bluffdale is requesting a new collector road project connecting Porter Rockwell
+Boulevard to Pony Express Road by extending Freedom Point Way. The connecting
+collector road will have one lane per direction with a center left-turn lane and sidewalks.
+Funding sources include Salt Lake County Corridor Preservation Funds and local funds.
+
+3.
+
+Grandville Avenue Extension
+Cost: $5 Million
+The city of South Jordan is requesting an extension of Grandville Avenue to Old Bingham
+Highway. This project will provide more accessibility to the 5600 West Old Bingham
+Highway TRAX Station. The project is needed on the RTP in order to be qualified for Salt
+Lake County Corridor Preservation Funds.
+
+4.
+
+FrontRunner Grade-Separated Crossing - Hill Field Road
+Cost: $32 Million
+The Utah Transit Authority (UTA) in coordination with WFRC and Layton City is requesting a
+new grade-separated crossing at Hill Field Road and the FrontRunner/Union Pacific
+Railroad lines. This project has been identified as part of the FrontRunner Forward Study
+and will improve the reliability of FrontRunner, vehicle travel times, and safety improvements
+for all users. Local funds could be utilized to complete this project.
+
+5.
+
+FrontRunner Grade-Separated Crossing - Gordon Avenue
+Cost: $32 Million
+UTA in coordination with WFRC and Layton City is requesting a new grade separated
+crossing at Gordon Avenue and the FrontRunner/Union Pacific Railroad Lines. This project
+has been identified as part of the FrontRunner Forward Study and will improve the reliability
+of FrontRunner, vehicle travel times, and safety improvements for all users. Local funds
+could be utilized to complete this project.
+
+6.
+
+FrontRunner Grade-Separated Crossing - Pages Lane
+Cost: $32 Million
+UTA in coordination with WFRC and West Bountiful is requesting a new grade-separated
+crossing at Pages Lanes and the FrontRunner/Union Pacific Railroad lines. This project has
+been identified as part of the FrontRunner Forward Study and will improve the reliability of
+FrontRunner, vehicle travel times, and safety improvements for all users. Local funds could
+be utilized to complete this project.
+
+7.
+
+FrontRunner Grade Separated Crossing - 1700 South
+Cost: $32 Million
+UTA in coordination with WFRC and Salt Lake City is requesting a new-grade separated
+crossing at 1700 South and the FrontRunner/Union Pacific Railroad Lines. This project has
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 34
+
+Air Quality Memorandum 42
+
+been identified as part of the FrontRunner Forward Study and will improve the reliability of
+FrontRunner, vehicle travel times, and safety improvements for all users. Local funds could
+be utilized to complete this project.
+8.
+
+FrontRunner Grade Separated Crossing - Vine Street
+Cost: $32 Million
+UTA in coordination with WFRC and Murray is requesting a new grade-separated crossing
+at Vine Street and the FrontRunner/Union Pacific Railroad lines. This project has been
+identified as part of the FrontRunner Forward Study and will improve the reliability of
+FrontRunner, vehicle travel times, and safety improvements for all users. Local funds could
+be utilized to complete this project.
+
+9.
+
+FrontRunner Grade Separated Crossing - 5900 South
+Cost: $32 Million
+UTA in coordination with WFRC and Murray is requesting a new grade-separated crossing
+at 5900 South and the FrontRunner/Union Pacific Railroad Lines. This project has been
+identified as part of the FrontRunner Forward Study and will improve the reliability of
+FrontRunner, vehicle travel times, and safety improvements for all users. Local funds could
+be utilized to complete this project.
+
+Transit
+10.
+Davis - Salt Lake City Community Connector
+Capital Cost: $75.6 Million
+O&M (per year): $6.4 Million
+UTA is requesting an amendment for an alignment change, per the Davis - Salt Lake City
+Community Connector Environmental Assessment (EA), in Salt Lake City from 400 West to
+300 West between Beck Street to the North Temple FrontRunner Station. This project will
+increase access to opportunities, mobility, and provide faster travel times in this corridor.
+Potential funding sources for this 25.5-mile project include Transit Transportation Investment
+Fund (TTIF), federal funds, and/or local option sales tax.
+11.
+
+Big Cottonwood Canyon Core Route
+Capital Cost: $25.8 Million
+O&M (per year): $6 Million
+The Utah Department of Transportation (UDOT) and UTA are requesting an amendment for
+a new 15-mile core route bus service from the Cottonwood Canyons Transit Hub to the
+Brighton Ski Resort in Big Cottonwood Canyon. This project will ease congestion and
+provide transportation options in the corridor. Potential funding sources include the TTIF,
+federal funds, local option sales taxes, and/or the Cottonwood Canyon Transportation
+Investment Fund (CCTIF).
+
+12.
+
+Point Innovative Mobility Zone with Dedicated Shuttle
+O&M (per year): $1 Million
+UDOT and UTA are requesting an amendment to include phase 1 of the Point of the
+Mountain EA - Innovative Mobility Zone with dedicated shuttles to operate prior to
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 35
+
+Air Quality Memorandum 42
+
+implementation of the light rail transit line into Phase 1 of the 2023-2050 Regional
+Transportation Plan. This project will increase access to opportunities and mobility within the
+new development. Potential funding sources include TTIF, federal funds, and/or local option
+sales tax. The Mountainland Association of Governments (MAG) will incorporate the
+Traverse Mountain innovative mobility zone within their Plan.
+Level 3 – Full Amendments
+Transit
+1. Point of the Mountain Transit
+Capital Cost: $622 Million
+O&M (per year): $3.3 Million
+UDOT and UTA are requesting an amendment for the updated mode from bus rapid transit
+(BRT) to light rail transit, the phase from Phase 1 (2023-2032) to Phase 2 (2033-2042), and
+alignment per the phase 2 recommendations of the Point of the Mountain Environmental
+Assessment (EA). This project will increase access to opportunities and mobility within the
+new development. This 5.3-mile project has an approved one-time Legislative appropriation
+and additional funds could come from Transit Transportation Investment Fund (TTIF), local
+funds, and/or federal funds. The cost and length reflected of this project is only for the Salt
+Lake County portion within WFRC as the Mountainland Association of Governments (MAG)
+will incorporate the Utah County portion in their Plan. The total project cost is estimated at
+$945 million capital costs with $6.3 million annual operations and maintenance costs.
+2.
+
+FrontRunner Station at the Point of the Mountain Development
+Capital Cost: $120 Million
+UDOT and UTA are requesting an amendment for the new FrontRunner Station at the Point
+of the Mountain development. This project will increase access to the Point development and
+increase access to opportunities. This project has an approved one-time Legislative
+appropriation and additional funds could come from TTIF, local funds, and/or federal funds.
+The cost reflected of this project and the associated double tracking from Draper to Lehi is
+only for the Salt Lake County portion within WFRC as the Mountainland Association of
+Governments (MAG) will incorporate the Utah County portion in their Plan. The total project
+cost is estimated at $400 million.
+
+3.
+
+North Farmington Station, Stop, or Terminal
+Capital Cost: $3 Million
+Farmington City is requesting an amendment for the new station, stop, or terminal in North
+Station Park that connects the fixed-guideway innovative mobility zone to the Farmington
+FrontRunner Station. This project will increase mobility and access to opportunities. This new
+project comes from the Farmington Station Area Plan. Potential funding sources include
+Housing and Transit Reinvestment Zones (HTRZ), TTIF, federal funds, and/or local option
+sales tax.
+
+4.
+
+Farmington Fixed-Guideway Innovative Mobility Zone
+Capital Cost: $1 Million
+O&M (per year): $447,000
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 36
+
+Air Quality Memorandum 42
+
+Farmington City is requesting an amendment for the new 1.2-mile fixed-guideway innovative
+mobility zone from the Farmington FrontRunner Station to the North Farmington station, stop,
+or terminal. This project will increase mobility and access to opportunities within the corridor.
+This new project is from the Farmington Station Area Plan. Potential funding sources include
+HTRZ, TTIF, federal funds, and/or local option sales tax.
+Roadway
+I-15 - Farmington to Salt Lake City
+Total Project Cost: $2.6 Billion
+UDOT is requesting an amendment to I-15 in southern Davis County and northern Salt Lake
+County to align with the recommendations from the I-15 Farmington to Salt Lake City
+Environmental Impact Statement (EIS). The first component of the amendment will be to
+adjust the previous traffic lane recommendation of four general purpose (GP) lanes and two
+high-occupancy toll (HOT) lanes in each direction to five GP lanes and one HOT lane in each
+direction. Part two will split the Davis County portion of the project into two segments from
+Farmington to 2600 South and from 2600 South to the Salt Lake County line while the Salt
+Lake County segment would remain the same from the Davis County line to 400 South. Part
+three will update the total project cost from $2 Billion to $2.6 Billion, largely due to inflationary
+components of the project. Lastly, the amendment will remove five projects from the RTP that
+will be incorporated into the overall I-15 project. The I-15 project will also incorporate
+pedestrian and bicycle design elements maximizing connectivity for communities and
+neighborhoods located on either side of I-15. The projects outlined below are the different
+segments of the overall I-15 project being recommended as amendments.
+5.
+
+I-15 - Farmington to 2600 South
+Cost: $1.453 Billion
+UDOT is requesting an amendment to the I-15 Farmington to Salt Lake County line project,
+by splitting it into two segments at 2600 South in Bountiful. This segment adjusts the project
+length to 9.5 miles from Farmington to 2600 South and changes the traffic lanes from four GP
+lanes and two HOT lanes to five GP lanes and one HOT lane. This project will receive funding
+from the Transportation Investment Fund (TIF).
+
+6.
+
+I-15 - 2600 South to the Salt Lake County Line
+Cost: $459 Million
+UDOT is requesting an amendment to the I-15 Farmington to Salt Lake County line project,
+by splitting it into two segments at 2600 South in Bountiful. This segment adjusts the project
+length to 3.0 miles from 2600 South in Bountiful to the Salt Lake County line and changes the
+traffic lanes from four GP lanes and two HOT lanes to five GP lanes and one HOT lane. This
+project will receive funding from the TIF.
+
+7.
+
+I-15 - the Davis County Line to 400 South
+Cost: $688 Million
+UDOT is requesting an amendment to the I-15 Farmington to Salt Lake City project. This
+segment of the amendment changes the traffic lanes from four GP lanes and two HOT lanes
+to five GP lanes and one HOT lane. This project will receive funding from the TIF.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 37
+
+Air Quality Memorandum 42
+
+8.
+
+I-15 Managed Motorways Operations
+Cost: N/A due to removal
+UDOT is requesting the I-15 southern Davis County portion of the managed
+motorway’s operational improvement project to be removed from the RTP as it will be
+incorporated into the overall I-15 project. This project helps prevent congestion to improve
+travel time, reliability and safety by using sophisticated ramp metering and vehicle detection
+methods.
+
+9.
+
+I-15 Interchange at Parrish Lane
+Cost: N/A due to removal
+UDOT is requesting the I-15 interchange upgrade at Parrish Lane be removed from the RTP
+as it will be incorporated into the overall I-15 project. The interchange at Parrish Lane will be
+modified to a single point urban interchange (SPUI) and be improved to accommodate
+enhanced traffic flow and safer bicycle and pedestrian use.
+
+10.
+
+I-15 Interchange at Warm Springs Road
+Cost: N/A due to removal
+UDOT is requesting the I-15 interchange upgrade at Warm Springs Road be removed from
+the RTP as it will be incorporated into the overall I-15 project. This project will modify the
+existing interchange to an overstreet, full interchange with a diamond configuration which
+enables more accessibility to I-15 and the surrounding community.
+
+11.
+
+I-215 Interchange at I-15/US-89 (Upgrade Interchange)
+Cost: N/A due to removal
+UDOT is requesting the upgrades to the I-215 interchange at I-15/US-89 be removed from the
+RTP as they will be incorporated into the overall I-15 project. The interchange upgrades will
+create better connectivity and mobility.
+
+12.
+
+I-215 Interchange at I-15/US-89 (System-to-System Interchange)
+Cost: N/A due to removal
+UDOT is requesting the system-to-system interchange improvements to I-215 and I-15/US89 be removed from the RTP as they will be incorporated into the overall I-15 project. This
+new interchange will be a SPUI with access to I-15 and I-215 from US-89 creating more
+opportunities for north/south and west connections.
+
+13.
+
+I-15 - WFRC’s northern MPO boundary and US-91
+Cost: $10 Million
+UDOT is requesting a new project to be amended into the RTP. This project will add two miles
+of passing lanes in both the northbound and southbound directions between WFRC’s
+northernmost MPO boundary and US-91 in Box Elder County. The project will extend further
+north and will be included in UDOT’s Long Range Plan (LRP). The project will help traffic
+efficiency and increase safety, especially related to heavy truck traffic in the area. Potential
+funding sources include the TIF.
+
+AQ memo42_RTP_2023-2050_A1_FINAL.docx
+
+Page 38
+
+

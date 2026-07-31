@@ -1,0 +1,40 @@
+{
+  "contributions": [
+    {"date": "8/4/21", "name": "Angela Preece", "amount": "100.00", "in_kind": false},
+    {"date": "9/14/21", "name": "Weston Barney", "amount": "100.00", "in_kind": false},
+    {"date": "9/28/21", "name": "Sarah McKay", "amount": "50.00", "in_kind": false},
+    {"date": "9/28/21", "name": "Marty Millet", "amount": "20.00", "in_kind": false},
+    {"date": "9/28/21", "name": "Suzanne Partridge", "amount": "40.00", "in_kind": false},
+    {"date": "9/29/21", "name": "Blake Anderson", "amount": "50.00", "in_kind": false},
+    {"date": "9/30/21", "name": "Sonny Mortensen", "amount": "108.00", "in_kind": false},
+    {"date": "9/16/21", "name": "Jacob Hunsaker", "amount": "250.00", "in_kind": false},
+    {"date": "10/12/21", "name": "Denise Christiansen", "amount": "50.00", "in_kind": false},
+    {"date": "10/18/21", "name": "Ryan Lunt", "amount": "25.00", "in_kind": false},
+    {"date": "10/19/21", "name": "John C Patterson", "amount": "100.00", "in_kind": false},
+    {"date": "10/20/21", "name": "Lorin & Christi Palmer", "amount": "5000.00", "in_kind": false},
+    {"date": "10/21/21", "name": "Lorin & Christi Palmer", "amount": "2000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/4/21", "recipient": "Lowe's", "purpose": "Sign Materials", "amount": "85.31", "in_kind": false},
+    {"date": "10/19/21", "recipient": "Harmon's", "purpose": "Postage", "amount": "12.80", "in_kind": false},
+    {"date": "10/21/21", "recipient": "Majority 51", "purpose": "Facebook & YouTube Ads", "amount": "414.21", "in_kind": false},
+    {"date": "10/21/21", "recipient": "Salt Lake Mailing", "purpose": "Mailer", "amount": "3689.25", "in_kind": false},
+    {"date": "10/21/21", "recipient": "Salt Lake Mailing", "purpose": "Mailer", "amount": "3686.21", "in_kind": false},
+    {"date": "10/6/21", "recipient": "Majority 51", "purpose": "Advertising", "amount": "284.20", "in_kind": false}
+  ],
+  "total_contributions": "7885.00",
+  "total_expenditures": "8171.98",
+  "contributions_50_or_less": null,
+  "beginning_balance": "741.30",
+  "ending_balance": "454.32",
+  "_meta": {
+    "index_path": "raw/2401_Lorin-PalmerMayor.pdf",
+    "candidate": "Lorin Palmer",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2401_Lorin-PalmerMayor.pdf",
+    "pages": 5,
+    "notes": "Cover typed, schedules handwritten. Office Mayor / At-Large. Type-of-report box checked: 'NOT Eliminated by Primary - No later than seven days before... October 26, 2021' -> interim. Signed 10/22/21. Schedule A: 13 itemized contributions; printed SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED both = 7885.00, recorded verbatim as total_contributions. NOTE the itemized amounts as transcribed sum to 7893.00, an 8.00 discrepancy vs the printed 7885.00 total - NOT corrected (verbatim preserved); the Sonny Mortensen amount was verified at 300dpi and reads '$108.00'. Two self-contributions 'Lorin & Christi Palmer' at $5000.00 (10/20/21) and $2000.00 (10/21/21). Schedule B: 6 expenditures, printed TOTAL 8171.98 (reconciles with itemized rows). Schedule C blank (no in-kind). Summary Page fully completed: Column A (Total this Period) used for the report values - beginning balance (line 3) = 741.30, ending balance (line 7) = 454.32. Column B (Year-to-Date) also filled: contributions 20,617.18 / expenditures 20,162.86 / YTD beginning 0 / YTD close 454.32 - not recorded in the primary fields. Schedule-C summary row left blank (dashes). Contributor mailing addresses present on the form are not part of the schema and were not recorded."
+  }
+}

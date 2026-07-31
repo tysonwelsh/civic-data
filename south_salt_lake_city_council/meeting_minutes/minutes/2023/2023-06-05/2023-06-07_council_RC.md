@@ -1,0 +1,213 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06072023-140
+> Meeting date: 2023-06-07
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 06072023-140 | label: Council RC Meeting 2023-06-07 | date: 2023-06-07 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06072023-140 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday June 7, 2023
+                                                             7:12 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  Natalie Pinkney
+
+SERIOUS MOMENT OF REFLECTION/
+PLEDGE OF ALLEGIANCE :                                       Sharla Bynum
+
+SERGEANT AT ARMS:                                            Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      Sharla Bynum, LeAnne Huff, Natalie Pinkney, Portia Mila,
+      Shane Siwik, Corey Thomas, and Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Terry Addison, Fire Chief
+       Darren Carr, Deputy Police Chief
+       Crystal Makin, Finance Director
+       Sharen Hauri, Neighborhoods Director
+       Tory Laws, Wastewater Division Manager
+       Jenica Laws, Animal Services Supervisor
+       Jim Anderson, Police Lieutenant
+       Eliza Ungricht, Deputy Community Development Director
+       BJ Allen, IT GIS Specialist
+       Danielle Croyle, Public Information Officer
+       Jessica Potter, Executive Assistant
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Mtg in one week on June 14th @ 7pm.
+
+
+                                             1
+South Salt Lake- Regular Council Meeting                                         June 7, 2023
+
+
+       2. CITIZEN COMMENTS/QUESTIONS.
+          None
+
+       3. MAYOR COMMENTS.
+          Mayor Wood spoke about the City’s upcoming celebration of Juneteenth. There will
+          be a flag raising ceremony and proclamation from the Mayor at City Hall on Friday,
+          June 9th at 1:30 pm and will be followed by a festival at Central Park from 5-8 pm.
+
+          She also said that they are working with the County on sandbag disposal and
+          collections and will have information coming in the next couple of weeks.
+
+      4. CITY ATTORNEY COMMENTS.
+         None
+
+      5. CITY COUNCIL COMMENTS.
+         Council Member Huff thanked the South Salt Lake Fire Department for their entry in
+         this year’s annual Pride Parade and hopes that it will continue in the coming years.
+
+          Council Member Siwik spoke about the Fire Department’s brand-new fire truck and
+          said he was excited to see its new features that will be of service to the City.
+
+          Council Member Pinkney acknowledged Pride Month and said that she also
+          attended the annual Pride Parade and plans to be a part of the City’s parade entry
+          next year.
+
+      6. INFORMATION.
+         Wastewater Division Manager, Tory Laws, presented the annual report for the
+         Municipal Wastewater Planning Program, a copy of which is attached and
+         incorporated by this reference.
+
+ACTION ITEMS
+
+   Unfinished Business
+
+   1. A Resolution of the South Salt Lake City Council Authorizing the City to Enter Into and
+      Execute a Development Agreement with CW the Monroe, LLC for the Development of
+      a Townhome Project Located at 547-617 East 3900 South.
+      Deputy Community Development Director, Eliza Ungricht, asked the Council if they had
+      any additional questions and informed the Council that the developer was also present.
+
+      A copy of the Resolution is attached and incorporated by this reference.
+
+      Council Member Mila made a motion to approve this Resolution.
+
+
+MOTION: Portia Mila
+SECOND: Sharla Bynum
+
+
+                                             2
+South Salt Lake- Regular Council Meeting                                          June 7, 2023
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Abstain
+Siwik:            Yes
+Thomas:           Abstain
+Williams:         Yes
+
+
+    2. An Ordinance of the South Salt Lake City Council to Amend the South Salt Lake Zoning
+       Map for Property Located at 547-617 East 3900 South, Currently a Mixed-Use Zone, to
+       Include a Townhome Overlay (TO).
+       Deputy Community Development Director, Eliza Ungricht, asked the Council if they had
+       any additional questions and informed the Council that the developer was also present.
+
+        A copy of the Ordinance of which is attached and incorporated by this reference,
+
+        Council Member Mila made a motion to approve this Ordinance.
+
+
+MOTION: Portia Mila
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Abstain
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    3. An Ordinance of the South Salt Lake City Council Amending Section 3.11.110 of the
+       South Salt Lake City Municipal Code to Modify Fees Relating to Parks and Community
+       Centers in South Salt Lake City and to Update Names of Certain City Owned Facilities.
+       Neighborhoods Director, Sharen Hauri, presented the finalized and most updated
+       version of the Ordinance after taking comments from the Council at the last few Council
+       meetings.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Mila made a motion to approve this Ordinance.
+
+MOTION: Portia Mila
+SECOND: LeAnne Huff
+
+
+                                               3
+South Salt Lake- Regular Council Meeting                                 June 7, 2023
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+        Council Member Mila made a motion to Adjourn.
+
+
+MOTION: Portia Mila
+SECOND: LeAnne Huff
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+        The meeting adjourned at 7:30 p.m.
+
+
+
+
+                                             _____________________________
+                                             Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                             4

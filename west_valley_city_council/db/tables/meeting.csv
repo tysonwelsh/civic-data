@@ -1,0 +1,687 @@
+meeting_id,body_id,meeting_date,title,source_file
+1,1,2020-01-07,City Council Regular Meeting,minutes/2020/2020-01-06/2020-01-07_council-regular-meeting.md
+2,1,2020-01-07,City Council Study Meeting,minutes/2020/2020-01-06/2020-01-07_council-study-meeting.md
+3,2,2020-01-07,Municipal Building Authority Regular Meeting,minutes/2020/2020-01-06/2020-01-07_municipal-building-authority-meeting.md
+4,4,2020-01-07,Redevelopment Agency Regular Meeting,minutes/2020/2020-01-06/2020-01-07_redevelopment-agency-meeting.md
+5,1,2020-01-14,City Council Regular Meeting,minutes/2020/2020-01-13/2020-01-14_council-regular-meeting.md
+6,1,2020-01-14,City Council Study Meeting,minutes/2020/2020-01-13/2020-01-14_council-study-meeting.md
+7,1,2020-01-21,City Council Regular Meeting,minutes/2020/2020-01-20/2020-01-21_council-regular-meeting.md
+8,1,2020-01-21,City Council Study Meeting,minutes/2020/2020-01-20/2020-01-21_council-study-meeting.md
+9,1,2020-01-28,City Council Regular Meeting,minutes/2020/2020-01-27/2020-01-28_council-regular-meeting.md
+10,1,2020-01-28,City Council Study Meeting,minutes/2020/2020-01-27/2020-01-28_council-study-meeting.md
+11,1,2020-02-04,City Council Regular Meeting,minutes/2020/2020-02-03/2020-02-04_council-regular-meeting.md
+12,1,2020-02-04,City Council Study Meeting,minutes/2020/2020-02-03/2020-02-04_council-study-meeting.md
+13,4,2020-02-04,Redevelopment Agency Special Meeting,minutes/2020/2020-02-03/2020-02-04_redevelopment-agency-meeting.md
+14,1,2020-02-11,City Council Regular Meeting,minutes/2020/2020-02-10/2020-02-11_council-regular-meeting.md
+15,1,2020-02-11,City Council Study Meeting,minutes/2020/2020-02-10/2020-02-11_council-study-meeting.md
+16,1,2020-02-18,City Council Regular Meeting,minutes/2020/2020-02-17/2020-02-18_council-regular-meeting.md
+17,1,2020-02-18,City Council Study Meeting,minutes/2020/2020-02-17/2020-02-18_council-study-meeting.md
+18,4,2020-02-18,Redevelopment Agency Special Meeting,minutes/2020/2020-02-17/2020-02-18_redevelopment-agency-meeting.md
+19,1,2020-02-25,City Council Regular Meeting,minutes/2020/2020-02-24/2020-02-25_council-regular-meeting.md
+20,1,2020-02-25,City Council Study Meeting,minutes/2020/2020-02-24/2020-02-25_council-study-meeting.md
+21,4,2020-02-25,Redevelopment Agency Special Meeting,minutes/2020/2020-02-24/2020-02-25_redevelopment-agency-meeting.md
+22,1,2020-03-10,City Council Regular Meeting,minutes/2020/2020-03-09/2020-03-10_council-regular-meeting.md
+23,1,2020-03-10,City Council Study Meeting,minutes/2020/2020-03-09/2020-03-10_council-study-meeting.md
+24,1,2020-03-17,City Council Regular Meeting,minutes/2020/2020-03-16/2020-03-17_council-regular-meeting.md
+25,1,2020-03-17,City Council Study Meeting,minutes/2020/2020-03-16/2020-03-17_council-study-meeting.md
+26,1,2020-04-07,City Council Regular Meeting,minutes/2020/2020-04-06/2020-04-07_council-regular-meeting.md
+27,1,2020-04-07,City Council Study Meeting,minutes/2020/2020-04-06/2020-04-07_council-study-meeting.md
+28,4,2020-04-07,Redevelopment Agency Regular Meeting,minutes/2020/2020-04-06/2020-04-07_redevelopment-agency-meeting.md
+29,1,2020-04-14,City Council Regular Meeting,minutes/2020/2020-04-13/2020-04-14_council-regular-meeting.md
+30,1,2020-04-14,City Council Study Meeting,minutes/2020/2020-04-13/2020-04-14_council-study-meeting.md
+31,1,2020-04-21,City Council Regular Meeting,minutes/2020/2020-04-20/2020-04-21_council-regular-meeting.md
+32,1,2020-04-21,City Council Study Meeting,minutes/2020/2020-04-20/2020-04-21_council-study-meeting.md
+33,1,2020-04-28,City Council Regular Meeting,minutes/2020/2020-04-27/2020-04-28_council-regular-meeting.md
+34,1,2020-04-28,City Council Study Meeting,minutes/2020/2020-04-27/2020-04-28_council-study-meeting.md
+35,1,2020-05-05,City Council Regular Meeting,minutes/2020/2020-05-04/2020-05-05_council-regular-meeting.md
+36,1,2020-05-05,City Council Study Meeting,minutes/2020/2020-05-04/2020-05-05_council-study-meeting.md
+37,2,2020-05-05,Municipal Building Authority Regular Meeting,minutes/2020/2020-05-04/2020-05-05_municipal-building-authority-meeting.md
+38,4,2020-05-05,Redevelopment Agency Regular Meeting,minutes/2020/2020-05-04/2020-05-05_redevelopment-agency-meeting.md
+39,1,2020-05-12,City Council Regular Meeting,minutes/2020/2020-05-11/2020-05-12_council-regular-meeting.md
+40,1,2020-05-12,City Council Study Meeting,minutes/2020/2020-05-11/2020-05-12_council-study-meeting.md
+41,1,2020-05-19,City Council Regular Meeting,minutes/2020/2020-05-18/2020-05-19_council-regular-meeting.md
+42,1,2020-05-19,City Council Study Meeting,minutes/2020/2020-05-18/2020-05-19_council-study-meeting.md
+43,1,2020-05-26,City Council Regular Meeting,minutes/2020/2020-05-25/2020-05-26_council-regular-meeting.md
+44,1,2020-05-26,City Council Study Meeting,minutes/2020/2020-05-25/2020-05-26_council-study-meeting.md
+45,1,2020-06-02,City Council Regular Meeting,minutes/2020/2020-06-01/2020-06-02_council-regular-meeting.md
+46,1,2020-06-02,City Council Study Meeting,minutes/2020/2020-06-01/2020-06-02_council-study-meeting.md
+47,2,2020-06-02,Municipal Building Authority Regular Meeting,minutes/2020/2020-06-01/2020-06-02_municipal-building-authority-meeting.md
+48,4,2020-06-02,Redevelopment Agency Regular Meeting,minutes/2020/2020-06-01/2020-06-02_redevelopment-agency-meeting.md
+49,1,2020-06-09,City Council Regular Meeting,minutes/2020/2020-06-08/2020-06-09_council-regular-meeting.md
+50,1,2020-06-09,City Council Study Meeting,minutes/2020/2020-06-08/2020-06-09_council-study-meeting.md
+51,1,2020-06-16,City Council Regular Meeting,minutes/2020/2020-06-15/2020-06-16_council-regular-meeting.md
+52,1,2020-06-16,City Council Study Meeting,minutes/2020/2020-06-15/2020-06-16_council-study-meeting.md
+53,4,2020-06-16,Redevelopment Agency Special Meeting,minutes/2020/2020-06-15/2020-06-16_redevelopment-agency-meeting.md
+54,1,2020-06-23,City Council Regular Meeting,minutes/2020/2020-06-22/2020-06-23_council-regular-meeting.md
+55,1,2020-06-23,City Council Study Meeting,minutes/2020/2020-06-22/2020-06-23_council-study-meeting.md
+56,1,2020-07-07,City Council Regular Meeting,minutes/2020/2020-07-06/2020-07-07_council-regular-meeting.md
+57,1,2020-07-07,City Council Study Meeting,minutes/2020/2020-07-06/2020-07-07_council-study-meeting.md
+58,1,2020-07-14,City Council Regular Meeting,minutes/2020/2020-07-13/2020-07-14_council-regular-meeting.md
+59,1,2020-07-14,City Council Study Meeting,minutes/2020/2020-07-13/2020-07-14_council-study-meeting.md
+60,1,2020-07-21,City Council Regular Meeting,minutes/2020/2020-07-20/2020-07-21_council-regular-meeting.md
+61,1,2020-07-21,City Council Study Meeting,minutes/2020/2020-07-20/2020-07-21_council-study-meeting.md
+62,1,2020-07-28,City Council Regular Meeting,minutes/2020/2020-07-27/2020-07-28_council-regular-meeting.md
+63,1,2020-07-28,City Council Study Meeting,minutes/2020/2020-07-27/2020-07-28_council-study-meeting.md
+64,1,2020-08-11,City Council Regular Meeting,minutes/2020/2020-08-10/2020-08-11_council-regular-meeting.md
+65,1,2020-08-11,City Council Study Meeting,minutes/2020/2020-08-10/2020-08-11_council-study-meeting.md
+66,4,2020-08-11,Redevelopment Agency Special Meeting,minutes/2020/2020-08-10/2020-08-11_redevelopment-agency-meeting.md
+67,1,2020-08-18,City Council Regular Meeting,minutes/2020/2020-08-17/2020-08-18_council-regular-meeting.md
+68,1,2020-08-18,City Council Study Meeting,minutes/2020/2020-08-17/2020-08-18_council-study-meeting.md
+69,1,2020-08-25,City Council Regular Meeting,minutes/2020/2020-08-24/2020-08-25_council-regular-meeting.md
+70,1,2020-08-25,City Council Study Meeting,minutes/2020/2020-08-24/2020-08-25_council-study-meeting.md
+71,4,2020-08-25,Redevelopment Agency Special Meeting,minutes/2020/2020-08-24/2020-08-25_redevelopment-agency-meeting.md
+72,1,2020-09-01,City Council Regular Meeting,minutes/2020/2020-08-31/2020-09-01_council-regular-meeting.md
+73,1,2020-09-01,City Council Study Meeting,minutes/2020/2020-08-31/2020-09-01_council-study-meeting.md
+74,1,2020-09-08,City Council Regular Meeting,minutes/2020/2020-09-07/2020-09-08_council-regular-meeting.md
+75,1,2020-09-08,City Council Study Meeting,minutes/2020/2020-09-07/2020-09-08_council-study-meeting.md
+76,1,2020-09-15,City Council Regular Meeting,minutes/2020/2020-09-14/2020-09-15_council-regular-meeting.md
+77,1,2020-09-15,City Council Study Meeting,minutes/2020/2020-09-14/2020-09-15_council-study-meeting.md
+78,1,2020-09-22,City Council Regular Meeting,minutes/2020/2020-09-21/2020-09-22_council-regular-meeting.md
+79,1,2020-09-22,City Council Study Meeting,minutes/2020/2020-09-21/2020-09-22_council-study-meeting.md
+80,1,2020-10-06,City Council Regular Meeting,minutes/2020/2020-10-05/2020-10-06_council-regular-meeting.md
+81,1,2020-10-06,City Council Study Meeting,minutes/2020/2020-10-05/2020-10-06_council-study-meeting.md
+82,4,2020-10-06,Redevelopment Agency Regular Meeting,minutes/2020/2020-10-05/2020-10-06_redevelopment-agency-meeting.md
+83,1,2020-10-13,City Council Regular Meeting,minutes/2020/2020-10-12/2020-10-13_council-regular-meeting.md
+84,1,2020-10-13,City Council Study Meeting,minutes/2020/2020-10-12/2020-10-13_council-study-meeting.md
+85,4,2020-10-13,Redevelopment Agency Special Meeting,minutes/2020/2020-10-12/2020-10-13_redevelopment-agency-meeting.md
+86,1,2020-10-20,City Council Regular Meeting,minutes/2020/2020-10-19/2020-10-20_council-regular-meeting.md
+87,1,2020-10-20,City Council Study Meeting,minutes/2020/2020-10-19/2020-10-20_council-study-meeting.md
+88,1,2020-10-27,City Council Regular Meeting,minutes/2020/2020-10-26/2020-10-27_council-regular-meeting.md
+89,1,2020-10-27,City Council Study Meeting,minutes/2020/2020-10-26/2020-10-27_council-study-meeting.md
+90,1,2020-11-10,City Council Regular Meeting,minutes/2020/2020-11-09/2020-11-10_council-regular-meeting.md
+91,1,2020-11-10,City Council Study Meeting,minutes/2020/2020-11-09/2020-11-10_council-study-meeting.md
+92,1,2020-11-17,City Council Regular Meeting,minutes/2020/2020-11-16/2020-11-17_council-regular-meeting.md
+93,1,2020-11-17,City Council Study Meeting,minutes/2020/2020-11-16/2020-11-17_council-study-meeting.md
+94,4,2020-11-17,Redevelopment Agency Special Meeting,minutes/2020/2020-11-16/2020-11-17_redevelopment-agency-meeting.md
+95,1,2020-11-24,City Council Regular Meeting,minutes/2020/2020-11-23/2020-11-24_council-regular-meeting.md
+96,1,2020-11-24,City Council Study Meeting,minutes/2020/2020-11-23/2020-11-24_council-study-meeting.md
+97,1,2020-12-01,City Council Study Meeting,minutes/2020/2020-11-30/2020-12-01_council-study-meeting.md
+98,1,2020-12-08,City Council Study Meeting,minutes/2020/2020-12-07/2020-12-08_council-study-meeting.md
+99,1,2020-12-15,City Council Study Meeting,minutes/2020/2020-12-14/2020-12-15_council-study-meeting.md
+100,4,2020-12-15,Redevelopment Agency Special Meeting,minutes/2020/2020-12-14/2020-12-15_redevelopment-agency-meeting.md
+101,1,2021-01-05,City Council Regular Meeting,minutes/2021/2021-01-04/2021-01-05_council-regular-meeting.md
+102,1,2021-01-05,City Council Study Meeting,minutes/2021/2021-01-04/2021-01-05_council-study-meeting.md
+103,2,2021-01-05,Municipal Building Authority Regular Meeting,minutes/2021/2021-01-04/2021-01-05_municipal-building-authority-meeting.md
+104,4,2021-01-05,Redevelopment Agency Regular Meeting,minutes/2021/2021-01-04/2021-01-05_redevelopment-agency-meeting.md
+105,1,2021-01-12,City Council Regular Meeting,minutes/2021/2021-01-11/2021-01-12_council-regular-meeting.md
+106,1,2021-01-12,City Council Study Meeting,minutes/2021/2021-01-11/2021-01-12_council-study-meeting.md
+107,1,2021-01-19,City Council Regular Meeting,minutes/2021/2021-01-18/2021-01-19_council-regular-meeting.md
+108,1,2021-01-19,City Council Study Meeting,minutes/2021/2021-01-18/2021-01-19_council-study-meeting.md
+109,1,2021-01-26,City Council Regular Meeting,minutes/2021/2021-01-25/2021-01-26_council-regular-meeting.md
+110,1,2021-01-26,City Council Study Meeting,minutes/2021/2021-01-25/2021-01-26_council-study-meeting.md
+111,1,2021-02-02,City Council Regular Meeting,minutes/2021/2021-02-01/2021-02-02_council-regular-meeting.md
+112,1,2021-02-02,City Council Study Meeting,minutes/2021/2021-02-01/2021-02-02_council-study-meeting.md
+113,1,2021-02-09,City Council Regular Meeting,minutes/2021/2021-02-08/2021-02-09_council-regular-meeting.md
+114,1,2021-02-09,City Council Study Meeting,minutes/2021/2021-02-08/2021-02-09_council-study-meeting.md
+115,1,2021-02-16,City Council Regular Meeting,minutes/2021/2021-02-15/2021-02-16_council-regular-meeting.md
+116,1,2021-02-16,City Council Study Meeting,minutes/2021/2021-02-15/2021-02-16_council-study-meeting.md
+117,1,2021-02-23,City Council Regular Meeting,minutes/2021/2021-02-22/2021-02-23_council-regular-meeting.md
+118,1,2021-02-23,City Council Study Meeting,minutes/2021/2021-02-22/2021-02-23_council-study-meeting.md
+119,1,2021-03-02,City Council Regular Meeting,minutes/2021/2021-03-01/2021-03-02_council-regular-meeting.md
+120,1,2021-03-02,City Council Study Meeting,minutes/2021/2021-03-01/2021-03-02_council-study-meeting.md
+121,1,2021-03-09,City Council Regular Meeting,minutes/2021/2021-03-08/2021-03-09_council-regular-meeting.md
+122,1,2021-03-09,City Council Study Meeting,minutes/2021/2021-03-08/2021-03-09_council-study-meeting.md
+123,1,2021-03-16,City Council Regular Meeting,minutes/2021/2021-03-15/2021-03-16_council-regular-meeting.md
+124,1,2021-03-16,City Council Study Meeting,minutes/2021/2021-03-15/2021-03-16_council-study-meeting.md
+125,4,2021-03-16,Redevelopment Agency Special Meeting,minutes/2021/2021-03-15/2021-03-16_redevelopment-agency-meeting.md
+126,1,2021-03-23,City Council Regular Meeting,minutes/2021/2021-03-22/2021-03-23_council-regular-meeting.md
+127,1,2021-03-23,City Council Study Meeting,minutes/2021/2021-03-22/2021-03-23_council-study-meeting.md
+128,1,2021-04-06,City Council Regular Meeting,minutes/2021/2021-04-05/2021-04-06_council-regular-meeting.md
+129,1,2021-04-06,City Council Study Meeting,minutes/2021/2021-04-05/2021-04-06_council-study-meeting.md
+130,1,2021-04-13,City Council Regular Meeting,minutes/2021/2021-04-12/2021-04-13_council-regular-meeting.md
+131,1,2021-04-13,City Council Study Meeting,minutes/2021/2021-04-12/2021-04-13_council-study-meeting.md
+132,1,2021-04-20,City Council Regular Meeting,minutes/2021/2021-04-19/2021-04-20_council-regular-meeting.md
+133,1,2021-04-20,City Council Study Meeting,minutes/2021/2021-04-19/2021-04-20_council-study-meeting.md
+134,1,2021-04-27,City Council Regular Meeting,minutes/2021/2021-04-26/2021-04-27_council-regular-meeting.md
+135,1,2021-04-27,City Council Study Meeting,minutes/2021/2021-04-26/2021-04-27_council-study-meeting.md
+136,1,2021-05-04,City Council Regular Meeting,minutes/2021/2021-05-03/2021-05-04_council-regular-meeting.md
+137,1,2021-05-04,City Council Study Meeting,minutes/2021/2021-05-03/2021-05-04_council-study-meeting.md
+138,2,2021-05-04,Municipal Building Authority Regular Meeting,minutes/2021/2021-05-03/2021-05-04_municipal-building-authority-meeting.md
+139,4,2021-05-04,Redevelopment Agency Regular Meeting,minutes/2021/2021-05-03/2021-05-04_redevelopment-agency-meeting.md
+140,1,2021-05-11,City Council Regular Meeting,minutes/2021/2021-05-10/2021-05-11_council-regular-meeting.md
+141,1,2021-05-11,City Council Study Meeting,minutes/2021/2021-05-10/2021-05-11_council-study-meeting.md
+142,1,2021-05-18,City Council Regular Meeting,minutes/2021/2021-05-17/2021-05-18_council-regular-meeting.md
+143,1,2021-05-18,City Council Study Meeting,minutes/2021/2021-05-17/2021-05-18_council-study-meeting.md
+144,4,2021-05-18,Redevelopment Agency Special Meeting,minutes/2021/2021-05-17/2021-05-18_redevelopment-agency-meeting.md
+145,1,2021-05-25,City Council Regular Meeting,minutes/2021/2021-05-24/2021-05-25_council-regular-meeting.md
+146,1,2021-05-25,City Council Study Meeting,minutes/2021/2021-05-24/2021-05-25_council-study-meeting.md
+147,1,2021-06-01,City Council Regular Meeting,minutes/2021/2021-05-31/2021-06-01_council-regular-meeting.md
+148,2,2021-06-01,Municipal Building Authority Regular Meeting,minutes/2021/2021-05-31/2021-06-01_municipal-building-authority-meeting.md
+149,4,2021-06-01,Redevelopment Agency Regular Meeting,minutes/2021/2021-05-31/2021-06-01_redevelopment-agency-meeting.md
+150,1,2021-06-08,City Council Regular Meeting,minutes/2021/2021-06-07/2021-06-08_council-regular-meeting.md
+151,1,2021-06-08,City Council Study Meeting,minutes/2021/2021-06-07/2021-06-08_council-study-meeting.md
+152,1,2021-06-22,City Council Regular Meeting,minutes/2021/2021-06-21/2021-06-22_council-regular-meeting.md
+153,1,2021-06-22,City Council Study Meeting,minutes/2021/2021-06-21/2021-06-22_council-study-meeting.md
+154,1,2021-07-06,City Council Regular Meeting,minutes/2021/2021-07-05/2021-07-06_council-regular-meeting.md
+155,1,2021-07-06,City Council Study Meeting,minutes/2021/2021-07-05/2021-07-06_council-study-meeting.md
+156,4,2021-07-06,Redevelopment Agency Special Meeting,minutes/2021/2021-07-05/2021-07-06_redevelopment-agency-meeting.md
+157,1,2021-07-13,City Council Regular Meeting,minutes/2021/2021-07-12/2021-07-13_council-regular-meeting.md
+158,1,2021-07-13,City Council Study Meeting,minutes/2021/2021-07-12/2021-07-13_council-study-meeting.md
+159,1,2021-07-20,City Council Regular Meeting,minutes/2021/2021-07-19/2021-07-20_council-regular-meeting.md
+160,1,2021-07-20,City Council Study Meeting,minutes/2021/2021-07-19/2021-07-20_council-study-meeting.md
+161,1,2021-07-27,City Council Regular Meeting,minutes/2021/2021-07-26/2021-07-27_council-regular-meeting.md
+162,1,2021-07-27,City Council Study Meeting,minutes/2021/2021-07-26/2021-07-27_council-study-meeting.md
+163,1,2021-08-10,City Council Regular Meeting,minutes/2021/2021-08-09/2021-08-10_council-regular-meeting.md
+164,1,2021-08-10,City Council Study Meeting,minutes/2021/2021-08-09/2021-08-10_council-study-meeting.md
+165,1,2021-08-17,City Council Regular Meeting,minutes/2021/2021-08-16/2021-08-17_council-regular-meeting.md
+166,1,2021-08-17,City Council Study Meeting,minutes/2021/2021-08-16/2021-08-17_council-study-meeting.md
+167,4,2021-08-17,Redevelopment Agency Special Meeting,minutes/2021/2021-08-16/2021-08-17_redevelopment-agency-meeting.md
+168,1,2021-08-24,City Council Regular Meeting,minutes/2021/2021-08-23/2021-08-24_council-regular-meeting.md
+169,1,2021-08-24,City Council Study Meeting,minutes/2021/2021-08-23/2021-08-24_council-study-meeting.md
+170,1,2021-09-07,City Council Regular Meeting,minutes/2021/2021-09-06/2021-09-07_council-regular-meeting.md
+171,1,2021-09-07,City Council Study Meeting,minutes/2021/2021-09-06/2021-09-07_council-study-meeting.md
+172,1,2021-09-14,City Council Regular Meeting,minutes/2021/2021-09-13/2021-09-14_council-regular-meeting.md
+173,1,2021-09-14,City Council Study Meeting,minutes/2021/2021-09-13/2021-09-14_council-study-meeting.md
+174,4,2021-09-14,Redevelopment Agency Special Meeting,minutes/2021/2021-09-13/2021-09-14_redevelopment-agency-meeting.md
+175,1,2021-09-21,City Council Regular Meeting,minutes/2021/2021-09-20/2021-09-21_council-regular-meeting.md
+176,1,2021-09-21,City Council Study Meeting,minutes/2021/2021-09-20/2021-09-21_council-study-meeting.md
+177,1,2021-09-28,City Council Regular Meeting,minutes/2021/2021-09-27/2021-09-28_council-regular-meeting.md
+178,1,2021-09-28,City Council Study Meeting,minutes/2021/2021-09-27/2021-09-28_council-study-meeting.md
+179,1,2021-10-05,City Council Regular Meeting,minutes/2021/2021-10-04/2021-10-05_council-regular-meeting.md
+180,1,2021-10-05,City Council Study Meeting,minutes/2021/2021-10-04/2021-10-05_council-study-meeting.md
+181,4,2021-10-05,Redevelopment Agency Regular Meeting,minutes/2021/2021-10-04/2021-10-05_redevelopment-agency-meeting.md
+182,1,2021-10-12,City Council Regular Meeting,minutes/2021/2021-10-11/2021-10-12_council-regular-meeting.md
+183,1,2021-10-12,City Council Study Meeting,minutes/2021/2021-10-11/2021-10-12_council-study-meeting.md
+184,1,2021-10-19,City Council Regular Meeting,minutes/2021/2021-10-18/2021-10-19_council-regular-meeting.md
+185,1,2021-10-19,City Council Study Meeting,minutes/2021/2021-10-18/2021-10-19_council-study-meeting.md
+186,1,2021-10-26,City Council Regular Meeting,minutes/2021/2021-10-25/2021-10-26_council-regular-meeting.md
+187,1,2021-10-26,City Council Study Meeting,minutes/2021/2021-10-25/2021-10-26_council-study-meeting.md
+188,1,2021-11-09,City Council Regular Meeting,minutes/2021/2021-11-08/2021-11-09_council-regular-meeting.md
+189,1,2021-11-09,City Council Study Meeting,minutes/2021/2021-11-08/2021-11-09_council-study-meeting.md
+190,1,2021-11-16,City Council Regular Meeting,minutes/2021/2021-11-15/2021-11-16_council-regular-meeting.md
+191,1,2021-11-16,City Council Study Meeting,minutes/2021/2021-11-15/2021-11-16_council-study-meeting.md
+192,1,2021-11-23,City Council Regular Meeting,minutes/2021/2021-11-22/2021-11-23_council-regular-meeting.md
+193,1,2021-11-23,City Council Study Meeting,minutes/2021/2021-11-22/2021-11-23_council-study-meeting.md
+194,1,2021-12-07,City Council Regular Meeting,minutes/2021/2021-12-06/2021-12-07_council-regular-meeting.md
+195,1,2021-12-07,City Council Study Meeting,minutes/2021/2021-12-06/2021-12-07_council-study-meeting.md
+196,1,2021-12-14,City Council Regular Meeting,minutes/2021/2021-12-13/2021-12-14_council-regular-meeting.md
+197,1,2021-12-14,City Council Study Meeting,minutes/2021/2021-12-13/2021-12-14_council-study-meeting.md
+198,4,2021-12-14,Redevelopment Agency Special Meeting,minutes/2021/2021-12-13/2021-12-14_redevelopment-agency-meeting.md
+199,1,2022-01-04,City Council Regular Meeting,minutes/2022/2022-01-03/2022-01-04_council-regular-meeting.md
+200,1,2022-01-04,City Council Study Meeting,minutes/2022/2022-01-03/2022-01-04_council-study-meeting.md
+201,2,2022-01-04,Municipal Building Authority Regular Meeting,minutes/2022/2022-01-03/2022-01-04_municipal-building-authority-meeting.md
+202,4,2022-01-04,Redevelopment Agency Regular Meeting,minutes/2022/2022-01-03/2022-01-04_redevelopment-agency-meeting.md
+203,1,2022-01-11,City Council Regular Meeting,minutes/2022/2022-01-10/2022-01-11_council-regular-meeting.md
+204,1,2022-01-11,City Council Study Meeting,minutes/2022/2022-01-10/2022-01-11_council-study-meeting.md
+205,1,2022-01-18,City Council Regular Meeting,minutes/2022/2022-01-17/2022-01-18_council-regular-meeting.md
+206,1,2022-01-18,City Council Study Meeting,minutes/2022/2022-01-17/2022-01-18_council-study-meeting.md
+207,1,2022-01-25,City Council Regular Meeting,minutes/2022/2022-01-24/2022-01-25_council-regular-meeting.md
+208,1,2022-01-25,City Council Study Meeting,minutes/2022/2022-01-24/2022-01-25_council-study-meeting.md
+209,1,2022-02-01,City Council Regular Meeting,minutes/2022/2022-01-31/2022-02-01_council-regular-meeting.md
+210,1,2022-02-01,City Council Study Meeting,minutes/2022/2022-01-31/2022-02-01_council-study-meeting.md
+211,1,2022-02-08,City Council Regular Meeting,minutes/2022/2022-02-07/2022-02-08_council-regular-meeting.md
+212,1,2022-02-08,City Council Study Meeting,minutes/2022/2022-02-07/2022-02-08_council-study-meeting.md
+213,1,2022-02-15,City Council Regular Meeting,minutes/2022/2022-02-14/2022-02-15_council-regular-meeting.md
+214,1,2022-02-15,City Council Study Meeting,minutes/2022/2022-02-14/2022-02-15_council-study-meeting.md
+215,1,2022-02-22,City Council Regular Meeting,minutes/2022/2022-02-21/2022-02-22_council-regular-meeting.md
+216,1,2022-02-22,City Council Study Meeting,minutes/2022/2022-02-21/2022-02-22_council-study-meeting.md
+217,1,2022-03-01,City Council Regular Meeting,minutes/2022/2022-02-28/2022-03-01_council-regular-meeting.md
+218,1,2022-03-08,City Council Study Meeting,minutes/2022/2022-03-07/2022-03-08_council-study-meeting.md
+219,1,2022-03-15,City Council Regular Meeting,minutes/2022/2022-03-14/2022-03-15_council-regular-meeting.md
+220,1,2022-03-15,City Council Study Meeting,minutes/2022/2022-03-14/2022-03-15_council-study-meeting.md
+221,1,2022-03-22,City Council Study Meeting,minutes/2022/2022-03-21/2022-03-22_council-study-meeting.md
+222,1,2022-04-05,City Council Regular Meeting,minutes/2022/2022-04-04/2022-04-05_council-regular-meeting.md
+223,1,2022-04-05,City Council Study Meeting,minutes/2022/2022-04-04/2022-04-05_council-study-meeting.md
+224,1,2022-04-12,City Council Regular Meeting,minutes/2022/2022-04-11/2022-04-12_council-regular-meeting.md
+225,1,2022-04-12,City Council Study Meeting,minutes/2022/2022-04-11/2022-04-12_council-study-meeting.md
+226,1,2022-04-19,City Council Regular Meeting,minutes/2022/2022-04-18/2022-04-19_council-regular-meeting.md
+227,1,2022-04-19,City Council Study Meeting,minutes/2022/2022-04-18/2022-04-19_council-study-meeting.md
+228,1,2022-04-26,City Council Regular Meeting,minutes/2022/2022-04-25/2022-04-26_council-regular-meeting.md
+229,1,2022-04-26,City Council Study Meeting,minutes/2022/2022-04-25/2022-04-26_council-study-meeting.md
+230,2,2022-04-26,Municipal Building Authority Special Meeting,minutes/2022/2022-04-25/2022-04-26_municipal-building-authority-meeting.md
+231,1,2022-05-03,City Council Regular Meeting,minutes/2022/2022-05-02/2022-05-03_council-regular-meeting.md
+232,1,2022-05-03,City Council Study Meeting,minutes/2022/2022-05-02/2022-05-03_council-study-meeting.md
+233,2,2022-05-03,Municipal Building Authority Regular Meeting,minutes/2022/2022-05-02/2022-05-03_municipal-building-authority-meeting.md
+234,4,2022-05-03,Redevelopment Agency Regular Meeting,minutes/2022/2022-05-02/2022-05-03_redevelopment-agency-meeting.md
+235,1,2022-05-10,City Council Regular Meeting,minutes/2022/2022-05-09/2022-05-10_council-regular-meeting.md
+236,1,2022-05-10,City Council Study Meeting,minutes/2022/2022-05-09/2022-05-10_council-study-meeting.md
+237,1,2022-05-17,City Council Study Meeting,minutes/2022/2022-05-16/2022-05-17_council-study-meeting.md
+238,2,2022-05-17,Municipal Building Authority Special Meeting,minutes/2022/2022-05-16/2022-05-17_municipal-building-authority-meeting.md
+239,1,2022-05-24,City Council Regular Meeting,minutes/2022/2022-05-23/2022-05-24_council-regular-meeting.md
+240,1,2022-05-24,City Council Study Meeting,minutes/2022/2022-05-23/2022-05-24_council-study-meeting.md
+241,1,2022-06-07,City Council Regular Meeting,minutes/2022/2022-06-06/2022-06-07_council-regular-meeting.md
+242,1,2022-06-07,City Council Study Meeting,minutes/2022/2022-06-06/2022-06-07_council-study-meeting.md
+243,2,2022-06-07,Municipal Building Authority Regular Meeting,minutes/2022/2022-06-06/2022-06-07_municipal-building-authority-meeting.md
+244,4,2022-06-07,Redevelopment Agency Regular Meeting,minutes/2022/2022-06-06/2022-06-07_redevelopment-agency-meeting.md
+245,1,2022-06-14,City Council Regular Meeting,minutes/2022/2022-06-13/2022-06-14_council-regular-meeting.md
+246,1,2022-06-14,City Council Study Meeting,minutes/2022/2022-06-13/2022-06-14_council-study-meeting.md
+247,1,2022-06-21,City Council Regular Meeting,minutes/2022/2022-06-20/2022-06-21_council-regular-meeting.md
+248,1,2022-06-21,City Council Study Meeting,minutes/2022/2022-06-20/2022-06-21_council-study-meeting.md
+249,1,2022-06-28,City Council Regular Meeting,minutes/2022/2022-06-27/2022-06-28_council-regular-meeting.md
+250,1,2022-06-28,City Council Study Meeting,minutes/2022/2022-06-27/2022-06-28_council-study-meeting.md
+251,4,2022-06-28,Redevelopment Agency Special Meeting,minutes/2022/2022-06-27/2022-06-28_redevelopment-agency-meeting.md
+252,1,2022-07-05,City Council Regular Meeting,minutes/2022/2022-07-04/2022-07-05_council-regular-meeting.md
+253,1,2022-07-05,City Council Study Meeting,minutes/2022/2022-07-04/2022-07-05_council-study-meeting.md
+254,1,2022-07-12,City Council Regular Meeting,minutes/2022/2022-07-11/2022-07-12_council-regular-meeting.md
+255,1,2022-07-19,City Council Study Meeting,minutes/2022/2022-07-18/2022-07-19_council-study-meeting.md
+256,1,2022-07-26,City Council Regular Meeting,minutes/2022/2022-07-25/2022-07-26_council-regular-meeting.md
+257,1,2022-07-26,City Council Study Meeting,minutes/2022/2022-07-25/2022-07-26_council-study-meeting.md
+258,1,2022-08-09,City Council Regular Meeting,minutes/2022/2022-08-08/2022-08-09_council-regular-meeting.md
+259,1,2022-08-09,City Council Study Meeting,minutes/2022/2022-08-08/2022-08-09_council-study-meeting.md
+260,1,2022-08-16,City Council Regular Meeting,minutes/2022/2022-08-15/2022-08-16_council-regular-meeting.md
+261,1,2022-08-16,City Council Study Meeting,minutes/2022/2022-08-15/2022-08-16_council-study-meeting.md
+262,1,2022-08-23,City Council Regular Meeting,minutes/2022/2022-08-22/2022-08-23_council-regular-meeting.md
+263,1,2022-08-23,City Council Study Meeting,minutes/2022/2022-08-22/2022-08-23_council-study-meeting.md
+264,4,2022-08-23,Redevelopment Agency Special Meeting,minutes/2022/2022-08-22/2022-08-23_redevelopment-agency-meeting.md
+265,1,2022-09-06,City Council Regular Meeting,minutes/2022/2022-09-05/2022-09-06_council-regular-meeting.md
+266,1,2022-09-06,City Council Study Meeting,minutes/2022/2022-09-05/2022-09-06_council-study-meeting.md
+267,4,2022-09-06,Redevelopment Agency Special Meeting,minutes/2022/2022-09-05/2022-09-06_redevelopment-agency-meeting.md
+268,1,2022-09-13,City Council Regular Meeting,minutes/2022/2022-09-12/2022-09-13_council-regular-meeting.md
+269,1,2022-09-13,City Council Study Meeting,minutes/2022/2022-09-12/2022-09-13_council-study-meeting.md
+270,1,2022-09-20,City Council Regular Meeting,minutes/2022/2022-09-19/2022-09-20_council-regular-meeting.md
+271,1,2022-09-20,City Council Study Meeting,minutes/2022/2022-09-19/2022-09-20_council-study-meeting.md
+272,1,2022-09-27,City Council Regular Meeting,minutes/2022/2022-09-26/2022-09-27_council-regular-meeting.md
+273,1,2022-09-27,City Council Study Meeting,minutes/2022/2022-09-26/2022-09-27_council-study-meeting.md
+274,1,2022-10-04,City Council Regular Meeting,minutes/2022/2022-10-03/2022-10-04_council-regular-meeting.md
+275,1,2022-10-04,City Council Study Meeting,minutes/2022/2022-10-03/2022-10-04_council-study-meeting.md
+276,2,2022-10-04,Municipal Building Authority Regular Meeting,minutes/2022/2022-10-03/2022-10-04_municipal-building-authority-meeting.md
+277,4,2022-10-04,Redevelopment Agency Regular Meeting,minutes/2022/2022-10-03/2022-10-04_redevelopment-agency-meeting.md
+278,1,2022-10-11,City Council Regular Meeting,minutes/2022/2022-10-10/2022-10-11_council-regular-meeting.md
+279,1,2022-10-25,City Council Regular Meeting,minutes/2022/2022-10-24/2022-10-25_council-regular-meeting.md
+280,1,2022-10-25,City Council Study Meeting,minutes/2022/2022-10-24/2022-10-25_council-study-meeting.md
+281,1,2022-11-01,City Council Regular Meeting,minutes/2022/2022-10-31/2022-11-01_council-regular-meeting.md
+282,1,2022-11-01,City Council Study Meeting,minutes/2022/2022-10-31/2022-11-01_council-study-meeting.md
+283,1,2022-11-08,City Council Special Meeting,minutes/2022/2022-11-07/2022-11-08_council-special-meeting.md
+284,1,2022-11-15,City Council Regular Meeting,minutes/2022/2022-11-14/2022-11-15_council-regular-meeting.md
+285,1,2022-11-15,City Council Study Meeting,minutes/2022/2022-11-14/2022-11-15_council-study-meeting.md
+286,1,2022-11-22,City Council Regular Meeting,minutes/2022/2022-11-21/2022-11-22_council-regular-meeting.md
+287,1,2022-11-22,City Council Study Meeting,minutes/2022/2022-11-21/2022-11-22_council-study-meeting.md
+288,1,2022-12-06,City Council Regular Meeting,minutes/2022/2022-12-05/2022-12-06_council-regular-meeting.md
+289,1,2022-12-06,City Council Study Meeting,minutes/2022/2022-12-05/2022-12-06_council-study-meeting.md
+290,1,2022-12-13,City Council Regular Meeting,minutes/2022/2022-12-12/2022-12-13_council-regular-meeting.md
+291,1,2022-12-13,City Council Study Meeting,minutes/2022/2022-12-12/2022-12-13_council-study-meeting.md
+292,1,2023-01-03,City Council Regular Meeting,minutes/2023/2023-01-02/2023-01-03_council-regular-meeting.md
+293,1,2023-01-03,City Council Study Meeting,minutes/2023/2023-01-02/2023-01-03_council-study-meeting.md
+294,2,2023-01-03,Municipal Building Authority Regular Meeting,minutes/2023/2023-01-02/2023-01-03_municipal-building-authority-meeting.md
+295,4,2023-01-03,Redevelopment Agency Regular Meeting,minutes/2023/2023-01-02/2023-01-03_redevelopment-agency-meeting.md
+296,1,2023-01-10,City Council Regular Meeting,minutes/2023/2023-01-09/2023-01-10_council-regular-meeting.md
+297,1,2023-01-10,City Council Study Meeting,minutes/2023/2023-01-09/2023-01-10_council-study-meeting.md
+298,1,2023-01-17,City Council Study Meeting,minutes/2023/2023-01-16/2023-01-17_council-study-meeting.md
+299,1,2023-01-24,City Council Regular Meeting,minutes/2023/2023-01-23/2023-01-24_council-regular-meeting.md
+300,1,2023-01-24,City Council Study Meeting,minutes/2023/2023-01-23/2023-01-24_council-study-meeting.md
+301,1,2023-02-07,City Council Regular Meeting,minutes/2023/2023-02-06/2023-02-07_council-regular-meeting.md
+302,1,2023-02-07,City Council Study Meeting,minutes/2023/2023-02-06/2023-02-07_council-study-meeting.md
+303,1,2023-02-14,City Council Study Meeting,minutes/2023/2023-02-13/2023-02-14_council-study-meeting.md
+304,1,2023-02-21,City Council Regular Meeting,minutes/2023/2023-02-20/2023-02-21_council-regular-meeting.md
+305,1,2023-02-21,City Council Study Meeting,minutes/2023/2023-02-20/2023-02-21_council-study-meeting.md
+306,1,2023-02-28,City Council Study Meeting,minutes/2023/2023-02-27/2023-02-28_council-study-meeting.md
+307,1,2023-03-07,City Council Regular Meeting,minutes/2023/2023-03-06/2023-03-07_council-regular-meeting.md
+308,1,2023-03-07,City Council Study Meeting,minutes/2023/2023-03-06/2023-03-07_council-study-meeting.md
+309,1,2023-03-14,City Council Regular Meeting,minutes/2023/2023-03-13/2023-03-14_council-regular-meeting.md
+310,1,2023-03-14,City Council Study Meeting,minutes/2023/2023-03-13/2023-03-14_council-study-meeting.md
+311,1,2023-03-21,City Council Study Meeting,minutes/2023/2023-03-20/2023-03-21_council-study-meeting.md
+312,1,2023-03-28,City Council Regular Meeting,minutes/2023/2023-03-27/2023-03-28_council-regular-meeting.md
+313,1,2023-03-28,City Council Study Meeting,minutes/2023/2023-03-27/2023-03-28_council-study-meeting.md
+314,1,2023-04-04,City Council Regular Meeting,minutes/2023/2023-04-03/2023-04-04_council-regular-meeting.md
+315,1,2023-04-04,City Council Study Meeting,minutes/2023/2023-04-03/2023-04-04_council-study-meeting.md
+316,2,2023-04-04,Municipal Building Authority Regular Meeting,minutes/2023/2023-04-03/2023-04-04_municipal-building-authority-meeting.md
+317,4,2023-04-04,Redevelopment Agency Regular Meeting,minutes/2023/2023-04-03/2023-04-04_redevelopment-agency-meeting.md
+318,1,2023-04-11,City Council Regular Meeting,minutes/2023/2023-04-10/2023-04-11_council-regular-meeting.md
+319,1,2023-04-11,City Council Study Meeting,minutes/2023/2023-04-10/2023-04-11_council-study-meeting.md
+320,1,2023-04-18,City Council Study Meeting,minutes/2023/2023-04-17/2023-04-18_council-study-meeting.md
+321,1,2023-04-25,City Council Study Meeting,minutes/2023/2023-04-24/2023-04-25_council-study-meeting.md
+322,1,2023-05-02,City Council Regular Meeting,minutes/2023/2023-05-01/2023-05-02_council-regular-meeting.md
+323,1,2023-05-02,City Council Study Meeting,minutes/2023/2023-05-01/2023-05-02_council-study-meeting.md
+324,2,2023-05-02,Municipal Building Authority Regular Meeting,minutes/2023/2023-05-01/2023-05-02_municipal-building-authority-meeting.md
+325,4,2023-05-02,Redevelopment Agency Regular Meeting,minutes/2023/2023-05-01/2023-05-02_redevelopment-agency-meeting.md
+326,1,2023-05-09,City Council Study Meeting,minutes/2023/2023-05-08/2023-05-09_council-study-meeting.md
+327,1,2023-05-16,City Council Regular Meeting,minutes/2023/2023-05-15/2023-05-16_council-regular-meeting.md
+328,1,2023-05-16,City Council Study Meeting,minutes/2023/2023-05-15/2023-05-16_council-study-meeting.md
+329,1,2023-05-23,City Council Regular Meeting,minutes/2023/2023-05-22/2023-05-23_council-regular-meeting.md
+330,1,2023-05-23,City Council Study Meeting,minutes/2023/2023-05-22/2023-05-23_council-study-meeting.md
+331,1,2023-06-06,City Council Regular Meeting,minutes/2023/2023-06-05/2023-06-06_council-regular-meeting.md
+332,1,2023-06-06,City Council Study Meeting,minutes/2023/2023-06-05/2023-06-06_council-study-meeting.md
+333,2,2023-06-06,Municipal Building Authority Regular Meeting,minutes/2023/2023-06-05/2023-06-06_municipal-building-authority-meeting.md
+334,4,2023-06-06,Redevelopment Agency Regular Meeting,minutes/2023/2023-06-05/2023-06-06_redevelopment-agency-meeting.md
+335,1,2023-06-13,City Council Regular Meeting,minutes/2023/2023-06-12/2023-06-13_council-regular-meeting.md
+336,1,2023-06-13,City Council Study Meeting,minutes/2023/2023-06-12/2023-06-13_council-study-meeting.md
+337,2,2023-06-13,Municipal Building Authority Special Meeting,minutes/2023/2023-06-12/2023-06-13_municipal-building-authority-meeting.md
+338,1,2023-06-20,City Council Regular Meeting,minutes/2023/2023-06-19/2023-06-20_council-regular-meeting.md
+339,1,2023-06-20,City Council Study Meeting,minutes/2023/2023-06-19/2023-06-20_council-study-meeting.md
+340,2,2023-06-20,Municipal Building Authority Special Meeting,minutes/2023/2023-06-19/2023-06-20_municipal-building-authority-meeting.md
+341,1,2023-06-27,City Council Regular Meeting,minutes/2023/2023-06-26/2023-06-27_council-regular-meeting.md
+342,4,2023-06-27,Redevelopment Agency Special Meeting,minutes/2023/2023-06-26/2023-06-27_redevelopment-agency-meeting.md
+343,1,2023-07-11,City Council Study Meeting,minutes/2023/2023-07-10/2023-07-11_council-study-meeting.md
+344,1,2023-07-18,City Council Regular Meeting,minutes/2023/2023-07-17/2023-07-18_council-regular-meeting.md
+345,1,2023-07-18,City Council Study Meeting,minutes/2023/2023-07-17/2023-07-18_council-study-meeting.md
+346,2,2023-07-18,Municipal Building Authority Special Meeting,minutes/2023/2023-07-17/2023-07-18_municipal-building-authority-meeting.md
+347,1,2023-07-25,City Council Regular Meeting,minutes/2023/2023-07-24/2023-07-25_council-regular-meeting.md
+348,1,2023-08-15,City Council Study Meeting,minutes/2023/2023-08-14/2023-08-15_council-study-meeting.md
+349,1,2023-08-22,City Council Regular Meeting,minutes/2023/2023-08-21/2023-08-22_council-regular-meeting.md
+350,1,2023-08-22,City Council Study Meeting,minutes/2023/2023-08-21/2023-08-22_council-study-meeting.md
+351,1,2023-09-05,City Council Regular Meeting,minutes/2023/2023-09-04/2023-09-05_council-regular-meeting.md
+352,1,2023-09-05,City Council Study Meeting,minutes/2023/2023-09-04/2023-09-05_council-study-meeting.md
+353,1,2023-09-12,City Council Regular Meeting,minutes/2023/2023-09-11/2023-09-12_council-regular-meeting.md
+354,1,2023-09-12,City Council Study Meeting,minutes/2023/2023-09-11/2023-09-12_council-study-meeting.md
+355,1,2023-09-19,City Council Regular Meeting,minutes/2023/2023-09-18/2023-09-19_council-regular-meeting.md
+356,1,2023-09-19,City Council Study Meeting,minutes/2023/2023-09-18/2023-09-19_council-study-meeting.md
+357,1,2023-09-26,City Council Study Meeting,minutes/2023/2023-09-25/2023-09-26_council-study-meeting.md
+358,1,2023-10-03,City Council Regular Meeting,minutes/2023/2023-10-02/2023-10-03_council-regular-meeting.md
+359,1,2023-10-03,City Council Study Meeting,minutes/2023/2023-10-02/2023-10-03_council-study-meeting.md
+360,1,2023-10-10,City Council Regular Meeting,minutes/2023/2023-10-09/2023-10-10_council-regular-meeting.md
+361,1,2023-10-17,City Council Study Meeting,minutes/2023/2023-10-16/2023-10-17_council-study-meeting.md
+362,1,2023-10-24,City Council Regular Meeting,minutes/2023/2023-10-23/2023-10-24_council-regular-meeting.md
+363,1,2023-10-24,City Council Study Meeting,minutes/2023/2023-10-23/2023-10-24_council-study-meeting.md
+364,1,2023-11-07,City Council Special Regular Meeting,minutes/2023/2023-11-06/2023-11-07_council-special-regular-meeting.md
+365,1,2023-11-07,City Council Special Study Meeting,minutes/2023/2023-11-06/2023-11-07_council-special-study-meeting.md
+366,1,2023-11-14,City Council Regular Meeting,minutes/2023/2023-11-13/2023-11-14_council-regular-meeting.md
+367,1,2023-11-14,City Council Study Meeting,minutes/2023/2023-11-13/2023-11-14_council-study-meeting.md
+368,1,2023-11-28,City Council Study Meeting,minutes/2023/2023-11-27/2023-11-28_council-study-meeting.md
+369,1,2023-12-05,City Council Regular Meeting,minutes/2023/2023-12-04/2023-12-05_council-regular-meeting.md
+370,4,2023-12-05,Redevelopment Agency Special Meeting,minutes/2023/2023-12-04/2023-12-05_redevelopment-agency-meeting.md
+371,1,2023-12-12,City Council Study Meeting,minutes/2023/2023-12-11/2023-12-12_council-study-meeting.md
+372,1,2024-01-02,City Council Regular Meeting,minutes/2024/2024-01-01/2024-01-02_council-regular-meeting.md
+373,1,2024-01-02,City Council Study Meeting,minutes/2024/2024-01-01/2024-01-02_council-study-meeting.md
+374,2,2024-01-02,Municipal Building Authority Regular Meeting,minutes/2024/2024-01-01/2024-01-02_municipal-building-authority-meeting.md
+375,4,2024-01-02,Redevelopment Agency Regular Meeting,minutes/2024/2024-01-01/2024-01-02_redevelopment-agency-meeting.md
+376,1,2024-01-09,City Council Regular Meeting,minutes/2024/2024-01-08/2024-01-09_council-regular-meeting.md
+377,1,2024-01-09,City Council Study Meeting,minutes/2024/2024-01-08/2024-01-09_council-study-meeting.md
+378,1,2024-01-16,City Council Study Meeting,minutes/2024/2024-01-15/2024-01-16_council-study-meeting.md
+379,1,2024-01-23,City Council Regular Meeting,minutes/2024/2024-01-22/2024-01-23_council-regular-meeting.md
+380,1,2024-01-23,City Council Study Meeting,minutes/2024/2024-01-22/2024-01-23_council-study-meeting.md
+381,1,2024-02-06,City Council Regular Meeting,minutes/2024/2024-02-05/2024-02-06_council-regular-meeting.md
+382,1,2024-02-06,City Council Study Meeting,minutes/2024/2024-02-05/2024-02-06_council-study-meeting.md
+383,1,2024-02-13,City Council Special Meeting,minutes/2024/2024-02-12/2024-02-13_council-special-meeting.md
+384,1,2024-02-20,City Council Regular Meeting,minutes/2024/2024-02-19/2024-02-20_council-regular-meeting.md
+385,1,2024-02-20,City Council Study Meeting,minutes/2024/2024-02-19/2024-02-20_council-study-meeting.md
+386,1,2024-02-23,Strategic Planning Meeting,minutes/2024/2024-02-19/2024-02-23_strategic-planning-meeting.md
+387,1,2024-02-27,City Council Regular Meeting,minutes/2024/2024-02-26/2024-02-27_council-regular-meeting.md
+388,1,2024-02-27,City Council Study Meeting,minutes/2024/2024-02-26/2024-02-27_council-study-meeting.md
+389,1,2024-03-12,City Council Regular Meeting,minutes/2024/2024-03-11/2024-03-12_council-regular-meeting.md
+390,1,2024-03-12,City Council Study Meeting,minutes/2024/2024-03-11/2024-03-12_council-study-meeting.md
+391,1,2024-03-19,City Council Regular Meeting,minutes/2024/2024-03-18/2024-03-19_council-regular-meeting.md
+392,1,2024-03-19,City Council Study Meeting,minutes/2024/2024-03-18/2024-03-19_council-study-meeting.md
+393,1,2024-03-26,City Council Regular Meeting,minutes/2024/2024-03-25/2024-03-26_council-regular-meeting.md
+394,1,2024-03-26,City Council Study Meeting,minutes/2024/2024-03-25/2024-03-26_council-study-meeting.md
+395,1,2024-04-02,City Council Regular Meeting,minutes/2024/2024-04-01/2024-04-02_council-regular-meeting.md
+396,1,2024-04-02,City Council Study Meeting,minutes/2024/2024-04-01/2024-04-02_council-study-meeting.md
+397,1,2024-04-09,City Council Regular Meeting,minutes/2024/2024-04-08/2024-04-09_council-regular-meeting.md
+398,1,2024-04-09,City Council Study Meeting,minutes/2024/2024-04-08/2024-04-09_council-study-meeting.md
+399,1,2024-04-16,City Council Regular Meeting,minutes/2024/2024-04-15/2024-04-16_council-regular-meeting.md
+400,1,2024-04-16,City Council Study Meeting,minutes/2024/2024-04-15/2024-04-16_council-study-meeting.md
+401,1,2024-04-23,City Council Regular Meeting,minutes/2024/2024-04-22/2024-04-23_council-regular-meeting.md
+402,1,2024-04-23,City Council Study Meeting,minutes/2024/2024-04-22/2024-04-23_council-study-meeting.md
+403,1,2024-05-07,City Council Regular Meeting,minutes/2024/2024-05-06/2024-05-07_council-regular-meeting.md
+404,1,2024-05-07,City Council Study Meeting,minutes/2024/2024-05-06/2024-05-07_council-study-meeting.md
+405,2,2024-05-07,Municipal Building Authority Regular Meeting,minutes/2024/2024-05-06/2024-05-07_municipal-building-authority-meeting.md
+406,4,2024-05-07,Redevelopment Agency Regular Meeting,minutes/2024/2024-05-06/2024-05-07_redevelopment-agency-meeting.md
+407,1,2024-05-14,City Council Regular Meeting,minutes/2024/2024-05-13/2024-05-14_council-regular-meeting.md
+408,1,2024-05-14,City Council Study Meeting,minutes/2024/2024-05-13/2024-05-14_council-study-meeting.md
+409,1,2024-05-21,City Council Regular Meeting,minutes/2024/2024-05-20/2024-05-21_council-regular-meeting.md
+410,1,2024-05-21,City Council Study Meeting,minutes/2024/2024-05-20/2024-05-21_council-study-meeting.md
+411,1,2024-05-28,City Council Regular Meeting,minutes/2024/2024-05-27/2024-05-28_council-regular-meeting.md
+412,1,2024-05-28,City Council Study Meeting,minutes/2024/2024-05-27/2024-05-28_council-study-meeting.md
+413,1,2024-06-04,City Council Regular Meeting,minutes/2024/2024-06-03/2024-06-04_council-regular-meeting.md
+414,1,2024-06-04,City Council Study Meeting,minutes/2024/2024-06-03/2024-06-04_council-study-meeting.md
+415,2,2024-06-04,Municipal Building Authority Regular Meeting,minutes/2024/2024-06-03/2024-06-04_municipal-building-authority-meeting.md
+416,4,2024-06-04,Redevelopment Agency Regular Meeting,minutes/2024/2024-06-03/2024-06-04_redevelopment-agency-meeting.md
+417,1,2024-06-11,City Council Regular Meeting,minutes/2024/2024-06-10/2024-06-11_council-regular-meeting.md
+418,1,2024-06-11,City Council Study Meeting,minutes/2024/2024-06-10/2024-06-11_council-study-meeting.md
+419,1,2024-06-18,City Council Regular Meeting,minutes/2024/2024-06-17/2024-06-18_council-regular-meeting.md
+420,1,2024-06-18,City Council Study Meeting,minutes/2024/2024-06-17/2024-06-18_council-study-meeting.md
+421,1,2024-06-25,City Council Regular Meeting,minutes/2024/2024-06-24/2024-06-25_council-regular-meeting.md
+422,1,2024-06-25,City Council Study Meeting,minutes/2024/2024-06-24/2024-06-25_council-study-meeting.md
+423,1,2024-07-02,City Council Regular Meeting,minutes/2024/2024-07-01/2024-07-02_council-regular-meeting.md
+424,1,2024-07-02,City Council Study Meeting,minutes/2024/2024-07-01/2024-07-02_council-study-meeting.md
+425,1,2024-07-09,City Council Regular Meeting,minutes/2024/2024-07-08/2024-07-09_council-regular-meeting.md
+426,1,2024-07-09,City Council Study Meeting,minutes/2024/2024-07-08/2024-07-09_council-study-meeting.md
+427,1,2024-07-16,City Council Regular Meeting,minutes/2024/2024-07-15/2024-07-16_council-regular-meeting.md
+428,1,2024-07-16,City Council Study Meeting,minutes/2024/2024-07-15/2024-07-16_council-study-meeting.md
+429,1,2024-07-23,City Council Regular Meeting,minutes/2024/2024-07-22/2024-07-23_council-regular-meeting.md
+430,1,2024-07-23,City Council Study Meeting,minutes/2024/2024-07-22/2024-07-23_council-study-meeting.md
+431,1,2024-08-13,City Council Regular Meeting,minutes/2024/2024-08-12/2024-08-13_council-regular-meeting.md
+432,1,2024-08-13,City Council Study Meeting,minutes/2024/2024-08-12/2024-08-13_council-study-meeting.md
+433,1,2024-08-20,City Council Regular Meeting,minutes/2024/2024-08-19/2024-08-20_council-regular-meeting.md
+434,1,2024-08-20,City Council Study Meeting,minutes/2024/2024-08-19/2024-08-20_council-study-meeting.md
+435,4,2024-08-20,Redevelopment Agency Special Meeting,minutes/2024/2024-08-19/2024-08-20_redevelopment-agency-meeting.md
+436,1,2024-08-27,City Council Regular Meeting,minutes/2024/2024-08-26/2024-08-27_council-regular-meeting.md
+437,1,2024-08-27,City Council Study Meeting,minutes/2024/2024-08-26/2024-08-27_council-study-meeting.md
+438,1,2024-09-03,City Council Regular Meeting,minutes/2024/2024-09-02/2024-09-03_council-regular-meeting.md
+439,1,2024-09-03,City Council Study Meeting,minutes/2024/2024-09-02/2024-09-03_council-study-meeting.md
+440,4,2024-09-03,Redevelopment Agency Special Meeting,minutes/2024/2024-09-02/2024-09-03_redevelopment-agency-meeting.md
+441,1,2024-09-10,City Council Regular Meeting,minutes/2024/2024-09-09/2024-09-10_council-regular-meeting.md
+442,1,2024-09-10,City Council Study Meeting,minutes/2024/2024-09-09/2024-09-10_council-study-meeting.md
+443,1,2024-09-17,City Council Regular Meeting,minutes/2024/2024-09-16/2024-09-17_council-regular-meeting.md
+444,1,2024-09-17,City Council Study Meeting,minutes/2024/2024-09-16/2024-09-17_council-study-meeting.md
+445,1,2024-09-24,City Council Regular Meeting,minutes/2024/2024-09-23/2024-09-24_council-regular-meeting.md
+446,1,2024-09-24,City Council Study Meeting,minutes/2024/2024-09-23/2024-09-24_council-study-meeting.md
+447,4,2024-09-24,Redevelopment Agency Special Meeting,minutes/2024/2024-09-23/2024-09-24_redevelopment-agency-meeting.md
+448,1,2024-10-08,City Council Regular Meeting,minutes/2024/2024-10-07/2024-10-08_council-regular-meeting.md
+449,1,2024-10-08,City Council Study Meeting,minutes/2024/2024-10-07/2024-10-08_council-study-meeting.md
+450,1,2024-10-22,City Council Regular Meeting,minutes/2024/2024-10-21/2024-10-22_council-regular-meeting.md
+451,1,2024-10-22,City Council Study Meeting,minutes/2024/2024-10-21/2024-10-22_council-study-meeting.md
+452,1,2024-11-12,City Council Regular Meeting,minutes/2024/2024-11-11/2024-11-12_council-regular-meeting.md
+453,1,2024-11-12,City Council Study Meeting,minutes/2024/2024-11-11/2024-11-12_council-study-meeting.md
+454,1,2024-11-26,City Council Regular Meeting,minutes/2024/2024-11-25/2024-11-26_council-regular-meeting.md
+455,1,2024-11-26,City Council Study Meeting,minutes/2024/2024-11-25/2024-11-26_council-study-meeting.md
+456,1,2024-12-10,City Council Regular Meeting,minutes/2024/2024-12-09/2024-12-10_council-regular-meeting.md
+457,1,2024-12-10,City Council Study Meeting,minutes/2024/2024-12-09/2024-12-10_council-study-meeting.md
+458,1,2025-01-14,City Council Regular Meeting,minutes/2025/2025-01-13/2025-01-14_council-regular-meeting.md
+459,1,2025-01-14,City Council Study Meeting,minutes/2025/2025-01-13/2025-01-14_council-study-meeting.md
+460,2,2025-01-14,Municipal Building Authority Regular Meeting,minutes/2025/2025-01-13/2025-01-14_municipal-building-authority-meeting.md
+461,4,2025-01-14,Redevelopment Agency Regular Meeting,minutes/2025/2025-01-13/2025-01-14_redevelopment-agency-meeting.md
+462,1,2025-01-28,City Council Regular Meeting,minutes/2025/2025-01-27/2025-01-28_council-regular-meeting.md
+463,1,2025-01-28,City Council Study Meeting,minutes/2025/2025-01-27/2025-01-28_council-study-meeting.md
+464,1,2025-02-11,City Council Regular Meeting,minutes/2025/2025-02-10/2025-02-11_council-regular-meeting.md
+465,1,2025-02-11,City Council Study Meeting,minutes/2025/2025-02-10/2025-02-11_council-study-meeting.md
+466,1,2025-02-25,City Council Regular Meeting,minutes/2025/2025-02-24/2025-02-25_council-regular-meeting.md
+467,1,2025-02-25,City Council Study Meeting,minutes/2025/2025-02-24/2025-02-25_council-study-meeting.md
+468,4,2025-02-25,Redevelopment Agency Special Meeting,minutes/2025/2025-02-24/2025-02-25_redevelopment-agency-meeting.md
+469,1,2025-03-11,City Council Regular Meeting,minutes/2025/2025-03-10/2025-03-11_council-regular-meeting.md
+470,1,2025-03-11,City Council Study Meeting,minutes/2025/2025-03-10/2025-03-11_council-study-meeting.md
+471,1,2025-03-25,City Council Regular Meeting,minutes/2025/2025-03-24/2025-03-25_council-regular-meeting.md
+472,1,2025-03-25,City Council Study Meeting,minutes/2025/2025-03-24/2025-03-25_council-study-meeting.md
+473,1,2025-04-08,City Council Regular Meeting,minutes/2025/2025-04-07/2025-04-08_council-regular-meeting.md
+474,1,2025-04-08,City Council Study Meeting,minutes/2025/2025-04-07/2025-04-08_council-study-meeting.md
+475,2,2025-04-08,Municipal Building Authority Regular Meeting,minutes/2025/2025-04-07/2025-04-08_municipal-building-authority-meeting.md
+476,4,2025-04-08,Redevelopment Agency Regular Meeting,minutes/2025/2025-04-07/2025-04-08_redevelopment-agency-meeting.md
+477,1,2025-04-22,City Council Regular Meeting,minutes/2025/2025-04-21/2025-04-22_council-regular-meeting.md
+478,1,2025-04-22,City Council Study Meeting,minutes/2025/2025-04-21/2025-04-22_council-study-meeting.md
+479,1,2025-05-06,City Council Regular Meeting,minutes/2025/2025-05-05/2025-05-06_council-regular-meeting.md
+480,1,2025-05-06,City Council Study Meeting,minutes/2025/2025-05-05/2025-05-06_council-study-meeting.md
+481,2,2025-05-06,Municipal Building Authority Regular Meeting,minutes/2025/2025-05-05/2025-05-06_municipal-building-authority-meeting.md
+482,4,2025-05-06,Redevelopment Agency Regular Meeting,minutes/2025/2025-05-05/2025-05-06_redevelopment-agency-meeting.md
+483,1,2025-05-13,City Council Regular Meeting,minutes/2025/2025-05-12/2025-05-13_council-regular-meeting.md
+484,1,2025-05-13,City Council Study Meeting,minutes/2025/2025-05-12/2025-05-13_council-study-meeting.md
+485,1,2025-05-27,City Council Regular Meeting,minutes/2025/2025-05-26/2025-05-27_council-regular-meeting.md
+486,1,2025-05-27,City Council Study Meeting,minutes/2025/2025-05-26/2025-05-27_council-study-meeting.md
+487,1,2025-06-10,City Council Regular Meeting,minutes/2025/2025-06-09/2025-06-10_council-regular-meeting.md
+488,1,2025-06-10,City Council Study Meeting,minutes/2025/2025-06-09/2025-06-10_council-study-meeting.md
+489,2,2025-06-10,Municipal Building Authority Regular Meeting,minutes/2025/2025-06-09/2025-06-10_municipal-building-authority-meeting.md
+490,4,2025-06-10,Redevelopment Agency Regular Meeting,minutes/2025/2025-06-09/2025-06-10_redevelopment-agency-meeting.md
+491,1,2025-06-24,City Council Regular Meeting,minutes/2025/2025-06-23/2025-06-24_council-regular-meeting.md
+492,1,2025-06-24,City Council Study Meeting,minutes/2025/2025-06-23/2025-06-24_council-study-meeting.md
+493,1,2025-07-08,City Council Regular Meeting,minutes/2025/2025-07-07/2025-07-08_council-regular-meeting.md
+494,1,2025-07-08,City Council Study Meeting,minutes/2025/2025-07-07/2025-07-08_council-study-meeting.md
+495,1,2025-07-22,City Council Regular Meeting,minutes/2025/2025-07-21/2025-07-22_council-regular-meeting.md
+496,1,2025-07-22,City Council Study Meeting,minutes/2025/2025-07-21/2025-07-22_council-study-meeting.md
+497,4,2025-07-22,Redevelopment Agency Special Meeting,minutes/2025/2025-07-21/2025-07-22_redevelopment-agency-meeting.md
+498,1,2025-08-12,City Council Regular Meeting,minutes/2025/2025-08-11/2025-08-12_council-regular-meeting.md
+499,1,2025-08-12,City Council Study Meeting,minutes/2025/2025-08-11/2025-08-12_council-study-meeting.md
+500,1,2025-08-19,City Council Special Meeting,minutes/2025/2025-08-18/2025-08-19_council-special-meeting.md
+501,1,2025-08-26,City Council Regular Meeting,minutes/2025/2025-08-25/2025-08-26_council-regular-meeting.md
+502,1,2025-08-26,City Council Study Meeting,minutes/2025/2025-08-25/2025-08-26_council-study-meeting.md
+503,4,2025-08-26,Redevelopment Agency Special Meeting,minutes/2025/2025-08-25/2025-08-26_redevelopment-agency-meeting.md
+504,1,2025-09-09,City Council Regular Meeting,minutes/2025/2025-09-08/2025-09-09_council-regular-meeting.md
+505,1,2025-09-09,City Council Study Meeting,minutes/2025/2025-09-08/2025-09-09_council-study-meeting.md
+506,1,2025-09-23,City Council Regular Meeting,minutes/2025/2025-09-22/2025-09-23_council-regular-meeting.md
+507,1,2025-09-23,City Council Study Meeting,minutes/2025/2025-09-22/2025-09-23_council-study-meeting.md
+508,1,2025-10-14,City Council Regular Meeting,minutes/2025/2025-10-13/2025-10-14_council-regular-meeting.md
+509,1,2025-10-14,City Council Study Meeting,minutes/2025/2025-10-13/2025-10-14_council-study-meeting.md
+510,2,2025-10-14,Municipal Building Authority Regular Meeting,minutes/2025/2025-10-13/2025-10-14_municipal-building-authority-meeting.md
+511,1,2025-10-28,City Council Regular Meeting,minutes/2025/2025-10-27/2025-10-28_council-regular-meeting.md
+512,1,2025-10-28,City Council Study Meeting,minutes/2025/2025-10-27/2025-10-28_council-study-meeting.md
+513,4,2025-10-28,Redevelopment Agency Special Meeting,minutes/2025/2025-10-27/2025-10-28_redevelopment-agency-meeting.md
+514,1,2025-11-18,City Council Regular Meeting,minutes/2025/2025-11-17/2025-11-18_council-regular-meeting.md
+515,1,2025-11-18,City Council Study Meeting,minutes/2025/2025-11-17/2025-11-18_council-study-meeting.md
+516,4,2025-11-18,Redevelopment Agency Special Meeting,minutes/2025/2025-11-17/2025-11-18_redevelopment-agency-meeting.md
+517,1,2025-11-25,City Council Regular Meeting,minutes/2025/2025-11-24/2025-11-25_council-regular-meeting.md
+518,1,2025-11-25,City Council Study Meeting,minutes/2025/2025-11-24/2025-11-25_council-study-meeting.md
+519,1,2025-12-09,City Council Regular Meeting,minutes/2025/2025-12-08/2025-12-09_council-regular-meeting.md
+520,1,2025-12-09,City Council Study Meeting,minutes/2025/2025-12-08/2025-12-09_council-study-meeting.md
+521,1,2026-01-13,City Council Regular Meeting,minutes/2026/2026-01-12/2026-01-13_council-regular-meeting.md
+522,1,2026-01-13,City Council Study Meeting,minutes/2026/2026-01-12/2026-01-13_council-study-meeting.md
+523,4,2026-01-13,Redevelopment Agency Regular Meeting,minutes/2026/2026-01-12/2026-01-13_redevelopment-agency-meeting.md
+524,1,2026-01-27,City Council Regular Meeting,minutes/2026/2026-01-26/2026-01-27_council-regular-meeting.md
+525,1,2026-01-27,City Council Study Meeting,minutes/2026/2026-01-26/2026-01-27_council-study-meeting.md
+526,1,2026-02-10,City Council Regular Meeting,minutes/2026/2026-02-09/2026-02-10_council-regular-meeting.md
+527,1,2026-02-10,City Council Study Meeting,minutes/2026/2026-02-09/2026-02-10_council-study-meeting.md
+528,1,2026-02-24,City Council Regular Meeting,minutes/2026/2026-02-23/2026-02-24_council-regular-meeting.md
+529,1,2026-02-24,City Council Study Meeting,minutes/2026/2026-02-23/2026-02-24_council-study-meeting.md
+530,1,2026-03-10,City Council Regular Meeting,minutes/2026/2026-03-09/2026-03-10_council-regular-meeting.md
+531,1,2026-03-10,City Council Study Meeting,minutes/2026/2026-03-09/2026-03-10_council-study-meeting.md
+532,1,2026-03-24,City Council Regular Meeting,minutes/2026/2026-03-23/2026-03-24_council-regular-meeting.md
+533,1,2026-03-24,City Council Study Meeting,minutes/2026/2026-03-23/2026-03-24_council-study-meeting.md
+534,1,2026-04-14,City Council Regular Meeting,minutes/2026/2026-04-13/2026-04-14_council-regular-meeting.md
+535,1,2026-04-14,City Council Study Meeting,minutes/2026/2026-04-13/2026-04-14_council-study-meeting.md
+536,2,2026-04-14,Municipal Building Authority Regular Meeting,minutes/2026/2026-04-13/2026-04-14_municipal-building-authority-meeting.md
+537,4,2026-04-14,Redevelopment Agency Regular Meeting,minutes/2026/2026-04-13/2026-04-14_redevelopment-agency-meeting.md
+538,1,2026-04-28,City Council Regular Meeting,minutes/2026/2026-04-27/2026-04-28_council-regular-meeting.md
+539,1,2026-04-28,City Council Study Meeting,minutes/2026/2026-04-27/2026-04-28_council-study-meeting.md
+540,1,2026-05-12,City Council Regular Meeting,minutes/2026/2026-05-11/2026-05-12_council-regular-meeting.md
+541,1,2026-05-12,City Council Study Meeting,minutes/2026/2026-05-11/2026-05-12_council-study-meeting.md
+542,1,2026-05-26,City Council Regular Meeting,minutes/2026/2026-05-25/2026-05-26_council-regular-meeting.md
+543,1,2026-05-26,City Council Study Meeting,minutes/2026/2026-05-25/2026-05-26_council-study-meeting.md
+544,2,2026-05-26,Municipal Building Authority Regular Meeting,minutes/2026/2026-05-25/2026-05-26_municipal-building-authority-meeting.md
+545,4,2026-05-26,Redevelopment Agency Special Meeting,minutes/2026/2026-05-25/2026-05-26_redevelopment-agency-meeting.md
+546,1,2026-06-09,City Council Regular Meeting,minutes/2026/2026-06-08/2026-06-09_council-regular-meeting.md
+547,1,2026-06-09,City Council Study Meeting,minutes/2026/2026-06-08/2026-06-09_council-study-meeting.md
+548,4,2026-06-09,Redevelopment Agency Regular Meeting,minutes/2026/2026-06-08/2026-06-09_redevelopment-agency-meeting.md
+549,1,2026-06-23,City Council Regular Meeting,minutes/2026/2026-06-22/2026-06-23_council-regular-meeting.md
+550,1,2026-06-23,City Council Study Meeting,minutes/2026/2026-06-22/2026-06-23_council-study-meeting.md
+551,3,2020-01-08,Planning Commission,minutes/2020/2020-01-06/2020-01-08_planning-commission-meeting.md
+552,3,2020-01-22,Planning Commission,minutes/2020/2020-01-20/2020-01-22_planning-commission-meeting.md
+553,3,2020-02-12,Planning Commission,minutes/2020/2020-02-10/2020-02-12_planning-commission-meeting.md
+554,3,2020-02-26,Planning Commission,minutes/2020/2020-02-24/2020-02-26_planning-commission-meeting.md
+555,3,2020-03-11,Planning Commission,minutes/2020/2020-03-09/2020-03-11_planning-commission-meeting.md
+556,3,2020-03-25,Planning Commission,minutes/2020/2020-03-23/2020-03-25_planning-commission-meeting.md
+557,3,2020-04-08,Planning Commission,minutes/2020/2020-04-06/2020-04-08_planning-commission-meeting.md
+558,3,2020-04-22,Planning Commission,minutes/2020/2020-04-20/2020-04-22_planning-commission-meeting.md
+559,3,2020-05-13,Planning Commission,minutes/2020/2020-05-11/2020-05-13_planning-commission-meeting.md
+560,3,2020-05-27,Planning Commission,minutes/2020/2020-05-25/2020-05-27_planning-commission-meeting.md
+561,3,2020-06-10,Planning Commission,minutes/2020/2020-06-08/2020-06-10_planning-commission-meeting.md
+562,3,2020-06-24,Planning Commission,minutes/2020/2020-06-22/2020-06-24_planning-commission-meeting.md
+563,3,2020-07-08,Planning Commission,minutes/2020/2020-07-06/2020-07-08_planning-commission-meeting.md
+564,3,2020-07-22,Planning Commission,minutes/2020/2020-07-20/2020-07-22_planning-commission-meeting.md
+565,3,2020-08-12,Planning Commission,minutes/2020/2020-08-10/2020-08-12_planning-commission-meeting.md
+566,3,2020-09-09,Planning Commission,minutes/2020/2020-09-07/2020-09-09_planning-commission-meeting.md
+567,3,2020-09-23,Planning Commission,minutes/2020/2020-09-21/2020-09-23_planning-commission-meeting.md
+568,3,2020-10-14,Planning Commission,minutes/2020/2020-10-12/2020-10-14_planning-commission-meeting.md
+569,3,2020-10-28,Planning Commission,minutes/2020/2020-10-26/2020-10-28_planning-commission-meeting.md
+570,3,2020-11-18,Planning Commission,minutes/2020/2020-11-16/2020-11-18_planning-commission-meeting.md
+571,3,2020-12-09,Planning Commission,minutes/2020/2020-12-07/2020-12-09_planning-commission-meeting.md
+572,3,2021-01-13,Planning Commission,minutes/2021/2021-01-11/2021-01-13_planning-commission-meeting.md
+573,3,2021-02-10,Planning Commission,minutes/2021/2021-02-08/2021-02-10_planning-commission-meeting.md
+574,3,2021-02-24,Planning Commission,minutes/2021/2021-02-22/2021-02-24_planning-commission-meeting.md
+575,3,2021-03-10,Planning Commission,minutes/2021/2021-03-08/2021-03-10_planning-commission-meeting.md
+576,3,2021-03-24,Planning Commission,minutes/2021/2021-03-22/2021-03-24_planning-commission-meeting.md
+577,3,2021-04-14,Planning Commission,minutes/2021/2021-04-12/2021-04-14_planning-commission-meeting.md
+578,3,2021-04-28,Planning Commission,minutes/2021/2021-04-26/2021-04-28_planning-commission-meeting.md
+579,3,2021-05-12,Planning Commission,minutes/2021/2021-05-10/2021-05-12_planning-commission-meeting.md
+580,3,2021-05-26,Planning Commission,minutes/2021/2021-05-24/2021-05-26_planning-commission-meeting.md
+581,3,2021-06-09,Planning Commission,minutes/2021/2021-06-07/2021-06-09_planning-commission-meeting.md
+582,3,2021-06-23,Planning Commission,minutes/2021/2021-06-21/2021-06-23_planning-commission-meeting.md
+583,3,2021-07-14,Planning Commission,minutes/2021/2021-07-12/2021-07-14_planning-commission-meeting.md
+584,3,2021-07-28,Planning Commission,minutes/2021/2021-07-26/2021-07-28_planning-commission-meeting.md
+585,3,2021-08-11,Planning Commission,minutes/2021/2021-08-09/2021-08-11_planning-commission-meeting.md
+586,3,2021-08-25,Planning Commission,minutes/2021/2021-08-23/2021-08-25_planning-commission-meeting.md
+587,3,2021-09-08,Planning Commission,minutes/2021/2021-09-06/2021-09-08_planning-commission-meeting.md
+588,3,2021-09-22,Planning Commission,minutes/2021/2021-09-20/2021-09-22_planning-commission-meeting.md
+589,3,2021-10-13,Planning Commission,minutes/2021/2021-10-11/2021-10-13_planning-commission-meeting.md
+590,3,2021-10-27,Planning Commission,minutes/2021/2021-10-25/2021-10-27_planning-commission-meeting.md
+591,3,2021-11-10,Planning Commission,minutes/2021/2021-11-08/2021-11-10_planning-commission-meeting.md
+592,3,2021-12-08,Planning Commission,minutes/2021/2021-12-06/2021-12-08_planning-commission-meeting.md
+593,3,2022-01-12,Planning Commission,minutes/2022/2022-01-10/2022-01-12_planning-commission-meeting.md
+594,3,2022-01-26,Planning Commission,minutes/2022/2022-01-24/2022-01-26_planning-commission-meeting.md
+595,3,2022-02-09,Planning Commission,minutes/2022/2022-02-07/2022-02-09_planning-commission-meeting.md
+596,3,2022-02-23,Planning Commission,minutes/2022/2022-02-21/2022-02-23_planning-commission-meeting.md
+597,3,2022-03-09,Planning Commission,minutes/2022/2022-03-07/2022-03-09_planning-commission-meeting.md
+598,3,2022-03-23,Planning Commission,minutes/2022/2022-03-21/2022-03-23_planning-commission-meeting.md
+599,3,2022-04-13,Planning Commission,minutes/2022/2022-04-11/2022-04-13_planning-commission-meeting.md
+600,3,2022-04-27,Planning Commission,minutes/2022/2022-04-25/2022-04-27_planning-commission-meeting.md
+601,3,2022-05-11,Planning Commission,minutes/2022/2022-05-09/2022-05-11_planning-commission-meeting.md
+602,3,2022-05-25,Planning Commission,minutes/2022/2022-05-23/2022-05-25_planning-commission-meeting.md
+603,3,2022-06-08,Planning Commission,minutes/2022/2022-06-06/2022-06-08_planning-commission-meeting.md
+604,3,2022-06-22,Planning Commission,minutes/2022/2022-06-20/2022-06-22_planning-commission-meeting.md
+605,3,2022-07-13,Planning Commission,minutes/2022/2022-07-11/2022-07-13_planning-commission-meeting.md
+606,3,2022-07-27,Planning Commission,minutes/2022/2022-07-25/2022-07-27_planning-commission-meeting.md
+607,3,2022-08-10,Planning Commission,minutes/2022/2022-08-08/2022-08-10_planning-commission-meeting.md
+608,3,2022-08-24,Planning Commission,minutes/2022/2022-08-22/2022-08-24_planning-commission-meeting.md
+609,3,2022-09-14,Planning Commission,minutes/2022/2022-09-12/2022-09-14_planning-commission-meeting.md
+610,3,2022-09-28,Planning Commission,minutes/2022/2022-09-26/2022-09-28_planning-commission-meeting.md
+611,3,2022-10-12,Planning Commission,minutes/2022/2022-10-10/2022-10-12_planning-commission-meeting.md
+612,3,2022-10-26,Planning Commission,minutes/2022/2022-10-24/2022-10-26_planning-commission-meeting.md
+613,3,2022-11-09,Planning Commission,minutes/2022/2022-11-07/2022-11-09_planning-commission-meeting.md
+614,3,2022-12-14,Planning Commission,minutes/2022/2022-12-12/2022-12-14_planning-commission-meeting.md
+615,3,2023-01-11,Planning Commission,minutes/2023/2023-01-09/2023-01-11_planning-commission-meeting.md
+616,3,2023-02-08,Planning Commission,minutes/2023/2023-02-06/2023-02-08_planning-commission-meeting.md
+617,3,2023-02-22,Planning Commission,minutes/2023/2023-02-20/2023-02-22_planning-commission-meeting.md
+618,3,2023-03-08,Planning Commission,minutes/2023/2023-03-06/2023-03-08_planning-commission-meeting.md
+619,3,2023-03-22,Planning Commission,minutes/2023/2023-03-20/2023-03-22_planning-commission-meeting.md
+620,3,2023-04-12,Planning Commission,minutes/2023/2023-04-10/2023-04-12_planning-commission-meeting.md
+621,3,2023-04-26,Planning Commission,minutes/2023/2023-04-24/2023-04-26_planning-commission-meeting.md
+622,3,2023-05-10,Planning Commission,minutes/2023/2023-05-08/2023-05-10_planning-commission-meeting.md
+623,3,2023-05-24,Planning Commission,minutes/2023/2023-05-22/2023-05-24_planning-commission-meeting.md
+624,3,2023-06-14,Planning Commission,minutes/2023/2023-06-12/2023-06-14_planning-commission-meeting.md
+625,3,2023-06-28,Planning Commission,minutes/2023/2023-06-26/2023-06-28_planning-commission-meeting.md
+626,3,2023-07-12,Planning Commission,minutes/2023/2023-07-10/2023-07-12_planning-commission-meeting.md
+627,3,2023-07-26,Planning Commission,minutes/2023/2023-07-24/2023-07-26_planning-commission-meeting.md
+628,3,2023-08-09,Planning Commission,minutes/2023/2023-08-07/2023-08-09_planning-commission-meeting.md
+629,3,2023-08-23,Planning Commission,minutes/2023/2023-08-21/2023-08-23_planning-commission-meeting.md
+630,3,2023-09-13,Planning Commission,minutes/2023/2023-09-11/2023-09-13_planning-commission-meeting.md
+631,3,2023-09-27,Planning Commission,minutes/2023/2023-09-25/2023-09-27_planning-commission-meeting.md
+632,3,2023-10-11,Planning Commission,minutes/2023/2023-10-09/2023-10-11_planning-commission-meeting.md
+633,3,2023-10-25,Planning Commission,minutes/2023/2023-10-23/2023-10-25_planning-commission-meeting.md
+634,3,2023-11-08,Planning Commission,minutes/2023/2023-11-06/2023-11-08_planning-commission-meeting.md
+635,3,2023-12-13,Planning Commission,minutes/2023/2023-12-11/2023-12-13_planning-commission-meeting.md
+636,3,2024-01-10,Planning Commission,minutes/2024/2024-01-08/2024-01-10_planning-commission-meeting.md
+637,3,2024-02-14,Planning Commission,minutes/2024/2024-02-12/2024-02-14_planning-commission-meeting.md
+638,3,2024-02-28,Planning Commission,minutes/2024/2024-02-26/2024-02-28_planning-commission-meeting.md
+639,3,2024-03-13,Planning Commission,minutes/2024/2024-03-11/2024-03-13_planning-commission-meeting.md
+640,3,2024-03-27,Planning Commission,minutes/2024/2024-03-25/2024-03-27_planning-commission-meeting.md
+641,3,2024-04-10,Planning Commission,minutes/2024/2024-04-08/2024-04-10_planning-commission-meeting.md
+642,3,2024-04-24,Planning Commission,minutes/2024/2024-04-22/2024-04-24_planning-commission-meeting.md
+643,3,2024-05-08,Planning Commission,minutes/2024/2024-05-06/2024-05-08_planning-commission-meeting.md
+644,3,2024-05-22,Planning Commission,minutes/2024/2024-05-20/2024-05-22_planning-commission-meeting.md
+645,3,2024-06-12,Planning Commission,minutes/2024/2024-06-10/2024-06-12_planning-commission-meeting.md
+646,3,2024-06-26,Planning Commission,minutes/2024/2024-06-24/2024-06-26_planning-commission-meeting.md
+647,3,2024-07-03,Planning Commission,minutes/2024/2024-07-01/2024-07-03_planning-commission-study-meeting.md
+648,3,2024-07-10,Planning Commission,minutes/2024/2024-07-08/2024-07-10_planning-commission-meeting.md
+649,3,2024-08-14,Planning Commission,minutes/2024/2024-08-12/2024-08-14_planning-commission-meeting.md
+650,3,2024-08-28,Planning Commission,minutes/2024/2024-08-26/2024-08-28_planning-commission-meeting.md
+651,3,2024-09-11,Planning Commission,minutes/2024/2024-09-09/2024-09-11_planning-commission-meeting.md
+652,3,2024-09-25,Planning Commission,minutes/2024/2024-09-23/2024-09-25_planning-commission-meeting.md
+653,3,2024-10-23,Planning Commission,minutes/2024/2024-10-21/2024-10-23_planning-commission-meeting.md
+654,3,2024-11-13,Planning Commission,minutes/2024/2024-11-11/2024-11-13_planning-commission-meeting.md
+655,3,2024-12-11,Planning Commission,minutes/2024/2024-12-09/2024-12-11_planning-commission-meeting.md
+656,3,2025-01-15,Planning Commission,minutes/2025/2025-01-13/2025-01-15_planning-commission-meeting.md
+657,3,2025-01-29,Planning Commission,minutes/2025/2025-01-27/2025-01-29_planning-commission-meeting.md
+658,3,2025-02-12,Planning Commission,minutes/2025/2025-02-10/2025-02-12_planning-commission-meeting.md
+659,3,2025-02-26,Planning Commission,minutes/2025/2025-02-24/2025-02-26_planning-commission-meeting.md
+660,3,2025-03-12,Planning Commission,minutes/2025/2025-03-10/2025-03-12_planning-commission-meeting.md
+661,3,2025-03-26,Planning Commission,minutes/2025/2025-03-24/2025-03-26_planning-commission-meeting.md
+662,3,2025-04-09,Planning Commission,minutes/2025/2025-04-07/2025-04-09_planning-commission-meeting.md
+663,3,2025-04-16,Planning Commission,minutes/2025/2025-04-14/2025-04-16_planning-commission-study-meeting.md
+664,3,2025-04-23,Planning Commission,minutes/2025/2025-04-21/2025-04-23_planning-commission-meeting.md
+665,3,2025-05-14,Planning Commission,minutes/2025/2025-05-12/2025-05-14_planning-commission-meeting.md
+666,3,2025-05-28,Planning Commission,minutes/2025/2025-05-26/2025-05-28_planning-commission-meeting.md
+667,3,2025-06-11,Planning Commission,minutes/2025/2025-06-09/2025-06-11_planning-commission-meeting.md
+668,3,2025-06-25,Planning Commission,minutes/2025/2025-06-23/2025-06-25_planning-commission-meeting.md
+669,3,2025-07-09,Planning Commission,minutes/2025/2025-07-07/2025-07-09_planning-commission-meeting.md
+670,3,2025-07-23,Planning Commission,minutes/2025/2025-07-21/2025-07-23_planning-commission-meeting.md
+671,3,2025-08-13,Planning Commission,minutes/2025/2025-08-11/2025-08-13_planning-commission-meeting.md
+672,3,2025-08-27,Planning Commission,minutes/2025/2025-08-25/2025-08-27_planning-commission-meeting.md
+673,3,2025-09-10,Planning Commission,minutes/2025/2025-09-08/2025-09-10_planning-commission-meeting.md
+674,3,2025-09-24,Planning Commission,minutes/2025/2025-09-22/2025-09-24_planning-commission-meeting.md
+675,3,2025-10-08,Planning Commission,minutes/2025/2025-10-06/2025-10-08_planning-commission-meeting.md
+676,3,2025-10-22,Planning Commission,minutes/2025/2025-10-20/2025-10-22_planning-commission-meeting.md
+677,3,2025-11-12,Planning Commission,minutes/2025/2025-11-10/2025-11-12_planning-commission-meeting.md
+678,3,2025-12-10,Planning Commission,minutes/2025/2025-12-08/2025-12-10_planning-commission-meeting.md
+679,3,2026-01-14,Planning Commission,minutes/2026/2026-01-12/2026-01-14_planning-commission-meeting.md
+680,3,2026-01-28,Planning Commission,minutes/2026/2026-01-26/2026-01-28_planning-commission-meeting.md
+681,3,2026-02-11,Planning Commission,minutes/2026/2026-02-09/2026-02-11_planning-commission-meeting.md
+682,3,2026-03-11,Planning Commission,minutes/2026/2026-03-09/2026-03-11_planning-commission-meeting.md
+683,3,2026-04-08,Planning Commission,minutes/2026/2026-04-06/2026-04-08_planning-commission-meeting.md
+684,3,2026-04-22,Planning Commission,minutes/2026/2026-04-20/2026-04-22_planning-commission-meeting.md
+685,3,2026-05-13,Planning Commission,minutes/2026/2026-05-11/2026-05-13_planning-commission-meeting.md
+686,3,2026-05-27,Planning Commission,minutes/2026/2026-05-25/2026-05-27_planning-commission-meeting.md

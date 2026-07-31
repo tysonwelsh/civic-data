@@ -1,0 +1,104 @@
+{
+ "date": "2023-04-10",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2023/2023-04-10/2023-04-10_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the resolution on child abuse prevention. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 2023-04-02, allowing for any non-substantive edits in the next few days. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the following Resolution No. 2023-04-03, authorizing the use of ranked-choice voting for the 2023 Kearns Metro Township municipal election. KEARNS METRO TOWNSHIP COUNCIL RESOLUTION NO. 2023-04-03 DATE: April 10, 2023 A RESOLUTION AUTHORIZING THE USE OF RANKED CHOICE VOTING FOR THE 2023 KEARNS METRO TOWNSHIP MUNICIPAL ELECTION WHEREAS, the Utah Legislature",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve the minutes of the Kearns Metro Township Council meeting held on March 13, 2023. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

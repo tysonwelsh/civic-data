@@ -1,0 +1,87 @@
+# Redevelopment Agency Meeting — 2023-10-10
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw PDF: pmn_backfill/raw/ogden_2023-10-10_RDA.pdf  |  file id 1085549.
+> Recovered 2026-07-05 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new RDA minutes — flag for promotion review.
+
+---
+
+         Minutes of Regular Meeting of Redevelopment Agency of Ogden City, Utah, October 10, 2023 Page
+
+
+         Minutes of the special meeting of the Ogden City Redevelopment Agency held on Tuesday, October 10, 2023, at 4:30
+p.m., in the Council Chambers, and via electronic meeting, on the third floor of the Municipal Building, 2549 Washington
+Boulevard, Ogden City, Weber County, Utah.
+
+         Present:          Chair                  Angela Choberka (via Zoom)
+                           Acting Chair           Ken Richey
+                           Board members          Bart E. Blair
+                                                  Richard A. Hyer
+                                                  Luis Lopez
+                                                  Ben Nadolski (via Zoom)
+                                                  Marcia L. White
+
+                           Board Administrator Janene Eller-Smith
+                           Board Deputy Administrator Glenn Symes
+                           Communications and Public Engagement Coordinator Brandon Garside
+                           Communication Project Coordinator Eric Davenport
+
+         Also present:     Chief Administrative Officer Mara A. Brown
+                           City Attorney Gary Williams
+                           Community and Economic Development Director Brandon Cooper
+                           Planning Manager Barton Brierley
+                           Redevelopment Manager Damen Burnham
+                           Deputy Business Development Manager David Sawyer
+                           Comptroller Lisa Stout
+                           Deputy Comptroller Justin Sorensen
+                           Deputy City Recorder Jason Gould
+
+
+
+
+Approval of Minutes
+         Board member Hyer stated he had reviewed the minutes of the Special Meeting of October 11, 2022 and found them to
+be accurate to the best of his recollection.
+         Board member Nadolski stated he had reviewed the minutes of the Closed Session of October 11, 2022 and found them
+to be accurate to the best of his recollection.
+         Board member White stated she had reviewed the minutes of the Regular Meetings of October 11, 2022 and January 10,
+2023 and found them to be accurate to the best of her recollection.
+         Board member Blair stated he had reviewed the minutes of the Special Meeting of December 6, 2022 and found them to
+be accurate to the best of his recollection.
+         BOARD MEMBER BLAIR THEN MOVED TO APPROVE THE MINUTES AS PRESENTED. MOTION WAS
+SECONDED BY BOARD MEMBER HYER, ALL VOTING AYE.
+
+Closed Session
+         At this time, the Board gave consideration of adjourning into a Closed Session pursuant to one or more of the provisions
+of Section 52-4-205(1) of the Open and Public Meetings Law:
+         a. Discussion of the character, professional competence, or physical or mental health of an individual
+         b. Strategy session to discuss collective bargaining
+         c. Strategy session to discuss pending or reasonably imminent litigation
+         d. Strategy session to discuss the purchase, exchange, or lease of real property
+         e. Strategy session to discuss the sale of real property
+         f. Discussion regarding deployment of security personnel, devices, or systems
+         g. Investigative proceedings regarding allegations of criminal misconduct
+         BOARD MEMBER HYER MOVED THE BOARD ADJOURN INTO A CLOSED SESSION PURSUANT TO
+THE PROVISIONS OF SECTION 52-4-205(1) OF THE OPEN AND PUBLIC MEETINGS LAW. MOTION WAS
+SECONDED BY BOARD MEMBER BLAIR, WITH THE FOLLOWING ROLL CALL VOTE: VOTING AYE –
+COUNCIL MEMBERS BLAIR, HYER, LOPEZ, NADOLSKI, WHITE, ACTING CHAIR RICHEY, AND CHAIR
+CHOBERKA. VOTING NO – NONE.
+
+         The meeting adjourned into Closed Session at 4:36 p.m.
+       The meeting reconvened at 5:54 p.m.
+
+
+     There being no further business to come before the Agency, BOARD MEMBER HYER MOVED THE MEETING
+ADJOURN AT 5:55 P.M. MOTION WAS SECONDED BY BOARD MEMBER BLAIR, ALL VOTING AYE.
+
+
+
+
+                                                        ________________________________________
+                                                        JASON GOULD
+                                                        DEPUTY CITY RECORDER
+________________________________________
+KEN RICHEY, ACTING CHAIR
+
+APPROVED: February 13, 2024
+

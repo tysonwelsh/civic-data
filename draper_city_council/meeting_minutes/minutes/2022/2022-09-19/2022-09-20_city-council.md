@@ -1,0 +1,289 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=624&doc_id=a2f66f43-44b7-11ed-95a3-0050569183fa
+> Meeting date: 2022-09-20
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, SEPTEMBER
+20, 2022, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Tasha Lowery, Fred
+                    Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:            Councilmember Mike Green
+
+STAFF PRESENT:      David Dobbins, City Manager; Fred Aegerter, Community
+                    Development Director; Mike Barker, City Attorney; Kellie
+                    Challburg, Chief of Staff; Scott Cooley, City Engineer; John Eining,
+                    Police Chief; Bret Millburn, Assistant City Manager;
+                    Malena Murray, Human Resources Director; Rhett Ogden,
+                    Recreation Director; Angela Fixmer, Deputy City Recorder; Linda
+                    Peterson, Communications Director; Clint Smith, Fire Chief; Jake
+                    Sorensen, IT; Bob Wylie, Finance Director; Todd Draper, Planner;
+                    Jennifer Jastremsky, Senior Planner; Bart Vawdrey, Assistant Fire
+                    Chief; Travis DeJong, Business License Official; Jared Zacharias,
+                    Assistant Finance Director
+_____________________________________________________________
+Study Session
+
+1.0   Presentation: 2022 Moderate Income Housing Report
+
+1.1   Planner Todd Draper explained requirements from the State for the 2022
+      Moderate Income Housing Report, and changes that would be effective in
+      2023.
+
+2.0   Presentation: Motorized Vehicles
+
+2.1   City Manager David Dobbins defined the following terms and explained
+      current City use restrictions on streets, sidewalks, and trails: electric mobility
+      devices, motor-assisted scooters, electric-assisted bikes, and golf carts. The
+      Council and staff discussed citizen complaints and potential problems. Police
+      Chief John Eining suggested communicating to the community that the City
+      would be enforcing golf cart restrictions if the Council desired. The importance
+      of being consistent was mentioned. Chief Eining said the definition or
+      classification of the device/vehicle was determined by the size of the motor. A
+
+
+Draper City Council Approved Minutes – October 4, 2022
+      member of the Council emphasized the need for public education regarding
+      golf carts so that the community was aware of the rules.
+
+3.0   Council/Manager Reports
+
+3.1   Councilmember F. Lowry asked about the possibility of adding outdoor
+      lighting at the bike park.
+
+3.2   Councilmember T. Lowery said she had received citizen requests to separate
+      user groups at the Deer Ridge Off-Leash Dog Park. The area had become a
+      popular mountain biking location, and dogs had been chasing bikers.
+
+3.3   Councilmember T. Lowery mentioned a trail with drainage issues. City
+      Engineer Scott Cooley said the staff was aware that a collection system
+      needed to be added.
+
+3.4   Mr. Cooley provided an update regarding the 1300 East project.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Communications Director Linda Peterson offered a prayer, and Chief Eining
+      led those in attendance in the Pledge of Allegiance.
+
+3.0   Oath of Office Ceremony for Draper City Fire
+
+3.1   Assistant Fire Chief Bart Vawdrey thanked the Council for their continued
+      support of the Fire Department.
+
+3.2   Deputy City Recorder Angela Fixmer administered the Oath of Office for:
+
+            Cole Caldwell       Paramedic I
+            Hunter Morgan       Paramedic I
+            Nick Prokopis       Firefighter II
+            Dallin Kiser        Firefighter II
+
+
+
+                                                                        Page 2 of 7
+4.0   Public Comments
+
+4.1   Lawrence Horman said he was homeless and advocated for those who were
+      homeless. He said when he was last in Draper, in 2017, he had been terrified.
+      Mr. Horman commented that some things had changed for the homeless
+      since 2017, some for the better and some for the worse. He said involving
+      homeless individuals in the Salt Lake Valley Coalition was an improvement,
+      and said he understood Draper City had been participating in helping to solve
+      the problems more effectively. He said he hoped to continue to see
+      improvements and said he believed the County and State could be leaders in
+      solutions that could spread around the country and the world.
+
+4.2   Sarah Brinkerhoff, Manager of the Draper Library, commented that the library
+      was functioning as a place to welcome everyone in the community. She said
+      she believed the services offered by the library were needed more now than
+      ever.
+
+5.0   Consent Items
+      a. Approval of the September 6, 2022, City Council Meeting Minutes.
+      b. Approval of Resolution #22-48, a Resolution of the Draper City Council
+         appointing Robert Markle to serve as the primary delegate, and Hazel
+         Dunsmore to serve as an alternate delegate to the Trans Jordan Landfill
+         Board of Directors.
+      c. Approval of Resolution #22-49, a Resolution re-appointing Kendra Shirey
+         as an alternate member to the Draper City Planning Commission.
+
+5.1   Councilmember F. Lowry moved to approve                 the   Consent   Items.
+      Councilmember Vawdrey seconded the motion.
+
+5.2   A roll call vote was taken. The motion passed unanimously.
+
+                                     Yes     No      Absent
+       Councilmember Green                           x
+       Councilmember T. Lowery       x
+       Councilmember F. Lowry        x
+       Councilmember Roberts         x
+       Councilmember Vawdrey         x
+
+
+
+
+                                                                        Page 3 of 7
+6.0   Public Hearing: Ordinance #1562, an Ordinance amending the Official Zoning
+      Map of Draper City for approximately 2.26 acres of property from CG (General
+      Commercial) to RM2 (Multi-family Residential), located at approximately 14187
+      South Bangerter Parkway within Draper City, otherwise known as the
+      Residences at Draper Hills Zoning Map Amendment.
+
+6.1   Planning Manager Jennifer Jastremsky said the applicant requested the matter
+      be continued to a date uncertain.
+
+6.2   Councilmember T. Lowery moved to continue Ordinance #1562 to a date
+      uncertain. Councilmember Vawdrey seconded the motion.
+
+6.3   A roll call vote was taken. The motion passed unanimously.
+
+                                     Yes     No      Absent
+       Councilmember Green                           x
+       Councilmember T. Lowery       X
+       Councilmember F. Lowry        X
+       Councilmember Roberts         X
+       Councilmember Vawdrey         X
+
+7.0   Public Hearing: Providing Local Consent for an Off-Premise Beer Alcohol
+      License for Kum & Go LC
+
+7.1   Business License Official Travis DeJong said staff found the Kum & Go LC
+      location to be more than 300 feet from community locations, as required by
+      the Code to be eligible for an off-premise license. The total number of off-
+      premise licenses allowed in Draper City was 51, based on the 2020 population,
+      and the City currently had a total of 20 off-premise licenses granted.
+
+7.2   Mayor Walker opened a public hearing and closed the public hearing seeing
+      that no one wished to comment.
+
+7.3   Councilmember F. Lowry moved to approve the Local Consent for Off-Premise
+      Beer Alcohol License for Kum & Go LC. Councilmember Roberts seconded the
+      motion.
+
+7.5   A roll call vote was taken. The motion passed unanimously.
+
+
+
+                                                                       Page 4 of 7
+                                     Yes     No      Absent
+       Councilmember Green                           x
+       Councilmember T. Lowery       X
+       Councilmember F. Lowry        X
+       Councilmember Roberts         X
+       Councilmember Vawdrey         X
+
+8.0   Public Hearing: Resolution #22-51, a Resolution amending the Adopted Budget
+      of Draper City for Fiscal Year 2022-2023.
+
+8.1   Assistant Finance Director Jared Zacharias presented the proposed Fiscal Year
+      2023 First Quarter Budget Amendments.
+
+8.2   City Manager David Dobbins spoke of donations for Fire Department items
+      and presented estimated costs of park picnic benches/concrete pad and
+      interpretive signs as requested by the Council.
+
+8.3   Mayor Walker opened a public hearing and closed the public hearing seeing
+      that no one wished to comment.
+
+8.4   Mr. Dobbins explained that funding for the additional items would come from
+      sales tax revenue. Councilmember F. Lowry said he believed it made sense to
+      fund the concrete pad with the park picnic benches.
+
+8.5   Councilmember T. Lowery moved to approve Resolution #22-51, adding the
+      three items presented by Mr. Dobbins. Councilmember Vawdrey seconded the
+      motion.
+
+8.6   A roll call vote was taken. The motion passed unanimously.
+
+                                     Yes     No      Absent
+       Councilmember Green                           x
+       Councilmember T. Lowery       X
+       Councilmember F. Lowry        X
+       Councilmember Roberts         X
+       Councilmember Vawdrey         x
+
+
+
+
+                                                                       Page 5 of 7
+9.0   Public Hearing: Ordinance #1561, an Ordinance of Draper City amending the
+      text of Chapter 4 of the Draper City General Plan regarding Housing and the
+      Moderate Income Housing Plan for the City.
+
+9.1   Planner Todd Draper explained that House Bill 462 required the City to update
+      the Moderate Income Housing Plan elements within the General Plan before
+      October 1, 2022. The City was required to choose from a list of pre-selected
+      strategies (five strategies, or six for priority transportation funding
+      consideration) and prepare implementation plans. He described public
+      involvement efforts.
+
+9.2   Mr. Draper presented a draft of a Housing Study completed by Zions Public
+      Finance and pointed out possible discrepancies that needed to be updated.
+
+9.3   Mr. Draper presented six strategies recommended by the Planning
+      Commission. As a city with a fixed public transit station, two of the strategies
+      were required to involve a station area plan.
+
+      ** Councilmember Vawdrey left the meeting at 7:50 p.m. and returned at 7:56
+      p.m.
+
+9.4   Responding to a question from Mayor Walker, Mr. Draper explained that
+      according to the Zions Public Finance Housing Study, Draper City was short
+      5,000 affordable housing units. The Council and staff discussed analysis
+      differences, market blocks to developing affordable, dense housing in Draper,
+      and the desire to receive consideration or credit from the State for density
+      “entitled” by the City.
+
+9.7   Mayor Walker opened a public hearing and closed the public hearing seeing
+      that no one wished to comment.
+
+9.8   Councilmember F. Lowry moved to approve                    Ordinance    #1561.
+      Councilmember T. Lowery seconded the motion.
+
+9.9   A roll call vote was taken. The motion passed unanimously.
+
+                                      Yes     No       Absent
+       Councilmember Green                             x
+       Councilmember T. Lowery        X
+
+                                                                          Page 6 of 7
+        Councilmember F. Lowry        X
+        Councilmember Roberts         X
+        Councilmember Vawdrey         X
+
+10.0   Recess to a Draper City Community Reinvestment Agency Meeting
+
+10.1   Councilmember T. Lowery moved to recess to a Draper City Community
+       Reinvestment Agency Meeting. Councilmember Vawdrey seconded the
+       motion.
+
+10.2   A roll call vote was taken. The motion passed unanimously.
+
+                                      Yes    No      Absent
+        Councilmember Green                          x
+        Councilmember T. Lowery       X
+        Councilmember F. Lowry        X
+        Councilmember Roberts         X
+        Councilmember Vawdrey         X
+
+10.3   The Council reconvened at 8:22 p.m.
+
+11.0   Adjournment
+
+11.1   Councilmember F. Lowry moved to adjourn the meeting.
+
+11.2   A voice vote was taken. The motion passed unanimously.
+
+11.3   The meeting adjourned at 8:23 p.m.
+
+
+
+
+                                                                       Page 7 of 7
+

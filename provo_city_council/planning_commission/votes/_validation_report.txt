@@ -1,0 +1,18 @@
+Provo Planning Commission — vote extraction validation
+======================================================================
+Meetings: 28  Motions: 111  Member-vote rows: 731
+Recommendations: 65  Final actions: 46  Contested: 27  Tally-only: 0
+Distinct commissioners: 13
+Off-roster members: 0
+Out-of-range dates (<2020): 0
+----------------------------------------------------------------------
+COVERAGE: Provo published consolidated PC minutes (agenda packet + Report of Action) starting 2025. 2020-2024 PC minutes do not exist on AgendaCenter / OnBase (documented gap, see CLAUDE.md). Data floor 2020, but PC data only exists 2025+.
+----------------------------------------------------------------------
+
+TALLY vs NAMED-COUNT MISMATCHES (logged, NOT auto-corrected):
+2026-05-13 motion 5: aye=4 nay=3 but printed tally 5:3 :: Positive recommendation 5:3
+2026-05-13 motion 6: aye=5 nay=2 but printed tally 6:2 :: 6:2 Approved (Final Action)
+2026-06-10 motion 2: aye=5 nay=0 but printed tally 5:1 :: Negative recommendation 5:1
+
+PARSE WARNINGS (ambiguous/garbled tokens, NOT mapped — not guessed):
+2026-04-22: ambiguous name 'Melissa Jensen' (surname->Lisa Jensen, first name->Melissa Kendall); skipped

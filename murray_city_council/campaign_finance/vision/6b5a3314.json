@@ -1,0 +1,32 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Office Max", "purpose": null, "amount": "42.96", "in_kind": false},
+    {"date": null, "recipient": "Josh Weibel", "purpose": null, "amount": "100.00", "in_kind": false},
+    {"date": null, "recipient": "Joseph Stanford", "purpose": null, "amount": "100.00", "in_kind": false},
+    {"date": null, "recipient": "Matt Erkelens", "purpose": null, "amount": "100.00", "in_kind": false},
+    {"date": null, "recipient": "Carl Smith", "purpose": null, "amount": "100.00", "in_kind": false},
+    {"date": null, "recipient": "Blane Haacke", "purpose": null, "amount": "25.00", "in_kind": false},
+    {"date": null, "recipient": "Debbie Spackman", "purpose": null, "amount": "25.00", "in_kind": false},
+    {"date": null, "recipient": "Christopher Francis", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Lyndsay Fuoco", "purpose": null, "amount": "10.00", "in_kind": false},
+    {"date": null, "recipient": "William Henry", "purpose": null, "amount": "20.00", "in_kind": false},
+    {"date": null, "recipient": "Rondi Knowlton", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Holly Ernest", "purpose": null, "amount": "285.00", "in_kind": false},
+    {"date": null, "recipient": "Laura Collings", "purpose": null, "amount": "100.00", "in_kind": false}
+  ],
+  "total_contributions": "0.00",
+  "total_expenditures": "1,007.96",
+  "contributions_50_or_less": "0.00",
+  "beginning_balance": "1,007.98",
+  "ending_balance": "0.02",
+  "_meta": {
+    "index_path": "raw/202512_Bruce-E-Turner_17374.pdf",
+    "candidate": "Bruce E Turner",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202512_Bruce-E-Turner_17374.pdf",
+    "pages": 6
+  }
+}

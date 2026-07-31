@@ -1,0 +1,29 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+277,241,City Council,yes,meeting_minutes,,pm4,2020-01-01,recon wrongly assumed 241/242 both council — 241 is Council; 8 council dates recovered into index.csv (2020-21 was PMN-backfilled into the audited layer)
+277,242,Planning Commission,yes,planning_commission,,pm4,2020-01-01,8 PC minutes dates recovered into index.csv; PMN mislabels (see pmn_exceptions.csv)
+277,1086,Redevelopment Agency,no,,,,,joint CC/RDA minutes ride the council doc (repo RDA carries none) — not separately crawled
+277,1088,Municipal Building Authority,no,,,,,out of scope
+277,2356,St. George Housing Authority,no,,,,,out of scope
+277,243,Board of Adjustments,no,,,,,quasi-judicial — out of scope
+277,247,Building Code Appeals,no,,,,,quasi-judicial — out of scope
+277,244,Hillside Review,no,,,,,land-use review board — out of scope
+277,8305,Land Use Authority,no,,,,,administrative land-use authority — out of scope
+277,245,Historic Preservation,no,,,,,out of scope
+277,246,Sign Review,no,,,,,out of scope
+277,5761,Recycling Review,no,,,,,out of scope
+277,248,Arts Commission,no,,,,,advisory — out of scope (note: 2025-07-31 Arts minutes were mis-posted under council body 241)
+277,249,Public Arts,no,,,,,advisory — out of scope
+277,251,Art Museum,no,,,,,out of scope
+277,250,Dinosaur Discovery,no,,,,,museum board — out of scope
+277,252,Shade Tree,no,,,,,advisory — out of scope
+277,253,Water & Energy,no,,,,,out of scope
+277,254,Snow Canyon Compact,no,,,,,interlocal — out of scope
+277,1087,Economic Development Agency,no,,,,,out of scope
+277,2014,DTEC,no,,,,,out of scope
+277,5003,Airport Advisory,no,,,,,advisory — out of scope
+277,5283,Ambulance Compliance,no,,,,,out of scope
+277,4767,Animal Shelter,no,,,,,out of scope
+277,3469,Community Education Channel,no,,,,,out of scope
+277,6431,Dog Hearing,no,,,,,quasi-judicial — out of scope
+277,8349,Police Unclaimed Property,no,,,,,out of scope
+277,7337,Procurement,no,,,,,bids/RFPs — no minutes

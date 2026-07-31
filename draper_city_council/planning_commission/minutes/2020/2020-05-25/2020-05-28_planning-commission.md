@@ -1,0 +1,840 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=266&doc_id=b662c2c6-179b-11eb-a4b6-0050569183fa
+> Meeting date: 2020-05-28
+> Format: text
+
+Approved October 22, 2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, MAY 28, 2020 IN THE DRAPER CITY COUNCIL
+CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:             Chairperson Andrew Adams, Commissioner Mary Squire, Traci
+                            Gundersen, Kent Player, John Van Hoff, Alternate Commissioners
+                            Gary Ogden, Lisa Fowler and DeLaina Tonks
+
+ABSENT:                     Vice Chairman Craig Hawker
+
+STAFF PRESENT:              Russell Fox, Jennifer Jastremsky, Brien Maxfield, Mike Barker,
+                            Travis Van Ekelenburg, Maryann Pickering and Amie Salazar
+
+STAFF PRESENT
+ELECTRONICALLY:             Christina Oliver, Spencer DuShane
+
+
+
+
+6:30 PM Business Meeting
+
+The Agenda will be as follows:
+
+1.     Electronic Meeting
+       This meeting will be an electronic meeting pursuant to Draper City Resolution #14-54.
+       As restrictions take place across the State for limiting public gatherings, we want to make
+       sure everyone interested in participating can do so in a manner they feel most
+       comfortable.
+           • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+           • Email your comments to planning.comment@draper.ut.us by noon on the day of
+               the meeting. These will become part of the public record.
+           • If you wish to speak during the Public Comment or Public Hearings portion of the
+               meeting, please send a request for the Zoom Meeting ID to
+               planning.comment@draper.ut.us by noon, May 28, 2020.
+       Motion: Commissioner Player made a motion to adopt the Zoom Meeting Rules.
+
+       Second: Commissioner Ogden.
+
+       Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+       motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+       “Aye”.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 2
+2.     Action Item: Village Shoppes at Day Dairy Phase II Site Plan Extension
+       (Administrative Item)
+       On the request of Adam Lankford, representing Wasatch Residential Group, for an
+       extension to the approval of the Village Shoppes at Day Dairy Phase II located at 527
+       East 12300 South. Application SPR-587-2019. Staff contact is Jennifer Jastremsky, 801-
+       576-6328, Jennifer.jastremsky@draper.ut.us.
+
+       Jennifer Jastremsky stated the Village Shoppes at Day Dairy, Phase II, site plan originally
+       received Planning Commission approval on June 27, 2019. It included additional
+       townhomes and retail space. She commented the site plan approval would expire on June
+       27, if no land disturbance permit were issued. The applicant is looking for a six-month
+       extension intending to pull a land disturbance permit in the next month.
+
+       Commissioner Traci Gundersen asked if the applicant has made substantial efforts to
+       move forward with this project.
+
+       Jennifer Jastremsky replied, yes. She noted that the applicant has been working with the
+       Engineering Department for a Land Disturbance Permit. Additionally, due to COVID 19,
+       the applicant considered breaking the project into more phases to move the project
+       forward but have now decided to move forward with the entire phase. She felt that
+       COVID 19 had slowed the project.
+
+       Chairman Adams commented there is not a public hearing regarding this item but will
+       open this item for a motion and vote.
+
+       Commissioner Player felt that this is a complicated process and that they should give
+       them an additional six months.
+
+       Adam Lankford, the applicant, updated the Commission on the progress made within the
+       week. The applicant expected to place bonds the following Monday. The anticipated date
+       for SWPPP approval and the beginning of excavation is June 9. He commented that due
+       to COVID 19, it had taken longer to work through financing.
+
+       Motion: Commissioner Player moved to approve the six-month site plan extension
+       requested by Adam Lankford for Village Shoppes Phase 2, based on the memo on May
+       28, 2020.
+
+       Second: Commissioner Gundersen.
+
+       Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+       motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+       “Aye”.
+
+3.     Public Hearing: East Point CSD – Land Use Map, Zoning Text and Zoning Map
+       Amendment Requests - (Legislative Action)
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 3
+       A request by Ben Seastrand, representing the Gardner Company to create a new
+       commercial special district called the East Point Commercial Special District. The
+       proposed district standards will be located in Chapter 9-18 of the Draper City Municipal
+       Code. The property is located at approximately 13782 South 300 East in the RA1
+       (Residential Agricultural, 40,000 square foot lot minimum) zoning district. Applications:
+       TEXTMAP-1001-2020, TEXTMAP-824-2019 and TEXTMAP-825-2019. Staff contact:
+       Maryann Pickering at (801) 576-6391 or maryann.pickering@draper.ut.us.
+
+       Staff Member Maryann Pickering presented on the East Point Commercial Special
+       District located at approximately 13782 South 300 E. She commented that currently, the
+       designation RA1 is allowing residential medium density and also low-medium density.
+       She noted the applicant is proposing three changes: a Land Use Map Amendment, a
+       Zoning Map Amendment, and a Zoning Text Amendment. She listed highlights of the
+       proposed Commercial Special District including building specifications:
+               - one building at max 62 feet in height and all other buildings a max of 48 feet
+               - retail pads no more than 30 feet in height,
+               - no vehicle access to 300 E,
+               - solar panel carports are permitted,
+               - cross access with adjoining commercial must be provided.
+
+       She added that traffic impact studies should be implemented and a new traffic signal
+       would be needed at 300 E and 13800 South. She identified access points at 150 East,
+       Bangerter, and 13800 South. She stated that sign standards were provided and that all
+       development must go through a site plan review and Planning Commission approval.
+
+       Additionally, the City Staff analyzed the district. Staff found that there are similar
+       districts in the area and felt concerned there would be nine uses allowed in the CSD but
+       not in the OR zone directly south. She detailed primary uses, and the Staff’s
+       recommendation that two retail pads be provided. Building heights do not include rooftop
+       screening, and the Staff was concerned that buildings might be taller than the maximum
+       height allowance due to mechanical equipment.
+
+       The applicant proposed 15% landscaping. However, 20% is the standard in the Draper
+       City Municipal Code. Recent Commercial Special District Zones provided 20%
+       landscaping, allowing for more trees. There was a proposed buffer on 300 E using a
+       landscaped berm. Staff felt that parking would be more appropriate in line with the
+       Draper City Municipal Code and was currently under what was recommended. The
+       applicant proposed 25% compact parking, where only 10% is allowed in the Draper City
+       Municipal Code. Carports were proposed at two feet less in depth than what was allowed.
+
+       She noted that cross access on 13800 South would be required to improve traffic flow per
+       the Municipal Code. The applicant provided a provision to limit cross access that is
+       detrimental to their site. City Staff did not support limiting cross access and felt
+       “detrimental” was too vague a term for the Staff to interpret.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 4
+       She addressed traffic improvements. Staff suggested that the 300 East and 13800 South
+       traffic signals be completed with the first building regardless of where it was located on
+       the site. They recommended that a traffic study be required for each subsequent
+       development application. Improvements needed as a result of traffic studies should be
+       built with each development. Staff felt that they needed clarification on the proposed sign
+       types. It was noted that portions of the adjacent UDOT properties would be required for
+       development to occur. The portions belonging to UDOT are not included currently but
+       will require future rezoning.
+
+       Ms. Pickering then provided renderings of potential office, hotel, and retail styles. She
+       recommended the Planning Commission review the request, receive public comment, and
+       then make recommendations based on the findings. The City Staff included both positive
+       and negative findings. She reminded the Commission that there would need to be three
+       motions as there are three applications.
+
+       Commissioner Adams appreciated the presentation.
+
+       Commissioner Squire asked how the intersection of 13800 South was expected to be
+       affected by the project.
+
+       Brien Maxfield answered that the traffic impact study of this area with the proposed
+       development found this intersection needs a light to create gaps in the already existing
+       heavy traffic. That improvement was a key element to make traffic function in this
+       development.
+
+       Commissioner Squire noted she has seen only monument signs in this area and would be
+       concerned if the applicant was proposing freestanding signs. She asked for clarification
+       on the sign types.
+
+       Ms. Pickering stated that there was a proposed site sign, and the Staff has asked for
+       clarification on what that is. Page seven of the proposal displayed a monument sign but
+       needed clarification. The applicant proposed multi-tenant wayfinding signs.
+
+       Commissioner Squire asked for clarification about the setbacks, for example, 1D.
+
+       Ms. Pickering answered that on 1D it is proposed as a 10 foot minimum set back that is
+       along 150 East or 13800 South. The intent of this was to allow buildings a road presence.
+       The maximum set back on Bangerter would be 50 feet.
+
+       Commissioner Squire stated if there is a 10 foot set back, then buildings will be close to
+       existing homes.
+
+       Ms. Pickering answered that was correct.
+
+       Commissioner Squire asked if new traffic studies were required per each additional site
+       plan.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 5
+
+      Staff Member Brien Maxfield replied yes and that each new site plan to come in will
+      need an updated study.
+
+      Commissioner Squire asked if that would allow the Planning Commission to deny an
+      application if traffic couldn’t be mitigated or if mitigation could be required as part of an
+      approval. She noted that if the Planning Commission required traffic mitigation, they
+      would have to install improvements before constructing a building.
+
+      Ms. Pickering stated that the applicant would do their best to mitigate traffic, but the
+      Planning Commission could decide to deny. It was written into the text of the CSD that
+      the applicant must provide an updated study with each site plan submission. She agreed
+      that the mitigation would need installing before the construction of a building.
+
+      Brien Maxfield added that the applicant would be required to cover costs for any new
+      construction mitigation.
+
+      Commissioner Van Hoff asked if the provided traffic impact study was a footprint of the
+      possible improvements.
+
+      Brien Maxfield replied, yes. As the applicant provides specifics, the traffic study will
+      become more detailed. The applicant would fix existing issues with city streets but would
+      mitigate the new traffic that the Commercial Special District added.
+
+      Commissioner Van Hoff asked if the City can’t require them to make improvements on
+      city streets.
+
+      Brien Maxfield clarified that there are existing traffic issues on this street. The City could
+      not require them to fix those issues but could require them to mitigate any new traffic that
+      would be introduced.
+
+      Commissioner Van Hoff referred to figure 6, that there was not an Eastbound turn lane
+      and would need a median to prevent that.
+
+      Brien Maxfield stated that was correct, and there is a specification in the CSD text on
+      what would be required to make that turn not permissible.
+
+      Commissioner Van Hoff stated he did not see that in the report. He referred to page 17
+      regarding the 2024 background traffic. He stated it clearly wouldn’t be opening in 2019
+      as indicated. He wanted clarification on the dates of the study and if this coincides with
+      their opening date.
+
+      Mr. Maxfield clarified that they picked a date in time that they had information for. The
+      report started with present-day traffic and then projected traffic and project growth.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 6
+       Commissioner Van Hoff then referred 300 East and 13800 South in the study that said
+       the southbound movement was at a service level C, eastbound was a level A, and
+       westbound was level A. It then showed the intersection at a level F. He wanted to know
+       how the level F could result from an A, A, and C. He noted that the page stated it would
+       be a two way stop.
+
+       Mr. Maxfield replied that the study was conducted under the assumption that a traffic
+       light was installed. He continued that the existing condition, without improvements, was
+       at a level F. Additionally, the report projected if a traffic signal existed, they could better
+       provide service through traffic studies.
+
+       Commissioner Gundersen referred to the map with three access points. She pointed out a
+       possible fourth access point on Brown Farm Lane. She asked if the study was limited to
+       three access points to keep traffic away from 300 East. She felt that with no access from a
+       fourth point, there would be more strain on the other three access points.
+
+       Mr. Maxfield believed that the purpose of only three-point access was to keep traffic
+       away from 300 East. He stated that the traffic engineer projected most traffic would be to
+       and from I-15 or Bangerter. Therefore, he decided not to have access to Brown Farm
+       Lane.
+
+       Commissioner Gundersen stated that by trying to prevent access through neighborhoods,
+       it creates a pressure onto the main intersections that become bottlenecked.
+
+       Mr. Maxfield commented that there would be a strain on traffic in this area by not having
+       access to 300 East.
+
+       Commissioner Gundersen expressed concern about the south-west corner parcel and
+       wanted to ensure access would be provided when developed.
+
+       Mr. Maxfield stated the goal should be to have traffic flow as efficiently as possible. Staff
+       felt that one access point is the maximum on 13800 South. Additionally, there needs to be
+       a discussion of easements to accommodate adjacent properties.
+
+       Applicant John Bankhead with the Gardner Company, felt this property was important to
+       Draper City. He stated that over the last 18 months, they have not rushed this process and
+       want to address any concerns. He felt after meeting with residents and Staff. There are
+       three primary concerns. First, the proximity of a commercial zone next to a residential
+       zone. Second, traffic. Third, access to 300 East was not wanted. The plan evolved over
+       two years to the current proposed CSD, which has been scaled back from the start of this
+       project. He detailed the project.
+
+       Chairman Adams asked if there are questions for the Applicant or the Engineer.
+
+       John Dorny presented the traffic study for the applicant. He detailed the trip totals
+       estimated at the site with the projected four office buildings and a retail pad with a drive-
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 7
+       thru. He listed the intersections studied being Bangerter and I-15 Interchange, Bangerter
+       and 150 East, Bangerter Hwy and 13800 South, and 13800 South and 300 East.
+
+       He commented on the findings of the traffic study. He detailed the intersection at
+       Bangerter and 150 East would add southbound double left turns onto 150 East, add
+       exclusive northbound right onto 150 East, add double right turns at westbound 150 East
+       to Bangerter, and widen 150 East. He commented on the unique situation of the
+       Bangerter Arterial, which turns into a local or collector road with houses 600 feet away.
+
+       He added that an independent traffic review was conducted, and based on the findings,
+       13800 South would not have a left turn into the project, and 150 East will have two
+       receiving lanes. He commented that the trip generation total was 5,000 and explained that
+       this number does not mean that 5,000 different cars would be making a trip daily. He
+       explained that the following activities are considered trips: commute to and from work,
+       lunch breaks, and any meetings when people would leave an office.
+
+       They had based findings on a possible box store or grocery store that have an estimated
+       10,000 trips per day and also apartments with 3,300 trips per day. The study estimated
+       trips based on complementary land uses to what is existing in the area. The types of
+       buildings built would not compete with but support the retail across the street.
+
+       He answered a question posed previously about stop-controlled intersections. Multiple A
+       ratings could exist, but if one area receives an F, the whole intersection received that
+       rating. Signalized intersections would be different, and ratings were weighted on that. He
+       also stated direction was given not to add any access points on 300 East. The residents
+       expressed opposition to having an access point on 300 E.
+
+       Commissioner Squire asked how to prevent left-hand turns on 13800 South. She stated
+       that the growth rate used in the study at 2% might not be accurate.
+
+       John Dorny answered that hardscaping would be necessary because Bangerter is a UDOT
+       road. He believed that simple striping would not be enough to prevent the left-hand turn.
+       He stated that they used the best historical data possible to estimate growth rates, and
+       they estimated higher than the data resulting in 2%. Estimates of surrounding areas were
+       factored into the growth percentage.
+
+       Commissioner Squire stated there would be an additional building built South of the
+       proposed district that has been approved. She stated that the charter school in the area
+       creates traffic in the morning and would like to know how that was factored into the
+       study.
+
+       Mr. Dorny replied that charter schools don’t usually have busses but have large amounts
+       of traffic. The school was counted as background traffic in the AM peak hours. The
+       school was not included in the PM peak hours as school is usually out before businesses
+       closing.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 8
+       Commissioner Van Hoff referred to page 79 of the traffic study where the rating is F due
+       to four vehicles. He referred to page 17 and asked if the queue lane westbound will go
+       past the entrance of 150 East.
+
+       Mr. Dorny replied that the Applicant and City Staff would need to study that. He said that
+       based on the math, the City had to decide to put a light in with the knowledge that four
+       cars will have to queue. He responded that the westbound queue lane would go past the
+       entrance if nothing was done in that area. He stated if they leave the site as it is, the rating
+       will stay the same.
+
+       Commissioner Van Hoff commented that with the mitigations, it appeared to be about
+       900 feet away from the 150 East entrance.
+
+       Mr. Dorny presented a slide with projections for the project. He stated that there would
+       be long queues based on the Existing Plus Project section. He commented that the slide
+       referred to was not for the 2024 time period. He showed the mitigation and assured the
+       Commission that the applicant is committed to making improvements alongside the City,
+       and the widening of the intersection will improve traffic generally.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams asked Ms. Pickering how many public comments she had received
+       regarding the project. He detailed how the public hearing would proceed. He stated that
+       remarks needed to remain under three minutes, and the public was required to use the
+       “raise hand” feature on the zoom call to be added in the queue.
+
+       Ms. Pickering responded that approximately 60 public comments had been received. Two
+       were in favor of the project, and 58 were against.
+
+       Russell Fox reminded the public that the public hearing was an opportunity to comment
+       and not to have conversations with the Planning Commission.
+
+       Chris Mace at 13584 Meadow Heights Lane commented on page 12 of the traffic study.
+       He is concerned that the traffic study based on a 2% growth rate is incorrect. He stated
+       that the City website claims a 5% growth rate. He was concerned that the mitigations are
+       needed regardless of the project being built. He felt the applicant bought the property
+       knowing that the residents would not support this type of development. He referred the
+       Commission to savedraper.com, where 810 signatures are showing a 99% rate against
+       this project. He felt Draper no longer had a small-town feeling. He mentioned the other
+       traffic light at the Harmons is a concern.
+
+       Larry Jensen, at 13839 Wheadon Court, stated he has lived in the home he built for eight
+       years now. He felt 13800 South is a busy street, and he understood that a street light
+       would be installed due to the current conditions. Currently, his neighborhood doesn’t
+       have a turn lane into their subdivision. He did not feel that the applicant had a way to
+       mitigate the traffic. He thought it would be catastrophic to add a hotel and office
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 9
+       buildings to contribute to the already existing traffic problem. On behalf of the HOA, he
+       is opposed to this kind of traffic.
+
+       Steve Pulley, at 583 East Stokes Avenue, commented that he is a Draper resident of 20
+       years. He felt that for the last then years, commercial development is something they
+       have fought. He believed the zoning should stay as it is due to traffic. He noted that the
+       growth in this area over the next five years had not been taken into account.
+
+       Jennifer Pulley stated that many Pluralsight employees would be moving to Draper, and
+       she did not feel that had been accounted for in the traffic study. She noted that if there are
+       issues on the I-15, this area takes a massive number of commuters getting off the
+       freeway.
+
+       Ben Jones at 13572 S. Meadow Heights Lane, added that he lives in the development to
+       the North of this project. He felt that no buffer between their homes was addressed in the
+       study. He believed that an increase in traffic and vehicles would increase the noise issue.
+       He stated he did research on the RA1 currently zoned on the parcel, and that is why they
+       purchased a home in the area. He believed that this development would reduce property
+       values.
+
+       Marcia Day at 369 E. Corner Bridge Lane commented that she was concerned about this
+       project within a neighborhood. She felt that many cars exit the freeway on 160 East and
+       turn directly onto 150 East. She listed many neighborhood amenities contributing to her
+       safety concern. She did not believe this is an appropriate place for commercial
+       development. She listed many permitted uses in the Commercial Special District and
+       expressed concern that the applicant could change the proposed office buildings. She
+       stated she was not in favor of the zoning change.
+
+       Matthew Smith, 329 E Brown Farm Lane, stated that he did research when he purchased
+       his home. He noted he is an engineer by trade and that he also looked at best case and a
+       worse case concerning growth rate. He referred to finding number six in the traffic study
+       and that there should be a more in-depth traffic study conducted. He is concerned about
+       the safety and felt the current proposal does not provide a sufficient transition to a new
+       commercial zone. The proposed mitigation was not an adequate buffer. He appreciated
+       the community outreach but felt the proposal become more expansive as time progressed.
+       He believed this project would ruin the general aesthetic of the area.
+
+       Howard Baik at 13742 Brown Farm Lane added that the mitigation efforts are minimal
+       due to current conditions. He felt a traffic light would not reduce traffic. Additionally, the
+       past growth rates did not reflect what could come in the future and that the traffic study
+       needed to assume that growth. He was concerned about site pollution and felt a survey
+       should be conducted.
+
+       David York at 438 Morning Ridge Circle stated that the 2019 Draper City Master Plan
+       encouraged the transition of land uses and ensured neighborhoods transition with
+       appropriate uses of land development. He noted that the proposed project fundamentally
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 10
+       changed the zoning. He felt there is ample retail space available in Draper, and this
+       project would burden a pivotal entrance to Draper.
+
+       Alexandra Mace at 13584 S. Meadow Heights Lane referred to a previous comment that
+       the current plan did not allow access to the land in the south-west corner. She felt that
+       proper consideration should be given to that property owner. She expressed concern that,
+       according to research, mixing residential and commercial land use results in increased
+       crime and violent crime. She was disappointed in the study and felt it was biased to the
+       applicant.
+
+       Bob Clark, 13590 S. 300 East, stated his concern that this zone would be in the middle of
+       a residential area when most of the businesses are on the west side of 150 East. He was
+       concerned about the traffic, safety, and residential zone. He did not think that the
+       commercial zone should expand east.
+
+       Charlene Miner at 328 E Brown Farm Lane felt the proposal was not in line with the
+       Draper Zoning Code. She commented that the project began at 270,000 square feet of
+       office space but has grown. She felt the Commercial Special District zoning is too broad,
+       and once rezoned, Draper City would lose control of what is built. She expressed concern
+       that a three-quarter turn on 380 South was too close to allow. Additionally, other
+       developments in the area were not considered in the traffic study. She added that the
+       splash pad would have a traffic backup. Part of this comment was inaudible.
+
+       Rosemary Thomas 13703 Brown Farm Lane, asked for the City to work with residents.
+       She felt the zoning should not change, and the traffic heading east with no left turn was
+       not sufficiently addressed.
+
+       Chairman Adams closed the public hearing.
+
+       Chairman Adams asked the applicant if he wanted to comment.
+
+       John Bankhead, Gardner Company, stated he would be willing to answer any questions.
+       He expressed appreciation to the residents for participating in the process.
+
+       Commissioner Squire stated that two things had not been addressed yet. She wanted
+       specifics on signs and also the buffer between the homes and commercial areas.
+
+       Mr. Bankhead stated there is no plan for freestanding or tall signs. He added it would be
+       monument signage and building signage. A greater landscape buffer would be installed.
+
+       Commissioner Squire expressed she is not in favor of Commercial Special Districts. She
+       felt that applicants take liberties in these district types. She thought that the Planning
+       Commission needed to be more cognizant of the potential development in this zone, and
+       the district does not make sense zoning wise. She expressed that the commercial could be
+       built here but should be consistent with the character of the area. She expressed concern
+       that 300 East is purely residential and that a simple berm and landscaping would not be a
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 11
+       sufficient buffer. A buffer should be built along every home. Traffic was an issue, and
+       she thought the minimum set back was not enough along the homes. She commented that
+       there are too many potential uses in this zone and did not believe this is an appropriate
+       use for the parcel. She felt the proposed landscaping was not in compliance with Code.
+       She did not agree with the statement that the improvements could be complete at project
+       completion.
+
+       Commissioner Van Hoff stated he does not like commercial zoning expanding in the area
+       and felt that the zoning should transition, which was not demonstrated in this
+       development.
+
+       Chairman Adams commented that currently, one-acre residences are permitted, but he
+       failed to see that type of development against Bangerter. He was concerned about the
+       access to the project and felt traffic is a side effect of growth and unavoidable. He
+       commented that many proposals in this project are not in line with the Draper Code.
+
+       Commissioner Player felt this project was too large for this corner.
+
+       Motion re: Commissioner Player moved to forward a negative recommendation to the
+       City Council for the East Point CSD Land Use Map Amendment Request, by Ben
+       Seastrand representing the Gardner Company, Application TEXTMAD 1001-2-2020,
+       based on the finding of the Staff Report on May 19, 2020.
+
+       Second: Commissioner Squire.
+
+       Vote: A roll call vote was taken with Commissioners voting 4-1 in favor of the motion.
+       This item passed with a 4 to 1 vote. Commissioners Squire, Player, Van Hoff, and
+       Ogden voted, “Aye”. Commissioner Gunderson voted, “Nay”.
+
+       Motion re: Commissioner Squire moved to forward a negative recommendation to the
+       City Council for the East Point CSD Zoning Text Amendment, by Ben Seastrand
+       representing the Gardner Company, Application Text Map 824-2019, based on the
+       finding of the Staff Report on May 19, 2020.
+
+       Second: Commissioner Van Hoff
+
+       Vote: A roll call vote was taken with Commissioners voting in favor of the motion. This
+       item passed with a 4 to 1 vote. Commissioners Squire, Player, Van Hoff, and Ogden
+       voted, “Aye”. Commissioner Gunderson voted, “Nay”.
+
+       Motion re: Commissioner Van Hoff moved to forward a negative recommendation to
+       City Council on the East Point CSD Zoning Map Amendment, by Ben Seastrand
+       representing the Gardner Company, Application Text Map 825-2019, based on the
+       findings of the Staff Report on May 19, 2020.
+
+       Second; Commissioner Ogden.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 12
+
+      Vote: A roll call vote was taken with Commissioners voting in favor of the motion. This
+      item passed with a 4 to 1 vote. Commissioners Squire, Player, Van Hoff, and Ogden
+      voted, “Aye”. Commissioner Gunderson voted, “Nay”.
+
+      Item 4 was not discussed.
+
+4.    Public Hearing: Quality Diamond Tools Home Occupation Conditional Use Permit
+      (Administrative Action)
+
+      This item has been Continued.
+
+      On the request of Jim and Lois Duncan for a Home Occupation Conditional Use Permit
+      for 0.94 acres of property located at 12138 South 800 East for a home office located
+      within a detached accessory structure, with employees, storage, and business vehicles.
+      Application USE-973-2020. Staff contact is Jennifer Jastremsky, 801-576-6328,
+      jennifer.jastremsky@draper.ut.us.
+
+      Motion re: Commissioner moved to forward a positive/negative and Commissioner
+      seconded the motion.
+
+      Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 4 to 1 vote.
+
+      Item 5 was discussed at this point in the meeting.
+
+5.    Public Hearing: Lot 12 Alan Point Plat Amendment (Administrative Action)
+      On the request of Jay Hale for approval of a Plat Amendment in the RA2 (Residential
+      Agricultural, 20,000 square foot lot minimum) Zone. The property is located at 865 West
+      Alan Point Dr. The applicant is requesting that a Plat Amendment be approved to vacate
+      a wetlands no-build area from the lot. Application SUBD-967-2020. Staff contact is
+      Travis Van Ekelenburg, 801-576-6522, travis.vanekelenburg@draper.ut.us.
+
+      Travis Van Ekelenburg presented. He stated the property is currently zoned RA2, which
+      has a 20,000 square foot minimum lot size. In 1998 the recorded plat showed 22 lots
+      ranging from .5 - 1 acre in size. Lots 11-19 had a wetland in the rear yard and cannot be
+      built on without permission to vacate the wetland from the Army Corp of Engineers. The
+      lot had a family home on the east side, and almost half of the property was non-buildable.
+      The applicant received a letter from the Army Corp stating that the wetland is dried, and
+      the building would not affect the wetland negatively.
+
+      Commissioner Squire asked if the letter from the Army Corp would apply to other
+      properties and if other property owners could go through the same process as this
+      Applicant.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 13
+       Travis Van Ekelenburg answered it only applies to the applicant’s property. He added if
+       other home-owners wanted to apply, they could do that on one application together
+       through the same process as the applicant.
+
+       Commissioner Player asked if this is the first request in this area to vacate.
+
+       Mr. Van Ekelenburg replied to this if the first application they have received.
+
+       Applicant Jay Hale stated he is the first to address this, and other neighbors intend to
+       apply as well. He stated the wetland had been dry for 19 years while they have lived
+       there.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams closed the public hearing.
+
+       Motion re: Commissioner Van Hoff moved to approve the plat amendment as requested
+       by Jay Hale, Application SUBD-967-2020 based on the findings of the Staff Report dated
+       May 20, 2020.
+
+       Second: Commissioner Player
+
+       Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+       motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+       “Aye”.
+
+6.     Public Hearing: Fairfield Inn & Suites Site Plan (Administrative Action)
+       On the Request of Elizabeth Cole representing Wadsworth Development Group for
+       approval of a Site Plan for approximately 3.05 acres located at approximately 13690 S
+       100 E. The property is currently zoned CO2 (Professional Office) Zone. Application
+       SPR-969-2020. Staff contact is Travis Van Ekelenburg, 801-576-6522,
+       travis.vanekelenburg@draper.ut.us.
+
+       Travis Van Ekelenburg presented the proposal for the Fairfield Inn Marriott at 13690
+       South 100 East. The property is currently part of the CO2 zone. The property east of the
+       hotel is office space and currently under review. The boundary line between the
+       developments would be adjusted. The area would be heavily landscaped. The applicant
+       had requested deviations from the design standards listed in the Staff Report. The
+       applicant is requesting a deviation to building materials for the south façade of the
+       building. The façade is short the required primary materials. The three other sides meet
+       the requirements. The applicant is also requesting a deviation from the current max
+       building height of 45 feet to 55 feet to accommodate room size and interior. A deviation
+       for building articulation is being requested from being required every 50’ along the
+       building façade. This is to accommodate the room layout inside the buildng. The
+       deviations would be from section 9-22-040 Municipal Code design requirements.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 14
+       Municipal Code 9-22-030 stated applicants can request deviation with reasoning to the
+       Planning Commission.
+
+       Applicant Elizabeth Cole commented she felt Mr. Van Ekelenburg did a good job
+       presenting.
+       Commissioner Player asked if there has been an approved building on the site and if this
+       is new or a redo.
+
+       Chairman Adams stated that it was approved but now needed approval for the deviations.
+
+       Jennifer Jastremsky clarified there was not an approval on this specific site, but that there
+       is an existing hotel to the south that has been constructed. She commented there was
+       another application submitted for this site, which has since expired, and any new
+       proposals will need an application and approval.
+
+       Elizabeth Cole stated this is their first formal site plan application for the north portion of
+       this development.
+
+       Commissioner Van Hoff noted there appeared to be an access point to the east leading to
+       the traffic signal at Harmons.
+
+       Commissioner Squire asked if the parking lots will connect.
+
+       Applicant Elizabeth Cole stated that cross access and parking easement are currently
+       being worked on with Harmons, Bangerter Crossing, Bowerman Ownership, and the
+       hotel. She added this would have cross access both ways, allowing shared parking.
+
+       Commissioner Squire commented that could be beneficial but also problematic at the
+       light during peak hours.
+
+       Chairman Adams thanked Elizabeth Cole for joining the Commission.
+
+       Chairman Adams opened the public hearing.
+
+       Chairman Adams closed the public hearing.
+
+       Commissioner Squire inquired about the building heights of Town Place Suites and
+       Harmons adjacent to this location.
+
+       Ms. Cole clarified the Town Place Suites is also a four-story hotel, and although she does
+       not know the height specifically, it would be very close.
+
+       Brady Morris, Civil Engineer, clarified that the Town Place Suites is approximately 3 feet
+       lower in elevation than the proposed location.
+
+       Chairman Adams asked if that is the reason for the height deviation.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 15
+
+      Ms. Cole stated the deviation was based on Marriott’s requirements for the number of
+      stories in the hotel itself. She added there were minimum room heights and story
+      requirements that be met.
+      Commissioner Player stated the siding of this building next to the Bangerter ramps would
+      make the elevations look deceptive.
+
+      Commissioner Squire agreed and stated Bangerter was set far above the grade of these
+      hotels. She commented that deviations are cause to stop and think. She felt that this was
+      an ideal area to allow height deviations.
+
+      Chairman Adams stated he agreed. He asked how much taller the proposed structure
+      would be compared to what is existing.
+
+      Mr. Morris stated the Town Place Suites is 51 feet high, and the Fairfield is requesting 55
+      feet.
+
+      Commissioner Squire asked if there would be any additional equipment on the top of the
+      building that would exceed the height deviation requested.
+
+      Chairman Adams asked the Staff to go back to the elevations slide. He wondered if this
+      would include the equipment coverage.
+
+      Ms. Cole stated that it would cover mechanical equipment, and the majority of the façade
+      is lower in height. The mechanical equipment required screening, and if any additional
+      coverage were needed, it would be addressed during the permit review.
+
+      Mr. Morris corrected that the Town Place Suites has a façade that is taller than the 51 feet
+      he mentioned earlier. He did not have exact measurements but believed the height was
+      comparable to the proposed building.
+
+      Ryan, an AE Urbia employee, stated that mechanical equipment is usually rooftop units.
+      However, beyond esthetics, the purpose of the wood and a gray area of the building is to
+      screen mechanical equipment.
+
+      Chairman Adams asked if all equipment would be located in that rooftop area.
+
+      Ryan stated that the large equipment would be in that area, but smaller equipment would
+      be installed throughout the roof.
+
+      Chairman Adams asked if Staff had any additional questions for the applicant.
+
+      Motion re: Commissioner Van Hoff moved to approve the deviation for the length of
+      the uninterrupted roofline, requested by Elizabeth Cole, application SPR 959-2020 based
+      on the finding and Staff Report on May 18, 2020.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 16
+       Second: Commissioner Player
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+      motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+      “Aye”.
+
+      Motion re: Commissioner Ogden moved to approve the deviation of maximum height
+      building height, by Elizabeth Cole representing the Wadsworth Development Group,
+      Application SPR-958-2020 A, based on the conditions in the staff report of May 18,
+      2020.
+
+      Second: Commissioner Van Hoff.
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+      motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+      “Aye”.
+
+      Motion re: Commissioner Squire moved to approve the deviation to materials, by
+      Elizabeth Cole representing the Wadsworth Development Group, Application SPR-959-
+      2020, based on the conditions in the staff report of May 18, 2020.
+
+      Second: Commissioner Player
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+      motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+      “Aye”.
+
+      Motion re: Commissioner Van Hoff moved to approve the site plan as requested by
+      Elizabeth Cole representing the Wadsworth Development Group, Application SPR 959-
+      2020 based on the findings and conditions in Staff Report dated May 18, 2020.
+
+      Second: Commissioner Ogden.
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+      motion. Commissioners Squire, Gundersen, Player, Van Hoff, and Ogden voted,
+      “Aye”.
+
+7.    Training: Open Meetings Training and Land Use Liability Training
+
+      Annual Training for the Planning Commissioners on Open Meetings and Land Use
+      Liability.
+
+      Mike Barker stated that three pieces of training needed to be completed by the end of
+      June to meet IRMA requirements.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 17
+       Jennifer Jastremsky commented that there are five items on the next Planning
+       Commission Meeting for June 11. She felt that a few of the items would require a
+       discussion. She didn’t feel it would be a fast meeting but not as long as the current
+       meeting.
+
+       Mr. Barker addressed the inadequacies of the Land Use Task Force. He detailed LUDMA
+       revisions and what constitutes a “subdivision amendment”. See the definitions below.
+           • Defines the “subdivision amendment”- an application to vacate all or existing
+               portion of a plat alters the outside boundary of a plat, a change to a number of lots
+               or an application that alters a public right of way, easement, or infrastructure.
+           • Clarifies platting requirements for subdivision amendments. When a plat is
+               amended, you only show the portion being amended and give a distinguishing
+               name.
+           • Clarifies failure to record plat within time limits is voidable by the Land Use
+               Authority. The transfer of land under a void plat is voidable by the Land Use
+               Authority.
+
+       Planning Commission Powers and Duties
+
+          •   Makes more explicit the powers and duties of the planning commission
+          •   Review and make recommendations in legislative matters.
+          •   Clearly states the requirement to hold public hearings on legislative items.
+          •   Clearly states legislative body options to Planning Commission recommendation.
+          •   Failure of PC to make a “timely” recommendation may be considered a negative
+              recommendation.
+
+       He then addressed the changes regarding appeals.
+         • Appeals – “Adverse Party”
+         • Appeals may be taken only by the applicant, board, or officer of the governmental
+             entity, or an adversely affect party (AAP).
+         • AAP is defined as someone who owns real property adjoining the applicant’s
+             property, or someone who will “suffer damage different in kind than, or an injury
+             distinct from, that of the general community as a result of a land use decision.”
+
+       He commented that the HB 273 Property Rights Ombudsman Amendment came into a
+       discussion last summer by the Property Rights Coalition, and through negotiation, this is
+       the result.
+
+          •   If a party receives an advisory opinion from the PRO, and further litigates the
+              same land use dispute in court, the prevailing party may collect a civil penalty of
+              $250/day.
+          •   If the court rules on the same facts and circumstances as the PRO decision and
+              finds that the opposing party knowing and intentionally violated the law, then
+              penalties can apply.
+          •   Calculation of penalties.
+Draper City Planning Commission Meeting
+May 28, 2020
+Page 18
+
+            He concluded that Staff would incorporate the changes to the subdivision statute and
+            are trying to anticipate the gaps in the Code by making amendments.
+
+            He showed the Commission the Open and Public Meetings Act Training video.
+
+Mr. Barker complimented the Planning Commission as a governing body in line with the law. If
+any questions or topics that the Commission would like covered, please contact Mr. Barker or
+members of Staff.
+
+8.      Adjournment
+
+     Chairman Adams moved to adjourn the meeting.
+
+     Chairman Adams took a vote, and all were in favor.
+
+     The meeting adjourned at 9:44 PM.
+

@@ -1,0 +1,35 @@
+{
+  "contributions": [
+    {"date": "9/6", "name": "Mary Ann Turner", "amount": "300", "in_kind": false},
+    {"date": "9/6", "name": "Joe Cwik", "amount": "150", "in_kind": false},
+    {"date": "9/11", "name": "Al Quist", "amount": "500", "in_kind": false},
+    {"date": "10/5", "name": "Alex and Rachel Morot", "amount": "100", "in_kind": false},
+    {"date": "10/14", "name": "Lee Brinton", "amount": "100", "in_kind": false},
+    {"date": "10/16", "name": "Jane Willie", "amount": "100", "in_kind": false},
+    {"date": "10/19", "name": "Clark Bullen (Loan)", "amount": "50", "in_kind": false},
+    {"date": "10/6", "name": "Susan Wright", "amount": "300", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "9/5", "recipient": "Mailchimp", "purpose": "Mass email", "amount": "28.47", "in_kind": false},
+    {"date": "9/22", "recipient": "Mailchimp", "purpose": "Mass email", "amount": "45.67", "in_kind": false},
+    {"date": "9/30", "recipient": "Postmatic Signs", "purpose": "Yard Signs", "amount": "829.68", "in_kind": false},
+    {"date": "10/2", "recipient": "Loyal Perch Media", "purpose": "Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "10/05", "recipient": "Mailchimp", "purpose": "Mass email", "amount": "74.14", "in_kind": false},
+    {"date": "10/16", "recipient": "Zurchers", "purpose": "Balloons, Tablecloth", "amount": "25.50", "in_kind": false}
+  ],
+  "total_contributions": "1300.00",
+  "total_expenditures": "1363.46",
+  "contributions_50_or_less": null,
+  "beginning_balance": "67.40",
+  "ending_balance": "3.94",
+  "_meta": {
+    "index_path": "raw/202310_Clark-Bullen_14722.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-General 28-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A itemized (7 rows) sums to 1,300 = printed cover 1,300 (THRU 08/25) and summary line 1 1300.00 — reconciles. Schedule B itemized (6 rows) sums to 1,363.46 = printed cover 1,363.46 — reconciles. Schedule C in-kind (1 row) 300 = printed 300; in-kind total is separate from the 1,300 Schedule A cover."
+  }
+}

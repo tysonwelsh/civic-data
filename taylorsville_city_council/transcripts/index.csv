@@ -1,0 +1,2 @@
+date,title,body,video_url,video_id,caption_type,source_url,retrieved_date,format,extraction_method,path,duration_sec,category
+2024-05-15,Planning Commission Meeting (ASR transcript),PlanningCommission,,0ui3x38KRRo,asr,https://www.youtube.com/watch?v=0ui3x38KRRo,2026-07-06,caption,"yt-dlp --write-auto-sub (YouTube ASR auto-captions), cleaned to text/",raw/2024-05-15_planning-commission.en.vtt,8569,meeting_planning_commission

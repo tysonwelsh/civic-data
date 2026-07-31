@@ -1,0 +1,35 @@
+{
+  "contributions": [
+    {"date": null, "name": "Vince Jorgensen", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Jennifer Rima", "amount": "25.81", "in_kind": false},
+    {"date": null, "name": "Tania Frischknecht", "amount": "220.00", "in_kind": false},
+    {"date": null, "name": "Robert Kemp", "amount": "25.00", "in_kind": false},
+    {"date": null, "name": "Susan Lloyd", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "Marilyn Ference", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Sunprint Solutions", "purpose": null, "amount": "1638.52", "in_kind": false},
+    {"date": null, "recipient": "Renaissance Signs", "purpose": null, "amount": "1276.55", "in_kind": false},
+    {"date": null, "recipient": "Sunprint Solutions", "purpose": null, "amount": "774.42", "in_kind": false},
+    {"date": null, "recipient": "Loyal Perch Media", "purpose": null, "amount": "400.00", "in_kind": false},
+    {"date": null, "recipient": "Canyon Copy", "purpose": null, "amount": "394.42", "in_kind": false},
+    {"date": null, "recipient": "Rumble UP", "purpose": null, "amount": "250.00", "in_kind": false},
+    {"date": null, "recipient": "Ladybug Ink", "purpose": null, "amount": "78.00", "in_kind": false},
+    {"date": null, "recipient": "Peterson's", "purpose": null, "amount": "23.57", "in_kind": false},
+    {"date": null, "recipient": "Stripe Fees", "purpose": null, "amount": "22.30", "in_kind": false}
+  ],
+  "total_contributions": "920.81",
+  "total_expenditures": "4859.78",
+  "contributions_50_or_less": null,
+  "beginning_balance": "9285.43",
+  "ending_balance": "5346.46",
+  "_meta": {
+    "index_path": "raw/2025_smith_general-election-report.pdf",
+    "candidate": "Shannon Smith",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_smith_general-election-report.pdf",
+    "pages": 5
+  }
+}

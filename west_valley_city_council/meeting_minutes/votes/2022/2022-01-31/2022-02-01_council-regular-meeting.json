@@ -1,0 +1,120 @@
+{
+ "date": "2022-02-01",
+ "title": "City Council Regular Meeting",
+ "body": "Council",
+ "source": "minutes/2022/2022-01-31/2022-02-01_council-regular-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes of the Regular Meeting held January 25, 2022",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice vote - all in favor",
+   "mover": "Don Christensen",
+   "seconder": "William Whetstone",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Ordinance 22-03",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "6-0 Unanimous Pass",
+   "mover": "Lars Nordfelt",
+   "seconder": "Don Christensen",
+   "names_recorded": true,
+   "aye": [
+    "Don Christensen",
+    "Jake Fitisemanu",
+    "Karen Lang",
+    "Lars Nordfelt",
+    "Scott Harmon",
+    "William Whetstone"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "Tom Huynh"
+   ]
+  },
+  {
+   "motion_no": 3,
+   "motion": "to deny Resolution 22-23",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "4-2 Majority Pass",
+   "mover": "Scott Harmon",
+   "seconder": "Lars Nordfelt",
+   "names_recorded": true,
+   "aye": [
+    "Jake Fitisemanu",
+    "Lars Nordfelt",
+    "Scott Harmon",
+    "William Whetstone"
+   ],
+   "nay": [
+    "Don Christensen",
+    "Karen Lang"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "Tom Huynh"
+   ]
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve PUD-2-2021",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6-0 Unanimous Pass",
+   "mover": "Scott Harmon",
+   "seconder": "William Whetstone",
+   "names_recorded": true,
+   "aye": [
+    "Don Christensen",
+    "Jake Fitisemanu",
+    "Karen Lang",
+    "Lars Nordfelt",
+    "Scott Harmon",
+    "William Whetstone"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "Tom Huynh"
+   ]
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve the items on the Consent Agenda",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "6-0 Unanimous Pass",
+   "mover": "Lars Nordfelt",
+   "seconder": "Don Christensen",
+   "names_recorded": true,
+   "aye": [
+    "Don Christensen",
+    "Jake Fitisemanu",
+    "Karen Lang",
+    "Lars Nordfelt",
+    "Scott Harmon",
+    "William Whetstone"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "Tom Huynh"
+   ]
+  }
+ ]
+}

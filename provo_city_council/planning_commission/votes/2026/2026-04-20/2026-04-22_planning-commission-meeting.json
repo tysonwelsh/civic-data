@@ -1,0 +1,35 @@
+{
+ "date": "2026-04-22",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-04-20/2026-04-22_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [
+  "ambiguous name 'Melissa Jensen' (surname->Lisa Jensen, first name->Melissa Kendall); skipped"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "*ITEM 1 Natalie & Douglas Langford request an Ordinance Text Amendment to Provo City Code 14.22.020 to add a caretaker dwelling as a permitted accessory use in the CG (General Commercial) Zone. Citywide Application. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLOTA20260119",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLOTA20260119",
+   "motion_type": "Ordinance Text Amendment",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:0",
+   "mover": "Joel Temple",
+   "seconder": "Anne Allen",
+   "aye": [
+    "Anne Allen",
+    "Joel Temple",
+    "Matt Wheelwright",
+    "Jonathon Hill",
+    "Jon Lyons"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

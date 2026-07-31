@@ -1,0 +1,137 @@
+{
+ "date": "2026-07-08",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-07-06/2026-07-08_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "ITEM 1 Tuscanel Townhomes LLC requests Concept Plan approval for a 12-unit townhome project in a proposed HDR (High Density Residential) Zone, located at 313 E 200 N. Joaquin Neighborhood. Dustin Wright (801) 852-6414 dwright@provo.gov PLCP20250331",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLCP20250331",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "4:2 Denied (Final Action)",
+   "mover": "Jon Lyons",
+   "seconder": "Melissa Kendall",
+   "aye": [
+    "Jon Lyons",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Jonathon Hill"
+   ],
+   "nay": [
+    "Tosh Metzger",
+    "Joel Temple"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "*ITEM 2 Tuscanel Townhomes LLC requests a Zone Map Amendment from the RC (Residential Conservation) Zone to the HDR (High Density Residential) Zone in order to develop a 12-unit townhome project, located at 313 E 200 N. Joaquin Neighborhood. Dustin Wright (801) 852-6414 dwright@provo.gov PLRZ20250330",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20250330",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 6:0",
+   "mover": "Jon Lyons",
+   "seconder": "Melissa Kendall",
+   "aye": [
+    "Jon Lyons",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Jonathon Hill",
+    "Tosh Metzger",
+    "Joel Temple"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "*ITEM 3 Eric Langvardt requests an amendment to the General Plan Map to change the classification from Industrial (I) to Mixed-Use (M) for 21.6 acres of land as part of a mixed-use development plan, located approximately at 3657 S Sierra Vista Way. Spring Creek Neighborhood. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLGPA20260012",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLGPA20260012",
+   "motion_type": "General Plan Amendment",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:1",
+   "mover": "Jonathon Hill",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Jonathon Hill",
+    "Jon Lyons",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Tosh Metzger"
+   ],
+   "nay": [
+    "Joel Temple"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "*ITEM 4 Eric Langvardt requests a Zone Map Amendment from the PIC (Planned Industrial Commercial) Zone to the MDR and CG Zones for 21.6 acres of land as part of a mixed-use development plan, located approximately at 3657 S Sierra Vista Way. Spring Creek Neighborhood. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLRZ20260006",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20260006",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 4:2",
+   "mover": "Tosh Metzger",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Tosh Metzger",
+    "Jon Lyons",
+    "Matt Wheelwright",
+    "Melissa Kendall"
+   ],
+   "nay": [
+    "Jonathon Hill",
+    "Joel Temple"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 5,
+   "motion": "ITEM 5 Eric Langvardt requests Concept Plan approval for a mixed-use development containing 90 condos, 168 townhomes, and approximately 10,000 sq. ft. of commercial space over 21.6 acres in proposed MDR and CG Zones, located approximately at 3657 S Sierra Vista Way. Spring Creek Neighborhood. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLCP20260011",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLCP20260011",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Jon Lyons",
+   "seconder": "Joel Temple",
+   "aye": [
+    "Jon Lyons",
+    "Joel Temple",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Tosh Metzger",
+    "Jonathon Hill"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

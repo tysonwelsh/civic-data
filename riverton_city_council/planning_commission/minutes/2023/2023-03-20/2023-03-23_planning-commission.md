@@ -1,0 +1,385 @@
+# Riverton Planning Commission Meeting — 2023-03-23
+> Source: https://www.utah.gov/pmn/files/966244.pdf
+> Meeting date: 2023-03-23
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/820865.html
+> Format: text
+
+Approved: PC 4.13.23
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                 MARCH 23, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Jon Gilchrist, Chair                             Tim Prestwich, City Planner
+Troy Rushton                                     Matt Cassel, City Engineer
+Gary Cannon                                      Ryan Carter, City Attorney
+Shelly Cluff                                     Lisa Halversen, City Planner
+Evan Matheson
+
+
+1.     CALL TO ORDER/ROLL CALL
+
+Vice-chair Evan Matheson called the meeting to order at approximately 6:30 p.m.
+
+2.     PUBLIC HEARINGS
+
+       A.     SEEHUSEN SUBDIVISION, PLZ-22-1009, A PROPOSED 2-LOT
+              SUBDIVISION LOCATED AT 11905 SOUTH 2700 WEST. APPLICANT -
+              LANDER SEEHUSEN.
+
+City Planner, Lisa Halversen, reported that the Planning Commission will make an
+administrative decision on this item after the public hearing. The subject property is 1.1
+acres in size and zoned RR-22. The applicant is proposing to subdivide the property into
+two lots. Notice was sent to the neighbors and no comments were received by staff. The
+plat showed the private lane that was approved last June by the Planning Commission. A
+new lot was to be created with the existing home remaining on the second lot. A new home
+was to be built at the rear of the property with access to the private lane that was previously
+approved. The proposed subdivision will not change the zoning. Ms. Halversen explained
+that the site plan showed the access on the west side to 2700 West. An existing private
+lane runs along the north of the property.
+
+The Drainage and Grading Plan was presented. The applicants will capture their own
+stormwater and have a pond on the property that is large enough to hold all anticipated
+drainage. The previous minutes from June 2022, when the private lane application was
+approved, were provided. The matter is being heard by the Commission at this meeting as
+a result of the condition that the applicants have the subdivision approved prior to
+constructing the private lane. They are now seeking that approval.
+
+A question was raised regarding the irrigation ditch that runs through the property and if the
+new lot has rights to the irrigation canal or if it is protected in an easement. Ms. Halversen
+indicated that it has gone through the proper review. Condition number seven specifies that
+existing ditches shall be piped or abandoned. City Engineer, Matt Cassel, explained that
+Riverton City Planning Commission Meeting                                                   2
+March 23, 2023
+
+the proposal is to remove all of the piping so that it does not extend beyond the subject
+property. It will be disconnected at the channel in the street and will not be used as irrigation
+for either property in the future. Once it is removed, it will be connected to pressurized
+irrigation off of the City’s system.
+
+Commissioner Rushton recalled that at the first hearing, Chair Gilchrist asked for
+confirmation that both lots meet the minimum size requirement. Commissioner Rushton
+also asked if any of the adjacent parcels have animal rights. City Planner, Tim Prestwich,
+reported that all of the adjoining properties are zoned RR-22. For that reason, there is no
+fencing requirement. It was noted that some existing fencing is called out in the plans that
+will remain.
+
+Commissioner Cannon asked if there was a way to eliminate putting an extra road out onto
+2700 West. Ms. Halversen explained that that question came up during the review process
+but the north property owners were not willing to share access.
+
+In response to a question raised, the applicant, Lander Seehusen, stated that he is a
+builder/developer. He is purchasing Lot 102 from the owner of Lot 101 and plans to build a
+home on the property and sell it. He is currently under contract to purchase the property.
+
+Chair Gilchrist opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Rushton asked staff if they received a last-minute email from one of the
+neighbors. Staff indicated that no public comments were received by phone or email.
+
+Commissioner Cluff moved to APPROVE PLZ-22-1009 “Seehusen Subdivision”, to be
+located at 11905 South 2700 West with the following conditions:
+
+       1.     Address any outstanding Riverton City Staff redline comments on the
+              plans.
+
+       2.     Storm drainage systems and accommodations shall comply with
+              Riverton City Standards and ordinances, and with the recommendations
+              of the Riverton City Engineering Division.
+
+       3.     The applicant must obtain any necessary approvals or permits from
+              applicable outside agencies or jurisdictions.
+
+       4.     Any necessary easements or agreements on the property shall be
+              recorded with the Salt Lake County Recorder.
+
+       5.     The site and structure shall comply with all applicable standards and
+              ordinances of the City, including the International Building and Fire
+              Code.
+Riverton City Planning Commission Meeting                                                3
+March 23, 2023
+
+       6.     The private lane shall be named with an approved name and the
+              developer shall install a street sign at the entrance to the private lane.
+
+       7.     Existing ditches shall be piped or abandoned and overhead utilities shall
+              be buried according to City Code prior to Building Permits being issued
+              in the subdivision.
+
+       8.     Demonstrate coordination with north adjoiners prior to relocating the
+              existing fence to the property line.
+
+Council Member Matheson seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+       B.     BERGSTROM CUP PRIVATE LANE, PLZ-23-2010, A CONDITIONAL USE
+              PERMIT FOR A PRIVATE LANE LOCATED AT 1933 WEST 11800 SOUTH.
+              APPLICANT - KEVIN BERGSTROM.
+
+Mr. Prestwich presented the Staff Report and stated that the request is for a private lane to
+serve one lot. The property location was identified. Public notice was sent out and no public
+comments were received. Previously, a portion of the property was carved off and deeded
+to a neighbor. The lot lines were also adjusted between the front and back lots to allow Lot
+101 to be large enough to develop. A recorded plat showed an existing private lane that
+serves an existing home. Another existing home has access to 11800 South.
+
+The applicant’s intent was to create a private lane to serve a lot on the backside. There is
+a 20-foot right-of-way but not necessarily a paved surface. That was of concern since the
+current ordinance requires 20 feet of paved surface for two users. The matter would need
+to come back to the Commission for review and approval of any subdivision. Mr. Prestwich
+noted that the ordinance addresses two users on a private lane. If Lot 2 were to try to
+subdivide in the future, the entire length of the lane would need to be brought up to a higher
+standard.
+
+With regard to private lanes, the Planning Commission should address whether it qualifies
+for a private lane based on the Code criteria. Staff believes it does. The property cannot
+be subdivided without a public street and the development on the private lane does not block
+any public rights-of-way.
+
+Commissioner Cannon asked about the hard surface requirements and if crushed asphalt
+complies. Mr. Prestwich stated that it is not considered a hard surface and must be asphalt
+or concrete. City Attorney Ryan Carter stated that the Fire Code requires that to have an
+accessible private lane the surface must be impermeable and capable of supporting the
+weight of a fire pumper. It was determined that crushed asphalt is not sufficient and does
+not meet that requirement.
+
+It was noted that the owner of the other lot must be willing to allow access and a perpetual
+easement to the new lot. The same would have to be documented in the Subdivision
+Riverton City Planning Commission Meeting                                               4
+March 23, 2023
+
+Application. A Homeowners Association (“HOA”) or Codes, Covenants, and Restrictions
+(“CC&Rs”) must be put in place to ensure that the lane is properly maintained.
+
+The applicant, Kevin Bergstrom, reported that the existing home to the south is owned by
+his brother and they will maintain the private lane. When Mr. Bergstrom’s brother got
+permission to build the existing road, he was told that only road base was required. It was
+paved and is narrower than 20 feet. They were willing to expand the lane to the required 20
+feet. Mr. Bergstrom stated that the development will be a good addition to the neighborhood.
+He commented that the existing structures are an eyesore and will all be razed.
+
+Commissioner Cannon asked Mr. Bergstrom how long his family has resided in Riverton.
+Mr. Bergstrom stated that they moved in in 1963. His parents resided on the property until
+his mother passed away. His father passed away in January 2023. Commissioner Cannon
+stated that both were amazing people. He appreciated the legacy Mr. Bergstrom’s family
+has left in Riverton. Mr. Bergstrom stated that the existing home on 11800 South is occupied
+by his sister and will remain and be remodeled. Mr. Bergstrom stated that his brother, Craig,
+owns the home on Lot 102.
+
+Chair Gilchrist opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Matheson moved to APPROVE PLZ-23-2010 “Bergstrom Private
+Lane”, to be located at 1933 West 11800 South with the following conditions:
+
+      1.     The private lane shall follow Riverton City Code for development on
+             private lanes.
+
+      2.     Approval is for one (1) additional lot access onto an existing private lane
+             for a total of two (2) lots accessing the private lane.
+
+      3.     The private lane shall be at least a 20-foot wide drivable surface.
+
+      4.     The private lane shall be paved in either asphalt or concrete according
+             to the standards of the Unified Fire Authority and Riverton City
+             Standards and Specifications.
+
+      5.     The private lane shall include a turnaround designed and installed to the
+             standards of the Unified Fire Authority (“UFA”) and Riverton City
+             Standards and Specifications.
+
+      6.     The private lane shall be named and signed for addressing and
+             emergency response.
+
+      7.     The subject parcel’s driveways, including the private lane entrance. Shall
+             conform to Riverton City Standards for driveways, including but not
+             limited to width, number of driveways, and separation distance between
+             driveways.
+Riverton City Planning Commission Meeting                                                5
+March 23, 2023
+
+
+       8.     The applicant shall obtain subdivision approval from the Planning
+              Commission prior to any construction commencing on the subdivision.
+
+The motion was seconded by Commissioner Rushton. The motion passed with the
+unanimous consent of the Commission.
+
+       C.     M-1 USES, CODE TEXT AMENDMENT, PLZ-23-5004, A PROPOSAL TO
+              AMEND THE PERMITTED USES IN THE M-1 (MANUFACTURING LIGHT
+              INDUSTRIAL) ZONE, RIVERTON MUNICIPAL CODE 18.95.010, TO
+              ALLOW STORAGE UNITS. APPLICANT - DUSTIN JENSEN.
+
+Mr. Prestwich reported that the above matter will go to the City Council for a final decision
+and will change City Code. It is similar to a rezone. The decision will impact the M-1 Zone.
+A text change is being proposed by Dustin Jensen who has worked with staff to implement
+language from the C-G Zone. It allows for a zero lot line or for a structure to be constructed
+with no setbacks from the property line for storage unit facilities where the structures are
+being incorporated in perimeter fencing or enclosure of some or all of the site. A Conditional
+Use Permit in conjunction with site plan approval is required for zero lot line development.
+Where adjacent to residential zones, criteria for consideration may include the proposed
+building height and property line control of runoff and drainage.
+
+A rendering of the subject property was displayed. The applicant is interested in developing
+storage units along the fence line where people could pull in to utilize more of his property.
+Mr. Jensen would like to amend the M-1 standards. Currently, the setbacks in the M-1 Zone
+call for commercial and industrial buildings to be located no closer to residential district
+boundaries of 60 feet. Side yards adjoining each residential use shall be no less than the
+height of the building but no less than 50 feet. The intent was to place the storage units on
+the property line with the back side of the storage unit acting as the fence to separate the
+properties.
+
+The zoning map was displayed and showed areas of the City that are zoned M-1. The
+difference between a rezone and a zone text change was described. Procedural issues
+were discussed. It was noted that the Manufacturing/Light Industrial Zone is to provide areas
+and appropriate locations where light manufacturing, industrial processes, and warehousing
+may be established with sensitive relationships to adjacent agricultural, residential, and
+commercial land uses. The question tonight was if a zero lot line with an architectural wall
+acting as the fence meets the purpose and intent of the Manufacturing Zone. It was noted
+that there are instances where storage units are adjacent to residential properties.
+
+Commissioner Rushton referenced the aerial map and identified areas where a zero-lot line
+would be appropriate. Mr. Prestwich addressed height and was of the understanding that
+the maximum height in the M-1 Zone is 50 feet. Commissioner Rushton asked if that would
+be considered with no notice to the neighbors. Possible options available to the applicant
+were discussed.
+Riverton City Planning Commission Meeting                                                  6
+March 23, 2023
+
+Commissioner Matheson reported that he owns some farmland and if someone proposed to
+put something next to his property he would be happy because it would provide a fence to
+keep his horses in. He has seen nice homes going in in the area and feels it is wrong to
+consider proceeding in instances where neighbors have no input. He expressed strong
+opposition to the proposed change.
+
+Commissioner Cannon felt that the proposed change would infringe on the personal property
+rights of residents.
+
+Chair Gilchrist stated that while the storage unit land use is not necessarily light industrial,
+perhaps the storage unit would be more acceptable with a zero lot line. The point of the M-1
+Zone is to allow light industrial land uses with appropriate setbacks adjacent to residential,
+other commercial, and agricultural areas. He shared the opinion of Commissioners
+Matheson and Cannon.
+
+The applicant’s representative, David Mortensen, from Civil Science was present and stated
+that the proposed setback is 10 or 20 feet. He is proposing to develop RV storage units on
+the property. He is unable to use the east line because there is a 50-foot easement. While
+the applicant does not need a height of 50 feet, he would like to have as much height as
+possible. Access would be along the west side.
+
+Commissioner Cluff asked Mr. Mortensen if the storage will be accessed through the car
+wash parking lot. Mr. Mortensen confirmed that it would be through the west side.
+Mr. Prestwich clarified that if the zone text change were approved the request would have
+to be reviewed again by the Planning Commission for site plan approval.
+
+Chair Gilchrist opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Chair Gilchrist commented that it seems strange to consider amending the Land Use
+Ordinance for one applicant. Mr. Carter explained that anyone has the right to petition the
+Planning Commission and request an Amendment to the Land Use Ordinance. An applicant
+pays the fee and has the right to have the matter vetted before the Planning Commission
+and City Council.
+
+Commissioner Cluff commented that currently the setback is 50 feet and asked about the
+logic behind that. Mr. Prestwich responded that the M-1 Zone is an old zone and it has not
+been updated as frequently as some of the other zones. Because different uses are allowed
+in the area, the thought was to pull them back even further from a property line. There is
+also a building height limit of up to 50 feet in the zone. He commented that changing the
+setbacks across all properties for all uses could be dangerous. The storage units
+themselves may be different at 10 or 20 feet with a max height.
+
+Mr. Carter explained that the concept of the zero lot line and storage units came up to make
+a project work off of Redwood Road. There have not been many since then but they have
+been problematic at times. It is a touchy subject in this circumstance where a change to the
+M-1 zone after residential properties have moved in next to it.
+Riverton City Planning Commission Meeting                                                  7
+March 23, 2023
+
+
+Commissioner Rushton moved that the Planning Commission recommend DENIAL of
+the requested amendment to the M-1 Zone due to the following:
+
+       1.     Incompatibility with the stated applicant’s zero lot line and residential.
+
+       2.     It is concerning to see a specific text amendment for a specific property
+              as there is no notice required to the surrounding property owners.
+
+       3.     In the existing M-1 Zone, there have been a number of projects that went
+              through due process.
+
+The motion was seconded by Commissioner Matheson.            Vote on motion:
+Commissioner Matheson-Aye, Commissioner Rushton-Aye, Commissioner Cluff-
+Aye, Commissioner Cannon-Aye, Chair Gilchrist-Nay. The motion passed 4-to-1.
+
+       D.     COMMERCIAL USES, CODE TEXT AMENDMENT, PLZ-23-5003,
+              PROPOSES AMENDMENTS TO 18.65, 18.70, 18.75, 18.80, 18.85, AND
+              18.100 TO REMOVE LANGUAGE ADDRESSING COMMERCIAL USES IN
+              EACH ZONE AND DEFER TO THE TABLE OF COMMERCIAL USES.
+              APPLICANT - RIVERTON CITY.
+
+Ms. Halversen reported that the above matter came before the Planning Commission
+previously at which time they were asked to recommend an amendment to the Table of
+Commercial Uses. There is a lot of confusion when people ask if certain uses are allowed
+in specific zones. There are also often conflicts between the Table of Uses and the written
+text. The Code specifies that the written text takes precedence over the tables in the event
+of a conflict. What was done last month was to combine the two Tables of Commercial
+Uses. There was one for all of the zones with the exception of the PCC. The Planning
+Commission recommended they combine the two tables.
+
+The next step is to eliminate all references to commercial uses in each commercial zone
+description. In the Downtown Commercial Zone, the two tables of commercial uses were
+combined into one but there is still the written text, which supersedes the table that was
+approved. The written text still calls out various uses as being permitted or conditional. Staff
+proposed to strike all instances in all zones and replace it with alternative language.
+
+Chair Gilchrist asked about storage units and referenced the previous matter addressed by
+the Commission. His understanding was that because it is the M-1 Zone and not CG, it
+would have been permitted. Ms. Halversen stated that it would have been permitted or
+conditional depending on the location.
+
+The proposed changes were presented. Commissioner Cluff referenced the conditional
+uses being stricken in the Commercial Neighborhood Zone and stated that they have
+temporary and seasonal uses. She did not see a comparable to that in the table.
+Ms. Halversen reported that they updated the table and condensed the contents.
+Riverton City Planning Commission Meeting                                          8
+March 23, 2023
+
+Mr. Prestwich indicated that it may not show up in the Table of Uses and may need to be
+addressed.
+
+Chair Gilchrist opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Cannon moved that the Planning Commission recommend
+APPROVAL of the PLZ-23-5003, amending Title 18 by removing language addressing
+Commercial Uses in each zone (18.65, 18.70, 18.75, 18.80, 18.85, and 18.100) and defer
+to the Table of Commercial Uses, as presented, with the caveat that Staff examine the
+amendments to verify that temporary uses such as fireworks and Christmas tree sales
+have been properly allocated with the Code section that addresses such uses. Chair
+Gilchrist seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+3.    DECISION ITEMS
+
+      A.    None.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    None.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:00 p.m.
+

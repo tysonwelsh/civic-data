@@ -1,0 +1,134 @@
+{
+ "date": "2025-07-08",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2025/2025-07-07/2025-07-08_planning-commission.md",
+ "present": [],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to approve the minutes of the May 13, 2025 Planning Commission meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "David Wright"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wilkey moved to approve the minutes of the June 10, 2025 Planning Commission meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Cindy Wilkey",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Don Russell",
+    "David Wright"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve File #4S25-SUB-000525-2025, along wi the conditions of approval approving a Subdivision Plat Amendment Allowing a Two-Family Lot Split for the Properties Located at 4719 South and 4717 South Cathay Circle",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "David Wright",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "4S25",
+    "SUB-000525-2025"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to table File #3S25 / SUB-000519-2025 to give staff adequate time to work out the remaining conditions including working on options for a 42’ right of way as a public street",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-3 Pass",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": "Cindy Wilkey",
+   "aye": [
+    "Marc McElreath",
+    "Cindy Wilkey",
+    "Gordon Willardson",
+    "Barbara Munoz"
+   ],
+   "nay": [
+    "Don Quigley",
+    "David Wright",
+    "Don Russell"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "4-3",
+   "case_no": [
+    "3S25",
+    "SUB-000519-2025"
+   ],
+   "motion_no": 4
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Mufioz moved to adjourn. Chair Russell",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Barbara Munoz",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "3S25"
+   ],
+   "motion_no": 5
+  }
+ ]
+}

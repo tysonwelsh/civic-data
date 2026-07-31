@@ -1,0 +1,51 @@
+{
+  "date": "2024-08-07",
+  "title": "City Council Special Session",
+  "body": "Council",
+  "source": "meeting_minutes/minutes/2024/2024-08-05/2024-08-07_city-council-special-session.md",
+  "votes": [
+    {
+      "motion_no": 1,
+      "body": "Council",
+      "motion": "OPEN THE PUBLIC HEARING AT 4:49 PM",
+      "motion_type": "Public Hearing Action",
+      "result": "Carried unanimously",
+      "mover": "Rasmussen",
+      "seconder": "Sifuentes",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Holdaway",
+        "Rasmussen",
+        "Sifuentes"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Cameron"
+      ],
+      "recuse": []
+    },
+    {
+      "motion_no": 2,
+      "body": "Council",
+      "motion": "close the public hearing at 4:59 PM",
+      "motion_type": "Public Hearing Action",
+      "result": "Carried unanimously",
+      "mover": "Rasmussen",
+      "seconder": "Cameron",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Cameron",
+        "Holdaway",
+        "Rasmussen",
+        "Sifuentes"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [],
+      "recuse": []
+    }
+  ]
+}

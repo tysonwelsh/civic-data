@@ -1,0 +1,896 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1822&doc_id=c4444928-eee8-11ef-a9e2-005056a89546
+> Meeting date: 2024-12-12
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, DECEMBER 12, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Kendra Shirey
+               Commission Member Gary Ogden
+               Alternate Commission Member Christine Green
+               Alternate Commission Member Shivam Shah
+
+EXCUSED:               Commission Member Mary Squire
+                       Alternate Commission Member Laura Fidler
+
+STAFF:                 Jennifer Jastremsky, Community Development Director
+                       Todd Draper, Planning Manager
+                       Traci Gundersen, City Attorney
+                       Brien Maxfield, Senior Engineering Manager
+                       Laura Oscarson, City Recorder
+                       Brandy Anderson, Fire Inspector
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order at 6:31 p.m. and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+       A.      Action Item: Radnet Corporate Office Building Site Plan and Building Design
+               Deviations Approval Extension Request (Administrative Action)
+               On the Request of Brett Harris, Representing Harris Architecture, Wendel and Trudy
+               Gibby, and Radnet Properties, LLC, an extension of the December 7, 2023, Planning
+               Commission approval of a Site Plan and Deviations for Building Design Standards on
+               approximately 2.75 acres of property, located at approximately 39 West 11400 South.
+               Known as Application SPR-59-2021. Staff Contact: Todd Draper, 801-576-6335,
+               todd.draper@draperutah.gov.
+
+Planning Manager, Todd Draper, presented the extension request to the Planning Commission and
+reviewed slides from the December 7, 2023 presentation of the Site Plan and Deviation requests to
+the Planning Commission. This item is not a public hearing, just an action item. Model motions were
+presented on-screen and in the Planning Commissioner Packet. To approve the extension the Planning
+Commission must find that there is good cause to do so. The applicant’s representative, Christine
+Buxton shared that Dr. Gibby was on humanitarian efforts in Africa and she was available for
+questions of the Commission. They are currently producing construction drawings. The Commission
+raised a question regarding the applicants first name being Brett or Brent as it appears differently on
+different documents. It was confirmed to be Brett.
+
+Motion: Commissioner Shirey moved to APPROVE the Request for an Extension of Approval
+for the Radnet Corporate Office Building Site Plan and Building Design Deviations Request, as
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 2
+
+requested by Brett Harris, representing Harris Architecture, Wendel and Trudy Gibby, and
+Radnet Properties, LLC, for Application SPR-59-2021, based on the following:
+
+Finding for Approval:
+
+       1.        Good cause has been shown for the extension of the Planning Commission
+                 approval.
+
+Second: Commissioner Nixon seconded the motion.
+
+Note: The meeting system audio recording cut off and was lost after the motion and second were
+made. A short five (5) minute break was taken as staff restarted the meeting recording and started
+additional backup recordings. A backup audio recording did capture the first 12 minutes of the
+meeting.
+
+Vote on Motion: 5-0 in favor.
+
+            Commissioner        Yes   No   Abstained     Not Participating      Absent
+            Fowler              X
+            Squire                                                              X
+            Ogden               X
+            Nixon               X
+            Shirey              X
+            Fidler, Alternate                                                   X
+            Shah, Alternate     X
+            Green, Alternate                             X
+
+       B.        Public Hearing:      Suncrest Reception Center Zoning Map Amendment
+                 (Legislative Action)
+                 On the Request of Adam Koch, Representing Suncrest Reception Center, for a Zoning
+                 Map Amendment from the C-2 (Neighborhood Commercial) Zone to the CG (General
+                 Commercial) Zone for 1.28 acres of property, ;located at approximately 2021 East
+                 Village Green Circle. Application 2024-0374-MA. Staff Contact: Jennifer
+                 Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, presented the Staff Report and explained
+that the application is for a Zoning Map Amendment. There are three properties associated with the
+rezone request. She shared a vicinity map and aerial map and pointed out the three properties. The
+parking lot was originally owned by the City, but there was a land swap last year, and it is now owned
+by the Royal on Ridge restaurant. The subject property is part of the Suncrest development area and
+is tied to the 1999 Draper City Municipal Code. She explained that the Development Agreement for
+Suncrest was approved in 1999, and with that Development Agreement, everything is vested in the
+1999 Draper City Municipal Code. The C-2 (Neighborhood Commercial) Zone is an old zoning
+designation. The request is to rezone the three parcels to the CG (General Commercial) Zone. The
+Land Use Map is not proposed to be changed at this time.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 3
+
+
+The Design Guidelines for Suncrest are included as an exhibit in the Meeting Materials Packet. The
+guidelines list a few uses, such as retail, office, Homeowners Association (“HOA”) community
+building, and uses allowed in the C-2 Zone. Ms. Jastremsky looked through the C-2 and CG Zones
+to determine uses that are similar and uses that are different. In 1999, the code was organized a little
+bit differently. In the current version of the code, there is a personal care service listed. That includes
+uses such as a barbershop, hair salon, nail salon, tailor, and so on. In the 1999 version of the code,
+each of those uses were listed individually with an indication of whether or not that use was allowed
+in the zone. Similarities between the zones are as follows:
+
+   •   Public and private schools;
+   •   Funeral homes and mortuary;
+   •   Vehicle sales, rental, and repair;
+   •   Gasoline service station;
+   •   Recreation and entertainment (indoor and outdoor);
+   •   Retail;
+   •   Personal care service;
+   •   Personal instruction service;
+   •   Restaurant/bar;
+   •   Office (general or medical).
+
+Ms. Jastremsky reviewed some of the uses that are different between the two zones. She clarified
+that the following uses are allowed in the CG Zone but are not allowed in the C-2 Zone:
+
+   •   Auto, truck, RV, and equipment storage;
+   •   Office warehouse;
+   •   Wholesale and warehousing limited;
+   •   General daycare;
+   •   Reception center;
+   •   Tattoo establishment;
+   •   Manufacturing, limited.
+
+It was clarified that the C-2 Zone has some specific uses listed that would classify as limited
+manufacturing. For example, carpentry work and an upholstery studio. While there are a handful of
+uses that would be classified as limited manufacturing, those are narrower compared to what the CG
+Zone allows today in that category. Ms. Jastremsky offered to answer Commissioner questions.
+Commissioner Fowler expressed appreciation for the comparison information. She read through the
+public comments that were submitted in advance and noticed that there were some comments about
+increased parking. Ms. Jastremsky clarified that the HOA is looking into the addition of a parking
+lot. Commissioner Ogden asked if there is a zone that matches the C-2 Zone more than the CG Zone
+does. Ms. Jastremsky reported that there is the CN (Neighborhood Commercial) Zone, which would
+be a closer match. However, that zone does not allow for a reception center, which is the specific use
+that the applicant wants to have on the property.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 4
+
+Chair Adams explained the differences between the City Council and Planning Commission. The City
+Council will consider this item at their next meeting. The Planning Commission is tasked with
+forwarding a recommendation to the Council ahead of that meeting. The Commission will either
+forward a positive recommendation or a negative recommendation. This process allows the applicant
+to hear initial feedback from members of the public and the Commissioners. Details about the public
+hearing process were shared. Residents will be allotted three minutes to speak and are asked to state
+their names clearly for the record. The hearing will be opened shortly.
+
+Ms. Jastremsky shared additional information about the additional HOA parking lot. She pointed out
+the location on the aerial map. That was also part of the land swap that the City was involved in. It
+is the HOA that is planning to install that parking, so it is not directly related to this application.
+Commissioner Shah asked for additional details about the rezone request. Ms. Jastremsky reported
+that the zoning for the three parcels would be changed with this request. In response to
+Commissioners questions about why other parcels were included in the request, Mr. Draper explained
+that there is a minimum area required for this type of zone. To reach that minimum area for the CG
+zone, all three parcels were needed.
+
+Chair Adams reminded those present that the Planning Commission is looking at the impacts
+associated with the requested zone change. The Commission is considering the zone change rather
+than only what the applicant wants to do. Commissioner Shah asked if a zone change is necessary,
+and wondered whether a Conditional Use Permit might be preferable. Ms. Jastremsky explained that
+the C-2 Zone does not allow for a reception center, even as a Conditional Use. Commissioner Fowler
+asked how the applicant can propose that all three parcels be rezoned when only one lot is an issue.
+Ms. Jastremsky explained that any property owner can request a rezone. The adjacent property
+owners signed an affidavit to join in with the rezone request. Additional discussions were had about
+the rezone process. It was noted that the City Council has broad leeway to decide whether to approve
+or deny a rezone. Something like a Subdivision or Site Plan comes down to whether the application
+meets the code. If it does, then the City has to approve the application. Chair Adams reminded the
+Commission that what is currently before them is a rezone request.
+
+The applicant, Adam Koch, introduced himself to the Commission. He noted that he and his wife,
+the owners of the office building, moved into Suncrest in 2000 and have raised their children in the
+area. Mr. Koch explained that he has dedicated countless hours to community improvement and has
+served on the HOA Board for the last seven to eight years. He has allowed the building to be utilized
+in the past for different reasons at no cost. He stated that he is looking out for the best interests of the
+community. At the same time, he is looking for a use that works well and makes sense for the space
+as a commercial business owner. When it comes to the zoning, C-2 is an old zone, but there are
+numerous businesses that he could open in that zone. Some of the Suncrest residents have expressed
+concerns about what will happen on the site in the future if he eventually decides to sell the property
+to someone else. He pointed out that under the current zoning, it would still be possible for an owner
+to have conditional uses for an animal hospital for large animals, bed and breakfast, hotel, motel,
+kennel, liquor store, or nightclub. He stated his only intent is to do an event center. He stated that he
+believed the intent of the construction was that the building would never be owned privately and that
+it was set up for large mass gatherings.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 5
+
+Mr. Koch explained that the building does not make sense for use as an office building. He explained
+that it is approximately 5,000 square feet and there are only five offices in the space. The entire main
+floor is open. Additionally, there are 41 parking stalls. Mr. Koch reiterated that it was not intended
+to be used as an office space. Mr. Koch reported that the building was intended to be owned by the
+HOA, but based on various circumstances, the building was eventually sold to D.R. Horton. It was
+then put on the market for sale. When it went on the market in 2016, he made an offer and kept
+ratcheting up his offer. The HOA made an offer also and had an opportunity to buy the building, but
+they were not willing to pay the price he did to get the building. He owns the building and would like
+to do something that he feels is beneficial to the community and gives him the opportunity to pay for
+the cost of the building.
+
+The Meeting Materials Packet were referenced and the submitted concerns of some of the Suncrest
+residents. Mr. Koch wanted to address some of the comments. Some of the comments expressed
+concerns about this operating as an event center. The concerns seem to be centered around a few
+different issues, including fireworks. Mr. Koch explained that this has been operated as a reception
+center previously and there was one situation where someone used fireworks. He stated his belief
+that the term “fireworks” can be misleading because he thinks of roman candles or something
+exploding in the sky. There was one party that simply had a send-off with sparklers and is what is
+being referred to as fireworks. He restated that it only happened one time. Since then, he has made
+numerous changes to the business operations. Their contracts now specifically state that there can be
+no fireworks or fire of any kind permitted on the site. He stated that from now on they will have
+someone onsite for the entire event.
+
+Another concern that has come up relates to parking. Mr. Koch explained that the building comes
+with dozens of parking spots. He realizes that some homeowners are unaware that he owns the
+parking spots that the HOA uses year-round. He stated that he paid $11,000 in property taxes last year
+to Salt Lake County for the taxes on the building. He explained that he has never towed or left notes
+on cars. He felt that if the HOA can approve the parking lot that they want to build, that will take care
+of the parking issues. The venue itself has never had a parking issue and can handle all of their needs.
+There have been conversations with the Fire Marshal and communication with the Building
+Department to determine what kind of occupancy capacity the building can handle. It has been
+determined that the building capacity is about 81 individuals which is less than they have been doing
+prior. With a maximum capacity of 81 and 41 parking spaces available, there is no parking issue on
+the site. He realizes that Suncrest residents do not see it the same way, but parking for their business
+can be provided. While there is a parking need for the Suncrest residents, that need is not related to
+his property.
+
+There have been some resident complaints about noise. However, Mr. Koch stated that starting in
+January 2025, they will no longer be able to access and use the park. That means they won’t be
+setting up tables and chairs for ceremonies in the park and that everything will be done inside their
+own building. Mr. Koch does not know that the City ever received a formal complaint about noise
+associated with the events. The purpose of the rezone request is to be a wedding venue and event
+center. As for the concerns about what will happen to the building in the future, certain uses will
+work well in the area, and certain uses will not. The location impacts what kind of use can occur.
+Mr. Koch reiterated his believe that the building was clearly constructed with events and gatherings
+in mind based on the design. That being said, he is willing to give the HOA first right of refusal if he
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 6
+
+chooses to sell. He noted that if the HOA owned the building it might be used for the same purposes
+that he proposes to use the building for.
+
+Commissioner Fowler asked how Mr. Koch will manage the 81-person maximum occupancy.
+Mr. Koch explained that when he purchased the building, he believed there was a 99-person
+maximum occupancy. Mr. Koch further explained that with all their tables and chairs set up inside
+the building they can only seat about 70. He also explained that if invitations are limited to between
+300 and 350 that he believed statistically only ½ of them would show up over a 3hour window with
+those coming and going. He will make it clear up front that they can only handle so much. Mr. Koch
+stated that in regards to the C-2 zoning questions is that he didn’t think he needed a zoning change as
+Siempre down the hill at the golf course was in the same zone on the map. He would he happy if he
+could just request a Conditional Use. The rezone has been requested for the property because it is not
+possible to obtain a Conditional Use Permit for the use in the existing zone. In response to a request
+from Commissioner Fowler, the parking locations were indicated on the aerial map.
+
+Commissioner Shah asked whether there are any deals or agreements in place with the HOA for
+parking. Mr. Koch reported that there is an easement agreement in place that allows homeowners to
+use the parking. Commissioner Nixon asked if Mr. Koch was aware that a reception center was not
+an allowed use prior to the purchase of the property. Mr. Koch explained that when he purchased the
+property, he had no intention of using the space for anything other than a real estate office. Chair
+Adams mentioned the parking in front of the pool and HOA building. It was clarified that those
+spaces belong to the HOA. Mr. Koch remarked that the HOA has about 1,400 homes and only 13-14
+parking spots, and that as and HOA they have been working to add another parking lot with 30-32
+parking spaces. He needs to have access to his parking spots when he holds events.
+
+Mr. Koch reported that this past year, the reception center was on track to hold approximately 40
+wedding events. That is less than four events per month. Typically, the wedding events last for three
+or four hours. His request is to have a business where he can use his own parking when those events
+take place. It is only a few nights per month that he is asking to use his own parking. The rest of the
+time, according to the easement agreement the homeowners can use the parking spaces as needed. He
+hasn’t towed, cited, or called the city about any of the parking issues in the past.
+
+Chair Adams opened the public hearing.
+
+Christine Foster explained that she is a Suncrest resident. It seems the reception center is used
+regularly, where use is occurring every single weekend. She can hear the music from her house. At
+first it was okay, now they play club music outside and if they are approved it will only get worse.
+Parking is also an issue because people are parking all along Deer Ridge Drive, which makes it
+difficult for residents. She does not ever use the parking at the reception center. Many residents live
+in the area and are now dealing with noise and parking issues. She understands that Mr. Koch wants
+to use the building in this way, but it should not be at the expense of the residents who live nearby.
+From past experience they will not monitor the guests. After the events take place, there is litter and
+things tied to trees. Even if the use is limited to the building, people will still come outside at times.
+The space is small and this means residents will be unable to enjoy the area when events are taking
+place on the weekend.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 7
+
+Scott Steadman lives in Suncrest and explained that he is viewing this application as a resident of the
+community. He asked the Commission why it is not possible to have a Conditional Use Permit for
+the use. Mr. Steadman expressed opposition to the proposed rezone application for the commercial
+property due to potential negative impacts on the community. The current zoning was established to
+limit commercial impacts, such as increased traffic, noise, and reduced property values. Several high-
+impact uses are already allowed under the current zoning designation. Expanding to the CG Zone
+allows several other uses, including businesses that have extended hours, higher traffic, increased
+parking demands, and noise-generating activities, which could disrupt the residential environment
+without appropriate safeguards. This is contrary to the intent outlined in the original Master Plan and
+the current zoning guidelines. The applicant knew it was an illegal operation, it was no accident. The
+applicant has already been illegally operating a reception center on the property, which he feels
+demonstrates a disregard for the established zoning rules. Rather than following the regulations, the
+applicant is now seeking a rezone to accommodate prior unauthorized use. The applicant is aware of
+the permitted uses and should operate within those uses. While the applicant has claimed ownership
+of 41 parking stalls, not all parking is on the applicant’s property as they stated. He noted that while
+parcel maps are not always precise, plat maps and surveys indicate that some of the claimed stalls
+may not entirely fall within the property boundary of the applicant. This should be reviewed further.
+
+As for the shared parking agreement with the Suncrest HOA, based on the information available, it
+appears that Suncrest owners and guests have the right to use all stalls at their discretion. The HOA
+pays for all repairs. Mr. Steadman encouraged the Planning Commission to evaluate the agreement
+thoroughly. He asked the Planning Commission to deny the proposed rezone and preserve the
+existing C-2 Zone.
+
+Jeanine Johnson stated that K2 Realty is a benefit to the community and noted that her comments are
+not personal. It seems that the C-2 Zone was designed to preserve an intimate community. The zone
+is intended to benefit the community and she does not believe the proposed rezone would be a benefit
+to the community. There is already a reception center available to Suncrest residents because the
+clubhouse has a room that can be rented. It does not accommodate as many people, so there is not a
+significant traffic impact. Parking is an ongoing challenge, as the roads are narrow, and when parking
+is along them, they become difficult to navigate. She stated her belief that this use would increase
+traffic and congestion.
+
+The applicant mentioned that he would give the HOA first rights to purchase the property, which is
+something Ms. Johnson feels is generous. However, she is uncertain that the HOA could afford to
+purchase the building in the future. She reiterated that the reception center is not a benefit to the
+community and hopes there might be some other way for the building to be used. Ms. Johnson asked
+the Planning Commission to deny the rezone request and maintain the current zone.
+
+Holly Walther explained that she is the Community Manager for Suncrest. When it comes to the
+parking that is planned for the HOA, bids are being considered and the intention is to break ground
+in the fall. It will be HOA parking for residents only. There might be a gate there to monitor the use.
+In addition, there is an easement agreement with the applicant. That agreement is financial, so the
+HOA covers all snow removal, asphalt, curb, gutter, and some landscaping in exchange for use of the
+parking. While there are approximately 41 parking spots in that area, there are seven to nine spaces
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 8
+
+that are split ownership and not entirely owned by either K2 (the applicant) or the HOA. There are
+additional similar spaces in split ownership between K2 and the Ridge Restaurant.
+
+Patricia Cho stated that parking is a concern as well as noise. When events are taking place, the noise
+is unbearable. It is difficult to live with that every weekend. There is also garbage, broken glass, and
+plastic petals in the park after the events take place. It takes time for the cleaning to be done. She
+stated that there is a Farmers Market once a month and they also park all over the streets. She does
+not mind when events take place that benefit the community, but the events at the applicants’ building
+are not beneficial. It is frustrating that wedding events are taking place every weekend in the summer.
+
+Clayton Anderson believes he lives the closest to the subject property since he is right across the
+street. He has not had a parking issue. The parking that normally takes place in front of his house is
+from the HOA and people who come to use the pool. He has not had any issues with noise and he
+lives closest to the applicant property. He stated that noise from HOA concerts can also be heard in
+the neighborhood. Mr. Anderson understands that there are a lot of concerns from the Suncrest
+residents, but he lives nearby and does not share those concerns. In the winter, this site could be
+beneficial to have the space available so there can be larger family or social gatherings. Mr. Anderson
+expressed his support for the proposed rezone and the event use.
+
+Nate Crawther pointed out the location of his home on the aerial map. He stated that Mr. Koch is a
+wonderful person and neighbor. When he needed a temporary office, Mr. Koch cleared out one of
+the offices and allowed him to rent it. It is clear that Mr. Koch is an asset to the community, especially
+considering the fact that he allows the community to utilize the parking. If the HOA had ultimately
+acquired the building, it would have been used for large gatherings as well. Mr. Crawther understands
+the concerns expressed about the park, but if the use is taking place only in the building moving
+forward, he is not sure how noise will be an issue. He stated that he held a mission farewell for his
+son at the property and also a wedding reception. Does not see how the use is a problem as long as
+they don’t use the park. He has not experienced noise problems that others have mentioned. There
+does not seem to be harm in allowing the applicant to continue to use the property in the way he has
+been using it.
+
+John Herman stated that he is present at the Planning Commission Meeting to express his support for
+the proposed rezone. The property in question is well suited for certain events, understanding that
+the events must follow the size and scope restrictions. He recently attended an event there. Based on
+his experience, the use makes sense for events too large to take place in a home. He detailed a time
+that the building was opened for school kids waiting for the bus in the cold. Mr. Herman wants this
+location to be run and operated by someone who lives in Suncrest and cares about the community.
+He appreciates that Mr. Koch has contributed positively to the area. There have been many times
+where the owner has allowed the use of the parking lot and building to benefit residents. Mr. Koch
+has a vested interest in Suncrest and that is the reason he supports the rezone.
+
+Billy Speirs has lived in Suncrest since 2005. He owns three homes in the area and has known Mr.
+Koch for a long time. There are not a lot of businesses that can survive in the location, which is the
+reason he is supportive of the rezone. He recognizes that the owner needs to be able to pay the bills.
+He does not see harm in the reception center use.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 9
+
+Iryna Sharovar pointed out her house on the aerial map and explained that the park belongs to the
+HOA. If there are formal events held in the park, then permission needs to be granted by the HOA.
+Mr. Koch is on the Board of the HOA, so there might be some conflict of interest happening here.
+The parking spots now have signs stating they are for K1 (K2) parking only. Weddings usually take
+place during the summer months and it is unlikely that all wedding guests will remain in the building
+during an event, especially when there is a park nearby. After events, there is often a lot of garbage
+left in the park and event guests park in the neighborhood. Ms. Sharovar often has to clean garbage
+off of her property and finds that the events can be loud.
+
+Patrick Baum has lived in Suncrest for 14 years and it is a beautiful place. In his experience, most of
+the issues related to parking have to do with the clubhouse use and the pool. His family visits the
+park often and it is wonderful. Seeing the weddings take place there has been beneficial to the
+community. Mr. Baum is a business owner and is always looking for venues where it is possible to
+hold events and meetings, so he is in favor of the rezone. The rezone will help a lot of small business
+owners because the event space ensures there is a nearby venue that can be used.
+
+Loren Dalton has lived in Suncrest for the last seven years. He asked whether the HOA is under the
+same zoning as the subject property. He felt that if the same zoning applies, then the HOA has also
+been holding events illegally. He believes that Mr. Koch is a man of integrity and he is supportive of
+the rezone request. However, if it is possible to have a Conditional Use Permit instead, that would
+be preferred.
+
+Jessica Jiron explained that other comments have covered many of her concerns. She wondered what
+would happen if the CG Zone was applied and it created an influx of non-residents in the area. For
+example, if there would be more vandalism or other issues associated with the rezone. Ms. Jiron
+reported that there were a number of emails submitted by those who could not be in attendance at the
+meeting and that most of them were in opposition to the application.
+
+Neil Rosenberg stated that he is a Suncrest resident. The City Code asks the Planning Commission
+to consider three specific criteria when evaluating a request like this. Although he sympathizes with
+the applicant, the application fails on all three counts. As a result, he feels this application should be
+rejected. Mr. Rosenberg noted that the Commission must consider whether the application is
+harmonious with the character of the existing development in the vicinity. He does not feel that it is.
+The CG Zone should generally be placed along high-traffic corridors that serve commuters and
+travelers. Based on the Zoning Map, it is challenging to find that zone placed inside a residential area
+like this. Approving the rezone request would result in an abrupt land use change, which is something
+the General Plan strives to avoid. The applicant has argued that the reception guests will add to the
+community feel, but based on comments submitted, that does not seem to be the case. It is also
+important to consider whether the application is consistent with the goals and objectives of the
+General Plan. He felt that this proposal is contrary to the goals and objectives of the City General
+Plan regarding preservation of the high quality of life. It may conflict with some of the economic
+goals in the General Plan. There seem to be competing goals in this instance.
+
+Another question the Commission must consider is how the application impacts adjacent properties.
+Mr. Rosenberg believes the noise and congestion risks decrease the property values. There is no
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 10
+
+overwhelming benefit that has been established for the surrounding property owners. Since the
+application fails to meet the criteria, he feels the Commission must recommend denial.
+
+Jeffrey Brown lives near the subject property. He stated that if the rezone is not approved, it will
+impact one business. There will still be all of the fairs, farmers markets, outdoor weddings in the
+park, and so on. He has never had an issue with noise or parking related to the subject property. The
+only parking issues he has experienced have been the result of the community events. Mr. Brown has
+heard issues about garbage in the park, but he does not feel that will change based on the rezone
+request. Many other events occur in the park. Mr. Brown is in support of the application as he also
+is a business owner and stressed the importance of allowing the property owner to use the property
+fully. He feels that others complaining about the proposal have no financial interest in the property.
+
+Jennifer Negrete noted that a lot of her concerns have already been expressed. She is not in favor of
+the reception center as it brings in outside traffic. She wants something that will more directly benefit
+the Suncrest owners. Stated that she has a financial interest in the use of the subject property as she
+pays her HOA fees.
+
+Mark Runia has been a Suncrest resident for 20 years and has known Mr. Koch for all of that time.
+At one time, he owned the applicant building and sold it to Mr. Koch. He interviewed many people
+who wanted to purchase the building and he chose Mr. Koch, not necessarily because of the money,
+but because of his integrity. He believes that Mr. Koch is a man of his word, he does what he says,
+and has an interest in the community. The noise associated with this building is not the issue. He
+pointed out that the noise associated with various community events, such as the farmers market and
+movies in the park actually cause the noise. Mr. Runia is in favor of the amendment to the Zoning
+Map.
+
+Jamie Pogue has known Mr. Koch for many years and echoed the comments about his integrity.
+Jamie mentioned he serves as the Chair of the Draper Trails Committee. Opined that maybe it was
+not perfect when Adam started but he is trying to address the issues now. It is clear that he is willing
+to make changes to reduce impacts on the community. Mr. Pogue pointed out that if the business is
+unable to remain open, the building can be sold, and someone else could shift the use to something
+else entirely. There are a number of possible uses allowed in the current zone. Mr. Pogue expressed
+his support for the application and the rezone request and warned others who were in opposition that
+they should be careful what they wish for. Sometimes, it can be difficult to find events for medium-
+sized gatherings and this fills that need. He feels the reception center use benefits the neighborhood
+and will benefit Draper overall.
+
+Kate Nederostek stated that she is a resident of Suncrest. Several letters and emails were submitted
+to the City about this application, including one from the HOA attorney. The attorney strongly
+opposed the rezoning, because it would be detrimental to the neighborhood. She pointed out where
+her home is located on the aerial map and explained that there is a difference between a market that
+ends at 8:00 p.m. and a reception event with dance music into the late evening. When reception
+events happen, the music is pointed in a different direction and it can be heard in the neighborhood.
+She mentioned she can hear the music from the venue every weekend. Residents have their own
+clubhouse to use and will not book his space for their events. The events held by residents on the
+green have not caused issues. On the weekends, there are now wedding events taking place. As for
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 11
+
+the integrity of the applicant, she felt that it has been shown to be otherwise, as the space is already
+being used inappropriately. She has complained to the HOA about the trash but nothing is getting
+better.
+
+Dustin Erskine has lived in Suncrest for the last 14 years. He noted that Mr. Koch has been generous
+with the building and the parking. It is odd that someone would be concerned about noise and parking
+while being aware that there is a building, clubhouse, and park nearby. Mr. Erskine loves to see the
+events happening because it creates a lively atmosphere. He mentioned that the restaurant was closed
+for some time and that was not a good look for the community. He felt that seeing this building be
+used for events is wonderful and he pointed out that it can benefit local residents as well. He expressed
+his support for the rezone request and reiterated that this can benefit everyone.
+
+Bill Maxwell has lived in Suncrest for the last 13 years. He rents an office from Mr. Koch and is also
+the current Suncrest Board President. The Suncrest Board has voted to stay neutral in this matter and
+is neither for nor against the application. Mr. Maxwell realizes that noise was an issue last year. On
+the back of the applicant building, there are two big speakers mounted on the outside of the building
+pointed towards the park, and several neighbors complained to him about the noise. There have been
+discussions with the applicant, who expressed a willingness to move everything inside and turn off
+the outside speakers. That should alleviate some of the problem. Mr. Koch has been wonderful with
+the HOA as far as the parking agreement and has been an outstanding community member. He
+believes an effort will be made to come to an agreement so the HOA and Adam could both use the
+park, that would blend in with the community as much as possible. That being said, the event use
+will bring more traffic to the area. He reiterated that the Board has not taken a formal position on this
+application. He mentioned that there are other negative things could come into the building.
+
+Ronnie Jiron expressed his opposition to the application. Mr. Koch has been utilizing the green and
+HOA equipment for wedding events and there have been chairs and tables out. The fire pit and other
+Suncrest amenities have also been used. He does not see any benefits to the community with the
+rezone request. Mr. Koch has stated that there will be monitoring done, but it is unlikely that he will
+attend every event to make sure it is running appropriately. Mr. Garrone pointed out that every
+wedding will be different and every scenario will be different, so he is not supportive of the request.
+
+There were no further comments. The public hearing was closed.
+
+Chair Adams thanked everyone who took the time to share comments. He took notes during the
+public hearing to track some of the questions from residents. The first question was shared:
+
+   •   Why can this not be a conditional use as opposed to a rezone?
+
+Ms. Jastremsky explained that the Zoning Code has a Use Table. The code designates whether a use
+is permitted, conditional, or not permitted. If a use is not listed, it is considered not permitted. The
+code from 1999 does not have a reception center as a listed use. Commissioner Fowler asked whether
+the recreation center is defined in the code. It was confirmed that the current code and the 1999
+version has a definition for recreation and entertainment use indoor and outdoor, which is what the
+clubhouse would fall under. There are also separate reception center uses. Chair Adams asked what
+the clubhouse used by the HOA is zoned as. It was stated that it is in the C-2 Zone, which is the same
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 12
+
+as the subject property. Chair Adams pointed out that the clubhouse room can be rented for events.
+Ms. Jastremsky clarified that it is the HOA clubhouse, so it is a recreation and entertainment space
+for the HOA. It is a private space for residents in the area.
+
+Chair Adams mentioned the Siempre reception center that was previously considered by the Planning
+Commission. A lot of the same concerns were expressed at that time as far as noise, parking, traffic,
+and so on. That property is also zoned C-2. Ms. Jastremsky explained that the difference is in the
+Development Agreement. Siempre is within the South Mountain Master Plan community area. It
+has a separate Development Agreement and Design Guidelines. The guidelines planned for a golf
+course and all of the amenities, including a reception center use.
+
+Chair Adams asked another question that was posed during the public hearing:
+
+   •   If the HOA were to decide to purchase the subject property, what rights and privileges would
+       they have? Could it be used as an extension of the clubhouse?
+
+Ms. Jastremsky explained that the clubhouse was approved as recreational entertainment (indoor and
+outdoor) and there is a Conditional Use Permit for that use. If that building was eventually
+incorporated into the HOA, a Conditional Use Permit would be needed. A rezone would not be
+needed for use as additional clubhouse space. City Attorney, Traci Gundersen, pointed out that what
+is before the Commission is a Zoning Map Amendment. That is what the applicant is requesting. It
+was noted that it is not possible to have a Development Agreement in this case. The requested use is
+not permitted in the C-2 Zone, which is the reason for the rezone application.
+
+Commissioner Nixon pointed out that the Planning Commission is advisory to the City Council. The
+Commission will forward a recommendation, but will not make the final decision. In this case, the
+Commission has to look at all of the uses allowed in the new zone. Chair Adams noted that if the
+building was sold to someone else, there could be a nightclub or other noise-producing use.
+Additional discussions were had about other uses that could occur within the current zone.
+Commissioner Nixon reported that there are approximately 1,400 property owners in Suncrest and
+those who have shared comments are only a small fraction of those owners. It is hard to know whether
+the majority is in support or against the application. The Commission needs to consider the criteria
+that has been listed in the Staff Report and make a recommendation based on that.
+
+Mr. Koch addressed some of the comments made during the public hearing. If there are concerns
+about what will happen if he sells the building in the future, he is willing to give the HOA the first
+right of refusal. However, he does not understand what would be different if the HOA owned the
+property. The HOA would be allowing the exact same kind of use that he desires. That means the
+concerns about noise, garbage, and traffic would remain whether he owns the building or the HOA
+owns the building. He understands the benefit to homeowners, but that does not eliminate the
+concerns. Mr. Koch pointed out that he does not currently have access to the park. All of the events
+will take place within his building. While he does have a patio in the back, there is only room for
+approximately three tables out there. There will be people who choose to walk through the park, but
+that should be expected. If the HOA wants to patrol and ticket any non-resident for utilizing the park
+area, then that is something that should be done year-round. Mr. Koch does not know what people
+are talking about when it comes to garbage in the park, because after every single event, he has gone
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 13
+
+through to pick up any garbage that is found, even waste that is unconnected to the event. There are
+a lot of assumptions about noise and garbage, but he feels that those are not tied to his use.
+
+Whenever an issue has been raised by the HOA, that issue has been addressed immediately. Mr. Koch
+is doing everything possible to be a good neighbor. He understands that Siempre is in a different
+situation because of the Development Agreement, but noted that it is a very similar use. Mr. Koch
+wants to work with the HOA and reiterated that events happen only a handful of times per month.
+Aside from that, it is wide open and everyone is able to use the space and parking. This isn’t a
+business that he can close down immediately, as people have booked important events. The events
+that took place in the park were done with the permission of the HOA through a reservation. Moving
+forward, the park will not be used at all, as the use will be inside the building.
+
+Chair Adams suggested that between the Planning Commission Meeting and the City Council
+Meeting, the applicant speak to some of the neighbors and talk through some of the concerns. The
+Commission will not get involved in the HOA, but are here to look at the zoning request.
+
+Commissioner Shirey noted that there has been some discussion about the parking. Someone from
+Suncrest said there was a financial arrangement where the HOA is paying for the maintenance. Mr.
+Koch confirmed this. Commissioner Shirey asked if there is any restriction in the agreement on the
+use of the parking when an event takes place at the building. Mr. Koch denied this. He stated that
+the agreement was entered into in 2017 when he did not anticipate that there would be a reception
+center. The existing agreement allows HOA parking to take place even when there is an event
+scheduled in his building. As a result, he has coordinated all of his events so there is no overlap with
+anything the HOA has scheduled. He has turned away receptions because of overlap with a market
+or a concert in the park. He does not want to create a situation where parking is a problem.
+
+Commissioner Fowler asked to further review the aerial map and the criteria for Planning
+Commission approval. Based on the map, she sees a triangle of recreation in the middle of the
+residential area. It seems like the building and the use fits because similar uses are happening nearby.
+Commissioner Shah agreed. Commissioner Fowler feels the use is compatible based on the
+recreational uses that are present. Commissioner Shirey agreed but had concerns that this is not a
+conditional use that is restricted to this owner. The rezone can impact future uses. She commends
+the cooperation that has occurred, but the Commission needs to consider what could potentially occur
+in the future and whether that is consistent with the surrounding uses in the area.
+
+Chair Adams pointed out that if the HOA eventually purchased this building, there would need to be
+funds for the actual purchase and the maintenance. It would be a costly expense for residents.
+Commissioner Fowler asked if the CN Zone includes these kinds of facilities. It might be a better
+zone for this property. Ms. Jastremsky shared the City Code with the Commission and reported that
+the CN Zone does not allow for reception centers. The table of permitted and conditional uses was
+reviewed. Discussions were had about the recommendation to forward to the City Council.
+
+Commissioner Ogden does not like the C-2 Zone and feels it is restrictive in this case. Commissioner
+Shirey would support this application if it could be a conditional use, but that is not an option and is
+not what is currently before the Commission. Discussions were had about other potential zones.
+Commissioner Shah reported that he lives next to a religious institution and that can sometimes be
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 14
+
+difficult, as people are in his driveway at times. It impacts the way he lives, but he chose to purchase
+a house next to a religious institution. This is the same sort of scenario.
+
+Commissioner Nixon noted that comments have been made about this being a conditional use and
+how that decision would be simple. She wondered whether the applicant could suggest a Text
+Amendment to allow this use in the C-2 Zone as a conditional use. Ms. Jastremsky reported that
+Suncrest is tied to the 1999 version of the code, so Text Amendments cannot be made.
+
+Chair Adams discussed the design of the building and its limitations. Commissioner Nixon asked
+about the parking requirements for a reception center that is 5,000 square feet. Ms. Jastremsky
+explained that she has not done a full parking analysis of the site at this time. Parking calculations
+will occur later on in the process. Chair Adams suggested considering the worst-case scenarios if the
+rezone was approved. The nature of the building and the location will prevent some of the more
+intense uses from taking place. Ms. Gundersen read from 9-8-020C(4) of the City Code:
+
+   •   The purpose of the CG zone is to provide areas to accommodate commercial uses that are not
+       within shopping centers of integrated design. This zone is intended to apply to existing "strip
+       commercial" developments. The zone should not be used for new commercial development
+       unless integrated shopping center development is not practical or desirable because of difficult
+       size, shape, topography, or similar problems related to land otherwise deemed to be
+       appropriate for commercial use. Typical uses in this zone include offices, retail stores,
+       personal services, heavy commercial, and institutional uses.
+
+Chair Adams asked Commissioners what recommendation should be made to the City Council.
+Several Commissioners noted that this was a difficult decision to make. Chair Adams believes the
+building was meant for this kind of use. The highest and best use is to host a certain amount of people,
+which is the reason the parking was created the way that it was. The reception center use is essentially
+what the HOA would use the building for if the HOA owned the site. Commissioners continued to
+discuss the various uses that are permitted within the C-2 Zone.
+
+Motion: Commissioner Shah moved to forward A POSITIVE RECOMMENDATION to the
+City Council for the Zoning Map Amendment, as requested by Adam Koch, representing
+Suncrest Reception Center for Suncrest Reception Center Zoning Map Amendment,
+Application 2024-0371-MA, based on the following Findings listed in the Staff Report dated
+November 26, 2024:
+
+       1.      The proposed amendment is consistent with the goals, objectives, and policies of
+               the City's General Plan.
+
+       2.      The proposed amendment is harmonious with the overall character of existing
+               development in the vicinity of the subject property.
+
+       3.      The proposed amendment will not adversely affect adjacent property.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 15
+
+       4.        There are adequate facilities and services intended to serve the subject property,
+                 including, but not limited to, roadways, parks and recreation facilities, police and
+                 fire protection, schools, stormwater drainage systems, water supplies, and
+                 wastewater and refuse collection.
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 4-1 in favor.
+
+            Commissioner        Yes   No   Abstained      Not Participating     Absent
+            Fowler              X
+            Squire                                                              X
+            Ogden               X
+            Nixon               X
+            Shirey                    X
+            Fidler, Alternate                                                   X
+            Shah, Alternate     X
+            Green, Alternate                              X
+
+Following the vote, it was stated that Commissioner Christine Green will replace Commissioner
+Fowler as a voting member of the Planning Commission for the remainder of the meeting.
+
+       C.        Public Hearing:        Hidden Canyon Estates – Mercer Mountain Estates
+                 Development Agreement 10th Amendment (Administrative Action)
+                 On Behalf of Pratt Dimond, Representing Terra Koa LLC, for an Amendment to the
+                 Development Agreement for Mercer Mountain Estates Subdivision. The property is
+                 located in the RR-22, RM, and C-3 Zoning Districts and located at approximately 2630
+                 East 15040 South. Application 2024-0337-DA. Staff Contact: Jennifer Jastremsky,
+                 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Ms. Jastremsky presented the Staff Report and explained that the application relates to the Mercer
+Mountain Estates Development Agreement. The application is for a Development Agreement
+amendment for approximately 25.9 acres located on the east side of Canyon Point Road and Suncrest
+Drive, at approximately 2635 East 15040 South. The property is currently zoned RR-22, RM, and C-
+3. The amendment is requested to allow for minor changes. The subject property was originally part
+of the Suncrest Development Agreement but was removed from that agreement in 2015 with the
+approval of the initial Hidden Canyon Estates, Mercer Mountain Estates, and Lakeview Heights
+Properties Development Agreement. The original 2015 Development Agreement approved the
+Mercer Mountain Estates development as a 50-lot single-family subdivision with a minimum lot size
+of 12,000 square feet and allowed for a private gated community. Since 2015, there have been nine
+amendments made to the agreement.
+
+The vicinity map and aerial map were shared for reference. Ms. Jastremsky reiterated that the original
+agreement took place in 2015 and there have been nine amendments made to the agreement since
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 16
+
+then. Some of the amendments deal with Hidden Canyon Estates and some deal specifically with
+Mercer Mountain Estates. She highlighted the Fifth and Eighth Amendments:
+
+   •   5th Amendment (2018):
+           o Allows fill to be placed on the City’s property adjacent to Canyon Point Road and
+              Suncrest Drive.
+   •   8th Amendment (2019):
+           o Modified roadway locations and approved some land swaps between the City and
+              property owner.
+
+Ms. Jastremsky reported that the proposed changes to the Development Agreement are as follows:
+
+   •   Does not allow any new fill in the 5th Amendment fill area, but does state that the City Council
+       can approve additional fill in the future;
+   •   Roadway width reduced from 56 feet to 50 feet:
+          o Eliminates a sidewalk on one side of the road;
+          o Allows a 4-foot snow storage area in the residual park strip;
+          o No reduction in asphalt width.
+   •   Updates roadway location and grade in some areas:
+          o 9% for the loop section and 11.2% for other areas.
+   •   Makes minor adjustments to the area of the land swap approved with the 8th Amendment.
+
+The right-of-way map was shared. Ms. Jastremsky reviewed some of the changes related to the
+various amendments. The neighborhood is proposed to be a gated community and she pointed out
+the location of the gate and some of the land swap areas. Additional proposed changes include:
+
+   •   Temporary fencing adjacent to City open space during construction;
+   •   Stormwater infrastructure:
+          o Restricts discharge rates and requires fencing.
+   •   Water system maintenance:
+          o Water system and water quality responsibilities.
+   •   Slope easements:
+          o Approves City slope easements for cuts and fills along the proposed roadway.
+
+Ms. Jastremsky reported that there have been some changes in State Law as it relates to stormwater
+maintenance responsibilities and the need to clarify those responsibilities. The Development
+Agreement has language to verify what the HOA is responsible for and what the city is responsible
+for when it comes to the stormwater system and culinary water quality. Commissioner Nixon asked
+about the percentage of slope on the roads. Senior Engineering Manager, Brien Maxfield, explained
+that the desired slope for emergency vehicles is 10%. There is a provision in the code to reach 12%,
+but that is a little more difficult for emergency vehicles. In this case, what is proposed is within the
+range of allowed slopes. There is comfort with what has been proposed.
+
+Commissioner Shah noted that on one side of the road, there is no sidewalk proposed. Mr. Maxfield
+reported that the mountain standard is a 56-foot right-of-way with sidewalks on both sides, including
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 17
+
+a park strip on both sides. As stated previously, this is a mountainous area. By reducing the right-
+of-way area and only requiring sidewalk on one side, it reduces the amount of grading. One sidewalk
+provides adequate pedestrian access to the area. He explained that what was proposed would
+accommodate the necessary snow storage. The mountain standard was updated in 2008.
+
+The applicant, Pratt Dimond, introduced himself to the Commission. He thanked City Staff for their
+efforts and everyone else involved in the process so far. He is available to answer questions. There
+were no questions.
+
+Chair Adams opened the public hearing.
+
+Peter Garone stated that he is relatively new to Suncrest. He had a question about the criteria for
+gated communities and noted that there are no other gated communities in the area. He wanted to
+know if the gated community would restrict public access for others. Chair Adams explained that
+questions are not answered during the public hearing, but he will make note of the question.
+
+Dave Mast , Property Owner, shared information about another gated community and explained that
+there is one in the area already. This is the last item for the phases, as there was a delay due to the
+COVID-19 pandemic. There are a few amendments that are suggested to improve the overall project.
+He offered praise for Brien Maxwell and his team for their great suggestion to change the road design.
+
+There were no further comments. The public hearing was closed.
+
+Chair Adams noted that there was a question about gated communities posed during the public
+hearing. That was more about pedestrian access rather than vehicular access. He pointed out that
+some other gated communities exist. Ms. Jastremsky confirmed this and explained that there are
+some standards for how gated community entrances should be designed. For example, there needs to
+be a turnaround before the gate. Pedestrian access cannot be gated.
+
+Motion: Commissioner Nixon moved to forward A POSITIVE RECOMMENDATION to the
+City Council for the Development Agreement 10th Amendment, as requested by Pratt Dimond,
+representing Terra Koa LLC for Hidden Canyon Estates – Mercer Mountain Development
+Agreement, 10th Amendment, Application 2024-0337-DA, based on the following Findings for
+approval listed in the Staff Report dated December 12, 2024.
+
+       1.      The proposed Development Agreement complies with DCMC Section 9-5-200(C)
+               and (D).
+
+       2.      The proposed agreement confirms the maximum area on City property that fill
+               can be placed per the 5th Amendment to the Development Agreement.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on Motion: 5-0 in favor.
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 18
+
+         Commissioner        Yes   No    Abstained     Not Participating     Absent
+         Fowler                                                              X
+         Squire                                                              X
+         Ogden               X
+         Nixon               X
+         Shirey              X
+         Fidler, Alternate                                                   X
+         Shah, Alternate     X
+         Green, Alternate    X
+
+       D.     Action Item: Vote for the 2025 Planning Commission Chair and Vice-Chair.
+
+There was discussion about who will serve in the Chair and Vice-Chair positions for 2025.
+
+Motion: Commissioner Ogden moved to NOMINATE Andrew Adams to serve as the Planning
+Commission Chair for 2025.
+
+Second: Commissioner Shah seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+        Commissioner Yes No Abstained Not Participating Absent
+        Fowler                                                 X
+        Squire                                                 X
+        Ogden             X
+        Nixon             X
+        Shirey            X
+        Fidler, Alternate                                      X
+        Shah, Alternate X
+        Green, Alternate X
+Motion: Commissioner Shirey moved to NOMINATE Lisa Fowler to serve as the Planning
+Commission Vice-Chair for 2025.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 5-0 in favor.
+
+         Commissioner        Yes   No    Abstained     Not Participating     Absent
+         Fowler                                                              X
+         Squire                                                              X
+         Ogden               X
+         Nixon               X
+         Shirey              X
+         Fidler, Alternate                                                   X
+Draper City Planning Commission Meeting
+December 12, 2024
+Page 19
+
+         Shah, Alternate X
+         Green, Alternate X
+
+2.     Adjournment.
+
+Motion: Commissioner Ogden moved to ADJOURN.
+
+The Chair adjourned the meeting at 8:59 p.m.
+

@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": "10/08/2025", "name": "Ryan Lunt", "amount": "50.00", "in_kind": false},
+    {"date": "10/09/2025", "name": "Friends of Spencer Cox", "amount": "500.00", "in_kind": false},
+    {"date": "10/23/2025", "name": "Clark Bell", "amount": "1000.00", "in_kind": false},
+    {"date": "10/24/2025", "name": "Kelvin Green", "amount": "75.00", "in_kind": false},
+    {"date": "10/17/2025", "name": "Salt Lake Board of Realtors", "amount": "3230.18", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "10/04/2025", "recipient": "Lowe's", "purpose": "Signs", "amount": "51.45", "in_kind": false},
+    {"date": "10/08/2025", "recipient": "Salt Lake Mailing", "purpose": "Mailer #1", "amount": "3376.45", "in_kind": false}
+  ],
+  "total_contributions": "1625.00",
+  "total_expenditures": "3427.90",
+  "contributions_50_or_less": null,
+  "beginning_balance": "17557.98",
+  "ending_balance": "15755.08",
+  "_meta": {
+    "index_path": "raw/5801_MayorLorin-Palmer.pdf",
+    "candidate": "Lorin Palmer",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/5801_MayorLorin-Palmer.pdf",
+    "pages": 5
+  }
+}

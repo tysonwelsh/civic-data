@@ -1,0 +1,490 @@
+# Riverton Planning Commission Meeting — 2025-02-27
+> Source: https://www.utah.gov/pmn/files/1245862.pdf
+> Meeting date: 2025-02-27
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/976615.html
+> Format: text
+
+Approved: PC 3.13.25
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                               FEBRUARY 27, 2025
+
+The Riverton City Planning Commission convened at approximately 6:30 PM in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Darren Park, Chair                               Jason Lethbridge, Development Services Director
+Monique Beck                                     Tim Prestwich, City Planner
+Gary Cannon                                      Lisa Halversen, Planner
+Shelly Cluff                                     Ryan Carter, City Attorney
+Crystal Keele                                    Matt Cassel, City Engineer
+Evan Matheson
+Troy Rushton
+
+1.            CALL TO ORDER/ROLL CALL
+
+Chair Darren Park called the meeting to order at approximately 6:30 PM.
+
+Tim Peery led the Pledge of Allegiance.
+
+2.     PUBLIC HEARINGS
+
+       A.     “PEERY CUP-STR”, PLZ-25-2005, AN APPLICATION FOR A
+              CONDITIONAL USE PERMIT FOR A SHORT-TERM RENTAL IN A
+              RESIDENCE LOCATED AT 1944 WEST 12960 SOUTH. APPLICANTS –
+              TIM AND SINDA PEERY.
+
+Planner Lisa Halversen presented the Staff Report and reported that the Applicants have an
+internal accessory dwelling unit they would like to use as a short-term rental. Their adult
+children are in the military and will use the unit when they are home. A short-term rental fits
+their family’s needs as it can be available when their children are home. The property is on
+a 0.25-acre lot in the R-4 single-family zone. The split-level house was built in 1960 and is
+approximately 1700 square feet above grade with a 675-square-foot basement. It has a
+two-car attached carport, and the rental unit is accessed by a door at the rear of the carport.
+The Applicants are aware of all short-term rental requirements and intend to abide by them.
+Notices were sent to neighboring property owners, and no comments were received.
+
+The Applicant, Tim Peery, stated that they prefer using the unit as a short-term rental
+because their two sons are in the Navy, and they would like to have a place for them and
+their families to stay when they visit. In response to a question from Commissioner Cannon,
+Mr. Peery clarified that they would close the unit to rentals when their sons are in town.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+Riverton City Planning Commission Meeting                                              2
+February 27, 2025
+
+
+Commissioner Cluff moved that the Planning Commission APPROVE Application
+PLZ-25-2005, “Peery Short-Term Rental” to be located at 1944 West 12960 South, with
+the following conditions:
+
+      1.     The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City Standards and Ordinances, specifically the City
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+      2.     Short-term rental must be operated within the rules and regulations for
+             Short-Term Rentals as described in Riverton City Code 18.190.051.
+
+      3.     Applicant must obtain and maintain a Riverton City business license.
+
+      4.     Applicant shall surrender Applicant’s Conditional Use Permit for short-
+             term rental use of the subject property in the event Applicant undertakes
+             any other business activity on the subject property, or the Applicant shall
+             reapply for a Conditional Use Permit for a short-term rental in a manner
+             which takes into account the other business activity.
+
+      5.     Applicant shall disclose all Applicant’s advertising materials, whether
+             provided to listing agencies or otherwise made available to potential
+             customers and shall semi-annually update City staff of any changes to
+             said advertising materials.
+
+      6.     There may be no more than eight combined renters and guests (non-
+             permanent residents) on the property at any given time.
+
+Commissioner Matheson seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+      B.     “HERCULES CREDIT UNION,” PLZ-24-8018, AN APPLICATION FOR A
+             FINAL COMMERCIAL SITE PLAN TO BE LOCATED AT 1242 WEST 12600
+             SOUTH. APPLICANT – BRETT COATS.
+
+City Planner, Tim Prestwich presented the Staff Report and indicated that the subject
+property is located on the east side of the City in the Commercial Gateway (“C-G”) Zone.
+An aerial map of the Riverton Market Subdivision was displayed indicating the Walmart
+Neighborhood Market to the east of the property and Arctic Circle and Chubby’s to the west.
+Other properties in the subdivision were developed between 1994 and 2015, and the
+remaining parcels remained undeveloped. Hercules Credit Union is currently located in a
+multitenant building on 12600 South and will be moving to this standalone site. The lot they
+purchased includes the entire driveway for Walmart, so the net usable acreage is decreased.
+Mr. Prestwich noted that they also had to plan for the potential future widening of 12600
+South.
+Riverton City Planning Commission Meeting                                                 3
+February 27, 2025
+
+
+Notices were sent to property owners within 300 feet of the subject property, and no
+comments were received.
+
+The Site Plan was reviewed. The single-story building will be approximately 1,800 square
+feet, with grade and depth changes. The single drive-through can accommodate a line of
+12 cars. It was noted that the drive-through is a Conditional Use in the zone to limit the
+effect of speakers and lights on nearby residential properties. In this case, the building is
+approximately 400 feet from the nearest residential property. There will be 12 parking stalls.
+
+The site meets all City requirements for setbacks, lot coverage, and landscaping. Waterwise
+landscaping will include 14 trees. The building exterior will be a mixture of brick, stone, and
+stucco, and the sloped roof will consist of shingles with metal accents. The design ties into
+the unique look of the existing structures in the area. The three requirements met by the
+design are brick accent walls, columns, and include the use of natural brick or stone.
+Lighting will be shielded from adjoining properties.
+
+Commissioner Cluff asked about the materials used on the copper-colored section of the
+roof. Mr. Prestwich indicated that it will be metal, which is an allowed material. The only
+prohibited roofing material is wood shake or cedar shingles.
+
+In response to a question, Mr. Prestwich reported that no fencing is required for the site due
+to its distance from residential areas. The vacant parcel to the west of the subject property
+is also commercial.
+
+Commissioner Matheson asked about ownership of the entrance to Walmart. Mr. Prestwich
+clarified that it is an internal access driveway and is wholly owned by the commercial
+subdivision. The City has no responsibility for it. In response to a follow-up question, Mr.
+Prestwich stated that there are stop signs on the northeast corner of that private drive and
+the Hercules Credit Union access will be separated from that corner to reduce conflicts.
+Because it is an internal access, any issues would be worked out by the ownership group,
+not the City.
+
+Brett Blackburn, CEO of Hercules Credit Union, stated that they have been in Riverton for
+10 years and are excited for the opportunity to build on the property and remain in the City
+long term. Chair Park stated that the parcel has been vacant for a long time, and it will be
+nice to see it developed. He is glad they will be staying in the community.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Beck moved that the Planning Commission APPROVE Application
+PLZ-24-8018, Commercial Site Plan for “Hercules First Federal Credit Union” located
+at 1242 West 12600 South, with the following conditions:
+
+       1.     Site Plan Improvements and Building shall be consistent with the plans
+              presented to the Planning Commission except where otherwise noted.
+Riverton City Planning Commission Meeting                                                4
+February 27, 2025
+
+
+
+       2.     Applicant shall correct or resolve the remaining staff redlines.
+
+       3.     Storm drainage systems and accommodations comply with the Riverton
+              City Standards and Ordinances and with the recommendations of the
+              Riverton City Engineer.
+
+       4.     The Applicant must create and agree to follow a Long-Term Storm Water
+              Management Plan according to Riverton City Standards and Ordinances.
+
+       5.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+
+       6.     The site and structures shall comply with any and all applicable Riverton
+              City Standards and Ordinances, including the International Building and
+              Fire Codes.
+
+       7.     The Applicant must obtain final approval from utility providers.
+
+       8.     Rooftop mechanical shall be screened.
+
+       9.     Wall-mounted service panels shall be painted to match the building.
+
+       10.    The dumpster enclosure shall have solid gates, and the gates and
+              enclosure shall be of similar color and materials to the building.
+
+Commissioner Rushton seconded the motion.                 The motion passed with the
+unanimous consent of the Commission.
+
+       C.     “MYLER CARWASH”, PLZ-25-8003, AN APPLICATION TO AMEND A
+              COMMERCIAL SITE PLAN BY ADDING LED ACCENT LIGHTING TO A
+              CARWASH LOCATED AT 5171 WEST 13400 SOUTH. APPLICANT-
+              MITCHELL MYLER.
+
+Ms. Halversen presented the Staff Report and indicated that the Applicant had amended the
+Site Plan to add accent lighting to the carwash as allowed by the recently updated
+Commercial Lighting Code. An aerial map was displayed indicating that the property is
+adjacent to Towne Storage in the Monarch Meadows subdivision. The carwash was built in
+2006 on a 0.80-acre lot and is zoned S-P Commercial. Ms. Halversen noted that the lighting
+colors would change with the season.
+
+Per City Code § 18.135.200: Commercial Lighting:
+
+   •   Commercial holiday lighting is defined as exterior lighting strips, clusters, or groups
+       with output per lamp or bulb not greater than 15 lumens.
+Riverton City Planning Commission Meeting                                                   5
+February 27, 2025
+
+
+   •   It is a permitted use in all commercial zones, but can only be permanently installed if
+       approved as part of the Site Plan.
+
+   •   If the structure is within 100 feet of a residential property, the lighting must be turned
+       off by 10:00 p.m.
+
+   •   Display of this lighting outside of holidays is only allowed if approved as part of a
+       Commercial Site Plan.
+
+Ms. Halversen reported that most properties in the vicinity of the subject property are
+commercial. Some residential units are within 300 feet of the property, including on the other
+side of 13400 South, so the sample motion included the requirement to turn off the lights by
+10:00 p.m.
+
+In response to a question from Chair Park, Ms. Halversen confirmed that all lighting indicated
+in the Lighting Plan would be on the front of the building facing 13400 South. No lighting
+was indicated for the rear of the building.
+
+Commissioner Cluff asked if the lights were allowed to move. Ms. Halversen stated that
+flashing or moving lights have additional restrictions if they are located within 100 feet of
+residences, but the carwash is approximately 250 feet from a residential area. The
+requirement to turn them off by 10:00 p.m. should help avoid any issues.
+
+In response to a question from Commissioner Cannon, Ms. Halversen reported that the
+“dates indicated herein” referenced in the Staff Report are the holidays listed in the
+Commercial Lighting Code. In response to a follow-up question, she confirmed that approval
+of the amended Site Plan would allow the business to have lighting all year.
+
+Ms. Halversen stated that notices were sent to the addresses included in the circled area on
+the notice. Mr. Prestwich added that the common area for the homes across the street was
+included in the noticing area, so the Homeowner’s Association received notice but not
+individual homes.
+
+The Applicant, Mitch Myler, stated that he hoped to brighten the appearance of the old
+carwash to make it more attractive and create more revenue. The lighting would be subtle
+and appropriate for the area. He plans to rebrand the carwash to match one he owns in
+Sandy.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE
+Application PLZ-25-8003 “Myler Carwash” amending the Site Plan of the existing
+commercial building located at 5171 West 13400 South, with the following conditions:
+Riverton City Planning Commission Meeting                                              6
+February 27, 2025
+
+
+      1.     Lighting modifications will be harmonious with the existing building and
+             match the submitted plans presented to the Commission.
+
+      2.     Accent lighting must be turned off by 10:00 p.m. nightly.
+
+      3.     The lighting shall comply with all applicable terms of Riverton City Code
+             Section 18.135.300: Commercial Lighting.
+
+Chair Park opened the public hearing. There were no further public comments. The public
+hearing was closed.
+
+Commissioner Keele seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      D.     “MCKENZIE DEVELOPMENT AGREEMENT”, PLZ-25-4001, A PUBLIC
+             HEARING FOR A REZONE AND DEVELOPMENT AGREEMENT
+             BETWEEN RIVERTON CITY AND HOLLANDER HOLDINGS, LLC FOR
+             APPROXIMATELY 5.63 ACRES OF PROPERTY LOCATED AT 12270
+             SOUTH 4000 WEST, FROM R-3 (RESIDENTIAL LOW-DENSITY) TO C-R
+             (REGIONAL COMMERCIAL) TO CONSTRUCT STORAGE UNITS.
+             APPLICANT – KRISEL TRAVIS.
+
+Mr. Prestwich reported that the Applicant presented information regarding the Development
+Agreement at the last Planning Commission meeting, and the City was proceeding with an
+abundance of caution on the item due to concerns that have arisen in the past. It was placed
+on the evening’s Agenda to address any Planning Commission concerns and take public
+comment, but Staff recommended that any questions on the Development Agreement itself
+be deferred to a future meeting.
+
+The subject property is on 4000 West near Bangerter Highway. The property was originally
+platted as a subdivision but was never developed. There had been several attempts by
+development groups to consider alternatives to develop within the existing Land Use, but
+none came to fruition.
+
+The American Land Title Association (“ALTA”) survey was reviewed showing improvements
+that were made before the project was abandoned. A public right-of-way was dedicated but
+never improved. The detention pond in the northeastern corner of the parcel was dedicated
+to the City; it and its existing connections will be accommodated within the proposed plan.
+
+The two existing homes that face 4000 West will remain. One lot on that frontage will be
+preserved by the owner and accessed via a private lane. Staff has confirmed that the lot
+can comply with all requirements and that the private lane will come before the Commission
+as a separate Conditional Use Permit application.
+
+The Applicant has proposed rezoning the project area to C-R. The access would be through
+the current right-of-way, and the storage units would be developed in phases throughout the
+Riverton City Planning Commission Meeting                                                 7
+February 27, 2025
+
+
+property. Landscaping, curb, gutter, sidewalk, and any necessary utilities will be installed
+along the 4000 West road frontage, including in front of the existing homes. A solid masonry
+fence will be installed between the homes and storage units. There is already fencing on
+the north and south sides, and the buildings themselves will constitute the fencing along
+Bangerter Highway.
+
+Mr. Prestwich reported that because the application includes a zoning change, notices were
+sent to property owners within 1,000 feet of the subject property to provide residents with
+the opportunity to comment well in advance of the Commission’s decision. No public
+comments or questions were received in response to the notice.
+
+The Applicant, Krisel Travis, stated that nothing had changed since they last presented to
+the Planning Commission, and she was present to listen to public comments and address
+any questions or concerns.
+
+Chair Park opened the public hearing.
+
+Matt Yore stated that he lives north of the subject property on 4000 West and expressed
+concern about the amount of traffic the business would bring to 4000 West. People normally
+drive 10 to 15 miles per hour over the speed limit, and they will pass him in the center lane
+when he slows down to pull into his driveway. Vehicles turning into the existing storage units
+from the south have to wait for oncoming traffic, which often results in a backup, and it is
+common to see people drive off the pavement to get around them. There is currently a large
+pothole there as well. He is concerned that it will cause an accident. He asked if the center
+lane would be extended to the intersection to accommodate people turning into the new
+storage units and noted that the intersection of 4000 West and 12600 South gets backed up
+during rush hour as well. He also asked if a traffic study had been conducted to determine
+the impact of the new site.
+
+Jared Hamilton stated that he is a local business owner who has owned the self-storage
+facility next to the subject property for over a decade. His career is in building, buying, and
+selling businesses, and he taught business analysis and investing at the university level in
+Washington, D.C. He was concerned about the potential negative impact on the City. His
+research indicates that the markets equalize with approximately six square feet of storage
+space for the population base, but there is currently 13.46 square feet of available storage
+space per population within one mile of the subject property. There are 11 facilities within a
+four-mile radius of the property, and he believes there is too much capacity without enough
+demand.
+
+Mr. Hamilton’s property is one of the oldest in the market. After adding additional storage
+space, it is now just under 70,000 square feet. When the new self-storage facility on 12600
+South was constructed 0.8 miles away, his property dropped to 64% occupied, which is 30%
+below the minimum standard for a bank loan. The neighboring facility is at 74%. His
+property is in need of updates, and he planned to invest over $500,000 in it in 2026.
+However, his profits have decreased by over 90%, and he cannot put $500,000 into his
+property if he will not see a return on that investment. If the City allows additional self-
+Riverton City Planning Commission Meeting                                                     8
+February 27, 2025
+
+
+storage units to be constructed, he believes the community will be overbuilt for 20 to 25
+years. Investors will not want to put cash into their businesses and will end up with
+dilapidated buildings, which will decrease property values and have a negative effect on the
+entire community. He believes that Riverton is significantly overbuilt for self-storage and the
+subject property should be developed for its current residential zoning. He provided his
+calculations to Mr. Prestwich for distribution to the Commission.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Rushton asked if the Planning Commission would be acting in a legal or
+administrative role on the Development Agreement. City Attorney, Ryan Carter, reported
+that their principal role would be legislative, but site planning is also an administrative action.
+Pieces of the Site Plan could be carved out as exceptions to the prevailing Code, which
+would be a legislative decision. Otherwise, they would be determining if the plan complies
+with Code. In response to a follow-up question, it was confirmed that a courtesy notice
+would be sent to the same noticing area indicating that the public hearing is still open.
+
+In response to a question, it was clarified that there are no plans to widen 4000 West. The
+City must consider where the traffic is generated from; widening a road does not necessarily
+solve the problem and can often just move the problem elsewhere. If the problem is
+speeding and cars turning left, it is more difficult to turn left across two lanes than one.
+Mr. Prestwich noted that the property on the opposite side of 4000 West is an open field. If
+additional space is needed within the right-of-way, it will likely come from that property. It is
+planned that 4000 West will connect to 4150 West. Additional width may be introduced as
+part of that connection when the open field is developed. Commissioner Rushton stated
+that he believed they need to further consider the matter because taking all the necessary
+land from the west side would have a severe negative impact on homes that have been
+there for a long time.
+
+Commissioner Rushton asked for Mr. Carter’s guidance on how to consider a property’s
+negative impact on adjacent properties. He noted that the C-R Zone allows a height of up
+to 80 feet. If the Development Agreement provided that height option, it would block the
+views for future development at the Butterfield property. Mr. Carter clarified that they could
+consider whether or not the proposed development is consistent with the character of the
+surrounding community. However, before they reach that conclusion, they would need to
+obtain enough data to assess what that visual impact would be. They could call attention to
+it or raise the concern in their recommendation to the City Council, but there would have to
+be substantial data to recommend denial on that basis alone. Mr. Prestwich clarified that
+the proposed Development Agreement will include limitations on the maximum height and
+placement of elements on the site.
+
+Commission Rushton noted that rezoning the property from R-3 to C-R is reasonable
+because the properties to the south are zoned C-R. He asked about lot coverage, as the
+renderings showed zero lot lines but setbacks in the proposed zone are 40 feet for the front
+and 20 feet for the sides and rear. Mr. Prestwich reported that City Code includes
+accommodations for facilities like storage units where the buildings form the perimeter and
+Riverton City Planning Commission Meeting                                                9
+February 27, 2025
+
+
+fencing. The typical layout for storage units is to have the buildings on the property line.
+The buildings on the perimeter would have a zero lot line, but the frontage along 4000 West
+would have a standard setback. In response to an additional question from Commissioner
+Rushton, Mr. Prestwich reported that the Development Agreement was functioning as a
+substantially more complex Specific Development District.
+
+Regarding traffic volume, it was noted that the Applicant intends to develop in several
+phases. With typical operation, the facility will generate approximately 12 trips per weekday
+and 36 trips per day on Saturdays, which is a very low traffic volume. The nature of storage
+facilities is that people do not visit them often once their property is stored. It will not
+exacerbate any existing traffic issues on 4000 West and will have a significantly lower impact
+than a residential use on the property. As future decisions are made on 4000 West, they
+will be made with the intention of improving the overall traffic health of the roadway.
+
+Mr. Prestwich expressed his appreciation for Mr. Hamilton’s comments and stated that the
+information he provided would be helpful to the Applicant as well.
+
+In response to a question from Commissioner Cannon, it was reported that the average
+number of trips is nine per day for residences, and the storage facility would generate
+approximately 12 total trips per weekday. A traffic study will be completed to determine
+actual numbers.
+
+Commissioner Cannon stated a resident complained on social media about allowing a
+second Burger King in Riverton, but there are six coffee shops between 3600 West and
+5600 West, two of which are within 250 feet of each other. He believes competition is good.
+The property has been for sale since 2006 or 2007, and many people have failed to find the
+highest and best use for it. The owners of the two homes on 4000 West will be most affected
+by the development, but they were not present at the meeting, which he believed indicated
+that they were not opposed to it. Mr. Prestwich reported that the neighboring property
+owners have been involved in the process. The southern lot owner had an accessory
+structure that straddled the parking line, and the owner and Applicant worked through a
+process with the Board of Adjustment to relocate that structure. They also negotiated to
+retain the undeveloped northern lot as part of their holdings. They have been very involved
+with the Applicant and City. He believed they were not present at the meeting because their
+concerns had been addressed.
+
+Chair Park referred to Commissioner Cannon’s point about multiples of the same types of
+businesses and asked if there should be consideration for saturation of a specific type of
+business. Property owners have rights, but should the business development aspect be
+considered. It was noted that it is a difficult consideration to make. Zoning restricts the
+number of certain types of businesses, but that is generally based on concerns beyond the
+specific business. For example, there are limitations on tobacco retailers because of the
+identified concern for public harm. There are population-based limitations on check-cashing
+businesses and distance limitations on gas stations. Outside of those examples, the
+challenge to those considerations in Land Use decisions is that they can be subjective and
+time-sensitive. The market may be oversaturated today, but it could change in either
+Riverton City Planning Commission Meeting                                          10
+February 27, 2025
+
+
+direction in the future. There would need to be very specific and direct data on which to
+base such a decision. Based on that data, changes would likely be required to City
+Ordinance, as was done in the examples he listed.
+
+Commissioner Cluff moved that the Planning Commission CONTINUE Application
+PLZ-25-4001, a public hearing for a rezone and Development Agreement between
+Riverton City and Hollander Holdings, LLC for approximately 5.63 acres of property
+located at 12270 South 4000 West, from R-3 (Residential Low-Density) to C-R
+(Regional Commercial) to the March 13, 2025 Planning Commission Meeting.
+
+Chair Park seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+3.    DECISION ITEMS
+
+      A.     NONE.
+
+4.    DISCUSSION ITEMS
+
+      A.     NONE.
+
+5.    MINUTES
+
+      A.     MINUTES APPROVAL – FEBRUARY 13, 2025.
+
+Chair Park moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of February 13, 2025, as presented. Commissioner
+Cluff seconded the motion. The motion passed with the unanimous consent of the
+Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:52 PM.
+

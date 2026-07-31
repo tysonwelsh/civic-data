@@ -1,0 +1,89 @@
+# City Council Special Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06162025-930
+> Meeting date: 2025-06-16
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2025-06-16
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06162025-930
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                          Minutes            of the
+                                                                                   Millcreek           City      Council
+                                                                                              June     16,    2025
+                                                                                                5:00      p.m.
+                                                                                         Special         Meeting
+
+
+
+
+The City         Council       of Millcreek,            Utah, met in a special          public       meeting         on June 16, 2025,         at City
+Hall,     located     at 1330 E. Chambers                  Avenue,      Millcreek,        UT 84106.            The meeting          was recorded         for
+the City's        website      and had an option                for online    public     coinment.
+
+
+PRESENT:
+
+
+Council       Members                                                                  City    Staff
+Jeff Silvestrini,           Mayor                                                      John Brems,            City    Attorney
+Silvia     Catten,     District        1 (electronic)                                  Alex     Wendt,        Deputy       Recorder
+Thom       DeSirant,        District      2 (electronic)                               Kurt    Hansen,        Facilities      Director
+Cheri     Jackson,       District       3 (electronic)
+Bev Uipi,        District      4 (electronic)
+
+
+Attendees:          None.
+
+
+
+SPECIAL            MEETING               - 5:00 p.m.
+TIME       COMMENCED:                        5:00 p.m.
+
+
+Mayor      Silvestrini         called     the meeting          to order.
+
+
+1. Discussion          and Consideration                   of Ordinance         25-25,        Determining             the Rate      of Tax     and
+   Levying          Taxes      Upon        All   Real      and Personal        Property          within        Millcreek         (the Resulting
+   Tax      is the Same Amount                    of Tax       Previously      Collected         by Millcreek              and Will        Not Result
+   in a Tax         Increase        to Residents           of Millcreek)        for the Tax Year                 Beginning          July    1, 2025 and
+   Ending         June      30, 2026
+   Mayor         Silvestrini        said the certified          tax rate,.001267,             was reported           to Millcreek        by Salt Lake
+   County.        The tax rate reflects              no tax increase          for the city and would                 result   in certified     tax
+   revenue        to pay for Unified              Police       in the amount       of $11,903,559.
+
+
+Council      Member            DeSirant          moved         to approve      Ordinance             25-25.      Council      Member          Jackson
+seconded.         The Deputy            Recorder           caned    for the vote.        Council         Member            Catten     voted    yes,
+Council      Member            DeSirant          voted     yes, Council        Member           Jackson          voted     yes, Councn         Member
+Uipi     voted    yes, and Mayor                 Silvestrini       voted     yes. The motion             passed        iuianimously.
+
+
+
+ADJOURNED:                  Council        Member           Jackson        moved       to adjourn            the meeting         at 5:03 p.m.
+Millcreek      City    Council      Meeting       Minutes                                   16 June       2025   Page    2 of 2
+
+
+
+Member        Catten    voted      yes, Council        Member     DeSirant       voted     yes, Council      Member      Jackson
+voted    yes, Council      Member          Uipi   voted     yes, and     Mayor    Silvestrini    voted     yes. The     motion
+passed      unanimously.
+
+
+
+
+                             AJ'PRO        VED     €
+                                                   Bev Uipi,           yor       Tempore
+                                                                                                   Date
+                                                                                                             c,/>/A
+
+                                 Attest:                          van, City      Recorder
+

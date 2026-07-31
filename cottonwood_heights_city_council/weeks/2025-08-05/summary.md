@@ -1,0 +1,10 @@
+# Cottonwood Heights council week ending 2025-08-05
+_Window 2025-07-30 – 2025-08-05_
+
+- **Meetings:** 1 — work session and business meeting
+- **Votes:** 8 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 17 member-vote rows across 8 motions
+- [2025-08-05_work-session-and-business-meeting.md](../../meeting_minutes/minutes/2025/2025-08-04/2025-08-05_work-session-and-business-meeting.md)

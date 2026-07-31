@@ -1,0 +1,82 @@
+{
+ "date": "2019-09-23",
+ "year": 2019,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Ruby Brown"
+ ],
+ "source": "minutes/2019/2019-09-23/2019-09-23_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the First Amendment of the Master Interlocal Agreement. The",
+   "body": "Council",
+   "motion_type": "Interlocal",
+   "result": "unanimous in favor Pass",
+   "mover": "Alan Peterson",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the Addressing Services Agreement. The",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "that the public meeting go into closed session per Utah Code Annotated § 52-4-205. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

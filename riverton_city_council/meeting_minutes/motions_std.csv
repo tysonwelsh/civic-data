@@ -1,0 +1,891 @@
+source,motion_no,date,body,motion_type_native,motion_type_std,land_use_type,action_class,outcome,tally_aye,tally_nay,tally_other,vote_mode,result_raw,classify_method,classify_confidence
+pmn_backfill/text/council_2020-01-07.txt,1,2020-01-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-07.txt,2,2020-01-07,Council,Ordinance,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-accessory,high
+pmn_backfill/text/council_2020-01-07.txt,3,2020-01-07,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-07.txt,4,2020-01-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+pmn_backfill/text/council_2020-01-07.txt,5,2020-01-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,1,2020-01-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,2,2020-01-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,3,2020-01-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,4,2020-01-21,Council,Public Hearing Action,Public-Hearing,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,5,2020-01-21,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+pmn_backfill/text/council_2020-01-21.txt,6,2020-01-21,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,7,2020-01-21,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,8,2020-01-21,Council,Ordinance,Ordinance,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+pmn_backfill/text/council_2020-01-21.txt,9,2020-01-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-02-04.txt,1,2020-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-02-04.txt,2,2020-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-02-04.txt,3,2020-02-04,Council,Land-Use/Zoning,Land-Use,Text-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+pmn_backfill/text/council_2020-02-04.txt,4,2020-02-04,Council,Other,Other,,final-action,pass,3,2,,roll-call,Passed,rule:no-signal,low
+pmn_backfill/text/council_2020-02-04.txt,5,2020-02-04,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2020-02-04.txt,6,2020-02-04,Council,Other,Other,,final-action,pass,3,2,,roll-call,Passed,rule:no-signal,low
+pmn_backfill/text/council_2020-02-04.txt,7,2020-02-04,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+pmn_backfill/text/council_2020-02-04.txt,8,2020-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,1,2020-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unknown,Passed,crosswalk,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,2,2020-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,3,2020-02-18,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:lu-rezone,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,4,2020-02-18,Council,Resolution,Resolution,,final-action,pass,,,,unknown,Passed,crosswalk,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,5,2020-02-18,Council,Resolution,Resolution,,final-action,pass,,,,unknown,Passed,crosswalk,high
+minutes/2020/2020-02-17/2020-02-18_city-council.md,6,2020-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unknown,Passed,crosswalk,high
+minutes/2020/2020-03-02/2020-03-03_city-council.md,1,2020-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unknown,Passed,crosswalk,high
+minutes/2020/2020-03-02/2020-03-03_city-council.md,2,2020-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-02/2020-03-03_city-council.md,3,2020-03-03,Council,Resolution,Resolution,,final-action,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-02/2020-03-03_city-council.md,4,2020-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,1,2020-03-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,2,2020-03-17,Council,Budget Amendment,Budget,,final-action,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,3,2020-03-17,Council,Ordinance,Ordinance,,final-action,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,4,2020-03-17,Council,Ordinance,Ordinance,,final-action,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,5,2020-03-17,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:lu-rezone,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,6,2020-03-17,Council,Other,Other,,final-action,pass,,,,unknown,Passed,rule:no-signal,low
+minutes/2020/2020-03-16/2020-03-17_city-council.md,7,2020-03-17,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-03-16/2020-03-17_city-council.md,8,2020-03-17,Council,Other,Other,,final-action,pass,,,,unknown,Passed,rule:no-signal,low
+minutes/2020/2020-04-06/2020-04-07_city-council.md,1,2020-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-06/2020-04-07_city-council.md,2,2020-04-07,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-06/2020-04-07_city-council.md,3,2020-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-06/2020-04-07_city-council.md,4,2020-04-07,Council,Land-Use/Zoning,Land-Use,Subdivision-Plat,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-subdiv,high
+minutes/2020/2020-04-06/2020-04-07_city-council.md,5,2020-04-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-04-06/2020-04-07_city-council.md,6,2020-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,1,2020-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,2,2020-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,3,2020-04-21,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,4,2020-04-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,5,2020-04-21,Council,Contract/Purchase,Contract-Purchase,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,6,2020-04-21,Council,Interlocal,Interlocal,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-04-20/2020-04-21_city-council.md,7,2020-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,1,2020-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,2,2020-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,3,2020-05-05,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,4,2020-05-05,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-05-04/2020-05-05_city-council.md,5,2020-05-05,Council,Contract/Purchase,Contract-Purchase,,final-action,fail,2,3,,roll-call,Failed,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,6,2020-05-05,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-05-04/2020-05-05_city-council.md,7,2020-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-04/2020-05-05_city-council.md,8,2020-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,1,2020-05-19,Council,Other,Other,,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-05-18/2020-05-19_city-council.md,2,2020-05-19,Council,Other,Other,,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-05-18/2020-05-19_city-council.md,3,2020-05-19,Council,Budget Amendment,Budget,,final-action,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,4,2020-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,5,2020-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,6,2020-05-19,Council,Other,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,7,2020-05-19,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,3,2,,roll-call,Passed,rule:lu-rezone,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,8,2020-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-05-18/2020-05-19_city-council.md,9,2020-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-01/2020-06-02_city-council.md,1,2020-06-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-01/2020-06-02_city-council.md,2,2020-06-02,Council,Other,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2020/2020-06-01/2020-06-02_city-council.md,3,2020-06-02,Council,Land-Use/Zoning,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:contract,high
+minutes/2020/2020-06-01/2020-06-02_city-council.md,4,2020-06-02,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-06-01/2020-06-02_city-council.md,5,2020-06-02,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-06-01/2020-06-02_city-council.md,6,2020-06-02,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2020/2020-06-01/2020-06-02_city-council.md,7,2020-06-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,1,2020-06-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,2,2020-06-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,3,2020-06-16,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2020/2020-06-15/2020-06-16_city-council.md,4,2020-06-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,5,2020-06-16,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-06-15/2020-06-16_city-council.md,6,2020-06-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,7,2020-06-16,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-06-15/2020-06-16_city-council.md,8,2020-06-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,9,2020-06-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,10,2020-06-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,11,2020-06-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-06-15/2020-06-16_city-council.md,12,2020-06-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-06-29/2020-06-29_city-council.md,1,2020-06-29,Council,Resolution,Resolution,,final-action,pass,3,0,,roll-call,Passed,crosswalk,medium
+minutes/2020/2020-06-29/2020-06-29_city-council.md,2,2020-06-29,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,3,0,,roll-call,Passed,crosswalk,high
+minutes/2020/2020-07-20/2020-07-21_city-council.md,1,2020-07-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-07-20/2020-07-21_city-council.md,2,2020-07-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-07-20/2020-07-21_city-council.md,3,2020-07-21,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-07-20/2020-07-21_city-council.md,4,2020-07-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-17/2020-08-18_city-council.md,1,2020-08-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-17/2020-08-18_city-council.md,2,2020-08-18,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-17/2020-08-18_city-council.md,3,2020-08-18,Council,Land-Use/Zoning,Land-Use,General-Plan-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-gpa,high
+minutes/2020/2020-08-17/2020-08-18_city-council.md,4,2020-08-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,1,2020-09-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,2,2020-09-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,3,2020-09-01,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,4,2020-09-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,5,2020-09-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-08-31/2020-09-01_city-council.md,6,2020-09-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-08-31/2020-09-01_city-council.md,7,2020-09-01,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,8,2020-09-01,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-08-31/2020-09-01_city-council.md,9,2020-09-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,1,2020-09-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,2,2020-09-15,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,3,2020-09-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,4,2020-09-15,Council,Land-Use/Zoning,Land-Use,Subdivision-Plat,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-subdiv,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,5,2020-09-15,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,6,2020-09-15,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,7,2020-09-15,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,8,2020-09-15,Council,Interlocal,Interlocal,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,9,2020-09-15,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-09-14/2020-09-15_city-council.md,10,2020-09-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-05/2020-10-06_city-council.md,1,2020-10-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-05/2020-10-06_city-council.md,2,2020-10-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-05/2020-10-06_city-council.md,3,2020-10-06,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-05/2020-10-06_city-council.md,4,2020-10-06,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-10-05/2020-10-06_city-council.md,5,2020-10-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-12/2020-10-16_city-council.md,1,2020-10-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-12/2020-10-16_city-council.md,2,2020-10-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-10-12/2020-10-16_city-council.md,3,2020-10-16,Council,Ordinance,Ordinance,,final-action,pass,4,0,1,roll-call,Passed,crosswalk,high
+minutes/2020/2020-10-12/2020-10-16_city-council.md,4,2020-10-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2020/2020-10-12/2020-10-16_city-council.md,5,2020-10-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,1,2020-11-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,2,2020-11-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,3,2020-11-17,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,4,2020-11-17,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,5,2020-11-17,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,6,2020-11-17,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-11-16/2020-11-17_city-council.md,7,2020-11-17,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,8,2020-11-17,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,0,1,roll-call,Passed,crosswalk,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,9,2020-11-17,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2020/2020-11-16/2020-11-17_city-council.md,10,2020-11-17,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2020/2020-11-16/2020-11-17_city-council.md,11,2020-11-17,Council,Land-Use/Zoning,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,rule:proc-adjourn,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,1,2020-12-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,2,2020-12-01,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,3,2020-12-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,4,2020-12-01,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,5,2020-12-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,6,2020-12-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-11-30/2020-12-01_city-council.md,7,2020-12-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,1,2020-12-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,2,2020-12-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,3,2020-12-15,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,4,2020-12-15,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,5,2020-12-15,Council,Ordinance,Ordinance,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,6,2020-12-15,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2020/2020-12-14/2020-12-15_city-council.md,7,2020-12-15,Council,Land-Use/Zoning,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,rule:proc-adjourn,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,1,2021-01-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,2,2021-01-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,3,2021-01-05,Council,Land-Use/Zoning,Land-Use,General-Plan-Amendment,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:lu-gpa,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,4,2021-01-05,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,5,2021-01-05,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,fail,1,4,,roll-call,Failed,rule:lu-rezone,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,6,2021-01-05,Council,Ordinance,Ordinance,,procedural,pass,3,2,,roll-call,Passed,crosswalk,high
+minutes/2021/2021-01-04/2021-01-05_city-council.md,7,2021-01-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,1,2021-01-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,2,2021-01-19,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,3,2021-01-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,4,2021-01-19,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,5,2021-01-19,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,6,2021-01-19,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,7,2021-01-19,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,8,2021-01-19,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-01-18/2021-01-19_city-council.md,9,2021-01-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-01/2021-02-02_city-council.md,1,2021-02-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-01/2021-02-02_city-council.md,2,2021-02-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-01/2021-02-02_city-council.md,3,2021-02-02,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-02-01/2021-02-02_city-council.md,4,2021-02-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-01/2021-02-02_city-council.md,5,2021-02-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-15/2021-02-16_city-council.md,1,2021-02-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-15/2021-02-16_city-council.md,2,2021-02-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-15/2021-02-16_city-council.md,3,2021-02-16,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,1,,roll-call,Passed,rule:lu-rezone,high
+minutes/2021/2021-02-15/2021-02-16_city-council.md,4,2021-02-16,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-02-15/2021-02-16_city-council.md,5,2021-02-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,1,2021-03-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,2,2021-03-02,Council,Ordinance,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,3,2021-03-02,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,4,2021-03-02,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,5,2021-03-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-01/2021-03-02_city-council.md,6,2021-03-02,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2021/2021-03-01/2021-03-02_city-council.md,7,2021-03-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-15/2021-03-16_city-council.md,1,2021-03-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-15/2021-03-16_city-council.md,2,2021-03-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-15/2021-03-16_city-council.md,3,2021-03-16,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-03-15/2021-03-16_city-council.md,4,2021-03-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-03-15/2021-03-16_city-council.md,5,2021-03-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,1,2021-04-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,2,2021-04-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,3,2021-04-06,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,4,2021-04-06,Council,Interlocal,Interlocal,,final-action,fail,2,3,,roll-call,Failed,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,5,2021-04-06,Council,Interlocal,Interlocal,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,6,2021-04-06,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,7,2021-04-06,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-05/2021-04-06_city-council.md,8,2021-04-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,1,2021-04-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,2,2021-04-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,3,2021-04-20,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,4,2021-04-20,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,5,2021-04-20,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-04-19/2021-04-20_city-council.md,6,2021-04-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,1,2021-05-04,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,2,2021-05-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,3,2021-05-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,4,2021-05-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,,,,roll-call,Denied,rule:lu-rezone,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,5,2021-05-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,1,,roll-call,Passed,rule:lu-rezone,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,6,2021-05-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,7,2021-05-04,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,8,2021-05-04,Council,Land-Use/Zoning,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-05-03/2021-05-04_city-council.md,9,2021-05-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,1,2021-05-18,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2021/2021-05-17/2021-05-18_city-council.md,2,2021-05-18,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,3,2021-05-18,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2021/2021-05-17/2021-05-18_city-council.md,4,2021-05-18,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2021/2021-05-17/2021-05-18_city-council.md,5,2021-05-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,6,2021-05-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,7,2021-05-18,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,8,2021-05-18,Council,Other,Other,,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:no-signal,low
+minutes/2021/2021-05-17/2021-05-18_city-council.md,9,2021-05-18,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-05-17/2021-05-18_city-council.md,10,2021-05-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,1,2021-06-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,2,2021-06-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,3,2021-06-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,4,2021-06-01,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,5,2021-06-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,6,2021-06-01,Council,Resolution,Resolution,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,7,2021-06-01,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2021/2021-05-31/2021-06-01_city-council.md,8,2021-06-01,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-05-31/2021-06-01_city-council.md,9,2021-06-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,1,2021-06-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,2,2021-06-15,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,3,2021-06-15,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,4,2021-06-15,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,5,2021-06-15,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,6,2021-06-15,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,7,2021-06-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,8,2021-06-15,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,9,2021-06-15,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,10,2021-06-15,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-06-14/2021-06-15_city-council.md,11,2021-06-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,1,2021-07-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,2,2021-07-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,3,2021-07-20,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,4,2021-07-20,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,5,2021-07-20,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,6,2021-07-20,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,7,2021-07-20,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,8,2021-07-20,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-07-19/2021-07-20_city-council.md,9,2021-07-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-02/2021-08-03_city-council.md,1,2021-08-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-02/2021-08-03_city-council.md,2,2021-08-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-02/2021-08-03_city-council.md,3,2021-08-03,Council,Ordinance,Ordinance,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2021/2021-08-02/2021-08-03_city-council.md,4,2021-08-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,1,2021-08-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,2,2021-08-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,3,2021-08-17,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,4,2021-08-17,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,5,2021-08-17,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-08-16/2021-08-17_city-council.md,6,2021-08-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,1,2021-09-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,2,2021-09-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,3,2021-09-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,4,2021-09-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,5,2021-09-07,Council,Land-Use/Zoning,Land-Use,Text-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,6,2021-09-07,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,7,2021-09-07,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,8,2021-09-07,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,9,2021-09-07,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2021/2021-09-06/2021-09-07_city-council.md,10,2021-09-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-20/2021-09-21_city-council.md,1,2021-09-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-20/2021-09-21_city-council.md,2,2021-09-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-09-20/2021-09-21_city-council.md,3,2021-09-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,1,2021-10-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,2,2021-10-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,3,2021-10-05,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,4,2021-10-05,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,5,2021-10-05,Council,Public Hearing Action,Public-Hearing,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-10-04/2021-10-05_city-council.md,6,2021-10-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,1,2021-11-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,2,2021-11-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,3,2021-11-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,4,2021-11-16,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,5,2021-11-16,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,6,2021-11-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,7,2021-11-16,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,8,2021-11-16,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,9,2021-11-16,Council,Ordinance,Land-Use,Vacation,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-vacate,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,10,2021-11-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,11,2021-11-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2021/2021-11-15/2021-11-16_city-council.md,12,2021-11-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,1,2021-12-14,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,2,2021-12-14,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,3,2021-12-14,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,4,2021-12-14,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,5,2021-12-14,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,6,2021-12-14,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2021/2021-12-13/2021-12-14_city-council.md,7,2021-12-14,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,1,2022-01-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,2,2022-01-04,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,3,2022-01-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,4,2022-01-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,5,2022-01-04,Council,Appointment,Appointment,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,6,2022-01-04,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,7,2022-01-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-03/2022-01-04_city-council.md,8,2022-01-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,1,2022-01-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,2,2022-01-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,3,2022-01-18,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,4,2022-01-18,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,5,2022-01-18,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-17/2022-01-18_city-council.md,6,2022-01-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,1,2022-02-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,2,2022-02-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,3,2022-02-01,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,4,2022-02-01,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,5,2022-02-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-01-31/2022-02-01_city-council.md,6,2022-02-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-14/2022-02-15_city-council.md,1,2022-02-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-14/2022-02-15_city-council.md,2,2022-02-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-14/2022-02-15_city-council.md,3,2022-02-15,Council,Ordinance,Land-Use,Vacation,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-vacate,high
+minutes/2022/2022-02-14/2022-02-15_city-council.md,4,2022-02-15,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-14/2022-02-15_city-council.md,5,2022-02-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,1,2022-03-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,2,2022-03-01,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,,,,unanimous-declared,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,3,2022-03-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,4,2022-03-01,Council,Ordinance,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-accessory,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,5,2022-03-01,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-02-28/2022-03-01_city-council.md,6,2022-03-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-03-14/2022-03-15_city-council.md,1,2022-03-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-03-14/2022-03-15_city-council.md,2,2022-03-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-03-14/2022-03-15_city-council.md,3,2022-03-15,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-03-14/2022-03-15_city-council.md,4,2022-03-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-04/2022-04-05_city-council.md,1,2022-04-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-04/2022-04-05_city-council.md,2,2022-04-05,Council,Land-Use/Zoning,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-04-04/2022-04-05_city-council.md,3,2022-04-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-04/2022-04-05_city-council.md,4,2022-04-05,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2022/2022-04-04/2022-04-05_city-council.md,5,2022-04-05,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2022/2022-04-04/2022-04-05_city-council.md,6,2022-04-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-18/2022-04-19_city-council.md,1,2022-04-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-18/2022-04-19_city-council.md,2,2022-04-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-04-18/2022-04-19_city-council.md,3,2022-04-19,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-04-18/2022-04-19_city-council.md,4,2022-04-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-02/2022-05-03_city-council.md,1,2022-05-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-02/2022-05-03_city-council.md,2,2022-05-03,Council,Other,Other,,final-action,pass,4,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2022/2022-05-02/2022-05-03_city-council.md,3,2022-05-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-05-02/2022-05-03_city-council.md,4,2022-05-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-02/2022-05-03_city-council.md,5,2022-05-03,Council,Budget Amendment,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2022/2022-05-02/2022-05-03_city-council.md,6,2022-05-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,1,2022-05-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,2,2022-05-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,3,2022-05-17,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,4,2022-05-17,Council,Other,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,rule:proc-session,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,5,2022-05-17,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,6,2022-05-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-05-16/2022-05-17_city-council.md,7,2022-05-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,1,2022-06-07,Council,Appointment,Appointment,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,2,2022-06-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,3,2022-06-07,Council,Public Hearing Action,Public-Hearing,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,4,2022-06-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,5,2022-06-07,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,6,2022-06-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,7,2022-06-07,Council,Resolution,Resolution,,final-action,pass,3,1,,roll-call,Passed,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,8,2022-06-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,9,2022-06-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-06/2022-06-07_city-council.md,10,2022-06-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,1,2022-06-21,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,2,2022-06-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,3,2022-06-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,4,2022-06-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,5,2022-06-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,6,2022-06-21,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,7,2022-06-21,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,8,2022-06-21,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,9,2022-06-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-06-20/2022-06-21_city-council.md,10,2022-06-21,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2022/2022-06-20/2022-06-21_city-council.md,11,2022-06-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-07-18/2022-07-19_city-council.md,1,2022-07-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-07-18/2022-07-19_city-council.md,2,2022-07-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-07-18/2022-07-19_city-council.md,3,2022-07-19,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-07-18/2022-07-19_city-council.md,4,2022-07-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-01/2022-08-02_city-council.md,1,2022-08-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-01/2022-08-02_city-council.md,2,2022-08-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-01/2022-08-02_city-council.md,3,2022-08-02,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-08-01/2022-08-02_city-council.md,4,2022-08-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-01/2022-08-02_city-council.md,5,2022-08-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,1,2022-08-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,2,2022-08-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,3,2022-08-16,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,4,2022-08-16,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,5,2022-08-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,6,2022-08-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-08-15/2022-08-16_city-council.md,7,2022-08-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-09-19/2022-09-20_city-council.md,1,2022-09-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-09-19/2022-09-20_city-council.md,2,2022-09-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-09-19/2022-09-20_city-council.md,3,2022-09-20,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-09-19/2022-09-20_city-council.md,4,2022-09-20,Council,Land-Use/Zoning,Land-Use,Development-Agreement,procedural,pass,4,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2022/2022-09-19/2022-09-20_city-council.md,5,2022-09-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,1,2022-10-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,2,2022-10-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,3,2022-10-04,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,4,2022-10-04,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,5,2022-10-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-03/2022-10-04_city-council.md,6,2022-10-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-17/2022-10-18_city-council.md,1,2022-10-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-17/2022-10-18_city-council.md,2,2022-10-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-17/2022-10-18_city-council.md,3,2022-10-18,Council,Resolution,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2022/2022-10-17/2022-10-18_city-council.md,4,2022-10-18,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-17/2022-10-18_city-council.md,5,2022-10-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-31/2022-11-01_city-council.md,1,2022-11-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-10-31/2022-11-01_city-council.md,2,2022-11-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,1,2022-11-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,2,2022-11-15,Council,Ordinance,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,3,2022-11-15,Council,Ordinance,Land-Use,Text-Amendment,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,4,2022-11-15,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,1,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,5,2022-11-15,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,6,2022-11-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-11-14/2022-11-15_city-council.md,7,2022-11-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,1,2022-12-13,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,2,2022-12-13,Council,Appointment,Appointment,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,3,2022-12-13,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,4,2022-12-13,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,5,2022-12-13,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2022/2022-12-12/2022-12-13_city-council.md,6,2022-12-13,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-02/2023-01-03_city-council.md,1,2023-01-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-02/2023-01-03_city-council.md,2,2023-01-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-02/2023-01-03_city-council.md,3,2023-01-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-02/2023-01-03_city-council.md,4,2023-01-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-02/2023-01-03_city-council.md,5,2023-01-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,1,2023-01-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,2,2023-01-17,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,3,2023-01-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,4,2023-01-17,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,5,2023-01-17,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,6,2023-01-17,Council,Land-Use/Zoning,Land-Use,General-Plan-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-gpa,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,7,2023-01-17,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,8,2023-01-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-16/2023-01-17_city-council.md,9,2023-01-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-30/2023-01-31_city-council.md,1,2023-01-31,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-30/2023-01-31_city-council.md,2,2023-01-31,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-01-30/2023-01-31_city-council.md,3,2023-01-31,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,1,2023-02-07,Council,Other,Other,,final-action,pass,4,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2023/2023-02-06/2023-02-07_city-council.md,2,2023-02-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,3,2023-02-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,4,2023-02-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,fail,2,3,,roll-call,Failed,rule:lu-rezone,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,5,2023-02-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,1,,roll-call,Passed,rule:lu-rezone,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,6,2023-02-07,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,7,2023-02-07,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,8,2023-02-07,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,9,2023-02-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,10,2023-02-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-06/2023-02-07_city-council.md,11,2023-02-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-20/2023-02-21_city-council.md,1,2023-02-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-20/2023-02-21_city-council.md,2,2023-02-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,,crosswalk,high
+minutes/2023/2023-02-20/2023-02-21_city-council.md,3,2023-02-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-20/2023-02-21_city-council.md,4,2023-02-21,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-02-20/2023-02-21_city-council.md,5,2023-02-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-06/2023-03-07_city-council.md,1,2023-03-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-06/2023-03-07_city-council.md,2,2023-03-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-06/2023-03-07_city-council.md,3,2023-03-07,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-06/2023-03-07_city-council.md,4,2023-03-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,1,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,2,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,3,2023-03-21,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,4,2023-03-21,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,5,2023-03-21,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,6,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,7,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,8,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-03-20/2023-03-21_city-council.md,9,2023-03-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-03/2023-04-04_city-council.md,1,2023-04-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-03/2023-04-04_city-council.md,2,2023-04-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-03/2023-04-04_city-council.md,3,2023-04-04,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2023/2023-04-03/2023-04-04_city-council.md,4,2023-04-04,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-03/2023-04-04_city-council.md,5,2023-04-04,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-03/2023-04-04_city-council.md,6,2023-04-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,1,2023-04-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,2,2023-04-18,Council,Resolution,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,3,2023-04-18,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,3,2,,roll-call,Passed,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,4,2023-04-18,Council,Resolution,Resolution,,final-action,fail,,,,unknown,Failed,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,5,2023-04-18,Council,Other,Other,,final-action,pass,4,1,,roll-call,Passed,rule:no-signal,low
+minutes/2023/2023-04-17/2023-04-18_city-council.md,6,2023-04-18,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,7,2023-04-18,Council,Resolution,Resolution,,final-action,pass,3,2,,roll-call,Passed,crosswalk,high
+minutes/2023/2023-04-17/2023-04-18_city-council.md,8,2023-04-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-05-15/2023-05-16_city-council.md,1,2023-05-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-05-15/2023-05-16_city-council.md,2,2023-05-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-05-15/2023-05-16_city-council.md,3,2023-05-16,Council,Land-Use/Zoning,Land-Use,Subdivision-Plat,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-subdiv,high
+minutes/2023/2023-05-15/2023-05-16_city-council.md,4,2023-05-16,Council,Budget Amendment,Budget,,final-action,fail,2,3,,roll-call,Failed,crosswalk,medium
+minutes/2023/2023-05-15/2023-05-16_city-council.md,5,2023-05-16,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2023/2023-05-15/2023-05-16_city-council.md,6,2023-05-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-05/2023-06-06_city-council.md,1,2023-06-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-05/2023-06-06_city-council.md,2,2023-06-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-05/2023-06-06_city-council.md,3,2023-06-06,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-05/2023-06-06_city-council.md,4,2023-06-06,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-05/2023-06-06_city-council.md,5,2023-06-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,1,2023-06-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,2,2023-06-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,3,2023-06-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,4,2023-06-20,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,5,2023-06-20,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2023/2023-06-19/2023-06-20_city-council.md,6,2023-06-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-06-19/2023-06-20_city-council.md,7,2023-06-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,1,2023-07-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,2,2023-07-18,Council,Other,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,3,2023-07-18,Council,Resolution,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:contract,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,4,2023-07-18,Council,Ordinance,Land-Use,Text-Amendment,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,5,2023-07-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-17/2023-07-18_city-council.md,6,2023-07-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,1,2023-08-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,2,2023-08-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,3,2023-08-01,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,4,2023-08-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,5,2023-08-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-07-31/2023-08-01_city-council.md,6,2023-08-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-08-14/2023-08-15_city-council.md,1,2023-08-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-08-14/2023-08-15_city-council.md,2,2023-08-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-08-14/2023-08-15_city-council.md,3,2023-08-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,1,2023-09-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,2,2023-09-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,3,2023-09-05,Council,Interlocal,Interlocal,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,4,2023-09-05,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,5,2023-09-05,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+pmn_backfill/text/council_2023-09-05.txt,6,2023-09-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-09-05.txt,7,2023-09-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-09-18/2023-09-19_city-council.md,1,2023-09-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-09-18/2023-09-19_city-council.md,2,2023-09-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,1,2023-10-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,2,2023-10-03,Council,Other,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-agenda,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,3,2023-10-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,4,2023-10-03,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,5,2023-10-03,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2023/2023-10-02/2023-10-03_city-council.md,6,2023-10-03,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,7,2023-10-03,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-02/2023-10-03_city-council.md,8,2023-10-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-16/2023-10-17_city-council.md,1,2023-10-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-10-16/2023-10-17_city-council.md,2,2023-10-17,Council,Ordinance,Land-Use,Text-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2023/2023-10-16/2023-10-17_city-council.md,3,2023-10-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-11-07.txt,1,2023-11-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-11-07.txt,2,2023-11-07,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+pmn_backfill/text/council_2023-11-07.txt,3,2023-11-07,Council,Appointment,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+pmn_backfill/text/council_2023-11-07.txt,4,2023-11-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+pmn_backfill/text/council_2023-11-07.txt,5,2023-11-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,1,2023-12-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,3,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,2,2023-12-06,Council,Resolution,Resolution,,final-action,pass,3,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,3,2023-12-06,Council,Ordinance,Ordinance,,final-action,pass,2,1,,roll-call,Passed,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,4,2023-12-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,5,2023-12-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,3,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2023/2023-12-04/2023-12-06_city-council.md,6,2023-12-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-01/2024-01-02_city-council.md,1,2024-01-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-01/2024-01-02_city-council.md,2,2024-01-02,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-01/2024-01-02_city-council.md,3,2024-01-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-01/2024-01-02_city-council.md,4,2024-01-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-01/2024-01-02_city-council.md,5,2024-01-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-15/2024-01-16_city-council.md,1,2024-01-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-01-15/2024-01-16_city-council.md,2,2024-01-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-15/2024-01-16_city-council.md,3,2024-01-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-adjourn,high
+minutes/2024/2024-01-15/2024-01-16_city-council.md,4,2024-01-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-01-15/2024-01-16_city-council.md,5,2024-01-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-05/2024-02-06_city-council.md,1,2024-02-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-05/2024-02-06_city-council.md,2,2024-02-06,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-05/2024-02-06_city-council.md,3,2024-02-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-05/2024-02-06_city-council.md,4,2024-02-06,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2024/2024-02-05/2024-02-06_city-council.md,5,2024-02-06,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2024/2024-02-05/2024-02-06_city-council.md,6,2024-02-06,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-05/2024-02-06_city-council.md,7,2024-02-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-19/2024-02-20_city-council.md,1,2024-02-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-19/2024-02-20_city-council.md,2,2024-02-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-19/2024-02-20_city-council.md,3,2024-02-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-02-19/2024-02-20_city-council.md,4,2024-02-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,1,2024-03-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,2,2024-03-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,3,2024-03-19,Council,Resolution,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:contract,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,4,2024-03-19,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,5,2024-03-19,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,6,2024-03-19,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-03-18/2024-03-19_city-council.md,7,2024-03-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,1,2024-04-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,2,2024-04-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,3,2024-04-02,Council,Ordinance,Ordinance,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,4,2024-04-02,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,5,2024-04-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-01/2024-04-02_city-council.md,6,2024-04-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,1,2024-04-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,2,2024-04-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,3,2024-04-16,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,4,2024-04-16,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,5,2024-04-16,Council,Ordinance,Ordinance,,final-action,pass,3,2,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,6,2024-04-16,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,7,2024-04-16,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2024/2024-04-15/2024-04-16_city-council.md,8,2024-04-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,9,2024-04-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-04-15/2024-04-16_city-council.md,10,2024-04-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,1,2024-05-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,2,2024-05-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,3,2024-05-07,Council,Ordinance,Ordinance,,final-action,pass,3,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,4,2024-05-07,Council,Budget Amendment,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2024/2024-05-06/2024-05-07_city-council.md,5,2024-05-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,6,2024-05-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-06/2024-05-07_city-council.md,7,2024-05-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,1,2024-05-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,2,2024-05-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,3,2024-05-21,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,4,2024-05-21,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,5,2024-05-21,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,6,2024-05-21,Council,Resolution,Resolution,,final-action,fail,2,3,,roll-call,Failed,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,7,2024-05-21,Council,Contract/Purchase,Contract-Purchase,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-05-20/2024-05-21_city-council.md,8,2024-05-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,1,2024-06-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,2,2024-06-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,3,2024-06-04,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,4,2024-06-04,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,5,2024-06-04,Council,Other,Other,,final-action,fail,2,3,,roll-call,Failed,rule:no-signal,low
+minutes/2024/2024-06-03/2024-06-04_city-council.md,6,2024-06-04,Council,Other,Budget,,final-action,fail,,,,unknown,Failed,rule:budget,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,7,2024-06-04,Council,Other,Other,,final-action,fail,1,4,,roll-call,Failed,rule:no-signal,low
+minutes/2024/2024-06-03/2024-06-04_city-council.md,8,2024-06-04,Council,Other,Other,,final-action,pass,4,1,,roll-call,Passed,rule:no-signal,low
+minutes/2024/2024-06-03/2024-06-04_city-council.md,9,2024-06-04,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,10,2024-06-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,11,2024-06-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-03/2024-06-04_city-council.md,12,2024-06-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,1,2024-06-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,2,2024-06-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,3,2024-06-18,Council,Resolution,Resolution,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,4,2024-06-18,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,4,1,,roll-call,Passed,rule:lu-devagr,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,5,2024-06-18,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,6,2024-06-18,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,7,2024-06-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,8,2024-06-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,9,2024-06-18,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2024/2024-06-17/2024-06-18_city-council.md,10,2024-06-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-06-17/2024-06-18_city-council.md,11,2024-06-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,1,2024-07-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,3,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,2,2024-07-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,3,2024-07-16,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,4,2024-07-16,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed,rule:lu-rezone,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,5,2024-07-16,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,6,2024-07-16,Council,Ordinance,Ordinance,,final-action,pass,3,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,7,2024-07-16,Council,Ordinance,Ordinance,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,8,2024-07-16,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed,rule:proc-session,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,9,2024-07-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-07-15/2024-07-16_city-council.md,10,2024-07-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,1,2024-08-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,2,2024-08-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,3,2024-08-06,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,4,2024-08-06,Council,Resolution,Resolution,,final-action,pass,,,,unknown,Passed,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,5,2024-08-06,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-08-05/2024-08-06_city-council.md,6,2024-08-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,1,2024-08-20,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,2,2024-08-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,3,2024-08-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,4,2024-08-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,5,2024-08-20,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,6,2024-08-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,7,2024-08-20,Council,Resolution,Contract-Purchase,,final-action,pass,4,0,1,roll-call,Passed,rule:contract,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,8,2024-08-20,Council,Other,Other,,final-action,fail,,,,unknown,Failed,rule:no-signal,low
+minutes/2024/2024-08-19/2024-08-20_city-council.md,9,2024-08-20,Council,Other,Other,,final-action,pass,4,1,,roll-call,Passed,rule:no-signal,low
+minutes/2024/2024-08-19/2024-08-20_city-council.md,10,2024-08-20,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed,rule:no-signal,low
+minutes/2024/2024-08-19/2024-08-20_city-council.md,11,2024-08-20,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-08-19/2024-08-20_city-council.md,12,2024-08-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,1,2024-09-03,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,2,2024-09-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,3,2024-09-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,4,2024-09-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,5,2024-09-03,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,6,2024-09-03,Council,Ordinance,Land-Use,Vacation,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-vacate,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,7,2024-09-03,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,8,2024-09-03,Council,Ordinance,Land-Use,Text-Amendment,final-action,pass,3,2,,roll-call,Passed,rule:lu-textamend,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,9,2024-09-03,Council,Resolution,Resolution,,final-action,pass,4,0,1,roll-call,Passed,crosswalk,high
+minutes/2024/2024-09-02/2024-09-03_city-council.md,10,2024-09-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,1,2024-10-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,2,2024-10-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,3,2024-10-01,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,4,2024-10-01,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,5,2024-10-01,Council,Land-Use/Zoning,Land-Use,Subdivision-Plat,final-action,pass,4,0,1,roll-call,Passed,rule:lu-subdiv,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,6,2024-10-01,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,7,2024-10-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-09-30/2024-10-01_city-council.md,8,2024-10-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-10-14/2024-10-15_city-council.md,1,2024-10-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-10-14/2024-10-15_city-council.md,2,2024-10-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-10-14/2024-10-15_city-council.md,3,2024-10-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-10-14/2024-10-15_city-council.md,4,2024-10-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-10-14/2024-10-15_city-council.md,5,2024-10-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,1,2024-11-12,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,2,2024-11-12,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,3,2024-11-12,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,4,0,1,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,4,2024-11-12,Council,Ordinance,Ordinance,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,5,2024-11-12,Council,Ordinance,Ordinance,,recommendation,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,6,2024-11-12,Council,Appointment,Appointment,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,7,2024-11-12,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-11-11/2024-11-12_city-council.md,8,2024-11-12,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,1,2024-12-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,2,2024-12-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,3,2024-12-03,Council,Ordinance,Ordinance,,final-action,pass,3,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,4,2024-12-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,5,2024-12-03,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,6,2024-12-03,Council,Budget Amendment,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,7,2024-12-03,Council,Budget Amendment,Budget,,final-action,pass,3,1,,roll-call,Passed,crosswalk,high
+minutes/2024/2024-12-02/2024-12-03_city-council.md,8,2024-12-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-01-06/2025-01-07_city-council.md,1,2025-01-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-01-06/2025-01-07_city-council.md,2,2025-01-07,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2025/2025-01-06/2025-01-07_city-council.md,3,2025-01-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-01-06/2025-01-07_city-council.md,4,2025-01-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-01-06/2025-01-07_city-council.md,5,2025-01-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,3,2,,roll-call,Passed,rule:lu-rezone,high
+minutes/2025/2025-01-06/2025-01-07_city-council.md,6,2025-01-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,1,2025-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,2,2025-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,3,2025-02-04,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,4,2025-02-04,Council,Land-Use/Zoning,Land-Use,Text-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,5,2025-02-04,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,6,2025-02-04,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,7,2025-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-03/2025-02-04_city-council.md,8,2025-02-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-17/2025-02-18_city-council.md,1,2025-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-17/2025-02-18_city-council.md,2,2025-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-02-17/2025-02-18_city-council.md,3,2025-02-18,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-02-17/2025-02-18_city-council.md,4,2025-02-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,1,2025-03-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,2,2025-03-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,3,2025-03-04,Council,Interlocal,Interlocal,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,4,2025-03-04,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,5,2025-03-04,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,6,2025-03-04,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,7,2025-03-04,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,8,2025-03-04,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,9,2025-03-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-03/2025-03-04_city-council.md,10,2025-03-04,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,1,2025-03-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,2,2025-03-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,3,2025-03-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,4,2025-03-18,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,5,2025-03-18,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,6,2025-03-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-17/2025-03-18_city-council.md,7,2025-03-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,1,2025-04-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,2,2025-04-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,3,2025-04-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,4,2025-04-01,Council,Ordinance,Ordinance,,final-action,pass,3,2,,roll-call,Passed,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,5,2025-04-01,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-03-31/2025-04-01_city-council.md,6,2025-04-01,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,1,2025-04-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,2,2025-04-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,3,2025-04-15,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,4,2025-04-15,Council,Ordinance,Land-Use,Text-Amendment,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-textamend,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,5,2025-04-15,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-04-14/2025-04-15_city-council.md,6,2025-04-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,1,2025-05-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,2,2025-05-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,3,2025-05-06,Council,Ordinance,Ordinance,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,4,2025-05-06,Council,Ordinance,Ordinance,,procedural,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,5,2025-05-06,Council,Land-Use/Zoning,Land-Use,Development-Agreement,procedural,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,6,2025-05-06,Council,Resolution,Resolution,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2025/2025-05-05/2025-05-06_city-council.md,7,2025-05-06,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2025/2025-05-05/2025-05-06_city-council.md,8,2025-05-06,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,1,2025-05-20,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,2,2025-05-20,Council,Other,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,3,2025-05-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,4,2025-05-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,5,2025-05-20,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,6,2025-05-20,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,7,2025-05-20,Council,Other,Other,,final-action,pass,4,1,,roll-call,Passed,rule:no-signal,low
+minutes/2025/2025-05-19/2025-05-20_city-council.md,8,2025-05-20,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,9,2025-05-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-05-19/2025-05-20_city-council.md,10,2025-05-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,1,2025-06-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,2,2025-06-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,3,2025-06-03,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,4,2025-06-03,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,5,2025-06-03,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,6,2025-06-03,Council,Resolution,Resolution,,final-action,pass,4,0,1,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,7,2025-06-03,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,8,2025-06-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-02/2025-06-03_city-council.md,9,2025-06-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,1,2025-06-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,2,2025-06-17,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,3,2025-06-17,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,4,2025-06-17,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2025/2025-06-16/2025-06-17_city-council.md,5,2025-06-17,Council,Resolution,Resolution,,final-action,pass,4,0,1,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,6,2025-06-17,Council,Interlocal,Interlocal,,final-action,pass,4,0,1,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-06-16/2025-06-17_city-council.md,7,2025-06-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-07-14/2025-07-15_city-council.md,1,2025-07-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-07-14/2025-07-15_city-council.md,2,2025-07-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-07-14/2025-07-15_city-council.md,3,2025-07-15,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-07-14/2025-07-15_city-council.md,4,2025-07-15,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-04/2025-08-05_city-council.md,1,2025-08-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-04/2025-08-05_city-council.md,2,2025-08-05,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-04/2025-08-05_city-council.md,3,2025-08-05,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-08-04/2025-08-05_city-council.md,4,2025-08-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-04/2025-08-05_city-council.md,5,2025-08-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,1,2025-08-26,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,2,2025-08-26,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,3,2025-08-26,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,4,2025-08-26,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,5,2025-08-26,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-08-25/2025-08-26_city-council.md,6,2025-08-26,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-09-15/2025-09-16_city-council.md,1,2025-09-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-09-15/2025-09-16_city-council.md,2,2025-09-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-09-15/2025-09-16_city-council.md,3,2025-09-16,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-09-15/2025-09-16_city-council.md,4,2025-09-16,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-09-15/2025-09-16_city-council.md,5,2025-09-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-10-06/2025-10-07_city-council.md,1,2025-10-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-10-06/2025-10-07_city-council.md,2,2025-10-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-10-06/2025-10-07_city-council.md,3,2025-10-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-10-20/2025-10-21_city-council.md,1,2025-10-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-10-20/2025-10-21_city-council.md,2,2025-10-21,Council,Land-Use/Zoning,Land-Use,Conditional-Use,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-cup,high
+minutes/2025/2025-10-20/2025-10-21_city-council.md,3,2025-10-21,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2025/2025-10-20/2025-10-21_city-council.md,4,2025-10-21,Council,Land-Use/Zoning,Land-Use,Site-Plan-Design-Review,procedural,pass,5,0,,roll-call,Passed,rule:lu-site,high
+minutes/2025/2025-10-20/2025-10-21_city-council.md,5,2025-10-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-11-17/2025-11-18_city-council.md,1,2025-11-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-11-17/2025-11-18_city-council.md,2,2025-11-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-11-17/2025-11-18_city-council.md,3,2025-11-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-11-17/2025-11-18_city-council.md,4,2025-11-18,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-11-17/2025-11-18_city-council.md,5,2025-11-18,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-01/2025-12-02_city-council.md,1,2025-12-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-01/2025-12-02_city-council.md,2,2025-12-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-01/2025-12-02_city-council.md,3,2025-12-02,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2025/2025-12-01/2025-12-02_city-council.md,4,2025-12-02,Council,Resolution,Resolution,,final-action,pass,4,1,,roll-call,Passed,crosswalk,high
+minutes/2025/2025-12-01/2025-12-02_city-council.md,5,2025-12-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-15/2025-12-16_city-council.md,1,2025-12-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-15/2025-12-16_city-council.md,2,2025-12-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2025/2025-12-15/2025-12-16_city-council.md,3,2025-12-16,Council,Resolution,Resolution,,final-action,pass,3,2,,roll-call,Passed (Mayor tie-break),crosswalk,high
+minutes/2025/2025-12-15/2025-12-16_city-council.md,4,2025-12-16,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,1,2026-01-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,2,2026-01-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,3,2026-01-20,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,,rule:lu-rezone,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,4,2026-01-20,Council,Resolution,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:budget,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,5,2026-01-20,Council,Other,Other,,final-action,pass,5,0,,roll-call,Passed unanimously,rule:no-signal,low
+minutes/2026/2026-01-19/2026-01-20_city-council.md,6,2026-01-20,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,7,2026-01-20,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-01-19/2026-01-20_city-council.md,8,2026-01-20,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,1,2026-02-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,2,2026-02-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,3,2026-02-03,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,4,2026-02-03,Council,Appointment,Appointment,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,5,2026-02-03,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,6,2026-02-03,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,7,2026-02-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-02/2026-02-03_city-council.md,8,2026-02-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-16/2026-02-17_city-council.md,1,2026-02-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-16/2026-02-17_city-council.md,2,2026-02-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-02-16/2026-02-17_city-council.md,3,2026-02-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,1,2026-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,2,2026-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,3,2026-03-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,4,2026-03-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,fail,2,2,,roll-call,Failed,rule:lu-rezone,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,5,2026-03-03,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,fail,,,,unknown,Failed,rule:lu-rezone,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,6,2026-03-03,Council,Land-Use/Zoning,Land-Use,Rezone,procedural,pass,4,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,7,2026-03-03,Council,Land-Use/Zoning,Land-Use,Development-Agreement,final-action,pass,4,0,,roll-call,Passed unanimously,rule:lu-devagr,high
+minutes/2026/2026-03-02/2026-03-03_city-council.md,8,2026-03-03,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-03-16/2026-03-17_city-council.md,1,2026-03-17,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,1,2026-04-07,Council,Other,Other,,final-action,pass,3,2,,roll-call,Passed,rule:no-signal,low
+minutes/2026/2026-04-06/2026-04-07_city-council.md,2,2026-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,3,2026-04-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,4,2026-04-07,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,5,2026-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,6,2026-04-07,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,7,2026-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-06/2026-04-07_city-council.md,8,2026-04-07,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-20/2026-04-21_city-council.md,1,2026-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-20/2026-04-21_city-council.md,2,2026-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-20/2026-04-21_city-council.md,3,2026-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-20/2026-04-21_city-council.md,4,2026-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-04-20/2026-04-21_city-council.md,5,2026-04-21,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,1,2026-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,2,2026-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,3,2026-05-05,Council,Appointment,Appointment,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2026/2026-05-04/2026-05-05_city-council.md,4,2026-05-05,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,5,2026-05-05,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,6,2026-05-05,Council,Budget Amendment,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2026/2026-05-04/2026-05-05_city-council.md,7,2026-05-05,Council,Resolution,Resolution,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-04/2026-05-05_city-council.md,8,2026-05-05,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,1,2026-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,2,2026-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,3,2026-05-19,Council,Budget Amendment,Budget,,final-action,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,4,2026-05-19,Council,Contract/Purchase,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,rule:proc-session,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,5,2026-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-05-18/2026-05-19_city-council.md,6,2026-05-19,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,1,2026-06-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,4,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,2,2026-06-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,3,2026-06-02,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,4,2026-06-02,Council,Land-Use/Zoning,Land-Use,Rezone,final-action,pass,5,0,,roll-call,Passed unanimously,rule:lu-rezone,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,5,2026-06-02,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,6,2026-06-02,Council,Land-Use/Zoning,Land-Use,Other-Land-Use,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,7,2026-06-02,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,8,2026-06-02,Council,Ordinance,Ordinance,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,9,2026-06-02,Council,Resolution,Resolution,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,10,2026-06-02,Council,Budget Amendment,Budget,,final-action,pass,5,0,,roll-call,Passed unanimously,crosswalk,medium
+minutes/2026/2026-06-01/2026-06-02_city-council.md,11,2026-06-02,Council,Contract/Purchase,Contract-Purchase,,final-action,pass,4,0,1,roll-call,Passed unanimously,crosswalk,high
+minutes/2026/2026-06-01/2026-06-02_city-council.md,12,2026-06-02,Council,Procedural/Administrative,Procedural-Administrative,,procedural,pass,,,,unanimous-declared,Passed unanimously,crosswalk,high

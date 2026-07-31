@@ -1,0 +1,27 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+233,653,City Council,yes,meeting_minutes,,pm4,2020-01-01,CivicClerk repo is superset; 2 net-new (2026-06-04/06-11) recovered into index.csv
+233,1860,Planning Commission,yes,planning_commission,,pm4,2020-01-01,CivicClerk PC layer superset every in-scope year (0 gaps)
+233,654,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,in-council recess — all 14 PMN RDA minutes verified = the combined council doc (match council dates)
+233,657,Housing Authority,no,,,,,in-council recess (repo body=HA); NOT crawled by pilot — flip to crawl=yes vs meeting_minutes if standalone HA minutes suspected
+233,655,Municipal Building Authority,no,,,,,in-council recess like HA/RDA; not crawled by pilot — flip to crawl=yes vs meeting_minutes if standalone MBA minutes suspected
+233,4645,Board of Adjustment,no,,,,,quasi-judicial — out of repo scope
+233,663,Board of Appeals,no,,,,,out of scope
+233,659,Historic Preservation Board,no,,,,,out of scope
+233,5301,Blue Ribbon Housing Commission,no,,,,,advisory — out of scope
+233,665,Citizens Open Space Advisory Committee,no,,,,,advisory — out of scope
+233,662,Library Board,no,,,,,out of scope
+233,661,Recreation Advisory Board,no,,,,,out of scope
+233,666,Public Art Advisory Board,no,,,,,advisory — out of scope
+233,656,Water Service District,no,,,,,special district — out of scope
+233,8543,Appeals Panel,no,,,,,quasi-judicial — out of scope
+233,6333,Bonanza Flat,no,,,,,out of scope
+233,8291,Neighborhoods First Streets Program,no,,,,,program — out of scope
+233,8943,Nonprofit Services Advisory Committee,no,,,,,advisory — out of scope
+233,5437,Open RFP's,no,,,,,procurement — not a meeting body
+233,3911,Park City Employee Transfer and Discharge Appeal Board,no,,,,,quasi-judicial — out of scope
+233,5421,Park City Off-Leash Task Force,no,,,,,task force — out of scope
+233,5791,Police Complaint Review Committee,no,,,,,out of scope
+233,8117,Procurement,no,,,,,procurement — not a meeting body
+233,5187,Special Events Advisory Committee,no,,,,,advisory — out of scope
+233,660,Test,no,,,,,PMN test body — not real
+233,664,Walking and Biking Liaison Committee,no,,,,,advisory — out of scope

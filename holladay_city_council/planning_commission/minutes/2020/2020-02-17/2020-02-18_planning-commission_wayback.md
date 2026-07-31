@@ -1,0 +1,261 @@
+# Planning Commission Meeting — 2020-02-18
+> Source: http://cityofholladay.com/file/2020/12/021820-PC-Mtg-.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20210808214739id_/http://cityofholladay.com/file/2020/12/021820-PC-Mtg-.pdf
+> Meeting date: 2020-02-18
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                         MINUTES OF THE CITY OF HOLLADAY
+                          PLANNING COMMISSION MEETING
+
+                                  Tuesday, February 18, 2020
+                                          6:30 p.m.
+                                  Holladay Municipal Center
+                                    4580 South 2300 East
+
+ATTENDANCE:
+
+Planning Commission Members:                         City Staff:
+Marianne Ricks, Chair                                Robert Hobbs, City Planner
+Chris Layton
+Jan Bradshaw
+Troy Holbrook
+
+WORK SESSION
+The Work Session was called to order 6:30 p.m.
+
+City Planner, Robert Hobbs, reviewed the agenda items. Agenda item 1 involved the proposed
+development of professional office space. The applicant was requesting that the Commission
+consider whether the building could be placed closer than normally would be allowed to 3900
+South reducing the setback from 20 feet to 10 feet. The City Engineer did not have concerns with
+the proposed design. The landscaping is customary with trees having been added to the design
+and street lights. It was mentioned the applicant can provide conceptual drawings. There was a
+discussion regarding the setback of 10 feet off of 3900 South and the entry and exit from the
+property. There was some confusion about the plans that were submitted. Commissioner
+Holbrook commented on the building layout and his safety concerns being addressed. It was noted
+that the approach on the south off 2000 East is set too close to the intersection.
+
+It was noted that the meeting minutes of 6/4/19 and 12/3/19 were not included in the packet. As a
+result, the Commission would only consider the minutes of 3/19/19 and 4/30/19.
+
+The Work Meeting adjourned at 6:52 p.m.
+
+CONVENE REGULAR MEETING – Public Welcome and Chair Opening Statement.
+Chair Marianne Ricks called the Regular Meeting to order at approximately 7:00 p.m. and read
+the Commission statement.
+
+PUBLIC HEARING
+1.      Ludlow Dentistry – Conceptual/Preliminary Site Plan – 2006 thru 2020 East 3900
+        South.
+City Planner, Robert Hobbs presented the staff report and stated that the request is for a site plan
+review and approval of Ludlow Dentistry. The City Council recently rezoned the property to
+professional office (P-O) to accommodate the current project. The applicant’s proposal would be
+10 feet closer to 3900 South than would typically be allowed. The Commission has the authority
+
+
+City of Holladay Planning Commission Meeting – 02/18/2020
+
+                                                 1
+to allow it if they so choose. Staff reviewed the application and determined that it is in compliance
+with the Code.
+
+Mr. Hobbs reported that the applicant’s curb approach is close to 2000 East and will have to be
+moved in accordance with Title 14. Any approval would need to be predicated on accomplishing
+compliance with Title 14. The Commission also needs to consider whether the applicant can move
+the building to the north to buffer the residential property to the south or alternatively comply with
+the Code. The Commission was provided with a copy of both proposals.
+
+Mr. Hobbs stated that comments from the applicant in the staff report include a Justification
+Statement, an Introduction, and a photo of the property.
+
+Commissioner Holbrook asked if shifting the building by an additional 10 feet would result in the
+proposal being even more out of compliance than it currently is. Mr. Hobbs responded that it
+depends on how the applicant realigns the service drive or changes the size. Mr. Hobbs stated that
+the parking is based on professional office spaces. There was discussion regarding compliance
+with Title 14 and how that would take place.
+
+The applicant, Adam Watts, gave his address as 2221 South 2000 East and informed the
+Commission that he would try to maintain the drive out in its current location even if the building
+is pushed further north. The request for the egress was to push it two feet to the south, which is
+possible because of a five-foot landscape buffer. He noted that it would meet the egress
+requirement and still maintain the required landscaping setbacks.
+
+Mr. Watts felt that by moving it 10 feet it would provide a better buffer from the closest residence
+and better visibility from 3900 South. The building is currently about 40 feet from the residential
+property line. There was a discussion about the zoning history of an adjacent property. Mr. Watts
+commented that having the egress on the south side allows for maximized parking under the City
+Code. Chair Ricks expressed safety concerns with the current proposed configuration pertaining
+to traffic. There was discussion about the sewer and water connections.
+
+Chair Ricks opened the public hearing.
+
+Tatyana Golub, resides to the south of the property at 3921 South 2000 East. She was concerned
+because both of her bedrooms face north and are only four feet from the wall. She believes that
+the entrance on 3900 South is much safer because people stop at the stop light.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Bradshaw commented on the height of the single-story building. Commissioner
+Layton stated that the height is 40 feet. There was discussion about the height of the fencing in a
+residential zone and that the proposal for a six-foot fence is in compliance with the Code. It was
+mentioned that the proposal is somewhat unique given the configuration of the property.
+
+Chair Ricks commented that 10 feet on the sides is appropriate. She was inclined to approve the
+project conceptually and ask that the applicant to come back with better drawings to help guide
+
+
+City of Holladay Planning Commission Meeting – 02/18/2020
+
+                                                  2
+the development of the Black Diamond property in the future. Another comment was made about
+safety concerns with the 10-foot setback. Commissioner Layton stressed the importance of
+complying with the zoning that is currently in place.
+
+Mr. Watts reported that he plans to install signage advising traffic of non-entry. The Commission
+agreed that Plan B is not acceptable as-is. There was discussion about what should be approved
+tonight and what should be brought back for additional review. The Commission Members were
+comfortable with Plan A.
+
+Commissioner Bradshaw moved to approve the conceptual and preliminary site plan for the
+Ludlow Site Plan located 2006 and 2020 East 3900 South for Plan A subject to the following:
+
+Findings:
+      1.      The site has been rezoned to P-O, especially to facilitate office uses – specifically
+              with a dental office being proposed for development on the property;
+
+       2.     The concept site improvement/layout plan A and associated landscape plan
+              complies with relevant zoning standards that appertain to the same, or, will
+              comply contingent upon actions being taken by the developer (see conditions
+              below);
+
+       3.     The queuing and circulation plan provide customary ingress/egress with flow
+              through the property;
+
+       4.     The proposed use will not add expectedly an undue burden to public
+              infrastructure nor introduce nuisance or hazardous conditions to the property,
+              its surrounds, or the public; and,
+
+       5.     Utility and emergency services are available to the property;
+
+       6.     Plan B provides equivalency to Plan A save respecting setback conformance and
+              a minor amount of land coverage; and
+
+       7.     The Plans provide buffering to/for the residential property(ies) south and
+              southeast of the property.
+
+Conditions:
+       1.     Applicant/project shall comply with the PC approved site plan “B” as selected by
+              the Commission;
+       2.     Applicant shall re-design the approved Plan to move the egress approach on 2000
+              East to comply with § 14.12.110.A;
+       3.     Approval by the City Engineer of compliance with Title 14 on the egress off of
+              2000 East; and
+       4.     Defer final approval to staff.
+
+
+
+
+City of Holladay Planning Commission Meeting – 02/18/2020
+
+                                                3
+Commissioner Layton seconded the motion. Vote on motion: Chris Layton-Aye, Troy Holbrook-
+Aye, Jan Bradshaw-Aye, Chair Marianne Ricks-Aye. The motion passed unanimously.
+
+ACTION ITEMS
+2.     Consideration of Ordinance 13.66, Holladay Crossroads Zone (HCR).
+Chair Ricks clarified that the above matter is not a public hearing. She commented on the language
+regarding bicycle parking and stated that it was discussed that bicycle parking has not been
+previously required in other zones. There was discussion regarding how much bicycle parking
+should be provided and the potential to increase the amount at some point in the future.
+
+Spencer Timmons gave his address as 4472 South Albright Drive and commented that bicyclists
+want their bicycles to be parked in the front or side of a building in the line of sight. He did not
+think that requiring a specific number of bicycle stalls based on the number of parking stalls would
+be the proper way to regulate bicycle parking.
+
+Chris Ensign suggested the Commission use language that there “should” be bicycle parking but
+not address the number of stalls required. Commissioner Layton agreed and liked the use of “shall
+have” language without providing a specific number of required stalls. It was suggested that the
+Commission include an additional level of detail. Mr. Hobbs suggested that the applicants propose
+the number of required bicycle spaces.
+
+It was suggested that the specific required number of bicycle stalls be removed and instead state
+that development “shall include adequate bicycle parking” and, “Bicycle racks shall be
+permanently secured to a non-permeable surface. Racks (or spaces containing a bike rack) shall
+be located within close proximity to the main entrance of the building(s) that they serve.”
+
+There was discussion that Holladay is not ready to require a specific bicycle to automobile parking
+ratio. It was suggested that a specific number of parking stalls be required for certain businesses
+but not for others and that bicycle parking alternatives be considered.
+
+The Commission next discussed a chart showing allowed uses. Those shaded in blue were
+Alcoholic Beverage Retail Sales establishments. There was discussion regarding the minimum
+separation distance from residences. Commissioner Ricks asked about charter schools and assisted
+living facilities and suggested they be removed from the allowed use table.
+
+Commissioner Bradshaw moved to recommend approval to the City Council of the HCR Zone
+edits proposed by staff in Chapter 13.66 with the following concerns to be further reviewed by
+the City Council:
+        1.    The bicycle parking language and how specific the regulatory language needs to
+              be;
+
+       2.      The minimum separation between residences and alcoholic beverage sales
+               establishments; and
+
+       3.      The adjustments needed to parking ratios.
+
+
+
+City of Holladay Planning Commission Meeting – 02/18/2020
+
+                                                 4
+Commissioner Layton seconded the motion. Vote on motion: Jan Bradshaw-Aye, Troy
+Holbrook-Aye, Chris Layton-Aye, Chair Marianne Ricks-Aye.    The motion passed
+unanimously.
+
+Chair Ricks stated that there would be further public hearings with the City Council on the above
+issues.
+
+3.    Approval of Minutes – 3/19/19, 4/30/19, 6/4/19, and 12/3/19.
+The minutes were reviewed and modified.
+
+Commissioner Bradshaw moved to approve the Holladay City Planning Commission Meeting
+minutes of March 19, 2019, with the changes provided by Chair Ricks. Commissioner Holbrook
+seconded the motion. Vote on motion: Chris Layton-Aye, Troy Holbrook-Aye, Jan Bradshaw-
+Aye, Chair Marianne Ricks-Aye. The motion passed unanimously.
+
+Commissioner Bradshaw moved to approve the minutes of the City of Holladay Planning
+Commission of April 30, 2019, as presented. Commissioner Holbrook seconded the motion.
+Vote on motion: Chris Layton-Aye, Troy Holbrook-Aye, Jan Bradshaw-Aye, Chair Marianne
+Ricks-Aye. The motion passed unanimously.
+
+Approval of the minutes of June 4, 2019, and December 3, 2019, was tabled to a future meeting.
+
+ADJOURN
+Commissioner Holbrook moved to adjourn. Commissioner Bradshaw seconded the motion.
+The motion passed with the unanimous consent of the Commission.
+
+The Planning Commission Meeting adjourned at approximately 8:21 p.m.
+
+
+I hereby certify that the foregoing represents a true, accurate and complete record of the City of
+Holladay Planning Commission Meeting held Tuesday, February 18, 2020.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+
+Minutes Approved:     April 7th 2020
+
+
+
+
+City of Holladay Planning Commission Meeting – 02/18/2020
+
+                                                5
+

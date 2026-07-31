@@ -1,0 +1,40 @@
+{
+ "contributions": [
+  {
+   "date": "08/08/2025",
+   "name": "Harrison D. Williams",
+   "amount": "100",
+   "in_kind": false
+  },
+  {
+   "date": "08/15/2025",
+   "name": "Catherine Taylor",
+   "amount": "50",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "08/11/2025",
+   "recipient": "Alpha Graphics",
+   "purpose": "re-elect stickers",
+   "amount": "79.51",
+   "in_kind": false
+  }
+ ],
+ "total_contributions": "150",
+ "total_expenditures": "79.51",
+ "contributions_50_or_less": null,
+ "beginning_balance": null,
+ "ending_balance": "70.49",
+ "_meta": {
+  "index_path": "raw/2025_adid305_clarissa-williams-final-campaign-financial-disclosure.pdf",
+  "candidate": "Clarissa Williams",
+  "office": "Council",
+  "filing_type": "interim",
+  "election_year": "2025",
+  "source_pdf": "2025_adid305_clarissa-williams-final-campaign-financial-disclosure.pdf",
+  "pages": 4,
+  "transcription": "read-tool vision 2026-07-17 (born-digital text filing; pdftotext-unstable \u2014 handwritten/attached/AcroForm)"
+ }
+}

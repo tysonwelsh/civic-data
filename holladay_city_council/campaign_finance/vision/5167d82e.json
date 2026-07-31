@@ -1,0 +1,62 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/29/25",
+      "recipient": "Vottiv (text messaging)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/31/25",
+      "recipient": "Wells Fargo (monthly service fee)",
+      "purpose": null,
+      "amount": "15.00",
+      "in_kind": false
+    },
+    {
+      "date": "11/3/25",
+      "recipient": "Trader Joes (snacks - Walk about)",
+      "purpose": null,
+      "amount": "10.77",
+      "in_kind": false
+    },
+    {
+      "date": "11/3/25",
+      "recipient": "Bjorns Brew (coffee - walk about)",
+      "purpose": null,
+      "amount": "43.18",
+      "in_kind": false
+    },
+    {
+      "date": "11/3/25",
+      "recipient": "The Store (Donuts - walkabout)",
+      "purpose": null,
+      "amount": "47.75",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": null,
+  "total_expenditures": "166.70",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "233.39",
+  "_meta": {
+    "index_path": "raw/2025_city_jones-final.pdf",
+    "candidate": "Bailee Jones",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_jones-final.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

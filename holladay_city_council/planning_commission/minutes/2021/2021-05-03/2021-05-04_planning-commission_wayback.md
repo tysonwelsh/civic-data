@@ -1,0 +1,546 @@
+# Planning Commission Meeting — 2021-05-04
+> Source: http://cityofholladay.com/file/2021/07/050421-PC-Mtg.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20211201061529id_/http://cityofholladay.com/file/2021/07/050421-PC-Mtg.pdf
+> Meeting date: 2021-05-04
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                          MINUTES OF THE CITY OF HOLLADAY
+                           PLANNING COMMISSION MEETING
+
+                                      Tuesday, May 4, 2021
+                                            6:00 p.m.
+                                     City Council Chambers
+                                      4580 South 2300 East
+                                         Holladay, Utah
+
+ATTENDANCE:
+
+Planning Commission Members:                          City Staff:
+Chris Layton, Vice-Chair                              LaNiece Davenport, Community/Economic
+Martin Banks                                             Development Director
+Howard Layton                                         Jonathan Teerlink, Planning Manager
+Alyssa Lloyd                                          Stephanie Carlson, City Recorder
+Marianne Ricks                                        Robert Hobbs, Senior City Planner
+                                                      Brad Christopherson, City Attorney
+WORK SESSION
+In the absence of Chair Jan Bradshaw, Vice-Chair Chris Layton called the Work Session to order
+at 5:33 p.m.
+
+The agenda items were reviewed and discussed.
+
+Senior City Planner, Robert Hobbs, presented agenda item number 1 regarding the Conditional
+Use Permit request for a telecommunications facility at 3053 East Casto Lane. He reported that in
+the year 2000, the City of Holladay approved a Conditional Use Permit request for a 60-foot cell
+tower that would allow for additional antenna arrays to be located thereon. The tower is allowed
+in two ways. The determination was whether 100 feet, as requested in the current application, is
+appropriate in the proposed location. Mr. Hobbs stated that the previous approval runs with the
+land and there were no conditions or language in the Code showing otherwise.
+
+A question was raised regarding the 53-foot setback as opposed to the 100-foot setback referenced.
+The proposed conditions were reviewed. Planning Manager, Jonathan Teerlink, reported that he
+added the first condition, which was a requirement of the original Conditional Use Permit. The
+site plan proposes a setback of 16 feet for the new tower, which was determined to be unacceptable
+to staff. He suggested that it be maintained at least to the setback required with the original
+Conditional Use Permit.
+
+Height issues were discussed. Concern was expressed that it will stand out because of the height.
+Mr. Teerlink stated that there is another tower nearby that is a simulated pine tree that he recalled
+is 100 feet tall. The pine tree at Stratton Drive is also 100 feet tall. Height issues were discussed.
+It was noted that it should not be substantially out of character for the area.
+
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                  1
+Vice-Chair Layton stated that the second agenda item involves a public hearing for a Conditional
+Use Permit for an accessory garage. He recalled that there was an issue with the timing of notices
+and questions about it being noticed for the right property. Mr. Hobbs stated that there was an
+issue with the notice that went out in terms of the location of the property shown on the map. The
+address, however, was correct. Word had gotten out and the neighbors were aware of which
+property the request applies to. He suggested that the public hearing be conducted and continued
+to the next meeting.
+
+Agenda item number three was a public hearing for a Conditional Use Permit for a home
+occupation at 3957 South Alberly Way. Mr. Hobbs stated that the staff report contains information
+on the hours of operation and the anticipated number of clients. The proposed work hours were
+discussed. It was noted that adequate parking is available.
+
+Agenda item number four involved a public hearing for a residential subdivision to be called
+Lincoln Park. Conceptual and preliminary approval was sought. Mr. Teerlink reported that the
+proposed two-lot subdivision is located in the R-2-10 zone and is proposing to split an existing
+property to allow for an additional single-family home. R-2 usually denotes a duplex with 10,000
+square-foot lots, however, with this application they are proposing a single-family home on a
+minimum lot size of 6,250 square feet.
+
+Agenda item number five was described as a public hearing for a residential subdivision for
+Bermondsey Place in the R-2-10 zone. The site was presented previously and the applicant was
+now returning with a different proposal. Mr. Teerlink reported that the application involves a
+subdivision for the existing zone. The applicant was requesting a twin home development in the
+R-2-10 zone. The .9-acre site would yield four twin homes or eight units. He explained that the
+property ownership within the structure will be common for a twin home. With townhomes, the
+ownership of the structure is typically through the HOA and the property owner only owns “paint
+to paint”. A twin home provides ownership separated by shared vertical property line.
+
+Commissioner Banks moved to adjourn the work meeting. Commissioner Lloyd seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+CONVENE ELECTRONIC MEETING – Public Welcome and Chair Opening Statement.
+In the absence of Chair Jan Bradshaw, Vice-Chair Chris Layton called the Regular Meeting to
+order at 6:03 p.m. and read the Commission Statement.
+
+PUBLIC HEARING
+1.     Conditional Use Permit – Telecommunication Facility – 3053 East Casto Lane (Public
+       Zone).
+Senior City Planner, Robert Hobbs, presented the staff report and stated that a Conditional Use
+Permit is proposed for a 100-foot cell tower on the subject property. In the year 2000, a
+Conditional Use Permit was issued for a 60-foot tower. Due to the change in the nature of the use
+and the extended time period between the consideration and the current proposal it was brought
+back to the Commission as an amendment. Under the current Code, an 80-foot cell tower is
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                2
+allowable. The proposed tower is comparable in nature to other towers of its kind. It is proposed
+to be a stealth tower disguised as a tree.
+
+Commissioner Lloyd considered the stealth nature of the poles to be effective. As they age,
+however, most artificial things turn blue. She asked that the applicant adhere to a maintenance or
+upkeep plan.
+
+Vice-Chair Chris Layton opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Howard Layton commented that because the applicants have a prior application,
+there may be some question as to whether it is enforceable. He suggested that there be at least a
+100-foot setback to maintain a distance between nearby residences.
+
+Mr. Hobbs stated that one of the conditions of approval was intended to help the Commission feel
+satisfied and broadcast to the applicant that there will be a plan review requirement for the project.
+His concern was with the location of the 20’ x 60’ leased space. There was concern that it will be
+too close to the home and may need to be adjusted. Mr. Hobbs explained that the Code specifies
+that monopoles must be set back from residential structures a distance equal to their height.
+
+Commissioner Ricks asked if the 60-foot tower was ever built. Mr. Teerlink stated that the wood
+tower was erected and arrays were placed on it. Cricket Wireless went out of business and removed
+its equipment from the tower.
+
+Vice-Chair Chris Layton asked if there is any type of variance process. Mr. Hobbs reiterated that
+80 feet is allowed by Code. The variance process would be separate and go through an Appeals
+Officer that the City is contracted with. Commissioner Ricks questioned the need for the additional
+20 feet. Mr. Hobbs stated that anything in excess of 80 feet would require a variance. Possible
+options were discussed. It was noted that the setback requirement is not satisfied either.
+
+Mr. Teerlink explained that the intent with a co-location situation eliminates the need for multiple
+towers to be spread throughout the City in some other fashion. In order to maximize the height
+location in one specific location and to have two or three other carriers on the same monopole was
+considered ideal. For that reason, it was assumed that the additional 20 feet were being requested.
+
+Commissioner Lloyd moved to recommend approval of a Conditional Use Permit for a 100-foot
+tall stealth cell tower to be located at 3053 East Casto Lane subject to the following:
+
+Conditions:
+       1.      The Owner/Applicant shall obtain a Building Permit for the proposed cell tower
+               structure before erecting the same for its intended purpose(s);
+
+       2.      The tower shall be designed so that its appearance [i.e., color, form, etc.] is that
+               of a large pine tree [in order to be considered a “stealth facility”];
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                  3
+       3.      City approval of the cell tower shall not abrogate the Applicant’s/Owner’s
+               responsibility to comply with any relevant deed restriction(s) and/or covenants,
+               conditions, and restrictions (“CC&Rs”) that may be assigned to the Property;
+
+       4.      Maintain the stealth appearance in color and form.
+
+Commissioner Howard Layton seconded the motion. Vote on motion: Commissioner Ricks-
+Nay, Commissioner Banks-Nay, Commissioner Howard Layton-Aye, Commissioner Lloyd-Aye,
+Vice-Chair Chris Layton-Aye. The motion passed 3-to-2.
+
+Commissioner Ricks voted against the motion as she preferred to continue the matter to allow for
+additional questions to be answered.
+
+2.      Conditional Use Permit – Stallings Accessory Garage – 3938 South 3030 East (R-1-8
+        Zone).
+Mr. Hobbs presented the staff report and stated that the matter is administrative in nature and
+involves a request for a Conditional Use Permit. There was some concern about the notice sent to
+the neighboring property owners. It contained a correct address but the location of the property
+was misrepresented on the map provided. The neighbors are generally familiar with where the
+actual site is and the request. It was suggested that the matter be tabled to allow the neighbors
+time to settle the question of which property is being impacted by the proposal.
+
+The applicant, William Stallings, suggested that the public hearing could be opened today but no
+decision made. The public hearing could then be continued to the next meeting.
+
+Mr. Hobbs stated that the normal cap provided for property the size of the applicant’s is 850 square
+feet. The applicants were requesting a structure that is 94 square feet larger than that. Some of
+the comments indicated that the structure exceeds one story. There were other issues that can only
+be enforced or policed after the fact. Mr. Hobbs explained that the setbacks are based on property
+size. A five-foot setback is proposed to the north and a six-foot setback to the west. Vice-Chair
+Chris Layton stated that currently, the only thing that is not in compliance is the square footage
+unless there is non-compliance in the impermeable surfaces. The drawing shows that it is in
+compliance but the concern that was raised pertains to what counts as impervious surface with
+respect to temporary structures.
+
+Mr. Stallings stated that he has spoken with most of his neighbors and all interest parties were
+present. He saw no reason to table a decision. With regard to multiple buildings, there are two
+structures on the site currently. His intent was to tear one down and build a new one. No additional
+new structures were proposed. He was proposing 94 additional square feet and to increase the
+setback from four feet to five feet. The request was due to aesthetics. He indicated that the
+accessory building will be used for a hobby.
+
+Vice-Chair Chris Layton opened the public hearing.
+
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                 4
+Stephanie St. Thomas gave her address as 3930 South 3030 East and stated that this is the first time
+she had seen the wording “accessory garage and guesthouse”. The word “guesthouse” denotes a
+home for guests with plumbing and a bathroom that could potentially become an Airbnb. When
+he spoke to Mr. Stallings previously, his impression was that it was intended to be a workshop for
+truck restoration and that none of his vehicles that are used for personal use would be stored there.
+Since Ms. St. Thomas and her husband live the closest to the proposed structure, they were
+concerned that more details were not provided. Ms. St. Thomas confirmed that not all of the
+neighbors were present. She asked that the matter be tabled to allow the neighbors additional time
+to understand the details.
+
+Tom Sharrow gave his address as 3930 South 3030 East and considered Mr. Stallings to be a great
+neighbor and a master builder. He was certain that whatever he builds will be of high quality. Mr.
+Sharrow was concerned about it becoming a guest residence. He was not opposed to the proposed
+increase in the square footage but was concerned that there are currently at least five cars parked
+in front of Mr. Stallings’ home and on the street. If the building serves as an accessory dwelling
+it will result in even more cars. It was clarified that the proposed structure will not be a guest
+house.
+
+There were no further public comments.
+
+Commissioner Howard Layton moved to continue the public hearing on the application for a
+detached accessory garage at 3938 South 3030 East for and on behalf of William Stallings to a
+future date with the intent of allowing additional time for neighbors to meet, provide input, and
+resolve questions. Commissioner Lloyd seconded the motion. Vote on motion: Commissioner
+Ricks-Aye, Commissioner Banks-Aye, Commissioner Lloyd-Aye, Commissioner Howard
+Layton-Aye, Vice-Chair Chris Layton-Aye. The motion passed unanimously.
+
+Commissioner Layton asked Mr. Stallings why the proposed portion of his property was chosen
+as the location for the accessory structure rather than the end of the driveway. Mr. Stallings stated
+that the landscaping for the two existing structures had been completed. He did not need three
+structures but if he tears the two structures down, he will have to relandscape. The primary factor
+was his wife who chose the proposed location. Commissioner Lloyd was concerned with the
+proposed location given that it is a large permanent structure. She commented that once a large,
+permanent structure is built that is visually identified as a garage, it is an invitation to pave to the
+garage, which will create a very large impermeable surface. Vice-Chair Chris Layton stated that
+the driveway cannot be paved because it would exceed the impervious surface maximum.
+Mr. Hobbs stated that the driveway could be constructed after the fact and no one would know
+about it unless there is a complaint. At that time, the City would determine whether it is an issue.
+
+3.      Conditional Use Permit – “Earth and Ether” Home Occupation – 3957 South Alberly
+        Way (R-1-10 Zone).
+Mr. Hobbs presented the staff report and stated that the request is for a Conditional Use Permit for
+a home occupation for a skincare and energy healing practice. The required standards were
+identified. The proposed work hours were described as follows:
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                   5
+       •    Mondays from 10:00 a.m. to 12:00 p.m. with an allowance for one guest;
+       •    Thursdays and Fridays from 10:00 a.m. and 5:00 p.m. with an allowance for three
+            guests; and
+       •    Sundays from 2:00 p.m. to 4:00 p.m. for one guest.
+
+Adequate parking was available in the driveway.
+
+Commissioner Ricks asked about the condition requiring the applicant to obtain a Business
+License. Mr. Hobbs stated that because there are people coming to the place of business it is
+required.
+
+The applicant, Brittany Lee, reported that she is an esthetician with 10 years’ experience. She
+moved to the City of Holladay from Santa Monica, California about six months ago after closing
+down a storefront there due to COVID-19. She would now like to change how her business
+operates and do it on a smaller scale. She confirmed that she is a State licensed esthetician. With
+regard to business hours, she would like to limit her practice to three to four clients per day. The
+possibility of increasing hours was discussed.
+
+Commissioner Howard Layton wanted to ensure that adequate parking is provided. He considered
+that as important as the business hours. Ms. Lee stated that she has a two-car garage in addition
+to her driveway so there will be plenty of space for parking. She noted that she sees one client at
+a time.
+
+Vice-Chair Chris Layton opened the public hearing.
+
+Jerry Williams gave his address as 3954 South Alberly Way. With regard to parking, he stated
+that in the course of the day he is frequently gone. He called other property owners in the
+neighborhood and all agreed that the proposed business is a good thing. They also appreciate that
+Ms. Lee is a good neighbor.
+
+There were no further public comments.
+
+Commissioner Ricks moved to close the public hearing. Commissioner Lloyd seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+The Commission discussed the potential of limiting the applicant to five clients per week.
+Commissioner Ricks commented that Ms. Lee has been very conservative in terms of the number
+of clients she will see and suggested that the Commission respect the fact that she is running a
+business and give her more latitude. Ms. Lee indicated that she was not interested in expanding
+the business hours further.
+
+Commissioner Banks moved that the Planning Commission approve the application for a home
+occupation for Earth and Ether located at 3957 South Alberly Way based on the following:
+
+Findings:
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                 6
+       1.     A Home Occupation with customers is an allowed use for this location subject to
+              mitigation conditions.
+
+       2.     The proposed business’s operations would expectedly be of low-impact nature -
+              all procedures are proposed to occur within the applicant’s home.
+
+       3.     The Property owner has space sufficient to provide off-street parking on their
+              oversized driveway (see aerial imagery of the Property).
+
+       4.     It is not anticipated that traffic to/from the site will be a problem due to the
+              probable clientele count notwithstanding the Property is positioned at the end of
+              a public right-of-way cul-de-sac.
+
+       5.     There are no expressly anticipated outside employees associated with the
+              contemplated business operation (which will serve to not diminish available
+              clientele parking area provision).
+
+       6.     The use provides a service to the community.
+
+Requirements:
+      1.     The Property’s existing off-street parking [driveway] area shall be kept open and
+             available during business hours for patronage use (to discourage on-street client
+             parking).
+
+       2.     A Business License shall be procured by the Applicant for the use and shall be
+              maintained in active status while the business is in operation.
+
+       3.     The CUP and Business License are subject to review and revocation upon finding
+              of non-compliance
+
+       4.     Provided clientele services shall be limited to a maximum of five (5) persons per
+              week.
+
+       5.     Days and hours of operation are and shall be, limited to Mondays from 10:00
+              a.m. to 12:00 p.m. leaving room for one guest, Thursday and Friday from 10:00
+              a.m. to 5:00 p.m. allowing up to three guests, Sundays from 2:00 p.m. to 4:00 p.m.
+              allowing for one guest, and only one guest at a time for all of those dates.
+
+       6.     All customer parking shall be on-site and cars will be kept off the street.
+
+Commissioner Ricks seconded the motion. Vote on motion: Commissioner Howard Layton-
+Aye, Commissioner Lloyd-Aye, Commissioner Banks-Aye, Commissioner Ricks-Aye, Vice-
+Chair Chris Layton-Aye. The motion passed unanimously.
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                               7
+4.      Residential Subdivision – “Lincoln Park” Concept and Preliminary – 2251 East
+        Lincoln Lane (R-2-10 Zone).
+Mr. Teerlink presented the staff report and stated that the application has been reviewed by the
+Technical Review Committee (“TRC”) over the last several weeks in an effort to present an
+application that is ready for concept and preliminary approval. The property is zoned R-2-10,
+which is duplex zoning. The property has enough backyard space to split the lot in two for an
+additional single-family home. In the R-2-10 zone, a twin home can be built on 10,000 square feet
+but a single-family home is not allowed on a 5,000 square-foot lot. The density ratio is different
+in the zone and requires a minimum of 6,250 square feet for a single-family home. The applicant
+prepared a concept subdivision plan that shows the arrangement of the properties. The lane will
+also be used as a public utility easement to access gas, power, and sewer for the flag lot in the rear.
+
+The TRC reviewed the request for compliance with health, safety, and engineering for on-site
+stormwater retention, access for fire, and dedication. The TRC recommended that conceptual and
+preliminary approvals be granted. Staff was confident that the Planning Commission can delegate
+final approval to the TRC if desired.
+
+In response to a question raised, Mr. Teerlink stated that on the west side, the setbacks are taken
+to the property line with a proposed easement across the property. The Fire Department will
+require a width of 20 feet there. In terms of Public Works and Engineering, the driveways are
+proposed to abut the property line. Commissioner Howard Layton asked if there was anything in
+the process that would encourage or mandate an area between the driveway and the neighbor to
+the south.
+
+The applicant, Ben Norman from City Point Homes stated that there will be a six-foot-high fence
+installed there. The current fence is chain link with privacy slats. Their intent was to update it.
+The front home will be remodeled and the detached garage removed with a new one attached to
+allow for access. The permanent home in the front was approved previously. He stated that the
+proposed fence will be a barrier fence rather than chain link. He did not object to it being a
+condition of approval.
+
+Vice-Chair Chris Layton opened the public hearing. There were no public comments.
+
+Commissioner Banks moved to close the public hearing. Commissioner Lloyd seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+Commissioner Lloyd suggested that the fence be enhanced to improve privacy and curb appeal on
+the west side. She also felt strongly about requiring a high curb along the driveway to help with
+runoff. Mr. Teerlink commented that an enhancement can be added under the preliminary approval
+by specifying a type or element to direct drainage toward Lincoln Lane rather than toward the
+property lines. That gives the City Engineer something to look for and the applicant options.
+Mr. Teerlink explained that conceptual and preliminary approval was being considered tonight and
+should be made in two separate motions.
+
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                  8
+Commissioner Ricks moved to approve the Conceptual Subdivision Plan for property located at
+2251 East Lincoln Lane subject to the following:
+
+Findings:
+      1.      The requirements for conceptual subdivision have been substantially completed.
+
+       2.     Each of the lots shall comply with the minimum width (50 ft) and area (6,250 sq
+              ft) for single-family home development in the R-2-10 zone.
+
+       3.     The development complies with the General Plan
+
+Requirement:
+      1.     Submit the required area and use table per the Concept Plan checklist.
+
+Commissioner Howard Layton seconded the motion. Vote on motion: Commissioner Howard
+Layton-Aye, Commissioner Lloyd-Aye, Commissioner Banks-Aye, Commissioner Ricks-Aye,
+Vice-Chair Chris Layton-Aye. The motion passed unanimously.
+
+Commissioner Ricks moved to approve the Preliminary Subdivision Plan with Final Plat
+approval to be delegated to the TRC or staff, subject to the following:
+
+Findings:
+      1.      The requirements for the preliminary subdivision have been substantially
+              completed.
+
+       2.     Stormwater detention areas and public improvements have been reviewed by the
+              City Engineer.
+
+       3.     Fire access has been approved by the UFA.
+
+       4.     Vehicular access and utility easements to the rear is established
+
+Requirements:
+      1.     Obtain and submit all utility connection letters prior to Final Plat submittal to
+             the TRC.
+
+       2.     Post-development Bonding requirements as determined by the City Engineer.
+
+       3.     Replace or enhance the fence on the west side.
+
+       4.     Add an element to divert stormwater to Lincoln Lane.
+
+Commissioner Lloyd seconded the motion. Vote on motion: Commissioner Howard Layton-
+Aye, Commissioner Lloyd-Aye, Commissioner Banks-Aye, Commissioner Ricks-Aye, Vice-
+Chair Chris Layton-Aye. The motion passed unanimously.
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                              9
+5.      Residential Subdivision – “Bermondsey Place” Concept – 4545 South thru 4551 South
+        Highland Drive (R-2-10 Zone).
+Mr. Teerlink presented the staff report and stated that the application involves the conceptual
+review of the subdivision of a twin home development. The applicant is working with the existing
+zone for a development to be serviced off a private driveway. It is proposed to run up the middle
+of the property. The TRC reviewed the request at the concept level, which involves the carrying
+capacity of all three properties combined in order to yield four twin homes. Each twin home
+structure will be on 10,000 square feet with a property line delineating ownership down the middle
+of the structure. A common space area is proposed along Highland Drive. The Fire Department
+had reviewed the request in terms of access. The construction drawings were also reviewed by the
+City Engineer. The applicant also provided Utility Service Letters for power, water, gas, and sewer
+for eight units on the subject property.
+
+The applicant, Ashley Atkinson from Sequoia Development, stated that there will be a lot of green
+space around the units with private backyards planned for each home. In the front along Highland
+Drive, there is a canal ditch that will be rerouted and opened onto Highland Drive with a nice
+landscape/streetscape in front of a solid fence. A gated entrance was also proposed.
+
+Vice-Chair Chris Layton opened the public hearing. There were no public comments.
+
+Vice-Chair Chris Layton moved to close the public hearing. Commissioner Banks seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+Vice-Chair Chris Layton commented that this is a very appropriately laid out site with the right
+density. He felt that it will fit well into the neighborhood. He looked forward to seeing the project
+going forward.
+
+Commissioner Banks recommended that the Planning Commission approve the Bermondsey
+Place Subdivision Concept Plan located at 4545 South through 4551 South Highland Drive
+subject to the following:
+
+Findings:
+      1.       The requirements for conceptual subdivision have been substantially completed.
+
+       2.      The proposed layout of lots complies with density and minimum dimensions;
+               width (35 ft) and area (5,000 sq ft) for attached two-family development in the R-
+               2-10 zone.
+
+       3.      The development complies with the General Plan.
+
+Requirement:
+      1.     Utility service letters to be submitted to the TRC with accompanying Preliminary
+             level construction drawings.
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                                 10
+Commissioner Ricks seconded the motion. Vote on motion: Commissioner Howard Layton-
+Aye, Commissioner Lloyd-Aye, Commissioner Banks-Aye, Commissioner Ricks-Aye, Vice-
+Chair Chris Layton-Aye. The motion passed unanimously.
+
+ACTION
+6.    Approval of Minutes – 4/6/21.
+The minutes of April 6, 2021, were reviewed.
+
+Commissioner Banks moved to approve the minutes of the Tuesday, April 6, 2021, Planning
+Commission Meeting. Commissioner Ricks seconded the motion. The motion passed with the
+unanimous consent of the Commission.
+
+ADJOURN
+Commissioner Howard Layton moved to adjourn. Commissioner Lloyd seconded the motion.
+The motion passed with the unanimous consent of the Commission.
+
+The Planning Commission Meeting adjourned at approximately 7:32 p.m.
+
+
+
+I hereby certify that the foregoing represents a true, accurate, and complete record of the City
+of Holladay Planning Commission Meeting held Tuesday, May 4, 2021.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+
+
+Minutes Approved: July 13th 2021
+
+
+
+
+City of Holladay Planning Commission Meeting –05/04/2021
+
+                                               11
+

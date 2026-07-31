@@ -1,0 +1,29 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+244,1600,Provo Municipal Council,yes,meeting_minutes,,pm4,2020-01-01,OnBase repo superset for regular meetings; 8 special/joint council minutes recovered into index.csv
+244,1662,Provo City Planning Commission,yes,planning_commission,,pm4,2020-01-01,repo PC minutes 2025+ only; 92 dates (2020-2024 ROA backlog) recovered into index.csv (counts as repo-has)
+244,2318,Redevelopment Agency Governing Board,yes,meeting_minutes,,pm4,2020-01-01,Council sitting as RDA — posted RDA minutes duplicate council content (match council dates)
+244,2394,Administrative Hearing,no,,,,,quasi-judicial — out of scope
+244,1706,Board of Equalization and Review,no,,,,,out of scope
+244,2271,Civil Service Commission,no,,,,,out of scope
+244,1659,Classified Civil Service Commission,no,,,,,out of scope
+244,7255,Elected Officials Compensation Commission,no,,,,,advisory — out of scope
+244,1714,Metropolitan Water Board,no,,,,,special district — out of scope
+244,2374,Planning Commission Administrative Hearing,no,,,,,quasi-judicial — out of scope
+244,1660,Provo Airport Board,no,,,,,out of scope
+244,1724,Provo Arts Council,no,,,,,advisory — out of scope
+244,2192,Provo City Administration,no,,,,,executive — not a deliberative meeting body
+244,1661,Provo City Board of Adjustment,no,,,,,quasi-judicial — out of scope
+244,1667,Provo City Board of Appeals,no,,,,,quasi-judicial — out of scope
+244,6121,Provo City Board of Canvassers,no,,,,,election canvass — out of scope
+244,1664,Provo City Design Review Committee,no,,,,,out of scope
+244,1665,Provo City Energy (Power) Board,no,,,,,out of scope
+244,1663,Provo City Landmarks Commission,no,,,,,out of scope
+244,1668,Provo City Library Board,no,,,,,out of scope
+244,1669,Provo City Parks and Recreation Board,no,,,,,out of scope
+244,7493,Provo City Public Works,no,,,,,out of scope
+244,1670,Provo Foundation Board,no,,,,,out of scope
+244,1671,Provo Senior Citizen's Advisory Board,no,,,,,advisory — out of scope
+244,1666,Provo Telecommunications Board,no,,,,,out of scope
+244,4373,Provo Transportation and Mobility Advisory Committee,no,,,,,advisory — out of scope
+244,2375,Risk Management Committee,no,,,,,out of scope
+244,1673,Unclassified Civil Service Appeals Board,no,,,,,quasi-judicial — out of scope

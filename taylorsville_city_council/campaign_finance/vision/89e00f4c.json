@@ -1,0 +1,18 @@
+{
+  "contributions": [
+    {"date": "10/27/2021", "name": "Brent Von Wagoner", "amount": "100.00", "in_kind": false},
+    {"date": "10/28/2021", "name": "Dave Burbidge", "amount": "100.00", "in_kind": false},
+    {"date": "10/28/2021", "name": "William Hogan", "amount": "25.00", "in_kind": false},
+    {"date": "10/29/2021", "name": "Harvey Murphy", "amount": "50.00", "in_kind": false},
+    {"date": "11/01/2021", "name": "Kirk McLaughlin", "amount": "100.00", "in_kind": false},
+    {"date": "11/01/2021", "name": "Leanne X Yen", "amount": "10.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/08/2021", "recipient": "Larry Johnson", "purpose": "Reimbursement", "amount": "2200.00", "in_kind": false},
+    {"date": "12/01/2021", "recipient": "Larry Johnson", "purpose": "Reimbursement", "amount": "196.37", "in_kind": false}
+  ],
+  "total_contributions": "385.00",
+  "total_expenditures": "2396.37",
+  "beginning_balance": "2396.30",
+  "ending_balance": "0"
+}

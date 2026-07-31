@@ -1,0 +1,733 @@
+{
+ "data": [
+  {
+   "id": "01000000-2fad-becf-21b4-08decc9e0de9",
+   "parentId": "01000000-d357-fcd2-7d23-08dec58d2848",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "Primary06232026",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "DEM State Senate District 5"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 53,
+    "totalUnits": 53,
+    "asOf": "2026-07-07T18:48:10.4525084Z",
+    "reportingStatusDetails": [
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Fully Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-fully-reported",
+      "order": 1,
+      "value": 53
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Partially Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-partially-reported",
+      "order": 3,
+      "value": 0
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Not Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-not-reported",
+      "order": 4,
+      "value": 0
+     }
+    ]
+   },
+   "voteTotal": 3193,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-2fad-becf-30a7-08decc9e0de9",
+      "nativeId": "DAKOTAWURTH-1-Democratic",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAKOTA WURTH"
+       }
+      ],
+      "voteCount": 1302,
+      "party": {
+       "id": "01000000-2fad-becf-4b7e-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-382f-08decc9e0de9",
+      "nativeId": "\"CJ\"CHRISTINAHERNANDEZ-2-Democratic",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "\"CJ\" CHRISTINA HERNANDEZ"
+       }
+      ],
+      "voteCount": 1891,
+      "party": {
+       "id": "01000000-2fad-becf-4b7e-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [
+    "Davis County",
+    "Weber County",
+    "Morgan County"
+   ],
+   "isCloseRace": null,
+   "partyName": "Democratic"
+  },
+  {
+   "id": "01000000-2fad-becf-552c-08decc9e0dea",
+   "parentId": "01000000-b2af-048e-2bcd-08dec58ce469",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "Primary06232026",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "REP U.S. House District 2"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 190,
+    "totalUnits": 190,
+    "asOf": "2026-07-07T18:48:10.4525084Z",
+    "reportingStatusDetails": [
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Fully Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-fully-reported",
+      "order": 1,
+      "value": 190
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Partially Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-partially-reported",
+      "order": 3,
+      "value": 0
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Not Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-not-reported",
+      "order": 4,
+      "value": 0
+     }
+    ]
+   },
+   "voteTotal": 23676,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-2fad-becf-5593-08decc9e0dea",
+      "nativeId": "BLAKED.MOORE-1-Republican",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BLAKE D. MOORE"
+       }
+      ],
+      "voteCount": 13505,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-5c50-08decc9e0dea",
+      "nativeId": "KARIANNELISONBEE-2-Republican",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KARIANNE LISONBEE"
+       }
+      ],
+      "voteCount": 10171,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [
+    "Davis County",
+    "Rich County",
+    "Weber County",
+    "Box Elder County",
+    "Cache County"
+   ],
+   "isCloseRace": null,
+   "partyName": "Republican"
+  },
+  {
+   "id": "01000000-2fad-becf-6d68-08decc9e0dea",
+   "parentId": "01000000-b2af-048e-fee0-08dec58cff3b",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "Primary06232026",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "REP U.S. House District 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 8,
+    "totalUnits": 8,
+    "asOf": "2026-07-07T18:48:10.4525084Z",
+    "reportingStatusDetails": [
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Fully Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-fully-reported",
+      "order": 1,
+      "value": 8
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Partially Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-partially-reported",
+      "order": 3,
+      "value": 0
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Not Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-not-reported",
+      "order": 4,
+      "value": 0
+     }
+    ]
+   },
+   "voteTotal": 73,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-2fad-becf-6d85-08decc9e0dea",
+      "nativeId": "CELESTEMALOY-1-Republican",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CELESTE MALOY"
+       }
+      ],
+      "voteCount": 56,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-6db9-08decc9e0dea",
+      "nativeId": "PHILLYMAN-2-Republican",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PHIL LYMAN"
+       }
+      ],
+      "voteCount": 17,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [
+    "San Juan County",
+    "Summit County",
+    "Beaver County",
+    "Duchesne County",
+    "Wasatch County",
+    "Kane County",
+    "Grand County",
+    "Carbon County",
+    "Piute County",
+    "Weber County",
+    "Utah County",
+    "Emery County",
+    "Garfield County",
+    "Washington County",
+    "Iron County",
+    "Wayne County",
+    "Uintah County",
+    "Daggett County",
+    "Morgan County"
+   ],
+   "isCloseRace": null,
+   "partyName": "Republican"
+  },
+  {
+   "id": "01000000-2fad-becf-703b-08decc9e0dea",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "Primary06232026",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "REP COUNTY COMMISSIONER SEAT A"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 196,
+    "totalUnits": 196,
+    "asOf": "2026-07-07T18:48:10.4525084Z",
+    "reportingStatusDetails": [
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Fully Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-fully-reported",
+      "order": 1,
+      "value": 196
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Partially Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-partially-reported",
+      "order": 3,
+      "value": 0
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Not Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-not-reported",
+      "order": 4,
+      "value": 0
+     }
+    ]
+   },
+   "voteTotal": 23382,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-2fad-becf-705b-08decc9e0dea",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KATRINA C. GIBSON"
+       }
+      ],
+      "voteCount": 5899,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-7276-08decc9e0dea",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JAMES EBERT"
+       }
+      ],
+      "voteCount": 6047,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-7487-08decc9e0dea",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RICHARD HYER"
+       }
+      ],
+      "voteCount": 4135,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-768c-08decc9e0dea",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DUANE D KEARSLEY"
+       }
+      ],
+      "voteCount": 7301,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": "Republican"
+  },
+  {
+   "id": "01000000-2fad-becf-864a-08decc9e0dea",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "Primary06232026",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "REP COUNTY COMMISSIONER SEAT B"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 196,
+    "totalUnits": 196,
+    "asOf": "2026-07-07T18:48:10.4525084Z",
+    "reportingStatusDetails": [
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Fully Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-fully-reported",
+      "order": 1,
+      "value": 196
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Partially Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-partially-reported",
+      "order": 3,
+      "value": 0
+     },
+     {
+      "groupName": [
+       {
+        "languageId": null,
+        "text": "Not Reported"
+       }
+      ],
+      "reportingStatusClientTextKey": "reporting-status-not-reported",
+      "order": 4,
+      "value": 0
+     }
+    ]
+   },
+   "voteTotal": 23473,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-2fad-becf-8660-08decc9e0dea",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JON D. BEESLEY"
+       }
+      ],
+      "voteCount": 13043,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-2fad-becf-8835-08decc9e0dea",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHARON ARRINGTON BOLOS"
+       }
+      ],
+      "voteCount": 10430,
+      "party": {
+       "id": "01000000-2fad-becf-4c8c-08decc9e0de3",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Republican"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": "Republican"
+  }
+ ],
+ "limit": 0,
+ "offset": 0,
+ "totalRecordCount": 5
+}

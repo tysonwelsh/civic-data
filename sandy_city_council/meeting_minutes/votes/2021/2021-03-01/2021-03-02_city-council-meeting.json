@@ -1,0 +1,70 @@
+{
+ "date": "2021-03-02",
+ "year": 2021,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2021/2021-03-01/2021-03-02_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Kristin Coleman-Nicholl, seconded by Marci Houseman, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Kristin Coleman-Nicholl",
+   "seconder": "Marci Houseman",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Marci Houseman, to approve the proposed policy amendments, as amended per the Council discussion",
+   "motion_type": "Other",
+   "result": "5-2 Pass",
+   "mover": "Zach Robinson",
+   "seconder": "Marci Houseman",
+   "aye": [
+    "Alison Stroud",
+    "Kristin Coleman-Nicholl",
+    "Zach Robinson",
+    "Monica Zoltanski",
+    "Marci Houseman"
+   ],
+   "nay": [
+    "Cyndi Sharkey",
+    "Brooke Christensen"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Monica Zoltanski, to convene to a closed session to discuss the character, professional competence, or physical or mental health of an individual(s) and to Adjourn the Council meeting following the closed session",
+   "motion_type": "Procedural/Administrative",
+   "result": "7-0 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Monica Zoltanski",
+   "aye": [
+    "Alison Stroud",
+    "Kristin Coleman-Nicholl",
+    "Zach Robinson",
+    "Monica Zoltanski",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke Christensen"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  }
+ ]
+}

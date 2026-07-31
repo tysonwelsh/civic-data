@@ -1,0 +1,10 @@
+# Riverton council week ending 2026-05-05
+_Window 2026-04-29 – 2026-05-05_
+
+- **Meetings:** 1 — city council
+- **Votes:** 8 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 29 member-vote rows across 8 motions
+- [2026-05-05_city-council.md](../../meeting_minutes/minutes/2026/2026-05-04/2026-05-05_city-council.md)

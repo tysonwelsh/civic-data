@@ -1,0 +1,16 @@
+{
+  "contributions": [
+    {"date": null, "name": "Salt Lake Board of Realtors", "amount": "4,500", "in_kind": false},
+    {"date": null, "name": "Bart Barton", "amount": "20", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "7-11-23", "recipient": "Signs.com", "purpose": null, "amount": "1,243.11", "in_kind": false},
+    {"date": "7-18-23", "recipient": "Signs.com", "purpose": null, "amount": "510.15", "in_kind": false},
+    {"date": "7-15-23", "recipient": "Walmart", "purpose": "sign supplies", "amount": "74.96", "in_kind": false},
+    {"date": "7-15-23", "recipient": "IFA", "purpose": "sign supplies", "amount": "74.21", "in_kind": false},
+    {"date": "8-11-23", "recipient": "Bantt LLC", "purpose": "t-shirts", "amount": "476.95", "in_kind": false},
+    {"date": "7-20-23", "recipient": "Amazon", "purpose": "parade gifts", "amount": "495.32", "in_kind": false},
+    {"date": "8-11-23", "recipient": "WINCO", "purpose": "parade snacks-gifts", "amount": "171.68", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "4,500", "total_expenditures": "3,046.38"}
+}

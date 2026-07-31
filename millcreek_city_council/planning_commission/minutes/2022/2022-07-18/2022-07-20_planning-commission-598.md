@@ -1,0 +1,661 @@
+# Millcreek Planning Commission — 2022-07-20
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07202022-598
+> Meeting date: 2022-07-20
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2022-07-20
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07202022-598
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                 Minutes              of the
+                                                                  Millcreek         Planning               Commission
+                                                                                   July       20, 2022
+                                                                                         6:30     p.m.
+                                                                                Regular           Meeting
+
+
+The Planning           Commission             of Millcreek,       Utah,   met in a regular              public     meeting      on Wednesday,
+July 20, 2022 at City               Hall,     located    at 3330 S. 1300 E., Millcreek,                     UT 84106.        The meeting        was
+conducted          electronically           and live streamed       via the City's            website       with    an option      for online    public
+comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                       City      Staff
+Shawn       LaMar,       Chair                                                     John Brems,              City Attorney
+Victoria       Reid, Vice        Chair       (excused)                             Elyse        Sullivan,        City   Recorder
+Aryel      Cianflone        (electronic, left early)                                Francis       Lilly,     Planning        & Zoning     Director
+Scott Claerhout            (electronic, left early)                                Kurt       Hansen,        Facilities      Manager
+David      Hulsberg                                                                Brad Sanderson,                 Current     Planning     Manager
+Christian       Larsen                                                             Fred Lutze,             Planning       Engineer     (electronic)
+Nils     Per Lofgren                                                               Katie        Larsen,      Planner
+Skye Sieber          (electronic)                                                  Jake Green,             Plaru'iing     Engineer     (electronic)
+Ian Wright                                                                         Jeru'iifer      Smith,        Planning      Engineer     (electronic)
+
+
+
+Attendees:          Mayor       Jeff Silvestrini,        Josh Gibbons         (electronic),      Bob Earl, John & Joan Bramble,
+Haiying        Wang,     Yanwan          Xiu,    Kambouris,        Dean Collinwood,                Marc        & Melissa       Western,     Melanie
+Clark,     Rob Ricks,           Linda    Gremat,        Deanna     Foxley,     Sharlene          Linford,        J. Heppler,     Lance    Howell,
+Nate McBride,            McCall         Judd, Tom        Hang,    Adam       Turville,        Sarah Bennett,            John Knoblock,          Mary
+Kimball,       Lorin     Moser,         Stephen     Stoker,      Wayne    Johnson
+
+
+
+REGULAR              MEETING                - 6:30 p.m.
+TIME        COMMENCED:                       6:33 p.m.
+
+
+Chair      LaMar       called    the meeting        to order and read a statement                     describing        the duties     of the
+Planning       Coinmission.
+
+
+1. Commission              Business
+       1.1 New       Commissioners               Oaths     of Office      - David        Hulsberg,           Christian       Larsen,      and Nils
+       Per Lofgren
+       Elyse    Sullivan        administered        the oath of office         to the new commissioners.
+
+
+2. Public       Hearings
+Millcreek       Planning         Commission                Meeting          Minutes                              20 July         2022        Page 2 of 12
+
+
+
+    2.1 Consideration                  of SD-22-004,              Request        to Amend           the Forest         Hffls      Subdivision          by
+    Reconfiguring               Lots     27, 28, and 29 Location:                      3825 S. Arroyo             Road          Applicant:       Rob         Ricks
+    Planner:         Katie      Larsen
+    Brad Sanderson              noted      a change to the staff report.                    He said property              was conveyed              to lot 26 in
+    the staff report,           but it was conveyed                 to property        to the south of the private                   access. He said
+    planners         deal with         layers     on any property              such as parcels,         zoning,        land use, subdivisions,
+    political     districts,      infrastructure,            transportation,           and imagery.            There      were 29 original             lots in
+    the East Forest            Hills     Subdivision.            Three lots were being                amended          to range       in size between
+    12,000-15,000              square feet. The property                    was currently           vacant,     but the applicant              was seeking
+    to build     three single            family        dwellings      which       would      be accessed from                 a private      right-of-way
+    coru'iecting       to Arroyo          Road.         Certain     deeds were recorded                around      1981         attempting       to
+    reconfigure         lots 27, 28, and 29 as well                     as the property             to the south. The reconfiguration                        did
+    not amend the subdivision                       per state statute.           Pursuant      to Millcreek            code section          19.76.080,            the
+    applicant        sought      a variance            to: 1) reduce          the required      50-foot        front     yard setback          as measured
+    :trom the center of a private                      right-of-way           (ROW),       2) reduce        the minimum              lot size to less than
+    a half-acre        for lots accessed via the private                        ROW        and, 3) develop             on a private          road less than
+    42 feet wide.         The variance              was granted,            however,        there were certain                requirements       imposed
+    by the Land         Use Hearing               Officer:
+                1.     LotsizesshallnotbereducedbelowthecurrentR-1-10Zoning
+                2.     The setback              from    private     right      of way shall be a minimum                       30 feet from         edge of
+                       right    of way.
+                3.     The private          right       of way which            accesses the Property              may not be less than 25 feet
+                       wide      (and must be widened                     in certain       areas as set forth           in paragraph          6 below).
+                4.     Unless      otherwise            approved       by the City          Fire Marshall,         "No         Parking"       signage         shall
+                       be installed         at the turn-around                near the end of the primte                  right      of way and along
+                       the portion         of the right           of way between            the Property          and Arroyo            Road.
+                5.     The use of private                right     of way shall be limited               to the current            two adjacent            users
+                       and the three residential                   lots located        on the Property.           This         limitation      shall be
+                       stated on the recorded                    plat amendment.
+                6.     The portion          of the private            right     of way located          on the Property              shall be
+                       sufficiently         widened          to accommodate                improvements           including,          but not limited              to,
+                       travel     lanes in both directions,                    on-street     parking        and sidewalk            on one side, s may
+                       be recommended                   and approved            by the City         Engineer.
+                7.     The Applicant              shall make a good faith                  effort     to work      with        neighboring       property
+                       owners          on either       side of the portion             of private      right     of way that connects                 to
+                       Arroyo          Road to eliminant              and/or      reduce     the width          of as many          drive     accesses into
+                       the private         drive       as possible.
+                8.     The Applicant              shall make the necessary                   improvement               with     the Arroyo       Road right
+                       of way to the properly                    connect       the private      and public         improvements,               as may be
+                       required         by the City          Engineer.
+                9.     The Applicant              must meet all other applicable                       City requirements                including       land
+                       use, engineering,                construction,          and building          permits.
+
+
+    Sanderson          showed          the Commission              the original         plat, Alta      survey,        and the proposed               plat
+    amendment.           The private             lane was originally              24.75     feet wide but was widened                       to 25 feet in
+    1981 with         an easement           and would             widen       to 30 feet in front         of the proposed               lots. He described
+    how the proposed               access, drainage,               and improvements                 would      meet code. He said the property
+    had CC&Rs,           but CC&Rs                were private         and recorded           but the city does not enforce                     them         as
+Mfflcreek        Planning          Commission           Meeting         Minutes                             20 July     2022       Page 3 of 12
+
+
+
+    they differ          from     ordinances.      They     were a civil         matter     with    private     property       owners.      Staff
+    recommended                 approval     of the application.
+
+
+    Chair       LaMar      asked if the sidewalk             improvement            would     extend        west to Arroyo          Road.
+    Sanderson            said no, it would         only be in front         of the three lots. Chair               LaMar     asked about the
+    Alta       survey.     Sanderson         said the survey         reflected      the deeds and was recently                   done.
+
+
+    Applicant        - Rob Ricks            and Melanie         Clark    said the deeds that were recorded                       in 1981
+    accomplislied           the lot reconfiguration.              The county         recognized           the individual       parcels      for
+    property       taxes. Clark        said they were seeking               buildable        lots for development.
+
+
+    Chair       LaMar       opened         the public     hearing.
+
+
+    Dean Collinwood,                on behalf      of a neighboring           property       owner        - Kambouris,         appreciated          the
+    private       CC&Rs          mentioned.       He said any person              wanting      to build       on any of the 29 lots was
+    required       to submit        plans for approval           to the neighborhood                cornxnittee       who enforced          the
+    CC&Rs.         The committee              had the right       to approve        the external          visage    and setbacks,          and they
+    did not allow          the subdivision          of any lots. He brought                up figure       4 (from     the staff report)          as the
+    official      recorded        plat and asked about the other three proposed                            buildable       configured        lots. He
+    said figure          6 showed      four lots, the three proposed                  lots and the easement              access lot. He asked
+    about staff finding             number       5, that no new lots would                 be created        as a result     of the proposal.
+    He noted the building                  plans could      be passed through              him to the CC&R              corni'nittee
+
+
+    Joan Bramble,               3821 S. Arroyo          Road,    noted that lot 29 was not absorbed                      into her lot, lot 26.
+    She felt the city had a responsibility                      to not put the neighborhood                   in an adversarial           position
+    approving        items that went            against     the CC&Rs.            There    was neighborhood                concern       about
+    additional       traffic      and safety.      The proposed           buildable        lots were reduced           in size. The
+    neighborhood            would      support      two lots and did not feel the property                         was suited      for three.
+
+
+    Marc       Western,         3840 Arroyo        Rd., said there were two blind                    curves     on Arroyo         Road.     He did
+    not feel the proposed              parking      would       be adequate         with    on-street       parking.
+
+
+    Chair       LaMar      read an emailed          comment          from   s., "Jam
+                                                                             Haiying        Wang,         1815 E. 3900
+    concerned, they are building the houses behind my back yard and making thefense, will it
+    block      my back way?"
+
+
+    Melanie        Clark       said the 1946 plat identified              lots 27, 28, and 29 and no documentation
+    acknowledged               lot 29 as not being         a lot. The private          road was not a lot because                  it was not
+   buildable.        She said the proposed                lot sizes were consistent                with    surrounding         lots. Sanderson
+    said there were 29 lots being                  reconfigured          into 29 lots, no additional                lots were being
+   proposed.        The west portion              of lot 29 was absorbed               in the Kambouris              property.      He said the
+   property        deeds could be corrected.                 Since there were no additional                    lots being        added,     staff did
+   not feel a traffic            study was warranted.             The lane already            existed,       so the blind        corner    was not
+   something         to accommodate.              The lane was widened                 in front      of the lots to accommodate                   on-
+   street parking.          The proposed           lot sizes in the R-1-10             zone exceeded               the minimum           lot size of
+   10,000        square feet. The Land Use Hearing                        Officer     granted       the variance        for the lot size for a
+   private       lane being        less than a half-acre.            If the code required            fencing       on the private         lane, it
+Millcreelc        Planning         Commission            Meeting        Minutes                              20 July       2022       Page 4 of 12
+
+
+
+     would       be addressed.          The access road would                exist in the form           of an easement             and would          be
+     absorbed         in the proposed        lot 101.
+
+
+     Stephen        Stoker,       representing       the neighboring            property      owner      - Brainbles,           said the original
+     subdivision           was 28 buildable          lots and a driveway.               Lot 29 was not buildable.                   The deeds that
+     were recorded            in 1981 with        parcel      tax id numbers            did not have any effect                on the subdivision.
+
+
+     Melissa       Westem,         3840 Arroyo           Road, said a fair due process                  was important             and lot 29 was
+     not buildable.           She said the city advocated                 for the builder          and not all taxpayers.
+
+
+     Chair       LaMar       closed     the public       hearing.
+
+
+     Chair       LaMar       asked city legal counsel              about the CC&Rs.                John Brems          said the city was not
+     bound       by private        covenants.       Statutorily,        land use regulations            required          a certain     statutory
+    process,        and these covenants              did not follow         that process.          He cited code and a land use
+     ombudsman's              opinion     that supported           the city's     position.       He said there may be a violation                          of
+     the CC&Rs             with    this application        approval,       but the city was not involved.                      He wondered            if the
+     CC&R         restriction        was on buildable          lots or just       lots. Cornrnissioner            Larsen        said he was
+     satisfied      with     the lot size, parking            and safety,       and consolidation              of the lane into a lot. He
+     asked for clarification              on buildable         lots. Commissioner              Cianflone         was not concerned                with
+     CC&Rs         since it was not within               the Commission's               purview.       She asked how              figure      4 turned
+     into figure       5,
+
+
+     Commissioner             Lofgren      said the buildable             lot factor     for lot 29 did not matter.                 Corni'nissioner
+     Wright       asked about the lot absorption                    by the southern           lot. Sanderson           said the deed created
+     that. Code allows             for lot reconfiguration              under     zoning      regulations.        Lilly       said these are
+     difficult      situations.       A duty of the city is to process                  applications          in a maru'ier       compliant          with
+     the law. Any            advocation      is following          the law as administrators.                 A property          owner       does have
+     a right      to amend        a subdivision        as long        as it complies       with      code. Chair          LaMar       noted that
+     figures      4 and 5 were essentially                the same. Commissioner                   Cianflone          sympathized          with      the
+     public      for expressing         concern       when      the Commission             had to approve             the subdivision             since it
+     complied         with    code. Commissioner                Hulsberg        asked if the easement                 would     be modified           to
+     accorninodate            city code. Sanderson             said no because            it was recently         widened           to 25 feet as
+     agreed upon by the two property                       owners       to meet code. Chair             LaMar         said the Commission                   did
+     not have the tools to referee                  a legal    fight    because      they were bound              by code. Commissioner
+     Larsen       asked about the statutory                difference      between         buildable         and not buildable             lots. Brems
+     could       not find     a distinguishrnent           in Millcreek         code.
+
+
+Commissioner               Larsen,      regarding         application        SD-22-004,            request      to amend          the Forest          Hffls
+Subdivision         by reconfiguring              Lots     27, 28, and 29 at 3825 S. Arroyo                           Road,     moved         that    the
+Planning         Commission            approve       the preliminary              subdivision          amendment              as presented.
+Commissioner               Hulsberg       seconded.        Chair        LaMar       called     for    the vote.        Commissioner               LaMar
+voted    yes, Commissioner                 Cianflone          voted     no, Commissioner                Claerhout           voted      yes,
+Commissioner               Hulsberg       voted      yes, Commissioner               Larsen          voted     yes, Commissioner                  Lofgren
+voted    yes, Commissioner                 Sieber     voted      yes, and Commissioner                       Wright       voted     yes. The
+motion       passed.
+
+
+     Comi'nissioner            Claerhout     left the meeting.
+Millcreek          Planning       Commission             Meeting      Minutes                           20 July     2022        Page 5 of 12
+
+
+
+
+        2.2 Consideration             of SD-22-010,         Request       for Two       Flag    Lots    and a Subdivision               Plat
+        Amendment           Location:         1643-1647       E. Woodland           Avenue        Applicant:        Lauren        Ricks
+        Planner:       Katie     Larsen
+        Katie    Larsen     said the applicant           was requesting         a preliminary        plat approval       for a 2-lot
+        subdivision       subject     to the flag lot policy.          The lot was rezoned             from    R-1-8    to R-1-6       on
+        December         9, 2019,     subject    to a development             agreement.       The intent      of the rezone       was so the
+        lot could     qualify     for the area requirements             under     the flag lot policy          for the R-1-6       zone. The
+        development         agreement         required     the removal         of the existing      home      on the north portion              of the
+    property          before     the plat was approved              by the city and recorded,           but the agreement              expired
+        due to lack of action.          All     flag lots must be 1.5 times the area of the minimum                          base lot
+    requirement.           The proposed           subdivision        had a base lot area of 7,652              square feet with          a flag lot
+        area of 9,692 square feet. The subject                     property     was located       on a partial      public      road/private
+    right-of-way           that leads into the adjacent               school    property       and parking        lot. Staff has verified
+    that access to this lot has been legally                       established,     unit addresses        are specified         in the license
+        agreement.        She showed          the Cornrnission        the proposed         site plan.    She recornrnended              that the
+    proposed          flag lot subdivision           SD-22-010         be granted     preliminary        plat approval          with    the
+    following          staff conditions:
+         1. The design of the site and buildings shall comply with all applicable development standards of
+            the Millcreek Zoning Code and any site development standards required by the Millcreek
+            Engineer and Building Official, and Unified Fire Authority.
+         2. Must meet all requirements in the adopted Flag Lot Policy.
+          3. Prior to receiving final plat approval, the applicant shall certi:ty that existing utility services                                 have
+             the capacity to accommodate additional demand induced by the development, or that the
+              services will be upgraded to meet the additional demand.
+          5. Any modifications    to these approved plans must be approved by the Planning Department,                                          in
+             writing, prior to the changes being implemented in the field.
+         6. The proposed subdivision              plat must complete a final tecbnical               review    that includes an
+                engineering review to ensure that the final plat complies with all conditions of approval of the
+                preliminary plat and to ensure that the final plat complies with the design standards, codes, and
+                ordinances and with engineering/surveying     requirements, including any bonding for possible
+                future improvements.
+         7. All applicable zoning, building, health, fire and safety requirements                             must be met prior         to
+            receiving  final approval of a building permit.
+         8. Subject to development agreement.
+         9. All items of the staff report.
+
+
+    The applicant           was not present          for comment.
+
+
+    Chair        LaMar      opened      the public       hearing.
+
+
+    There        were no comments.
+
+
+    Chair        LaMar      closed     the public     hearing.
+
+
+Commissioner              Cianflone       moved      to approve         the preliminary             subdivision        application,           file
+number          SD-22-010,        per the proposed            plans     as presented.          Commissioner            Wright       seconded.
+Chair      LaMar        called    for the vote.          Commissioner           LaMar       voted      yes, Commissioner               Cianflone
+voted     yes, Commissioner               Hulsberg         voted     yes, Commissioner              Larsen      voted    yes,
+Millcreek       Planning           Commission             Meeting        Minutes                              20 July    2022        Page 6 of 12
+
+
+
+Commissioner              Lofgren       voted     yes, Commissioner                  Sieber      voted     yes, and Commissioner
+Wright      voted        yes. The motion           passed           unanimously.
+
+
+    2.3 Consideration                of CU-22-008,             Request         for a Conditional              Use Permit           to Accommodate
+    an 89-Unit           Multifamily            Development             Location:       1395      E. Miller        Avenue       Applicant:         PEG
+    Development              Planner:        Francis        Lilly
+    Francis      Lilly      noted that the Commission                    had seen projects           on the site several            times.    The site
+    would       front     Miller     Avenue       and Highland            Drive.     The first phase of the project                  was approved
+    in approximately               2015, though           it was always          the developer's         intent     to do a second phase of
+    the development.               In 2020, the proposed                second phase had 99 units.                  The current        proposal        had
+    89 units.       There     would      be no new commercial,                     but it would      have a convertible              ground     floor
+    space for future           commercial.          Lilly     highlighted          a private     irrigation       line on the property.           The
+    developer        would         need to work        with        the Lower       Millcreek      Irrigation       Company.          The project
+    would       add 89 dwellings             to the existing           44, totaling     17 studios,           58 one-bedroom,           52 two-
+    bedroom,         and 6 three-bedroom                  units.     The existing       phase had 17,568             square        feet of
+    commercial            office     space. The property               was located       in the Neighborhood                 Subdistrict       of the
+    City    Center        Overlay      Zone      (CCOZ),            so no comi'nercial         was required,         though        ground     floor
+    transparency            must be 40%. He showed                     the Commission             the proposed          site plan and building
+    elevations          and highlighted          how the project              met code.
+
+
+    Lilly   said in CCOZ,              there is a height            transition      zone that is 75 feet back               from    the existing
+    right-of-way           from     Highland       Drive.      Most      of the building          is 70-75      feet in height,        depending            on
+    the grade. A portion               of the building             along Highland         Drive      is 50 feet tall due to the height
+    transition       requirement.         The project          proposed          about 32% of open space. There                      would     be a 9-
+    foot street dedication              on Miller         Avenue        and street trees would             be required        to meet code. The
+    applicant       was proposing            230 parking             stalls excluding        AJ)A.     The baseline          in CCOZ          required
+    291 stalls before              accounting      for shared parking               and a reduction.           The city commissioned                  a
+    parking       study     from     Hales      Engineering           to evaluate      shared parking             opportunities        and
+    recommended              a reduction         within      the scope allowed            by ordinance.
+
+
+    Josh Gibbons,            Hales Engineering,               highlighted          the parking       study.     Millcreek       code required              291
+    parking      stalls.     The property          uses would           be office     and multi-family             housing      wmch has
+    different       times     of use. When          accounting           for time     of day uses, Millcreek                code required        241
+    stalls. Hales         compared        this project        with      six others     in the area and took the 85 percentile                         of
+    demand        rates, which         came to a demand                 of 1.27 stalls per unit.           Hales took that demand                and
+    added a five percent               buffer     to account          for surges of demand             and concluded            that 230 stalls
+    would       be sufficient         to meet the demand                (17% reduction).           Chair      LaMar      asked about a
+    standard      timeframe           for business          operating      hours.     Gibbons        said there was not an industry
+    standard.
+
+
+    Lilly   said the Millcreek             Corninunity              Council      recommended          approval        of the application           on a
+    7-2 vote. Some had expressed                      concern          about the parking          reduction,        open space, and
+    architecture,          but appreciated         the reduction           in dwellings         from the previous            proposal.        He then
+    reviewed        the staff findings           and recominendation                  from     the staff report,        which       was that the
+    commission            grant preliminary            approval         for the conditional          use permit         subject      to the
+    following        conditions:
+         1. Development's   guest parking stalls within                       development        will be available        for shared parking
+            during business hours operating hours.
+Millcreek       Planning          Commission                  Meeting       Minutes                                 20 July          2022         Page     7 of 12
+
+
+
+
+       2. Prior to receiving              final     approval,      applicant       shall bond for all required               improvements,               including
+            curb, gutter,        sidewalk,          street trees and required             irrigation,      required      setback landscaping,
+            streetlights,      and any other improvement                       required       by the City.
+       3. Applicant         shall make best efforts                to incorporate         travel     demand        management            strategies       for the
+            project,     including        but not limited          to subsidizing          the cost of transit passes for commercial                             and
+            residential  uses, providing                 safe, secure, and convenient                   bicycle     storage beyond               what is required
+            by Millcreek    code.
+       4. The applicant          will     ensure that every residential                  unit has at least one dedicated                    parking       space.
+       5. Applicant    shall provide service                    availability       letters from all utility           providers         prior to receiving
+           final conditional   use approval.
+       6. Applicant         shall verify           with Millcreek        Engineering           staff through        appropriate          shidies     as required
+            by the City's Geological    Hazards ordinance                            that the soils are suitable              for development              prior to
+            receiving final conditional  use approval.
+       7. Applicant         shall install          dark-sky     compliant         lighting,     and submit         a lighting        and photometric             plan,
+            including       for signage,           for review      by planning         staff prior       to receiving        final     conditional        use
+            approval.
+       8. Applicant         shall comply            with the materials            palette presented           in the application            and CCOZ
+          package.
+       9. The applicant shall obtain preliminary                          plan approval            from the Fire Marshal                prior     to receiving
+           final conditional use approval.
+       10. Prior to receiving              a certificate        of occupancy,          applicant        shall apply an anti-graffiti                material       or
+             coating on the north,                 west, and south building               facades, and on any fencing                    the applicant           installs
+             on the project.
+       11. The design of the site and building                          shall comply          with all applicable           development             standards,
+             including       but not limited            to the City's       Recreational           Facility    and Open Space Standards,
+            Medium          and High-Density               Residential         Development           Standards,       the Millcreek              Urban     Forestry
+             Standards,       and any site development                    standard required             by the City Engineer                and Fire Marshal.
+      12. Prior to receiving               final     conditional       use approval,          the applicant        shall certify         that existing       utility
+             services     have the capacity              to accommodate              additional         demand      induced       by the development,                       or
+            that the services            will      be upgraded         to meet the additional             demand.
+      13. Prior to receiving               final     conditional       use approval,          the applicant        shall obtain         written      approval
+            from the Lower               Millcreek       Irrigation      Company.
+      14. Signs and accessory stiuctures                        will    require     separate building             permits     and staff review             for
+          zoning/land use compliance.
+      15. No light        source (light            bulb, fluorescent           tube, or other direct           source of light used to illuminate                           a
+            parking      area) shall be visible                beyond     the property          line including        the alley (ROW)               of any off-
+            street parking         area as required             by Section        19.80.030         of the zoning        ordinance.
+      16. Any modifications                 to these approved             plans must be approved                  by the Plaru'iing          Department,               in
+            writing,     prior    to the changes being implemented                            in the field.
+      17. Landscaping            shall be installed             in compliance          with     Chapter       19.77 Water            Efficient     Landscape
+            Design       and Development                Standards        and as required           by the City Center overlay                     Zone. Any
+            revisions       to the landscape            plan package            shall be reviewed             and approved           in writing       by the
+            director     or designee            prior to commencement                  of construction.           Re-certification           of compliance
+            with the requirements                   of the landscaping            ordinance        shall be provided            by the qualified
+            professionals         who prepared             and submitted           the plan revisions.
+      18. The applicant           will     comply        with    all requirements             established      through       the tecbtffcal         review
+            process prior         to receiving          fu'ial conditional          use approval.
+      19. All    items of the staff report,                and discussions            located      in the meeting           minutes.
+
+
+   Applicant       - Nate        McBride            and McCall           Judd,      PEG,       said PEG         was founded              in 2003         and had
+    developed       more       than       95 projects.          They     have       a project       history       on Brickcreek             from      2016        to
+Millcreek          Planning            Commission             Meeting           Minutes                                     20 July      2022        Page         8 of 12
+
+
+
+
+     present.        The project          was revisited             and updated            after     the pandemic.              The      architect         showed             the
+     Corninission             updated         building       renderings.
+
+
+     Coinmissioner              Wright         asked       about      fewer      windows            on Miller          Avenue.         The      applicant's
+     architect         said the south           facing      fagade       created         a pattern         of lines        and there       were      no windows                 to
+     accorni'nodate             the bedrooms,              having      a place         for bed placement.                   Comi'nissioner            Wright            asked
+     that more         windows           be considered.
+
+
+     Lilly     said in response               to a comment             he received           online,         he noted         the city     was aware              of
+     irrigation        in the area and the developer                          would       be required             to modernize           the line         that     crossed
+     their     property.        The      developer         had to work            with      the irrigation             company.
+
+
+     Wayne          Johnson,       Millcreek             Comi'nunity           Council,           said the council            liked     the proposal.              The
+     open      space between              phases         I and II felt like            a slot canyon.              He reiterated          the importance                  of
+     dealing        with      the irrigation          water       on the property.                There     were       ongoing         irrigation         issues        to the
+     west      of the property.            The dissenting              votes      came       from         irrigation        issues     and parking.
+
+
+     ChairLaMar                opened         the public          hearing.
+
+
+     Chair      LaMar         read an emailed               comment            received           from     Lynda       Bagley-Gibson.                "I    olyect        to this
+
+    project sertding irrigation water thru or house at 3074 Richmond Street if that is what they
+    are planning to do. the irrigation water has causedflooding to our property and other
+    property's          072    Elgin     Ave.     sirice    they closed           the north          and south            bound       ditches.       This    was also
+     mentiorxed            at the Millcreek              Commtmity            Council        meeting."
+
+
+     Fred      Lutze       said nothing          the project          did would           add water              to the irrigation         system,          it was
+     completely            separate.
+
+
+     Chair      LaMar          closed     the public          hearing.
+
+
+     Chair      LaMar         asked      if there        was a way           to ensure       there        was not a crossover                 of times           for
+     parking        with      commercial           that had later             hours.      Lilly      said he would             talk    with      the PEG           team        on
+     lease restrictions.               Judd     said the commercial                    was on floor              I of Brickcreek             Phase        I, so there
+     would         not be any restaurants,                 just     office      space.      Commissioner                  Hulsberg        asked       about
+     landscaping            requirements            on Highland               Drive.      Lilly      said there           was not enough             frontage           to
+     require        a street     tree, but he would                 review       it. He requested                 the Commission               add a condition                  in
+     their    motion          to add a street          tree on HigNand                  Drive.       Commissioner               Sieber        asked       about
+     stormwater            management.             Lutze       said there         would           be a large        vault     on site that would                 release
+     the stormwater              at a restricted           rate into         the city's      system.          Chair       LaMar        thought       the project
+     complied          with     CCOZ.
+
+
+Commissiomr                 Larsen,       regarding            CU-22-008               a request           for     a conditional           use permit              to
+accommodate                an 89-unit          multifamily             development                 at 1395         E. Miller          Avenue,        moved             that
+the Planning            Commission               grant      preliminary                conditional            use approval              based       on the         staff
+report       and    all conditions              therein.      Commissioner                   Lofgren             seconded.        Chair         LaMar            called        for
+the vote.      Commissioner                   LaMar         voted      yes, Commissioner                         Cianflone        voted       yes,
+Commissioner                Hulsberg           voted       yes, Commissioner                      Larsen          voted      yes, Commissioner                     Lofgren
+Millcreek             Planning           Commission            Meeting        Minutes                              20 July        2022       Page 9 of 12
+
+
+
+voted        yes, Commissioner                    Sieber    voted       yes, and Commissioner                     Wright         voted     yes. The
+motion           passed       unanimously.
+
+
+Lilly      noted he would                update    the city center development                     dashboard        and send it to the
+Commission.              The Cornrnission               took     a break      from    8:43-8:50pm.             Commissioner              Cianflone           left the
+meeting.
+
+
+3. Continued              Matters
+        3.1 Consideration                  of CU-22-009,            Request       for a Conditional                Use Permit            to Construct                a
+        New       Two-Mile           Segment         of Bonneville            Shoreline       Trail      Connecting             Parleys         and
+        Millcreek         Canyon            Location:       Parcels       163-620-0003,             162-540-0005,               162-540-0004,            162-
+        537-6008,         and 162-532-7023                  Applicant:          Trails     Utah       Planner:          Katie     Larsen
+        Katie        Larsen     said the applicant,            Trails    Utah,       was requesting            a conditional         use permit          to
+        construct        a new two-mile             segment         of the Boru'ieville            Shoreline       Trail    in the FR-5,           Forestry
+        and Recreation             Zone located            on public       land holdings           parcels.      Impacts        of parking         and traffic
+        had largely           been addressed            in recent       improvements          to the two recognized                  access points,
+        Grandeur         Peak East, and Rattlesnake                     Gulch     trailheads.         A traffic      study was commissioned                          at
+        the Grandeur            Peal trailhead          in 2015 and the findings                   of the report        guided       the improvements.
+        Initially,      the parking          lot had 17 parking            spots, the study recommended                          an additional           23 spots
+        to meet peak demand.                   The improvements                created     49 parking           spaces, 9 more than the traffic
+        study required            for peak demand.               Improvements            made to the Rattlesnake                   Gulch        trailhead
+        provided        24 more parking              spaces than the previous                 15-16      spots. She said while                  there is
+        seemingly         ample parking             opportunity,         many users still resort                to parking        on residential             streets
+        to access informal                trailheads.      Trails    Utah will        be required        to fon'nulate           a parking         contingency
+        plan and take the necessary                     action      to prevent       and mitigate            negative      effects    (signage         to
+        discourage         use, no parking              in areas, etc.). Staff requested                 that the applicant            be required            to
+        improve         trash receptacles           at trailheads        to prepare        for more trail users and add signage                             to
+        discourage         littering       and encourage            users to pick up after their                 dogs. Larsen          noted that user-
+        made trailheads             could be found             on Teton       and Crestwood             Drive,      which        leads to social            trails
+        on the hillside.           These access points               are often       seen as a detriment             to residents         due to parking
+        and people         walking          in or near their property.               Staff requested           that the applicant            be required             to
+        post wayfinding              signage       on the established            trail to lead people             away from          using       the social
+        trails    and add signage             near informal           access points         discouraging           access or blocking                 it off with
+        natural       debris,    Larsen       showed        images       of the existing           terrain     and tlie proposed           trail      alignment.
+
+
+        Larsen        reported      that the Mt.         Olympus         Corniuunity        Council           met on June 22, 2022,                   and moved
+        6 votes in favor            and 2 opposed            for approval         of the application              if the applicant         provided           an
+        effective       parking          contingency       plan to mitigate           issues of parking             on residential           streets and
+        takes action          to deter the public           from      using     social    trails     and informal          trailheads.          The council
+        expressed        concerns          regarding       waste disposal,           as other trails          in the area have caused similar
+    issues. They recommended                            the improvement              of waste receptacles               and the provision              of dog
+    waste bags. Staff said the application                              supported        Millcreek's           objective        to advance         the goals of
+    the General               Plan, which         supported         completion         of the Bonneville             Shoreline         Trail.      She
+    recommended                  approval         of the application           subject     to the following              conditions:
+          1. The applicant shall block off access to social trails on the hillside by using signage and natural
+             blockades, such as logs and rocks.
+          2. The applicant is to include wayfinding  signage at crossroads of social trails to direct users to the
+                 improved       trail.
+Mfflcreek        Planning             Commission                 Meeting           Minutes                                20 July        2022       Page 10 of 12
+
+
+
+
+       3. The applicant                shall place signage                at informal       trailheads        to discourage         access. The informal
+             trailheads        relating        to the extension             are found      on Teton and Crestwood                   Drive.
+       4. If the trail causes increased                        traffic     and parking           in residential       areas causing        issues of access, the
+             contingency            plan must include                the placement           of 'No Parking'            signage      on at least one side of the
+             road near informal                 access points.
+       5. The applicant                is to provide          improved            waste receptacles           and signage regarding               littering     and
+             proper        disposal       of dog waste at The Grandeur                          Peak and Rattlesnake              Gulch    trailheads.         The
+             burden        is on the applicant               to coordinate           the servicing          of waste.
+       6. The applicant                shall provide           a parking          contingency        plan Millcreek            staff agrees on, including
+             Planning        and Zoning,              the City Attorney              and Engineering
+
+
+    Applicant             - John      Knoblock,             Trails       Utah,      apologized         for the delay            at the last Commission
+    meeting.         They       agreed          with     the contingency                 plan     presented.         He said they          were     not the land
+    manager          for the property.                  The    county        owned        the property             and Grandeur           Peak trailhead.              The
+    Forest       Service        owned           the Rattlesnake               Gulch       trailhead.         They     would       work     with      the county          on
+    trail    signage         and partner              to ensure          things     came        together.      He said they          would        inform        nearby
+    residents        of when           construction              would       take place.
+
+
+    Chair     LaMar          asked         about        the waste          removal        condition.          Knoblock          said Trails       Utah        would      get
+    the trail      built     but would               work     with       Salt Lake        County        to get waste            receptacles.
+
+
+    Chair     LaMar          asked         for public          comment.
+
+
+    Lorin     Moser,           3258       S. Teton          Drive,        expressed        concern          with     condition       4. The       studies       done in
+    2015      were        outdated            for the amount              of traffic      in the area. He said there                  were      more       bicyclers
+    using     the social            trails.     He expressed               concern        with     snow       removal          and residential         waste      can
+    emptying          on the street              with       on-street       parking        by hikers/bikers.
+
+
+    Jeff Silvestrini,               3400       S. Crestwood               Drive,       said as Mayor           of Millcreek           the city      had worked
+    hard with         Salt Lake               County        to preserve           the property         along        Grandeur        Peak     as open          space.     The
+    city    was interested                in the trail        for recreation.             As a resident,            he had seen an increased                    use in
+    social      trails.     He did not feel the social                        trails     would       stop with        the coru'iection          of the Bonneville
+    Shoreline         Trail.        The       city    would      work        on parking           problems          as they      developed.         He was not
+    personally            bothered            by the street parking.                   He felt the staff           conditions       were       appropriate.           The
+    city    would         also work            with     the county           on waste           receptacles.
+
+
+    Sarah Bennett,              Trails         Utah      Executive           Director,          expressed          gratitude      to planning         staff.     She said
+    the project           was important                 and a long          time       coming.       The trail       would       be constructed            by
+    professional            trail     builders.         Trails       Utah     would        pay close         attention         to any issues        stemming           from
+    this trail.
+
+
+    Commissioner                Sieber          said the city            and applicant            should      have      data on existing            traffic     and then
+    decide       at what        point         it became          enough           of an issue       to take action.
+
+
+    Elyse Sullivan read an emailed comment from Daniel Figuero. "Ihave read the lateststaff
+    notes which I think relates to this. A very strong concernfor residents which causesa lot of
+    discussion amongst us on Teton Dr and what has been voicedfrequently to you and the
+    various parties involved in this plan is increased traffic argdparking from overflow traffic if
+ Millcreek         Planning         Commission          Meeting          Minutes                           20 July      2022        Page 11 of 12
+
+
+
+        this goes ahead. Reading                  the mitigation        statements         it appears     that the current          thought    is   to
+     place no parking signs on one side only on the hillside to allow fire access.If this is the case
+      then it seemsthat traffic will continue.but instead of parking on the hillside will now park in
+     front of the houseson Teton Dr and potentiallyhlockdrive and house access. Can we
+      suggest in the mitigation wording that no parking lines are also placed in front of the houses
+      or some sort of signage on the houseside also to discourage any parking on that side also?
+      Or perhaps the signage on hillside should state no parking 07;! the whole street / either side of
+      street andfor residents only?"
+
+        Chair     LaMar       did not feel the trail          connection        would      increase     traffic     where    it was already
+        taking    place. He was in favor              of the application.            He was in favor            of waste receptacles          but did
+        not want to put the undue burden                    on Trails       Utah.
+
+
+Commissioner               Sieber,      in consideration            of CU-22-009,             request     for     a conditional       use permit
+to construct            a new two-mile            segment       of Bonneville           Shoreline       Trail      connecting       Parleys     and
+Millcreek          Canyon,         moved     that     the Planning          Commission            grant     the conditional           use permit.
+Commissioner               Wright       seconded.       Chair       LaMar         called      for the vote.        Commissioner             LaMar
+voted      yes, Commissioner                Hulsberg        voted       yes, Commissioner               Larsen       voted   yes,
+Commissioner               Lofgren        voted     yes, Commissioner                Sieber     voted     yes, and Commissioner
+Wright          voted    yes. The motion             passed     unanimously.
+
+
+1. Commission               Business       Continued
+    1.2 Approval               of June 15, 2022 Meeting                  Minutes
+    1.3 Approval              of June      29, 2022 Special             Meeting       Minutes
+
+
+Chair      LaMar          moved        to approve       the June 15f'l and June                 29"1 minutes          as provided       by staff.
+Commissioner               Larsen       seconded.       Chair       LaMar        called       for the vote.       Commissioner          LaMar
+voted     yes, Commissioner                 Hulsberg        voted       yes, Commissioner               Larsen       voted   yes,
+Commissioner               Lofgren        voted     yes, Commissioner                Sieber     voted     yes, and Commissioner
+Wright       voted       yes. The motion            passed      unanimously.
+
+
+    1.4 Updates             from     the Planning         and Zoning            Director
+    There        was no update.
+
+
+4. Calendar             of Upcoming         Meetings
+    a City        Council      Mtg.,     7/26/22,     7:00 p.m.
+    a Mt.        Olympus        Community           Council      Mtg.,     8/1/22,      6:00 p.m.
+    a Millcreek           Community          Council      Mtg.,      8/2/22,     6:30 p.m.
+    a Canyon            Rim    Citizens     Association         Mtg.,     8/3/22,     7:00 p.m.
+    a East Mill           Creek     Community          Council      Mtg.,       8/4/22,     6:30 p.m.
+    a City        Council      Mtg.,     8/8/22,     7:00 p.m.
+    a PlanningCommissionMtg.,8/17/22,5:OOp.m.
+
+
+
+ADJOURNED:                    Commissioner            Lofgren       moved        to adjourn         the meeting          at 9:19     p.m.
+Commissioner              Hulsberg         seconded.        Chair       LaMar        called     for the vote.        Commissioner             LaMar
+voted     yes, Commissioner                Hulsberg         voted    yes, Commissioner                  Larsen       voted   yes,
+Millcreek      Planning    Commission         Meeting        Minutes                       20 July    2022   Page 12   of 12
+
+
+
+
+Commissioner         Lofgren       voted   yes, Commissioner             Sieber   voted    yes, and   Commissioner
+Wright      voted   yes. The     motion    passed    unaninnously
+
+
+
+                                                    ghawn      LaMar.     Chair
+
+
+                                                     C/'Yl{
+                               Attest:           Elys#      Stfllivan,   City   Recorder

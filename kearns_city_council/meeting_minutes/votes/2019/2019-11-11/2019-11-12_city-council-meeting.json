@@ -1,0 +1,81 @@
+{
+ "date": "2019-11-12",
+ "year": 2019,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Ruby Brown"
+ ],
+ "source": "minutes/2019/2019-11-11/2019-11-12_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the staff meeting for the Kearns Metro Township Council. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adopt the resolution. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the minutes for the September 23, 2019, and the October 14, 2019, Kearns Metro Township Council meetings. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Patrick Schaeffer",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  }
+ ]
+}

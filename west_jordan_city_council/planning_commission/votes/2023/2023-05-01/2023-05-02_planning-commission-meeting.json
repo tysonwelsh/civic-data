@@ -1,0 +1,39 @@
+{
+ "date": "2023-05-02",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2023/2023-05-01/2023-05-02_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes from April 18, 2023",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "7:0 Pass",
+   "mover": "Matt Quinney",
+   "seconder": "Kent Shelton",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council for the text amendment regarding Petting Zoos.\"",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 7:0",
+   "mover": "Jay Thomas",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

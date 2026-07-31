@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "date": "2026-02-25",
+    "year": "2026",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slc.gov",
+    "source_url": "https://www.slc.gov/planning/wp-content/uploads/sites/13/2026/03/PC02.25.2026minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2026/2026-02-23/2026-02-25_planning-commission-meeting.md",
+    "present": [
+      "Brian Scott",
+      "Jeffrey Barrett",
+      "Amy Barry",
+      "Aimee Burrows",
+      "Richard Leverett",
+      "Anna Sullivan",
+      "Mike Vela"
+    ],
+    "absent": []
+  },
+  "votes": [
+    {
+      "motion": "approve the minutes",
+      "description": "approve the minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "",
+      "result": "5:0 Pass",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 2,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jeffrey Barrett",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Brian Scott",
+        "Mike Vela"
+      ],
+      "nay": [],
+      "abstain": [
+        "Richard Leverett",
+        "Anna Sullivan"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend denial of the text amendment to the City Council",
+      "description": "recommend denial of the text amendment to the City Council",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Mike Vela",
+      "result": "Negative recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jeffrey Barrett",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Richard Leverett",
+        "Brian Scott",
+        "Anna Sullivan",
+        "Mike Vela"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "send a positive recommendation to City Council",
+      "description": "send a positive recommendation to City Council",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "Anna Sullivan",
+      "seconder": "Mike Vela",
+      "result": "Positive recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jeffrey Barrett",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Richard Leverett",
+        "Brian Scott",
+        "Anna Sullivan",
+        "Mike Vela"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+ "date": "2025-03-05",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-03-03/2025-03-05_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "approve the Consent",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "James Hawkes",
+   "seconder": "Mike Carpenter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "forward a positive recommendation for the rezone of Canyon Park from PD-6 to",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_class": "Recommendation",
+   "result": "Positive recommendation 5:2",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "James Hawkes",
+   "names_recorded": true,
+   "aye": [
+    "Haysam Sakar",
+    "Rod Erickson",
+    "Gerald Crismon",
+    "Madeline Komen",
+    "James Hawkes"
+   ],
+   "nay": [
+    "Britton Runolfson",
+    "Mike Carpenter"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "continue the item to the March 19th meeting",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "Pass",
+   "outcome": "Passed",
+   "mover": "James Hawkes",
+   "seconder": "Mike Carpenter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "adjourn;",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "Pass",
+   "outcome": "Passed",
+   "mover": "Britton Runolfson",
+   "seconder": "James Hawkes",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

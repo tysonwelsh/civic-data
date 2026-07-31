@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "10/28/2021", "name": "Comcast", "amount": "500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Costco", "purpose": "", "amount": "56.51", "in_kind": false},
+    {"date": null, "recipient": "PAYBACK to Diane Turner", "purpose": "", "amount": "3000.00", "in_kind": false},
+    {"date": null, "recipient": "Reimburse Contribution from Charles Turner", "purpose": "", "amount": "500.00", "in_kind": false},
+    {"date": null, "recipient": "Landslide Political", "purpose": "", "amount": "1316.19", "in_kind": false}
+  ],
+  "total_contributions": "500.00",
+  "total_expenditures": "4872.70",
+  "contributions_50_or_less": null,
+  "beginning_balance": "4387.34",
+  "ending_balance": "14.64",
+  "_meta": {
+    "index_path": "raw/202112_Diane-Turner_12615.pdf",
+    "candidate": "Diane Turner",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202112_Diane-Turner_12615.pdf",
+    "pages": 4
+  }
+}

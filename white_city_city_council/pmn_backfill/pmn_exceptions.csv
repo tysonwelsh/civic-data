@@ -1,0 +1,10 @@
+date,body_id,kind,reason,verified_date
+2018-02-01,5805,other,pre-~2019 PMN file-store purge: the notice still lists a Meeting Minutes attachment but the file 404s; unrecoverable (Streamline holds only the agenda) - not a live lead,2026-07-13
+2018-09-06,5805,other,pre-~2019 PMN file-store purge: Meeting Minutes attachment 404s; unrecoverable - not a live lead,2026-07-13
+2023-02-23,5879,wrong_date,'July minutes.pdf' on this PC notice is the already-held 2022-07-28 PC minutes (pmn file 959163) - filename month-name rescue family; the 2023-02-23 PC meeting's own minutes were never posted (remains in planning_commission/minutes_unrecovered.csv),2026-07-17
+2025-06-24,5879,wrong_date,'May minutes.pdf' on this PC notice is the already-held 2025-05-20 PC minutes (pmn file 1290609) - filename month-name rescue family; the 2025-06-24 PC meeting's own minutes were never posted (remains unrecovered),2026-07-17
+2021-12-02,5805,other,"'Budget Notice' is a statutory budget-availability notice, not a minuted council meeting",2026-07-17
+2018-08-17,5805,wrong_date,"notice 481949 is a 'meeting location change' handout (WC meeting location change notice.docx) ADDED 2018-08-17 for the 2018-09-06 regular meeting; not a meeting held on 2018-08-17. The 2018-09-06 meeting is already tracked in meeting_minutes/minutes_unrecovered.csv (pre-2019 PMN blob purge)",2026-07-17
+2020-04-02,5805,cancelled,"notice 595725 is an explicit CANCELLATION notice - the 2020-04-02 council meeting was cancelled per CDC/State/County COVID-19 guidance; no meeting held, no minutes exist. Streamline meetings-archive has no 4/2/20 document",2026-07-17
+2021-05-11,5805,cancelled,"notice 675389 (special/electronic meeting) states 'This notice has been cancelled'; the 2021-05-11 special meeting did not occur. Regular 2021-05-06 meeting is in the repo; Streamline meetings-archive has no 5/11/21 document",2026-07-17
+2025-05-13,5805,wrong_date,"notice 994685 is a NOTICE OF PUBLIC HEARING (FY2026 final budget/fees/salaries) posted ~2025-05-13 for the 2025-06-05 council meeting; not a meeting held on 2025-05-13. The 2025-06-05 meeting minutes ARE in the repo",2026-07-17

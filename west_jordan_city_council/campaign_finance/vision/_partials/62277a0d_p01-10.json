@@ -1,0 +1,37 @@
+{
+  "segments": [
+    {
+      "pages": "1-6",
+      "report_label": "FINAL: Required by all Candidates who participated in the General Election. Due by 5:00 p.m. on December 2nd, 2021 — separator sheet 'Chad Lamb / 12/2/2021'; form FINAL (Dec 2nd) box checked; signature date 11/30/21; received-stamp NOV 30 2021 11:59 by Tangee",
+      "cover_lines": {
+        "line1_balance_forward": "1,027.04",
+        "line2_contributions_50_or_less": "-",
+        "line3_contributions_over_50": "-",
+        "line4_total_contributions": "-",
+        "line5_total_expenses": "(379.27)",
+        "line6_ending_balance": "647.77"
+      },
+      "contributions": [],
+      "expenditures": [
+        {"date": "11/1/21", "recipient": "City Journals", "purpose": "Print Ad", "amount": "200.00", "in_kind": false, "address": "9500 S. 500 W #205, Sandy, UT"},
+        {"date": "11/1/21", "recipient": "Facebook", "purpose": "Facebook Ads", "amount": "155.47", "in_kind": false, "address": "#1 Hacker Way, Menlo Park CA"},
+        {"date": "11/30/21", "recipient": "Facebook", "purpose": "Facebook Ads", "amount": "23.80", "in_kind": false, "address": "#1 Hacker Way, Menlo Park CA"}
+      ]
+    },
+    {
+      "pages": "7-10 (continues past p10)",
+      "report_label": "INTERIM: Required for all candidates who were successful in the Primary Election or who are otherwise proceeding to the municipal general election. Due by 5:00 p.m. on October 26, 2021 — separator sheet 'Chad Lamb / 10/26/2021'; form INTERIM (Oct 26) box checked; signature date 10/26/21; received-stamp OCT 26 2021 12:30 pm by Tangee(?)",
+      "cover_lines": {
+        "line1_balance_forward": "857.12",
+        "line2_contributions_50_or_less": "-",
+        "line3_contributions_over_50": "5,577.00",
+        "line4_total_contributions": "5,577.00",
+        "line5_total_expenses": "(5,407.08)",
+        "line6_ending_balance": "1,027.04"
+      },
+      "contributions": [],
+      "expenditures": []
+    }
+  ],
+  "notes": "Bundle order is FINAL first, then INTERIM. Segment 1 (FINAL, pp1-6): p1 typed separator sheet; p2 cover form (form 'Page 1') with all six lines printed; p3-p4 boilerplate code provisions (form 'Page 2'/'Page 3', candidate 'Lamb, Chad, R', date of report 11/30/21); p5 Attachment A/A-1 — handwritten '0' in both box 1 ($50-or-less) and box 2 (over $50), A-1 itemization table entirely blank, handwritten TOTAL that reads as '0' (a circled zero/oval before the '-'); p6 Attachment B with the 3 itemized expenditures above, printed TOTAL $379.27. No contributions itemized in the FINAL report — that is the source, not an omission. Segment 2 (INTERIM, pp7-10): p7 typed separator sheet; p8 cover form with all six lines printed; p9-p10 boilerplate code provisions; on p10 the 'Date of Report' field shows a struck-through auto-populated value (appears '1/0/00', partially obscured by the strike) with handwritten '10/26/21' beside it. RANGE ENDS MID-REPORT: the INTERIM report's Attachment A (itemizing the $5,577.00 in over-$50 contributions) and Attachment B (itemizing the $5,407.08 expenditures) fall on p11+ (other agent's range). Uncertain glyphs: p2 received-stamp time read as '11:59' and clerk name 'Tangee' (handwritten, cursive); p8 stamp time read as '12:30 pm' and annotation after it possibly 'Tangee-something' (illegible cursive); p5 handwritten zeros could arguably be '-0-' marks. Candidate address on both covers is redacted (blacked out) in the source. Parenthesized line-5 values transcribed verbatim including parentheses."
+}

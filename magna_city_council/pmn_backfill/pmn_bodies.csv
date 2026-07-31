@@ -1,0 +1,6 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+1323,5803,Magna Council,yes,meeting_minutes,,pm4,2018-07-01,"body 5803 spans BOTH township + city eras (no separate township entity); data floor 2017, but 2017 + Jan-Jun 2018 (36 mtgs) is PMN-purged/404 -> floor 2018-07-01 (on-disk from 2018-07-17). CivicPlus covers 2022+, PMN 5803 covers 2018-2021 AND holds later council minutes never on CivicPlus (5 recovered). Fetch files from www.utah.gov/pmn/files/"
+1323,1559,Magna Planning Commission,yes,planning_commission,,pm4,2019-03-01,MSD-staffed; complete superset (0 recoveries); minutes begin 2019-03-14; 2017-2018 PC (57 mtgs) is agenda/audio-only
+1323,6925,Community Reinvestment Agency of Magna,yes,meeting_minutes,CRA,pm4,2024-11-01,CRA promoted into meeting_minutes as body=CRA; magna minutes_index.csv HAS a body column so repo_body=CRA is precise; PMN CRA minutes begin 2024-11-12; 2025-11-18 is an unpromoted DRAFT (see exceptions)
+1323,6379,Administrative Hearings,no,,,,,"Land-Use Hearing Officer agendas/packets + one Mayor's meeting; no minutes ever posted, not a legislative body - out of scope"
+1323,9537,Magna Traffic Safety Committee,no,,,,,0 notices posted all-time - inventory only

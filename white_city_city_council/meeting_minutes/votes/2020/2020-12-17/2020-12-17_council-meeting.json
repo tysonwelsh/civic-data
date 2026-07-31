@@ -1,0 +1,95 @@
+{
+ "date": "2020-12-17",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-12-17/2020-12-17_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to open the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to eliminate the fee for window and door replacement without any structural changes. The motion",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve the following Resolution",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "3-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  }
+ ]
+}

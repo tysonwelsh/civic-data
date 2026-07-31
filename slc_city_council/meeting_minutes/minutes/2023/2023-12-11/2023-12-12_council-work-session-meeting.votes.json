@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "date": "2023-12-12",
+    "slug": "council-work-session-meeting",
+    "title": "Council Work Session Meeting",
+    "year": "2023",
+    "source": "minutes/2023/2023-12-11/2023-12-12_council-work-session-meeting.md"
+  },
+  "votes": [
+    {
+      "motion": "Enter into Closed Session for the purposes of discussion of pending or reasonably imminent litigation, deployment of security personnel and devices, and for attorney-client matters.",
+      "description": "The Council voted to enter a closed session to discuss litigation, security deployment, and attorney-client privileged matters.",
+      "motion_type": "Procedural/Administrative",
+      "mover": "Chris Wharton",
+      "seconder": "Victoria Petro",
+      "result": "7-0 Pass",
+      "aye": [
+        "Ana Valdemoros",
+        "Victoria Petro",
+        "Daniel Dugan",
+        "Chris Wharton",
+        "Alejandro Puy",
+        "Darin Mano",
+        "Sarah Young"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": []
+    },
+    {
+      "motion": "Exit Closed Session.",
+      "description": "The Council voted to conclude the closed session and return to open session.",
+      "motion_type": "Procedural/Administrative",
+      "mover": "Chris Wharton",
+      "seconder": "Daniel Dugan",
+      "result": "6-0 Pass",
+      "aye": [
+        "Victoria Petro",
+        "Daniel Dugan",
+        "Chris Wharton",
+        "Alejandro Puy",
+        "Darin Mano",
+        "Sarah Young"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Ana Valdemoros"
+      ]
+    }
+  ]
+}

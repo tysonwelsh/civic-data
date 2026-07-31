@@ -1,0 +1,4 @@
+city,donor_raw,donor_normalized,donor_type,evidence,added
+magna,Mickey M Sudbury - Personal- Shirts,Mickey M Sudbury,candidate-self,"2025 Mayor primary filing (raw/202508_sudbury_magna-mayor_primary_v574.pdf): donor string is the candidate's own name self-funding; tier-1 classifier missed it because the trailing '- Personal- Shirts' makes the last token a non-surname",2026-07-18
+magna,Mickey M Sudbury Personal - Expenses prior to Camp Acct,Mickey M Sudbury,candidate-self,"2025 Mayor primary filing (v574): candidate self-funding of pre-account expenses; classifier missed it (trailing tokens are not the surname)",2026-07-18
+magna,Mickey M Sudbury Candy,Mickey M Sudbury,candidate-self,"2025 Mayor primary filing (v574): candidate self-funding (parade candy); classifier missed it (last token 'Candy' is not the surname)",2026-07-18

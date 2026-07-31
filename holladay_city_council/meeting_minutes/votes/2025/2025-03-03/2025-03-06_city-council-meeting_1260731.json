@@ -1,0 +1,130 @@
+{
+ "date": "2025-03-06",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1260731.pdf",
+ "path": "minutes/2025/2025-03-03/2025-03-06_city-council-meeting_1260731.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Brewer",
+   "seconder": "Quinn",
+   "motion": "APPROVE Ordinance 2025-01- Amending Title 13.02.030 of the City Code Regarding Roadway Classifications",
+   "motion_type": "Ordinance",
+   "result": "The motion failed with a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Brewer",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Nay",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Fotheringham",
+   "motion": "ADOPT Ordinance 2025-02 - Amending Title 17.08.020 and 17.32.025 of the City Code Regarding Stormwater Regulations",
+   "motion_type": "Ordinance",
+   "result": "Ordinance 2025-02 was adopted by unanimous vote X.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Gray",
+   "motion": "APPROVE the Consent Agenda",
+   "motion_type": "Other",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Brewer",
+   "motion": "RECESS the City Council Meeting and RECONVENE in a Work Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 5,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Gray",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

@@ -1,0 +1,2293 @@
+# Park City Council Meeting — 2022-06-16
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2342,plainText=false)
+> Meeting date: 2022-06-16
+> Format: text
+
+---
+
+
+PARK CITY COUNCIL MEETING MINUTES
+445 MARSAC AVENUE
+PARK CITY, SUMMIT COUNTY, UTAH 84060
+
+June 16, 2022
+
+The Council of Park City, Summit County, Utah, met in open meeting on June 16, 2022,
+at 2:45 p.m. in the City Council Chambers.
+
+WORK SESSION
+
+FY2022-23 City Manager's Recommended Budget: Budget Policies, Fee Schedule,
+and Council Compensation Presentation and Review:
+Jed Briggs and Kirsten Darrington, Budget Department, presented this item. Darrington
+indicated there were some updates to the budget policy. The changes included the
+policy would reflect a one-year budget cycle. Council Member Toly asked why it was
+previously done every two years. Briggs stated it had not been done that way since he
+worked for the City and a biennial budget was typically done for smaller municipalities.
+
+Darrington indicated the other budget policy amendment was to suspend the existing
+Economic Development Grant applications until a discussion was conducted by the
+Economic Development Department with Council to align priorities. Council Member
+Gerber asked if the applications on the agenda tonight should be approved.
+Weidenhamer stated those applications were made under the current policy and should
+be considered. Council Member Toly asked if Council should name representatives to
+work in small groups in conjunction with other stakeholders like the Chamber.
+Weidenhamer recommended having two liaisons such as Council Members Rubell and
+Dickey and they would bring solutions back for Council’s consideration. Council Member
+Rubell thought liaisons would be a good start and they could figure out how to represent
+Council priorities with the different focus groups. Council favored suspending the grant
+program for FY23. Dias indicated this policy could be reinstated mid-year when
+solutions were found.
+
+Darrington noted there were edits to the Special Service Contracts (SSC) language to
+reflect current practices and allow for flexibility. This would also remove the March 31st
+application deadline. Mayor Worel asked about the status of the mental health SSC.
+Darrington stated that contract was still happening. Council Member Toly noted there
+was only $60,000 in the fund. Council Member Gerber explained there was $60,000 in
+Mental Health and $60,000 for Communities that Care. Briggs stated the decision on
+those contracts was to wait for the community mental health gaps analysis results and
+then discuss how best to utilize the funding. Darrington indicated this policy amendment
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|2
+
+would clean up the higher level policy. Dias stated Darrington was organizing a new
+website to guide the user through the SSC application process in a transparent way.
+Council Member Rubell remembered there was discussion on the Council having a
+holistic view of City support for organizations, whether through contracts, events, etc.,
+and asked if that would be part of the website. Darrington requested more information
+on what was considered holistic, and asked if that would show all funding given to an
+organization. Council Member Rubell gave an example of showing an organization that
+received a fee waiver and a special service contract. Darrington stated she would work
+with other departments to determine the best way to show that data.
+
+Council Member Rubell stated the reasons for the policy cleanup was twofold: one was
+to cleanup out-of-date things, but other things were substantive and he asked if cleanup
+was one and substantive amendments would be addressed separately. Briggs stated
+the procurement policy would be discussed at a future date. Other items could be
+amended throughout the year. Dias stated the policies could be summarized and he
+thought there were four to six that needed to be discussed. Those would come back in
+the fall for discussion. Council favored the three clean up amendments.
+
+Fee Schedule: Darrington indicated she had asked managers to evaluate their
+departments’ fees with inflation considerations. Briggs explained taxes generated
+revenue but fees were for a service to benefit the user and it defrayed the cost of that
+service. Fees charged should cover the costs of service but should not generate
+additional revenue. Council Member Toly asked about Police and Parking personnel
+who regulated construction sites, and how those costs were covered. Plane stated
+Building Fees were highly regulated by the State Legislature and local governments
+didn't have a lot of authority. She gave examples and indicated fees could be imposed
+as long as they were reasonable. Dave Thacker, Chief Building Official, stated the code
+enforcement element of building permitting were in a couple buckets. One was the
+regulation of construction sites which would fall in the inspection category, and would be
+covered under the building permit fee. Other elements not related to construction would
+be paid from another bucket.
+
+Council Member Gerber asked about the business license fees and the service
+enhancement fees, and noted a survey was being done to make sure the City fees were
+in alignment with the costs the City had, especially with regard to the resort fee. There
+were a lot more funds used for transit and the City provided an enhanced service to
+ensure people got in and out of the resorts. She asked how licensing and assigning fees
+to the resorts worked with regard to Transit, Police services and Special Events staff
+helping with load in/out. Jonathan Weidenhamer, Economic Development Manager,
+indicated the City was allowed to charge the amount that it took to administer the
+business license. Enhanced service fees could be added to the base fee, such as
+police, traffic, parking, or flower baskets on Main Street. Resorts were charged an
+enhanced fee and staff was looking at different metrics to apply for the traffic control. It
+
+Park City                                 Page 2                              June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|3
+
+was not ready, but base fees would be ready by July 1st. Council would have the ability
+to apply the base fees or all fees. Council Member Gerber stated the fees were totaled
+and a bill was sent to the resorts. She asked if the new fee would be ready for the
+upcoming winter to which Weidenhamer affirmed and stated this would be discussed on
+July 14th and potential action taken at the July 21st meeting, with heavy outreach to the
+community between now and then. Darrington stated the information today was
+informational. Council Member Toly asked if this would be adopted next week, to which
+Briggs stated the fee schedule with the changes would be amended at a future date.
+Council Member Rubell asked if the fee schedule amendments in the future would be
+broader across all areas. Darrington stated the business license fee study only
+pertained to that section. If there were other areas that weren't amended, they could be
+discussed later and amended. Council Member Rubell stated the cost of living was
+going up and cost recovery should be assessed on the other fees as well.
+
+Council Member Doilney indicated each department requested the fee changes and he
+thought that should be the protocol, instead of Council reviewing every fee. Council
+Member Rubell stated the City's costs were increasing and he thought the sooner fees
+were adjusted to get cost recovery the better for the City. Darrington explained the
+managers looked at the fees first. Some managers didn't request fee amendments this
+year because they had increased them in previous years. She noted she reached out to
+the managers reminding them to review their fees and send their changes. Council
+Member Rubell asked that managers look at their fees again and adjust the fees as
+needed to remain cost neutral.
+
+Council Member Toly asked to understand what the City could and could not charge for
+construction mitigation fees. Council Member Doilney indicated the City went through
+three years of abnormal spending due to COVID and then the recovery period. He knew
+the managers had been looking at their fees and doing their best in this realm. Council
+Member Rubell asked if water fee rates would be discussed in July, to which McAffee
+affirmed.
+
+Parking Fees: Council Member Toly stated the fee for a Main Street parking pass was
+being reduced to $250 from $400. Wasden explained it was the midyear rate for the last
+half of the calendar year. The full year rate was increasing from $400 to $500. Council
+Member Toly asked about construction parking fees, to which Wasden stated those
+were part of the building permit. The nightly parking or plumber parking was different.
+Council Member Toly recommended removing the word construction so it was clear.
+
+Council Member Rubell noted one thing in the fee schedule was that the first offender
+would not receive a fine. It was discussed before that the Parking Department enforced
+Old Town but the new policy was different now. Wasden stated the wording should be
+adjusted and stated the warning only applied to first offenders on Main Street. Outside
+
+
+Park City                                Page 3                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|4
+
+that, it was the officer's discretion. Council Member Rubell asserted the language
+should be removed, even for Main Street.
+
+Recreation Fees: Council Member Rubell discussed fees for residents versus out of
+area users. In terms of the MARC, there was a 70% cost recovery and he noted the
+taxpayers paid for the other 30%. He asked if the City considered the 30% when
+assessing fees. Fisher stated 70% was the cost of recovery for recreation and
+cemetery. Tennis recovered 130% of its costs, so not all programs were weighted the
+same. He also didn't calculate the snow removal or mowing costs. It was difficult to pull
+out fees based on where users lived. Council Member Rubell thought there was a policy
+question of having nonresidents pay more to recover the costs since the residents paid
+taxes. Fisher stated 55% of users lived in the City and if the Basin users were included
+it would be 75%. A very low percentage of users lived in Heber or Kamas. He didn't
+think an increase would make a big difference in the revenue generated. Daenitz
+explained the 30% cost recovery funding gap was filled by General Fund operations
+money, which were property tax and sales tax. The non-residents were helping fund the
+majority of the cost gap. Council Member Toly thought there were many tourists who
+bought punch cards, but there weren't many tourists displayed. Fisher noted they came
+on the daily drop in.
+
+Golf Fees: Council Member Rubell stated the same discussion that applied to Rec
+should be discussed for Golf. Vaughn Robinson, Golf Manager, stated the philosophy of
+Golf was to have an affordable amenity for the residents. The non-resident rate was $20
+more than the resident rate. Council Member Rubell asked if other avenues were being
+pursued to do things for the residents. Robinson stated there was no preference given
+for tee times for residents. Council Member Rubell asked to look at some perks for
+residents or charge visitors more in order to have more time for residents. Robinson
+noted residents made up 65%-70% of the users.
+
+Housing Capital Budget: Jason Glidden, Affordable Housing Manager, stated funds
+were requested for maintenance of the City-owned affordable housing projects. Daenitz
+explained the bulk of the Housing Fund was dedicated to the Woodside Park II project,
+but Council was not required to use the money for that. Glidden stated the housing
+projects had placeholder funds, but they would be shifted as the projects became firmer.
+Daenitz noted the Additional Resort Sales Tax helped fund affordable housing projects
+and he explained how those funds were appropriated. He discussed the 2019 Sales Tax
+Revenue Bond and that it was meant for affordable housing. Mayor Worel stated the
+senior center would be part of the Woodside Park II project and asked how that would
+be funded. Daenitz stated that could be part of the Lower Park RDA. Glidden indicated
+he was still in discussions with the seniors and there was a fund balance of $900,000
+that could be brought over for the senior center.
+
+
+
+
+Park City                                Page 4                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|5
+
+Daenitz received questions on how to have ongoing funds for affordable housing
+projects and noted there were potential revenue sources, but they would require
+expanding sales tax, issuing a GO Bond, reallocating revenue, raising property taxes,
+and/or continuing to structure public/private partnerships.
+
+Mayor Worel opened the item for public input.
+
+Katy Wang, Executive Director of Park City Film, discussed the mission of Park City
+Film. She noted the arts were important and stated films shown were very diverse. The
+Santy Auditorium was the venue used for the Park City Film and Sundance Film
+Festival. She requested the replacement of the chairs in the auditorium and noted the
+County gave a $100,000 grant for the seating. Park City closed the gap by providing
+$50,000 and she was grateful for the City's support.
+
+Mayor Worel closed the public input.
+
+CityTour Recap by Myles Rademan, Park City Leadership Director:
+Myles Rademan stated 60 people went on the recent CityTour in May. He reviewed the
+things learned and shared in Twin Falls, Boise, Bellevue, Halley, Ketchum, and Sun
+Valley, Idaho.
+
+Rademan reviewed Twin Falls had a Chobani factory with 1,000 employees because of
+all the cows in the area. Boise was a fast-growing area and public art was important and
+emphasized. Boise had an Anne Frank Memorial to connect the community to the
+global good. In Bellevue, the group went to the community food center. This center had
+been turned into a complete community center and not just a food pantry. Rademan
+noted there were many elements of this already set up in Park City, such as the
+Christian Center, Peoples Health Clinic, and other entities. In Ketchum, the group
+visited a culinary institute and Rademan thought this type of school would be a good fit
+for Park City. The group visited affordable housing projects and saw the city’s housing
+efforts. These experiences caused the attendees to reflect on how these types of things
+could be implemented in this community.
+
+Mayor Worel thanked Rademan for putting together his 48th CityTour. This was a
+rigorous tour and she appreciated all his work.
+
+Special Event Requests: Bonanza Park Neighborhood Area Programming and
+Event Parking Rates:
+Jenny Diersen, Special Events Manager, presented this item and indicated this was a
+follow-up to a previous discussion.
+
+Bonanza Art Park: Diersen stated this location was used to bring local residents
+together. Council supported mild to moderate programming in the fall. After the work
+
+Park City                                Page 5                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|6
+
+session, staff discussed and proposed three options: do nothing, have minor or default
+programming so it was like a park until the City decided how to use the space, or event
+programming over eight days. Mayor Worel asked if nonprofits could do things on the
+site if Council chose to do nothing. Diersen stated the nonprofits could apply to use the
+site, but staff would not be doing anything on the site.
+
+Council Member Toly asked if minor programming could occur in September. Diersen
+stated benches could be put up in June and other passive measures. Council Member
+Toly asked if it would be insured, to which Diersen affirmed. Council Member Toly
+asked why the budget for Option Three was $80,000 instead of $60,000, to which
+Diersen stated it was due to staffing and programming, and it could be reduced by
+eliminating some of the eight planned days of programming.
+
+Council Member Gerber thought the events grew each week last year as different
+groups came to program events. She thought it would be beneficial to program Option
+Three. Council Member Doilney agreed and stated the goal was to get people out to
+new spaces. He saw a desire that local people wanted to get out where they didn't
+normally go.
+
+Council Member Rubell stated the latest Prospector event was put on for $500 so he
+thought $80,000 was excessive. He suggested not programming it every week and
+allowing other entities to program it some weeks. He supported programming every
+other week to save costs. He thought it was a plus to allow other groups to host events.
+Council Member Doilney thought the Prospector event was different and his takeaway
+was that people in that neighborhood wanted activity near them. He suggested investing
+money in the infrastructure to make it attractive so people would want to have events
+there. He asked if the arts organizations asked to hold events there. Diersen stated they
+were waiting to see what the City was doing. Council Member Rubell supported the
+passive programming and every other week for events so other groups had the
+opportunity to program the space.
+
+Mayor Worel liked that the residents came together to fill a need. She thought this would
+be a great opportunity for organizations to activate the space. She supported the
+passive programming and inviting groups to hold events. Council Member Doilney
+favored making the area more attractive to see the participation from the art community.
+Council Member Gerber was fine if the City did less programming, and asked to make it
+clear what the City was offering to do.
+
+Weidenhamer stated in the past, staff allowed a food truck area, and asked if Council
+approved the City prequalifying vendors for the site. It was indicated the area would
+have passive, park programming as soon as possible, with tables, games, and
+structures. Staff would explore a scope for programming up to $50,000 and Council
+preferred that nonprofits programmed the area. There was support for the City to
+
+Park City                                 Page 6                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|7
+
+program a Halloween festival and facilitate other nonprofits to activate the area. Staff
+would make a protocol sheet for nonprofits to follow. Council Member Toly noted the
+Council might have something planned for that site by next year.
+
+Event Parking Rates: Diersen stated parking rates were generally approved with each
+special event permit. The Historic Park City Alliance (HPCA) sent a letter requesting a
+portion of the parking revenue during special events. Diersen reviewed the history of
+splitting special event parking rates with HPCA beginning in 2010 and noted over the
+years, the City had stopped splitting those revenues. The rates were now tied to
+Transportation Demand Management. She displayed a chart showing peak traffic and
+parking demands in the summer. When the parking rate conversation began, HPCA
+was involved. Now HPCA wanted a consistent rate structure over all events. She
+indicated there was a flat rate for July 4th, which was different than the rates for Silly
+Market or Arts Fest. The Parking and Special Events Departments were recommending
+the proposed rate structure.
+
+Council Member Toly suggested pausing the conversation until she and Mayor Worel
+could discuss it with HPCA - to review parking rates for events and the amount of
+money they requested, as well as look at parking overall and what could happen to the
+City once the resort started charging for parking.
+
+Council Member Rubell agreed with the principle of raising rates for tourist events, but
+he was concerned that transit solutions were not available for some areas of town. He
+was undecided, but supported rate increases as a traffic mitigation tool. He would like to
+see solutions for locals who attended. He didn't want to share the revenue since the City
+ran the operations and had all the costs.
+
+Council Member Gerber felt the rates were reasonable and commented the locals knew
+better than anyone not to park on Main Street during events. Everyone was impacted
+during peak events. The rates made sense and she agreed the City did all the work and
+the enforcement. The goal was to create better transportation and parking management
+and it should be tied together. Regarding the Park City Mountain Resort (PCMR)
+parking rate implementation, she thought there was time to discuss that.
+
+Council Member Doilney thought the letter requesting money was unreasonable. There
+was a lot of work involved with traffic mitigation. He hoped the rates could be
+implemented as soon as possible and the money should go to the City. He noted emails
+were sent to Council when the traffic impacts were felt. He thought Wasden was a
+forward thinker for things that would benefit the community. This was a visitor economy
+and he wanted them to have a good experience in town, but it was not out of line to
+charge $7/hour to park in the best spot in town.
+
+
+
+
+Park City                                 Page 7                              June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|8
+
+Council Member Rubell suggested promoting bike riding. Diersen stated there were
+event protocols for bike valets and bike parking. The majority of Council agreed to
+implement rates and were not in support of revenue sharing. Council Member Toly was
+not supportive of the decision. Council agreed to have the liaisons meet with HPCA.
+
+REGULAR MEETING
+
+      I) ROLL CALL
+
+       Attendee Name                                        Status
+       Mayor Nann Worel
+       Council Member Max Doilney
+       Council Member Becca Gerber
+       Council Member Jeremy Rubell
+                                                            Present
+       Council Member Tana Toly
+       Matt Dias, City Manager
+       Margaret Plane, City Attorney
+       Michelle Kellogg, City Recorder
+       Council Member Ryan Dickey                           Excused
+
+II)     COMMUNICATIONS AND DISCLOSURES FROM COUNCIL AND STAFF
+
+Staff Communications Report:
+
+1. FY 2022 Fraud Risk Assessment:
+Council Member Rubell referred to Exhibit A and noted the City didn't have a signed
+statement committing to no fraud or an audit. He thought it would be valuable to
+implement both those things. Sara Nagel, City Treasurer, stated there was a policy in
+the works for a fraud disclosure statement. The assessment was for governments of all
+sizes so there could be a discussion on having an audit. Council Member Rubell
+favored a discussion and thought it would be beneficial considering the amount of
+money moved in the organization. Nagel noted the City was in a low-risk category and
+she felt the emphasis was having good policies.
+
+Council Questions and Comments:
+Council Member Doilney stated Father's Day would fall on Juneteenth and he
+commended the City for closing on Monday out of respect for the holiday. He noted
+bigger cities in Utah had events around the holiday. He quoted Barack Obama that
+Juneteenth was a holiday of progress.
+
+Council Member Gerber stated Tim Henney was recognized by Mountainlands
+Community Housing for all he did for affordable housing. She noted rising fuel costs
+
+
+ Park City                               Page 8                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+Page|9
+
+affected the community and stated Recycle Utah had a $235 fuel surcharge for every
+bale of cardboard hauled away.
+
+Council Member Toly attended a library board meeting and she noted many outdoor
+events were at the library this summer. She also announced the Elks event and the
+Open Your Barn Door event this weekend. She indicated there was a survey on
+Recreation. She also disclosed she lived on 9th Street and the 9th Street Stairs item was
+on today's agenda
+
+Mayor Worel indicated the Latino Fest was June 20-26. She had open office hours on
+June 27th. She also announced there would be a joint City Council/County Council
+meeting on June 28th.
+
+III) PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON THE
+AGENDA)
+
+Mayor Worel opened the meeting for any who wished to speak or submit comments on
+items not on the agenda.
+
+Deb Hartley, Executive Director for Bridge 21, stated this organization was an affordable
+housing nonprofit for neuro-diverse intellectually disabled (IDD) people. She stated it
+was hard for this population to find housing and she felt they needed to be part of the
+affordable housing conversation.
+
+Shirin Spangenberg, HPCA, thought it was strange that the parking rates and the
+revenue share were introduced together, and she looked forward to discussing the
+issue with Mayor Worel and Council Member Toly.
+
+Casey Hansen asked for clarification on what was considered a public right-of-way. He
+was a local musician and he utilized many alleys so he didn't have to go all the way
+around. A couple weeks ago a security guard attacked him, threw him to the ground and
+threw him out of the alley. There used to be a stairwell in the alley and he used it for
+years. The stairs were removed, the gate was broken, and it was south of the veteran's
+war building. One of the Cabin security guards tackled him. He asked if the City had
+specified which alleys were public rights-of-way. The Planning Commission couldn't
+clarify which alleys were rights-of-way. He indicated some businesses owned some of
+the alleys. Mayor Worel asked City Manager Dias and staff to help Hansen get answers
+to his questions.
+
+Mayor Worel closed the public input portion of the meeting.
+
+IV)   CONSIDERATION OF MINUTES
+
+
+Park City                                Page 9                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 10
+
+1. Consideration to Approve the City Council Meeting Minutes from May 26, 2022:
+
+Council Member Gerber moved to approve the City Council meeting minutes from May
+26, 2022. Council Member Toly seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Council Member Dickey
+
+V)    CONSENT AGENDA
+
+1. Request to Authorize the City Manager to Execute Contracts for Water Quality
+Consultant Services, in Forms Approved by the City Attorney, with Water Quality
+& Treatment Solutions, Inc., in an Amount not to exceed $50,000. and Confluence
+Engineering Group, LLC, in an Amount Not to Exceed $50,000:
+
+Council Member Rubell moved to approve the Consent Agenda. Council Member
+Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Council Member Dickey
+
+VI)   OLD BUSINESS
+
+1. Consideration to Approve Ordinance No. 2022-18, an Ordinance Annexing
+Approximately 1,200 Acres of Property Located in the Southeast Quinn’s
+Junction Area into the Corporate Limits of Park City, Utah, and Amending the
+Official Zoning Map of Park City to Zone the Property Recreation and Open Space
+within the Entry Corridor Protection and Sensitive Land Overlays:
+Rebecca Ward, Assistant Planning Director, presented this item. Dias stated many staff
+and community members had come forward and were impressed with the progress staff
+had made on the annexation. He thanked staff who worked on this over the last six
+months. Ward reviewed the process for annexing this parcel and noted the area would
+be annexed as Recreation and Open Space. There was a lease within the annexation
+area for a park and ride. The Clark Ranch property was included and Ward noted the
+purchase included a conservation easement on part of the parcel.
+
+Ward stated the environmental quality was evaluated on the parcel and a portion was
+designated the Richardson Flat Tailings Impoundment-Operable Unit 1 (OU1). Council
+Member Gerber asked if annexing would affect the City's ability to request the owner of
+OU1 to clean up that area. Plane stated the City could make a request, but it had no
+authority to demand the cleanup. Council Member Gerber asked what the next steps of
+
+Park City                               Page 10                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 11
+
+the property being the boundary were. Ward stated the annexation would be certified by
+the Lt. Governor.
+
+Mayor Worel opened the public hearing.
+
+Landon Allred on behalf of the Town of Hideout stated there was a conflict between this
+annexation and Hideout's annexation. There were six lawsuits with regard to the
+annexation dispute. There was a link on Page 204 of the Council packet to Hideout's
+protest letter, but he wanted to discuss the procedural issues. He explained the statute
+and process for annexation. The problem with this annexation was the process was
+defective because the County Clerk did not forward the Hideout protest letter to the
+Boundary Commission. She determined that Hideout's annexation was invalid.
+Hideout's annexation was actually valid and that area was already annexed. The
+annexation was not voided and it was an affected entity and the letter should have gone
+to the Boundary Commission. The Boundary Commission acted on the assumption the
+annexation was invalid. So, the Council had no analysis from the Boundary Commission
+and they didn’t have a full land use report. If this was approved, another lawsuit would
+ensue. Procedure mattered and the procedure for this annexation was wrong. He
+requested Council pause on approving this.
+
+Mayor Worel closed the public hearing.
+
+Margaret Plane, City Attorney, stated there had been six lawsuits for a while. Park City
+followed the statutory process. There were two lawsuits currently in the Fourth District
+Court and Hideout and Summit County, and the Hideout Annexation was voided as of
+two hours ago. An appeal could be made to the higher courts. There was another
+lawsuit with Summit County and Brockbank, which was not with Larry H. Miller, on the
+Flagstaff Development Agreement which stated the area was designated as recreation
+and open space. Summit County prevailed on that lawsuit. Summit County Clerk Eve
+Furse used her authority to determine if protests were valid and only one of four letters
+was valid. That protest went to the Boundary Commission and the commission
+determined the protest was invalid. It was appealed and the District Court upheld the
+decision. The decision was appealed to the Court of Appeals and the stay was denied.
+There was a suit if Furse had the authority and it was making its way through the
+system. Process and substance mattered, and the City was working in good faith to
+annex the property. The recommendation was to consider this now and there were no
+legal barriers from approving the annexation.
+
+Council Member Doilney moved to approve Ordinance No. 2022-18, an ordinance
+annexing approximately 1,200 acres of property located in the Southeast Quinn’s
+Junction area into the corporate limits of Park City, Utah, and amending the Official
+Zoning Map of Park City to zone the property Recreation and Open Space within the
+Entry Corridor Protection and Sensitive Land Overlays. The area was already subject to
+
+Park City                                Page 11                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 12
+
+the Flagstaff Development Agreement and the open space acquisition restrictions. The
+Council determines that under the circumstances of the annexation, the conditions of
+Land Management Code Section 15-8-5 do not apply and no other agreement is
+necessary. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Council Member Dickey
+
+VII) NEW BUSINESS
+
+1. Consideration to Set the Date of June 23, 2022, for a Public Hearing on
+Ordinance 2022-20, an Ordinance Establishing Compensation for the Elected and
+Statutory Officers for FY 2023:
+Penny Frates, Budget Analyst, and Sarah Mangano, Human Resources Director,
+presented this item. Frates noted the wages for statutory officers and the Council and
+Mayor were increasing 10.33%.
+
+Council Member Doilney explained the Council had flexibility to give officers raises,
+subject to performance reviews, education, certifications, etc. The ranges were set to be
+equal to peer communities. Council Member Rubell asked what metrics were available
+for the actual salary increases. Frates stated that wasn't set yet. After the actual pay
+was established, she could return with an average.
+
+Council Member Toly asked if Council wages were similar to Summit County officials.
+Frates indicated she would return with those numbers. Council Member Rubell asked if
+the increase in health benefits was due to the insurance cost increase, to which Frates
+affirmed.
+
+Mayor Worel opened the public hearing. No comments were given. Mayor Worel closed
+the public hearing.
+
+Council Member Rubell did not support the elected officials’ pay increase and felt as
+leadership, he would rather see the money going to the employees earning at the
+bottom of the spectrum. He preferred to have an increase next year, after observing
+what happened over this next year with attracting and retaining employees. He
+supported the raises for statutory officers and the increase in health insurance for
+Council.
+
+Council Member Gerber stated the Mercer study tried to make the pay attractive for
+those who needed it and for future councils. There had been a discussion on whether
+Council members had a more time-consuming job. Council Member Rubell suggested
+tabling the raise this year and discussing it next year before the election. Council
+
+Park City                                Page 12                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 13
+
+Member Gerber thought passing a smaller percentage now would be better than
+approving a 13% pay increase next year, especially if there was a downturn. Frates
+stated they wanted to stay consistent across the board. Council Member Toly stated this
+was not a part-time job and Council should be paid commensurate to their work. Council
+Member Doilney indicated it was hard to look at compensation for yourself. He hoped to
+see many candidates for City Council and the pay could make a difference. He was
+interested to see what other Council members earned in other jurisdictions. If people
+ran for office who had the time, a living wage could help gain interest from other groups
+who needed a full-time job.
+
+Mayor Worel stated the Council wage was what was recommended a few years ago
+and she asked for a blue-ribbon commission to reconvene. The majority of Council
+favored moving forward with both raises. Council Member Rubell disagreed.
+
+Council Member Gerber moved to set the date of June 23, 2022, for a public hearing on
+Ordinance 2022-20, an ordinance establishing compensation for the elected and
+statutory officers for FY 2023. Council Member Doilney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Council Member Dickey
+
+2. Discuss 9th Street Stairs Capital Project:
+Matt Twombly, Senior Project Manager, and Michelle Downard, Resident Advocate,
+presented this item. Twombly reviewed the history of how the City was platted and how
+the east/west rights-of-way were actually hills too steep to use as roads. He displayed a
+map showing the three levels of stairs that would improve walkability. The plan was to
+break up the construction into two phases. The issue with the 9th Street Stairs was 8th
+Street and Crescent Tram, since the street was narrow and steep with many driveways,
+which made it difficult for pedestrians. Ninth Street was not accessible in the winter, and
+there was no off-street parking.
+
+Twombly stated the stairs were four feet wide and there was room for wildlife and
+possibly a bike trail alongside them. On 6th Street, there was a ramp on the side of the
+stairs so bikers could push their bikes alongside the stairs instead of carrying the bikes.
+He noted the outreach efforts made with onsite and zoom meetings and the Spring
+Projects Open House. The input on the project was mixed. Some concerns raised were
+a lack of open space and reduced privacy. Supportive residents asserted the stairs
+would increase walkability in the area.
+
+Twombly noted there would be a budget request for snow removal next budget year. He
+gave options if Council decided not to construct the stairs on 9th Street.
+
+
+Park City                                 Page 13                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 14
+
+Council Member Doilney asked what the reason was for constructing the stairs in two
+phases. Twombly stated funding was a big reason. Also, the upper section of 9th Street
+had many utilities and a different approach would be taken for those stairs, such as
+using concrete instead of footings. Council Member Doilney asked if there would be a
+benefit for completing both phases at the same time. He wanted to minimize the
+construction impacts and stated the walkability in the area was lacking. Twombly stated
+he did not have firm estimates for the project, but he knew it would be expensive.
+Council Member Toly noted a lot next to the proposed stairs was for sale so there could
+be simultaneous construction.
+
+Mayor Worel opened the item for public input.
+
+Jody Whitesides lived in the area and he thought it would be nice to have the stairs. He
+was instrumental in making Crescent a one-way street because the road was so
+narrow. He thought 8th Street should be completed too. There was a footpath on 9th
+Street so it made sense to put stairs there. Also on 10th Street between Norfolk and
+Empire, the street was starting to slide and it was pushing the stairs out.
+
+Ed and Annette Keller via Zoom, were opposed to the stairs. It was one of the few
+remaining open spaces where children could play and wildlife could traverse. The
+people walking to go skiing walked on Norfolk Avenue, Woodside Avenue, or Crescent
+Tram. He doubted many people would carry skis to the 9th Street stairs if they wanted to
+go to the Main Street area because it was 75 yards out of the way. They wanted to
+know the percentage of comments that were favorable to putting up the stairs.
+
+Cheryl Soshnik via Zoom, stated many people were going up the 10th Street stairs or
+were walking on the street. It made sense to construct the 9th Street stairs for safety and
+walkability reasons. Since COVID, there had been an increase in people walking around
+town. It was very needed.
+
+Maria McNulty eComment: “In reviewing the packet, I don’t see any mention of the in-
+person meeting that was help with you and Matt on May 4. At that meeting, there were
+4 old town residences represented, of this 3 lived right on 9th street. Those three asked
+to go on record in opposition to the stairs. During this meeting we discussed at length
+the opposition to implementing stairs on 9th between Woodside and Norfolk, if there is
+not a comprehensive plan (or even understanding the feasibility) for stairs all the way to
+Empire; and further, we discussed the use of signage and other traffic calming
+measures BEFORE building stairs. Apologies if I missed anything in the packet in
+reference to this, but if the meeting notes are missing, will they be added? I also failed
+to see my correspondence dated May 17 (attached.). I was told they would be shared
+with Council. Again, apologies if I missed this in the packet, however I would like
+confirmation that my opposition to the 9th street stairs has been noted by Council.
+During our May 4 meeting, we were assured that should the stairs be approved on 9th
+
+Park City                                Page 14                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 15
+
+street that there would still be ample green space for animals, kids and mountain bikers.
+I have immense concern around this. Simply looking at how homes have landscaped
+the land alongside other sets of stairs (see images below) demonstrates that not only is
+there no access for other users, it further underscores the need to maintain this
+important remaining green corridor (9th street).”
+
+Mayor Worel closed the public input for this item.
+
+Council Member Doilney supported moving forward but wanted staff to explore the idea
+of doing it all at once. Council Member Gerber indicated there were several applications
+from residents to use the 9th Street stairs property for driveways and she wanted it
+preserved for stairs. She thought it would be great if it could all be completed at the
+same time. She favored planting vegetation to help with privacy for the residents.
+
+Council Member Rubell asked if the stairs would be installed on an easement. Twombly
+stated it was an undeveloped right-of-way. Council Member Rubell agreed with Council
+Member Doilney and thought it was a safety issue and should be completed as soon as
+possible.
+
+Council Member Toly indicated Treasure Hill was a great hiking area and had only a few
+parking spots. People going to the trail used Crescent Tram and the stairs would help
+pedestrians get there. She hoped to see signage for all the City stairs. There also
+needed to be more "No Parking" signs. She hoped to see a solution for cars on 8th
+Street since that street was so narrow. She agreed with Council Member Doilney to
+complete both phases simultaneously.
+
+Downard reiterated there was mixed feedback and asked Council if they supported
+mitigation efforts for those living directly next to the stairs. Council agreed. Council
+Member Rubell stated the City's responsibility was to provide safe access, and being a
+good neighbor was nice. He didn't want to hear from staff that the stairs could not be
+completed because of landscaping next to the neighbors. Council Member Doilney
+agreed and suggested having connections to homes from stairs or masking was nice,
+but he wanted to be consistent.
+
+Council Member Toly asked if this was the last project for stair connectivity. Twombly
+stated this was the last area where stairs could go. The upper Main Street area was
+completed. She asked why stairs couldn't be constructed on 8th Street. Twombly stated
+the width was an issue for that right of way but he could look at it to see how much room
+there was.
+
+3. 2021 Annual Drinking Water Quality Consumer Confidence Report:
+Michelle DeHaan, Water Quality Manager, reviewed the State law that required the City
+to provide an annual water quality report to all residents. Several Public Utilities staff
+
+Park City                                Page 15                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 16
+
+introduced themselves. DeHaan indicated over the last 10 years, the City constructed
+several water treatment plants to ensure pure water. There was state of the art
+treatment technologies, there was continuous water monitoring, and the City had good
+regional partners. She noted the 3Kings Water Treatment Plant would begin providing
+water this summer. She reviewed the City's different plants and the different
+technologies needed for treatment at each one. One challenge was the salt content
+from wells around the City. This was slightly above the State limit and the City was
+involved in discussions with the State.
+
+DeHaan discussed efforts going forward, including the 3Kings Water Treatment Plant,
+ice pigging, a pilot program with homeowners to determine the evidence of copper and
+lead pipes, and being proactive with chemicals detected in groundwater wells. The Utah
+Division of Water would come out with regulations on the chemicals and would set a
+limit for these chemicals in the water supply.
+
+Council Member Rubell referred to the immunocompromised section of the report, and
+asked for information on cryptosporidium. DeHaan stated the Environmental Protection
+Agency (EPA) required the table that was published include compounds detected, but
+cryptosporidium was not detected. Council Member Rubell asked if the customer meter
+site evaluation was live. DeHaan stated it was a pilot program to gather information from
+homeowners. The public side would be harder because the City would have to dig.
+
+Council Member Gerber was glad the PFAS chemical was discussed because it was in
+the news a lot, and she asked if washing a nonstick pan would put the chemical into the
+water supply. DeHaan stated large water systems monitored for PFAS, but detection
+levels were much higher. Now monitoring could be detected at lower levels. Utah was
+monitoring groundwater wells and they were not detecting the chemicals. Council
+Member Doilney stated the chemical was found in three wells, and asked what the
+mitigation would be. DeHaan indicated they would wait for a determination from the
+EPA. They didn't know if the levels found were above what the EPA would set as a limit.
+It needed to be assessed before a determination was made. McAffee stated part of the
+pipeline project included blending water sources so there were many options available.
+Council Member Toly stated part of the process was to educate the public not to buy the
+products.
+
+4. Consideration to Approve an Economic Development Grant Contract for
+$10,000 for Wild Events, LLC:
+Jonathan Weidenhamer and Ellie Cutting, Wild Events, were present for this item.
+Weidenhamer stated there was money in the current budget and this was a case for
+community. The business provided a service not met in the community. The applicant
+requested $20,000, but the recommendation was to grant $10,000. Cutting lived in Park
+City for eight years and worked in events for the past 10 years. She started her event
+
+
+Park City                               Page 16                             June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 17
+
+company because she had seen a demand for tabletop rentals. She had done 31
+events so far this year and had 65 bookings in the next few months.
+
+Mayor Worel asked if this was a franchise, to which Cutting stated no, but she would
+travel to other locations. Mayor Worel asked if she picked up the tableware, to which
+Cutting stated she did at times. Council Member Gerber reviewed that grants historically
+were geared to bring people to the City. Now the focus was people here who wanted to
+expand and grow their business. Council Member Toly asked what the marketing
+strategy was for bringing in more clientele. Cutting stated she knew people in town who
+referred her.
+
+Mayor Worel opened the item for public input. No comments were given. Mayor Worel
+closed the public input portion of the item.
+
+Council Member Doilney stated businesses like this made Park City feel like a small
+town and he liked to help these entrepreneurs. Council Member Toly agreed and stated
+she liked the small businesses and didn't want everything to turn corporate.
+
+Council Member Doilney moved to approve an economic development grant contract for
+$10,000 for Wild Events, LLC. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Council Member Dickey
+
+VIII) ADJOURNMENT
+
+PARK CITY REDEVELOPMENT AGENCY MEETING
+
+   I) ROLL CALL
+
+     Attendee Name                                          Status
+     Chair Nann Worel
+     Board Member Max Doilney
+     Board Member Becca Gerber
+     Board Member Jeremy Rubell
+                                                            Present
+     Board Member Tana Toly
+     Matt Dias, City Manager
+     Margaret Plane, City Attorney
+     Michelle Kellogg, City Recorder
+     Board Member Ryan Dickey                               Excused
+
+
+
+Park City                               Page 17                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 18
+
+II)  PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Chair Worel opened the meeting for any who wished to speak or submit comments on
+items not on the agenda. No comments were given. Chair Worel closed the public input
+portion of the meeting.
+
+III) NEW BUSINESS
+
+1. Consideration to Approve an Economic Development Grant Contract for
+$20,000 for Alpine Distilling:
+Jonathan Weidenhamer and Sara Sergent, Alpine Distilling, presented this item.
+Weidenhamer asked for a grant to offset costs from tenant improvements as Alpine
+Distilling relocated from the basement into their storefront. He noted when the City
+needed hand sanitizer, Sergent and her family worked to make it for the City.
+
+Sergent stated the Alpine Pie Bar and Distilling was in line with community values: they
+opened their space to nonprofits when they weren't open, and they employed diverse
+people in their business.
+
+Board Member Rubell asked about water impact fees and the benefits of moving into
+the City. Sergent stated when they operated in Silver Creek, the impact fee was
+$4,805.56, and it would be $66,000 in the City limits which they got reduced to $58,000.
+She wanted to make sure they could accommodate their team.
+
+Chair Worel opened the item for public input. No comments were given. Chair Worel
+closed the public input portion of the item.
+
+Board Member Doilney stated it wasn't often where members of the community
+embodied the word community. The Sergents had been givers since they came to the
+City. The grant process showed they were participating in every way. Board Member
+Rubell agreed and stated in looking forward, the program needed to look at what the
+City was trying to accomplish to attract businesses and what barriers existed that
+prevented businesses from moving to the community.
+
+Board Member Rubell moved to approve an economic development grant contract for
+$20,000 for Alpine Distilling. Board Member Doilney seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Rubell, and Toly
+EXCUSED: Board Member Dickey
+
+IV)   ADJOURNMENT
+
+Park City                                Page 18                            June 16, 2022
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 16, 2022
+P a g e | 19
+
+With no further business, the meeting was adjourned.
+
+                                                        ________________________
+                                                       Michelle Kellogg, City Recorder
+
+
+
+
+Park City                              Page 19                           June 16, 2022
+ City Manager’s
+FY23 Recommended Budget
+Timeline
+                          Budget Timeline
+
+May 12   • Tentative Budget Adoption
+
+
+
+
+          May 26            • Operating Budget Overview
+
+
+
+
+                               June 9        • Capital Budget Overview
+
+
+
+
+                                               June 16          • Fee Changes, Policies,
+                                                                  Compensation Ordinance, etc.
+
+
+
+                                                                 June 23           • Final Budget Adoption
+                    FY23 Budget Update
+• Budget Policies & Objectives: Review the updated budget policies and
+  proposed changes. Determine if changes should be adopted as part of the
+  FY23 Budget on June 23 or later as part of a broader Budget Policy update
+
+• FY23 City Fee Schedule: Review the fee schedule, proposed changes and
+  provide feedback ahead of adoption
+
+• Elected and Statutory Officer Compensation: Review Compensation and
+  provide feedback
+
+• Wrap Up Capital Presentation: Housing, Water, Flagstaff Fee Transfers
+
+• Miscellaneous/Outstanding Budget Items: Review the changes between the
+  Tentative and Final Budgets
+Budget Policies
+                       Budget Policies
+
+• Adopted as part of the annual City Budget
+
+• Govern stewardship of public funds and ensure transparency
+
+• Propose Council adopt some minor adjustments on June 23, and direct the
+  Budget Team to return with a broader Budget Policy update later this year
+                          Budget Policies
+Budget Organization (Chapter 1, Part I)
+
+• Propose the policy be updated to reflect a one-year budget cycle
+
+• Current policy recommends PCMC operate under a two-year budget cycle.
+  However, the City has effectively operated under a one-year cycle for multiple
+  years
+
+• This change supports the City’s actual operating environment
+
+• City will continue to proactively forecast revenues, demonstrate restraint when
+  considering ongoing cost increases, and submit a 5-year CIP, like other cities
+                                   Budget Policies
+Economic Development Grant Policy (Chapter 1, Part II)
+
+•   Propose suspending the existing program to prevent accepting any additional grant applications
+    until a future City Council policy discussion is conducted by the Economic Development
+    Department. The program criteria would benefit from a considerable update to reflect the current
+    Council’s goals.
+
+•   This program was created in 2006 to provide financial assistance to small businesses; Council last
+    updated this policy in 2017
+
+•   Aligns with specified Community goals and State criteria
+
+•   The following funds are available annually within the program but are absorbed back into the general
+    fund if not awarded:
+          Anywhere in City limits (general fund)        $10,000
+          Lower Park RDA                                $20,000
+          Main St. RDA                                  $20,000
+
+•   To date, $176,000 has been awarded to 14 businesses
+                               Budget Policies
+Special Service Contracts (Chapter 5, Part II, Section D):
+
+• Propose adopting minor edits to better reflect current practices and allow for flexibility
+      The March 31 application deadline has also been removed to allow for more flexibility
+
+• Park City partners with local nonprofits to provide valuable services to the community through
+  Special Service Contracts (SSCs)
+
+• Funds different types of services such as cultural events, educational programs, and
+  emergency services
+
+• Awarded through a competitive RFP process and applications evaluated by the Special
+  Service Contracts Committee.
+
+• In FY21, Council approved a revamp of the application process, creating two categories:
+  Regular Service Contracts (four-year cycle) and Diversity, Equity, and Inclusion (DEI) Service
+  Contracts (two-year cycle)
+FY23 Fee Schedule
+                       FY23 Fee Schedule Changes
+  Building Fees (Section 1.2, page 5)
+- Increases Building Permit Fee from 1.00% of Total Valuation of construction to 1.05% with a minimum
+   fee of $50.00
+
+  Engineering Fees (Section 1.3, page 8)
+- Increase to Construction Inspection Fees
+- Updates criteria for Permit to Work in Public Right-of-Way to better define requirements and costs
+- Adds new fee for Processing of Small Wireless Facility Applications (1.3.3)
+- Adds new fee for Road Closure Permits (1.3.4)
+
+  Water Metered Services Fees (Section 2.2, page 10)
+- The Public Utilities department is proposing a 3% increase to all water fees.
+
+  GRAMA Fees (Section 6.4, page 18)
+- Compiling Documents – Removes language saying no charge may be made for the first quarter hour
+   of staff time used to compile documents for a GRAMA request. Change aligns with recent revisions to
+   state code
+                       FY23 Fee Schedule Changes
+  Parking Fees (Section 7, page 19)
+- Proposes increases to majority of parking fees, including parking violations, parking permits, parking
+   lot and meter rates
+
+  Recreation Fees (Section 8.2 – 8.3, page 25)
+- Updates name from Recreation Center to PC MARC and corrects Director’s title throughout policy for
+   consistency and clarity
+- Increases and reorganizes Field User fees table for clarity
+- Updates income ranges for the Sliding Fee Scale, which applies a discount to specific fees based on
+   Summit County Average Median Income
+
+  PC MARC Fees (Section 8.4, page 26)
+- Increases Youth Clinic Fees
+- Increases pickle ball fees and adds new fees for groups
+- Increases Facility Pass fees and removes Couples Rates
+- Simplifies rates for Tennis Passes by removing the Couples and Additional Family Members Rates.
+   Increases Tennis Youth Clinic fees
+- Adds new fees for Full Day Gymnasium Use
+                       FY23 Fee Schedule Changes
+  Golf Fees (Section 8.5, page 29)
+- Proposes modest increases to majority of fees to offset rising costs
+- Adds one new fee for Lodging/Advance booking 18 Hole with cart of $90.00
+
+  Cemetery Fee Waivers (Section 8.7, page 30)
+- Removes language for resident eligibility
+
+  Park Pavilion Rental Fees (Section 8.8, page 31)
+- Increases Park Pavilion Rental fees
+
+  Ice Arena and Fields Rental Fees (Section 9, page 35)
+- Removes fees no longer being used, including the Super Star Birthday Package, Drop-in Broomball,
+   and the skate treadmill
+- Adds new fee for Stick and Puck rental
+- Drop-in Curling fee revised to reflect per lane instead of per individual
+- For-profit ice rental rate increasing by $20.00; all other hourly ice rental rates increased by $5.00
+- Updating section 9.2 for Recreation Programs to include language for season passes
+- Adds Overnight Rental Staffing fee of $100/hour per employee
+- Increases and reorganizes Field User fees for clarity
+                FY23 Fee Schedule Changes
+Fees Currently Under Review: Business Licensing Fees Update - Informational
+
+• Per Utah Code § 10-1- 203, a municipality may assess a fee to cover administrative costs of
+  issuing business licenses
+
+• Park City is conducting a comprehensive business license fee study; study was last updated in
+  2005 and 2013
+
+• The cost of providing administrative services has increased considerably over time
+
+• Most resort towns are reassessing their business licensure programs post COVID-19
+
+Timeline:
+• Base administrative fee study is being conducted and expected to be complete by July 2022
+• Enhanced and disproportionate fee study is scheduled for completion in August 2022
+• Park City notices licensed businesses for their annual, or 2023, license renewal in August.
+   Proactive outreach with the business community is planned to begin in June
+Elected and Statutory Officer
+       Compensation
+                       Elected and Statutory Officer
+                       Compensation Rate Changes
+• For FY23, the Elected Official and     Mayor                                       FY 2021-2022           FY 2022-2023
+  Statutory Officer Compensation is       Wages                                      $            45,366.72 $           50,053.00
+                                          Health Benefits (or cash in lieu)          $            21,522.48 $           22,600.00
+  mainly consistent with the Pay Plan     Car Allowance                              $             3,000.00 $            3,000.00
+  recommendation                         Total                                       $            69,889.20 $           75,653.00
+
+• Recommends Mayor and Council           City Council                                FY 2021-2022           FY 2022-2023
+  receive an across the board 10.33%      Wages                                       $           23,435.04 $            25,856.00
+                                          Health Benefits (or cash in lieu)           $           21,522.48 $           22,600.00
+  increase to keep pace with regional    Total                                       $            44,957.52 $           48,456.00
+  inflation and the increasingly time-
+  consuming duties of elected office     Statutory Officers                             FY 2021-2022 Range             FY 2022-2023 Range
+                                          City Manager                                        $137,000 - $174,991       $158,250 – $211,000
+                                          City Attourney                                      $163,404 - $192,355       $176,493 – $235,324
+                                          City Treasurer                                                            
+                                                                                                $64,000 - $93,844        $82,860 – $110,480
+                                          City Engineer                                                             
+                                                                                              $124,086 - $138,456       $124,938 – $166,585
+                                          City Recorder                                                   
+                                                                                                $79,039 - $90,861        $82,860 – $110,480
+                                                       FY23 Elected and Statutory Officer Compensation Rate Changes
+Capital Presentation
+ Housing & Water
+                                      Housing – Small New Requests
+                                       FY22                                               FY23
+
+                            Central Park Condos +10k
+
+
+                                Woodside Phase I +10k
+
+
+
+                                                      Please see subsequent slides for
+                                                   broader overview of proposed housing
+                                                       re-allocation of Capital budget
+
+
+
+
+Source: PCMC as of June 2022.
+                                                  Housing Summary
+
+  Former Allocation
+
+   CP0362 Woodside Phase II & CP0361 Land Acquisition/Banking Program
+
+
+
+  New Allocation
+                                                      Housing Capital Projects by 5Y $
+                                                           Carry                                                                            5Y Total
+  $ Rank                          Project                 Forward       FY22        FY23       FY24        FY25        FY26        FY27       Plan
+       1CP0013 Affordable Housing Program                   $765,116 $11,196,029          $0          $0          $0          $0        $0 $11,961,145
+       2CP0362 Woodside Phase II                         $12,802,208 ($7,800,000)         $0          $0          $0          $0        $0 $5,002,208
+       3CP0361 Land Acquisition/Banking Program                   $0 $3,049,845           $0          $0          $0          $0        $0 $3,049,845
+       4CP0358 Homestake Housing                                  $0 $3,000,000           $0          $0          $0          $0        $0 $3,000,000
+       5CP0566 Clark Ranch Housing                                $0           $0 $3,000,000          $0          $0          $0        $0 $3,000,000
+       6CP0557 Lite Deed Program                                  $0           $0 $1,000,000          $0          $0          $0        $0 $1,000,000
+       7CP0309 Woodside Phase I                                   $0      $10,000         $0          $0          $0          $0        $0     $10,000
+                                                   Total $13,567,324 $9,455,874 $4,000,000            $0          $0          $0        $0 $27,023,198
+
+
+
+
+Source: PCMC as of June 2022.
+                            Affordable Housing & Land Acquisition
+                                Summary – Source of Revenue
+
+                                             Revenues for Housing & Land Acquisition Projects
+                                2019 Sales Tax Revenue Bond                                   $22,946,374
+                                Sale of Assets                                                 $1,020,000
+                                Additional Resort Sales Tax                                    $1,049,845
+                                LPA RDA Balance                                                   $30,242
+                                Fee In Lieu                                                      $518,487
+                                Interest Earnings                                                 $40,049
+                                Other/Misc Capital Accrued Balance                             $1,418,201
+                                                                                    Total     $27,023,198
+
+
+
+PCMC 2019 Sales Tax Revenue Bond
+Bond Authority and Purpose:
+“The proceeds of the 2019 Bonds may be used by the City for financing: (i) a portion of the costs of a
+revolving program of acquiring and constructing affordable housing units, (ii) parking and plaza improvements, (iii) road
+improvements, (iv) open space acquisition, (v) park, recreation and community
+center improvements and (vi) paying costs of issuance of the 2019 Bonds.”
+
+
+Source: PCMC as of June 2022.
+                                   Increases to Housing Funding
+                                      Potential Paths Forward
+
+                      1                                     3                                         5
+                                                                                             Structure Public
+                                                                                            Private Partnership
+             Re-Allocate                              Propose G.O.                             with Revenue
+
+
+                                          2                                    4
+               ARCST                                     Bond                                 Accruing Non-
+                                                                                                   Profit
+         Recurring Revenue                          One-Time Revenue
+                                                                                           Recurring Revenue
+
+
+
+                                  Re-Allocate                           Raise Property
+                                     TRT                                    Taxes
+                                Recurring Revenue                      Recurring Revenue
+
+
+
+        Note: The FY22 and FY23 Capital Budgets for Housing do not consider any of the first four
+                                             strategies.
+Source: PCMC as of June 2022.
+                                                                Housing Strategy
+                                                                                     PCMC Relative Value Housing Strategy Analysis
+                                                                                                            Strategy
+                                                           Purchase Price     Lite Deed                                                          Public Private/Non-
+                                                                                             City Build & Sell     Rent to Own   Shared Equity
+                                                             Buy Down        Restriction                                                          Profit Partnership
+                                                                                               Configurable Model Parameters
+                                Funding Access, $           $25,000,000     $25,000,000        $25,000,000         $25,000,000    $25,000,000       $25,000,000
+                     Assumed 2022 Market Price, $            $850,000        $850,000           $850,000            $850,000       $850,000              -
+                      Assumed Discount Factor, %               47%             15%                47%                  0%            20%                 -
+   Assumed Number of Executable Transactions/Year,
+                                               No.              10               12                 15                   8            10                  -
+                Assumed Monthly Rent Charged, $                  -                -                  -                 $2,500          -                  -
+                         Assumed Cost per Acre, $                -                -                  -                    -            -             $4,500,000
+           Assumed Buildable Units per Acre, Acres               -                -                  -                    -            -                 70
+    Assumed Annual Growth Rate of PC Home Prices,
+                                                %              10.0%           10.0%              10.0%                10.0%        10.0%              10.0%
+                                                                                                          Key Outcomes
+                                    Units Acquired, No.         50               121               54                  26             94                 389
+                            Acquisition Cost Per Unit, $     $500,000         $206,612          $462,963            $834,038       $265,957            $64,286
+        Years for City to Acquire Affordable Units, Yrs.       5.00             10.08             3.60                5.67           9.40                5.00
+                  City Revenue or Equity Generated, $      ($25,000,000)    ($25,000,000)     ($25,000,000)        $28,315,000    $24,688,515       ($25,000,000)
+                                                                                                Strategy Single Criteria Rank
+                              Maximize Units Acquired            5                2                  4                    6            3                  1
+                   Minimize Acquisition Cost Per Unit            5                2                  4                    6            3                  1
+    Minimize Years for City to Acquire Affordable Units          2                6                  1                    4            5                  2
+         Maximize City Revenue or Equity Generated               3                3                  3                    1            2                  3
+      Council Defined Sentiment - Community Benefit              1                1                  1                    1            1                  1
+                            Weighted Average Score              3.2              2.8                2.6                  3.6          2.8                1.6
+                                                                                                  Strategy MiniMax Regret
+Source: PCMC as of June 2022. Overall MiniMax Rank               5               3                  2                    6            3                  1
+                                                           Library
+                                  FY22                               FY23
+
+                    Library Development & Donations +12k
+
+
+
+
+Source: PCMC as of June 2022.
+                                                                       Water Fund
+           Water Fund FY22 Projected Expenses vs. Revenues Ex Capital                             Water Fund FY23 Projected Expenses vs. Revenues Ex Capital
+                  Revenues                             Expenses                                           Revenues                              Expenses
+  Water Charges for                                                                      Water Charges for
+  Services                  $19,819,145 Personnel                   $3,760,132           Services                     $20,392,268 Personnel               $4,471,634
+  Planning Building &                                                                    Planning Building &
+  Engineering Fees                      Materials, Supplies and                          Engineering Fees                         Materials, Supplies and
+  (Impact Fees)              $1,183,938 Services                      $343,896           (Impact Fees)                 $1,219,456 Services                   $479,911
+  Federal Revenue              $456,274 Utilities                   $1,208,900           Federal Revenue                 $469,962 Utilities               $1,219,298
+                                        Contract                                                                                  Contract
+                                        Services/Consulting/Softwar                                                               Services/Consulting/Sof
+  Misc. Revenues               $203,002 e                           $1,383,542           Misc. Revenues                  $209,092 tware                   $1,850,331
+                                                                                                                                  Parts/Maintenance
+                                             Parts/Maintenance Supplies     $1,060,905                                            Supplies                $1,407,280
+                                             Special Service                                                                      Special Service
+                                             Contract/Misc. Charges           $112,000                                            Contract/Misc. Charges     $122,542
+                                             Debt Service                   $6,547,947                                            Debt Service            $9,313,682
+                                             Interfund Transfer             $1,807,429                                            Interfund Transfer      $1,834,448
+
+  Total Revenue Ex                                                                       Total Revenue Ex                        Total Expense Ex
+  Bond Proceeds                 $21,662,359 Total Expense Ex Capital       $16,224,751   Bond Proceeds               $22,290,778 Capital                    $20,699,126
+
+                                             Net Revenues Available for                                                           Net Revenues Available
+                                                                         $11,985,555                                                                        $10,905,334
+                                             Debt & Cash Capital                                                                  for Debt & Cash Capital
+                                             Net Operating Revenue After                                                          Net Operating Revenue
+                                             Debt Service for Cash        $5,437,608                                              After Debt Service for     $1,591,652
+                                             Capital                                                                              Cash Capital
+
+                                             Debt Service Coverage Ratio                                                          Debt Service Coverage
+                                             FY22                                  1.8                                            Ratio FY23                        1.2
+
+
+       YoY% increase in fund balance driven by bond proceeds associated with 3Kings WTP.
+Source: PCMC as of June 2022.
+                                                                                       Water Fund
+                                                                              Water Fund Operations FY22 vs. FY23 YoY% Change
+                                                                                                          FY22 Expense                                  FY23 Expense                           YoY% Change
+ Personnel                                                                                                          $3,760,132                                   $4,471,634                                              18.9%
+ Materials, Supplies and Services                                                                                     $343,896                                     $479,911                                              39.6%
+ Utilities                                                                                                          $1,208,900                                   $1,219,298                                               0.9%
+ Contract Services/Consulting/Software                                                                              $1,383,542                                   $1,850,331                                              33.7%
+ Parts/Maintenance Supplies                                                                                         $1,060,905                                   $1,407,280                                              32.6%
+ Special Service Contract/Misc. Charges                                                                               $112,000                                     $122,542                                               9.4%
+ Debt Service                                                                                                       $6,547,947                                   $9,313,682                                              42.2%
+ Interfund Transfer                                                                                                 $1,807,429                                   $1,834,448                                               1.5%
+
+
+                                                           Cash Capital Project Expenses vs. Cash Available for Capital Projects by FY
+                                                                         2022              2023               2024                2025                                                 2026                     2027
+ Cash Capital Projects Expense by FY                                     ($4,526,323)        $6,421,945         $3,635,307         $5,130,174                                           $4,752,573                $5,520,698
+ Projected Cash Available for Capital by FY                                $5,437,608        $1,591,652         $4,979,043         $5,447,168                                           $6,011,860                $3,762,957
+                                                              Net          $9,963,931      ($4,830,293)         $1,343,736           $316,994                                           $1,259,287              ($1,757,741)
+
+                                                Cash Funded Capital Project Expenses vs. Projected Cash Available for Capital by FY
+        $8,000,000                                           $6,421,945
+                                                                                                                                                                          $6,011,860
+                                       $5,437,608                                                                            $5,130,174 $5,447,168                                             $5,520,698
+        $6,000,000                                                                                      $4,979,043                                           $4,752,573
+                                                                                           $3,635,307                                                                                                       $3,762,957
+        $4,000,000
+                                                                          $1,591,652
+        $2,000,000
+               $0
+       ($2,000,000)
+       ($4,000,000)
+                        ($4,526,323)
+       ($6,000,000)
+                                2022                                2023                          2024                              2025                            2026                              2027
+
+                                                            Cash Capital Projects Expense by FY                      Projected Cash Available for Capital by FY
+
+Source: PCMC as of June 2022.
+                                Water Fund Operations Budget
+    Key Requested Operating Increases:          Goals and Major Cost Drivers
+    • Supplies - $103,000                       • High Quality Sustainable Water Supply - 45%
+    • Uniforms - $5,000                             • 3Kings WTP start up
+    • Software /Technology - $50,000            • Reliable Water Service and Assets- 30%
+    • Contract Services - $370,000                  • Asset Management
+    • Materials - $30,000                           • Technology
+    • Equipment - $45,000                           • Inflation
+    • Chemicals - $220,000                      • Fiscally and Legally Sound Business
+    • Vehicles - $233,000                        Operations - 25%
+    • Utilities – approx. $200k (to adjust in       • Increasing volume of surplus water
+        final budget)                                 leased to Weber Basin
+Source: PCMC as of June 2022.
+                           Public Utilities Goals and Top 10 CIP List
+   1. High Quality Sustainable Water                            Other Public Utilities Goals for
+      Supply                                                    Reference
+   •     MIW Treatment (3Kings)                                 3.    Fiscally and Legally Sound Business Operations
+   •     Tunnel Maintenance                                     4.    Engaged, Informed, and Dynamic Workforce
+   •     Rockport Water Pipeline & Storage                      5.    Responsive Customer Service and Collaboration
+   •     Quinns Water Treatment Plant Asset Replacement               with Stakeholders
+   •     QJWTP Treatment Upgrades (complete)                    6.    Community and Environmental Sustainability
+   •     Park Meadows Well (complete)
+   •     C1 – Quinns WTP to Boothill – Phase 1 (complete)
+
+                                                            Future CIP Budget Drivers
+   2. Reliable Water Service and
+                                                            •        Master Plan Update
+      Assets                                                •        Asset Management Program
+   •     Water Dept Infrastructure Improvement              •        Lead Service Line Inventory Requirement
+   •     SCADA and Telemetry System Replacement             •        Phase 2 Regional Interconnection – Hwy 224
+   •     West Neck Tank                                              Pipeline
+
+
+
+
+Source: PCMC as of June 2022.
+                                                        3Kings Update
+3KWTP construction continues and is on schedule. Work activities include:
+• Construction Mitigation
+• Construction mitigation (fencing, erosion protection, mud track off pads, etc.) are
+   in place and will remain for the duration of the project.
+• The pedestrian walkway adjacent to the project site and along the west side of
+   Three Kings Drive will remain in place for the duration of the project. Removal is
+   scheduled for the fall of this year, 2022.
+• Efforts to prevent the tracking of debris off the site continue. As the season
+   changes, road sweeping will be adjusted to address the changing conditions
+   from mud to dust.
+• As equipment and materials deliveries become more frequent, crews will make
+   efforts to address traffic conflicts along Three Kings Drive.
+Site Construction
+• Subgrade work has been completed on all structures. One crane has been
+   removed from the site.
+• Building shells for seven of the eight buildings are now completed. Roofing
+   materials and exterior siding installation is beginning. Stone veneer has been
+   installed on three buildings and will continue on the others. Site earthwork,
+   rough grading, and yard pipe work is underway. A portion of the site paving is
+   scheduled for early summer.                                                          Golf Course Impacts
+• Work inside the buildings will continue throughout the spring, summer, and fall.      • Golf Hole 11 will continue to be impacted during 2022.
+• Construction on the last remaining building, located on the west side of the            Restoration is scheduled in late 2022/spring 2023 with the
+   site, will continue through 2022                                                       hole open for play in early 2023.
+Roadway Utility Work
+• Utility work within Three Kings Drive has been completed and temporary pavement installed. New gutter in the vicinity of the 3KWTP and will be
+  installed in the fall of 2022 and spring of 2023. Pavement resurfacing of Three Kings Drive will be performed in 2023. Landscape restoration in
+  these areas, north of the 3KWTP site, will be completed by mid-May 2022.
+Source: PCMC as of June 2022.
+                                                              Top 10 Projects Over 5Y- Water Fund
+                                     FY22 Budgets Among Top 10 Water Fund 5Y Projects                                                                                        FY23 Budgets Among Top 10 Water Fund 5Y Projects
+
+                                        All other Projects,                                                                                                                        All other Projects, $1,000,000
+                                        ($5,779,798), -13%                                                                                                                                      , 3%
+       CP0304 Quinn's Water
+    Treatment Plant Asset Repl,                                                                                                                                                                                                                        , $1,323,232 , 4%
+          $220,500 , 1%                                                                                                                  CP0390 QJWTP Treatment
+                                                                                                                                         Upgrades, $1,250,000 , 4%
+
+
+
+
+  CP0371 C1 - Quinns WTP to
+                                                                                                                                         CP0443 West Neck Tank,
+ Boothill - Phase 1, $2,385,750
+                                                                                                                                             $2,781,619 , 9%
+              , 5%
+
+
+
+                                                              $38.8M                                                                                                                                    $30M in
+  CP0443 West Neck Tank,
+      $1,250,000 , 3%
+                                                              in Total                                                                  CP0007 Tunnel Maintenance,
+                                                                                                                                             $1,274,570 , 4%
+                                                                                                                                                                                                         Total                                                     CP0040 Water Dept
+                                                                                                                                                                                                                                                              Infrastructure Improvement,
+
+
+                                                              Projects                                                                                                                                  Projects
+                                                                                                                CP0389 MIW Treatment,                                                                                                                               $20,094,153 , 64%
+ CP0007 Tunnel Maintenance,                                                                                       $28,200,000 , 63%
+       $274,750 , 1%
+
+
+
+
+        CP0178 Rockport Water,
+         Pipeline, and Storage,
+            $4,080,796 , 9%                                                                                                                        CP0178 Rockport Water,
+                                                                                                                                                    Pipeline, and Storage,
+                                                                                                                                                       $3,454,863 , 11%
+
+
+                               CP0040 Water Dept
+                          Infrastructure Improvement,
+                                 $2,396,891 , 5%
+
+
+                                                                                   Top 10 Water Fund Projects Over Next 5 Years, by $
+  $,                                                                                         2022 Newly                   2023 Newly                      2024 Newly                          2025 Newly                         2026 Newly                  2027 Newly
+                                  Project                      Carry Forward   2022 Base                   2023 Base                      2024 Base                           2025 Base                             2026 Base                 2027 Base                          Score
+ Rank                                                                                        Requested                    Requested                       Requested                           Requested                          Requested                   Requested
+                                                                                                                        $
+       1CP0389 MIW Treatment                                    $38,219,228    $28,200,000       0         $10,600,000                       $0            $250,000              $0            $260,000                $0         270,400         $0                 281,216                31
+                                                                                                                       9,494,153
+       2CP0040 Water Dept Infrastructure Improvement             $415,848      $2,395,250       1,641       $3,454,863 $              - $3,496,538             $0             $1,776,879           $0               $1,183,223       0            $0               2,000,000                40
+                                                                                                                        $
+       3CP0178 Rockport Water, Pipeline, and Storage             $169,876      $1,458,700     2,622,096     $1,458,700                   $1,498,200        ($140,680)         $1,391,306       ($187,763)           $1,460,871    (183,913)       $0               1,275,201                36
+                                                                                                                       (184,130)
+                                                                                                                        $
+       4CP0007 Tunnel Maintenance                               $2,749,968      $274,750         0           $281,619                     $292,884             $0             $304,599             $0               $319,829         0            $0                 332,622                39
+                                                                                                                       2,500,000
+       5CP0443 West Neck Tank                                   $1,398,914     $1,250,000         0         $1,250,000 $              -      $0                $0                $0                $0                  $0            0            $0                       0                51
+       6CP0390 QJWTP Treatment Upgrades                         $2,839,109         $0             0             $0      $             -      $0                $0                $0                $0                  $0            0            $0                       0                43
+       7CP0343 Park meadows Well                                $2,678,908         $0             0             $0      $             -      $0                $0                $0                $0                  $0            0            $0                       0                26
+       8CP0371 C1 - Quinns WTP to Boothill - Phase 1                $0         $1,110,000     1,275,750         $0      $             -      $0                $0                $0                $0                  $0            0            $0                       0                39
+       9CP0304 Quinn's Water Treatment Plant Asset Repl          $691,424       $220,500          0          $231,525   $             - $238,471               $0             $245,625             $0               $252,994         0            $0                 263,114                29
+        CP0301 Scada and Telemetry System                                                                               $
+      10                                                            $0             $0            0              $0                           $0            $200,000              $0            $206,000                $0         212,180         $0                 218,545                24
+        Replacement                                                                                                    1,000,000
+Source: PCMC as of June 2022.                                                  2022 Base +
+                                                                                  New
+                                                                                             $38,808,687
+                                                                                                           2023 Base +
+                                                                                                               New
+                                                                                                                          $30,086,730
+                                                                                                                                        2024 Base +
+                                                                                                                                            New
+                                                                                                                                                          $5,835,413
+                                                                                                                                                                             2025 Base +
+                                                                                                                                                                                New
+                                                                                                                                                                                              $3,996,646
+                                                                                                                                                                                                                2026 Base +
+                                                                                                                                                                                                                   New
+                                                                                                                                                                                                                                 $3,515,584
+                                                                                                                                                                                                                                              2027 Base +
+                                                                                                                                                                                                                                                 New
+                                                                                                                                                                                                                                                              $4,370,698
+                                           Water Rates
+
+  Current Plan for FY23 Budget
+      •     Staff requests direction to include an inflationary water rate adjustment, 3% across
+            the board as part of the FY2023 Budget process on June 16, 2022
+
+      •     In depth discussion on potential future water rates in July 2022
+
+
+
+
+Source: PCMC as of June 2022.
+Flagstaff Fees
+                                Flagstaff Fees – Breakdown
+                                                   The fees are split evenly between the
+                                                   Flagstaff Mountain Master Resort
+                                                   Association and Park City Municipal
+                                                   (PCMC). A further equal split of the PCMC
+                                                   funds is delineated between open space
+                                                   and transit. The chart above indicates total
+                                                   amounts collected since 2003.
+
+
+
+
+Source: PCMC as of June 2022.
+                                Flagstaff Fees – Open Space
+                                    Currently, Open Space utilizes the Fee for the following programs and projects:
+                                    • Annual Wildfire Mitigation Projects
+                                    • Annual Noxious Weed Maintenance
+                                    • Open Space Preservation including acquisition and easements
+                                    • Annual Conservation Easement Monitoring costs with Summit Land Conservancy
+                                    • Recreational Improvements, including trails and trailheads improvements and
+                                    maintenance
+                                    • Maintenance of Recreational Amenities, including restrooms, maintenance
+                                    equipment such as tools and materials, trash and mutt-mitt stations and signage
+
+
+
+
+Source: PCMC as of June 2022.
+                                Flagstaff Fees – Open Space
+
+
+
+
+Source: PCMC as of June 2022.
+                                Flagstaff Fees – Transportation
+                                         • PCMC’s free public transit service is augmented by the annual Fee to
+                                           support access to the Project are via the 9 Purple Empire Pass route.
+                                           Since 2019, a major portion of The Transit Management Fee has
+                                           provided funding for the Purple route. Through 2021, the Fee covered
+                                           the entire operational cost of the Purple route; however, due to the
+                                           variability in Fee revenue, this may not always be the case.
+
+                                         • In addition, a portion of the Fees is utilized for transportation capital
+                                           projects that improve overall access to the Flagstaff Area by enhancing
+                                           accessibility. Part of the Flagstaff agreement also includes maintaining
+                                           use and access to the Richardson Flat Parking lot and Richardson Flat
+                                           Road, and this commitment has also been maintained.
+
+                                         • Recent capital expenditures from the Fee include traffic signal transit
+                                           hardware, software at the Richardson Flat Road traffic signal, and a
+                                           portion of the engineering design for the ‘Kearns high school tunnel’.
+
+                                         • In priority order, the Fee will continue to fund the 9 Purple Empire Pass
+                                           route, capital infrastructure, and software and technology that benefit
+                                           the Project the project area. PCMC anticipates future capital expenses
+                                           to expand transit amenities (bus stop improvements), accessibility
+                                           programs, and roadway safety improvements serving the Project area.
+Source: PCMC as of June 2022.
+EVENT REQUESTS
+ BONANZA ART PARK
+EVENT PARKING RATES
+                    BONANZA ART PARK
+Estimated Programming Budget for Bonanza Art Park   Council Discussion:
+                 Item          Estimated Cost
+     Potty/ Washroom Rental            $5,000       Special Events Manager has authority to
+     Trash/ Waste Management           $1,000       approve Super Minor/ Default or Event
+     Programming Non Amplified
+     Music, Dance/Preformance,
+                                                    Programming as a Level 2 event.
+     Non Profit Partners, Food
+     Truck Minimum                    $26,000       Council should provide direction regarding
+     Staffing (2) - Site Manager &                  level of programming desired.
+     Programming Activation
+     Manager                         $48,000        • Do Nothing
+     Estimated Costs                 $80,000        • Super Minor/ Default
+                                                    • Event Programming
+ June, July and August: Passive Programming.
+ Late August & September: Active Programming
+ once a week with a Halloween Fest in late          If Council desires to explore a park option on a
+ October.                                           more permanent basis, they should provide
+                                                    direction to return at a subsequent meeting.
+EVENT PARKING RATES
+         Changes are based on data and balanced
+         perspective. Event parking rates are a TDM tool and
+         have not been increased in 5 years. Total estimated
+         increase in parking revenue is estimated at $70K.
+
+         HPCA Coordination:
+         HPCA provided initial feedback, letter in
+         packet and additional request for parking
+         revenues (new since packet published).
+
+         Council Questions:
+         City Manager has the authority to
+         implement Special Event Parking Rates.
+
+         Council should provide direction if additional
+         outreach is necessary or if they are
+         supportive of the proposed changes.
+                                           PARKING DATA
+               2022             2021             Fri           Sat      Fri      Sat
+               5-Jun   12-Jun   4-Jul   11-Jul         3-Jun      4-Jun   10-Jun  11-Jun
+                                 146      125             79        116
+          0
+          1
+                 121
+                 107
+                          132
+                           95    113       97             66         89
+                                                                              87
+                                                                              62
+                                                                                     140
+                                                                                     117   Summary:
+          2       78       74     86       76             55         70       47      86
+          3       68       58     84       59             36         53       37      59   Patterns are similar across the last 5
+          4       57       56     74       58             32         49       37      49
+          5       56       57     74       59             32         49       37      49   years and week over week.
+          6       56       57     74       62             31         48       36      49
+          7       58       65     78       63             32         55       46      52
+          8       73       88     82       88             37         67       87      58
+          9       98      126    108      171             60         89      134      71   High parking demand reciprocates
+         10      156      309    258      508            118        144      198     113
+         11      363      401    583      550            209        183      242     172   intense traffic challenges in
+         12      545      554    615      588            239        239      271     226
+         13      559      560    547      566            282        293      299     259   neighborhoods and increases need for
+         14      541      549    577      562            297        319      337     303
+         15      516      528    592      534            314        352      321     300   police/enforcement.
+         16      433      480    479      489            334        386      318     328
+         17      326      382    358      401            332        382      314     345
+         18      289      295    313      357            323        438      367     408
+         19      248      243    265      322            369        446      427     424   We took a balanced approach for the
+         20      175      180    222      284            444        413      412     458
+         21      138      147    175      223            375        328      316     385   rates recommended based on initial
+         22       92      110    144      143            279        195      195     257
+         23       72       80    111       97            153        138      147     171   feedback from HPCA.
+Transactions   2029     2167    2337     2226          1265      1428     1245     1510
+             PARKING DATA
+2021: PSSM
+
+
+
+
+2022: PSSM
+ANNEXATION PETITION
+SOUTHEAST QUINN’S JUNCTION
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+ On October 15, 2021, Park City Municipal filed a petition to annex approximately
+1,236 acres in the Quinn’s Junction area (HWY 40 & SR 248) and to zone the area
+                           Recreation and Open Space:
+              SOUTHEAST QUINN’S JUNCTION
+                 A N N E X AT I O N P E T I T I O N
+   The petition includes property subject to the
+  Flagstaff Development Agreement (DA) which
+ outlines future uses like golf, equestrian, or other
+                recreational facilities.
+
+   Section 3.1 of the Flagstaff DA contemplates
+     annexing the Richardson Flat property
+                   into Park City.
+
+ The General Plan Quinn’s Junction Joint Planning
+Commission Principles developed between Summit
+  County and Park City identify future use of this
+area as recreation and open space, consistent with
+              the 1999 Flagstaff DA.
+             SOUTHEAST QUINN’S JUNCTION
+                A N N E X AT I O N P E T I T I O N
+
+
+
+The City leases 30 acres within the Richardson Flat
+ property. 650 parking spaces are for City use and
+ 100 parking spaces are reserved for the property
+   owner of the Montage Hotel and Empire Pass.
+
+    The lease allows for future recreation uses.
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+
+The petition includes the City-owned Clark Ranch
+ property. In 2014, the City Council approved a
+Real Estate Purchase Contract for the purchase of
+ Clark Ranch with Resort Communities Tax open
+                   space funds.
+
+ The purchase included plans for a conservation
+  easement and a potential for limited non-open
+                  space uses.
+      SOUTHEAST QUINN’S JUNCTION
+         A N N E X AT I O N P E T I T I O N
+
+   The General Plan designates the area proposed for annexation
+                     recreational open space.
+
+
+The annexation of Richardson Flat into Park City has been envisioned
+                    for more than two decades.
+
+
+Annexation of the Clark Ranch property brings City-owned property
+                       into City jurisdiction.
+  HIDEOUT’S ATTEMPTED 2020 ANNEXATION
+
+The petition does not overlap with Hideout’s attempted annexation. The image
+  below is taken from the Town of Hideout’s protest to the City’s annexation:
+   SOUTHEAST QUINN’S JUNCTION
+      A N N E X AT I O N P E T I T I O N
+
+ The City evaluates 15 criteria and an annexation agreement
+          when considering an annexation petition.
+
+    The criteria and analysis are outlined in the staff report.
+
+The presentation provides an overview of environmental quality,
+      services, the General Plan, and proposed zoning.
+         SOUTHEAST QUINN’S JUNCTION
+            A N N E X AT I O N P E T I T I O N
+
+  On April 27, 2022, the Planning Commission conducted a work session.
+
+On May 25, 2022, the Planning Commission conducted a public hearing and
+  unanimously forwarded a positive recommendation to the City Council.
+             SOUTHEAST QUINN’S JUNCTION
+                A N N E X AT I O N P E T I T I O N
+                               Environmental Quality
+
+  A portion of the Richardson Flat area is designated the Richardson Flat Tailings
+                      Impoundment – Operable Unit 1 (OU1).
+
+Some cleanup activities have been completed. For the long term, additional actions
+ include restrictions on future land and groundwater use and implementation of a
+                       final operations and maintenance plan.
+
+Annexation of this area into municipal boundaries does not alter any legal liability of
+              the City or of current, past, or future property owners.
+          SOUTHEAST QUINN’S JUNCTION
+             A N N E X AT I O N P E T I T I O N
+                                  Services
+
+  The area proposed to be annexed is already in the Park City Fire District,
+ Park City School District, and Snyderville Basin Water Reclamation District.
+
+  Annexation will not change solid waste or mosquito abatement services.
+
+Animal control services will continue to be provided by Summit County Animal
+     Control or Park City Public Safety based on a case-by-case basis.
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+                                    Services
+
+The City will provide police, snow removal, street maintenance, planning, zoning,
+              code enforcement, and trails and open space services.
+
+                 Future services may include transit and water.
+              SOUTHEAST QUINN’S JUNCTION
+                 A N N E X AT I O N P E T I T I O N
+                                         Police
+
+In coordination with the Summit County Sheriff, Park City Police currently patrols the
+   Richardson Flat parking lot. The City has cameras installed in the parking lot for
+            public safety. Park City Police will continue to patrol the area.
+
+If transit is expanded to the area, the level of service will likely increase, requiring a
+                              future budget amendment.
+
+  In 2019, the Planning Commission approved a Conditional Use Permit for Fire
+ Station #39 to be constructed on the Park City Medical Campus. Construction is
+   proposed to begin by 2025. A Police Substation is planned on the adjacent
+                                 City-owned lot.
+             SOUTHEAST QUINN’S JUNCTION
+                A N N E X AT I O N P E T I T I O N
+                     Snow Removal and Street Maintenance
+
+             UDOT provides snow removal for HWY 40 and SR 248.
+
+Richardson Flat Road is the only local road. A 2019 agreement between the County
+   and City states the City will take over snow removal at the time of annexation.
+
+    Upon annexation, Richardson Flat Road will become a Class C city street.
+    Public works will apply for Class C funds to help finance road maintenance.
+              SOUTHEAST QUINN’S JUNCTION
+                 A N N E X AT I O N P E T I T I O N
+                     Planning, Zoning, and Code Enforcement
+
+
+   Any future recreation facilities or transit hubs will trigger Planning Commission
+    review of a Conditional Use, subject to Recreation and Open Space Zoning.
+
+   Summit County already approved trails under construction on the Clark Ranch
+property. Upon annexation, future trail and trailhead construction and improvements
+     will require administrative staff-level review by the Planning and Building
+                                    Departments.
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+                                     Transit
+
+The Short-Range Transit Plan and Park City Forward – Long-Range Transportation
+ Plan, both in draft form and undergoing review for adoption, identify the Quinn’s
+         Junction area as an important area to improve local transit and
+                             multi-modal connectivity.
+
+Improvements are already contemplated and funding for expanded services will be
+                   evaluated as each project moves forward.
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+                                  General Plan
+
+                  The area proposed to be annexed is part of the
+              Quinn’s Junction Joint Planning Commission Principles
+  outlined in the General Plan, developed in coordination with Summit County.
+
+The General Plan identifies the area as recreational open space and envisions the
+           Richardson Flat area to be developed consistent with the
+    1999 Flagstaff Development Agreement, with future golf, equestrian, and
+                            other recreational facilities.
+            SOUTHEAST QUINN’S JUNCTION
+               A N N E X AT I O N P E T I T I O N
+                            Annexation Agreement
+
+   A draft annexation agreement is attached as Exhibit I, outlining flood plain
+management and preservation of environmentally sensitive lands, and consistency
+       with the Quinn’s Junction Joint Planning Commission Principles.
+
+ The City Council may find the circumstances of an annexation are such that the
+             conditions of an annexation agreement do not apply.
+           SOUTHEAST QUINN’S JUNCTION
+              A N N E X AT I O N P E T I T I O N
+   Staff recommends the City Council conduct a public hearing and consider
+                    approving Ordinance No. 2022-18.
+
+             The City Council may consider a motion stating that:
+
+• the area is already subject to the Flagstaff Development Agreement and open
+                           space acquisition restrictions;
+ • the Council determines that under the circumstances of the annexation, the
+    conditions in LMC Section 15-8-5 do not apply and no other agreement is
+                                  necessary; and
+          • the Council moves to approve Ordinance No. 2022-18.
+ Water Quality
+Program Update
+History of PC Water Quality
+  The Last 10-Years:
+Focus on Water Quality
+                  Our Approach
+•   Dedicated Water Quality and Treatment Division
+•   Highly qualified and engaged staff
+•   Understanding of risks, causes and solutions
+•   State-of-the-art treatment technologies
+•   Continuous monitoring everywhere
+•   Distribution system water quality management
+•   Regulatory partnerships, transparency, public education
+•   Source Water Protection
+•   UPDES compliance and watershed characterization
+    The Bottom Line
+ Park City Drinking Water continues to be of superior quality.
+We should all drink Park City water with confidence and pride.
+
+
+                     Body Content.
+                MIW Treatment
+• 2014 Utah Division of Water Quality issued a Stipulated Compliance
+  Order (SCO) and UPDES permits that require Park City as operator to
+  treat Judge and Spiro tunnels water and meet future permit limits
+• 2019 Amended SCO (ASCO)
+   • By January 2024: 100% of Judge Tunnel, a portion of Spiro Tunnel
+   • By January 2033: A larger portion Spiro Tunnel
+   • Permits require monitoring only with future metals limits in 2033
+   • Watershed characterization
+• 3Kings WTP on track to provide drinking water by summer 2023
+   • Will remove metals from tunnel waters and meet surface water
+      treatment requirements
+   • Thiriot springs blended into clearwell
+02
+Complex Water Treatment Plants
+                      Creekside WTP
+Quinns Junction WTP
+Continuous Monitoring Everywhere
+               • Established water quality goals for
+                 treatment plants & distribution system
+                   •   More stringent than regulations
+                   •   Alarms & shutdowns if water quality
+                       does not meet goals
+
+               • 5-distibution analyzers monitor water
+                 quality around-the-clock
+                   •   pH, turbidity, chlorine residual/ORP
+
+               • Quarterly distribution sampling at 13
+                 sites throughout system
+
+               • Daily chlorine residual monitoring
+
+               • Stream water characterization
+Distribution System Water Quality
+  Actively manage metals accumulation in distribution system
+      Advanced water main cleaning
+           Our own scientists and industry leaders demonstrated advanced water
+            main cleaning with ice pigging and foam swabbing is 100x more
+            effective than unidirectional flushing
+      Annual unidirectional flushing
+      Corrosion control
+      Tank cleaning
+   Successful Ice Pigging
+Contaminant                                         Prospector Dr Sample Results (mg/L)
+                               Ice Pigging            Ice Pigging        Post pigging flush   EPA Limits
+                           Residuals - 1st Pass   Residuals – 2nd Pass
+
+
+Arsenic                           1.91                   0.087                 0.001            0.010
+Lead                               110                   0.77                <0.0005            0.015
+                                                                                                           Prospector Dr 1st Pass
+Thallium                           131                   1.67                <0.0002            0.002
+
+
+
+
+Pipe Interior Before & After Ice Pigging
+
+
+                                                                                                           Prospector Dr 2nd Pass
+Looking Forward:
+Continued Focus on
+  Water Quality
+                              3Kings WTP
+
+
+
+
+On Track to Provide Drinking Water to the
+     Community by Summer 2023
+              EPA Lead & Copper Rule
+                           • 2021 rule revisions require physical inventory of service line
+                             material, both the City and Homeowner side of meter, by fall 2024
+                           • High level of confidence there are no lead service lines in Park City
+
+
+
+2022          Lead           Copper
+Testing       (parts per     (ppb)
+Underway      billion)
+EPA Action    15             1300
+Level
+40 homes,     <0.5-4.5       3.5-533
+multifamily
+residences
+Proactive, Voluntary Monitoring for PFAS
+                       Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)
+                        detected in groundwater wells
+                       Yesterday EPA issued updated Health Advisories
+                       Utah DDW: We are in the process of working to
+                        understand what the new advisory levels mean for Utah,
+                        and are committed to supporting water systems if in the
+                        future action is needed.
+                       Evaluating potential that fluorocarbon ski wax may be
+                        responsible for low-level PFAS concentrations
+                              Banned in advance of the 2022 Winter Olympics, which
+                               should considerably reduce their prevalence in
+                               mountain towns across the west
+                              Targeted public education campaign being considered
+                               regionally to limit further use and negative impacts on
+                               local environment
+                       Continuing to track regulatory activity, monitoring and
+                        gaining an understanding of treatment options and
+                        costs in case warranted at a future date
+Discussion and Questions
+9 Street Stairs
+ th
+  6-16-22 Discussion
+                  OLD TOWN STAIRS HISTORY
+• Very Unique – Park City platted by Developers from Michagan
+
+    • Didn’t understand the East – West Rights of Way ran up steep hills
+
+• The Miner’s built stairs in most of Old Town Rights of Ways to connect their
+  neighborhoods
+
+• 1982 & 1990 Main Street and Lower Park Avenue Redevelopment Agency (RDA)
+  Created
+    • RDA funds must be used within the Redevelopment Area.
+
+• Main Street RDA Old Town Stairs complete.
+
+• Lower Park Avenue RDA - 4 Blocks of City Rights of Way remain undeveloped
+
+    • 3 Sets on 9th Street – Park to Empire
+    • 1 Set on 10th Street – Empire to Lowell
+                          History - Continued
+•   Late 1980’s early 90’s Park City began systematic
+    program to reconstruct the dilapidated stairs from
+    the mining era
+•   The goal was to:
+     – Increase Walkability in Old Town
+     – Provide Winter Pedestrian Access to Residents
+        and Guests
+     – Reduce Auto Pedestrian Conflict
+History
+1995 Old Town Stairs Inventory
+GUIDING DOCUMENTS
+Old Town Stairs Retreads
+STAIRS COMPLETED TO DATE
+AREA OF LOW SERVICE
+CURRENT AREA OF REDUCED SERVICE
+REDUCED SERVICE AFTER PHASE 1
+           ~ 40%
+REDUCED SERVICE AFTER PHASE 2
+            ~ 7%
+    8th Street & Crescent Tram Issues
+•    Crescent Tram Walkway (ski-run) impassable in
+     winter
+•    Very Steep and Narrow
+•    Many Driveways
+•    Snow-Banks into Road – Slippery
+•    Unable to Install Stairs
+•    No crosswalks across Park Ave – midblock
+     crossing
+•    Pedestrian Auto Conflicts
+8th Street – Woodside to Norfolk
+8th Street – Woodside to Norfolk
+8th Street - Empire & Crescent
+ 9th Street Right of Ways &
+10th Street at Lowell-Empire
+
+
+                     • Not Accessible in Winter
+                     • Off street parking – back
+                       into intersection
+                     • 9th and Park Avenue
+                       intersection in need of ADA
+                       ramps and crosswalks
+9th Street – Woodside & Norfolk
+EXISTING STAIRS IN OLD TOWN
+               Public Information - input
+•   On-site In-person meeting May 4, 2022
+•   Zoom meeting the evening of May 4, 2022
+•   City Projects Public Open House on May 10,
+    2022
+* While public input has included support for all alternatives,
+Public Input favors constructing 9th and 10th St Stairs
+       Considerations
+•   Adjacent Neighbors –
+     – Stairway Connections
+     – Construction Mitigation
+                                                           Neighbors      Utilities    Wildlife
+     – Signage
+     – Landscaping
+     – No Additional Lighting
+•   Utilities – Coordination
+•   Wildlife – Allow space for wildlife                     Bicycles    Mitigation –   Other
+•   Bicycles – Provide bike rail or space for bike trail               Signage/Lands
+                                                                           caping
+•   Other Considerations – Operations and
+    Maintenance…
+  CITYTOUR 2020
+
+
+
+TWIN FALLS, BOISE, BELLEVUE, HAILEY
+      KETCHEM & SUN VALLEY
+TWIN FALLS
+Boomers vs. Stickers
+Value-added Agriculture
+BOISE
+Public Art:
+• Manhole covers project – tie back to our town’s history
+• Utility boxes painted or wrapped
+• More funding for public art & refresh /More progressive art needed
+• Library/CCPC – need more color & fun
+• Create “Freak Alley” where Banksy is
+  Anne Frank Memorial
+Connecting the community
+   to the global good
+BELLEVUE
+ HUNGER
+COALITION
+CHOMPER!
+Bloom/Hunger Coalition: Bellevue
+• Collective space for mult-iservices/hub
+• Community gathering place/Inclusive
+• Collaborative/working together/not duplicating
+  efforts/full service
+• Community Kitchen
+• Chompy: community composter
+• Healthy can be affordable
+• Entire place was an art center: Fun & colorful
+HAILEY
+ Keep it simple;
+Make do with less
+KETCHUM
+Limelight Hotel
+Culinary Institute
+Culinary Institute:
+• Program with the high school to support local employment/job
+  training/interns
+• Utilize extension campuses and create a pipeline for interns to
+  feed non-profits via PC Community/Prostart program
+Affordable Housing:
+• Deed restrictions
+• Lease only to Locals program; Prioritize essential workers
+• Use private philanthropy/ Tiered pricing and nonprofit
+  partner/Comprehensive/holistic collaboration
+• Density: we need to take advantage of tax credit programs
+• Get community alignment around affordable housing; we keep putting it off to
+  SLC, Kamas, Heber, etc.
+• Need for a regional housing authority
+• ARCH Community Housing Trust partnership with St. Luke’s Health System/St.
+  Luke’s Wood River Foundation for employee housing
+• Partnership with resort & government/Sun Valley: partnerships between
+  hospital, schools, and affordable housing
+• Housing in Idaho is so far ahead of us: we don’t even have anyone who really
+  understands all the programs.
+Ketchum New City Hall
+Keep it Sunny Campaign:
+• Keep It Sunny Campaign in Sun Valley
+• Clever & witty
+• Bend, Oregon has a campaign for newcomers to learn what the local
+  culture is about, and people pay to go to this in Bend.
+• We need to teach people about our discourse: unite the community
+• Chamber-led & Community-wide
+Wood River Trail: Community Spine
+SUN VALLEY
+FOREST HEALTH: $10K / ACRE
+       CITYTOUR TAKE-AWAYS
+•Transportation District: City & County
+•Enhanced Public Art
+•Hunger Coalition: McPolin Farm?
+•Sustainability Expo: Outdoor Retailers
+•Workforce Housing: Philanthropy & Public
+•Governments ‘land bank’ for housing
+•Rail-Trail as Community-Building Spine
+•Value-added Agriculture
+• Culinary Institute: Hospitality Training Center
+• Universities: Increased role for higher education
+• Senior Housing / Veterans
+• Quigley Canyon: Clark Ranch: combining
+  affordable housing open space & bike park
+• Ketchum: simple, low-cost, do-it-yourself projects,
+  using city staff & volunteers
+• Forest Preservation: Sun Valley; $10K/acre
+• Ketchum City Hall vs Fire Station: too understated
+• Internal CityTour & Leadership 101
+June 8, 2022
+
+
+Mayor Nann Worel
+City Manager Matt Dias
+Park City Municipal Corporation
+PO Box 1480
+Park City, UT 84060
+
+Dear Mayor Worel & Manager Dias,
+
+As you know, the HPCA is a robust organization that supports the community of Park City, and the historic
+district businesses. It is our mission to focus on our partnership with the Park City Municipal, local businesses,
+and the community, in maintaining the vibrant and dynamic experience our locals and visitors share every year.
+
+The purpose for our letter is to request a portion of the parking revenue. Collectively, we all benefit from the
+revenue generated from parking. Up until recently, the HPCA had received a portion of the revenue, which
+helps maintain and support our organizations' goals. As you know, the HPCA supports the businesses in the
+historic district in a variety of ways. Listed below are various ways the HPCA strives to support these goals.
+
+   •   Develop and manage advertising programs to promote the organization as a destination. As well as create
+       and execute marketing campaigns to include, but not limited to spring, fall, and early holiday shoulder
+       seasons and seasonal event campaigns.
+   •   Public Relations efforts including community relations, updating and implementation of comprehensive
+       media database development, local, regional, and national pitching, press release generation and
+       distribution.
+   •   Coordinate and manage trash and recycling services for the Business Improvement District (BID) and
+       work with City staff to evaluate the program,
+   •   Coordinate, liaise, and negotiate with the City on issues such as code changes, infrastructure
+       improvements, parking regulations, filming, events on Main Street, etc.
+   •   Maintain and build relationships with all community associations such PCARA, PCALA, and Chamber.
+   •   Provide communication to all the Historic Park City merchants through various channels (i.e.,
+       newsletter, emails, phone calls, and door to door outreach as needed), including local event information
+       that may impact the Historic Park City area
+
+
+                 Historic Park City Alliance | PO Box 1348 Park City, UT 84060 | www.historicparkcityutah.com
+Since 2012 the City has directed a small portion of revenue the parking revenue funds to the HPCA to offset
+some of the services outlined above. However, this agreement ended in 2021. Loosing these funds has created a
+huge shortfall budget for the coming year and in return will prevent us from providing the support businesses have
+they have come to lean on. This support is more critical than ever as we manage the ever-changing landscape and
+growth of our community. Keeping in mind that the businesses are the driving factor in creating parking revenues,
+we believe that have a portion should be directed to the HPCA. The HPCA respectfully requests the City
+consider directing a percentage of parking revenue annually to offset operational costs as outlined above.
+
+We look forward to having discussions on how we can create a partnership where all are benefitting from the
+parking revenue being generated.
+
+Respectfully submitted on behalf of the HPCA Board of Directors.
+
+Rhonda Sideris
+Rhonda Sideris
+HPCA Board President
+
+
+
+
+                                                                                                                 2
+                                     June 16, 2022
+
+
+
+                                       VIA E-MAIL
+
+
+
+
+           Nann Worel                                             Max Doilney
+       Mayor, City Council                                      Council Member
+            Park City                                               Park City
+       445 Marsac Avenue                                       445 Marsac Avenue
+       Park City, UT 84060                                     Park City, UT 84060
+ Email: nann.worel@parkcity.org                         Email: max.doilney@parkcity.org
+
+          Jeremy Rubell                                           Ryan Dickey
+         Council Member                                         Council Member
+             Park City                                              Park City
+        445 Marsac Avenue                                     445 Marsac Avenue
+        Park City, UT 84060                                   Park City, UT 84060
+Email: Jeremy.rubell@parkcity.org                       Email: ryan.dickey@parkcity.org
+
+          Becca Gerber                                              Tana Toly
+         Council Member                                          Council Member
+            Park City                                               Park City
+       445 Marsac Avenue                                      445 Marsac Avenue
+       Park City, UT 84060                                    Park City, UT 84060
+Email: becca.gerber@parkcity.org                          Email: tana.toly@parkcity.org
+
+
+
+
+                              9350 South 150 East Suite 900
+                                   Sandy, Utah 84070
+                                     (801) 563-4100
+Re: Park City’s Southeast Quinn’s Annexation
+
+
+
+Honorable Mayor and City Council Members:
+
+
+
+        LHM DEV RIH, LLC, with its affiliate, HCAD LLC, is the owner of approximately 626 acres of land within
+the proposed annexation. We have no objection to Park City annexing those portions of land owned by Park
+City within the proposed annexation. In fact, we support the city annexing its own land.
+
+       We do not agree, however, with the annexation of our property, which constitutes a majority of the real
+property sought to be annexed.
+
+      First, the city has not sought nor obtained our consent. In fact, the purported consent for our property
+comes from a page signed by a city official (not any landowner of the 626 acres).
+
+       Second, no predecessor, including United Park City Mines (UPCM), has consented to the annexation.
+There was apparently an offer of annexation made some 23 years ago by UPCM; however, rather than obtain a
+written signature from UPCM, as required by law, Park City has created an unsupported argument that a 23-
+year-old offer to annex some portion of land entitles the city now to annex all land that was once owned by
+UPCM in the area.
+
+      The signature requirement is simple, did a landowner sign the petition to annex or not? Regarding the
+proposed annexation, Park City did not obtained a signed petition from us or the prior landowner.
+
+       Third, while there is litigation pending between the HCAD (the affiliate owning 22 of the acres included
+within the annexation) and Park City, no court nor county boundary commission has weighed in or evaluated
+whether Park City has obtained the required statutory signature for this annexation. Not one of these decision-
+makers has been presented with or offered an opinion on these key facts.
+
+        In short, if Park City proceeds with the annexation of RIH’s and HCAD’s property (excluding Park City’s
+land), Park City will be doing so without having complied with the plain language of the Utah annexation statute,
+while also ignoring the desires of the landowner, and holding itself out to the state and the public as exercising
+rights beyond its authority.
+
+
+
+
+                                           9350 South 150 East Suite 900
+                                                Sandy, Utah 84070
+                                                  (801) 563-4100
+        We respectfully request that any action taken as it relates to this annexation relate only to Park City’s
+owned lands, and not our property. As a final note, we are not opposed to negotiating an annexation into Park
+City in the future. However, we would intend to do so as the law contemplates, through a negotiation and a
+signed consent complying with the law and benefiting both parties.
+
+
+
+
+                                                          Sincerely,
+
+
+
+                                                         LHM DEV RIH, LLC
+
+
+cc: Margaret Plane: margaret.plane@parkcity.org
+    Matt Dias: matt.dias@parkcity.org
+    Michelle Kellogg: michelle.kellogg@parkcity.org
+
+
+
+
+                                          9350 South 150 East Suite 900
+                                               Sandy, Utah 84070
+                                                 (801) 563-4100
+

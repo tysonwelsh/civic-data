@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "date": "2025-06-11",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=8636926&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-06-09/2025-06-11_planning-commission-meeting.md",
+    "present": [
+      "Landon Kraczek",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Lilah Rosenfield",
+      "Brian Scott"
+    ],
+    "absent": [
+      "Aimee Burrows",
+      "Jeffrey Barrett",
+      "Richard Leverett",
+      "Mike Vela",
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Lilah Rosenfield",
+      "seconder": "Mike Christensen",
+      "result": "5:0 Pass",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Mike Christensen",
+        "Brian Scott",
+        "Lilah Rosenfield",
+        "Landon Kraczek"
+      ],
+      "nay": [],
+      "abstain": [
+        "Lilah Rosenfield"
+      ],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

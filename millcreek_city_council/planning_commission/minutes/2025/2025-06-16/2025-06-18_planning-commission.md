@@ -1,0 +1,188 @@
+# Millcreek Planning Commission — 2025-06-18
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06182025-934
+> Meeting date: 2025-06-18
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2025-06-18
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06182025-934
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                            Minutes               of the
+                                                                            Millcreek         Planning               Commission
+                                                                                             June         18,      2025
+                                                                                                   5:00      p.m.
+                                                                                          Regular            Meeting
+
+
+ The Planning             Cornrnission             of Millcreek,           Utah,     met in a regular               public       meeting        on Wednesday,
+ June 18, 2025,             at City      Hall,      located        at 1330      E. Chambers           Avenue,               Millcreek,       Utah      84106.       The
+ meeting        was conducted                 electronically          and live       streamed        via the City's              website        with     an option         for
+ online       public      cornrnent.
+
+
+ PRESENT:
+
+
+ Commissioners                                                                               City      Staff
+ Shawn        LaMar,        Chair                                                            Elyse        Sullivan,           City      Recorder
+ Victoria       Reid,      Vice     Chair                                                    Sean Murray,                   Plaru'ier
+ Steven       Anderson                                                                       Carlos         Estudillo,          Planner
+ Christian       Larsen                                                                      Jake Green,              Development               Review        Specialist
+Nils      Per Lofgren
+ Jacob       Richardson
+-Diane       Soule
+Dwayne          Vance       (arrived at 5:08pm)
+Ian Wright             (absent)
+
+
+Attendees:             Brandon         Fry,      Judith     Goff,     Patrick      Goff
+
+
+REGULAR                 MEETING                - 5:00       p.m.
+TIME          COMMENCED                       - 5:04       p.m.
+
+
+Chair        LaMar       called     the meeting             to order       and briefly       described             the duties           of the Planning
+Commission.
+
+
+1.     Public     Hearing
+       1.1    Consideration              of CU-25-002/SD-25-006,                          Request           for     a Conditional             Use Permit             and     a
+       Major         Subdivision              to Accommodate                 a 14-Unit        Owner              Occupied            Residential
+       Development                Location:          4317         S 700 E Applicant:                Brandon            Fry       Planner:           Carlos    Estudillo
+       Carlos      Estudillo        said the project,               previously         reviewed        during         a rezone           process,      was approved
+       for a zone         change       from       R-1-8       (single-family)             to RM      (multi-family               residential)          in April.     The
+       development,            which          retains      the same layout             and design          presented            during      the rezoning,           spans
+       0,93 acres         and includes             a mix      of housing         types:     an eight-unit             condominium               building        accessed
+       from     700 East,         and six three-bedroom                     townhomes              (in two        triplex      buildings)        accessed          from
+       730 East. All           units     are under          the 35-foot         height     limit     and conform                to prescribed           setbacks.
+
+
+       The condominiums                   will     include         a mix    of one-,       two-,     and three-bedroom                     units.      Each
+       townhome           features       a two-car           garage.       Parking       provisions             include       12 enclosed            spaces    in the
+       townhomes,            20 stalls         within      the condominium                garage       (15 for residents                  and 5 for guest/ADA),
+       and three         additional       guest         stalls.    The     site plan      incorporates             durable,          low-maintenance
+Millcreek        Planning           Commission            Meeting       Minutes                     18 June         2025         Page 2 of 3
+
+
+
+    materials       and adheres to specifications                     outlined      in the development               agreement,            including
+    required       frontage          improvements           (curb,    gutter,    sidewalk,         landscaping,         and utilities)            and a 10-
+    foot public          utility     easement,       as well    as a six-foot        perimeter          fence.
+
+
+    Eight       of the 14 units          (the condominiums)              are subject        to a restrictive         use agreement                to
+    promote        owner           occupancy;       a condition        tied to the original             zone change.         A subdivision             plat
+    has been submitted                  and will    undergo       technical       review.      Staff found          the project           to be
+    compliant           with       the RM zoning          and development            agreement           and recommends                approval        with
+    no additional           conditions.         The Millcreek           Community           Council        supported         the application           but
+    recommended                 additional      considerations          due to anticipated              impacts     on 730 East. These
+    include       prioritizing          730 East in the city's           sidewalk         master     plan, initiating            a traffic    study,      and
+    evaluating          options       such as sidewalk          installation,       speed control           measures,         and possible
+    parking       restrictions          along    730 East. Estudillo             presented      the proposed           site plan and building
+    elevations          to the commission.
+
+
+    Commissioner                Vance     asked if sidewalk             was already        installed       on 730 E. Estudillo                said there
+    was some on the eastern                     side but not much           on the western              side. Chair     LaMar         asked if the
+    traffic     study should            be a condition         of approval        [from     community             council     recommendation].
+    Estudillo       said 730 E. is a small                street with      a lack of improvements,                  so traffic       could become
+    an issue, though                the city did not deem the impact                 to be sufficient             enough      to warrant            a study.
+    The neighborhood                  is looking        for potential      safety    solutions.         Staff could         look    at the Sidewalk
+    and Trails          Master       Plan to determine          the priority        of 730 E to have sidewalks.                      Chair        LaMar
+    asked about a sidewalk                    process     for regular      roads with         traffic     issues. Estudillo            said the process
+    would       start with          the cornrnunity        council.      This    application        is too far along             for code to require
+    a traffic     study.
+
+
+    Brandon        Fry said the development                    agreement         laid out the intricacies              of the development.
+
+
+    Chair       LaMar          opened     the public       hearing.
+
+
+    Judith      Goff,      730 E, appreciated             the planning          cornrnission        and commended                  the developer          for
+    working        with        the neighborhood.            She said there are a lot of children                    on the street, the street is
+    narrow,       there are no streetlights,                and four houses          do not have sidewalk,                  so the kids walk              in
+    the street. She expressed                   concern      for safety.
+
+
+    Chair       LaMar          closed    the public       hearing.
+
+
+    Chair       LaMar       brought       up the Sidewalk             and Trails     Master        Plan. Commissioner                  Soule said
+    anyone       could make             a request       for the master      plan.    Commissioner                Richardson          encouraged           Ms.
+    Goff      to reach out to the Millcreek                  Community            Council      for sidewalk           priority       for 730 E.
+    Commissioner                Vance     asked what the conditional                 use was that was being                   reviewed.           Estudillo
+    said a multifamily                use is a conditional           use in the zone. Commissioner                      Reid pointed              out that
+    there were streetlights                  planned     on the edge of this property                   on 730 E.
+
+
+Commissioner              Soule       moved      that     the Planning          Commission              approve       application            file
+number        CU-25-002/SD-25-006,                      as presented,        based     on the findings              of the staff           report.
+Commissioner              Anderson           seconded.       Chair      LaMar        called      for the vote.          Commissioner
+Anderson         voted      yes, Chair          LaMar       voted      yes, Commissioner                 Larsen       voted        yes,
+Millcreek      Planning         Commission            Meeting           Minutes                    18 June          2025      Page 3 of 3
+
+
+
+Commissioner           Lofgren          voted      yes, Commissioner               Reid      voted     yes, Commissioner               Richardson
+voted    yes, Commissioner                 Soule    voted      yes, and Commissioner                    Vance         voted    yes. The motion
+passed      unanimously.
+
+
+2. Commission            Business
+    2.1 Approval            of April       16, 2025 Regular              Meeting         Minutes
+
+
+Commissioner           Lofgren          moved       to approve          the meeting          minutes         from     the April       Planning
+Commission           meeting.        Commissioner             Reid      seconded.         Chair      LalMar         called    for the vote.
+Commissioner           Anderson            voted    yes, Chair          LaMar        abstained,        Commissioner               Larsen     voted
+yes, Commissioner               Lofgren       voted     yes, Commissioner                 Reid       voted    yes, Commissioner
+Richardson          voted     yes, Commissioner                Soule      voted    yes, and Commissioner                      Vance     voted    yes.
+
+The motion          passed      unanimously
+
+
+    2.2 Updates          from       the Planning           and Zoning          Director
+    Sean Murray           noted the application              presented        was based on the requirements                     of the old code
+    [new code adopted               May     19, 2025],       and the new code is working                      well.    Murray      mentioned
+    there would        be discussion            on the Meadowbrook                 Station     Area Plan in the July meeting.
+
+
+3. Calendar         of Upcoming            Meetings
+    *   City   Council       Mtg.    6/23/25       7:00 p.m.
+    *   Millcreek      Community            Council        Mtg.,    7/1/25,     6:30 p.m.
+    *   Canyon      Rim      Citizens      Association        Mtg.,      7/2/25,     7:00 p.m.
+    *   East Mill     Creek      Community            Council       Mtg.,     7/3/25,     6:30 p.m.
+    *   Historic     Preservation          Commission           Mtg.,     7/10/25,       6:00 p.m.
+    *   City   Council       Mtg.    7/14/25       7:00 p.m.
+    @ Planning        Commission            Mtg.    7/16/25,       5:00 p.m.
+
+
+ADJOURNED:                  Commissioner            Vance       moved         to adjourn          the meeting          at 5:43 p.m.
+Commissioner           LaMar         seconded.        Chair        LaMar        called    for the vote.         Commissioner               Anderson
+voted    yes, Chair         LaMar       voted      yes, Commissioner               Larsen         voted      yes, Commissioner              Lofgren
+voted    yes, Commissioner                Reid     voted     yes, Commissioner                Richardson              voted    yes,
+Commissioner           Soule     voted      yes, and Commissioner                    Vance        voted      yes. The motion            passed
+unanimously.
+
+
+
+
+                                ypuovbn=
+                                      €                     Shawn LaMar,
+                                                                                  l':s4]inat==(xtlu"-
+                                                                                     Chair
+
+
+
+                                 Attest:
+                                                           Elf,                    Recorder

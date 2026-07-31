@@ -1,0 +1,93 @@
+{
+ "date": "2023-07-11",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2023/2023-07-10/2023-07-11_planning-commission.md",
+ "present": [
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Marc McElreath",
+  "Lynette Wendel",
+  "Gordon Willardson",
+  "Don Russell",
+  "David Wright",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell — | move for approval of the Consent Agenda consisting of the Minutes for June 13, 2023",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "kind": "procedural",
+   "mover": "Don Russell",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "Don Russell",
+    "David Wright",
+    "Don Quigley",
+    "Marc McElreath",
+    "Gordon Willardson"
+   ],
+   "nay": [],
+   "abstain": [
+    "Cindy Wilkey"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell - | move that we approve File #16C23/CUP-000339-2023, a conditional use and site plan amendment to File #42C14, redevelopment of the Legacy Plaza shopping center at approximately 1758 West 5400 South, in Taylorsville, Utah subject to the following conditions to eliminate angle parking, subject to updating the audio box requirements with new tenants and also work with staff on traffic flow circulation. All this is subject to the Findings and Conditions outlined in the Staff Report. Added by second motion: Commissioner Russell - Add that the developer will work with Staff to",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "Don Russell",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "16C23",
+    "42C14",
+    "CUP-000339-2023"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

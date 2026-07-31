@@ -1,0 +1,68 @@
+{
+  "contributions": [
+    {"date": "11/29/23", "name": "John Shelburne", "amount": "$200.00", "in_kind": false},
+    {"date": "10/29/2023", "name": "Robert Garner", "amount": "$500.00", "in_kind": false},
+    {"date": "11/13/23", "name": "Doug Durbano", "amount": "$500.00", "in_kind": false},
+    {"date": null, "name": "Chris Barragan", "amount": "$30.00", "in_kind": true},
+    {"date": "9/25/2023", "name": "Ed & Cindy Simone", "amount": "$200.00", "in_kind": false},
+    {"date": "9/26/2023", "name": "David Deis", "amount": "$250.00", "in_kind": false},
+    {"date": "9/27/203", "name": "NWAR PAC", "amount": "$1,000.00", "in_kind": false},
+    {"date": "9/27/2023", "name": "Thaine Fischer", "amount": "$500.00", "in_kind": false},
+    {"date": "10/2/2023", "name": "Rich Petersen", "amount": "$1,000.00", "in_kind": false},
+    {"date": "10/5/2023", "name": "ANDREW MCCRADY", "amount": "$250.00", "in_kind": false},
+    {"date": "10/10/2023", "name": "Curt Geiger", "amount": "$500.00", "in_kind": false},
+    {"date": "10/11/2023", "name": "Lew Wheelwright", "amount": "$200.00", "in_kind": false},
+    {"date": "10/13/2023", "name": "Adam Speth", "amount": "$500.00", "in_kind": false},
+    {"date": "10/13/2023", "name": "Equality Utah PAC", "amount": "$500.00", "in_kind": false},
+    {"date": "10/13/2023", "name": "Jase Reyneveld", "amount": "$500.00", "in_kind": false},
+    {"date": "10/15/2023", "name": "Wasatch Industries", "amount": "$1,500.00", "in_kind": false},
+    {"date": "10/23/2023", "name": "Amy Wicks", "amount": "$25.00", "in_kind": false},
+    {"date": "10/25/2023", "name": "David Wallin", "amount": "$65.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/16/2023", "recipient": "Advantage Utah", "purpose": "Marketing", "amount": "$565.63", "in_kind": false},
+    {"date": "11/18/2023", "recipient": "Facebook", "purpose": "Marketing", "amount": "$900.00", "in_kind": false},
+    {"date": "11/18/2023", "recipient": "Advantage Utah", "purpose": "Marketig", "amount": "$2,439.65", "in_kind": false},
+    {"date": "11/20/2023", "recipient": "Ogden Support", "purpose": "Marketing", "amount": "$120.00", "in_kind": false},
+    {"date": "11/24/2023", "recipient": "CallHub", "purpose": "Marketing", "amount": "$75.00", "in_kind": false},
+    {"date": "12/2/2023", "recipient": "Facebook", "purpose": "Marketing", "amount": "$296.56", "in_kind": false},
+    {"date": "10/27/2023", "recipient": "Advantage Utah", "purpose": "Marketing", "amount": "$1,058.60", "in_kind": false},
+    {"date": "10/30/2023", "recipient": "Advantage Utah", "purpose": "Marketig", "amount": "$739.27", "in_kind": false},
+    {"date": "10/31/2023", "recipient": "Advantage Utah", "purpose": "Marketing", "amount": "$688.34", "in_kind": false},
+    {"date": "10/31/2023", "recipient": "Advantage Utah", "purpose": "Marketing", "amount": "$788.16", "in_kind": false},
+    {"date": "11/2/2023", "recipient": "Facebook", "purpose": "Marketing", "amount": "$453.40", "in_kind": false},
+    {"date": "11/4/2023", "recipient": "CallHub", "purpose": "Marketing", "amount": "$250.00", "in_kind": false},
+    {"date": "11/6/2023", "recipient": "Protime Sports Inc", "purpose": "Marketing", "amount": "$144.81", "in_kind": false},
+    {"date": "11/9/2023", "recipient": "Facebook", "purpose": "Marketing", "amount": "$750.00", "in_kind": false}
+  ],
+  "contribution_totals": ["$200.00", "$1,000.00", "$6,990.00"],
+  "expenditure_totals": ["$4,396.84", "$4,872.58"],
+  "cover_totals": {
+    "p2_summary_dec21_period": {
+      "balance_carried_forward": "7,595.49",
+      "contributions_50_or_less": "0.00",
+      "contributions_over_50": "200.00",
+      "total_contributions": "200.00",
+      "total_expenditures": "4,396.84",
+      "ending_balance": "3,398.65"
+    },
+    "p6_summary_nov14_period": {
+      "balance_carried_forward": "11,468.07",
+      "contributions_50_or_less": "0.00",
+      "contributions_over_50": "1000.00",
+      "total_contributions": "1,000.00",
+      "total_expenditures": "4872.58",
+      "ending_balance": "7,595.49"
+    },
+    "p10_summary_oct24_period": {
+      "balance_carried_forward": "4840.57",
+      "contributions_50_or_less": "55.00",
+      "number_of_contributors_50_or_less": "Twelve (2)",
+      "contributions_over_50": "6,965.00",
+      "total_contributions": "6,990.00",
+      "total_expenditures": "92.50",
+      "ending_balance": "11,738.07"
+    }
+  },
+  "notes": "Pages 1-11 of 22 (Steven Van Wagoner, For Ogden committee, District 4). The combined PDF stacks three separate filings newest-first; this range holds THREE complete reporting-period sub-filings' front matter plus schedules: (A) Dec 21, 2023 period - cover p1, summary p2, contributions schedule p3 (1 row, printed 'Total Contributions November 14 - Dec 21, 2023' = $200.00), expenditures schedule p4 (6 rows, printed 'Total Expenses November 15 -Dec 21, 2023' = $4,396.84). (B) Nov 14, 2023 period - cover p5, summary p6, contributions p7 (2 rows, 'Total Contributions October 25 - November 14, 2023' = $1,000.00), expenditures p8 (8 rows, 'Total Expenses October 25 - November 14, 2023' = $4,872.58). (C) Oct 24, 2023 period - cover p9, summary p10, contributions p11 (15 rows, 'Total Contributions October 24, 2023' = $6,990.00). Page 11 ENDS the range MID-FILING: the Oct 24 period's expenditures schedule (backing its $92.50 summary line 5) falls on p12+, outside this range. Verbatim typos preserved: expenditure purpose 'Marketig' twice (11/18/2023 and 10/30/2023); contribution date '9/27/203' (NWAR PAC); p10 summary contributor count printed 'Twelve (2)'. Chris Barragan row (p11) prints NO date and is VALUE IN KIND ('Used Sign Posts', $30.00) -> in_kind true. Last p11 row is dated 10/25/2023 despite the schedule's Oct 24 label (as printed). Contribution purposes not in schema, recorded here: Shelburne/Durbano/NWAR PAC/Fischer/Petersen/Wheelwright/Speth/Equality Utah PAC/Wasatch Industries = 'FOR OGDEN'/'For Ogden'; Garner/Simone/Deis/MCCRADY/Geiger/Reyneveld/Wicks/Wallin = 'Voter Donation'; Barragan = 'Used Sign Posts'. Payment types: mostly CC; CHECK for Simone, NWAR PAC, Petersen, Geiger, Equality Utah PAC, Wasatch Industries; one CASH expenditure (Ogden Support 11/20/2023, address line reads 'Youth Volunteer Support'). Amounts transcribed verbatim including '$' and thousands commas. All pages cleanly legible; no illegible cells."
+}

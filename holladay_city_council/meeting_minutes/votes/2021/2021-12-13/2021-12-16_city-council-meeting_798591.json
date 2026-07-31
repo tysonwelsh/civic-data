@@ -1,0 +1,53 @@
+{
+ "date": "2021-12-16",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/798591.pdf",
+ "path": "minutes/2021/2021-12-13/2021-12-16_city-council-meeting_798591.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Petersen",
+   "seconder": "Fotheringham",
+   "motion": "adopt Resolutin 2021-39",
+   "motion_type": "Other",
+   "result": "Resolution 2021-39 was adopted unanimously.",
+   "names_recorded": true,
+   "mayor_voted": false,
+   "votes": [
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Petersen",
+   "seconder": "Fotheringham",
+   "motion": "adjourn",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

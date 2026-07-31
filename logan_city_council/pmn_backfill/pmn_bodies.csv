@@ -1,0 +1,22 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+189,494,Municipal Council,yes,meeting_minutes,,pm4,2020-01-01,Revize repo is a complete superset (0 net-new); notice date != minutes date — always verify inside the PDF
+189,487,Planning Commission,yes,planning_commission,,pm4,2020-01-01,PMN stops attaching PC minutes after 2021; repo is superset
+189,495,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,RDA convenes as a same-night council recess (own slug redevelopment-agency-meeting in meeting_minutes)
+189,489,Board of Adjustments,no,,,,,no repo minutes layer to diff — out of scope
+189,490,Land Use Appeal Board,no,,,,,no repo minutes layer — out of scope
+189,488,Historic Preservation Committee,no,,,,,no repo minutes layer — out of scope
+189,492,Civil Service Commission,no,,,,,no repo minutes layer — out of scope
+189,491,Construction Board of Appeals,no,,,,,no repo minutes layer — out of scope
+189,485,Parks & Recreation,no,,,,,advisory board — out of scope
+189,486,Light & Power,no,,,,,advisory board — out of scope
+189,493,Forestry,no,,,,,advisory board — out of scope
+189,484,Library,no,,,,,advisory board — out of scope
+189,496,Fine Arts,no,,,,,advisory board — out of scope
+189,497,Neighborhood Council,no,,,,,advisory board — out of scope
+189,3473,Citizens Advisory,no,,,,,advisory board — out of scope
+189,2187,Renewable Energy & Sustainability,no,,,,,advisory board — out of scope
+189,8649,Solid Waste,no,,,,,advisory board — out of scope
+189,5307,Regional Wastewater Rate,no,,,,,advisory board — out of scope
+189,9353,Water/Wastewater Dept,no,,,,,advisory board — out of scope
+189,1410,Golf,no,,,,,advisory board — out of scope
+189,1409,Zoo,no,,,,,advisory board — out of scope

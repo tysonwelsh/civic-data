@@ -1,0 +1,493 @@
+# Riverton Planning Commission Meeting — 2025-08-14
+> Source: https://www.utah.gov/pmn/files/1317007.pdf
+> Meeting date: 2025-08-14
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/1015409.html
+> Format: text
+
+Approved: PC 8.28.25
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                 AUGUST 14, 2025
+
+The Riverton City Planning Commission convened at approximately 6:30 PM in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Gary Cannon                                      Tim Prestwich, City Planner
+Monique Beck                                     Lisa Halversen, City Planner
+Shelly Cluff                                     Ryan Carter, City Attorney
+Evan Matheson
+Darren Park
+Chris Knudsen, Alternate
+
+1.            CALL TO ORDER/ROLL CALL
+
+Chair Darren Park called the meeting to order at 6:30 PM.
+
+Commissioner Knudsen led the Pledge of Allegiance.
+
+2.     PUBLIC HEARINGS
+
+       A.     “STRONGWALL, LLC”, PLZ-25-2033, AN APPLICATION FOR A
+              CONDITIONAL USE PERMIT TO HAVE A HOME OFFICE LOCATED AT
+              2659 WEST 11780 SOUTH, INCLUDING TWO WORK TRUCKS TO BE
+              STORED IN THE SIDE YARD BEHIND THE FENCE. APPLICANT - JEFF
+              AUSTIN.
+
+Ms. Halversen, planner, presented the Staff Report and stated indicated that the application
+was for a home office for Strongwall, LLC, which is a footings and foundations company.
+The subject property is 0.27 acres in size and is zoned R-4, as are the surrounding
+properties. It is located north of 11800 South in the Midas Crossing Subdivision. The house
+is a rambler with a basement and an attached three-car garage.
+
+In addition to the home office, the applicant requested approval to store two work vehicles
+behind a screened gate. No customers, deliveries, or employees will visit the home, but the
+applicant’s two sons live in the home and work in the business. A Conditional Use Permit
+(“CUP”) was required because there will be business vehicles on the property. The applicant
+drives one vehicle and his sons drive the second. They will be stored behind a fence and
+gate as required by City Code.
+
+Photographs of the subject property and work vehicles were displayed as well as the Site
+Plan indicating that the office will be on the left side of the house and occupy less than 25%
+of the main floor. The business rents commercial space in West Jordan, where all
+employees work and all equipment is stored. Staff determined that the work vehicles will be
+Riverton City Planning Commission Meeting                                                2
+August 14, 2025
+
+
+appropriately screened in compliance with Riverton City Code §18.190.060 and
+recommended approval of the CUP.
+
+Notices were sent to all property owners within 300 feet of the subject property and posted
+on the City’s website. One comment was received in support of the request. Three phone
+calls were received from members of the Midas Crossing Homeowners Association (“HOA”)
+who expressed concerns about increased traffic and maintaining the residential appearance
+of the neighborhood. After Ms. Halversen explained the details of the application, the
+citizens were no longer opposed to the request.
+
+Commissioner Cluff asked if it was fair to require a CUP for the work vehicles when
+employees who park company vehicles at their homes are not subject to that requirement.
+Ms. Halversen clarified that the vehicles are one-ton trucks, and as such Staff concluded
+that the Planning Commission should review the application. Chair Park agreed that the
+requirement may seem unfair but noted that it had been in City Code for approximately 15
+years and the City Council had not chosen to change it.
+
+Commissioner Cannon stated that many home businesses do not apply for a business
+license, and this business had chosen to follow the law. Chair Park added that the City
+Council eliminated business licensing fees in order to encourage business in the City. The
+applicant now understands the rules and would not need to come back before the Planning
+Commission when their business license is renewed in the future.
+
+The applicant, Jeff Austin, stated that the business has been in operation for 15 years and
+was recently relocated from Murray. All trailers and forms are stored on a lot in West Jordan,
+and he handles administrative tasks at his home office. The flatbed work trucks will be
+parked behind the fence, and there will be no employees or deliveries at his home. In
+response to a question raised by Chair Park, Mr. Austin stated that the HOA had not
+expressed any concern about the vehicles, and he did not anticipate any problems with
+abiding by the City’s conditions of approval.
+
+In response to a question from Commissioner Matheson, Mr. Austin clarified that the
+vehicles were in the driveway at the time the photograph was taken because he was moving
+his mother’s recreational vehicle (“RV”) into his backyard.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE PLZ-25-
+2033, “Strongwall LLC”, at 2659 West 11780 South, subject to the following:
+
+Conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City Standards and Ordinances, specifically the City
+Riverton City Planning Commission Meeting                                              3
+August 14, 2025
+
+
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+      2.     Applicant must obtain and maintain a Riverton City business license.
+
+      3.     Applicant must obtain and maintain applicable State and other outside
+             agency approvals.
+
+      4.     Home Occupation must operate within the Fixed Standards, and
+             applicable Qualifications and Conditions as outlined in the Home
+             Occupation Ordinance, and with this approval.
+
+      5.     No business activity may take place outside the home before 7:00 a.m.
+             or after 7:00 p.m.
+
+      6.     Applicant is permitted to park two work trucks behind a side-yard fence.
+
+Commissioner Cannon seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      B.     “SNUGGLE BUG”, PLZ-25-2035, AN APPLICATION FOR A CONDITIONAL
+             USE PERMIT FOR A HOME DAYCARE TO BE LOCATED AT 3568 WEST
+             NEW PRIVATE DRIVE. APPLICANT - KYLIE KENNEDY.
+
+Ms. Halversen presented the Staff Report and indicated that the proposed home daycare
+will be located at 3568 West New Private Drive. The Planning Commission previously
+approved a home daycare at the house next door, and City Code only allows one daycare
+within a certain number of feet. However, that applicant reported that she did not follow
+through with the planned daycare, and her home was now on the market. The subject
+property is 0.45 acres and located in the Butler Meadows subdivision in the northwest
+section of the City, which is zoned R-2. Access to the home is from a private drive on 3600
+West that serves three lots. The home is rented, and written permission from the property
+owner was included with the application.
+
+The applicant, Kylie Kennedy, requested a CUP for a home daycare with a limit of 12
+children, including her own children and one employee. The daycare will operate Monday
+through Friday from 7:30 a.m. to 5:30 p.m. Pick-ups and drop-offs will be staggered to
+reduce the traffic impact on the neighborhood. Site photographs and the Site and Parking
+Plans were displayed. The daycare will be on the main floor of the home, and the property
+has a fenced backyard for outdoor play. Ample off-street parking is available, and most
+children will arrive in one to three vehicles at different times of the day.
+
+Ms. Halversen reported that the applicant was working with the State to register as a
+licensed family child care, which is the appropriate license for a daycare that serves 12
+children. Child group activities have special allowances in the City Home Occupation
+Riverton City Planning Commission Meeting                                                4
+August 14, 2025
+
+
+Ordinance. More vehicle trips are allowed than for typical Home Occupations, and up to 12
+children and 24 vehicle trips can be approved by the Planning Commission.
+
+Notices were sent to all property owners within 300 feet of the subject property and posted
+on the City website. No comments were received.
+
+Chair Park asked if approval of the CUP would require revocation of the permit issued for
+the neighboring property. Ms. Halversen clarified that a CUP is only valid for the applicant
+named on the application, so the permit is no longer valid. Chair Park stated that at the time
+the previous CUP application was considered, concerns were expressed about vehicles
+stopping on 3600 West and impeding traffic. In response to his question, Ms. Halversen
+confirmed that the use was also approved for 24 vehicle trips per day and up to 12 children,
+and they were required to use the private driveway for drop-offs and pick-ups.
+
+Ms. Kennedy stated that her business will be an in-home daycare. She currently cares for
+four children from one family in addition to her own child. The daycare was previously owned
+by her sister. With regard to concerns about traffic on 3600 West, hers is one of the first
+homes on the street and she has a large driveway that parents park on for pick-ups and
+drop-offs.
+
+In response to questions from Commissioner Cannon, Ms. Kennedy stated that no other
+businesses operate at the address but more than one family lives in the home.
+
+Commissioner Knudsen asked about ownership of the daycare. Ms. Kennedy clarified that
+her sister owned a daycare that she worked in but it was not associated with the neighbor’s
+daycare. Her sister moved and Ms. Kennedy is now opening Snuggle Bug Daycare in her
+home.
+
+Commissioner Cannon stated that it was a unique situation in that Ms. Kennedy lives in an
+Accessory Dwelling Unit (ADU) in the home and asked if that presented any barriers to
+approval. Staff replied that approval is for the specific applicant at the address, and the
+applicant has permission from the owner.
+
+In response to a question from Chair Park, Ms. Kennedy stated that her family rents the
+ADU, and she also rents the space that will be used for the daycare. The property owner,
+Marie Evans, also lives in the home.
+
+City Planner, Tim Prestwich, explained that if a family member moves into a home, it is not
+considered an ADU. However, if the basement is closed off and the family member must
+use an exterior door to access the space, that is considered an ADU.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-25-2035,
+“Snuggle Bug Daycare,” at 3568 West New Private Drive, subject to the following:
+Riverton City Planning Commission Meeting                                                 5
+August 14, 2025
+
+
+
+Conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City Standards and Ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City business license.
+
+       3.     Applicant must obtain and maintain applicable State and Health
+              Department approvals.
+
+       4.     Home Occupation must operate within the Fixed Standards, and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance, and with this approval.
+
+       5.     Applicant may have one non-resident employee.
+
+       6.     The Home Occupation may have up to 12 children per day.
+
+       7.     The Home Occupation may have up to 24 vehicle trips per day (12
+              vehicles) by customers/parents.
+
+       8.     Customers shall utilize the driveway for drop-offs and pick-ups.
+
+       9.     Pick-up and drop-off times shall be staggered to avoid congestion.
+
+Commissioner Beck seconded the motion. The motion passed unanimously with one
+abstention. Commissioner Cannon abstained from the vote.
+
+       C.     “DANSIE COVE PRIVATE LANE”, PLZ-25 -2034, AN APPLICATION FOR
+              A PRIVATE LANE TO SERVE FIVE LOTS AT APPROXIMATELY 3112
+              WEST 13400 SOUTH. APPLICANT - ALAN PRINCE.
+
+Mr. Prestwich presented the Staff Report and stated that the Planning Commission recently
+considered a request to rezone the subject property from RR-22 to R-3, which was
+subsequently approved by the City Council. If approved, the application for a private lane
+would be followed by Subdivision Plat submittal.
+
+Aerial images and the Site Plan were presented. Mr. Prestwich reported that the property
+will be split into five new rectangular lots, with four on the western portion and one at the
+rear. The lots will be accessed via a private lane, which meets City and Fire Code and will
+end in an approved turnaround. The private lane will be 26 feet wide, which will allow for
+parking on one side of the road. The applicant requested a private lane because there is no
+room for a public street, and a public street would not connect to other nearby public streets.
+Riverton City Planning Commission Meeting                                                 6
+August 14, 2025
+
+
+A public street will also require substantially more land and the lots would no longer meet
+minimum standards. For these reasons, Staff recommended approval.
+
+City Code requires 25 feet of pavement for a five-lot subdivision, and side treatments can
+be required at the Planning Commission’s discretion. Mr. Prestwich reported that they were
+required for an application submitted approximately four years previously because the
+development was expected to have 30 lots at completion and a section of sidewalk was
+necessary in the area near 11800 South. Staff did not believe a sidewalk should be required
+for this development.
+
+Notices were sent to all property owners within 300 feet of the subject property and posted
+on the City website. No public comments were received.
+
+Chair Park asked if gutter is included in the paved surface calculation. Mr. Prestwich
+reported that it is included for certain curb types. The Site Plan indicates a rolled gutter or
+mountable curb, so in this case, it is included in the calculation.
+
+Commissioner Cannon reported that he grew up in an area that had many private lanes. He
+was thankful that landowners were given the ability to maximize what could be done with
+their property, and he believes the City and Planning Department have done a great job of
+adapting to residents’ needs. His primary concern with the absence of sidewalks is safety,
+but he could not recall any safety issues on private lanes that do not have them.
+
+The applicant, Alan Prince, presented the Site Plan for a similar project he built in Sandy 20
+years previously. That project had a 25.5-foot road with high-backed curb, but the Dansie
+Cove private lane will have driving surface on the full 26 feet. Neither development had
+sidewalks. Mr. Prince indicated that there will be a slight serpentine curve at the end of the
+road to accommodate the Rocky Mountain Power pole and Riverton City streetlight at the
+corner, which he believes will help slow traffic and make the intersection safer. That curve
+was not indicated on the application. The road will be constructed to public standards
+regarding road base depth and asphalt.
+
+Chair Park asked if the project would include a fence on the eastern property line between
+the existing Dansie property and the new subdivision. Mr. Prince confirmed that fences on
+the east and west boundaries will match in color and style.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Cluff asked if the change to the road layout was an issue. Mr. Prestwich
+reported that Staff approved of the change.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-25-2034
+“Dansie Cove Private Lane”, to be located at 3112 West 13400 South, subject to the
+following:
+Riverton City Planning Commission Meeting                                              7
+August 14, 2025
+
+
+Conditions:
+
+      1.      Approval is for a private lane, with up to five (5) lots accessing the private
+              lane.
+
+      2.      Private lane shall follow Riverton City Code for development on private
+              lanes.
+
+      3.      Private lane shall be paved in either asphalt or concrete according to the
+              requirements of the Unified Fire Authority and the Riverton City
+              Standards and Specifications.
+
+      4.      Private lane shall be at least 25 feet wide in paved surface. “No Parking”
+              signs shall be installed as required by Fire Code.
+
+      5.      The private lane shall include a turnaround designed and installed to the
+              standards of the Unified Fire Authority and Riverton City Standards and
+              Specifications.
+
+      6.      The private lane shall be named and a private street sign shall be
+              installed according to Riverton City Standards.
+
+      7.      The private lane entrance shall meet Riverton City Standards for
+              driveways, including but not limited to design, width, number of
+              driveways and separation distance between driveways.
+
+      8.      The private lane shall be maintained by the homeowners; no City
+              maintenance will be performed on the private lane.
+
+      9.      A written agreement for the shared access and shared maintenance of
+              the private lane must be submitted with the subdivision Final Plat.
+
+      10.     No construction on the lane may begin before a Subdivision Plan is
+              approved by Riverton City.
+
+Commissioner Matheson seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+      D.      “TRASH ENCLOSURES CODE AMENDMENT”, PLZ-25- 5006, RIVERTON
+              CITY IS PROPOSING CHANGES TO THE LAND USE AND DEVELOPMENT
+              CODE, SECTION 18, RELATED TO COMMERCIAL DUMPSTER
+              ENCLOSURES.
+
+Mr. Prestwich reported that new Commercial Design Standards were adopted in April 2025,
+but language related to commercial dumpster enclosures was inadvertently removed from
+the approved Standards. At the Planning Commission’s discretion, the deleted text could
+Riverton City Planning Commission Meeting                                                8
+August 14, 2025
+
+
+be restored or the proposed new text could be added. The proposed text addressed a
+Frequently asked Questions (“FAQ”) regarding enclosure height and specified that the
+enclosure walls must be a minimum of 12 inches higher than the trash receptacle. It also
+allows businesses to use garbage cans instead of dumpsters and enclose them with a vinyl
+or wood fence instead of a solid masonry wall subject to approval from the Land Use
+Authority.
+
+Chair Park stated that although the deletion was unintentional, it provided the opportunity to
+improve upon the old language. He asked how a future tenant that needs a larger dumpster
+would be made aware of the enclosure requirements and asked if the standard should be
+based on the height of the largest standard commercial dumpster. Mr. Prestwich stated that
+Staff is often asked about height requirements but the City has not had issues with a too-
+large dumpster on a site. He was hesitant to require all enclosures to be 12 inches taller
+than the tallest commercial dumpster because that would be too large for some sites.
+
+Commissioner Cluff asked why language encouraging the consolidation of trash areas was
+not carried over from the original text. Mr. Prestwich reported that the proposed text did not
+prohibit consolidation. The language was removed because it stated that consolidation was
+“encouraged,” not required, which is not enforceable. Commissioner Cluff noted that there
+was a typographical error in the last sentence: “encloser” should be “enclosure”.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission recommend
+APPROVAL of amendments to the Riverton City Code Title 18 for Commercial
+Dumpster Enclosures, as presented. Commissioner Cluff seconded the motion. The
+motion passed with the unanimous consent of the Commission.
+
+Mr. Prestwich reported that Staff is working to remove duplicate sections of City Code and
+consolidate residential zone requirements in tables. They are receiving phone calls from
+people using artificial intelligence to find relevant Code sections, and the duplications are
+generating errors and causing confusion.
+
+3.     DECISION ITEMS
+
+       A.     “JIM'S FAMILY RESTAURANT”, PLZ-25-8013, AN APPLICATION TO
+              AMEND A COMMERCIAL SITE PLAN. APPLICANT - SIFI SIFANTONAKIS.
+
+Mr. Prestwich presented the Staff Report and reported that Jim’s Family Restaurant was the
+first family-style, sit-down restaurant in downtown Riverton. It has been a great addition to
+the City. Site photographs and elevations were reviewed. The proposed amendment will
+add a roof to the outdoor staging area beside the existing dumpster enclosure so that a
+prefabricated cooler can be installed, and a door would then be cut into the outer wall for
+access from the kitchen. Three courses of cement block would be added to increase the
+height of the enclosure and a slanted roof would be installed.
+Riverton City Planning Commission Meeting                                                  9
+August 14, 2025
+
+
+
+Mr. Prestwich reviewed the recommended conditions of approval and noted that any
+landscaping changes will require Staff review. The proposal met all City Code requirements
+and matches the existing architecture, and Staff recommended approval.
+
+Commissioner Cannon expressed concerns about the use of four different cement block
+colors and asked if the applicant could be required to have a uniform color. Mr. Prestwich
+clarified that the new blocks will be covered in stucco to match the building. The existing
+enclosure was approved in 2010. Commissioner Cannon had no further concerns.
+
+Chair Park stated that the enclosure looks like an afterthought in relation to the building.
+
+In response to a question from Commissioner Matheson, it was confirmed that the area in
+front of the dumpster is open, and gates should have been required when it was originally
+approved. The Commission discussed the proposed Trash Enclosures Code Amendment
+in relation to this application.
+
+Eva Sifantonakis spoke on behalf of the applicant. The restaurant has expanded, and its
+walk-in cooler is no longer large enough for its needs. The enclosure area is a perfect place
+for the new cooler. In response to a question from Chair Park, she clarified that the cooler
+will come in pieces and be built into the structure. It will be accessed from the kitchen.
+
+In response to a question from Commissioner Cannon, Ms. Sifantonakis stated that her
+family only owns the Riverton restaurant, which is the second-highest-grossing Jim’s Family
+Restaurant location. She believes West Valley is the highest-grossing location.
+
+Commissioner Matheson asked if gates could be required on the dumpster enclosure.
+Mr. Prestwich stated that a condition of approval could be added to that effect.
+
+In response to a question from Chair Park, Mr. Prestwich clarified that the previous Code
+section that was reviewed with the last item was in place in 2010. Prior to updating the
+Design Guidelines, the building was used as an example of City design requirements. He
+agreed that the dumpster enclosure did not fit the aesthetics of the building.
+
+Ms. Sifantonakis explained that the open area was originally walled off, and the gates on the
+side of the enclosure were used to access the dumpster. However, due to the curbing on
+the building that continues north, the truck could no longer access the dumpster through
+those gates and the wall was opened. The applicant was not opposed to adding or moving
+the gates to fully screen the enclosure.
+
+Commissioner Knudsen agreed that the area should be fully enclosed, either by adding
+additional gates or moving the existing gates and blocking off the other side of the enclosure.
+
+Commissioner Cannon suggested that a rolling gate be installed that rolls to the south rather
+than one that opens in the middle, as it will last longer.
+Riverton City Planning Commission Meeting                                      10
+August 14, 2025
+
+
+The Commission agreed that the garbage enclosure needed to be brought back into
+compliance with City Code.
+
+Commissioner Matheson moved that the Planning Commission APPROVE PLZ-25-
+8013 “Jim’s Family Restaurant”, amending the Site Plan of the existing commercial
+building located at 1728 Park Avenue, subject to the following:
+
+Conditions:
+
+      1.      Building materials and color will match the submitted plans as shown.
+
+      2.      Any landscaping changes must be submitted to City Staff for review for
+              compliance with existing Code requirements.
+
+      3.      Screening for the dumpster must be brought into compliance with
+              existing Code requirements.
+
+Commissioner Knudsen seconded the motion.            The motion passed with the
+unanimous consent of the Commission.
+
+4.    DISCUSSION ITEMS
+
+      A.      NONE.
+
+5.    MINUTES
+
+      A.      PLANNING COMMISSION MINUTES FROM JULY 10, 2025, MEETING.
+
+Commissioner Cluff moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of July 10, 2025, as reported. Commissioner Park
+seconded the motion. The motion passed with the unanimous consent of the
+Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:49 PM.
+

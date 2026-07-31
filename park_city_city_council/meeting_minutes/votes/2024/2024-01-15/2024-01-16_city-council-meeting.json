@@ -1,0 +1,77 @@
+{
+ "date": "2024-01-16",
+ "title": "City Council Meeting",
+ "body_slug": "city-council-meeting",
+ "source": "minutes/2024/2024-01-15/2024-01-16_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Council Member Toly moved to close the meeting to discuss security and litigation at 2:32 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "3-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Tana Toly",
+   "seconder": "Ryan Dickey",
+   "aye": [
+    "Ryan Dickey",
+    "Ed Parigian",
+    "Tana Toly"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Bill Ciraco",
+    "Jeremy Rubell"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "Council Member Ciraco moved to adjourn from Closed Meeting at 3:45 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Bill Ciraco",
+   "seconder": "Tana Toly",
+   "aye": [
+    "Bill Ciraco",
+    "Ryan Dickey",
+    "Ed Parigian",
+    "Tana Toly"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jeremy Rubell"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "Council Member Dickey moved to approve the Consent Agenda",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Ryan Dickey",
+   "seconder": "Tana Toly",
+   "aye": [
+    "Bill Ciraco",
+    "Ryan Dickey",
+    "Ed Parigian",
+    "Jeremy Rubell",
+    "Tana Toly"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

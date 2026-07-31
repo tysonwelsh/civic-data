@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": "10/01/2023", "name": "Rosemary Lesser", "amount": "250.00", "in_kind": false},
+    {"date": "10/02/2023", "name": "Ben Peck", "amount": "58.00", "in_kind": false},
+    {"date": "10/04/2023", "name": "Ernest Gamonal", "amount": "25.00", "in_kind": false},
+    {"date": "10/16/2023", "name": "Women's Democratic Club of Utah", "amount": "50.00", "in_kind": false},
+    {"date": "10/20/2023", "name": "Equality Utah", "amount": "750.00", "in_kind": false},
+    {"date": "10/20/2023", "name": "PPAC of Utah", "amount": "250.00", "in_kind": false},
+    {"date": "10/23/2023", "name": "Central UT Federation of Labor", "amount": "250.00", "in_kind": false},
+    {"date": "09/22/2023", "name": "Ben Peck", "amount": "20.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "09/12/2023", "recipient": "Google", "purpose": "verified email", "amount": "8.00", "in_kind": false},
+    {"date": "10/12/2023", "recipient": "Google", "purpose": "verified email", "amount": "8.00", "in_kind": false}
+  ],
+  "total_contributions": "1653.00",
+  "total_expenditures": "16.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "352.27",
+  "ending_balance": "1989.27",
+  "_meta": {
+    "index_path": "raw/202310_David-W-Rodgers_14721.pdf",
+    "candidate": "David W. Rodgers",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202310_David-W-Rodgers_14721.pdf",
+    "pages": 7
+  }
+}

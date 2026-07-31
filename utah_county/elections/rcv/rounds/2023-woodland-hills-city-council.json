@@ -1,0 +1,47 @@
+{
+ "config": {
+  "contest": "2023 Woodland Hills City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Woodland Hills, Utah",
+  "office": "City Council",
+  "threshold": "169"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "BENJAMIN HILLYARD": 76.0,
+    "BRIAN HUTCHINGS": 72.0,
+    "KARI L. MALKOVICH": 169.0,
+    "SPENCER A. WELLS": 23.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "SPENCER A. WELLS",
+     "transfers": {
+      "BENJAMIN HILLYARD": 10.0,
+      "BRIAN HUTCHINGS": 8.0,
+      "KARI L. MALKOVICH": 2.0,
+      "Inactive Ballots": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "BENJAMIN HILLYARD": 86.0,
+    "BRIAN HUTCHINGS": 80.0,
+    "KARI L. MALKOVICH": 171.0,
+    "Inactive Ballots": 3.0
+   },
+   "tallyResults": [
+    {
+     "elected": "KARI L. MALKOVICH",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

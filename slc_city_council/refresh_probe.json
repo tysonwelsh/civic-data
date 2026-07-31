@@ -1,0 +1,55 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-18",
+    "portal": "primegov",
+    "index_max_date": "2026-06-09",
+    "index_rows": 461,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://slc.primegov.com/api/v2/PublicPortal/ListArchivedMeetings?year=2026",
+    "new_count": 2,
+    "notes": "4 newer meeting(s) have no HTML Minutes yet (unapproved)",
+    "new_items": [
+      {
+        "date": "2026-06-11",
+        "title": "Council Work Session Meeting ",
+        "url": "https://slc.primegov.com/Portal/Meeting?meetingTemplateId=4142"
+      },
+      {
+        "date": "2026-06-16",
+        "title": "LBA, CRA and Council Formal Meeting",
+        "url": "https://slc.primegov.com/Portal/Meeting?meetingTemplateId=4158"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "primegov+slcdocs",
+    "index_max_date": "2026-06-10",
+    "index_rows": 145,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://www.slcdocs.com/Planning/Planning%20Commission/<year>/...",
+    "new_count": 1,
+    "notes": "probed 5 candidate Wednesday(s) on slcdocs (PrimeGov does not list PC meetings — minutes may lag ~1 month behind a meeting)",
+    "new_items": [
+      {
+        "date": "2026-06-24",
+        "title": "Planning Commission",
+        "url": "https://www.slcdocs.com/Planning/Planning%20Commission/2026/PC%2006.24.2026/PC06.24.2026minutes.pdf"
+      }
+    ]
+  },
+  "public_comments": {
+    "probe_date": "2026-07-18",
+    "portal": "slcdocs",
+    "index_max_date": "2026-04-07",
+    "index_rows": 221,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset public_comments",
+    "status": "ok",
+    "endpoint": "https://www.slcdocs.com/council/WebDoc/Public_Comments",
+    "new_count": 0,
+    "notes": "delegated to check_new_comments.py --dry-run — up to date",
+    "new_items": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+ "date": "2025-09-11",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-09-08/2025-09-11_planning-commission-meeting.md",
+ "present": [
+  "Eldon Peterson",
+  "Sara Doutre",
+  "Jessica Lucero",
+  "Sarah McNamara",
+  "Jennifer Duncan"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Duncan made a motion to forward a recommendation of approval to the Municipal Council of a full expansion of the Historic District (recommendation 3) for PC 25-049. There was no second made so the motion failed.",
+   "motion_type": "Other",
+   "result": "Positive recommendation 3:2",
+   "kind": "recommendation",
+   "mover": "Sara Doutre",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Sara Doutre",
+    "Sarah McNamara",
+    "Eldon Peterson"
+   ],
+   "nay": [
+    "Jennifer Duncan",
+    "Jessica Lucero"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "3-2",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to forward a recommendation of approval to the Municipal Council on the proposed Land Development Code Amendments specified within PC _25- 046 for Short Term Rentals, Beekeeping, Subdivisions, and Permit Extensions, while recommending the proposed minor subdivision lot numbers LDC 17.40 & 17.62 be reduced from 10 to 6, and denying all proposed changes to 17.10.060 (TC-1 Standards) with the findings for approval as listed below. Commissioner Lucero seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 5:0",
+   "kind": "recommendation",
+   "mover": "Sara Doutre",
+   "seconder": "Jessica Lucero",
+   "aye": [
+    "Eldon Peterson",
+    "Sara Doutre",
+    "Jessica Lucero",
+    "Sarah McNamara",
+    "Jennifer Duncan"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "extend the deadline on PC 23-005 for another year",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Sara Doutre",
+   "seconder": "Jennifer Duncan",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 3
+  }
+ ]
+}

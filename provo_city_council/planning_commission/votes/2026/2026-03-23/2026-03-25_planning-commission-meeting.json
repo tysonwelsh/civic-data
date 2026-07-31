@@ -1,0 +1,57 @@
+{
+ "date": "2026-03-25",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-03-23/2026-03-25_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "*ITEM 1 Development Services requests Ordinance Text Amendments to Title 14 to remove power generation as a permitted use in the Data Center Overlay Zone and update environmental impact requirements. Citywide Application. Hannah Salzl (801) 852-6423 hsalzl@provo.gov PLOTA20250048",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLOTA20250048",
+   "motion_type": "Ordinance Text Amendment",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 5:0",
+   "mover": "Jonathon Hill",
+   "seconder": "Anne Allen",
+   "aye": [
+    "Joel Temple",
+    "Matt Wheelwright",
+    "Jonathon Hill",
+    "Jon Lyons",
+    "Anne Allen"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "ITEM 2 Terry Cirac requests Project Plan approval for an 8-unit apartment building in the CR (Campus Residential) Zone, located at 71 West 880 North. North Park Neighborhood. Dustin Wright (801) 852-6414 dwright@provo.gov PLPPA20260031",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLPPA20260031",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Jon Lyons",
+   "seconder": "Anne Allen",
+   "aye": [
+    "Jon Lyons",
+    "Anne Allen",
+    "Matt Wheelwright",
+    "Jonathon Hill",
+    "Joel Temple"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

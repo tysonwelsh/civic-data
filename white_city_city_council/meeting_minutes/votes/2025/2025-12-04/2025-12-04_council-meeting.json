@@ -1,0 +1,126 @@
+{
+ "date": "2025-12-04",
+ "year": 2025,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2025/2025-12-04/2025-12-04_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to accept the financial report",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to accept the minutes of November 13 and November 18, 2025",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to adopt Ordinance No. 2025-O-06 Enacting Section 15.08.11 of the White City Municipal Code to adopt the 2006 Edition of the International Wildland Urban Interface Code",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "Pass (unanimous)",
+   "mover": "Tyler Huish",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to adopt Resolution No. 2025-12-01 adopting the MSD Privacy Policy",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 5,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

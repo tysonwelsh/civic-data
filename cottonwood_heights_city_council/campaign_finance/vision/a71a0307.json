@@ -1,0 +1,36 @@
+{
+  "contributions": [
+    {"date": "06/23/25", "name": "Committe to Elect Ray Lynn B", "amount": "1000", "in_kind": false},
+    {"date": "07/01/25", "name": "Randall Prazen", "amount": "1901.64", "in_kind": false},
+    {"date": "09/03/25", "name": "Womens Democratic Club", "amount": "100", "in_kind": false},
+    {"date": "09/22/25", "name": "IBEW Local 354", "amount": "250", "in_kind": false},
+    {"date": "09/26/25", "name": "Jillion Gibson", "amount": "100", "in_kind": false},
+    {"date": "09/29/25", "name": "Jared VanStaveren", "amount": "120", "in_kind": false},
+    {"date": "10/03/25", "name": "Randall Prazen", "amount": "507.18", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/30/25", "recipient": "Purple Moss Photography", "purpose": null, "amount": "194.63", "in_kind": false},
+    {"date": "07/01/25", "recipient": "Salt Lake County Democrats", "purpose": null, "amount": "75", "in_kind": false},
+    {"date": "08/11/25", "recipient": "Apollo Political", "purpose": null, "amount": "1200", "in_kind": false},
+    {"date": "08/31/25", "recipient": "Womens Democratic Club", "purpose": null, "amount": "30", "in_kind": false},
+    {"date": "08/31/25", "recipient": "Sun Lithographing", "purpose": null, "amount": "234.48", "in_kind": false},
+    {"date": "09/30/25", "recipient": "Apollo Political", "purpose": null, "amount": "1525", "in_kind": false},
+    {"date": "09/30/25", "recipient": "Signs on the Cheap", "purpose": null, "amount": "297.53", "in_kind": false},
+    {"date": "10/03/25", "recipient": "Apollo Political", "purpose": null, "amount": "136.18", "in_kind": false},
+    {"date": "10/06/25", "recipient": "Apollo Political", "purpose": null, "amount": "406.00", "in_kind": false}
+  ],
+  "total_contributions": "3978.82",
+  "total_expenditures": "4098.82",
+  "contributions_50_or_less": "120",
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2025_city_prazen_interim-oct-7-2025.pdf",
+    "candidate": "Randy Prazen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_prazen_interim-oct-7-2025.pdf",
+    "pages": 2
+  }
+}

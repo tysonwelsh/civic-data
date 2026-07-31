@@ -1,0 +1,522 @@
+---
+jurisdiction: Utah County
+body: Commission Work Session
+date: 2025-09-05
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2025/09.05.2025%20Work%20Session%20Budget%20Retreat%20Minutes.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: poppler pdftotext -layout (born-digital; re-extracted 2026-07-25, was pypdf — see db/reextract_borndigital.py)
+n_parts: 1
+n_pages: 100
+audio: 09.05.2025 WS Budget Retreat Day2.mp3
+---
+
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 1 of 100
+
+
+
+
+                          PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+
+                   BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+
+                              WILL HOLD A BUDGET WORK SESSION
+
+                        IN THE SANTAQUIN CITY COMMUNITY CENTER
+                            110 S CENTER ST, SANTAQUIN, UT 84655
+                                 September 5, 2025 - 9:00 AM
+
+                                            WORK SESSION
+1. WORK SESSION REGARDING THE 2026 UTAH COUNTY BUDGET FOR THE GENERAL
+FUND AND OTHER BUDGETARY FUNDS OF UTAH COUNTY, UTAH.
+        -Ezra Nair, Commission
+
+(Meeting called to order: 9:13 am)
+
+In attendance: see attached sign in sheet
+
+EZRA NAIR (Utah County Administrator) WELCOMED EVERYONE TO THE BUDGET KICK
+OFF MEETING. PLEASE REFER TO THE AUDIO FOR ADDITIONAL INFORMATION.
+
+
+
+
+JEREMY SEARLE (WCG) PRESENTED THE FOLLOWING POWER POINT. THEY HAVE
+PARTNERED WITH THE COUNTY TO PUT TOGETHER A STRATEGIC PLAN, A
+GENERAL PLAN UPDATE, AND TRANSPORTATION MASTER PLAN.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 2 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 3 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 4 of 100
+
+
+
+
+MIKE SMITH (Utah County Sheriff) PRESENTED THE FOLLOWING SLIDE
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 5 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 6 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 7 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 8 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 9 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 10 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 11 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 12 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 13 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 14 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 15 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 16 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 17 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 18 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 19 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 20 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 21 of 100
+
+
+
+
+RUDY LIVINGSTON (Utah County Deputy Auditor) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 22 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 23 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 24 of 100
+
+
+
+
+AARON R. ROBINSON (Utah County Clerk) SHARED THE FOLLOWING SLIDE SHOW.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 25 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 26 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 27 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 28 of 100
+
+
+
+
+BREAK
+
+REBECCA MARTELL (Director – Utah County Children’s Justice Center) GAVE THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 29 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 30 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 31 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 32 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 33 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 34 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 35 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 36 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 37 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 38 of 100
+
+
+
+RICHARD NIELSON (Director – Utah County Public Works) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 39 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 40 of 100
+
+
+
+
+Lunch Break
+
+JEREMY WALKER (Utah County Director of Financial Services) QUESTION & ANSWER
+SESSION ON TARGET BASED BUDGETING. NO SLIDES.
+
+DEBBIE HILL AND JOSH ESPLIN (Utah County Public Defender) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 41 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 42 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 43 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 44 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 45 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 46 of 100
+
+
+
+JEFF GRAY (Utah County Attorney) GAVE THE FOLLOWING SLIDE PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 47 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 48 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 49 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 50 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 51 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 52 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 53 of 100
+
+
+JASON THURLOW (Associate County Recorder) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 54 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 55 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 56 of 100
+
+
+
+
+BREAK
+
+BURT GARFIELD (Utah County Assessor) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 57 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 58 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 59 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 60 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 61 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 62 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 63 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 64 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 65 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 66 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 67 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 68 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 69 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 70 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 71 of 100
+
+
+
+
+ANTHONY CANTO (Utah County Surveyor) GAVE THE FOLLOWING PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 72 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 73 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 74 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 75 of 100
+
+
+BREAK
+
+CHRIS MARTIN (Utah County Budget Analyst) GAVE THE FOLLOWING PRESENTATION ON
+BEHALF OF KIM T. JACKSON (Utah County Treasurer) AND CARY MCCONNELL (Deputy
+Treasurer) WHO WERE UNABLE TO ATTEND THE WORK SESSION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 76 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 77 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 78 of 100
+
+
+BRYCE ARMSTRONG (Director – Community Development) SHARED THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 79 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 80 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 81 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 82 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 83 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 84 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 85 of 100
+
+
+EMILY TRAFNY (Justice Court Administrator) GAVE THE FOLLOWING PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 86 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 87 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 88 of 100
+
+
+ERIC EDWARDS (Utah County Executive Health Director) GAVE THE FOLLOWING
+PRESENTATION.
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 89 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 90 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 91 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 92 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 93 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 94 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 95 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 96 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 97 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 98 of 100
+DRAFT - BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Budget Work Session
+September 4, 2025
+Page 99 of 100
+

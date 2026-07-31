@@ -1,0 +1,96 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07272020-389
+> Meeting date: 2020-07-27
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2020-07-27
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07272020-389
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                           Minutes          of the
+                                                               Millcreek          Community                Reinvestment                 Agency
+                                                                                            July      27, 2020
+                                                                                                  7:00     p.m.
+                                                                                          Regular          Meeting
+
+
+
+
+The Community              Reinvestment              Agency       of Millcreek,       Utali,       met in a regular            public    meeting       on
+July 27, 2020 at City               Hall,     located    at 3330 S. 1300 E., Millcreek,                     UT 84106.           The meeting         was
+conducted        electronically         per Millcreek            State of Local           Emergency          Directive        No. 2 of 2020 and
+live streamed           via the City's         website     with       an option    for online         public       comment.
+
+
+PRESENT:
+
+
+Board      Members                                                        City    Staff
+Jeff Silvestrini,         Chair                                          John Brems,              City Attorney
+Silvia    Catten                                                         Elyse     Sullivan,        Agency         Recorder
+Dwight       Marchant                                                    Mike      Winder,         Economic         Development             Director
+Cheri     Jackson                                                        Kurt     Hansen,         Legislative        Policy      Director
+Bev Uipi                                                                 Rita Lund,         Communications               Director
+                                                                         Andrew       Clark,        Emergency          Manager
+
+
+
+Attendees:         Chief    Steve DeBry
+
+
+REGULAR             MEETING                 - 7:00 p.m.
+TIME       COMMENCED:                        10:07      p.m.
+
+
+Chair     Silvestrini      called     the meeting          to order.
+
+
+1. Discussion           and Consideration                of Resolution           20-05,     Designating            a Survey        Area      and
+Authorizing         the Preparation               of a Draft          Community            Reinvestment              Project      Area      Plan    and
+Budget      for the Proposed                 Woodland          Avenue       Community               Reinvestment              Project       Area
+Chair     Silvestrini      said the Board            needed      to discuss       fornning        a new community               reinvestment
+project    area for the area that Salt Lake City                        ceded to Millcreek               in a boundary          adjustment
+which     was between         Miller         and Woodland             Avenues,      and Highland             Drive     and 1300 E. Mike
+Winder      showed        the Council          a map of the proposed               area. He said it was cleaner                    to do a new
+cominunity        reinvestment              area instead       of amending         the old one, but it would                   have the same
+taxing    parameters        as the old one.
+
+
+Board      Member          Jackson          moved       to adopt       Resolution          20-05,        Designating          a Survey       Area      and
+Authorizing         the Preparation               of a Draft          Community            Reinvestment              Project      Area      for
+Woodland         Avenue.          Board       Member           Uipi    seconded.          Chair      Silvestrini       called      for the vote.        All
+Board      Members          voted      yes. The motion                passed     unanimously.
+Millcreek      CRA       Meeting       Minutes                                                      27 July       2020    Page     2 of 2
+
+
+2. Approval       of June       22, 2020      Meeting          Minutes
+
+
+Board       Member       Uipi     moved      to approve          the niinutes        from         June    22, 2020.      Board     Member
+Catten      seconded.      Chair      Silvestrini       called      for   the vote.        All    Board     Members        voted        yes. The
+motion      passed      unanimously.
+
+
+
+
+ADJOURNED:                Board       Member         Uipi      moved      to adjourn             the meeting       at 10:09      p.m.    Board
+Member        Jackson      seconded.         Chair     Silvestrini         called    for     the vote.      All   Board       Members        voted
+
+
+
+
+                                                        Jeff     Silvestrini.       Chair
+
+
+
+
+                                   Attest:            !7Lvan,agencygecoraer
+

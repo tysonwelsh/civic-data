@@ -1,0 +1,21 @@
+{
+  "contributions": [
+    {"date": "9/10/25", "name": "Land of a Thousand Hills Coffee (In-Kind)", "city": "South Jordan", "state": "UT", "amount": 20.00, "in_kind": "in-kind"},
+    {"date": "9/24/25", "name": "Karmel Harper (In-Kind)", "city": "South Jordan", "state": "UT", "amount": 40.00, "in_kind": "in-kind"}
+  ],
+  "expenditures": [
+    {"date": "9/10/25", "recipient": "Land of a Thousand Hills Coffee (In-Kind)", "purpose": "Food for Campaign Event", "amount": 20.00, "in_kind": "in-kind"},
+    {"date": "9/10/25", "recipient": "Land of a Thousand Hills Coffee", "purpose": "Campaign Event Expenses", "amount": 10.89, "in_kind": null},
+    {"date": "9/24/25", "recipient": "Harmons", "purpose": "Balloons for Campaign Event", "amount": 14.97, "in_kind": null},
+    {"date": "9/24/25", "recipient": "Karmel Harper (In-Kind)", "purpose": "Food for Campaign Event", "amount": 40.00, "in_kind": "in-kind"},
+    {"date": "9/25/25", "recipient": "Wild Rose", "purpose": "Strategy Dinner", "amount": 86.15, "in_kind": null},
+    {"date": "9/26/25", "recipient": "WIX", "purpose": "Google Ads", "amount": 107.45, "in_kind": null},
+    {"date": "9/30/25", "recipient": "Harmons", "purpose": "Balloons for Campaign Event", "amount": 12.87, "in_kind": null},
+    {"date": "10/2/25", "recipient": "US Postal Service", "purpose": "Postage", "amount": 11.95, "in_kind": null},
+    {"date": "10/2/25", "recipient": "META", "purpose": "Digital Ads", "amount": 45.00, "in_kind": null}
+  ],
+  "total_contributions": 60.00,
+  "total_expenditures": 349.28,
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null
+}

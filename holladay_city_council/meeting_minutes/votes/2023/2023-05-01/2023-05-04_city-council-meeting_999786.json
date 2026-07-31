@@ -1,0 +1,96 @@
+{
+ "date": "2023-05-04",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/999786.pdf",
+ "path": "minutes/2023/2023-05-01/2023-05-04_city-council-meeting_999786.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "APPROVE Resolution 2023-16 - Acknowledging Receipt of and Adopting the Tentative 2023/2024 Fiscal Year Budget and Setting a Public Hearing for June 1, 2023",
+   "motion_type": "Resolution",
+   "result": "Resolution 2023-16 was approved by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": false,
+   "votes": [
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Durham",
+   "seconder": "Quinn",
+   "motion": "APPROVE the Consent Agenda",
+   "motion_type": "Other",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": false,
+   "votes": [
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

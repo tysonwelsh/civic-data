@@ -1,0 +1,98 @@
+{
+ "date": "2022-06-02",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/894987.pdf",
+ "path": "minutes/2022/2022-05-30/2022-06-02_city-council-meeting_894987.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "adopt Ordinance 2022-10 - Amending Provisions of Chapter 17 of the City Code Relating to Storm Water Management",
+   "motion_type": "Ordinance",
+   "result": "Ordinance 2022-10 was adopted by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Quinn",
+   "seconder": "Fotheringham",
+   "motion": "approve Resolution 2022-16 - Amending the Stormwater Management Program",
+   "motion_type": "Resolution",
+   "result": "Resolution 2022-16 was approved by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "recess the City Council Meeting and reconvene in an RDA Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed unanimously and the council meeting recessed at 7:06 pm.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "adjourn the City Council Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

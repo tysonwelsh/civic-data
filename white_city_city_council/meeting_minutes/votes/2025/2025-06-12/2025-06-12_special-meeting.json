@@ -1,0 +1,82 @@
+{
+ "date": "2025-06-12",
+ "year": 2025,
+ "title": "Special Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2025/2025-06-12/2025-06-12_special-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "approve Resolution No. 2025-06-02 Adopting the Fiscal Year 2026 White City Budget beginning on July 1, 2025 and ending June 30, 2026",
+   "body": "Council",
+   "motion_type": "Budget Amendment",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adopt Resolution 2025-06-03 setting the rate of tax of zero for Calendar Year 2025 Levying taxes upon all real and personal property within the corporate boundaries of White City, Utah",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+Riverton Planning Commission — vote extraction validation report
+========================================================================
+Meeting JSONs            : 119
+Meetings with >=1 motion : 118
+Motions extracted        : 672
+  named roll call (divided): 127
+  unanimous consent (unnamed): 538
+  tally-only/other         : 0
+  died (no second)         : 7
+
+Motion-type distribution:
+   Land-Use/Zoning            429
+   Procedural/Administrative  157
+   Other                      75
+   Ordinance                  11
+
+Action-kind distribution:
+   final_action               268
+   recommendation             197
+   procedural                 153
+   other                      54
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED COMMISSIONERS (attendance-present / named-vote counts).
+------------------------------------------------------------------------
+
+2020:
+   Gary Cannon            present= 17 named_votes= 19
+   Troy Rushton           present= 17 named_votes= 20
+   Ed James               present= 17 named_votes= 20
+   Brian Russell          present= 16 named_votes= 19
+   Kent Hartley           present= 16 named_votes= 19
+   Dennis Hansen          present= 15 named_votes= 18
+   Grant Lefgren          present= 14 named_votes= 17
+
+2021:
+   Troy Rushton           present= 18 named_votes= 24
+   Keith Breinholt        present= 18 named_votes= 27
+   Brian Russell          present= 17 named_votes= 27
+   Natalia Brown          present= 17 named_votes= 27
+   Gary Cannon            present= 16 named_votes= 21
+   Shelly Cluff           present= 16 named_votes= 24
+   Grant Lefgren          present= 15 named_votes= 32
+   Kent Hartley           present=  3 named_votes=  9
+   Dennis Hansen          present=  1 named_votes=  6
+
+2022:
+   Shelly Cluff           present= 17 named_votes= 16
+   Troy Rushton           present= 16 named_votes= 15
+   Evan Matheson          present= 15 named_votes= 10
+   Darren Park            present= 15 named_votes=  9
+   Gary Cannon            present= 14 named_votes=  6
+   Keith Breinholt        present= 14 named_votes=  8
+   Jon Gilchrist          present= 13 named_votes=  9
+   Brian Russell          present=  2 named_votes=  6
+   Grant Lefgren          present=  2 named_votes=  6
+   Natalia Brown          present=  1 named_votes=  6
+
+2023:
+   Troy Rushton           present= 16 named_votes= 14
+   Evan Matheson          present= 16 named_votes= 14
+   Shelly Cluff           present= 16 named_votes= 14
+   Gary Cannon            present= 14 named_votes= 14
+   Darren Park            present= 14 named_votes= 11
+   Jon Gilchrist          present= 12 named_votes=  8
+   Monique Beck           present= 11 named_votes=  7
+   Keith Breinholt        present=  5 named_votes=  6
+
+2024:
+   Evan Matheson          present= 17 named_votes= 17
+   Shelly Cluff           present= 17 named_votes= 17
+   Gary Cannon            present= 15 named_votes= 15
+   Monique Beck           present= 14 named_votes= 15
+   Troy Rushton           present= 13 named_votes= 16
+   Darren Park            present= 11 named_votes= 15
+   Crystal Keele          present= 10 named_votes=  6
+   Jon Gilchrist          present=  5 named_votes= 11
+   Chris Knudsen          present=  3 named_votes=  1
+
+2025:
+   Evan Matheson          present= 18 named_votes= 20
+   Shelly Cluff           present= 18 named_votes=  9
+   Troy Rushton           present= 17 named_votes= 20
+   Gary Cannon            present= 16 named_votes= 14
+   Crystal Keele          present= 16 named_votes= 20
+   Darren Park            present= 16 named_votes=  6
+   Monique Beck           present= 16 named_votes= 20
+   Chris Knudsen          present=  5 named_votes=  6
+
+2026:
+   Monique Beck           present=  8 named_votes=  3
+   Joe Marzo              present=  8 named_votes=  3
+   Gary Cannon            present=  7 named_votes=  1
+   Crystal Keele          present=  7 named_votes=  3
+   Evan Matheson          present=  7 named_votes=  3
+   Shelly Cluff           present=  6 named_votes=  2
+   Darren Park            present=  4 named_votes=  2
+
+------------------------------------------------------------------------
+TALLY-PLAUSIBILITY / named-vs-printed ISSUES: 2
+------------------------------------------------------------------------
+   2024-08-08 m4: 7 named vs printed 7-to-1 :: APPROVE PLZ-24-8010, Burger King, amending the Sit
+   2025-12-11 m1: 6 named vs printed 6-to-1 :: APPROVE Application PLZ-25-2042, “Reader Short-Ter
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay/Abstain/Recuse or divided tally) — the signal: 79
+------------------------------------------------------------------------
+   2020-01-23 m5 Passed 5-to-1 | AYE=['Brian Russell', 'Ed James', 'Kent Hartley', 'Troy Rushton', 'Dennis Hansen'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: to recommend DENIAL of Application PLZ-19-4015 rezoning properties loc
+   2020-02-13 m5 Passed 5-to-1 | AYE=['Gary Cannon', 'Ed James', 'Kent Hartley', 'Dennis Hansen', 'Grant Lefgren'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: not permit auto dealerships to be located in the current CD zone. The 
+   2020-03-12 m3 Passed 6-to-1 | AYE=['Gary Cannon', 'Ed James', 'Kent Hartley', 'Dennis Hansen', 'Grant Lefgren', 'Brian Russell'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to recommend approval of Application PLZ-20-4002 rezoning properties l
+   2020-04-09 m4 Failed 3-to-4 | AYE=['Dennis Hansen', 'Ed James', 'Grant Lefgren'] NAY=['Brian Russell', 'Kent Hartley', 'Troy Rushton', 'Gary Cannon'] ABSTAIN=[] RECUSE=[] :: to approve Application #PLZ 19-1005, Aspen Court Subdivision, to be lo
+   2020-04-09 m5 Passed 6-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Grant Lefgren', 'Troy Rushton', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to approve Application #PLZ 19-1005, Aspen Court Subdivision, to be lo
+   2020-04-23 m6 Passed 4-to-2 | AYE=['Gary Cannon', 'Brian Russell', 'Kent Hartley', 'Troy Rushton'] NAY=['Dennis Hansen', 'Ed James'] ABSTAIN=[] RECUSE=[] :: to recommend approval of Application #PLZ-19-4015 rezoning properties 
+   2020-05-14 m1 Passed 5-to-2 | AYE=['Gary Cannon', 'Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Troy Rushton'] NAY=['Ed James', 'Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: to approve Application PLZ 20-1002, Sunday Drive Minor Subdivision, to
+   2020-05-28 m1 Passed 5-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to approve Application PLZ 20-1002, River Ridge Lane Subdivision, to b
+   2020-06-11 m2 Failed 3-to-4 | AYE=['Brian Russell', 'Ed James', 'Grant Lefgren'] NAY=['Dennis Hansen', 'Kent Hartley', 'Troy Rushton', 'Gary Cannon'] ABSTAIN=[] RECUSE=[] :: to deny Application PLZ 20-8007. The motion was
+   2020-06-11 m3 Passed 6-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to approve Application PLZ 20-8007, for Howard Schmidt for a Private L
+   2020-08-13 m1 Passed 5-to-1 | AYE=['Brian Russell', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: approve Application PLZ- 20-2025, “The Goods Cookies” to be located at
+   2020-08-13 m2 Passed 4-to-2 | AYE=['Brian Russell', 'Ed James', 'Troy Rushton', 'Gary Cannon'] NAY=['Kent Hartley', 'Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: continue the public hearing for Application PLZ- 20-4004, Newman-Withe
+   2020-09-10 m1 Passed 4-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Troy Rushton', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to approve Application PLZ-20-1003, The Jordan Acre Subdivision, to be
+   2020-11-12 m1 Failed 5-to-2 | AYE=['Brian Russell', 'Kent Hartley'] NAY=['Dennis Hansen', 'Ed James', 'Grant Lefgren', 'Troy Rushton', 'Gary Cannon'] ABSTAIN=[] RECUSE=[] :: APPROVE Application PLZ-20-2035, “Dazzling Accessories” to be located 
+   2020-11-12 m2 Passed 5-to-2 | AYE=['Dennis Hansen', 'Ed James', 'Grant Lefgren', 'Troy Rushton', 'Gary Cannon'] NAY=['Brian Russell', 'Kent Hartley'] ABSTAIN=[] RECUSE=[] :: to DENY Application PLZ-20-2035. Commissioner James
+   2020-12-10 m1 Passed 6-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ-20-2037, CK Fitness, to be located at 12843
+   2020-12-10 m3 Passed 5-to-2 | AYE=['Brian Russell', 'Ed James', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Dennis Hansen', 'Kent Hartley'] ABSTAIN=[] RECUSE=[] :: to reopen the public hearing. Commissioner Rushton
+   2020-12-10 m5 Passed 5-to-2 | AYE=['Brian Russell', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Dennis Hansen', 'Ed James'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 19-8005, the Parkside Phase 3 Site Plan, to
+   2020-12-10 m9 Passed 6-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Kent Hartley', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Ed James'] ABSTAIN=[] RECUSE=[] :: to leave the previous motion as-is with conditions 1 through 10 and th
+   2021-01-14 m3 Passed 4-to-1 | AYE=['Brian Russell', 'Dennis Hansen', 'Grant Lefgren', 'Kent Hartley'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ-20-2050, Rocky Mountain Rifle, to be locate
+   2021-03-25 m2 Failed 3-to-3 | AYE=['Shelly Cluff', 'Grant Lefgren', 'Keith Breinholt'] NAY=['Natalia Brown', 'Gary Cannon', 'Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to recommend DENIAL of Application PLZ-21-5003 changing the General Pl
+   2021-03-25 m3 Passed 5-to-1 | AYE=['Natalia Brown', 'Shelly Cluff', 'Keith Breinholt', 'Gary Cannon', 'Troy Rushton'] NAY=['Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: to recommend APPROVAL of Application PLZ-21-5003 changing the General 
+   2021-04-22 m6 Passed 4-to-1 | AYE=['Shelly Cluff', 'Troy Rushton', 'Grant Lefgren', 'Gary Cannon'] NAY=['Keith Breinholt'] ABSTAIN=[] RECUSE=[] :: to CONTINUE Application PLZ-21-2015 Sol Journey Mindful Massage and Se
+   2021-05-13 m1 Passed 5-to-1 | AYE=['Keith Breinholt', 'Natalia Brown', 'Gary Cannon', 'Brian Russell', 'Troy Rushton'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 21-5005 General Plan Amendment and rezone o
+   2021-05-27 m2 Passed 4-to-2 | AYE=['Brian Russell', 'Shelly Cluff', 'Keith Breinholt', 'Troy Rushton'] NAY=['Natalia Brown', 'Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 21-1001, The Silos at Riverbend Subdivision
+   2021-06-24 m1 Passed 5-to-2 | AYE=['Brian Russell', 'Natalia Brown', 'Shelly Cluff', 'Keith Breinholt', 'Troy Rushton'] NAY=['Grant Lefgren', 'Gary Cannon'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 21-2002 Sadie’s Daycare home occupation loc
+   2021-06-24 m2 Passed 4-to-3 | AYE=['Brian Russell', 'Natalia Brown', 'Shelly Cluff', 'Gary Cannon'] NAY=['Grant Lefgren', 'Keith Breinholt', 'Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 21-2023 Conditional Use for 7 Tree Farms Do
+   2021-06-24 m5 Passed 6-to-1 | AYE=['Brian Russell', 'Natalia Brown', 'Grant Lefgren', 'Keith Breinholt', 'Gary Cannon', 'Troy Rushton'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: to APPROVE the Tajila Commercial proposed exterior paint modifications
+   2021-07-08 m1 Failed 4-to-2 | AYE=['Grant Lefgren', 'Gary Cannon'] NAY=['Brian Russell', 'Keith Breinholt', 'Troy Rushton', 'Natalia Brown'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ 21-2025, Conditional Use, McDougal Private 
+   2021-08-12 m4 Passed 5-to-1 | AYE=['Natalia Brown', 'Gary Cannon', 'Shelly Cluff', 'Grant Lefgren', 'Brian Russell'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to recommend APPROVAL of the Zone Text Change amending Section 18.25.1
+   2021-09-09 m1 Passed 5-to-1 | AYE=['Natalia Brown', 'Grant Lefgren', 'Shelly Cluff', 'Gary Cannon', 'Keith Breinholt'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: to recommend APPROVAL of PLZ-21-2031 “Crawford short-term rental” loca
+   2021-09-23 m4 Passed 4-to-1 | AYE=['Brian Russell', 'Keith Breinholt', 'Natalia Brown', 'Shelly Cluff'] NAY=['Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: to APPROVE Application PLZ-21-2033, Golden Children Daycare Home Occup
+   2021-10-28 m4 Passed 3-to-1 | AYE=['Natalia Brown', 'Grant Lefgren', 'Troy Rushton'] NAY=['Keith Breinholt'] ABSTAIN=[] RECUSE=[] :: CONTINUE Application PLZ-21-8018 and the public hearing for the McNeil
+   2021-11-18 m2 Passed 3-to-2 | AYE=['Natalia Brown', 'Shelly Cluff', 'Grant Lefgren'] NAY=['Gary Cannon', 'Keith Breinholt'] ABSTAIN=[] RECUSE=[] :: to recommend APPROVAL of PLZ-21-4008 Rezone of 1.93 acres of land loca
+   2021-11-18 m3 Passed 3-to-2 | AYE=['Gary Cannon', 'Keith Breinholt', 'Grant Lefgren'] NAY=['Natalia Brown', 'Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: to recommend DENIAL of PLZ-21-4009 Rezone of 8.0-acres of land located
+   2021-12-09 m6 Passed 3-to-1 | AYE=['Shelly Cluff', 'Keith Breinholt', 'Natalia Brown'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of Application PLZ-21-4012, for 4.07-acres at 2356 
+   2022-01-13 m3 Passed 4-to-1 | AYE=['Brian Russell', 'Natalia Brown', 'Shelly Cluff', 'Troy Rushton'] NAY=['Grant Lefgren'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-21-2047 “My Storage Riverton” Conditional Use for Storage 
+   2022-02-10 m3 Passed 4-to-2 | AYE=['Darren Park', 'Evan Matheson', 'Shelly Cluff', 'Jon Gilchrist'] NAY=['Troy Rushton', 'Keith Breinholt'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-22-2002 “Howell Private Lane”, to be located at 2356 West 
+   2022-02-24 m3 Failed | AYE=['Darren Park', 'Evan Matheson', 'Shelly Cluff'] NAY=['Jon Gilchrist', 'Keith Breinholt'] ABSTAIN=['Gary Cannon'] RECUSE=[] :: to AMEND the amendment to state as follows: 3. Private lane shall be a
+   2022-04-14 m1 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Jon Gilchrist', 'Gary Cannon'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of Application PLZ-22-4003, rezoning 2.62-acres loc
+   2022-04-14 m5 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Gary Cannon'] NAY=['Jon Gilchrist'] ABSTAIN=[] RECUSE=[] :: to DENY Application PLZ-21-8002 “Smart Retail” amending the exterior o
+   2022-06-09 m2 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Jon Gilchrist', 'Keith Breinholt', 'Shelly Cluff'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: CONTINUE Application PLZ-22-2014 DG Tree, LLC to the Planning Commissi
+   2022-06-09 m8 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Jon Gilchrist', 'Keith Breinholt', 'Shelly Cluff'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of the Development Agreement, “Olson Property”, for
+   2022-06-23 m1 Passed 5-to-1 | AYE=['Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Jon Gilchrist', 'Gary Cannon'] NAY=['Keith Breinholt'] ABSTAIN=[] RECUSE=[] :: the Planning Commission APPROVE PLZ-22-8018, “Amended Mountain Ridge W
+   2022-08-25 m5 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Shelly Cluff', 'Keith Breinholt', 'Gary Cannon'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE Application PLZ-22-2031, "Hughes and Hubbard Private Lane," to
+   2022-10-13 m2 Passed 5-to-1 | AYE=['Troy Rushton', 'Evan Matheson', 'Shelly Cluff', 'Jon Gilchrist', 'Keith Breinholt'] NAY=['Darren Park'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of Application PLZ-22-4009, Funaro General Plan Ame
+   2022-12-08 m4 Passed 4-to-3 | AYE=['Troy Rushton', 'Jon Gilchrist', 'Keith Breinholt', 'Gary Cannon'] NAY=['Darren Park', 'Evan Matheson', 'Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: DENY PLZ-22-8021, My Storage Riverton, Final Site Plan, and Amended Su
+   2023-01-12 m2 Passed 4-to-1 | AYE=['Evan Matheson', 'Troy Rushton', 'Keith Breinholt', 'Gary Cannon'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of Application PLZ-22-4010 Wright-Parkside Rezone o
+   2023-02-09 m1 Passed unanimously | AYE=['Troy Rushton', 'Shelly Cluff', 'Gary Cannon', 'Jon Gilchrist'] NAY=[] ABSTAIN=['Darren Park', 'Evan Matheson', 'Keith Breinholt'] RECUSE=[] :: RECOMMEND ADOPTION of the “Water Efficient Landscape Ordinance”, as sh
+   2023-02-09 m3 Passed 6-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Keith Breinholt', 'Jon Gilchrist'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: APPROVE Application #PLZ 22-8021 “My Storage Riverton” Final Site Plan
+   2023-02-23 m2 Passed 4-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Shelly Cluff', 'Jon Gilchrist'] NAY=['Troy Rushton'] ABSTAIN=['Keith Breinholt', 'Gary Cannon'] RECUSE=[] :: to recommend APPROVAL to the City Council to amend the Residential Chi
+   2023-03-09 m1 Passed 6-to-1 | AYE=['Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Keith Breinholt', 'Gary Cannon', 'Jon Gilchrist'] NAY=['Darren Park'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-23-8004, “Starbucks Coffee,” amending the Site Plan of the
+   2023-03-09 m2 Passed 4-to-3 | AYE=['Gary Cannon', 'Keith Breinholt', 'Evan Matheson', 'Troy Rushton'] NAY=['Shelly Cluff', 'Darren Park', 'Jon Gilchrist'] ABSTAIN=[] RECUSE=[] :: DENY PLZ-23-8005, "IFA Lot 2," amending the Site Plan of the existing 
+   2023-03-23 m3 Passed 4-to-1 | AYE=['Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Gary Cannon'] NAY=['Jon Gilchrist'] ABSTAIN=[] RECUSE=[] :: recommend DENIAL of the requested amendment to the M-1 Zone due to the
+   2023-04-13 m2 Passed 5-to-1 | AYE=['Gary Cannon', 'Evan Matheson', 'Monique Beck', 'Troy Rushton', 'Jon Gilchrist'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: to APPROVE PLZ-23-2016 “HamHam Specialty Grooming,” located at 12317 S
+   2023-09-28 m1 Passed 6-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Jon Gilchrist', 'Monique Beck', 'Gary Cannon'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ 23-2026 “Lakewood Property Maintenance”, at 1390 West 1229
+   2023-10-12 m1 Passed 4-to-2 | AYE=['Evan Matheson', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon'] NAY=['Darren Park', 'Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-23-2030 “Marx Private Lane”, to be located at 11997 South 
+   2023-10-12 m3 Failed 4-to-2 | AYE=['Evan Matheson', 'Troy Rushton'] NAY=['Darren Park', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon'] ABSTAIN=[] RECUSE=[] :: DENY PLZ 23-2029, "Playground Specialists," at 2326 West Blazer Circle
+   2023-10-12 m4 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-23-2029, “Playground Specialists”, at 2326 West Blazer Cir
+   2024-01-11 m2 Passed 6-to-1 | AYE=['Shelly Cluff', 'Evan Matheson', 'Monique Beck', 'Darren Park', 'Gary Cannon', 'Jon Gilchrist'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-23-2040 “Sherry Walker”, at 3507 West Melody Creek Circle 
+   2024-01-11 m3 Passed 6-to-1 | AYE=['Troy Rushton', 'Shelly Cluff', 'Evan Matheson', 'Monique Beck', 'Darren Park', 'Jon Gilchrist'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: to CONTINUE PLZ-23-2041 McRoberts Short-Term Rental to be located at 1
+   2024-02-08 m6 Passed unanimously | AYE=['Darren Park', 'Troy Rushton', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon', 'Jon Gilchrist'] NAY=[] ABSTAIN=['Evan Matheson'] RECUSE=[] :: for Evan Matheson to serve as Chair for 2024. The motion was
+   2024-02-08 m7 Passed unanimously | AYE=['Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon', 'Jon Gilchrist'] NAY=[] ABSTAIN=['Darren Park'] RECUSE=[] :: for Darren Park to serve as Vice-Chair for 2024. The motion was
+   2024-04-11 m3 Failed 5-to-1 | AYE=['Troy Rushton'] NAY=['Darren Park', 'Jon Gilchrist', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck'] ABSTAIN=[] RECUSE=[] :: CONTINUE PLZ-24- 2006, “The Children’s Villa,” at 3558 West New Privat
+   2024-04-11 m4 Passed 5-to-1 | AYE=['Darren Park', 'Jon Gilchrist', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-24-2006, Children’s Villa at 3558 West New Private Drive, 
+   2024-06-13 m4 Passed 6-to-1 | AYE=['Darren Park', 'Shelly Cluff', 'Crystal Keele', 'Monique Beck', 'Gary Cannon', 'Evan Matheson'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of the Development Agreement for Paige Retail Plaza
+   2024-06-27 m1 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Crystal Keele', 'Gary Cannon'] NAY=['Shelly Cluff'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-24- 8007, Delton Bowling Amended Commercial Site Plan, loc
+   2024-06-27 m3 Passed 5-to-1 | AYE=['Darren Park', 'Evan Matheson', 'Troy Rushton', 'Shelly Cluff', 'Crystal Keele'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: APPROVE Application PLZ-24-8002, Newman Office Site Plan, subject to t
+   2024-08-08 m4 Passed 7-to-1 | AYE=['Chris Knudsen', 'Evan Matheson', 'Shelly Cluff', 'Crystal Keele', 'Monique Beck', 'Gary Cannon'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-24-8010, Burger King, amending the Site Plan of the existi
+   2024-10-10 m1 Passed 4-to-1 | AYE=['Crystal Keele', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: forward a recommendation of DENIAL of Application PLZ-24-6001, adoptin
+   2024-11-14 m5 Passed 6-to-1 | AYE=['Darren Park', 'Crystal Keele', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-24-1007, “Skibidi Rizz Subdivision”, to be located at 1344
+   2025-01-09 m4 Passed 6-to-1 | AYE=['Crystal Keele', 'Evan Matheson', 'Shelly Cluff', 'Monique Beck', 'Gary Cannon', 'Chris Knudsen'] NAY=['Troy Rushton'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of the Historic Sites Ordinance Text Amendment, App
+   2025-10-09 m3 Passed 5-to-1 | AYE=['Monique Beck', 'Crystal Keele', 'Troy Rushton', 'Evan Matheson', 'Shelly Cluff'] NAY=['Chris Knudsen'] ABSTAIN=[] RECUSE=[] :: APPROVE PLZ-25-1006, “Willard’s Farm Subdivision,” with the following 
+   2025-11-20 m1 Passed 6-to-1 | AYE=['Evan Matheson', 'Monique Beck', 'Troy Rushton', 'Darren Park', 'Shelly Cluff', 'Crystal Keele'] NAY=[] ABSTAIN=['Gary Cannon'] RECUSE=[] :: recommend APPROVAL of the Development Agreement for the Newman Constru
+   2025-12-11 m1 Passed 6-to-1 | AYE=['Monique Beck', 'Crystal Keele', 'Evan Matheson', 'Darren Park', 'Troy Rushton'] NAY=['Gary Cannon'] ABSTAIN=[] RECUSE=[] :: APPROVE Application PLZ-25-2042, “Reader Short-Term Rental,” located a
+   2025-12-11 m5 Passed 4-to-3 | AYE=['Gary Cannon', 'Shelly Cluff', 'Darren Park', 'Monique Beck'] NAY=['Crystal Keele', 'Troy Rushton', 'Evan Matheson'] ABSTAIN=[] RECUSE=[] :: recommend APPROVAL of Application PLZ-24-4008, “Utah Collective Rezone
+   2026-02-12 m5 Passed 4-to-1 | AYE=['Monique Beck', 'Gary Cannon', 'Crystal Keele', 'Joe Marzo'] NAY=['Evan Matheson'] ABSTAIN=[] RECUSE=[] :: recommend DENIAL of Application PLZ-25-4010, “Quinn Rezone,” for chang
+   2026-05-14 m1 Failed | AYE=['Joe Marzo', 'Monique Beck', 'Evan Matheson'] NAY=['Shelly Cluff', 'Darren Park', 'Crystal Keele'] ABSTAIN=[] RECUSE=[] :: recommend DENIAL of Application PLZ-26-4002, “Majestic Homes Rezone,” 
+   2026-05-14 m2 Passed 4-to-2 | AYE=['Joe Marzo', 'Shelly Cluff', 'Monique Beck', 'Evan Matheson'] NAY=['Darren Park', 'Crystal Keele'] ABSTAIN=[] RECUSE=[] :: recommend DENIAL of Application PLZ-26-4002, “Majestic Homes Rezone,” 

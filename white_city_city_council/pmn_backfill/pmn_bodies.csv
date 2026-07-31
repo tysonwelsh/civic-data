@@ -1,0 +1,3 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+1325,5805,White City Council,yes,meeting_minutes,,pm4,2018-01-01,"data floor 2017, but the entire 2017 council year (18 mtgs) is PMN blob-purged/404 -> floor 2018-01-01; 2018-02-01 and 2018-09-06 are also purged (see exceptions); minutes attach to the next notice, key by filename date"
+1325,5879,White City Planning Commission,yes,planning_commission,,pm4,2019-01-01,"the PC minutes series (recovered here from body 5879 & promoted, 2019-01-29 -> 2025-05-20); pre-2019 PC notices are agenda-only (no minutes ever posted); sporadic - many noticed PC dates were never minuted (in planning_commission/minutes_unrecovered.csv)"

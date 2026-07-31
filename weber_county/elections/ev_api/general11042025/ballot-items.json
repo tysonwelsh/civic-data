@@ -1,0 +1,4337 @@
+{
+ "data": [
+  {
+   "id": "01000000-e857-63d6-f407-08de1009785c",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "FARR WEST CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2259,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-f573-08de1009785c",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAVID P. BOLOS"
+       }
+      ],
+      "voteCount": 1324,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-f5f9-08de1009785c",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KEN PHIPPEN"
+       }
+      ],
+      "voteCount": 935,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-9d0a-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "FARR WEST CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 3268,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-9db3-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KATIE APRIL WILLIAMS"
+       }
+      ],
+      "voteCount": 1605,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-9e20-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JASON JAMES ANDERSON"
+       }
+      ],
+      "voteCount": 1663,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-9fe6-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HARRISVILLE CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1419,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a012-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ROGER W. SHUMAN"
+       }
+      ],
+      "voteCount": 1017,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a040-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MICHELLE TAIT"
+       }
+      ],
+      "voteCount": 402,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a12c-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HARRISVILLE CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2567,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a14b-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRENDA NELSON"
+       }
+      ],
+      "voteCount": 359,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a172-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "GREG MONTGOMERY"
+       }
+      ],
+      "voteCount": 870,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a190-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STEVEN WAYNE HEMPEL"
+       }
+      ],
+      "voteCount": 509,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a1b1-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JASON HADLEY"
+       }
+      ],
+      "voteCount": 829,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a2b7-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HOOPER CITY COUNCIL SEAT 1"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 964,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a2cf-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LARRY ROPELATO"
+       }
+      ],
+      "voteCount": 530,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a2f0-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AMANDA PRINCE"
+       }
+      ],
+      "voteCount": 434,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a374-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HOOPER CITY COUNCIL SEAT 2"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 3,
+    "totalUnits": 3,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 363,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a386-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAVID LEE CRAIG"
+       }
+      ],
+      "voteCount": 363,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a40a-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HOOPER CITY COUNCIL SEAT 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 3,
+    "totalUnits": 3,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 551,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a41b-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DEBRA MARIGONI"
+       }
+      ],
+      "voteCount": 218,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a439-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RAY HANCOCK HANCOCK"
+       }
+      ],
+      "voteCount": 333,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a4a1-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "HUNTSVILLE TOWN COUNCIL AT-LARGE HUNTSVILLE TOWN COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 1,
+    "totalUnits": 1,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 441,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a4b5-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JEFF KEENEY"
+       }
+      ],
+      "voteCount": 114,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a4c7-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JAMES A TRUETT"
+       }
+      ],
+      "voteCount": 193,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a4d7-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SANDY HUNTER"
+       }
+      ],
+      "voteCount": 134,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a521-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "MARRIOTT-SLATERVILLE CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 644,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a532-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LES SYME"
+       }
+      ],
+      "voteCount": 440,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a54e-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MARK G HODSON"
+       }
+      ],
+      "voteCount": 204,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-a5ce-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH OGDEN CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 14,
+    "totalUnits": 14,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 5128,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-a5e1-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RYAN M. BARKER"
+       }
+      ],
+      "voteCount": 3062,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-a663-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PHIL SWANSON"
+       }
+      ],
+      "voteCount": 2066,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-b3fb-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH OGDEN CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 14,
+    "totalUnits": 14,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 8944,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-b7c0-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KEVIN BURNS"
+       }
+      ],
+      "voteCount": 1940,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-b81a-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "TERA CARNEY"
+       }
+      ],
+      "voteCount": 2115,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-b851-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ZACH WARD"
+       }
+      ],
+      "voteCount": 1505,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-b886-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JAY D DALPIAS"
+       }
+      ],
+      "voteCount": 3384,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-baa1-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY MAYOR OGDEN VALLEY CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 9,
+    "totalUnits": 9,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 3461,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-babd-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JANET WAMPLER"
+       }
+      ],
+      "voteCount": 1998,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-baf3-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHANNA FRANCIS"
+       }
+      ],
+      "voteCount": 1441,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bb24-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Write-in"
+       }
+      ],
+      "voteCount": 22,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-bbf1-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY COUNCIL SEAT 1"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 1,
+    "totalUnits": 1,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 601,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-bc06-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CHELSEA J ARGYLE"
+       }
+      ],
+      "voteCount": 224,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bc19-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "TIA V SHAW"
+       }
+      ],
+      "voteCount": 377,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-bc5f-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY COUNCIL SEAT 2"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 662,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-bc72-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ABE KELLY WANGSGARD"
+       }
+      ],
+      "voteCount": 265,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bc90-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PEGGY DOOLING-BAKER"
+       }
+      ],
+      "voteCount": 397,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-bce3-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY COUNCIL SEAT 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 788,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-bcf9-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FRED W. BLICKLE, III"
+       }
+      ],
+      "voteCount": 257,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bd0e-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KAY HOOGLAND"
+       }
+      ],
+      "voteCount": 531,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-bd5a-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY COUNCIL SEAT 4"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 696,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-bd6a-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CHAD BOOTH"
+       }
+      ],
+      "voteCount": 593,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bd83-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LAURA WARBURTON"
+       }
+      ],
+      "voteCount": 103,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-bdd6-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY COUNCIL SEAT 5"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 693,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-bdee-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DON HICKMAN"
+       }
+      ],
+      "voteCount": 441,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-be03-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAN DAVENPORT"
+       }
+      ],
+      "voteCount": 252,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-be52-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN CITY COUNCIL AT-LARGE SEAT A"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 42,
+    "totalUnits": 42,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 11371,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-be67-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ALICIA WASHINGTON"
+       }
+      ],
+      "voteCount": 6439,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-bed7-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MARCIA WHITE"
+       }
+      ],
+      "voteCount": 4932,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c11c-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN CITY COUNCIL AT-LARGE SEAT B"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 42,
+    "totalUnits": 42,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 11420,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c131-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BART E. BLAIR"
+       }
+      ],
+      "voteCount": 4541,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c181-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KEVIN LUNDELL"
+       }
+      ],
+      "voteCount": 6879,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c3a4-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN CITY COUNCIL SEAT 1"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 10,
+    "totalUnits": 10,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1843,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c3ba-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JASE REYNEVELD"
+       }
+      ],
+      "voteCount": 735,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c3ed-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FLOR LOPEZ"
+       }
+      ],
+      "voteCount": 1108,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c4bc-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN CITY COUNCIL SEAT 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 11,
+    "totalUnits": 11,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 3442,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c4cf-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KEN R. RICHEY"
+       }
+      ],
+      "voteCount": 1795,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c50a-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "HEATH SATOW"
+       }
+      ],
+      "voteCount": 1647,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c5eb-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "PLAIN CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2242,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c5fe-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PHIL F. MEYER"
+       }
+      ],
+      "voteCount": 1400,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c61e-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHAWNA FAULKNER"
+       }
+      ],
+      "voteCount": 842,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c6a3-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "PLAIN CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4097,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c6b7-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JED JENKINS"
+       }
+      ],
+      "voteCount": 1283,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c6de-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SEAN JONES"
+       }
+      ],
+      "voteCount": 870,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c6fb-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ROBERT JENKINS LAMB"
+       }
+      ],
+      "voteCount": 787,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c715-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LUIGI PANUNZIO"
+       }
+      ],
+      "voteCount": 1157,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c7dd-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "PLEASANT VIEW CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 11,
+    "totalUnits": 11,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2733,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c7ed-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STEVEN GIBSON"
+       }
+      ],
+      "voteCount": 1515,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c819-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SARA B. URRY"
+       }
+      ],
+      "voteCount": 1218,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-c905-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "PLEASANT VIEW CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 11,
+    "totalUnits": 11,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4668,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-c91b-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SEAN WILKINSON"
+       }
+      ],
+      "voteCount": 1690,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c947-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRIAN GRAY"
+       }
+      ],
+      "voteCount": 999,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c976-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHNNY FERRY"
+       }
+      ],
+      "voteCount": 1398,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-c9a2-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DEREK DRAPER"
+       }
+      ],
+      "voteCount": 581,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-cb06-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "RIVERDALE CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1144,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-cb1a-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRADEN D. MITCHELL"
+       }
+      ],
+      "voteCount": 1144,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-cbc4-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "RIVERDALE CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2363,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-cbda-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KENT T. ANDERSON"
+       }
+      ],
+      "voteCount": 734,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cbf4-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BART STEVENS"
+       }
+      ],
+      "voteCount": 619,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cc10-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHAUNA FLINDERS"
+       }
+      ],
+      "voteCount": 458,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cc2c-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STACEY E HAWS"
+       }
+      ],
+      "voteCount": 552,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-ccd2-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "RIVERDALE CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1140,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-cce7-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANNE K. HANSEN"
+       }
+      ],
+      "voteCount": 1140,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-cd4e-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "ROY CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 26,
+    "totalUnits": 26,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 5738,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-cd5e-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANN MARINDA JACKSON"
+       }
+      ],
+      "voteCount": 3008,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cd93-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MIKE J VANALFEN"
+       }
+      ],
+      "voteCount": 2730,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-cf2f-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "ROY CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 26,
+    "totalUnits": 26,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 10011,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-cf41-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DIANE WILSON"
+       }
+      ],
+      "voteCount": 2539,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cf8c-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JASON EVAN SPHAR"
+       }
+      ],
+      "voteCount": 2319,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-cfee-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JANEL HULBERT"
+       }
+      ],
+      "voteCount": 3066,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-d039-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANTHONY W. DICK"
+       }
+      ],
+      "voteCount": 2087,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-d2d3-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "ROY CITY COUNCIL AT-LARGE ROY CITY COUNCIL AT-LARGE 2 YR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 26,
+    "totalUnits": 26,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 5631,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-d2e4-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ALEXIS JACKSON"
+       }
+      ],
+      "voteCount": 3397,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-d32c-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RANDY R. SCADDEN"
+       }
+      ],
+      "voteCount": 2234,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-d6a2-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "UINTAH CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 286,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-d6b4-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KRISTI LEE BELL"
+       }
+      ],
+      "voteCount": 286,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-d700-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "UINTAH CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 2,
+    "totalUnits": 2,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 588,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-d712-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MICHELLE H. ROBERTS"
+       }
+      ],
+      "voteCount": 245,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-d72b-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BENJAMIN R MITCHELL"
+       }
+      ],
+      "voteCount": 130,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-d73d-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHN TEAGUE SORENSON"
+       }
+      ],
+      "voteCount": 213,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-d7a7-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEST HAVEN CITY MAYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 15,
+    "totalUnits": 15,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 3492,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-d7b7-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AUSTIN DANIEL SLAUGHTER"
+       }
+      ],
+      "voteCount": 1301,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-d7f9-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ROB VANDERWOOD"
+       }
+      ],
+      "voteCount": 2191,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-d9d9-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEST HAVEN CITY COUNCIL AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 15,
+    "totalUnits": 15,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 6057,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-d9f7-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RYAN SWAPP"
+       }
+      ],
+      "voteCount": 2122,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-da33-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RYAN SAUNDERS"
+       }
+      ],
+      "voteCount": 2527,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-da6e-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRAD SMITH"
+       }
+      ],
+      "voteCount": 1408,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-dbe6-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH VIEW FIRE DISTRICT BOARD MEMBER AT-LARGE NORTH VIEW FIRE DISTRICT BOARD MEMBER AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 29,
+    "totalUnits": 29,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 8265,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-dbf8-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LEONARD CALL"
+       }
+      ],
+      "voteCount": 4277,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-dc3c-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CAMERON KENT WEST"
+       }
+      ],
+      "voteCount": 3988,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-de7f-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH VIEW FIRE DISTRICT BOARD MEMBER DISTRICT 1 NORTH VIEW FIRE DISTRICT BOARD MEMBER SEAT 1"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1248,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-de98-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CHRIS RICHARD CLARK"
+       }
+      ],
+      "voteCount": 1248,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-df08-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH VIEW FIRE DISTRICT BOARD MEMBER DISTRICT 2 NORTH VIEW FIRE DISTRICT BOARD MEMBER SEAT 2"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 14,
+    "totalUnits": 14,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4259,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-df1b-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHN (JACK) ARRINGTON"
+       }
+      ],
+      "voteCount": 4259,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-dfcf-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "NORTH VIEW FIRE DISTRICT BOARD MEMBER DISTRICT 3 NORTH VIEW FIRE DISTRICT BOARD MEMBER SEAT 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 11,
+    "totalUnits": 11,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2503,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-dfe6-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAVID G. REED"
+       }
+      ],
+      "voteCount": 1000,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e021-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MEREDITH AARDEMA"
+       }
+      ],
+      "voteCount": 1503,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-e140-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEBER FIRE DISTRICT BOARD OF TRUSTEE AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 2"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 32,
+    "totalUnits": 32,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 6515,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-e156-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KEVIN WARD"
+       }
+      ],
+      "voteCount": 2873,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e1a4-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAVID L AUSTIN"
+       }
+      ],
+      "voteCount": 1735,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e1ec-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DAVID YONAN"
+       }
+      ],
+      "voteCount": 1907,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-e857-63d6-e3b0-08de1009785e",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11042025",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "TAYLOR WEST WEBER IMPROVEMENT DISTRICT TRUSTEE AT-LARGE"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 3"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 10,
+    "totalUnits": 10,
+    "asOf": "2025-11-21T16:31:29.2331248Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4160,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-e857-63d6-e3c1-08de1009785e",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CAMIE JO CLONTZ"
+       }
+      ],
+      "voteCount": 608,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e3f2-08de1009785e",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "GAGE KEN CHARLESWORTH"
+       }
+      ],
+      "voteCount": 362,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e41a-08de1009785e",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "WESTON IRVIN MITTON"
+       }
+      ],
+      "voteCount": 479,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e440-08de1009785e",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RON GIBSON BENNETT GIBSON"
+       }
+      ],
+      "voteCount": 329,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e46a-08de1009785e",
+      "nativeId": "5",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KENDLE WAYNE GIBSON"
+       }
+      ],
+      "voteCount": 403,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e498-08de1009785e",
+      "nativeId": "6",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANDREW S. FAVERO"
+       }
+      ],
+      "voteCount": 790,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e4c0-08de1009785e",
+      "nativeId": "7",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRODY HESLOP"
+       }
+      ],
+      "voteCount": 671,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "01000000-e857-63d6-e4e4-08de1009785e",
+      "nativeId": "8",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NATHAN E. DAVIS"
+       }
+      ],
+      "voteCount": 518,
+      "party": {
+       "id": "01000000-e857-63d6-9d3a-08de1009785a",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "NONPARTISAN"
+        }
+       ],
+       "abbreviation": "NON",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  }
+ ],
+ "limit": 0,
+ "offset": 0,
+ "totalRecordCount": 41
+}

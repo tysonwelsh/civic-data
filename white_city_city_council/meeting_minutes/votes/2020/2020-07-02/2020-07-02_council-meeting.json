@@ -1,0 +1,310 @@
+{
+ "date": "2020-07-02",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-07-02/2020-07-02_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to suspend the staff meeting and move into the business portion of the meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adjourn the staff meeting",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to open the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve Ordinance 20-06-01",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "4-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 6,
+   "motion": "to start the business portion of the meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 7,
+   "motion": "to approve the minutes of the White City Metro Township Council meeting held on June 4, 2020",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 8,
+   "motion": "to table the resolution until next month. The motion",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 9,
+   "motion": "to approve Resolution No. 20-07-01",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "4-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Scott Little"
+   ],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 10,
+   "motion": "to approve Resolution No. 20-07-02",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 11,
+   "motion": "to approve Resolution No. 20-07-03",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "4-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Scott Little"
+   ],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 12,
+   "motion": "to approve Resolution No. 20-07-04 with the deletion of the word “prioritization of” in paragraph two and add Canyons School District in paragraph c of the resolution",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 13,
+   "motion": "to appoint Council Member Price as an alternate trustee to the Unified Fire Authority and Unified Fire Services Boards. Council Member Price accepted the appointment",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 14,
+   "motion": "to approve the continuing representation for Foxley & Pignanelli for government and public affairs purposes",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+# Planning Commission Meeting — 2021-05-18
+> Source: http://cityofholladay.com/file/2021/07/051821-PC-Mtg-1.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20211201152150id_/http://cityofholladay.com/file/2021/07/051821-PC-Mtg-1.pdf
+> Meeting date: 2021-05-18
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                         MINUTES OF THE CITY OF HOLLADAY
+                          PLANNING COMMISSION MEETING
+
+                                     Tuesday, May 18, 2021
+                                            6:00 p.m.
+                                     City Council Chambers
+                                      4580 South 2300 East
+                                         Holladay, Utah
+
+ATTENDANCE:
+
+Planning Commission Members:                          City Staff:
+Jan Bradshaw, Chair                                   LaNiece Davenport, Community/Economic
+Martin Banks                                             Development Director
+Chris Layton                                          Jonathan Teerlink, Planning Manager
+Ann Mackin                                            Stephanie Carlson, City Recorder
+Marianne Ricks                                        Robert Hobbs, Senior City Planner
+
+CONVENE ELECTRONIC MEETING – Public Welcome and Chair Opening Statement.
+Chair Jan Bradshaw called the Regular Meeting to order at 6:01 p.m. and read the Commission
+Statement.
+
+CONTINUED ITEM
+1.     Conditional Use Permit – Stallings Accessory Garage – 3938 South 3030 East (R-1-8
+       Zone).
+Chair Bradshaw reported that the public hearing remained open from the previous meeting.
+
+The applicant, William Stallings, stated that he was not privy to any of the emails or
+correspondence from the last meeting. He has lived in the neighborhood for 11 years and
+understands the concerns of his neighbors and the reason for tonight’s meeting. He addressed a
+few of the concerns and stated that there has been a lot of misinformation. With regard to height,
+he is within the allowed graduated height envelope set forth by the City and height is not an issue.
+He has spent time trying to determine what will look best. He displayed a rendering of a shop he
+built seven or eight years ago that is of similar construction. He was trying to maintain the overall
+look and aesthetics of the neighborhood.
+
+Commissioner Ricks commented that a neighbor expressed concern about the proximity of the
+building to her property. Mr. Stallings indicated that some trees were removed and replaced by
+the neighbor. She will eventually be looking at the trees she planted rather than at the building.
+Mr. Stallings stated that the neighbor has no setback. Planning Manager, Jonathan Teerlink, was
+unaware of the proximity of the neighbor’s home to the property line and stated that it was part of
+the incorporation that took place in 2014.
+
+Chair Bradshaw closed the public hearing.
+
+
+
+City of Holladay Planning Commission Meeting –05/18/2021
+
+                                                 1
+Commissioner Ricks had no objection to what was proposed. While it is close to the property line,
+the neighbor has a zero setback. She also considered the proposed 94 feet to be reasonable.
+
+Commissioner Banks had no objections to the proposal.
+
+Commissioner Chris Layton’s biggest concern was that the structure is in compliance with the
+height and setback requirements. He was not concerned about the area, particularly if the
+impervious area requirements are met. He had no concerns with the request.
+
+Commissioner Mackin stated that it seemed the discourse expressed at the last meeting had been
+resolved.
+
+Chair Bradshaw conducted some research and visited the County Assessors website to look at the
+footprint of the neighboring home and the proximity to the proposed building. She had no
+objection to what was proposed.
+
+Commissioner Ricks moved to approve the Conditional Use Permit for the placement of an
+accessory detached garage structure at 3938 South 3030 East subject to the following:
+
+Short-List Findings:
+       1.     The desired garage structure will provide covered/enclosed parking not
+              apparently present on the Property – thus providing value to the lot, bringing it
+              into better with the spirit of the zoning code [sheltered parking provision], and
+              improving, at least theoretically, the safety of the site (e.g., being able to access
+              vehicles in a structure during winter months);
+
+       2.      The garage is intended to, or will have the expected effect of, replacing two
+               detached structures already on the Property in the vicinity of the proposed
+               garage’s idealized position;
+
+       3.      The detached garage is proposed to be a one-story structure set away from
+               adjoining property lines in accordance with relevant setback listed in H.C.C. §
+               Chart 13.14.101 and [to be] roughly harmonious in style with the existing house
+               on site;
+
+       4.      The proposed square footage overage, subjectively speaking, is not considered
+               excessive and serves to assist the overall floor plan of the garage to be more
+               functional for the Applicant/Owner;
+
+       5.      Staff has not received objections (written or verbally expressed) to date respecting
+               the CUP request; and
+
+       6.      Any other findings as may be determined by the Commission in its review of the
+               application.
+
+
+
+City of Holladay Planning Commission Meeting –05/18/2021
+
+                                                2
+Conditions of Approval:
+       1.     The Owner/Applicant shall obtain a building permit for the proposed detached
+              garage structure and final occupancy approval before using the same for its
+              intended purpose(s);
+
+       2.      The Owner/Applicant shall not establish or use the structure as an accessory
+               dwelling unit on the Property;
+
+       3.      City approval of the project garage does not, and shall not, abrogate the
+               Applicant’s/Owner’s responsibility to comply with any relevant deed restriction(s)
+               and/or covenants, conditions, and restrictions (“CC&Rs”) that may be assigned
+               to the Property; and
+
+       4.      Any other findings as may be determined by the Commission its review of the
+               application.
+
+Commissioner Chris Layton seconded the motion. Vote on motion: Commissioner Chris
+Layton-Aye, Commissioner Ricks-Aye, Commission Mackin-Aye, Commissioner Banks-Aye,
+Chair Bradshaw-Aye. The motion passed unanimously.
+
+DISCUSSION
+2.     2021 Legislative Review – House and Senate Bills Affecting Local Land Use
+       Regulations.
+Economic and Community Development Director, LaNiece Davenport, reported that the 2021
+General Session was unique although several bills still passed during the Legislative Session.
+Those that did not pass were described. The City worked closely with the City Lobbyists and the
+Utah League of Cities and Towns (“ULCT”) on several including a digital billboards bill, a Short-
+Term Rental (“STR”) expansion bill, and an impact fee regulations bill.
+
+The bills that passed included the following:
+
+   •   HB-82 was sponsored by Representative Raymond Ward from Davis County and was
+       identified as the Single-Family Housing Modifications Bill. It impacts the City of Holladay
+       as well as all cities and counties throughout the State. It requires all cities and counties to
+       permit Internal Accessory Dwelling Units (“IADU”) in primarily residential zones and
+       were added to the Land Use Development Management Act (“LUDMA”). The City is now
+       considering where it makes the most sense to permit IADUs in the primarily residential
+       zones. They can exclude IADUs in up to 25% of residential zones. Staff took the matter
+       to the City Council in an effort to get policy direction on whether to exclude some areas
+       from allowing IADUs. The intent was to create an overlay zone. Ms. Davenport noted
+       that it cannot be tied to lot size, however, there is a provision in the bill that allows lots that
+       are less than 6,000 square feet to be excluded.
+
+       Ms. Davenport reported that the definition of an IADU is a unit within the primary dwelling
+       of an owner-occupied unit or within the footprint of a primary owner-occupied unit. One
+
+City of Holladay Planning Commission Meeting –05/18/2021
+
+                                                   3
+       of the main objectives was recognizing the housing supply issue in the State of Utah. This
+       seemed to be one way to address the problem as it creates more housing supply. With
+       regard to affordability issues, she explained that in order for IADUs to be affordable, a
+       family cannot spend more than 30% of their income on housing. That number varies by
+       County.
+
+       Ms. Davenport explained that there are things they cannot regulate as part of the legislation.
+       They were specific about not giving cities the ability to regulate internal EDUs. They can,
+       however, regulate things such as ensuring that they have the proper egress. They can
+       require one additional parking spot as well. What will likely come out of the legislation is
+       a new City ordinance. The City has until October 1 to identify the 25% area where IADUs
+       would not be allowed. Timing issues were discussed.
+
+       Ms. Davenport explained that a key planning principle is to create more dense centers
+       around major transportation corridors and economic nodes or job centers. The intent was
+       to first identify where it makes the most sense for the 75% to be located. It was determined
+       that the best place is within one-quarter mile of major transportation and commercial nodes.
+       Areas outside of that area would be excluded. Another idea was to consider excluding lots
+       that are under 6,000 square feet in size recognizing that they comprise less than 1% of the
+       residential zone. Possible options were discussed.
+
+   •   HB-98 involves local government building regulations. It passed the General Session and
+       was vetoed by the Governor for one provision that related to Federal Emergency
+       Management Agency (“FEMA”) flood insurance issues. It is coming back in a special
+       session and will impact local governments by maintaining the 14-day plan review timeline.
+       It impacts plan reviews, design reviews, and building inspections. The portions outside of
+       the flood insurance portion were expected to come back.
+
+   •   HB-409 is important to the Planning Commission and involves the City and County Land
+       Use Development revisions. The bill requires four hours of training for Planning
+       Commission Members. All new Planning Commission Members have one hour of training
+       on powers and duties in advance of the first meeting and three additional hours of training
+       on land use that can be completed within a certain time period. Staff set a tentative date
+       for the one-hour training as June 22 at 6:00 p.m. Legal counsel will be present for the
+       training as well. The three-hour training will be offered in an online platform by the ULCT.
+
+   •   SB-201 is a public notice amendments bill that was vetoed but included in the special
+       session. It eliminated certain newspaper noticing requirements. It was anticipated that
+       there will be some requirement for newspapers and could be based on city size.
+
+   •   HB-433 is a transportation infrastructure bill. It invested $1.1 billion in State roads
+       including transit and active transportation funding. Some cities were given ongoing
+       funding and others were awarded one-time money. The City of Holladay is receiving a
+       $300,000 appropriation.
+
+
+City of Holladay Planning Commission Meeting –05/18/2021
+
+                                                 4
+Ms. Davenport indicated that staff is working through all of the legislation that impacts the City.
+She reminded the Commission Members that the ULCT website includes a summary of the bills.
+
+Commissioner Ricks asked about the upcoming tax increase and where they are in the process.
+City Recorder, Stephanie Carlson, stated that it was moving forward. A Truth in Taxation Hearing
+was upcoming in August.
+
+The next Planning Commission Meeting was scheduled for Tuesday, June 1, 2021.
+
+ADJOURN
+Commissioner Mackin moved to adjourn. The motion passed with the unanimous consent of
+the Commission.
+
+The Planning Commission Meeting adjourned at 6:37 p.m.
+
+
+I hereby certify that the foregoing represents a true, accurate, and complete record of the City
+of Holladay Planning Commission Meeting held Tuesday, May 18, 2021.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+
+
+Minutes Approved: 06/15/2021
+
+
+
+
+City of Holladay Planning Commission Meeting –05/18/2021
+
+                                                5
+

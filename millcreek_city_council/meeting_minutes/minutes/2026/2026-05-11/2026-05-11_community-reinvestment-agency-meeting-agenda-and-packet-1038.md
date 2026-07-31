@@ -1,0 +1,155 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05112026-1038
+> Meeting date: 2026-05-11
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2026-05-11
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05112026-1038
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                     Minutes          of the
+                                                                        Millcreek           Community                Reinvestment             Agency
+                                                                                                       May     11,      2026
+                                                                                                           7:00     p.m.
+                                                                                                    Regular         Meeting
+
+
+
+
+The      Community               Reinvestment              Agency       of Millcreek,           Utah,       met in a regular            public       meeting       on
+May      11, 2026,         at City        Hall,     located       at 1330     E. Chambers               Avenue,         Millcreek,          Utah     84106.
+
+
+PRESENT:
+
+
+Board         Members                                                             City     Staff
+Cheri       Jackson,        Chair                                                 Mike      Winder,         City      Manager
+Silvia      Catten                                                                Elyse     Sullivan,         Agency        Recorder
+Thom        DeSirant                                                              Kurt     Hansen,         Facilities       Director
+Nicole       Handy                                                                John     Brems,       City       Attorney
+Bev      Uipi     (electronic)                                                    Lisa    Dudley,        HR-Finance             Director
+
+
+Attendees:             None
+
+
+REGULAR                  MEETING:                 7:00     p.m.
+TIME         COMMENCED:                           8:50     p.m.
+
+
+
+
+Chair       Jackson       called         the meeting         to order.
+
+
+1.   Public        Hearing          to Consider             Amending          the Fiscal            Year      2025-2026           CRA        Budget
+     Lisa       Dudley      explained         that the CRA              budget       amendments               apply     to several       project       areas:      Fund
+     201 (Millcreek               City     Center),        Fund     202    (West         Millcreek),         Fund       203 (Woodland               Avenue),        and
+     Med        Tech     (205).      These        amendments            are tied to the actual                tax revenue          received         and to
+     transactions          calculated         as a percentage              of the tax increment.                   She also noted           that the final         CRA
+     sub-fund          is the aggregate              housing      fund,     wliich        had been         discussed          previously.          Under     the
+     funding        structure,        5% of the project-area                  revenues         is returned            to the general         fund,     while       15%
+     allocated         for housing          is transferred          to the aggregate               housing         fund.
+
+
+Board        Member              DeSirant          moved       to open       the public            hearing.         Board       Member             Catten
+seconded.          The      Recorder              called    for   the     vote.    Board           Member          Catten       voted       yes, Board
+
+
+yes, and         Chair      Jackson          voted         yes. The       motion         passed        unanimously.
+
+
+     There       were     no comments.
+
+
+Board       Member               DeSirant          moved       to close      the     public        hearing.         Board       Member           Handy
+seconded.          The      Recorder              called    for   the vote.        Board        Member             Catten       voted       yes, Board
+Millcreek         CRA       Meeting        Minutes                                                       11 May          2026        Page 2 of 3
+
+
+Member          DeSirant        voted      yes, Board          Member             Handy       voted      yes, Board          Member              Uipi    voted
+yes, and Chair           Jackson        voted      yes. The        motion          passed         unanimously.
+
+
+2. Discussion           and Consideration                of Resolution              26-03,     Amending             the Community
+    Reinvestment             Agency        (CRA)       Annual         Budget             for the Fiscal         Year     Beginning            July 1, 2025,
+    and Ending           June     30, 2026
+
+
+Board       Member          DeSirant        moved        to approve           Resolution             26-03,     Amending            the Community
+Reinvestment            Agency        (CRA)       Annual         Budget           for    the Fiscal       Year      Beginning          July 1, 2025,
+and Ending           June     30, 2026. Board             Member           Handy           seconded.          The Recorder             called       for the
+vote.    Board       Member        Catten        voted        yes, Board          Member             DeSirant       voted     yes, Board                Member
+Handy        voted     yes, Board          Member         Uipi    voted       yes, and Chair               Jackson          voted     yes. The motion
+passed       unanimously.
+
+
+3. Discussion           and Consideration                of Resolution              26-04,     Acknowledging                 Receipt         of the
+    Community            Reinvestment             Agency         (CRA)        Tentative            Budget        on May       11, 2026;            and
+    Tentatively         Adopting           the Tentative          Budget           for    the Fiscal       Year        Beginning        July       1, 2026,
+    and Ending           June     30, 2027
+    Lisa Dudley         reviewed        the CRA          tentative     budgets            found      on pages 39-48           of the budget              book
+    distributed       that evening,         noting      that page 39 provides                  a consolidated            summary           of all CRA
+   project       areas and the aggregate               housing        fund,       with     detailed      budgets        for each fund in the
+    following        pages.     She highlighted           that the final            pages (46-48)             contain     interfund          debt service,
+   or amortization,           schedules.        Dudley         explained          that the West Millcreek                 project      area has been
+    active     the longest       and has historically             generated              the cash flow        used to support           other CRA
+    areas, especially           the Millcreek          City     Center,     wich           has significant          debt service           and
+   improvement            costs but is only now beginning                          to generate         sufficient       tax increment             to cover its
+   own expenses.            As a result,        interfiind       loans have been made from                        West Millcreek              to tlie City
+   Center       and, in smaller         amounts,         to other project               areas. These loans are structured                      with      10-year
+   repayment          schedules,        showing        both the borrowings                   and repayments.             She added that the Med
+   Tech project          area does not require                interfund       loans because             its tax increment            is strong          enough
+   to cover its obligations,               including          a $100,000          annual      payment         for 10 years to St. Mark's
+   Hospital.         However,      until     the other project            areas'         interfund      loans are fully         repaid        and their      own
+   tax increments           increase,       those loans will           continue           to be carried         and monitored,             with
+   adjustments          made as needed            in future       years.
+
+
+Board     Member           Handy        moved       to approve            Resolution           26-04,     Acknowledging                 Receipt          of the
+Community            Reinvestment            Agency           (CRA)       Tentative          Budget        on May        11, 2026;           and
+Tentatively          Adopting       the Tentative             Budget        for     the Fiscal         Year     Beginning           July     1, 2026,       and
+Ending       June     30, 2027. Board             Member          DeSirant               seconded.       The Recorder               called       for the
+vote.    Board       Member        Catten       voted        yes, Board           Member           DeSirant         voted     yes, Board            Member
+Handy        voted    yes, Board         Member          Uipi     voted       yes, and Chair              Jackson         voted      yes. The motion
+passed       unanimously.
+
+
+2. Approval          of Aprn      13, 2026 Meeting                Minutes
+
+
+Board     Member          DeSirant          moved       to approve           the April         13, 2026 Meeting                 Minutes.           Board
+Member         Catten       seconded.        Chair       Jackson          called         for the vote. Board             Member            Catten         voted
+Millcreek        CRA     Meeting        Minutes                                                  11 May          2026       Page    3 of 3
+
+
+yes, Board         Member      DeSirant         voted      yes, Board        Member        Handy          voted     yes, Board        Member
+Uipi    voted     yes, and     Chair        Jackson      voted     yes. The     motion          passed     unanimously.
+
+
+
+
+ADJOURNED:                Board        Member          DeSirant      moved     to adjourn           the meeting           at 8:56    p.m.
+Board       Member       Handy       seconded.          Chair      Jackson     called     for    the vote.        Board      Member         Catten
+voted    yes, Board         Member          DeSirant       voted     yes, Board         Member           Handy      voted     yes, Board
+Member          Uipi   voted   yes, and        Chair      Jackson      voted    yes. The         motion      passed         unanimously.
+
+
+
+
+                                                          Cheri     Jackson.      Chair
+
+
+
+
+                                  Attest:
+

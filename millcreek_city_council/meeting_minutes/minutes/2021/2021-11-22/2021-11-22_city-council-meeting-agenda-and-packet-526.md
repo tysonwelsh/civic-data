@@ -1,0 +1,482 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11222021-526
+> Meeting date: 2021-11-22
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2021-11-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11222021-526
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                       Minutes             of the
+                                                                                              Millcreek             City         Council
+                                                                                                November                   22,     2021
+                                                                                                            5:00      p.m.
+                                                                                                       Work          Meeting
+                                                                                                            7:00      p.m.
+                                                                                                  Regular             Meeting
+
+
+The City          Council        of Millcreek,              Utah,      met    in a public        work        meeting             and regular           meeting        on
+November            22, 2021           at City      Hall,      located       at 3330         S. 1300      E., Millcreek,                 UT       84106.      The meeting
+was live          streamed       via the City's               website        with     an option         for online          public         comment.
+
+
+PRESENT:
+
+
+Council           Members                                                             City     Staff
+Jeff     Silvestrini,         Mayor                                                   John     Brems,         City    Attorney
+Silvia      Catten,      District        1                                            Elyse     Sullivan,          City     Recorder
+Dwight           Marchant,        District         2                                  Kurt     Hansen,         Facilities              Director
+Cheri      Jackson,         District         3                                        Mike      Winder,          Assistant              City      Manager
+Bev      Uipi,     District      4 (excused)                                          Francis      Lilly,      Plaru'iing              & Zoning          Director
+                                                                                      Rita    Lund,       Coinmunications                       Director
+                                                                                      Robert      May,        Long         Range          Planner
+                                                                                      Aimee      McConkie,                 Millcreek             Common          Director
+
+
+Attendees:           Nathan         Anderson             (electronic),       Thom       DeSirant,         Marv        Poulson,             Sally      Beesley,       Beth
+Hartung-Soria,                Hamlet         Soria,     K. Hansen,            Heidi     Reynaud,            Allan     and Emily                  Wood,      Lisa     Baskin,
+Chief      Duane        Woolsey,             and Chief          Steve      DeBry.
+
+
+WORK             MEETING                - 5:00         p.m.
+TIME         COMMENCED                           - 5:02       p.m.
+
+
+Mayor        Silvestrini         called          the work       meeting         to order.
+
+
+1. Closed          Session       per      Utah         Code         Ann.     §52-4-205(c)           Strategy          Sessions              to Discuss          Pending         or
+Reasonably              Imminent             Litigation
+
+
+Council          Member          Jackson            moved            to go into       a closed         session       per        Utah       Code        Ann.      §52-4-
+205(c)       Strategy          Sessions           to Discuss           Pending         or Reasonably                 Imminent                  Litigation       at 5:02
+p.m.      Council        Member              Catten           seconded.         The     Recorder            called        for     the vote.           Council
+Members             Catten,       Marchant,               and        Jackson,         and     Mayor         Silvestrini            voted          yes. The       motion
+passed       unanimously.
+
+
+Council          Member          Jackson            moved            to go back        into     the public           meeting              at 6:36        p.m.      Council
+Member            Marchant             seconded.              The     Recorder         called      for      the vote.            All     Council         Members             voted
+yes. The          motion        passed           unanimously.
+Millcreek            City     Council       Meeting          Minutes                                   22 November            2021      Page 2 of 9
+
+
+
+
+Council        Member             Jackson         moved       to adjourn            the work       meeting        at 6:38     p.m.     Council
+Member          Catten          seconded.         Mayor        Silvestrini          called     for the vote.        All    Council      Members
+voted     yes. The motion                  passed      unanimously.
+
+
+
+
+REGULAR                MEETING               - 7:00 p.m.
+TIME        COMMENCED:                        7:00 p.m.
+
+
+1. Welcome,             Introduction              and Preliminary              Matters
+            1.1 Pledge            of Allegiance
+            Mayor           Silvestrini      called    the meeting           to order then led the pledge                  of allegiance.        He
+            excused           Council       Member         Uipi.
+
+
+          1.2 Public              Comment
+            Thom        DeSirant,          718 E. Nibley           View      Court,     expressed        favor      for Planning        Item 2.2. He
+            felt there was a lack of new owner-occupied                                  housing        and appreciated          that this project
+            would           be. He said his generation                 had a hard time buying                 housing       in the current       market
+            and wished            to see more          owner-occupied               housing      in the future.
+
+
+            Marv        Poulson,          3631 S. 1020 E,., said the City                    Center    Master       Plan was adopted            two years
+            ago and it had since been amended.                             He said the green space had been minimized                                and
+            pavement            maximized.           He expressed            concern         about energy        efficiency      of the new city liall
+            and not being             progressive.          He thought         tlie "Connected           By Nature"           motto     was not being
+            followed           and the proposed              city liall    would       use more        energy     than necessary.         He said the
+            Salt Lake City police                  station     was progressive,               as an example.
+
+
+          1.3 Unified              Police     Department              Millcreek         Precinct       Officers       of the Month            for October
+            2021 - Officer                Chris    Schroeder           and Forensic             Investigator         Emily      Wood
+            Chief       Steve DeBry           announced            Officer     CMs       Scbroeder        (not present)         and Forensic
+            Investigator           Emily      Wood         as the Officers           of the Month        for October          2021.    Chief     DeBry
+            said Officer           Schroeder          responded        to a residential          burglary.       The suspect          entered    the house
+            through          a sliding      glass door and stole multiple                     items,    including         a handgun.      A St. Mark's
+            Hospital          patient     bracelet     was found           outside      near the victim's           residence.        The patient      had
+          been arrested              and transported            to the hospital          where     he fled on foot.           Irivestigator      Wood
+            lifted     fingerprints         from      the sliding         glass door and determined                 them to match             those of the
+            suspect who fled from                    the hospital.         Officer     Schroeder        connected          this suspect to one
+            suspected           of stealing       a vehicle        in South         Salt Lake City.       The same suspect              was identified
+            in all cases.
+
+
+          Mayor             Silvestrini     thanked        Wood       for her work.           The Citizens        Advisory        Board       gave
+          Forensic            Investigator         Emily      Wood        a gift.    Mayor      Silvestrini       noted that forensic
+          investigation             was a pooled            service       through      the Unified       Police      Department          (UPD).
+
+
+2. Planning           Matters
+Millcreek           City      Council          Meeting             Minutes                                         22 November                    2021      Page         3 of 9
+
+
+
+            2.1 Discussion                 and      Consideration                     of Ordinance               21-50,        Rezoning            Certain         Property
+            Located            at Approximately                         4088      South          Highland         Drive        from        R-1-8         Zone
+            (Residential)               to C-2           Zone          (Commercial)
+            Mayor           Silvestrini           said the Council                 had a first          reading         at their     last meeting            for a rezone                of
+            a small          parcel       from      R-1-8         to C-2.        Robert          May     said the planned                 unit     development                 project
+            would          consist        of four        3-bedroom               units     and seven         2-bedroom              units.        The four        units         facing
+            Highland            Drive       would          have         ground        floor      cominercial            of 375 square              feet each. The 1,700
+            square         feet of property                pertaining            to the rezone            would          be used          for parking.          When           the
+            project         gets platted,           the site will              get consolidated              into       one piece          of property.           He showed
+            the Council              the building                elevations        that had heights                of 35 and 45 feet. He noted                            the
+            General          Plan      intended           to encompass                 the property           in the mixed-use                    zone.     The Millcreek
+            Coinrnunity               Council           recorni'nended                approval         of the rezone.              In that meeting,               buffering             the
+            west      property          line      with      trees and regulating                     the type          of commercial               space in the live/work
+            units     was discussed.                    The Planning              Commission                recornrnended                 approval         of the rezone.
+            Based          on the staff           findings,            the development                 agreement           was crafted             to include            the
+            following             considerations:
+               1. The development                        site plan         as presented              in Exhibit         C shall       not change
+               2. Elevations              and locations                 of buildings             of development                as presented              in Exhibit            C shall
+                    not change
+               3. Building            materials            and fagade             articulation          of development                as presented              in Exhibit              C
+                    shall     not change
+               4. Developer               shall     plant         a minimum              of 6 trees no less than two                        inches        in caliper           along
+                    the west          property           line.     Trees       along       west property               must     be columnar               birch     or poplar.
+
+
+            Mayor           Silvestrini           asked       about       the correction               of the developer's                  address        on the
+            development                agreement              and said he substituted                       the page with             a corrected            address           page.
+            Anderson              said he was okay                     with    that.
+
+
+            Mayor           Silvestrini           asked       for public          comment.              There     was none.
+
+
+Council        Member             Jackson               moved          to grant          approval         of rezone            application            ZM-21-003
+accompanied                with       a development                     agreement             that     outlines         the    conditions            recommended                        by
+staff    and    adopt         Ordinance                 21-50.         Council           Member          Catten          seconded.            The        Recorder              called
+for     the vote.      All     Council            Members                voted        yes. The         motion          passed        unanimously.
+
+
+            2.2 Discussion                 and      Consideration                     of Ordinance               21-51,        Approving             a Master
+            Development                   Agreement                for     a New         Mixed-Use              Planned            Unit     Development
+            Consisting              of 7 Residential                    Townhomes                 and     4 Live/Work                Townhomes                  with      Respect
+            to A pproximatcly                      0 63 acres             of Real         Property           Located           at Approximately                     4080,         4088,
+            and      4090         South        Highland                Drive
+
+
+Council        Member             Jackson           moved              to adopt          Ordinance           21-51,           approving            a master
+development                agreement              for     a new          mixed-use            planned           unit     development                located         at
+approximately                 4080,       4088,         and      4090         South       Highland           Drive.        Council           Member             Marchant
+seconded.         The        Recorder             called         for     the vote.         All     Council        Members                 voted     yes. The           motion
+passed      unanimously.
+
+
+3. Business          Matters
+Millcreek            City      Council        Meeting             Minutes                                       22 November              2021         Page      4 of 9
+
+
+
+            3.1 Mfflcreek                 Community                 Foundation             Presentation;              Aimee       McConkie,              Mfflcreek
+            Common               Director          and      Milce      Winder,            Assistant          City     Manager
+            Mike        Winder           said there        had been           discussions          on what          kind      of mechanism             a city     could
+            have       to attract         different        charitable         donations,           funds,       and assistance.            Aimee        McConkie
+            said Venture                Out started         years      ago and since              then      she learned         how      to operate        a non-profit.
+            She said a not-for-profit                       entity     was a tool          that     she saw other             organizations            using.      She
+            proposed            a Millcreek              Coinmunity           Foundation             nonprofit.        The purpose             of the foundation
+            would           be to raise       funds        to service         Millcreek           residents         per Utah      State      Code      10-8-2.       The
+            proposed            governance               would      have      the City       Council          as the Board            of Directors        and key         staff
+            positions           as the executive                 coinmittee       so the entity             could      continue        in the future           and the
+            goals       would          be aligned          with      the Council's           goals       for the City.         Venture         Out could          also be
+            tied with           the Foundation.              Tlie     next     steps,      if the Council             was in favor          of it, would          be for
+            staff     to prepare           the legal        documentation,                a business          plan,     a concept         of operation,           and an
+            operating            budget.
+
+
+            Council           Member         Marchant             asked       if it would         be intended          just     for the City          Center      area or
+            if it could          be used         for improvements                 at other        parks.      Winder          said it could         be used
+            elsewhere            but the impetus                 was the City           Center.       He said donations                 made        to the city      are tax
+            deductible,            but donors             feel better        about      donating         to 501(c)3s.           Council        Member           Marchant
+            asked       if donations             could      be targeted          to a particular             event.        McConkie          said yes, it would               be
+            a mechanism                 to do community                 good.      She said it would                  have     to meet       a charitable         donation
+            standard           per the IRS            guidelines.         Mayor         Silvestrini          said the City's           partnership         with
+            Comcast            for the Internet             Essentials         Program            required        a non-profit          organization            to be
+            involved           for the grant             funding,       so the city         joined       with       PIC2AR.        The      foundation          could
+            have       the single          focus      of operating            Millcreek           Common            or be successor            to Venture          Out,
+            but it would               provide      institutional            structure,       so events          are not based           upon       one person.
+            Council           Member         Jackson          asked if the Promise                    Program         donations          would       be part of it.
+            Winder           said that was considered                       but he wanted             to get the framework                   set up first.        Council
+            Member             Marchant           asked      how      targeted       funds        get documented.               McConkie             said the Council
+            would           identify      key needs          for the city         and have           advisory         committees           over      the needs.
+            Mayor           Silvestrini          said the finances             would        be administered                by the city.        McConkie            said
+            there      would           be reports         showing       where        funds        were      going.      The     Council        gave positive
+            feedback            for staff     to bring           a formal      presentation            for consideration.
+
+
+            3.2 Wasatch                 Boulevard           Study       Update;            Rita      Lund,        Communications                    Director
+            Rita      Lund       said Cottonwood                   Heights       did a study           for Wasatch             Boulevard            a couple      years
+            prior.     Holladay            received         a grant      to study         their    section        and asked           Millcreek        to participate
+            to study          its section         too.    In November             there      was a public             open     house       from      the various          user
+            groups          of Wasatch            Boulevard.           From      that,     a list of values            and priorities           were     drafted        for
+            the Wasatch                Boulevard          Phase       II Corridor          Study.        The values           were:
+             *       Options      and infrastruchire               for accessing          jobs,    amenities,         and recreation         using transit,        shuttles,
+                     and carpooling           should be improved.
+             *      Active       transportation           coiu'iections        are a critical        component          of Wasatch          Boulevard          that should
+                    be preserved           and expanded             to better serve users of all ages and abilities.
+             *      Pedestrian          access should be improved                    and expanded             around        existing     and planned
+                    commercial/mixed                  use devetopment             hubs.
+             @      Traffic      flow     should remain             functional       and efficient          as the corridor           continues       to develop,
+                    while      preserving         the character         of Wasatch          Boulevard           as a secondary           facility     to I-215.
+Millcreek        City     Council        Meeting           Minutes                                  22 November              2021      Page 5 of 9
+
+
+
+             *    Design measures that can encourage safer driving                                should be implemented              where speeding or
+                  potentially unsafe conditions exist today.
+             *    Preserve access to nature and recreation,                      neighborhoods,              and businesses while
+                  accommodating a range of users.
+
+
+            Lund     sliowed        the Council           a website     with     an interactive              public     survey     on it for the
+            Wasatch        Boulevard        Phase II project.               Mayor      Silvestrini           asked who the consultant               was.
+            L-and said Alta           Plaru'iing.      She asked for Council                 feedback.
+
+
+            3.3 Request          for Gate        at Scoff       Avenue         Park;       Rita     Lund,        Communications                Director
+            Rita Lund        said there had been problems                      with     cai'npers       parked         overnight      in the parking          lot
+            at Scott Avenue            Park. It was suggested                 that a gate be put in the parking                      lot. The cost
+            would       be about $2,500.            Lund      wondered         if neighbors            could     lock and unlock             the gate.
+            Council       Member        Jackson        asked if more than one person                          could     do it. Lund      said yes.
+            Mayor       Silvestrini      said UPD           would      need to know            who to get a hold of. Council                    Member
+            Marchant         said there were some transient                     people       living      in the restroom           at that park. He
+            expressed        concern      for the safety         of people          closing/opening              gates. Council         Member
+            Jackson       asked about an automated                    gate. Lund         said those could be jammed                     by people.
+            Council       Member        Marchant           said people         may have to approach                    visitors    to leave. Lund            said
+            UPD      would      be called       in those situations.            Mayor          Silvestrini        asked about the origins                  of the
+            gate cost estimation.            Lund          said it was proposed             by the Salt Lake County                   Parks
+            Department.
+
+
+            Lund     noted that there were dangerous                         playground           toys that needed to be removed                      at
+            Fortuna      Park.
+
+
+            3.4 Review          of Referendum                Process;        John      Brems,         City     Attorney
+            Mayor       Silvestrini      said the city received                a referendum            application         with    respect     to the
+            ordinance        that was passed by the City                     Council       to change the requirements                   for billboards
+            in the City      Center       on November            15, 2021.
+
+
+            John Brems          reviewed         a Powerpoint           presentation           that explained            the entire    referendum
+            process      from    application         to election        as prescribed             by Utah        Code 20A.         The presentation
+            included      dates specific          to the current            process     with      the application           challenging        Ordinance
+            21-48     as well       as general       information.           He made a disclaimer                  that the presentation             was for
+            inforinational          purposes        only     and should        not be relied           upon by referendum               sponsors.
+
+
+            Brems       explained       that the Council             had three date options                   for an election        should     the
+            referendum          sponsors        collect      the required       number          of signatures.           The Council          needed to
+            make a determination                that night       because        they would            not have another             regular     meeting
+            before      the petition      packet       which     included        the possible           election        date was provided             to the
+            referendum          sponsors.       Utah       Code § 20A-7-607(5)(                   c) or 20A-7-609(2),               provided        for:
+            November         8, 2022, the next general                  election,       June 28, 2022,                a special    election     date by
+            agreement        with     affected       owners,        local    clerk,    county        clerk,     and city attorney,            and
+            November         7, 2023, the next regular                  municipal          general       election.       State code stated that the
+            land use referendum              shall appear on the next regular                         municipal          ballot    (November          2023)
+            unless the City           Council       called     a special       election.       The special            election     days per Utah            Code
+            § 21 A-1-204         are June 28, 2022,              or November             8, 2022,        or another         date if the City         Council
+Mincreek          City     Council        Meeting         Minutes                                22 November                2021           Page 6 of 9
+
+
+
+           is unanimous.             He noted that June 28, 2022 was too soon of a turnaround                                          from       when tlie
+           City    Recorder          had to deteri'nine          if the number         of signatures            from      tlie petition         was
+           sufficient.
+
+
+           Council         Member         Jackson        asked if the Salt Lake            County        Clerk's         Office      had provided              a
+           recoinrnendation.              Elyse     Sullivan        said she had been in communication                             witli     that office,
+           and they felt the date options                    available      to Millcreek         were November                   2022 or November
+           2023. They             said the ballot        for the next election           in 2022 would                be crowded,            so if the
+           referendum             created     a situation      where      a second ballot          page was needed,                  extra costs of an
+           unknown          amount        would      be incurred         by Millcreek.          The County              would      not send out a
+           separate ballot.            They      could     also accoininodate            the referendum               at the next municipal
+           election        in 2023. That election              would       be city-wide         with     the mayoral             race, so there would
+           not be an additional               cost for the referendum.               The estimated              not to exceed              cost for that
+           election        was $145,088.           Sullivan       noted that she got the final                  word      from      the Salt Lake
+           County         Clerk's       Office     about accoininodating              the election            shortly     before       the Council
+           meeting,         so before       then she had reached                out to Utah County               inquiring         if they would              host
+           a special        election      for Millcreek.         Utah County          was willing             with     an estimated            cost of
+           $125,000,         but that would           create two ballots            for residents         and could          be confusing.              Council
+           Member          Catten       did not like the idea of having                  Utah      County        run a special             election.
+           Council         Member         Jackson        expressed       concern     about the referendum                   being          on the 2022
+       ballot         and getting         lost with       other items on multiple               pages. Sullivan             noted          that Millcreek
+           did a city-wide             election     in 2019 and the estimated                 not to exceed              cost provided            by the
+           County         then was $130,000               but it only      cost $44,000. John Brems                      pointed       out that 2023
+       was two years away and it could                            be a political         campaign         issue.
+
+
+       Mayor             Silvestrini      asked for public             comment.       There      was none.
+
+
+       Brems             went over his recoinmended                     code of conduct            for Millcreek           officials         and staff. He
+       noted that there were intersecting                           constitutional        rights       with     free speech.          He said public
+       funds         could not be used for political                     purposes     or to influence                a position.       He
+       recoinmended                  that accurate,         factual,     and neutral      communications                  should       be provided             in a
+       timely            manner        and in the capacity             as a represenmtive           of Millcreek.            If comments               were
+       made in a personal                   capacity,       he cautioned         that non-Millcreek                  residents      consider        why they
+       were making                 a coinment.        He recornrnended              that everyone             be a courteous               professional         and
+       exercise            discretion       when posting          anything       on personal           social     media.
+
+
+       3.5 Discussion                  and Consideration                of Resolution           21-40,        Establishing           an Election            Date
+       to Consider                a Possible        Referendum             Challenging           the Adoption              of Ordinance                No. 21-
+       48
+       Council            Member         Jackson         did not like pushing          the election            to 2023.      Mayor           Silvestrini
+       noted the cost was more finite                         in 2023 and would               not be an additional                 cost. Council
+       Member              Catten       asked Jom         Brems        on his recommendation.                   Brems       did not have one.
+       Council            Member         Jackson         asked for Elyse         Sullivan's        recommendation.                  Sullivan       said she
+       did not have one. Council                         Member        Catten    asked about other dates at random.                              Sullivan
+       said state statute               dictated     June (primary           election)     and November                  (general          election)       for a
+       special           election.      Council      Member         Marchant         asked about the June 2023 primary.                                Sullivan
+       said primary               elections       were partisan          and every registered             Millcreek          voter may not receive
+Millcreek           City     Council        Meeting       Minutes                                22 November             2021       Page 7 of 9
+
+
+
+            a ballot.        She also noted that if the city opted to do ranked                           choice      voting      again, there
+            would          not be a primary           election.
+
+
+            Council         Member          Catten      recoinmended           November         2023 for time and cost. Council
+            Member           Marchant          said there would            be a broader       response       at that time.
+
+
+Council       Member               Catten      moved      to adopt         Resolution        21-40     establishing        November             7, 2023
+as an election             date to consider             a possible       referendum           rhsallpnging        the adoption            of
+Ordinance            No. 21-48.          Council        Member         Jackson       seconded.         The Recorder             called        for the vote.
+All   Council         Members            voted      yes. The motion             passed      unanimously.
+
+
+4. Reports
+            4.1 Mayor=s              Report
+            Mayor          Silvestrini       reported     that the city has had a series of calls for service                            at Holladay
+            Hills     Apartments.             The City       sent the property          owner    a nuisance         violation      letter.      Staff has
+            had two separate meetings                     with     property      management            and received        a positive          response
+            from      the property           owner      who indicated           they would       work     on cleaning         up the property             and
+            getting        better     security.     He noted there had been problems                      with      tenants     with     bad behavior
+            and not paying               rent as well        as a lot of unattended           small     children.     The Promise              Program
+            Manager          would        explore      getting     space at the state building               to the south of the complex                   or
+            an apartment              at the complex          to set up an after-scliool             program.       Council      Member           Catten
+            suggested          including         Principal       Higgins       at William      Penn Elementary            School         in
+            conversations             because       she could       give good insiglit.          The Mayor          noted the city was trying
+            to solve a problem.
+
+
+            The Mayor              reported       that the paving          on 3900 S. was done, so there would                      be a ribbon
+            cutting        on that project          at 2300 E. 3900 S. on November                      24I11.There was work that
+            remained          to be done including                installing     two hawk       crossings.       Also,    the Mountair
+            streetscape            was being        worked       on again. The planting              would    be done in the spring.                 The
+            project        delay was between              Comcast          and Rocky        Mountain        Power     burying       and relocating
+            utilities.
+
+
+            The Mayor              wished      everyone        a pleasant       Thanksgiving.
+
+
+            4.2 City         Council        Member           Reports
+            Council         Member          Jackson      said the Coinmunity                Renewable        Energy      Program         Design
+            Comtnittee             was continuing            to meet weekly.
+
+
+            4.3 Staff        Reports
+            Francis        Lilly     briefed      the Council        on a proposal          for a private     right-of-way          to be dedicated
+            to a public            use on Pinnacle           Place cul-de-sac.          The County        has been slow plowing                   it for a
+            long time.         The three property              owners       have petitioned          the city to have it platted                to a public
+            use. Lilly        briefly       reviewed      the dedication          process.      Staff has determined              there were no
+            significant            engineering       defects      for the city to take it for public                use. The cul-de-sac              has an
+            80-foot        diameter         which    is the minimum             a fire truck     needs for a turnaround                  access. There
+            is no space for the addition                     of sidewalk.       The dedication          ordinance        requires        sidewalk,     but
+            the code allows              for the applicants            to seek a sidewalk            exception      through      a separate
+          process.          Staff would           not object      to the dedication          or sidewalk         exception.       Council        Member
+ Millcreek           City         Council         Meeting           Minutes                                          22 November                 2021          Page        8 of 9
+
+
+
+             Marchant               asked        about      garbage       collection.          Mayor              Silvestrini        said the residents                had been
+             receiving             services         like    it was a public             street.      Lilly        said the sidewalk                exception           would         be
+             perpetual.
+
+
+             Lilly       said every              month       he would          send the Council                    a dashboard/development                           suinmary            of
+             project         progress            in the City          Center      and their          relation            to the greatest          impact        scenario           for
+             density. He then reviewed the report. Mayor                                                 Silve!>trini       noted that maximum                       density was
+             not being             reached          by the projects.                                 '
+
+
+             4.4 Unified                 Fire     Authority           (UFA)        Report
+             Battalion             Chief        Duane       Woolsey          said a UFA              station         captain        passed       away.         He had served
+             in many              capacities         in the Salt Lake             area. UFA                was      struggling          with     hiring        personnel,           so
+             they     implemented                   a mandatory            staffing        policy.          They         recently       hired     four     paramedics,              but
+             they     were          looking         to hire     sixteen.        He said tlie Authority's                          Centennial            was on November
+             11st, SO he had presented                         100-year         coins       to the Council.                 Chief       Woolsey           listed     the
+             personnel              promotions.             He presented           the third              quarterly        report       to the Council.              There        were
+             1,526       total       incidents         but only         11%       were      emergent.              He listed         the top fire          and top EMS
+             dispatches.             There         were      1,414      engine         responses            and 1,142             ambulance             responses          from     the
+             three     fire        stations.
+
+
+             4.5 Unified                 Police      Department               (UPD)         Report
+             Chief       Steve           DeBry       said on December                   Ist the Precinct                 would       have       their     Cmstmas
+             celebration.                He then provided               the October            2021          crime        statistics.        There       were       3,023        calls
+             for service,                932 total       cases, 417          citations,        and 54 booking                     arrests.      There      were       44 assaults,
+             16 burglaries,                19 drug          offenses,        71 family         offenses,             no homicides,               100 larcenies,              4
+             robberies,             7 sex offenses,             and 44 stolen              vehicles.           He announced                  that the Millcreek
+             Community                   Oiiented          Policing      Unit     joined       with          school        resource          officers      for Red Ribbon
+             Week        at Upper               Terrace       Elementaiy           School         where           students          were     able to talk           with     police
+             officers,            look     at police        vehicles,        and ask questions.                     The Millcreek               Community              Oriented
+             Policing             Unit     joined      with     Unified         Fire     Authority             and IHC            for Millcreek            Elementary's
+             Trunk          or Treat.           He provided           figures      for traffic             enforcement              at 3300        S./Highland             Diive
+             and listed            three properties                that had transient              encampment                    refuse      collected         which
+             amounted               in 5,100         pounds        transported            to the landfill.
+
+
+ 5. New      Items          for     Subsequent               Consideration
+There       were     none.
+
+
+6.      Calendar         of Upcoming                  Events
+        *    Canyon           Rim         Citizens         Association          Mtg.,       12/1/21,           7:00       p.m.      TBD
+        @    East Mill             Creek        Community             Council          Mtg.,      12/2/21,           6:30 p.m.            TBD
+        *    Mt.     Olympus               Community               Council      Mtg.,       12/6/21,              6:00     p.m.     TBD
+        *    Millcreek             Community                Council       Mtg.,        12/7/21,           6:30     p.m.     TBD
+        *    City     Council             Mtg.,      12/13/21,         5:00 p.m.          at City          Hall
+
+
+Francis      Lilly     said all four                coinrnunity         councils          would           be discussing             the Millcreek              Common             West
+project      in December.                  Winder          noted      that the Council             would            meet      on December                20'       in lieu       of the
+17th,
+Millcreek    City    Council      Meeting        Minutes                             22 November         2021      Page      9 of 9
+
+
+
+ADJOURNED:            Council       Member        Jackson      moved         to adjourn      the meeting      at 9:03     p.m.
+Council     Member      Catten       seconded.      Mayor      Silvestrini        called   for   the vote.   All   Council
+Members      voted    yes. The       motion      passed     unanimously.
+
+
+
+
+                               Attest:              Elyse                  City   Recorder
+

@@ -1,0 +1,76 @@
+COTTONWOOD HEIGHTS — Council Member vote validation
+================================================================
+meetings: 185   motions: 1161
+body split: {'Council': 1089, 'CDRA': 72}
+motion types: {'Procedural/Administrative': 469, 'Resolution': 255, 'Land-Use/Zoning': 100, 'Contract/Purchase': 89, 'Ordinance': 88, 'Appointment': 75, 'Other': 34, 'Budget Amendment': 20, 'Interlocal': 20, 'Grant-Funding': 6, 'Ceremonial': 5}
+
+OFF-ROSTER names (should be 0): 0  {}
+OVERSIZE rolls (> 5 seated): 0
+
+MAYOR-vote rows (a real, counted vote here): 540
+tally-vs-named mismatches: 3
+   ('2023-11-21', 3, [4, 1], [3, 1], 'Passed 4-to-1')
+   ('2026-05-19', 2, [4, 2], [2, 3], 'Failed 4-to-2')
+   ('2026-05-19', 3, [4, 2], [2, 3], 'Failed 4-to-2')
+outcome-vs-count issues: 0
+
+PER-YEAR observed roster (voter -> rows):
+  2020: Scott Bracken(87), Douglas Petersen(87), Tali Bruce(79), Michael Peterson(76), Christine Mikell(74)
+  2021: Douglas Petersen(97), Scott Bracken(95), Michael Peterson(95), Christine Mikell(81), Tali Bruce(62)
+  2022: Scott Bracken(89), Shawn E. Newell(89), Mike Weichers(89), Ellen Birrell(88), Douglas Petersen(84)
+  2023: Scott Bracken(87), Shawn E. Newell(81), Mike Weichers(80), Ellen Birrell(78), Matt Holton(56), Douglas Petersen(21)
+  2024: Suzanne Hyland(73), Matt Holton(72), Ellen Birrell(68), Shawn E. Newell(61), Mike Weichers(61)
+  2025: Suzanne Hyland(100), Shawn E. Newell(95), Mike Weichers(90), Ellen Birrell(83), Matt Holton(77)
+  2026: Matt Holton(55), Suzanne Hyland(55), Gay Lynn Bennion(55), Shawn E. Newell(54), Ellen Birrell(51)
+
+CONTESTED motions (Nay/Abstain/Recuse present): 50
+   2020-06-16 [Council] m3 Passed 3-to-1 nay=['Tali Bruce'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to approve Ordinance 342. Council
+   2020-06-16 [Council] m8 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Bracken moved to approve the meeting minutes of
+   2020-07-07 [Council] m5 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Bracken moved to approve Resolution 2020-33. Co
+   2020-09-01 [Council] m4 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Petersen moved to approve the City Council Work
+   2020-09-15 [Council] m2 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Bracken moved to approve Resolution 2020-42. Th
+   2020-10-20 [Council] m10 Passed unanimously (with one abstention) nay=[] abst=['Michael Peterson'] rec=[] :: MOTION: Council Member Bruce moved to approve the City Council Work Se
+   2020-11-17 [Council] m5 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Petersen moved to approve the City Council Work
+   2021-01-19 [Council] m5 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Bracken moved to approve the City Council Work 
+   2021-02-16 [Council] m6 Passed unanimously (with one abstention) nay=[] abst=['Scott Bracken'] rec=[] :: MOTION: Council Member Bruce moved to adopt Resolution 2021-07 support
+   2021-06-15 [Council] m2 Passed 4-to-1 nay=['Tali Bruce'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to approve Ordinance 357-A. The m
+   2021-06-15 [Council] m3 Passed 4-to-1 nay=['Tali Bruce'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to approve Ordinance 358. The mot
+   2021-06-15 [Council] m4 Passed 4-to-1 nay=['Tali Bruce'] abst=[] rec=[] :: MOTION: Council Member Mikell moved to approve Ordinance 359. The moti
+   2021-06-15 [Council] m9 Passed unanimously (with one abstention) nay=[] abst=['Christine Mikell'] rec=[] :: MOTION: Council Member Bruce moved to approve Resolution 2021-30. The 
+   2021-06-15 [Council] m12 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Petersen moved to approve the City Council Work
+   2021-08-17 [Council] m10 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Petersen moved to APPROVE the City Council Work
+   2021-10-05 [Council] m9 Passed 3-to-1 nay=['Tali Bruce'] abst=[] rec=[] :: MOTION: Council Member Petersen moved to APPROVE the City Council Work
+   2021-10-19 [Council] m7 Passed unanimously (with one abstention) nay=[] abst=['Tali Bruce'] rec=[] :: MOTION: Council Member Bracken moved to APPROVE the City Council Work 
+   2021-12-14 [Council] m5 Passed 3-to-1 nay=['Scott Bracken'] abst=[] rec=[] :: MOTION: Council Member Mikell moved to approve Resolution 2021-62. The
+   2022-04-19 [Council] m2 Passed 4-to-1 nay=['Scott Bracken'] abst=[] rec=[] :: MOTION: Council Member Petersen moved to APPROVE Ordinance 379-D denyi
+   2022-04-19 [Council] m5 Passed unanimously (with one abstention) nay=[] abst=['Scott Bracken'] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Ordinance 382 amending
+   2022-04-19 [Council] m8 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Newell moved to APPROVE Resolution 2022-22. The
+   2022-07-05 [Council] m7 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to APPROVE Resolution 2022-35 – A
+   2023-01-03 [Council] m5 Passed 3-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Petersen moved to APPROVE Resolution 2023-04 – 
+   2023-02-21 [Council] m3 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to APPROVE Ordinance 394. The mot
+   2023-04-18 [Council] m4 Passed unanimously (with one abstention) nay=[] abst=['Ellen Birrell'] rec=[] :: MOTION: Council Member Newell moved to APPROVE Resolution 2023-16 Appr
+   2023-05-02 [Council] m4 Passed 3-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to APPROVE Resolution 2023-22. Th
+   2023-09-05 [Council] m3 Passed 3-to-2 nay=['Matt Holton', 'Mike Weichers'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to APPROVE Ordinance 402 – Establ
+   2023-10-03 [CDRA] m5 Passed unanimously (with one abstention) nay=[] abst=['Ellen Birrell'] rec=[] :: MOTION: Council Member Bracken moved APPROVE Resolution 2023-05-B. The
+   2023-10-17 [Council] m6 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Holton moved to APPROVE Resolution 2023-54 – Ap
+   2023-11-21 [Council] m3 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Bracken moved to APPROVE Ordinance 405. The mot
+   2024-01-02 [Council] m4 Failed 3-to-2 nay=['Matt Holton', 'Shawn E. Newell', 'Mike Weichers'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to TABLE Resolution 2024-03 – Ado
+   2024-01-02 [Council] m5 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Holton moved to APPROVE Resolution 2024-03 – Ad
+   2024-01-16 [Council] m2 Passed 3-to-2 nay=['Matt Holton', 'Shawn E. Newell'] abst=[] rec=[] :: MOTION: Council Member Hyland moved to APPROVE Consideration of Ordina
+   2024-03-05 [Council] m2 Passed 4-to-1 nay=['Mike Weichers'] abst=[] rec=[] :: MOTION: Council Member Hyland moved to APPROVE Ordinance 411. The moti
+   2024-04-02 [Council] m8 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Resolution 2024-25. Co
+   2024-05-07 [Council] m7 Passed 3-to-0 nay=[] abst=['Ellen Birrell'] rec=[] :: MOTION: Council Member Hyland moved to APPROVE Resolution 2024-36 – Ap
+   2024-09-10 [Council] m8 Failed 4-to-1 nay=['Suzanne Hyland', 'Shawn E. Newell', 'Matt Holton', 'Mike Weichers'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to TABLE Resolution 2024-60 – App
+   2024-09-17 [Council] m6 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Holton moved to APPROVE Resolution 2024-64 – Ap
+   2024-12-17 [Council] m5 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Holton moved to APPROVE Ordinance 427 – Approvi
+   2025-02-18 [Council] m5 Passed 4-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Newell moved to APPROVE Ordinance 431 Confirmin
+   2025-02-18 [Council] m6 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Ordinance 432 Establis
+   2025-04-15 [Council] m3 Passed 3-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Newell moved to APPROVE Ordinance 436 Amending 
+   2025-07-15 [Council] m7 Passed 3-to-1 nay=['Ellen Birrell'] abst=[] rec=[] :: MOTION: Council Member Holton moved to APPROVE Resolution 2025-55 – Ap
+   2026-01-06 [Council] m3 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birell moved to APPROVE Ordinance 459 Imposing 
+   2026-05-05 [Council] m3 Passed 3-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Newell moved to APPROVE Resolution 2026-28. The
+   2026-05-19 [Council] m2 Failed 4-to-2 nay=['Shawn E. Newell', 'Suzanne Hyland', 'Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to TABLE Ordinance 464 Enacting C
+   2026-05-19 [Council] m3 Failed 4-to-2 nay=['Shawn E. Newell', 'Suzanne Hyland', 'Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Ordinance 464 Enacting
+   2026-06-16 [Council] m2 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Resolution 2026-34 Ado
+   2026-06-16 [Council] m3 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Birrell moved to APPROVE Resolution 2026-35 Ado
+   2026-06-16 [Council] m4 Passed 4-to-1 nay=['Matt Holton'] abst=[] rec=[] :: MOTION: Council Member Newell moved to APPROVE Resolution 2026-36 Adop

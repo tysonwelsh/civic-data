@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "Oct 16, 2023", "name": "Women's Democratic Club", "amount": "50", "in_kind": false},
+    {"date": "Oct 28,2023", "name": "Sabrena Suite-Mangum", "amount": "75", "in_kind": false},
+    {"date": "Oct 29, 2023", "name": "Amy & Will Spratling/Warlick", "amount": "50", "in_kind": false},
+    {"date": "Oct 23, 2023", "name": "Matthew Tracy", "amount": "600", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "Oct 25, 2023", "recipient": "Fund Hero Premium", "purpose": null, "amount": "8.99", "in_kind": false},
+    {"date": "Oct 23, 2023", "recipient": "Michael McDonald (web page)", "purpose": null, "amount": "600", "in_kind": false}
+  ],
+  "total_contributions": "675.00",
+  "total_expenditures": "608.99",
+  "contributions_50_or_less": "100.00",
+  "beginning_balance": null,
+  "ending_balance": "230.83",
+  "_meta": {
+    "index_path": "raw/2023_city_tracy-7-day.pdf",
+    "candidate": "Matthew Collin Tracy",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_tracy-7-day.pdf",
+    "pages": 3
+  }
+}

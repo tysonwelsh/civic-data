@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "08/11/2023", "name": "Bill and Pam Cotter", "amount": "100", "in_kind": false},
+    {"date": "08/27/2023", "name": "Anonymous", "amount": "50", "in_kind": false},
+    {"date": "09/06/2023", "name": "The Flour Box Bakery", "amount": "25", "in_kind": false}
+  ],
+  "expenditures": [],
+  "total_contributions": "3,489",
+  "total_expenditures": "1,815.51",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1,582.61",
+  "ending_balance": "1720.84",
+  "_meta": {
+    "index_path": "raw/202311_Paul-Pickett_14783.pdf",
+    "candidate": "Paul Pickett",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202311_Paul-Pickett_14783.pdf",
+    "pages": 4,
+    "note": "Amendment of the October 24, 2023 statement (cover 'amendment? Yes' checked). Cover Schedule-A total ($3,489) and cover expenditures total ($1,815.51) are cumulative-to-date figures the candidate entered on the summary line; only 3 contributions itemized on Schedule A (page subtotal $175, matching summary line 4 $175.00). No Schedule B page included in this 4-page amendment (page 4 blank); summary line 6 subtracts $36.77. Amounts transcribed verbatim as printed (no decimals on Schedule A)."
+  }
+}

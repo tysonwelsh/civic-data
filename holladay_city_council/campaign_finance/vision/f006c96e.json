@@ -1,0 +1,49 @@
+{
+  "contributions": [
+    {"date": "8/1", "name": "Jeff Williams", "amount": "100.00", "in_kind": false},
+    {"date": "8/1", "name": "Fresh Air PAC", "amount": "2,000.00", "in_kind": false},
+    {"date": "8/5", "name": "Jeff Shaver", "amount": "200.00", "in_kind": false},
+    {"date": "8/11", "name": "Rich & Shelley Love", "amount": "100.00", "in_kind": false},
+    {"date": "8/20", "name": "Bob & Cathy Lambert", "amount": "500.00", "in_kind": false},
+    {"date": "8/21", "name": "Jeff Williams", "amount": "100.00", "in_kind": false},
+    {"date": "9/2", "name": "Mark Rothacher", "amount": "100.00", "in_kind": false},
+    {"date": "9/8", "name": "Scott Browning", "amount": "2,000.00", "in_kind": false},
+    {"date": "9/10", "name": "R Jeff Ridges", "amount": "100.00", "in_kind": false},
+    {"date": "9/12", "name": "Carol Spackman Moss", "amount": "150.00", "in_kind": false},
+    {"date": "9/17", "name": "Rulon Harper Construction Inc", "amount": "500.00", "in_kind": false},
+    {"date": "9/20", "name": "Steve Woodward", "amount": "100.00", "in_kind": false},
+    {"date": "9/21", "name": "Rob & Joni Dahle", "amount": "250.00", "in_kind": false},
+    {"date": "9/21", "name": "Joyce Topham", "amount": "2,000.00", "in_kind": false},
+    {"date": "9/25", "name": "Tony Knowlton", "amount": "100.00", "in_kind": false},
+    {"date": "9/25", "name": "Bryson Ostler", "amount": "500.00", "in_kind": false},
+    {"date": "9/25", "name": "Patrice Arent", "amount": "100.00", "in_kind": false},
+    {"date": "9/25", "name": "Jani Iwamoto", "amount": "100.00", "in_kind": false},
+    {"date": "9/25", "name": "Bob Fotheringham", "amount": "250.00", "in_kind": false},
+    {"date": "9/26", "name": "Alice & Jeff Williams", "amount": "100.00", "in_kind": false},
+    {"date": "9/28", "name": "Pat & Frank Pignanelli", "amount": "200.00", "in_kind": false},
+    {"date": "9/30", "name": "Ross Romero", "amount": "125.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/1", "recipient": "Loyal Perch Media", "purpose": null, "amount": "450.00", "in_kind": false},
+    {"date": "8/4", "recipient": "Redirect", "purpose": null, "amount": "3318.57", "in_kind": false},
+    {"date": "8/14", "recipient": "Redirect", "purpose": null, "amount": "1225.40", "in_kind": false},
+    {"date": "8/20", "recipient": "Parry's", "purpose": null, "amount": "12.56", "in_kind": false},
+    {"date": "9/1", "recipient": "Google", "purpose": null, "amount": "9.03", "in_kind": false},
+    {"date": "9/2", "recipient": "Meta Platforms", "purpose": null, "amount": "26.47", "in_kind": false},
+    {"date": "Various", "recipient": "FundHero", "purpose": "Online Donation Fees", "amount": "-19.92", "in_kind": false}
+  ],
+  "total_contributions": "9,675.00",
+  "total_expenditures": "5,022.11",
+  "contributions_50_or_less": "450.00",
+  "beginning_balance": null,
+  "ending_balance": "8,160.48",
+  "_meta": {
+    "index_path": "raw/2025_city_fotheringham-oct2025.pdf",
+    "candidate": "Paul S. Fotheringham",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_fotheringham-oct2025.pdf",
+    "pages": 3
+  }
+}

@@ -1,0 +1,108 @@
+{
+ "date": "2026-01-22",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1396115.pdf",
+ "path": "minutes/2026/2026-01-19/2026-01-22_city-council-meeting_1396115.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "RDA",
+   "mover": "Durham",
+   "seconder": "Gray",
+   "motion": "APPROVE Resolution 2026-03 - Adopting the Council Policies",
+   "motion_type": "Resolution",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Bradley",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Sundwall",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "RDA",
+   "mover": "Gray",
+   "seconder": "Bradley",
+   "motion": "APPROVE Resolution 2026-04 - Appointing David Sundwall to the South Salt Lake Valley Mosquito Abatement District",
+   "motion_type": "Resolution",
+   "result": "The motion passed unanimously.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Bradley",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Sundwall",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "RDA",
+   "mover": "Gray",
+   "seconder": "Durham",
+   "motion": "RECESS the City Council Meeting and RECONVENE in a Redevelopment Agency Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Bradley",
+   "seconder": "",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

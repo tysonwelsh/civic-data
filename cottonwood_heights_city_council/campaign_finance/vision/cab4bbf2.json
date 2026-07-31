@@ -1,0 +1,43 @@
+{
+  "contributions": [
+    {"date": "3/26/2025", "name": "Salt Lake Board of Realtors", "amount": "4000.00", "in_kind": false},
+    {"date": "4/24/2025", "name": "MJH Advisors", "amount": "500.00", "in_kind": false},
+    {"date": "6/25/2025", "name": "Walter Newell", "amount": "100.00", "in_kind": false},
+    {"date": "6/26/2025", "name": "Anthony Reed", "amount": "100.00", "in_kind": false},
+    {"date": "7/3/2025", "name": "Neelam Chand", "amount": "100.00", "in_kind": false},
+    {"date": "7/8/2025", "name": "Mezzolombardo Investments", "amount": "125.00", "in_kind": false},
+    {"date": "7/11/2025", "name": "Governing Group in-kind donation", "amount": "390.00", "in_kind": true},
+    {"date": "", "name": "Logo creation", "amount": null, "in_kind": true},
+    {"date": "8/18/2025", "name": "Frank and Jovanna Henry", "amount": "100.00", "in_kind": false},
+    {"date": "9/1/2025", "name": "Governing Group in-kind donation (video)", "amount": "600", "in_kind": true},
+    {"date": "9/2/2025", "name": "Jacqueline Hibbard", "amount": "75.00", "in_kind": false},
+    {"date": "9/2/2025", "name": "Rebecca Chavez-Houck", "amount": "100.00", "in_kind": false},
+    {"date": "9/6/2025", "name": "Connor Warner", "amount": "100", "in_kind": false},
+    {"date": "9/16/2025", "name": "Liz shuering", "amount": "25.00", "in_kind": false},
+    {"date": "9/29/2025", "name": "Justin Stiers", "amount": "200.00", "in_kind": false},
+    {"date": "9/29/2025", "name": "Jen Seltzer Stitt", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/29/2025", "recipient": "Utah Democratic Party", "purpose": null, "amount": "75.00", "in_kind": false},
+    {"date": "6/2025", "recipient": "Utah Black Caucus", "purpose": null, "amount": "250.00", "in_kind": false},
+    {"date": "9/8/2025", "recipient": "The City Journal", "purpose": "ad", "amount": "400.00", "in_kind": false},
+    {"date": "6/16/2025", "recipient": "Sun Print Solutions", "purpose": "Governing group", "amount": "369.10", "in_kind": false},
+    {"date": "9/8/2025", "recipient": "Twisted Sugar", "purpose": "Neighborhood discussion", "amount": "41.84", "in_kind": false},
+    {"date": "9/30/2025", "recipient": "Sun Print Solutions", "purpose": "Mailer #1", "amount": "1012.15", "in_kind": false},
+    {"date": "10/62025", "recipient": "Sun Print Solutions", "purpose": "mailer #2", "amount": "849.56", "in_kind": false}
+  ],
+  "total_contributions": "6490.00",
+  "total_expenditures": "2997.65",
+  "contributions_50_or_less": "75.00",
+  "beginning_balance": null,
+  "ending_balance": "3567.35",
+  "_meta": {
+    "index_path": "raw/2025_city_newell_interim-oct-7-2025.pdf",
+    "candidate": "Shawn Newell",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_newell_interim-oct-7-2025.pdf",
+    "pages": 3
+  }
+}

@@ -1,0 +1,119 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1683&doc_id=e0503d0e-e55e-11ee-98bb-0050569183fa
+> Meeting date: 2024-02-22
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, FEBRUARY 22, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Mary Squire
+               Alternate Commission Member Laura Fidler
+               Alternate Commission Member Shivam Shah
+
+EXCUSED:              Andrew Adams, Chair
+                      Commission Member Gary Ogden
+                      Commission Member Kendra Shirey
+
+DID NOT SIT:          Alternate Commission Member Christine Green
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+               Todd Draper, Planning Manager
+               Spencer DuShane, City Attorney
+               Brien Maxfield, Senior Engineer Manager
+               Amie Salazar, Office Manager
+
+6:30 PM Business Meeting
+
+In the absence of Chair Andrew Adams, Vice-Chair Fowler called the meeting to order and
+welcomed those present.
+
+1.     Items for Commission Consideration.
+
+       A.     Public Hearing: Lone Peak Specialty Centre Condominium Third Amended
+              Plat Request. (Administrative Action).
+              On the request of Andy Hubbard, Sam Burgess, and Brian Lines, representing
+              Women’s Hospital Indianapolis, L.P. and Lone Peak Specialty Centre Condo
+              Owners Association, a Subdivision Plat Amendment Request for a commercial
+              condominium located on approximately 0.78 acres, located at approximately 96 E.
+              Kimballs Lane, known as Application SUBD-00060-2023. Staff Contact: Todd
+              Draper (801) 576-6335, todd.draper@draperutah.gov.
+
+Planning Manager, Todd Draper presented the Staff Report and stated that what is proposed is a
+simple amendment to the Condominium Plat that involves the first floor only. Vicinity and aerial
+maps of the property were displayed. The land use designation is Cultural Institutional and the
+zoning is Regional Commercial (“CR”). The proposed modifications were described on the floor
+plan displayed. There is common area the applicants would like to add to the units and the units
+are being renumbered. Staff recommended approval.
+
+James Andrew was present on behalf of the applicant Brian Lines and was representing Lone Peak
+Hospital. The requested changes are next to their Education Center on the first floor. There is
+Draper City Planning Commission Meeting
+February 22, 2024
+Page 2
+
+common space next to it on both sides where they are looking to add office space. What is
+proposed changes the (internal) footprint slightly.
+
+Commissioner Nixon asked if the proposed change requires an amendment to the Covenants,
+Codes, and Restrictions (“CC&Rs”). Mr. Andrew stated that they will have to be modified and
+recorded. Mr. Draper did not believe this would be a major amendment to the CC&Rs, but the
+Condominium Owners Association had signed off on the request.
+
+Commissioner Shah asked if the applicant intends to sell off the units. Mr. Andrew stated that
+they do not plan to sell them as they will be part of Lone Peak Hospital, which will manage the
+parking as well.
+
+Vice-Chair Fowler opened the public hearing. There was no public comment. The public hearing
+was closed.
+
+Motion: Commissioner Squire moved to APPROVE the Subdivision Plat Amendment
+Request of Andy Hubbard, Sam Burgess, and Brian Lines, representing Women’s Hospital
+Indianapolis, LP, and Lone Peak Specialty Centre Condo Owners Association, Application
+SUBD-00060-2023 subject to the following:
+
+Conditions:
+
+       1.     That all requirements of the Draper City Engineering, Public Works, Building,
+              Planning, and Fire Divisions are satisfied throughout the development of the site
+              and the construction of all buildings and tenant improvements on the site, including
+              permitting.
+
+       2.     That the subdivision application be actively pursued to completion. If no activity
+              has occurred on an application for a period of one (1) year, the application will
+              voided and the file closed. An extension of time can be requested per DCMC
+              Section 17-9-070.
+
+Findings:
+
+       1.     There is good cause for the amendment. 2. No public street, right-of-way, or
+              easement is vacated or amended by the plat.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Squire, Shah, Fidler, and Fowler voted “Yes.” The motion passed
+unanimously.
+Draper City Planning Commission Meeting
+February 22, 2024
+Page 3
+
+       B.     Public Hearing: Windsor Mill Townhomes Site Plan and Deviation
+              (Administrative Action).
+              On the request of David Jenkins, representing Olsen and Associates, for a Site Plan
+              for 30 townhomes and Deviation to building materials on 3.77 acres of property
+              located at 11450 South 820 East. The property is zoned RM2. Applications 2023-
+              0239-SP, 2024-4661-VAR. Staff contact is Jennifer Jastremsky, 801-576-6328,
+              jennifer.jastremsky@draperutah.gov.
+
+The above item was continued to the March 14, 2024, meeting.
+
+2.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at 6:37 PM.
+

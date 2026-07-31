@@ -1,0 +1,2306 @@
+ Prepared for:      Prepared by:
+
+
+
+
+2022
+Copperton Storm
+Water Master Plan
+Get in Touch
+
+
+
+
+  154 East 14075 South
+   Draper, Utah 84020
+
+
+
+     (801) 495-2224
+
+
+
+gloscher@bowencollins.com
+     bowencollins.com
+  Copperton Storm
+  Water Master Plan
+
+                September 2022
+
+
+
+
+Prepared for:                    Prepared by:
+                                                                                                           COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                                               TABLE OF CONTENTS
+
+                                                                                                                                                                       Page No.
+
+
+EXECUTIVE SUMMARY ................................................................................................................................... ES.1
+
+SECTION 1 – INTRODUCTION ..........................................................................................................................1.1
+
+1.1 Background and Introduction.................................................................................................................................. 1.1
+1.2 Objectives ......................................................................................................................................................................... 1.1
+1.3 Scope of Work ................................................................................................................................................................. 1.2
+
+SECTION 2 – DESCRIPTION OF STUDY AREA .............................................................................................2.1
+
+2.1 Location ............................................................................................................................................................................. 2.1
+2.2 Elevation and Climate.................................................................................................................................................. 2.1
+2.3 Native Soils ...................................................................................................................................................................... 2.1
+2.4 Land Use Conditions .................................................................................................................................................... 2.1
+2.5 Existing Drainage Patterns ........................................................................................................................................ 2.1
+
+SECTION 3 – STORM WATER FACILITY INVENTORY ..............................................................................3.1
+
+3.1 Copperton Storm Water Facility Inventory........................................................................................................ 3.1
+
+SECTION 4 –HYDROLOGIC ANALYSIS ...........................................................................................................4.1
+
+4.1 Introduction .................................................................................................................................................................... 4.1
+4.2 Precipitation .................................................................................................................................................................... 4.1
+4.3 Study Area Response to Design Event .................................................................................................................. 4.1
+4.4 Drainage Basin Delineation....................................................................................................................................... 4.2
+4.5 Hydrologic Model .......................................................................................................................................................... 4.2
+4.6 Hydrologic Computer Model Calibration ............................................................................................................ 4.2
+
+SECTION 5 –HYDRAULIC ANALYSIS ..............................................................................................................5.1
+
+5.1 Introduction .................................................................................................................................................................... 5.1
+5.2 Hydraulic Model Creation .......................................................................................................................................... 5.1
+5.3 Modeled Pipes ................................................................................................................................................................ 5.1
+5.4 Overland Flow and Curb and Gutters ................................................................................................................... 5.1
+5.5 Hydraulic Model Calibration .................................................................................................................................... 5.1
+
+SECTION 6 – SYSTEM EVALUATION ..............................................................................................................6.1
+
+6.1 Hydrologic Modeling Results ................................................................................................................................... 6.1
+6.2 Hydraulic Modeling Results ...................................................................................................................................... 6.1
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                                                                                                                    i
+                                                                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+                                                              TABLE OF CONTENTS
+                                                                  (continued)
+
+
+                                                                                                                                                                   Page No.
+SECTION 7 – RECOMMENDED CAPITAL IMPROVEMENTS PLANT ......................................................7.1
+
+7.1 Introduction .................................................................................................................................................................... 7.1
+7.2 Recommended Storm Water System Improvements ..................................................................................... 7.1
+7.3 General Guidelines for New Development.......................................................................................................... 7.2
+7.4 Master Plan Limitations ............................................................................................................................................. 7.3
+
+SECTION 8 – CONCLUSION................................................................................................................................8.1
+
+
+                                                              LIST OF APPENDICES
+
+APPENDIX A – FIGURES
+
+APPENDIX B – ASSA MODELING
+
+APPENDIX C – CIP PROJECT SHEETS
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                                                                                                              ii
+                                                                                      COPPERTON STORM WATER MASTER PLAN 2022
+
+
+                                                  TABLE OF CONTENTS
+                                                      (continued)
+
+
+                                                         LIST OF TABLES
+No. Title                                                                                                                               Page No.
+
+7.1    Capital Improvement Plan Summary ............................................................................................................... 7.2
+
+
+                                                       LIST OF FIGURES
+No. Title                                                                                                                               Page No.
+
+4.1    Temporal Distribution of Design Rainfall Events for Copperton, Utah .............................................. 4.1
+
+
+                                               LIST OF ABBREVIATIONS
+
+AGRC                                                The Association of Governance, Risk and Compliance
+
+ASSA                                                Autodesk Storm and Sanitary Analysis
+
+BC&A                                                Bowen Collins and Associates
+
+Cfs                                                 Cubic Feet per Second
+
+CIP                                                 Capital Improvements Plan
+
+COUNTY                                              Salt Lake County Public Works and Engineering
+
+HEC                                                 Hydrologic Engineering Center
+
+LiDAR                                               Light Detection and Ranging
+
+MSD                                                 Greater Salt Lake Municipal Services District
+
+NOAA                                                National Oceanic and Atmospheric Administration
+
+NRCS                                                National Resources Conservation Service
+
+SDMP                                                Storm Drain Master Plan
+
+SDS                                                 Storm Drain System
+
+USACE                                               United State Army Corps of Engineers
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                                                                               iii
+                                                         COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                 EXECUTIVE SUMMARY
+
+Originally founded in 1926 by the Utah Copper Company to support a small community of miners,
+Copperton Metro Township has grown only moderately, in the past 100 years. The majority of the
+township is included in the Copperton Historic District, which was added to the National Register of
+Historic Places in 1986. Over time the system of storm drain pipes, catch basins and outfalls has
+slowly deteriorated or undergone minor improvements to fix immediate concerns. To gain a better
+understanding of Copperton’s current storm drain system Salt Lake County Public Works and
+Engineering (County) retained Bowen Collins and Associates (BC&A) to develop a comprehensive
+Storm Drain Master Plan for the Copperton Township. The intent of the Master Plan is to inventory
+existing storm drain infrastructure, address the challenges facing the storm water drainage system,
+and create a plan for future improvements to the system.
+
+As part of this master planning effort, a storm water computer model was created. This allows the
+County to better understand how the storm water system is working today, and how it might work
+with future improvements. The model was used to simulate storm water runoff response to 10-year
+and 100-year rainfall events. The model results suggest most of Copperton’s current drainage system
+maintains adequate capacity during storm events. However, the County and local residents have
+identified flooding concerns in specific areas in Copperton.
+
+Based on these results and discussions with the County, BC&A developed a list of recommended
+improvement projects. The improvements were evaluated in the model and a general cost estimate
+was developed for each project. The prioritized list of recommended projects has been compiled into
+a Capital Improvement Plan, or CIP, and can be found in Table 7.1 of Section 7.0 of this report. A map
+showing the location of the recommended improvements can be found on Figure 7 of Appendix A.
+
+As new development is constructed it is recommended that the master plan be used as a guide for
+local storm drain improvements. New developments should be modeled and reviewed on a case by
+case basis to ensure that new storm drains fit within the overall Master Plan. The storm drain model
+should also be updated regularly as improvements are made and development occurs.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                       ES-1
+                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                        SECTION 1
+                                      INTRODUCTION
+
+1.1 BACKGROUND AND INTRODUCTION
+Over the past decade western Salt Lake County has experienced substantial growth and urbanization
+with significant impacts to new and existing infrastructure. The evolution from a rural to urban
+landscape has in particular, required effective planning and management of stormwater conveyance
+and collection facilities. Although growth in the Copperton Township has been relatively slow, there
+is a need for a comprehensive Storm Drain Master Plan for the area.
+
+Copperton is a small township located in the southwestern portion of Salt Lake County at the mouth
+of New Bingham Canyon, which is home to the Rio Tinto (formerly Kennecott) Copper Mine.
+Historically a mining town, Copperton was built to support a small community of workers.
+
+Today the Copperton Metro Township is a member of the Greater Salt Lake Municipal Services
+District (MSD). The Salt Lake County Public Works and Engineering Department oversees the
+maintenance, planning and development of infrastructure needs for the MSD. Storm drain planning,
+design, and construction efforts are overseen by the Engineering Division, while maintenance and
+operation of storm drainage facilities are conducted under the direction of the Operations Division.
+
+The County and Copperton Township require a comprehensive storm drain master plan to inventory
+existing infrastructure, identify and address storm drain deficiencies, and to plan for future
+development.
+
+1.2 OBJECTIVES
+In February 2022 Salt Lake County retained Bowen Collins and Associates to develop a
+comprehensive storm drain master plan for the Copperton Township with three primary objectives:
+   •   Inventory and map existing stormwater drainage and collection facilities.
+   •   Evaluate the adequacy of existing facilities to manage stormwater runoff for both existing and
+       future conditions using an integrated hydraulic and hydrologic computer model.
+   •   Develop a priority list of recommended storm drain and detention facility improvements.
+
+1.3 SCOPE OF WORK
+The scope of the Copperton Storm Water Master Plan includes:
+
+Task 1 – Collect and Review Existing Information
+
+BC&A collected and reviewed existing information and work pertaining to the Copperton storm drain
+system (SDS), including:
+   •   Topographic mapping, soil mapping and aerial photography
+   •   Soil investigation and mapping for washes and surrounding areas
+   •   GIS storm drain inventory data
+   •   Previous storm drain related studies within the study area
+   •   Transportation, zoning, and land use plans, including mining operations
+   •   Demographic projections
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                        1-1
+                                                          COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+   •   Maintenance records and CCTV logs for drainage systems.
+Much of this information was collected and provided by the County. It is our understanding that no
+previous comprehensive storm drain master plan has been prepared for the Copperton Township.
+
+BC&A held a kickoff meeting with County staff to review existing information and to identify
+additional required information. We also sought input from operations staff to identify SDS problems
+not otherwise documented.
+
+Task 2 – Field Reconnaissance
+BC&A verified existing records and conducted field research to fill in missing pieces of the core storm
+water networks. This task consisted of in-person visits to key sites in the study area.
+
+Task 3 – Hydraulic Model Development
+Using data from design and record drawings and the County’s GIS database, BC&A developed a
+hydraulic model of Copperton’s SDS using Autodesk Storm and Sanitary Analysis (ASSA). The model
+includes major inventoried stormwater infrastructure such as pipes, outfalls, and culverts. A digital
+copy of the ASSA model has been provided to the County.
+
+Task 4 – Hydrologic Model Development
+Using a drainage basin map, developed by the County, and information from Tasks 1, 2 and 5, BC&A
+developed a hydrologic model of the study area. The County delineated 27 subbasins to be included
+in the hydrologic model. As part of the hydrologic model, BC&A developed a map of the existing and
+projected land use conditions based on aerial photography and input from the County. A digital copy
+of the ASSA model has been provided to the County.
+
+Task 5 – Rainfall Hyetographs
+BC&A established appropriate rainfall depths and design storm distributions for 10-year and 100-
+year storm events. These were based on NOAA Atlas 14 and Farmer-Fletcher storm depths, durations
+and distributions.
+
+Task 6 – Perform System Modeling and Analyses
+Using the combined hydraulic and hydrologic models BC&A estimated runoff and identified potential
+SDS deficiencies. We worked closely with County operations staff to identify areas that experienced
+past flooding or maintenance issues and to develop design and operating criteria for storm drain
+facilities.
+
+Task 7 – Identify Storm Drain System Improvements
+Using the combined hydraulic and hydrologic model, BC&A identified storm drain improvements and
+potential alternatives. We met with County personnel to review proposed improvements and ensure
+their compatibility with existing system operations.
+
+Task 8 – Capital Improvements Plan
+BC&A developed a list of recommended SDS improvements needed to meet the desired level of
+service using model results. Prioritization was based on the significance of deficiencies and input
+from County staff. Conceptual cost estimates were developed for the prioritized improvements and
+include permitting, materials, construction, engineering, and administrative costs.
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                          1-2
+                                                       COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+Task 9 – Prepare Storm Drain Master Plan Report
+BC&A developed a report summarizing study results and documenting procedures used to create the
+Storm Drain Master Plan (SDMP). We provided the County with copies of the draft report for use with
+stakeholder coordination and internal review. We have also provided the County with digital copies
+of hydrologic and hydraulic models. Comments were addressed in this final report.
+
+Task 10 – Project Management and Coordination Meetings
+BC&A prepared and attended regular progress meetings over the duration of the project.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                      1-3
+                                                           COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                    SECTION 2
+                            DESCRIPTION OF STUDY AREA
+
+2.1 LOCATION
+The study area, as shown in Figure 1 of Appendix A, is located on the west side of Salt Lake Valley in
+southwest Salt Lake County.
+
+The area includes portions of the Copperton Township and the Bingham Canyon watershed in the
+Oquirrh Mountains. The Copperton Township is located along the Bingham Highway from the mouth
+of Bingham Canyon on the west, to Bingham City Cemetery located near the junction between New
+Bingham Highway and Old Bingham Highway on the East. Bingham City Cemetery is included in the
+township. Areas north of the highway are largely undeveloped, while a suburban residential
+community is located south of the highway. Storm drain facilities evaluated in this study are bounded
+by the residential community.
+
+To evaluate the adequacy of Copperton’s SDS, contributing drainage areas north of Bingham Highway
+were included or accounted for in the study. This includes portions of the Bingham Canyon watershed
+in the Oquirrh Mountains. The watershed drains through Copperton from northwest to southeast.
+
+2.2 ELEVATION AND CLIMATE
+Study area elevations range from approximately 5,400 to 6,650 feet with most developed residential
+areas within the 5,440 to 5,520 feet range.
+
+The climate in the Salt Lake Valley is characterized as semi-arid, with annual mean relative humidity
+of 55 percent (ranging from 22 to 79 percent). Average temperatures range from 59⁰ to 88⁰
+Fahrenheit in the summer, 40⁰ to 65⁰ Fahrenheit in the spring and fall, and 22⁰ to 40⁰ Fahrenheit in
+the winter. Average annual precipitation in the valley is approximately 15.5 inches, almost half of
+which comes from snow.
+
+2.3 NATIVE SOILS
+Native soils were categorized based on the NRCS’s hydrologic soil groups. The NRCS classifies soils
+into four groups (A, B, C and D) based on runoff potential. Group A soils have the lowest runoff
+potential and Group D soils have the highest. Soils in the Copperton study area were either Group C
+or Group D indicating high runoff potential. Group C soils consist of sandy clay loams and cover about
+10% of the study area, predominantly in the high elevation foothills. Group D soils have low
+infiltrations rates and consist of clay loams, silty clay loams, sandy clays or clays. Group D soils cover
+about 90% of the study area.
+
+2.4 LAND USE CONDITIONS
+The study area covers 465 acres which encompasses portions of the Bingham Canyon watershed and
+Copperton Township, including the developed area south of Bingham Highway. Overall, the study
+area is approximately 15 percent developed. A majority of the developable area is built-out while the
+remaining area consists of foothills property privately owned by Rio Tinto.
+
+Within the developed portion of the study area, roughly 85 percent is residential development, with
+15 percent commercial and light industrial areas.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                             2-1
+                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+2.5 EXISTING DRAINAGE PATTERNS
+Natural slopes in the area range from approximately 5 to 13 percent downhill and run from
+northwest to southeast of the study area. Storm water runoff generally follows the natural drainage
+patterns characterized in Figure 2 of Appendix A.
+
+Runoff from the foothills in the northern part of the study area flows south and collects along
+Bingham Highway. From Bingham Highway water is either routed west to an outfall located along
+the western border of the township, or east to a large culvert between Gemmell Club Drive and Carr
+Fork Road. Flow in the culvert is piped to a main outfall located along the eastern border of the
+township near Copperton Circle.
+
+Runoff from the residential areas travel along road gutters to catch basins. Water collected in the
+catch basins is routed through pipes to several discharge points along the southern borders of the
+study area, including the main outfall near Copperton Circle. Ultimately discharged water either
+infiltrates or flows to Bingham Creek. Bingham Creek is the study area’s major natural drainage.
+
+2.5.1 Bingham Creek
+Bingham Creek drains the Bingham Canyon watershed and is the major natural drainage channel to
+which all runoff in the study area is routed. Due to mining operations all runoff from Bingham Canyon
+is retained in evaporation ponds south of Copperton. The remainder of the Bingham Creek drainage
+continues east through West Jordan City and ultimately drains to the Jordan River.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                        2-2
+                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                               SECTION 3
+                      STORM WATER FACILITY INVENTORY
+
+3.1 COPPERTON STORM WATER FACILITY INVENTORY
+Compiling an inventory of Copperton’s storm water facilities provides a baseline for understanding
+and effectively managing the system.
+
+In preparation of this Master Plan BC&A performed field reconnaissance to augment information on
+existing facilities as provided by the County. The combined data was added to the storm water model
+and a GIS database. Data gaps were filled using the field investigations, reviews of supporting data,
+and reasonable assumptions, as needed.
+
+Figure 3 in Appendix A illustrates a map of the mapped existing elements of the storm water system,
+with modeled elements highlighted.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                        3-1
+                                                                                       COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                                                    SECTION 4
+                                                               HYDROLOGIC ANALYSIS
+
+4.1 INTRODUCTION
+The hydrologic analysis evaluates runoff generation in response to precipitation. This section
+provides an overview of the methods and results of the analysis.
+
+4.2 PRECIPITATION
+For the purposes of this study, the worst-case condition for Copperton’s storm drain system is
+assumed to be a typical summer intense cloudburst event characterized by brief, high-intensity
+rainfall. This assumption is consistent with previous studies for the Salt Lake Valley.
+
+To mimic this type of rainstorm, 10-year and 100-year recurrence interval events were selected.
+These events correspond to a 3-hour rainfall depth of 1.11 inches (10-year event) and 1.95 inches
+(100-year event) over the entire study area, based on data from local rain gauge stations reported in
+the NOAA Atlas 14.
+
+The rate at which this rainfall depth falls over the duration of a 3-hour event is assumed to follow a
+modified Farmer-Fletcher temporal distribution. This is illustrated in Figure 4.1.
+
+                                   0.5000
+                                   0.4500                                                                    10-Year Event
+                                                                                                             100-Year Event
+                                   0.4000
+     Rainfall Intensity (inches)
+
+
+
+
+                                   0.3500
+                                   0.3000
+                                   0.2500
+                                   0.2000
+                                   0.1500
+                                   0.1000
+                                   0.0500
+                                   0.0000
+                                            0   10   20   30   40   50   60   70   80 90 100 110 120 130 140 150 160 170 180
+                                                                                   Time (min.)
+
+                                      Figure 4.1. Temporal Distribution of Design Rainfall Events for Copperton, Utah
+
+4.3 Study Area Response to Design Event
+During the design rainfall event several interactions occur between the water and study area.
+Initially precipitation may be intercepted by vegetation and structures. Once reaching the ground
+precipitation may drain into the soil, evaporate or form transient ponds. Eventually excess rainfall
+flows over the landscape, accumulates into rills and flows to larger stormwater conveyance systems.
+Hydrologic models aim to simulate these interactions and generate an estimated runoff volume and
+flowrate from the design storm event in the study area. There are several methods and models
+available, but for this study, the USACE HEC-1 method was used in combination with Autodesk Storm
+and Sanitary Analysis (ASSA) software.
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                                                     4-1
+                                                          COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+HEC-1 is a dynamic rainfall-runoff simulation model used to estimate runoff quantity by representing
+the basin as an interconnection of smaller hydrologic and hydraulically analogous components (a.k.a.
+subbasins). Subbasins receive precipitation and generate runoff. ASSA software routes runoff from
+subbasins through a system of channels, pipes, and storage devices. ASSA tracks the quantity of runoff
+generated within each subbasin, and the flow rate and flow depth through each open or closed
+channel during the simulation period comprised of multiple time steps (HEC-1 Flood Hydrograph
+Package User’s Manual v. 4.1, 1998).
+
+A summary of the ASSA model inputs used to characterize the study area can be found in Appendix
+B.
+
+4.4 Drainage Basin Delineation
+As part of a preliminary modeling effort Salt Lake County divided the 465 acre study area into 27
+subbasins ranging in size from 0.7 to 46 acres. BC&A reviewed the subbasins delineations as part of
+the modeling effort.
+
+Subbasins represent the approximate area draining to a single outlet. Each subbasin receives
+precipitation and generates runoff. Runoff is then collected at the outlet and routed through
+conveyance facilities to downstream outlets and outfalls.
+
+Basin delineation is based on topography, conveyance facilities (both natural and manmade) and
+land development patterns. Topography and aerial imagery were obtained from the Salt Lake County
+AGRC (aerial imagery dated 2019). Topography resolution is based on 0.5 meter LiDAR (1.64 feet,
+2013).
+
+Basin delineations are shown in Appendix A (Figure 4).
+
+4.5 Hydrologic Model
+Autodesk Storm and Sanitary Analysis 2022 (ASSA) Version 13.4 software was used to create a
+computer based hydrologic model of Copperton’s storm water system.
+
+Model parameters, shown in Appendix B, were entered into the computer model for each subbasin.
+Using the HEC-1 method ASSA calculates the runoff from each subbasin in response to rainfall events.
+
+Continuity error can generally be used to gauge the stability and reliability of a model’s results based
+on inputs. The continuity error for this model is less than 0.01%. A continuity error greater than 10
+percent is typically considered to indicate numerically unreliable results. Anything less than 5
+percent indicates good model results based on the inputs.
+
+4.6 Hydrologic Computer Model Calibration
+Model calibration is the process of adjusting the initial model assumptions to generate results that
+consistently match observed field conditions. Calibrating storm water models is challenging because
+we often lack storm water flows and field observations that correspond to the modeled rainfall
+events (e.g. 10-year rainfall event). Because runoff responses to rainfall is non-linear, smaller storm
+events cannot typically be used to calibrate models for larger events.
+
+For this study BC&A relied on previous studies in the Salt Lake Valley and input from the County to
+calibrate the ASSA model. Model results were compared to results from previous studies, typical
+runoff in local urban areas, and County feedback regarding areas of flooding concern. The final model
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                           4-2
+                                                       COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+results are consistent with these comparisons and appear reasonable. In combination with
+conservative buffers and safety factors, the results can be used for planning and design purposes.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                     4-3
+                                                           COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                      SECTION 5
+                                  HYDRAULIC ANALYSIS
+
+5.1 INTRODUCTION
+A hydraulic analysis was performed to evaluate how drainage infrastructure responds to runoff. This
+section provides an overview of the methods and results of the hydraulic analysis.
+
+5.2 HYDRAULIC MODEL CREATION
+Storm water runoff from the study area is routed through a network of roadside gutters, open
+channels, and underground pipes. Periodically, this runoff accumulates or ponds in local depressions
+or in the streets. The intent of the hydraulic model is to mimic the flow conditions in this network
+during the design rainfall event and identify areas that may need to be improved.
+
+This model is limited to primary drainage corridors. The primary drainage corridors are comprised
+of major overland flow paths, critical curb and gutters, and main storm drain culverts and trunklines.
+Runoff from each subbasin is routed through these drainage corridors to provide an overview of how
+the stormwater system responds.
+
+Autodesk Storm and Sanitary Analysis 2022 (ASSA) Version 13.4 software was used to create a
+computer based hydraulic model of Copperton’s storm water system. ASSA was used because it
+allows the user to link the hydrologic and hydraulic models. A digital copy of this model has been
+provided to the County for use in planning for and evaluating future developments.
+
+5.3 MODELED PIPELINES
+The model incorporated major storm drain pipes in Copperton. Storm drain pipes were incorporated
+into the model where they played a critical role in conveying stormwater. The decision of which pipes
+to include was based on the subbasin characteristics, field observations and input from County
+personnel. The modeled trunklines included in the hydraulic model are shown in Figure 3, in
+Appendix A.
+
+Information on the physical characteristics of the pipes included in the model was determined
+through field observations, and data from Salt Lake County, including GIS data and CCTV footage.
+However, some pipes lacked available data, in which case we relied on reasonable assumptions of
+the pipe material and size (e.g. known upstream and downstream pipe characteristics).
+
+5.4 OVERLAND FLOW AND CURB AND GUTTERS
+In the hydraulic model runoff from one subbasin often needs to be routed through one or more
+downstream subbasins, until it reaches a pipe or an outfall. In reality this runoff is typically conveyed
+through a pipe, a drainage channel or curb and gutter. Hydraulic characteristics of the open channels,
+in the model, like roughness and width, were modified to mimic overland flow paths or curb gutters.
+
+5.5 HYDRAULIC MODELING CALIBRATION
+As more of the storm water system is surveyed and inventory, it is recommended that the hydraulic
+model be updated with the best available data. This will improve the accuracy of the model in
+reflecting actual field conditions.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                            5-1
+                                                          COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                      SECTION 6
+                                  SYSTEM EVALUATION
+
+6.1 HYDROLOGIC MODELING RESULTS
+The hydrologic model was primarily used to estimate the total runoff and the runoff per acre in each
+subbasin. Runoff in the developed residential area typically ranges from 0.4 to 0.7 cfs/acre during
+the 10-year storm and from 0.8 to 1.3 cfs/acre during the 100-year storm. The range of runoff from
+undeveloped foothills subbasins is minimal (0.01 cfs/acre) during the 10-year storm and ranges from
+0.1 to 0.24 cfs/acre during the 100-year storm. Figures 5.A and 5.B, in Appendix A, show the
+hydrologic modeling results, including runoff per acre during the 10-year and 100-year storms,
+respectively.
+
+Areas north of Bingham Highway, including the former site of Bingham High School, have been
+identified as areas for potential future development. Based on similar residential development types
+throughout Copperton, peak runoff rates in the areas are estimated to increase substantially. Runoff
+from new development will be routed to catch basins along Bingham Highway. The additional runoff
+from the former Bingham High School site will warrant installation of catch basins along Bingham
+Highway and a piped connection to the existing pipeline along Park Street.
+
+6.2 HYDRAULIC MODELING RESULTS
+As runoff is routed through pipes in the model, water is allowed to pond on the ground surface when
+flow exceeds the pipe’s capacity. As the pipe drains and capacity becomes available, the ponded water
+is allowed to enter the piped system. The model reports pipe capacity at peak flow conditions and
+the total volume of ponded water where flow exceeds capacity. The modeling results suggest that
+there are no ponded areas and pipes maintained capacity during the modeled storm events. Figure
+6.A and 6.B, in Appendix A, show the hydraulic modeling results for the 10-year and 100-year storms,
+respectively. Results are shown as runoff as a percent of pipe capacity.
+
+Stormwater pipes in developed areas are generally designed to carry the 10-year design storm.
+During a 100-year storm runoff from developed areas therefore often exceeds pipe capacity. In these
+cases runoff from developed areas is conveyed through both stormwater pipes and along roads. In
+native foothills areas and large watersheds, the intent is to preserve native channels and storm drain
+capacity sufficient to carry a 100-year design storm. In the case of Copperton, the modeled pipes
+along Park Street and Apex Road were evaluated against the 10-year storm, while the modeled pipes
+along Bingham Highway were evaluated against a 100-year storm. The pipes along Park Street and
+Apex Road were assumed to primarily accommodate runoff from the surrounding developed areas.
+The large culverts along Bingham Highway, however, were assumed to accommodate runoff from the
+surrounding foothills. Based on these parameters, the modeling results suggest that the existing
+pipes have adequate capacity for both the 10-year and 100-year storms.
+
+Despite what the modeling results suggest, Copperton residents have reported flooding at the inlet
+near 10261 Apex Road. At this location the existing stormwater pipes turn east and pass under
+private homes towards the outfall near Copperton Circle. Since the modeling results suggest
+adequate pipe capacity, flooding at this location likely occurs as a result of insufficient catch basin
+inlet capacity.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                          6-1
+                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                         SECTION 7
+            RECOMMENDED CAPITAL IMPROVEMENTS PLAN
+
+7.1 INTRODUCTION
+The combined hydrologic and hydraulic model of the existing system and discussion with the County
+were used to identify system deficiencies and develop a list of improvement objectives. The primary
+improvement objectives are summarized as follows:
+   •   Remove stormwater infrastructure from private property
+   •   Mitigate known flooding near 10261 Apex Road
+   •   Connect the Park Street pipeline to the sumps at the intersection of Park Street, Bingham
+       Highway, and Dinkeyville Way
+   •   Eliminate outfalls and improve intake structures along Hillcrest Street
+   •   Plan for future development north of Bingham Highway.
+
+Several improvement alternatives were developed based on these objectives. The hydraulic model
+was used to simulate the improvement alternatives and develop a prioritized list of recommended
+capital improvements.
+
+Several factors were considered when prioritizing the recommended improvements, including the
+impact and severity of potential flooding. Storm water improvements also have a tendency to move
+problems downstream. For practical reasons, the downstream projects usually need to occur first in
+order to provide the increased conveyance for later upstream improvements.
+
+7.2 RECOMMENDED STORM WATER SYSTEM IMPROVEMENTS
+Table 7.1 provides a summary of the recommended conveyance and storage improvements including
+opinions of probable construction costs and prioritization of projects. The overall recommended
+capital improvements are also illustrated on Figure 7 in Appendix A. Appendix C contains project
+sheets for each of the recommended projects. The sheets contain a written description, an area map,
+and an opinion of probable construction costs.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                      7-1
+                                                               COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                          Table 7.1
+                             Capital Improvement Plan Summary
+
+  Priority                                                                                   Opinion of
+                                           Project Name
+  No.                                                                                       Probable Cost
+     1A       Park Street Realignment Project (Alternative A)1                                 $ 902,000
+
+     1B       Park Street Realignment Project (Alternative B)                                 $ 1,285,000
+
+      2       Park Street Extension Project                                                    $ 508,000
+
+      3       Carr Fork and Apex Road Pipeline Project                                         $ 319,000
+
+      4       Freeman Gulch Pipeline Project                                                   $165,000
+
+      5       Copperton Park Realignment Project                                               $286,000
+
+      6       Hillcrest Pipeline Project                                                       $ 862,000
+
+                                                                                  Total      $3,042,0002
+1The Park Street Realignment Project (Alternative A) includes two alignment options. The estimated cost is
+
+ the same for both alignment options.
+2This total reflects the sum of all projects listed excluding the Park Street Realignment Project
+
+ (Alternative B).
+
+7.3 GENERAL GUIDELINES FOR NEW DEVELOPMENT
+In the past, the County has established general guidelines for limitations on runoff from new
+development. For example, regional studies such as the 2002 Southwest Canal and Creek Study
+recommended limiting storm water discharge in areas of planned development to 0.2 cfs/acre, and
+limiting storm water discharge in areas not anticipated for development to predevelopment runoff
+levels. These regional studies are currently being updated. In general, study updates reflect that
+development has been more dense and more expansive than anticipated 20 years ago, with a
+decrease in average lot sizes and extension of development into foothill and other areas not
+previously envisioned. As a result, cumulative peak runoff rates and volumes from developing areas
+have generally been found to be higher than expected.
+
+In addition, recommendations to limit runoff to predevelopment conditions are subject to
+interpretation and often misconstrued to allow new development runoff significantly higher that
+historic native conditions (e.g. by using the most recent land use, such as plowed farmland or poor
+rangeland, as the predevelopment condition rather than the historic natural watershed condition).
+
+Based on historic flow records for large watersheds in the Salt Lake Valley, native watershed runoff
+rates are estimated to be in the range of 0.02 to 0.05 cfs/acre. This is a reasonable guideline to
+compare with estimates of predeveloped runoff conditions, and a reasonable guideline for general
+runoff limitations. It should be noted that runoff limitations should apply to both 10-year and 100-
+year events.
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                                   7-2
+                                                           COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+In general the direction of the State of Utah, who administers the Utah Pollutant Discharge
+Elimination System (with primacy granted by the U.S. EPA), is increasingly to limit runoff peak
+discharge, volume and water quality to predevelopment (i.e. historic native watershed) conditions.
+The intent of this is to limit negative impacts to downstream streams, lakes and rivers. In keeping
+with this, drainage from new development in Magna should consider peak discharge, volume and
+water quality associated with storm water runoff.
+
+7.4 MASTER PLAN LIMITATIONS
+The master planning process is used to develop an overall plan and recommendations for general
+storm drain pipe sizes, locations, and associated conceptual level construction cost estimates. The
+estimated design flow and pipe diameters were developed from computer models that should be
+refined with detailed analyses and data as it becomes available during the detailed design process.
+This master plan was developed based on common assumptions and standard design criteria to
+ensure uniformity in the recommended improvements and associated cost estimates. This master
+plan does not include details such as exact alignment, design slopes, and pipe depths; utility conflicts;
+and permitting requirements. During the design phase of the recommended improvements,
+additional detailed hydrologic and hydraulic analysis should be performed to identify the final pipe
+sizes, flow rates, and slopes of the proposed storm drain pipes. A pre-design report that documents
+the recommended pipe sizes, design flow rates, model results, detailed cost estimate, and addresses
+other pertinent design questions should also be prepared prior to design and construction to refine
+the general recommendations made in the master plan documents.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                            7-3
+                                                        COPPERTON STORM WATER MASTER PLAN 2022
+
+
+
+                                        SECTION 8
+                                       CONCLUSION
+
+Copperton is a vibrant community with a rich mining history, but while the community has renewed,
+their storm drain infrastructure has gradually aged. Aging infrastructure can lead to costly damage,
+tedious maintenance and create health and safety hazards.
+
+The purpose of this Storm Water Master Plan was to evaluate Copperton’s existing storm water
+infrastructure and develop a list of recommended improvements to maintain and improve the
+functionality of the local storm drain system. The recommendations provided in this master plan can
+serve as road map to improving Copperton’s storm water drainage over time as resources and
+opportunities become available. Investing in these improvements protects the community from
+growing issues, that are likely to become even more costly if neglected, and promotes a clean and
+safe neighborhood with a better quality of life for those living and working in Copperton.
+
+
+
+
+BOWEN COLLINS & ASSOCIATES
+SALT LAKE COUNTY PUBLIC WORKS ENGINEERING                                                       8-1
+APPENDIX A
+Figures
+                                                                                     Canals
+                                                                                                          Railroads
+
+
+
+
+                                                             Township
+                                                                                              Waterways
+
+
+
+                                                                        Study Area
+                                                                                                                      L E G E N D
+
+
+
+
+                                          Water Facilities
+        Up
+           per
+                                      Li
+                                        ne
+                                                             d C nal
+                                                                a
+                                                                                                                                                   Bingham Creek
+
+
+
+
+                                                                                                                                              Lo
+                                                                                                                                          we
+                                                                                                                                    ined C   rL
+                                                                                                                                          an
+                                                                                                                                             al
+                                                                                                                                                                                    Barneys Wa
+                                                                                                                                                                                              sh
+
+
+
+
+          Salt Lake County, Maxar
+
+
+
+
+                                                                                                                                                                                 NORTH:            SCALE:
+
+                                                                                                                                                 COPPERTON
+                                                                                                                                                                                    NORTH          0        500   1,000
+  1
+
+
+
+
+                                                                                                                                                                    STUDY AREA
+                                    FIGURE NO.
+
+
+
+
+                                                                                                                                          STORM WATER MASTER PLAN
+                                                                                                                                                                                                                     Ft.
+                                                                                                                                              SALT LAKE COUNTY
+P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 6/28/2022
+                                                                                                                                                                                                                     Ba
+                                                                                                                                                                                                                          rn
+                                                                                                                                                                                                                               ey s
+                                                                                                                                                                                                                                    Wa s
+                                                                                                                                                                                                                                           h
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                               Ft.
+                                                                                                                                                                                                                                                                                                                                                     1,000
+                                                                                                                                                                                           5567 ft
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                     500
+      6390 ft
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                       SCALE:
+
+
+                                                                                                                                                                                                                                                                                                                                                     0
+                                                                                                                 5873 ft
+
+
+
+
+                                                                                         8
+                                                                                                                                                                                                                                                                                                                          h
+                                                                                                                                                                                                                                                                                                                     as
+                                                                                                                                                                                                                                                                           Barneys Wash
+                                                                                                                                                                                                                                                                                                              W
+                                                                                                                                                                                                                                                                                                          eys
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                       NORTH
+                                                                                                                                                                                                                                                                                                  Bar n
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                       NORTH:
+                                                                                                                                                                                                                                                                                                                                   y
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                      NATURAL DRAINAGES
+                                                                                                                                                                                                                                                                                                                              Hw
+                                                                  8                                                                                                                                                                                                                                  w
+                                                                                                                                                                                                                                                                                                          Bi
+                                                                                                                                                                                                                                                                                                               ng
+                                                                                                                                                                                                                                                                                                                    ha
+                                                                                                                                                                                                                                                                                                                       m
+
+
+                                                                                                                                                                                                                                                                                                  Ne
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                         STUDY AREA
+                                                                      8                        8                                                                                                                                                                                              W
+
+
+
+
+                                                                                                                                                                                                                                                                          5345 ft
+
+
+
+                                                                                                                 8
+                                                                                                                                         8                  E State Hw y   8                                                                                                            Old Bingham Hwy
+                                                                                                                 8                                          Copperton                  8                                                               Bingham City
+                                                                                                                                                                                                                                                         Cemetery
+
+                                                                                                                                                                                      8
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                STORM WATER MASTER PLAN
+                                                                                                             8       W Park St
+
+                                                                                                                                 Copperton Park
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                    SALT LAKE COUNTY
+                                                                                         Hwy
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                       COPPERTON
+                                                                                  gham
+                                                              O   N       W Bin
+                                                           NY
+ L E G E N D                                     AM
+                                                      CA                                                                                                                                                          Bingham
+                                             H                                                                                                                                                                     Creek
+                                     B   ING
+     Water Facilities                                                                                                                                                                                             Reservoir                                                                       Bingha m Cr ee k
+
+                                                                                                                                                    Bingham Creek
+Elevation (ft.)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                          P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 6/14/2022
+     5100-5200
+     5200 - 5400
+                                                                                                   5688 ft                                                                                                                                     Lo
+     5400 - 5600                                                                                                                                                                                                                                    we
+                                                                                                                                                                                                                                                       rL   ined C
+                                                                                                                                                                                                                                                                  an
+     5600- 5800                                                                                                                                                                                                                                                      al
+
+     5800 - 6000                                                                                                                                                                                      5465 ft
+
+     6000 - 6200
+                                                                                                                                                                                                                                                                              5329 ft
+     6200 - 6400
+
+     6400 - 6600
+
+     66001 - 6800
+                                                                                                                                               CCaannaall
+
+
+
+
+     6800 - 7000
+            Cop
+                pe
+                     rM
+                                                                                                                                            ne d
+
+
+
+
+                          ine
+                                                                                                                                         Li d
+
+
+
+
+     >7000                      Ac
+                                                                                                                                       enr e
+
+
+
+
+                                     ce
+                                                                                                                                             p              Esri, NASA, NGA, USGS, FEMA, Esri Community Maps Contributors, County of Salt Lake, County of Utah, Utah AGRC, Esri, HERE, Garmin, SafeGraph,
+                                                                                                                                      Li
+
+
+
+
+                                                                                                                                    perU
+                                                                                                                                         p                                                                                                                                                                                             FIGURE NO.
+                                         ss
+
+
+
+
+                                                                                                                                  p                                                              GeoTechnologies, Inc, METI/NASA, USGS, Bureau of Land Management, EPA, NPS, US Census Bureau, USDA
+                                                                                                                                 U
+                                                                                                                                                                                                                                                                                                                                                       2
+                                          Rd
+                                                                                                                                                                                                                                                                                                             Ft.
+                                                                                                                                                                                                                                                                                                   200
+           L E G E N D
+         Outfalls
+
+
+
+
+                                                                                                                                                                                                                                                                                                   100
+         Existing Pipeline Access Points
+
+
+
+
+                                                                                                                                                                                                                                                                                     SCALE:
+         Modeled Pipes
+
+
+
+
+                                                                                                                                                                                                                                                                                                   0
+         Existing Pipes
+
+         Waterways
+
+
+
+
+                                                                                                                                                                                          Solstice View Dr. 24"
+
+
+
+
+                                                                                                                                                                                                                                                                                                     NORTH
+                                                                                                                                                                                                                                                                                     NORTH:
+         Canals
+
+         Water Facilities
+
+
+                                                                                                                                                                             72"                                                      72"
+
+
+
+
+                                                                                                                                                                                                                                                                                                  EXISTING STORM
+                                                                                                                                                                                                                                                                                                  WATER SYSTEM
+                                                                                                                                                                                                                                                       Copperton Circ.
+
+
+
+
+                                                                                                                                                                                                                                                                               42"
+                                                                                                       Hwy
+
+
+
+
+                                                                                                                                   S. Y
+                                                                                                 ham
+                                                                                             Bing
+
+
+
+
+                                                                                                                                       am
+                                                                                                                                                                                                                                                                         40"
+                                                                                                                                                                                                                  36"
+
+
+
+
+                                                                                                                                     pa H
+                                                                                                                                                                           30"
+
+
+
+
+                                                                                                                                       eigh
+                                                                                                                                            t Wy
+                                                                                                                                                                            Park St.
+
+
+
+
+                                                                                                                                                                                                                                                                                              STORM WATER MASTER PLAN
+                                                                                                                                                .
+
+
+
+
+                                                                                                                                                                                                                                                                                                  SALT LAKE COUNTY
+                                           9"
+
+
+
+
+                                                                                                                                              30"
+
+
+
+
+                                                                                                                                                                                                                                                                                                     COPPERTON
+                                                                                                       15"
+                    S. Dinkeyville Wy.
+
+
+
+
+                                                                            S. Dryfork Rd.
+
+
+
+
+                                                                                                                                                     S. Gemmell Club Dr.
+
+
+
+
+                                                                                                                                                                                       S. Carr Fork Rd
+
+
+
+
+                                                                                                                                                                                                                        S. Apex Rd.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                        P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 9/6/2022
+                                                Cyprus St.
+                                                                                                             S Freeman Gulch Wy.
+
+
+
+
+                                                                                                                                     Hillcrest St.
+
+
+
+
+Existing pipe data was obtained form Salt Lake County and includes                                                                                                                                                                                                                   FIGURE NO.
+pipes with known attributes (e.g. locations, diameter, inverts, etc.) and                                                                                                                                                                   Salt Lake County, Maxar, Microsoft
+those with assumed attributes based on field investigation.                                                                                                                                                                                                                                          3
+                                                                                                                                                                                                                                                                                     Ft.
+                                                                                                                                                                                                                                                                           600
+L E G E N D
+   Waterways
+
+
+
+
+                                                                                                                                                                                                                                                                           300
+   Canals
+
+
+
+
+                                                                                                                                                                                                                                                             SCALE:
+   Water Facilities
+
+
+
+
+                                                                                                                                                                                                                                                                           0
+                             26
+
+
+
+
+                                                                                                                                                                                                                                                                             NORTH
+                                                                                                                                                                                                                                                             NORTH:
+
+
+
+                                                                                                                                                                                                                                                                            DRAINAGE BASIN
+                        27                 25
+
+
+
+
+                                                                                                                                                                                                                                                                             DELINEATIONS
+                                                                                 4                                                                                               6
+
+                                  24                                                                                        5
+
+
+
+
+                                                  1
+
+
+
+
+                                                                                                                                                                                                                                                                      STORM WATER MASTER PLAN
+                                                                                                                                                                                                                          15
+
+
+
+
+                                                                                                                                                                                                                                                                          SALT LAKE COUNTY
+                                       2
+                                                                                                                                              14
+
+
+
+
+                                                                                                                                                                                                                                                                             COPPERTON
+                                                                                                    12
+
+                                                                                                                                                                                          9
+
+
+
+
+                                                                                                                                                                              Solstice
+                                                                                                                                                                                                                                      10
+
+
+
+
+                                                                                                                                                                              View
+
+
+
+
+                                                                                                                                                                                                                                                                                                P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 6/28/2022
+                                                                                                                                                                              Dr.
+                                                                                                                                        16
+                                            3                                                                                                                                                                                                       21
+
+
+
+
+                                                                                                                                                                                                                          Copperton
+                                                                                                                         ham
+
+
+
+
+                                                                                                                                                                                                                            Circ.
+                                                                                                7                    Bing wy
+                                                                                                                          H                                                      22
+
+
+
+
+                                                                                                                                          S. Ya t Wy.
+                                                                                                                                          Heig
+                                                                                                                                               h
+                                                                                                                                               mpa
+                                                                                                                                                                              Park St.
+                                                                                                                     19
+                                                       11                                                                                                                                                                       20
+                                                                                                                                                                                                       23
+                                                            S. Dinkeyville Wy.
+
+
+
+
+                                                                                                                                                        S. Gemmell Club Dr.
+                                                                                                    S. Dryfork Rd.
+
+
+
+
+                                                                                                                                                                                     S. Carr Fork Rd
+
+
+
+                                                                                                                                                                                                            S. Apex Rd.
+                                                      13
+                                                                                              17
+
+
+
+                                                                                                                          S Freeman
+                                                                                 Cyprus St.
+
+
+
+
+                                                                                                                          Gulch Wy.
+                                                                                                                                             8
+
+
+                                                                                                                                      Hillcrest St.
+                                                                                                                               18
+
+
+
+
+                 reek
+       Bingham C                                                                              Sources: Esri, Airbus DS, USGS, NGA, NASA, CGIAR, N Robinson, NCEAS, NLS, OS, NMA, Geodatastyrelsen, Rijkswaterstaat, GSA, Geoland, FEMA,                      FIGURE NO.
+
+                                                      am Creek                                                                                                  Intermap and the GIS user community, Salt Lake County, Maxar, Microsoft
+                                                Bingh
+                                                                                                                                                                                                                                           Bingha
+                                                                                                                                                                                                                                                 m Cree
+                                                                                                                                                                                                                                                         k
+                                                                                                                                                                                                                                                                             4
+                                                                                                                                                                                                                                                             Ft.
+                                                                                                                                                                                                                                                   520
+                                                                                                                                                                                                                                                   260
+                                                                                                                                                                                                                                     SCALE:
+            Basin #26
+             CN = 70
+
+
+
+
+                                                                                                                                                                                                                                                   0
+            0.01 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                     NORTH
+                                                                                                                                                                                                                                     NORTH:
+Basin #27                                 Basin #25
+ CN = 70
+
+
+
+
+                                                                                                                                                                                                                                                    10 YEAR HYDROLOGIC
+                                           CN = 70
+ 0 cfs/ac                                 0.01 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                       MODEL RESULTS
+                                                                                                                                                      Basin #6
+                                                                                       Basin #4                                                       CN = 70
+                                                                                       CN = 70                                                       0.01 cfs/ac
+                                                                                      0.01 cfs/ac                      Basin #5
+                          Basin #24
+                           CN = 70                                                                                     CN = 70
+                          0.01 cfs/ac                                                                                 0.01 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                              STORM WATER MASTER PLAN
+                                                               Basin #1
+                                                               CN = 70
+                                                              0.01 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                  SALT LAKE COUNTY
+                                                                                                                                                                            Basin #15
+                                                                                                                                                                             CN = 70
+
+
+
+
+                                                                                                                                                                                                                                                     COPPERTON
+                                                                                                                                                                            0.01 cfs/ac
+                                                                                                                                       Basin #14
+                                         Basin #2                                                                                       CN = 70
+                                         CN = 70                                                                                       0.01 cfs/ac
+                                        0.01 cfs/ac
+                                                                                                        Basin #12
+                                                                                                         CN = 70
+                                                                                                        0.01 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                                         P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 6/28/2022
+                                                                                                                                                          Basin #9
+                                                                                                                                                          CN = 65                     Basin #10
+                                                                                                                                                         0.61 cfs/ac                   CN = 70
+                                                                                                                               Basin #16                                              0.38 cfs/ac
+                                                                                                                                CN = 65
+                                                 Basin #3                                                     Basin #7         0.38 cfs/ac                                                   Basin #21
+                                                 CN = 70                                                      CN = 70                                                                         CN = 75
+                                                0.01 cfs/ac                                                  0.01 cfs/ac                                                                     0.03 cfs/ac
+                                                                                                                                                       Basin #22
+                                                                                                                                                        CN = 65
+                                                                                                              Basin #19                                0.5 cfs/ac
+                                                                        Basin #11                              CN = 65
+                                                                         CN = 65                                                                                                  Basin #20
+                                                                                                              0.52 cfs/ac                                                          CN = 65
+                                                                        0.38 cfs/ac
+                                                                                                                                                                                  0.61 cfs/ac
+                                                                    Basin #13
+                                                                     CN = 65                    Basin #17
+                                                                    0.4 cfs/ac                   CN = 65                                                       Basin #23
+                                                                                                0.5 cfs/ac                             Basin #8                 CN = 65
+                                                                                                                                        CN = 80                0.5 cfs/ac
+                                                                                                                                       0.1 cfs/ac
+                                                                                                             Basin #18
+                                                                                                              CN = 65
+                                                                                                             0.66 cfs/ac                                                                                                             FIGURE NO.
+                                                                                                                                                                                                           Salt Lake County, Maxar
+                                                                                                                                                                                                                                                5A
+                                                                                                                                                                                                                                                               Ft.
+                                                                                                                                                                                                                                                     520
+                                                                                                                                                                                                                                                     260
+                                                                                                                                                                                                                                       SCALE:
+              Basin #26
+               CN = 70
+
+
+
+
+                                                                                                                                                                                                                                                     0
+              0.22 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                       NORTH
+                                                                                                                                                                                                                                       NORTH:
+
+
+
+
+                                                                                                                                                                                                                                                      HYDROLOGIC RESULTS
+Basin #27                                   Basin #25
+ CN = 70                                     CN = 70
+0.09 cfs/ac                                 0.23 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                           100 YEAR
+                                                                                                                                                        Basin #6
+                                                                                         Basin #4                                                       CN = 70
+                                                                                         CN = 70                                                       0.23 cfs/ac
+                                                                                        0.24 cfs/ac                      Basin #5
+                            Basin #24
+                             CN = 70                                                                                     CN = 70
+                            0.23 cfs/ac                                                                                 0.24 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                STORM WATER MASTER PLAN
+                                                                 Basin #1
+                                                                 CN = 70
+                                                                0.23 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                    SALT LAKE COUNTY
+                                                                                                                                                                              Basin #15
+                                                                                                                                                                               CN = 70
+
+
+
+
+                                                                                                                                                                                                                                                       COPPERTON
+                                                                                                                                                                              0.22 cfs/ac
+                                                                                                                                         Basin #14
+                                           Basin #2                                                                                       CN = 70
+                                           CN = 70                                                                                       0.23 cfs/ac
+                                          0.23 cfs/ac
+                                                                                                          Basin #12
+                                                                                                           CN = 70
+                                                                                                          0.23 cfs/ac
+
+
+
+
+                                                                                                                                                                                                                                                                           P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 6/28/2022
+                                                                                                                                                            Basin #9
+                                                                                                                                                            CN = 65                     Basin #10
+                                                                                                                                                           1.16 cfs/ac                   CN = 70
+                                                                                                                                 Basin #16                                              0.79 cfs/ac
+                                                                                                                                  CN = 65
+                                                   Basin #3                                                     Basin #7         0.74 cfs/ac                                                   Basin #21
+                                                   CN = 70                                                      CN = 70                                                                         CN = 75
+                                                  0.23 cfs/ac                                                  0.24 cfs/ac                                                                     0.35 cfs/ac
+                                                                                                                                                        Basin #22
+                                                                                                                                                         CN = 65
+                                                                                                                Basin #19                               0.96 cfs/ac
+                                                                          Basin #11                              CN = 65
+                                                                           CN = 65                                                                                                  Basin #20
+                                                                                                                0.99 cfs/ac                                                          CN = 65
+                                                                          0.73 cfs/ac
+                                                                                                                                                                                    1.16 cfs/ac
+                                                                      Basin #13
+                                                                       CN = 65                   Basin #17
+                                                                      0.78 cfs/ac                 CN = 65                                                       Basin #23
+                                                                                                 0.96 cfs/ac                             Basin #8                CN = 65
+                                                                                                                                         CN = 80                0.96 cfs/ac
+                                                                                                                                        0.31 cfs/ac
+                                                                                                               Basin #18
+                                                                                                                CN = 65
+                                                                                                               1.25 cfs/ac                                                                                                             FIGURE NO.
+                                                                                                                                                                                                             Salt Lake County, Maxar
+                                                                                                                                                                                                                                                  5B
+                                                                                                                                                                        3
+
+
+
+
+                                                                                                                              13
+                                                                                                                                                                                                                 2
+                                                                                                                  S. Dinkeyville Wy.
+                                                                                                                                                                                                                                                          Existing Pipes
+                                                                                                                                                                                                                                                                                                L E G E N D
+
+
+
+
+                                                                                                                                                           11
+                                                                                                                                                                                                                                                                           Pipe1(% Capacity)
+
+
+
+
+                                                                                                     Cyprus St.
+                                                                                                                         17
+                                                                                                                                                                                                                                                  12
+
+
+
+
+                                                                                                                   S. Dryfork Rd.
+                                                                                                                                                                                                                 7
+
+
+
+
+                                                                                                                                                            19
+                                                                                                                                                                                       Bing
+                                                                                                                                                                                           h
+                                                                                                                                                                                         am H
+                                                                                                                                                                                             wy
+
+
+
+
+                                                                                                                                       4.6%
+
+
+
+
+                                                            18
+                                                                            S Freeman Gulch Wy.
+                                                                                                                                                                                                                        16
+
+
+
+
+                                                                                                                                                                                  S. Y
+                                                                                                                                                                           pa H       am
+                                                                                                                                                                       eigh
+                                                                                                                                                            t Wy
+                                                                                                                                                                .
+                                                                                                          8
+                                                                                                                                              17.3%
+
+
+
+
+                                                            Hillcrest St.
+                                                                                                                                                                                                                                                          14
+
+
+
+
+                                                                                                   S. Gemmell Club Dr.
+                                                                                                                                                                       19.6
+                                                                                                                                                                           %
+                                                                                                                                                                                                                     0.4%
+
+
+
+
+                                                                                                                                                            Park St.
+                                                                                                                                                                                               22
+                                                                                                                                                                                                                                             9
+
+
+
+
+                                                                                                       S. Carr Fork Rd                                                                                                       Solstice View Dr.
+                                                                                                                    23
+                                                                                                                                                                              68.4%
+
+
+
+
+                                                                                                             S. Apex Rd.
+                                                                                                                                                                                                                     36.1
+                                                                                                                                                                                                                         %
+                                                                                                                                                                                                                                                                                               15
+
+
+
+
+                                                                                                                                                                               44.6%
+                                                                                                                                                                                                                                   10
+
+
+
+
+                                                                                                                                                                                               Copperton Circ.
+                                                                                                                                                      20
+                                                                                                                                                                                36.7%
+
+
+
+
+          Salt Lake County, Maxar, Microsoft
+
+
+
+
+                                                                                                                                                                                                      1.4%
+                                                                                                                                                                                                           21
+
+
+
+
+                                                                                                                                                                                                                             NORTH:              SCALE:
+
+                                                                                                         COPPERTON
+                                                                                                                                                                                                                                 NORTH           0            100                              200
+                                                                                                                                                                                  10Y MODEL
+                                               FIGURE NO.
+
+
+
+
+                                                                                                  STORM WATER MASTER PLAN
+   6A
+
+
+
+
+                                                                                                                                                                                                                                                                                                        Ft.
+                                                                                                      SALT LAKE COUNTY                                                        HYDRAULIC RESULTS
+P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 9/6/2022
+                                                                                                                                                                       3
+
+
+
+
+                                                                                                                             13
+                                                                                                                                                                                                                   2
+                                                                                                                 S. Dinkeyville Wy.
+                                                                                                                                                                                                                                                                 Existing Pipes
+
+
+
+
+                                                                                                                                                           11
+                                                                                                                                                                                                                                                                                                        L E G E N D
+                                                                                                                                                                                                                                                                                   Pipe1 (% Capacity)
+
+
+
+
+                                                                                                    Cyprus St.
+                                                                                                                                                                                                                                                  12
+
+
+
+
+                                                                                                                        17
+                                                                                                                  S. Dryfork Rd.
+                                                                                                                                                                                                                   7
+
+
+
+
+                                                                                                                                                            19
+                                                                                                                                                                                         Bing
+                                                                                                                                                                                             h
+                                                                                                                                                                                           am H
+                                                                                                                                                                                               wy
+
+
+
+
+                                                                                                                                      68.7%
+
+
+
+
+                                                            18
+                                                                            S Freeman Gulch Wy.
+                                                                                                                                                                                                                              16
+
+
+
+
+                                                                                                                                                                                   S. Y
+                                                                                                                                                                           pa H        am
+                                                                                                                                                                       eigh
+                                                                                                                                                            t Wy
+                                                                                                                                                                .
+                                                                                                         8
+                                                                                                                                              38.1%
+
+
+
+
+                                                            Hillcrest St.
+                                                                                                                                                                                                                                                                                  14
+
+
+
+
+                                                                                                  S. Gemmell Club Dr.
+                                                                                                                                                                        39.5
+                                                                                                                                                                         %
+                                                                                                                                                                                                                       7.2%
+
+
+
+
+                                                                                                                                                            Park St.
+                                                                                                                                                                                                 22
+                                                                                                                                                                                                                                                    9
+
+
+
+
+                                                                                                      S. Carr Fork Rd                                                                                                               Solstice View Dr.
+                                                                                                                   23
+                                                                                                                                                                               68.4%
+
+
+
+
+                                                                                                            S. Apex Rd.
+                                                                                                                                                                                                                       9%
+
+
+
+
+                                                                                                                                                                               56.1%
+                                                                                                                                                                                                                                                                                                        15
+
+
+
+
+                                                                                                                                                                                                                                            10
+
+
+
+
+                                                                                                                                                                                                 Copperton Circ.
+                                                                                                                                                      20
+                                                                                                                                                                                 57.7%
+
+
+
+
+                                                                                                                                                                                                      30.4%
+          Salt Lake County, Maxar, Microsoft
+                                                                                                                                                                                                              21
+
+
+
+
+                                                                                                                                                                                                                                   NORTH:               SCALE:
+
+                                                                                                    COPPERTON
+                                                                                                                                                                                                                                      NORTH             0            100                                200
+                                                                                                                                                                            100Y MODEL
+                                               FIGURE NO.
+
+
+
+
+                                                                                             STORM WATER MASTER PLAN
+  5B
+  6B
+
+
+
+
+                                                                                                                                                                                                                                                                                                                Ft.
+                                                                                                 SALT LAKE COUNTY                                                        HYDRAULIC RESULTS
+P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 9/6/2022
+                                                                                                                                                                                                                                                                 Ft.
+                                                                                                                                                                                                                                                       200
+Recommended Capital Improvement
+          Projects
+
+
+
+
+                                                                                                                                                                                                                                                       100
+   #1 Park St. Realignment Project
+
+   #1 Abandon
+
+
+
+
+                                                                                                                                                                                                                                         SCALE:
+
+
+                                                                                                                                                                                                                                                       0
+   #1 Alt. A
+   #1 Alt. B
+
+
+
+
+                                                                                                                                                                  Solstice View Dr.
+
+
+
+
+                                                                                                                                                                                                                                                         NORTH
+   #2 Park St. Extension Project
+
+
+
+
+                                                                                                                                                                                                                                         NORTH:
+   #2 Abandon
+   #3 Carr Fork and Apex Rd. Pipeline Project
+
+   #4 Freeman Gulch Piepline Project
+
+
+
+
+                                                                                                                                                                                                                                                      RECOMMENDED
+   #5 Copperton Park Realignment Project
+
+   #5 Abandon
+
+
+
+
+                                                                                                                                                                                                                                                          CIP
+   #6 Hillcrest Pipeline Project
+
+
+
+
+                                                                                                                                                                                                                Copperton Circ.
+                                                                               Hwy
+
+
+
+
+                                                                                                           S. Y
+                                                                         ham
+                                                                     Bing
+
+
+
+
+                                                                                                               am
+                                                                                                             pa H
+                                                                                                               eigh
+
+
+
+
+                                                                                                                                                                                                                                                  STORM WATER MASTER PLAN
+                                                                                                                    t Wy
+                                                                                                                                                   Park St.
+
+
+
+
+                                                                                                                        .
+
+
+
+
+                                                                                                                                                                                                                                                      SALT LAKE COUNTY
+                                                                                                                                                                                                                                                         COPPERTON
+               S. Dinkeyville Wy.
+
+
+
+
+                                                    S. Dryfork Rd.
+
+
+
+
+                                                                                                                             S. Gemmell Club Dr.
+
+
+
+
+                                                                                                                                                                                                                                                                            P:\Salt Lake County\022-22-01 Copperton SD Master Plan\4.0 GIS\4.4 APRX\CoppertonSDMP_02242022.aprx lwinslow 9/6/2022
+                                                                                                                                                              S. Carr Fork Rd
+
+
+
+
+                                                                                                                                                                                      S. Apex Rd.
+                                       Cyprus St.
+                                                                                     S Freeman Gulch Wy.
+
+
+
+
+                                                                                                             Hillcrest St.
+
+
+
+
+                                                                                                                                                                                                                                         FIGURE NO.
+                                                                                                                                                                                                    Salt Lake County, Maxar, Microsoft
+                                                                                                                                                                                                                                                         7
+APPENDIX B
+ASSA Modeling
+                                                                    ASSA Model Inputs
+SubBasin   Size (Acres)   Size (Miles^2)   Soil Group                           Description                          Curve #   % Impervious Area   Lag Time (hours)
+   1          34.58           0.054            D        Sagebrush with Grass Understory                                70            0.00               0.18
+   2          46.01           0.072            D        Sagebrush with Grass Understory                                70            0.00               0.19
+   3          17.04           0.027            D        Sagebrush with Grass Understory                                70            0.00               0.17
+   4          36.59           0.057            D        Sagebrush with Grass Understory                                70            0.00               0.14
+   5          34.34           0.054            D        Sagebrush with Grass Understory                                70            0.00               0.15
+   6          17.04           0.027            D        Sagebrush with Grass Understory                                70            0.00               0.18
+   7          6.50            0.010            D        Sagebrush with Grass Understory                                70            0.00               0.16
+                                                        Open Space (Lawns, Parks, Golf Courses, Cemeteries, etc.):
+   8          8.80            0.014            D        Good condition (grass cover >75%)
+                                                                                                                       80            7.50               0.33
+   9          5.49            0.009            D        Residential Districts by Average Lot Size: .125-.24            65            30.00              0.11
+  10          9.76            0.015            D                                                                       70            20.00              0.25
+  11          6.95            0.011            D                                                                       65            20.00              0.18
+  12          17.77           0.028            D        Sagebrush with Grass Understory                                70            0.00               0.17
+  13          0.70            0.001            D        Residential Districts by Average Lot Size: .125-.24            65            25.00              0.23
+  14          11.08           0.017            D        Sagebrush with Grass Understory                                70            0.00               0.19
+  15          32.41           0.051            D        Sagebrush with Grass Understory                                70            0.00               0.21
+  16          5.73            0.009            D        Residential Districts by Average Lot Size: .125-.24            65            25.00              0.24
+  17          14.93           0.023            D        Residential Districts by Average Lot Size: .125-.25            65            30.00              0.20
+  18          7.51            0.012            D                                                                       65            40.00              0.21
+  19          3.24            0.005            D        Residential Districts by Average Lot Size: .125-.25            65            30.00              0.19
+  20          1.89            0.003            D        Residential Districts by Average Lot Size: .125-.25            65            35.00              0.19
+  21          15.58           0.024            D                                                                       75            0.00               0.29
+  22          16.10           0.025            D        Residential Districts by Average Lot Size: .125-.25            65            30.00              0.20
+  23          13.33           0.021            D        Residential Districts by Average Lot Size: .125-.25            65            30.00              0.20
+  24          23.06           0.036            D        Sagebrush with Grass Understory                                70            0.00               0.17
+  25          36.06           0.056            D        Sagebrush with Grass Understory                                70            0.00               0.18
+  26          33.90           0.053            D        Sagebrush with Grass Understory                                70            0.00               0.20
+  27          11.22           0.018            C        Sagebrush with Grass Understory                                70            0.00               0.26
+APPENDIX C
+CIP Project Sheets
+PROJECT #1—ALTERNATIVE A
+Park Street Realignment Project
+This project has been included as a means to remove piping from pri-                                                   Option 2
+                                                                                                                                           Option 1
+vate property and increase operations and maintenance access to the
+pipeline shown.
+This project includes installing a new 18" pipe on Copperton Circle to
+a new outfall at the south end of Copperton Circle.
+A new 36" pipe will be installed along Park Street from Gemmell Club
+Drive to Apex Road.
+The new 36” pipe continues north along Apex Road and angles north-
+east to connect with the existing 43" by 62" culvert. There are two op-
+tions for this alignment. Option 1 cuts through private property be-
+hind the post office, while Option 2 extends north along Apex Road to
+Bingham Highway.
+Abandon the sections of pipe as shown.
+
+             Project Line Items Material and Construction                             Unit   Unit Cost        Approximate Quantity             2022 Cost
+
+ 18" RCP Pipe - Copperton Circle                                                       LF      $126                       350                     $44,100
+   Install catch basins on 18-inch diameter pipeline                                   EA      $3,774                      2                          $7,548
+   Install manholes on 18-inch diameter pipeline                                       EA      $5,661                      1                          $5,661
+   Install rip rap at new outfall                                                      SF      $107                       10                          $1,070
+ 36" RCP Pipe - On Park Street and Apex Road                                           LF      $252                      1,025                    $258,300
+   Install catch basins on 36-inch diameter pipeline                                   EA      $3,774                     28                      $105,672
+   Install manholes on 36-inch diameter pipeline                                       EA      $5,661                      5                      $28,305
+ Plug and Abandon Existing Pipe                                                        EA      $8,000                      5                      $40,000
+ Asphalt Restoration on 12-ft lane width                                               LF       $72                      1,375                    $99,000
+                                           Materials and Construction Cost Subtotal                                                               $589,656
+ Underground utilities coordination                                                    %        8%              of construction subtotal          $47,172
+ Traffic control                                                                       %        5%              of construction subtotal          $29,483
+ Contingency                                                                           %        20%             of construction subtotal          $117,931
+                                                           Total Construction Costs                                                               $784,242
+ Engineering, Legal, and Permitting                                                    %        15%              of construction total            $117,636
+                                                                                                        Total Project Cost (rounded)            $901,879
+BOWEN COLLINS & ASSOCIATES                                                                                   SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #1—ALTERNATIVE B
+Park Street Realignment Project
+This project has been included as a means to remove piping from private
+property and increase operations and maintenance access to the pipeline
+shown.
+This project includes installing a new 18" pipe on Copperton Circle to a
+new outfall at the south end of Copperton Circle.
+A new 36" pipe will be installed along Park Street from Gemmell Club
+Drive to Apex Road
+The new 36” pipe continues south along Apex Road and angle east be-
+tween home properties to an outfall. The County will need to acquire an
+easement to lay pipe between the private home properties.
+Abandon the sections of pipe as shown.
+
+            Project Line Items Material and Construction                           Unit   Unit Cost        Approximate Quantity         2022 Cost
+
+ 18" RCP Pipe - Copperton Circle                                                    LF      $126                       350                $44,100
+   Install catch basins on 18-inch diameter pipeline                                EA      $3,774                      2                 $7,548
+   Install manholes on 18-inch diameter pipeline                                    EA      $5,661                      1                 $5,661
+   Install rip rap at new outfall                                                   SF      $107                       10                 $1,070
+ 36" RCP Pipe - On Park Street and 500 East                                         LF      $202                      1,040              $210,080
+   Property acquisition & restoration                                               SF      $200                      2,000              $400,000
+   Install catch basins on 36-inch diameter pipeline                                EA      $3,774                     16                 $60,384
+   Install manholes on 36-inch diameter pipeline                                    EA      $5,661                      5                 $28,305
+   Install rip rap at new outfall                                                   SF      $107                       10                 $1,070
+ Plug and Abandon Existing Pipe                                                     EA      $8,000                      5                 $40,000
+ Asphalt Restoration on 12-ft lane width                                            LF       $72                      1,390              $100,080
+                                        Materials and Construction Cost Subtotal                                                         $839,919
+ Underground utilities coordination                                                 %        8%              of construction subtotal     $67,194
+ Traffic control                                                                    %        5%              of construction subtotal     $41,996
+ Contingency                                                                        %        20%             of construction subtotal    $167,984
+                                                        Total Construction Costs                                                         $1,117,092
+ Engineering, Legal, and Permitting                                                 %        15%              of construction total      $167,564
+                                                                                                     Total Project Cost (rounded)       $1,284,656
+BOWEN COLLINS & ASSOCIATES                                                                                 SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #2
+Park Street Extension Project
+This project has been included as a means to increase conveyance and
+connect the existing sumps as shown. The sumps were installed to miti-
+gate past flooding.
+This project includes installing a new 18" pipe along Park Street from
+Freeman Gulch Way to the sumps at the intersection of Bingham High-
+way, Park Street and Dinkeyville Way.*
+Abandon the sections of pipe as shown.
+
+
+
+
+*Modeling efforts assume a pipe exists between South Dryfork Road and South Freeman
+Gulch Way. Perform field investigations to verify. Modeling efforts suggest pipe must
+have minimum 15" diameter to mitigate flooding.
+
+
+               Project Line Items Material and Construction                              Unit   Unit Cost      Approximate Quantity        2022 Cost
+
+
+ 18" RCP Pipe - On Park Street from 100 West to 200 West                                  LF      $126                   1,150              $144,900
+
+   Install catch basins on 18-inch diameter pipeline                                      EA     $3,774                    16               $60,384
+
+   Install manholes on 18-inch diameter pipeline                                          EA     $5,661                    2                $11,322
+
+ Asphalt restoration on 12-ft lane width                                                  LF       $72                   1,150              $82,800
+
+ Plug and abandon existing pipe from Bingham Highway to Park Street                       LF     $8,000                    2                $16,000
+
+                                              Materials and Construction Cost Subtotal                                                      $315,406
+
+ Underground utilities coordination                                                       %       15%           of construction subtotal    $47,311
+
+ Traffic control                                                                          %        5%           of construction subtotal    $15,770
+
+ Contingency                                                                              %       20%           of construction subtotal    $63,081
+
+                                                              Total Construction Costs                                                      $441,568
+
+ Engineering, Legal, and Permitting                                                       %       15%             of construction total     $66,235
+
+                                                                                                         Total Project Cost (rounded)      $507,804
+BOWEN COLLINS & ASSOCIATES                                                                                   SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #3
+Carr Fork and Apex Road Pipeline Project
+This project has been included to increase conveyance along Carr Fork
+Road and Apex Road. Additional catch basins along these two roads will
+be installed as a means to mitigate flooding at 10261 Apex Road.
+The project consists of installing two new 18” pipelines along South Carr
+Fork Road and South Apex Road. The new pipes will connects to the
+Park Street Pipeline.
+
+
+
+
+              Project Line Items Material and Construction                              Unit   Unit Cost        Approximate Quantity         2022 Cost
+
+
+ 18" RCP Pipe - On Carr Fork and Apex Road                                               LF      $126                      920               $115,920
+
+   Install new catch basins on 18-inch diameter pipelines                                EA      $3,774                      4                $15,096
+
+   Install manholes on 15-inch diameter pipeline                                         EA      $5,661                      2                $11,322
+
+ Asphalt Restoration on 12-ft lane width                                                 LF       $72                       920               $66,240
+
+                                             Materials and Construction Cost Subtotal                                                         $208,578
+
+ Underground utilities coordination                                                      %        8%              of construction subtotal    $16,686
+
+ Traffic control                                                                         %        5%              of construction subtotal    $10,429
+
+ Contingency                                                                             %        20%             of construction subtotal    $41,716
+
+                                                             Total Construction Costs                                                         $277,409
+
+ Engineering, Legal, and Permitting                                                      %        15%              of construction total      $41,611
+
+                                                                                                          Total Project Cost (rounded)       $319,020
+BOWEN COLLINS & ASSOCIATES                                                                                      SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #4
+Freeman Gulch Pipeline Project
+The site of the old Copperton High School is one of the few areas in
+Copperton with opportunity for future development. Future develop-
+ment at the site would increase runoff along Bingham Highway.
+This project has been included as a means to mitigate the potential
+runoff from the old Copperton High School site and pipe water to the
+conveyance system along Park Street.
+The project includes installing a new 18” pipeline on Freeman Gulch
+Way from Bingham Highway to Park Street. The new pipeline will
+connect to the Park Street Pipeline.
+
+
+
+
+                                                                                                               Approximate Quanti-
+              Project Line Items Material and Construction                             Unit   Unit Cost                                     2022 Cost
+                                                                                                                       ty
+
+ 18" RCP on South Freeman Gulch Way                                                     LF      $139                       480               $66,720
+
+   Install catch basins on 18-inch diameter pipeline                                    EA      $126                        6                 $756
+
+   Install manholes on 18-inch diameter pipeline                                        EA     $5,661                       1                 $5,661
+
+ Asphalt Restoration on 12-ft lane width                                                LF       $72                       480               $34,560
+
+                                            Materials and Construction Cost Subtotal                                                         $107,697
+
+ Underground utilities coordination                                                     %        8%              of construction subtotal     $8,616
+
+ Traffic control                                                                        %        5%              of construction subtotal     $5,385
+
+ Contingency                                                                            %       20%              of construction subtotal    $21,539
+
+                                                            Total Construction Costs                                                         $143,237
+
+ Engineering, Legal, and Permitting                                                     %       15%               of construction total      $21,486
+
+                                                                                                        Total Project Cost (rounded)        $164,723
+BOWEN COLLINS & ASSOCIATES                                                                                   SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #5
+Copperton Park Realignment Project
+The realignment project has been included as an option to increase
+operations and maintenance access to the 30" pipeline shown, by rea-
+ligning the pipe under Park Street.
+The existing alignment crossing under Copperton Park as shown is an
+estimate and should be field verified.
+This project includes installing a new 30" pipe along Park Street from
+South Freeman Gulch Way to South Gemmel Club Drive. The new
+pipe will connect to catch basins and recommended pipeline im-
+provements as shown in projects #1 and #2.
+The existing pipe 30" pipe under Copperton Park will be plugged and
+abandoned.
+
+
+
+
+              Project Line Items Material and Construction                              Unit   Unit Cost       Approximate Quantity         2022 Cost
+
+30" RCP on Park Street                                                                   LF      $164                      620               $101,680
+  Install catch basins on 30-inch diameter pipeline                                      EA     $3,774                      5                $18,870
+  Install manholes on 30-inch diameter pipeline                                          EA     $5,661                      1                 $5,661
+Plug and abandon existing pipe under Copperton Park                                      LF     $8,000                      2                $16,000
+Asphalt Restoration on 12-ft lane width                                                  LF       $72                      620               $44,640
+                                             Materials and Construction Cost Subtotal                                                        $186,851
+
+Underground utilities coordination                                                       %        8%             of construction subtotal    $14,948
+
+Traffic control                                                                          %        5%             of construction subtotal     $9,343
+
+Contingency                                                                              %       20%             of construction subtotal    $37,370
+
+                                                            Total Construction Costs                                                         $248,512
+Engineering, Legal, and Permitting                                                       %       15%              of construction total      $37,277
+
+                                                                                                         Total Project Cost (rounded)       $285,789
+BOWEN COLLINS & ASSOCIATES                                                                                     SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+PROJECT #6
+Hillcrest Pipeline Project
+There are currently several outfalls along Hillcrest Street discharging
+south towards the Bingham Creek. Water makes it’s way to the out-
+falls from older, dated catch basins and piping along Hillcrest Street.
+This project has been included as a means to reduce the number of
+outfalls and update the catch basins along Hillcrest Street.
+The project includes installing a new 18” pipeline on Hillcrest Street
+from the South Dinkeyville Way to the existing outfall near Apex
+Road.
+
+
+
+
+            Project Line Items Material and Construction                              Unit   Unit Cost        Approximate Quantity        2022 Cost
+
+
+ 18" RCP Pipe - On Hillcrest Street                                                    LF      $126                     2,200              $277,200
+
+   Install catch basins on 18-inch diameter pipeline                                   EA      $3,774                     25               $94,350
+
+   Install manholes on 18-inch diameter pipeline                                       EA      $5,661                     6                $33,966
+
+ Asphalt Restoration on 12-ft lane width                                               LF       $72                     2,200              $158,400
+
+                                           Materials and Construction Cost Subtotal                                                        $563,916
+
+ Underground utilities coordination                                                    %        8%             of construction subtotal    $45,113
+
+ Traffic control                                                                       %        5%             of construction subtotal    $28,196
+
+ Contingency                                                                           %        20%            of construction subtotal    $112,783
+
+                                                           Total Construction Costs                                                        $750,008
+
+ Engineering, Legal, and Permitting                                                    %        15%              of construction total     $112,501
+
+                                                                                                        Total Project Cost (rounded)      $862,510
+BOWEN COLLINS & ASSOCIATES                                                                                   SALT LAKE COUNTY PUBLIC WORKS ENGINEERING
+

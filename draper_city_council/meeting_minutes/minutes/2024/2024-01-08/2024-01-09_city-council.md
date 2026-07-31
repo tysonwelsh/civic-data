@@ -1,0 +1,246 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1662&doc_id=b4583d4b-b54e-11ee-bb82-0050569183fa
+> Meeting date: 2024-01-09
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JANUARY 9,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:        Mayor Troy K. Walker, and Councilmembers Mike Green (joined by Zoom
+                during Business Session), Bryn Heather Johnson, Tasha Lowery, Fred Lowry,
+                and Cal Roberts
+
+PLANNING COMMISSIONERS: Gary Ogden, Lisa Fowler, Laura Fidler, Susan Nixon, Chair
+           Andrew Adams, Mary Squire, Shivam Shah, and Kendra Shirey
+
+STAFF:          David Dobbins, City Manager; Mike Barker, City Attorney; Kellie Challburg,
+                Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson, Chief of Police;
+                Jennifer Jastremsky, Community Development Director; Bret Millburn,
+                Assistant City Manager; Malena Murray, Human Resources Director; Rhett
+                Ogden, Parks and Recreation Director; Laura Oscarson, City Recorder; Clint
+                Smith, Fire Chief; Jake Sorensen, IT; and John Vuyk, Finance Director
+
+_____________________________________________________________________________________
+
+Study Session
+      Joint session with the Draper City Planning Commission and consultants
+      regarding Zoning and Subdivision Code updates
+      Community Development Director Jennifer Jastremsky introduced consultants Jackie
+      Berg and Mikaela Uddfork with the consulting company Houseal Lavigne, who would
+      be helping with the 18-month Zoning and Subdivision Code update process. Ms.
+      Jastremsky provided an overview of the Zoning and Subdivision Code, last
+      comprehensively updated in 2001. Ms. Berg explained the seven-step scope of work
+      planned for the update and answered questions from the Planning Commission and
+      City Council.
+
+         The Planning Commission and City Council provided feedback regarding architectural
+         design types and materials, responding to specific examples shown. Mayor Walker
+         encouraged the Council and Commissioners to pay attention to the upcoming
+         Legislative Session and expressed a hope that cities would retain zoning and land use
+         authority.
+
+         Council/Manager Reports
+         Councilmember F. Lowry suggested the timing of a traffic light on 1300 East needed
+         to be adjusted.
+
+Business Session
+
+
+
+           Draper City Council Approved Meeting Minutes – January 16, 2024
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Flag Ceremony and Pledge of Allegiance led by Cub Scout Pack #4444
+
+3.    Public Comment
+      None
+
+4.    Consent Items
+4.a   December 6, 2023, City Council Meeting Minutes
+4.b   Resolution #24-01, a Resolution of Draper City Council approving an
+      agreement between the Utah Department of Public Safety and local law
+      enforcement agencies in Salt Lake County regarding the Utah Law
+      Enforcement Information Sharing Analytic Program
+
+      Councilmember T. Lowery moved to approve                    the   Consent     Items.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                     Yes       No       Absent
+      Councilmember Green            X
+      Councilmember Johnson          X
+      Councilmember T. Lowery        X
+      Councilmember F. Lowry         X
+      Councilmember Roberts          X
+
+5.    Items for Council Consideration
+5.a   Public Hearing: Ordinance #1595, an Ordinance amending the Official Zoning
+      Map of Draper City for approximately 10.87 acres of property from A5
+      (Agricultural) to RA2 (Residential Agricultural) located at approximately 12695
+      South 1700 East within Draper City, otherwise known as the City Initiated
+      12695 South 1700 East Zoning Map Amendment
+      Community Development Director Jennifer Jastremsky explained the proposed
+      rezone of current agricultural horse property to RA2 for half-acre lots and said the
+      Planning Commission forwarded a unanimous positive recommendation. City
+      Manager David Dobbins said the property was currently owned by the Canyon
+      School District, and said the School District had indicated the intention to sell the
+      property as soon as possible, with a purchase opportunity offered to the City. Mr.
+      Dobbins mentioned the possibility of the City purchasing the property and using a
+      portion for a new cemetery.
+
+      Mayor Walker opened a public hearing.
+
+
+
+                                                                                 2|Page
+LaVar Christensen, a Draper resident, said he had lived next to the subject property
+for 30 years. He said the three minutes allowed during the public hearing was
+insufficient to address the scope of questions and concerns for the proposed zone
+change. Mr. Christensen asked for full disclosure regarding any existing purchase
+contract, commented on the different zoning that would be required for cemetery
+use, and expressed the opinion that property for cemetery use would need to be
+beautifully, majestically, and serenely landscaped. Mr. Christensen suggested the
+Council table the issue to allow for more information and dialogue before a
+decision.
+
+Clark Morley, a Draper resident, said his family raised two horses on the subject
+property, and said the property was part of what attracted people to the area. He
+expressed the opinion that open space was an essential part of a community. Mr.
+Morley said he was aware of the current housing shortage and did not think
+creating a bunch of half-acre multi-million-dollar homes would help the housing
+crisis. Mr. Morley said he thought using a portion of the land for a cemetery, and
+the remainder for horse property was a good idea.
+
+Steven Sugiyama, a Draper resident, said he lived close to the subject property. He
+said it was his understanding that the property would have to be used for public
+use space if the City purchased using the first right of refusal. He said he did not
+know that a cemetery would qualify as a public use space. Mr. Sugiyama suggested
+the land should be used for a public park, maybe similar to Wheeler Farm, with
+master gardening and horse property.
+
+Mayor Walker closed the public hearing.
+
+Councilmember Roberts commented on the current threat to local zoning and land
+use authority from the State level. He said if the City did not act prudently, the
+subject property could end up being developed with something denser and less
+desirable. Councilmember Roberts said land was a limited resource, and expressed
+the opinion that the City should acquire land when it could be done strategically
+and efficiently with taxpayer money. He suggested the potential purchase could be
+financed in a way that might be able to come out net neutral for taxpayers.
+Councilmember Roberts stated that with the proposed rezone, residents in the area
+would know the City did not plan to develop with higher density.
+
+Councilmember Green expressed support for the proposed rezoning and the
+proposed cemetery use. Councilmember T. Lowery said she had heard
+continuously about the need for additional cemetery space since joining the City
+Council. She expressed support for the rezoning as a way for residents to know
+what to expect in terms of maximum density.
+
+
+                                                                          3|Page
+      Councilmember F. Lowry said he echoed previous Council comments, and said his
+      choice, if he had the ability, would be to purchase and maintain all ten acres as
+      horse property. However, he pointed out that such a decision would have a greater
+      cost to the taxpayers. Councilmember F. Lowry said his intention, if the City
+      purchased the property, would be to ensure half of the property would be kept
+      open to the public for a park or cemetery. He said he believed rezoning for half-
+      acre lots while the City Council had the ability was a wise move.
+
+      City Manager David Dobbins explained that the State Statute regarding the use of
+      property sold by a school district to a city was fairly broad. He said he believed the
+      use of the property for a cemetery would fit within the Statute. Councilmember T.
+      Lowery spoke of some of the current needs of Corner School District in the
+      community for which proceeds from the sale might be used. Councilmember
+      Johnson expressed support for the proposed rezoning. Mr. Dobbins commented
+      that if the City owned the property, the City Council could dictate the terms of future
+      sale and development.
+
+      Councilmember T. Lowery moved to approve                        Ordinance      #1595.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                    Yes       No       Absent
+      Councilmember Green           X
+      Councilmember Johnson         X
+      Councilmember T. Lowery X
+      Councilmember F. Lowry        X
+      Councilmember Roberts         X
+
+5.b   Public Hearing: Ordinance #1598, an Ordinance approving an adjustment to
+      the common boundary between Draper City and Bluffdale City
+      Assistant City Manager Bret Millburn said the proposed ordinance was the second
+      step in adjusting the boundary between Draper and Bluffdale to put a planned
+      development under one jurisdiction. Mr. Millburn answered questions from the
+      Council.
+
+      Mayor Walker opened a public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember F. Lowry moved to approve Ordinance #1598. Councilmember
+      T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+
+                                                                                  4|Page
+                                  Yes       No        Absent
+      Councilmember Green         X
+      Councilmember Johnson       X
+      Councilmember T. Lowery     X
+      Councilmember F. Lowry      X
+      Councilmember Roberts       X
+
+5.c   Public Hearing: Ordinances #1599 and #1600, an Ordinance amending the
+      Official Zoning Map and Land Use Map of Draper City for approximately 0.889
+      acres to remove the property from both the Zoning Map and the Land Use
+      Map. The property is located at approximately 600 West 14600 South and is
+      parcel number 33-12-100-017 within Draper City, otherwise known as the City
+      Initiated Zoning and Land Use Map Amendment for Bluffdale
+      Community Development Director Jennifer Jastremsky explained the proposed
+      ordinances would remove the property from the City boundary with the previous
+      action from the City Zoning Map and Land Use Map. She said the Planning
+      Commission forwarded a positive recommendation with a 3-0 vote.
+
+      The Mayor opened a public hearing and closed the public hearing seeing no
+      one come forward.
+
+      Councilmember T. Lowery moved to approve Ordinance #1599 and Ordinance
+      #1600. Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                    Yes       No       Absent
+      Councilmember Green           X
+      Councilmember Johnson         X
+      Councilmember T. Lowery X
+      Councilmember F. Lowry        X
+      Councilmember Roberts         X
+
+5.d   Action Item: Resolution #24-03, A Resolution amending the Consolidated Fee
+      Schedule of Draper City
+      Finance Director John Vuyk explained proposed amendments to cemetery fees and
+      parks and recreation fees.
+
+      Councilmember Johnson moved to approve                   Resolution    #24-03.
+      Councilmember F. Lowry seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes   No    Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+
+                                                                            5|Page
+     Councilmember T. Lowery       X
+     Councilmember F. Lowry        X
+     Councilmember Roberts         X
+
+6.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember
+     Roberts seconded the motion, which passed by unanimous vote (5-0).
+
+     The meeting adjourned at 7:43 pm.
+
+
+
+
+                                                               6|Page
+

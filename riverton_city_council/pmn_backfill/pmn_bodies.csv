@@ -1,0 +1,13 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+251,889,City Council,yes,meeting_minutes,,pm4,2020-01-01,repo minutes harvested FROM PMN so PMN is a completeness re-check; 3 early-2020 + 2 Granicus-only council dates recovered into index.csv
+251,5473,Planning Commission,yes,planning_commission,,pm4,2020-01-01,2 PC dates (1 PMN 2026-06-25 + 1 Granicus-only 2023-11-09) recovered into index.csv
+251,1101,Redevelopment Agency,no,,,,,SEPARATE meeting body (not in-council recess); 66 PMN minutes — out of core repo scope (candidate for a dedicated RDA dataset)
+251,6161,Riverton Law Enforcement Service Area,no,,,,,service-area board — out of core scope
+251,7153,Riverton Fire Service Area,no,,,,,service-area board — out of core scope
+251,6233,Historic Preservation Commission,no,,,,,out of core scope
+251,5701,Riverton Historic Preservation Commission,no,,,,,legacy HPC id (2 minutes 2016) — out of core scope
+251,3415,Board of Canvassers,no,,,,,election canvass — out of scope
+251,1102,Board of Equalization,no,,,,,out of scope
+251,1100,Board of Adjustments,no,,,,,agendas only (rarely convenes) — out of scope
+251,1098,Purchasing,no,,,,,bids/RFPs — no minutes
+251,1099,Miscellaneous,no,,,,,quorum notices — no minutes

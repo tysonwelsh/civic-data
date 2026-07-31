@@ -1,0 +1,27 @@
+{
+ "contributions": [
+  {"date": "9/22/25", "name": "LeAnne Huff", "amount": "1,810.87", "in_kind": false},
+  {"date": "9/25/25", "name": "Reagon Outdoor Advertising", "amount": "500.00", "in_kind": false},
+  {"date": "10/13/23", "name": "Alphagraphics", "amount": "100.00", "in_kind": true},
+  {"date": "10/22/23", "name": "Power Graphics", "amount": "158.00", "in_kind": true}
+ ],
+ "expenditures": [
+  {"date": "10/10/23", "recipient": "Landslide", "purpose": "Design, digital, misc", "amount": "300.00", "in_kind": false},
+  {"date": "10/22/23", "recipient": "Power Graphics", "purpose": "Banners", "amount": "158.00", "in_kind": true},
+  {"date": "10/13/23", "recipient": "Alphagraphics", "purpose": "H Sign holders", "amount": "100.00", "in_kind": true}
+ ],
+ "total_contributions": "2,568.87",
+ "total_expenditures": "558.00",
+ "contributions_50_or_less": null,
+ "beginning_balance": "2,568.87",
+ "ending_balance": "2,010.87",
+ "_meta": {
+  "index_path": "raw/2023_adid325_leanne-huff-final-campaign-financial-disclosure.pdf",
+  "candidate": "LeAnne Huff",
+  "office": "Council",
+  "filing_type": "summary",
+  "election_year": "2023",
+  "source_pdf": "/Users/tysonwelsh/civic-data/south_salt_lake_city_council/campaign_finance/raw/2023_adid325_leanne-huff-final-campaign-financial-disclosure.pdf",
+  "pages": 4
+ }
+}

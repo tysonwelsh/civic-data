@@ -1,0 +1,732 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=448&doc_id=448ec39b-ceb3-11eb-bd7e-0050569183fa
+> Meeting date: 2021-06-01
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JUNE 1, 2021,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:           Mayor Troy K. Walker, and Councilmembers Mike Green (by
+                   Zoom), Tasha Lowery, Fred Lowry, Cal Roberts, and Marsha
+                   Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Todd
+                    Hammond, City Engineer; Hazel Dunsmore, Human Resource
+                    Director; Pat Evans, Police Lieutenant; Bret Millburn, Assistant
+                    City Manager; Rhett Ogden, Recreation Director; Angela Fixmer,
+                    Deputy City Recorder; Linda Peterson, Communications Director;
+                    Clint Smith, Fire Chief; and Bob Wylie, Finance Director
+_____________________________________________________________
+
+Study Session
+
+1.0   Oath of Office Ceremony for Draper City Firefighters
+
+1.1   Clint Smith, Fire Chief, expressed appreciation for the ability to swear in new
+      firefighters. They haven’t been able to hold these ceremonies during the
+      pandemic. He thanked the families for their support. Chief Smith stated that
+      seven new firefighters recently graduated from the Fire Academy in mid-April,
+      at which time they had their badge pinning take place. Chief Smith first
+      introduced the City’s newest engineer, Eric Neiderhauser, who is also a
+      paramedic and has been with Draper since the department was created.
+
+1.2   Angela Fixmer, Deputy City Recorder, administered the Oath of Office for Eric
+      Neiderhauser. Mr. Neiderhauser’s family was then recognized.
+
+1.3   Clint Smith, Fire Chief, introduced the other seven new firefighters.
+
+1.4   Angela Fixmer, Deputy City Recorder, administered the Oath of Office for the
+      seven, recently graduated firefighters. They then took a group photo with the
+      Mayor and Council.
+2.0   Discussion: 1300 East Roundabout – Joe Perrin, A-Trans Engineering
+
+
+                                                                                   1
+Draper City Council Approved Minutes - June 15, 2021
+2.1   Joe Perrin presented the item as well as an aerial map of the subject property.
+      He noted that this roundabout was overcapacity, as more cars were going
+      through the intersection than a single lane could handle. He explained that if
+      the existing roundabout was replaced with a traffic signal the problem would
+      worsen. The City has looked at options for how to improve the flow. Options
+      have included increasing capacity in the north-south direction, and potentially
+      metering the southbound approach which provides artificial gaps. He
+      explained that the real problem occurred in the morning and evening, but the
+      roundabout works fine the rest of the day.
+
+2.2   Mr. Perrin explained that when they looked at roundabouts the top concerns
+      were safety, modeling, recommendation, and design. He explained that
+      roundabouts are significantly safer than intersections because the number of
+      conflict points is reduced. Roundabouts have fewer T-bone accidents, and this
+      is true for pedestrians and bicyclists as well. Roundabouts also reduce speed.
+      Mr. Perrin then presented a list of Federal Highways Administration (FHWA)
+      roundabout safety facts.
+
+2.3   Mr. Perrin explained that from the evaluation study it was determined that the
+      northern leg is the primary leg because it is being loaded from three
+      directions. The latest traffic information shows that the two- and three-lane
+      roads on the other legs—east, west, and south legs—have enough capacity.
+      However, the intersection itself does not have enough capacity. The northern
+      leg needs to be a five-lane road.
+
+2.4   Mr. Perrin presented a graph depicting existing and future flows. He explained
+      that if they are going to do anything they might as well do it right so that it
+      works for several more years. He presented a graph depicting all of the
+      different scenarios and configurations that were assessed. The meters would
+      be located 300 feet upstream, and they would install a red light ramp meter.
+      Other cities have also accomplished this similar to a midblock pedestrian
+      crossing, even though there are no pedestrians. Mr. Perrin said he did not like
+      this option, though.
+
+2.5   Councilmember F. Lowry asked if metering on the north leg would congest the
+      traffic light above, to which Mr. Perrin said no. He explained that currently,
+      the queue backs up from the roundabout to about halfway up the hill. The
+      meter is coordinated with the signal, and he further explained how this
+
+
+                                                                                   2
+Draper City Council Approved Minutes - June 15, 2021
+      worked. Mr. Perrin then discussed queuing as it currently occurs.            He
+      explained that meters artificially created gaps to improve overall flow.
+
+2.6   Councilmember T. Lowery was concerned about the metering inadvertently
+      pushing the traffic somewhere else. Mr. Perrin explained that this was why a
+      capacity improvement was recommended, as opposed to leaving it as a single-
+      lane roundabout. Councilmember T. Lowery said that in this instance, the City
+      would be doubling down on a roundabout that already isn’t used correctly by
+      making it twice as big. Councilmember F. Lowry shared these same concerns.
+      Mr. Perrin said because there are right-hand turn lanes in the north-south
+      direction, they are just making those thru right-turn lanes as opposed to right-
+      only lanes. The reason being, they would have to concentrate all of the thru
+      traffic in one lane, versus using both lanes. He clarified that they would be
+      adding a right-only lane only for the east-west direction. For the north-south
+      direction, there are other enhancements to be made so that flows happen
+      properly.
+
+2.7   Mr. Perrin presented a summary of results for Level Of Service (LOS) and
+      delays at the roundabout. He explained the necessity of looking at each of the
+      approaches to ensure that everything balances out. The results presented 12
+      options, and Mr. Perrin was suggesting option 11 from that list, as well as the
+      signalized intersection as discussed. He then presented a graph depicting
+      queue analyses, which included data on weighted average and seconds per
+      vehicle. For this reason, they needed to look at each approach in the study
+      and not just the intersection generally.
+
+2.8   Councilmember Roberts asked Mr. Perrin to speak to bottling. He asked how
+      confident Mr. Perrin was with these models and their ability to predict and be
+      useful. Mr. Perrin said the modeling was based on Utah Department of
+      Transportation (UDOT) and Federal modeling standards. Federal modeling
+      uses synchro-modeling which is the primary traffic signal modeling tool that
+      he used when conducting the study; he noted that these are very rigid
+      guidelines. In addition, two primary roundabout models are accepted in the
+      United States: Sidra and Rodel. Each state has adopted which one they want,
+      and Sidra is by far the most adopted one in the United States. These are based
+      on modeling that has been adopted to empirical data specific to American
+      roundabouts.
+
+
+
+
+                                                                                    3
+Draper City Council Approved Minutes - June 15, 2021
+2.9    Mr. Perrin presented his recommendation to create a multi-lane roundabout
+       based on capacity need, delay and LOS, queue length, geometry, and safety.
+       Images were included in his presentation to depict this recommendation. He
+       presented a layout of what the multi-lane would look like.
+
+2.10   Councilmember Roberts stated that to him it made sense intuitively to have
+       the two lanes going straight through. He asked Mr. Perrin what pitfalls he
+       identified in his analysis. Mr. Perrin said he was confident in the analysis.
+       However, he explained that modeling was based on assumed reasonable
+       drivers.    He acknowledged that using roundabouts properly was a
+       generational learning curve. He explained that a signal will not increase
+       capacity at the intersection, nor will it decrease queue lengths. However, if
+       confusion is what the Council is trying to eliminate then it might be a policy
+       issue instead.
+
+2.11   Councilmember F. Lowry asked if metering would help eliminate some of that
+       confusion. He explained that people get stalled in that roundabout because
+       they don’t see a big enough gap; therefore, if there is a bigger gap he assumed
+       they would not hesitate as much. Mr. Perrin said this is a good point. He
+       explained that a multi-lane roundabout will increase capacity enough so that
+       there are gaps for the other approach. The metering could be added later if
+       for some reason there are still insufficient gaps.             Therefore, these
+       improvements would be made in a phased approach. There was further
+       discussion about roundabouts in England, which are typically metered.
+
+2.12   There was continued discussion of the images and analysis presented by Mr.
+       Perrin. Mayor Walker asked if the islands were built up or were striped islands.
+       Mr. Perrin stated that they were raised, directional islands that helped with
+       channeling traffic. The only exception was a striped island in between the two
+       lanes for the north-south approach. Mr. Perrin noted there are currently 50
+       multi-lane roundabouts in the State, so they were not unique. However, if the
+       City found that this didn’t work in Draper then metering could be added later.
+
+2.13   Mr. Dobbins stated that the City was ready to go to bid on the project. He
+       stated that the City could also delay the project to allow for additional review.
+       He said that according to UDOT, thru-turns were effective at moving traffic;
+       they were safer and moved traffic more quickly, however, people hated them.
+       The trade-off, though, is that cars won’t be stuck on the east-west lane as much
+
+
+                                                                                      4
+Draper City Council Approved Minutes - June 15, 2021
+       as they currently are. He stated that there is no easy solution and not
+       everyone is going to go home loving whatever option is chosen.
+
+2.14   Councilmember F. Lowry said the options presented were worth exploring. He
+       stated that they might have to make some minimal expansions on two of those
+       corners.
+
+2.15   Councilmember T. Lowery asked what would happen if there was a significant
+       increase in traffic coming from one of these directions. Mr. Perrin explained
+       the data that went into his analysis, noting that it was based on the 2040
+       projected condition, not current conditions. Councilmember T. Lowery was
+       also concerned about traffic coming from the west. She added that the City
+       had also discussed trail expansion up behind IFA, and she was worried about
+       pedestrians crossing this roundabout.
+
+2.16   Councilmember Roberts stated that they needed to be forward-thinking on
+       this issue. He said that if this is a lower risk incremental bet, then he supports
+       the analysis present. However, he still needs to understand it better. There
+       was a subsequent discussion on Mr. Perrin’s analysis and presentation. The
+       Council came to a consensus about needing additional time to study this issue.
+
+3.0    Council/Manager Reports
+
+3.1    Councilmember Roberts discussed the equestrian center (Andy Ballard Arena).
+       He explained that there has been some concern brought up about the lighting
+       at the arena. There have been instances where the lights have been left on at
+       night because the staff hasn’t been able to keep the box secured, in addition
+       to the sprinkling system. Councilmember Roberts asked if as a City they could
+       take a look at what the cost would be to install wi-fi-controlled lighting systems
+       so that they could be controlled remotely.
+
+       Councilmember Roberts also discussed the Draper Moto Challenge that is
+       being planned for August 1st. Additionally, several events are being planned
+       by the Arena Board, as well as Draper Days. He presented the question of
+       whether or not an express bill pay system could be used for Draper City events
+       to improve efficiency. He also noted that the Wadsworth Company has
+       donated a lot of time in helping to repair the arena. He expressed appreciation
+       for their efforts in helping keep the arena up to speed.
+
+
+                                                                                       5
+Draper City Council Approved Minutes - June 15, 2021
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Bret Millburn, Assistant City Manager, offered an opening thought on the
+      purpose of Memorial Day. The audience then observed a moment of silence.
+
+2.2   Jake Sorensen, IT Network Administrator, led the audience in reciting the
+      Pledge of Allegiance.
+
+3.0   Public Comments
+
+3.1   There were no public comments.
+
+**    7:06 p.m. Councilmember Green joined the meeting virtually.
+
+4.0   Consent Items
+      a. Approval of the May 4, 2021, and May 18, 2021, City Council Meeting
+         Minutes
+
+4.1   Councilmember T. Lowery    moved to approve the Consent Items.
+      Councilmember Vawdrey seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Ordinance #1490, Ordinance #1491, an ordinance approving
+      Land Use Map and Development Agreement for approximately 9.81 Acres of
+      property located at approximately 12197 South 300 East within Draper City.
+
+5.1   Maryann Pickering presented the staff report, noting that it was heard at the
+      last meeting but tabled so that the applicant could gather additional
+      information. The applicant has since submitted a development agreement
+      and that has since been provided in the packet for tonight’s meeting. This
+      property has historically been used for farming since 1978 when the City was
+      incorporated. There have been previous rezone requests and the most recent
+
+                                                                                 6
+Draper City Council Approved Minutes - June 15, 2021
+      one was made last fall. The application was for commercial zoning and
+      concerns were expressed from the public; therefore, the applicant withdrew.
+      They have since come back with this new rezone request. She presented an
+      aerial map of the subject property. The current land use designation is
+      neighborhood commercial. The request is to change it to residential high
+      density to conform with the proposed zoning. Right now it is zoned A-5, which
+      is a five-acre minimum lot size. The request is to change it to RM-2 which
+      would allow up to 12 dwelling units per acre. She presented photos of the site.
+      A development agreement has been proposed even though the zoning would
+      allow up to 12 dwelling units per acre. The applicant has proposed to limit the
+      property to a maximum of 63 single-family units; no multi-family would be
+      allowed. There are minimum setbacks established in the development
+      agreement because the RM-2 zone doesn’t have any setbacks. Staff felt it
+      would be appropriate that those setbacks would be included. When the
+      project comes in, should it come in as a subdivision, those roads would need
+      to comply with the current City code. The Planning Commission did forward a
+      negative recommendation at their meeting on May 13 with a 4-to-1 vote, but
+      their current suggestion was that a development agreement be entered into
+      with the applicant to limit the number of units and that proposal was in front
+      of the Council tonight.
+
+5.2   Councilmember Green asked what other deviations were being granted in the
+      development agreement. Ms. Pickering said there were no deviations, staff
+      just established a minimum setback. The developer would still have to comply
+      with all of the requirements in the RM-2 zone, including parking for each unit.
+
+5.3   Councilmember T. Lowery asked how this compared to surrounding
+      developments.
+
+5.4   Ms. Pickering said it would be a smaller lot development than what was located
+      to the north. She stated that the northern development was zoned RA-2, which
+      were half-acre minimum sized lots. The Day Dairy development was located
+      to the east, which had townhomes. Apartments were located to the west.
+
+5.5   Councilmember Roberts asked about a brief history of the subject property in
+      terms of what else has been proposed. Ms. Pickering stated that the previous
+      request was for 75 residential units and it was made three years ago.
+
+
+
+
+                                                                                   7
+Draper City Council Approved Minutes - June 15, 2021
+5.6    Jen Jastremsky, Senior Planner, concurred with Ms. Pickering’s recollection.
+       She added that the lot sizes in the previous proposal were 4,000 square feet.
+       That particular request also received a negative recommendation from the
+       Planning Commission; however, the applicant at the time was requesting
+       several deviations to the code. The request never went forward to the Council.
+
+
+
+5.7    Councilmember Roberts asked if it was fair to say that this proposal was the
+       least dense proposal for the subject property that has come forward over the
+       last four years. Ms. Jastremsky answered affirmatively.
+
+5.8    Councilmember T. Lowery asked if staff felt this would be the least impactful
+       type of development project. Ms. Pickering stated that staff would still need
+       to do complete traffic studies. However, the impact would be less than
+       commercial development.
+
+5.9    Councilmember F. Lowry asked if a traffic study came back and showed that
+       the project should be less than 63 total units. He wondered how such analysis
+       would affect the proposed development agreement.
+
+5.10   David Dobbins, City Manager, explained that the traffic study would indicate
+       what off-site improvements would need to be made to mitigate those
+       concerns. It would not state whether or not the development should move
+       forward. He cited one of the area charter school projects as an example of this
+       happening. Councilmember F. Lowry asked if the development agreement
+       stated that those improvements would be required to be made. Mr. Dobbins
+       stated that the regular code process would take place, which would include a
+       traffic study.
+
+5.11   Mike Barker, City Attorney, explained that the development agreement stated
+       that the developer was not guaranteed the full 63 units; this was just a
+       maximum number. Depending on the layout of the site plan there may not be
+       all 63 units.
+
+5.12   Mr. Dobbins explained that having one of the roads connect to the roundabout
+       would improve traffic.
+
+5.13   Councilmember T. Lowery stated that she would like to understand Mr.
+       Dobbins’s point better and asked staff to elaborate further.
+
+                                                                                    8
+Draper City Council Approved Minutes - June 15, 2021
+5.14   Maryann Pickering presented an aerial map of the subject property. She
+       explained that the development would connect to the end of the road at 12230
+       South where the Day Dairy development is located. The road would then curve
+       up and meet the roundabout. The roundabout would then have its four
+       points. She stated that this was shown on the Master Transportation Plan.
+
+5.16   Mr. Dobbins explained that from an engineering standpoint, the City’s
+       engineers would like to see the road connected for the overall improvement
+       of the area. He added that the tradeoff would have been a charter school,
+       which would have had a much more significant impact than 63 residential
+       units.
+
+5.17   Councilmember F. Lowry asked that with the road going through, the area
+       south could be commercial. He asked if the proposed development
+       agreement contemplated commercial if the developer wanted to put in
+       commercial development on the south end of the parcel.
+
+5.18   Mr. Dobbins stated that this was not specifically stated in the development
+       agreement. However, if that were an option, the proposal would come
+       forward for an amendment. The area would need to be rezoned if the
+       developer wanted to include commercial development.
+
+5.20   Councilmember F. Lowry stated that this proposal seemed to have the most
+       minimal impact on the area versus other projects that had previously been
+       presented to the City for consideration.
+
+5.21   Councilmember Roberts asked about the setbacks on the northern portion of
+       the property. He wanted to measure how close the lots would be based on
+       code requirements.
+
+5.22   Maryann Pickering stated that the setbacks were based on the building code
+       in the RM-2 zone. Therefore, there were no specific setbacks in that zone.
+       However, staff has suggested that the rear yard setbacks be 15 feet and the
+       front yard setbacks are 20 feet for all of the properties. Side yard setbacks
+       would be five feet. If homes are sided on a collector street or a private interior
+       street, setbacks would be increased so that homes would not be right on the
+       street.
+
+
+                                                                                       9
+Draper City Council Approved Minutes - June 15, 2021
+5.23   Councilmember F. Lowry asked if this was a larger buffer than normal. Ms.
+       Pickering answered affirmatively.
+
+5.24   Mayor Troy K. Walker asked if there were any additional questions for staff.
+       There were none.
+
+5.25   Mayor Walker opened the public hearing.
+
+5.26   Cameron Nelson, resident, stated that he lived north of the proposed
+       development area. He explained that his family was greatly impacted by the
+       decisions made with this property. When he purchased his property 15 years
+       ago and built his dream home on a half-acre, no road went through. He said
+       he appreciated the Council for protecting the area and the developer for
+       listening to what residents had to say about the area. His only concern as a
+       homeowner in the area as if this was approved and the zone was changed to
+       RM-2, was there any way outside of coming back to the City Council of the
+       developer circumventing what was stated within the development agreement.
+       He asked if the development agreement transferred with the said property,
+       should it be sold to another entity. He agreed that this was the least impactful
+       project that had come forward. He stated that this would be a great asset to
+       Draper City.
+
+5.27   Jeff Hansen, resident, stated that he lived north of the proposed development
+       area. Mr. Hansen stated that he had also participated in several meetings
+       where this property was being discussed. He stated that his family was also
+       greatly impacted by the Council’s decision. Mr. Hansen spoke to the Ivory
+       Homes development across the street from his property. He discussed the
+       importance of establishing trust with the developer to ensure that they do
+       what they say they are going to do. He agreed that the proposal presented
+       tonight was the least impactful to the area. He wanted to avoid any possible
+       amendments to the development agreement.
+
+5.28   Tyler Bodrero, applicant, confirmed the history that was provided regarding
+       various proposals that have come forward in the past. He stated that they
+       listened to the residents, and there was a lot of discussion about traffic impact.
+       Mr. Bodrero explained that he worked with staff to create a project that
+       considered residents’ concerns so that they could do a project that would
+       benefit the City. He stated that they would do everything to meet the code
+
+
+                                                                                      10
+Draper City Council Approved Minutes - June 15, 2021
+       requirements during the subdivision process, which would come before the
+       Planning Commission and City Council.
+
+5.29   Councilmember Roberts asked Mr. Bodrero if he was seeking a maximum of
+       63 lots, to which Mr. Bodrero said that was correct. Councilmember Roberts
+       asked if Mr. Bodrero planned on building all 63 lots. Mr. Bodrero stated that
+       the latest renditions were showing less than that amount at closer to 53-55
+       lots. However, they had not gone through the entire design process yet. He
+       explained that the approach was not how many lots they could get, but rather
+       how they could develop a project that best fits the area with the constraints
+       outlined by staff. Councilmember Roberts asked if Mr. Bodrero could provide
+       a sense of what the building product might look like. Mr. Bodrero stated that
+       it was too early to discuss those details. However, the developer had other
+       projects in the area so the product would match other subdivisions.
+
+5.30   Councilmember T. Lowery echoed the comments from the residents. She
+       stated that the applicant listened to their feedback, for which she expressed
+       appreciation. The proposed development would serve as a buffer between
+       commercial and larger lots.
+
+5.31   Councilmember F. Lowry agreed and thanked the applicant for listening. He
+       also thanked the residents for voicing their thoughts as well.
+
+5.32   Mr. Barker explained that the development agreement would be recorded
+       against the land. Therefore, if the property gets sold, the development
+       agreement would remain in place.
+
+5.33   Mayor Troy K. Walker reiterated that the development agreement could not
+       be altered without City Council review and approval.
+
+5.34   Mayor Walker closed the public hearing.
+
+5.35   Councilmember F. Lowry moved to approve Ordinance #1490, Ordinance
+       #1491, an ordinance approving Land Use Map and Development Agreement
+       for approximately 9.81 Acres of property located at approximately 12197
+       South 300 East within Draper City. Councilmember T. Lowery seconded the
+       motion.
+
+
+
+
+                                                                                 11
+Draper City Council Approved Minutes - June 15, 2021
+5.36   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0    Action Item: Resolution #21-31, declaring support for the Locally Preferred
+       Alternative for the Point of the Mountain Transit Project.
+
+6.1    Mayor Troy K. Walker stated that he was on the Utah Transit Authority (UTA)
+       Advisory Board. He explained that those familiar with the area were familiar
+       with the bottleneck at the area where the freeway goes over the point at the
+       Point of the Mountain. There were not very many areas to expand the freeway.
+       With development taking place at the Point of the Mountain, it was UTA’s goal
+       to provide a way for people to go to work there without having to drive.
+       FrontRunner got an infusion of funding from the legislature this year to help
+       create double tracking in certain strategic areas. He noted that there was a
+       ribbon-cutting at the Vineyard Station last week. He noted that the Vineyard
+       area is zoned for 20,000 residential units, which was an excess of 40,000
+       people that will be in proximity to that FrontRunner Station. He explained that
+       the Locally Preferred Alternative would be significantly different than Light
+       Rail. He noted that the first public train service was in 1827 and the first bus
+       service was in 1895, so the bus was 67 years newer technologically speaking.
+
+       The project's purpose was to develop high capacity service between Salt Lake
+       County and northern Utah County and to connect into existing and emerging
+       development areas. The Steering Committee has based its recommendation
+       on cost, construction and operational complexity, and timing and
+       implementation. He explained that Bus Rapid Transit (BRT) was half the cost
+       of light rail. Light rail cost half of a billion dollars to build. UTA owned the right-
+       of-way, so it did not need to acquire land; therefore, that dollar mark only
+       accounted for the cost of construction. He explained that BRT was a lot easier
+       to construct and maintain, and was less restrictive in terms of the areas that it
+       could reach.
+
+       Mayor Walker then presented the Preferred Alternative map, which ran from
+       the FrontRunner Station at the Point of the Mountain to the Highline City
+       Center Area. Two stations stop inside the Point. BRT was the only mode that
+       allowed for two stations, whereas light rail would have one because of the
+       angle the train needs to cross over the freeway. The map also showed access
+       down into Lehi’s FrontRunner Station. He explained that this Preferred
+       Alternative map was 98% within UTA’s existing rights-of-way. Mayor Walker
+
+                                                                                           12
+Draper City Council Approved Minutes - June 15, 2021
+      then presented images of gold-standard BRTs. He explained that some of the
+      benefits of BRTs included 1) dedicated guideway for transit priority; 2) high-
+      quality station amenities and urban design, and 3) bus vehicle interiors mimic
+      the rail look and feel.
+
+      Mayor Walker presented the timeline for LPA approval and adoption. He
+      explained that by Spring 2023, the BRT will reach near completion of
+      environmental. The steps in that process would include: 1) UTA preparing a
+      capital project plan; 2) MPO amending RTP for LPA; 3) UTA Local Advisory
+      Council approving the LPA, and 4) UTA Board of Trustees adopting the LPA.
+      Mayor Walker noted that Lehi adopted the Locally Preferred Alternative last
+      week. He then presented a breakdown of the funding plan, as follows:
+
+         •   $750,000 2020 Legislative appropriation – Transit Transportation
+             Investment Fund (TTIF)
+         •   $5 million 2021 Legislative appropriation – TTIF
+         •   $500,000 UTA 2021 Funds
+         •   $2 million Surface Transportation Block Grant Program (STBG) Funds –
+             Wasatch Front Regional Council (WFRC) Trans Com recommended
+
+      Mayor Walker discussed the importance of getting this plan in place ahead of
+      the growth so that regionally they are prepared with the infrastructure
+      necessary to support growth as it takes place. He stated that Mayor Johnson
+      of Lehi requested that, should Draper City adopt the Resolution supporting the
+      Locally Preferred Alternative, language be added to support the building of this
+      line down to 2100 North in Lehi. He asked if the Council had any questions.
+
+6.2   Councilmember F. Lowry asked for clarification on the addition to the
+      Resolution requested by Lehi. Mayor Walker restated the request and its
+      purpose.
+
+6.3   Councilmember T. Lowery asked if the bridge that crosses over will allow for
+      bicycle and pedestrian traffic.     Mayor Walker answered affirmatively.
+      Councilmember T. Lowery stated that having bicycle and pedestrian access is
+      important to residents. Mayor Walker explained that the Point’s river-to-range
+      includes the concept to be able to connect safely. Councilmember T. Lowery
+      asked if this needed to be added, to which Mayor Walker answered
+      affirmatively.
+
+
+                                                                                   13
+Draper City Council Approved Minutes - June 15, 2021
+6.4    Councilmember Roberts stated that he endorsed the Locally Preferred
+       Alternative enthusiastically. He stated that this was a good plan at a good cost
+       and would have minimal impact on Draper’s neighborhoods. He asked how
+       easy it would be to convert to light rail in the future should growth warrant an
+       expansion.
+
+6.5    Patti Garver, UTA Project Manager for the Point-of-the-Mountain Transit Study,
+       stated that light rail has a larger capacity. If growth reached a point where
+       more capacity was needed, then light rail would make sense. However, it
+       would not be possible to have two stations because a long retaining wall would
+       be needed. Generally, light rail would be more difficult and very expensive.
+
+6.6    Councilmember Roberts asked about the flexibility to build spokes off of this
+       current plan. He asked if the long-term plan was to also have the BRT serve
+       east and west areas as well.
+
+6.7    Ms. Garver stated that there was another project that went south into the
+       central corridor, reaching Provo. At this point, they have not assessed options
+       moving east and west. However, Utah County and the Mountainland
+       Association of Governments were interested in looking to the west. Therefore,
+       that would be the next area they would look at.
+
+6.8    Mayor Troy K. Walker added that these vehicles were also clean energy, using
+       natural gas. They could also be a hybrid vehicle that also utilized electricity.
+       Ms. Garver added that once a BRT was put in, light rail would not be
+       considered.
+
+6.9    Councilmember F. Lowry asked to discuss bicycle and pedestrian access again.
+
+6.10   Ms. Garver explained that at this point, UTA wants to accommodate a
+       pedestrian and bike trail. However, a trail would be a separate project
+       because, at this point, a trail has not been incorporated into the Locally
+       Preferred Alternative Plan. Councilmember F. Lowry stated that a trail would
+       make sense, especially when discussing the plan being a walkable area. He
+       expressed concerns that a trail was not included. Ms. Garver stated a trail
+       would be a part of the bridge. She noted that the rail trail was located on the
+       east side. Councilmember F. Lowry stated that access was needed to reach
+       that trail on the east side. Ms. Garver stated that funding for a trail has not
+       been identified.
+
+                                                                                    14
+Draper City Council Approved Minutes - June 15, 2021
+6.11   Councilmember Roberts asked if would be possible to incorporate a trail into
+       the plan before a decision is made.
+
+6.12   Councilmember T. Lowery expressed the concern that if the plan was adopted
+       without the trail would it ever actually happen. Councilmember F. Lowry
+       agreed and asked if this could be a part of the Resolution.
+
+6.13   Mayor Troy K. Walker stated that the Resolution is to adopt the Locally
+       Preferred Alternative. He stated that the Committee recognized the trail as
+       being a significant issue. He said he anticipates significant support for a trail,
+       but to Ms. Garver’s point, acknowledged that funding was a component that
+       still needs to be determined. Councilmember F. Lowry stated that if a trail was
+       included in the Resolution, it would provide more leverage to find the money
+       for it. Councilmember T. Lowery added that it establishes a priority. Ms.
+       Garver and Mayor Walker agreed that the trail could be included in the motion
+       passing the Resolution to offer strong encouragement in that direction.
+
+6.14   Additional photos were shown and discussed. Councilmember F. Lowry asked
+       about adding consideration for a stop on 2100 North. He questioned if this
+       would require adding another bridge going back over the freeway to the
+       FrontRunner Station. Ms. Garver stated that it would cross on Triumph
+       Boulevard.
+
+6.15   Mayor Walker again stressed the importance of putting transit infrastructure
+       in place ahead of residential growth. He cited transit projects taking place in
+       Ogden to illustrate this point.
+
+6.16   Councilmember Vawdrey moved to adopt Resolution #21-31, declaring
+       support for the Locally Preferred Alternative for the Point of the Mountain
+       Transit Project, adding support for extending the line to 2100 North in Lehi, as
+       well as encouraging the incorporation of a bike and pedestrian access on the
+       bridge from the Point over to the right-of-way. Councilmember T. Lowery
+       seconded the motion.
+
+6.17   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+
+
+
+                                                                                      15
+Draper City Council Approved Minutes - June 15, 2021
+7.0   Public Hearing: approving Fiscal Year 2021-2022 Tentative Budget prior to its
+      adoption.
+
+7.1   Bob Wylie, Finance Director, presented this item. He explained that the
+      proposed Fiscal Year 2021-2022 Tentative Budget was presented on May 4th,
+      2021, at which time it was also adopted by the Council. The budget has been
+      available for the public to review. It has been online on the City’s website, and
+      a hard copy has been available at the City’s offices. The budget is $105 million
+      to include capital and operational projects. The largest amount of those funds
+      represents the general operations of the General Fund, which is a $35 million
+      budget for the next fiscal year. Of that $35 million, $29 million (82%) comes
+      from taxes. At this time, the City has not received its certified tax rate;
+      therefore, the staff is assuming that the rate will be the same as what has been
+      built into the new growth. The tentative budget also reflects a 5% increased
+      salary adjustment, breaking down to 2% COLA and 3% merit. The Public Safety
+      Department has received its respective plans. There are no new employee
+      positions included in this budget. The enterprise budgets reflect a collective
+      budget of $16.27 million. There has been a rate reduction of 22%, or $2 per
+      month, for the stormwater, which went into effect this month (June 2021). No
+      other rate increases are built into the enterprise funds. Additionally, there are
+      two internal service funds. The City has approximately $29 million in its capital
+      improvement projects fund.
+
+7.2   Mr. Dobbins, noted that this item is a public hearing.
+
+7.3   Mayor Walker opened the public hearing. There were no public comments.
+      Mayor Walker closed the public hearing.
+
+8.0   Action Item: Ordinance #1492, enacting a Temporary Land Use Regulations
+      that suspends provisions of the Draper City Municipal Code regarding
+      temporary Signage.
+
+8.1   Jen Jastremsky, Senior Planner, presented this item. She explained that last
+      year after COVID-19 hit and it became apparent that stores would be closing,
+      the City enacted a few temporary land use regulations to help businesses. One
+      of those regulations was to suspend posting periods for temporary signage.
+      Another one was to waive late fees on businesses. During winter, the City
+      allowed for temporary tents so that restaurants could increase their dining
+      areas. This item is for another temporary land use regulation on temporary
+
+                                                                                    16
+Draper City Council Approved Minutes - June 15, 2021
+       signage for businesses that are now reopening with expanded capacity and is
+       a step towards recovery from the pandemic. She presented language from
+       City Code that would be temporarily waived during this period.
+
+8.2    Councilmember T. Lowery asked if local businesses appreciate this waiver. Ms.
+       Jastremsky said she believed so. She further explained that while staff did not
+       count numbers, per se, they did do a campaign when adopting temporary land
+       use regulations to inform businesses that as a City they were not requiring
+       permits and were not tied to set posting periods, and businesses have been
+       using them.
+
+8.3    Councilmember F. Lowry said this was a good idea. He asked if after the six
+       months expire, how difficult will it be to enforce original code regulations. Ms.
+       Jastremsky stated that staff will have to inform businesses of those regulations
+       once the six months end. Councilmember F. Lowry stated that as a City they
+       needed to do everything they could to help businesses.
+
+8.4    Mayor Walker opened the public hearing. There were no public comments.
+       Mayor Walker closed the public hearing.
+
+8.5    Councilmember F. Lowry moved to approve Councilmember Vawdrey
+       seconded the motion.
+
+8.6    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0    Recess to a Redevelopment Agency meeting.
+
+9.1    Councilmember Vawdrey moved to recess to a Redevelopment Agency
+       Meeting. Councilmember T. Lowery seconded the motion.
+
+9.2    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Adjournment
+
+10.1   Councilmember Roberts moved to adjourn the meeting. Councilmember T.
+       Lowery seconded the motion.
+
+
+                                                                                     17
+Draper City Council Approved Minutes - June 15, 2021
+10.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+10.3   The meeting adjourned at 8:11 p.m.
+
+
+
+
+                                                                                 18
+Draper City Council Approved Minutes - June 15, 2021
+

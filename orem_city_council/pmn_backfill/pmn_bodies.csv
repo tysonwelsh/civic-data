@@ -1,0 +1,7 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+229,734,City Council,yes,meeting_minutes,,pm4,2020-01-01,repo is near-superset; meeting-datetime column occasionally wrong (use filename/title date); 12 recovered-but-unpromoted council dates (incl. the Apr-Jun 2021 gap) will re-surface as missing_minutes leads
+229,642,Planning Commission,yes,planning_commission,,pm4,2020-01-01,4 recovered-but-unpromoted PC dates will re-surface as missing_minutes leads
+229,643,Board of Adjustments,no,,,,,no repo minutes layer to diff; pmn_backfill holds 3 additive recovered dates (promotion candidates)
+229,893,Redevelopment Agency of the City of Orem,no,,,,,no separate repo minutes files; RDA business also embedded in council minutes; pmn_backfill holds 13 recovered dates - born-digital + OCR (2026-07-19) parseable ones promoted to meeting_minutes/all_votes.csv via extract_backfill_votes.py (provenance=pmn_minutes); dates already audited council-embedded are auto-deduped
+229,894,Municipal Building Authority of the City of Orem,no,,,,,no separate repo minutes files; pmn_backfill holds 5 unique recovered dates (was 6 - 2026-06-10 folded as duplicate of 2025-06-10, PMN mislabel); OCR'd 2026-07-19 + promoted via extract_backfill_votes.py (provenance=pmn_minutes)
+229,895,Special Service Lighting District of the City of Orem,no,,,,,minutes appear only bundled under a Council notice; no repo layer; 1 additive recovered date (2021-06-15)

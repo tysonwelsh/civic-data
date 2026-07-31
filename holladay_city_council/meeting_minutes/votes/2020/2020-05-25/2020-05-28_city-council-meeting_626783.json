@@ -1,0 +1,75 @@
+{
+ "date": "2020-05-28",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/626783.pdf",
+ "path": "minutes/2020/2020-05-25/2020-05-28_city-council-meeting_626783.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Durham",
+   "seconder": "Petersen",
+   "motion": "adopt Ordinance 2020-08 subject to the following condition: 1. The developer shall enter into an agreement with the City to restrict the location of two of the driveways onto Butternut and the southern driveway onto 4370 South",
+   "motion_type": "Ordinance",
+   "result": "Ordinance 2020-08 was adopted by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Quinn",
+   "seconder": "Fotheringham",
+   "motion": "recess into a work meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "adjourn",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+184,2512,City Council,yes,meeting_minutes,,pm4,2020-01-01,Granicus repo is the superset; 3 recovered-but-unpromoted council dates (2020-02-04/2020-08-04/2021-07-13) will re-surface as missing_minutes leads
+184,2651,Planning Commission,yes,planning_commission,,pm4,2020-01-01,PMN began attaching PC minutes 2024; 3 recovered-but-unpromoted 2025 PC work sessions will re-surface as missing_minutes leads
+184,3315,RDA,no,,,,,not cross-checked in Source 4; repo in-council RDA recesses are empty (RDA=0 by design)
+184,7881,Local Building Authority,no,,,,,not cross-checked in Source 4; repo carries LBA separately as body=MBA — candidate to promote to crawl=yes if verified
+184,2661,Board of Adjustments,no,,,,,quasi-judicial — out of Source-4 scope
+184,5645,Appeal Authority,no,,,,,out of Source-4 scope
+184,2829,Parks/Trails/Trees,no,,,,,advisory board — out of scope
+184,3879,Historic Preservation,no,,,,,advisory board — out of scope
+184,3701,Library Board,no,,,,,advisory board — out of scope
+184,2643,Trails,no,,,,,advisory board — out of scope
+184,7645,PARC,no,,,,,advisory board — out of scope
+184,9347,Elections,no,,,,,administrative — out of scope

@@ -1,0 +1,61 @@
+{
+ "date": "2026-06-11",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2026/2026-06-08/2026-06-11_planning-commission-meeting.md",
+ "present": [
+  "David Lewis",
+  "Ken Heare",
+  "Jessica Lucero",
+  "Sara Doutre",
+  "Jennifer Duncan"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to forward a recommendation of approval to the Municipal Council on a zone change for PC 26-022 with the findings for approval as listed below. Commissioner Duncan seconded the motion. The motion was approved 4 to 1.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 4:1",
+   "kind": "recommendation",
+   "mover": "Jessica Lucero",
+   "seconder": "Jennifer Duncan",
+   "aye": [
+    "Ken Heare",
+    "Jessica Lucero",
+    "Sara Doutre",
+    "Jennifer Duncan"
+   ],
+   "nay": [
+    "David Lewis"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "4-1",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes of the April 28, 2026, meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Ken Heare",
+   "seconder": "Jennifer Duncan",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 2
+  }
+ ]
+}

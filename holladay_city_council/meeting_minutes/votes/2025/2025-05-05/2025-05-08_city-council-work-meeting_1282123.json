@@ -1,0 +1,96 @@
+{
+ "date": "2025-05-08",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1282123.pdf",
+ "path": "minutes/2025/2025-05-05/2025-05-08_city-council-work-meeting_1282123.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Brewer",
+   "motion": "go into Closed Session or the Purposes Described in UCA 52-4-205 and 205",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Brewer",
+   "motion": "adjourn the Closed Session",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Brewer",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

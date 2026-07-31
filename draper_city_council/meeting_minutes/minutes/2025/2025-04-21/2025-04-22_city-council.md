@@ -1,0 +1,335 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1891&doc_id=d2e93d72-2c5c-11f0-856f-005056a89546
+> Meeting date: 2025-04-22
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, APRIL 22,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Mike Green (via zoom),
+             Bryn Heather Johnson, Tasha Lowery, Fred Lowry (via zoom), and
+             Marsha Vawdrey
+EXCUSED:
+STAFF:         Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+               Scott Cooley, City Engineer and Public Works Director; Spencer
+               DuShane, Assistant City Attorney; Pat Evans, Police Captain; Traci
+               Gundersen, City Attorney; Jennifer Jastremsky, Community
+               Development Director; Malena Murray, Human Resources Director;
+               Rhett Ogden, Parks and Recreation Director; Linda Peterson,
+               Communications Director; Nicole Smedley, City Recorder; Clint Smith,
+               Fire Chief; Jake Sorensen, Network Manager, John Vuyk, Finance
+               Director
+______________________________________________________________________________________
+
+Study Session
+
+      Station Area Plan Presentations
+      Community Development Director Jen Jastremsky introduced Chris Geddes
+      with Design Workshop. Mr. Geddes provided a presentation on Station Area
+      Plans (SAPs), explaining that SAPs, which establish long-term visions for station
+      areas, are required by the State. Mr. Geddes emphasized that a primary goal
+      of the SAPs is to increase the availability and affordability of housing within the
+      station areas. He outlined the long-term goals for the Kimball’s Lane and
+      Crescent View TRAX Stations, as well as the Draper Vista Frontrunner Station.
+
+      Mr. Geddes reported on meetings held with stakeholders and discussed an
+      open house planned for May or June, with the goal of adopting the Station
+      Area Plans (SAPs) in August or September. He addressed topics related to
+      parking, traffic, and connectivity, and explained that 12% of residential
+      development within the SAP areas, located within one-third of a mile of the
+      stations, is required to meet affordable housing requirements. Mr. Geddes
+      also described mixed-use development opportunities and discussed the
+      concept of the “missing middle” in residential housing.
+
+
+                                                                               1|Page
+        Draper City Council Meeting Minutes – Approved May 6, 2025
+Candidate Interviews for the Traverse Ridge Special Service District
+Administrative Control Board (TRSSDACB)
+The Mayor and Council interviewed the following individuals for positions on
+the Traverse Ridge Special Service District Administrative Control Board: Mark
+Vincent, James Hether, and Paul Kearsley.
+
+Closed Session
+Councilmember T. Lowery made a motion to go into closed session to
+discuss the purchase, sale, exchange, or lease of real property. The
+motion was seconded by Councilmember Vawdrey.
+
+A roll call vote was taken. The motion passed unanimously.
+                                Yes No Absent
+Councilmember Green              X
+Councilmember Johnson            X
+Councilmember T. Lowery          X
+Councilmember F. Lowry           X
+Councilmember Vawdrey            X
+
+Discussion: Community Cats
+City Attorney Traci Gundersen explained that the term “community cats” refers
+to unowned cats that often have a loose affiliation with individuals who care
+for them. She noted that community cats are generally not considered
+adoptable for residential settings. Ms. Gundersen discussed the Trap-Neuter-
+Return (TNR) program and provided an overview of State animal welfare
+statutes related to community cats. She stated that most municipalities in Salt
+Lake County have adopted provisions addressing community cats into their
+municipal codes. Ms. Gundersen outlined potential changes to Draper City
+Code that would be necessary to allow the TNR program for community cats
+within the City.
+
+Ms. Gundersen said the goal at that time was to legalize the practice of feeding,
+trapping, neutering, and returning community cats to the environment to keep
+the size of the community down. A majority of the Council appeared to indicate
+support for staff drafting language for Code.
+
+Discussion: Proposed Amendments to Chapter 4-6 "Alcoholic Beverages"
+City Manager Mike Barker explained that Senate Bill 328 (2025) included
+authority for cities to waive proximity requirements for alcohol licenses as they
+pertained to public parks, with written permission from the City Council. Mr.
+
+                                                                       2|Page
+     Barker said a particular applicant had come up against the City’s license cap
+     (one remaining license tagged for a future full-service hotel). He asked if the
+     Council desired to consider an amendment to accommodate the current
+     applicant, to consider additional changes for the future, or to leave the status
+     quo.
+
+     Mayor Walker said the City could expect to receive requests to increase the
+     number of possible licenses with the first phase of The Point. The Council
+     discussed the possibility of removing the hotel restriction from the remaining
+     license for the current applicant, or increasing the total number of licenses
+     from eight to nine. At least three Councilmembers indicated support for
+     removing the hotel restriction from the remaining license.
+
+     Mr. Barker said staff would prepare amendments to update City Code with
+     changes to State Code, and remove the hotel restriction.
+
+Business Session
+
+1.   Call to Order by Mayor Troy K. Walker
+
+2.   Pledge of Allegiance led by Captain Evans
+
+3.   Recognition of the Draper Parks and Recreation Department by the Utah
+     Recreation and Park s Association
+     LeeAnn Powell, Executive Director of the Utah Recreation and Parks
+     Association, recognized the Draper Parks and Recreation Department for
+     receiving the 2025 Outstanding Department of the Year Award. Mayor Walker
+     expressed appreciation for the Parks and Recreation Department.
+
+4.   Recognition of Detective Anna Adrignola by the Utah Coalition Against
+     Sexual Assault
+     Lieutenant Dustin Willie recognized Detective Anna Adrignola for being named
+     Officer of the Year by the Utah Coalition Against Sexual Assault.
+
+5.   Oath of Office
+     Fire Chief Clint Smith introduced newly-hired Firefighter Andrew Botti. City
+     Recorder Nicole Smedley administered the Oath of Office. Chief Smith
+     introduced newly-promoted Paramedics Tim Ryan and Shane Street, and Ms.
+     Smedley administered the Oath of Office.
+
+6.   Proclamation: Arbor Day
+                                                                           3|Page
+      Mayor Walker read aloud a proclamation recognizing April 25, 2025 as Arbor
+      Day in Draper City.
+
+7.    Public Comments
+      There were no public comments.
+
+8.    Consent Items
+8.a   March 22, 2025 City Council Retreat and April 1, 2025 City Council Meeting
+      Minutes
+8.b   Resolution #25-15 approving and authorizing an interlocal agreement
+      between Draper City and the Salt Lake County Clerk’s Office for the 2025
+      municipal primary and general elections
+8.c   Resolution #25-16 reappointing Josh Christensen as a member of the
+      Draper City Parks, Trails and Recreation Committee
+8.d   Resolution #25-18 supporting Draper City’s application for a
+      congressional community project funding request to obtain funding for
+      the engineering, design and construction of a redundant water system
+      and water system upgrades
+
+      Councilmember T. Lowery moved to approve the Consent Agenda.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry           X
+       Councilmember Vawdrey            X
+
+9.    Items for Council Consideration
+9.a   Public Hearing: Ordinances #1646 and #1647 amending the official Land
+      Use Map of Draper City from Residential Low-Medium Density to
+      Residential Medium-High Density, and amending the official Zoning Map
+      of Draper City from RA1 (Residential Agricultural) and RA2 (Residential
+      Agricultural) to RM1 (Multiple-Family Residential), for approximately
+      1.52 acres of property located at approximately 13637 South 300 East and
+      13651 South 300 East, within Draper City, otherwise known as the
+      Lanthier Land Use Map and Zoning Map Amendments
+      Planner Todd Taylor presented the Land Use Map and noted that the subject
+      property is adjacent to Residential Low-Medium designated properties and is
+                                                                        4|Page
+located across the street from Residential Medium-High development. Mr.
+Taylor reported that the Planning Commission reviewed the requests for a
+Land Use Map amendment and a Zoning Map amendment, and forwarded a
+negative recommendation on both requests with a vote of 4-0.
+
+In response to a question from the Council, Mr. Taylor stated that he believed
+the Planning Commission’s findings in recommending a denial were based on
+concerns regarding compatibility with the surrounding area, appropriateness
+of the proposed changes, and the use of 300 East as a dividing line for
+residential density.
+
+Mayor Walker opened the public hearing.
+
+Matt Smith, Draper resident, said he lived just south of the subject property.
+Mr. Smith said he was opposed to the proposed changes to both the Land Use
+Map and the Zoning Map because he felt they were inconsistent with existing
+development in the surrounding area. He spoke of the possibility of future sale
+of the property prior to development, and the risk that would be opened up
+with Residential Medium-High Density and the RM1 Zone. He spoke of setting
+a precedent for future expansion on the east side of 300 East. Mr. Smith said
+his decision to purchase his home was based on the character of the area after
+looking at the Zoning and Land Use Maps. He requested the Council deny the
+proposal.
+
+Kristen Thomas, Draper resident, said she owned the undeveloped lot east of
+the subject lot. She said she did not support changing the zoning to RM1
+because of the risk that the subject lot could be sold following approval and
+prior to development, enabling development of something the neighbors did
+not expect or desire, as had previously happened with a different property.
+Ms. Thomas expressed the opinion that building seven homes on the lot would
+disrupt the existing residential character.
+
+Scott Phippen, Draper resident, said his property was adjacent to the subject
+property at the back corner. Mr. Phippen said he knew from experience the
+possibility that the subject property could be sold prior to development, with
+the RM1 zoning enabling development of something the neighbors did not
+want. He said he opposed the zoning change.
+
+Mayor Walker closed the public hearing.
+
+
+                                                                     5|Page
+      Mr. Lanthier said the property had been sitting unchanged since 1947, with
+      surrounding lots having been subdivided into half-acre lots. He said the new
+      trend was for smaller lots. Responding to a question from Councilmember T.
+      Lowery, Mr. Lanthier said he proposed to develop a single-family home on a
+      half-acre lot at the rear of the property, and six single-family homes on the
+      front of the property, for a total of seven lots.
+
+      Councilmember T. Lowery moved to deny the proposed Land Use Map
+      and Zoning Map amendments (Ordinances #1646 and #1647).
+      Councilmember Johnson seconded the motion.
+
+      Councilmember T. Lowery said she did not find the proposal to be compatible
+      with surrounding zoning or land uses. Councilmembers Green and Johnson
+      said they did not support the proposal.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry           X
+       Councilmember Vawdrey            X
+
+9.a   Public Hearing: Lingo Land Use Map Amendment, Zoning Map
+      Amendment, and Development Agreement Amendment Request
+      amending the land use map from Residential Low-Medium Density to
+      Residential Medium-High Density, amending the zoning map from RA2
+      (Residential Agricultural, 20,000 sq. ft. min. lot size) to RM2 (Residential
+      Multiple-Family), and amending an existing development agreement for
+      approximately 0.05 acres located at approximately 13040 S. 1300 E.
+      Otherwise known as the Lingo Land Use Map Amendment, Zoning Map
+      Amendment, and Development Agreement Amendment Request
+      Ms. Jastremsky said staff requested the Council continue the proposed Land
+      Use Map amendment and Zoning Map amendment to May 6, 2025.
+
+      Councilmember Vawdrey moved to continue the item to May 6, 2025.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+
+                                                                          6|Page
+       Councilmember Green                  X
+       Councilmember Johnson                X
+       Councilmember T. Lowery              X
+       Councilmember F. Lowry               X
+       Councilmember Vawdrey                X
+
+10.     Action Items
+10.a    Resolution #25-17 appointing three members of the Administrative
+        Control Board for the Traverse Ridge Special Service District
+
+        Councilmember Vawdrey moved to appoint Mark Vincent and Paul
+        Kearsley to four-year terms on the Traverse Ridge Special Service
+        District Control Board, and appoint James Hether to a two-year term
+        on the Control Board. Councilmember Johnson seconded the motion.
+
+        Councilmember Vawdrey thanked the gentlemen for stepping up and getting
+        involved in their community.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry           X
+       Councilmember Vawdrey            X
+
+Council/Manager Reports (continued from Study Session)
+  • City Recorder Nicole Smedley presented a proposed change in procedure for
+     winter burials at the cemetery. She explained that the current practice is to
+     leave the burial plot as exposed dirt during the winter months and to lay sod
+     in the spring, typically in April. Ms. Smedley stated that staff proposed
+     temporarily covering winter burial sites with artificial grass until sod becomes
+     available in the spring. She requested feedback from the Council regarding the
+     proposal.
+
+       Councilmember Vawdrey commented that artificial grass would likely be more
+       visually appealing than exposed dirt and inquired about practices in other
+       cities. Ms. Smedley responded that some cities attempt to cut, preserve, and
+       relay sod during the winter, though this is not always practical. She also noted
+       that Draper City does not have a full-time staff member assigned solely to
+
+                                                                             7|Page
+          cemetery operations; rather, responsibilities are divided among Public Works
+          and Parks employees. She added that the artificial grass would be reusable.
+
+          Parks and Recreation Director Rhett Ogden stated that the City experienced
+          an unusually high number of winter burials during the 2024–2025 season. A
+          majority of the City Council appeared to support the proposed change.
+
+      •   Ms. Smedley reported Salt Lake County asked for Draper City Hall to be a vote
+          center for the 2025 election. The Council and staff discussed moving the
+          Council meeting scheduled for August 5 to July 29 to accommodate early
+          voting.
+
+      •   Ms. Challburg said she was approached by a company desiring to hold a
+          Criterium bike race during Draper Days (July 12, 2025, 8 am to 2 pm). She
+          said a couple police officers may be needed to block roads. Mayor Walker
+          asked that the organizing company cover the cost of the officers. A majority
+          of the Council indicated support.
+
+      •   In response to a question from Councilmember Vawdrey regarding winter
+          burials, Public Works Director Scott Cooley stated that the Public Works
+          Department does not have a sod cutter and currently only has equipment
+          available for excavation. Councilmember Vawdrey suggested selecting an
+          artificial turf that is not too green when used to cover winter burial sites.
+
+11.       Adjournment
+          Councilmember T. Lowery moved to adjourn the meeting.
+          Councilmember Johnson seconded the motion, which passed by
+          unanimous vote.
+
+          The meeting adjourned at 8:13 pm.
+
+
+
+
+                                                                                 8|Page
+

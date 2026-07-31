@@ -1,0 +1,8 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+305,395,City Council,yes,meeting_minutes,,pm4,2020-01-01,"repo is near-complete for council; the 5 recovered gaps are already folded via pmn_backfill/index.csv"
+305,396,Planning Commission,yes,planning_commission,,pm4,2020-01-01,"28-meeting 2021-early-2022 standalone PC run recovered into pmn_backfill/index.csv (auto-folded); corrects the 'no standalone PC 2020-21' claim"
+305,996,Redevelopment Agency (RDA),yes,meeting_minutes,,pm4,2020-01-01,"in-session (all 42 RDA vote-dates are already council minutes dates); NOT crawled in the 2026-07-03 council+PC-only pmn run — verify first-run flags"
+305,997,Municipal Building Authority (MBA),yes,meeting_minutes,,pm4,2020-01-01,"in-session (all 22 MBA vote-dates are already council minutes dates); NOT crawled in the 2026-07-03 run — verify first-run flags"
+305,397,Board of Adjustment,no,,,,,quasi-judicial — out of repo scope
+305,998,Fairway Estates Special Service Rec. District,no,,,,,"its truth-in-taxation minutes post under the City Council body 395 (e.g. 2024-08-13)"
+305,1129,Taxing Entity Committee,no,,,,,out of scope

@@ -1,0 +1,85 @@
+{
+ "date": "2025-09-10",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-09-08/2025-09-10_planning-commission-meeting.md",
+ "attendance": [
+  "Cory Thomson",
+  "Fran Petersen",
+  "Heather Robertson",
+  "Jim Nelson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "the commission accept the vacation of the 300 W from 800 to 850 N",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Fran Petersen",
+   "seconder": "Heather Robertson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the rezone be done as stated",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 2:2",
+   "action_class": "recommendation",
+   "mover": "Jim Nelson",
+   "seconder": "Fran Petersen",
+   "aye": [
+    "Fran Petersen",
+    "Jim Nelson"
+   ],
+   "nay": [
+    "Cory Thomson",
+    "Heather Robertson"
+   ],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the meeting minutes are approved",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Heather Robertson",
+   "seconder": "Cory Thomson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the meeting adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Heather Robertson",
+   "seconder": "Cory Thomson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 4
+  }
+ ]
+}

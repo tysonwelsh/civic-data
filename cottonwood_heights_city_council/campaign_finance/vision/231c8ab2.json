@@ -1,0 +1,41 @@
+{
+ "contributions": [
+  {"date": "9/26/23", "name": "David Westerby", "amount": "$100", "in_kind": false},
+  {"date": "10/3/23", "name": "Robert Campbell", "amount": "$526.08", "in_kind": false},
+  {"date": "10/5/23", "name": "Susan Scott", "amount": "$79.18", "in_kind": false},
+  {"date": "10/19/23", "name": "Trina Metcalf", "amount": "$105.47", "in_kind": false},
+  {"date": "9/14/23", "name": "Greta Martin", "amount": "$37.12", "in_kind": false},
+  {"date": "8/29/23", "name": "Robert Campell", "amount": "$105.47", "in_kind": false},
+  {"date": "9/23/23", "name": "Kelvyn Cullimore", "amount": "$500", "in_kind": false},
+  {"date": "9/20/23", "name": "Mark and Suzanne Hyland", "amount": "$1,000", "in_kind": false},
+  {"date": "9/20/23", "name": "Republican Women Lead PAC", "amount": "$1,000", "in_kind": false},
+  {"date": "9/20/23", "name": "Salt Lake Board of Realtors", "amount": "$1,500", "in_kind": false},
+  {"date": "9/5/23", "name": "Caroline Hyland Clark", "amount": "$200", "in_kind": true},
+  {"date": "9/23/23", "name": "Scott Bracken", "amount": "$540", "in_kind": true}
+ ],
+ "expenditures": [
+  {"date": "Various", "recipient": "FundHero.com", "purpose": "Credit Card processing fees", "amount": "$68.47", "in_kind": false},
+  {"date": "9/5/23", "recipient": "Election Hive", "purpose": "Text messaging primary", "amount": "$245.52", "in_kind": false},
+  {"date": "10/1/23", "recipient": "Election Hive", "purpose": "Door flyers", "amount": "$471.20", "in_kind": false},
+  {"date": "10/5/23", "recipient": "Office Depot", "purpose": "Copy paper", "amount": "$23.58", "in_kind": false},
+  {"date": "Various", "recipient": "Canva", "purpose": "Web hosting", "amount": "$25.98", "in_kind": false},
+  {"date": "Various", "recipient": "Home Depot", "purpose": "Stakes for signage", "amount": "$29.99", "in_kind": false},
+  {"date": "10/21/23", "recipient": "FedEx Office", "purpose": "Printing", "amount": "$52.68", "in_kind": false},
+  {"date": "10/23/23", "recipient": "FedEx Office", "purpose": "Printing", "amount": "$53.61", "in_kind": false},
+  {"date": "9/23/2023", "recipient": "City Journal", "purpose": "Advertising", "amount": "$540.00", "in_kind": false}
+ ],
+ "total_contributions": "5,693.32",
+ "total_expenditures": "1,511.03",
+ "contributions_50_or_less": null,
+ "beginning_balance": null,
+ "ending_balance": "4,182.29",
+ "_meta": {
+  "index_path": "raw/2023_state_suzanne-hyland-financial-disclosure-report-10-24-2023.pdf",
+  "candidate": "Suzanne Hyland",
+  "office": "Council",
+  "filing_type": "interim",
+  "election_year": "2023",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2023_state_suzanne-hyland-financial-disclosure-report-10-24-2023.pdf",
+  "pages": 2
+ }
+}

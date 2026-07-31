@@ -1,0 +1,82 @@
+{
+ "date": "2020-12-03",
+ "year": 2020,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2020/2020-11-30/2020-12-03_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the open session of the hearing in order to discuss the evidence that was recently submitted by Los Coyotes. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to reopen the public hearing. The",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "unanimous in favor Pass",
+   "mover": "Patrick Schaeffer",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to revoke the business license for Los Coyotes and adopt the amended order. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

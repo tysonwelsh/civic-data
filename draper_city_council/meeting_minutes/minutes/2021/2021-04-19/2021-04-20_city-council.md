@@ -1,0 +1,721 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=428&doc_id=1cb7e246-adc4-11eb-8549-0050569183fa
+> Meeting date: 2021-04-20
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, APRIL 20,
+2021, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:             Mayor Troy K. Walker, and Councilmembers Mike Green (via
+                     Zoom), Tasha Lowery, Fred Lowry, Cal Roberts, and Marsha
+                     Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Scott
+                    Cooley, City Engineer; Hazel Dunsmore, Human Resource
+                    Director; John Eining, Police Chief; Rhett Ogden, Recreation
+                    Director; Christina Oliver, Community Development Director;
+                    Laura Oscarson, City Recorder; Linda Peterson, Communications
+                    Director; Clint Smith, Fire Chief; and Bob Wylie, Finance Director
+_____________________________________________________________
+This meeting was held electronically.
+This meeting will be an electronic meeting according to Draper City Municipal Code
+2-1-040.
+
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the Draper
+City Council with an anchor location presents a substantial risk to the health and safety of
+those who may be present at the anchor location and hereby authorize the Draper City
+Council to conduct electronic meetings without an anchor location.
+
+The foregoing determination is based on the following facts:
+
+   •   Federal, state, and local leaders, including the Draper City Mayor and City
+       Council, have all recognized a global pandemic caused by the spread of the
+       COVID-19 virus.
+   •   While COVID-19 cases and hospitalizations show an encouraging downward
+       trend and vaccines are becoming available to a larger segment of the Draper
+       population, diligence is required so that there is not a rebound in cases and
+       hospitalizations.
+   •   It is difficult, if not impossible, to predict the number of attendees at any
+       meeting and to manage issues regarding social distancing in order to comply
+       with applicable health orders.
+
+
+
+
+Draper City Council APPROVED Minutes-May 4, 2021
+      •   COVID-19 poses a continuing and immediate threat to the health, safety, and
+          welfare of Draper City residents and the public in general.
+      •   The City has the technological capability to provide means by which the public
+          may hear, or view and hear, the open portions of the meeting and to
+          participate in public hearings.
+
+
+
+Business Session
+
+1.0       Call to Order: Mayor Troy K. Walker
+
+1.1       Mayor Walker called the meeting to order and noted that Councilmembers
+          Green, Lowery, Lowry, Roberts, and Vawdrey were present.
+
+2.0       Public Comments
+
+2.1       There were no public comments.
+
+3.0       Consent Items
+            a. Approval of April 6, 2021, City Council Meeting Minutes
+            b. Approval of Resolution #21-15, appointing Pimmie Lopes as a regular
+               member of the Draper City Arena Advisory Board
+            c. Approval of Resolution #21-12, reappointing Josh Christensen to the
+               Draper City Parks, Trails, and Recreation Committee
+            d. Approval of Resolution #21-16, appointing Lisa Fowler as a regular
+               member of the Draper City Planning Commission
+            e. Approval of Resolution #21-17, appointing Luana Guymon and Melissa
+               Prince as members of the Draper City Historic Preservation Commission
+
+3.1       Councilmember Vawdrey moved to approve                the   Consent    Items.
+          Councilmember Roberts seconded the motion.
+
+3.2       A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+          and Vawdrey, voting in favor. The motion passed unanimously.
+
+4.0       Public Hearing: Ordinance #1487, an ordinance approving the Big Willow
+          Creek 3rd Amendment Development Agreement for approximately 41.33 acres
+          of property located at approximately 491 West 11400 South within Draper City.
+
+
+
+                                                                            Page 2 of 18
+4.1   Christina Oliver, Community Development Director, said that Jennifer
+      Jastremsky had been the point person on this project, but was unable to be at
+      the meeting because of a death in the family. She began by orienting the
+      Council to where the development was located and displayed the land use and
+      zoning map. The development agreement was approved in January of 2017
+      for 115 single-family lots on 47.9 acres. There was a preliminary plat in July of
+      2017, with the Phase 1 final plat approved in September of 2018. Draper City
+      Municipal Code (DCMC) requires two access points for any development over
+      30 single-family homes. The Phase 1 plat approval was for 30 single-family
+      homes because there was currently only one access point to the development.
+      The first amendment development agreement and re-zone were approved in
+      April of 2019. This added additional acreage to the overall Big Willow
+      development and capped a maximum density of nine dwelling units per acre
+      in the RM2 zone. The second amendment development agreement also added
+      additional property and brought the total Big Willow development to 256
+      dwelling units within 70.65 acres. The second amendment allowed for the
+      further development of utilities before the second access point was approved.
+      That night, the Council heard the third amendment development agreement.
+      The developer requested two things. First, the developer wanted the same
+      consideration provided with the second development agreement that allowed
+      them to construct utilities on the third phase without the second access point
+      being fully constructed. Ms. Oliver noted that the second access point was
+      currently under construction over a culvert by the Jensen Farms developer.
+      However, the canals needed to dry up before the road could be built. It was
+      anticipated the second access would be completed very soon. The second
+      point requested was to use the DCMC that was in effect during the planning
+      and purchasing of the property as the code pertained to driveways, alleyways,
+      and access. The Planning Commission heard the request on April 8, 2021, and
+      sent the recommendation to allow the Phase 3 utilities to be built, but then
+      sent the recommendation to deny the reliance on the prior code. Rather the
+      Planning Commission recommended that this phase of Big Willow and Ivory
+      Homes be held to the current code.
+
+      There was an amendment coming up the following Thursday about road
+      alignment and cul-du-sac, a Phase 6 plat amendment, and Phase 3 through 5
+      final plats moving forward in time.
+
+      Ms. Oliver explained that the modification of private roadway widths and
+      driveway depth standards was the primary issue that night. A lot of the public
+
+                                                                           Page 3 of 18
+comment received was directly involved with those particular points. Changes
+to this section of DCMC were made in May and November of 2020 to increase
+roadway and driveway widths.
+
+Ms. Oliver displayed the full language of the third amendment to the Big Willow
+Creek Development Agreement. The Council chose not to have the language
+read verbatim. She summarized that the terms stated, and Ivory Homes
+agreed, that they would not seek further building permits until the secondary
+access was constructed, or there was a bond for the full construction amount
+of the second access. She then presented a table that outlined the changes
+from the previous DCMC code to now. The alleyway width had changed from
+12’ from the alley centerline to the garage door to 26’. She said that she would
+turn over the rest of the changes to Brien Maxfield, City Engineer, as well as
+Don Buckley, Fire Marshal, to provide the rationale for some of the changes.
+
+Brien Maxfield, a City Engineer, said that right-of-way width had been added.
+An additional area was added to the asphalt surface to facilitate emergency
+access from driving in the gutters to driving on the asphalt surface. He said
+that he could go into more detail if the Council was interested.
+
+Ms. Oliver touched on the issue of driveways and guest parking. She said that
+driveways were added as a result of some of the developments that had come
+to fruition in Draper. For instance, the development directly to the south of
+City Hall had alleyways with no driveways. The parking, therefore, typically fell
+to the street or guest parking. Staff had found the developments that did not
+have driveways were less pedestrian-friendly. As a result, the code change was
+brought to the Council to require that every townhome have a 20’ driveway to
+ensure that there was some parking. Many of the public comments reiterated
+that because garages are often used for storage, they were not always
+available for cars to be parked in. She said that regarding guest parking, the
+current DCMC now prohibits garages and driveways to count as guest parking.
+
+Ms. Oliver then displayed the layout of the overall development and the Phase
+6 concept from Ivory Homes. She noted that the private roadways were 30’
+and the alleyways were 20’. Some of the townhomes did not contain a 20’ deep
+driveway. All of the public roads, however, were 60’ wide. She said that she
+could go over each of the specific standards and the changes made during the
+May and November 2020 text amendment changes.
+
+
+
+                                                                     Page 4 of 18
+Councilmember T. Lowery said that she and Ms. Oliver had worked together
+in several meetings surrounding the issue that many vehicles did not fit within
+the 20’ driveways. She asked if the code change allowed larger vehicles to be
+able to park in the actual space. Ms. Oliver said that was correct. Three-foot
+driveways, for all intents and purpose, were a waste of space. Councilmember
+T. Lowery said that it was an important update. Ms. Oliver said yes. She said
+that another component added to the standards was to increase the access to
+alleyways to six feet.
+
+Councilmember Roberts asked if Ms. Oliver could talk about how the code
+changes related to public safety and how they related to emergency access.
+He asked what the logic behind the changes was.
+
+Don Buckley, Fire Marshal, said that the fire code required minimum width of
+20’ for any fire department access. When vehicles were added to roadways,
+the 20’ did not allow for on-street parking. On a roadway up to 26’ wide, there
+could not be on-street parking on either side of the street. Roads that were
+26-32’ wide could have parking on one side of the road, preferably the non-
+hydrant side. Roads that were greater than 32’ wide allowed for parking on
+both sides of the road. The reason for this was to be able to get emergency
+vehicles in and still be able to get traffic out when needed. He said that when
+the department responded to a fire and laid out their hoses, the hoses
+connected to the fire hydrants become an above-ground water line. Once they
+were laid out, they can’t be moved or driven upon. Emergency fire vehicles
+take up an entire 20’ roadway. That was why additional access was needed
+after 30 homes so that there was another way to get folks out. The fire code
+allowed for the city to require wider widths.
+
+Councilmember Roberts asked if it was fair to say that the changes made it
+easier for emergency vehicles to access emergencies. Mr. Buckley said they
+do. They help improve the fire’s response.
+
+Ms. Oliver continued to go over and remind the Council of the modifications
+made to the code.
+
+Councilmember T. Lowery said that the Council had received multiple emails
+about traffic studies. She asked if staff could speak to some of those.
+
+
+
+
+                                                                   Page 5 of 18
+Mr. Maxfield said that when the Big Willow Creek development first come in
+with 115 units that did not automatically trigger a traffic study based on
+standards. When they needed to connect to 14000 South as their primary
+access point, UDOT required a traffic study. A study for the original 115 single-
+family units was conducted and said that per that level of traffic, no mitigation
+was required. For the additional property, staff had not received an updated
+traffic study for the high-density area, so the traffic impacts on the new
+development had not yet been analyzed.
+
+Councilmember T. Lowery asked if staff had requested a traffic study. Mr.
+Maxfield said that a traffic study would be part of Phase 6 submittals.
+Councilmember T. Lowery asked if following that traffic study, approval would
+come back to the Council. Ms. Oliver said that Phase 6 would go through the
+site approval process.
+
+Councilmember F. Lowry wondered what happened if the traffic study came
+back and said that current roadways could not accommodate the increased
+number of homes. He said it seemed like the cart was before the horse. Mr.
+Maxfield said that as part of the study, any mitigation that is project-related is
+included in the approval process. The developer would be on the hook to
+construct any necessary mitigating factors. Councilmember F. Lowry clarified
+that what the applicant could request would be contingent on the results of
+the traffic study.
+
+Ms. Oliver asked if Mr. Maxfield could elaborate on existing conditions
+compared to what the development would allow for. Mr. Maxfield said that
+the primary access for the development was onto 14000 South, a Utah
+Department of Transportation (UDOT) street. There presently were significant
+delays in that area. The project would address project-related impacts, but
+would not mitigate any existing delays. UDOT acknowledges that they have
+significant impacts in that area and had addressed the fact. There would not
+be a traffic signal on 550 West and 14000 South. In the future, they may come
+back to looking at the ¾ movement that exists there, if safety becomes an issue
+with people trying to turn left from 14000 South into the subdivision.
+
+Councilmember F. Lowry asked if that would be considered in the traffic study.
+Mr. Maxfield said that would be an element the developer would have to look
+at. He asked what would happen if the development access became a right in,
+right out. He said that the traffic study did say that quite a bit of the traffic
+
+                                                                     Page 6 of 18
+      would proceed down through the Jensen Farms subdivision towards 700 West.
+      The point was that would be a less busy intersection that would accommodate
+      better traffic flow.
+
+4.2   Mayor Walker opened the public hearing.
+
+4.3   Mark Palmer, resident, said that he had serious concerns about the new mini-
+      subdivision Ivory had been granted. He said that when they were sold the lot,
+      they were sold the idea that it was an exclusive subdivision of 115 homes with
+      no mention of townhomes. He was shown a map with June Grass Street as
+      being a T intersection. Now it was a four-way stop. Before selling this, Ivory
+      had been granted a high-density home establishment, north of his subdivision.
+      He understood that when there were more than 30 homes, two access points
+      were needed. He asked at what point three access points were needed. If
+      there were 256 homes with only a right out, right in on 14000 South with the
+      rest going through Jensen Farms, he wondered how many homes, including
+      those in Jensen Farms, would be affected. He said that if there were 256
+      homes, each with one and a half working members, which equated to 375 cars
+      trying to exit the neighborhood on 14000 South. If five cars get out every
+      minute turning right with no problem, it would take 75 minutes to evacuate
+      the neighborhood. Ivory was also asking for narrower private roads in the
+      townhomes area, creating more cars to be parked and pushing them onto the
+      main roads in the subdivision, making it tighter and harder for commuters and
+      emergency vehicles to navigate. He recognized that some high-density
+      housing had already been approved, but the neighbors and Draper citizens
+      requested that the Council help keep the neighbors safe and deny Ivory’s
+      request for smaller streets, and if at all possible, require them to put another
+      access in and out of the neighborhood for emergency vehicles and to help with
+      the bottleneck of commuters from Big Willow and Jensen Farms, especially
+      with the school and church present in between subdivisions.
+
+4.4   Steve Affleck, resident, said that he thought the overview provided by the staff
+      was really good. He appreciated it. He said that Mr. Prince had called several
+      residents to try to explain Ivory’s position. He said that was appreciated, too.
+      He noted when he looked at the list of folks, more than half were residents,
+      indicating that the development was an important issue to neighbors. He said
+      that no one was at the City Council meeting to advocate for residents two years
+      ago when the high density was approved. He said that in part, current
+      neighbors were advocating for future residents and neighbors, for their
+
+                                                                          Page 7 of 18
+      children’s safety. He said that many issues had already been mentioned and
+      that the Council had received emails from several people in the neighborhood
+      about points such as garage storage and parking, the new elementary school,
+      emergency vehicle access, etc. He said that the neighbors appreciated the
+      requirement for the traffic impact study when it came to that point in time. He
+      said that regarding guest parking, having one guest per four homes seemed a
+      little under what the requirement should be. He said that he drove through a
+      high-density neighborhood this evening in another area. The driveways were
+      plenty long so the cars could be up on the driveways. There were no cars in
+      the streets. This meant that when people went on walks they could stay on
+      the sidewalks without stepping into the streets to get around a car that was
+      blocking the sidewalk. The area was nice. He said that he thought that
+      residents had come to terms with extra homes coming into the neighborhood,
+      but were very concerned about the traffic and safety. He said that neighbors
+      were very concerned about if Ivory Homes would be able to use the old code.
+      He said that there was a reason why these codes evolve.
+
+4.5   Cory Ann Stokes, resident, said that they started the process of building with
+      Ivory two years ago. She said she echoed what previous residents had
+      expressed regarding safety, parking, and light concerns. She said that her
+      family had previously rented in a high-density community while they built their
+      home. She said that it was completely reassuring to them that a high-density
+      community was not the type of neighborhood for them. She said the parking
+      was ridiculous. She said that they had room to park on their driveway. Despite
+      this, she got rear-ended. The streets were always full and people often parked
+      outside of their driveways and packed their stuff in their garage, her family
+      included. Her other general concern is related to morals. She said it seemed
+      like when they looked into the process of building in this community, there was
+      a lot of appeal in the development being all single-family homes on larger lots.
+      That was why they brought the property. The purchase was not like that of
+      buying a car. For many of the families, these were million-dollar homes meant
+      to be forever homes. Because of this, it was frustrating as a resident to have
+      all of the changes made. Neighbors didn’t get any say in the other
+      amendments that were made. She said that it was frustrating to move into a
+      space that did not end up being what was expected. She had picked her lot
+      for specific reasons. It felt like a safe place for her kids, a place where there
+      wouldn’t be a lot of traffic, and a place where there would not be a huge
+      number of neighbors. All of these facts were changing with the expanded
+      development.
+
+                                                                           Page 8 of 18
+4.6   Christopher Cleveland, resident, stated his support for what others had
+      already been saying. He wanted to note that Ivory had purchased the
+      properties over time and continue to purchase property to develop after
+      Draper City code changed. He said that in his opinion, Ivory needed to be held
+      to the current standards that had been changed as they continue to buy new
+      land and develop in Draper. He said that they knew the rules and should be
+      held to them. He said that residents could not change what had happened
+      before, although, he too bought a corner lot on June Grass for the safety of
+      their kids on a T- intersection under the pretense that there would only be 115
+      neighbors. He said that they were not privy to any information before moving
+      into the development that the neighborhood would change so that right across
+      the street from them would become high-density. He said that he had lived in
+      Daybreak for five years. His family moved out of Daybreak and into Draper
+      because of the type of community that Daybreak had become. They didn’t feel
+      like it was safe for their kids to ride bikes or to walk their dog. He said there
+      was going to be a school and a church that would already increase traffic and
+      the number of kids in the neighborhood who would be walking to school. Cars
+      on streets block the view when crossing the street. Because of all of those
+      reasons he didn’t see why Ivory should be allowed to use an old code for
+      driveways just so that they will be able to pack more houses in an area that
+      really cannot handle the houses they have already been approved to have. He
+      said that if they can design the number of houses according to the current city
+      code, then that was what they could do. He said they should be held to the
+      current city code, not past city code as they continue to develop.
+
+4.7   Jason Staples, resident, said that he had emailed in some pictures and
+      drawings. He said that he was going to reference some of those materials in
+      his public comment. He also supported what had been previously said
+      regarding the traffic. He said that he did not know who thought that it was a
+      good idea to have 250+ residents funnel down across June Grass and go out
+      Jensen Farms. He asked if there was something that could be done to
+      investigate more access points in and out of the neighborhood. He noted the
+      limited access, and difficulty getting in and out at 14000 South. He said that
+      he went down to Holbrook Farms, Ivory’s other development in Lehi. He said
+      that it was a nice neighborhood with townhomes, cottage homes, and family
+      homes. He said that the difference there was that the single-family homes,
+      townhomes, and cottage homes were not tied to each other like in the Big
+      Willow development. The current proposal has Big Willow residents needing
+
+                                                                           Page 9 of 18
+      to go through the high-density housing to be able to get in and out of the
+      neighborhood. At Holbrook Farms, each of the types of housing had its access
+      points. Some other observation he had of Ivory’s development in Lehi was that
+      the street parking at the cottage homes and townhomes was where people
+      park on the streets because they did not park in their garages. After all, their
+      garages appeared to be storage units. On the private lanes, there were short
+      driveways where people’s cars extended in the street. If that was not allowed
+      in Draper and residents could not park on the road, where would all those cars
+      go? Another observation he had at the Holbrook development was that there
+      were a lot more parking stalls that were mostly full. He assumed those stalls
+      were used by residents. It seemed there was a lot more parking at the
+      Holbrook development than what was proposed in Draper. A final question
+      he had was regarding the zoning. He said that the zoning was changed to the
+      high-density before any of the residents lived in the neighborhood and were
+      able to have a voice. That was disappointing. In looking at where the
+      townhomes and cottage homes would be and at some of Draper City’s zoning
+      maps, it appeared that some of those homes were in the single-family zoned
+      area. To him, it seemed that everything proposed didn’t meet the zoning
+      requirements.
+
+4.8   LaRae Wallace, resident, said that she wanted to add her voice to her
+      neighbors who had spoken. She said that each had brought out some
+      excellent points, many of which were thoughts she and her husband, Brad,
+      had. She said that just this morning when she took her son to school and had
+      to get on 14000 South, there was already so much traffic backed up there. She
+      imagined what that would be like with additional homes. She said that when
+      she looked at the amount of land and existing development and what was
+      proposed with only two access points, where one is only a right in, right out, it
+      did not seem safe, functional, or to provide a quality of life that she expected
+      when she purchased in this community. She said that she was very
+      disappointed with how the situation had been handled with Ivory. She wanted
+      to get Ivory to adhere to wider streets that would help with congestion and
+      traffic.
+
+4.9   Tyler Fitts, resident, said that it seemed that the basis for Ivory’s appeal to be
+      able to go with the previous DCMC rather than the current code was that the
+      change occurred since they initially purchased and planned. He said that he
+      thought that was a very valid excuse because a lot of residents bought land
+      and houses through Ivory based on what they planned at the time and what
+
+                                                                          Page 10 of 18
+       they had been told. Ivory had changed their development plans since then.
+       He said that Ivory had told him personally that there were things he could do
+       on his lot that it turned out he could not. This demonstrated that sometimes
+       we make plans and then things change. He didn’t think that when all the
+       residents had to deal with that, that Ivory should be excluded from having to
+       deal with similar consequences. He also wanted to reiterate the traffic
+       concerns that were already expressed and how the 150 units that were coming
+       into 1/6 of the space would impact the neighbors’ plans. He said that no one
+       was excited about it. He felt like Ivory misled residents. He said that just
+       because Ivory had started their plans he didn’t feel like that was a mitigating
+       factor to have Draper go against its current ordinances.
+
+4.10   Tyler Stokes, resident, reiterated what his neighbors had said. He wanted to
+       express again what Mr. Fitts just stated. He did not think that the City of
+       Draper should be doing Ivory any favors when Ivory had not been looking out
+       for the best interests of the residents of Draper. He said that their primary
+       concern was money over safety, over promises. He said that Ivory had shown
+       residents plans who bought based on what they had been told. He said that
+       Ivory intentionally misled residents, absolutely lied to them. It was not a
+       misunderstanding or misinformation. He said that he didn’t feel like with that
+       sort of reputation and how they had handled themselves, that the City of
+       Draper, or that residents and taxpayers should be doing Ivory any favors.
+
+4.11   Amy Cleveland, resident, agreed with what her neighbors had already said.
+       She wanted to add one more thought. She said that she was an early
+       childhood educator. For 15 years she had taught children right and wrong.
+       She said that she had worked hard in her career to teach Draper’s children
+       honesty, values, and morals. She said that her neighbors were not lying. They
+       were all told something by Ivory, who had gone back on those promises and
+       were asking the Council to change the rules. She said that on the playground,
+       the rules were not changed for the bully. Rather, we stand up to the bully and
+       say that an action was not okay. She said that she didn’t want to dumb the
+       situation down, but that when you look at the big picture, Ivory was being a
+       bully. They were trying to have the Draper Council change the code and screw
+       the residents over for a few extra houses. She said that given the safety and
+       traffic concerns, Ivory’s development proposal was not what Draper stood for
+       and was not what the neighbors that she lived around wanted. She
+       appreciated that many of the council members responded to her email and
+       had taken the time to listen to residents’ concerns.
+
+                                                                         Page 11 of 18
+4.12   Shalise Staples, resident, said that she had a question. She said that her
+       husband had brought up the issue of an area of development that wasn’t
+       zoned for high-density. She asked if the Council was putting the horse before
+       the carriage by approving plans that the land was not zoned for. She said that
+       she was not familiar with the process and if they asked for driveways that the
+       land was not zoned for if they could go back and say that it was already
+       approved by the Council. She said that it looked like they were just spreading
+       out their high density because they were not asking for more. However,
+       spreading out the high density did not solve the problem. Holding them
+       accountable to the space that was already given to them, which the Council
+       should not have given to them in the first place, doesn’t make it better for
+       current residents by spreading the high-density closer to the single-family
+       homes. She said that she understood that the Fire Marshal said that Engelman
+       Drive was zoned for one-side on-street parking. That was the only main city
+       street for those townhomes and cottages to park on. She asked how the city
+       would enforce only one side of the street being parked on. She asked what
+       could be done to mitigate those issues. She said that if Ivory was going to be
+       given high-density, how could on-street parking be prevented on the main
+       through streets. She asked what the city could do to address the situation it
+       caused.
+
+4.13   Alyse Fitts, resident, said that Ivory sold residents a bill of good by telling
+       buyers it would be a quiet, safe neighborhood. They were never told that part
+       of the area was already zoned for high-density homes. They were also never
+       told that the main access for the neighborhood would be off of 14000 South.
+       She said that the entrance also provided access to a trail, park, new school,
+       and church. She wanted to voice her concern that this was going to increase
+       traffic and crime. It was not going to be a safe place for her kids to walk around
+       the neighborhood.
+
+4.14 Mayor Walker closed the public hearing.
+
+4.15   Before the public comment Bryon Prince, Vice-president of Ivory Development,
+       provided some context to the process and progression of the development.
+       He said that as a developer they were asking for the ability to proceed with the
+       Phase 3 subdivision improvements while waiting on the Jensen Farm’s access
+       road. They were asking for that approval because staff cannot accept the
+       design for Phase 3 until the road is completed. He said that the intent in asking
+
+                                                                           Page 12 of 18
+for the ability to move forward with Phase 3 was so that they could start the
+review process with staff because the ordinance would not allow the staff to
+accept the application and stuff until the access was complete. The review
+process was 90-120 days.
+
+Mr. Prince then had trouble with his audio so Mayor Walker held the period
+of public comment. After the public comment, Mr. Prince was able to speak
+more clearly. He began by clarifying that Phase 6 did not change the original
+plans for the Big Willow development that was approved in 2017. He said that
+by 2019, Ivory Homes had acquired the additional property known as the
+Holton Housing and Carlton Properties to add to the acreage and expand the
+original Big Willow Creek subdivision. In December of 2019, the City Council
+rezoned those properties to an R4 and an RM2. In April of 2020, Ivory made
+an application for a minor subdivision plat on the new area known as Phase 6.
+During that design process, Ivory realized that of the 141 lots that were allowed
+based on the density, all the townhomes would be in the RM2 area and the
+single-family homes would be in the R4. On May 5, 2020, they presented a
+second amendment to the development agreement that allowed flexibility:
+they could spread the density out across the 20 acres as opposed to
+consolidating the townhomes in the RM2 and the single-family in the R4. The
+intent of this was to be able to build more single-family detached homes and
+fewer townhomes under the ordinances at the time. That amendment was
+approved on May 5, 2020. He said that on May 19, 2020, the Council approved
+the private lane ordinance. He said that he felt that was important to
+understand. It was not six months or a year later; the code change happened
+two weeks later. When the full subdivision plat was submitted to staff, they
+realized that the Council had approved the ordinance a few weeks later and
+staff recommended that the request to use the previous code be included in
+an amendment. That was why Ivory Homes was before the Council tonight
+with the request. He said that Ivory was not intending to get out of parking
+standards. He said that the RM2 zone has parking standards that Ivory
+intended to comply with. He said that the concept submitted for the Phase 6
+area planned for full-length driveways in 90% of the lots. He said that was the
+reason they had submitted the amendment.
+
+Mr. Prince addressed the other part of the amendment. Per the city
+ordinance, Ivory Homes could not submit the subdivision design for Phase 3
+of the Big Willow Creek development until the Jensen Farms access road was
+complete. They were asking for the ability to submit the design to staff to
+
+                                                                   Page 13 of 18
+commence the review and approval process that generally took 90-120 days.
+He said that by the time the Phase 3 design review and approval occurred, the
+Jensen Farms connection would be completed. This would allow Ivory Homes
+to start the process with staff as opposed to having to wait until June or July.
+
+Councilmember F. Lowry said that the Council had become aware that there
+had not been an updated traffic study. He said that he was curious how Ivory
+Homes knew that the proposed phase would work without the updated traffic
+study. He asked what the current plan was based on.
+
+Mr. Prince said that the only thing defined so far was the zone. He said that
+they had the zoning and land use in place. Ivory Homes had submitted a
+concept and preliminary plat. At that point staff and Ivory Homes realized that
+the private lane ordinance had changed. Since then, the next phase of the
+subdivision had been on hold. Regardless of the decision the Council made,
+the process would be for Ivory Homes to present a new subdivision design that
+complies with the ordinance. With that would come a traffic impact study that
+would provide recommendations or impacts based on existing conditions or
+surrounding conditions and the proposed design. At that point, there would
+be proposed mitigations to address those impacts. He said the simple answer
+was that when the time came, Ivory Homes would come up with a design that
+addressed the traffic impact study. He said they did not have one today
+because further planning had been put on hold once it was discovered that
+the road standards had changed.
+
+Councilmember F. Lowry said that his follow-up question was related to the
+road standards. He said that if Ivory Homes recognized that the standards had
+changed to better address traffic and safety concerns, why they would apply
+to move forward to not comply with the updated standards that would
+compromise the safety of residents to whom Ivory would be selling the homes
+to.
+
+Mr. Prince said that Ivory Homes had identified that changes had been made
+within a week or two of approval and asked staff how they ought to proceed
+and staff said that the matter should be taken to the Council. He said there
+had never been a discussion with Ivory about why the changes were made.
+Ivory was just told that the Council had amended the ordinance to widen the
+streets. He said that he did not know if making roads bigger ensured that
+people drove slower. He said that he thought that could have the opposite
+
+                                                                   Page 14 of 18
+       effect. When you make roads bigger, people drive faster. He said that he had
+       not had that feedback from the Fire Department. He said that it was good to
+       know that safety concerns were the driving force for the ordinance change.
+
+4.16   Mayor Walker said that it sounded like Ivory was okay with complying with the
+       new ordinance as it was written. They would just need to adjust the plan.
+
+       Mr. Prince said that he said that they had brought a plan to the table last May
+       with the intent to build more single-family homes and fewer townhomes. He
+       said that he could appreciate the amendment made to private lane standards.
+       He said that he understood why it was done now. He said that Ivory would go
+       back to the drawing board to come up with a new design that complied with
+       the ordinance. He said that it would have an impact on the design. Ivory likely
+       would not be able to do as many single-family homes as was hoped. He said
+       that he thought they would still be able to create a nice addition to Big Willow
+       Creek.
+
+       Mayor Walker said that he wanted to be clear that Mr. Prince understood the
+       Council’s position on using the new code and that Ivory could make that work.
+       Mr. Prince said yes.
+
+4.17   Councilmember Vawdrey asked if staff could look up the zoning map to clarify
+       zoning compliance.
+
+       Ms. Oliver made some clarifications. She said that one of the citizens said that
+       there were 456 homes. She said that they were talking about 256 over 70 acres
+       or 3.6 units per acre. She said that there were some comments about
+       residents not getting any say in this particular application. She wanted to go
+       on the record that the rezones were noticed according to state code and
+       DCMC. The rezone followed that process that the city was prescribed to follow
+       and didn’t deviate from that process. She said that there was no provision for
+       city employees to go out and further distribute notice beyond the limitations
+       of the noticing. As for the rezone, one of the development amendments,
+       amendment 2, allows for mixed housing. Although part of the area is zoned
+       RM2 and part was RA2, the townhomes, and single-family homes could be
+       inner dispersed. The development agreement allowed for that inner
+       disbursement. She said that another item that was brought up was the
+       question of how the city prevented the residents from parking on both sides
+       of the street. She said that there were a lot of examples throughout the city
+
+                                                                          Page 15 of 18
+       where no parking signs had been posted and enforcement had been
+       successful.
+
+       Mr. Maxfield said that the current city policy was that on-street parking was
+       allowed on public rights-of-way, but if it becomes an issue, parking was
+       evaluated by the traffic committee. If need be, parking would be restricted in
+       problem areas to improve safety. He said that these changes were typically
+       reviewed after a street was constructed and inhabited.
+
+4.18   Councilmember T. Lowery said that she was a little bit concerned about
+       comments from the residents. She wanted to reiterate that the need for
+       transparency cannot be overstated. She said that it was a priority for the
+       Council that its residents felt comfortable and welcome to the city. She said
+       that she felt like this was an unfortunate and misguided attempt to welcome
+       people to Draper. She said that she was glad that Mr. Prince had reached out
+       to residents. She wanted to hear his thoughts on the issue.
+
+       Mr. Prince said that it seemed like Councilmember T. Lowery’s question was
+       concerning the acreage that was added to Big Willow Creek. He said that as it
+       had been mentioned, the development had been a process. In 2019 the area
+       went through a few different rezones to add the Carlson and Holton Housing
+       properties that changed the zone to residential use. He said that the vision for
+       the Phase 6 area was not well defined because Ivory Homes was working
+       through the land use first and then looking at how to incorporate an actual
+       subdivision design into the original Big Willow Creek design. He said that Ivory
+       Homes still had not gotten there and was still just in the land use stage. They
+       have never been able to define what the new acreage would be as a
+       subdivision. He said that Ivory could have done a better job, a conversation
+       he had with many of the residents, of communicating about the additional
+       acreage that Ivory proposed to add and expand the subdivision. He thought
+       that the perspective of the addition being negative as opposed to positive was
+       a subjective opinion. Ivory saw this as a positive addition to the Big Willow
+       Creek master plan. Some residents did not feel the same way and thought it
+       would be negative. He felt that Ivory’s goal going forward would be to improve
+       communication with existing residents and ultimately come up with a design
+       that was attractive and provide some new homes that were different than
+       what was approved in the original 50 acres but were nice homes and a positive
+       addition to the neighborhood.
+
+
+
+                                                                          Page 16 of 18
+4.19   Councilmember F. Lowry said that he was trying to determine what was the
+       best direction for the Council to take on the item. Ms. Oliver said that the staff
+       had provided two different actions. The first would allow for the build-out to
+       continue with previous code standards. The second allowed for utility
+       development only under current code standards. This would mean that Ivory
+       would have to abide by the wider road widths and driveways.
+
+       Mayor Walker said that it was within the Council’s rules that they could take
+       more time to think about the item and read over materials by moving the item
+       to the next meeting.
+
+       Councilmember F. Lowry wanted to make it clear that the Council wanted to
+       do the right thing on behalf of the residents and to be fair to Ivory Homes.
+
+       Ms. Oliver said that Ordinance #1487 would approve the Big Willow Creek 3rd
+       Amendment Development agreement under prior DCMC standards. The
+       Planning Commission recommendation for Ordinance #1487 would require
+       Ivory to continue development with the new standards. The ordinance had
+       already been re-drafted. Specifying the passage of the Planning Commission
+       recommendation would still pass Ordinance #1487 and would only allow for
+       the development of the Phase 3 infrastructure before the secondary access
+       being constructed or bonded for.
+
+4.20   Councilmember Vawdrey moved to approve Ordinance #1487 the Planning
+       Commission version, approving the Big Willow Creek 3rd Amendment
+       Development Agreement. Councilmember Roberts seconded the motion.
+
+4.21   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+**     Councilmember Green left the meeting at 8:22 pm
+
+5.0    Council/Manager Reports
+
+5.1    No reports were given.
+
+6.0    Adjournment
+
+
+
+
+                                                                           Page 17 of 18
+6.1   Councilmember F. Lowry moved to adjourn the meeting. Councilmember
+      Roberts seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.3   The meeting adjourned at 8:22 p.m.
+
+
+
+
+                                                                    Page 18 of 18
+

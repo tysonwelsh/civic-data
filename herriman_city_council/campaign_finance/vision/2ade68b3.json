@@ -1,0 +1,45 @@
+{
+  "contributions": [
+    {"date": null, "name": "Larry Myler", "amount": "2000", "in_kind": false},
+    {"date": null, "name": "Joseph Grenny", "amount": "1500", "in_kind": false},
+    {"date": null, "name": "Doug Young", "amount": "1000", "in_kind": false},
+    {"date": null, "name": "Kirk Young", "amount": "1000", "in_kind": false},
+    {"date": null, "name": "Ryan Button", "amount": "1000", "in_kind": false},
+    {"date": null, "name": "Edge Homes", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Brianna Saulnier", "amount": "25", "in_kind": false},
+    {"date": null, "name": "Chris Dawson", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Michael Nadeau", "amount": "20", "in_kind": false},
+    {"date": null, "name": "Tara", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Darrell & Launi", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Kaylie Seehusen", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Mike Day", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "250", "in_kind": false},
+    {"date": null, "recipient": "Qualtrics", "purpose": null, "amount": "1000", "in_kind": false},
+    {"date": null, "recipient": "L2", "purpose": null, "amount": "360.75", "in_kind": false},
+    {"date": null, "recipient": "Siteground", "purpose": null, "amount": "150", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake Mailing", "purpose": null, "amount": "2419.76", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "263.71", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "1968.6", "in_kind": false},
+    {"date": null, "recipient": "Rumble Up", "purpose": null, "amount": "100", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "22.5", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "1200", "in_kind": false},
+    {"date": null, "recipient": "BCR Political", "purpose": null, "amount": "157.47", "in_kind": false}
+  ],
+  "total_contributions": "7795",
+  "total_expenditures": "7892.79",
+  "contributions_50_or_less": null,
+  "beginning_balance": "97.79",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2456_Clint-SmithMayor.pdf",
+    "candidate": "Clint Smith",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2456_Clint-SmithMayor.pdf",
+    "pages": 3,
+    "notes": "Office 'Herriman City Mayor' / City-Wide. Type-of-report box checked: 'NOT Eliminated by Primary - No later than 30 days after... December 2, 2021' -> summary (final). Signed 'Nov 26, 20211' (typo year '20211' kept verbatim). The itemized schedules are NOT the standard Schedule A/B forms - the filer substituted two custom typed tables titled 'Contributions' (Name | Amount) and 'Expenditures' (To Who | Amount). Consequently contributions carry no dates or addresses (date=null) and expenditures carry no dates or purpose (date=null, purpose=null); only name/recipient + amount are provided. Contributions table TOTAL = 7795 (reconciles with 13 rows). Expenditures table Total = 7892.79 (reconciles with 11 rows; five separate 'BCR Political' lines). Summary Page: Column A (this period) - line 1 contributions 7795, line 2 expenditures 7892.79, line 3 beginning balance 97.79, line 7 ending balance 0. Column B (Year-to-Date) shows 28610.96 for both contributions and expenditures with 0 close - not recorded in primary fields. Schedule C row marked 'NA' in both columns (no in-kind). Amounts recorded verbatim as typed (e.g. '1968.6', '22.5', integer '2000')."
+  }
+}

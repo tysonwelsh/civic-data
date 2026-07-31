@@ -1,0 +1,139 @@
+# City Council Special Meeting - Truth in Taxation
+> Source: Utah Public Notice Website (PMN), Draper City Council (PMN body 5555)
+> Notice: https://www.utah.gov/pmn/sitemap/notice/932411.html  |  File: https://www.utah.gov/pmn/files/1159991.pdf (file id 1159991)
+> PMN original: pmn_backfill/raw/pmn_council_2024-08-14_truth-in-taxation-minutes_1159991.pdf  |  Raw PDF: raw/2024-08-14_city-council-truth-in-taxation.pdf
+> Meeting date: 2024-08-14
+> Recovered 2026-07-13 via pmn_backfill; PROMOTED 2026-07-16 into this audited layer (born-digital, internal header/date verified - see pmn_backfill/CLAUDE.md).
+> Note: Truth-in-Taxation special session never listed on Granicus. Separate SL-County and Utah-County tax hearings (two-county city); Councilmember Green excused. Approved 2024-08-20 (running footer). PMN posted this doc twice (notices 929679 + 932411, byte-identical sha256 98823bda...); this is the primary posting.
+> Format: text (born-digital)  |  Extraction: pdftotext -layout
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON WEDNESDAY,
+AUGUST 14, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:      Mayor Troy K. Walker, and Councilmembers Bryn Heather Johnson,
+              Tasha Lowery, Fred Lowry, and Cal Roberts
+
+EXCUSED:      Councilmember Green
+
+STAFF:        Mike Barker, Acting City Manager; Kellie Challburg, Assistant City
+              Manager; Spencer DuShane, Assistant City Attorney; Battalion Chief
+              Kevin Holt; Rich Ferguson, Chief of Police; Ashley Johnson, Deputy City
+              Recorder; Rhett Ogden, Parks and Recreation Director; Laura
+              Oscarson, City Recorder; John Vuyk, Finance Director; and Jared
+              Zacharias, Assistant Finance Director
+
+______________________________________________________________________________________
+
+
+
+
+Business Session
+
+1.       Call to Order by Mayor Troy K. Walker
+
+2.       2.a Public Hearing: Proposed Tax Increase – Salt Lake County. If the
+
+         proposed budget is approved, Draper City would increase its property
+
+         tax budgeted revenue by 21.41%. This hearing is an opportunity for
+
+         Draper residents living in Salt Lake County to provide public comment
+
+         on the proposed increase. No action will be taken on this item.
+
+         Mayor Walker opened the public hearing.
+
+         Sally Kendrick spoke about the hardship of a tax increase for those on a
+
+         fixed income and the rising cost of living.
+
+
+
+
+                                                                               1|Page
+         Truth in Taxation Public Hearing Approved Meeting Minutes – August 20, 2024
+Gene Call shared three thoughts: more homes have been built in Draper,
+
+he wanted to know where the need for more money stops, and suggested
+
+that economizing is a better solution than more money.
+
+David Gustin shared his thoughts about property tax as revenue.
+
+William Savage questioned the total valuation of the city and why that
+
+amount wasn’t enough to pay the public safety staff a living wage.
+
+Barbara Coates shared her concerns about continually higher taxes, the
+
+rising cost of living, and living on a fixed income.
+
+Lenny Linn wants to know if the city is spending wisely on other projects
+
+and if that money could be used for public safety. He wanted to know how
+
+residents could see how the city was spending money.
+
+Mayor Walker closed the public hearing.
+
+2.b. Public Hearing: Proposed Tax Increase – Utah County. If the
+
+proposed budget is approved, Draper City would increase its property
+
+tax budgeted revenue by 21.41%. This hearing is an opportunity for
+
+Draper residents living in Utah County to provide public comment on
+
+the proposed increase. No action will be taken on this item.
+
+Mayor Walker opened the public hearing and no one came forward so
+
+Mayor Walker closed the hearing.
+
+Mayor Walker shared why a tax increase was needed to attract and retain
+
+quality public safety. He shared where residents could find the annual
+
+budget, how the city gets revenue, and his feelings about raising taxes only
+
+as needed rather than every year. He reminded the residents that Draper
+
+
+
+                                                                     2|Page
+     is the lowest taxed city in the county and even with the tax increase will
+
+     either be the lowest taxed or the second lowest taxed city in the county.
+
+     Councilmember Roberts explained how property tax is distributed and the
+
+     difference between residential and commercial property tax assessments.
+
+     Councilmember F. Lowry understands the difficulty the tax increase will
+
+     pose for those on a fixed income.
+
+     Councilmember T. Lowery thanked the residents for coming and assured
+
+     the residents that this needed to happen.
+
+     Councilmember Johnson shared how this decision was taken with careful
+
+     thought and understanding of the impact it would have on residents.
+
+3.   Adjournment
+
+     Councilmember T. Lowery moved to adjourn the meeting.
+
+     Councilmember Roberts seconded the motion.
+
+     A voice vote was tak en. The motion passed unanimously.
+
+     The meeting adjourned at 6:29 p.m.
+
+
+
+
+                                                                          3|Page
+

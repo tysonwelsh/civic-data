@@ -1,0 +1,43 @@
+{
+  "contributions": [
+    {"date": "06/05/2023", "name": "Paul Pickett - campaign loan", "amount": "1,000", "in_kind": false},
+    {"date": "06/07/2023", "name": "Scot Woodbury", "amount": "50", "in_kind": false},
+    {"date": "06/07/2023", "name": "Anonymous", "amount": "14", "in_kind": false},
+    {"date": "06/16/2023", "name": "Jim Hartley", "amount": "100", "in_kind": false},
+    {"date": "06/30/2023", "name": "Board of Realtors", "amount": "1,000", "in_kind": false},
+    {"date": "07/12/2023", "name": "Data Enterprises", "amount": "1,000", "in_kind": false},
+    {"date": "08/09/2023", "name": "Susan Roylance", "amount": "100", "in_kind": false},
+    {"date": "08/22/2023", "name": "Guy Morris", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/05/2023", "recipient": "Murray City Recorders Office", "purpose": "Filing fee", "amount": "95", "in_kind": false},
+    {"date": "06/09/2023", "recipient": "Murray City Parks and Rec", "purpose": "Pavilion rental for campaign launch", "amount": "40", "in_kind": false},
+    {"date": "06/16/2023", "recipient": "Costco", "purpose": "Treats & decorations for campaign launch", "amount": "44.66", "in_kind": false},
+    {"date": "06/16/2023", "recipient": "Zurchers", "purpose": "Party decorations for campaign launch", "amount": "22.80", "in_kind": false},
+    {"date": "06/16/2023", "recipient": "Smith's", "purpose": "Treats & paper goods for campaign launch", "amount": "49.16", "in_kind": false},
+    {"date": "06/16/2023", "recipient": "Surgarhouse Signs", "purpose": "Campaign yard signs", "amount": "883.74", "in_kind": false},
+    {"date": "06/20/2023", "recipient": "SL County", "purpose": "Voter list", "amount": "15", "in_kind": false},
+    {"date": "06/22/2023", "recipient": "Zurchers", "purpose": "Supplies for Meet the Candidate", "amount": "22.31", "in_kind": false},
+    {"date": "06/22/2023", "recipient": "Smith's", "purpose": "Supplies for Meet the Candidate", "amount": "9.24", "in_kind": false},
+    {"date": "06/27/2023", "recipient": "Smith's", "purpose": "Treats for 4th of July parade", "amount": "16.44", "in_kind": false},
+    {"date": "06/27/2023", "recipient": "Blair's Candy", "purpose": "Candy for 4th of July parade", "amount": "150.13", "in_kind": false},
+    {"date": "06/29/2023", "recipient": "Zurchers", "purpose": "Decorations for 4th of July parade", "amount": "85.89", "in_kind": false},
+    {"date": "07/14/2023", "recipient": "Vista Printing", "purpose": "Door hangers", "amount": "287.42", "in_kind": false},
+    {"date": "07/18/2023", "recipient": "SL County", "purpose": "", "amount": null, "in_kind": false},
+    {"date": "08/19/2023", "recipient": "Facebook ad", "purpose": "Boost post for Facebook", "amount": "10", "in_kind": false}
+  ],
+  "total_contributions": "3,314",
+  "total_expenditures": "1,731.39",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "1,582.61",
+  "_meta": {
+    "index_path": "raw/202308_Paul-Pickett_14459.pdf",
+    "candidate": "Paul Pickett",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202308_Paul-Pickett_14459.pdf",
+    "pages": 7
+  }
+}

@@ -1,0 +1,625 @@
+{
+ "data": [
+  {
+   "id": "0bbe8adb-8cc7-4d55-a9d9-3183709b351d",
+   "parentId": "a1655cdd-d4bd-453f-90be-2e8f0e2f0971",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For US Senate "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 175,
+    "totalUnits": 175,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 28852,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "a195126a-76fb-4668-83e1-4790e8982e57",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "John Curtis"
+       }
+      ],
+      "voteCount": 12986,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "6a1eaf7a-6e23-4aa4-89a6-a013ca085e46",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Jason J. Walton"
+       }
+      ],
+      "voteCount": 1929,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "0ed7221d-62e6-4f84-8066-3000fbc96a61",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Brad Wilson"
+       }
+      ],
+      "voteCount": 4951,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "8b11b6a7-552b-4574-8ec3-7c68dd953db7",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Trent Staggs"
+       }
+      ],
+      "voteCount": 8986,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "8fa46c3a-0bbd-4173-bfd6-2fe7bca41d2f",
+   "parentId": "d26f70c0-94de-44a7-9cda-67243b723a37",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For US House 1 "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 175,
+    "totalUnits": 175,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 28697,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "a90b5fe8-cc51-4a7c-9b48-9996db6330e5",
+      "nativeId": "5",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Paul Miller"
+       }
+      ],
+      "voteCount": 8862,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "d5140f98-a74f-4867-ac30-826455d92e08",
+      "nativeId": "6",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Blake D. Moore"
+       }
+      ],
+      "voteCount": 19835,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "af168c37-dadf-4c46-bb7b-3d4b59e7eacd",
+   "parentId": "dc3e43f3-aa02-466d-afdb-ad2e002866a8",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For Governor "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 174,
+    "totalUnits": 174,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 29159,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "4ef2a3d6-c2e4-4ae2-be54-efdf92a8e257",
+      "nativeId": "15",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Phil Lyman / Natalie Clawson"
+       }
+      ],
+      "voteCount": 13567,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "41ba10ff-4846-487a-836f-778520fa967f",
+      "nativeId": "14",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Spencer J. Cox / Deidre M. Henderson"
+       }
+      ],
+      "voteCount": 15592,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "1976578e-e46f-4f5b-ba9f-e2c6fc58fedc",
+   "parentId": "fd58650e-5f86-4ebe-82a4-31879a737883",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For Attorney General "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 174,
+    "totalUnits": 174,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 28278,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "13d06a20-f339-4c76-8901-bab99ff3085f",
+      "nativeId": "17",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Derek Brown"
+       }
+      ],
+      "voteCount": 11920,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "2ff3f431-cb67-4bdb-8111-7d41a622209a",
+      "nativeId": "16",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Frank Demcy Mylar"
+       }
+      ],
+      "voteCount": 6176,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "fbcf9cfc-362a-447d-b5d3-798a4650fb47",
+      "nativeId": "18",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Rachel Terry"
+       }
+      ],
+      "voteCount": 10182,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "5f9a6ca9-29a2-4cbf-8cfc-c3b26980cae9",
+   "parentId": "25dcdb1d-6877-4a34-8383-ac1342291ebc",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For State Auditor "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 174,
+    "totalUnits": 174,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 28317,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "fa6abde8-daa1-4f3a-a9f4-663c53c59417",
+      "nativeId": "20",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Ricky Hatch"
+       }
+      ],
+      "voteCount": 16873,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "899090f0-ab26-4334-b65b-c4b2d8f5fd0b",
+      "nativeId": "19",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Tina Cannon"
+       }
+      ],
+      "voteCount": 11444,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "9ae53f67-cf71-4b61-8f2b-a0b71e91b304",
+   "parentId": "c9be7b43-ecbe-44e2-8c23-01765e8bbfe5",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Republican For State School Board 3  "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 24,
+    "totalUnits": 24,
+    "asOf": "2025-01-02T19:02:31.3897835Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4531,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "9d198324-62bb-4396-b03e-a4dd860e1967",
+      "nativeId": "69",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Brent Strate"
+       }
+      ],
+      "voteCount": 2432,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "7a45a1cc-1c94-4b62-86b5-fd957e986dc5",
+      "nativeId": "70",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Rod Hall"
+       }
+      ],
+      "voteCount": 2099,
+      "party": {
+       "id": "a110d9eb-4d4a-4162-a086-0a93c293ee9b",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#d92d20",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  }
+ ],
+ "limit": 0,
+ "offset": 0,
+ "totalRecordCount": 6
+}

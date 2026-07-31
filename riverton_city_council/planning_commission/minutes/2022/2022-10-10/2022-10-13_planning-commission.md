@@ -1,0 +1,650 @@
+# Riverton Planning Commission Meeting — 2022-10-13
+> Source: https://www.utah.gov/pmn/files/920958.pdf
+> Meeting date: 2022-10-13
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/786719.html
+> Format: text
+
+Approved: PC 12.8.22
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                OCTOBER 13, 2022
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Shelly Cluff, Chair                              Tim Prestwich, City Planner
+Keith Breinholt                                  Lisa Halversen, City Planner
+Jon Gilchrist                                    Ryan Carter, City Attorney
+Evan Matheson
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Shelly Cluff called the meeting to order at approximately 6:30 p.m. The Pledge was
+led by Commissioner Gilchrist.
+
+2.     PUBLIC HEARINGS
+
+       A.     SUBDIVISION – "HOMESTEAD," PLZ-22-1004, A SUBDIVISION
+              APPROVAL IS SOUGHT FOR PROPERTY LOCATED AT 3600 WEST
+              12805 SOUTH FOR 44 SINGLE-FAMILY HOMES. APPLICANT – DAVID
+              WEEKLEY HOMES.
+
+Chair Cluff opened the public hearing.
+
+City Planner, Tim Prestwich, presented the Staff Report and stated that the subject property
+is on Water Street and 3600 West and was part of the Stampin’ Up property that has been
+vacant for years. It was subject to several rezone requests and ultimately, the City Council
+settled on a Commercial-Professional Office (“CPO”) Zone with an Elderly Housing Overlay
+and a special designation. The proposed subdivision meets the requirements of the SD and
+the Elderly Housing Overlay. Notices were sent to surrounding neighbors within 300 feet
+and posted on the City’s webpage. No public comments were received. Mr. Prestwich
+identified the location of the property in relation to the surrounding properties and
+businesses. There is a church to the north and an elementary school to the left in the picture
+shown.
+
+There are 45 proposed lots, private roads, and three open space areas that will be owned
+and maintained by the Homeowners Association (“HOA”). The HOA will also be maintaining
+the park strips shown on the plat map. Yard maintenance will be taken care of by the HOA.
+The private roads will be 38 feet wide and the main road will be 54 feet wide to allow for
+parking on both sides. The plans received by the Commission showed ‘No Parking’ signs
+on one side but could be removed because the width of the roadway allows for parking on
+Riverton City Planning Commission Meeting                                                   2
+October 13, 2022
+
+both sides. The road cross sections have sidewalks on both sides of the access and the
+main roads.
+
+The Elderly Housing Overlay has requirements for what the houses are to look like and
+David Weekly Homes has a nice product that will fit on the lots. The lots will be
+approximately 5,000 square feet in size. The homes will be one-step up or no-step up,
+straight walk-in, which is one of the requirements of the Elderly Housing Overlay. There are
+also conditions for the interior that will be met. In addition, the development must be age-
+restricted. Mr. Prestwich felt the product would blend nicely in the neighborhood and would
+be a good addition to the community.
+
+He showed the site plan and explained that there will be a six-foot solid masonry fence
+around the perimeter of the property. The fencing is required by the ordinance for various
+reasons on each side of the property. The applicant is proposing a three-foot picket fence
+in front of the houses and Mr. Prestwich indicated that it would have to be a rounded top and
+not a picket or pointed top. He reported that Water Street is a collector street and the
+Ordinance specifies that if there is a fence on a collector street, it must be six-foot solid
+masonry. This particular area, however, is open space, so the question is whether the three-
+foot fence may be allowed. The shorter fence ties in well and opens the neighborhood up,
+allowing for seemingly larger backyards rather than creating a walled compound. Finding a
+way in the Ordinance to allow the shorter fence was tricky. Mr. Prestwich cited the Code,
+which states that a six-foot masonry block wall is required. However, Title 17, which
+addresses development fencing, specifies that all incidents of a development adjoining a
+collector are necessarily required to have a fence. He requested the help of the Commission
+regarding language that states, “The Planning Commission shall review all requests for any
+type of fence not specifically identified in this chapter, and may approve said fence if, in the
+opinion of the Commission, the fence does not impair the intent and purpose of this chapter."
+Ultimately, the decision is with the Planning Commission. He noted that there are other
+similar instances of fencing issues in the City.
+
+Another issue was that the developer would like to have a gap in the fence. Staff did not
+object to the request. There is a landscape feature with a walkway to allow the residents
+pedestrian ingress and egress. It ties in well with the other landscaping. Mr. Prestwich
+showed a small portion of the property on Lot 101 that will be dedicated to the City but
+maintained by the HOA. The Landscaping Plan shows the fencing on the triangles, stepping
+down or dropping down from six feet. Mr. Prestwich showed the Landscaping Plan and
+described the location of the park and open areas as well as the proposed landscaping
+materials.
+
+With private roads, all utilities within the development will be privately maintained. The City’s
+maintenance will end at the right-of-way and the two master meters. Mr. Prestwich pointed
+out that David Weekly Homes would like to have private meters on all of the houses. A
+master meter will be used for the City to read but the HOA will monitor individual meters to
+ensure that no individual resident is using excessive water. The City is working to expand
+the system to allow for remote readings, which would be beneficial in this case. That
+agreement would be worked out with the City Attorney and authorized by the City Council.
+Riverton City Planning Commission Meeting                                                   3
+October 13, 2022
+
+Staff recommended approval with the conditions set forth in the Staff Report. If the Planning
+Commission wants to alter the fencing requirement, Condition #9 would need to be modified.
+
+Commissioner Gilchrist asked for clarification of the utilities. He recalled that an irrigation
+canal came through the property at one time. He asked if the developers have rights to that
+water or if the irrigation requirements would come from the City’s secondary water system.
+Mr. Prestwich responded that the water would come from the City and stated that it is
+required to convert a private irrigation system to the City’s system upon development. The
+developer would be responsible to eliminate any remaining ditches.
+
+Commissioner Gilchrist asked if all the secondary water was metered to the individual units
+as well, or if there was just one master meter. Mr. Prestwich confirmed that there is just one
+master meter.
+
+Commissioner Matheson asked for a clarification of the 55+/80% rule and asked how it is
+regulated in cases where children and grandchildren come to visit and, in some cases, if the
+elderly resident dies. Mr. Prestwich was unsure how it is enforced, except that the HOA
+would be the governing body. If the City finds that it is out of control, it could impose
+enforcement due to the zoning requirements. He did not know if state law or court rulings
+allow people time to resolve these types of situations. City Attorney, Ryan Carter would help
+set it up but the HOA would handle it from there.
+
+Commissioner Rushton asked about the drainage on Parcel C and where it discharges to.
+It was clarified that there is a retention system after which it goes into the stormwater system.
+Commissioner Rushton's concern was that the pond on Water Street does not have a drain
+and there is always residual water in the pond. He wanted to make sure that if the discharge
+from this development goes into that pond, it is factored into the stormwater calculations. It
+was reported that the inlet/outlet of the City’s ponds is not at the bottom, allowing for one-
+half inch of storm events to percolate back into the ground.
+
+Commissioner Rushton asked if the street width within the interior of the development will
+allow for parking on one or both sides. Mr. Prestwich reported that the 38-foot-wide streets
+are posted as ‘No Parking’ on one side. The 54-foot streets allow for parking on both sides.
+It was further noted that the 38 feet includes the sidewalks which takes the paved surface
+down to 24 feet. As a result, there would be no parking allowed on those streets. The 54-
+foot streets would be reduced to 30 feet, which would allow for parking on one side.
+Mr. Prestwich stated that the Fire Department has allowed for the measurement to be from
+the gutter.
+
+Commissioner Park asked if snow removal on the private roads needed to be addressed.
+Mr. Prestwich stated that it was not necessary but the Commission could specify that in the
+motion. The Ordinance requires that they have on-site snow removal. It appeared that the
+plows would have to push to Parcel C, the open space, and the pond.
+
+The applicant, Rulon Dutson from David Weekly Homes, expressed excitement for the
+development and stated that it was a shame that no one on the Commission would qualify
+to live there for several more years. He thanked Staff for their help with the project. He
+Riverton City Planning Commission Meeting                                                   4
+October 13, 2022
+
+commented that this is their first encore – age-targeted, age-qualified – project, and they are
+excited to create a neighborhood where people feel comfortable. In terms of parking, the
+setbacks of the units will allow for the driveway to accommodate two vehicles. Each unit will
+also have a two-car garage. With the additional on-street parking, the developer felt that
+there was adequate and appropriate parking. Snow removal, landscaping, and other
+concerns will be addressed appropriately. The age-qualified component will be part of the
+disclosure and an integral part of the HOA documents, which will describe how it will be
+governed to meet the zoning standards.
+
+Mr. Dutson reported that the HOA will not be in charge of invoicing and collecting fees for
+water usage for the individual units. The HOA will maintain all of the landscaping within the
+project, so the secondary water will be primarily used by the HOA through the master meter.
+Any incidental watering by individual homeowners for a garden or flowers will be their
+responsibility.
+
+With regard to the fencing, the goal will be to maintain privacy on the west, north, and east
+boundaries; however, along Parcel B it is intended to create an open feel with a park that
+will be visually pleasing from Water Street. It will also allow for a view of the mountains to
+the east. Mr. Dutson asked for consideration of the alternative fencing in that section, which
+will provide a designation between public and private space. It will also allow the
+neighborhood to be a part of the broader community rather than a separate compound.
+
+Commissioner Park asked if there was a reason for the change from the rail fence to the
+picket fencing. Mr. Dutson explained that it had to do with the joining of the different types
+of fencing as there is a three-way juncture at one point in the development. Additionally,
+they considered the likelihood of residents owning dogs and the ability to contain animals
+better with a picket-type fence than a rail fence. Ultimately, they are trying to create an open,
+rural atmosphere in the community, which speaks to the legacy of the parcel.
+
+Commissioner Park asked if there will be problems with the stipulation of a rounded top in
+lieu of a pointed top. Mr. Dutson stated that would not be a problem and that their main
+concern is that it is an open-type fence and not a six-foot masonry wall along that section.
+
+Commissioner Gilchrist remarked that recently the City passed an ordinance regarding
+water-wise landscaping. He asked if they had incorporated that into the landscape design.
+Mr. Dutson reported that water-wise landscaping is provided in the park strips and is one of
+the reasons the developer wanted to install a master meter for the secondary water. That
+way, the HOA can manage water usage and be sensitive to water conservation.
+
+Commissioner Rushton asked if they knew what the distance was between the masonry wall
+and the existing barn on the property to the north. Mr. Dutson was not aware of the setback
+of the barn to the property line but stated that the developer requires the fence be placed on
+the property line.
+
+Commissioner Rushton commented on the fencing and agreed with the openness of the
+proposal. Mr. Dutson stated that they are trying to create an ‘active’ adult community and
+Riverton City Planning Commission Meeting                                                    5
+October 13, 2022
+
+encouraging people to get out and walk and access the surrounding area by keeping it open
+along Water Street.
+
+Commissioner Matheson commented that it appeared that none of the Commissioners were
+concerned about the shorter fence. He asked how the transition from the six-foot masonry
+to the three-foot picket fence would work. Mr. Dutson explained that along Water Street,
+there will be a six-foot masonry fence on the south sides of Lots 101, 145, 135, and 134.
+The transition had not been discussed in detail but they plan to make it an appropriate
+transition.
+
+Chair Cluff stated that there will likely be a high number of children walking to and from the
+elementary school. She asked if that was of concern to the developer. Mr. Dutson stated
+that the park is intended to be a private space from a use-liability standpoint. That is one of
+the reasons the fencing material is critical. Regardless, it will be obvious that it is a private
+space. That does not guarantee, however, that it won’t be accessed by non-residents.
+
+Chair Cluff asked if there will be a gate at the sidewalk opening. Mr. Dutson confirmed that
+there will be a gate at both openings.
+
+Mr. Prestwich asked for clarification on whether there will be fencing along the south sides
+of Lots 125 through 130 that border the open space for Parcel B. Mr. Dutson stated that it
+will be the picket fencing that was discussed.
+
+Mr. Prestwich asked if Lot 125 needs a different consideration since it is so close to the road.
+Mr. Dutson stated that it is a problem area that they have discussed and will resolve before
+final plat approval.
+
+Commissioner Park asked if Parcel C will have the picket fence along the south side and tie
+into the fence at Lot 125 on the south and east sides. He also asked if the retention area
+will be fenced off.
+
+There was discussion regarding the traffic to and from the elementary school and the
+potential for children to enter the retention area if it is not fenced. Mr. Dutson stated that the
+developer’s goal is to make this an attractive community while making it clear through
+fencing, landscaping, and/or signage that it is a private space. They are aware of the safety
+issues of the retention pond.
+
+Commissioner Rushton commented that Daybreak is a good example of transitioning from
+different types of neighborhoods within a community subtly.
+
+Chair Cluff asked if there would be fencing between the lots. Mr. Dutson stated that that
+would be a homeowner option and not something the developer will install. Any fencing
+would need to adhere to community guidelines.
+
+Chair Cluff invited public comment. There were no public comments. The public hearing
+was closed.
+Riverton City Planning Commission Meeting                                                6
+October 13, 2022
+
+Commissioner Park asked to see the Code regarding the fencing and stated that the wording
+is ‘may,’ not ‘shall,’ so there is leeway for the Commission to allow for alternative fencing.
+He asked if was necessary to address snow removal. Mr. Prestwich said that it is part of a
+City ordinance and unnecessary.
+
+Commissioner Gilchrist brought up the ‘fence-within-a-fence’ requirement in the ordinance
+that requires a Conditional Use Permit. He asked if that would need to be addressed
+regarding Lot 125. Mr. Prestwich reported said that the ordinance addresses parallel fencing
+and since the fence lines are not parallel, that ordinance would not apply.
+
+There was discussion regarding how to word the conditions that will comply with City Code
+and allow the developer the latitude to make certain changes and decisions. There was also
+discussion regarding the timing of pulling Building Permits before the fencing is complete as
+long as no Certificate of Occupancy is issued until the fencing is complete.
+
+Commissioner Park moved that the Planning Commission APPROVE PLZ-22-1004
+“Homestead Subdivision”, to be located at 3600 West 12805 South with the following
+conditions:
+
+       1.     Address any outstanding Riverton City staff redline comments on the
+              plans.
+
+       2.     Storm drainage systems and accommodations comply with Riverton City
+              Standards and ordinances, and with the recommendations of the
+              Riverton City Engineering Division.
+
+       3.     The applicant must obtain any necessary approvals or permits from
+              applicable outside agencies or jurisdictions.
+
+       4.     Any necessary easements or agreements on the property be recorded
+              with Salt Lake County Recorder.
+
+       5.     The site and structure shall comply with all applicable standards and
+              ordinances of the City, including the International Building and Fire
+              Code.
+
+       6.     The development shall remain in compliance with the SD designations
+              of Rezone Ordinance 21-34 including:
+
+              a.     Density is limited to 6 (six) units per acre.
+
+              b.     The Project shall be age-restricted in compliance with all
+                     applicable laws to a minimum of 80% at 55 or older.
+
+              c.     Units shall not front onto Water Street, and no individual driveway
+                     access onto Water Street shall be allowed.
+Riverton City Planning Commission Meeting                                                 7
+October 13, 2022
+
+       7.     Interior streets shall be private with private utility lines.
+
+       8.     The HOA shall maintain the private streets, private infrastructure, the
+              open space Parcels A, B & C, and the park strips adjacent to the
+              development on 3600 West and Water Streets.
+
+       9.     Perimeter fencing shall be installed as shown on Civil Plan Set Sheet C-
+              3 (Stamped on 10-10-22) with picket or otherwise comparable fencing
+              approval by City Staff prior to building permits being issued in the
+              subdivision.
+
+       10.    All snow removal shall be either contained to the property or hauled
+              away from the property and not pushed onto the City right-of-way.
+
+Commissioner Matheson seconded the motion.                  The motion passed with the
+unanimous consent of the Commission.
+
+       B.     REZONE – "FUNARO REZONE," PLZ-22-4009, A ZONING CHANGE IS
+              SOUGHT FOR .5 ACRE LOCATED AT 1794 WEST 11800 SOUTH,
+              CURRENTLY ZONED AS RR-22 AND REQUESTING CHANGE TO R-4.
+              APPLICANT - PETER FUNARO.
+
+City Planner, Lisa Halversen, presented the Staff Report and stated that the property is a
+one-half-acre residential lot in the northeast quadrant of the City. Peter Funaro was
+identified as the property owner and is requesting the current RR-22 zoning be changed to
+R-4. Notices were sent to property owners within 1,000 feet of the subject property and no
+public comments were received. Ms. Halversen reported that while all properties in the area
+are zoned RR-22, the subject property is the only one that is a one-half acre. The other lots
+in the area range between 0.3 to 0.4-acre in size. There is one lot directly north that is 1.4-
+acre. Mr. Funaro would like to change the zoning to R-4, which would allow him to create
+two 11,000-square-foot lots. There are currently two access points from the lot onto 11800
+South, so there is the potential for a private lane.
+
+Ms. Halversen presented the zoning map and commented that the lots across 11800 South
+are zoned R-4, which is compatible. The current lot has 125 square feet of frontage on
+11800 South. The minimum required for R-4 zoning is 80 feet. The RR-22 zone has animal
+rights if the property is one-half acre or larger. Currently, the subject property has animal
+rights, but they are not utilized. Because the surrounding properties are not a full one-half
+acre, they do not have animal rights. Therefore, changing the zoning to R-4 would not have
+a significant impact on the animal rights issue.
+
+There are implications for the General Plan as it has called out this area as Estate Density
+Residential. However, the minimum square footage is 21,000 square feet and none of the
+lots in the area are that large except the one to the north and the subject property. The
+minimum square footage for the R-4 Zone is 10,000 square feet. Ms. Halverson presented
+a chart showing that with Estate Density, the R-1 and RR-22 zones are the only zones that
+would apply. However, an R-4 zone would allow several other zoning options.
+Riverton City Planning Commission Meeting                                               8
+October 13, 2022
+
+
+There is currently a small home on the southwest corner of the subject property that would
+remain. The applicant proposed a private lane on the east side of the lot that would allow
+for the 125-foot frontage. Each lot would be slightly larger than 11,000 square feet.
+Ms. Halversen presented the zoning changes and qualifications that need to be met. A
+councilmember on the City Council has indicated that it might be worth revisiting the area in
+the General Plan to potentially revise it. If the Commission felt that the qualifications had
+been met, Staff recommended approval of the rezone.
+
+Commissioner Park referenced the adjoining lots and asked for clarification as to whether
+they were too small to be subdivided. Ms. Halversen verified that that was the case unless
+property owners combine their lots.
+
+Commissioner Park asked if they would be moving the east access to the property. It was
+also noted that the site plan would not have to be approved at tonight’s meeting.
+
+Commissioner Gilchrist commented that as part of the R-4 zoning requirements for flag lots,
+the access is not allowed to be counted as part of the buildable lot size. That being the
+case, it did not appear that there would be 10,000 square feet remaining. Ms. Halversen
+understood that the private lane square footage was not part of the 11,000 square feet.
+Mr. Prestwich stated that it could be worked out as part of the Conditional Use Application
+once the zoning is in place because they could use an easement. The discussion continued
+regarding the setback requirements in relation to the overall dimensions.
+
+Commissioner Rushton asked if the adjacent lots have animal rights. Mr. Prestwich
+responded that the owners would have had to have kept animals continuously since about
+1968 when the new zoning code was adopted to still have animal rights. After having dealt
+with the residents in recent years, none of the surrounding properties have maintained
+animals.
+
+It was confirmed that fencing would be considered at a later date. A question was raised
+about the access to 11800 South and if it is a City road or if the Utah Department of
+Transportation (“UDOT”) would have to be involved. Mr. Prestwich confirmed that it is a City
+road.
+
+The applicant, Ally Funaro stated that one interesting thing about her lot is that there is a
+strip of land to the north with a fence that has been used by the applicant for many years.
+She thought that perhaps there would be consideration to include that acreage with her
+property. She would be interested in knowing what it would take to legally own that portion
+and make it part of the overall square footage of the property. She preferred to keep the
+lane access where it is currently but was willing to move it if necessary.
+
+Commissioner Park asked if they had met with a Land Use Attorney regarding the extra
+square footage and their plans to subdivide. His concern was that the applicant was
+requesting a rezone and they may not be able to configure an additional lot with the setback
+requirements. Ms. Funaro stated that they have not met with an attorney at this point. They
+submitted the application as the first step in an effort toward subdividing.
+Riverton City Planning Commission Meeting                                                 9
+October 13, 2022
+
+
+Commissioner Park stated that with the City Council indicating that the area needs to be re-
+examined, what is proposed may align with what the applicant is proposing.
+
+Commissioner Rushton asked if the applicant lives in the home currently. She confirmed
+that she does. She indicated that the additional lot will be sold. Commissioner Rushton
+commented that sometimes property lines can be contentious. He was hesitant to
+recommend a rezone without assurance that the lot is the actual size stated.
+
+Commissioner Gilchrist asked for clarification of the “extra” property described by the
+applicant and whether it was part of the calculations submitted with the application.
+Ms. Funaro stated that the additional strip is not part of the one-half-acre square footage. It
+would add an additional 0.05-acre to the existing lot size.
+
+Commissioner Gilchrist stated that talking to the owner of the property and asking to
+purchase it would be the easiest way to address the issue.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Gilchrist inquired about the mention of a member of the City Council that
+discussed revisiting the General Plan and changing the Estate Density Residential Zone.
+He stated that rezoning the subject parcel to R-4 does not seem like a good idea in the big
+picture. If the City Council wants to reevaluate the General Plan, he wondered if it would be
+detrimental to rezone this parcel to R-4, not knowing what the City Council wants to do.
+Mr. Prestwich stated that this is a legislative action item, so in essence, the Planning
+Commission is offering an opinion to the City Council. The motion can simply recommend
+the application. The City Council would have the ultimate decision.
+
+Chair Cluff asked what zoning would apply to the neighboring lots that are not a full one-half
+acre in size. Mr. Prestwich stated that most of them will only qualify for R-4 zoning.
+
+Commissioner Rushton commented that the Planning Commission is not the Land Use
+Authority. He did not feel that the Planning Commission should deprive a private property
+owner of the right to reasonably develop his or her property. Trying to anticipate what the
+City Council is going to do in the future is a slippery slope for the Commission.
+
+Commissioner Park stated that the owners are allowed to develop their property within the
+zoning currently established ordinance. Asking for a parcel-specific rezone is not the same
+as ‘reasonably developing’ their parcel. Discussion continued regarding what would be
+reasonable development.
+
+Commissioner Rushton asked if the Commission were to approve this parcel as R-4 if the
+City Council could decide to change the zoning of the surrounding area to R-4 in the General
+Plan. Mr. Prestwich stated that it would need to be noticed but the City Council could request
+that action be taken.
+Riverton City Planning Commission Meeting                                                     10
+October 13, 2022
+
+Commissioner Rushton moved that the Planning Commission recommend
+APPROVAL of Application PLZ-22-4009, Funaro General Plan Amendment, and
+Rezone for 0.5 acres at 1794 West 11800 South proposed Rezone to the R-4 zone.
+Commissioner Matheson seconded the motion. Vote on motion: Commissioner
+Rushton-Aye; Commissioner Matheson-Aye; Chair Cluff-Aye; Commissioner
+Gilchrist-Aye; Commissioner Breinholt-Aye; Commissioner Park-Nay. The motion
+passed 5-to-1.
+
+       C.     SUBDIVISION/CONDOMINIUM     -  "SOUTH    PASTURE    OFFICE
+              CONDOMINIUM," PLZ-22-1008, A PROPOSAL TO COMBINE EXISTING
+              LOTS AND SUBDIVIDE AN EXISTING OFFICE BUILDING INTO FIVE (5)
+              OFFICE SUITES OR CONDOS. APPLICANT - ANTHONY MAXFIELD.
+
+Ms. Halversen presented the Staff Report and stated that this application has implications
+for two separate actions. The Site Plan was approved by the Planning Commission in
+October 2021. Lots 15 and 16 are owned by the same developer and they built a medical
+office building on the property. They are now proposing to combine the two lots and develop
+office condos in the interior of the building. The property is located at 12523 South Pasture
+Road. Notices were sent to all property owners within 300 feet and no comments were
+received. The existing lot line cuts through the middle of the building and it is surrounded
+by parking areas and landscaping. There are entrances to the building on the east and west
+sides. She showed the floor plan of the proposed office space divisions and the landscaping
+plan. Staff recommended the two lots be combined into one and that the developer be
+allowed to divide the interior space into office condo space.
+
+Commissioner Matheson asked for clarification as to whether the lot is currently vacant or
+built out. Ms. Halverson stated that the building is nearly completed.
+
+Commissioner Park asked why they would place the building on the property line. He also
+asked if the office space would be sold and privately held. Mr. Prestwich responded that it
+is a common occurrence for office buildings to be divided into individual condo spaces and
+sold. He further explained that it is not prohibited in the ordinance to construct a building
+this way as long as both lots are owned by the same entity. To make it a condo project, the
+lots need to be combined.
+
+The applicant, Anthony Maxfield, reported that he took over management of the project
+about four months ago so he could not speak to why the lot consolidation had not been done
+before construction. The building is about three weeks from completion and the developers
+have been approached by multiple parties who would like to own their own suites rather than
+lease them. They would like to facilitate those requests to the extent possible. While most
+of the suites will be sold, there will be a few that will be retained as a leasehold on the project.
+
+Commissioner Park asked Mr. Maxfield about his experience with these types of projects
+that have mixed ownership and rentals. Mr. Maxfield stated that this is the fourth project of
+this kind where there is a mix of lease and owned units. There are Covenants, Codes, and
+Restrictions (“CC&Rs”) in place and an Owners’ Association established.
+Riverton City Planning Commission Meeting                                               11
+October 13, 2022
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE PLZ-22-
+1008 “South Pasture Office Condos,” located at 12523 South Pasture Road with the
+following conditions:
+
+       1.     Address any outstanding Riverton City staff redline comments on the
+              plans.
+
+       2.     Lots shall be combined with a Plat recorded with Salt Lake County.
+
+Commissioner Rushton seconded the motion.                 The motion passed with the
+unanimous consent of the Commission.
+
+3.     DECISION ITEMS
+
+       A.     SLR FINAL/DETAIL PLAN, “MOUNTAIN RIDGE PHASE 20”.
+
+Mr. Prestwich reported that as these are decision items, no public notices need to be sent
+out. The applications are in the SLR Zoning District, so the SLR zoning and the MDA
+approval processes apply. The Block Scale and Community Scale Plans have previously
+been approved by Planning Commission, so for this application, only the Detail Plans are
+considered. The first is Mountain Ridge Phase 20. It is located south of 13400 South on
+Sentinel Ridge Boulevard. The subject property is south of the phases that are currently
+under construction. Mr. Prestwich presented the Community Scale Plan that was approved
+two to three years ago and identified Phase 20. He reminded the Commission that in June
+2022, the applicant amended the Block Scale Plan and eliminated the church and added
+additional residential units.
+
+Phase 19 is currently under review. Previous phases have roads, curb, gutter, and utilities.
+There is a combination of public and private streets in the development. Phase 20 primarily
+has public streets with a segment on the interior of private streets. The applicant complies
+with the requirements for the Detail Plans.
+
+Staff, including the Fire, Engineering, Storm Water Planning, and Water Departments
+recommended approval with the conditions listed in the Staff Report.
+
+Commissioner Gilchrist asked if the overall requirements for the development include water-
+smart landscaping in the common areas as well as the individual residences. Mr. Prestwich
+stated that he did not recall the details indicated in the Block Scale Plan, however, with the
+proposed density there is not a lot of open space. The individual lots may have a CC&R
+requirement but the developer could address that question.
+
+The applicant, Brandon Watson from Edge Homes, reported that the Mountain Ridge Project
+spans Riverton and Herriman. Herriman adopted the Jordan Valley Water Conservancy
+District’s standard for water-wise landscaping.   The developer is trying to make
+Riverton City Planning Commission Meeting                                                    12
+October 13, 2022
+
+consistencies across City lines for the landscaping requirements. They have Landscaping
+Plans ready to propose to Staff that will be in line with the Jordan Valley Water Conservancy
+District’s standards. The open spaces have been consolidated to create larger park areas,
+so there are no open spaces throughout the development. They have Landscaping Plans
+that incorporate water-wise concepts while still providing grass areas.
+
+The developer will adjust the Landscaping Plan to ensure that they are in line with the water-
+wise requirements. The HOA will also maintain the front yards of the single-family
+residences to help with water conservancy.
+
+Commissioner Rushton wondered, if the housing market softens, if the developer will rent
+the homes rather than sell them. Mr. Watson stated that Edge Homes only offers a for-sale
+product. They have investors, however, who may purchase some of the homes.
+
+Commissioner Park asked if removal of the church property had already been done or if it
+was part of this application. Mr. Prestwich described the process starting with the
+Community Scale Plan (“CSP”) and moving to the Block Scale Plan (“BSP”) with more detail,
+and finally to the Final Site Plan (“FSP”). Both sides of the development were approved as
+the CSP after which the BSP on the west side was approved. It was amended in June 2022
+to eliminate the church and add additional units. Tonight’s meeting was to address the Final
+Site Plan and move forward with the decision that was made in June.
+
+Chair Cluff moved that the Planning Commission APPROVE PLZ-22-8028, “Mountain
+Ridge Phase 20” Final Plan to be located near 13600 South Sentinel Ridge Boulevard
+with the following conditions:
+
+       1.     The Detail Plan shall comply with the terms and conditions approved by
+              the Master Development Agreement (MDA), Suburban Land Reserve
+              Specific Development District, the approved Mountain Ridge CSP, and
+              BSP.
+
+       2.     This Phase shall be subject to final development review and comments
+              by the City, including but not limited to stormwater, culinary, and
+              pressurized irrigation systems design.
+
+Commissioner Breinholt seconded the motion.                   The motion passed with the
+unanimous consent of the Commission.
+
+       B.     SLR FINAL/DETAIL PLAN, “THE PARK AT MOUNTAIN VIEW PHASE 3,”
+
+Mr. Prestwich presented the Staff Report and stated that this project is on the north side of
+Mountain View Village under the same SLR zoning and MDA agreements. It has also
+already gone through the CSP and BSP plans. It was divided into three phases of
+construction and approvals. They have already received approvals for the Final Plans for
+Phases 1 and 2. This is the third Final Plan approval. It is a unique project in that it is a for-
+rent project. All the interior roads and utilities are private. There is a clubhouse in the center.
+He presented the architectural concept from the BSP. There are a total of 364 proposed
+Riverton City Planning Commission Meeting                                           13
+October 13, 2022
+
+units divided into phases. This phase will include completion of the fence along the canal
+and the connection road to Majestic Rise or 13200 South. Mr. Prestwich described the
+Detailed Site Plan and stated that they have worked with Staff regarding stormwater and
+other issues of concern. Staff recommended approval with the conditions set forth in the
+Staff Report.
+
+The applicant, John Christensen from City Creek Reserve represented the ownership of the
+project.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-22-
+8027 “The Park at Mountain View” Detail Plan for Phase 3, with the following
+conditions:
+
+      1.     This Phase shall comply with the terms and conditions approved with
+             the Block Scale Plan, and with the SLR Project Area Master Development
+             Agreement.
+
+      2.     This Phase shall be subject to final development review and comments
+             by the City, including but not limited to stormwater, culinary, and
+             pressurized irrigation systems design.
+
+      3.     Applicant must update their Long-Term Storm Water Management Plan
+             or Covenant to Maintain to reflect the updated site plan as required by
+             City Ordinance.
+
+      4.     A Land Disturbance Permit must be issued by the city prior to any
+             construction grading on the site.
+
+      5.     The site and structures shall comply with any and all applicable Riverton
+             city standards and ordinances, including the International Building and
+             Fire Codes.
+
+Commissioner Gilchrist seconded the motion.             The motion passed with the
+unanimous consent of the Commission.
+
+4.    MINUTES
+
+      A.     MINUTES.
+
+Chair Cluff moved that the Planning Commission ACCEPT the minutes of the
+August 25, 2022, meeting as presented. Commissioner Park seconded the motion.
+The motion passed with the unanimous consent of the Commission.
+
+5.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:30 p.m.
+

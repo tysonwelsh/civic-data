@@ -1,0 +1,1077 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=434&doc_id=be0b69f4-c3da-11eb-bd7e-0050569183fa
+> Meeting date: 2021-05-04
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 4, 2021,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha
+                    Lowery, Fred Lowry, Cal Roberts, and Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Scott
+                    Cooley, City Engineer; Hazel Dunsmore, Human Resource
+                    Director; John Eining, Police Chief; Bret Millburn, Assistant City
+                    Manager; Rhett Ogden, Recreation Director; Christina Oliver,
+                    Community Development Director; Laura Oscarson, City
+                    Recorder; Linda Peterson, Communications Director; Clint Smith,
+                    Fire Chief; and Bob Wylie, Finance Director
+_____________________________________________________________
+This meeting was held electronically.
+This meeting will be an electronic meeting according to Draper City Municipal Code
+       2- 1-040.
+
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the
+Draper City Council with an anchor location presents a substantial risk to the health and
+safety of those who may be present at the anchor location and hereby authorize the
+Draper City Council to conduct electronic meetings without an anchor location.
+
+The foregoing determination is based on the following facts:
+
+   •   Federal, state, and local leaders, including the Draper City Mayor and City
+       Council, have all recognized a global pandemic caused by the spread of the
+       COVID-19 virus.
+   •   While COVID-19 cases and hospitalizations show an encouraging downward
+       trend and vaccines are becoming available to a larger segment of the Draper
+       population, diligence is required so that there is not a rebound in cases and
+       hospitalizations.
+   •   It is difficult, if not impossible, to predict the number of attendees at any
+       meeting and to manage issues regarding social distancing in order to comply
+       with applicable health orders.
+
+
+
+Draper City Council Approved Minutes – June 1, 2021
+      •   COVID-19 poses a continuing and immediate threat to the health, safety, and
+          welfare of Draper City residents and the public in general.
+      •   The City has the technological capability to provide means by which the public
+          may hear, or view and hear, the open portions of the meeting and to
+          participate in public hearings.
+
+
+
+Study Session
+
+1.0       Presentation: Historic Preservation Commission Budget – LaRayne Day
+
+1.1       Ms. Day’s microphone was not turned on so her opening comments were
+          inaudible. When her microphone was adjusted, she was speaking about the
+          cost of plaques of different sizes. She asked Councilmember Vawdrey about
+          what size she envisioned.
+
+          Councilmember Vawdrey said that she envisioned plaques the size of those
+          already at the park. Ms. Day said that she would work with Parks and
+          Recreation on the plaques, but that she had budgeted $5,800 for them.
+
+          Mayor Walker clarified that the plaques discussed were those used to name a
+          trail such as the Phebe Brown Trail.
+
+          Ms. Day asked if one was going to be for Phebe and one for Ebenezer.
+          Councilmember Vawdrey said that it could be whatever the Historic
+          Preservation Commission decided, but there was a possibility for both. She
+          understood that there were two different trails.
+
+          Ms. Day continued that in the commission’s last meeting they voted to do a
+          national register nomination for the Perry Fitzgerald Log Cabin. When she got
+          the bid for this the national register wanted to include the cabin as part of the
+          home that was already there. The cost for the national register nomination
+          would be $1,500.
+
+          Councilmember Vawdrey interrupted to clarify what the Historic Preservation
+          Commission planned for the first item, the trail plaques. She said that the
+          plaques would have images of the people the trails were named after, along
+          with some information about them. They would not just have the names of
+          the trails.
+
+                                                                              Page 2 of 26
+      Ms. Day confirmed that was correct and continued going over the
+      commission’s proposed budget. She said that she had included $1,500 for the
+      walking tour interactive app. She asked if there was someone on staff who
+      created apps or interactive materials.
+
+      Councilmember F. Lowry said that he imagined that creating an interactive
+      app would probably require an outside source. Ms. Day asked what they
+      would be looking at in terms of cost for something like an interactive app.
+      Councilmember F. Lowry said a lot more than $1,500.
+
+      David Dobbins, City Manager, said $10,000. He said that Draper City staff
+      could do that, they just had to talk about the details.
+
+      Ms. Day said that they had one person on the commission who was tech-savvy.
+      She continued to the next budget item, $500 for administrative costs. After
+      asking if there was going to be Draper Days this year and learning that there
+      would not be booths, she said that the $450 allocated towards Draper Days
+      could be put towards something else. The commission’s last item was $250
+      for membership in the National Preservation Society. The total budget was
+      ~$10,000.
+
+      Mayor Walker said that he thought the cabin should be on the national
+      registrar. Not only was it the oldest building in Draper, but he also suspected
+      that it was one of the oldest buildings in the valley.
+
+      Ms. Day said that the cabin probably was one of the first built structures
+      because Ebenezer Brown was one of the first people in the valley.
+
+      Councilmember T. Lowery said that she was excited about the trail panels.
+      She said that she thought that as people walked along the Jordan River, they
+      would be excited to see some of Draper’s history. She said that she was
+      excited about the cabin, too.
+
+      Councilmember F. Lowry thanked Ms. Day for her dedication and help on the
+      Historic Preservation Commission.
+
+2.0   Presentation: Draper Chamber of Commerce Budget – Bill Rappleye
+
+
+
+                                                                        Page 3 of 26
+2.1   Mr. Rappleye, thanked the Mayor and Council for taking the time to meet with
+      them. He said that in the previous year the Draper Chamber of Commerce
+      had planned 20 events and completed seven of them because of COVID. They
+      completed the Business and Employee Relations Training with Chris Redgrave,
+      the State of the City Luncheon, the State of the County Luncheon, a Workforce
+      Services Luncheon, the annual golf tournament, the annual UTA Luncheon,
+      and hosted a national speaker. He said that they spent a good portion of the
+      year gathering resources and information to counteract challenges to COVID
+      and to share that information with local businesses. In addition, the
+      commerce promoted the “Stay Safe, Stay Open” campaign and the “We’re
+      Open” banner program. He noted that the Council eliminated the fee for
+      hanging banners and Steve Smart printed the banners at no cost. The
+      commerce also purchased a Zoom subscription, moved their internet from
+      Century Link to Comcast for higher speed internet. Because of this, they would
+      be changing their email to Comcast as well. As a result of COVID, the
+      commerce also created a daily podcast where they talked with business
+      owners. A person was hired to clean up social media content.
+
+**    Councilmember Roberts joined the meeting at 5:49 PM.
+
+      Dennis Garrett, 2021 Board Chair, said that he owned a coffee shop in Draper.
+      He said that his shop had to close down because of the pandemic. He said
+      that in a traditional year as the board chair he would have hosted a planning
+      meeting in November. However, with fewer board members they struggled to
+      find events to put on the calendar and execute. The commerce had already
+      held three events: The Prospecting Boot Camp in January, the Virtual
+      Leadership Institute in February, and a chamber open house in April. There
+      were four events scheduled in May. The first event was called “Meet My
+      Business”. This was a new event to highlight local Draper businesses and
+      provide some behind-the-scenes highlights about what they were about. The
+      second event would be a Customer Service Online class. Third, was a Zoom
+      meeting called “Meeting the PPP No Pay”. After that would be an event called
+      “Get a Health Insurance Check-Up.”
+
+      Mr. Rappleye stated that at the “Get a Health Insurance Check-Up” they would
+      be offering vaccines.
+
+      Mr. Garrett continued with the June events. He noted that they would
+      continue the “Meet My Business” series, Mayor Walker would provide a Point
+
+                                                                       Page 4 of 26
+      Development update, and there would be a seminar on the best practices for
+      hiring. In July there were two events planned, another “Meet My Business” and
+      then some sort of appearance with Draper Days. August would feature a
+      chamber 401K program and a Chamber luncheon. In September they would
+      host their annual golf tournament and a luncheon on online marketing. The
+      “Meet My Business” series would be continued in October along with the UTA
+      Lunch and Learn. The Spirit Awards Gala would be held in November as the
+      last event.
+
+      Mr. Garrett continued to talk about the larger initiatives and ongoing
+      programs that the chamber was developing. These included things like the
+      post-pandemic strategy group and a contract with a custom survey group that
+      designed surveys for employers to better get to know their employees. Some
+      larger programs in development were some ads on shopping bags. They were
+      quite excited about a program focused on helping businesses build their
+      brands.
+
+      In addition, the chamber was focused on community outreach. He outlined a
+      list of programs and organizations that the chamber was involved in.
+
+      To conclude, Mr. Garrett noted who sponsors the chamber. He pointed out
+      that Draper City was part of the top tier at the community leader platinum
+      level. He said that executive membership level, Draper City would be noted at
+      all of the events as being a sponsor, including being a VIP sponsor for the golf
+      tournament, a full sponsor for many of the events, and would have a full table
+      paid for as a part of the gala. He continued to talk about the different
+      sponsorship levels and what benefits they got for each of their sponsorships.
+      He thanked Draper City for the leadership they offered the chamber and the
+      opportunity to thrive during the period of the pandemic.
+
+2.2   Mayor Walker asked how much the Chamber was requesting in the budget.
+
+      Mr. Rappleye said that the previous budget was $45,000. He said that similar
+      funding would be great. He said that if adjustments were needed, they were
+      open to the Council’s ideas.
+
+      Councilmember Roberts asked how the $45,000 was broken down across the
+      Chamber’s expenses. Mr. Rappleye said that the funding was mainly used for
+      events and other activities. He said that it was hard to separate because there
+
+                                                                         Page 5 of 26
+      were always direct and indirect costs. He said that they don’t buy things
+      necessarily. Often the funds were used to subsidize the labor and cost to put
+      things together.
+
+      Councilmember Roberts asked if the $45,000 went to vendors. Mr. Rappleye
+      said that it went straight to the Chamber. It subsidized labor. He said that he
+      had two part-time employees. He had one employee who was about to retire,
+      but whom the chamber continued to employ because she had institutional
+      knowledge about financials. The second employee was onboarding and
+      learning the ropes.
+
+      Councilmember Roberts asked if there was a breakdown of what the Chamber
+      anticipated spending per event and what the cost was for each employee. Mr.
+      Rappleye said that they did not because a lot of the time spent was for
+      volunteers. He said people serving on the board were volunteers.
+
+      Councilmember Roberts said that for him it would be helpful for him to see an
+      itemized budget so that he could communicate to Draper taxpayers what their
+      money was being used for. He also asked how the chamber was interfacing
+      with South Valley and how they viewed that relationship going forward.
+
+      Mr. Rappleye said that South Valley had not reached out to the Draper
+      Chamber of Commerce to partner on anything. He said that they did not seem
+      interested in collaborating and had their own programs.
+
+2.3   Councilmember T. Lowery said that she shared Councilmember Roberts’
+      concerns about where exactly the money was going. She said that it was a
+      significant amount and the Council had to be accountable to taxpayers. She
+      wanted to know exactly where the money was being spent. She continued
+      that the last time the Chamber presented to the Council she had talked with
+      them about potentially offering some programs to Draper City youth. Options
+      included things like a Young Entrepreneurs Program, a Young Inventors
+      Program, or some mentorship programs. She asked if any of those programs
+      had been implemented.
+
+      Mr. Rappleye said that those programs had been put in the drawer because
+      of COVID. He said that with schools closing and the Chamber being closed that
+      forward momentum on those programs had been stopped.
+
+
+
+                                                                        Page 6 of 26
+      Councilmember T. Lowery said that she did not hear about them in the list of
+      plans for the upcoming year. Mr. Rappleye said that everything they were
+      going to do was not presented. He said that the Chamber had been unable to
+      have a planning retreat because of COVID. He said that their plan had only
+      been put together in the last three weeks because they didn’t know what was
+      going to happen. He said that it was an in-progress plan. He said that there
+      was a lot of work to go into getting the youth programs implemented and that
+      he wanted Councilmember Lowery to understand that it wasn’t as simple as a
+      phone call. Councilmember T. Lowery said that she understood that, but that
+      she thought that a youth program would be something that Draper residents
+      would appreciate.
+
+2.4   Councilmember T. Lowery then asked what were some of the initiatives the
+      Chamber engaged in to support Draper’s local businesses during the
+      pandemic.
+
+      Mr. Rappleye said that there wasn’t a lot that they could do. He said they did
+      provide information about the different grants and loans. He said that the
+      Chamber did not have a fund to be able to give businesses money. He said
+      that they tried to have the on-site videos as much as they could. He asked that
+      the Council keep in mind that he had to cut his hours because there was no
+      income coming in. He said again that they partnered with the “Stay Safe, Stay
+      Open” initiative.
+
+2.5   Councilmember Roberts told Mr. Rappleye that he was at the Point meeting
+      today about the Draper prison site. He said that he was astonished by the size
+      of the project and what it would be for the economic vitality of the area. He
+      said that because of this, he thought that it would be helpful to have a shared
+      strategic vision with the South Valley Chamber of Commerce. He felt like there
+      was value in having local chambers, but that the regional chamber was very
+      involved. He said that he was the liaison from the Council to the South Valley
+      Chamber and asked if Mr. Rappleye would be willing to sit down with them to
+      try and hammer out a shared vision. He said that he would be willing to set
+      up the meeting.
+
+      Mr. Rappleye said that sounded good.
+
+3.0   Training: Open and Public Meetings Act – Mike Barker
+
+
+
+                                                                        Page 7 of 26
+**    Councilmember Roberts left the meeting at 6:06 PM.
+
+3.1   Mike Barker, City Attorney, thanked the Auditor’s Office. He said that they had
+      put together a decent overview video on the Open and Public Meetings Act.
+      He played the seven-minute video and then shared a few slides on changes
+      that happened at the legislative level to the act.
+
+      When the video was over, Mr. Barker addressed some ways that the Open
+      and Public Meetings Act specifically impacted Draper. He said that the
+      Auditor’s video said that public hearings were to adopt a budget or impose
+      taxes or fees. He said that as the Council was well aware, there were other
+      things in Draper City Municipal Code (DCMC) and the state statute that
+      required a public hearing. Some of these additional causes for a public
+      hearing included: Land Use, Development, and Management Act (LUDMA),
+      creating a special service district, annexation and boundary adjustments,
+      changes in salaries of city officers and elected officials, and impact fees. He
+      then made the distinction between a public hearing and a public comment.
+      He said that a public comment, which Draper includes on each of their
+      agendas, allows the public to address the Council on a topic of their choosing.
+      A public hearing on the other hand was a properly noticed hearing that was
+      directed at a specific topic that the public can offer their input on.
+
+      In regards to electronic meetings, Mr. Barker said that Draper had been
+      operating during the pandemic based on amendments to the Open and Public
+      Meetings Act passed in one of several special sessions that the legislature held
+      last year. During the last session, they passed SB 125 that made minor
+      revisions to the Electronic Meetings portion of the code as it pertains to
+      holding an electronic meeting without an anchor location. He said that as
+      Draper met their thresholds, they would be going back into its regular meeting
+      format. However, should another pandemic arise, or an earthquake, the
+      legislature had expanded the Mayor’s authority to hold electronic meetings
+      without an anchor location. He said that Draper had been allowing electronic
+      meetings under the category of “substantial risk to health or safety of those
+      present.” The legislature added that an electronic meeting could be held
+      without an anchor location if the “regular meeting location was closed for
+      health or safety reasons.” An additional provision was added that the chair
+      may shut down a meeting with an anchor location if electronic means have
+      been provided to the public and the chair states the factual base to do so. Mr.
+      Barker interpreted this to mean that if the building started shaking, the Mayor
+
+                                                                         Page 8 of 26
+could take everyone outside and have an electronic meeting out in the parking
+lot.
+
+In regards to closed meetings, Mr. Barker said that the Auditor correctly stated
+the law as of May 4, 2021, but that it would change the following day; the
+Council could not approve an ordinance, resolution, rule regulation, contract
+or appoint pursuant to Utah Code 52-4-204. However, SB 72 made it clear that
+the City Council may not take a vote in a closed meeting, except to open the
+public meeting. This was based on a majority vote.
+
+SB 201 made extensive changes to the publication requirements. The Deseret
+News and Salt Lake Tribune don’t publish a daily paper. This was making
+compliance with some of the publication notice requirements almost
+impossible, especially if that had to be done for three subsequent publications
+rather than three days in a row. At one point that would have been three
+weeks in a row and now it would be impossible to do. SB 201 does away with
+the requirement to publish in a newspaper and on a legal website, returning
+to the state’s requirement that stated public hearings require ten days’ notice.
+The city was also encouraged to advertise on its website and social media. The
+staff has looked at both DCMC and Utah Code to make sure they were
+complying with public hearing notice requirements.
+
+Lastly, Mr. Barker said that HB 2093 clarified that an individual who comes to
+an open meeting and presents electronically, for example, a developer comes
+in and has their PowerPoint, or someone has a handout, those materials have
+to be given to the City Recorder to make sure they are included in the
+documents related to that meeting and comprise the record of that meeting.
+
+Mayor Walker asked for clarification about what the change was in regards to
+the voting in closed meetings. Mr. Barker said that to get out of a closed
+meeting was a simple majority vote. What was new was that a body could not
+take any vote besides exiting the meeting.
+
+Councilmember F. Lowry said that he was perplexed because in a closed
+meeting when the Council was discussing how they might respond to a
+situation they might want to take a vote to see how they want to move forward.
+
+David Dobbins, City Manager, said that the process in the past was for the
+Council and staff to discuss and strategize pending litigation on the best way
+
+                                                                   Page 9 of 26
+      to move forward. Ultimately, the Council will have to vote on or make a
+      contract on an issue in a formal meeting. An actual agreement or settlement
+      could not be voted on in a closed session.
+
+3.2   Mr. Dobbins added that something that he, Mr. Barker, and Kellie Challburg
+      had discussed was the issue of holding public comment on the agendas for
+      boards and commissions. Unlike including public comment at the beginning
+      of each of the City Council’s agendas he recommended that boards and
+      committees not hold public comment. His reason for this was that it was
+      already hard enough for these bodies to get a quorum and appropriately
+      notice.
+
+      Councilmember F. Lowry said that he was fine with that recommendation. He
+      brought up the issue of other boards and commissions outside of the City
+      Council and that it needed to be understood that anytime a group met a
+      quorum, that constituted a public meeting.
+
+      Mr. Barker said that was correct. He said that staff had already presented
+      changes to Title 3 to the Council on what constituted a quorum. He said that
+      he felt the city needed to find a sweet spot on the number of people on a board
+      and what constituted a quorum. He said that some of the larger committees
+      wanted to break down into sub-committees. He said that he thought the city
+      wanted to encourage entities to be able to do that, but not to have the quorum
+      so small that they couldn’t meet without making it a public meeting.
+
+**    Councilmember Roberts returned to the meeting at 6:24 PM.
+
+      Councilmember F. Lowry said that currently the quorum was set as a meeting
+      with three people. He said that for some of those larger groups, a sub-
+      committee could only consist of two people making it difficult to be productive.
+
+      Mr. Dobbins said that staff had shot for three because they were having a
+      difficult time with some of the smaller committees having a quorum. For
+      example, with the Tree Commission, if only four people showed up, they
+      couldn’t even hold the meeting. The quorum was reduced so that these
+      meetings could continue to be held while different boards and committees
+      were becoming fully staffed. As the boards and committees filled their full
+      capacity, Mr. Dobbins thought the quorum could be increased to five.
+
+
+
+                                                                        Page 10 of 26
+      Councilmember F. Lowry said that if you looked at the size of the Parks and
+      Trails Committees, limiting the quorum made being productive difficult. He
+      said that as City Councilmembers, he felt that it was important that they stay
+      on top of the rules for the committees they were in charge of to help oversee
+      the rules and regulations.
+
+      Mr. Barker said that he’d had a conversation with someone today who said
+      that it sounded like the city was trying to become rigid. Mr. Barker responded
+      that as the City Attorney it was his job to make sure they followed the Open
+      and Public Meetings Act. Because of this, some rigidity was necessary. Beyond
+      that, he hoped that the committees could be a little more flexible in how they
+      operate. Despite this, certain benchmarks had to be met to be following the
+      act.
+
+      Councilmember Roberts asked if Councilmember F. Lowry proposed that they
+      have different quorum levels for different boards so that a small group wasn’t
+      controlling. Councilmember F. Lowry said that he thought they may want to
+      look at that. It wasn’t about a small group controlling, but about the group
+      being able to be productive. The Tree Commission had a newly active
+      commission who were trying to respond to the tasks the Council asked them
+      to work on. When they organized a sub-committee and got together, they
+      realize that they had more than three people and had to put the brakes on the
+      meeting because it was going to be a quorum and a public meeting. He said
+      that the same situation occurred in the past week with the Arena Board.
+
+      Mr. Barker said that there wasn’t an issue in requiring that a sub-committee
+      have an open meeting. He said that the challenge was getting people together,
+      getting the agenda, and making sure that it was published appropriately that
+      was the challenge. He said that what was said in a sub-committee meeting
+      was fair game to the public; the city wasn’t trying to hide anything. They
+      wanted to make sure that there was some nimbleness to be able to get that
+      committee together.
+
+4.0   Council/Manager Reports
+
+4.1   Councilmember Vawdrey said that she had a business owner approach her
+      asking about a farmers’ market. The business owner wanted to see Draper
+      have one. She said that there had been a lot of past discussion about this in
+      the past and that the County held a market down at Wheadon Farms, but that
+
+                                                                      Page 11 of 26
+it never seemed to go very far for very long. She wanted to get the Council’s
+opinion if it would be good to pursue a farmers’ market. The gentleman
+offered to be on a committee if a committee was formed to have a farmers’
+market.
+
+Councilmember Roberts said that he loved the idea in theory. He asked why
+they had not worked in the past. Mr. Dobbins said that they had looked at
+farmers’ markets over the years. He said that a big part of a market being
+successful was having a dedicated person to manage the event. It was a little
+bit like a small version of Draper Days every week that required someone to
+manage the people who showed up, direct them where to go, make sure they
+have power, etc. He said that the other challenge was finding the right site.
+During the summer months, it made sense to hold the market at a busy park,
+but that use competed with already overcrowded spaces.
+
+Councilmember Vawdrey said that the gentleman she spoke with did not
+expect or think that the market could be pulled together this year.
+
+Councilmember Roberts asked what a market would take in regards to staff
+resources and other resources/infrastructure. He asked if there was a lot of
+expense and if the team had bandwidth. Mr. Dobbins said a market had not
+been discussed in a while. He would have to talk with staff.
+
+Councilmember F. Lowry asked if the County would partner with Draper. Mr.
+Dobbins said that he didn’t know. Staff could ask.
+
+Councilmember Vawdrey said that she was not proposing that staff take on
+the market. She felt like they could form a committee. She said the staff’s help
+would be great.
+
+Councilmember Roberts asked if there were other regional farmers’ markets
+that could be used to create buzz. Councilmember Vawdrey said that she
+thought the chamber had talked about it once. She felt like there was
+opportunity and that it might just be an issue of getting organized. She said
+that you’d have to get produce and some businesses to come.
+
+Councilmember F. Lowry said that he felt like Draper’s size had grown such
+that there was a demand for a market more so than in the past.
+
+
+
+                                                                  Page 12 of 26
+4.2   Councilmember Vawdrey said that she would like for the Council to create
+      goals and priorities for the commissions for the upcoming year so that the
+      commissions could more easily see the Council’s vision.
+
+      Councilmember Roberts thought that was a great idea. He felt that the Council
+      wanted to give the boards an agenda that comes from the Council. He felt that
+      would be a great way to consolidate the plan.
+
+4.3   Councilmember Roberts said that he was curious about the state changes with
+      COVID mandates what was Draper’s timeline for getting the public back in for
+      meetings.
+
+      Mr. Dobbins said that as of the day of the meeting the pandemic officially
+      ended in Utah. He said that they did need to start having a serious discussion
+      about what the Council wanted to do in regards to opening the City Council
+      Meeting up to the public. He said that there was wide variation in what other
+      cities were doing. Some were as restricted as Draper and some were fully
+      open. He said that he would look to the Council to give staff direction.
+
+      Councilmember F. Lowry asked if other cities required masks. Mr. Dobbins
+      said that masks were not required anymore under state direction. The Council
+      would have to be comfortable knowing that they were potentially inviting folks
+      in without masks. He said that staff could look at options, they just needed to
+      know the comfort level of the Council.
+
+      Councilmember Roberts said that he would like to see the Council move
+      towards allowing the public back in. He felt like they could limit the number
+      of folks present and have some social distancing as mentioned. They could
+      then give the pandemic a bit more time to slowly move back into full public
+      meetings as cases continue to decrease and vaccinations go up.
+
+      Mayor Walker said that he thought the idea of a limited number would work.
+      He didn’t quite know how to respond to this statement that the pandemic was
+      over. He said that he had a close family member die three weeks ago from
+      COVID.
+
+4.4   Councilmember F. Lowry returned to issues related to commissions and
+      boards. He wanted to report on both the Tree Commission and the Arena
+      Board. He agreed with Councilmember Vawdrey that coming up with goals for
+
+                                                                       Page 13 of 26
+      each of the commissions was an important step to take. He said that he had
+      tried to do that with the Tree Commission based on what was discussed as a
+      Council. The Tree Commission had created two sub-committees. The first was
+      a water conservancy committee that was working on zero scaping that could
+      be presented back to the Council and shared on the website. The second sub-
+      committee was focused on public outreach. Their goal was to help educate
+      residents about putting the right tree in the right place and helping with water
+      conservation. In addition to posting content on the website, the commission
+      wants to include information in the Draper Forward and the monthly e-
+      newsletter. The Tree Commission also has appreciated staff who have been
+      working with them. He said that Jennifer Jastremsky, Senior Planner, had been
+      great in working with the commission on items related to city code.
+
+      In regards to the Arena Board, he would like to discuss changing the name of
+      the board or how the board was defined. He said that it’s the natural tendency
+      to look at the Arena Board and think it has an equestrian connection. The
+      board was a lot more than that. In effect, it was being asked to put together
+      events at the equestrian center. He said that there were great opportunities
+      that could be used beyond just the rodeo. The Arena Board didn’t do the
+      rodeo anyway; it was done by the foundation. Rather, the Arena Board was
+      putting together a motocross event, had ideas for some concerts, and some
+      other ideas. He felt like new members were needed and that if the name of
+      the committee was changed to include events or event planning that more
+      individuals might be attracted.
+
+      Mayor Walker asked how the committee would feel about an MMA event,
+      Mixed Martial Arts. Councilmember F. Lowry said that he thought that would
+      be awesome. Mayor Walker said that he was the chair of the commission so
+      he could make it happen. Councilmember F. Lowry said that Draper had a
+      huge outdoor arena that could be used for so many events. He said that there
+      wasn’t a better view of the valley than that arena. He said that it could host
+      some cool things.
+
+4.5   Councilmember F. Lowry said, in regards to preparing for the rodeo, the
+      Arena Board was going to meet with some folks from the Parks Committee.
+      Some improvements needed to be made to the arena so that it could be ready
+      for the rodeo. He didn’t think that there would be major expenses. He
+      thanked the Wadsworth Company who had volunteered time and welders to
+
+
+
+                                                                        Page 14 of 26
+      do some repair work. He felt like Draper needed to do something as a city to
+      recognize the Wadsworth Company for how they have contributed.
+
+      Councilmember Vawdrey said she happened to know the chair of the board
+      who mentioned the disrepair of the arena and came home with a bunch of
+      puncture weed stickers in his shoes. She wondered if there could be a cleanup
+      day.
+
+      Councilmember F. Lowry said that there had been a discussion about having
+      the full Arena Board and the Foundation combine to do some of the cleanup.
+      He thought that could be expanded beyond those two groups. He said that
+      there were a lot of weeds at the arena.
+
+      Mayor Walker said that he thought that it was going to be a banner year for
+      them. He said they seemed to be everywhere.
+
+      Councilmember T. Lowery said that she didn’t have anything but that she
+      loved the idea of a farmer’s market.
+
+      Councilmember F. Lowry said that the arena was another option for the
+      farmers’ market.
+
+4.6   Mr. Dobbins wanted to remind the Council that Christina Oliver, Community
+      Development Director, was leaving Draper staff next week. He wanted to
+      thank her for her time. He said that it was a difficult job that she had done a
+      great job at.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Proclamation: Arbor Day 2021
+
+      Mayor Walker read the Arbor Day 2021 Proclamation:
+
+          Whereas in 1872 J. Sterling Morton proposed to the National Board of
+          Agriculture that a special day be set aside for the planting of trees; and
+          whereas this holiday called Arbor Day was first observed with the planting
+          of more than one million trees in Nebraska and Arbor Day is now observed
+
+                                                                       Page 15 of 26
+          throughout the nation and the world; and whereas trees reduce the
+          erosion of precious top soil by wind and water, cut heating and cooling
+          costs, moderate temperature, clean the air, produce oxygen and provide
+          habitat for wildlife; and whereas trees are a renewable resource, giving us
+          paper, wood for our homes, fuel for our fires, and countless other wood
+          products; and whereas trees in Draper City increase property values and
+          enhance the economic vitality of business areas and beautify our
+          community; and whereas Draper City has been recognized as a Tree City
+          USA by the National Arbor Day Foundation and seeks to continue its tree
+          planting practices; now therefore, I, Mayor Troy K. Walker of Draper City,
+          along with the members of the Draper City Council do herby proclaim April
+          30th, 2021 as Arbor Day in Draper City and encourage residents to
+          celebrate Arbor Day and support efforts to protect our trees and
+          woodlands.
+
+      Mayor Walker said that there was an Arbor Day celebration where those who
+      were available planted two trees in a park off Osborne Lane. He said that it
+      was great. He said that Draper had been a Tree City USA for 27 years. He said
+      it was nice to continue with the designation as a Tree City USA.
+
+3.0   Public Comments
+
+4.0   Consent Items
+      a. Approval of April 20, 2021, City Council Meeting Minutes
+      b. Approval of Resolution #21-14, amending Policy 10400- Vehicle Usage and
+         Accident Reporting.
+      c. Approval of Resolution #21-18, amending the Consolidated Fee Schedule
+         reducing the monthly Storm Water Utility Fee, changing the name for Lot
+         Line Adjustments, and splitting out Subdivision Plat Amendments into
+         separate types.
+      d. Approval of Resolution #21-20, appointing Susan Nixon as an alternate
+         member of the Draper City Planning Commission.
+
+4.1   Councilmember Vawdrey moved to approve                 the   Consent    Items.
+      Councilmember Roberts seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+
+
+                                                                       Page 16 of 26
+5.0   Public Hearing: Ordinance #1484, an ordinance amending the official zoning
+      map of Draper City for approximately 0.99 acres of property from RA1
+      (Residential Agricultural, 40,000 square foot lot minimum) to RA2 (Residential
+      Agricultural, 20,000 square foot lot minimum), located at approximately 13785
+      South 300 East within Draper City, otherwise known as the HMB Zoning Map
+      Amendment.
+
+5.1   Travis Van Ekelenburg, Planner, said the item was for the HMB rezone. He
+      displayed the land use map of the General Plan and noted that the property
+      was surrounded by residential low to medium density. When looking at the
+      zoning map, the property was surrounded by RA1 and RM1 zoning designation
+      with RM2 to the east. The property was currently zoned RA1 and was
+      developed as a single-family home in 1985. The applicant requested that a
+      zoning map amendment be approved to change the zoning of the property
+      from RA1 to RA2 for a possible future subdivision on the property or to secure
+      the property from being zoned to a higher density. The RA2 zone requires a
+      20,000 square foot minimum lot size. Since the property was approximately
+      one acre in size, the RA2 zone designation would meet the requirement. On
+      April 8, 2021, the Planning Commission provided a positive recommendation
+      to the City Council to approve the zone change with a vote of 5-0.
+
+5.2   Howard Beik, the applicant, said that he lived right next to the property in
+      question. He explained that he initially purchased the property to prevent
+      developers from developing what was on the corner. He said that he lived in
+      the community. That dividing the property in half was well within what was
+      originally contemplated given that it was an acre lot. Given that he had no idea
+      what was going to happen with Draper’s development, on the advice of his
+      father-in-law, he wanted to keep the option to be able to subdivide. He said
+      that if he wanted to develop further, his neighbors would run him out of town.
+      He had no intention of doing that. He felt that what he asked for was
+      reasonable.
+
+5.3   Mayor Walker opened the public hearing. Mayor Walker closed the public
+      hearing.
+
+5.4   Councilmember F. Lowry moved to approve Ordinance #1484, the HMB
+      Zoning Map Amendment. Councilmember Vawdrey seconded the motion.
+
+
+
+
+                                                                       Page 17 of 26
+5.5   Councilmember F. Lowry said he thought that this request was a great use of
+      the lot. He said that he was happy to see that as an option for the lot. He
+      appreciated what the applicant did.
+
+5.6   Councilmember T. Lowery said that she agreed that this was a good use of the
+      lot. She asked if the lot was developed if there would be a second driveway or
+      if there would be access to the original driveway.
+
+      Mr. Ekelenburg said that the item was just for the rezone part of development.
+      He said that if the lot were developed there would be two single-family homes
+      on the property with the zoning designation.
+
+      Jennifer Jastremsky, Senior Planner, said that there were a couple of options a
+      developer could consider at the time of subdivision: they could have a private
+      lane that provided access to both homes, or they could have direct access from
+      300 East. She said that at this point there were no subdivision plots so staff
+      had not evaluated the specific access.
+
+5.7   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Public Hearing: Ordinance #1488, an ordinance of Draper City amending the
+      text of the Land Use and Development Code (Title 9) and the Land
+      Development Code (Title 17) of the Draper City Municipal Code relating to
+      definitions, regulations, and general standards in Code Sections 9-3-040, 9-5-
+      200, 9-27-200, 9-42-040, 17-1-040, 17-1-085, 17-3-030, 17-4-030, 17-5-030, 17-
+      9-050, 17-9-060, and enacting a new section 17-1-075: Land Use Exemptions
+      for Single Family Dwellings.
+
+6.1   Todd Draper, planner, said that in the 2021 legislative session several bills
+      dealt with land use regulations and subdivision. The proposed amendments
+      to Draper City Municipal Code (DCMC) were needed to comply with the many
+      new regulations. He said that as he did with the Planning Commission, he
+      would trust that the Council was able to read all of the text amendments and
+      he would forgo the 51 slides for the presentation. He was open to specific
+      questions from the Council. The Planning Commission recommended
+      approval of these changes to the City Council with a vote of 5-0.
+
+
+
+
+                                                                       Page 18 of 26
+6.2   Mayor Walker opened the public hearing. Mayor Walker closed the public
+      hearing.
+
+6.3   Councilmember T.     Lowery moved to approve                  Ordinance    #1488.
+      Councilmember Roberts seconded the motion.
+
+6.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Action Item: Ordinance #1489, an ordinance amending Title 2 of the Draper
+      City Municipal Code regarding the publication of approved ordinances and
+      election notices.
+
+7.1   Laura Oscarson, City Recorder, said that as Mr. Barker discussed in the Study
+      Session when the legislature passed SB 201, this made it necessary to amend
+      DCMC Title 2. She said in the future there might be more changes that were
+      needed. She said that SB 201 was more than 200 pages long. The first change
+      would address the publication of approved ordinances. The change to DCMC
+      denotes that new ordinance approvals would be posted on the Utah Public
+      Notice Website and the requirement to publish the approval of an ordinance
+      in the paper would be removed. The second change was to Draper City’s
+      election notice. The only change to this section of the code was to remove the
+      requirement to publish notifications in the newspaper and renumbering the
+      ordinance accordingly.
+
+7.2   Councilmember F. Lowry asked if there was a place to publish on social media
+      that could be utilized as a part of the noticing.
+
+      Ms. Oscarson asked Councilmember F. Lowry if there was a particular
+      platform he was concerned about. She said that if he looked at the code
+      related to taking office, those notices for elections had to be posted at City Hall
+      and also to be noticed on the city website, in the city newsletter, or with utility
+      bills. Ordinances typically are not advertised on social media, but the City kept
+      noticing requirements at the level of what the state required.
+
+      Mayor Walker said that one of the problems with noticing via channels that
+      were not required was that it created an expectation that could cause
+      dissatisfaction if the posting was ever missed.
+
+
+
+                                                                          Page 19 of 26
+7.3   Councilmember F.     Lowry moved to approve                  Ordinance    #1489.
+      Councilmember Vawdrey seconded the motion.
+
+7.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Action Item: Resolution #21-19, adopting the Tentative Budget for Fiscal Year
+      ending June 30, 2022, and setting the public hearing for June 1, 2021, to take
+      public comment on the Tentative Budget.
+
+8.1   Bob Wylie, Finance Director, presented the tentative budget for FY2022. He
+      began by talking about the letter at the beginning of the budget. He said that
+      the tentative FY22 budget was balanced throughout the city. He explained that
+      there were 10 major city funds with a total budget of $104,999,600. This
+      includes current and newly projected capital projects. He pointed out some
+      highlights of the General Fund. The project budget for the General Fund in
+      FY22 was $35,370,000. At the time, staff had not yet received the certified
+      property tax rate from the State Tax Commission. It was not anticipated that
+      staff would receive this until June 10th, 2021. Right now, it was indicated in the
+      budget to adopt that certified rate. There was also some new growth included
+      that would cause an increase in property tax revenues. He said that of the $35
+      million, $29 million or 82.0% of the General Fund revenues did come from
+      sales and property taxes. He continued that throughout the General Fund
+      tentative budget there was a proposal for a 5% salary increase adjustment.
+      This was a 2% COLA and 3% merit. Public safety had the respective step system
+      for salary increases included in the proposed budget. There were no new
+      employee positions included in the FY22 budget.
+
+      In the Enterprise Funds (Culinary Water, Storm Water, Solid Waste, and
+      Ambulance Funds), there was a combined budget of $16 million. He noted
+      that one of the consent items was the consolidated fees. The Storm Water
+      Fund represented a $2 a month decrease in the monthly bill. This represents
+      a 22% rate reduction. The other enterprise funds did not have an increase in
+      rates. The proposed budget did include funds for capital increase such as a
+      new garbage truck and some other light-duty trucks from the Culinary Water
+      and Storm Water Funds. The Water Department had also requested a
+      replacement of their water service truck for $230,000. One new operational
+      program was added to the Water Fund for $50,000 for annual tank cleaning.
+
+
+
+                                                                         Page 20 of 26
+      There were two Internal Service Funds in the FY22 budget: The Risk
+      Management Fund and Fleet Management Fund.
+
+      Mr. Wylie continued that the Community Development Renewal Agency Fund
+      2010 would be addressed as a separate budget item at the RDA meeting. The
+      Municipal Building Authority (MBA) Fund did not have a budget because of the
+      bond defeasement that occurred in FY21.
+
+      The Capital Improvement Projects Funds had a budget of $29 million. These
+      projects had been previously approved and funded by the City Council. Also
+      included in the budget were reoccurring projects for the replacement and
+      maintenance programs. Included in this was a vehicle replacement for
+      $767,000.
+
+      Mr. Wylie said that if the Council adopted the tentative budget, it would
+      become available to the public through the website with hard copies
+      accessible. A public hearing needed to be set for June 1, 2021, for the budget.
+      After staff received the certified tax rate later in June, they would bring the
+      Council the final budget for FY22.
+
+8.2   Mr. Dobbins said that his focus for next year’s budget was on employees. He
+      said that if you looked at the open positions on Draper’s website, there was a
+      lot. The job market had become so tight that it was becoming very difficult to
+      recruit new employees. He said that he would rather spend money on
+      retaining employees as opposed to trying to get new ones. He said that giving
+      folks the ability to stay in Draper saved the city money in the long run and
+      prevented training and turnover. He said that was the justification for the 5%
+      salary increase. He said that covered retirement and benefits. Because of this,
+      there was not a big focus on new projects and programs because he believed
+      in the need to focus on core functions and responsibilities at least for another
+      year. He said that before he had departments looking at what else they could
+      do, he felt like the city was in a position where they needed to make sure they
+      could sustain what it was already committed to.
+
+      He also spoke about the federal funding that would come with the next round
+      of stimulus money. He said that the staff did not know what that would look
+      like. He said that he was on a call last week with the National League of Cities.
+      Their takes were that “whatever you’ve been told so far is probably wrong.”
+      Staff had no idea how much money, when it would come, or how they would
+
+                                                                        Page 21 of 26
+be able to spend it. The proposed budget took the approach to continue doing
+what had been done in the previous year and to just wait to see what would
+come of the stimulus money. Most likely in the late summer or early fall, staff
+would come back to the Council with one-time funds that would free up other
+money for one-time projects. He said that it looked like anywhere from $5-10
+million would come to Draper. That could significantly change what the city
+could do with the upcoming budget.
+
+Councilmember F. Lowry asked Mr. Dobbins if he felt that the 5% increase
+was enough to help with staff retention. Mr. Dobbins said that in general yes.
+He said that staff had adjusted for specific positions. He said that they would
+look at what the market dictated for certain positions. If staff found that some
+positions were well below market compensation, they would be addressed
+individually. He said that although generally, the 5% adjustment was enough,
+it did look like everything was going up. He said that other cities were
+struggling to find new employees. Draper was facing retirements from
+employees. He said that he felt nervous. He did not know that the 5% was
+going to get them through the whole year. He said that he would like to get
+the budget adopted as proposed and then revisit the question of salaries in a
+few months when they knew about the stimulus money. He said that a year
+ago, Draper pulled back on sales tax because they were scared that with the
+pandemic, they wouldn’t hit the expected budget. That turned out very
+differently than anticipated. He said that the years of projecting comfortably
+were over. Last year he wasn’t comfortable and this year he wasn’t
+comfortable either.
+
+Councilmember F. Lowry said that he was supportive of increasing staff wages
+if that was necessary when the issue was reevaluated later.
+
+Mr. Dobbins reminded that the Council was not adopting the budget tonight.
+They were adopting the tentative budget. This served as a starting point. He
+encouraged the Council to sit down with him or Mr. Wylie if certain programs
+or projects were not included in the budget.
+
+Councilmember Roberts asked if there was a sense of the year-over-year
+increase in the General Fund expenditures.
+
+Mr. Wylie said that last year there was $2.8 million from the CARES Act. This
+skewed last year’s budget. When that money was taken out, there was growth.
+
+                                                                 Page 22 of 26
+He said that when he looked at FY21, the current budget, the city added 16
+items in the General Fund for $800,000. He said that operational costs had not
+increased, but payroll and compensation had. He said that payroll was roughly
+63% of the General Fund. This went up 2-3% a year.
+
+Councilmember Roberts said that the payroll piece in the proposed budget
+was 5% going forward. He asked what percentage of the property tax base
+had increased over time.
+
+Mr. Wylie said he had the number on an excel spreadsheet, but he didn’t know
+the number here. He said he could send that information to the Council.
+
+Councilmember Roberts said that he guessed that the property tax revenue
+increase was growing at a smaller rate than the General Fund budget.
+
+Mr. Wylie said that Draper’s property taxes brought in about $8 million, or
+one-third of the overall payroll for the city.
+
+Councilmember Roberts said again that he sensed that the rate of growth in
+expenditure of the General Fund was increasing a greater percentage than the
+rate of growth in property tax revenues. Because of this, the City would be
+relying on increases in sales taxes to meet growing expenditures. He asked if
+there was a sense of the increase in sales taxes year-over-year.
+
+Mr. Wylie said that they had budgeted conservatively on sales tax revenues
+for FY22, a 4% increase from FY21. He said that sales tax revenues had been
+increasing by close to 8-9% the last few years. He said that, as was mentioned
+by Mr. Dobbins, in FY21 they took out $2.5 million in sales tax revenues.
+
+Councilmember Roberts said that the increase in sales tax revenues had been
+the main piece to offset increases in General Fund expenditures.
+
+Mr. Wylie said that property taxes as a result of new growth were only
+increasing by $300,000 a year, whereas sales taxes were increasing by
+$800,000 or more.
+
+Councilmember Roberts asked Mr. Dobbins about the strategy for attracting
+more sales tax in the city and some places where there had been wins and
+challenges. Mr. Dobbins said that the City had seen a reduction in the growth
+
+                                                                Page 23 of 26
+of new businesses. He said that the City’s strategy for a long while had been
+to focus on sales tax as opposed to property tax growth. They went after IKEA
+and RC Willey. Staff had also focused on bringing in car dealerships. Another
+large furniture retailer that was not currently in Utah was close to being
+secured to be based in Draper. He said that staff had heard complaints about
+the growth in Draper. However, in regards to forecasting how to keep
+employees and continue doing projects, it was much easier to go after sales
+tax than property taxes.
+
+Councilmember Roberts noted that Mr. Dobbins had explained that the
+priority for this year’s budget and how it reflected his values. He clarified that
+the goal of the budget was to retain talent and fill vacant positions.
+
+Mr. Dobbins said that it was. He said that if you asked department directors,
+they would all tell the Council what their individual needs were. He was
+forthright that the budget did not reflect what they wanted to see in it. Despite
+this, he would rather have flexibility built into the budget so that in a few
+months if the city had to address employees who were looking elsewhere or
+attracting new employees that there were funds to negotiate. He said that if
+they don’t have staff to fill the basic functions, none of the additional projects
+were possible. That was his strategy.
+
+Councilmember Roberts thanked staff for fielding his questions. He said that
+he thought that prior city leadership, Mr. Dobbins and Mayor Walker, had
+done a great job of building out a great, diversified, commercial tax base. He
+thought that the city was benefiting from that effort.
+
+Mayor Walker said that when he first started as mayor, Draper was one of the
+first cities to go to the retailers’ convention. It was like a secret. Now everyone
+goes. He said that it was strategic. When he ran for office as a councilmember
+originally, it was because he did not want property taxes to keep going up as
+they do in other cities that do not have a commercial base. He noted that now
+the legislature wanted to take some of the retail tax bases from Draper
+because other cities had not done such a great job.
+
+Councilmember Roberts asked if Mr. Wylie or Mr. Dobbins could speak to that
+threat. Mr. Dobbins said that other cities who were not on 1-15 or who had
+not put out the same effort or emphasis on sales tax and retail had made
+claims to the legislature that their revenues were not fair. This year the issue
+
+                                                                    Page 24 of 26
+of sales taxes was contextualized differently. In the past cities kept commercial
+zones in place because they saw certain properties as being good locations for
+commercial activity. Because of this, they would be unwilling to change
+commercial zones to residential zones. If, for example, an area was zoned
+commercial and someone came in and said they wanted to put in a multi-
+family development, Draper might say that an area was great retail space and
+deny the residential zone change. People in the state legislature had said that
+they did not like that approach and had proposed strategies that would create
+disincentives for the city to keep commercial zones such as preventing cities
+from collecting sales taxes in the future on properties. He said that there was
+a formula based on population. The 1% sales tax gets split up. Other cities
+have made the argument that if they can’t attract car dealerships the same
+way Draper does why should Draper get the advantage. Legislators have
+suggested that sales tax should be awarded strictly on population. Every city
+will get the same amount based on population, regardless of the location of
+the sale. He said that discussion comes and goes every session and it was
+brought up again in the 2021 session.
+
+Mayor Walker said his issue was that there were a lot of cities that strategically
+don’t want commercial entities and sales tax. He said that it went back to the
+RC Willey deal. He said that Draper had been aggressive and strategic about
+increasing their sales taxes. Other cities didn’t want that and that was fine.
+
+Mr. Dobbins said that Draper had always fought against the sales tax being
+divided strictly on population. If that happened Draper would see a loss of
+millions of dollars of revenue that would have to be put on the property tax.
+That would cause a huge outcry from the public in Draper.
+
+Councilmember F. Lowry asked if that sales tax was then going to be equally
+distributed, who would have to pay for servicing those commercial
+establishments. Part of the sales tax was to help service that.
+
+Mr. Dobbins said that he thought what would happen was the flip side: cities
+would say that they wouldn’t host commercial retailers because they didn’t
+want to hold the burden that came with it. Then staff would have to break out
+the pencil and say that hosting commercial spaces did not work. He asked who
+wanted large, big-box retail that you got no tax revenue from.
+
+
+
+
+                                                                   Page 25 of 26
+       Councilmember Roberts said that would completely               disincentivize
+       commercial. Why would you want any retail at all?
+
+8.3    Councilmember Vawdrey moved to approve Resolution #21-19, adopting the
+       Tentative Budget and setting the public hearing for June 1, 2021.
+        Councilmember T. Lowery seconded the motion.
+
+8.4    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0    Recess to a Redevelopment Agency meeting.
+
+9.1    Councilmember T. Lowery moved to recess to a Redevelopment Agency
+       Meeting. Councilmember Vawdrey seconded the motion.
+
+9.2    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Adjournment
+
+10.1   Councilmember Green moved to adjourn the meeting.            Councilmember
+       Lowery seconded the motion.
+
+10.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+10.3   The meeting adjourned at 7:47 p.m.
+
+
+
+
+                                                                      Page 26 of 26
+

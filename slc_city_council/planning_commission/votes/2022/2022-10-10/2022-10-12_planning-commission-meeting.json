@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "date": "2022-10-12",
+    "year": "2022",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2022/10.%20October/PC10.12.2022minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2022/2022-10-10/2022-10-12_planning-commission-meeting.md",
+    "present": [
+      "Maurine Bachman",
+      "Mike Christensen",
+      "Amy Barry",
+      "Aimee Burrows",
+      "Andres Paredes",
+      "Rich Tuttle",
+      "Andra Ghent",
+      "Jon Lee",
+      "Levi Oliveira"
+    ],
+    "absent": [
+      "Brenda Scheer"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the minutes for September 28, 2022",
+      "description": "approve the minutes for September 28, 2022",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Amy Barry",
+      "seconder": "Jon Lee",
+      "result": "8:0 Pass",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Mike Christensen",
+        "Jon Lee",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Levi Oliveira"
+      ],
+      "nay": [],
+      "abstain": [
+        "Andres Paredes"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a negative recommendation for the 704 E",
+      "description": "forward a negative recommendation for the 704 E",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "",
+      "result": "Negative recommendation 9:0",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Mike Christensen",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Andra Ghent",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Jon Lee",
+        "Andres Paredes"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve PLNPCM2022- 00664 Three Eagles Planned Development at approximately 1375 South 1000 West with the following conditions of approval: 1",
+      "description": "approve PLNPCM2022- 00664 Three Eagles Planned Development at approximately 1375 South 1000 West with the following conditions of approval: 1",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Amy Barry",
+      "seconder": "",
+      "result": "9:0 Approved (Final Action)",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Mike Christensen",
+        "Andres Paredes",
+        "Jon Lee",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Levi Oliveira"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

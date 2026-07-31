@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "April 26, 2021", "name": "Don Shelton (Loan)", "city": "South Jordan", "state": "UT", "amount": "5,000", "in_kind": false},
+    {"date": "May 15, 2021", "name": "Glenmoor Golf Club (In Kind)", "city": "South Jordan", "state": "UT", "amount": "196.01", "in_kind": true},
+    {"date": "May 18, 2021", "name": "Salt Lake Board of Realtors", "city": "Sandy", "state": "UT", "amount": "1,000", "in_kind": false},
+    {"date": "May 19, 2021", "name": "Aaron Starks", "city": "South Jordan", "state": "UT", "amount": "75", "in_kind": false},
+    {"date": "June 3, 2021", "name": "Trevor Darby", "city": "South Jordan", "state": "UT", "amount": "250", "in_kind": false},
+    {"date": "May 21, 2021", "name": "Salt Lake Board of Realtors (In Kind)", "city": "Sandy", "state": "UT", "amount": "250", "in_kind": true},
+    {"date": "June 28, 2021", "name": "Salt Lake Board of Realtors (In Kind)", "city": "Sandy", "state": "UT", "amount": "750", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "April 27, 2021", "recipient": "Majority 51", "purpose": "Consulting, Website, Signs, Door Hangers, Mass Email", "amount": "3,350", "in_kind": false},
+    {"date": "May 15, 2021", "recipient": "Glenmoor Golf Club", "purpose": "Catering and Room Rental", "amount": "138.03", "in_kind": false},
+    {"date": "May 15, 2021", "recipient": "Glenmoor Golf Club", "purpose": "Signs and Catering Discount (In Kind)", "amount": "196.01", "in_kind": true},
+    {"date": "June 3, 2021", "recipient": "Pay Pal", "purpose": "Transaction Fee", "amount": "7.55", "in_kind": false},
+    {"date": "Oct. 6, 2021", "recipient": "Home Depot", "purpose": "Poles for signs and Zip Ties", "amount": "40.87", "in_kind": false},
+    {"date": "Oct. 13, 2021", "recipient": "Lowes", "purpose": "Poles for signs", "amount": "11.55", "in_kind": false},
+    {"date": "May 21, 2021", "recipient": "Salt Lake Board of Realtors (In Kind)", "purpose": "Flier Design", "amount": "250", "in_kind": true},
+    {"date": "June 28, 2021", "recipient": "Salt Lake Board of Realtors (In Kind)", "purpose": "Digital Advertising", "amount": "750", "in_kind": true}
+  ],
+  "total_contributions": "7,521.01",
+  "total_expenditures": "4,744.01",
+  "total_contributions_ytd": "7,521.01",
+  "total_expenditures_ytd": "4,744.01"
+}

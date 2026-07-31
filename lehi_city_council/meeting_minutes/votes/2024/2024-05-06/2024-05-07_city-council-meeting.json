@@ -1,0 +1,58 @@
+{
+ "date": "2024-05-07",
+ "title": "City Council",
+ "slug": "city-council-meeting",
+ "default_body": "Council",
+ "source": "meeting_minutes/minutes/2024/2024-05-06/2024-05-07_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Consideration of Resolution #2024-22 amending the Construction Management Agreement/General CMGC Services Agreement with SIRQ Construction. Lisa Webster, Project Manager, stated that the contract was amended to clarify that any of the subcontractors listed in the GMP were not a final selection.",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5:0 Pass",
+   "mover": "Paul Hancock",
+   "seconder": "Paige Albrecht",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Paul Hancock",
+    "Heather Newall",
+    "Michelle Stallings"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Councilor Albrecht moved to adjourn into a closed session to discuss the character,     professional competence, or physical or mental health of an individual. Councilor Condie     seconded the motion.",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5:0 Pass",
+   "mover": "Paige Albrecht",
+   "seconder": "Chris Condie",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Paul Hancock",
+    "Heather Newall",
+    "Michelle Stallings"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  }
+ ]
+}

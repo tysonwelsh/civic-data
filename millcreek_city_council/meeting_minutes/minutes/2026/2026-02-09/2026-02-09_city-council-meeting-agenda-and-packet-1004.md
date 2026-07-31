@@ -1,0 +1,578 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02092026-1004
+> Meeting date: 2026-02-09
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2026-02-09
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02092026-1004
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes             of the
+                                                                                        Millcreek             City      Council
+                                                                                            February                 9, 2026
+                                                                                                       6:00     p.m.
+                                                                                                 Work         Meeting
+                                                                                                       7:00     p.m.
+                                                                                            Regular             Meeting
+
+
+The City       Council       of Millcreek,                Utah,     met in a public        work        meeting          and regular          meeting        on
+February       9, 2026,      at City              Hall,   located     at 1330 E. Chambers                Avenue,            Millcreek,        UT 84106.           The
+meeting       was recorded            for the City's              website      and had an option               for online          public     coini'nent.
+
+
+PRESENT:
+
+
+Council       Members                                                                     City      Staff
+Cheri     Jackson,        Mayor                                                           Mike         Winder,         City     Manager
+Silvia    Catten,     District        I                                                   Elyse        Sullivan,        City     Recorder
+Thom      DeSirant,        District           2                                           John Brems,                City     Attorney
+Nicole     Handy,      District           3                                               Kurt      Hansen,           Facilities        Director
+Bev Uipi,       District     4                                                            Rita Lund,           Communications                  Director
+                                                                                          John Miller,            Public        Works        Director
+                                                                                          Kayla        Mayers,          Promise         Program       Director
+                                                                                          Aaron         Roberts,        Storm       Water      Operations           and
+                                                                                          Construction               Manager
+                                                                                          Erica      Okada,          Public      Information          Manager
+
+
+Attendees:        Rick      Hansen,               Evan Tyrrell,       Kristian      Buchanon,           Peter Frost,            Kelly     Noorda,       Chief
+Petty-Brown,         Kyle      Taft
+
+
+WORK          MEETING               - 6:00 p.m.
+TIME       COMMENCED:                         6:00 p.m.
+
+
+
+Mayor     Jackson         called    the work              meeting      to order.
+
+
+1. Wasatch        Front       Waste               and Recycling          District       Report;         Evan         Tyrrell,       General        Manager
+Evan Tyrrell        provided          an overview             of the organization's                services,         operations,          and 2025
+perfonnance,         emphasizing                   both core residential            collection         services        and the extensive              support
+programs       delivered         behind            the scenes. In addition            to weekly          garbage            and recycling          collection,
+the organization           offers     seasonal            container      reservations,           a landfill      voucher           program,        glass drop-
+off locations,       a highly         successful           leaf bag collection           program,           green waste reclamation,                        and
+ongoing       recycling      education               and outreach.           Customer      sei'vice,      billing,          and account         management
+are handled       in-house,         including             the recent     transition      to monthly            billing.         While       a minor     e-billing
+integration      issue caused some customers                           to see what        appeared            to be duplicate            charges,       the error
+was quickly       identified          as a processing               glitch    and has since been resolved.
+Millcreek             City     Council           Meeting         Minutes                                        9 February               2026           Page      2 of 10
+
+
+
+Operationally,                tlie organization              services        14 municipalities                and portions              of unincorporated                     Salt
+Lake       County,           totaling       nearly      86,500        homes       as of year-end              2025,       with       Millcreek           representing                the
+largest        service        area at nearly           16,000        homes.        On a weekly               basis,     approximately                200,000
+containers           are serviced.             In 2025        alone,       the organization                collected       over      100,000            tons of trash,
+18,000         tons of recycling,                1,100       tons    of leaves,         836 tons           of glass,      and nearly            6,000       tons of green
+waste.        Material         destinations            are strategically            selected         to maximize             efficiency           and control             tipping
+costs,       with     data indicating               strong     correlation          between          number           of homes           serviced         and disposal
+expenses.           Millcreek           benefits       from       comparatively             lower       tipping         costs,      largely       due to strong
+participation            in green          waste      and glass         diversion         programs.
+
+
+Financially,            preliminary              unaudited          2025     results      show       strong      perforinance,                 driven      by cost-control
+initiatives,          operational           efficiencies,           and organizational                 restructuring             efforts.       Leadership
+expressed            confidence            that rate increases               can be avoided                through       at least 2027.             Comparative
+analysis        across        three      counties        suggests          the organization             remains          competitive,             particularly                given
+its enterprise              fund     structure        and the breadth             of services           included         in base rates.            Recycling              market
+volatility          continues           to impact        processing           costs,      and the organization                   actively        monitors
+commodity              trends        to optimize         delivery          locations       and manage               expenses.
+
+
+Millcreek-specific                   data indicates           steady         service      levels       year over         year,      with       a curbside          diversion
+rate of approximately                      21%       in 2025-exceeding                    the district-wide               goal      of 19%         and positioning                    the
+city    favorably            among         peer communities.                 New        outreach        materials         have been             introduced              to reduce
+contamination                and improve              recycling        compliance.            As key priorities:                 in 2025,         the SCRP              (seasonal
+container           reservation            program)        program           expanded          access,        reduced        repeat         usage,       and served
+nearly       10%       of customers.              For 2026,          resources          are being          reallocated        to increase               daily     container
+capacity          and further           enhance        program          effectiveness.             Overall,       the presentation                 underscored                 a
+coini'nitment            to operational              efficiency,        financial         stability,         service      enhancement,                  and
+environmental                 stewardship.
+
+
+Council         Member              DeSirant         asked     about       the little      service         areas in Sandy               City    being       incorporated
+into      Sandy.       Tyrrell        noted       a boundary           adjustment          in the collective               service          area could          take place             if
+they      were.
+
+
+Mayor         Jackson          asked       about      the tiered        SCRP       reservation             system        and if people             who        had been
+waiting        to get a container                 (unsuccessful             in the past)        were        able to get a reservation.                      Tyrrell           said
+people        on the wait            list in 2024         were       given     priority       in 2025.         Those        waitlisted           in 2025         will     get
+priority       in 2026.            Mayor      Jackson         asked     if it was difficult                to administer.            Tyrrell       said unique                tools
+were       created       to help        track      and monitor             the system.         The      organization             is in the early              stages      of
+evaluating           a potential           comprehensive               overhaul         of the SCRP             program             beginning           in 2027,         with         the
+objective           of significantly             expanding           service      capacity,         potentially           tripling         or quadrupling
+participation,              while       simultaneously              reducing        delivery         costs.     Updates          will      be shared            as proposals
+are refined           and presented              to the Board           of Trustees.           In 2025,         the SCRP             program            produced          strong
+results       across        the district,         including         service      to 1,306          households            in Millcreek             and the delivery                    of
+containers           that     facilitated         the collection           of approximately                 1,000       tons of material                 during         the
+season.        District-wide,              nearly      7,500        containers         were    deployed,             resulting          in the removal              of close           to
+6,000        tons    of bulky           waste.
+
+
+Tyrrell       reported         that a range           of operational             and administrative                   initiatives          are underway             to
+streamline           services,          optimize       efficiency,           and reduce            costs     across      departments,              including             IT and
+ Millcreek          City     Council        Meeting          Minutes                                     9 February           2026        Page 3 of 10
+
+
+
+ fleet management,               with     the overarching                 goal of maintaining              service     levels    while      avoiding           future
+ rate increases            for as long as possible.                 As part of these efforts,               the organization             is exploring          cost-
+ saving      measures          related     to billing,        including         transitioning         from     full-size      mailed       statements          to a
+ postcard         format     that would          eliminate          envelopes          and could       save an estimated             $300,000            annually.
+ Customers          would       still be able to pay by check,                       online,     in person,        via ACH,       credit      card, or auto-
+pay. However,               to offset     rising     credit        card processing             expenses-currently                approximately              $1.50
+per transaction,            the organization              is considering             a transaction         fee for card payments                while
+preserving          no-fee      options      for lower-cost               payment        methods.       Additionally,           throrigh      a competitive
+RFP process,             a new payment              processing            provider      has been selected,             with     anticipated        savings         of
+ approximately             $140,000        annually.
+
+
+Operational            cost management               remains             a key focus      area. The organization                is reassessing            fleet
+replacement            strategies,       noting      that compressed                 natural     gas (CNG)          trucks      now cost roughly
+$60,000 more per vehicle                     than diesel            models,      with     overall      truck prices         exceeding         $400,000.
+Leadership          is working           to determine             the optimal        replacement           cycle to balance           capital      costs with
+rising      maintenance          and repair         expenses.             The organization            is also absorbing           increases        in tipping
+fees, labor rates, and 'fuel costs where                            possible,        while     improving        routing       efficiencies        to control
+fuel usage.
+
+
+New       service-related          fees have been introduced                        to better     manage       operational           impacts,      including            a
+nominal        charge       for return       trips when            containers         are placed       out late and verified              through         truck
+camera       systems.        A recycling           contamination              fee has also been added as a policy                         enforcement              tool,
+though       it will     be used sparingly.               The organization               continues       to prioritize        education-first
+approaches,            such as "oops"            tags to address contamination                        issues, and has seen measurable
+reductions         in contamination               rates across the service                   area, including         in Millcreek.          Overall,
+leadership         reaffirmed         its coinmitment               to fiscal       responsibility,        operational          optimization,            and
+maintaining            high-quality        customer          service         across all partner          communities.
+
+
+2. Neffs      Canyon           Debris      Basin         and Special           Improvement              District      Discussion;           Aaron
+Roberts,          Storm      Water        Operations              Manager
+Aaron       Roberts        provided       an update          on the proposed              Neffs       Canyon       debris     basin project,           outlining
+its background,             community            impacts,         funding       strategy,       and next steps. The project                   stems from            the
+area's location            on an alluvial          fan-formed               by historic        fast-moving           mountain        streams       that deposit
+sediment          and debris-making                 it highly            susceptible      to flash floods          and debris        flows.       Although
+development            has long since occurred                     in this high-risk           area, FEMA's            adoption        of a Flood
+Insurance         Rate Map in 2019 forinally                        designated         portions       of the neighborhood                within     the
+floodplain.         Subsequent           flood     events in 2019 and 2023,                      along with        the 2020 wildfire              that
+increased         the risk of debris             flows     due to hillside            deforestation,         have reinforced             the need for
+mitigation         measures.
+
+
+
+The proposed            debris basin,         currently           at approximately              30% design,          would      be constructed             fully
+below       existing       grade to minimize               visual         and neighborhood             impacts.       While      final     landscaping
+details     are still being        coordinated             with      the U.S. Forest            Service,     the site is expected             to be restored
+with     native     vegetation.          Construction             will    require      excavation       and removal             of approximately
+70,000      cubic yards of material-equivalent                               to roughly         5,000 truckloads-over                    an estimated
+three- to six-month              period,     which         will     impact      local     roads and possibly               require     temporary
+trailhead      closures.        The project         also includes             approximately            one mile       of new stormwater                  pipeline
+connecting         the basin to existing                 infrastructure,         roadway          improvements             coordinated          with      Public
+Millcreek         City        Council       Meeting         Minutes                                       9 February          2026      Page 4 of 10
+
+
+
+Works,         and expansion            of the current          Forest       Service      parking         lot, potentially       doubling          or tripling
+parking        capacity        and adding          restroom        facilities.
+
+
+If approved            by FEMA,          construction           is anticipated          in 2027 or 2028. The debris                    basin would
+significantly           reduce       the risk of a 100-year                flood     event and could remove                   488 parcels          from      the
+designated         floodplain.          This would            eliminate        mandatory          flood     insurance       reqriirements           for
+properties        with     mortgages             and remove            substantial      remodeling          restrictions       currently         imposed             on
+floodplain        properties,          including        limitations         affecting         Fire Station       112, which          is presently           unable
+to expand         due to floodplain                regulations.
+
+
+The project            has secured        approximately                $24 million        in federal        and state grant funding,                including
+$3 million        for design          and $21 million              through         FEMA's         Flood     Mitigation         Assistance         program.
+However,          Millcreek          must cover a local                match       of roughly       $5.3 million.          One funding            option        under
+consideration            is the formation             of a Special          Improvement            District,      which      would     allocate          costs
+specifically           to the 488 benefited             parcels         rather     than the city as a whole.                Based     on preliminary
+estimates,        this would          equate to approximately                      $10,800       perparcel,        or about $1,078              annually        over
+a proposed         10-year          repayment         period.      A recent          survey      of affected       property      owners,         with       a 25%
+response        rate and an estimated                 75% confidence                 level,    indicated        that 40% of respondents
+currently        pay flood          insurance,        most paying           under      $5,000      aru'iually,      and that many           have been
+affected       by remodeling             restrictions.
+
+
+City    leadership         is now evaluating               whether         and when to pursue                  formation      of a special
+improvement              district     or consider          alternative       'Junding         mechanisms          such as bonding               or use of the
+general        fund.    Because         construction           remains       several      years away,           there is time to determine                   the
+most appropriate               path forward.
+
+
+Mayor         Jackson      asked about the timeline                      for grant funding           and increased            construction          costs.
+Roberts        said there were three years left on the current                                 grant window,           but staff has applied                for an
+extension.        He guessed construction                      costs would           rise by about          5% each year. Any              gap in funding
+would         get pushed        onto those in the special                   improvement            district.     The improvement                 district       costs
+will    run with        the property             if ownership          changes       hands.
+
+
+Roberts        said the next steps for the project                        include       direct    coordination         with     property         owners         who
+may be impacted                by the final          debris    basin and pipeline                alignments,        as current        plans remain              at
+approximately             30% design              and certain       elements-such                as pipeline       routing-could                affect      specific
+parcels.       However,          those discussions              will     follow      greater     clarity       on funding,      as advancing               detailed
+property-level            coordination            depends       on confirmation               that the project         can move        forward
+financially.        The City          anticipates       holding          multiple      public     meetings,        including         at least one required
+under      FEMA's          NEPA         review       process       to address environmental                     considerations,         as well          as a
+separate        open house focused                  specifically         on properties           that would       be included         in a proposed
+special       improvement             district.
+
+
+Formation         of a special          improvement             district     would       require      voter      approval      through          a ballot
+initiative.      While        the City      Council's          role would           be to authorize         placing        the measure          on the ballot,
+creation       of the district          itself     would      be subject         to approval        by affected        residents.      The initial
+objective        had been to target                the 2025 election              to maintain       project       momentum;           however,           given
+potential       flexibility         in the project         timeline,       the City may adjust                 as needed      while     still     recognizing
+that voter       approval           is required       to implement             the SID funding             mechanism.
+ Millcreek           City    Council           Meeting        Minutes                                         9 February            2026        Page 5 of 10
+
+
+
+
+ Council        Member         Catten      asked about maintenance                           costs once the project                 was completed                 and the
+ improvement              district     was gone. John Miller                     said the debris basin will                      require     ongoing
+ maintenance           regardless         of whether           a significant             debris      flow     or flood          event occurs.         Routine
+ upkeep       will    be necessary             to preserve           capacity        and functionality,               resulting       in continuing
+ operational          expenses         over the long term. These maintenance                                   costs are not included                    in the
+ proposed        special       improvement               district     funding           and will      represent          a separate,        ongoing         financial
+ obligation          for the city, though            they are expected                   to be relatively             modest.
+
+
+ John Brems           brought         up that the city would                   likely      have to borrow              money        to pay for the project                      up
+ front because            a contractor          would       not accept payment                    over 10 years from                 the district.         That would
+take place after the special                     improvement              district       passed on the ballot.
+
+
+3. Promise            Program           Quarterly           Update;            Kayla       Mayers,          Promise             Program       Director,           Kelly
+Noorda,         Promise          Partnership              Utah,       and Peter            Frost,     Asian         Association            Utah
+Moved        to regular        meeting.
+
+
+4. Staff      Reports
+Mike        Winder      provided         a legislative          and policy             update,      noting         that the Utah legislative                 session            is
+currently       at its midpoint            in terms         of calendar          days, though               only    about 10% of last year's                      total
+bills   have passed, leaving                   a significant          volume           of work       in the remaining               weeks.        City
+representatives,             including         Mayor         Jackson,          Council        Member          DeSirant,           and staff, have been
+actively      engaged         at the Capitol,            particularly           through           the League          of Cities      and Towns.             One
+notable       development             was the failure               of HB 13, a bill              that would          have allowed           municipalities                to
+place liens on properties                  for unpaid          stormwater               utility     fees, similar          to the authority              granted      to
+special      districts.      Despite       its practical            intent,     the bill      was defeated             amid broader             concerns          about
+expanding            governmental          authority.
+
+
+The city is also closely                 monitoring           legislation           sponsored          by Representative                   Candice        Pierucci.
+One bill      addressing             special     districts     initially        included          provisions          that could       have significantly
+impacted        entities      such as the Salt Lake Valley                           Law      Enforcement              Service       Area (SLVLESA),                      with
+potential       downstream             financial         consequences             for Unified          Police         Department            partner
+communities.            While        the most concerning                   provisions             have been removed,                 the bill      continues          to be
+tracked.      Another         proposal          involves       modifying             the right       of first refusal             for surplus       school
+properties.          Under     current         law, certain          cities,    primarily           in the Salt Lake Valley-have                           priority        in
+acquiring       surplus        public     school         sites. The revised                bill    would      extend        right-of-first-refusal
+authority       statewide        and create parity                between         municipalities              and charter           schools,       allowing           school
+districts     discretion        in choosing           between           them.       While         the measure           has been moderated,                  it remains
+under review           by the League              and member              cities.
+
+
+Additionally,          the city is watching                  proposed          legislation          related    to transportation               utility      fees
+(TUFs),       which         are being      considered           as a potential              tool to address Millcreek's                      aging       and
+deteriorating          road infrastructure.               A recent            stakeholder          committee           meeting        involving           business
+owners,       property        owners,          residents,      councilmembers,                    and Public          Works         staff generated
+constructive          feedback         and highlighted               the need for a more                    comprehensive             public       engagement
+process.      In response,            the city is proposing                   a series of open houses,                   March       4, April        2, and May             4,
+to facilitate        a detailed        community             discussion.          These meetings               will      progressively            outline
+infrastructure         challenges,             funding       options       such as transportation                     utility     fees or bonds,           and the
+Millcreek           City     Council          Meeting          Minutes                                     9 February            2026        Page 6 of 10
+
+
+
+implications           of each approach,                 including         tlie option         of taking       no action.        The city will          also
+priblisli     front-page           newsletter          articles     to fiirther       inform        residents.      Council        members           will     be
+included        in calendar           invitations         to ensure broad participation                       in these discussions               as the city
+evaluates       long-term            transportation            funding        strategies.
+
+
+5. Discussion              of Agenda           Items,         Correspondence,                 and/or       Future        Agenda         Items
+There       was none.
+
+
+Council        Member              Uipi      moved       to move           item     3 from       the work         meeting         to before         public
+comment.            Council          Member            Catten       seconded.          Mayor          Jackson        called      for the vote.              Council
+Member          Catten            voted      yes, Council           Member            DeSirant         voted      yes, Council             Member            Handy
+voted       yes, Council             Member            Uipi    voted       yes, and Mayor                Jackson         voted        yes. The motion
+passed        unanimously.
+
+
+Council        Member              Uipi      moved       to adjourn           the work          meeting          at 7:03       p.m.     Council        Member
+Handy         seconded.            Mayor        Jackson           called     for the vote.            Council       Member            Catten       voted       yes,
+Council        Member              DeSirant           voted     yes, Council           Member            Handy          voted     yes, Council              Member
+Uipi    voted       yes, and Mayor                   Jackson        voted         yes. The motion              passed      unanimously
+
+
+
+REGULAR                MEETING                 - 7:00 p.m.
+TIME         COMMENCED:                         7:05 p.m.
+
+
+1. Welcome,            Introduction                  and Preliminary                Matters
+             1.1 Pledge            of Allegiance
+             Mayor         Jackson          called     the meeting          to order and led the pledge                    of allegiance.
+
+
+Work         Meeting         Item
+3. Promise            Program              Quarterly          Update;        Kayla         Mayers,       Promise         Program           Director,          Kelly
+Noorda,         Promise            Partnership            Utah,      and Peter             Frost,     Asian      Association            Utah
+Kelly       Norda      provided            a brief     overview        of Millcreek-area               high school         graduation           rates for the
+2025 school           year, focusing                on Cottonwood,                Skyline,      and Olympus             High      Schools.         Current         data
+show        Skyline        with     a 97% graduation               rate, Olympus               at 92%,        and Cottonwood               at 79%, trends that
+are generally          consistent            with     prior    years. Longitudinal                  data from       2023 to 2025 indicate                    that
+Skyline's       rate has slightly               increased,         Olympus           has experienced             a small        decline,       and Cottonwood
+has fluctuated             but recently          shown        modest        improvement.              While      the overarching             goal remains             a
+100%        graduation            rate across all schools,                 targeted        partnership        efforts     have been concentrated                      on
+Cottonwood             High        School      to support          greater        gains.
+
+
+One contributing                  factor     affecting        Cottonwood's             graduation          rate is the state's           cohort-based
+calculation         method,          which       measures          graduates         against        the original        ninth-grade         cohort,         adjusted
+for transfers.         As Cottonwood                   serves a highly             transient        student     population,           student      mobility         can
+significantly          impact        reported         outcomes.         In response,           the city and school               partners       are working            to
+strengthen       relationships               and improve           tracking         processes         for transferring           students       to ensure more
+accurate       accounting            and better          support      student        success.
+
+
+Peter Frost provided                  a mid-year          update       on the city's           after-school         programming,               expressing
+appreciation           for the City           Council's         continued          support       and strong         collaboration           with     city staff.          He
+ Millcreek           City     Council        Meeting            Minutes                                    9 February              2026      Page 7 of 10
+
+
+
+ reported      that 290 youth             have been served                  so far this year, nearly              double           last year's      participation,
+ due in part to the addition                  of two new program                      sites and the streamlining                    of services       under       the
+ Millcreek       partnership.            While        a majority          of participants            are Millcreek         residents,        enrollment           also
+ includes      students         attending        Utah International                  Charter       School      and others on school                 waivers,
+reflecting       the broader            draw of certain                campuses.
+
+
+
+The program             offers      a range of eruichment                    activities,       including        an evidence-based                social-
+ emotional       learning           curriculum          called       Positive       Action,      delivered        twice     weekly          in engaging,
+ student-centered              formats.      Additional              opportunities          include      STEM         activities       such as participation
+in Lego League                competitions,            as well         as summer         programming             like Millcreek             Cominon         Camp,
+which       provides          experiential       learning            opportunities         and helps prevent               summer          learning       loss. Frost
+emphasized            that the program's                 long-term          goal is to support             academic         engagement,             emotional
+regulation,          and positive         peer relationships,                ultimately         contributing          to improved            graduation
+outcomes.
+
+
+To illustrate         the program's             impact,         Frost shared the story of "Ashley,"                          a sophomore              at Olympus
+High      School       who has participated                    in the program             since sixth grade.            Initially       shy and socially
+withdrawn,           Ashley         gradually         built     confidence          and friendships            through       intentional          staff support,
+structured       peer engagement,                 and summer                programming              experiences.         She now maintains                 strong
+academic        performance,              participates           in athletics,        and demonstrates               leadership            and social
+confidence.           Frost highlighted               the critical        transition        from junior          high to high school                as a pivotal
+period      in determining              long-term         academic           success, noting            that individualized                support       combined
+with     consistent          programming              plays      a key role in shaping                positive       student        trajectories.        Overall,
+the update underscored                   measurable              growth      in participation            and meaningful               individual         outcomes
+aligned       with     the program's            mission.
+
+
+Council       Member           Catten      asked about the transition                      of Millcreek          taking      over the Moss             Elementary
+Program        from         South      Salt Lake. Frost noted that the program                              transition       has gone well             overall,
+though       there have been some challenges.                              Specifically,         he explained           that Promise             South     Salt Lake
+previously       had greater            flexibility           in staffing       due to its funding             structure,          which     allowed       for
+broader       personnel          support      than the current               model       initially     provided.         However,           through       creative
+problem-solving                and collaboration                with     the city,     the program           has supplemented                 staffing     with
+volunteers       and additional              support          resources.        As a result,         the program          has continued             to serve a
+comparable           number         of students          and maintain              er'uichment         opportunities          such as Lego            League        and
+other clubs.         Overall,        he characterized                the transition         and continued            service        delivery      as a success.
+
+
+Kayla     Mayers            reported     that the Asian              Association           of Utah      collected        initial     data from        staff at each
+program        site to track Millcreek                  resident         participation,        with      a follow-up          survey        planned       at the end
+of the school          year. She highlighted                    several      recent     initiatives,        including        the produce            distribution
+program        (July-October)              serving        five recipient            sites, the Millcreek             Futures         program        connecting
+97 students          firom Utah         International            Charter        School      with      local businesses              to explore       career paths,
+and a winter          clothing         drive providing               1,016 new and gently                used items to local                 organizations.
+Additional       efforts        included        celebrating            Lights      On After          School,     hosting       a volunteer          appreciation
+banquet,       assisting        residents       with      housing         and resource          needs (with           a new tracking             system       for
+follow-up),          conducting          youth        field     trips such as ice skating                at Moss       Elementary,             and establishing
+a high    school       internship         program             with     city departments.             UTA       passes were also distributed                      to 16
+individuals.         Looking           ahead, Mayers             shared plans for Youth                    Council       leadership          camp at USU,
+career field         trips for Cottonwood                     High     students,      Silvestrini        Scholars        recognition,          Earth Day
+Millcreek            City       Council       Meeting            Minutes                                     9 February           2026      Page 8 of 10
+
+
+
+activities,       and a new community                          block       party    funded       through      grants to engage families,                promote
+local   schools,            and highlight          community                partnerships.          These programs           collectively        aim to expand
+student       opportunities,              community              engagement,            and equitable          access to resources.
+
+
+1. Welcome,               Introduction            and Preliminary                     Matters         Continued
+            1.2 Public             Comment
+              Kyle       Taft     asked the council                questions          regarding       the Neffs       Debris      Basin.     He raised
+              concerns           about potential               financial      burdens         on residents.        He questioned           whether      residents
+              might         face a "double             dip,"     paying       both flood          insurance        and the special         improvement
+              district       fee simultaneously,                  which       could      create onerous            costs. He also expressed                concern
+              aborit project           delays,         noting      that prolonged              timelines      could      increase       costs due to inflation.
+              As a mitigation,               he suggested              that the city absorbs               any inflation-related            expenses,
+              particularly          given      that property               taxes collected          from     the area are likely           higher     than other
+              parts of the city. Additionally,                         Taft questioned              the allocation        of $3 million         in design       fees,
+              observing           that for a $25-30                million         project,      this represents       a high percentage compared to
+              industry          norms.      He recoinmended                   aligning         fees more       closely     with     standard     practices         so
+              that more funding                 could be directed                  toward      actual      construction        rather    than design.
+
+
+              Jom        Miller     noted he could                meet with          Ta'Ji to answer          questions.
+
+
+2. Financial             Matters
+              2.1 Public           Hearing         to Consider               a Monetary            Contribution            of Up to $5,000            to Utah
+              Transit           Authority
+              Kayla         Mayers        explained            that the city received              a $5,000        grant from       United     Way,        which
+              was part of a process                    that brought           together        stakeholders         passionate       about addressing
+              social        determinants          of health,           including        clinic     providers        and cominunity           members.
+              During         these discussions,                 transportation           was identified            as a key barrier        for tlie
+              coinmunity.            The grant funding                  is intended           to address this need, specifically                 by providing
+              additional          UTA       passes, although                 other recoininendations                 were also included             in the report.
+
+
+              Mayor         Jackson         asked how the passes would                           be distributed.         Mayers      said they would           be
+              used by children                living      at Bud Bailey              Apartments          to be able to get to Granite                 Park Junior
+              High       School.       Council          Member          Catten        asked if the council            could       advocate     for those
+              students          to get a school           bus. Mayers               said she and the city manager                   were talking        with
+              Granite         School        District      about it.
+
+
+Council         Member             DeSirant            moved        to open the public                  hearing.      Council       Member          Catten
+seconded.            Mayor         Jackson         called         for the vote.          Council         Member          Catten     voted      yes, Council
+Member           DeSirant            voted      yes, Council                Member            Handy      voted      yes, Council          Member        Uipi
+voted     yes, and Mayor                    Jackson            voted       yes. The       motion        passed      unanimously.
+
+
+              There       were no coininents.
+
+
+Council         Member             DeSirant            moved        to close the public                 hearing.      Council       Member          Uipi
+seconded.            Mayor         Jackson         called         for the vote.          Council         Member          Catten     voted      yes, Council
+Member           DeSirant            voted      yes, Council                Member            Handy      voted      yes, Council          Member        Uipi
+voted     yes, and Mayor                    Jackson            voted       yes. The       motion        passed      unanimously.
+Millcreek        City     Council          Meeting        Minutes                                     9 February            2026       Page 9 of 10
+
+
+
+            2.2 Discussion               and Consideration                 of Ordinance             26-08,      Approving           a Monetary
+            Contribution                of Up to $5,000            to Purchase            Discounted          Human         Services         UTA       Passes
+            for Millcreek               Residents        in Need
+
+
+Council       Member             Uipi     moved       to approve           item      2.2, Ordinance             26-08,     Approving           a Monetary
+Contribution            of Up to $5,000               to Purchase           Discounted             Human         Services      UTA         Passes for
+Millcreek        Residents           in Need.        Council        Member            DeSirant        seconded.          The Recorder              called      for
+the vote.      Council       Member              Catten      voted     yes, Council             Member           DeSirant          voted    yes, Council
+Member         Handy        voted         yes, Council            Member          Uipi     voted     yes, and Mayor                Jackson      voted       yes.
+The motion            passed       unanimously.
+
+
+3. Reports
+            3.1 Mayor's            Report
+            Mayor       Jackson          reported      on an event at Moss Elementary                           and a public        hearing     with       the
+            Division      of Air         Quality     on the proposed              Parley's      gravel       mine.     The Howick,            an affordable
+            housing      project         in west Millcreek,            opened.           She was able to visit            the International            Charter
+            School      and a mayor's              roundtable        on combatting             antisemitism.
+
+
+            3.2 City      Council          Member          Reports
+            Council      Member            DeSirant       mentioned          doing        a story for ABC            4 about the city's            Black
+            History      Month          events and being            appointed            as the Vice     Chair       of Salt Lake          County      Animal
+            Services      Committee
+
+
+            Council      Member           Uipi      highlighted       several        ongoing        corni'nunity        initiatives        and projects.
+            She emphasized               the importance            of resident           engagement          in public      processes,        particularly
+            regarding      the current           condition         and future        maintenance           of city roads, noting              that public
+          hearings        will     be scheduled           and shared.         She provided            an update          on the Enbridge            pipeline
+          replacement             project,       which     will    run from          4500 South and Wasatch                  Boulevard          through
+          Upland         Drive      to Virginia          Street, including            the Front       End Church           area east of Skyline.
+          This project            is expected         to last approximately                18 weeks,         weather      permitting,         and
+          residents       were informed               about potential             disruptions        in their neighborhoods.                 Additionally,
+          the city has launched                  Black     History         Month         events as part of a year-long                 series celebrating
+          diversity.       She noted          she serves on the Central                    Wasatch       Coini'nission's            special     projects
+          and funding             corni'nittee       and will      keep the community                  updated       on initiatives,          including
+          support        for Millcreek           residents        in discussions           related     to the gravel        pit.
+
+
+          Council        Member           Catten      highlighted          the third       annual     Interfaith       Harmony         event,      noting        it
+          continues        to be a meaningful                  gathering       and expressing            interest      in expanding           it in the
+          future.       She participated             in the Point-in-Time                 count,     which      this year was notably               different
+          from      previous        years. While           in past counts            she encountered             many     people       experiencing
+          homelessness              along the Jordan              River,     this year she observed                very few, prompting
+          speculation            that individuals          may have been in shelters                    or stable housing             during       the count
+          period.       She wondered               whether        others involved           in the count had similar                  experiences.          She
+          also attended            the Jordan         Valley       Water     Conservancy             District      rate-making         meetings         and
+          found       them both fascinating                 and complex.             The meetings            focused      on adjustments              to tiered
+          water rates, which               take into account               factors       such as meter          size, secondary            metering,        water
+          usage, and seasonal                considerations.           Despite           the technical        nature     of the discussion,            she
+          appreciated            being     included       in the process             and noted that the district              carefully        considered
+Millcreek          City     Council         Meeting         Minutes                                 9 February        2026       Page 10 of 10
+
+
+
+            constituent           priorities,       such as promoting             water     conservation,        minimizing          future   rate
+            increases,           and ensuring          fees are easy to aSSeSs. She found                   the approach       infoimative           and
+            suggested            it could        serve as a useful        model      if the city were to engage in water
+            management              in the future.
+
+
+            3.3 Staff           Reports
+            Mike      Winder         thanked         the corincil       for their      support    of the Business       Council         Gala.
+
+
+4. Consent          Agenda
+            4.1 Approval             of January            26, 2026 Work          Meeting        and Regular      Meeting      Minutes
+
+
+Councn       Member               Uipi     moved       to approve          item     4.1. Council       Member         DeSirant         seconded.
+Mayor       Jackson             called     for     the vote.     Council      Member          Catten     voted     yes, Council          Member
+DeSirant       voted            yes, Council         Member           Handy       voted    yes, Council        Member         Uipi     voted    yes,
+and Mayor           Jackson          voted         yes. The      motion       passed       unanimously
+
+
+5. New Items              for    Subsequent            Consideration
+There    was none.
+
+
+6. Calendar            of Upcoming                 Meetings
+    @       Historic        Preservation            Commission           Mtg.,     2/12/26,      6:00 p.m.
+    *       Plaru'iingCornmissionMtg.,2/18/26,5:OOp.m.
+    *       City    Council         Mtg.         2/23/26     7:00 p.m.
+
+
+
+ADJOURNED:                      Councn           Member        Uipi    moved        to adjourn      the meeting        at 7:53 p.m.           Council
+Member        Handy              seconded.         Mayor       Jackson        called      for the vote.     Council       Member          Catten
+voted    yes, Council              Member            DeSirant         voted   yes, Council         Member         Handy       voted      yes, Council
+Member        Uipi        voted      yes, and Mayor               Jackson         voted    yes. The motion          passed       unanimously.
+
+
+
+
+                                     APPROVED:                 Z-mhAr'
+                                                            Date
+                                           ('C//herlJa,c!4sOn,4M,]ta4yol7
+                                         Attest:                Er,                       City Recorder
+

@@ -1,0 +1,12 @@
+date,body_id,kind,reason,verified_date
+2020-08-27,241,wrong_date,PMN event date 2020-08-27 but the attached file is 09.03.2020 minutes.pdf; 2020-09-03 is already in the repo,2026-07-02
+2025-07-31,241,mislabel,file is St. George Arts Commission minutes mis-posted under the Council body (Arts has its own body 248) — not council minutes,2026-07-02
+2023-11-09,241,duplicate,two PMN notices carried the same council-minutes file (sha256 identical); one kept,2026-07-02
+2023-05-23,242,not_minutes,PMN Meeting-Minutes-labeled attachment is a 178-page agenda packet (embeds prior 05-09 minutes); the 05-23 PC minutes were never posted (genuine gap),2026-07-02
+2020-07-02,241,other,"'City Council Meeting Rescheduled' — the 1st-Thursday July meeting was moved off 07-02 (July 4 holiday week); repo holds the rescheduled 2020-07-09 meeting. No meeting on the noticed date.",2026-07-17
+2022-07-07,241,other,"'City Council Meeting Rescheduled' — 1st-Thursday July meeting moved off 07-07 (holiday week); repo holds 2022-07-14. No meeting on the noticed date.",2026-07-17
+2023-08-10,241,other,"'City Council Meeting Rescheduled' — schedule-change notice, not a held meeting; repo holds the surrounding Aug-2023 council meetings (08-03/08-17/08-24/08-31).",2026-07-17
+2025-11-11,242,other,"'PUBLIC NOTICE: Regular Meeting Rescheduled' — PC meeting moved off 2025-11-11 (Veterans Day); repo holds the rescheduled 2025-11-18 PC meeting. No meeting on the noticed date.",2026-07-17
+2025-11-01,241,wrong_date,"IMPLAUSIBLE DATE (Saturday) resolved: PMN event-date field reads 2025-11-01 04:00 PM but the in-body notice text reads 'will hold a work meeting ... on Thursday, November 13, 2025, commencing at 4:00 p.m.' The real meeting is the 2025-11-13 council work meeting; the noticed 11-01 is a PMN metadata error. No meeting on the noticed date.",2026-07-17
+2025-11-27,241,other,"IMPLAUSIBLE DATE (Thanksgiving) resolved: the 'City Council Meeting Agenda' notice for Thu 2025-11-27 is a cancellation — in-body text 'the City Council meeting ... scheduled for Thursday, November 27, 2025 has been canceled.' No meeting held.",2026-07-17
+2023-05-04,242,other,"'Joint Work Meeting of the Planning Commission and City Council' filed by PMN under the PC body (242); the minutes are already in the repo on the council side (2023-05-04 City Council Work Meeting, Revize '2023.05.04 Minutes Work.pdf'). Not a PC-layer gap — already recorded.",2026-07-17

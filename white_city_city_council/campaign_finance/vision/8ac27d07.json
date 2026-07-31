@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "5/7/2025", "name": "Allan Perry", "amount": "1000", "in_kind": false},
+    {"date": "5/16/2025", "name": "Allan Perry", "amount": "1000", "in_kind": false},
+    {"date": "5/29/2025", "name": "Allan Perry", "amount": "500", "in_kind": false},
+    {"date": "7/28/2025", "name": "Allan Perry", "amount": "1500", "in_kind": false},
+    {"date": "8/14/2025", "name": "Allan Perry", "amount": "205.50", "in_kind": false},
+    {"date": "8/15/2025", "name": "Allan Perry", "amount": "1500", "in_kind": false},
+    {"date": "8/26/2025", "name": "Allan Perry", "amount": "300", "in_kind": false},
+    {"date": "10/1/2025", "name": "Allan Perry", "amount": "1500", "in_kind": false},
+    {"date": "10/3/2025", "name": "Allan Perry", "amount": "200", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "5/30/2025", "recipient": "Carousel Hat Clothing LLC", "purpose": "signs, shirts, hats", "amount": "2264.31", "in_kind": false},
+    {"date": "7/28/2025", "recipient": "Wix.com", "purpose": "website", "amount": "336.53", "in_kind": false},
+    {"date": "7/28/2025", "recipient": "Wix.com", "purpose": "website", "amount": "242.28", "in_kind": false},
+    {"date": "7/28/2025", "recipient": "WCCC/Last Blast of Summer", "purpose": "booth rental", "amount": "95.00", "in_kind": false},
+    {"date": "8/1/2025", "recipient": "Carousel Hat Clothing LLC", "purpose": "signs", "amount": "886.46", "in_kind": false},
+    {"date": "8/14/2025", "recipient": "Amazon.com", "purpose": "balloons", "amount": "205.50", "in_kind": false},
+    {"date": "8/18/2025", "recipient": "Amazon.com", "purpose": "LBOS handouts, supplies", "amount": "115.50", "in_kind": false},
+    {"date": "8/21/2025", "recipient": "FedEx", "purpose": "LBOS printed materials", "amount": "258.56", "in_kind": false},
+    {"date": "8/22/2025", "recipient": "Carousel Hat Clothing LLC", "purpose": "shirts, stickers, banner", "amount": "1198.07", "in_kind": false},
+    {"date": "8/26/2025", "recipient": "Kimmy's Cookies", "purpose": "LBOS cookies", "amount": "200.00", "in_kind": false},
+    {"date": "10/3/2025", "recipient": "AlphaGraphics", "purpose": "mailed postcards", "amount": "1640.87", "in_kind": false},
+    {"date": "10/3/2025", "recipient": "AlphaGraphics", "purpose": "mailed postcards", "amount": "190.49", "in_kind": false}
+  ],
+  "total_contributions": "7,705.50",
+  "total_expenditures": "7,633.57",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "0",
+  "ending_balance": "71.93",
+  "_meta": {"index_path": "raw/2025_perry_cf_10-07.pdf", "candidate": "Allan Perry", "office": "Mayor", "filing_type": "interim", "election_year": "2025", "source_pdf": "/Users/tysonwelsh/civic-data/white_city_city_council/campaign_finance/raw/2025_perry_cf_10-07.pdf", "pages": 5}
+}

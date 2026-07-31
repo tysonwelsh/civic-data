@@ -1,0 +1,787 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1917&doc_id=042c0787-5dca-11f0-b7f5-005056a89546
+> Meeting date: 2025-06-17
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JUNE 17,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Mike Green (via Zoom) Bryn
+             Heather Johnson, Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED:
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Scott Cooley, City Engineer and Public Works Director; Spencer
+             DuShane, Assistant City Attorney; Rich Ferguson, Chief of Police; Jennifer
+             Jastremsky, Community Development Director; Rhett Ogden, Parks and
+             Recreation Director; Nicole Smedley, City Recorder; Linda Peterson,
+             Communications Director; Clint Smith, Fire Chief; Jake Sorensen,
+             Network Manager; Travis DeJong, Business License Official; and John
+             Vuyk, Finance Director
+______________________________________________________________________________________
+
+Study Session
+
+      Closed Session
+      Councilmember Vawdrey moved to recess to a closed session to discuss the
+      purchase, exchange, or lease or real property and discussion of professional
+      competence as provided by UCA 52-4-205. Councilmember Johnson seconded
+      the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No       Absent
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+      The Council reconvened in open session at 7:20 pm.
+
+      Council/Manager Reports
+      None
+
+
+
+                                                                             1|Page
+        Draper City Council Meeting Minutes Approved July 1, 2025
+Business Session
+
+1.    Call to Order by Mayor Walker
+
+2.    Pledge of Allegiance
+
+3.    Recognition: Acknowledgment of Peer Court Graduates
+      Victims Advocate, Rachel Miller described the Draper Youth Peer Court
+      Program, and recognized 2024 and 2025 Peer Court graduates. She expressed
+      appreciation for the participation and contributions of Lillian Hall and the Hall
+      family.
+
+4.    Oaths of Office: Police Department
+      Chief of Police Rich Ferguson recognized Captain Pat Evans, Lieutenant Mat
+      Coe, Lieutenant Nate Banry, Sergeant Hobie Young, Sergeant Cory Smith,
+      Master Officer Colby Page, and Master Officer Alex Asay for recent promotion.
+      City Recorder Nicole Smedley administered the Oaths of Office.
+
+5.    Public Comments
+      Councilmember T. Lowery expressed gratitude on behalf of the Draper
+      Heights neighborhood for the Draper Fire Department and their response to
+      an incident on June 15, 2025.
+
+6.    Consent Items
+      6.a  Approval of the May 20, 2025 City Council Meeting Minutes
+      6.b  Approval of Resolution #25-24 authorizing the approval of an
+           amendment to the second amended and restated Interlocal Agreement
+           creating Trans-Jordan Cities dated December 1, 1995
+      6.c  Approval of Resolution #25-33 reappointing Michelle Coker and Jocelyn
+           Kessler to the Draper City Tree Committee
+      6.d  Approval of Resolution #25-34 reappointing Stefania Wilks to the
+           Draper City Special Event Arena Committee
+      6.e  Approval of Resolution #25-35 reappointing Andrew Adams, Gary
+           Ogden and Lisa Fowler to the Draper City Planning Commission
+      6.f  Approval of Resolution #25-29 amending the Consolidated Fee
+           Schedule of Draper City
+      6.g  Approval of Resolution #25-30 approving a Cooperation Agreement
+           with Metropolitan Water District of Salt Lake and Sandy and The Ridges
+           at Alpine LLC for non-district use of district lands and interest in lands
+
+                                                                             2|Page
+     6.h   Approval of Resolution #25-31 approving Addendum No. 2 to the
+           Cooperation Agreement with Metropolitan Water District of Salt Lake
+           and Sandy
+
+           Councilmember Vawdrey moved to approve the Consent Agenda.
+           Councilmember Johnson seconded the motion.
+
+           A roll call vote was taken. The motion passed unanimously.
+                                               Yes No      Absent
+           Councilmember Green                  X
+           Councilmember Johnson                X
+           Councilmember T. Lowery              X
+           Councilmember F. Lowry               X
+           Councilmember Vawdrey                X
+
+7.   Items for Council Consideration
+     7.a   Public Hearing: Ordinance #1659, a Development Agreement for 110
+           acres of property located at 3235 East 15780 South in the RR-22 zone
+           within Draper City, otherwise known as the Alpine Hollow Development
+           Agreement
+           Councilmember F. Lowry disclosed that the applicant was a friend of his,
+           but stated he had no financial interest in the application.
+
+           Community Development Director Jennifer Jastremsky said the subject
+           property was located on the south end of the City boundary, next to
+           both Alpine and Highland City. The undeveloped property was zoned
+           RR-42 and RR-43, located in Residential Hillside Low-Density and the
+           Parks and Open Space designations. The property was originally part of
+           the Suncrest Master Planned Community, dating to 1999. At the time of
+           the Suncrest bankruptcy, 1,369 dwelling units had been built (2,519
+           unbuilt). The City purchased remaining acreage in 2011, intending to
+           have open space with select pieces identified to be sold for
+           development. The subject property was sold in 2017, and placed in the
+           Traverse Range Conservation Easement in 2018 and 2024.
+
+           Ms. Jastremsky explained the proposed Development Agreement would
+           set the number of dwelling units at 50 and require all dwellings to be
+           fire sprinklered. She stated that all lots may contain a single-family
+           home, plus outbuildings such as pool houses, barns, garages, and
+
+                                                                          3|Page
+mother-in-law apartments, so long as the living area was not rented and
+did not exceed 3,000 square feet in size. The mother-in-law apartments
+would not be considered accessory dwelling units (ADUs). Ms.
+Jastremsky said the applicant desired to eliminate side and rear public
+utility easements, with ten-foot front easements, and said staff
+requested a 56-foot-wide roadway for the private gated community for
+emergency access, snow removal, and utilities.
+
+Ms. Jastremsky said the applicant was requesting approval to allow
+homeowners the option to select up to an eight-foot-tall fence. The
+development agreement would allow for temporary chain link fencing
+during construction adjacent to public open space, with permanent
+wrought iron prior to occupancy. With the proposed development
+agreement, the applicant requested approval for some of the side lot
+lines to not be at right angles or radial to the roadway, and requested
+approval for entrance fencing and walls to be up to 12 feet in height.
+The proposed development agreement would grant city easement
+access on private roads to three locations for open space trail
+emergency and maintenance, but would not grant public access from
+those locations.
+
+Ms. Jastremsky said the Planning Commission reviewed the application
+and forwarded a positive recommendation, with the following
+recommendations: (1) that the trail access remains open during
+construction, when safe to do so; and (2) exterior materials for all
+homes be fire-resistant materials. She presented proposed language
+that    would   incorporate     the   two   Planning   Commission
+recommendations.
+
+Staff answered questions about the Wildland Urban Interface (WUI)
+Code and defensible space. Ms. Jastremsky said defensible space was
+not discussed with the Planning Commission. Staff suggested language
+referencing defensible space consistent with WUI standards could be
+added (landscaping consistent with Firewise Community requirements).
+
+David Killpack with Triumph Design Build, applicant, said they
+purchased the property in April 2024, and had worked on the
+development agreement with city staff. Mr. Killpack said he felt the
+proposed development agreement addressed many of the needs of the
+
+                                                              4|Page
+City, especially pertaining to trail access. He said the roads would be
+private, and said he believed the development would bring some
+wonderful residents to Draper.
+
+Mr. Killpack showed renderings of the planned entrance. He said the
+access easement currently in place was non-exclusive, and emphasized
+that emergency vehicles would have access in an emergency situation.
+Mr. Killpack showed a proposed site plan and said the planned earth
+bridge on the property would include a drainage culvert and a high-
+pressure gas line for Dominion Energy. He said there was a considerable
+amount of unbuildable open space on the property that would
+contribute to the beauty.
+
+Mr. Killpack said the development would have nineteen fire hydrants,
+with five more along the access road. He said Triumph Design Build had
+committed to requiring the homes to meet WUI Code standards even
+though the State of Utah had not yet adopted the WUI Code.
+
+Responding to a question from Mayor Walker, Mr. Killpack said he
+would be open to adding language regarding fire resistant landscaping
+measures (vegetation management plan). The Council and Mr. Killpack
+discussed access to City trails, and Mr. Killpack said the developer could
+provide signage that would alert trail users of upcoming trail closures.
+Ms. Jastremsky confirmed requirement of a breakaway gate was
+included in the Metro Water Agreement.
+
+Mayor Walker opened a public hearing.
+
+Mark (inaudible), Draper resident, said he lived right above the subject
+property. He said fire and development had historically set maximum
+units in a development with singular access at 30. He asked why Draper
+would make an exception and set a precedent for 50 homes. He asked
+why the singular access did not take the most direct route, detouring
+into the conservation easement, instead of hugging the property line,
+which would protect against unnecessary blight, save the developer
+money and time, and reduce potential traffic on the first 150 feet. He
+suggested the first 150 feet would likely turn into a de facto trailhead
+parking lot. He suggested a 12-foot gate was not needed with so much
+
+
+
+                                                                5|Page
+distance to the homes, and suggested requiring a guarantee completion
+bond.
+
+Kim Agnew, Sandy resident, said she owned horse property at 13005
+South 1300 East. Ms. Agnew said she knew it was difficult to insure
+homes in the subject area, and asked if potential home buyers would
+be aware of the difficulty finding insurance coverage.
+
+Kimberly Nearon, Highland resident on Timber Ridge Lane, said she had
+been told that the subject land was unbuildable because of sand. She
+said she was concerned about the risk of houses sliding down the hill to
+her property, and asked if the developers could give public access to
+information confirming rock foundation instead of sand. Ms. Nearon
+spoke of the risk of damage from flooding, and said she was not sure
+the land could support the proposed weight of development. She
+referenced a gas line explosion in San Bruno, California in 2010, and
+expressed concern about the gas line in the area.
+
+Carl Pew, Draper resident at 15873 Mercer Hollow Cove, said he would
+be directly affected by the proposed entrance and gate, and said he had
+been directly affected by a home sliding off the hill during construction
+of the home next to his. He spoke of the cost to stabilize his home after
+the incident, and expressed concern for disturbing the stability during
+proposed construction. Mr. Pew expressed concern about potential
+parking on the street from bikers using the trails, and stated parking
+needed to be provided for recreational users. He referred to
+landscaping renderings shown, commented that the only things that
+grew out there were rabbitbrush and scrub oak, and said he would like
+to see a more accurate depiction of the proposed entrance. Mr. Pew
+expressed hope that there would be a generous investigation of the
+destabilization of the land through the whole length. He invited Mr.
+Killpack to meet with the owners of the seven homes along that road.
+
+Brandon Neish, Highland resident, said he was concerned about the
+number of concerns that had been shared. He said residents had only
+had access to the proposed plans for a short time, and said the process
+felt rushed. Mr. Neish emphasized importance of community input for
+a project the size of the proposed development, and said he had not felt
+the substantial community input shared at the Planning Commission
+
+                                                               6|Page
+meeting had an impact on the Planning Commission. He asked for
+enough time for the community to digest the plan and work with the
+developer. Mr. Neish said there were 100 kids using the trail at the base
+of Hog Hollow multiple nights per week during mountain biking season,
+and asked where the kids would bike during construction. He also spoke
+of a massive elk herd that migrated through the area.
+
+Cameron Treat, Draper resident on Mercer Hollow Cove, said practices
+for mountain bike teams were scheduled in May for the June-November
+season, and asked for more than one-week notice before trail closures.
+He asked for screening from vehicles at night for the neighboring
+residents, and asked about dark sky provisions. Mr. Treat spoke of
+difficulty finding insurance as a resident in the area.
+
+Mayor Walker closed the public hearing.
+
+Councilmember F. Lowry asked Mr. Killpack the notice timeframe he felt
+he could give for trail closure. Mr. Killpack said he believed he could give
+30-day notice prior to trail closure. Councilmember F. Lowry said Draper
+had put a lot of money into improving trails that were used by the entire
+valley, and suggested Highland residents ask the City of Highland to
+expand the parking lot in Highland for trail users. Councilmember F.
+Lowry said he believed the screening requested by Mr. Treat was a fair
+request. Mr. Killpack said he was sensitive to the dark sky concern, and
+said some street lights were required in the subdivision by Code. Staff
+said street lights were only required by Code at intersections, and said
+staff had been looking at the possibility of adding to Code requirements
+that lights pointed down and did not exceed specific lumens. Mr.
+Killpack said he was willing for the proposed development to be a dark
+sky community.
+
+Mr. Killpack said exhaustive soil studies and geo studies had been done.
+He said there had been 28 test pits on the property, studied by soils
+engineers and reviewed by third-party consultants. In addition, a study
+would be required of every homeowner that built on a lot.
+
+Responding to a question from Councilmember F. Lowry regarding the
+completion bond suggested during the public hearing, Mr. Killpack said
+the financial partner was a family office out of Oklahoma, with very
+
+                                                                  7|Page
+      strong financials. He said he also had IFD financing. Mr. Killpack said
+      bonds would be posted with Jordan Basin and Draper City for public
+      improvements. Mr. Killpack said he had met many times with
+      representatives of Dominion (Enbridge) Gas to ensure the culvert over
+      the gas easement was wide enough so that footings would not even
+      touch the gas easement.
+
+      Councilmember T. Lowery referred to the public comment regarding
+      the limit of 30 dwelling units in a development with a single access, and
+      said City Code provided for exceptions with mitigating factors such as
+      sprinkling systems in homes and breakaway gates.
+
+      Councilmember Vawdrey moved to approve Ordinance #1659, adding
+      proposed language regarding access to trails when safe, proposed
+      language regarding use of ignition-resistant materials, reference to a
+      vegetation management plan, and requiring at least 25 days’ notice
+      before trail closures. Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+7.b   Public Hearing: Ordinances #1655 and #1656 amending the official
+      Zoning Map from the RA1 and RA2 Zones to the RM2 Zone, amending
+      the Land Use Map from Residential Low/Medium Density designation
+      to Residential High-Density designation, and a Development Agreement
+      to approve a density range for approximately 20 acres of land located
+      at 600 East Kimballs Lane
+      Community Development Director Jennifer Jastremsky showed the
+      subject area on an aerial map, and said the applicant had been involved
+      in meetings regarding the Kimball Junction Station Area Plan (SAP),
+      which had not yet been submitted to the State. Ms. Jastremsky
+      explained the proposed development agreement included a density
+      range of 25-27 dwelling units per acre (500-540 units total), did not
+      include a concept site plan or design standards, allowed the project area
+
+                                                                     8|Page
+to be expanded in the future if additional property was acquired, and
+included a term of agreement of project buildout or December 31, 2032.
+She said the proposed development agreement referenced the four
+SAP objectives.
+
+The Planning Commission reviewed the application and forwarded a
+positive recommendation, requesting that the City Council do their best
+to negotiate in good faith with the applicant to achieve the following:
+
+   1. Negotiate appropriate height restrictions by considering
+      neighboring properties;
+   2. Consider allocating more units beyond 30 to workforce housing;
+   3. Consider larger landscaping buffers and fencing than required by
+      City Code;
+   4. As long as property does not change, ask that 11900 South
+      remain emergency-only access (if no other properties were
+      acquired by the applicant on 11900 South);
+   5. Consideration for more parking than required by Code.
+
+Responding to a question from the Council, Ms. Jastremsky said the
+State had not set a specific density for SAPs. State guidelines called for
+transit-oriented development, leaving cities to determine appropriate
+density for the different areas. However, she said she suspected the
+lower the density proposed, the more likely Wasatch Front Regional
+Council (WFRC) would be to not certify the SAP.
+
+Mayor Walker commented that the State Legislature had moved closer
+and closer over the last decade to preemption. He said there were
+members of the State Legislature who would like to completely preempt
+city land use authority. Mayor Walker said the Utah League of Cities and
+Towns (ULCT), of which he was currently the President, had worked for
+partnership, not preemption.
+
+Mayor Walker said when FrontRunner came to Draper, the City zoned
+the area for unlimited height and unlimited density. The developer of
+the property chose to build five-story buildings. The same developer
+purchased a property in a different area of Draper and proposed 70
+units per acre. Mayor Walker spoke of how the Legislature came to
+implement SAPs, and said he believed the current housing crisis could
+
+                                                                9|Page
+not be blamed on municipal governments considering the 190,000
+entitled units in the greater Salt Lake City area that had not been built.
+
+Mayor Walker said the proposed lower-density ownership model fit
+with the current goal of the Governor to create ownership opportunity.
+Mayor Walker emphasized that station area planning was out of the
+Draper City Council’s control.
+
+Steve Maddox, applicant and Draper resident, said he had received
+phone calls from State representatives telling him the property should
+be higher-density apartments. He said the individual who had owned
+the property for a long time appreciated agriculture and open space,
+and Mr. Maddox paid tribute to the owner and what the sanctuary had
+brought to the community. Mr. Maddox listed four factions in the
+situation: the long-time property owner, the State, the City, and
+residents. He said he would like to have more time to be able to lay out
+a development, but had a narrowing window to move forward with the
+project in the way he desired. Mr. Maddox emphasized that he wanted
+to work with the City and community. He spoke of the planned
+workforce housing element of the proposed project.
+
+Mayor Walker opened a public hearing.
+
+Jeff Hansen, Draper resident, said he lived about a block away from the
+proposed development. Mr. Hansen read aloud from City Code
+regarding the RM2 Zone, and expressed the opinion that nothing about
+the proposed development was appropriately buffered from the
+neighboring one-acre lots. He commented that there were many
+examples of appropriate buffering in Texas. Mr. Hansen said he loved
+his home and wanted to keep it that way, and said he did not
+understand the rush to move forward with developing the property. He
+expressed the opinion that a solution to traffic problems was needed,
+and stated he did not want his tax dollars used to fund $30,000 per unit
+in the proposed development.
+
+Lisa Austin, Draper resident, said her residential property directly
+backed up to Kimballs Lane. She asked the City to consider needs of the
+area with the substantially increased traffic, and pointed out the
+proposed development would not be within walking distance of a
+
+                                                               10 | P a g e
+public elementary school. Ms. Austin stated Draper residents did not
+like to ride Trax because it was not clean or safe, and was too far from
+any stops that would make using Trax useful. She said people would
+continue to use their cars, and traffic would be out of control. Ms.
+Austin expressed the opinion that $400,000 per unit was not
+“affordable housing”, and said she did not think 30 units with the
+subsidizing incentive was enough. She said she was disappointed with
+the builder chosen for the project, and spoke of the lack of green space
+in the neighborhood.
+
+Shannah Austin, Draper resident, said she agreed with the previous
+comment that $400,000 was not affordable housing. She said she felt
+deflated from the Mayor’s comments. Ms. Austin asked that the things
+residents voted for in the recent survey about Kimballs Lane be taken
+into consideration.
+
+Joe Colosimo with the neighboring Juan Diego Catholic High School said
+his first choices would be to leave the property vacant or have it
+donated to the school. He said he had met with the developer, who had
+incorporated some of the things asked. Mr. Colosimo said the school
+would like density at 25-27 units per acre, building heights less than 60
+feet, housing a minimum of 50 feet off the common property line, and
+ownership instead of rentals. He said he liked the opportunity for
+teachers to purchase and stay in the neighborhood. Mr. Colosimo
+spoke of plans to build an indoor facility between the school’s baseball
+field and the subject property, and expressed a desire for a single fence
+on the property line. Mr. Colosimo said the school owned a piece of
+property that fronted 11800 South, and requested the developer stub
+a street into the property. He said the school was excited about the
+potential for more students with the proposed project.
+
+Justin Haley, Draper resident near the subject property, said it was a
+seller’s market and more homes were not needed. He spoke of
+potential traffic problems with the proposed development, and said it
+would be nice to have more planning. Mr. Haley said he would like the
+property to remain as it was.
+
+Kathryn Murray, Draper resident, said the proposed development was
+being forced on the residents. She expressed the opinion that the
+
+                                                               11 | P a g e
+proposed development was excessive, unreasonable, and entirely
+inappropriate for the space. Ms. Murray said the area could not support
+the proposed number of additional residents, said the roads were
+already overwhelmed, and asked if a traffic capacity study had been
+done. Ms. Murray said school classrooms were becoming more and
+more overwhelmed, and said higher-density housing like what was
+proposed drove down property values. Ms. Murray asked if potential
+home buyers would be notified and made aware of the nature of the
+neighboring working farm. She said she was not anti-growth, but
+demanded responsible growth.
+
+Mayor Walker closed the public hearing.
+
+Councilmember Vawdrey asked Mr. Maddox if the proposed plans
+involved changing the existing waterway. Mr. Maddox said he had been
+made aware of wildlife in the area, and said the plan was to clean up
+the waterway area and create more accessibility. A portion of the
+waterway may be covered at the request of the canal company for
+safety. He said efforts would be made to preserve existing wooded
+areas and incorporate them into green space.
+
+Councilmember T. Lowery asked about buffer zones, commenting that
+buffering was of great concern to neighboring residents. Mr. Maddox
+spoke of the guardrail provided by SAP requirements, and said the
+developer would have the opportunity to create areas of buffering. Mr.
+Maddox said UDOT was heavily involved with the State and the City in
+trying to figure out traffic problems. He suggested the proposed project
+would provide an opportunity to show the State what improvements
+were needed to 700 East, which was not controlled by Draper City.
+
+Responding to a question from Councilmember T. Lowery, Mr. Maddox
+said the proposed townhomes would have two car garages and parking
+for two vehicles in the driveways, providing four off-street parking spots
+per unit.
+
+Councilmember F. Lowry said he had loved the farm and garden on
+Kimballs Lane, and would love for the land to stay the same. However,
+he said the City had a deadline to submit the SAP very soon. He said
+the proposed plan would cap the density, and if the City chose not to
+
+                                                                12 | P a g e
+submit a SAP, Draper would be penalized by a daily fine and withdrawal
+of State funding.
+
+Councilmember Johnson thanked Mr. Maddox for listening to the City
+and residents and working with them as best he could. Councilmember
+Green commented that without the proposed development, the City
+would end up with 50 units per acre on the property with the State
+mandate. Councilmember Green said he did not love the proposed
+plan, but without moving forward, he knew the City would have
+something significantly worse.
+
+Mayor Walker spoke of development on the Fitzgerald property and
+other parcels in the area. Referring to the public comment that
+residents did not like to take Trax, Mayor Walker said there were three
+Trax stops in Draper, and one of the goals of the SAPs was to increase
+use of public transit. Mayor Walker explained that the City portion of
+subsidized workforce housing came from Community Development
+Block Grants (CDBG) – money the City would have to give back to Salt
+Lake County if not used for such a purpose. He said the proposed
+development could not wait because the SAPs had to be submitted by
+October.
+
+Mayor Walker commended the developer for not walking away after
+the tragedy of a home sliding down the hill in a previous development,
+and for putting $28 million into cleaning up homes after the tragedy.
+
+Councilmember F. Lowry moved to approve Ordinances #1655 and
+#1656. Councilmember Johnson seconded the motion.
+
+Councilmember F. Lowry thanked those in attendance for attending and
+staying at the meeting, and assured them they had been heard.
+
+A roll call vote was taken. The motion passed unanimously.
+                                    Yes No      Absent
+Councilmember Green                  X
+Councilmember Johnson                X
+Councilmember T. Lowery              X
+Councilmember F. Lowry               X
+Councilmember Vawdrey                X
+
+                                                             13 | P a g e
+Mayor Walker adjourned the meeting for a five-minute break.
+
+7.c   Public Hearing: Providing Local Consent for a Bar Establishment
+      License for Pine Partners LLC dba The Pines
+      Business License Official Travis DeJong presented the request for local
+      consent for a Bar Establishment License, and said the application met
+      all distance requirements. He said granting local consent to The Pines
+      would bring the total number of bar establishments in Draper City to
+      eight, which was the total number currently allowed under City Code.
+
+      Responding to a question from the Council, Ms. Jastremsky said
+      proximity calculations were based on pedestrian travel.
+
+      Mayor Walker opened a public hearing.
+
+      Michael Chacon, Riverton resident, said he too had an application for an
+      alcohol license submitted to the City. He expressed the opinion that
+      both applications should be reviewed prior to the Council vote so they
+      could judge which application would provide the better fit for Draper
+      City. Mr. Chacon said he had done everything Draper had asked in the
+      last few years. He said his application was for an establishment that
+      would bring in nearly $3 million in food sales and $6.5 million in revenue
+      per year.
+
+      Mayor Walker closed the public hearing.
+
+      Responding to a question from Councilmember T. Lowery, Mr. DeJong
+      said the establishment under consideration had changed ownership,
+      and said it was his understanding that a bar would be added. Gregory
+      Castro, Applicant, said the existing restaurant would remain, and
+      another bar establishment would be added within the existing facility.
+      Mr. Castro explained that a Full-Service Restaurant License required
+      70% food sales and 30% alcohol sales, and restricted how alcohol sales
+      could be administered. He commented that the facility was a 147-year-
+      old fixture in the community.
+
+      Councilmember T. Lowery said she believed the property already had a
+      parking problem, and expressed concern with the proposal to host
+      wedding events. Mr. Castro said the parking had been unmanaged in
+
+                                                                     14 | P a g e
+      the past. He described plans to add an on-site valet service and engage
+      a car service to provide free transportation to guests within 15 minutes
+      of the venue. Mr. Castro said it was not the intention to use parking at
+      Draper City Park. Ms. Jastremsky said parking lot improvements could
+      be done with an amended site plan at the staff level.
+
+      Staff said applications to the City were considered in the order
+      submitted. The application under consideration was submitted quite
+      some time before the application mentioned during the public hearing.
+      Staff answered questions about different types of permits available,
+      explaining that a full-service restaurant was limited to only four special
+      event permits per year.
+
+      Councilmember Green said he did not like that the location was so close
+      to the City Park and Library. He said he did not like the parking situation,
+      and was not comfortable with the application.
+
+      Councilmember T. Lowery moved to deny local consent for The Pines.
+      Councilmember Johnson seconded the motion.
+
+      Councilmember Johnson said she agreed with the concerns expressed
+      by Councilmember Green. Councilmember T. Lowery said she remained
+      unsure whether the application involved the correct license or the
+      correct venue for a reception center.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                          Yes No     Absent
+      Councilmember Green                  X
+      Councilmember Johnson                X
+      Councilmember T. Lowery              X
+      Councilmember F. Lowry               X
+      Councilmember Vawdrey                X
+
+7.d   Public Hearing: Ordinance #1657 Municipal Water Rates, adjusting the
+      municipal water rates for customers serviced by Draper City
+      Finance Director John Vuyk explained the proposal for a 15% increase
+      to the base water rate, and 8% increase to the variable water rate to
+      bring the Water Fund to a positive operating balance.
+
+
+
+                                                                       15 | P a g e
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember Vawdrey moved to approve Ordinance #1657.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+7.e   Public Hearing: Statutory Officer Compensation associated with the
+      FY2026 Tentative Budget
+      Finance Director John Vuyk showed a proposed cost of living adjustment
+      (COLA)/merit increase for statutory officers of 4.25% for FY2026.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward. Staff said formal approval was on the
+      agenda for later in the meeting.
+
+7.f   Public Hearing: Executive Municipal Officer Compensation associated
+      with the FY2026 Tentative Budget
+      Mr. Vuyk presented Executive Municipal Officer Compensation for
+      FY2026.
+
+      Mayor Walker opened a public hearing, and closed the public
+      hearing seeing no one come forward.
+
+7.g   Public Hearing: Resolution #25-28 amending the adopted budget of
+      Draper City for Fiscal Year 2024-2025
+      Mr. Vuyk presented proposed amendments to the FY2025 Budget, and
+      answered questions from the Council.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+
+
+                                                                   16 | P a g e
+           Councilmember Vawdrey moved to adopt               Resolution   #25-28.
+           Councilmember Johnson seconded the motion.
+
+           A roll call vote was taken. The motion passed unanimously.
+                                              Yes No      Absent
+           Councilmember Green                 X
+           Councilmember Johnson               X
+           Councilmember T. Lowery             X
+           Councilmember F. Lowry              X
+           Councilmember Vawdrey               X
+
+8.   Action Items
+     8.a   Ordinance #1658 adopting the compensation schedule for statutory
+           employees for fiscal year 2025-2026
+
+           Councilmember Vawdrey made a motion to adopt Ordinance #1658.
+           Councilmember F. Lowry seconded the motion.
+
+           A roll call vote was taken. The motion passed unanimously.
+                                              Yes No      Absent
+           Councilmember Green                 X
+           Councilmember Johnson               X
+           Councilmember T. Lowery             X
+           Councilmember F. Lowry              X
+           Councilmember Vawdrey               X
+
+     8.b   Resolution #25-26, a resolution of the Draper City Council acting as the
+           governing body of the Traverse Ridge Special Service District adopting
+           and certifying a tax rate for the 2026 taxable year
+           Mr. Vuyk presented the proposed tax rate for the Traverse Ridge Special
+           Service District for the 2026 taxable year (0.000662).
+
+           Councilmember F. Lowry moved to approve Resolution #25-26.
+           Councilmember Johnson seconded the motion.
+
+           A roll call vote was taken. The motion passed unanimously.
+                                              Yes No      Absent
+           Councilmember Green                 X
+           Councilmember Johnson               X
+
+                                                                         17 | P a g e
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+8.c   Ordinance #1654 amending Title 6-6 of the Draper City Municipal Code
+      pertaining to fire prevention
+      Mr. DeJong explained proposed amendments to the City Code
+      pertaining to fire prevention. He stated that the old firework restrictions
+      map would be removed, and the Council would adopt a new firework
+      restrictions map by ordinance.
+
+      Councilmember Johnson made a motion to approve Ordinance #1654.
+      Councilmember Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+8.d   Resolution #25-25 or Resolution #25-32 adopting the Budget, Staffing
+      Document and Compensation Schedule for fiscal year 2025-2026
+      Mr. Vuyk explained proposed changes to the FY2026 Tentative Budget
+      since the last review by the Council. He said Resolution #25-25 would
+      adopt the certified tax rate provided by the County, and Resolution #25-
+      32 would adopt the current rate.
+
+      Councilmember F. Lowry made a motion to approve Resolution #25-32,
+      adopting the City of Draper Acting Budget for the time period of July 1,
+      2025 through June 30, 2026, with changes noted by staff.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+
+                                                                      18 | P a g e
+            Councilmember F. Lowry            X
+            Councilmember Vawdrey             X
+
+      8.e   Resolution #25-27 adopting the 2025 Fraud Risk Assessment for the City
+            of Draper
+            Mr. Vuyk presented 2025 Fraud Risk Assessment results and reported a
+            score of 355 out of 395.
+
+            Councilmember Vawdrey made a motion to adopt Resolution #25-27.
+            Councilmember T. Lowery seconded the motion.
+
+            A roll call vote was taken. The motion passed unanimously.
+                                               Yes No      Absent
+            Councilmember Green                 X
+            Councilmember Johnson               X
+            Councilmember T. Lowery             X
+            Councilmember F. Lowry              X
+            Councilmember Vawdrey               X
+
+9.    Recess to a Draper City Community Reinvestment Agency Meeting
+
+      Councilmember Vawdrey moved to recess to a meeting of the Community
+      Reinvestment Agency with intention to return to regular Council meeting.
+      Councilmember T. Lowery seconded the motion, which passed by unanimous
+      vote (5-0).
+
+      The City Council recessed to the Community Reinvestment Agency meeting at
+      10:58 p.m. and reconvened the regular meeting at 11:00 p.m.
+
+10.   Adjournment
+      Councilmember Green moved to adjourn the meeting. Councilmember F.
+      Lowry seconded the motion, which passed by unanimous vote (5-0).
+
+      The meeting adjourned at 11:02 p.m.
+
+
+
+
+                                                                         19 | P a g e
+

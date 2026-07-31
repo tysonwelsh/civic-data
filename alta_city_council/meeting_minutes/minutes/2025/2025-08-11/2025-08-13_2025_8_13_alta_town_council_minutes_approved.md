@@ -1,0 +1,435 @@
+---
+title: Alta Town Council — Regular Meeting 2025-08-13
+date: 2025-08-13
+meeting_type: regular
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1321947.pdf
+source_file: 2025-8-13 Alta Town Council Minutes APPROVED.pdf
+pmn_file_id: 1321947
+format: ocr
+---
+
+MINUTES
+ALTA TOWN COUNCIL MEETING, WORK SESSION AND PUBLIC HEARING
+Wednesday, AUGUST 13, 2025, 4:00 PM
+Alta Community Center, 10351 E, Highway 210, Alta, Utah
+PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil (attended virtually)
+Councilmember John Byrne .
+Councilmember Elise Morgan
+Councilmember Dan Schilling
+STAFF PRESENT: Chris Cawley, Town Manager
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk
+Molly Austin, Assistant Town Manager
+Brooke Boone, Deputy Town Clerk
+Craig Heimark, Treasurer
+ALSO PRESENT: Cameron Platt, Legal Counsel ;
+NOT PRESENT: N/A ,
+WORK SESSION
+1. CALL THE WORK SESSION TO ORDER
+00:00:00 ,
+Mayor Bourke called the work session of August 13, 2025 to order. ,
+2. DISSCUSION REGARDING THE TOWN OF ALTA MISSION AND VALUES
+———E EEN ARE ING THE TOWN OF ALTA MISSION AND VALUES
+00:00:40 .
+Chris Cawley began by outlining goals to refine the Town’s mission and values and prepare for a
+September strategic planning meeting. Cawley reviewed the history of past discussions, noting that the
+January 2024 retreat produced priorities such as sustaining the Marshal’s Office, addressing capital
+needs, and pursuing long-range planning. Cawley explained that the mission statement initially drafted
+by staff emphasized safety, quality of life, environmental protection, growth management, and the
+local economy, with values including accessibility, transparency, accountability, and equity. After
+further discussion, Cawley proposed a more concise mission statement: “to provide service with
+integrity,” accompanied by revised core values. Councilmembers generally supported the shorter
+- mission statement and debated whether the values should include integrity, equity, or alternatives
+such as fairness and equality. Anctil suggested balancing the wording, Byrne raised-concerns about .
+misinterpretation of “equity,” and Morgan emphasized the usefulness of the statements for
+onboarding staff and guiding decisions. Heimark recommended that values be reviewed annually to
+Alta Town Council Meeting |
+August 13, 2025 1
+
+ensure consistency with actions. Morey described how the Marshal’s Office applied its guiding
+principles in practice, reinforcing the importance of simple standards. After further discussion, the
+Council reached consensus to retain the concise mission statement, remove “integrity” from the list of
+values, and replace “equity” with “equality,” resulting in four core values: accountability, community,
+environment, and equality. The Council agreed that this item could be acted upon in the regular
+meeting agenda. ,
+3. DISCUSSION REGARDING UPCOMING COUNCIL RETREATS
+RSE EVARUING UPCOMING COUNCIL RETREATS
+00:34:20
+Cawley opened the discussion by emphasizing the need for additional dedicated time outside of
+regular council meetings to address big capital projects and their financing. Cawley noted that Alta, like
+many small governments, is facing a situation where past infrastructure has been built without
+sufficient savings for future replacements, making the scope of upcoming projects feel daunting. The
+last comparable project was the town office in 1994, illustrating that the council has limited experience
+with large-scale municipal projects.
+Cawley outlined that the first strategic session is scheduled for September 4, 9 a.m. to noon, |
+potentially at Our Lady of the Snows (OLS), and will focus on:
+¢ Existing conditions of buildings and water/sewer infrastructure
+e Public finance options and constraints .
+e Facilities plan outcomes
+Cawley emphasized that this would be a facilitated session, with Julie DeLong engaged to manage the
+discussion, allowing staff to participate fully. A public finance expert will also be present to answer
+questions. Drafts of the facilities plan and the water/sewer master plans will be distributed in advance,
+acknowledging minor gaps in floor plans in prior drafts.
+John Byrne highlighted that by extending the timelines for water and sewer projects to 10-12 years,
+rate increases could fund these infrastructure needs, likely keeping them under 15-20%, leaving —
+_ external financing primarily for the new town building. The focus will first be on understanding the
+projects themselves, then discussing financing options.
+The council discussed the format of the strategic session, valuing the dynamic, collaborative style of
+prior retreats (tables with staff, interactive exercises), while acknowledging challenges in recording for
+public transparency. Elise Morgan suggested hiring a professional videographer familiar with public
+meetings to capture the discussion, enabling a video record that could be posted online or transcribed
+if needed.
+The session would combine structured presentations for clarity with interactive discussion for
+engagement. Byrne suggested that agenda planning should prioritize projects first, then financing, to .
+help educate the public and facilitate understanding. The session is legally considered a special public
+meeting, and appropriate notice must be given, but no changes to the regular council meeting calendar |
+are necessary.
+Alta Town Council Meeting
+August 13, 2025 2
+
+Overall, the council agreed on:
+e Maintaining the interactive retreat format
+e Hiring a videographer to record the session
+e Emphasizing project understanding before financing discussion
+e Ensuring the meeting is properly noticed asa special public meeting
+4. MOTION TO ADJOURN WORK SESSION
+00:55:10 |
+MOTION: Dan Schilling motioned to adjourn, and Elise Morgan seconded.
+VOTE: All were in favor. The public hearing was unanimously adjourned.
+RESULT: APPROVED
+ALTA TOWN COUNCIL MEETING
+1. CALL THE ALTA TOWN COUNCIL MEETING TO ORDER
+01:00:45
+Mayor Bourke called the August 13, 2025 Alta Town Council meeting to order.
+| 2. CITIZEN INPUT
+01:01:15
+Mark Haik offered a contrasting perspective on the municipality’s mission statement. Haik emphasized
+that Alta, as a creature of the Utah Legislature, should keep its mission simple and focused, following
+the KISS principle (“Keep It Simple, Stupid”). Haik suggested the core mission statement should be
+something like: “Our job is to deliver water, sewer, fi re, and police protection to our taxpayers.” Haik .
+noted that while municipalities can engage in other activities, the fundamental responsibility is
+providing essential services. Once those are successfully delivered, the: town has broad discretion to
+pursue additional initiatives, as allowed by state law. Regarding the upcoming council retreat, Haik
+recommended including Craig Heimark and Mr. Moxley, who are running for offices this fall. Haik also ,
+suggested inviting the Planning Commission members to improve coordination between the council
+and commission.
+Margaret Bourke stated that in crafting a mission and value statement, the council should carefully
+consider who.constitutes the “community”. Bourke noted that the community encompasses multiple
+groups: property taxpayers, recreational visitors contributing via sales tax, residents with voting rights,
+and other individuals who participate in the community but may not provide financial support. Bourke
+Alta Town Council Meeting
+August 13, 2025 3 :
+
+encouraged the council to recognize and include these diverse constituencies, emphasizing inclusivity
+and the multiple ways people engage with and support the town, while shaping the mission and value
+statement.
+3. ALTA SKI AREA UPDATE, MIKE MAUGHAN
+01:07:00 ,
+Mike Maughan provided updates on upcoming events, construction projects, and operations in Alta.
+Maughan noted that the final Cirque Series race of the season will be held on August 23, based out of
+the Wildcat and town park area. A contractor has been conducting aerial mapping to synchronize
+terrain data with LIDAR measurements for snow depths, providing a more accurate base map for
+future projects. Regarding the Supreme lift project, all terminals and footings are now aligned and
+poured, with active construction scheduled between September 10 and 30. During this time, the
+summer road at Catherine’s trailhead will be closed, though the trail itself remains open. Additionally,
+Rocky Mountain Power will be installing a power line through the campground, which will temporarily
+alter access for cabin owners. The Supreme Lift is expected to undergo commissioning and load testing
+in mid-October.
+Maughan also provided an update on the Albion Day Lodge expansion, noting that footings and precast
+walls are being installed and that the building should be enclosed by winter. Other projects include
+completion of the Wyssen tower project, ongoing trail work beneath Baldy, and the Sugarloaf lift
+retrofit, which involves motor replacement and expansion of the operator house. The crosstow project
+that includes snowmaking lines and the town’s water line is proceeding slowly but remains critical for .
+preparing snow-making capabilities by November 1. |
+Pre-season sales for season passes are currently 3% ahead of last year, with approximately 70% of |
+passes sold. Byrne inquired about shifts toward less expensive pass options; Maughan confirmed a
+slight decline in full-rate passes but strong growth in premium products like the Gold Card. The :
+Mountain Collective product continues to see gradual recovery and growth despite competition from :
+other multi-resort passes.
+4. QUESTIONS REGARDING DEPARTMENTAL REPORTS
+01:17:20
+At the mayor’s request, Mike Morey recounted a recent incident on July 30 involving ahomicidal and
+suicidal subject whose cell phone signal was detected near Catherine’s trailhead in Alta. While
+responding, the University of Utah police and county sheriff's deputies coordinated to locate the
+individual. Deputy Spencer, already in the area, monitored the suspect until the university officers
+arrived and safely made the arrest without incident. Morey emphasized the effectiveness of the |
+tactical response but noted a failure in the notification system that delayed awareness for Alta’s local
+police. Since the incident, communication protocols have been updated to ensure local dispatch
+centers have immediate contact information for each other.
+Dan Schilling expressed concern that the issue extends beyond the University of Utah police and ;
+represents a system-wide communication gap. Morey explained that Utah law requires notification
+Alta Town Council Meeting
+- August 13, 2025 4 ;
+
+when one law enforcement agency enters another jurisdiction and that the delay in this case was
+unintentional, due in part to responders not being aware of Alta’s local police. Morey highlighted
+ongoing challenges with technology and dispatch consolidation mandates, noting the town’s need for
+. Situational awareness in its unique geographic context. Efforts are underway to acquire mobile data
+terminals for police vehicles and dispatch to improve coordination, although costs and vendor
+limitations have presented obstacles. Morey stressed that enhancing communication technology is
+critical for officer safety and effective response to future incidents.
+Elise Morgan raised a concern about parking at White Pine and the trailhead, noting that in past
+summers the downhill shoulder corner had been coned off on weekends to prevent cars from blocking
+the road. Morgan observed that this practice had not occurred this summer. Morey acknowledged her
+recollection and agreed to restore the cones.
+Morey provided an update on police recruitment, noting that interest had been modest, with only a
+few applicants and two in-person interviews. Morey emphasized the importance of careful selection to
+ensure candidates align with the department's approach. He also highlighted plans to create a more
+ADA-accessible workspace for deputies, enabling secure interviews with the public, and thanked the |
+council for funding the project. Mayor Bourke acknowledged Deputy Ted’s repeated presence at
+significant events, praising his work.
+Cawley then highlighted ongoing em ergency management efforts. Molly Austin, serving as the town’s .
+emergency manager, has been participating in the county emergency managers’ meetings and
+coordinating a National Incident Ma nagement System (NIMS) training for the council. The training,
+- scheduled for the next council meeting, will include lessons, discussion, and a 30-minute interactive
+exercise to preparé elected officials for emergencies such as avalanches, wildfires, or earthquakes.
+Morgan and Dan Schilling emphasized the importance of this training, citing the unique mountain
+environment and the need for preparedness, Cameron Platt confirmed that because this session is
+purely informational and no action is taken, it does not require formal minutes or recordings.
+Morey also acknowledged the support of the 113 fire crew, describing them as:a “force multiplier” in
+handling emergencies and maintaining public safety.
+5. APPROVAL OF JULY 9, 2025 ALTA TOWN COUNCIL MEETING MINUTES, JULY STAFF AND |
+nia eee BO o—verewrevwvwwT SH JSON IE ENG WUNUITES, JULY STAFF AND
+FINANCE REPORTS
+01:36:00 .
+MOTION: Elise Morgan motioned to approve the July 9, 2025 town council meeting minutes,
+and July staff and finance reports. Dan Schilling seconded. :
+VOTE: All were in favor. The July 9, 2025 town council meeting minutes, and July staff and
+finance reports were approved.
+RESULT: APPROVED
+6. MAYORS REPORT
+Alta Town Council Meeting
+August 13, 2025 5
+
+01:38:00
+Mayor Bourke began his report by noting that his planned meeting with Senator John Curtis at
+Catherine’s Pass on September 2 was canceled due to the Senator needing to remain in Washington
+for legislative business. As a result, Bourke met instead with the UFA crew at their station, reporting
+positive relations between the town and UFA and noting satisfaction with their dealings with AMO.
+Mayor Bourke emphasized that the town’s law enforcement team is always vigilant, echoing points
+made by Morey regarding the importance of public awareness and reporting incidents. Bourke also
+highlighted the upcoming monthly conference of mayors meeting, which Alta will host next Thursday
+from 11:30 a.m. to 1:00 p.m. on the OLS deck. The event provides an opportunity to showcase Alta to
+regional leaders and promote environmental stewardship, and the public is welcome to attend.
+Bourke reminded the council that the municipal election is about 12 weeks away for two town council
+seats and the mayor, noting that ACE will host a meet the candidate forum on October 7 where the
+public can engage with candidates. Mayor Bourke then shared an astronomy update, describing the
+upcoming passage of Comet 31/Atlas. Mayor Bourke concluded by noting the next council meeting on
+Wednesday, September 10, beginning at 4:00 p.m., and reminded the council of the upcoming atomic
+equinox, when all locations on Earth will experience 12 hours of daylight.
+7. DISCUSSION AND POSSIBLE ACTION TO ADOPT THE TOWN OF ALTA MISSION AND VALUES
+EE EES ARUET THE TOWN OF ALTA MISSION AND VALUES
+01:46:45
+Cawley summarized the recent work session, noting that the council had agreed on a mission “to
+provide service with integrity” and values emphasizing environment, community, equality, and
+accountability. Cawley emphasized that these statements are intended to be living and adaptable
+rather than fixed, and that they will guide both short and long-term decision making for the town,
+Mayor Bourke added that the council had thoroughly discussed the statements during the work
+session and recommended formally adopting the mission and values as agreed. Cawley added that he
+looked forward to incorporating the adopted mission and values into the retreat presentation.
+MOTION: Dan Schilling motioned to approve the Town of Alta’s mission as “to provide service
+with integrity” and the values as Equality, Accountability, Community, and Environment. Elise
+. Morgan seconded. |
+VOTE: All were in favor. The mission and values were adopted.
+RESULT: APPROVED
+8. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2025-R-21 ADOPTING THE STAGE
+2 FIRE RESTRICTIONS .
+01:49:45 Z !
+Mayor Bourke introduced the discussion regarding Resolution 2025-R-21 to adopt Stage Two fire
+restrictions, noting the impracticality of calling a special council meeting if UFA or the Forest Service ;
+Alta Town Council Meeting |
+August 13, 2025 6
+
+were to declare a higher stage. Mayor Bourke proposed that the town automatically mirror the stage
+condition declared by UFA or the Forest Service. Cameron Platt cautioned that automatically mirroring
+could be limiting if the town wanted a higher standard than surrounding areas and suggested creating
+an ordinance authorizing UFA to upgrade restrictions in consultation with the mayor or council for
+more agility. Morgan supported the idea, emphasizing the need to avoid delays while recognizing the
+town may want stricter measures than the state. Schilling recommended delegating the authority to
+the mayor to allow swift action, which Cameron confirmed was permissible. Byrne asked if such
+authority could be delegated to the town manager, Chris Cawley, and it was agreed that either the
+mayor or town manager could act. Council members discussed the need to draft the ordinance but
+agreed to adopt Stage Two restrictions immediately to address current fire risks. Morgan highlighted
+the life safety implications, and the council agreed they wanted to see a draft ordinance on a future
+agenda for formal adoption.
+MOTION: Dan Schilling motioned to approve Resolution 2025-R-21 adopting the stage 2 fire .
+restrictions. Elise Morgan seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Schilling — yes, Councilmember Morgan — yes, Mayor Bourke — yes Resolution 2025-R-21 was
+unanimously approved.
+RESULT: APPROVED
+9. DISCUSSION AND POSSIBLE ACTION TO COMMENCE A CLOSED MEETING TO DISCUSS A
+MATTER AUTHORIZED BY UTAH CODE SECTION 52-4-205(1)(a)
+01:57:50 .
+MOTION: Mayor Bourke motioned to commence a closed meeting to discuss a matter |
+authorized by Utah code section 52-4-205(1){a). Elise Morgan seconded. :
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Schilling — yes, Councilmember Morgan — yes, and Mayor Bourke — yes, a closed meeting was
+unanimously approved.
+RESULT: APPROVED
+10. NEW BUSINESS ; ;
+01:58:30 |
+No new business
+11. MOTION TO ADJOURN THE ALTATOWN COUNCIL MEETING
+01:58:30
+Alta Town Council Meeting |
+August 13, 2025 7
+
+Town Council meeting was held open until after the public hearing and the closed door meeting. See
+below. . ,
+PUBLIC HEARING
+1. CALL THE PUBLIC HEARING TO ORDER
+02:00:00
+Mayor Bourke called the public hearing of August 13, 2025 to order.
+2, ACCEPT PUBLIC COMMENT REGARDING THE PROPOSED FY 2026 GENERAL FUND BUDGET
+AND PROPOSED TAX RATE OF .001036 AND ASSOCIATED REVENUE ESTIMATED AT $505 000
+EAA RATE OF .001036 AND ASSOCIATED REVENUE ESTIMATED AT $505,000
+02:00:30
+Mark Haik stated that he does not oppose the proposed tax increase, but expressed concern that the
+revenue generated would likely fall short of funding even a modest version of the proposed capital
+improvements wish list. Haik questioned whether the town would find itself returning next year to
+request additional funds once the true costs of even a pared-down list are understood. Haik also noted
+that, according to the notice, taxes on a million-dollar home in Alta would increase from approximately
+$700~$800 to around $1,100-$1,200, which he observed is relatively low compared to taxes on more
+modest homes down the hill. While acknowledging the town’s genuine need for capital improvements,
+he cautioned that the financial challenge may have been underestimated.
+3. ACCEPT PUBLIC COMMENT REGARDING THE PROPOSED CAPITAL PROJECTS PLAN AND THE
+CAPITAL PROJECTS FUND AMENDMENT
+02:02:45 .
+Mark Haik stated that over the past twelve months, he has consistently communicated to the council,
+‘both in writing and orally about the capital projects plan and the apparent lack of familiarity among
+council members and staff regarding the capabilities and limitations of the town’s sewer, water, and
+fire protection systems. He noted that when the town joined UFA nearly a decade ago, neither staff
+nor elected officials, including the chief executive and mayor, asked basic yet critical questions, such as
+whether there was sufficient water to provide fire protection to all residents or how much water was
+currently available. Haik emphasized that with the town’s ability to levy taxes, acquiring additional Le
+water is.straightforward, underlining the importance of understanding and planning around these :
+essential resources. |
+4. ACCEPT PUBLIC COMMENT REGARDING ORDINANCE 2025-0-3 UPDATING THE
+COMPENSATION OF ELECTIVE AND STATUTORY OFFICERS
+SAAN VP ELECTIVE AND STATUTORY OFFICERS
+02:05:10 , .
+Alta Town Council Meeting
+August 13, 2025 8
+
+No public comment received. |
+5. DISCUSSION AND POSSIBLE ACTION TO ADOPT ORDINANCE 2025-0-3 AMENDING THE
+—_—E——r—esmn—Erm— SME ALN TU ADOPT ORDINANCE 2025-0-3 AMENDING THE
+COMPENSATION OF ELECTIVE ANS STATUTORY OFFICERS
+SAREE RAIN UF ELECTIVE ANS STATUTORY OFFICERS
+02:05:30
+Mayor Bourke explained that last month, the council decided to keep the compensation for elected
+officers, as well as for the planning commission, unchanged, while making adjustments to staff salaries.
+However, the treasurer’s salary had been inadvertently increased. This ordinance corrects that error,
+restoring the treasurer's salary to its previous level, aligning it with the compensation of the town
+council and planning commission.
+MOTION: Elise Morgan motioned to adopt Ordinance 2025-0-3 amending the compensation of
+statutory and elective officers. Dan Schilling seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Schilling — yes, Councilmember Morgan — yes, and Mayor Bourke — yes, Ordinance 2025-0-3
+was adopted. .
+RESULT: APPROVED
+6. DISCUSSION AND POSSIBLE ACTION TO APPROVE RESOLUTION 2025-R-22 ADOPTING A FINAL
+RU APPROVE RESOLUTION 2025-R-22 ADOPTING A FINAL
+TAX RATE OF .001036 WITH FORM PT-800
+02:07:30
+Mayor Bourke opened discussion on Resolution 2025-R-22, adopting a final tax rate of 0.001036 with
+Form PT-800, Clancy clarified that the specific form is required for submission to the state. Morgan
+noted that the town typically adjusts its tax rate every other year and that these modest increases are
+intended to keep pace with inflation rather than fund major projects. Mayor Bourke raised a question
+regarding projected fiscal 2026 sales tax revenues, which appeared lower than last year’s actuals;
+Clancy explained that projections are based on budgeted, rather than actual figures due to timing
+delays in receiving final revenue numbers. Heimark added that the Budget Committee deliberately ,
+used a conservative estimate given uncertainties in the economy and potential impacts on Alta season
+passes. The council discussed the effect of cash transfers from the general fund to the capital projects
+fund and acknowledged the town’s reduced liquidity compared to prior years. :
+Mayor Bourke then reviewed the town’s revenue sources and expenditure allocations, noting that |
+payroll and benefits comprise the largest portion of expenses. Morgan clarified that the property tax
+increase feeds into the general fund, which covers operating costs rather than capital projects. Mayor
+Bourke. commented that while raising taxes is never easy, it is necessary to keep pace with the cost of .
+living, and John Byrne emphasized that the additional revenue is intended for operating expenses, :
+Alta Town Council Meeting
+August 13, 2025 a) !
+
+MOTION: Elise Morgan motioned to approve Resolution 2025-R-22 adopting a final tax rate of
+.001036 with form PT-800. Dan Schilling seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Schilling - yes, Councilmember Morgan — yes, and Mayor Bourke — yes, Resolution 2025-R-22
+was adopted.
+RESULT: APPROVED
+7, DISCUSSION AND POSSIBLE ACTION TO APPROVE RESOLUTION 2025-R-23 ADOPTING THE
+RN A POO IBER ALTON TU APPROVE RESOLUTION 2025-R-23 ADOPTING THE
+GENERAL FUND BUDGET
+02:18:45 .
+Mayor Bourke introduced Resolution 2025-R-23, adopting the Fiscal Year 2026 general fund budget.
+- Clancy explained that although closely related to the recently approved tax rate increase, this
+resolution is separate and approves the General Fund budget. Cawley noted that if the town had not
+conducted a truth-in-taxation process, the budget would have been adopted in June; the delay was
+necessary to receive certified property values provided by the state. Clancy added that the town had
+been operating off the tentative budget until this resolution.
+MOTION: Dan Schilling motioned to approve Resolution 2025-R-23 adopting the FY26 General
+Fund budget. John Byrne seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+. Schilling — yes, Councilmember Morgan — yes, and Mayor Bourke — yes, Resolution 2025-R-23
+was adopted.
+RESULT: APPROVED
+8. DISCUSSION AND POSSIBLE ACTION TO APPROVE RESOLUTION 2025-R-24 REPEALING AND
+eS EE POSIBLE ACTON TO APPROVE RESOLUTION 2025-R-24 REPEALING AND
+REPLACING THE TOWN OF ALTA CAPITAL PROJECTS PLAN
+02:20:20
+Clancy offered that the Capital Projects Plan encompasses the capital projects fund, water capital
+projects, and sewer projects, while later discussions would focus on more specific items.
+Councilmembers expressed general support, noting that the plan updates only projects occurring in FY 7
+26 and assigned funds accordingly, without committing to long-term or speculative projects. Byrne
+_ emphasized that separating the projects by year ensures clear commitment to near-term needs.
+Cawley highlighted several high-priority safety improvements for older buildings, including professional
+roof safety systems, acknowledging the tension between investing in aging infrastructure and planning
+for future replacements. Councilmembers agreed that minimal investments to address life-safety
+issues are sensible, given lead times for new buildings. ;
+Alta Town Council Meeting
+August 13, 2025 10
+
+Clancy proposed adding $12,000 in FY26 to cover a speed trailer that was budgeted and ordered in !
+FY25 but not received until well into FY26, bringing the revised FY26 total to $1.193 million. Dan
+. Schilling moved to adopt the resolution with the inclusion of the $12,000 for the speed trailer,
+emphasizing the cost savings for constituents, and the motion was seconded.
+MOTION: Dan Schilling motioned to approve Resolution 2025-R-24 repealing and replacing the
+Town of Alta capital projects plan including the $12,000 for the speed trailer. Elise Morgan
+seconded. |
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember |
+Schilling — yes, Councilmember Morgan — yes, and Mayor Bourke — yes, Resolution 2025-R-24
+was adopted.
+RESULT: APPROVED
+9, DISCUSSION AND POSSIBLE ACTION TO APPROVE RESOLUTION 2025-R-25 AMENDING THE
+CAPITAL PROJECTS FUND BUDGET
+02:26:20
+MOTION: Elise Morgan motioned to approve Resolution 2025-R-25 amending the capital
+projects fund budget including the $12,000 allocation for the speed trailer and correlating
+adjustment to the use of reserved funds to balance the budget. Dan Schilling seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Schilling — yes, Councilmember Morgan — yes, and Mayor Bourke — yes, Resolution 2025-R-25
+was adopted.
+RESULT: APPROVED
+| 10. MOTION TO ADJOURN PUBLIC HEARING
+02:29:30
+MOTION: Dan Schilling motioned to adjourn, and Elise Morgan seconded.
+VOTE: Ali were in favor. The public hearing was unanimously adjourned.
+RESULT: APPROVED
+#*##** CLOSED MEETING *****
+ALTA TOWN COUNCIL MEETING - RETURNED
+Alta Town Council Meeting :
+August 13, 2025 1]
+
+(Carolyn Anctil did not reenter the meeting)
+11. MOTION TO ADJOURN
+Held until after the closed door meeting.
+MOTION: Dan Schilling motioned to adjourn, and John Byrne seconded.
+VOTE: Allin favor. The meeting was unanimously adjourned.
+RESULT: APPROVED
+Passed this 10" day of September, 2025
+Je ncy, Town Clerk = (
+Alta Town Council Meeting
+August 13, 2025 12

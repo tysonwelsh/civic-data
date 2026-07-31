@@ -1,0 +1,59 @@
+# City Council - Board of Canvassers
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1953&doc_id=29c27439-94c4-11f0-8df7-005056a89546
+> Meeting date: 2025-08-26
+> Format: text
+
+MINUTES OF THE DRAPER CITY BOARD OF CANVASSERS MEETING HELD ON
+TUESDAY, AUGUST 26, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:     Board Members Troy K. Walker, Mike Green, Bryn Heather Johnson,
+             Tasha Lowery, and Marsha Vawdrey
+EXCUSED: Board Member Fred Lowry
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Traci Gundersen, City Attorney; Nicole Smedley, City Recorder; Jake
+             Sorensen, Network Manager
+______________________________________________________________________________________
+
+1. Call to Order by Board Member Troy K. Walker
+
+2. Pledge of Allegiance led by Jake Sorensen
+
+3. Items for Board Consideration
+   3.a Action Item: Resolution #25-42 certifying the official Canvass of the Primary
+        Municipal Election held August 12, 2025
+        City Recorder Nicole Smedley presented unofficial results and statistics of
+        the Primary Municipal Election held August 12, 2025. She reported for the
+        one at-large, 2-year-term City Council position, Kathryn Dahlin (2,407 votes,
+        47.63%) and Brad Byington (1,622 votes, 32.09%) would move forward to the
+        General Election ballot.
+
+        Board Member Green moved to approve Resolution #25-42. Board Member
+        T. Lowery seconded the motion.
+
+        A roll call vote was taken. The motion passed unanimously.
+
+
+
+                                          Yes   No     Absent
+        Councilmember Green                X
+        Councilmember Johnson              X
+        Councilmember T. Lowery            X
+        Councilmember F. Lowry                            X
+        Councilmember Vawdrey              X
+
+
+                                                                            1|Page
+
+        Draper City Board of Canvassers Meeting Minutes Approved September 16, 2025
+7. Adjournment
+  Board Member Green moved to adjourn the meeting. Board Member T. Lowery
+  seconded the motion, which passed by unanimous vote (4-0).
+
+  The meeting adjourned at 6:14 pm.
+
+
+
+
+                                                                 2|Page
+

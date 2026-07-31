@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": null, "name": "ROBERTO PINON", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Application for candidacy", "purpose": "Application for candidacy", "amount": "50", "in_kind": false}
+  ],
+  "total_contributions": "50",
+  "total_expenditures": "50",
+  "contributions_50_or_less": "50",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/city_electioninfo_robert-pinon.pdf",
+    "candidate": "Robert Pinon",
+    "office": "City of Emigration Canyon Council (2025, at-large)",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/city_electioninfo_robert-pinon.pdf",
+    "pages": 5,
+    "note": "Transcribed 2026-07-17 from the BORN-DIGITAL TEXT layer (pdftotext -layout, not a scan) of Pinon's 2025 city primary Report of Contributions & Expenditures (10-3-208). $50 filing-fee-only, candidate self-funded: Schedule A itemizes 'ROBERTO PINON $50' (the candidate's own sub-$50 aggregate contribution — the form redundantly lists it in Schedule A AND the $50 aggregate line, but TOTAL CONTRIBUTIONS = $50, not $100; single row kept, not double-counted). Schedule B: 'Application for candidacy $50'. Summary Column A: contributions $50 / expenditures $50 / begin $0 / close $0. Schedule C in-kind = NONE. Only the Aug-5 primary report is posted; the Oct/Dec general reports are the unrecovered.csv gap. format=text so this filing earns HIGH confidence (is_text) once reconciled."
+  }
+}

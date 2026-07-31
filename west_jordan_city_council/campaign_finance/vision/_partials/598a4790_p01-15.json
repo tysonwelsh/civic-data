@@ -1,0 +1,33 @@
+{
+  "segments": [
+    {
+      "pages": "1-10",
+      "report_label": "FINAL (general election), report date 12/2/2021; typed cover sheet PDF p1 'Mike Withers 12/2/2021 FINAL...'; form pages 1-2 on PDF p2-3; RECEIVED stamp DEC 02 2021 3:15 By Tangee; FINAL (Dec 2) box checked; At-Large Council Member",
+      "cover_lines": {
+        "line1_balance_forward": "",
+        "line2_contributions_50_or_less": "Ø",
+        "line3_contributions_over_50": "-",
+        "line4_total_contributions": "-",
+        "line5_total_expenses": "-",
+        "line6_ending_balance": "Ø"
+      },
+      "contributions": [],
+      "expenditures": []
+    },
+    {
+      "pages": "11-15 (report continues on p16+, outside this partial)",
+      "report_label": "INTERIM (pre-general), report date 10/26/2021; typed cover sheet PDF p11 'Mike Withers 10/26/2021 INTERIM...'; form pages 1-2 on PDF p12-13; RECEIVED stamp OCT 26 2021 3:34 Tangee; INTERIM (Oct 26) box checked; At-Large Council Member",
+      "cover_lines": {
+        "line1_balance_forward": "",
+        "line2_contributions_50_or_less": "Ø",
+        "line3_contributions_over_50": "Ø",
+        "line4_total_contributions": "2257.50",
+        "line5_total_expenses": "2257.50",
+        "line6_ending_balance": "Ø"
+      },
+      "contributions": [],
+      "expenditures": []
+    }
+  ],
+  "notes": "Withers Mike S, 2021 WJ bundle, PDF pages 1-15 of 30. TWO report boundaries in range. Report 1 (FINAL, signed 12-2-21) = PDF p1-10: p1 typed cover sheet; p2-3 form cover lines; p4-6 municipal/state-code boilerplate; p7 Attachment A with both A totals handwritten slashed-zero 'Ø' and the A-1 itemization table ENTIRELY BLANK; p8 A-1 continuation table blank, TOTAL = handwritten 'Ø' over printed '$ -'; p9 Attachment B header + table ENTIRELY BLANK; p10 Attachment B continuation table blank, TOTAL printed '$0.00'. Zero itemized contribution or expenditure rows in Report 1. Report 2 (INTERIM, signed 10-26-21) = PDF p11-15+: p11 typed cover sheet; p12 form page 1 (lines 1-2); p13 form page 2 (lines 3-6, signature date 10-26-21); p14-15 boilerplate code pages (form pages 3-4). MID-REPORT EDGE at p15: Report 2's Attachment A and B (any itemized rows and A/B totals) fall on p16+ owned by the other agent -- its contributions/expenditures arrays here are empty ONLY because those pages are out of range, not because they are known blank. Handwriting conventions: filer writes a slashed zero ('Ø') for nil amounts -- transcribed verbatim as 'Ø' (reads as $0). Report 1 lines 3-5 show only the form's printed accounting-format '-' with a single handwritten diagonal stroke running through all three amount boxes (a strike/nil mark, not a digit) -- transcribed as '-'. Line 1 (balance forward) is a blank blue field on BOTH reports (no entry). Report 2 lines 4 and 5 are handwritten '2257' with superscript '50' in the cents position = $2,257.50 each (verbatim '2257.50'); filer inconsistency: line 4 (=line2+line3) is 2257.50 while lines 2 and 3 are both 'Ø' -- transcribed as written, not reconciled (the itemization presumably appears in Attachment A/B on p16+). Address fields redacted (blacked out) on both form page 1s. 'Date of Report 1/0/1900' under signature blocks is an Excel auto-fill artifact, not a real date. No receipts pages in p1-15. Nothing illegible."
+}

@@ -1,0 +1,145 @@
+{
+ "date": "2025-07-10",
+ "year": 2025,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Greg Shelton",
+  "Phillip Cardenaz",
+  "Tyler Huish"
+ ],
+ "source": "meeting_minutes/minutes/2025/2025-07-10/2025-07-10_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to accept the financial report",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to accept the minutes of June 5 and June 12, 2025",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Greg Shelton",
+   "seconder": "Tyler Huish",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Resolution No. 2025-07-01 Appointing Weston Millen as a Full-Time Planning Commission Member with a Term Expiring February 28, 2027",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve Resolution No. 2025-07-02 Appointing Christopher Huntzinger as a Full-Time Planning Commission Member with a Term Expiring February 28, 2027",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 5,
+   "motion": "to deny Ordinance 2025-O-05 regarding a Text Amendment to Title 19 of the White City Municipal Code Regarding a Proposed Landscaping Business located at 1226 E 10600 S",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "4-1 Pass",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Greg Shelton",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Tyler Huish"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 6,
+   "motion": "to adjourn",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Tyler Huish",
+   "seconder": "Greg Shelton",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "contributions": [
+    {"date": "10/08/25", "name": "Nicole Payne", "city": "South Jordan", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "10/08/25", "name": "Megan Trujillo", "city": "South Jordan", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "10/08/25", "name": "John Gust", "city": "Cottonwood Heights", "state": "UT", "amount": "1000.00", "in_kind": false},
+    {"date": "10/08/25", "name": "Teton Center LLC", "city": "South Jordan", "state": "UT", "amount": "1000.00", "in_kind": false},
+    {"date": "10/08/25", "name": "Glenmoor Holdings", "city": "South Jordan", "state": "UT", "amount": "1000.00", "in_kind": false},
+    {"date": "10/23/25", "name": "Utah Property Rights Coalition", "city": "SLC", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "10/13/25", "name": "Reagan Outdoor Advertising", "city": "SLC", "state": "UT", "amount": "1738.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "10/15/25", "recipient": "Ballpark", "purpose": "Event fee", "amount": "1000.00", "in_kind": false},
+    {"date": "10/21/25", "recipient": "Roost", "purpose": "South Jordan Journal Ad", "amount": "618.00", "in_kind": false}
+  ],
+  "total_contributions": "6238.00",
+  "total_expenditures": "1618.00",
+  "total_contributions_ytd": "50853.00",
+  "total_expenditures_ytd": "11488.59"
+}

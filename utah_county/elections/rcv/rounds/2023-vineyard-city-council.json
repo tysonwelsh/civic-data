@@ -1,0 +1,135 @@
+{
+ "config": {
+  "contest": "2023 Vineyard City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Vineyard, Utah",
+  "office": "City Council",
+  "threshold": "622"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "ALEXANDER TEEMSMA": 51.0,
+    "CADEN RHOTON": 149.0,
+    "CRISTY WELSH": 216.0,
+    "JACOB HOLDAWAY": 406.0,
+    "JOSHUA HENDRIX": 6.0,
+    "NATALIE HARBIN": 144.0,
+    "SARA CAMERON": 331.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "JOSHUA HENDRIX",
+     "transfers": {
+      "ALEXANDER TEEMSMA": 3.0,
+      "CRISTY WELSH": 1.0,
+      "SARA CAMERON": 2.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "ALEXANDER TEEMSMA": 54.0,
+    "CADEN RHOTON": 149.0,
+    "CRISTY WELSH": 217.0,
+    "JACOB HOLDAWAY": 406.0,
+    "NATALIE HARBIN": 144.0,
+    "SARA CAMERON": 333.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "ALEXANDER TEEMSMA",
+     "transfers": {
+      "CADEN RHOTON": 17.0,
+      "CRISTY WELSH": 9.0,
+      "JACOB HOLDAWAY": 6.0,
+      "NATALIE HARBIN": 17.0,
+      "SARA CAMERON": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "CADEN RHOTON": 166.0,
+    "CRISTY WELSH": 226.0,
+    "JACOB HOLDAWAY": 412.0,
+    "NATALIE HARBIN": 161.0,
+    "SARA CAMERON": 338.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "NATALIE HARBIN",
+     "transfers": {
+      "CADEN RHOTON": 67.0,
+      "CRISTY WELSH": 43.0,
+      "JACOB HOLDAWAY": 25.0,
+      "SARA CAMERON": 15.0,
+      "Inactive Ballots": 11.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "CADEN RHOTON": 233.0,
+    "CRISTY WELSH": 269.0,
+    "JACOB HOLDAWAY": 437.0,
+    "SARA CAMERON": 353.0,
+    "Inactive Ballots": 11.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CADEN RHOTON",
+     "transfers": {
+      "CRISTY WELSH": 128.0,
+      "JACOB HOLDAWAY": 30.0,
+      "SARA CAMERON": 30.0,
+      "Inactive Ballots": 45.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "CRISTY WELSH": 397.0,
+    "JACOB HOLDAWAY": 467.0,
+    "SARA CAMERON": 383.0,
+    "Inactive Ballots": 56.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "SARA CAMERON",
+     "transfers": {
+      "CRISTY WELSH": 28.0,
+      "JACOB HOLDAWAY": 350.0,
+      "Inactive Ballots": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "CRISTY WELSH": 425.0,
+    "JACOB HOLDAWAY": 817.0,
+    "Inactive Ballots": 61.0
+   },
+   "tallyResults": [
+    {
+     "elected": "JACOB HOLDAWAY",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

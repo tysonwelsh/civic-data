@@ -1,0 +1,44 @@
+{
+ "config": {
+  "contest": "Woodland Hills Mayor",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "300"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "BENJAMIN J HILLYARD": 196.0,
+    "BRENT WINDER": 269.0,
+    "MIKE LAURITZEN": 190.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "MIKE LAURITZEN",
+     "transfers": {
+      "BENJAMIN J HILLYARD": 71.0,
+      "BRENT WINDER": 62.0,
+      "Inactive Ballots": 57.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "BENJAMIN J HILLYARD": 267.0,
+    "BRENT WINDER": 331.0,
+    "Inactive Ballots": 57.0
+   },
+   "tallyResults": [
+    {
+     "elected": "BRENT WINDER",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

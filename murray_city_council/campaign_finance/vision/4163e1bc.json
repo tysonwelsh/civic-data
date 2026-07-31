@@ -1,0 +1,51 @@
+{
+  "contributions": [
+    {"date": "08/09/2021", "name": "Richard Justice", "amount": "200", "in_kind": false},
+    {"date": "08/18/2021", "name": "Anne-Marie Lampropoulos", "amount": "100", "in_kind": false},
+    {"date": "09/09/2021", "name": "Renee Fasbender", "amount": "100", "in_kind": false},
+    {"date": "10/04/2021", "name": "Jaimee Trewitt", "amount": "100", "in_kind": false},
+    {"date": "08/03/2021", "name": "William Klintworth", "amount": "3,500", "in_kind": false},
+    {"date": "10/05/2021", "name": "Steven Harries", "amount": "100", "in_kind": false},
+    {"date": "10/07/2021", "name": "William Klintworth, Sr.", "amount": "600", "in_kind": false},
+    {"date": "10/16/2021", "name": "Newell Bullen", "amount": "50", "in_kind": false},
+    {"date": "09/06/2021", "name": "Stacey Garcia", "amount": "100", "in_kind": false},
+    {"date": "09/23/2021", "name": "Wayne Coon", "amount": "100", "in_kind": false},
+    {"date": "10/15/2021", "name": "Sharon Aaron", "amount": "50", "in_kind": false},
+    {"date": "10/13/2021", "name": "Clark Bullen", "amount": "2,120", "in_kind": false},
+    {"date": null, "name": "Winward Arts", "amount": "364", "in_kind": true},
+    {"date": null, "name": "Janice Strobell", "amount": "95", "in_kind": true},
+    {"date": null, "name": "Peter Klinge", "amount": "76.02", "in_kind": true},
+    {"date": null, "name": "Tucker Dansie Films", "amount": "200", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Constant Contact", "purpose": "Email Marketing", "amount": "209.52", "in_kind": false},
+    {"date": null, "recipient": "DonorBox", "purpose": "Donation Softward", "amount": "25", "in_kind": false},
+    {"date": null, "recipient": "SL Printing and Mailing", "purpose": "Mailer #1", "amount": "2034.84", "in_kind": false},
+    {"date": null, "recipient": "Imaginos", "purpose": "Sign Printing", "amount": "541.55", "in_kind": false},
+    {"date": null, "recipient": "Taylor Williams", "purpose": "Consulting", "amount": "500", "in_kind": false},
+    {"date": null, "recipient": "Tactical Campaigns", "purpose": "Text Messaging", "amount": "365.2", "in_kind": false},
+    {"date": null, "recipient": "NorthAmerican Envelope & Printing", "purpose": "Door Hangers", "amount": "737.62", "in_kind": false},
+    {"date": null, "recipient": "Murray Journal", "purpose": "Ad", "amount": "600", "in_kind": false},
+    {"date": null, "recipient": "Imaginos", "purpose": "H Frames", "amount": "34", "in_kind": false},
+    {"date": null, "recipient": "NorthAmerican Envelope & Printing", "purpose": "Mailer #2", "amount": "1381.76", "in_kind": false},
+    {"date": null, "recipient": "Consolidated Direct Mail", "purpose": "Mailer #2", "amount": "3177.45", "in_kind": false},
+    {"date": null, "recipient": "Girl's Travel Soccer Team", "purpose": "Door Hanger Delivery", "amount": "120", "in_kind": false},
+    {"date": null, "recipient": "SLCO Elections", "purpose": "Voted Report", "amount": "35", "in_kind": false},
+    {"date": null, "recipient": "Amazon", "purpose": "Toner", "amount": "52.64", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": "Ads", "amount": "227.1", "in_kind": false}
+  ],
+  "total_contributions": "7,819",
+  "total_expenditures": "10,041.68",
+  "contributions_50_or_less": null,
+  "beginning_balance": "2,636.48",
+  "ending_balance": "413.8",
+  "_meta": {
+    "index_path": "raw/202110_Clark-Bullen_12505.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202110_Clark-Bullen_12505.pdf",
+    "pages": 4
+  }
+}

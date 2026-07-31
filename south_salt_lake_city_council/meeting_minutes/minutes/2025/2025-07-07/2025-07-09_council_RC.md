@@ -1,0 +1,309 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_07092025-550
+> Meeting date: 2025-07-09
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 07092025-550 | label: Council RC Meeting 2025-07-09 | date: 2025-07-09 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_07092025-550 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL MEETING
+
+COUNCIL MEETING                                               Wednesday July 9, 2025
+                                                              7:00 p.m.
+
+CITY OFFICES                                                  220 East Morris Avenue
+                                                              South Salt Lake, Utah 84115
+
+PRESIDING:                                                    Council Chair Sharla Bynum
+
+CONDUCTING:                                                   LeAnne Huff
+
+PLEDGE OF ALLEGIANCE :                                        Ray deWolfe
+
+SERGEANT AT ARMS:                                             Spencer Redden
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum,
+      Nick Mitchell, Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      Paul Sanchez
+
+STAFF PRESENT:
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+        Eliza Ungricht, Community Development Deputy Director
+       Tiffany Kalinowski, Police Evidence Technician
+       Jared Christensen, Deputy Fire Chief
+       Joseph Dane, Communications Manager
+       Aretha Edwards, Police Records Supervisor
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Spencer Redden, Police Officer
+       Ariel Andrus, City Recorder
+
+OTHERS PRESENT:
+      See list
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+         meetings, activities, etc. Next Council Meeting—July 23rd @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Susan Bowlden, shared some comments regarding the
+          ‘Moment of Reflection’ and concerns over immigration related issues in the City.
+
+             Granite Library branch manager, Kim Welch, shared some upcoming events and
+             activities at the Granite Library.
+                                             1
+South Salt Lake – Regular Council Meeting                                           July 9, 2025
+
+
+       3. MAYOR COMMENTS.
+          None
+
+       4. CITY ATTORNEY COMMENTS.
+          None
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member deWolfe expressed their regret for not being able to attend the 4th
+          of July parade.
+
+           Council Member Williams expressed their regret for not being able to attend the 4th
+           of July parade.
+
+           Council Member Thomas expressed their regret for not being able to attend the 4th
+           of July parade.
+
+           Council Chair Bynum shared her gratitude for being able to participate in the
+           parade.
+
+           Council Member Huff thanked the City staff who helped to organize the 4th of July
+           events and activities.
+
+       6. INFORMATION
+             a. Flash Vote Survey Results – Water Conservation
+                Communications Manager, Joseph Dane, gave a presentation that went
+                over the results of the survey and the City’s efforts in water conservation.
+
+Action Items
+Unfinished Business
+    1. An Ordinance of the South Salt Lake City Council Enacting Section 17.03.185 of the
+        South Salt Lake City Municipal Code to Create a New Housing and Transit (HT) Overlay
+        District; Amending Section 17.03.010 to Add a New HT Overlay District Land Use
+        Category; Amending Portions of Chapter 17.07; Amending Portions of Chapter 17.08;
+        and Amending Portions of Chapter 17.10, Which Amendments Further Implement the
+        New HT Overlay District.
+        Senior Planner, Spencer Cawley, reviewed the item that was discussed in the preceding
+        Work Meeting.
+
+       A copy of the Ordinance is attached and incorporated by this reference.
+
+       Council Member deWolfe made a motion to approve the Ordinance.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:          Yes
+                                              2
+South Salt Lake – Regular Council Meeting                                          July 9, 2025
+
+
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    2. A Resolution of the South Salt Lake City Council Approving and Authorizing the Mayor
+       to Execute a Development Agreement on Behalf of the City of South Salt Lake with SSL
+       Market Center QOZB, LLC Providing for the Development of Property Located at 2280
+       State Street Known as the Market Center Project.
+       Senior Planner, Spencer Cawley, reviewed the item that was discussed in the preceding
+       Work Meeting. He informed the Council that more time would be needed to finalize the
+       Development Agreement.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to move the item as Unfinished Business to
+        another meeting.
+
+
+MOTION: Ray deWolfe
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    3. An Ordinance of the South Salt Lake City Council to Amend the South Salt Lake Zoning
+       Map from Downtown District to Housing and Transit Overlay District for the Property
+       Located at 2280 South State Street, South Salt Lake City, Utah.
+       Senior Planner, Spencer Cawley, reviewed the item that was discussed in the preceding
+       Work Meeting.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to move the item as Unfinished Business to
+        another meeting.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+
+                                               3
+South Salt Lake – Regular Council Meeting                                          July 9, 2025
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    4. A Resolution of the South Salt Lake City Council Authorizing the South Salt Lake City
+       Police Department to Dispose of Unclaimed Property in the South Salt Lake Police
+       Department Possession.
+       Police Evidence Technician, Tiffany Kalinowski, reviewed the item that was discussed in
+       the preceding Work Meeting.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Resolution.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+New Business
+   1. An Ordinance Of The South Salt Lake City Council Amending Section 3.11.020 Of The
+      South Salt Lake City Municipal Code To Modify General Fees.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to move the item as Unfinished Business to
+        another meeting.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:          Yes
+Huff:           Yes
+                                               4
+South Salt Lake – Regular Council Meeting                                         July 9, 2025
+
+
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    2. An Ordinance Of The South Salt Lake City Council Amending Section 3.11.060 Of The
+       South Salt Lake City Municipal Code To Modify City Recorder Fees.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to move the item as Unfinished Business to
+        another meeting.
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    3. An Ordinance Of The South Salt Lake City Council Amending Section 3.11.070 Of The
+       South Salt Lake City Municipal Code To Modify Police Department Fees.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to move the item as Unfinished Business to
+        another meeting.
+
+
+MOTION: Ray deWolfe
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+
+                                               5
+South Salt Lake – Regular Council Meeting                                   July 9, 2025
+
+
+
+       Council Member Williams made a motion to Adjourn.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+deWolfe:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       Absent
+
+
+
+
+       The meeting adjourned at 7:39 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            6

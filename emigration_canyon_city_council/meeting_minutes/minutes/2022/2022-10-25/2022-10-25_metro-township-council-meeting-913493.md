@@ -1,0 +1,493 @@
+# Metro Township Council Meeting
+> Source: https://www.utah.gov/pmn/files/913493.pdf
+> Meeting date: 2022-10-25
+> Format: pdf-text
+
+---
+
+**Body:** Council
+**Meeting type:** Regular
+**Date:** 2022-10-25
+**Era:** Metro Township
+**Source:** pmn (Utah Public Notice, body 5809)
+**Source URL:** https://www.utah.gov/pmn/files/913493.pdf
+**PMN notice id:** 794261
+**PMN file id:** 913493
+**Format:** pdf-text
+**In-body date match:** YES
+
+---
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+THE EMIGRATION CANYON METRO TOWNSHIP COUNCIL, STATE OF UTAH,
+MET ELECTRONICALLY ON TUESDAY, OCTOBER 25, 2022, PURSUANT TO
+ADJOURNMENT ON TUESDAY, SEPTEMBER 27, 2022, AT THE HOUR OF 7:00 P.M., VIA
+ZOOM.COM.
+COUNCIL MEMBERS
+ELECRONICALLY PRESENT:
+
+DAVID BREMS
+ROBERT PINON
+JENNIFER HAWKES, Deputy Mayor
+JOE SMOLKA, Mayor
+
+COUNCIL MEMBER EXCUSED:
+
+CATHERINE HARRIS
+
+OTHERS IN ATTENDANCE:
+
+CAMERON PLATT, LEGAL COUNSEL
+GORDON BENNETT, ADMINISTRATOR
+NICHOLE WATT, DEPUTY CLERK
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Mayor Smolka, Chair, presided.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Pursuant to Utah Code 52-4-202 the undersigned, as Mayor of the Emigration
+Canyon Metro Township Council, hereby declares that providing an anchor location for the
+electronic meetings of the Council will present a substantial risk to the health and safety of those
+who may be present at the anchor location for the following reasons:
+The Township is located in Salt Lake County and is still under a “Medium Level of
+Transmission” alert stage for the COVID 19 pandemic; and
+The regular meeting place for the Council (the Fire Station in the Canyon) does
+not have sufficient space in the meeting room to provide for the recommended physical distancing
+to keep people safe from infection.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+PUBLIC MEETING
+Citizen Input
+None.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Reports from other Municipal Providers
+Emigration Canyon Community Council (ECCC)
+
+1
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Bill Tobey stated Unified Fire Authority (UFA) crews extended the fuel break in
+the Acorn Hills neighborhood. It extends north through the first switchback and up to Middle Oak
+Lane. November 18, 2022, is the deadline for Firewise recertification. CERT cannot be relaunched
+until training is scheduled. Tyler Tippets continues to recruit team members and trainers. The
+Community Council election will be held in November. Voter information pamphlets have been
+mailed to residents. There are six open seats with three candidates, recruiting is ongoing.
+
+−−−−−−−−−−−−−−
+Unified Police Department (UPD)
+C.O.P. Officer.
+
+Chief Wayne Dial introduced Detective Dawn Larsen as the Emigration Canyon
+Detective Larsen stated that if the Council needs anything, to let her know.
+Mayor Smolka asked how the marathon went.
+
+Detective Larsen stated there were a few issues at the beginning. The 5K
+marathon was not clearly defined. When buses tried to turn around it blocked the road and caused
+delays. The lane markers were not well defined, and more signage was needed. Runners were
+veering off into the west bound lanes causing traffic issues, additional candle sticks to keep
+runners in the east bound lanes were needed. Volunteers were not at their stations when they
+needed to be.
+Deputy Mayor Hawkes asked if there were cones all the way down the canyon
+and if recommendations could be made to other events concerning cones and spacing.
+Detective Larsen stated the cones were few and far between and small. She will
+talk to Michelle McCabe, Permit Specialist, about the issues.
+Deputy Mayor Hawkes stated the banners used, were approved and probably
+should not have been. The signage is usually done by electronic signs. The event organizers
+were told to include those in addition to whatever signage it was using. In the future, electronic
+signs should be used.
+marathon.
+
+Detective Larsen stated she had the electronic signs up informing drivers of the
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA)
+Members.
+
+Mayor Smolka stated Council Member Harris emailed UFA’s report to Council
+
+−−−−−−−−−−−−−−
+
+2
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Wasatch Front Waste and Recycling District
+Pam Roberts, General Manager, WFWRD, introduced Paul Korth, Finance
+Director, WFWRD. She reviewed the 2023 budget and priorities the District has. A fee increase
+of $2.50 is being proposed to the board. She reviewed the various programs that WFWRD offers
+residents. WFWRD continues to deal with staffing issues. In 2018, WFWRD began having trouble
+hiring enough CDL drivers to keep the bulk waste program the same. In 2020 it was short fulltime and part-time driver positions and that created the need to change the bulk waste pick up
+program to the Seasonal Container Reservation Program (SCRP). She continues to look for
+improvements and ways to absorb increases in costs. A public hearing for the budget will be held
+on November 14, 2022, at 6:00 pm at 6960 South 604 West.
+Paul Korth, Finance Director, WFWRD, reviewed cost increases since the last fee
+increase in 2018 and WFWRD’s cash projections for 2022-2026.
+
+−−−−−−−−−−−−−−
+Salt Lake County Animal Services
+Gary Bowen, Emigration Canyon Metro Township Representative, Salt Lake
+County Animal Services Advisory Board, stated the first in-person meeting will be held on
+November 3, 2022. Animal Services has regular adoption and other type of events. He
+recommended putting these events in the Emigration Canyon newsletter and website.
+Deputy Mayor Hawkes stated she could add those to the community calendar on
+the website. She asked Mr. Bowen to get her the information.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Business
+Salt Lake City Department of Public Utilities
+Mayor Smolka stated since Emigration Canyon Metro Township shares boarders
+with Salt Lake City Department of Public Utilities (SLCDPU), it wanted to invite Laura Briefer,
+Director, to the meeting to discuss various topics. He asked Ms. Briefer to explain what the
+Department of Public Utilities does.
+Ms. Briefer stated the Department of Public Utilities provides drinking water,
+manages the watersheds, manages flood control and stormwater, collects and treats wastewater,
+maintains and enhances public street lighting. When working with Emigration Canyon it is usually
+regarding water. SLCDPU owns land in Emigration Canyon, in the City Creek Canyon area. The
+annual budget is around $350 million a year. It is working on repairing and replacing aging water
+infrastructure.
+She updated the Council on initiatives that she would like Emigration Canyon’s participation in.
+Emigration Canyon is part of the watershed protection program. In 1999 a major update to the
+watershed plan was completed and has had small updates since; however, comprehensive
+
+3
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+updates need to be made. This update is part of a large public process. During the summer, a
+scientific study was completed, the analysis was presented to the public. They continue to hold
+meetings to get feedback. She would like Emigration Canyon’s feedback on the Watershed
+Program update. Comments can be submitted online. The draft plan will be ready in early 2023
+and then will be presented to the public for comment, the Council will review and then adopt it.
+Any feedback at anytime would be great for the whole process.
+Mayor Smolka stated he gets questions regarding work being done at Mountain
+Dell Reservoir.
+Ms. Briefer stated Mountain Dell Reservoir’s dam is undergoing rehabilitation. The
+concrete was starting to fail, and the dam needs to be relined. A cofferdam was built so the dam
+could be drained, and the face of the dam could be worked on. It is scheduled to be competed
+next year.
+Mayor Smolka asked what the water extraction is that SLCDPU takes from the
+tunnel at the bottom of the canyon.
+Ms. Briefer stated it is a clean water source that is part of the water supply that
+can be used year round. Upgrades have been made to that system.
+Mayor Smolka asked what the thoughts of SLCDPU regarding the trails are.
+Ms. Briefer stated she has not formulated an opinion on what Parks and
+Recreation is doing with the Trail Master Plan. SLCDPU tries to be thoughtful of trails if they are
+in the protected watershed areas.
+Mayor Smolka stated a big concern in Emigration Canyon is wildfire. One of the
+things it has been doing is creating fire breaks at the bottom of the canyon below Sunnydale, who
+owns that land.
+Ms. Briefer stated with the exact coordinates, she can check to see if SLCDPU or
+Salt Lake City owns it.
+Mayor Smolka asked Bill Tobey, Emigration Canyon Community Council, to follow
+up with Ms. Briefer regarding that land. The Council is interested in adding a fire break to protect
+those homes.
+Ms. Briefer stated SLCDPU is partnering with the Division of Fire Forestry on an
+oak brush mastication project in Parleys Canyon that the Council may be interested in. The
+Council can reach out to her anytime with questions, concerns or just wanting to connect.
+
+−−−−−−−−−−−−−−
+Community Renewable Energy Program
+
+4
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Council Member Brems stated the Board is looking at finalizing an ordinance for
+communities to review and adopt. Moving forward with the program, what additional payments
+will Emigration Canyon Metro Township need to make.
+Emily Quinton, Sustainability Program Manager, stated Emigration Canyon Metro
+Township will not be receiving another invoice for funds.
+Christopher Thomas, Senior Energy and Climate Program Manager, presented
+a PowerPoint presentation updating the Council on the Community Renewable Energy Program.
+He reviewed the agency structure, 2030 goals, how the program will work, implementation
+timeline, plans for low-income assistance, and the draft ordinance to finalize the community’s
+participation in the program. The ordinance is anticipated to be finalized in December 2022 by the
+Board. The ordinance will need to be adopted within 90 days once approved by the Utah PSC. If
+the Council has any feedback regarding the ordinance, they can contact him.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Metro Township Code Rewrite
+Matt Starley stated the Greater Salt Lake Municipal Services District (MSD) is
+moving forward with the Emigration Canyon Metro Township code rewrite. He presented phase
+one to the Council in August and have had a couple of comments. He recommended having a
+joint meeting with the Emigration Canyon Metro Township Planning Commission and the Council.
+Mayor Smolka stated some of the zones in the code are not necessary in the
+canyon. There is commercial property in the upper part of the canyon that has since turned into
+a private residence. Can the Council initiate a zone change or does the property owner need to
+do that.
+Mr. Starley stated the property is a consolidation of four properties. The property
+owner would need to request a change in zone. He proposed parks and recreation zones that
+could potentially be used moving forward. The Council can decide to not include those in the
+code. It may be a good idea to have the Planning Commission look at it and do some more
+research.
+Council Member Brems asked for an update on the dark sky ordinance.
+Mr. Starley stated an ordinance is being drafted. There have been three rounds
+of comments from the Planning Commission. The ordinance will soon be ready to present to the
+Council.
+Council Member Brems stated if we adopt a dark sky ordinance, the Council
+should have strong support from the community. He recommended sending a mailer, fact sheet,
+or questioner to residents explaining the ordinance and to gain feedback.
+Mayor Smolka stated he would like the community informed.
+survey.
+
+Mr. Starley stated he could create a website with the information and provide a
+
+5
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+−−−−−−−−−−−−−−
+Municipal Energy Sales and Use Tax and Municipal Telecommunication’s License Tax
+Cameron Platt stated before the Council can enact the tax, the Council will need
+to adopt an ordinance indicating how the tax will be used. He is working on drafting an ordinance
+for the Council to consider at its next meeting.
+
+−−−−−−−−−−−−−−
+Ordinance Prohibiting Camping
+Cameron Platt stated an ordinance prohibiting camping would help enforce
+complaints as there are no areas in the canyon where camping is prohibited. Regulations can
+only be made on property that is owned by the Metro Township; he is working on identifying those
+boundaries.
+Council Member Pinon stated he would like language to address tents. Does the
+Metro Township have any rights regarding easements.
+Mr. Platt stated it depends on the easement. If there is a utility easement, then the
+Metro Township has rights to put utilities on the property but not regulate it. The Metro Township
+can regulate what can be done on property to a degree. It can restrict how long people can live
+in an RV on a property.
+Deputy Mayor Hawkes stated the timeframe of four hours that an individual must
+move a vehicle, may be an extensive amount of time and five minutes is unreasonable.
+Chief Wayne Dial stated the timeframe depends on the circumstances. If it is a
+motor vehicle, five minutes would be enough time to move. If someone is pulled over because
+they could be a danger to the public, then it could be longer. He suggested a 30 minute timeframe.
+
+−−−−−−−−−−−−−−
+American Rescue Plan Act (ARPA)
+ARPA funds.
+
+The Council did not have any additional recommendations on how to use the
+
+−−−−−−−−−−−−−−
+Emigration Canyon Metro Township Council Meeting Dates
+The Council agreed to hold the Emigration Canyon Metro Township Council
+meetings on November 15, 2022, and December 20, 2022.
+
+−−−−−−−−−−−−−−
+
+6
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Broadband Update
+Council Member Pinon stated Utah Broadband placed a repeater on the top of
+Got Teeth Lane. Residents should have received a mailer informing them of what Utah Broadband
+is doing in the canyon and will invite them to sign up with a provider.
+
+−−−−−−−−−−−−−−
+Legal Issues
+None.
+
+−−−−−−−−−−−−−−
+Budget Items
+Mayor Smolka stated invoices for clerk services and legal counsel were paid. The
+Greater Salt Lake Municipal Services District (MSD) tentatively passed the budget which included
+Emigration Canyon Metro Townships proposed budget.
+Deputy Mayor Hawkes stated that an invoice for the restroom has been received.
+
+−−−−−−−−−−−−−−
+Minutes
+Council Member Pinon, seconded by Council Member Brems, moved to approve
+the minutes of the Emigration Canyon Metro Township Council meeting held on September 27,
+2022. The motion passed unanimously.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Member Reports
+Administrative Report
+Gordon Bennett stated he is coordinating with Unified Fire Authority (UFA) and
+the Greater Salt Lake Municipal Services District (MSD) to get Wi-Fi working so the Council can
+hold hybrid meetings. He will coordinate with UFA to get access to the building to upgrade and
+test the equipment. He will be able to connect to UFA’s guest Wi-Fi.
+Council Member Pinon stated a speed test needs to be done and determine if
+there is enough bandwidth. He offered to test video call capabilities with Mr. Gordon.
+
+−−−−−−−−−−−−−−
+Unified Police Department (UPD) & Salt Lake Valley Law Enforcement Service Area (SLVLESA)
+
+7
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Council Member Brems stated UPD and SLVLESA will meet tomorrow, there is
+nothing new to report.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Metro Township Planning Commission
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Watershed Plan
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+Council Member Pinon stated there is nothing additional to report beyond what
+Pam Roberts reported on earlier in the meeting.
+
+−−−−−−−−−−−−−−
+Association of Municipal Councils
+Nothing to report.
+Website
+
+−−−−−−−−−−−−−−
+
+Deputy Mayor Hawkes asked Gary Bowen to provide her with the Animal
+Services information so she can put it on the website.
+
+−−−−−−−−−−−−−−
+CodeRED
+Deputy Mayor Hawkes stated a notification regarding the marathon was sent to
+residents. She would like a policy in place to determine who can request a CodeRED and what
+the notification can be.
+
+8
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Cameron Platt stated he will follow up with Polly McLean, Legal Counsel, and put
+something together.
+
+−−−−−−−−−−−−−−
+Restrooms
+Deputy Mayor Hawkes stated the Abstract Masonry Construction is not up there.
+She reached out to the contractors, and they are running behind. She asked them to secure the
+materials that are on site.
+
+−−−−−−−−−−−−−−
+Utah League of Cities and Towns (ULCT)
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Greater Salt Lake Municipal Services District (MSD)
+Mayor Smolka stated the MSD Board passed the tentative budget.
+
+−−−−−−−−−−−−−−
+Landfill Council
+Mayor Smolka stated landfill revenues are ahead for 2022.
+
+−−−−−−−−−−−−−−
+Wasatch Front Regional Council (WFRC)
+Nothing to report.
+
+−−−−−−−−−−−−−−
+Council of Governments (COG)
+Mayor Smolka stated temporary overflow shelter for homeless individuals was
+determined and is being prepared for winter.
+
+−−−−−−−−−−−−−−
+Legislative Update
+
+9
+
+DATE
+
+TUESDAY
+
+OCTOBER
+
+25, 2022
+
+Mayor Smolka stated there is a possibility of getting an emergency notification
+system funded by the state that municipalities could use for free. That could change how the
+Metro Township uses CodeRED.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Other Announcements
+Mayor Smolka stated the Pinecrest project had a final walkthrough and some
+clean-up. Next spring the road will be widened a couple of feet. The puddle in Pinecrest is just
+about under control. A culvert was opened to help with the flow of water. Dirt work behind the
+jersey barriers is completed.
+He attended emergency training for elected officials. He recommends that the Council attend the
+training on November 19, 2022. If the Council cannot attend the training, an online option is
+available. The FEMA website offers NIMS training.
+2022.
+
+Deputy Mayor Hawkes stated the Wasatch Choice meeting is on November 2,
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+_____________________________________________________
+MAYOR, EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+By: ______________________________________
+Deputy Clerk
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+10
+
+

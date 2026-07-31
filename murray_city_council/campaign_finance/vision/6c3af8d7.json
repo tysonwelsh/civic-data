@@ -1,0 +1,37 @@
+{
+  "contributions": [
+    {"date": "06/14/2021", "name": "carry over from Diane Turner election acct.", "amount": "1948.00", "in_kind": false},
+    {"date": "06/14/2021", "name": "loan from personal acct.", "amount": "3000.00", "in_kind": false},
+    {"date": "06/18/2021", "name": "Justin B Wiley", "amount": "500.00", "in_kind": false},
+    {"date": "06/24/2021", "name": "Darrell Hensleigh & Carole Wood", "amount": "100.00", "in_kind": false},
+    {"date": "06/24/2021", "name": "Donnetta Mitchell", "amount": "100.00", "in_kind": false},
+    {"date": "06/20/2021", "name": "Charles Turner", "amount": "500.00", "in_kind": false},
+    {"date": "06/22/2021", "name": "Deborah Sudyka-Higbee", "amount": "100.00", "in_kind": false},
+    {"date": "06/30/2021", "name": "Operating Engineers Union Local 3", "amount": "1000.00", "in_kind": false},
+    {"date": "07/26/2021", "name": "Maria Vanderheyden", "amount": "50.00", "in_kind": false},
+    {"date": "07/21/2021", "name": "Pat & Doug Mac Kinnon", "amount": "200.00", "in_kind": false},
+    {"date": "07/08/2021", "name": "Kat Martinez", "amount": "209.21", "in_kind": false},
+    {"date": "07/28/2021", "name": "Diane Turner (reimburse for JC Nails)", "amount": "35.00", "in_kind": false},
+    {"date": "07/29/2021", "name": "Zhou Yu", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Diane Turner - J.C. Nails", "purpose": "reimburse wrong c.c. use", "amount": "35.00", "in_kind": false},
+    {"date": null, "recipient": "Landslide Political", "purpose": "", "amount": "1114.10", "in_kind": false},
+    {"date": null, "recipient": "City Journals", "purpose": "", "amount": "600.00", "in_kind": false},
+    {"date": null, "recipient": "Democratic Party", "purpose": "", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "7792.21",
+  "total_expenditures": "1799.10",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "5993.11",
+  "_meta": {
+    "index_path": "raw/202108_Diane-Turner_12502.pdf",
+    "candidate": "Diane Turner",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202108_Diane-Turner_12502.pdf",
+    "pages": 5
+  }
+}

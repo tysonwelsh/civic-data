@@ -1,0 +1,48 @@
+{
+  "contributions": [
+    {"date": null, "name": "Mark Thomas", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Dave Hinkins", "amount": "200.00", "in_kind": false},
+    {"date": null, "name": "Wayne Harper", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "J. Stuart Adams", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Heidi Balderree", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Laurie Stratton", "amount": "200.00", "in_kind": false},
+    {"date": null, "name": "James Brammer", "amount": "250.00", "in_kind": false},
+    {"date": null, "name": "Steve Hiatt", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Bulloch Building, LLC", "amount": "300.00", "in_kind": false},
+    {"date": null, "name": "Calvin Musselman", "amount": "300.00", "in_kind": false},
+    {"date": null, "name": "Kirk Cullimore", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Chris Wilson", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Riverton City Parks-Returned Deposit", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Stars & Stripes", "amount": "1,500.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "AC Strategies LLC", "purpose": null, "amount": "5,000.00", "in_kind": false},
+    {"date": null, "recipient": "OfficeMax", "purpose": null, "amount": "667.29", "in_kind": false},
+    {"date": null, "recipient": "Office Depot", "purpose": null, "amount": "49.00", "in_kind": false},
+    {"date": null, "recipient": "Utah Republican Party-Shipping", "purpose": "Shipping", "amount": "1,140.21", "in_kind": false},
+    {"date": null, "recipient": "In-N-Out", "purpose": null, "amount": "13.83", "in_kind": false},
+    {"date": null, "recipient": "Walmart-Balloon Event Refreshments", "purpose": "Balloon Event Refreshments", "amount": "246.16", "in_kind": false},
+    {"date": null, "recipient": "Riverton City Parks - Includes $1,000 Deposit", "purpose": "Includes $1,000 Deposit", "amount": "1,010.00", "in_kind": false},
+    {"date": null, "recipient": "Riverton City-Event Fee", "purpose": "Event Fee", "amount": "480.00", "in_kind": false},
+    {"date": null, "recipient": "Walmart", "purpose": null, "amount": "104.82", "in_kind": false},
+    {"date": null, "recipient": "City Journal", "purpose": null, "amount": "600.00", "in_kind": false},
+    {"date": null, "recipient": "Deseret News", "purpose": null, "amount": "900.00", "in_kind": false},
+    {"date": null, "recipient": "AC Strategies LLC-Mailer Printing", "purpose": "Mailer Printing", "amount": "830.34", "in_kind": false},
+    {"date": null, "recipient": "AC Strategies LLC-Mailer Printing & Postage", "purpose": "Mailer Printing & Postage", "amount": "2,760.70", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "1.00", "in_kind": false}
+  ],
+  "total_contributions": "5,100.00",
+  "total_expenditures": "13,803.35",
+  "contributions_50_or_less": null,
+  "beginning_balance": "16,392.95",
+  "ending_balance": "7,689.60",
+  "_meta": {
+    "index_path": "raw/2025_mccay_general-election-report.pdf",
+    "candidate": "Tawnee McCay",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_mccay_general-election-report.pdf",
+    "pages": 5
+  }
+}

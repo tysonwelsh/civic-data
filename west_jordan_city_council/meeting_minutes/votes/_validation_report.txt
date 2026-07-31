@@ -1,0 +1,22 @@
+West Jordan — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 6858   motions: 981   named-vote motions: 981   tally-only motions: 0
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 1, undocumented (DEFECTS): 0
+   OK  2023-03-08 m8 Kelvin Green x2 (Aye+Nay) :: 2023-03-08_city-council-meeting.md  [db/vote_overrides.csv]
+
+4. ROSTER: roster.csv present (13 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 978/981 match (99.7%)
+   explained by documented source contradictions: 1
+      2023-03-08 m8: stated 6:1 vs counted aye=7 nay=1 abstain=0 :: result='6-1 Pass'  [explained by the documented source contradiction for this motion]
+   known, hand-verified source quirks: 2
+      2021-03-10 m4: stated 7:0 vs counted aye=6 nay=1 abstain=0 :: result='7-0 Pass'  [KNOWN: faithful source contradiction: the roll call records 'Council Chair Jacob - No' yet the minutes state 'The motion passed 7-0' (6 Yes + 1 No printed); the roll call is kept verbatim.]
+      2025-01-28 m1: stated 6:0 vs counted aye=0 nay=6 abstain=0 :: result='6-0 Pass'  [KNOWN: faithful source formatting error (RDA consent agenda): the printed roll puts all six members on the 'NO:' line with 'YES:' empty, then states 'The motion passed 6-0'; rows keep the printed NO list verbatim.]
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

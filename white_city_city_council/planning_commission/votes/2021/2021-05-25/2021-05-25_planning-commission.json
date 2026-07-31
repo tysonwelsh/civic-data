@@ -1,0 +1,118 @@
+{
+ "date": "2021-05-25",
+ "year": 2021,
+ "title": "White City Planning Commission Meeting",
+ "file_body": "PlanningCommission",
+ "format": "text",
+ "present": [],
+ "source": "planning_commission/minutes/2021/2021-05-25/2021-05-25_planning-commission.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the business meeting portion of the agenda and open the public hearings",
+   "body": "PlanningCommission",
+   "motion_type": "Public Hearing Action",
+   "result": "",
+   "mover": "Robert Frailey",
+   "seconder": "Antoinette Blair",
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "present_count": null,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "To continue file #OAM2021-000272 Interior Accessory Dwelling Unit Ordinance to the June 22nd planning commission meeting to allow for proper noticing",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Pass (unanimous, of commissioners present)",
+   "mover": "Weston Millen",
+   "seconder": "Antoinette Blair",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": null,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to reopen the business meeting",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "",
+   "mover": "Weston Millen",
+   "seconder": "Robert Frailey",
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "present_count": null,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "To approve the February 23, 2021 Planning Commission Meeting Minutes as presented",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (Millen abstained, all others in favor)",
+   "mover": "Christy Seiger-Webster",
+   "seconder": "Christopher Spagnuolo",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Weston Millen"
+   ],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 5,
+   "motion": "to adjourn",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "",
+   "mover": "Christy Seiger-Webster",
+   "seconder": "Gene Wilson",
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "present_count": null,
+    "tally": null
+   }
+  }
+ ]
+}

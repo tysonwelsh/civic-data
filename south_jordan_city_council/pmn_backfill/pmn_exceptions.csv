@@ -1,0 +1,14 @@
+date,body_id,kind,reason,verified_date
+2020-03-03,1031,other,2020 electronic council meeting — PMN notice carries agenda/handout only; minutes never posted anywhere (honest gap logged in unrecovered.csv),2026-07-06
+2020-04-07,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-04-21,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-05-05,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-05-19,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-06-02,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-06-16,1031,other,2020 electronic council meeting — agenda/handout only; minutes never posted (honest gap logged in unrecovered.csv),2026-07-06
+2020-06-02,3901,other,Combined electronic City Council/RDA/MBA meeting; council-body version already logged (2020-06-02 unrecovered per existing 1031 exception) - redundant RDA posting of the same combined meeting,2026-07-17
+2020-06-02,5015,other,Combined electronic City Council/RDA/MBA meeting - redundant MBA posting of the same combined meeting (council version already logged),2026-07-17
+2020-06-16,3901,other,Combined electronic council/RDA meeting; 2020-06-16 already in the 2020-electronic honest-gap family (council 1031 logged in unrecovered) - redundant RDA posting,2026-07-17
+2021-09-13,3901,other,"'Redevelopment Agency Taxing Entity Committee Meeting' - multi-jurisdiction Taxing Entity Committee riding the RDA body list, not an SJ RDA meeting (foreign-body-on-configured-list family)",2026-07-17
+2023-03-29,1031,other,"'Architectural Review Committee Meeting' - ARC riding the City Council body list, not a council meeting (foreign-body-on-configured-list family)",2026-07-17
+2020-02-25,1031,other,"Pre-COVID Special Budget Meeting #2 work session (PMN 588535, 5:30-8:30pm); notice carries the agenda/handout only, no minutes attachment; minutes genuinely unrecovered (CivicPlus archive starts 2021, PMN body-1031 minutes sparse in early 2020) and already covered by the Jan-Jul 2020 blanket honest-gap row in meeting_minutes/minutes_unrecovered.csv",2026-07-19

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "date": "2026-06-10",
+    "year": "2026",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "https://www.slcdocs.com/Planning/Planning%20Commission/2026/PC%2006.10.2026/PC06.10.2026minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2026/2026-06-08/2026-06-10_planning-commission-meeting.md",
+    "present": [
+      "Brian Scott",
+      "Jeffrey Barrett",
+      "Aimee Burrows",
+      "Richard Leverett",
+      "Anna Sullivan"
+    ],
+    "absent": []
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda items",
+      "description": "approve the consent agenda items",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Jeffrey Barrett",
+      "result": "3:0 Pass",
+      "tally": {
+        "yes": 3,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jeffrey Barrett",
+        "Brian Scott",
+        "Anna Sullivan"
+      ],
+      "nay": [],
+      "abstain": [
+        "Aimee Burrows"
+      ],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

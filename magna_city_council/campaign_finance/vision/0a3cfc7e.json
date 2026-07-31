@@ -1,0 +1,66 @@
+{
+  "reports": [
+    {
+      "candidate": "Brooks Jones",
+      "candidate_canonical": "Brooks Jones",
+      "office": "City Council District 4",
+      "reporting_period": "Candidates Eliminated in Primary (due September 11, 2025; signed 9-11-2025)",
+      "format": "scanned",
+      "contributions": [
+        {"date": null, "name": "Brooks Jones", "amount": "958.44", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": null, "recipient": "MSD, Magna City Candidate filing", "purpose": null, "amount": "50.00", "in_kind": false},
+        {"date": null, "recipient": "UnionPrintShop campaign signs", "purpose": null, "amount": "748.13", "in_kind": false},
+        {"date": null, "recipient": "UnionPrintShop campaign signs", "purpose": null, "amount": "160.31", "in_kind": false}
+      ],
+      "total_contributions": "958.44",
+      "total_expenditures": "958.44",
+      "beginning_balance": "0",
+      "ending_balance": "0"
+    },
+    {
+      "candidate": "Maxwell White",
+      "candidate_canonical": "Maxwell White",
+      "office": "City Mayor",
+      "reporting_period": "Candidates Eliminated in Primary (no cover page in bundle section)",
+      "format": "text",
+      "contributions": [
+        {"date": null, "name": "Maxwell White", "amount": "20.00", "in_kind": false},
+        {"date": null, "name": "Jamie White", "amount": "570.55", "in_kind": true},
+        {"date": null, "name": "Jamie White", "amount": "172.13", "in_kind": true},
+        {"date": null, "name": "Jamie White", "amount": "118.22", "in_kind": true},
+        {"date": null, "name": "Jamie White", "amount": "159.63", "in_kind": true},
+        {"date": null, "name": "Maxwell White", "amount": "450.00", "in_kind": true},
+        {"date": null, "name": "Jamie White", "amount": "264.06", "in_kind": true},
+        {"date": null, "name": "Jamie White", "amount": "125.26", "in_kind": true}
+      ],
+      "expenditures": [],
+      "total_contributions": "20",
+      "total_expenditures": "0.00",
+      "beginning_balance": "0",
+      "ending_balance": "20"
+    },
+    {
+      "candidate": "Michael Romero",
+      "candidate_canonical": "Michael Romero",
+      "office": "City Mayor",
+      "reporting_period": "Candidates Eliminated in Primary (due September 11, 2025; signed 9/9/25)",
+      "format": "scanned",
+      "contributions": [],
+      "expenditures": [
+        {"date": null, "recipient": "Loan Repayment - Mike Romero", "purpose": null, "amount": "92.76", "in_kind": false}
+      ],
+      "total_contributions": "0",
+      "total_expenditures": "92.76",
+      "beginning_balance": "92.76",
+      "ending_balance": "0"
+    }
+  ],
+  "_meta": {
+    "index_path": "raw/202508_magna_primary-eliminated_bundle_v644.pdf",
+    "bundle": "primary-eliminated v644",
+    "transcribed": "2026-07-19 read-tool",
+    "notes": "16pp. Brooks Jones pp1-6 (scanned); Maxwell White pp7-11 (born-digital, no cover page); Michael Romero pp12-16 (scanned). No Cisco Rodriguez section present in this bundle. Multi-column summary pages: White & Romero balances taken from the internally-consistent reporting-period columns; Romero eliminated-period (Col B) begins $92.76 (= Col A close from his primary v573 filing) and closes $0 after the $92.76 loan repayment."
+  }
+}

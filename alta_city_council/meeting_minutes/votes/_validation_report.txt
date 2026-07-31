@@ -1,0 +1,123 @@
+Town of Alta — council vote extraction validation report
+======================================================================
+Meeting JSONs             : 88
+Meetings with >=1 motion  : 82
+Motions extracted         : 505
+  named-vote motions      : 181
+  tally-only motions      : 324
+  motions w/ mayor voting  : 172
+
+Body counts: Council=498, BudgetCommittee=7
+
+Motion-type distribution:
+   Procedural/Administrative  132
+   Resolution                 80
+   Consent/Minutes            73
+   Budget/Finance             73
+   Ordinance                  44
+   Other                      42
+   Appointment                23
+   Land-Use/Zoning            16
+   Contract/Purchase          11
+   Public Hearing Action      7
+   Interlocal                 3
+   Ceremonial                 1
+
+----------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes). Alta: Mayor VOTES;
+a full roll call = 5 (Mayor + 4 at-large). Roster turns over across 2020->2026.
+----------------------------------------------------------------------
+
+2020:
+   Margaret Bourke            5
+   Elise Morgan               5
+   Sheridan Davis             4
+   Harris Sondak              4
+   Cliff Curry                3
+
+2021:
+   Elise Morgan               16
+   Cliff Curry                16
+   Margaret Bourke            16
+   Sheridan Davis             15
+   Harris Sondak              14
+
+2022:
+   John Byrne                 28
+   Roger Bourke               27
+   Elise Morgan               27
+   Sheridan Davis             27
+   Carolyn Anctil             25
+   Craig Heimark              1
+
+2023:
+   Roger Bourke               20
+   John Byrne                 20
+   Sheridan Davis             19
+   Elise Morgan               17
+   Carolyn Anctil             7
+
+2024:
+   Elise Morgan               33
+   Carolyn Anctil             32
+   John Byrne                 32
+   Dan Schilling              32
+   Roger Bourke               29
+   Sheridan Davis             1
+
+2025:
+   Roger Bourke               40
+   John Byrne                 40
+   Dan Schilling              39
+   Carolyn Anctil             36
+   Elise Morgan               34
+
+2026:
+   Craig Heimark              39
+   Roger Bourke               39
+   Dan Schilling              38
+   Elise Morgan               35
+   Carolyn Anctil             23
+
+----------------------------------------------------------------------
+>5-VOTER FLAGS (would break the Mayor+4 ceiling): 0
+----------------------------------------------------------------------
+      (none)
+
+----------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+----------------------------------------------------------------------
+      (none)
+
+----------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 28
+----------------------------------------------------------------------
+   2020-03-11 [Council] m2 APPROVED (4-1) | AYE=['Margaret Bourke', 'Sheridan Davis', 'Elise Morgan', 'Harris Sondak'] NAY=['Cliff Curry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: amend Section 2 of the resolution to reflect that the fee for Class D licenses l
+   2020-03-11 [Council] m4 APPROVED | AYE=[] NAY=[] ABSTAIN=['Elise Morgan'] RECUSE=[] ABSENT=[] :: APPROVAL OF CONSENT AGENDA
+   2021-01-13 [Council] m6 APPROVED (3-0) | AYE=['Harris Sondak', 'Elise Morgan', 'Cliff Curry'] NAY=[] ABSTAIN=['Margaret Bourke', 'Sheridan Davis'] RECUSE=[] ABSENT=[] :: C-PACE RESOLUTION 2021-R-3 AND AUTHORIZATION TO ENTER INTO AGREEMENTS
+   2021-01-13 [Council] m8 FAILED (2-3) | AYE=['Margaret Bourke', 'Sheridan Davis'] NAY=['Harris Sondak', 'Cliff Curry', 'Elise Morgan'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ON 2021-R-2 A RESOLUTION ADOPTING AMENDED FY 2021
+   2021-05-12 [Council] m1 APPROVED (4-0) | AYE=['Margaret Bourke', 'Elise Morgan', 'Cliff Curry', 'Harris Sondak'] NAY=[] ABSTAIN=['Sheridan Davis'] RECUSE=[] ABSENT=[] :: APPROVAL OF CONSENT AGENDA
+   2021-05-12 [Council] m3 APPROVED (4-1) | AYE=['Cliff Curry', 'Elise Morgan', 'Sheridan Davis', 'Margaret Bourke'] NAY=['Harris Sondak'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION TO ADOPT FY2022 TENTATIVE BUDGET
+   2021-05-12 [Council] m4 FAILED (2-3) | AYE=['Margaret Bourke', 'Sheridan Davis'] NAY=['Elise Morgan', 'Cliff Curry', 'Harris Sondak'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: APPROVE the FY2022 Tentative Budget with the amendment that the ACVB Contributio
+   2021-06-16 [Council] m17 APPROVED (3-2) | AYE=['Cliff Curry', 'Elise Morgan', 'Harris Sondak'] NAY=['Margaret Bourke', 'Sheridan Davis'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Mayor Sondak CALLED the Question on the original motion to approve Resolution 20
+   2021-06-30 [Council] m3 APPROVED | AYE=[] NAY=[] ABSTAIN=['Harris Sondak'] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION REGARDING RENEWABLE ENERGY BOARD APPOINTMENT
+   2021-07-14 [Council] m2 APPROVED (3-2) | AYE=['Harris Sondak', 'Cliff Curry', 'Elise Morgan'] NAY=['Sheridan Davis', 'Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ON 2021-O-5 BUSINESS LICENSE ORDINANCE AND PERUVI
+   2021-09-08 [Council] m5 FAILED (2-2) | AYE=['Cliff Curry', 'Sheridan Davis'] NAY=['Elise Morgan', 'Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: amend his motion to include the language “and subsequent meetings.” Council Memb
+   2021-09-08 [Council] m11 FAILED (2-2) | AYE=['Sheridan Davis', 'Margaret Bourke'] NAY=['Elise Morgan', 'Cliff Curry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Mayor Pro Tempore Curry CALLED the Question on the original motion
+   2021-09-29 [Council] m1 APPROVED (4-1) | AYE=['Sheridan Davis', 'Margaret Bourke', 'Harris Sondak', 'Elise Morgan'] NAY=['Cliff Curry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION TO ADOPT 2021-O-8, AN ORIDINANCE ADOPTING BUSINES
+   2021-09-29 [Council] m2 APPROVED (4-1) | AYE=['Harris Sondak', 'Elise Morgan', 'Sheridan Davis', 'Margaret Bourke'] NAY=['Cliff Curry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION TO ADOPT 2021-R-16, A RESOLUTION REPEALING AND RE
+   2021-09-29 [Council] m3 APPROVED (4-1) | AYE=['Harris Sondak', 'Sheridan Davis', 'Margaret Bourke', 'Cliff Curry'] NAY=['Elise Morgan'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION TO ADOPT 2021-R-17, A RESOLUTION SUPPORTING THE S
+   2021-11-10 [Council] m7 APPROVED (4-1) | AYE=['Harris Sondak', 'Elise Morgan', 'Cliff Curry', 'Sheridan Davis'] NAY=['Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Discussion and possible action to authorize the Mayor to execute a contract with
+   2021-11-10 [Council] m9 APPROVED (3-2) | AYE=['Harris Sondak', 'Cliff Curry', 'Elise Morgan'] NAY=['Sheridan Davis', 'Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Discussion and possible action on a Planning Commission Appointment
+   2021-12-08 [Council] m4 APPROVED (3-1) | AYE=['Harris Sondak', 'Elise Morgan', 'Cliff Curry'] NAY=['Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: APPROVAL OF CONSENT AGENDA
+   2022-04-13 [Council] m3 FAILED (0-5) | AYE=[] NAY=['Roger Bourke', 'Sheridan Davis', 'Elise Morgan', 'John Byrne', 'Carolyn Anctil'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION REGARDING 2022-O-3 AMENDS ORDINANCE 1-6-4 APPOINT
+   2022-06-15 [Council] m6 APPROVED (4-1) | AYE=['Roger Bourke', 'Carolyn Anctil', 'John Byrne', 'Elise Morgan'] NAY=['Sheridan Davis'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: adopt the 2023 capital projects plan
+   2022-09-14 [Council] m2 FAILED (2-2) | AYE=['Roger Bourke', 'Carolyn Anctil'] NAY=['John Byrne', 'Sheridan Davis'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ON 2022-O-5 NOISE ORDINANCE
+   2022-10-12 [Council] m2 APPROVED (4-1) | AYE=['Roger Bourke', 'John Byrne', 'Sheridan Davis', 'Elise Morgan'] NAY=['Carolyn Anctil'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ON 2022-O-5 NOISE ORDINANCE
+   2022-10-12 [Council] m3 APPROVED (3-2) | AYE=['Roger Bourke', 'Carolyn Anctil', 'Sheridan Davis'] NAY=['John Byrne', 'Elise Morgan'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ON 2022-R-18 FEE SCHEDULE
+   2026-02-11 [Council] m1 APPROVED (4-0) | AYE=['Elise Morgan', 'Dan Schilling', 'Carolyn Anctil', 'Roger Bourke'] NAY=[] ABSTAIN=['Craig Heimark'] RECUSE=[] ABSENT=[] :: Discussion and possible action to adopt Resolution 2026-R-2 confirming appointme
+   2020-05-06 [Council] m4 FAILED (1-2) | AYE=['Margaret Bourke'] NAY=['Cliff Curry', 'Sheridan Davis'] ABSTAIN=['Elise Morgan', 'Harris Sondak'] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION REGARDING RESOLUTION 2020-R-10, A RESOLUTION TO R
+   2020-05-06 [Council] m5 APPROVED | AYE=[] NAY=[] ABSTAIN=['Margaret Bourke'] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION TO REVIEW, CONSIDER AND ADOPT TENTATIVE FY 2020-2
+   2020-06-17 [Council] m4 APPROVED (3-1) | AYE=['Cliff Curry', 'Elise Morgan', 'Harris Sondak'] NAY=['Sheridan Davis'] ABSTAIN=['Margaret Bourke'] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ADOPTING A RESOLUTION APPROVING BOUNDARY ADJUSTME
+   2020-06-17 [Council] m8 APPROVED (3-1) | AYE=['Elise Morgan', 'Harris Sondak', 'Sheridan Davis'] NAY=['Margaret Bourke'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: DISCUSSION AND POSSIBLE ACTION ADOPTING FINAL BUDGET 2020-R-15
+

@@ -1,0 +1,1441 @@
+| COPPERTON METRO TOWNSHIP COUNCIL
+
+ORDINANCE #2019-07- (i
+July 17, 2019
+AN ORDINANCE OF THE COPPERTON METRO
+TOWNSHIP, UTAH, AMENDING TITLE 17 CHAPTER 20
+AND TITLE 18 CHAPTERS 16 AND 24 OF THE COPPERTON
+METRO TOWNSHIP CODE OF ORDINANCES, 2001,
+REMOVING THE CHOICE BETWEEN BONDING AND
+COMPLETING STORMWATER IMPROVEMENTS AND
+ADDING REQUIREMENTS TO PROVIDE GEOGRAPHIC
+INFORMATION SYSTEM (“GIS”) FILES BEFORE PLAN
+APPROVAL.
+
+WHEREAS, the Copperton Metro Township Council (the “Council”) desires to update
+and amend the provisions of the Copperton Metro Township Code that pertain to the
+municipality’s GIS system to reflect current practice and to make conforming edits to account for
+the incorporation of the metro township; and
+
+WHEREAS, the Council also desires to adopt a related policy regarding its GIS system.
+
+NOW, THEREFORE BE IT RESOLVED BY THE COPPERTON METRO TOWNSHIP
+COUNCIL AS FOLLOWS, EFFECTIVE IMMEDIATELY FOLLOWING THE POSTING OF THIS
+ORDINANCE PURSUANT TO UTAH CODE ANN. § 10-3-711(1)(b)(ii)(B):
+
+1, The “Copperton Metro Township Policy on Standards for Geographic Information
+System” and related standards, attached as Exhibit 1, is adopted; and
+
+2. Chapter 20 of Title 17 and Chapters 16 and Sections 18.24.070, 18.24.150, and 18.24.170
+are repealed and replaced as set forth in Exhibit 2.
+
+3. This ordinance shall become effective fifteen (15) days after its posting in three public
+places within the Copperton Metro Township pursuant to Utah Code Ann. § 10-3-
+711(1)(b)Gi) and Utah Code Ann. § 10-3-712.
+
+[Execution on following page]
+
+APPROVED AND ADOPTED in Salt Lake County, Utah, this_|~1 day of SUNS 2019.
+COPPERTON METRO TOWNSHIP
+COUNCIL:
+oF
+By: —\2 < / a _
+Sean-Clayton, Chair
+Date: $/ 4/2014
+ATTEST:
+Shinn uptreee
+Sherrie Swensen, Clerk
+MH
+APPROVED AS TO FORM:
+Nathan S. Bracken
+Metro Township Council Attorney
+Council Member Bailey voting +e
+Council Member Clayton voting he
+Council Member Patrick voting Keie
+Council Member Pazell voting hte
+Council Member Severson voting Py }@i
+
+EXHIBIT 1
+
+COPPERTON METRO TOWNSHIP POLICY
+ON
+| STANDARDS FOR GEOGRAPHIC INFORMATION SYSTEM
+| Purpose
+
+This document provides standards for the creation and maintenance of geospatial data for
+
+the use of Copperton Metro Township (“Metro Township”) offices and departments. The
+
+overall goal is to ensure that a high quality, well-documented Geographic Information
+
+System (GIS) is built for the Metro Township. This standards document is intended to be
+
+a framework for building a robust and accurate GIS that will integrate with other Metro
+
+Township data sources. The intent is to describe common standards to be used by all Metro
+
+Township offices and departments in the acquisition, creation and maintenance of
+
+Geographic data. It is recognized that when coordinating with other governmental agencies
+
+the Metro Township may not be able to insist on absolute adherence to these standards.
+
+These standards were originally created under the auspices of Salt Lake County’s GIS
+
+Steering Committee (“GIS Steering Committee’) as established by Chapter 2.46 of the Salt
+
+Lake County Code of Ordinances, 2001, and amended by Salt Lake County Ordinance
+
+1619A. Where possible and applicable, the Metro Township will coordinate with the GIS
+
+Steering Committee to implement and revise this policy, as needed, provided that all final
+
+decision-making authority shall rest with the Copperton Metro Township Council.
+
+Policy
+
+10 Dataset Types -- A GIS database consists of a number of geographic datasets that are made
+up of points, lines and polygons. These datasets are sometimes called layers, coverages,
+themes, or shapefiles. The Metro Township uses data that is created by various entities
+within the Metro Township, data that is created by vendors under the direction of Metro
+
+Township and data that is created by entities outside of the Metro Township. The quality
+
+of a GIS database is dependent on the datasets that make up the GIS. When mixing data of
+
+differing accuracy any GIS product generated is only as accurate as its least accurate set of
+data.
+
+11 Base Dataset -- the Metro Township uses as a base reference layer the survey
+control that is maintained by the Office of the Salt Lake County Surveyor. This
+base layer includes but is not limited to the sections laid out by the original PLSS
+(Public Land Survey System) survey.
+
+12 Primary Source Datasets -- Primary source datasets are the datasets that are created
+by Metro Township that have a direct or indirect tie to the base dataset. Some
+current examples of this type of dataset are aerial photography that has been
+orthorectified, parcels, the street network (centerline), and municipal boundaries.
+
+13 Derived Datasets -- Derived datasets are created from other primary or external
+datasets. An example of a derived dataset is the voter precincts maintained by the
+Metro Township Clerk’s Office. In order to meet the requirements the creation of
+voter precincts includes internal data such as municipal boundaries, parcels, street
+network and external datasets such as state and federal legislative boundaries.
+
+1
+
+14 External Datasets -- the Metro Township may be required by law to use datasets
+| created by outside agencies that may not be completely coincident with Metro
+Township data. Examples of this type of dataset are census data, US congressional
+districts, and state legislative districts. The Metro Township will always work with
+outside data creators in an effort to make certain that the various data sets match
+up. The Metro Township will not meet the specific requirements of an external data
+creator except where required by law.
+20 Data Responsibility -- Copperton Metro Township does not have a centralized GIS office.
+
+It is therefore necessary to clearly define responsibility for data.
+
+21 Data Creation -- Ultimate responsibility for any dataset lies with the office or
+department that creates or acquires that data. This includes ensuring that the data
+meets applicable Metro Township standards attached hereto. The responsibilities
+of the data creator are more fully detailed in the sections below.
+
+22 Data Security
+2.2.1 Some of the GIS data that is created contains information that is sensitive
+
+or confidential in nature. This data must be identified by the data creator as
+being sensitive or confidential and access must be limited to those who have
+valid reason to see or use the data. Procedures for ensuring limiting access
+to sensitive and secure data are necessary.
+
+2.2.2 Access to the data that is created by an office or department by default will
+only be available to the creating entity. The ability to create and modify will
+be controlled as well. The data creator may request that others be given
+access to the data but this will not happen by default.
+
+23 Data Sharing Internal
+2.3.1 GIS data’s value increases synergistically, becoming more useful as more
+
+GIS data is added. To this end it is the goal of the Metro Township to share
+all information in a manner that minimizes the risk of exposing sensitive or
+confidential information. A repository of GIS data for use by all Metro
+Township users will be maintained by Information Services using
+appropriate technology. Data will be moved into the shared repository only
+a2 the request of the data creating agency. Data moved into this area should
+be sanitized; meaning sensitive information such as social security numbers
+should be removed or rendered unusable for specific identification.
+
+2.3.2 The data in the shared repository will be read only. It will not be possible
+for anyone to modify the data in the public repository. Any changes will
+come from the creating entity.
+
+2
+
+2.3.3 It is important that when creating maps or map products that to be used for
+| more than an internal work product the publisher and date of publication be
+| identified. The data creators must also be acknowledged on any map that is
+| produced. This can be a simple statement on the map suchas:
+
+Map created by [ your Organization] in conjunction with the
+offices of the Salt Lake County Assessor and the Copperton
+Metro Township Clerk, Surveyor, Recorder, and
+Department of Public Works.
+
+2.3.4 It will be a rare occurrence that a map will not use data from multiple
+sources.
+
+24 Data Sharing External
+
+2.4.1. The Metro Township will comply with all requirements of the Government
+Records Access Management Act (GRAMA) regarding the distribution of
+data outside of the Metro Township.
+
+2.4.2 The office or department that creates or acquires GIS data is responsible for
+setting the conditions under which the data may be distributed. This includes
+any fees or charges for the distribution of such data, and the data format that
+is used for distribution. Each office or department shall present proposed
+fees for this purpose to the GIS Steering Committee for consideration and
+recommendation. No office or department of the Metro Township may
+distribute data that is created by another department. This is not intended to
+prohibit the production of maps that use data created by other departments.
+It is intended to allow the creating agency to have control over the
+distribution of geographic and attribute data that they have created.
+
+2.4.3 Metro Township offices and departments may choose to designate any
+dataset they have created as restriction free for distribution purposes.
+
+2.44 When a Metro Township office or department contracts with an outside
+party to perform Geographic work and that contractor needs access to Metro
+Township data that is subject to distribution restrictions the contract must
+include provisions that restrict the contractor from using that data for any
+purpose other than the scope and duration of the contract.
+
+2.4.5 It is in the interest of the Metro Township to share data with municipalities
+and other public entities within the Metro Township. This interest in data
+sharing does not remove the requirement that the entity that has created or
+acquired data have the final authority over data distribution.
+
+2.4.6 Inthe case of data acquired from some outside vendor or agency there may
+be restrictions such as copyright that may limit the use or
+
+3
+
+redistribution of the data. Procedures must be created that will allow any
+
+| user to know about those restrictions.
+
+2.4.7 When a Metro Township office or department contracts with a vendor,
+consultant, or establishes an interlocal agreement with another entity the
+resultant agreement or contract shall require adherence to the standards as
+set forth in this policy.
+
+25 Data Archiving Requirements
+
+2.5.1 The Metro Township recognizes the long term value of geospatial data and
+the need to establish retention and disposition standards, guidelines and
+procedures for storage, management and access. GIS resources and
+capabilities must be addressed in identifying what data must be preserved,
+how readily available it is, and how it will be managed overtime.
+
+2.5.2 The GIS Steering Committee will establish criteria, subject to review and
+approval by the Metro Township Council, to determine which datasets,
+maps, projects, imagery and/or outputs must be archived; how frequently
+they must be archived; identify industry standards that must be followed
+regarding metadata; establish retention and disposition procedures; ensure
+ongoing training in archival requirements; and promote use of the Metro
+Township’s geospatial resources.
+
+2.5.3. The GIS archiving procedures should identify data accessioning
+Information including data authenticity; establish file naming conventions;
+address security issues, hardware and software considerations. The
+procedures should include a retention schedule that identifies the datasets to
+be preserved, including retention periods and any restrictions of access.
+Data custody issues should address metadata documentation, media
+migration and data conversion, preservation copies, disaster planning, vital
+records identification and off-site storage issues.
+
+3.0 Data Standards -- The technology used for acquisition of geographic data is rapidly
+evolving. As a result it is very important to understand what methodology is used at the
+time data is created. Constant evaluation of the effects of differing methodologies on the
+consistency of data is required.
+
+3.1 Projection and Coordinate System -- All data created by or at the direction of the
+
+Metro Township will use the following:
+
+Datum: NAD83
+Projection: State Plane
+Zone: Utah Central
+Unit: Feet
+
+4
+
+Care needs to be taken in converting between projection and coordinate systems
+
+| as some shifting may occur.
+
+3.2 Geographic Feature Requirements -- All geographic features that have more than a
+transitory existence require attributes that identify what the feature is. All
+geographic features must be created from and referenced to the most accurate
+source data.
+
+3.2.1 Points -- Points need to be accurate for the use intended. An explanation of
+the intended use of the point data will be included in the metadata.
+
+3.2.2 Lines -- Lines must not overlap except where there is a very specific need
+for the purposes of accurate data representation. Where lines represent a
+network and there is an intersection the lines must be snapped to a node.
+Lines must be created with the minimum number of vertices. Vertices
+should not be stacked.
+
+3.2.3. Polygons -- Polygons must close. Polygons must not have unintended gaps,
+overlaps, or overshoots.
+
+3.2.4 Attributes
+3241 Each geographic feature must have a unique ID and a name as a
+
+minimum. Other attributes will be added to meet the
+requirements of the feature set. All attribute data must be
+character or strings unless it is a date, Boolean, or a numeric field
+that is used for a calculation.
+
+3242 Attribute field names must mirror established standards.
+Attribute field names must have descriptive names that helps
+interpret the purpose of the field. When possible, domains shall
+be used for attributes that have a definable set of values.
+
+3.2.5 Metadata -- Metadata must be maintained for every dataset created by the
+Metro Township. The minimum requirements are:
+
+Data creator: office or department
+
+Date of creation:
+
+Dates of modification:
+
+Description of dataset:
+
+Method of creation, including source and reference materials:
+
+Current projection and coordinate system
+
+Original projection and coordinate system if different from current
+5
+
+Additional metadata requirements may be added as needed. Offices and departments
+may choose and are encouraged to maintain more than the minimum metadata.
+4.0 Coordination and Cooperation
+
+4.1. The Metro Township has chosen as its operational model a decentralized GIS. It is therefore
+incumbent upon all users and contributors to the Metro Township’s GIS to commit to a high
+
+level of cooperation and coordination.
+
+4.2 Exceptions and proposed changes to this policy must be presented to the Copperton Metro
+Township Council for consideration. The Council will review all requests for exceptions and
+changes to this
+20 policy. Ifthe Council finds good cause for an exception or change to this policy, the Council
+may
+approve the exception or make a change to this policy.
+
+6
+
+Copperton Metro Township Public Works Engineering GIS Standards
+Purpose
+Implementing a GIS Data Standard will facilitate data sharing, integration, and compatibility within the GIS
+system for the Metro Township. These standards provide GIS data guidelines for Copperton Metro Township
+Engineering and the Flood Control Engineering Division in addition to policy 10-13, “Standards for
+Geographic Information Systems.”
+Objective
+In order to maintain compatibility and consistency across spatial data platforms, it is the responsibility of the
+owner of the data to complete the data requirements to the specifications listed below and described in
+accordance with the Metro Township’s GIS Engineering Standards. The recent version for all Metro Township
+GIS Standards can be found on the: http://slco.org/WorkArea/DownloadAsset.aspx?id=2147490121
+The Metro Township contracts with Salt Lake County to provide certain administrative services,
+including its GIS system. Inquiries regarding the GIS System should be directed to:
+Alexander Rudowski GIS Specialist
+SLCo Office of Flood Control
+Engineering (385) 468 -6633
+ARudowski@slco.org
+Spatial Reference Info
+e Projection: NAD_1983_StatePlane_Utah_Central_FIP_4302_Feet
+e Geographic Coordinate System: GCS_NORTH_AMERICAN_1983
+e Datum: D_NORTH_AMERICAN_ 1983
+e Vertical Datum: NAVD_1988_ Foot_US
+Linear Unit: U.S. SURVERY FEET Features - All geospatial data have to meet these requirements listed below.
+1. Tolerances and Coordinate Precision
+e Double Precision format and scale of 5 and a precision of 8.
+e =Text format fields should have minimum of 10 and maximum of 150 characters depending
+on type of feature.
+e For Latitude and Longitude the format needs to be in decimal degree rather than degrees,
+minutes and seconds. Decimal degrees must have 8 digits in order to maintain accuracy.
+e A feature that requires vertical degree (3D Attribute) needs to have the Z factor included.
+2. Spatial Reference Information
+e §=Projection
+e Geographic Coordinate System
+e Datum
+e = Linear Unit
+3. Metadata Standards
+e Abstract
+e Purpose
+e Contact
+e Citation
+e Attribute Data Dictionary
+e Time Period
+4. File Naming Requirements for Attribute Item and Field Naming
+7
+
+e File name and for geospatial data use abbreviated name.
+e Use abbreviated attribute names for each feature.
+e All features must have design date of completion.
+e All geospatial data must be in Geo Database format (GDB).
+| e File names will be entirely in lowercase.
+e No spaces or dashes. Underscores are acceptable
+e Common and Metro Township Abbreviations Standards must be used.
+GIS Data Features Abbreviations and Descriptions
+Transportation
+1. ADA Ramps - wheel chair ramps for sidewalk use
+Abbreviation: ada_ramp
+2. Signals - electrical street sign indicating driving directions or conveying information
+Abbreviation: signal
+3. Signs - a sign indicating driving directions or conveying information to drivers
+Abbreviation: sign
+4. Crosswalks - a designated location on the road to indicate where pedestrians can cross
+Abbreviation: cr_walk
+5. Curb - the edge where a raised sidewalk meets an un-raised roadway
+Abbreviation: curb
+6. Striping — an indication on the road to guide and convey information to drivers
+Abbreviation: striping
+7. Bus Stops —rider access locations
+8. Side Walks- indication of sidewalk features and condition
+Abbreviation: s_walks
+9. Street Lights- street light ID and wattage information
+Flood Control
+1. Storm Drain Cleanout Box (Manhole) — top opening cover to an underground utility vault used as an access
+point that connects storm drain pipe lines.
+Abbreviation: sd_cleanout
+2. Detention Basin Inlet — an opening allowing the flow of water to be stored in a detention basin.
+Abbreviation: db_inlet
+3. Detention Basin Outlet — an opening allowing water to be drained out of a detention basin.
+Abbreviation: db_outlet
+4. Storm Drain Catch Basin — A device used to collect storm water.
+Abbreviation: sd_cb
+5. Bridge —a structure built for the purpose of providing passage over a body of water such as a creek or river.
+Abbreviation: bridge
+6. Culvert —a structure built for the purpose of channeling water.
+Abbreviation: culvert
+7. Pipe Line —a structure built for the purpose of channeling storm water.
+Abbreviation: sd_pipe
+8. Detention Basin Area — a low lying area designed to temporarily hold water.
+Abbreviation: db_area
+9. Drainage Area — an area of land where surface water covers the basin.
+Abbreviation: drain_area
+10. Fire Hydrants — for emergency management and geographic reference.
+8
+
+Copperton Metro Township Engineering GIS Data Requirements Check List
+Project Name:
+| Date: Submitted by:
+Received by:
+Data is required to be in the following ESRI shapefile/geodatabase format
+Projection Coordinate System: NAD_1983_StatePlane_Utah_Central_FIP_4302_Feet
+Geographic Coordinate System: GCS_NORTH_AMERICAN_1983
+Datum: D NORTH AMERICAN 1983
+GIS Data Features
+Attribute Needs to Include Attribute Name Type Accepted
+Object: ADA Ramps 1. Surface Material material Text 25
+2. Pattern pattern Text 25
+Shape File: Point 3. Slope slope Float, Precision 5, Scale 2
+4. Design Completion Date date Date
+Attribute Needs to Include Attribute Name Type Accepted
+a 1. Head Type type Text 25
+Object: Signals 2. Location locat Text 25
+a one 3. Pedestrian Signal signal Text 25
+Shape File: Point 4. Street Lights lights Text 25
+5. Design Completion Date date Date
+te Attribute Needs to Include Attribute Name Type Accepted
+Object: Signs 1. Type of Sign type Text 25
+Shape File: Point 2. Location locat Text 25
+P “Foin 3. Design Completion Date date Date
+; Attribute Needs to Include Attribute Name Type Accepted
+Object: Crosswalks 1. Width of Crosswalk width Float, Precision 4, Scale 1
+; . 2. Design Completion Date date date
+Shape File:Poly Line =—* 3 — Polyline with Z factor
+«te Attribute Needs to Include Attribute Name Type Accepted
+Object: Curb 1. Type of Curb type Text 25
+a, . 2. Design Completion Date date date
+Shape File: Poly Line s'35) _ Bolyline with Z factor
+«te Geet Attribute Needs to Include Attribute Name Type Accepted
+Object: Striping 1. Type of Stripe type_s Text 25
+‘le: P . 2. Width width Float, Precision 3, Scale 1
+Shape File: Poly Line 3. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+Object: Storm Drain 1. Depth of Cleanout Box depth Double, Precision 5, Scale 2
+Cleanout Box 3. Size of Outlet out_siz Double, Precision 5, Scale 2
+(Man Hole) 4. Direction of Outflow dir_out Text 15
+5. Rim Elevation rim Double, Precision 8, Scale 2
+Shape File: Point 6. Invert Elevation Outlet invert Double, Precision 8, Scale 2
+7. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+1. Type of Inlet type Text 25
+Object: Detention 2. Size of Inlet size Double, Precision 5, Scale 2
+Basin Inlet 3. Type of Material mater Text 10
+4. Inlet Invert Elevation in_el Double, Precision 8, Scale 2
+Shape File: Point 5. Rim Elevation on Bubble rim_el Double, Precision 8, Scale 2
+‘ Up Box
+6. Design Completion Date date date
+
+GIS Data Features
+Attribute Needs to Include Attribute Name Type Accepted
+| 1. Type of Outlet type Text 50
+Object: Detention 2. Size of Outlet (L, W, H) size Text 50
+Basin Outlet 3. Type of Material mater Text 10
+4. Outlet Invert Elevation outlet_el Double, Precision 8, Scale 2
+Shape File: Point 5. Rim Elevation rim_el Double, Precision 8, Scale 2
+6. Outflow (Max cfs) cfs Float, Precision 8, Scale 2
+7. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+1. Width of Drain width Double, Precision 5, Scale 2
+art: F 2. Length of Drain length Double, Precision 5, Scale 2
+Object: D '
+ject: Storm Drain Depth of Box depth Text 10
+Catch Basin ; ; ; .
+4. Rim Elevation rim_el Double, Precision 8, Scale 2
+5) Dat 5. Invert Elevation inv_el Double, Precision 8, Scale 2
+Sh : Point =
+ape File: Poin 6. Type of Inlet type Text 25
+7. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+oo. 1. Width width Float, Precision 5, Scale 2
+Object: Bridge 2. Low Cord Height height Float, Precision 5, Scale 2
+; 3. Channel Invert Elevation invert Double, Precision 8, Scale 2
+Shape File: Poly Line 4. Elevation of the Deck deck Double, Precision 8, Scale 2
+5. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+1. Type of Culvert type Text 25
+2. Width in Feet width Double, Precision 5, Scale 2
+3. Height in Feet height Double, Precision 5, Scale 2
+Object: Culvert 4. Directional Flow (N,S,E,W) dir_flo Text 10
+5. Up Stream Invert Elevation up_elev Double, Precision 8, Scale 2
+Shape File: Poly Line 6. Down Stream Invert Elevation down_el Double, Precision 8, Scale 2
+7. Slope of Culvert slope Double, Precision 5, Scale 2
+8. Design Flow (cfs) cfs Float, Precision 5, Scale 2
+9. Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+1. Radius of Pipe radius Float, Precision 5, Scale 2
+2. Type of Material materi Text 10
+3. Directional Flow (N,S,E,W) dir_flo Text 10
+Object: Pipe Line 4, Upstream Invert Flow Line up_elev Double, Precision 5, Scale 2
+Elevation
+Shape File: Poly Line 5. Downstream Invert Flow down_el Double, Precision 5, Scale 2
+Line Elevation
+6. Slope of Pipe Line slope Double, Precision 5, Scale 2
+7. Design Flow (cfs) cfs Double, Precision 5, Scale 2
+8. Design Completion Date date date
+
+Attribute Needs to Include Attribute Name Type Accepted
+Object: Detention 1. Area area Double, Precision 8, Scale 2
+Basin Area 2. Other Use / ex: school, soccer use Text 25
+3. Capacity of Basin cap Double, Precision 8, Scale 2
+| Shape File: Polygon 4. Design Completion Date date date
+|
+Area > nea C ; area Double, Precision 8, Scale 2
+Shape File: Polygon . Design Completion Date date date
+Attribute Needs to Include Attribute Name Type Accepted
+1. Transit Authority authority Text 50
+Object: Bus Stops 2. Shelter/non-shelter shelter Text 50
+on 3. Shelter Type shel_type Text 10
+Shape File: Point 4. Routes Serviced rt serve
+5 Bus Stop ID Se" Text 50
+seus oP stop_id Text 10
+Attribute Needs to Include Attribute Name Type Accepted
+. ee 1. Fire Authority f_author Text 10
+Object: Fire Hydrants 2. Water Authority w_author Text 10
+Sh File: Point 3. Flow Rate flow_rt Text 10
+ape rile: Foin 4. In-Service/Out-of-Service serv_stat Text 10
+5. Hydrant ID hy_id Text 10
+Attribute Needs to Include Attribute Name Type Accepted
+1. Width s_width Double, Precision 5, Scale 2
+2. Park Strip strip Text 10
+Object: Sidewalks 3. Side of Road rd_side Text 10
+4. Install Date in_date date
+Shape File: Poly Line —5. Design Date des_date date
+6. Condition condition Text 50
+Attribute Needs to Include Attribute Name Type Accepted
+- 4. : 1. Fixture Type fixture_ty Text 20
+Object: Street Lights 2. Pole Type pole_type Text 20
+4. Des 3. Wattage wattage Float, Precision 5, Scale 1
+Shape File: Point 4. Pole Number pole_num Double, Precision 8, Scale 2
+5. Address address Text 50
+
+EXHIBIT 2
+
+SECTION I. Article I of Chapter 17.20 of the Copperton Metro Township Code of Ordinances, is
+repealed and replaced as follows:
+| Article I. - General Provisions
+| 17.20.010 - Purpose.
+The purpose of this chapter is to establish and provide means, rules and regulations for the control
+and discharge of floodwaters or excess waters caused by the construction of improvements upon
+real property located in the metro township.
+17.20.020 - Definitions.
+For the purposes of this chapter, this definitions of the following terms shall apply:
+“Building permit” means all permits except those issued solely for grading or for the purpose of
+remodeling or repairing any preexisting building or structure, provided that no increase in
+impervious surface on the property results from such permit.
+“Design capacity” or “capacity of drainage systems” means the maximum volume of water per
+unit of time which can be carried or accommodated by each component of a drainage system,
+based upon size of the line, slope, and any other factors which affect the carrying capacity of a
+line.
+“Development site,” “development” or “subdivision” means the total area of a subdivision or the
+total area of the parcel of land on which a building permit is to be issued or the total area of
+property being improved, including yard space in the case of development of a part of a land
+parcel.
+“Director” means the planning and development services director or designee.
+“Division” or “planning and development services division” means the director and other
+authorized agents and employees of the planning and development services division of the
+department of public works of the metro township.
+"Drainage area" means that portion of a drainage basin whose drainage or storm waters drain or
+gravitate toward a natural or artificial channel, conduit, retention or detention area; upon
+designation of a drainage area upon a map referred to in Section
+17.20.050, "drainage area" means each area so designated.
+"Drainage basin" means that portion of the unincorporated metro township whose drainage or
+stormwaters of the contributing area is made up of individual drainage areas; upon designation
+of a drainage basin upon a map referred to in Section 17.20.050, "drainage basin" means each
+area so designated.
+"Drainage system" means all facilities used for conducting excess waters to, through and from a
+drainage area to the point of final retention or destination, including, but not limited to, any or all
+of the following: pipes, conduits, culverts, curbs, gutters, waterways, inlets, swales, ditches,
+1
+
+gulches, channels, retention and detention areas, and appurtenant features, as well as easements
+and rights-of-way necessary to accommodate the same. In ascending order of size and capacity,
+| components of the drainage system include the following: unit drainage system, intermediate
+drainage system, major drainage system, trunk line, natural tributary, final destination. A
+
+drainage system may, but need not, contain all of the foregoing components.
+
+"Excess waters" mean those waters flowing upon or across a lot, subdivision, development or
+
+other area of real property which are created because of alteration of or building upon the natural
+
+terrain or other increase in the impervious surface of the property, which waters are additional to
+
+the waters which would flow upon or across the unaltered natural terrain.
+
+"Final destination" means a natural or artificial retention area which serves one or more drainage
+
+basins into which excess waters are discharged, without subsequent discharge into any other
+
+drainage system, facility or retention or detention area or facility.
+
+"Intermediate drainage system facility" means that part of the drainage system which serves one
+
+or more single units, subdivision or development drainage system facilities, which conveys excess
+
+waters from a unit or subdivision, and which is tributary to a major drainage system facility, a
+
+trunk line, natural tributary or final destination. Facilities within this system will be designed to
+
+fully accommodate a ten-year frequency flood.
+
+"Major drainage system facility" means that part of the drainage system within a drainage area
+
+which is contributed to by one or more unit and intermediate drainage systems. A major drainage
+
+system facility is tributary to a trunk line, natural tributary or final destination.
+
+"Mayor" means the Copperton Metro Township mayor or designee.
+
+"Natural tributary" means that part of the drainage system contributed to by one or more trunk
+
+lines, major, intermediate and unit drainage systems; is a natural channel, ditch or river, and
+
+which is tributary solely to a final destination.
+
+"One-hundred-year frequency flood" means a flood flow of the magnitude which is expected to
+
+occur on the average of a one-hundred-year frequency or has a one-percent chance of being
+
+equaled or exceeded during any one year. Similarly, two, five, ten and other year frequency floods
+
+bear like definition.
+
+"Retention" means temporary or permanent accumulation of excess waters and/or other
+
+stormwaters, and shall include the total or partial accumulation of such waters. In the case of
+
+partial retention, the retention facilities shall include carriage of the portion not retained to an
+
+intermediate or major drainage system facility, trunk line, natural tributary or final destination.
+
+"Stormwaters" means a storm or flood flow of the magnitude which is expected to occur on the
+
+average of a ten-year frequency or has a ten-percent chance of being equaled or exceeded during
+
+any one year.
+
+"Trunk line" means that part of the drainage system contributed to by one or more drainage areas
+
+and unit, intermediate and major drainage system facilities within such drainage areas. A trunk
+
+2
+
+line transports excess waters to a natural tributary or final destination.
+"Unit or subdivision drainage facility" means that drainage system which drains a subdivision or
+other development area and which is tributary to an intermediate or major drainage system
+facility, trunk line, natural tributary or final destination.
+17.20.030 - Applicability.
+This chapter shall apply to all development within the metro township. This chapter shall apply
+to all portions of the metro township drainage system constructed or completed from and after
+the effective date of the ordinance codified in this chapter.
+The metro township, with the approval of the developer, where applicable, may include the
+application of this chapter to facilities, and benefited areas served thereby, which were under
+construction after January I, 1979.
+17.20.040 - Owner and Metro Township Responsibility
+A. It is the responsibility and obligation of the owner of real property to control and contain
+or to discharge into a drainage system facility excess waters from storm or flood caused
+by the construction of improvements upon real property in the metro township. Consistent
+with the terms and provisions of this chapter, an owner's responsibility includes
+construction, at such owner's expense, or in cooperation with other owners, or by payment
+to the county of stormwater facilities impact fees as provided in Sections 17.20.710
+through 17.20.760 of (1) unit drainage system facilities; (2) intermediate drainage system
+facilities; and (3) major drainage system facilities, required to convey excess waters
+originating in the unit or subdivision to a trunk line, natural tributary or final destination.
+B. The metro township’s responsibility is to provide, at metro township expense, for trunk
+lines required to serve unit, intermediate and major drainage system facilities in the metro
+township, and to maintain unit, intermediate and major drainage system facilities
+dedicated to the metro township, trunk lines, natural tributaries and final destinations
+adequate to serve the various facilities and trunk lines which are tributary to them.
+Additionally, the metro township may, but is not obligated to, construct intermediate
+and/or major drainage system facilities pursuant to Section 17.20.160. The metro township
+council, through its budget process, including review of amounts received under Sections
+17.20.170 through 17.20.220, shall establish priority and determine each year which
+facilities will be constructed that year at metro township expense.
+17.20.050 - Delineation of Drainage Basins and Areas
+As soon as practicable after the adoption of the ordinance codified in this chapter, the boundaries
+of the drainage basins and drainage areas of the metro township will be delineated upon a map or
+maps. The work shall be done by the planning and development services division or by qualified
+consultants under its direction.
+3
+
+| 17.20.060 - Engineering studies — Maximum Volumes of Excess Stormwater.
+|
+| A, The division shall cause engineering studies to be made of all drainage areas within the
+
+metro township. These studies shall be made to determine the amount or volume,
+
+frequency, and course of excess and stormwaters, and any drainage system now provided
+
+or to be provided for the drainage and control of excess or storm waters within said areas,
+
+including location of outfall or disposal points. Previous studies made by the metro
+
+township or others shall be considered in whole or in part if applicable.
+
+B. These studies shall from time to time be updated or amended as necessary to reflect
+changed conditions. Studies in individual drainage areas, developments, proposed
+subdivisions, existing subdivisions or other property may be completed by professional
+engineers for private developers under the direction of the metro township if the metro
+township cannot complete the studies as soon as required for development due to staff or
+budget constraints.
+
+C. In conducting the studies referred to in this section, the analysis of storm drainage flows
+and facilities shall be performed by professional engineers competent in hydrology and
+hydraulics and shall be in accordance with sound engineering practices. Location of
+existing storm drainage facilities will be coordinated with the division.
+
+D. In all cases flows shall be based upon present conditions and potential for future
+development of the metro township, taking into consideration the current elements of the
+land use master plan of the metro township, current as of the date of the study, relating to
+the drainage basin and other relevant factors, including changes in zoning or development
+which are not reflected on the master plan.
+
+E. The maximum stormwater release rate exiting the developed property into an approved
+system shall be based upon the results of the above studies. If unavailable, it shall be the lessor of
+the predevelopment release rate or 0.2 cfs/acre, unless otherwise approved by the Division for good
+cause.
+
+17.20.070 - Control of development excess waters.
+
+The owner or developer of land to be improved or developed shall provide, at his own expense,
+the unit or subdivision drainage system facilities within each development necessary for the
+control of excess waters within the development. He shall also provide:
+
+A. The intermediate drainage system facilities required to convey such stormwaters:
+
+1. To a major drainage system facility in existence on the effective date of the
+ordinance codified in this chapter, or
+2. To a major drainage system constructed after the date of the ordinance codified
+in this chapter,
+4
+
+3. To a trunk line, natural tributary or final destination; or
+B. The intermediate and major drainage system facilities required to convey such excess
+waters to a trunk line, natural tributary, or final destination as may be indicated on the
+drainage area map for the drainage area within which the development is located: or
+|
+C. The facilities to retain excess waters on designated portions of the land to be improved or
+developed or facilities upon other lands to which the stormwaters may be conveyed and
+upon which the owner or developer has legal right to retain such excess waters in
+accordance with Sections 17.20.530 through 17.20.590 of this chapter; or
+D. A temporary area, not part of the proposed development, to allow runoff waters to absorb
+naturally until the intermediate or major drainage system is completed, in which case the
+provisions of Section 17.20.580-shall apply. Said temporary area shall in no case be less
+than one-half of all the developed drainage area tributary to it; or
+
+E. Shall meet all provisions set forth in Sections, 17.20.150 and 17.20.220—The owner or
+developer shall also be responsible for safely routing the one-hundred-year frequency flood through
+the development as provided for in the metro township flood hazard regulations. The metro township
+retains the regulatory and approval function specified in this chapter in connection with unit,
+intermediate and major facilities constructed by an owner or developer.
+
+SECTION II. Article II of Chapter 17.20 of the Copperton Metro Township
+
+Code of Ordinances, is repealed and replaced as follows:
+
+Article I. - Metro Township Drainage System
+
+17.20.080 - Generally.
+
+The provisions of this article apply where the metro township installs, at its expense, intermediate
+
+or major drainage system facilities to which intermediate or unit drainage system facilities of a
+
+subdivision or development are connected. The provisions of this article also apply to any developer
+
+or private person desiring to connect the intermediate or unit drainage facilities of a subdivision or
+development to the metro township drainage system.
+
+17.20.090 - Studies of Needed Drainage Facilities.
+
+A, In connection with the studies contemplated under Section 17.20.060, the division may
+designate areas where the studies shall determine the intermediate and major drainage
+system facilities to be provided for the drainage and control of excess waters within the
+areas and to convey such waters to acceptable trunk lines, natural tributaries or final
+destinations. Previous studies made by the metro township or others shall be considered in
+whole or in part if applicable.
+
+B. These studies shall include a current estimate of the cost of providing the intermediate and
+
+5
+
+major drainage system facilities, and the computation of such costs shall include the
+| expense of the studies as well as anticipated engineering design services, construction
+| engineering and inspection services, land acquisition and incidental costs required to
+| install such facilities.
+
+17.20.100 - Design Criteria.
+
+A. In conducting the studies referred to in Section 17.20.090, the analysis and design of
+storm drainage flows and facilities shall be performed by professional engineers
+competent in hydrology and hydraulics and shall be in accordance with sound
+engineering practices.
+
+B. In developing the studies every effort shall be made to promote economy in the proposed
+drainage design by selection of facilities for accommodating drainage flow and the use
+of materials and methods of construction that provide the most advantageous balance
+between the cost of the facilities and the benefits received therefrom. Innovative
+approaches that reduce the overall requirement or cost of capital construction shall be
+encouraged.
+
+Cc In all cases flows shall be based upon conditions of future development of the metro
+township, taking into consideration the current elements of the land use master plan of
+the metro township relating to the drainage area and other relevant factors, including
+changes in zoning or development which are not reflected on the master plan.
+
+17.20.110 - Map Requirements.
+As studies and maps for individual drainage areas are completed in accordance with Sections
+17.20.050 and 17.20.060 in areas where the metro township may construct intermediate or major
+drainage system facilities, the necessary major drainage system facilities and intermediate
+drainage system facilities, together with the design capacities thereof, shall be shown on the map
+or maps. The map or maps shall be approved by the division and shall serve as designations of the
+respective drainage area boundaries and the drainage system requirements within the area. The
+map or maps will be subject to revision from time to time to conform with existing conditions, the
+results of additional studies, and such other information as may be obtained from time to time.
+
+17.20.120 - Designation of Benefited Area.
+
+The division shall designate the area to be served by the intermediate or major drainage system
+
+facilities to be constructed by the metro township. The drainage area shall be designated in a
+
+manner consistent with the provisions of Section 17.20.050. The drainage basin or area so
+
+designated shall be referred to as the MTDS (metro township drainage system) benefited area.
+
+17.20.130 - Removal of Property From Benefited Area.
+
+Upon written request from the owner of any property in the MTDS benefited area to have his land
+
+excluded from the MT'DS benefited area; and (A) evidence that such land can be developed in a
+
+manner consistent with the retention plan designated in Section 17.20.530; and (B) written election
+
+6
+
+in recordable form that the owner shall not make alterations or improvements that will result in
+excess waters from storm or flood draining into the metro township drainage system, and that such
+election is binding on successors and assigns, the owner's property shall be excluded from the
+| MTDS benefited area. Requests for exclusion from the MTDS benefited area shall be considered
+until final plans and specifications are approved prior to letting of bids for the construction of the
+intermediate and/or major drainage system facilities to be constructed by the metro township.
+
+Unless so excluded, all land within the MTDS benefited area will be subject to payment of the
+
+stormwater facilities impact fee designated in Sections 17.20.710 through 17.20.760 as a condition
+
+precedent to issuance of a building permit or construction of improvements upon the land.
+
+17.20.140 - Responsibility of Owner or Developer.
+
+A, The owner or developer of land to be improved or developed shall provide, at his expense,
+the unit or subdivision drainage system facilities within each development necessary for
+the drainage and control of excess waters within the development.
+
+B. The metro township may undertake the construction of the intermediate or major drainage
+system facilities required to convey drainage waters to an acceptable trunk line, natural
+tributary, or final destination within or at the boundary of the drainage area, as may be
+indicated on the drainage area or map for the drainage area within which the development
+is located.
+
+C. The developer or owner shall be responsible for the payment of a unit area drainage fee,
+which fee shall be applied toward the payment of all or part of the cost of the intermediate
+or major drainage system facilities constructed or to be constructed by the metro township
+in the area in which the development is located.
+
+17.20.150 — Stormwater drainage facility plans, specifications, and geographic
+
+information system (“GIS”) data required.
+
+A. Prior to the final approval of a subdivision or development plan or building permit
+associated with a subdivision or development plan, or in the case of a single lot
+development, a single building permit, the owner or developer shall:
+
+1, At developer or owner’s expense, have prepared by a professional engineer
+licensed to practice in the state of Utah, as required by the division, detailed plans
+and specifications for the construction and installation of all unit or subdivision
+drainage facilities for the control and drainage of excess water within the
+development, or the part thereof for which a building permit has been requested,
+and the carriage of such water to an acceptable intermediate or major drainage
+system facility or to a trunk line, natural tributary, a final destination as agreed to
+by the division, all in conformance with the master plan of the drainage area or
+drainage basin as approved by the metro township, together with the estimated total
+costs of these facilities.
+
+2. In addition to the above required plans and specifications, before final approval
+and the issuance of a building permit, the developer or owner shall provide to the
+
+7
+
+Metro Township GIS data corresponding to the approved plans. Any changes
+| during construction will require additional GIS data to be submitted with the final
+approved as-built drawings. All GIS data shall be submitted in the following
+
+format:
+
+i, All GIS data shall be submitted in conformance with Metro Township Policy,
+“Standards for Geographic Information System” and the “Copperton Metro
+Township Public Works Engineering GIS Standards,” as approved by the
+GIS Steering Committee as ratified and approved by the Metro Township
+Council and on file with Copperton Metro Township Engineering. The Metro
+Township reserves the right to reject any GIS data that is provided and is not
+in compliance with the above standards.
+
+il. This shall be done at the developer or owner’s expense. If a developer or
+owner does not provide the required GIS data, the Metro Township may
+complete the work in the developer or owner’s behalf and the developer or
+owner shall pay to the Metro Township the cost of completing the work at the
+hourly rate approved by the Metro Township Council for such work. If the
+developer or owner fails to pay for such work, the Metro Township may
+pursue legal action to recover these costs.
+
+lil. Developers with a cost as estimated by the public works department of ten
+thousand dollars ($10,000.00) or less may, prior to construction, petition
+the Council for an exemption from the GIS requirements of this Chapter.
+The decision of the Council shall be final.
+
+B. In lieu of completion of the drainage system prior to final approval of the subdivision or
+development plan by the metro township, the developer or owner shall provide a performance
+bond guaranteeing actual construction and installation of the facilities pursuant to a schedule
+approved by the division director, and must do so before recording the plat. A developer or owner
+opting to complete drainage system before recording the plat shall also post an improvement
+warranty period assurance of ten percent, or of the maximum allowed by state law. The Division
+shall not accept said facilities nor recommend the release of the final ten percent of the bond or
+the improvement warranty period assurance until updated as-built drawing GIS data is received
+by :
+
+Metro Township and all other requirements are met.
+
+C. Upon completion of review and approval by the division director, the subdivision or
+development plan or building permit may be given final approval.
+
+D. Final approval and building permits for individual homes, buildings or similar
+improvements (other than the subdivision and intermediate drainage system facilities) may
+be given final approval only if-the owner or developer gives acceptable assurance to the
+metro township that the drainage facilities will be constructed and installed as indicated
+and approved. Acceptable assurance shall consist of an improvement warranty period
+assurance of ten percent and any one of the types of performance guarantees defined in
+Section 17.28.010.
+
+8
+
+| 17.20.220 - Temporary Facilities Permitted When.
+
+A. The division shall approve temporary drainage solutions providing for on-site detention
+or retention that will allow development to continue pending completion of the
+intermediate or major drainage system. The temporary solutions shall provide the same
+level of flood protection at all times that will be provided by the completed systems. All
+extraordinary costs of temporary solutions shall be paid by the developer in addition to the
+other costs and fees provided for in this chapter.
+
+B. The division shall make the determination of the required scope of temporary facilities or
+improvements prior to the issuance of a building permit or approval of a final plat or
+development plan, whichever first occurs.
+
+17.20.240 - Connection to Metro Township Facility Required.
+
+Neither the metro township nor any other owner or developer of land in the MTDS benefited area
+
+shall subsequently construct an intermediate or major drainage system facility to serve land
+
+intended to be served by an intermediate and/or major drainage system facility designed to serve
+such land and constructed by the metro township pursuant to the provisions of this Article II. Any
+unit or intermediate drainage system facility constructed by an owner or developer shall be
+connected to the intermediate or major drainage system facility constructed by the metro township
+pursuant to this Article II, and the owner or developer shall be responsible for payment of the fees
+
+required by Section 17.20.280.
+
+17.20.270 - Facilities to Become Property of Metro Township.
+
+All unit or subdivision, intermediate and major drainage system facilities and appurtenances
+constructed or provided under this Article II shall, upon written acceptance by the metro township,
+become the property of the metro township and the metro township shall thereafter operate and
+maintain same. Written acceptance shall be given if the unit or subdivision, intermediate and
+major drainage system facilities are constructed within the provisions of this chapter; provided,
+however, that temporary or permanent retention or detention areas may be retained by the owner
+or developer thereof, and such retention or detention areas may, but need not, be conveyed or
+dedicated to the metro township.
+
+SECTION III. Article Ill of Chapter 17.20 of the Copperton Metro Township
+Code of Ordinances, is repealed and replaced as follows:
+Article III. - Private Construction
+17.20.280 - Generally.
+The metro township acknowledges that a private owner or developer of property may construct
+
+9
+
+intermediate or major drainage system facilities that may be used by owners or developers of other
+| property. The provisions of this article detail the manner in which such facilities may be
+
+constructed by a private owner or developer and the manner and cost of connection to such system
+by another owner or developer.
+
+17.20.290 - Designation of Benefited Area.
+
+The owner or developer shall request the designation of a drainage area by the division. The
+drainage area so designated shall be that area to be served by the intermediate or major drainage
+system facilities to be constructed, may include areas in addition to those requested, and the
+division shall consider whether additional areas should reasonably be included, especially if it
+determines that an area is unlikely to be served or will be less efficiently or effectively served by
+another intermediate or major drainage system facility and can reasonably be served by the
+facility proposed. The drainage area shall be designated in a manner consistent with the provisions
+
+of Section 17.20.050. The drainage area so designated shall be referred to as the DS (drainage
+system) benefited area.
+17.20.300 - Removal of Property From Benefited Area.
+Upon written request from the owner of any property in the benefited area of the owner's desire to
+have his land excluded from the DS benefited area and (1) evidence that such land can be
+developed in a manner consistent with the retention plan designated in Sections 17.20.530 through
+17.20.590, and (2) written election in recordable form that the owner shall not make alterations
+or improvements that will result in excess waters from storm or flood draining into the drainage
+system, and that such election is binding on successors and assigns, the owner's property shall be
+excluded by the county from the DS benefited area. Requests for exclusion from the DS benefited
+area shall be considered until final plans and specifications are approved by the division pursuant
+to Section 17.20.340 or sixty days prior to the letting of bids for the construction of the intermediate
+and/or major drainage system facilities to be constructed by an owner or developer, whichever is
+later. Unless so excluded, all land within the DS benefited area will be subject to payment of the
+fee designated in Section 17.20.380 as a condition precedent to issuance of a building permit or
+construction of improvements upon the land.
+
+17.20.310 - Studies of Needed Facilities.
+
+A. In connection with the studies contemplated under Section 17.20.060, the division may
+designate areas where the studies shall determine the intermediate and major drainage
+system facilities to be provided for the drainage and control of excess waters within the
+areas and to convey such waters to acceptable trunk lines, natural tributaries or final
+destinations. Previous studies made by the metro township or others shall be considered
+in whole or in part if applicable.
+
+B. These studies shall include a current estimate of the cost of providing intermediate and
+major drainage system facilities, and the computation of costs shall include the expense of
+the studies as well as anticipated engineering design services, construction engineering
+and inspection services, land acquisition, and incidental costs required to install the
+
+10
+
+Jacilities. These studies shall from time to time be updated or amended as necessary to
+| reflect changed conditions. Studies in individual drainage areas, developments, proposed
+| subdivisions, existing subdivisions or other property may be completed by professional
+| engineers for private developers under the direction of the metro township if the metro
+
+township cannot complete the studies as soon as required for development due to staff or
+
+budget constraints.
+
+17.20.320 - Design Criteria.
+
+A, In conducting the studies referred to in Section 17.20.310, the analysis and design of storm
+drainage flows and facilities shall be performed by professional engineers competent in
+hydrology and hydraulics and shall be in accordance with sound engineering practices.
+
+B. In developing the studies every effort shall be made to promote economy in the proposed
+drainage design by selection of facilities for accommodating drainage flow and the use of
+materials and methods of construction which provide the most advantageous balance
+between the cost of the facilities and the benefits received therefrom. Innovative approaches
+that reduce the overall requirement or cost of capital construction shall be encouraged. In
+all cases flows shall be based upon conditions of future development of the metro township,
+taking into consideration the current elements of the land use master plan of the county
+relating to the drainage area and other relevant factors, including changes in zoning or
+development that are not reflected on the master plan.
+
+17.20.330 - Map Requirements.
+
+As studies and maps for individual drainage areas are completed in accordance with Sections
+
+17.20.050 and 17.20.060 in areas where a private developer may construct intermediate or major
+
+drainage system facilities to be used by others, the necessary major drainage system facilities and
+
+intermediate drainage system facilities, together with the design capacity thereof, shall be shown
+on the map or maps. The map or maps shall be approved by the division and shall serve as
+designations of the respective drainage area boundaries and the drainage system requirements
+within the area. The map or maps will be subject to revision from time to time to conform with
+existing conditions, the results of additional studies, and such other information as may be
+obtained from time to time.
+
+17.20.340 - Design of facilities.
+
+The owner or developer shall have the intermediate or major drainage system facilities designed
+
+by professional engineers to accommodate the excess waters within the DS benefited area. The
+
+plans, specifications, and GIS data shall be submitted to the division for review and, if acceptable,
+approval. The GIS data shall meet the same requirements as set forth in 17.20.150(A)(2).
+
+17.20.350 - Acquisition of easements and rights-of-way.
+
+A, Easements or rights-of-way or property that must be acquired for the installation of the
+intermediate or major drainage system facility shall be acquired by the owner or
+developer, at the expense of the owner or developer. In the event the owner or developer
+is unable to acquire any necessary easement, right-of-way or property, and upon owner's
+
+11
+
+or developer's written request, the metro township may negotiate to acquire the necessary
+| easement, right-of-way or property, failing which, the metro township may (1) submit to
+| owner or developer a map showing an alternative route (in which event the owner or
+| developer will endeavor to acquire the necessary easements, rights-of-way or property for such
+
+route), or (2) commence a condemnation action to acquire the easement or right-of-way for the
+
+drainage system facilities.
+
+B. Owner's or developer's written request for metro township condemnation shall (1)
+describe efforts to acquire the easement, right-of-way or property, and (2) state the amount
+offered the owner of the property. Owner or developer shall pay the metro township all
+amounts to be paid to an owner of property for the acquisition of any easements, right-of-
+way or property. The metro township shall be responsible for its own legal fees and costs
+of the condemnation action.
+
+17.20.360 - Construction of Facilities.
+Upon completion of the plans and specifications by the engineer, and acquisition of the necessary
+easements, rights-of-way or property, the owner or developer shall then proceed to cause that
+portion of the intermediate or major drainage system facilities to be installed, at the owner's or
+developer's sole expense, strictly in accordance with the plans and specifications thus prepared
+and approved. No facilities will be covered or backfilled until the same have been fully inspected
+and cover or backfill is authorized by the division. If any facility or portion thereof is covered
+without authorization, the division may require the facility to be reopened for inspection. The
+actual interconnection of the intermediate or major drainage system facility with any other county
+line shall be done by the metro township, or by the contractor for the owner or developer under
+the supervision of the metro township at the expense of the owner or developer. No unit or
+subdivision or intermediate drainage system facility shall be connected to a major drainage system
+facility until the division has fully approved the facilities as constructed, and until satisfactory
+evidence has been presented to the division showing that all bills for labor and material and all
+other costs of constructing the line have been paid.
+
+17.20.370 - Inspection by Division.
+
+The division or its retained engineers shall inspect the installation and, if the facilities meet the
+
+requirements of the plans and specifications, shall give the owner or developer notice of
+
+acceptance. Upon completion of the facilities, the owner or developer shall assign and convey to
+the metro township all of the owner's or developer's right, title, estate and interest in the facilities.
+
+The metro township shall thereafter be the owner thereof, and shall operate and maintain the
+
+same, subject to the provisions of Section 17.20.380.
+
+17.20.390 - Temporary Facilities Permitted When.
+
+The division shall approve temporary drainage solutions providing for on-site detention and
+
+retention which will allow development to continue pending completion of an intermediate or
+
+major drainage system facility. The temporary solutions shall provide the same level of flood
+
+protection at all times that will be provided by the completed systems. All extraordinary costs of
+
+temporary solutions shall be paid by the developer in addition to the other costs and fees provided
+12
+
+for in this chapter.
+
+| 17.20.400 - Temporary Facilities Permitted When.
+
+Except for the owner or developer constructing a drainage system facility pursuant to this Article
+III, neither the metro township nor any other owner or developer of land in the DS benefited area
+shall subsequently construct an intermediate or major drainage system facility to serve land
+intended to be served by an intermediate and/or major drainage system facility designed to serve
+such land and constructed pursuant to the provisions of this Article III. Any unit or intermediate
+drainage system facility shall be connected to the intermediate or major drainage system facility
+constructed pursuant to this Article II, and all owners or developers except for the owner or
+developer constructing a drainage system facility pursuant to this Article II, shall be responsible
+for payment of the fees required by Section 17.20.380.
+
+SECTION IV. Article V of Chapter 17.20 of the Copperton Metro Township
+
+Code of Ordinances, is repealed and replaced as follows:
+
+Article V. - Retention Plans
+
+17.20.530 - Generally.
+
+The provisions of this article apply where the owner or developer elects to control all or a portion
+
+of excess waters within a development site, development or subdivision by a permanent or
+
+temporary retention system.
+
+17.20.540 - Plans and specifications.
+
+A, Prior to the issuance of any building permit associated with a subdivision or development
+plan, or in the case of a single lot development, a single building permit, the owner or
+developer shall:
+
+_oL At owner or developer’s expense, have prepared by a professional engineer licensed
+in the state of Utah, detailed plans and specifications for the construction and installation
+of all unit or subdivision system drainage facilities and retention system for the control of
+drainage of excess water within the development, or the part thereof for which a building
+permit has been requested, and the carriage of such water to a retention area. The plans
+and specifications shall include provisions for overflow of stormwaters in excess of a ten-
+year frequency flood.
+
+pA In addition to the above required plans and specifications, before final approval
+and the issuance of a building permit, the developer or owner shall provide to
+Metro Township GIS data corresponding to the approved plans. Any changes
+during construction will require additional GIS data to be submitted with the final
+approved as-built drawings. All GIS data shall be submitted in the following
+13
+
+format:
+| i. All GIS data shall be submitted in conformance with Metro Township Policy,
+“Standards for Geographic Information System” and the “Copperton Metro
+Township Public Works Engineering GIS Standards,” as approved by the
+GIS Steering Committee and on file with Copperton Metro Township
+Engineering. The Metro Township reserves the right to reject any GIS data
+that is provided and is not in compliance with the above standards.
+
+i. This shall be done at the developer or owner’s expense. If a developer or
+owner does not provide the required GIS data, the Metro Township may
+complete the work in the developer or owner’s behalf and the developer or
+owner shall pay to the Metro Township the cost of completing the work at
+the hourly rate approved by the Metro Township Council for such work. If
+developer or owner fails to pay for such work, the Metro Township may
+pursue legal action to recover these costs.
+
+ii, Developers with a cost as estimated by the public works department of ten
+thousand dollars ($10,000.00) or less may, prior to construction, petition
+the Council for an exemption from the GIS requirements of this Chapter.
+The decision of the Council shall be final.
+
+B. In lieu of completion of the drainage system prior to final approval of the subdivision or
+development plan by the metro township, the developer or owner shall provide a
+performance bond guaranteeing actual construction and installation of the facilities
+pursuant to a schedule approved by the division director, and must do so before recording
+the plat. A developer or owner opting to complete drainage system before recording the plat
+shall be required by Division to post an improvement warranty period assurance of ten
+percent, or of the maximum allowed by state law. The Division shall not accept said facilities
+nor recommend the release of the final ten percent of the bond or the improvement warranty
+period assurance until updated as-built drawing GIS data is received by Metro Township
+and all other requirements are met.
+
+17.20.550 - Rules and Regulations Adopted.
+
+The Division may adopt reasonable rules and regulations for design requirements, review and
+
+approval of retention plans for developments or subdivisions consisting of more than a single lot.
+
+Such rules and regulations may address consolidation of, location of, access to, and maintenance
+
+of retention facilities.
+
+17.20.560 - Metro Township Review.
+
+The plans and specifications shall be reviewed by the division to determine that the retention system
+
+as designed will control the excess waters determined under the engineering studies conducted
+
+pursuant to Section 17.20.060 and that provision is made for overflow in excess of a ten-year
+frequency flood. If the retention system as designed will control the excess waters within the
+14
+
+subdivision or development, the division shall approve the system. If the system will not control the
+| excess waters, the division will specify in writing the deficiencies of the system as designed.
+17.20.570 - Building Permit Approval.
+Upon completion of such review and approval by the division, the subdivision or development
+plan or building permit for construction of the unit or subdivision drainage system facilities shall
+be given final approval.
+17.20.580 - Temporary Retention System.
+In the event the retention system is intended to be temporary, the property that is drained by the
+drainage facilities to be connected shall be subject to the fees charged in accordance with the
+provisions of Sections 17.20.260 or 17.20.380 of this chapter.
+17.20.590 — Responsibility for Property and Facilities.
+The metro township shall not own or have any responsibility or maintenance obligation for
+drainage facilities or retention systems constructed pursuant to this Article V, unless such facilities
+or systems are conveyed or dedicated to the metro township and the metro township accepts such
+conveyance or dedication and unless the metro township agrees, in writing or by ordinance, to
+undertake such responsibility or maintenance obligation. Upon completion of construction of a
+retention system constructed in accordance with this chapter, and conveyance or dedication thereof
+to the metro township, the metro township shall accept such conveyance or dedication.
+SECTION V. Article VI of Chapter 17.20 of the Copperton Metro Township
+Code of Ordinances, is repealed and replaced as follows:
+Article VI. — Administration
+17.20.610 — Administrative Responsibility.
+The planning and development services division shall be responsible for the administration and
+regulations provided for in this chapter.
+SECTION VI. Section 18.24.070 of the Copperton Metro Township Code of
+Ordinances, is repealed and replaced as follows:
+18.24.070 - Street lighting.
+15
+
+Except as provided for in subsection E below, adequate street lighting shall be provided
+for the safety and welfare of residents and businesses located in Copperton Metro T ownship
+| through the installation of a street lighting system as part of subdivision development.
+
+All street lights intended to illuminate the public street shall be installed in accordance
+with the "Standard Specifications for Street Light Construction" as established and approved by
+the public works operations director or designee. Street light systems shall be designated on
+approved plats and installed accordingly.-
+
+A, For all residential, multi-family residential, planned unit development, commercial, and
+industrial subdivision developments approved after the effective date of this ordinance,
+the subdivider shall install and pay the installation costs for street lights as shown on the
+approved subdivision plat or site plan and to post a bond, pursuant to section 18.24.170,
+guaranteeing proper installation. The subdivider must also provide a dedicated public
+utility easement from each respective underground power source to each streetlight.
+
+B. Items to be approved pursuant to the requirements of the "Standard Specifications for
+Street Light Construction" include:
+
+1. Appropriate distance or spacing;
+
+2. Alternating sides of street, when applicable;
+
+3. Appropriate illumination at intersections;
+
+4. Location upon the property,
+
+J. Street light type and decorative style based on street classification;
+
+6. Height based on location;
+
+7. Height based on location;
+
+8. Installation methods and requirements; and
+9. Illumination intensity, electrical specifications, and code requirements as
+determined by the "Standard Specifications for Street Light Construction".
+
+C. The subdivider or designee shall submit completed as-built drawings and the GIS data
+corresponding to the as-built drawings, as required by Section 18.24. to the public works
+operations director or designee within thirty days of the completion of the installation of a
+street light system within a subdivision development.
+
+D. The public works operations director or designee shall have the authority:
+
+1. To enforce this section and to ensure that street light installation is completed in
+compliance with all of its requirements; and
+
+2. To vary the standards referenced in this section and to approve alternative street
+light designs and locations when adverse topography, roadway geometrics and
+design, the presence of natural vegetation, or any other adverse conditions exist
+which would justify such variations and alternatives without being detrimental to
+the public safety or welfare.
+
+E. The planning commission shall have the authority to waive or modify the
+
+16
+
+requirement for street light installation in subdivisions upon finding that:
+d. The subdivision is located in an environmentally sensitive area, such as the
+Foothills and Canyons Overlay Zone; or
+2. The subdivision will result in three or ewer new lots; or
+3. The subdivision will not result in any other public street improvements.
+SECTION VII. Chapter 18.24.150 of Title 18 of the Copperton Metro Township Code of
+Ordinances, 2001, is amended to read as follows:
+18.24.150-— Construction of Improvements.
+
+A, Twenty-four hours prior to construction of any required improvements, the metro
+township planning and development services division shall be notified so that proper
+inspection may be provided and so that it may be determined whether or not proper
+authorization and/or required permits for construction have been obtained.
+
+B. As-built plans, profile drawings, and corresponding GIS data shall be furnished to the
+planning and development services division of all street improvements, storm drain, sanitary
+sewer, and water systems upon completion. The metro township shall retain the improvement
+bond until such plans have been submitted.
+
+C. Extreme care should be exercised on the part of the subdivider, the contractor and all
+other associated agencies for the protection and maintenance of all existing or newly
+placed improvements or facilities within the roadway sections during development.,
+
+SECTION VIII. Chapter 18.24.170 of Title 18 of the Copperton Metro Township Code of
+
+Ordinances, 2001, is amended to read as follows:
+
+18.24.170- Performance bonds.
+
+A. In lieu of actual completion of the improvements listed in this chapter, subdividers must file
+with the metro township a surety or cash bond, an escrow agreement, or a letter of credit in an
+amount specified by the mayor or mayor's designee to assure actual construction of such
+improvements within a two-year period. A percentage, equal to the maximum amount allowed by
+state law, of the bond amount for public improvements such as curb, gutter, sidewalk, road
+surfacing, flood control and fire hydrants shall extend for a one-year period beyond the date the
+improvements are completed to guarantee replacement of defective public improvements. A
+percentage, equal to the maximum amount allowed by state law, of the bond amount for live plant
+materials in common areas shall extend for the maximum period allowed by state law beyond the
+date of planting to guarantee replacement of diseased or dead plants. The bond or agreement shall
+also secure all lot improvements on individual lots on the subdivision which are required in this
+chapter.
+
+17
+
+B. If the mayor or mayor's designee determines that the required improvements should be
+completed in a specified sequence and/or in less than this period in order to protect the
+health, safety and welfare of the metro township or its residents from traffic, flood, drainage or
+other hazards, it may require in approving the final subdivision plat that the improvements,
+including required landscaping be installed in a specified sequence and period which may be less
+than this period and shall incorporate such requirements in the bond.
+
+C. Inspections shall be made within five days from the date of the request. If inspection shows
+that county standards and specifications have been met in the completion of such
+improvements, the bond shall be released by the mayor or mayor's designee within seven
+days from the time of inspection and filing of the as-built plan, any corresponding GIS data
+(as required), and profile drawings. If the bonds are not released, refusal to release and the reasons
+therefor shall be given the subdivider in writing within seven days from the time of the inspection.
+
+D. Such bonds shall be processed and released in accordance with the procedures set forth in
+Chapter 3.56 of this code.
+
+18

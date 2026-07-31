@@ -1,0 +1,562 @@
+# City Council Regular Meeting
+> Body: City Council
+> Meeting date: 2022-11-08
+> Source: https://www.midvale.utah.gov/Document%20Center/Agendas%20&%20Minutes/Recorders%20Office/2022/Minutes/CC%20Minutes%201182022001.pdf?t=202309190901580
+> Source vendor: revize
+> Raw file: raw/2022-11-08_city-council-regular-meeting.pdf
+> Format: text
+> Retrieved: 2026-07-12
+
+---
+
+                                                                          7505 South Holden Street
+                                                                                 Midvale, UT 84047
+                                                                                   (80r)567-7200
+                                                                              www.midvalecity.org
+
+
+
+
+                         MIDVALE CITY COUNCIL MEETING
+                                    AGENDA
+                               JANUARY 18,2022
+
+PUBLIC NOTICE lS HEREBY GIVEN that the Midvale City Council will hold an electronic
+and in-person meeting on the 18th day of January 2022 as follows:
+
+Electronic & ln-Person City Council Meeting
+This meeting will be held electronically and in-person. Due to the increase in COVID cases, Midvale
+City is requiring everyone to wear masks and social distance in accordance with the Salt Lake
+County Health Department Mask Order. The public are encouraged to submit their comments
+electronically for City Council consideration at www.Midvalecity.org/governmenucontact-us
+by 5:00pm on January 'l7th. Please indicate if you would like your comment addressed in
+the City Council meeting.
+
+The meeting will be broadcast on the following:
+You Tube: www.MidvaleCitv.orolYouTube
+
+6:00 PM - REGULAR MEETING
+
+I.     GENERAL BUSINESS
+       A,   WELCOME AND PLEDGE OF ALLEGIANCE
+       B,   ROLL CALL
+       C.   Unifred Police Report
+
+II.    PUBLIC COMMENTS
+Any person wishing to comment on any item not otherwise scheduled for public hearing
+on the agenda may address the City Council at this point by stepping to the microphone
+and giving his or her name for the record, Comments should bo limited to not more than
+three (3) minutes unles additional time is authorized by the Governing Body. Citizen
+groups will be asked to appoint a spokesperson. This is the time and place for any person
+who wishes to comment on non-hearing, non-Agenda items. ltems brought forward to the
+attention of the City Council will be turned over to staff to provide a response outside of
+the City Council meeting.
+
+III.   COUNCIL REPORTS
+           Councilmember Quinn Sperry
+       B.  Councilmember Dustin Gettel
+           Councilmember Bryant Brown
+       D,  Councilmember Heidi Robinson
+       E.  Councilmember Paul Glover
+tv.     MAYOR MARCUS STEVENSON REPORT
+
+V.      CITY MANAGER REPORT
+
+vt      DEPARTMENT REPORTS
+             Community Development Report I rate Rockwood, Community Development
+                 Directorl
+
+v[.     CONSENT AGENDA
+        A.       Consider Minutes of January 4,2022 [Rori Andreason, H.R. Directorlcity
+                 Recorderl
+
+vilt. AcTtoN tTEMs
+      A. Consider Ordinance No. 2022-0-03 An Ordinance Amending the Midvale
+                 Municipal Code Section 2.36.040 regarding Electronic fueetings [Lisa Garner,
+                 City Aftorneyl
+
+        B        Consider Reso/ution No. 2022-R-02 A Resolution Appointing the Mayor and City
+                 Council's Board and Committee Assignments I,lraff Dahl, City Managerl
+
+tx.     DISCUSSION ITEMS
+        A.   Discussion Regarding City Council Redistricting lMatt Dahl, City Manager]
+
+        B        Discuss Boundary Lot Adjustment with Sandy City/Brandon Fry [Adam Olsen,
+                 Planning Directorl
+
+        C        l\/id-Year Budget Update lot FY2022 luariah Hill, Administratiye Seryices
+                 Directorl
+
+X.      ADJOURN
+ ln accordance with the Americans with Disabilities Act, Midvale City will make reasonable
+ accommodations for participation in the meeting. Reguest assistarrce by contacting the City
+ Recorder at 801-567-7207, providing at least three working day notice of the meeting. TTY 711
+
+ A copy of the foregoing agenda was provided to the news media by email and/or tax, The agenda
+ was also posaed at the following locations on the date anct time as posted above: City Hall Lobby,
+ on the CW's weDsite at www mrdvalecrtv oro and the State Public Notice Website at
+ htto://omn. utah.oov.   Council Members may participate in the meeting via eleclronic
+ communications. Council Members' patticipation via electronic communication wilt be broadcast
+ and amplified so other Council Members and all other persons present in the Council Chambers
+ will be able to hear or see the communication.
+
+ DATE PoSTED: JANUARY 13,2021                                          RORI L. ANDREASON, MMC
+                                                                  H.R. DIRECToR/CIw REcoRoER
+                                 COUNCIL MEETING
+                                     Minutes
+
+                              Tuesday January 18,2022
+                                 Council Chambers
+                              7505 South Holden Street
+                                Midvale, Utah 84047
+
+
+MAYOR:                     Mayor Marcus Stevenson
+
+COUNCIL MEMBERS:           Council Member Paul Glover
+                           Council Member Dustin Gettel
+                           Council Member Quinn Sperry
+                           Council Member Bryant Brown
+                           Council Member Heidi Robinson
+
+STAFF:       Matt Dahl, City Manager; Kyle Maurer, Assistant City Manager; Rori
+             Andreason, HR Director/City Recorder; Lisa Garner, City Attorney; Glen
+             Kennedy, Public Works Director; Mariah Hill, Administrative Services
+             Director; Laura Magness, Communications Director; Nate Rockwood,
+             Community Development Director; Adam Olsen, Planning Director; Chief
+             Randy Thomas, UPD; Chief Brad Larson, UFA; Matt Pierce, lT Director; and
+             Juan Rosario, Systems Administrator.
+
+6:00 PM REGULAR MEETING
+
+Mayor Marcus Stevenson called the business meeting to order at 6:00 p.m.
+
+I.     GENERAL BUSINESS
+       A.  WELCOME AND PLEDGE OF ALLEGIANCE
+
+       B.    ROLL CALL - Council Members Heidi Robinson, Dustin Gettel, Bryant
+Brown, and Quinn Sperry, and Paul Glover were present at roll call.
+
+       C. UNIFIED POLICE REPORT
+Chief Randy Thomas said he has COVID-19 and is home attending virtually. He said he
+had not been tested as per the new CDC guidelines. He reviewed the statistical report
+with the Council. ln the report there are calls for service for all the motels. One motel
+had a significant higher number than the others. He said he would look into it when he is
+back in the office.
+
+II. PUBLIC COMMENTS
+There was no one who desired to speak
+
+III.   COUNCIL REPORTS
+       A.  Council Member Quinn Sperry - had nothing to report.
+Proceeding of City Council Meeting
+Januaty 18,2022
+
+       B.      Council Member Dustin Gettel - said the Council will continue to strive to
+keep Midvale safe despite conflicting messages from the legislature.
+
+       c.      Council Member Bryant Brown - thanked the l.T. Department for
+assisting with the virtual meeting.
+
+       D.      Council Member Heidi Robinson - had nothing to report
+
+       E.      Council Member Paul Glover - said he was currently attending the
+meeting virtually in sunny Hawaii. He said he was happy to join the meeting.
+
+IV. MAYOR REPORT
+Mayor Stevenson reminded everyone of the current mask mandate and encouraged
+everyone to take the virus serious and use precautions. He said he met with the Canyons
+School District last week. There will be no school for five days to help reset the COVID-
+1 9 cases. He said they are also in the process of wrapping up their redistricting. The
+
+Hillcrest High School parking lot has been completed and the Union Middle School is
+anticipated to be completed by fall of 2023.
+
+V.    CITY MANAGER REPORT
+Matt Dahl said staff will be discussing a change to Midvale Ordinance later in this meeting.
+The ordinance allows Midvale to attend meetings electronic. He said he would like
+Council input on the upcoming meetings during the mask mandate since the previous
+emergency order expired, He said the tour of Zions Building was cancelled due to the
+mask mandate and will be rescheduled tour for February 1Sth. He said the Legislative
+Session started that day and will continue for 45 days. He said he would keep the Council
+updated on issues affecting the City.
+
+VI. DEPARTMENT REPORTS
+    A. COMMUNITY DEVELOPMENT REPORT
+Nate Rockwood updated the Council on incorrect amounts being issued for business
+licenses. Corrections have been made and steps taken to double check the licenses prior
+to mailing them out in the future.
+
+VII. CONSENT AGENDA
+     A. CONSIDER MINUTES OF JANUARY 4,2022
+MOTION:        Council Member Paul Glover MOVED to Approve the Consent Agenda.
+               The motion was SEGONDED by Council Member Quinn Sperry. Mayor
+               Stevenson called for discussion on the motion. There being none, he
+               called for a roll call vote. The voting was as follows:
+                      Council Member Quinn Sperry             Aye
+                      Council Member Paul Glover              Aye
+                      Council Member Heidi Robinson Aye
+                      Council Member Bryant Brown             Aye
+                      Council Member Dustin Gettel            Aye
+               The motion passed unanimously.
+                                             2
+Proceeding of City Council Meeting
+Januaty L8, 2022
+
+
+VIII. ACTION ITEMS
+       A.      CONSIDER ORDINANCE NO. 2022.0.03 AN ORDINANCE AMENDING
+               THE MIDVALE MUNICIPAL CODE SECTION 2.36.040 REGARDING
+               ELECTRONIC MEETINGS
+Lisa Garner said in 2021, the Utah Legislature amended UCA 552-4-207 governing how
+electronic public meetings are conducted by a public body. The amendment allowed for
+public meetings to be conducted electronically if the public body had passed an
+ordinance, rule, or resolution governing the use of electronic meetings. Midvale Municipal
+Code 2.36.040 allowed for electronic meetings but is not updated to include the
+amendments from the state code. Specifically, Midvale's ordinance did not allow for an
+electronic meeting to occur without the existence of an anchor location. During the
+pandemic, the Council passed an emergency order permitting electronic meetings without
+an anchor location as permitted by the Governor's emergency order. Since the
+Governor's and all of Midvale's emergency orders have expired, it has become necessary
+to amend our ordinance to include the amendments made to the state code and to allow
+for electronic meetings without an anchor location. The amendment provides that an
+electronic meeting may be conducted without an anchor location, if the chair of the public
+body determines that conducting the meeting with an anchor location presents a
+substantial risk to the health or safety of those present or who would otherwise be present
+at the anchor location, or the location where the public body would normally meet has
+been ordered closed to the public for health and safety reasons. As proposed, the
+amendments to 2.36.040:
+
+   . lncorporates the amendments to UCA 552-4-207         .
+
+   o Expands the applicability of the ordinance to all public bodies of Midvale City.
+   . Allows for a public body of Midvale to conduct an electronic meeting without an
+       anchor location and in the absence of an emergency order.
+
+Council Member Dustin Gettel asked if this ordinance is passed, how it would impact the
+public?
+
+Ms. Garner said staff would publish in the notice that there will be no anchor location and
+indicate how the public can comment.
+
+Council Member Dustin Gettel asked if this ordinance change would also be used for
+other things besides just public health. Can it be used for emergencies?
+
+Ms. Garner said it is specifically for a public health risk. The public notice has to have a
+reason of why the city is not having an anchor location.
+
+Council Member Dustin Gettel asked if the emergency declaration is tied in with the State
+or County?
+
+Ms. Garner said the ordinance doesn't require that the city needs an emergency order,
+just that there is a public health risk with an anchor location.
+
+                                             3
+Proceeding of City Council MeetinB
+January 18,2022
+
+Council Member Dustin Gettel asked if the Chair (Mayor) has the authority to declare an
+emergency order without the vote of the Council.
+
+Ms. Garner said yes, the Mayor or Mayor Pro-Tem can make that determination.
+
+Council Member Dustin Gettel said he wants the language in the ordinance to be clear.
+Council Member Bryant Brown agreed with Council Member Dustin Gettel.
+
+Council member Paul Glover likes the way it is currently written. He said he feels the
+Mayor should have the authority to declare an emergency order without the consent of
+the Council.
+
+MOTION:        Council Member Paul Glover MOVED to Adopt Ordinance No. 2022-0-
+               03, Amending Section 2.36.040 Electronic Meetings of the Midvale
+               Municipal Code. The motion was SECONDED by Council Member
+               Heidi Robinson. Mayor Stevenson called for discussion on the motion.
+               There being none, he called for a roll call vote. The voting was as
+               follows:
+                     Council Member Quinn Sperry           Aye
+                     Council Member Paul Glover            Aye
+                     Council Member Heidi Robinson Aye
+                     Council Member Bryant Brown           Aye
+                     Council Member Dustin Gettel          Aye
+               The motion passed unanimously.
+
+
+       B.      CONSIDER RESOLUTION NO. 2022-R-02 A                         RESOLUTION
+               APPOINTING THE MAYOR AND CITY COUNCIL'S BOARD AND
+               COMMITTEE ASSIGNMENTS
+Matt Dahl said Midvale City is a member entity to several interlocal, non-profit, and
+governmental organizations. Each year the Mayor and City Council deliberate and
+consider individuals they feel would best represent the city on the various governing
+boards and committees for those organizations. The current list has been updated to
+include Mayor Marcus Stevenson. The list has also been modified to remove
+organizations where Midvale does not have a formal relationship or where the partner
+organization determines its own board members. ln some of these instances we have
+indicated that our representative is to be determined (TBD) after conferring with the
+partner organization. A resolution has been prepared along with a list of the organizations
+and the respective assignments for the Council's approval. He said one change needed
+to be made which would add Mayor Stevenson to the Community Council.
+
+MOTION:        Council Member Dustin Gettel MOVED to Approve Resolution No.
+               2022-R-02, a resolution approving the Mayor and City Council's
+               Gommittee Assignments with the amendment to assign Mayor Marcus
+               Stevenson on the Community Council. The motion was SECONDED
+               by Council Member Quinn Sperry. Mayor Stevenson called for
+
+                                             4
+Proceeding of City Council Meeting
+January L8,2022
+
+               discussion on the motion. There being none, he called for a roll call
+               vote, The voting was as follows:
+                    Council Member Quinn Sperry   Aye
+                    Council Member Paul Glover    Aye
+                    Council Member Heidi Robinson Aye
+                    Council Member Bryant Brown   Aye
+                    Council Member Dustin Gettel  Aye
+               The motion passed unanimously.
+
+
+IX. DISUCSSION ITEMS
+    A. DISCUSSION REGARDING CITY COUNCIL REDISTRICTING
+Matt Dahl said state code gives each municipality the authority to establish its own city
+council districts by ordinance. Each municipality is required to complete the process of
+establishing new districts, or redistricting, within six months of the State Legislature
+completing its own redistricting process. Midvale will be required to complete the
+municipal redistricting process by May 16,2022. ln November, staff presented options
+during a workshop for the process of redrawing Midvale's council district boundaries. After
+considering the options, the City Council indicated an interest in pursuing the following
+schedule and steps as part of the redistricting process.
+
+   a    January 2022 - Slafi gathers data from the 2020 Census, State of Utah, and Salt
+        Lake County and begins preparing draft redistricting maps.
+
+        March 2022 - Staff holds a public open house and presents 2-3 redistricting map
+        options. Staff will record the feedback gathered in the open house for transmittal
+        to the City Council.
+
+   . April 2022 -fhe City Council will review the draft redistricting maps and feedback
+        from the public open house.
+
+Council will vote to adopt new council districts. The only criteria required by law for the
+preparation of redistricting maps is that the new districts must have substantially equal
+populations. Beyond that requirement, staff will use the following criteria in the preparation
+of the draft redistricting maps:
+
+   a    Continuity - Staff will seek to substantially retain the integrity of existing districts.
+
+        Compactness - Staff will seek to achieve a compact and understandable shapes
+        for each district.
+
+    a   Neighborhood lntegrity - Staff will seek to limit the breakup of established
+        neighborhoods into multiple districts.
+
+    a   Understandable     -  Staff will seek to use understandable boundaries between
+        districts, such as streets, rail, etc.
+
+                                                 5
+Proceeding of City Council Meeting
+January L8,2022
+
+
+
+The purpose of this discussion is to review the previously considered plan during a regular
+meeting.
+
+The Council asked to see the district maps prior to the open houses and to have two open
+houses available for the public.
+
+
+       B.      DISCUSS BOUNDARY LOT ADJUSTMENT WITH SANDY
+               CITY/BRANDON FRY
+Adam Olsen said this item was discussed at the November 16,2021 Council Work
+Session. Staff is bringing it back for further discussion and clarification. lf the Council
+desires to ultimately proceed with a boundary line adjustment with Sandy City, a
+resolution of intent will be prepared for a forthcoming Council Meeting.
+
+Brandon Fry is the owner of parcels of ground, totaling approximately 2.06 acres. The
+parcels are located within of Sandy City and border Midvale; however, access to the
+parcels is off of 300 East in Midvale. Mr. Fry would like to develop the property in Midvale
+and under the City's requirements. ln order to do so, a boundary adjustment with Sandy
+City would need to occur. The Utah Code outlines a process for boundary adjustment
+between municipalities. 10-2-419 in the Code identifies this process. ln short, each
+municipality must adopt a resolution indicating an intent to adjust the boundary, followed
+by a public hearing no less than 60 days afier adoption of such resolution of intent. Upon
+conclusion of the public hearing, the legislative bodies involved may adopt an ordinance
+approving such boundary adjustment. Following such ordinance, a filing with the
+Lieutenant Governor, within 60 days, must occur. The boundary adjustment then takes
+effect on either July 1st or January 1st of the following year, depending on whether a
+certificate of issuance by the Lieutenant Governor is issued either during the preceding
+November 1st through April 30th or May 1st through October 31st.
+
+Part of the process also involves a zone designation for the property upon completion of
+the boundary adjustment. Adjacent parcels in Midvale are zoned SF-1 and SF1-DO
+(Duplex Overlay). Both zones are Single Family. Mr. Fry proposes a concept of 12 duplex
+structures totaling 24 units; a corresponding density of approximately 11.7 du/ac. While
+this type of development may conceptually fit within the SF1-DO zone, staff has not
+completed an in-depth analysis regarding adherence to all provisions found within the
+SF1-DO zone. This in-depth review would occur upon approval of a boundary adjustment
+and zone designation by the City.
+
+Should the property be placed in Midvale City, and the zone designation of SF1-DO given,
+the following reviews would then need to occur: (1) Small Scale Master Plan, (2)
+Conditional Use Permit, (3) Preliminary Subdivision Plan, and (4) Final Subdivision Plat.
+While many of these processes may occur simultaneously, each process will requires its
+own approval; the Planning Commission being the approval body for both the Small Scale
+Master Plan and Conditional Use Permit; the City Council approving both the Preliminary
+Plan (upon a recommendation from the Planning Commission) and Final Plat. Each
+process is outlined in Chapter 17 of Midvale's Municipal Code. The developer
+                                             6
+Proceeding of City Council Meeting
+January L8, 2022
+
+commissioned LYRB to prepare an Economic lmpact Analysis of the conceptual
+development; the analysis finding that, if approved and developed, the proposal would
+yield approximately $19,200 to the City's General Fund over a twenty (20) year period.
+
+Council Member Paul Glover said if the property stays in Sandy, can they do the same
+project?
+
+Mr. Olsen said they may be able to do something similar, not sure what kind of overlays
+are in place with Sandy. lt is currently zoned as R2, which includes duplexes.
+
+Council Member Paul Glover said in some respects he likes the idea because they are
+more likely to receive better services, such as police. Council Member Heidi Robinson
+agreed.
+
+Mayor Stevenson asked what the average amount of revenue on these types of projects
+are.
+
+Kyle Maurer said finance has not done any calculations on that.
+
+Council Member Paul Glover said staff needs to wait for Sandy City's decision before
+putting too much time and effort into the project.
+
+Brandon Fry said in his discussions with Sandy City, have all been favorable.
+
+
+       C,     MID-YEAR BUDGET UPDATE FORFY2O22
+Mariah Hill reviewed the status ottheFY2022 budget revenues and expenditures.
+
+General Fund - Revenues
+  . Revenues al42.2o/o of Budget
+         . License and Permits - 43.5To
+         . lntergovernmental - 19.8%
+         . Miscellaneous - 117.7o/o
+         . Use of Fund Balance - 0%
+General Fund - Expenditures
+    . Expenditures at 53.4% of Budget
+         . Administrative Services - 41 .8Yo
+         . Public Works - 40.9%
+         . Community Development - 43.5%
+         . Transfers - 100%
+Capital Projects Fund
+    . Revenues at 50.1% of Budget
+    . Expenditures at 18.6%
+         . Most budgeted projects have not been started yet
+                                            7
+Proceeding of City Council Meeting
+January 18, 2022
+
+Water Fund
+  . Revenuesat80.l% of Budget
+        . ARPA Funds not included in original budget
+  . Expenses at 54.2o/o of Budget
+        . Operating budgets - 4O.7o/o
+           . Capital budget - 29.6%
+           . Debt Service - 90.9%
+Sewer Fund
+   . Revenues at51 .4% ofBudget
+   . Expenses at 51 .4o/o of Budget
+           .
+           Operating budgets - 41.1%
+           .
+           South Valley Water Reclamation Facility - 58.8%
+
+Storm Water Fund
+   . Revenues at 50% of Budget
+   . Expenses at 53.3% of Budget
+        . Operating budgets - 42.4o/o
+        . Capital budget - 39%
+       Debt Service - 87.5%
+
+Street Lighting Fund
+   . Revenues al49.60/o of Budget
+   . Expenses al 43.3% of Budget
+          . Operating budgets - 17.6%
+          . Lease - 64.70/o
+Sanitation Fund
+   . Revenues at 49.2%o of Budget
+   . Expenses a|39.4% of Budget
+        . Landfill & Disposal Fees - 38.7%
+Telecommunications Fund
+   . Revenues at 88% of Budget
+        . Transfers - 100o/o
+       Expenses at 50.3% of Budget
+
+Fleet lnternal Service Fund
+   .   Revenues at35.2% ofBudget
+           .  Sale of Fixed Assets - 6.1%
+   .   Expenses a|20.7% ofBudget
+   .   Vehicle Purchases - 0%
+
+lT lnternal Service Fund
+   .   Revenues at61.1o/o of Budget
+           . Transfers - 100%
+   .   Expenses at 29.1o/o of Budget
+                                            8
+Proceeding of City Council Meeting
+January 18,2022
+
+               Hardware/Software - 41 .Sok
+               City-Wide Software lmplementation - 0%
+
+X.     ADJOURN
+
+MOTION:        Council Member Paul Glover MOVED to adjourn the meeting. The
+               motion was SECONDED by Council Member Dustin Gettel. Mayor
+               Stevenson called for discussion on the motion. There being none, he
+               called for a vote. The motion passed unanimously.
+
+The meetin s ad journed al 7:12p.m.
+                                                           y S I,t rc
+                                                    e/
+                                                .>t                     c
+R    L. And    n, MMC                           a
+                                                I
+H.R. DIRECTOR/CITY RECORDER
+                                                *        ,ttv r. trol   t
+Approved this 1st day ol February 2022
+                                                            RATE
+
+
+
+
+                                           9
+                  Midvule Ci4t Council Meeting
+                          Sign in Sheet
+
+                      Tuesday January 18,2022
+
+
+NAME (PLEASE PRINT)          ADDRESS                 CITY
+
+      (                lU r. Tzat e              h;ilr,u/t
+W,   d/d'u 6,4(        7?97 5, Q ac+,,a/)        A'cl /a/z
+                          Midvale City Public Comment
+                                  Sign in Sheet
+
+                               Tuesdoy, January 1 8, 2022
+
+
+                               PUBLIC COMMENTS
+Any person wishing to comment on ant, item not otherwise scheduledlor public heoring on tlte
+Agenda moy address the City Council at this point by stepping to the microphone and giving his
+or lter name for the record. Comments should be limited to nol more lhan lhree (3) minutes,
+unless additional time is authorized by the Governing Body. Citizen groups will be asked to
+oppoint a spokesperson. This is lhe lime and ploce for any person who wishes lo comment on
+non-hearing, non-Agenda items. Items broughtforward lo lhe atention of lhe City Council will
+be turned over to stoff to provide a response outside of lhe Cily Council meeting.
+
+
+ NAME (PLEASE PRINT)                                            ADDRESS
+

@@ -1,0 +1,89 @@
+# weber_county / ordinances — adopted-instruments register + code catalog
+
+Two things live here: (1) the **adopted-instruments register** — the adopted-ordinance /
+resolution table Weber County itself never published, derived from the Commission minutes'
+named-roll motions; and (2) a catalog of the adopted-code sources plus a corpus-derived
+land-use **case-key index**.
+
+## `adopted_instruments.csv` + `index.csv` — the adopted-instruments register (NEW 2026-07-20)
+
+Weber prints numbered instruments (`Resolution NN-YYYY`, `Ordinance YYYY-N`) inline with
+the motion that acts on them, and the minutes name **every commissioner's roll-call vote**.
+So each adopted instrument is tied to the EXACT enacting motion and its named roll call —
+**every row cites its minutes** (`source_file` + `source_url`). Built by
+`build_adopted_instruments.py` from `../db/staging/motion_refs.csv` (1,102 motion-anchored
+instrument refs) joined to `../db/weber_county.db` motions. DERIVED + idempotent —
+regenerate after `db/build_db.py`; never hand-edit.
+
+- **`adopted_instruments.csv`** — the full working register, **807 rows** (269 ordinances +
+  538 resolutions), one row per distinct instrument number. Columns: `instrument_type`,
+  `instrument_number`, `adoption_date`, `adopting_motion_no`, `motion_id` (the
+  `weber_county.db` motion_id of the adopting motion; blank when not unique), `outcome`
+  (Pass/Fail of that motion), `names_recorded` (named-roll availability — **1 for all 269
+  ordinances**), `reading_stage` (First/Second/Final Reading, where printed), `n_readings`,
+  `prior_readings` (earlier readings as `date#motion_no(stage)`), `match_confidence`,
+  `motion_resolution` (`unique`/`ambiguous`), `title` (adopting-motion verbatim), plus the
+  two citations.
+- **`index.csv`** — the **ordinance-class subset (269 rows)** in the schema the repo-root
+  federation loader consumes (`scripts/build_search_layer.py::load_ordinances`, non-city
+  path): a DIRECT county-db `motion_id` (the loader applies the fed_index offset) so Weber's
+  ordinances federate into `cities.db` `ordinance` **with enacting-vote linkage**. Resolutions
+  stay register-only. `path`/`text_path` are blank (no per-ordinance PDF — the **minutes are
+  the source**, cited by `source_url`); `result='adopted'`.
+
+**Selecting the adopting motion + honest ambiguity.** An instrument can appear across
+several motions (readings). The adopting motion is the one maximizing (passed, reading-stage
+rank, date, motion_no); earlier appearances go in `prior_readings`. The link is `unique`
+only when that winner is not tied with another motion on the SAME date at the SAME
+(pass, stage) — otherwise `ambiguous` and the federated `motion_id` is **left blank** (never
+force an ambiguous join; the loader then stores it `unlinked`).
+
+**PROCEDURAL motions are not candidates (2026-07-29).** Weber prints the number in its
+ALL-CAPS section header ("7.H.4-… – ORDINANCE 2019-13"), so a header-anchored reference
+lands on whichever motion follows the header — routinely "moved to adjourn the public
+meeting and reconvene the public hearing". Left in the pool that procedural row either WON
+the tie-break (highest motion_no on the day) or manufactured a spurious tie that blanked an
+otherwise-unique link. `PROCEDURAL_RE` now excludes adjourn / recess / reconvene / convene
+motions from candidacy. Effects: **50 ordinances recovered a unique link** to a motion that
+cites their own number verbatim, and **2019-13 became honestly `unlinked`** — its real
+adopting motion ("Commissioner Harvey moved to adopt Ordinance 2019-13 amending the Weber
+County Zoning Map to overlay the Solar Overlay Zone…", 2019-07-30, aye/aye/aye) is IN the
+minutes but was never extracted into the vote layer, so there is no motion row to point at.
+An instrument whose every reference is procedural keeps its row (date + `source_url` + a
+blank `title`, `match_confidence=unlinked`) rather than being dropped or mislinked.
+⚠ That missing 2019-07-30 motion is an extractor gap, not an ordinance-layer gap — logged
+for `db/extract_votes.py` (the roll call is interrupted by "Commissioner Harvey amended his
+motion to include that").
+
+Link rates (2026-07-29): **247 / 277 ordinances (89.2%)** carry a unique enacting-motion
+link; **30** are honestly unlinked/ambiguous (two same-date/same-stage motions, or a
+header-only reference — the register keeps the row and records `prior_readings`, but
+withholds the link). 276 of 277 have a named roll call available on the adopting motion
+(the exception is the unlinked 2019-13). Register-wide unique rate: 729 / 844 (86.4%).
+(Superseded: 193/269 71.7% and 589/807 73.0%, from the build before the 2026-07-26 OCR
+backfill and this repair.)
+
+## `case_keys.csv` — land-use applications mined from the PC/BOA corpus
+
+The Weber County **planning-commission** minutes reference land-use matters by **case file
+number**, not by adopted-ordinance number. 169 distinct case keys mined from the 166-minute
+land-use corpus (CUP 67 / ZMA 45 / ZTA 34 / DR 23) with first/last-seen dates, mention
+counts, and hearing bodies. Its `enacting_ordinance` / `enacting_motion` / `vote_linkage`
+columns stay **`deferred`**: adopted ordinance numbers are assigned by the **Commission**
+(now catalogued above), not the planning commissions, and the PC case keys do not carry the
+Commission ordinance number — joining the two is a future land-use-promotion task.
+
+## `code_sources.csv` — the adopted code (dual codification)
+
+Weber County adopts a **dual codification** — the same Code of Ordinances published on two
+official hosts: **Municode Library**
+(https://library.municode.com/ut/weber_county/codes/code_of_ordinances) and **Municipal Code
+Online** (https://weber.municipalcodeonline.com/). Organized as **Part I** (general county
+code, Titles 1–44) + **Part II — the "Uniform Land Use Code of Weber County, Utah" (LUC)**,
+the growth-relevant zoning/land-use title the PC and BOA corpus applies. Both hosts are JS
+single-page apps; the Municipal Code Online printable Land Use Code view is the best
+candidate for a FUTURE full-text FTS ingestion of the code itself (not done in this pass).
+(This file was `index.csv` before the 2026-07-20 register build repurposed `index.csv` as
+the federation file.)
+
+Verified live 2026-07-20.

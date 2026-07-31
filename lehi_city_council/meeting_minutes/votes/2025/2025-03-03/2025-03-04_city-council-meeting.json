@@ -1,0 +1,34 @@
+{
+ "date": "2025-03-04",
+ "title": "City Council",
+ "slug": "city-council-meeting",
+ "default_body": "Council",
+ "source": "meeting_minutes/minutes/2025/2025-03-03/2025-03-04_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Action Items 2.a. Arbor Day Proclamation Jessica Smith presented the Arbor Day Proclamation and mentioned the upcoming events, including “Mulch Madness”. The council reached consensus in support. Mayor Johnson signed",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "5:0 Pass",
+   "mover": "Paul Hancock",
+   "seconder": "Paige Albrecht",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Paul Hancock",
+    "Heather Newall",
+    "Michelle Stallings"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "date": "2024-02-28",
+    "year": "2024",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2024/PC03.27.2024/PC02.28.2024minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2024/2024-02-26/2024-02-28_planning-commission-meeting.md",
+    "present": [
+      "Mike Christensen",
+      "Carlos Santos Rivera",
+      "Bree Scheer",
+      "Brian Scott",
+      "Anaya Gayle",
+      "Aimee Burrows",
+      "Amy Barry",
+      "Rich Tuttle"
+    ],
+    "absent": [
+      "Landon Kraczek"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve",
+      "description": "approve",
+      "motion_type": "Design Review",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Anaya Gayle",
+      "result": "8:0 Approved (Final Action)",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Rich Tuttle",
+        "Amy Barry",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council approves this Text Amendment proposal",
+      "description": "recommend that the City Council approves this Text Amendment proposal",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Aimee Burrows",
+      "seconder": "Carlos Santos-Rivera",
+      "result": "Positive recommendation 8:0",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Rich Tuttle",
+        "Brian Scott",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Anaya Gayle",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approves this Planned Development application as recommended by staff",
+      "description": "approves this Planned Development application as recommended by staff",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Carlos Santos-Rivera",
+      "seconder": "Bree Scheer",
+      "result": "7:1 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Brian Scott",
+        "Bree Scheer",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Anaya Gayle"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve this Preliminary Subdivision application pursuant to the approved McClelland Enclave Planned Development",
+      "description": "approve this Preliminary Subdivision application pursuant to the approved McClelland Enclave Planned Development",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Carlos Santos-Rivera",
+      "seconder": "Rich Tuttle",
+      "result": "7:0 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Rich Tuttle",
+        "Brian Scott",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Anaya Gayle",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation to adopt this Zoning Map Amendment",
+      "description": "forward a positive recommendation to adopt this Zoning Map Amendment",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Bree Scheer",
+      "result": "Positive recommendation 7:1",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Brian Scott"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "Aimee Burrows",
+      "seconder": "Bree Scheer",
+      "result": "Positive recommendation 5:3",
+      "tally": {
+        "yes": 5,
+        "no": 3,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Rich Tuttle",
+        "Amy Barry",
+        "Carlos Santos Rivera"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation with the following changes to the request: 1) limiting an awning canopy sign to 3 square ft per linear foot of building face 75 Square ft maximum",
+      "description": "forward a positive recommendation with the following changes to the request: 1) limiting an awning canopy sign to 3 square ft per linear foot of building face 75 Square ft maximum",
+      "motion_type": "Appointment/Election",
+      "action_class": "recommendation",
+      "mover": "Anaya Gayle",
+      "seconder": "Carlos Santos-Rivera",
+      "result": "Positive recommendation 7:1",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Anaya Gayle",
+        "Brian Scott",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Rich Tuttle"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation to adopt the Text Amendment to City Council",
+      "description": "forward a positive recommendation to adopt the Text Amendment to City Council",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Bree Scheer",
+      "seconder": "Amy Barry",
+      "result": "Positive recommendation 8:0",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Rich Tuttle",
+        "Amy Barry",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Carlos Santos Rivera",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

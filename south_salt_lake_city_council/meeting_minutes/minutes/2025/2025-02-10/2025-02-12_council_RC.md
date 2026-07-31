@@ -1,0 +1,345 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02122025-465
+> Meeting date: 2025-02-12
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 02122025-465 | label: RDA RC Meeting 2025-02-12 | date: 2025-02-12 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02122025-465 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                             Wednesday February 12, 2025
+                                                            7:02 p.m.
+
+CITY OFFICES                                                220 East Morris Avenue
+                                                            South Salt Lake, Utah 84115
+
+PRESIDING:                                                  Council Chair Sharla Bynum
+
+CONDUCTING:                                                 Corey Thomas
+
+PLEDGE OF ALLEGIANCE :                                      Nick Mitchell
+
+SERGEANT AT ARMS:                                           Tristan Ramos
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Nick Mitchell,
+      Paul Sanchez (Zoom), Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      Sharla Bynum
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Jared Christense, Deputy Fire Chief
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+       Sharen Hauri, Neighborhoods Director
+       Jen Hill, Executive Assistant
+       Lisa Forrester, Justice Court Administrator
+       Caylin Dalton, Judicial Assistant
+       Alyssa Scott, Judicial Assistant
+       Trini Basett, Judicial Assistant
+       Jenny Diersen, Senior Redevelopment Agency Program Manager
+       Crystal Makin, Finance Director
+       Yasmin Abbyad, Emergency Management Coordinator
+       Tristan Ramos, Police Detective
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      January 8th, Regular Meeting
+      January 22nd, Work Meeting
+                                            1
+South Salt Lake – Regular Council Meeting                                       February 12, 2025
+
+
+       January 22nd, Regular Meeting
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: LeAnne Huff
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Abstain
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          None
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—February 26th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Corrine Padilla, shared her concerns over recent events in
+          her neighborhood regarding unauthorized installation of broadband infrastructure.
+          She has been in contact with the City, County, and the company Lumen’s project
+          manager regarding the lack of proper notice and the fact that there was no notice
+          that an easement they had been working from was never changed from a drainage
+          easement to a public utility easement.
+
+              Taylorsville resident, Cheneil Hill, shared comments and concerns over religious
+              organizations misusing their 501 (c)(3) status to commit crimes. She shared that her
+              hope was that cities would come together to address these issues through local
+              policies and Ordinances that ensure accountability.
+
+              South Salt Lake resident, Melissa Bowers, shared her concerns over the
+              neighborhood issues with Lumen.
+
+              South Salt Lake resident, Geoffrey Fattah, shared the same concerns over Lumen
+              and their work that left damage on his front lawn. His hope is that the City can
+              provide some coordination and hold the company accountable for any damage to
+              resident’s sprinkler systems.
+
+              Granite Library manager, Kim Welch, informed the Council of some upcoming
+              events and activities at the local county library.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood thanked the residents who shared their concerns over the ongoing
+                                                 2
+South Salt Lake – Regular Council Meeting                                      February 12, 2025
+
+
+           issues with Lumen. She said that the City was able to get their inspectors out to the
+           site and shut it down and that they are continuing to work to gather all the
+           information and have pulled the permit.
+
+           She highlighted the significance of February as Black History Month and shared how
+           it's a time to pause, learn, and reflect on the incredible contributions made by black
+           individuals and people of color.
+
+           Earlier in February there was an event, “Curly Me: Change the World with Her” that
+           encourages young girls to pursue their dreams and career aspirations. There were
+           many professionals that were present to speak to the girl attendees and share their
+           experiences.
+
+           The Animal Shelter held an event organized by Evenings Arts who pampered the
+           shelter pets with grooming and other services.
+
+           There will be free cat adoptions at the City’s Animal Shelter through Valentine’s Day.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member deWolfe introduced himself as the newest Council Member and
+          shared his experience as a former Council Member. He also expressed his sympathy
+          for the Riverfront residents who have had the negative experience with Lumen. He
+          stated that he will work with the City to advocate for his Riverfront neighbors.
+
+           Council Member Williams expressed her sympathy for the affected Riverfront
+           residents and said that she will do her part to help in the issue.
+
+           Council Member Huff thanked the residents who shared their concerns.
+
+           Council Member Mitchell thanked the residents who shared their concerns. He also
+           shared his experience by attending a legislative session last week regarding HB267.
+           He also shared an update regarding his position on the public camping matter that
+           was voted on at the last Council Meeting. Since then, he went on a ride along with a
+           South Salt Lake officer and was able to see first-hand how the City’s Homeless
+           Resource Officers work with the homeless population. He shared that he would
+           change his vote to be in support of the matter, although it has since been approved.
+
+           Council Member Thomas thanked the residents who shared their concerns over the
+           issue with Lumen. She shared that they have the Council’s support and that they will
+           work to find a solution.
+
+
+       6. INFORMATION.
+
+               a. Civilian Review Board 4th Quarter Report
+                                               3
+South Salt Lake – Regular Council Meeting                                       February 12, 2025
+
+
+                      Civilian Review Board Chair, Joy Glad, reviewed the quarterly report with
+                      the Council.
+
+                      A copy of the presentation is attached and incorporated by this reference.
+
+Action Items
+Appointments by the Mayor
+
+   1. Tom Mills – Civilian Review Board Alternate Member
+      The Mayor informed the Council that the appointee was unable to attend the meeting.
+      The matter may be moved to another meeting.
+
+       A copy of Mr. Mills’ resume, which was provided to the Council at the Work Meeting, is
+       attached and incorporated by this reference.
+
+       Council Member Huff made a motion to move this item to a future meeting.
+
+MOTION: LeAnne Huff
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+deWolfe:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       None
+
+Unfinished Business
+
+   1. A Resolution of the South Salt Lake City Council Ratifying the Appointment of Mark
+      Flores to Serve as the Justice Court Judge.
+      Mayor Wood presented Mr. Flores to the Council. A copy of his resume was provided at
+      the Work Meeting. Additionally, Mr. Flores would undergo training to receive his Justice
+      Court Judge certification from the Administrative Office of the Courts (AOC) before
+      starting.
+
+       A copy of the Resolution is attached and incorporated by this reference.
+
+      Council Member Huff made a motion to approve the Resolution.
+MOTION: LeAnne Huff
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:          Yes
+Huff:           Yes
+Mitchell:       Yes
+                                                 4
+South Salt Lake – Regular Council Meeting                                     February 12, 2025
+
+
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+    2. An Ordinance of the South Salt Lake City Council Authorizing the Dissolution of the
+       Burton, Edison, Post Office Place, Upper Millcreek, Third East, Metro Center, Amended
+       South State, Madison, Third West, 2100 South and WesTech Engineering Project
+       Areas.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance
+
+
+MOTION: Clarissa Williams
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+    3. A Resolution of the South Salt Lake City Council Acknowledging Receipt of the
+       Independent Auditor’s Report Draft for Fiscal Year 2023-24 and that Notice be
+       Published Pursuant to Section 10-6-152 of the Utah Code When the Final Report is
+       Completed.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Resolution.
+
+
+MOTION: Clarissa Williams
+SECOND: Ray deWolfe
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+                                               5
+South Salt Lake – Regular Council Meeting                                   February 12, 2025
+
+
+Sanchez:          Yes
+
+Public Hearing – 7:30 (Or As Soon Thereafter as Possible)
+To receive public input regarding proposed amendments to all 2024/2025 fund budgets.
+Finance Director, Crystal Makin, reviewed the proposed budget amendments with the City
+Council. This matter was discussed at length in the preceding Work Meeting.
+
+If approved, this would also include adopting an Ordinance to reflect the amended 2024-2025
+budget after the Public Hearing.
+
+The public hearing opened at 7:34 p.m.
+No public comment was made.
+The public hearing closed at 7:34 p.m.
+
+A copy of the proposed amendments and Ordinance is attached and incorporated by this
+reference.
+
+Council Member deWolfe made a motion to approve the Ordinance.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          No
+
+
+
+
+        Council Member Williams made a motion to Adjourn.
+
+
+MOTION: Clarissa Williams
+SECOND: LeAnne Huff
+
+Voice Vote:
+                                              6
+South Salt Lake – Regular Council Meeting                           February 12, 2025
+
+
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+deWolfe:       Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       None
+
+
+
+
+       The meeting adjourned at 7:43 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            7

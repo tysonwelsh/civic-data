@@ -1,0 +1,2750 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=177&doc_id=95917163-96eb-11ea-a2af-0050569183fa
+> Meeting date: 2020-02-27
+> Format: text
+
+Approved 4/2/2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, FEBRUARY 27, 2020 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PRESENT: Chairperson Andrew Adams, Vice Chairperson Craig Hawker, Planning
+Commissioners Mary Squire, John Van Hoff, Gary Ogden, and DeLaina Tonks
+
+ABSENT: Planning Commissioners Traci Gunderson, Kent Player, and Lisa Fowler
+
+STAFF PRESENT: Mike Barker, Christina Oliver, Jennifer Jastremsky, Spencer DuShane,
+Maryann Pickering, Russell Fox, Travis Van Eklenberg, Don Buckley, Amie Salazar, Brien
+Maxfield, Don Buckley, Alan Taylor, Muriel Xochimitl, Nicole Martin, April Abate-Adams,
+Paul Baker, Scott Adams, and Kristy Madrigal
+
+ALSO, PRESENT: Roll on File
+
+Business Meeting:
+
+Chairman Adams welcomed everyone in attendance and thanked all the Staff and volunteers who
+helped to support the meeting.
+
+1.     Public Hearing: Lone Peak Business Park CSD TA#2 – Text Amendment Request
+       (Legislative Action)
+       On the request of Price Realty Group to amend various sections of Chapter 9-18G (Lone
+       Peak Commercial Special District) of the Draper City Municipal Code. The project is
+       located near the northwest corner of 12300 South and Lone Peak Parkway and is zoned
+       CSD-LP (Lone Peak Commercial Special District). Staff contact: Maryann Pickering,
+       801-576-6391, maryann.pickering@draper.ut.us. Application: TEXTMAP-918-2019.
+
+Maryann Pickering, City Planner, provided an overview of the text amendment request which
+included the current standards and proposed changes. She noted that Staff would recommend
+moving the red archway further back from the traffic light to minimize any confusion it may
+cause.
+
+Steven Price, Applicant, presented the development plans for the park and indicated he felt the
+plans would be an asset to the City.
+
+Commissioner Hawker asked if plans were to only redo the exterior or existing buildings. [No
+audio] (9:20 – 10:00)
+
+Commissioner Hawker inquired about the reasoning behind the large signage that goes out into
+the street.
+
+Mr. Price explained that they were following new design features and elements and they wanted
+people to know the park was there and important. He also noted that the arch was grey not red.
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 2
+Commissioner Van Hoff indicated he would like section 9-18-050(A)(1)(I) to read “decorative
+masonry or decorative concrete”
+
+Mr. Price clarified that the buildings would be made of tilt concrete patterned with wood sections
+and decorative concrete. He then displayed some renderings of the designs.
+
+Commissioner Van Hoff asked what the 18-foot setback was for in section 9-18G-050(A)(21).
+
+Mr. Price responded that the 18-foot setback was on an existing building built back in 2006
+which became non-complaint when they built the road which they privately funded. He noted
+that the road was public and built to city standards.
+
+Commissioner Van Hoff pointed out that section 9-18G-050(B)(12) addressed the use of
+artificial turf, which he was unsure the City wanted to be used.
+
+Mr. Price expounded on the reasons they decided to consider artificial turf which included
+avoiding the overuse of water to keep grass green.
+
+Ms. Pickering explained that artificial turf was not permitted on interior streets but would be
+allowed along 12300 South.
+
+Mr. Price pointed out that currently turf is too expensive, but they would like to have the option
+when the prices for it come down.
+
+Commissioner Van Hoff stated he felt that public art should be approved by the City.
+
+Mr. Price replied that all the plans for art were on private property. Ms. Pickering noted that
+there were standards that prohibited certain types of display in the park.
+
+Commissioner Van Hoff identified that it required a larger radius for cars then it did for trucks.
+
+Mr. Price described the reasoning behind the sizes of roads which included creating a large
+enough space for trucks to turn at the same time. He noted that some streets and lanes were left
+smaller to prohibit large trucks from going down them.
+
+Commissioner Van Hoff asked if turning templates were ran for the truck radius. He expressed
+concern that the proposed radius was not large enough for truck entrances.
+
+Commissioner Van Hoff shared his concern that having information for ten different tenants
+would be too difficult for drivers to read without stopping to look at it.
+
+Mr. Price stated that some buildings will have between five and six tenants which will require
+additional signage.
+
+Commissioner Van Hoff asked if the City allowed signs to go over public rights-of-way.
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 3
+Mr. Price responded that the sign was over a private roadway.
+
+Chairman Adams opened the Public Hearing on this Item. No comments were offered, and the
+Public Hearing was closed.
+
+Commissioner Squire asked if artificial turf was allowed in other zones.
+
+Ms. Pickering answered that she did not know.
+
+Commissioner Squire expressed that she would also like to modify both masonry and concrete.
+
+Mike Barker, City Attorney, replied that it would be best to add the word decorative before each
+to clarify the interpretation.
+
+Vice Chairman Hawker asked if the sign over the right-of-way was on private property.
+
+Ms. Pickering responded that an easement was not necessary for the sign and pointed out the
+property lines.
+
+Motion: Commissioner Van Hoff motioned to forward a positive recommendation to City
+Council for the Lone Peak Business Park CSD zoning text amendment request,
+Application: TEXTMAP-918-2019, based on the findings listed and subject to the
+conditions listed in the Staff Report dated February 18, 2020 with the addition that section
+9-18G-050(A)(1)(I) reads “decorative masonry or decorative concrete.”
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Van Hoff, Squire, Hawker, Ogden, Tonks voted, “Aye”.
+
+2.     Public Hearing: BL Smith Rezone Request (Legislative Action)
+       On the request of Byron L and Sue Ann Smith, for approval of a zoning map amendment
+       to change the zoning map for 1.13 acres of land from RA1 (Residential Agricultural,
+       40,000 sq.ft. minimum) to RA2 (Residential Agricultural, 20,000 sq. ft. minimum) on the
+       subject property located approximately at 999 E 13200 S. Staff Contact: Travis Van
+       Ekelenburg, 801-576-6522, travis.vanekelenburg@draper.ut.us. Application:
+       TEXTMAP-934-2020.
+
+Travis Van Ekelenburg, City Planner, presented an overview of the rezone request. He noted that
+the general plan supported the land use designation and that changing the zoning would not be
+unfavorable to the area.
+
+Chairman Adams opened the Public Hearing on the Item. No comments were offered, and the
+Public Hearing was closed.
+
+
+
+
+                                                3
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 4
+Motion: Commissioner Ogden moved to forward a positive recommendation to City
+Council for the BL Smith zoning map amendment as requested by Byron and Sue Ann
+Smith from RA1 to RA2, application TEXTMAP-934-2020, based on the findings listed in
+the Staff Report dated February 11, 2020.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Van Hoff, Squire, Hawker, Ogden, Tonks voted, “Aye”.
+
+3.     Public Hearing: Offices on 7th Land Use Map Amendment, Zoning Map
+       Amendment, and Development Agreement (Legislative Action)
+       On the request of Keaton Morton, on the properties at 681 East Pioneer Road and 12388
+       South 700 East, to amend the land use designation from Residential Medium Density to
+       Neighborhood Commercial, to change the zoning designation from RA2 (Residential
+       Agricultural, 20,000 square foot lot minimum) to CN (Neighborhood Commercial) and
+       obtain a development agreement. The properties equal 0.99 acres. Staff contact: Jennifer
+       Jastremsky, 801-576-6328, Jennifer.jastremsky@draper.ut.us. Applications: TEXTMAP-
+       770-2019, TEXTMAP-771-2019, DA-938-2020.
+
+Jennifer Jastremsky, Senior Planner, introduced the development agreement request. She noted
+that the agreement includes a a concept site plan, so it has not gone through City review process
+to verify compliance with City code.
+
+Chairman Adams asked if they could legally prohibit Sober Living in these types of places. It
+was indicated that they could only be restricted in residential zones and this would be in a
+commercial zone.
+
+Dave Morton, Applicant, explained why they felt the proposed plan would be a positive addition
+and consistent with the area. He also noted that they planned to remain being owners and tenants
+in the development after it has been built. He then reviewed the projects effects on traffic and
+what they have done to create a development agreement.
+
+Chairman Adams opened the meeting up for public comments on the Item.
+
+Janae Holmstead commented that she did not feel there was a need for more commercial in
+Draper and that it would promote creep of the commercial area into residential areas as well.
+
+Seth Wright stated he was concerned with the access since the intersection on Pioneer Road was
+already crowded and suggested adding an additional access off 123rd. He added that the few
+residents on the road do not feel they have good separation from the commercial anymore which
+makes it difficult to want to stay.
+
+Ray Bryant expressed that he felt this was the best use for the property they have seen so far. He
+explained that the commercial creep and traffic were already a problem and there was nothing
+they could do about it.
+
+
+                                                4
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 5
+
+Steve Bryant indicated that he represented the Bryant Family who owns property to the west. He
+noted that they have owned the property for several generations, but they should be allowed to
+keep it or sell it and have it developed if they want to.
+
+Kelsey Wall Wright shared that she lived across the street from the development. She expressed
+concern with traffic in the area and the difficulty she faces getting in and out of her own
+property.
+
+John Wilkins noted that he lived directly south of the subject parcel. He stated that Draper has
+and will continue to see a lot of growth, but he is against change that alters the look and feel of
+the neighborhood. He noted that allowing for the development will increase traffic in the area
+and will lead to more parcels on the block being rezoned to commercial. He then stated that
+commercial encroachment needed to stop.
+
+Brady Davies stated that him and his wife own a business called the Piano Place and he feels the
+zoning of community commercial is appropriate. He added that if their business was allowed to
+go in the area they would be a great asset to the community.
+
+Tim Bryant stated commercial creep has happened in the area and will happen even if it is not
+what people want or increases traffic.
+
+Darrell Smith indicated he was the owner of the property. He recognized that change can be
+difficult but can be a benefit to the community.
+
+Chairman Adams closed the Public Hearing.
+
+Commissioner Hawker asked if there was fencing requirements.
+
+Ms. Jastremsky replied that next to residential the code requires 20-foot landscape buffer and a
+6-foot fence or a 10-foot landscape buffer and an 8-foot fence. She noted that there was nothing
+in the development agreement that would change those requirements.
+
+Commissioner Hawker stated that he voted for this because Pioneer Road is already very
+commercial with the exception of about six or seven homes.
+
+Commissioner Squire stated that her concerns about the continuation of commercial have not
+been addressed. She added that unless they were looking to have both the north and south side of
+Pioneer go commercial she was not comfortable with the change.
+
+Commissioner Van Hoff commented that he agreed with Commissioner Squire and that they
+need to do something to control commercial creep.
+
+Motion: Vice Chairman Hawker motioned to forward a positive recommendation to City
+Council for the Land Use Map Amendment for Residential Medium Density to
+
+
+
+                                                  5
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 6
+Neighborhood Commercial as requested by Keaton Morton, Application TEXTMAP-770-
+2019, based on the findings listed in the Staff Report dated February 18, 2020.
+
+Second: Commissioner Ogden
+
+Vice Chairman Hawker agreed that there was commercial creep but felt that this was the highest
+and best use for the area.
+
+Commissioner Tonks recognized there were mixed emotions about the development. She
+indicated she was in support of the development.
+
+Chairman Adams stated that he liked that the development would be limited to two stories and
+noted that commercial creep had already happened in the area.
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion.
+Commissioners Hawker, Ogden, Tonks voted, “Aye”. Commissioners Van Hoff and Squire
+voted, “Nay”.
+
+Motion: Commissioner Tonks motioned to forward a positive recommendation to City
+Council for the Zoning Map Amendment from RA2 to CN as requested by Keaton Morton
+Application TEXTMAP-771-2019, based on the findings listed in the Staff Report dated
+February 18, 2020.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion.
+Commissioners Hawker, Ogden, Tonks voted, “Aye”. Commissioners Van Hoff and Squire
+voted, “Nay”.
+
+Motion: Commissioner Ogden motioned to forward a positive recommendation to City
+Council for the Development Agreement as requested by Keaton Morton, Application DA-
+938-2020, based on the findings listed in the Staff Report dated February 18, 2020.
+
+Second: Vice Chairman Hawker
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion.
+Commissioners Hawker, Ogden, Tonks voted, “Aye”. Commissioners Van Hoff and Squire
+voted, “Nay”.
+
+4.     Public Hearing: Avery Townhomes Preliminary Plat Request (Administrative
+       Action)
+       On the request of Armando Alvarez for Preliminary Plat Approval, known as Avery
+       Townhomes (Fka Victoria Woods Phase 2) Subdivision, located at approximately 644
+       East 12225 South. Staff contact: Travis Van Ekelenburg, 801-576-6522,
+       travis.vanekelenburg@draper.ut.us. Application: SUBD-926-2019
+
+
+
+                                              6
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 7
+Mr. Van Ekelenburg presented an overview of the Avery Townhomes Preliminary Plat Request.
+It was noted that it would have the same owner but a different HOA from the development to the
+north.
+
+Armando Alvarez, Applicant, explained that they were proud of their project and simply looking
+for this next step of approval to move forward.
+
+Chairman Adams opened the Public Hearing on this Item. No comments were offered, and the
+Public Hearing was closed.
+
+Motion: Vice Chairman Hawker motioned to approve the Preliminary Plat as requested by
+Armando Alvarez for Avery Townhomes (Fka Victoria Woods Phase 2), Application
+SUBD-926-2019, based on the findings listed in the Staff Report dated February 4, 2020.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Van Hoff, Squire, Hawker, Ogden, Tonks voted, “Aye”.
+
+5.     Public Hearing: Geneva Rock Products II – Land Use Map Amendment, Zoning
+       Map Amendment, Text Amendment, and Development Agreement Request
+       (Legislative Action)
+       On the request of Dave Kallas, representing Geneva Rock Products and Perry and
+       Associates Inc, for a Land Use Map Amendment for approximately 64.27 acres from
+       Residential Low/Medium Density to Open Space and Parks and approximately 26.99
+       acres from Residential Low/Medium Density to Industrial and Manufacturing, and
+       Zoning Map Amendment for approximately 64. 27 acres from A5 (Agricultural, 5-acre
+       lot minimum) to OS (Open Space) and approximately 26.99 acres from A5 to M2 (Major
+       Manufacturing), and a Text Amendment to allow Basic Industry and Mineral Extraction
+       as permitted uses in the M2 zone, and a Development Agreement. Staff contact: Jennifer
+       Jastremsky, 801-576-6328, Jennifer.jastremsky@draper.ut.us. Applications: TEXTMAP-
+       944-2020, TEXTMAP-945-2020, TEXTMAP-946-2020, and DA-947-2020.
+
+Chairman Adams: So, this is Agenda Item Number Five. Thank you. All right, this Public
+Hearing is the Geneva Rock Products II – Land Use Map Amendment, Zoning Map Amendment,
+Text Amendment, and Development Agreement Request. On the request of Dave Kallas,
+representing Geneva Rock Products and Perry and Associates Inc, for a Land Use Map
+Amendment for approximately 64.27 acres from Residential Low/Medium Density to Open
+Space and Parks and approximately 26.99 acres from Residential Low/Medium Density to
+Industrial and Manufacturing, and add Zoning Map Amendment for approximately 64. 27 acres
+from A5, Agricultural, 5-acre lot minimum, to Open Space and approximately 26.99 acres from
+A5 to M2, Major Manufacturing, and a Text Amendment to allow Basic Industry and Mining
+Extraction as permitted uses in the M2 zone, and a Development Agreement. Our Staff contact is
+Jennifer Jastremsky, so, Jennifer let’s get started.
+
+
+
+
+                                              7
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 8
+Jennifer Jastremsky: Great, thank you. So first, I wanted to start by, um, outlining the public
+outreach that the City had done for this application. Obviously, there is a lot of people in the City
+that are interested in this project, this proposal. The City has placed the entire application that
+Geneva submitted on their website for the public to review. We included a site by site
+comparison chart with what they proposed in 2018 to what, uh, the current proposal is, um,
+including links to, um, their Division of Oil Gas and Mining permits as well as frequently asked
+questions, uh, page. Uh, the City has done a weekly social media post on Twitter, Instagram, and
+Facebook as well as, the, uh, Mayor also posting on his Facebook page. Um, there have been
+regular emails with the City’s e-, uh, newsletter, um, that newsletter goes out to about 10,000
+residence and area businesses. Um, so that, uh, e-newsletter went out in February and another
+will go out in March prior to, uh, the Council meeting. And then, uh, Draper Forward, the
+March/April addition will also have information on this application, and that printed newsletter
+goes out to about 17,000, uh, residence. Um, the public has been able to provide the City
+comments, uh, on the online public comment form as well as the e-mail info@draper.ut.us, as
+well as being able to provide public comment tonight and at the Council meeting. Um, in
+addition, before you, um, is additional public comment that we have received since the planning
+packet has gone out. Um, so that is there for you to review. And I did want to mention that
+several residences have gotten a post card in the mail either today or yesterday, that was not sent
+out by the City. We don’t know who sent that out, but, uh, I just wanted to clarify that was not a
+public notice from the City.
+
+Jennifer Jastremsky: Okay, so, to help orient you, I, we all kind of know where Geneva is
+generally located. It’s at the point of the mountain off Minuteman Drive. The area that we are
+specifically talking about today is to the east of the current mining operations. Um, and I’m
+actually going to get out of here and go onto Google Maps, um, so that we can see a 3D image of
+the property. So, the development proposals include four separate areas that Geneva’s kind of
+outlined in their development proposal. So, if we kind of zoom out a little bit. This area that’s
+being mined here is in Lehi. And I want to kind of point that out because, um, because you’re
+going to hear references to a high wall tonight. That is the high wall that is being referenced
+when you hear that, and that is all within Lehi’s City boundary.
+
+Jennifer Jastremsky: Um, so this in the purple is the four areas under discussion tonight. Now,
+Lehi has approved their Traverse Mountain area plan, which includes not only the existing
+development down by Cabelas, um, the outlets, but as well as additional development along that
+high wall area. So, I wanted to bring that up so you guys kind of have a wholistic view of what
+Lehi/Draper area and this specific shared boundary is looking at, but also kind of that 3D view of
+the grading. That kind of thing, I think, helps kind of bring it a little bit into perspective.
+
+Jennifer Jastremsky: Okay, so, the entire area under discussion tonight is, uh, in the residential
+low/medium density land use designation. That is, uh, density for single family acre/half-acre
+lots. The property is entirely in the A5 zoning designation. That is agricultural, uh, zone so it
+allows agricultural businesses as well as single family on five-acre lots. So, the City does have
+hillside sensitive overlay, uh, zone within the City, which is basically all properties south and
+east of Highland Drive. So, the Geneva property is within that overlay. Um, so this is kind of
+zoomed into the Geneva property here. So, any future development, um, on that property, you
+
+
+
+                                                 8
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 9
+know, it is within that overlay and that overlay looks at hillside sensitivity, um, slope stability,
+that kind of thing.
+
+Jennifer Jastremsky: So, um, like I stated there are four areas that Geneva is looking at, areas
+one, two, three, and four, and I’ll talk about each one individually. Now, I did want to point one
+thing out, the initial application map that Geneva submitted to, um, looked like this, there has
+been a slight change between what their initial application shows and what was in your packet
+and that is because there is a discrepancy between the property line that Geneva has and the
+City/County boundary line. So, the initial application map showed Geneva’s property line. Um,
+the updated map changes that to reference City/County boundary. Um, so, like this area here, is
+actually in Utah County. It is not within Draper City. So, that’s why there is a slight change
+there.
+
+Jennifer Jastremsky: So, in, uh, the 3D map. So, um, area one here is in, is the front face of Steep
+Mountain. Area two is the back face of Steep Mountain and then area four here is adjacent to that
+high wall that is in Lehi. Uh, area three is kind of in between those, those specific areas. So, area
+one, um, is about 43 acres in size. So, again it is that front face of Steep Mountain. So, the
+applicant is proposing to change that land use designation to open space and parks and change
+the zoning map to OS, Open Space.
+
+Jennifer Jastremsky: Area two is the back face of Steep Mountain, it’s about 21 acres in size. The
+applicant is proposing to change land use designation on that property to open space and parks
+and change the zoning to OS, Open Space.
+
+Jennifer Jastremsky: Area three is about, um, 49 acres in size and the applicant is proposing no
+changes to area three. So, it will remain in the residential low/medium density designation and it
+would remain in the A5 Agricultural Zone.
+
+Jennifer Jastremsky: Area four is about 27 acres in size, so that’s the area that’s adjacent to the
+high wall. The applicant is proposing to change the zoning designation on that property to
+industrial manufacturing, or sorry, the land use on the property to industrial manufacturing the
+zoning designation to M2, which is major manufacturing.
+
+Jennifer Jastremsky: Um, so there is a development agreement under discussion tonight, well,
+under discussion with this application. The Planning Commission will not actually be making a
+recommendation on this development agreement. Um, so the Planning Commission makes
+recommendations on development agreements when the proposed agreement changes or
+modifies development standards. So, the offices on 7th that you reviewed earlier tonight, they
+were proposing to change standards. Uh, roof standards, architectural standards. The
+development agreement proposed by Geneva does not do any of those things, so you will not be
+making a recommendation, but the discussion of what is in that is very important, I think, for you
+guys to know as your considering this application.
+
+Jennifer Jastremsky: Um, so, area one, um, in the agreement, um, Geneva states that they will
+donate to the City that 43 acres to be used as public open space, um, Geneva would retain a right
+to revision should the City use the property as anything other than open space. Which means, if
+
+
+                                                   9
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 10
+the City decides, oh hey, you know what we want to allow this to be developed, Geneva would
+take it back. Um, so, that is to help ensure that it is used as the open space. And again, that’s the
+front face of Steep Mountain.
+
+Jennifer Jastremsky: Area two, uh, back face of Steep Mountain, um, Geneva would retain
+ownership of that, but it would become private open space. Again, they are proposing to rezone
+that to the open space zone, so that would not be developed, um, but it would count toward
+future development rights in calculations for development on the rest of the Geneva property
+when it is eventually developed.
+
+Jennifer Jastremsky: Uh, area three again they are not proposing any changes to that 49 acres but
+in the development agreement, Geneva acknowledges the future development would likely be
+commercial or residential and subject to City zoning and that Hillside Sensitive Overlay zone.
+
+Jennifer Jastremsky: And then area four, that 27 acres, they are rezoning to M2, uh, that would
+be allowed to be mined. So, the third application that, uh, you guys will be making a
+recommendation on tonight is a text amendment. So, the applicant is looking to modify the use
+chart for the M2 zone to make basic industry and mineral extraction as permitted. Um, and
+mineral extraction would also have the caveat that it would be permitted with an existing, uh,
+permit through the Division of Oil, Gas, and Mining. And I’ve got those, uh, definitions up here
+if you have any questions on what those are.
+
+Jennifer Jastremsky: Um, so we do have a comparison chart, uh, that’s available on the website
+for resident’s, again, comparing the 2018 application to 2020 application. So, the 2018 Geneva,
+um, looked to rezone 72 acres of property to the M2 Zone in order to mine, um, that would have
+been a land use map amendment to Industrial Manufacturing as well on that 72 acres, um, they
+also look to make a basic industry mineral extraction permitted use in the M2 zone. And then the
+proposed development agreement at that time would have put 78 acres of land into conservation
+easement. Um, again with this current application, the City is actually getting 43 acres for open
+space and another 21 acres would be designated private open space and only 27 acres would be
+mined.
+
+Jennifer Jastremsky: So, the Division of Oil, Gas, and Mining or (DOGM) has looked at the high
+wall issue in Lehi, looking at what are the options to resolve, uh, the existing slope on that high
+wall and they have come up with four scenarios here. Um, so, uh, leave it in current conditions,
+add fill to change the slope, or seek approval from Draper City to mine a little bit further into
+City boundary to, uh, decrease that slope. All three of these would, uh, limit, uh potential. Some
+of them have high slope stability, uh, concerns with that. And then a fourth one, would be to
+allow additional mining on that property. So, I want to show you, uh, this graphic here. I think
+it’s very important to kind of illustrate to you what kind of slopes DOGM is looking at when
+they, when they put this together. The City boundary is about right here, where this is Draper
+City, and this is Lehi. So, the black line here is the existing high wall in Lehi. Um, so looking at
+options that the property owners have working with Lehi and DOGM, they can provide, uh,
+additional fill on the property, which would be the green line here. They can work with Lehi to
+modify Lehi’s standards and bring in a smaller amount of fill to meet DOGM standards. Or they
+could, if they were able to secure mining rights, uh, through Draper bring, bring the high wall
+
+
+                                                  10
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 11
+down to again meet Lehi slope standards. All of these options here do not leave anything that is
+developable or a slope that is capable of being re-vegetated. Um, the fourth option would be to,
+again, um, secure the right to mine the property in Draper and bring the slope down all the way.
+This property would be re-vegetable, um, it would be developable. So, those are the different
+options that DOGM has identified for the applicant. Um
+
+Commissioner Van Hoff: Can you, can you point out where, uh, area one, two, and three lie
+within these.
+
+Jennifer Jastremsky: Uh, so up here, this is going to be kind of your area four. Right here. Okay.
+So, area one is going to be over here and area two is over here, so they’re kind of off this map.
+DOGM was not looking at Geneva’s specific proposal to the City when they did this, they were
+just analyzing the high wall in Lehi.
+
+Commissioner Van Hoff: So, where alternative four meets the existing condition, that’s the red
+line at the very north?
+
+Jennifer Jastremsky: This would be, um, meeting the minimum slope that, or the maximum slope
+that DOGM would allow. So, that alternative four would be the purple. So, this, or uh, sorry the
+blue. So, this would be, uh, essentially what Geneva is requesting tonight.
+
+Commissioner Van Hoff: And where it meets the existing condition, that’s were area four ends?
+Is that the boundary between area four and area three is what I’m asking?
+
+Jennifer Jastremsky: No, so the existing condition. Let me see
+
+Commissioner Squire: That’s in Lehi isn’t it?
+
+Jennifer Jastremsky: Yeah, so that’s in Lehi, so that existing condition line is right here. So,
+that’s in Lehi.
+
+Commissioner Van Hoff: Okay, but the boundary between area four and area three is the next
+line up, right?
+
+Jennifer Jastremsky: Yeah, so.
+
+Chairman Adams: But those colored lines. Or the first time I looked at this I was a bit confused
+as well, so I had. Basically, what we’ve got to the right here on this grid, that’s this Draper side
+without any of the colored lines in there.
+
+Jennifer Jastremsky: Yeah, so everything here is Draper. So, essentially this would be where that,
+uh, area three would start. And this would all be area four.
+
+Commissioner Van Hoff: Okay, that’s what I was asking. Thank you.
+
+
+
+
+                                                 11
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 12
+Jennifer Jastremsky: Okay, then, uh, DOGM did provide some images of the high wall as well so
+you can see what kind of slope that does have on it. Um, and as you can see from their pictures it
+is sluffing off and is unstable.
+
+Commissioner Squire: Do we have anyone from DOGM here tonight?
+
+Jennifer Jastremsky: We do.
+
+Commissioner Squire: Oh, excellent.
+
+Jennifer Jastremsky: And they did have a picture of what, uh, the potential would be for, uh,
+revegetation of a reclaimed slope. Um, and I do have some images from 2018 application, so you
+can kind of, uh, see what the property looks like, uh, from the top there. And then, so, we do
+have representatives from DOGM here to answer any questions that you do have from them and
+then the City’s geotechnical consultant Alan Taylor is also here and available to answer any
+questions that you may have.
+
+Jennifer Jastremsky: And then I’d like to, uh, point out as the public is coming up if they have
+not already provided that comment card to us, and they still have that, if they could hand that to
+the Chairman, so that we have that, uh, for our files. And I’m happy to answer any questions.
+
+Vice Chairman Hawker: Jennifer I’ve got. On this open space, um, are there proposed uses on
+this. I mean is it just mountain biking trails? Or is it just going to stay, uh, open there? What do
+you think they are proposing there? Cause, I know it said that if you wanted to do something
+different, they have the right to take it back, so that’s on area one and area two. So, I’m just
+trying to make sure what really open space is.
+
+Jennifer Jastremsky: Yeah, so, area two would be private open space. Geneva would retain
+ownership of that, so, that would not have public access as far as I know at this point. Um, area
+one would be City public open space, so, um, we could put tails on there, bike trails, hiking
+trails. So, um, the open space zone allows park, trails, that kind of thing in it.
+
+Vice Chairman Hawker: My section question is, is area three, if this proposed use happens. That
+48.87 acres is used to count for development eventually at the, at the 26.99, so there could be
+quite a bit of, um, higher density commercial all of that, that would be counted. Am I
+understanding that correctly?
+
+Jennifer Jastremsky: Um, yeah, it doesn’t count just for that 27 acres though. If I go back to this
+arial here, Geneva does own all of this property. So, when we’re saying that, you know, 49 acres
+counts toward development, uh, rights it’s for the whole thing
+
+Vice Chairman Hawker: Not this proposed?
+
+Jennifer Jastremsky: Right.
+
+Vice Chairman Hawker: Okay, Thank you. Thank you for that clarification.
+
+
+                                                 12
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 13
+
+Commissioner Squire: I have a question for you Jen. For area two, since that’s private open
+space, how are we guaranteeing, with the development agreement or however else that, that will
+remain open space. That they won’t come back and ask again for a zone change or a change in
+land use.
+
+Jennifer Jastremsky: So, the open space zone would not allow for, um, any mining obviously, so
+that is, that is what would prohibit that from being zoned. I
+
+Commissioner Squire: Is there any prohibition on a request in the future?
+
+Christina Oliver: currently there is not a proposal for that in the development agreement.
+
+Commissioner Squire: Mr. Barker is that something we could have run with the land. A
+perpetual open space. Some sort of requirement for that, because I think if we, I would just say,
+um, that’s a major concern for me.
+
+Mr. Barker: So, what you have in your packet tonight is pretty much the development agreement
+that Geneva had submitted.
+
+Commissioner Squire: And I know that’s not our job.
+
+Mr. Barker: So, based on your comments tonight and from the public, those may be areas that,
+that, that between now and when it goes to the City Council there may be opportunities for
+negotiation. That’s certainly an area we’ve identified to make sure that, that does get locked
+down, and does not end up ten years down the road being the subject of a, maybe Geneva
+decides they want to give up the credit for the open space and would rather mine and we.
+Obviously, it is the City’s best interest to lock that down.
+
+Commissioner Squire: Yeah. Absolutely.
+
+Jennifer Jastremsky: And I’d like to point out that you are not making a recommendation on the
+development agreement
+
+Commissioner Squire: Correct. Correct, but obviously that ties into what our decision is.
+
+Jennifer Jastremsky: It does and that’s why we needed to bring it up.
+
+Commissioner Squire: Yeah. And so, there was a graphic that compared the 2018 and the current
+applications. I just glanced at that when you had it up momentarily, but is the, the proposed area
+the same number of acres? It looked like it might have been bigger in 2018.
+
+Chairman Adams: It went down.
+
+Commissioner Squire: Yeah, okay.
+
+
+
+                                                13
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 14
+Jennifer Jastremsky: So, its, I think a slight variation, based on that, again between that
+discrepancy between property line and County/City boundary lines.
+
+Commissioner Squire: It seemed like it may have been bigger than that because in 2018
+
+Mr. Barker: She is comparing the total acreage in 2018 versus the total acreage in this
+application.
+
+Commissioner Hawker: This is 140 compared to 79 or 73 back then.
+
+Jennifer Jastremsky: Well it was 73 for mining and then another 78, uh, for conservation
+easement.
+
+Commissioner Squire: Okay. Oh, and so, on our four areas it’s the same.
+
+Jennifer Jastremsky: Yeah.
+
+Commissioner Squire: So, does Geneva Rock own any more land in Draper City. That would be
+un-zoned if this passes through the City Council.
+
+Jennifer Jastremsky: I don’t believe so, that may be a question for them, but I don’t believe so.
+
+Commissioner Squire: Okay. That’s all I have.
+
+Chairman Adams: Will you leave it on that slide, Jen, when you are done? Unless there is
+another presentation coming up.
+
+Jennifer Jastremsky: The applicant does have a presentation.
+
+Chairman Adams: Okay. Alright. We’ll want to come back to this because this is good history
+for everyone to kind of hear what’s gone on over the years. Alright, any other questions
+commissioners before we invite the applicant up. Okay let’s go ahead and do that now Jennifer.
+Thank you. Is the applicant here. Come on down and talk to us.
+
+Bruce Baird: Mr. Chairman. Members of the Planning Commission. Thanks Jennifer. My name
+is Bruce Baird, I’m council for the project, uh, I’m going to be extraordinarily brief tonight
+because Jennifer has done an amazingly thorough job of explaining, uh, everything whether
+some people like it or not. She’s explained it as well as it could possibly be explained, I think.
+And let me take a couple of the questions that the Council asked, because I’ll address them, or
+the Planning Commission asked, and I’ll address them.
+
+Bruce Baird: Uh, first, we do agree with DOGM that the best alternative would be to take the
+whole high wall down. We’ll show you, the only additional slide we’ll show you, I had a
+presentation but Jennifer’s stuff, frankly, was as good or better than what I had, so all I’m going
+to show you is an after slide of what taking the high wall down, so that it meets that blue line, uh,
+and, Mr. Van Hoff it meets it at the area three/four boundary as you suggested. We’ll show you
+
+
+                                                 14
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 15
+what that land would look like, uh, revegetated. Uh, so, that’s the only additional slide I’m going
+to show you. Uh, we do believe that it is a better idea to take the whole high wall down rather
+than to have it be in an unusable condition or in the one to one slope that it currently is allowed
+to be. We think the whole thing is the better way to do it.
+
+Bruce Baird: So, the answer to the, a couple of the questions you raised are, and I think Jennifer
+answer the questions regarding area one, the City could use the property, its property open space,
+for any typical open space purposes. The only reason we put the reversion in there is cause,
+because I have seen more than one project where, uh, developers gave land to a local government
+or a school district or something else, and the local government and or the school district turned
+around and sold it, and developed it, and we wanted to make sure that never happened. So, the
+easiest thing to do was to put the poisoned bill in there, that if somebody tries to do something
+other than open space, that it would go back to Geneva. We don’t want it back. We want it to
+stay perpetual open space.
+
+Bruce Baird: Regarding area number two there was a question about, to Mr. Barker about
+whether it was possible to make a restrictive covenant to preserve the open space perpetually, so
+that Geneva could not come back to even ask for it to be rezoned and that is certainly something
+that we are willing to discuss with the City Council as part of the MDA, and if you want to make
+the recommendation that you think that is a wise land use, for area two when we rezone it, to
+have that covenant we understand and pretty much excepted that you would make that
+recommendation. I’m not necessarily agreeing to it here, but it’s not a surprise to any of us.
+
+Bruce Baird: Regarding area three, the question is, was, how it would be used. The City’s current
+land use code to the hillside ordinance makes some highly technical distinctions between using it
+for density versus using it for open space. And what we are doing is we’re complying. We’re
+saying we’re going to use it in compliance with the City’s current code as part of the open space
+for the development of the entire Hansen property, not just area four. Uh, we have no idea what
+is going to happen on area three over time. Uh, we hope that it turns into a, a wonderful either
+residential/commercial, uh, community, master planned community as part of the entire point of
+the mountain re-development. Whenever that may be, and we’re hoping 20 years, but no one
+ever knows.
+
+Bruce Baird: The reason for the acreage difference is, that was discussed, a couple things. One,
+the proposal a year and a half or so ago, involved some land swaps regarding some other
+property as opposed to just area one, two, three, and four. Uh, we’re dealing with, as it relates to
+area one, two, three, and four in this proposal, they are essentially the same dimensions as they
+were the last time. The only wrinkle is, uh, we uncovered the fact that as you may know there is
+a confusion between the County boundary lines as related to the, uh, various ridge lines. You
+have dealt with that a couple of times in the past I believe, regarding Edelweiss, I think, and I
+know Suncrest, because that’s where we passed the constitutional amendment to allow those
+boundary lines to be adjusted, so that County boundary lines did not run through houses. Uh, so,
+those are the differences, uh, I mean those are the points we’d like to talk about. Do you have
+that one slide? Can you give the slide? Could you just bring up the after slide? I don’t know
+where it is in that. I don’t know which, oh, it’s this one. Okay. Sorry. There, somebody already
+brought it up. That’s, there it is, never mind, I didn’t, I wasn’t paying attention I was
+
+
+                                                 15
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 16
+
+Bruce Baird: So, this is the current condition, and this is a version of what the side, hillside,
+would look like afterwards. You can see that this is where the high wall has come down. So, this
+is the after slide. Other than graphically representing it to you, we wanted you to be able to see
+what it would be, uh, and this would be the DOGM alternative four version. So, that’s the only
+addition. We have some of our team hear if you have any questions. I have the environmental,
+uh, representatives here and the engineering representatives if you have any questions for our
+team. But otherwise I’ll try to keep it brief. Uh, I think the last time we were here while, the uh, I
+can’t remember, the world series or something was going on, and we were all updating the
+scores, and uh, but I want to get people out of here as soon as possible, so I’ll try to be as brief as
+possible. If you have any questions, we’re happy to answer them, otherwise we’d like the
+opportunity to come back if necessary, to make a brief rebuttal after, uh, we hear from the public
+comment. Thank you very much.
+
+Commissioner Squire: Mr. Baird, I do have a question. My Colleague next to me did some quick
+math and it looks like the discrepancy is about 11 acres from the 2018 application until now. So,
+just to be very clear are you saying that all those, all of the additional acreage that was in the
+2018 application actually lies in Utah County and not in Salt Lake County?
+
+Bruce Baird: No. To be 100% clear I’m saying I don’t know the entire deviation of the 11 acres.
+I know part of it is the Utah County issue. I honestly can’t tell you as we stand here because,
+today because I don’t want to give you and answer that isn’t correct. I can tell you that we’ll find
+it out, but I can also tell you that we have not increased in anyway the area which we are seeking
+to mine. In fact, we’ve dramatically decreased the area that we’re seeking to mine. And other
+than that, I apologize. I wish somebody had pointed out that discrepancy to me earlier. I didn’t
+notice it and that is my fault.
+
+Commissioner Squire: So, is it your understanding at least that all of the remaining land that is
+not zoned for the manufacturing and mining, um, that Geneva Rock owns within Draper City is
+included in this application tonight.
+
+Bruce Baird: And that’s the only other thing I forgot to mention in response to your earlier
+thought. As far as I understand your question, this application and the existing Hansen pit deals
+with all of Geneva’s property that is in, uh, Draper City.
+
+Commissioner Squire: Okay
+
+Bruce Baird: And I apologize for not answering that earlier.
+
+Commissioner Squire: No, that’s fine. I just wanted some clarity on that.
+
+Bruce Baird: We’re not. There is not some attempt to have some missing sliver that is going to
+suddenly wind up being rezoned accidentally or intentionally to mining beyond what we are
+showing you. And I apologize for not answering that question.
+
+Commissioner Squire: Okay. Thanks.
+
+
+                                                  16
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 17
+
+Bruce Baird: Any other questions? Otherwise we’ll just listen to the public. Thank you very
+much.
+
+Chairman Adams: Thank you. We’ll have you back up to answer any, uh, questions. Alright, so
+this is a Public Hearing. We’ll take the time right now to just review the rules for public
+comments, since this is what most of you are here for. Uh, if you’ve got something you’d like to
+mention, uh, or comment we’ll give you up to three minutes. So, you don’t need to take those
+full three minutes. Uh, we do encourage that you bring up a point. The first persons got it easy
+cause everything you say will be fresh and new and so after that, uh, we just encourage you just
+to, for the sake of time, if your point has already been brought up a couple times, just we get it,
+and I’ll actually be keeping a little tally up here to see if anything new is coming up. You know
+what, and what we’ll do too is we’ll let the public hearing go and then we may take a quick break
+in between that, in between the public hearing, so if that goes on. So, and also, we want to be
+mindful there are some people out in the lobby and hall area, so we’ve got these cards up here
+and I will go in order of these cards. Um, again if you are one of the three that, that did not, we
+already discussed that, we wont bring that up again, but uh, I’ll go in order of these cards and
+then we just want to be mindful, uh, and respectful of people out in the hall, so, as that, uh,
+happens well make sure to, you know, give a little bit of time for someone to pop their head in.
+Alright, so, let’s go ahead, anybody. We’re all clear on the rules. By the way no cheering, no
+booing, no hissing, we’re all friends here. We all want clean air. We all want to live in a great
+community together, be friends, and say hi to them, each other, at the mall after this.
+
+Chairman Adams: Alright, so, we’ll go ahead and open this up for public comment. First one
+I’ve got on the list is Nile Brewer and then after Nile Brewer we’ll have Johnathan Jeffries. So,
+we’ll just ask you for the sake of time, just, if you are on deck. This reminds me of Karaoke a bit,
+right? If you’re on deck just be ready and, uh, we’ll save that long silent walk up to the front.
+And as you come up please state your name and address for the recording.
+
+Nile Brewer: Uh, my name’s Nile Brewer, uh 202 East Bridge Park Circle in Draper. I won’t
+take the full three minutes, but what I would like to say, I’m sure these guys have way better
+facts then what I’m going to have, but, uh, what I would tell you is I don’t want a train to be
+going by the point, and you know, and massive developments there, but I wouldn’t come and
+argue against it. I don’t really want high rises where the prison is but I’m not going to come here
+and argue against it, and the reason I’m not is because it doesn’t benefit me I don’t want it but
+my neighbors, it will probably benefit them, the community, it will benefit them, and I’m for that
+even though I might not like it, but I can’t justify giving them extra space, digging for another 20
+years. Even on their website it says, we’re not going away. And they’ve been here a long time.
+We’re not asking them to go away. That’s great, make your concrete, make your black top,
+whatever you’re doing you have your space but to justify allowing them to expand.
+
+Nile Brewer: So, that they can, this area, the reason everybody paraglides and hang-glides here is
+because there is so much wind and as a pilot it would benefit me to say, yeah. Fantastic. Give us
+the extra space so we can fly forever, but it’s more important to me to have the clear air. I’ve
+been in the sky flying and I’ve seen the trails of dust being carried almost into downtown, that’s
+anecdotal, since it’s from what I’ve seen, but what I’d ask you to think about when you’re
+
+
+                                                17
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 18
+looking at their proposal is, can you justify this for your kids or for your grandkids? Does this
+make us a good steward to our land or good neighbors? This is something that, they’re not going
+away, we already know that, but I’d just ask you to consider that is what benefit do we have from
+this, it doesn’t help us as a community. We’ve grown beyond that, so, thank you for your time.
+
+Chairman Adams: Thank you. So, now we’ve got Johnathan Jeffries and after that Chuck Elliott.
+
+Johnathan Jeffries: Hello. My name is Johnathan Jeffries. Thank you for your time and thank you
+for your attention on this matter. Um, I’ve been following this issue for a long time and a little
+while ago I e-mailed with Lehi City, because I was really wondering what I the world is going on
+over there. Um, and he informed me that that they are mining but, in his words, it was called
+mass grading with export. He said it was not really mining and, uh, he informed me that, uh, the
+high wall that’s been made there is, well, from, sorry I’m losing my train of thought there a little
+bit. I’ve been following this for a while and Lehi City Councilman, Paul Hancock, told me that
+this was not mining, it’s mass grading. And I look at it and I see the high wall they’ve created
+and what’s in my mind is, it seems like Geneva has come into this planning on bulldozing you
+guys because they have created a situation that they’ve kind of need to get out of now and the
+only solution is to either remove the whole thing. I think they went into this thinking Draper City
+is going to fold, let’s just mine that right up to a high wall and we’ll get Draper City to fold and
+when they do, we’ll be able to keep going, but last year it didn’t really work out that well
+according to what I think they wanted to do.
+
+Johnathan Jeffries: Originally, they were wanting about 72 acres and if my math is right then
+they were hoping for 18, now they’re hoping for about 27. I could be a little bit wrong on those
+numbers, but, um. I would love to see it if they would not mine anymore. That would be great if
+they could just mine what they have now and not expand their mining. Um, but if they do, if you
+feel any pressure from HB 288 from the State saying they could come in and just do whatever
+they want over your heads, if you’re feeling pressure from that, I’d like you to stick to your guns
+and, uh, not fold. And I’d like you to, um, stick to your guns and not re-zone it. If you do need to
+compromise, I understand. I would highly encourage you to negotiate the best that you can to
+have the area that needs to be mined as small as possible. They wanted 18 at one point, so maybe
+you could get them to go back to 18 and get as much land as you can as open space without any
+of these silly tricks where they could change the zoning later. So, that’s what my hope is. And I
+commend you for your work. Thank you for your time.
+
+Chairman Adams: Thanks. Chuck Elliott and after that, uh, we’ve got, it looks like Ferris Taylor,
+on deck.
+
+Chuck Elliott: Chuck Elliott 14841 South Parowan Way. I live right over the hill from where this
+disaster is being proposed. I get dust all the time. My house is already dusty, it shakes. When I
+look out off the point in my view there is a brown cloud every time it’s windy. I complained one
+time to some government entity, I can’t remember who it was, and they said, well once the wind
+reaches a certain point it’s like an act of God. They have no control over it. And I thought that’s
+just the wrong answer, cause that’s when we need it most. And, uh, all those poor people who
+live down by Ikea and that whole western corridor along the freeway, I’ve got friends that live
+down in there, their cars are covered in dust 24/7, 365. This is a horrible idea. Um, your
+
+
+                                                18
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 19
+concerns, your comments earlier concerned me about the use. You should get other there and
+look at it. That wall is straight up and down there is now way you are going to put hiking trails
+and bike trails and stuff on it. They need to just leave it alone it’s straight up and down. It was
+the widow maker. And, uh, somebody can hike the top or use it for exercise but, um, if we were
+standing here today and they wanted to rezone it to build a house, cool, you know a
+development, something like that, but they want to make dust. And if it were rare earth minerals
+gold, copper, something exotic and that needed to be the place they got it, great, but you know
+what? It’s not, it’s gravel. The whole state is full of gravel they can go down the street. You’ve
+got Pelican Point, you’ve got the north point, they can go west, they’ve got the whole. They
+don’t need to do it in our backyard. [clapping]
+
+Chairman Adams: Okay. Hold on. Hey, hey, hey, we cannot have any clapping or cheering. Just
+the same, it’s just the inverse of doing. Sorry, Chuck, stand by just one second. So, if we do that,
+we’ll just shut the meeting down. But please, no clapping. No booing. Fair? We good? Okay, go
+ahead.
+
+Chuck Elliott: one last quick point. I had a half acre right down the street. I inquired of the City
+about getting it rezoned so I could develop it and I was told no, because my color wasn’t right
+color on the chart etcetera. Don’t do that for the big guys. If I can’t do it, don’t let them. Um,
+and, uh, they should just change their name to Geneva Cattle and run cattle. It’s zoned for
+grazing and agriculture. Leave it that way. Please save us all from breathing the garbage in the
+air. Thank you.
+
+Chairman Adams: Thank you. Alright next we’ve got Ferris Taylor and then on deck after that is
+Johnny Vasic.
+
+Ferris Taylor: First, Ferris Taylor, 602 Draper Heights Way. I’m wearing two hats one is I back
+ride up the traverse ridge, um, second of all I’m the president of the Draper Heights HOA, which
+is 110 homes. And this has been a lively discussion, uh, for a number of years. I have lived in my
+home for 15 years. Uh, grew up in Idaho, drove the point of the mountain since I was a child. It’s
+very different today than it was 71 years ago when I was born and, uh, I agreed with Johnathan’s
+comment that we, the Planning Board, did not create that high wall why should we have to
+reduce the height of a mountain another 300 feet to compensate or make up for a high wall that
+Geneva has created.
+
+Ferris Taylor: My other points, uh, reinforcing the fellow before me, uh, we can’t open our
+windows in our home and we back right up. Our backyard is 15 feet going up. We can’t open our
+windows without having a layer of dust all over our home. I can document it, but I’ve probably
+replaced in the 15 years at least a half a dozen wind shields because of the trucks getting on to
+the freeway and throwing the rocks. That’s where I get on the freeway. Uh, so, um, at a
+minimum there should be some liability or some responsibility to control the dust with what’s
+there and anything done in the future and to take accountability for the damage they do to other
+property.
+
+Ferris Taylor: Uh, my, um, our HOA includes Widow Maker, if those of you here in Draper
+know what Widow Maker is, it was an activity, it was something that went on in Draper, that no
+
+
+                                                 19
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 20
+longer happens. So, we do have the ability to change what we do on Traverse Ridge, that is a
+change that should take place and, um, I guess for the Board, I reflect back to a Jerry Garcia
+quote that I thought was very appropriate, uh, “somebody has to do something and it’s pathetic
+that it’s me” but in this case I think somebody has to do something and it can start right here with
+the Planning Board just saying no.
+
+Ferris Taylor: If there is mining that needs to be done on this fourth piece, let it happen, let them
+do the best they can do with their high wall, but insist that the rest of that property be open space.
+And not be, I mean, you can tell when games are being played. Public open space/Private open
+space why are we playing these games? We can see through the games. So, um, another favorite
+quote is From Michael Crichton’s book Lost World, “extinction is the inevitable result of one of
+two things, too much change, or not enough change.” And tonight on these other things that
+we’ve talked about and this you have to weigh is now the time to continue what we’re doing and
+allow everything to degenerate or to change and say no. Draw a line in the land, in the sand, and
+stop the destruction.
+
+Chairman Adams: Thanks. Thank you. Next, we’ve got Johnny Vasic and after that Ashley, is it
+Muhlstein? Got it.
+
+Johnny Vasic: Thank you. Uh, my name is Johnny Vasic, um, I’m a resident of Sandy but I have
+my mother and sister that live in Draper near Geneva mine. Um, we all know that dust us bad for
+us, Silicon dust, we know it carries heavy metals, we know it can be bad for lung function, and in
+fact my 84 or 85 year old, I’m making her younger than she is, 85 year old mother and 60 year
+old sister live in Draper off Day Meadow Drive which is near the mine and they both suffer from
+respiratory issues. And, uh, my mom is really concerned about this issue and talking to her just
+the other day when she knew this was happening, she said, uh, please tell them that I don’t want
+the mine expanded. There are, is, already so much dirt and dust in the air that I’m afraid to go
+outside. And that really resonated with me. And you know, there is fear about this expanding,
+and she feels fearful that there is already so much dirt, dust and dirt, in her house she does not
+even open her windows anymore. So, in addition, the open space they are offering is a nice play
+and a nice alternate to what they were, uh, asking for last year, but who in their right mind wants
+to recreate in this area. It’s, you know, we can make it open to the public, but we know the wind,
+its so windy there all the time, and we know dust is coming off there even with all the mitigation
+they’re doing. The, I don’t see how this could possibly, uh, be a good thing, so I’m asking you to
+give a negative recommendation. To not, um, allow them, you know, we know this gravel pit
+couldn’t be in a worse area with how frequently the wind blows. The last thing we need is for
+them to expand. So, please say no to this zoning change. Thank you.
+
+Chairman Adams: Thank you. So, now we’ve got Ashley and then after that Robert McFarland.
+
+Ashley Muhlstein: I’m Ashley Muhlstein and I live at 312 Steep Mountain Drive. Um, first of all
+I’d like to thank you for your service on the Planning Commission. Uh, I am here as a Draper
+resident, a Steep Mountain Drive Homeowner, a frequent user of the flight park, and a concerned
+mother. I would, however, uh, like to discuss something I am most familiar with professionally.
+As a former environmental compliance manger for a large mining company, I’ve been trained
+and certified in opacity ratings. Measuring opacity is essentially measuring the degree to which
+
+
+                                                 20
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 21
+fugitive emissions, in this case dust, blocks the light. According to the Utah administrative code,
+fugitive emissions, from any source shall not exceed 15% opacity. We live in a PM10 and PM2.5
+non-attainment area which makes these rules particularly important. As a resident on Steep
+Mountain Drive, I have personally observed opacity standards exceeded regularly. We live in a
+unique valley bracketed by tall mountain ranges to the east and west acting like walls of a wind
+tunnel. The wind is funneled through the Jordan Narrows. This is the reason the area is an ideal
+location for Camp Williams wind turbines, not an ideal location for an open mine covered in
+small sediment, and the area where all this material will be processed, as in that funnel.
+
+Ashley Muhlstein: Um, regarding, oh let’s see, sorry. I understand the benefit of having a mine
+in close proximity to the City to reduce building costs. I also know these same resources can be
+extracted in a lower impact location and lower costs are not worth the cost of the health of the
+environment and the health of our citizens. Any level of dust generation is considered air
+pollution and an expansion of the mine would increase these violations and be detrimental to the
+air quality of the entire valley.
+
+Ashley Muhlstein: Uh, regarding the high wall, it is the mining company’s responsibility to
+mitigate the slope issues and back fill. It’s not, uh, the City’s responsibility to rezone additional
+land to fix their problem. As a City, I pride Draper in making choices that preserve open space
+and recreational areas, because we understand how valuable they are to our community now and
+especially moving into the future. Draper isn’t about economic development, it’s about
+community and making it the best possible place to live and enjoy.
+
+Ashley Muhlstein: This expansion is unacceptable and detrimental to the general plan and vision
+for what Draper is and should be. The General Plan adopted by the City’s, um, City Council
+states on page 12 that Draper is a City that recognizes the importance of meeting today’s needs
+without, uh, compromising, uh, resources for future generations. On page 16, to protect water
+and air quality from degradation and decline, and on page 18, to protect large unspoiled portions
+of our Mountain areas. The conceptual Master Plan for the prison site redevelopment designed
+by LOCI shows a modern metropolitan including light rail exchanges, offices, and commercial
+building, open spaces, and parks. The included conceptual design drawings of the plan show
+Steep Mountain drive in the background with a, an essentially reclaimed mine, and no mine in
+the background of the picture. And so, uh, the mine is a part of our City’s past but shouldn’t be a
+part of our future.
+
+Chairman Adams: Thank you. Alright, so, now we’ve got Robert McFarland and then after that
+Chris, oh man, Olszewski. Close? You know who you are. Come on down after this. Go ahead
+Robert.
+
+Robert McFarland: Yeah, I’m Robert McFarland. I’d lived here for 23 years and moved a few
+months ago, and I moved because of our friends and our neighbors in Geneva. I got tired of the
+dust, I got tired of the fight, I got tired of the never-ending battle, you know, where they go to the
+legislature and they cry for help and then they get granted help. But, you know, at the end of the
+day, zoning and this plan that Draper puts together, the 2019 General Plan, there are thousands of
+hours of work in that. And do you see any pictures of mines? Do you see any pictures talking
+about we want to be an industrial leader? No. It’s about clean tech. It’s about a good place to
+
+
+                                                 21
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 22
+live. It’s about quality housing. It’s about high value properties. There is over a billion dollars
+within a few miles of properties within a few miles of this. Geneva bought, they acquired this
+land several years after, uh, all of us, you know, Centennial Heights, I bought in that four years
+before they got their A5 land. They have A5 rights and I am totally open to them using their A5
+rights.
+
+Robert McFarland: What I’m worried about is, you guys look at like concrete stamping on a
+building, there is so many moving parts in this that are unknown. The area two and area three,
+it’s wide open, area three, goes to you know, you don’t have a chance to litigate it, it goes to
+arbitration. It’s wide open. And Perry Homes is involved. And guess what, Perry Homes are the
+guys they are working with in Lehi to do mass regrading. You look at the topography of area
+two, it’s a big mound of gravel, and it’s terrible for development. What do you think they are
+going to want to do? Where are the elevations on all of this? What’s the intention? I mean, there
+is not a lot of honesty and transparency.
+
+Robert McFarland: So, if this were just someone saying, I want to rezone to commercial, you
+guys would say come back and talk to us. You’ve got to say come back and talk to us because
+this thing is half baked and it’s loaded against Draper. You know, the private open space, hum,
+what could happen there? The area three, what can happen there, and what is likely to happen
+there. You guys put on your business hats and this thing is not in the favor of citizens of Draper
+of citizens of the whole Wasatch Front because you are talking about a plume of mine.
+
+Robert McFarland: The other point that I think that has not been addressed, I mean this is not
+negotiated, so I’m not putting it on you guys, but that’s the fact. I would negotiate more at the
+Planning Commission before it goes to City Council. You’ve got to work out some of these
+things. Why not. Are we going to say that they can mine this 27 acres for an unlimited amount of
+time? Is that right? I mean, I would say you’ve got three years if you’re going to give them some
+land. Um, you’ve got three years the clock is starting and what’s the reclamation plan and go.
+And make it clear that all the other stuff is iron clad. There is no mining, there is no mass
+regrading, you’re not selling material from any other acres outside of this to fix your high wall.
+
+Chairman Adams: Perfect timing. Thank you. Next we’ve got Chris O. and then, uh, we’ll move
+on to Dr. Brian Munch.
+
+Chris Olszewski: Hi, my name is Chris Olszewski. I live at 436 Braid Hill Drive, um, in the
+shadow there. Like the other residence have, um, stated I can’t open my windows. I change my
+furnace filter every single month. There is pumice all over my house if I open up my windows.
+Um, one of the things, um, like other people have said this is not a mistake from Geneva.
+They’ve purposely created this. If this was a mistake, they have no business being in the mining
+business. So, I, you know, I don’t want Draper to feel like they have to get Geneva out of
+something they created on purpose.
+
+Chris Olszewski: The land that Geneva owns was never intended for mining, if so, it would have
+been given the M2 when the maps were drawn up. It’s A5. That’s as far as you can get on the
+scale in Draper. This is no different than me buying a commercial property that is zoned for two
+stories and saying I want to put eight stories on there and continually coming back to you to say,
+
+
+                                                 22
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 23
+come on give me that allowance, I want eight stories. So, um, even if you agree to this it’s not
+going to end. They are going to come back to you for rezoning the other 50 acres they want to do
+there. Um, in 40 years, I put this nice little map up here and say that’s a whole mountain that has
+gone away. That’s not, you know, when you look at that picture there is a whole ridge of a
+mountain. Mountains don’t grow back. Yes, you can plant a new tree. You can’t plant a new
+mountain. Um, in 40 years that Geneva has been on their land, they have yet to revegetate any
+space. I look over that edge every single day when I walk my dogs at flight park. It’s open pit.
+They have not revegetated anything, so to say this is what it’s going to look like when it’s
+revegetated that’s 75 years from now. That is not something that is going to happen in the next
+couple years. So, I just want to say that whatever you decide here, you are deciding what Draper
+is going to look like for the next 75-100 years and we don’t need a mine. Thank you.
+
+Chairman Adams: Thanks. Alright, Dr. Brian Moench and then we’ve got Allen Summerhays on
+deck after that.
+
+Dr. Brian Moench: I’m Dr. Brian Moench, President of Utah Physicians for a Healthy
+Environment. The largest civic organization of health care professionals in the State of Utah and
+one of the largest in the western United States. Our membership includes over 450 physicians
+many of them practicing clinicians, research specialists, and members of academia. We
+specialize in knowing the full extent of the medical research on the health consequences of air
+pollution. Air pollution, regardless of the source, is associated with a list of adverse health
+outcomes almost as long as the list from smoking cigarettes. Air pollution effects the function of
+all major organs increasing the risk of heart attacks, heart failure, strokes, neurologic diseases
+like Dementia, and impaired cognition, every type of lung disease, impaired fetal development
+and poor pregnancy outcomes, cancer, metabolic diseases like type two diabetes. Air pollution
+accelerates the aging process, shortens the average person’s life span, and causes increased rates
+of disease related premature death. It even alters genetic function and damages chromosomes and
+can impair the health of future generations.
+
+Dr. Brian Moench: Now, beyond these concerns there are unique health threats from the mining
+and gravel operations in this State, in particular the one at the point of the mountain. One is
+Crystalline Silica. Crystalline Silica is or, excuse me, inhaling Crystalline Silica is analogues to
+inhaling microscopic barbed wire. It cuts, and shreds, and scares lung tissue and people who are
+chronically exposed are subjected to a disease called Silicosis and then they are subjected to
+increased rates of lung cancer. Number two, there are heavy metals in concentrations in the area
+higher than what is normal. Soil samples done with our group and others have shown uranium
+concentrations four times the average soil concentration and arsenic concentrations twice normal.
+And then you have diesel exhaust. Diesel exhaust is a known carcinogen, in fact, studies have
+shown that residence who live near industrial operations that involve heavy amounts of diesel
+exhaust have a 50% increased risk of lung cancer and the workers have a 300% increased risk of
+lung cancer. And one other thing to bear in mind is the residence who live near this operation are
+actually exposed to more dust on a continuous basis than the employees are because they can
+never go away, they can never go home from work.
+
+Dr. Brian Moench: In short, Draper City Officials should consider their first priority to be the
+protection of the health of the residence of Salt Lake and Utah Counties, especially Draper
+
+
+                                                23
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 24
+residence. The decision on whether to appease Geneva should rest solely on what is best for the
+community at large, not what is best for Geneva’s profitability.
+
+Chairman Adams: Thank you. Alright, we’ve got Allen Summerhays and then after that is Mark
+Rich.
+
+Alan Summerhays: My name is Alan Summerhays. I live at 975 East 13450 South. I grew up out
+here in Draper before any of this was here. Uh, the graveyard was down there from the prison.
+None of this was here at all. I mean I knew the Hansen’s. I grew up with one of the Hansen boys
+and, uh, but I think that Draper City’s got to make a deal with, um, Geneva and the Clyde’s. The
+Clyde’s have made billions of dollars on this and they’ve got a lot of money in order to come in
+and just go to the legislature and take out Steepy entirely basically, and I don’t want to see that as
+a Draper resident. I live on six acres, I plan on dying on that six acres, I’m not going to develop it
+at all, and I don’t want to see Steepy go away at all. So, if we have one, two, and three and we
+take the two and bring it down and leave the high wall of the Draper side alone and maybe cut it
+down a little bit. I don’t know. That’s one thing that, Mr. Barrett, I don’t like them touching the
+high wall in Draper at all. This one over here on the south, north, side. That is in Draper, correct?
+Sir? Yeah, I believe it is.
+
+Alan Summerhays: And, but I’m in favor of Draper City trying to make a deal with Geneva
+Rock. I mean it’s just, we’ve been working on this for 12 years or more, and it just makes sense
+that, to get it done and that, or their going to buy it, their going to come in an buy the legislature
+and come in and their going to do whatever they want with it and then we’re going to be dead. In
+75 years when they take this out, in my opinion Lehi sold us out anyway by selling all that
+property and that and then selling it to a developer to build homes on it. And, so, that really
+screws Draper in my opinion, uh, right of the bat. So, I think we have to make a deal here and
+that, that’s my opinion. I’m, I’m, I’m different than most of the people, but I can just see the
+money people coming in and buying the legislature and then making up a bill to come in and
+take it over and then Draper getting the short end of the stick. And I thank all of you for your
+service and what you do here. And I apologize to the people, uh, in the audience that, uh, is for
+not doing anything, but I think that not doing anything is the wrong way to go. Try to make a
+deal with them and try to make the best deal we can. Thank you very much.
+
+Chairman Adams: Thank you. Alright, next we’ve got Mark Rich and after that Shawn Lessig.
+
+Mark Rich: Thank you, um, my name is Mark Rich. I live on 15127 South Moab Way, Draper.
+Thank you everyone for being here. I would like to acknowledge that Geneva Rock has the right
+to be here tonight to ask for a zoning change. The community also has the right to be here for or
+against the asked changes of the present zoning. It needs to be understood that if we the
+community say no to the zoning changes, we have not taken any rights away from the
+landowners. A5 land is a citizen’s strongest defense for keeping the mountain the way it is. For
+the citizens here tonight or listening to the recording later, A5 land could be considered as the
+community’s version of grandfathered rights. I’m also, I’m sorry that I must repeat, however, oh
+boy. I just need to say this one more time. A5 land could be considered the communities version
+of grandfathered rights. It has been mentioned before that A5 land is highly protected land. Why
+would the community want to change it to M2 zoning which is the most destructive?
+
+
+                                                 24
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 25
+
+Mark Rich: So, here we are again, Geneva Rock wants to expand their mining operations.
+Geneva Rock is not asking for anything different than before. Geneva Rock has, um, not interest
+in the community. It is not a good deal. It was not a good deal then and it is not a good deal now.
+Draper and the community have said no before, and we need to say no now. M2 zoning will
+allow more open surface land. That means no vegetation or dust mitigation at high elevation and
+is constantly, that is constantly bombarded with high winds. Um, uh, the community doesn’t
+want to breathe more silica dust. We’re trying to get that down. Um, so, I hope the Planning
+Commission will respond with a negative recommendation for all of the zoning changes. The
+community wants to keep the mountain intact, or at least what is left of it intact. The community
+does not want to expand to be exposed to more harmful silica dust anymore. I’m just going to
+stop there. It’s
+
+Chairman Adams: Thank you. So, we’ve got Shan Lessig and then Adrien Dybwad
+
+Shan Lessig: Good evening guys my name is Shan Lessig. I live at 343 East Manila Drive in
+Draper and I’m here to actually commend what you guys did for me. I’ve been a lender for 30
+years, a construction lender for 30 years, and I just recently built my home on 343 East Manila
+Drive. I was held to extremely strict standards, um, to the point where I had 27, uh, SWAPPP
+inspections. 27 on a home. Um, no violations, thank god, cause I paid attention to what I’m
+supposed to do. I live on a very steep slope that required me to spend an additional $70,000 in a
+foundation because of the steep slope and where I sit on Chateau’s Fence was, uh, unfortunately
+not built to the way it should have been built. So, we also had to retain our water to the street as
+opposed to having any rain gutters to the back. There are 32 houses that sit on that road. I’m the
+only house that actually retains the water to the front of the house. If you guys know it’s the very
+modern home that was just built a little less than a year ago. Um, what I’m here to do, is I’m here
+to commend what you guys do. I deal with you guys on a daily basis and I appreciate that in my,
+what I do for a living and what I do for my community.
+
+Shan Lessig: I want you to hold them the exact same accountability that you hold me and
+anybody else that builds in Draper, because what we’ve been able to create in Draper as a
+community, is a very strong community. People that want to live here and we have a very high
+standard. And my wife and I walk every single day, seven days a week. And I see the pit every
+single day and I have never seen that pit taken care of the way that the pit should be taken care of
+based on the way I was forced to take care my home during construction. And for that reason, I
+really believe that you guys have done an amazing job. Keep it up, because that’s why I moved
+to Draper from Sandy. And I love living in Draper because of the quality that you’ve done for us.
+So, thank you.
+
+Chairman Adams: Thanks. Alright, Adrian and then after that we’ve got David Bennett.
+
+Adrian Dybwad: Good evening. Thank you for letting me speak. My name is Adrian Dybwad. I
+am a resident up on the bench, uh, in Moab Way. Um, I just want to point out that Perry was
+mentioned in the beginning of this as being one of the partners, but there is no mention on any of
+the official documentation of the name Perry, at all. Draper also, Staff called the activity in Lehi
+mining, as did Geneva, they also called it mining, yet to Lehi it’s mass grading. We do know it’s
+
+
+                                                 25
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 26
+mining but they call it mass grading. I’m scared they are going to do the same thing here with
+that area four. And this picture is a really superb picture to see just how much, uh, area four and
+area three involve. They are going to mass grade area three, it’s a huge section, and if you
+imagine all that exposed going straight over the ridge to the houses that are right there. Already,
+with the development at the very end it’s quite bad. That development at the back there is
+relatively new. We haven’t had much of a season yet with that. All of that’s been opened up in
+the last year. So, we really see a lot of dust from the mine as it was. Were going to expect so
+much more from it.
+
+Adrian Dybwad: Um, so, they call the 27 acres it’s actually 77 acres because that area four and
+area three you should see as one. When they start on the area four, they will go all the way
+through to area three. They will call it mass grading. It’s a mountain how can you develop it?
+How can you build businesses or houses there? It’s a mountain, you have to flatten it, that’s what
+they want to do. They’re a mining company they mine. They will flatten it, they’ll sell the gravel,
+and we’ll all pay the price.
+
+Adrian Dybwad: So, I proposed that, um, these amendments are not harmonious with the overall
+character of existing development in the vicinity of the subject property due to the additional
+types of uses that could be allowed. This area has been called silicon slopes and it is fast
+becoming home to large high-tech companies with the likes of Adobe and Pluralsight right near
+the mine. The rezone would open the door to mining for many years to come in the fastest
+growing residential area, in fact, in the whole of the State of Utah. I propose that the M2 zoning
+designation contemplates uses that are inappropriate for an area that is becoming more
+dominated by residential uses, heavy industry, diesel exhaust, dust, trucks, and dangerous high
+walls have no place in one of the fastest growing places in the State of Utah.
+
+Adrian Dybwad: Of course, lots of people have already mentioned it, the high wall is their own
+doing. It’s lets dig up to the property line and then let’s ask for forgiveness and say oh well
+we’ve got this situation we have to go into Draper. And by the way, when you give them that
+high wall and let them come into Draper you are actually letting them earn more money, so you
+are rewarding them. They are the screaming kid that wants that toy and you are going to take it
+off the shelf in the store and give it to them? Good luck to you in dealing with that kid tomorrow
+because they will be back, and they will want the next toy and they will be screaming louder.
+
+Chairman Adams: Thank you. Alright, we’ve got David Bennett and after that Peter Adams.
+
+David Bennett: Hello. My name is David Bennett. I’m a Draper resident at 921 East Spiers Lane
+and just very simply I’d like to ask you to vote no. The health of our children, Draper citizens,
+and the Wasatch Front community should not be up for negotiation. Second point I’d like to
+make is, I was here last time Geneva was here and it was standing room only out there. We’ve
+spent most of this meeting also out in the hallway. If they get on the schedule again for the
+Planning Commission or City Council, please get a much larger venue. There are so many
+Draper citizens that are very passionate about this. Put it in Draper Park Middle School
+auditorium or Corner Canyon auditorium where you can see the full impact of all the citizens
+that are very passionate about this. Thank you.
+
+
+
+                                                 26
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 27
+Chairman Adams: Thanks.
+
+Peter Adams: Good evening Council. My name is Peter Adams. I live on Summer Leaf Drive
+here in Draper. Um, as you mentioned at the very beginning, um, if you’re last most points are
+probably already been taken and much of that is true. Um, one of the points I want to make
+though, I mean I agree that, uh, Geneva, um, Rock, it’s an eye sore, um, that points been made.
+It’s unhealthy, that points been made. Um, the perspective that I have visually. Fortunately, with
+the, um, areas that are being, um, recommended to save, I won’t see the eye sore growing any
+more in my direction, which is fortunate.
+
+Peter Adams: But the one thing, um, that I am passionate about is the safety of my family and the
+safety of my neighbors and obviously my own safety. I travel the road every day, multiple times,
+that leads down, what is it, Highland Drive, to the east frontage road, right there by Maverik, that
+goes onto the freeway? Um, Geneva Rock may not necessarily be able to control, um, you know,
+the trucks that go in and out of there once they hit that, once they leave their yard, but I can tell
+you the irresponsibility of those drivers every day as I’m sitting at a light waiting for it to turn
+green I watch their trucks run red lights. And I have had so many close calls. My wife has
+mentioned to me that she has almost been run over through an intersection as one of these
+massive, you know, belly dumpers, or whatever they call them run a red light you know. And uh,
+so, I would like to see, you know, there is probably not much I can do to control what happens
+here, um, but I think everybody needs to recognize that any increase in the size of, uh, this
+quarry, um, any additional, uh, mining that goes on there is going to increase the traffic that, uh,
+you know, is along that road.
+
+Peter Adams: Um, it was mentioned, you know, the expansion, um, in this portion of the valley
+with silicon slopes coming on, you know, with the prison site being developed. The demand for
+their product is only going to grow and so the greed of this company is going to grow, you know,
+with that. As they see that demand, um, you know, whatever they have said they would protect
+now, I wouldn’t be surprised if there aren’t some political pressures in the future to change all
+that. I recognize they’re a political clout, you know, UDOT is one of their largest customers, and
+there is a lot of clout that goes along with that.
+
+Peter Adams: So, from the safety perspective again, if nothing else, if whatever comes out of
+this, if they recognize the fact that, uh, they should be responsible to some extent for the
+negligence of the contractors and sub contactors that come in and out of there, their lots. The
+more traffic that is there the more dangerous it is for my family and myself. And literally every
+single day I see big trucks running lights, um, and in the years that I have been siting there I have
+never seen a Draper City police officer there monitoring that, so that’s something that needs to
+change as well. Thank you.
+
+Chairman Adams: Thank you. Alright, we’ve got one more on here Audrey Albrecht. And then I
+just want to be courteous to the people out in the hall, um, do you want to check real quickly if
+there was anyone out there that didn’t get the message on how they can contribute if they would
+like to.
+
+Chad Smith: That’s only one more card? I know I put in a card.
+
+
+                                                 27
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 28
+
+Chairman Adams: Uh oh, you’re outing your self as one of the no namers.
+
+Chad Smith: No. I definitely had my name on it.
+
+Chairman Adams: Why don’t you fill one out. You’re welcome to come one up just after
+Audrey.
+
+Audrey Albrecht: Hi. I am Audrey Albrecht. 14913 South Manila Drive in Draper. Um, I wasn’t
+planning on coming up today. I’m not going to be as eloquent or as well prepared as anyone else
+here, but I don’t mean to get emotional, but it is emotional to me. I can’t walk. I live on the same
+street and I don’t dare take my daughter out there not just because of Geneva but because of the
+air pollution and it’s only going to get worse. I know I’m just reiterating the same point but look
+at this sweet girl and think of your families and just I can’t, I don’t dare take her to the park. And
+if this mine continues to grow whether it’s just the 27 acres or if they come back and rezone it
+again, I can’t imagine how many of us are going to have Lung Cancer. I can guess that the
+majority of us don’t smoke or have stopped smoking, but our risk for getting Lung Cancer is so
+much more increased here in Salt Lake, um, and Utah County, because of the, like we
+mentioned, the mountains and stuff. It is equivalent to smoking like one cigarette a day for each
+of us and that’s significant. Not to mention all the wind that’s going to come and who knows it
+will be like we are smoking two cigarettes and I can’t imagine my daughter breathing that air
+every day. And just, again, I’m not as eloquent, I don’t have all the statistics or anything like
+that, but I just want my name to be on there. I want to stand up for my daughter because she’s
+not old enough to be up here and stand up for herself and for her kids, and for anyone else that is
+going to live here. We love it, it’s beautiful, but if I can’t breathe then what’s the point of living
+here. Thanks.
+
+Chairman Adams: Thank you. Alright, so I’ve got Chad Smith and Aaron Cooley. Thanks. I’ll
+get you in there.
+
+Chad Smith: Hi. Chad Smith, also a Draper resident, 14039 Sagehollow Drive. Um, and I had
+some personal anecdotes to share about, uh, you know, play dates where you pick the house
+that’s furthest from the mine, or choosing to exercise outside, or away from Draper because it’s a
+windy day, um, but a lot of people here are residents and have talked about that. Um, I think the,
+uh, the bottom line is we know this is something the residents of Draper are not interested in. It’s
+not in the best interest of the City. Um, but I guess the bottom line is that’s not really news, um,
+that the overwhelming voice of Draper residence have been strongly against mining expansion.
+And it’s not really news because we had a big meeting about this in 2018, right? And then our
+local officials, elected officials, instituted a change that would prevent mining expansion.
+
+Chad Smith: So, why are we here? A couple of people have mentioned House Bill 288. Um, and
+I understand you are in a difficult position here and I understand there are a lot of moving pieces
+and when there are billions of dollars at stake companies can buy influence. And, uh, I realize
+that Draper is caught in the middle of that and as a Planning Commission you’re caught in the
+middle of that. Um, so, because we feel a threat that if Draper doesn’t work with Geneva then we
+risk having the State step in and remove any choice or ability to negotiate on behalf of our
+
+
+                                                 28
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 29
+citizens. With that being the case, I assume you are all already well aware of what the residence
+think, what the health ramifications are, how this effects property values, etcetera, etcetera.
+
+Chad Smith: My ask is that, um, I mean in an ideal world that we, any appeal for expansion
+would be, would be shut down. Um, if you do feel compelled to allow this. I have a request.
+Please add a note to any positive recommendation you may give that you only do so under duress
+and fear that not doing so would result in the project happening anyway and in a way that would
+be even worse for Draper citizens. And if Draper City must negotiate, please let those
+negotiations not just center on deeding over land, um, that is likely not, well. I am running out of
+time.
+
+Chad Smith: I’ll just say let’s focus on our health. There are a lot of things that Geneva could do
+to make our health of Draper citizens better today. I have a big old list and I don’t have time to
+go through it. Um, but, uh, things like their silt sand piles, the garbage sand that’s left over that
+they’ve done nothing to take away since the mine opened. Um, they could burry that, they could
+cart it away, they could revegetate has been mentioned. They could stop working when, if it’s
+too windy to mitigate, it’s too windy to work. Uh, there are a lot of things they could do. Please.
+Thank you. Thank you for your help.
+
+Chairman Adams: Thank you. You’ll have to excuse me. I lost track right there. What was your
+name that just, you came up? Chad Smith. Okay, give me just a second here. So, that was Chad
+Smith. Your name?
+
+Aaron Cooley: Aaron Cooley.
+
+Chairman Adams: Okay, stand by. So, Aaron Cooley’s next and then after that we’re going to
+have Mark Kimsey. Go ahead.
+
+Aaron Cooley: Aaron Cooley, 361 Manti Drive. Uh, I live just a little bit down the hill from this.
+Uh, appreciate the opportunity to come and comment on this and, uh, that you’re willing to listen
+to the citizens of this great City. Uh, when I was in, I want to say second grade, I learned the
+longest word in the English language. Anybody know what the longest word in the English
+language is? It’s pneumonoultramicroscopicsilicovolcanoconiosis and I just thought that was
+hilarious that there was a word that long in the dictionary. It’s like 53 letters. And it turns out that
+word is just a fancy way of saying Silicosis. I never thought when I was in second grade
+memorizing the longest word in the dictionary that I would be memorizing a disease that I would
+later in life be put at risk of actually developing. And, just really briefly did a little look on the
+American Lung Association’s website. It says Silicosis damages the lining of the lung air sacs,
+once this begins it leads to scarring, in some situations to a condition called Progressive Massive
+Fibrosis. Um, people with acute Silicosis experience cough, weight loss, tiredness, may have
+fever, or sharp chest pain. Uh, you might hear wheezing or cracking when your healthcare
+provider listens to your lungs. It increases the risk of other problems such as Tuberculosis, Lung
+Cancer, and chronic Bronchitis. Doesn’t sound like a ton of fun.
+
+Aaron Cooley: Um, the previous picture that was up here showed this really ugly high wall and
+how beautiful its going to look when the high wall goes away. I don’t know if there is a way to
+
+
+                                                  29
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 30
+bring that up. I’m sure it will look nicer, but that big ugly high wall right now is the only thing
+protecting us from this dust, from these fine Silica particles that are going to come in and rip our
+lungs apart. I’ll tell you that I’ve here the argument that Geneva owns this property, they can do
+whatever they want with it, that’s half true. They own it, but they can’t do whatever they want
+with it, it’s your job as a Planning Commission, and City Council’s job, and our job as citizens to
+decide what that should be zoned for and when they bought that property in about 2000, they
+factored the zoning into what they paid for it. If we don’t give them this additional expansion, I
+promise they are going to be okay. They’re going to be able to retire comfortably, sleep at night,
+they are not going to have ton of problems.
+
+Aaron Cooley: Um, the prison is going away. The point of the mountain is changing. This is
+becoming not an industrial area, this is a residential area, this is a high-tech area, this is one of
+the most desirable places in the State and the entire Rockies to live. It’s called the Silicon Slopes
+note the Silica Slopes. Now, I’ve also heard that there is a concern that the State might step in
+and force us to do this anyway. I would just like to say sometimes you have to do the right thing
+regardless of the consequences. Um, if we don’t do this then there will be a lot of anger and a lot
+of frustration. Maybe Ben McAdams won’t be the only Democrat. Um, finally, this is my
+daughter Charlotte and she asked me this morning, what is more important, which would you
+rather have $100 or a healthy baby. I think it’s a fair question. Thank you.
+
+Chairman Adams: Thank you. Alright, so now we’ve got Mark Kimsey and after that Lisa
+Holcomb.
+
+Mark Kimsey: My name is Mark Kimsey. I live off of Steep Mountain. Just wanted to be here to
+voice or provide a voice for the tech community. I am that geek that you wanted to move here. I
+actually relocated to Draper three years ago for a tech opportunity. I also had another opportunity
+from your great company Amazon, up in Seattle, decided not to go there. I came here and I came
+here because of the recreation. I came here because I could walk outside my house in Draper and
+hit those mountains. They are beautiful. I want to keep them. I think there is irony that your
+actually, you know, that we’re here talking about removing the point from the point of the
+mountain. And, you know, the Silicon Slopes have great branding, they’re going to have to
+constantly change that image as we constantly change this mountain. Um, as easily as tech
+people can move in, we can move out. So, the voice from the tech community, the people that I
+talk to, we love being here because there is that availability to public land and public space and
+the beautiful mountains. So, thank you.
+
+Chairman Adams: Thank you. So, now Lisa Holcomb and then after that we’ve got Neil
+McGarry.
+
+Lisa Holcomb: Hi, Lisa Holcomb, 1884 E Vista Ridge Court, Draper. Um, I won’t resound
+everything that, all the other concerns, um, but want to say that the House Bill is concerning. I
+understand that puts a lot of pressure, um, on everybody. And we don’t want to be a community
+that is threatened. We want to do what we believe our morals; our ethics of Draper represent us
+as a City. We do the right thing. If somebody else comes behind us and does the wrong thing,
+that’s not on us, that is not on us as a City. We want to stand proud. Right now, there are so
+many eyes on this, on Draper, on the County, the City, Statewide. What is going to happen with
+
+
+                                                 30
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 31
+this. We are in the limelight right now. Remember a few years ago when they wanted to bring a
+homeless shelter into Draper and people said oh no. Do we want to be known as the City that
+turned down a homeless shelter, but brought in mining? I don’t want to. Thank you.
+
+Chairman Adams: Thank you. Alright, we’ve got two more and then we’re going to take a quick
+break. So, we’ll go ahead and let you go Neil and then we’ll have River, is it Steimle, after that
+and then we’ll take a break. Um, alright.
+
+Neil McGarry: Thank you. My name is Neil McGarry. I live at 15278 South Steep Mountain
+Drive. My house is actually among the closest residence that’s on that map there to the proposed
+rezone. I want to thank, uh, the volunteer Commissioners here for, you know, this hearing on a
+clearly sensitive issue. The current dust suppression systems at Geneva are totally inadequate.
+Um, I’m constantly working at cleaning up dust inside my house and I run supplemental air
+cleaners in there 24 by 7. I can’t leave the windows open in my house since the dust moves in so
+quickly. Expanding the mine would only make this problem worse for myself and many others in
+the community. As I said before, Geneva has not reclaimed or revegetated any of their land up to
+this point. Their guise of mass grading for mining is a lie on their part and they have proved to be
+untrustworthy in front of this Committee before. They are simply a bad neighbor to all in Draper.
+The mines expansion would be many hundreds of feet above I15, a notoriously windy area, and
+would affect local residence as well as those living miles and miles away throughout the valley.
+
+Uh, the proposed amendments are not consistent with the goals, objectives, and policies of the
+Draper City General Plan. Um, a change to M2 zoning uses are inappropriate for an area that
+becoming more dominated by residential uses and soon to be home to a technology center at the
+prison site, that we want to attract high profile companies to and not scare them away.
+
+Uh, land use and development goals of Draper include, uh, promoting the public health, safety,
+convenience, and a general welfare of its residence. Uh, an expanded mine is not compatible use
+next to a residential zone. Draper City set a precedence 20 years ago not to be a mining town and
+they should continue with this precedent. The conservation easement or open space trade for a
+rezone is simply not worth it. I urge the Commission to forward a negative recommendation to
+the City Council. Thank you.
+
+Chairman Adams: Thank you. Alright, River we’ll go ahead and hear your comment and then
+we’ll take a quick break.
+
+River Steimle: Hello, I am River Steimle. I live on 67 E Manila Drive and I’m here to say, that
+I’m here on behalf of all the children in Draper and I want to grow up and be proud of my
+hometown. I say that Geneva Rock has never had major boos or cheers but today I change that. I
+am putting a boo on the rock. All of their mining will put dust in all the air taking away homes of
+animals, your breath, and the chance to go paragliding. We all hate the dust. Friends of ours did a
+study that showed mining here would have a major impact on wind in the valley, which will
+disrupt weather patterns and the snow. Let’s vote to keep the greatest snow on earth. And lastly, I
+have heard that there is Silica in the dust which is known to cause lung issues. My lungs and the
+lungs of my friends are still developing. Please help them grow healthy. To everyone in this
+
+
+
+                                                31
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 32
+room I issue, this issue is present during voting season, I can’t vote yet, so, make sure that you
+do.
+
+Chairman Adams: Thanks River. [clapping] I’ll let that slip just a little bit there. Alright, let me
+go ahead and grab this last one. We are going to go ahead and take a five-minute bio break.
+
+Jason Porter Rickabaugh: Hey my notes are on my card if I could give this to you
+
+Chairman Adams: Yeah, yeah give me your card and then
+
+Jason Porter Rickabaugh: My notes are on here. Can I give it to you in a minute?
+
+Chairman Adams: Yeah, totally. So, just time out. We’re going to take a break right now.
+
+Jason Porter Rickabaugh: Oh, right now? And then I’m first?
+
+Chairman Adams: So, just keep that handy and then we’re going to take a five-minute bio break
+and come right back in.
+
+Motion: Vice Chairman Hawker: Mr. Chair. I’ll make a motion to recess.
+
+Chairman Adams: Thanks. Uh
+
+Second: Commissioner Squire: Second.
+
+Chairman Adams: Alright, motion to recess passes.
+
+Chairman Adams: Alright, we’ll give a 60 second countdown. Okay, we are re-adjourn here in
+the next 20 seconds if you’ll grab your seats. Alright, thanks for participating in that quick break.
+So, now were going to go, start back up with the public hearing, we’ve got a few more. Uh, and
+then we’ll deliberate. So, why don’t we go ahead and start back up. If you’ll just come up state
+your name and your address and you can hand me your car when you’re finished.
+
+Jason Porter Rickabaugh: Hi, Jason Porter Rickabaugh from Riverton, Utah. Um, 214 Glen Ave.
+Um, yeah, I just wanted to say that I am, uh, opposed to the mining. I am also very concerned
+about making, uh, the earth product extraction a, uh, permitted use as opposed to conditional. I
+mean this is obviously a very volatile, or has a potential to have a very negative health impact on
+the community and should be, uh, watched out over by the City government. So, I believe it
+should remain a conditional use. Um, I’d also like to thank the Commission and all the staff and
+Mr. Baird for representing his client.
+
+Jason Porter Rickabaugh: Um, I also wanted to point out, cause this often gets, uh, confused that
+the DOGM, doesn’t, the permit that they hand out is one to clean up after yourself. It doesn’t
+grant extra rights. It doesn’t give approval to the cities or other municipalities or DAQ. I mean,
+they have a very specific mandate and they do a very good job doing that, and um, I’m glad that
+they’re here tonight. I. One thing that I wanted to clarify is like, number one, uh, the elevation
+
+
+                                                 32
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 33
+they had to use to produce this map is old. As you can tell from that, uh, conveyer belt there that
+doesn’t really have that big arc in it. So, things are a lot steeper than they appear even with the
+exaggerated elevation from Google Earth. Um, you know, Geneva made a six-million-dollar
+mistake when they mined that. That ridge is supposed to be at 33 degrees according to the City
+of Lehi. Now the division can only hold them to 100% grade or 45 degrees, uh, per the
+reclamation contract, but the City of Lehi has a slope requirement of 33 degrees, so that’s
+something to keep in mind.
+
+Jason Porter Rickabaugh: And, I have heard the division say before that Geneva is the best in the
+industry, well if that’s true, I mean, it makes one wonder whether, that this was intentional. Um,
+somebody said earlier that, uh, Geneva was trying to bulldoze the City of Draper and, uh, force
+them into allowing them to do this. Now, one thing that I’ve always been kind of disappointed
+about is that, that right there is supposed to be a housing development. Right? You guys saw the
+overlay of the concept plan, and granted the concept plan doesn’t need to be anything like the
+final product, but do you really see, uh, pipes and roads up to that summit on 100% grad or
+greater? Or just slightly under that? I mean, does that look like planning to you?
+
+Jason Porter Rickabaugh: And, uh, Mr. Summerhays, you know I really appreciated everything
+he has done for the city over the years. I think he’s right; you know, the City needs to make a lot
+of considerations about this, but I’m sure the HB288 is not going to go through. I mean they
+might as well un-incorporate Draper and all the other cities, I mean you guys are responsible for
+zoning and to take away that power at the State level just seems ridiculous. And I don’t think
+they’re going to do it. And I think the City needs to stand up to them and they’ll never take the
+front of that ridge and we need to keep pushing forward and doing the right thing. And, um there
+is a lot of other things I’d like to say, but I really appreciate your time. Thank you.
+
+Chairman Adams: Thanks. Alright, so two more we’ve got, it looks like Karis Leon Wingster
+and then right after that Diane Hooper. Oh, perfect. Come on down. Did I say it ok?
+
+Karis Wingster: You said it perfect
+
+Chairman Adams: Perfect. Alrighty you just come back up, restate it so
+
+Karis Wingster: My name is Karis Wingster. I live at 493 Elizabeth Day Cove, so I pretty much
+live down below the hill there. Um, yeah, I’m opposed of Geneva with the expansion as well.
+Um, one of the gentlemen made some point. First of all, I drive trucks for a living. So, I’m
+familiar with the diesel, everybody’s complaining about the diesel, but which some of you guys
+have to realize that without trucks you’re not going to get a lot of your stuff. Um, some of the
+problem’s you guys are talking about, one gentleman was mentioning, the only reason I was
+speaking because I need to defend some of the truck drivers. Okay.
+
+Karis Wingster: So, Geneva do have some good points cause you know, you shut down the
+plants, a lot of drivers won’t have jobs. So, you know, you need the plant. I don’t too much care
+about an expansion, but you know we need our jobs. Truck drivers need the work. We need, you
+know, to do our stuff. The light down there at the Maverik places, the light changes, excuse me
+I’m nervous because I’ve never speak in front of a big crowd before. The light at the Maverik it
+
+
+                                                33
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 34
+changes too fast, so, and I’m not excusing drivers from running lights. I’m not one of them, but
+the guys with the, the dumps, that have two trailers, the light changes fast, and what the
+gentleman was talking about is he might be in front of the light, beneath the light signal, and
+when they probably see it he’s already beneath the light he’s making changes that he seen two
+trailers make that turn that’s going on. They need more time at the light. So, I’m not making
+excuses for it, uh, I’m just trying to clear that up. You know until you get yourself a rig you can
+kind of see what is going on. We have cameras to try to see what is going on, but about this thing
+here with Geneva I, like I said, I’m against it because of pollution. I see all the stuff going on, so,
+like I said I’m against it and that’s pretty much all I have to say about it. So, thank you for my
+time.
+
+Chairman Adams: Thank you. And then Diane Hooper.
+
+Diane Hooper: Hello. Diane Hooper. I live at 472 Steep Mountain Drive. Um, our home is right
+in front of the mountain. Um, we love living here in Draper. Um, I’m not from here originally, I
+lived in New York most of my life and moved out here about 15 years ago. Um, my husband and
+I were debating, when we got married, if we were going to buy a house here in Utah and stay.
+And we weighed out a bunch of different pros and cons and we always loved Draper. We were
+living in Sandy at the time and we loved Draper and we thought we eventually want to move and
+live in Draper. Well, I didn’t know about the mine or the issues with, uh, sand, or silica, or any of
+that when we bought our house five years ago. Um, so of course I’m coming to learn about all of
+these different things, um, in the last few years and the more research that I do the more, um,
+afraid I get of letting, um, letting the mine be expanded any further than what it already is. Um,
+specifically because of the health concerns, uh, with pulling all of that, uh, pollution into the air.
+
+Diane Hooper: We already have trouble with pollution here in the State, um, with you know, cars
+and things like that. Um, but, I’m. I have my children here tonight with me and I. My son. I
+didn’t want to come up here and speak. I am afraid of speaking in public and, but my son is here
+with me tonight and, you know, he said mom go up there and talk. He’s like, this is important. I
+want to bring them to these meetings and have them understand that there is a process that we
+have to go through, um, you know when things don’t seem right to us. We have the ability to
+come up and talk and present, um, maybe not so eloquently sorry. But, um, we can state our
+feelings and our observations and at this point in time I just feel that we don’t need any extra
+help here in the Salt Lake Valley, uh, with our pollution problem. And the mine causes pollution,
+it causes health concerns and I’ve heard of lots of people, um, getting really sick from this silica
+dust. And so, that’s my concern. I love Draper. I love living here in Utah, it’s amazing, uh, and I
+came from a pretty amazing place. So, I would just like to see our City stay amazing, you know,
+and then my son, I think he wanted to just say a little something.
+
+Mr. Hooper: I don’t like Geneva Rock. I hate the poor air quality were getting here, and I like
+Draper as my hometown. And I don’t want them to rezone.
+
+Diane Hooper: And maybe my little girl wants to say something. Go ahead. You can talk.
+
+Ms. Hooper: I don’t know what I want to say.
+
+
+
+                                                  34
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 35
+Diane Hooper: Oh, time is up. Thank you.
+
+Chairman Adams: Thank you. Appreciate it. Okay, so, before I proceed, I’ve got a little tally list
+up here. We’ve got quite a few items that have brought up, and this is why we appreciate this
+portion of the meeting. It really does. Uh, you know we live here too, we have our, uh, ideas
+when these things come before us. So, we really want to, uh, tell you thanks for sharing your
+input because it does help expand our thought process in all this. So, if there is not anything that
+is going to be added we’ve hit a couple, these aren’t all the topics, but dust and air quality has
+been by far number one. Uh, we’ve got the high wall problem over in Lehi has been mentioned.
+Got House Bill 288. We’ve got the trucks, the rock chips, all those things. I think we’ve got the
+whole gamut up here. So, with that, um, I’m just going to ask if there is anything else that hasn’t
+been talked about that needs to be discussed. If not, we’ll go ahead and close the public hearing
+portion. Do you have something that will, that hasn’t been brought up? You bet. Just go ahead
+and hand that to me and well wrap it up right after you.
+
+Mark Evans: Uh, Mark Evans. I live at 14928 Manila Drive. Uh, I’ve never been to one of these
+zoning things before, but from what I see, based upon the first propositions, uh, there was
+conditions, you know. We wanted the decorative concrete, or the. Why is it that these people can
+get away with doing absolutely nothing for dust mitigation for the most part? You see one water
+cannon out there every now and then. For the area they have disturbed there should be 50 of
+those running 24/7. They are not making any effort to reclaim any part of the mine that they’re
+done with, they’re making no, it seems to me that they are just tearing it as fast as they can to get
+away with as much as they can as fast as they can. Why can’t there be some conditions put on
+them. Okay, maybe we could compromise let you take some of the steep slope based on make an
+effort, to stop the dust, make and effort to re-plant some of this. Some of this, you’re not digging
+everywhere. Fix some of this. Just don’t let it keep flying. Make a small effort for the health of
+people. That’s all.
+
+Chairman Adams: Thank you. I appreciate that. I stand corrected, so, dust can be split into air
+quality and dust mitigation. How’s that? Thank you. Alright, we’ll go ahead and close the public
+hearing portion. We appreciate everybody. Thank you so much for being courteous. Like I said,
+we’re all neighbors we all want a good quality of life and have businesses strive here and strike
+that delicate balance between living here and, uh, having healthy business function here. So, uh,
+Commissioners, there’s a couple things. What I’d like to do, is we’d love to invite the applicant
+up in a moment, but first while this is all fresh, I’d like to just be able to discuss some of these
+items. So, while it’s fresh what are your thoughts. Let’s talk about some of these items that have
+been brought up.
+
+Commissioner Squire: I feel like you’re looking at me so I will start. And I will say many of you
+have come to several of these meetings since I’ve been on the Planning Commission just shy of
+two years. This is the third time we’ve heard, uh, an application concerning, um, the mining.
+And, um, I would say the Planning Commission has led the charge, all of us up here. The last
+vote was unanimous to remove mining from the code, um, as a, as a use at all. And for that we
+have been punished greatly. So, we have led the charge. We have been fighting this and, um,
+Geneva sticking it too us for doing that, and I want you guys to know that.
+
+
+
+                                                 35
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 36
+Commissioner Squire: Um, they have gone to the State, there has been reference to House Bill
+288 that went through last year. That is not an idol threat. That was signed by the Governor. And
+I have talked to legislators about this, I was up at the Capital three times last week on different
+issues and when I was there, I asked specifically about House Bill 288. It is not idle. It is real.
+And we need to figure out how we need to approach this as a City. And if we want to fight
+Geneva Rock and continue to say no, the State will step in. And then we run the risk of all four
+of those areas being mined. I just want to be really clear about that. I have voted no and against
+Geneva Rock every single time, so do not misunderstand my motives and anyone else’s motives
+up here. We all live here, as Andrew has said, and, um, we want a nice place to live too. Wanted
+to start with that. And Mike, Mr. Barker, sorry. Could you maybe address House Bill 288 a little
+bit or is there somebody? I understood somebody was prepared to do that. I don’t know if you’re
+the best person.
+
+Mr. Barker: Do you have any specific questions. I mean, it is law, um
+
+Commissioner Squire: What does it enable the State to do? I would like to understand that
+specifically. In the, uh, public forum.
+
+Mr. Barker: What House Bill 288 did was establish mining operations with gravel, I’ll say gravel
+mining operations, as a critical infrastructure material. So, the gravel itself is a critical
+infrastructure material. Uh, it created new definitions for critical infrastructure, uh, operations,
+mining operations. Um, and so it amended, um, the statute in State Code called LUDMA which
+is the Land Use Development Management Act, which is kind of the State zoning, if you will,
+that cities have to follow as well as counties. Uh, and so it amended portions of LUDMA. Um, it
+also, um, my understanding is the original bill, um, dealt with the issue of, um, expansion, mine
+expansion into lands adjacent to areas that are currently being mined. Um, I guess as a
+compromise that portion was taken out of the bill, but what was inserted at the end of it was
+basically, I mean it’s not a traditional moratorium, because a moratorium generally has a time
+frame on it, but there is, we’ve talked about this prohibition against the City taking adverse
+action against, um, gravel mining while that is still law, and it is still law, and so that’s why
+you’ve alluded to the vote last year by the Planning Commission to recommend that, um, mining
+be prohibited in the M2 zone. Well, that portion of HB 288, really, the actions, if the City had
+done that, they would have probably been in violation of HB 288. So, that’s why we stopped
+moving that forward.
+
+Mr. Barker: What’s not specifically in the Bill, but what was definitely, uh, the Legislatures
+intent, was that the mining operators get together with cities and counties and have a dialogue to
+see if some of these issues such as expansion of mining, etcetera, could be negotiated and come
+to a resolution without the legislature having to impose itself, if you will, and make those
+decisions. So, Draper City has been involved with a coalition of other local governments this
+past summer and fall. Geneva was represented as well as other mining operators to sit down
+around the table and figure out what the issues are, is there anything the sides can agree on to
+take to the Legislature. Well, the talks kind of stalled, um, and that’s really why you’re not
+seeing any new bills this term, or this session and I don’t know what the Legislature will or will
+not do if we, if the City approves or denies Geneva’s application. That would be purely
+speculative, but HB 288 is in place, it puts restrictions, you know, on the City’s ability to
+
+
+                                                36
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 37
+regulate. And, um, what the future holds, I don’t know. I don’t have a crystal ball and I don’t
+know, um, so, kind of a rambling way I hope of answering your question but
+
+Commissioner Squire: I think that was a fair answer. Thank you. Yes.
+
+Commissioner Van Hoff It sounds to me like, what it’s saying, is if their asking for a rezone
+here. They already have M2 on some of this other area where they can mine, but it doesn’t say
+we have to provide them the M2 zone.
+
+Mr. Barker: No. Curt law does not require the City to provide that.
+
+Chairman Adams: So, back to, uh Mary, what you’re mentioning. We’ve seen this, this is the
+third time, correct? That Geneva’s applied that we can recall.
+
+Commissioner Squire: Since I’ve been here.
+
+Chairman Adams: And so, there is one, here is a couple observations in those meetings. I was
+actually not in attendance, I think, for the second one, but for the first I was. And, at that meeting
+all tell you what’s absent from this meeting. We had the hang glider pilots in here, and the major,
+that’s changed, they are not here, if you’ve noticed that, we didn’t get anybody in here this time.
+Well, okay, I don’t want to make general, alright, okay, before I step in it, let me just say that I
+did not hear to the extent in this meeting anything like that first meeting. That first meeting was
+if you cut into this hill you will ruin the natural phenomenon that gives us the wonder of the
+thermals and whatever we have up there. And then after that meeting I was offered to be taken
+tandem, which I declined because isn’t that where they can just strap you on and strap you off
+just as easily. So that was, so I declined, because I knew nothing about it, but in all seriousness
+that argument whether it’s gone or not has been resolved because that was one of the biggest
+fears is cutting into that Steep Mountain and that with this meeting point that is not on the table
+anymore is to cut into Steep Mountain.
+
+Chairman Adams: So, one of the things that we are gaining from this. And a development
+agreement is something that the City can put together where some, it’s really just horse trading
+with what our existing codes and rules are. And so, if the City’s not getting something back, we
+always look at development agreements and go then why in the world would we do it. And
+sometimes we get back a park, a trail, sometimes we get back money to go invest back into
+whatever it is, and in this case, uh, for this development agreement even though we’re not voting
+or passing on recommendations on that, um, what is a plus is that the front side of that is
+protected, the back side of that is protected. Area three, I don’t think can even be seen from the
+ground anywhere in Draper, and I may be mistaken on that, remember I’m the 35-foot piece of
+string with a red balloon guy. So, but from my assessment that area three cannot be seen. So, to
+me that is one win for the City and Jennifer, I don’t want to get off this slide, but the general
+assessment is the amount of area asking to be mined between this application and the one in
+2018, the mining area is less. Is that a fair statement?
+
+Jennifer Jastremsky: Correct. The 2018 application had, uh, 72.97 acres that they were looking to
+mine.
+
+
+                                                 37
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 38
+
+Chairman Adams: Okay. So, those are the two things that I am seeing on here. The air quality
+has not gotten any better, not one bit better, and if anything, it’s getting worse. And it’s the air
+quality, it’s the dust mitigation and whether we said yes or no for any of these for these last three
+meetings that’s not gotten better. So, I’m not here to say that this is the best solution. I’m here to
+point out that over time these negotiations are getting better and it’s kind of like when I used to
+fight with my sister, I could work it out with her, or it would go to mom and dad and that’s really
+what the State and the Legislature, you know, in a roundabout way had wanted to happen is you
+kids work it out and if you can’t then we’ll step in. And it would be a darn shame if we don’t
+work this out and the State steps in and I think Allen, you know, said something, Allen
+Summerhays, said something to the fact if they just go in there then it’s a fight that, one we don’t
+have the money as homeowners here in Draper to just individually go fight that on the Hill. We
+can be really mad and we can fight it there, but this is almost a, not a last chance, but this is the
+way it was meant to be is to have the City, where we live, to have a say so on what’s going to
+happen to our environment and to our future.
+
+Chairman Adams: We want to have that balance between business and, uh, high quality of life
+with health and, uh, all the natural resources being utilized to the best of our ability. So, I see that
+as, uh, two major wins that we’re actually not hurting that, uh, hang glider resource or natural
+phenomenon and we’re preserving the look. Again, it does nothing to mitigate the dust that is a
+total different deal and when we have, we’ve got some resources here tonight that I’d also like to
+get involved, uh, we have people from DOGM here correct? And I’m sure some of that, we want
+to talk about what that even means and why this is, if it is better, but it does nothing to address,
+remember a good negotiation, a wise man told me, he was president of the Senate years and
+years ago, I’m related to him, he said hey if everybody is mad at the end it was a good
+negotiation. So, if one party is super happy then the other party really got a sock to them.
+
+Chairman Adams: So, the way I see this is there are probably four things that are being asked for
+hear and I’m seeing us, uh, getting two of those, but we’re still losing on two fronts, so I don’t
+know what we can do about that. And I am concerned about the air quality and I guess less than
+air quality but the last point that was made, is I’ve lived here what, I grew up in Sandy and I’ve
+lived here almost 18 years, 17 years and I’m not seeing any mitigation. I’m not seeing anything.
+It’s that act of god if the dust starts blowing past 25 miles an hour, they just throw their hands up
+in the air and say well there is nothing we can do about it. And I think that’s the way I’ve
+understood it through the meetings I’ve sat through.
+
+Chairman Adams: Anyway, I don’t get to vote but I just wanted to bring that history into what’s
+happened at least in my short time here. Uh, just to be able to see what’s changed and what’s got
+better. Uh, as we keep talking about this and again, wouldn’t it be a shame if this went straight
+out of the laps of the siblings and went up to the parents and they, you know, in essence tattled to
+mom and that’s what they handed down to us, is that they’re carving into that mountain and they
+have everything, and we lost everything and they got everything. You know, we lost everything,
+they got everything they wanted we lost everything we wanted. So, that would be a darn shame,
+and that’s what I have to say about that.
+
+Christina Oliver: Mr. Chairman.
+
+
+                                                  38
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 39
+
+Chairman Adams: Yeah?
+
+Christina Oliver: I’d like to request that you make a motion. It is now 10:00.
+
+Chairman Adams: Perfect. So, if we
+
+Mr. Barker: Actually, the rules, if the matters already being heard then we can keep, as this is the
+last item on the Agenda.
+
+Chairman Adams: Perfect. So, if we had an agenda item number six right now, we’d have to, uh,
+put a motion into continue.
+
+Mr. Barker: Once you were done, we’d have to move to continue.
+
+Chairman Adams: Perfect. So, you’re saying we’ve got all night.
+
+Mr. Barker: Bring your sleeping bag.
+
+Chairman Adams: Alright. Sorry Staff. So, alright, I don’t have a speech prepared that was it. So,
+that’s that. Alright, go ahead.
+
+Commissioner Squire: When may we hear from the DOGM?
+
+Chairman Adams: Yeah. I. Would that be okay? I don’t want to cut you guys short and cut off
+your train of thought from all that public comment, but would that be okay to have them come up
+and talk to us with what they’ve prepared. Alright. Can we do that? Whose here for. Oh hi. Yeah,
+if you just want to state your names and kind of who you’re with and, uh, we’re all just regular
+civilians here, so tell us what you do.
+
+April Abate: My name is April Abate I am a, um, Geologist and Environmental Scientist. I work
+for Division of Oil, Gas, and Mining and, uh, my field area is, uh, over the point of the mountain
+mine, Sage Canyon Permit as well as the South Hansen Permit, so I’m the inspector for Geneva.
+
+Paul Baker: My name is Paul Baker I am the Minerals Programs Manager for the Division of Oil,
+Gas, and Mining.
+
+Chairman Adams: Thank you. So, what questions do we have for these folks?
+
+Commissioner Squire: I have a few. Or, if anyone else so, I don’t want to monopolize the
+conversation. Um, I’m curious about the regulation. There has been a lot of discussion about dust
+mitigation and reclamation maybe being the largest two issues. Um, and then, and so can you
+address those and maybe some of the concerns you heard and I’m also curious what ability
+Draper City has, if any, to regulate beyond what the State regulates.
+
+
+
+
+                                                39
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 40
+Paul Baker: I guess I’ll try to, try to answer that as well as I can. So, um, our regulations say that
+compliance with the Division of Oil, Gas, and Mining does not mean that somebody is
+necessarily complying with other agencies requirements. So, we don’t enforce those and, um,
+and it doesn’t, uh, negate the responsibility to comply. Um, as far a dust mitigation is concerned,
+um, we have very limited authority for dust control, um, for requiring dust control. Primarily
+that’s done by the Division of Air Quality and we rely primarily on that permit. Um, our rules do
+require concurrent reclamation where that’s possible. The rules basically say that when an
+operator is done mining in a certain area that they have to reclaim that area, but again that’s very
+difficult for us to tell an operator your done with this particular area. I mean, it’s really part of
+the mine plan and for the operator to decide that, and so it’s really hard for us to do that.
+
+Commissioner Ogden: So, is it your organization that is responsible for, like, grading and like
+the, what happened here with this wall that everybody is talking about. And is that wall in
+compliant with your, uh, regulations currently?
+
+Paul Baker: Yes, it is in compliance. The rules require that it be, well I guess I could say sort of
+in compliance. The rules require that it be no steeper than a one to one slope and as it stands right
+now its about 1.15 to 1. So, as far as the rules are concerned, uh, it is in compliance. Yes.
+
+Commissioner Ogden: That doesn’t sound like it’s compliant.
+
+Paul Baker: Well, that being said, um, after the, um, the high wall was developed the plan was
+modified to say the high wall would be 1.7 or 1.75
+
+April Abate: 1.7 to 1 is what Geneva changed their mine plan to, so that means at reclamation the
+high wall is supposed to be left at 1.7 to 1 at reclamation, but their still active right now.
+
+Commissioner Ogden: So, that gives them a period of time to where they don’t have to be
+compliant then is what you’re saying?
+
+Paul Baker: Well no, well I guess you could say during mining, um, we’re talking about at
+reclamation it’s supposed to be 1.7 to 1.
+
+Commissioner Ogden: I understand.
+
+Paul Baker: Yeah, that’s right. So, during mining it can be steeper than that. It can even be
+steeper than 1 to 1 as long as they reclaim back to, I mean, at a minimum 1 to 1, but in this case
+1.7 to 1.
+
+Commissioner Ogden: Would it be possible to reclaim that as it is without touching Draper’s
+property?
+
+April Abate: It would not be compliant with their mine plan. That’s the issue we’re in.
+
+
+
+
+                                                 40
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 41
+Chairman Adams: Well, one of the things we saw on that graph. We saw four colored lines and
+the light blue one at the bottom was the end result that’s actually buildable. That’s the only one
+that you could build homes on and put a new day break if you will.
+
+Commissioner Ogden: But that’s if they graded everything out.
+
+Chairman Adams: That’s if they chopped clear from Lehi over to area, where area number two in
+our proposed plan right now. They. It would chop all that away. That light blue line would be
+from, where all of them intersect here off to my left, to the audience’s left, that’s Lehi and the
+higher slope is Draper. And all that would go away. That big black mountain would go away.
+And what their talking about right now is that they’re. Does this help you on this graphic? It
+helped me to understand what’s compliant and what’s not.
+
+Commissioner Ogden: Yes.
+
+Chairman Adams: And what the problem is. The problem lies in that if they. To get this
+compliant they’ve got to chop into Draper. Because they’ve dug such upon reclamation. Is that
+correct?
+
+Commissioner Ogden: To be compliant with their reclamation plan.
+
+Paul Baker: I think that that’s a fair statement. Um, and the reason I say that is because the
+operator has talked about and actually proposed filling that slope to bring it to 1.7 to 1 and in that
+case, it would not go into Draper.
+
+Chairman Adams: That’s the green line. See? Fill, alternative number two. Them bringing in fill
+to get a reclaimed slope that is, uh, not touching Draper. So, alternative number two doesn’t
+touch Draper. Uh, alternative three does.
+
+Paul Baker: Yes. And we. There are two engineers in our office. Two professional engineers that
+have looked at that alternative and, um, have decided that basically would just not be stable. I
+mean, it might in the beginning, but um, over time it would not be stable. And besides that, I
+would point out that, um, that fill has to come from somewhere. And so, it would basically have
+to be mined material.
+
+Commissioner Hawker: Are you saying the fill alternative two, the green line, would be unstable.
+
+Paul Baker: Yes.
+
+Commissioner Hawker: Okay. Just wanted to make sure I heard that
+
+Commissioner Squire: So, what are the dangers of leaving the high wall as it is now? Of not
+allowing any work to be done on it on Draper’s side in your opinion. And we’ve covered the
+green line, um, that you think, that someone has come to the conclusion in your department that
+that would be unstable, correct?
+
+
+
+                                                 41
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 42
+Paul Baker: Right.
+
+Commissioner Squire: Um, what about the other options?
+
+Paul Baker: So, um as far as leaving it as it is, um, I would say it’s marginally stable. Um, when
+we visited the site, oh a little over a year ago, I mean, you could hear the whole-time rocks
+rolling down the hill. I mean, like I say it’s marginally stable and that is what it would be. I
+mean, it would just be that high wall indefinitely.
+
+Commissioner Squire: So, it’s sloughing now. Is that right? We saw some pictures.
+
+Paul Baker: Yes. Yeah, a limited amount. I mean it meets regulatory requirements, but it is
+sloughing to some degree. Yeah. Like that right there.
+
+Commissioner Hawker: Okay. So, I’m just trying to wrap my brain around this. So you’re saying
+if we as a Commission and then the City Council, let’s say we’d say no to this, you’re saying that
+somehow your organization oversaw this, allowed it to happen or didn’t allow it to happen, and
+there is not a way to make it stable without going into Draper. Am I kind of hearing you right
+here or am I making assumptions here?
+
+Paul Baker: No. I think that’s pretty close. I mean, I think at the time that this was done it was in
+compliance with the plan and it was in compliance with the rules, but it was not in compliance
+with Lehi City.
+
+Commissioner Hawker: Okay.
+
+April Abate: So, I should just mention that originally the mine plan was 1 to 1 then the Lehi
+requirement came out, or was in place. When we realized that we alerted the company to it. They
+changed their mine plan to be in compliance with Lehi. So, it was just the way the course of
+events essentially played out.
+
+Commissioner Van Hoff: So, to reclaim this, to put it to a slope that’s stable enough to be
+comfortable with they would have to mine someplace else to bring soils and materials in.
+
+Paul Baker: That’s basically right. Yeah. And, um, part of what we’re saying too is that that
+would not be stable, but yes it would have to come, I mean, it’s obviously got to come from
+somewhere.
+
+Commissioner Van Hoff: So, I guess my question I want to get to then is how do we know? And
+when to tell them they have to reclaim? Because they’ve got all that area that they’ve dug out.
+I’m sure that none of that meets part of the, uh, slope stabilization. How do they determine when
+they stop cutting and have to reclaim and put it to a slope that’s stable? How is that determined?
+Who determines that?
+
+Paul Baker: I guess I’m not quite understanding your question. I apologize.
+
+
+
+                                                 42
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 43
+Commissioner Van Hoff: The whole area that they have there, I’m not even talking about the
+area that they’re asking to dig out now, but the whole area that they have on the back side of that
+wall they’d need to bring material in to make it stable.
+
+Paul Baker: Right.
+
+Commissioner Van Hoff: Come out front, towards the freeway, all that area out there. They’ve
+got to do the same thing to that. Right? To make it a slope that’s stable. To reclaim it.
+
+April Abate: Are you talking about the other high wall area further
+
+Commissioner Van Hoff: I’m not sure what other high wall there is. I’m talking if you move out
+toward the freeway. If you’re standing at the freeway and you look back at that material.
+
+April Abate: Okay. You’re talking about the. On the Salt Lake County side?
+
+Commissioner Van Hoff: It would be on Draper side.
+
+April Abate: Okay. Yeah, that’s their other. That’s their other permit actually. They actually have
+two permits.
+
+Commissioner Van Hoff: Yeah. Well, I’m sure there is cause they’re stretched across both
+valleys.
+
+April Abate: It’s because the County line straddles them. Yeah.
+
+Commissioner Van Hoff: But either case. To make it stable to reclaim it they have to put it to a
+slope that’s stable, correct? So, is that out front an area where it’s stable and they don’t have to
+bring material in? Or do they have to bring material in to make it stable?
+
+April Abate: I think that okay.
+
+Paul Baker: That one I think, um, meets requirements right now. I mean, they’re, they don’t have
+to take it to the 1.7 to 1. It just has to be the 1 to 1.
+
+Commissioner Van Hoff: Okay. So, they could reclaim that.
+
+Paul Baker: Uh, yeah.
+
+Commissioner Van Hoff: And it would be no problem. So, we really don’t want
+
+April Abate: If they’re done mining though.
+
+Paul Baker: That is assuming they are done mining. Yes, that’s true.
+
+
+
+
+                                                 43
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 44
+Commissioner Van Hoff: So, we really don’t want them cutting any more stuff out of there
+basically really.
+
+Paul Baker: Yeah, I don’t know if they’re done. If they’re done mining that or not. But, yeah, if
+they are done mining, yes, that could be reclaimed.
+
+Commissioner Van Hoff: So, it does bring back the question. Where do they get the material
+from to re-stabilize that on the south side of the highwall?
+
+April Abate: I think. That high wall is basically going to be set back to 1 to1 and that will be
+their reclamation on that one. Um, where as the Sage Canyon high wall is a different problem
+really.
+
+Chairman Adams: See, a compliant highwall, the way I am understanding this, is not reclaimable
+as we can build homes on it. Reclaimable as we can throw a lake and a reservoir and turn it into a
+Day Break in 100 years. Right? And that one to, that blue line that chops all the side of the
+mountain out, that graphic that they threw up on Geneva’s slide show with just all the mass being
+gone, that’s the end result of the blue line on this. And it’s always easier, right, to get down to
+compact and un-touched soil that’s more solid then bringing in fill and building on sand. So, but
+again that cuts into Draper. So, really as we’re looking at this. There is two ways this can go.
+We. To get this stable and to have this be the 100 year or the 150-year plan or whatever it is, this
+blue line plan, um, Draper can help out Geneva quite a bit. And I don’t see my quality of life as a
+citizen here getting any better. I don’t see it getting better. It’s the, the air always, the dust is
+always in the air and I just don’t see it getting better.
+
+Chairman Adams: So, again, this is not a horse trade meeting, it’s just what’s been proposed to
+us. And our job is to say on three counts what we want to do as far as passing recommendations
+onto the City Council who then can be lobbied and, uh, you know, they can make their decision
+on that. But right now, just looking at this we’ve got a solution to their problem and its a, yet I
+don’t see any solutions to our problems as citizens. Uh, I don’t see anything being, I mean, there
+is always regulation and then there is being a good neighbor. Like, my HOA makes me take my
+garbage cans in, but I take them in so my neighbors across the street like me, not because I’m
+going to get a $25 fine. So, now Christmas lights that’s a different thing, but garbage cans, I’m a,
+I’ve got standards.
+
+Chairman Adams: So, but back on a serious note I just don’t see anything that’s being done
+above required regulations from Geneva that makes it better for me to live here or for my
+neighbors. I just don’t. And so, we’ve got some cards here that are needed to get this nice blue
+line. Um, again, so, that’s really what’s in front of us right now is just to tell the Planning, or the
+City Council what would we recommend as neighbors with seeing the cards on the table, the
+ones we hold, and then what’s being threatened to us.
+
+Chairman Adams: By the way, as I’m looking this up here House Bill 288, good old
+Representative Wild and Senator Hankins, you can thank those guys and you may want to light
+their office up tomorrow, because that’s who is putting this pressure that this may go to the
+parents and can’t stay with the siblings. We really do want to work this out, I think. Every time
+
+
+                                                  44
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 45
+we get together it gets better. Maybe not for you guys, but it seems that it’s getting better for the
+people, that, who we are and who we represent. So, I would love to see that keep going, but
+really that threat of that House Bill is ominous, it really puts us in a pickle. Um, I wouldn’t call it
+duress but
+
+Commissioner Tonks: May I just make one point?
+
+Chairman Adams: Yeah.
+
+Commissioner Tonks: I just feel that in, um, order to be complaint with that, to get that high
+wall, some sort of set back has to be permitted, minimum, to get to the 1.7 to 1.
+
+Chairman Adams: Into Draper?
+
+Commissioner Tonks: Yes.
+
+Chairman Adams: It’s the purple line.
+
+Commissioner Tonks: It’s the purple line.
+
+Commissioner Hawker: Okay, and I keep on bringing that up. So, if you can just. If everybody
+says no forever how in the world do they stay compliant?
+
+Commissioner Ogden: They just keep mining. They don’t ever tell you that they’re finished. So,
+they can take off one inch every year for 100 years and still never say that their done.
+
+Paul Baker: As long as their excavating.
+
+Commissioner Ogden: You see what I mean? As long as their excavating it, its an active mine,
+they don’t have to reclaim it. So, they could do that forever. What. The question that I have, and
+I don’t know who. Was it you that put this together? This right here.
+
+April Abate: Well, it’s one of our engineers that work with us.
+
+Commissioner Ogden: So, if the blue line is like perfect world, it’s totally reclaimed, we can
+build on it. Is that the steepest that it can be? Or would there be a reasonable line through here
+that maybe we only give up this much and we don’t give up that much. You know, this is perfect
+world, this is Rose Crest where its, you can see forever on a slight grade, but could they still
+build on something that maybe is a little steeper. We know this is too steep, the purple one, but
+could they go somewhere in between there?
+
+April Abate: You could think of that as acres. So, basically that purple line set back is five acres.
+To get to 1.7 to 1 we calculated it would be about a five-acre set back. If you want to get to 7 to
+1, which is that blue line, that’s about 16 acres. So, what you were just drawing in the middle is
+somewhere in between 5 and 16.
+
+
+
+                                                  45
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 46
+Commissioner Ogden: And would that be, could they put houses on that?
+
+April Abate: It comes down to what you can vegetate. It’s still pretty steep to be able to vegetate
+1.7 to 1. Two to one are better. Like I said, and that blue line is 7 to 1. So, somewhere in that
+zone would be able, capable of holding vegetation.
+
+Commissioner Ogden: Cause my biggest fear on this is. They’re only going to mine section four,
+right? And then they are going to use section three to do their reclamation, but I don’t know how
+you can mine four without digging into three, cause then you’re going to have a wall. You know
+what I mean?
+
+Chairman Adams: No, my understanding is that, that three and four go away and that gets the
+blue line. Is that not the case?
+
+Commissioner Ogden: That’s not the way I understand it.
+
+Chairman Adams: What does three and four, which grade does that. Where do we end up on
+that?
+
+Paul Baker: Three isn’t part of this graphic.
+
+Chairman Adams: Okay. This is only section four.
+
+Paul Baker: Yeah.
+
+Commissioner Hawker: Three is just a buffer.
+
+Commissioner Ogden: I could just see them going all the way to three and building a big wall.
+Then we’re in the same pickle.
+
+Commissioner Hawker: Okay, so. Okay, can I ask another question here? So, I know you work
+with the Division of Air Quality. What kind of, that’s obviously something that is of concern to
+everybody, not just here in Draper, but along the whole Wasatch Front. Um, how many times do
+you meet with them? What’s the regulation, you know? How do you share reports? You know,
+what’s going on there?
+
+April Abate: So, I’ll do an inspection of this mine, once a year. Annually is large mine inspection
+requirements. So, I’ll do that. I’ll look at dust issues. I’ll look at reclamation issues. If there is
+dust problems that I see then I can basically communicate that to Air Quality and that could or
+could not in turn prompt them to come down and do an opacity inspection.
+
+Chairman Adams: Have you ever reported anything to Air Quality?
+
+April Abate: We’ve had discussions about various gravel mines. Not specifically Geneva but
+gravel and sand in general are a hot topic between DAQ
+
+
+
+                                                 46
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 47
+Commissioner Ogden: The thing about this, is this mine is in one of the windiest sections in all
+of the State.
+
+Chairman Adams: Yeah. You have hang gliders and dust.
+
+Commissioner Ogden: Yeah. So, the very fact that, you know, there’s no been, there hasn’t been
+a report here. I know I have seen it blown out there to where you can’t even see the valley.
+
+Commissioner Hawker: Well, and I guess, that’s really my question, and don’t, and for the
+public, I don’t want this to be an un-educated statement, but because of the natural phenomenon
+of the way our valleys are here in Utah County and Salt Lake County and with that wind pattern,
+regardless if there is mining there or not, I’m pretty sure were still going to see some kinds of
+dust on a daily basis, uh, regardless if there is mining going on there or not. Now, obviously, I’m
+not saying that it doesn’t exacerbate the problem with this mining, but, uh, I think there’s this
+maybe Pollyanna attitude of hey if the mine went away there would be no dust and no pollution,
+and I don’t think that would be the case just because of the way our valleys are, it’s the same
+thing with pollution. We can do everything we can to try and mitigate that, but we just live in a
+unique, uh, landscape and so, I think that’s something. I just try and keep that in mind as well.
+And I could be wrong, but I think it’s just that wind, it’s a unique situation.
+
+Chairman Adams: Well, anything else for the DOGM folks? Okay, alright, we’ll let you guys get
+a break there. Thanks for standing there for a minute. So, alright, Commissioners what else needs
+to be discussed? You’ve heard it all. You’ve heard the. Yeah, we’ll bring the applicant up.
+Anything else you want to deliberate before that? Okay. Alright. Bruce you are welcome to come
+back up and chat with us.
+
+Bruce Baird: I actually don’t have much additional information to provide. I think that the
+Commission has heard everything and, uh, we appreciate the public’s comments. There’s some
+things I could spend time disagreeing with, uh, but I don’t think that’s going to get us anywhere
+and it’s 10:30 at night and we’ve made a proposal that we think is a reasonable proposal and we
+would ask for you to make your recommendation to the Council and if the Council wants to, uh,
+have some further discussion we’ll have some further discussion. We would hope, we do
+appreciate that you’ve recognized that we’ve made some improvements. There were some
+statements about Geneva not being a reputable company and using this as an excuse to go and
+mine area three, there is no intent here to deal with area three. I just want to be 100% clear about
+that. To do anything with area three specifically would require a rezone and development plan.
+The Development Agreement is clear about that your zoning code is clear about that. It’s 100%
+in the City’s digression as to how to deal with area three in the future. This plan deals with really
+only mining of area four to make the improvements that we talked about. And other than that,
+we’ll just end it at 10:30.
+
+Commissioner Hawker: Hey Bruce. Can I just, um, so and I get exactly what you’re saying, I
+totally understand. I think there’s maybe, maybe there’s a feeling that because of this high wall,
+that quite frankly probably shouldn’t have been there now, um, and now we’re stuck with it that
+if this goes along all of the sudden we’re going to get some other problem in area three where
+
+
+
+                                                 47
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 48
+you’re not doing it but all the sudden we find a new problem and it’s like hey we can’t do this
+with out that. So, can you just maybe talk
+
+ Bruce Baird: Sure. If you take a look at how this works. At the point where area three hits area
+four it matches the topography. So, there wouldn’t be a wall. The wall is self-resolving there, uh,
+there may be some little minor terracing for houses but as you can see the grades match at that
+spot at the boundary. So, there’s not an intent to create and there wasn’t an intent to create the
+high wall in that situation as you heard there was a confusion about the permits versus, the
+DOGM permits versus the Lehi requirement, it wasn’t intentional to go in and create this
+problem so it would have to be solved. It’s a problem that needs to be solved as DOGM’s
+recognized but when you see those grades match at the three/four boundary, um, if you
+continued that wall it would go a little bit over, but that’s again, the intent is to have a little
+natural, almost a natural shaped ridge at that point and that’s what we’ve talked about all along.
+
+Commissioner Hawker: Okay. And then, I just maybe for the public’s sake for those who haven’t
+heard, Bruce. Can you just share how many other companies share this mine? Uh, cause I think
+sometimes to your detriment you get blamed for other people’s, uh, things and then the second
+thing that I’d like is I think there’s been some maybe misunderstanding maybe not about when
+this new ,uh, piece of property was bought, um, you know, cause there’s been some people
+saying that. So, I would just like to give you that opportunity to say this.
+
+Bruce Baird: Yeah. And I don’t have the entire timeline of the purchase of this. We presented the
+timeline of the purchase, and I don’t have it memorized, I’m sorry Mr. Hawker. Uh, I would be
+very surprised if the statement that Geneva purchased it after those subdivisions were built was
+correct. Um, my memory is from the non-conforming use hearing that we had regarding the 40
+acres that the Geneva parcel was assembled. Uh, essentially at the time there was no zoning, or
+the zoning was allowed there. So, I don’t believe that’s the case. I’d have to check it out. I don’t
+want to make miss statement.
+
+Bruce Baird: In terms of the other operations, Geneva is not the only gravel operation, there is a
+Staker operation as well. Is there anybody else there? Six operators in the point of the mountain
+area. Geneva happens to be the biggest and Geneva happens to be the one in, primarily in
+Draper. But there are six operators below the County line. And, uh, Geneva is of course as
+DOGM, as I think those representatives, the highest, one of the highest quality operators in the
+State. Uh, so that’s the proposal and we appreciate your time and we appreciate the, uh, civility
+of the public and your questions and we’ll just move forward from here. Thank you very much
+unless you have any more questions.
+
+Commissioner Squire: Could I ask you a question about the acreage?
+
+Bruce Baird: Of course. Yes Ms. Squire.
+
+Commissioner Squire: If my memory serves me correctly the last application when it came
+before the City Council, in the meeting that did not happen, the proposal was 18 acres to be
+mined in order to fix the high wall and now we’ve made that, in this application it’s 27, and I am
+
+
+
+                                                48
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 49
+curious why the discrepancy there and I would like to see a smaller area if we are going to allow
+mining.
+
+Bruce Baird: And I don’t, excuse me again, I wasn’t anticipating that question and I don’t know
+the answer as to why it’s changed from there. If you give me a second, I might be able to find out
+the answer from my engineer.
+
+Commissioner Squire: Sure.
+
+Russell Fox: Commission if I may while he is talking about that, just to clarify something on area
+three, if they came in with a future development for residential or commercial, whatever that
+would be, that would require a land disturbance permit that would require our development
+review. It would fall under the restrictions of the Hillside Protection Zone. So, there would be
+some certain things where the same mass grading that is occurring right now in Lehi, our codes
+are a little more restrictive on that. Uh, if they did any type of processing that was for mining or
+for sale, they wouldn’t be able to do that. If they wanted to rebalance the site we do allow that
+under our land disturbance, but I just wanted to make sure that’s clear that if, in order for
+anything to happen on area three it does need to go through rezone and that would be even to like
+a residential zone, but there would be certain things that we’d still have for protections for those
+areas.
+
+Bruce Baird: Ms. Squire, I believe the answer is primarily that we’ve done some further analysis
+of what it would take to properly match the contours of the high wall with the area three
+boundary and that, so that it actually was a useable and manageable slope and I think that’s the
+reason that the acreage expanded.
+
+Commissioner Squire: Okay, thanks.
+
+Bruce Baird: Anything else? Thank you very much.
+
+Chairman Adams: Thank you. Alright, Commissioners. We’ve got three items in front of us here
+on these motions. We’ve got a land use map amendment, we’ve got the zoning map amendment,
+and then the text amendment. We won’t be touching the, uh, Development Agreement. So, we
+need to make a positive or negative recommendation.
+
+Commissioner Hawker: I would just say, um, Commissioner Adams, or Chairperson Adams and
+myself, I think, have been the longest here. Just for the public’s sake it’s commendable, I mean, I
+think four years ago, uh, it was pretty ridiculous how, uh, raucous and uncivilized this is, so for
+all of those who came, thank you very much, I think you all know that we are the, uh, unvoted
+people, we are appointed people, uh, the City Council are the voted members here, so we do this
+for the love of our City, so, with that Mr. Chair I’ll make a motion.
+
+Chairman Adams: Go ahead.
+
+Motion: Commissioner Hawker: I move that we forward a negative recommendation to the City
+Council for the Land Use Map Amendment as requested by Dave Kallas, representing Geneva
+
+
+                                                49
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 50
+Rock Products and Perry and Associates Inc, to amend the subject property land use designation
+to Open Space and Parks and Industrial Manufacturing. Application TEXTMAP-944-2020 based
+on the findings and subject to the conditions listed in the Staff Report dated February 20, 2020.
+
+Chairman Adams: Thank you. And can we get a second for that motion?
+
+Second: Commissioner Van Hoff: I’ll second that.
+
+Chairman Adams: Thanks John. Okay, lets put this one to a vote then we’ll hit the other two. So,
+this is to forward a negative recommendation to the City Council, uh, for the Land Use Map
+Amendment. Let’s start with you.
+
+Vote:
+
+Chairman Adams: Craig?
+
+Commissioner Hawker: Yes.
+
+Chairman Adams: John?
+
+Commissioner Van Hoff: Yes.
+
+Chairman Adams: Mary?
+
+Commissioner Squire: Yes.
+
+Chairman Adams: Gary?
+
+Commissioner Ogden: Yes.
+
+Chairman Adams: DeLaina?
+
+Commissioner Tonks: Yes.
+
+Chairman Adams: So, that will forward a negative recommendation to the City Council. Again,
+for the general public, that will still, this moves forward regardless, right. This is just for, we are
+the advisory board to the City Council, so you understand.
+
+Commissioner Squire: And can I make a comment about that. I should have done it before the
+vote, but I just want to say on the record, that I do support the City Council trying to work
+something out. Um, I don’t want to throw them under the bus by sending a unanimous negative
+recommendation. I just don’t think this plan is the right plan and, um, I do worry a lot about what
+will happen if this is denied, but I trust them to negotiate this further and try and make it better
+for Draper.
+
+
+
+
+                                                  50
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 51
+Chairman Adams: Thanks, Mary. Council where would the run with the land on area two be
+mentioned. Don’t tell me it was, uh, in the one we just voted on. So, that would be a perpetual,
+uh, a perpetual, um
+
+Commissioner Squire: We can’t add that.
+
+Commissioner Hawker: Yeah, but that’s the Development Agreement, so
+
+Chairman Adams: So, that’s been mentioned. I want to mention it right now for the record, so as
+City Council listens in that, that cannot be, we can’t motion that in anywhere, but having those
+property rights run with the land meaning in perpetude, never ending, uh, would be something
+we’d love to have them discuss with the applicant. Alright, let’s go thorough, now were looking
+at the Zoning Map Amendment. Do we have a motion for that?
+
+Commissioner Ogden: I’ll make a motion.
+
+Chairman Adams: Go ahead Gary.
+
+Motion: Commissioner Ogden: Um, I move that we, um, move forward with a negative
+recommendation to the City Council for a zoning map amendment as requested by Dave Kallas,
+representing Geneva Rock Products and Perry and Associates Inc, to amend the subject
+properties, excuse me, zoning designation to OS and M2, um, Application TEXTMAP-945-2020
+based on the findings listed in the Staff Report dated February 20, 2020.
+
+Chairman Adams: Thank you. And can we get a second for that motion?
+
+Second: Commissioner Hawker: I’ll second that.
+
+Chairman Adams: Thanks Craig. Okay, so this is for a vote on the Zoning Map Amendment, uh,
+passing that forward with a negative recommendation to the City Council. Let’s start with you.
+
+Vote:
+
+Chairman Adams: Gary?
+
+Commissioner Ogden: Yes.
+
+Chairman Adams: Craig?
+
+Commissioner Hawker: Yes.
+
+Chairman Adams: Mary?
+
+Commissioner Squire: Yes.
+
+Chairman Adams: John?
+
+
+                                                51
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 52
+
+Commissioner Van Hoff: Yes.
+
+Chairman Adams: DeLaina?
+
+Commissioner Tonks: Yes.
+
+Chairman Adams: Okay. And the last one on our desk here is the Text Amendment. Do we have
+a motion for that?
+
+Commissioner Squire: Well, and before the motion, we haven’t really talked about this at all
+tonight, but this seems to be the same issue that came up, um, I don’t know, well maybe last year
+where we were looking at removing the conditional use permit for mining in this particular zone.
+Is that. Am I understanding that correctly? It’s the same that we saw last year or 2018 maybe. Is
+that correct?
+
+Jennifer Jastremsky: So, it’s the. Are you referring to the text amendment that came before you
+but did not go to the City Council?
+
+Commissioner Squire: Correct.
+
+Jennifer Jastremsky: Yeah. So, that would have changed that zone so that it was not permitted.
+Um, for that mineral extraction. So, the proposal is to change it from conditional to permitted.
+
+Commissioner Squire: Got it. Right. So, I don’t know if anyone wants to discuss that. I have a
+feeling we don’t need to. Okay. I’ll make a motion.
+
+Chairman Adams: Go ahead Mary.
+
+Motion: Commissioner Squire: I move that we forward a negative recommendation to the City
+Council for a text amendment as requested by Dave Kallas, representing Geneva Rock Products
+and Perry and Associates Inc, to amend the M2 zones allowed uses by making basic industry and
+mineral extraction permitted uses. Application TEXTMAP-946-2020 based on the findings listed
+in the Staff Report dated February 20, 2020.
+
+Chairman Adams: Thank you. And a second for that motion.
+
+Second: Commissioner Van Hoff: I’ll second it.
+
+Chairman Adams: Okay. Thanks John. So, this is for the Text Amendment moving forward with
+a negative recommendation to the City Council. Correct? So, well go ahead and put that forward
+to a vote.
+
+Vote:
+
+Chairman Adams: Mary?
+
+
+                                                52
+Draper City Planning Commission Meeting
+February 27, 2020
+Page 53
+
+Commissioner Squire: Yes.
+
+Chairman Adams: John?
+
+Commissioner Van Hoff: Yes.
+
+Chairman Adams: Craig?
+
+Commissioner Hawker: Yes.
+
+Chairman Adams: Gary?
+
+Commissioner Ogden: Yes.
+
+Chairman Adams: and DeLaina?
+
+Commissioner Tonks: Yes.
+
+Chairman Adams: DeLaina I don’t mean to always put you at the end there. It’s just kind of how
+it shakes out. So, your vote counts just as much as everybody else’s. Thank you. So, alright,
+that’s how that will move forward.
+
+Chairman Adams: We appreciate the applicant for coming out tonight. Um, we’re neighbors and
+you have heard the cries for clean air. You’re not the only culprit, there’s plenty of things were
+combating here in this valley and so we’d love to be, uh, we’d love to be good neighbors and, uh,
+if there’s anything we can do to help with that clean air let us know. And you can sense that
+that’s what I had the most hash marks on my list of items, um, on here that were concerns. And
+we want to thank the general public. Uh, keep an eye out for the meetings on, the City Council
+gets together on Tuesdays, so keep an eye out on the calendar for that. So, we appreciate your
+input.
+
+Chairman Adams: All right. So, that will conclude our public hearing number five on our
+agenda. Uh, before we adjourn is there anything we need to discuss or take care of as a
+commission? Great. Thank you, guys.
+
+Commissioner Ogden: Can we do some training? Uh, Ok.
+
+6.     Adjournment: Chairperson Adams moved to adjourn the meeting. A voice vote was
+       taken with all in favor and the meeting adjourned at 10:38 p.m.
+
+
+
+
+                                               53
+

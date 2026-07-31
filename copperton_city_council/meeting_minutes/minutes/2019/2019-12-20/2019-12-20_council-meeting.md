@@ -1,0 +1,149 @@
+# Copperton Council Meeting Minutes — 2019-12-20
+
+**Body:** Council
+**Date:** 2019-12-20
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/576421.pdf
+**Source label:** 12-20-19.pdf
+**Format:** text
+**In-body date match:** yes
+**Raw file:** raw/2019/2019-12-20_Council_pmn_576421.pdf
+**Raw sha256(16):** ed6f505684744693
+**Provenance:** downloaded https://www.utah.gov/pmn/files/576421.pdf ; verified=date-in-body
+
+---
+
+DATE          FRIDAY                               DECEMBER                        20, 2019
+
+            THE COPPERTON METRO TOWNSHIP COUNCIL, STATE OF UTAH, MET ON
+FRIDAY, DECEMBER 20, 2019, PURSUANT TO ADJOURNMENT ON WEDNESDAY,
+DECEMBER 18, 2019, AT THE HOUR OF 6:00 P.M., AT THE COPPERTON IMPROVEMENT
+DISTRICT, 8565 W STATE HIGHWAY, COPPERTON, UTAH.
+
+COUNCIL MEMBERS
+PRESENT:                    RON PATRICK
+                            KATHLEEN BAILEY
+                            APOLLO PAZELL
+                            SEAN CLAYTON, Chair
+
+COUNCIL MEMBERS
+EXCUSED:                    KEVIN SEVERSON
+
+OTHERS IN ATTENDANCE: NATHAN BRACKEN, LEGAL COUNSEL, COPPERTON
+                           METRO TOWNSHIP
+
+                                   ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+              Mayor Clayton, Chair, presided.
+
+                               ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Copperton Metro Township 2020 Tentative Budget
+
+              The Council reviewed the Copperton Metro Township 2020 tentative budget.
+
+               Council Member Patrick, seconded by Council Member Pazell, moved to open the
+public hearing. The motion passed unanimously.
+
+              Tessa Stitzer asked what funding Copperton Town Council is getting for 2020.
+
+              Mayor Clayton stated it is broken down within the budget.
+
+               Council Member Patrick, seconded by Council Member Pazell, moved to close the
+public hearing. The motion passed unanimously.
+
+               Council Member Pazell, seconded by Council Member Patrick, moved to approve
+the following Resolution;
+
+RESOLUTION NO. 19-12-01                                             Date: December 20, 2019
+
+                           ADOPTING THE 2020 FINAL BUDGET
+                                      OF THE
+                            COPPERTON METRO TOWNSHIP
+
+       BE IT KNOWN AND REMEMBERED THAT, the Copperton Metro Township Council (the
+
+                                             1
+DATE           FRIDAY                                 DECEMBER                            20, 2019
+
+“Council”) held a public hearing on December 20, 2019 to take public comment regarding the
+adoption of a final budget for the 2020 fiscal year beginning on January 1, 2020, and ending on
+December 31, 2020.
+
+       WHEREAS, the Copperton Metro Township (“Copperton”) is a municipality and political
+subdivision of the State of Utah; and
+
+        WHEREAS, Utah Code § 10-3c-202(2) specifies that the fiscal year for metro townships
+within a municipal services district, such as Copperton, is the calendar year;
+
+       WHEREAS, on October 16, 2019, the Council tentatively approved a tentative budget for
+Copperton for the 2020 fiscal year and scheduled a public hearing for December 20, 2020 to
+receive public comment regarding the adoption of the tentative budget pursuant to Utah Code
+Ann. § 10-5-108; and
+
+       WHEREAS, the Council provided notice of the date, time, and place of the public hearing
+in accordance with Utah Code Ann. § 10-5-108; and
+
+        WHEREAS, the Council posted the tentative budget to the homepage of the Copperton
+website (https://coppertonutah.org/) pursuant to Utah Code Ann. § 10-5-108 for a period of at
+least seven days prior to holding a public hearing; and
+
+         WHEREAS, on December 20, 2019 at 6:00 p.m., the Council held a public hearing on the
+tentative budget in accordance with Utah Code Ann. § 10-5-108 at the Copperton Improvement
+District, 8565 W State HWY, Copperton, Utah.
+
+       NOW, THEREFORE, BE IT RESOLVED as follows:
+
+       1. The budget the Council tentatively approved on October 16, 2019, as amended (if
+          amended) and attached hereto, is adopted as Copperton’s final budget for the 2020
+          fiscal year.
+       2. The Mayor will file the final budget with the State Auditor no later than thirty (30) days
+          after the date of this ordinance.
+       3. The effective date of this ordinance is December 20, 2019.
+
+      ADOPTED AND APPROVED by majority vote at a duly called public hearing of the
+Copperton Metro Township Council on this 20th day of December, 2019.
+
+                                                             By: /s/ SEAN CLAYTON
+                                                                 Mayor
+ATTEST:
+
+/s/ SHERRIE SWENSEN
+Salt Lake County Clerk
+Copperton Metro Township Recorder
+
+The motion passed unanimously.
+
+
+                                                2
+DATE         FRIDAY                            DECEMBER                      20, 2019
+
+
+                             ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+              THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+                                 SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+
+
+
+
+                                 By ________________________________
+                                        Deputy Clerk
+
+
+
+
+___________________________________________
+CHAIR, COPPERTON METRO TOWNSHIP COUNCIL
+
+
+
+                             ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                             ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+                             ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+
+
+
+                                          3

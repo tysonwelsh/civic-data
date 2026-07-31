@@ -1,0 +1,365 @@
+#!/usr/bin/env python3
+"""magna_ord_index.py — build ordinances/index.csv (SCHEMA_SPEC §9 contract) for
+Magna adopted ordinances + resolutions harvested from MunicipalCodeOnline.
+
+Number families (all normalized by canon()):
+  * township month-seq   YY-MM-NN / YYYY-MM-NN   e.g. 17-01-01, 2022-04-01, 2024-01-01
+  * city ordinance       YYYY-O-NN / YY-O-NN     e.g. 2022-O-04, 22-O-01 (OCR 0<->O tolerated)
+  * city resolution      RYYYY-NN                e.g. R2025-11, R2026-15 ('A' re-issue suffix
+                                                  stripped to the base number for linkage)
+
+Number DRIFT handled: ordinances went O-series in 2022 while resolutions kept the
+YYYY-MM-NN month-seq form through 2024, then switched to the R-series in 2025.
+
+Linkage to meeting_minutes/all_votes.csv (independently-published PDFs -> genuine
+cross-matches, NOT motion-derived, so `within_source` is intentionally UNUSED):
+  high    = instrument number cited in a recorded motion (exact canon match)
+  medium  = same-year (+/-2mo when the number encodes a month) + >=2 shared subject terms
+  none    = unmatched
+Prefer the instrument-number's encoded YYYY-MM over the S3 upload date for the
+adoption-date fallback (kearns lesson).
+
+Presiding-officer VOTE FLIP at the 2024/2026 HB35 seam (township Chair-"Mayor" VOTED;
+2026+ elected Mayor does NOT) — max council roll = 5 in BOTH eras; linkage never
+assumes the mayor is/ isn't a voter (it only reads the motion text, not the roll).
+
+Byte-identical S3 re-uploads (sha256) collapse to ONE row; the alternate raw stays on
+disk, named in `dup_raw`. County attachments mis-bundled with an adopting resolution
+are retained as raw but EXCLUDED from the index.
+
+Standing rule: lives INSIDE magna_city_council/ordinances/, unique magna_ord_ prefix.
+Usage: python3 magna_ord_index.py
+"""
+import csv
+import json
+import os
+import re
+import collections
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+RAW = os.path.join(HERE, "raw")
+TXT = os.path.join(HERE, "text")
+VOTES = os.path.join(HERE, "..", "meeting_minutes", "all_votes.csv")
+BUCKET = "https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/"
+RETRIEVED = "2026-07-13"
+
+MONTHS = {m: i for i, m in enumerate(
+    ["january", "february", "march", "april", "may", "june", "july", "august",
+     "september", "october", "november", "december"], 1)}
+
+
+def is_excluded(fn):
+    """County/plan attachments mis-filed with an adopting instrument: retained as raw,
+    NOT indexed. The ADOPTING resolution/ordinance itself IS indexed."""
+    lo = fn.lower()
+    # The SLCo multi-jurisdictional Hazard Mitigation Plan volume (a county document)
+    # bundled under R2026-13; the "Adopting ... Hazard Mitigation Plan" resolution stays.
+    if "multijurisdictional_hazard_mitigation_plan" in lo:
+        return True
+    # Contract exhibit approved by resolution, not itself an ordinance/resolution
+    # (its "05-10-22" filename is a DATE, which canon() would misread as a number).
+    if "bird_rides_agreement" in lo:
+        return True
+    return False
+
+
+LAND = [r"zoning", r"subdivision", r"rezone", r"land[ -]use", r"general plan",
+        r"\bplat\b", r"setback", r"density", r"\bannex\w*", r"title 18", r"title 19",
+        r"19\.\d{2}", r"18\.\d{2}", r"planned community", r"\bp-c\b", r"\bwui\b",
+        r"wildland", r"accessory dwelling", r"\badu\b", r"floodplain", r"\bzone\b",
+        r"overlay", r"landscap", r"hardscape", r"conditional use", r"water element"]
+LANDRE = re.compile("|".join(LAND), re.I)
+
+
+def canon(s):
+    """Normalize any Magna instrument number to a canonical key, or None."""
+    if not s:
+        return None
+    s = s.strip()
+    # R-series city resolution: R2025-11 / R 2026-2 / R2026-15A (trailing letter -> base)
+    m = re.search(r'\bR\s*-?\s*(\d{4})\s*-\s*(\d{1,3})(?!\d)', s, re.I)
+    if m:
+        return f"R{int(m.group(1))}-{int(m.group(2)):02d}"
+    # O-series city ordinance: 2022-O-04 / 22-O-01 (2-digit year) / 2025-0-01 (OCR zero)
+    m = re.search(r'(?<!\d)(\d{2,4})\s*-\s*([Oo0])\s*-\s*(\d{1,3})(?!\d)', s)
+    if m:
+        y = int(m.group(1))
+        if y < 100:
+            y += 2000
+        if m.group(2) in ("O", "o") or y >= 2022:
+            return f"{y}-O-{int(m.group(3)):02d}"
+    # 3-part township month-seq: 17-02-01 / 2022-04-01 / 2023-1-01
+    m = re.search(r'(?<!\d)(\d{2,4})\s*-\s*(\d{1,2})\s*-\s*(\d{1,3})(?!\d)', s)
+    if m:
+        y = int(m.group(1))
+        if y < 100:
+            y += 2000
+        mo = int(m.group(2))
+        if 1 <= mo <= 12:
+            return f"{y}-{mo:02d}-{int(m.group(3)):02d}"
+    return None
+
+
+def norm_date(s):
+    s = s.strip().rstrip(".")
+    m = re.match(r'([A-Za-z]+)\s+(\d{1,2}),?\s*(\d{4})', s)
+    if m and m.group(1).lower() in MONTHS:
+        return f"{int(m.group(3)):04d}-{MONTHS[m.group(1).lower()]:02d}-{int(m.group(2)):02d}"
+    m = re.match(r'(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})', s)
+    if m:
+        y = int(m.group(3))
+        y = y + 2000 if y < 100 else y
+        return f"{y:04d}-{int(m.group(1)):02d}-{int(m.group(2)):02d}"
+    return None
+
+
+# ---------- citation index from motions ----------
+def build_citations():
+    cites = collections.defaultdict(list)
+    rows = list(csv.DictReader(open(VOTES)))
+    seen = set()
+    numpat = re.compile(
+        r'(R\s*-?\s*\d{4}\s*-\s*\d{1,3}'
+        r'|\d{2,4}\s*-\s*[Oo0]\s*-\s*\d{1,3}'
+        r'|\d{2,4}\s*-\s*\d{1,2}\s*-\s*\d{1,3})')
+    for r in rows:
+        k = (r["date"], r["motion_no"])
+        if k in seen:
+            continue
+        seen.add(k)
+        text = r["motion"] or ""
+        for m in numpat.finditer(text):
+            c = canon(m.group(1))
+            if not c:
+                continue
+            pre = text[max(0, m.start() - 22):m.start()].lower()
+            hint = ("ordinance" if "ordinance" in pre or "ordiance" in pre else
+                    "resolution" if "resolution" in pre else "")
+            cites[c].append({"date": r["date"], "motion_no": r["motion_no"],
+                             "motion_type": r["motion_type"], "result": r["result"],
+                             "text": text, "hint": hint})
+    return cites
+
+
+# ---------- per-document header parse (date + caption) ----------
+def parse_header(text):
+    date = None
+    title = ""
+    if text:
+        head = text[:1800]
+        region = head[:400]
+        dm = re.search(r'date\s*[:\.]?\s*([A-Za-z]+\s+\d{1,2},?\s+\d{4})', region, re.I)
+        if dm:
+            date = norm_date(dm.group(1))
+        if not date:
+            dm = re.search(r'date\s*[:\.]?\s*(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})', region, re.I)
+            if dm:
+                date = norm_date(dm.group(1))
+        if not date:
+            dm = re.search(r'(?:ADOPTED|PASSED|ENACTED|APPROVED)[^.]{0,90}?'
+                           r'([A-Za-z]+\s+\d{1,2},?\s+\d{4})', head, re.I)
+            if dm:
+                date = norm_date(dm.group(1))
+        if not date:
+            for dm in re.finditer(r'([A-Za-z]+\s+\d{1,2},?\s*\d{4})', region):
+                pre = region[max(0, dm.start() - 24):dm.start()].lower()
+                if any(w in pre for w in ("ending", "term", "expir", "through",
+                                          "until", "effective")):
+                    continue
+                date = norm_date(dm.group(1))
+                if date:
+                    break
+        cm = re.search(r'\b(A[Nn]?\s+(?:RESOLUTION|ORDINANCE)\b.*?)'
+                       r'(?:\n\s*\n|RECITALS|WHEREAS|BE IT|NOW,? THEREFORE)',
+                       head, re.S | re.I)
+        if cm:
+            title = re.sub(r'\s+', ' ', cm.group(1)).strip()[:300]
+    return date, title
+
+
+def is_land_use(title, num, fn):
+    blob = (title + " " + (num or "") + " " + fn.replace("_", " "))
+    return "yes" if LANDRE.search(blob) else "no"
+
+
+_EXT = None
+
+
+def read_ext_method(stem):
+    global _EXT
+    if _EXT is None:
+        _EXT = {}
+        p = os.path.join(TXT, "_extraction_log.csv")
+        if os.path.exists(p):
+            for r in csv.DictReader(open(p)):
+                _EXT[os.path.splitext(r["filename"])[0]] = r["method"]
+    return _EXT.get(stem, "pdftotext_layout")
+
+
+def main():
+    # source_url + last_modified + prefix keyed by LOCAL saved filename (manifest 'name')
+    man = {}
+    for r in csv.DictReader(open(os.path.join(HERE, "magna_ord_manifest.csv"))):
+        man[r["name"]] = (r["url"], r["lastmodified"][:10], r["s3_prefix"])
+
+    # sha256 dedup from the fetch log
+    sha_first, dup_of = {}, {}
+    with open(os.path.join(RAW, "_fetch_log.jsonl")) as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
+                continue
+            d = json.loads(line)
+            fn = os.path.basename(d.get("saved_as") or d.get("name") or d.get("path") or "")
+            s = d.get("sha256")
+            if not fn or not s:
+                continue
+            if s in sha_first:
+                dup_of[fn] = sha_first[s]
+            else:
+                sha_first[s] = fn
+
+    cites = build_citations()
+    all_cites = [c for lst in cites.values() for c in lst]
+
+    raws = sorted(f for f in os.listdir(RAW)
+                  if f.lower().endswith((".pdf", ".docx")))
+    out, excluded = [], []
+    for fn in raws:
+        if fn in dup_of:
+            continue
+        if is_excluded(fn):
+            excluded.append(fn)
+            continue
+        stem = os.path.splitext(fn)[0]
+        tf = os.path.join(TXT, stem + ".txt")
+        text = open(tf).read() if os.path.exists(tf) else ""
+        src, lastmod, pref = man.get(fn, ("", "", ""))
+        # instrument type from filename, then S3 prefix
+        lo = fn.lower()
+        if re.search(r'\br\s?20\d{2}-', lo) or "resolution" in lo or "resoluiton" in lo:
+            itype = "resolution"
+        elif re.search(r'20?\d{2}\s*-\s*[o0]\s*-', lo) or "ordinance" in lo or "ordiance" in lo:
+            itype = "ordinance"
+        elif pref == "resolutions":
+            itype = "resolution"
+        else:
+            itype = "ordinance"
+        # number from the MunicipalCodeOnline filename (authoritative)
+        desc = re.sub(r'^\d+_', '', stem).replace("_", " ")
+        num = canon(desc) or ""
+        if not num and re.search(r'title[ _]*1[89]', lo):
+            num = "TITLE-19" if re.search(r'title[ _]*19', lo) else "TITLE-18"
+        # header date + caption
+        hdate, htitle = parse_header(text)
+        title = htitle or desc.strip()
+        # linkage
+        mconf, mdate, mno, mresult, lnote = "none", "", "", "", ""
+        cands = cites.get(num, []) if num else []
+        # Township numbered ORDINANCES and RESOLUTIONS in PARALLEL YY-MM-NN sequences,
+        # so a bare number can collide across the two families. Keep only citations whose
+        # ordinance/resolution hint matches THIS instrument's type (or is unhinted); do
+        # NOT fall back to conflicting-type citations (that mislinked Ordinance 20-06-02
+        # to a "Resolution 20-06-02" motion). Empty => honest none.
+        cands = [c for c in cands if c["hint"] in ("", itype)]
+        if cands:
+            def score(c):
+                t = (c["text"] + " " + c["motion_type"]).lower()
+                return (("approve" in t or "adopt" in t),
+                        c["result"].lower().startswith(("pass", "unanim", "approv")))
+            best = sorted(cands, key=score, reverse=True)[0]
+            mconf, mdate, mno, mresult = "high", best["date"], best["motion_no"], best["result"]
+            lnote = "number cited in recorded motion"
+        elif num and text:
+            ym = re.match(r'(?:R)?(\d{4})-', num)
+            if ym:
+                yr = ym.group(1)
+                mo = None
+                mm = re.match(r'\d{4}-(\d{2})-', num)
+                if mm:
+                    mo = int(mm.group(1))
+                kws = set(re.findall(r'[a-z]{5,}', title.lower())) - {
+                    "resolution", "ordinance", "magna", "kearns", "council", "metro",
+                    "township", "approving", "adopting", "amending", "certain",
+                    "hereby", "authorizing", "providing", "relating", "chapter"}
+                bestc, bestov = None, 0
+                for c in all_cites:
+                    if not c["date"].startswith(yr):
+                        continue
+                    if mo is not None and abs(int(c["date"][5:7]) - mo) > 2:
+                        continue
+                    ov = len(kws & set(re.findall(r'[a-z]{5,}', c["text"].lower())))
+                    if ov > bestov:
+                        bestov, bestc = ov, c
+                if bestc and bestov >= 2:
+                    mconf, mdate, mno, mresult = ("medium", bestc["date"],
+                                                  bestc["motion_no"], bestc["result"])
+                    lnote = f"subject match (same-year), {bestov} shared terms"
+        # adoption date
+        if mconf == "high":
+            adopt = mdate or hdate or lastmod
+            if hdate and mdate and hdate != mdate:
+                lnote += f"; header DATE {hdate} differs from motion date (source typo?)"
+        elif mconf == "medium":
+            adopt = hdate or mdate or lastmod
+        else:
+            adopt = hdate
+            nyr0 = re.match(r'(?:R)?(\d{4})-', num or "")
+            if adopt and nyr0 and adopt[:4] != nyr0.group(1):
+                adopt = None
+                lnote = (lnote + f"; header date {hdate} disagrees w/ number year "
+                         f"{nyr0.group(1)} — discarded").strip("; ")
+            if not adopt:
+                # township numbers encode YYYY-MM-NN: use the number's year+month
+                # (far truer than the batch S3 upload date) with a placeholder day.
+                mmn = re.match(r'(\d{4})-(\d{2})-\d', num or "")
+                if mmn:
+                    adopt = f"{mmn.group(1)}-{mmn.group(2)}-01"
+                    lnote = (lnote + "; date=YYYY-MM from instrument number, day "
+                             "placeholder 01 (exact adoption date not in doc)").strip("; ")
+                else:
+                    adopt = lastmod
+                    lnote = (lnote + "; date=upload_date(no adoption date in doc)").strip("; ")
+        nyr = re.match(r'(?:R)?(\d{4})-', num or "")
+        if nyr and adopt and adopt != lastmod and adopt[:4] != nyr.group(1):
+            lnote = (lnote + f"; adoption_date year != number year {nyr.group(1)} "
+                     "(source-stated date kept)").strip("; ")
+        el = read_ext_method(stem)
+        fmt = "scanned" if (el.startswith("ocr") or el == "none") else "text"
+        out.append({
+            "ordinance_no": num, "adoption_date": adopt, "date": adopt,
+            "title": title, "source_url": src, "retrieved_date": RETRIEVED,
+            "format": fmt, "extraction_method": el, "path": f"raw/{fn}",
+            "land_use": is_land_use(title, num, fn), "result": mresult,
+            "matched_motion_date": mdate, "matched_motion_no": mno,
+            "match_confidence": mconf,
+            "instrument_type": itype, "canonical_no": num,
+            "dup_raw": ";".join(k for k, v in dup_of.items() if v == fn),
+            "source_last_modified": lastmod, "linkage_note": lnote,
+        })
+
+    out.sort(key=lambda r: (r["adoption_date"] or "", r["ordinance_no"]))
+    cols = ["ordinance_no", "adoption_date", "date", "title", "source_url",
+            "retrieved_date", "format", "extraction_method", "path", "land_use",
+            "result", "matched_motion_date", "matched_motion_no", "match_confidence",
+            "instrument_type", "canonical_no", "dup_raw", "source_last_modified",
+            "linkage_note"]
+    with open(os.path.join(HERE, "index.csv"), "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        w.writerows(out)
+    from collections import Counter
+    print("rows:", len(out))
+    print("by type:", dict(Counter(r["instrument_type"] for r in out)))
+    print("by confidence:", dict(Counter(r["match_confidence"] for r in out)))
+    print("land_use=yes:", sum(1 for r in out if r["land_use"] == "yes"))
+    print("format:", dict(Counter(r["format"] for r in out)))
+    print("adoption_date blank:", sum(1 for r in out if not r["adoption_date"]))
+    print("no canonical number:", sum(1 for r in out if not r["ordinance_no"]))
+    print("upload-date fallback:", sum(1 for r in out if "upload_date" in r["linkage_note"]))
+    print("dedup collapsed:", len(dup_of))
+    print("excluded (raw retained):", excluded)
+
+
+if __name__ == "__main__":
+    main()

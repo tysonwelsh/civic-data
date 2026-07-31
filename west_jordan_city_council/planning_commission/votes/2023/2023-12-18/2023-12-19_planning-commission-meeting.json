@@ -1,0 +1,44 @@
+{
+ "date": "2023-12-19",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2023/2023-12-18/2023-12-19_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes from December 5, 2023",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "5:0 Pass",
+   "mover": "George Winn",
+   "seconder": "Kent Shelton",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Matt Quinney",
+    "Catherine Richardson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings of the required criteria set forth in the staff report and upon the evidence and explanations received today, to forward a recommendation of approval to the City Council for the Text Amendment regarding Streetlighting, finding that an affirmative determination has been made for the criteria found in 13-7D-6B; 1 through 4",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "George Winn",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Catherine Richardson"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

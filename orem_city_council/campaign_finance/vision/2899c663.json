@@ -1,0 +1,67 @@
+{
+ "contributions": [
+  {
+   "date": "10/28/2025",
+   "name": "Paul Crossett",
+   "amount": "3,000.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/29/2025",
+   "name": "Gary Sorells",
+   "amount": "2,500.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/30/2025",
+   "name": "Ace Auto",
+   "amount": "2,000.00",
+   "in_kind": false
+  },
+  {
+   "date": "12/2/2025",
+   "name": "UCRP Communications",
+   "amount": "227.93",
+   "in_kind": true
+  },
+  {
+   "date": "12/2/2025",
+   "name": "Friends of Dave Young Campaign",
+   "amount": "10,884.17",
+   "in_kind": true
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "10/27/2025",
+   "recipient": "McNeil Printing",
+   "purpose": "Door Hangers",
+   "amount": "459.89",
+   "in_kind": false
+  },
+  {
+   "date": "10/29/2025",
+   "recipient": "Veracity Enterprises",
+   "purpose": "Design/Mailer/Postage",
+   "amount": "3,006.30",
+   "in_kind": false
+  },
+  {
+   "date": "10/31/2025",
+   "recipient": "Veracity Enterprises",
+   "purpose": "Design/Mailer/Postage",
+   "amount": "2,120.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/31/2025",
+   "recipient": "Costco",
+   "purpose": "Meet and Greet",
+   "amount": "23.68",
+   "in_kind": false
+  }
+ ],
+ "total_contributions": "7,500.00",
+ "total_in_kind_contributions": "11,112.10",
+ "total_expenditures": "5,609.87"
+}

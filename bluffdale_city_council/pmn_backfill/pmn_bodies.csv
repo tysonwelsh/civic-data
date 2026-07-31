@@ -1,0 +1,17 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+87,373,City Council,yes,meeting_minutes,,pm4,2020-01-01,combined council-family minutes posted redundantly across the four council ids
+87,4905,City Council & Local Building Authority,yes,meeting_minutes,,pm4,2020-01-01,in-session LBA rides the combined council doc
+87,2803,City Council & Planning Commission,yes,meeting_minutes;planning_commission,,pm4,2020-01-01,joint sessions — match against either dataset
+87,2781,City Council and Redevelopment Agency Board,yes,meeting_minutes,,pm4,2020-01-01,in-session RDA rides the combined council doc
+87,374,Planning Commission,yes,planning_commission,,pm4,2020-01-01,
+87,8955,(Inactive) Planning Commission & Board of Adjustments,yes,planning_commission,,pm4,2020-01-01,0 notices all-time (inactive)
+87,375,Board of Adjustments,no,,,,,quasi-judicial — out of repo scope
+87,376,Arts Council,no,,,,,non-council/PC board — out of scope
+87,2146,Tree Board,no,,,,,out of scope
+87,2574,RDA Taxing Entity Committee,no,,,,,out of scope
+87,7045,Historic Preservation,no,,,,,out of scope
+87,8391,Healthy Bluffdale,no,,,,,out of scope
+87,8397,Community Garden,no,,,,,out of scope
+87,8399,Youth Council,no,,,,,out of scope
+87,8533,Budget Review,no,,,,,out of scope
+87,8535,Audit Committee,no,,,,,out of scope

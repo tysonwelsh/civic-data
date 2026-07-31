@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "3/11/16", "name": "Sean Clayton (self)", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "3/1/16", "recipient": "SL County", "purpose": "Candidate filing fee", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50.00",
+  "total_expenditures": "50.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016_sean-clayton_copperton.pdf",
+    "candidate": "Sean Clayton",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/copperton_city_council/campaign_finance/raw/2016_sean-clayton_copperton.pdf",
+    "pages": 4
+  }
+}

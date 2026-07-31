@@ -1,0 +1,58 @@
+{
+ "date": "2021-07-08",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/768655.pdf",
+ "path": "minutes/2021/2021-07-05/2021-07-08_city-council-meeting_768655.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "adjourn and reassemble in a Work Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "go into Closed Session pursuant to Utah Code Section 52- 4-204 and 205 to discuss personnel issues, potential litigation, and property acquisition and disposition",
+   "motion_type": "Procedural",
+   "result": "The motion passed unanimously.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  }
+ ]
+}

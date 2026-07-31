@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": null, "name": "Rich Lighten", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Kim Rimmasch", "amount": "200.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Return Cameras to Costco", "purpose": null, "amount": "-171.58", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake Mailing", "purpose": null, "amount": "1,308.19", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake Co. Rep. Party texting", "purpose": null, "amount": "26.15", "in_kind": false},
+    {"date": null, "recipient": "Spy Point Camera Subscription", "purpose": null, "amount": "15.12", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake Co. Rep. Party texting", "purpose": null, "amount": "133.47", "in_kind": false}
+  ],
+  "total_contributions": "300.00",
+  "total_expenditures": "1,311.35",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1,343.16",
+  "ending_balance": "331.81",
+  "_meta": {
+    "index_path": "raw/2023_haymond_state_11-14-23.pdf",
+    "candidate": "Spencer Haymond",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2023_haymond_state_11-14-23.pdf",
+    "pages": 5
+  }
+}

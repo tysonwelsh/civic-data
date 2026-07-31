@@ -1,0 +1,34 @@
+{
+  "contributions": [
+    {"date": null, "name": "Daphne Krantz", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Milton Foxley", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Kaitlyn Norris", "amount": "53.04", "in_kind": false},
+    {"date": null, "name": "Stephen Smith", "amount": "53.04", "in_kind": false},
+    {"date": null, "name": "Jaime Robotin", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Emerson Cluff", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Midori Green", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "JV Baldovi", "amount": "5.59", "in_kind": false},
+    {"date": null, "name": "Christopher Wolfe", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "David Ethridge", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Kaitlyn Norris", "amount": "26.68", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Amazon", "purpose": null, "amount": "180.51", "in_kind": false},
+    {"date": null, "recipient": "Uber", "purpose": null, "amount": "84.31", "in_kind": false},
+    {"date": null, "recipient": "Utah State Democratic Party", "purpose": null, "amount": "125", "in_kind": false}
+  ],
+  "total_contributions": "314.37",
+  "total_expenditures": "534.62",
+  "contributions_50_or_less": "86.57",
+  "beginning_balance": "664.85",
+  "ending_balance": "444.7",
+  "_meta": {
+    "index_path": "raw/2025_05_Jamie-Steverson.pdf",
+    "candidate": "Jamie Steverson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_05_Jamie-Steverson.pdf",
+    "pages": 5
+  }
+}

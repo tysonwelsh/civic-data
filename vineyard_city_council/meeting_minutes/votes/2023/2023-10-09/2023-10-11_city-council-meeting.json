@@ -1,0 +1,48 @@
+{
+  "date": "2023-10-11",
+  "title": "City Council Meeting",
+  "body": "Council",
+  "source": "meeting_minutes/minutes/2023/2023-10-09/2023-10-11_city-council-meeting.md",
+  "votes": [
+    {
+      "motion_no": 1,
+      "body": "Council",
+      "motion": "APPROVE THE CONSENT ITEM AS PRESENTED",
+      "motion_type": "Procedural/Administrative",
+      "result": "Carried unanimously",
+      "mover": "Flake",
+      "seconder": "Welsh",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Flake",
+        "Sifuentes",
+        "Welsh"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [],
+      "recuse": []
+    },
+    {
+      "motion_no": 2,
+      "body": "Council",
+      "motion": "ADJOURN THE MEETING AT 6:29 PM",
+      "motion_type": "Procedural/Administrative",
+      "result": "Carried unanimously",
+      "mover": "Flake",
+      "seconder": "Sifuentes",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Flake",
+        "Sifuentes",
+        "Welsh"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [],
+      "recuse": []
+    }
+  ]
+}

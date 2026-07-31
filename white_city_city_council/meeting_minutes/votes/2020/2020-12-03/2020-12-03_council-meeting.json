@@ -1,0 +1,253 @@
+{
+ "date": "2020-12-03",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-12-03/2020-12-03_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the staff meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the October 1, 2020 meeting minutes of the White City Metro Township, with amendments",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the October 15, 2020, and November 5, 2020 minutes of the White City Metro Township",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to open the public hearing for the 2021 White City Metro Township budget",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "4-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 5,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 6,
+   "motion": "to approve the following Resolution No. 20-12-01",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "4-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 7,
+   "motion": "to defer the public hearing for the White City Metro Township 2021 Consolidated Fee Schedule for two weeks",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 8,
+   "motion": "to return to the staff meeting to finish the rest of the items",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 9,
+   "motion": "to close the staff meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 10,
+   "motion": "to approve Resolution No. 20-12-03",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 11,
+   "motion": "to approve Resolution No. 20-12-05",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Kay Dickerson",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

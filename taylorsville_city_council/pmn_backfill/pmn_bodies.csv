@@ -1,0 +1,9 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+284,720,Taylorsville City Council,yes,meeting_minutes,,pm4,2020-01-01,"repo is a near-perfect PMN superset; the 2 recovered town halls are folded via pmn_backfill/index.csv"
+284,722,Taylorsville Planning Commission,yes,planning_commission,,pm4,2020-01-01,"0 genuine PMN gaps; PMN also posts DRAFT PC minutes (repo has APPROVED RICOH scans) — those land on dates the repo already holds, so they clear"
+284,721,Redevelopment Agency of Taylorsville City Board,yes,meeting_minutes,,pm4,2020-01-01,"RDA convenes in-recess with council (all_votes body=RDA); all 25 PMN RDA minutes-dates coincide with a council date already in meeting_minutes"
+284,2770,Community Development and Renewal Agency of Taylorsville,no,,,,,"3 notices, 0 minutes attachments (empty)"
+284,2523,Taylorsville Board of Adjustment (Inactive),no,,,,,not a repo body
+284,3379,Taylorsville Board of Canvassers,no,,,,,not a repo body
+284,2871,Taxing Entity Committee,no,,,,,not a repo body
+284,6931,Taylorsville City Recorder's Office,no,,,,,not a repo body

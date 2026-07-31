@@ -1,0 +1,102 @@
+1        B           C          D           E      F        G             H             I           J            K             L                M             N             O             P          Q            R                       S                                T
+2    Table S2503: Financial Characteristics, 2017 ACS 5-year data, Magna          Table DP04, ACS 2017 5-year Data, Magna                                                                            This is for Renters only. Owner Occupied is different.
+                                         State of                                                                         Magna
+3                                        Utah
+                                                           Update data for your
+                                                         geography and time period.
+ 4                                     Estimate                                                                           Estimate
+ 5   Total:                            8,105                                      Median household income in the past
+ 6    Owner occupied:                  6,113                                       Total:                                                    58,137
+ 7     Less than $5,000                55                                          Owner occupied (dollars)                                  65,091
+ 8     $5,000 to $9,999                102                                         Renter occupied (dollars)                                 42,816
+ 9     $10,000 to $14,999              196                                                                                                          Annual
+10     $15,000 to $19,999              175                                                                                                          Top Income Max Rent (30% of Income Level per month)                 Income Bracket                         # of Renter Households
+11     $20,000 to $24,999              170                                                                                                 30% AMHI      $12,845     $321                                               Less than 30% AMHI ($12845)                       237
+12     $25,000 to $34,999              345                                                                                                 50% AMHI      $21,408     $535                                               30%-50% AMHI ($12845-$21408)                      224
+13     $35,000 to $49,999              971                                                                                                 80% AMHI      $34,253     $856                                               50%-80% AMHI ($21408-$34253)                      357
+14     $50,000 to $74,999              1,713                                                                                              100% AMHI      $42,816   $1,070                                               80%-100% AMHI ($34253-$42816)                     215
+15     $75,000 to $99,999              1,144                                                                                              125% AMHI      $53,520   $1,338                                               100%-125% AMHI ($42816-$53520)                    237
+16     $100,000 to $149,999            890                                                                                               >125% AMHI   > $ 53520  > $ 1338                                               > 125% AMHI (> $53520)                            721
+17     $150,000 or more                352                                                                                                                                                                              Total Renter Households                          1,992
+18    Renter occupied:                 1,992              <30%         30-50%       50-80%      80-100%      100-125%       >125%
+19     Less than $5,000                67                  67                                                                                 Calculate the income              Calculate the maximum
+20     $5,000 to $9,999                99                  99                                                                                 brackets for a rental gap         affordable rent for each
+21     $10,000 to $14,999              125                 71             54                                                                  analysis by multiplying the       given income bracket.
+22     $15,000 to $19,999              143                               143                                                                  median renter household           Remember that cheaper
+23     $20,000 to $24,999              97                                 27           70                                                     income by the percentage          rents are always affordable
+24     $25,000 to $34,999              311                                            288           23                                        thresholds used to define         to higher earning
+25     $35,000 to $49,999              368                                                         192         176                            the brackets (30%, 50%,           households--these figures
+26     $50,000 to $74,999              435                                                                      61            374
+27     $75,000 to $99,999              169                                                                                    169
+                                                                                                                                                                  Use the table on the far left to estimate the number of renter households in each income bracket of the renter gap
+28     $100,000 to $149,999            147                                                                                    147
+                                                                                                                                                                  analysis, as
+29     $150,000 or more                31                                                                                      31                                 I've typed in a more formatted way above. This is done by linear interpolation.
+30
+31                             Sum of Columns:             237           224          357          215         237            721                1,992            Example:
+32                                                                                                                                      Check Number              Less than 30% = all households earning $12,845 or less per year. Referencing the table on the far left, this would
+                                                                                                                                        Must be equal             include households in cells E19, E20, and a portion of those in E21. How many of those in E21 count here? Interpolate!
+         Median Estimation (Linear Interpolation) = ((N12-20000) / (24999-20000))*E23                                                  to Total Renter            The equation is:
+                                                          ((Top Income - Lower end of Bracket))             * # Renters                    Occupied #.
+                                                       (Top end of Bracket - Lower end of Bracket))          in Bracket                  If all 3 yellow          ((12,845-10,000)/(14,999-10,000))*E21 = 71. So our # households in the < 30% bracket is 67 + 99 + 71.
+                                                                                                                                            cells do not
+                                                                                                                                                                  YOUR CHECK here is the sum, shown in cell T17. If this doesn't match the total shown in cell E18 and M31 (or is within
+                                                                                                                                           match then
+                                                                                                                                                                  about 1 due to rounding error), something has gone wrong.
+                                                                                                                                   something is wrong.
+1                       B                     C               D          E         F           G          H             I              J              K                   L                  M                     N               O           P          Q          R           S
+2    2017 American Community Survey 5-Year Estimates, Magna
+                                                                         Update data for your geography and time period.
+3                                     State of Utah
+4                                     Estimate
+5    Total:                           1,992                                                                    Max Rent                                                                 Maximum Rent           # Rental Units
+6     With cash rent:                 1,836                                            $321    $535         $856     $1,070            $1,338        > $ 1338          30% AMHI                    $321                   272
+7     Less than $300                  113                                              269                                                                             50% AMHI                    $535                    78
+8     $300 to $499                    30                                                 3         27                                                                  80% AMHI                    $856                   453
+9     $500 to $799                    436                                                          51         385                                                     100% AMHI                  $1,070                   288
+10    $800 to $999                    241                                                                      68           173                                       125% AMHI                  $1,338                   441
+11    $1,000 to $1,499                821                                                                                   115            441            265        >125% AMHI                > $ 1338                   460
+12    $1,500 to $1,999                163                                                                                                                 163                         Total Rental Units                1,992
+13    $2,000 to $2,499                32                                                                                                                   32
+14    $2,500 to $2,999                0                                                                                                                                                          Calculate the number of rental housing units available in each range.
+15    $3,000 or more                  0                                                                                                                                                          Notes:
+16    No cash rent                    156
+17                                                                                     272         78         453           288            441            460
+                                                                                                                                                                                                 1. The "No cash rent" row (row 16) is included in the lowest maximum rent group.
+18
+19                                                                                                                                                                                               2. Check the sum presented in cell N12. This must match (or be within 1 due to rounding
+20                                    Sometimes, this process is more complicated: the income spread has a top end and a bottom end embedded in the Income Bracket.                              error) the total provided in cell C5 and L30.
+21                                    When this is the case, simply do the usual formula but then subtract the previous calculation.
+22                                                                                                                                                                                               3. The number of units in each income/rent bracket is interpolated in exactly the same
+23                                                          ((Top Income - Lower end of Bracket))     * # Renters   minus (-)     J11 [which was previously calculated]                          manner as we interpolated number of households in each income bracket. Maximum rent
+24                                                       (Top end of Bracket - Lower end of Bracket)) in Bracket                                                                                 of $275 is the sum of all lower rents (cells D7:D10) plus the portion of cell D11 that would
+25                                                                                                                                                 Don't forget to check this.                   go up to $275, which is (($275-$250)/($299-$250))*4420=2255. So the number of units
+26                                                                                                                                                                                               available at $275 or less is =sum(D7:D10,F11,D28).
+27
+28
+29
+30                                                                                                                                                                            1,992
+Magna Metro Township: Rental Affordability Gap Analysis, 2017
+                                                                                                                     Interpret the data and the GAP.
+                                      Maximum                            # Rental Units    Surplus/Deficit
+Income Range                          Affordable       # Households        Available          of Units
+                                     Monthly Rent                         at that Price      Available
+Less than 30% AMHI ($12845)              $321            237              272                     35                 Reading Order: start from the bottom and go up
+30%-50% AMHI ($12845-$21408)             $535            224               78                    -146
+50%-80% AMHI ($21408-$34253)             $856            357              453                     95
+80%-100% AMHI ($34253-$42816)           $1,070           215              288                     73
+100%-125% AMHI ($42816-$53520)          $1,338           237              441                     203
+> 125% AMHI (> $53520)                 > $ 1338          721              460                    -261
+Data source: US Census Bureau (Tables: DP04 and S2503) ACS 2017 5-year data
+                                                                                                                     Fiercest Market (the GAP)
+           NOTE: You always read the last column of this table from bottom to top. Wealthier households tend
+           to rent below their maximum affordable rent, increasing market pressure in lower rent brackets. In
+           this example, for instance, we would assume that the 261 households not accommodated by the
+           highest rent units would rent in the next highest rent bracket, forcing those households to rent in the
+           80%-100% rent bracket, and so forth. In other words, wealthier households get "first dibs" on the
+           rental market, and tend to rent at lower costs than their maximum affordable costs, so we assume
+           that demand pushes pressure down market. In this particular example, we can see that the steepest
+           competition for units is likely to occur in the 30%-50% rent bracket, because lower income
+           households will seek the lowest rents possible and the deficit of units for the wealthiest households
+           cause a downward cascade.
+

@@ -1,0 +1,62 @@
+======================================================================
+OGDEN PLANNING COMMISSION - vote extraction validation
+======================================================================
+
+meetings parsed           : 138  (born-digital 87, OCR 51)
+motions (JSON)            : 988
+motions (CSV distinct)    : 988
+all_votes.csv rows        : 5096
+member-vote rows (CSV)    : 4755
+member-vote rows (JSON)   : 4755
+recommendations           : 310
+final actions             : 298
+procedural                : 380
+contested motions         : 149
+tally-only motions        : 341
+
+JSON motions == CSV motions : OK
+JSON rows   == CSV rows     : OK
+
+off-roster members        : 0  (PASS - every voter is on the reconstructed roster)
+
+vote distribution         : Aye 4483, Nay 263, Recuse 5, Abstain 4
+
+tally mismatches          : 8
+   2020-03-04 motion 11: named 5:2 vs stated 5:3
+   2020-07-01 motion 9: named 5:2 vs stated 5:3
+   2020-09-02 motion 11: named 6:1 vs stated 7:1
+   2020-12-02 motion 8: named 5:3 vs stated 6:3
+   2021-01-20 motion 7: named 5:2 vs stated 6:2
+   2021-08-04 motion 8: named 6:1 vs stated 7:1
+   2023-05-17 motion 1: named 8:1 vs stated 7:2
+   2023-09-06 motion 6: named 7:1 vs stated 8:1
+
+per-year observed voters (named roll-calls only):
+  2020: 12 voters - Angel Castillo, Bryan Schade, Cathy Blaisdell, Dave Graf, Janith Wright, Jenny Sandau, Jessica Stoker, Neil Garner, Rick Safsten, Rick Southwick, Robert Herman, Wesley Boykin
+  2021: 9 voters - Bryan Schade, Cathy Blaisdell, Dave Graf, Jenny Sandau, Jessica Stoker, Neil Garner, Rick Safsten, Rick Southwick, Wesley Boykin
+  2022: 10 voters - Bryan Schade, Cathy Blaisdell, Dave Graf, Jenny Sandau, Jeremy Shinoda, Jessica Stoker, Jordan Aaberg, Mandy Shale, Rick Safsten, Rick Southwick
+  2023: 10 voters - Bryan Schade, Cathy Blaisdell, Dave Graf, Jenny Sandau, Jeremy Shinoda, Jordan Aaberg, Mandy Shale, Michelle Williams, Rick Safsten, Rick Southwick
+  2024: 10 voters - Andrey Akhmedov, Cathy Blaisdell, Jenny Sandau, Jeremy Shinoda, Jordan Aaberg, Mandy Shale, Michelle Williams, Rick Safsten, Rick Southwick, William Ross
+  2025: 9 voters - Andrey Akhmedov, Jenny Sandau, Jeremy Shinoda, Jordan Aaberg, Mandy Shale, Michelle Williams, Rick Safsten, Rick Southwick, William Ross
+  2026: 8 voters - Andrey Akhmedov, James Humphreys, Jenny Sandau, Jeremy Shinoda, Mandy Shale, Michelle Williams, Rick Southwick, William Ross
+
+appointment cross-check (council all_votes.csv -> PC appointments):
+  roster names confirmed by a council appointment vote: 15
+  Andrey Akhmedov, Bryan Schade, Cathy Blaisdell, Dave Graf, James Humphreys, Jenny Sandau, Jeremy Shinoda, Jessica Stoker, Jordan Aaberg, Michelle Williams, Neil Garner, Rick Safsten, Rick Southwick, Wesley Boykin, William Ross
+  roster names NOT found in a council appointment motion: 4
+  Angel Castillo, Janith Wright, Mandy Shale, Robert Herman
+
+coverage by year (index):
+  2020 text: 19
+  2021 text: 21
+  2022 text: 21
+  2023 text: 22
+  2024 ocr: 16
+  2024 text: 4
+  2025 ocr: 23
+  2026 ocr: 12
+
+note: 2020-2023 (+4 of 2024) are born-digital mixed-case prose; 2024-2026 are
+OCR'd uppercase roll-calls. OCR files have noisier names (folded fuzzily over the
+reconstructed surname list); born-digital named tallies parse from the
+'with Commissioners ... voting aye [and ... voting no]' clause.

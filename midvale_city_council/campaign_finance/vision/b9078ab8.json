@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "9/1/23", "name": "Susan Frampton", "amount": "1000.00", "in_kind": false},
+    {"date": "8/8/23", "name": "Dustin Snow", "amount": "25.00", "in_kind": false},
+    {"date": "11/12/23", "name": "Dustin Snow", "amount": "50.00", "in_kind": false},
+    {"date": "11/21/23", "name": "Dustin Snow", "amount": "24.74", "in_kind": false},
+    {"date": "12/19/23", "name": "Dustin Snow", "amount": "26.90", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/8/23", "recipient": "Midvale City", "purpose": "Running fee", "amount": "25.00", "in_kind": false},
+    {"date": "10/10/23", "recipient": "Salt Lake County Clerk", "purpose": "E-voter list", "amount": "15.00", "in_kind": false},
+    {"date": "10/12/23", "recipient": "Paris Snow", "purpose": "Bio, Sign, mailer Artwork", "amount": "50.00", "in_kind": false},
+    {"date": "11/13/23", "recipient": "Dan's Fresh Market", "purpose": "volunteer delivery treats", "amount": "66.90", "in_kind": false},
+    {"date": "11/15/23", "recipient": "Randy Shoek", "purpose": "yard signs", "amount": "900.00", "in_kind": false},
+    {"date": "11/21/23", "recipient": "Home depot", "purpose": "yardsign post", "amount": "24.74", "in_kind": false},
+    {"date": "12/19/23", "recipient": "Randy Shoeck", "purpose": "Handouts 1500", "amount": "280.00", "in_kind": false}
+  ],
+  "total_contributions": "1361.64",
+  "total_expenditures": "1361.64",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {"index_path": "raw/2023_18_Dustin-Snow.pdf", "candidate": "Dustin Snow", "office": "Council", "filing_type": "summary", "election_year": "2023", "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_18_Dustin-Snow.pdf", "pages": 6, "note": "POST GENERAL ELECTION REPORT box (Dec 21, 2023) checked, signed 12-19-23 -- full-cycle final. Itemized contributions sum to 1,126.64, LESS than the printed cover TOTAL CONTRIBUTIONS of 1,361.64; the 7 itemized expenditures sum EXACTLY to the 1,361.64 cover total. Cover shows contributions=expenditures=1,361.64, ending balance 0. Discrepancy on the contribution side retained verbatim, NOT reconciled. Handwritten whole-dollar amounts written with a trailing dash rendered as .00. Pages 4-6 are supporting receipts (Mountain America cashier's check $900 to Randy Shoeck; Home Depot receipt; personal check $280 to Randy Shoek), not additional line items."}
+}

@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "10/8/25", "name": "Dale Cox", "city": "Murray", "state": "UT", "amount": 150.00, "in_kind": null},
+    {"date": "10/13/25", "name": "Cameron Ferrini-Bailey", "city": "Murrieta", "state": "CA", "amount": 100.00, "in_kind": null},
+    {"date": "10/13/25", "name": "Steve Hawkins", "city": "South Jordan", "state": "UT", "amount": 50.00, "in_kind": null},
+    {"date": "10/20/25", "name": "United Steel Workers", "city": "Castle Rock", "state": "CO", "amount": 800.00, "in_kind": null},
+    {"date": "10/16/25", "name": "Brian Jepperson", "city": "South Jordan", "state": "UT", "amount": 564.52, "in_kind": null}
+  ],
+  "expenditures": [
+    {"date": "10/10/25", "recipient": "Good Party", "purpose": "Voter Communication", "amount": 112.63, "in_kind": null},
+    {"date": "10/14/25", "recipient": "Good Party", "purpose": "Voter Communication", "amount": 160.83, "in_kind": null},
+    {"date": "10/14/25", "recipient": "Salt Lake County Elections", "purpose": "Voter List", "amount": 15.00, "in_kind": null},
+    {"date": "10/16/25", "recipient": "Landslide Political", "purpose": "Social Media", "amount": 564.52, "in_kind": null},
+    {"date": "10/16/25", "recipient": "Good Party", "purpose": "Voter Communication", "amount": 20.58, "in_kind": null},
+    {"date": "10/18/25", "recipient": "Proximity", "purpose": "Website/Campaign software", "amount": 80.00, "in_kind": null},
+    {"date": "10/21/25", "recipient": "Good Party", "purpose": "Voter Communication", "amount": 175.56, "in_kind": null}
+  ],
+  "total_contributions": 1664.52,
+  "total_expenditures": 1129.12,
+  "total_contributions_ytd": 20799.52,
+  "total_expenditures_ytd": 18599.01
+}

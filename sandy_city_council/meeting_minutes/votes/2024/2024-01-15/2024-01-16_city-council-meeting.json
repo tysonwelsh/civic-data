@@ -1,0 +1,62 @@
+{
+ "date": "2024-01-16",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2024/2024-01-15/2024-01-16_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Brooke D'Sousa, seconded by Zach Robinson, to approve the election of Ryan Mecham as the new Council Chair and Cyndi Sharkey as the new Council Vice Chair",
+   "motion_type": "Other",
+   "result": "Unanimous (voice)",
+   "mover": "Brooke D'Sousa",
+   "seconder": "Zach Robinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson to convene a closed session in the Council Conference Room to discuss pending or reasonably imminent litigation and/or discussion of the character, professional competence, or physical or mental health of an individual and to adjourn the Council meeting immediately following the closed session",
+   "motion_type": "Procedural/Administrative",
+   "result": "6-0 Pass",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Aaron Dekeyzer"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Marci Houseman"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  }
+ ]
+}

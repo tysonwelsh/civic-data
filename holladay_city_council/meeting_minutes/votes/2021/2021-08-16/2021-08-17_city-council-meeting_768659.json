@@ -1,0 +1,106 @@
+{
+ "date": "2021-08-17",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/768659.pdf",
+ "path": "minutes/2021/2021-08-16/2021-08-17_city-council-meeting_768659.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "approve Ordinance 2021-21 determining the rate of tax for the 2021/2022 tax year and levying taxes upon all real and personal property within the City",
+   "motion_type": "Ordinance",
+   "result": "The motion passed unanimously.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Petersen",
+   "seconder": "Gibbons",
+   "motion": "approve Ordinance 2021-22 adopting the final budget for fiscal year beginning July 1, 2021, and ending June 30, 2022",
+   "motion_type": "Ordinance",
+   "result": "The motion passed unanimously.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "adjourn",
+   "motion_type": "Procedural",
+   "result": "The motion passed unanimously.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

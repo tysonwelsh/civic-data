@@ -1,0 +1,299 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2018-09-04
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2018/09.04.2018.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 6
+audio: 
+---
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES -— September 4, 2018
+1|Page
+
+LAR
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+September 4, 2018 at 9 A.M.
+
+PRESENT: COMMISSIONER NATHAN IVIE (CHAIR) COMMISSIONER BILL LEE, (VICE-CHAIR)
+COMMISSIONER GREG GRAVES No attendance sheet is available
+
+(Meeting Called to Order: 9:01am)
+
+PRAYER/READING/THOUGHT: Greg Graves
+PLEDGE OF ALLEGIANCE: Heather Lewis
+
+RECOGNITION
+
+COMMISSIONER GRAVES ANNOUNCED HEATHER LEWIS AS EMPLOYEE OF
+THE MONTH. HE READ THE FOLLOWING NOMINATION.
+
+Heather Lewis is the Manager for the Prevention Program in the Utah County Department of
+Drug and Alcohol Prevention and Treatment. She goes above and beyond in her role as manager,
+which benefits her staff, the county government and the county population. When Heather first
+came to this program, she breathed new life and energy into the team after we had been without a
+manager for several months. We are now functioning better than ever. Each member of the team
+is more productive, and we are managing several new grants and projects as a result of Heather's
+encouraging us to be creative and think outside of the box. When Heather first started as our
+manager, she realized that most of the other programs in our department did not know who we
+were or what we did. She arranged for our staff to have meetings with every program in our
+department. We went to each location with holiday treats, introduced ourselves and explained a
+little about what we do in drug prevention. We also learned about what each program does and
+toward their treatment facilities. After these meetings we started becoming more integrated with
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES - September 4, 2018
+Page 2
+
+the rest of the department. We now say hello in the hallways to a lot of people we previously
+didn't know. Heather is not a micromanager but rather tries to help us achieve our potential as
+individuals and as a team. She has confidence in our ability to do a job well, follow up with us
+about results and offer suggestions about leaving us to determine the best ways to complete
+projects. When she first started, she was new to prevention science and always sought to learn
+with enthusiasm and humility. Thanks to her willingness to learn she is now an expert in
+prevention science and continues to learn more every day. Heather takes time each month to sit
+down privately with each member of her staff. The conversation is driven by the staff member as
+she checks in to see how we are doing, what we may be struggling with and what we are excited
+about. She talks with us as a whole person and not just as an employee and always wants to hear
+how we are doing personally as well. She helps us set goals for improvement and offers her help
+too and other resources in accomplishing our goals. When needed she kindly points out blind
+spots and areas for improvement. She has helped us develop our individual strengths and find our
+niches on the team. Heather leads with love and humility. It is clear that she loves her staff.
+Whenever anyone asks her what her favorite part of her job is she always says it's the staff. She
+publicly praises each staff members strengths. She's incredibly compassionate when staff
+members have problems. She never judges or reacts harshly but rather helps us see the positive
+and possible ways forward. She never hesitates to go to bat for us on challenging issues we need
+help with. Heather has created an atmosphere of teamwork, safety, creativity and a can-do
+attitude which is evident in the increased capacity and productivity of her team.
+
+CONSENT AGENDA
+
+1. APPROVE AND AUTHORIZE COMMISSION SIGNATURE ON A
+SUPPLEMENTAL LAW ENFORCEMENT CONTRACT WITH CRISTOBAL LOPEZ
+FOR TWO (2) DEPUTIES FOR SECURITY FOR A QUINCEANERA AT MCF
+EVENT CENTER 1677 N 150 E SPANISH FORK, UT ON SATURDAY,
+SEPTEMBER 8, 2018, FROM 6:00PM TO 11:00PM
+
+COMMISSIONER LEE SAID OUR MINIMUM CHARGE IS 4 HOURS AND
+THIS SHOULD BE APPLIED TO THIS AGENDA ITEM.
+
+COMMISSIONER LEE: MOTION TO APPROVE
+COMMISSIONER GRAVES: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+2. APPROVE AND AUTHORIZE COMMISSION SIGNATURE ON A
+SUPPLEMENTAL LAW ENFORCEMENT CONTRACT WITH MAPLETON CITY
+FOR THE 1/2 MOONLIGHT MARATHON, TO HAVE THREE (3) DEPUTIES FOR
+TRAFFIC CONTROL AND CROSSING AT RIGHT HAND FORK JOLLEY'S
+RANCH, ROTARY PARK, AND HOBBLE CREEK GOLF COURSE FROM 8:30PM
+TO 11:30PM ON SEPTEMBER 21, 2018
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES - September 4, 2018
+Page 3
+
+COMMISSIONER LEE AND MIKE SMITH (Deputy County Sheriff)
+DISCUSSION ON OVER-TIME. COMMISSIONER LEE SAID OUR MINIMUM
+CHARGE IS 4 HOURS AND THIS SHOULD BE APPLIED TO THIS AGENDA
+ITEM.
+
+COMMISSIONER LEE: MOTION TO APPROVE
+COMMISSIONER GRAVES: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+3. APPROVE ONLINE APPLICATION FOR PARTICIPATION AND FEE PAYMENT
+FOR PROVO PRIDE FESTIVAL ON SEPTEMBER 15, 2018
+
+COMMISSIONER LEE ASKED FOR ADDITIONAL EXPLANATION ON THE
+BOOTH THE COUNTY WILL HAVE AT THE PRIDE FESTIVAL.
+
+COMMISSIONER GRAVES: MOTION TO APPROVE
+COMMISSIONER LEE: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+4, APPROVE AND ACCEPT THE UTAH DEPARTMENT OF HEALTH SUBSTANCE
+ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION (SAMHSA)
+DRUG-FREE COMMUNTIES GRANT FOR PREVENTION SERVICES AND
+SUPPORT PROGRAMS IN UTAH COUNTY
+
+APPROVED ON CONSENT
+
+5. APPROVE OR DENY A REQUEST FROM COSTCO FOR AUTHORIZATION TO
+CONDUCT MARKETING ACTIVITIES ON THURSDAY, SEPTEMBER 27, 2018 IN
+THE LOBBIES OF THE PUBLIC WORKS BUILDING, THE HEALTH AND
+JUSTICE BUILDING AND THE ADMINISTRATION BUILDING PURSUANT TO
+THE REQUIREMENTS OF SECTION 1.6.A OF THE UTAH COUNTY FACILITY
+USE POLICY
+
+APPROVED ON CONSENT
+
+6. ADOPT A RESOLUTION APPROVING AND AUTHORIZING COMMISSION
+SIGNATURE ON AN AMENDMENT TO INTERLOCAL COOPERATION
+AGREEMENT NO. 2017-525 WITH LEHI CITY FOR THE 1200 WEST PROJECT
+TO INCLUDE THE $540,000 CONTINGENCY APPROVED BY THE
+MOUNTAINLAND ASSOCIATION OF GOVERNMENTS (MAG)
+
+APPROVED ON CONSENT
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES -— September 4, 2018
+Page 4
+
+7. APPROVE THE FINDINGS OF FACT, CONCLUSIONS OF LAW, AND DECISION
+REGARDING THE TAX SALE PROTEST FILED BY JOHN WOLLENZIEN
+RELATED TO TAX PARCEL 55:132:0003
+
+APPROVED ON CONSENT
+
+8. APPROVE AND AUTHORIZE THE COUNTY COMMISSION TO EXECUTE A
+REAL ESTATE PURCHASE AGREEMENT BETWEEN UTAH COUNTY AND
+TODD AND REBECCA MORTENSEN FOR THE SALE OF REAL PROPERTY
+IDENTIFIED AS TAX SERIAL NO. 14:022:0203, AND FURTHER AUTHORIZING
+THE EXECUTION OF A LETTER TO THE HOLDER OF A FIRST RIGHT-OF-
+
+REFUSAL AFFECTING THIS PROPERTY - Held for the Closed Meetings
+
+9, APPROVE AND AUTHORIZE THE COUNTY COMMISSION TO EXECUTE A
+REAL ESTATE PURCHASE AGREEMENT BETWEEN UTAH COUNTY AND
+DAVID P. MORRELL FOR THE SALE OF REAL PROPERTY AFFECTING TAX
+SERIAL NO. 25:068:0150, AND AUTHORIZING THE UTAH COUNTY
+CLERK/AUDITOR TO EXECUTE A QUIT-CLAIM DEED AS REQUIRED IN THE
+AGREEMENT
+
+APPROVED ON CONSENT
+
+10. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+ASSESSOR'S OFFICE IN PERSONAL PROPERTY CANCELLATION AND
+CORRECTION LETTER NO. 301, DATED AUGUST 22, 2018
+APPROVED ON CONSENT
+
+11. RATIFICATION OF PAYROLL FOR PAY PERIOD 18
+APPROVED ON CONSENT
+
+12.RATIFICATION OF WARRANT REGISTER SUMMARY FOR SEPTEMBER 4,
+2018, INCLUDING NOTES AND COMMENTS FROM THE COMMISSIONERS AS
+
+RECORDED ON THE INTERNAL SYSTEM -Continue for one week as there
+are no attached documents.
+
+REGULAR AGENDA
+
+1. AUTHORIZE A CHANGE TO THE HEALTH DEPARTMENT-ADMINISTRATION
+STAFFING PLAN TO ELIMINATE A VACANT, FULL-TIME, CAREER SERVICE
+DEPUTY REGISTRAR I POSITION, AND ADD A FULL-TIME, CAREER SERVICE
+DEPUTY REGISTRAR II POSITION [ACCOUNT NO. 230-43100, UPGRADING
+POSITION CLASS CODE 00119]
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES -— September 4, 2018
+Page 5
+
+COMMISSIONER LEE CLARIFIED SOME LANGUAGE THAT WAS WRITTEN ON
+THIS AGENDA ITEM.
+
+COMMISSIONER LEE: MOTION TO APPROVE
+COMMISSIONER GRAVES: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+2. ADOPT (OR DENY) AN ORDINANCE TO AMEND THE UTAH COUNTY LAND
+USE ORDINANCE, CHAPTER 6, RELATIVE TO REQUIREMENTS FOR
+DEVELOPMENT PLATS
+
+BRANDON LARSEN (Community Development) EXPLAINED THAT THIS IS A CLEAN
+UP ORDINANCE ON THE SIGNATURES BLOCKS. ALSO EXPLAINED THE
+LANGUAGE IN THE ORDINANCE.
+
+COMMISSIONER GRAVES: MOTION TO APPROVE
+COMMISSIONER LEE: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+3. APPROVE AND AUTHORIZE AN AMENDMENT TO AGREEMENT NO. 2017-491
+WITH DOUGLAS G. FORD
+
+APPROVED ON CONSENT
+
+4. APPROVE AND SET A DATE, TIME, AND LOCATION FOR A CLOSED MEETING
+FOR A STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR
+LEASE OF REAL PROPERTY, WATER RIGHTS, OR WATER SHARES
+(SUGGESTED FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE
+COMPLETION OF THE REGULAR AGENDA) (ANNOUNCE THE VOTE OF EACH
+COMMISSIONER)
+
+HELD ON CONSENT
+
+5. APPROVE AND SET A DATE, TIME, AND LOCATION FOR A CLOSED MEETING
+FOR A STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY,
+WATER RIGHTS, OR WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR
+SALE (SUGGESTED FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING
+THE COMPLETION OF THE REGULAR AGENDA) (ANNOUNCE THE VOTE OF
+
+EACH COMMISSIONER)
+
+HELD ON CONSENT
+
+UTAH COUNTY BOARD OF COMMISSIONERS
+MINUTES -— September 4, 2018
+Page 6
+
+6. APPROVE AND SET A DATE, TIME, AND LOCATION FOR A CLOSED MEETING
+TO DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL
+OR MENTAL HEALTH OF AN INDIVIDUAL OR INDIVIDUALS (SUGGESTED FOR
+TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA) (ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+
+HELD ON CONSENT
+
+7. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING
+FOR A STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY
+IMMINENT LITIGATION (SUGGESTED FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA)
+(ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+
+HELD ON CONSENT
+PUBLIC COMMENTS NONE
+
+Moved to Closed Meeting at approximately 9:30 am
+
+In compliance with the Americans with Disabilities Act, individuals needing special
+accommodations (including auxiliary communicative aids and services) during this
+meeting should notify Renee Caron at (801) 851-8111 at least three days prior to the
+meeting.
+
+Minutes approved on May 29, 2024, Board of Commissioners of Utah County, Utah
+
+meeting.
+, . >
+SO ae ot ZC
+—~Brandon B. Gefdon, Commission Chair
+ATTEST:
+Dition
+OS NE)
+
+Deputy Clerk

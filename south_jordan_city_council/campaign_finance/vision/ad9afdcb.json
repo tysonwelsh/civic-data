@@ -1,0 +1,16 @@
+{
+  "contributions": [
+    {"date":"11/2/2021","name":"Glenmoor Golf Course","city":"South Jordan","state":"UT","amount":"1150.00","in_kind":true}
+  ],
+  "expenditures": [
+    {"date":"8/26/2021","recipient":"City Journals","purpose":"Advertising","amount":"540.00","in_kind":false},
+    {"date":"9/20/2021","recipient":"City Journals","purpose":"Advertising","amount":"810.00","in_kind":false},
+    {"date":"10/26/2021","recipient":"Trader Joes","purpose":"Flowers","amount":"72.03","in_kind":false},
+    {"date":"11/2/2021","recipient":"Paper Source","purpose":"Stationary","amount":"35.13","in_kind":false},
+    {"date":"11/3/2021","recipient":"Diamond Event & Tent","purpose":"Tables and linens","amount":"370.31","in_kind":false}
+  ],
+  "total_contributions": "1150.00",
+  "total_expenditures": "1827.47",
+  "total_contributions_ytd": "38811.19",
+  "total_expenditures_ytd": "3647.48"
+}

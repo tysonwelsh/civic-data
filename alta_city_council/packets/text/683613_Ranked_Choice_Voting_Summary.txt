@@ -1,0 +1,42 @@
+Ranked Choice Voting
+ Down the Rabbit Hole of Social Choice Theory
+RCV Set Up
+
+Type 1. 7 voters: a b c d
+Type 2. 6 voters: b a c d
+Type 3. 5 voters: c b a d
+Type 4. 3 voters: d c b a
+Problem 1: Perverse Outcomes
+
+• Because no candidate has a simple majority of 11 first- place votes, the candidate with the fewest first-
+  choice votes, d, is eliminated first.
+• Then d’s 3 votes go to c, giving c 8 votes.
+• Because none of the remaining candidates has a majority at this point, b, with the new lowest total of 6
+  votes, is eliminated next, and b’s second- place votes go to a, who is elected with a total of 13 votes.
+• Now assume the three type 4 voters raise a from fourth to first place in their rankings without changing their
+  rankings of the other three candidates.
+• Now a has a total of 10 first- place votes, which is not a majority.
+• Hence, the candidate with the fewest first-place votes, c, is eliminated, and his or her 5 votes are given to b,
+  who wins with a total of 11 votes.
+• This is indeed perverse: a loses when he or she moves up in the rankings of the three type 4 voters from
+  fourth to first place and thereby receives three more first-place votes.
+Problem 2: Discarded Ballots
+
+• Some proponents of municipal election reform advocate for the adoption of Instant Runoff Voting
+  (IRV), a method that allows voters to rank multiple candidates according to their preferences.
+  Although supporters claim that IRV is superior to the traditional primary-runoff election system,
+  research on IRV is limited. We analyze data taken from images of more than 600,000 ballots cast
+  by voters in four recent local elections. We document a problem known as ballot “exhaustion,”
+  which results in a substantial number of votes being discarded in each election. As a result of
+  ballot exhaustion, the winner in all four of our cases receives less than a majority of the total
+  votes cast, a finding that raises serious concerns about IRV and challenges a key argument made
+  by the system's proponents.
+Why Ballots Are Discarded
+
+• First, some research suggests that, by requiring voters to rank multiple candidates rather than
+  simply identifying the one they most prefer, IRV can become more difficult and confusing for
+  voters.
+• Second, IRV does not guarantee that the winner in the final round actually secures the majority of
+  all votes cast. This occurs because, in practice, a large number of ballots are eliminated during
+  earlier rounds of redistribution due to exhaustion, and are thus excluded from the final vote tally.
+

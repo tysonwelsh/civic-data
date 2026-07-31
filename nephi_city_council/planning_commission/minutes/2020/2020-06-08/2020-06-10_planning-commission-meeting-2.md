@@ -1,0 +1,24 @@
+# Nephi Planning Commission Meeting — 2020-06-10
+> Source: https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_06102020-127
+> Meeting date: 2020-06-10
+> Format: text
+
+---
+
+
+Nephi City Planning Commission Public Hearings
+                               June 10, 2020
+
+Chairman Greenhalgh welcomed those in attendance and opened the hearing at 7 p.m. He explained
+the purpose of the public hearing was to receive public comment regarding proposed modifications of
+zero lot line requirements along with proposed modifications of political sign requirements. No public
+comments were received.
+Chairman Greenhalgh closed the hearing at 7:10 p.m.
+
+
+Attendance:
+
+Glenn Greenhalgh, Chairman
+Karl Brough, Planning Commission Member
+Brent Arns, Planning Commission Member
+Ann Peterson, Alt. Planning Commission Member

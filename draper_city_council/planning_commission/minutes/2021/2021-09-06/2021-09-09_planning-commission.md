@@ -1,0 +1,283 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=493&doc_id=59989950-32ad-11ec-88a7-0050569183fa
+> Meeting date: 2021-09-09
+> Format: text
+
+Approved minutes 10/14/2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, SEPTEMBER 9, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:         Chairperson Andrew Adams, Vice Chairperson Craig Hawker
+                       Commissioners Mary Squire, Gary Ogden and Lisa Fowler, Alternate
+                       Commissioners Susan Nixon and Tab Bingham
+
+ABSENT:                Commissioner John Van Hoff and Alternate Commissioner DeLaina
+                       Tonks
+
+STAFF PRESENT:         Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                       Amie Salazar, Maryann Pickering and Travis Van Ekelenburg
+
+6:30 PM Business Meeting:
+
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for August 12, 2021
+       (Administrative Action)
+
+Motion: Commissioner Fowler motioned to approve the Planning Commission Meeting
+Minutes for August 12, 2021.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Squire, Fowler, Hawker, Ogden and Nixon voted, “Aye”.
+
+2.     Public Hearing: River Park Hill and River Park Estates Phase 2 Plat Amendment
+       (Administrative Action)
+
+A request of Jeffry Anderson to amend the existing plat to create two lots from Lot 103 of River
+Park Hill. A second part of the request will adjust the lots lines between Lot 103 of River Park Hill
+and Lot 233 of River Park Estates Phase 2. The properties are located at approximately 12194 S.
+Jerema Court and 828 W. Stephens View Way in the R3 (Single Family Residential, 13,000 square
+foot minimum) and RA2 (Residential Agricultural, 20,000 square foot minimum) zoning districts.
+Application SUB-232-2018. Staff contact is Maryann Pickering at 801.576.6391 or
+maryann.pickering@draperutah.gov.
+
+Maryann Pickering, Planner, presented an aerial map, land use map, and zoning map. She clarified
+the zoning of the lots and provided history about River Park Estates. She stated that the applicant
+is proposing to separate one lot into two. She stated that the other lot is involved due to the
+boundaries of the plats.
+
+Applicant, Jeffry Anderson, stated the property owner and developer of the plat. He stated that Ms.
+Pickering’s presentation was complete. He inquired about staff recommendation #4 and suggested
+Draper City Planning Commission Meeting
+September 9, 2021
+Page 2
+alternative language to the recommendation. He stated that he agrees with the rest of the staff
+report.
+
+Commissioner Fowler asked where the building is located.
+
+Mr. Anderson answered and illustrated the building’s location with the map. He stated that it will
+have to be demolished but asked that it be demolished 6 months after the approval of the plat
+amendment rather than before.
+
+Chairman Adams opened the public hearing.
+
+Dave Ostler stated that he is in complete support of this amendment. He stated that his home is the
+other lot in question.
+
+Chairman Adams closed the public hearing.
+
+Chairman Adams asked Ms. Pickering about the demolition of the building.
+
+Ms. Pickering stated that it will have to be demolished.
+
+Chairman Adams asked Ms. Pickering’s opinion of a solution.
+
+Ms. Pickering stated that the code requires an accessory structure to be behind a primary structure.
+She stated that it is currently up to code, but if the lot is divided, then it will have to be demolished.
+
+Jennifer Jastremsky stated that they could modify the language in item #4. She stated that Mr.
+Anderson could go to the City Council with a text amendment and wouldn’t have to come before
+the Planning Commission again.
+
+Chairman Adams clarified that Ms. Jastremsky’s suggestion would allow the applicant to go
+through the process without the Planning Commission. He asked about wording for the motion.
+
+Ms. Jastremsky gave suggestions for wording.
+
+Vice Chairman Hawker asked if they might regret approving the project with the proposed
+conditions for future projects.
+
+Mr. Barker stated that the issue with the code is that it doesn’t differentiate between the quality of
+a structure. He stated that a text amendment with standards would be helpful going forward.
+
+Chairman Adams inquired about the risk to the applicant.
+
+Commissioner Nixon asked if the code changes in the future, would this project qualify for that
+change, i.e. would it be retroactive or would the applicant be required to reapply to amend the
+condition.
+
+
+
+                                                    2
+Draper City Planning Commission Meeting
+September 9, 2021
+Page 3
+Mr. Barker stated that code changes don’t have retroactive application.
+
+Ms. Jastremsky stated that the applicant would have to come back and amend the condition with
+the Planning Commission.
+
+Vice Chairman Hawker asked about the timing.
+
+Ms. Pickering reminded commissioners that the approval is good for one year and the applicant
+can request a six-month extension.
+
+Motion: Commissioner Nixon motioned to approve the plat amendment as requested by
+Jeffry Anderson of River Park Hill and River Park Estates Phase 2 Plat Amendment
+Application SUB-1033-2020 with modification to condition #4 listed in the staff report dated
+August 31, 2021 prior to recordation of the plat amendment; and the owner shall demolish
+the accessory structure on the newly created Lot 104, unless modifications or allowances are
+made in the Draper City Municipal Code to allow for it to remain.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Ogden, Squire, Fowler and Nixon voted, “Aye”.
+
+3.     Public Hearing: Draper Flower Cart Home Occupation Conditional Use Permit
+       (Administrative Action)
+
+On the request of Tama Pickford for approval of the Home Occupation Conditional Use Permit in
+the RM (Multi-family Residential) zone regarding a Home Occupation business as a florist located
+at 1593 E. Timoney Rd. Application USE-0123-2021, Staff contact: Travis Van Ekelenburg, (801)
+576-6522, travis.vanekelenburg@draperutah.gov.
+
+Travis Van Ekelenburg presented the land use map and zoning map. He stated that the applicant
+will be preparing and selling floral arrangements out of her home. He stated that the applicant will
+be the only employee and will be delivering the floral arrangements in her personal vehicle. He
+stated that there would be no alterations to the property for the business. He stated that the applicant
+will be utilizing part of the existing second kitchen in the home and the storage area adjacent to
+the kitchen. He stated that this application is reviewed under the 1999 code, which doesn’t have
+the same requirements as the current code; however, they are similar. He stated that the home is
+approximately 4,560 square feet and 82 square feet, or 2%, of the home will be utilized for the
+business. He stated that 6 square feet will be used for storage and the remaining 76 square feet will
+be used for the making of the floral arrangements.
+
+Commissioner Fowler asked about why the 1999 code is being used.
+
+Mr. Van Ekelenburg stated that the property is located in the South Mountain area and is under
+South Mountain regulations.
+
+
+
+                                                   3
+Draper City Planning Commission Meeting
+September 9, 2021
+Page 4
+Mr. Barker clarified that there are certain areas of the city that are not subject to the Draper Code.
+
+Applicant, Tama Pickford, stated that she is the owner and only employee. She stated that she will
+be using space that already exists. She stated that she is delivery only and there is no impact in her
+neighborhood.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Hawker motioned to approve the Home Occupational Conditional
+Use Permit as requested by Tama Pickford Application USE-0123-2021, based on the
+findings and subject to the conditions listed in the staff report dated August 27, 2021.
+
+Second: Commissioner Squire.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Nixon voted, “Aye”.
+
+4.     Public Hearing: Bangerter Crossing Plat Amendment (Administrative Action)
+
+On request of Elizabeth Cole for approval of a Plat Amendment in the CR and CO2 zones
+regarding the Bangerter Crossing Lot 4 Subdivision located at 119 E 13800 S. Application SUBD-
+0065-2021; Staff contact: Travis Van Ekelenburg, 801-576-6522, Travis Van Ekelenburg, (801)
+576-6522, travis.vanekelenburg@draperutah.gov.
+
+Travis Van Ekelenburg, Planner, presented the land use map and zoning map. He stated that the
+application has some split zoning. He explained the merging of two plats and a boundary line
+adjustment.
+
+Vice chairman Hawker asked about the location of Fairfield Inn in the are.
+
+Mr. Van Ekelenburg stated that he is unsure about the progress for Fairfield Inn.
+
+Brady Morris stated that he is representing Elizabeth Cole as she was unable to attend the meeting.
+He stated that the hotel and office building will hopefully still be ready to move forward.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Hawker motioned to approve the plat amendment as requested by
+Elizabeth Cole Application SUBD-0065-2020 based on the findings and subject to the
+conditions listed in the staff report dated August 30, 2021.
+
+Second: Commissioner Ogden.
+
+
+                                                  4
+Draper City Planning Commission Meeting
+September 9, 2021
+Page 5
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Nixon voted, “Aye”.
+
+5.     Public Hearing: Improvement Completion Assurances Text Amendment (Legislative
+       Action)
+
+On the request of Draper City for a Text Amendment to Title 9 and 17 regarding improvement
+completion     assurances.   Staff    contact  is   Spencer     DuShane,     801-576-6583,
+spencer.dushane@draperutah.gov
+
+Spencer DuShane presented. He explained the reasons for the amendment. He stated that the
+ordinances are also being updated to match the updated code. He stated that there were some
+drafting errors that were corrected.
+
+Commissioner Nixon asked about 17-4-075.
+
+Ms. Jastremsky clarified the full change in the staff report.
+
+Mr. DuShane clarified 17-5-060.
+
+Ms. Jastremsky stated that there is some fine-tuning of the language but the overall process will
+not be changing.
+
+Mr. DuShane clarified 17-4-075 and the red-lining copy versus the clean copy.
+
+Chairman Adams opened the public hearing.
+
+Jeffry Anderson stated that he is a developer. He stated that he has posted bonds with the city for
+development with the city. He asked about the demolition of buildings and whether he could post
+a bond for the demolition of his building. He stated that he suggested this idea to staff, but the
+current code doesn’t allow that. He asked whether demolition might be included in the new
+definition.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Squire motioned to send a positive recommendation to City Council
+for the presented text amendments as requested by staff regarding the improvement
+completion assurances based on the findings and subject to the conditions listed in the staff
+report dated September 1, 2021.
+
+Second: Commissioner Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Nixon voted, “Aye”.
+
+
+
+                                                  5
+Draper City Planning Commission Meeting
+September 9, 2021
+Page 6
+Chairman Adams inquired if there was anything else that needed to be discussed before the
+meeting adjourned.
+
+Ms. Jastremsky notified commissioners she would be sending out individual emails about making
+up training sessions for those who may have missed some trainings. As these trainings are required
+by State Law, she asked the commissioners to look for those emails so they can make up any
+missed trainings.
+
+6.     Adjournment
+
+Motion: Commissioner Squire moved to adjourn the meeting.
+
+Vote: All were in favor of adjournment.
+
+The meeting adjourned 7:18 p.m.
+
+
+
+
+                                                6
+

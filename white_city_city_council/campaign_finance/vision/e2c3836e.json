@@ -1,0 +1,36 @@
+{
+  "contributions": [
+    {"date": null, "name": "Paulina Flint Loan to Self", "amount": "820.00", "in_kind": false},
+    {"date": null, "name": "Lina M. Barkey", "amount": "80.00", "in_kind": false},
+    {"date": null, "name": "Renee Christiansen", "amount": "150.00", "in_kind": false},
+    {"date": null, "name": "Yianni Loannou", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Gregory Shelton", "amount": "400.00", "in_kind": false},
+    {"date": null, "name": "Paul Ashton", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Misty Riley", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Les Nichols", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "Kent McClure", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Victory Store.com", "purpose": null, "amount": "594.67", "in_kind": false},
+    {"date": null, "recipient": "Pens.com", "purpose": null, "amount": "694.61", "in_kind": false},
+    {"date": null, "recipient": "Layersmith3D.com", "purpose": null, "amount": "53.73", "in_kind": false},
+    {"date": null, "recipient": "2025 Last Blast of Summer Booth Space", "purpose": null, "amount": "70.00", "in_kind": false},
+    {"date": null, "recipient": "Signsonthecheap.com", "purpose": null, "amount": "239.54", "in_kind": false},
+    {"date": null, "recipient": "Vistaprints.com", "purpose": null, "amount": "70.80", "in_kind": false}
+  ],
+  "total_contributions": "3550.00",
+  "total_expenditures": "1723.35",
+  "contributions_50_or_less": "100.00",
+  "beginning_balance": "34.40",
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/2025_flint_cf_10-28.pdf",
+    "candidate": "Paulina Flint",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/white_city_city_council/campaign_finance/raw/2025_flint_cf_10-28.pdf",
+    "pages": 5,
+    "transcription_note": "born-digital text 2026-07-17. Restates Schedule A + B verbatim from her Oct-7 report (CUMULATIVE filer) — identical entries, same totals ($3550 / $1723.35). Column B current-period boxes are $0."
+  }
+}

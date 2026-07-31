@@ -1,0 +1,411 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=497&doc_id=c4b97b9e-3b36-11ec-a798-0050569183fa
+> Meeting date: 2021-09-23
+> Format: text
+
+Approved minutes 10/28/2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, SEPTEMBER 23, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Vice Chairperson Craig Hawker, Commissioners Gary Ogden and Lisa
+                     Fowler, John Van Hoff and Alternate Commissioners DeLaina Tonks and
+                     Susan Nixon
+
+ABSENT:              Chairperson Andrew Adams, Commissioner Mary Squire and Alternate
+                     Commissioner Tab Bingham
+
+
+STAFF PRESENT:       Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                     Amie Salazar, Maryann Pickering and Todd Draper
+
+6:30 PM Business Meeting:
+
+
+1.     Public Meeting: Concord Lane Zoning Map Amendment, Land Use Map
+       Amendment and Development Agreement (Legislative Action)
+
+On the request of Wendy Vawdrey and Tanya Henderson for a Zoning Map Amendment from
+RA1 to RM1 and a Land Use Map Amendment from Residential Low/Medium Density to
+Residential Medium/High Density, and a Development Agreement for 6,000 square foot single
+family lots. The property is located at 13666 South 300 East. Applications TEXTMAP-0076-2021,
+TEXTMAP-0077-2021, DA-0078-2021. Staff contact is Jennifer Jastremsky at 801.576.6328 or
+jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented an aerial map, land use map, and zoning map.
+She explained the difference between RA1 and RM1 zoning. She explained the purpose behind a
+development agreement. She presented the concept site plan as well as concept elevations and
+adjacent neighborhoods. She stated that the neighboring areas are also RM1 zones and also have
+a development agreement.
+
+Vice Chairman Hawker asked if they had done 20 feet driveways. Ms. Jastremsky answered in the
+affirmative.
+
+Ms. Jastremsky pointed out a few typos in the development agreement and recommends they be
+fixed in the development agreement prior to council.
+
+Commissioner Fowler asked about the development agreement and the neighborhoods that differ
+from the proposed agreement.
+
+Ms. Jastremsky elaborated on the differences between the neighborhoods and the proposed
+agreement.
+
+Commissioner Nixon asked about lot #9 and specifically the drainage easement.
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 2
+
+Ms. Jastremsky stated that the house would face out. She stated that, regardless of which way the
+house faces, there will still be setbacks.
+
+Commissioner Van Hoff asked if there would be sidewalks.
+
+Ms. Jastremsky stated that there would be sidewalks installed along 300 East. She stated that the
+concept only shows their property. She stated that, for private lanes, sidewalks are necessary for
+more than 10 lots.
+
+Commissioner Tonks asked about whether the department reviews have been addressed.
+
+Ms. Jastremsky stated that most of the reviews are going to be addressed with the applicant.
+
+Commissioner Nixon asked about the fire division review.
+
+Ms. Jastremsky stated that the fire marshal looked at the turn around being 20 feet wide.
+
+Mike Barker clarified where the road narrows.
+
+Ms. Jastremsky stated that they could include changes in the recommendation.
+
+Commissioner Van Hoff asked about the ditch.
+
+Brien Maxfield noted that they need to follow up. He stated that the alternative is to hold the storm
+water on site.
+
+Vice Chairman Hawker invited the applicant up.
+
+Ronald Smith, applicant, elaborated on the history of the lot. He stated that the previous owners
+cut the lots up to have room for a little house; however, by putting the lots together, they would be
+able to better utilize the area. He stated that the city council approved there being no commercial
+properties above a certain street. He stated that there has been some concern about the drainage on
+the lot. He stated that there is a swell at the back of each lot. He introduced Wendy Vawdrey and
+explained her role in the project.
+
+Wendy Vawdrey, owner, illustrated the history of the lot she’s owned for over 15 years. She stated
+that they can’t use their properties for the initial purposes. She stated that there has been some
+confusion about residential and commercial areas. She stated that she came up with this plan to
+solve the problems that were beginning to arise in the area. She stated that the lots ended up being
+very similar to other areas. She stated that there is enough room for a buffer zone so the houses are
+not right next to each other. She stated that there are a lot of options for the lots. She stated that
+the neighborhoods are situated so that the backyards are next to each other and there is some quiet
+space. She stated that she believes these houses to be very nice and similar to Brooks Lane.
+
+
+
+
+                                                  2
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 3
+Commissioner Fowler asked if Ms. Vawdrey had considered connecting to Brooks Lane instead
+of having a turn around.
+
+Ms. Vawdrey stated that they had considered that; however, the connecting lane is too narrow to
+supply another subdivision.
+
+Vice Chairman Hawker opened public hearing.
+
+Bob Clark stated that he lives down the street. He stated that he understood the zoning for the area.
+He stated that the development agreement sounds like it would allow them to put a bunch of homes
+on the property and sell them, increasing the traffic and decreasing safety. He stated that he’s
+frustrated because most people move to Draper to live on half-acre or third-acre lots. He stated
+that it’s too narrow for firefighters to access. He stated that he wishes they would let it be what it
+was designed to be.
+
+Teryl Clark stated that they have a large driveway so they can turn around and get out safely;
+however, not everyone is so lucky. She stated that this makes no sense. She stated that there could
+be some water problems and legal problems. She suggested that they take a look at the area. She
+stated that this will affect many of the neighbors.
+
+Eric Maxfield stated that, when he moved here, the smallest lot he could buy was a half-acre. He
+stated that he’s very concerned about setting a precedence that will make the traffic worse and put
+the children in danger. He suggested keeping the zoning the way it is.
+
+Vice Chairman Hawker closed the public hearing.
+
+Mr. Smith, applicant, stated that, as he recalls, they have the fire chief’s approval.
+
+Ms. Vawdrey addressed the concerns with the proposal. She stated that the property that they’re
+proposing doesn’t touch the properties brought up. She stated that Brooks Lane acts as a buffer
+between the properties and her property. She stated that she holds no animosity towards any of her
+neighbors. She stated that this is a neighborhood in flux. She stated that the east side wants the
+property to look like theirs, but the west side would try to make it impossible. She stated that they
+are trying their best to figure out a way to make the most out of the property. She stated that they
+started something good. She stated that she doesn’t think the additional lots will make a noticeable
+difference in traffic.
+
+Ms. Jastremsky clarified concerns about the Lloyd property.
+
+Vice Chairman Hawker stated that they handle the zoning but allow Staff to handle drainage and
+such as that is their expertise.
+
+Commissioner Fowler asked about a buffer between residential and commercial.
+
+Commissioner Van Hoff stated that he would like to see a development blend. He stated that this
+development falls in line, but he wishes it would blend better.
+
+
+                                                  3
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 4
+
+Commissioner Fowler stated that she likes the buffer and the density. She asked about the traffic
+issue.
+
+Vice Chairman Hawker stated that there is traffic everywhere, and it’s getting worse as the years
+go by.
+
+Commissioner Nixon asked about the engineering. She stated that there are requirements for the
+drainage.
+
+Ron Smith, applicant, stated that they would like to work with the project. He stated that they have
+no problems with engineering.
+
+Vice Chairman Hawker asked Ms. Jastremsky to define a development agreement for the benefit
+of the public.
+
+Ms. Jastremsky stated that a development agreement is voluntary for the city to enter into. She
+stated that it’s considered a legislative action.
+
+Vice Chairman Hawker stated that there are certain parcels that don’t fit any of the zones, so a
+development agreement locks the applicant into certain requirements.
+
+Motion: Commissioner Fowler motioned to send a positive recommendation to the city
+council for the zoning map amendment as requested by Wendy Vawdrey and Tanya
+Henderson for Concord Lane, application TEXTMAP-0076-2021 based on the findings and
+subject to the conditions listed in the staff report dated September 13, 2021.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Tonks and Nixon voted, “Aye”.
+
+Motion: Commissioner Tonks motioned to send a positive recommendation to the city
+council for the land use map amendment as requested by Wendy Vawdrey and Tanya
+Henderson for Concord Lane, application TEXTMAP-0077-2021 based on the findings and
+subject to the conditions listed in the staff report dated September 13, 2021.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Tonks and Nixon voted, “Aye”.
+
+Motion: Commissioner Van Hoff motioned to send a positive recommendation to the city
+council for the development agreement as requested by Wendy Vawdrey and Tanya
+Henderson for Concord Lane, application DA-0078-2021 based on the findings and subject
+to the conditions listed in the staff report dated September 13, 2021, and as modified that the
+
+
+                                                 4
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 5
+typing errors in the development agreement be corrected as well as that staff verifies road
+width requirements.
+
+Second: Commissioner Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Tonks and Nixon voted, “Aye”.
+
+2.     Public Hearing: Jensen Concrete Fence Conditional Use Permit (Administrative
+       Action)
+
+On the request of Courtney Jensen for a Conditional Use Permit for the installation of an 8-foot
+tall precast concrete fence, on approximately 0.46 acres located at approximately 12968 S.
+Fayview Ln. Application USE-0120-2021, Staff contact: Todd Draper, (801) 576-6335,
+todd.draper@draperutah.gov.
+
+Mr. Todd Draper, Planner, presented an aerial map of the property, land use designation, and RA2
+zoning map. He stated that the applicant would like to install an 8-foot fence to match an existing
+8-foot fence along the western property line. He presented an elevation drawing and site photos.
+He stated that the landowner to the north had submitted a public comment.
+
+Commissioner Fowler asked Todd to clarify the neighbors’ concerns and what the City can require
+with this application.
+
+Draper stated that the project would have to take place on the owner’s property.
+
+Vice Chairman Hawker asked about debris.
+
+Mr. Draper clarified that the work would have to be done on the owner’s property with minimal
+or no disturbance to the neighboring property.
+
+Commissioner Ogden asked about a slope in the property.
+
+Mr. Draper stated that the applicant may be able to answer that better.
+
+Courtney Jensen, applicant, stated that he just wants to match the fence to what the neighbors have.
+He stated that they do want to match the height and they are perfectly okay with keeping it on their
+property.
+
+Commissioner Fowler asked whether Mr. Jensen has spoken to his neighbors.
+
+Mr. Jensen stated that he had.
+
+Commissioner Van Hoff asked about the height of the fence with the natural ground.
+
+Mr. Jensen elaborated on the plans for the fence.
+
+
+                                                 5
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 6
+
+Commissioner Nixon asked about the ground sloping and the fence panels sloping with it.
+
+Mr. Jensen stated that this would be the case.
+
+Vice Chairman Hawker opened the public hearing.
+
+Eric Maxfield stated that he is the neighbor to the west. He stated that the house foundation is 11
+inches above his 8-foot fence. He stated that the building - is a tower looking into his property and
+invading his privacy. He stated that he is very happy with them having an 8-foot fence because it
+gives him more privacy. He stated that the footings for the existing fence line are on his property.
+He stated there needs to be an agreement between all of the neighbors. He stated that he owns more
+of the property than is shown because the property lines shown are incorrect. He stated that he
+owns three more feet of the property east of his fence, and if they build on the property lines shown,
+then they are encroaching on his property by four feet.
+
+Vice Chairman Hawker closed the public hearing.
+
+Commissioner Fowler asked about Mr. Maxfield’s lot.
+
+Mike Barker clarified that the present issue is regarding the height of the fence, not whether or not
+a fence can be built.
+
+Commissioner
+Nixon asked about specifications in the code for height.
+
+Mr. Draper responded that the fence height is measured from the higher side of the fence.
+
+Motion: Commissioner Fowler motioned to approve the Concrete Fence Conditional Use
+Permit as requested by Courtney Jensen Application USE-0120-2021, based on the findings
+and subject to the conditions listed in the staff report dated September 9, 2021.
+
+Second: Commissioner Van Hoff.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Tonks, Van Hoff, Fowler, Ogden and Nixon voted, “Aye”.
+
+3.     Public Hearing: Cinnamon Ridge Lots 2 & 3 Plat Amendment (Administrative
+       Action)
+
+A request by Alex Cross, representing the property owners, for approval of a plat amendment to
+adjust the common property line between Lots 2 and 3. The properties are located at approximately
+1106 and 1124 E. LeAmbra Lane in the A5 (Agricultural, 5 acre minimum) Zone and South
+Mountain Agreement area. Application: SUBD-110-2021: Staff contact: Maryann Pickering at
+801-576-6391 or maryann.pickering@draperutah.gov.
+
+
+
+                                                  6
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 7
+Maryann Pickering, Planner, presented an aerial map, land use map, and zoning map. She
+explained the history behind the South Mountain development agreement and how it affects the
+property in question. She stated that a portion of the lot line would move. She presented the original
+plat as well as the proposed plat and explained the differences between them.
+
+Vice Chairman Hawker asked whether the lots are being built on currently.
+
+Ms. Pickering confirmed as much. She stated that the purpose is to adjust the corner for the house.
+
+Commissioner Van Hoff asked about utilities.
+
+Brien Maxfield stated that the utility companies have been consulted and will have to sign off.
+
+Vice Chairman Hawker invited the applicant up.
+
+Broch Lassig, homeowner, stated that the utilities are on the eastern side of the lot so that will not
+affect it. He stated that the retaining walls will be pulled back about two feet, and that’s the purpose
+for this.
+
+Vice Chairman Hawker opened the public hearing.
+
+Vice Chairman Hawker closed the public hearing.
+
+Motion: Commissioner Nixon motioned to approve the plat amendment as requested by
+Alex Cross for the Cinnamon Ridge lots 2 and 3 for the plat amendment application SUBD-
+110-2021 based on the findings and subject to the conditions listed in the staff report dated
+September 14, 2021.
+
+Second: Commissioner Tonks.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Tonks, Van Hoff, Fowler, Ogden and Nixon voted, “Aye”.
+
+4.     Public Hearing: Day Dairy Medical Use Text Amendment (Legislative Action)
+
+On the request of Adam Lankford, representing Wasatch Residential Group for a Text Amendment
+to add Medical Services as a permitted use in the CSD-DD (Day Dairy Commercial Special
+District) zone. The zone is located at approximately 527 East 12300 South. Application
+TEXTMAP-0140-2021.        Staff     contact    is   Jennifer    Jastremsky,     801-576-6328,
+jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented the zoning map and clarified the area to be
+affected by the text amendment. She explained that the text amendment would allow medical
+services to go into the retail buildings.
+
+Vice Chairman Hawker asked about the definition of medical services.
+
+
+                                                   7
+Draper City Planning Commission Meeting
+September 23, 2021
+Page 8
+
+Ms. Jastremsky clarified the definition. She stated that the medical services are out-patient only.
+
+Commissioner Fowler asked about whether the medical services were accidentally left out.
+
+Ms. Jastremsky stated that it was not included in the CSD. She stated that most standard
+commercial zones allow for medical. She stated that medical offices are no different than standard
+offices for parking and architecture.
+
+Vice Chairman Hawker invited the applicant up.
+
+Adam Lankford, applicant, stated that they were approved for phase 2 and had created this list 12
+years ago. He stated that medical services have changed over 12 years. He stated that this helps
+them to be more competitive.
+
+Vice Chairman Hawker opened the public hearing.
+
+Vice Chairman Hawker closed the public hearing.
+
+Motion: Commissioner Ogden motioned to approve the Text Amendment to add Medical
+Services as a permitted use in the CSD-DD zone application TEXTMAP-0140-2021 as
+requested by Adam Lankford representing Wasatch Residential Group based on the
+findings and subject to the conditions listed in the staff report dated September 23, 2021.
+
+Second: Commissioner Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Tonks, Van Hoff, Fowler, Ogden and Nixon voted, “Aye”.
+
+Ms. Jastremsky reminded the commissioners about making up training.
+
+5.     Adjournment
+
+Commissioner Tonks motioned to adjourn the meeting.
+
+All were in favor of adjournment.
+
+The meeting adjourned 7:58 p.m.
+
+
+
+
+                                                 8
+

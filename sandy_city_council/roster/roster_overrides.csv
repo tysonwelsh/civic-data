@@ -1,0 +1,7 @@
+# roster_overrides.csv — Sandy hand-correction layer (applied LAST by roster_lib, wins ties).
+# Keyed by (seat_id, person_key, start_date); any non-empty cell in a TERM_COLUMNS field
+# overwrites the generated value, and "override:roster_overrides.csv" is appended to sources.
+# Currently 0 data rows — every Sandy tenure reconciles from elections + minutes + cities.db
+# without a hand correction. Add rows here (never edit the generated CSVs) if a future refresh
+# needs one. Cardinal rule: corrections go through this file, never in-place edits.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

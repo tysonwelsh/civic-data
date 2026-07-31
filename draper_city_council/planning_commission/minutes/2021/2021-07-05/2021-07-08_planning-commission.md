@@ -1,0 +1,346 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=464&doc_id=2ab96386-0206-11ec-81b1-0050569183fa
+> Meeting date: 2021-07-08
+> Format: text
+
+Approved minutes 7/22/2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, JULY 8, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:        Chairperson Andrew Adams, Commissioners Mary Squire and John Van
+                      Hoff, Alternate Commissioners DeLaina Tonks, Susan Nixon, and Tab
+                      Bingham
+
+ABSENT:               Vice Chairperson Craig Hawker, Commissioners Gary Ogden, and Lisa
+                      Fowler
+
+STAFF PRESENT:        Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                      Amie Salazar and Todd Draper
+
+6:30 PM Business Meeting:
+
+Chairperson Andrew Adams called the meeting to order.
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for June 24, 2021
+       (Administrative Action)
+
+Motion: Commissioner Susan Nixon motioned to approve the June 24, 2021 Minutes.
+
+Second: Commissioner Mary Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+2.     Public Hearing: Draper Lodging LLC Plat Amendment (Administrative Action)
+
+On the request of Gureet Grover, representing Draper Lodging LLC, for a Plat Amendment on
+2.71 acres of land located at 12033 South State St in the CR zone. Application SUBD-679-2019.
+Staff contact: Jennifer Jastremsky, 801.576.6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, provided a brief overview of the subject property noting
+that it had a land use designation of Community Commercial and a zoning designation of
+Regional Commercial. She indicated that the applicant wanted to split the lot into two pieces, so
+the hotel and outdoor recreation were separated with their own parking areas. She noted there
+would be a shared access area for the two lots.
+
+Commissioner Tab Bingham inquired how many units the hotel had.
+
+Ms. Jastremsky replied that she did not remember but staff did ensure that the parking that
+remained on the property was sufficient for the number of units.
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 2
+Gureet Grover, Applicant, noted the hotel was 60 units. He noted that they had not made any
+decisions about further development of the lots but simply wanted it separated if they wanted to
+do so in the future.
+
+Chairman Adams opened the public hearing portion of the meeting. No comments were offered,
+and the public hearing was closed.
+
+Motion: Commissioner John Van Hoff motioned to approve the Plat Amendment as
+requested by Gureet Grover, representing Draper Lodging LLC, for the Draper Lodging
+LLC Plat Amendment, Application SUBD-679-2019, based on the findings and subject to
+the conditions listed in the staff report dated June 25, 2021
+
+Second: Commissioner Susan Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+3.     Public Hearing: Summit Commerce Center Site Plan (Administrative Action)
+
+On the request of Mark McKee representing ARCO Design/Build Southwest, LLC and Exeter
+Draper Land, LLC a Site Plan request for approximately 26.937 acres located at approximately
+77 W. Golden Harvest Rd. / 13004 S. Pony Express Rd. Application SPR-0014-2021. Staff
+Contact: Todd Draper, 801.576.6335, todd.draper@draperutah.gov.
+
+Todd Draper, City Planner, provided an aerial map of the site and noted that it was designated as
+a business and light manufacturing land use area and zoned M1 (Light Manufacturing). He
+presented the site plan and noted that the proposed building was pushed to the left side of the
+property so another building could come in on the right side in the future. He indicated that plans
+met landscaping requirements. Elevation renderings were shown and indicated the facade would
+consist of three main colors. He pointed out that they were requesting deviations from the
+required variations along the roof line as well as on sides of the building for portions of over 100
+feet of uninterrupted horizontal surfaces on the north and south facades. He shared that the
+applicant also requested they be allowed to use a different color of the same material rather than
+a different material to meet other facade requirements. He explained that lighting plans met
+requirements except for the division of the average by the max which is intended to make
+lighting uniform. He noted that there was not going to be lighting in the vacant portion at this
+time which is why the lighting was uneven. He stated that they would be putting in an 8-foot-tall
+fence with a 15-foot landscape buffer along portions of the property that bordered residential
+homes.
+
+Commissioner Tonks asked for further clarification on the requested deviations.
+
+Mr. Draper explained there were four deviation requests three of which are related. He noted that
+three dealt with vertical or horizontal articulation along the walls. He noted that there were some
+articulations along the outside walls but that they did not strictly meet the specific regulations.
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 3
+Commissioner Von Hoff asked if the applicant was working with engineering regarding the
+access points that did not currently meet their requirements.
+
+Brien Maxfield, Senior Engineering Manager replied that the applicant had a traffic engineer
+provide a write up on the offsets regarding the access points. He noted the write up indicated the
+access points would not create a safety hazard and that none of the studies showed traffic outside
+of the acceptable levels of service required. He pointed out that the site was required to direct
+traffic to Pony Express Road until they can finish the analysis on the structural capacity of
+Golden Harvest Road.
+
+Reed Hart, Applicant, stated that in areas where they did not strictly comply with the code that
+they were complying with the intent of the code.
+
+Commissioner Tonks asked the applicant to discuss their selection of pedestrian connectivity for
+their deviation option.
+
+Mr. Hart indicated the minimum requirement was to have pedestrian areas. He noted they have
+created two amenity areas near the building with shade trees.
+
+Commissioner Nixon asked if they could add some of the same articulation found on the corner
+entry along the sides of the building to break up the long stretches of wall.
+
+Mr. Hart expressed that it was difficult because the loading docks needed to be flat, but they
+could investigate adding some accent panels and more color.
+
+Chairman Adams stated that his big concern was that the vacant grass field remained nice until
+something else goes in.
+
+Mr. Hart noted they plan for the field to only be vacant for about two months.
+
+Chairman Adams opened the public hearing for this item. No comments were made, and the
+public hearing was closed.
+
+Commissioner Van Hoff remarked that variation in the paint color makes a big difference in the
+look of the large tilt up concrete buildings.
+
+Chairman Adams inquired if the applicant was required to follow the color schemes in the
+renderings.
+
+Ms. Jastremsky stated that they were required to follow the approved colors.
+
+Chairman Adams asked for clarification as to the blue color on the plans
+
+Ms. Jastremsky clarified that the blue color was representative of glass.
+
+
+
+
+                                                 3
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 4
+Mr. Hart clarified that the blue glass represented transparent glass. He noted the gray glass on the
+entrance feature would be opaque.
+
+Commissioner Tonks stated that she believed the applicant met each of the requirements for each
+of the deviations.
+
+Motion: Commissioner Tonks motioned to approve the deviation request from horizontal
+and vertical facade articulation as requested by Mark McKee representing ARCO
+Design/Build Southwest LLC and Exeter Draper Land LLC for the Summit Commerce
+Center, Application SPR-0014-2021, based on the findings and subject to the conditions
+listed in the staff report dated June 29, 2021.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+Motion: Commissioner Van Hoff motioned to approve the deviation request from
+significant horizontal facade articulation as requested by Mark McKee representing
+ARCO Design/Build Southwest LLC and Exeter Draper Land LLC for the Summit
+Commerce Center, Application SPR-0014-2021, based on the findings and subject to the
+conditions listed in the staff report dated June 29, 2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+Motion: Commissioner Nixon motioned to approve the request for roofline and parapet
+deviations requested by Mark McKee representing ARCO Design/Build Southwest LLC
+and Exeter Draper Land LLC for the Summit Commerce Center, Application SPR-0014-
+2021, based on the findings and subject to the conditions listed in the staff report dated
+June 29, 2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+Motion: Commissioner Squire motioned to approve the deviation from materials variation
+as requested by Mark McKee representing ARCO Design/Build Southwest LLC and
+Exeter Draper Land LLC for the Summit Commerce Center, Application SPR-0014-2021,
+based on the findings and subject to the conditions listed in the staff report dated June 29,
+2021.
+
+Second: Commissioner Tonks
+
+
+                                                 4
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 5
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+Motion: Commissioner Tonks motioned to approve the site plan as requested by Mark
+McKee representing ARCO Design/Build Southwest LLC and Exeter Draper Land LLC
+for the Summit Commerce Center, Application SPR-0014-2021, based on the findings and
+subject to the conditions listed in the staff report dated June 29, 2021.
+
+Second: Commissioner Van Hoff
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+4.     Public Hearing: Draper Warehouse Site Plan (Administrative Action)
+
+On the request of Adam Webber, property owner, for approval of a site plan application. The
+applicant is requesting to construct a new office/warehouse building on the east half of the
+property. The property is located at approximately 106 E. 13200 South in the CG (General
+Commercial) zone and is approximately 0.94 acres in size. Application SPR-1127-2021. Staff
+contact: Maryann Pickering, 801.576.6391, maryann.pickering@draperutah.gov.
+
+Maryann Pickering, City Planner, introduced the item and noted that the property was partial
+built in 2000 and was in the community commercial land use designation and general
+commercial zoning designation. She explained that the applicant was proposing to build another
+warehouse structure on the east side of the property with shared parking between the two
+buildings. She noted that since the primary building use was warehousing, they would be able to
+meet the parking requirements. She shared that they planned to keep existing landscaping with
+the addition of some shrubs, trees, and rock mulch around the building. She stated that the
+exterior was primarily CMU with some stone and other accent materials. She explained that it
+was a two-story building and complied with the 35-foot height limit.
+
+Adam Webber, Applicant, indicated that they have run out of space in their existing building and
+desired to expand their usable space with the proposed structure.
+
+Chairman Adams opened the public hearing on the item. No comments were offered, and the
+public hearing was closed.
+
+Motion: Commissioner Bingham motioned to approve the site plan request as requested by
+Adam Webber, property owner for Draper Warehouse, Application SPR-1127-2021, based
+on the findings and subject to the conditions listed in the staff report dated June 29, 2021.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+
+                                               5
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 6
+
+5.     Public Hearing: City Initiated 2021 Bulk Text Amendment #1 (Legislative Action)
+
+On the request of Draper City for a Text Amendment to Tiles 9 and 17 of Draper city Municipal
+Code in order to amend general regulations pertaining to definitions, permitted use reviews,
+conditional use permits, site plan reviews, landscaping, addressing, appeals, land use buffers,
+parking, lot and yard requirements, swimming pools, development standards, and other
+typographical and de minimis corrections. This application is known as the City Initiated 2021
+Bulk Text Amendments #1. Application TEXTMAP-0018-2021. Staff contact: Todd Draper,
+801.576.6335, todd.draper@draperutah.gov.
+
+Mr. Draper explained the purpose of the bulk amendments was to update the Draper City
+Municipal Code and keep it regularly maintained. He noted that most of the proposed changes
+were a response to changes in related laws and regulations and to offer greater clarity. He
+indicated the definitions for adversely affected party and primary entrance would be added. He
+pointed out minor word and grammar changes as well as other clarifications. He briefly reviewed
+other minor changes to the site plan submittal requirements and indicated that the drainage plan
+was given its own separate section. He pointed out changes to the appeals sections regarding site
+plans, variances, building permits, non-conforming uses, sign permits, temporary use permits,
+administrative interpretations, and appeal of administrative decisions. He shared that due to
+changes in state law they have made changes to the development standards regarding setbacks
+for single-family and two-family dwellings in RM1 and RM2 residential zones. He stated that
+additions were made to landscaping requirements regarding storm water infrastructure. He
+indicated there was a proposal to remove text regarding on-street parking and other updates made
+to compact parking space regulations. He noted that they have proposed striking all the current
+ordinance language regarding swimming pools and replacing it with a new section for outdoor
+pools.
+
+Commissioner Tonks pointed out that state code allowed for a 10-day time period to file an
+appeal, but their code was inconsistent and allowed for 10 days, 14 days, or 15 days depending
+on the section.
+
+Ms. Jastremsky replied that she did not know what the reasoning was behind the inconsistency in
+the code. She noted they could ask for the dates to be made similar if they desired.
+
+Commissioner Tonks asked if paper submissions were required in addition to electronic.
+Ms. Jastremsky responded that they usually did not. She clarified that they started going
+paperless last year.
+
+Commissioner Tonks inquired, in reference to section D under architectural renderings, if
+separate signage permits were required.
+
+Mr. Draper explained that a separate sign permit was required but they wanted to see signage
+location and size on the architectural renderings.
+
+Commissioner Tonks asked if there was an appeal process for site plans.
+
+
+                                                6
+Draper City Planning Commission Meeting
+July 8, 2021
+Page 7
+
+Ms. Jastremsky indicated that there was and could be found in section 9-5-090(F). She noted that
+it follows the same process as other appeal processes.
+
+Chairman Adams opened the meeting up for a public hearing on the item. No comments were
+made, and the public hearing was closed.
+
+Motion: Commissioner Squire motioned to forward a positive recommendation to the City
+Council for the text amendment as requested by Draper City for the City Initiated 2021
+Bulk Text Amendments #1, Application TEXTMAP-0018-2021, based on the findings and
+subject to the conditions listed in the staff report dated June 28, 2021, with the amendment
+to make the appeals time period consistent throughout the sections of the code.
+
+Second: Commissioner Bingham
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+6.     Adjournment
+
+Motion: Commissioner Squire motioned to adjourn the meeting.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Van Hoff, Tonks, Squire, and Nixon voted, “Aye”.
+
+The meeting adjourned 7:53 p.m.
+
+
+
+
+                                               7
+

@@ -1,0 +1,116 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01102022-537
+> Meeting date: 2022-01-10
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2022-01-10
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01102022-537
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                        Minutes         of the
+                                                           Millcreek           Community               Reinvestment               Agency
+                                                                                       January        10,    2022
+                                                                                            7:00      p.m.
+                                                                                       Regular        Meeting
+
+
+
+
+The Corni'nunity          Reinvestment          Agency        of Millcreek,        Utah, met in a regular                public        meeting      on
+January      10, 2022 at City         Hall,     located     at 3330 S. 1300             E., Millcreek,        UT 84106.          The meeting
+was live streamed           via the City's        website      with    an option         for online       public     comment.
+
+
+PRESENT:
+
+
+Board     Members                                                     City     Staff
+Jeff Silvestrini,        Chair                                        John Brems,           City Attorney
+Silvia    Catten                                                      Elyse     Sullivan,         Agency      Recorder
+Thom      DeSirant                                                    Mike      Winder,      Assistant        City Manager
+Cheri    Jackson                                                      Kurt     Hansen,       Facilities      Director
+Bev Uipi                                                              Francis     Lilly,     Planning        & Zoning         Director
+
+
+
+Attendees:         No public       attendees.
+
+
+REGULAR             MEETING:            7:00 p.m.
+TIME      COMMENCED:                   8:56 p.m.
+
+
+Chair    Silvestrini      called    the meeting        to order.      He said all the items were approvals                         of interlocal
+agreements        between        the Agency       and various         taxing     entities     with     respect      to the Woodland
+Avenue      Community            Reinvestment         Area.    The entities        have all adopted             the agreements               allowing
+tl'ie increased     amount       in taxes be applied          to build        Millcreek       Common.
+
+
+1. Discussion          and Consideration              of Resolution           22-01,      Approving          an Interlocal
+Cooperative         Agreement          with     the Central         Utah       Water       Conservancy             District      for    the
+Woodland          Avenue      Community            Reinvestment              Project       Area
+
+
+2. Discussion          and Consideration              of Resolution           22-02     Approving            an Interlocal
+Cooperative         Agreement          with     Mt.    Olympus         Improvement                District     for the Woodland
+Avenue      Community              Reinvestment           Project     Area
+
+
+3. Discussion          and Consideration              of Resolution           22-03,     Approving           an Interlocal
+Cooperative         Agreement          with     the Salt Lake          City     Mosquito           Abatement          District         for    the
+Woodland          Avenue     Community             Reinvestment              Project       Area
+Mfflcreek       CRA       Meeting          Minutes                                                    10 January            2022        Page       2 of 2
+
+
+4. Discussion          and     Consideration               of Resolution               22-04,     Approving           an Interlocal
+Cooperative          Agreement            with      the     Salt    Lake       City      School        District      for     the Woodland
+Avenue        Community              Reinvestment                Project     Area
+
+
+5. Discussion          and     Consideration               of Resolution               22-05,     Approving           an Interlocal
+Cooperative          Agreement            with      Salt     Lake      County           for     the Woodland               Avenue       Community
+Reinvestment            Project       Area
+
+
+6. Discussion          and     Consideration               of Resolution               22-06,     Approving           an Interlocal
+Cooperative          Agreement            with     Mfflcreek           for    the      Woodland             Avenue          Community
+Reinvestment            Project       Area
+
+
+Board       Member        Jackson         moved           to adopt         Resolution            22-01,     Resolution             22-02,    Resolution        22-
+03, Resolution          22-04,        Resolution           22-05,      and     Resolution             22-06       approving          interlocal
+cooperative       agreements              with     the various             entities.      Board         Member         DeSirant             seconded.       The
+Recorder       called        for    the vote.      All     Board       Members                voted    yes. The       motion         passed
+unanimously.
+
+
+7. Approval       of December               13,    2021      Regular          Meeting            Minutes
+
+
+Board       Member        Jackson         moved           to approve          the      regular        minutes        of December             13.    2021.
+Board       Member        Uipi       seconded.           Chair      Silvestrini          called       for   the vote.        All    Board      Members
+voted    yes. The       motion         passed       unanimously.
+
+
+
+
+ADJOURNED:                   Board      Member             Uipi     moved         to adjourn            the meeting           at 8:58       p.m.    Board
+Member        Jackson          seconded.          Chair      Silvestrini          called        for   the vote.       All    Board          Members         voted
+yes. The      motion         passed      unanimo
+
+
+                                   APPROVED:
+
+
+
+
+                                      Attest:
+

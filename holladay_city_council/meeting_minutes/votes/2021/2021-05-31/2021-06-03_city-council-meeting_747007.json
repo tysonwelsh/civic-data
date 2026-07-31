@@ -1,0 +1,108 @@
+{
+ "date": "2021-06-03",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/747007.pdf",
+ "path": "minutes/2021/2021-05-31/2021-06-03_city-council-meeting_747007.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "recess the Council Meeting and reconvene in a Redevelopment Agency (\u201cRDA\u201d) Board Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council and the Council meeting recessed at 6:27pm.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "adjourn the Work Meeting and reconvene in a Closed Session pursuant to Utah Code Section 52-4-204 and 205 to discuss personnel issues, potential litigation, and property acquisition and disposition",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Gibbons",
+   "motion": "adjourn the Closed Session",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Durham",
+   "seconder": "Gibbons",
+   "motion": "adjourn the Council Meeting",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

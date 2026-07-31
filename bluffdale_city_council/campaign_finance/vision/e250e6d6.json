@@ -1,0 +1,43 @@
+{
+  "contributions": [
+    {
+      "date": "10/11/25",
+      "name": "Stephanie Henderson",
+      "amount": "100.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/14/25",
+      "name": "Republican Women Lead",
+      "amount": "500.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/23/25",
+      "name": "Dan and Tawnee McCay",
+      "amount": "500.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "10/14/25",
+      "recipient": "Sun Print Solutions",
+      "purpose": "Mailer",
+      "amount": "2,169.96",
+      "in_kind": false
+    },
+    {
+      "date": "10/24/25",
+      "recipient": "Costco",
+      "purpose": "candy",
+      "amount": "166.48",
+      "in_kind": false
+    }
+  ],
+  "totals_printed": {
+    "total_contributions": "1,100.00",
+    "total_expenditures": "2,336.44"
+  },
+  "_correction": "2026-07-18 owner-authorized sign correction (cf-adjudication): expenditure line-item amounts were transcribed verbatim WITH the form's Schedule-B outflow parentheses, which the parser read as NEGATIVE. The cover sheet's own running-balance arithmetic proves they are POSITIVE magnitudes SUBTRACTED (Beginning + Contributions = Subtotal; Subtotal - Total Expenditures = Ending). Parentheses removed; magnitudes unchanged. Old cache backed up in _backups/2026-07-18-cf-adjudication/bluffdale/vision/."
+}

@@ -1,0 +1,11 @@
+# West Valley City council week ending 2022-11-01
+_Window 2022-10-26 – 2022-11-01_
+
+- **Meetings:** 2 — council regular meeting, council study meeting
+- **Votes:** 9 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 51 member-vote rows across 9 motions
+- [2022-11-01_council-regular-meeting.md](../../meeting_minutes/minutes/2022/2022-10-31/2022-11-01_council-regular-meeting.md)
+- [2022-11-01_council-study-meeting.md](../../meeting_minutes/minutes/2022/2022-10-31/2022-11-01_council-study-meeting.md)

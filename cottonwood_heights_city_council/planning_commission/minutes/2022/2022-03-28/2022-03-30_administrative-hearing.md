@@ -1,0 +1,108 @@
+# Cottonwood Heights Planning Commission — 2022-03-30
+> Source: https://www.utah.gov/pmn/files/838291.pdf
+> Meeting date: 2022-03-30
+> Format: pdf-text
+
+---
+
+
+> Source URL: https://www.utah.gov/pmn/files/838291.pdf
+> Meeting date: 2022-03-30  ·  Retrieved: 2026-07-13  ·  Format: pdf-text  ·  Source: pmn
+
+---
+
+ 1
+ 2                      MINUTES OF THE COTTONWOOD HEIGHTS CITY
+ 3                              ADMINISTRATIVE HEARING
+ 4
+ 5                                      Wednesday, March 30, 2022
+ 6                                              12:00 p.m.
+ 7                                      Meeting Held Electronically
+ 8
+ 9   ATTENDANCE
+10
+11   Present:       Michael Johnson, Community and Economic Development Director/Hearing Officer
+12                  Samantha DeSeelhorst, Assistant City Planner and Sustainability Analyst
+13                  Heather Sundquist, Deputy City Recorder
+14                  Maverick Yeh, Assistant City Planner
+15
+16   Others:        William Vargo, Applicant
+17
+18   1.0    Administrative Hearing Meeting
+19
+20   Community and Economic Development Director/Hearing Officer, Michael Johnson called the
+21   meeting to order at 12:00 p.m. and welcomed those present.
+22
+23          1.1     (Project CUP-22-004) Request from William C. Vargo for an Eight-to 12-foot
+24                  Precast Fence Above a Block Retaining Wall Along the East Property Line at
+25                  2665 East Chalet Circle.
+26
+27   Assistant City Planner, Maverik Yeh, presented the staff report and stated that the applicant is
+28   proposing to build an eight to 12-foot fence along his east property line. The proposed fence is
+29   intended to block out light and noise from Creek Road. Currently, the area is open space and there
+30   is nothing to prevent noise and light from trespassing onto the property. The proposed fence will
+31   be precast concrete to be placed above the existing block retaining wall. Public notice was sent
+32   out on February 18 and no public comments were received by staff. Staff found the proposed
+33   fence height to be reasonable. It was noted that the adjacent property is owned by the City of
+34   Cottonwood Heights and consent is required.
+35
+36   Mr. Johnson reported that the length of the fence will be 60 feet. Because the applicant’s property
+37   sits lower, it will be necessary to cut into the existing slope to retain the site with the block wall
+38   on top. The applicant, Mr. Vargo stated that the property line runs halfway through the slope.
+39   Mr. Johnson explained that if he is cutting below the existing grade, it does not count against the
+40   total height. Any fill, however, that is above natural grade will count against the maximum height.
+41
+42   Mr. Johnson explained that this request is unique in that a height range of eight to 12 feet is being
+43   considered. The neighbor’s consent, which is the City, can be incorporated into the decision.
+44
+45   Mr. Johnson opened the public hearing. There were no public comments. The public hearing was
+46   closed.
+47
+
+     APPROVED Cottonwood Heights Administrative Hearing – 03/30/22                                       1
+ 1   Hearing Officer Johnson moved to APPROVE CUP-22-004 pursuant to the following:
+ 2
+ 3   Conditions:
+ 4
+ 5          1.      A Building Permit and all necessary inspections shall be obtained and completed.
+ 6
+ 7          2.      The Building Permit will clearly show the proposed materials and design.
+ 8
+ 9   Approval will constitute the City’s written consent of a fence/wall combination height of up to a
+10   maximum of 12 feet. The height will be verified during the Building Permit process.
+11
+12   2.0    CONSENT AGENDA
+13
+14          2.1     Approval of Minutes for March 30, 2022.
+15
+16   (The Appeals Hearing Officer will approve the minutes of the March 30, 2022, meeting after the
+17   following process is met. The recorder will prepare the minutes and email them to the hearing
+18   officer. The hearing officer will have five days to review the minutes and provide any changes to
+19   the recorder. If, after five days there are no changes, the minutes will stand approved. If there
+20   are changes, the process will be followed until the changes are made and the hearing officer is in
+21   agreement, at which time the minutes shall be deemed approved.)
+22
+23   4.0    ADJOURNMENT
+24
+25   The Administrative Hearing adjourned at approximately 12:05 p.m.
+
+
+
+
+     APPROVED Cottonwood Heights Administrative Hearing – 03/30/22                                   2
+1   I hereby certify that the foregoing represents a true, accurate and complete record of the
+2   Cottonwood Heights City Administrative Hearing held Wednesday, March 30, 2022.
+3
+
+4   Teri Forbes
+5   Teri Forbes
+6   T Forbes Group
+7   Minutes Secretary
+8
+9   Minutes Approved: April 8, 2022
+
+
+
+
+    APPROVED Cottonwood Heights Administrative Hearing – 03/30/22                            3
+

@@ -1,0 +1,38 @@
+{
+ "date": "2020-06-08",
+ "year": 2020,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2020/2020-06-08/2020-06-08_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of the Kearns Metro Township Council meetings held on April 6, 2020, and May 11, 2020. Council Member Schaeffer amended the motion to correct the spelling of his name on both minutes. Council Member Snow accepted the amendments. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

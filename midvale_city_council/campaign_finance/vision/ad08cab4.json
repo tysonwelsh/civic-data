@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "9/1/23", "name": "Susan Frampton", "amount": "1000", "in_kind": false},
+    {"date": "8/8/23", "name": "Dustin Snow", "amount": "25", "in_kind": false},
+    {"date": "11/12/23", "name": "Dustin Snow", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/8/23", "recipient": "Midvale City", "purpose": "Running fee", "amount": "25", "in_kind": false},
+    {"date": "10/10/23", "recipient": "Salt Lake County Clerk", "purpose": "E-Voter List", "amount": "15", "in_kind": false},
+    {"date": "11/12/23", "recipient": "Paris Snow", "purpose": "Bio, Sign, Mailer Artwork", "amount": "50", "in_kind": false}
+  ],
+  "total_contributions": "1075",
+  "total_expenditures": "90",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "985",
+  "_meta": {
+    "index_path": "raw/2023_16_Dustin-Snow.pdf",
+    "candidate": "Dustin Snow",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_16_Dustin-Snow.pdf",
+    "pages": 3
+  }
+}

@@ -1,0 +1,515 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01222024-766
+> Meeting date: 2024-01-22
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2024-01-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01222024-766
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                Minutes            of the
+                                                                                        Mnlcreek               City      Council
+                                                                                               January            22, 2024
+                                                                                                       5:00       p.m.
+                                                                                                Work           Meeting
+                                                                                                       7:00       p.m.
+                                                                                               Regular            Meeting
+
+
+
+
+ The City       Council       of Millcreek,                 Utah,     met in a public         work     meeting           and regular          meeting        on
+ January       22, 2024,      at City              Hall,    located    at 1330 E. Chambers                Avenue,          Millcreek,          UT 84106.          The
+meeting        was live      streamed                via the City's       website      with    an option          for online         public      cominent.
+
+
+
+PRESENT:
+
+
+Council        Members                                                                       City     Staff
+Jeff Silvestrini,          Mayor                                                             Mike      Winder,         City    Manager
+Silvia     Catten,     District        1                                                     Francis     Lilly,       Assistant        City Manager
+Thom       DeSirant,        District           2                                             Alex     Wendt,          Deputy       City   Recorder
+Cheri     Jackson,        District         3                                                 Kurt     Hansen,         Facilities      Director
+Bev Uipi,       District      4                                                              John Brems,           City       Attorney        (Virtual)
+
+                                                                                             Robert     May,       Planner
+                                                                                             Jim Hardy,           Building         Official
+
+
+
+Attendees:        Blake       Christensen,                  Jamie Walker,        Ryan Warner,             Conrad          Reichert,       Emma            Verharren,
+Aubrey       Reichert,       Tim       Bachrnan,              Jennifer    Christensen,          Jed Brian,         Rogelio         Franco,        Aliza      Franco
+Freedmen,        Cynthia          Lund,            Howard       Lemcke,      Laura      Renshaw,          Nelson          Warr,      David       Baird
+
+
+WORK           MEETING               - 5:00 p.m.
+TIME        COMMENCED                          - 5:02 p.m.
+
+
+Minutes        by Deputy          City         Recorder,        Alex     Wendt
+
+
+Mayor       Silvestrini      called        the work           meeting      to order.
+
+
+1.   Unified      Fire     Authority                 Quarterly         Report;       Chief     Zach      Robinson
+Chief    Robinson          could     not make it to the meeting.
+
+
+2. Wasatch         Front       Waste               and Recycling          District      Quarterly             Report;         Pam     Roberts,            General
+Manager/CEO
+Ms. Roberts          gave the report                  from Wasatch         Front      Waste         and Recycling.             The average            fee per ton
+for curbside       garbage         is $33.73 per ton, the recycling                          fee is $65.43            per ton, and green waste is
+$17.58      per ton. Green waste                      collection       is very popular         in Millcreek.             This is the fourth               year of
+reserving      a curbside         dumpster                 for green waste.      Council        Member            Catten       said her neighborhood                   is
+Millcreek        City     Council          Meeting       Minutes                                         22 January            2024      Page 2 of 9
+
+
+
+frustrated      because      dumpster          reservations          on the weekend                 sell out so fast. That is how popular                            the
+service      is. Council      Member          Catten      asked if the dates for reservation                           can be spaced out more to
+allow      more people        to get the dates they prefer                    for their reservations.                  Ms. Roberts         said she will
+check on the feasibility              of this. Mayor           Silvestrini          said that Ms. Roberts                    lias helped     with        resident
+issues on reserving            green waste            collection.
+
+
+Wasatch        Front     Waste      and Recycling           District       does their best to divert                   waste      from     landfills.
+Residents       of Millcreek         diverted         about 20% of waste                  from      landfills      in 2023.       The district           wide
+goal is 18%. Millcreek               makes       up 18% of the district,                      15,787     homes      in the 85,806-home                   district.
+96% of Millcreek             residents       responded        that they want                  to keep weekly           recycling       pick-up.          Curbside
+recycling       in Millcreek        did decrease           in 2023 when             compared             to 2022 by less than 100 tons. Ms.
+Roberts       said she would          do more research               into this. Landfill                vouchers       have been moved                to an
+online     reservation       system         instead     of paper vouchers.                    7,616 reservations             and containers          were
+delivered       during     the 120 programs,              this equates to               63 deliveries           per day. 1,296           containers          were
+delivered       in 21 days to Millcreek.                This is 8% of the number                         of homes          serviced    in the city and
+17% of the total number                of containers          delivered          district        wide.       Collection        day for garbage             and
+recycling       has been changed              to Tuesday         for 736 homes.                  Jr. Vigil      from       Wasatch     Front     Waste          and
+Recycling        has been nominated               for the National               Waste          and Recycling          Association          (NWRA)
+Driver      of the Year       Competition.            Ms. Roberts            recognized            Council       Member         DeSirant        for his hard
+work      on the Wasatch           Front      Waste      and Recyding               Board.
+
+
+3. Historic        Preservation             Commission           Annual          Update;           Francis        Lilly,      Planning       Director
+Mr. Lilly       said the Historic           Preservation         Commission                   (HPC)      had a great year. They                did a lot of
+work      moving       towards      adding      the Mount           Aire     Acres        neighborhood             to the National          Register          of
+Historic      Places. A neighborhood                   meeting       was held on this issue. A consultant                             was hired to
+conduct       a survey      of the area. The same consultant                           will     probably        be hired       to help complete             the
+paperwork        for nomination.             Once tis        nomination             is complete           it is up to the Council               to adopt
+design      standards      for the neighborhood.                This would              help enforce            compliance.           The HPC         also
+worked        to create a scope of collections                 policy.        Mr.       Lilly     expects       to bring       the final    draft to a
+meeting       in February.         Once this policy           is adopted,           the HPC             can create a web portal              for the
+documents.         The timeline            for the National          Register          nomination            is about a year. This takes a
+significant      amount       of time.       This patient           approach        is better         than doing           it fast. They will        also do a
+survey      in the Rancho          Villa     neighborhood            and the Veteran                  Heights     neighborhood             as potential
+candidates       for adding        to the national          register.        There       are a couple           sites that may be eligible                  but
+would      require      property     owner       buy-in.      Coinmissioner                   Luflcin    has written          a few articles        for the
+city newsletter.
+
+
+4. Update        on Short-Term               Rental       Policy      Amendments;                   Francis       Lilly,      Planning         Director
+Mr. Lilly       gave the update             on short-term          rentals     (STR).           The City        Code was updated               in 2020, this
+limited     the number         of licenses       by council          district,      required            owner    occupancy,           created     occupancy
+limits,     and eliminated          the most egregious               examples.            Additional          updates        may be warranted.
+Owner       occupancy        language         is vague, multiple              STRs            can cluster       in one neighborhood.                Staff
+continue       to receive      complaints         about parking              and noise.           Academic         research        indicates      at least a
+correlation      and potentially             a causal relationship               between           STRs and decreasing                 affordability            of
+housing       options     and supply          of housing       options.          Mr.     Lilly      said that the Airbnb              website       is
+intentionally        vague     about where            the actual locations                of STRs are. Council                  Member         Jackson
+asked where          the STRs are located.               Mr. Lilly         said they are mostly                  east of Highland            Drive.        There
+is a significant         greater    interest     in District         3 and 4.
+Millcreek           City       Council            Meeting             Minutes                                              22 January               2024          Page       3 of 9
+
+
+
+
+Mr.      Lilly     said New           York         City       has mandated                   that the owner             occupant             must     be on premises                 during
+the rental.         Proof      of ownership                   requires          two      items        from      a long        list,    including          tax documents,
+social      security         statements,             pay stubs,              etc. Washington                  County           Utah      states that the owner                     must
+live     on the premises               183        days a year.               STRs         are prohibited              for large          dwellings.           They       are only
+allowed          in dwellings           1500-3500                    square        feet or less. Washington                           County        has an enhanced
+compliance               declaration,           lodging             only,      events         are prohibited               at the rental.           North        Las Vegas
+requires         a 660-foot           separation              requirement,                noise        monitoring             requirement             with       30-day       recording
+capability         prohibited           in single-family                      zones       and must           be used          for overnight               accommodation.
+Hurricane,          Utah       has a 300-foot                   separation            between            rentals.      They           have      a maximum             number            of
+licenses         issued      and a waiting                  list;     only     one owner               can own         a STR.           Hurricane           is contemplating
+prohibiting          them          in single        family           zones.        Mr.       Lilly      spoke       with      the Business             License          Official         in
+Hurricane,          and they           are not satisfied                    with      the 300-foot             separation.             If ownership              changes          the new
+owner        has 45 days to reapply                         or the license               is voided.           Mr.     Lilly      gave        a summary              of emails           that
+he has received.               There        have       been 26 email                   responses,             21 were          in favor         of high        standards,           5
+responses          supported           leaving            the rules           as is or even reducing                       regulation.             Concerns          include        traffic,
+neighborhood                cohesion,             safety,       noise,        owner          occupancy,             over-regulation,                 and affordable
+housing.
+
+
+Staff     recomi'nendations                  include            a 300-foot             separation            between           units,     provide          proof      of residency
+annually          with     a compliance               affidavit              where        the owner           would         provide          documentation                  showing
+residency          through          a utility       bill,      voter         registration,            bank      statement,             car registration,              tax forms,
+insurance          documents,              post      conspicuous                   notice       on exterior          of dwelling,               maximum             dwelling            size
+of potentially             200 square              feet, maximum                    number            of guests       reduced            to 6 and a good                neighbor
+guide.      Currently          state law prohibits                      cities       from       using        only     a STR           notice       as evidence.            Mayor
+Silvestrini         said that Millcreek                      will     ask neighbors                   to document             issues       to help        the city         enforce        the
+rules.     Mr.     Lilly      said perhaps                the city          could        create       a publicly           accessible           map       of where          short-term
+rentals       are in Millcreek.                 Council             Member            Uipi      asked        if residents             can be informed                in the
+newsletter          if you have            a short-term                rental        to contact          the city.         Maybe          there      is a way         to educate
+residents.         Mr.     Lilly      said that the city                    cannot        enforce         code       solely       on a listing            from      Airbnb.         Mr.
+Lilly     asked      the Finance             Director               to obtain         from       the State Tax                Commission              a list of homes                that
+are paying          transient         room         tax to help               enforcement.               Mayor        Silvestrini             said there          are bills        at the
+legislature         now      that would              beef up enforcement                             of the collection                of transient         room       tax. There               is
+also discussion              about      repealing              the prohibition                  on using         an Airbnb              listing.      Mayor          Silvestrini           said
+that perhaps             limiting       rentals       by district              is not the way                to go forward.               Also,       if the city          is too
+draconian          then people             will      avoid           compliance.              Neighbors             are reluctant              to help       with     enforcement,
+but additional             measures             would         cost taxpayer                 money.
+
+
+Council          Member            Jackson         asked            about     rentals         that     are already            too close         to each other.              Mr.     Lilly
+said he would              write      language              that allows             that to continue                for the duration                of the license.               There
+are hundreds              of STRs          in Millcreek,               most         of which            fly under          the radar,          this is still        informative
+because          these     are good         neighbors.                But      some         are very         problematic,              and this is an issue.                 Mr.        Lilly
+said there         is value         in preventing               neighborhoods                    that    are filled           with      short      term      rentals.       Council
+Member           Jackson           asked     that there              be real        teeth      in the rules          because            past issues          have       gone un-
+prosecuted          by the county                 district          attorneys.           The      Business          License           Administrator,                Alex     Wendt,
+spoke      about         compliance             in Millcreek                 when        homeowners                 are notified             that they       need to obtain                  a
+business         license.      Most        people           obtain          a business           license        when        they       have      been notified.              Mr.     Brems
+said there         are a few         options          for enforcing                 compliance.               There        can be a civil             penalty         or criminal
+Millcreek          City    Council         Meeting       Minutes                                   22 January              2024        Page 4 of 9
+
+
+
+penalty,      but the criminal             penalty     has a higher         burden      of evidence.           Mr.     Lilly    said there is value              in
+drafting      law according           to the median           Iaw set. Not too draconian                   and not too vague               or easy. Mr.
+Lilly    said that ten adults in one Airbnb                     is a lot of cars and a lot of adults.                      Mr. Lilly       said he likes
+the idea of a good neighbor                   guide;      this could       serve as constructive                notice.        Mayor     Silvestrini        said
+the separation            between     units     is more important             than a cap on STRs.                 Council        Member          Jackson        did
+not support         increasing       the cap. Council            Member         Uipi      asked if the city increases                  the cap, then
+what happens              when the city needs to increase                   the cap in the future.               A car parked            on the street is
+not always         a car that is from           a STR. Mayor            Silvestrini       said that complaints                  are forwarded           to the
+police      and code enforcement.                   The city must rely on what is verifiable.
+
+
+Mayor       Silvestrini         asked if there was any public                  coinment.
+
+
+David      Baird     said there are many rentals                  that fly under          the radar and there are a few bad actors.
+The system          works       to a certain        extent.    Mr. Baird        said that issues in the winter                    create problems
+with     garbage       trucks     and snowplows.              Mr. Baird       said he would             support       some stronger           regulations.
+
+
+Tara Heiden          said that STRs have their place,                      but they do have an impact                      on the cornrnunity.              The
+parking       in her neighborhood               is really      impacted       by a STR. One owner                     has a permitted            Airbnb         and
+has bought         a second home             that they wish to rent as a STR. The homes                                here were not made to
+have 15 people             in them. The cul-de-sac               already       has problems             with    garbage         removal      and snow
+removal.       Ms. Heiden           did a count on the Airbnb                  website        and found         that there were 90 east of
+Wasatch       Boulevard.          There       were about 500 in the whole                     city, by her count.               She would         like it if
+there was proximity               limit     on STRs.
+
+
+5. R-I      Building        Height        Discussion;         Francis       Lilly,     Planning         Director
+Robert      May,      Planner,       gave this presentation.              The first read was on November                          13, 2023. There
+have been concerns               about the proposed              increase       to dwelling        height.        Staff proposed            a 2-foot
+increase      and the plaru'iing            commission          asked for a different             increase.          The plaru'iing        commission
+and staff invited           18,000        residents     to meet with         plaru'iing       staff to discuss          the updates.         Staff visited
+each of the four community                     councils       and the planning            commission             on two separate            occasions.
+One complaint             that residents        have is that increased               density     will     reduce       property        values.     People
+are also concerned              about blocked           views     and lack of sunlight.             The majority               of community            council
+members        were in support              of combining         Residential          Compatibility            Overlay         Zone (RCOZ)
+standards      with       the R-Zones         and the proposed              changes.      Mr. Lilly        said that when              staff met with           the
+coinmunity          councils,       they had recommendations                     of a 32-foot       lieight       maximum,             restated
+preferences         for a 28-foot          height     maximum,          30-foot      height     and apply          a 60 degree/12-foot               building
+envelope       for properties         west of I-215.           These are from             Canyon        Rim      Citizens       Association,         Mount
+Olympus        Coinrnunity           Council,        the East Mill        Creek      Community            Council,         and Millcreek
+Community           Council       respectively.         94% of new permits                 issued met the RCOZ                    option "A"
+standard      without       need of a deviation               or special      exception.        Most      residential          additions     or
+alterations     were approved               using the RCOZ              option "A"        standard        with       the LUHO          permits      being
+rare. Planning            staff have done a very good job of helping                           residents        meet the city standards.
+
+
+Millcreek      has a max building               elevation        of 28.3 feet in R-1 Zones.                    Holladay         has a 32-foot          limit,
+35 feet in Cottonwood                Heights,         33.3 feet in Murray,             and 28 feet in Salt Lake                  City.     Millcreek        has
+a more      generous        rear yard setback            than other cities           and this can help accommodate                         some height.
+About      50% of Millcreek               is zoned single         family,      18% is zones for higher                    density      multifamily,
+12% is zoned of medium                     density.     Staff recommendations                  include         applying        a box envelope            to the
+Millcreek          City     Council        Meeting       Minutes                                     22 January          2024      Page 5 of 9
+
+
+
+R-2-6.5      zoned lots. Mayor                Silvestrini      said smaller          lot sizes help affordability               and this is already
+allowed      in Millcreek.              The city may have to visit                 this again after the state legislature.
+
+
+6. Staff     Reports
+There      were none.
+
+
+7. Discussion             of Agenda         Items,      Correspondence,                 and/or    Future        Agenda       Items
+There was none.
+
+
+Council       Member            Uipi     moved        to adjourn          the work         meeting      at 6:39 p.m.        Council         Member
+DeSirant       seconded.            Mayor       Silvestrini          called     for the vote.        Council      Member          Uipi      voted    yes,
+Council       Member            DeSirant        voted       yes, Council           Member        Catten        voted    yes, Council           Member
+Jackson       voted        yes, and Mayor              Silvestrini         voted     yes. The motion            passed      unanimously.
+
+
+
+
+REGULAR               MEETING               - 7:00 p.m.
+TIME       COMMENCED:                        7:03 p.m.
+
+
+1. Welcome,           Introduction            and Preliminary                 Matters
+           1.1 Pledge           of Allegiance
+           Mayor          Silvestrini       called     the meeting         to order and led the pledge                 of allegiance.
+
+
+           1.2 Unified            Police     Department            Millcreek         Precinct        Officer     of the Month            for
+           December             2023,      and Officer         of the Year          2023
+            Officer       Ortiz    was awarded           Officer       of the month          for his work        on a bank robbery             which
+           helped         the FBI       catch the suspect.           Multiple       investigators        at UPD        give Officer         Ortiz   high
+           accolades          for his good work.              The Citizens          Advisory      Board        presented     Officer        Ortiz    with   a
+           certificate.        Chief       Petty-Brown         presented         Officer     of the Year for 2023 to Detective
+           Warner.          He has served            as a special      victim      detective     for 18 months.            Detective        Warner     has
+           a great ability          to connect         with    victims,       he is invaluable         to the Millcreek          community.
+           Mayor          Silvestrini      spoke about how a homicide                      occurred      in Millcreek        over the weekend,
+           but Unified            Police    officers     were able to solve this within                   11 hours.       They    did fantastic
+           work.
+
+
+           1.3 Public          Comment
+           A man, who did not give his name,                           opposed        the proposed         change       to code that would
+           allow      30-foot-high           dwellings        in the R-I        Zone.      His view     has been altered           and blocked.
+
+
+           Jed Bryan,          3663 S 1100 E, opposes                   the change         to the code that would             allow        30-foot-high
+           dwellings.          Their     neighbor's         house towers           over their yard. The lots are so small,                     and
+           people         come in and buy homes,                 flatten      the home,        and then build          a much     taller     home.
+           Please consider              the existing        houses.     People       building     big homes        need to either build
+           elsewhere          or dig deeper foundations.
+
+
+           Jennifer        Christensen         said that the house that is over height                     in their neighborhood                has been
+           uncomfortable.               The home built          is so high         that a privacy       fence would         not help. Homes               can
+           be built       at 28 feet or below            and fit the neighborhood.
+Millcreek          City    Council       Meeting         Minutes                                       22 January             2024        Page 6 of 9
+
+
+
+
+            Howard         Lemcke,        3189 E Wasatch                Oaks Circle,         spoke about short-ten'n                    rental     (STR)
+            problems         on Wasatch           Oaks Circle.           The home          in their     circle     that is a STR is being
+            advertised           as allowing       16 renters.         Now       the STR owner             wants      to open a second               STR next
+            to the existing           rental.     Mr. Lemcke            would      like to limit        STRs next to one another.                      He said
+            he does believe            that people          should      be allowed          to do what they would                    like with      their
+            property.        However,           it should    not affect the neighbors                   next to them.           The zoning           should
+            prohibit       this. Special         needs children           in the neighborhood                are at risk from             drivers      who
+            drive     too fast in their circle.             Having        a second         STR in the circle               is very difficult.
+
+
+            Conner         Reichart      and Aubrey          Recichart,          from      Olympus         High      and Evergreen               Junior     High,
+            represent        the STEM           Club    at their scl'iools         and invited          the City          Council      to STEM         Night          on
+            March         7 from     6-8 p.m. Mayor            Silvestrini         asked for an electronic                   copy of their notice                to
+            put in the city newsletter.
+
+
+            Laura      Renshaw,         Manager         of the Millcreek             Library,       gave an update              on some of the events.
+            They will        have a puppet             show and a party             for kids of elementary                   school      age. They will
+            also have an event with                 Millcreek          Promise       about fixing          your      finances         against      inflation.
+            They will        hold an adult writing               group       soon. There          is a teen hangout              every Friday             after
+            school        with    Dungeons         and Dragons,            Magic        the Gathering,           and a teen art club. One great
+            service       they offer      is printing        from       anywhere.          They    get about 15,000                 visitors     every month.
+            Mr. Winder             asked Ms. Renshaw                to continue         sending        event information                to the
+            Coinmunication              Director,       Rita Lund,           who can help add these items to the newsletter.                                      Ms.
+            Renshaw          said that the library            gives out the paper newsletter.
+
+
+            Cynthia        Lund,      Wasatch        Oaks Circle,           said she has a special                needs child          and despite          her
+            best efforts         he can escape the house.                  She is very concerned                  about the safety               on their
+            street. She is scared every                 day about the people                 who might            visit     the STR in their           area.
+            She may not have bought                     their home          if they had known               about all the traffic               and visitors
+            from      the STR.
+
+
+            Rogelio        Franco,      3219 E Wasatch                 Oaks Circle,         said he has owned                 a home       on the circle              for
+            23 years. Mr. Franco                 said he is sorry          everyone         is at the meeting              because       of his rental.           He
+            said he comes to city hall to be in compliance.                                 He said he can solve the problems                             with        the
+            STR. Furthermore,                 he does not intend             to make another               STR in the circle.              Mr. Franco             said
+            he tries to be a good neighbor                     by removing            the snow and helping                    his neighbors.           He said
+            that in the past his house was a problem,                             and he has worked                to solve those issues. Ms.
+            Franco        said that Ms. Lund's               child's      wellbeing         is important         to her. They will               add
+            information           to their STR about keeping                     children     safe. They           advertise         the home        as no
+            parties       allowed      and there are fines for this.
+
+
+            Jamie Walker             started a non-profit              group      called     Olympus        Fast Pitch.          He has emailed              the
+            City    Council         to help get the word               out for a new fast pitch              softball         league      for young
+            women.         He also has concerns                about building            height       increases.          As part of the Millcreek
+            Community              Council,      he supports           raising    building        height    to 32 feet, which                  is still lower
+            than many            other cities in the state. If he built                  his house today             it would         not meet RCOZ.
+            Mr. Walker            said that people          are not building             homes        in Millcreek           because       of the height
+            restrictions.         They would           rather move          to Herriman,          Bluffdale,         or Saratoga           Springs        and
+Millcreek         City         Council      Meeting           Minutes                                     22 January             2024         Page 7 of 9
+
+
+
+            have a taller           home.      It is more economical                   to build      up than sprawl              out. Adding            2-4 more
+            feet will          not be an issue. He said he does not support                               being       able to view            someone         else's
+            yard.
+
+
+            Jared Booth             gave the example                of four neighbors.             Two moved                out of the area because                   they
+            could       not remodel           to get more height.                Two    others were able to dig below                           their homes               and
+            build       basketball        courts     under       their garages.         He is concerned                about the polarization                  effect
+            in Millcreek            where     people          who cannot         afford     to stay, leave.
+
+
+            Ted Freeman,              3335 S 2070 E, provided                     an online          comment.         "It     says that nobody               should
+            park on tlie street during                  the winter        months          and especially            during       snowstori'ns.          But some
+            houses        and apartments             do not provide              off street parking,             what        do those people            do?"
+
+
+2. Reports
+            2.1 Mayor's             Report
+            There       will     be a meeting         held at a disused             assisted         living      facility      on Wednesday                 the 24'h of
+            February.           The Haven          facility     is closing,        it is privately            owned         but the city caru'iot require
+            them to open. Staff has learned                         that the facility         will       be acquired           by Friends         of
+            Switchpoint             as an assisted         living     facility     for people            who would            be homeless           who have
+            mental       health      challenges.          Because        the property         is licensed           for use as an assisted                  living
+            facility,      and Federal           law requires           that the city permit              this use at the facility.                Switchpoint
+            operated           two overflow          shelters       in Millcreek          in past winters.             Those       facilities      were run
+            very well.          The new facility              that they will        run is not a walk-up                    shelter,      it is still   an assisted
+            living      facility.     Millcreek        will     make sure this operates                    well.     This      facility      is necessary            to
+        help solve the problem                       of homelessness.              Mental         health       issues and drug addiction                      issues
+            are big issues for the homeless                         population.         Millcreek         will     ensure this property                 is properly
+        managed                and run.
+
+
+        Mayor            Silvestrini        congratulated            the Corni'nunity             Life    Department.             They have been doing
+            such a great job holding                   community           events at City             Hall.      Mayor        Silvestrini        said he
+            continues           to negotiate       with       the Sheriff's        Department             and UPD            regarding         the future       of
+        UPD.            The cities       and townships              currently       in UPD        plan to stay with               UPD.        Millcreek's            goal
+        is to provide               law enforcement              services        at about the same cost, but it may cost a bit more.
+        They want to keep police                          cost increases          to 7% or less. They                  are working            on keeping             the
+        budget           as low as they can and maintain                          services.       Mayor          Silvestrini       said he has testified
+        regarding               a few bills      at the legislature.
+
+
+        2.2 City           Council         Reports
+        Council           Member          Catten       said she is the Chair               of the Mosquito                  Abatement           District.      She is
+        also the Chair               for the Jordan River                Coinmission.             The Jordan           River       Commission               is having
+        big discussions                  about homelessness               because         of the effects           that homelessness                has on the
+        river        frontage        and water        quality.       Millcreek         tries to address homelessness                          and affordable
+        housing.           The plaru'iing           staff does a very good job of helping                             with      these issues as well.
+
+
+        Council           Member          Uipi     thanked        everyone         who attended               the Utah         League        of Cities       and
+        Towns            Day at the capitol.
+Millcreek        City      Council         Meeting        Minutes                                     22 January         2024      Page 8 of 9
+
+
+
+            2.3 Treasurer               Report
+            Council        Member          Jackson       gave the treasurer             report.     The PTIF        balance     is $47,697,319.27.
+            the fiscal         year 2024 property            tax has been received                  in the amount        of $1 I,400,529.49.          Last
+
+            year at the same time Millcreek     received $11,333,718.34.    Fiscal                                     year 2024 sales tax has
+            been received  in the amount of $4,900,071.15.       Last year at the same time Millcreek
+            received $4,990,654.84.   Millcreek    is doing well, and the city is financially stable.
+
+
+            2.4 Staff          Reports
+            Mr. Winder            said he did not have a report,                 but the Mayor            and City       Council     do a great job
+            on the various              boards     that they serve on. It is a huge labor                     of love and Millcreek
+            appreciates          their service.
+
+
+            2.5 Unified           Police     Department             Report
+            Chief      Petty-Brown           gave the report.          Total     calls and cases have gone down                     from     2021 to
+            2023.       Citations        and arrests have decreased                   over those years. Tlie crime               suppression         team
+            had 193 arrests, 1600 traffic                    stops, 159 stolen            vehicle      investigations,        39 narcotics
+            investigations,             35 firearms       seized,     and 87 search warrants.                  Crime     suppression       sized 1.27
+            pounds        of meth,        592 pounds         of marijuana,            95 pounds        of cocaine,       31 grams       of heroin,    and
+            245 grams            of fentanyl.       Millcreek        Community            Oriented       Policing      had a busy 2023. They
+            attended       various         events all over the city.            They       helped      solve 70 cases of graffiti.           Millcreek
+            officers       responded         to 218 calls for transient                activity      in 2023. They responded               to 1,211
+            traffic     accidents,         70 hit and runs, issued             over 3,600 citations              including      17 moving
+            violations.          Property        Crimes     Detectives        filed     criminal       charges      on 125 property        and fraud
+
+            cases. Detectives              recovered        $40,000      in cryptocurrency.
+
+
+3. Consent          Agenda
+            3.1 Approval            of January        4, 2024,       Special     Meeting            Minutes
+
+
+Council         Member           Jackson         moved      to approve         the January             4, 2024 Special          Meeting      Minutes.
+Council         Member           Uipi     seconded.         Mayor      Silvestrini         called      for the vote.      Council       Member
+DeSirant         voted         yes, Council         Member          Jackson      voted       yes, Council           Member       Uipi     voted   yes,
+Council         Member           Catten      voted     yes, and Mayor                 Silvestrini      voted     yes. The motion           passed
+unanimously
+
+
+4. New      Items        for    Subsequent           Consideration
+None.
+
+
+5. Calendar            of Upcoming               Meetings
+            *   East Mill        Creek Community             Council Mtg., 2/1/24, 7:00 p.m.
+            *   Mt. Olympus             Community      Council Mtg., 2/5/24, 6:00 p.m.
+            *   Millcreek        Community          Council Mtg., 2/6/24, 6:30 p.m.
+            *   Canyon Rim Citizens Association                      Mtg, 2/7/24, 6:30 p.m.
+            *   Historic       Preservation        Commission        Mtg., 2/8/24, 6:00 p.m.
+            *   City Council         Mtg. 2/12/24 7:00 p.m.
+
+
+City    Council         Meeting          Recessed
+Millcreek          City    Council         Meeting       Minutes                                 22 January          2024      Page 9 of 9
+
+
+
+
+The Community                  Reinvestment             Agency      adjourned        at 8:44 p.m.          and the City           Council      went
+back      into    session      at 8:45 p.m.
+
+
+7. Business          Matters
+
+
+            7.1 Discussion              and Consideration            of Ordinance            24-04,      Adopting         the Amended
+            Olympus          Hills      Community          Reinvestment            Project       Area     Budget,        and Amended
+            Project        Area       Plan
+
+
+
+Council          Member        Uipi      moved     to approve        item     7.1, Ordinance             24-04,     Adopting        the Amended
+Olympus           Hills    Community             Reinvestment         Project       Area       Budget,     and Amended              Project         Area
+Plan.     Council         Member          DeSirant       seconded      the motion.           The Deputy           Recorder         called    for     the
+vote. Council             Member         Uipi    voted    yes, Council        Member           DeSirant       voted       yes, Council
+Member           Catten     voted        yes, Council       Member          Jackson      voted     yes, and Mayor              Silvestrini          voted
+yes. The         motion     passed         unanimously.
+
+
+
+ADJOURNED:                  Council          Member       Jackson      moved        to adjourn          the meeting         at 8:47 p.m.
+Council      Member            Uipi     seconded.        Mayor      Silvestrini       called     for the vote.           Councn     Member
+Jackson          voted    yes, Council          Member       Uipi     voted       yes, Council        Member          Catten      voted      yes,
+Council      Member            DeSirant         voted    yes, and Mayor            Silvestrini        voted   yes. The motion               passed
+unanimously.
+
+
+
+                                   APPROVED:
+                                                            Jeff Silvestr'ini,      Mayor
+                                                                                                                  Date
+                                                                                                                            03-%-h
+                                                                                                                                                            "t
+                                      Attest:            !%                   n,CityRecorder
+

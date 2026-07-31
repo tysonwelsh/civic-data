@@ -1,0 +1,20 @@
+{
+  "contributions": [
+    {"date":"2/2/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"2/15/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"3/9/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"5/4/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"5/10/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"5/11/23","name":"SL BOR","city":"Sandy","state":"UT","amount":"500.00","in_kind":true},
+    {"date":"5/15/23","name":"SLBOR","city":"Sandy","state":"UT","amount":"1954.55","in_kind":true},
+    {"date":"6/5/23","name":"Corey Zander","city":"SJC","state":"UT","amount":"2000.00","in_kind":false}
+  ],
+  "expenditures": [
+    {"date":"6/17/23","recipient":"Girls Soccer team","purpose":"labor for door hangers","amount":"1400.00","in_kind":true},
+    {"date":"7/5/23","recipient":"Girls Soccer team","purpose":"labor to deliver door hangers","amount":"600.00","in_kind":true}
+  ],
+  "total_contributions": "6954.55",
+  "total_expenditures": "2000.00",
+  "total_contributions_ytd": "6954.55",
+  "total_expenditures_ytd": "2000.00"
+}

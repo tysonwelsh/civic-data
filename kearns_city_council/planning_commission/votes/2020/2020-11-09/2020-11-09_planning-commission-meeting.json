@@ -1,0 +1,54 @@
+{
+ "date": "2020-11-09",
+ "year": 2020,
+ "title": "Planning Commission Meeting",
+ "file_body": "PlanningCommission",
+ "present": [],
+ "source": "minutes/2020/2020-11-09/2020-11-09_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "To approve the Planning Commission Minutes from October 12, 2020.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Hatch",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adjourn",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass",
+   "mover": "Taylor",
+   "seconder": "Wellman",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  }
+ ]
+}

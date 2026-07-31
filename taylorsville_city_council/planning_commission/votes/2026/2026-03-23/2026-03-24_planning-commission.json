@@ -1,0 +1,87 @@
+{
+ "date": "2026-03-24",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2026/2026-03-23/2026-03-24_planning-commission.md",
+ "present": [
+  "David Young",
+  "Barbara Munoz",
+  "Marc McElreath",
+  "B. Murphy",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve the minutes from both February 24 and March 10, 2026 as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Mufioz moved approve File #5C26-CUP-000589-2026 for a nonadministrative conditional use permit for extended hours of operation and to operate a bar establishment at 5418 South 1900 West based on the information, findings, and conditions presented in the staff report, but changing condition # 5 to read: Monday through Friday, open at 11 AM, last call at 1 AM, closed by 2 AM; Saturday through Sunday, open at 10 AM, last call at 1 AM, closed by 2 AM. Commissioner McElreath",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "Barbara Munoz",
+   "seconder": "Marc McElreath",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "5C26",
+    "CUP-000589-2026"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Murphy moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "B. Murphy",
+   "seconder": "Barbara Munoz",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "5C26",
+    "CUP-000589-2026"
+   ],
+   "motion_no": 3
+  }
+ ]
+}

@@ -1,0 +1,1271 @@
+# Millcreek Planning Commission — 2026-05-20
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05202026-1043
+> Meeting date: 2026-05-20
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2026-05-20
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05202026-1043
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                                    Minutes           of the
+                                                                                     Millcreek        Planning              Commission
+                                                                                                     May         20, 2026
+                                                                                                          5:00     p.m.
+                                                                                                  Regular         Meeting
+
+
+                The Plaru'iing          Coinmission            of Millcreek,         Utah, met in a regular              public     meeting     on Wednesday,
+                May      20, 2026,       at City      Hall,     located     at 1330 E. Chambers               Avenue,         Millcreek,      Utah     84106.      The
+                meeting        was conducted            electronically           and live streamed          via the City's          website     with   an option         for
+                online     public      comment.
+
+
+                PRESENT:
+
+
+                Commissioners                                                                        City     Staff
+                Shawn         LaMar,     Chair                                                       Elyse       Sullivan,        City Recorder
+                Christian       Larsen,        Vice    Chair                                         Francis       Lilly,     Planning       & Zoning        Director
+                Steven Anderson                (left at 7:05pm)                                      Brad     Sanderson,           Current     Planning       Manager
+                Jenny Burgess                                                                        Jake Green,            Dev. Review         Specialist
+               Nils    Per Lofgren           (absent)                                                Carlos       Estudillo,       Planner
+                Jacob Richardson                                                                     Sean Murray,             Planner
+               Victoria        Reid                                                                  Zack Wendel,              Plaru'ier
+               Diane      Soule
+               Ian Wright
+
+
+               Attendees:           Dale Reeves,            Mike     Gleason,        Allen   Parkinson,          Marg       Johns, Jane Woolley,             Margaret
+               Littlefield,       Steven        Ott, Barbara         Stevenson,        Sandra Walker,            Wayne         Simpson,       Steve & Vicky
+               DiGregorio,            Rick     Hansen,        Todd    Larsen,      Barbara       Berry,     Jeff Fillmore,          Tom      Swegle,    Peter
+               Gamvroulas,             Brent     Hari'nan,      Tyler     Affleck,      Katherine         Pretlow,      Jo-Ann       Wong,      Matt   Knight,
+               Brady      & Candace             Hartzog,       Bob & Deb Tueller,             Joe & Jen Romero,                  Inge-Lise     Goss, Chris         Brain,
+               Andy       Johnson,       Caye Wycoff,              Joe Johnson,         Jamie Allyn,         Lee Dial
+
+
+
+               REGULAR                MEETING               - 5:00 p.m.
+               TIME        COMMENCED                     - 5:02 p.m.
+
+
+               Chair      LaMar        called    the meeting         to order and briefly            explained          the duties      of the planning
+               comtrussion.
+
+
+
+               1.   Public      Hearing
+-   ------1.1-Consideration                           of-ZM-26-007-;-Rezone-Requ
+                    Commercial               (C) Zone         Location:        765 E 4500 S Applicant:                   Allen     Parkinson         Planner:       Sean
+                    Murray
+                    Sean Murray           presented         application          ZM-26-007,        a request       to rezone        approximately         O.43 acres
+                    located     at 765 East 4500 South                    from    Residential       Mixed        (RM)       to Commercial         (C). He
+                    explained         that the property,           currently       occupied      by an older home                converted     into office       space
+                    for Think         Tank      Creative,      is surrounded          by an office        building        to the east, 4500        South to the
+                    south, and residential              uses to the north            and west. Due to the company's                        continued      growth     and
+Millcreek       Planning         Commission             Meeting        Minutes                               20 May            2026       Page 2 of 22
+
+
+
+
+   need for a larger,           more modern             office     envirom'nent,          the applicant            is seeking         comtnercial
+   zoning,      as the current        RM zoning            no longer         peri'nits     the construction            of new office             buildings.
+   The proposal          includes      a new two-story,              approximately            6,800-square-foot                 office     building         with
+   a basement         that could be used for storage                   or future         office     space, with         parking          calculations
+   b ased on the basement's                 potential      office     use.
+
+
+   Murray       reviewed        the proposed          site plan and conceptual                    building       rendering,           noting     that
+   additional       design      details     would       be evaluated          during      a future       site plan review              if the rezone            is
+
+   approved.        He explained            that the proposal          is consistent         with        the city's     General          Plan and Future
+   Land Use Map             designation         of Mixed          Use 1, which           supports        office,     retail,     and medium-density
+   residential      uses. He further           stated that the request               aligns       with     city goals of supporting                     local
+   business       retention      and expansion            within      Millcreek.         He outlined          the approval             process,      noting
+   that any new development                   would       be required          to meet commercial                   zoning       standards        related        to
+
+   landscaping,          access, design,         and other development                     requirements,            followed          by detailed         review
+   by city departments              before     building          permits     could be issued.
+
+
+   Murray        reported       that a required         neighborhood            meeting       was held, although                  no residents
+   attended.      He also noted that only                 a few individuals              asked general             questions          about the project
+   during      the Planning          Open House           on May       5, and staff had received                    no public          coinrnents,
+   questions,       or concerns           regarding       the application.          Additionally,            the Millcreek             Community
+   Council       voted      5-0 on May         5 to recommend              approval         of the rezone           request.       Based on the
+    application's        consistency         with     the General          Plan and the findings                  outlined       in the staff report,
+    staff recoinmended              that the Planning             Commission             forward      a positive        recornrnendation                 for
+    approval      of the rezone           to the City      Council.
+
+
+   Allen     Parkinson,         applicant,      declined         to cornrnent.
+
+
+    Chair     LaMar        opened     the public         hearing.
+
+
+   There      were no comi'nents.
+
+
+    ChairLaMar             closed    the public         hearing.
+
+
+    Commissioner            Soule confirmed              no comments            had been received                  by the public.
+
+
+Commissioner             Reid     moved       that      the Planning           Commission                recommend              to the City         Councn
+rezoning       the property          based      on the findings              and conclusions                found      in the staff            report.
+Commissioner             Larsen       seconded.          Chair      LaMar         called     for the vote.            Chair       LaMar          voted         yes,
+Commissioner             Anderson           voted     yes, Commissioner                  Burgess          voted      yes, Commissioner
+Larsen      voted     yes, Commissioner                  Reid      voted     yes, Commissioner                     Richardson            voted      yes,
+Commissioner             Soule      voted     yes, and Commissioner                      Wright          voted      yes. The          motion       passed
+unanimously.
+
+
+   1.2      Consideration            of ZM-26-011,               Request       for a Development                   Agreement             Through           an
+
+    Olympus         Hnls      West    Village         Center       Special      District      (OHW-VCSD)                       Zone     Rezone
+    Application          Location:          3962 S Wasatch             Boulevard            Applicant:             Lee Dial       of Cowboy
+    Partners        Planner:        Brad      Sanderson
+Millcreek        Planning          Commission             Meeting           Minutes                             20 May          2026       Page 3 of 22
+
+
+
+   Brad      Sanderson         presented       a development                agreement          proposal       for property         located      within       the
+   Olympus         Hills      West Village           Center      Special        District      (OHW-VCSD)                Zone,      situated
+   irnrnediately         north     of the recently          completed              Porsche      dealership        along Wasatch              Boulevard
+   between        Interstate       215 and Wasatch                Boulevard.           He explained           that the zoning           for the broader
+   area was approved               approximately             two years ago and included                       a master        development
+   agreement         that envisioned           a 'future mixed-use                  development          on the subject           property.          As part of
+   the original         zoning      process,       the applicant            conducted          extensive      public     outreach          and community
+   engagement,             including      meetings,         public        input     sessions,      and site visits        to comparable
+   developments,             to help shape the overall                    vision     for the area.
+
+
+   Sanderson         reviewed          the conceptual           plans that were included                    in the master          development
+   agreement,         noting       that the proposed             development                area is intended        to accommodate                  a mix    of
+   uses, including            restaurant,      retail,     office,        residential,        and open space components.                      He explained
+   that the plans presented                 during       the earlier        approval         process     were conceptual               in nature       and
+   were intended            to illustrate      the scale, massing,                 building       orientation,       and arrangement                 of uses
+   throughout         the site. He further              noted that significant                public     discussion        during       the outreach
+   process      focused        on building         height       and visual          impacts,      particularly         from      the east side of
+   Wasatch        Boulevard.           As a result,       height      limitations           were established           based on a designated
+   reference       point      on the site, ensuring              that future         development            would      remain      below       an agreed-
+  upon elevation             despite     the property's            significant         topographic          changes.
+
+
+   Sanderson         also reviewed           additional         conceptual           diagrams          showing      the distribution           of retail,
+  office,      residential,        and open space areas, along with                           preliminary         information          regarding
+  building       square footage,            residential         rinits,     and parking.          He clarified        that the current              application
+  represents         a more detailed           phase of the planning                   process      through        a subordinate            development
+  agreement          that further        refines       the concepts          previously          approved         in the master         development
+  agreement.         He emphasized              that the proposal                 remains      conceptual         and that more detailed                 design
+  review       and public        hearings       will     occur during              future    site plan and development                     approval
+  processes.
+
+
+
+  Lee Dial       of Cowboy             Partners      presented        the proposed             Liberty      Cove mixed-use                 development,
+  noting      that the project          has been shaped through                       approximately           a year of coinmunity
+  engagement            and feedback.          He expressed               appreciation          to the community                councils      and city staff
+  for their participation               and assistance           throughout           the process.         Dial     explained        that Cowboy
+  Partners       purchased         the property          with     the existing           zoning     in place and has worked                    extensively
+  with      residents      and community               organizations            to refine      the project         concept.       The development                 is
+  intended       to include        office     space, retail          and restaurant            opportunities,          residential         units,     and
+  public      open space. He noted that Cowboy                              Partners        plans to relocate          its own offices              to the
+  project,      emphasizing            the company's             cornrnitment            to creating        a high-quality,          long-teri'n        asset
+  that complements               the surrounding            neighborhood.                Based on community                   feedback,        the project
+  has been reduced              in overall      scale, including               decreases        in residential         units,     office     space, and
+  commercial          square footage           compared            to earlier        concepts.
+
+
+  Dial     described        the revised       site plan, which               consists        of two primary          buildings         separated        by a
+  central     view      corridor       designed        to preserve          views      toward      the valley.        He explained            that two
+  levels     of structured         parking      worild      be constructed               below     grade, utilizing             the site's natural
+  elevation       changes        to minimize           the visual         impact      of parking         from     Wasatch         Boulevard.           The
+  design      also incorporates             a roo'Jiop      amenity          deck, landscaped             public      courtyard,         and open-space
+Millcreek         Planning            Commission               Meeting            Minutes                                 20 May            2026         Page        4 of 22
+
+
+
+
+   areas intended                for both       residents         and the public.               He stated          that these         features       were      developed
+   in response            to concerns            raised      during        public       outreach          regarding        building             massing,       view
+   preservation,            privacy,         lighting,        and neighborhood                      compatibility.          Additional             design       measures
+   include        setbacks         for rooftop            amenities,          landscape             screening,        and consideration                  of building
+   materials           and glazing          to reduce          visual        impacts          on neighboring             properties.
+
+
+   Dial     reviewed          conceptual            renderings             and architectural               themes        for the project,             explaining            that
+   the development                 is envisioned             as a mountain-modern                          design     utilizing          high-quality          materials
+   such      as stone,       brick,       metal,      and wood-look                   fiber     cement         siding.     He highlighted                plans       for
+   approximately                 10,000        square      feet of publicly              accessible            open      space,       including          a landscaped
+   courtyard            intended       to serve         as a gathering               place     for residents           and visitors.             He also presented
+   studies        demonstrating                the project's          relationship            to nearby           properties,         including          the Macey's
+   shopping         center,        Interstate         215,     and adjacent              residential           neighborhoods.               According            to the
+   analysis,        tlie proposed              building       heights         would          remain        below      established           elevation         bencarks
+   and would             preserve         significant         view      corridors            while      minimizing          impacts             on surrounding
+   homes.
+
+
+   Dial      further      outlined         the proposed              mix     of uses within               the development,                 including          office       space,
+   apartment            homes,        residential          amenities,          and ground-floor                   commercial             space.      He stated           that the
+   project       team      would        actively          seek a restaurant              tenant         for the commercial                  area but requested
+   flexibility          to accoinmodate               other       retail     or coinmercial                uses if market             conditions           or parking
+   requirements             make       restaurant           use impractical.                 He emphasized               that maintaining                flexibility
+   would         help     ensure      the long-teim               success         and occupancy                of the development                   while      avoiding
+   vacant        commercial            space.       He concluded               by reviewing                tlie preliminary              landscape           plan,
+   building        materials          palette,      and design             objectives,           reiterating          Cowboy          Partners'          commitment                to
+   creating        a high-quality              development              that serves            as a positive          addition           to the community                  while
+   responding            to concerns            raised      throughout            the public            engagement          process.
+
+
+   Brad      Sanderson            concluded           the staff        presentation             by suinrnarizing                key      considerations              and
+   recommendations                    regarding           the proposed            Liberty           Cove     development.                He explained            that      staff
+   had compared              the current            proposal          with     earlier        concepts         and noted          that     the amount           of
+   corni'nercial          and retail         space had been reduced                          from       approximately             7,000         square      feet to about
+   3,000       square      feet.      While       acknowledging                the applicant's                 request     for flexibility            in future
+   commercial             uses, staff          expressed            a preference          that the remaining                retail        space be developed                     as
+   a sit-down           restaurant         or similar          dining        establishment               rather     than smaller,               less impactfiul
+   commercial             uses.     Sanderson             noted      that this recommendation                         was included                for the Planning
+   Commission's                  consideration            and that the commission                          could     determine            what      recommendation
+   to forward           to the City         Council.
+
+
+   Sanderson            also reviewed             preliminary              concepts           related      to signage         and lighting.            He explained
+   that staff       had few         concerns          regarding            most      of the proposed                signage       locations          but requested
+   additional           review      of proposed              illuminated             sigrmge         located       near the top of the building                         facing
+   Interstate       215.      Staff       felt that       further      details       would        be necessary            to evaluate             the appearance              and
+   potential        impacts         of the signage             before        final     approval.           Regarding          lighting,          he noted        that the
+   applicant        had proposed                primarily           downward-directed                    wall-mounted              fixtures         rather     than
+   traditional          street     lighting.       Staff      did not anticipate                 significant          concerns           with     the lighting          plan,
+   as most        illuminations             would         be attached          to the buildings                and designed              to minimize            light      spill
+   beyond         the site.
+Millcreek        Planning        Commission              Meeting           Minutes                              20 May        2026       Page 5 of 22
+
+
+
+
+   Sanderson           highlighted        staff report         findings       related       to the project's         development            agreement,
+   including       proposed          open space, office              square footage,              residential      units,    and commercial
+   components.            Sanderson          noted that coinments                received         during       a recent     open house included
+   concerns       regarding        traffic,     noise,     lighting,         signage,       and view        preservation.          He explained            that a
+   traffic     study had been completed                    for the larger          development             area in 2023 and indicated                   that
+   staff could provide            additional          information            if questions         arose. He concluded               by encouraging
+   the Plaru'iing        Commission             to carefully        consider       the proposed             development            agreement        exhibits,
+   provide       input      on the project          details,     and receive         any additional             public      comment        before
+   forwarding          a recominendation               to the City           Council.
+
+
+   Chair      LaMar       wondered           if the project        would       come back as a conditional                    use permit.         Sanderson
+   said it would,           but it worild       be administrative               in nature with            less discretion          so any concerns
+   should      be addressed           with     the development                agreement.          Chair     LaMar        asked about the
+  preference   for a sit-down restaurant.                         Sanderson         noted a restaurant               was originally           proposed         and
+  it was a viable location for one.
+
+
+   Commissioner              Burgess      wondered             about the traffic           changing        since the Porsche            dealership
+   opened       in March.       Sanderson           said the 2023 traffic                study did contemplate                this project        as a
+  higher       intensity.      Jake Green acknowledged                        existing       conditions         and everything          that was
+  scheduled         for 2025. There             was a 2030 projection                   where      a traffic     light     might     be warranted.
+
+
+  Commissioner               Soule asked about two access roads to the property.                                      Sanderson        said the main
+  entrance       was shared with              the Porsche          dealership,          but splitting        the entrance          would       actually
+  help diversify            access.
+
+
+  Cornrnissioner            Burgess       acknowledged              the high       school         students      that walk      up to the Olympus
+  Hills      Shopping        Center.      Green said UDOT                    was going        to work        on a warrant          study for the traffic
+  light      but noted one may not be installed                          if it does not fit the location                 even if it is warranted.
+  Sanderson         brought      up the multi-use                path being        installed        on the west side of Wasatch
+  Boulevard         for pedestrian            and bicycle         use.
+
+
+
+  Commissioner              Larsen     asked about the glass reducing                         reflection.        Sanderson          explained       that
+  concerns        regarding       glass on the building                  were primarily            related      to the possibility            of reflecting
+  freeway       noise back toward               nearby         residential       neighborhoods              rather    than noise generated                 from
+  within      the development             itself.     He noted that existing                 sound walls          along the freeway              are
+  designed        to help redirect            and disperse         traffic     noise,      and that larger,          continuous         building
+  masses could           potentially         have a similar          reflective         effect.     However,         he observed           that the
+  proposed        design      consists        of two separate buildings                   rather than one continuous                   structure,         which
+  worild      help break up any potential                      sound reflection            and reduce          concerns       associated        with      a
+  larger      uninternipted        wall       along the freeway               corridor.
+
+
+  Sanderson         stated that, based on the proposed                          building       configuration             and its relationship           to
+  existing      development,           including         the nearby           Porsche       dealership,         he did not have significant
+  concerns       about adverse noise impacts.                       He noted that the separation                     between        the two buildings
+  and the presence            of existing        sound walls             would     likely      lessen any reflective               effects.     While
+  acknowledging              that the precise          impact       on surrounding              neighborhoods              could not be determined
+  with     certainty      at this stage, he indicated                that the current             design       appeared       preferable        to a single
+Millcreek        Planning           Commission                 Meeting           Minutes                                    20 May        2026         Page         6 of 22
+
+
+
+
+   continuous            building      extending             the length          of the site. He also reminded                           the Commission                that
+   portions        of the lower            levels      of the proposed              structures             would      be screened              by existing           sound
+   walls,      further      reducing          their      visual       and potential           acoristic        impact.
+
+
+   Commissioner               Larsen         brought        up flexibility            with       specific       trees       along      Wasatch         Blvd.
+   Sanderson           said continuity              with     the Porsche            dealership             was preferred.
+
+
+   Commissioner               Reid     asked          if a fake        stone     fagade       would         be allowed            instead       of brick       and asked
+   if illuminated           signs     could         be eliminated.               Sanderson          said materials              and signs         should        be
+   discussed        if there        was concern.
+
+
+   Chair       LaMar        opened         the public          hearitxg.
+
+
+   Dale      Reeves,        2890      E, expressed              concern          about      pedestrian          safety        and recommended                   a
+   pedestrian          bridge       over     Wasatch           Boulevard.
+
+
+   Chris      Brain,      a Holladay           resident         whose       property          was shown               during        the presentation            as one of
+   the neighboring              homes         west       of Interstate           215,    expressed             concerns         regarding         the visual          impacts
+   of the proposed              development.                He stated           that his primary               concern        was the extent                to which       the
+   new buildings             would         affect      views       from     his backyard               and how          much         of the structure           would         be
+   visible      from      his property.             He specifically              questioned            the proposed             building         height,       seeking
+   clarification          on whether           the stated          height        of approximately                  42 feet included               rooftop       features
+   such as parapets              and elevator              overnins.        He also asked               whether           those      architectural            elements
+   would       extend       above      the maximum                    building      height        perinitted          under       the zoning           regulations           and
+   requested        clarification            regarding            the applicable             height        limitations.         Brain       additionally            raised
+   concerns        about        existing       traffic      conditions           in the area, describing                     congestion           along       Wasatch
+   Boulevard           and nearby            intersections             during      peak      travel        periods.         He noted          that traffic      is already
+   heavily       impacted           by vehicles            exiting      Interstate        215,      nearby          commercial            developments,
+   financial       institutions,           and the shopping                 center,       with     many         drivers        attempting          to travel
+   northbound.            He expressed                concern         that the proposed                development              and additional               access
+   points      could      further      increase          traffic       congestion           and complicate                circulation          in an area that
+   already       experiences           significant           traffic      challenges.
+
+
+   Vicky       DeGregorio,            Holladay             resident       of Aura        Circle        whose         property          is located       west        of the
+   proposeA        development,               thanked          city     staff    and the applicant                  for their       efforts      to address
+   neighborhood             concerns          throughout              the planning            process.         She expressed               several      ongoing
+   concerns        related       to the project's              potential         impacts         on nearby            residents.         DeGregorio            stated        that
+   she was particularly                concerned             about       the placement                and illumination                 of proposed           signage,
+   noting      that signs        on the west             and south          sides       of the buildings              appeared          to be located           near the
+   highest      points       of the structures.               She requested              that lighting             and signage           be designed            to
+   minimize         intrusion         into     surrounding              neighborhoods,                citing       existing         concerns         with     the
+   illuminated           signage      and lighting              at the nearby            Porsche           dealership,          which         she said remains
+   visible     throughout            the night         and affects          residents'           ability       to enjoy        their     homes        and the night
+   sky. DeGregorio                also raised            concerns         regarding          the proposed              exterior        color     palette,      noting         that
+   lighter-colored            materials         on the west-facing                  fagades           could        create     greater       visual     contrast        when
+   viewed       against       the mountains.                She suggested               incorporating               more       earth-tone         and brown-
+   colored       materials          on the west            elevations           to better      blend        with     the natural          surroundings               and
+   reduce      visual      impacts         on neighboring                 properties.          Additionally,              she addressed              concerns         about
+Millcreek        Planning          Commission            Meeting        Minutes                              20 May           2026      Page 7 of 22
+
+
+
+   noise,     stating     that residents          have already          observed         increased       traffic      noise and sound reflection
+   associated        with     nearby      development.              She requested          that the city and UDOT                    consider
+   conducting          a sorind study to evaluate                   whether      modifications           to existing          freeway      sound walls
+   or other mitigation             measures          could help address potential                   increases         in reflected        noise resulting
+   from      the proposed          buildings.        DeGregorio          expressed         concern       regarding            the increased        height
+   proposed       for the south building                 compared         to the north building.               She stated that the additional
+   height     could      further      affect     mountain       views,     increase        opportunities            for sound reflection,                and
+   contribute        to greater       light     intrusion      into nearby        homes       and yards.           She encouraged             the city and
+   applicant      to consider          ways to mitigate              these impacts         and balance             project     objectives       with      the
+   preservation         of views,       neighborhood             character,       and residents'           enjoyment            of their properties.
+   She concluded             by reiterating          concerns        regarding      noise,     lighting,       and view          obstruction        and
+   requested       that those impacts                be minimized         as the project            moves      forward.
+
+
+   Todd      Larsen,     Holladay         resident,       expressed       concerns         regarding        the visual          and traffic       impacts
+   of the proposed            development.            He stated that residents               in the neighborhood                  already     experience
+   significant       light    impacts         from    the illuminated           signage      at the nearby            Porsche        dealership,         which
+  he described          as highly       visible       during    nighttime         hours.     Larsen       indicated           that the existing
+   signage       has changed          the nighttime           character       of the area and expressed                      concern    that additional
+   elevated      signage       on the proposed              development           could     further      increase       light     intrusion       into
+   surrounding          residential      neighborhoods.               He encouraged            the city to carefully              review      lighting
+   and signage          standards       and to consider             measures       that would         minimize          impacts        on nearby
+  homes.       Larsen        also voiced         concerns       about the potential            loss of views            that many residents               have
+  enjoyed        since purchasing              their homes          decades      ago. He noted that preserving                       neighborhood
+  views      remains         an important         issue for surrounding                 property      owners.         In addition,        he raised
+  concerns        regarding        traffic      conditions      in the area, stating            that existing           congestion         is already
+  significant        and that the addition               of residential         units    and commercial               uses could        further      strain
+  local roadways             and access points.              He thanked         the Planning          Coinrnission             and staff for their
+  time and consideration                 and encouraged              continued          attention     to neighborhood                concerns       as the
+  project     moves       through       the review          process.
+
+
+  Bob Tueller,          Holladay        resident,        said he sees neon red lights                 out his window.                He was not
+  excited      about increased            signage        or sound and expressed                concern         about traffic.
+
+
+  Sanderson        said he put other emailed                   public     comments           and com+'nunity             council
+  recoinmendations              in the staff report.
+
+
+  Chair      LaMar       closed       the public       hearing.
+
+
+  In response         to questions           regarding       building     materials,         Lee Dial       explained           that the project          team
+  is currently       leaning       toward        the use of brick         as the primary            exterior        material,      particularly          brick
+  products       that incorporate              color variation        and texture         intended       to resemble            natural     stone. He
+  noted that the development                     is designed         to achieve         a mountain-modern                architectural          character
+  and emphasized              that the building             would     not utilize       stucco,      instead        relying     on higher-quality
+  materials       such as brick,         stone accents,             and fiber     cement       siding.      Dial      stated that while           natural
+  stone had been considered,                     cost and moisture-related                 concerns        may limit           its use, and any stone
+  elements       would       likely    be manufactured               stone products          used selectively                as architectural
+  accents.
+Millcreek         Planning            Commission                Meeting           Minutes                                 20 May            2026        Page        8 of 22
+
+
+
+
+   When         asked      whether            the development               agreement            could      specify        brick       as the required              exterior
+   material,        Dial     expressed             a preference            for maintaining               flexibility        in the final           material         selection.
+   He indicated             that while          brick      would         likely     be the dominant                material,         the ability           to incorporate
+   stone        accents     in selected            areas could           enhance         the overall          design       and architectural                 character           of
+   the project.           He therefore             requested         flexibility         to use a combination                    of complementary
+   materials        while         remaining           consistent          with      the proposed            mountain-modern                    aesthetic.
+
+
+   Commissioner               Reid         asked      Dial     aborit      the need          for illuminated             signs      on the west             side. Dial
+   explained         that tl'ie development                     team has not yet finalized                       branding,          including         a logo,           and that
+   specific       tenants         for the retail           and restaurant            spaces         are also not yet identified.                     He noted            that
+   future       tenants      will     require        visible       and likely         illuminated            signage        for wayfinding                  and business
+   identification,           particularly             given      seasonal          conditions           and early        evening          darkness          during        winter
+   months.         Dial     stated      that,      given       the site's         frontage       along      Interstate          215,    some        level     of signage
+   visibility       and illumination                  would        be necessary             to ensure        tenant       success         and effective             customer
+   access.       He clarified           that illustrative              diagrams          showing          potential        signage          locations         were       not
+   intended        to depict          continuous             or excessive           signage,        but rather          to represent           the range           of
+   potential       uses, depending                   on future         tenants.       He emphasized                that the intent            is to minimize
+   visual       impact       while      still      allowing        necessary          business          identification             and branding,             including               a
+   possible        illuminated             project      logo       for wayfinding              purposes.
+
+
+   Dial     also addressed              questions            regarding        the roo'ftop           amenity           deck,     noting      that the exact
+   setback        distance          from      the western           edge had not yet been precisely                              calculated          but would            be
+   located        east of the elevator                lobby        and set significantly                  back     toward        the interior           of the building.
+   He stated         that, based           on preliminary                design      elevations           and site geometry,                 the rooftop            deck
+   would        be positioned              far enough           from      the western            edge that it would                 not be readily            visible           or
+   intrusive       to neighboring                  properties        and there         would        be planter           boxes      along       west        edge.       City
+   staff    requested         that the applicant                 provide          more       specific      dimensional              information             regarding            the
+   rooftop        deck      setback         for clarity         in the record.
+
+
+   The commission                   briefly      discussed          the finish,          building        height        for utilities,        and placement                 of
+   signage.
+
+
+   Chair        LaMar       expressed           concerns           about     the proposed               signage,        noting       that    significant           details
+   remain        unknown.            He referred             to the development                  agreement             as an important              tool     for
+   providing         guidance           to the developer                 and ensuring            that any recorni'nendation                        forwarded             to the
+   City     Council         clearly        outlines        expectations.            Chair       LaMar        suggested           that the development
+   agreement            include       provisions             requiring       future       review        and approval               of signage         by the Planning
+   Commission,              whether           through         the conditional             use permit           process,         site plan       review,        or another
+   applicable         review         process.         He emphasized                 the need         for signage          that     supports         the success            of
+   future       businesses          while       also addressing               concerns          related      to light       pollution,         spillover           effects,
+   and other        potential          impacts          on surrounding               properties.          Given        the unique           nature      of the location,
+   he indicated            that     additional          scrutiny        beyond        standard          sign regulations               may     be warranted.
+
+
+   Chair        LaMar       also noted           comments            raised        during      the discussion             regarding          the incorporation                   of
+   brown        tones      on the west             side of the building.                 While       he did not support                 prescribing           specific
+   percentages            or exact         color     requirements,                he suggested           that the development                      agreement             could
+   include        language          encouraging              adherence            to the design           recommendations                    discussed         by the
+   commission              as the project            advances.           Additionally,            he referenced                the suggestion              of conducting
+Millcreek             Planning          Commission                  Meeting             Minutes                                20 May           2026            Page      9 of 22
+
+
+
+
+      a sound         study     and asked              staff     to clarify          whether        such     a study      could         be required             as part      of the
+      review         process         upfront         or whether           sound         mitigation         measures           would          only    be addressed               if
+      issues       arise     after     development                occurs.
+
+
+      Sanderson            explained           that because              the proposal            is currently          being      considered              as a legislative
+      matter       through           the rezone          process,         the Planning              Cornrnission          and City             Council          have broad
+      discretion           regarding          recommendations                     and conditions              associated          with        the project.         He noted
+      that once        decisions            are finalized           at the City            Council         level,     staffs     ability        to require         additional
+      studies        becomes          more          limited.      Regarding             a potential         sound       study,        Sanderson           stated        that it is
+      generally        preferable             to conduct           studies        before       development              occurs,         as they        can help           identify
+      anticipated           impacts          and recommend                   mitigation            measures          during      the design            phase.       He
+      explained         that while            post-construction                   studies      can also be conducted,                        mitigation          is often        more
+      difficult       and costly           to implement                 after    a project         has already          been built.            Sanderson           further
+      noted       that a sound           study         performed           by a qualified             sound         engineer          would         typically       evaluate
+      existing        and projected                 noise      conditions          and recommend                measures              to reduce         potential          impacts.
+      However,          he emphasized                   that such          studies       provide       projections             rather        than guarantees,                and he
+      could       not predict          what         conclusions            a study        might      reach.         He added          that     existing         noise      sources,
+      such as Interstate               215 and nearby                   commercial             activity,       could     influence             the findings             and the
+      overall        assessment            of the project's               potential        noise     impacts.
+
+
+      The commission                  discussed             signage        and illumination                and restaurant/retail                    space.       The
+      comi'nission           would         like      to laiow       more         details     and see a draft             development                 agreement.
+
+
+Commissioner                  Larsen           moved           to continue              ZM-26-011            until      the next         available              Planning
+Commission                 meeting.           Commissioner                  Wright          seconded.           Chair          LaMar           called      for     the vote.
+Chair       LaMar            voted      yes, Commissioner                         Anderson            voted         yes, Commissioner                     Burgess            voted
+yes, Commissioner                      Larsen           voted      yes, Commissioner                       Reid       voted      yes, Commissioner
+Richardson             voted         yes, Commissioner                          Soule      voted     yes, and          Commissioner                    Wright           voted        yes.
+The     motion         passed          unanimously
+
+
+   1.3        Consideration                 of ZM-26-008,                  Rezone          Request          from       Residential              Mixed           (RM)        Zone           to
+   Commercial                  (C) Zone              Location:            2785       E 3300        S Applicant:               Tyler      Affleck          Planner:            Zack
+   Wendel
+   Zack         Wendel         presented             a rezone       application             for the property             located         at 2785          East 3300           South,
+   submitted           by applicant                 Tyler      Affleck.         He explained            that the property                is currently             split     between
+   two      zoning          designations,              with      the western             portion      zoned         Residential          Mixed          and the eastern
+   portion           zoned     Commercial.                  The    applicant            is requesting          that the entire               property        be rezoned               to
+   Commercial                in order          to consolidate              the site under            a single         zoning      designation,               simpli'fy
+   administration,               and provide                  greater      clarity       regarding         permitted           uses and applicable
+   development                         a            ents. Wendel                     hasized        that no new          development                 is proposed             as part
+   of the application.                  The         site currently           contains        an approximately                   5,400-square-foot                  building
+   with       21 surface         parking             stalls     and is occupied              by an existing             medical          office        tenant,      which            is
+   expected           to remain            rintil     future      use changes              occur.
+
+
+   Wendel            reviewed          the property's              zoning         history        and noted           that the split           zoning       designation
+   likely         originated          during         Salt Lake          County          administration.              He explained              that the Residential
+   Mixed           and Cornrnercial                  zones previously                   shared      many      similar         uses and standards;                   however,
+   following           the City's           recent       comprehensive                   zoning      code update,              the two         zones      now       contain
+Millcreek          Planning          Commission                   Meeting           Minutes                                20 May           2026         Page 10 of 22
+
+
+
+
+    significantly            different          perinitted        uses and development                     requirements.               As a result,          the property
+   owner       must     currently           navigate          two        distinct     zoning       regulations            on a single          parcel.       The
+   proposed          rezone       worild          eliminate         tliat    inconsistency              and allow         tl'ie property          to be regulated
+   entirely        under      tlie Cornrnercial                zone.        He further          noted     that the property's                 fiature    land       use
+   designation          is Mixed            Use and that the proposed                           comi'nercial           zoning       remains        consistent             with
+   that designation,              eliminating             the need for a General                       Plan     amendment.
+
+
+   Wendel          stated      that staff         included          a comparison              of permitted            and conditional              uses for both
+   zoning       districts        in the staff           report.      He noted          that     the Residential             Mixed        zone      now       permits
+   fewer      coinrnercial           rises, with             many      requiring         conditional            use approval,            while      the Commercial
+   zone      allows      a broader              range     of uses. Consequently,                       rezoning        the entire        property          to
+   Commercial              would         expand         the list of potential                 future     uses available              on the site. He reported
+   that a public            open house             was held,          during         which      nearby         residents        primarily          asked        clarifying
+   questions         regarding           whether          new       development               was planned             and the current              use of the
+   property.         Staff     explained            that no redevelopment                       is proposed            at this time         and that the existing
+   building         and tenant           will     remain.         He also reported               that the East Mill                 Creek       Corni'nunity
+   Council         reviewed          the application                and forwarded               a positive         recommendation                  to the Plaru'iing
+   Commission.               In conclusion,               Wendel            stated    that the proposed                rezone        is intended          to clean          up
+   the split       zoning        designation,             would          not create       or increase            any nonconfornnities,                   remains
+   consistent         with      the Future           Land         Use Map,           and does not involve                   any new           development              at this
+   time.
+
+
+   Chair      LaMar          asked       if properties            with      split    zones,      at least       40%,       could      have      an automatic
+   rezone      process          in code without                having         to go througli            the regular         process.          Francis       Lilly      noted
+   the legislative            decision           would       need to be decider!i                by the council             but thought            a split       zone
+   ordinance          was an interesting                  idea.
+
+
+   Chair      LaMar           opened        the public            hearing.
+
+
+   There      were     no comments.
+
+
+   ChairLaMar                closed       the public           hearing.
+
+
+Commissioner                Larsen,         based         on the findings               and      conclusions              listed      in the     staff     report,
+moved       that     the Planning                 Commission                recommend              approval            of application              ZM-26-008                 as
+presented.         Commissioner                    Richardson               seconded.           Chair         LaMar        called       for     the vote.           Chair
+LaMar        voted     yes, Commissioner                          Anderson            voted       yes, Commissioner                     Burgess          voted        yes,
+Commissioner                Larsen         voted        yes, Commissioner                       Reid     voted        yes, Commissioner                    Richardson
+voted     yes, Commissioner                       Soule       voted         yes, and      Commissioner                    Wright        voted       yes. The          motion
+passed      unanimously
+
+
+   1.4      Consideration                of SV-26-002,                Request          to Vacate          Right-of-Way                 on Chambers                   Avenue
+   Location:          Approximately                     3200      S 1400        E     Applicant:              Millcreek            Planner:        Brad         Sanderson
+   Brad      Sanderson           presented           application             SV-26-002,            a request        to vacate          a portion         of right-of-
+   way      on Chambers              Avenue.            He explained                that city     code        currently      requires          Planning
+   Commission              review        of street        and right-of-way                   vacation         requests,       a requirement              added        during
+   a code revision              in April          2025.      Although           a future        code     amendment              may     remove           that
+   requirement,             the application               was before           the commission                  under      the current          regulations.
+Millcreek            Planning           Commission                 Meeting        Minutes                              20 May         2026       Page 11 of 22
+
+
+
+
+       Sanderson           described           the proposal           as part of plaru'ied          improvements               associated       with       the nearby
+       mixed-use           hotel      and condominium                  development           at the intersection              of Chambers             Avenue         and
+       Highland           Drive.      He explained             that the existing           intersection          configuration          includes           a median,
+       coinrnonly           referred      to as a "pork             chop,"      which      can create confusion                   for motorists         turning
+       between        Chambers            Avenue           and Highland           Drive.     The proposal              would       remove      the existing
+       median        and shi'Ji the intersection                    alignment         northward,        creating        a more perpendicular                  and
+       intuitive      connection              with      Highland       Drive.     The existing           traffic     movements           would         remain
+       unchanged,            including          a single      ingress       lane from       Highland           Drive       and designated             left-turn      and
+       right-turn         exit lanes. No travel                lanes would          be eliminated              as part of the vacation.
+
+
+       Sanderson           noted that the vacated                   area consists        primarily            of the existing        median       area and
+       would       be incorporated               into the adjacent             development           parcel,        where      it would       become         part of a
+       corner      plaza.     He further             explained        that all existing          utilities,      including         gas, water,         and sewer
+       infrastructure,          would          remain       within        the public     right-of-way            and would           not be impacted              by the
+       proposed           vacation.
+
+
+       Reviewing            the applicable              criteria    for right-of-way          vacations,            Sanderson         stated that the
+       proposal       satisfied        the requirements                of state and local           code. He identified                improved            pedestrian
+       safety      as tlie primary             benefit,      as narrowing          the crossing          area would           make it easier and safer
+       for pedestrians             to cross Chambers                 Avenue.       He also noted that the realignrnent                          would        improve
+       traffic     flow     and safety           for vehicles         entering        and exiting       the intersection.             Because          no other
+       properties         directly      rely on access through                   the affected         area, he concluded                that the proposal
+       would       not materially              injure     any person          or property.        Based on these findings,                    staff
+   recorni'nended               that the Planning                  Coininission         forward       a recommendation                 of approval           to the
+       City      Council      for the proposed                right-of-way         vacation.         In response            to a commissioner's
+       question,         Sanderson            clarified      that the revised           intersection           would    maintain        the same traffic
+       configuration           currently          in place,        with     the alignment          simply        shifted     northward         following
+   removal           of the median.
+
+
+       Chair      LaMar        opened          the public          hearing.
+
+
+   There were no comi'nents.
+
+
+   Chair          LaMar       closed          the public       hearing.
+
+
+Commissioner                 Soule,       based         on the findings            and conclusions                 listed    in the staff        report,          moved
+that     the Planning              Commission                recommend             approval         of file number                SV-26-002           as
+presented.           Commissioner                    Anderson          seconded.         Chair       LaMar          called        for the vote.         Chair
+LaMar            voted      yes, Commissioner                      Anderson        voted     yes, Commissioner                      Burgess       voted       yes,
+Commissioner                 Larsen           voted       yes, Commissioner                Reid      voted         yes, Commissioner                  Richardson
+voted         yes, Commissioner                   Soule       voted       yes, and Commissioner                      Wright         voted     yes. The motion
+passed           unanimously.
+
+
+   1.5        Consideration              of SV-26-003,                Request         to Vacate        a Public         Utility      Easement            Location:
+   3785 S Ash               Circle      Applicant:             Jared        Hackett      Planner:         Brad         Sanderson
+   Brad Sanderson                  presented            application         SV-26-003,        a request          to vacate         a public    utility       easement
+   within          the Maple          Hills      Subdivision.             He explained       that the easement                 is a five-foot          wide public
+Millcreek           Planning      Commission            Meeting          Minutes                               20 May          2026       Page 12 of 22
+
+
+
+   utility     easement         located     along the eastern property                     line of Lot 42, as originally                  recorded       with
+   the subdivision             plat in the 1950s.          The property                owner     has since acquired             additional      adjacent
+   land through           a quiet title process,            effectively         squaring         off and enlarging             the lot. The owner
+   now intends           to expand        the rear portion            of the existing            home,     and the utility           easement      currently
+   bisects      the newly         consolidated         property,         creating        a constraint        on 'future       improvements.
+
+
+   Sanderson           noted that the associated               lot consolidation                had already        been reviewed             and approved
+   by staff without             issue. He explained             that while          the updated          plat reflects         the newly      configured
+   property          boundaries,      the original         utility     easement          remains         in place and therefore             must be
+   fonnally          vacated     to accommodate              the proposed              expansion.         He further        stated that modern
+   subdivision          design     typically        places utilities         witliin      roadway         corridors        rather     than along rear
+   property          lines and noted that a new ten-foot                      public       utility     easement       exists     along Ash Circle,
+   providing          an alternative        location       for future        utility     service       if needed.
+
+
+   Sanderson           reported      that all affected         utility     providers           had reviewed          the request        and provided
+   written      consent        to vacate the easement.                He also clarified               that other existing            easements        in the
+   area, including             aqueduct      and major         transmission             Iine easements          Iocated        east of the property,
+   would       remain      unaffected         and in place.           Applying          the criteria       established         by state and local
+   code, staff found             that good cause existed                 for the vacation              and that neither          the public       interest
+   nor any affected             parties     would      be materially           injured         by the request.        Based         on these findings
+   and the consent             of the utility       providers,         staff recoinmended                 approval         of the easement         vacation
+   and forwarding              a positive      recommendation                to the City          Council.
+
+
+   Chair       LaMar      opened       the public         hearing.
+
+
+   There       were no comments.
+
+
+   Chair       LaMar      closed      the public       hearing.
+
+
+Commissioner             Richardson,            based      on the findings               and conclusions              listed     in the staff         report,
+moved        that    the Planning           Commission               recommend             approval         of ffle number             SV-26-003,            as
+presented.          Commissioner             Burgess       seconded.            Chair       LaMar         called     for     the vote.     Chair
+LaMar        voted      yes, Commissioner                 Anderson           voted       yes, Commissioner                   Burgess      voted       yes,
+Commissioner             Larsen       voted        yes, Commissioner                    Reid     voted     yes, Commissioner                 Richardson
+voted    yes, Commissioner                  Soule     voted      yes, and Commissioner                       Wright          voted     yes. The        motion
+passed       unanimously.
+
+
+The coinmissiontook                a break from           7:05-7:18pm.
+
+
+2. New       Item
+   2.1 Consideration               of SD-25-007,            Request          for       a 9-Lot       Subdivision           Location:       4122 S Old
+   Farm        Way      Applicant:          Matt     Knight          Planner:          Sean Murray
+   Sean Murray            presented         application       SD-25-007,               a major       subdivision      request         for property
+   located      at 4122 South Old Farm Way.                          He explained              that the proposal           qualifies      as a major
+   subdivision          because      it would        create more          than three lots. The property                      is located      within     the
+   Old Farin Plaru'ied             Unit     Development              (PUD)      community             and is currently          zoned Residential
+   Mixed       (RM),      consistent        with     the surrounding               area. The site presently                contains      a single-family
+   home       that predates        the creation         of the Old Farm PUD                      in the 1970s.        Murray         noted that
+Millcreek       Planning          Commission                Meeting        Minutes                              20 May         2026       Page 13 of 22
+
+
+
+   although       the property          was originally             part of the larger            Old Farm property,                 it was not
+   incorporated          into the homeowners                   association          (HOA)       when the PUD              was established             and has
+   remained        an enclave          outside       of the HOA            since that time.
+
+
+   Murray       explained         that the applicant             is seeking         approval         to subdivide         the property         into nine
+   lots to accominodate                nine townhome                units arranged           as three triplex           buildings.       Access       to the
+   development            would       be provided           from     Old Fari'n Way,              replacing      the existing          driveway          access.
+   He stated that the proposed                    development              is a permitted          use within         the RM zoning             district        and
+   that the commission's                 review       is limited         to the subdivision             application,        while      compliance           with
+   landscaping,          engineering,          fire, and other development                       standards       is reviewed           administratively
+   by staff through            the site plan review                process.
+
+
+   A key component                of the proposal            is the applicant's             effort     to incorporate          the property          into the
+   surrounding          Lexington          Village        HOA.       Murray         reported      that the applicant            has received
+   preliminary          approval       from     the HOA,            although        final    approval        has not yet been granted.                   He
+   explained       that inclusion           in the HOA             is necessary         for the project          to function         as proposed
+  because       residents        would       rely on the HOA's                private       road network,             amenities,       open spaces, and
+  maintenance            agreements.          Incorporation              into the HOA          would         also allow        the existing        property
+  boundaries           to be integrated          into the larger            common          area system,         helping       the project         satisfy
+   open space and other zoning                     requirements.             He noted that final              subdivision           approval       would         be
+   contingent          upon the property's             successful          incorporation             into the HOA          and completion                of staff
+  review       to ensure compliance                  with    all applicable           standards.
+
+
+  Murray        outlined       the review        process,          explaining        that the subdivision               and site plan reviews                   are
+  interconnected              and must progress              concurrently.           While      preliminary            subdivision        approval         is
+  being      requested         at this stage, final            approval       cannot        be granted        until    HOA         incorporation           and all
+  site plan requirements                are satisfied.          He also reported              that a public           open house was held earlier
+  in the month,          attended       by approximately                  18-20      residents        from    the surrounding            Old Farm PUD
+  community.            During      the meeting,            residents       discussed         concerns        related     to building          height,
+  parking,       guest parking            availability,        traffic     circulation,        access, landscaping,                 architecture,          and
+  the project's         relationship         to the HOA.            Additional          written       coiui'nents       from       residents     were
+  received       and included          in the staff report.               Murray       noted that the East Mill                 Creek     Community
+  Council       reviewed         the proposal          and voted          4-0, with         one abstention,           to forward        a positive
+  recommendation.               Based on the findings                    outlined      in the staff report             and the project's
+  compliance           with    applicable        subdivision             requirements,         staff recommended                   approval      of tl'ie
+  preliminary          subdivision         application.
+
+
+  Chair      LaMar       discussed        why the proposed                 nine-unit        subdivision         at Old Farm only               functions           if
+  the parcel      is brought          into the HOA.             Chair      LaMar       asked Murray             to clarify      how joining           the
+  HOA        affects    property       lines and setbacks.                Murray        explained        that, as a stand-alone                parcel,      the
+   ot must                            y meet              RM     zoning       standards-setbacks,                 open space, and amenities-
+  within      its current       boundaries.          However,            if the parcel       is inducted        into the Old Farm HOA,                       its
+  existing      internal       property       lines are effectively               dissolved          into the larger       PUD's        cornrnon         area.
+  At that point,         required      setbacks        and open space are measured                           against     the broader           HOA
+  boundaries           and shared open spaces, rather                      than the original             single-lot       lines.     This change in
+  how the land is configured                   and measured               is what allows             the specific       nine-unit       townhome
+  layout     to comply         with    RM zoning             standards.
+Millcreek         Planning            Commission                Meeting            Minutes                                      20 May       2026           Page 14 of 22
+
+
+
+
+   Joe Johnson,             developer/owner                   working         with     the property                 owner,        explained         the history            and
+   intent      of the project.             He said the original                owner          approached                J Development                about         two    and a
+   half     years     ago, wanting                to move        and explore           development                   options       because         the property             is
+   zoned        for multifamily.                 Johnson        emphasized            that      from        the outset           they     chose      to work          directly
+   with      the Old       Farm        HOA,         meeting         repeatedly          at both          his office           and onsite          to try to align           tlie
+   project       with     the existing             comi'nunity.            He acknowledged                      that development                  is often         unpopular
+   but stressed           their      effort       to balance        the property             rights       of the individual                 owner         with     the
+   character         and expectations                 of the "legacy"                Old     Farm        subdivision,              which        he described              as a
+   well-laiown,            high-quality,             1970s       community.                He highlighted                 that there        has been "give                 and
+   take"      on both         sides       over     many       months,         and that they              see the proposed                  nine     units        as an
+   addition         to, not a detriment                   to, Old     Farm's         legacy.       Johnson             closed      by saying             he is excited            to
+   bring      the project          to Millcreek             and to contribute                positively              to the neighborhood                    with     new
+
+   homeowners who will en5oy living there.
+
+   Chair       LaMar        asked         for public         comment.
+
+
+   Caye       Wycoff,         Lexington             Village      resident,          acknowledged                    that while          the developer              has worked
+   diligently        with       the Old Fan'n              management               corninittee,            many        residents         remain          concerned.             She
+   stated      that a significant                 group     of homeowners                  believes            the management                committee              lacks
+   authority         to act on the HOA's                     behalf        and that the process                     has not been            transparent            to the
+   broader        membership.                 She gave        examples,            including            that key information-such                             as the actual
+   building         heights-was                  not shared         with    residents           until     just       before       this meeting,            even though
+   the developer              had already            provided          it to the committee.                    She also described                  the earlier           "straw
+   vote"       among        residents          as confusing            and suggested               that some             older      residents            felt pressured
+   with     arguments             that,    if they        did not support             the project,             the property             might      become            all rentals.
+   She emphasized                 that the proposed                 two-story          rinits      are inconsistent                with      Lexington             Village's
+   established           character          of single-story             homes,        generoris             open       space,      and mature              landscaping.
+   Her core objection                  was that squeezing                   nine     units      into      this small            lot, with       taller     buildings         and
+   loss of trees,          does not fit visually                 or functionally                with        the existing           development.
+
+
+   Inge-Lise         Goss,        635 E, focused                on the scale          and height               of the proposed               buildings           relative         to
+   the site and existing                  neighborhood                character.        She explained                   that the buildable                portion         of the
+   lot is only          about      O.81 acres,            yet the developer                plans        nine       relatively       large     units.       She noted            that
+   at a prior       meeting           on May         5 the units           were      described           as potentially             32 feet tall,           and although
+   the latest       information               indicates       26 feet, they           would         still      visually         dominate          adjacent          homes.
+   She contrasted               this with         the existing          Lexington            Village           buildings,          whose        roofs       slope        away
+   from      the street         so that the visible              front      height      is closer           to 10 or 11 feet.               By comparison,                  the
+   new units'           roofs      would          slope     upward,        presenting           their       full     height       toward        the viewer            and
+  "towering"             over     the neighborhood.                   She argued             that residents              chose      Lexington              Village        for its
+   current       ambiance-low,                     one-story        forms      and openness-and                           warned         that the proposed
+   buildings,         if approved             as designed,            would        stand      out starkly              and undermine               that     established
+   character.
+
+
+   Andy       Johnson,          Lexington            Village,         explained        why         the HOA             leadership           has tried        to work
+   constructively             with        the developer             despite       residents'            mixed         feelings.         He said the key driver                     is
+   that the existing              zoning          already      allows       this type         of development,                    so even        though           change      is
+   unpopular,           the board          felt    it was better           to engage            and shape the outcome                        focusing            on exterior
+   finishes,        layout,       and overall             ambiance          than     oppose        it outright.            He reported            results         of a
+Millcreek        Planning          Commission             Meeting          Minutes                            20 May       2026          Page 15 of 22
+
+
+
+   nonbinding            straw poll:       69 votes in favor              and 1 against          annexing      the project         into the HOA,             and
+   61 in favor           and 9 against          using the proposed               middle      access, which           is crucial     to enabling         nine
+   units rather          than a smaller,          differently       accessed project.             He emphasized            that these votes
+   followed        multiple        meetings        and information-sharing                    sessions.     Johnson        concluded         by noting
+   that a formal           annexation          still requires      a two-thirds            vote under       the CC&Rs,            and that the board
+   is working            to secure terms that provide                  as much benefit            as possible         for the HOA         and its
+   residents.
+
+
+   Wayne        Simpson,         Old Farm Way,               introduced           himself     as a resident      whose home              is irninediately
+   adjacent       to the proposed              townhome         site and expressed               support     for the project.         He noted that
+   the developer           has gone way beyond                   the original        concept-reducing                 from 10 units to 9 and
+   modifying         the design         to better match           Old Farm-based                  on feedback          from    neighbors        and the
+   HOA.       He acla"iowledged                that some residents               remain      opposed,       but characterized            them as a
+   relatively       small      group,     pointing        out that there have been multiple                     meetings          and that a clear
+   majority       of owners         support       moving        forward.         He emphasized             the practical       reality    that some
+   form     of development              will     occur on this parcel              regardless,      and argued that, given                that fact, it is
+   in the community's               best interest         to work         with    this particular         developer,       who has shown                a
+   willingness           to compromise            and to produce            something          that blends      with      the existing
+   neighborhood.
+
+
+  Jane Woolley,             632 E, questioned              the legitimacy            of the earlier        straw vote used to gauge HOA
+   sentiment        on the project.            She said many homeowners-particularly                                  older residents-found                      the
+  ballot    wording          confusing          and were unsure             what a "yes"          vote actually         meant      (for example,
+  whether        it referred       to annexation           into the HOA             or to specific         project     elements).        Because        of
+  that confiision,           she argued          the straw poll results              do not accurately           reflect      the cornrnunity's              true
+  views       or priorities.        In her view,          the process        and cornrnunication               around      that vote were
+  inadequate,            and the outcome            should      not be treated             as a reliable     indicator        of broad     resident
+  support        for the development.
+
+
+  Candace         Hartzog,         670 E, described             learning         about the project          only recently         from     a neighbor,
+  despite       living     just about a half block               away.      She expressed           concern          that nine condominium
+  units     on such a small             lot, located       at a favored           quiet     spot on the lake where residents                   enjoy
+  mature        trees, wildlife,         and tranquility,          would         significantly      change       the character           of that area.
+  Her main worries              were that the development                        is too dense for the site, that it would                    disrupt         the
+  quiet enjoyment              of that lakeside           space, and that many mature                      trees on the lot would              be
+  removed         and could         not be meaningfully                replaced       for many       years.     She invited          decisionmakers
+  to walk       or drive      through          the existing      complex          and look       at the site firsthand,            arguing     that it
+  would       become        obvious       that the proposed               number          and size of units          are out of scale and not
+  well-suited        to the current            setting.
+
+
+  Chair     LaMar         responded        to the public          comments           by first thanking          residents         for their input           and
+  then clarifying           the Planning           Commission's             role and legal         constraints.         He emphasized              that, in
+  this case, the property               is already        zoned RM,          so the corninission's              job is to apply          the existing
+  zoning      ordinance-setbacks,                   height      limits,     open space, and permitted                   uses-not          to renegotiate
+  those standards            or redesign          the project.      He explained              that, unlike      earlier    legislative        items         on
+  the agenda (such as the mixed-use                          project      where       the city had broad             discretion      through        a
+  rezone      and development                  agreement),       this is an administrative                 subdivision         review.       The
+  commission             cannot,    for example,           arbitrarily       lower        the allowed       building       height     below        what the
+Millcreek          Planning        Commission                 Meeting         Minutes                                    20 May           2026         Page 16 of 22
+
+
+
+
+   RM       zone permits           or deny        a layout         that otherwise               complies        with      code.        He underscored                that
+   questions         about      whether          the parcel         should      join      the HOA,            or whether            its design         is a good           fit for
+   the HOA's           internal         standards,        are primarily            matters          between          the applicant              and the HOA,
+   whereas         the city must            focus     on whetlier           the subdivision,                 as proposed,              meets       tlie objective
+   requirements             of Millcreek's            zoning        and subdivision                 ordinances.
+
+
+   Murray          explained       that this        application          differs         from     a rezoning            request        because         the property               is
+   already      zoned        RM,        which       grants     the property              owner       certain         established          development               rights.
+   Unlike       a rezoning         process,         where         the city    has broader              discretion            over      factors      sucli     as site
+   layorit,     building        placement,            and project          design,         the city's         role     in this case is more                  limited.        The
+   city     must     evaluate          the proposal          based      on whether              it complies           with     the standards               and
+   requirements             of the existing           RM       zoning        designation.             Murray          noted      that because              the
+   surrounding            properties         share the same zoning                       classification,             certain     additional            development
+   standards         that might          apply      when       adjacent       to differently                zoned       residential           areas do not apply
+   here.      He further        clarified        that matters          involving            the homeowner's                    association            are outside           the
+   city's     authority         and must         be resolved           directly          between        the applicant,              the property             owner,         and
+   the HOA.          The      city's     responsibility             is confined           to determining                whether         the project          meets
+   applicable         zoning       requirements               and identifying              any necessary                modifications              to achieve
+   compliance.            Any     negotiations,              conditions,        or agreements                 related        to HOA           approval           remain       a
+   private      matter       between         the applicant            and the HOA.                The        commission             briefly       discussed          the
+   code provisions              for replacing           mature         trees that get removed.
+
+
+Commissioner              Larsen         moved         that     the Planning                Commission,                 based        on the findings                and
+conclusions          of the staff         report,         grant       preliminary               approval          of the major                  subdivision          file     SD-
+25-007.       Commissioner                Reid      seconded.           Chair       LaMar             called      for     the vote,           Chair        LaMar           voted
+yes, Commissioner                 Burgess           voted      yes, Commissioner                       Larsen          voted        yes, Commissioner                       Reid
+voted     yes, Commissioner                     Richardson            voted        yes, Commissioner                      Soule         voted       yes, and
+Commissioner              Wright          voted      yes. The          motion          passed         unanimously.
+
+
+   2.2 Consideration                   of SD-25-011,              Request          for     a 21-Lot           Subdivision              Location:            2965      E
+   Evergreen           Avenue           Applicant:            Ivory      Development,                  LLC       Planner:              Zack       Wendel
+   Zack       Wendel        presented           a major       subdivision           application              submitted         by Ivory           Homes          for the
+   redevelopment              of the former            Reed        School       property          located        at 2965         East Evergreen                  Avenue.
+   The proposal             seeks approval             for a 21-lot          single-family              residential            subdivision            on
+   approximately              six acres of land.              The property               is currently          zoned         for single-house               residential
+   development,             and the applicant                is not requesting               any zoning              changes.          Lot      sizes are proposed
+   to range        from     approximately              8,000        to 15,000          square        feet,     and the surrounding                    area is
+   predominantly              composed            of single-family              residential           uses, making              the proposed                development
+   consistent        with      the character           of the neighborhood.
+
+
+   Wendel          explained       that the subdivision                  layout          includes       seven        lots fronting            2940      East, while           the
+   remaining          lots will        be accessed           from     a newly            constructed           cul-de-sac.          A unique           aspect       of the
+   project      is the presence             of an existing            cell tower           near the center              of the property.               Because          the
+   tower      remains        under       lease for several             more        years,       the development                 will     be completed               in two
+   phases.      Phase       One includes             the lots       along     2940         East and the first                portion         of the cul-de-sac.
+   Once       the cell tower            lease expires           and the tower              is removed,           Phase Two               will     allow       completion
+   of the cul-de-sac              and development                  of the remaining                 lots.
+Millcreek       Planning          Commission                  Meeting        Minutes                           20 May          2026           Page 17 of 22
+
+
+
+   The applicant            also addressed             the site's significant           east-to-west          slope by proposing                  a retaining
+   wall between           portions        of the subdivision.                The wall       would     reach a maximum                   height      of 12 feet
+   at its highest        point,       consistent        with      city code allowances              for a single        retaining        wall.      The wall's
+   height     would      vary across the property,                      with    the tallest     section      located         near the center             and
+   lower      sections      extending            toward       the north        and south ends. In response                    to questions         from           the
+   Planning        Commission,             staff clarified            that the wall     is proposed          as a single         retaining         wall          rather
+   than a terraced           design,      and that the 12-foot                 height   applies      only to the highest                point      rather          than
+   the entire      length      of the structure.
+
+
+   Wendel       noted that a neighborhood                         open house generated               significant        public        interest,     with
+   residents      raising      questions           regarding        the retaining       wall,     project      phasing,         drainage,         zoning
+   requirements,          sidewalk         improvements,                impacts     on adjacent           properties,         dust control,             and other
+   development-related                 concerns.          City     staff and the applicant               worked      to address these questions
+   throughout        the review           process.        Although           the property       is designated          as Public/Quasi-Public                          on
+   the Future       Land      Use Map,             staff explained            that the existing          residential         zoning     remains
+   controlling,       eliminating              the need for a rezoning               application,         general       plan amendment,                     or
+   future     land use map change                    as part of this proposal.               Based on its review,               staff concluded                   that
+   the preliminary            subdivision            complies         with     the applicable       zoning        district     requirements,
+   subdivision        regulations,             and relevant         city and state standards.               Accordingly,              staff
+   recommended              that the Planning                 Commission          approve       SD-25-01       1.
+
+
+   Wendel       clarified      that the retaining                wall    would     be a single       wall up to 12 feet tall with                       a
+  wrought         iron fence on top.
+
+
+   Coinmissioner            Reid wondered                if there was a process               by which        the city could            identify
+  prospective         park space in areas that lacked                          one. Lilly     had suggested             higher     density         in
+
+  exchange         for part of a park to Ivory                    Homes.         Commissioner            Reid questioned               the public/quasi-
+  public      space zoning.            Lilly      explained        that requiring           a General      Plan amendment                 in this case
+  would       create broader            implications,            potentially       necessitating          the rezoning          of similarly             situated
+  properties       to Public          or Quasi-Public              and Open Space designations.                      He emphasized                 that a
+  Future      Land Use Map designation                           by itself     does not carry regulatory                 authority        or override
+  existing      zoning.       Lilly     noted that some rapidly                   growing       corninunities,           such as Herriman,                       are
+  able to implement               long-range           parks planning            because       they are developing                largely
+  undeveloped            land and can require                  park acreage         as new residential              units     are constructed.                   In
+  contrast,       Millcreek       is primarily            an infill      community,          where       development            occurs        on already
+  developed         land, making               it difficult      to establish      the policy        and legal nexus necessary                      to require
+  park dedications            from       developers.            He further       explained       that cities may have greater                       authority
+  to require       such contributions                 when       constructing        new infrastructure,               imposing         impact          fees, or
+  undertaking         large-scale          growth         plaru'iing.        However,       under    the current            statutory     framework,
+  Millcreek's        parks impact               fee is limited          and calculated         according        to state requirements,
+  resulting       in a fee of approximately                      $400 per residential            unit,    which        constrains        the city's              ability
+  to secure additional                parkland        through         the development           process.
+
+
+  Peter Gamvroulas,               Ivory        Development              representative,         declined      to comment.
+
+
+  Chair     LaMar        asked for public              comment.
+Mincreek         Planning           Commission                    Meeting         Minutes                                20 May          2026            Page 18 of 22
+
+
+
+
+   Jamie       Allyn,     East Mill           Creek         Corni'nunity            Council,       stated     that the Council                  did not issue              a
+   forinal      recommendation                  regarding             the proposed             subdivision         but had submitted                     a letter
+   outlining         its observations                and concerns.              Allyn     expressed          appreciation            to city       staff,     particularly
+   Zack       Wendel,       for providing                 additional          information          regarding          fugitive       dust control             measures,
+   noting       that the explanation                  was helpful             both      for the community                 council       and nearby                residents.
+   He also highlighted                 concerns             that were         raised      about        the proposed         retaining           wall,
+   acknowledging                 that some           of those         iSSueS may          be more         appropriately            addressed             later     in the
+   development            process.           Allyn        explained          that tlie prospect            of a retaining            wall       reaching          up to 12
+   feet in height          within          relatively         close proximity               to residential         backyards            raised         concerns          about
+   its visual        and spatial           impact.         To illustrate          the scale,       he described            measuring             a 12-foot          height           in
+   his own        backyard          and noted             that the wall's            potential         presence       within        a limited           setback          area
+   created       concerns         about        a confined             or imposing           environment            for neighboring                properties.              While
+   not suggesting               any structural             concerns,          he indicated             that the size and character                      of the retaining
+   wall      remained       an issue of interest                     for the community                  council     and nearby              residents.
+
+
+   Jake Green,           city     staff,     addressed              concerns        regarding          the proposed         retaining            wall,      explaining
+   that the structure             has been professionally                         engineered           and is currently            undergoing               the buiIding
+   pen'nit      review      process.          He noted              that the project's           geotechnical            report     recommends                   that no
+   structures          be constructed              within         25 feet of tlie retaining                wall.    To ensure           long-term            compliance
+   with      this recommendation,                     the developer               intends       to record         an easement           on the subdivision                      plat
+   identifying          the restricted             area. While              the setback        falls    outside       the primary             buildable           area for
+   homes,        Green      explained           that the easement                   is intended          to prevent        future       property           owners          from
+   constructing           accessory           structures,            such as sheds             or accessoiy         dwelling           units,     too close          to the
+   wall.     By fon'nally           documenting                   the restriction         on the plat,        future       owners          and builders             will       be
+   aware       of the limitation,              helping            to preserve        the integrity          and stability           of the retaining                wall.
+   Green       added      that the restriction                    effectively        moves        any potential           future       development                 farther
+   away       from      the wall       and serves             as an additional              safeguard        against       activities           that     couJd
+   compromise             the engineered                  structure.
+
+
+   Jo-Ann        Wong,          Evergreen            Avenue,           expressed         appreciation          for a fence          that was installed
+   around       the property.              Chair      LaMar          asked       about      controlling        fugitive        dust.
+
+
+   Peter      Gamvroulas,            Ivory         Development,                 explained        that the undeveloped                   portion          of the project
+   designated           as Phase Two               will     likely        be hydroseeded               to establish       temporary             vegetation            and
+   help      control     dust until          construction              proceeds.         He noted         that a fugitive           dust control             plan        has
+   already       been prepared               and approved                 as part    of the site's demolition                    activities       and is therefore
+   already       in peace. The developer                          intends       to continue        implementing             and maintaining                      dust-
+   control      measures          throughout               subsequent            stages      of the project,          including          during          grading,
+   infrastructure          installation,             and subdivision                development.             Gamvroulas             stated       that these
+   requirements           will     be incorporated                   into    the project's         ongoing         stormwater            and construction
+   compliance            processes          to ensure          that dust mitigation                remains         in effect        throughout              the
+   development.
+
+
+Commissioner              Larsen,           based         on the findings                and    conclusions           of the       staff      report,        moved             the
+Planning        Commission                 approve           file    number          SD-25-011            as proposed.             Commissioner                     Reid
+seconded.        Chair      LaMar             called        for     the vote.        Chair       LaMar        voted        yes, Commissioner                        Burgess
+voted      yes, Commissioner                   Larsen             voted      yes, Commissioner                    Reid     voted       yes, Commissioner
+Millcreek        Planning            Commission                 Meeting        Minutes                                    20 May        2026         Page 19 of 22
+
+
+
+
+Richardson              voted      yes, Commissioner                    Soule      voted       yes, and            Commissioner                 Wright         voted         yes.
+The   motion        passed          unanimously.
+
+
+3. Continuing             Business
+   3.1 Consideration                   of ZT-26-001,                 Amending            Various            Provisions         of Title        18 of the
+   Mfflcreek             Code      of Ordinances                Planners:          Francis          Lilly       and     Sean       Murray
+   Francis       Lilly      said the Coinmission                     saw the presentation                   last month         and continued               the
+   application.
+
+
+   Sean Murray              explained          that the proposed                code amendments                     had previously              been      continued           to
+   allow      additional           time     for community               councils         to review           and provide           meaningful            feedback.           He
+   noted     that the original               review       timeline        was challenging                   because       several       community              councils
+   received       extensive           amendment             materials         shortly       before          they    were     expected           to formulate
+   recommendations.                   Recognizing              the complexity              and volume              of the proposed               changes,         the
+   Planning        Comi'nission              approved           a continuation             to facilitate           more    thorough            public      review.
+   Since     that time,          the Millcreek            Coinmunity              Council         requested           an additional            continuation             so
+   that members             could         further     evaluate         the amendments                 and discuss            them      with      plaru'iing       staff      at
+   an upcoming             meeting.          The      East Mill         Creek      Community                 Council       did not submit               a formal
+   recorninendation                but were          supportive          of the proposed              amendments               and expressed               concerns
+   regarding        the size of some                 proposed          lots and associated                  setback       requirements.              The      council
+   also voiced           support       for a tree-preservation                   "look-back"                provision        included          in the draft
+   amendments.              Murray          noted      that no additional             feedback              had been received                 from      the Canyon
+   Rim      or Mount            Olympus         cornrnunity            councils.
+
+
+   Murray       tlien      outlined         several      revisions        made       since        the previous            hearing.       One amendment
+   addresses        a gap in the city's                landscaping           standards         by extending               existing       requirements              for
+   single-family            and duplex              developments             to include        three-unit            and four-unit            residential
+   buildings,           ensuring      that triplexes            and fourplexes              are subject            to clear     and consistent
+   landscaping            regulations.          Another          revision        responds          to concerns            raised     by the Planning
+   Commission              regarding          tree preservation.              The proposed                  language       worild       require         developers            to
+   replace      trees that         are damaged             or destroyed            during         construction            and caru'iot         be restored,          with
+   replacement            standards          based      on the city's          existing       tree preservation                guidelines.
+
+
+   Murray       described           a new      proposal          affecting         neighborhood                 streets    within       the City         Center
+   Overlay       Zone.          The amendment                  was developed             in response             to discussions             with     local     business
+   owners       who       expressed          interest      in creating           outdoor       dining           areas along          certain       east-west
+  neighborhood              streets.        The proposal             would       allow      features          such      as shaded        seating         areas and
+  pergolas        while         establishing          design         standards      that     ensure          compatibility           with      surrounding
+   development.             Rather        than relying           on rigid        setback       requirements               that may       be difficult            to apply
+   consistently           due to              a       property         configurations,             the proposed              standards          focus      on design
+  and functionality,                providing          flexibility        while     maintaining               the intended            character          of the
+  streetscape.           Murray        emphasized              that staff      remains         open         to additional           suggestions            and
+  feedback         as the amendment                   process         continues.
+
+
+  Francis       Lilly      explained          that one of the proposed                     code      ai'nendments              originated          from       a business
+  owner's       interest         in making           private     investments             that would             enhance        the public          streetscape
+  within      the City          Center       Overlay       Zone.        He noted         that this          type     of initiative       is relatively
+  uncommon               and reflects         the kind         of community                   a             a                                  a     a            city
+Millcreek        Planning           Commission                Meeting           Minutes                                      20 May        2026          Page        20 of 22
+
+
+
+
+   hopes       to encourage.           While        staff      was not necessarily                     endorsing             a specific      design        solution,           Lilly
+   emphasized            the broader           goal    of fostering             a more          vibrant,        pedestrian-friendly                 environment
+   where       businesses          actively        engage        with      and improve                 the public            realm.
+
+
+   Lilly      then turned          to a separate          proposed             amendment               involving             the calculation             of lot and parcel
+   coverage.        During         the review          of a building              peri'nit       application,            staff     identified        an opportunity                    to
+   modify       the city's         lot coverage           methodology                in a manner               that     could     be more          equitable          for
+   property        owners       without         significantly             affecting          the city's         development               objectives.          He
+   explained        that lot coverage                regulations           play       an important               role     in preserving            neigliborhood
+   character        and work          alongside           setbacks,         building          envelopes,              and massing            standards          to ensure
+   compatibility            with      surrounding             development.              These          regulations            originated          with     the city's
+   fori'ner     R-1 zoning            standards        and have been                  strengthened               over     time        through      additional           design
+   controls        and clearer         definitions           goveriiing          building           mass,        roof     projections,           and setback
+   encroachments.
+
+
+   Under       the current          code,     lot coverage              is calculated            based         on everything              beneath         a roof,
+   including        roof     overhangs            and eaves.           Lilly     proposed            revising           the ordinance             so that Iot coverage
+   would       instead      be measured               from     the building             footprint,            specifically            the exterior         walls       or, in
+   the case of covered                porches,         the perimeter              of supporting                columns.           He noted         that     setbacks           are
+   already      measured            from      the foundation              or wall        line       rather      than the roof             edge,     and that the city
+   has separate          regulations           limiting        how       far eaves may                project         into     setbacks         and building
+   envelopes.         Because          these      controls           already      address           concerns          related      to building            mass       and
+   neighborhood             compatibility,             staff     believes         that measuring                  lot coverage            from      the building
+   footprint       would      provide          a more         practical         and consistent                standard          while     maintaining               existing
+   protections.
+
+
+   Using       several      visual      examples,            Lilly      illustrated          how       roof     overhangs             can significantly               affect      lot
+   coverage         calculations           despite        having        relatively        little       impact         on a building's             actual      footprint.
+   He emphasized              that no regulatory                 system          can fully          eliminate           subjective         concerns          about
+   architectural           design,      as attractive           and unattractive                 structures             can both        comply       with       code
+   requirements.            The      city's    objective,            he explained,            is not to regulate                  aesthetics        alone,       but rather
+   to ensure        that development                remains           compatible             with      surrounding               neighborhoods               through
+   reasonable         standards         governing             scale,      massing,           and setbacks.
+
+
+   Lilly      concluded        that the proposed                 change          would        likely       have        only      a marginal         effect      on
+   neighborhood             character         because          of the numerous                  other         controls        already      in place.         However,             it
+   could      provide       meaningful            benefits           to homeowners                  seeking       modest          additions         or improvements
+   by simplifying            the permit           review        process         and making              compliance               easier     to demonstrate.
+   While       the amendment                may    make         certain         neighborhood                  compatibility             analyses         slightly      more
+   complex,         staff believes            the overall            benefits      outweigh             the drawbacks.                 As a result,          staff     supports
+   the proposed            revision        and encouraged                 the Planning               Commission                to forward          a recommendation
+   on the lot coverage                amendment               to the City         Council            so that an applicant                  currently         seeking
+   approval        for a home           addition        could         move       forward           without        unnecessary             delay.
+
+
+   Joe Romero,             the applicant          whose         project         prompted            discussion            of the proposed                lot coverage
+   amendments,             described          his experience              navigating             the city's           approval         process      for a 658-square-
+   foot     home     addition         that he originally                submitted            in November                2025.      Romero          stated      that,        in his
+   view,      the proposal           complied          with     the existing            code,        although            disagreements             arose over           the
+Millcreek              Planning          Commission                 Meeting           Minutes                                20 May           2026           Page    21 of 22
+
+
+
+
+      interpretation             of specific         language          within         the ordinance.            As a result,            he was required                 to pursue
+      the Neighborhood                   Compatibility               Modification            process,        which          he said cost approximately
+      $3,000 and ultimately                     did not provide                a practical       path to approval                  due to the size and nature                        of
+      the project.          He noted          that    after      several       months        of discussions                with     city     staff,    the review
+      process          highlighted           ambiguities            within      the existing        lot coverage              regulations,              leading         the city
+      to reconsider              how     those       standards         are applied.
+
+
+      Romero           expressed         appreciation               for the efforts          of city      staff,     noting        that they          had worked
+      extensively           with       him    over     the course            of seven        months        to evaluate             the issue          and develop           a
+      proposed           solution.       He explained                that the primary            point      of contention                 ultimately            centered        on a
+      130-square-foot                covered         front     porch         and the way         roof      overhangs              and covered             areas were
+      included          in lot coverage              calculations.            Under       the proposed             amendment,                which        would      measure
+      lot coverage           from       the exterior           walls        rather     than roof        eaves,       his project            could      move        forward
+      with      only     a minor        design        modification.             Specifically,           Romero            stated        that compliance              would
+      require      reducing            the length         of an existing              shed by approximately                       two      feet,    a relatively         modest
+      adjustment           compared            to the challenges                and delays         experienced               during         the review           process.
+
+
+      Romero           further     noted       that the proposed                 amendment             aligns       with      guidance             from      the American
+      Plaru'iing        Association,           which         generally          does not count            modest           roof     overhangs             and eaves
+      toward       lot coverage              calculations.           He argued           that the revised             approach             provides           greater      clarity
+      and consistency                while      addressing            concerns          that arose        during          his application              review.       He urged
+      the Planning           Coinmission               to support            the lot coverage             amendment                and forward               it to the City
+      Council          for consideration,              explaining             that    approval      would           allow     his permit              to proceed          after
+      months       of delay.           Romero         also emphasized                  the financial         impacts          associated              with      the extended
+      review       process,        including          increased             construction         costs,     consultant             expenses,           and contractor
+      pricing      changes,            and expressed             hope        that the proposed             code revision                  would       help      prevent
+      similar      challenges           for future           applicants.
+
+
+   The        commission               and Lilly       briefly        discussed          eaves restrictions.
+
+
+Commissioner                 Burgess           moved          to recommend                 to the City             Council          adoption           of the proposed
+ordinance              amendments              as drafted             by staff         in file   number            ZT-26-001.               Commissioner                   Soule
+seconded.          Chair         LaMar           called       for    the vote.          Chair     LaMar             voted         yes, Commissioner                     Burgess
+voted        yes, Commissioner                    Larsen            voted      yes, Commissioner                    Reid          voted      yes, Commissioner
+Richardson               voted       yes, Commissioner                       Soule      voted    yes, and           Comnxi.i,+iantr                 'ilrright       voted         yes.
+The     motion           passed        unanimously
+
+
+4. Commission                Business
+   4.1 Approval                  of April        15, 2026           Regular           Meeting      Minutes
+
+
+Commissioner                 Larsen          moved         to approve                the April     15, 2026           regular             meeting         minutes.
+Commissioner                 Richardson               seconded.             Chair       LaMar          called       for     the vote.          Chair         LaMar         voted
+yes, Commissioner                      Burgess         voted         yes, Commissioner                   Larsen            voted        yes, Commissioner                    Reid
+voted        yes, Commissioner                    Richardson                voted       yes, Commissioner                     Soule         voted       yes, and
+Commissioner                 Wright          voted        yes. The           motion       passed        unanimously.
+
+
+   3.2 Housing               Subcommittee                  Report
+Millcreek            Planning           Commission             Meeting         Minutes                             20 May      2026        Page 22 of 22
+
+
+
+       Comt'nissioner             Richardson          reported        that the corni'nittee          met earlier        in the day prior        to the
+       Planning         Coini'nission        meeting          and focused        primarily         on upcoming           housing-related
+       discussions           and outreach          efforts.     The committee             reviewed         plans for a coini'nunity            council
+       luncheon         sclieduled         to take place at City Hall               on the 29th, which               is intended        to facilitate
+       dialogue         and information            sharing       between        city officials       and community              council
+       representatives.             The subcommittee               also examined             draft zoning          ordinance     language        from      other
+       Utah     corni'nunities,           including       Ogden        and Heber         City,    identifying        several     concepts      and
+       approaches            that may be applicable               to Millcreek's          housing         and zoning        policies.     Members
+       agreed to continue                evaluating       those examples             and discuss           which    provisions          or ideas may be
+       appropriate           for adaptation         in Millcreek           before    presenting           and discussing        them further            at the
+       upcoming           community          council       meeting.
+
+
+       3.3 Updates             from      the Planning           Director
+       Francis       Lilly     did not have any updates.
+
+
+       Chair        LaMar      noted Commissioner                 Lofgren        worild      not be renewing            his commission           teri'n,
+       which        expires      in June.
+
+
+4. Calendar              of Upcoming              Meetings
+        *    City    Council        Mtg.    5/26/26,       7:00 p.m. TUESDAY
+        *    City    Council        Mtg.    6/8/26,       7:00 p.m.
+        *    Historic        Preservation         Commission            Mtg.     6/1 1/26,       6:00 p.m.
+        *    Planning         Commission           Mtg.       6/1 7/26, 5:00 p.m.
+
+
+
+ADJOURNED:                       Commissioner                 Soule    moved        to adjourn            the meeting       at 8:51 p.m.
+Commissioner                   Richardson          seconded.           Chair     LaMar           called     for the vote.       Chair      LaMar          voted
+yes,        Commissioner                Burgess       voted     yes, Commissioner                  Larsen       voted    yes, Commissioner                 Reid
+voted         yes, Commissioner                Richardson              voted     yes, Commissioner                  Soule    voted       yes, and
+
+
+
+
+                                         Attest:

@@ -1,0 +1,105 @@
+{
+ "reports": [
+  {
+   "reporting_period": "FINAL general 12/2/2021 — nil report (bundle pp1-10)",
+   "total_contributions": null,
+   "total_expenditures": null,
+   "contributions_50_or_less": "0",
+   "beginning_balance": null,
+   "ending_balance": "0",
+   "cover_lines": {
+    "line1_balance_forward": "",
+    "line2_contributions_50_or_less": "Ø",
+    "line3_contributions_over_50": "-",
+    "line4_total_contributions": "-",
+    "line5_total_expenses": "-",
+    "line6_ending_balance": "Ø"
+   },
+   "contributions": [],
+   "expenditures": []
+  },
+  {
+   "reporting_period": "INTERIM pre-general Oct 26 2021 (bundle pp11-20)",
+   "total_contributions": "2257.50",
+   "total_expenditures": "2257.50",
+   "contributions_50_or_less": "0",
+   "beginning_balance": null,
+   "ending_balance": "0",
+   "cover_lines": {
+    "line1_balance_forward": "",
+    "line2_contributions_50_or_less": "Ø",
+    "line3_contributions_over_50": "Ø",
+    "line4_total_contributions": "2257.50",
+    "line5_total_expenses": "2257.50",
+    "line6_ending_balance": "Ø"
+   },
+   "contributions": [
+    {
+     "date": "6-7-21",
+     "name": "Self",
+     "amount": "25",
+     "in_kind": false
+    },
+    {
+     "date": "10-26-21",
+     "name": "Self",
+     "amount": "2257.50",
+     "in_kind": false,
+     "amount_verbatim": "2257 50"
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "6-7-21",
+     "recipient": "[blotted/scribbled word] West Jordan",
+     "purpose": "",
+     "amount": "25.00",
+     "in_kind": false,
+     "amount_verbatim": "25 00"
+    },
+    {
+     "date": "10-26-21",
+     "recipient": "WJ Journal",
+     "purpose": "Add",
+     "amount": "1196",
+     "in_kind": false
+    },
+    {
+     "date": "10-2(-21",
+     "recipient": "Sigh Hub",
+     "purpose": "Sighs",
+     "amount": "1067.50",
+     "in_kind": false,
+     "amount_verbatim": "1067 50"
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-primary Jul 30 2021 (bundle pp21-30)",
+   "total_contributions": "25.00",
+   "total_expenditures": "25.00",
+   "contributions_50_or_less": "25.00",
+   "beginning_balance": "0",
+   "ending_balance": "0",
+   "cover_lines": {
+    "1_balance_forward": "0",
+    "2_contributions_50_or_less": "$ 25 00",
+    "3_contributions_over_50": "$ 0 -",
+    "4_total_contributions": "$ 25 00",
+    "5_total_expenses": "$ 25 00",
+    "6_ending_balance": "$ 0 (zero written with a slash through it)"
+   },
+   "contributions": [
+    {
+     "date": "June 1st 21",
+     "name": "Mike Withers",
+     "amount": "25.00",
+     "in_kind": false,
+     "amount_verbatim": "25 00"
+    }
+   ],
+   "expenditures": []
+  }
+ ],
+ "notes": "MERGED multi-report re-transcription from Read-tool page-range partials in vision/_partials/ (2026-07-12, cf-vision-transcribe, no API). total_expenditures/total_contributions are cover lines 5/4 as magnitudes (verbatim incl. signs/parens in each report's cover_lines echo). Row amounts in dollars/cents-column or dash-cents notation normalized to decimals (verbatim kept per-row in amount_verbatim). The Oct interim's Attachment B row 'Self 2257.50' is STRUCK THROUGH by the filer on the form (the source's own deletion) — excluded from the expenditure rows, documented here. Remaining B rows (25.00 + 1,196 + 1,067.50 = 2,288.50) exceed cover line 5 (2,257.50) by $31.00 — the filer's own arithmetic, kept verbatim. Pre-primary line 5 = $25.00 but its Attachment B is empty (X-ed out) — cover kept, no row synthesized."
+}

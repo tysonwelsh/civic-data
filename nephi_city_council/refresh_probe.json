@@ -1,0 +1,43 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus-agendacenter",
+    "index_max_date": "2026-06-09",
+    "index_rows": 251,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://www.nephi.utah.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=06/10/2026&endDate=07/19/2026",
+    "new_count": 1,
+    "notes": "",
+    "new_items": [
+      {
+        "date": "2026-06-16",
+        "title": "City Council Meeting",
+        "url": "https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_06162026-433"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus-agendacenter",
+    "index_max_date": "2026-02-11",
+    "index_rows": 70,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://www.nephi.utah.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=02/12/2026&endDate=07/19/2026",
+    "new_count": 2,
+    "notes": "",
+    "new_items": [
+      {
+        "date": "2026-04-08",
+        "title": "Planning Commission Agenda for Public Hearings",
+        "url": "https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_04082026-423"
+      },
+      {
+        "date": "2026-05-13",
+        "title": "Nephi City Planning Commission",
+        "url": "https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_05132026-428"
+      }
+    ]
+  }
+}

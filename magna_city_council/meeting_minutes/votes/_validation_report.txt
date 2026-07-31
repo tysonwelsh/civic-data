@@ -1,0 +1,356 @@
+Magna City / Metro Township Council — vote extraction validation report
+==========================================================================
+Meeting JSONs             : 173
+Meetings with >= 1 motion : 156
+Motions extracted         : 921
+
+Body counts:
+   CRA              13
+   Council          908
+
+Motion-type distribution:
+   Procedural/Administrative    259
+   Other                        174
+   Resolution                   145
+   Public Hearing Action        129
+   Ordinance                    64
+   Land-Use/Zoning              44
+   Appointment                  44
+   Contract/Purchase            26
+   Budget/Finance               16
+   Interlocal                   8
+   Grant-Funding                6
+   Ceremonial                   6
+
+--------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded vote rows that year).
+SEAM: the presiding 'Mayor' is a VOTING chair <=2025 (Peay 2018-23, Barney 24-25)
+and the NON-voting executive Mayor Sudbury 2026+. Max council tally = 5 both eras.
+--------------------------------------------------------------------------
+
+2018:
+   Trish Hull           1
+
+2019:
+   Steve Prokopis       1
+   Audrey Pierce        1
+
+2020:
+   Audrey Pierce        2
+   Brint Peel           1
+   Dan Peay             1  <-- chair/Mayor (voting this era)
+   Steve Prokopis       1
+
+2021:
+   Audrey Pierce        10
+   Steve Prokopis       5
+
+2022:
+   Audrey Pierce        9
+   Eric Barney          4  <-- chair/Mayor (voting this era)
+   Steve Prokopis       3
+   Dan Peay             2  <-- chair/Mayor (voting this era)
+   Trish Hull           1
+
+2023:
+   Eric Barney          3  <-- chair/Mayor (voting this era)
+   Audrey Pierce        2
+   Steve Prokopis       1
+   Trish Hull           1
+   Dan Peay             1  <-- chair/Mayor (voting this era)
+
+2024:
+   Steve Prokopis       12
+   Trish Hull           10
+   Audrey Pierce        9
+   Mick Sudbury         8
+   Eric Barney          7  <-- chair/Mayor (voting this era)
+
+2025:
+   Audrey Pierce        22
+   Steve Prokopis       9
+   Eric Barney          3  <-- chair/Mayor (voting this era)
+   Mick Sudbury         3
+   Trish Hull           2
+
+2026:
+   Audrey Pierce        8
+   Michael Jensen       2
+
+--------------------------------------------------------------------------
+MAYOR-VOTE FLAGS (city-era Mayor Sudbury recorded voting): 0
+Sudbury is non-voting from 2026 — any hit is a real recorded event to review.
+--------------------------------------------------------------------------
+   (none)
+
+--------------------------------------------------------------------------
+>5-VOTER FLAGS: 0
+--------------------------------------------------------------------------
+   (none)
+
+--------------------------------------------------------------------------
+TALLY-VS-NAMED MISMATCHES (full roll calls): 80
+--------------------------------------------------------------------------
+   2019-10-22 m2: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Peel, seconded by Council Member Hu
+   2020-01-14 m1: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Peel, seconded by Council Member Hu
+   2020-01-28 m9: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Peel, seconded by Council Member Pr
+   2020-02-11 m6: named 0-0 vs printed 4-1 :: 4-1 Pass :: Council Member Hull, seconded by Council Member Pr
+   2020-07-14 m5: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Hull, seconded by Council Member Pi
+   2021-04-27 m12: named 0-0 vs printed 4-1 :: 4-1 Pass :: Council Member Hull, seconded by Council Member Pe
+   2021-04-27 m14: named 0-0 vs printed 4-1 :: 4-1 Pass :: Council Member Hull, seconded by Council Member Pe
+   2021-04-27 m17: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Peel, seconded by Council Member Hu
+   2021-12-14 m9: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Peel, seconded by Council Member Hu
+   2022-01-11 m1: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2022-01-11 m2: named 0-1 vs printed 4-1 :: 4-1 Pass :: Mayor Peay, seconded by Council Member Prokopis, m
+   2022-01-11 m7: named 0-3 vs printed 2-3 :: 2-3 Fail :: Council Member Barney, seconded by Council Member 
+   2022-02-08 m6: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Barney, seconded by Council Member 
+   2022-04-26 m4: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2022-04-26 m5: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Hull, seconded by Council Member Pr
+   2022-06-14 m5: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Barney, seconded by Council Member 
+   2022-06-14 m10: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Barney, seconded by Council Member 
+   2022-06-28 m1: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2022-06-28 m2: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Barney, seconded by Council Member 
+   2022-07-26 m3: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2022-08-23 m2: named 0-2 vs printed 2-2 :: 2-2 Fail :: Council Member Barney, seconded by Council Member 
+   2022-09-27 m4: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2022-10-25 m3: named 0-0 vs printed 3-1 :: 3-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2023-01-24 m4: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Pierce, seconded by Council Member 
+   2023-02-28 m4: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Prokopis, seconded by Council Membe
+   2023-03-28 m5: named 0-0 vs printed 4-1 :: 4-1 Pass :: Council Member Barney, seconded by Council Member 
+   2023-03-28 m6: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Hull, seconded by Council Member Ba
+   2023-04-25 m7: named 3-0 vs printed 3-1 :: 3-1 Pass :: Council Member Hull, seconded by Council Member Ba
+   2024-06-25 m12: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Hull, seconded by Council Member Pi
+   2024-07-23 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to commit to an init
+   2024-07-23 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to adjourn the July 23, 
+   2024-10-08 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to recess the City Co
+   2024-10-08 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to adjourn Closed Sessio
+   2024-10-08 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to adjourn the October 8
+   2024-10-22 m1: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Sudbury moved to deny Ordinance 202
+   2024-12-10 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve the July 
+   2024-12-10 m7: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to recess the City Co
+   2025-03-11 m2: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Prokopis moved to delay the decisio
+   2025-03-11 m3: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Sudbury moved to deny the vacation 
+   2025-03-25 m3: named 0-2 vs printed 3-2 :: 3-2 Pass :: Council Member Hull moved to approve Resolution R2
+   2025-04-22 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to approve the Commun
+   2025-04-22 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to suspend the agenda
+   2025-04-22 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to authorize the mayo
+   2025-04-22 m4: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to approve Ordinance 202
+   2025-04-22 m5: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m6: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m7: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m8: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to authorize the Mayor t
+   2025-04-22 m9: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to recess the Council
+   2025-04-22 m10: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to adjourn the April 22,
+   2025-05-13 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to approve Ordinance 202
+   2025-05-13 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve the adopt
+   2025-05-13 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve Resolutio
+   2025-05-13 m4: named 0-0 vs printed 4-0 :: 4-0 Pass :: council Member sudbury moved to recess the city co
+   2025-05-13 m5: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to adjourn the May 13, 2
+   2025-05-27 m4: named 0-1 vs printed 2-1 :: 2-1 Pass :: Council Member then moved to approve the rezone wi
+   2025-06-10 m2: named 0-1 vs printed 3-1 :: 3-1 Pass :: Council Member Hull moved to approve the Skate Par
+   2025-06-10 m3: named 0-1 vs printed 2-1 :: 2-1 Pass :: council Member Hull moved to approve the full fund
+   2025-06-10 m4: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to approve the Picklebal
+   2025-06-10 m5: named 0-1 vs printed 3-1 :: 3-1 Pass :: council Member sudbury moved to approve ordinance 
+   2025-06-10 m6: named 0-0 vs printed 4-0 :: 4-0 Pass :: council Member Hull moved to recess the city counc
+   2025-06-10 m7: named 0-0 vs printed 4-0 :: 4-0 Pass :: council Member sudbury moved to adjourn the closed
+   2025-06-10 m8: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to adiourn the June 1
+   2025-07-30 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to recess the City Co
+   2025-10-28 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to approve the re-appoin
+   2025-10-28 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to approve Ordinance 
+   2025-10-28 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Hull moved to approve Ordinance 202
+   2025-10-28 m4: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve Ordinance
+   2025-10-28 m5: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Sudbury moved to adjourn the Octobe
+   2025-12-09 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Board Member Sudbury moved to adjourn the December
+   2026-01-27 m3: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Olsen moved to appoint Mayor Sudbur
+   2026-01-27 m9: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member Olsen moved to add the additional $
+   2026-02-24 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve the Janua
+   2026-02-24 m2: named 0-1 vs printed 4-1 :: 4-1 Pass :: Council Member George moved to approve authorizati
+   2026-04-30 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Prokopis moved to approve the above
+   2026-04-30 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member George moved to adjourn the April 3
+   2026-05-26 m1: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Jensen moved that the review commit
+   2026-05-26 m2: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Jensen moved to designate City Mana
+   2026-05-26 m3: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Olsen moved to approve entering int
+   2026-05-26 m4: named 0-0 vs printed 4-0 :: 4-0 Pass :: Council Member Jensen moved to adjourn the May 261
+
+--------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 32
+--------------------------------------------------------------------------
+   2019-10-22 m2: PASS but aye0<=nay1 :: 3-1 Pass
+   2020-01-14 m1: PASS but aye0<=nay1 :: 4-1 Pass
+   2020-01-28 m9: PASS but aye0<=nay1 :: 3-1 Pass
+   2020-07-14 m5: PASS but aye0<=nay1 :: 4-1 Pass
+   2021-04-27 m17: PASS but aye0<=nay2 :: 3-2 Pass
+   2021-12-14 m9: PASS but aye0<=nay2 :: 3-2 Pass
+   2022-01-11 m1: PASS but aye0<=nay1 :: 4-1 Pass
+   2022-01-11 m2: PASS but aye0<=nay1 :: 4-1 Pass
+   2022-02-08 m6: PASS but aye0<=nay1 :: 4-1 Pass
+   2022-04-26 m4: PASS but aye0<=nay1 :: 3-1 Pass
+   2022-04-26 m5: PASS but aye0<=nay1 :: 3-1 Pass
+   2022-06-14 m5: PASS but aye0<=nay1 :: 4-1 Pass
+   2022-06-14 m10: PASS but aye0<=nay1 :: 4-1 Pass
+   2022-06-28 m1: PASS but aye0<=nay1 :: 3-1 Pass
+   2022-06-28 m2: PASS but aye0<=nay1 :: 3-1 Pass
+   2022-07-26 m3: PASS but aye0<=nay1 :: 3-1 Pass
+   2022-09-27 m4: PASS but aye0<=nay1 :: 3-1 Pass
+   2023-01-24 m4: PASS but aye0<=nay1 :: 4-1 Pass
+   2023-02-28 m4: PASS but aye0<=nay1 :: 4-1 Pass
+   2023-03-28 m6: PASS but aye0<=nay1 :: 4-1 Pass
+   2024-06-25 m12: PASS but aye0<=nay2 :: 3-2 Pass
+   2024-10-22 m1: PASS but aye0<=nay2 :: 3-2 Pass
+   2025-03-11 m2: PASS but aye0<=nay2 :: 3-2 Pass
+   2025-03-11 m3: PASS but aye0<=nay1 :: 4-1 Pass
+   2025-03-25 m3: PASS but aye0<=nay2 :: 3-2 Pass
+   2025-05-27 m4: PASS but aye0<=nay1 :: 2-1 Pass
+   2025-06-10 m2: PASS but aye0<=nay1 :: 3-1 Pass
+   2025-06-10 m3: PASS but aye0<=nay1 :: 2-1 Pass
+   2025-06-10 m5: PASS but aye0<=nay1 :: 3-1 Pass
+   2026-01-27 m3: PASS but aye0<=nay1 :: 4-1 Pass
+   2026-01-27 m9: PASS but aye0<=nay1 :: 4-1 Pass
+   2026-02-24 m2: PASS but aye0<=nay1 :: 4-1 Pass
+
+--------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (named rolls seated != 5): 93
+Expected on any motion with a member absent/excused.
+--------------------------------------------------------------------------
+   2018-09-18 m1: 1 seated (exp 5) :: Council Member Brint, seconded by Council Member P
+   2019-07-09 m10: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pe
+   2019-10-22 m2: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Hu
+   2020-01-14 m1: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Hu
+   2020-01-28 m9: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2020-02-11 m6: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pr
+   2020-07-14 m5: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pi
+   2020-11-10 m3: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pe
+   2021-04-27 m11: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2021-04-27 m12: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pe
+   2021-04-27 m14: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pe
+   2021-04-27 m17: 2 seated (exp 5) :: Council Member Peel, seconded by Council Member Hu
+   2021-12-14 m2: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pe
+   2021-12-14 m3: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2021-12-14 m4: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2021-12-14 m5: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2021-12-14 m6: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2021-12-14 m7: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Pr
+   2021-12-14 m9: 2 seated (exp 5) :: Council Member Peel, seconded by Council Member Hu
+   2021-12-14 m10: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pr
+   2021-12-14 m11: 1 seated (exp 5) :: Council Member Peel, seconded by Council Member Hu
+   2022-01-11 m1: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2022-01-11 m2: 1 seated (exp 5) :: Mayor Peay, seconded by Council Member Prokopis, m
+   2022-01-11 m7: 3 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-02-08 m6: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-04-26 m4: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2022-04-26 m5: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Pr
+   2022-06-14 m5: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-06-14 m10: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-06-28 m1: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2022-06-28 m2: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-07-26 m3: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2022-08-23 m2: 3 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-09-27 m4: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2022-10-25 m2: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2022-10-25 m3: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2023-01-24 m4: 1 seated (exp 5) :: Council Member Pierce, seconded by Council Member 
+   2023-02-28 m4: 1 seated (exp 5) :: Council Member Prokopis, seconded by Council Membe
+   2023-03-28 m5: 1 seated (exp 5) :: Council Member Barney, seconded by Council Member 
+   2023-03-28 m6: 1 seated (exp 5) :: Council Member Hull, seconded by Council Member Ba
+   2023-04-25 m7: 4 seated (exp 5) :: Council Member Hull, seconded by Council Member Ba
+   2024-06-25 m12: 2 seated (exp 5) :: Council Member Hull, seconded by Council Member Pi
+   2024-07-23 m1: 1 seated (exp 5) :: Council Member Prokopis moved to commit to an init
+   2024-07-23 m3: 1 seated (exp 5) :: Council Member Hull moved to adjourn the July 23, 
+   2024-10-08 m1: 1 seated (exp 5) :: Council Member Sudbury moved to recess the City Co
+   2024-10-08 m2: 1 seated (exp 5) :: Council Member Hull moved to adjourn Closed Sessio
+   2024-10-08 m3: 1 seated (exp 5) :: Council Member Hull moved to adjourn the October 8
+   2024-10-22 m1: 2 seated (exp 5) :: Council Member Sudbury moved to deny Ordinance 202
+   2024-12-10 m1: 1 seated (exp 5) :: Council Member Prokopis moved to approve the July 
+   2024-12-10 m7: 1 seated (exp 5) :: Council Member Sudbury moved to recess the City Co
+   2025-03-11 m2: 2 seated (exp 5) :: Council Member Prokopis moved to delay the decisio
+   2025-03-11 m3: 1 seated (exp 5) :: Council Member Sudbury moved to deny the vacation 
+   2025-03-25 m3: 2 seated (exp 5) :: Council Member Hull moved to approve Resolution R2
+   2025-04-22 m1: 1 seated (exp 5) :: Council Member Sudbury moved to approve the Commun
+   2025-04-22 m2: 1 seated (exp 5) :: Council Member Sudbury moved to suspend the agenda
+   2025-04-22 m3: 1 seated (exp 5) :: Council Member Sudbury moved to authorize the mayo
+   2025-04-22 m4: 1 seated (exp 5) :: Council Member Hull moved to approve Ordinance 202
+   2025-04-22 m5: 1 seated (exp 5) :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m6: 1 seated (exp 5) :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m7: 1 seated (exp 5) :: Council Member Sudbury moved to approve Ordinance 
+   2025-04-22 m8: 1 seated (exp 5) :: Council Member Hull moved to authorize the Mayor t
+   2025-04-22 m9: 1 seated (exp 5) :: Council Member Sudbury moved to recess the Council
+   2025-04-22 m10: 1 seated (exp 5) :: Council Member Hull moved to adjourn the April 22,
+   2025-05-13 m1: 1 seated (exp 5) :: Council Member Hull moved to approve Ordinance 202
+   2025-05-13 m2: 1 seated (exp 5) :: Council Member Prokopis moved to approve the adopt
+   2025-05-13 m3: 1 seated (exp 5) :: Council Member Prokopis moved to approve Resolutio
+   2025-05-13 m4: 1 seated (exp 5) :: council Member sudbury moved to recess the city co
+   2025-05-13 m5: 1 seated (exp 5) :: Council Member Hull moved to adjourn the May 13, 2
+   2025-05-27 m4: 1 seated (exp 5) :: Council Member then moved to approve the rezone wi
+   2025-06-10 m2: 2 seated (exp 5) :: Council Member Hull moved to approve the Skate Par
+   2025-06-10 m3: 3 seated (exp 5) :: council Member Hull moved to approve the full fund
+   2025-06-10 m4: 1 seated (exp 5) :: Council Member Hull moved to approve the Picklebal
+   2025-06-10 m5: 2 seated (exp 5) :: council Member sudbury moved to approve ordinance 
+   2025-06-10 m6: 1 seated (exp 5) :: council Member Hull moved to recess the city counc
+   2025-06-10 m7: 1 seated (exp 5) :: council Member sudbury moved to adjourn the closed
+   2025-06-10 m8: 1 seated (exp 5) :: Council Member Sudbury moved to adiourn the June 1
+   2025-07-30 m1: 1 seated (exp 5) :: Council Member Sudbury moved to recess the City Co
+   2025-10-28 m1: 1 seated (exp 5) :: Council Member Hull moved to approve the re-appoin
+   2025-10-28 m2: 1 seated (exp 5) :: Council Member Sudbury moved to approve Ordinance 
+   2025-10-28 m3: 1 seated (exp 5) :: Council Member Hull moved to approve Ordinance 202
+   2025-10-28 m4: 1 seated (exp 5) :: Council Member Prokopis moved to approve Ordinance
+   2025-10-28 m5: 1 seated (exp 5) :: Council Member Sudbury moved to adjourn the Octobe
+   2025-12-09 m1: 1 seated (exp 5) :: Board Member Sudbury moved to adjourn the December
+   2026-01-27 m3: 1 seated (exp 5) :: Council Member Olsen moved to appoint Mayor Sudbur
+   2026-01-27 m9: 1 seated (exp 5) :: Council Member Olsen moved to add the additional $
+   2026-02-24 m1: 1 seated (exp 5) :: Council Member Prokopis moved to approve the Janua
+   2026-02-24 m2: 1 seated (exp 5) :: Council Member George moved to approve authorizati
+   2026-04-30 m1: 1 seated (exp 5) :: Council Member Prokopis moved to approve the above
+   2026-04-30 m2: 1 seated (exp 5) :: Council Member George moved to adjourn the April 3
+   2026-05-26 m1: 1 seated (exp 5) :: Council Member Jensen moved that the review commit
+   2026-05-26 m2: 1 seated (exp 5) :: Council Member Jensen moved to designate City Mana
+   2026-05-26 m3: 1 seated (exp 5) :: Council Member Olsen moved to approve entering int
+   2026-05-26 m4: 1 seated (exp 5) :: Council Member Jensen moved to adjourn the May 261
+
+--------------------------------------------------------------------------
+CONTESTED VOTES (any Nay/Abstain/Recuse) — the signal: 45
+--------------------------------------------------------------------------
+   2019-07-09 [Council] m10 Unanimous Pass | AYE=[] NAY=[] ABSTAIN=['Steve Prokopis'] ABSENT=[] :: Council Member Peel, seconded by Council Member Peay, moved to appoint Coun
+   2019-10-22 [Council] m2 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Peel, seconded by Council Member Hull, moved to approve send
+   2020-01-14 [Council] m1 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Peel, seconded by Council Member Hull, moved to appoint Dan 
+   2020-01-28 [Council] m9 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Peel, seconded by Council Member Prokopis, moved to approve 
+   2020-02-11 [Council] m6 4-1 Pass | AYE=[] NAY=[] ABSTAIN=['Brint Peel'] ABSENT=[] :: Council Member Hull, seconded by Council Member Prokopis, moved to continue
+   2020-07-14 [Council] m5 4-1 Pass | AYE=[] NAY=['Dan Peay'] ABSTAIN=[] ABSENT=[] :: Council Member Hull, seconded by Council Member Pierce, moved to approve Ap
+   2021-04-27 [Council] m11 Unanimous Pass | AYE=[] NAY=[] ABSTAIN=['Steve Prokopis'] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Peel, moved to close th
+   2021-04-27 [Council] m12 4-1 Pass | AYE=[] NAY=[] ABSTAIN=['Steve Prokopis'] ABSENT=[] :: Council Member Hull, seconded by Council Member Peel, moved to approve Appl
+   2021-04-27 [Council] m14 4-1 Pass | AYE=[] NAY=[] ABSTAIN=['Steve Prokopis'] ABSENT=[] :: Council Member Hull, seconded by Council Member Peel, moved to approve Appl
+   2021-04-27 [Council] m17 3-2 Pass | AYE=[] NAY=['Audrey Pierce', 'Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Peel, seconded by Council Member Hull, moved to approve Appl
+   2021-12-14 [Council] m9 3-2 Pass | AYE=[] NAY=['Audrey Pierce', 'Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Peel, seconded by Council Member Hull, moved to approve the 
+   2022-01-11 [Council] m1 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved that Mayor 
+   2022-01-11 [Council] m2 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Mayor Peay, seconded by Council Member Prokopis, made a motion that Council
+   2022-01-11 [Council] m7 2-3 Fail | AYE=[] NAY=['Dan Peay', 'Eric Barney', 'Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Barney, seconded by Council Member Pierce, moved to table th
+   2022-02-08 [Council] m6 4-1 Pass | AYE=[] NAY=['Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Barney, seconded by Council Member Pierce, moved to amend th
+   2022-04-26 [Council] m4 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved to approve 
+   2022-04-26 [Council] m5 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Hull, seconded by Council Member Prokopis, moved to approve 
+   2022-06-14 [Council] m5 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Barney, seconded by Council Member Hull, moved to approve th
+   2022-06-14 [Council] m10 4-1 Pass | AYE=[] NAY=['Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Barney, seconded by Council Member Hull, moved to approve th
+   2022-06-28 [Council] m1 3-1 Pass | AYE=[] NAY=['Eric Barney'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Pierce, moved to approv
+   2022-06-28 [Council] m2 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Barney, seconded by Council Member Prokopis, moved to retrac
+   2022-07-26 [Council] m3 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved to approve 
+   2022-08-23 [Council] m2 2-2 Fail | AYE=[] NAY=['Trish Hull', 'Dan Peay'] ABSTAIN=['Steve Prokopis'] ABSENT=[] :: Council Member Barney, seconded by Council Member Pierce, moved to defer ap
+   2022-09-27 [Council] m4 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved to approve 
+   2022-10-25 [Council] m2 Unanimous Pass | AYE=[] NAY=[] ABSTAIN=['Eric Barney'] ABSENT=[] :: Council Member Barney, seconded by Council Member Prokopis, moved to close 
+   2022-10-25 [Council] m3 3-1 Pass | AYE=[] NAY=[] ABSTAIN=['Eric Barney'] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved to adopt Or
+   2023-01-24 [Council] m4 4-1 Pass | AYE=[] NAY=['Eric Barney'] ABSTAIN=[] ABSENT=[] :: Council Member Pierce, seconded by Council Member Hull, moved to approve Or
+   2023-02-28 [Council] m4 4-1 Pass | AYE=[] NAY=['Eric Barney'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis, seconded by Council Member Hull, moved to approve 
+   2023-03-28 [Council] m5 4-1 Pass | AYE=[] NAY=[] ABSTAIN=['Audrey Pierce'] ABSENT=[] :: Council Member Barney, seconded by Council Member Hull, moved to approve th
+   2023-03-28 [Council] m6 4-1 Pass | AYE=[] NAY=['Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Hull, seconded by Council Member Barney, made a motion to ap
+   2023-04-25 [Council] m7 3-1 Pass | AYE=['Eric Barney', 'Trish Hull', 'Dan Peay'] NAY=[] ABSTAIN=['Audrey Pierce'] ABSENT=[] :: Council Member Hull, seconded by Council Member Barney, moved to approve th
+   2024-06-25 [Council] m4 3-2 Fail | AYE=['Audrey Pierce', 'Mick Sudbury', 'Eric Barney'] NAY=['Trish Hull', 'Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Pierce, seconded by Council Member Sudbury, made a motion to
+   2024-06-25 [Council] m5 4-1 Pass | AYE=['Audrey Pierce', 'Trish Hull', 'Mick Sudbury', 'Eric Barney'] NAY=['Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Hull, seconded by Council Member Pierce, made a motion to mo
+   2024-06-25 [Council] m12 3-2 Pass | AYE=[] NAY=['Steve Prokopis', 'Mick Sudbury'] ABSTAIN=[] ABSENT=[] :: Council Member Hull, seconded by Council Member Pierce, made a motion to ap
+   2024-10-22 [Council] m1 3-2 Pass | AYE=[] NAY=['Steve Prokopis', 'Trish Hull'] ABSTAIN=[] ABSENT=[] :: Council Member Sudbury moved to deny Ordinance 2024-0-14, amending the zoni
+   2025-03-11 [Council] m2 3-2 Pass | AYE=[] NAY=['Eric Barney', 'Mick Sudbury'] ABSTAIN=[] ABSENT=[] :: Council Member Prokopis moved to delay the decision until the next meeting
+   2025-03-11 [Council] m3 4-1 Pass | AYE=[] NAY=['Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Sudbury moved to deny the vacation of Dora Street
+   2025-03-25 [Council] m3 3-2 Pass | AYE=[] NAY=['Audrey Pierce', 'Steve Prokopis'] ABSTAIN=[] ABSENT=[] :: Council Member Hull moved to approve Resolution R2025-04, selecting the tra
+   2025-05-27 [Council] m4 2-1 Pass | AYE=[] NAY=['Eric Barney'] ABSTAIN=[] ABSENT=[] :: Council Member then moved to approve the rezone with Ordinance 2025-0-08 as
+   2025-06-10 [Council] m2 3-1 Pass | AYE=[] NAY=['Mick Sudbury'] ABSTAIN=[] ABSENT=['Steve Prokopis'] :: Council Member Hull moved to approve the Skate Park as discussed tonight. M
+   2025-06-10 [Council] m3 2-1 Pass | AYE=[] NAY=['Mick Sudbury'] ABSTAIN=['Eric Barney'] ABSENT=['Steve Prokopis'] :: council Member Hull moved to approve the full funding request, noting the i
+   2025-06-10 [Council] m5 3-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=['Steve Prokopis'] :: council Member sudbury moved to approve ordinance 2o2s-o-09, Adopting the F
+   2026-01-27 [Council] m3 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Olsen moved to appoint Mayor Sudbury as the alternate repres
+   2026-01-27 [Council] m9 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member Olsen moved to add the additional $219,000 to the City's Adm
+   2026-02-24 [Council] m2 4-1 Pass | AYE=[] NAY=['Audrey Pierce'] ABSTAIN=[] ABSENT=[] :: Council Member George moved to approve authorization for the Mayor to sign 

@@ -1,0 +1,14 @@
+{
+  "contributions": [
+    {"date":"5/20/21","name":"Salt Lake Board of Realtors PAC","city":"Sandy","state":"UT","amount":"1000.00","in_kind":false},
+    {"date":"6/28/21","name":"Salt Lake Board of Realtors PAC","city":"Sandy","state":"UT","amount":"725.00","in_kind":true}
+  ],
+  "expenditures": [
+    {"date":"6/16/21","recipient":"Majority 51","purpose":"Website & Email server","amount":"800.00","in_kind":false},
+    {"date":"6/28/21","recipient":"Salt Lake Board of Realtors PAC","purpose":"Digital Ads","amount":"725.00","in_kind":true}
+  ],
+  "total_contributions": "1725.00",
+  "total_expenditures": "800.00",
+  "total_contributions_ytd": "1725.00",
+  "total_expenditures_ytd": "800.00"
+}

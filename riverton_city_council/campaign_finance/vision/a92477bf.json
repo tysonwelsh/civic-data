@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": null, "name": "David Gatti", "amount": "1028.02", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "SL Mailing", "purpose": "Eddm Mailer", "amount": "1934.90", "in_kind": false}
+  ],
+  "total_contributions": "1028.02",
+  "total_expenditures": "1937.90",
+  "contributions_50_or_less": null,
+  "beginning_balance": "909.88",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2023_gatti_state_11-14-23.pdf",
+    "candidate": "David Gatti",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2023_gatti_state_11-14-23.pdf",
+    "pages": 5
+  }
+}

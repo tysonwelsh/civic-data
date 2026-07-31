@@ -1,0 +1,919 @@
+candidate,office,seat,election_year,filing_date,reporting_period,date,donor_raw,donor_normalized,donor_type,donor_city,donor_state,donor_district,amount,in_kind,is_incremental,source_filing,document_id,line_no,extraction_confidence,extract_method,needs_review
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-10,Salt Lake Board of Realtors PAC Fund,Salt Lake Board of Realtors Pac Fund,pac,,,,1500.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v1,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-06-07,Dustin Gettel (personal loan to campaign),Dustin Gettel (personal loan to campaign),loan,,,,1072.67,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v2,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-30,"Aristotle Investments, Inc.","Aristotle Investments, Inc",business,,,,1000.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v3,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-08,Andrew Stoddard,Andrew Stoddard,individual,,,,500.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v4,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-12,Scott Maruri,Scott Maruri,individual,,,,500.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v5,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-16,Sentry Financial,Sentry Financial,individual,,,,500.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v6,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-09,Steven Taylor,Steven Taylor,individual,,,,350.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v7,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-25,Womens Democratic Club,Womens Democratic Club,individual,,,,300.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v8,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Jeff Silvestrini,Jeff Silvestrini,individual,,,,250.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v9,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,"Architecture Belgique, Inc.","Architecture Belgique, Inc",business,,,,250.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v10,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-21,Ann Granato,Ann Granato,individual,,,,250.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v11,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-14,Tasha Lowery,Tasha Lowery,individual,,,,200.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v12,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Chris Wharton,Chris Wharton,individual,,,,200.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v13,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Gay Lynn Bennion,Gay Lynn Bennion,individual,,,,200.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v14,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-25,Teran Selin,Teran Selin,individual,,,,200.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v15,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-03,Utahns for Freedom,Utahns for Freedom,individual,,,,200.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v16,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-03-10,Matthew Kirchner,Matthew Kirchner,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v17,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-09,Mark Gallihue,Mark Gallihue,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v18,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-09,Billie Gettel,Billie Gettel,family-of-candidate,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v19,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Philip Gephardt,Philip Gephardt,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v20,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Weston Clark,Weston Clark,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v21,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Tyler Jorgensen,Tyler Jorgensen,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v22,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Leslie Reberg,Leslie Reberg,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v23,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Max Gordon,Max Gordon,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v24,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Anthony Sudweeks,Anthony Sudweeks,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v25,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,National Permanent Cosmetics Academy,National Permanent Cosmetics Academy,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v26,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Paul Winterton,Paul Winterton,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v27,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Kathleen Riebe,Kathleen Riebe,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v28,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Angela Romero,Angela Romero,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v29,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Arlyn Bradshaw,Arlyn Bradshaw,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v30,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Jade Velazquez,Jade Velazquez,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v31,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-20,Patrice Arent,Patrice Arent,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v32,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-24,Jared Springer,Jared Springer,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v33,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-24,Sarah Ehle,Sarah Ehle,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v34,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-03,Billie Gettel,Billie Gettel,family-of-candidate,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v35,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-22,Rebecca Myers,Rebecca Myers,individual,,,,100.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v36,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Ray DeWolfe,Ray DeWolfe,individual,,,,75.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v37,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Alan Anderson,Alan Anderson,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v38,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Lynette Phillips,Lynette Phillips,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v39,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Charline Longdin,Charline Longdin,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v40,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-12,Tali Bruce,Tali Bruce,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v41,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-12,Kaletta Lynch,Kaletta Lynch,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v42,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-13,Paul Fotheringham,Paul Fotheringham,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v43,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-14,Anthony Campisi,Anthony Campisi,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v44,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,James Moses,James Moses,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v45,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Jennifer Plumb,Jennifer Plumb,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v46,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Kat Martinez,Kat Martinez,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v47,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Browne Sebright,Browne Sebright,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v48,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Nate Blouin,Nate Blouin,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v49,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Aaron Samudio,Aaron Samudio,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v50,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v51,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Jared Ruga,Jared Ruga,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v52,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Wendy Garvin,Wendy Garvin,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v53,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Brad Townley,Brad Townley,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v54,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Stephanie Tomlinson,Stephanie Tomlinson,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v55,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-19,Michael Levesque,Michael Levesque,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v56,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-19,Terri Trapp-Hrechkosy,Terri Trapp-Hrechkosy,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v57,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-21,Warren Bailey,Warren Bailey,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v58,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-24,Nikki Stevenson,Nikki Stevenson,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v59,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-24,Hope Zitting-Goeckertitz,Hope Zitting-Goeckertitz,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v60,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-25,Jason Coral,Jason Coral,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v61,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-01,Mitchell Vice,Mitchell Vice,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v62,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-03,Brooke D'Sousa,Brooke D'Sousa,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v63,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-10,Natalie Pinkney,Natalie Pinkney,individual,,,,50.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v64,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Mia Hughes,Mia Hughes,individual,,,,30.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v65,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Marc Darren,Marc Darren,individual,,,,30.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v66,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-16,Antonio Faison,Antonio Faison,individual,,,,27.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v67,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Diane Remy,Diane Remy,individual,,,,27.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v68,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Melody Chapman,Melody Chapman,individual,,,,27.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v69,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-19,Lee Castillo,Lee Castillo,individual,,,,27.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v70,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-20,Donald Aguirre,Donald Aguirre,individual,,,,27.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v71,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Cleve Evans,Cleve Evans,individual,,,,25.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v72,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-10,Heidi Robinson,Heidi Robinson,individual,,,,25.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v73,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-12,Riley Swenson,Riley Swenson,individual,,,,25.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v74,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Michael Squires,Michael Squires,individual,,,,25.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v75,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Rudy Miera,Rudy Miera,individual,,,,25.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v76,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-14,Jay Maru,Jay Maru,individual,,,,20.69,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v77,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Brandon Larsen,Brandon Larsen,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v78,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Sheryl Ginsberg,Sheryl Ginsberg,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v79,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Louise Edington,Louise Edington,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v80,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-27,John Martinez,John Martinez,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v81,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-28,Shauna Ehninger,Shauna Ehninger,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v82,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-09,Lynette Phillips,Lynette Phillips,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v83,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-17,Loretta Phillips,Loretta Phillips,individual,,,,20.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v84,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Rose Lena,Rose Lena,individual,,,,18.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v85,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,Thom DeSirant,Thom DeSirant,individual,,,,15.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v86,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-18,Joseph Silverzweig,Joseph Silverzweig,individual,,,,15.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v87,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-09-01,Hillary Mohammed-Craig,Hillary Mohammed-Craig,individual,,,,15.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v88,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-21,Bob Aagard,Bob Aagard,individual,,,,14.43,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v89,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-14,Brandon Checketts,Brandon Checketts,individual,,,,10.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v90,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-15,William Shiflett,William Shiflett,individual,,,,10.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v91,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Peter Jex,Peter Jex,individual,,,,10.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v92,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-17,Tyler Jacobsen,Tyler Jacobsen,individual,,,,10.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v93,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-10-01,October 2021,2021-08-14,Bronson Nerenberg,Bronson Nerenberg,individual,,,,5.00,False,False,raw/2021_02_Dustin-Gettel.pdf,cff68e49,v94,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-03-10,Matthew Kirchner,Matthew Kirchner,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v1,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-06-07,Dustin Gettel (personal loan),Dustin Gettel (personal loan),loan,,,,1072.67,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v2,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-08,Andrew Stoddard,Andrew Stoddard,individual,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v3,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-09,Mark Gallihue,Mark Gallihue,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v4,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-09,Steven Taylor,Steven Taylor,individual,,,,350.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v5,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-09,Billie Gettel,Billie Gettel,family-of-candidate,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v6,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Alan Anderson,Alan Anderson,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v7,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Cleve Evans,Cleve Evans,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v8,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Heidi Robinson,Heidi Robinson,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v9,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Philip Gephardt,Philip Gephardt,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v10,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Lynette Phillips,Lynette Phillips,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v11,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-10,Charline Longdin,Charline Longdin,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v12,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-12,Riley Swenson,Riley Swenson,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v13,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-12,Tali Bruce,Tali Bruce,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v14,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-12,Scott Maruri,Scott Maruri,individual,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v15,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-12,Kaletta Lynch,Kaletta Lynch,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v16,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-13,Paul Fotheringham,Paul Fotheringham,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v17,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-14,Anthony Campisi,Anthony Campisi,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v18,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-14,Brandon Checketts,Brandon Checketts,individual,,,,10.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v19,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-14,Tasha Lowery,Tasha Lowery,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v20,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-14,Jay Maru,Jay Maru,individual,,,,20.69,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v21,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-14,Bronson Nerenberg,Bronson Nerenberg,individual,,,,5.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v22,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,William Shiflett,William Shiflett,individual,,,,10.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v23,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Michael Squires,Michael Squires,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v24,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Mia Hughes,Mia Hughes,individual,,,,30.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v25,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Brandon Larsen,Brandon Larsen,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v26,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Weston Clark,Weston Clark,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v27,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,James Moses,James Moses,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v28,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Jennifer Plumb,Jennifer Plumb,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v29,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Sheryl Ginsberg,Sheryl Ginsberg,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v30,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Louise Edington,Louise Edington,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v31,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Tyler Jorgensen,Tyler Jorgensen,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v32,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Kat Martinez,Kat Martinez,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v33,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Leslie Reberg,Leslie Reberg,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v34,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Thom DeSirant,Thom DeSirant,individual,,,,15.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v35,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Max Gordon,Max Gordon,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v36,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Rudy Miera,Rudy Miera,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v37,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Ray DeWolfe,Ray DeWolfe,individual,,,,75.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v38,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Browne Sebright,Browne Sebright,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v39,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Rose Lena,Rose Lena,individual,,,,18.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v40,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Nate Blouin,Nate Blouin,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v41,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Chris Wharton,Chris Wharton,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v42,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-15,Aaron Samudio,Aaron Samudio,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v43,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Antonio Faison,Antonio Faison,individual,,,,27.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v44,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v45,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Anthony Sudweeks,Anthony Sudweeks,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v46,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Gay Lynn Bennion,Gay Lynn Bennion,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v47,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,National Permanent Cosmetics Academy,National Permanent Cosmetics Academy,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v48,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Paul Winterton,Paul Winterton,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v49,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-16,Marc Darren,Marc Darren,individual,,,,30.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v50,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Jeff Silvestrini,Jeff Silvestrini,individual,,,,250.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v51,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Kathleen Riebe,Kathleen Riebe,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v52,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Peter Jex,Peter Jex,individual,,,,10.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v53,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Jared Ruga,Jared Ruga,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v54,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Tyler Jacobsen,Tyler Jacobsen,individual,,,,10.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v55,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Wendy Garvin,Wendy Garvin,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v56,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Angela Romero,Angela Romero,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v57,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-17,Brad Townley,Brad Townley,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v58,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Arlyn Bradshaw,Arlyn Bradshaw,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v59,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Jade Velazquez,Jade Velazquez,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v60,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Diane Remy,Diane Remy,individual,,,,27.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v61,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Stephanie Tomlinson,Stephanie Tomlinson,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v62,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Melody Chapman,Melody Chapman,individual,,,,27.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v63,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,"Architecture Belgique, Inc.","Architecture Belgique, Inc",business,,,,250.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v64,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-18,Joseph Silverzweig,Joseph Silverzweig,individual,,,,15.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v65,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-19,Michael Levesque,Michael Levesque,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v66,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-19,Lee Castillo,Lee Castillo,individual,,,,27.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v67,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-19,Terri Trapp-Hrechkosy,Terri Trapp-Hrechkosy,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v68,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-20,Donald Aguirre,Donald Aguirre,individual,,,,27.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v69,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-20,Patrice Arent,Patrice Arent,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v70,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-21,Warren Bailey,Warren Bailey,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v71,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-21,Ann Granato,Ann Granato,individual,,,,250.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v72,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-21,Bob Aagard,Bob Aagard,individual,,,,14.43,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v73,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-24,Jared Springer,Jared Springer,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v74,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-24,Nikki Stevenson,Nikki Stevenson,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v75,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-24,Hope Zitting-Goeckertitz,Hope Zitting-Goeckertitz,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v76,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-24,Sarah Ehle,Sarah Ehle,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v77,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-25,Womens Democratic Club,Womens Democratic Club,individual,,,,300.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v78,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-25,Jason Coral,Jason Coral,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v79,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-25,Teran Selin,Teran Selin,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v80,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-27,John Martinez,John Martinez,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v81,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-28,Shauna Ehninger,Shauna Ehninger,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v82,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-08-30,"Aristotle Investments, Inc.","Aristotle Investments, Inc",business,,,,1000.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v83,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-01,Hillary Mohammed-Craig,Hillary Mohammed-Craig,individual,,,,15.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v84,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-01,Mitchell Vice,Mitchell Vice,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v85,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-03,Billie Gettel,Billie Gettel,family-of-candidate,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v86,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-03,Utahns for Freedom,Utahns for Freedom,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v87,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-03,Brooke D'Sousa,Brooke D'Sousa,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v88,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-09,Lynette Phillips,Lynette Phillips,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v89,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-10,Natalie Pinkney,Natalie Pinkney,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v90,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-10,Salt Lake Board of Realtors PAC Fund,Salt Lake Board of Realtors Pac Fund,pac,,,,1500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v91,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-16,Sentry Financial,Sentry Financial,individual,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v92,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-17,Loretta Phillips,Loretta Phillips,individual,,,,20.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v93,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-22,Rebecca Myers,Rebecca Myers,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v94,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-27,Salt Lake Home Builders' Association PAC,Salt Lake Home Builders' Association Pac,pac,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v95,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-28,Rosalba Dominiguez,Rosalba Dominiguez,individual,,,,10.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v96,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-09-28,Ryan Jensen,Ryan Jensen,individual,,,,60.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v97,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-01,Jeffrey Matthis,Jeffrey Matthis,individual,,,,100.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v98,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-02,Cliphane Brough,Cliphane Brough,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v99,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-07,Equality Utah,Equality Utah,individual,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v100,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-08,Central Federation of Labor,Central Federation of Labor,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v101,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-12,Nancy Beggs,Nancy Beggs,individual,,,,25.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v102,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-12,Thom DeSirant,Thom DeSirant,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v103,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-14,O2 Utah (in-kind field strategy),O2 Utah (in-kind field strategy),unknown,,,,18.75,True,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v104,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-15,O2 Utah (in-kind field strategy),O2 Utah (in-kind field strategy),unknown,,,,18.75,True,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v105,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-15,Jeff Beck,Jeff Beck,individual,,,,200.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v106,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-20,Comcast,Comcast,unknown,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v107,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-21,Mary Silverzweig,Mary Silverzweig,individual,,,,50.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v108,high,vision_cache/vision,0
+Dustin Gettel,Council,5,2021,2021-12-01,December 2021,2021-10-27,Operating Engineers Local Union No. 3,Operating Engineers Local Union No. 3,unknown,,,,500.00,False,False,raw/2021_11_Dustin-Gettel.pdf,1c63081e,v109,high,vision_cache/vision,0
+Wayne Sharp,Council,5,2021,2021-10-01,October 2021,2021-09-07,Mike Siler,Mike Siler,individual,,,,150.00,False,False,raw/2021_05_Wayne-Sharp.pdf,05a724d3,v1,medium,vision_cache/vision,0
+Wayne Sharp,Council,5,2021,2021-10-01,October 2021,2021-10-08,Celine Zaragoza,Celine Zaragoza,individual,,,,200.00,False,False,raw/2021_05_Wayne-Sharp.pdf,05a724d3,v2,medium,vision_cache/vision,0
+Wayne Sharp,Council,5,2021,2021-10-01,October 2021,2021-09-10,Coleen Costello,Coleen Costello,individual,,,,25.00,False,False,raw/2021_05_Wayne-Sharp.pdf,05a724d3,v3,medium,vision_cache/vision,0
+Wayne Sharp,Council,5,2021,2021-10-01,October 2021,2021-10-15,Coleen Costello,Coleen Costello,individual,,,,25.00,False,False,raw/2021_05_Wayne-Sharp.pdf,05a724d3,v4,medium,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Lisa Arango,Lisa Arango,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v1,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Eva Lopez,Eva Lopez,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v2,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Ben Pearce,Ben Pearce,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v3,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Alan Anderson,Alan Anderson,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v4,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Michael Keil,Michael Keil,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v5,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jennifer Lee,Jennifer Lee,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v6,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Corey Cronin,Corey Cronin,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v7,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Marcia White,Marcia White,individual,,,,52.89,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v8,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Kunoor Ojha,Kunoor Ojha,individual,,,,75.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v9,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Natasha Mathur,Natasha Mathur,individual,,,,10.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v10,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Davis Leonard,Davis Leonard,individual,,,,10.83,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v11,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Kevin O’Hare,Kevin O’Hare,unknown,,,,10.83,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v12,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Victor Villalvazo,Victor Villalvazo,individual,,,,16.09,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v13,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jodi Helsel,Jodi Helsel,individual,,,,16.09,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v14,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Isabella Gentile,Isabella Gentile,individual,,,,16.09,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v15,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Elizabeth Payne,Elizabeth Payne,individual,,,,20.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v16,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Christian Harrison,Christian Harrison,individual,,,,75.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v17,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Zach Robinson,Zach Robinson,individual,,,,79.18,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v18,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Terry Palmer,Terry Palmer,individual,,,,79.18,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v19,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Patrick Reimherr,Patrick Reimherr,individual,,,,79.18,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v20,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jeanne Stuart,Jeanne Stuart,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v21,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Eric Taylor,Eric Taylor,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v22,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Brad Townley,Brad Townley,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v23,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Audra Grassia,Audra Grassia,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v24,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Stroh DeCaire,Stroh DeCaire,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v25,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Bob Aagard,Bob Aagard,individual,,,,20.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v26,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Zach Thomas,Zach Thomas,individual,,,,21.35,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v27,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Craig Bakerjian,Craig Bakerjian,individual,,,,21.35,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v28,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Cody Pruitt,Cody Pruitt,individual,,,,21.35,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v29,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Edward Betancourt,Edward Betancourt,individual,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v30,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Nicole Stevenson,Nicole Stevenson,family-of-candidate,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v31,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Evon Frederick,Evon Frederick,individual,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v32,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Steven Olsen,Steven Olsen,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v33,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Steve VanMaren,Steve VanMaren,individual,,,,100.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v34,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Emily Hayes,Emily Hayes,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v35,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Lydia Stevenson,Lydia Stevenson,family-of-candidate,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v36,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v37,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Matt Lyon,Matt Lyon,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v38,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Ray & Allyne Betancourt,Ray & Allyne Betancourt,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v39,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Shelby Fisher,Shelby Fisher,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v40,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Roger Lau,Roger Lau,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v41,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,William Shiflett,William Shiflett,individual,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v42,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Grant Cragun,Grant Cragun,individual,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v43,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jon O’Brien,Jon O’Brien,unknown,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v44,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Amanda Graf,Amanda Graf,individual,,,,26.60,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v45,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jacqueline Rosen,Jacqueline Rosen,individual,,,,35.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v46,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Michael Maher,Michael Maher,individual,,,,35.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v47,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Blake Perez,Blake Perez,individual,,,,35.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v48,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Teresa Goodall,Teresa Goodall,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v49,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jeff Sloan,Jeff Sloan,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v50,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Coty & Lisa Evans,Coty & Lisa Evans,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v51,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Olivia Erickson,Olivia Erickson,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v52,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Michael Byrant,Michael Byrant,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v53,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jessica Salmon,Jessica Salmon,individual,,,,105.47,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v54,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Dustin Gettel,Dustin Gettel,individual,,,,210.62,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v55,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Andrew Stoddard,Andrew Stoddard,individual,,,,250.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v56,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jane Marquardt,Jane Marquardt,individual,,,,263.19,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v57,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Jason Allen,Jason Allen,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v58,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Anthony Morgan,Anthony Morgan,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v59,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Skyler Scoggan,Skyler Scoggan,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v60,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Cassidy Chassagne,Cassidy Chassagne,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v61,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Sarah Wheatley,Sarah Wheatley,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v62,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Lynette Phillips,Lynette Phillips,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v63,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Anya Lehr,Anya Lehr,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v64,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Oscar Mata,Oscar Mata,individual,,,,263.19,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v65,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Rosemary Lesser,Rosemary Lesser,individual,,,,263.19,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v66,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Womens Democratic Club,Womens Democratic Club,individual,,,,300.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v67,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Dustin Gettel,Dustin Gettel,individual,,,,315.78,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v68,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Thomas Ellerbeck,Thomas Ellerbeck,individual,,,,500.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v69,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Adam Kolowich,Adam Kolowich,individual,,,,500.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v70,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Spencer Stokes,Spencer Stokes,individual,,,,500.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v71,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,David Garbett,David Garbett,individual,,,,1000.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v72,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Charles Kyle,Charles Kyle,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v73,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Adriane Wasden,Adriane Wasden,individual,,,,37.12,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v74,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,MariadelMar Gonzalez,MariadelMar Gonzalez,individual,,,,42.38,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v75,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Kathie Darby,Kathie Darby,individual,,,,50.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v76,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Brooke D’Sousa,Brooke D’Sousa,unknown,,,,50.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v77,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,LaVonne Maloney,LaVonne Maloney,individual,,,,50.00,False,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v78,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Marcus Stevenson,Marcus Stevenson,candidate-self,,,,61.11,True,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v79,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Marcus Stevenson,Marcus Stevenson,candidate-self,,,,50.00,True,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v80,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-10-01,October 2021,,Marcus Stevenson,Marcus Stevenson,candidate-self,,,,8.99,True,True,raw/2021_06_Marcus-Stevenson.pdf,a7ac7fb8,v81,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Nancy Adams,Nancy Adams,individual,,,,52.89,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v1,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Colleen Laxman,Colleen Laxman,individual,,,,52.89,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v2,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Kat Martinez,Kat Martinez,individual,,,,52.89,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v3,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Travis Suite,Travis Suite,individual,,,,52.89,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v4,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Stephanie Pitcher,Stephanie Pitcher,individual,,,,75.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v5,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Andrea Valverde,Andrea Valverde,individual,,,,79.18,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v6,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Ben Haynes,Ben Haynes,individual,,,,100.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v7,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Sheila Srivastava,Sheila Srivastava,individual,,,,100.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v8,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Valerie Stormont,Valerie Stormont,individual,,,,105.47,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v9,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Stephanie Burnett,Stephanie Burnett,individual,,,,10.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v10,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Madelaine Tesori,Madelaine Tesori,individual,,,,20.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v11,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Melissa Bateman,Melissa Bateman,individual,,,,20.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v12,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Chris Nicholson,Chris Nicholson,individual,,,,20.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v13,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Mike & Jan Crane,Mike & Jan Crane,individual,,,,35.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v14,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Ann Dent,Ann Dent,individual,,,,37.12,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v15,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Terri Hrechkosy,Terri Hrechkosy,individual,,,,50.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v16,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Val Stevenson,Val Stevenson,family-of-candidate,,,,105.47,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v17,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Jordan Dyett,Jordan Dyett,individual,,,,105.47,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v18,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Peter Corroon,Peter Corroon,individual,,,,200.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v19,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Rochelle Kaplan,Rochelle Kaplan,individual,,,,250.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v20,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Equality Utah,Equality Utah,individual,,,,500.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v21,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Susan Frampton,Susan Frampton,individual,,,,1000.00,False,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v22,high,vision_cache/vision,0
+Marcus Stevenson,Mayor,,2021,2021-11-01,Year-end / final,,Marcus Stevenson,Marcus Stevenson,candidate-self,,,,20.37,True,True,raw/2021_10_Marcus-Stevenson.pdf,60d25eef,v23,high,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Robert Hale,Robert Hale,candidate-self,,,,576.70,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v1,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Natalie Earl,Natalie Earl,individual,,,,648.97,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v2,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Salt Lake Realtors,Salt Lake Realtors,business,,,,3000.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v3,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Peter Corroon,Peter Corroon,individual,,,,93.80,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v4,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Dennis Spackman,Dennis Spackman,individual,,,,282.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v5,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Joseph Olschewski,Joseph Olschewski,individual,,,,100.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v6,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Salt Lake Home Builders Association PAC,Salt Lake Home Builders Association Pac,pac,,,,250.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v7,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Reagan Signs,Reagan Signs,individual,,,,800.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v8,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,H. Craig Hall,H. Craig Hall,individual,,,,100.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v9,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Gary Bowen,Gary Bowen,individual,,,,75.00,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v10,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Stacey Kratz,Stacey Kratz,individual,,,,9.11,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v11,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Pay Pal,Pay Pal,individual,,,,0.38,False,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v12,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Landslide Political.com,Landslide Political.com,individual,,,,300.00,True,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v13,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-10-01,October 2021,,Robert Hale,Robert Hale,candidate-self,,,,119.84,True,True,raw/2021_03_Robert-Hale.pdf,411fc0d1,v14,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-12-01,December 2021,,Colleen Costello,Colleen Costello,individual,,,,50.00,False,True,raw/2021_08_Robert-M-Hale.pdf,d8432850,v1,medium,vision_cache/vision,0
+Robert M. Hale,Mayor,,2021,2021-12-01,December 2021,,Robert Hale,Robert Hale,candidate-self,,,,45.36,True,True,raw/2021_08_Robert-M-Hale.pdf,d8432850,v2,medium,vision_cache/vision,0
+Ben Umeadi,Council,1,2023,2023-10-24,10/24/2023,,Ben Umeadi - Candidate,Ben Umeadi - Candidate,individual,,,,376.04,False,True,raw/2023_19_Ben-Umeadi.pdf,6311cd3f,v1,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,12.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v1,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-11,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,51.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v2,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-12,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,159.53,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v3,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-13,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,67.16,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v4,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,25.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v5,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Antoinette Martinez,Antoinette Martinez,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v6,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,John Martinez,John Martinez,individual,,,,25.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v7,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Ken Pederson,Ken Pederson,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v8,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v9,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Charles Stoddard,Charles Stoddard,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v10,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Tyrell Aagard,Tyrell Aagard,individual,,,,150.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v11,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Alan Anderson,Alan Anderson,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v12,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Craig Buschman,Craig Buschman,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v13,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Ernest Gamonal,Ernest Gamonal,individual,,,,25.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v14,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Dustin Gettel,Dustin Gettel,individual,,,,200.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v15,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Brandon Hone,Brandon Hone,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v16,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-15,Ben Luks-Morgan,Ben Luks-Morgan,individual,,,,18.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v17,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-16,Lillian Bowles-Brown,Lillian Bowles-Brown,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v18,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-16,Casey Logan,Casey Logan,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v19,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-16,Christine Helfrich,Christine Helfrich,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v20,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-16,Matthew Patterson,Matthew Patterson,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v21,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Susan McHugh,Susan McHugh,individual,,,,1000.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v22,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Louise Edington,Louise Edington,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v23,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Carol Evans,Carol Evans,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v24,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Wendy Garner,Wendy Garner,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v25,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Verona Mauga,Verona Mauga,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v26,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Lynette Phillips,Lynette Phillips,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v27,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Jennifer Schwartz,Jennifer Schwartz,individual,,,,20.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v28,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Gina Vigor,Gina Vigor,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v29,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-17,Carlee Woods,Carlee Woods,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v30,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-18,Terri Gilfillan,Terri Gilfillan,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v31,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-18,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,0.00,True,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v32,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-18,Taberlee Reid,Taberlee Reid,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v33,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-19,Brad Townley,Brad Townley,individual,,,,250.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v34,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-19,Stephen Tryon,Stephen Tryon,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v35,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-20,Breanne Miller,Breanne Miller,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v36,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-20,Ross Romero,Ross Romero,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v37,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-20,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v38,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-21,Barbara Curtis,Barbara Curtis,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v39,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-21,Katherine Downing,Katherine Downing,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v40,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-21,Daniel Haas,Daniel Haas,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v41,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-22,Fredic Gruendell,Fredic Gruendell,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v42,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-22,Susan Booth,Susan Booth,individual,,,,20.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v43,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-22,Alice Steiner,Alice Steiner,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v44,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-23,Brad Dickter,Brad Dickter,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v45,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-23,Terri Goodall,Terri Goodall,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v46,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-24,Lisa Morris,Lisa Morris,individual,,,,250.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v47,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-26,May Bryant,May Bryant,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v48,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-28,Stephanie Pitcher,Stephanie Pitcher,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v49,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-29,Pat Gapmeyer,Pat Gapmeyer,individual,,,,25.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v50,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-29,Kael Weston,Kael Weston,individual,,,,250.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v51,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-29,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v52,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-30,Rebecca Chavez-Houck,Rebecca Chavez-Houck,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v53,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-30,Alane Kester,Alane Kester,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v54,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-08-31,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v55,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-01,Nancy & Garry Walton,Nancy & Garry Walton,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v56,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-01,Helen Peters,Helen Peters,individual,,,,300.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v57,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-01,Robin Hough,Robin Hough,individual,,,,200.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v58,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-04,Barb & Martin Munoz,Barb & Martin Munoz,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v59,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-08,Tali Bruce,Tali Bruce,individual,,,,75.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v60,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-08,Tiffany Steck,Tiffany Steck,individual,,,,10.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v61,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-10,Janice Briattan,Janice Briattan,individual,,,,300.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v62,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-11,Alejandro Puy,Alejandro Puy,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v63,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-11,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v64,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-11,Ingela Rundquist,Ingela Rundquist,individual,,,,10.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v65,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-14,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,17.16,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v66,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-23,Antoinette Martinez,Antoinette Martinez,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v67,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-28,Robert & Dixie Huefner,Robert & Dixie Huefner,individual,,,,25.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v68,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-28,Salt Lake Board of Realtors,Salt Lake Board of Realtors,business,,,,500.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v69,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-28,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v70,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-09-28,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,200.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v71,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-01,Bonnie Billings (loan to campaign 10,Bonnie Billings (loan to campaign 10,loan,,,,75.85,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v72,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-02,Elizabeth Converse,Elizabeth Converse,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v73,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-04,Arlene Anderson,Arlene Anderson,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v74,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-06,Christopher Stout,Christopher Stout,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v75,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,472.59,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v76,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-12,Emmylou Manwill,Emmylou Manwill,individual,,,,35.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v77,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-15,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v78,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-16,Anna Ferguson,Anna Ferguson,individual,,,,30.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v79,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-16,Alex Cragun,Alex Cragun,individual,,,,100.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v80,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-10-24,10/24/2023,2023-10-17,Scott Bell,Scott Bell,individual,,,,50.00,False,False,raw/2023_04_Bonnie-Billings.pdf,a56f77c5,v81,medium,vision_cache/vision,0
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,12.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v1,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-11,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,51.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v2,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-12,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,159.53,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v3,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-13,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,67.16,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v4,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,25.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v5,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Antoinette Martinez,Antoinette Martinez,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v6,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,John Martinez,John Martinez,individual,,,,25.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v7,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Ken Pederson,Ken Pederson,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v8,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v9,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Charles Stoddard,Charles Stoddard,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v10,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Tyrell Aagard,Tyrell Aagard,individual,,,,150.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v11,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Alan Anderson,Alan Anderson,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v12,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Craig Buschman,Craig Buschman,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v13,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Ernest Gamonal,Ernest Gamonal,individual,,,,25.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v14,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Dustin Gettel,Dustin Gettel,individual,,,,200.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v15,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Brandon Hone,Brandon Hone,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v16,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-15,Ben Luks-Morgan,Ben Luks-Morgan,individual,,,,18.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v17,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-16,Lillian Bowles-Brown,Lillian Bowles-Brown,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v18,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-16,Casey Logan,Casey Logan,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v19,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-16,Christine Helfrich,Christine Helfrich,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v20,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-16,Matthew Patterson,Matthew Patterson,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v21,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Susan McHugh,Susan McHugh,individual,,,,1000.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v22,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Louise Edington,Louise Edington,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v23,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Carol Evans,Carol Evans,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v24,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Wendy Garner,Wendy Garner,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v25,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Verona Mauga,Verona Mauga,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v26,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Lynette Phillips,Lynette Phillips,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v27,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Jennifer Schwartz,Jennifer Schwartz,individual,,,,20.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v28,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Gina Vigor,Gina Vigor,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v29,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-17,Carlee Woods,Carlee Woods,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v30,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-18,Terri Gilfillan,Terri Gilfillan,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v31,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-18,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,0.00,True,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v32,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-18,Taberlee Reid,Taberlee Reid,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v33,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-19,Brad Townley,Brad Townley,individual,,,,250.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v34,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-19,Stephen Tryon,Stephen Tryon,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v35,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-20,Breanne Miller,Breanne Miller,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v36,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-20,Ross Romero,Ross Romero,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v37,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-20,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v38,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-21,Barbara Curtis,Barbara Curtis,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v39,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-21,Katherine Downing,Katherine Downing,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v40,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-21,Daniel Haas,Daniel Haas,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v41,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-22,Fredic Gruendell,Fredic Gruendell,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v42,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-22,Susan Booth,Susan Booth,individual,,,,20.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v43,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-22,Alice Steiner,Alice Steiner,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v44,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-23,Brad Dickter,Brad Dickter,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v45,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-23,Terri Goodall,Terri Goodall,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v46,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-24,Lisa Morris,Lisa Morris,individual,,,,250.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v47,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-26,May Bryant,May Bryant,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v48,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-28,Stephanie Pitcher,Stephanie Pitcher,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v49,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-29,Pat Gapmeyer,Pat Gapmeyer,individual,,,,25.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v50,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-29,Kael Weston,Kael Weston,individual,,,,250.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v51,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-29,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v52,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-30,Rebecca Chavez-Houck,Rebecca Chavez-Houck,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v53,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-30,Alane Kester,Alane Kester,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v54,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-08-31,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v55,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-01,Nancy & Garry Walton,Nancy & Garry Walton,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v56,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-01,Helen Peters,Helen Peters,individual,,,,300.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v57,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-01,Robin Hough,Robin Hough,individual,,,,200.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v58,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-04,Barb & Martin Munoz,Barb & Martin Munoz,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v59,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-08,Tali Bruce,Tali Bruce,individual,,,,75.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v60,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-08,Tiffany Steck,Tiffany Steck,individual,,,,10.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v61,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-10,Janice Briattan,Janice Briattan,individual,,,,300.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v62,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-11,Alejandro Puy,Alejandro Puy,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v63,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-11,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v64,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-11,Ingela Rundquist,Ingela Rundquist,individual,,,,10.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v65,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-14,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,17.16,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v66,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-23,Antoinette Martinez,Antoinette Martinez,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v67,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-28,Robert & Dixie Huefner,Robert & Dixie Huefner,individual,,,,25.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v68,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-28,Salt Lake Board of Realtors,Salt Lake Board of Realtors,business,,,,500.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v69,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-28,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v70,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-09-28,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,200.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v71,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-01,Bonnie Billings (loan to campaign 10/1),Bonnie Billings (loan to campaign 10/1),loan,,,,75.85,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v72,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-02,Elizabeth Converse,Elizabeth Converse,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v73,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-04,Arlene Anderson,Arlene Anderson,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v74,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-06,Christopher Stout,Christopher Stout,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v75,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,472.59,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v76,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-12,Emmylou Manwill,Emmylou Manwill,individual,,,,35.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v77,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-15,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v78,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-16,Anna Ferguson,Anna Ferguson,individual,,,,30.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v79,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-16,Alex Cragun,Alex Cragun,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v80,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-17,Scott Bell,Scott Bell,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v81,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-25,Dillon Hase,Dillon Hase,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v82,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-25,Marcus Stevenson,Marcus Stevenson,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v83,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-10-29,Alan Anderson,Alan Anderson,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v84,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-11-01,Ashley Matthews,Ashley Matthews,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v85,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-11-06,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,50.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v86,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-11-06,Jeff Hatch,Jeff Hatch,individual,,,,100.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v87,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-11-14,11/14/2023,2023-11-06,Operating Engineers Local 3,Operating Engineers Local 3,unknown,,,,1000.00,False,False,raw/2023_05_Bonnie-Billings.pdf,f2dafe33,v88,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,12.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v1,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-11,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,51.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v2,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-12,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,159.53,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v3,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-13,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,67.16,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v4,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,25.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v5,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Antoinette Martinez,Antoinette Martinez,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v6,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,John Martinez,John Martinez,individual,,,,25.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v7,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Ken Pederson,Ken Pederson,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v8,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v9,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Charles Stoddard,Charles Stoddard,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v10,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Tyrell Aagard,Tyrell Aagard,individual,,,,150.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v11,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Alan Anderson,Alan Anderson,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v12,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Craig Buschman,Craig Buschman,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v13,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Ernest Gamonal,Ernest Gamonal,individual,,,,25.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v14,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Dustin Gettel,Dustin Gettel,individual,,,,200.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v15,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Brandon Hone,Brandon Hone,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v16,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-15,Ben Luks-Morgan,Ben Luks-Morgan,individual,,,,18.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v17,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-16,Lillian Bowles-Brown,Lillian Bowles-Brown,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v18,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-16,Casey Logan,Casey Logan,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v19,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-16,Christine Helfrich,Christine Helfrich,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v20,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-16,Matthew Patterson,Matthew Patterson,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v21,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Susan McHugh,Susan McHugh,individual,,,,1000.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v22,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Louise Edington,Louise Edington,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v23,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Carol Evans,Carol Evans,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v24,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Wendy Garner,Wendy Garner,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v25,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Verona Mauga,Verona Mauga,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v26,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Lynette Phillips,Lynette Phillips,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v27,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Jennifer Schwartz,Jennifer Schwartz,individual,,,,20.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v28,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Gina Vigor,Gina Vigor,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v29,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-17,Carlee Woods,Carlee Woods,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v30,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-18,Terri Gilfillan,Terri Gilfillan,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v31,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-18,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,0.00,True,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v32,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-18,Taberlee Reid,Taberlee Reid,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v33,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-19,Brad Townley,Brad Townley,individual,,,,250.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v34,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-19,Stephen Tryon,Stephen Tryon,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v35,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-20,Breanne Miller,Breanne Miller,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v36,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-20,Ross Romero,Ross Romero,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v37,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-20,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v38,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-21,Barbara Curtis,Barbara Curtis,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v39,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-21,Katherine Downing,Katherine Downing,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v40,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-21,Daniel Haas,Daniel Haas,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v41,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-22,Fredic Gruendell,Fredic Gruendell,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v42,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-22,Susan Booth,Susan Booth,individual,,,,20.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v43,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-22,Alice Steiner,Alice Steiner,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v44,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-23,Brad Dickter,Brad Dickter,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v45,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-23,Terri Goodall,Terri Goodall,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v46,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-24,Lisa Morris,Lisa Morris,individual,,,,250.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v47,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-26,May Bryant,May Bryant,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v48,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-28,Stephanie Pitcher,Stephanie Pitcher,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v49,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-29,Pat Gapmeyer,Pat Gapmeyer,individual,,,,25.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v50,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-29,Kael Weston,Kael Weston,individual,,,,250.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v51,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-29,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v52,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-30,Rebecca Chavez-Houck,Rebecca Chavez-Houck,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v53,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-30,Alane Kester,Alane Kester,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v54,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-08-31,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v55,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-01,Nancy & Garry Walton,Nancy & Garry Walton,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v56,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-01,Helen Peters,Helen Peters,individual,,,,300.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v57,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-01,Robin Hough,Robin Hough,individual,,,,200.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v58,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-04,Barb & Martin Munoz,Barb & Martin Munoz,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v59,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-08,Tali Bruce,Tali Bruce,individual,,,,75.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v60,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-08,Tiffany Steck,Tiffany Steck,individual,,,,10.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v61,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-10,Janice Briattan,Janice Briattan,individual,,,,300.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v62,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-11,Alejandro Puy,Alejandro Puy,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v63,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-11,Helen Peters,Helen Peters,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v64,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-11,Ingela Rundquist,Ingela Rundquist,individual,,,,10.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v65,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-14,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,17.16,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v66,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-23,Antoinette Martinez,Antoinette Martinez,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v67,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-28,Robert & Dixie Huefner,Robert & Dixie Huefner,individual,,,,25.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v68,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-28,Salt Lake Board of Realtors,Salt Lake Board of Realtors,business,,,,500.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v69,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-28,Paul & Shannon Jacobs,Paul & Shannon Jacobs,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v70,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-09-28,Antoinette Billings,Antoinette Billings,family-of-candidate,,,,200.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v71,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-01,Bonnie Billings (loan to campaign,Bonnie Billings (loan to campaign,loan,,,,75.85,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v72,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-02,Elizabeth Converse,Elizabeth Converse,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v73,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-04,Arlene Anderson,Arlene Anderson,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v74,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-06,Christopher Stout,Christopher Stout,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v75,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-09,Bonnie Billings (loan to campaign),Bonnie Billings (loan to campaign),loan,,,,472.59,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v76,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-12,Emmylou Manwill,Emmylou Manwill,individual,,,,35.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v77,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-15,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v78,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-16,Anna Ferguson,Anna Ferguson,individual,,,,30.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v79,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-16,Alex Cragun,Alex Cragun,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v80,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-17,Scott Bell,Scott Bell,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v81,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-25,Dillon Hase,Dillon Hase,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v82,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-25,Marcus Stevenson,Marcus Stevenson,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v83,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-10-29,Alan Anderson,Alan Anderson,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v84,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-01,Ashley Matthews,Ashley Matthews,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v85,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-06,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v86,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-06,Jeff Hatch,Jeff Hatch,individual,,,,100.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v87,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-06,Operating Engineers Local 3,Operating Engineers Local 3,unknown,,,,1000.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v88,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-20,Quang Dang,Quang Dang,individual,,,,50.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v89,low,vision_cache/vision,1
+Bonnie Billings,Council,1,2023,2023-12-21,12/21/2023,2023-11-20,PPAC of Utah,Ppac of Utah,individual,,,,250.00,False,False,raw/2023_06_Bonnie-Billings.pdf,f37bb7d0,v90,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-10-24,10/24/2023,2023-09-01,Susan Frampton,Susan Frampton,individual,,,,1000.00,False,False,raw/2023_16_Dustin-Snow.pdf,ad08cab4,v1,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-10-24,10/24/2023,2023-08-08,Dustin Snow,Dustin Snow,candidate-self,,,,25.00,False,False,raw/2023_16_Dustin-Snow.pdf,ad08cab4,v2,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-10-24,10/24/2023,2023-11-12,Dustin Snow,Dustin Snow,candidate-self,,,,50.00,False,False,raw/2023_16_Dustin-Snow.pdf,ad08cab4,v3,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-11-14,11/14/2023,2023-09-01,Susan Frampton,Susan Frampton,individual,,,,1000.00,False,False,raw/2023_17_Dustin-Snow.pdf,07e423a2,v1,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-11-14,11/14/2023,2023-08-08,Dustin Snow,Dustin Snow,candidate-self,,,,25.00,False,False,raw/2023_17_Dustin-Snow.pdf,07e423a2,v2,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-11-14,11/14/2023,2023-11-12,Dustin Snow,Dustin Snow,candidate-self,,,,50.00,False,False,raw/2023_17_Dustin-Snow.pdf,07e423a2,v3,medium,vision_cache/vision,0
+Dustin Snow,Council,1,2023,2023-12-01,Final,2023-09-01,Susan Frampton,Susan Frampton,individual,,,,1000.00,False,False,raw/state/2023_state_Dustin-Snow_Final.pdf,bb6c3d34,v1,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-01,Final,2023-08-08,Dustin Snow,Dustin Snow,candidate-self,,,,25.00,False,False,raw/state/2023_state_Dustin-Snow_Final.pdf,bb6c3d34,v2,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-01,Final,2023-11-12,Dustin Snow,Dustin Snow,candidate-self,,,,50.00,False,False,raw/state/2023_state_Dustin-Snow_Final.pdf,bb6c3d34,v3,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-01,Final,2023-11-21,Dustin Snow,Dustin Snow,candidate-self,,,,24.74,False,False,raw/state/2023_state_Dustin-Snow_Final.pdf,bb6c3d34,v4,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-01,Final,2023-12-19,Dustin Snow,Dustin Snow,candidate-self,,,,26.90,False,False,raw/state/2023_state_Dustin-Snow_Final.pdf,bb6c3d34,v5,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-21,12/21/2023,2023-09-01,Susan Frampton,Susan Frampton,individual,,,,1000.00,False,False,raw/2023_18_Dustin-Snow.pdf,b9078ab8,v1,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-21,12/21/2023,2023-08-08,Dustin Snow,Dustin Snow,candidate-self,,,,25.00,False,False,raw/2023_18_Dustin-Snow.pdf,b9078ab8,v2,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-21,12/21/2023,2023-11-12,Dustin Snow,Dustin Snow,candidate-self,,,,50.00,False,False,raw/2023_18_Dustin-Snow.pdf,b9078ab8,v3,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-21,12/21/2023,2023-11-21,Dustin Snow,Dustin Snow,candidate-self,,,,24.74,False,False,raw/2023_18_Dustin-Snow.pdf,b9078ab8,v4,low,vision_cache/vision,1
+Dustin Snow,Council,1,2023,2023-12-21,12/21/2023,2023-12-19,Dustin Snow,Dustin Snow,candidate-self,,,,26.90,False,False,raw/2023_18_Dustin-Snow.pdf,b9078ab8,v5,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-08-11,Evan Feinberg,Evan Feinberg,candidate-self,,,,100.00,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v1,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-06,Paul Cantor,Paul Cantor,individual,,,,242.15,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v2,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-06,Edward Feinberg,Edward Feinberg,family-of-candidate,,,,16.85,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v3,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-05,Women's Democratic Club,Women's Democratic Club,individual,,,,96.25,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v4,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-20,Sharon Mariner,Sharon Mariner,individual,,,,47.00,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v5,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-20,Bob & Dorothy McCabe,Bob & Dorothy McCabe,individual,,,,47.77,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v6,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-22,Katy Bondinaro,Katy Bondinaro,individual,,,,23.47,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v7,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-23,Barbara Asher,Barbara Asher,individual,,,,238.00,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v8,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-09-26,Elizabeth Zappa,Elizabeth Zappa,individual,,,,190.72,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v9,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-10-06,Linda Pasternack,Linda Pasternack,individual,,,,71.00,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v10,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-10-12,Bryan Russ,Bryan Russ,individual,,,,23.20,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v11,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-10-21,Jennifer Frazer,Jennifer Frazer,individual,,,,286.08,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v12,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-10-24,10/24/2023,2023-10-06,Women's Democratic Club,Women's Democratic Club,individual,,,,43.52,False,False,raw/2023_07_Evan-Feinberg.pdf,d84d4be3,v13,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-08-11,Evan Feinberg,Evan Feinberg,candidate-self,,,,100.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v1,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-06,Paul Cantord,Paul Cantord,individual,,,,242.03,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v2,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-06,Edward Feinberg,Edward Feinberg,family-of-candidate,,,,96.25,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v3,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-05,Womens Democratic Club,Womens Democratic Club,individual,,,,96.25,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v4,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-20,Sharon Mariner,Sharon Mariner,individual,,,,47.92,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v5,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-05-20,Bob & Dorthy McCabe,Bob & Dorthy McCabe,individual,,,,47.92,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v6,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-12,Katy Boldenour,Katy Boldenour,individual,,,,23.44,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v7,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-23,Barbara Ashee,Barbara Ashee,individual,,,,238.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v8,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-09-25,Elizabeth Zappe,Elizabeth Zappe,individual,,,,190.72,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v9,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-03,Linda Pasternack,Linda Pasternack,individual,,,,71.44,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v10,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-12,Bryan Russ,Bryan Russ,individual,,,,23.44,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v11,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-21,Jennifer Fraser,Jennifer Fraser,individual,,,,226.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v12,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-16,Womens Democratic Club,Womens Democratic Club,individual,,,,47.92,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v13,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-24,Logan Phillips,Logan Phillips,individual,,,,71.24,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v14,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-23,Steven Berizzi,Steven Berizzi,individual,,,,250.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v15,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-23,Ari Marks,Ari Marks,individual,,,,40.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v16,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-23,Stevin & Telisa Farmer,Stevin & Telisa Farmer,individual,,,,90.00,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v17,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-11-14,11/14/2023,2023-10-23,Personal Contribution (Evan Feinberg),Personal Contribution (Evan Feinberg),unknown,,,,58.25,False,False,raw/2023_08_Evan-Feinberg.pdf,3b09fd10,v18,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-08-11,Evan Feinberg,Evan Feinberg,candidate-self,,,,100.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v1,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-06,Paul Cantord,Paul Cantord,individual,,,,242.03,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v2,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-06,Edward Feinberg,Edward Feinberg,family-of-candidate,,,,96.25,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v3,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-05,Womens Democratic Club,Womens Democratic Club,individual,,,,96.25,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v4,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-20,Sharon Mariner,Sharon Mariner,individual,,,,47.92,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v5,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-05-20,Bob & Dorthy McCabe,Bob & Dorthy McCabe,individual,,,,47.92,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v6,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-12,Katy Boldenour,Katy Boldenour,individual,,,,23.44,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v7,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-23,Barbara Ashee,Barbara Ashee,individual,,,,238.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v8,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-09-25,Elizabeth Zappe,Elizabeth Zappe,individual,,,,190.72,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v9,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-03,Linda Pasternack,Linda Pasternack,individual,,,,71.44,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v10,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-12,Bryan Russ,Bryan Russ,individual,,,,23.44,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v11,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-21,Jennifer Fraser,Jennifer Fraser,individual,,,,226.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v12,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-16,Womens Democratic Club,Womens Democratic Club,individual,,,,47.92,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v13,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-24,Logan Phillips,Logan Phillips,individual,,,,71.24,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v14,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-23,Steven Berizzi,Steven Berizzi,individual,,,,250.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v15,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-23,Ari Marks,Ari Marks,individual,,,,40.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v16,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-23,Stevin & Telisa Farmer,Stevin & Telisa Farmer,individual,,,,90.00,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v17,low,vision_cache/vision,1
+Evan Feinberg,Council,3,2023,2023-12-21,12/21/2023,2023-10-23,Personal Contribution (Evan Feinberg),Personal Contribution (Evan Feinberg),unknown,,,,58.25,False,False,raw/2023_09_Evan-Feinberg.pdf,80853cee,v18,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-08-29,Megan Whitfield,Megan Whitfield,individual,,,,25.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v1,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-09-07,Vella Hall,Vella Hall,individual,,,,100.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v2,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-08-31,Jamie Irvine,Jamie Irvine,individual,,,,10.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v3,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-09-01,Kristie Hilton,Kristie Hilton,individual,,,,200.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v4,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-09-04,Lisa Richardson,Lisa Richardson,individual,,,,100.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v5,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-09-10,April Mems,April Mems,individual,,,,500.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v6,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-09-16,Linda Michalik,Linda Michalik,individual,,,,25.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v7,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-10-24,10/24/2023,2023-10-23,Tracy Robinson,Tracy Robinson,family-of-candidate,,,,250.00,False,False,raw/2023_13_Heidi-Robinson.pdf,15727d1f,v8,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-08-29,Megan Whitfield,Megan Whitfield,individual,,,,25.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v1,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-09-07,Vella Hall,Vella Hall,individual,,,,100.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v2,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-08-31,Jamie Irvine,Jamie Irvine,individual,,,,10.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v3,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-09-01,Kristie Hilton,Kristie Hilton,individual,,,,200.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v4,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-09-04,Lisa Richardson,Lisa Richardson,individual,,,,100.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v5,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-09-10,April Mems,April Mems,individual,,,,500.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v6,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-09-16,Linda Michalik,Linda Michalik,individual,,,,75.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v7,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-10-23,Tracy Robinson,Tracy Robinson,family-of-candidate,,,,250.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v8,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-11-14,11/14/2023,2023-10-24,Navais Terennon,Navais Terennon,individual,,,,50.00,False,False,raw/2023_14_Heidi-Robinson.pdf,5ea536d2,v9,low,vision_cache/vision,1
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-08-29,Megan Whitfield,Megan Whitfield,individual,,,,25.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v1,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-09-07,Verla Nail,Verla Nail,individual,,,,100.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v2,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-08-31,Jamie Payne,Jamie Payne,individual,,,,10.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v3,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-09-01,Kristie Hilton,Kristie Hilton,individual,,,,200.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v4,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-09-04,Lisa Richardson,Lisa Richardson,individual,,,,100.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v5,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-09-10,April Meggs,April Meggs,individual,,,,500.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v6,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-09-16,Linda Michalik,Linda Michalik,individual,,,,25.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v7,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-10-23,Tracy Robinson,Tracy Robinson,family-of-candidate,,,,250.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v8,medium,vision_cache/vision,0
+Heidi Robinson,Council,3,2023,2023-12-21,12/21/2023,2023-10-24,Malak,Malak,unknown,,,,50.00,False,False,raw/2023_15_Heidi-Robinson.pdf,42cac402,v9,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Realtor Association,Realtor Association,business,,,,1000.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v1,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Stefan Spellman,Stefan Spellman,individual,,,,100.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v2,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Jon Rowe,Jon Rowe,individual,,,,50.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v3,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Samatha Smith,Samatha Smith,individual,,,,75.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v4,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Zach Robinson,Zach Robinson,individual,,,,150.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v5,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,David Hall,David Hall,individual,,,,250.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v6,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Jeff McGill,Jeff McGill,individual,,,,50.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v7,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Arne Carter,Arne Carter,individual,,,,100.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v8,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Dustin Gettel,Dustin Gettel,individual,,,,50.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v9,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Britta Mansfield,Britta Mansfield,individual,,,,100.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v10,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Suzanne Walker,Suzanne Walker,individual,,,,50.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v11,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Clifford Blair,Clifford Blair,individual,,,,100.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v12,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Women's Democratic,Women's Democratic,individual,,,,100.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v13,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Heidi Robinson,Heidi Robinson,individual,,,,35.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v14,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Joel Helquist,Joel Helquist,individual,,,,25.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v15,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Jessica Bezznat,Jessica Bezznat,individual,,,,10.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v16,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Collin Loescher,Collin Loescher,individual,,,,22.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v17,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Caroline Ellis,Caroline Ellis,individual,,,,40.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v18,medium,vision_cache/vision,0
+Bryant Brown,Council,4,2025,2025-10-07,"October 7, 2025",,Shane Earl,Shane Earl,individual,,,,25.00,False,True,raw/2025_07_Bryant-Brown.pdf,4188750d,v19,medium,vision_cache/vision,0
+Rainer Lilbok,Council,4,2025,2025-10-07,"October 7, 2025",,Rainer Lilbok,Rainer Lilbok,candidate-self,,,,133.69,False,True,raw/2025_16_Rainer-Lilbok.pdf,ababb16d,v1,high,vision_cache/vision,0
+Rainer Lilbok,Council,4,2025,2025-10-07,"October 7, 2025",,Rainer Lilbok,Rainer Lilbok,candidate-self,,,,25.00,False,True,raw/2025_16_Rainer-Lilbok.pdf,ababb16d,v2,high,vision_cache/vision,0
+Rainer Lilbok,Council,4,2025,2025-10-07,"October 7, 2025",,Rainer Lilbok,Rainer Lilbok,candidate-self,,,,30.00,False,True,raw/2025_16_Rainer-Lilbok.pdf,ababb16d,v3,high,vision_cache/vision,0
+Rainer Lilbok,Council,4,2025,2025-10-28,"October 28, 2025",,MARK HOYT,Mark Hoyt,individual,,,,20.00,False,True,raw/2025_17_Rainer-Lilbok.pdf,5178af09,v1,medium,vision_cache/vision,0
+Rainer Lilbok,Council,4,2025,2025-10-28,"October 28, 2025",,RAINER LILBOK,Rainer Lilbok,candidate-self,,,,3.56,False,True,raw/2025_17_Rainer-Lilbok.pdf,5178af09,v2,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Salt Lake Board of Realtors,Salt Lake Board of Realtors,business,,,,1000.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v1,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Jeff Jennings,Jeff Jennings,individual,,,,100.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v2,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Angie Bath,Angie Bath,individual,,,,100.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v3,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Women's Dimockatic Club,Women's Dimockatic Club,individual,,,,150.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v4,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Janet Perry,Janet Perry,individual,,,,100.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v5,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Denece Mikolash (campayn loan),Denece Mikolash (campayn loan),loan,,,,1000.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v6,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Tiffany Epiphany,Tiffany Epiphany,individual,,,,20.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v7,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,John Adamson,John Adamson,individual,,,,50.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v8,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Ryan Greenberg,Ryan Greenberg,individual,,,,30.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v9,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,LR Alder,LR Alder,individual,,,,30.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v10,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-07,"October 7, 2025",,Jon Bertola,Jon Bertola,individual,,,,30.00,False,True,raw/2025_19_Denece-Mikolash.pdf,911a645b,v11,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Beni Kich,Beni Kich,individual,,,,100.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v1,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Gail + Lowell Mikolash,Gail + Lowell Mikolash,family-of-candidate,,,,400.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v2,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Kathy + Ray Etcheverry,Kathy + Ray Etcheverry,unknown,,,,250.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v3,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Ross Romero,Ross Romero,individual,,,,125.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v4,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Sean Jenkins,Sean Jenkins,individual,,,,100.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v5,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Joe + Lacy Mikolash,Joe + Lacy Mikolash,family-of-candidate,,,,50.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v6,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Dave + Lynn Chazen,Dave + Lynn Chazen,unknown,,,,50.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v7,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-10-28,"October 28, 2025",,Venessa Thompson,Venessa Thompson,individual,,,,50.00,False,True,raw/2025_20_Denece-Mikolash.pdf,dc891aa5,v8,medium,vision_cache/vision,0
+Denece Mikolash,Council,5,2025,2025-12-04,"December 4, 2025",,Denece Mikolash (campaign loan),Denece Mikolash (campaign loan),loan,,,,400.00,False,True,raw/2025_21_Denece-Mikolash.pdf,5dea7d82,v1,medium,vision_cache/vision,0
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Justin Howery,Justin Howery,individual,,,,700.00,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v1,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Equality Utah,Equality Utah,individual,,,,500.00,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v2,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Rebecca Gilbert,Rebecca Gilbert,individual,,,,53.04,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v3,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Warren Lade,Warren Lade,individual,,,,105.75,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v4,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Edna Garcia,Edna Garcia,individual,,,,105.75,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v5,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,SuEllen Shepard,SuEllen Shepard,individual,,,,105.75,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v6,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Michelle Ray Sky Brown,Michelle Ray Sky Brown,individual,,,,53.04,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v7,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Warren Lade,Warren Lade,individual,,,,53.04,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v8,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Charles Davis,Charles Davis,individual,,,,50.00,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v9,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Jamie Steverson,Jamie Steverson,candidate-self,,,,3.48,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v10,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Geoff Webber,Geoff Webber,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v11,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Laura Ferre,Laura Ferre,individual,,,,21.41,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v12,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Amelia Lafave,Amelia Lafave,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v13,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Emily Trott,Emily Trott,individual,,,,26.68,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v14,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Jennifer Fonseca,Jennifer Fonseca,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v15,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Jason McKenna,Jason McKenna,individual,,,,25.00,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v16,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Benjamin SWEYKO,Benjamin Sweyko,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v17,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Shammra Mcbride,Shammra Mcbride,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v18,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-07,"October 7, 2025",,Kate Flint,Kate Flint,individual,,,,10.86,False,True,raw/2025_04_Jamie-Steverson.pdf,a6b2f8a0,v19,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Daphne Krantz,Daphne Krantz,individual,,,,50.00,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v1,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Milton Foxley,Milton Foxley,individual,,,,50.00,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v2,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Kaitlyn Norris,Kaitlyn Norris,individual,,,,53.04,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v3,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Stephen Smith,Stephen Smith,individual,,,,53.04,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v4,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Jaime Robotin,Jaime Robotin,individual,,,,10.86,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v5,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Emerson Cluff,Emerson Cluff,individual,,,,10.86,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v6,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Midori Green,Midori Green,individual,,,,10.86,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v7,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,JV Baldovi,JV Baldovi,individual,,,,5.59,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v8,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Christopher Wolfe,Christopher Wolfe,individual,,,,10.86,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v9,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,David Ethridge,David Ethridge,individual,,,,10.86,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v10,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-10-28,"October 28, 2025",,Kaitlyn Norris,Kaitlyn Norris,individual,,,,26.68,False,True,raw/2025_05_Jamie-Steverson.pdf,8c6c931e,v11,low,vision_cache/vision,1
+Jamie Steverson,Council,5,2025,2025-12-04,"December 4, 2025",,Athena Steverson,Athena Steverson,family-of-candidate,,,,37.56,False,True,raw/2025_06_Jamie-Steverson.pdf,29023a76,v1,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-10-28,"October 28, 2025",,Brandee Boyer,Brandee Boyer,candidate-self,,,,288.33,False,True,raw/2025_02_Brandee-Boyer.pdf,82213f0b,v1,high,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-10-28,"October 28, 2025",,Tiffany Diener,Tiffany Diener,individual,,,,44.00,False,True,raw/2025_02_Brandee-Boyer.pdf,82213f0b,v2,high,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Rachel Fost,Rachel Fost,individual,,,,100.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v1,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Alex Oser,Alex Oser,individual,,,,100.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v2,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Susan Johnston,Susan Johnston,individual,,,,100.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v3,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Brandee Boyer,Brandee Boyer,candidate-self,,,,604.94,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v4,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Kathryn Duke,Kathryn Duke,individual,,,,25.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v5,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Daniel Erickson,Daniel Erickson,individual,,,,50.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v6,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Scott Goss,Scott Goss,individual,,,,10.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v7,medium,vision_cache/vision,0
+Brandee Boyer,Mayor,,2025,2025-11-01,,,Edelmira Medina,Edelmira Medina,individual,,,,5.00,False,True,raw/2025_01_Brandee-Boyer.pdf,c8835e29,v8,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-07,"October 7, 2025",,Norman Stevens,Norman Stevens,individual,,,,100.00,False,True,raw/2025_10_David-Fair.pdf,3237c816,v1,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-07,"October 7, 2025",,Phil Mecham,Phil Mecham,individual,,,,100.00,False,True,raw/2025_10_David-Fair.pdf,3237c816,v2,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-07,"October 7, 2025",,Maurine Helm,Maurine Helm,individual,,,,100.00,False,True,raw/2025_10_David-Fair.pdf,3237c816,v3,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-07,"October 7, 2025",,Mary Ellen Reid,Mary Ellen Reid,individual,,,,200.00,False,True,raw/2025_10_David-Fair.pdf,3237c816,v4,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-07,"October 7, 2025",,Mary Owens,Mary Owens,individual,,,,50.00,False,True,raw/2025_10_David-Fair.pdf,3237c816,v5,medium,vision_cache/vision,0
+David B. Fair,Mayor,,2025,2025-10-28,"October 28, 2025",,David Fair,David Fair,candidate-self,,,,877.80,False,True,raw/2025_11_David-Fair.pdf,d07c2a8d,v1,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-14,Dustin for County Council,Dustin for County Council,individual,,,,163.08,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v1,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-18,Jason Coral,Jason Coral,individual,,,,263.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v2,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-19,Salt Lake County Realtors PAC,Salt Lake County Realtors Pac,pac,,,,5000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v3,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-27,Thom DeSirant,Thom DeSirant,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v4,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-28,Brad Towney,Brad Towney,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v5,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-28,John Semnani,John Semnani,individual,,,,1000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v6,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-02,Jeff Howell,Jeff Howell,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v7,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-02,Rebecca Pickle,Rebecca Pickle,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v8,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-03,Michael Carey,Michael Carey,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v9,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-07,Lynette Phillips,Lynette Phillips,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v10,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-07,Chris Wharton,Chris Wharton,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v11,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-12,Bill Caldwell,Bill Caldwell,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v12,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-12,Aimee Winder Newton,Aimee Winder Newton,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v13,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-13,Chase Brauchie,Chase Brauchie,individual,,,,500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v14,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-14,Billie Gettel,Billie Gettel,family-of-candidate,,,,200.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v15,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-17,Guillame Belgique,Guillame Belgique,individual,,,,1000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v16,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Ann Granato,Ann Granato,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v17,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Evan Done,Evan Done,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v18,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Wendy Garvin,Wendy Garvin,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v19,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-07,Chris Wharton,Chris Wharton,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v20,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-09,Timothy Hurty,Timothy Hurty,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v21,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-14,Tali Bruce,Tali Bruce,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v22,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-14,Mackey Smith,Mackey Smith,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v23,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-14,Andrew Stoddard,Andrew Stoddard,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v24,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-14,Jill Rowe,Jill Rowe,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v25,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-14,Jennifer Dailey-Provost,Jennifer Dailey-Provost,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v26,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-15,Bryce Abplanalp,Bryce Abplanalp,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v27,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-16,Tiffany Jacobs,Tiffany Jacobs,individual,,,,110.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v28,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-17,Paul Fotheringham,Paul Fotheringham,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v29,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-18,Weston Clark,Weston Clark,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v30,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Jade Velazquez,Jade Velazquez,individual,,,,54.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v31,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Cade Mooney,Cade Mooney,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v32,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Mariel Martin,Mariel Martin,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v33,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Brooke D'Sousa,Brooke D'Sousa,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v34,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Terry Palmer,Terry Palmer,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v35,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Paul Winterton,Paul Winterton,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v36,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Heather Mastakas,Heather Mastakas,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v37,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Kyle Mauer,Kyle Mauer,individual,,,,300.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v38,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-24,Kathleen Riebe,Kathleen Riebe,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v39,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Scott Cuthbertson,Scott Cuthbertson,individual,,,,500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v40,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-26,Zach Robinson,Zach Robinson,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v41,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-26,Su Armitage,Su Armitage,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v42,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-27,Blaze Wharton,Blaze Wharton,individual,,,,150.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v43,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-29,Diane Turner,Diane Turner,individual,,,,150.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v44,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-30,Tiffany Jacobs,Tiffany Jacobs,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v45,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Chris Wharton,Chris Wharton,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v46,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-07,Equality Utah PAC,Equality Utah Pac,pac,,,,1000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v47,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-14,Michael Squires,Michael Squires,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v48,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-20,Monica Zoltanski,Monica Zoltanski,individual,,,,200.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v49,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-23,Home Builders Association,Home Builders Association,business,,,,500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v50,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-24,Su Armitage,Su Armitage,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v51,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-24,Comcast,Comcast,unknown,,,,750.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v52,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-25,Teamsters Local 222,Teamsters Local 222,unknown,,,,750.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v53,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-28,Angela Romero,Angela Romero,individual,,,,150.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v54,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-04,Su Armitage,Su Armitage,individual,,,,133.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v55,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-04,Jeff Silvestrini,Jeff Silvestrini,individual,,,,750.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v56,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-08,Bonnie Billings,Bonnie Billings,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v57,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-11,Fresh Air PAC,Fresh Air Pac,pac,,,,1000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v58,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-15,Ray DeWolfe,Ray DeWolfe,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v59,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-20,Arlyn Bradshaw,Arlyn Bradshaw,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v60,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-22,Tony Huston,Tony Huston,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v61,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-28,WDC of Utah,Wdc of Utah,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v62,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-28,Operating Engineers Local 3,Operating Engineers Local 3,unknown,,,,500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v63,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-30,Jeff Howell,Jeff Howell,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v64,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-01,Chris Wharton,Chris Wharton,individual,,,,350.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v65,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-03,IBEW,Ibew,unknown,,,,1000.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v66,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-06,Ross Romero,Ross Romero,individual,,,,125.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v67,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-12,KC Gardner Company,KC Gardner Company,business,,,,2500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v68,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-20,Michael Rockwood,Michael Rockwood,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v69,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Preston Powis,Preston Powis,individual,,,,80.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v70,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Victoria Petro,Victoria Petro,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v71,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Corey Thomas,Corey Thomas,individual,,,,100.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v72,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Dustin Gettel,Dustin Gettel,candidate-self,,,,470.74,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v73,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Peyton Wunderli,Peyton Wunderli,individual,,,,500.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v74,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-27,Jason Coral,Jason Coral,individual,,,,300.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v75,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-10-02,Dave Spatafore,Dave Spatafore,individual,,,,200.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v76,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-10-05,Ann Granato,Ann Granato,individual,,,,250.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v77,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-02-07,Alan Anderson,Alan Anderson,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v78,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-07,Ladd McClurg,Ladd McClurg,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v79,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-07,Matthew Plooster,Matthew Plooster,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v80,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-03-07,Clark Bullen,Clark Bullen,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v81,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Jesse Lockwood,Jesse Lockwood,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v82,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Allison Gertsch,Allison Gertsch,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v83,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Su Armitage,Su Armitage,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v84,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-06,Kathy Harbin,Kathy Harbin,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v85,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-08,Jacqueline Williams,Jacqueline Williams,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v86,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-11,Cliphane Brough,Cliphane Brough,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v87,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-12,Tony Campisi,Tony Campisi,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v88,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Jac Coleman,Jac Coleman,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v89,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Brad Dickter,Brad Dickter,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v90,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Jennifer Schwartz,Jennifer Schwartz,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v91,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-19,Christine Helfrich,Christine Helfrich,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v92,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-20,John Martinez,John Martinez,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v93,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-20,Noah Khayat,Noah Khayat,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v94,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-21,Missy Greis,Missy Greis,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v95,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-22,Christopher Katis,Christopher Katis,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v96,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-22,Mike Terrill,Mike Terrill,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v97,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Sarah Anderson,Sarah Anderson,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v98,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Luke Maynes,Luke Maynes,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v99,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-23,Nancy Beggs,Nancy Beggs,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v100,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Jackson Lewis,Jackson Lewis,individual,,,,18.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v101,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Mark Gallihue,Mark Gallihue,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v102,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Travis Peterson,Travis Peterson,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v103,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Fred Gruendell,Fred Gruendell,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v104,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-25,Clayton Scrivner,Clayton Scrivner,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v105,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-26,Trinity Weatherman,Trinity Weatherman,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v106,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-26,Aaron Dekeyzer,Aaron Dekeyzer,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v107,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-27,Matthew Davis,Matthew Davis,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v108,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-28,Jeff Landon,Jeff Landon,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v109,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-06-29,LeAnn Huff,LeAnn Huff,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v110,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Quinn Rollins,Quinn Rollins,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v111,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Travis Richards,Travis Richards,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v112,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Sherry Pryor,Sherry Pryor,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v113,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Kerry Harding,Kerry Harding,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v114,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Su Armitage,Su Armitage,individual,,,,10.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v115,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Lori Lloyd,Lori Lloyd,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v116,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Christopher Schaaf,Christopher Schaaf,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v117,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Billie Gettel,Billie Gettel,family-of-candidate,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v118,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,Skyler Morris,Skyler Morris,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v119,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-05,BK Outreach,BK Outreach,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v120,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-09,Nancy Beggs,Nancy Beggs,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v121,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-09,Angela Brown,Angela Brown,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v122,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-14,Adam Hock,Adam Hock,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v123,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-07-27,Sheryl Ginsberg,Sheryl Ginsberg,individual,,,,35.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v124,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-01,Preston Powis,Preston Powis,individual,,,,22.22,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v125,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-02,Natalie Harris,Natalie Harris,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v126,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-13,Archie Williams,Archie Williams,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v127,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-08-26,Kyle Rose,Kyle Rose,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v128,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-17,Oath Vote,Oath Vote,individual,,,,27.22,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v129,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-18,Dixie Gaisford,Dixie Gaisford,individual,,,,20.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v130,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Oath Vote,Oath Vote,individual,,,,3.24,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v131,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Luke Maynes,Luke Maynes,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v132,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-25,Robin Hough,Robin Hough,individual,,,,50.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v133,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-09-27,Preston Powis,Preston Powis,individual,,,,33.33,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v134,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-07,"October 7, 2025",2025-10-01,Gerald Mattson,Gerald Mattson,individual,,,,25.00,False,True,raw/2025_13_Dustin-Gettel.pdf,23947ee7,v135,medium,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-08,Maddy Shear,Maddy Shear,individual,,,,80.23,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v1,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-14,Joseph Scovel,Joseph Scovel,individual,,,,100.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v2,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-15,Katherine Wright,Katherine Wright,individual,,,,659.98,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v3,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-23,United Steelworkers District 12,United Steelworkers District 12,unknown,,,,1000.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v4,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-23,Dustin Gettel,Dustin Gettel,candidate-self,,,,516.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v5,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-24,Impact PAC,Impact Pac,pac,,,,500.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v6,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-27,Bryant Brown,Bryant Brown,individual,,,,100.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v7,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-08,Deena Mitchell,Deena Mitchell,individual,,,,16.03,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v8,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-08,Paige Anderson,Paige Anderson,individual,,,,16.03,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v9,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-08,Nancy Wingelaar,Nancy Wingelaar,individual,,,,16.03,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v10,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-09,Ross Adrian,Ross Adrian,individual,,,,50.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v11,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-10-28,"October 28, 2025",2025-10-24,Turner Bitton,Turner Bitton,individual,,,,50.00,False,True,raw/2025_14_Dustin-Gettel.pdf,26dd1889,v12,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-12-04,"December 4, 2025",,Utah Stonewall Dems,Utah Stonewall Dems,individual,,,,500.00,False,True,raw/2025_15_Dustin-Gettel.pdf,4112c182,v1,high,vision_cache/vision,0
+Dustin Gettel,Mayor,,2025,2025-12-04,"December 4, 2025",,Western States Regional Council of Carpenters,Western States Regional Council of Carpenters,individual,,,,500.00,False,True,raw/2025_15_Dustin-Gettel.pdf,4112c182,v2,high,vision_cache/vision,0

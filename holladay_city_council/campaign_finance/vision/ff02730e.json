@@ -1,0 +1,49 @@
+{
+  "contributions": [
+    {"date": "7/19/25", "name": "Women's Democaratic Club of Utah", "amount": "150", "in_kind": false},
+    {"date": "7/21/25", "name": "Amy Cowin", "amount": "50", "in_kind": false},
+    {"date": "8/17/25", "name": "Carol Spackman Moss", "amount": "250", "in_kind": false},
+    {"date": "8/18/25", "name": "Paul Fottheringham", "amount": "200", "in_kind": false},
+    {"date": "8/21/25", "name": "Amanda Greenland", "amount": "50", "in_kind": false},
+    {"date": "8/27/25", "name": "Steven Glende", "amount": "100", "in_kind": false},
+    {"date": "9/3/25", "name": "Mark Rothacher", "amount": "100", "in_kind": false},
+    {"date": "9/8/25", "name": "Steve and Ginger Gunn", "amount": "100", "in_kind": false},
+    {"date": "9/10/25", "name": "Brian and Claudia Bellamy", "amount": "500", "in_kind": false},
+    {"date": "9/10/25", "name": "Steve and Ginger Gunn", "amount": "100", "in_kind": false},
+    {"date": "9/16/25", "name": "Rhiannon Longfellow", "amount": "25", "in_kind": false},
+    {"date": "9/22/25", "name": "S. Robert Bradley", "amount": "100", "in_kind": false},
+    {"date": "9/26/25", "name": "Catherine Harlin", "amount": "50", "in_kind": false},
+    {"date": "10/1/25", "name": "Jonie and Rob Dahle", "amount": "200", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/4/25", "recipient": "Holladay City (Filing Fee)", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": "6/9/25", "recipient": "Office Depot", "purpose": null, "amount": "21.39", "in_kind": false},
+    {"date": "6/9/25", "recipient": "Salt Lake County Clerk Office", "purpose": null, "amount": "15", "in_kind": false},
+    {"date": "6/11/25", "recipient": "Base Apperal", "purpose": null, "amount": "214", "in_kind": false},
+    {"date": "7/8/25", "recipient": "Square Space", "purpose": null, "amount": "15.04", "in_kind": false},
+    {"date": "7/12/15", "recipient": "Yardsign Plus", "purpose": null, "amount": "300.80", "in_kind": false},
+    {"date": "7/14/25", "recipient": "Square Space", "purpose": null, "amount": "21.49", "in_kind": false},
+    {"date": "8/6/25", "recipient": "Fund Hero", "purpose": null, "amount": "8.59", "in_kind": false},
+    {"date": "8/14/25", "recipient": "Square Space", "purpose": null, "amount": "26.86", "in_kind": false},
+    {"date": "8/18/25", "recipient": "Signs on the Cheap", "purpose": null, "amount": "195.56", "in_kind": false},
+    {"date": "9/6/25", "recipient": "Fund Hero", "purpose": null, "amount": "8.59", "in_kind": false},
+    {"date": "9/14/25", "recipient": "Square Space", "purpose": null, "amount": "26.86", "in_kind": false},
+    {"date": "9/15/25", "recipient": "Holladay Journal", "purpose": null, "amount": "400", "in_kind": false},
+    {"date": "9/22/25", "recipient": "Office Depot", "purpose": null, "amount": "69.54", "in_kind": false},
+    {"date": "9/23/25", "recipient": "Signs on the Cheap", "purpose": null, "amount": "146.67", "in_kind": false}
+  ],
+  "total_contributions": "1950",
+  "total_expenditures": "1520.39",
+  "contributions_50_or_less": "25.00",
+  "beginning_balance": null,
+  "ending_balance": "454.61",
+  "_meta": {
+    "index_path": "raw/2025_city_bradley-oct2025.pdf",
+    "candidate": "Natalie Bellamy Bradley",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_bradley-oct2025.pdf",
+    "pages": 3
+  }
+}

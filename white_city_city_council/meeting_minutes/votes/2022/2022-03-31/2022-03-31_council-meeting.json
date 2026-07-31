@@ -1,0 +1,105 @@
+{
+ "date": "2022-03-31",
+ "year": 2022,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little",
+  "Phillip Cardenaz"
+ ],
+ "source": "meeting_minutes/minutes/2022/2022-03-31/2022-03-31_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to open the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to reopen the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

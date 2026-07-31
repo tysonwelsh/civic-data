@@ -1,0 +1,23 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "GoodParty Membership (pro-rated)", "purpose": null, "amount": "3.30", "in_kind": false},
+    {"date": null, "recipient": "GoodParty.org Texting", "purpose": null, "amount": "81.17", "in_kind": false},
+    {"date": null, "recipient": "Meta Ads", "purpose": null, "amount": "17.82", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "102.29",
+  "contributions_50_or_less": null,
+  "beginning_balance": "325.79",
+  "ending_balance": "223.5",
+  "_meta": {
+    "index_path": "raw/202512_Clark-Bullen_17375.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "reporting_period": "Year-end final",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A empty, printed TOTAL CONTRIBUTIONS RECEIVED 0 — reconciles. Schedule B itemized sums to 102.29 vs printed cover 102.29 — reconciles. Schedule C empty, printed TOTAL IN KIND CONTRIBUTION 0. Form has '30 Days After Municipal General Election' box checked; classified summary/Year-end final per task metadata."
+  }
+}

@@ -1,0 +1,95 @@
+St. George Planning Commission vote-extraction validation report
+================================================================
+pc_meetings_parsed: 133
+motions: 1025
+member_vote_rows: 6372
+recommendations: 685
+final_actions: 100
+procedural: 240
+named_motions: 1024
+tally_only_motions: 1
+contested: 89
+tally_mismatches: 58
+================================================================
+
+TALLY MISMATCHES (declared (n) vs named count, or outcome vs tally):
+  [PMN] planning_commission/minutes/2020/2020-01-27/2020-01-28_planning-commission-meeting.md m3: AYES declared 7 but 5 names listed
+  [PMN] planning_commission/minutes/2020/2020-01-27/2020-01-28_planning-commission-meeting.md m3: NAYS declared 0 but 2 names listed
+  [PMN] planning_commission/minutes/2020/2020-07-13/2020-07-14_planning-commission-meeting.md m4: AYES declared 3 but 4 names listed
+  [PMN] planning_commission/minutes/2021/2021-04-12/2021-04-13_planning-commission-meeting.md m6: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m1: AYES declared 4 but 5 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m2: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m3: AYES declared 4 but 5 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m3: outcome 'unanimous' but nay recorded (Motion Carries unanimous recommend approval)
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m4: AYES declared 4 but 5 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m5: AYES declared 4 but 5 names listed
+  [PMN] planning_commission/minutes/2021/2021-08-23/2021-08-24_planning-commission-meeting.md m6: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m1: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m2: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m3: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m4: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m5: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m6: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m7: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m8: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m9: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m10: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m11: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m12: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m13: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m14: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m15: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-09-27/2021-09-28_planning-commission-meeting.md m16: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-11-08/2021-11-09_planning-commission-meeting.md m10: AYES declared 5 but 6 names listed
+  [PMN] planning_commission/minutes/2021/2021-11-08/2021-11-09_planning-commission-meeting.md m11: AYES declared 6 but 5 names listed
+  [PMN] planning_commission/minutes/2022/2022-04-11/2022-04-12_planning-commission-meeting.md m2: outcome 'unanimous' but nay recorded (Motion Carries unanimous recommend approval)
+  [PMN] planning_commission/minutes/2022/2022-04-11/2022-04-12_planning-commission-meeting.md m5: outcome 'unanimous' but nay recorded (Motion Carries unanimous recommend approval)
+  [PMN] planning_commission/minutes/2022/2022-06-27/2022-06-28_planning-commission-meeting.md m1: outcome 'unanimous' but nay recorded (Motion Carries unanimous recommend approval)
+  [PMN] planning_commission/minutes/2022/2022-08-08/2022-08-09_planning-commission-meeting.md m4: outcome 'unanimous' but nay recorded (Motion Carries unanimous recommend approval)
+  [PMN] planning_commission/minutes/2023/2023-03-27/2023-03-28_planning-commission-meeting.md m2: AYES declared 1 but 4 names listed
+  [PMN] planning_commission/minutes/2023/2023-04-10/2023-04-11_planning-commission-meeting.md m4: AYES declared 5 but 4 names listed
+  [PMN] planning_commission/minutes/2023/2023-04-10/2023-04-11_planning-commission-meeting.md m5: AYES declared 5 but 4 names listed
+  [PMN] planning_commission/minutes/2023/2023-04-10/2023-04-11_planning-commission-meeting.md m6: AYES declared 5 but 4 names listed
+  [PMN] planning_commission/minutes/2023/2023-06-12/2023-06-13_planning-commission-meeting.md m2: AYES declared 4 but 3 names listed
+  [PMN] planning_commission/minutes/2023/2023-06-26/2023-06-27_planning-commission-meeting.md m2: AYES declared 4 but 6 names listed
+  [PMN] planning_commission/minutes/2023/2023-06-26/2023-06-27_planning-commission-meeting.md m3: AYES declared 4 but 6 names listed
+  [PMN] planning_commission/minutes/2023/2023-06-26/2023-06-27_planning-commission-meeting.md m7: AYES declared 4 but 6 names listed
+  [PMN] planning_commission/minutes/2023/2023-11-13/2023-11-14_planning-commission-meeting.md m8: outcome 'unanimous' but nay recorded (Motion Carries Unanimous Vote)
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m2: AYES declared 6 but 7 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m3: AYES declared 7 but 8 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m4: AYES declared 6 but 7 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m4: outcome 'unanimous' but nay recorded (Motion Carries Unanimous Vote)
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m5: AYES declared 7 but 8 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m6: AYES declared 7 but 8 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m7: AYES declared 6 but 7 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-08/2024-01-09_planning-commission-meeting.md m8: AYES declared 7 but 8 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m1: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m2: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m3: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m4: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m5: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m6: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m7: AYES declared 5 but 6 names listed
+  [REVIZE] planning_commission/minutes/2024/2024-01-22/2024-01-23_planning-commission-meeting.md m8: AYES declared 6 but 7 names listed
+
+PER-YEAR (source format / motions):
+  2020: pmn=18 revize=0 motions=166
+  2021: pmn=21 revize=0 motions=205
+  2022: pmn=19 revize=0 motions=143
+  2023: pmn=18 revize=0 motions=112
+  2024: pmn=0 revize=26 motions=151
+  2025: pmn=0 revize=20 motions=168
+  2026: pmn=0 revize=11 motions=80
+
+INFO / no-vote meetings:
+  INFO  planning_commission/minutes/2021/2021-10-04/2021-10-07_planning-commission-work-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2022/2022-05-02/2022-05-04_planning-commission-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2022/2022-06-06/2022-06-09_planning-commission-work-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2022/2022-08-22/2022-08-25_planning-commission-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2023/2023-12-18/2023-12-19_planning-commission-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2024/2024-02-26/2024-02-29_planning-commission-joint-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2024/2024-05-20/2024-05-23_planning-commission-work-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2024/2024-12-09/2024-12-10_planning-commission-work-meeting.md: no motion/vote blocks
+  INFO  planning_commission/minutes/2026/2026-05-25/2026-05-28_planning-commission-joint-meeting.md: no motion/vote blocks
+
+UNPARSED:

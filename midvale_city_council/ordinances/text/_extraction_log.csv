@@ -1,0 +1,262 @@
+file,sidecar,chars,format,extraction_method
+2012-O-01.pdf,2012-O-01.txt,10393,text,pdftotext -layout
+2012-O-02.pdf,2012-O-02.txt,16419,text,pdftotext -layout
+2012-O-03.pdf,2012-O-03.txt,12330,text,pdftotext -layout
+2012-O-04.pdf,2012-O-04.txt,9436,text,pdftotext -layout
+2012-O-05.pdf,2012-O-05.txt,24371,text,pdftotext -layout
+2012-O-06.pdf,2012-O-06.txt,18497,text,pdftotext -layout
+2012-O-07.pdf,2012-O-07.txt,11945,text,pdftotext -layout
+2012-O-08.pdf,2012-O-08.txt,17369,text,pdftotext -layout
+2012-O-09.pdf,2012-O-09.txt,50523,text,pdftotext -layout
+2012-O-10.pdf,2012-O-10.txt,18408,text,pdftotext -layout
+2012-O-11.pdf,2012-O-11.txt,10317,text,pdftotext -layout
+2012-O-12.pdf,2012-O-12.txt,135454,text,pdftotext -layout
+2012-O-13.pdf,2012-O-13.txt,11133,text,pdftotext -layout
+2012-O-14.pdf,2012-O-14.txt,9400,text,pdftotext -layout
+2012-O-15.pdf,2012-O-15.txt,15114,text,pdftotext -layout
+2012-O-16.pdf,2012-O-16.txt,26397,text,pdftotext -layout
+2012-O-17.pdf,2012-O-17.txt,17762,text,pdftotext -layout
+2012-O-18.pdf,2012-O-18.txt,7397,scanned,tesseract 5 OCR @300dpi (5pg)
+2012-O-19.pdf,2012-O-19.txt,5636,scanned,tesseract 5 OCR @300dpi (4pg)
+2013-O-01.pdf,2013-O-01.txt,22598,scanned,tesseract 5 OCR @300dpi (12pg)
+2013-O-02.pdf,2013-O-02.txt,7500,scanned,tesseract 5 OCR @300dpi (4pg)
+2013-O-03.pdf,2013-O-03.txt,5729,scanned,tesseract 5 OCR @300dpi (4pg)
+2013-O-04.pdf,2013-O-04.txt,121351,text,pdftotext -layout
+2013-O-05.pdf,2013-O-05.txt,2919,text,pdftotext -layout
+2013-O-06.pdf,2013-O-06.txt,3935,text,pdftotext -layout
+2013-O-07.pdf,2013-O-07.txt,6249,text,pdftotext -layout
+2013-O-08.pdf,2013-O-08.txt,40004,text,pdftotext -layout
+2013-O-09.pdf,2013-O-09.txt,5353,text,pdftotext -layout
+2013-O-10.pdf,2013-O-10.txt,7327,text,pdftotext -layout
+2013-O-11.pdf,2013-O-11.txt,4436,text,pdftotext -layout
+2013-O-12.pdf,2013-O-12.txt,6177,text,pdftotext -layout
+2013-O-13.pdf,2013-O-13.txt,4629,scanned,tesseract 5 OCR @300dpi (3pg)
+2014-O-01.pdf,2014-O-01.txt,5484,scanned,tesseract 5 OCR @300dpi (3pg)
+2014-O-02.pdf,2014-O-02.txt,6782,text,pdftotext -layout
+2014-O-03.pdf,2014-O-03.txt,9573,text,pdftotext -layout
+2014-O-04.pdf,2014-O-04.txt,10620,text,pdftotext -layout
+2014-O-05.pdf,2014-O-05.txt,4827,text,pdftotext -layout
+2014-O-06.pdf,2014-O-06.txt,5825,text,pdftotext -layout
+2014-O-07.pdf,2014-O-07.txt,45215,text,pdftotext -layout
+2014-O-08.pdf,2014-O-08.txt,3288,text,pdftotext -layout
+2014-O-09.pdf,2014-O-09.txt,11883,text,pdftotext -layout
+2014-O-10.pdf,2014-O-10.txt,15444,text,pdftotext -layout
+2015-O-01.pdf,2015-O-01.txt,23403,text,pdftotext -layout
+2015-O-02.pdf,2015-O-02.txt,2920,text,pdftotext -layout
+2015-O-03.pdf,2015-O-03.txt,9644,text,pdftotext -layout
+2015-O-04.pdf,2015-O-04.txt,10725,text,pdftotext -layout
+2015-O-05.pdf,2015-O-05.txt,10831,text,pdftotext -layout
+2015-O-06.pdf,2015-O-06.txt,9247,text,pdftotext -layout
+2015-O-07.pdf,2015-O-07.txt,12596,text,pdftotext -layout
+2015-O-08.pdf,2015-O-08.txt,7761,text,pdftotext -layout
+2015-O-09.pdf,2015-O-09.txt,3442,text,pdftotext -layout
+2015-O-10.pdf,2015-O-10.txt,28454,text,pdftotext -layout
+2015-O-11.pdf,2015-O-11.txt,7019,text,pdftotext -layout
+2015-O-12.pdf,2015-O-12.txt,14612,text,pdftotext -layout
+2015-O-13.pdf,2015-O-13.txt,10401,text,pdftotext -layout
+2015-O-14.pdf,2015-O-14.txt,8953,text,pdftotext -layout
+2016-O-01.pdf,2016-O-01.txt,64670,text,pdftotext -layout
+2016-O-02.pdf,2016-O-02.txt,7379,text,pdftotext -layout
+2016-O-03.pdf,2016-O-03.txt,5105,scanned,tesseract 5 OCR @300dpi (3pg)
+2016-O-04.pdf,2016-O-04.txt,8329,text,pdftotext -layout
+2016-O-05.pdf,2016-O-05.txt,5253,scanned,tesseract 5 OCR @300dpi (3pg)
+2016-O-06.pdf,2016-O-06.txt,4213,scanned,tesseract 5 OCR @300dpi (3pg)
+2016-O-07.pdf,2016-O-07.txt,25235,scanned,tesseract 5 OCR @300dpi (15pg)
+2016-O-08.pdf,2016-O-08.txt,9183,scanned,tesseract 5 OCR @300dpi (6pg)
+2016-O-09.pdf,2016-O-09.txt,4360,scanned,tesseract 5 OCR @300dpi (3pg)
+2016-O-10.pdf,2016-O-10.txt,8613,scanned,tesseract 5 OCR @300dpi (5pg)
+2016-O-11.pdf,2016-O-11.txt,13691,scanned,tesseract 5 OCR @300dpi (8pg)
+2016-O-12.pdf,2016-O-12.txt,11217,scanned,tesseract 5 OCR @300dpi (8pg)
+2016-O-13.pdf,2016-O-13.txt,2443,scanned,tesseract 5 OCR @300dpi (2pg)
+2016-O-14.pdf,2016-O-14.txt,3676,scanned,tesseract 5 OCR @300dpi (3pg)
+2016-O-15.pdf,2016-O-15.txt,21202,scanned,tesseract 5 OCR @300dpi (15pg)
+2016-O-16.pdf,2016-O-16.txt,7163,scanned,tesseract 5 OCR @300dpi (4pg)
+2017-O-01.pdf,2017-O-01.txt,4971,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-02.pdf,2017-O-02.txt,7907,scanned,tesseract 5 OCR @300dpi (6pg)
+2017-O-03.pdf,2017-O-03.txt,11960,text,pdftotext -layout
+2017-O-04.pdf,2017-O-04.txt,22737,scanned,tesseract 5 OCR @300dpi (15pg)
+2017-O-05.pdf,2017-O-05.txt,5466,text,pdftotext -layout
+2017-O-06.pdf,2017-O-06.txt,4016,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-07.pdf,2017-O-07.txt,29079,scanned,tesseract 5 OCR @300dpi (13pg)
+2017-O-08.pdf,2017-O-08.txt,3234,scanned,tesseract 5 OCR @300dpi (2pg)
+2017-O-09.pdf,2017-O-09.txt,4049,scanned,tesseract 5 OCR @300dpi (2pg)
+2017-O-10.pdf,2017-O-10.txt,4900,scanned,tesseract 5 OCR @300dpi (7pg)
+2017-O-11.pdf,2017-O-11.txt,4594,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-12.pdf,2017-O-12.txt,4883,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-13.pdf,2017-O-13.txt,4839,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-14.pdf,2017-O-14.txt,5467,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-15.pdf,2017-O-15.txt,4603,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-16.pdf,2017-O-16.txt,4188,scanned,tesseract 5 OCR @300dpi (3pg)
+2017-O-17.pdf,2017-O-17.txt,27470,scanned,tesseract 5 OCR @300dpi (15pg)
+2017-O-19.pdf,2017-O-19.txt,6086,scanned,tesseract 5 OCR @300dpi (5pg)
+2017-O-20.pdf,2017-O-20.txt,6928,scanned,tesseract 5 OCR @300dpi (4pg)
+2018-O-01.pdf,2018-O-01.txt,46728,scanned,tesseract 5 OCR @300dpi (15pg)
+2018-O-02.pdf,2018-O-02.txt,5294,scanned,tesseract 5 OCR @300dpi (3pg)
+2018-O-03.pdf,2018-O-03.txt,12392,scanned,tesseract 5 OCR @300dpi (7pg)
+2018-O-04.pdf,2018-O-04.txt,2164,scanned,tesseract 5 OCR @300dpi (2pg)
+2018-O-05.pdf,2018-O-05.txt,2904,scanned,tesseract 5 OCR @300dpi (2pg)
+2018-O-06.pdf,2018-O-06.txt,38817,scanned,tesseract 5 OCR @300dpi (first 15 of 50pp; gs-repaired corrupt xref)
+2018-O-07.pdf,2018-O-07.txt,20744,scanned,tesseract 5 OCR @300dpi (8pg)
+2018-O-08.pdf,2018-O-08.txt,4991,scanned,tesseract 5 OCR @300dpi (4pg; gs-repaired corrupt xref)
+2018-O-09.pdf,2018-O-09.txt,52925,scanned,tesseract 5 OCR @300dpi (15pg)
+2018-O-10.pdf,2018-O-10.txt,35876,scanned,tesseract 5 OCR @300dpi (15pg)
+2018-O-11.pdf,2018-O-11.txt,23843,scanned,tesseract 5 OCR @300dpi (10pg)
+2018-O-12.pdf,2018-O-12.txt,36526,scanned,tesseract 5 OCR @300dpi (15pg)
+2018-O-13.pdf,2018-O-13.txt,9042,scanned,tesseract 5 OCR @300dpi (4pg)
+2018-O-14.pdf,2018-O-14.txt,4492,scanned,tesseract 5 OCR @300dpi (3pg)
+2018-O-15.pdf,2018-O-15.txt,5325,scanned,tesseract 5 OCR @300dpi (4pg)
+2018-O-17.pdf,2018-O-17.txt,4139,scanned,tesseract 5 OCR @300dpi (2pg)
+2019-O-01.pdf,2019-O-01.txt,10515,scanned,tesseract 5 OCR @300dpi (6pg)
+2019-O-02.pdf,2019-O-02.txt,5284,scanned,tesseract 5 OCR @300dpi (3pg)
+2019-O-03.pdf,2019-O-03.txt,28881,scanned,tesseract 5 OCR @300dpi (15pg)
+2019-O-04.pdf,2019-O-04.txt,5243,scanned,tesseract 5 OCR @300dpi (2pg)
+2019-O-05.pdf,2019-O-05.txt,14893,scanned,tesseract 5 OCR @300dpi (13pg)
+2019-O-06.pdf,2019-O-06.txt,20327,scanned,tesseract 5 OCR @300dpi (15pg)
+2019-O-07.pdf,2019-O-07.txt,15649,scanned,tesseract 5 OCR @300dpi (7pg)
+2019-O-08.pdf,2019-O-08.txt,12485,scanned,tesseract 5 OCR @300dpi (10pg)
+2019-O-09.pdf,2019-O-09.txt,8979,scanned,tesseract 5 OCR @300dpi (5pg)
+2019-O-10.pdf,2019-O-10.txt,21363,scanned,tesseract 5 OCR @300dpi (15pg)
+2019-O-12.pdf,2019-O-12.txt,5921,scanned,tesseract 5 OCR @300dpi (4pg)
+2019-O-13.pdf,2019-O-13.txt,2408,scanned,tesseract 5 OCR @300dpi (2pg)
+2020-O-01.pdf,2020-O-01.txt,41390,scanned,tesseract 5 OCR @300dpi (15pg)
+2020-O-02.pdf,2020-O-02.txt,15690,scanned,tesseract 5 OCR @300dpi (15pg)
+2020-O-03.pdf,2020-O-03.txt,60130,scanned,tesseract 5 OCR @300dpi (15pg)
+2020-O-04.pdf,2020-O-04.txt,19468,scanned,tesseract 5 OCR @300dpi (15pg)
+2020-O-05.pdf,2020-O-05.txt,9460,scanned,tesseract 5 OCR @300dpi (5pg)
+2020-O-06.pdf,2020-O-06.txt,4737,scanned,tesseract 5 OCR @300dpi (3pg)
+2020-O-07.pdf,2020-O-07.txt,6122,scanned,tesseract 5 OCR @300dpi (4pg)
+2020-O-08.pdf,2020-O-08.txt,4178,scanned,tesseract 5 OCR @300dpi (2pg)
+2020-O-09.pdf,2020-O-09.txt,21723,scanned,tesseract 5 OCR @300dpi (15pg)
+2020-O-10.pdf,2020-O-10.txt,8162,scanned,tesseract 5 OCR @300dpi (5pg)
+2020-O-11.pdf,2020-O-11.txt,4491,scanned,tesseract 5 OCR @300dpi (2pg)
+2020-O-13.pdf,2020-O-13.txt,9484,scanned,tesseract 5 OCR @300dpi (6pg)
+2020-O-15.pdf,2020-O-15.txt,16027,scanned,tesseract 5 OCR @300dpi (8pg)
+2020-O-16.pdf,2020-O-16.txt,7195,scanned,tesseract 5 OCR @300dpi (6pg)
+2020-O-17.pdf,2020-O-17.txt,4719,scanned,tesseract 5 OCR @300dpi (3pg)
+2020-O-18.pdf,2020-O-18.txt,5420,scanned,tesseract 5 OCR @300dpi (3pg)
+2020-O-19.pdf,2020-O-19.txt,9148,scanned,tesseract 5 OCR @300dpi (6pg)
+2020-O-20.pdf,2020-O-20.txt,6145,scanned,tesseract 5 OCR @300dpi (6pg)
+2021-O-02.pdf,2021-O-02.txt,18633,scanned,tesseract 5 OCR @300dpi (15pg)
+2021-O-04.pdf,2021-O-04.txt,5045,scanned,tesseract 5 OCR @300dpi (4pg)
+2021-O-05.pdf,2021-O-05.txt,14064,scanned,tesseract 5 OCR @300dpi (10pg)
+2021-O-06.pdf,2021-O-06.txt,9983,scanned,tesseract 5 OCR @300dpi (5pg)
+2021-O-08.pdf,2021-O-08.txt,17721,scanned,tesseract 5 OCR @300dpi (15pg)
+2021-O-09.pdf,2021-O-09.txt,9501,scanned,tesseract 5 OCR @300dpi (6pg)
+2021-O-10.pdf,2021-O-10.txt,9281,scanned,tesseract 5 OCR @300dpi (6pg)
+2021-O-11.pdf,2021-O-11.txt,6417,scanned,tesseract 5 OCR @300dpi (4pg)
+2021-O-12.pdf,2021-O-12.txt,26039,scanned,tesseract 5 OCR @300dpi (9pg)
+2021-O-13.pdf,2021-O-13.txt,28448,scanned,tesseract 5 OCR @300dpi (13pg)
+2021-O-14.pdf,2021-O-14.txt,3555,scanned,tesseract 5 OCR @300dpi (4pg)
+2021-O-15.pdf,2021-O-15.txt,16514,scanned,tesseract 5 OCR @300dpi (15pg)
+2021-O-16.pdf,2021-O-16.txt,5396,text,pdftotext -layout
+2021-O-17.pdf,2021-O-17.txt,28605,text,pdftotext -layout
+2021-O-18.pdf,2021-O-18.txt,10667,text,pdftotext -layout
+2021-O-19.pdf,2021-O-19.txt,508693,text,pdftotext -layout
+2021-O-20.pdf,2021-O-20.txt,31599,text,pdftotext -layout
+2021-O-21.pdf,2021-O-21.txt,2740,text,pdftotext -layout
+2021-O-22.pdf,2021-O-22.txt,174815,text,pdftotext -layout
+2021-O-23.pdf,2021-O-23.txt,11370,text,pdftotext -layout
+2021-O-24.pdf,2021-O-24.txt,25645,text,pdftotext -layout
+2022-O-01.pdf,2022-O-01.txt,113023,text,pdftotext -layout
+2022-O-02.pdf,2022-O-02.txt,11760,text,pdftotext -layout
+2022-O-03.pdf,2022-O-03.txt,20857,scanned,tesseract 5 OCR @300dpi (15pg)
+2022-O-03_b.pdf,2022-O-03_b.txt,20857,scanned,tesseract 5 OCR @300dpi (15pg)
+2022-O-04.pdf,2022-O-04.txt,3704,scanned,tesseract 5 OCR @300dpi (3pg)
+2022-O-05.pdf,2022-O-05.txt,6085,scanned,tesseract 5 OCR @300dpi (4pg)
+2022-O-07.pdf,2022-O-07.txt,10093,scanned,tesseract 5 OCR @300dpi (6pg)
+2022-O-09.pdf,2022-O-09.txt,12260,text,pdftotext -layout
+2022-O-10.pdf,2022-O-10.txt,4521,text,pdftotext -layout
+2022-O-11.pdf,2022-O-11.txt,4701,text,pdftotext -layout
+2022-O-12.pdf,2022-O-12.txt,10996,text,pdftotext -layout
+2022-O-13.pdf,2022-O-13.txt,7405,text,pdftotext -layout
+2022-O-14.pdf,2022-O-14.txt,30022,text,pdftotext -layout
+2022-O-15.pdf,2022-O-15.txt,4593,text,pdftotext -layout
+2022-O-17.pdf,2022-O-17.txt,5334,text,pdftotext -layout
+2022-O-18.pdf,2022-O-18.txt,4387,text,pdftotext -layout
+2022-O-19.pdf,2022-O-19.txt,14028,text,pdftotext -layout
+2022-O-20.pdf,2022-O-20.txt,7166,text,pdftotext -layout
+2022-R-08.pdf,2022-R-08.txt,25523,text,pdftotext -layout
+2023-O-01.pdf,2023-O-01.txt,10070,text,pdftotext -layout
+2023-O-02.pdf,2023-O-02.txt,96667,text,pdftotext -layout
+2023-O-03.pdf,2023-O-03.txt,12021,text,pdftotext -layout
+2023-O-04.pdf,2023-O-04.txt,30230,text,pdftotext -layout
+2023-O-05.pdf,2023-O-05.txt,4205,text,pdftotext -layout
+2023-O-06.pdf,2023-O-06.txt,6056,text,pdftotext -layout
+2023-O-07.pdf,2023-O-07.txt,22824,text,pdftotext -layout
+2023-O-08.pdf,2023-O-08.txt,5952,text,pdftotext -layout
+2023-O-09.pdf,2023-O-09.txt,6055,text,pdftotext -layout
+2023-O-10.pdf,2023-O-10.txt,4635,text,pdftotext -layout
+2023-O-11.pdf,2023-O-11.txt,46860,text,pdftotext -layout
+2023-O-14.pdf,2023-O-14.txt,16386,text,pdftotext -layout
+2023-O-15_pub.doc,2023-O-15_pub.txt,418,text,textutil
+2023-O-16.pdf,2023-O-16.txt,4998,text,pdftotext -layout
+2024-O-01.pdf,2024-O-01.txt,28327,scanned,tesseract 5 OCR @300dpi (15pg)
+2024-O-02_pub.pdf,2024-O-02_pub.txt,799,text,pdftotext -layout
+2024-O-03.pdf,2024-O-03.txt,6070,text,pdftotext -layout
+2024-O-04.pdf,2024-O-04.txt,6123,text,pdftotext -layout
+2024-O-05.pdf,2024-O-05.txt,7780,text,pdftotext -layout
+2024-O-06.pdf,2024-O-06.txt,48266,text,pdftotext -layout
+2024-O-07.pdf,2024-O-07.txt,46015,text,pdftotext -layout
+2024-O-08.pdf,2024-O-08.txt,30602,text,pdftotext -layout
+2024-O-10.pdf,2024-O-10.txt,3717,text,pdftotext -layout
+2024-O-11.pdf,2024-O-11.txt,17724,text,pdftotext -layout
+2024-O-12.pdf,2024-O-12.txt,13247,text,pdftotext -layout
+2024-O-14.pdf,2024-O-14.txt,3181,text,pdftotext -layout
+2024-O-15.pdf,2024-O-15.txt,33157,text,pdftotext -layout
+2024-O-16.pdf,2024-O-16.txt,24627,text,pdftotext -layout
+2024-O-17.pdf,2024-O-17.txt,8112,text,pdftotext -layout
+2024-O-18.pdf,2024-O-18.txt,12319,text,pdftotext -layout
+2024-O-19.pdf,2024-O-19.txt,6101,text,pdftotext -layout
+2024-O-20.pdf,2024-O-20.txt,5911,text,pdftotext -layout
+2024-O-21.pdf,2024-O-21.txt,24931,scanned,tesseract 5 OCR @300dpi (13pg)
+2024-O-23.pdf,2024-O-23.txt,3978,text,pdftotext -layout
+2024-O-24.pdf,2024-O-24.txt,3135,text,pdftotext -layout
+2024-O-25.pdf,2024-O-25.txt,3666,text,pdftotext -layout
+2024-O-26.pdf,2024-O-26.txt,4406,text,pdftotext -layout
+2024-O-27.pdf,2024-O-27.txt,9831,scanned,tesseract 5 OCR @300dpi (15pg)
+2024-O-28.pdf,2024-O-28.txt,7904,scanned,tesseract 5 OCR @300dpi (10pg)
+2024-O-29.pdf,2024-O-29.txt,2286,text,pdftotext -layout
+2024-O-30.pdf,2024-O-30.txt,13131,text,pdftotext -layout
+2024-O-31.pdf,2024-O-31.txt,4635,text,pdftotext -layout
+2024-R-06_pub.pdf,2024-R-06_pub.txt,784,text,pdftotext -layout
+2024-R-08_pub.pdf,2024-R-08_pub.txt,786,text,pdftotext -layout
+2024-R-20_pub.pdf,2024-R-20_pub.txt,868,text,pdftotext -layout
+2025-O-01.pdf,2025-O-01.txt,3241,scanned,"tesseract 5 OCR @300dpi (4pg; DocuSign text-layer only, forced OCR)"
+2025-O-02.pdf,2025-O-02.txt,56398,text,pdftotext -layout
+2025-O-03.pdf,2025-O-03.txt,247464,text,pdftotext -layout
+2025-O-04.pdf,2025-O-04.txt,4996,text,pdftotext -layout
+2025-O-05.pdf,2025-O-05.txt,8562,text,pdftotext -layout
+2025-O-06.pdf,2025-O-06.txt,40605,text,pdftotext -layout
+2025-O-07.pdf,2025-O-07.txt,4124,text,pdftotext -layout
+2025-O-10.pdf,2025-O-10.txt,11894,text,pdftotext -layout
+2025-O-11.pdf,2025-O-11.txt,4575,text,pdftotext -layout
+2025-O-12.pdf,2025-O-12.txt,5885,text,pdftotext -layout
+2025-O-13.pdf,2025-O-13.txt,7931,text,pdftotext -layout
+2025-O-14.pdf,2025-O-14.txt,4081,text,pdftotext -layout
+2025-O-15.pdf,2025-O-15.txt,3883,text,pdftotext -layout
+2025-O-16.pdf,2025-O-16.txt,17096,scanned,tesseract 5 OCR @300dpi (15pg)
+2025-O-17.pdf,2025-O-17.txt,11625,scanned,tesseract 5 OCR @300dpi (15pg)
+2025-O-18.pdf,2025-O-18.txt,311458,text,pdftotext -layout
+2025-O-19.pdf,2025-O-19.txt,26694,scanned,tesseract 5 OCR @300dpi (15pg)
+2025-O-20.pdf,2025-O-20.txt,2822,text,pdftotext -layout
+2025-O-21.pdf,2025-O-21.txt,1303,text,pdftotext -layout
+2025-O-23.pdf,2025-O-23.txt,20844,text,pdftotext -layout
+2026-O-01.pdf,2026-O-01.txt,7696,text,pdftotext -layout
+2026-O-02.pdf,2026-O-02.txt,16527,text,pdftotext -layout
+2026-O-03.pdf,2026-O-03.txt,3845,text,pdftotext -layout
+2026-O-04.pdf,2026-O-04.txt,2962,text,pdftotext -layout
+2026-O-06.pdf,2026-O-06.txt,27601,text,pdftotext -layout
+2026-O-07.pdf,2026-O-07.txt,28915,text,pdftotext -layout
+2026-O-08.pdf,2026-O-08.txt,82841,text,pdftotext -layout
+2026-O-09.pdf,2026-O-09.txt,6659,scanned,tesseract 5 OCR @300dpi (15pg)
+2026-O-10.pdf,2026-O-10.txt,10400,text,pdftotext -layout
+2026-O-11.pdf,2026-O-11.txt,7268,text,pdftotext -layout
+2026-O-12.pdf,2026-O-12.txt,17785,text,pdftotext -layout
+2026-O-14.pdf,2026-O-14.txt,41079,text,pdftotext -layout
+2026-O-15.pdf,2026-O-15.txt,19659,scanned,tesseract 5 OCR @300dpi (15pg)
+2026-O-16.pdf,2026-O-16.txt,19661,text,pdftotext -layout
+2026-O-17.pdf,2026-O-17.txt,21432,text,pdftotext -layout
+2026-O-19.pdf,2026-O-19.txt,13040,scanned,tesseract 5 OCR @300dpi (15pg)
+2026-O-20.pdf,2026-O-20.txt,42146,text,pdftotext -layout
+2026-O-21.pdf,2026-O-21.txt,40737,text,pdftotext -layout
+2026-O-22.pdf,2026-O-22.txt,47581,text,pdftotext -layout

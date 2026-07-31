@@ -1,0 +1,8 @@
+Herriman PC backfill (pmn_backfill -> planning_commission/all_votes.csv)
+recovered meetings parsed : 11
+recovered motions         : 70
+recovered rows            : 272
+canonical rows            : 3389
+merged total rows         : 3661
+zero-vote recovered docs  : 0
+REJECTS (never merged): 2022-04-21 (not minutes (mislabeled zoning use-table attachment)); 2023-11-01 (draft (Pending Formal Approval))

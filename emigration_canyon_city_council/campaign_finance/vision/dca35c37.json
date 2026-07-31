@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": null, "name": "Dillon Wheelock", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Candidate", "purpose": "filling fee", "amount": "50", "in_kind": false}
+  ],
+  "total_contributions": "50",
+  "total_expenditures": "50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/city_electioninfo_dillon-wheelock.pdf",
+    "candidate": "Dillon Wheelock",
+    "office": "City of Emigration Canyon Council (2025, at-large)",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/city_electioninfo_dillon-wheelock.pdf",
+    "pages": 5
+  }
+}

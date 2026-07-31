@@ -1,0 +1,157 @@
+# White City Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/1274777.pdf
+> Meeting date: 2025-04-22
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2025-04-22
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/1274777.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                             Planning and Development Services
+                                             2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                             Phone: (385) 468-6700 • Fax: (385) 468-6674
+
+
+
+                                            MEETING MINUTE SUMMARY
+                                   WHITE CITY PLANNING COMMISSION MEETING
+                                       Thursday, April 22, 2025, 6:00 p.m.
+
+                             **Meeting minutes approved on May 20, 2025**
+Approximate meeting length: 45 minutes                                    *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 0                                         found on the State websites, or from Planning &
+                                                                          Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner Seiger-Webster
+
+                                                   ATTENDANCE
+Commissioners and Staff:
+
+                                   Public     Business
+         Commissioners                                   Absent                                                 Public      Business
+                                    Mtg         Mtg                              Planning Staff / DA
+                                                                                                                 Mtg          Mtg
+  Christy Seiger-Webster (Chair)     x           x
+     Christopher Spagnuolo           x           x                                  Wendy Gurr                     x            x
+    Weston Millen (Alternate)        x           x                                   Jeff Miller                   x            x
+     Christopher Huntzinger                                x                       Chad Anderson                   x
+                                                                                    Jay Springer                   x            x
+
+
+                                                BUSINESS MEETING
+
+                                             Meeting began at – 6:01 p.m.
+    1) Election of Chair and Vice Chair 2025. (Motion/Voting)
+       Election of Chair for 2025
+       Motion: To nominate Commissioner Seiger-Webster as Chair for 2025, Commissioner Seiger-
+       Webster accepted that nomination.
+              Motion by: Commissioner Millen
+              2nd by: Commissioner Seiger-Webster
+              Vote: Commissioners voted unanimously in favor (of commissioners present)
+         Election of Vice Chair for 2025
+         Motion: To nominate Commissioner Spagnuolo as Vice Chair for 2025, Commissioner Spagnuolo
+         accepted that nomination.
+                Motion by: Commissioner Millen
+                2nd by: Commissioner Seiger-Webster
+                Vote: Commissioners voted unanimously in favor (of commissioners present)
+
+    2) 2025 Planning Commission Meeting Schedule. (Motion/Voting)
+       Motion: To approve the 2025 Planning Commission Meeting Schedule.
+              Motion by: Commissioner Millen
+              2nd by: Commissioner Spagnuolo
+
+White City Planning Commission – April 22, 2025 – Meeting Summary                                                      Page 1 of 3
+                Vote: Commissioners voted unanimously in favor (of commissioners present)
+
+    3) Approval of September 26, 2024, Planning Commission Meeting minutes.
+       Motion: To approve September 26, 2024, Planning Commission Meeting minutes.
+             Motion by: Commissioner Seiger-Webster
+             2nd by: Commissioner Spagnuolo
+             Vote: Commissioners voted unanimously in favor (of commissioners present)
+
+    4) Other Business Items (as needed)
+        No other business items to discuss.
+
+
+                                             PUBLIC HEARING(S)
+                                         Hearing began at – 6:06 p.m.
+
+OAM2025-001372 – Consideration of an ordinance adopting White City’s Engineering Standard Drawings
+and Specifications. The proposed ordinance includes the adoption by reference of the latest revision of
+AASHTO “A Policy on Geometric Design of Highways and Streets” (Green Book), the Utah Manual on
+Uniform Traffic Control Devices (MUTCD), and APWA Manual of Standard Plans and Manual of Standard
+Specifications, with some exceptions noted in the document. Presenter: MSD Engineering
+(Discussion/Recommendation)
+
+Greater Salt Lake Municipal Services District Engineering Manager Chad Anderson provided an analysis
+of the code amendments.
+
+Commissioners and staff had a brief discussion of the difference in fill types, APWA Standards, street
+lighting, roadway requirement standards, and design elements.
+
+Commissioner Seiger-Webster opened the public hearing.
+
+                               PUBLIC PORTION OF HEARING OPENED
+
+No one from the public is present to speak.
+
+                               PUBLIC PORTION OF HEARING CLOSED
+
+Motion: To recommend application #OAM2025-001372 Consideration of an ordinance adopting White
+City’s Engineering Standard Drawings and Specifications. The proposed ordinance includes the adoption
+by reference of the latest revision of AASHTO “A Policy on Geometric Design of Highways and Streets”
+(Green Book), the Utah Manual on Uniform Traffic Control Devices (MUTCD), and APWA Manual of
+Standard Plans and Manual of Standard Specifications, with some exceptions noted in the to the White City
+Council for approval with an amendment that may consider issues around styles and guidelines for lighting.
+        Motion by: Commissioner Spagnuolo
+        2nd by: Commissioner Millen
+        Vote: Commissioners voted unanimously in favor (of commissioners present)
+
+
+OAM2025-001373 - Proposed ordinance amending White City Code, Subsection 19.46.100. Infrastructure
+and Public Improvements, to clarifying when infrastructure and public improvements must be installed by
+
+White City Planning Commission – April 22, 2025 – Meeting Summary                              Page 2 of 3
+a developer subject to the limitations on exactions in Utah Code. Planner: Brian Tucker
+(Discussion/Recommendation)
+
+Greater Salt Lake Municipal Services District Planner Jeff Miller provided an analysis of the code
+amendments.
+
+Commissioners and staff had a brief discussion regarding delay agreements.
+
+Commissioner Seiger-Webster motioned to open the public hearing.
+
+                               PUBLIC PORTION OF HEARING OPENED
+
+No one from the public is present to speak.
+
+
+                               PUBLIC PORTION OF HEARING CLOSED
+
+Motion: To recommend application #OAM2025-001373 Proposed ordinance amending White City Code,
+Subsection 19.46.100. Infrastructure and Public Improvements, to clarifying when infrastructure and public
+improvements must be installed by a developer subject to the limitations on exactions in Utah Code to the
+White City Council for approval.
+       Motion by: Commissioner Spagnuolo
+       2nd by: Commissioner Millen
+       Vote: Commissioners voted unanimously in favor (of commissioners present)
+
+
+Commissioners Spagnuolo motioned to adjourn.
+
+                                           HEARING ADJOURNED
+                                          Time Adjourned – 6:46 p.m.
+
+
+
+
+White City Planning Commission – April 22, 2025 – Meeting Summary                              Page 3 of 3
+

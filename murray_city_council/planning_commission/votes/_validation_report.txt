@@ -1,0 +1,140 @@
+Murray Planning Commission — vote extraction validation report
+========================================================================
+Meeting JSONs      : 120
+Motions extracted  : 678  (named 407 / tally-only 271)
+Distinct results   : 59
+
+Named vs tally-only by year (named roll calls exist only in 2022 — source seam):
+   2020: named  87 / tally-only  54
+   2021: named  76 / tally-only  51
+   2022: named  61 / tally-only  49
+   2023: named  53 / tally-only  35
+   2024: named  67 / tally-only  41
+   2025: named  48 / tally-only  30
+   2026: named  15 / tally-only  11
+
+Motion-type distribution:
+   Land-Use/Zoning            460
+   Procedural/Administrative  169
+   Ceremonial                 18
+   Other                      18
+   Appointment                12
+   Resolution                 1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (named vote rows only — 2022):
+------------------------------------------------------------------------
+
+2020:
+   Lisa Milkavich         87
+   Ned Hacker             82
+   Sue Wilson             81
+   Phil Markham           81
+   Travis Nay             78
+   Maren Patterson        70
+   Scot Woodbury          68
+
+2021:
+   Lisa Milkavich         76
+   Ned Hacker             72
+   Maren Patterson        71
+   Jake Pehrson           70
+   Sue Wilson             67
+   Travis Nay             64
+   Jeremy Lowry           52
+   Phil Markham           2
+   Scot Woodbury          2
+
+2022:
+   Lisa Milkavich         51
+   Jake Pehrson           51
+   Travis Nay             48
+   Maren Patterson        47
+   Jeremy Lowry           47
+   Ned Hacker             46
+   Michael Richards       43
+
+2023:
+   Jake Pehrson           51
+   Ned Hacker             48
+   Travis Nay             44
+   Lisa Milkavich         44
+   Maren Patterson        43
+   Michael Richards       37
+   Jeremy Lowry           27
+   Michael Henrie         8
+
+2024:
+   Lisa Milkavich         63
+   Jake Pehrson           62
+   Maren Patterson        61
+   Pete Hristou           61
+   Michael Richards       57
+   Michael Henrie         54
+   Ned Hacker             45
+   Travis Nay             1
+
+2025:
+   Michael Richards       45
+   Ned Hacker             44
+   Pete Hristou           43
+   Jake Pehrson           40
+   Katie Rogers           38
+   Aaron Hildreth         38
+   Peter Klinge           33
+   Maren Patterson        3
+   Lisa Milkavich         3
+   Michael Henrie         3
+
+2026:
+   Pete Hristou           15
+   Jake Pehrson           15
+   Ned Hacker             14
+   Michael Richards       13
+   Katie Rogers           12
+   Aaron Hildreth         10
+   Peter Klinge           6
+
+========================================================================
+HARD CHECKS
+========================================================================
+Off-roster named voters : 0   {}
+Bad vote values         : 0
+>7-voter roll calls     : 0
+
+========================================================================
+SOFT CHECKS
+========================================================================
+Tally-vs-named mismatches: 2
+   2022-04-07 m5: named 7-0 vs printed 6-0 :: Motion passed 6-0
+   2025-06-05 m5: named 5-1 vs printed 6-0 :: Motion passes: 6-0
+
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 27
+   2020-01-16 m4 Motion passed 5-0 | NAY=[] ABSTAIN=['Sue Wilson'] RECUSE=[] :: to forward a recommendation of approval to the City Council for the re
+   2020-05-21 m6 Motion passed 4-2 | NAY=['Ned Hacker', 'Phil Markham'] ABSTAIN=[] RECUSE=[] :: to grant Preliminary Approval for the proposed Applegate Townhomes PUD
+   2020-11-19 m7 Motion passed 5-1 | NAY=['Ned Hacker'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of approval to the City Council to repeal 
+   2020-12-03 m3 Motion passed 6-1 | NAY=['Lisa Milkavich'] ABSTAIN=[] RECUSE=[] :: to approve a Conditional Use Permit to allow the operation of a Vehicl
+   2021-05-06 m4 Motion passed 4-3 | NAY=['Sue Wilson', 'Ned Hacker', 'Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of approval to the City Council for the re
+   2021-05-06 m5 Motion passed 4-3 | NAY=['Sue Wilson', 'Ned Hacker', 'Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: that we forward a recommendation of approval to the City Council for t
+   2021-08-19 m9 Motion passed 4-3, recommending denial of the proposed ordinance | NAY=['Maren Patterson', 'Jake Pehrson', 'Sue Wilson'] ABSTAIN=[] RECUSE=[] :: to recommend denial of the proposed chapter 17.77 Short Term Rentals t
+   2021-10-21 m4 Motion passed 6-1 | NAY=['Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of approval to the City Council for the re
+   2021-10-21 m5 Motion passed 5-2 | NAY=['Jeremy Lowry', 'Sue Wilson'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of an approval to the City Council for the
+   2021-10-21 m6 Motion passed 5-2 | NAY=['Jeremy Lowry', 'Sue Wilson'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of an approval to the City Council for the
+   2022-01-06 m7 Motion passed 3-2 | NAY=['Lisa Milkavich', 'Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of approval to t
+   2022-10-06 m5 Motion passes 5-1, Mr | NAY=['Travis Nay'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of approval to the city council for the re
+   2022-11-03 m3 Motion passed 5-1 | NAY=['Jeremy Lowry'] ABSTAIN=[] RECUSE=[] :: to approve the conditional use permit of Triangle Auto Sales subject t
+   2022-11-03 m4 Motion passed 5-1 | NAY=['Jeremy Lowry'] ABSTAIN=[] RECUSE=[] :: to approve the conditional use permit of Gold Star Auto Sales subject 
+   2022-11-17 m5 Motion Passes 5-1 | NAY=['Michael Richards'] ABSTAIN=[] RECUSE=[] :: to approve the application, based on the information presented in this
+   2023-12-07 m5 Motion passed: 5-2 | NAY=['Michael Henrie', 'Travis Nay'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of approval to t
+   2024-07-18 m7 Motion passes: 3-1 | NAY=['Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: to table the agenda item until staff modifies the language in the ordi
+   2024-09-05 m2 Motion passes: 4-2 | NAY=['Ned Hacker', 'Michael Richards'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission approve the proposed amendment to the App
+   2024-09-05 m3 Motion passes: 4-2 | NAY=['Ned Hacker', 'Michael Richards'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission approve the proposed amendment to the Fuj
+   2024-09-05 m8 Motion passes: 4-2 | NAY=['Maren Patterson', 'Pete Hristou'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation to the City Coun
+   2024-09-05 m9 Motion passes: 4-2 | NAY=['Maren Patterson', 'Pete Hristou'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of denial to the
+   2024-10-03 m6 Motion passes: 5-1 | NAY=['Michael Henrie'] ABSTAIN=[] RECUSE=[] :: to forward a recommendation of approval to the City Council for the pr
+   2024-10-17 m9 Motion passes: 4-3 | NAY=['Maren Patterson', 'Ned Hacker', 'Michael Henrie'] ABSTAIN=[] RECUSE=[] :: to recommend approval to the City Council for the request to amend the
+   2025-05-01 m4 Motion passes: 6-1 | NAY=['Peter Klinge'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission approve the Planned Unit Development and 
+   2025-06-05 m5 Motion passes: 6-0 | NAY=['Jake Pehrson'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of approval to t
+   2025-08-07 m5 Motion fails: 0-6 | NAY=['Aaron Hildreth', 'Pete Hristou', 'Peter Klinge', 'Jake Pehrson', 'Michael Richards', 'Katie Rogers'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of approval to t
+   2025-10-16 m3 Motion passes: 4-1 | NAY=['Pete Hristou'] ABSTAIN=[] RECUSE=[] :: that the Planning Commission forward a recommendation of approval to t
+

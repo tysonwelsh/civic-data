@@ -1,0 +1,184 @@
+{
+ "date": "2024-10-24",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1210649.pdf",
+ "path": "minutes/2024/2024-10-21/2024-10-24_city-council-meeting_1210649.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Gray",
+   "seconder": "Quinn",
+   "motion": "APPROVE Ordinance 2024-16 - Amending Title 13 of the City Code to Allow Short-Term Rentals as a Conditional Use in the PO Zone",
+   "motion_type": "Ordinance",
+   "result": "The motion FAILED with a vote of 5-to-0.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Nay",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Nay",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "APPROVE Ordinance 2024-17 - Amending Section 11.04.010 - Clarifying the Enforcement Authority of the Unified Police Department for Traffic Regulations within the City",
+   "motion_type": "Ordinance",
+   "result": "Ordinance 2024-17 was ADOPTED by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "ADJOURN the City Council Meeting and RECONVENE in a Work Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Gray",
+   "motion": "go into Closed Session Pursuant to Utah Code Section 52- 4-204 and 205 to Discuss the Physical or Mental Health or Professional Competence of an Individual, Potential Litigation, Property Acquisition, and Disposition",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    }
+   ]
+  },
+  {
+   "motion_no": 5,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Durham",
+   "motion": "adjourn the Closed Session",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 6,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Quinn",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "11/30/2023", "name": "Matt Bello", "amount": "0.65", "in_kind": false},
+    {"date": "11/30/2023", "name": "Interest Income", "amount": ".06", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "12/13/2023", "recipient": "Friends Of Herriman", "purpose": "Non-profit donation", "amount": "17.82", "in_kind": false}
+  ],
+  "total_contributions": "0.71",
+  "total_expenditures": "17.82",
+  "contributions_50_or_less": null,
+  "beginning_balance": "17.11",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/4058_Matt-BelloDistrict-4.pdf",
+    "candidate": "Matt Bello",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/4058_Matt-BelloDistrict-4.pdf",
+    "pages": 4,
+    "notes": "Final Summary report (box checked: 'No later than 30 days after the date of the Municipal General Election - December 21, 2023'); signed 12/15/2023; candidate name printed 'Matthew Bello'; the City field is misspelled 'Herrriman' (three r's) on the cover - retained verbatim. Schedule A itemizes 2 contributions dated 11/30/2023 (Matt Bello 0.65; a row named 'Interest Income' .06); total 0.71. Schedule B itemizes one expenditure (Friends Of Herriman, 'Non-profit donation', 17.82); total 17.82. Summary Page columns are mixed: contribution/expenditure totals (0.71 / 17.82), Balance at Beginning (17.11 - carries from the prior 2nd Report close), Add+Contributions (0.71) and Subtract-Expenditures (17.82) are in Column A ('Total this Period'); the Subtotal (17.82) and Balance at Close (0.00) are filled in Column B ('Year-to-Date') - beginning_balance taken from Column A (17.11), ending_balance from Column B (0.00, Column A close cell blank). Column B Year-to-Date total contributions 3501.58. Schedule C balance line blank; no Schedule C page - no in-kind contributions."
+  }
+}

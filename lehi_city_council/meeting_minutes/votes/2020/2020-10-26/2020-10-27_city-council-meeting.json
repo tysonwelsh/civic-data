@@ -1,0 +1,110 @@
+{
+ "date": "2020-10-27",
+ "title": "City Council",
+ "slug": "city-council-meeting",
+ "default_body": "Council",
+ "source": "meeting_minutes/minutes/2020/2020-10-26/2020-10-27_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Approve Minutes from the September 22, 2020 Council Meeting.",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5:0 Pass",
+   "mover": "Katie Koivisto",
+   "seconder": "Chris Condie",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Mike Southwick",
+    "Paul Hancock",
+    "Katie Koivisto"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Consideration of Final subdivision approval of Hidden Canyon Plat C, a 56-lot residential subdivision located at approximately Fox Canyon Road and Oak Wood Circle. Dillon Young with Toll Brothers was representing the applicant. He noted that this will be a",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Pass",
+   "mover": "Mike Southwick",
+   "seconder": "Paul Hancock",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Mike Southwick",
+    "Paul Hancock",
+    "Katie Koivisto"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Consideration of Preliminary subdivision approval the Willow Point, a 420-unit residential development located at approximately 2100 North 4100 West. Brandon Watson was representing the applicant. He stated that one of the Planning Commissioners voted no due to some traffic concerns; however, there is a plan to mitigate",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "4:1 Pass",
+   "mover": "Chris Condie",
+   "seconder": "Paul Hancock",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Mike Southwick",
+    "Paul Hancock"
+   ],
+   "nay": [
+    "Katie Koivisto"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 4,
+   "motion": "Consideration of Ordinance #59-2020, approval of Clay’s Zone Change, changing the zoning from RA-1 to R-2 on 0.68 acres of property located at 521 West 1200 North. Clay Greenwood was the applicant.",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Pass",
+   "mover": "Katie Koivisto",
+   "seconder": "Mike Southwick",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Mike Southwick",
+    "Paul Hancock",
+    "Katie Koivisto"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "8-5-21", "name": "Salmon Electrical LLC", "amount": "2,000.00", "in_kind": false},
+    {"date": "8-6-21", "name": "Valda Dietrich", "amount": "200.00", "in_kind": true},
+    {"date": "8-12-21", "name": "Brodie Larson", "amount": "150.00", "in_kind": true},
+    {"date": "10-15-21", "name": "Brodie Larson", "amount": "100.00", "in_kind": true},
+    {"date": "8-11-21", "name": null, "amount": "2,233.51", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "7-15", "recipient": "Crew Colors", "purpose": "Banners", "amount": "1,559.38", "in_kind": false},
+    {"date": "7-16", "recipient": "Elections", "purpose": "Voter List", "amount": "15.00", "in_kind": false},
+    {"date": "7-29", "recipient": "Spencer Bose T-shirt Printing", "purpose": "T-shirts", "amount": "390.00", "in_kind": false},
+    {"date": "8-13", "recipient": "Office Depo", "purpose": "Flyers", "amount": "207.53", "in_kind": false},
+    {"date": "8-9", "recipient": "Branden Dietrich", "purpose": "Signs", "amount": "787.50", "in_kind": false},
+    {"date": "7-17", "recipient": "Home Depo", "purpose": "Supplyes", "amount": "135.27", "in_kind": false},
+    {"date": "8-13", "recipient": "Dollar Trec", "purpose": "Baskets Parade", "amount": "9.65", "in_kind": false},
+    {"date": "8-6", "recipient": "OTC Brands", "purpose": "Candy", "amount": "588.70", "in_kind": false},
+    {"date": "10-15", "recipient": "McNiel Printing", "purpose": "Flyers", "amount": "196.48", "in_kind": false},
+    {"date": "10-16", "recipient": "BSA Troup 792", "purpose": "Flyer Delivery", "amount": "700.00", "in_kind": false},
+    {"date": "10-16", "recipient": "BSA Troup 792", "purpose": "Flyer Delivery", "amount": "100.00", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "4683.51", "total_expenditures": "4683.51"}
+}

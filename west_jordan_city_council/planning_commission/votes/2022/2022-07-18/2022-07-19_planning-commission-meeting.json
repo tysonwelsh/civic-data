@@ -1,0 +1,45 @@
+{
+ "date": "2022-07-19",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2022/2022-07-18/2022-07-19_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to APPROVE the minutes from July 5, 2022 as listed in the staff report",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Ammon Allen",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the analysis and findings contained in this staff report, and upon the evidence and explanations received today, to forward a positive recommendation to the City Council to amend the Future Land Use Map from Professional Office to Community Commercial, and Rezone 1.29 acres from P-O to SC-2 located at approximately 6761 South Redwood Road",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:1",
+   "mover": "Ammon Allen",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [
+    "Kent Shelton"
+   ],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

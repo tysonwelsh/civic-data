@@ -1,0 +1,51 @@
+{
+  "contributions": [
+    {"date": "06/14/2021", "name": "Carry over from Diane Turner election acct", "amount": "1948.00", "in_kind": false},
+    {"date": "06/14/2021", "name": "Loan from personal acct of Diane Turner", "amount": "3000.00", "in_kind": false},
+    {"date": "06/18/2021", "name": "Justin B. Wiley", "amount": "500.00", "in_kind": false},
+    {"date": "06/24/2021", "name": "Darrell Hensleigh, Carole Wood", "amount": "100.00", "in_kind": false},
+    {"date": "06/24/2021", "name": "Donnetta Mitchell", "amount": "100.00", "in_kind": false},
+    {"date": "06/20/2021", "name": "Charles Turner", "amount": "500.00", "in_kind": false},
+    {"date": "06/22/2021", "name": "Deborah Sudyka-Higbee", "amount": "100.00", "in_kind": false},
+    {"date": "06/30/2021", "name": "Operating Engineers Local Union 3", "amount": "1000.00", "in_kind": false},
+    {"date": "07/26/2021", "name": "Maria Vanderheyden", "amount": "50.00", "in_kind": false},
+    {"date": "07/21/2021", "name": "Pat & Doug McKinnon", "amount": "200.00", "in_kind": false},
+    {"date": "07/08/2021", "name": "Kat Martinez", "amount": "209.21", "in_kind": false},
+    {"date": "07/28/2021", "name": "Diane Turner (reimburse J.C. Nails)", "amount": "35.00", "in_kind": false},
+    {"date": "08/03/2021", "name": "Zhou Yu", "amount": "47.25", "in_kind": false},
+    {"date": "08/14/2021", "name": "Donnetta Mitchell", "amount": "100.00", "in_kind": false},
+    {"date": "08/30/2021", "name": "Alejandro Puy", "amount": "100.00", "in_kind": false},
+    {"date": "09/01/2021", "name": "Dale Cox", "amount": "94.70", "in_kind": false},
+    {"date": "09/07/2021", "name": "Jaime Trewitt", "amount": "100.00", "in_kind": false},
+    {"date": "10/13/2021", "name": "Equality Utah", "amount": "500.00", "in_kind": false},
+    {"date": "10/21/2021", "name": "Joan Young", "amount": "100.00", "in_kind": false},
+    {"date": "10/21/2021", "name": "Rosalba Domingas", "amount": "63.00", "in_kind": false},
+    {"date": "10/18/2021", "name": "Richard Justice", "amount": "94.80", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "08/11/2021", "recipient": "Landslide Political", "purpose": "", "amount": "1083.48", "in_kind": false},
+    {"date": "08/17/2021", "recipient": "Service Press", "purpose": "Flyers", "amount": "260.54", "in_kind": false},
+    {"date": "09/08/2021", "recipient": "Cartridge World", "purpose": "", "amount": "52.51", "in_kind": false},
+    {"date": "09/20/2021", "recipient": "Landslide Pol.", "purpose": "", "amount": "400.00", "in_kind": false},
+    {"date": "10/06/2021", "recipient": "Landslide Pol.", "purpose": "", "amount": "560.00", "in_kind": false},
+    {"date": "06/25/2021", "recipient": "City Journal", "purpose": "", "amount": "600.00", "in_kind": false},
+    {"date": "07/08/2021", "recipient": "Landslide Pol", "purpose": "", "amount": "1114.10", "in_kind": false},
+    {"date": "09/30/2021", "recipient": "City Journal", "purpose": "", "amount": "408.00", "in_kind": false},
+    {"date": "06/28/2021", "recipient": "Democratic Party", "purpose": "", "amount": "50.00", "in_kind": false},
+    {"date": "07/28/2021", "recipient": "JC Nails", "purpose": "", "amount": "35.00", "in_kind": false}
+  ],
+  "total_contributions": "8,848.17",
+  "total_expenditures": "4,618.63",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "4,229.54",
+  "_meta": {
+    "index_path": "raw/202110_Diane-Turner_12490.pdf",
+    "candidate": "Diane Turner",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202110_Diane-Turner_12490.pdf",
+    "pages": 6
+  }
+}

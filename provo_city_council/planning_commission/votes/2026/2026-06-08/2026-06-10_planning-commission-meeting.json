@@ -1,0 +1,108 @@
+{
+ "date": "2026-06-10",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-06-08/2026-06-10_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "*ITEM 1 Provo City requests a Street Vacation for a section of 1600 West Street, between 672-674 South, to deed back to the adjoining property owners. Sunset Neighborhood. Megan Jensen (801) 852-6408 mejensen@provo.gov PLSV20250636",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLSV20250636",
+   "motion_type": "Vacation",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "Matt Wheelwright",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Melissa Kendall",
+    "Jonathon Hill",
+    "Lisa Jensen",
+    "Daniel Gonzales",
+    "Jon Lyons",
+    "Matt Wheelwright"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "*ITEM 2 Margaret Jensen requests a Zone Map Amendment from the R1.6 (One Family Residential) Zone to the LDR (Low Density Residential) Zone in order to change the use of property to a legal two-family dwelling, located at 256 W 300 S. Franklin Neighborhood. Megan Jensen (801) 852-6408 mejensen@provo.gov PLRZ20260028",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20260028",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 5:1",
+   "mover": "Melissa Kendall",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Matt Wheelwright",
+    "Lisa Jensen",
+    "Melissa Kendall",
+    "Jon Lyons",
+    "Jonathon Hill"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "ITEM 3 Margaret Jensen requests Concept Plan approval to change the use of property from a single-family home with an ADU to a legal two-family dwelling in a proposed LDR (Low Density Residential) Zone, located at 256 W 300 S. Franklin Neighborhood. Megan Jensen (801) 852-6408 mejensen@provo.gov PLCP20260215",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLCP20260215",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "6:0 Denied (Final Action)",
+   "mover": "Lisa Jensen",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Melissa Kendall",
+    "Jonathon Hill",
+    "Lisa Jensen",
+    "Daniel Gonzales",
+    "Jon Lyons",
+    "Matt Wheelwright"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "ITEM 4 Brighton Development requests Project Plan approval for a 26-unit townhome development in the DT1 (General Downtown) Zone, located at approximately 88 West 500 North. North Park Neighborhood. Megan Jensen (801) 852-6408 mejensen@provo.gov PLPPA20260152",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLPPA20260152",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Jon Lyons",
+   "seconder": "Daniel Gonzales",
+   "aye": [
+    "Matt Wheelwright",
+    "Lisa Jensen",
+    "Melissa Kendall",
+    "Daniel Gonzales",
+    "Jon Lyons",
+    "Jonathon Hill"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

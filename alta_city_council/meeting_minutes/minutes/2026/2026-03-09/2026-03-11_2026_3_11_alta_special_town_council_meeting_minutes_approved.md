@@ -1,0 +1,281 @@
+---
+title: Alta Town Council — Special Meeting 2026-03-11
+date: 2026-03-11
+meeting_type: special
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1416401.pdf
+source_file: 2026-3-11 Alta Special Town Council Meeting Minutes APPROVED.pdf
+pmn_file_id: 1416401
+format: ocr
+---
+
+MINUTES |
+TOWN OF ALTA
+SPECIAL COUNCIL MEETING - TOWNHALL |
+Wednesday, March 11, 2026, 5:00 PM
+Our Lady of the Snows Center, 10185 E. Highway 210, Alta, Utah
+PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil (attended virtually) |
+Councilmember Craig Heimark |
+Councilmember Elise Morgan |
+Councilmember Dan Schilling |
+' STAFF PRESENT: Chris Cawley, Town Manager . |
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk |
+Molly Austin, Assistant Town Manager |
+Brooke Boone, Deputy Town Clerk
+ALSO PRESENT: Cameron Platt, Legal Counsel (attended virtually) !
+NOT PRESENT: N/A ,
+| 1. Call the meeting to order
+Mayor Bourke called the special March 11, 2026 Alta Town Council “Townhall” meeting to order. The
+meeting convened council members, town staff, and community members to discuss ongoing and
+future planning initiatives, municipal infrastructure, and the operational needs of town facilities and
+services,
+2. Mayor Bourke opening remarks
+Mayor Bourke started by providing some historica! context for the Town’s infrastructure. Mayor :
+Bourke explained that prior to 1970, Alta functioned as a small ski area with limited facilities, but
+growth in the area, particularly development associated with Snowbird, created the need for a sewer |
+system and municipal services, which led to the incorporation of the Town of Alta. Mayor Bourke
+described how early civic leaders established core facilities, including taking over a building previously
+brought to Alta from Fort Douglas to serve as Alta Central, and adapting an existing structure for fire |
+protection services. Mayor Bourke noted that these facilities, originally developed in the 1970s, had |
+aged and were now in need of significant repair or replacement. Mayor Bourke framed the current
+discussion as a major financial and infrastructure decision, emphasizing that the Town does not
+frequently undertake projects of this scale and must carefully evaluate whether to repair or replace .
+existing assets. Mayor Bourke stated that the process would require thoughtful planning and
+substantial community involvement.
+3. Presentation on Capital Improvement Planning with public comment throughout
+Alta Town Council Meeting |
+March 11, 2026 1
+
+Chris Cawley, Town Manager presented an overview of the condition of Town facilities and |
+
+infrastructure, recent planning efforts, and potential funding mechanisms for future capital
+
+improvements. |
+
+The presentation reviewed the Town’s facilities planning process, which began in 2024 as part of a |
+
+broader strategic planning effort. The strategic planning process identified a key concern that the |
+
+Town’s facilities and infrastructure are aging and that the municipality will be unsustainable in the long 2
+
+term without significant investment. In Fall 2024, the Town initiated a Facilities Master Plan that
+
+included facility condition assessments and an evaluation of current and future departmental needs.
+
+Cawley summarized findings related to several Town-owned buildings. The Post Office building, |
+
+originally constructed in the mid-1980s with later additions, currently houses the U.S. Post Office, Alta
+
+Marshal’s Office storage and fleet space, employee quarters, UDOT equipment storage, and a
+
+multipurpose community space. Cawley explained that the building has several structural deficiencies,
+
+including roof systems not designed for current snow loads, separation of wood-framed annexes from
+
+the original concrete structure, and failed erosion control that has exposed the building to rockfall
+
+hazards. Due to these conditions, the Facilities Assessment recommended demolishing the building
+
+and replacing it with a new facility that would house existing functions and potentially relocate the Alta :
+
+Marshal’s Office.
+
+The presentation also reviewed the condition of Alta Central, which was originally moved to Little .
+
+Cottonwood Canyon from Fort Douglas in the 1950s and has served as the Town’s public safety facility ;
+since the Town acquired it in 1973. Although the building remains functional and exhibits significant
+
+sentimental value, Cawley explained that it does not meet current building code requirements for
+
+essential facilities, including seismic standards, and faces major accessibility challenges that can affect
+
+emergency response. Mechanical, electrical, and plumbing systems are also outdated. The Facilities
+
+Assessment recommended that Alta Central no longer be used as a police or emergency services
+
+facility, though it could potentially be repurposed following substantial renovation.
+
+Cawley also discussed the Town Office, and the Our Lady of the Snows building, which the Town .
+
+acquired in June 2025 and was not assessed in the study. Both buildings were constructed in 1994,
+
+were designed for avalanche exposure, and are generally in good shape, although they both exhibit ;
+
+significant accessibility challenges, especially the Town Office. Both buildings require ongoing .
+
+maintenance and replacement of wear items such as roofs, windows, and finishes. oo
+
+A comparison of estimated repair costs and replacement costs indicated that replacement of certain
+
+facilities, particularly the Post Office building and Alta Central, may be more cost-effective than
+
+undertaking major repairs.
+
+The presentation then outlined potential concepts for a new Town facility. A new building would
+
+replace the functions currently located in the Post Office building, including the post office, garage
+
+bays, employee quarters, and multipurpose meeting space, while also relocating the Alta Marshal’s
+
+Office. Additional options include expanding Marshal’s Office space, relocating Town administrative
+
+offices to the new building, and converting the existing Town Office building into a dispatch center.
+
+Depending on the program and size, preliminary estimates identified in the study indicate a potential
+
+Alta Town Council Meeting |
+
+March 11, 2026 2
+
+cost range of approximately $8 million to $17 million, which would include all costs required to address
+deficiencies identified in the study.
+Cawley also reviewed the condition of the Town’s water and sewer infrastructure, much of which was
+constructed in the early 1970s. The drinking water system includes approximately 16,000 feet of ;
+pipeline, a single water source, two storage tanks, and two pressure reducing valves. Several hydrants
+do not currently meet recommended fire flow standards, and the system lacks sufficient emergency
+storage and redundancy. The wastewater collection system includes approximately 10,700 feet of |
+pipeline and 47 manholes. Recent analysis indicates that approximately 11 percent of the system -
+requires urgent replacement and an additional 14 percent will require replacement within the next five
+to ten years. While overall system capacity is generally adequate for anticipated buildout, both systems |
+lack long-term funding mechanisms for replacement and upgrades.
+The presentation also discussed preliminary capital improvement planning for water and sewer |
+_ systems, including an estimated long-term pipeline replacement cost of approximately $3.75 million 3
+for the water system and more than $5 million in sewer system replacement needs over time. i
+Cawley then outlined several potential strategies for funding capital improvements. Options discussed
+included continuing to accrue balance in the Town’s Capital Fund, which currently holds approximately
+$1.6 million; increasing certain revenue sources such as the municipal property tax or implementing a
+local option transient room tax; adjusting fees such as business license or building permit fees; and
+increasing water and sewer rates to support necessary infrastructure investments. The potential role of
+philanthropic funding was also discussed, though Cawley noted that philanthropic contributions may
+. depend on the nature of the project and whatever other funding options are considered.
+_ The presentation introduced the concept of a General Obligation (GO) bond as a potential financing
+tool. A GO bond is a form of municipal debt backed by property tax revenue and must be approved by
+voters through a bond election. Cawley explained that GO bonds typically provide the lowest available
+interest rates and are a common method used by municipalities to finance large capital projects. |
+Advantages include lower borrowing costs and demonstrated voter support, while disadvantages :
+include the uncertainty of voter approval and the requirement that bond elections can only occur once
+per year.
+Chris Cawley presented a chart outlining key project timelines for the next several years. Cawley
+acknowledged that the chart was aspirational but considered it reasonable, noting that the first
+quarter of 2026 was already underway. Cawley discussed the potential design pathway for new town
+buildings, which could be completed in phases or as a single comprehensive effort, with preliminary
+design anticipated to begin in the summer of 2026. The initial phase includes procurement for |
+architects and collaboration with partners to ensure that building designs meet community needs.
+Cawley noted that funding for the design phase could come from the town’s capital projects fund,
+highlighting that preliminary expenditures would allow the town to shape project requirements while
+keeping costs reasonable. Cawley stated that construction could tentatively begin in summer of 2028,
+contingent on voter approval for any associated bond measures.
+Alta Town Council Meeting |
+March 11, 2026 3
+|
+
+. Cawley also mentioned a grant from the Wasatch Front Regional Council to fund a comprehensive
+
+general plan update. This process, expected to begin in the next fiscal year, would involve public
+engagement to improve understanding of town assets, sustainability, and long-term planning. Cawley
+emphasized the proposed Citizens Committee, which would include both primary and non-primary
+residential property owners, taxpayers, voters , and business or commercial property owners. The
+committee would serve as a conduit between the council and the community, providing
+recommendations on project funding, budgeting, and community priorities. Committee members
+would participate throughout the design process and provide continuity into future budget discussions
+and potential bond measures. ;
+Cawley noted that the Town is considering discussing a potential GO bond because the need to replace
+
+| facilities are too urgent toe wait until the Town can save enough money to pay for them on current
+projected revenue. Depending on future planning and Council direction, a bond election could
+potentially occur in November 2026 or November 2027.
+Finally, Cawley outlined potential next steps. These include forming a citizen advisory committee to .
+help increase awareness of the Town’s infrastructure needs, discuss potential funding strategies, and |
+provide recommendations to the Town Council. The committee would include residents, property :
+owners, and business representatives and would meet periodically to review information and assist
+with community outreach.
+Additional steps discussed include incorporating water and sewer capital projects into the Fiscal Year :
+2027 budget process, beginning the design process for a potential new building, coordinating with the
+Utah Department of Transportation regarding possible facility collaboration, and continuing
+community discussion regarding potential funding mechanisms.
+Dan Schilling emphasized the critical importance of community participation in decision-making
+processes, particularly in light of the town’s small voter population. Schilling noted that with few :
+registered voters and even fewer who typically cast ballots, outcomes on important measures could
+hinge on a very small number of individuals. Schilling stressed that broad engagement, input, and
+collaboration were essential to ensure that town initiatives, including potential building projects and
+bond measures, are successful and reflect the priorities of the community. |
+Paul Maeder raised two main questions regarding the town’s financial and infrastructure planning.
+First, Maeder addressed the existing town buildings, which are approximately 60 years old and were
+likely provided by the Forest Service or acquired long ago. Maeder noted that municipalities rarely set :
+aside funds for maintenance or depreciation, meaning the community has effectively received a “free
+ride” on these buildings for decades. Maeder asked whether the town council has a philosophy or plan
+for establishing reserves for ongoing maintenance and eventual replacement, so future generations :
+are not burdened with the same problem. Maeder’s second question came from a neighbor who could
+not attend. Maeder summarized the neighbor’s concern about the distribution of local tax revenue.
+Using the tax bill as an example, Maeder noted that a large portion of taxes flows “downhill” to the
+county or other entities, with only a small percentage remaining in Alta for local services. After
+excluding school funding, the proportion staying in town rises modestly but still represents a minority
+Alta Town Council Meeting |
+March 11, 2026 ; 4
+
+of tax dollars. The neighbor’s question was whether the county or other outside entities would |
+contribute to local efforts, or if the town’s funding obligations are effectively a one-way outflow. |
+Mark Haik commented on property taxation and infrastructure issues, noting that most private
+property in Alta is state-assessed rather than county-assessed, which limits revenue generation for the
+town. Haik suggested that petitioning for county assessment could significantly increase the town’s
+budget numbers. Haik also addressed the need for more water and sewer ratepayers and proposed the
+idea of annexing into existing service areas to expand access and improve funding capacity. Haik :
+inquired about the town’s willingness to accept private investment for sewer infrastructure, noting
+that previous offers had been rejected by elected officials and staff.
+Steve McIntosh provided some technical insights into the condition of existing municipal buildings.
+McIntosh noted that facilities, including Alta Central, the post office, and the fire station, were poorly
+designed for snow shedding, had roofs prone to ice and mold issues, and had been insufficiently |
+maintained over the years. Mcintosh argued that replacement would be more cost-effective than |
+extensive renovation. Mcintosh also expressed skepticism regarding the potential for private entities
+to manage town utilities, citing challenges in small, isolated communities. McIntosh praised the council
+and staff for addressing these issues proactively and stressed the importance of maintaining municipal
+control to ensure long-term sustainability.
+Creighton Hart highlighted potential funding opportunities through federal and state programs,
+particularly for rural communities and areas adjacent to National Forest lands. While Alta’s location .
+within the Wasatch Front statistical metro area limits some rural development funds, Hart noted that
+targeted programs, including low-income housing initiatives, could support local projects. Hart also .
+raised fire safety concerns, particularly related to summer campgrounds and wood-burning activities,
+suggesting infrastructure improvements to mitigate fire risks. |
+Mike Morey offered an extensive overview of law enforcement challenges in Alta. Morey described the
+unique operational requirements of the Alta Marshal’s Office, including its evolution from a
+| communication center with dispatch capabilities to a fully functioning municipal law enforcement
+agency. Morey emphasized the limitations of a small police force in meeting state and federal |
+mandates, handling complex criminal investigations, and maintaining community safety. Morey
+discussed nationwide recruitment and retention challenges, the need for specialized training, and the |
+importance of hiring individuals committed to Alta’s community values. Morey stressed that
+compliance with legal mandates and safe operations require adequate facilities, including secure
+interview rooms, evidence storage, and fleet management. Dan Schilling added that Alta faces
+additional safety challenges, including avalanche response, rescue operations, and other emergencies
+where local expertise is essential.
+Additional questions from the public addressed project prioritization, bond measures, and utility rates.
+Mayor Bourke and Chris Cawley explained that while a single debt instrument could theoretically fund
+multiple projects, separating funding for building projects and water/sewer infrastructure is more
+practical due to political, ethical, and ratepayer considerations. Jen Clancy explained that water and
+sewer rates are calculated based on equivalent capacity units (ECUs) and system operating costs, with
+rate increases sometimes reflecting pass-through costs from downstream service providers. Questions :
+Alta Town Council Meeting |
+March 11, 2026 5
+|
+
+regarding usage-based water rates were addressed, noting that Alta’s seasonal population and small
+customer base make tiered usage rates less practical.
+The meeting concluded with staff emphasizing transparency and public engagement. Council members
+encouraged continued participation and dialogue to ensure that community priorities are met,
+infrastructure is appropriately maintained, and the town’s facilities and services remain safe and
+sustainable.
+4. Motion to adjourn
+
+MOTION: Craig Heimark motioned to adjourn, and Dan Schilling seconded.
+
+VOTE: Allin favor. The meeting was unanimously adjourned.
+
+RESULT: APPROVED
+Passed this 8" day of April, 2026
+
+lancy, Town
+
+Alta Town Council Meeting
+March 11, 2026 6

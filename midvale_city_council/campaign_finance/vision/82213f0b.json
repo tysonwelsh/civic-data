@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "Brandee Boyer", "amount": "288.33", "in_kind": false},
+    {"date": null, "name": "Tiffany Diener", "amount": "44.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Run!", "purpose": null, "amount": "300.00", "in_kind": false}
+  ],
+  "total_contributions": "332.33",
+  "total_expenditures": "309.81",
+  "contributions_50_or_less": "44.00",
+  "beginning_balance": "19.81",
+  "ending_balance": "42.33",
+  "_meta": {
+    "index_path": "raw/2025_02_Brandee-Boyer.pdf",
+    "candidate": "Brandee Boyer",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_02_Brandee-Boyer.pdf",
+    "pages": 5,
+    "note": "OFFICE FLAG: the cover page has the MAYOR box checked (email brandeeformayor@gmail.com); the caller's filing list labeled this 'Council' and _meta.office is kept as 'Council' per that spec / roster convention (office is not derived from the form) -- reconcile against the election roster. Interim (Prior to General Election Oct-28-2025 report). Schedules itemize the Oct-28 PERIOD only; totals match Summary Column B (thru Oct 28): contrib 332.33, exp 309.81, begin 19.81, close 42.33. SUBTOTAL-vs-TOTAL gap on Schedule B retained verbatim: itemized >$50 expenditures SUBTOTAL 300.00 (one row, 'Run!') but printed TOTAL EXPENDITURES 309.81 (the 9.81 remainder is un-itemized sub-$50 spend; NOT adjusted). Part II ($50-or-less) subtotal 44.00 (Tiffany Diener). No date/purpose columns on this form -> dates null, purposes null."
+  }
+}

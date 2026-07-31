@@ -1,0 +1,84 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06132022-589
+> Meeting date: 2022-06-13
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2022-06-13
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06132022-589
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                          Minutes          of the
+                                                            Mincreek             Community                 Reinvestment                Agency
+                                                                                           June      13,      2022
+                                                                                              7:00      p.m.
+                                                                                         Regular        Meeting
+
+
+
+
+The Community              Reinvestment          Agency         of Millcreek,        Utah, met in a regular                   public    meeting      on
+June 13, 2022,           at City    Hall,    located     at 3330 S. 1300           E., Millcreek,             Utah     84106.        The meeting      was
+live streamed           via the City's       website     with    an option         for online        public     comment.
+
+
+PRESENT:
+
+
+Board      Members                                                      City     Staff
+Jeff Silvestrini,         Chair                                         John Brems,           City    Attorney
+Silvia    Catten                                                        Elyse     Sullivan,        Agency           Recorder
+Thom      DeSirant                                                     Mike       Winder,         City Manager
+Cheri     Jackson                                                      Kurt      Hansen,         Facilities     Director
+Bev Uipi       (electronic)                                             Laurie     Johnson,          HR-Finance          Director
+
+
+Attendees:         None
+
+
+REGULAR              MEETING:               7:00 p.m.
+TIME       COMMENCED:                       7:48 p.m.
+
+
+
+Chair     Silvestrini      called    the meeting        to order.
+
+
+1. Discussion           and Consideration              of Resolution            22-09,     Adopting           the Community
+Reinvestment             Agency      Annual      Budget         for the Fiscal            Year     Beginning           July 1, 2022,         and
+Ending        June      30, 2023
+Laurie     Johnson        said the revenues          and expenses,             $1,922,050,         had not changed              since the tentative
+budget.       She requested         adoption     of the budget.
+
+
+Board      Member          Jackson       moved       to adopt         Resolution          22-09,      Adopting          the Community
+Reinvestment             Agency      Annual      Budget         for the Fiscal            Year     Beginning           July     1, 2022,     and
+Ending        June      30, 2023. Board         Member           Catten        seconded.          Board       Member          Uipi     asked when the
+city would       start paying        interest   plus principal          [on the bond].             Johnson          said in FY 2025.         Chair
+Silvestrini      called     for the vote. All           Board      Members           present         voted      yes. The motion             passed
+unanimously.
+
+
+
+ADJOURNED:                  Board     Member           Jackson        moved        to adjourn          the meeting             at 7:52     p.m.    Board
+Member         Catten      seconded.         Chair      Silvestrini       called     for the vote.            All    Board       Members          present
+voted     yes. The motion            passed      unanimously.
+Millcreek   CRA   Meeting       Minutes                                 13 June   2022    Page 2 of 2
+
+
+
+
+                     APPROVED:                                                     Date    (,,- 11- p7:z
+                                          Jeff   Silvestrini,   Chair
+
+
+
+                            Attest:       !7e 'van,             Recorder
+

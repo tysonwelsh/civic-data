@@ -1,0 +1,52 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "gdrive+civicclerk",
+    "index_max_date": "2026-05-05",
+    "index_rows": 130,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://drive.google.com/embeddedfolderview?id=1eNNpurKDzW6YkTehj0mUBskkORO-FAF4",
+    "new_count": 5,
+    "notes": "minutes from Google Drive archive; CivicClerk carries agendas/packets only; 1 held meeting(s) have no minutes on Drive yet: 2026-07-14",
+    "new_items": [
+      {
+        "date": "2026-05-12",
+        "title": "City Council Meeting (05.12.2026 CC minutes.pdf)",
+        "url": "https://drive.google.com/uc?export=download&id=1qLLd8h7ScAAcB14xBWSHL5UyjzfDSo9y"
+      },
+      {
+        "date": "2026-05-26",
+        "title": "City Council Meeting (05.26.2026 CC minutes.pdf)",
+        "url": "https://drive.google.com/uc?export=download&id=12sRYKNu_njn2pQ7Iux2PeU2nVt_mZM3p"
+      },
+      {
+        "date": "2026-06-09",
+        "title": "City Council Meeting (06.09.2026 cc minutes.pdf)",
+        "url": "https://drive.google.com/uc?export=download&id=1SzUiA2Q2xUmMUXRQBNMchwpiI4Kio91Y"
+      },
+      {
+        "date": "2026-06-15",
+        "title": "City Council Meeting (06.15.2026 joint cc minutes.pdf)",
+        "url": "https://drive.google.com/uc?export=download&id=1UMcYz-AI33VpfyMIm3BttDd3a7XwvFJ5"
+      },
+      {
+        "date": "2026-06-23",
+        "title": "City Council Meeting (06.23.2026 CC minutes.pdf)",
+        "url": "https://drive.google.com/uc?export=download&id=1ey2DGI8uhtafbhNEZAMaHVgNukOu0obU"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-18",
+    "portal": "gdrive+civicclerk",
+    "index_max_date": "2026-05-06",
+    "index_rows": 114,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://drive.google.com/embeddedfolderview?id=1A-vDkppTnTLUrKkdjVp7ui2bHnaXUWRx",
+    "new_count": 0,
+    "notes": "minutes from Google Drive archive; CivicClerk carries agendas/packets only; 5 held meeting(s) have no minutes on Drive yet: 2026-05-20, 2026-06-03, 2026-06-17, 2026-07-01, 2026-07-15",
+    "new_items": []
+  }
+}

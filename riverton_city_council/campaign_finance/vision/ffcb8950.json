@@ -1,0 +1,24 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Josh Strong - Food Drive Potatoes", "purpose": null, "amount": "200.00", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "170.00", "in_kind": false},
+    {"date": null, "recipient": "Amazon - Bags for Potatoes", "purpose": null, "amount": "14.80", "in_kind": false},
+    {"date": null, "recipient": "Walmart", "purpose": null, "amount": "388.93", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "773.73",
+  "contributions_50_or_less": null,
+  "beginning_balance": "7689.60",
+  "ending_balance": "6915.87",
+  "_meta": {
+    "index_path": "raw/2025_mccay_post-election-report.pdf",
+    "candidate": "Tawnee McCay",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_mccay_post-election-report.pdf",
+    "pages": 5,
+    "method": "text/vision transcription 2026-07-18 (typed). Post-Election Report; THIS-PERIOD = Column D (10/29-12/3/25): contrib 0.00 / expend 773.73. Printed Column E Campaign Total = 30690.55 contrib / 26419.77 expend (= primary 18415.55/10386.76 + 28-Day 7175/1455.93 + General 5100/13803.35 + Post 0/773.73). Per-period filer -> cycle_overrides.csv carries the Column-E cycle total (this post-election 'summary' is itself a period)."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contributions": [
+    {"date": "06/03/2025", "name": "Heather Garcia", "amount": "25.00", "in_kind": false},
+    {"date": "06/19/2025", "name": "Heather Garcia", "amount": "129.72", "in_kind": false},
+    {"date": "06/20/2025", "name": "Heather Garcia", "amount": "27.87", "in_kind": false},
+    {"date": "06/19/2025", "name": "Heather Garcia", "amount": "50.40", "in_kind": false},
+    {"date": "06/19/2025", "name": "Heather Garcia", "amount": "54.09", "in_kind": false},
+    {"date": "06/25/2025", "name": "Heather Garcia", "amount": "2.00", "in_kind": false},
+    {"date": "06/24/2025", "name": "Heather Garcia", "amount": "2.00", "in_kind": false},
+    {"date": "07/19/2025", "name": "Heather Garcia", "amount": "34.80", "in_kind": false},
+    {"date": "06/19/2025", "name": "Wendy Willis", "amount": null, "in_kind": true},
+    {"date": "06/19/2025", "name": "Heather Garcia", "amount": null, "in_kind": true},
+    {"date": "06/19/2025", "name": "Wendy Willis", "amount": null, "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "06/03/2025", "recipient": "City of Herriman", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false},
+    {"date": "06/19/2025", "recipient": "Costco", "purpose": "Parade candy", "amount": "129.72", "in_kind": false},
+    {"date": "06/20/2025", "recipient": "Walgreens", "purpose": "Campaign Banners", "amount": "27.87", "in_kind": false},
+    {"date": "06/19/2025", "recipient": "Walgreens", "purpose": "Campaign Banners", "amount": "50.40", "in_kind": false},
+    {"date": "06/19/2025", "recipient": "Wix.com", "purpose": "Campaign Website", "amount": "54.09", "in_kind": false},
+    {"date": "06/25/2025", "recipient": "Facebook.com", "purpose": "Campaign Ads", "amount": "2.00", "in_kind": false},
+    {"date": "06/24/2025", "recipient": "Facebook.com", "purpose": "Campaign Ads", "amount": "2.00", "in_kind": false},
+    {"date": "07/19/2025", "recipient": "Wix.com", "purpose": "Campaign Website Monthly Fee", "amount": "34.80", "in_kind": false}
+  ],
+  "total_contributions": "325.88",
+  "total_expenditures": "325.88",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/5787_Garcia-Heather-District-3-August-5-Report.pdf",
+    "candidate": "Heather Garcia",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/5787_Garcia-Heather-District-3-August-5-Report.pdf",
+    "pages": 5,
+    "notes": "Primary Election report (box checked: no later than 7 days before Aug 5 2025 primary). All 8 Schedule A contributions are self-funded (Heather Garcia). Schedule C lists 3 in-kind contributions (Wendy Willis '30 Campaign t-shirts'; Heather Garcia 'Yard signs from prior campaign'; Wendy Willis 'Parade candy'), all dated 06/19/2025, no dollar amounts printed (amount=null). Form Schedule A threshold column labeled '$50.00 +'; no separate '$50 or less' aggregate line printed."
+  }
+}

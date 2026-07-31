@@ -1,0 +1,13 @@
+{
+  "contributions": [
+    {"date": null, "name": "SLBRs (In-kind)", "amount": "2,624.34", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Peczuh printing", "purpose": null, "amount": "237.45", "in_kind": false},
+    {"date": null, "recipient": "SLBRs (In-kind)", "purpose": null, "amount": "2,624.34", "in_kind": true},
+    {"date": null, "recipient": "Notatek (Signs)", "purpose": null, "amount": "457.09", "in_kind": false},
+    {"date": null, "recipient": "Republican Ads", "purpose": null, "amount": "500", "in_kind": false},
+    {"date": null, "recipient": "Vottiv (Text)", "purpose": null, "amount": "299.99", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "2,624.34", "total_expenditures": "4118.87"}
+}

@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "3/17/2016", "name": "Matt Welch", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "3/17/2016", "recipient": "Salt Lake County Clerk", "purpose": "candidate filing fee", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50.00",
+  "total_expenditures": "50.00",
+  "total_contributions_ytd": "50.00",
+  "total_expenditures_ytd": "50.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016june_matt_welch_dbl_kearns_3.pdf",
+    "candidate": "Matt Welch",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "Pre-primary interim (June)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016june_matt_welch_dbl_kearns_3.pdf",
+    "pages": 4,
+    "_notes": "Despite the 'dbl' filename token, the PDF contains only ONE report (4 pages, June 21 report through June 16, checked box; signed/dated 6-21-2016) — no duplicate reporting periods present to transcribe. The margin annotation 'Loan' next to the 3/17/2016 Matt Welch $50 contribution is preserved as context; on page 1 only the 'June 21' box is checked."
+  }
+}

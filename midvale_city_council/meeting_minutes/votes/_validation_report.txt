@@ -1,0 +1,142 @@
+Midvale City Council — vote extraction validation report
+========================================================================
+Meeting JSONs             : 151
+Meetings with >= 1 motion : 143
+Motions extracted         : 1351
+Distinct observed voters  : 8
+
+Body counts:
+   Council            1316
+   RDA                35
+
+Motion-type distribution:
+   Procedural/Administrative  461
+   Public Hearing Action      297
+   Land-Use/Zoning            202
+   Resolution                 140
+   Contract/Purchase          67
+   Ordinance                  58
+   Other                      46
+   Appointment                39
+   Budget Amendment           22
+   Interlocal                 14
+   Grant-Funding              5
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded vote rows that year).
+Midvale's roster changes across 2020-2026; this table is the who-served-when record.
+------------------------------------------------------------------------
+
+2020:
+   Paul Glover                121
+   Dustin Gettel              120
+   Quinn Sperry               119
+   Bryant Brown               119
+   Heidi Robinson             118
+   Robert Hale                1
+
+2021:
+   Heidi Robinson             104
+   Bryant Brown               104
+   Dustin Gettel              104
+   Quinn Sperry               103
+   Paul Glover                102
+
+2022:
+   Quinn Sperry               116
+   Heidi Robinson             116
+   Paul Glover                115
+   Bryant Brown               115
+   Dustin Gettel              113
+
+2023:
+   Quinn Sperry               96
+   Paul Glover                96
+   Dustin Gettel              96
+   Heidi Robinson             95
+   Bryant Brown               94
+
+2024:
+   Bonnie Billings            91
+   Paul Glover                91
+   Heidi Robinson             91
+   Bryant Brown               91
+   Dustin Gettel              84
+
+2025:
+   Bonnie Billings            118
+   Paul Glover                118
+   Heidi Robinson             118
+   Bryant Brown               118
+   Denece Mikolash            117
+
+2026:
+   Paul Glover                83
+   Heidi Robinson             83
+   Bryant Brown               83
+   Denece Mikolash            83
+   Bonnie Billings            83
+
+------------------------------------------------------------------------
+MAYOR-VOTE FLAGS (council tie-breaks): 1
+------------------------------------------------------------------------
+   2020-05-05 [Council] m14 3-2 Pass mayor=Robert Hale :: motion: The voting was as follows: Council Member Quinn Sper
+
+------------------------------------------------------------------------
+OVERSIZE ROLL CALLS (> 5 decisive voters): 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+RARE NAMES (<=1 occurrence — spot-check for OCR garble): 1
+------------------------------------------------------------------------
+   Robert Hale
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 40
+------------------------------------------------------------------------
+   2020-02-18 [Council] m7 3-1 Pass | AYE=['Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=['Quinn Sperry'] :: to approve Resolution No.2020-R-09 declaring the property located at 2
+   2020-03-24 [Council] m7 3-2 Pass | AYE=['Paul Glover', 'Quinn Sperry', 'Heidi Robinson'] NAY=['Bryant Brown', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve Resolution No. 2020-R-16 confirming the Appointment of Bart
+   2020-05-05 [Council] m14 3-2 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Robert Hale'] NAY=['Heidi Robinson', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=['Bryant Brown'] :: motion: The voting was as follows: Council Member Quinn Sperry Aye Cou
+   2020-06-02 [Council] m3 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the requested vacation and direct Staff to prepare an ordin
+   2020-06-02 [Council] m6 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: that based on compliance with the requirements of the Midvale City Mun
+   2020-06-30 [Council] m2 2-3 Fail | AYE=['Quinn Sperry', 'Paul Glover'] NAY=['Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to table this item to a later date
+   2020-06-30 [Council] m4 1-4 Fail | AYE=['Bryant Brown'] NAY=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Resolution No. 2020-R-27 Authorizing the Mayor to sign and 
+   2020-07-07 [Council] m3 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the requested vacation of Ivy Drive of Bingham Junction Bou
+   2020-08-04 [Council] m3 1-4 Fail | AYE=['Dustin Gettel'] NAY=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve Ordinance No. 2020- O-12 granting a reduction in minimum pa
+   2020-08-18 [Council] m3 3-2 Pass | AYE=['Quinn Sperry', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Paul Glover', 'Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: that we approve the Preliminary Subdivision Plat for a 16-Lot Subdivis
+   2020-09-01 [Council] m5 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt Ordinance 2020-0-16 Vacating the Jordan Avenue right-of-way l
+   2021-02-16 [Council] m3 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the 4-Lot | preliminary subdivision plat at 287 & 293 E 679
+   2021-03-02 [Council] m10 3-1 Pass | AYE=['Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Quinn Sperry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Adopt Resolution No. 2021- R-22 as amended
+   2021-04-20 [Council] m6 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Adopt Ordinance No. 2021- O-11 rezoning property located at 532, 54
+   2021-05-04 [Council] m9 4-1 Pass | AYE=['Quinn Sperry', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Resolution No. 2021-R-16 Authorizing the Mayor to enter int
+   2021-07-20 [Council] m9 4-1 Pass | AYE=['Paul Glover', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Quinn Sperry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve Resolution 2021-R- 31 Adopting fees charged for usage ofser
+   2021-08-24 [Council] m3 4-0 Pass | AYE=['Paul Glover', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=[] ABSTAIN=[] RECUSE=['Quinn Sperry'] ABSENT=[] :: to approve the 2-lot final subdivision plat at 7417 S 410 E with the f
+   2021-12-07 [Council] m8 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to close public hearing
+   2022-02-15 [Council] m12 3-1 Pass | AYE=['Quinn Sperry', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Glover'] :: to Approve the Large-Scale Master Plan for Jordan Bluffs Phase lll loc
+   2022-02-15 [Council] m15 3-1 Pass | AYE=['Quinn Sperry', 'Bryant Brown', 'Dustin Gettel'] NAY=['Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Glover'] :: to Approve Ordinance No, 2022-0.05 approving the rezone located at 170
+   2022-02-15 [Council] m18 3-1 Pass | AYE=['Quinn Sperry', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Glover'] :: to table the rezone request located at 160 E 7200 S until there is an 
+   2022-04-19 [Council] m8 3-2 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Dustin Gettel'] NAY=['Heidi Robinson', 'Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve Resolution No. 2022-R-18 adopting Midvale City Council Dist
+   2022-05-03 [Council] m3 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Adopt Resolution No.2022- R-19 Adopting the Midvale City Tentative 
+   2022-06-07 [Council] m4 3-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=['Heidi Robinson'] :: to Approve JoAnn B. Seghini Midvale Station as the official name of th
+   2022-06-21 [Council] m3 3-2 Pass | AYE=['Quinn Sperry', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover', 'Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve the Rezone located at 160 E 7200 S consistent with the find
+   2022-07-19 [Council] m2 3-2 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson'] NAY=['Bryant Brown', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to table Action item A to consideration and direction in regarding Mid
+   2022-08-09 [Council] m8 2-3 Fail | AYE=['Bryant Brown', 'Dustin Gettel'] NAY=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the motion to have that discussion in 3 months instead of 6 m
+   2022-08-09 [Council] m9 3-2 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson'] NAY=['Bryant Brown', 'Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: MOTION: The motion was SECONDED by Council Member Quinn Sperry. Mayor 
+   2023-01-03 [Council] m5 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve Resolution No. 2023- R-04 Authorizing the Mayor to execute 
+   2023-01-03 [Council] m7 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to go into a closed Session to discuss the character, professional com
+   2023-03-21 [Council] m3 4-1 Pass | AYE=['Quinn Sperry', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Resolution No. 2023-R-11 selecting the election method of R
+   2023-05-02 [Council] m12 2-3 Fail | AYE=['Bryant Brown', 'Dustin Gettel'] NAY=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt Resolution 2023-R-18, authorizing Mayor Stevenson to sign an 
+   2023-05-02 [Council] m13 4-1 Pass | AYE=['Quinn Sperry', 'Paul Glover', 'Heidi Robinson', 'Bryant Brown'] NAY=['Dustin Gettel'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt Resolution 2023-R- '18, authorizing Mayor Stevenson to sign a
+   2024-03-26 [Council] m12 3-2 Pass | AYE=['Paul Glover', 'Bryant Brown', 'Dustin Gettel'] NAY=['Bonnie Billings', 'Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Table this Ordinance No. 2024-O-05 pending clarification of questio
+   2024-04-02 [Council] m1 3-2 Pass | AYE=['Bonnie Billings', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Paul Glover', 'Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Ordinance No. 2024-O-05 Approving Amendments to Chapter 9.3
+   2024-08-20 [Council] m3 4-1 Pass | AYE=['Bonnie Billings', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Resolution No. 2024-R-41 Authorizing the Mayor to Sign the 
+   2024-09-17 [Council] m6 4-1 Pass | AYE=['Bonnie Billings', 'Paul Glover', 'Heidi Robinson', 'Dustin Gettel'] NAY=['Bryant Brown'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Table Ordinance No. 2024- O-22 Authorizing a Zone Map Amendment for
+   2024-09-17 [Council] m9 4-1 Pass | AYE=['Bonnie Billings', 'Heidi Robinson', 'Bryant Brown', 'Dustin Gettel'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Approve Ordinance No. 2024-O-23 Amending Section 17-7-9.12.1 (River
+   2025-02-18 [Council] m5 3-1 Pass | AYE=['Heidi Robinson', 'Bryant Brown', 'Denece Mikolash'] NAY=['Paul Glover'] ABSTAIN=[] RECUSE=[] ABSENT=['Bonnie Billings'] :: to Approve Ordinance No. 2025-O-03 Authorizing an Ordinance Amending S
+   2025-05-20 [Council] m7 4-1 Pass | AYE=['Bonnie Billings', 'Paul Glover', 'Bryant Brown', 'Denece Mikolash'] NAY=['Heidi Robinson'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to table this item until we’ve had the opportunity to work on a develo

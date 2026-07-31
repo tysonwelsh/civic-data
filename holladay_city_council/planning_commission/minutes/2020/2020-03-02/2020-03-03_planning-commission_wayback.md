@@ -1,0 +1,688 @@
+# Planning Commission Meeting — 2020-03-03
+> Source: http://cityofholladay.com/file/2020/12/030320-PC-Mtg.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20210808215745id_/http://cityofholladay.com/file/2020/12/030320-PC-Mtg.pdf
+> Meeting date: 2020-03-03
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                        MINUTES OF THE CITY OF HOLLADAY
+                         PLANNING COMMISSION MEETING
+
+                                   Tuesday, March 3, 2020
+                                          6:30 p.m.
+                                  Holladay Municipal Center
+                                    4580 South 2300 East
+
+ATTENDANCE:
+
+Planning Commission Members:                        City Staff:
+Marianne Ricks, Chair                               Paul Allred, Community Development Director
+Jan Bradshaw                                        Jonathan Teerlink, City Planner
+Troy Holbrook
+Chris Layton
+Alyssa Lloyd
+Ann Mackin
+
+WORK SESSION
+The Work Session was called to order at approximately 6:30 p.m. The agenda items were reviewed
+and discussed. Procedural issues pertaining to the public hearing items were discussed. Concerns
+expressed by the neighbors with the request for a Residential Site Grading Permit were described.
+Wall height and encroachment issues were addressed. Community Development Director, Paul
+Allred suggested that going forward, these types of requests are approved by staff and that they
+not come to the PC.
+
+With regard to the Weyburn Estates Concept Plan, a determination needed to be made as to
+whether the applicant can develop the number of units he is proposing based on design issues. A
+PUD conditional use is requested but the intent tonight would be to just look at the layout. Slope
+issues were discussed. Road width issues were addressed. Staff measured the distance between
+Tobermory and the existing driveway and the width of the driveway. Public Works Director,
+Tosh Kano recommended that Tobermory be widened to 30 feet at the entrance at least 40 feet
+back from Spring Lane and to add a third lane on the west for left in and left out turns. Traffic
+generation issues were discussed. Tobermory currently generates 240 car trips per day. Mr.
+Kano’s opinion was that a combined 40 homes on a 16-foot wide lane will not work.
+
+Commissioner Mackin moved to adjourn. Commissioner Lloyd seconded the motion. The
+motion passed with the unanimous consent of the Commission.
+
+The Work Meeting adjourned at approximately 6:58 p.m.
+
+CONVENE REGULAR MEETING – Public Welcome and Chair Opening Statement.
+Chair Marianne Ricks called the Regular Meeting to order at approximately 7:00 p.m. and read
+the Commission statement.
+
+Chair Ricks moved to modify the order of the agenda items and move item two to the end.
+Commissioner Mackin seconded the motion. Vote on motion: Troy Holbrook-Aye, Jan
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                1
+Bradshaw-Aye, Chris Layton-Aye Alyssa Lloyd-Aye, Ann Mackin-Aye, and Chair Marianne
+Ricks-Aye. The motion passed unanimously.
+
+PUBLIC HEARING
+1.     Zone Map Amendment – Rezone from R-1-10 to R-1-8 – 2417 East Butternut Road.
+City Planner, Jonathan Teerlink presented the staff report and stated that the request involves
+consideration of a zone map amendment for property located at 2417 East Butternut Road. He
+explained that consideration of applications is guided by the General Plan, which bisects the
+proposed development area. On the south end toward 4500 South is a General Plan district that
+foresees duplex zoning as a transitional residential housing product. The north half is low-density.
+
+The applicant is requesting a zone change from R-1-10, which allows one home per 10,000 square
+feet to R-1-8, which allows one home per 8,000 square feet. Two homes currently exist in the
+development, one of which is a duplex. The intent was to reorganize the lot lines and homes to
+build a single-family home on a smaller, 8,000 square-foot lot. The other two remaining lots will
+be 9,000 to 10,000 square feet in size. Mr. Teerlink explained that consideration of rezone
+applications are guided by Code. He considered it a reasonable request to utilize the extra land
+that is available for a detached single-family home on 4500 South. The third sliver piece is half
+of a separate lot that was originally platted when the subdivision was with the County.
+
+The applicant, Nick Mingo indicated that he plans to develop and sell all three lots.
+
+Chair Ricks opened the public hearing.
+
+Cheryl Farr gave her address as 4400 Butternut Road and spoke on behalf of herself and her
+husband who was unable to attend. She was not opposed to improving the property but was
+objected to the change of zoning from R-1-10 to R-1-8. She was opposed for three reasons. First,
+she was concerned about the impact the rezoning will have on the density of the neighborhood.
+She and her husband have lived on Butternut Road for nearly 24 years and have seen an increase
+in density since that time. She expressed concern with an existing duplex on the east side of
+Butternut Road and believes it is inconsistent with zoning and has been ignored. She reported that
+a zone change from R-1-10 to R-1-8 would most likely result in new homes having access to 4500
+South from Butternut Road, which increases the traffic and density of an already busy intersection.
+Ms. Farr stated that the neighborhood desired to limit structures to single-family homes that
+promote open space and larger properties. She was concerned about the potential to feel crowded
+by building three homes on two parcels of property. Doing so would not be in harmony with what
+exists in the neighborhood.
+
+Second, Mrs. Farr was concerned about safety. Increased traffic at the intersection of 4500 South
+and Butternut Road is already difficult and has proven dangerous for residents. High school
+students use this route to get to school. One of her main concerns was the safety increased traffic
+and density will pose to children and pedestrians. Third, Mrs. Farr was concerned about the
+character of the neighborhood. The neighborhood is older with mostly rambler, one-level homes.
+She was worried that a change in zoning from R-1-10 to R-1-8 would result in decreased lot sizes
+and cause developers to build multi-story homes. Mrs. Farr explained that the owner of the
+property is an investor and not someone who lives in the neighborhood. She assumed that the
+motivations for development were being driven by financial gain rather than concern for the
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                 2
+neighborhood. She reiterated that she and her husband are not opposed to development but object
+to the proposed zone change.
+
+Jeff? Beck gave his address as 4416 South Butternut Road and stated that he accesses his home off
+of Butternut Road. His family has lived in the home for the last 10 years. The homes across the
+street have been a revolving door of rentals and are not well maintained. He expressed support for
+the proposed rezone. Mr. Beck believed that the lot sizes are large enough to accommodate R-1-
+8 zoning. He commented that development of the site would trigger a requirement for sidewalks,
+which he was in favor of. He also noted that the new development will attract new homes, new
+families, and permanent residents.
+
+Caitlyn Beck gave her address as 4416 South Butternut Road and expressed support for the
+proposed rezone. While not ideal, it will improve the neighborhood and she was pleased that
+sidewalks will be added. In terms of lot size, Mrs. Beck mentioned that there are quite a few lots
+in the neighborhood that are currently less than one-quarter acre in size, which is similar to the lot
+sizes proposed. Her family lives in a two-story home and more of the same would not look out of
+place.
+
+There were no further public comments. The public hearing was closed.
+
+It was clarified that there are two homes across the street from the proposed lots. It was noted that
+there was a rezone about 18 months ago at which time they changed the lot on 4500 South and the
+.26-acre lot was acquired.
+
+Commissioner Lloyd asked if curb cuts and sidewalks will be required on the east side of the road.
+Mr. Teerlink stated that it would be. If the rezone were granted there was some question as to
+whether the City would attempt to connect to the existing sidewalk. Mr. Teerlink stated that the
+issue could be brought to the attention of the City Manager.
+
+Commissioner Mackin asked about the square footage of the homes that are proposed to be built
+on the 8,000 and 10,000 square-foot lots. Mr. Teerlink stated that the Code the allowance for
+setbacks, height, and size is based upon the lot size. As the lot size decreases, the house size scale
+drops considerably. Other recent projects on 4500 South were identified. If the property were to
+remain zoned R-1-10 and all of the lots were included in PUD, the applicants would not be able to
+develop three homes. Mr. Teerlink explained that the required lot width for R-1-10 differs from
+R-1-8. The other concern was that 4470 South, which runs east and west, is not fully dedicated to
+the public and detracts from these areas.
+
+The applicant reported that the lots meet the area requirement of 10,000 square feet but in the R-
+1-10 zone the lot width must be a minimum of 80 feet and these lots are just under that. The issue
+was a width issue rather than an area issue. The proposed building footprints range in size from
+2,500 square feet to nearly 4,000 square feet. The frontage keeps them from meeting the R-1-10
+zone requirements.
+
+Troy Holbrook asked if it was necessary to specify an access coming off of 4470 South for Lot 3.
+Mr. Teerlink stated that that could be considered once the plat is presented. It was clarified that
+the R-1-8 zone only allows for detached units. The applicant stated that there will be no more than
+three detached single-family homes on the lots. No duplexes are allowed.
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                  3
+Commissioner Lloyd moved to recommend approval to the City Council of a Zone Map
+Amendment to rezone property located at 2417 East Butternut Road from R-1-10 to R-1-8. The
+motion was seconded by Commissioner Bradshaw. Vote on motion: Chris Layton-Aye, Alyssa
+Lloyd-Aye, Ann Mackin-Aye, Jan Bradshaw-Aye, Troy Holbrook-Aye, and Chair Marianne
+Ricks-Aye. The motion passed unanimously.
+
+Mr. Allred stated that the final decision will be made by the City Council with an additional notice
+to be sent to everyone in the neighborhood within 500 feet.
+
+Chair Ricks moved to restore the agenda to its original order. Commissioner Bradshaw
+seconded the motion. Vote on motion: Chris Layton-Aye, Alyssa Lloyd-Aye, Ann Mackin-Aye,
+Jan Bradshaw-Aye, Troy Holbrook-Aye, and Chair Marianne Ricks-Aye. The motion passed
+unanimously.
+
+2.      Ordinance Amendment – 13.98 Land Use Violations for Illegal Operation of a Short-
+        Term Rental.
+Mr. Teerlink presented the staff report and stated that the request is from the City Council to review
+the enforcement action for land use violations of short-term rentals that are operating contrary to
+the existing ordinance. Short-term rentals are a land use that is allowed only in certain zones and
+on certain roads. Even if the land use criteria are met, the applicant must come before the Planning
+Commission for approval of the short-term rental. The Planning Commission then reviews the
+specific list of standards and issues a Conditional Use Permit. Currently, two short-term rentals
+have been approved by the City and two bed and breakfasts. The issue the Council is dealing with
+involves concerns with the operation of short-term rentals operating outside of the law. Some are
+operating quietly while others are not. The Council is interested in strengthening the City’s
+enforcement action and procedure as land use violations as a Class B Misdemeanor with fines
+imposed.
+
+Chair Ricks opened the public hearing.
+
+Brian Moench gave his address as 4091 Splendor Way. He spoke in favor of the proposed
+amendment in that there is a property across the street from him that is in stark violation of the
+ordinance. It is a single-family home that has been deliberately remodeled into a multi-unit rental.
+The business model the property owner is using is a short-term rental. The front yard of the
+property is occupied by vehicles constantly and there is no yard left. Many of the vehicles belong
+to the renters and are parked on the streets on nights they are to be removed to allow for snow
+removal. The situation has been ongoing for at least 10 years and the neighbors have approached
+the City on numerous occasions to address the situation without any success. The property owner
+has been fined a few times but they have been minimal. As a result, the operation has continued
+much to the dismay of the neighbors. Mr. Moench stated that the property owner is costing 15 to
+18 nearby homeowners a substantial amount in the value of their primary asset because of the
+ongoing activity. He suggested that more specifics be provided as far as approval being granted
+by the City. He also asked for more information on how the City would determine the violation.
+
+Mailei Bucher gave her address as 4072 South Splendor Way and stated that she has been dealing
+with the neighbor who rents short-term and long-term and commented that she began doing it long
+before the block was incorporated into the City. Currently, she is renting to about 10 people. Ms.
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                  4
+Bucher primary concern was that she is in the middle of the neighborhood rather than on a busy
+road. The neighbors have submitted pictures to the City and have kept logs for years. The property
+owner was taken to court over the short-term rental situation and found guilty. The activity was
+supposed to cease within 24 hours and she was fined $600 and threatened with jail time if she did
+not comply. The property owner did not comply and is behind on her payments to the court. The
+activity continues and has been for years. The entire home has been transformed into a boarding
+house. Ms. Bucher lives next door and has 12 and 20-year-old daughters and recently discovered
+that a sex offender is being housed in the home. She expressed her frustration with the situation.
+
+Mr. Teerlink explained that classifying the violation as a misdemeanor gives the courts extra
+leverage against the property owner and exacts any income the property owner has received. The
+intent is to exert more pressure over those the court has decided have been operating in violation.
+It was noted that the City can assess daily fees. Mr. Allred stated that the situation has been
+difficult for the City as well. With this particular property owner, the City has been unable to gain
+access to the interior of the home and as a result, has not been able to tie construction and
+permitting to the use. The matter has gone to court on a few occasions but the penalties are not
+severe. It was estimated that there may be up to 300 short-term rentals operating in the City. In
+this case, there are perhaps both short and long-term rentals taking place in addition to parking
+issues. Mr. Allred stated that many cities across the valley are struggling with short-term rentals.
+This property owner has been very effective at creating a very large income stream that makes it
+worth the potential violations and going to court.
+
+In response to a question raised, Mr. Allred stated that the neighbors have done an excellent job of
+communicating with the City. Staff regretted not being able to do more. The property owner is
+very resourceful and knows how to avoid statements being made or granting access to the home.
+The City is currently prosecuting a situation in the Canyon Cove Area, which has been difficult as
+well. Mr. Allred reported that some cities have decided to regulate and allow short-term rentals
+rather than provide enforcement only.
+
+Commissioner Lloyd supported imposing a fine that does not have to be proven and must be
+substantial enough to justify the violation. A daily amount of $200 or $250 was recommended.
+
+Susan Pohlman gave her address as 3338 Splendor Circle and stated that they have lived next to
+an illegal short-term rental for some time and the effects that this one home has had on the
+subdivision has been horrendous. Residents cannot walk with children or on the sidewalk because
+there are cars all over the sidewalk. The previous fines have been the cost of doing business for
+the property owner as she is making much more in rental income. The neighbors know there have
+been massive changes inside, that there are nightly renters, she advertises on Airbnb and other
+sites, and that she has long-term renters. Ms. Pohlman asked what can be done to get the City
+involved to see what is going on inside the home.
+
+Mr. Allred stated that the City’s Building Official and Police Chief have approached the property
+owner and asked to enter with the express purpose of seeing how the home was altered and was
+denied. Concerning a second home further up the street to the south, the Building Official was
+given access and found that nothing was being done there that would require a permit. Other
+potential options were identified. It was assumed that there are Building Code violations but they
+cannot be verified without entering the home.
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                 5
+Mr. Moench stated that the fine should be severe and high enough to serve as a deterrent. He
+pointed out that people are allowed to short-term rentals in their homes but there are laws in place.
+The City could insist that they request authorization and allow the City to conduct an inspection.
+A second home was purchased by the owners of the home being discussed two houses down. The
+neighbors immediately took action and had the City stop the construction that was underway.
+Immediately the home was sold to someone who did not intend to turn it into a multi-unit complex.
+If the City had not intervened, that home could have housed 20 rentals because it was a much
+larger home.
+
+Larry Gelwix gave his address 4129 Splendor Way and asked for clarification on whether all short-
+term rentals are required to obtain a permit. Chair Ricks confirmed that it is a requirement. The
+property in question does not have a permit for short-term rentals and they would not be allowed
+to have one under the current zoning. Mr. Allred stated that the City has tried to gather enough
+evidence on the short-term rental. He explained that it is difficult to prove. Mr. Gelwix questioned
+whether the property owner has denied that she is renting the home. He reported that he has seen
+license plates from five different states at the home and the entire front yard is a parking lot. There
+is also overflow parking in the street. Mr. Allred, suggested that the public hearing not focus on a
+specific violation and instead on the proposed ordinance. Mr. Gelwix expressed his support for a
+more stringent ordinance.
+
+Mr. Allred stated that property owners who are in violation can claim that they have a lot of friends
+and family who visit on weekends. The City has no way of proving that they are not related. Every
+step of the way there seems to have been an answer that cannot be refuted.
+
+There were no further public comments. The public hearing was closed.
+
+Chair Ricks suggested that the recommendation to the City Council include a substantial fine for
+violations. Mr. Allred remarked that the City’s Prosecutor is extremely well versed in this
+particular case.
+
+Commissioner Bradshaw moved to forward a positive recommendation to the City Council for
+Ordinance Amendment 13.81 Land Use Violations for illegal operation of a short-term rental,
+as proposed. It was suggested that the City Council consider a significant daily fine to deter
+future illegal short-term rentals. The motion was based on the following:
+
+Findings:
+      1.       The proposed amendment supports the long-range purposes of the General Plan
+               to preserve primarily residential neighborhoods from decidedly commercial
+               operations.
+
+       2.      A Short-Term Rental (“STR”), as a land use, traditionally attracts transient
+               activity, not normally associated with residential neighborhoods.
+
+       3.      Enforcement by the City is expected by residents who feel they have been
+               negatively affected by STRs operating in violation of the current Code.
+
+
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                  6
+The motion was seconded by Commissioner Holbrook. Vote on motion: Chris Layton-Aye,
+Alyssa Lloyd-Aye, Ann Mackin-Aye, Jan Bradshaw-Aye, Troy Holbrook-Aye, and Chair
+Marianne Ricks-Aye. The motion passed unanimously.
+
+3.       “Hideaway Day Spa” – Home Occupation CUP – 1633 East Spring Run Drive (R-1-
+         10).
+Mr. Teerlink presented the staff report and stated that the above request is for a Conditional Use
+Permit to operate a home-based business. The proposed use is a day spa where personal services
+will be provided. Conditional Use Permits are guided by the Land Use Code, which allows the
+Planning Commission to review conditions under which home-based businesses can be approved.
+It is an allowed use but includes specific conditions by which it may be operated and/or conditions
+that the Planning Commission may place upon the business.
+
+Chair Ricks opened the public hearing. There were no public comments. The public hearing was
+closed.
+
+Commissioner Bradshaw asked the applicant, Chaconne Christiansen about the proposed hours of
+operation, which seem irregular. Ms. Christiansen stated that currently, she has a full-time job that
+has very random hours. She would operate her business around those hours. Chair Ricks
+commented that the hours of operation seemed extensive for a home occupation. Ms. Christiansen
+stated that she typically works one evening on clients while she builds up her clientele. She
+expected to have 10 clients per week in the beginning but if it becomes a full-time operation, she
+expected to limit it to three to four days per week with five or six clients per day. Ms. Christiansen
+noted that she will have no employees. She stated that her two cars can be facilitated in the garage.
+
+Commissioner Bradshaw moved to approve the request for a home occupation for the Hideaway
+Day Spa located at 1633 Spring Run Drive subject to the following:
+
+Findings:
+      1.       A Home Occupation with customers is an allowed use for this location subject to
+               mitigation conditions;
+
+       2.      The proposed business’s operations are intended to be of low-impact --all
+               procedures are proposed to occur within the home;
+
+       3.      Property owner intends to provide off-street parking by use of their driveway; and
+
+       4.      It is not anticipated that traffic will be a problem due to the small-scale nature of
+               the use and the stated clientele count anticipated by the Applicant;
+
+       5.      There are no outside employees proposed or allowed with the use (which will
+               reduce the need for parking);
+       6.      The use provides a desirable service to the community;
+
+       7.      The proposed hours of operation for the business are of concern to Staff and not
+               common to most home occupations approved through the City; and
+       8.      Any other findings as may be determined by the Commission in its review of the
+               application.
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                  7
+Conditions of Approval:
+       1.     Off-street parking areas shall be maintained as available during business hours
+              – no street parking allowed;
+
+       2.      A business license shall be procured by the Applicant for the use and shall be
+               maintained in active status while the business is in operation;
+
+       3.      Operational permits and licensure are subject to review and revocation upon
+               finding of non-compliance;
+
+       4.      Provided clientele services shall be limited to a maximum of one person at a time;
+
+       5.      Days and hours of operation limited to Sunday 12:00 p.m. – 7:00 p.m., Mondays
+               and Tuesdays 9:00 a.m. – 12:00 p.m. and 5:00 p.m. to 9:00 p.m., Wednesdays
+               9:00 a.m. – 9:00 p.m., Thursdays 9:00 a.m. – 12:00 p.m. and 5:00 p.m-9:00 p.m.
+               unless adjusted otherwise by the Commission;
+
+       6.      Any other conditions as may be imposed by the Commission to promote the
+               general health, safety and welfare of the neighborhood surrounding the property;
+
+       7.      There shall be no client parking in the street; and
+
+       8.      Any complaints will require Planning Commission review.
+
+Commissioner Layton seconded the motion. Vote on motion: Troy Holbrook-Aye, Jan
+Bradshaw-Aye, Ann Mackin-Aye, Alyssa Lloyd-Aye, Chris Layton-Aye, and Chair Marianne
+Ricks-Aye. The motion passed unanimously.
+
+4.      Residential Site Grading Permit – 4932 South Waimea Way – (R-1-10 Zone).
+The applicant, Nick Tanga acknowledged that their request was denied on two separate occasions.
+They were prepared to revise their approach and would still like to construct a retaining wall and
+backfill it due to the reasons cited previously. They are proposing to build one eight-foot wall four
+feet from the rear property line with a rail on top for safety.
+
+Chair Ricks opened the public hearing.
+
+Rick Jensen gave his address as 3941 Naniloa Drive and stated that he lives next to the Tangas on
+the west. He referenced another project completed in the area by the Winkles and stated that the
+neighbors were deceived about what that project would entail. Mr. Jensen explained that he now
+has a 14-foot wall of cement with a fence on top that goes halfway through his backyard. He noted
+that this was not his understanding of what was to be built and it is not consistent with Code. He
+was disappointed that no one from the City inspected his property or monitored the project. Mr.
+Jensen stated that the property value of the Winkle’s property has increased, while his own
+property value has decreased.
+
+Mr. Jensen addressed Mr. Tanga’s proposal and stated that he does not fully understand what is
+being proposed. He wanted clarification about the proposition that the wall be built four feet back
+from the property line. He asked what is set forth in the Code on this specific issue. He was
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                 8
+disappointed that the view from his backyard is now half taken up by a cement wall and if Mr.
+Tanga’s request is granted, the other half will be a cement wall as well. He expressed opposition
+to Mr. Tanga’s proposal.
+
+Chair Ricks commented that the Commission is not pleased with how the Winkle’s project was
+developed and stated that further action will be taken. Mr. Allred explained that City Planner, Rob
+Hobbs, who was most familiar with the issue, was unable to be present. Mr. Allred objected to the
+Tanga’s proposal at the last meeting because it exceeds the maximum allowable height. It was
+supposed to be a total of eight feet combined between fence and wall. Mr. Allred described the
+ordinance and his understanding of how it applies. If someone wants to construct a fence that is
+taller than six feet, approval from the property owner that abuts that fence is required. If the
+properties converge at a “T”, this includes every property owner whose property touches the fence.
+Mr. Allred stated that the question, in this case, is whether the neighbors are willing to allow a
+wall that is eight feet tall. For that reason, the Tangas are requesting a special exception. The
+Tangas would like to have a fence on top of the proposed wall. An eight-foot wall and a safety
+retainer make the combined height of the structure 11 feet.
+
+Mr. Allred explained that this is an interpretational issue. The question becomes about whether a
+wall can be placed inside a property line. In most cases, fences are placed on the property line.
+The structure the Tangas are proposing is a retaining wall and there was some question about
+whether it should be considered a fence. Mr. Allred explained that many property owners place a
+fence back from the property line to avoid a conflict with the neighbors and can become an issue
+for the City. Mr. Allred was not aware of any guidance in terms of how a wall topped by a fall
+barrier should be considered in the Code. It was noted that a wall can be a fence on the property
+line, but a fence cannot be a retaining wall. If a neighbor whose property line abuts the wall does
+not approve, the highest a retaining wall can be is four feet. The Tangas may have a retaining wall
+that is four feet in height unless they are given a special exception. Mr. Allred stated that when
+there is ambiguity in the Code, the Courts tend to lean toward the applicant.
+
+Commissioner Layton proposed a shorter retaining wall on the property and a gradual slope to
+where the ground is level in the Tangas’ yard. He stated that they will have the same amount of
+usable yard without the conflict of a high retaining wall. Mr. Allred stated that the current issue
+pertains to interpretation, which has evolved into other conflicts and dissatisfied neighbors. The
+Code is vague, which is why the Winkle’s wall and fence were approved and is now a problem.
+He asked that the Commission eliminate any confusion to prevent future issues.
+
+The wall on the Winkle’s property was discussed. While it was originally approved by the
+Planning Commission and neighbors, the actual wall that was built ended up being much taller
+than what was approved. It was noted that this is now an enforcement issue. Chair Ricks stated
+that enforcement options were still being pursued.
+
+Rita Wright gave her address as 4941 Naniloa Drive and was pleased that enforcement efforts will
+continue. She had spoken with city planners from different municipalities about the debated
+section of the Code and they all agreed there are various interpretations. She suggested the
+Commission have the Code reviewed and clarified quickly. She appreciated members of the
+Commission who took the impacted neighbors into account. Ms. Wright submitted written
+comments to the City and stressed the importance of clarity.
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                9
+Jeff Ridges gave his address as 4919 Naniloa Drive and stated he will be impacted by the proposal.
+He and his wife reviewed the Code on fences and walls and it is clear that without a neighbor’s
+consent the wall must be 10 feet from the property line. It is also clear that eight feet is the
+maximum height. He noted that the drawings submitted by the Tangas show a 14-foot wall. He
+expressed a desire to have the wall measured to determine how much it encroaches on neighboring
+properties. The homes in the area are over 50 years old and no variance should be allowed. Mr.
+Ridges expressed concern that the proposed wall will improve the property value of one property
+by decrease the value of another. He asked that the issue be resolved as soon as possible. He
+expressed disappointment in the way the Winkle property was handled.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Bradshaw expressed concern about granting approval until the other similar use
+comes into compliance. She was not in favor of approving anything that abuts the wall that is out
+of compliance. She suggested that the wall come down or they upgrade what will be in compliance
+and not go beyond that to match what is existing. She stressed the need for a change.
+
+Commissioner Layton was not in favor of even a four-foot wall if action is to be taken to correct
+the existing error. The bigger problem in his mind was that it shows that there is an area of zoning
+and interpretation that needs to be addressed. Mr. Teerlink stated that when the Code was
+recommended this time last year, it was recommended that the City Council approve a set of very
+open laws. He explained that whenever there is a proposal to backfill and retain if it is within a
+setback it requires Planning Commission review.
+
+Chair Ricks encouraged staff to set standards based on a number of retaining walls that have been
+presented. It was recommended that language be added that retaining walls be considered fences
+at property lines or within the setback and be specific.
+
+Commissioner Layton commented that when a false grade is created by backfilling against an
+eight-foot retaining wall it could be compliant but is not a good design solution. Mr. Teerlink
+explained that to assume that a barrier is needed presumes that the grade will be taken to the top
+of the retaining wall.
+
+Mr. Allred pointed out that there is some gray area. He suggested involving the City Attorney and
+getting his feedback on the interpretation of the Code.
+
+Nicholas Tanga was disturbed that the three neighbors to the south of his property are opposed to
+his request. Possible alternatives were discussed such as two four-foot walls. Chair Ricks stated
+that if there is a four-foot wall at the front fence line, the applicant could build a two-foot fence on
+top. Mr. Allred stated that that would be considered a six-foot fence and would not require the
+approval of the neighbors. Commissioner Layton stated that the applicant could build two
+retaining walls and accomplish what he would like to.
+
+Jeff Ridges commented that the reason there is a fence height limit is that without one, it would be
+far exceeded. He recommended not granting a variance and simply require Mr. Tanga to adhere
+to the Code.
+
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                  10
+Chair Ricks clarified that the Commission is not endorsing any options and asked that staff revisit
+the ordinance.
+
+Commissioner Mackin moved to deny the Special Exception to grading standards for property
+located at 4932 South Waimea Way because the impact of the request affects the neighbors, and
+the scale of the fence that was built on the Winkle property was built in violation of the Code.
+The motion was seconded by Commissioner Bradshaw. Vote on motion: Chris Layton-Aye,
+Alyssa Lloyd-Aye, Ann Mackin-Aye, Jan Bradshaw-Aye, Troy Holbrook-Aye, and Chair
+Marianne Ricks-Aye. The motion passed unanimously.
+
+Chair Ricks asked staff to seek legal guidance and address the Winkle property. She also clarified
+that the Tangas may return to the Commission after the interpretation of the Code is clear and the
+City Engineer has analyzed the situation. If the Tangas return to the Commission on this matter,
+the fee will be waived. Chair Ricks stated this is not a precedent. The Commission can approve
+any further walls to support the Tanga request.
+
+5.      Residential Subdivision – “Weyburn Estates” Concept Plan (PUD) – 1306 East Spring
+        Lane (RM).
+Mr. Allred introduced the staff report and stated that the applicant is requesting subdivision
+approval. He gave a slide presentation showing an initial design for 16 lots on the property. The
+applicant eventually would like to obtain a Planned Unit Development (PUD) conditional use. The
+zoning has been approved and every lot should have a minimum of 2,722.5 feet. The approximate
+density is 16 units per acre. Tonight’s purpose is to discuss the multi-family zone, which is the
+same as the zoning to the south. The homes will be lower in height than allowed by Code. Mr.
+Allred pointed out that the west end of the property is heavily sloped, not unlike the sites in
+Tobermory that were approved in 2013. At the meeting, there was a lot of comment about access
+and safety. Public Works Director, Tosh Kano is strongly in favor of a second access to the
+property. It was suggested that Tobermory be widened at least 40 feet back from Spring Lane and
+the entrance widened to make it easier to turn in and out.
+
+The applicant, Jeff Kruckenberg, gave his address as 5411 South Vine Street and stated that the
+primary concern was traffic. He was willing to work with others to create safe access. He
+reiterated that the private access used by Tobermory is owned by the subject property and has a
+recorded right-of-way agreement allowing the residents to access their homes and is non-exclusive.
+His subdivision intends to use the same access for the 16 homes that are proposed. Mr.
+Kruckenberg did not believe it was reasonable to require a second access if there is discussion
+about widening Tobermory. He would be creating two accesses for the subdivision that he does
+not need. He asked that he be allowed to work through the issues with staff and his Engineer. Mr.
+Allred encouraged this and stated that Mr. Kruckenberg’s Engineer is highly regarded. There was
+a discussion of a traffic study on Tobermory and the need to review safety and access more. Mr.
+Kruckenberg added that normally a public street in a subdivision would require a width of 25 feet.
+Chair Ricks opened the public hearing.
+
+Kristine Goddard gave her address as 5061 South Oban Court and identified as one of the Directors
+of the HOA Board. She also provided a letter from the HOA’s attorney and referenced the HOA
+concerns on page 2 of the letter. She appreciated what Mr. Allred had done to understand the
+neighbor’s concerns and explained that the road is the only way to in and out for the residents.
+There are mailboxes next to a locked gated road for emergency access. Ms. Goddard stated that
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                11
+there is an issue with Tobermory Way, which is undersized and inadequate and barely manages to
+accommodate two passenger vehicles. She remarked that the maintenance of Tobermory Way is
+the responsibility of the Tobermory residents. The HOA feels there would be inequitable and
+disproportionate harm to the HOA if there was not some sharing of the maintenance responsibility.
+She understands the increased cost concerns but did not consider it a reason for the developer to
+not widen the roadway to improve the access.
+
+Jira Kratochvil gave his address as 5059 South Moray Court and commented that the traffic will
+be tremendous with the proposed project. He asked that the access issue be addressed.
+
+Julie Abrams gave her address as 5044 South Moray Court and agreed with the previous
+comments. She is a pet owner and uses Tobermory Way to walk her pets which is treacherous.
+The view is obstructed when cars park on Spring Lane. She asked that the Commission look at
+the installation of a sidewalk in the area. She supports a secondary entrance into the community.
+Mr. Allred stated that the City can address parking on Spring Lane outside of this project.
+
+Doug Beck gave his address as 1311 East Tobermory Way and thanked Mr. Allred for his follow-
+up. He reported that the Tobermory entrance is 16 feet. The entrance into the church parking lot
+is 21 ½ feet wide. He believes that currently, a vehicle approaching Spring Lane must enter the
+sidewalk to be able to exit. He stated that the developer can widen the access. Mr. Allred clarified
+that he has encouraged that the developer stay away from construction on steep slopes if possible.
+
+Diana Tyson gave her address as 1319 East Tobermory Way and thanked everyone for their work.
+She agreed with her neighbors’ comments about safety.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Lloyd asked staff to address the issue of road maintenance before the matter is
+brought back to the Commission. Traffic standards were next reviewed. It was mentioned that
+safety should also be considered.
+
+Commissioner Mackin moved to continue the request for Conceptual Subdivision Review by
+Jeff Kruckenberg who resides at 1306 East Spring Lane and continue the public hearing. The
+Planning Commission would like staff to have the TRC, including Dr. Perrin, fully review the
+conceptual subdivision, have a formal evaluation by the specific engineers, and look at the
+deceleration lane to formally evaluate the conceptual plan before it returns. The PC requested
+that a re-notice to the neighbors be sent prior to this item returning for Commission
+consideration.
+
+Chair Ricks made a friendly amendment to amend the motion to add that the Commission wants
+the City and the applicant’s Engineers to evaluate the current situation, regardless of the
+Conceptual Plan. Commissioner Mackin accepted the friendly amendment. The motion was
+seconded by Commissioner Bradshaw. Vote on motion: Chris Layton-Aye, Alyssa Lloyd-Aye,
+Ann Mackin-Aye, Jan Bradshaw-Aye, Troy Holbrook-Aye, and Chair Marianne Ricks-Aye.
+The motion passed unanimously.
+
+
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                12
+6.     Commercial Site Plan – “Cotton Bottom Inn” Redevelopment – Concept Plan – 6252
+       South Holladay Boulevard (LU). *Commissioner Layton recused himself from this
+       item for the purposed of declaring conflict of interest.
+
+Mr. Allred presented the staff report and stated that staff feels good about the proposed site plan.
+He reminded the Commission that this is a Conceptual Site Plan review. The Cotton Bottom
+Development will keep the old building and add a patio area with a bar and a family restaurant.
+The project will maintain the flavor of the old Cotton Bottom, refurbish the old sign, and the theme
+will remain along with many menu items. The use is not changing, just the size of the property.
+The applicants, Jeff Bernard and Dave Hunt are switching to a full service restaurant liquor license
+from a tavern license. The project will be more of a family restaurant and they want to keep the
+restaurant as much the same as possible. The bar will be for patrons 21 years and older.
+
+There was a discussion about the layout of the project. The new building will look like an old
+factory warehouse with a lot of windows. The applicant is expected to close on the purchase on
+April 14 and once plans are approved, they will begin construction. The hope was to open in
+October 2020. A meeting took place with the neighbors previously who raised concerns about
+traffic and noise. The applicant stated that the Cotton Bottom help minimize any impacts and be
+the best neighbors they can. The neighbors indicated that they were pleased that the restaurant
+was coming.
+
+Mr. Allred reported that there is only one other Limited Use (LU) zone in the City (Tuscany and
+Franck’s) so the Commission will need to develop regulations including hours of operation,
+parking, etc. There was discussion about the abutting landscaping and the potential for the
+development to be dog friendly.
+
+Chair Ricks opened the public hearing. There were no public comments. Chair Ricks closed the
+public hearing.
+
+Mr. Allred stated that he received a significant amount of verbal public comment throughout the
+day that included a great deal of support.
+
+Commissioner Mackin moved to approve the Conceptual Site Plan for the Cotton Bottom
+Restaurant and Bar at 6252 South Holladay Boulevard for the applicant, David Hunt and
+continue the discussion on the conditional use of the property. The motion was seconded by
+Commissioner Bradshaw. Vote on motion: Alyssa Lloyd-Aye, Ann Mackin-Aye, Jan
+Bradshaw-Aye, Troy Holbrook-Aye, and Chair Marianne Ricks-Aye. The motion passed
+unanimously. Chris Layton recused himself from the vote.
+
+7.    ADJOURN
+Commissioner Mackin moved to adjourn. The motion passed with the unanimous consent of
+the Commission.
+
+The Planning Commission Meeting adjourned at approximately 10:41 p.m.
+
+
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                                13
+I hereby certify that the foregoing represents a true, accurate and complete record of the City of
+Holladay Planning Commission Meeting held Tuesday, March 3, 2020.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+
+Minutes Approved:      April 7th 2020
+
+
+
+
+City of Holladay Planning Commission Meeting – 03/03/2020
+                                               14
+

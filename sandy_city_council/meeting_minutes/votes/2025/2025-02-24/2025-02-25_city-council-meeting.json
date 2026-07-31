@@ -1,0 +1,71 @@
+{
+ "date": "2025-02-25",
+ "year": 2025,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2025/2025-02-24/2025-02-25_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Ryan Mecham to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Zach Robinson",
+   "seconder": "Ryan Mecham",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Aaron Dekeyzer, seconded by Zach Robinson to adopt Resolution 25-05C as written",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Aaron Dekeyzer",
+   "seconder": "Zach Robinson",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Aaron Dekeyzer"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Marci Houseman",
+    "Brooke D'Sousa"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Aaron Dekeyzer, seconded by Ryan Mecham to convene a meeting of the Redevelopment Agency Board and adjourn the city council meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "mover": "Aaron Dekeyzer",
+   "seconder": "Ryan Mecham",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Aaron Dekeyzer"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Marci Houseman",
+    "Brooke D'Sousa"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  }
+ ]
+}

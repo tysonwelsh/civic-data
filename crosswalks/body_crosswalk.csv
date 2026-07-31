@@ -1,0 +1,44 @@
+city,native_code,canonical_name,description
+*,Council,City Council,the elected legislative body
+*,PlanningCommission,Planning Commission,"appointed land-use body; recommends on legislative items, decides administrative ones"
+*,RDA,Redevelopment Agency,council sitting as the redevelopment agency board (in-meeting recess in most cities; separate meetings in ogden/west_valley/west_jordan)
+slc,CRA,Community Reinvestment Agency,council sitting as the CRA board (Utah 17C reinvestment agency)
+nephi,CRA,Community Reinvestment Agency,"council/agency sitting as the Nephi City Community Reinvestment Agency (Utah 17C); modeled as a body= value inside meeting_minutes (slc/holladay/millcreek pattern), not a separate dataset. PMN body 5737 harvested in full 2026-07-19 (10 notices 2016-2023, pmn_backfill/cra.json): within the 2020 floor it recovers nothing new — the one audited motion (2021-07-27 interlocal, AgendaCenter minutes) already carries body=CRA in meeting_minutes/all_votes.csv, and the 2023-12-19 CRA meeting is agenda-only (minutes 404 on every channel -> meeting_minutes/minutes_unrecovered.csv). Pre-floor CRA history (2016-2019) enumerated but not promoted; its only live attachment is a 2019 schedule doc."
+magna,CRA,Community Reinvestment Agency,"council sitting as the Magna Community Reinvestment Agency board (Utah 17C; ""Board Member"" roles) — audited in-recess/one-off CRA docs PLUS standalone CRA meeting minutes (PMN body 6925) recovered and promoted 2026-07-16 (provenance=pmn_minutes); 32 motions tagged in meeting_minutes/all_votes.csv"
+millcreek,CRA,Community Reinvestment Agency,"council sitting as the Millcreek Community Reinvestment Agency board (Utah 17C; project-area plans/budgets, participation agreements, inter-fund loans); 246 motions tagged in meeting_minutes/all_votes.csv"
+kearns,CRA,Community Reinvestment Agency,"council sitting as the Kearns Community Reinvestment Agency board (Utah 17C, established 2025; ""Board Member"" roles, Chair Bush votes) — standalone CRA minutes docs on PMN body 9273, recovered via pmn_backfill and promoted 2026-07-16 (provenance=pmn_minutes); 9 motions tagged body=CRA in meeting_minutes/all_votes.csv"
+slc,LBA,Local Building Authority,council sitting as the LBA board (facility financing)
+holladay,LBA,Local Building Authority,"council recesses & reconvenes as the Local Building Authority (facility financing); 12 vote rows tagged in meeting_minutes/all_votes.csv (RDA, 60 rows, is covered by the * wildcard)"
+alta,BudgetCommittee,Budget Committee,"SEPARATE body whose meetings are minuted in the SAME council-minutes PDF (opened by ""CALL THE BUDGET COMMITTEE MEETING TO ORDER""): the Mayor + 2 councilmembers + the staff TREASURER — NOT the Town Council (the other 2 councilmembers do not sit or vote on it). 7 motions tagged in meeting_minutes/all_votes.csv (2022-04-13 .. 2023-06-07); before the 2026-07-29 body walk these were recorded as Council votes, which put Treasurer Craig Heimark (staff until certified to the Council for the 2026 term) in the 2022 council roll."
+bluffdale,LBA,Local Building Authority,"council recesses in-session as the Local Building Authority (the mayor votes as Chair here, max 6); 84 vote rows tagged in meeting_minutes/all_votes.csv (RDA, 300 rows, via the * wildcard)"
+lehi,MBA,Local Building Authority,lehi's building authority meets separately; repo coded it MBA — lehi docs name it the Local Building Authority
+ogden,MBA,Municipal Building Authority,separate MBA meetings (facility financing); 2022 sets never acquired (documented)
+orem,MBA,Municipal Building Authority,in-meeting recess segments
+west_jordan,MBA,Municipal Building Authority,separate MBA meetings
+west_valley,MBA,Municipal Building Authority,separately-meeting finance/lease body
+south_jordan,MBA,Municipal Building Authority,MBA board convenes inside council meetings (in-meeting recess); 1 vote row tagged in meeting_minutes/all_votes.csv
+midvale,MBA,Municipal Building Authority,"standalone board meeting docs (""Board Member""/""Chair"" roles; the tie-break-only Mayor presides as Chair, non-voting); 1 PMN-recovered doc promoted 2026-07-16 (provenance=pmn_minutes; 5 motions, 2024-05-07 FY2025 MBA budget) in meeting_minutes/all_votes.csv"
+midvale,RDA,Redevelopment Agency,"council sitting as the RDA board — audited in-session captures inside council minutes docs PLUS standalone RDA board docs (""Board Member""/""Chair"" roles) PMN-recovered and promoted 2026-07-16 (provenance=pmn_minutes); 84 motions tagged in meeting_minutes/all_votes.csv"
+park_city,HA,Housing Authority,council sitting as the housing authority board (in-meeting recess)
+orem,SSLD,Special Service Lighting District,council sitting as the street-lighting district board
+st_george,ArtsCommission,St. George Arts Commission,SEPARATE body with different members (not councilmembers) — minutes published in the same stream
+st_george,Canvass,Board of Canvassers,the council convened to certify an election (same people as Council)
+sandy,City Council,City Council,"Legistar body 138; = body ""Council"" in all_votes.csv"
+sandy,Planning Commission,Planning Commission,"Legistar body 140; = body ""PlanningCommission"" in all_votes.csv"
+sandy,Board of Adjustment,Board of Adjustment,Legistar body 139 (no vote rows in the standard CSVs)
+sandy,Community Development,Community Development,Legistar body 173 (department; no vote rows)
+sandy,CDBG Committee,CDBG Committee,Legistar body 186 (no vote rows)
+sandy,Historic Preservation Committee,Historic Preservation Committee,Legistar body 187 (no vote rows)
+sandy,Public Utilities Advisory Board,Public Utilities Advisory Board,Legistar body 192 (no vote rows)
+sandy,Arts Guild,Arts Guild,Legistar body 194 (no vote rows)
+sandy,Civic Center Architectural Review Committee,Civic Center Architectural Review Committee,Legistar body 195 (no vote rows)
+sandy,Community Development Director,Community Development Director,Legistar body 197 (no vote rows)
+sandy,RDA,Redevelopment Agency,RDA board convenes inside council meetings; 1 vote row tagged
+taylorsville,RDA,Redevelopment Agency,council sitting as the Taylorsville Redevelopment Agency board (in-meeting recess); 8 motions tagged body=RDA in meeting_minutes/all_votes.csv
+logan,RDA,Redevelopment Agency,same-night in-council recess with its own roll calls; split into separate redevelopment-agency-meeting files (31 meetings)
+provo,RDA,Redevelopment Agency,council sitting as the RDA board via in-meeting convene/reconvene segments (39 meetings tagged by the body column)
+vineyard,RDA,Redevelopment Agency,"council sitting as the RDA board (in-meeting segments, often inside joint work-session documents; 9 meetings)"
+herriman,CDRA,Community Development and Renewal Agency,"council sitting as the Community Development and Renewal Agency of Herriman City board (Utah 17C reinvestment agency; the mayor sits as CDRA Chair) — separate CDA/CDRA minutes docs + PMN-recovered standalone minutes (provenance=pmn_minutes, promoted 2026-07-16); 64 motions tagged in meeting_minutes/all_votes.csv"
+cottonwood_heights,CDRA,Community Development and Renewal Agency,council sitting as the Cottonwood Heights Community Development and Renewal Agency board (Utah 17C reinvestment agency) via in-meeting recess segments; 128 vote rows tagged in meeting_minutes/all_votes.csv
+herriman,HCSEA,Herriman City Safety Enforcement Area,"special safety-enforcement service area board (Board Member/Trustee/Director roles); standalone minutes docs incl. PMN-recovered (provenance=pmn_minutes, promoted 2026-07-16); 39 motions tagged in meeting_minutes/all_votes.csv"
+herriman,HCFSA,Herriman City Fire Service Area,"fire-service special-service area board (Board Member/Trustee/Director roles); standalone minutes docs incl. PMN-recovered (provenance=pmn_minutes, promoted 2026-07-16); 31 motions tagged in meeting_minutes/all_votes.csv"

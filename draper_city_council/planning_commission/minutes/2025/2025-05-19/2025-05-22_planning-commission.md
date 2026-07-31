@@ -1,0 +1,852 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1912&doc_id=b4b129fa-6266-11f0-b7f5-005056a89546
+> Meeting date: 2025-05-22
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, MAY 22, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Gary Ogden
+               Commission Member Mary Squire
+               Alternate Commission Member Laura Fidler
+
+NOT PARTICIPATING:
+               Alternate Commission Member Christine Green
+               Alternate Commission Member Shivam Shah
+
+
+EXCUSED:             Andrew Adams, Chair
+                     Commission Member Kendra Shirey
+
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Lori Stout, Administrative Assistant
+                     Brien Maxfield, Senior Engineering Manager
+                     Spencer DuShane, Assistant City Attorney
+
+6:33PM Business Meeting
+
+In the absence of Chair Andrew Adams, Vice-Chair Lisa Fowler called the meeting to order at
+6:33 PM and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+      A.      Action Item: Approve Planning Commission Meeting Minutes for March 13,
+              2025.
+              (Administrative Action)
+              Approval of Planning Commission Meeting Minutes for March 13, 2025.
+
+Motion: Commissioner Nixon moved to APPROVE the March 13, 2025, Planning
+Commission Meeting Minutes, as presented.
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner      Yes    No    Abstained    Not Participating    Absent
+       Chair Adams                                                          X
+       Fowler             X
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 2
+
+        Squire               X
+        Ogden                X
+        Nixon                X
+        Shirey                                                                      X
+        Fidler, Alternate    X
+        Shah, Alternate                                          X
+        Green, Alternate                                         X
+
+       B.      Public Hearing: Kimball Junction Zoning Map Amendment, Land Use Map
+               Amendment, and Development Agreement Request.
+               (Legislative Action)
+               On the Request of Mike Winters, Representing Edge Homes, for a Zoning Map
+               Amendment from RA1 and RA2 Zones to the RM2 Zone, a Land Use Map
+               Amendment from the Residential Low/Medium Density Designation to the
+               Residential High-Density Designation, and a Development Agreement to Set a
+               Density Range for Approximately 20 Areas of Land located at 600 East Kimballs
+               Lane. Applications 2025-0092-MA, 2025-0091-MA, and 2025-0090- DA. Staff
+               contact          is       Jennifer         Jastremsky,         801-576-6328,
+               jennifer.jastremsky@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, presented the Staff Report and stated that
+the 20-acre property is located across the street from the Kimballs TRAX Station at 11800 South
+and 700 East. The aerial view shows that the property is comprised of the Olabarri Farm and a
+couple of adjacent homes. The Land Use Map identifies a Residential Low/Medium Density
+designation that allows one to two units per acre. The request is to change the Land Use Map
+designation to Residential High Density, allowing up to 12 units per acre. The Zoning is RA1 and
+RA2, which allows for one-half and one-acre lot sizes. They are residential/agricultural and horse
+properties. The request is to rezone the properties RM2, which allows up to 12 units per acre.
+
+The Development Agreement calls for a density of 25 to 27 dwelling units per acre, which is an
+increase from the RM2 zoning. On the 20-acre site, 540 units would be allowed. The Development
+Agreement does not include a Concept Plan or Design Standards, as is typical. In lieu of the
+Concept Plan, the Development Agreement specifically calls out that the City and Developer will
+collaboratively develop a Concept Plan for the project that will conform to the future Station Area
+Plan requirements.
+
+A provision is included that allows the project area to be expanded if additional property is
+acquired, understanding that in the future, any additionally acquired property would be required to
+be added to the Development Agreement by means of an Amendment. The term of the Agreement
+would be until the end of 2032 or project buildout. The Agreement sets forth the objectives for
+the Station Area Plan, which is required by the State for properties that are adjacent to all public
+transit TRAX and FrontRunner Stations. Ms. Jastremsky reported that the City has a Station Area
+Planning process in the works for this station. One is being done for the FrontRunner and one for
+the Kimballs Lane and Crescent View Stations. There have been several meetings with stakeholder
+groups including residents, property owners, and business owners in the area. An Open House is
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 3
+
+scheduled on June 5, 2025, from 5:30 PM to 7:00 PM to gather additional feedback from the public
+on the process as it goes forward. The Development Agreement addresses the objectives set forth
+by the State for the Station Area Plan and calls for the developer and the City to create a Concept
+Plan that will work for both parties while complying with Station Area Plan standards.
+
+The Station Area Plan Objectives were identified as follows:
+
+Objective 1: Increase the availability and affordability of housing including moderate-income
+housing. The Development Agreement calls for for-sale units and a Public Private Partnership
+with the City to create 30 Workforce Housing units. These will be set aside for public servants
+such as city employees, school teachers, and first responders. It will include a $30,000 purchase
+discount on the overall price from each party (the Developer and the City) resulting in a $60,000
+reduction of the market price for the buyer. Additionally, there will be an emphasis on helping
+people who qualify for Utah State’s First-time Home Buyer’s Assistance Program which further
+reduces the cost by $20,000, making these units more affordable.
+
+Objective 2: Promote sustainable environmental conditions. The Development Agreement
+specifies reducing water demand by installing water-wise landscaping and clustering landscaping.
+
+Objective 3: Enhance access to opportunities. The property is next to a public transit station and
+will provide access to the hospital, shopping, the Juan Diego school campus, and employment
+along the TRAX line.
+
+Objective 4: Increase transportation choices and connections. As the property is near the station,
+residents will be encouraged to use TRAX, which will provide easy walking routes for residents
+living nearby. In addition, the developer will support and invest in transportation infrastructure to
+include pedestrian and bicycle facilities within the area.
+
+Vice-Chair Fowler confirmed that State law requires the City to consider what is being built next
+to public transit stations and asked what radius area near the track must be considered. She asked
+if the City could work collaboratively with the Developer or if that would be considered a conflict
+of interest. Ms. Jastremsky reported that the radius area around the station is one-half mile and
+these properties are located within that distance. She confirmed that the City needs to consider
+these developments in concert with the Station Area Plan objectives. She also confirmed that the
+City can work with the Developer and the Applicant has been a part of the Stakeholder Committee
+for the Station Area Plan.
+
+Vice-Chair Fowler reported that there has been public concern regarding increased traffic from
+potentially 500 new dwellings. She asked Ms. Jastremsky to comment on traffic management
+going forward. Ms. Jastremsky identified the proposed access points on a map displayed. In
+addition to the two proposed access points on Kimballs Lane, there will be several proposed
+additional access points on other streets including 11900 South. Given the proposed density, any
+development will require a Traffic Study to analyze the impact of increased traffic that may help
+determine where the access points should be.
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 4
+
+Commissioner Ogden asked where the City’s funding will come from, which will provide the
+$30,000 for Workforce Housing. Ms. Jastremsky reported that they will use Redevelopment
+Agency (“RDA”) funds, which can only be used for certain things such as workforce housing.
+
+Commissioner Ogden commented on the difficulty of making a recommendation without having
+data from a Traffic Study in hand with the impact of such a large development in such a small
+area. Senior Engineering Manager, Brien Maxfield, stated that the Developer is obligated to
+mitigate any traffic concerns identified. It would be a fairly intensive Traffic Study based on the
+proposed number of units. The City will not allow development to begin if traffic impacts are not
+mitigated. Mr. Maxfield stated that typically mitigation is needed when a threshold of 100 peak-
+hour trips is reached. With 500 units, that level will be reached very quickly.
+
+With regard to Workforce Housing provisions, Ms. Jastremsky reported that the Development
+Agreement states that the City will make a good-faith effort to contribute up to $30,000 per unit
+toward the purchase price, preferably using RDA funds. The Developer will provide a $30,000
+credit per unit to be applied to purchase price reductions or mortgage interest rate buy-downs. The
+City and Developer will seek to maximize eligibility for the State’s First Time Homebuyers
+Assistance Program which will provide a $20,000 grant to qualified buyers. While the funding is
+not guaranteed it is a good-faith effort. Commissioner Nixon was familiar with a similar housing
+funding benefit utilized in another city and stated that it is a great program. There is a narrow
+window to qualify but a lot of people need it.
+
+Paxton Guymon identified himself as in-house counsel for the Applicant, Edge Homes. The
+application was filed by Mike Winters who is their in-house professional engineer. Mr. Guymon
+was present with Steve Maddox, one of the founders/owners of Edge Homes. With respect to the
+Workforce Housing component identified in the Agreement, Edge Homes is obligated to provide
+$30,000 and the City is encouraged to provide the same amount for 30 of the homes. The goal is
+for the Developer, City, and State to collectively provide a complete discount on pricing so that
+those who would otherwise be priced out of the market will now have the opportunity to buy one
+of the 30 designated homes. If the Developer can provide a discount on more than 30 homes, they
+will. Only townhomes and condominiums are being proposed, NOT apartments. Typically,
+apartments are constructed around public transit areas. Edge Homes is committed to homeowner
+occupancy and will NOT sell to investors, nor will they rent the homes.
+
+Edge Homes is committed to meeting all requirements for the Station Area Plan in a way that
+protects the City and Developer through the use of guardrails. These guardrails include the
+development of a new zone through changing the current designation to RM2 because Draper City
+has no existing zone for this type of property. In addition, the designation of a density category
+that works is 25 to 27 units and provides protection from the State potentially mandating
+apartments or higher density requirements.
+
+Traffic impact is inevitable in a new development. Edge Homes is committed to implementing
+any measures necessary to mitigate areas of difficulty discovered in the traffic analysis. It was
+confirmed that the Commission received the letter from Steve Waldrip. Mr. Guymon stated that
+Mr. Waldrip has been appointed as the Senior Housing Advisor to the Governor and he works to
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 5
+
+implement housing strategies for transit-oriented areas. Mr. Waldrip states in the letter that he has
+reviewed the proposed project and finds it to be the type of project the State needs and supports
+for the following reasons:
+
+       1.      It will be a ‘For Sale’ project rather than a ‘For Rent’ project which aligns with the
+               State’s goal to increase owner-occupied home ownership.
+
+       2.      The density parameters are reasonable and appropriate for a TRAX station
+               development. It was noted that they often encourage higher density than this in
+               transit-oriented projects.
+
+       3.      The housing products, townhomes, and condominiums are more attainable with
+               price points that provide a wider range of homeownership opportunities.
+
+       4.      The Workforce Housing commitments that Edge Homes has agreed to fulfill align
+               with the state’s goal of assisting public employees, school teachers, and first
+               responders to become homeowners instead of being priced out of the market.
+
+       5.      Providing 500 to 540 housing units in the area will inevitably increase the ridership
+               levels of the underutilized TRAX station on 700 East.
+
+Mr. Guymon stated that with the new development taking place downtown, people want to visit
+without having to deal with traffic. He commented that the burden of complying with City laws
+is the responsibility of Edge Homes. He referenced the following from the Development
+Agreement.
+
+   •   Page 5 - Section 2 Development of the Project
+       “Development of the project shall be in accordance with the City’s vested laws, the City’s
+       future laws to the extent they are applicable, the Plan, and this agreement.”
+
+   •   2.3 - The Developer acknowledges that the development of the maximum residential units
+       and every other aspect of the plan requires that each development application comply with
+       the City’s vested laws, including without limitation, the City’s geologic hazards
+       requirements. Mr. Guymon explained that if approved, a new RM2 zone will be created
+       with a new density category that will allow the Developer to design the project.
+
+Mr. Guymon reported that Edge Homes will not only develop the property but complete the
+vertical buildout. Edge Homes is committed to its success.
+
+Commissioner Squire asked Mr. Guymon how he would respond to people who claim that the
+incentives offered will only increase the price of the homes. If that is the case, she claimed that
+this effort still keeps people out of the housing market. Mr. Guymon stated that their goal is to
+sell the products and maximize the sale price. They release the price points that will be available
+to the general public and show how a $30,000 discount is being given off that amount.
+Commissioner Squire asked if Edge Homes is prepared to take major traffic mitigation measures
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 6
+
+for this project. Mr. Guymon confirmed that Edge Homes will not be walking away from the
+project because of traffic. They are committed to finding solutions to mitigate traffic impacts to
+the satisfaction of the City Engineer.
+
+Commissioner Squire asked staff about the impact of the Traffic Study on project outcomes. Her
+understanding was that once a Traffic Study is completed and mitigation is proposed, the applicant
+must accept and act to mitigate as proposed. Senior Engineering Manager, Brien Maxfield,
+explained that the Traffic Study is done as part of the Site Plan and Subdivision Review process.
+Any mitigation efforts will be part of that approval.
+
+Ms. Jastremsky explained that as part of the Station Area Planning process, they are looking at
+traffic concerns and there will be homes and businesses added to the area that will have an impact.
+One of the objectives set by the State for the Station Area Plan is affordable housing. They will
+concentrate on areas that can be developed or redeveloped. They want to preserve existing
+neighborhoods while meeting the intent of the State. The Planning Commission will review any
+Site Plan applications that come forward.
+
+Vice-Chair Fowler opened the public hearing.
+
+Christian Cole gave his address as 11963 South 645 East. Existing traffic concerns were
+acknowledged as well as issues that can be addressed now to alleviate future problems such as
+double yellow lines on 11900 South. Motorists turn left out of the subdivision even though they
+are not supposed to, but it is difficult. Mr. Cole stated that his road does not have an approved
+turnaround because the intent was to complete a Traffic Study later. He now speaks weekly with
+the Fire Marshal about how a fire truck can access 645 East due to the lack of a turnaround. He
+asked that all impacts be addressed in advance. Mr. Cole stated that Mr. Guymon wants to trade
+one hour of traffic at the TRAX station for a special event downtown in exchange for heavy traffic
+the rest of the time. Mr. Cole did not want to see an additional 2,000 vehicles in the area and
+reported that earlier in the day he went to the post office near his home and the roundabout was
+completely backed up. As a result, he rode a scooter because it is faster than driving. While he
+was happy to help people in the community, he supported helping local residents by constructing
+a sidewalk on 700 East. He spoke on behalf of five other families who were unable to be present.
+
+Clair Barrus reported that he resides in the Cranberry Hill subdivision and has experienced the
+difficulty of trying to turn left from 700 East onto Kimballs Lane while having the arm of the
+TRAX signal come down. He estimated that there are currently 118 homes in Cranberry Hill and
+asked if there will be more opportunities for the public to comment. Vice-Chair Fowler stated that
+there will be an upcoming Station Area Plan Meeting where the public can speak. Mr. Barrus
+urged citizens to come with their neighbors to future meetings.
+
+Candi Brim-Bagley stated that she and her neighbor, Mary Jane Johnson, live at the end of 11900
+South, which is not a thru street. The road in front of their homes is a private dirt road. She asked
+how their street is shown as an access point when it is a dead end.
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 7
+
+Mary Jane Johnson is a 50-year resident. Her street is a private lane and they have the right-of-
+way to it. She appreciated the efforts to help people purchase homes but would prefer a much
+lower density. She was glad that they are trying to help out school teachers, she was one. She felt
+that 540 homes were far too many and reiterated the need for a Traffic Study.
+
+Nelson Glassett gave his address as 12000 South 545 East. He commented that the challenge is
+that people moved to Draper years ago for the open space. That has changed over time. He saw
+no reason for a Traffic Study and stated that on his street, speed bumps were installed in an effort
+to slow down traffic. He pointed out that 11900 South does not access anything. He understands
+that growth is imminent, but the number of homes being proposed is not the Draper of old.
+Mr. Glassett stated that people do not use TRAX because it is slow. He asked that the Commission
+not force housing in the area just to benefit the developer. He was confident that most of the
+residents present are opposed to what is being proposed.
+
+Bob Askew, a 30-year resident, resides at 700 East and 11900 South. He was well aware of the
+traffic patterns and rides his bike at all times of the day. He considered it disrespectful for Edge
+Homes to come before the Commission without any information on traffic mitigation. He felt that
+a Traffic Study should be done before any further planning takes place. With regard to whether
+the proposed units will increase TRAX ridership, the people who live in the units will not be able
+to get to the TRAX station without a pedestrian bridge. There was mention of the $20,000 the
+State provides. For 540 units, that would equate to $16 million. He questioned whether that was
+realistic and what the price range of the homes will be.
+
+Gerald Lee Romney lives at 12300 South and 700 East in the Salt Creek Condos. He was
+concerned that the area near his home is congested by 50 units in a small area. The streets cannot
+support that high of density. Traffic on 700 East is terrible and based on recent development, it
+appears that there has been no planning. He stated that the streets in his condominium development
+are private and must be maintained by the residents. Unfortunately, many use his street as a
+shortcut, which was never the intent. He asked about the price of the proposed units and questioned
+whether they will truly be affordable housing.
+
+Benjamin Mutuku reported that he lives at 11721 South Kimball Junction. He provided email links
+to his research that he asked be made part of the record. The zoning density comparisons were for
+the RA1, RA2, and RM3 zones. The Developer is seeking to develop at 25 to 27 units per acre,
+which is nearly double the allowable density. He hoped that a Traffic Study would be required as
+part of the planning process and stated that it must be done during peak hours. Mr. Mutuku stated
+that 500 units equates to about 2,000 car trips per day. Access and safety issues were of concern
+as traffic on the surrounding streets will become unbearable. Crime and maintenance were also of
+concern. The Draper City General Plan calls for 12 units per acre and what is proposed is double
+that. He addressed precedent and public trust and stated that similar rezones have been denied or
+withdrawn in Draper City when there has been conflict with the neighborhood. He suggested that
+be considered.
+
+Colby Paul gave his address as 544 East and 11900 South. He was very disappointed that the
+applicant came in without having completed a Traffic Study when every public comment has been
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 8
+
+about traffic concerns. He commented on the horrible traffic he faces when trying to get to
+Harmon's grocery store on 700 East. The only access point will be at 11900 South. Edge Homes
+has also not completed an environmental survey as there are geese, deer, and local wildlife on the
+property. Mr. Paul wanted assurance that the homes for which incentives are being offered will
+be sold to the right people. He was disappointed that proper precautions were not taken to study
+the zoning before conducting the public hearing.
+
+Ralph Broderick gave his address as 626 East 12100 South and is a 43-year resident. He moved
+to Draper to be in the country and was surprised by the number of apartments and townhomes that
+have been built within a one-mile radius of his home. He worked in construction for many years
+and knows Edge Homes well. The buildings they will build will look exactly like apartments with
+the same floor plans. The only difference is that they will be a for-sale product, which does not
+benefit the residents. His biggest concern was traffic. He urged the Commissioners to visit the
+area and notice the traffic. Most streets are two-lane roads that can never be widened. Each
+Commissioner was voted in by the residents and he suggested that they study the concept before
+making a decision. He also asked that the Commissioners look at the cost of the units. He
+questioned whether most people will be able to afford them, even with the incentives offered.
+Mr. Broderick recognized that development will happen but asked that the Commission evaluate
+it and cut the density in half. He wants to live the remainder of his life in comfort and safety.
+
+Lisa Austin lives in the development north on Kimballs Lane where there is a combination of
+townhomes and single-family homes. Stated that she briefly worked for Draper City. It took her
+a very long time today to make the turn from 700 East onto Kimballs Lane to get home in the
+afternoon. A large number of people drive to Juan Diego each day where there is non-stop traffic.
+She commented on the parking that will be needed for the proposed units and asked where it will
+be located. If there is insufficient parking, people will park on the street. Ms. Austin addressed
+the TRAX situation and looked forward to using it when she purchased her home. She found that
+it is not safe or clean. On more than one occasion she was approached by a homeless or threatening
+person. She sees the TRAX train every morning and it is typically empty. Many now work from
+home and no longer commute. She stated that the proposed $30,000 incentive is insignificant at
+less than 10% of the units the developer is proposing to build. She recognized the need for
+affordable housing but suggested it be done the right way and include more people.
+
+Mike Fullwood gave his address as 515 East 12000 South. He acknowledged that the
+Commissioners have a difficult job but stated that citizens want consistency. When he built his
+home, he could not get approval until he purchased more land and met the City’s parameters for
+acreage. His neighbor was not allowed to split her lot because the flag lots were not allowed. High
+density was also not allowed but eventually allowed someone down the street to do it. What is
+proposed now, is a very high-density project. Mr. Fullwood stated that this TRAX station is
+underperforming, which is why the project is proposed. He did not support destroying a
+neighborhood to increase TRAX ridership. TRAX doesn’t work for the reasons stated previously.
+Mr. Fullwood stated that as a police officer, he knows that the highest crime in the City takes place
+near the TRAX station. The second highest crime rate occurs in high-density areas like the one
+proposed. The first month after the TRAX station opened there was a residential burglary, vehicle
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 9
+
+burglaries, a stabbing, and a death. While the State is pushing the proposed development, it is
+ultimately at the discretion of the Planning Commission.
+
+Lynette Kimotho lives on Kimballs Lane. She commutes to the University of Utah and was excited
+to ride TRAX. She found that ultimately it is safer and easier to drive. She stated that there have
+been thefts in her neighborhood and issues with homeless. She asked them to consider what type
+of community they want and encourage more home ownership but in a safe and efficient manner.
+She urged the Developer to build in a sustainable manner without compromising the nearby
+residents and rethink the density.
+
+Pat Dunn reported that he lives on 11900 South. He understands that growth is inevitable but
+asked the Commissioners to take a hard look at what is proposed. He considers Edge Homes to
+be equitable and ethical and they do what they say they will do. Ultimately, they supply and sell
+products that consumers want. Mr. Dunn’s daughter lives on Kimballs Lane and is looking for
+affordable housing. This may be her only option. He asked that the Commission slow down and
+think carefully about the decisions they are making and not look to the State of Utah just because
+they put a TRAX station in. He urged the Planning Commissioners to “Keep Draper Draper” and
+consider whether the City is overbuilt. He urged the Commission to work with Edge Homes and
+help them do the right thing.
+
+August Brodges, who resides on 11900 South, took exception to the verbiage used by Mr. Guymon
+and recalled that Mr. Guymon talked a lot about affordable housing as a goal, which can change.
+He corrected an earlier comment and stated that the affordable units represent 6% of the proposed
+units. He stated that something as simple as the proposed zone change will have a significant
+impact. He also noted that there is a lot of wildlife in the area that should be protected.
+
+Melarie Wheat, a Cranberry Hill resident, drives her children to Draper Elementary School through
+the area every morning. The intersection at Kimballs Lane and 700 East needs work as there is far
+too much traffic there. Adding more traffic will only exacerbate the problem. She recognizes that
+more affordable housing is needed but the high density proposed does not fit in the area, which is
+primarily single-family homes. Duplexes or townhomes would make more sense. She has seen
+multiple accidents on 12000 South and 700 East and turning right on 11900 South is very difficult.
+
+Lindsay Hyatt, a Cranberry Hill resident, agreed with the comments made. She asked that the plan
+incorporate more green and open spaces. People buying these types of homes will likely be young
+families and it is important for children to spend time outside.
+
+Shanna Austin, a Sawback Lane resident, agreed with the traffic concerns and was confused as to
+why this is the only option being offered. It seemed that Edge Homes has already entered the
+community and is preparing to move forward with development. She agreed that affordable
+housing is important but was concerned that open areas are disappearing. Ms. Austin stated that
+Edge Homes has a rocky history with Draper and was concerned by their approach. She stated
+that the units will look like apartments and did not feel that many options were being offered. She
+commented on the wildlife in the area and hoped to protect it.
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 10
+
+Paula Glassett gave her address as 545 East 12000 South and urged the Commissioners to witness
+the traffic for themselves. She noted that there is not enough room to widen the roads to allow for
+the proposed development. Densities of 25 to 27 units per acre do not represent Draper City’s
+values. She asked that the Commission look at the development on 300 East and 11800 South
+where the developer wanted very high density next to one-acre lots. A transition was needed and
+she asked that the developer consider the desires of the neighbors.
+
+Jason Wong, a Cranberry Hill resident, asked the Commissioners to think about what comes after
+this. There has been a lot of conversation about traffic and mitigations and he asked what they
+will look like. He noted that any mitigation will have to be significant. Expressed his feeling that
+the roadway widening would end up tearing out homes.
+
+Jennifer Sturzenegger, a 12000 South resident, commented on the TRAX station and stated that
+the guards go down when the light is still green, which is scary. She asked that the lights turn red
+beforehand. Since the TRAX station opened, she has seen more people under the influence of
+drugs walking down the street than she did when she lived in California. Many neighbors installed
+locks on their mailboxes so that their mail is not stolen.
+
+There were no further public comments. Vice-Chair Fowler closed the public hearing.
+
+Vice-Chair Fowler clarified that Planning Commission members are appointed and not elected.
+They make recommendations to the City Council who in this case will make the final decision.
+The public will have an opportunity to comment to the City Council at its June 3, 2025 meeting.
+
+Mr. Guymon commented on the Traffic Study and stated that it is based on two key components
+consisting of an analysis of the existing traffic counts without the new project and an analysis of
+the projected traffic counts after buildout. A meaningful Traffic Study cannot be performed until
+a Concept Plan is in place. For that reason, they need to know what density will be allowed.
+Mr. Guymon stated that Edge Homes will comply with the Traffic Study requirements. He
+reported that 700 East is a Utah Department of Transportation (“UDOT”) road and there are
+already serious discussions taking place about widening it. No one present was qualified to say
+what mitigations will or will not work. For that reason, Edge Homes hires professional Traffic
+Engineers to provide solid, qualified feedback. He referenced a comment that their condominium
+projects are nothing more than apartments. He claimed that is untrue and stated that what is
+proposed is half the density of an apartment project. He reported that the adjoining property was
+approved for 50 units per acre.
+
+Mr. Guymon reported that the State has mandated that a Station Area Plan be in place for high-
+density development. The professional hired to advise the City has indicated that the density will
+be at least 20 units per acre. Edge Homes will work with the City and the traffic engineers to
+identify the very best traffic mitigations.
+
+Mr. Guymon commented that on the western edge, there is property owned by the Olabarris’ that
+Edge Homes will be buying and developing. The largest property owner is Juan Diego School.
+He stated that a letter was submitted by Joe Colosimo who is the representative for Juan Diego and
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 11
+
+one of the owners of the management group. Mr. Colosimo supports the project and four-story
+condominium buildings adjacent to his property line. It was noted that there is a 50-foot buffer
+between the property line and the housing. He did not object to the proposed density of 25 to 27
+units per acre and wants to make sure the building heights are less than 60 feet high. He also
+supports a for-sale product rather than rentals. Mr. Colosimo wanted his teachers to have an
+opportunity to participate in the Workforce Housing Program.
+
+Mr. Guymon recognized that zoning decisions are not easy or popular. They are not based on
+popularity and are made by the City. He asked that the Commission allow Edge Homes to move
+forward and design a project the City will be proud of. Mr. Guymon stated that they stand behind
+their products even when they are not legally obligated to.
+
+Commissioner Fidler asked Mr. Guymon to address the comment regarding 11900 South
+becoming a private lane as opposed to being owned by the City. Mr. Guymon stated that it is not
+a private lane with the City owning many parcels on 11900 South. Some properties that border
+11900 South have property lines that extend to the middle of the road, which is not uncommon.
+Edge Homes, however, is not proposing using an ingress or egress point on 11900 South. The
+intent is to use it for emergency egress only. A pedestrian and vehicular culvert crossing is
+proposed to connect the two sides as well. 11900 South will not be used except in the event of an
+emergency where there will be crash gates. Mr. Guymon stated that the Development Agreement
+is intended to set the zoning and the density. Details will have to be worked out. The Developer
+wants to keep the option open to acquire additional property if needed.
+
+Commissioner Squire remarked that they often consider worst-case scenarios when evaluating
+requests. On the list of potential scenarios is the idea of turning 11900 South into a site for ingress
+and egress for this property. Whatever can be done at this stage will better alleviate community
+concerns, recognizing that some things cannot be done until later. Answering questions in advance
+can go a long way to building bridges with residents. Mr. Guymon recommended that the
+Commission forward a recommendation to the City Council with recommended conditions.
+
+Commissioner Squire asked about the provision for green space within the project plans.
+Mr. Guymon responded that it was included in the original draft of the Development Agreement
+but removed in response to feedback from City Manager, Mike Barker. Once the density is known
+they can add open and green spaces back in.
+
+A question was raised as to whether anything has been formalized between the developer and Juan
+Diego. Mr. Guymon stated that Mr. Colosimo sent a letter by email and Edge Homes responded
+that they accepted all of the conditions. It was noted that all of the properties are currently privately
+owned. In response to a question, Mr. Guymon stated that they expect the price of the
+condominium units to be in the low $400,000 range and are similar to products in other
+communities.
+
+He indicated that the City Council took a field trip to the Herriman Town Center to see an existing
+project. They were pleased with the design and architectural features and liked that they had
+meaningful gathering areas outside of the buildings. Mr. Guymon stated that they would consider
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 12
+
+more than 30 workforce housing units. He suggested that the Commission propose that the
+Developer and City Council negotiate a higher percentage of workforce housing than 30 units.
+
+With regard to the anticipated mix of condominium and townhome units, Mr. Guymon stated that
+it will depend on the density that is approved. They have come up with a new townhome design
+that is popular but he expected there to still be more condominiums than townhomes. He expected
+there to be 320 condominium units and 180 townhomes. That, however, will depend on what is
+done in terms of site planning. The feedback they have received is that residents prefer three-story
+condominium buildings along Kimballs Lane rather than four-story. The four-story condominium
+building will be 56 feet high.
+
+Vice-Chair Fowler discussed the concerns related to parking, particularly with the apartments and
+condominiums near the FrontRunner Station. Parking there is lacking and cars and trailers park
+up and down the road. The current parking allotment required for this project is 1½ parking stalls
+per unit. She suggested more be considered there to prevent overflow onto Kimballs Lane.
+Mr. Guymon commented that the parking count and plan best captured in the Site Plan. He noted
+that one of the most effective ways to slow down traffic is to provide diagonal parking.
+
+Ms. Jastremsky talked about the State-adopted Station Area Plan requirement and reiterated that
+the City must meet that requirement. The City receives its authority from the State. One of the
+Station Area Plan objectives addressed earlier involved increasing the availability and affordability
+of housing, including moderate-income housing. State law specifies what a municipality may
+consider when implementing those actions. Providing density is necessary to facilitate the
+development of moderate-income housing and providing for affordable costs of living in
+connection with housing, transportation, and parking. The State did not set a density limit.
+
+Ms. Jastremsky stated the properties that will be developed as part of the Station Area Plan will
+not include single-family homes. Edge Homes has been involved in the Station Area Plan with
+the Stakeholder Committee. The process includes determining what types of housing are
+appropriate in different areas. With the Station Area Plan process, there will be multi-family
+development. While the Commission is used to looking at vacant properties and determining what
+is appropriate for the neighborhood, that is not true in this case. Ms. Jastremsky reported that the
+City’s Town Center Station Area Plan has been adopted and in conjunction, the City Council
+looked at what properties are appropriate for more density. Reductions in height adjacent to
+existing neighborhoods and landscape buffers were also considered to help soften the transition
+from existing neighborhoods.
+
+Commissioner Squire asked if the Development Agreement currently states that the applicant will
+have to abide by any of the mitigation measures put in place in the Station Area Plan.
+Ms. Jastremsky explained that the Development Agreement does not set any standards but
+specifies that the City and Developer will work toward a Concept Plan within the Station Area
+Plan process.
+
+Assistant City Attorney, Spencer DuShane, reported that he is charged with acting as an advisor
+to the Planning Commission, arguing issues on appeal, and drafting agreements. The Station Area
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 13
+
+Plan is required by the State from which the City derives its powers. Mr. Waldrip’s letter stated
+that the ideal density would be 70 units per acre. In addition, there is no owner occupancy
+requirement in State Statute. The City has worked with Edge Homes to cooperatively draft the
+Development Agreement. Every agreement the City enters into includes a clause that both parties
+have worked on drafting the agreement together. The intent is to ensure that it is fair, equitable,
+and compliant with State Statute. State law specifies that a recommendation shall be forwarded to
+the City Council, which will meet on the matter again on Tuesday, June 3.
+
+Mr. DuShane clarified that what is proposed is moderate-income housing and not low-income
+housing, which are different. Federal and State programs are in place to help individuals with low-
+income housing needs. Moderate-income housing plans are designed to address the gap between
+those who can afford housing and those who qualify for low-income housing. Some in the State
+do not qualify for low-income housing but still cannot afford a home. The State has developed a
+moderate-income strategy, which is what the Station Area Plan is trying to address. The plan can
+work with higher density. Citizens who do not support this stance should address it with their
+Legislators. Mr. DuShane stated that Cal Roberts, for example, is an advocate. He noted that
+many of the sponsors of the Station Area Plan Bill do not live in areas where there are stations.
+
+Mr. DuShane reported that he had worked at the Division of Wildlife for four years and considered
+himself to be somewhat of an expert to answer wildlife questions. He stated that the two biggest
+problems with deer in the State are CWD (Chronic Casting Disease) and Brucellosis, which are
+two diseases that spread within deer populations. City deer are especially prone to CWD. He
+explained that geese can live in any environment and due to aquatic habitats running through the
+project area, the geese will remain untouched and continue to thrive. Other animal species in the
+project area are already quasi-adapted to suburban living and will be fine.
+
+Mr. DuShane reported that the issue of traffic mitigation at this stage is premature because there
+is not yet a Site Plan. When a Developer creates a negative impact on a City, he is responsible to
+mitigate the detrimental impacts. That means that the Developer can be responsible for dedicating
+more space for roads. The City can require the Developer to widen or develop additional
+roadways, depending on the traffic impact. City Code also requires a Traffic Study as part of the
+Site Plan. Mr. DuShane did not recommend the Commission make decisions that are based purely
+on public clamor. Additional conditions could be added as desired by the Commission that the
+City Council can choose to accept or reject. The Commission was encouraged to look at the plan
+and determine whether it complies with State Statute.
+
+Commissioner Nixon asked for a review of what median income in Draper City means.
+Ms. Jastremsky stated that moderate-income housing is based on the Area Median Income
+(“AMI”) for Salt Lake County. To be considered, a family would earn about 80% of AMI. Low-
+income affordable housing is generally calculated for families earning about 30% of AMI. In Salt
+Lake County the AMI is $115,000. To qualify for moderate-income housing, a family’s income
+in Salt Lake County would need to be about $85,000. Commissioner Nixon asked for information
+about the Fire Code requirements for 500 units. It was confirmed that there must be at least two
+accesses with a distancing standard between them. Mr. DuShane recommended that this question
+be tabled until there is a Site Plan.
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 14
+
+
+In response to a question, Mr. Maxfield confirmed that UDOT owns 700 East, which is on the
+State’s Master Plan to be widened. It is supposed to be a four-lane road similar to what is north of
+11400 South. That same section is supposed to extend to 12300 South. Comments or complaints
+can be submitted to the UDOT Traffic Center or its online portal. Comments regarding arms and
+guards at TRAX stations can be made by contacting the Utah Transit Authority (“UTA”).
+
+Commissioner Nixon commented that one month ago, the Planning Commission, City Staff, and
+City Consultants participated in a workshop where they discussed Station Area Plans. It was the
+unanimous opinion of those present that high density should be located around TRAX stations.
+The State has mandated that. She felt that those areas are appropriate for high density. This plan
+reduces density from what it could potentially be to what the City feels is much more manageable.
+
+Commissioner Nixon recalled that one of the landowner/stakeholders for the station at 12300
+South and 900 East wanted a density of 50 units per acre. She commented that it could be much
+worse if left to the discretion of the State.
+
+Commissioner Squire commented on the erosion of local control over zoning issues. She urged
+citizens to follow how legislators are voting. The Legislature is packed with people who do not
+want cities to have control. Often it results in a lack of control on the part of the Planning
+Commission. She was very upset by the way the Legislature has handled some issues by taking it
+out of the hands of local government. Additional conditions to be added to a motion made were
+discussed.
+
+Motion: Commissioner Squire moved to forward a POSITIVE recommendation to the City
+Council for the Development Agreement as requested by Mike Winters, representing Edge
+Homes, Kimball Junction Density Allocation, Application 2025-0090-DA, based on the
+findings for approval listed in the staff report dated May 13,2025 together with the following
+additional or modified findings and the Planning Commission requests that the City Council
+do their best and negotiate in good faith with the applicant to achieve the following:
+
+            1. Negotiate appropriate height restrictions by considering neighboring
+               properties.
+            2. Consider allocating more units beyond 30 to workforce housing.
+            3. Consider larger landscape buffers and fencing than required by city code.
+            4. As long as property does not change, we would ask for 11900 South to
+               remain emergency only access, and that meaning if there are no other
+               properties acquired by the applicant on 11900 S.
+            5. Consideration for more parking that what the code requires.
+
+
+Finding for approval:
+
+       1.      The Development Agreement complies with DCMC Section 9-5-200(C) and
+               (D) and provides for a density range on the property while still allowing the
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 15
+
+             City and applicant to work together to create a site plan that best meets the
+             interests of the community and applicant.
+
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner Yes         No    Abstained     Not Participating     Absent
+       Chair Adams                                                            X
+       Fowler            X
+       Squire            X
+       Ogden             X
+       Nixon             X
+       Shirey                                                                  X
+       Fidler, Alternate X
+       Shah, Alternate                                       X
+       Green, Alternate                                      X
+
+Motion: Commissioner Ogden moved to forward a POSITIVE recommendation to the City
+Council for a Zoning Map Amendment, as requested by Mike Winters, representing Edge
+Homes, for a rezone from RA1 and RA2 to RM2, Application 2025-0092-MA based on the
+following:
+
+Findings for approval:
+
+      1.     The Zoning Map Amendment is consistent with the goals, objectives, and
+             policies of the City's General Plan.
+
+      2.     The Zoning Map Amendment is consistent with the standards of any
+             applicable overlay zone.
+
+      3.     Adequate facilities and services will be available to serve the subject property,
+             including, but not limited to, roadways, parks and recreation facilities, police
+             and fire protection, schools, stormwater drainage systems, water supplies, and
+             wastewater and refuse collection.
+
+      4.     The Zoning Map Amendment will not materially affect the existing Station
+             Area Planning efforts underway with respect to the Utah State Code
+             requirements of 10-9a-403.1.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 16
+
+       Commissioner Yes        No   Abstained    Not Participating   Absent
+       Chair Adams                                                       X
+       Fowler            X
+       Squire            X
+       Ogden             X
+       Nixon             X
+       Shirey                                                             X
+       Fidler, Alternate X
+       Shah, Alternate                                   X
+       Green, Alternate                                  X
+
+Motion: Commissioner Nixon moved to forward a POSITIVE recommendation to the City
+Council for the Land Use Map Amendment, as requested by Mike Winters, representing
+Edge Homes, to amend the designation from Residential Low/Medium Density to Residential
+High Density, Application 2025-0091-MA based on the following:
+
+Finding:
+
+      1.     The land use map amendment is appropriate and complies with the
+             requirements of DCMC Section 9-2-020(F) and Utah State Code 10-9a-404.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner Yes        No   Abstained    Not Participating   Absent
+       Chair Adams                                                       X
+       Fowler            X
+       Squire            X
+       Ogden             X
+       Nixon             X
+       Shirey                                                             X
+       Fidler, Alternate X
+       Shah, Alternate                                   X
+       Green, Alternate                                  X
+
+      C.     Public Hearing: 136 Center CSD Text Amendment.
+             (Legislative Item)
+             On the Request of John Bankhead, Representing AREP III DD Land Owner, LLC,
+             a Text Amendment to the 136 Center CSD Zone, located at Approximately 13697
+             South 200 West, known as Application 2024-0397-TA, Staff Contact: Nick
+             Whittaker, 801-576-6522, Nick.Whittaker@draperutah.gov.
+             (Application to be continued to a date uncertain)
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 17
+
+The above item was continued to a date uncertain on the agenda.
+
+The commissioners took a short break and the meeting was called back to order at 9:07 pm
+
+2.       Annual Training.
+         Required Annual Planning Commissioner Training on Powers and Duties – Presentation
+         by City Staff.
+
+Mr. DuShane reviewed cases that came out of the Supreme Court in 2022 and 2024. Enabling
+laws were discussed. The following quote was shared, “The authority to regulate land use through
+zoning ordinances is conferred on municipalities by the State through enabling statutes, and
+consequently, cities must strictly comply with the statute delegating them the authority to act.”
+The Commission was commended for its work on the Station Area Plan.
+
+Mr. DuShane encouraged the Commissioners to read the enabling statutes, which also spell out
+the Planning Commission’s duties and powers as follows:
+
+     •   Makes recommendations for the General Plan, which includes the Station Area Plan, and
+         land use regulations including subdivisions and ordinances.
+     •   Makes amendments to the existing land use regulations.
+     •   Fills an advisory role to the City Council.
+     •   Participates in drafting and recommending the General Plan.
+     •   Administer applicable provisions of Title 9 and Title 17 including issuing Conditional Use
+         Permits (“CUP”).
+
+Specific cases were reviewed with the first being Springdale Lodging vs. Town of Springdale. A
+developer submitted an application for rezone from residential to commercial and the Planning
+Director made some regrettable statements. The developer later goes to the Town Council after
+the denial and submits a different application than the one presented. The proper procedure would
+be to go back before the Planning Commission in the same form. In this case, the opportunity to
+be heard must fully comply with the requirements of the constitutional due process counterpart.
+The court determined that the case does not rise to the level of a constitutional due process
+protected right to speak but based on the Code, it must follow the same logic. The prevalent use
+of the term “opportunity to be heard” supports the notion that the common understanding of the
+term involves the opportunity to make one’s case before presenting information in an argument in
+a meaningful way.
+
+The next case discussed was South Weber City vs. Cobblestone Resort, LLC, which involves
+CUPs and short-term rentals. Cobblestone bought a property with a pool with the intent of
+expanding it and renting it as a short-term rental. It was never expanded but the owners began
+renting it out right away. The ordinance for South Weber requires a CUP for short-term rentals in
+any zone and a Business License. Cobblestone obtained the necessary license and the CUP and
+the Planning Commission imposed conditions. Within one month, Cobblestone was in violation
+three times and the Planning Commission voted to revoke the CUP. The City Council held a
+meeting where they questioned whether the Planning Commission has the authority to revoke a
+Draper City Planning Commission Meeting
+May 22, 2025
+Page 18
+
+CUP. The City Council then decided to revoke the CUP as well. Once revoked, police showed
+up at the property due to an incident involving renters who were fighting. During the tussle a
+firearm was discharged. The City then went to the court and got an injunction to prevent further
+rentals of the property. Cobblestone argued that the rental was a continuously maintained non-
+conforming use and should be allowed to continue.
+
+Under Draper City Municipal Code, it is the job of the Zoning Administrator to revoke a CUP.
+Any conditions imposed should be clear, enforceable, and objective.
+
+Other Business:
+
+Todd Draper, Planning Manager, let the Commissioners know that the recently adopted Draper
+Town Center Station Area Plan had been certified by the Wasatch Front Regional Council
+(WFRC) earlier in the day.
+
+3.     Adjournment.
+
+Motion: Commissioner Ogden moved to ADJOURN.
+
+The meeting adjourned at 9:24 PM.
+

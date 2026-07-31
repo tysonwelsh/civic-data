@@ -1,0 +1,403 @@
+# Riverton Planning Commission Meeting — 2023-06-22
+> Source: https://www.utah.gov/pmn/files/1005257.pdf
+> Meeting date: 2023-06-22
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/840903.html
+> Format: text
+
+Approved: PC 7.27.23
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                  JUNE 22, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Evan Matheson, Acting Chair                      Tim Prestwich, City Planner
+Shelly Cluff                                     Ryan Carter, City Attorney
+Gary Cannon                                      Lisa Halversen, City Planner
+Monique Mortensen
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+In the absence of Chair Jon Gilchrist, Commissioner Evan Matheson assumed the Chair
+and called the meeting to order at approximately 6:38 p.m. The Pledge was led by
+Commissioner Cluff.
+
+It was noted that there were some technical difficulties and the overhead display was not
+working. Commissioner Cannon wondered if it would be possible to approve the Meeting
+Minutes from May 11, 2023, while waiting for the technical issues to be resolved. City
+Attorney, Ryan Carter, stated that the Chair could determine whether items should be taken
+out of order. Since Commissioner Matheson was leading the meeting, he determined that
+the Meeting Minutes would be voted on before the Public Hearings occurred.
+
+2.     PUBLIC HEARINGS
+
+       A.     MARDAN ROOFING, PLZ-23-2020, AN APPLICATION FOR A
+              CONDITIONAL USE HOME OCCUPATION PERMIT FOR A ROOFING
+              CONTRACTOR, LOCATED AT 12536 SOUTH 3600 WEST. APPLICANT –
+              MARCO ARRIAGA.
+
+Lisa Halversen, Planner, presented the Staff Report and reported that the above item was
+an application for a Conditional Use Home Occupation Permit. She noted that there were
+three Home Occupation items on the Planning Commission Meeting agenda this evening.
+The first two businesses were already in operation under Simple Business Licenses but had
+since outgrown that and a Conditional Use Permit was now required. Ms. Halversen
+explained that the first application being considered was Mardan Roofing. It was located at
+12536 South 3600 West. The property is 0.92 acres in size with approximately 97 feet of
+frontage on 3600 West. The property is zoned RR-22 as are the surrounding properties.
+
+The applicant asked for permission to have one employee in addition to the applicant. The
+applicant also asked for permission to store a van, a truck, and a dump trailer in the back of
+the property. Ms. Halversen reported that a mailer was distributed in the area and no public
+Riverton City Planning Commission Meeting                                                2
+June 22, 2023
+
+comments were received. The Site Plan was shared with the Commission. She explained
+that the area marked in red would be used as an office. The street view of the home was
+shown. The applicant, Marco Arriaga, is a roofing contractor and has conducted business
+on the property for many years. It grew to include more employees and more vehicles. In
+the spring, the City was alerted to the increased activity in the area by neighbors. This
+included the on-street parking of business vehicles. The applicant was contacted and a
+Conditional Use Permit had since been requested.
+
+Ms. Halversen shared an image of the front of the house. On the side of the garage, there
+is a driveway that continues to the back of the property. There is a barn area that is used
+for storage. She shared an aerial view of the property. Ms. Halverson reported that the
+application was before the Planning Commission because of the use of the outdoor property
+and the types of vehicles being stored on the lot.
+
+Under the Fixed Standards, the property has sufficient space to accommodate all business-
+related vehicles. As a result, no on-street parking would be necessary. Vehicles will be
+screened and out of public view, employees will only be at the home between the hours of
+7:00 a.m. and 7:00 p.m., and there will only be two employees (the applicant and spouse).
+Employee vehicles will be limited to cars, pickup trucks, vans, and SUVs. Semi-trucks and
+trailers, construction equipment, and other heavy equipment will not be brought to the home
+by employees.         All business-related vehicles needed to use off-street parking.
+Ms. Halversen shared a sample motion that included several Conditions of Approval.
+
+Commissioner Rushton asked if there were other home-based businesses at the applicant’s
+address. This was denied. Commissioner Park referenced the photographs that were
+shared. There appeared to be a block wall along the north side of the property. He
+wondered how tall the wall is, how far back it goes, and what the screening is on the south
+side of the property. Ms. Halverson explained that the applicant could answer questions
+about fencing. She reported that there is fencing around the property but she was not sure
+what the specific fencing details were.
+
+Commissioner Matheson noted that the applicant was asking to park a dump trailer on the
+property. There appeared to be plenty of room for it but the guidelines do not permit that
+use. Ms. Halversen clarified that the guidelines specify no semi-trucks with trailers, which
+is a different category of trailer. Mr. Carter explained that the City routinely allows small
+utility trailers for home-based businesses. However, if it is a tractor-trailer, which is much
+larger, it would not be permitted for a home occupation. Ms. Halverson noted that Condition
+of Approval #5 states that the trailer is under 24 feet. City Code mentions that vehicles over
+24 feet are prohibited. Commissioner Matheson asked if the screening was from lot to lot.
+Ms. Halverson reported that there may be screening from lot to lot but the screening that
+she is primarily considered with is from the street. Since the lot is long and narrow, it
+provides that screening.
+
+Mr. Carter reported that there is evidence that the proposed vehicles are not out of character
+for the area. The main issue came down to the type of storage and screening on the
+property. The reason the application was triggered was because employees are parking in
+front of the home. The City cannot allow vehicles associated with the business to be stored
+Riverton City Planning Commission Meeting                                                    3
+June 22, 2023
+
+out front. The ordinances require that they remain in the back. The Planning Commission
+needs to determine whether the lot has adequate storage space and screening for the
+business-related vehicles that will be parked on the property.
+
+The applicants, Rocio Zavala and Marco Arriaga were present at the meeting. Ms. Zavala
+reported that they are looking to obtain a Home Occupation Permit. She clarified that it is a
+roofing business, so most of the work is done outside of the home. The only work taking
+place on the property is office work, which includes sending emails and submitting bids.
+There was a desire to store a few work-related vehicles on the property as well. This
+included the previously mentioned van, truck, and trailer.
+
+Commissioner Park asked about the fencing around the property. Ms. Zavala explained that
+the brick shown is only half of the home and is approximately six feet. On the other side,
+there is vinyl fencing that is also six feet. It goes on half of the property, which means it goes
+back to the barn area. Commissioner Park asked about the height of the dump trailer.
+Ms. Zavala reported that it is approximately nine feet. Commissioner Park wondered
+whether the Home Occupation Permit application was the result of increased traffic or if
+there was a dispute between neighbors. Ms. Zavala explained that they recently moved
+from West Valley. That was the reason for the permit application.
+
+Commissioner Cluff believed what initially brought the use to the attention of the City was
+the fact that employees are parking on the street or in front of the house. She wondered
+where those employees will park in the future. Ms. Zavala explained that the employees will
+always park in the back of the house. Only one employee comes to the house with one
+vehicle. Commissioner Cluff asked if the truck and van mentioned included the employee
+vehicle. This was denied. Ms. Zavala clarified that the employee has one personal vehicle.
+The van and the truck are business vehicles. The employee drops his vehicle off and takes
+the van or truck to the work site. Commissioner Cluff wondered if there were other locations
+where materials would be stored. Ms. Zavala reported that most of the business is new
+construction and the remaining portion is tear off. All of the roofing materials were delivered
+to the customers’ homes and not to their property.
+
+Commissioner Cannon asked to review the aerial image of the site. It appeared that the
+north access to the property was fairly narrow and would limit the ability to move larger
+equipment into the back. That meant that only certain items can be stored on the site. The
+aerial showed that the property was set up well for equestrian or livestock use. He wondered
+if that use was occurring. Ms. Zavala confirmed that there are horses on the property.
+
+Commissioner Matheson opened the public hearing.
+
+Gary White identified himself as the next-door neighbor. He has known the applicants since
+they moved into the home. A lot of improvements had been made to the site in the past and
+he did not see an issue with the proposed Home Occupation Permit. As for the dump trailers,
+he believed they were fairly common in the area. In terms of parking out front, he did not
+believe anyone had ever parked on 3600 West because there is no room.
+
+There were no further public comments. The public hearing was closed.
+Riverton City Planning Commission Meeting                                                4
+June 22, 2023
+
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-23-
+2020, “Mardan Roofing,” at 12536 South 3600 West with the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City Business License.
+
+       3.     Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+
+       4.     Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions, as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.     Business vehicles consist of one truck, one van, and one trailer under 24
+              feet, and must be kept in the back of the home or inside the garage.
+
+       6.     The business may have one full-time equivalent employee besides the
+              applicant to work at the home, according to the rules of 18.190.060(4).
+
+       7.     No business activity may take place outside the home before 7:00 a.m.
+              or after 7:00 p.m.
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+       B.     VARIETY VENDING, PLZ-23-2022, A CONDITIONAL USE HOME
+              OCCUPATION APPLICATION FOR VENDING SERVICES, LOCATED AT
+              4142 WEST RED TAIL DRIVE. APPLICANT - KAREN CHRISTENSEN.
+
+Ms. Halversen presented the Staff Report and reported that the applicants have been
+conducting business for 11 years under a Simple Business License. When attempting to
+renew the license, the application was flagged because a detached garage was used for the
+business. As a result, a Conditional Use Home Occupation Permit was needed. She noted
+that the subject property is located at 4142 West Red Tail Drive and is a 0.5-acre lot in Deer
+Mountain Estates in the southwestern quadrant of the City. It is zoned RR-22.
+
+The applicant provides vending services and refills pre-packaged snack foods and drinks.
+Ms. Halversen reported that a detached garage is used for the business. Two employees
+come to the property and work in the garage. She shared the mailer that was distributed.
+No public comments were received. The applicant’s home has two stories and is
+approximately 2,160 square feet above ground with a basement. An image of the detached
+garage was shared. It is an apartment and workshop that is 3,580 square feet in size. The
+Riverton City Planning Commission Meeting                                                5
+June 22, 2023
+
+area used for the business in the detached garage is 865 square feet. The property has a
+drive approach on the south side of the home and the drive continues north to the detached
+garage. Ms. Halversen shared additional images of the home.
+
+The reason the application was before the Planning Commission was because the business
+is conducted in the detached garage. Additionally, any home occupation involving food or
+drink preparation or storage requires a Conditional Use Permit. Ms. Halversen reported that
+the applicant requested permission to continue to have two employees come to the home.
+The employees will not use on-street parking and will be out of public view. The employees
+will only be at the home between the hours of 7:00 a.m. and 7:00 p.m. No signage is
+associated with the business on the property. She noted that the business vehicle is a
+pickup truck with a cargo trailer that will be parked off-street in the detached garage. Staff
+recommended approval with the Conditions of Approval set forth in the Staff Report.
+
+The applicants, Blake and Karen Christensen introduced themselves. Mr. Christensen
+reported that the business pertains to snack and soda vending for businesses in the Salt
+Lake Valley. It is something they have been doing for 11 years. Everything is contained in
+the detached garage and not visible from the street. There is only one truck that comes onto
+the site as one employee brings the other with him. The employees that come to the site
+load and pack the trailer that is parked in the detached garage. In the morning, he leaves
+to service the various machines throughout the day.
+
+Commissioner Cluff asked how long the employees are on site. Mr. Christensen explained
+that the employees are normally there for four or five hours. Commissioner Park wanted to
+know how many trips were made on and off the property per day to service the machines.
+Mr. Christensen explained that he leaves in the morning to service the machines.
+Commissioner Matheson wanted additional details about the role of the employees who are
+on the site for four or five hours. Mr. Christensen informs the employees of what needs to
+be packed for each machine. Commissioner Mortensen asked about the number of
+deliveries to the subject property. Ms. Christensen reported that Coke is delivered once a
+week and all other items are normally picked up and brought back.
+
+Commissioner Matheson opened the public hearing. There were no comments. The public
+hearing was closed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-23-2022,
+“Variety Vending,” at 4142 West Red Tail Drive with the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City Business License.
+
+       3.     Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+Riverton City Planning Commission Meeting                                               6
+June 22, 2023
+
+
+      4.     Home Occupation must operate within the Fixed Standards and
+             applicable Qualifications and Conditions, as outlined in the Home
+             Occupation Ordinance and with this approval.
+
+      5.     The Home Occupation may use up to 50% of the floor space of the garage
+             and workshop for business-related storage.
+
+      6.     The business may have two (2) full-time equivalent employees work at
+             the home. Employees must use off-street parking.
+
+      7.     Business activities may take place only between 7:00 a.m. or after
+             7:00 p.m.
+
+Commissioner Matheson seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+      C.     VOYAGERS IN LEARNING, PLZ-23-2023, A CONDITIONAL USE HOME
+             OCCUPATION APPLICATION FOR AN IN-HOME KINDERGARTEN,
+             LOCATED AT 2363 WEST FRONTIER STREET.         APPLICANT -
+             STEPHANIE CHASE.
+
+Ms. Halversen presented the Staff Report and reported that this application is for a new in-
+home kindergarten business. The applicant is a certified teacher, has a license, and has
+several years of teaching experience. The intention was to have children come to the home
+Monday through Thursday for an all-day kindergarten program. It will take place at the
+applicant’s home located at 2363 West Frontier Street. The property is 0.27 acres in size
+on the southernmost portion of the City. The subdivision is Homestead Estates and the
+property is zoned R-4, as are surrounding properties.
+
+Originally, there was a desire to have 14 to 16 children but State and City Codes allow for a
+maximum of 12 children per session. As a result, there was a request to have 12 children
+per day rather than holding multiple sessions. The hours of operation will be from 9:00 a.m.
+to 3:00 p.m. The drop-off and pick-up times will be staggered with a 15-minute window to
+address the traffic and parking concerns. There is a fenced backyard on the property for
+outdoor play. Ms. Halversen reported that a mailer was distributed but no public comments
+were received. A letter of permission from the property owners, her parents, was shared.
+The Traffic Plan, Parking Plan, and Site Plan were also shared. With the staggered times
+and arrivals from one direction, Staff did not believe there was a problem utilizing the
+sidewalk for drop-offs and pickups. As for parking, there is a two-car garage with an extra
+wide driveway that could be used.
+
+An aerial view of the lot was shared. Ms. Halversen noted that the backyard could be utilized
+as a play area. The street view of the home was shown. City Code, which corresponds with
+State Code, was discussed. It specifies that there can be a maximum of 12 students per
+session or 24 students per day. The applicant chose to have 12 students all day rather than
+two separate sessions. The language states that all sessions combined cannot generate
+Riverton City Planning Commission Meeting                                                7
+June 22, 2023
+
+more than 24 vehicle trips per day. With 12 students, this would account for the 24 vehicle
+trips per day that are permitted. Ms. Halversen reported that child group activities allow for
+more visitors per day and more vehicle trips than typical home occupations. The item was
+before the Planning Commission because it exceeds eight children per day, which could be
+Staff approved. Staff recommended approval of the application with the Conditions of
+Approval listed.
+
+Commissioner Park referenced the street view image included in the packet. He noted that
+it did not look the same as the street view image on Google. Ms. Halversen acknowledged
+that the image included in the packet was not correct but confirmed that all of the updated
+information was accurate.
+
+The applicant, Stephanie Chase, reported that she taught for 11 years in the public
+education system. She loves teaching and has a Masters’ Degree. Ms. Chase decided to
+step away from the public education system and start her own private school. She wants to
+start with kindergarten-aged students for now. She has tried to find different commercial
+buildings but that had not worked out, and her parents had allowed her to use their home.
+
+Commissioner Matheson wondered where Ms. Chase’s kindergarten students will attend
+school next year. Ms. Chase reported that they will move to either a public school, a charter
+school, or another private school. Commissioner Cluff asked about the methodology behind
+her teaching. Ms. Chase reported that she wants to incorporate different teaching styles.
+She spent time in Finland to learn about the education system there. In Finland, there is a
+focus on both university and trade. She wanted to bring trade teaching back into school.
+Tradespeople could come in to share information about the fields they work in. It was also
+her desire to teach students life skills, communication, problem-solving, character
+development, and kindness, in addition to other essentials such as math, reading, writing,
+and so on.
+
+Commissioner Matheson opened the public hearing.
+
+Abraham Fox lives nearby and believed the kindergarten will be well run.
+
+Matthew Chase identified himself as the brother of the applicant. He believed in her dream.
+
+Kim Cram was the next-door neighbor and believed Ms. Chase would do an excellent job.
+
+Aaron Cram also lived nearby and believed Ms. Chase would do a great job. He has lived
+next door to the Chase family his entire life and they have been like a second family to him.
+Based on his experiences, he was supportive of the kindergarten use on the property.
+
+There were no further comments. The public hearing was closed.
+
+Commissioner Cannon moved that the Planning Commission APPROVE PLZ-23-2023,
+“Voyagers in Learning,” at 2363 West Frontier Street, with the following conditions:
+Riverton City Planning Commission Meeting                                        8
+June 22, 2023
+
+      1.    The site, structures, and use shall remain in compliance with any and all
+            applicable Riverton City standards and ordinances, specifically the City
+            Home Occupation Ordinance (18.190) and applicable Building and Fire
+            Codes.
+
+      2.    Applicant must obtain and maintain a Riverton City Business License.
+
+      3.    Applicant must obtain and maintain applicable State and Health
+            Department approvals.
+
+      4.    Home Occupation must operate within the Fixed Standards and
+            applicable Qualifications and Conditions, as outlined in the Home
+            Occupation Ordinance and with this approval.
+
+      5.    The Home Occupation may have up to 12 children per day.
+
+      6.    The Home Occupation may have up to 24 vehicle trips per day by
+            customers/parents.
+
+      7.    Customers must use the driveway or off-street parking for drop-off and
+            pick-up.
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.    None.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    Planning Commission Meeting Minutes of May 11, 2023.
+
+Commissioner Cannon moved to APPROVE the Meeting Minutes of May 11, 2023.
+Commissioner Rushton seconded the motion. The motion passed with the
+unanimous consent of the Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:26 p.m.
+

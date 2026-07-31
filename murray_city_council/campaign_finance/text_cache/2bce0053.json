@@ -1,0 +1,34 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {
+      "date": "11/20/23",
+      "recipient": "Landslide Political",
+      "purpose": "Services, Ads",
+      "amount": "4080.50",
+      "in_kind": false
+    },
+    {
+      "date": "12/13/23",
+      "recipient": "Salt Lake County Democrats",
+      "purpose": "Event",
+      "amount": "40.00",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "4120.50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "5888.18",
+  "ending_balance": "1767.68",
+  "_meta": {
+    "index_path": "raw/202312_Adam-Hock_14942.pdf",
+    "candidate": "Adam Hock",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "reporting_period": "Year-end final",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "official 2023 form. Section 3 line 1 Total New Contributions = $0 (Schedule A 'None'). Section 3 line 2 Total Expenditures Made = $4120.50; Schedule B subtotal $4120.50; itemized Schedule B sums to 4120.50 \u2014 reconciles. Schedule C In-Kind 'None'. Balance Summary: Beginning $5888.18, Close $1767.68."
+  }
+}

@@ -1,0 +1,77 @@
+# Redevelopment Agency Meeting — 2023-07-11
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw PDF: pmn_backfill/raw/ogden_2023-07-11_RDA.pdf  |  file id 1085535.
+> Recovered 2026-07-05 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new RDA minutes — flag for promotion review.
+
+---
+
+         Minutes of Regular Meeting of Redevelopment Agency of Ogden City, Utah, July 11, 2023 Page
+
+
+         Minutes of the regular meeting of the Ogden City Redevelopment Agency held on Tuesday, July 11, 2023 at 7:50 p.m.,
+in the Council Chambers, and via electronic meeting, on the third floor of the Municipal Building, 2549 Washington Boulevard,
+Ogden City, Weber County, Utah.
+
+         Present:          Chair                  Angela Choberka
+                           Vice Chair             Ken Richey
+                           Board members          Bart E. Blair
+                                                  Richard A. Hyer
+                                                  Luis Lopez
+                                                  Ben Nadolski
+                                                  Marcia L. White
+
+                           Board Administrator Janene Eller-Smith
+                           Board Deputy Administrator Glenn Symes
+                           Board Policy Analyst Warren Hallmark
+                           Communications and Public Engagement Coordinator Brandon Garside
+                           Communication Project Coordinator Eric Davenport
+
+         Also present:     City Attorney Gary Williams
+                           Community and Economic Development Director Brandon Cooper
+                           Redevelopment Manager Damen Burnham
+                           Community Development Manager Jeremy Smith
+                           Management Services Director Mara Brown
+                           Deputy City Recorder Jason Gould
+
+
+Approval of Minutes
+         Board member Hyer stated he had reviewed the minutes of the Closed Session of July 5, 2022 and found them to be
+accurate to the best of his recollection.
+         Board member Nadolski stated he had reviewed the minutes of the Closed Session of July 12, 2022 and found them to be
+accurate to the best of his recollection.
+         Board member Lopez stated he had reviewed the minutes of the Closed Session of September 13, 2022 and found them
+to be accurate to the best of his recollection.
+         BOARD MEMBER LOPEZ THEN MOVED TO APPROVE THE MINUTES AS PRESENTED. MOTION WAS
+SECONDED BY BOARD MEMBER BLAIR, ALL VOTING AYE.
+
+Closed Session
+         At this time, the Board gave consideration of adjourning into a Closed Session pursuant to one or more of the provisions
+of Section 52-4-205(1) of the Open and Public Meetings Law:
+         a. Discussion of the character, professional competence, or physical or mental health of an individual
+         b. Strategy session to discuss collective bargaining
+         c. Strategy session to discuss pending or reasonably imminent litigation
+         d. Strategy session to discuss the purchase, exchange, or lease of real property
+         e. Strategy session to discuss the sale of real property
+         f. Discussion regarding deployment of security personnel, devices, or systems
+         g. Investigative proceedings regarding allegations of criminal misconduct
+         VICE CHAIR RICHEY MOVED THE BOARD ADJOURN INTO A CLOSED SESSION PURSUANT TO THE
+PROVISIONS OF SECTION 52-4-205(1) OF THE OPEN AND PUBLIC MEETINGS LAW. MOTION WAS
+SECONDED BY BOARD MEMBER LOPEZ, WITH THE FOLLOWING ROLL CALL VOTE: VOTING AYE –
+BOARD MEMBERS BLAIR, HYER, LOPEZ, NADOLSKI, WHITE, VICE CHAIR RICHEY, AND CHAIR
+CHOBERKA. VOTING NO - NONE.
+
+
+         The meeting adjourned into Closed Session at 8:03 p.m.
+         The meeting reconvened at 8:20 p.m.
+
+     There being no further business to come before the Agency, VICE CHAIR RICHEY MOVED THE MEETING
+ADJOURN AT 8:20 P.M. MOTION WAS SECONDED BY BOARD MEMBER HYER, ALL VOTING AYE.
+                                           ________________________________________
+                                           JASON GOULD
+                                           DEPUTY CITY RECORDER
+________________________________________
+ANGELA CHOBERKA, CHAIR
+
+APPROVED: February 13, 2024
+

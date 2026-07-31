@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "Athena Steverson", "amount": "37.56", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "250.80", "in_kind": false},
+    {"date": null, "recipient": "Northwest Designs", "purpose": null, "amount": "100", "in_kind": false},
+    {"date": null, "recipient": "BK Outreach", "purpose": null, "amount": "131.46", "in_kind": false}
+  ],
+  "total_contributions": "37.56",
+  "total_expenditures": "482.26",
+  "contributions_50_or_less": "37.56",
+  "beginning_balance": "444.7",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2025_06_Jamie-Steverson.pdf",
+    "candidate": "Jamie Steverson",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_06_Jamie-Steverson.pdf",
+    "pages": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "contributions": [],
+  "expenditures": [],
+  "total_contributions": "28750.00",
+  "total_expenditures": "8133.28",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "20616.72",
+  "_meta": {
+    "index_path": "raw/2021_staggs_campaign-finance-report.pdf",
+    "candidate": "Trent Staggs",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2021_staggs_campaign-finance-report.pdf",
+    "pages": 10,
+    "method": "read-tool-vision 2026-07-18 (handwritten scan; format=text is a pdftotext mislabel). Filer wrote 'N/A' in Schedules A & B and reported LUMP totals only (no itemization) -> contributions/expenditures arrays empty by design; stated cover totals from Summary Page Column A/C. Totals-only side reconciles UNKNOWN, not a fabricated mismatch."
+  }
+}

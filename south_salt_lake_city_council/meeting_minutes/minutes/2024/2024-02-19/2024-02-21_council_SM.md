@@ -1,0 +1,93 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02212024-281
+> Meeting date: 2024-02-21
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 02212024-281 | label: Council SM Meeting 2024-02-21 | date: 2024-02-21 | meeting_kind: SM | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02212024-281 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL SPECIAL MEETING
+
+COUNCIL MEETING                                                Wednesday February 21, 2024
+                                                               5:30 p.m.
+
+CITY OFFICES                                                   220 East Morris Avenue
+                                                               South Salt Lake, Utah 84115
+
+PRESIDING:                                                     Council Chair Sharla Bynum
+
+CONDUCTING:                                                    Council Chair Sharla Bynum
+
+
+COUNCIL MEMBERS PRESENT:
+    LeAnne Huff, Corey Thomas (via Zoom), Nick Mitchell (via Zoom),
+     Paul Sanchez, Clarissa Williams (via Zoom), and Natalie Pinkney
+
+COUNCIL MEMBERS EXCUSED:
+       None
+
+STAFF PRESENT:
+       Mayor Cherie Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+       Jessica Potter, Executive Assistant
+       Edward Lopez, Deputy Promise Director
+       Ryan Alvarez, Police Officer
+       Domoina Kendell, Deputy Promise Director
+       Carson Aprato, Police Officer
+
+Items for Discussion and Vote:
+
+   1. A Resolution of the South Salt Lake City Council Denouncing the Actions of State School Board
+      Member Natalie Cline.
+
+       Council Chair read through the Resolution and then opened the floor to the Council Members to
+       speak and share any comments they had.
+
+       Council Member Williams made a motion to approve the Resolution.
+
+       A copy of the Resolution is attached and incorporated by this reference.
+
+
+
+
+                                                  1
+South Salt Lake – City Council Special Meeting                           February 21, 2024
+
+MOTION: Clarissa Williams
+SECOND: Natalie Pinkney
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+
+
+
+        The meeting adjourned at 5:45 p.m.
+
+
+
+
+                                                 ____________________________________
+                                                 Sharla Bynum, Council Chair
+
+
+
+
+             ___________________________________
+             Ariel Andrus, City Recorder
+
+
+
+
+                                                   2

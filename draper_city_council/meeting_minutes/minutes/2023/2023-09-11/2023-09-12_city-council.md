@@ -1,0 +1,328 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=920&doc_id=b334b857-63c5-11ee-b4aa-0050569183fa
+> Meeting date: 2023-09-12
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+SEPTEMBER 12, 2023, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT: Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+         Fred Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:
+
+STAFF:      David Dobbins, City Manager; Mike Barker, City Attorney; Kellie Challburg,
+            Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson, Chief of Police;
+            Jennifer Jastremsky, Community Development Director; Bret Millburn,
+            Assistant City Manager; Malena Murray, Human Resources Director;
+            Rhett Ogden, Parks and Recreation Director; Laura Oscarson, City
+            Recorder; Linda Peterson, Communications Director; Clint Smith, Fire
+            Chief; Jake Sorensen, IT; John Vuyk, Finance Director; and Jared Zacharias,
+            Assistant Finance Director
+
+_____________________________________________________________________________________
+
+1.        Study Session
+          1.a Discussion: Requests to surplus City properties
+              Assistant City Manager Bret Millburn reviewed a list of City-owned
+              properties proposed for surplus with the Council. The Council
+              provided feedback regarding their desires for the different parcels.
+          1.b Closed Session: By Motion, The Draper City Council may
+              temporarily recess the regular meeting and convene in a closed
+              session to discuss the character, professional competence, or
+              physical or mental health of an individual, pending or reasonably
+              imminent litigation, or the purchase, exchange, or lease of real
+              property, as provided by UCA 52-4-205
+              A closed session was not needed.
+          1.c Council/Manager Reports
+              Staff provided updates on street projects and traffic, and answered
+              questions from the Council. Kellie Challburg updated the Council
+              regarding options for a Farmer’s Market, and the Council provided
+              feedback. The Council continued the discussion of street projects.
+
+          Business Session
+
+
+Draper City Council Approved Meeting Minutes – October 3, 2023
+2.   Call to Order by Mayor Troy K. Walker
+
+3.   Thought/Prayer and Pledge of Allegiance
+     Assistant City Manager Bret Millburn offered a prayer, and Police Chief Rich
+     Ferguson led participants in the Pledge of Allegiance.
+
+4.   Oath of Office: Draper Youth Council
+     Mayor Walker expressed appreciation for Youth Council participants. City
+     Recorder Laura Oscarson administered the oath of office to the new Draper
+     Youth Council.
+
+5.   Presentation
+     Representing the Utah Municipal Clerks Association, Jackie Nostrom,
+     Herriman City Recorder, Tangee Sloan, West Jordan City Recorder, and
+     Wendy Downs, Sandy City Recorder, presented Laura Oscarson with a
+     Master Municipal Clerk designation, and Angela Fixmer with a Certified
+     Municipal Clerk designation. The City Council offered congratulations and
+     took the opportunity for a photograph.
+
+6.   Public Comments
+     Jonathan Jefferies, a Draper resident, spoke of flooding issues on his
+     property and neighboring properties related to removed canals and
+     irrigation ditches around 13800 South. He asked that the City complete the
+     construction of curb, gutter, and drainage infrastructure in the area as soon
+     as possible.
+
+     Steve Heaps, a Draper resident, said he lived next door to Mr. Jeffries. Mr.
+     Heaps spoke of flooding issues and expressed confidence the City would do
+     something.
+
+     Lori Russell, a Draper resident, spoke of recent flooding on her property and
+     said she observed that flooding did not occur for residences where curb and
+     gutter were present.
+
+
+
+
+                                                                       2|Page
+     Stacey Williams, a Draper resident, explained that parking for the
+     apartments across the street from her home was posted as being restricted
+     to certain hours. She said her family required more vehicles than fit in her
+     driveway, and said she wanted her children to be able to park on the street
+     in front of her home without receiving tickets. Ms. Williams proposed that
+     residents living on the street not be penalized for parking in front of their
+     homes and presented a petition with 109 signatures.
+
+     Quinn Horrocks, a Draper resident, spoke of drainage and flooding issues
+     in his neighborhood. He said the problem would not be solved with curb
+     and gutter alone, and suggested further design work was needed.
+
+     Elizabeth Lebrecht, a Draper resident, said she lived next door to Mr.
+     Horrocks and agreed that a curb and gutter alone would not solve the
+     flooding issues. She spoke of the overwhelming flow of water during recent
+     storms.
+
+     Brian Lebrecht, Draper resident, said he agreed that the amount of water
+     resulting from recent storms was more than the curb and gutter alone
+     would be able to handle. He said he was skeptical that existing
+     infrastructure had worked as it should, and he would like to see a study
+     done by an independent firm.
+
+     Carmen Fagg, a Draper resident, said her property was next to a trail, and
+     the existing overflow ditch was always clogged up from residents throwing
+     debris into the ditch. She said the clogged ditch resulted in water overflow
+     during recent storms that took out half of her backyard and flooded her
+     basement. Ms. Fagg suggested that residents throwing debris into the ditch
+     should be cited, and said the City needed to clean up and take care of the
+     ditch.
+
+7.   Consent Items
+      7.a Approval of the August 15, 2023, City Council Meeting Minutes.
+      7.b Approval of Resolution #23-47, a Resolution of the Draper City
+          Council consenting to the reorganization of the Timpanogos
+          Special Service District as a Special District.
+
+                                                                       3|Page
+     7.c Approval of Resolution #23-49, a Resolution of the Draper City
+         Council disposing of property seized as evidence in accordance
+         with Utah Code Section 77-11a-402.
+     7.d Approval of Resolution #23-50, a Resolution of the Draper City
+         Council approving and authorizing the execution of an Interlocal
+         Cooperation Agreement with Salt Lake County and other cities
+         relating to the conduct of the Community Development Block
+         Grant Program, Emergency Solutions Grant Program, and the
+         Home Investment Partnership Program.
+     7.e Approval of Resolution #23-51, a Resolution of the Draper City
+         Council disposing of surplus personal property in accordance with
+         Draper City Municipal Code Section 3-3-150.
+     7.f Approval of Ordinance #1584, an Ordinance of Draper City Council
+         amending Title 6 Chapter 8 of the Draper City Municipal Code
+         pertaining to soliciting.
+
+         Councilmember Vawdrey moved to approve the Consent items.
+         Councilmember Green seconded the motion.
+
+         A roll call vote was taken. The motion passed unanimously.
+
+                                       Yes No     Absent
+         Councilmember Green           X
+         Councilmember T. Lowery       X
+         Councilmember F. Lowry        X
+         Councilmember Roberts         X
+         Councilmember Vawdrey         X
+
+8.   Items for Council Consideration
+     8.a Action item: Resolution #23-46, a Resolution of the Draper City
+         Council granting final approval for the withdrawal of the Little
+         Valley Subdivision (Cove at Little Valley) from the Traverse Ridge
+         Special Service District (TRSSD).
+         Assistant City Manager Bret Millburn provided background
+         information and a timeline for the request to withdraw from the
+         TRSSD and said the Council gave preliminary approval for the Cove at
+         Little Valley (CALV) to withdraw from the TRSSD in July of 2023.
+
+                                                                   4|Page
+     Councilmember T. Lowery moved to approve Resolution #23-46.
+     Councilmember Green seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+
+                                       Yes No      Absent
+     Councilmember Green               X
+     Councilmember T. Lowery           X
+     Councilmember F. Lowry            X
+     Councilmember Roberts             X
+     Councilmember Vawdrey             X
+
+8.b Public Hearing: Ordinance #1586, on the request of Brad Mackay,
+    representing Ivory Development for an Amendment to the
+    Fitzgerald Property Development Agreement for 22.39 acres of
+    property located at 1085 East 12650 South. The property is zoned
+    R5, application number 23-4505-DA. The application is known as
+    the Fitzgerald Property Amended Development Agreement.
+    Community Development Director Jennifer Jastremsky explained the
+    Applicant desired to modify the original concept plan for the Fitzgerald
+    Property to move an access point to connect at 12650 South rather than
+    at 12600 South. To accommodate the proposed change, staff proposed
+    the Applicant install an 80-foot diameter cul-de-sac, with no curb and
+    gutter. The Applicant proposed a 75-foot diameter cul-de-sac with 2.5
+    feet of curb and gutter for a total of 80 feet (79 feet of drivable surface).
+
+    Ms. Jastremsky explained the Applicant also desired to amend the
+    Development Agreement to allow detached accessory dwelling units (D-
+    ADUs) on all lots in the development regardless of lot size (restricted to
+    a maximum 2 stories in height), with a minimum 5-foot rear and side
+    setback. Lots would be prohibited from having both an internal ADU (I-
+    ADU) and a detached ADU.
+
+    Ms. Jastremsky said the Planning Commission recommended approval
+    on a 3-1 vote for the draft provided by the Applicant. Staff answered
+
+
+
+                                                                      5|Page
+questions regarding building height and the potential impact of the
+requested change on traffic.
+
+Brad Mackay with Ivory Development said the proposed access change
+was to accommodate sewer and storm drain utility lines. Mr. Mackay
+said he believed the development was a good location for D-ADUs to be
+included above detached garages on some of the lots. He said all of the
+lots would qualify to have an I-ADU, and about half of the lots could
+accommodate a D-ADU. The proposed amendment to the Development
+Agreement would clarify that a lot could not have both an I-ADU and a
+D-ADU.
+
+Mr. Mackay said the language presented that day regarding the cul-de-
+sac was different than he had seen previously, but emphasized that
+Ivory Development was willing to work with the City.
+
+Councilmember T. Lowery said she was uncomfortable with the
+proposed deviations from established City setback and height
+requirements. She said the City made a clear statement in the original
+Development Agreement regarding what was desired. Mr. Mackay
+responded that the proposed height deviation would reduce the
+possible height from the potential three-stories to two-stories. He said
+the current City setbacks would not really work for a detached garage
+and D-ADU.
+
+Councilmember Green said he felt the proposal needed more work. He
+suggested the Applicant figure out which lots made sense for a D-ADU,
+and request the Council entitle D-ADUs for specific lots. Councilmember
+T. Lowery said she believed the lots needed to meet the current Code
+whether or not they had a D-ADU.
+
+Mayor Walker opened a public hearing.
+
+Troy Blundell, a Draper resident, said he spoke on behalf of the
+residents on 1015 East. He expressed support for the cul-de-sac
+proposal.
+
+                                                             6|Page
+      Carol Sue Johnson, a Draper resident, said she agreed with
+      Councilmember T. Lowery that the proposal was too dense with a five-
+      foot setback.
+
+      Mayor Walker closed the public hearing.
+
+      Councilmember Green said he was comfortable with the proposed cul-
+      de-sac change, but believed the ADU amendments needed more work.
+      Councilmember F. Lowry said he did not believe it made sense to give
+      direction that would be contrary to the existing Code. City Manager
+      David Dobbins suggested staff sit down with the applicant to address
+      concerns expressed by the Council and bring the proposal back at the
+      September 19, 2023 meeting.
+
+      Mr. Mackay commented that the current side yard setback under Code
+      was 8 feet, and said he did not see how an 8-foot setback accomplished
+      more than the proposed 5-foot setback other than affecting the
+      placement of a detached garage and ADU. Mr. Mackay said the existing
+      rear setback was 20 feet, and said he did not understand what good 20
+      feet would be behind a garage.
+
+      Councilmember F. Lowry moved to continue Ordinance #1586 to
+      the September 19, 2023 City Council meeting. Councilmember
+      Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+
+                                     Yes No     Absent
+      Councilmember Green            X
+      Councilmember T. Lowery        X
+      Councilmember F. Lowry         X
+      Councilmember Roberts          X
+      Councilmember Vawdrey          X
+
+
+8.c   Public Hearing: Resolution #23-48, a resolution amending the
+      adopted budget of Draper City for Fiscal Year 2023-2024.
+
+                                                                  7|Page
+         Finance Director John Vuyk presented proposed FY2024 1st Quarter
+         Budget Amendments, and answered questions from the Council.
+
+         Mayor Walker opened a public hearing and closed the public
+         hearing seeing no one come forward.
+
+         Councilmember Green moved to approve Resolution #23-48,
+         including the addition of funds ($350,000 in Park Impact Fees) to
+         increase parking at Draper Park. Councilmember T. Lowery
+         seconded the motion.
+
+         A roll call vote was taken. The motion passed unanimously.
+
+                                        Yes No      Absent
+          Councilmember Green           X
+          Councilmember T. Lowery       X
+          Councilmember F. Lowry        X
+          Councilmember Roberts         X
+          Councilmember Vawdrey         X
+
+9.    Recess to a Community Reinvestment Agency Meeting
+      Councilmember T. Lowery moved to recess to a Community
+      Reinvestment Agency Meeting. Councilmember Vawdrey seconded the
+      motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+
+                                   Yes No     Absent
+      Councilmember Green          X
+      Councilmember T. Lowery      X
+      Councilmember F. Lowry       X
+      Councilmember Roberts        X
+      Councilmember Vawdrey        X
+
+      The Council meeting reconvened at 8:30 p.m.
+
+10.   Adjournment
+      Councilmember Green moved to adjourn the meeting. Councilmember
+      T. Lowery seconded the motion.
+
+                                                                   8|Page
+A voice vote was taken. The motion passed unanimously.
+
+The meeting adjourned at 8:31 p.m.
+
+
+
+
+                                                         9|Page
+

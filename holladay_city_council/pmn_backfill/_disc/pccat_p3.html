@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<!--[if lt IE 9]>
+	<script src="http://cityofholladay.com/static_main/js/html5shiv.js"></script>
+	<script src="http://cityofholladay.com/static_main/js/respond.min.js"></script>
+<![endif]-->
+<title>Planning Commission &#8211; Page 3 &#8211; City of Holladay</title>
+<link rel='stylesheet' id='dashicons-css'  href='http://cityofholladay.com/static/lib/css/dashicons.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elusive-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/elusive.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/foundation-icons.min.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericon-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/genericons.min.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/icomoon.min.css?ver=20140611' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='http://cityofholladay.com/static/ext/easy-menu-manager-wpzest/css/extra.min.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://cityofholladay.com/static/lib/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mono-social-icons-css'  href='http://cityofholladay.com/static_main/css/mono-social-icons.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css'  href='http://cityofholladay.com/static/ext/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://cityofholladay.com/static_main/css/bootstrap.min.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css'  href='http://cityofholladay.com/file/bb-theme/skin-607dba7cc381a.css?ver=1.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-google-fonts-d6f080fcec85823e4d11c02cdc51fcde-css'  href='//fonts.googleapis.com/css?family=Trykker%3A300%2C400%2C700&#038;ver=5.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://cityofholladay.com/static/lib/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static/lib/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://cityofholladay.com/wp-json/" /><link rel="alternate" type="application/json" href="http://cityofholladay.com/wp-json/wp/v2/categories/28" /><style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:20%;
+        text-align:center;
+        border:none;
+    }
+    .calendar-prev {
+        width:20%;
+        text-align:center;
+        border:none;
+    }
+    .calendar-month {
+        width:60%;
+        text-align:center;
+        font-weight:bold;
+        border:none;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher input[type=submit] {
+        padding:3px 10px;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .minical-day {
+       background-color:#F6F79B;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+<link rel="icon" href="http://cityofholladay.com/file/2016/06/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://cityofholladay.com/file/2016/06/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://cityofholladay.com/file/2016/06/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://cityofholladay.com/file/2016/06/cropped-logo-270x270.png" />
+<style id="fl-theme-custom-css">/* 
+
+    Editor Panel Code
+
+*/
+.e-panel
+{
+    background: rgba(255,255,255, .5);
+}
+#d_pages
+{
+    display: inline-block;
+}
+#d_pages>ul
+{
+    display: none;
+    position: absolute;
+    background-color: white;
+}
+#d_pages:hover ul
+{
+    padding: 10px;
+    display: block;
+    z-index: 9999;
+    list-style-position: inside;
+}
+#a_page_div, #d_pages, #set_title_div
+{
+    display: inline-block;
+    padding: 0 5px;
+}
+#a_page_div>div, #set_title_div>div
+{
+    position: absolute;
+    display: none;
+    background: white;
+}
+#a_page_div:hover>div, #set_title_div:hover>div
+{
+    padding: 10px;
+    display: block;
+    z-index: 9999;
+}
+/*////////////////////*/
+
+.fl-page-header-primary .fl-page-nav-search{
+    display: none;
+}
+.fl-page-bar .fl-page-nav-search{
+    position: relative!important;
+    float: right!important;
+    width: 50%!important;
+}
+.fl-page-bar .fl-page-nav-search form{
+    opacity: 1!important;
+    position: relative!important;
+    display: inline-block!important;
+    padding: 0!important;
+    border: none!important;
+    width: 100%!important;
+    
+    box-shadow: none!important;
+    border-radius: 5px;
+}
+.fl-page-bar .fl-page-nav-search form input{
+    background: white!important;
+    box-shadow: none!important;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+.fl-page-bar{
+    border-bottom: 0!important;
+}
+
+
+
+</style>
+<script id="fl-theme-custom-js">$ = jQuery;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20900451-6', 'auto');
+  ga('send', 'pageview');</script>
+</head>
+
+<body class="archive paged category category-planning-commission category-28 paged-3 category-paged-3 fl-preset-default fl-full-width" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<svg id="header-line" class="wpsm-separator wpsm-separator--top wpsm-separator-style--blob-center" width="100%" height="30px" viewBox="0 0 100 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" style="
+    position: relative;
+"><filter id="inset-shadow">
+  
+    <!-- Shadow Offset -->
+    <feOffset dx="0" dy="-8"></feOffset>
+    
+    <!-- Shadow Blur -->
+    <feGaussianBlur stdDeviation="0, 9" result="offset-blur"></feGaussianBlur>
+    
+    <!-- Invert the drop shadow
+         to create an inner shadow -->
+    <feComposite operator="out" in="SourceGraphic" in2="offset-blur" result="inverse"></feComposite>
+    
+    <!-- Color & Opacity -->
+    <feFlood flood-color="black" flood-opacity="1" result="color"></feFlood>
+    
+    <!-- Clip color inside shadow -->
+    <feComposite operator="in" in="color" in2="inverse" result="shadow"></feComposite>
+    
+    <!-- Put shadow over original object -->
+    <feComposite operator="over" in="shadow" in2="SourceGraphic"></feComposite>
+</filter>
+<path d="M 0 100 L 0 -5 L 100 -5 L 100 100 Q 50 -75 0 100 Z" fill="white" style="
+    filter: url(&quot;#inset-shadow&quot;);
+"></path></svg><div class="fl-page">
+	<header class="fl-page-header fl-page-header-fixed fl-page-nav-right">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="fl-page-logo-wrap col-md-3 col-sm-12">
+					<div class="fl-page-header-logo">
+						<a href="http://cityofholladay.com/"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="http://cityofholladay.com/file/2016/06/logo.png" data-retina="" alt="City of Holladay" /><meta itemprop="name" content="City of Holladay" /></a>
+					</div>
+				</div>
+				<div class="fl-page-fixed-nav-wrap col-md-9 col-sm-12">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default" role="navigation">
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<ul id="menu-megamenu" class="nav navbar-nav navbar-right menu"><li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1820"><a href="http://cityofholladay.com/government/">Our Government</a>
+<ul class="sub-menu">
+	<li id="menu-item-1821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="http://cityofholladay.com/government/elected-officials/">Mayor &#038; Council</a></li>
+	<li id="menu-item-1824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1824"><a href="http://cityofholladay.com/government/rfps/">Bids/RFPs</a></li>
+	<li id="menu-item-1826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1826"><a href="http://cityofholladay.com/government/city-boards-commissions/">Boards &#038; Commissions</a></li>
+	<li id="menu-item-10951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10951"><a href="http://cityofholladay.com/departments/administration/city-recorder/public-hearingpublic-notices/">Public Hearing Notices</a></li>
+	<li id="menu-item-2958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2958"><a href="http://cityofholladay.com/government/city-boards-commissions/rda/">RDA</a></li>
+	<li id="menu-item-1830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1830"><a href="https://codelibrary.amlegal.com/codes/holladayut/latest/overview">City Code and Ordinances</a></li>
+	<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1831"><a href="http://cityofholladay.com/government/city-manager/">City Manager</a></li>
+	<li id="menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1832"><a href="http://cityofholladay.com/government/directory/">Directory</a></li>
+	<li id="menu-item-3417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="http://cityofholladay.com/government/elections/">Elections</a></li>
+	<li id="menu-item-3306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3306"><a href="http://cityofholladay.com/departments/community-development/general-plan/">General Plan</a></li>
+	<li id="menu-item-4627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4627"><a href="http://cityofholladay.com/departments/administration/stay-informed/">Stay Informed</a></li>
+	<li id="menu-item-10455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10455"><a href="https://www.holladay20.com">Holladay @20 Preparing for Tomorrow</a></li>
+</ul>
+</li>
+<li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1833"><a href="http://cityofholladay.com/departments/">Departments</a>
+<ul class="sub-menu">
+	<li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a href="http://cityofholladay.com/departments/applications-and-forms/">Applications and Forms</a></li>
+	<li id="menu-item-1855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1855"><a href="http://cityofholladay.com/government/business-licensing/">Business Licensing</a></li>
+	<li id="menu-item-9019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9019"><a href="http://cityofholladay.com/government/building/">Building</a></li>
+	<li id="menu-item-1864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="http://cityofholladay.com/departments/administration/city-recorder/">City Recorder</a></li>
+	<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="http://cityofholladay.com/departments/code-enforcement/">Code Enforcement</a></li>
+	<li id="menu-item-1872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1872"><a href="http://cityofholladay.com/departments/community-development/">Community and Economic Development</a></li>
+	<li id="menu-item-3418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="http://cityofholladay.com/government/elections/">Elections</a></li>
+	<li id="menu-item-1897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1897"><a href="http://cityofholladay.com/departments/finance/">Finance</a></li>
+	<li id="menu-item-1906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1906"><a href="http://cityofholladay.com/services/fire/">Fire</a></li>
+	<li id="menu-item-3307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3307"><a href="http://cityofholladay.com/departments/community-development/general-plan/">General Plan</a></li>
+	<li id="menu-item-6364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364"><a href="http://cityofholladay.com/departments/human-resources/">Job Openings</a></li>
+	<li id="menu-item-1877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877"><a href="http://cityofholladay.com/departments/justice-court/">Justice Court</a></li>
+	<li id="menu-item-8381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8381"><a href="https://city-of-holladay-holladay.hub.arcgis.com">Maps/GIS</a></li>
+	<li id="menu-item-1908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1908"><a href="http://cityofholladay.com/departments/planning-and-zoning/">Planning and Zoning</a></li>
+	<li id="menu-item-1917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1917"><a href="http://cityofholladay.com/services/police/">Police</a></li>
+	<li id="menu-item-7771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7771"><a href="http://cityofholladay.com/departments/stormwater/">Stormwater</a></li>
+</ul>
+</li>
+<li id="menu-item-1918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1918"><a href="http://cityofholladay.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1920"><a href="http://cityofholladay.com/services/garbage-and-recycling/">Garbage and Recycling</a></li>
+	<li id="menu-item-1921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="http://cityofholladay.com/services/animal-licensing/">Animal Licensing</a></li>
+	<li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922"><a href="http://cityofholladay.com/departments/engineering/snow-removal/">Snow Removal</a></li>
+	<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923"><a href="http://cityofholladay.com/services/police/">Police</a></li>
+	<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924"><a href="http://cityofholladay.com/services/fire/">Fire</a></li>
+	<li id="menu-item-1925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925"><a href="http://cityofholladay.com/services/public-works-streets/">Public Works / Streets</a></li>
+	<li id="menu-item-1933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1933"><a href="http://cityofholladay.com/services/utilities/">Utilities</a></li>
+	<li id="menu-item-1934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934"><a href="http://cityofholladay.com/services/emergency-preparedness/">Emergency Preparedness</a></li>
+	<li id="menu-item-5895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5895"><a href="http://cityofholladay.com/services/podcasts/">Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1935"><a href="http://cityofholladay.com/community/">Our Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href="http://cityofholladay.com/community/about/">About Holladay City</a></li>
+	<li id="menu-item-2959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2959"><a href="http://www.holladayarts.org">Arts Council</a></li>
+	<li id="menu-item-8250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8250"><a href="http://cityofholladay.com/community/covid-19-updates/">COVID-19 Updates</a></li>
+	<li id="menu-item-1940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1940"><a href="http://cityofholladay.com/services/emergency-preparedness/">Emergency Preparedness</a></li>
+	<li id="menu-item-1944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1944"><a href="http://cityofholladay.com/community/events/">Events</a></li>
+	<li id="menu-item-6444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6444"><a href="https://sites.google.com/view/copy-of-cottonwood-holladay-hi/history-overwiew-books">Historical Commission</a></li>
+	<li id="menu-item-8376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8376"><a href="https://linkcheck.cityofholladay.com/?url=https%3A%2F%2Fcity-of-holladay-holladay.hub.arcgis.com%2F&#038;id=48aa&#038;rcpt=scarlson%40cityofholladay.com&#038;tss=1588028794&#038;msgid=bb76974e-88db-11ea-b7d5-9914abf9d899&#038;html=1&#038;h=9d6007f7">Maps/GIS</a></li>
+	<li id="menu-item-7131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="http://cityofholladay.com/community/parks-and-trails/">Parks and Trails</a></li>
+	<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1954"><a href="http://cityofholladay.com/services/room-rental/">Park Facility &#038; Room Rentals</a></li>
+	<li id="menu-item-4626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4626"><a href="http://cityofholladay.com/departments/administration/stay-informed/">Stay Informed</a></li>
+	<li id="menu-item-10745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10745"><a href="http://cityofholladay.com/community/sustainability/">Sustainability</a></li>
+	<li id="menu-item-3308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3308"><a href="http://cityofholladay.com/community/holladay-tree-committee/">Tree Committee</a></li>
+	<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953"><a href="http://cityofholladay.com/services/youth-council/">Youth Council</a></li>
+</ul>
+</li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header-fixed --><div class="fl-page-bar">
+	<div class="fl-page-bar-container container">
+		<div class="fl-page-bar-row row">
+			<div class="col-md-6 col-sm-6 text-left clearfix"><div class="fl-page-bar-text fl-page-bar-text-1"></div></div>			<div class="col-md-6 col-sm-6 text-right clearfix"><div class="fl-page-nav-search">
+	<a href="javascript:void(0);" class="fa fa-search"></a>
+	<form method="get" role="search" action="http://cityofholladay.com/" title="Type and press Enter to search.">
+		<input type="text" class="fl-search-input form-control" name="s" placeholder="Search" value="">
+	</form>
+</div><div class="fl-social-icons">
+<a href="http://www.facebook.com/pages/City-of-Holladay/116389041724536" target="_blank" class="fl-icon fl-icon-color-mono fl-icon-facebook fl-icon-facebook-regular"></a><a href="http://www.twitter.com/cityofholladay" target="_blank" class="fl-icon fl-icon-color-mono fl-icon-twitter fl-icon-twitter-regular"></a></div></div>		</div>
+	</div>
+</div><!-- .fl-page-bar --><header class="fl-page-header fl-page-header-primary fl-page-nav-centered-inline-logo fl-page-nav-toggle-button" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="fl-page-header-logo fl-inline-logo-right" itemscope="itemscope" itemtype="http://schema.org/Organization">
+					<a href="http://cityofholladay.com/" itemprop="url"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="http://cityofholladay.com/file/2016/06/logo.png" data-retina="" alt="City of Holladay" /><meta itemprop="name" content="City of Holladay" /></a>
+				</div>
+				<div class="fl-page-nav-col col-sm-12">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span>Menu</span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<ul id="menu-megamenu-1" class="nav navbar-nav menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1820"><a href="http://cityofholladay.com/government/">Our Government</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="http://cityofholladay.com/government/elected-officials/">Mayor &#038; Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1824"><a href="http://cityofholladay.com/government/rfps/">Bids/RFPs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1826"><a href="http://cityofholladay.com/government/city-boards-commissions/">Boards &#038; Commissions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10951"><a href="http://cityofholladay.com/departments/administration/city-recorder/public-hearingpublic-notices/">Public Hearing Notices</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2958"><a href="http://cityofholladay.com/government/city-boards-commissions/rda/">RDA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1830"><a href="https://codelibrary.amlegal.com/codes/holladayut/latest/overview">City Code and Ordinances</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1831"><a href="http://cityofholladay.com/government/city-manager/">City Manager</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1832"><a href="http://cityofholladay.com/government/directory/">Directory</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="http://cityofholladay.com/government/elections/">Elections</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3306"><a href="http://cityofholladay.com/departments/community-development/general-plan/">General Plan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4627"><a href="http://cityofholladay.com/departments/administration/stay-informed/">Stay Informed</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10455"><a href="https://www.holladay20.com">Holladay @20 Preparing for Tomorrow</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1833"><a href="http://cityofholladay.com/departments/">Departments</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a href="http://cityofholladay.com/departments/applications-and-forms/">Applications and Forms</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1855"><a href="http://cityofholladay.com/government/business-licensing/">Business Licensing</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9019"><a href="http://cityofholladay.com/government/building/">Building</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="http://cityofholladay.com/departments/administration/city-recorder/">City Recorder</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="http://cityofholladay.com/departments/code-enforcement/">Code Enforcement</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1872"><a href="http://cityofholladay.com/departments/community-development/">Community and Economic Development</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="http://cityofholladay.com/government/elections/">Elections</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1897"><a href="http://cityofholladay.com/departments/finance/">Finance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1906"><a href="http://cityofholladay.com/services/fire/">Fire</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3307"><a href="http://cityofholladay.com/departments/community-development/general-plan/">General Plan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364"><a href="http://cityofholladay.com/departments/human-resources/">Job Openings</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877"><a href="http://cityofholladay.com/departments/justice-court/">Justice Court</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8381"><a href="https://city-of-holladay-holladay.hub.arcgis.com">Maps/GIS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1908"><a href="http://cityofholladay.com/departments/planning-and-zoning/">Planning and Zoning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1917"><a href="http://cityofholladay.com/services/police/">Police</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7771"><a href="http://cityofholladay.com/departments/stormwater/">Stormwater</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1918"><a href="http://cityofholladay.com/services/">Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1920"><a href="http://cityofholladay.com/services/garbage-and-recycling/">Garbage and Recycling</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="http://cityofholladay.com/services/animal-licensing/">Animal Licensing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922"><a href="http://cityofholladay.com/departments/engineering/snow-removal/">Snow Removal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923"><a href="http://cityofholladay.com/services/police/">Police</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924"><a href="http://cityofholladay.com/services/fire/">Fire</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1925"><a href="http://cityofholladay.com/services/public-works-streets/">Public Works / Streets</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1933"><a href="http://cityofholladay.com/services/utilities/">Utilities</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934"><a href="http://cityofholladay.com/services/emergency-preparedness/">Emergency Preparedness</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5895"><a href="http://cityofholladay.com/services/podcasts/">Podcasts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1935"><a href="http://cityofholladay.com/community/">Our Community</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href="http://cityofholladay.com/community/about/">About Holladay City</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2959"><a href="http://www.holladayarts.org">Arts Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8250"><a href="http://cityofholladay.com/community/covid-19-updates/">COVID-19 Updates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1940"><a href="http://cityofholladay.com/services/emergency-preparedness/">Emergency Preparedness</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1944"><a href="http://cityofholladay.com/community/events/">Events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6444"><a href="https://sites.google.com/view/copy-of-cottonwood-holladay-hi/history-overwiew-books">Historical Commission</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8376"><a href="https://linkcheck.cityofholladay.com/?url=https%3A%2F%2Fcity-of-holladay-holladay.hub.arcgis.com%2F&#038;id=48aa&#038;rcpt=scarlson%40cityofholladay.com&#038;tss=1588028794&#038;msgid=bb76974e-88db-11ea-b7d5-9914abf9d899&#038;html=1&#038;h=9d6007f7">Maps/GIS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="http://cityofholladay.com/community/parks-and-trails/">Parks and Trails</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1954"><a href="http://cityofholladay.com/services/room-rental/">Park Facility &#038; Room Rentals</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4626"><a href="http://cityofholladay.com/departments/administration/stay-informed/">Stay Informed</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10745"><a href="http://cityofholladay.com/community/sustainability/">Sustainability</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3308"><a href="http://cityofholladay.com/community/holladay-tree-committee/">Tree Committee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953"><a href="http://cityofholladay.com/services/youth-council/">Youth Council</a></li>
+</ul>
+</li>
+</ul><div class="fl-page-nav-search">
+	<a href="javascript:void(0);" class="fa fa-search"></a>
+	<form method="get" role="search" action="http://cityofholladay.com/" title="Type and press Enter to search.">
+		<input type="text" class="fl-search-input form-control" name="s" placeholder="Search" value="">
+	</form>
+</div>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header -->	<div class="fl-page-content" itemprop="mainContentOfPage">
+	
+		
+<div class="fl-archive container">
+	<div class="row">
+		
+				
+		<div class="fl-content col-md-12" itemscope="itemscope" itemtype="http://schema.org/Blog">
+
+			<header class="fl-archive-header">
+	<h1 class="fl-archive-title">Planning Commission</h1>
+</header>			
+						
+									<article class="fl-post post-10461 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10461" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-meeting-oct-5/" rel="bookmark" title="Planning Commission Meeting &#8211; Oct. 5">Planning Commission Meeting &#8211; Oct. 5</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">September 30, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-meeting-oct-5/" /><meta itemprop="datePublished" content="2021-09-30" /><meta itemprop="dateModified" content="2021-10-04" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will bold a meeting on Tuesday, October 5 at 6:00 pm.  The <a href="http://cityofholladay.com/file/2021/09/PC-Packet-10052021.pdf"><strong>agenda and packe</strong></a>t are now  available.</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-meeting-oct-5/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10381 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10381" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/administrative-appeals-hearing-sept-17/" rel="bookmark" title="Administrative Appeals Hearing &#8211; Sept. 17">Administrative Appeals Hearing &#8211; Sept. 17</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">September 15, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/administrative-appeals-hearing-sept-17/" /><meta itemprop="datePublished" content="2021-09-15" /><meta itemprop="dateModified" content="2021-09-15" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Administrative Hearing officer will hold a meeting on Friday, Sept. 17 at 2:00 pm to hear a variance request.  The agenda i&amp; staff report are now available.</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/administrative-appeals-hearing-sept-17/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10352 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10352" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-mtg-sept-7/" rel="bookmark" title="Planning Commission Mtg &#8211; Sept. 7">Planning Commission Mtg &#8211; Sept. 7</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">September 3, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-mtg-sept-7/" /><meta itemprop="datePublished" content="2021-09-03" /><meta itemprop="dateModified" content="2021-09-03" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a meeting on Tuesday, September 7 at 6:00 pm.  The agenda and supporting documents are now available.</p>
+<p>Interested parties are encouraged to watch the video stream of the meeting by <a href="http://cityofholladay.com/government/elected-officials/meetings-and-agendas/"><strong>clicking here</strong></a></p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-mtg-sept-7/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10333 post type-post status-publish format-standard hentry category-planning-commission category-notices" id="fl-post-10333" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-public-hearings-sept-7/" rel="bookmark" title="Planning Commission Public Hearings &#8211; Sept. 7">Planning Commission Public Hearings &#8211; Sept. 7</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">August 30, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-public-hearings-sept-7/" /><meta itemprop="datePublished" content="2021-08-30" /><meta itemprop="dateModified" content="2021-09-02" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold two public hearings on Tuesday, September 7 beginning at 6:00 pm.   The purpose of the first hearing is to review and recommend updates on associated technical amendments to Title 13, of Holladay City Cod as they relate<a href="http://cityofholladay.com/file/2021/08/13.74-Flood-Prevention_amendment-DRAFT-09092021.pdf"> flood and geologic hazard mapping and related study revisions by the Federal Emergency Management Agency and Utah Geologic Survey. (Ord. 13.74 and 13.75)</a></p>
+<p>The purpose of the second hearing is to make recommendation on proposed amendments to Chapter 13.77, of the City Code regarding consideration of<a href="http://cityofholladay.com/file/2021/08/13.77-Ordinance_Draft.revised.Aug-2021.pdf"> parking lot shade tree requirements and standards.  </a></p>
+<ul>
+<li>Emailed comments: must be received by 5:00 pm on September 6, 2021 to the Community and Economic Development Department-j<a href="mailto:teerlink@cityofholladay.com">teerlink@cityofholladay.com</a></li>
+<li>Interested parties are encouraged to watch the video stream of the meeting on the City of Holladay webpage</li>
+</ul>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-public-hearings-sept-7/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10212 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10212" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-meeting-aug-3/" rel="bookmark" title="Planning Commission Meeting &#8211; Aug 3">Planning Commission Meeting &#8211; Aug 3</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 30, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-meeting-aug-3/" /><meta itemprop="datePublished" content="2021-07-30" /><meta itemprop="dateModified" content="2021-08-02" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a meeting on Tuesday, August 3 at 6:00 pm.  The agenda and supporting documents are now available.</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-meeting-aug-3/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10185 post type-post status-publish format-standard hentry category-planning-commission category-notices" id="fl-post-10185" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-public-hearing-aug-3/" rel="bookmark" title="Planning Commission Public Hearing &#8211; Aug. 3">Planning Commission Public Hearing &#8211; Aug. 3</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 26, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-public-hearing-aug-3/" /><meta itemprop="datePublished" content="2021-07-26" /><meta itemprop="dateModified" content="2021-07-26" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a public hearing on <strong>Tuesday, the 3<sup>rd</sup> day of August 2021</strong>, as close to 6:00 P.M. as possible. The purpose of the hearing is to consider an amendment to the Holladay Zone Map from R-1-10 zone to R-2-10 for <a href="http://cityofholladay.com/file/2021/07/2300-Rezone_zone-map-w-aerial.pdf-scaled.jpg">approximately .35 acres of property located at 4409 South 2300 East.</a></p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-public-hearing-aug-3/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10131 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10131" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-meeting-july-20/" rel="bookmark" title="Planning Commission Meeting &#8211; July 20">Planning Commission Meeting &#8211; July 20</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 16, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-meeting-july-20/" /><meta itemprop="datePublished" content="2021-07-16" /><meta itemprop="dateModified" content="2021-07-19" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a meeting on Tuesday, July 20 at 6:00 pm.  The agenda &amp; supporting documents are now available.</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-meeting-july-20/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10111 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10111" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-meeting-july-13/" rel="bookmark" title="Planning Commission Meeting &#8211; July 13">Planning Commission Meeting &#8211; July 13</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 9, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-meeting-july-13/" /><meta itemprop="datePublished" content="2021-07-09" /><meta itemprop="dateModified" content="2021-07-10" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a meeting on Tuesday, July 13 at 6:00 pm.  The agenda and packet are now available.</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-meeting-july-13/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10093 post type-post status-publish format-standard hentry category-planning-commission category-notices" id="fl-post-10093" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/planning-commission-public-hearing-july-13/" rel="bookmark" title="Planning Commission- Accessory Dwelling Units (ADU)">Planning Commission- Accessory Dwelling Units (ADU)</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 7, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/planning-commission-public-hearing-july-13/" /><meta itemprop="datePublished" content="2021-07-07" /><meta itemprop="dateModified" content="2021-07-20" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Planning Commission will hold a continued public hearing on Tuesday, July 20 at 6:00pm.  The  continued hearing to review proposed amendments to Title 13, as per State of Utah legislation, that modifies provisions related to single-family housing, specifically to permit certain accessory dwelling units as a permitted land use.</p>
+<p><strong><a href="http://cityofholladay.com/file/2021/07/IADU-Draft-Ordinance_July-2021-1.pdf">Draft IADU ordinance</a></strong></p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/planning-commission-public-hearing-july-13/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->									<article class="fl-post post-10092 post type-post status-publish format-standard hentry category-agenda category-planning-commission" id="fl-post-10092" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+	
+	
+	<header class="fl-post-header">
+		<h2 class="fl-post-title" itemprop="headline">
+			<a href="http://cityofholladay.com/administrative-appeals-hearing-july-8/" rel="bookmark" title="Administrative Appeals Hearing &#8211; July 8">Administrative Appeals Hearing &#8211; July 8</a>
+					</h2>
+		<div class="fl-post-meta fl-post-meta-top"><span class="fl-post-date">July 7, 2021</span></div><meta itemscope itemprop="mainEntityOfPage" itemid="http://cityofholladay.com/administrative-appeals-hearing-july-8/" /><meta itemprop="datePublished" content="2021-07-07" /><meta itemprop="dateModified" content="2021-07-07" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="City of Holladay"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://cityofholladay.com/file/2016/06/logo.png"></div></div><div itemscope itemprop="author" itemtype="http://schema.org/Person"><meta itemprop="url" content="http://cityofholladay.com/author/scarlsoncityofholladay-com/" /><meta itemprop="name" content="Stephanie Carlson" /></div><div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter"><meta itemprop="interactionType" content="http://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	</header><!-- .fl-post-header -->
+
+	
+	<div class="fl-post-content clearfix" itemprop="text">
+		<p>The Administrative Appeals officer will hold a hearing on Thursday, July 8 at 9:00 am.  The agenda and packet are now available</p>
+<a class="fl-post-more-link" href="http://cityofholladay.com/administrative-appeals-hearing-july-8/">Read More</a>	</div><!-- .fl-post-content -->
+
+	
+	
+</article>
+<!-- .fl-post -->								
+				<nav class="fl-archive-nav clearfix"><div class="fl-archive-nav-prev"><a href="http://cityofholladay.com/category/planning-commission/page/2/" >&laquo; Newer Posts</a></div><div class="fl-archive-nav-next"><a href="http://cityofholladay.com/category/planning-commission/page/4/" >Older Posts &raquo;</a></div></nav>				
+						
+		</div>
+		
+				
+	</div>
+</div>
+
+			
+	</div><!-- .fl-page-content -->
+		<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+		<div class="fl-page-footer">
+	<div class="fl-page-footer-container container">
+		<div class="fl-page-footer-row row">
+			<div class="col-md-6 col-sm-6 text-left clearfix"><div class="fl-page-footer-text fl-page-footer-text-1">© 2021 City of Holladay | Powered by Infobytes <br> <a href="/departments/administration/terms-of-use-overview/">Terms of Use</a></div></div>			<div class="col-md-6 col-sm-6 text-right clearfix"><div class="fl-page-footer-text fl-page-footer-text-2">City of Holladay, 4580 S. 2300 E. Holladay, UT 84117<br>(801) 272-9450
+</div></div>		</div>
+	</div>
+</div><!-- .fl-page-footer -->	</footer>
+		</div><!-- .fl-page -->
+<script type='text/javascript' src='http://cityofholladay.com/static/ext/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.4.2.2' id='jquery-throttle-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static/ext/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.4.2.2' id='jquery-magnificpopup-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static/ext/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static_main/js/bootstrap.min.js?ver=1.5.4' id='bootstrap-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static_main/js/theme.js?ver=1.5.4' id='fl-automator-js'></script>
+<script type='text/javascript' src='http://cityofholladay.com/static/lib/js/embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script>
+
+</script>
+
+<script>
+function user_logout() {
+    var data = {action: 'u_logout'};
+    jQuery.post('http://cityofholladay.com/ajax', data, function(response) {
+        location.reload(true);
+    });
+}
+function add_page()
+{
+    var pName = document.getElementById('p_name_box').value;
+    var pId = document.getElementById('add-p-b').getAttribute("p_id");
+    var data = {
+        action: 'add_new_page',
+        p_name: pName,
+        parent: pId
+    };
+    jQuery.post('http://cityofholladay.com/ajax', data, function(response) {
+        location.reload(true);
+    });
+    
+}
+function delete_page()
+{
+    var pId = document.getElementById('d-p-b').getAttribute("p_id");
+    var data = {
+        action: 'delete_page',
+        page: pId
+    };
+    jQuery.post('http://cityofholladay.com/ajax', data, function(response) {
+        location.assign(response);
+    });
+    
+}
+function set_page_name()
+{
+    var pName = document.getElementById('set_name_box').value;
+    var pId = document.getElementById('set_name_b').getAttribute("p_id");
+    
+    var data = {
+        action: 'set_page_name',
+        page: pId,
+        p_name: pName
+    };
+    jQuery.post('http://cityofholladay.com/ajax', data, function(response) {
+        location.assign(response);
+    });
+    
+}
+</script>
+<script>
+
+jQuery('.fl-slide-content a').on('pointerdown', function(){return false});
+</script></body>
+</html>

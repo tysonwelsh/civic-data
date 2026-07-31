@@ -1,0 +1,3 @@
+pin,plan_vintage,action,reason
+19561,2027-2032,merge_dup,"Same project twice in the points layer with source typo drift ('Mill Creek Canyon Road - UT FLPP SL 10 (1)' vs 'MILL CREEK CANYON ROAD - UT FLAP SLA 10(1)'); one row carries a description the other lacks, else identical. Keep the most complete row. Adjudicated 2026-07-22 (WFRC-native Phase 1)."
+21213,2027-2032,keep_both,"UDOT master-PIN bundling: lines feature 'Part of FrontRunner Forward' (Salt Lake, FY2024, $400M, TTIF) and points feature 'FrontRunner Point Improvements' (blank county, FY2026, $363.2M) are genuinely distinct sub-scopes sharing one PIN. Both kept as variants; per-PIN lifecycle numerics blanked (mixing scopes would fabricate a trajectory). Adjudicated 2026-07-22 (WFRC-native Phase 1)."

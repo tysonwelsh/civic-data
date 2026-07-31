@@ -1,0 +1,623 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1491&doc_id=a8fb9b2a-b001-11ee-bb82-0050569183fa
+> Meeting date: 2023-12-07
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, DECEMBER 7, 2023, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Lisa Fowler, Vice-Chair
+               Commission Member Gary Ogden
+               Alternate Commission Member Laura Fidler
+
+EXCUSED:             Andrew Adams, Chair
+                     Commission Member Kendra Shirey
+                     Commission Member Susan Nixon
+                     Commission Member Mary Squire
+                     Alternate Commission Member Shivam Shah
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+               Todd Draper, Planning Manager
+               Todd Taylor, Planner III
+               Mike Barker, City Attorney
+               Spencer DuShane, Assistant City Attorney
+               Brien Maxfield, Senior Engineering Manager
+               Amie Salazar, Office Manager
+
+6:30 PM Business Meeting
+
+In the absence of Chair Andrew Adams, Vice-Chair Lisa Fowler assumed the Chair and called the
+meeting to order.
+
+1.     Items for Commission Consideration.
+
+       A.     Action Item: Approve Planning Commission Meeting Minutes for October 26,
+              2023. (Administrative Action).
+
+Motion: Commissioner Ogden moved to APPROVE the Planning Commission Meeting
+Minutes for October 26, 2023.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+       B.     Action Item:    Approve Planning Commission Meeting Minutes for
+              November 9, 2023. (Administrative Action).
+
+Motion: Commissioner Fidler moved to APPROVE the Planning Commission Meeting
+Minutes for November 9, 2023.
+
+Second: Commissioner Ogden.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 2
+
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+       C.      Action Item: Vote for the 2024 Chair and Vice-Chair.
+
+Motion: Commissioner Ogden moved to ELECT Andrew Adams as Chairman of the Draper
+City Planning Commission for the Year 2024.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+Motion: Commissioner Ogden moved to RE-ELECT Lisa Fowler as Vice-Chair of the
+Draper City Planning Commission for the Year 2024.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+       D.      Public Hearing: City-Initiated Public Works Accessory Building Site Plan
+               Amendment and Deviations Request (Administrative Action)
+               On the request of Draper City, Request for Approval of a Site Plan Amendment and
+               Deviation in the M1 (Light Manufacturing) Zone Regarding the Construction of an
+               Accessory Building on Approximately 10.56 Acres, located at 72 East Sivogah
+               Court. Known as Application 2023-4627-SP, 2023-4631-VAR. Staff Contact:
+               Todd Taylor, 801576-6510, todd.taylor@draperutah.gov.
+
+Planner III, Todd Taylor presented the Staff Report and stated that the request is for a Site Plan
+Amendment and Deviations Request. The site is located at 72 East Sivogah, which is north of
+14600 South and east of I-15. An aerial map of the site was displayed showing the main Public
+Works Building. The Land Use Map was displayed to show that the site is designated as
+Community Commercial. The Zoning Map showed the site zoning as M1 Light Industrial. The
+Site Plan was displayed to show the proposed location of the accessory building to the west of the
+main building along the west property line as well as the revised landscaped and parking areas.
+The deviations requested were to three of the requirements. The first was to the requirement for
+three colors. Two colors are proposed. Deviations were also requested to the materials. The Code
+requires two primary materials while only one is proposed. A deviation was also requested to the
+building orientation. The building is not facing the street as required but faces the main Public
+Works Building instead. Mr. Taylor clarified that the Site Plan is being amended to include the
+accessory building, the landscaped area, and the parking area.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 3
+
+Senior Engineering Manager, Brien Maxfield, reported that the City has outgrown the site and is
+actively pursuing other opportunities to either construct a new operations facility or expand the
+existing one. The deviations were proposed so that the building would match the other existing
+buildings and because it is less costly to construct it that way. He noted that there are no temporary
+facilities within the Code so it is being constructed with an eye that the future Public Works
+Operations Building may not need this accessory building depending on how the site is laid out.
+
+Vice-Chair Fowler opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Ogden had no objections to the proposal as it is back off the road and deep within
+the footprint of the property. He thought it made sense to have the proposed structure face the
+existing building rather than the road.
+
+Commissioner Fidler asked how it compares to the other two buildings that it will be next to.
+Mr. Maxfield stated that the other two buildings are garage and storage areas where pipe and
+construction materials are stored. The proposed building will be nicer than the two that currently
+exist on the site. The proposed building was not expected to be used longer than a few years at
+the most. It will be a modular building but once it is installed it will require significant effort to
+move.
+
+Vice-Chair Fowler asked about the criteria to allow the deviations. Mr. Taylor referenced page six
+of the Staff Report, which requires at least three of the criteria to be met to approve the design
+modification. The landscaped area exceeds the minimum required by 10%. Pages 6 and 7 in the
+staff report list the five criteria that staff believes the request meets.
+
+Motion: Commissioner Ogden moved to APPROVE the Deviation Request from the exterior
+colors, materials, and building orientation requirements as requested by Draper City
+Application 2023-4631-VAR based on the following findings:
+
+       1.      The requested deviations are consistent with the purpose and intent of the
+               development standards of the applicable zoning district or land use category.
+
+       2.      The proposed development satisfies at least three (3) of the criteria listed in
+               DCMC 9-22-030(B).
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+Motion: Commissioner Fidler moved to APPROVE the Site Plan Amendment as requested
+by Draper City Application 2023-4627-SP based on the following findings:
+
+       1.      The Site Plan reflects the full development of the property.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 4
+
+
+       2.      The Site Plan with approval of the deviation requests conforms to applicable
+               standards set forth in the ordinance, including but not limited to, building
+               heights, setbacks, access points, parking, landscaping, and building materials.
+
+       3.      The proposed development plans meet the intent, goals, and objectives of the
+               General Plan and the purpose of the M1 zoning district in which the site is
+               located.
+
+       4.      The public facilities and services in the area are adequate to support the
+               subject development, as required by engineering standards and specifications.
+
+       5.      The proposed development plans will comply with the engineering standards
+               found in Titles 7, 8, 11, 12, 16, and 18 of the Draper City Municipal Code,
+               including traffic, stormwater drainage, and utilities concerns.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+       E.      Public Hearing: City-Initiated Bluffdale Deannexation Zoning and Land Use
+               Map Amendment (Legislative Action)
+               On the request of Draper City to amend the Zoning and Land Use Maps to remove
+               from the maps 0.889 acres of property located approximately at 600 West 14600
+               South. The property is currently zoned M1 (Light Manufacturing) and has a
+               Cultural/Institutional Land Use designation. Applications 2023-4628-MA, 2023-
+               4629MA.        Staff    contact   is   Jennifer   Jastremsky,    801-576-6328,
+               jennifer.jastremsky@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, reported that the property is located on
+the boundary between Bluffdale and Draper cities next to the former prison property. The property
+owner also owns the property directly to the south which is within Bluffdale City. Currently, the
+two cities are looking at adjusting the municipal boundary so that the entire property that is owned
+by the property owner is in Bluffdale. The portion they own in Draper is landlocked and
+unbuildable. The property owner owns a substantial amount of property in Bluffdale City and is
+looking to develop it. The preference is for all of the property to be in one municipality.
+
+In October, the City Council approved a Notice of Intent to adjust the common boundary between
+Bluffdale and Draper. The request tonight is to adjust the zoning and land use maps with the intent
+for the matter to be addressed by the City Council the same night as the boundary adjustment. The
+property will be removed entirely from the map. When Bluffdale City annexes the property into
+its boundary it will have to be added to the Bluffdale City Land Use and Zoning Maps.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 5
+
+Vice-Chair Fowler asked why the Zoning and Land Use Maps have to be changed in advance of
+annexing the property. Ms. Jastremsky stated that the matter will be addressed at the same City
+Council Meeting as the boundary adjustment. If the Council decides not to adjust the boundary,
+they will not approve the Rezone and Land Use Map Amendment. It was noted that the City
+Council will make a decision on the boundary adjustment and remove it from the map. If the
+boundary adjustment is approved, the property will need to be removed from Draper City’s Zoning
+and Land Use Maps. Ms. Jastremsky did not know the history of the property but assumed the
+parcel was left over when the State was acquiring land for the prison property.
+
+Vice-Chair Fowler opened the public hearing. There was no public comment. The public hearing
+was closed.
+
+Commissioner Ogden commented that the property is landlocked and has no use for the landowner.
+He considered what was proposed to make the most sense.
+
+Motion: Commissioner Ogden moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Map Amendment as requested by Draper City for the City-initiated
+Bluffdale Deannexation Zoning Map Amendment, Application 2023-4628-MA based on the
+following findings:
+
+       1.     The proposed amendment is consistent with the goals, objectives, and policies
+              of the City's General Plan.
+
+       2.     The proposed amendment is harmonious with the overall character of existing
+              development in the vicinity of the subject property.
+
+       3.     The proposed amendment is consistent with the standards of any applicable
+              overlay zone.
+
+       4.     The proposed amendment will not adversely affect adjacent property.
+
+       5.     There will be adequate facilities and services intended to serve the subject
+              property within Bluffdale City. Given the property being landlocked, Draper
+              City cannot provide services to this property. Services include, but are not
+              limited to, roadways, parks and recreation facilities, police and fire protection,
+              schools, stormwater drainage systems, water supplies, and wastewater and
+              refuse collection.
+
+       6.     The proposed amendment complies with DCMC Section 9-2-020(F).
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 6
+
+
+Motion: Commissioner Fidler moved to forward a POSITIVE recommendation to the City
+Council for the Land Use Map Amendment as requested by Draper City for the City-
+initiated Bluffdale Deannexation Land Use Map Amendment, Application 2023-4629-MA
+based on the following findings:
+
+       1.      The proposed amendment is consistent with the goals, objectives, and policies
+               of the City's General Plan.
+
+       2.      The proposed amendment is harmonious with the overall character of existing
+               development in the vicinity of the subject property.
+
+       3.      The proposed amendment is consistent with the standards of any applicable
+               overlay zone.
+
+       4.      The proposed amendment will not adversely affect adjacent property.
+
+       5.      There will be adequate facilities and services intended to serve the subject
+               property within Bluffdale City. Given the property being landlocked, Draper
+               City cannot provide services to this property. Services include, but are not
+               limited to, roadways, parks and recreation facilities, police and fire protection,
+               schools, stormwater drainage systems, water supplies, and wastewater and
+               refuse collection.
+
+       6.      The proposed amendment complies with DCMC Section 9-2-020(F).
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+       F.      Public Hearing: Radnet Corporate Office Building Site Plan Request
+               (Administrative Action)
+               On the request of Brent Harris, representing Harris Architecture, Wendel and Trudy
+               Gibby, and Radnet Properties, LLC, for a Site Plan Request including requests for
+               deviations from building design standards, on a 2.75-acre property, approximately
+               39 W. 11400 S., known as application SPR-59-2021, Staff Contact: Todd A.
+               Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+Planning Manager, Todd Draper, presented the Staff Report and stated that the request is for a Site
+Plan Application that includes deviations from the building design standards. The property was
+identified on a vicinity map displayed and consists of three individual parcels. The proposed Site
+Plan shows access from State Street with a central building toward the western portion of the
+property with access and parking around it. The Record of Survey shows an existing access
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 7
+
+easement. The property was formerly owned by the Utah Department of Transportation
+(“UDOT”) before it was sold as surplus and the access easement into the property was granted.
+The proposed Landscaping Plan and elevations were also presented. The application was
+submitted initially in 2021. As a result, it qualifies under the former standards for requesting a
+deviation to the height limitations. The deviation criteria provided in the Staff Report are from
+that time period.
+
+Mr. Draper reported that on the exterior the lower levels are mostly stone with glass on the upper
+floors. The design also includes the required horizontal and vertical articulation. The basement
+plan includes underground parking. The stone will include two different face treatments but will
+be the same color. Mr. Draper stated that one of the conditions enumerated in the Staff Report is
+that the materials on the materials boards need to be tied back to the elevation drawings. An
+example of the window glass that will be required near pedestrian walkways where transparency
+is required was described.
+
+The criteria required to meet the height deviation were reviewed. To approve of the deviation the
+height cannot have a material adverse effect on the character of the area and the public health and
+general welfare. The height range must also be compatible with the use and development of
+neighboring properties with respect to scale and massing. The building will be designed to relate
+to the human scale and incorporate at least one of the following three features:
+
+       1.      Architectural detailing including on the ground floor to emphasize the pedestrian
+               level of the building.
+
+       2.      Architectural detailing at the cornice level or accentuated building zones.
+
+       3.      Roofline architectural features that give it a distinctive form or skyline.
+
+The findings for the materials deviation were reviewed. The only primary material that the
+building will be constructed of will be stone, which is over 90% of the total façade areas, not
+including the windows. Three colors, as required, were shown on the updated drawings. The 10
+options for grating a variance were identified and the Commission would need to find at least three
+are met. Staff believes that items 6, 9, and 10 meet the standard. The Planning Commission will
+have to find that the variations are consistent with the purpose of the chapter and any applicable
+master plan or ordinance. The applicant believes the proposal is a Transit-Oriented development.
+Staff does not feel it meets the definition of such. Mr. Draper explained that there is a bus stop
+one-half mile to the west but getting to it requires crossing under the I-15 freeway. It is not very
+accessible, particularly since the building is set back from the street. Site photos were presented.
+
+In response to a question raised by Vice-Chair Fowler about the slope of the property, Mr. Draper
+explained that the plan is to raise the grade on one side so that the building will sit level to 11400
+South. The grade across the front will be mostly uniform. The slope of the site was described.
+Mr. Draper reported that not all of the basement level will be exposed in the rear. Mostly it will
+be exposed near the vehicular entry. The dumpster enclosure was to be located next to the freeway.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 8
+
+Commissioner Ogden remarked that much of the building is glass. The stone materials to be used
+include rough stone and smooth stone above the ribbon. It does not count as two colors or materials
+because they are the same but there is some differentiation and a distinct visual difference.
+
+Vice-Chair Fowler asked if there was concern with the traffic pattern coming out of the building
+as it is a very busy corner. Senior Engineering Manager, Brien Maxfield stated that the request
+did not trigger the need for a traffic study. He stated that UDOT already controls the access onto
+State Street and 11400 South.
+
+A public comment was sent to the City Manager that was forwarded to staff and the Planning
+Commissioners. The concern was that the existing median creates issues with the proposed
+parking lots and creates small pockets of parking and someone who enters must turn right to exit.
+They proposed that the accesses be realigned to create an internal access drive and lose a few
+parking stalls. Staff had not reviewed the comment in detail as it was received only earlier in the
+day.
+
+Mr. Draper indicated that another office building to the south of the subject property was recently
+approved, and that there would be another access through that lot. Ms. Jastremsky did not think
+there was cross-access through the entire property. The hatched cross access shown on the record
+of survey, primarily serves the different properties. Her understanding was that there is not an
+access that goes through the entire office building project to the south and back to State Street.
+Vice-Chair Fowler clarified that for this property and the restaurant, there is one exit onto State
+Street. The property to the south will have its own exit onto State Street.
+
+Ken Harris identified himself as the Project Architect. A few members of the team were present.
+Mr. Harris stated that this is an impressive company that is coming into the City and he wanted to
+allow them to introduce themselves.
+
+Dr. Wendel Gibby’s Assistant, Kristine Buxton, reported that he was unable to be present as he
+was on a humanitarian trip in South Africa. In 2019, they installed an X-ray machine there that
+can be used with a digital camera. It was installed in a small village. It was not working so they
+have gone back to modify it to allow for an x-ray to be taken with a cell phone or small digital
+camera. The technology is now being installed in other small villages. They have worked hard
+and want to be in Draper. They have opportunities for high-paying jobs and will provide cutting-
+edge technology.
+
+Sierra Melanson, a member of their Communications Department, reported that Novarad is the
+technology portion of the company that will be in the building. They have been in business for
+over 30 years and have developed innovative medical and imaging technology that is used globally
+and increases health equity. It allows for surgeries to be done in small countries at a much more
+affordable price. It is ground-breaking technology and they are competing with top companies
+such as GE and Phillips. They also plan to have a health care facility on the main floor that
+provides great health care at affordable prices. As a previous resident of Provo and a current
+Draper resident, Sierra attested to the job creation and community benefits.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 9
+
+Currently, at their Provo location, half of the bottom floor is an imaging and surgical center. The
+other half is an urgent care facility. A similar layout was envisioned for this building with a clinic,
+surgical center, and imaging center. The surgeries performed are mostly interventional radiology
+surgeries for cysts, hernias, etc. that can be performed in an outpatient facility.
+
+Mr. Harris stated that the owner is interested in a Class A office building that is constructed of
+steel and concrete with a lot of glass to be energy efficient. The stone is granite with two different
+finishes. The same material is on their Provo building and it is beautiful. He believes the texture
+difference makes it look like two different colors of stone. They feel that the building is well-
+designed and fits in with the larger buildings that are adjacent to it. The lower level on the north
+side is more pedestrian-friendly with a drop-off and covered port cochere. The stone goes up the
+façade about 1½ stories with glass above.
+
+Civil Engineer, Matt Brown from MW Brown Engineering, reported that the site to the south went
+through a similar process. UDOT required a complete cross-access all the way through. The intent
+was for left-hand turns to be made there. He clarified that a connection was mandated by UDOT.
+
+Commissioner Ogden expressed concern with the parking and stated that the 44 stalls near State
+Street will have to turn right to get into a position to turn around and go the opposite direction and
+exit the property if there is no cross-access. He asked if any thought had been given to making
+access from one to the other so that everyone is not coming in on the main road. Mr. Harris stated
+that it will depend on how the overall parking works on the site. UDOT did not raise concerns
+about that to them. He noted that they are already fairly tight with respect to the parking
+requirements. Mr. Draper reported that there are 184 stalls on the site with the range being from
+178 to 218 with natural adjustments. As a result, they can lose no more than six stalls and remain
+compliant with parking regulations. Vice-Chair Fowler stated that the goal should be to remove
+the barrier down the entrance road. There is no circular access through the three lots so four stalls
+along 11400 South and Ms. Fowler asked if these could be removed to make a circular access. Mr.
+Draper explained that to do that would require the elimination of 12 stalls.
+
+Commissioner Ogden asked about the height of the building and stated that it seems tall. It is 22%
+taller than what the Code allows. The roof appears to have a significant pitch from the top of the
+third floor upward. Project Manager, Doug Spohn from Harris Architecture, indicated that the
+building proposed on the neighboring property to the south was approved at a height of 62 feet,
+which is nearly as tall as the proposed building. He stated that they increased the height slightly
+to provide additional height for a surgery center.
+
+Vice-Chair Fowler opened the public hearing.
+
+Steve Pruitt identified himself as the owner of Phoenix West who leases property to Tuscano’s
+Restaurant. He was anxious to have the applicants as a neighbor. His only concern was the parking
+since when he originally negotiated the easements, UDOT required the median be put in primarily
+because it was less than their administrative requirement for proximity to the radius at the
+intersection. The median was proposed as a control mechanism. He was concerned about
+circulation, motorists making U-turns and causing congestion. He hoped to connect the two lots
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 10
+
+and have reciprocal use of the parking. Mr. Pruitt stated that they do not need all their parking
+during the day. His primary concern was safety.
+
+There was no further public comment. The public hearing was closed.
+
+Mr. Draper reported from an earlier question of the Commissioners, that the tallest point of the
+approved building to the South is 62 feet with the average height being 55 feet.
+
+Mr. Ogden liked the look of the building and stated that the proposed location is great. The height,
+however, was of concern as it will look like a five-story building from 11400 South. He recalled
+that height was also identified previously as a concern when development was proposed on the
+site. Ms. Jastremsky stated that staff received an application from the same property owner a few
+years ago for a text amendment for a sign. At that time they discussed their vision for the property.
+There are freeway frontage sign allotments so the applicants were modifying the height and
+signage area at that time.
+
+City Attorney, Mike Barker, stated that the issue is whether the applicants have met three of the
+10 requirements listed. If they have, they are entitled to approval. If not, the Commission must
+provide substantial evidence and determine which have not been met.
+
+Mr. Draper reported that the zoning for the subject property allows for a maximum height of 55
+feet. The property to the south is in a different zone with the maximum being 45 feet.
+
+Commissioner Fidler suspected that the building will look large on that corner but it is a beautiful
+building that will be an improvement over what is there currently. The glass will make it appear
+less intrusive and bring interest to the corner. Staff felt that criteria 6, 9, and 10 have been met and
+are as follows:
+
+       6.      The variations are consistent with the purpose of this chapter and any applicable
+               master plan or ordinance.
+
+       9.      The building design is a specific architectural style, such as contemporary or
+               modern, which utilizes facade materials differently than prescribed in subsection 9-
+               22-040F of this chapter and is designed by a licensed architect.
+
+       10.     The amount of primary materials used for a facade is at least ten percent (10%)
+               greater than the minimum required amount.
+
+Commissioner Ogden commented that the materials look good. They are using the same material
+but one is smooth and one is rough, which provides a different look and feel. He had no issue with
+that deviation.
+
+Mr. Barker commented on the previously discussed awkward layout of the parking area and stated
+that the Planning Commission's approval of the Site Plan does not mean that the two adjacent
+property owners cannot come to an agreement to improve it. Approval would give the applicant
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 11
+
+the ability to pull a Land Disturbance Permit and begin work on the project. They could choose
+to amend the parking lot design if a better solution is found. Commissioner Ogden was concerned
+that the two lots will be a problem with the median island. Traffic circulation issues were
+discussed. However, it was recognized that what has been proposed is compliant with ordinance.
+
+Vice-Chair Fowler was concerned about the limited access into and out of the property and its
+proximity to the intersection. Mr. Barker commented that UDOT would not have allowed the
+entrance to be there if it did not meet their standards. In addition, State Street is a state road. It
+can be assumed that UDOT is amenable to where the entrance is located.
+
+Motion: Commissioner Fidler moved to APPROVE the deviation for increased height as
+requested by Brent Harris representing Harris Architecture, Wendel and Trudy Gibby, and
+Radnet Properties, LLC for the Radnet Corporate Office Building, Application SPR-59-2021
+based on the following findings:
+
+       1.      The proposed height will not have a material adverse effect on the character
+               of the area or the public health, safety, and general welfare.
+
+       2.      The proposed construction and arrangement of the building height are
+               compatible with the use and development of neighboring properties with
+               respect to scale and massing.
+
+       3.      The building is designed to relate to the human scale and incorporates at least
+               one of the following:
+
+               a.      Architectural detailing including on the ground floor to emphasize the
+                       pedestrian level of the building.
+
+               b.      Architectural detailing at the cornice level or accentuated building
+                       zones.
+
+               c.      Roofline architectural features that give it a distinctive form or skyline.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+Motion: Commissioner Ogden moved to APPROVE the deviation for use of only 1 primary
+material as requested by Brent Harris representing Harris Architecture, Wendel and Trudy
+Gibby, and Radnet Properties, LLC for the Radnet Corporate Office Building, Application
+SPR-59-2021 based on the following findings:
+
+       1.      The variations are consistent with the purpose of this chapter and any
+               applicable master plan or ordinance.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 12
+
+
+      2.     The building design is a specific architectural style, such as contemporary or
+             modern, which utilizes facade materials differently than prescribed in
+             subsection 922-040(F) and is designed by a licensed architect.
+
+      3.     The amount of primary materials used for a facade is at least ten percent
+             (10%) greater than the minimum required amount.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+Motion: Commissioner Ogden moved to APPROVE the Site Plan as requested by Brent
+Harris representing Harris Architecture, Wendel and Trudy Gibby, and Radnet Properties,
+LLC for the Radnet Corporate Office Building, Application SPR-59-2021 based on the
+following findings:
+
+      1.     The site plan reflects the full development of the property.
+
+      2.     The site plan with the approval of the deviation requests conforms to
+             applicable standards set forth in the ordinance, including but not limited to,
+             building heights, setbacks, access points, parking, landscaping, and building
+             materials.
+
+      3.     The proposed development plans meet the intent, goals, and objectives of the
+             general plan and the purpose of the CI zoning district in which the site is
+             located.
+
+      4.     The public facilities and services in the area are adequate to support the
+             subject development, as required by engineering standards and specifications.
+
+      5.     The proposed development plans will comply with the engineering standards
+             found in Titles 7, 8, 11, 12, 16, and 18 of the Draper City Municipal Code,
+             including traffic, stormwater drainage, and utilities concerns.
+
+Second: Commissioner Fidler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-0 in favor of the motion.
+Commissioners Fowler, Ogden, and Fidler voted “Aye”. The motion passed unanimously.
+
+The applicants were encouraged to work with the neighboring property owner with respect to
+parking.
+Draper City Planning Commission Meeting
+December 7, 2023
+Page 13
+
+       G.      Public Hearing: Town Center Station Area Plan (Legislative Action)
+               On the request of Draper City for a Station Area Plan for the Town Center TRAX
+               Station, located at approximately 1131 East Pioneer Rd. The area covered under
+               the Station Area Plan is approximately 1/2 mile radius around the Town Center
+               TRAX station. Staff contact is Bret                   Millburn, 801-576-6516,
+               bret.millburn@draperutah.gov.
+
+The above item was continued to a date uncertain.
+
+2.     Discussion Items.
+
+       A.      Discussion Item: 2024 Zoning and Subdivision Code Update Process.
+
+Ms. Jastremsky reported that the City has hired a consultant to help rewrite the Zoning Code. She
+pointed out that a holistic rewrite of the Zoning Code has not been done since 2001. Text
+Amendments come to the Commission as needed, however. Houseal Lavigne has been retained
+to perform the work. The process is expected to take 18 months to complete. Several meetings
+will be held throughout the process with the City Council, Staff, and the Planning Commission.
+The first joint meeting is scheduled for January 9, 2024. The Consultants will be in the City that
+week for a tour and to meet with stakeholders, the Planning Commission, City Council, and Staff.
+A website will be published for the zone update process that will include open houses, drafts, and
+a survey that will be distributed to residents. Members of the Planning Commission will be asked
+to participate in the joint meetings. The Code will be divided up by topic and sections throughout
+the process. A number of meetings will be held to get feedback from the Commission on what is
+and is not working, elicit feedback, and ultimately result in drafts that can be reviewed.
+
+Vice-Chair Fowler asked about compensation and if the Planning Commission Members’ stipend
+will apply to the special meetings. Ms. Jastremsky offered to look into that further. It was noted
+that most of the meetings will be held jointly with the City Council.
+
+Vice-Chair Fowler reported that this will be the last Planning Commission meeting for the year.
+The next meeting is scheduled for January 11, 2024.
+
+3.     Adjournment.
+
+Motion: Commissioner Ogden moved to ADJOURN.
+
+The meeting adjourned at 7:47 PM.
+

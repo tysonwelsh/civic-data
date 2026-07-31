@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "date": "2022-07-13",
+    "year": "2022",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2022/08.%20August/PC07.13.2022minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2022/2022-07-11/2022-07-13_planning-commission-meeting.md",
+    "present": [
+      "Amy Barry",
+      "Jon Lee",
+      "Levi Oliveira",
+      "Andra Ghent",
+      "Rich Tuttle",
+      "Andres Paredes",
+      "Mike Christensen"
+    ],
+    "absent": [
+      "Maurine Bachman",
+      "Adrienne Bell",
+      "Aimee Burrows",
+      "Brenda Scheer"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the June 8, 2022 meeting minutes",
+      "description": "approve the June 8, 2022 meeting minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "Jon Lee",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jon Lee",
+        "Levi Oliveira",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Andres Paredes",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Conditional Use for the ADU, petition PLNPCM2022-00134",
+      "description": "approve the Conditional Use for the ADU, petition PLNPCM2022-00134",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Andra Ghent",
+      "seconder": "Mike Christensen",
+      "result": "7:0 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Jon Lee",
+        "Levi Oliveira",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Andres Paredes",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation to the City Council to approve the request to amend the zoning ordinance for Electric Vehicle Readiness for petition PLNPCM2022-00374",
+      "description": "forward a recommendation to the City Council to approve the request to amend the zoning ordinance for Electric Vehicle Readiness for petition PLNPCM2022-00374",
+      "motion_type": "Appointment/Election",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Jon Lee",
+      "result": "Positive recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Jon Lee",
+        "Levi Oliveira",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Andres Paredes",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

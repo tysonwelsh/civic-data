@@ -1,0 +1,24 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus+pmn",
+    "index_max_date": "2026-05-26",
+    "index_rows": 173,
+    "status": "ok",
+    "new_count": 0,
+    "new_items": [],
+    "notes": "PMN body 5803 + CivicPlus catID 3; 0 newer portal date(s) (cross-check — open to confirm minutes vs agenda before ingesting) | CRA body 6925: no unhandled dates",
+    "fetch_cmd": "download new dates' minutes to raw/ then extract (see docstring)"
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "pmn",
+    "index_max_date": "2026-06-11",
+    "index_rows": 80,
+    "status": "ok",
+    "new_count": 0,
+    "new_items": [],
+    "notes": "PMN body 1559; 0 newer portal date(s) (cross-check — open to confirm minutes vs agenda before ingesting)",
+    "fetch_cmd": "download new dates' minutes to raw/ then extract (see docstring)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "contributions": [
+    {"date":"10/24","name":"Aaron Starks","city":"South Jordan","state":"UT","amount":"200.00","in_kind":false},
+    {"date":"11/2","name":"Kris Bevans","city":"South Jordan","state":"UT","amount":"2000.00","in_kind":false},
+    {"date":"11/3","name":"Shelley Day","city":"South Jordan","state":"UT","amount":"100.00","in_kind":false}
+  ],
+  "expenditures": [
+    {"date":"10/25","recipient":"Perch Media","purpose":"Print Ad_SJ Journal","amount":"360.00","in_kind":false},
+    {"date":"11/02","recipient":"Vista Print","purpose":"Mailer","amount":"1877.30","in_kind":false}
+  ],
+  "total_contributions": "2300.00",
+  "total_expenditures": "2237.30",
+  "total_contributions_ytd": "9345.72",
+  "total_expenditures_ytd": "7750.28"
+}

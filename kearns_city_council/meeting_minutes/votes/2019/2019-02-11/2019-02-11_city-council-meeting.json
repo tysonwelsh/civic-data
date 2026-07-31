@@ -1,0 +1,104 @@
+{
+ "date": "2019-02-11",
+ "year": 2019,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Ruby Brown"
+ ],
+ "source": "minutes/2019/2019-02-11/2019-02-11_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve this contribution. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to open the nominations for the 2019 Kearns Metro Township Council Chair. The",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "unanimous in favor Pass",
+   "mover": "Alan Peterson",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to nominate Mayor Bush as the 2019 Kearns Metro Township Council Chair. Mayor Bush accepted the nomination. The",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "unanimous in favor Pass",
+   "mover": "Ruby Brown",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to nominate Council Member Snow as the 2019 Kearns Metro Township Council Chair Pro Tempore. Council Member Snow accepted the nomination. The",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "unanimous in favor Pass",
+   "mover": "Patrick Schaeffer",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+269,1031,City Council,yes,meeting_minutes,,pm4,2020-01-01,13 docs / 8 council dates recovered into index.csv (Jan-Jul 2020 gap + 2023-01-24); Mar-Jun 2020 electronic meetings are agenda-only honest gaps (see pmn_exceptions.csv)
+269,1032,Planning Commission,yes,planning_commission;meeting_minutes,,pm4,2020-01-01,cross-filing — combined CC&PC minutes (2023-03-07 2024-09-17) are filed under the PC body but live in meeting_minutes; match against either dataset
+269,3901,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,combined CC&RDA — all 2020+ RDA minutes are the council doc (match council dates)
+269,5015,Municipal Building Authority,yes,meeting_minutes,,pm4,2020-01-01,combined CC&MBA — all MBA minutes are the council doc (match council dates)
+269,1033,Board Of Adjustments,no,,,,,quasi-judicial — out of repo scope
+269,3775,Architectural Review Committee,no,,,,,advisory — out of scope
+269,5875,Arts Council,no,,,,,advisory — out of scope
+269,6133,Board of Appeals,no,,,,,quasi-judicial — out of scope
+269,6183,City Staff,no,,,,,staff — not a deliberative meeting body
+269,1167,South Jordan City Staff,no,,,,,staff — not a deliberative meeting body
+269,4115,Governing Body of the King Benjamin and Holland Park Gate SSD,no,,,,,special service district — out of scope
+269,5669,Historical Committee,no,,,,,out of scope
+269,3759,South Jordan Historical Committee,no,,,,,out of scope
+269,6571,Parks & Recreation Services,no,,,,,ops — out of scope
+269,3761,Public Art and Cultural Development Board,no,,,,,advisory — out of scope
+269,3789,Seniors Committee,no,,,,,advisory — out of scope
+269,6561,South Jordan City Engineering Dept.,no,,,,,department — not a meeting body
+269,1034,Taxing Entity Committee,no,,,,,RDA taxing entity committee — out of scope
+269,6095,Variance and Appeal Hearings,no,,,,,quasi-judicial — out of scope

@@ -1,0 +1,27 @@
+date,body_id,kind,reason,verified_date
+2022-04-28,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md out-of-scope list).,2026-07-13
+2022-06-30,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md).,2026-07-13
+2023-12-13,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md).,2026-07-13
+2024-02-07,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md).,2026-07-13
+2024-03-06,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md).,2026-07-13
+2024-06-12,753,not_minutes,Harvest Days Committee (festival) minutes cross-filed under the City Council PMN body — NOT a City Council meeting (coverage.md).,2026-07-13
+2022-07-14,753,not_minutes,Harvest Days Festival Committee minutes cross-filed under City Council(753) - not a Council meeting (coverage.md out-of-scope),2026-07-17
+2023-04-27,753,not_minutes,Harvest Days Festival Committee minutes cross-filed under 753 - not a Council meeting,2026-07-17
+2023-05-11,753,not_minutes,Harvest Days Festival Committee minutes cross-filed under 753 - not a Council meeting,2026-07-17
+2023-05-25,753,not_minutes,Harvest Days Festival Committee minutes cross-filed under 753 - not a Council meeting,2026-07-17
+2024-04-10,753,not_minutes,Harvest Days Festival Committee minutes (file dated 4.17.2024) cross-filed under 753 - not a Council meeting,2026-07-17
+2022-06-02,753,other,Harvest Days Festival Committee agenda cross-filed under 753 - not a Council meeting,2026-07-17
+2022-07-07,753,other,Harvest Days Festival Committee agenda under 753 - not a Council meeting,2026-07-17
+2022-07-28,753,other,Harvest Days Festival Committee agenda under 753 - not a Council meeting,2026-07-17
+2024-01-10,753,other,Harvest Days Festival Committee agenda under 753 - not a Council meeting,2026-07-17
+2024-05-15,753,other,Harvest Days Festival Committee agenda under 753 - not a Council meeting,2026-07-17
+2024-09-10,753,other,Harvest Days Festival Committee agenda under 753 - not a Council meeting,2026-07-17
+2021-01-13,753,other,'Midvale City Legislative Breakfast' - adjacent-series event cross-filed under Council(753); not a Council meeting (murray-pattern review-gate item),2026-07-17
+2023-05-07,753,wrong_date,PMN event date wrong - agenda/packet filenames read 'CC Agenda/Packet 5-7-2024'; true meeting 2024-05-07 already in repo (pmn_backfill/index.csv),2026-07-17
+2024-09-30,754,wrong_date,PMN event date wrong - attachment 'PC Agenda & Notice - 10-9-2024.pdf'; true meeting 2024-10-09 already in repo (planning_commission),2026-07-17
+2025-09-08,753,other,'Notice of Public Hearing and Bonds to be Issued' (UIA Telecom Rev 2025) - statutory bond notice on a non-meeting Monday; no council meeting agenda,2026-07-17
+2020-03-17,753,other,"PMN notice 595265: Business Meeting POSTPONED to 2020-03-24 ('THIS MEETING HAS BEEN POSTPONED UNTIL MARCH 24, 2020'); the 2020-03-24 session IS in the repo (meeting_minutes) - no distinct 03-17 meeting occurred",2026-07-17
+2021-03-23,753,other,"PMN notice 666037 filed under 2021-03-23 titled 'City Council Meeting' is an advance public-hearing notice for the Council meeting held Tue 2021-04-06 (body: 'public hearing before the Midvale City Council on Tuesday, April 6, 2021'); 04-06 IS in the repo. Council meets 1st/3rd Tue only; no distinct 03-23 meeting/minutes exist",2026-07-17
+2020-05-27,754,other,"PMN notice 606579: Planning Commission meeting CANCELLED ('MEETING CANCELLED') - no meeting held, no minutes",2026-07-17
+2021-05-12,754,other,PMN notice 674265: Planning Commission meeting CANCELLED ('MEETING CANCELLED') - no meeting held,2026-07-17
+2021-07-28,754,other,PMN notice 691873: Planning Commission WORKSHOP meeting CANCELLED ('Meeting Canceled') - no meeting held,2026-07-17

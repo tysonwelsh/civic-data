@@ -1,0 +1,15 @@
+# roster_overrides.csv — hand-editable correction layer for the White City council roster.
+#
+# This is the repo's documented override convention (see civic-data/CLAUDE.md cardinal
+# rule 2: city-faithful automated output is never overwritten in place — corrections
+# live here, alongside). build_roster.py applies this file LAST and it WINS TIES.
+#
+# Match key: (seat_id, person_key, start_date) must equal an existing tenure to patch it;
+# supplying a NEW (seat_id, person_key, start_date) triple inserts a tenure the
+# reconciliation missed. Any non-empty column overrides the derived value; blanks are
+# ignored. Always fill `reason` with the human justification + source.
+#
+# May legitimately contain zero data rows (as it does now — every tenure is derived from a
+# cited election / minutes source with no adjudicated conflict).
+#
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note,reason

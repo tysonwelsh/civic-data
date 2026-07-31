@@ -1,0 +1,38 @@
+{
+ "date": "2023-04-18",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2023/2023-04-17/2023-04-18_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Ordinance 2023-04-01, amending Titles 19 & 19 of the municipal code, provisions on zoning and subdivisions. The",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Patrick Schaeffer",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

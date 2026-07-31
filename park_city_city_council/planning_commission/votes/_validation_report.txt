@@ -1,0 +1,110 @@
+Park City PLANNING COMMISSION — vote extraction validation report
+======================================================================
+meetings (JSON files) : 162
+motions extracted     : 873
+all_votes.csv rows    : 1086
+tally-only (no names) : 801
+names recorded        : 72
+  of which partial     : 20  (folded / name-only-dissenters grammar: dissenters/abstainers named beside a printed tally)
+contested (Nay/Abst.) : 52
+
+action_type breakdown (recommendation-to-Council vs PC-final action):
+  Recommendation : 198
+  Final Action   : 208
+  Procedural     : 467
+
+motion_type taxonomy:
+  Land-Use/Zoning              606
+  Procedural/Administrative    221
+  Other                        28
+  Appointment                  8
+  Ordinance                    4
+  Public Hearing Action        4
+  Resolution                   2
+
+Per-year observed-commissioner roster (voting appearances):
+  2020: Laura Suesser
+  2021: Bill Johnson, Christin Van Dine, Doug Thimm, John Kenworthy, John Phillips, Laura Suesser, Sarah Hall
+  2022: Bill Johnson, Christin Van Dine, Doug Thimm, Henry Sigg, John Frontero, John Kenworthy, John Phillips, Laura Suesser, Sarah Hall
+  2023: Bill Johnson, Christin Van Dine, Henry Sigg, John Frontero, John Kenworthy, Laura Suesser, Rick Shand, Sarah Hall
+  2024: Bill Johnson, Christin Van Dine, Henry Sigg, John Frontero, Laura Suesser, Rick Shand
+  2025: Bill Johnson, Christin Van Dine, Henry Sigg, John Frontero, Laura Suesser, Rick Shand, Seth Beal
+  2026: Adam Strachan, Grant Tilson, Rick Shand
+
+Commissioner total voting appearances (vs roster of 14):
+  Bill Johnson           53  [2021-05..2025-11]
+  Laura Suesser          50  [2020-01..2025-06]
+  Sarah Hall             36  [2020-01..2025-04]
+  Christin Van Dine      35  [2020-01..2026-01]
+  John Frontero          26  [2022-08..2026-05]
+  John Kenworthy         25  [2020-01..2023-06]
+  Henry Sigg             20  [2022-10..2026-05]
+  Doug Thimm             16  [2020-01..2022-05]
+  Rick Shand             12  [2023-07..2026-05]
+  Adam Strachan           6  [2026-04..2026-05]
+  John Phillips           4  [2020-01..2022-07]
+  Seth Beal               1  [2025-07..2026-05]
+  Grant Tilson            1  [2025-05..2026-05]
+
+Roster members with NO recorded per-name vote (tally-only era / short tenure): Mark Sletten
+
+Names in data NOT on roster (should be 0): 0
+
+Out-of-range commissioner appearances (should be 0): 0
+
+Roll-call tally integrity issues (should be 0): 0
+
+Contested motions (52):
+  2022-10-12  #3  Negative recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a negative recommendation for the City Council’s consideration
+  2022-06-08  #3  Denied 3-1                   aye=3 nay=1 abstain=0 recuse=0  DENY the Conditional Use Permit Application for the Washington School 
+  2022-02-09  #4  Negative recommendation 3-2  aye=3 nay=2 abstain=0 recuse=0  forward a NEGATIVE recommendation to the City Council for consideratio
+  2022-09-14  #4  Positive recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a positive recommendation for City Council consideration on Oc
+  2022-06-15  #1  Approved 4-1                 aye=4 nay=1 abstain=0 recuse=0  APPROVE the Conditional Use Permit for 2346 Park Avenue the Peaks Hote
+  2022-06-15  #6  Passed 3-1                   aye=3 nay=1 abstain=0 recuse=0  GRANT the Appeal of an Administrative Conditional Use Permit – PL-22-0
+  2022-12-14  #6  Positive recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a POSITIVE RECOMMENDATION for City Council consideration, base
+  2022-07-27  #1  Positive recommendation 5-1  aye=5 nay=1 abstain=0 recuse=0  forward a positive recommendation for the Bardsley Plat Amendment to t
+  2022-01-26  #1  Positive recommendation 5-1  aye=5 nay=1 abstain=0 recuse=0  forward a positive recommendation for the City Council’s consideration
+  2022-05-25  #1  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from April 27, 2022
+  2022-06-22  #6  Positive recommendation 4-1  aye=4 nay=1 abstain=0 recuse=0  forward a positive recommendation for City Council’s consideration on 
+  2022-03-23  #6  Positive recommendation 3-1  aye=3 nay=1 abstain=0 recuse=0  that the Planning04.27.2022 Commission forward a positive recommendati
+  2022-07-13  #3  Approved 4-0                 aye=4 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from June 22, 2022, as
+  2025-03-26  #5  Approved 4-2                 aye=4 nay=2 abstain=0 recuse=0  APPROVE the modification to a Master Planned Development and Condition
+  2025-03-26  #6  Denied 5-1                   aye=5 nay=1 abstain=0 recuse=0  DENY the Park and Kearns Master Planned Development (PL-22-05476), Con
+  2025-03-26  #8  Positive recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a POSITIVE RECOMMENDATION to the City Council for consideratio
+  2025-03-26  #9  Passed 5-0                   aye=5 nay=0 abstain=1 recuse=0  RECOMMEND that the City Council consider including Twisted Branch Road
+  2025-11-12  #6  Approved                     aye=0 nay=2 abstain=0 recuse=0  APPROVE the Steep Slope Conditional Use Permit for 384 Woodside Avenue
+  2025-05-28  #7  Approved 3-1                 aye=0 nay=1 abstain=0 recuse=0  APPROVE the Conditional Use Permit for an exception to the front and s
+  2025-05-28  #8  Approved 3-1                 aye=0 nay=1 abstain=0 recuse=0  APPROVE the Steep Slope Conditional Use Permit for a Detached Accessor
+  2025-08-27  #1  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Meeting Minutes from August 13, 2025. The motion was
+  2025-04-23  #2  Continued 5-1                aye=0 nay=1 abstain=0 recuse=0  CONTINUE the Plat Amendment for 7 and 11 Red Cloud Trail and the publi
+  2025-04-23  #4  Continued 5-1                aye=0 nay=1 abstain=0 recuse=0  CONTINUE the Plat Amendment for 1127 Woodside Avenue and the public he
+  2025-07-23  #1  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Meeting Minutes from June 25, 2025, as amended. The motion
+  2025-04-09  #4  Approved 3-1                 aye=3 nay=1 abstain=0 recuse=0  APPROVE the Conditional Use Permit at 1750 Kearns Boulevard for the Pa
+  2025-01-08  #1  Approved 4-0                 aye=0 nay=0 abstain=1 recuse=0  APPROVE the Meeting Minutes of December 11, 2024
+  2025-01-08  #2  Approved 4-0                 aye=0 nay=0 abstain=1 recuse=0  APPROVE the Meeting Minutes of December 12, 2024
+  2024-08-14  #7  Approved 4-1                 aye=4 nay=1 abstain=0 recuse=0  APPROVE the Steep Slope Conditional Use Permit for 218 Sandridge Road 
+  2024-07-10  #5  Approved 3-2                 aye=3 nay=2 abstain=0 recuse=0  APPROVE 1529 Lakeside Circle – Condominium Plat Amendment, pursuant to
+  2024-07-10  #8  Continued 5-1                aye=5 nay=1 abstain=0 recuse=0  CONTINUE 49 Silver Stake Trail – Condominium Plat Amendment to August 
+  2024-06-26  #6  Passed 3-1                   aye=3 nay=1 abstain=0 recuse=0  RECOMMEND that Staff make findings to present to the Appeal Panel, as 
+  2024-03-13  #6  Denied 4-2                   aye=4 nay=2 abstain=0 recuse=0  DENY 844 Empire – Plat Amendment to remove Plat Note 3 and direct Staf
+  2023-08-09  #1  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from June 28, 2023
+  2023-08-09  #2  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from July 12, 2023
+  2023-03-08  #2  Positive recommendation 3-2  aye=3 nay=2 abstain=0 recuse=0  forward a POSITIVE recommendation for City Council’s consideration on 
+  2023-02-08  #2  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from January 18, 2023
+  2023-09-27  #4  Positive recommendation 4-1  aye=4 nay=1 abstain=0 recuse=0  forward a positive recommendation for 1325 Empire Avenue and Parcel SA
+  2023-12-13  #5  Positive recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a POSITIVE recommendation on Land Management Code Amendments r
+  2023-02-22  #4  Positive recommendation 4-1  aye=4 nay=1 abstain=0 recuse=0  forward a POSITIVE recommendation for 1313 Park Avenue – Subdivision, 
+  2023-01-11  #3  Positive recommendation 4-2  aye=4 nay=2 abstain=0 recuse=0  forward a POSITIVE recommendation for 1301 Park Avenue – Subdivision f
+  2023-08-23  #7  Approved 5-1                 aye=5 nay=1 abstain=0 recuse=0  APPROVE Parcel SSC-A-X – McLeod Creek Trailhead & Parking Area Conditi
+  2026-05-13  #3  Continued                    aye=0 nay=0 abstain=1 recuse=0  CONTINUE the Park City Mountain Resort CUP application for the Eagle a
+  2026-05-13  #4  Continued                    aye=0 nay=0 abstain=1 recuse=0  CONTINUE the Park City Mountain Resort CUP application for the Silverl
+  2026-04-22  #2  Denied 3-2                   aye=0 nay=2 abstain=0 recuse=0  DENY the Plat Amendment for 3181 .1 American Saddler Drive, based on t
+  2026-05-27  #3  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Park City Mountain Resort CUP for the Eagle and Eaglet Lif
+  2026-05-27  #4  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Park City Mountain Resort CUP for the Silverlode Lift, bas
+  2026-04-08  #1  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from March 11, 2026. T
+  2026-04-08  #2  Approved unanimous           aye=0 nay=0 abstain=1 recuse=0  APPROVE the Planning Commission Meeting Minutes from March 25, 2026. T
+  2021-10-13  #6  Positive recommendation 4-1  aye=4 nay=1 abstain=0 recuse=0  forward a positive recommendation for City Council’s consideration on 
+  2021-11-10  #5  Positive recommendation 4-3  aye=4 nay=3 abstain=0 recuse=0  forward a positive recommendation to the City Council for consideratio
+  2021-07-28  #3  Positive recommendation 3-1  aye=3 nay=1 abstain=0 recuse=0  forward a positive recommendation to the City Council for consideratio
+  2020-03-11  #3  Positive recommendation 4-1  aye=0 nay=1 abstain=0 recuse=0  forward a POSITIVE recommendation to the City Council for the plat ame
+

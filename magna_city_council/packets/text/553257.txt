@@ -1,0 +1,690 @@
+1        B           C          D           E      F        G             H             I           J            K             L                M             N             O             P          Q            R                       S                                T
+2    Table S2503: Financial Characteristics, 2017 ACS 5-year data, Magna          Table DP04, ACS 2017 5-year Data, Magna                                                                            This is for Renters only. Owner Occupied is different.
+                                         State of                                                                         Magna
+3                                        Utah
+                                                           Update data for your
+                                                         geography and time period.
+ 4                                     Estimate                                                                           Estimate
+ 5   Total:                            8,105                                      Median household income in the past
+ 6    Owner occupied:                  6,113                                       Total:                                                    58,137
+ 7     Less than $5,000                55                                          Owner occupied (dollars)                                  65,091
+ 8     $5,000 to $9,999                102                                         Renter occupied (dollars)                                 42,816
+ 9     $10,000 to $14,999              196                                                                                                          Annual
+10     $15,000 to $19,999              175                                                                                                          Top Income Max Rent (30% of Income Level per month)                 Income Bracket                         # of Renter Households
+11     $20,000 to $24,999              170                                                                                                 30% AMHI      $12,845     $321                                               Less than 30% AMHI ($12845)                       237
+12     $25,000 to $34,999              345                                                                                                 50% AMHI      $21,408     $535                                               30%-50% AMHI ($12845-$21408)                      224
+13     $35,000 to $49,999              971                                                                                                 80% AMHI      $34,253     $856                                               50%-80% AMHI ($21408-$34253)                      357
+14     $50,000 to $74,999              1,713                                                                                              100% AMHI      $42,816   $1,070                                               80%-100% AMHI ($34253-$42816)                     215
+15     $75,000 to $99,999              1,144                                                                                              125% AMHI      $53,520   $1,338                                               100%-125% AMHI ($42816-$53520)                    237
+16     $100,000 to $149,999            890                                                                                               >125% AMHI   > $ 53520  > $ 1338                                               > 125% AMHI (> $53520)                            721
+17     $150,000 or more                352                                                                                                                                                                              Total Renter Households                          1,992
+18    Renter occupied:                 1,992              <30%         30-50%       50-80%      80-100%      100-125%       >125%
+19     Less than $5,000                67                  67                                                                                 Calculate the income              Calculate the maximum
+20     $5,000 to $9,999                99                  99                                                                                 brackets for a rental gap         affordable rent for each
+21     $10,000 to $14,999              125                 71             54                                                                  analysis by multiplying the       given income bracket.
+22     $15,000 to $19,999              143                               143                                                                  median renter household           Remember that cheaper
+23     $20,000 to $24,999              97                                 27           70                                                     income by the percentage          rents are always affordable
+24     $25,000 to $34,999              311                                            288           23                                        thresholds used to define         to higher earning
+25     $35,000 to $49,999              368                                                         192         176                            the brackets (30%, 50%,           households--these figures
+26     $50,000 to $74,999              435                                                                      61            374
+27     $75,000 to $99,999              169                                                                                    169
+                                                                                                                                                                  Use the table on the far left to estimate the number of renter households in each income bracket of the renter gap
+28     $100,000 to $149,999            147                                                                                    147
+                                                                                                                                                                  analysis, as
+29     $150,000 or more                31                                                                                      31                                 I've typed in a more formatted way above. This is done by linear interpolation.
+30
+31                             Sum of Columns:             237           224          357          215         237            721                1,992            Example:
+32                                                                                                                                      Check Number              Less than 30% = all households earning $12,845 or less per year. Referencing the table on the far left, this would
+                                                                                                                                        Must be equal             include households in cells E19, E20, and a portion of those in E21. How many of those in E21 count here? Interpolate!
+         Median Estimation (Linear Interpolation) = ((N12-20000) / (24999-20000))*E23                                                  to Total Renter            The equation is:
+                                                          ((Top Income - Lower end of Bracket))             * # Renters                    Occupied #.
+                                                       (Top end of Bracket - Lower end of Bracket))          in Bracket                  If all 3 yellow          ((12,845-10,000)/(14,999-10,000))*E21 = 71. So our # households in the < 30% bracket is 67 + 99 + 71.
+                                                                                                                                            cells do not
+                                                                                                                                                                  YOUR CHECK here is the sum, shown in cell T17. If this doesn't match the total shown in cell E18 and M31 (or is within
+                                                                                                                                           match then
+                                                                                                                                                                  about 1 due to rounding error), something has gone wrong.
+                                                                                                                                   something is wrong.
+1                       B                     C               D          E         F           G          H             I              J              K                   L                  M                     N               O           P          Q          R           S
+2    2017 American Community Survey 5-Year Estimates, Magna
+                                                                         Update data for your geography and time period.
+3                                     State of Utah
+4                                     Estimate
+5    Total:                           1,992                                                                    Max Rent                                                                 Maximum Rent           # Rental Units
+6     With cash rent:                 1,836                                            $321    $535         $856     $1,070            $1,338        > $ 1338          30% AMHI                    $321                   272
+7     Less than $300                  113                                              269                                                                             50% AMHI                    $535                    78
+8     $300 to $499                    30                                                 3         27                                                                  80% AMHI                    $856                   453
+9     $500 to $799                    436                                                          51         385                                                     100% AMHI                  $1,070                   288
+10    $800 to $999                    241                                                                      68           173                                       125% AMHI                  $1,338                   441
+11    $1,000 to $1,499                821                                                                                   115            441            265        >125% AMHI                > $ 1338                   460
+12    $1,500 to $1,999                163                                                                                                                 163                         Total Rental Units                1,992
+13    $2,000 to $2,499                32                                                                                                                   32
+14    $2,500 to $2,999                0                                                                                                                                                          Calculate the number of rental housing units available in each range.
+15    $3,000 or more                  0                                                                                                                                                          Notes:
+16    No cash rent                    156
+17                                                                                     272         78         453           288            441            460
+                                                                                                                                                                                                 1. The "No cash rent" row (row 16) is included in the lowest maximum rent group.
+18
+19                                                                                                                                                                                               2. Check the sum presented in cell N12. This must match (or be within 1 due to rounding
+20                                    Sometimes, this process is more complicated: the income spread has a top end and a bottom end embedded in the Income Bracket.                              error) the total provided in cell C5 and L30.
+21                                    When this is the case, simply do the usual formula but then subtract the previous calculation.
+22                                                                                                                                                                                               3. The number of units in each income/rent bracket is interpolated in exactly the same
+23                                                          ((Top Income - Lower end of Bracket))     * # Renters   minus (-)     J11 [which was previously calculated]                          manner as we interpolated number of households in each income bracket. Maximum rent
+24                                                       (Top end of Bracket - Lower end of Bracket)) in Bracket                                                                                 of $275 is the sum of all lower rents (cells D7:D10) plus the portion of cell D11 that would
+25                                                                                                                                                 Don't forget to check this.                   go up to $275, which is (($275-$250)/($299-$250))*4420=2255. So the number of units
+26                                                                                                                                                                                               available at $275 or less is =sum(D7:D10,F11,D28).
+27
+28
+29
+30                                                                                                                                                                            1,992
+Magna Metro Township: Rental Affordability Gap Analysis, 2017
+                                                                                                                     Interpret the data and the GAP.
+                                      Maximum                            # Rental Units    Surplus/Deficit
+Income Range                          Affordable       # Households        Available          of Units
+                                     Monthly Rent                         at that Price      Available
+Less than 30% AMHI ($12845)              $321            237              272                     35                 Reading Order: start from the bottom and go up
+30%-50% AMHI ($12845-$21408)             $535            224               78                    -146
+50%-80% AMHI ($21408-$34253)             $856            357              453                     95
+80%-100% AMHI ($34253-$42816)           $1,070           215              288                     73
+100%-125% AMHI ($42816-$53520)          $1,338           237              441                     203
+> 125% AMHI (> $53520)                 > $ 1338          721              460                    -261
+Data source: US Census Bureau (Tables: DP04 and S2503) ACS 2017 5-year data
+                                                                                                                     Fiercest Market (the GAP)
+           NOTE: You always read the last column of this table from bottom to top. Wealthier households tend
+           to rent below their maximum affordable rent, increasing market pressure in lower rent brackets. In
+           this example, for instance, we would assume that the 261 households not accommodated by the
+           highest rent units would rent in the next highest rent bracket, forcing those households to rent in the
+           80%-100% rent bracket, and so forth. In other words, wealthier households get "first dibs" on the
+           rental market, and tend to rent at lower costs than their maximum affordable costs, so we assume
+           that demand pushes pressure down market. In this particular example, we can see that the steepest
+           competition for units is likely to occur in the 30%-50% rent bracket, because lower income
+           households will seek the lowest rents possible and the deficit of units for the wealthiest households
+           cause a downward cascade.
+Section 1: Population by tenure in Magna CDP
+                                      2009       2017
+                                                            Annual                                                               Difference
+         Table B01003               American   American                                                         2024
+                                                          Growth Rate                                                          between 2017
+         Table B25008              Community Community                                                        Projection
+                                                            (Slope)                                                              and 2024
+                                     Survey     Survey
+Total Population:
+(ACS Table B01003)                      26,243     28,257          187                                                29,508          1,251
+Total Population in occupied
+housing units
+(ACS Table B25008)                      26,243     28,189          178                                                29,368          1,179
+Total Population in owner-
+occupied housing
+(ACS Table B25008)                      21,893     20,773         -236                                                18,926         -1,847
+Total Population in renter-
+occupied housing
+(ACS Table B25008)                       4,350      7,416          414                                                10,441          3,025
+Source 1: U.S. Census Bureau. Table B01003: Total population. American Community Survey.
+Source 2: U.S. Census Bureau. Table B25008: Total population in occupied housing units by tenure. American Community Survey.
+
+
+Section 2: Supply of housing units by structure type in Magna CDP
+                                      2009           2017
+                                                                 Annual                                                          Difference
+         Table B25001               American       American                                                     2024
+                                                               Growth Rate                                                     between 2017
+         Table B25032              Community Community                                                        Projection
+                                                                 (Slope)                                                         and 2024
+                                     Survey         Survey
+TOTAL HOUSING UNITS
+(ACS Table B25001)                        7,659          8,430           79                                            9,028            598
+Total occupied units
+(ACS Table B25032)                        7,265          8,105           86                                            8,722            617
+Owner-occupied structures
+(ACS Table B25032)                        6,074          6,113           -9                                            6,044            -69
+   1 unit, detached                       5,497          5,584            9                                            5,697            113
+   1 unit, attached                         268            254           -6                                              167            -87
+   2 units                                   18             44            3                                               73             29
+   3 or 4 units                              24             15           -1                                               -4            -19
+   5 to 9 units                              36             33            0                                               20            -13
+   10 to 19 units                            20             10           -1                                               -2            -12
+   20 to 49 units                            69             28           -6                                              -20            -48
+   50 or more units                          12              0           -2                                              -11            -11
+   Mobile homes                             130            145           -4                                              124            -21
+   Boat, RV, van, etc.                        0              0            0                                                0              0
+Renter-occupied structures
+(ACS Table B25032)                        1,191          1,992           95                                            2,678            686
+   1 unit, detached                         440          1,080           88                                            1,790            710
+   1 unit, attached                          31            278           31                                              474            196
+   2 units                                   97            104            0                                               68            -36
+   3 or 4 units                              35            107            1                                              109              2
+   5 to 9 units                             152            182           -1                                              152            -30
+   10 to 19 units                            58             13          -11                                              -39            -52
+   20 to 49 units                           344            144          -21                                              -18           -162
+   50 or more units                           0             34            5                                               76             42
+   Mobile homes                              34             50            3                                               66             16
+    Boat, RV, van, etc.                                         0                  0                   0                0              0
+Source 1: U.S. Census Bureau. Table B25001: Total housing units. American Community Survey.
+Source 2: U.S. Census Bureau. Table B25032: Tenure by units in structure. American Community Survey.
+
+
+Section 3: Housing occupancy in Magna CDP
+                                    2009       2017
+                                                          Annual                                                              Difference
+         Table B25003             American   American                                                        2024
+                                                        Growth Rate                                                         between 2017
+         Table B25081            Community Community                                                       Projection
+                                                          (Slope)                                                             and 2024
+                                   Survey     Survey
+Total households in occupied
+housing units
+(ACS Table B25003)                     7,265      8,105           86                                             8,722               617
+Total households in owner-
+occupied housing
+(ACS Table B25003)                     6,074      6,113           -9                                             6,044               -69
+   With a Mortgage
+   (ACS Table B25081)                  5,274      4,985          -59                                             4,501              -484
+   Without a Mortgage
+   (ACS Table B25081)                    800      1,128           50                                             1,543               415
+Total households in renter-
+occupied housing
+(ACS Table B25003)                     1,191      1,992           95                                             2,678               686
+Source 1: U.S. Census Bureau. Table B25003: Tenure. American Community Survey.
+Source 2: U.S. Census Bureau. Table B25081: Mortgage status. American Community Survey.
+
+
+Section 4: Housing vacancy in Magna CDP
+                                     2009       2017
+                                                           Annual                                                             Difference
+                                   American   American                                                       2024
+         Table B25004                                    Growth Rate                                                        between 2017
+                                  Community Community                                                      Projection
+                                                           (Slope)                                                            and 2024
+                                    Survey     Survey
+Total vacant units
+(ACS Table B25004)                        394        325           -7                                              306               -19
+   For rent
+   (ACS Table B25004)                       0         34            6                                               76                42
+   Rented, not occupied
+   (ACS Table B25004)                      35          0           -2                                               -22              -22
+   For sale only
+   (ACS Table B25004)                     106         20          -17                                               -48              -68
+   Sold, not occupied
+   (ACS Table B25004)                       0          0            0                                                   0              0
+   For seasonal, recreational, or
+   occasional use
+   (ACS Table B25004)                      50         32           -4                                               -15              -47
+   For migrant workers
+   (ACS Table B25004)                       0          0            0                                                   0              0
+   Other vacant
+   (ACS Table B25004)                     203        239           11                                              314                75
+Source 1: U.S. Census Bureau. Table B25003: Tenure. American Community Survey.
+
+
+Section 5: Average household size in Magna
+                                                   2009               2017
+                                                 American           American                                 2024
+            Table B25010
+                                                Community          Community                               Projection
+                                                  Survey             Survey
+Average Household Size
+(ACS Table B25010)                                         3.61               3.48                                      3.37
+Average Owner
+Household Size
+(ACS Table B25010)                                           3.6                3.4                                     3.13
+Average Renter
+Household Size
+(ACS Table B25010)                                         3.65               3.72                                      3.90
+Source 1: U.S. Census Bureau. Table B25010: Average household
+size of occupied housing units by tenure. American Community
+Survey.
+
+
+Section 6: Monthly housing costs in Magna CDP
+                                                    2009               2017
+                                                                                            Annual                             Difference
+            Table B25088                         American            American                                    2024
+                                                                                        Growth Rate                          between 2017
+            Table B25064                       Community Community                                             Projection
+                                                                                            (Slope)                            and 2024
+                                                  Survey              Survey
+Total owner-occupied
+housing unit costs
+(ACS Table B25088)                                     $1,141              $1,096                   -$12              $1,014 $         (82)
+    Units with a mortgage
+    (ACS Table B25088)                                 $1,225              $1,178                   -$12              $1,113 $         (65)
+    Units without a mortgage
+    (ACS Table B25088)                                    $299                $343                     $5               $384 $          41
+Median gross rent
+(ACS Table B25064)                                        $956             $1,047                    $15
+Source 1: U.S. Census Bureau. Table B25088: Median selected monthly owner costs (Dollars) by mortgage status. American
+                                                                                                                      $1,138 $          91
+Community Survey.
+Source 2: U.S. Census Bureau. Table B25064: Median gross rent (Dollars). American Community Survey.
+
+
+Section 7: Median household income in Magna CDP
+                                    2009        2017
+                                                           Annual                                                                Difference
+                                 American     American                                                       2024
+         Table B25119                                    Growth Rate                                                           between 2017
+                                Community Community                                                        Projection
+                                                           (Slope)                                                               and 2024
+                                  Survey       Survey
+Median household income
+(ACS Table B25119)                   $54,581     $58,137         $420                                           $59,995 $            1,858
+Owner-occupied income
+(ACS Table B25119)                   $58,854     $65,091         $612                                           $67,384 $            2,293
+Renter-occupied income
+(ACS Table B25119)                   $34,453     $42,816       $1,209                                           $48,155 $            5,339
+Source 1: U.S. Census Bureau. Table B25119: Median household income that past 12 months by tenure. American Community
+Survey
+
+Section 8: Salt Lake County Area Median Income (AMI)*
+                                      2009         2017
+                                                                                        Annual                                   Difference
+         Table B19019               American     American                                                    2024
+                                                                                      Growth Rate                              between 2017
+         Table B19119              Community Community                                                     Projection
+                                                                                        (Slope)                                  and 2024
+                                     Survey       Survey
+Median HOUSEHOLD income
+(ACS Table B19019)                                         $0             $67,922              $4,987            $109,679    $   41,757
+   1-person household                                 $29,347             $35,234                $680             $39,400    $    4,166
+   2-person household                                 $60,515             $70,072              $1,063             $76,112    $    6,040
+   3-person household                                 $66,549             $79,895              $1,452             $87,757    $    7,862
+   4-person household                                 $72,043             $88,785              $1,883             $99,734    $   10,949
+   5-person household                                 $72,151             $87,250              $1,461             $92,922    $    5,672
+   6-person household                                 $79,716             $92,268              $1,019             $93,541    $    1,273
+   ≥ 7-person household                               $81,746             $96,814              $1,165             $97,309    $      495
+Median FAMILY income
+(ACS Table B19119)                                    $66,413             $78,828              $1,342              $85,868   $    7,040
+   2-person family                                    $59,252             $68,991                $973              $74,200   $    5,209
+   3-person family                                    $63,983             $78,081              $1,557              $87,394   $    9,313
+   4-person family                                    $72,222             $88,255              $1,877              $99,082   $   10,827
+   5-person family                                    $73,345             $87,065              $1,310              $91,148   $    4,083
+   6-person family                                    $80,836             $92,594              $1,006              $93,644   $    1,050
+   ≥ 7-person family                                  $85,906             $95,705                $749              $91,785   $   (3,920)
+Source 1: U.S. Census Bureau. Table B19019: Median household income that past 12 months by household size. American
+Community Survey
+Source 2: U.S. Census Bureau. Table B19119: Median family income in the past 12 months by family size. American Community
+Survey
+*NOTE: AMI is calculated at the COUNTY level.
+UCA 10-9a-408(2)(c)(i)
+Calculate the municipality's housing gap for the current biennium by entering the number of
+moderate-income renter households, affordable and available rental units from TABLE 1 below:
+     2018          Renter       Affordable Available        Affordable Units      Available Units
+  Shortage      Households Rental Units Rental Units - Renter Households - Renter Households
+≤ 80% HAMFI         1,295         1,765         1,255                       470                    -40
+≤ 50% HAMFI          870           720           475                       -150                   -395
+≤ 30% HAMFI          385           185            95                       -200                   -290
+
+Calculate the municipality's housing gap for the previous biennium by entering the number of
+moderate-income renter households, affordable and available rental units from TABLE 2 below:
+     2016          Renter       Affordable Available        Affordable Units     Available Units
+  Shortage      Households Rental Units Rental Units - Renter Households - Renter Households
+≤ 80% HAMFI         1,210         1,645         1,170                       435                   -40
+≤ 50% HAMFI          880           610           415                       -270                  -465
+≤ 30% HAMFI          420           175            95                       -245                  -325
+
+Subtract Table 2 from Table 1 to estimate progress in providing moderate-income housing
+                    Renter      Affordable Available        Affordable Units    Available Units
+ PROGRESS
+                  Households Rental Units Rental Units - Renter Households - Renter Households
+≤ 80% HAMFI                85          120             85                    35                  0
+≤ 50% HAMFI              -10           110             60                   120                 70
+≤ 30% HAMFI              -35             10             0                    45                 35
+
+
+UCA 10-9a-408(2)(c)(ii)
+Report the number of all housing units in the municipality that are currently subsidized by each
+level of government below:
+
+    Municipal Government:           0          Subsidized by municipal housing programs
+       State Government:           40          Subsidized by Utah's OWHLF multi-family program
+     Federal Government:          164          Subsidized by the federal Low-Income Housing Tax
+                                               Credit (LIHTC) program
+
+UCA 10-9a-408(2)(c)(iii)
+Report the number of all housing units in the municipality that are currently deed-restricted for
+moderate-income households in the box below:
+
+                                  164
+City        Project Name            OWHLF Units
+Magna CDP   Jerald Merrill Senior             30
+Magna CDP   Pleasant Green Villas             10
+County             City        Project Name                  LIHTC Units
+Salt Lake County   Magna CDP   Heritage Apartments - Magna             76
+Salt Lake County   Magna CDP   Coppertree Apartments                   88
+      ANNUAL MODERATE-INCOME HOUSING REPORTING
+                       FORM
+     Under the Utah Code, Municipal legislative bodies must annually:
+        • Update 5-year estimates of moderate-income housing needs UCA 10-9a-408 and 17-27a-408
+        • Conduct a review of the moderate-income housing element and its implementation; and
+        • Report the findings of the review to the Housing and Community Development Division (HCDD) of
+            the Utah Department of Workforce Services and their Association of Government or Metropolitan
+            Planning Organization no later than December 1st, 2019; and
+        • Post the report on their municipality’s website.
+
+     In accordance with UCA 10-9a-401 and 17-27a-401 municipalities that must report regularly are:
+         • Cities of the first, second, third, and fourth class (or have 10,000 or more residents).
+         • Cities of the fifth class:
+                o Having an estimated population greater than or equal to 5,000 residents; AND
+                o That are located in a county with a population greater than or equal to 31,000 residents.
+         • Metro Townships:
+                o Having an estimated population greater than or equal to 5,000 residents;
+                o Having an estimated population less than 5,000 BUT is located in a county with a population
+                    greater than or equal to 31,000 residents.
+         • Not a town with fewer than 1,000 residents.
+
+                        To find out if your municipality must report annually, please visit:
+                             https://jobs.utah.gov/housing/affordable/moderate/reporting/
+
+                          For additional moderate-income housing planning resources:
+                           https://jobs.utah.gov/housing/affordable/moderate/index.html
+
+
+MUNICIPAL GOVERNMENT INFORMATION:
+    Municipal Government:    Magna Metro Township
+    Reporting Date:    1 December 2019
+
+MUNICIPAL GOVERNMENT CONTACT INFORMATION:
+
+
+    Mayor's First and Last Name:      Dan Peay
+    Mayor's Email Address:       Dan.peay@magnacity.org
+
+PREPARER CONTACT INFORMATION:
+    Preparer's First and Last Name:         Mikala Jordan
+    Preparer's Title:       Long Range Planner
+    Preparer’s Email Address:        mjordan@msd.utah.gov
+    Preparer's Telephone:          385.468.6714                                Extension:
+
+
+
+
+Page | 0
+    When did the municipality last adopt moderate-income                           This is the first
+    housing element of their general plan?                                         adoption.
+
+
+    Link to moderate-income housing                https://www.magnametrotownship.org/documents
+    element on municipality website:
+ UCA 10-9a-403 (2)(b)(iii) and 17-27a-403 (2)(b)(ii) requires municipalities to include
+ three or more strategies in their moderate-income housing element of their general
+ plan. In addition to the recommendations required under 10-9a-403 (2)(b)(iii) and
+ 17-27a-403 (2)(b)(ii), for a municipality that has a fixed guideway public transit
+ station, shall include a recommendation to implement the strategies described in 10-
+ 9a-403 (2)(b)(iii)(G) or (H) and 17-27a-403 (2)(b)(ii)(G) or (H). Municipalities shall
+ annually progress on implementing these recommendations.
+
+                                                STRATEGIES
+    ** Repeat questions 3 or more times
+
+1. State strategy municipality included in the moderate-income housing element of its general plan below.
+ K: Utilize strategies that preserve subsidized low to moderate-income units on a long-term basis.
+
+2. Please state the municipality’s goal(s) associated with the strategy
+ Goal 1: Preserve current affordable and moderate-income housing on a long-term basis.
+
+3. What are the specific outcomes that the strategy intends to accomplish?
+ Magna Metro Township desires to keep its current moderate-income housing safe and affordable. To do so,
+ Magna will identify the specific locations of current MIH. Magna will also establish a good landlord program
+ and achieve code enforcement.
+
+
+4. Please describe how the municipality has monitored its annual progress toward achieving the goal(s).
+ Magna will utilize the DWS biennial reporting form and record new moderate-income units, housing
+ improvements, walkability improvements, and grant wins. Regular data analysis of cost-burdened housing
+ and available housing units at various income levels will also be monitored.
+
+
+5. In the boxes below, outline the following objectives associated with the goal(s) stated in item 2.
+       a. Please identify the key tasks of each stage needed to accomplish the goal(s) stated in item 2.
+               To preserve MIH, where MIH is located within the metro will be identified first. Patterns in
+               the spatial distribution of MIH will be noted and analyzed. The identification of MIH will guide
+               specific next steps.
+
+                There is some concern regarding blight and housing disrepair. Such conditions can bring
+                down property values near the property in disrepair, which can be economically detrimental
+                to moderate-income households in the vicinity. Achieving more regular code enforcement will
+                help protect housing and prevent housing conditions from deteriorating. Additionally, the
+                creation of a good landlord program can incentivize landlords to maintain safe and
+                comfortable housing. This is important in preventing the creation of slumlords who provide
+                unsafe housing to vulnerable households without facing consequences.
+
+
+
+
+Page | 1
+           b. Please identify the parties that are responsible for completing the key tasks of each stage identified
+              in item 5a.
+                    Planning staff is responsible for identifying and analyzing MIH.
+                    Planning staff is responsible for code enforcement.
+                    Magna Metro Township Council is responsible for approving a good landlord program.
+
+
+           c. Please describe the resources that the municipality must allocate to complete the key task of each
+              stage identified in item 5a.
+                   Magna must allocate planning staff, planning commissioners, metro township council
+                   members, time, and adequate funds to complete key tasks.
+
+           d. Please state specific deadlines for completing the key tasks of each stage identified in item 5a.
+                   Planning staff will identify MIH by April 1, 2020.
+                   Planning staff is already engaging in enhanced code enforcement and will continue to do so.
+                   A good landlord program can be put in place by July 1, 2020.
+
+
+           e. Which of the tasks stated in item 5a have been completed so far, and what have been their results?
+                  Code enforcement has been increased. The Greater Salt Lake Municipal Services District
+                  hired additional staff to increase capacity.
+
+
+           f.   How is the municipality addressing results described in 5e that deviate from the desired outcomes
+                specified in item 3? What barriers has the municipality encountered during the course of
+                implementation of said goals?
+                     It is too soon to see how the various tasks will impact Magna.
+
+
+           g. (Optional) Have you considered efforts to use a moderate-income housing set aside from a
+              community reinvestment agency, redevelopment agency, or community development and renewal
+              agency within your community.
+                   No.
+
+
+
+
+Page | 2
+6. State strategy municipality included in the moderate-income housing element of its general plan below.
+ E: Create or allow for, and reduce regulations related to, accessory dwelling units in residential zones
+
+7. Please state the municipality’s goal(s) associated with the strategy
+ Goal 2: Create more moderate-income housing options.
+
+
+8. What are the specific outcomes that the strategy intends to accomplish?
+ Magna intends to produce more housing that is affordable to residents at 30, 50, and 80 percent AMI. To
+ do so, Magna will adopt an ADU ordinance.
+
+
+9. Please describe how the municipality has monitored its annual progress toward achieving the goal(s).
+ Magna will utilize the DWS biennial reporting form and record new moderate-income units, housing
+ improvements, walkability improvements, and grant wins. Regular data analysis of cost-burdened housing
+ and available housing units at various income levels will also be monitored. Additionally, whether an ADU
+ ordinance is passed will be recorded.
+
+
+10. In the boxes below, outline the following objectives associated with the goal(s) stated in item 2.
+        a. Please identify the key tasks of each stage needed to accomplish the goal(s) stated in item 2.
+                The above strategy works to make MIH units where there are none currently by allowing
+                ADUs. ADUs can become a second source of income for desiring families. ADUs are also
+                typically more affordable places to live than traditional housing. Magna must write and adopt
+                an ADU Ordinance, which will include a public process where ADUs will be carefully defined
+                and the type of ADUs allowed, and where, will be considered. Discussion of ADU
+                specifications will occur at public meetings and throughout the general plan process.
+
+
+           b. Please identify the parties that are responsible for completing the key tasks of each stage identified
+              in item 5a.
+                    Planning staff will provide information on ADUs to the planning commission and metro
+                    township council. Planning staff will work with the planning commission and metro township
+                    council to write the ordinance. The planning commission will recommend approval, and the
+                    metro township council will approve the ordinance.
+
+
+           c. Please describe the resources that the municipality must allocate to complete the key task of each
+              stage identified in item 5a.
+                   Magna must allocate planning staff, planning commissioners, metro township council
+                   members, time, and adequate funds to complete key tasks.
+
+           d. Please state specific deadlines for completing the key tasks of each stage identified in item 5a.
+                   Planning staff will provide ADU information to planning commissioners and metro township
+                   council members by March 1, 2020. Planning staff will help community members identify
+                   good places for ADU allowance by May 1, 2020. Magna officials will approve a community-
+                   driven, Magna’s need-specific ADU ordinance by August 1, 2020.
+                   Planning staff will continue the General Plan process for Magna through 2020. At general
+                   plan steering committee meetings and an open house, public feedback will be gathered
+                   regarding good places for ADUs and how best to allow them.
+
+
+           e. Which of the tasks stated in item 5a have been completed so far, and what have been their results?
+
+Page | 3
+                    Some information regarding ADUs has been provided to Magna officials. This was provided
+                    at the Housing Element Open House and during discussion at planning commission meetings.
+                    Information was well-received.
+
+
+           f.   How is the municipality addressing results described in 5e that deviate from the desired outcomes
+                specified in item 3? What barriers has the municipality encountered during the course of
+                implementation of said goals?
+                     It is too soon to see how the various tasks will impact Magna.
+
+
+
+           g. (Optional) Have you considered efforts to use a moderate-income housing set aside from a
+              community reinvestment agency, redevelopment agency, or community development and renewal
+              agency within your community.
+                   No.
+
+
+
+
+Page | 4
+11. State strategy municipality included in the moderate-income housing element of its general plan below.
+ B, C, P, and W
+
+12. Please state the municipality’s goal(s) associated with the strategy
+ Goal 3: Support measures and efforts that contribute to neighborhood stabilization.
+
+13. What are the specific outcomes that the strategy intends to accomplish?
+ Magna will identify and apply for grants and funding opportunities that do so, such as the Green and
+ Healthy Homes Initiative, the Utah Weatherization Assistance Program, among others. The purpose of this
+ action is to acquire the funding necessary to support safe residences for moderate-income households. This
+ action also works to prevent blight and improves Magna’s redevelopment area. The strategy also intends to
+ identify infrastructure investments, such as fixing sidewalk gaps, that further facilitate MIH and the success
+ of MIH families.
+
+14. Please describe how the municipality has monitored its annual progress toward achieving the goal(s).
+ Magna will utilize the DWS biennial reporting form and record new moderate-income units, housing
+ improvements, walkability improvements, and grant wins.
+
+
+15. In the boxes below, outline the following objectives associated with the goal(s) stated in item 2.
+        a. Please identify the key tasks of each stage needed to accomplish the goal(s) stated in item 2.
+                Provide exterior curb-appeal grants to 10 homes per year through 2024 (50 total).
+                Support applications and funding from the Green and Healthy Homes Initiative to conduct
+                critical needs home repair in low and moderate-income housing.
+                Support applications and funding from the Utah Weatherization Assistance Program to help
+                low-income residents, especially the elderly and disabled, to reduce energy consumption
+                through home improvements.
+                Support applications and funding from Salt Lake Valley Habitat for Humanity to house families
+                between 30 and 60 percent of the Area Median Income.
+                Support applications and funding from Assist Utah’s Emergency Home Repair, Accessibility
+                Design, and Aging in Place programs.
+                Consider new transit routes and stops, improvements in transit frequency, and improvements
+                in transit stations and stops. Coordinate with UTA about needs and possibilities.
+                Conduct and use a sidewalk inventory, and connect any sidewalk gaps to promote walkability
+                and enhance the destination accessibility of non-automobile owners.
+                Expand the RDA in Old Magna down to 3100 South and be proactive about Opportunity
+                Zones. Use new RDA designation to secure funding for rehabilitation of uninhabitable housing
+                stock into MIH.
+
+           b. Please identify the parties that are responsible for completing the key tasks of each stage identified
+              in item 5a.
+                    Planning staff, planning commissioners, and the metro township council are responsible for
+                    disseminating funding information to the public and applying for grants.
+                    Planning staff and engineers are responsible for conducting and acting upon the sidewalk
+                    inventory.
+
+
+           c. Please describe the resources that the municipality must allocate to complete the key task of each
+              stage identified in item 5a.
+                   Magna must allocate planning staff, planning commissioners, metro township council
+                   members, time, and adequate funds to complete key tasks.
+           d. Please state specific deadlines for completing the key tasks of each stage identified in item 5a.
+                   Grant applications will be ongoing throughout 2020 as different deadlines arise.
+                   The sidewalk inventory should be completed by October 1, 2020.
+Page | 5
+           e. Which of the tasks stated in item 5a have been completed so far, and what have been their results?
+                  This task has not been completed.
+
+
+           f.   How is the municipality addressing results described in 5e that deviate from the desired outcomes
+                specified in item 3? What barriers has the municipality encountered during the course of
+                implementation of said goals?
+                     It is too soon to see how the various tasks will impact Magna.
+
+
+
+           g. (Optional) Have you considered efforts to use a moderate-income housing set aside from a
+              community reinvestment agency, redevelopment agency, or community development and renewal
+              agency within your community.
+                   No.
+
+
+
+
+Page | 6
+PLEASE SUBMIT DOCUMENTATION FROM THE EVALUATION PERIOD THAT SUPPORTS
+                    PROGRESS AS OUTLINED ABOVE.
+
+
+
+     Municipal legislative bodies are also required to review and submit the following:
+
+     UCA 10-9a-408(2)(c)(i):
+           •   A current estimate of the city’s rental housing needs for the following income limits:
+                  o 80% of the county’s adjusted median family income __Sufficient Units (+66)__
+                  o 50% of the county’s adjusted median family income __Sufficient Units (+100)__
+                  o 30% of the county’s adjusted median family income __Need 154 units__
+
+     UCA 10-9a-103(41)(b):
+           •An updated projection of 5-year affordable housing needs, which includes:
+               o Projected growth of households (housing demand)
+               o Projected housing stock (housing supply)
+               o Projected median housing costs
+     Projected median household income
+     To complete the annual reporting requirements above, please download the state’s FIVE YEAR
+     HOUSING PROJECTION CALCULATOR: https://jobs.utah.gov/housing/affordable/moderate/
+
+
+
+
+     SUBMISSION GUIDELINES:
+
+           1. Moderate-income housing review reports are due on December 1, 2020 and annually
+               thereafter.
+
+           2. Emails must include the following items as separate attachments:
+               □   An updated estimate of the municipality’s 5-year moderate-income housing needs
+               □   A findings report of the annual moderate-income housing element review
+               □   The most current version of the moderate-income housing element of the municipality’s
+                   general plan
+                    Submitted moderate-income housing elements must include their adoption date on a
+                       cover page.
+
+           3. Acceptable electronic document formats include:
+                   (a) DOC orPDF
+
+           4. Emails MUST be addressed to: dfields@utah.gov
+
+
+
+
+Page | 7
+

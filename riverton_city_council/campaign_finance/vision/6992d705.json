@@ -1,0 +1,32 @@
+{
+  "contributions": [
+    {"date": null, "name": "Brenda Newman", "amount": "1000.00", "in_kind": false},
+    {"date": null, "name": "Debbie Mastroianni", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Emily Aune", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Daniel McDougal", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "Joshua Kanter", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Anrew Pierucci", "amount": "250.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Vottiv Campaign", "purpose": null, "amount": "270.00", "in_kind": false},
+    {"date": null, "recipient": "Vottiv Campaign", "purpose": null, "amount": "70.00", "in_kind": false},
+    {"date": null, "recipient": "Peterson's Market", "purpose": null, "amount": "50.05", "in_kind": false},
+    {"date": null, "recipient": "Vottiv Campaign", "purpose": null, "amount": "104.99", "in_kind": false},
+    {"date": null, "recipient": "Carmella's Catering", "purpose": null, "amount": "1341.45", "in_kind": false}
+  ],
+  "total_contributions": "2400.00",
+  "total_expenditures": "1836.49",
+  "contributions_50_or_less": null,
+  "beginning_balance": "3707.50",
+  "ending_balance": "2871.01",
+  "_meta": {
+    "index_path": "raw/2025_buroker_post-election-report.pdf",
+    "candidate": "Tish Buroker",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_buroker_post-election-report.pdf",
+    "pages": 5,
+    "method": "text-layer transcription 2026-07-18 (typed). Post-Election Report; THIS-PERIOD = Column D (Oct 29 - Dec 4 2025): contrib 2400.00 / expend 1836.49. Printed Column E Campaign Total = 32350.00 contrib / 26932.59 expend (= primary 19950/14003.71 + 28-Day 6000/8692.41 + General 4000/2399.98 + Post 2400/1836.49). Per-period filer -> cycle_overrides.csv carries the Column-E cycle total ('Anrew Pierucci' donor name verbatim as printed)."
+  }
+}

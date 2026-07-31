@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "8-26-21", "name": "Self", "amount": "50.00", "in_kind": false},
+    {"date": "10-1-21", "name": "Self", "amount": "20.98", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8-26-21", "recipient": "County Clerk", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "10-1-21", "recipient": "Hobby Lobby", "purpose": "Paint", "amount": "20.98", "in_kind": false}
+  ],
+  "total_contributions": "70.98",
+  "total_expenditures": "70.98",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/alan_peterson_kearns.pdf",
+    "candidate": "Alan Peterson",
+    "office": "Metro Township Council District 2",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "reporting_period": "Year-end summary (December)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/alan_peterson_kearns.pdf",
+    "pages": 4
+  },
+  "_notes": "Type of Report: December 2 (final report) checked; verification dated 12-1-21; received DEC 01 2021. Page order: p1 cover, p2 summary, p3 itemized contributions, p4 itemized expenditures. Summary Column A: Line 1=70.98, Line 2=70.98; Column B (YTD) blank -> ytd fields null. Line 3 beginning balance '-0-'; Line 7 close '-0-'."
+}

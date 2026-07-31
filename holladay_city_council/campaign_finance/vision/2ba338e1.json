@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "Dec 19", "name": "Matthew Tracy", "amount": "$369.17", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "Nov 19, 2023", "recipient": "Michael McDonald (web page)", "purpose": "web page", "amount": "600", "in_kind": false}
+  ],
+  "total_contributions": "369.17",
+  "total_expenditures": "600",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2023_city_tracy-final.pdf",
+    "candidate": "Matthew Collin Tracy",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_tracy-final.pdf",
+    "pages": 3
+  }
+}

@@ -1,0 +1,12 @@
+# Tax Education 101 - Truth in Taxation
+
+> **AUTOMATIC TRANSCRIPTION — ASR, expect word errors; not an official record**
+
+- Source video: https://www.youtube.com/watch?v=O0rqbEfNxIU
+- Upload date: 2022-05-31
+- Caption type: ASR (YouTube automatic captions)
+- Note: City-of-South-Jordan **promotional/PR** video, NOT a council or planning-commission meeting. South Jordan does not post meeting video to YouTube (see AVAILABILITY.md).
+
+---
+
+south jordan is a beautiful place to live work and enjoy the outdoors our residents consistently rank their quality of life in south jordan high compared to other residents in the salt lake valley services that make south jordan a great place to live like police and fire roads and parks are all paid for out of property tax dollars the city provides these wonderful services through the property tax dollars it receives however it's important to know that most of the remaining property tax dollars you pay go to other organizations the jordan school district receives 39 percent of your tax dollars salt lake county receives 16 percent the state basic school levy is 15 and south jordan receives 15 south jordan residents tax rate has declined over the last five years resulting in your taxes being lower than more than half of the cities in salt lake valley the city's rates however have not kept up with inflation and over the last two years the cost of materials has gone up which has resulted in increased maintenance costs and the cost of construction has gone up by more than 30 percent in most cases due to changes in the police industry south jordan increased pay to keep police officers to ensure our community stays safe that along with growth is why south jordan has proposed a small property tax increase of about five dollars a month on a home valued at five hundred thousand dollars for that five dollars the city will be able to maintain emergency response times patrol your streets as often as it does now continue fixing roads and sidewalks in a timely manner and hire and retain needed staff to provide the service levels our residents expect the city will hold a truth and taxation hearing in august which gives our residents a chance to speak about the proposed increase once the state approves the date it will be announced and noticed to the public learn more about taxes in south jordan how those dollars are used and more by visiting our tax education 101 page

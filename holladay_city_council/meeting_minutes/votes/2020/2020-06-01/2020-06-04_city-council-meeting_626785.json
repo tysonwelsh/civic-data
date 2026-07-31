@@ -1,0 +1,87 @@
+{
+ "date": "2020-06-04",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/626785.pdf",
+ "path": "minutes/2020/2020-06-01/2020-06-04_city-council-meeting_626785.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "table consideration of Ordinance 2020-09",
+   "motion_type": "Ordinance",
+   "result": "Ordinance 2020-09 was tabled by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": true,
+   "votes": [
+    {
+     "member": "Dahle",
+     "vote": "Aye",
+     "is_mayor": true
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gibbons",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Petersen",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "approve the minutes of March 12 and April 16, 2020, with the changes noted",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "recess the City Council Meeting and reconvene in an RDA Board Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 4,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Petersen",
+   "motion": "adjourn the City Council Meeting",
+   "motion_type": "Procedural",
+   "result": "",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "date": "2026-05-14",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2026/2026-05-11/2026-05-14_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Stephen Su’a-Filo",
+  "Gregory Jackson",
+  "Beau Jones"
+ ],
+ "members_absent": [
+  "Ken Roberts",
+  "Lindsay Gehman"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Eyre moved to approve the minutes as presented. Commissioner Jones seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "4:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Beau Jones",
+   "aye": [
+    "Beau Jones",
+    "Gregory Jackson",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and recommendation of Symphony Development’s request for preliminary subdivision review of an update to Heritage Meadows, now a 15-lot residential development located at 1250 West and 800 North, including density in lieu for connectivity. (Tabled from the April 23, 2026 meeting).",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 4:1",
+   "mover": "Gregory Jackson",
+   "seconder": "Beau Jones",
+   "aye": [
+    "Beau Jones",
+    "Gregory Jackson",
+    "Tyson Eyre",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Stephen Su’a-Filo"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and consideration of Michael Southwick’s request for preliminary subdivision approval of Southwick Estates Plat A, a 2-lot residential development located at 477 North 200 West.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Beau Jones",
+   "seconder": "Gregory Jackson",
+   "aye": [
+    "Beau Jones",
+    "Gregory Jackson",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and consideration of Gardner’s request for a plat amendment to the View 21 East Plat Amendment, splitting one lot into two, located at 3543 West 1940 North.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Stephen Su’a-Filo",
+   "seconder": "Beau Jones",
+   "aye": [
+    "Beau Jones",
+    "Gregory Jackson",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public hearing and consideration of Grow Development’s request for a plat amendment to the Gardner Point Phase 1 Parcel H Plat Amendment, adding an additional lot located at 3625 West 1500 North.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Stephen Su’a-Filo",
+   "aye": [
+    "Beau Jones",
+    "Gregory Jackson",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "date": "2026-01-13",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2026/2026-01-12/2026-01-13_planning-commission.md",
+ "present": [
+  "Don Russell",
+  "Marc McElreath",
+  "Barbara Munoz",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve the minutes of December 16, 2025",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Marc McElreath",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Marc McElreath",
+    "Cindy Wilkey"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  }
+ ]
+}

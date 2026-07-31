@@ -1,0 +1,102 @@
+{
+ "date": "2017-05-01",
+ "year": 2017,
+ "title": "City Council Agenda",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Bev Uipi",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2017/2017-05-01/2017-05-01_city-council-agenda-82.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of April 24, 2017",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Cheri Jackson",
+   "seconder": "Dwight Marchant",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 17- ______ - approving Planning Commission rules of order the procedure",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Bev Uipi",
+   "seconder": "",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "to adopt Resolution No. 17-______ - acknowledging receipt of a tentative budget and tentatively adopting the tentative budget pursuant to the requirement of Utah Code Ann 10-6-111 for the fiscal year beginning July l, 2017, and ending June 30, 2018",
+   "body": "Council",
+   "motion_type": "Budget Amendment",
+   "result": "5-0 Pass",
+   "mover": "Bev Uipi",
+   "seconder": "Cheri Jackson",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve Resolution NO. 17-______ as amended - approving Community Council budget requests subject to funding from the MSD with the changes that include a note that the distribution is subject to funding being received from the MSD and to the reporting requirements and required forms and to require community councils to obtain at least three bids for any expenditure over $2,500",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Bev Uipi",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

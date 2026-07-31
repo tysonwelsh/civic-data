@@ -1,0 +1,38 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus-agendacenter",
+    "index_max_date": "2026-06-08",
+    "index_rows": 372,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://www.millcreekut.gov/AgendaCenter",
+    "new_count": 1,
+    "notes": "CivicPlus AgendaCenter landing (current window); cat3=Council + cat7=CRA. | PMN body 5741: 0 council notice(s) newer than index max (cross-check only — CivicPlus is the authoritative fetch source)",
+    "new_items": [
+      {
+        "date": "2026-06-22",
+        "title": "City Council Meeting Agenda and Packet (Council)",
+        "url": "https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06222026-1061"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus-agendacenter",
+    "index_max_date": "2026-05-20",
+    "index_rows": 149,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://www.millcreekut.gov/AgendaCenter",
+    "new_count": 1,
+    "notes": "CivicPlus AgendaCenter landing (current window); cat2=Planning Commission.",
+    "new_items": [
+      {
+        "date": "2026-06-17",
+        "title": "Planning Commission Meeting Agenda and Packet (Planning Commission)",
+        "url": "https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06172026-1060"
+      }
+    ]
+  }
+}

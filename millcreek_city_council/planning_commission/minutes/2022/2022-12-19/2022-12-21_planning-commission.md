@@ -1,0 +1,454 @@
+# Millcreek Planning Commission — 2022-12-21
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12212022-647
+> Meeting date: 2022-12-21
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2022-12-21
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12212022-647
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                    Minutes           of the
+                                                                    Millcreek         Planning             Commission
+                                                                                 December             21, 2022
+                                                                                        5:00     p.m.
+                                                                                   Regular       Meeting
+
+
+The Planning           Corninission            of Millcreek,        Utah, met in a regular              public      meeting        on Wednesday,
+December           21, 2022,        at City     Hall,    located     at 3330 S. 1300 E., Millcreek,                     UT 84106.          The meeting
+was conducted              electronically            and live streamed        via the City's          website       with      an option      for online
+public      comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                        City     Staff
+Shawn       LaMar,         Chair                                                     Francis      Lilly,      Planning         & Zoning        Director
+Victoria         Reid, Vice        Chair     (excused)                               Elyse     Sullivan,         City    Recorder
+Scott Claerhout            (electronic)                                              Kurt    Hansen,          Facilities       Manager
+David      Hulsberg                                                                  Carlos      Estudillo,         Planner
+Christian         Larsen                                                             Brad     Sanderson,            Current      Planning        Manager
+Nils     Per Lofgren                                                                 John Brems,             City    Attorney
+Skye Sieber                                                                          Jake Green,           Planning          Engineer
+Ian Wright
+
+
+Attendees:          Jason Boal,        Frank         Belko,     Rich Matheson,         Jake Williams,               Jeff Gibson,         Lynda
+Bagley-Gibson,             Jan Bjernfalk,             Lynne     Reid,     Stew Macsherry,             Chip     Spencer,        Russell      Platt,   Marty
+Andersen,         Brian     Vulelic
+
+
+REG{JLAR             MEETING                - 5:00 p.m.
+TIME        COMMENCED                      - 5:03 p.m.
+
+
+Chair     LaMar       called       the meeting          to order and read a statement                 describing         the duties        of the
+Planning         Commission.
+
+
+1. Commission              Business
+       1.1 Updates          from      the Planning            and Zoning         Director
+       Francis     Lilly    thanked        the cornrnission          for their     service     and work          throughout         the year. He
+       noted that Sean Murray,                  staff, was getting         promoted         to planner.        He reported          that Aryel
+       Cianflone      resigned        from      the commission            and Dwayne          Vance        would        be submitted         to the city
+       council     as a nominee            to fill    the remainder        of her ternn. He said Robert                    May    would       present
+       long range planning             goals to the commission                   the following         month.        Lilly    would      send the
+       con'unission        the phase II rendering                of Millcreek       Common.
+
+
+2. Public        Hearings
+       2.1 Consideration              of ZM-22-012,              Request      for Rezone         of the Southern                 Portion      of
+       Property       from      R-2-6.5        to RM         Location:      1200    E. Elgin       Avenue           [3060      S. Richmond
+       Street]     Applicant:         Frank          Belko     Planner:      Brad     Sanderson
+Millcreek       Planning       Commission               Meeting        Minutes                 21 December             2022         Page 2 of 8
+
+
+
+    Brad Sanderson            said the applicant              was proposing          to rezone         the southern         portion     (approx.
+    0.28 acres) of property                generally      located       at 1200      South Elgin         Avenue,       from      the R-2-6.5
+    Medium        Density      Residential           Zone to the R-M             Multifamily           Residential      Zone        and, remove           an
+    existing      zone condition            of, "Limit        10 units total       for acreage with             max height         of 35 feet to the
+    midline      property"         from    the two adjacent            parcels     located      at 3060 and 3070 South Richmond
+    Street. He highlighted                the property         on a zoning        map noting           it was within        the Neighborhood                2
+    designation         on the Future            Land    Use Map        of the General          Plan. Neighborhood                  2 primarily        is
+    single-family          detached        homes        on smaller      lots, duplexes,         triplexes,       townhomes,            and smaller
+    multifamily         buildings         with    typically      6-18 dwelling         units per acre and heights                   from    2-3
+    stories.     Key characteristics               are that it provides          residents      with     a mix     of housing         options      and
+    densities     within     close proximity              to services      and amenities,          and may serve as a transition
+    between       single-family           neighborhoods            and higher        density      corridors        or centers.
+
+
+    Sanderson       noted the proposed                  site plan had been updated                since the application               went to the
+    community           council.     The site would            host 16 townhomes.               He presented           the site plan and
+    building      rendering        concepts         to the cornrnission.          He requested           feedback       from       the commission
+    on development            agreement            considerations         on uses, number              of units,     dedication        and right-of-
+    way improvements,               building        materials,        colors,    and height,       site layout        and design,          and
+    landscape       buffering/fencing.
+
+
+    At their meeting          on December               6, 2022, the Millcreek            Community              Council       discussed         the
+    application         and received         public      comment.        Comments         included         concerns         that the buildings
+    were too high,          and that the project              would     generate      too much traffic,             particularly       impacting
+    Elgin      Avenue.      Members          of the community              council     expressed          concerns      about number              of
+    units, height        of the proposed            buildings,        guest parking       potentially           encroaching         in buffer        areas,
+    and that the proposed              rezone        would     result in a density           (20.4 dwellings           per acre) that would
+    exceed what is contemplated                      in the Neighborhood              2 District        on the Future         Land Use Map
+    (maximum            of 18 dwellings            per acre). Staff recommended                   the commission              continue       their
+    discussion      of file number               ZM-22-012        at a later date, before              making       a recommendation               to the
+    City     Council.
+
+
+    Cornrnissioner          Claerhout            suggested     staff continue         to work      on the development                 agreement
+
+
+    Applicant,      Frank      Belko,        said he listened          to the community             council        and did downsize              the
+    development           from 18 to 16 units             and lowered           the building       height.
+
+
+    Chip     Spencer,      Millcreek         Cornrnunity         Council,        said the council          was concerned              about the
+    height     of the buildings,           and there being            enough      parking/spill         over street parking.            He said the
+    neighbor      to the site, Lynda              Bagley-Gibson,           was concerned            about run off irrigation               water
+    coming       onto her property.               The applicant        would      have to work           with    the irrigation        water
+    companies        to control       any runoff.         He noted the council               was against           the development           because
+    it did not fit the area.
+
+
+    Chair      LaMar      opened       the public        hearing.
+
+
+    Stew Macsherry,           1220 E. Elgin              Avenue,       said he would           lose his view         with     the project.        He
+    suggested       that people        may not park in the garages                    and spill        over parking         could     happen.        He
+    wondered        where     the snow would               be plowed        to or how waste would                   be collected.       This project
+Mfflcreek          Planning                Commission             Meeting              Minutes                     21 December                   2022       Page        3 of 8
+
+
+
+
+     would         impact          the east and south                 side of his property.                  He was not opposed                         to the project           but
+     was concerned                   about      its impact.
+
+
+     Lynda         Bagley-Gibson,                    3074     Richinond               Street,     said she built             her house           per RCOZ           and
+     wondered             about           the height        limitations             differing      next     door      to her. She said her property                         had
+     irrigation          problems.            There      was an open                  ditch     across      Richmond            Street.         The developments                   east
+     of Richmond                  were       causing        water      to cross          Richmond           into      her house.              She felt that developers
+     should        be addressing                it. She noted            the secondary               water     pipes         in Richmond                had been         changed
+     three       times      over          the last two        years.         She felt that she was not well                           informed           as a neighbor            to
+     any surrounding                      developments.               The proposed               setback      on Richmond                     for the project           would
+     create       a sidewalk               to the side of her house.
+
+
+     Russell        Platt,        architect      on project,            highlighted              the changes           from      the site plan             from     the
+     community               council         meeting,         eliminating               two units,        lowering           the height,           and adding            more
+     open        space.      He said they              would          take    care of any water                problems.
+
+
+     Chip        Spencer          noted       the community                  council          thought      the scope          of the project              exceeded         the
+     parameters             of the Neighborhood                        2 designation.
+
+
+     Chair        LaMar           closed       the public            hearing.
+
+
+     Cornrnissioner                 Larsen       would         like    the project              to come      back      with      more          detail     on the
+     development                agreement.             He felt        the project             was witliin      the scope              of Neighborhood                  2. He
+     noted       that infill         development               was necessary,                   and the commission                    would        be seeing           a lot of it
+     as a built-out               city.     He would          like     to hear about              dedications          and improvements                      on Richrnond
+     Street.       Cornrnissioner                Sieber       would          like     to see more           project      detail.        She wondered               about
+     increased           flow       of traffic        on Richmond                   Street,     especially         traffic     moving            north      getting       into    the
+     development                and exiting            it. Commissioner                   Hulsberg          asked      if the townhomes                    were        for rent        or
+     sale. Belko            said the intent             was to sell the units,                    but that      could        be reevaluated.                Commissioner
+     Hulsberg            felt the use was appropriate                           for the site.           Commissioner               Claerhout             expressed
+     concern            that the Neighborhood                     2 designation                 said that it "may             serve           as a transition          between
+     single-family                neighborhoods               and higher              density      corridors          or centers."              He said it would             not
+     serve       as a transition              next     to the Bagley-Gibson                       property         since      their     house       would         be
+     sandwiched              on either          side with        high        density          housing.
+
+
+     Sanderson            reiterated          his take        on the commission's                        coinments;           concern            on aesthetics/design,                  a
+     traffic      study      may          be warranted           considering               ingress/egress,             neighborhood                 concern        on views,
+     guest       parking,          storm      water      removal,             and waste           removal.         He said any water                     that came        across
+     Richmond             first      went      to the Bagley-Gibson                       property        before       it came          to the project            site
+     property.           There       was a proposed                  20-foot         dedication          on Richmond                  Street,     but he would             see if
+     that was possible.                    Coini'nissioner             Sieber         asked      if the property             abutted           the Jordan         and Salt
+     Lake        City     Canal.          Sanderson          noted      it was close,             but it did not touch                  it.
+
+
+Commissioner                 Larsen,          regarding              ZM-22-012,                 moved       that      the Planning                Commission
+continue         to the next              appropriate            date.        Commissioner                  Claerhout            seconded.               Chair      LaMar
+called     for    the vote.           Chair      LaMar           voted          yes, Commissioner                      Claerhout               voted      yes,
+Commissioner                 Hulsberg            voted        yes, Commissioner                      Larsen           voted      yes, Commissioner                        Lofgren
+Millcreek        Planning           Commission            Meeting         Minutes                   21 December               2022      Page 4 of 8
+
+
+
+voted    yes, Commissioner                   Sieber      voted      yes, and Commissioner                      Wright         voted     yes. The
+motion       passed      unanimously.
+
+
+    2.2 Consideration                 of CU-22-015,            Request         for     a Conditional           Use Permit             for    a Mixed-Use
+    Development               Corisisting        of 31 Townhome                 Units      and a Commercial                     Component
+    Location:          4350 S. 900 E. Applicant:                     Jake      Williams           Planner:         Carlos       Estudillo
+    Carlos       Estudillo         said the applicant          was seeking            a conditional          use pen'nit        for a 31-unit
+    residential         mixed-use           complex       in the R-M         (Residential          Multi-Family)             and the C-2
+    (Coinmercial)             zones. The proposed                 31-unit     mixed-use           complex          would      be composed            of
+    townhomes            with      three different         models,        differing      in layouts       and overall           space, as well            as over
+    1,500      square feet of corni'nercial                 frontage        adjacent       to 900 East. Tlie property                  was surrounded
+    by several         different       zones, including            R-I-10,      R4-8,       and R-2-10.             The parcel        is 1.39 acres and
+    has historically             been used for coinmercial                  uses. The project             is composed            of 16 units in the R-
+    M zone and 15 units in the C-2 zone. Each unit would                                          have its own two-car                garage, and the
+    applicant         would       provide      15 guest stalls that would                  be shared with             the parking           necessaiy       to
+    meet the needs of the commercial                           component.            In addition,       a playground            and a pickleball
+    court,     accessible          from     any area of the development                    via internal            sidewalks,      would       be provided
+    as amenities          for this proposal.             The units that comprise                  this development              would        all feature
+    two bedrooms                 and would       be targeted        towards        small    families.        All     of the units would             be for
+    rent and not owner                occupied.         The architectural             design      was composed              of materials        such as
+    precast      concrete,         brick,     cementitious         board,      and glass, bringing                 a unique      style of architecture
+    in the Millcreek              area. All      designs     had been reviewed                 and currently           met every        architectural
+    and design          standard.
+
+
+    Estudillo         showed        the commission           the building            renderings,       floor       plans,     and landscape            plan.
+    The proposed             landscaping          plan included           40% open space/common                        area in the R-M              zone (as
+    per Chapter          19.44)       and 20% open space/common                          area in the C-2 zone (as per Chapter                             19.60).
+    The open space was composed                           of lawns,       2-inch       caliper     trees, and a combination                    of plants,
+    flowers,      and shrubs.          Additionally,           the plan included            a playground              and a pickleball           court that
+    complied          with       the underlying         zones vested to the current                  land use. The landscape                    plan also
+    included          improvements            and trees along the frontages                    on Rowley            Drive     and 900 East. The
+    landscaping          plan would           be subject       to Millcreek's           19.77 Water            Efficient        Landscape           Design
+    and Development                  Standards,       before      final     approval.
+
+
+    Estudillo         reported       that at the Millcreek            Cornrnunity           Council       meeting           on December           6, 2022,
+    they discussed               the following        issues of concern:              potential      on-street        parking      on Rowley            Drive,
+    guest parking            located        too far away for guests visiting                   residents       on the west end of the parcel,
+    additional         traffic     (nearby      food bank),         snow removal            between          alleyways,         and flow        of traffic       in
+    alleys     and possible           dangers       to pedestrians,          kids playing,          etc. Council            members         voted    6 to 3
+    on a motion          to recommend               approval       of the application,             as presented         by staff. The staff
+    findings      were:
+    *       StaffhasfoundthattheproposedconditionalusecanmeettherequirementsofTitlel9
+            Regulations,           such as 19.44         (Multi     Family       Zoning),         19.60      (Commercial             Zones),     19.77
+            (Landscape            Standards),       and 19.84       (Conditional           Uses).
+    *       The collaborative               4350 development              is expected          to have no impact              to future       access
+            points.    They will          operate     effectively         and there will          be very little        impact        to the existing
+            900 East and Rowley                 Drive     intersection.        Within       30 feet of 900 East, Avenue                        Consultants
+            recoiuinend           adding "No        Parking       Anytime"            signs on Rowley              Drive.     A traffic       signal      is not
+Millcreek          Planning           Commission              Meeting        Minutes                          21 December               2022         Page       5 of 8
+
+
+
+
+            warranted           nor needed           to serve the anticipated                   traffic       volumes         generated           by the
+            development.              Therefore,        no additional              mitigation           improvements                  are recommended                    for the
+            development              based      on the anticipated                traffic      performance.
+     *      Staff      finds    that the proposed               project      is in harmony                  with     the General           Plan     and character               of
+            the immediate                area. The proposed               development                does not create               a zoning        violation        or
+            conflict        with     existing       properties.
+     *      All     items      of the staff        report.
+    Estudillo          recommended                preliminary        approval               of the application.
+
+
+    Applicant,            Jake Williams,             pointed      out that the site had two                         zones.      He said the cornrnunity
+    council         expressed          concern        with     safety.     He noted            the pedestrian               walkways            were     separated
+    from      the garages.            He said the guest             parking          was relocated                 to accommodate                 the open        space
+    requirement.               Commissioner             Hulsberg          asked       if there        would         be space          for street       parking       though
+    it would         not be allowed.              Williams        understood                there    was.      Comi'nissioner              Hulsberg           asked
+    about         the retail       component.          Williams          said the parking                   provided        limitations,          but the
+    commercial              would        be retail     or office.         Chair      LaMar           asked         about    rezoning        the property            to one
+    zone      or consolidating               the property.          Williams           said the property                   would       be consolidated,              but the
+    project         met     each of the zone requirements,                         so they          did not intend            to rezone           it. Chair      LaMar
+    asked         about     bicycle       parking       spaces.      Williams               said the garage            was tandem               and 16 feet wide                so
+    there     was storage             space       in the garage.
+
+
+    Chip      Spencer,          Millcreek          Community             Council,           said the council               recornrnended               approval          of the
+    application.            One of the members                  did not appreciate                   children         playing         in the alleyways.             There
+    was a concern               for safety.         Another       member           thought           the project           was too large           for the property.
+
+
+    Chair         LaMar        opened       the public         hearing.
+
+
+    Marty         Andersen,           860 E. Rowley             Drive,      expressed               concern         with    traffic      and speed          as Rowley
+    was a through               street    from       700 E. to 900 E. She recommended                                      speed bumps            on Rowley              Drive.
+    She said the proposed                    plan     made      sense, but parking                    and traffic          would       be issues         for the
+    neighborhood.
+
+
+    Estudillo          read a comment                received      via email           from         Gina      Alserda.        "Our       concern         to the
+
+    planning of building 31 town home units plus commercial space located on the corner of 900
+    E and Rowley Dr. is traffic! I understand there has beert a analysis done on theflow in the
+    area. But there will be an increase!. As of today more people cut down Rowley Dr. to avoid
+    the street lights 072 700 E and 4500 S to head east. There are children that play from one cul
+    de sac to another                 and people         do not obey          the speed              limit     and the city has never                    done
+    anything           about       the issue.      Do you       really      believe          that     the owers/             renter      will     want    to go up to
+
+    and around only to have to sit a medium or turn lane while waiting for the traffic coming
+   from the north to stop. Putting ttp signs that state "NO PARKING" on Rowley Dr. Is going to
+    be enforced by who? Once the vmits are leased it will be a free for all. As long as we have
+    lived here we have experienced builders not holding ttp to there end of the 'PLAN". Not to
+    mention the lack of respectfor thepeople and homes the thesesubdivisioris or communities
+    are being          built    next      to. When       these urtits        are being              built     how      much     heavy           equipment         will     be
+    hauling         down       Rowley       Dr.      The builders          and      City      do not care             they live        else where.          Plus      there
+
+    is already a huge (IOO's)of apartments in the complex going in off 900 E in the old Kmart
+    site. How much more traffic? Just my opinion & concern."
+Millcreek       Planning           Commission            Meeting       Minutes                     21 December            2022        Page 6 of 8
+
+
+
+
+     Chair     LaMar          closed      the public     hearing.
+
+
+     Corni'nissioner           Larsen       said this project        was exciting           and how a redevelopment                    should      be
+     done. He agreed that Rowley                       Drive    was narrow,             and liked       the idea of speed bumps.                 He said
+    parking        enforcement            on the street would           be done by Unified                 Police     Department.          He
+     appreciated          how the space would               be used. Commissioner                    Lofgren        noted he did not see any
+    major      concerns.          Chair     LaMar       acknowledged            liking     the shared parking,              but wanted       a
+    minimum           dedication          of guest parking.          Chair      LaMar       asked about an ADA                   stall. Williams         said
+     one was required               but was not sure if that was included                         in the 15-stall       count.     Chair     LaMar
+    wondered          why parking            would      be restricted         from      Rowley       Drive.     Estudillo        said the traffic
+    study     said not to have parking                  near the intersection              of 900 E. He said 900 E. would
+     accommodate              on-street      parking.       He felt the issue could                be remedied         through       technical
+    review.        Commissioner             Hulsberg        said having         on-street        parking      would     slow traffic        down.        He
+    recommended               it be allowed          without      restriction        except      within     the certain       distance     of 900 E.
+    for safety.       Chair LaMar                wondered      about having            timed      street parking.       John Brems           suggested
+    the residents           could have something               in their rental           agreement         that they would           use the provided
+    parking        and not park on the street.
+
+
+     Commissioner              Claerhout          noted maximum           density         of zoning        was not optimal           density.     He said
+     cars backing           out of the garages           on the southern             ends could back up into the open space. He
+    worried        about the lack of emergency                     turnaround           space in the lanes. Williams                 said Unified
+    Fire Authority             said the lanes met their requirements,                           and the traffic       study's.     He said the open
+    space percentage               was tight,        so there would          not be additional             asphalt     for backing         up on the
+    southwest         unit.       He said he would          be willing          to add a fence around                the playground          area to
+    assist with        safety.       Commissioner           Larsen      agreed with             a condition      of adding        a fence.
+    Cornrnissioner             Wright       was not sure why            street parking            would       be restricted       on Rowley           Drive.
+    Brems       suggested           vague language           on the fence in case bollards                     or some other barrier             was
+    appropriate.
+
+
+Commissioner               Lofgren        moved        to approve       preliminary               approval       of CU-22-015,           including            a
+recommendation                for some kind             of separation           on the end of the driveway                       and potential
+agreements          with      tenants       as far     as parking       on the street.             Commissioner             Wright       seconded.
+Chair     LaMar      offered        a friendly       amendment         to have staff revisit               the issue of a split zone across a
+single    parcel     in technical          review.     Sanderson        requested         detriments          for the mitigation         conditions.
+Coinrnissioner            Lofgren      said children        safety     with     the fence.         Chair     LaMar      said relief      of residential
+congestion         from     tenants      using public        street parking            instead     of the parking        provided.         Sanderson
+asked who would               regulate      the tenant parking.           Brems          said the rental        agency      or HOA.        Williams
+asked if the city would                review       the leasing      agreement.          Brems       said the city could.           Commissioner
+Wright      suggested         that it be considered,           but not required.                Brems      said parking       language       could       be
+in the rental       agreement          or CC&Rs.         It would      be up to whoever                 was managing           the project       to
+enforce     it, not the city.
+
+
+Commissioner               Lofgren        restated      the motion        (for       clarity)      for preliminary            approval          of the
+application         CU-22-015             with    the mitigation         of the barrier             at the end of the drive                at the end
+of the property             [south]       as well     as the potential           for     some sort         of restriction         for tenants
+parking       on the street.           Commissioner            Wright         seconded.           Chair       LaMar      called      for the vote.
+Chair     LaMar           voted     yes, Commissioner                Claerhout           voted     yes, Commissioner                Hulsberg           voted
+Mfflcreek        Planning          Commission             Meeting         Minutes                  21 December            2022       Page 7 of 8
+
+
+
+yes, Commissioner                 Larsen        voted     yes, Commissioner                 Lofgren         voted     yes, Commissioner
+Sieber      voted      yes, and Commissioner                     Wright      voted      yes. The motion               passed       unanimously
+
+
+3. New Business
+    3.1 Consideration                  of LB-22-008/SDA-22-002,                       Subdivision           Amendment              and Lot
+    Boundary            Adjustment             on Lot      7 in the Millcreek               Park     Subdivision          Location:        1624
+    Maple        Avenue         and 1575         Millcreek          Way     Applicant:          James        Ellsworth       Planner:        Katie
+    Larsen
+    Brad       Sanderson        explained         the lot adjustment           was to incorporate              a portion       of property        from
+    1624 Maple            Avenue        to 1575 Millcreek             Way.     The addition           would         amend the Millcreek             Park
+        Subdivision       plat, so the application               included     a subdivision           amendment.            The property          to the
+    north       (Maple)       would      still meet zoning           code. Staff recommended                    approval       of the proposal.
+
+
+    Applicant          representative,          Jason Boal,         said he had worked               with     staff and did not foresee                any
+    issues.
+
+
+
+Commissioner              Larsen       moved       that      the Planning           Commission              approve      SDA-22-002,
+subdivision           amendmenf          and lot boundary                 adjustment          on Lot        7 of Millcreek          Park
+Subdivision.           Comimissioner            Hulsberg          seconded.         Chair      LaMar         called     for the vote.        Chair
+LaMar         voted     yes, Commissioner                 Claerhout         voted      yes, Commissioner                 Hulsberg       voted       yes,
+Commissioner              Larsen       voted     yes, Commissioner                  Lofgren        voted      yes, Commissioner              Sieber
+voted     yes, and Commissioner                    Wright        voted      yes. The motion                passed     unanimously
+
+
+    3.2 Consideration                 of LB-22-009,           Lot     Boundary          Adjustment            between        Lots     70 and 71 m
+    the Mount            Olympus         Cove      Subdivision            Location:         4479 S. Gilead            Way      and 4487 S.
+    Gilead       Way       Applicants:           Richard         Matheson         and Christopher               You      Maack        Planner:         Brad
+    Sanderson
+    Brad       Sanderson        said a property           line would        be moving          a foot or two to accommodate                      the
+    existing        fencing     and landscaping.
+
+
+    The property           owner,       Brian     Vulelic,       thanked     staff for assistance             and the commission              for
+    hearing        the item.
+
+
+Commissioner             Hulsberg         moved         to approve         application          LB-22-009,            lot boundary
+adjustment            between      lots 70 and 71 in the Mount                      Olympus           Cove     Subdivision.           Commissioner
+Sieber     seconded.          Chair     LaMar        called      for the vote.         Chair        LaMar       voted      yes, Commissioner
+Claerhout        voted     yes, Commissioner                  Hulsberg        voted      yes, Commissioner                  Larsen      voted       yes,
+Commissioner             Lofgren        voted     yes, Commissioner                  Sieber        voted     yes, and Commissioner
+Wright        voted     yes. The motion            passed        unanimously
+
+
+1. Commission             Business       Continued
+    1.2 Approval           of November            16, 2022 Regular             Meeting         Minutes
+
+
+Chair      LaMar        moved         to approve        the minutes          as presented            m the staff         report.      Commissioner
+Larsen        seconded.       Chair      LaMar          called    for the vote.         Chair       LaMar        voted      yes, Commissioner
+Hulsberg        voted     yes, Commissioner                  Larsen       voted     yes, Commissioner                  Lofgren       voted    yes,
+Commissioner             Sieber       voted     yes, and Commissioner                    Wright        voted        yes. Commissioner
+Claerhout        abstained.           The motion          passed.
+Mfflcreek       Planning          Commission                Meeting          Minutes                  21 December           2022     Page 8 of 8
+
+
+
+
+4. Calendar         of Upcoming              Meetings
+    *    Mt. Olympus           Community              Council      Mtg.,          TBD
+    @ Millcreek          Community                Council      Mtg.,    1/3/23,         6:30 p.m.
+    *    Canyon      Rim      Citizens           Association       Mtg.,          1/4/23,    7:00 p.m.
+    *    East Mill      Creek      Community                Council         Mtg.,    1/5/23,     6:30 p.m.
+    *    City   Council       Mtg.,       1/10/23,       7:00 p.m.
+    *    Historic    Preservation            Coinrnission          Mtg.,          1/12/23,      6:00 p.m.
+    @ Planning          Comi'nission             Mtg.,   1/18/23,           5:00 p.m.
+
+
+    Chair       LaMar      noted the coinmission's                     regular        meeting        schedule   had been published           for the
+    following        year. He thanked                the coinmissioners                 for their work.
+
+
+ADJOURNED:                  Commissioner                 Claerhout            moved         to adjourn      the meeting        at 6:53 p.m.
+Commissioner             Sieber         seconded.        Chair         LaMar          called     for the vote.      Chair     LaMar        voted   yes,
+Commissioner             Claerhout           voted       yes, Commissioner                     Hulsberg     voted    yes, Commissioner
+Larsen      voted    yes, Commissioner                      Lofgren          voted      yes, Commissioner            Sieber        voted   yes, and
+Commissioner             Wright          voted      yes. The       motion           passed      u'nanimously.
+                                                         r-            -"     /
+
+
+
+                                                                Sh'avffIiaMar.               Chair
+
+
+
+                                       Attest:                 Ee'S(n, City Recorder

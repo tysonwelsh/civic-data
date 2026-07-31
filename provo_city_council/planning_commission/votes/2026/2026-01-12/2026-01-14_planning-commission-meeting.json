@@ -1,0 +1,65 @@
+{
+ "date": "2026-01-14",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-01-12/2026-01-14_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "*ITEM 1 Development Services requests Zone Map Amendments to approximately 39 acres of land within a quarter-mile of the 2230 North UVX Station, as part of the Station Area Plan implementation, from the RC and SC2 Zones to the VLDR, LDR, MDR, and SC3 Zones. Carterville Neighborhood. Jessica Dahneke (801) 852-6413 jdahneke@provo.gov PLRZ20250689",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20250689",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 9:0",
+   "mover": "Lisa Jensen",
+   "seconder": "Barbara DeSoto",
+   "aye": [
+    "Matt Wheelwright",
+    "Jon Lyons",
+    "Barbara DeSoto",
+    "Lisa Jensen",
+    "Anne Allen",
+    "Daniel Gonzales",
+    "Melissa Kendall",
+    "Joel Temple",
+    "Jonathon Hill"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "ITEM 2 BYU requests Project Plan approval for the demolition and reconstruction of the BYU Administration building in the PF (Public Facilities) Zone, located approximately at 530 East 1230 North. University Neighborhood. Nancy Robison (801) 852-6417 nrobison@provo.gov PLPPA20250289",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLPPA20250289",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "9:0 Approved (Final Action)",
+   "mover": "Matt Wheelwright",
+   "seconder": "Lisa Jensen",
+   "aye": [
+    "Matt Wheelwright",
+    "Jon Lyons",
+    "Barbara DeSoto",
+    "Lisa Jensen",
+    "Jonathon Hill",
+    "Melissa Kendall",
+    "Daniel Gonzales",
+    "Anne Allen",
+    "Joel Temple"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

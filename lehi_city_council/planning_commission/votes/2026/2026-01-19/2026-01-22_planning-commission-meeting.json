@@ -1,0 +1,96 @@
+{
+ "date": "2026-01-22",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2026/2026-01-19/2026-01-22_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Gregory Jackson",
+  "Lindsay Gehman",
+  "Stephen Su’a-Filo"
+ ],
+ "members_absent": [
+  "Beau Jones",
+  "Ken Roberts"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Approval of minutes from the January 8, 2026 meeting.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Lindsay Gehman",
+   "aye": [
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Gregory Jackson",
+    "Lindsay Gehman",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and consideration of James Whitmore’s request for conditional use approval of the SAJ Lehi RV Storage located at approximately 4300 North Digital Drive",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Gregory Jackson",
+   "seconder": "Stephen Su’a-Filo",
+   "aye": [
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Gregory Jackson",
+    "Lindsay Gehman",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and recommendation of JDH Development’s request for an exception for a required trail connection to a master planned trail and to meet the block length; the exception is requested due to grade on Vivian Estates Phase 2B located at approximately 2600 North and 600 East.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation 5:0",
+   "mover": "Gregory Jackson",
+   "seconder": "Stephen Su’a-Filo",
+   "aye": [
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Gregory Jackson",
+    "Lindsay Gehman",
+    "Stephen Su’a-Filo"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

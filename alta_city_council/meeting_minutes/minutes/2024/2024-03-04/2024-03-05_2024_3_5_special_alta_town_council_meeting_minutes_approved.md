@@ -1,0 +1,159 @@
+---
+title: Alta Town Council — Special Meeting 2024-03-05
+date: 2024-03-05
+meeting_type: special
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1108781.pdf
+source_file: 2024-3-5 Special Alta Town Council Meeting Minutes APPROVED.pdf
+pmn_file_id: 1108781
+format: ocr
+---
+
+) MINUTES
+SPECIAL ALTA TOWN COUNCIL MEETING
+Tuesday, March 5, 2024, 4:00 PM
+Alta Community Center, 10351 E. Highway 210, Alta, Utah 3
+PRESENT: Mayor Roger Bourke |
+Councilmember Carolyn Anctil ; |
+Councilmember John Byrne (virtual) |
+Councilmember Elise Morgan (virtual)
+Councilmember Dan Schilling
+STAFF PRESENT: Chris Cawley, Town Manager |
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk
+, Molly Austin, Deputy Town Clerk
+Chris Otto, Assistant Town Manager (virtual) .
+. Craig Heimark, Treasurer _
+. ALSO PRESENT: Cameron Platt, Legal Counsel °
+ALTA TOWN COUNCIL MEETING |
+1. CALL THE MEETING TO ORDER
+00:00:00 .
+. Mayor Bourke called the March 5, 2024 Special Alta Town Council meeting to discuss aresolution -
+regarding the Utah Department of Transportation’s (UDOT) Little Cottonwood Canyon (LCC) :
+Environmental Impact Statement (EIS) to order. :
+2. DISCUSSION OF THE TOWN OF ALTA RESPONSE TO THE LITTLE COTTONWOOD CANYON |
+ENVIRONMENTAL IMPACT STATEMENT
+00:02:00
+The discussion began with Carolyn Anctil expressing approval for addressing concerns about the :
+Council's relationship with UDOT but had specific points to address. Anctil expressed appreciation for
+the initial focus on addressing Elise Morgan’s concerns regarding the Town's relationship with UDOT.
+John Byrne expressed support for certain aspects of the letter but voiced concerns about potentially
+joining a chorus of opposition without effect and suggested the Town make improvements to specific )
+sections of the draft resolution. Morgan expressed support for outlining immediate actions that can be
+taken regarding traffic congestion in the canyon, referenced discussions about the Alta-Snowbird
+Bypass Road, traction law enforcement, and Snowbird's merge points. Morgan also emphasized the
+Alta Town Council Meeting
+: March 5, 2024 1. | |
+
+need for practical steps rather than solely rejecting the gondola proposal and echoed sentiments that
+advocated for focusing on present solutions unique to Little Cottonwood Canyon. Morgan suggested
+avoiding a resolution that mimicked those of larger entities like Salt Lake City or County, aiming for a
+distinct approach tailored to the LCC's needs. Morgan noted the prevalence of references to external
+letters and resolutions, proposing a more original stance for the council's actions. Mayor Bourke
+emphasized the importance of taking a clear stand on the matter due to the Town's significant stake in
+the issue. Morgan suggested focusing on actionable steps rather than simply opposing the gondola. ;
+Dan Schilling stressed the need to avoid alienating partners like UDOT while still expressing the Town's |
+unique perspective. Anctil echoed the sentiment of breaking the Town's silence on the matter and
+supported the idea of expressing a unique viewpoint. Chris Cawley reminded the Council that the :
+reference to the Jenny Wilson letter from the County was included because of direction from the :
+Council in previous meetings. . ,
+Byrne. pointed out inconsistencies between the proposed resolution and previous statements
+regarding phase one and phase two evaluations. Mayor Bourke highlighted the importance of . sy
+expressing opposition to the gondola while still addressing the broader transportation issues. Schilling
+emphasized the Council's united position against the gondola and the need to address ongoing
+challenges. Anctil suggested revising section two of the resolution for clarity and consistency. Jen
+Clancy offered to assist with editing the document in real time. Morgan elaborated on her stance
+regarding the gondola proposal, emphasizing the importance of addressing both phase one and phase
+two outlined in the (EIS). While expressing personal reservations about the gondola, Morgan
+recognized its connection to broader issues such as tolling and its potential impact on the local
+business community. Morgan proposed several options for the Council's resolution, including crafting
+a comprehensive statement covering all aspects of the EIS, a specific resolution regarding the gondola,
+and a separate resolution addressing phase one and phase two developments. Morgan advocated for
+a nuanced approach that considers the multifaceted implications of the EIS on the Town's interests.
+Mike Maughan addressed the Council, and suggested utilizing unspent funds allocated for addressing
+transportation issues in LCC, specifically the "red snake" traffic congestion. Maughan proposed
+. redirecting these funds to address local concerns independently of the ongoing EIS. Maughan also-
+questioned the potential impact on the business community if the Town took a stance against the -
+gondola. Schilling emphasized the importance of the Town's opposition to the gondola, aligning with
+constituents’ expectations. Anctil expressed appreciation for Maughan's comments and suggested
+incorporating them into the resolution. Mayor Bourke suggested keeping the first bullet point about
+the traction law in the resolution but possibly shortening it for clarity. Maughan provided additional
+. context about the traction law and proposed a modification to tie it to snow forecasts rather than
+specific dates. Schilling expressed support for a blanket statement covering a specific time frame for :
+_ the traction law. Byrne and Anctil also expressed agreement with the proposed changes. Jen Clancy
+made note of the edits accordingly based on the discussion.
+There was further discussion about including language in the resolution to focus on short-term
+congestion problems and solutions that do not require an EIS. Craig Heimark suggested adding
+language to address congestion issues immediately without waiting for the gondola project to be
+Alta Town Council Meeting .
+March 5, 2024 2 |
+
+completed. Schilling proposed edits to simplify the resolution and emphasize the Council's request to |
+utilize the estimated $42 million allocated for addressing transportation hotspots in LCC. Maughan and
+' Anctil discussed separating efforts to mitigate congestion at Snowbird from other congestion issues,
+such as keeping the mainline open. Overall, there were discussions about streamlining the resolution :
+and highlighting the Council's support for immediate action on congestion problems. The discussion
+primarily centered around finding ways to address traffic congestion and ensure public safety in the |
+canyon area. Maughan emphasized the need for an equitable merge between Alta and Snowbird |
+traffic, considering the interests of both businesses and the Town's emergency services. Anctil
+suggested separating the merge point issue from other congestion mitigation efforts. The group !
+agreed to leave certain bullet points unchanged and suggested addressing the EIS and potential _
+projects not addressed in the EIS separately. Overall, the conversation underscored the complexity of
+managing traffic in the canyon and the importance of balancing various stakeholders’ needs. .
+Anctil expressed concerns about tolling in the middle of the canyon and how tolling would affect
+delivery vehicles, suggesting that it might not effectively manage traffic as intended. Maughan echoed
+these sentiments, highlighting that tolling might not reduce congestion as desired and proposed other
+measures like parking reservations. Byrne noted the complexity of managing traffic shifts throughout |
+the day. Heimark agreed with Maughan's points about tolling and proposed alternative tolling |
+technologies for better traffic management. Schilling proposed the wording be formatted as an .
+umbrella approach to entry control measures, including tolling, reservation verification, and traction
+compliance, suggesting that they ail fall under the same category. Mayor Bourke expressed
+uncertainty about tolling as an entry control measure due to the lack of information and proposed
+exploring it further. Anctil suggested condensing the bullet points related to tolling into one statement
+supporting the exploration of tolling and other entry control measures. Maughan questioned whether
+this proposal should be its own section. Discussion ensued regarding the wording of the Council's
+position on tolling and the exploration of alternative solutions to traffic congestion, including a gondola
+construction proposal. The council debated whether to explicitly reject the gondola proposal or focus
+on mitigating traffic issues through other measures while keeping the gondola as a distant possibility. .
+Ultimately, they aimed to find a balanced approach that acknowledged community concerns while
+remaining open to collaboration with other stakeholders. |
+Anctil also brought up suggestions from Margaret Bourke, a local resident, advocating for no roadside
+parking and enhanced bus services, which were deemed important for the Town's well-being.
+Maughan highlighted the challenge of replacing roadside parking and the importance of considering
+public safety. Byrne proposed urging further exploration of alternatives before committing to gondola a
+construction. Schilling voiced opposition to the gondola as a solution but expressed willingness to
+collaborate on other mitigation measures. Mayor Bourke advocated for a clear stance against the i
+gondola without caveats, emphasizing community sentiment. The Council discussed the need for a
+firm position while exploring various traffic mitigation options. Morgan emphasized the importance of
+addressing phase one and phase two developments comprehensively, considering the broader impacts
+beyond just the gondola proposal. Various council members expressed support for exploring
+alternatives to the gondola and emphasized the need for collaboration with UDOT on phases one and
+Alta Town Council Meeting
+March 5, 2024 3
+
+two of the project. Concerns were raised about the wording of certain sections and the need for more
+comprehensive evaluation of transportation alternatives beyond the EIS.
+Mayor Bourke reported on a meeting with UDOT about a concept to create a special district to fund
+and or operate transit services in the Cottonwood Canyons, although it was acknowledged that this
+idea is still in its early stages. The Council agreed to continue refining the resolution and work towards
+a consensus in future meetings. Overall, there was a consensus that while progress had been made,
+further discussion and refinement of the resolution were needed. The Council discussed exploring
+potential solutions, acknowledging that technology and regulations may change in the future. Schilling
+emphasized the importance of exploring possibilities and turning them into probabilities through
+detailed evaluation. Mayor Bourke expressed optimism about passing a resolution at the upcoming
+Town Council meeting. Overall, there was a sense of determination to address the transportation
+challenges facing the community.
+3. MOTION TO ADJOURN
+
+01:23:45
+
+MOTION: Dan Schilling motioned to adjourn, and Elise Morgan seconded.
+
+VOTE: Allin favor. The meeting was adjourned unanimously.
+
+RESULT: APPROVED
+Passed this 10" day of April, 2024
+“ee Town coe >
+Alta Town Council Meeting
+March 5, 2024 4

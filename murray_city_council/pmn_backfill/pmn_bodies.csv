@@ -1,0 +1,6 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+213,735,Municipal Council,yes,meeting_minutes,,pm4,2020-01-01,also carries Committee of the Whole / workshop / budget series (wave lesson)
+213,983,Planning and Zoning Commission,yes,planning_commission,,pm4,2020-01-01,not probed by fetch_new (HANDOFF seeding fact)
+213,987,Redevelopment Agency,no,,,,,inventoried-only (wave scope decision) — revisit if an agency layer is added
+213,6863,Municipal Building Authority of Murray City,no,,,,,inventoried-only (wave scope decision)
+213,977,Murray City Center District (MCCD) Design Review Committee,no,,,,,inventoried-only (wave scope decision)

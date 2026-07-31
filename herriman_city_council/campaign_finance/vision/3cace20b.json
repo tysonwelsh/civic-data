@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "JUNE 21", "name": "Aly Escobar", "amount": "25.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "JUNE 21", "recipient": "ALY ESCOBAR", "purpose": "FILLING FEE", "amount": "25.00", "in_kind": false}
+  ],
+  "total_contributions": "25.00",
+  "total_expenditures": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/2399_Aly-EscobarDistrict-2.pdf",
+    "candidate": "Aly Escobar",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2399_Aly-EscobarDistrict-2.pdf",
+    "pages": 5,
+    "notes": "Handwritten filing, District 2 council (office field reads 'CC #2'). Type-of-report box checked: 'NOT Eliminated by Primary - No later than seven days before... October 26, 2021' -> interim. Signed 10/25/21. Schedule A: the top data row is scribbled out/voided (no legible content); a single valid contribution 'JUNE 21 / Aly Escobar / 5064 W Bicston / 25.00' (self-funded; address partial as written '5064 W Bicston' - cf. cover '5064 W BILSTORY LN #2'). Contribution amount written '25' with a superscript '00' cents mark = 25.00. Schedule B: single expenditure 'JUNE 21 / ALY ESCOBAR / FILLING FEE / 25.00' - recipient printed as the candidate herself, and 'FILLING FEE' is the filer's spelling (typo for filing fee); both retained verbatim. Schedule C blank (all cells crossed out). Summary Page sparsely and messily completed: line 1 (Total Contributions) Column A = 25.00; line 2 (Total Expenditures Made) left BLANK, so total_expenditures recorded null even though Schedule B itemizes 25.00 (no printed total exists - not summed). Balance lines 3-7 all blank -> beginning_balance and ending_balance null. The 'Attach Schedule C in-kind' summary row has '25.00' written in both Column A and Column B despite Schedule C being empty - apparent filer error, not recorded as an in-kind contribution. Dates written as 'JUNE 21' with no explicit year; kept verbatim."
+  }
+}

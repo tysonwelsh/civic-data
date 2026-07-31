@@ -1,0 +1,206 @@
+{
+ "date": "2022-05-05",
+ "year": 2022,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little",
+  "Phillip Cardenaz"
+ ],
+ "source": "meeting_minutes/minutes/2022/2022-05-05/2022-05-05_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to accept the White City Metro Township Financial Report",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to accept the minutes of the White City Metro Township Council meeting held on March 31, 2022",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to accept the minutes of the White City Metro Township Council meeting held on April 7, 2022",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to appoint Chris Huntzinger as a full-time Planning Commissioner and defer the other appointments until the Council has the opportunity to hear from the other applicants. The motion",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve Resolution 2022-05-01, appointing Chris Huntzinger to the White City Metro Township Planning Commission as a full-time Commissioner",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 6,
+   "motion": "to approve Resolution 2022-05-01, appointing Gene Wilson to the White City Metro Township Planning Commission as a full-time Commissioner",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Phillip Cardenaz",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 7,
+   "motion": "to approve Resolution 2022-05-01, appointing Weston Millen to the White City Metro Township Planning Commission as an alternate commissioner",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "4-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 8,
+   "motion": "to defer the appointment of one alternate commissioner",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 9,
+   "motion": "to adopt Resolution 2022-05-02",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "Pass (unanimous)",
+   "mover": "Scott Little",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

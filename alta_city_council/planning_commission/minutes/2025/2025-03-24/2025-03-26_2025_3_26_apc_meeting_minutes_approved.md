@@ -1,0 +1,369 @@
+---
+title: Alta Planning Commission — Regular Meeting 2025-03-26
+date: 2025-03-26
+meeting_type: regular
+body: PlanningCommission
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1299003.pdf
+source_file: 2025-3-26 APC Meeting Minutes _ Approved.pdf
+pmn_file_id: 1299003
+format: ocr
+---
+
+MEETING MINUTES
+ALTA PLANNING COMMISSION MEETING
+Wednesday, March 26, 2025, 3:00 PM
+Alta Community Center, 10351 E. Highway 210, Alta, Utah
+ALTA PLANNING COMMISSION MEETING — 3:00 PM
+PRESENT: Jon Nepstad, Chair (joined virtually)
+Jeff Niermeyer, Vice-Chair
+Rob Voye
+David Abraham (joined virtually at 3:09)
+Maren Askins
+Roger Bourke, Town of Alta Mayor
+STAFF PRESENT: Chris Cawley, Town Manager
+Molly Austin, Assistant Town Manager
+Polly McLean, Town Attorney
+ALSO PRESENT: John Guldner, Cottonwood Lands Advisory (joined virtually)
+NOT PRESENT:
+1. INTRODUCTION AND WELCOME FROM THE CHAIR
+Planning Commission Chair Jon Nepstad opened the March 26, 2025 meeting at 3:03 PM.
+2, PUBLIC COMMENT
+No public comments received.
+3. APPROVAL OF MINUTES FROM THE FEBRUARY 26, 2025, MEETING
+Jon Nepstad noted that earlier today Molly Austin sent out a few minor clarifying edits to the
+version of the minutes that were originally sent out in the packet. At the top of page 3, the
+language was updated to clarify the Shrontz Estate’s proposed new width of the Albion Basin
+Summer Road, and on page 4 the minutes were clarified to read that the Estate received an email,
+rather than a letter, from Salt Lake City Department of Public Utilties (SLCDPU) demonstrating
+SLCDPU’s consent for the Estate to move forward with the Shrontz Estate’s new development
+concept.
+Rob Voye moved to approve the minutes from the February 26, 2025 meeting, as amended. Jeff
+Niermeyer seconded. All in favor and minutes approved.
+Alta Planning Commission Meeting Minutes
+March 26, 2025 1
+
+4, PRESENTATION AND DISCUSSION: SHALLOW SHAFT REDEVELOPMENT
+PROPOSAL
+Chris Cawley described that the purpose of the meeting is to discuss an updated redevelopment
+concept from the owners of the Shallow Shaft Restaurant, that was previously discussed in April
+2024. The primary topic for discussion is a proposed text amendment to the Base Facilities Zone
+(BFZ) to increase the minimum lot size and width requirements on properties subject to BFZ,
+Zone C, which would affect the Shallow Shaft and Photohaus properties. Cawley described that
+with this new proposal, the size of the building and total number of units inside have changed,
+but he expressed that from the Town’s perspective, there are still some concerns with non-
+compliance issues such as hotel rooms with kitchens, which meet the Town’s definition of a»
+“dwelling unit. Dwellings and other residential which are prohibited in the Base Facility Zone.
+Another issue with the proposed building is that it is within 50 feet of a culvert.
+Jon Nepstad requested that the Planning Commission members hold any questions until the very
+end of the presentation.
+Andrina Hougham introduced herself and her husband, Walter Krebsbach, as owners of the
+Shallow Shaft restaurant. Hougham explained that they are back with a new proposal after taking
+into consideration the feedback received from the Planning Commission from the previous one
+presented last year. She said that it is their goal to develop something that both the Town and the
+owners can feel proud of.
+Hougham summarized the key updates to the proposal from the previous one:
+e Employee housing added
+e Coffee shop added as a community amenity/gathering space
+e Reduced the number of rooms from 8 to 5
+e Adjusted parking structure entrance and size
+e Redesign building for avalanche safety
+e Snow melt management system added
+Andrina Hougham stated that they are still requesting a text amendment to align lot size and
+width requirements with the practical constraints of Zone C. She stated that feedback on the
+revised proposal is requested before proceeding with a formal submission.
+Hougham then provided an overview of the refined vision for the Shallow Shaft property,
+summarizing their goals with the new proposal: )
+e Replace outdated structure with a modern, sustainable design
+e Reorient the building to better utilize the site
+e Ensure full code compliance
+e Focus on health, safety, and sustainability
+e Repurpose the restaurant and apartment into transient accommodations consistent
+with BEZ purpose and permitted hotel use
+Alta Planning Commission Meeting Minutes
+March 26, 2025 2
+
+Hougham provided some background information on the involvement that the Shallow Shaft has
+had in the Alta Community for the past 38 years. She emphasized that Alta is a part of the fabric
+of her family, just like it is to many other families.
+Proposal Overview
+Hougham said that the proposed use for the building would be a hotel, stating that transient
+accommodation and uses are permitted within the BFZ. Hougham stated that they are not
+proposing short-term rentals, but they believe their proposal fits under the definition of a hotel as
+defined in Town of Alta code. The proposed building would not include residential units or
+condominiums.
+Hougham then addressed the inclusion of rooms with kitchens in the proposal, sharing that there
+is evidence of 3 of the lodges in Alta that are already renting hotel rooms with kitchens.
+Hougham described a site survey that Walter Krebsbach had completed to determine the
+property boundary in 2013. She noted that the results of the survey indicate that there has been
+parking regulated by the Town of Alta on Shallow Shaft property without formal recognition of
+the private property boundary.
+Roger Bourke inquired about the location of the culvert. Hougham described that the culvert is
+on their property and runs under the road.
+Hougham described the proposed site location compared to the current building, stating that the
+new concept would move the building away from the road and open more green space between
+the surrounding buildings. The new site also optimizes solar exposure for increased energy
+efficiency. The design is inspired by the current design of the Shallow Shaft building.
+Hougham then detailed the proposal concept, highlighting the following features:
+e Lower level:
+o Covered parking garage with S parking spaces, that incorporates UDOT
+feedback and includes an EV charging station
+o Coffee shop & bathrooms
+o Lobby and check-in area
+© Hotel support spaces such as laundry and mechanical
+e Level |
+o Employee housing for workforce support
+o 3 hotel units
+e Level 2
+o 2 hotel units
+e Solar Panels and green roof to enhance insulation and reduce environmental impact
+Hougham then compared the size of the proposed new structure to that of the current building,
+noting that the site coverage would increase from 44% to 51% and the height would increase
+from 28 feet to 35 feet.
+Alta Planning Commission Meeting Minutes
+March 26, 2025 3
+
+Culvert Management
+
+A conversation then took place regarding the existing culvert and stormwater management. Alta
+
+Code 10-6D-14 (G) states that no building may be constructed within 50’ of a waterway. There
+
+was some discussion and disagreement about responsibility for stormwater management and
+
+whether various waterways were natural or artificial. Representatives of the Shallow Shaft
+
+believe that the culvert is part of an artificial stormwater management system and that it can be
+
+relocated or deemed unnecessary by diverting off-site storm water elsewhere. The Town of Alta
+
+asserts that the water that flows through the culvert is part of a natural drainage channel, and
+
+water would flow through the property with or without the culvert, maintaining that the
+
+waterway would exist naturally on the Shallow Shaft property and the proposed building would
+
+not meet the 50’ setback requirements.
+
+Hougham presented a few ideas to mitigate the culvert dilemma, but ultimately it was established
+
+that the Planning Commission has no authority over the code requirements on this issue, so the
+
+culvert is immaterial for the purposes of this meeting. Hougham expressed the desire to work
+
+with the Town to find a solution, but it is difficult due to lack of documentation and information .
+
+on the history of the culvert.
+
+Proposed Text Amendment Change
+
+Andrina Hougham detailed the proposed text amendment, stating that it would reduce the
+
+minimum lot size from 1 to less than 0.13 net developable acres in Zone C of the BFZ. This
+
+proposed amendment would allow non-conforming properties to become conforming.
+
+Jeff Niermeyer pointed out that “bullet point C” of the proposed text amendment doesn’t specify
+
+that it is only applying to Zone C and should be updated. Hougham concurred that this was an
+
+error on their part that would be corrected.
+
+Community Benefits
+
+Hougham concluded her presentation by highlighting some of the benefits they feel their
+
+proposal would contribute to Alta: .
+e Affordable employee housing
+e Coffee shop as community gathering spot . .
+e Anenvironmentally conscious design with minimal visual impact
+e Creation of new transient lodging option with ADA accessible units .
+e Increased property and sales tax revenue
+
+Discussion
+
+Jeff Niermeyer asked if the culvert and drainage systems were installed before or after they
+
+purchased the property. Hougham and Krebsbach noted that to the best of their knowledge that
+
+infrastructure had been in place when they purchased it, and further clarified that they don’t
+
+believe a culvert of that size is required to manage water on their property.
+
+Alta Planning Commission Meeting Minutes
+
+March 26, 2025 4
+
+Roger Bourke asked for some clarification on the culvert alternatives. Hougham described the
+following options:
+
+1. Relocate the culvert off the Shallow Shaft property
+
+2. Keep the culvert, but stop diverting off-site water through it
+
+3. Explore additional alternatives to meet the 50’ setback
+
+requirements
+
+Jeff Niermeyer asked if it was known how deep the culvert is under Michigan City Road. Chris
+Cawley noted it is not very deep, estimated at between | and 2 feet. Niermeyer considered the
+possibility of adding infrastructure under the Michigan City Road to help manage runoff.
+Cawley clarified that the area of the road in question is owned by the USFS, so the Town has no
+authority to do such a project.
+Jon Nepstad asked Polly MacLean for her opinion. Polly clarified that this is an inherent issue
+with the property, and is not something the Planning Commission or Town Council can address.
+McLean further noted that it is not only the Alta Town code, but SLCDPU also has prohibitions
+against building within 50 feet of a waterway.
+David Abraham agreed that the stormwater management issue is not for the Planning
+Commission to figure out. He then noted the changes made to the overall proposal that
+incorporated feedback from previous meetings, which was appreciated. Abraham asked about the
+presence of a window in the employee housing unit. Hougham confirmed that the design does
+include an above-grade window.
+Polly noted that having an employee housing unit is a requirement for new construction, and this
+design meets the requirement of 1 employee unit per 5 guest rooms.
+Hougham pointed out that the Town Office is located within 19’ of a culvert, not 50’ and that the
+building was built after the culvert was installed. Polly McLean noted that the existing Shallow
+Shaft building is also not 50’ away from the waterway and they would be allowed to rebuild on
+the current footprint with up to a 250 square foot expansion.
+Maren Askins asked if the use would have to remain the same, and McLean noted that they could
+apply any allowed use in that zone.
+John Guldner emphasized that culvert installation occurred prior to ownership of current
+properties by either Town of Alta or the Shallow Shaft, and it was all USFS property. He
+reiterated the Town’s belief that this is a natural water drainage pathway, and the culverts were
+installed to mitigate erosion of what is now known as the Michigan City Road as well as SR 210.
+David Abraham noted that, in his mind, the only remaining question to be discussed is
+understanding the definition of a hotel.
+Alta Planning Commission Meeting Minutes
+March 26, 2025 5
+
+Jeff Niermeyer highlighted the three constraints that need to be resolved before moving forward,
+given current Town of Alta ordinances:
+1. Proximity to a waterway
+2. Kitchens in a hotel room
+3. Minimum lot size requirement
+Polly McLean noted that the Town is looking into whether hotels in Alta are renting rooms with
+kitchens which may qualify as residential uses, but that none have been approved under the
+current code which specifies that no residential uses are permitted. By definition in Town Code,
+a residential use is defined as a “dwelling” that includes a kitchen. McLean offered the
+comparison of a speed limit, stating that if one gets pulled over for speeding and the next car
+drives by going faster, it doesn’t resolve one’s violation of the speed limit. She thanked
+Hougham for bringing this issue to the Town and reiterated that they are looking into it.
+Hougham emphasized that she feels like their proposal fits under the definition of a hotel — as
+nothing in the provided definition prohibits kitchens explicitly. McLean disagreed with that
+assessthent and recognized that this is not the appropriate arena to dive into those specifics,
+Jeff Niermeyer inquired about the intended ownership of the building. Hougham clarified that .
+there is no intent to sell any portion of the building, and it will remain family owned.
+Maren Askins asked about the management plan for the proposed building. Hougham stated that
+they are in conversation with Alta Chalets to provide management services, with the included
+employee unit intended to house an on-site employee, although the details have yet to be
+determined. Askins noted that a hotel requires a number of employees and departments to
+provide the level of service she would expect at a hotel, while recognizing that is not a legal
+requirement.
+Jon Nepstad noted that perhaps we could use some clarification on what defines a kitchen — as
+there is a wide range of kitchen amenities that could be provided. David Abraham believes that .
+the design as presented constitutes a kitchen, and he is more concerned about ensuring that the
+entire parcel will remain under single ownership and units won’t be subdivided.
+_ Nepstad noted that another characteristic to consider is laundry facilities, noting that he has never
+stayed in a hotel that includes in-room laundry. Hougham clarified that there is one shared
+laundry facility in the proposed building that is intended to be used primarily for hotel
+housekeeping use, but didn’t rule out the possibility of allowing guests to use it for personal use.
+Niermeyer noted the need to conduct an avalanche study to ensure the proposed building would
+be designed appropriately. This need has been acknowledged by Shallow Shaft ownership, and it
+was noted that they would conduct such a study once the intended use and design of the building
+was finalized. Chris Cawley noted the high risk of avalanches in that area and clarified that the
+use of the building doesn’t have an impact on the design requirements; the building would have
+to be design to protect human occupants from a 100-year avalanche event whether it is a single-
+family home or a larger hotel building.
+Alta Planning Commission Meeting Minutes
+March 26, 2025 6
+
+Rob Voye inquired if the conversation could realistically proceed without addressing the culvert
+issue. Jay Springer introduced himself as legal counsel for Shallow Shaft. He clarified that the
+application that would come before the commission would be for a proposed text amendment to
+allow properties in Zone C to do something other than tear down and rebuild. The Town requires
+that a building plan is provided along with the request for the text amendment, so they have done
+so, but it is not mandatory for the plan presented at this juncture to meet all the technical issues
+that the Planning Commission is discussing
+
+Rob Voye asked how long the building has been out of operation and it was determined that it
+has been 5 years - since March of 2020. Voye expressed that the vacant building is a bit of an
+eye-sore in the middle of town and conveyed a desire to work within the existing rules to solve
+the problem.
+
+Chris Cawley acknowledged that an avalanche design is not required for the Town to consider a
+text amendment, but strongly encouraged the Shallow Shaft to take that requirement into
+consideration as they continue down this path, noting potentially significant financial impacts.
+Polly McLean explained that a plan is required to request a text amendment to prove that the
+amendment is worthwhile. It wouldn’t be productive for the Town to approve an amendment if
+nothing were to come of it afterward. This part of the process is beneficial for the Town to
+provide feedback on the plan proposal to work towards finding a workable solution down the
+road.
+
+Maren Askins asked if there was still a possibility of operating a restaurant in the current
+building as is. Andrina Hougham stated that they are not willing to operate a restaurant in the
+current building as it exists.
+
+There was a brief conversation about the concern of “spot zoning.” Jay Springer disagreed that
+his client’s proposed text amendment would be spot zoning, observed that there have been very
+few if any spot zoning cases argued in the Utah courts, and stated they are proposing a change
+for a defined zone.
+
+Maren Askins asked how the Phothaus property would be affected if the text amendment was
+approved, since it is also in BFZ C. Chris Cawley clarified that, as written, the proposed text
+amendment would alleviate the current substandard nature of the Photohaus lot and might allow
+them to alter their building footprint, but may not allow for a building expansion due to lot
+coverage requirements.
+
+Rob Voye reiterated that for now, the focus should be on the inclusion of kitchens. Jon Nepstad
+noted that was not a question that could be resolved today. Polly McLean stated that the Town’s
+interpretation is that any unit that has a kitchen is considered a “dwelling”, and a “dwelling” is
+defined as a residential use, which is currently prohibited in the BFZ. A hotel with no kitchens
+would be allowed. While it was not on the agenda for this meeting, the concept of updating the
+Town’s purpose statement, or General Plan, to allow such uses could be considered, but that is a
+bigger topic that cannot be addressed in a single meeting. Chris Cawley noted that the Planning
+Alta Planning Commission Meeting Minutes
+March 26, 2025 fi
+
+| Commission authors the General Plan and is in the position make recommendations on landuse
+regulations to the Town Council. He continued that the Town has not deliberately permitted
+hotel rooms with kitchens, but that employee accommodations, or “owner’s units”, have been
+approved with kitchen amenities and that some of the rental activity noted by the Shallow Shaft
+may involve these owners units or other employee accomodations. Those types of rooms were
+never counted towards hotel room density, so rental of them as hotel rooms would be a zoning
+violation, and the Town is looking into these concerns. He continued that while the Town
+doesn’t currently allow hotel rooms to have kitchens, the Town could consider updating
+regulations to permit them, perhaps through an update to the General Plan.
+David Abraham explained that without the proposed text amendment, options would be very
+limited for the Shallow Shaft building to improve as they would be confined to the existing
+footprint.
+A conversation then took place about the history of the acreage requirements. The owners of the
+Shallow Shaft believe that the minimum lot size was half an acre at the time they purchased the
+property, siting that the change came in 2008 setting the 1-acre requirement. John Guldner
+expressed that the Town asserts the requirement has always been 1 net-developable acre for
+commercial properties, clarifying that the half-acre lot size has always applied to residential
+buildings. Polly McLean noted that the Shallow Shaft may have to conduct an analysis to
+determine the net-developable acreage of the parcel, as the .21 acres they are requesting in the
+text amendment reflects the total lot size and may not result in any change to what they can build
+if the net-developable acreage is less than that.
+To conclude, the conversation turned once again to the inclusion of kitchens in hotel rooms, with
+commissioners questioning if a precedent would be set if such use was allowed in this instance.
+Chris Cawley clarified that it is something that must be regulated and will not be permitted
+without the Town’s zoning regulations being updated. As one example of why the Town would
+need to carefully consider allowing hotel rooms with kitchens, Cawley described that such uses
+may requite more culinary water source supply than hotel rooms, which could strain the Town of
+Alta’s culinary water supply if they were to proliferate as hotel properties redevelop in the future.
+5. NEW BUSINESS
+No new business was discussed.
+6. DATE OF NEXT MEETING
+The next meeting is scheduled for April 23, 2025, at 3:00 PM.
+7. MOTION TO ADJOURN
+Planning Commission member Rob Voye moved to adjourn the meeting. Planning Commission
+Member Jeff Niermeyer seconded the motion, and the motion was carried with unanimous consent
+of the commission.
+Alta Planning Commission Meeting Minutes
+. March 26, 2025 8
+
+Minutes Approved on July 15, 2025
+is Cawley; Town Manager
+Alta Planning Commission Meeting Minutes
+March 26, 2025 9

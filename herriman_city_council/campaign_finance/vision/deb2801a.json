@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "06/06/2025", "name": "RODMAN D GRIMM", "amount": "25.00", "in_kind": false},
+    {"date": "07/29/2025", "name": "RODMAN D GRIMM", "amount": "2500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "07/30/2025", "recipient": "HERRIMAN JOURNAL", "purpose": "Advertising (check was written but not yet cashed)", "amount": "100.00", "in_kind": false},
+    {"date": "06/06/2025", "recipient": "HERRIMAN CITY", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false}
+  ],
+  "total_contributions": "2525.00",
+  "total_expenditures": "125.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "2500.00",
+  "ending_balance": "2500.00",
+  "_meta": {
+    "index_path": "raw/5785_Grimm-Rodman-District-3-August-5-Report.pdf",
+    "candidate": "Rodman Grimm",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/5785_Grimm-Rodman-District-3-August-5-Report.pdf",
+    "pages": 7
+  }
+}

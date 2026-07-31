@@ -1,0 +1,351 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_10122020-408
+> Meeting date: 2020-10-12
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2020-10-12
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_10122020-408
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                            Minutes              of the
+                                                                                                   Millcreek              City      Council
+                                                                                                        October            12,      2020
+                                                                                                                 6:30       p.m.
+                                                                                                            Work          Meeting
+                                                                                                                 7:00       p.m.
+                                                                                                        Regular             Meeting
+
+
+Tlie     City     Council         of Millcreek,                Utah,      met in a public              work       meeting          and regular              meeting      on
+ October         12, 2020         at City           Hall,     located      at 3330        S. 1300           E., Millcreek,            UT      84106.         The meeting
+was conducted                 electronically                per Millcreek             State of Local             Emergency                Directive         No.     2 of 2020
+and live         streamed         via the City's                 website       with      an option          for online           public      coi'nunent.
+
+
+PRESENT:
+
+
+Council           Members                                                                City       Staff
+Jeff     Silvestrini,         Mayor                                                      John       Brems,         City     Attoniey
+Silvia       Catten,      District         I                                             Elyse       Sullivan,           City     Recorder
+Dwight           Marchant,         District           2                                  Francis        Lilly,      Planning           and Zoning             Director
+Cheri      Jackson,          District          3                                         John       Miller,       City     Engineer
+Bev      Uipi,     District       4 (arrived at 6:36 pm)                                 Rita      Lund,       Commtinications                   Director
+                                                                                         Kurt       Hansen,         Legislative            Policy         Director
+                                                                                         Laurie        Johnson,           HR-Finance              Director
+
+
+
+
+Attendees:             Lizette       Dutson,           Thom          DeSirant,          Laura       Ingersoll,          Justin     Peterson,          and Chief          Steve
+DeBry.
+
+
+WORK             MEETING                - 6:30            p.m.
+TIME         COMMENCED:                             6:33      p.m.
+
+
+Mayor        Silvestrini          called           the work          meeting      to order.
+
+
+1.   Policing        in Millcreek                  Update;           Council          Member           Bev       Uipi
+Council          Member          Uipi      was not present                 for this item.
+
+
+Council          Member           Jackson              moved          to reorder          the      agenda          to talk        about       future         code
+regulations.            Council          Member                Catten        seconded.             Mayor         Silvestrini           called       for      the vote.     All
+Council          Members             present           voted         yes. The         motion         passed        unanimously.
+
+
+2. Discussion              on Future                Code         Regulations;            Kurt        Hansen,            Legislative           Policy         Director
+Kurt     Hansen         went      over         his proposed              code regulations               and amendments.                     The     first     was on the
+definition         of "lot       coverage"             to include          impervious              surfaces.       Mayor           Silvestrini         asked      if decks
+were     included         in lot coverage.                   Lilly     said they        were       counted         for setbacks             but not for lot coverage.
+Council          Member          Jackson            asked        about     artificial      turf.     Hansen         said that would                 be included          as an
+impervious           surface.        The next               code regulation             was      emergency               caches.      Hansen           said tl'ie emergency
+Millcreek             City      Council         Meeting          Minutes                                               12 0ctober               2020           Page      2 of 6
+
+
+
+cache       had been part              of development                  agreements,          but      staff      would      like      to add the requirement                          to
+code for developments                         greater     than     50 units.          Council          Member           Catten         asked         about      developers'
+input.      Lilly      said the code needed                     to specify        the purpose            of the cache because                         developers           wanted
+context       for the requirement.                    He pointed           out that other              cities     did not have                that    type      of requirement
+in code.       Mayor            Silvestrini         said there         would       need to be enforceable                       standards.             Hansen          said
+another       regulation            would        be to create           a Historic         Preservation            Committee                  and updating              the
+current       code.      He said months                  ago he presented                 another       regulation             which        would         include         an
+impound-type                  fee for the pick-up                of shopping           carts.     He felt        that hiring           a service          to take        care of
+the problem             at $1,500 a month would                         be reasonable.               The      service      would         sweep          the city and pick
+the carts up routinely.                    Council        Member           Catten       pointed         out that stray               shopping           carts were            a
+problem         in her district.              The    Council           wanted      to explore           the issue         further.        Hansen             brought       up the
+proposaI        of an annual               inspection           with     the business           license         renewal         for multi-family                 rentals.         The
+Council        wondered             about       the inspection             being       complaint-driven.                  Hansen          said he did not want
+enforcement              to be selective.             Mayor        Silvestrini          wanted          the City        to have         the authority             for an
+annual       inspection            on a random            basis        and on a complaint-basis.                        Hansen          said         code enforcement
+requested            that recreational              vehicles       be limited          to no more             than one in the front                     yard.     The         Council
+felt that was reasonable.                      Hansen         said code          enforcement             would          like     to limit        portable         storage
+units/temporary                 structures          to 30 days          at residences.            Council         Member             Jackson           asked      for the
+option      for residents             to extend.          Mayor         Silvestrini        said the resident                   could     apply         to extend          the limit
+if there      was a good             reason         to. He said there              should       be a list of standards                   that would              be reasonable
+for extension.               Hansen        said the last regulation                   would          be to restrict            how     bright         lights     could        be at
+the property            line.     Mayor         Silvestrini        felt    that was an issue between                           neighbors,             not an issue             for the
+City      to enforce.
+
+
+3. Staff       Reports
+Mayor        Silvestrini           said Congress              appropriated            money           under      the CARES               Act         to state governrnents
+and counties             with      a population            greater        than     500,000.          Millcreek           entered        into         a local     agreement
+with      Salt Lake           County          and received             $1.8 million         in the first          distribution            of funding.             He said
+Millcreek            applied       for a second           distribution            and it was possible                   that there        may          be a third         wave        of
+funding.        Millcreek            had used           about     $50,000         in CARES              funding         to augment               technology              for city
+personnel            to work        remotely,         had provided               Unified        Fire    Authority              (UFA)          with     $90,000,          and had
+provided            Unified       Police       Department              (UPD)       with       $16,000.          He said funding                  could         be used for
+economic             stimulus.        Millcreek          had reimbursed                $1.3     million          to Millcreek            businesses              for
+advertising            expenses         through          a small        grant     program.           So far, Millcreek                 had      expended            about         $1.5
+million       of the first          round       of funding             and the second             round         must     be costs         incurred             by December
+31, 2020.           He said staff           had received               guidance        from      the State of Utah                   about       possible         expenses.
+Staff      was exploring              using      funding         for open         space improvements                      or the ice ribbon                    at the City
+Center.       The Mayor              said police          and fire        wages        and benefits             were      presumed              to be Covid-19                  related
+expenses            and documentation                   was not needed                for that.        He said he had been                      contemplating                 paying
+Millcreek's            share       of wages         and benefits           for UPD            with     the funds          to free up contract                    costs     and
+indebtedness             that Millcreek              already       had. Council               Member            Uipi     would         like     mental          health        unit
+training       and funding             for UPD.           Council         Member           Jackson           pointed       out that the public                   safety
+expenditures             should       be documented                    even if it was not required.                      Council         Member                Catten
+suggested            that some         funding          be used for the Millcreek                       Promise          Program.
+
+
+4. Discussion                of Agenda           Items,         Correspondence,                   and/or         Future          Agenda              Items
+There       was none.
+Mfflcreek      City      Council       Meeting            Minutes                                       12 0ctober             2020           Page 3 of 6
+
+
+
+Council      Member           Jackson         moved        to adjourn           the work           meeting        at 7:17 p.m.               Council
+Member        Uipi     seconded.         Mayor          Silvestrini        called     for     the vote. All             Council        Members            voted
+yes. The      motion      passed        unanimously.
+
+
+
+
+REGULAR              MEETING            - 7:00 p.m.
+TIME      COMMENCED:                      7:21 p.m.
+
+
+1. Welcome,          Introduction             and Preliminary              Matters
+          1.1 Pledge          of Allegiance
+            Mayor     Silvestrini       called     the meeting            to order then led the pledge                      of allegiance.
+
+
+          1.2 Public          Comment
+          There      was no comrnent.
+
+
+2. Business        Matters
+          2.1 Presentation             of 3800 S. Skyline                 High      School          Project;      John       Mffler,          City     Engineer
+          Mayor       Silvestrini       said there was traffic                  congestion          by Skyline          High        School      in the
+          mornings        and afternoons.               John Miller        said in the fall of 2019,                    a traffic      impact        study was
+          conducted           for Skyline       High       Scliool.      The study concluded                    that the resolution              for the
+          congestion          worild    be a roundabout                at Virginia         Way       and Upland           Diive.       He said UDOT
+          also did a study on the 3900 S. and I-215                               interchange          around         the same time.             They     came
+          to the same conclusion                 that Upland            Drive     failed      during        certain      peak times           of the day as a
+          direct     result     of school      times       at Skyline       High      School.         One of the alternatives                   UDOT         had
+          proposed        that would          improve        the traffic        failure     was the roundabout.                     Miller     said Millcreek
+          applied      for a grant with           the Wasatch            Front      Regional          Council         for the project           and was
+          awarded        $2 million       under         the condition           that an environmental                   study be conducted                at the
+          City's     expense.       Miller      said the draft environmental                        document            was prepared            by Avenrie
+          Consultants.          He showed          the Council           depictions          of the widest            possible        footprint        of what
+          property       would      be impacted            in that area. He went through                        the right-of-way                acquisition
+          process      which      would        identify      impacts,       cominunicate              with      property       owners,          determine
+          property       value,     and purchase            property.       He gave a project                  overview        and said tlie proposed
+          improvements            would        include       a roundabout            at the Virginia            Way       and Upland            Drive
+          intersection,         a raised median             at Birch      Drive      and Upland             Drive       intersection,           a mid-block
+          signalized      pedestrian          crossing        west of Birch           Drive,        new sidewalks              and bike routes,              new
+          roadway        signage       and pavement            markings,           and modified             utilities      and drainage              systems
+          where      necessary.        Council       Member            Jackson       asked about any received                        public      comments
+          about removing            the left hand turn off of Birch                        Drive.      Miller     said Avenue                Consultants
+          would      address coinments              received           during     the public         hearing.         He said there would                 be no
+          adverse      effect     to three historical           buildings         in the area and the right-of-way                             acquisition
+          would      affect     eight properties,            including          six residences.          Miller         reviewed        the project
+          schedule       which      started      with      finishing      the environmental                  document          in December              2020,
+          right-of-way          acquisition        and the final          design      to be approved              by UDOT              worild        take place
+          in winter      2020-spring           2021,       and construction               worild     begin      in the summer                of 2021.
+          Council      Member          Uipi     asked how late public                 input        worild      be accepted.           Miller         said through
+          the winter      for the design.
+Millcreek          City    Council         Meeting         Minutes                                      12 0ctober            2020     Page 4 of 6
+
+
+
+            Mayor         Silvestiini       told the priblic         they could         make written            corni'nent     for the hearing        via
+            the City's        website       on the Meeting             Live     Stream        page. Miller        pointed      out that the City         may
+            do things        contrary        to public       coinrnent        if it was in the best interest               of the City.       He said
+            Avenue         Consultants            had directly       reached         out to the impacted            residents.
+
+
+            2.2 Public         Hearing            on 3800 S. Skyline             High        School     Project
+
+
+Council       Member           Uipi      moved        to open        the public         hearing.        Council      Member          Jackson
+seconded.          Mayor       Silvestrini          called     for the vote.           All    Councn       Members           voted    yes. The motion
+passed      unanimously.
+
+
+            Lizette       Dutson,        3771 S. Ash Circle,             said eight people              lived     in her household          and she had
+            lived     there for over 30 years.                 She said she supported                  the roundabout          drie to the traffic           but
+            felt the current            design      would      negatively        impact        the value        of her property.       She felt there
+            were better         ways       to configure         the project,          such as a smaller           roundabout         and island,       and
+            making         the bike lane and sidewalk                   extend        into the current          bike lane. She felt those
+            changes        would        utilize     the public       land better.        She said she would             be willing         to work      with
+            the engineers           on the design.            Mayor      Silvestrini         asked if there was parking               in front       of her
+            house on Upland                Drive.     She said people            parked        in the bike lane there to pick                children        up.
+            Council        Member          Uipi     asked how much               of her property           would     be taken.       She said 5.89
+            feet and there would                  be a 10-foot        construction            easement.
+
+
+            Laura      Ingersoll,        Avemie        Consultants,           said they were doing                the preliminary          design     for the
+            envirom'nental              document.          She said she was able to speak with                       five of the seven impacted
+            residences.         She had met with               Skyline        High      School     representatives            and they were
+            generally        in favor       of the roundabout             though        they had concerns             about students          crossing
+            and the timing              of construction          conflicting          with    the school        year. Ingersoll       said she met
+            with     Cheryl      Phadnis          at 3767 S. Birch            Drive     and they looked             at removing       on-street
+            parking.        She met with            the Dupaixs         at 3766 Ash Circle               and they were in favor               of
+            removing          on-street       parking        to minimize         impacts        to their property            and were in favor          of
+            installing       the sidewalks.            She said the design               had not been fully           surveyed,        in reference          to
+            Lizette       Dutson's        cominent          about property            impacts,        so the measurements             were not exact.
+            She had also met with                   Sara Winn         at 3753 S. Grandeur                Park Lane who expressed                    concern
+            about moving              the existing         fence.    Ingersoll        said Avenue          Consultants         was still trying         to
+            meet with         the other two impact                  residences.
+
+
+            Ingersoll       read to the Council               the comments              she had received            from     the public.      Nancy
+            Carlson-Gotts               agreed      with     the rormdabout.            Deveron         Wilkinson      gave kudos          to the those
+            thatspearheaded                the rovmdabout             and requested            another       one at the 4-way          stop atBirch
+            Drive      and Upland           Drive      (3800 S.). Regina               Celic     requested        that construction          be done
+            during the summer. Cheryl Phadnis would like to be informed about accessimpact to her
+            driveway         and utilities          during     comtruction.            Emily     Pohlsander          wondered        about     the
+            roundabout accovmtingfor children walking from the east onto campus.
+
+Council       Member           Uipi      moved        to close the public               hearing.        Council      Member          Catten
+seconded.          Mayor       Silvestrini          called     for the vote.           All    Council      Members           voted    yes. The motion
+passed      unanimously.
+Millcreek        City     Council        Meeting          Minutes                                        12 0ctober            2020       Page 5 of 6
+
+
+
+3. Financial          Matters
+            3.1 Fiscal       Year      2020-21,          Ist Quarterly            Report;       Laurie        Johnson,          HR-Finance
+            Director
+            Laurie      Johnson        said 25% of the budget                   year had passed and 18.95%                        of the General            Fund
+            revenues       had been received.               This amount            was higher           than would         be expected            at that time
+            in the budget        cycle     and it was due to the receipt                      of CARES             Act funds.          Those     funds     would
+            be recognized           in an upcoming               budget      amendment.             She said 19.83%              of the General            Fund
+            budget      had been expended                  and that was also higher                    than expected           due to the expenditure
+            of CARES          Act funds.             Johnson     highlighted          the revenues          which        included       a $150,000
+            reimbursement             for CDBG            grants     funds for Suru'iyvale                Park, $1.8 million             for CARES             Act
+            funds,      and a $25,000            donation        from      REAL       soccer for the Promise                   Program.        She then
+            briefly     went through            the General          Fund expenditures.                 The Mayor          and Council            budget       was
+            lower     than expected            due to payment              of the Utah League               of Cities        and Towns           (ULCT)
+            yearly      dues. The Public               Safety budget         would      be increased             to include       funding         for CARES
+            Act expenditures            with         the next budget         amendment.                The Economic            Development              budget
+            would       be increased       to include            funding     to cover CARES                 Act expenditures              with     the next
+            budget      amendment.             All     other budgets         were within           the expected          parameters.           She said
+            expenses       had been minimal                in the Capital          Improvement              Project       Fund and Storm                Water
+            Fund.      She said she would                bring     a budget        amendment            to the Council           at a future       meeting.
+
+
+4. Reports
+            4.1 Mayor's          Report
+            Mayor       Silvestrini      said he would              advertise      for an assistant           city manager             position        soon. He
+            said staff was considered                   hiring     a fulltime       grant writer.          He said he would              hold      a press
+            conference       with      Senator         Romney        and Lt. Governor                  Cox that week to discuss                  wildland
+            fires and forestry          management               and tl'iey worild          look       at existing     resources.         He reported
+            that the Millcreek           Building          Services        Department          was processing              permits       in a timely
+        manner.          The Building                Department         and Planning          Department             would       each be hiring           new
+        permit          technicians.      The Economic                  Development           Department             was tracking            how long it
+        took to issue business                   licenses.        Staff was entering             into negotiations              with     Salt Lake
+            County       to renew       the public         works      contract.       Council          Member        Jackson        asked aborit the
+        study that was conducted                        for public       works      service        options.      Mayor         Silvestrini       said the
+        study concluded                that the County's                services      were a good deal.
+
+
+        He said the "Jupiter               Jump"          project       was complete           save some landscaping                     and the Central
+        Avenue           storm    water project            was complete.              He would          like to have a ribbon                cutting     for
+        those projects.
+
+
+        4.2 City          Council       Member            Reports
+        Council          Member         Uipi         said the policing        cornrnittee          was meeting           at the Parleys           Training
+        Center          that week as three separate                   groups.       One group            would       discuss     mental        health     and
+        training,         one group       would          discuss     budgeting,         and the third            group     would        do a simulation.
+        She asked about conducting                         another         town    hall with        the Council          in response          to the one
+        held in August.               Council         Member        Uipi     said the first         one was to listen,             the next one would
+        be to respond            to comi'nents.            Mayor        Silvestrini     said he had been attending                       the "Love,
+        Listen,         and Lead"        meetings          on policing        with     the ULCT.            He could         give a report         on what
+        the Legislature               was considering              at the next town           liall.     Council      Member           Jackson
+        suggested          November             IOI'I or 1 7"1 as possible             dates for the town              hall.     Mayor       Silvestrini
+Millcreek          City     Council        Meeting         Minutes                                    12 0ctober              2020         Page 6 of 6
+
+
+
+            suggested         the policing          comi'nittee      provide       a report    on some of the things                   they had learned
+            through        their   discussion         and research         with    UPD.
+
+
+            Council         Member         Uipi     tl'ianked    the City's       engineering         team for removing                    the "Jupiter
+            Jump."         Council      Member         Jackson       said the Youth           Council        was active         despite        challenges      of
+            Covid-19.         They had helped               clean parks       and would         be helping           with     the MillFreaks           event
+            with     Venture        Out.
+
+
+            Mayor         Silvestrini      brought         up Amendment            D (Utah         Constitutional             Amendment           D,
+            Municipal          Water       Resources        Amendment             (2020))     and said it was not a perfect                      solution,
+            but better       than what Millcreek                residents      currently       faced.       He said he personally                 supported
+            Amendment              D though         the City       could   not promote         or advocate            for a constitutional
+            amendment.             Council        Member        Jackson      said it was a statewide                 ballot    issue. Council
+            Member          Marchant         thanked        Josie Angerhofer,          Millcreek            staff,    for organizing            a storm
+            water     cleanup        project.
+
+
+            4.3 Staff       Reports
+            There      were none.
+
+
+5. Consent          Agenda
+            5.1 Approval             of September           28, 2020 Work           Meeting         and Regular             Meeting         Minutes
+
+
+Council       Member           Catten        moved         to approve       minutes         from      September             28"1. Council           Member
+Uipi   seconded.            Mayor       Silvestrini         called    for the vote. All            Council           Members          voted      yes. The
+motion        passed       unanimously
+
+
+6. New        Items        for Subsequent             Consideration
+There were none.
+
+
+7. Calendar           of Upcoming                 Events
+   *   Planning           Coinmission         Mtg.     10/21/20       at 5:00 p.m.,         City     Hall
+   *   City    Council        Mtg.      10/26/20        at 5:00 p.m.,       City    Hall
+
+
+
+ADJOURNED:                   Council        Member          Uipi     moved        to adjourn         the regular            meeting          at 8:30 p.m.
+Council       Member           Jackson          seconded.          Mayor      Silvestrini      called        for the vote.           All     Council
+Members            voted     yes. The motion               passed     unanimously.
+
+
+
+                                                                                                                        Date    in-%-Z'D'
+                                                                Jeff Sil4estrini,     Mayor
+
+
+
+                                      Attest:                   EIE'                ,City Recorder
+

@@ -1,0 +1,7 @@
+West Jordan PC backfill (pmn_backfill -> all_votes.csv)
+recovered meetings parsed : 55
+recovered motions         : 306 (16 name >=1 member)
+recovered member rows     : 117
+canonical rows (minutes)  : 307
+merged total rows         : 424
+roster commissioners      : 15 (first_seen/last_seen/n_meetings folded over recovered span)

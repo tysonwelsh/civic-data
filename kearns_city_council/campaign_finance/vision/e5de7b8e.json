@@ -1,0 +1,112 @@
+{
+  "contributions": [
+    {
+      "date": "9/22/16",
+      "name": "Jennifer Wilson",
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "9/22/16",
+      "name": "Reagan Sign Company",
+      "amount": "300.00",
+      "in_kind": false
+    },
+    {
+      "date": "8/31/16",
+      "name": "Salt Lake Board of Realtors",
+      "amount": "2500.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "6/17/16",
+      "recipient": "Village Inn",
+      "purpose": "Food",
+      "amount": "143.53",
+      "in_kind": false
+    },
+    {
+      "date": "6/18/16",
+      "recipient": "Red Lobster",
+      "purpose": "Food",
+      "amount": "188.37",
+      "in_kind": false
+    },
+    {
+      "date": "9/15/16",
+      "recipient": "Renaissance Signs",
+      "purpose": "Signs",
+      "amount": "647.51",
+      "in_kind": false
+    },
+    {
+      "date": "9/26/16",
+      "recipient": "Walmart",
+      "purpose": "Food",
+      "amount": "22.52",
+      "in_kind": false
+    },
+    {
+      "date": "10/5/16",
+      "recipient": "Walmart",
+      "purpose": "Food",
+      "amount": "158.07",
+      "in_kind": false
+    },
+    {
+      "date": "10/9/16",
+      "recipient": "Fiesta Ole",
+      "purpose": "Food",
+      "amount": "37.68",
+      "in_kind": false
+    },
+    {
+      "date": "10/20/16",
+      "recipient": "Renaissance Signs",
+      "purpose": "Postcards Mailed",
+      "amount": "1071.66",
+      "in_kind": false
+    },
+    {
+      "date": "10/20/16",
+      "recipient": "Harmons",
+      "purpose": "Food",
+      "amount": "16.97",
+      "in_kind": false
+    },
+    {
+      "date": "9/30",
+      "recipient": "Chevron",
+      "purpose": "Gas",
+      "amount": "28.04",
+      "in_kind": false
+    },
+    {
+      "date": "10/17",
+      "recipient": "Zions Bank",
+      "purpose": "Statement Fee",
+      "amount": "2.00",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "2850.00",
+  "total_expenditures": "2316.34",
+  "total_contributions_ytd": "5730.00",
+  "total_expenditures_ytd": "4551.63",
+  "contributions_50_or_less": null,
+  "beginning_balance": "644.71",
+  "ending_balance": "1178.37",
+  "_meta": {
+    "index_path": "raw/2016november_steve_perry_dbl_kearns.pdf",
+    "candidate": "Steve Perry",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016november_steve_perry_dbl_kearns.pdf",
+    "pages": 4
+  },
+  "_notes": "November 1 box checked; date of report 10/20/16. Filename token 'dbl' but this PDF contains ONE report (cover + Summary pg1of3 + Itemized Contributions + Itemized Expenditures) -- no duplicate pages present; transcribed once. Contribution row1 printed '$50.00'; currency symbol dropped. Contributions subtotal/total 2850.00; Expenditures subtotal/total 2316.34. Col B (YTD) confirmed at 400dpi: 5730.00 and 4551.63 (=prior YTD 2235.29 + 2316.34)."
+}

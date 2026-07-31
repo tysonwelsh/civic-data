@@ -1,0 +1,91 @@
+{
+ "date": "2023-01-10",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2023/2023-01-09/2023-01-10_planning-commission.md",
+ "present": [
+  "David Wright",
+  "Lynette Wendel",
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Don Russell",
+  "Marc McElreath",
+  "Gordon Willardson",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley – I move for approval of the Minutes for October 11, 2022, as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley – I move that we send a positive recommendation to the City Council for File #8Z22/DCA-00029802022 for an amendment to the Land Development code Sections 13.07.020; 1308.020; 13.09.030; 13.10.020; 13.11.040; 1326.080; and Chapter 13.36: Definitions, Related to Home Occupation Standards, as provided in Exhibit A, based on the Findings outlined in the Staff Report and with recommendations per Commission discussion as noted",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 7-0",
+   "kind": "recommendation",
+   "mover": "Don Quigley",
+   "seconder": "Don Russell",
+   "aye": [
+    "David Young",
+    "Marc McElreath",
+    "Don Russell",
+    "Don Quigley",
+    "Lynette Wendel",
+    "Cindy Wilkey",
+    "David Wright"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "8Z22"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

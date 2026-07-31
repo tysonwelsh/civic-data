@@ -1,0 +1,20 @@
+Herriman — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 3661   motions: 926   named-vote motions: 487   tally-only motions: 439
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 0, undocumented (DEFECTS): 0
+
+4. ROSTER: roster.csv present (14 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 486/486 match (100.0%)
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+KNOWN, HAND-VERIFIED QUIRKS:
+   - PC roll rows are named for EVERY commissioner incl. alternates (born-digital), so a full roll can list up to 9 (6 commissioners + up to 3 alternates); many are Excused. Verified, not a bleed.
+   - 'Commissioner Lorin Powell' (4 rows, 2020 PC) is a source typo blending the two people who both sat on the 2020 Planning Commission — Commissioner Lorin Palmer (later Mayor) and Chair Andy Powell; unresolvable, kept verbatim as printed.
+
+HARD FAILURES: 0

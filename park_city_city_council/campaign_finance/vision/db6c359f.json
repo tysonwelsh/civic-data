@@ -1,0 +1,44 @@
+{
+ "contributions": [
+  {
+   "date": "06/01/2021",
+   "name": "Mary Lewis",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/14/2021",
+   "name": "Volker Kitzinger",
+   "amount": "450.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/28/2021",
+   "name": "Volker Kitzinger",
+   "amount": "490.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "06/14/2021",
+   "recipient": "Park City Municipal",
+   "purpose": "Filing fee",
+   "amount": "100.00"
+  },
+  {
+   "date": "07/14/2021",
+   "recipient": "SRH Graphic Design",
+   "purpose": "Stickers & Banner",
+   "amount": "450.00"
+  },
+  {
+   "date": "07/28/2021",
+   "recipient": "SRH Graphic Design",
+   "purpose": "Yard Signs",
+   "amount": "490.00"
+  }
+ ],
+ "total_contributions": "1,040.00",
+ "total_expenditures": "1,040.00"
+}

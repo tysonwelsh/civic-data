@@ -1,0 +1,609 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12202021-533
+> Meeting date: 2021-12-20
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2021-12-20
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_12202021-533
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                  Minutes           of the
+                                                                                         Millcreek              City     Council
+                                                                                               December             20, 2021
+                                                                                                         5:30     p.m.
+                                                                                                  Work           Meeting
+                                                                                                         7:00     p.m.
+                                                                                                Regular           Meeting
+
+
+The City         Council       of Millcreek,              Utah, met in a special                public       work      meeting       and regular         meeting
+on December            20, 2021 at City                 Hall,     located    at 3330 S. 1300 E., Millcreek,                         UT 84106.           The
+meeting      was live streamed                    via the City's        website         with    an option           for online      public      comment.
+
+
+PRESENT:
+
+
+Council         Members                                                          City     Staff
+Jeff Silvestrini,            Mayor                                               John Brems,              City    Attorney
+Silvia    Catten,       District       1                                        Elyse      Sullivan,           City Recorder
+Dwight      Marchant,           District         2                               Kurt     Hansen,         Facilities       Director
+Cheri     Jackson,         District        3                                     Mike      Winder,             Assistant     City     Manager
+Bev Uipi,         District     4                                                 Francis        Lilly,       Planning       & Zoning          Director
+                                                                                Rita Lund,             Cominunications               Director
+                                                                                Laurie         Johnson,          HR-Finance          Director
+                                                                                Aimee          McConkie,            City    Events      Director
+
+
+Attendees:          Thom       DeSirant,             Jerg    Schmidt,        Selena Kontuly,                 Detective       Steven         Ivans,    Chief     Steve
+DeBry,      and Council            Member             Marchant's        entire     family.
+
+
+WORK         MEETING                  - 5:30 p.m.
+TIME       COMMENCED                           - 5:33 p.m.
+
+
+Mayor      Silvestrini         called          the work      meeting        to order.
+
+
+1. Planning           Matter       First         Reading:         ZM-21-004/ZT-21-008,                         Adoption           of a City      Center
+Overlay         - Development                   Agreement          Zone,      Approval            of Technical             Amendments                to Title    19
+of the Millcreek              Code,        and a Preliminary                  Site Plan         Approval            to Accommodate                   a Mixed      Use
+Development                Consisting            of a 75,000        Square       Foot      City        Hall,     a Mixed          Use Building
+Consisting          of Approximately                      215 Rental        Dwellings           with      Restaurant          and Retail             Space,      and a
+Shared      Public          Parking            Structure        Consisting        of Roughly              460 Parking              Stalls     Subject      to a
+Development             Agreement                at 1311-1321          East      3300 South,              3215 South          Richmond               Street,     and
+1324     East     Chambers             Avenue             by Applicants          Cottonwood                  Residential          and Millcreek;
+Francis      Lffly,        Planning            Director
+       Francis     Lilly      said the City             Center     Overlay      Development                Agreement          Zone      (CCODAZ)
+       allowed      for deviations               from     the City     Center      Overlay         Zone (CCOZ).               The Council             needs to
+    make         specific      findings          for the deviations.           Staff has been working                      with     the developers             on the
+    project        for over two years. It is a complicated                              project       with      multiple     uses.      He gave the
+       Council      a project         summary             which    included       details       on:
+Millcreek          City     Council          Meeting            Minutes                                   20December2021                         Page2ofll
+
+
+
+        1.     CityHall-75,000sf-6stories/-87feetinheight
+                    a.    Ground          floor      public         market     and caf6 / restaurant               space - 6,400           sf
+                   b.     Unified         Police       Millcreek         Precinct        headquarters
+                    c.     6'h floor community                      room - 6,400 sf
+                   d.     Municipal              offices
+                   e.     Outdoor          climbing           wall     on the northwest              corner       of building
+                   f.     PV system              and geothern'ial             wells
+                   g.     WELL            Building          certification
+        2.     Mixed-Use        Building             - 6 stories / 78 feet in height
+                   a.     215 rental         dwellings
+                   b.     Restaurant             - 3,800 sf
+                   c.     Retail      and coworking                  office     space - 7,600 sf
+                   d.     Retail      and restaurant                space-10,000             sf, including          at least a 3,800            sf restaurant.
+        3.     Shared Parking              Structure
+                   a.     460 total parking                  stalls (additional            on-street     parking        along project            frontage      on
+                          Millcreek          Common)
+                   b.     59 stalls reserved                 for police        and city vehicles           in a secured basement                    level
+                   c.     Remainder               of parking          to be shared between               City Hall       and the mixed-use                  building
+                   d. Parking             structure          costs $13.5 million              - to be jointly          funded      and operated             by City
+                          and Millcreek               Common            West.
+                   e.     Shared parking                   analysis     conducted          using      the Urban        Land      Institute's        shared
+                          parking         ratios      for mixed         use projects          - accommodates              City     Hall,        residential     and
+                          restaurant         use, and a portion                 of the parking          demand         anticipated         by Millcreek
+                          Common.
+                   f.     Parking         will     be publicly          accessible.
+                   g.     46 electric            vehicle       charging        stations.
+He noted that Fehr & Peers did a shared parking                                          analysis      that found        on a peak weekday,                   492
+parking         stalls were needed.                The buildings              would      either      require      the use of solar panels              or an
+alternative        efficiency         building             standard     be met.
+
+
+Lilly        said the General         Plan contemplates                   goals and strategies                 for the city center.             Millcreek
+Common           and the sunounding                        development          concept       has evolved           to include       a substantially
+widened         Millcreek       Common                due to the location               of the fault      line and development                    impacts      are
+less than what was envisioned                              in the City        Center     Master       Plan. The city center                currently
+contemplated             seven projects              consisting         of approximately               1,400 residential           units,       143,000       square
+feet of cornrnercial            space, and 2,200 parking                         stalls.    The traffic         impact    will     be less than what was
+expected         as contemplated                 by the Greatest              Impact       Scenario      in the Highland            Drive        Corridor       Study.
+It is expected           that vehicle            traffic     will    have a free right-hand               tum from         Chambers              Avenue       onto
+1300 E., a free left and free right                           from     Chambers          Avenue        onto Highland             Drive,      southbound
+traffic       onto Millcreek          Common                Lane then westbound                   on 3300 South,          and improved               bicycle
+experience         along     3300 S. He did not anticipate                             significant      traffic     impacts       because         there would          be
+multiple        ways in and out of the project.
+
+
+Lilly     showed         the Council         renderings              of the proposed           buildings          and the exterior          materials.         The
+mixed-use         building         will     contemplate              the look     of City      Hall.     EPG LLC          architects            provided      input
+that there could           be more          articulation             on the balcony          facades       and that the overhangs                   match.      The
+buildings        will     also complement                   Millcreek         Common.
+Mfflcreek          City     Council      Meeting     Minutes                                20 December           2021       Page 3 of 11
+
+
+
+
+Lilly    reviewed         the requested       modifications         from   the standards          for this project.       The first was the
+streetscape.        The zone calls for a five-foot               bicycle     line embedded          into the asphalt,        but the city was
+contemplating             the idea of a shared use path on 3300 S. that would                         include     a 6-foot       tree buffer
+and I 1-foot        pathway.       Salt Lake City         was contemplating            this type of shared path in certain                     areas
+on their streets. The second modification                       is to the required        20-foot      stepback     on the second floor.
+He showed           the Commission            a rendering       of the mixed-use         building      which     included        greater
+stepbacks         on 1300 E. (10-13           feet) than on 3300 S. (5 feet) and a minimal                       one on the proposed
+City     Hall    (10 feet on the south side) and the mixed-use                        building      and city hall would            have
+additional        stepbacks      between       the 5"1 and      6I'1stories.   The reason for the stepback                 modification               is
+to accommodate               the geometry       of the parking        structure.      The west side of the building                 would           lose
+occupiable         space with         the required      stepback.    The developers          would      provide       a better     articulated
+fagade and more plaza space in the Common                            to make up for it and the city hall would                         have an
+articulated        fagade that was unlike            any other building            in Millcreek.
+
+
+Lilly    said the third        modification        would    be on the building           height.     The max height            in code is 75
+feet but the plans call for an 88-foot                   City Hall     and 78-foot        feature     on the mixed-use            building.           The
+fourth     modification         is on building       length.     The proposed          building      length    is 330 feet, but the code
+max is 300 feet. The building                  length    is offset by the fagade articulation.                 He showed         the
+Commission           the design        considerations       and materials          for the buildings.         The fifth    modification               is
+to move         the location     of the commercial             space to the main         street in the Common              rather       than on
+3300 S. or 1300 E. The code requires                       a 75% gross floor           area within      250 feet of the 3300 S. 1300
+E. intersection.          The sixth modification            is the city hall roofline.            The code requires          that rooflines
+should     vary     every 100 feet, but the rendering                illustrated       a consistent      one. Lilly       said the code
+contemplated          multi-family         housing      for that requirement.
+
+
+Lilly    gave an overview              of the recommended            parking       need which       would      be 472 spaces used at
+peak hour on a typical                day, 495 spaces used at peak hour (weekend)                        for a 200-person              event,       and
+501 spaces used a peak hour (weekend)                          for a 500-person         event. The parking            supply      in
+comparison          contemplated          460 spaces (401 publicly             available)        in the parking       structure,        23 spaces
+on Millcreek         Common,           and 81 additional         temporary      surface     parking      spaces in a lot north                of
+Chambers          Avenue       for a total of 505 spaces.
+
+
+Lilly    reviewed         the proposed      ordinance       changes.       The first would          be an allowance          for 90 feet in
+mixed-use         building      height    in code section        19.73a.050.         He said the code contemplated                     only        city
+hall being        allowed      to go to that height.        That section       would      also add the following             language:
+Required minimum stepbacksmay be modified 0727J,'   for developmentsthat have at least 100 feet
+offrontage along Millcreek Common, subject to thefollowing standards:
+  i. Building stepbacksfor facades along Millcreek Commortmay be eliminated, provided the
+ faqade has at least100 feet offrontage alongMillcreek Common.
+  ii. Building stepbacksfor facades along 3300 South may be reduced to 5 feet, provided that
+ pedestrian amenities, including sidewalks and a side path as defined in the Millcreek
+  Transportation Master Plan, are at least17 feet in width as measuredfrom the back of curb.
+  iii. Buildingstepbacks forfacades along 1300East/Richmond Streetmay be reduced to 10
+ feet, providedthefaqadehasatleastlOOfeetoffrontagealongl300East/RichmondStreet.
+  iv. No other required building stepback may be modified.
+Millcreek             City     Council            Meeting         Minutes                                          20 December               2021        Page        4 of 11
+
+
+
+The development                     agreement            approval         process            for this    application          included         a neighborhood
+meeting/open                 house         in September              2021,      a joint       Planning          Commission/City                 Council       meeting            in
+November              2021,        community             council         presentations               in December            2021,      and a Planning
+Commission                public          hearing      in December               2021,         and then it would              go on to the City               Council           for
+approval         in January               2022.
+
+
+At a meeting              on December                  I, 2021,        the Canyon              Rim      Citizens      Association             discussed        the
+proposed          project.          They      broadly          expressed             support       for the project,           especially         for the protected
+bicycle        lanes proposed                 for the project.               One community                 council        member         expressed          that the City
+Hall     was too tall.             Their      bylaws          prevent         them      from       making         a formal        recommendation                in
+December.              At a meeting               on December                2, 2021,         the East Mill          Creek        Community              Council
+unanimously               recommended                   approvaI         of the proposed                project      and development                  agreement.              At a
+meeting         on December                  6, 2021,         the Mount              Olympus          Community             Council          discussed        the proposed
+project.        Council         members              posed      questions             about     emergency           preparedness,              the provision             of
+affordable            housing         in this project            or elsewhere                in City     Center,         and the maintenance                  requirements
+for the wood              soffit      proposed           for the city          hall     roof      structure.       They      unanimously              recommended
+approval         of the proposed                    project     and development                      agreement.          At a meeting            on December               7,
+2021,        the Millcreek                Community             Council         voted         9 to l in favor         of the proposed               project        and
+development               agreement.              Members            of the council              expressed         a desire         for local     restaurants            along
+Millcreek             Common,              operations          and maintenance                  requirements              for the shared          parking        structure,            a
+request        that the City               consider       a traffic       mitigation            plan     and a communications                     plan     during
+constniction,             a desire          for public         art, a concern                about     combining           police      and municipal             functions,            a
+recommendation                     that the city          consider           paid     parking         as a management                tool,     and that       the city
+consider         a parking            management               plan      for events            in excess        of 500 people.           At their        meeting          on
+December              15, 2021,            the Millcreek             Planning          Commission               issued     a preliminary            site plan         approval
+for Millcreek              Common              West      and City            Hall,     recornrnended              technical         changes       to Chapter           19.73a
+of the Millcreek                Code,         and recommended                        approval        of a development                agreement           subject      to the
+findings         as recommended                     by staff      on a 7-1 vote.
+
+
+Lilly        reviewed         the staff        recommended                   findings         of approval:
+        1.      Theprojectisdesignedtoenhancetheplacemakingandcornrnunitybuildingfunctions
+               of the Millcreek                Common            and advances                  the goals        of the general          Plan      and the City             Center
+               Master        Plan.         The proposed              project         does not conflict             with     any applicable            policy         and
+               guidance            of the general             plan     or the City            Center      Master         Plan.
+        2.     The utilization               of shard         parking,         the use of consistent                 materials,         the expansion              of plaza
+               space,        the addition            of a side path,             and the program                 to develop          a commercial             frontage
+               flanking        the entire            western         edge of Millcreek                  Common            is a design         that on the whole
+               serves        as a better          development                than would           be possible         under         the strict      application          of the
+               City     Center            Overlay      Zone.
+        3.     The project            was reviewed               by staff        and the preliminary                  site plan        generally         meets       the use
+               and other           requirements               of the CCOZ-DA                    and the underlying                  zones,      except     as otherwise
+               allowed         by the CCOZ-DA                        and the development                   agreement.
+        4.     The inclusion                of the Unified             Police         Precinct,        the shared         parking,       the side path,            the
+               additional           plaza      space,         and the commercial                     frontage      along      Millcreek          Common            enhances
+               the public           welfare,         enhances          urban         design       and walkability,               and supports         public
+               investment             in the Millcreek                City     Center.
+        5.     City     Hall       will     be designed          to meet             or exceed         energy      consumption               standards        through           the
+               inclusion           of a rooftop          photovoltaic                solar     system      and a geothernnal                 system       for heating            and
+Millcreek           City      Council        Meeting          Minutes                                     20 December            2021       Page 5 of 11
+
+
+
+               cooling.       In addition,         all aboveground               utilities     will     be relocated       underground.          The project
+               does not adversely              impact        existing      public       utilities,      including       but not limited         to power,
+               gas, telecommunications,                   storm         water,     culinary       water,        or sanitary     sewer.
+
+
+Lilly        said development              agreement          considerations            would         address:
+        1.      The design           of the project          will    be substantially           similar         to the proposal      presented         to the
+               Community             Councils        and Planning           Commission,                subject      to additional       recommendations
+               by the Community                   Councils          or Planning       Commission.
+        2.     The developer            and the city complete                 a cost-sharing             agreement        for the construction,
+               operation,         and maintenance               of the shared parking                  structure.
+        3.     The developer            incorporate           a restaurant         of at least 3,700             sf along Millcreek            Common.
+        4.     The developer            consider       public         art installations         for the blank          wall    along the paseo and the
+               plaza spaces on Chambers                      Avenue         and 1300 East.
+        5.     The developer            install      all required         improvements                along the project         frontage,      including        but
+               not limited          to the shared bicycle/pedestrian                         path and the plaza fronting                the Millcreek
+               Common.
+        6.     The developer            implement         the recommendations                        provided       by EPG LLC,           the Millcreek
+               Common            Designer.
+
+
+Mayor          Silvestrini        asked if the proposed                 code changes            were reviewed            by the Planning
+Coinrnission             and if the developer             was amenable                to the development                agreement        considerations.
+Lilly        said yes. Council             Member       Catten          noted that parking              could     be a problem          with   overlapping
+big events          and regular         uses and asked what the plan was. Lilly                                 said it could       come to managing
+the events         or add valet services,               it could         take creativity.             Council     Member        Marchant        asked about
+shared parking               with    Harmons          on 1300 E. Council                 Member          Catten      said in Dana Point,           Califori'iia
+there is a trolley            system       that goes into neighborhoods                        that runs on a loop every 15 minutes                         that
+worked         well.     She thought          that could            be a solution        for parking         and bringing          people      into the city
+center.
+
+
+2. Staff        Reports
+Aimee         McConkie            recapped         Venture          Out! from       the summer.            In 2021, there were June Festivals,
+July movie             nights,      food tmck        nights,        Camp Tracy           weekend          adventures,         a Night     Out Against
+Crime         - Stroll     & Roll      Car Show,          and Millfreaks!
+
+
+Selena Kontuly,               Venture        Out!,     said more than 30,000                    guests participated            on social       media     with      a
+35% Instagram                and 10% Facebook                  increase      in followers.
+
+
+McConkie            introduced         the 2022 event schedule                     which       included         the same events as the current
+year plus DJ skate nights.                    Venture         Out! would           produce        over 60 events in 2022 and would                       utilize
+the new Millcreek                   Coinmon        venue.       Council      Member            Uipi     said she would           like to see Camp
+Tracey         continue.         Council      Member          Catten recorni'nended                   distributing       a flyer    about Camp          Tracey
+to the schools.
+
+
+McCoi'ikie          noted that Millcreek                Cornrnon          was dealing           with     supply       shortage      and issues with
+utilities      on Chambers             Avenue,        so as a result         she did not see a public                   opening      that season. Council
+Member           Catten      asked about a soft opening                     for ice skating.             McConkie         planned       on that. Council
+Member          Uipi     brought       up including            roller     skating      groups         in the planning.         McConkie          said she had
+been in contact              with    some.
+Mfflcreek       City     Council        Meeting          Minutes                                  20 December               2021        Page 6 of 11
+
+
+
+
+3. Discussion          of Agenda         Items,         Correspondence,                and/or     Future       Agenda          Items
+There     were none.
+
+
+Council       Member         Catten       moved          to adjourn        the work         meeting         at 6:30 p.m.           Council       Member
+Uipi    seconded.        Mayor        Silvestrini          called     for the vote.        All    Council          Members         voted        yes. The
+motion       passed      unanimously.
+
+
+
+
+REGULAR               MEETING           - 7:00 p.m.
+TIME        COMMENCED:                    7:03 p.m.
+
+
+1. Welcome,           IIntroduction            and Preliminary             Matters
+          1.1 Pledge         of Allegiance
+            Mayor      Silvestrini      called      the meeting          to order then led the pledge                      of allegiance.        He
+            noted the meeting            as Council          Member        Marchant's            last. He said it had been a pleasure
+            and honor       to start the city government                   with    Council         Member          Marchant.        His skills        and
+            contributions        had been fantastic.                He served the taxpayers                 well     as the City's        Treasurer
+            since he understood                municipal      financing         with     experience         as a banker.         His courage
+            and devotion        to family          and city had been great to watch.                       The mayor           thanked      him for
+            his service.
+
+
+            Council      Member         Marchant          said it was a pleasure                working       with    the council         members.
+            He was excited           to see the Millcreek               Common           come to fruition.            He acknowledged                 the
+            audience      for their love and support.
+
+
+            Council      Member         Catten      expounded           on her impressions                of Council         Member        Marchant
+            on compassion,            practical,        and humor.        Council        Member        Uipi        noted     Council      Member
+            Marchant        as a father        figure     who upholds           values.     Council        Member           Jackson
+            appreciated       Council          Member        Marchant's          connections         with      his district.       Council
+            Members        Catten,      Uipi,      and Jackson          noted that they would                 miss Council          Member
+            Marchant        and thanked          him for his service.
+
+
+          1.2 Public         Comment
+            Jerry Schmidt,           Sugarhouse          resident,      said Millcreek            was recently         redistricted         into four
+            congressional          districts     and gave him satirical                 opinion     on the matter.            He suggested            the
+            Council      rename       the section         of 3900 S. from              2100 E. to 900 E. as Boundary                      Pass and the
+            commercial        area as Boundary               Heights.
+
+
+          1.3 Unified         Police      Department                Mfflcreek      Precinct         Officer        of the Month           for
+            November         2021-        Detective          Steven      Ivans
+            Chief     Steve DeBry            said Council       Member           Marchant         was authentic             and thanked         him for
+            his service      and friendship.             He then announced               Detective         Steven      Ivans     as the November
+            Officer     of the Month.           Detective       Ivan was on proactive                 patrol       when he investigated
+            unusual     activity      with      a jeep. The suspect in the jeep did not yield                              to a traffic     stop and fled
+            on foot after the vehicle's                 tire was spiked.          The suspect         confessed            to selling     drugs in the
+Millcreek          City     Council        Meeting          Minutes                                  20 December                 2021      Page 7 of 11
+
+
+
+            area. Heroin             (18.4g),     Meth      (3.5g),     Crack        Cocaine       (l.3g),      and Marijuana             (31.8g)       in
+            individual         packaging          consistent       with      drug distribution               and paraphernalia             was seized.
+            Stolen property              was recovered          from       inside      the jeep, consisting              of five credit          cards, two
+            personal         check books,           Utah     ID cards, a social              security        card and a passport.             Detective
+            Ivan's        vigilance       and proactive         patrol       led to the arrest of a drug dealer and recovery                                   of
+            stolen property.             The Citizens          Advisory          Board       thanked         Detective         Ivans for his service                and
+            presented         him with          a gift.    Mayor      Silvestrini        thanked        Detective        Ivans.
+
+
+            1.4 Wasatch               Front      Waste      and Recycling              District      Recognition               of Council         Member
+            Dwight         Marchant;             Pam      Roberts,        CEO
+            Pam Roberts              thanked       Council      Member           Marchant         for being          a great mentor         and for serving
+            on the Wasatch               Front     Waste      and Recycling            District      Board       since January            2017.        She noted
+            that the Board              adopted        a resolution       recognizing          his service           which      she presented           to him as
+            well     as a glass award.             Council      Member           Marchant          thanked       Roberts         for her work.
+
+
+2. Planning          Matters
+            1.2 Discussion              and Consideration                 of Ordinance             21-55,       Amending            Sections           19.60.020
+            and 19.66.020               of the Mfflcreek              Code     for the Purpose                of Allowing          Caretaker
+            Dwellings              as Permitted           Uses Subject         to Standards              and Adopting              a New         Definition          of
+            Caretaker              Dwelling       in Chapter          19.04      of the Mfflcreek               Code
+            Francis        Lilly     said the application             gained      a recoinrnended              approval          from     the community
+            councils        and Planning            Commission            as a means to provide                  additional        flexibility         in housing
+            in coini'nercial            zones. The ordinance               would       create a definition               for a caretaker             dwelling       as,
+          "means           no more than one dwelling                     unit that is under             corni'non        ownership         and is attached
+            or internal        to the main building                and its commercial               and is used for the accommodation                                of
+            an employee,             business       owner      and person            under    contract        of the coinmercial              use and main
+            building        for security         or maintenance            purposes,"          and would             establish     specific       use
+            standards         that would         apply      to the commercial                and light       manufacturing              zones.       Staff
+            recommended                approval        of the ordinance.             The standards            are:
+              a. Property            owner      shall record       an affidavit          stating     the caretaker             dwelling       will     not be
+                    leased, rented,             or sold separately.
+              b. Caretaker            dwelling         shall consist       of a minimum              habitable         floor     area of 600 square feet
+                    and not to exceed               a maximum           habitable        floor     area of 1,200             square feet.
+              c. Shall be subject                to the off-street        parking        requirements            Chapter         19.80     of the MKZ.
+              d. Parking            spaces for caretaker              dwelling        cannot      be included           in any parking            reduction
+                    request         including      shared parking.
+              e. Home          businesses         with     a customer         base visiting          the caretaker             dwelling       sliall    be
+                    prohibited.
+
+
+            Mayor         Silvestrini         noted the Council           had a first reading                of the application.           He asked for
+          public       comment.           There        was none.
+
+
+Council      Member            Marchant            moved       to approve            Ordinance           21-55.        Council       Member             Uipi
+seconded.          The Recorder               called      for the vote.        All    Council        Members             voted     yes. The motion
+passed      unanimously.
+Mfflcreek        City      Council          Meeting       Minutes                                       20 December              2021      Page 8 of 11
+
+
+
+            2.2 Discussion             and Consideration                     of Ordinance              21-54,     Approving            a Fee-In-
+            Lieu/Development                   Agreement              with     3300 Cottonwood,                   LLC       with     Respect        to
+            Approximately               1.76 Acres            of Real        Property          at Approximately                 1306     East 3300 South
+            Francis       Lilly     said the ordinance              was for the Hudson                  project        which     was 1,496         square feet
+            short of plaza space. The code allows                              a developer         to request          a fee in lieu option              for plaza
+            space with            the price    set by an appraisal               if the project          is fronting        or adjacent         to Millcreek
+            Corni'non        if using       the cash would             be better than having                the plaza space. Staff found                        that
+            $149,600         would      be more valuable                  to Millcreek         in enhancing             the pedestrian          experience
+            and safety        on Millcreek            Cornrnon            than it would         be than lengthening                 or widening           the
+            project's       plaza space. This              agreement           would        solidify     that action          and the developer             would
+            write    the city a check before                  final       conditional         use permit         approval.
+
+
+Council       Member              Marchant        moved           to approve          Ordinance            21-54,       Approving          a Fee-In-
+Lieu/Development                   Agreement           with       3300 Cottonwood,                 LLC          with    Respect        to Approximately
+1.76 Acres          of Real        Property       at Approximately                   1306      East 3300 South.                 Council       Member
+Jackson       seconded.
+Mayor       Silvestrini       noted that there was a nearby                         project     in South         Salt Lake named              The Hudson.
+Lilly   said it would             not be the final         name of this project.
+The Recorder              called      for the vote.         All     Council         Members            voted      yes. The motion               passed
+unanimously.
+
+
+Council      Member          Uipi     wished      Francis         Lilly      a happy     birthday         and happy            anniversary.
+
+
+3. Financial         Matters
+            3.1 Public            Hearing      on Opening              and Amending                the Fiscal          Year      2021-22        General
+            Fund      and Capital             Improvement                 Project       Fund      Budget
+            Laurie      Johnson        reviewed        the General            Fund revenue              budget.        She said the sales tax
+            increased       by $248,479           and the mass transit                  tax increased            by $100,000.           Building         permits
+            decreased        by $100,000.             Engineering            permits        increased      by $25,000.             State grants increased
+          by $40,034.              The Ainerican           Rescue Plan Act (ARPA)                         funds remaining              deferred      revenue
+            of $2,270,736            from      the prior      fiscal       year were recognized                  and would          move    into the Capital
+          Improvement                Project     (CIP)     fund. There           were minor             changes        to planning         fees, code
+            compliance            fines, interest        earnings,          and miscellaneous              income         and donations            increased
+          by $27,248.              Council      Member         Marchant          said the property               tax revenue          for the calendar
+          year looked              good. Johnson           noted the fiscal             year amount             was similar         to the prior         year.
+
+
+          Johnson         reviewed           the department               expense budgets.             There was an increase                  in the City
+          Management,                Legal     Services,       Promise         Program,          Communications                  and Programs,
+          Economic            Development,             Finance,           Fleet and Public             Works       budgets         increased.      The Public
+            Safety budget            showed       a transfer          of funds       from     the Unified          Police       line item to the
+          American           Recovery          Act ({JPD)          line item with             $1,339,589.          The Recorder            budget
+          decreased          due to the lower             than anticipated              election        cost. Events/Millcreek                  Common
+          budget        had various           line items       adjusted.        The Non-Departmental                      budget        transfer     to CIP
+          fund line item increased                    by $2,270,736.
+
+
+          Johnson         then reviewed            the CIP revenue               budget        which      had increases             in each category
+          amounting           to a total change             of $3,809,254.              She added the Intergovernmental                            - CIP
+          category         to separately         recognize            grant reimbursements                 per the auditor's             recommendation.
+Millcreek        City       Council       Meeting     Minutes                                 20 December             2021      Page 9 of 11
+
+
+
+            The auditor         also recommended               tracking     the stomi        water    CIP in the Storm           Water     Fund
+            instead        of transferring      it to the CIP Fund. The projected                     Fund Balance           was 30.09%.
+
+
+
+Council       Member           Marchant         moved       to open the public             hearing.        Council      Member          Catten
+seconded.        Mayor         Silvestrini      called     for the vote. All           Council        Members         voted    yes. The motion
+passed      unanimously.
+
+
+            There were no comments.
+
+
+Council       Member           Marchant         moved       to close the public           hearing.         Council      Member          Catten
+seconded.        Mayor         Silvestrini      called     for the vote. All          Council         Members         voted    yes. The motion
+passed      unanimously.
+
+
+            3.2 Discussion             and Consideration               of Ordinance          21-53,    Amending            the 2021-2022
+            Fiscal      Year     Budget
+            Mayor       Silvestrini        thanked    Laurie      Johnson       for her work.
+
+
+Council      Member            Marchant        moved       to approve           Ordinance         21-53,     Amending          the 2021-2022
+Fiscal    Year       Budget.       Council      Member          Uipi      seconded.      The Recorder             called      for the vote.        All
+Council      Members            voted      yes. The motion             passed     unanimously
+
+
+4. Business       Matters
+            4.I Discussion            and Consideration                of Resolution         21-45,    Advising        and Consenting              to
+            the Mayor's           Appointment            of a Treasurer           for Millcreek
+            Mayor       Silvestrini        thanked    Council      Member         Marchant        for his service          as the Treasurer.
+            The auditors         recommended             the treasurer      be a council         member,        so they are accountable                  to
+            the taxpayers.         The resolution          would       ensure continuity.
+
+
+Council      Member            Marchant        moved       to approve           Resolution        21-45,     appointing         Cheri      Jackson
+as Treasurer          for     Millcreek.       Council      Member          Catten      seconded.          The Recorder           called     for    the
+vote. All     Council          Members        voted      yes. The motion            passed       unanimously.
+
+
+          4.2 Discussion              and Consideration             of Resolution            21-46,    Approving           Registration          in the
+          National           Opioid      Settlement
+          Mayor         Silvestrini        said a number        of states had filed          a lawsuit      against     companies         that
+          manufacture            opioid      drugs with     respect       to the harm        those drugs have caused to
+          coinmunities           in those states. Utah joined                the lawsuit       and wants        to agree to the settlement.
+          The settlement              is structured      so that the more jurisdictions                inside    the state that sign on to
+          the settlement           agree that they will           not file their       own lawsuit         then the more money               Utah
+          gets which           would       come back to Millcreek.               The Utah       League      of Cities       and Towns
+          encouraged            cities to do this.
+
+
+Council      Member            Marchant        moved       to approve           Resolution       21-46,      Approving          Registration             in
+the National         Opioid       Settlement.         Council      Member          Jackson        seconded.          The Recorder           called
+for the vote.        All    Council        Members        voted    yes. The        motion        passed     unanimously.
+
+
+5. Reports
+Millcreek       City         Council       Meeting        Minutes                                 20 December              2021      Page 10 of 11
+
+
+
+            5.1 Mayor's           Report
+            Mayor       Silvestrini         said there would          be an infori'nation              meeting      the following           evening          on
+            the proposed          Parley's         Canyon     limestone         quarry.      He said counsel           had been retained                to
+            advise the city on the process.                   He said there were environinental                        (dust)      and recreational
+            concerns          for Millcreek         residents.      Council       Member        Marchant           asked about feedback                 from
+            other political            entities    on tlie matter.       Mayor      Silvestrini         said Salt Lake Public               Utilities        was
+            concerned          about water         quality     effects    and enough           water rights         to quell      dust. The Salt
+            Lake      County       Council        passed a notice         of pending         ordinance        to look      at amending            the
+            zoning      ordinance          to outlaw       mining     or quarries          as a conditional          use in the forest          recreation
+            zone.
+
+
+
+            Mayor       Silvestrini        said the Promise           Program        was hiring          interns    with    ARPA           funds.    There
+            would       also be an Economic                Development            intern     would       start in the new year.
+
+
+            5.2 City         Council       Member         Reports
+            Council      Member            Jackson     said construction            costs for city hall were going                   up and hard
+            decisions         were being made.             She appreciated           Kurt     Hansen's        work      on the project.
+
+
+            5.3 Staff        Reports
+            There      were no reports.
+
+
+            5.4 Unified          Fire     Authority        Report
+            There was no report.
+
+
+            5.5 Unified          Police      Department          Report
+            Chief      Steve DeBry           said the County            Council     would       try to prevent         the lime       quarry        from
+            happening.          He wished          the Council        happy      holidays      from      the Precinct.         He then presented
+            the November               2021 crime       statistics.      There were 2,930               calls for service,         987 total        cases,
+            484 citations,         and 44 booking             arraests. There       were 31 assaults,              22 burglaries,          15 drug
+            offenses,        62 family        offenses,      125 larcenies,         6 sex offenses,          24 stolen vehicles,               and no
+            robberies         or homicides.          He reminded         residents         about Millcreek           code no street parking
+            while      it is snowing         and there is snow on the street. The Unified                            Police       Department's
+            Millcreek         and Holladay           precincts      joined      up with      the Utah Attorney              General's        Office's
+            annual      Operation          Give Back.        Officers     look     for legal reasons to make                   a traffic     stop, but
+            instead     of tickets,        the drivers       are given       Christmas        gifts.     The Community              Oriented
+            Policing      Unit     abated three illegal             encampments            in November.
+
+
+            Mayor       Silvestrini        said Salt Lake        County         Public     Works        was down        on snowplow             drivers.
+            He asked that residents                 not park on the streets so the snowplows                          could       do their job.
+
+
+6. Consent          Agenda
+          6.1 Approval           of November            22, 2021 Work             Meeting       and Regular          Meeting        Minutes
+
+
+Councn       Member            Marchant            moved      to approve          the work        meeting          and regular        meeting
+minutes       of November               22, 2021.      Council        Member        Jackson            seconded.      Mayor         Silvestrini
+called    for the vote.          All     Council      Members           voted     yes. The motion             passed        unanimously.
+
+
+7. New      Items      for     Subsequent           Consideration
+Millcreek          City    Council       Meeting        Minutes                              20 December      2021       Page 11 of 11
+
+
+
+There     were none.
+
+
+8. Calendar           of Upcoming              Events
+    *       Mt.     Olympus       Community             Council   Mtg.,     1/3/22,      6:00 p.m.
+    *       Millcreek        Community           Council      Mtg.,   1/4/22,     6:30 p.m.
+    *       Canyon         Rim   Citizens       Association       Mtg.,    1/5/22,       7:00 p.m.
+    @       East Mill       Creek      Corninunity         Council    Mtg.,     1/6/22,     6:30 p.m.
+    *       City     Council     Mtg.,     1/10/22,       7:00 p.m.
+
+
+
+ADJOURNED:                  Council       Member          Marchant        moved         to adjourn    the meeting    at 8:21 p.m.
+Council      Member            Jackson         seconded.      Mayor       Silvestrini      called    for the vote. All    Council
+Members            voted    yes. The motion             passed    unanimously.
+
+
+
+                                                            Jeff Silvestrini,      Mayor
+
+
+
+
+                                     Attest:               JQL,                   City Recorder
+

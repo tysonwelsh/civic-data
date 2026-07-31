@@ -1,0 +1,31 @@
+{
+  "contributions": [
+    {"date": "10/6", "name": "Steve Fotheringham", "amount": "500.00", "in_kind": false},
+    {"date": "10/7", "name": "Mark Rothacher", "amount": "100.00", "in_kind": false},
+    {"date": "10/7", "name": "Byron Barkley", "amount": "500.00", "in_kind": false},
+    {"date": "10/15", "name": "Clark Searle", "amount": "100.00", "in_kind": false},
+    {"date": "10/17", "name": "Kara Sargent", "amount": "100.00", "in_kind": false},
+    {"date": "10/18", "name": "First Utah Bank", "amount": "1,000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/1", "recipient": "Google", "purpose": null, "amount": "9.03", "in_kind": false},
+    {"date": "10/1", "recipient": "Loyal Perch Media", "purpose": null, "amount": "900.00", "in_kind": false},
+    {"date": "10/6", "recipient": "Harmons", "purpose": null, "amount": "30.13", "in_kind": false},
+    {"date": "10/11", "recipient": "Edge Printing", "purpose": null, "amount": "3,920.00", "in_kind": false},
+    {"date": "10/17", "recipient": "Eagle Direct Response", "purpose": null, "amount": "4,333.30", "in_kind": false}
+  ],
+  "total_contributions": "2,300.00",
+  "total_expenditures": "9,192.46",
+  "contributions_50_or_less": "70.00",
+  "beginning_balance": null,
+  "ending_balance": "1,338.02",
+  "_meta": {
+    "index_path": "raw/2025_city_fotheringham10282025.pdf",
+    "candidate": "Paul S. Fotheringham",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_fotheringham10282025.pdf",
+    "pages": 3
+  }
+}

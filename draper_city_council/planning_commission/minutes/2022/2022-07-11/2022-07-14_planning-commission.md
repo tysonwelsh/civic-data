@@ -1,0 +1,456 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=602&doc_id=cc655ae5-258f-11ed-b1ab-0050569183fa
+> Meeting date: 2022-07-14
+> Format: text
+
+Approved Minutes
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, JULY 14, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Chairman Andrew Adams, Vice Chairman Craig Hawker, Commissioners
+                     Mary Squire, Lisa Fowler and Alternate Commissioner Susan Nixon
+
+ABSENT:              Commissioners Gary Ogden, DeLaina Tonks and Alternate Commissioners
+                     Tab Bingham and Kendra Shirey
+
+STAFF PRESENT:       Fred Aegerter, David Dobbins, Mike Barker, Jennifer Jastremsky, Todd
+                     Draper, Brien Maxfield, Spencer DuShane, Connor Mangelson and Amie
+                     Salazar
+
+6:30 PM Business Meeting
+
+
+   1. Public Hearing:     The Rock Church Amended Subdivision Plat (Administrative
+      Action)
+
+      On the request of Brent Kendall representing Salt City Rock Church, a Subdivision Plat
+      Amendment request on approximately 2.81 acres located at approximately 11630 S. 700
+      E. Known as application: SUBD-0167-2021. Staff Contact is Todd Draper, 801-576-6335
+      or todd.draper@draperutah.gov.
+
+      Todd Draper, Planner III presented this project stating the plat is located in a neighborhood
+      commercial land use designation. The Zones are CN, RA1, and RM2. This proposal is to
+      extend lot 82 to include property outside the subdivision and make a new lot 83. This
+      property is already owned by the Church. The church would like to build a larger
+      maintenance storage on the property eventually.
+
+      Vice Chairman Craig Hawker asked if they are planning to take any parking out. Todd
+      Draper states no parking will be taken out. The change in the plat will allow them to make
+      further amendments later at more of a staff level. Making it so they can build what they
+      need as they go.
+
+      Commissioner Susan Nixon asked if there was a problem with one lot having three
+      different zones. Todd Draper addressed this saying there was no issue on the three different
+      zones in lot 83.
+
+       Brent Kendall, Applicant did not want to speak
+
+      Chairman Andrew Adams opened the Public Hearing. Reminding anyone who would like
+      to speak on this matter to keep their comments to three minutes per speaker, and to state
+      your name for the record.
+
+      No public comments were made.
+Draper City Planning Commission Meeting
+July 14, 2022
+      Chairman Adams closed the public hearing
+
+       Motion: Commissioner Hawker motioned to approve the Subdivision Plat Map for the
+      request of Brent Kendall representing Salt City Rock Church, a Subdivision Plat
+      Amendment. Application SUBD-0167-2021. Based on the findings and sub conditions
+      listed in the staff report dated July 6, 2022.
+
+      Second: Commissioner Mary Squire
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Hawker, Squire, Fowler and Nixon voted, “Aye”.
+
+   2. Public Hearing:      Summit Commerce Center Amended Subdivision Plat
+      (Administrative Action)
+
+      On the request of Mark McKee representing Exeter Draper Land LLC and ARCO Design
+      Build, a Subdivision Plat Amendment request on approximately 26.94 acres, at
+      approximately 13004 S. Pony Express Road, Known as application SUBD-0204-2021.
+      Staff Contact is Todd Draper, 801-576-6335, todd.draper@draperutah.gov.
+
+      Todd Draper, City Planner III, is the presenter on this project. This is another subdivision
+      plat map. It is on the west side of the freeway. This is in the zone M1. The subdivision is
+      to make one lot into two different lots. There are easements for the emergency vehicle
+      access around both buildings. There is also a cross access easement from lot one to lot two.
+      It is noted in the staff report that the applicant is requesting to not have to put the same
+      cross access easement from lot two to lot one.
+
+      Commissioner Lisa Fowler asked why they are dividing this lot. Is it to sell one or the other
+      lot, to have two different owners? Todd Draper states that is a question for the applicant.
+      To subdivide is usually so they can have two different owners.
+
+      Commissioner Fowler asks why the road ends on lot two. Todd Draper stated that the road
+      doesn't end, the easement is for one to be able to go through to lot two, but to not allow any
+      patrons or visitors to come from lot two and go to lot one. They would have to go the proper
+      way to use the development building and use its entryways.
+
+      The Chairman Andrew Adams invite the applicant up to speak. Applicant, Mark McKee.
+
+      Commissioner Mary Squire asks what makes lot two incompatible to cross use and have
+      an easement like lot one. Mark McKee stated he doesn't know the answer to the question.
+      But he plans to go into why there is no cross access on lot two. Both lots one and two have
+      access to the roads. They don't want the public to have access to the trucks and trailers and
+      vice versa they don't want trucking to have access to the public locations. It is all for safety.
+
+      Chairman Andrew Adams opened the public hearing.
+
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+July 14, 2022
+      He states that anyone with a public comment or concern on this can come address them
+      now, he asks to remember to state their names for the record and to only take three minutes.
+
+      No public comments were made.
+
+      Chairman Adams closed the public hearing.
+
+      Motion: Commissioner Lisa Fowler moved to approve the request from Mark McKee
+      representing Exeter Draper Land LLC and ARCO Design Build, for the Summit Commerce
+      Center Subdivision Plat. Application SUBD-0204-2021. Based on the findings and sub
+      conditions listed in the staff report dated July 1, 2022.
+
+      Second: Commissioner Nixon
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Fowler, Hawker, Squire, Nixon and voted, “Aye.
+
+3.    Public Hearing: Fitzgerald Property Development Agreement, Zoning Map and
+      Land Use Map Amendments (Legislative Action)
+
+      On the request of Draper City for a Development Agreement, Zoning Map Amendment
+      from TC, RA1, and RA2 to the R5 zone, and Land Use Map Amendment from Residential
+      Low/Medium Density to Residential Medium/High Density for 22.37 acres of property
+      located approximately at 1060 East Pioneer Rd. Applications DA-138-2022, TEXTMAP-
+      140-2022, TEXTMAP-141-2022. Staff contact is Jennifer Jastremsky, 801-576-6328,
+      jennifer.jastremsky@draperutah.gov.
+
+      Ms. Jastremsky reports on this presentation. She states the location of the property is right
+      next to city hall. It is the Fitzgerald farm, currently used for agriculture. The purpose for
+      the land use map amendment is to change it to residential medium high density from
+      residential low medium density, offering 4-8 units per acre. The rezone will change the
+      designation from TC, RA2, and RA1 to the R5 zone. Draper City is the applicant on this
+      project. At some point in time they would like to purchase 5 acres for the city. The
+      agreement for the city to purchase was noted that with that purchase of land from the owner
+      the city would apply to rezone the remainder area. Vice Chairman Hawker asked what the
+      City’s intent for the 5 acres was. Jennifer Jastremsky states they don't know yet, that is not
+      part of this plan, the development plan for the city will come at a later date after this
+      proposal has been approved.
+
+      Development Agreement
+         ● Would limit the project to the units and lot sizes listed in the development
+            agreement and layout shown in the concept plan.
+         ● 62 lots total
+         ● 59 lots at 9,000sqft
+         ● 3 lots 20,000sqft
+
+
+
+
+                                                3
+Draper City Planning Commission Meeting
+July 14, 2022
+      Change since the agenda packet went out
+         ● Updated information
+         ● Vests the application to the code at the development agreement period approved
+            not application submitted.
+         ● Allows property owners to create 5 acre parcels without going through a parcel
+            boundary adjusted process.
+         ● Remove a list of specific items that can be mediated and simply allows a denial of
+            subdivision application to be mediated.
+         ● Removes language that waives claims to damages if there is any breach in the
+            agreement.
+         ● Only allows the city to utilize 3rd party reviews if it is specified in the code.
+
+      Ms. Jastremsky showed some potential plans from a 3D modeling program the city has
+      with ArcUrban. To show what the subdivision could potentially look like. Site photos were
+      then shown.
+
+      Vice Chairman Craig Hawker asked if there is anything in the code that requires the three
+      entries. Jennifer Jastremsky states there is a requirement in the code for at least two access
+      points.
+
+      Commissioner Lisa Fowler asked why the City is the applicant in this if they are only
+      purchasing 5 acres of the property. Jennifer Jastremsky states the city rezoning the property
+      is part of the purchase contract with property owner for the 5 acres.
+
+      Commissioner Susan Nixon asked if the developer would come back with a subdivision
+      request. Jennifer Jastremsky states yes they will have to come back with a different request
+      for that.
+
+      Vice Chairman Craig Hawker asked if the road widths are going to be smaller or stay true
+      to the road size. Jennifer Jastremsky responded by letting them know the roads would stay
+      true to the code of a 60 ft width.
+
+      Applicant is Draper City, Ms. Jastremsky asks Brad McKee with Ivory Development to
+      come up to answer any questions.
+
+      Chairman Andrew Adams opens the Public Hearing reminding anyone with public
+      comments to state your name and leave your comments to 3 minutes.
+
+      Kimberly Bell- approaches the Commissioners she is representing others in her community
+      and lives on 12600 south on a dead end road. This street is next to the potential
+      development. She states the road is not 60ft it is narrower. She requests that the city take
+      into consideration to bury power lines to help ease the transition of the new development.
+      Kimberly asks if the construction workers cannot park on the narrow road where the
+      development takes place. She also asks for the developers and city to consider adding a
+      green scape, which could be a playground, Dog Park, or just open space.
+
+
+
+
+                                                4
+Draper City Planning Commission Meeting
+July 14, 2022
+      Steve Decho - Objects to the size of lots. Smaller lots with the potential of higher density.
+      He also is worried about the traffic this will cause for the school in the area.
+
+      Shujan Cao - Worries with this change in bringing more people to the area if the school
+      boundary will change. She states they purchased their home so her children could go to
+      Draper Elementary.
+
+      Chairman Adams Closed the Public Hearing.
+
+      Vice Chairman Hawker asked about the access points, he then stated 12600 street is not
+      the right size. He asked Brien Maxfield to report on this. Brien Maxfield states, as the
+      development process moves forward the city will need to review the street to see what
+      fluctuations need to take place.
+
+      Commissioner Lisa Fowler asked Jennifer Jastremsky if there are no plans thus far for the
+      city to develop the 5 acre lot, what will happen to the road. Jennifer Jastremsky responds,
+      the information she currently has does not state what the city plans to do with the property.
+      She states the city council can decide sooner than later, but the road will be a stub road.
+      When the development comes in they will access the road but not necessarily develop the
+      road.
+
+      Commissioner Mary Squire reviews the public comments concerns about parking
+      conditions during the construction. Brien Maxfield states this will be a case by case basis,
+      and when they review the street they will assess this.
+
+      Brien Maxfield stated any future power lines coming in for the development will be buried,
+      this is something the city will have to contact the power company for, but as far as he is
+      aware there will be no new lines over the ground.
+
+      Jennifer Jastremsky states the concept plan shows the 3rd stubbed road would provide
+      connections, she is not sure what will take place on the 5 acres.
+
+      Vice Chairman Hawker what are the requirements for fencing on exteriors. Jennifer states
+      there are no requirements. Basic standards in the back are 6ft and lower in the front.
+
+      Commissioners discuss and ask what size the property is compared to. Chairman Adams
+      states they are the same size as Bellevue and Cranberry Hill. According to the agreement
+      62 lots is the max they could do, or they could do less. Chairman Adams asks Brien
+      Maxfield about the 12600 south road. With it not being the proper width what would take
+      place would the city make this road in compliance with the code? Brien Maxfield
+      responded stating they would see what condition the road is in and then go from there. If
+      the road is in bad shape they would add it to the project list. Commissioner Nixon asks
+      what if they take the access road through to Pioneer, the developers would lose a little but
+      it would make more sense rather than the current plan.
+
+
+
+
+                                               5
+Draper City Planning Commission Meeting
+July 14, 2022
+      Motion: Commissioner Squire motioned to give a positive recommendation to the city
+      council for the Zoning Map Amendment for Fitzgerald Property Development
+      Agreement Zoning and Land Use Amendments for Draper City. Application DA-138-
+      2022. Based on the findings and sub conditions listed in the staff report dated July 5,
+      2022.
+
+      Second: Commissioner Fowler
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Fowler, Hawker, Squire, Nixon and voted, “Aye”.
+
+      Discussion was led by Vice Chairman Craig Hawker, the issue he has is if the zoning is
+      changed without the development agreement. He doesn't want to change the zoning if the
+      development agreement doesn't go through. Jennifer Jastremsky states the development
+      agreement and the re-zone will be in the same ordinance. It is a packaged deal.
+
+      Motion: Commissioner Fowler motioned to give a positive recommendation to the
+      City Council for Fitzgerald Property Development Agreement Zoning and Land Use
+      Amendments for Draper City. Application DA-138-2022. Based on the findings and
+      sub conditions listed in the staff report dated July 5, 2022 and as modified by the
+      findings and conditions listed below, that the City completes the access road across
+      the 5 acre property, when the development is finished not when the City decides to
+      develop the 5 acres.
+
+      Second: Commissioner Nixon
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Fowler, Hawker, Squire and Nixon voted, “Aye”.
+
+      Motion: Commissioner Nixon motioned to make a positive recommendation to the
+      City Council for the approval of the Land use Map Amendment requested By
+      Drapery city for the Fitzgerald Property. Application DA-138-2022. TXT 140-2022
+      and TXT 141-2022. Based on the findings and sub conditions listed in the staff report
+      dated July 5, 2022.
+
+      Second: Commissioner Fowler
+
+      Vote: A roll call was taken with the Commissioners voting 3-1 in favor of the motion.
+      Commissioners Fowler, Squire, Nixon voted, “Aye”. Commissioner Hawker voted
+      “Nay”
+
+   4. Action Item: Holiday Oil Landscaping Deviation Request (Administrative Action)
+
+      On the request of Brent Neel, representing Holiday Oil for a deviation to landscaping
+      requirements for 0.95 acres located at 293 East and 12300 South in the CR zone.
+
+
+
+
+                                             6
+Draper City Planning Commission Meeting
+July 14, 2022
+      Application VAR-129-2022. Staff contact is Jennifer Jastremsky, 801-576-6328,
+      jennifer.Jastremsky@draperutah.gov
+
+      Jennifer Jastremsky states this Holiday was developed in the 90’s the Applicant is wanting
+      to make changes, and add some gas pumps, they would like to change the design of the
+      convenient store, and are asking for a deviation on the landscaping for the project.
+      Currently in the code it states “The minimum depth for landscaping is 10ft.”The applicant
+      has no landscaping on the west side of the property and would like to keep it that way, they
+      would like to move the convenient store closer to the carwash, and add more gas pumps.
+      With the current code stating 10 ft. is needed for landscaping, this would cause a two way
+      driving through to move down to a one way driving zone.
+
+      Deviation Request
+      9-23-030: Deviation from strict compliance
+      B. Findings required: the planning commission may authorize a landscape plan deviation
+      only if it finds the deviation:
+
+      1. Is consistent with the proposed chapter and any applicable master plan ordinance.
+      2. Reflects a design that conforms to the requirements of this chapter to the greatest extent
+         possible and offers alternate methods for addressing landscaping requirements for
+         which a deviation is being requested. Alternative methods may include additional
+         fencing, berming, and plant material that would otherwise be required.
+      3. Will not adversely affect neighboring property owners or residents.
+      4. Will not adversely affect sight distance or otherwise diminish public safety.
+      5. Is justified by site constraints and
+      6. Is of high quality and intergrades aesthetically with the design of the primary building
+         on site and established streetscape. (Ord. 1132, 2-17-2015).
+
+      Chairman Adams invited the applicant up. Applicant John Linton,
+
+      This would allow them to improve a much used station by giving it a facelift. The building
+      will be shifted to the north, and will be better for the patrons and staff. John Linton states
+      he has enjoyed working with Mike Barker through different things and talking about what
+      actions they need to take to move forward on this project.
+
+      Commissioner Lisa Fowler asks if the new plan shows the access being for one vehicle
+      why is the applicant asking for a deviation to make it two vehicle access.
+
+      Jennifer Jastremsky states that the current measurements in that area are 17 ft. if the
+      landscaping was left the same at the 10ft, the driving through would be 7ft, which is against
+      code, needing at least 13 ft. for the driving through access. Making it so the applicant would
+      have to move the building to move over and cut down on potential parking on the other
+      side.
+
+
+
+
+                                                7
+Draper City Planning Commission Meeting
+July 14, 2022
+      Motion: Commissioner Craig Hawker made a motion to approve the Holiday Oil
+      Landscaping Deviation. Based on the findings and sub conditions listed in the staff
+      report dated July 5, 2022.
+
+      Second: Commissioner Squire
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Fowler, Hawker, Squire and Nixon voted, “Aye.”
+
+
+5.    Public Hearing: Development Agreements for Bangerter Crossing 2 Office Site Plan
+      and Fairfield Inn & Suites Site Plan (Legislative Action)
+
+      On the request of Wadsworth Development requesting Development Agreements for
+      Bangerter Crossing 2 Office Site Plan and Fairfield Inn & Suites Site Plan.Bangerter
+      Crossing located at 13673 South 100 East on 1.6 acres and Fairfield Inn located on 13678
+      south 100 East on 2.3 acres. Application DA-48-2022. The Staff contact on this project is
+      Jennifer Jastremsky 801-576-6328 or jennifer.Jastremsky@draperutah.gov
+
+      Jennifer Jastremsky presents these two requests that were approved in 2020, an office
+      building and a hotel. The code requires the applicant to continue with the site plan before
+      it expires one year from applying.
+
+      The Developmental Agreement:
+      ● Requires the previously approved site plan including deviations
+      ● Development will not be required to go back through a site plan application and public
+         hearing before proceeding to land disturbance permit and building permit.
+      ● New expiration date for site plan approval is the agreement expiration date July 2028.
+
+      Changes since the agenda packet went out.
+      ● Updates to ownership and notary information
+      ● Vest the site plans to the code in place at the time of site plan approval
+      ● Clarifies that site plan cannot be voided or made to comply with new requirements prior
+         to the expiration of the agreement.
+
+      Jennifer Jastremsky states the two share an access point, there are shared parking spaces
+      between the current hotel and future developments.
+
+      Chairman Adams invited the applicant up to speak. Applicant Nate Ballard Wadsworth
+      Development, they are the master developers in the area, for Harmons and others. Back
+      when they originally applied in 2020, due to timing it stopped. They currently would like
+      to finish up the project now as they planned before.
+
+      Nate Ballard hopes the Planning Commission approves what's already been approved.
+      They want to start the full design of the hotel now, the only thing that has changed is the
+      timing difference. They had originally planned to do the office building first, and then the
+
+
+
+                                               8
+Draper City Planning Commission Meeting
+July 14, 2022
+      hotel. This has changed making it so the hotel will be executed first and then the office
+      building.
+
+      Chairman Andrew Adams opens the public hearing reminding anyone with public
+      comments to state names for record and keep comments to 3 minutes.
+
+      No public comments were made.
+
+      Chairman Andrew Adams closes the public hearing.
+
+      Mike Barker, asked the applicant if the hotel brand requires 45 ft. in order to build? Nate
+      Ballard responded stating he would prefer it to be a little taller but yes they are keeping it
+      at the 45 ft. requirement.
+
+      Commissioner Mary Squire asks what the deviation is on hotels and office buildings.
+      Jennifer Jastremsky responds by stating the height of the hotel is 55 ft. and office buildings
+      59 ft. tall.
+
+      Motion: Commissioner Fowler made a motion to send a positive recommendation to
+      the City Council to approve the Development Agreements for Bangerter Crossing 2
+      Office Site Plan and Fairfield Inn & Suites Site Plan as requested by Nate Ballard
+      representing Wadsworth Development. Application DA-28-2022. Based on the
+      findings and sub conditions listed in the staff report dated July 14, 2022.
+
+      Second: Commissioner Nixon
+
+      Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+      Commissioners Fowler, Hawker, Squire, Nixon and voted, “Aye.
+
+      Jennifer Jastremsky informed the Commissioners about the Utah American Planning
+      Association Chapter Conference, September 8th and 9th. She said if anyone can attend they
+      need to register for it and to let Amie or Jennifer know and the City will register them.
+
+6.    Adjournment 8:05 p.m.
+      Commissioner Nixon made a motion to adjourn. The meeting was adjourned.
+
+
+
+
+                                                9
+

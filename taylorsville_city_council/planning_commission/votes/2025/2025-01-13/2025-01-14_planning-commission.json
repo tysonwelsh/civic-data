@@ -1,0 +1,120 @@
+{
+ "date": "2025-01-14",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2025/2025-01-13/2025-01-14_planning-commission.md",
+ "present": [
+  "Cindy Wilkey",
+  "Don Russell",
+  "Marc McElreath",
+  "Lynette Wendel",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young",
+  "Don Quigley"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell moved to approve the minutes of the December 3rd Special Work Session",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Russell",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "David Wright"
+   ],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell moved to approve the minutes of the December 1091 meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Russell",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [
+    "David Wright",
+    "Cindy Wilkey"
+   ],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to approve File # 3S124- SI- RA- 000498- 2024, the request for a reasonable accommodation for a recovery residence at 5257 South 3600 West to increase the number of unrelated adults allowed to occupy a residence from four ( 4) to eight ( 8)",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6-1 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Marc McElreath",
+   "seconder": "Don Russell",
+   "aye": [
+    "Don Russell",
+    "Marc McElreath",
+    "David Wright",
+    "Cindy Wilkey",
+    "Lynette Wendel",
+    "David Young"
+   ],
+   "nay": [
+    "Gordon Willardson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "6-1",
+   "case_no": [
+    "3S124",
+    "RA--000498"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Lynette Wendel",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "3S124"
+   ],
+   "motion_no": 4
+  }
+ ]
+}

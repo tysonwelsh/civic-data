@@ -1,0 +1,42 @@
+date,body_id,kind,reason,verified_date
+2020-04-21,1360,mislabel,PMN file 593695 (April21 F.pdf) labeled (Meeting Minutes) is the agenda not minutes — read PDF and excluded,2026-07-05
+2021-01-19,1360,other,combined-doc architecture: PMN posts separate Formal/Work Session + Airport LOC board files; repo holds the combined docs,2026-07-17
+2021-05-04,1360,other,combined-doc architecture: PMN duplicate Formal + Work Session files vs repo combined docs,2026-07-17
+2021-05-11,1360,other,combined-doc architecture: PMN Limited Formal + WS split vs repo combined doc,2026-07-17
+2021-06-21,1360,other,combined-doc architecture: PMN Formal + Work Session split vs repo combined doc,2026-07-17
+2021-10-05,1360,other,combined-doc architecture: PMN Formal + Work Session split vs repo combined doc,2026-07-17
+2021-10-19,1360,other,combined-doc architecture: PMN duplicate Formal + WS split vs repo combined docs,2026-07-17
+2021-11-16,1360,other,combined-doc architecture: PMN Formal + duplicate WS split vs repo combined docs,2026-07-17
+2022-02-15,1360,other,combined-doc architecture: PMN Formal + Work Session split vs repo combined doc,2026-07-17
+2022-02-16,1360,other,combined-doc architecture: PMN Special WS + a wrong-attached 3.2.2021 Formal vs repo combined doc,2026-07-17
+2022-04-05,1360,other,combined-doc architecture: PMN Formal + WS split vs repo combined doc,2026-07-17
+2022-09-06,1360,other,combined-doc architecture: PMN Formal + WS split vs repo combined doc,2026-07-17
+2023-04-04,1360,other,combined-doc architecture: PMN scan + Approved Formal + WS files vs repo combined docs,2026-07-17
+2023-05-23,1360,other,combined-doc architecture: PMN Limited Formal + WS split vs repo combined doc,2026-07-17
+2023-08-15,1360,other,combined-doc architecture: PMN duplicate Formal + Formal + WS files vs repo combined docs,2026-07-17
+2023-11-07,1360,other,combined-doc architecture: PMN Formal + duplicate (mis-dated 2024) WS files vs repo combined docs,2026-07-17
+2023-12-05,1360,other,combined-doc architecture: PMN BOC + Approved + Signed Formal (dup) + WS files vs repo combined docs,2026-07-17
+2023-12-08,1360,other,combined-doc architecture: PMN Special WS Approved + Signed duplicate vs repo combined doc,2026-07-17
+2024-05-07,1360,other,combined-doc architecture: PMN multi-stage Trifecta (all-bodies) approvals + WS vs repo single combined doc,2026-07-17
+2024-05-07,1277,other,combined-doc architecture: RDA rides the combined Trifecta doc; PMN multi-stage approval versions vs repo single doc,2026-07-17
+2024-06-04,1360,other,combined-doc architecture: PMN multi-stage Trifecta approvals + WS vs repo combined docs,2026-07-17
+2025-08-19,1360,other,combined-doc architecture: PMN Truth-in-Taxation + Approved Formal + WS files vs repo combined docs,2026-07-17
+2022-09-12,1277,wrong_date,attached file September 13 2022 RDA Minutes = 2022-09-13 (already in repo as combined doc); PMN event date off by one,2026-07-17
+2023-01-11,1360,other,Legislative Breakfast adjacent-series minutes (non-governing, no votes); real doc but out of council-business scope — see report for recovery option,2026-07-17
+2023-01-16,1360,other,ceremonial legislator open-house/dessert-tour minutes (non-governing); real doc out of council-business scope — see report,2026-07-17
+2025-07-10,1274,other,Historic Landmark Commission minutes filed under PC body 1274; HLC out of repo PC scope,2026-07-17
+2025-08-15,1360,mislabel,only attachment is 8-19-2025 Truth in Taxation.pdf = 2025-08-19 minutes (already in repo); no 08-15 limited-formal minutes attached,2026-07-17
+2020-05-07,1274,other,Historic Landmark Commission agenda filed under PC body 1274; HLC out of PC scope,2026-07-17
+2020-06-04,1274,other,Historic Landmark Commission agenda filed under PC body 1274; HLC out of PC scope,2026-07-17
+2020-07-16,1274,other,Historic Landmark Commission agenda filed under PC body 1274; HLC out of PC scope,2026-07-17
+2020-08-06,1274,other,Historic Landmark Commission agenda filed under PC body 1274; HLC out of PC scope,2026-07-17
+2020-09-03,1274,other,Historic Landmark Commission amended agenda filed under PC body 1274; HLC out of PC scope,2026-07-17
+2022-10-27,1277,other,RDA public-hearing notice (not a distinct meeting; no minutes),2026-07-17
+2022-11-02,1277,other,notice of public hearing + comment period re EPA grant funds (not a meeting),2026-07-17
+2024-04-23,1360,other,public-hearing notice on MU-8 zone sign text amendments (hearing held at a regular council mtg),2026-07-17
+2026-04-28,9033,other,CRA public-hearing/comment notice re EPA Brownfield cleanup grant (not a meeting),2026-07-17
+2023-07-26,1360,other,EPA/Inland Port stakeholder discussion ("July 26 2023 Council Retreat") - informal non-governing meeting; PrimeGov has HTML Agenda only (no minutes ever produced); out of council-business/votes scope,2026-07-19
+2022-01-03,1360,ceremonial,Oath of Office Ceremony (PrimeGov tid 2625) - ceremonial swearing-in; no governing votes; out of council-business scope; do not ingest,2026-07-19
+2024-01-02,1360,ceremonial,Oath of Office Ceremony (PrimeGov tid 3388; PMN file 1089005 staged in index.csv but never promoted) - ceremonial swearing-in; no governing votes; do not ingest,2026-07-19
+2026-01-05,1360,ceremonial,Oath of Office Ceremony (PrimeGov tid 3953; PMN file 1394079 staged in index.csv but never promoted) - ceremonial swearing-in; no governing votes; do not ingest,2026-07-19
+2022-02-24,1274,other,Redistricting Advisory Commission minutes (PrimeGov tid 2717; also 2022-03-17 tid 2750) - advisory commission out of Council + land-use-PC scope (same rationale as HLC); do not ingest,2026-07-19

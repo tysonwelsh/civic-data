@@ -1,0 +1,23 @@
+date,body_id,kind,reason,verified_date
+2022-02-17,2512,mislabel,"Parks/Trails/Trees Advisory Committee meeting posted under Council body 2512; advisory body 2829 (crawl=no, out of Source-4 scope)",2026-07-17
+2025-05-22,2512,mislabel,"PARC Advisory Committee meeting posted under Council body 2512; PARC is advisory body 7645 (crawl=no, out of Source-4 scope)",2026-07-17
+2026-04-14,2512,mislabel,"Redevelopment Agency meeting agenda posted under Council body 2512; RDA is body 3315 (in-council recesses empty by design, RDA=0)",2026-07-17
+2026-05-12,2512,not_minutes,"Statutory NOTICE OF PROPOSED DISPOSITION OF REAL PROPERTY - not a meeting (weak hardening candidate: 'disposition of real property' for RE_NOT_MEETING; only 1 instance across the 3 verified cities)",2026-07-17
+2020-09-01,2512,other,"Work Session (regular Council slot is 2nd/4th Tue); PMN agenda-only, no minutes on PMN or in repo. Lehi rarely minutes work sessions - out of scope for the regular-meeting minutes corpus",2026-07-19
+2021-03-02,2512,other,"Work Session; PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2021-06-01,2512,other,"Work Session; PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2022-11-01,2512,other,"Work Session; PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2024-01-30,2512,other,"Joint Work Session (5th Tue); PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2024-07-30,2512,other,"Joint Work Meeting (5th Tue); PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2024-10-29,2512,other,"Joint Meeting (5th Tue, work); PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2026-02-05,2512,other,"City Council Budget Retreat; PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2026-02-09,2512,other,"Work Session (Mon); PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2026-04-13,2512,other,"Work Session (Mon); PMN agenda-only, no minutes. Out of scope for the regular-meeting minutes corpus",2026-07-19
+2021-11-23,2512,not_minutes,"Lehi/Draper Boundary Adjustment Public Hearing NOTICE - statutory publication, not a standalone meeting; the hearing is conducted within a regular Council meeting (repo has the 2021-11-16 regular)",2026-07-19
+2022-03-31,2512,not_minutes,"Kiene Annexation Public Hearing NOTICE (Thu) - statutory publication, not a standalone meeting with its own minutes",2026-07-19
+2021-11-09,2651,not_minutes,"PC Public Hearing NOTICE (Tue; PC meets Thu) - statutory publication, not a standalone meeting",2026-07-19
+2024-06-03,2651,not_minutes,"PC Public Hearing NOTICE (Mon) - statutory publication, not a standalone meeting",2026-07-19
+2026-04-14,2651,not_minutes,"PC Public Hearings NOTICE (Tue; PC meets Thu) - advance notice of hearings, not a standalone meeting",2026-07-19
+2022-10-06,2651,other,PC Meeting Agenda (1st Thu; regular PC is 2nd/4th Thu). No minutes on PMN or in repo; never approved in any later PC consent agenda -> not held or not separately minuted,2026-07-19
+2025-02-13,2651,other,PC Agenda (2nd Thu). No minutes on PMN or in repo; never approved in any later PC consent agenda (repo has 2025-02-27) -> cancelled/not held,2026-07-19
+2025-04-30,2651,other,"PC Agenda (Wed; off the regular Thu cycle). No minutes on PMN or in repo; never approved in any later PC consent agenda -> special/work session, not separately minuted",2026-07-19

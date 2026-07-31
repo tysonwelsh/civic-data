@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": "AT FILING", "name": "DAVID BREMS", "amount": "50.00", "in_kind": false},
+    {"date": "10/18/16", "name": "JIM & GLENIDA BRADLEY", "amount": "245.69", "in_kind": false},
+    {"date": "10/18/16", "name": "DAVID BREMS", "amount": "150.40", "in_kind": false},
+    {"date": "10/20/16", "name": "DAVID BREMS", "amount": "16.02", "in_kind": false},
+    {"date": "10/18/16", "name": "DAVID BREMS", "amount": "200.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "AT FILING", "recipient": "S.L. COUNTY", "purpose": "ELECTION FILING FEE", "amount": "50.00", "in_kind": false},
+    {"date": "10/18/16", "recipient": "PRESTO PRINT", "purpose": "PRINTING & ENVELOPES", "amount": "302.81", "in_kind": false},
+    {"date": "10/17/16", "recipient": "USPS", "purpose": "POSTAGE STAMPS", "amount": "42.88", "in_kind": false},
+    {"date": "10/19/16", "recipient": "USPS", "purpose": "POSTAGE STAMPS", "amount": "150.40", "in_kind": false},
+    {"date": "10/20/16", "recipient": "OFFICE MAX", "purpose": "ENVELOPES", "amount": "16.02", "in_kind": false}
+  ],
+  "total_contributions": "662.11",
+  "total_expenditures": "662.11",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016_nov_david-paul-brems.pdf",
+    "candidate": "David Paul Brems",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/2016_nov_david-paul-brems.pdf",
+    "pages": 4
+  }
+}

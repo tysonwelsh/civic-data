@@ -1,0 +1,192 @@
+{
+ "reports": [
+  {
+   "reporting_period": "FINAL general (signed 11/29/2021; bundle pp1-10)",
+   "total_contributions": null,
+   "total_expenditures": "25.95",
+   "contributions_50_or_less": null,
+   "beginning_balance": "111.01",
+   "ending_balance": "85.06",
+   "cover_lines": {
+    "line1_balance_forward": "111.01",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "-",
+    "line4_total_contributions": "-",
+    "line5_total_expenses": "25.95",
+    "line6_ending_balance": "85.06"
+   },
+   "contributions": [],
+   "expenditures": [
+    {
+     "date": "11/5/2021",
+     "recipient": "Maceys",
+     "purpose": "Yard sign thank yous",
+     "amount": "$4.92",
+     "in_kind": false
+    },
+    {
+     "date": "11/5/2021",
+     "recipient": "Luckys",
+     "purpose": "Yard sign thank yous",
+     "amount": "$21.03",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-general Oct 26 2021 (bundle pp12-21)",
+   "total_contributions": "1,250.00",
+   "total_expenditures": "2637.49",
+   "contributions_50_or_less": "0",
+   "beginning_balance": "1,498.50",
+   "ending_balance": "111.01",
+   "cover_lines": {
+    "1_balance_forward": "1,498.50",
+    "2_contributions_50_or_less": "0",
+    "3_contributions_over_50": "1,250.00",
+    "4_total_contributions": "1,250.00",
+    "5_total_expenses": "2637.49",
+    "6_ending_balance": "111.01"
+   },
+   "contributions": [
+    {
+     "date": "9/22/2021",
+     "name": "Salt Lake Board of Realtors PAC",
+     "amount": "750.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/12/2021",
+     "name": "Peterson Development",
+     "amount": "500.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/1/2022",
+     "name": "Salt Lake Board of Realtors PAC",
+     "amount": "1,750.00",
+     "in_kind": true
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "9/30/2021",
+     "recipient": "Deseret News",
+     "purpose": "Mailer Printing",
+     "amount": "854.78",
+     "in_kind": false
+    },
+    {
+     "date": "9/30/2021",
+     "recipient": "News Paper Mngt Co/Journal",
+     "purpose": "Journal ad",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/7/2021",
+     "recipient": "RoboCent",
+     "purpose": "text message and list",
+     "amount": "178.79",
+     "in_kind": false
+    },
+    {
+     "date": "10/11/2021",
+     "recipient": "Smith & Edwards",
+     "purpose": "mints for meet the candidates",
+     "amount": "6.15",
+     "in_kind": false
+    },
+    {
+     "date": "10/25/2021",
+     "recipient": "DN Sky mail",
+     "purpose": "mailer postage",
+     "amount": "1,167.77",
+     "in_kind": false
+    },
+    {
+     "date": "10/25/2021",
+     "recipient": "Amy Whitelock",
+     "purpose": "vinyl lettering",
+     "amount": "30.00",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-primary Aug 2 2021 (bundle pp22-31)",
+   "total_contributions": "1,050.00",
+   "total_expenditures": "477.10",
+   "contributions_50_or_less": "50.00",
+   "beginning_balance": "925.60",
+   "ending_balance": "1,498.50",
+   "cover_lines": {
+    "1_balance_forward": "925.60",
+    "2_contributions_50_or_less": "50.00",
+    "3_contributions_over_50": "1,000.00",
+    "4_total_contributions": "1,050.00",
+    "5_total_expenditures": "(477.10)",
+    "6_ending_balance": "1,498.50"
+   },
+   "contributions": [
+    {
+     "date": "6/29/2021",
+     "name": "Colleen Schow",
+     "amount": "50.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/29/2021",
+     "name": "Salt Lake Board of Realtors",
+     "amount": "1,000.00",
+     "in_kind": false
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "5/25/2021",
+     "recipient": "Wix.com",
+     "purpose": "website and domain",
+     "amount": "122.26",
+     "in_kind": false
+    },
+    {
+     "date": "6/11/2021",
+     "recipient": "Kwik Kopy",
+     "purpose": "Campaign flyers",
+     "amount": "262.76",
+     "in_kind": false
+    },
+    {
+     "date": "6/1/2021",
+     "recipient": "City of West Jordan",
+     "purpose": "Filing Fee",
+     "amount": "25.00",
+     "in_kind": false
+    },
+    {
+     "date": "7/21/2021",
+     "recipient": "Walmart",
+     "purpose": "tape",
+     "amount": "8.41",
+     "in_kind": false
+    },
+    {
+     "date": "8/2/2021",
+     "recipient": "Erin Whitelock",
+     "purpose": "reimbursement",
+     "amount": "33.67",
+     "in_kind": false
+    },
+    {
+     "date": "8/22/2021",
+     "recipient": "Carter Bramhall",
+     "purpose": "distribute flyers",
+     "amount": "25.00",
+     "in_kind": false
+    }
+   ]
+  }
+ ],
+ "notes": "MERGED multi-report re-transcription from Read-tool page-range partials in vision/_partials/ (2026-07-12, cf-vision-transcribe, no API). total_expenditures/total_contributions are cover lines 5/4 as magnitudes (verbatim incl. signs/parens in each report's cover_lines echo). Row amounts in dollars/cents-column or dash-cents notation normalized to decimals (verbatim kept per-row in amount_verbatim). Amended re-file bundling the cycle's three reports; restates the periods also filed in the Primary-and-General bundle (66bf742b) — cycle rollup takes this latest summary. R2's $1,750 Realtors PAC in-kind is excluded from its line 4 (cash-only cover)."
+}

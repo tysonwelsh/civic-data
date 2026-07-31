@@ -1,0 +1,33 @@
+{
+ "contributions": [
+  {
+   "date": "08/07/2021",
+   "name": "Ron Woodbury",
+   "amount": "132.11",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "08/03/2021",
+   "recipient": "Facebook",
+   "purpose": "Online Ads",
+   "amount": "250.00"
+  },
+  {
+   "date": "08/07/2021",
+   "recipient": "Facebook",
+   "purpose": "Online Ads",
+   "amount": "100.00"
+  },
+  {
+   "date": "08/07/2021",
+   "recipient": "Envanto",
+   "purpose": "Graphics",
+   "amount": "33.00"
+  }
+ ],
+ "total_contributions": "132.11",
+ "total_expenditures": "383.00",
+ "ending_balance": null
+}

@@ -1,0 +1,169 @@
+# White City Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/841599.pdf
+> Meeting date: 2021-09-23
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2021-09-23
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/841599.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                              Planning and Development Services
+                                              2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                              Phone: (385) 468-6700 • Fax: (385) 468-6674
+
+
+
+                                             MEETING MINUTE SUMMARY
+                                    WHITE CITY PLANNING COMMISSION MEETING
+                                      Thursday, September 23, 2021 6:00 p.m.
+
+                                **Meeting minutes approved April 28, 2022**
+Approximate meeting length: 58 minutes                                     *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 25                                         found on the State websites, or from Planning &
+                                                                           Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner Millen
+
+                                                      ATTENDANCE
+Commissioners and Staff:
+
+                                    Public     Business
+         Commissioners                                    Absent                                                 Public      Business
+                                     Mtg         Mtg                              Planning Staff / DA
+                                                                                                                  Mtg          Mtg
+ Christy Seiger-Webster (V Chair)                           x
+      Christopher Spagnuolo           x           x                                  Wendy Gurr                     x            x
+           Robert Frailey             x           x                                  Erin O’Kelley                  x            x
+     Gene Wilson (Alternate)                                x                       Kayla Mauldin                   x            x
+          Antoinette Blair            x           x                               Lupita McClenning                 x            x
+      Weston Millen (Chair)           x           x                                  Jay Springer                   x            x
+     Christopher Huntzinger
+                                                            x
+            (Alternate)
+
+                                                 BUSINESS MEETING
+
+                                              Meeting began at – 6:02 p.m.
+    1) Approval of the August 26, 2021 Planning Commission Meeting Minutes. (Motion/Voting)
+       Motion: To approve the August 26, 2021 Planning Commission Meeting Minutes as presented.
+             Motion by: Commissioner Spagnuolo
+             2nd by: Commissioner Millen
+             Vote: Commissioners voted unanimous in favor (of commissioners present)
+         Approval of the September 7, 2021 Planning Commission Meeting Minutes. (Motion/Voting)
+         Motion: To continue the September 7, 2021 Planning Commission Meeting Minutes to the next
+         meeting.
+                Motion by: Commissioner Spagnuolo
+                2nd by: Commissioner Millen
+                Vote: Commissioners voted unanimous in favor (of commissioners present)
+    2) Other Business Items (as needed)
+
+         No other business items to discuss.
+
+         Commissioner Spagnuolo motioned to close the business meeting.
+
+White City Planning Commission – September 23, 2021 – Meeting Summary                                                   Page 1 of 3
+                                           PUBLIC HEARING(S)
+                                        Hearings began at – 6:06 p.m.
+
+The Planning Commission will hear a proposal to recommend adoption of the 2021 White City
+General Plan. The drafted General Plan is the first Plan prepared for White City since its incorporation in
+2017. By state code, General Plans are required to include considerations for land use, transportation, and
+moderate income housing (White City adopted its Moderate Income Housing Plan in 2019). This Plan
+additionally considers Lifelong Communities, a chapter dedicated to helping residents age in place.
+Planner: Erin O’Kelley (Motion/Voting)
+
+The public may view the draft General Plan prior to the hearing at: https://bit.ly/whitecity-generalplan.
+
+The Planning Commission will act on the proposed public hearing item after taking comments from the
+public during the public hearing. Public comments will be provided pursuant to the planning commission’s
+rules of conduct, which are attached to the back of this agenda. Public comments will be limited to three
+minutes per person.
+
+Greater Salt Lake Municipal Services District Long Range Planner Erin O’Kelley provided a presentation
+regarding the process and timeline.
+
+Commissioner Spagnuolo motioned to open the public hearing, Commissioner Millen seconded that motion.
+
+
+                              PUBLIC PORTION OF HEARING OPENED
+
+Ms. Gurr read two emails received under public comment (attached).
+
+Speaker # 1: Citizen
+Name: Scott Little
+Address: 854 East Hollyhock Avenue
+Comments: Mr. Little read from a letter submitted after the meeting and attached to the minutes.
+
+Commissioner Spagnuolo said when broke off from Unincorporated County, the code copied Salt Lake
+County Code.
+
+Speaker # 2: Citizen
+Name: Daniel Herbert-Voss
+Address: 974 East Platinum Way
+Comments: Mr. Herbert-Voss said concern is something addressed. Pocket where houses look like dumps
+and communicated with Salt Lake County and sent code enforcement with no changes and how do I know
+the proposed will make changes.
+
+Speaker # 3: Citizen
+Name: Andrew Neilsen
+Address: 1019 East Serpentine Way
+Comments: Mr. Neilsen said concerns everything listed is generalized and high level. Seem to be in conflict
+and hard to know what the plan will do for the community without specifics listed. Talks about bringing
+tax base back in. general plan is too general and how goals are achieved.
+
+
+White City Planning Commission – September 23, 2021 – Meeting Summary                            Page 2 of 3
+Speaker # 4: Citizen
+Name: Randy Hoggan
+Address: 9930 South Poppy Lane
+Comments: Mr. Hoggan said noticed Sego Lily Drive, only people have been notified not notified. He has
+asked about sidewalks and asked about it and would be nice if they received a heads up if the grant received.
+Neighbor across the street is a duplex and the owner owns additional houses, now is an Airbnb and effects
+the neighbors. Asked if it is legal to have an Airbnb or still illegal. Wants to allot the remainder of his time
+to Mr. Little to finish.
+
+Speaker # 5: Citizen
+Name: Scott Little
+Address: 854 East Hollyhock Avenue
+Comments: Mr. Little continued reading from his litter submitted after the meeting and attached.
+
+Speaker # 6: Citizen
+Name: Leonard Peterson
+Address: 10352 South Crocus Street
+Comments: Leonard said how does he get no parking signs in front of his house now that the new school
+is built. He’s spoke to engineering and the mayor and informed he has to go back to the law enforcement
+and he gets a ticket if he parks there.
+
+Commissioners advised code enforcement and provided contact information.
+
+Commissioner Spagnuolo motioned to close the public hearing, Commissioner Blair seconded that motion.
+
+                              PUBLIC PORTION OF HEARING CLOSED
+
+Commissioners had a brief discussion regarding general goals, land use codes, and zoning ordinances.
+
+Motion: To recommend the White City General Plan to the White City Council for adoption as presented,
+with language inserted recommending a revision of land use codes and zoning ordinances.
+        Motion by: Commissioner Spagnuolo
+        2nd by: Commissioner Millen
+        Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+
+Commissioner Spagnuolo motioned to adjourn, Commissioner Millen seconded that motion.
+
+
+                                          MEETING ADJOURNED
+                                         Time Adjourned – 7:00 p.m.
+
+
+
+
+White City Planning Commission – September 23, 2021 – Meeting Summary                               Page 3 of 3
+

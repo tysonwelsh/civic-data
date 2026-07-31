@@ -1,0 +1,60 @@
+{
+ "contributions": [
+  {
+   "date": "10/25/2025",
+   "name": "Anne Nafziger",
+   "amount": "30.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/26/2025",
+   "name": "Ashley Taylor",
+   "amount": "20.00",
+   "in_kind": false
+  },
+  {
+   "date": "11/03/2025",
+   "name": "Laura Shmucker",
+   "amount": "50.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/30/2025",
+   "name": "Tori Horton",
+   "amount": "96.29",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "11/05/2025",
+   "recipient": "Blueprint Public Affaris",
+   "purpose": "consultant",
+   "amount": "1000.00"
+  },
+  {
+   "date": "11/05/2025",
+   "recipient": "USPS",
+   "purpose": "postage",
+   "amount": "24.40"
+  },
+  {
+   "date": "11/18/2025",
+   "recipient": "Ghost.org",
+   "purpose": "website",
+   "amount": "31.00"
+  },
+  {
+   "date": "11/18/2025",
+   "recipient": "Visa Inertnational Service Assesment",
+   "purpose": "credit card fee",
+   "amount": "0.31"
+  }
+ ],
+ "contributions_under_500": null,
+ "contributions_itemized": "196.29",
+ "total_contributions": null,
+ "expenditures_under_500": null,
+ "expenditures_itemized": "1055.71",
+ "total_expenditures": null
+}

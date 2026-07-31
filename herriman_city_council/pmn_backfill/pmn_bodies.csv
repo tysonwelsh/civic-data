@@ -1,0 +1,9 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+155,1155,City Council,yes,meeting_minutes;planning_commission,,pm4,2020-01-01,cross-filing both directions — true body classified from FILENAME at verification (RCCM/SCCM=council PC/PCM=pc)
+155,1151,Planning Commission,yes,meeting_minutes;planning_commission,,pm4,2020-01-01,council minutes appear under the PC body and vice versa
+155,2256,Community Development and Renewal Agency (CDRA),yes,meeting_minutes,,pm4,2020-01-01,in-session agency inside combined council docs
+155,6239,Herriman City Safety Enforcement Area (HCSEA),yes,meeting_minutes,,pm4,2020-01-01,in-session agency
+155,7553,Herriman City Fire Service Area (HCFSA),yes,meeting_minutes,,pm4,2020-01-01,in-session agency
+155,1251,Joint City Council and Planning Commission Work Meetings,yes,meeting_minutes;planning_commission,,exact,2020-01-01,exact-date per the wave's method (joint body dates reliable)
+155,1171,Appeals Authority Board,no,,,,,unmodeled quasi-judicial body (known repo-wide flag; 1 minutes attachment all-time)
+155,1287,Public Hearings and Notices,no,,,,,no minutes attachments ever — not a minutes body

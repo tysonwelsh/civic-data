@@ -1,0 +1,225 @@
+{
+ "date": "2025-09-25",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2025/2025-09-22/2025-09-25_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Gregory Jackson",
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Emily Lockhart",
+  "Ken Roberts"
+ ],
+ "members_absent": [
+  "Brent Everett",
+  "Beau Jones"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Eyre moved to approve the minutes as presented. Commissioner Lockhart seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Emily Lockhart",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public Hearing and Recommendation of Austin Cooper’s request for review of R-1-22 (residential/agriculture) zoning for the JDH Olson Annexation, approximately 5.08 acres located at approximately 1500 South 1100 West.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Tyson Eyre",
+   "seconder": "Nicole Kunze",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and recommendation of Jordan Lee’s request for review of the Lee General Plan Amendment on 0.50-acres located at 1035 West Main Street, changing the land designation from MDR (medium density residential) to Commercial.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "4:1 Pass",
+   "mover": "Ken Roberts",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Emily Lockhart"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and consideration of Life Time Fitness’ request for approval of the Life Time Fitness Concept plan seeking an exception to having parking between the building and the street located at approximately 300 East Traverse Terrace Drive.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public Hearing and Consideration of Jonny Warner’s request for approval of a conditional use for Warner Transport & Dirt Storage located at 7491 W 8179 N (approximately 800 E 850 S).",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Emily Lockhart",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 6,
+   "motion": "Public hearing and recommendation of Perry Developments’ request for review of the Bull River Road General Plan Amendment on 1.48 acres located approximately 400 West Bull River Road changing the land use designation from LDR (Low Density Residential) to HDR (High Density Residential).",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation 5:0",
+   "mover": "Emily Lockhart",
+   "seconder": "Ken Roberts",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 7,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of the Starter Home Attainable Residential (SHAR) ordinance creating an opportunity for the development of small single-family homes.",
+   "body": "PlanningCommission",
+   "motion_type": "Ordinance",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "5:0 Pass",
+   "mover": "Tyson Eyre",
+   "seconder": "Emily Lockhart",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 8,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of the Starter Home Attainable Residential (SHAR) ordinance creating an opportunity for the development of small single-family homes.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation 5:0",
+   "mover": "Emily Lockhart",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Ken Roberts",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

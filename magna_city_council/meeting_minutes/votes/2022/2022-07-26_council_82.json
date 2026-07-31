@@ -1,0 +1,65 @@
+{
+ "date": "2022-07-26",
+ "year": 2022,
+ "title": "City Council Regular Meeting",
+ "body": "Council",
+ "source": "minutes/2022/2022-07-26_council_82.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "Council Member Hull, seconded by Council Member Prokopis, moved to approve the minutes of the Magna Metro Township Council meeting held on June 28, 2022",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous Pass",
+   "mover": "Trish Hull",
+   "seconder": "Steve Prokopis",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "Council Member Hull, seconded by Council Member Prokopis, moved to approve $300,000 from either ARPA or CARES funds, contingent upon receiving the grant",
+   "motion_type": "Grant-Funding",
+   "result": "Unanimous Pass",
+   "mover": "Trish Hull",
+   "seconder": "Steve Prokopis",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "Council Member Prokopis, seconded by Council Member Hull, moved to approve the following Resolution",
+   "motion_type": "Resolution",
+   "result": "3-1 Pass",
+   "mover": "Steve Prokopis",
+   "seconder": "Trish Hull",
+   "aye": [],
+   "nay": [
+    "Audrey Pierce"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    3,
+    1
+   ],
+   "mayor_voted": false,
+   "motion_no": 3
+  }
+ ]
+}

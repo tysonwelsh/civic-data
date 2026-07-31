@@ -1,0 +1,24 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "8-14-23", "recipient": "Midvale City Filing Fee", "purpose": null, "amount": "25.00", "in_kind": false},
+    {"date": "8-18-23", "recipient": "Salt Lake County", "purpose": "Voters List", "amount": "15.00", "in_kind": false},
+    {"date": "9-8-23", "recipient": "Next Day Flyers", "purpose": "Door Hangers", "amount": "390.96", "in_kind": false},
+    {"date": "9-12-23", "recipient": "Sugarhouse Print Solutions", "purpose": "Yard Signs", "amount": "156.59", "in_kind": false},
+    {"date": "10-4-23", "recipient": "Deseret News Publishing", "purpose": "Mailers", "amount": "1,119.16", "in_kind": false},
+    {"date": "10-10-23", "recipient": "Deseret News Publishing", "purpose": "Postage", "amount": "669.97", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "2,376.68",
+  "ending_balance": "2,376.68",
+  "_meta": {
+    "index_path": "raw/2023_01_Bart-Benson.pdf",
+    "candidate": "Bart Benson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_01_Bart-Benson.pdf",
+    "pages": 3,
+    "note": "28 DAY REPORT (interim), signed 10/11/23. Itemized contribution table blank; Total value of contributions = 0. Six itemized expenditures. Row-1 payee 'Midvale City Filing Fee' printed in the payee column with no separate purpose entry. Balance (line 3, 'difference between lines 1 and 2') entered as positive 2,376.68, not negated. Cover totals copied verbatim, itemized rows not reconciled."
+  }
+}

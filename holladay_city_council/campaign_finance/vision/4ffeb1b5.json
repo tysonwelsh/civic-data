@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "9-30-21", "name": "Rob & Toni Dahle", "amount": "1,000.00", "in_kind": false},
+    {"date": "10-12-21", "name": "Rob & Toni Dahle", "amount": "5,000.00", "in_kind": false},
+    {"date": "9-30-21", "name": "Rob & Toni Dahle (AMEX)", "amount": "600.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6-2-21", "recipient": "Holladay City (Filing Fee)", "purpose": null, "amount": "35.00", "in_kind": false},
+    {"date": "9-30-21", "recipient": "City Journals", "purpose": null, "amount": "600.00", "in_kind": false},
+    {"date": "10-1-21", "recipient": "Love Communications", "purpose": null, "amount": "1797.00", "in_kind": false}
+  ],
+  "total_contributions": "6,600.00",
+  "total_expenditures": "2432.00",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "4168.00",
+  "_meta": {
+    "index_path": "raw/2021_state_dahle-oct.pdf",
+    "candidate": "Robert M. Dahle",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2021_state_dahle-oct.pdf",
+    "pages": 3
+  }
+}

@@ -1,0 +1,1002 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2025-07-09
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2025/07.09.2025.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 19
+audio: 07.09.2025.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 1 of 19
+
+LAR
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+July 9, 2025 - 2:00 PM
+
+When necessary, board members may participate electronically with the anchor location as stated above.
+
+The public may participate at the anchor location stated above. Public comments will be limited to two
+(2) minutes per individual unless otherwise approved by the Board.
+
+Or you may watch the meeting live on YouTube under the heading UTAH COUNTY GOVERNMENT or by
+
+going to the link: https://www.youtube.com/channel/UCkRYDnXVDLGv9792bhWn9We/videos
+
+Next two upcoming Commission meeting dates: Wednesday, July 16, 2025 at 2:00 p.m.
+and Wednesday, July 30, 2025 at 2:00 p.m.
+
+~COMMISSION MEETING MINUTES~
+(Rules suspended due to only two Commissioners in attendance)
+
+In attendance: Commissioner Gordon (Chair), Commissioner Beltran
+Absent: Commissioner Powers Gardner
+
+Others in attendance: See attached sign-in sheet.
+
+(Meeting called to order: 2:01pm)
+
+PRAYER/READING/THOUGHT: Eldon Neves
+PLEDGE OF ALLEGIANCE: Wade Gardner
+
+RECOGNITION
+1. RECOGNITION OF JULY 2025 EMPLOYEE OF THE MONTH.
+
+-PJ Maughan, Human Resources
+(Timestamp: 2:40)
+
+COMMISSIONER ANNOUNCED KAYLEE SMYTH AS THE JULY 2025 EMPLOYEE OF
+THE MONTH AND READ THE FOLLOWING NOMINATION.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 2 of 19
+
+Kaylee Smyth is an incredible person and worker, and I would like to nominate her for
+Employee of the Month. She exemplifies all the best qualities of an employee. She is efficient,
+accurate, capable, hardworking, and she brings a positive attitude to everything she does. Her
+cheerfulness, reliability, and competence make her exactly the type of employee every manager
+hopes for and the type of coworker everyone loves to have on their team.
+
+| appreciate everything she does to keep our voter rolls clean and updated. In the world of data
+entry, where speed and accuracy are critical, Kaylee sets the standard. She regularly ranks as
+our most efficient employee when it comes to associating signatures, processing voter
+registrations, and verifying signatures. Her data entry skills are truly unmatched, and her
+attention to detail ensures that our elections run smoothly.
+
+Beyond her technical skills, Kaylee represents our office professionally. She is often the first face
+the public sees when they come to our front counter, and she always handles herself with
+kindness and a warm, welcoming smile. She gets along with everyone; her coworkers admire
+her, and her supervisor constantly praises her contributions and attitude. She brings a positive
+energy to work every day.
+
+When we faced the daunting task recently of verifying 64,000 signatures for a statewide
+referendum, Kaylee didn’t hesitate to step up. She embraced the extended work hours and
+weekend shifts, showing her commitment to the team and to getting the job done. No one
+processed more signatures than she did—and more importantly, her work was accurate.
+
+For all these reasons and more, I hope Kaylee will be recognized with the honor of being named
+Utah County’s Employee of the Month. Nominated by Brian Voeks
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 3 of 19
+
+WORK SESSION
+1. CENTRAL UTAH WATER CONSERVANCY DISTRICT RATE PRESENTATION
+
+-Ezra Nair, Commission
+(Timestamp: 5:50)
+
+GENE SHAWCROFT (General Manager of the Central Utah Water Conservancy District) GAVE THE
+FOLLOWING POWER POINT PRESENTATION.
+
+DON
+
+CENTRAL UTAH WATER
+
+Truth in Taxation County Report
+
+Fiscal Year 2025-2026
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 4 of 19
+
+CUP Bonneville Unit Features
+
+* CUWCD Operates, Maintains, and Replaces over
+$4 Billion of infrastructure
+
+* 8 Dams and Reservoirs — 1.6 million A-F of Storage
+
+* 3 Major and 6 Minor Diversion Dams
+
+* 100+ Miles of Large Diameter Tunnels and Pipelines
++ 13 MW Jordanelle Hydroelectric Power Plant
+
+* 12 MW Olmsted Hydroelectric Power Plant
+
+* Wasatch County Water Efficiency Project
+* 18 miles of open canals, 50 miles of buried pipeline
+* 400 turnouts, 9 pump stations
+
+How Does The District Benefit
+The Public?
+
+Reservoirs provide flood control
+
+Wholesale water—cost recovery only
+
+Minimum stream flows to protect fisheries and rivers
+Conservation efforts reduce water consumption
+Contributions for wildfire mitigations on public lands
+Watershed protection
+
+Drought Mitigation
+
+FY 2025-2026 Expenditures
+Budget Overview
+
+District Projects and
+Operations and Admin
+Maintenance 13%
+5%
+
+Construction Related
+68%
+
+Debt Related
+14%
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 5 of 19
+
+FY 2025-2026 Revenues
+Budget Overview
+
+From Fund Balance*
+29%
+
+Taxes
+
+Reserves
+
+3% RDA Tax Revenue
+3%
+Federal/Other
+15% Water
+17%
+Interest
+1% *Fund Balance includes prior year revenues that
+
+1% have accumulated in bank accounts at the beginning
+of the fiscal year.
+
+Ongoing/Upcoming Projects in Utah County
+
+* Central Utah Project CRP
+* Alpine Aqueduct 1 Relocation -
+~$100M
+* Central Water Project
+* Water Polishing Facility ~S95M
+¢ Utah Lake System
+* Spanish Fork-Santaquin Pipeline ~$75M
+* Don A. Christiansen Regional WT
+
+* CRP Projects of ~$3.7M budgeted for FY
+2026
+
+* Nebo Regional Water Project
+* Strawberry Highline Canal Enclosure
+
+* Estimated costs of approx.
+$300M
+
+* South Utah Valley Regional Water
+Treatment Plant and related
+infrastructure
+
+* Estimated costs exceeding $1B
+
+mM So
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 6 of 19
+
+\orized Rat
+
+nate
+
+Tax R Bevent
+
+AD-Valorem $120.1 Million $126.5 Million $6.4 Million
+Taxes
+
+WTP Reserve Revenue vs. Capital Replacement
+Expenditures
+$12,000,000.00
+
+$10,000,000.00
+
+$2,000,000.00 util tT
+
+7 2028 2029 2030 2031 2032 203: 2035
+
+=WIPReserveRevenue —_s WIP Capital Replacement Exp.
+
+Replacement
+
+R \c
+
+CUP Reserve Revenue vs. Capita
+
+Expendi tures
+
+$80,000,000.00
+$60,000,000.00
+$40,000,000.01
+
+$20,000,000.00
+
+SedoubNonndadaee
+
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+
+uP cupc placement Exp.
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 7 of 19
+
+What Will this Cost an Average Household?
+
+e Average Household Value in Utah County
+
+¢ $570,000 Home
+* Certified Rate estimated at 0.000380 = $119.13
+* Proposed Rate of 0.0004 = $125.40
+* $6.27 (5.3%) annual tax increase to maintain the rate at 0.0004
++ ($0.52 per month)
+
+Meetings and Hearings
+
+¢Truth in Taxation Public Hearings
+* August 25" in Roosevelt — 6pm
+¢ August 26" in Orem — 6pm
+
+° Final Budget Hearing
+* August 27* Board Meeting — 1pm
+
+PUBLIC HEARING
+
+1. PUBLIC HEARING TO DISCUSS THE CREATION OF THE NEW RELIEF MINE
+COMPANY 2025 AGRICULTURE PROTECTION AREA. THE AREA TO BE CONSIDERED IS
+APPROXIMATELY 175 ACRES LOCATED IN SECTION 17, 18 & 19, TOWNSHIP 9 SOUTH,
+RANGE 3 EAST, SLB&M, LOCATED EAST OF SALEM IN UNINCORPORATED UTAH
+COUNTY.
+
+-Kevin Stinson, Community Development
+(Timestamp: 24:27)
+
+COMMISSIONER BELTRAN: MOTION TO OPEN PUBLIC HEARING
+COMMISSIONER GORDON: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+
+NO COMMENTS
+
+COMMISSIONER BELTRAN: MOTION TO CLOSE PUBLIC HEARING
+COMMISSIONER GORDON: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 8 of 19
+
+CONSENT AGENDA
+
+1. RATIFICATION OF WARRANT REGISTER FOR JULY 9, 2025 INCLUDING NOTES AND
+COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE INTERNAL SYSTEM
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+2. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 13-2025
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+3. APPROVAL OF THE MINUTES FOR THE JUNE 25, 2025 BOARD OF COMMISSIONERS
+
+BOARD MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+4, RATIFY THE SIGNING OF FIRST AMENDMENT TO AGREEMENT NO. 2024-988
+BETWEEN UTAH COUNTY AND CLARIS INTERNATIONAL, INC.
+
+-Katrina Cole, Assessor
+
+APPROVED ON CONSENT
+Agreement 2025-581
+
+5. RESOLUTION RATIFYING THE RESULTS OF THE 2025 ANNUAL TAX SALE AS PER
+
+RECOMMENDATION OF THE UTAH COUNTY AUDITOR
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Resolution 2025-582
+
+6. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60530 DATED JUNE
+
+26, 2025.
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement 2025-583
+
+7. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60531 DATED JULY
+
+03,.2025.
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement 2025-584
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 9 of 19
+
+8. RATIFY AND APPROVE A LETTER OF SUPPORT FOR COMMUNITY ACTION SERVICES
+AND FOOD BANK'S GRANT APPLICATION FOR THE DEPARTMENT OF WORKFORCE
+SERVICES BENEFIT NAVIGATOR GRANT
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-585
+
+9. APPROVE AND RATIFY THE INDIGENT DEFENSE AGREEMENT WITH NEAL
+HAMILTON AND RICHARD GALE.
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-586
+
+10. RATIFY THE APPROVAL OF A LETTER OF SUPPORT FOR THE COVEY CENTER FOR
+THE ARTS.
+
+-Aileen Conder, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-587
+
+11. RATIFY THE SIGNING OF AN AGREEMENT WITH THE STATE OF UTAH
+DEPARTMENT OF ENVIRONMENTAL QUALITY FOR THE UTAH COUNTY HEALTH
+
+DEPARTMENT TO DO CONTRACT WORK.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-588
+
+12. APPROVE THE SIGNING OF AN AGREEMENT WITH MOUNTAINLAND ASSOCIATION
+OF GOVERNMENTS (MAG) FOR TRANSPORTATION SERVICES FOR THE FOSTER
+
+GRANDPARENT PROGRAM.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-589
+
+13. APPROVE THE SIGNING OF A RENEWAL TO UC 2024-469 WITH MOUNTAINLAND
+ASSOCIATION OF GOVERNMENTS FOR THE SOCIAL SERVICES BLOCK GRANT FOR THE
+
+FOSTER GRANDPARENT PROGRAM.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-590
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 10 of 19
+
+14. APPROVE THE SIGNING OF AN AGREEMENT WITH MOUNTAINLAND ASSOCIATION
+OF GOVERNMENTS (MAG) FOR TRANSPORTATION SERVICES FOR THE SENIOR
+
+COMPANION PROGRAM.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-591
+
+15. APPROVE THE SIGNING OF AN AGREEMENT WITH LE BUS FOR CHARTER BUS
+
+SERVICES FOR THE SENIOR COMPANION PROGRAM.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-592
+
+16. APPROVE THE SIGNING OF A RENEWAL OF UC 2024-468 WITH MOUNTAINLAND
+ASSOCIATION OF GOVERNMENTS FOR THE SOCIAL SERVICES BLOCK GRANT FOR THE
+
+SENIOR COMPANION PROGRAM.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-593
+
+17. APPROVE THE SIGNING OF AMENDMENT 1 TO UC 2024-817 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR THE WIC PROGRAM (WOMEN,
+
+INFANTS AND CHILDREN.)
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-594
+
+18. APPROVE THE SIGNING OF AMENDMENT 4 TO UC 2023-93 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR HIV PREVENTION 2023.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-595
+
+19. APPROVE THE SIGNING OF AMENDMENT 2 TO UC 2023-844 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR THE SUMMER FOOD SERVICE
+
+PROGRAM 2024.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-596
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 11 of 19
+
+20. APPROVE THE SIGNING OF AMENDMENT 9 TO UC 2020-720 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR THE TOBACCO CONTRACT
+
+FY21-FY25.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-597
+
+21. APPROVE THE SIGNING OF AMENDMENT 4 TO UC 2021-778 WITH UTAH
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FOR THE MINIMUM
+
+PERFORMANCE STANDARDS SFY22.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-598
+
+22. ADOPT AND SIGN A RESOLUTION APPROVING THE EXECUTION OF AN
+INTERLOCAL COOPERATION AGREEMENT BETWEEN LEHI CITY AND UTAH COUNTY
+HEALTH DEPARTMENT FOR SUBSTANCE MISUSE PREVENTIONS AND COMMUNITIES
+
+THAT CARE (CTC) FOR FY26.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Resolution 2025-599
+Agreement 2025-600
+
+23. ADOPT AND SIGN A RESOLUTION APPROVING THE EXECUTION OF AN
+INTERLOCAL COOPERATION AGREEMENT BETWEEN LINDON CITY AND UTAH
+COUNTY HEALTH DEPARTMENT FOR SUBSTANCE MISUSE PREVENTIONS AND
+
+COMMUNITIES THAT CARE (CTC) FOR FY26.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Resolution 2025-601
+Agreement 2025-602
+
+24. ADOPT AND SIGN A RESOLUTION APPROVING THE EXECUTION OF AN
+INTERLOCAL COOPERATION AGREEMENT BETWEEN PAYSON CITY AND UTAH
+COUNTY HEALTH DEPARTMENT FOR SUBSTANCE MISUSE PREVENTIONS AND
+
+COMMUNITIES THAT CARE (CTC) FOR FY26.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Resolution 2025-603
+Agreement 2025-604
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 12 of 19
+
+25. ADOPT AND SIGN A RESOLUTION APPROVING THE EXECUTION OF AN
+INTERLOCAL COOPERATION AGREEMENT BETWEEN PLEASANT GROVE CITY AND
+UTAH COUNTY HEALTH DEPARTMENT FOR SUBSTANCE MISUSE PREVENTIONS AND
+
+COMMUNITIES THAT CARE (CTC) FOR FY26.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Resolution 2025-605
+Agreement 2025-606
+
+26. ADOPT AND SIGN A RESOLUTION APPROVING THE EXECUTION OF AN
+INTERLOCAL COOPERATION AGREEMENT BETWEEN VINEYARD CITY AND UTAH
+COUNTY HEALTH DEPARTMENT FOR SUBSTANCE MISUSE PREVENTIONS AND
+
+COMMUNITIES THAT CARE (CTC) FOR FY26.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Resolution 2025-607
+Agreement 2025-608
+
+27. APPROVE AND AUTHORIZE A RENEWAL AGREEMENT WITH RELIAS LEARNING
+LLC AND UTAH COUNTY GOVERNMENT FOR USE OF THE RELIAS LEARNING
+MANAGEMENT SYSTEM.
+
+-PJ] Maughan, Human Resources
+
+APPROVED ON CONSENT
+Agreement 2025-609
+
+28. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN AMENDMENT NO. 9
+TO THE STATE OF UTAH CONTRACT 171300 (COUNTY AGREEMENT 2016-845)
+BETWEEN THE UTAH ATTORNEY GENERAL'S OFFICE AND UTAH COUNTY
+GOVERNMENT.
+
+-Natasha Nay, Information Systems
+
+APPROVED ON CONSENT
+Agreement 2025-610
+
+29. APPROVE AND AUTHORIZE THE SIGNING OF AMENDMENT #1 OF UCA #2024-299
+WITH UTAH RECLAMATION MITIGATION & CONSERVATION COMMISSION
+REGARDING THE PROVO RIVER RECREATION FEATURE IMPROVEMENTS, BY
+
+EXTENDING THE CONTRACT TERMS AS SHOWN ON THE AMENDMENT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-611
+
+30. RATIFY A TERMINATION LETTER FOR BENEFITS CONSULTING SERVICES
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-612
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 13 of 19
+
+REGULAR AGENDA
+
+1. APPROVE AND ADOPT A RESOLUTION APPROVING THE AMENDMENT AND
+EXECUTION OF THE INTERLOCAL COOPERATION AGREEMENT BETWEEN UTAH
+COUNTY AND WASATCH BEHAVIORAL HEALTH SPECIAL SERVICE DISTRICT FOR THE
+FISCAL YEAR 2025 CONTRACT MATCH AMENDMENT 1.
+
+-Brittany Thorley, Attorney
+APPROVED ON CONSENT
+
+Resolution 2025-613
+Agreement 2025-614
+
+2. APPROVE THE DIRECTOR OF THE UTAH COUNTY CHILDREN'S JUSTICE CENTER TO
+SIGN THE MURAL AGREEMENT WITH ARTIST SARAH MEITLER FOR A MURAL TO BE
+PAINTED IN THE MEDICAL EXAM ROOM OF THE NORTH UTAH COUNTY CHILDREN'S
+JUSTICE CENTER.
+
+-Rebecca Martell, Children's Justice Center
+
+APPROVED ON CONSENT
+Agreement 2025-615
+
+3. APPROVE AND AUTHORIZE AN AGREEMENT BETWEEN UTAH COUNTY AND THE
+MAJOR BRENT TAYLOR FOUNDATION FOR THE PROMOTION OF TOURISM.
+-COMMISSIONER AMELIA POWERS GARDNER, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-616
+
+4, APPROVE LETTER OF SUPPORT FOR THE EMERALD LAKE SHELTER REBUILD
+
+-Skyler Beltran, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-617
+
+5. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT BETWEEN UTAH
+COUNTY AND LEHI CITY FOR THE SHADOW RIDGE BIKE PARK
+
+-Skyler Beltran, Commission
+CONTINUE TO AUGUST 6, 2025 COMMISSION MEETING
+
+6. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT BETWEEN UTAH
+COUNTY AND SPRINGVILLE CITY FOR THE SPRINGVILLE ACRES ARTS PARK AND
+
+AMPHITHEATER.
+-EZRA NAIR, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-618
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 14 of 19
+
+7. APPROVE THE SIGNING OF A SPONSORSHIP AGREEMENT BETWEEN UTAH COUNTY
+AND SPANISH FORK CITY FOR THE SPANISH FORK COMPETITION POOL
+
+-Adam Beck, Commission
+STRICKEN ON CONSENT
+
+8. APPROVE THE SIGNING OF A SPONSORSHIP AGREEMENT BETWEEN UTAH COUNTY
+AND SPANISH FORK CITY FOR THE SPANISH FORK FAIRGROUNDS
+
+-Adam Beck, Commission
+STRICKEN ON CONSENT
+
+9, APPROVE A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+COOPERATION AGREEMENT BETWEEN UTAH COUNTY AND PAYSON CITY FOR
+PAYSON MAIN STREET PROJECT.
+
+-Kendall Kluber, Commission
+
+APPROVED ON CONSENT
+Resolution 2025-619
+Agreement 2025-620
+
+10. APPROVE AND AUTHORIZE A RESOLUTION ACKNOWLEDGING THE EXPANSION
+OF A VESTED MINING USE FOR CMC ROCK AND THE EXEMPTION FROM LAND USE
+REGULATIONS BY STATE LAW.
+
+-Dale Eyre, Community Development
+
+APPROVED ON CONSENT
+Resolution 2025-621
+
+11. APPROVE THE CREATION AND THE FINDINGS OF FACTS, CONCLUSIONS OF LAW
+AND DECISION TO CREATE THE RELIEF MINE COMPANY 2025 PROTECTION AREA,
+APPROXIMATELY 175 ACRES.
+
+-Kevin Stinson, Community Development
+
+APPROVED ON CONSENT
+Resolution 2025-622
+
+12. ADOPT AN ORDINANCE TO AMEND SECTIONS 12.12.F AND 12.16.F TO REDUCE
+SIDE AND REAR SETBACK REQUIREMENTS FOR CERTAIN RESIDENTIAL ACCESSORY
+STRUCTURES, INCLUDING DETACHED ACCESSORY DWELLING UNITS, IN THE RURAL
+RESIDENTIAL (RR-5) AND TRANSITIONAL RESIDENTIAL (TR-5) ZONES.
+
+-Xiao Dong, Community Development
+(Timestamp: 27:17)
+
+XIAO DONG (Community Development) EXPLAINED THE PROPOSED ORDINANCE.
+COMMISSIONER BELTRAN, COMMISSIONER GORDON ASKED ABOUT THE 1500
+SQUARE FOOT RULE AND SHORT-TERM RENTALS. GREG ROBINSON (Community
+Development) AND BRYCE ARMSTRONG (Director of Community Development) ANSWERED
+THE QUESTIONS.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 15 of 19
+
+COMMISSIONER BELTRAN: MOTION TO APPROVE
+COMMISSIONER GORDON: SECOND
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+Ordinance 2025-623
+
+13. APPROVE THE SIGNING OF AN AGREEMENT WITH UNIVERSITY OF WASHINGTON
+TO PERFORM COMMUNITY PREVENTION TRAINING AND PROVIDE COACHING
+
+SERVICES FOR THE COMMUNITIES THAT CARE (CTC) FRAMEWORK.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-624
+
+14. APPROVE AND AUTHORIZE THE SIGNING OF A CONSENT LETTER TO CROWN
+
+CASTLE FOR A SUB-LEASE ON THE CELL TOWER AT EQUESTRIAN PARK.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-625
+
+15. APPROVE A MULTI-JURISDICTIONAL AUTOMATIC AID, MUTUAL AID, FIRE,
+TRAINING, EMERGENCY MEDICAL, AND OTHER SERVICES AGREEMENT ON BEHALF
+
+OF THE UTAH COUNTY FIRE DEPARTMENT
+-Patrick Carlson, Sheriff
+
+APPROVED ON CONSENT
+Agreement 2025-626
+
+16. APPROVE AN AGREEMENT EITH LEXISNEXIS FOR ACCURINT CRIME CENTER
+SOFTWARE SUBSCRIPTION SERVICES FOR THE UTAH COUNTY SHERIFF'S OFFICE
+-Yvette Rice, Sheriff
+
+APPROVED ON CONSENT
+Agreement 2025-627
+
+17. TO APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+TREASURER'S OFFICE IN CANCELLATION LETTER #20495
+
+-Randilyn Warner, Treasurer
+
+APPROVED ON CONSENT
+Agreement 2025-628
+
+18. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+COMMISSIONER)
+
+-Jolynn Clegg, Clerk STRICKEN ON CONSENT
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 16 of 19
+
+19. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FOR A
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+20. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+21. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+HELD ON CONSENT
+
+PUBLIC COMMENTS
+
+NONE
+(Moved to closed meeting: 2:36 pm)
+
+(Opened to public meeting: 2:46 pm)
+
+COMMISSIONER BELTRAN: MOTION TO ADJOURN
+COMMISSIONER GORDON: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+
+(Meeting adjourned: 2:46 p.m.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In compliance with the Americans
+with Disabilities Act, individuals needing special accommodations (including auxiliary communicative
+aids and services) during this meeting should notify Jolynn Clegg at 801-851-8113. Handicap parking is
+available as well as a level entrance to the building. Interpretation services are available with prior notice
+for the hearing disabled.
+
+Those in attendance via Zoom: None
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+
+Public Meeting
+July 9, 2025
+Page 17 of 19
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+July 9, 2025 - 2:00 p.m.
+PRINT CLEARLY
+Name: Agency:
+Crude, oboe ba
+imeys CAwer
+
+blade. E- Govner Cuwen ( Trustee)
+
+Mude Dcubuns E\eckionS
+
+shin file [Lec to =
+
+Boys wWarror Relic¥ WNwace
+
+an ae Elections
+
+fileA Leyatn urd
+foes Oversh Elections
+Lincoln Dewey P jectronS
+
+Kieu Bue LAW
+Oke Yip haa ote
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 18 of 19
+
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+July 9, 2025 - 2:00 p.m,
+
+PRINT CLEARLY
+
+Name:
+
+Halen icdlelian
+
+Arista Ward
+Keh-than Frisky
+Sram Wrelocrear de
+earner Alien
+
+Causedhosay
+Brian Voeles
+Caso Wood,
+foston lwensen
+Ere Ebwacds
+Marrs petty
+Ltjbe bultives
+Gers Hartera
+ae watt ae ee
+vor Care
+Gen e_ Shrawere ff
+PDtore Gucra
+fe tbet Cache
+Theale Veer
+
+Ageney:
+
+UACKD
+UCHD
+
+merck
+
+ClechOnd
+& le (s Ie
+Clerk
+
+ack > ——
+Clerk
+
+Cleft
+
+ose $9. OV"
+
+—cUWweD oe
+Az Ses Sae's 7
+
+Cuweh
+Posesce <—
+
+prvetns D>
+
+Onmurs jan
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+July 9, 2025
+
+Page 19 of 19
+
+Meeting minutes approved at the July 16, 2025 Board of Commissioners of Utah County,
+Utah Public Meeting.
+
+Biel A
+
+BRANDON B GORDON, Chair
+
+ATTEST:
+AARON R. DAVIDSON
+Utah County Clerk
+
+By: we)
+eputy Clerk

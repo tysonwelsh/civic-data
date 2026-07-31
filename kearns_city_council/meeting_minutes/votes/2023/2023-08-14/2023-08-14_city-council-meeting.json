@@ -1,0 +1,105 @@
+{
+ "date": "2023-08-14",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer"
+ ],
+ "source": "minutes/2023/2023-08-14/2023-08-14_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to open the public hearing. The",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to close the public hearing. The",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the ordinance as written subject to correcting the misnumbered paragraphs and inserting the standard summary language, and to direct planning staff to record the ordinance with the recorder’s office. The",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "unanimous in favor Pass",
+   "mover": "Alan Peterson",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve the minutes of the Kearns Metro Township meetings held on July 10, 2023. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass (abstain: Alan Peterson)",
+   "mover": "Tina Snow",
+   "seconder": "Patrick Schaeffer",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Alan Peterson"
+   ],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  }
+ ]
+}

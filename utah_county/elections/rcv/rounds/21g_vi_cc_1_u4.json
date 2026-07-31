@@ -1,0 +1,49 @@
+{
+ "config": {
+  "contest": "Vineyard City Council",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "758"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "AMBER RASMUSSEN": 324.0,
+    "KRISTAL C. PRICE": 313.0,
+    "MARDI SIFUENTES": 756.0,
+    "NEF PACHECO": 106.0,
+    "Undeclared Write-ins": 18.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "Undeclared Write-ins",
+     "transfers": {
+      "AMBER RASMUSSEN": 5.0,
+      "MARDI SIFUENTES": 8.0,
+      "NEF PACHECO": 2.0,
+      "Inactive Ballots": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "AMBER RASMUSSEN": 329.0,
+    "KRISTAL C. PRICE": 313.0,
+    "MARDI SIFUENTES": 764.0,
+    "NEF PACHECO": 108.0,
+    "Inactive Ballots": 3.0
+   },
+   "tallyResults": [
+    {
+     "elected": "MARDI SIFUENTES",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "08/27/2023", "name": "Anonymous", "amount": "50", "in_kind": false},
+    {"date": "09/06/2023", "name": "Anonymous", "amount": "25", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "09/07/2023", "recipient": "Google Sites", "purpose": "Website", "amount": "19.99", "in_kind": false},
+    {"date": "10/06/2023", "recipient": "USPS", "purpose": "", "amount": "5.01", "in_kind": false},
+    {"date": "10/16/2023", "recipient": "Zurchers Party Supply", "purpose": "Meet the Candidates -PTA", "amount": "11.77", "in_kind": false}
+  ],
+  "total_contributions": "3,389",
+  "total_expenditures": "1,815.51",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1,582.61",
+  "ending_balance": "1,620.84",
+  "_meta": {
+    "index_path": "raw/202310_Paul-Pickett_14720.pdf",
+    "candidate": "Paul Pickett",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202310_Paul-Pickett_14720.pdf",
+    "pages": 7
+  }
+}

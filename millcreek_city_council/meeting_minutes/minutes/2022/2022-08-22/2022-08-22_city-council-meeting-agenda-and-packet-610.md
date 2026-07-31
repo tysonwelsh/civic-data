@@ -1,0 +1,348 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08222022-610
+> Meeting date: 2022-08-22
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2022-08-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08222022-610
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes              of the
+                                                                                        Millcreek            City        Council
+                                                                                              August          22, 2022
+                                                                                                      7:00        p.m.
+                                                                                             Regular              Meeting
+
+
+
+
+The City      Council       of Millcreek,                 Utah, met in a regular             public        meeting         on August          22, 2022,         at City
+Hall,    located     at 3330 S. 1300 E., Millcreek,                            UT 84106.         The meeting              was live      streamed         via the
+City's    website      with       an option          for online        public      comment.
+
+
+PRESENT:
+
+
+Council      Members                                                             City    Staff
+Jeff Silvestrini,         Mayor       (excused)                                 John Brems,            City Attorney               (electronic)
+Silvia    Catten,     District       1                                          Elyse      Sullivan,        City Recorder
+Thom      DeSirant,       District           2                                  Mike       Winder,         City     Manager
+Cheri     Jackson,     District          3                                       Francis     Lilly,       Assistant         City Manager
+Bev Uipi,      District       4                                                 Kurt     Hansen,          Facilities       Director
+                                                                                Laurie      Johnson,         HR-Finance              Director
+                                                                                Rita Lund,          Communications                   Director        (electronic)
+                                                                                John Miller,          Public        Works         Director
+
+
+Attendees:         Judy Mayfield,                 Shirley     Nelson,       Mike        Rush, Tori         Velasquez,             Officer     Gary Evans,           Lt.
+Petty-Brown,          Kumar         Shah, Mitchell              Vice
+
+
+REGULAR              MEETING                 - 7:00 p.m.
+TIME       COMMENCED:                            7:03 p.m.
+
+
+1. Welcome,          Introduction                 and Preliminary               Matters
+          1.1 Pledge           of Allegiance
+           Mayor      Pro Tempore                 Uipi      called    the meeting          to order,       excused          Mayor       Silvestrini,       and
+           led the pledge           of allegiance.
+
+
+          1.2 Public          Comment
+           Kumar      Shah, 4484                 S. Parlcview         Drive,     wanted      assurance            that Google          Fiber      would     put the
+           street back the way they found                            it after installing         fiber.
+
+
+          1.3 Unified             Police         Department            Millcreek         Precinct         Officer         of the Month            for July
+           2022
+           Lt. Petty-Brown               announced            Officer      Gary Evans            as the Officer             of the Month             for July
+           2022.     Officer        Evans         exhibited      a prime        example          of being         a peace officer            while     training     an
+           officer    when         dealing         with     a suspect      suffering        from      a mental           health     issue. The Citizens
+           Advisory        Board         presented          Officer      Evans      with    a gift.       Mayor        Pro Tempore             Uipi     thanked
+           Officer     Evans for his work.
+Mfflcreek          City    Council        Meeting        Minutes                                         22 August    2022         Page 2 of 6
+
+
+
+
+         1.4 Proclamahon                   of Constitution           Week    in Millcreek
+            Shirley       Nelson      said one of the main duties             of the Daughters           of the American      Revolution
+            is to promote           patriotism       and the Constitution.          Every     year they celebrate     the Constitution
+            by visiting       with       the mayors       and governors       of the area and get the word            out in schools.
+            They      leam       about the Constitution            in their meetings         and try to draw    attention     to
+            celebrating          the American         Constitution      during      Constitution      Week.
+
+
+            Mayor         Pro Tempore         Uipi    proclaimed       the following         on behalf     of Mayor   Silvestrini:
+              CONSTITUTIONWEEKIN                          MILLCREEK
+
+
+              WHEREAS, September112022, marks the two hundred and thirty-fifth anniversary of the
+              drafling of the Constitution of the United States of America by the Constitutional Convention,
+              and
+
+
+              WHEREAS, The Constitution, together with the Bill of Rights, have provided the organic
+              structure for ourDemocratic Republic and ourlndividualLiberties, enabling our nation to rise
+             from a collection of ragtag former colonies to a United Nation in which our people have
+              created opportunity and built the greatest economy irt the world, based upon freedom, creative
+              genius,      and    hard    work;    and
+
+
+              WHEREAS, our federal system has welcomed generations of immigrants from everypart of the
+              globe to participate in thefreedom, opportunity arid nile of law our Constitution affords,
+              creating out of many groups, one indivisible nation; and
+
+               WHEREAS,PublicLaw 915 guarantees the issuing of a Proclamation each year designating
+              September 1 7 through 23 as Constitution                      Week.
+
+
+              NOF, THEREFORE, I, Jeff Silvestrini by virtue of the authority vested in me as Mayor of
+              Millcreek, Utah do hereby proclaim the week of September17 through 23 as:
+                                                                   CONSTITUTION              WEEK
+              AND ask our residertts to affirm the ideals of the Constitutiori of the United States ofAmerica
+              and the Bill of Rights by vigilantly protecting thefreedoms guaranteed through this magrtificent
+              document,          rememberirtg        that lost rights may never be regained.
+
+
+              IN WITNESS WHEREOF, I have hereunto set my hand and caused the seal ofMillcreek to be
+              affixed this 22nd day ofAugust, 2022.
+
+         1.5 Introduction                 of Salt Lake        County     Public      Works       Operations      Director      Crystal
+            Hulbert
+            Crystal       Hulbert        was excused       from    the meeting       and would       be introduced     at another
+            meeting.
+
+
+2. Financial          Matters
+            2.1 Discussion            and Consideration              of Resolution          22-26,   Aclaiowledging         Receipt      and
+            Acceptance            of the Millcreek          Fiscal    Year    2021-22        Fraud    Risk    Assessment       and
+            Direction        to File it with          the State Auditor
+            Laurie        Johnson     noted th-e city was required             to do a fraud risk assessment            every year. The
+            bulk     of the points         given     in this assessment       were for the separation          of duties.    One of the
+            reasons       the city is able to do that is because                 a council     member      acts as the City        Treasurer.
+Millcreek          City     Council          Meeting       Minutes                                                       22 August         2022         Page 3 of 6
+
+
+
+            She acknowledged                   that the overview              of credit         cards was also done appropriately.                          Council
+            Member           Jackson         appreciated         staff's     thoughtfulness              on processes.            Jobnson        noted the city
+            was low risk.
+
+
+Council       Member               Jackson      moved       to adopt          Resolution              22-26,      Acknowledging                 Receipt         and
+Acceptance            of the Millcreek             Fiscal        Year       2021-22           Fraud      Risk         Assessment          and Direction               to
+File   it with      the State Auditor.                 Council           Member          DeSirant          seconded.          The Recorder               called        for
+the vote.      Council             Member        Catten         voted      yes, Council           Member               DeSirant       voted      yes, Council
+Member         Jackson             voted     yes, and Council               Member             Uipi     voted         yes. The motion            passed
+unanimously
+
+
+            2.2 Public             Hearing      on Consideration                   of a Monetary                Appropriation              of up to $7,000                 to
+            the Millcreek              Arts     Councn           Art     Fest at the Baldwin                   Radio       Factory        Celebrating            the
+            100th         Year      Anniversary
+
+
+Council       Member               DeSirant      moved           to open      the public           hearing.            Council      Member          Jackson
+seconded.          Mayor           Pro Tempore            Uipi     called        for    the vote.        Councn          Member           Catten        voted     yes,
+Council       Member               DeSirant      voted      yes, Council               Member           Jackson          voted     yes, and Council
+Member         Uipi       voted       yes. The motion                  passerl 1mjlniikk6u,sly.
+
+
+            Rita Lund            said the Arts         Council          did a lot of work             putting         the event together           for August
+            27'.     The city wanted              to contribute            to the event. A study was conducted                                to support        the
+            contribution.
+
+
+            Mitchell        Vice,      Millcreek         Arts     Council,         said there would              be over 40 artists,             food trucks,
+            and music            stages for the festival.                The Arts        Council        had raised         over $10,000            to run their
+            programs          for the year.
+
+
+            Francis        Lilly     noted the Historic                Preservation           Commission              would       be present       at the event.
+            The Commission                   was in discussions              with       the owner         of the Baldwin             Radio       Factory        on
+            creating        a monument            for the building               and adding           it to Millcreek's            historic     list.
+
+
+Council      Member                Jackson      moved       to close the public                  hearing.         Council          Member          Catten
+seconded.          Mayor           Pro Tempore            Uipi     called        for    the vote.        Council         Member           Catten        voted     yes,
+Council      Member                DeSirant      voted      yes, Council               Member           Jackson          voted     yes, and Council
+Member         Uipi       voted       yes. The     motion          passed         unanimously.
+
+
+            2.3 Discussion                and Consideration                 of Ordinance               22-39,         Approving           a Monetary
+            Contribution               of up to $7,000             to the Millcreek               Arts     Council          Art     Fest at the Baldwin
+            Radio         Factory          Celebrating           the 100th         Year       Anniversary
+
+
+Council      Member                Jackson      moved       to adopt          Ordinance               22-39,     Approving            a Monetary
+Contribution              of up to $7,000          to the Mfflcreek                    Arts    Council          Art     Fest at the Baldwin                Radio
+Factory      Celebrating              the 100th          Year      Anniversary.                Council      Member               Catten       seconded.
+Council      Member           Uipi     asked if the funds                for this were available.                 Laurie      Johnson          said the
+contribution          could        work     in the existing            budget.
+Millcreek         City     Council       Meeting             Minutes                                           22 August       2022       Page 4 of 6
+
+
+
+The Recorder              called     for the vote.            Council       Member        Catten       voted     yes, Council        Member
+DeSirant          voted    yes, Council             Member         Jackson        voted     yes, and Council             Member        Uipi     voted
+yes. The motion              passed      unanimously
+
+
+3. Business          Matters
+            3.1 Discussion            and Consideration                   of Resolution         22-27,     Approving         an Interlocal
+               Cooperative         Agreement            with      Salt Lake        County       for the Playground             Expansion             at
+               Canyon      Rim      Park
+            John Miller          said the Council              previously        reviewed      proposals        for the Canyon        Rim Park
+            playground          expansion           and provided          direction      to add new swings.             The cost of the
+            expansion        was $91,000.             It would         be a cost savings         to add them now and make the
+            playground         whole.        Council         Member       Uipi     asked if this was part of the track                funding.
+            Miller       said that funding            provided         $325,000+         and this was above that amount                 to add the
+            swings.       Council      Member           Jackson        felt the expenditure           was necessary         since tliere were
+            currently       swings      and noted the proposal                   would     preserve      the existing      tree.
+
+
+Council         Member         Jackson        moved           to adopt      Resolution        22-27,     Approving         an Interlocal
+Cooperative           Agreement            with      Salt Lake          County       for the Playground             Expansion          at Canyon
+Rim     Park.      Council         Member           DeSirant        seconded.         The Recorder             called    for the vote.        Council
+Member           Catten      voted     yes, Council             Member         DeSirant        voted     yes, Council        Member           Jackson
+voted     yes, and Council             Member            Uipi     voted      yes. The       motion       passed     unanimously.
+
+
+4. Reports
+            4.1 Mayor's            Report
+            There      was no report.
+
+
+            4.2 City       Council       Member              Reports
+            Council       Member        Jackson         said resident         Kyle      Meadows        asked her about the flagpoles                   on
+            tlie corner by the roundabout                      at 2300 E. The flagpoles               were no longer         in use since it was
+           hard to maintain            the flags there. Meadows                    was one of the instigators              in getting     the
+            flagpoles      there, and the poles were donated                          on loan as long as they were in use. The
+            flagpole      owner      would          like to remove          the poles.      Miller     noted that the new water               line
+            should       be to the north          of the poles and removing                  them would          not impact        the project.
+            Council       Member        Jackson         said asphalt         millings     had been placed           there for additional
+           parking.       The Council             agreed it was best if the poles were removed                           and expressed
+           thankfulness            for the loan.
+
+
+           Council        Member        Catten        thanked       the city for flowers             and support        she had personally
+           received       recently.        Council       Member          DeSirant        said Scott Avenue          Park was underutilized.
+           In his discussions            with       staff,     a master     plan for the city's          parks would        be done. Miller            said
+           the city had been following                       the county.      The county         wanted     to focus on the larger              parks,
+           so the smaller           ones had been neglected.                   Winder       acknowledged           extra police       patrols        had
+          taken place to assist with                   homelessness           issues there.
+
+
+          4.3 City        Treasurer's             Report
+           Council        Member        Jackson         reported:
+           *     As of August         19, 2022, the balance                  of the Series 2021 Bond               Construction         Fund is:
+                 $33,038,869.36             (City     Hall).
+Millcreek           City     Council      Meeting         Minutes                                                 22 August           2022      Page 5 of 6
+
+
+
+            *   As of August              22, 2022, Millcreek's                  PTIF      account     balance      is: $31,229,803.86.
+            *   As of August             19, 2022, 1% FY23                    property      t,axes have been received                 in the amount            of
+                $110,872.72.              Lastyearatthissametime,Millcreekhadreceived$l21,218.86.
+            @   As of August              22, 2022,       88.77%        of FY22           sales tax (updated           projection)      have been
+                received         in the amount           of $13,315,278.48.                 Last year at this same time,                Millcreek        had
+                received         $11,829,877.85            (this is the same amount                    as last month's           Treasurer's         Report,
+                since June sales tax information                            has not yet been received).
+
+
+            4.4 Staff         Reports
+            Jom       Miller     said the project          at 2000 E. was on hold.                    A property         owner     was not supportive
+            of the project,            so the city may need to start condemnation                              procedures         on that property             to
+            accomplish           it. Council        Member           Uipi     asked what the consequences                    would      be. Miller          said
+            the funding          was still       available.      To add an irrigation                pipe, it has to be done during                   October
+            15-March           15 while      there is no water in the ditch.                     Due to the property              acquisition        delay
+            and turnaround              on a pipe order,             there would          not be enough           time to bid out the project,                 so
+            the project         would      be pushed          back a year. Council                Member        Uipi      asked about the safety
+            concern.         Miller     said on 2000 E., Salt Lake                       City buried     the irrigation        ditch with        a pipe and
+            put sidewalk              and other improvements                    in. Millcreek        would      mirror     that. Millcreek's
+            portion         of the project       would     be phased.             Phase II would          be north        of 3300 S. Phase I would
+            be from         Siggard      Drive      to 3300 S. due to the several                     incidents     of flooding         that had taken
+            place. Phase II would                 be at a future            date if the city received             grant funding.
+
+
+            Mike      Winder          said Millcreek          Coininon           had sod planted         recently.        The skating         loop had a
+            record         sales night     the prior      week.       John Brems            said the decision            was issued to allow             the
+            small mine          in Parleys        Canyon        to proceed           subject     to conditions.          He sent the council            a
+            sliort brief       about it. Council           Member             Jackson       asked how the County's                 new ordinance
+            played         into it. Brems        said it may be a date issue with                      when       the mining       application         was
+            filed    and when the ordinance                   was adopted.
+
+
+            4.5 Unified          Fire     Authority        Report
+            There was no report.
+
+
+            4.6 Unified          Police     Department               Report
+            Lt. Petty Brown              reported      the crime            statistics    for July 2022. There             were 2,896         calls for
+            service,        920 total     cases, 372 citations,                 and 51 booking          arrests. There         were 36 assaults,               23
+        burglaries,            18 drug offenses,              81 family          offenses,       104 larcenies,          3 robberies,        3 sex
+            offenses,        and 29 stolen          vehicles.        Millcreek           Community           Oriented      Policing     detectives
+            investigated         six cases of graffiti               which       was cleaned         up. There were no suspects                    in these
+            cases. On Saturday,              August       6'l1,Millcreek             Precinct        Motor     Officers      completed         a speed
+            enforcement           operation        on 700 East from                22:00     hours     until    02:00 hours          on Sunday.
+            Officers        stopped      20 vehicles          with     the top speed of 38 MPH                    over the speed limit.              Officers
+            also stopped          two motorcycles              out of a group             of eight that were speeding                  and racing        on
+        700 East. On Friday,                     August       12"1, Millcreek             Precinct     Motor      Officers       completed         a second
+        speed enforcement                   operation         on 700 East from               20:00     hours until        01 :OO hours        on
+            Sunday.         Officers      stopped      20 vehicles             and issued 14 citations             for speed violations.              One
+        motorcycle              was stopped           for reckless           driving.      Between       July 22-24,         20 calls for service
+        were dispatched                  to officers      in Millcreek             for illegal     fireworks       and two arrests were made
+        though             no fires were reported.              She expressed              gratitude     to Highland          Cove      Senior       Living.
+Millcreek             City      Council         Meeting        Minutes                                              22 August       2022        Page 6 of 6
+
+
+
+             They provided                  UPD        and UFA      with      a "Home        of the Brave"          luncheon      to express their
+             appreciation              for all the wonderful               support     the fire department,            police     department,       and
+             first responders                had offered         to the community.             Several         of the Millcreek      officers     attended
+             and had lunch               with      the senior       residents.       She reported        that the Night         Out Against        Crime
+             event was a success.
+
+
+5. Consent             Agenda
+             5.1 Approval                of August          8, 2022 Meeting             Minutes
+
+
+Council        Member                DeSirant          moved       to approve         the minutes         from      August      8, 2022. Council
+Member          Jackson               seconded.         Mayor       Pro Tempore              Uipi     called     for the vote.     Council        Member
+Catten        voted          yes,     Council         Member        DeSirant         voted     yes, Council          Member       Jackson        voted     yes,
+and Council Member Uipi voted yes. The motion passeJ uiuYiuuiuu.$5*
+
+6. New        Items          for    Subsequent            Consideration
+Elyse       Sullivan          asked wlien             the Council      wanted        the follow-up        from      their January     retreat     since
+they had requested                    it to be in September.               Winder      suggested        in the work       meeting     on September
+z5th,
+
+
+7. Calendar              of Upcoming                  Events
+        *    East Mill              Creek     Community            Council     Mtg.,     9/1/22,       6:30 p.m.
+        *    Millcreek              Cominunity           Council      Mtg.,    9/6/22,       6:30 p.m.
+    *        Canyon            Rim      Citizens        Association        Mtg.,     9/7/22,        7:00 p.m.
+    *        City      Council          Mtg.,     9/12/22,       7:00 p.m.
+        *    Mt. Olympus                 Comi'nunity           Council      Mtg.,     9/13/22,       6:00 p.m. - TBD
+
+
+Francis       Lilly      said the comtnunity                   councils      would     get a reading           of the General      Plan amendment            to
+accoinrnodate                new state code on moderate                      income      housing       and their meetings           would       continue    to
+be held at City               Hall.
+
+
+
+
+                                            Attest:               !Ln,                       City Recorder
+

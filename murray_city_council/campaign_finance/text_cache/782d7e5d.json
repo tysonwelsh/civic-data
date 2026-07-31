@@ -1,0 +1,157 @@
+{
+  "contributions": [
+    {
+      "date": "10/20/23",
+      "name": "Christal Milne",
+      "amount": "10.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/23/23",
+      "name": "Blake Facer",
+      "amount": "23.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/23/23",
+      "name": "Daniel John",
+      "amount": "500.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/25/23",
+      "name": "Laurie Densley",
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/26/23",
+      "name": "Vicki Matsmumori",
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/26/23",
+      "name": "Peter Case",
+      "amount": "1,000.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/27/23",
+      "name": "Jeannette Bowen",
+      "amount": "100.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/29/23",
+      "name": "Teed Griffin",
+      "amount": "3.03",
+      "in_kind": false
+    },
+    {
+      "date": "10/30/23",
+      "name": "Clatyon Rockefeller",
+      "amount": "1,000.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/30/23",
+      "name": "Nikhil Shimpi",
+      "amount": "20.00",
+      "in_kind": false
+    },
+    {
+      "date": "11/8/23",
+      "name": "Dale Cox",
+      "amount": "50.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "10/23/23",
+      "recipient": "Landslide Political",
+      "purpose": "Political Services and Ads",
+      "amount": "1,500.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/25/23",
+      "recipient": "Wix",
+      "purpose": "Processing Fee",
+      "amount": "1.75",
+      "in_kind": false
+    },
+    {
+      "date": "10/26/23",
+      "recipient": "Wix",
+      "purpose": "Processing Fee",
+      "amount": "1.75",
+      "in_kind": false
+    },
+    {
+      "date": "10/26/23",
+      "recipient": "ActBlue",
+      "purpose": "Processing Fee",
+      "amount": "37.23",
+      "in_kind": false
+    },
+    {
+      "date": "11/1/23",
+      "recipient": "ActBlue",
+      "purpose": "Processing Fee",
+      "amount": "38.78",
+      "in_kind": false
+    },
+    {
+      "date": "11/1/23",
+      "recipient": "Loyal Perch Media",
+      "purpose": "Murray Journal Ad",
+      "amount": "624.00",
+      "in_kind": false
+    },
+    {
+      "date": "11/6/23",
+      "recipient": "Macey's",
+      "purpose": "Food for Volunteers",
+      "amount": "15.44",
+      "in_kind": false
+    },
+    {
+      "date": "11/8/23",
+      "recipient": "Landslide Political",
+      "purpose": "Canvassing",
+      "amount": "1,000.00",
+      "in_kind": false
+    },
+    {
+      "date": "11/11/23",
+      "recipient": "Harmons",
+      "purpose": "Food for Volunteers",
+      "amount": "14.41",
+      "in_kind": false
+    },
+    {
+      "date": "11/13/23",
+      "recipient": "Landslide Political",
+      "purpose": "Mailers and Signs",
+      "amount": "4,228.09",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "2,806.03",
+  "total_expenditures": "7,461.45",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/202311_Adam-Hock_14807.pdf",
+    "candidate": "Adam Hock",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-General 7-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "plain candidate tables with printed cover Totals. Contributions sum 2806.03 vs printed 2,806.03 \u2014 reconciles. Expenditures sum 7461.45 vs printed 7,461.45 \u2014 reconciles. Schedule C In-Kind printed 'None'. No Balance Summary page."
+  }
+}

@@ -1,0 +1,130 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03222021-454
+> Meeting date: 2021-03-22
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2021-03-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03222021-454
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                           Minutes    of the
+                                                  Millcreek       Community           Reinvestment      Agency
+                                                                          March      22, 2021
+                                                                              7:00 p.m.
+                                                                          Regular    Meeting
+    'd>                      "
+         +elAEEK-is
+The Corni'nunity Reinvestment Agency of Millcreek, Utah, met in a regular public meeting on
+March 22, 2021 at City Hall, located at 3330 S. 1300 E., Millcreek, UT 84106. The meeting was
+conducted electronically per Millcreek State of Local Emergency Directive No. 2 of 2020 and
+live streamed via the City's website with an option for online public comment.
+
+PRESENT:
+
+Board Members                                              City   Staff
+Jeff Silvestrini, Chair                                    John Brems, City Attorney
+Silvia Catten (electronic)                                 Elyse Sullivan, Agency Recorder
+Dwight Marchant (electronic)                               Mike Winder, Assistant City Manager (electronic)
+Cheri Jackson (electronic)                                 Kurt Hansen, Legislative Policy Director
+Bev Uipi (electronic)                                      Francis Lilly, Planning and Zoning Director
+                                                           (electronic)
+                                                           Laurie Johnson, HR-Finance           Director      (electronic)
+
+
+
+
+Attendees:       Christian Larson and Chief Steve DeBry.
+
+REGULAR  MEETING                   - 7:00 p.m.
+TIME COMMENCED:                      8:26 p.m.
+
+Chair   Silvestrini     called   the meeting   to order.
+
+
+1. Discussion         of FY 2021-22     CRA Budget
+Laurie Johnson said the tentative budget had minor                  changes from the previous        fiscal    year.
+The Millcreek Center CRA revenues Interest (Bond) line item drops to $1,000 and the Loan
+Proceeds line item is $721,800 received from tlie West Millcreek CRA to pay the interest
+payments on the bond. In the West Millcreek CRA, the revenues are Property Tax at
+$950,000 and Use of Fund Balance at $239,300. With expenses, the Millcreek   Center CRA
+has the Debt Interest of $721,800. The West Millcreek CRA has the Loan to Millcreek
+Center CRA of $721,800, Tax Increment Corninitments of $242,000, Administration      (4%) of
+$38,000, and Housing (20%) of $190,000.
+
+2. Public Hearing on Opening and Amending the FY 2020-21 CRA Budget
+Laurie Johnson said for revenues in the Millcreek Center CRA, Rents & Leases had come in
+($5,018) that needed to be recognized. The Miscellaneous line item increased by $3,010 and
+Use of Fund Balance by $907,465, and a reduction in Interest (Bond) by $29,000. The West
+Millcreek       CRA       Meeting        Minutes                                                       22 March         2021      Page 2 of 2
+
+
+Millcreek      CRA       revenues        included      a reduction          of $3,500            of Interest      and an increase          of
+$64,391      of Use of Fund Balance.                 She said the recognition                      of fund balance         would        true up with
+the audit. The expense               changes     for the Millcreek             Center            CRA    included        an increase        in
+Professional       Services      for $938,078, Land for $6,219,838,                                and a reduction         of $232,000           for
+Miscellaneous           and $6,139,423          for Improvements                   (City     Center).       She said there was $24,872
+left on the bond and any money                      from     the sale of land wl'iich                was purchased             by the bond
+would     be put back. The Tax Increment                       Commitments                 in the West Millcreek                CRA      included
+an increase      of $60,891.
+
+
+Board       Member        Uipi     moved       to open the public              hearing.             Board      Member           Catten     seconded.
+Chair     Silvestrini       called     for the vote.          All    Board     Members               voted      yes. The motion             passed
+unanimously.
+
+
+There    were no comments.
+
+
+Board       Member        Uipi   moved         to close the public             hearing.             Board      Member           Marchant
+seconded.       Chair      Silvestrini       called        for the vote.       All     Board           Members          voted    yes. The motion
+passed      unanimously
+
+
+3. Discussion           and Consideration             of Resolution            21-02,            Amending         the Community
+Reinvestment            Agency       (CRA)      Annual             Budget    for the Fiscal              Year      Beginning        July        1, 2020,
+and Ending         June     30, 2021
+
+
+Board       Member        Marchant           moved         to approve        Resolution              21-02,     amending          the CRA          annual
+budget      for the fiscal       year     beginning          last July       ls' and ending                June    30fl'. Board          Member
+Catten      seconded.       The Recorder              called        for the vote.          All     Board      Members           voted    yes. The
+motion      passed       unanimously.
+
+
+4. Approval        of February            8, 2021 Regular              Meeting         Minutes
+
+
+Board       Member        Uipi   moved        to approve             the minutes.            Board       Member          Jackson         seconded.
+Chair     Silvestrini       called    for the vote.           All    Board     Members               voted      yes. The        motion      passed
+unanimously,
+
+
+
+ADJOURNED:                 Board      Member          Uipi      moved        to adjourn             the meeting          at 8:34 p.m.           Board
+Member        Jackson       seconded.         Chair        Silvestrini       called         for the vote.         All    Board     Members              voted
+
+
+
+yes.
+ The
+  motion          .
+     paAssPePrlRnOnqnimD?J,,,<3,-,
+                         Date9%;r-S                         Jeff    Silvestrini,           Chair
+                                                                                                                                                   >l
+                                                                                                                                                        i
+                                                                                                                                                            '2-72'l
+
+
+
+
+                                   Attest:              !yXL                               Recorder
+

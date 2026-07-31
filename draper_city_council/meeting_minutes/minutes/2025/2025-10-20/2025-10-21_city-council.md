@@ -1,0 +1,287 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1973&doc_id=2e4ff862-c59d-11f0-a7da-005056a89546
+> Meeting date: 2025-10-21
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, OCTOBER 21,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+             Johnson, Tasha Lowery, Fred Lowry, and Marsha Vawdrey (excused at
+             7pm)
+EXCUSED:
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Scott Cooley, City Engineer and Public Works Director; Spencer
+             DuShane, Assistant City Attorney; Rich Ferguson, Chief of Police; Todd
+             Draper, Planning Manager; Rhett Ogden, Parks and Recreation Director;
+             Linda Peterson, Communications Director; Nicole Smedley, City
+             Recorder; Steve Pearson, Deputy Fire Chief; Derek Orth, Human
+             Resource Director; Jake Sorensen, Network Manager; Todd Taylor,
+             Planner; and John Vuyk, Finance Director
+______________________________________________________________________
+
+Study Session
+
+Discussion: Salt Lake County Convention and Tourism Assessment Area
+Tyson Lippert, Chief Sales Officer with Visit Salt Lake, introduced Chief Financial
+Officer Bart Blaisdell, Chief Sports Officer Clay Partain, and local hoteliers in
+attendance. Mr. Lippert provided an update on the Salt Lake County Convention and
+Tourism Assessment Area, and reported revenue growth for hotels in the South
+Valley area.
+
+Discussion: Traverse Ridge Special Service District (TRSSD) Lighting
+Robert Markle said the TRSSD Board made a formal request that Draper City Public
+Works take over maintenance, repair, and replacement of the approximately 160
+street lights in the TRSSD. Mr. Markle said financial details were not yet worked out,
+but the Board wanted to know if the request was something the Council would
+entertain. He said street lighting was currently included in the special service tax, but
+commented that tracking costs and requesting reimbursement was not easy.
+
+Councilmember T. Lowery said her concern was that TRSSD lighting was different
+than standard City lighting, and significantly more expensive and difficult to maintain.
+She asked if the City would replace the lighting with less expensive City standard
+lighting. Mr. Markle responded the request was to maintain and replace existing
+
+                                                                               1|Page
+        Draper City Council Meeting Minutes Approved November 18, 2025
+TRSSD lighting with the same product. Councilmember Green said he believed if the
+City agreed to take over TRSSD lighting, standard City lighting would need to be used
+when replacement was needed. Mr. Markle said the Board had not been in favor of
+switching to standard lighting in the past, but said the situation may have changed
+with new members of the Board. Councilmember T. Lowery said she did not think
+the City should be in the business of maintaining different lighting systems for every
+neighborhood. A majority of the Council indicated support for taking over TRSSD
+street lighting and replacing the TRSSD lights with City standard lighting.
+
+Discussion: General Plan Water Use and Preservation Element
+Todd Taylor, Planner, said the State required adoption of a General Plan Water Use
+and Preservation Element by December 31, 2025. He presented a draft, highlighting
+implementation measures, and answered questions from the Council.
+
+Discussion: 800 E 12200 S Neighborhood Area Study
+Planning Manager Todd Draper showed an aerial map and Future Land Use Map
+(FLUM) of the 800 East 12200 South neighborhood area. The Council and staff
+discussed current zoning in the area, and the push by the State for the “missing
+middle” with small, stand-alone residential lots. Mr. Draper spoke of incongruence in
+the area with uses that did not conform with current zones, and showed a map of
+current uses. Staff presented the following options for the Council to consider: leave
+the FLUM as it was, or direct staff to look into amending the FLUM, possibly followed
+by City-initiated rezoning. Mr. Draper stated that City-initiated zoning changes might
+create more nonconformities, but would set the area up for the direction the Council
+wanted.
+
+The Council and staff discussed buffering. Councilmember Green said he did not
+want to change the FLUM, considering everything already happening around
+Kimballs Lane. Councilmember T. Lowery said she would not be comfortable with
+broad rezoning at that time. Councilmember Johnson said she supported the current
+lower-density zone. The Council discussed development agreements and the control
+they provided the City. A majority of the Council indicated a desire to not amend the
+FLUM for the 800 East 12200 South neighborhood area.
+
+Council/Manager Reports
+• Councilmember T. Lowery said residents in Suncrest were grateful for the wood
+  chipping service, and thanked Rhett Ogden for volunteering a wood chipper for
+  the project.
+
+
+
+                                                                            2|Page
+•    City Manager Mike Barker said as far as he was aware, Councilmember Johnson
+     was the only member of the Council who received an email from Utah Transit
+     Authority (UTA) with the UTA Tentative Budget. He said the email included a form
+     to sign indicating receipt of the Tentative Budget, and said he was not sure if
+     signing and returning the form was required. Mayor Walker said the Tentative
+     Budget was available on the UTA website, and said signing and returning the form
+     was not required.
+•    Parks and Recreation Director Rhett Ogden reported that an arborist had been
+     hired and would begin with the City the following Monday.
+•    Public Works Director/Engineer Scott Cooley reported 13800 South would be
+     open for traffic the next Thursday, with continued shoulder work.
+•    Linda Peterson reported suggested names for a plastic “mountain lion” found on
+     a City trail had been submitted by the public, and asked the Council to review the
+     list prior to adoption as a City mascot. The Council agreed to narrow the list of
+     suggested names to three, with the three names then placed on social media for
+     public vote. Ms. Peterson confirmed the Police Department had not received a
+     lost object report for the plastic mountain lion.
+•    Mr. Barker reported the need to appoint a Draper representative to the Jordan
+     Basin Improvement District. The representative could be the Mayor or a member
+     of the Council, or a selection process was in place to appoint someone else. Mayor
+     Walker expressed willingness to serve as the representative, and a majority of the
+     Council indicated support.
+•    Councilmember T. Lowery said she received an email with a request for the City
+     to partner with an organization for a holiday light display fundraiser night.
+     Members of the Council expressed interest, and requested more information.
+
+Business Session
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Pledge of Allegiance led by Parks and Recreation Director Rhett Ogden
+
+3.    Oaths of Office - Fire Department Promotion
+      Continued to a future meeting
+
+4.    Proclamation
+      Mayor Walker read into the record a proclamation declaring November 1, 2025
+      to be Extra Mile Day in Draper City, and encouraged residents to go the extra
+      mile in their own lives. Mayor Walker recognized long-time Draper resident Jean
+
+
+                                                                              3|Page
+     Hendricksen as an Extra Mile Hero, and presented a certificate to the children
+     of Ms. Hendricksen in attendance. The Council took the opportunity for a
+     photograph.
+
+5.   Proclamation
+     Mayor Walker read into the record a proclamation recognizing November 8-15,
+     2025 as Kindness Week Worldwide.
+
+6.   Public Comments
+     Sarah Brinkerhoff, Draper Library Branch Manager, spoke of a Tiny Art Show
+     scheduled to begin November 10, 2025. She invited the City Council and City
+     staff to participate in judging the event.
+
+7.   Consent Items
+     7.a October 7, 2025 City Council Meeting Minutes
+     7.b Resolution #25-56 authorizing the Mayor to grant a public utility easement
+         on real property owned by Draper City for the Jenson Farm Park
+     7.c Resolution #25-57 conveying real property while retaining access
+         easements to enable development according to the terms of the Warhorse
+         Ranch Development Agreement
+     7.d Resolution #25-58 appointing Tasha Lowery as a member of the Draper
+         City Audit Committee
+
+     Councilmember T. Lowery moved to approve the Consent Agenda.
+     Councilmember Green seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+                                          Yes No      Absent
+     Councilmember Green                    X
+     Councilmember Johnson                  X
+     Councilmember T. Lowery                X
+     Councilmember F. Lowry                 X
+     Councilmember Vawdrey                              X
+
+8.   Items for Council Consideration
+     8.a Public Hearing: Ordinances #1678 and #1679 amending the Zoning Map
+         for approximately 0.83 acres from RA2 (Residential Agricultural) to RM2
+         (Multi-family Residential) and an ordinance amending the Land Use Map
+         for the same property from Residential Low/Medium Density to Residential
+
+                                                                          4|Page
+         High-Density located at 625 East 11900 South, known as the Kimball’s
+         Junction Addition Zoning Map and Land Use Map Amendments
+         Planning Manager Todd Draper presented proposed amendments to the
+         Zoning Map and Land Use Map for the Kimball’s Junction Addition. He said
+         the Planning Commission reviewed the proposed amendments and
+         forwarded a positive recommendation with a unanimous vote.
+
+         Mayor Walker opened a public hearing.
+
+         Brandon Watson with Edge Homes said Edge Homes wanted to annex the
+         subject property into the development agreement for their current
+         development project. He said the subject property would be incorporated
+         into the concept plan if the proposed amendments were approved. Mr.
+         Watson said the subject property would help with the discussed path along
+         the canal, and would allow access for the development to 11900 South.
+
+         Mayor Walker closed the public hearing.
+
+         Councilmember F. Lowry moved to approve Ordinances #1678 and #1679.
+         Councilmember T. Lowery seconded the motion.
+
+         A roll call vote was taken. The motion passed unanimously.
+                                             Yes No      Absent
+         Councilmember Green                  X
+         Councilmember Johnson                X
+         Councilmember T. Lowery              X
+         Councilmember F. Lowry               X
+         Councilmember Vawdrey                             X
+
+9.   Recess to a Draper City Community Reinvestment Agency Meeting
+     Councilmember T. Lowery moved to recess to a Community Reinvestment
+     Agency meeting, with intention to return to regular Council meeting.
+     Councilmember Green seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+                                        Yes No      Absent
+     Councilmember Green                 X
+     Councilmember Johnson               X
+     Councilmember T. Lowery             X
+
+                                                                         5|Page
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey                           X
+
+      The Council returned to regular meeting at 7:35 pm.
+
+10.   Action Items
+      10.a Ordinance #1681 dissolving the Draper Gateway Community Development
+           Project Area adopted by the City Council of Draper City, Utah
+           Councilmember T. Lowery moved to approve Ordinance #1681.
+           Councilmember Green seconded the motion.
+
+          A roll call vote was taken. The motion passed unanimously.
+                                               Yes No      Absent
+          Councilmember Green                   X
+          Councilmember Johnson                 X
+          Councilmember T. Lowery               X
+          Councilmember F. Lowry                X
+          Councilmember Vawdrey                              X
+
+      10.b Resolution #25-53 approving a reimbursement agreement with Lloyd’s TLC
+          Limited for the consideration of public improvements in the area of
+          Bangerter Parkway and 13800 South and 150 East in Draper
+          City Manager Mike Barker explained a proposed reimbursement
+          agreement for public improvements in the area of Bangerter Parkway at
+          13800 South and 150 East. Mr. Cooley explained Bangerter Parkway and
+          13800 South both needed to be widened, with a dedicated right turn at
+          13800 South onto Bangerter Parkway, and improvements were needed at
+          150 East from Bangerter Parkway. Mr. Cooley said the project site was
+          challenged by traffic movements, and proposed improvements were
+          expected to alleviate existing problems and accommodate development.
+          He answered questions from the Council about specific planned right and
+          left turn lanes.
+
+          Councilmember F. Lowry motioned to approve Resolution #25-53.
+          Councilmember Johnson seconded the motion.
+
+          A roll call vote was taken. The motion passed unanimously.
+                                              Yes No      Absent
+          Councilmember Green                  X
+
+                                                                        6|Page
+          Councilmember Johnson              X
+          Councilmember T. Lowery            X
+          Councilmember F. Lowry             X
+          Councilmember Vawdrey                            X
+
+      10.c Resolution #25-55 updating the Draper City Tree Guide to reflect tree
+          species, Firewise planting practices, and other best practices
+          Mr. Ogden said the Tree Committee had put a lot of time into updating the
+          Draper City Tree Guide. He highlighted proposed updates, and answered
+          questions from the Council.
+
+          Councilmember T. Lowery moved to approve Resolution #25-55.
+          Councilmember Johnson seconded the motion.
+
+          A roll call vote was taken. The motion passed unanimously.
+                                              Yes No     Absent
+          Councilmember Green                  X
+          Councilmember Johnson                X
+          Councilmember T. Lowery              X
+          Councilmember F. Lowry               X
+          Councilmember Vawdrey                             X
+
+11.   Adjournment
+      Councilmember Johnson moved to adjourn the meeting. Councilmember T.
+      Lowery seconded the motion, which passed by unanimous voice vote.
+
+      The meeting adjourned at 7:47 pm.
+
+
+
+
+                                                                          7|Page
+

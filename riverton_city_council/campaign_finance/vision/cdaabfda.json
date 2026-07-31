@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": null, "name": "Glen Roberts", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Loan from Tish Buroker", "amount": "3,000,00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Vottiv Campaigns", "purpose": null, "amount": "399.98", "in_kind": false},
+    {"date": null, "recipient": "Vottiv Campaigns", "purpose": null, "amount": "500.00", "in_kind": false},
+    {"date": null, "recipient": "Republican Ads", "purpose": null, "amount": "1,500.00", "in_kind": false}
+  ],
+  "total_contributions": "4000.00",
+  "total_expenditures": "2399.98",
+  "contributions_50_or_less": null,
+  "beginning_balance": "5107.48",
+  "ending_balance": "3707.50",
+  "_meta": {
+    "index_path": "raw/2025_buroker_general-election-report.pdf",
+    "candidate": "Tish Buroker",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_buroker_general-election-report.pdf",
+    "pages": 5
+  }
+}

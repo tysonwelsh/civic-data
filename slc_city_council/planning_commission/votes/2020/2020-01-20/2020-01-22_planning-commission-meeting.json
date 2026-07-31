@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "date": "2020-01-22",
+    "year": "2020",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2020/PC01.22.2020minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2020/2020-01-20/2020-01-22_planning-commission-meeting.md",
+    "present": [
+      "Adrienne Bell",
+      "Brenda Scheer",
+      "Maurine Bachman",
+      "Amy Barry",
+      "Jon Lee",
+      "Matt Lyon",
+      "Sara Urquhart"
+    ],
+    "absent": [
+      "Carolynn Hoskins",
+      "Andres Paredes"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the January 8, 2020, meeting minutes",
+      "description": "approve the January 8, 2020, meeting minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Maurine Bachman",
+      "seconder": "Brenda Scheer",
+      "result": "5:0 Pass",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Matt Lyon",
+        "Sara Urquhart",
+        "Maurine Bachman",
+        "Brenda Scheer",
+        "Amy Barry"
+      ],
+      "nay": [],
+      "abstain": [
+        "Jon Lee"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Planned Development and Preliminary Subdivision requests PLNSUB2019-00904 and PLNSUB2019-00987 as proposed subject to complying with all applicable conditions and regulations",
+      "description": "approve the Planned Development and Preliminary Subdivision requests PLNSUB2019-00904 and PLNSUB2019-00987 as proposed subject to complying with all applicable conditions and regulations",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Sara Urquhart",
+      "seconder": "Jon Lee",
+      "result": "6:0 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Brenda Scheer",
+        "Jon Lee",
+        "Maurine Bachman",
+        "Sara Urquhart",
+        "Matt Lyon"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Design Review request for additional height PLNSUB2019-00926 for the project located at approximately 255 S State Street",
+      "description": "approve the Design Review request for additional height PLNSUB2019-00926 for the project located at approximately 255 S State Street",
+      "motion_type": "Design Review",
+      "action_class": "final_action",
+      "mover": "Matt Lyon",
+      "seconder": "Maurine Bachman",
+      "result": "5:1 Approved (Final Action)",
+      "tally": {
+        "yes": 5,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Matt Lyon",
+        "Sara Urquhart",
+        "Maurine Bachman",
+        "Jon Lee",
+        "Amy Barry"
+      ],
+      "nay": [
+        "Brenda Scheer"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation to the City Council for",
+      "description": "forward a positive recommendation to the City Council for",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Matt Lyon",
+      "result": "Positive recommendation 6:0",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Brenda Scheer",
+        "Jon Lee",
+        "Maurine Bachman",
+        "Sara Urquhart",
+        "Matt Lyon"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve PLNPCM2019-00953, PLNSUB2019-00954/00955, Axioms Townhomes Design Review, Planned Development and Preliminary Subdivision with the conditions listed in the staff report",
+      "description": "approve PLNPCM2019-00953, PLNSUB2019-00954/00955, Axioms Townhomes Design Review, Planned Development and Preliminary Subdivision with the conditions listed in the staff report",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Maurine Bachman",
+      "seconder": "Matt Lyon",
+      "result": "6:0 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Matt Lyon",
+        "Sara Urquhart",
+        "Maurine Bachman",
+        "Jon Lee",
+        "Brenda Scheer",
+        "Amy Barry"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+---
+title: Alta Planning Commission — Regular Meeting 2025-02-26
+date: 2025-02-26
+meeting_type: regular
+body: PlanningCommission
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1251205.pdf
+source_file: 2025-2-26 APC Minutes _ Approved.pdf
+pmn_file_id: 1251205
+format: ocr
+---
+
+MEETING MINUTES
+ALTA PLANNING COMMISSION MEETING
+Wednesday, February 26, 2025, 3:00 PM
+Alta Community Center, 10351 E, Highway 210, Alta, Utah
+ALTA PLANNING COMMISSION MEETING — 3:00 PM
+A RAE SES STON MEETING — 3:00 PM
+PRESENT: Jon Nepstad, Chair
+Jeff Niermeyer, Vice-Chair
+Rob Voye
+David Abraham
+Maren Askins
+Roger Bourke, Town of Alta Mayor .
+STAFF PRESENT: Chris Cawley, Town Manager
+Molly Austin, Assistant Town Manager
+Polly McLean, Town Attorney
+ALSO PRESENT: John Guldner, Cottonwood Lands Advisory :
+NOT PRESENT: | |
+1. INTRODUCTION AND WELCOME FROM THE CHAIR |
+re a NY PRAIA !
+Planning Commission Chair Jon Nepstad opened the February 26, 2025 meeting at 3:00 PM. |
+|
+2. PUBLIC COMMENT
+aA AN MNLEN
+No public comments received. |
+3. APPROVAL OF MINUTES FROM THE JANUARY 22 2025, MEETING
+Jeff Niermeyer moved to approve the minutes from the January 22, 2025 meeting. Maren Askins |
+seconded. All in favor and minutes approved. |
+4, PRESENTATION AND DISCUSSION: SHRONTZ, ESTATE PROPOSAL to
+DEVELOP a CONDOMINIUM PROJECT on PATSEY MARLEY HILL |
+PROPERTY !
+Jon Nepstad introduced this agenda item as a continuation of the conversation of the Estate’s |
+proposal to develop a condominium project as an alternative to a 10-lot residential subdivision. |
+|
+Alta Planning Commission Meeting Minutes
+February 26, 2025 1
+
+Jeff Niermeyer questioned whether a formal application was up for consideration at this time.
+Polly Mclean noted that this conversation is considered a work session and no formal action is
+being taken regarding an application. Wade Budge offered to revisit this question later in the
+meeting.
+Doug Ogilvy introduced himself as representing the Shrontz Estate on the Patsey Marley parcel.
+He summarized that the question before the Planning Commission is whether they are in favor of
+building a1 0-lot subdivision to include expansion and paving of a portion of the Albion Basin
+Summer Road, as approved in a 2014 settlement agreement, (“Development Concept A”’) or the
+recently proposed concept of one larger condominium building on the southeast corner of the
+property with a proposed alternative paved access road running parallel (to the west, or
+downslope, of the summer road) accompanied with a 20-acre conservation easement (
+“Development Concept B”’).
+Doug noted that after the site visit to the property last month, he noticed that the building
+renderings showing height and massing compared to the surrounding treetops was inaccurate,
+and the Estate updated their renderings for accuracy. Doug also stated that another outstanding
+question from the previous meeting was about water usage, and that they invited a representative
+from Aqua Engineering to speak on that topic later this evening.
+Jon Nepstad asked that the Estate discuss their proposal to access the project. Doug Ogilvy
+responded by saying that the approved access plan with Development Concept A is shared access
+along the Albion Basin Summer Road with a parking structure and the alternative proposed in
+Development Concept B is to build a new access road to run parallel to the Summer Road, thus
+maintaining the Summer Road as it is in its current form and usage. Doug said he believes both
+the Estate and the Town prefer this new alternative.
+Jeff Niermeyer asked Doug Ogilvy if the estate has approached the USFS about the alternative
+access route proposed in Development Concept B. Doug stated that they have not engaged with
+the Forest Service yet on that topic.
+Maren Askins asked if Alta Ski Area is in favor of the new road. Doug stated that they haven’t
+gotten into the details of that yet with representatives from Alta Ski Area, but that working
+closely with them is paramount regardless of which alternative is considered.
+Jon Nepstad noted that this new alternative has a greater impact and disturbance in the area and
+asked why this is the preference. Doug Ogilvy stated that there are some trade-offs, notably that
+this alternative will provide two roads to accommodate different user groups vs. having all users
+. share one road. Chris Cawley clarified that without the new driveway, there would still be
+significant disturbance in the area with the widening and extending of the Summer Road.
+Jeff Niermeyer asked about the location and access to the public restrooms. Doug noted that after
+discussion at the last meeting, he understood it to be the Town’s preference to keep public
+restrooms as a separate out-building located closer to the winter access gate.
+Alta Planning Commission Meeting Minutes
+February 26, 2025 2
+
+Polly asked how the current Summer Road would be impacted with Development Concept A.
+Doug Ogilvy reported that the Summer Road would be widened to 34’ for the majority of the
+road and 46’ wide at the entry based on the current approval.
+Doug Ogilvy introduced Dan Woodbury from Aqua Engineering to discuss water usage. Mr.
+Woodbury noted that the Estate established a cap of 8,000 gallons of water usage per day. He
+continued that the number of units in Development Concept B (estimated at 34 total units) would
+put that State requirement out of reach (assuming 400 gallons per unit per day), so they have
+| approached the State to request a reduction as State code allows on a case-by-case basis. Mr.
+Woodbury continued that they gathered data from similar developments in the Deer Valley area
+to use for comparison. He further noted that the request is for 250 gallons a day, which is
+significantly higher than the samples they are using for comparison. He continued to make the
+distinction that the units proposed in Development Concept B would have no outdoor usage
+(such as irrigation) further reducing the need.
+Jeff Niermeyer asked how the square footage of the proposed units compares to the ones they are :
+using as comparable in Deer Valley, to ensure that we are conducting an “apples to apples”
+comparison. Mr. Woodbury stated that they are factoring in square footage in their comparisons
+and reiterated that discrepancy in outdoor water usage, Jeff then asked about the time period they
+are using to measure — whether it was day, peak month, year, etc. Mr. Woodbury noted that they
+are collecting data for 36 months. Jeff described that per state code, there must be an enforceable |
+mechanism to ensure the monthly cap is not exceeded, which he opined could be a challenge |
+during peak visitor months like the holidays,
+Jon Nepstad asked the Estate provide the commission with the data Mr. Woodbury described for |
+the comparable developments. Mr. Woodbury noted that they are currently evaluating 4 other |
+_ properties and are looking to add a few more, including some in Little Cottonwood Canyon.
+i
+Maren Askins asked about how the additional communal facilities (like food and beverage |
+outlets) are being factored into the water usage calculations. Mr. Woodbury noted that would be |
+factored in when considering the total number of connections in the development. Jon Nepstad
+inquired about the anticipated timing to submit a report to the State and Mr, Woobdury stated |
+they expected to have it ready in 3-4 weeks, |
+Chris Cawley inquired what the process is like with the State of Utah for review and approval.
+Dan Woodbury stated the State would ultimately issue a letter of approval that would be
+submitted to the Town of Alta.
+Rob Voye asked about the state-level requirements vs. SLC Department of Public Utilities
+(SLCDPU). Jeff Niermeyer clarified that the State sets the drinking water requirements and
+SLCDPU holds the contract for the source of supply. He provided a useful analogy that
+SLCDPU provides the bucket of water, and the State determines how quickly the bucket can be |
+drained.
+Polly Mclean asked about the distinction between connections and fixtures. Mr. Woodbury |
+explained that the State will do a calculation to determine the ERC (equivalent residential |
+|
+Alta Planning Commission Meeting Minutes
+February 26, 2025 “3
+
+connection) based on predicted usage. J eff Niermeyer elaborated that the number of bedrooms
+would factor into the ERC calculation as more bedrooms equate to increased usage through the
+fixture units.
+Wade Budge, legal representative of the Estate, introduced himself. He stated that since the
+previous Planning Commission meeting, they have conducted additional meetings with
+representatives from SLCDPU and the Town of Alta. Wade clarified that they have also since
+submitted an official application to the Town for a re-zone to accommodate Development
+Concept B.
+Wade explained that per the 2014 agreement, the Estate cannot seek any changes to
+Development Concept A without getting consent from both SLCDPU and the Town of Alta. In
+October, they received an email confirming consent from SLCDPU to move forward with
+Development Concept B and are now working to determine if the Town is also amenable to the
+new concept. Wade noted that the application they submitted to the Town for a re-zone could
+easily be terminated if the Town wasn’t interested in consenting to the process. He then stated
+that property owners have certain rights when it comes to land use applications, but that he
+recognized they are not yet in that category.
+Wade then led a high-level overview discussion of the process and the roles of the Planning
+Commission versus the Town Council. At this point, they are seeking a recommendation for a re-
+zone from the Planning Commission to the Town Council. The Planning Commission cannot
+approve a te-zone, but they can offer a recommendation in favor of, against, or in favor of with
+conditions or comments, to the Town Council. Wade continued that ultimately it is the Town
+Council that the Estate will have to work with to get this project approved, with the following
+asks:
+, e Ate-zone of the property from FR-1 to FM-20
+e Amendments to the development agreement currently in force
+If the Estate and the Town Council agree to those terms, the Estate would return to the Planning
+Commission with a land use application consisting of a conditional use permit and a
+condominium plat. Wade emphasized that if they get to that point, they will come back to the
+Planning Commission with all of the outstanding details that are currently in question (like total
+number of water fixtures, how they would mitigate some of the detrimental impacts of the
+"project, accounting for the rights of Alta Ski Lifts that are already in place, etc.). At this point,
+they are presenting the Planning Commission with the general outline of Development Concept
+B and are seeking comments, but reco gnize it is not a complete project plan as many of those
+details would be sorted out further along in the process.
+Jeff Niermeyer noted that the wetlands should be added to their list of items for consideration.
+Wade Budge then continued to describe what details would be required in a conditional use
+permit application, such as: .
+e Compliance with set-back requirements
+e Avoiding unlawful impacts on wetlands
+Alta Planning Commission Meeting Minutes
+February 26, 2025 4
+
+Wade once again stated that this is a voluntary process and that if the Town withdraw from it or
+declines to approve the Estate’s proposal, the Estate would revert to Development Concept A as
+agreed upon in 2014, The conversation for today is to offer comments on the consideration of a
+re-zone,
+Jeff Niermeyer noted that the dialo gue on this topic thus far has been restricted to the Planning
+Commission and he expressed interest in opening up the conversation to the greater Town of
+Alta community. Wade noted that his preference would be to have a formal public hearing in
+conjunction with the March Planning Commission meeting that would include an overview of
+the project details the Estate has shared to-date. Jon Nepstad highlighted the importance of
+providing community members with visual representations of the impacts of Development
+Concept B and proposed holding an open-house style meeting to allow for broader community
+input in a more informal setting.
+_ The Estate and the Commission discussed possible details for how an open house meeting would
+be conducted and the Planning Commission came to a consensus to move in the direction of
+getting one scheduled.
+| Polly Mclean asked for clarification on the revised development agreement to go along with the
+re-zone as well as the current settlement/development agreement. Wade clarified that the
+development agreement from February 14, 2014 was an administrative development agreement, |
+meaning that it did not seek a variation in zoning. He noted that the choice to re-zone is
+legislative, meaning it would come from the Town Council. Wade then emphasized that a re-
+zone would not be pursued without being accompanied by an updated development agreement |
+that included the conservation easement terms, the alternative access route, and a “host of other |
+items”, one of which is a stipulation about the water usage, noting that element would require
+cooperation from SLCDPU. |
+Jon Nepstad asked for clarification on who would hold the conservation easement. Wade stated
+that the Estate would pick a qualified donee that js acceptable to all parties and added that the
+Estate had informal conversations with Friends of Alta as an interested and qualified party. |
+Wade then stated that a mutual water company would be formed to manage and enforce the
+requirements related to water usage,
+Rob Voye asked about the inclusion of Alta Ski Lifts in the conversation and if they are
+comfortable with the proposal as it stands. Wade stated he could not speak on their behalf but
+that he understands that including and working with them is essential, especially in regard to
+obtaining approvals from the USES and evaluating the impacts to skiers in the development area. !
+David Abraham clarified that the re-zone request is for the FM-20 zone and then asked about the
+developable acreage. Doug Ogilvy explained that the total lot size is approximately 6 acres, but
+since the uphill portion of the lot is desi gnated for conservation, the developable acreage is closer |
+to 2.5 acres, David Abraham then asked for clarification that the building height is a standard
+|
+Alta Planning Commission Meeting Minutes |
+February 26, 2025 5
+|
+I
+
+that will be determined by the Planning Commission and not something that would be included
+in a recommendation to the Town Council, which Polly McLean confirmed.
+The commission discussed a summary of next steps:
+e Estate representatives to coordinate with TOA staff to host an Open House for
+community input for some time in March
+e Estate requests to be on the agenda for the March Planning Commission meeting,
+assuming the timing allows with the Open House
+e Planning Commission gets to a position to be ready to make a recommendation to the
+Town Council with any comments they may have
+e Town Council weighs comments from the Planning Commission along with a draft
+Development Agreement
+e Development Agreement to outline what process would be followed should the
+application for a re-zone be approved
+e Estate to return to the Planning Commission with an application for a Conditional Use
+Permit as eatly as this summer
+e The conservation benefits get transferred to the qualified donee as soon as practicable
+Jeff Niermeyer asked Polly Mclean how the Planning Commission can make their
+recommendation to the Town Council. Polly noted that the application for a re-zone was
+officially submitted to the Town recently and the Town is still evaluating whether it is a
+complete application. If the Town determines the application is complete, the next step would be
+to bring that application before the Planning Commission for a formal recommendation.
+Rob Voye noted that with the addition of an Open House meeting, there may be a need to push
+back the regularly scheduled Planning Commission to allow for enough time to advertise the
+event and then synthesize the information gathered from the public. A discussion then followed
+on the logistics of the Open House meeting, with an emphasis on the fact that it is an
+ nformational meeting for the public to gather comments and feedback.
+5. OPEN AND PUBLIC MEETINGS ACT TRAINING
+Polly McLean introduced the Open and Public Meetings Act and summarized that the basis of
+the Act is to ensure that public business is conducted transparently and in he public. The Act
+applies to any public body of two or more individuals supported by tax money or with decision-
+making authority. A meeting is defined as a quorum of a public body, which for the Alta
+Planning Commission means three or more members convening to discuss, receive comments, or
+act on town-felated matters.
+Polly clarified that casual social interactions among members do not constitute a meeting unless
+town business is discussed. Polly addressed potential issues with electronic communications
+(such as emai! chains and group text messages), explaining that if a quorum participates and
+town business is discussed, such exchanges could qualify as meetings and must comply with the
+_ Act, Polly urged avoiding actions that could be perceived as circumventing the law.
+Alta Planning Commission Meeting Minutes
+February 26, 2025 . 6
+
+Examples were provided to illustrate acceptable practices, such as communicating directly one-
+: on-one with Town staff. Social events and casual interactions, such as meeting on a chairlift or
+having dinner, are permissible if town business is not discussed. However, Polly cautioned
+against post-meeting discussions or private deliberations that could undermine the transparency
+of decision-making. It was noted that any decision must be discussed openly in meetings to
+ensure public awareness and participation.
+Polly also touched on the importance of preserving government records, such as emails and
+messages, and recommended using official town email accounts to ensure compliance with
+GRAMA requests. She then reviewed requirements for meeting locations, including anchor
+locations for electronic meetings and exceptions during emergencies. She also discussed the
+requirement that all meetings are recorded and have minutes published. Polly briefly discussed
+the topic of closed meetings, explaining they are allowed for specific purposes, but that it is
+. unlikely for the Planning Commission to convene a closed meeting.
+Meeting notices and agendas must be posted at least 24 hours in advance and include sufficient
+detail for the public to understand the topics. Emergency meetings require the maximum possible
+: notice under the circumstances. Polly highlighted that public comments are welcomed on any
+topic, but decisions can only be made on agenda-listed items. Jon Nepstad asked if the Planning
+Commission could request that people giving public comments provide their zip code or address
+before providing a public comment. Polly clarified that while it is something the Commission
+can ask for, they could not limit someone’s ability to speak based on where they reside.
+Polly noted that the minutes are considered the official record of the meeting, but that audio !
+. recordings must also be retained indefinitely. Chris Cawley and Polly noted that Town staff
+tends to strike a nice balance between a full transcript and a very general summary of the
+meeting proceedings in how the minutes are presented. As members of the public body, the
+Planning Commission can request the minutes be either more or less comprehensive to meet their
+preference. |
+Polly warned of serious consequences for knowingly violating the Act, including potential legal
+ramifications. Polly provided additional training resources, including a link to receive a |
+certificate of having completed the annual training requirement.
+6. NEW BUSINESS
+No new business. |
+7. DATE OF NEXT MEETING
+The next meeting is scheduled for March 26, 2025, at 3:00 PM. |
+|
+Alta Planning Commission Meeting Minutes
+February 26, 2025 . 7 |
+i
+
+Planning Commission members and staff discussed potential details of an open-house style
+meeting in March, but the date has not been determined. It was noted that the regular meeting
+scheduled for March 26 may have to be rescheduled due to the timing of the open house.
+Conversation continued about the logistics of an open house and how public feedback will be
+received,
+8. MOTION TO ADJOURN
+Planning Commission member J eff Niermeyer moved to adjourn the meeting. Planning
+Commission Member Maren Askins seconded the motion, and the motion was carried with
+unanimous consent of the commission.
+nr
+Minutes Approved 6n March 2672025
+i, é
+ZL hris Cawley, Town Manager
+Alta Planning Commission Meeting Minutes
+February 26, 2025 8

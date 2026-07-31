@@ -1,0 +1,746 @@
+# Planning Commission Meeting — 2020-08-04
+> Source: http://cityofholladay.com/file/2020/12/080420-PC-Mtg.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20210808214744id_/http://cityofholladay.com/file/2020/12/080420-PC-Mtg.pdf
+> Meeting date: 2020-08-04
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                         MINUTES OF THE CITY OF HOLLADAY
+                          PLANNING COMMISSION MEETING
+
+                                   Tuesday, August 4, 2020
+                                         6:30 p.m.
+                           Meeting Conducted via Electronic Means
+
+ATTENDANCE:
+
+Planning Commission Members:                         City Staff:
+
+Marianne Ricks                                       Paul Allred, Community Development Director
+Jan Bradshaw                                         Stephanie Carlson, City Recorder
+Troy Holbrook                                        Robert Hobbs, Senior City Planner
+Chris Layton                                         Jayme Blakesley, City Attorney
+Alyssa Lloyd                                         Jared Bunch, City Engineer
+
+WORK SESSION
+Chair Marianne Ricks called the meeting to order at approximately 6:10 p.m.
+
+The agenda items were reviewed and discussed. It was suggested that agenda item number three
+be addressed first.
+
+Community Development Director, Paul Allred, reported that with regard to agenda item 4(a), the
+expectation was that Chapter 2 would be discussed at the August 18 meeting after which a public
+hearing would be noticed for the first meeting in September. Agenda item 4(b) regarding the
+Accessory Dwelling Unit (“ADU”) Ordinance, contained an update for the Commission but no
+draft was available as staff was waiting for direction from the City Council. Once the City Council
+provides feedback, staff will begin drafting the ordinance. Timing issues were acknowledged.
+
+Senior City Planner, Robert Hobbs presented agenda item number three and stated that last year
+the applicants were granted a special exception for a retaining wall system. The applicants are
+now requesting that the permit be extended to July 16, 2021. Procedural issues were discussed.
+
+The IDI Real Estate Office proposal was next addressed. Mr. Hobbs reported that the property
+was rezoned with the intent of developing an office building on the site. The request was for a
+Concept Site Plan approval on the property. The request appeared to be in compliance with the
+zoning standards. Staff recommended approval subject to the conditions set forth in the staff
+report.
+
+Commissioner Lloyd commented on the appearance of the parking garages on the site as opposed
+to parking spaces. She stated that it has a storage unit appearance. It was noted that the enclosed
+parking spaces will block noise from Highland Drive. Mr. Allred reported that storage unit
+developments in the City have been recently prohibited by ordinance of the City Council. On-site
+enclosed parking spaces/garages may be reserved for people who work on the site and they are
+routinely a part of approved developments. They also reduce heating costs due to less open asphalt
+area. A potential condition of approval could be added to require the garages be for the parking
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                1
+of cars only and not for personal or commercial storage such as personal water craft or
+motorhomes, etc. Chair Ricks pointed out that any such structure(s) would be visible from
+Highland Drive.
+Mr. Allred commented on the Fairfield Inn item and stated that the recommended approval was
+based on an extensive amount review at staff level. Earlier in the day he spoke to one of the
+neighbors at city hall who submitted comments relative to traffic and pedestrian safety. Mr. Allred
+was pleased overall with the site plan in terms of architecture, landscaping, and parking.
+
+Commissioner Bradshaw moved to adjourn the work session. Commissioner Holbrook
+seconded the motion. Vote on motion: Chris Layton-Aye, Troy Holbrook-Aye, Jan Bradshaw-
+Aye, Alyssa Lloyd-Aye, and Chair Marianne Ricks-Aye. The motion passed unanimously.
+
+The Work Session adjourned at approximately 6:28 p.m.
+
+CONVENE ELECTRONIC MEETING – Public Welcome and Chair Opening Statement.
+Chair Marianne Ricks called the meeting to order at approximately 6:30 p.m. The Commission
+statement was read as well as a statement describing the reasoning behind conducting virtual
+meetings without an anchor location.
+
+Commissioner Bradshaw moved to modify the agenda and address agenda item number three
+first. Commissioner Layton seconded the motion. Vote on motion: Chris Layton-Aye, Troy
+Holbrook-Aye, Jan Bradshaw-Aye, Alyssa Lloyd-Aye, Chair Marianne Ricks-Aye. The motion
+passed unanimously.
+
+The Commission next addressed agenda item three after which they addressed the agenda items as
+printed.
+
+PUBLIC HEARINGS
+1.      “IDI Real Estate Office” – Concept Site Plan – 1990 East 5290 South – (NC Zone).
+Senior City Planner, Robert Hobbs presented the staff report and stated that a rezone action
+effectuated the change to the zoning from “Public” zone to Neighborhood Commercial zone. The
+application was submitted by Kasey Kershaw who was requesting that the Commission consider
+their Concept Site Plan arrangement. City codes require Concept Site Plans be reviewed by the
+Technical Review Committee and then forwarded to the Planning Commission for consideration
+during a public hearing. In addition, the City of Holladay requires input from neighboring property
+owners and others who own property within 500 feet of the subject property. Staff has
+recommended approval based on the conditions and findings set forth in the staff report.
+
+The applicant, Kasey Kershaw commented that the site plan includes eight executive offices on
+the second story, which was the reason for the eight garages. They will be for the use of certain
+employees or those leasing space on site. The intent was for them to be attractive rather than serve
+as storage units. Mr. Kershaw was approached by one neighbor who attended the neighborhood
+meeting and expressed pleasure that she would be buffered from the noise and view from the
+street. The applicant agreed to construct a six-foot solid wall on the rear property line. The
+neighbor proposed that the garages be pushed to the lot line rather than leaving a five-foot space
+there, which could be problematic. Mr. Kershaw reported that he is a Holladay resident and will
+be occupying some of the space. He wants the project to be attractive and have a good image.
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                 2
+Mr. Kershaw stated that the garages will not serve as storage units but he did not object to a tenant
+storing a boat in one of the garages. Commission Bradshaw considered that to be an issue since it
+would then be used as a storage unit. Commissioner Holbrook agreed. Commissioner Bradshaw
+stated that there need to be stipulations in place that cars may be parked there but they are not to
+be used as personal or household storage facilities. If the garages are placed at the rear of the site,
+they would look better than a cinderblock wall and be constructed of brick or wood façade or
+siding. To the south, the wall would be installed and landscaped.
+
+Chair Ricks opened the public hearing. There were no public comments. The public hearing was
+closed.
+
+City Engineer, Jared Bunch verified that Mr. Kershaw understood the requirements of the
+Highland Drive street improvements. Mr. Kershaw reported that the seven-foot section of property
+in front has been dedicated to the City. Mr. Hobbs explained that when property is developed
+adjacent to a right-of-way, the developer is tasked with putting in the improvements. In response
+to a question raised, Mr. Kershaw stated that before he purchased the property, the Greek Orthodox
+Church had already dedicated the seven feet of property to the City of Holladay. His understanding
+was that when the street is widened, the power line will be buried.
+
+Mr. Hobbs indicated that there is no specific requirement in the Code regarding the space between
+the garages and the fencing. Staff deferred to the five-foot landscape barrier. If they impose that
+standard they would move the accessory building based on the Planning Commission’s stated
+authority regarding moving features on the property to avoid going through a variance process.
+Another option was to keep the five-foot standard.
+
+Commissioner Layton commented that it is redundant to have a rear wall behind the garage. The
+only potential issue would be with the neighbor who suggested the idea. He recommended that as
+part of the Preliminary Site Plan Design, the developer proposed it at the property line, which
+makes more sense. Mr. Hobbs stated that many jurisdictions allow that type of scenario.
+
+Commissioner Lloyd did not think it was necessary to increase the space between the tree trunks
+particularly if a variety of trees are planted to allow for reasonable growth. Mr. Hobbs explained
+that that specific condition is in reaction to the basic landscape plan that was provided. The intent
+was to ensure that the tree canopies do not grow into each other. Additional infill landscaping
+could be added but having trees too close together, if they use the tree location depictions, could
+be an issue and result in damage to the trees over time.
+
+Commissioner Lloyd felt that 30 feet of spacing was extensive. She remarked that very few trees,
+given our high desert climate, survive to grow to a full crown of 30 feet. Commissioner Bradshaw
+agreed. She recommended they first study the landscaping plan to determine the types of trees
+that are proposed and the spacing along Highland Drive. Possible verbiage changes were
+discussed.
+
+Commissioner Bradshaw moved to approve the Concept Site Plan for the IDI Real Estate Office
+located at 1990 East 5290 South, Kasey Kershaw, Applicant. Approval was subject to the
+following:
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                  3
+Findings:
+      1.       The site has been rezoned to Neighborhood Commercial, especially to facilitate
+               an office use as proposed by the Applicant of/for the project made the subject of
+               this report;
+
+       2.      The concept site improvement/layout plan and associated landscape plan
+               elements thereon substantially complies with relevant zoning standards that
+               appertain to the same or, will comply contingent upon actions being taken by the
+               developer (see conditions below) as conditioned by the Commission;
+
+       3.      The queuing and circulation plan provide customary ingress/egress with flow
+               through the Property [again – shifting of the site’s approach preferred];
+
+       4.      The proposed use will not add an undue burden to public infrastructure nor
+               introduce nuisance or hazardous conditions to the Property, its surrounds, or the
+               public;
+
+       5.      Utility and emergency services are available to the Property; and
+
+       6.      The conceptual site plan provides buffering to/for the residential property(ies)
+               east of the Property and the Publicly zoned land to its south.
+
+Conditions:
+       1.      Depict a solid six-foot (6’) decorative wall on the plan between the Property and
+               a/the abutting parcel of land to the east of the Property addressed as 1994 East
+               5290 South. The wall shall not be any closer than twenty-feet (20’) to the
+               Property’s northern line/right-of-way line of/for 5290 South;
+
+       2.      Street trees depicted as lining both Highland Drive and 5290 South shall be
+               shown as fully on private Property (not in the City’s right-of-way) and spacing of
+               trees along Highland Drive as shown on the concept plan shall be increased to
+               reasonable levels (e.g., 30 feet between trunks);
+
+       3.      The width of the garage bays’ vehicle overhead doors shall be called out on the
+               preliminary plan;
+
+       4.      Architectural elevation drawings shall be provided for both the office and the
+               accessory garage building [note: the accessory garage building may not have a
+               blank wall façade facing the residential property to the east of the Property that
+               is longer than 75 feet;
+
+       5.      A grading/drainage plan shall be submitted to the City in conjunction with any
+               application for Preliminary Site Plan Approval applied for through the City;
+
+       6.      The position/alignment of future curb, gutter and sidewalk along Highland Drive
+               shall be depicted on any application plan pages associated with any Preliminary
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                4
+               Site Plan approval applied for through the City. Relatedly, re-define the scope of
+               the landscape strip proposed along Highland Drive to be only five feet (5’) in
+               width/depth post improvements emplacement;
+
+       7.      Dedicate, if not already so executed to the City, land confined within the triangle-
+               shaped area at the southwest corner of the Property. The right triangle is roughly
+               10’ long by 4’ wide at the base;
+
+       8.      Depict the short sidewalk section in front of the proposed office as extending to
+               intersect, perpendicularly, the sidewalk (or any future realigned sidewalk) along
+               Highland Drive. Cause that said extension is built to an allowable Americans
+               with Disabilities Act (ADA) slope for the traversing of wheelchairs thereon;
+
+       9.      Depict the landscape scheme intended to occupy the five-foot (5’) landscape
+               buffers that line the east and south sides of the Property;
+
+       10.     Shift the location (centerline) of the proposed Property approach fifteen-feet
+               (15’) to the north along Highland [note: this may necessitate losing one parking
+               space and narrowing the end-cap landscape planter depicted adjacent to the
+               current northern side of the approach;
+
+       11.     The garages shall not be used as storage facilities and only for vehicle parking
+               for tenants while working;
+
+       12.     The five-foot landscape buffer shall be removed between the garages and the
+               fence line and the garages shall be allowed to be placed at the property line; and
+
+       13.     At the property line, the wall and any landscaping needed shall be planted next
+               to the building
+
+Engineering Conditions:
+      1.     Construct a 30-inch wide barrier curb 26.5 feet from road centerline to lip of
+             gutter (abutting edge of pavement);
+
+       2.      Widen asphalt pavement structure with 7-inch hot-mix asphalt over 6-inch
+               untreated base course over 12-inch granular borrow;
+
+       3.      Construct a four-foot-wide park strip; and
+
+       4.      Construct a five-foot-wide concrete sidewalk.
+
+Commissioner Lloyd made a friendly amendment to modify condition number one to specify
+that condition number 12 supersedes anything in item number one that is not congruent.
+
+Commissioner Holbrook noted that there is no need for a solid six-foot decorative wall abutting
+the back of the garages to the east of the property. The backside of the garages will serve as the
+decorative wall. On both ends and the north end of the property it still needs to be addressed.
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                5
+Commissioner Bradshaw was in favor of condition number two remaining unchanged since it
+will be addressed at the preliminary approval stage.
+
+Commissioner Layton pointed out that the garages built on the property line will have to be
+consistent with all building codes.
+
+Commissioner Layton seconded the motion. Vote on motion: Jan Bradshaw-Aye, Chris Layton-
+Aye, Troy Holbrook-Aye, Alyssa Lloyd-Aye, and Chair Marianne Ricks-Aye. The motion passed
+unanimously.
+
+ACTION ITEMS
+2.     “Fairfield Hotel”– Preliminary Site Plan– 6417 South Highland Drive – (ORD Zone).
+Community Development Director, Paul Allred presented the staff report and stated that it has
+been a very complicated project. The property has been rezoned and follows the General Plan.
+The applicant’s narrative was provided, which details the complicated history of the project. Staff
+reviewed the site plan and was generally satisfied. It was noted that the conceptual plan was
+approved in November of 2019. Staff recommended preliminary approval with a few caveats.
+
+The proposed Lighting Plan was discussed. Mr. Allred reported that staff has asked numerous
+questions of the lighting designer to ensure that the impact of the project will be minimal on the
+neighbors to the east. Specifically, the developer was asked to lower the 30 foot tall light poles on
+the east side of the site closest to the homes on the east (Only 20 feet from the property line.) The
+applicants agreed to lower them to 23 feet in height.
+
+Mr. Allred reported that the wall on the east side of the site is proposed as per Code at six feet.
+The highest point of the roofline is 53 feet while the remainder is 49 feet.
+
+Lighting details were discussed. Mr. Allred stated that most of the lights will be at approximately
+3,000 kelvin with a few brighter lights. The building will be mostly downlit and on timers. He
+commented that he considered the landscaping plan to be outstanding overall.
+
+Mr. Allred reported that he spoke with a neighbor earlier in the day at the counter who had safety
+concerns. The neighbor was particularly concerned about the access road from Highland Drive at
+the proposed location. From staff perspective, there was not a consensus from the property owners
+on the private lane to move the road to the north even though it was unanimously expressed at the
+public hearing in 2019 that the drive should be moved to the north to align with the existing traffic
+signal. Ultimately, the site plan application submitted complies with the Utah Department of
+Transportation (“UDOT”) permit for the access at the existing location. The neighbor was
+particularly concerned about the width of the access onto Highland Drive. He wanted it to be
+sufficiently wide so that cars have ample room to turn in while traveling at a reasonable speed and
+not impact pedestrians. Adding several hundred cars per day to a portion of the private lane will
+make it a less safe place to walk.
+
+Mr. Allred reported that the Code specifies that a walkway should be provided between adjacent
+uses and the property. He questioned whether the developer should provide a separate walkway
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                 6
+elsewhere. Commissioner Layton stated that there is an ideal place for one along the buffer zone
+between the residences and the parking on the east and north.
+
+Mr. Allred explained that the Big Cottonwood Tanner Ditch runs along the northwest corner of
+the property and there needs to be a 15-foot wide (per the city engineer) easement to protect and
+access it as it is a City-owned facility. The City Engineer also had concerns about the initial
+drainage plan, which was not well-designed. That concern has since been resolved with the
+addition of a large detention basin on the north side of the property.
+
+Commissioner Bradshaw was concerned about the proposed parking stalls along the road to
+Highland Drive. She expressed her strong opposition to this project from the beginning. Mr.
+Allred did not consider the situation to be problematic considering the level of traffic coming from
+the neighborhood would be minimal. Six to 10 car trips per day were anticipated from only a
+handful of properties. Commissioner Bradshaw did not want to wait for motorists to back out and
+considered the plan to be flawed. Mr. Allred did not know how the site could be reengineered to
+prevent anyone from backing into a private roadway. He explained that backing is allowed onto
+Highland Drive where motorists drive very fast. He stated that people have to use caution whether
+it is a public or private road. He felt it would also serve as a form of traffic calming for both
+parties.
+
+The developer’s agent, Steve Lovell commented that they are moving forward with Plan B which
+locates the entrance to the hotel property south of the existing traffic signal and utilizes the present
+private lane location for the homes to the east of the hotel. They still have great interest in Plan A
+and will continue to work toward that. Chair Ricks recognized the time and expense of developing
+both plans. Commissioner Bradshaw was interested in hearing the perspective of the dissenting
+resident to understand why an agreement cannot be reached. Mr. Lovell’s understanding was that
+the resident is concerned that the agreement is not tied to the project and that signing it would open
+the door for the developer to not move forward with the hotel project. That reasoning is flawed
+since the development deadline would not allow for anything else to be done on the property. The
+neighbor wants the agreement to be escrowed and for Mr. Lovell’s client to move forward with a
+$20+ million project before allowing her easement to be released and recorded, which poses
+insurmountable hurdles.
+
+Chris Layton asked Mr. Lovell if he and his engineer would consider how a walkway could be
+integrated into the area where the current detention basin is located that extends from the lane
+around the parking area. Mr. Allred commented that the walkway would need to be an all-weather
+surface that will accommodate the grades and ramps to connect. It was noted that it would be
+beneficial for the walkway to be placed within the landscape buffer on the perimeter of the site
+adjacent to the homes.
+
+Commissioner Bradshaw inquired about the parking stalls that face the road. Mr. Lovell was not
+involved in the specific design discussions and stated that it may simply be a function of the site
+and the layout.
+
+Mr. Allred explained that there are fewer rooms in the hotel now than approved in the concept
+plan. They do, however, still have the requisite number required by Code. His recollection was
+that it mirrors the concept plan.
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                   7
+Commissioner Layton stated that the site plan is difficult and tight and every parking stall in a
+hotel is a premium. He found it much less dangerous than parking and backing out in a grocery
+store parking lot. In this case, there will be far fewer cars. Chair Ricks stated that more cars are
+anticipated in a commercial area but this is in a neighborhood. She agreed with Commissioner
+Bradshaw that it is not a good idea and that moving them would be preferable.
+
+Commissioner Holbrook recognized that this has been a hyper-sensitive situation from the outset.
+He agreed that the way the parking is laid out feels like a parking lot. He recognized what the
+developer has done to this point and was pleased that they are meeting the height requirements.
+He was confused about Plan A and Plan B and wondered if all of the agreements were executed at
+the time of purchase. He wondered why there was just one holdout now. All considered Plan A
+to be the best option. Mr. Lovell explained that the agreement entered into one year ago was
+conditioned upon it being executed by all the residents to the east of the site on the private lane..
+When the one resident did not sign, it never became effective. Ways to resolve the conflict were
+discussed.
+
+Mr. Lovell stated that he would not want anyone to use their development timelines as leverage to
+delay or prevent the project from moving forward. They need to protect the viability of a project,
+which is satisfied by moving forward with Plan B. For that reason, the decision was made in April
+to run both plans simultaneously. Mr. Lovell explained that the neighbor wanted her easement
+escrowed until the hotel is built and open for business. That was something the developers could
+not agree to. They have tried in the meantime to provide the resident with reasonable assurances.
+Mr. Lovell explained that they are requesting that the Commission consider the application for
+Plan B to ensure that their investment and the project is not put in jeopardy.
+
+Commissioner Bradshaw questioned how COVID-19 and the impact on the economy are
+impacting the project. Mr. Lovell acknowledged that the hospitality industry has taken a major hit
+but is bouncing back. The proposed project is in a great location and the timeline is such that by
+the time it is completed, the economy will likely have recovered. The construction period was
+expected to be 12 to 18 months with an anticipated 2022 opening.
+
+Site circulation issues were discussed. Mr. Lovell stated that there is no left turn into the hotel or
+onto the lane currently. More timing would have been required on the intersection lights to provide
+an extra left turn. Chair Ricks did not see how the developer could plan for the left turn out with
+UDOT indicating that they can place a median there at any time. Mr. Lovell stated that that is
+standard language in all of UDOT’s access permits.
+
+Mr. Allred reported that the previous property owner, Liz Petersen, indicated that much of the
+problem is with the stop bar. Motorists ignore it and cars stack, which traditionally prevents
+vehicles from getting in and out from the private lane onto Highland. The solution is for Plan A
+to be approved; however, there is not unanimity from the neighbors to do that. He pointed out that
+only eight out of 111 parking stalls are along the lane. Most of the stalls will be used sparingly for
+the majority of the day. Commissioner Bradshaw and Chair Ricks thought that eight stalls was
+too many. Chair Ricks considered the eight stalls to be premium parking spaces near the entrance
+for those checking in and will be heavily used as opposed to those that are farther away. Mr. Allred
+contended that safety is enhanced by having the road be narrower and encumbered. He explained
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                  8
+that all of the neighbors agreed that Plan A at the Concept Plan approval stage nine months ago
+was preferable to Plan B. There has been a great deal of discussion since then and the current site
+plan meets the Code even though it is not the more desirable of the two concepts.
+
+Chair Ricks recalled that a condition of approval was for the City leaders to work with the
+developer to come up with a solution that would allow for the project to be built in accordance
+with Plan A. Mr. Allred indicated that not all of the neighbors want Plan A now and that a
+“condition” to work toward Plan A cannot be enforced to prevent Plan B. He explained that the
+proposed site plan complies with the zoning ordinance. The Planning Commission cannot
+condition future approval of the site plan at concept on the City “working with people”. Mr. Allred
+explained that although Plan A is better, they cannot force the developer to pursue it because it is
+based on rights the City and the applicant do not control. He stressed that it is a permitted use site
+plan, not a conditional use.
+
+Chair Ricks read from the Code, which states that the zone is intended to ensure the compatibility
+of new development with the surrounding land uses. In this case, it is a road and adjacent
+residential development. Mr. Allred explained that it is a UDOT controlled road. Because the
+City does not control that right-of-way, they cannot force it to be in a better location. The City
+cannot deny the developer the right to use the access onto Highland which UDOT has approved,
+which is what the neighbors want now to prevent the hotel use. When the zoning was approved,
+it necessitated that the City use the ORD zone to minimize the impact on the neighborhood. He
+described how the ORD zone is being followed by the developers in this way.
+
+Troy Holbrook was confused because the Commission made a recommendation for the zone
+change to the City Council with the understanding that there was a Plan A and a Plan B. By
+recommending approval of the zone to the City Council, the issue that was conflicting with Plan
+A would hopefully be resolved. He felt like what happened was that the zone was addressed but
+the main issue was not and it is now again before the Commission. The developer wants Plan A
+but the City should help them move forward with Plan B to have additional leverage with Plan A.
+He was frustrated since he could not make sense of what is being requested.
+
+Mr. Allred clarified that the Commission has a site plan before them that complies with the City
+ordinance. The fact that everyone wanted Plan A in November was laudable; however, the City
+Council did not subject the rezone to Plan A. The intent was to get to Plan A but there has always
+been a problem with the neighborhood’s use rights and easement on the private road. Since there
+has been no agreement between the neighbors and the developer to move their access to the north,
+the applicant is stuck in the middle. He believed that the Planning Commission was feeling stuck
+because they want Plan A as does the staff and the developer. His opinion, based on what he has
+heard, was that the support that the neighbors once expressed for Plan A is not as solid as may
+have been represented tonight. Therefore, the developer still has the right to consider Plan B. He
+suggested the Commission move forward with approval of the preliminary site plan with
+conditions.
+
+Chris Layton saw no reason why the preliminary site plan was not compliant and should not be
+approved. Mr. Hobbs pointed out that the Planning Commission is given certain liberties by Code
+to effectuate certain changes to site plans. In studying the Code, he saw nothing related to the
+parking issue that could be addressed lawfully by the Commission.
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                  9
+City Attorney, Jayme Blakesley pointed out that UDOT approved the access before the City began
+considering the two options with the developer. He agreed that it would be potentially unlawful
+for the Planning Commission to deny approval of the plan based on lack of access or insufficient
+access where UDOT has already granted approval.
+
+Alyssa Lloyd was not confused by what is proposed and would have voted it for it regardless.
+While it is not the best plan, she was aware that they are voting on Plan B because the applicant is
+being held hostage by one individual. While unfortunate, what is proposed is a good use of the
+property. She suggested that the Commission focus on what is before them, which she considered
+to be a completely acceptable plan. Commissioner Lloyd was confident that Plan B is feasible and
+will be successful.
+
+Jan Bradshaw was confused and uncomfortable making a decision tonight. She suggested that the
+matter be continued in order to better understand what the residents want. She did not want to be
+forced to make a decision without having all of the facts.
+
+Commissioner Holbrook commented that since it is unlikely that they will get to Plan A, he wanted
+to focus on Plan B. He did not, however, like the idea of approving Plan B for leverage to get to
+Plan A. With regard to access to and from the site, all agreed that there is a better option.
+Mr. Lovell stated that they have every intention of moving forward with Plan B but while they
+prefer Plan A, they have no control over it. Procedural issues were discussed.
+
+Commissioner Bradshaw moved to continue the preliminary site plan approval for the Holladay
+Hotel, LLC to allow the Planning Commission to receive additional information from UDOT to
+better understand the approval and have the developer understand that he is abiding by the ORD
+zone with the sidewalk and safety and present one plan.
+
+Chair Ricks commented that tabling the matter will allow time to gather more information and
+study the proposal. The Commission Members should do their homework individually and have
+Mr. Lovell specify what each resident feels. The neighbors were invited to prepare a statement to
+help the Commission make a decision. Commissioner Layton contended that the neighbors’
+opinions do not matter at this stage. The matter is before them and they have already had a public
+hearing.
+
+Mr. Blakesley warned that it was his opinion that the Commission is on shaky legal ground to
+make this type of decision and state that it is based on the opinion of nearby residents or whether
+there is lawful access to the site under Plan B. He stated that Plan B is the only option currently
+before the Planning Commission. His understanding was that the Commission is obliged to review
+the proposal before them and accept or deny it based on compliance with the zoning ordinance.
+He did not think it was permissible to consider things that are beyond the scope of the zoning
+ordinance.
+
+Commissioner Bradshaw stated that the current request does not comply with the ordinance as
+there is no sidewalk. Mr. Allred stated that the Commission routinely approves projects based on
+resolving issues that may not meet Code. They can include a condition that a sidewalk be installed.
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                10
+The offset is not a Code problem as it can be offset in the wrong direction. It is not dangerous and
+can be resolved.
+
+Commissioner Bradshaw felt that the Commission was being forced to make a decision on
+something that a decision should not be made on. Mr. Allred stated that UDOT has approved the
+permit and granted approval. Mr. Blakesley did not consider it unlawful for the Commission to
+discuss with UDOT but cautioned them to be careful about the scope of the conversation and
+ensure that it does not interfere with something that is wholly within UDOT’s purview.
+
+Commissioner Bradshaw was seeking a better understanding. She felt that the plan was lacking
+access to Highland Drive from the private lane. She also was concerned about the lack of a
+sidewalk. She wanted to understand what is being requested.
+
+Mr. Allred explained that the UDOT approval cannot be used as a basis for denial. The City
+Attorney also cautioned the Commission against continuing the matter based on that.
+Mr. Blakesley reiterated his opinion that it would be unlawful for the Commission to make a
+decision based on whether they agree or disagree with the UDOT permit. Access to and from
+Highland Drive would not be a consideration the Commission can use. Commissioner Bradshaw
+did not disagree but wanted to better understand the proposal before making a decision.
+
+Mr. Allred stated that an outstanding plan has been submitted with every issue having been
+addressed. He was not sure the applicant is required to construct a sidewalk from the neighborhood
+to Highland Drive, however, the applicant has agreed to do it. Commissioner Lloyd also
+questioned whether information presented outside of a public hearing can be presented. Chair
+Ricks thought that delaying approval for further study was a reasonable request. Procedural issues
+were discussed.
+
+Mr. Blakesley was concerned that the motion to continue was based on an unlawful consideration
+that is beyond the scope of the decision before the Planning Commission. If the motion to continue
+is based on an unresolved issue that is properly within the scope of the decision being considered
+by the Planning Commission, it would not be a problem. He stated that it would be appropriate to
+ask the applicant about the impact of the continuance on their application before considering the
+motion.
+
+Mr. Lovell stated that they do not have time to pursue Plan A should the one resident give consent.
+Their intent is to move forward with Plan B in order to protect their interests. Commissioner
+Bradshaw was frustrated that the developer has been wishy-washy, which makes her uncertain
+how to vote. Commissioner Layton disagreed and felt the developer has been very clear that Plan
+B is being proposed. Mr. Lovell confirmed that they are moving forward with Plan B. Tabling
+the matter would impact their deadlines, which have already been significantly delayed. He noted
+that there are City and Marriott requirements to be met and they are currently behind schedule.
+Over the last nine months, they have done everything in their power to move forward.
+
+Commissioner Bradshaw withdrew her motion.
+
+The Commission took a short break.
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                11
+Commissioner Layton moved to approve the preliminary site plan for the Holladay Hotel, LLC
+Agent on property located at 6433 South Highland Drive subject to the following:
+
+Findings for Approval:
+      •       The use complies with the General Plan and the ORD zone.
+      •       The hotel complies with Development Agreement requirements as per City
+              Council for setback and building height and for the ORD zone.
+      •       The TRC finds very good overall compliance with requirements for Preliminary
+              Site Plan.
+      •       UDOT has previously approved ingress/egress at existing ingress/egress location
+              instead of relocating it to align with 6400 South as previously planned due to
+              opposition to its relocation by property owners on the private lane.
+      •       The Site Plan proposes:
+              o       30% landscaping with an abundance of new trees that will eventually
+                      provide a lush vegetative ambience for both the hotel and the nearby
+                      residents. No building, parking stall or lighting fixture will be located
+                      right against the property line next to neighbors. (See attached site plan).
+              o       A building with maximum height of building at 53’ for a small portion of
+                      the building and the rest at no more than 49 feet. The split of maximum
+                      height to the remainder of the roof line is 40% at 53’ and 60% at 49’.
+              o       An estimated number of rooms at 106 with corresponding parking stalls
+                      to comply with Code.
+              o       Minimal setbacks from Highland Drive and maximum distance of the
+                      building to abutting residential property to the east. (126 feet to nearest
+                      residential property line) The building has been placed on the site to
+                      minimize its visual and other impacts on the residential properties to the
+                      east and north.
+              o       Keeping the ingress/egress for the site at the present location and
+                      incorporating the hotel site plan around it.
+              o       The applicants have obtained a permit from UDOT to retain and improve
+                      the present location of the vehicular access.
+              o       The lighting plan complies with requirements to operate in a way that
+                      minimizes impact on abutting residential property by shutting off lights
+                      and dimming lights per code. (See overall light plan).
+              o       The previous plan to move the access to the north to align with 6400 South
+                      could be implemented if unanimous support from the easement holders is
+                      eventually obtained and UDOT approves the change in location. (An
+                      amended site plan would need to be evaluated by the Commission).
+              o       The building materials are high quality. (Please see attached building
+                      elevations/materials).
+              o       More complex items such as grading, utilities and drainage, landscaping
+                      and lighting have been amply addressed by the TRC and with a few
+                      clarifications and corrections are acceptable.
+              o       Staff will raise a few issues at the meeting for Commission discussion and
+                      for the applicant to respond to as listed below.
+
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                               12
+Conditions of Approval:
+       1.     A walkway shall be provided from the neighborhood through the landscaped area
+              on the northeast corner of the site to Highland Drive in cooperation with staff.
+
+       2.      The height of the wall on the east side that abuts the neighboring properties can
+               be up to eight feet in height at the neighbors’ discretion.
+
+       3.      The lights on the east side of the site next to the homes should be no greater than
+               23 feet.
+
+       4.      The City Engineer has requested that the developer dedicate a 15-foot wide
+               easement for the City’s drainage facility on their site.
+
+Items for Consideration:
+       1.     Speed bumps.
+       2.     Parking stalls that back into the main road.
+       3.     Continue to work with neighbors toward an agreement regarding the easement.
+
+Commissioner Bradshaw made a friendly amendment to ask the developer to look at the eight
+parking stalls to see if there is a possibility of moving them out of the roadway.
+
+Commissioner Holbrook made a friendly amendment to address the access road and the width
+of the opening for the street at Highland Drive.
+
+Mr. Allred explained that currently there is a 23½ wide right-of-way but there was some
+uncertainty as to whether the pavement is that wide and if it is wide enough based on the speed of
+the road to give motorists ample turning space in and out and ensure adequate safety. Mr. Lovell
+stated that the plans were designed by Benchmark Engineering and involve the same plans that
+were approved by UDOT.
+
+Mr. Allred suggested that speed humps be installed in front of the eight parking stalls in either
+direction to help slow traffic. Mr. Lovell questioned his legal authority to place a speed bump in
+the easement.
+
+Mr. Allred recommended that the light poles be lowered and that the 15-foot wide drainage
+easement that runs diagonally across the northwest corner of the site be dedicated to the Big
+Cottonwood Tanner Ditch.
+
+Commissioner Layton commented that the discussion had gone beyond what was included in his
+motion.
+
+Mr. Allred reported that it was also necessary to ensure compliance with the City Engineer’s
+requirements for storm drainage as well as the drainage easement across the City’s canal. The
+intent was also to lower the light poles to 23 feet on the east side. Mr. Allred recommended that
+they go to 23 feet for the light fixtures immediately abutting the two neighbors directly to the east
+of the hotel.
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                 13
+Wall height issues were discussed. Mr. Allred stated that the Code allows the City to require the
+wall to be eight feet in height but the disposition of the neighbors was unknown. Commissioner
+Layton wanted to ensure that there is continuity in terms of height rather than increase the height
+of the wall in one location. Mr. Allred clarified that he was suggesting that only the perimeter
+walls that are against the neighbors to the east be eight feet in height.
+
+Commissioner Layton accepted the friendly amendments. Commissioner Lloyd seconded the
+motion. Vote on motion: Chris Layton-Aye, Alyssa Lloyd-Aye, Jan Bradshaw-Aye, Troy
+Holbrook-Aye, Chair Marianne Ricks-Nay. The motion passed 4-to-1.
+
+3.      Schreyer Residential Site Plan – Extension Request – 2806 East Kentucky (R-1-10
+        Zone).
+Mr. Hobbs presented the staff report and stated that the Schreyers obtained a Special Exception
+Permit on July 16, 2019, that was valid for one year. The intent was to authorize the construction
+of a retaining wall system in the rear of their property. The applicants requested an extension to
+the permit making it valid through 2021. Staff had no objections and recommended approval.
+
+Commissioner Bradshaw moved to approve the Schreyer Residential Site Plan Extension at
+2806 East Kentucky in the R-1-10 zone for one year with the expiration to be July 16, 2021.
+Commissioner Layton seconded the motion. Vote on motion: Chris Layton-Aye, Troy
+Holbrook-Aye, Jan Bradshaw-Aye, Alyssa Lloyd-Aye and Chair Marianne Ricks-Aye. The
+motion passed unanimously.
+
+DISCUSSION ITEMS
+        a)    Presentation of Updated Text Amendments to Chapter 2: Land Use, City of
+              Holladay General Plan.
+Mr. Allred reported that tonight is likely the last opportunity Jim Carter will have to participate as
+a member of the Commission. He could, however, continue to work with staff on an ad hoc basis
+on the language he proposed. Mr. Allred needed more time before reporting back to the
+Commission. Input from the Commission between now and August 18 was welcomed. It was
+suggested that a public hearing be conducted at the first meeting in September. Chair Ricks
+suggested the matter be discussed in detail at the next meeting prior to the public hearing.
+Mr. Allred explained that the City has committed to address moderate-income housing by
+December 1 of each year. Updating Chapter 2 was one way to do that.
+
+         b)     Accessory Dwelling Unit Ordinance (“ADU”) for Upcoming.
+Mr. Allred reported that a draft of the ordinance was not yet available for review. The Commission
+had been waiting for feedback from the Council before moving forward. In the near future, the
+Council would have a substantive discussion about the future of the ADU ordinance. Previously,
+they felt that only one-half acre and larger lots should be eligible for accessory dwellings. There
+had been additional discussion based on an application received from a resident who wanted to
+amend the zoning ordinance. The resident recommended that the City allow any single-family
+zone of R-1-8 and larger be allowed to have an accessory dwelling if they have at least twice the
+minimum area of the zone.
+
+        c)     Planning Commission Calendar for November 10 – Moving Meeting Date to
+               the 24th.
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                                 14
+Due to Thanksgiving and Election Day, the determination was made to hold back to back Planning
+Commission meetings in November. Meetings were to be held on November 10 and 17.
+
+ADJOURN
+Commissioner Bradshaw moved to adjourn. The motion seconded by Commissioner Lloyd. The
+motion passed with the unanimous consent of the Commission.
+
+The Planning Commission Meeting adjourned at approximately 10:25 p.m.
+
+
+I hereby certify that the foregoing represents a true, accurate, and complete record of the City
+of Holladay Planning Commission Meeting held Tuesday, August 4, 2020.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+Minutes Approved: 10/20/2020
+
+
+
+
+City of Holladay Planning Commission Meeting – 08/04/2020
+
+                                               15
+

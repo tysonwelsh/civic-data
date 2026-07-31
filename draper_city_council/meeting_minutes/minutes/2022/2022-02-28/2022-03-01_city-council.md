@@ -1,0 +1,387 @@
+# City Council Meeting - AMENDED
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=558&doc_id=76d39326-a538-11ec-8a90-0050569183fa
+> Meeting date: 2022-03-01
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MARCH 1,
+2022, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha
+                    Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED:            Councilmember Cal Roberts
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+                    Challburg, Chief of Staff; Scott Cooley, City Engineer; John Eining,
+                    Police Chief; Bret Millburn, Assistant City Manager; Malena
+                    Murray, Human Resources Director; Rhett Ogden, Recreation
+                    Director; Laura Oscarson, City Recorder; Linda Peterson,
+                    Communications Director; Clint Smith, Fire Chief; Jake Sorensen,
+                    IT; Bob Wylie, Finance Director; Jennifer Jastremsky, Planning
+                    Manager, Maryann Pickering, planner; Travis DeJong, Business
+                    License Official
+_____________________________________________________________
+Study Session
+
+1.0    Presentation: Fire Department Annual Report - Chief Clint Smith
+
+1.1    Fire Chief Clint Smith gave a brief overview of the mission statement and the
+       core values of the department, which were to serve the community to the best
+       of their ability with integrity, teamwork, and communication. He indicated that
+       he had given out a flowchart that showed the organization of the command
+       staff, which he noted had not changed since last year. He briefly gave some
+       information about the heads of each of the platoons and discussed staffing
+       changes that had taken place in the last year, including some retirements and
+       new hires.
+
+1.2    Chief Smith then reviewed the most common emergencies that the
+       department had responded to in 2021. He said that overall, Draper residents
+       were fairly healthy, and there had not been a lot of heart attack cases that they
+       responded to. He said there were also overall low fire cases, which he
+       attributed to the fact that they were a newer city, and most of the buildings
+       were up to date with safety features and the Code. He said that they did have
+       a fairly high number of false alarm calls in 2021, and said that they were
+       working on how to mitigate those calls. He said that 91% of the calls had been
+
+
+Draper City Council Approved Minutes – March 15, 2022
+      run by them, servicing Draper City. He explained the remaining 9% of the calls
+      involved assistance from neighboring cities. He then showed that they had
+      tracked what days of the week were the busiest for them, and said that for the
+      last year, Friday evenings had been their busiest time. He also noted that they
+      had had about a 7% increase in call volume from 2020 to 2021, and noted that
+      figure corresponded with the overall growth of the City.
+
+1.3   Chief Smith reiterated that as a newer city, the overall risk of fire for them was
+      low, and he thought they had done a good job of educating businesses and
+      residents about how to reduce the risk of fire in buildings. He said that they
+      had submitted a grant application in 2020 and although they had been denied
+      that grant, the program had referred them to a state-run program for field
+      mitigation, which they had been working with for the last 16 months, and last
+      fall, they had received word that they had been approved for some grant
+      funds. He anticipated that the grant funds would arrive at some point that
+      week, and the funds would total about $500,000, dispersed over the next three
+      years. He was very excited about the possibilities of that grant. He then
+      mentioned that there would be a person coming in from out of state who
+      would be managing the field mitigation program. Councilmember T. Lowery
+      asked if there were sufficient access roads in the hill and fields surrounding
+      Draper, and suggested that they utilize some of the funds to add additional
+      fire access roads.
+
+1.4   Chief Smith moved on to fire prevention. He said that they had conducted 825
+      inspections over the last year, which was a substantial increase from years
+      prior. He said that the department was getting better at identifying where
+      dangerous chemicals and areas were in the City. Lastly, he touched on
+      emergency management and said that they had revamped their emergency
+      management organization. He said that the management team had quarterly
+      meetings, to ensure that all involved stayed up to date. He also noted that
+      they were specifically focused on public engagement, and finding ways to
+      broadcast emergency notices so that the public always had access to vital
+      information. Specifically, he said that they had focused on how and where
+      they would evacuate residents in the SunCrest area. He ended his
+      presentation by sharing photographs of the six most recent graduates from
+      their program, as well as their new mascot. He commented that while they
+      had many challenges ahead, he was proud of his department, and felt they
+      were ready to face the task of serving their growing city.
+
+
+
+                                                                            Page 2 of 10
+**    Councilmember Green arrived at the meeting at 6:13 p.m.
+
+2.0   Report: Semi-Annual City Deposit and Investment Report
+      Presentation of the Semi-Annual City Deposit and Investment
+      Report for December 31, 2021.
+
+2.1   Finance Director Bob Wylie stated that this report was required to be sent to
+      the state every six months, to update them on the state of their investment
+      funds. He spoke about their Utah Public Treasury Fund, which was where the
+      majority of their money was. He said that the interest rate on this fund was
+      currently very high. He asked if there were any questions.
+
+3.0   Discussion: Trucks on Traverse Ridge Road
+
+3.1   Engineering/Public Works Director Scott Cooley said that they received a lot of
+      complaints about speeding on Traverse Ridge Road. He said that there had
+      been many incidents on that road, including one fatal accident. He said that a
+      ramp had been proposed as a way of mitigating the risk, and the current speed
+      limit on the road was 25 miles per hour for trucks. He explained the process
+      that they used to determine what the speed limit of a road should be, and he
+      said that due to the steep curves and sharp turns on the road, the Public Works
+      department had decided that they could not increase the speed limit. He also
+      said that they would have more officers posted in the area, to better enforce
+      the speed limit. He recommended that they also update the signage that was
+      posted in the area, and include flashing “slow down” signs that reminded
+      drivers to obey the posted limit. He discussed that those signs were overall
+      effective for people who accidentally sped, but less so for drivers that willfully
+      exceeded the speed limit. He discussed that of the car accidents that had
+      taken place in the area, the majority of the crashes had been from the brakes
+      giving out on passenger cars, not trucks. He commented that the road was
+      dangerous, and they were lucky that it had only been one fatality so far.
+
+      Mr. Cooley proposed that they prohibit trucks with more than three axles from
+      using the steepest section of the road. He then discussed that the problem
+      with many of the crashes was due to driver error, and particularly the
+      problems came from truckers allowing their brakes to overheat, causing them
+      to fail. He said that the road was even a problem if trucks were well
+      maintained. He then opened it up to the Council to get their input as to what
+      the best solution might be. He pointed out that if they diverted the truck traffic
+
+                                                                            Page 3 of 10
+      to Suncrest Drive, they would likely get complaints from SunCrest residents,
+      although he did think it was an important safety issue. He also discussed that
+      there would be a cost involved to do this, and the development community
+      would likely give their input as well. He said that for now, they would post a
+      notice on the road that said, “no trucks on Traverse Ridge Road,” to start
+      mitigating the issue. He said that if they did choose to go with his
+      recommendation, it would require revising the Code, as well as additional
+      enforcement on the road. He asked if there were any questions, and asked if
+      the Council wanted to take a less aggressive approach to start.
+
+      Councilmember T. Lowery said that the public wanted something to be done,
+      and reported that she had been asked by residents what the City was doing to
+      resolve the issue. The consensus from the Council was that they would be
+      negligent if they did not act and that they could not risk another death.
+      Councilmember F. Lowry estimated that most large trucks or trailers would
+      prefer to take the SunCrest route anyway since it was easier on the vehicles.
+      The Council also discussed that it would be important to make sure that
+      vehicles were regularly inspected, even though vehicle inspections were not
+      required by Utah State law. Mr. Cooley noted that some of the accidents had
+      been intentional, where the trucker had chosen to crash his truck after the
+      brakes failed, rather than allow it to potentially run into other cars or people.
+      Councilmember Green suggested that they add information to the City
+      website to remind people to get their winter tires and brakes regularly
+      inspected, and he suggested other ways that they could send out reminders
+      to the public to make sure their vehicles were in good shape. The Council felt
+      that in light of the recent death, the climate was right for the change that Mr.
+      Cooley had proposed, and felt that it was an appropriate suggestion.
+
+4.0   Council/Manager Reports
+
+4.1   Councilmember F. Lowry reported that the Andy Ballard Arena was moving
+      forward with the Renaissance Festival for one day, on a Friday night. He
+      discussed that in the future, the Festival might be held for an entire weekend.
+      He also reported that Food Truck Nights would begin on May 16th, and they
+      would evaluate it over the summer. He said that they would pause it in July,
+      and then they would resume it in August, based on how it went over the
+      summer. He also said that they might invite some of the vendors from the
+      International Fair to join Food Truck Nights, and also potentially feature live
+      music on certain nights.
+
+                                                                           Page 4 of 10
+4.2   Mayor Walker discussed House Bill 462, which was a housing bill that had been
+      up for debate recently. He said that the proposed bill would take zoning
+      authority away from the cities, and put it in the hands of developers. He
+      reported that the bill had not evolved, so there was no bill on the floor now
+      that could take away their development authority. He said that their lobbying
+      team had worked hard to make sure it would not be passed. He said that the
+      State wanted to add housing to the area around the Frontrunner station, but
+      Draper could conduct traffic studies and evaluate the existing infrastructure
+      to determine where exactly the housing should go. He discussed that since
+      the area could handle more density, the State expected them to develop the
+      area further, although they had the prerogative over where it would go. Mayor
+      Walker estimated that that bill would pass either that evening or the next day.
+      He discussed that a public interest group was sending out a lot of
+      misinformation that was getting a lot of people worked up.
+
+      Mayor Walker also spoke about House Bill 440, regarding homeless services.
+      The bill would require cities that had a homeless center, which included
+      Draper, to increase their maximum capacity in times of extreme weather, cold,
+      or other crisis. He said that the capacity would have to increase to whatever
+      the maximum number of people could be allowed in the building, according
+      to the fire code. He said that if that did not solve the issue, then the Council
+      of Mayors would have to pick a city to handle the overflow. He added that part
+      of the bill stated that as people were sent to the overflow city, they could stay
+      in any State building, or even a storefront, which concerned him. He said that
+      the Council of Mayors had held a meeting to discuss the proposed bill, and
+      they had suggested that some percentage of the overflow could be sent to a
+      hotel or motel. He said that the facility would not have a say in the matter. He
+      also clarified that this would only be for the winter months, and there would
+      be no overflow provision in the summer. Mayor Walker thought that the motel
+      solution would be better, and said he was curious to see how the bill evolved.
+      He commented that a couple of Facebook groups were claiming that a
+      homeless shelter was coming to Draper City, which was incorrect, and he said
+      that they needed to monitor the bill as it evolved. He summarized that they
+      could live with House Bill 462, and they needed to keep an eye on the evolution
+      of House Bill 440.
+
+      Councilmember T. Lowery pointed out that they also needed to differentiate
+      between people who were in the shelters so that they could get treatment,
+
+                                                                           Page 5 of 10
+      versus the people that were just in the shelter for the night so they did not
+      freeze overnight. She commented that those populations were different, and
+      needed to be handled differently.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+
+
+2.1   Pastor Ron Williams offered the prayer. Jake Sorensen led the Pledge of
+      Allegiance.
+
+3.0   Recognition: Samantha Pickering - National Youth Delegate to the 2022
+      Washington Youth Summit
+
+3.1   Mayor Walker recognized Samantha Pickering, who is a sophomore at Juan
+      Diego Catholic High School. He stated that she had been selected as the
+      National Youth Delegate to participate in the 2022 Washington Youth Summit
+      on the environment. He listed some of her academic accomplishments and
+      extended his congratulations on her selection as a delegate.
+
+4.0   Public Comments
+
+4.1   Tamara Walkenhort expressed her desire to preserve a part of the State prison
+      at Point Project. She said that their state history was varied and mostly
+      focused on the history of the Latter-Day Saints. She thought that the
+      preservation of the prison would be an appropriate counterbalance to the
+      emphasis on LDS history. She wanted to see a part of the prison, particularly
+      a block of cells as well as the administrative buildings, preserved as a museum
+      and interactive display.        She noted that many Draper residents had
+      volunteered and worked at the facility over the years, which made it a part of
+      Draper's history. She felt that a museum would help bring in tourism to the
+      City as well, and imagined schoolchildren touring the prison buildings. She
+      thanked the Council for their time.
+
+5.0   Consent Items
+      a. Approval of February 15, 2022, City Council Meeting Minutes.
+
+                                                                         Page 6 of 10
+      b. Approval of Resolution #22-11, a resolution authorizing the Mayor of the
+         City of Draper to appoint Fred Aegerter as Community Development
+         Director for Draper City.
+
+5.1   Councilmember Vawdrey moved to approve                 the   Consent   Items.
+      Councilmember T. Lowery seconded the motion.
+
+5.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Action Item: Ordinance #1527, an Ordinance of Draper City Council amending
+      Chapter 6-4 of the Draper City Municipal Code pertaining to Alcoholic
+      Beverages Licenses - Reception Center Licenses and Single Event Permits.
+
+6.1   City Attorney Mike Barker explained the reasoning behind the amendments
+      and said that while their Code defined the reception center, they did not have
+      an actual license to go along with the definition. He said that the amendment
+      would create a license that would allow for the sale, storage, and consumption
+      of alcoholic beverages in the reception center. He also proposed that some
+      language be stricken from their single event permits, to follow State law. He
+      said that the changes would make the wording in the permits clearer and
+      easier to understand.
+
+6.2   Councilmember F. Lowry moved to approve                   Ordinance    #1527.
+      Councilmember Vawdrey seconded the motion.
+
+6.3   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Providing Local Consent for a Reception Center Alcohol License
+      for Siempre, LLC
+
+7.1   Business License Official Travis DeJong explained this would provide an
+      alcohol license for a reception center, and he said that there was a provision
+      in their Code that required the entrance to a reception center to be at least
+      600 feet away from the nearest storefront, park, or other community location.
+      He indicated on the map where the entrance to the reception center was and
+      noted that per the Code, there was no limit on the number of Local Consents
+      that could be given out by the City.
+
+                                                                        Page 7 of 10
+7.2   Mayor Walker opened the public hearing. No one came forward so Mayor
+      Walker closed the public hearing.
+
+7.3   Councilmember F. Lowry moved to approve                the   Local   Consent.
+      Councilmember T. Lowery seconded the motion.
+
+7.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Public Hearing: Ordinance #1528 and #1529 (Legislative Action), an Ordinance
+       amending the Official Zoning Map of Draper City for approximately 2.7 acres
+       of property from RA1 (Residential Agricultural, 40,000 square foot lot
+       minimum) to CC (Community Commercial) and an Ordinance amending the
+       Official Land Use Map of Draper City for approximately 1.9 acres of property
+       from Residential Low/Medium Density to Neighborhood Commercial, located
+       approximately at 681 West 12300 South within Draper City, otherwise known
+       as the Draper Galena Park Office Zoning and Land Use Map Amendment
+
+8.1   Planning Manager Jennifer Jastremsky stated that the properties in question
+      were currently split, so some were in residential low density, and some were
+      in neighborhood commercial. She explained that the proposed change would
+      put all the properties within the neighborhood commercial, and also put them
+      all into the same zone. She said that the Planning Commission had
+      recommended approval, shared photographs of the homes in question, and
+      indicated their location on the map. She noted that all of the properties had
+      homes on them, many of which predated the City.
+
+8.2   Ryan Simmons with the Boyer Company expressed his appreciation for the
+      landowners for working with them and explained that there was a three-story
+      owner/user office that wanted to come into the City. He said that he wanted
+      to see the rezone happen so that the business could move into Draper.
+
+8.3   Mayor Walker opened the public hearing. No one came forward so Mayor
+      Walker closed the public hearing.
+
+8.4   Councilmember T. Lowery moved to approve Ordinance #1528 and #1529.
+      Councilmember Vawdrey seconded the motion.
+
+
+
+                                                                       Page 8 of 10
+       Councilmember T. Lowery remarked that this would be a good use of the land.
+       Mayor Walker thought that the business was phenomenal, and agreed that it
+       would be an asset to the City to have them in Draper.
+
+8.5    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0    Public Hearing: Ordinance #1526 (Legislative Action), an Ordinance amending
+       the Official Zoning Map of Draper City for approximately 2.85 acres of property
+       from CR (Regional Commercial) to CG (General Commercial) located at
+       approximately 12674 S. Pony Express Road, within Draper City, otherwise
+       known as the Airborne-Alcatraz Zoning Map Amendment.
+
+9.1    Planner Maryann Pickering stated that the property was currently zoned CR,
+       and the land use designation was community commercial. She shared aerial
+       photographs of the property and explained that the applicant wanted to
+       change the zone to CG so that if the current tenants ever left, the building
+       would be more marketable. She said that the Planning Commission had
+       recommended approval, and there would be no change or development that
+       would take place if the change was approved.
+
+9.2    The applicant elaborated that this was future planning, and there was no intent
+       for Airborne or Alcatraz to leave. He viewed this as a retail flex for down the
+       road if the current tenants ever chose to leave or downsize.
+
+9.3    Mayor Walker opened the public hearing. No one came forward so Mayor
+       Walker closed the public hearing.
+
+9.4    Councilmember Vawdrey moved to approve                    Ordinance     #1526.
+       Councilmember F. Lowry seconded the motion.
+
+9.5    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Adjournment
+
+10.1   Councilmember Green moved to adjourn the meeting, which was then
+       seconded.
+
+
+
+                                                                          Page 9 of 10
+10.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.3   The meeting adjourned at 7:31 p.m.
+
+
+
+
+                                                                   Page 10 of 10
+

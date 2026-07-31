@@ -1,0 +1,3 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+1317,5809,Emigration Canyon Council,yes,meeting_minutes,,pm4,2018-10-01,"data floor 2017, but pre-2018-10 minutes are PMN-purged/404 (boundary file-id ~450000) -> floor 2018-10-01 (recovered coverage from 2018-10-25); no city CMS - PMN is canonical; use the &page=N notices form (bare ?id= 500s); fetch from www.utah.gov/pmn/files/"
+1317,1562,Emigration Canyon Planning Commission,yes,planning_commission,,pm4,2018-11-01,"recovered coverage from 2018-11-15; 14 purged 2017 PC dates (several were CANCELLED - no minutes ever existed); complete superset (1 late-posted 2025-11-13 recovery, promoted); the MSD AgendaCenter 'mirror' recon claim is a TRAP - it holds 0 EC minutes"

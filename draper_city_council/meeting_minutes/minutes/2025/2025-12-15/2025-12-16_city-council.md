@@ -1,0 +1,529 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1991&doc_id=00fa68d1-ec0a-11f0-bb28-005056a89546
+> Meeting date: 2025-12-16
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+DECEMBER 16, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:       Mayor Troy K. Walker, and Councilmembers Bryn Heather Johnson,
+               Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED: Councilmember Mike Green
+STAFF:         Mike Barker, City Manager; Rich Ferguson, Chief of Police; Traci
+               Gundersen, City Attorney; Jennifer Jastremsky, Community
+               Development Director; Robert Markle, Public Works Deputy Director
+               and Engineer; Rhett Ogden, Parks and Recreation Director; Derek Orth,
+               Human Resource Director; Linda Peterson, Communications Director;
+               Nicole Smedley, City Recorder; Clint Smith, Fire Chief; Jake Sorensen,
+               Network Manager; and John Vuyk, Finance Director
+______________________________________________________________________
+
+Study Session
+
+Closed Meeting
+The council did not convene in a closed meeting.
+
+Discussion: City Newsletter Survey Results
+Alex Getts, Senior Communications Specialist, presented the results of a Council-
+requested survey regarding the city newsletter. He reported that the cost of
+producing and distributing the newsletter had increased significantly in recent years
+and was expected to continue increasing. He stated that the survey was included in
+the most recent newsletter issue and that more than 70% of respondents supported
+the concept of a primarily online newsletter. He reported that staff’s primary concern
+with an online-only format was accessibility for residents unable to use digital
+platforms. He recommended maintaining a limited number of printed copies at
+designated locations and stated that Meals on Wheels volunteers had indicated a
+willingness to deliver printed copies to homebound residents. He reported that a
+print run of 500 copies would cost approximately $5,358 annually.
+
+The Council and staff discussed potential locations where printed copies of the
+newsletter could be made available, including the library and senior center. In
+response to a question from Councilmember F. Lowry, staff stated that the current
+annual cost to produce and mail the six-issue newsletter was approximately $55,000.
+
+                                                                            1|Page
+        Draper City Council Approved Meeting Minutes – January 6, 2026
+Councilmember T. Lowery stated that the city had become effective at
+communicating with residents and noted that eliminating the mailed newsletter
+would remove one communication modality. Councilmembers T. Lowery and F.
+Lowry stated that they were personally more likely to read the newsletter in printed
+form. Councilmember T. Lowery stated that she knew of residents who did read the
+newsletter in its current format. Councilmember F. Lowry suggested including a
+summary or outline of the newsletter in the utility bill, with a link directing residents
+to the full digital version.
+
+Councilmember F. Lowry suggested reducing the number of mailed newsletters from
+six to four per year. Staff stated that reducing the number of issues could create
+challenges in keeping information timely and noted that producing six issues allowed
+the Mayor and each Councilmember an opportunity to share a message with
+residents annually.
+
+Councilmembers Vawdrey, T. Lowery, and F. Lowry expressed support for
+maintaining the current newsletter format. Councilmember Johnson expressed
+support for a hybrid approach.
+
+Discussion: Timoney Road Sidewalks and Trees
+Public Works Deputy Director and Engineer Robert Markle explained that, as part of
+the Safe Sidewalk Program, staff marks trees that cause damage to sidewalks and
+require removal. He stated that during this process, staff identified a neighborhood
+with a high number of qualifying trees and that removing them would significantly
+alter the neighborhood’s appearance and character. He reported that staff proposed
+a process under which property owners would be given two options: removal by the
+City at the City’s expense, or acceptance of a city waiver of liability. He stated that
+under the waiver option, the property owner could retain the tree but would assume
+all associated risk, and the risk agreement would be recorded with the property. Mr.
+Markle said staff would bring back a proposed policy for consideration in January.
+
+Report: New Positions
+Parks and Recreation Director Rhett Ogden thanked the Council for approving a new
+trails and open space position. City Manager Mike Barker reported that the new
+Custodial Supervisor position had been successful.
+
+Council/Manager Reports
+
+
+
+
+                                                                               2|Page
+City Committees and Staff Communication
+
+Councilmember Johnson stated that she had met with the Chair and Vice Chair of
+the Tree Committee regarding concerns related to communication with staff. She
+suggested scheduling a future Council discussion focused on City committees and
+their relationship with staff.
+
+Combining the Special Events Arena Committee and Community Engagement
+Committees
+
+Councilmember F. Lowry stated that he did not believe current members of the
+Special Events Committee or the Community Engagement Committee would object
+to combining the two committees, but noted that the eleven-member limit could
+create complications. Councilmember Johnson suggested that interested members
+of both committees reapply so the Council could determine how many wished to
+continue serving.
+
+Proposed Development Near Riverton City Border
+
+Mayor Walker presented a map of Draper along the border with Riverton City and
+stated that Salt Lake County had proposed developing property for first-time
+homebuyer housing. He reported that the County was interested in discussing with
+the City Council what types of development Draper would prefer to see. The Council
+discussed the subject area and potential access considerations. Community
+Development Director Jen Jastremsky stated that development would be challenging
+due to existing wetlands and wildlife. Councilmembers T. Lowery and F. Lowry
+commented on the high-water levels and expressed a preference for the land to
+remain open space. Mayor Walker stated that he would communicate the Council’s
+concerns and preferences to County representatives.
+
+Business Session
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Pledge of Allegiance led by Fire Chief Smith
+
+3.    Recognition: Police Department Christmas Card Finalists
+      Chief Ferguson recognized finalists in the 2025 Police Department Christmas
+      Card competition: Rayna Hall, 3rd Place Winner; Liam Cook, 2nd Place Winner;
+      and Zuri Jensen, 1st Place Winner.
+
+                                                                         3|Page
+4.    Public Comments
+      Ronald Smith, a Draper resident, stated that he had submitted a petition to
+      the Council signed by 36 Parkstone residents requesting reconsideration of
+      garbage hauling rates for their street. He stated that Parkstone residents were
+      age 55 and older, with many living on fixed incomes. He reported that he had
+      spoken with a representative from Ace, who indicated that there were no
+      conditions on Parkstone that created issues for garbage collection.
+
+      Vivian Gubler, a Draper resident, expressed concern regarding the increase in
+      garbage collection rates for Parkstone residents. She stated that Parkstone
+      residents had historically paid the same garbage collection rates as other
+      Draper residents. She acknowledged that some private roads in Draper
+      presented challenges for garbage collection, but stated that Parkstone was not
+      among them. She stated that she felt her street had been singled out and
+      requested that Parkstone be treated the same as other streets and continue
+      to receive the same level of service it had previously received.
+
+5.    Consent Items
+5.a   Approve the December 02, 2025 City Council Meeting Minutes
+5.b   Approve Resolution #25-76 adopting a Data Privacy Policy
+5.c   Approve Resolution #25-77 reappointing David Hales and Jordan Putnam
+      as members of the Draper City Historic Preservation Commission
+5.d   Approve Resolution #25-78 reappointing John Maack as a member of the
+      Draper City Parks, Trails, and Recreation Committee
+5.e   Approve Resolution #25-79 establishing the regular meeting schedule for
+      the City Council, Planning Commission, subordinate bodies, and
+      committees for the year 2026
+5.f   Approve Resolution #25-80 approving City Council Assignments for 2026
+5.g   Approve Resolution #25-81electing Bryn Heather Johnson to serve as the
+      Mayor Pro Tempore for the year 2026
+
+      Councilmember Vawdrey moved to approve the Consent Agenda.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                         Excused
+      Councilmember Johnson             X
+
+                                                                           4|Page
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+6.    Items for Council Consideration
+6.a   Public Hearing: Ordinances #1688 and #1689 amending the Official Land
+      Use Map and amending the Official Zoning Map of Draper City for
+      approximately 17.88 acres of property located at approximately 13782 S.
+      300 E, known as the Bangerter Crossroads Land Use Map and Zoning Map
+      Amendments
+      Planning Manager Todd Draper stated that the current land use map showed
+      portions of the subject property designated as Medium Residential Density,
+      Low-Medium Residential Density, and Office Service. He stated that the
+      existing zoning for the entire area was RA-1. He explained that the request was
+      to amend the zoning and land use designation to Regional Commercial (CR).
+
+      Mr. Draper stated that the Planning Commission had reviewed the request
+      and forwarded a negative recommendation, with a suggestion that any
+      approval include a development agreement addressing potential building
+      height, landscape buffers, and street improvements. He reported that staff
+      prepared a proposed ordinance that included a delayed timeline for
+      effectiveness, as follows:
+      • Application for a development agreement no later than December 29, 2025
+      • A fully executed and recorded development agreement on or before May
+         7, 2026
+      • The ordinance would become null and void on May 8, 2026, if the
+         development agreement was not recorded by May 7, 2026
+
+      Dwayne Rasmussen, representing Tom Lloyd, the property owner, stated that
+      State Road funds had been secured for construction of off-site improvements.
+      He presented an improvement summary from a traffic study for the 13700
+      South Bangerter Parkway Shopping Center. He stated that he hoped the
+      Council would approve the requests conditioned upon a development
+      agreement and referenced elements that would need to be addressed within
+      a development agreement.
+
+      Mayor Walked opened the public hearing.
+
+
+
+
+                                                                           5|Page
+Rosemary Thomas, Draper resident, stated that she lived east of the proposed
+development and was not opposed to growth, but felt the proposal did not
+align with the existing development pattern in the surrounding area. She
+stated that 300 East had become an increasingly busy residential street and
+that adding access from the proposed development would exacerbate existing
+issues. She expressed concerns related to safety and neighborhood livability
+and stated that if commercial development were approved, the berm and
+buffer should be substantial, permanent, and enforceable. She requested that
+the Council not consider granting development access to 300 East, either now
+or in the future.
+
+Christina Kesler Day, Draper resident, stated that she had lived near 300 East
+for many years and recalled when the area was largely undeveloped. She
+stated that she built her home in the neighborhood with the understanding
+that the property across 300 East was zoned for residential use and that she
+had consistently advocated for it to remain zoned for housing. She stated that
+she believed the City had a responsibility to uphold prior representations
+regarding zoning and noted that past Council members had supported
+neighborhood residents. She stated that ingress and egress onto 300 East
+would not be compatible with the neighborhood and asserted that the
+property owner was aware of the residential zoning at the time of purchase.
+She expressed concern that approving such access would negatively impact
+residents and the neighborhood.
+
+Gus Bernardo, Draper resident, said his property bordered the property in
+question. He said he agreed with concerns expressed by Ms. Day and Ms.
+Thomas, and said he wrote a letter to the Council and Mayor about his
+concerns. Mr. Bernardo asked the Council to consider the concerns expressed.
+
+Robbie Stagg, Draper resident, said his property backed up to the subject
+property. He said his biggest concern was for potential increase in traffic with
+the proposed development, and concern for safety. Mr. Stagg emphasized that
+drivers did not pay attention to pedestrians in the 300 East intersection. He
+requested protection from light pollution for neighboring residents.
+
+Matthew Smith, Draper resident, said he was not generally opposed to
+expansion across Bangerter Highway. He asked that the Council not approve
+the subject proposal for three reasons: (1) expanding commercial zoning all
+
+                                                                      6|Page
+the way to 300 East would permanently damage the character of surrounding
+neighborhoods; (2) many nearby residents were strongly opposed to any
+commercial property access on 300 East; and (3) approving the proposal
+without a development agreement and updated traffic study would be
+premature. He said the 2022 traffic study and 2023 update were outdated,
+and were based on a smaller development footprint than shown on the
+current proposal.
+
+Robert James, Draper resident, said he lived in the Rockwell Condo Unit near
+the subject property. He said traffic in the area was often worse than had been
+indicated. Mr. James said the traffic measures suggested by the developer
+would not work. He suggested the property should be developed for
+residential, not business use.
+
+Brandon Thomas, Draper resident, requested that the Council defer their vote
+until a development agreement was complete. He recommended the Council
+accept the recommendation of the Planning Commission. He said he agreed
+the traffic study was outdated.
+
+Joshua Hoggard, Draper resident, said he owned a civil engineering firm and
+had looked over the proposed plans. He said it was his professional opinion
+that proposed improvements at 300 East and 13800 South were not sufficient
+for traffic. Mr. Hoggard said he concurred with other public comments. He said
+he was unable to find related improvement plans on the UDOT website, and
+suggested the Council hold off on making a decision.
+
+Carolyn Phippen, a Draper resident, stated that the roads in the area were not
+capable of accommodating the level of traffic necessary for the proposed
+development to be economically viable. She stated that the City should not
+disregard prior plans and commitments made to residents who purchased
+their homes with the expectation that the surrounding property would be
+developed for residential use. She stated that there was no appropriate way
+to transition the area to the high-density commercial development being
+requested and asked the Council to ensure that access to the development
+from 300 East be prohibited.
+
+Mayor Walker closed the public hearing.
+
+
+
+
+                                                                     7|Page
+Mr. Rasmussen stated that the levels of service presented in the traffic study
+were measured during peak-hour traffic and reflected a worst-case scenario.
+He reported that the traffic study updates were dated October and December
+2025.
+
+Councilmember Johnson asked whether the reported levels of service
+incorporated the December 2025 update, and Mr. Rasmussen responded that
+they did. Councilmember Johnson stated that she had driven through the
+13800 South and Bangerter intersection earlier that evening and, based on
+personal observation, believed the level of service more closely aligned with
+an “E” rather than the reported “D.” Councilmember Johnson asked whether
+traffic conditions on Bangerter beyond the freeway had been addressed with
+UDOT.
+
+Councilmember F. Lowery referred to the projected level of service for the
+13800 South Bangerter Parkway Shopping Center with proposed
+improvements and asked whether any additional measures could be taken to
+improve the rating from a “D” to a “C,” rather than returning to a “D” by 2040.
+Mr. Rasmussen stated that he did not believe further improvements were
+feasible. He reported that a level of service rating of “D” was generally
+considered acceptable for traffic conditions. Mr. Rasmussen further stated
+that the projected “D” rating for 2040 accounted for the proposed
+development as well as anticipated population growth throughout Draper.
+
+Councilmember F. Lowry asked staff about public comments indicating that
+proposed improvements were not reflected on the UDOT website. Staff
+responded that the improvements were not located on UDOT roadways and,
+therefore, would not appear on the UDOT website. Mr. Rasmussen
+emphasized that the proposed access on 300 East would be limited to right-
+in, right-out movements only. He stated that the development team would
+make efforts to address concerns through the development agreement and
+indicated a willingness to meet with residents to discuss potential options.
+
+Responding to a question from Councilmember T. Lowery, Ms. Jastremsky
+stated that the proposed ordinance required the application for a
+development agreement to be submitted by December 29, 2025, allowing time
+to work on the document prior to anticipated adoption in May.
+
+                                                                     8|Page
+      Councilmember F. Lowry emphasized that the Council would not approve a
+      development agreement if it contained provisions to which the Council did not
+      agree.
+
+      Councilmember F. Lowry stated that the subject property had been under
+      discussion since he first joined the Council, with multiple development
+      proposals previously considered and denied, including high-density
+      residential and commercial development options.
+
+
+      Councilmember Vawdrey moved to approve Ordinances #1688 and
+      #1689. Councilmember T. Lowery seconded the motion.
+
+      Councilmember Vawdrey stated that she believed the Planning Commission
+      was correct in recommending a development agreement in conjunction with
+      the zone change to ensure that agreed-upon conditions were addressed. She
+      stated that it was the Council’s responsibility to consider what best served the
+      City as a whole. Councilmember Johnson stated that she agreed with the
+      comments regarding the importance of obtaining a development agreement
+      and working collaboratively with neighboring residents. Councilmember T.
+      Lowery stated that she appreciated staff’s approach in presenting the
+      proposal as a tentative project contingent upon approval of a development
+      agreement. Councilmember F. Lowry thanked the residents for providing their
+      input and suggestions.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                         Excused
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+6.b   Public Hearing: Ordinances #1690 and #1691 amending the Official Land
+      Use Map and amending the official Zoning Map of Draper City for
+      approximately 1.44 acres of property located at approximately 231 E.
+      13800 S, known as the Openshaw Draper 138 Land Use Map and Zoning
+      Map Amendments
+
+
+                                                                            9|Page
+Planner Todd Draper presented the subject property located at the corner of
+13800 South and Bangerter Highway using an aerial map. He explained the
+proposal to amend the land use designation from Community Commercial to
+Regional Commercial and to rezone the property from RA-1 Residential and
+Office Residential to the Regional Commercial (CR) Zone. Mr. Draper reviewed
+the permitted and conditional uses within the CR Zone and presented site
+photographs. He reported that the Planning Commission had reviewed the
+application and forwarded a unanimous negative recommendation for both
+the Land Use Map and Zoning Map amendments, citing concerns that a
+development agreement should be included to address potential building
+height, landscape buffering, and street improvements.
+
+Mr. Draper stated that staff prepared a proposed ordinance providing for
+delayed enactment, which required an application for a development
+agreement to be submitted no later than December 29, 2025, and a fully
+executed and recorded development agreement to be completed on or before
+May 7, 2026. He stated that the ordinance would become null and void on May
+8, 2026, if the development agreement was not recorded by May 7.
+
+Councilmember Johnson asked about cross-access easements required in the
+proposed ordinance. Mr. Draper said there was limited opportunity to access
+the individual properties from 13800 South or Bangerter Highway, and shared
+access would facilitate traffic flow. He said the subject area would most likely
+need access to the adjoining proposed development (previous agenda item).
+Mr. Draper said the City would receive a portion of the subject property as part
+of the development agreement for planned improvements on 13800 South.
+
+Steve Lovell, counsel for the applicant, said his client was willing to donate the
+right-of-way to make the project and traffic work. Mr. Lovell said his
+impression during the Planning Commission meeting had been positive, with
+the Planning Commission seeming to be in favor of commercial development
+on the property. He said it was his perception that the last-minute pivot of the
+Planning Commission had been because of the possibility that approving the
+subject zone change application would make it easier for the neighboring
+larger development they did not want to be approved. Mr. Lovell said his client
+was willing to enter a development agreement, but pointed out that the need
+for the neighboring proposed development in terms of residential buffer was
+different from those of the subject development.
+
+
+
+                                                                       10 | P a g e
+Councilmember Johnson asked Mr. Lovell about the cross-access easements.
+Mr. Lovell said the two applicants presenting development agreements in the
+same time frame would allow the Council to help guide access and traffic flow.
+He emphasized the two projects would have different challenges, and said he
+wanted to make sure the development agreement for the subject project did
+not mirror development agreement requirements for the larger neighboring
+project.
+
+Mayor Walker opened the public hearing.
+
+Christina Kesler Day, Draper resident, acknowledged that the subject project
+would need access to 13800 South, but commented that another access would
+add to existing traffic issues. She said the Planning Commission was savvy in
+recognizing a connectivity issue. Ms. Day said she had nothing against the
+owner of the subject property, and said she did not want to thwart what they
+were trying to do, but emphasized there was a connectivity issue with Mr.
+Lloyd’s property. She said she hoped the Council would take the traffic issues
+into consideration.
+
+Kayla Kesler, Draper resident, said the home in which she lived was the only
+home that had to get in and out on 13800 South at the subject location. She
+expressed concern with the proposed location of the access point next to the
+residential property. Ms. Kesler expressed concern for safety of kids in the
+area with worsening traffic.
+
+Robbie Stagg, a Draper resident, stated that whichever of the two projects
+was constructed first would be responsible for building the access, which
+would then be shared. They emphasized that the proposed access would
+further back up traffic on 300 East.
+
+Matthew Smith, Draper resident, said he agreed with comments about access
+to 300 East. He stated the subject project and the previous agenda item would
+absolutely be linked, and shared access should be considered.
+
+Mayor walker closed the public hearing.
+
+Councilmember F. Lowry moved to approve Ordinances #1690 and #1691.
+Councilmember Johnson seconded the motion.
+
+
+                                                                    11 | P a g e
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                         Excused
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+6.c   Public Hearing: Ordinance #1696 amending the text of Titles 9, 10, 17, and
+      18 of the Draper City Municipal Code related to the Geologic Hazards
+      Ordinance known as the City Initiated Geologic Hazards Ordinance Text
+      Amendment
+      Planner Todd Taylor presented proposed amendments to the Geologic
+      Hazards Ordinance intended to improve clarity for applicants and incorporate
+      best engineering practices. He reported that the Planning Commission had
+      reviewed the proposed amendments and forwarded a positive
+      recommendation to the Council.
+
+      Mayor Walker opened the public hearing and, seeing no one come forward to
+      provide comment, closed the public hearing.
+
+      Councilmember T. Lowery moved to approve Ordinance #1696.
+      Councilmember Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                         Excused
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+7.    Action Items
+7.a   Approve Resolution #25-74 adopting the Geotechnical Engineering
+      Standards for Draper City
+7.b   Approve Resolution #25-75 expressing Draper City’s intent to adjust its
+      common municipal boundaries with Highland City affecting parcels
+      11:017:0157 and 35:544:0050 authorizing and scheduling a public hearing
+      and providing for notice thereof
+
+                                                                        12 | P a g e
+7.c   Approve Ordinance #1695 establishing the Wildland Interface Area
+
+      Councilmember T. Lowery moved to approve Resolution #25-74,
+      Resolution #25-75, and Ordinance #1695. Councilmember Vawdrey
+      seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green                         Excused
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+8.    Adjournment
+      Mayor Walker acknowledged that the meeting marked Councilmember
+      Vawdrey’s final meeting as a member of the City Council and expressed
+      appreciation for her years of service to Draper City. The Council paused for
+      photographs.
+
+      Councilmember Vawdrey moved to adjourn the meeting.
+      Councilmember Johnson seconded the motion, which passed by
+      unanimous vote.
+
+      The meeting adjourned at 8:47 pm.
+
+
+
+
+                                                                        13 | P a g e
+

@@ -1,0 +1,32 @@
+referral_id,primary_application_id,primary_body,related_application_id,related_body,match_method,confidence,shared_address,subject_score,primary_date,related_date,gap_days,note
+1,29,Council,512,PlanningCommission,subject,low,,1.0,2020-05-05,2021-03-24,-323,
+2,29,Council,556,PlanningCommission,subject,low,,1.0,2020-05-05,2025-01-15,-1716,
+3,29,Council,560,PlanningCommission,subject,low,,1.0,2020-05-05,2025-09-10,-1954,
+4,97,Council,504,PlanningCommission,override,high,,,2021-03-23,2020-05-27,,exact shared case number PUD-1-2020 (Council action <- PC recommendation)
+5,97,Council,556,PlanningCommission,subject,low,,1.0,2021-03-23,2025-01-15,-1394,
+6,97,Council,560,PlanningCommission,subject,low,,1.0,2021-03-23,2025-09-10,-1632,
+7,191,Council,520,PlanningCommission,override,high,,,2021-12-07,2021-08-11,,exact shared case number GPZ-14-2021 (Council action <- PC recommendation)
+8,196,Council,524,PlanningCommission,override,high,,,2021-12-14,2021-10-27,,exact shared case number PUD-6-2021 (Council action <- PC recommendation)
+9,196,Council,556,PlanningCommission,subject,low,,1.0,2021-12-14,2025-01-15,-1128,
+10,196,Council,560,PlanningCommission,subject,low,,1.0,2021-12-14,2025-09-10,-1366,
+11,201,Council,521,PlanningCommission,override,high,,,2022-01-11,2021-08-25,,exact shared case number PUD-4-2021 (Council action <- PC recommendation)
+12,201,Council,556,PlanningCommission,subject,low,,1.0,2022-01-11,2025-01-15,-1100,
+13,201,Council,560,PlanningCommission,subject,low,,1.0,2022-01-11,2025-09-10,-1338,
+14,203,Council,517,PlanningCommission,override,high,,,2022-02-01,2021-06-23,,exact shared case number PUD-2-2021 (Council action <- PC recommendation)
+15,203,Council,523,PlanningCommission,override,high,,,2022-02-01,2021-10-27,,exact shared case number PUD-2-2021 (Council action <- PC recommendation)
+16,203,Council,556,PlanningCommission,subject,low,,1.0,2022-02-01,2025-01-15,-1079,
+17,203,Council,560,PlanningCommission,subject,low,,1.0,2022-02-01,2025-09-10,-1317,
+18,264,Council,512,PlanningCommission,subject,low,,1.0,2022-11-01,2021-03-24,587,
+19,264,Council,531,PlanningCommission,override,high,,,2022-11-01,2022-02-23,,exact shared case number PUD-3-2022 (Council action <- PC recommendation)
+20,264,Council,556,PlanningCommission,subject,low,,1.0,2022-11-01,2025-01-15,-806,
+21,264,Council,560,PlanningCommission,subject,low,,1.0,2022-11-01,2025-09-10,-1044,
+22,274,Council,512,PlanningCommission,subject,low,,1.0,2022-12-13,2021-03-24,629,
+23,274,Council,530,PlanningCommission,override,high,,,2022-12-13,2022-02-23,,exact shared case number PUD-2-2022 (Council action <- PC recommendation)
+24,274,Council,556,PlanningCommission,subject,low,,1.0,2022-12-13,2025-01-15,-764,
+25,274,Council,560,PlanningCommission,subject,low,,1.0,2022-12-13,2025-09-10,-1002,
+26,323,Council,543,PlanningCommission,override,high,,,2023-09-05,2023-05-24,,exact shared case number SMI-4-2023 (Council action <- PC recommendation)
+27,326,Council,545,PlanningCommission,override,high,,,2023-09-12,2023-07-26,,exact shared case number SMI-1-2023 (Council action <- PC recommendation)
+28,347,Council,512,PlanningCommission,subject,low,,1.0,2023-12-05,2021-03-24,986,
+29,347,Council,547,PlanningCommission,override,high,,,2023-12-05,2023-08-09,,exact shared case number PUD-2-2023 (Council action <- PC recommendation)
+30,347,Council,556,PlanningCommission,subject,low,,1.0,2023-12-05,2025-01-15,-407,
+31,347,Council,560,PlanningCommission,subject,low,,1.0,2023-12-05,2025-09-10,-645,

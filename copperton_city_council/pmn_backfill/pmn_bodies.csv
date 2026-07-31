@@ -1,0 +1,3 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+1353,5831,Copperton Council,yes,meeting_minutes,,pm4,2018-07-01,"data floor 2017, but 2017-02-15 -> 2018-06-20 (29 mtgs) is PMN-purged/404 -> floor 2018-07-01 (earliest on-disk 2018-07-18); GoDaddy town site supplies 2023+; complete superset (0 recoveries)"
+1353,1560,Copperton Planning Commission,yes,planning_commission,,pm4,2019-03-01,MSD-staffed; most PC meetings cancelled; earliest recoverable minutes 2019-03; complete superset; 2025-07-02 'May minutes.pdf' is a mislabeled re-upload phantom (see exceptions)

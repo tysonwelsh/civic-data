@@ -1,0 +1,39 @@
+{
+  "contributions": [
+    {"date": "9-21-19", "name": "Susan Baird", "amount": "20.00", "in_kind": false},
+    {"date": "10-21-19", "name": "Reagan Outdoor Advertising", "amount": "100.00", "in_kind": false},
+    {"date": "10-21-19", "name": "Loan to self", "amount": "1391.75", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6-4-19", "recipient": "SLC elections", "purpose": "File Fee", "amount": "50.00", "in_kind": false},
+    {"date": "6-7-19", "recipient": "Sams club", "purpose": "Advertising items", "amount": "73.98", "in_kind": false},
+    {"date": "7-1-19", "recipient": "Utah Tees", "purpose": "Advertising items", "amount": "71.50", "in_kind": false},
+    {"date": "7-13-19", "recipient": "Stems Market", "purpose": null, "amount": "28.90", "in_kind": false},
+    {"date": "7-15-19", "recipient": "Tees and Lees", "purpose": null, "amount": "272.55", "in_kind": false},
+    {"date": "7-1-19", "recipient": "Vista print", "purpose": null, "amount": "190.98", "in_kind": false},
+    {"date": "7-1-19", "recipient": "Local Printing", "purpose": null, "amount": "31.86", "in_kind": false},
+    {"date": "8-11-19", "recipient": "Vista print", "purpose": null, "amount": "234.87", "in_kind": false},
+    {"date": "8-26-19", "recipient": "Vista print", "purpose": null, "amount": "71.57", "in_kind": false},
+    {"date": "8-6-19", "recipient": "Sams club", "purpose": null, "amount": "73.87", "in_kind": false},
+    {"date": "8-11-19", "recipient": "Signs on the cheap", "purpose": null, "amount": "296.90", "in_kind": false},
+    {"date": "10-21-19", "recipient": "Repayment of loan to self", "purpose": null, "amount": "120.00", "in_kind": false}
+  ],
+  "total_contributions": "1511.75",
+  "total_expenditures": "1511.75",
+  "total_contributions_ytd": "1511.75",
+  "total_expenditures_ytd": "1511.75",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/brian_richards_trip_kearns.pdf",
+    "candidate": "Brian Richards",
+    "office": "Metro Township Council District 5",
+    "filing_type": "interim",
+    "election_year": "2019",
+    "reporting_period": "Report prior to general election (October)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/brian_richards_trip_kearns.pdf",
+    "pages": 4
+  },
+  "_notes": "Filename says 'trip' but the 4-page PDF contains ONE report (cover=p1, itemized contributions=p2, itemized expenditures=p3, summary=p4), transcribed once. October 29 report box checked; signed 'Brian Richards', dated 10-24-19; received 10/24. Council #5. Summary Line 1/2 Column A and B all read 1511.75; Line 3 (beginning) and Line 7 (close) slashed-zero (0). Contributor addresses redacted. Handwritten-amount cents are best-effort: rows 'Stems Market' (28.90) and 'Tees and Lees' (272.55) cents digits are low-confidence; the candidate's own itemized subtotal (1511.75) does not exactly reconcile with the sum of my digit reads (~1516.98) — amounts transcribed verbatim, NOT adjusted to reconcile. Some expenditure dates are handwritten and approximate."
+}

@@ -1,0 +1,87 @@
+{
+ "date": "2025-08-13",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Mathew Lovato",
+  "Nancy Drozdek",
+  "Pauline Matagi"
+ ],
+ "source": "minutes/2025/2025-08-11/2025-08-13_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve SMI-1-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Site Plan",
+   "action_category": "final",
+   "result": "3:0 Approved (Final Action)",
+   "result_source": "UNANIMOUS-SMI-1-2025— APPROVED",
+   "outcome_word": "approved",
+   "mover": "Martell Winters",
+   "seconder": "Darrick Porter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 3,
+    "nays": 0,
+    "source": "UNANIMOUS-SMI-1-2025— APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve CA-1-2025 subject to the 8 conditions in the Staff Report",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "6:1 Approved (Final Action)",
+   "result_source": "MAJORITY—CA-1-2025— APPROVED",
+   "outcome_word": "approved",
+   "mover": "Darrick Porter",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": true,
+   "aye": [
+    "Darrick Porter",
+    "Harold Woodruff",
+    "Martell Winters",
+    "Mathew Lovato",
+    "Nancy Drozdek",
+    "Pauline Matagi"
+   ],
+   "nay": [
+    "Rob Durfee"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "3:0 Pass",
+   "result_source": "all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Rob Durfee",
+   "seconder": "Martell Winters",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 3,
+    "nays": 0,
+    "source": "all members voted in favor of the motion."
+   }
+  }
+ ]
+}

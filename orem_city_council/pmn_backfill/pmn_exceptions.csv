@@ -1,0 +1,7 @@
+date,body_id,kind,reason,verified_date
+2023-09-20,642,duplicate,notice titled '9.20.2023 Planning Commission' actually carries already-held 2023-09-06 PC minutes,2026-07-05
+2024-05-08,642,wrong_date,'05.01.2024 Planning Commission Minutes.pdf' on this notice is the already-held 2024-05-01 PC minutes - filename-date rescue family (notice event-date 2024-05-08 is wrong); mirrors the existing 2023-09-20 duplicate exception,2026-07-17
+2024-06-04,734,wrong_date,'06.18.2024 approved cc minutes.pdf' on this notice is the already-held 2024-06-18 council minutes - filename-date rescue family (notice event-date 2024-06-04 is wrong),2026-07-17
+2025-11-04,734,not_minutes,"'2025 Primary Legal Notice.docx' under 'City Council - 2025 Election Notices' is an election legal notice, not meeting minutes",2026-07-17
+2022-09-21,734,cancelled,"PMN notice 779775 'City Council Public Hearing' (4:30pm) is explicitly marked 'This notice has been cancelled'; only attachment is a public-information handout (no Meeting Minutes) - meeting did not occur, no repo record correct",2026-07-19
+2026-06-10,894,wrong_date,"'06.10.2026 MBA minutes.pdf' (file 1454771) is the APPROVED scan of the 2025-06-10 MBA meeting (header/footer 'June 10, 2025'; approved 2026-06-26; same notice 1003075 as draft docx 1311973) - folded as duplicate of the 2025-06-10 MBA row, not a separate meeting",2026-07-19

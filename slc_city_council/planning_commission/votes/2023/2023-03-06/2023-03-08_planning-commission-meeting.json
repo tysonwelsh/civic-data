@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "date": "2023-03-08",
+    "year": "2023",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2023/PC03.22.2023/PC03.08.2023minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2023/2023-03-06/2023-03-08_planning-commission-meeting.md",
+    "present": [
+      "Maurine Bachman",
+      "Mike Christensen",
+      "Amy Barry",
+      "Aimee Burrows",
+      "Andres Paredes",
+      "Levi Oliveira",
+      "Rich Tuttle",
+      "Jon Lee",
+      "Andra Ghent",
+      "Anaya Gayle"
+    ],
+    "absent": [
+      "Brenda Scheer"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve to approve the minutes for February 8, 2023 was proposed by Vice- Chairperson Mike Christensen Commissioner Jon Lee",
+      "description": "approve to approve the minutes for February 8, 2023 was proposed by Vice- Chairperson Mike Christensen Commissioner Jon Lee",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "",
+      "seconder": "Jon Lee",
+      "result": "9:0 Pass",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Andres Paredes",
+        "Amy Barry",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "have the Historic Landmark Commission review this text amendment as described by Nick Norris",
+      "description": "have the Historic Landmark Commission review this text amendment as described by Nick Norris",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Aimee Burrows",
+      "seconder": "Rich Tuttle",
+      "result": "Positive recommendation 8:1",
+      "tally": {
+        "yes": 8,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Jon Lee",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Andra Ghent"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "that we \u2018the Commission\u2019 approve this application based on 21a",
+      "description": "that we \u2018the Commission\u2019 approve this application based on 21a",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Anaya Gayle",
+      "seconder": "Mike Christensen",
+      "result": "?:0 Approved (Final Action)",
+      "tally": {
+        "yes": null,
+        "no": 0,
+        "abstain": null,
+        "recuse": null,
+        "absent": null
+      },
+      "names_recorded": false,
+      "aye": [],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "(motion text not captured)",
+      "description": "",
+      "motion_type": "Other",
+      "action_class": "procedural",
+      "mover": "Jon Lee",
+      "seconder": "",
+      "result": "8:2 Pass",
+      "tally": {
+        "yes": 8,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Andres Paredes",
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Conditional Use petition (PLNPCM2022-00750) as proposed with the additional condition specifying that the parking structure must indeed comply with current design standards",
+      "description": "approve the Conditional Use petition (PLNPCM2022-00750) as proposed with the additional condition specifying that the parking structure must indeed comply with current design standards",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Amy Barry",
+      "seconder": "",
+      "result": "5:5 Denied (Final Action)",
+      "tally": {
+        "yes": 5,
+        "no": 5,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Jon Lee",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Andra Ghent"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "deny the Conditional Use petition (PLNPCM2022-00750) as proposed because evidence has not been presented that demonstrates the proposal complies with the following standards and that it shows this location is not suitable for multi-family use and is not considered consistent with the downtown master",
+      "description": "deny the Conditional Use petition (PLNPCM2022-00750) as proposed because evidence has not been presented that demonstrates the proposal complies with the following standards and that it shows this location is not suitable for multi-family use and is not considered consistent with the downtown master",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Anaya Gayle",
+      "result": "5:5 Approved (Final Action)",
+      "tally": {
+        "yes": 5,
+        "no": 5,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Andra Ghent"
+      ],
+      "nay": [
+        "Amy Barry",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Jon Lee",
+        "Maurine Bachman"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "that as to this matter of the Conditional Use petition (PLNPCM2022-00750) that we table our decision pending further information from the applicant to demonstrate that the proposed location is not suitable for multi-family residential use",
+      "description": "that as to this matter of the Conditional Use petition (PLNPCM2022-00750) that we table our decision pending further information from the applicant to demonstrate that the proposed location is not suitable for multi-family residential use",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Anaya Gayle",
+      "seconder": "Mike Christensen",
+      "result": "8:2 Approved (Final Action)",
+      "tally": {
+        "yes": 8,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Andres Paredes",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Levi Oliveira",
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council approve this zoning map amendment proposal",
+      "description": "recommend that the City Council approve this zoning map amendment proposal",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Mike Christensen",
+      "result": "Positive recommendation 9:1",
+      "tally": {
+        "yes": 9,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council approve this Zoning Map Amendment proposal",
+      "description": "recommend that the City Council approve this Zoning Map Amendment proposal",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Anaya Gayle",
+      "result": "Positive recommendation 10:0",
+      "tally": {
+        "yes": 10,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council deny the following applications associated with this proposal: 1",
+      "description": "recommend that the City Council deny the following applications associated with this proposal: 1",
+      "motion_type": "Master Plan Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "",
+      "result": "Negative recommendation 6:4",
+      "tally": {
+        "yes": 6,
+        "no": 4,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Anaya Gayle",
+        "Andra Ghent"
+      ],
+      "nay": [
+        "Aimee Burrows",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Maurine Bachman"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Planned Development application associated with this proposal",
+      "description": "approve the Planned Development application associated with this proposal",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Mike Christensen",
+      "seconder": "Andra Ghent",
+      "result": "10:0 Approved (Final Action)",
+      "tally": {
+        "yes": 10,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Anaya Gayle",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

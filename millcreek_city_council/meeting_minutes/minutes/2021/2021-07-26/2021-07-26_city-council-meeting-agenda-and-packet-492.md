@@ -1,0 +1,345 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07262021-492
+> Meeting date: 2021-07-26
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2021-07-26
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07262021-492
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes            of the
+                                                                                       Millcreek              City     Council
+                                                                                                 July      26, 2021
+                                                                                                       6:30     p.m.
+                                                                                                Work           Meeting
+                                                                                                       7:00     p.m.
+                                                                                             Regular            Meeting
+
+
+The City        Council        of Millcreek,          Utah, met in a public               work         meeting         and regular         meeting        on July
+26, 2021 at City             Hall,     located       at 3330 S. 1300 E., Millcreek,                      UT 84106.            The meeting           was live
+streamed        via the City's             website      with     an option     for online         public        comment.
+
+
+PRESENT:
+
+
+Council        Members                                                        City      Staff
+Jeff Silvestrini,           Mayor                                             John Brems,               City    Attorney
+Silvia     Catten,      District       1                                       Elyse     Sullivan,            City    Recorder
+Dwight        Marchant,         District         2                             Francis        Lilly,      Planning           & Zoning        Director
+Cheri     Jackson,         District        3                                   Mike      Winder,          Assistant          City   Manager
+Bev Uipi,        District       4                                             Laurie         Johnson,          HR-Finance           Director
+                                                                              Rita Lund,           Coinmunications                  Director
+                                                                              Andrew          Clark,       Emergency            Manager
+
+
+Attendees:         Taft      Goodwin,            Thom      DeSirant,       Marv      Poulson,           Angel        Vice,    Carol     Elliott,      Officer
+Juan Solorasmejia,                  and Chief        Steve DeBry.
+
+
+WORK           MEETING                - 6:30 p.m.
+TIME         COMMENCED                         - 6:30 p.m.
+
+
+Mayor        Silvestrini       called          the work    meeting      to order.
+
+
+1. Discussion           Regarding               Use of American              Recovery           Act     Funds;         Mayor        Jeff    Silvestrini
+Mayor        Silvestrini       provided           the Council       a handout         with      recoinmendations                on how to use
+American         Recovery            Act Funds        amounting           to $3,964,825.              He said Millcreek               is an entitlement
+city,    over 50,000          in population,            and a formula          was used to deternnine                    the amount          received        which
+included       the percentage              of population          below      certain     income          levels.       He said the city should
+receive      a like    amount          the next year. The funds need to be expended                                    by 2024.        He said Appendix              1
+of the handout             listed     the expenditure            categories     the funds             could be spent on. The last two pages
+of the handout             involved        a list of possible          expenditures           based on the guidelines                      put out by the
+Treasury        Department.            He said the Utah League                  of Cities         and Towns             (ULCT)         has hired        an
+
+attorney       to help with           the allocation           of these funds.         Millcreek          paid $7,000           to fund that position.
+The Utah Legislature                  was encouraging              cities to use the funds                to fund permanent                 things,       not
+recurring       programs            that would        depend       on the money,             and that would              address things            impacted     by
+COVID-19.             He said during              the pandemic,         there was a huge increase                       in outdoor         recreation
+activities      so putting          money        towards       those uses worked.               He said the Council                  already       committed
+contributing          $100,000          to the Asian           Association      for next two years for the Sunnyvale                                Center
+Mfflcreek         City     Council        Meeting        Minutes                                            26 July       2021      Page 2 of 6
+
+
+
+afterschool        program.           Laurie     Johnson        pointed      out that no funds had yet been expended.                           Council
+Member         Uipi      asked if the ULCT              position       was pen'nanent.            Mayor         Silvestrini      did not know        the
+term but anticipated               a couple       of years. Council             Member       Marchant             asked if the Councils'
+priorities      could      change.       Mayor       Silvestrini         said yes, until         the checks        were cut. Mike          Winder      noted
+that the next installment                was not guaranteed.
+
+
+Mayor        Silvestrini      said Wasatch            Front      Waste       and Recycling          District       and Unified          Fire Authority
+(UFA)        had requested            funding.      He said he was willing                to pay Millcreek's              share to UFA          if the
+other Unified           Fire Service           Area members            paid their shares. The proposed                        funding     expenditures
+included       $150,000 to the Promise Program, $2,258,236.16 for Millcreek Common     parking
+structure,      $110,000 for City Hall employee premium pay, and $1,200,000 for Millcreek
+Common          Phase I. Council               Member         Catten     asked if the Council              expected        the Promise         Program       to
+make up those funds.                  Mayor       Silvestrini       said they would          work        to sustain      the Program         with    grant
+funding       as a replacement.            Council        Member          Marchant        asked to see a plan for the use of the funds.
+Mayor        Silvestrini      said it was hard to come up witli                      a plan without             a budget.       He said the Promise
+Program        Manager         had some good ideas and partnerships                              in the works.         He said the City Hall
+employee         premium        pay was because                 the employees           kept City        Hall     open during       the pandemic
+though       they were exposed                 to the coronavirus.            Council      Member          Uipi     said the employees            deserved
+it. Mayor       Silvestrini        said the Millcreek              Common         Phase I and the Millcreek                    Common        parking
+structure      items were nuanced.                 He said the State had matching                        grant programs           for cities
+expanding         recreational          opportunities           and/or      providing      more housing;             one administered           by the
+Governor's         Office      of Planning          and Budget           and one by the Governor's                    Office      of Economic
+Development.             Council       Member         Uipi      asked if there would              be time limited             employees      involved
+with    the Promise          Program.          Winder         said it had not yet been determined.
+
+
+Council       Member         Catten      asked if Millcreek               was responsible           for the reporting            of the fund
+expenditures.          Mayor       Silvestrini        said the ULCT             would      help with        the reporting,         but Laurie
+Johnson       would        be doing      it. Johnson           said there was a portal             to use for it. The categories                used in
+the handout        were based on what would                        be in the report.         The report           included      the obligated        funds
+not yet spent. Mayor               Silvestrini        proposed         that the expenditures              he went       over be included            in the
+next budget         amendment.
+
+
+2. Staff     Reports
+There were none.
+
+
+3. Discussion            of Agenda        Items,       Correspondence,                  and/or     Future         Agenda        Items
+There      was none.
+
+
+Council       Member           Uipi     moved        to adjourn           the work        meeting        at 7:01 p.m.           Council     Member
+Jackson        seconded.        Mayor           Silvestrini        called     for the vote.        All    Council        Members          voted     yes.
+The motion            passed     unanimously.
+
+
+
+
+REGULAR               MEETING             - 7:00 p.m.
+TIME         COMMENCED:                    7:02 p.m.
+Mnlcreek       City      Council          Meeting      Minutes                                              26 July       2021      Page 3 of 6
+
+
+
+1. Welcome,           Introduction            and Preliminary                Matters
+           1.1 Pledge           of Allegiance
+           Mayor       Silvestrini        called     the meeting           to order then led the pledge                   of allegiance.
+
+
+           1.2 Public           Comment
+           Marv      Poulson,        3631 Carolyn             Street,      gave a handout          to the Council           and said he wanted                   to
+           give an idea of good public                  policy.         He gave an example                from     Governor         Scott Matheson.
+           He said Governor               Matheson        always          asked a question            at the beginning            and end of any
+           public     policy       decision       discussion,       "is     this good public           policy?"        He proposed              4 questions
+           to the Council:           1) Does the Millcreek                  City    Council       and city staff have a responsibility                          to
+           defend      established         city zoning         ordinances?           2) Is it good public           policy        for the city staff
+           and City       Council         to ignore     defending           established        city zoning         ordinances?            3) What      should
+           the criteria         be for making         changes        to exiting        city ordinances            using    the good public             policy
+           test as a beginning             point?     4) Is it good public              policy     to preemptively              change          city zoning
+           ordinances           to specifically       pander      to the singular            corporate       financial       interests          that offers
+           no tangible          benefit    to Millcreek          citizens?         He said as the Council               addressed          changes to
+           existing      ordinances         and asked if it was good public                       policy.      He said his comment                   was an
+           introduction          to billboards
+
+
+           Angel      Vice,      3610 Carolyn          Street, said after speaking                   with    Aimee        McConkie,              Millcreek
+           Common          Director,        about using         digital      billboards        for event advertising,              she proposed                the
+           Council       look     at NFCs       (near field       communication)                 for advertising.          She said there could be
+           an app advertising              events.     She asked about the timeline                       for allowing          digital     billboards          in
+           the City      Center      (proposed         ordinance           change).     Mayor        Silvestrini        said nothing            had been
+           determined           yet, but it would         be noticed          accordingly.
+
+
+        1.3 Mfflcreek               Precinct        Officer      of the Month             for June        2021
+           Chief      Steve DeBry           aru'iounced        as Officer          Juan Solorasmejia              of the Month            for June 2021.
+           Officer      Solorasmejia           evacuated         an entire         apartment      building        during        a fire before        UFA
+           responded.           The Citizens         Advisory        Board         presented      Officer      Solorasmejia              with    a gift.
+           Mayor       Silvestrini        commended            him for his work.
+
+
+2. Planning         Matters
+           2.1 Discussion            and Consideration                    of Ordinance           21-31,      Amending            Title     19 of the
+           Millcreek          Ordinance           to Enact       Chapter           19.73A,       Entitled      "City       Center         Overlay          -
+           Development              Agreement          Zone
+           Mayor       Silvestrini        said the Council           had a first reading              of the item at their            last meeting.
+           Francis      Lilly     said the ordinance             established          a process       or framework              for architects        and
+           developers           through     a collaborative             process      to discuss       potential        alternatives        to the
+           standard      application          of the City        Center       Overlay        Zone.     The ordinance             imposes         guardrails
+           so that it is not a free-for-all.              There would               be a limit       on overall        height     and maximum                  10%
+           tolerance      on numerical             standards.       He said the Council                could      say no to any application,
+           but the ordinance              provided      a process          for questions         to be asked. He said Council                       Member
+           Jackson      had asked about widening                        the mailed      notice       to 600 feet at the last meeting.                      He
+           said the purpose            of the notice          was to inform           residents       who may be directly                  affected        or
+           impacted       by a project         and that increasing                 the radius      would       pick up some property                  owners
+           1,000      feet away from           the project        and therefore           would       not be prudent.            He said the
+           application          process     included      a joint         Council      and Planning          Commission             meeting         before       an
+Millcreek           City      Council          Meeting               Minutes                                                26 July          2021        Page         4 of 6
+
+
+
+             application            could        be made,              so he felt the process                included         robust         public      input.        The
+            application             should         fulfill      the goals          of the City         Center       Master           Plan.     Council          Member
+            Jackson          thanked          Lilly          for looking          at the noticing            standard.         Council          Member               Marchant
+            appreciated              that noticing               would          not be subjective.
+
+
+            Mayor           Silvestrini            asked       for public          coinment.          There       were       no comments.
+
+
+Council       Member               Marchant                  moved        to approve             Ordinance            21-31,         Amending                Title     19 of the
+Millcreek           Ordinance              to Enact             Chapter           19.73A,         Entitled        "City        Center          Overlay           -
+Development                Agreement                Zone.           Council        Member            Catten         seconded.           Council          Member              Jackson
+appreciated           the guardrails               and the application                    process.      Mayor            Silvestrini         said the reason                 for the
+ordinance          was related            to the proposed                   construction           of City        Hall     and the setback                considerations
+from      Millcreek          Common              which          already         included         the setback         from       the fault        line.       The      ordinance
+included       a sunset           provision           of three          years.     The      Recorder            called       for     the vote.         All     Council
+Members             voted      yes. The            motion            passed        unanimously.
+
+
+            2.2 Discussion                 arid       Consideration                 of Resolution               21-32,       Approving                Amended                Rules      of
+            Order           and     Procedure                 for      the Mfflcreek             Planning          Commission
+            Mayor           Silvestrini          said the principal                 change        would         be to allow            the Planning             Commission
+            to conduct             electronic          meetings             subject       to the parameters                 within      state code.            Francis         Lilly
+            said the Corni'nission                     included             the word       "regularly"            scheduled            meetings          to Section            6.
+            Attendance.              He said the Planning                         Commission            approves            the bylaws           and the Council
+            adopts         them,      and the Commission                          approved         them         at their     meeting          on July         21s'. Mayor
+            Silvestrini           asked       if the Mayor,                 Corni'nission          Chair,        and supporting               staff      needed         to be
+            noticed         for resignations                   in Section          9. The       Council         decided        not to amend              the rules           of order
+            and procedure.                 Lilly      said the old rules                  were     written        under       the assumption                 that the County
+            staff     would         be the supporting                    staff.     Council        Member           Jackson          asked      about         the alternate
+            commissioners.                  Mayor             Silvestrini         said there       was previously                  an issue with              the
+            participation             of altemates                  in Corninission             meetings,          so the Coinmission                    was expanded
+            from      7 to 9 members.                   Mayor            Silvestrini        said all references                to alternates             would         be
+            removed           with       the proposal.
+
+
+Council       Member               Jackson            moved            to adopt          Resolution          21-32,        Approving             Amended                Rules          of
+Order       and      Procedure             for      the Millcreek                 Planning           Commission.                Council          Member               Uipi
+seconded.           The      Recorder              called        for     the     vote.    All    Council          Members              voted      yes. The             motion
+passed      unanimously.
+
+
+3. Business          Matters
+            3.1 Discussion                 and      Consideration                   of Resolution               21-33,       Approving                an Agreement
+            with      Salt     Lake        Legal         Defenders                to Provide          Court        Indigent            Defense         Services
+            Mayor          Silvestrini           said the resolution                    was a renewal             of the existing              agreement              with     no
+            change          to the rate.
+
+
+Council       Member              Uipi      moved             to approve            item        3.1, Resolution              21-33.      Council             Member
+Jackson       seconded.              The      Recorder                 called     for     the vote.       All     Council          Members               voted        yes. The
+motion       passed          unanimously.
+Mfflcreek          City     Council         Meeting          Minutes                                          26 July      2021       Page 5 of 6
+
+
+
+4. Reports
+            4.1 Mayor's              Report
+            Mayor         Silvestrini         said he had been working                  with     the ULCT            on ARPA        funding.      He had
+            not received             any calls on fireworks               related     fires over the Pioneer               Day holiday.          He said
+            staff was working                 hard. He reported            that the contractor               on the 3900 S. construction                asked
+            for an extension              on the project.         The repaving             of a section        of Highland          Drive     had been
+            completed.          There would             be more         slurg      seal and pavement                preservation      in the coming
+            year due to a lack of snow fall during                              the winter.      He said there was a successful
+            workshop          to discuss           the new city hall.
+
+
+            4.2 City        Council         Member           Reports
+            Council         Member          Jackson       said there was a good 3300 S. envisioning                               workshop.       Mayor
+            Silvestrini        said Millcreek            received        a joint    planning       grant with          South      Salt Lake City        on the
+            project.
+
+
+            4.3 Staff        Reports
+            Rita Lund         requested            newsletter     articles        for the next printed              newsletter      going     out in
+            September.          Mayor          Silvestrini       said there was discussion                   with     staff on allowing          candidates
+            to be able to submit                 a bio upon declaring               for candidacy.           Council       Member        Catten     asked
+            about the city hosting                  a candidate         forum.      Mayor       Silvestrini         said the city would           not do
+            one. He said the Recorder                     sent out an email             to employees           about proper          political
+            involvement              during      campaign/election               season. Council             Member       Marchant           recommended
+            putting        election       information         in the electronic            newsletter.
+
+
+            John Brems             said there had been fines and penalties                            accruing,       and people       were not paying.
+            He asked the Council                    how to collect;          a lawsuit        in small       claims     court or hire a collections
+            agency.         Council       Member          Jackson       asked which            one would        be more likely          to get results.
+            Mayor         Silvestrini         explained       the processes           involved        with    both.     Council      Member        Marchant
+            asked where              the fees were coming                from.     Brems       said code violations.               Council       Member
+            Marchant          asked how many                 there were. Brems              said not more than ten. Council                      Member
+            Marchant          said the point           was enforcing             code, not collecting               fees. Brems      said he checked
+            with     four cities:         two use collection              agencies      and two use small               claims      court.    Council
+            Member          Catten        asked which           was least expensive.              Brems        said a collection         agency.       The
+            Council         was in favor           of small      claims      court.
+
+
+            Council         Member          Uipi     requested      background             checks be performed                 on all volunteers
+            working         with      children       in the Promise             Program.
+
+
+            Mike       Winder         said he was grateful               for the Council          adjusting          ordinances      as necessary         as
+            living        documents.          Mayor       Silvestrini      thanked         the Council         for striving        to make good policy
+            decisions        witli      every decision.          Council         Member        Uipi     thanked        residents     for bringing
+            perspectives             to the Council.
+
+
+            4.4 Unified            Fire     Authority         Report
+            There      was no report.
+
+
+            4.5 Unified            Police      Department           Report
+Millcreek          City    Council       Meeting       Minutes                                             26 July     2021       Page 6 of 6
+
+
+
+            Chief     Steve DeBry             recommended             business       license     applicants         who apply     for child-related
+            services       get a background            check.        He then presented             the June 2021 crime            statistics       to the
+            Council.        There were 3,424 calls for service,                       1,031      total    cases, 427 total citations,             and 44
+            booking         arrests. There        were 33 assaults,              21 burglaries,          20 drug offenses,        92 family
+            offenses,       113 larcenies,         2 robberies,            5 sex offenses,         and 28 stolen vehicles.             The UPD
+            Special        Operations/        Millcreek          Traffic    conducted          speed/traffic        enforcement        at three
+            locations       in Millcreek        on June 22nd where                  there were 81 total tickets/contacts.                   The
+            Community            Oriented       Policing         (COP)      detectives        partnered      with    Salt Lake        County       Health
+            Department           and cleaned        up 3,840 pounds                of transient          encampment         at 1326 E. 3300 S. He
+            said the COP Unit             had a booth             at Venture       Out! There        were 76 illegal          fireworks      calls
+            between         July 3-6. He said the Precinct                     also participated          in the 4"1 of July parade.              Chief
+            DeBry         announced       Night      Out Against            Crime     on August           31'd.Rita Lund       thanked      him for the
+            COP work          on the homeless             encampment.
+
+
+5. New      Items         for Subsequent           Consideration
+There     were none.
+
+
+6. Calendar           of Upcoming             Events
+    *       Mt. Olympus           Coinmunity           Council         Mtg.,     8/3/21,      6:00 p.m. TBD
+    *       Millcreek        Coinmunity           Council         Mtg.,    8/3/21,     6:30 p.m. TBD
+    *       Canyon         Rim   Citizens       Association           Mtg.,      8/4/21,     7:00 p.m. TBD
+    *       East MiII       Creek     Community             Council        Mtg.,     8/5/21,     6:30 p.m. TBD
+    *       City    Council      Mtg.,     8/9/21,     5:00 p.m. at City              Hall
+
+
+Council      Member          Marchant         said he would           miss the August             9"I City     Council      meeting.      Lilly     said
+the Mt. Olympus              Cominunity         Council          was not meeting             in August       and the Millcreek            Coinrnunity
+Council      would        be meeting       on August            10f" instead        of the 3]'d.
+
+
+ADJOURNED:                  Council      Member            Uipi     moved        to adjourn         the meeting            at 8:06 p.m.      Council
+Member        Marchant           seconded.         Mayor           Silvestrini       called     for the vote.        All    Council       Members
+voted     yes. The motion             passed                '
+
+
+                                  APPROVED:                                                                          Date      S- 9'2-ai(
+                                                                Jeff Silvestrini,      Mayor
+
+
+
+                                    Attest:                 ESeCity Recorder
+

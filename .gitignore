@@ -1,0 +1,58 @@
+# civic-data .gitignore — the decided GitHub shape (TODO.md "Publish to GitHub"):
+# commit the TEXT layer (markdown, CSVs, JSON, per-city SQLite dbs, weeks/, scripts,
+# docs); keep bulky re-fetchable binaries, oversized derived artifacts, and secrets
+# local-only.
+
+# raw originals at ANY depth (PDF/video/audio/images) — public + re-fetchable via
+# each index.csv source_url / sources.csv; several exceed GitHub's 100 MB hard limit.
+# NOTE: raw TEXT artifacts live in <dataset>/text/ (committed), not raw/.
+raw/
+
+# slc public_comments predates the raw/ convention: its year folders hold the weekly
+# comment source PDFs (221 files, 364 MB) — same raw-stays-local policy.
+slc_city_council/public_comments/20*/*.pdf
+
+# QC source packets retained for comment ground-truthing (re-fetchable; 43 MB files)
+_audits/comment_qc/**/*.pdf
+
+# gov.db is DERIVED (1.64 GB — 16x over GitHub's 100 MB hard limit) — regenerate with
+# `python3 scripts/build_cities_db.py` (runs the search layer too), or download the
+# release asset (gov.db.gz, ~399 MiB). The per-entity db/*.db files ARE committed
+# (small, and the federated build reads them). cities.db is its back-compat SYMLINK
+# (renamed 2026-07-20) — also excluded, else clones get a dangling link.
+/gov.db
+/cities.db
+/gov.db.tmp
+/gov.db.lock
+
+# ONE pathological packet-text sidecar: 110 MB of whitespace-bloat layout-mode
+# extraction holding only ~37k words (over GitHub's hard limit). Content is
+# re-derivable from the retained raw packet (see draper packets/index.csv);
+# re-extraction lead filed in LEADS.md. Excluded 2026-07-31 (PUBLISH GATE G1).
+draper_city_council/packets/text/2020-05-28_PlanningCommission_item1820_att1624.txt
+
+# mag_mpo keeps its source PDFs under raw_pdf/ (name referenced by its
+# minutes_index.csv + provenance headers, so not renamed to raw/) — same
+# raw-stays-local policy as the 358 raw/ dirs.
+mag_mpo/legislative/raw_pdf/
+
+# scratch/backup dirs outside the _backups/ convention + stray editor backups
+*/pmn_backfill/work/
+_backup_*/
+*.bak
+
+# pre-change backups (local safety net, ~GBs)
+_backups/
+
+# local harness state (permission grants etc.)
+.claude/settings.local.json
+
+# secrets — per-dataset .env files carry ANTHROPIC_API_KEY
+.env
+*/.env
+*/*/.env
+
+# OS/tooling noise
+.DS_Store
+__pycache__/
+*.pyc

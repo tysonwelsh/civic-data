@@ -1,0 +1,709 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08262024-837
+> Meeting date: 2024-08-26
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2024-08-26
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08262024-837
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes            of the
+                                                                                      Millcreek             City       Council
+                                                                                             August          26, 2024
+                                                                                                     5:00       p.m.
+                                                                                                    Site    Visits
+                                                                                                     7:00       p.m.
+                                                                                             Regular            Meeting
+
+
+
+
+The City       Council       of Millcreek,               Utah, met in site visits             and a regu'lar meeting                   on August      26, 2024,
+at City Hall,         located      at 1330 E. Chambers                   Avenue,       Millcreek,           UT 84106.           The meeting         was
+
+recorded      for the City's          website            and had an option           for online        public        comment.
+
+
+PRESENT:
+
+
+Councn        Members                                                                      City     Staff
+Jeff Silvestrini,         Mayor                                                            Rita Lund,        Cornrnunications              Director
+Silvia    Catten,      District       1                                                    Elyse     Sullivan,         City    Recorder
+Thom      DeSirant,        District           2                                            Francis     Lilly,       Assistant         City Manager
+Cheri Jackson,          District          3                                                John Brems,             City Attorney
+Bev Uipi,      District      4 (electronic at 8:25pm)                                      Kurt     Hansen,        Facilities      Director
+                                                                                           Carlos     Estudillo,          Plaru'ier
+
+
+Attendees:       Chief       Christine              Petty-Brown,         Rick    Hansen,          Brenda     White,        Joyce Crossey,           Mickey
+Burham,       Nicole      Curtis,         Susan Swidnicki,               Tanya     Beal, Matt         Trodden,            Sandra Walker,           Margaret
+Douglass,       Shea McDonough,                       Brian     Clark,    Kadee     Worley,          Sam & Mark               Riley,    Cindy   Ipsen,
+Kerwin       Ipsen,     Sam Watson,                  Dr. Hamid      Adib,       Officer     Erickson,           Officer       Schroeder
+
+
+SITE     VISITS:
+
+
+1. Unified      Fire      Authority                Millcreek      Stations       Visits:     Station        101,       790 E 3900 S; Station              106,
+1911     E 3300 S; and Station                       112,     3612 Jupiter        Drive
+
+
+
+
+REGULAR             MEETING                   - 7:00 p.m.
+TIME      COMMENCED:                              7:05 p.m.
+
+
+1. Welcome,           Introduction                  and Preliminary             Matters
+          1.1 Pledge         of Allegiance
+          Mayor        Silvestrini            called     the meeting        to order and led the pledge                       of allegiance.
+
+
+          1.2 Proclamation                        Declaring      Sam Watson           Day
+Mfflcreek          City    Council       Meeting       Minutes                                    26 August          2024        Page 2 of 7
+
+
+
+            Mayor         Silvestrini     said the city gets to celebrate                  an Olympic           athlete.    Sam Watson,           speed
+            climber,        set an exceptional            world    and Olympic           record       and won the bronze               medal      in the
+            recent Paris Summer                  games.
+
+
+            Mayor         Silvestrini     honored      Watson        with     a lifetime       pass to the city hall climbing                   wall    and
+            proclaimed          the following:
+
+
+            P ROCLAAdATION
+            MjV WATSON DAY INMILLCREEK
+
+
+            WHEREAS,Speed Climbing is a fast-growing international sport arid made its Olympic debut as
+            a stand-alone disciplirie for men and women at the Paris Summer Games 2024; and
+            WHEREAS, Sam Watson is the most dominantAmerican        male in this sport; and
+            WHEREAS, Sam broke the world speed climbing record twice at the World Cup in Wujiang,
+            China in April 2024; and then broke his records twice again at the Summer Games in Paris this
+            month; and
+            WHEREAS,on August 8, 2024, Sam climbed the 15 meter / 49 foot wall in 4. 74 secortdsin Paris,
+            creating a new Olympic record, world record, and cementing his claim as "the fastest climber in
+            the world,"        arid
+            WHEREAS,Sam brought home the Bronze Medal from Paris this month in Competition Speed
+            Climbing;        and
+            WHEREAS,Sam Watson is a Millcreek resident, a student at the University of Utah, and trains at
+            Momentum Climbirig                 Gym in Millcreek         and brought         Olympic and athletic glory to his nation, his
+            state, and this city.
+            NOF, THEREFORE, I, JeffSilvestrirxi, Mayor ofMillcreek, do hereby declare today, Monday,
+            August 26, 2024, as "Sam WatsonDay" in Millcreek, and bestow vtponhim a Lifetime Pass to the
+            Millcreek Climbing Wall, which is the tallest outdoor wall in the state of Utah.
+            IN WITNESS WHEREOF, I have hereunto set my hand and caused the seal ofMillcreek to be
+            affixed this 26th day ofAugust 2024.
+
+            The council          then saw a video            of Watson's           bronze    medal       race. Sam Watson               said he moved
+            to Millcreek           in April.     He plaru'ied      to win gold in the Los Angeles                      2028 Summer              Games.
+            The mayor          appreciated         Watson's        show of sportsmanship                  to his opponent,            Iran's    Reza
+            Alipour        (seen in the video),           regardless        of country       politics.      Watson         said his opponent            was
+            the former         world     record     holder     and a legend          in speed climbing.              He said the athletes              were
+            human         and hoped       the sport could be a base for potential                        political     healing       in the future.
+
+
+        1.3 Unified             Police     Department             Millcreek         Precinct      Officer        of the Month            for June       and
+            July     2024 and Introduction                   of Directed        Enforcement              Unit
+            Chief     Petty-Brown              announced      Officer       Mike     Erickson         as the Officer         of the Month         for
+            June 2024.         Officer     Erickson        jumped       into the Jordan          River      to help rescue           officers    who had
+            previously         jumped      in to save an individual                who attempted            suicide.       Officer     Chris
+            Schroeder         was announced            as Officer       of the Month           for July 2024.          Officer       Schroeder
+            showed        repeated       empathy      to a victim        of a vehicle        strip and was able to get four tires
+            donated        to them and he paid for the rims.
+
+
+            Chief     Petty-Brown              said the Directed        Enforcement            Unit    was on duty investigating                  a
+        homicide             and unable          to make the meeting.
+
+
+        1.4 Public             Comment
+Mfflcreek           City     Council           Meeting           Minutes                                          26 August              2024        Page     3 of 7
+
+
+
+            Neighbors               surrounding            a proposed            residential         facility      at 827 E 4280                 S collectively         read        a
+            statement             (see attached).              Those      who       spoke      were      Brenda           White,         Cindy     Ipsen,      Matt
+            Trodden,           Kadee          Worley,          and Kerwin            Ipsen.     Worley           requested          information             on how       to
+            update         city     ordinances.
+
+
+            Nicole         Curtis       did not know                about     or agree with             the neighborhood's                    requested        prohibition
+            on allowing              parole/probation                 officers       to make         regular        visits.       She wondered              how      parole
+            officers         would         check       in if they        were       not allowed          to visit        the site.
+
+
+            Margaret           Douglas              agreed     that disabled           people        deserved          to be treated             normally         and having
+            16 people             in one house            was not normal.                She felt        that the neighbors                   deserved       to have         a
+            normal          neighborhood.                She has been threatened                      to be sued but does not know                            why.      She
+            felt    intimidation              through          fear and did not know                    how      to work          with     the neighbor           (of the
+            proposed           facility).
+
+
+            Francis         Lilly      noted        the reasonable            accommodation                     application          for the residential              facility
+            was not a matter                  for the council               as the review          of the application                    happens      with     the
+            Planning          and Zoning               Department            and the City            Attorney.            The mayor            said the city          would
+            try to do what              was right            and consistent            with     law      and accommodate                      some       of the
+            neighbor's              concerns          to the extent          the city       could.
+
+
+            Elyse       Sullivan         read a coinment                 received        online         from      Jones       M. in regard           to the Salt Lake
+
+            City Public Utilities stabilization fee. "The stabilization fee being charged is inconsistent
+            and has unintended corxsequences     for homeowners with fire sprinklers. I represent a
+            smallHOA where homeownersare being charged a fee that is up to 6,500% of the billed
+            amotmt. We need representationfrom Millcreek City to resolve this situation."
+
+2. Planning           Matters
+            2.1 First         Reading:              ZM-24-008,              Request          to Rezone            from        A-1/A-2          to M at 4100            S 650
+            W;      Carlos          Estudillo,          Planner
+            Carlos         Estudillo         said the site's            current       use was manufacturing                         with      a trucking       and storage
+            business.         The      site is 8.17 acres                and surrounded               by multi-family,                   agricultural,        and
+            manufacturing.                  Most      of the property               is already        zoned        M, but this rezone                 would        make       the
+            whole       site M. The              subject       property          is within      the "Light            Manufacturing"                 land     use
+            designation             of the General              Plan,       which      envisions          neighborhoods                  comprised           of, "A     range
+            of employment                   uses, including              a wide      range      of cornrnercial                  uses,     small-scale
+            manufacturing,                  light     industrial,        processing,           wholesaling,               flex     space.
+
+
+            Estudillo         relayed         the conclusions                from      his staff      report:
+            1. The         Subject         Property          is within       the "Light         Manufacturing"                    land      use designation,            which
+                   complies         with      the vision         of the Millcreek               General           Plan.
+            2. The property                 has been historically                   utilized      for the following                  uses, including              trucking
+                   and storage          business,            overnight        rental     and storage              of truck,        trailer,      and automobile
+                   equipment,           truck,       trailer     and automobile                repair     and warehousing.                     Continuing           the uses
+                   envisioned          by the Millcreek                  General       Plan.
+            3. No development                       is currently         proposed,           as the application's                  purpose         is to consolidate
+                   the current         zoning         of the lot into            one zone        (Manufacturing                    zone).
+Millcreek           City      Council          Meeting         Minutes                                             26 August            2024        Page        4 of 7
+
+
+
+            4. In a future                application,        the City        Council           will     be considering                the land     swap/vacation                  of
+                    a portion        of 700 W, along                 the property's              frontage,         with     the purpose            of realigning            the
+                    right-of-way            to match        existing       improvements,                      through      the dedication               of the swapped
+                    land.
+
+
+
+
+            Mayor           Silvestrini         asked if the corni'nunity                   council            and plai'ining           corninission           would
+            review          the vacation           application.          Lilly      said no. Mayor                  Silvestrini         asked      if there       was any
+            development               planned.           Estudillo       said no, the main                    component           of the request            is to be able
+            to have          a consistent          zone      for any possible               future        land     use applications.               The mayor             said it
+            was in the city's                 interest      to clean      up parcel             zoning.
+
+
+            John Brems               said this will          be a three-stage               proposal.            Part of the property               will       be vacated,
+            surplussed,             and exchanged                for another            piece     of property             along        700 W. Estudillo             noted          a
+            neighborhood                  meeting         was held       on June 18, 2024,                      where      people        expressed          comments             on
+            undesired           multi-family              development             and had questions                      about     a potential          road     extension
+            of 700 West               to 4170         S. The Millcreek              Community                   Council         held    a meeting          on July       2,
+            2024,       and voted            7-2 in favor            of the proposed               zoning         consolidation.            The two            dissenting
+            votes       felt the property                would       be better          served         with     multi-family            housing.        The Planning
+            Commission                unanimously             recommended                  approval             on July 17,         2024.       Staff    recommended
+            approval           of the application.
+
+
+            Mayor           Silvestrini        asked if there           was public              corni'nent         on the application               at the plaru'iing
+            coinrnission             meeting.           Estudillo       said there         was not.            Council       Member             Catten      asked       if the
+            property           owner        had intent        to sell. Estudillo                said there         was no intention                of discontinuing
+            the current             use that he was aware                  of. Mayor             Silvestrini            noted     multi-family             housing       was
+            an option           in the M zone              (refuting       the community                      council      dissenting        vote       rationale).
+
+
+            2.2 Discussion                  and    Consideration                 of Ordinance                  24-41,      Approving              an Amended
+            Development                   Agreement            for     Austin       Dent         for     Property           Located         at or Near            3564
+            South           1100     East
+            Lilly      said the current                 development           agreement                includes         an exhibit        that refers       to the
+            "buildable             area."     Staff      wants       to clarify         the buildable             area phrase           applies      to the primary
+            residential            structure       and not necessarily                   any accessory               buildings.          This     change         would        be
+            consistent             with     city policy.
+
+
+Council       Member               DeSirant           moved          to approve           Ordinance               24-41,         Approving              an Amended
+Development                 Agreement             for     Austin       Dent       for     Property             Located           at or Near         3564        South     1100
+East.     Council           Member            Catten        seconded.            The      Recorder              called     for     the vote.        Council         Member
+Catten      voted           yes, Council           Member            DeSirant            voted         yes, Council              Member          Jackson          voted       yes,
+Council       Member               Uipi      voted       yes, and       Mayor            Silvestrini            voted      yes. The         motion         passed
+unanimously.
+
+
+3. Business           Matters
+            3.1 Discussion                  and    Consideration                 of Resolution                 24-18,      Approving             an Amended
+            Interlocal             Cooperative             Agreement              with      Salt        Lake      County          for    Public         Works         Services
+            Mayor           Silvestrini        said Millcreek             contracts          with        Salt Lake         County         to do the work              the city
+            designs          and pays         for. This       is an amendment                    to the fee schedule.
+Millcreek           City     Council             Meeting          Minutes                                          26 August                 2024        Page     5 of 7
+
+
+
+
+Council        Member               DeSirant             moved        to approve             Resolution            24-18,          Approving               an Amended
+Interlocal          Cooperative                 Agreement             w'th      Salt     Lake         County          for    Public           Works         Strvices.
+Council        Member               Jackson             seconded.        The         Recorder           called      for      the vote.          Council         Member
+Catten        voted        yes, Council                Member          DeSirant             voted       yes, Council               Member            Jackson          voted         yes,
+Council        Member               Uipi        voted      yes, and       Mayor             Snvestrini           voted       yes. The            motion       passed
+unanimously.
+
+
+4. Reports
+             4.1 Mayor's               Report
+             Mayor         Silvestrini           reported         on the Parley's               mine.       The    applicant            filed       for an air quality
+             permit        with      the Division             of Air     Quality         Division           of Natural             Resource          and the city,          among
+             others,       submitted             opposition          to the permit.             An     expert      was hired            to go through             why       the
+             analysis        that the Division                 of Air      Quality          had utilized           to issue the permit                    was flawed.            The
+             expert        convinced             the Division           of Air        Quality        to reconsider             the peri'nit,          and they        submitted
+             a request        to Granite               Construction,           which         would       be the operator                of the mine,            for additional
+             information.              Granite           Construction           took     the whole           suminer          to do so. The opposition                         is
+             concerned              there   was not enough                   time     to respond            to the new             infori'nation          in a scientific
+             way.      The      city     will     join     others      and request            an additional               extension           to file     a coinment            and
+             get more         expert        information             to critique         what        Granite        Construction                 had submitted.             He
+             requested            an additional             $7-10,000           from     the city        to pay the expert                   for the additional              work.
+             The      council         agreed       to spend         more       money.
+
+
+             The mayor              said the county               and Utah           League         of Cities       and Towns                were       able to head           off
+             legislation            allowing           any mine        in the state to expand                     as it preempted                local     zoning
+             authority.         The tradeoff               was the need for aggregate,                         gravel        and sand.            The Legislature
+             passed        a bill      calling      for a study,          with        a variety       of factors,           on the demand                  expected        for
+             gravel        aggregate            over      the next     20 years.            The     study      would         allow       the legislators             to use data
+             to make         decisions.           He wondered                 where      gravel       was coming               from          and what        is the
+             incremental             cost of transporting                 it. The       company             selected         to study           it held     a meeting          with
+             stakeholders              to outline          what     was going           to be studied.             The mayor                 would        continue        to work
+             on the issue.             Council           Member        Uipi      asked        how       adjacent          cities     felt.    Mayor         Silvestrini          said
+             he would         be talking            to other        cities.
+
+
+             The mayor              reported        he would           be continuing              to work         with       the League              on housing           issues,
+             such     as city        building           inspections           and allowing            lots to develop                witliout        garages         (to be
+             constructed             at a future          time)     to assist        with     housing          affordability.
+
+
+             4.2 City        Council             Member           Reports
+             Council        Member              Catten      reported          that    September             is "Get         to the River"             month       for the
+             Jordan        River.
+
+
+             4.3 Treasurer's                Report
+             Council        Member              Jackson       reported          the operating             account           has $2,988,540                 and the PTIF
+             state fund         account          has $31,932,484,                   for a total       amount          of pooled              cash of $34,921,024.
+            The revenues               to date include               $1 54,579          in property           taxes,        general          sales tax, which             is one
+            month's         revenue,            is $1,200,572,           and building                permits       is $274,655.               The       General       Fund
+            revenue         year       to date is $2,978,592.                   She noted            the fiscal        year        started       July     1. The      city's
+Mfflcreek           City     Council           Meeting       Minutes                                      26 August           2024       Page 6 of 7
+
+
+
+            disbursements                totaled     $5,493,519.          The city is doing              well.     The sales tax continues                 to
+            remain          strong.      There      is plenty     of work         for the building              department,       so that keeps building
+            permits          and fees at a solid             amount.       Mayor         Silvestrini      noted that over half of the budget
+            was sales tax.
+
+
+            4.4 Staff          Reports
+            Lilly     said staff is recommending                       code change to prohibit                    parking      within      a certain
+            proximity           of a mailbox.            He asked the council                if it should         be a 24-hour          prohibition        or
+            restricted         to business          hours     of when mail             is delivered.        Staff has received             a number          of
+            requests         for this code change,                particularly           on the west side of the city. Mayor                      Silvestrini
+            said there was no reason to prohibit                               parking     outside       of mail      delivery       hours.     He mentioned
+            semi tractor            and trailer       parking      on roads had become                    an issue as well.
+
+
+            Lilly     reported          that Cowboy           Partners         was delaying            their village        center special        district
+            application            on Wasatch            Boulevard        for another         month        to add more detail.
+
+
+            Rita Lund           noted the Communications/Marketing                                 Coordinator          resigned         and she was
+            looking          to fill    the position.
+
+
+            4.5 Unified             Police       Department            Report
+            Chief      Petty-Brown               reported       a homicide         at Monaco            Apartments          involving         a 14-year-old.
+            They       suspected          it was gang related.                 Mayor      Silvestrini      complimented                the precinct       on their
+            recent police              work.     He brought         up the consideration                 of funding         a Millcreek         officer      to be
+            part of the metro                  gang task force.         The chief         said there were currently                    9 vacancies        in the
+            Millcreek           precinct.
+
+
+            The chief reported                  the July crime          statistics.       There were 2,631              calls for service,            905 new
+            police         reports,      187 citations,          and 11 booking             arrests.      The Directed           Enforcement           Unit
+            made 6 arrests,               and 600 fentanyl             pills     were seized during               an operation.          The Unified
+            Police         Motors       Unit     conducted        a saturation           patrol    in Millcreek         on the first day of school
+            for the Granite              School      District,     focusing         on school          zones and speed enforcement.                       The
+            patrol,        which        lasted 2.75 hours,          involved           6 motors.        Enforcement           was carried        out in 6
+            school         zones and 2 additional                 locations        for speed. In total,            officers      made 22 stops, 10 in
+            school         zones and 12 for speeding.                    UPD       Motors         plans to conduct            more saturation             patrols
+            in the future.             Special      thanks    to Officer          Mike     Erickson        for leading         this effort.      The Violent
+            Crimes          Unit       had 156 active         cases, the Special             Victims        Unit      had 98 active         cases, SWAT
+            had 5 new call outs, the CAR                         Team had 10 call outs, and the K9 Unit                                had 21 new calls.
+
+
+            The Millcreek                Precinct     had 31 assaults,             16 burglaries,          16 drug offenses,              79 family
+            offenses,         22 frauds,          51 larcenies,        2 robberies,          9 sex offenses,           and 21 stolen vehicles                   in
+            July. Millcreek               detectives        were assigned           103 cases and 22 of those were submitted                                 for
+            charges.         There were 20 transient                   related      calls and 64 mental               health     calls. During         the
+            month          of July, Millcreek             COP officers            and school         resource       officers      actively      participated
+            in five community                   events. These included                   Venture       Night      Outs and Night           Out Against
+            Crime          held at Big Cottonwood                  Regional         Park.     School       resource         officers     from    Millcreek
+            and Holladay                City    assisted the administration                  at Wasatch           Jr. High     School       in teaching
+            their faculty           what to expect            during      an active        shooter       situation.     The training           was well
+            received         by all faculty          members.          The Investigations                Unit     was able to apprehend                a suspect
+Millcreek          City     Council         Meeting        Minutes                                    26 August        2024       Page     7 of 7
+
+
+
+            who      confessed            to six residential        burglaries        in Millcreek.        The patrol        officers,     UPD
+            Forensics,           and detectives           worked      collaboratively           on the case.
+
+
+5. New      Items         for    Subsequent            Consideration
+There     were      none.
+
+
+6.   Calendar         of Upcoming                 Meetings
+     *      Mt.    Olympus           Community            Council       Mtg.     TBD
+     *      Millcreek            Cornrnunity        Council        Mtg.,    9/3/24,     6:30 p.m.
+     *      Canyon          Rim     Citizens       Association         Mtg.,     9/4/24,       6:30 p.m.
+     *      East Mill           Creek      Community          Council       Mtg.,     9/5/24,     7:00 p.m.
+     *      City    Council         Mtg.      9/9/24      7:00 p.m.
+
+
+
+
+ADJOURNED:                      Council      Member          Jackson        moved       to adjourn         the meeting           at 8:45     p.m.
+Council      Member              DeSirant         seconded.         Mayor        Silvestrini      called       for   the vote.     Council
+Member        Catten            voted      yes, Council        Member          DeSirant         voted      yes, Council          Member        Jackson
+voted     yes, Council             Member          Uipi    voted      yes, and        Mayor      Silvestrini         voted    yes. The       motion
+passed      unanimously.
+
+
+                                     APPROVED:
+                                                               Jeff Sil#estrini,         Mayor
+
+
+
+                                        Attest:                E5an,Recorder
+ Introduction:
+
+ On behalf        of our neighborhood,              we respectfully             submit      this petition      to reiterate      our perspectives,
+
+ propose        necessary        amendments             to Ordinance         19.87,      and request           the imposition         of reasonable
+
+ conditions       should       the special      use permit         for the property           at 827 E 4280             S be granted.         We also
+
+ ask that this statement               be put on the record              for this meeting.
+
+
+
+We have         recently       been    made      aware      that the property            owners        at 827 E 4280          S have         reapplied
+
+through       an attorney        for a special          use permit       for 15 people.          We respectfully            submit    that the
+
+proposed         occupancy         of 15 individuals            in a facility     of this size raises           significant     concerns            about
+
+the adequacy           of space        and the potential           for heightened            stress     and relapse         among       residents.
+
+Overcrowding            in such facilities        can exacerbate             the challenges            faced     by individuals         in recovery,
+
+undermining           the therapeutic          environment          necessary         for their       rehabilitation.       Furthermore,            the
+
+proposed         occupancy         exceeds       what      is reasonable          for the property,          suggesting         that the
+
+accommodation              may not align with the intent                  of ADA,        which     is to provide          reasonable,         not
+
+excessive,        accommodations.
+
+
+
+We urge         the city       of Millcreek       to fight       back     against        individuals         and    organizations              that         use
+
+ADA       accommodations                as a loophole             to make        a profit      at the expense             of disabled
+
+individuals         and     communities.
+
+
+Currently,       the existing         legal framework           creates      opportunities         for the operation            of group       homes
+
+that may not prioritize             the best interests            of disabled       individuals.         The laws and ordinances                       in
+
+Millcreek,       as well    as in other        cities    across     Utah,       lack the necessary             protections       to prevent            the
+
+potential       exploitation      of individuals         with disabilities.         As the law stands,             investors       can purchase
+
+real estate       and establish         group      homes        in locations       that may be unsuitable,                  leading     to
+
+overcrowded           conditions        that do not serve           the needs         of the residents.           This     practice     not only
+
+undermines          the intent      of zoning      laws      but also disrupts           the character          of residential
+
+neighborhoods             by introducing        commercial           operations          into areas       where     they do not belong.
+
+
+The responsibility             for determining          the appropriateness               of these      group      homes       currently       falls
+
+heavily      on municipalities.          However,          we have        observed        that the city of Millcreek             and similar
+
+jurisdictions       are often      reluctant      to deny       permit      requests        due to the fear of facing              discrimination
+
+claims.      This has led to a situation                where     local authorities           may feel constrained               by vaguely
+
+written     laws that do not provide               clear    guidance         or adequate          safeguards.            It is imperative       that we
+
+address       these    deficiencies        to protect        both the rights          of disabled        individuals        and the integrity               of
+our communities.               We also understand                  that the definition           of discriminatory           acts is largely
+
+determined          by what       kind of precedent             a city sets for special              circumstances.            We ask that
+
+Millcreek        stands     firm in respecting             zoning       laws     in a way that sets a precedent                    for defining         what
+
+a reasonable           accommodation              is for future         circumstances.
+
+
+The current           legal framework           lacks      sufficient     specificity        to balance         the rights     of disabled
+
+individuals       with the rights         of homeowners                 to maintain         the integrity       of their neighborhoods.                 We
+
+propose         that clearer      standards         be established              to protect       both the rights          of disabled       individuals
+
+and the character              of residential       zones,         ensuring       that any reasonable               accommodations               are
+
+genuinely         necessary        and not exploitable                by entities       with    profit-driven       motives.
+
+
+There      is currently        insufficient      language            in the laws     stating      what      a reasonable           accommodation               is.
+
+Based       on our experience,            the above           mentioned           individuals       felt they      could     put a recovery
+
+residence         in our neighborhood              with little to no push               back from        city zoning        laws even        though       this
+
+location      is probably        one of the least suited                 locations       in Millcreek       for a large       group      home.     This
+
+illustrates      the need for more              specific      parameters           for where       a recovery         residence         can be located.
+
+Millcreek       should      not be copying           laws from          other     cities.    We have         unique       characteristics        that
+
+require       ordinances        created       specifically         for our city. Some            examples         of these      characteristics
+
+include       areas    with:    narrow        streets,      inadequate          sidewalks,        and no street           lamps.    We feel that
+
+these      characteristics         make       certain      parts      of Millcreek       unsuitable         for businesses          such     as group
+
+homes.        We are here to start the process                        for amending             ordinance      19.87       to provide     more
+
+clarification      and better        protections           for disabled         individuals       and single-family            zoned
+
+neighborhoods.
+
+
+
+
+Proposed           Amendments                   to Ordinance              19.87:
+
+A. Safety        and Accessibility:
+
+1. Adequate            Sidewalks:         All group         homes        must     be located        in areas      with accessible           sidewalks
+
+connecting         to all major       thoroughfares.            This     is essential          to ensure      safe passage           for residents,
+
+especially        those     with disabilities,           and to comply           with ADA         standards.
+
+
+
+2. Street       Lighting:        Mandate         street     lights     on all corners          between       the facility     and major
+
+thoroughfares,            as well as directly             in front    of the facility,       to enhance          safety    for residents        and the
+
+community.
+B. Infrastructure               to Support          Increased           Traffic:
+
+1. Road        Shoulders:             Require       adequate       road shoulders              near the facility         to accommodate
+
+increased        traffic,     including        visitors,    deliveries,       and emergency               services.
+
+
+
+2. Speed        Bumps           and    Caution        "Kids      at Play"          Signs:      In areas       with children,         require       the
+
+installation      of speed         bumps        to protect       both residents             and the local        community           from the dangers
+
+of increased         traffic.
+
+
+
+C. Proximity            to Major        Thoroughfares:
+
+1. Location         Criteria:         Establish       that group         homes       must      be within       five houses         of a major
+
+thoroughfare,           minimizing        traffic     impacts      on residential            streets     and ensuring            better    access        to
+
+public     services.
+
+
+
+
+D. Language             defining        "operation            costs"      We feel it necessary                to point       out that operating               costs
+
+are very       subjective         and the city of Millcreek                is not responsible             for granting         allowances           for people
+
+who      make     poor investment               choices       or have      elevated         profit    projections.       Operating         costs       should
+
+also be more            clearly    defined        under     a reasonable             accommodation.                 This would         protect      against
+
+unreasonable            occupancy          requests         and would         likely    encourage            good    faith    actors      trying     to do
+
+genuine        social    work      and discourage              unethical       or inhumane             profit-driven         practices.
+
+
+E. We propose               that a special         use permit          application       must        be approved         prior to any construction
+
+for a group       home.         The application            would       be complete           with    plans     for projected         renovations.
+
+Operations        cannot          commence          until a post inspection                 is completed         to ensure         plans     are carried
+
+out and codes            have      been    met. This would               ensure        that anyone         purchasing          a property          for this
+
+purpose        will not waste          time or money            on unnecessary                renovations        to accommodate                  a group
+
+home.       We propose             a six month         penalty     if a property            is caught      doing       renovations         prior to
+
+obtaining       a permit        before    they would           be allowed          to reapply.
+
+
+
+While     it is important          to comply        with federal         mandates           requiring        reasonable         accommodation                 for
+
+disabled       individuals,        it is equally       important         to ensure          that the integration             of these     facilities     into
+
+residential      neighborhoods             is done         thoughtfully        and with        consideration           for the existing
+
+community.         By adding           these     specific      requirements            to the ordinance,             the city can better             balance
+
+the needs        of disabled          residents       with the legitimate              concerns         of the broader           community.            This
+approach        would       al(ow for the successfuJ                 inclusion      of these       facilities      in residential      areas     while
+
+mitigating       potential        negative        impacts.
+
+Amending         the ordinance            to inc!ude         these     specific     criteria     would      not only improve           the safety        and
+
+accessibility       of residential           facilities     for persons        with disabilities          but also ensure           that their
+
+integration       into neighborhoods                 is done        in a way that is respectful                 of the existing      community.
+
+These       changes        would       provide      clear     guidelines       for both the city and applicants,                    helping      to
+
+prevent       conflicts      and ensuring           that the needs            of all residents        are met. It would             also prevent
+
+situations      such       as ours in which               an organization         purchases         a property         in a single-family         zoned
+
+area,    fully expecting           to get the maximum                 amount        of profit    from     it only to be denied          for their
+
+projected       income.          Investors      who       are truly trying        to create      reputable         and successful        recovery
+
+programs        would       greatly      benefit      from     clearly    written     laws that outline             appropriate       locations        for
+
+reasonable         accommodations.
+
+
+
+Have      the other        locations      in Millcreek         been      investigated          for legitimacy?         We were       told by
+
+Courtney        Averett      herself     that she runs recovery                   residences        all over the valley.            We found          nine
+
+different     locations          associated        with the LevelUp            Recovery          LLC.       To this date,     we have          been      told
+
+by Salt Lake City officials                  that the locations          there      do not have          any reports        of being    a recovery
+
+residence.        We respectfully             request        that the city exercise             its legal       authqrity   to investigate        whether
+
+the identified       locations         associated           with    LevelUp       Recovery        LLC are operating               in compliance          with
+
+all applicable        licensing        and zoning           laws.    Should       these    properties           be found    to be operating
+
+unlicensed        recovery         residences,            we urge the city to take              appropriate          law enforcement           actions          to
+ensure       compliance           and protect         the welfare        of both residents            and the community.
+
+
+
+                          Locations          of Homes          For LevelUp            Recovery          LLC:
+
+
+
+                          Millcreek
+
+                          865 E 4125          S
+
+                          Cottonwood              Heights
+
+                          3145     E Creek        Rd
+
+                          Salt    Lake    City
+
+                          408 E 600 S
+
+                          410 E 600 S
+
+                          308 E 900 S
+
+                          1093     S 900 E
+                        1095     S 900 E
+
+                         2721    S Aldean        St
+
+                         910EYaleAve
+
+
+
+Should      the special         use permit       be granted,           we request        the following         conditions        be imposed          to
+
+safeguard        public     safety,    maintain        neighborhood               character,     and ensure         the accommodation
+
+remains       reasonable         and appropriate            under       the ADA:
+
+     *      Condition       on Offenders:          Prohibit         violent    felons    or sexual      offenders         from    residing     at the
+
+            facility,   given    the increased           traffic     and interaction           with vulnerable         community         members.
+
+     *      Parole/Probation           Officers:        Restrict      occupants         from     requiring      regular     visits   from
+
+            parole/probation          officers        to minimize        traffic     impacts     and maintain          the residential         nature           of
+
+            the area.
+
+     *      Parking:      Enforce      a no street-side              parking       rule to prevent      traffic    congestion         and ensure
+
+            safe access         for emergency            services.
+
+     *      Occupancy           Limitations:       Limit occupancy                to one resident       per bedroom           to prevent
+
+            overcrowding.
+
+     *      Smoking        Restrictions:        Prohibit      smoking          within    25 feet of the property             line to protect         the
+
+            health      of neighboring         residents,          particularly      those     with medical        conditions.
+
+     *      Fencing       Requirements:           Require          an 6-foot       minimum        opaque       fence      to maintain        privacy
+
+            and mitigate         any visual      or noise          impacts        on the surrounding           community.
+
+In conclusion,          we believe      that the proposed                amendments             to Ordinance        19.87        and the conditions
+
+on the special          use permit      are necessary               to ensure       that the integration          of residential        facilities        for
+
+disabled      individuals       is conducted           in a manner            that respects       both the rights          of these     individuals
+
+and the character           of our neighborhoods.                   We urge the city council                 to consider      these     proposals
+
+carefully     and to take action           that reflects           the best interests           of all residents.
+

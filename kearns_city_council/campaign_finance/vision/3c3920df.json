@@ -1,0 +1,83 @@
+{
+  "contributions": [
+    {
+      "date": "4-11-16",
+      "name": "Salt Lake Board of Realtors",
+      "amount": "2500.00",
+      "in_kind": false
+    },
+    {
+      "date": "1-12-16",
+      "name": "Steve Perry",
+      "amount": "150.00",
+      "in_kind": false
+    },
+    {
+      "date": "5-17-16",
+      "name": "Reagan Sign Company",
+      "amount": "100.00",
+      "in_kind": false
+    },
+    {
+      "date": "5-16-16",
+      "name": "UAR. In kind contribution Voter Data",
+      "amount": "130.00",
+      "in_kind": true
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "3-8-16",
+      "recipient": "S.L. County Clerk",
+      "purpose": "Elections filing",
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "3-21-16",
+      "recipient": "Office Max",
+      "purpose": "Paper, printing, cutting",
+      "amount": "64.71",
+      "in_kind": false
+    },
+    {
+      "date": "5-3-16",
+      "recipient": "Renaissance Signs",
+      "purpose": "Campaign Signs",
+      "amount": "886.86",
+      "in_kind": false
+    },
+    {
+      "date": "6-7-16",
+      "recipient": "Renaissance Signs",
+      "purpose": "Campaign Post cards, Postage",
+      "amount": "1,103.72",
+      "in_kind": false
+    },
+    {
+      "date": "5-15-16",
+      "recipient": "UAR in kind contribution Voter Data",
+      "purpose": "Voter Data",
+      "amount": "130.00",
+      "in_kind": true
+    }
+  ],
+  "total_contributions": "2880.00",
+  "total_expenditures": "2235.29",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "644.71",
+  "_meta": {
+    "index_path": "raw/2016june_steve_perry_trip_kearns_3_fixed.pdf",
+    "candidate": "Steve Perry",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "Pre-primary interim (June)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016june_steve_perry_trip_kearns_3_fixed.pdf",
+    "pages": 4
+  },
+  "_notes": "June 21 box checked; date of report 6-20-16. Filename token 'trip' but this '_fixed' PDF contains ONE report (cover + Summary pg1of3 + Itemized Contributions pg2of3 + Itemized Expenditures pg3of3); transcribed once. Contains an in-kind pair: UAR voter-data $130.00 appears as both a contribution and an expenditure (in_kind=true on both). Contributions subtotal/total 2880.00; Expenditures subtotal 2235.29 (TOTAL box blank). Line7 close 644.71 = prior-report beginning balance of the Nov filing (cross-checks)."
+}

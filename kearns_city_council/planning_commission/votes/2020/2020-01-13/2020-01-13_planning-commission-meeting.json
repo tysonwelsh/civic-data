@@ -1,0 +1,100 @@
+{
+ "date": "2020-01-13",
+ "year": 2020,
+ "title": "Planning Commission Meeting",
+ "file_body": "PlanningCommission",
+ "present": [],
+ "source": "minutes/2020/2020-01-13/2020-01-13_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "To nominate Commissioner Wellman for Chair, Commissioner Wellman accepted.",
+   "body": "PlanningCommission",
+   "motion_type": "Appointment",
+   "result": "unanimous in favor Pass",
+   "mover": "Hatch",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "To approve minutes from the November 18, 2019 meeting as presented.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Wellman",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "To preliminarily approve application #30865 with staff recommendations and two conditions: 1. Applicant to comply with the County Engineering requirements for the Traffic Impact Study. 2. Applicant to comply with all Staff and Agency Reviewers requirements, applicable laws, and regulations.",
+   "body": "PlanningCommission",
+   "motion_type": "Ceremonial",
+   "result": "Pass (nay: Hatch)",
+   "mover": "Nelson",
+   "seconder": "Wellman",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [
+    "Hatch"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "To continue to March 9th meeting.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Hatch",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  }
+ ]
+}

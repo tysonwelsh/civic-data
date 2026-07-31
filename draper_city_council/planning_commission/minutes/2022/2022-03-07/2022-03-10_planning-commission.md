@@ -1,0 +1,450 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=560&doc_id=7cfbc2e5-c0c2-11ec-a5da-0050569183fa
+> Meeting date: 2022-03-10
+> Format: text
+
+Minutes approved 04/14/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, MARCH 10, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Chairman Andrew Adams, Vice Chairman Craig Hawker, Commissioners
+                     Lisa Fowler, John Van Hoff and Alternate Commissioners Susan Nixon
+                     Tab Bingham and DeLaina Tonks
+
+ABSENT:              Commissioner Mary Squire
+
+
+STAFF PRESENT:       Jennifer Jastremsky, Amie Salazar, Fred Aegerter, Mike Barker, Spencer
+                     DuShane, Brien Maxfield, Todd Draper, Maryann Pickering and Fire
+                     Marshal Don Buckley
+
+6:30 PM Business Meeting:
+
+
+   1.     Action Item: Approve Planning Commission Meeting Minutes for March 10, 2022
+          (Administrative Action)
+
+          Motion: Commissioner Tonks made a motion to approve the Draper City
+          Planning Committee Meeting Minutes for March 10, 2022 with a few minor
+          changes to provide consistency in titles, “chair” to “chairman” used in the
+          minutes.
+
+          Second: Commissioner Fowler
+
+
+          Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+             motion Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted
+             “Aye”.
+
+   2.     Public Hearing: Edson Plat Amendment (Administrative Action)
+          On the request of Aaron Edson, for a Plat Amendment to Lot 302 Cove at Bear Canyon
+          Phase 3 subdivision, located at 12258 South Grizzly Hollow Cv., on 1.83 acres of
+          property. Applications SUBD-193-2021 and TEXTMAP-16-2022. Staff Contact is
+          Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+          Jennifer Jastremsky, Planning Manager, presented the staff report. She indicated the
+          property is located off Pioneer Rd. where it curves to the north. The property is zoned
+          RA2 which is a half-acre lot zoning. The property contains a Residential Low Medium
+          Density land use category which support ½ acre lots. The lot is located in the Cove at
+          Bear Canyon Phase III Subdivision. This subdivision is unique from others in the city
+          as there are designated no-build areas. City code does not allow for areas of 30% or
+          more slope to be developed. The applicant is requesting to modify the no build area on
+          their lot and to impact the drainage easements on the lot. There is a 30 wide drainage
+Draper City Planning Commission Meeting
+March 10, 2022
+          easement running through the center of the lot to a detention basin on lots 302 and 301.
+          The majority of the buildable area is on the east side of the lot. They will not impact
+          the detention pond but will create channels along the property to reroute the drainage
+          around the center of the property to create a centrally located pad. They want to reduce
+          the no-build area on the property within the north and will create a new no-build area
+          based on the new grading proposal.
+
+          She overviewed the Geotech map and noted areas on the property and indicated areas
+          on the site that are not buildable. The proposal will allow a place for the driveway to
+          access the center of their property. She pointed out other areas in the subdivision that
+          have received deviations. She shared photos looking east from Pioneer Rd. at the
+          property. There is a steep drop off from Grizzly Hollow onto the lot.
+
+          Vice Chairman Hawker asked if there were any non-buildable areas due to vegetation.
+
+          Jennifer Jastremsky stated that it isn’t due to vegetation and it’s due to the slope. She
+          explained that the Suncrest area has several reasons why tee maybe a non-disturbance
+          area on lots, but that this subdivision is different and the no-build areas are slope based.
+
+          Commissioner Fowler asked if the re-engineering of the site for drainage will create
+          additional buildable areas.
+
+          Jennifer Jastremsky stated the driveway and home will impact the 30%+ areas denoted
+          in the site plan. The deviation will allow for this impact. She mentioned the findings
+          indicated that the commission can allow development within 30% slope areas if no
+          significant harm will result, the modifications will result in a more functional and
+          improved plan and the developer agrees to comply with any conditional requirements
+          imposed by the Planning Commission to mitigate any adverse impacts that may result
+          from the proposed modification.
+
+          Commissioner Fowler asked if the city has liability if they approve the modification
+          and something bad happens in the future.
+
+          Mike Barker, City Attorney stated no and that it would come down to proper
+          engineering.
+
+          Commissioner Squire asked what would be significant harm that they need to evaluate.
+
+          Jennifer Jastremsky stated that it would relate to hillside stability or issues with
+          drainage. There is not a definition for “significant harm” in the code. She mentioned
+          the applicant has completed a slope stability analysis and it has been determined to be
+          adequate.
+
+          Commissioner Squire asked if there is adequate drainage.
+
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+March 10, 2022
+          Eric Lundell, Staff Engineer stated that they have and drainage is provided around the
+          home. The drainage report satisfies their requirements and will not impact neighboring
+          lots.
+
+          Vice Chairman asked what is included in a drainage channel.
+
+          Eric Lundell stated they can vegetate or provide riprap. He mentioned the applicant is
+          proposing to stabilize it with vegetation.
+
+          Commissioner Nixon asked regarding fire department reviews and if the distance to the
+          detached garage is problematic.
+
+          Jennifer Jastremsky noted the fire department has reviewed the plat and will review the
+          building permit once it is submitted.
+
+          Aaron Edson, applicant, commented that they have lived in the city for seven years and
+          this is their dream home.
+
+          Chairman Adams opened the public hearing.
+
+          Joe Cook, stated he owns lot 16. He mentioned the slope between his lot and the 302
+          lot is around 30%. There is a no build area on the plat. He commented there is a trench
+          shown to be encroached upon. The geotechnical trench will steepen the 30% slope. He
+          requested that from the property T to the east that the trench be filled. He noted the
+          trench does move a little every year and would like it to be brought back to its original
+          configuration.
+
+          Chairman Adams closed the public hearing.
+
+          Commissioner Squire asked, Aaron Edson for clarification on the map, black is existing
+          grade and silver in addition to less than 20%.
+
+          Aaron Edson stated the new grade lines will erase several 30% slope areas. He noted
+          they will fill about 2500-4000 yards of dirt.
+
+          Commissioner Hawker asked if there is more that can be done to this slope than
+          proposed.
+
+          Eric Lundell, staff engineer explained this will go through the building permit process
+          and there is a lot that can be done to stabilize the slope.
+
+          Motion: Commissioner Squire motioned to approve the deviation to the 30% slope
+          area as requested by Aaron Edson, for a Plat Amendment, Application SUBD 193-
+          2021, based on the findings and subject to the conditions listed in the staff report,
+          dated March 1, 2022.
+
+
+
+
+                                                3
+Draper City Planning Commission Meeting
+March 10, 2022
+          Second: Commissioner Fowler.
+
+          Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+          motion. Commissioners Hawker, Van Hoff, Fowler, Nixon and Squire voted,
+          “Aye”.
+
+          Motion: Commissioner Van Hoff motioned to approve the plat amendment as
+          requested by Aaron Edson, for the Edson Plat Amendment, Application SUBD
+          193-2021, based on the findings and subject to the conditions listed in the staff
+          report, dated March 1, 2022.
+
+          Second: Commissioner Fowler.
+
+          Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+          motion. Commissioners Hawker, Van Hoff, Fowler, Nixon and Squire voted,
+          “Aye”.
+
+   3.     Public Hearing: Kum and Go Site Plan (Administrative Action)
+
+          On the request of Nathan Abbott, representing Galloway & Co. Inc. for Site Plan on
+          2.3 acres of property located at 137 West 12300 South in order to develop a
+          convenience store and gasoline station. Application SPR-132-2021. Staff Contact is
+          Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+          Jennifer Jastremsky presented the staff report. She mentioned that the property is on
+          the corner of Lone Peak Parkway and 12300 South. The property is 3.65 acres in size
+          and the applicant would like to developer 2.3 acres of the overall site. The property is
+          designated Community Commercial in the General Plan and zoned Regional
+          Commercial. She showed the site plan and indicated cross access is preserved for future
+          development. The applicant is proposing to construct a Kum and Go gas station on the
+          property. The building is single story and gas pumps are located to the west. One access
+          is proposed and an additional access will be added when the rest of the site is developed.
+          Parking will be adjacent to the building. The applicant complies with parking standards.
+          There is 36% landscaping on the site. She showed elevations and mentioned 100% of
+          the exterior is a primary material including fiber cement panels, stone and aluminum
+          composite material. The canopy over the gas pumps will match the building.
+
+          Commissioner Nixon asked about access and if it will be a right-in-right-out.
+
+          Eric Lundell stated it will be full access but may be restricted in the future. This will
+          be determined by a traffic study and volumes.
+
+          Commissioner Van Hoff asked if the road will be wide enough.
+
+          Eric Lundell stated that it will match the rest of Lone Peak as a five-lane road.
+
+
+
+
+                                                4
+Draper City Planning Commission Meeting
+March 10, 2022
+          Commissioner Van Hoff asked if the level of service would be acceptable.
+
+          Eric Lundell indicated that this development will not impact the level of service. He
+          stated the city can only require improvements of half of the road. He mentioned that
+          traffic impact fees are to help will arterial road improvements.
+
+          Chairman Adams invited the applicant to speak.
+
+          Applicant Christian Michaelson stated that there is one store on Bangerter Highway
+          under construction. He stated Draper is one of the first Utah communities with a Kum
+          and Go.
+
+          Chairman Adams opened the public hearing. There were no comments. He then closed
+          the public hearing.
+
+          Motion: Commissioner Nixon motioned to approve the site plan by Nathan
+          Abbott, representing Galloway & Co. for a Come and Go Site Plan, Application
+          SPR-132-2021, based on the findings and subject to the conditions listed in the
+          staff report, dated March 1, 2022.
+
+          Second: Commissioner Hawker
+
+          Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the
+          motion. Commissioners Hawker, Van Hoff, Fowler, Nixon and Squire voted,
+          “Aye”.
+
+4.    Public Hearing: Boondocks Addition Site Plan Amendment (Administrative Action)
+
+      On the request of Randy Fullmer, representing Boondocks Food and Fun Draper and BDU
+      Property, LLC, a Site Plan Amendment together with deviation requests from building
+      design standards, to expand the existing building to add a bowling alley, add an outdoor
+      climbing structure, and to make adjustments to the parking layout and landscaping, 8.5
+      acres, 75 E. Southfork Dr., Application SPR-0148-2021, Staff Contact: Todd Draper,(801)
+      576-6335, todd.draper@draperutah.gov.
+
+      Todd Draper, Planner presented the staff report. He indicated the property is designated as
+      Regional Commercial in the Land Use map and zoned Regional Commercial. He showed
+      the site plan and noted the addition is about 13,800 square feet on the north end of the
+      building to accommodate a bowling alley. The Delicate Arch style climbing structure will
+      be removed and replaced with a smaller scale climbing structure. He explained that the
+      exterior of the building contains primary materials but they are requesting a deviation to
+      the percentage required under the code. The building is tilt-up concrete and the addition is
+      proposed to match materialistically. Another deviation being requested is for the horizontal
+      façade change and articulation. They are proposing some articulation but not at the amounts
+      required under the ordinance. The site will see a reduction in parking from 264 spaces to
+      253 spaces. They will still remain compliant with city code.
+
+
+
+                                               5
+Draper City Planning Commission Meeting
+March 10, 2022
+
+
+      He showed the floor plan and noted the location of the bowling alley. He mentioned the
+      façade changes and where metal panels will be located. The climbing structure will be
+      placed in the location where the delicate arch structure is currently existing. He showed the
+      plans and rendering of the climbing structure. He explained the changes to the landscaping
+      and mentioned the perimeter boundary landscaping on the north will be upgraded. He
+      presented site photos and aerial photos of the property illustrating current site conditions.
+      He mentioned there was one public comment received and provided to the Commissioners.
+
+      Commissioner Nixon expressed interest in the LEED Certification of the building.
+
+      Commissioner Hawker asked if there is an addition does it require compliance with the
+      current code.
+
+      Todd Draper responded affirmatively and mentioned the extension can be considered in
+      compliance with current code if the deviation is approved.
+
+      Commissioner Squire asked if the code was different when the site was originally
+      constructed.
+
+      Todd Draper replied that it was different and allowances for deviations have change. He
+      then showed the residential areas surrounding the site to the south and east. Storage is
+      located to the north and office building are to the southwest. Interstate 15 is also adjacent
+      to the property on the west.
+
+      Chairman Adams invited the applicant to speak.
+
+      Donald Kiley with K&E Architecture stated he is representing Boondocks. He stated they
+      were not the original architects for the property. They wanted to elaborate the current
+      panels that are in place. He presented a PowerPoint of the proposed design. He mentioned
+      the canopy will be replaced with an airlock vestibule. They are going to use tilt-up concrete
+      and have tried to be compliant with code as much as possible. He indicated they will add
+      decorative treatments to all sides of the building. The rear of the building will have added
+      color and paint. He commented that a ropes course will be added. The event rooms will
+      remain and will have some modified finishes. He showed the alterations for the interior
+      and commented they are trying to make the space feel more inviting. He overviewed
+      renderings of the property and showed a digital fly-thru video of the concept.
+
+      Damon Day, Owner of the company stated that they built the facility in 2004 and the
+      concerns at that time were surrounding noise of the go carts. They completed noise studies
+      and found that the noise generated from I-15 was much greater. The owner of the
+      ministorage complained that there were noise issues during graduation nights. They
+      decided to close the batting cages at 10 pm and they discontinued using the PA system
+      during late night events.
+
+
+
+
+                                               6
+Draper City Planning Commission Meeting
+March 10, 2022
+      Commissioner Square asked if they have a way to notify neighbors of upcoming late-night
+      events.
+      Mr. Day stated they do have the ability to do this. He stated the batting cages are going
+      away and there is not as much demand for this. He indicated the bowling is projected to do
+      well as they focus on group activities.
+
+      Chairman Adams opened the public hearing.
+
+      Robert Barton stated he is in favor of the modifications.
+
+      Chairman Adams closed the public hearing.
+
+      Todd Draper clarified that the building is not LEED Certified. He clarified that this request
+      is just an amendment to the site plan and not the conditional use permit.
+
+      Motion: Commissioner Hawker motioned to approve the deviation request for the
+      minimum architectural façade articulation as requested by Randy Fullmer,
+      representing Boondocks Food and Fun Draper and BDU Property, LLC for
+      Boondocks addition site plan amendment, Application SPR-0148-2021, based on the
+      findings and subject to the conditions listed in the staff report, dated February 28,
+      2022.
+
+      Second: Commissioner Fowler
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion
+            Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted “Aye”.
+
+
+      Motion: Commissioner Squire motioned to approve the deviation request for roof
+      line and parapet deviations as requested by Randy Fullmer, representing Boondocks
+      Food and Fun Draper and BDU Property, LLC for Boondocks addition site plan
+      amendment, Application SPR-0148-2021, based on the findings and subject to the
+      conditions listed in the staff report, dated February 28, 2022.
+
+      Second: Commissioner Hawker
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion
+            Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted “Aye”.
+
+      Motion: Commissioner Van Hoff motioned to approve the deviation request for
+      material requirements as requested by Randy Fullmer, representing Boondocks Food
+      and Fun Draper and BDU Property, LLC for Boondocks addition site plan
+      amendment, Application SPR-0148-2021, based on the findings and subject to the
+      conditions listed in the staff report, dated February 28, 2022.
+
+      Second: Commissioner Fowler
+
+
+
+                                               7
+Draper City Planning Commission Meeting
+March 10, 2022
+
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion
+            Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted “Aye”.
+
+      Motion: Commissioner Fowler motioned to approve the site plan amendment as
+      requested by Randy Fullmer, representing Boondocks Food and Fun Draper and
+      BDU Property, LLC for Boondocks addition site plan amendment, Application SPR-
+      0148-2021, based on the findings and subject to the conditions listed in the staff
+      report, dated February 28, 2022.
+
+      Second: Commissioner Squire
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion
+            Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted “Aye”.
+
+
+5.    Public Hearing: Upside Down Ambo Home Occupation Conditional Use Permit
+      (Administrative Action)
+
+      On the request of Amber Colton for a Home Occupation Conditional Use Permit in order
+      to operate a personal instruction business out of her home at 537 East Ports Cv., on 2.3
+      acres of property. Application number USE-20-2022. Staff Contact is Jennifer Jastremsky,
+      801-576-6328, Jennifer.jastremsky@draperutah.gov.
+
+      Ms. Jastremsky presented the staff report. She noted the property is off Highland Drive and
+      located in the Medium Density land use designation. The property is zoned C2,
+      Commercial. Originally this property was planned for commercial uses and it was not
+      rezoned when the development agreement was modified to allow residential uses. The
+      applicant is proposing a home gym where she will provide training and nutritional coaching
+      to clients within the basement of the home. Clients will park on the driveway and walk
+      around to the rear of the home into the basement. The hours of operation are from 6:30 AM
+      to 8:00 PM Monday through Thursday; 6:30 AM to 4:00 PM on Fridays, and 8:00 AM to
+      10:00 AM on Saturdays. Clients will be by appointment only and limited to one client at a
+      time. The driveway has room for three vehicles which provide adequate space for clients.
+
+      Commissioner Squire asked if there is a walkway for clients walking from the driveway to
+      the rear yard.
+
+      Jennifer Jastremsky stated there is nothing in the zoning code requiring this. When she
+      comes in for a business license, she will have to meet those requirements.
+
+      Commissioner Nixon asked regarding the non-conforming use of the property since it is
+      zoned commercial and used residentially.
+
+      Jennifer Jastremsky stated that it is legally conforming since there is a development
+      agreement which allows the use.
+
+
+
+                                               8
+Draper City Planning Commission Meeting
+March 10, 2022
+      Chairman Adams opened the public hearing.
+
+      Rebecca Barton stated she lives five houses from the applicant and is in favor of it. She
+      indicated there is a walkway connecting the driveway to the basement. She indicated that
+      cars are kept off the street.
+
+      Chairman Adams closed the public hearing.
+
+      Motion: Commissioner Hawker motioned to approve the home occupational
+      conditional use permit as requested by Amber Colton for Upside Down Ambo,
+      Application USE-20-2022, based on the findings and subject to the conditions listed
+      in the staff report, dated February 25, 2022.
+
+      Second: Commissioner Squire
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion
+            Commissioners Hawker, Squire, Van Hoff, Fowler and Nixon voted “Aye”.
+
+      Jennifer Jastremsky let the Commissioners know that the new Community Development
+      Director will be starting on Monday, March 14, 2022.
+
+6.    Adjournment
+
+      Commissioner Fowler made a motion to adjourn the meeting. All were in favor.
+
+      The meeting adjourned at 7:53p.m.
+
+
+
+
+                                              9
+

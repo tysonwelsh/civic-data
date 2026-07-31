@@ -1,0 +1,15 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+294,530,City Council,yes,meeting_minutes,,pm4,2020-01-01,recon id 530 re-derived + confirmed via the global entity chain
+294,531,Planning Commission,yes,planning_commission,,pm4,2020-01-01,
+294,2598,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,"in-session RDA rides council doc (all_votes body=RDA); 63 standalone RDA minutes recovered into pmn_backfill/index.csv (43 in 2026-07-05 + 20 oversize-deferred fetched uncapped 2026-07-19; all promoted, provenance=pmn_minutes). Oversize RDA family fully resolved 2026-07-19 (20 net-new + 8 duplicate-not-promoted); see oversize_rda_ledger.csv"
+294,6751,Administrative Law Judge/Hearing Officer,no,,,,,not a minutes-producing deliberative body
+294,8139,ARCH Commission,no,,,,,out of scope
+294,6178,Board of Appeals - Building Department,no,,,,,out of scope
+294,8137,Communities That Care Commission,no,,,,,out of scope
+294,8517,Development Review Committee,no,,,,,out of scope
+294,7359,Ordinance and Resolution Passage,no,,,,,"administrative posting body, not meetings"
+294,7323,Public Notices,no,,,,,administrative posting body
+294,7795,Resolutions,no,,,,,administrative posting body
+294,7057,Vineyard Bicycle Advisory Commission,no,,,,,out of scope
+294,8133,Vineyard Library Board,no,,,,,out of scope
+294,8313,Youth Council,no,,,,,out of scope

@@ -1,0 +1,2164 @@
+EMISSIONS ANALYSIS REPORT
+MOUNTAINLAND MPO
+
+TransPlan50
+2050 Regional Transportation Plan
+
+Amended June 6, 2024
+Mountainland MPO
+586 East 800 North
+Orem, Utah 84097-4146
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+TERMS AND ABBREVIATIONS
+CAA
+CFR
+CMAQ
+CO
+BIL Act
+GPI
+HDDV
+HOV
+HPMS
+I/M
+LDGV
+LDGT1
+LDGT2
+LEV
+MOVES
+MPO
+RTP
+NAAQS
+NEPA
+NOx
+OBD
+O3
+PM10
+PM2.5
+REMM
+RFG
+RVP
+SIP
+STIP
+TCM
+TDM
+TIP
+VMT
+
+Clean Air Act
+Code of Federal Regulations
+Congestion Mitigation and Air Quality
+Carbon Monoxide
+Bipartisan Infrastructure Investment and Jobs Act of 2021
+Kem C. Gardner Policy Institute
+Heavy Duty Diesel Vehicle (8501 lbs. and heavier gross vehicle weight)
+High Occupancy Vehicle
+Highway Performance Monitoring System
+Inspection and Maintenance
+Light Duty Gas Vehicle (0-6000 lbs. gross vehicle weight)
+Light Duty Gas Truck 1 (0-6,000 lbs. Gross vehicle weight)
+Light Duty Gas Truck 2 (6,001-8,500 lbs. Gross vehicle weight)
+Low Emission Vehicle
+Motor Vehicle Emission Simulator
+Metropolitan Planning Organization
+Regional Transportation Plan
+National Ambient Air Quality Standards
+National Environmental Policy Act
+Oxides of Nitrogen
+On Board Diagnostics
+OZONE
+Particulate matter smaller than or equal to 10 microns
+Particulate matter smaller than or equal to 2.5 microns
+Real Estate Market Model
+Reformulated Gasoline
+Reid Vapor Pressure
+State Implementation Plan
+State Transportation Improvement Program
+Transportation Control Measures
+Transportation Demand Management
+Transportation Improvement Program
+Vehicle Miles Traveled
+
+AGENCIES
+MAG
+DAQ
+EPA
+FHWA
+FTA
+UDOT
+UTA
+WFRC
+CMPO
+DWS
+
+Mountainland Association of Governments
+Division of Air Quality
+Environmental Protection Agency
+Federal Highway Administration
+Federal Transit Administration
+Utah Department of Transportation
+Utah Transit Authority
+Wasatch Front Regional Council
+Cache MPO
+Department of Workforce Services
+
+1 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+TABLE OF CONTENTS
+MAG MPO Board Resolution Adopting MAG TransPlan50
+
+………………..3
+
+SUMMARY
+
+………………. 4
+
+APPLICABLE CONFORMITY RULES
+93.110 Latest Planning Assumptions
+I. Horizon Years
+II. Socio-Economic Forecasts
+III. Regional Travel Demand Model
+
+………..…….. 7
+...………….... 8
+
+93.111
+Latest Emission Model
+MOVES and AP-42 2011 Edition- Chapter 13 – Paved Roads
+
+………………..26
+
+93.112
+
+………………..29
+
+Consultation
+
+WFRC & MAG Regional Travel
+Model DAQ / MAG Emission Input
+Parameters Clean Air Agencies
+Consultation
+93.113
+
+Transportation Control Measures
+
+………………..31
+
+Transit Improvements
+93.118
+
+EMISSION BUDGETS
+
+………………..33
+
+Utah County PM10
+Analysis Results & Conformity Determination
+
+………………..34
+
+Utah County PM2.5
+Analysis Results & Conformity Determination
+
+………………..36
+
+Utah County Ozone
+Analysis Results & Conformity Determination
+
+………………..38
+
+Provo City CO
+Conformity Determination
+
+………………..39
+
+2 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+3 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+EMISSIONS ANALYSIS REPORT
+MAG TransPlan50
+SUMMARY
+This report is the new Conformity Determination for MAG TransPlan50
+As the MPO, MAG is responsible for developing, producing, and adopting the
+Metropolitan Transportation Plan (MTP), TIP, and the Unified Planning Work
+Program (UPWP). MAG has the responsibility to ensure that the MAG
+TransPlan50 for the Utah Valley urbanized area conforms to the air quality
+requirements of the State Implementation Plan (SIP) and the Environmental
+Protection Agency (EPA) budget and interim emissions tests for all pollutants in
+non-attainment or maintenance areas (40 CFR 93.118 and 40 CFR 93.119). This
+responsibility will be fulfilled when the MAG MPO Board approves the
+Conformity Determination Report. Federal Highway Administration (FHWA) and
+Federal Transit Administration (FTA) review this document in consultation with
+the EPA to ensure that all relevant planning regulations have been adequately
+addressed.
+"Under 23 CFR Part 450 and the BIL Act, federally funded projects cannot be
+approved, funded, advanced through the planning process, or implemented
+unless those projects are in a Fiscally Constrained and Conforming
+Transportation Plan and Transportation Improvement Program."
+TRANSPORTATION CONFORMITY
+A Basic Guide for State and Local Officials United States Department of
+Transportation (US-DOT)
+This report updates the conformity analysis and describes the changes made to
+the travel model transportation networks.
+Approval of these documents by FHWA and FTA allows the policies, programs,
+and projects to be implemented using Federal Funding.
+All assumptions used in this determination report were found to be consistent
+with federal regulations at various stages of the development of MAG
+TransPlan50.
+4 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY NON-ATTAINMENT AND MAINTENANCE AREAS MAP
+
+Provo City is designated as a Maintenance Area for Carbon Monoxide. Utah
+County is designated as a maintenance area for PM10, and the Urbanized area
+of Utah County is a non-attainment area for 2006 PM2.5 (pending the EPA’s
+approval of the Maintenance Plan) and marginal non-attainment for 2015
+Ozone.
+
+5 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+CONFORMITY TESTS
+Conformity Analysis Tests Table summarizes the specific quantitative
+conformity tests required by the conformity rules based on the SIP for each
+non-attainment or maintenance area pollutant in the MAG area.
+Effective March 27, 2020, Utah County was redesignated as a maintenance
+area for PM10 with the associated Maintenance Plan and 2030 NOx and PM10
+Motor Vehicle Emissions Budgets.
+Effective July 13, 2020, Provo City entered its 2nd 10-year Carbon Monoxide
+(CO) maintenance plan. This plan follows the provisions/requirements of the
+CO Limited Maintenance Plan (LMP) Policy. The CO LMP does not require a
+regional emissions test for a conformity determination. Other transportation
+conformity aspects, such as consultation, fiscal constraint, and hot spot
+analysis, still apply. According to the EPA, “… it is unreasonable to expect that
+an LMP area will experience so much growth in that period that a violation of
+the CO NAAQS would result. Therefore, for the Provo CO maintenance area, all
+actions that require conformity determinations for CO under our conformity
+rule provisions are considered to have already satisfied the regional emissions
+analysis and “budget test” requirements in 40 CFR 93.118.”
+Effective May 10, 2019, Utah County was declared a Clean Data PM2.5
+non-attainment area. In collaboration with stakeholders, the State is required
+to prepare a PM2.5 Maintenance Plan. Until the EPA approves the plan, the
+MPO is required to perform interim conformity tests for the 2006 PM2.5
+non-attainment area. The EPA proposed an approval of Utah’s PM2.5 SIP with
+the associated Maintenance Plan and 2034 emissions budgets in the Federal
+Register on November 6, 2020. Still, these have yet to be formally approved by
+the EPA. MAG will continue to use the interim emissions tests until the SIP and
+associated mobile emissions budget are approved.
+Effective August 3, 2018, Utah County was declared a Marginal OZONE
+non-attainment area with the requirement to perform an interim conformity test for
+the 2015 Ozone non-attainment area. Effective November 7, 2022, EPA determined
+that the Southern Wasatch Front marginal area (MAG) attained the standards by the
+August 3, 2021 applicable attainment date. After the State submits a Limited
+Maintenance Plan for the Southern Wasatch Front, MAG will only be required to
+complete a qualitative conformity assessment for ozone. MAG will continue to use the
+6 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+interim emissions tests until the SIP and associated mobile emissions budget are
+approved. The TDM excludes portions of the county not in the Ozone Non-Attainment
+area.
+CONFORMITY ANALYSIS TESTS
+Area
+
+Non-attainment and
+SIP Status
+
+Provo CO
+
+Approved Maintenance
+SIP
+
+Utah
+County PM
+10
+
+Approved
+Maintenance SIP
+
+Utah
+
+Attained in 2021
+
+County
+
+(Limited
+
+Ozone
+
+Maintenance SIP
+
+Pollutants
+
+Test Period
+
+Quantitative
+Tests
+
+Limited
+CO
+
+Maintenance
+
+None
+
+Plan
+NOX
+precursor
+Direct PM10
+NOX
+precursor
+VOC precursor
+
+Maintenance
+Plan
+
+Interim Test
+
+Emissions
+Budget
+
+Build ≤ 2017
+
+Pending)
+Utah
+
+2006 PM2.5
+
+County PM
+
+Non-Attainment
+
+2.5
+
+(Maintenance SIP
+Pending)
+
+NOX
+precursor
+VOC precursor
+Direct PM2.5
+
+Build < No
+Interim Test
+
+Build Or Build
+≤ 2008
+
+The conformity rules outline specific analysis requirements that
+non-attainment areas must follow depending on the severity of the
+non-attainment problem and the time frame established by the Clean Air Act
+to maintain National Ambient Air Quality Standards.
+The following list describes the appropriate subsections of 40 CFR Part 93 the plan
+must meet:
+● 93.110 – Latest Planning Assumptions
+● 93.111 – Latest Emission Model
+● 93.112 – Consultation
+TransPlan50 and TIP:
+● 93.113(b) – Transportation Control Measures (RTP)
+● 93.113(c) – Transportation Control Measures (TIP)
+● 93.118 or 93.119 – Emission Budget(s) or Emission Reduction
+7 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+93.110 - LATEST PLANNING ASSUMPTIONS
+Section 93.110 of the transportation conformity rule defines the requirements
+for the most recent planning assumptions that must be in place at the time of
+the conformity determination process. The planning assumptions relate to the
+socio-economic forecasts, transit operating policies, transit capital program
+policies, transit fare policies that impact the travel demand modeling. All
+planning assumptions have been reviewed and agreed to through the
+interagency consultation process at various stages of the TransPlan50
+development.
+MAG initially ran MOVES for 2019, 2028, 2032, 2042, and 2050 with all
+needs-based projects. The results were within established budgets. The
+emissions shown in this document are based on the fiscally constrained project
+list as of April 2024.
+ANALYSIS YEARS
+Conformity must be determined for the TransPlan50 that includes the TIP in
+the non-attainment and/or maintenance areas. While other requirements of
+the Metropolitan Transportation Planning Process dictate the financial
+feasibility and related programming and planning procedures, conformity is
+based largely on analyzing specific years chosen according to the criteria found
+in under Section 93.118. The following rules have been followed to define the
+analysis years in the MAG study area:
+● Any year for which the implementation plan establishes Motor Vehicle
+Emission Budget – for PM10 2030 is a budget year under the new
+maintenance plan. For CO maintenance plan 2015 was a budget year,
+though quantitative analysis is no longer required.
+● The first horizon year must be no more than 10 years from the first year of
+the plan (2023)
+● If the attainment year (2003 for PM10, 2014 for CO, 2021 for Ozone) is in
+the time span of the transportation plan – it must be a horizon year.
+● For PM2.5 until a SIP budget is established – the baseline year is 2008
+● For PM2.5 until a SIP budget is established - The first horizon year must
+8 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+be no more than 5 years from the year of analysis.
+● For Ozone – the baseline year is 2017
+● For Ozone – The first horizon year must be no more than 5 years from
+the year of analysis until the LMP is approved.
+● Horizon years may be no more than 10 years apart.
+● The final horizon year must be the last year of the transportation plan
+and 2050 applies to all analyses.
+Conformity Analysis Years Table summarizes the proposed analysis years for
+the three non-attainment areas in the MAG modeling area.
+Conformity Analysis Years
+Area
+
+Utah County
+
+Utah County
+
+Utah County
+
+Pollutant
+
+PM10
+
+Analysis
+Year(s)
+2030
+2040
+2050
+
+PM2.5
+
+2028
+2035
+2042
+2050
+
+Ozone
+
+2028
+2032
+2042
+2050
+
+SOCIO-ECONOMIC FORECASTS
+Perhaps the single greatest influence on the magnitude of pollutant emissions
+resulting from the transportation system is the rate of growth of persons, jobs,
+households, and related socio-economic measures. The conformity rules require
+that the socio-economic inputs used in the analysis represent the latest available
+estimates. Added socio-economic variables for dwelling units, automobile
+ownership, and stratified household size are also forecast by MAG down to the
+individual traffic zone level. Due to difficulties with 2020 census data, MAG used the
+county assessor's data and American Community Survey data for the residential
+9 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+base year. For the employment base year MAG used building square foot data
+from the county assessor's data with the Department of Workforce Services (DWS)
+employment data.
+LAND USE ALLOCATIONS
+In addition to review by local municipalities,
+land use allocations feeding into the model
+were reviewed by a group of stakeholders,
+including developers, environmentalists,
+and other concerned and interested
+citizens.
+ZONAL DATA
+Travel models create a unique spatial
+framework for describing travel demand.
+The study area is subdivided into small
+geographic units called Traffic Analysis
+Zones (TAZ). The zonal systems to be used
+for this effort is a 1,311-zone system for the
+Salt Lake Area, a 428-zone system for the
+Ogden Area, and a 1,316-zone system for
+the Utah County Area. Zones are not
+bisected by census tract boundaries, thus
+each of the area's census tracts contains
+one or more TAZ.
+POPULATION & EMPLOYMENT
+Economic and demographic data by TAZ are
+estimated by Wasatch Front Regional
+Council (WFRC) and MAG using information provided by the GPI as well as
+employment data provided by the DWS. Future year projections of
+socio-economic data begin with control totals provided by the Center. They are
+the State's official demographic estimates and forecasts and are published for
+each county in the State.
+Each MPO allocates the population, households, and employment to the TAZ. The
+allocation to zones is done on the basis of local master plans and in conjunction
+10 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+with local planners. Detailed projections are made for 2020, 2030, 2040, and 2050
+and beginning in 2015. Estimates for intermediate years are not post-processed
+but do exist as raw land use model output. Household data has been stratified by
+(1) the number of persons per household and (2) by the number of vehicles used
+by the household. The model applies a set of equations to this data to calculate
+the expected number of person-trips for each household based on household
+size/number of vehicles combination totals for each TAZ.
+
+PROJECTS IN THE TIP AND PLAN
+All the projects identified in the TransPlan50 are included in the regional
+emissions analysis. The plan is fiscally constrained – containing only projects that
+are with an identified funding source. Estimated funding levels are based on
+current funding levels and reasonable assumptions that these funds will be
+continued in the future.
+Regionally Significant Projects: (40 CFR 93.101): means a transportation project
+(other than an exempt project) that is on a facility which serves regional
+transportation needs. This includes access to and from the area outside of the
+region, major activity centers in the region, major planned developments such
+11 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+as new retail malls, sport complexes, etc., or transportation terminals) and
+would normally be included in the modeling of a metropolitan area’s
+transportation network, including at a minimum all principal arterial highways
+and all fixed guide way transit facilities that offer an alternative to regional
+highway travel."
+MAG’s definition applied in the highway networks meets the EPA definition. All
+principal arterial projects and passenger rail projects are included in the regional
+travel model. Also, projects on minor arterial, collector and local transit service
+are included – therefore included in the emission analysis, even though they do
+not serve regional transportation needs as defined by EPA.
+For a complete list of the projects included in this conformity analysis, see
+https://mountainland.org/rtp2023/.
+Regionally significant projects may not proceed under a conformity lapse. This
+conformity analysis finds that the transportation plan conforms.
+
+12 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY - REGIONALLY SIGNIFICANT CORRIDORS MAP
+TRANSIT
+
+13 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+HIGHWAYS
+
+14 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+FUTURE YEARS TRAVEL DEMAND MODEL NETWORK
+All projects included in the TransPlan50 were modeled to determine their impacts
+on air quality including baseline projects. This approach models conformity for the
+entire plan, but in the case of failure to demonstrate conformity, only exempt
+projects may proceed.
+To remain consistent with past modeling practices, MAG included the analysis of
+all planned transportation capacity increase projects on facilities functionally
+classified as Collector, Minor Arterial, and Principal Arterial streets.
+The highway projects list from TransPlan50 is included in the appendix. Maps of
+the transportation networks used for the emissions analysis are provided in the
+Appendix. The following "Build" model runs reflect the Plan.
+Baseline =
+2028 =
+2032 =
+2042 =
+2050 =
+
+Includes existing network as of 2019
+Includes project on current TIP and existing
+Includes projects up to and including year
+Includes projects up to and including year
+Includes projects up to and including year
+
+In addition to the TransPlan50 networks mentioned above, additional years were
+interpolated – 2030, 2035, and 2040 to provide transportation data needed to
+assess the air quality impacts on the PM10 Ozone and PM2.5 analysis years.
+Concept and Scope: the design concept and scope of all regionally significant
+capacity increasing projects in the TIP has not changed significantly from the
+design and scope identified in the plan.
+
+THE REGIONAL TRAVEL DEMAND MODEL
+MODEL OVERVIEW
+The Regional model is an integrated land-use, transportation, and air quality
+model designed to perform a wide range of analyses. The model includes several
+advanced features that place it on the cutting edge of improved modeling
+methods required to meet the BIL Act and the Clean Air Act. In addition, several
+features recommended by the Travel Model Improvement Program of the
+US-DOT, FHWA, FTA and the EPA are incorporated into the model.
+Some of the most useful model outputs include:
+● Origin-Destination flows,
+15 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+● Directional link vehicle volumes,
+● Vehicular travel times and speeds, and
+● Transit ridership numbers.
+● The model produces forecasts for four times of day:
+● AM Peak: 6-8:59 AM
+● Midday: 9 AM – 2:59 PM
+● PM Peak: 3-5:59 PM
+● Evening/Off-peak: 6 PM – 5:59 AM
+MODEL COVERAGE
+The model covers the developable area of Utah, Salt Lake, Davis, Weber, and a
+portion of Box Elder counties except for the canyons and the mountains to the
+east of the urbanized areas. In these cases, the population in the areas that are
+outside of the travel model coverage is relatively small and is separated from the
+urban area by some distance.
+There is significant commuting from both Summit County (Park City) and Tooele
+County. In both cases the population centers are separated by distances of more
+than 15 miles from the urban portions of Salt Lake County. The issue of how to
+treat these growing travel flows may need to be dealt with in the future. Currently
+the commuting levels are not of a magnitude that treating the flows as an
+external-internal flow compromises the urban models to a significant degree.
+MODEL STRUCTURE
+System-wide transportation planning models are typically based on a four-step
+modeling process: trip generation, trip distribution, mode split, and trip
+assignment. The regional model incorporates these steps and adds an auto
+ownership model that is sensitive to urban design variables.
+The model has a feedback loop between trip distribution and traffic assignment,
+which is a process that ensures consistency between travel congestion and times
+that influence trip distribution patterns and are also an outcome of trip
+assignment. Travel time, or more generally speaking accessibility, is calculated
+based on outputs from the assignment model, but also is an important
+determinant of trip distribution and mode split. Therefore, it is customary to
+iterate these three models in order to reach a convergent solution.
+16 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+CONCEPTUAL OVERVIEW OF THE WFRC/MAG MODEL
+At the start of a full model run, the auto ownership model estimates household
+auto ownership levels and then the trip generation model uses land use data
+and auto ownership to calculate trip ends at the TAZ level. These trip ends are
+then paired into origins and destinations in the distribution model. In the mode
+split model, a mode of travel is selected for each trip. Vehicle trips are assigned
+to the highway network in the assignment model. The travel time feedback
+loop in the model is accomplished prior to mode choice by converting person
+trips to vehicle trips based on observed data.
+MODEL COMPONENTS
+Although considered a five-step process as stated above, the model is
+comprised of several steps and each step is programmed or scripted
+separately. These steps include, but are not limited to:
+● Land use allocation model (REMM) allocates future land use (i.e.,
+housing and jobs) based on accessibility, availability of land (through
+physical constraints and zoning), and location of existing land uses.
+● Auto ownership model estimates the likelihood of each household in
+the region owning 0, 1, 2, 3+ cars. Auto ownership is a function of
+characteristics of the household and where the household lives. Auto
+ownership and availability is a strong predictor of trip making and
+mode choice behavior.
+● The trip generation model calculates the number of person trips
+generated within each TAZ. The trip generation model parameters
+are developed from the WFRC/MAG 2012 Household Travel Survey.
+The number of trips to and from a place is a function of the amount
+and types of land-use activity within the zone.
+17 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+● Trip distribution model pairs the origins and destinations for each zone
+for each of the trip purposes. Trip generation estimates the number of
+trips to or from each TAZ, and trip distribution completes the trip by
+describing which trip origins are linked with which trip destinations.
+The result of this is a person trip matrix for each trip type. Trip
+distribution links trip-ends of the same type based primarily on the
+spatial separation of different land-uses and observed sensitivities to
+trip length. One output of trip distribution is the person trip table for
+home to work that can be compared to the “Journey- to-Work” data
+provided by the Bureau of the Census.
+● Highway/transit skim builder finds the best available travel path via
+each of the travel modes explicitly modeled. Several modes are
+explicitly modeled, including auto, transit modes (local bus, bus
+rapid transit, light rail, commuter rail) and non-motorized modes.
+Skims are reasonable approximations of the travel time and cost
+between all pairs of TAZs, and skims are described for each travel
+mode. The path-finding algorithms are calibrated based on
+observed travel paths and observed relationships between volumes
+and congested speeds.
+● The mode split model calculates which mode the person trips are likely to
+take based on availability and mode-specific parameters (e.g., time, cost,
+transit frequency). Mode split provides a breakdown of person trips by
+mode both for captive riders (people without automobiles) and for the total
+population. The mode split model is developed based on observed data on
+mode preferences and what those preferences imply about sensitivities to
+mode attributes.
+● Vehicle assignment model locates the “best” routes between each
+origin/destination pair and assigns the vehicle trips to the highway network.
+Important outputs of this module include the number of vehicles on each
+roadway segment by time period and turning movements at intersections.
+Several other pieces of data can be extracted, including operating speeds,
+travel times, VMT, VHT, and V/C on links and at intersections. In addition, one
+can configure the vehicle assignment to save all the vehicle trips that use a
+single link in either direction (select link analysis) or all the vehicle trips that
+originate or are destined for a zone (select zone analysis).
+● Transit assignment uses the transit trip table output from mode split and
+18 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+assigns person trips using transit to the appropriate transit route. This
+provides a means of viewing transit ridership graphically and understanding
+the relative effectiveness of different segments of the transit network.
+● Model output is summarized automatically by the model, including regional
+statistics (e.g., VMT, VHT, transit shares and trip lengths), corridor and
+segment performance statistics (e.g., delay, volume, and ridership), district
+and county-level trip flows, MOVE emissions model inputs, and calibration
+statistics.
+
+MODEL GEOGRAPHY & UTAH COUNTY TAZ STRUCTURE MAP
+
+19 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+TAZ STRUCTURE
+The Utah County traffic model consists of 1,316 internal TAZs and 14 external TAZs
+and-use and socioeconomic data are summarized within this spatial framework and
+travel is estimated between the TAZs
+
+20 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+NETWORK STRUCTURE
+For modeling purposes, the road network includes all facilities functionally
+designated as collector or above. There are approximately 50,000 road links in
+the network.
+MODEL CALIBRATION
+The model is calibrated to reasonably represent 2019 “base year” travel conditions
+and patterns, a process in which model output is checked or "validated" against
+real-world data. Trip rates, transit ridership and highway volumes are examples of
+types of model outputs that are validated. When the model results do not match
+the base- year values within an acceptable tolerance, parameters are adjusted until
+the model is acceptable. For future forecast years, the model output is reviewed for
+"reasonableness" to validate model results and model sensitivities can be assessed.
+QUALITY CONTROL AND MONITORING
+Due to the vast amount of data required as input to the modeling process,
+numerous quality control tools have been developed to help ensure the
+integrity of that data, which in turn enhances the reliability of the model. These
+automated features include the following:
+● Summaries of key demographic data – these are used to compare
+magnitudes and trends and to check for accuracy.
+● Summaries of county-to-county flow magnitudes and trends- these help
+in checking for accuracy and reasonableness.
+● Cross checks to detect conflicting network data.
+● Visual inspection of differences between the highway networks.
+● Screen line summaries to compare general traffic volumes.
+● Check links for correct county and city tag.
+● Check that link speeds and volumes are within reasonable ranges.
+● Numerous other network detail checks.
+
+21 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+TRANSPORTATION MODELING
+UTAH COUNTY 2019 AADT ADJUSTMENT FACTORS
+
+FACILITY
+
+MODEL AADT
+
+HPMS AADT
+
+TDM MODEL TO
+
+TYPE
+
+VMT
+
+VMT
+
+AADT FACTORS
+
+Freeways
+
+5,500,075
+
+5,680,241
+
+1.033
+
+Arterials
+
+6,550,962
+
+5,875,649
+
+0.897
+
+Local Roads
+
+863,796
+
+2,390,541
+
+2.767
+
+AADT: Average Annual Daily Traffic
+HPMS: Highway Performance Management System, UDOT’s traffic counts
+
+Each road segment in the TDM has an associated monthly adjustment factor. The
+default winter factor is 0.974 and summer is 1.07 for road segments without a
+factor.
+
+22 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY TRAVEL CHARACTERISTICS
+
+Activity in Summer by Time of Day and Facility Type
+Freeway
+
+Base Year
+2019
+
+2028
+
+2032
+
+2042
+
+2050
+
+AM
+
+19.2%
+
+19.0%
+
+19.4%
+
+19.0%
+
+18.8%
+
+Mid
+
+31.8%
+
+32.2%
+
+32.5%
+
+33.1%
+
+32.9%
+
+PM
+
+24.9%
+
+24.4%
+
+23.8%
+
+23.1%
+
+23.7%
+
+Eve
+
+24.1%
+
+24.3%
+
+24.4%
+
+24.8%
+
+24.5%
+
+AM
+
+17.7%
+
+17.5%
+
+17.5%
+
+17.5%
+
+17.5%
+
+Mid
+
+31.9%
+
+32.0%
+
+31.5%
+
+31.5%
+
+31.5%
+
+PM
+
+26.1%
+
+26.2%
+
+27.1%
+
+27.2%
+
+27.3%
+
+Eve
+
+24.4%
+
+24.3%
+
+23.9%
+
+23.9%
+
+23.7%
+
+AM
+
+16.1%
+
+15.9%
+
+15.9%
+
+15.8%
+
+15.8%
+
+Mid
+
+33.5%
+
+33.7%
+
+33.7%
+
+33.8%
+
+33.8%
+
+PM
+
+25.2%
+
+25.1%
+
+25.2%
+
+25.2%
+
+25.2%
+
+Eve
+
+25.1%
+
+25.3%
+
+25.2%
+
+25.2%
+
+25.2%
+
+AM
+
+18.2%
+
+18.0%
+
+18.2%
+
+18.0%
+
+18.0%
+
+Mid
+
+32.0%
+
+32.2%
+
+32.1%
+
+32.3%
+
+32.4%
+
+PM
+
+25.5%
+
+25.4%
+
+25.6%
+
+25.3%
+
+25.4%
+
+Eve
+
+24.3%
+
+24.4%
+
+24.2%
+
+24.3%
+
+24.2%
+
+Arterial
+
+Local
+
+Total
+Network
+
+23 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+Average Speeds in Winter by Time of Day and Facility Type
+Freeway
+
+Base Year
+2019
+
+2028
+
+2032
+
+2042
+
+2050
+
+AM
+
+32.7
+
+57.1
+
+57.8
+
+55.8
+
+53.7
+
+PM
+
+30.1
+
+45.2
+
+49.5
+
+47.5
+
+43.9
+
+Eve
+
+36.2
+
+68.1
+
+68.7
+
+68.0
+
+66.0
+
+AM
+
+55.5
+
+31.3
+
+30.7
+
+30.7
+
+30.9
+
+PM
+
+52.8
+
+28.3
+
+26.8
+
+26.3
+
+27.3
+
+Eve
+
+62.9
+
+34.9
+
+34.8
+
+34.7
+
+34.2
+
+AM
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+PM
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+Eve
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+12.9
+
+Arterial
+
+Local
+
+24 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+TRAVEL MODEL AND MOBILE EMISSION MODEL INTERACTION DIAGRAM
+
+25 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+MODELING DOMAIN FOR PM10 AND CO MAINTENANCE AREAS, AS WELL AS
+PM2.5 AND OZONE NON-ATTAINMENT AREAS
+The modeling area included in the MAG models covers the entire county.
+PM10, PM2.5 and ozone conformity must be found for the entire designated
+non-attainment areas. CO conformity must be found for the Provo City
+boundary, though only a qualitative analysis is required per the LMP.
+93.111
+
+- LATEST VEHICLE EMISSION MODEL
+
+The Mobile Source emissions factor data is derived from employing two EPA
+models. For Oxides of Nitrogen emission factors and Particulates MAG
+employed the approved MOVES model 2014b and for determining Road Dust
+emission rates the AP-42 equation was used as summarized below:
+Secondary PM10 Pollutants
+MOVES - NOx
+
+PM10 Pollutants - Direct
+MOVES – Exhaust, Tire & Brake wear
+AP-42– Chapter 13 - Road dust
+
+2006 PM2.5 Precursor
+MOVES – NOx, VOC
+
+2006 PM2.5 Pollutants - Direct
+MOVES Total PM2.5, Break and Tire Wear
+
+2015 Ozone Precursor
+MOVES – NOx, VOC
+Once the emission rates have been determined for each facility type the
+corresponding rates (in grams/mile) are multiplied by the seasonal daily VMT for
+that facility for that calendar year. As per following formula:
+Emission Rate (gram/mile) x Vehicle Miles Traveled (miles/day) =
+Emissions (gram/day)
+The total emissions for the County are determined by adding the rates of all 3
+facility types (Freeways, Arterials, and Local roads)
+MOVES
+EPA approved air quality model MOVES4.0.1 was used in preparation of the
+plan conformity.
+I/M PROGRAMS
+26 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+Up to 1996 Utah County’s I/M program was a basic two-speed idle, classified as a
+Test & Repair program. 1996 and later-The Utah County’s I/M program was
+approved by EPA for credit as a centralized test only program with Technician
+Training credits.
+Effective February 29, 2000, the Utah County I/M Program consists of a
+two-speed idle test on all gasoline vehicles of model years 1968 through 1995.
+OBD testing is performed on all gasoline vehicles of model years 1996 or newer.
+A vehicle that passes the OBD test will be given a certificate of compliance for
+registration purposes. If a vehicle fails, the OBD test then it must pass the
+two-speed idle test to receive a certificate of compliance.
+For modeling purposes – Model years 1996 and above are tested under the OBD
+procedure. H.B.172 went into effect January 2003 requiring biennial emission
+testing on the newest 6 years car models.
+MOVES INPUT FILES
+The MOVES model is a very data-intensive computer program based on the MYSQL
+database software. Input files utilized in the conformity analysis follow the
+agreed-upon procedures and data established through consultation with the DAQ
+and EPA to prepare SIPs and Maintenance Plans. For the projection inventories, the
+input files were adapted to reflect changes in the local I/M programs, vehicle
+standards, and other parameters as they evolve over time – per the Interagency
+Consultation process that reflects the established local conditions. Vehicle activity
+input files are generated by the WFRC/MAG Regional Travel Demand Model.
+The EPA User's Guide to MOVES, found on the EPA's website, details MOVES
+procedures and proper use and explains all command lines and external files
+used in the modeling.
+
+Input File
+
+Source
+
+Vehicle Population
+
+DAQ
+
+Age Distribution
+
+DAQ
+
+Inspection Programs
+
+DAQ
+
+27 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+Fuel Formulation & Usage
+
+DAQ
+
+Meteorology
+
+State SIPs or DAQ/EPA
+
+Vehicle Miles Traveled
+
+TDM
+
+Road Type Distribution
+
+TDM
+
+Speeds
+
+TDM
+
+PRIMARY PARTICULATE EMISSIONS – MOVES, AND AP-42 Chapter 13- PAVED
+ROADS
+The conformity analysis for Particulate Matter 10 (PM10) was estimated using
+the MOVES model for Exhaust, Tire, and Brake Wear. Road Dust was estimated
+using AP-42.
+A detailed discussion of the methodology appears in the guidance
+documentation of the MOVES and Chapter 13 of the AP-42 fifth edition.
+More information can be found at
+https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-compilation-air-e
+missions-factors .
+
+28 | Page
+
+TransPlan50
+
+93.112
+
+Emissions Analysis Report
+
+2024 Amendment
+
+- CONSULTATION
+
+Draft RTP Amendment process to be voted on in 2024.
+
+Amendment
+
+Type of Projects
+
+New Regional
+Emissions
+Analysis
+
+Concurrence
+FHWA/FTA
+(Conformity)
+
+Level 1
+
+-Exempt
+
+no
+
+no*
+
+Level 2
+
+-Not exempt
+-Not regionally
+significant
+-Regionally Significant,
+minor change in
+concept or scope
+
+no
+
+YES
+
+Level 3
+
+-Regionally significant
+-Significant change in
+concept or scope
+
+YES
+
+YES
+
+* MAG may seek advice from the ICT or written confirmation
+
+Each modification to the RTP must follow one of three actions. Level 1 modifications
+can be made by the MAG staff without action by the MPO Board or Federal Highway
+Administration (FHWA). Level 2 modifications do not require a new regional
+emissions analysis but do need approval by the MPO Board, and a conformity
+determination from FHWA and sharing with the ICT. They may require a 30-day
+public comment period if requested by the ICT or MPO board. Level 3 modifications
+require a new air quality conformity finding and a new regional emissions analysis,
+including a full 30-day public comment period before final approval. These three
+levels of amendments are described below.
+WFRC / MAG Regional Transportation Model: MAG, in collaboration with WFRC,
+employs a travel demand model using the traditional four-step travel demand
+process. The model is run using the Voyager program developed by Bentley
+Systems.
+DAQ / MAG Emission Input Parameters: MAG, in collaboration with the DAQ
+has developed, through consultation, the environmental conditions (such as
+29 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+ambient temperature profile, altitude, and humidity) used in the MOVES
+model. These parameters were employed in the preparation of the State
+Maintenance Plans. A detailed discussion of the environmental conditions and
+parameters is included in the plan Technical Support Documents (TSDs) found
+in the SIPs.
+Clean Air Agencies Consultation: As stated in the transportation bill, "In
+metropolitan areas which are non-attainment for ozone or carbon monoxide
+under the Clean Air Act, the metropolitan planning organization shall
+coordinate the development of a long-range plan with the process for the
+development of the transportation control measures of the State
+Implementation plans required by the Clean Air Act." A Consultation
+Procedures SIP was adopted by the State AQ Board and Approved by EPA in
+September 2009.
+The presence of the DAQ on our MAG MPO Board and the MPO Technical
+Advisory Committee contributes to improved communications between Air
+Quality and Transportation Planning activities. In conjunction with the
+conformity determination, we have established an Interagency Coordination
+Committee that includes FHWA, UDOT, DAQ, UTA, EPA, MAG, and WFRC
+representatives. These meetings have greatly improved the consultation
+process, resulting in a successful plan that is consistent with federal planning
+regulations and the SIP.
+Employing the Interagency Consultation process articulated in 40 CFR 93.105,
+MAG has worked closely with the appropriate agencies to develop a process
+that established a set of transportation, land use, and air quality planning
+assumptions used in this conformity determination. The participants included
+staff representing the following agencies:
+
+UDOT
+FHWA/FTA
+DAQ
+EPA/Region 8
+CMPO
+
+UTA
+Utah County Government
+Utah County Cities
+WFRC
+
+MAG presented its plans for an RTP Amendment to the ICT on 2.14.2024. The
+minutes from that portion of the meeting read,
+30 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+“Shauna Mecham of MAG presented details of a proposed amendment to the MAG
+Regional Transportation Plan. The amendment includes projects that were
+identified in the needs-based list of projects that had not been included in the
+previous regional emissions analysis. MAG will prepare a new regional emissions
+analysis including these projects and request a new conformity determination from
+FHWA and FTA.
+MAG will amend TransPlan50, their Long Range Plan, in May 2024 with an updated
+conformity determination, including new air quality model runs. MAG will add
+transit projects, including the new Draper Frontrunner station and POM BRT
+changing to light rail. MAG will also be including projects that are in the current
+Long Range Plan, but were only modeled in the "vision" network and need to be
+modeled within the fiscally constrained network to address the corrective action in
+MAG's FHWA certification. MAG will share the draft conformity determination and
+notify the ICT when the public comment period opens.
+The presentation Shauna shared about the MAG Plan amendments can be found at
+this link.”
+In attendance were:
+Kip Billings, WFRC
+Becky Close, DAQ
+Jay Aguilar, UDOT
+Rex Harris, FHWA
+Autumn Hu, UTA
+Robyn Kullas, FTA
+Greg Lohrke, EPA
+Ryan Bares, DAQ
+
+Naomi Kisen, UDOT
+Wayne Bennion, WFRC
+Shauna Mecham, MAG
+Rick McKeague, DAQ
+Jeff Gilbert, Cache MPO
+George Noel, FHWA Resource
+Ed Woolford, FHWA
+Tiffany Pocock, UDOT
+
+93.113 - TRANSPORTATION CONTROL MEASURES
+There are no mandatory Transportation Control Measures (TCM) identified in
+the PM10 SIP for Utah County nor in the Provo CO Maintenance Plan.
+Transit Improvements: The TransPlan50 identifies strategic options for the
+31 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+role of public transit in Utah County. This plan identifies mass transit needs
+and intercity travel between Utah County and the Salt Lake Valley with a
+thirty-year horizon.
+UTA is funded through portions of the sales tax for operation and capital
+expenses. Additional revenue is received through fares paid and federal grants
+received annually for capital expenses. While there have been some short-term
+fluctuations in transit patronage in response to fare increases or pandemics, the
+implementation of commuter rail service and other transit improvements have
+increased transit patronage within the levels anticipated by the Plan.
+Plans for expanding and increasing commuter rail service, extending Bus Rapid
+Transit to American Fork, and adding commuter rail in South Utah County are
+moving forward. These transit goals are featured in the Plan, and the steps
+necessary to achieve them are moving forward, including a proposal for voter
+approval of additional revenue for transit funding. A detailed discussion of public
+transit is included in the TransPlan50 document.
+
+32 | Page
+
+TransPlan50
+
+93.118
+
+Emissions Analysis Report
+
+2024 Amendment
+
+- EMISSION BUDGETS
+
+UTAH COUNTY PM10 CONFORMITY DETERMINATION
+The Utah County PM10 Maintenance Plan requires conformity determinations for
+both NOx and Primary PM (a combination of Direct PM10 and Dust).
+Construction-related PM10 (§93.122(d) is not necessary because the PM10 SIP does
+not identify construction-related dust as a contributor to the PM10 non-attainment.
+In 2005, the State introduced a Trading Rule for Salt Lake County (R307 – 110) that
+allows the WFRC MPO to apply a potential surplus in its budget for Primary PM10 to
+a potential shortfall in its budget for NOX at a one-to-one ratio.
+MAG requested the State to expand this existing rule to Utah County as well. The
+new Rule addressing specifically Utah County - R307 – 111 was incorporated into
+the state code and became effective March 5, 2015. The final Trading Rule for
+Utah County was published in the Federal Register on July 17, 2015.
+In 2020, PM10 was redesignated to attainment with a Motor Vehicle Emissions
+Budget for 2030.
+UTAH COUNTY PM10 EMISSION MODELING RESULTS
+The following tables summarize the emission from MOVES and AP-42 -Paved Roads
+Utah County - MOVES and AP-42 Rates (g/mile)
+Direct PM10
+Exhaust
+year
+
+Distance
+
+NOX
+
+Total
+
+Brake
+
+Tire
+
+0.0332
+
+Dust
+
+0.0102 0.1392
+
+2030
+
+17,770,902
+
+0.2634
+
+0.0087
+
+2040
+
+21,145,438
+
+0.1283
+
+0.0043
+
+0.0343
+
+0.0103
+
+0.1392
+
+2050
+
+25,812,854
+
+0.1009
+
+0.0035
+
+0.0323
+
+0.0102
+
+0.1313
+
+The table below summarizes the budget test associated with each required year of
+analysis for the precursor pollutant of NOx and Direct PM10. Direct PM10 is the
+sum of various component elements related to small particulates resulting from
+vehicle travel. These include exhaust, brake and tire wear, and fugitive dust as
+results from the EPA AP-42, chapter 13- Paved Roads model. The TransPlan50 and
+the TIP conform to the emissions budget test for all PM10 pollutants.
+
+33 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY PM10 CONFORMITY BUDGET TEST
+PM10 Conformity Budget Test
+Emissions from all road types and on-road vehicles (tons/winter day)
+
+Precursor
+Pollutant
+Year
+
+Distance
+
+Budget
+
+NOx
+
+Result
+
+Primary Pollutant
+Direct PM10
+
+Dust
+
+8.34
+
+Total PM10 Result
+12.28
+
+2030
+
+17,770,902
+
+5.16
+
+Pass
+
+1.02
+
+2.73
+
+3.75
+
+Pass
+
+2040
+
+21,145,438
+
+2.99
+
+Pass
+
+1.14
+
+3.25
+
+4.39
+
+Pass
+
+2050
+
+25,812,854
+
+2.87
+
+Pass
+
+1.31
+
+3.74
+
+5.05
+
+Pass
+
+Direct PM10 = Exhaust + Brakewear + Tirewear
+
+UTAH COUNTY PM10 CONFORMITY DETERMINATION
+Based on the findings of this report a positive conformity determination for
+PM10 is made for the TransPlan50 and TIP.
+
+34 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY PM2.5 CONFORMITY DETERMINATION
+Conformity determinations for PM2.5 is required for NOx, direct PM2.5 and VOC.
+UTAH COUNTY PM2.5 EMISSION MODELING RESULTS:
+UTAH COUNTY PM2.5 CONFORMITY BUDGET TEST
+
+Utah County - PM 2.5 Interim Test - Rates
+grams/winter day with all facilities and sources
+
+year
+
+Distance
+
+NOX
+
+VOC
+
+Direct
+
+2028
+
+16,878,944 0.3273
+
+0.2451
+
+0.0177
+
+2035
+
+19,593,836 0.1699
+
+0.1699
+
+0.0121
+
+2042
+
+21,766,086 0.1259
+
+0.1338
+
+0.0071
+
+2050
+
+25,812,854 0.1054
+
+0.1072
+
+0.0095
+
+Direct= Exhaust + Brake + Tire
+
+The table below summarizes the results of the interim test (analysis year ≤
+2008) associated with each required year of analysis for PM2.5 emissions for
+the precursor pollutant of NOx and Direct PM2.5. The EPA has proposed a
+Motor Vehicle Emissions Budgets, but until they are officially adopted by the
+EPA the interim test is used. We include the proposed budget here for
+reference.
+Proposed (not yet official) Budgets
+Pollutant
+
+Tons per Day
+
+Direct PM2.5
+
+1.5
+
+NOx
+
+6.5
+
+VOC
+
+7.0
+
+PM2.5 Conformity Interim test (emissions ≤ 2008 emissions)
+tons/winter weekday with all facilities and sources
+
+Precursor Pollutants tons/wday
+
+Direct PM2.5 tons/wday
+
+35 | Page
+
+TransPlan50
+year
+
+Emissions Analysis Report
+
+Distance
+
+2008
+
+NOX
+
+40.046
+
+Result
+
+baselin
+e
+
+2024 Amendment
+VOC
+
+22.108
+
+Result
+
+baselin
+e
+
+Direct
+
+Result
+
+2.102
+
+baseline
+
+2028
+
+16,878,944
+
+6.090
+
+Pass
+
+4.560
+
+Pass
+
+0.330
+
+Pass
+
+2035
+
+19,593,836
+
+3.670
+
+Pass
+
+3.670
+
+Pass
+
+0.260
+
+Pass
+
+2042
+
+21,766,086
+
+3.020
+
+Pass
+
+3.210
+
+Pass
+
+0.170
+
+Pass
+
+2050
+
+25,812,854
+
+3.000
+
+Pass
+
+3.050
+
+Pass
+
+0.270
+
+Pass
+
+Direct PM2.5 = Exhaust + Brakewear + Tirewear
+
+The TransPlan50 and the TIP conform to the emissions interim test for the PM2.5
+pollutants and the proposed PM2.5 Budget not yet published as a final rule in the
+Federal Register.
+UTAH COUNTY PM2.5 CONFORMITY DETERMINATION
+Based on the findings of this report, a positive conformity determination
+for PM2.5 is made for the TransPlan50 Plan and TIP.
+
+36 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+UTAH COUNTY OZONE CONFORMITY DETERMINATION
+The Southern Wasatch Front Area, namely Utah County, was designated as a
+marginal non-attainment area for ozone by EPA effective December 2018. Utah
+County achieved the standard by the 2021 attainment date and is working with
+the State to submit a Limited Maintenance Plan (LMP), under which a qualitative
+conformity analysis is acceptable. Until the LMP is approved by the EPA,
+conformity requires an analysis of TransPlan50 projects based on an interim test
+comparing the plan analysis years to the Ozone Inventory of 2017 (as base year).
+The analysis year inventories should be ≤ (less or equal) to the base year. Since
+Ozone exceedances in Utah County were observed in the summer the VMTs are
+adjusted to reflect that season. The TDM analysis excludes areas of Utah County
+outside the Ozone Non-Attainment Area.
+Conformity determinations are required for NOx and VOC, Ozone’s precursor
+pollutants.
+UTAH COUNTY OZONE EMISSION MODELING RESULTS
+UTAH COUNTY OZONE CONFORMITY Interim Budget Test
+Utah County - OZONE Interim Test - Rates
+(g/mile)
+all facilities and all vehicles
+Year
+
+Distance
+
+NOX
+
+VOC
+
+2028 18,559,548
+
+0.288
+
+0.184
+
+2032 20,553,864
+
+0.1841
+
+0.1421
+
+2042 24,092,794
+
+0.0915
+
+0.0934
+
+2050 28,653,994
+
+0.0725
+
+0.0690
+
+The following table summarizes the results of the interim test (analysis year
+≤ 2017) associated with each required year of analysis for OZONE emissions
+for the precursor pollutants NOx and VOC.
+
+Ozone Conformity Interim test (emissions ≤ 2017 emissions)
+Precursor Pollutants tons/Summer day | all facilities and sources
+year
+
+Distance
+
+NOX
+
+Result
+
+VOC
+
+Result
+
+2017
+
+14,022,941
+
+16.110
+
+Baseline
+
+8.310
+
+Baseline
+
+37 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+2028
+
+18,559,548
+
+5.900
+
+Pass
+
+3.770
+
+Pass
+
+2032
+
+20,553,864
+
+4.170
+
+Pass
+
+3.220
+
+Pass
+
+2042
+
+24,092,794
+
+2.430
+
+Pass
+
+2.480
+
+Pass
+
+2050
+
+28,653,994
+
+2.290
+
+Pass
+
+2.180
+
+Pass
+
+UTAH COUNTY OZONE CONFORMITY DETERMINATION
+Based on the findings of this report, a positive conformity determination
+for OZONE is made for the TransPlan50 Plan and TIP.
+
+38 | Page
+
+TransPlan50
+
+Emissions Analysis Report
+
+2024 Amendment
+
+PROVO CITY CO CONFORMITY DETERMINATION
+Effective July 13, 2020, Provo City entered its 2nd 10-year Carbon Monoxide
+maintenance plan. This plan follows the provisions/requirements of the CO
+LMP Policy. The CO LMP does not require a regional emissions test for a
+conformity determination. According to the EPA, “… it is unreasonable to
+expect that an LMP area will experience so much growth in that period that a
+violation of the CO NAAQS would result. Therefore, for the Provo CO
+maintenance area, all actions that require conformity determinations for CO
+under our conformity rule provisions are considered to have already satisfied
+the regional emissions analysis and “budget test” requirements in 40 CFR
+93.118.”
+Based on our analysis, a qualitative conformity determination for Provo City can
+be made for Carbon Monoxide based on the LMP Provisions described under the
+transportation conformity rule.
+PROVO CITY CO CONFORMITY DETERMINATION
+Based on an analysis consistent with these rules, a positive determination
+can be made for the TransPlan50 and TIP in the Provo City Carbon Monoxide
+maintenance area.
+Additional Information
+2024-2050 Highway Project List See https://mountainland.org/rtp2023/
+2024 TransPlan50 Amendment website
+https://mountainland.org/rtp-amendments/
+The input/and output database files of the MOVES models used in the analysis
+can be obtained upon request from MAG: 801.229.3800 or
+smecham@mountainland.org.
+
+39 | Page
+
+

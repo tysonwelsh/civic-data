@@ -1,0 +1,474 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=844&doc_id=20cf2b5c-645f-11ee-b4aa-0050569183fa
+> Meeting date: 2023-08-24
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, AUGUST 24, 2023 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Commission Member Mary Squire
+               Commission Member Susan Nixon
+               Commission Member Lisa Fowler
+               Alternate Commission Member Kendra Shirey
+
+ABSENT:              Craig Hawker, Vice-Chair
+                     Commission Member Gary Ogden
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+               Spencer DuShane, City Attorney
+               Todd Draper, Planning Manager
+               Tevai Haunga, City Planner
+               Brien Maxfield, Senior Engineer Manager
+               Amie Salazar, Office Manager
+               Brad Jensen, Project Manager – Parks and Recreation
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order.
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for July 13, 2023.
+       (Administrative Action)
+
+Motion: Commissioner Squire moved to APPROVE the Planning Commission Meeting
+Minutes for July 13, 2023.
+
+Second: Commissioner Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Fowler, Squire, Nixon, and Shirey voted "Aye". The motion passed
+unanimously.
+
+2.     Action Item: Approve Planning Commission Meeting Minutes for July 27, 2023.
+       (Administrative Action)
+
+Motion: Commissioner Nixon moved to APPROVE the Planning Commission Meeting Minutes
+for July 27, 2023.
+
+Second: Commissioner Shirey.
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Fowler, Squire, Nixon, and Shirey voted "Aye". The motion passed
+unanimously.
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 2
+
+
+3.     Public Hearing: G Mobile Auto Repair Home Occupation Conditional Use Permit
+       (Administrative Action)
+       On the request of Grant Pollock for a Home Occupation Conditional Use Permit for a Home
+       Office to Conduct a Mobile Business. The Property is located at approximately 13454 South
+       Lone Peak Lane in the RA1 (Single-Family Residential 40,000 square foot minimum area)
+       Zone. Application USE-062-2023. Staff contact is Tevai Haunga at 801-576-6522 or
+       tevai.haunga@draperutah.gov.
+
+City Planner, Tevai Haunga presented the Staff Report and stated that the request is for a Home
+Occupation Conditional Use Permit for G Mobile Auto Repair. The applicant is requesting approval
+for an office conducting mobile auto repair. Ms. Haunga presented Vicinity and Aerial maps. The
+land use designation is Low to Medium-Density Residential. The zoning map is RA1 (Single-Family
+Residential 40,000 square foot minimum). The Site Plan was displayed. The property is
+approximately one acre in size. It was noted that all automotive repairs will be done off-site and the
+van that will be used will be parked in the driveway. Staff received no public comment.
+
+The applicant, Grant Pollock, was present and indicated that he would park his van on the side
+driveway. All auto repairs will be done remotely.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing was
+closed.
+
+Motion: Commissioner Fowler moved to APPROVE the Home Occupation Conditional Use
+Permit, as requested by Grant Pollock, representing application USE-062-2023 subject to the
+following:
+
+Conditions:
+
+       1.      All business requirements of the Draper City Engineering, Public Works
+               Building, Business Licensing, Planning, and Fire Divisions are satisfied
+               throughout the operation of the business.
+
+       2.      A Business License shall be maintained for the life of the business.
+
+       3.      Customers are not allowed to come to the property.
+
+       4.      Only one business vehicle is allowed to be stored on the property.
+
+Findings:
+
+       1.      Reasonable mitigation measures can be placed on the conditional use to alleviate
+               anticipated detrimental effects.
+
+Second: Commissioner Squire.
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 3
+
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Fowler, Squire, Nixon, and Shirey voted "Aye". The motion passed
+unanimously.
+
+4.       Public Hearing: Fitzgerald Property Amended Development Agreement (Legislative
+         Action).
+         On the Request of Brad Mackay, Representing Ivory Development for an Amendment to the
+         Fitzgerald Property Development Agreement for 22.39 Acres of Property located at 1085 East
+         12650 South. The property is Zoned R5, Application Number 23-4505-DA. Staff Contact is
+         Jennifer Jastremsky, 801-576-6328, jennifer.jastremsy@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, presented the Staff Report and stated that
+the Commission previously reviewed a Preliminary Subdivision Plat application for this property,
+which is adjacent to City Hall. It was formerly the Fitzgerald Farm. The property is Residential
+Medium-High Density with an R5 zoning designation. The original concept was provided in the
+Development Agreement that was approved for the Bainbridge Subdivision. The Development
+Agreement set a minimum lot size, the number of units, and included a Concept Plan. Ms. Jastremsky
+displayed the Preliminary Plan that was approved previously. One of the conditions tied to the
+approval dealt with the street connection to 12600 South. The Concept Plan showed a connection but
+the submitted Preliminary Plat did not. It shows an emergency access easement instead. The
+condition of approval gave the applicant the option of providing the following:
+
+     •   A through connection;
+     •   A turnaround that complies with City standards; or
+     •   Obtain an amendment to the Development Agreement that proposes something different.
+
+Ms. Jastremsky stated that the Development Agreement amendment was before the Commission
+tonight.
+
+The first part of the Development Agreement amendment addresses Accessory Dwelling Units
+(“ADU”) and would allow Detached ADUs on all lots regardless of lot size. The current ADU Code
+only allows Detached ADUs on 12,000 square-foot or larger lots. Most of the lots in the subdivision
+are 10,000 square feet in size with some being 9,000 or 9,100 square feet, which is the smallest
+allowed. Staff is not concerned with the request as the lots are large enough to accommodate
+Detached ADUs. The next issue addressed in the Development Agreement amendment is a request
+to permit a reduction to the minimum rear and side setbacks for the Detached ADUs to five feet and
+restrict ADUs to two stories in height. The current Code would require a Detached ADU to meet the
+same setbacks and height requirements as the primary home, which in this case would be a 20-foot
+rear setback and an eight-foot side setback, with height of up to 35 feet. The proposal would allow
+detached ADUs to be closer to the property line and restricts height. The amended agreement would
+also restrict properties to having only one ADU.
+
+Commissioner Squire asked for clarification on ADUs and if the agreement provides an additional
+allowance for Detached ADUs. Ms. Jastremsky clarified that it changes the parameters. Under the
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 4
+
+current Code, about half of the lots would qualify for ADUs because they are over 12,000 square feet
+in size.
+
+Commissioner Nixon asked about the height restrictions and if it matters if the main dwelling is one
+or two stories. Ms. Jastremsky responded that it would not matter. The current residential zoning
+allows heights up to 35 feet for the main home and 35 feet for the ADU.
+
+Ms. Jastremsky reported that the proposed Development Agreement will also address the detention
+basin. The plat includes a detention pond area that will be dedicated to the City. They have not yet
+addressed how it will be landscaped or designed beyond its capacity for water detention. The
+language that staff recommended be added to the Development Agreement included specific
+requirements to meet the need for minimal maintenance such as the use of decorative stamped
+concrete. The applicant has not proposed specific requirements, only a general one to design for
+minimal maintenance.
+
+The 12600 South roadway connection was addressed. Ms. Jastremsky explained that the
+Development Agreement would not require the developer to connect to 12600 South but would
+require them to provide a turnaround. Staff requested an 80-foot diameter cul-de-sac with no curb or
+gutter. The applicant is proposing a 75-foot diameter cul-de-sac with a 2.5-foot curb and gutter within
+the same 80-foot diameter. A cross-section was provided to show what that would look like. Ms.
+Jastremsky reviewed the proposal and identified the existing asphalt, the location of the right-of-way
+improvements, and the turnaround.
+
+The proposed conditions of approval were discussed. It was noted that items two and three from the
+list of conditions have been addressed by the applicant. Earlier in the day the Commission was
+provided with an updated Development Agreement that contained additional proposed changes.
+
+Commissioner Nixon asked if the Fire Department had signed off on the cul-de-sac design. Senior
+Engineering Manager, Brien Maxfield, reported that the Engineering and Fire Departments have
+verified that their needs are met in terms of turnarounds for snowplows, garbage trucks, and fire
+apparatus.
+
+The applicant, Brad Mackay from Ivory Development, stated that they have been working with Staff
+since they received the initial Preliminary Plat approval to include the right language in the
+Development Agreement. He felt they had arrived at something they were both comfortable with.
+The 80-foot right-of-way, as originally proposed, includes curb and gutter. They intend to dedicate
+80 feet for the cul-de-sac so that at some point in time if curb and gutter are ever put down 12600
+South, curb and gutter can be placed in the correct location within the right-of-way. Installing the
+curb and gutter now would create a drainage problem for the adjacent neighbors on 12600 South. He
+clarified that the setback changes are for detached garages with ADUs above them. They were asking
+for an amendment to ease the ability to access the garages. He noted that they do not intend to
+construct anything greater than two stories.
+
+Chair Adams asked if Ivory Development was planning to build the ADUs. Mr. Mackay stated that
+they would offer them as part of the initial sale of the home but a homeowner could also build them
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 5
+
+later, if desired. They have received numerous requests for detached garages with ADUs on their
+homes. This allows them to provide a nice home with a detached garage with an ADU over the top.
+
+Chair Adams expressed support for ADUs and frequently sees them with new construction, which he
+considered to be best.
+
+Commissioner Fowler asked about the proposed Section 5 regarding the minimal maintenance for the
+detention pond and what that means. Mr. Mackay stated that they submitted their Final Plat for Phase
+1 and the design for the detention pond with the minimal maintenance design was included. There
+will be a wall around the detention basin with stamped and standard concrete around the perimeter.
+There will be a rock-lined detention inside the fence. Low maintenance means that it will not have
+to be mowed and includes either a native seed mix for erosion control or a riprap-lined detention
+basin. Mr. Maxfield clarified that the stamped concrete will be outside the fence. Crews can inspect
+the basin when needed but they will not have to worry about weeds or trash because it will be behind
+a solid fence. On 1300 East south of 13200 South, there is a detention basin with cobbled rock that
+seems to trap garbage and weeds. It is a City-maintained basin and they do not have the staffing
+levels needed to regularly maintain it.
+
+Commissioner Fowler commented that “minimal maintenance” is a broad and vague term.
+Mr. Maxfield stated that the Engineering Division has not had an opportunity to fully review the
+revised submittal and provide comment. Ms. Jastremsky stated that modified language was included
+in the draft Development Agreement that was sent out earlier in the day. It does not, however, specify
+what “minimized maintenance” means. Mr. Mackay stated that that is typically added to a
+Development Agreement with the final details worked out on the final plat. He expressed a
+willingness to modify the language based on the desires of the City. Commissioner Fowler asked Mr.
+Maxfield if he was worried about vague language. He responded that if Ivory Development is willing
+to work with them and is aware that they would like stamped concrete and a fence they would be
+amenable to moving forward and include those.
+
+Chair Adams opened the public hearing.
+
+Brian Ahrendt gave his address as 12613 South Fort Street and expressed support for the cul-de-sac
+plan. He also recommended a pedestrian connection from the new development to 12600 South to
+help people in the neighborhood get to the Historic Park, the City Park, and Draper Elementary
+School.
+
+There were no further public comments. Chair Adams closed the public hearing.
+
+Commissioner Fowler asked how the cul-de-sac will impact the driveway of the home next door.
+Ms. Jastremsky identified the property line and described how the cul-de-sac will connect to the right-
+of-way. Mr. Maxfield stated that the only driveway that will be impacted is to the north, which will
+straighten it out and eliminate the dogleg.
+
+Commissioner Squire recognized that some concessions have been given in exchange for ADUs on
+every lot, external ADUs, and the setback change. She was not supportive of those allowances but
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 6
+
+did not object to the cul-de-sac. She was supportive of the access if approved by the City Engineer.
+She noticed that the homes on abutting properties could have an external ADU building five feet from
+the property line, which she was not in favor of. Commissioner Fowler asked for more clarification.
+Commissioner Squires stated that at least three lots on the west side are one-half acre in size, which
+is large enough for ADUs under the current code but normally would include a greater setback.
+Changing the setback on new properties adjacent to existing homes seemed problematic to
+Commissioner Fowler. Ms. Jastremsky clarified that only the properties along the west will abut
+existing homes. A trail separates the lots from the existing homes to the east.
+
+Chair Adams asked the applicant if there was a floor plan for the homes the applicant intended to
+build on the lots that would be wide in front and not allow for a side driveway. Chair Adams clarified
+his question that with a five-foot setback rather than a twenty-foot setback would the driveway not
+have to be doglegged into the property in order for it to line up. Mr. Mackay stated that most of the
+plans that include a three-car garage will be too wide to allow for a driveway down the side yard.
+They are developing new plans that will tie into the historic area that will feature a detached garage
+in the rear of the home. It would be accessed from a side yard access. He explained that they already
+can construct detached garages that are the same size with smaller setbacks. This would just be
+adjusted for the ADU. Ms. Jastremsky reported that the rear and side setbacks for detached garages
+are 10 feet from property lines but they are limited in height.
+
+Commissioner Squire stated that the setback was her primary concern. She commented that the City
+is giving much more than they are getting in return. Ms. Jastremsky stated that the R5 zoning has a
+minimum lot size of 8,000 square feet but per the Development Agreement, the minimum is 9,000
+square feet. The minimum with R4 zoning is 10,000 square feet. A Detached ADU requires 12,000
+square feet or more with the minimum setback being 20 feet in the rear and eight feet on the sides.
+
+Commissioner Nixon noted that Lots 101, 102, 202, and 203 have a private rear yard retention
+easement of 15 feet that will prevent ADUs there. Ms. Jastremsky confirmed that was the case. A
+Commissioner noted that the ADUs are associated with offering more affordable housing in Draper,
+which is beneficial. Commissioner Squires was not opposed to Detached ADUs but objected to them
+on tiny lots. The worst-case scenario was for each of the proposed new lots to be allowed to have a
+Detached ADU. The Commission must determine whether that is appropriate for the City.
+
+Chair Adams expressed his support and liked that homebuyers will know what they are getting. This
+prevents people from being upset when a garage or shed goes up near the property line.
+Commissioner Squire felt that was fine for people who buy in a new neighborhood but there are places
+in the City where there are illegal ADUs and issues with parking.
+
+Mr. Mackay commented that the ADU language in the Development Plan states if someone elects to
+have a Detached ADU on their property, they cannot also have an Internal ADU. Commissioner
+Fowler noted that that distinction already exists in the Code. Ms. Jastremsky explained that State law
+governing Internal ADUs does not allow the City to prevent someone from having an Internal ADU
+in the proposed subdivision, but they can prevent them from having a Detached ADU as well. The
+Development Agreement for the project clarifies that only one ADU is allowed.
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 7
+
+A question was raised regarding a pedestrian walkway. Mr. Mackay stated that they were asked to
+remove it. Previously there was a 20-foot fire access road and trail easement. With the cul-de-sac,
+they were asked to remove the trail. Commissioner Nixon was pleased to see the cul-de-sac and
+expressed her support for the proposal.
+
+Chair Adams referenced Lot 102 and noted that there is enough room for a driveway on the side,
+unless the plans are changed they will not have access. Commissioner Squires asked if the idea was
+to have all detached garages. Chair Adams stated that that was the case for the detached ADUs but
+not the primary residence. Mr. Mackay clarified that there will be a three-car home with a two-car
+detached garage for a total of five cars. On top of the detached garage will be a 900-square-foot
+ADU. Commissioner Squires commented that that is the reason that lots this size are currently not
+allowed to have detached garages with ADUs above. She was concerned that more is being placed
+on a tiny lot.
+
+Chair Adams reported that it is the result of the state requiring affordability. He supports property
+rights and trusts that developers want good development. As long as there is access he would support
+what is proposed.
+
+Motion: Commissioner Nixon moved to send a POSITIVE recommendation to the City Council
+for the Amended Development Agreement as requested by Brad Mackay representing Ivory
+Development for the Fitzgerald Property Amended Development Agreement, Application 23-
+4505-DA, including the changes that were received by staff today and subject to the following:
+
+Conditions:
+
+       1.      Section 4 of the agreement shall be amended to require an 80-foot diameter cul-
+               de-sac to be installed at the end of 12600 South.
+
+       2.      Section 3 shall be modified to clarify that the reduced setbacks are for D-ADUs
+               only.
+
+       3.      Add a Section that states that D-ADU structures are limited to 2 stories in height.
+
+       4.      The agreement shall include the staff proposed in Section 5.
+
+Findings:
+
+       1.      The proposed amended Development Agreement complies with DCMC Section
+               9-5-200(C) and (D).
+
+       2.      The proposed conditions and changes to the agreement will protect the health,
+               safety, and welfare of properties along 12600 South by providing a turnaround
+               design that meets the design criteria of the Fire Department, City Engineer, and
+               the Public Works Director per DCMC Section 17-5-030(F).
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 8
+
+Second: Commissioner Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 3-to-1 in favor of the motion.
+Commissioners Fowler, Nixon, and Shirey voted "Aye". Commissioner Squire voted "No".
+The motion passed 3-to-1.
+
+5.       City-Initiated Parks, Recreation, and Trails Master Plan (Legislative Action)
+         At the request of Draper City Parks and Recreation Department a Request to Update the City's
+         General Plan with the Parks, Recreation and Trails Master Plan. Staff Contact: Brad Jensen,
+         801-831-7192, brad.jensen@draperutah.gov.
+
+Parks and Recreation Project Manager, Brad Jensen presented the Staff Report and stated that the
+Parks Master Plan was adopted in 2008 and the City is currently overdue for a New Master Plan. In
+2020, they contracted with Landmark Design. They received public input in several ways including
+an advisory committee, focus groups, and public comment on the project website using interactive
+mapping. They also conducted a statistically valid survey in the community for which there was a
+good response. An Open House was held and input was received from the Parks and Trails
+Committee. The Advisory and Parks, Trails, and Recreation Committees reviewed the final draft and
+recommended approval of the plan.
+
+The public input included a pinpoint map with numerous positive responses. For the most part, people
+were very appreciative of the trails and staff was surprised by the number of positive comments
+received. They requested more single-use trails, one-way bike trails, and additional improvements to
+the existing parks. It was clarified that a single-use trail is a bike-only or a hike-only trail.
+
+The top takeaways from the survey were that residents are very satisfied with the parks and recreation
+facilities. Mr. Jensen stated that there is a lot of use of the parks and trails facilities. There was also
+significant support for preserving natural open space. They found that residents are willing to pay
+more to help with park maintenance and upgrades as well as the development of new parks. Some of
+the survey priorities included pickleball courts as well with six more having been recently opened.
+Other priorities included more off-leash dog areas and the construction of an indoor multi-purpose
+gymnasium.
+
+Mr. Jensen reported that the plan is divided into six chapters consisting of the following:
+
+     •   Parks. Jenson Farm Park is planned along with the expansion of other parks. Proposed parks
+         were included in the Master Plan and will require the City to acquire land. Potential future
+         parks included three potential neighborhood parks that will most likely be developed with
+         future projects. Because land is limited in the City, they are evaluating the use of the Utah
+         Transit Authority (“UTA”) Railroad and Rocky Mountain Power Corridors. With regard to
+         amenities, there are deficiencies including courts and a multi-sports indoor facility. An
+         important part of the plan is The Point, which was separated from what is taking place in the
+         community. The desire was to provide direction and guidance in that regard. With regard to
+         the level of service, they are on track to meeting the City’s standards. With respect to
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 9
+
+       amenities, several sand volleyball courts were proposed but few pickleball courts. It was
+       recommended that adjustments be made.
+
+   •   Recreation. They were pleased to see how many people participate in City programs, which
+       is higher than the national average. It was suggested that programs be offered at more
+       convenient times. One of the takeaways was to provide additional extended programs but
+       develop a City-owned indoor recreation facility. The intent was to conduct a study and
+       evaluation as to feasibility and design of a new indoor recreation facility owned by the city.
+
+   •   Arts, Culture, and Community Events. It was noted that Draper Days is the most popular
+       event and the City receives ideas on what can be done going forward with events. The
+       takeaways included improvements to the Draper Amphitheater and constructing an indoor
+       venue to accommodate an indoor museum, theater, or concerts. Suggested improvements to
+       the amphitheater included additional seating and various upgrades.
+
+   •   Trails. Currently, there are 152 miles of trails in the City. The plan proposes an additional 60
+       miles of multi-use trails, which does not include the single-use trails. Most paved trails are
+       along the various utility corridors that provide important east/west connections across I-15
+       and connections to The Point. Improvements to the multi-use primitive (dirt) trails include
+       finishing the Bonneville Shoreline Trail on the Utah County portion and making connections
+       to other existing trails. They were also considering utilizing the UTA Corridor connection to
+       Draper Park. Future trailheads were also reviewed. They have not changed significantly from
+       the previous Master Plan. They also looked at proposed trail crossings and making safer trail
+       crossings. Staff also looked at Operation and Maintenance comparisons with local cities of a
+       similar size.
+
+The last chapter was an Implementation Action Plan that identifies the short-term priorities compared
+to long-term plan implementation.
+
+Commissioner Fowler asked if the City has land for the proposed indoor recreation facility.
+Mr. Jensen reported that they looked at land that was recently acquired by the City. It would include
+a gymnasium, which the current recreation center does not have. It could also be utilized for other
+community events. Commissioner Fowler asked if consideration had been given to rebuilding the
+Old Draper Theater. Mr. Jensen stated that it is privately owned.
+
+Chair Adams opened the public hearing. There were no public comments. Chair Adams closed the
+public hearing.
+
+Chair Adams stated that at the Town Center Station Area Plan Meetings, there was a discussion about
+what would be done with the property that was recently acquired. The plan recommends that a study
+be conducted to evaluate the needs and desired size and what will be accommodated inside the
+building. The plan was to evaluate it as a recreational and indoor arts facility.
+
+Commissioner Squire asked about the timeline or vision period for the document. Mr. Jensen reported
+that they are looking at two different horizons with one being to 2030 and the other to 2050.
+Draper City Planning Commission Meeting
+August 24, 2023
+Page 10
+
+
+Commissioner Fowler liked how the plan evaluates the use of the Amphitheater and the Equestrian
+Park, which are often unused. She liked the idea of using them more rather than simply building
+something new.
+
+Commissioner Nixon expressed support.
+
+Motion: Commissioner Fowler moved to forward a POSITIVE recommendation to the City
+Council for the Parks, Recreation, and Trails Master Plan as requested by Draper City based
+on the following:
+
+Finding:
+
+       1.     The proposed amendment complies with DCMC Section 9-2-020.
+
+Second: Commissioner Squire.
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Fowler, Squire, Nixon, and Shirey voted "Aye". The motion passed
+unanimously.
+
+6.     Adjournment.
+
+Motion: Commissioner Fowler moved to ADJOURN.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at 7:30 PM.
+

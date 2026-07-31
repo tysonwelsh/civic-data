@@ -1,0 +1,60 @@
+raw_name,canonical_name,category,note
+Barbar Tidwell,Barbara Tidwell,ocr_typo,dropped-letter OCR of Barbara Tidwell
+Tidwell,Barbara Tidwell,surname_fragment,mover/seconder surname (only Tidwell on council)
+Vice-Chair Barbara Tidwell,Barbara Tidwell,role_prefix,un-stripped 'Vice-Chair' (hyphen not caught by ROLE_PREFIX)
+Borup,Paul Borup,surname_fragment,mover/seconder surname (only Borup on council)
+Councilmembers Paul Borup,Paul Borup,role_prefix,un-stripped plural 'Councilmembers'
+Brady Chirstensen,Brady Christensen,ocr_typo,transposed letters (Chirstensen)
+Brady Christesen,Brady Christensen,ocr_typo,dropped letter (Christesen)
+Christensen,Brady Christensen,surname_fragment,mover/seconder surname (only Christensen on PC)
+Chris Samds,Chris Sands,ocr_typo,m-for-n OCR (Samds)
+Sands,Chris Sands,surname_fragment,mover/seconder surname (only Sands on PC)
+Councilmembers David Erickson,David Erickson,role_prefix,un-stripped plural 'Councilmembers'
+Dave Erickson,David Erickson,name_variant,short form of David Erickson
+David,David Erickson,firstname_fragment,seconder first-name (only voting David; the exec David Zook does not vote)
+David Erickcson,David Erickson,ocr_typo,doubled-c OCR (Erickcson)
+David Erickon,David Erickson,ocr_typo,dropped-s OCR (Erickon)
+David Ericksonl,David Erickson,ocr_typo,trailing-l OCR (Ericksonl)
+David Ericksqn,David Erickson,ocr_typo,q-for-o OCR (Ericksqn)
+Erickson,David Erickson,surname_fragment,mover/seconder surname (only Erickson on council)
+Erickson Nolan Gunnell,Nolan Gunnell,parse_error,"comma-split failure on 2021-04-13 #9 'Nay: 2 Erickson Nolan Gunnell, Gordon A. Zilles' — Nay:2 = Gunnell + Zilles; leading 'Erickson' is a stray bleed (Erickson already voted Aye on this motion). Attributes the Nay to Nolan Gunnell."
+Daugs,Nate Daugs,surname_fragment,mover/seconder surname (only Daugs on PC)
+Nate Dauges,Nate Daugs,ocr_typo,trailing-e OCR (Dauges)
+Gordan A. Zilles,Gordon A. Zilles,ocr_typo,a-for-o OCR (Gordan)
+Zille,Gordon A. Zilles,surname_fragment,truncated surname (only Zilles on council)
+Zilles,Gordon A. Zilles,surname_fragment,mover/seconder surname (only Zilles on council)
+Jason Waterson,Jason Watterson,ocr_typo,dropped-t OCR (Waterson)
+Jason Watteron,Jason Watterson,ocr_typo,dropped-s OCR (Watteron)
+Watterson,Jason Watterson,surname_fragment,mover/seconder surname (only Watterson on PC)
+JoAnn Bennett No,JoAnn Bennett,parse_error,trailing vote-token 'No' bled into the name
+Karl,Karl B. Ward,firstname_fragment,seconder first-name (only Karl on council)
+Karl War,Karl B. Ward,ocr_typo,truncated surname (Karl War)
+Ward,Karl B. Ward,surname_fragment,mover/seconder surname (only Ward on council)
+Kathryn Bues,Kathryn Beus,ocr_typo,transposed vowels (Bues)
+Vice- Chair Kathryn Beus,Kathryn Beus,role_prefix,un-stripped 'Vice- Chair'
+Keegan,Keegan Garrity,firstname_fragment,seconder first-name (only Keegan on council)
+Kurt,Lane Parker,corrupted_token,"2025-02-06 PC #12 'Ayes: ... Nate Daugs, Kurt' — a corrupted 6th aye. Every other motion that meeting lists the identical 6-member roll ending in Lane Parker (present, voted all other items); Kurt Bankhead is already named earlier in the SAME line, so 'Kurt' here is a mis-render of Lane Parker, not a second Bankhead vote. Attributes the aye to Lane Parker (preserves Passed 6-0)."
+Lane Paker,Lane Parker,ocr_typo,dropped-r OCR (Paker)
+Parker,Lane Parker,surname_fragment,mover/seconder surname (only Parker on PC)
+Poole,Morris Poole,surname_fragment,mover/seconder surname (only Poole on PC)
+Councilmembers Nolan Gunnell,Nolan Gunnell,role_prefix,un-stripped plural 'Councilmembers'
+Nolan Gunell,Nolan Gunnell,ocr_typo,dropped-n OCR (Gunell)
+Nolan Gunnel,Nolan Gunnell,ocr_typo,dropped-l OCR (Gunnel)
+Rigby,Val Jay Rigby,surname_fragment,mover/seconder surname (only Rigby on PC)
+Val Jay Riby,Val Jay Rigby,ocr_typo,dropped-g OCR (Riby)
+Val Jay Rigyb,Val Jay Rigby,ocr_typo,transposed letters (Rigyb)
+Sandi Good,Sandi Goodlander,name_truncation,truncated surname (Sandi Good)
+Sandy Goodlander,Sandi Goodlander,name_variant,Sandy for Sandi
+Councilmembers Sandi Goodlander,Sandi Goodlander,role_prefix,un-stripped plural 'Councilmembers'
+Worth,Gina H. Worthen,surname_fragment,truncated surname (only Worthen on council)
+Worthen,Gina H. Worthen,surname_fragment,mover/seconder surname (only Worthen on council)
+Nolan Sunnell,Nolan Gunnell,,"OCR G->S typo introduced by the 2026-07-26 named-era OCR pass; 3 rows, all on 2025-02-11, inside Nolan Gunnell's continuous service; never co-occurs with Nolan Gunnell on a motion (0 of 12,601 vote rows)."
+Kathyrn Beus,Kathryn Beus,ocr_variant,"OCR transposition (Kathyrn/Kathryn); 4 refs; never co-occurs with Kathryn Beus. [added 2026-07-26, OCR-era backfill]"
+Ericksin,David Erickson,ocr_variant,"OCR typo of Erickson; 2 refs; never co-occurs with David Erickson. [added 2026-07-26, OCR-era backfill]"
+Mark Hurdy,Mark Hurd,ocr_variant,"OCR trailing-y on Hurd; 2 refs; never co-occurs with Mark Hurd. [added 2026-07-26, OCR-era backfill]"
+Zllles,Gordon A. Zilles,ocr_variant,"OCR i->l on Zilles; 2 refs; never co-occurs with Gordon A. Zilles. [added 2026-07-26, OCR-era backfill]"
+Barbara,Barbara Tidwell,ocr_variant,"First-name-only capture; Barbara Tidwell is the only Barbara on the Council; never co-occurs. [added 2026-07-26, OCR-era backfill]"
+Goodlander,Sandi Goodlander,ocr_variant,"Surname-only capture; only one Goodlander serves; never co-occurs. [added 2026-07-26, OCR-era backfill]"
+Gunnell,Nolan Gunnell,ocr_variant,"Surname-only capture; only one Gunnell serves; never co-occurs. [added 2026-07-26, OCR-era backfill]"
+Jason,Jason Watterson,ocr_variant,"First-name-only capture; only one Jason on the PC; never co-occurs. [added 2026-07-26, OCR-era backfill]"
+David Erickson Chair Goodlander,David Erickson,ocr_variant,"Two names merged by a missing sentence break ('...David Erickson Chair Goodlander...'); the MOVER is Erickson. 2 refs. Recorded here rather than split, because which of the two seconded cannot be recovered from the OCR. [added 2026-07-26, OCR-era backfill]"

@@ -1,0 +1,57 @@
+{
+ "date": "2017-08-28",
+ "year": 2017,
+ "title": "City Council Agenda",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2017/2017-08-28/2017-08-28_city-council-agenda-66.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to.approve the minutes of August 14, 2017",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Cheri Jackson",
+   "seconder": "Silvia Catten",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 17- - adopting a Mission Statement and a Vision Statement",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Bev Uipi",
+   "seconder": "Cheri Jackson",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

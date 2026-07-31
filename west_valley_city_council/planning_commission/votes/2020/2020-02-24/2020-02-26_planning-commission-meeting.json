@@ -1,0 +1,70 @@
+{
+ "date": "2020-02-26",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Brent Fuller",
+  "Cindy Wood",
+  "Clover Meaders",
+  "Darrick Porter",
+  "David McEwen",
+  "Martell Winters",
+  "Mathew Lovato"
+ ],
+ "source": "minutes/2020/2020-02-24/2020-02-26_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to denial of ZT-2-2020",
+   "body": "PlanningCommission",
+   "motion_type": "Zone Text Amendment",
+   "action_category": "recommendation",
+   "result": "Negative recommendation 6:1",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "Brent Fuller",
+   "seconder": "Cindy Wood",
+   "names_recorded": true,
+   "aye": [
+    "Brent Fuller",
+    "Cindy Wood",
+    "Clover Meaders",
+    "Darrick Porter",
+    "Martell Winters",
+    "Mathew Lovato"
+   ],
+   "nay": [
+    "David McEwen"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approval of C-2-2020 subject to the 6 conditions in the staff report",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "6:0 Approved (Final Action)",
+   "result_source": "",
+   "outcome_word": "",
+   "mover": "David McEwen",
+   "seconder": "Mathew Lovato",
+   "names_recorded": true,
+   "aye": [
+    "Brent Fuller",
+    "Cindy Wood",
+    "Clover Meaders",
+    "Darrick Porter",
+    "Martell Winters",
+    "Mathew Lovato"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "date": "2020-07-29",
+ "title": "City Council",
+ "body_slug": "city-council-meeting",
+ "source": "minutes/2020/2020-07-27/2020-07-29_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Council Member Doilney moved to close the meeting to discuss property, personnel, and litigation at 6:00 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "3-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Max Doilney",
+   "seconder": "Nann Worel",
+   "aye": [
+    "Max Doilney",
+    "Steve Joyce",
+    "Nann Worel"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Becca Gerber",
+    "Tim Henney"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "Council Member Joyce moved to adjourn from Closed Meeting at 7:00 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Steve Joyce",
+   "seconder": "Max Doilney",
+   "aye": [
+    "Max Doilney",
+    "Tim Henney",
+    "Steve Joyce",
+    "Nann Worel"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Becca Gerber"
+   ],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

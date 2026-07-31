@@ -1,0 +1,35 @@
+Sandy — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 4195   motions: 867   named-vote motions: 583   tally-only motions: 284
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 1, undocumented (DEFECTS): 0
+   OK  2021-08-17 m5 Cyndi Sharkey x2 (Aye+Nay) :: 2021-08-17_city-council-meeting.md  [db/vote_overrides.csv]
+
+4. ROSTER: roster.csv present (11 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 566/583 match (97.1%)
+   documented dissent-only-naming undercounts (source style, not defects): 17
+      2020-08-18 m5: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6-1 Pass'
+      2020-09-01 m2: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6-1 Pass'
+      2020-10-13 m1: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Pass'
+      2020-10-13 m2: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Fail'
+      2020-10-13 m3: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4-3 Pass'
+      2020-11-10 m3: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4-3 Pass'
+      2020-11-10 m4: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4-3 Pass'
+      2020-11-10 m7: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4-3 Pass'
+      2020-11-10 m13: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Pass'
+      2020-11-17 m3: stated 2:5 vs counted aye=0 nay=5 abstain=0 :: result='2-5 Fail'
+      2020-11-17 m4: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6-1 Pass'
+      2020-11-17 m5: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6-1 Pass'
+      2021-01-26 m4: stated 2:5 vs counted aye=0 nay=5 abstain=0 :: result='2-5 Fail'
+      2021-04-20 m6: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Pass'
+      2021-04-20 m7: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Pass'
+      2021-05-11 m1: stated 3:4 vs counted aye=0 nay=4 abstain=0 :: result='3-4 Fail'
+      2021-05-11 m2: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5-2 Pass'
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

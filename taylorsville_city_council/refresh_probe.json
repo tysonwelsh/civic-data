@@ -1,0 +1,26 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-18",
+    "portal": "civicengage-central",
+    "index_max_date": "2026-06-03",
+    "index_rows": 150,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://www.taylorsvilleut.gov/government/elected-officials/city-council-agendas-minutes",
+    "new_count": 0,
+    "notes": "CivicEngage Central Minutes year folders (first-column = Minutes, verified live); dates already indexed or in minutes_unrecovered.csv are excluded. | PMN body 720: 2 council notice date(s) newer than index max (cross-check only — CivicEngage is the authoritative fetch source; PMN exposes only the most-recent window via GET)",
+    "new_items": []
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-18",
+    "portal": "civicengage-central",
+    "index_max_date": "2026-04-28",
+    "index_rows": 91,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://www.taylorsvilleut.gov/government/planning-commission/planning-commission-meeting-minutes",
+    "new_count": 0,
+    "notes": "CivicEngage Central Minutes year folders (first-column = Minutes, verified live); dates already indexed or in minutes_unrecovered.csv are excluded.",
+    "new_items": []
+  }
+}

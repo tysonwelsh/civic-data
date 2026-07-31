@@ -1,0 +1,41 @@
+{
+  "contributions": [
+    {"date": "10/09/25", "name": "Paige Anderson", "amount": "16.03", "in_kind": false},
+    {"date": "10/09/25", "name": "Deena Mitchell", "amount": "16.03", "in_kind": false},
+    {"date": "10/09/25", "name": "Mary Ann Closser", "amount": "5.22", "in_kind": false},
+    {"date": "10/08/25", "name": "Utah Women and Politics PAC", "amount": "1,250.00", "in_kind": false},
+    {"date": "10/13/25", "name": "Shannon Hugh Jacobs", "amount": "100.00", "in_kind": false},
+    {"date": "10/13/25", "name": "E. Paul Jacobs", "amount": "100.00", "in_kind": false},
+    {"date": "10/14/25", "name": "Luke Maynes", "amount": "25.00", "in_kind": false},
+    {"date": "10/15/25", "name": "Katie Wright", "amount": "659.98", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Felicia Cotton", "purpose": null, "amount": "190.00", "in_kind": false},
+    {"date": null, "recipient": "Sun Print Solutions", "purpose": null, "amount": "2,157.46", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "118.09", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake City", "purpose": null, "amount": "8.00", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "15.00", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "17.00", "in_kind": false},
+    {"date": null, "recipient": "Sun Print Solutions", "purpose": null, "amount": "185.37", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "19.00", "in_kind": false},
+    {"date": null, "recipient": "Facebook", "purpose": null, "amount": "21.00", "in_kind": false},
+    {"date": null, "recipient": "Google Ads", "purpose": null, "amount": "200.00", "in_kind": false},
+    {"date": null, "recipient": "Felicia Cotton", "purpose": null, "amount": "220.00", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political", "purpose": null, "amount": "896.70", "in_kind": false}
+  ],
+  "total_contributions": "2172.26",
+  "total_expenditures": "4047.62",
+  "contributions_50_or_less": null,
+  "beginning_balance": "4402.93",
+  "ending_balance": "2527.57",
+  "_meta": {
+    "index_path": "raw/202510_Ben-Peck_17265.pdf",
+    "candidate": "Ben Peck",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "reporting_period": "Pre-General 7-day (Oct 3 - Oct 23, 2025)",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "itemized Schedule A sums to 2172.26 vs printed cover 2172.26 (reconciles); itemized Schedule B sums to 4047.62 vs printed cover 4047.62 (reconciles)"
+  }
+}

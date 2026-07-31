@@ -1,0 +1,703 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11102025-975
+> Meeting date: 2025-11-10
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2025-11-10
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11102025-975
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                      Minutes          of the
+                                                                                              Millcreek            City       Council
+                                                                                                November               10,       2025
+                                                                                                           6:00      p.m.
+                                                                                                      Work         Meeting
+                                                                                                           7:00      p.m.
+                                                                                                     Regular         Meeting
+
+
+The      City     Council        of Millcreek,               Utah,       met in a public         work      meeting            and regular           meeting       on
+November             10, 2025,         at City        Hall,       located     at 1330        E. Chambers            Avenue,            Millcreek,         UT     84106.
+The meeting              was recorded               for the City's           website       and had an option                  for online        public      cornrnent.
+
+
+PRESENT:
+
+
+Council          Members                                                                        City      Staff
+Jeff     Silvestrini,          Mayor                                                            Mike      Winder,            City      Manager
+Silvia      Catten,       District        I                                                     Alex      Wendt,          Deputy         Recorder
+Thom        DeSirant,          District        2                                                Kurt      Hansen,           Facilities        Director
+Cheri      Jackson,         District          3 - Mayor                                         John      Brems,          City      Attorney
+Bev      Uipi,      District      4                                                             Carlos         Estudillo,         Planner
+                                                                                                Brad      Sanderson,             Plai'u'ier
+                                                                                                Rita     Lund,       Communication                   Director
+                                                                                                Lisa     Dudley,          Finance         Director
+
+
+Planning            Commissioners:                   Christian           Larsen,     Shawn       LaMar
+
+
+Attendees:            Russ       Sorensen,           Leslie       Silvestrini,       Chief      Petty-Brown,              Robi         Overson,       Chief      Jason
+Mazuran,          Rick      Hansen,           Ted     Cundick,           Laura     Renshaw,           Kristy      Soffe,         Dan     Green,      Christine
+Green,       John Tuutau,              Auschel            Felt,    Liz    Shellum,        France       Barral,      Dan       Lauritzen,          Matt     Gardner,
+Jack Adams,              Tyler      Morris
+
+
+WORK             MEETING               - 6:00         p.m.
+TIME         COMMENCED:                            6:01    p.m.
+
+
+
+
+Mayor        Silvestrini         called        the work           meeting        to order.
+
+
+1. Joint         Planning           Commission                Meeting:
+   a. 33rd           South       Apartments                 (1306        E 3300      S)
+          Carlos        Estudillo         said the City            Council         may     approve        a CCOZ-DA                 (City      Center      Overlay
+          Zone       - Development                 Agreement)             zone     upon      receiving         recommendation                  from      the Planning
+          Commission.               The       following           developments            are eligible          for a CCOZ-DA:                  buildings        that do
+          not exceed           150     feet in length              or 100     feet in depth,           buildings          of any size that provide                  one of
+          the following             public         benefits       as part     of a CCOZ-DA.                Public         benefits       include         but are not
+          limited       to; publicly           accessible           open     space,       publicly       accessible           parking,        and affordable
+          housing.         There       is an initial          review,       a review         of reasonable           anticipated            detrimental          effects,
+Millcreek        City     Councn         Meeting        Minutes                                   10 November             2025         Page 2 of 12
+
+
+
+       city council         review        and required          findings,      map design,         amendments,            and a development
+       agreement.
+
+
+       Tyler     Morris         with    Cottonwood             Residential          gave a presentation          on the     33rd and 13th Mixed
+       Use Project.          They       are pursuing           a CCOZ-Development                  agreement          and are requesting            two
+       variances.         They       are proposing            a building      length     along     3300 South which              exceeds       the limit
+       of 150 feet, and a proposed                     stepback         that varies      in depth from         5 feet to 23 feet with              sections
+       below        CCOZ          requirement         of 20 feet and a portion                that steps back above the                3rd floor rather
+       than the 2nd floor.               The project          can be designed           without     variances,          but Cottonwood             is also
+       proposing          to directly       provide          several    design       enhancements          detailed      in the CCOZ-DA               as
+       additional         mitigation.        They      are proposing           design        enhancements         with    increased        fagade
+       modulation,           pernneability,           and open space integration.
+
+
+       Mayor        Silvestrini         said he will         not be able to vote on this though                   he likes       the idea of a wider
+       sidewalk          than a deeper stepback.                 Council       Member          DeSirant      said that what           Cottonwood           is
+       asking       for makes          sense and works            well     with      the area. Council         Member          Jackson      said she
+       likes the idea of a wider                   sidewalk,      it allows         people     to move      farther     from     the street, the
+       building         looks      nice, the drive           through     area looks          nice but she would          like to see a better
+       parking       configuration.           Mr. Morris           said there is one level of underground                        parking     and 3
+       levels     of above ground                 parking.      Then there are four levels                 of residential        space on top of the
+       parking.         A structure        like     Cottonwood           Highland        pays $70,000          a year in property           taxes. A
+       fast-food         equivalent        would       be about $50,000               in sales tax and $2,000             in property       tax.
+       Twenty        percent        of sales tax coming                to Millcreek          comes from       online      sales. Council          Member
+       Uipi     said that there is not enough                    affordable          housing     in Utah      so building        housing     in
+       Millcreek          is helpful      for people          who want to live around               the amenities           of the city.     Council
+       Member           DeSirant        is happy       to see commercial               space at the building.
+
+
+   b. MC        29 Condominiums                    (1285      E Villa      Vista      Avenue)
+       Mr. Estudillo              said this project          does meet the criteria             of being      less than 150 feet in length
+       and 100 feet in depth.                They       are seeking         exceptions         to stepback      requirements.           Russ
+       Sorensen          gave the presentation                 on MC29.        He wants         to see a city center           with    diversity      and
+       equity.      They        have taken a small parcel                  to help with        diversity      of housing.        Mr.    Sorensen
+       would      rather        call it attainable           housing.      The maximum            amount       of money          that these condos
+       can be sold for is $450,000.                     The building          could     be twice      as high but to make               it attainable
+       housing          they had to scale it down                 to three stories.           It is 24 units because           there is only
+       enough       parking         for 24 units.        The homes           will    go very quickly.          The state of Utah has funded
+       $300 million             for affordable         housing.         Millcreek       needs affordable          housing.        There     are not
+      many        east bench           cities that have attainable                housing      in their city centers.
+
+
+       Mr. Winder           said there is an ad hoc affordable                        housing      committee          at the city,     one thing       they
+      have talked           about is a $50,000                per unit in affordable            housing       dollars     from    the CRA's.          This
+       would      be the first          experiment           to do in Millcreek.             There will     be preference          for Millcreek
+       employees.           Mayor        Silvestrini         said they are very interested                 in getting     more     owner-occupied
+      housing           in the city center           and the community.                Mr.    Sorensen       said that people          who buy these
+      must live here for six years otherwise                             they have to pay money                back to the state. He hopes
+      that people          will     stay for longer.           This can be a prototype              property       for small       parcel
+       developments               that are owner         occupied.         Council       Member       DeSirant          said he is excited          about
+      this project         but does have concern                  about using public              money       and not wanting           to create a
+Millcreek           City     Council              Meeting           Minutes                                          10 November                2025         Page     3 of 12
+
+
+
+          lottery     for the homes.                 Mr.      Sorensen             said that people             will     be penalized              if they     sell before           six
+          years.     Council            Member             DeSirant         said he is concerned                      about     value      after     six years        are up.
+          Mr.     Winder           said there         are protections               built      into    the state code about                   preventing
+          corporations             from      buying          these up in six years.
+
+
+2. The       Mfflcreek             CHaRM              (Collection             of Hard-to-Recycle                        Materials)            Event      Report;          Robi
+    Overson,             Utah       Recycling              Alliance
+   Robi         Overson           said there         are many          items        that      are recyclable             but are harder             to recycle        and do
+   not need to be in landfills.                           In his experience                  people      want        this.    They       want      to see these          events
+   held      more        often.      They         collected         7,368      pounds          of material             and had 180 vehicles                    show      up. This
+   is the biggest             event        that they         have held             and was the most                   successful.          People       now      know        that
+   these        events      are being             held     and they         will      hold     onto this recyclable                  material         rather     than putting
+   it in a landfill.              There      was 3,675              pounds         of electronic              waste     that was collected.
+
+
+3. Staff        Reports
+   Mr.      Winder          gave        a staff     report      about        the Fine          Art     Inn Gallery,            it will     be moving            to the old
+   Dollar         Tree     site for two             years.     Woodbury                Corporation              had been hoping                 to put a VA           clinic        into
+   the old city            hall    building.          They      would          like     to revitalize           that     area into         a sales tax generator                   for
+   the city.        The canal             right     of way          is causing         a lot of trouble                for changing           the property.           Mr.
+   Winder           is proposing             that Woodbury                  take over          the Check             City     building        and manage             that      area.
+   A marquee               corner       restaurant           in the area could                 be successful.                They    would         manage         the center,
+   and Millcreek                  would      have        an income            stream         for the next            20 years        there.     Mayor          Silvestrini
+   said he is disappointed                        that the VA           clinic        project         died.
+
+
+4. Discussion              of Agenda              Items,       Correspondence,                        and/or         Future         Agenda         Items
+There      was none.
+
+
+Council         Member             DeSirant              to adjourn           the work           meeting             at 6:56        p.m.      Council         Member            Uipi
+seconded.           Mayor          Silvestrini             called     for     the vote.          Council            Member           Catten         voted       yes, Council
+Member            DeSirant          voted          yes, Council             Member              Jackson             voted     yes, Council             Member            Uipi
+voted      yes, and         Mayor           Silvestrini             voted     yes. The           motion             passed      unanimously
+
+
+
+
+REGULAR               MEETING                     - 7:00      p.m.
+TIME        COMMENCED:                             7:02     p.m.
+
+
+1. Welcome,              Introduction               and       Preliminary               Matters
+            1.1     Pledge         of Allegiance
+            Mayor          Silvestrini            called     the meeting              to order         and led the pledge                  of allegiance.
+
+
+            Council          Member               DeSirant            moved           to reorder          the       agenda          to move         agenda        item       1.2     to
+            after     item        1.4     and      items      3.3 and          3.4 ahead              of item         3.1 Council           Member             Jackson
+            seconded              the motion.              Mayor        Silvestrini             asked         for    the vote.        Council          Member            Jackson
+            voted        yes, Council               Member            DeSirant              voted       yes, Council             Member             Catten        voted        yes,
+            Council          Member               Uipi      voted      yes. Mayor               Silvestrini            voted        yes. The         motion        passed
+            unanimously.
+Millcreek          City     Council       Meeting         Minutes                                 10 November                 2025         Page 4 of 12
+
+
+
+            1.2 0ath         of Office;          Mayor      Cheri       Jackson
+            Mayor         Silvestrini      said it has been an honor                and privilege         to serve this community.                        The
+            reception        last week       was beautiful             and moving.       He said he wanted                  to pass along some
+            heirlooms          (toy bus and yard stick)                to Mayor       Elect   Cheri      Jackson.           One of the first things
+            you must do as Mayor                   is make sure staff are in the right                   seat on the bus. Millcreek                       has not
+            been reluctant            to help people            move    to the position       where       they might              do better.      Mayor
+            Silvestrini        presented         a yard stick that was from              the first      city manager,              John Geilman.
+            There      are many         demands          on your time, it is a part time mayor                      position,          but it is a full-
+            time job.        But you must prioritize                things.   Never      put that which             matters         most       at the mercy
+            of which        matters       least. As the Mayor              you represent          the whole        city      of 65,000          people.
+            Vendors         want to sell their           goods to the city;          developers         are looking              out for their project.
+            So, ask yourself,            is this in the best interest              of the whole         city.     Mayor          Silvestrini      said he
+            knows         that Cheri      Jackson        will    serve this city and the people                  well.      He is proud          to call her
+            mayor.
+
+
+            Alex     Wendt,       the Deputy          Recorder         administered       the Oath of Office                  to Mayor-Elect              Cheri
+            Jackson.        She swore        to uphold          her office    and carry out her duties                    with     fidelity.
+
+
+            Council        Member         Catten      said that when Mayor               Silvestrini       told her he was resigning                       that
+            she cried.        She was not worried                 about the city;       she was more worried                      because       Mayor
+            Silvestrini        has been an amazing                 mentor.    She wished          him the best and expressed                        her love.
+
+
+            Council        Member         DeSirant        said he moved            to Millcreek        in 2010 and he met Mayor
+            Silvestrini        in 2019.      He noted that Mayor               Silvestrini        opened        his eyes to the good things
+            happening          in Millcreek         and inspired         him to become            actively        involved.         Council        Member
+            DeSirant         expressed       gratitude          for the mayor's        mentorship         and the chance                to serve the
+            community.
+
+
+            Council        Member         Uipi     said she was so honored               to know        Mayor            Silvestrini       for 19 years.
+            Fostering         a friendship        of the last nine years has been amazing.                          She thanked                Mayor
+            Silvestrini        for his support           and leadership.          She wished        him all the best and expressed                          her
+            love.
+
+
+            Mayor         Jackson       said she was gratefiil             for the trust placed          in her by Mayor                  Silvestrini       and
+            the City       Council.       She feels that she had the best mentor                        in Mayor            Silvestrini        on how to be
+            a public       servant       and leader.       She thanked         Mayor      Silvestrini           for being         her good friend.
+            Mayor         Silvestrini      showed        everyone        how to care for a whole                 city,     not just a quarter             of it.
+
+
+        1.3 Proclamation                   Honoring             Jeff Silvestrini       for His Exemplary                    Service        to the People
+            of Mfflcreek           as a Community                 Leader      and Millcreek's             Founding               Mayor
+
+
+            Mayor         Jackson       proclaimed:
+
+
+            WHEREAS, the Millcreek Covmcil expresses gratitude to Jeff Silvestrini for his exemplary
+            service to the people ofMillcreek as a community leader and as Millcreek's founding mayor; and
+
+                   WHEREAS, Jeff is a proud graduate of the University of Michigan and the University of
+            Utah College of Law; arid
+Millcreek          City         Council        Meeting        Minutes                                       10   November           2025     Page      5 of 12
+
+
+
+                    WHEREAS, originally from Battle Creek, Michigan, Jeffpracticed law in Salt Lake City
+             and moved to Millcreek with his wife Leslie in 1987; and
+
+                            TVHEREAS, Jejf and Leslie raised two amazing and charming daughters, Liz and Jill, in
+             Millcreek;          and
+
+
+                      WHEREAS, Jeff served as a member and Chair of the Mount Olympus Comrrttmity
+             Council for 24 years before Millcreek incorporated,' and
+
+             WHEREAS, Jejf successfidly advocatedfor the citizen's initiative to incorporate Millcreek; and
+
+             WHEREAS, Jeff was elected in 2016 as Millcreek's founding mayor and Millcreek was
+             incorporated           as a Utah Municipality                on December          28, 201 6; and
+
+
+             VVHEREAS, vmder Jeff's strong leadership, Millcreelc master-planned and built a city center;
+             improved           roads;    and added parks,           trails,   and open space,               inchtdingMillcreek            Common;          and
+
+
+             TVHEREAS, Jeff shepherded the creation of the Millcreek Promise Program, which bridges
+             divides, bttilds community, and lifts all boats in the City; and
+
+            TVHEREAS, Jeff brought distinction to Millcreek not only in his service as Mayor, but also for
+            his long-time service on key regional boards inchtding the Utah League of Cities and Towns,
+            where          he    vdtimately        served     as President;        the        Wasatch        Front       Regional     Council,        the    Central
+            Wasatch Commission, the Unified Fire Authority, the Unified Police Department, and the
+            Covmcil of Governments (Conference of Mayors), each of which he chaired at least one term
+            during his tenure; and Saint Mark's Hospital. Through this representation, Jeff will be
+            remembered              as giving          Millcreek     a strong         voice     in    the    region,      enabling     the   City     to lead      on
+            important regional issues and earning the deep respect of elected officials at the regional state,
+            and federal levels; and
+
+            WHEREAS, Jeff demonstrated resolve and moral courage in advocating for affordable housing,
+            the rights of immigrants, the dignity of Utahns experiencing homelessness, and the shared
+            responsibility           we have as Millcreek                to welcome      all who live,           work,    play,   and pray    here;     and
+
+
+            TVHEREAS, Jeff had an outsized role in shaping the executive leadership and staff of Millcreek
+            through        his work       ethic,    tntst,   sttpport,     and principled            leadership;         and
+
+
+            TVHEREAS, Councilmember Silvia Catten wanted to share these words to honor Mayor Jeff
+            Silvestrini:
+
+
+            Mayor Silvestrini led with intelligence, discernment, and a whole lot of heart. His altruistic spirit
+            will   have a lasting             impact     on Millcreek.
+
+
+            WHEREAS, Councilmember Thom DeSirant wanted to share these words to honor Mayor Jeff
+            Silvestrini:
+
+
+            Mayor Silvestrini's leadership laid thefoundation forMillcreek as a city and motivated residents
+            like myself to become actively involved in serving our commtmity. Beyond being a great mayor,
+            he has been an incredible mentor and friend, and I cannot thank him enough.
+
+            WHEREAS, Councilmember Cheri Jackson wanted to share these words to honor Mayor Jeff
+            Silvestrini:
+Millcreek         City      Council      Meeting      Minutes                              10 November              2025      Page 6 of 12
+
+
+
+
+            I can't begin to thank Mayor Silvestrini for his service to Mil(creek, not only as our first Mayor
+            but also through incorporation and for many years before that on the Mormt Olympus
+            Community Couricil. He has committed his all to ensure our city is on solid footing and to make
+            sure allMillcreek residentsfelt inchtded and vahted.
+
+            WHEREAS, Covmcilmember Bev Uipi wanted to share these words to honor Mayor Jeff
+            Silvestrini:
+
+
+            It has been an honor and joy to worlc with Jeff over the past 20 years. F%ile his compassion,
+            leadership, and love for Millcreek will be deeply missed, we wholeheartedly stpport his decision
+            to focus on his priorities -Leslie and his family.
+
+                    NOW, THEREFORE, BE IT PROCLAIMED that the Cobmcil, on behalf of the people
+            of Millcreek, expresses deep appreciation and hea4elt gratitude to Jeff Silvestrini for his
+            extraordinary            dedication     and numerous         accomplishments          while    serving     as a community             and
+            regional leader, and as Millcreek's founding mayor.
+
+
+Council       Member           Catten      moved      to take     a recess.     Councn        Member        Uipi     seconded.       Mayor
+Jackson        asked        for the vote.       Councn       Member         Catten    voted      yes, Council         Member        Uipi   voted
+yes, Council          Member           DeSirant      voted      yes, and Mayor          Jackson        voted      yes. The motion          passed
+unanimously.
+
+
+Council       Member           Uipi     moved      to come      out of recess.       Council      Member           DeSirant     seconded
+the motion.          Mayor       Jackson          asked   for   the vote.     Council     Member          Uipi     voted   yes, Council
+Member          DeSirant        voted      yes, Council         Member       Catten      voted     yes, and Mayor             Jackson      voted
+yes. The motion              passed      unanimously
+
+
+1.4 Utah        PTA         Centennial       Celebration         Proclamation
+
+
+            Mayor          Jackson     proclaimed:
+
+
+            WHEREAS,              The Utah Parent            Teacher     Association       (Utah    PTA)         has led [oca[[y,
+            regionally, and nationally in sttpporting fctmily engagement and advocating 072 behalf of
+            all children and families; and this centennial year provides an opporttmity to reflect on
+            its many accomplishments and celebrate 100 years as a powerful voice for children, a
+            trusted resource for parents, and a strong advocate for public education; and
+
+            WHEREAS,              Utah PTA has been instrumental                     in establishing      programs         and services          that
+            improve children's Lives, including-but not limited to-defending public education and
+            ensuring stable fimding by opposing voucher efforts, advancing parent and family
+            engagement, creating kindergarten with fidl day options, promoting child-labor laws and
+          public-health           services,       supporting      hot-and-healthy         hmch programs,             strengthening         the
+          juvenile-justice system, protecting and ensuring growth of Public TrustLands that benefit
+           Utah school children, promoting arts in education, and championing school safety; and
+
+            WHEREAS, The formders of the Parent Teacher Association, Phoebe Apperson Hearst
+            and Alice McLellan Birney, together with Selena Sloan Butler, founder of Georgia's
+            Congress of Colored Parents and Teachers, were visionary women of imagination and
+Millcreek            City     Council      Meeting        Minutes                                  10 November              2025       Page     7 of 12
+
+
+
+             courage who broke through the barriers of their time to improve the lives of childrert and
+            families, leaving a legacy that continues to inspire action today; and
+
+             WHEREAS, Theseremarkable leaders shared a simple yet profound idea-to improve
+             the lives andfittures of all children; and though our nation has changed, that vision
+             endures          as PTAs      continue      to keep it alive;         and
+
+
+            WHEREAS, Founded in Washington,D.C., as theNational CongressofMothers, the
+            Parent TeacherAssociation    marked its 128th anniversary on February 17 2025; and
+            since its irxceptionin 1891 the organization has steadfastly advocatedfor the education,
+            health, safety, and well-being of all children, earning the appreciation and recognition of
+            the public;           and
+
+
+            WHEREAS, In October 1925, at the armual convention of the Utah Education
+            Association, Margaretta Reeves,President of the National Congress of Parents and
+            Teachers,officially invited the Utah Mothels Congress to join the national organization.
+            Accepting this invitation, Utah became the Utah Congress of Parents and Teachers,with
+            Lucille YovmgReid as its first Presidem-marking a new era of parent andfamily
+            engagement             in Utah;      and
+
+
+             WHEREAS,                 Today,     Utah    PTA      is the largest      vohmteer            child-advocacy          organization         in
+            Utah,       uniting       parents,      caregivers,      grandparents,             educators,         and other       caring     adults    in a
+            shared          mission     to make       every    child's   potential       a reality;         and
+
+
+            WHEREAS, for a century, Utah PTA has left a lasting impact on schools,families, and
+            commtmities across the state by fosterirxg leadership, empowering voices, and ensuring
+            that generations of children have benefitedfrom stronger educational opporttmities,
+            healthier environments, and a greater senseof belonging.
+
+            NOW, THEREFORE, I, Cheri Jackson, Mayor of Millcreek, do herebyproclaim
+            November            2025     as Utah        PTA    Cerxtetxnial       Celebration         Morxth,        and I encourage             all   Utah
+            residents         to join    in celebrati-ng          this milestone       and to sttpport            PTA    by joining         a local    PTA
+
+            or PTSA in reaffirmation of the commitment to Make Every Child's Potential a Reality.
+
+        1.5          Public     Comment
+            Laura       Anderson         submitted        an online      comment,         'Dear       Millcreek         City     Courxcil     and
+
+        Plannirtg Commission,I'm writ=g as a paraglider pilot offive years and the currem
+        Secretary of the Utah Hang Gliding and ParaglidingAssociation (UHGPGA). For many
+        years-likely decades-pilots have safely used the grassyfields at Eastwood Elementary
+        as a landing zonefor flights from Grandeur Peak and other WasatchFront sites.
+        In the SaltLake Valley's dense urban environment, opert greenspacessuitable for safe
+        landings are extremely rare. Eastwood's fields provide a crucial and safe option in art
+            area      surrormded          by homes,       trees,     and power        lines.     Pilots     have    long       respected      agreements
+            with      the school,        avoiding       use during       school      hours      and comntmity              events.
+
+        IfEast-wood Elementary is closed, I strongly urge the City of Millcreek to preserve the
+        property as public greenspace-whether as a park or opert recreation field. The site
+        provides not only a safety resourcefor thefree-flight community but also an
+        irreplaceable patch of green in our growing city, serving residents, students, and visitors
+            alike.
+Millcreek        City     Council         Meeting       Minutes                                   10 November              2025          Page 8 of 12
+
+
+
+            Thanlcyou for considering the lasting comnumity vahte of this properffl"
+
+            Laura      Renshaw,        Millcreek          Library,      spoke     about homework               help that is being             offered         by
+            the library       to help kids with            their homework             until    midnight        on weekdays.              It is a work           in
+            progress      but is going         well.      Slie asked the city council                  to keep the library           in mind.
+
+
+            Kristi     Soffe,     a local business          owner       in the Meadowbrook                   area, said their business                 has
+            been on the corner              of 3900 S and 500 West for forty                       years. They          are concerned             about the
+            plan to build          bike paths in the area and eliminating                        traffic.     A plan with          increased        walking
+            traffic     could be a safety           issue and losing           road access would               be detrimental            to her
+            business.      They      feel like it would           be a regulatory             taking     of their property,          how does the
+            city intend         to handle     this, would         the city be willing            to buy their property               for fair market
+            value,      what do they do about their customer                          recognition           of 50 years?        They      think     that the
+            businesses          in the area need more                consideration.
+
+
+2. Planning           Matters
+
+
+            2.1 Discussion           and Consideration                  of Ordinance            25-48,       Adopting       the Meadowbrook
+            Station      Area       Plan    as an Element              of the Millcreek            Together        General          Plan
+            Sean Murray            said the plan does focus on residential                        uses but if someone                changes        the use
+            on their property,             it does not take away existing                     uses, but if someone              wanted        to change
+            the use of their property,                 they must follow           the city code for the area. Council                         Member
+            Catten      said she is familiar            with    the Soffe business.             In the process           of this area plan there
+            were other businesses               that had come to some of the meetings                            with     their     concerns.          The
+            council      did take those concerns                into consideration.              This plan is a guideline                 for turnover               in
+            the future,       mainly       for transit.     Council          Member      Catten        asked the business             owners        to email
+            her if they need help.
+
+
+Council       Member          DeSirant        moved         to adopt         Ordinance          25-48,      Adopting        the Meadowbrook
+Station     Area       Plan     as an Element             of the Mfflcreek            Together           General        Plan.     Council         Member
+Catten      seconded.           Council     Member          Catten      asked Mr. Murray                if Millcreek       decides        to alter the
+Millcreek       Together          Plan if this would           be affected.       Mr. Murray            said he thought            it might       be
+affected     but that was a better             question        for the city legal team. Council                    Member          Catten      said that
+this plan was done with                South     Salt Lake        City,      and she would             hate to change           things    and mess up
+the South       Salt Lake Plan. Mr. Murray                     said the ordinance              is for the Millcreek             side and that it does
+not necessarily          affect     the other city.        Council        Member        DeSirant         said that this plan does not mean
+the city is going         to swoop         in and take land.            Mayor      Jackson        said that it is not set in stone, these
+plans are always           changing,         they want to be protective                 of the businesses              that are serving            the
+community.            The Deputy           Recorder        called      for    the vote.       Council        Member        Catten         voted        yes,
+Council      Member           DeSirant        voted       yes, Council          Member          Uipi     voted     yes, and Mayor                 Jackson
+voted     yes. The motion              passed     unaniiuouhly.
+
+
+3. Financial          Matters
+
+
+            3.3 Public        Hearing        to Consider             a Monetary         Contribution             of Up to $10,000                 for the
+            Promise       Program           Winter        Clothing        Drive
+            This item was reordered                  and moved          to item    3.1. Lisa Dudley,             Finance          Director,       said that
+            for this appropriation             to happen        a budget        amendment           must take place.              Mr. Winder             said
+Millcreek          City     Council        Meeting        Minutes                                  10 November              2025      Page 9 of 12
+
+
+
+            that the winter           clothing     drive     will    also have a QR code so people                      can donate in that way
+            as    well.
+
+
+Council       Member           Uipi     moved        to open the public            hearing.          Council      Member            DeSirant
+seconded.         Mayor        Jackson         called     for the vote.      Council         Member            Catten       voted     yes, Council
+Member           DeSirant       voted        yes, Council           Member       Uipi     voted      yes, and Mayor             Jackson          voted
+yes. The motion               passed       unanimously.
+
+
+Mayor       Jackson         said that the monetary             donations       option      was created to fill           in the gaps for items
+that have not been donated.                    Perhaps      there were many              coats donated           but they could use more
+socks, the funds             could    be used to buy items that were not donated                            but still useful.
+
+
+There     were no public              comments.
+
+
+Council      Member            DeSirant         moved       to close the public             hearing.        Council      Member           Catten
+seconded.         Mayor        Jackson         called     for the vote.      Council         Member            Catten       voted     yes, Council
+Member           DeSirant       voted        yes, Council           Member       Uipi     voted      yes, and Mayor             Jackson          voted
+yes. The motion              passed        unanimously
+
+
+            3.4 Discussion             and Consideration               of Ordinance           25-47,        Approving          a Monetary
+            Contribution              of Up to $10,000              for the Promise          Program           Winter        Clothing      Drive
+            Ms. Dudley          explained         that this ordinance          approves        of the monetary              contribution         to the
+            Promise         Program        of up to $10,000.
+
+
+Council      Member            Uipi    moved       to approve          Ordinance           25-47,      Approving            a Monetary
+Contribution              of Up to $10,000              for the Promise          Program           Winter        Clothing      Drive.      Council
+Member           DeSirant       seconded.         The Deputy            Recorder          called     for    the vote.       Council      Member
+Catten      voted         yes, Council        Member         DeSirant        voted       yes, Council          Member          Uipi     voted     yes,
+and Mayor           Jackson          voted     yes. The motion            passed        unanimously
+
+
+            3.1 Public         Hearing         to Consider          Amending            the Fiscal      Year      2025-2026           Budget
+            Ms. Dudley          said that two funds have suggested                        budget       amendments.           This has to do with
+            the Promise         Program          and Ordinance          25-47.     There      was one miscellaneous                   expenditure          to
+            track the non-cash               contribution      of a mural        costing      $10,000.         Then the other item was for
+            $10,000         to the Promise         Program          for the winter        clothing      drive.     Council      Member           DeSirant
+            said that after a decade there will                     be sidewalks          on 700 East. This is a major                  program          that
+            the council        initiated      to have safe streets for kids. Ms. Dudley                          said there are also changes
+            to the fee schedule.
+
+
+Council      Member           Uipi     moved       to open the public              hearing.        Council        Member            DeSirant
+seconded.         Mayor        Jackson         called     for the vote.      Councn          Member            Catten       voted     yes, Council
+Member           DeSirant       voted        yes, Council       Member           Uipi     voted      yes, and Mayor             Jackson          voted
+yes. The motion              passed      unanimously.
+
+
+There were no cornrnents.
+
+
+Council      Member           DeSirant          moved       to close the public            hearing.         Council      Member           Uipi
+seconded.         Mayor       Jackson         called      for the vote.      Council         Member            Catten       voted     yes, Council
+Millcreek       City    Council        Meeting         Minutes                                        10 November               2025      Page 10 of 12
+
+
+
+Member        DeSirant         voted     yes, Council               Member           Uipi    voted     yes, and Mayor               Jackson        voted
+yes. The motion           passed        unanimously.
+
+
+            3.2 Discussion          and Consideration                      of Ordinance             25-46,    Amending            the Fiscal       Year
+            2025-2026        Budget
+
+
+Council      Member          DeSirant          moved         to approve          Ordinance             25-46,     Amending             the Fiscal     Year
+2025-2026       Budget.        Council         Member           Catten         seconded.        The Deputy              Recorder          called    for the
+vote.    Council       Member          DeSirant        voted         yes, Council            Member           Catten     voted      yes, Council
+Member        Uipi     voted     yes, and Mayor                Jackson          voted        yes. The motion             passed        unanimously.
+
+
+
+4. Business        Matters
+            4.1 Discussion          and Consideration                      of Resolution            25-39,    Adopting           the First
+            Amendment            to the Millcreek               Non-Benefited                Employee           Handbook           - First    Edition
+            Lisa Dudley         explained        the changes               that were made to the non-benefited                         employee
+            handbook      by removing             a sentence           about travel          time     for assignments            within    50 miles        of
+            city hall. The update              clarifies      that regular           commute         time from home              to work     or after the
+            workday      is not counted            as work          time.
+
+
+Council      Member          DeSirant          moved         to approve          Resolution            25-39,     Adopting         the First
+Amendment             to the Millcreek            Non-Benefited                Employee             Handbook.           Council        Member         Uipi
+seconded.      The Deputy             Recorder             called     for the vote.          Council         Member        Catten         voted    yes,
+Council      Member          DeSirant          voted       yes, Council          Member             Uipi     voted      yes, and Mayor             Jackson
+voted     yes. The motion             passed       unanimously
+
+
+            4.2 Discussion          and Consideration                      of Resolution            25-40,    Adopting          the Second
+            Amendment            to the Millcreek               Employee              Handbook             - Fourth      Edition
+
+
+Council      Member          DeSirant          moved         to approve          Resolution            25-40,     Adopting         the Second
+Amendment             to the Millcreek            Employee             Handbook.             Council         Member        Catten         seconded.        The
+Deputy      Recorder         called     for the vote.           Council         Member              Catten      voted     yes, Council         Member
+DeSirant       voted     yes, Council            Member             Uipi     voted     yes, and Mayor                Jackson       voted     yes. The
+motion      passed      unanimously
+
+
+            4.3 Discussion          and Consideration                      of Resolution            25-41,    Advising          and Consenting             to
+            the Mayor's         Appointment                 of a Treasurer
+            Mayor      Jackson      said she has been acting                    as treasurer          as for the last four years but cannot
+            act in both capacities             as Mayor.            Council     Member          Catten       has been the backup              in the past.
+            Council     Member         Catten       will     become          the new treasurer.
+
+
+Council      Member          Uipi     moved        to approve              Resolution         25-41,       Advising       and Consenting              to the
+Mayor=s       appointment             of Silvia      Catten          as Treasurer.            Council         Member        DeSirant         seconded.
+The Deputy           Recorder         called     for the vote.              Council         Member          Catten      voted     yes, Council
+Member        DeSirant         voted     yes, Council               Member           Uipi    voted     yes, and Mayor              Jackson         voted
+yes. The motion           passed       unanimously.
+
+
+5. Reports
+Millcreek         City     Council       Meeting           Minutes                                  10 November               2025      Page 11 of 12
+
+
+
+            5.1 Mayor's            Report
+            Mayor        Jackson      reported       that she went to the Otherside                        Village      along with      other local
+            elected       leaders     and organizations.              There was a "Lights                  on After      School"      event on
+            Halloween.           Mayor        Jackson       and Building            Director      Jim Hardy          attended      a Wildland             Urban
+            Interface      meeting.        Mayor         Jackson      spoke about holding                   a public     comment       period            on it in
+            January,       but the map has to be adopted                       in December.             Mr. Winder          said once the map is
+            adopted       it can be tweaked               or changed         after it has been adopted.                 Mayor       Silvestrini           and
+            Mayor        Jackson      attended       the Churchill            Elementary          award         ceremony.
+
+
+            5.2 City       Council       Member            Reports
+            Council       Member         DeSirant          said he attended           four of the lights             on after school        events,            and   a
+
+            Granite       School      District     luncheon          to answer        questions          about the potential          elementary
+            school       closures     and to give Granite                  School     District     their opinion         on their lack of notice
+            for school        closures        and how they conduct                  themselves.          There       are great volunteers                in
+            Millcreek.        Council         Member        DeSirant         gave public         coinrnent         at the County        Council
+            meeting       regarding        closing       the Millcreek          Community               Center     Daycare.       Council      Member
+            Catten       cornrnented          on the closure         of the Millcreek             daycare.         The closure       has been
+            extended       until     May      31, 2026. That building                  will    be empty         when it closes.        Council
+            Member         Catten     said she did not believe                 that the city was able to take it over and run it,
+            but she wants           it to be used to help families                   and children           in the future.       William       Penn
+            Elementary           held a reunification             drill.    A reunification             drill   is to plan for some kind                  of
+            event where          parents       and staff practice            meeting          up with      their   children      after a simulated
+            event.     Council       Member         Uipi     thanked        her City      Council          colleagues       and city staff who
+            answered        questions         about elections,             and the people          in District         4 who helped         her get re-
+            elected.      Council      Member            Catten    noted there is an open spot on the City                           Council         for
+          District        3, the application             is on the website.           State law requires               that the Council           fill    the
+            opening       within     thirty      days.
+
+
+          5.3 Staff        Reports
+          There were no staff reports.
+
+
+6. Consent        Agenda
+          6.1 Approval             of October        27, 2025 Work              Meeting          and Regular           Meeting     Minutes
+
+
+Council      Member           DeSirant         moved        to approve          the October              27, 2025 Work             Meeting          and
+Regular      Meeting          Minutes.         Council       Member           Catten          seconded.         Mayor       Jackson        called         for the
+vote.   Council        Member          Catten       voted      yes, Council            Member            DeSirant        voted     yes, Council
+Member        Uipi       voted     yes, and Mayor              Jackson         voted      yes. The motion               passed       unanimously
+
+
+7. New      Items      for Subsequent              Consideration
+There was none.
+
+
+7. Calendar          of Upcoming              Meetings
+    *     Historic        Preservation           Commission           Mtg.,     1 1/13/25,        6:00 p.m.
+    *     Planning         Commission            Mtg.,      1 1/19/25,       5:00 p.m.
+    *     City      Council        Mtg. 1 1/24/25          7:00 p.m.
+
+
+8. Closed      Session
+Mfflcreek      City   Council        Meeting      Minutes                                   10 November          2025      Page 12 of 12
+
+
+
+
+Council      Member        Catten      moved      to go into        closed    session       per Utah     Code     52-4-205(f)      for
+discussion      regarding         deployment        of security        personnel,       devices,       or systems        at 8:31 p.m.
+Council      Member        Uipi     seconded      the motion.         The Deputy            Recorder      asked     for the vote.
+Council      Member        Catten      voted     yes, Council         Member         Uipi    voted     yes, Council       Member
+DeSirant      voted   yes, and Mayor             Jackson       voted     yes.
+
+
+Council      Member       Uipi      moved      to go back      into    open meeting            at 8:38 p.m.       Council     Member
+DeSirant      seconded       the motion.         Mayor      Jackson          asked    for the vote.      Council         Member      Uipi
+voted     yes, Council      Member          DeSirant       voted      yes, Council          Member       Catten     voted    yes, and
+Mayor       Jackson      voted     yes. The motion          passed      unanimously
+
+
+
+
+ADJOURNED:               Council      Member        Uipi    moved       to adjourn          the meeting        at 8:38 p.m.       Council
+Member        DeSirant      seconded.          Mayor     Jackson       called    for the vote.         Council     Member         Catten
+voted     yes, Council      Member          DeSirant       voted      yes, Council          Member      Uipi     voted    yes, and
+Mayor       Jackson      voted     yes. The motion          passed      unanimously.
+
+
+
+                                                            Cheri     Jackson,       Mayor
+
+
+
+                                  Attest:              Elyse                     ity Recorder
+

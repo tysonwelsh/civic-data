@@ -1,0 +1,657 @@
+> Source: https://sandyutah.legistar.com/View.ashx?M=M&ID=1371414&GUID=F857A513-0320-497A-ABC0-B4903E11602E
+> Meeting date: 2026-06-09
+> Format: text
+
+---
+
+                                                                                 10000 Centennial Parkway
+                                                Sandy City, Utah                     Sandy, UT 84070
+                                                                                   Phone: 801-568-7141
+
+                                                  Meeting Minutes
+
+                                                     City Council
+                                                Brooke Christensen, District 1
+                                                   Alison Stroud, District 2
+                                                    Kris Nicholl, District 3
+                                                 Marci Houseman, District 4
+                                                  Aaron Dekeyzer, At-large
+                                                  Brooke D'Sousa, At -large
+                                                   Cyndi Sharkey, At-large
+
+Tuesday, June 9, 2026                                        5:15 PM                   Council Chambers
+
+
+5:15 Council Meeting
+                   Present:   7-   Council Member Alison Stroud
+                                   Council Member Kris Nicholl
+                                   Council Member Marci Houseman
+                                   Council Member Cyndi Sharkey
+                                   Council Member Brooke Christensen
+                                   Council Member Brooke D'Sousa
+                                   Council Member Aaron Dekeyzer
+
+
+
+
+                              Council Staff in Attendance
+                              Dustin Fratto, Council Director
+                              Justin Sorenson, Assistant Director
+                              Chris Edwards, Council Clerk
+                              Tracy Cowdell, Council Attorney
+
+                              Administration in Attendance
+                              Mayor Zoltanski
+                              Shane Pace, CAO
+                              Lynn Pace, City Attorney
+                              Ryan McConaghie, Fire
+                              Jeff Nigbur, Police
+                              Tom Ward, Public Utilities
+                              Ben Hill, Parks & Recreation
+                              Ryan Kump, Public Works
+                              James Sorensen, Community Development
+                              Brian Kelley, Administrative Services
+                              Kasey Dunlavy, Economic Development
+                              Martin Jensen, Deputy CAO
+                              Susan Wood, Public Affairs/PIO
+                              Ryan Mecham, Senior Policy Advisor
+
+
+
+
+Sandy City, Utah                                             Page 1                        Printed on 7/8/2026
+City Council                                      Meeting Minutes                                             June 9, 2026
+
+
+Prayer, Pledge of Allegiance, and Introductions
+
+                       Council Chair Cyndi Sharkey welcomed those in attendance.
+
+                       Shane Pace, CAO offered the Prayer.
+                       Council led the Pledge.
+
+                       Council moved to Item 1 on the Agenda.
+
+General Citizen Comment Period (No earlier than 6:00 PM)
+
+                       Council Chair Cyndi Sharkey invited the public to participate in General Citizen Comment.
+
+                       Jeff Silvestrini, Past Chair of the CWC, spoke in favor on continuing the funding for the
+                       organization. Sandy's input has been very important.
+
+                       Dave Egelund commented on Martin Jensen's appointment as CAO. He was opposed to
+                       reallocating funds from the Mayor's budget.
+
+                       Thomas Fenady wanted people to get along. He congratulated the city for being fiscally
+                       responsible and stressed that key services should be the focus.
+
+                       Shawn McMillion expressed support for the Mayor to keep her current salary.
+
+                       Henry Butters spoke about the salary of the Mayor being higher than West Jordan's
+                       Mayor. He spoke about getting responses from the Police Department.
+
+                       Council moved to Item 2 on the Agenda
+
+
+
+
+Council Business
+
+Informational Items
+
+
+
+
+Sandy City, Utah                                       Page 2                                              Printed on 7/8/2026
+City Council                                                Meeting Minutes                                            June 9, 2026
+
+
+
+1.         26-313                 Mayor Zoltanski recommending for Council Advice and Consent the
+                                  appointment of Martin Jensen as the Sandy City Chief Administrative
+                                  Officer
+                   Attachments:   Chief Administrative Officer (PDF)
+                                  Resolution 26-26C
+
+                                  Mayor Monica Zoltanski nominated Martin Jensen to serve as Sandy City Chief
+                                  Administrative Officer. The Mayor highlighted Mr. Jensen’s 27 years of experience in
+                                  federal, state, county, and municipal government and provided an overview of his
+                                  professional background and qualifications. Mr. Jensen addressed the Council,
+                                  expressing gratitude for the opportunity and discussing his experience with Sandy City.
+                                  Council questions and discussion followed.
+
+                                  Council moved to General Citizen Comment.
+
+2.         26-314                 Public Works Department presenting the Council with an Interlocal
+                                  Agreement between Sandy City And Salt Lake County for Traffic Signal
+                                  Installation
+                   Attachments:   Resolution 26-59C
+                                  ILA
+
+                                  Ivan Hopper, Public Works, presented a resolution and an Interlocal Agreement between
+                                  Sandy City and Salt Lake County for a traffic signal installation. This is an information
+                                  item and will come back to the Council next week for consideration and action.
+
+Consent Calendar
+
+                                  A motion was made by Brooke Christensen, seconded by Brooke D'Sousa to
+                                  approve the Consent Calendar...The motion carried by a unanimous voice vote.
+
+3.         26-312                 Approval of the May 5, 2026 Draft Minutes
+
+                   Attachments:   May 5, 2026 Draft Minutes
+
+                                  Item approved.
+
+
+4.         26-318                 Approval of the May 19, 2026 Draft Minutes
+
+                   Attachments:   May 19, 2026 Draft Minutes
+
+                                  Item approved.
+
+Public Hearing(s)
+
+
+
+
+Sandy City, Utah                                                 Page 3                                             Printed on 7/8/2026
+City Council                                                Meeting Minutes                                             June 9, 2026
+
+
+
+5.         26-317                 Continued Public Hearing to consider the adoption of the FY 2026-27
+                                  Sandy City Budget. This item includes:
+
+                                  Resolutions 26-61C and 25-62C of Sandy City, adopting a budget for
+                                  Sandy City and the Alta Canyon Recreation District for the fiscal year
+                                  commencing July 1, 2026 and ending June 30, 2027; also establishing
+                                  certain fees and charges in Sandy City for said fiscal year.
+                   Attachments:   26-61C Final Budget Adoption
+                                  26-62C Final Budget Adoption - Alta Canyon
+
+                                  Continued Public Hearing: Brian Kelley, Administrative Services Director. This is a
+                                  continuation of the Public Hearing for the Fiscal Year 2027 Tentative Budget. Next week,
+                                  a revised budget will be presented to the Council that includes the budget revisions for the
+                                  newly created Communications Department. Ms. Nicholl requested the Administration
+                                  bring back a funding proposal for the cost of the study for the Public Safety building
+                                  based on the RFP's received by the City.
+
+                                  Public Hearing comment opened.
+
+                                  Kent Jaffa, former member of the Alta Canyon Recreation District, requested the ACRD
+                                  Board stop the unapproved taxing of the district for the recreation center. The center was
+                                  only operational for six months and the district should not be taxed for the new facility.
+
+                                  Doug Vogeler supported involvement in Central Wasatch Commission and thought it was
+                                  a mistake to pull the support. He was opposed to the Gondala.
+
+                                  Roger Bourke, Mayor of Alta, supported continued funding of the Central Wasatch
+                                  Commission.
+
+                                  Margaret Bourke supported Sandy City's involvement in the Central Wasatch
+                                  Commission.
+
+                                  Steve Van Maren opposed the merger of Public Works and Public Utilities departments.
+
+                                  The chair continued the Public Hearing.
+
+Council Voting Items
+
+
+
+
+Sandy City, Utah                                                  Page 4                                              Printed on 7/8/2026
+City Council                                                Meeting Minutes                                            June 9, 2026
+
+
+
+6.         26-315                 FY 2027 Council Member Budget Amendment Proposals
+
+                   Attachments:   Budget Proposal_Christensen-Nicholl
+                                  Budget Proposal_Dekeyzer
+                                  Budget Proposal_Down Payment_Stroud
+                                  Budget Proposal_Park Strips_Stroud
+
+                                  Council Members presented their proposed budget amendments to the FY 2027 Tentative
+                                  Budget.
+
+                                  Council Members Booke Christensen and Kris Nicholl presented several proposed budget
+                                  amendments. Council questions, comments and discussion occurred throughout the
+                                  presentation. Shane Pace, CAO, provided comments on the proposed budget
+                                  amendments. Tom Ward, Public Utilities, spoke about continued support of the Central
+                                  Wasatch Commission. Susan Wood spoke about the proposed cuts to the city's
+                                  contracted videographer and the impact to the city's communication and messaging to
+                                  our residents.
+
+                                  Council Member Aaron Dekeyzer presented his budget proposal. Council discussion,
+                                  comments and questions followed.
+
+                                  Council Member Stroud presented two budget proposals. Council discussion, comments
+                                  and questions followed.
+
+                                  Public comment opened.
+                                  Greg LaClaire was opposed to cutting the Mayor's salary.
+
+                                  Pat Jones appreciated the respectful discussions and the work with the Administration. It
+                                  takes courage to talk about the budget and she thanked the Council for the discussion.
+                                  She supported maintaining the Mayor's current salary and the addition of a grant writer
+                                  employee.
+
+                                  Darwin More was called for public comment but no longer present.
+                                  Mike Applegarth was called for public comment but no longer present.
+
+                                  Iva Williams commented on the budget proposals. She supports funding the Central
+                                  Wasatch Commission.
+
+                                  Dawn Sidwell supported funding the Historic Sandy Barbecue.
+
+                                  Cynthia Crews lives in Historic Sandy and was supportive of funding the community
+                                  barbecue event and the print newsletter.
+
+                                  Danny Richardson was supportive of funding the CWC.
+
+                                  Jack Stouss, with Save Our Canyons spoke in support of funding the CWC.
+
+                                  Lindsey Nielson with Central Wasatch Commission spoke in support of funding the CWC.
+
+                                  Mike Marker spoke in favor of funding the CWC and was opposed to any reductions of the
+                                  Mayor's salary.
+
+
+
+Sandy City, Utah                                                 Page 5                                             Printed on 7/8/2026
+City Council                                 Meeting Minutes                                            June 9, 2026
+
+                   Roger Bourke spoke in favor of funding the CWC.
+
+                   Dustin Fratto read comments into the record:
+
+                   Jude Ingrazia supported continued funding the CWC and of the printed newsletter.
+
+                   Shana Davis was opposed to cutting the funding for the printed newsletter, reducing the
+                   Mayor's salary, and the cuts to the CWC funding.
+
+                   Public comment closed.
+
+                   Council voted on each proposed budget amendments. Approved amendments would
+                   move the proposed amendment forward to the Approved Budget Amendments Short List.
+                   This list will be considered by the Council at next week's meeting. Council discussion on
+                   each of the motions occurred. Brian Kelley provided additional information regarding the
+                   city's range for the Mayor's salary.
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed consolidated fee schedule
+                   amendment...The motion carried by the following roll call vote:
+
+                   Yes:       7    Alison Stroud
+                                   Kris Nicholl
+                                   Marci Houseman
+                                   Cyndi Sharkey
+                                   Brooke Christensen
+                                   Brooke D'Sousa
+                                   Aaron Dekeyzer
+
+                   No:        0
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed consolidated staffing
+                   schedule amendment...The motion carried by the following roll call vote:
+
+                   Yes:       6    Alison Stroud
+                                   Kris Nicholl
+                                   Marci Houseman
+                                   Cyndi Sharkey
+                                   Brooke Christensen
+                                   Brooke D'Sousa
+
+
+
+                   No:        1    Aaron Dekeyzer
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed reallocation of the
+                   appropriation designated for the Central Wasatch Commission to Mainline
+                   Replacements...The motion carried by the following roll call vote:
+
+                   Yes:       6    Alison Stroud
+
+
+Sandy City, Utah                                   Page 6                                             Printed on 7/8/2026
+City Council                                   Meeting Minutes                                        June 9, 2026
+
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+                                      Brooke D'Sousa
+
+
+
+                   No:        1       Aaron Dekeyzer
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed holding of funds for Public
+                   Works Fleet in Fleet Contingency until further action by the City Council ...The
+                   motion carried by the following roll call vote:
+
+                   Yes:       6       Alison Stroud
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+                                      Aaron Dekeyzer
+
+                   No:        0
+
+                   Excused:   1       Brooke D'Sousa
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed adjustments to the Mayor's
+                   Office General Fund, as noted in the packet ...The motion carried by the
+                   following roll call vote:
+
+                   Yes:       5       Alison Stroud
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+
+
+
+                   No:        1       Aaron Dekeyzer
+
+
+
+                   Excused:       1   Brooke D'Sousa
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed reallocation of expenses for
+                   city lobbyists from Non-Departmental to the CAO budget ...The motion carried by
+                   the following roll call vote:
+
+                   Yes:       6       Alison Stroud
+
+
+Sandy City, Utah                                      Page 7                                    Printed on 7/8/2026
+City Council                                   Meeting Minutes                                    June 9, 2026
+
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+                                      Aaron Dekeyzer
+
+                   No:        0
+
+                   Excused:   1       Brooke D'Sousa
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed adjustments to the Council
+                   Office General Fund, as noted in the packet ...The motion carried by the
+                   following roll call vote:
+
+                   Yes:       6       Alison Stroud
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+                                      Aaron Dekeyzer
+
+                   No:        0
+
+                   Excused:   1       Brooke D'Sousa
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed adjustments to the
+                   Community Events General Fund, as noted in the packet ...The motion carried by
+                   the following roll call vote:
+
+                   Yes:       5       Alison Stroud
+                                      Kris Nicholl
+                                      Marci Houseman
+                                      Cyndi Sharkey
+                                      Brooke Christensen
+
+
+
+                   No:        1       Aaron Dekeyzer
+
+
+
+                   Excused:       1    Brooke D'Sousa
+
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed adjustments to the
+                   Communications Department General Fund, as noted in the packet ...The motion
+                   carried by the following roll call vote:
+
+
+
+Sandy City, Utah                                   Page 8                                     Printed on 7/8/2026
+City Council                               Meeting Minutes                                        June 9, 2026
+
+                   Yes:       5   Alison Stroud
+                                  Kris Nicholl
+                                  Marci Houseman
+                                  Cyndi Sharkey
+                                  Brooke Christensen
+
+
+
+                   No:        1   Aaron Dekeyzer
+
+
+
+                   Excused:   1   Brooke D'Sousa
+
+
+
+                   A motion was made by Kris Nicholl seconded by Brooke Christensen to approve
+                   for the Budget Amendment Short List, the proposed reduction of the remaining
+                   balance to $0 for the General Fund line item for CWC, as noted in the packet
+                   ...The motion carried by the following roll call vote:
+
+                   Yes:       5   Alison Stroud
+                                  Kris Nicholl
+                                  Marci Houseman
+                                  Cyndi Sharkey
+                                  Brooke Christensen
+
+
+
+                   No:        1   Aaron Dekeyzer
+
+
+
+                   Excused:   1   Brooke D'Sousa
+
+
+
+
+                   A motion was made by Aaron Dekeyzer seconded by Brooke Christensen to
+                   approve for the Budget Amendment Short List, the Dekeyzer proposal, as noted
+                   in the packet ...The motion carried by the following roll call vote:
+
+                   Yes:       5   Alison Stroud
+                                  Kris Nicholl
+                                  Marci Houseman
+                                  Brooke Christensen
+                                  Aaron Dekeyzer
+
+
+
+                   No:        1   Cyndi Sharkey
+
+
+
+                   Excused:   1   Brooke D'Sousa
+
+
+
+
+                   A motion was made by Alison Stroud seconded by Kris Nicholl to approve for the
+                   Budget Amendment Short List, the Stroud proposal (down payments), as noted in
+                   the packet ...The motion carried by the following roll call vote:
+
+
+
+Sandy City, Utah                                  Page 9                                     Printed on 7/8/2026
+City Council                                  Meeting Minutes                                             June 9, 2026
+
+                    Yes:       6    Alison Stroud
+                                    Kris Nicholl
+                                    Marci Houseman
+                                    Cyndi Sharkey
+                                    Brooke Christensen
+                                    Aaron Dekeyzer
+
+
+
+                    No:        0
+
+
+
+                    Excused:    1   Brooke D'Sousa
+
+
+
+
+                    A motion was made by Alison Stroud seconded by Kris Nicholl to approve for the
+                    Budget Amendment Short List, the Stroud proposal (water-wise park strips), as
+                    noted in the packet ...The motion carried by the following roll call vote:
+
+                    Yes:       4    Alison Stroud
+                                    Kris Nicholl
+                                    Brooke Christensen
+                                    Aaron Dekeyzer
+
+
+
+                    No:        2    Marci Houseman
+                                    Cyndi Sharkey
+
+
+
+                    Excused:    1    Brooke D'Sousa
+
+
+
+                    Council Member D'Sousa was excused from the meeting at approximately 9:25 pm.
+                    Following the vote on the proposed budget proposals, Council moved to Standing
+                    Reports.
+
+
+
+
+7.         26-316   Possible Closed Session: character, professional competence, or physical
+                    or mental health of an individual.
+                    Council convened a closed session in the Council Conference Room at 9:53 pm to
+                    discuss the character, professional competence, or physical or mental health of an
+                    individual. The Council meeting adjourned immediately following the closed session.
+                    A motion was made by Alison Stroud, seconded by Cyndi Sharkey to convene a
+                    closed session in the Council Conference Room to discuss the character,
+                    professional competence, or physical or mental health of an individual and
+                    adjourn the meeting immediately following the closed session...The motion
+                    carried by the following roll call vote:
+
+
+
+Sandy City, Utah                                  Page 10                                            Printed on 7/8/2026
+City Council                                              Meeting Minutes                                           June 9, 2026
+
+
+                        Yes:    6-   Alison Stroud
+                                     Kris Nicholl
+                                     Marci Houseman
+                                     Cyndi Sharkey
+                                     Brooke Christensen
+                                     Aaron Dekeyzer
+
+                    Excused:    1-   Brooke D'Sousa
+
+                   Nonvoting:   0
+
+Standing Reports
+
+Agenda Planning Calendar Review & Council Office Director's Report
+
+                                No report.
+
+Council Member Business
+
+                                Council Member Marci Houseman shared with the Council how appreciative Denise
+                                Haycock, Canyons Education Foundation, was of the City Council's recognition of her
+                                retirement. As part of the Council Outreach Program, the Council provided Ms. Haycock
+                                with tickets to the Hale Centre Theatre.
+
+                                Council Member Brooke Christensen attended a recent performance at the Hale Centre
+                                Theatre, My Fair Lady. It was a wonderful production.
+
+                                Council Member Cyndi Sharkey provided an update from the Salt Lake Convention
+                                Advisory Board. The Salt Palace will close for renovations and the plan reopening of the
+                                facility will be in 2030 or 2031. Many events will shift to the Mountain America Expo
+                                Center.
+
+                                Council Member Alison Stroud attended the Shop and Stroll event sponsored by the
+                                Economic Development Department. The Historic Sandy Barbecue is tomorrow evening.
+                                She distributed flyers to residents in the area..
+
+Mayor's Report
+
+                                No report.
+
+CAO Report
+
+                                Shane Pace, CAO, invited the Fire Chief to update the Council on a fire that occurred over
+                                the weekend in the Dimple Dell area.
+
+                                Chief McConaghie provided an update. The fire was extinguished very quickly and was
+                                caused by cigarette butts.
+
+
+
+
+Sandy City, Utah                                               Page 11                                            Printed on 7/8/2026
+City Council                                   Meeting Minutes                                           June 9, 2026
+
+
+Recreation Center Construction Report
+
+                      Ben Hill provided a presentation and update on the construction of the Sandy Recreation
+                      Center.
+
+                      Council moved to Item 7 on the Agenda and convened a closed session.
+
+Adjournment
+                      The meeting adjourned immediately following the closed session which convened at 9:53
+                      pm.
+
+
+
+
+Sandy City, Utah                                    Page 12                                           Printed on 7/8/2026
+

@@ -1,0 +1,354 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=529&doc_id=13856351-ba70-11ec-a5da-0050569183fa
+> Meeting date: 2022-01-13
+> Format: text
+
+Approved minutes 03/24/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, JANUARY 13, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:        Chairperson Andrew Adams, Commissioners Lisa Fowler, Mary Squire,
+                      Gary Ogden, and Alternate Commissioners DeLaina Tonks and Susan
+                      Nixon
+
+ABSENT:               Vice Chairperson Craig Hawker, Commissioners John Van Hoff, and
+                      Alternate Commissioner Tab Bingham
+
+
+STAFF PRESENT:        Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                      Maryann Pickering, Amie Salazar and Todd Draper
+
+ 6:30 PM Business Meeting:
+
+
+   1.      Public Hearing: Mountain Point Quilting Home Occupation Conditional Use
+           Permit Request (Administrative Action)
+
+Maryann Pickering, Planner presented the staff report. She indicated the property is on Rocky
+Mouth. The property is designated Residential Medium density in the land use map and zoned
+RM. The property is part of the South Mountain Agreement. The applicant is proposing a home-
+based quilting business. No customers will be onsite. The business will operate within 125 sf of
+the home which translated to about 4% of the square footage. The property is subject to the South
+Mountain Agreement which is based on the 1999 zoning code.
+
+Applicant Cindy Stokes indicated that she did not have anything to add.
+
+Commissioner Adams opened the public hearing. There were no comments. He then closed the
+public hearing.
+
+Motion: Commissioner Fowler motioned to approve the home occupation for Conditional
+Use Permit as requested by Jeffrey and Cindy Stokes, Application USE 166-2021, based on
+the findings and subject to the conditions listed in the staff report, dated January 4, 2022.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Tonks, Squire and Nixon voted, “Aye”.
+
+
+   2.      Public Hearing: McClure Rezone (Legislative Item)
+
+On the request of Mitchel McClure, a Zoning Map Amendment request from the A5 (Agricultural,
+5 acre minimum lot size) zone to RA2 (Residential Agricultural, 20,000 ft2 minimum lot size)
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 2
+zone, approximately 0.648 acres, located at approximately 1641 E. Costanza Way, known as
+application TEXTMAP-0118-2021, Staff Contact: Todd A. Draper, (801) 576-6335,
+todd.draper@draperutah.gov.
+
+Todd Draper, Planner presented the staff report. He indicated this is a request for a rezone from
+A5 to RA2. The rezone would affect one whole parcel and the southern portion of another. The
+property is located between the rail line, Porter Rockwell Trail and Draper Canal Trail. The land
+use map designates the property as Residential Low / Medium Density. This property is located
+south of another property rezoned from A5 to RA2. He overviewed site photos. He indicated the
+property is bifurcated by the trail and they would adjust the property lines to create one parcel on
+either side of the trail.
+
+It was noted that the applicant is not in attendance.
+
+Commissioner Adams opened the public hearing. No one commented. He then closed the public
+hearing.
+
+Motion: Commissioner Nixon motioned to forward a positive recommendation to the City
+Council for the zoning map amendment as requested by Mitchel McClure for the zone
+change from A5 to RA2, Application TEXTMAP-0118-2021, based on the findings and
+subject to the conditions listed in the staff report, dated January 3, 2022.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Tonks, Squire and Nixon voted, “Aye”.
+
+3.     Public Hearing: LaBrie & Flater Plat Amendment Request (Administrative Action)
+
+A request by John LaBrie and Molly Flater for approval of a plat amendment to amend the existing
+plat to adjust the common property line between existing plat to adjust the common property line
+between existing lots 120 and 121 of the Ridgewood Subdivision. The properties are located at
+approximately 14804 and 14808 S. Maple Park Court. Staff contact: Maryann Pickering at 801-
+576-6391 or maryann.pickering@draperutah.gov.
+
+Maryann Pickering, Planner, presented the staff report. She presented an aerial photo of the two
+properties. She indicated the land use is designated as Low Medium Residential and zoned RM
+and subject to the South Mountain Agreement. The applicant is proposing a lot line adjustment
+within an existing subdivision to move a property line between two properties. All easements have
+been accounted for and both properties will continue to meet the standards of the zone. The lots
+will retain similar sizes as they have now. She then presented the amended plat showing the
+proposed lot lines.
+
+It was noted the applicant not in attendance.
+
+
+
+
+                                                  2
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 3
+Chairman Adams opened the public hearing. There were no public comments. He then closed the
+public hearing.
+
+Commissioner Fowler asked if the names on the application are the two property owners.
+
+Ms. Pickering indicated that they are and they have both agreed to the applicant and will sign the
+owners dedication on the plat.
+
+Motion: Commissioner Ogden made a motion to approve the plat amendment as requested
+by John LaBrie and Molly Flater of the LaBrie and Flater Plat Amendment, Application
+SUBD-036-2021, based on the findings and subject to the conditions listed in the staff report,
+dated January 2, 2022.
+
+Second: Commissioner Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Squire, Ogden, Tonks, Fowler and Nixon voted “Aye”.
+
+4.     Public Hearing: Reynolds Home Zoning Map Amendment (Legislative Action)
+
+A request by Harold Reynolds, for a zoning map amendment from the RA2 (Residential
+Agricultural, 20,000 square foot lot minimum) zone to the R4 (Single-family Residential, 10,000
+square foot lot minimum) zone on properties equaling 1.43 acres in size located approximately
+1595 East 12700 South. Application TEXTMAP-0182-2021. Staff contact is Jennifer Jastremsky,
+801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager presented the staff report. She showed an aerial view of
+the four properties under consideration located on 12700 S. The properties are designated Low-
+Medium Density Residential in the land use map and zoned RA-2 which is a ½ acre lot zone. The
+applicant is requesting to rezone the properties to R-4 zone which is a single-family zone with a
+minimum lot size of 10,000 sf. The properties pre-date the city and zoning and are roughly ¼ to
+1/3 acre in size. The applicants recently completed a boundary line adjustment outside of the city’s
+process. Parcel two is not improved and has been used agriculturally in the past. The new owner
+would like to build a home on the lot. The rezone will allow the properties to comply with the
+minimum lot size of the zone as they currently are not in compliance. She presented images of the
+properties.
+
+Commissioner Fowler stated the houses across the street are on small lots. She asked if the lots
+were comparable in size.
+
+Ms. Jastremsky stated they are but are less than the zone’s minimum.
+
+Commissioner Tonks asked if a subdivision plat is needed.
+
+Ms. Jastremsky mentioned it is not since they are not creating an additional lot.
+
+
+
+                                                 3
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 4
+Chairman Adams invited the applicant to speak.
+
+Howard Reynolds stated they have been residents of the city for 35 years and want to stay in the
+city and build a home for themselves.
+
+Chairman Adams opened the public hearing.
+
+Graden Jackson, a neighbor, stated his support for the application.
+
+Chairman Adams closed the public hearing.
+
+Commissioner Nixon stated it appears to fit the lot sizes of the surrounding properties.
+
+Commissioner Squire stated that changing the zoning would bring the properties into alignment
+with their lots sizes.
+
+Motion: Commissioner Fowler motioned to forward a positive recommendation to the City
+Council for the zoning map amendment, as requested by Harold Reynolds, for Reynolds
+Zoning Map Amendment, Application TEXTMAP-0182-2021, based on the findings and
+subject to the conditions listed in the staff report, dated January 4, 2022.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Fowler, Tonks, and Nixon voted, “Aye”. (Legislative Action)
+
+
+5.     Public Hearing: City Initiated 2021 Bulk Text Amendment #2 (Legislative Action)
+
+On the request of Draper City for a Text Amendment to Titles 9 and 17 of Draper City Municipal
+Code in order to amend general regulations pertaining to definitions, special regulations in
+commercial zones, deviations from design standards, building design, site design, parking location,
+parking area design and construction, height limitations and exceptions, cross access and
+connectivity, and other typographical and de minimis corrections, this application is known as the
+City Initiated 2021 Bulk Text Amendment #2. Application: TEXTMAP-0203-2021. Staff Contact:
+Todd Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner stated this is the second amendment for 2021 and started later in the year.
+They needed to make amendments to the code for cross access, access points, road connections
+and height deviations for commercial properties. They also publicly noticed amendments to
+helipads but have decided to take that topic out and address it as its own application. He
+overviewed each proposed section amendment, included:
+Section 9-3-040
+     Adding definition for Abut or Abutting
+     Retitled term Mixed Use Center as Mixed Use
+Section 9-11-070 Special Regulations
+
+
+                                                 4
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 5
+    Remove unlimited deviations for commercial building height and cap the deviation to
+       architectural features that do not increase the habitable square footage
+    No higher than 14 feet of additional height
+    May not cover an area equal to or less than 10% of floor area of the uppermost floor
+    Building requesting a height deviation must also provide specific architectural detailing of
+       the façade or roofline
+Section 9-22-030
+    Provide more specificity as to what design standards a deviation request can be made
+    Proposed the elimination of the ability for projects to deviate from height and roofline
+       design standards
+    Eliminate unenforceable subjective standards that existing in the current ordinance
+    Clarification provided within the list of individual design criteria that proposed
+       developments must meet to better describe the desired intent, including the elimination of
+       one criterion which was subjective and potentially arbitrary
+    Language proposed to strengthen the requirement that the applicant has the responsibility
+       to demonstrate compliance with the criteria to the Planning Commission by providing a
+       written analysis from a licensed professional
+    Updates the require findings for approval of a deviation request.
+Section 9-22-040 (subsection D)
+    Strengthen requirements for rooflines and parapet walls to vary architecturally and avoid
+       monotonous rooflines
+    New standards for additional building height related to the screening of mechanical
+       equipment are proposed
+    Screen walls limited to the height of the equipment up to a maximum of 14 feet in height.
+Section 9-22-050 (subsection F)
+    Parking and circulation subsection and include updates to provision requiring vehicular
+       and pedestrian connectivity and cross access to abutting and neighboring development sites
+    Clarification is proposed to the requirement to provide a traffic impact study per adopted
+       city guidelines
+    Removal of the term deadmen and replacement with the term wheel stops
+    Creation of requirements for providing cross access and street connectivity between
+       nonresidential and mixed us development is proposed, including
+           o Connection of new development to existing stub streets, and providing stub streets
+               to anticipated future development
+           o Provision of perpetual easements for cross access drives
+           o Requirement to pave cross accesses and provide a width and design as approved by
+               the Fire Marshal
+           o The prohibition of gates across access drives
+Section 9-25-050 (subsection J)
+              Increases the emphasis on providing cross access and connectivity between parking
+       areas on abutting and adjacent properties.
+Section 9-25-080 (subsection E)
+              Clarification that mixed use developments also must comply with the cross-access
+       standards for nonresidential developments
+              Provisions for perpetual easements for cross access drives
+
+
+                                               5
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 6
+              Requirement to pave cross accesses and provide a width and design as approved by
+       the Fire Marshal
+              Prohibition on gates across access drives
+              Updates to more clearly articulate the circumstances when a deviation from the
+       requirement to provide cross access can be granted by the Planning Commission
+Section 9-27-120 (subsection B)
+              Scales back the currently unlimited allowance of additional height for things like
+               spires, towers, belfries, cupolas and domes to churches or places of worship and
+               restrict these architectural features to those that are not used for human occupancy
+              Eliminate the currently unlimited height allowances for mechanical equipment and
+               associated screening as well as that of monuments, chimneys, water tanks, and
+               elevator bulkheads
+Section 17-5-035
+              Provisions for cross access and connectivity to be included at the time of the
+               subdivision plat
+              The provision of streets and/or cross access drives that connect to neighboring and
+               abutting properties
+              Provides perpetual easement across private streets and cross access drives
+              Provisions to tie the enactment of certain easements to the purchase of the
+               protection strip in cases where protection strips are utilized between subdivisions
+
+Commissioner Nixon pointed out issues with inconsistency between sections and suggested the
+architectural elements section be the same.
+
+Mr. Draper explained there were differences between the sections as it relates to different building
+types.
+
+Ms. Jastremsky stated there is wiggle room because they use the phrasing “such as.”
+
+Mr. Draper stated the features are different because the uses are different. There are some
+similarities.
+
+Chairman Adams opened the public hearing.
+
+Chris Hogle, Holland & Hart stated he represents Utah Capital the owner of property in the city.
+Mr. Hogle offered the commission a handout. He indicated he is there to speak about modifications
+to section 9-25-080 and 17-5035 dealing with the cross access. He explained how the existing code
+works in regards to shared access. He provided an example of how the modifications would
+negatively impact property owners. The change would replace “reciprocal easement” with
+“perpetual easement” which is not for the benefit of both parcels and only one parcel. He explained
+that a mandatory dedication of land for a road, which is what the cross access would be, from one
+property owner to another would be for the benefit of just one property owner. He mentioned this
+is a form of a “taking.” He explained state law and mentioned the proposed code is not in line with
+state code.
+
+
+
+
+                                                 6
+Draper City Planning Commission Meeting
+January 13, 2022
+Page 7
+Sam Wilkinson, 358 Steep Mountain Drive asked the Planning Commission to consider their
+responsibility in drafting these ordinances. He asked that they be consistent and ensure the
+ordinances are in line with the constitution. They need to understand if they are creating a taking.
+
+Chairman Adams closed the public hearing and asked staff for their feedback on the public
+comments.
+
+Mike Barker stated he would not state his opinion on the matter without looking into it first.
+
+Commissioner Fowler stated if you look at Section 9-25-080 you can see the cross-access
+standards has always been required. This is not new. She asked why it is being added into the d
+and have Mike Barker look further into the issue. They can revisit these two amendments during
+the next meeting.
+
+Ms. Jastremsky overviewed their options and indicated it is cleaner to move the full code together
+and recommended they continue the entire item for review.
+
+
+Motion: Commissioner Squire motioned to continue the text amendment as requested by
+Draper City for the city initiated 2020 Bulk Text Amendment #2, Application TEXTMAP-
+0203-2021, to the Planning Commission’s February 10, 2022 meeting.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Fowler, Tonks and Nixon voted, “Aye”. (Legislative Action)
+
+
+Motion: Commissioner Squire motioned to adjourn.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Fowler, Tonks and Nixon voted, “Aye”. (Legislative Action).
+
+Meeting adjourned 7:27p.m.
+
+
+
+
+                                                 7
+

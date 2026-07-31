@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "date": "2025-07-23",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7834363&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-07-21/2025-07-23_planning-commission-meeting.md",
+    "present": [
+      "Aimee Burrows",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Mike Vela",
+      "Jeffrey Barrett",
+      "Lilah Rosenfield",
+      "Brian Scott"
+    ],
+    "absent": [
+      "Landon Kraczek",
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve consent agenda",
+      "description": "approve consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "Lilah Rosenfield",
+      "result": "7:1 Pass",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Brian Scott",
+        "Richard Leverett",
+        "Jeffrey Barrett",
+        "Lilah Rosenfield",
+        "Mike Vela",
+        "Amy Barry"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the design review as recommended by staff with the following conditions: 1) The lighting and signage plan shall be submitted for review at the building permit phase",
+      "description": "approve the design review as recommended by staff with the following conditions: 1) The lighting and signage plan shall be submitted for review at the building permit phase",
+      "motion_type": "Design Review",
+      "action_class": "final_action",
+      "mover": "Lilah Rosenfield",
+      "seconder": "",
+      "result": "?:0 Denied (Final Action)",
+      "tally": {
+        "yes": null,
+        "no": 0,
+        "abstain": null,
+        "recuse": null,
+        "absent": null
+      },
+      "names_recorded": false,
+      "aye": [],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "(motion text not captured)",
+      "description": "",
+      "motion_type": "Design Review",
+      "action_class": "final_action",
+      "mover": "",
+      "seconder": "",
+      "result": "6:2 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Lilah Rosenfield",
+        "Jeffrey Barrett",
+        "Richard Leverett",
+        "Mike Christensen",
+        "Aimee Burrows"
+      ],
+      "nay": [
+        "Mike Vela",
+        "Brian Scott"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve Planned Development as recommended by staff with the following conditions: 1) the applicant shall submit a cost estimate and associated documentation assuring shared infrastructure maintenance and compliance",
+      "description": "approve Planned Development as recommended by staff with the following conditions: 1) the applicant shall submit a cost estimate and associated documentation assuring shared infrastructure maintenance and compliance",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Amy Barry",
+      "seconder": "Mike Christensen",
+      "result": "7:1 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Richard Leverett",
+        "Amy Barry",
+        "Jeffrey Barrett",
+        "Mike Vela",
+        "Mike Christensen",
+        "Aimee Burrows"
+      ],
+      "nay": [
+        "Lilah Rosenfield"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve Preliminary Subdivision Plat as recommended by staff with the following conditions: 1) The applicant shall submit a final plat for review within 18 months",
+      "description": "approve Preliminary Subdivision Plat as recommended by staff with the following conditions: 1) The applicant shall submit a final plat for review within 18 months",
+      "motion_type": "Subdivision/Plat",
+      "action_class": "final_action",
+      "mover": "Mike Christensen",
+      "seconder": "",
+      "result": "8:0 Approved (Final Action)",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Lilah Rosenfield",
+        "Richard Leverett",
+        "Amy Barry",
+        "Jeffrey Barrett",
+        "Mike Vela",
+        "Mike Christensen",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Planned Development as recommended by staff",
+      "description": "approve the Planned Development as recommended by staff",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Mike Christensen",
+      "seconder": "Mike Vela",
+      "result": "8:0 Approved (Final Action)",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Lilah Rosenfield",
+        "Jeffrey Barrett",
+        "Richard Leverett",
+        "Brian Scott",
+        "Mike Christensen",
+        "Amy Barry",
+        "Mike Vela",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Preliminary Subdivision as recommended by staff",
+      "description": "approve the Preliminary Subdivision as recommended by staff",
+      "motion_type": "Subdivision/Plat",
+      "action_class": "final_action",
+      "mover": "Mike Christensen",
+      "seconder": "Mike Vela",
+      "result": "8:0 Approved (Final Action)",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Mike Christensen",
+        "Richard Leverett",
+        "Brian Scott",
+        "Jeffrey Barrett",
+        "Lilah Rosenfield",
+        "Mike Vela",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval of Landmark Site Designation to City Council",
+      "description": "forward a recommendation of approval of Landmark Site Designation to City Council",
+      "motion_type": "Subdivision/Plat",
+      "action_class": "recommendation",
+      "mover": "",
+      "seconder": "Amy Barry",
+      "result": "Positive recommendation 8:0",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Lilah Rosenfield",
+        "Mike Vela",
+        "Amy Barry",
+        "Brian Scott",
+        "Mike Christensen",
+        "Jeffrey Barrett",
+        "Richard Leverett",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council with the conditions listed in the Staff Report",
+      "description": "forward a recommendation of approval to City Council with the conditions listed in the Staff Report",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Mike Vela",
+      "result": "Positive recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Brian Scott",
+        "Amy Barry",
+        "Mike Christensen",
+        "Jeffrey Barrett",
+        "Mike Vela",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [
+        "Lilah Rosenfield"
+      ],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

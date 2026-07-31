@@ -1,0 +1,451 @@
+# Millcreek Planning Commission — 2024-01-17
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01172024-764
+> Meeting date: 2024-01-17
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2024-01-17
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01172024-764
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                             Minutes            of the
+                                                                           Millcreek           Planning               Commission
+                                                                                          January            17,      2024
+                                                                                                 5:00        p.m.
+                                                                                          Regular            Meeting
+
+
+The Planning               Commission              of Millcreek,           Utah,       met in a regular              public      meeting        on Wednesday,
+January          17, 2024,         at City     Hall,      located     at 1330          E. Chambers           Avenue,            Millcreek,         Utah      84106.
+The meeting              was conducted               electronically          and live        streamed         via tl'ie City's          website         with     an
+option         for online       public        cornu'nent.
+
+
+PRESENT:
+
+
+Commissioners                                                                                 City      Staff
+Shawn          LaMar,       Chair                                                             Alexander              Wendt,       Deputy         Recorder
+Victoria         Reid,     Vice       Chair                                                   Francis        Lilly,      Planning            & Zoning          Director
+Steven         Anderson                                                                       Brad      Sanderson,              Current        Planning         Manager
+David          Hulsberg                                                                       Katie      Larsen,         Planner
+Chiistian         Larsen       (excused)                                                      Kurt     Hansen,          Facilities           Director
+Nils     Per Lofgren            (excused)                                                     Robert         May,       Long      Range         Planning         Manager
+Diane          Soule
+Dwayne           Vance
+Ian Wright
+
+
+Attendees:             None
+
+
+REGULAR                  MEETING               - 5:00      p.m.
+TIME           COMMENCED                      - 5:06      p.m.
+
+
+Chair      LaMar          called      the meeting          to order        and read       a statement           describing            the duties        of the
+Planning          Coinmission.
+
+
+
+
+1. Public         Hearings
+        1.1     Consideration                of ZM-23-008/SDA                   23-006,        Application               for     a rezone         at 1190        E
+        Bonner           way       from      A-1     to R-1-5       zoning         designation          to anow           for     uniform         zoning,
+        applicant           Scott      Adams,          Planner:       Katie         Larsen
+
+
+        Applicant          Scott      Adams          has filed      a rezone        and subdivision                amendment              application          for 1190
+        E Boru'ier         Way        from     A-1     to R-1-5.      By rezoning             this property,            it will       help     properties        to have
+        more      backyard            area and to have            R-1-5      zoning,         which      is less restrictive.              The      designation             is
+        more      reflective          of the neighborhood                  near the Bonner             Way         property.          No new       development
+        will     happen        with       this rezone.        Property       owners        witl'iin     the subdivisions                were      notified        and no
+        feedback          was received             by staff.      The item         received       a unanimous                  vote   of approval           from         the
+        Millcreek          Cornrnunity             Council.       Public     utility      easements           will     not be affected.             The property
+        lot lines        to be adjusted            must     be in the same             zone    and recorded              subdivision.             Granting           a
+        rezone         does not go against                the goals        of the General             Plan    or the future            land use map.             Based
+Mnlcreek        Planning          Commission                 Meeting        Minutes                     17 January                2024          Page       2 of 8
+
+
+
+
+     on these findings                Ms.     Larsen       recommended               that the Planning                  Commission               approve           the
+     rezone       and lot line          adjustment.           Commissioner                 Soule     clarified          that the applicant              owns         both
+     properties.        Ms.      Larsen        said the applicant              owns        one and his mother                    owns      the other.
+
+
+     Chair      LaMar         opened          the public        hearing.
+
+
+     There      were    no coinments.
+
+
+     Chair      Lamar       closed          the public        hearing.
+
+
+     Commissioner                Soule        moved          to approve         SDA-23-006                based          on the findings                and
+     conclusions           of the staff            report.      Commissioner                 Vance         seconded             the      motion.        Chair
+     LaMar         asked        for    the vote.        Commissioner                 Soule        voted      yes, Commissioner                       Vance           voted
+     yes, Commissioner                      Reid     voted      yes, Commissioner                     Anderson               voted       yes, Commissioner
+     Hulsberg          voted      yes, Commissioner                      Wright           voted      yes, and           Chair        LaMar         voted          yes. The
+     motion        passed        unanimously.
+
+
+     Commissioner                Soule        moved          to approve         ZM-23-008               based           on the       findings        and
+     conclusions           of the staff            report.      Commissioner                 Vance         seconded             the      motion.        Chair
+     LaMar         asked        for    the vote.        Commissioner                 Soule        voted      yes, Commissioner                       Vance           voted
+     yes, Commissioner                      Reid     voted      yes, Commissioner                     Anderson               voted       yes, Commissioner
+     Hulsberg          voted      yes, Commissioner                     Wright            voted      yes, and           Chair        LaMar         voted          yes. The
+     motion        passed        unanimously.
+
+
+    1.2     Consideration               of ZT-23-013,                Updates        to the Light             Manufacturing                    bM'      Zone.
+     Planner:        Robert           May
+
+
+     The light      manufactunng                   zone      is 274 parcels,          285      acres,     and about             I acre per parcel.                 The MD
+     Zone       is 25 parcels           and 47.55          acres.     The    average         parcel       size is 1.9           acres.     Few       changes          are
+     proposed       to the light            manufacturing              zone.      Staff     are calling          this       a legacy      district      meaning             no
+     future      rezones       will     be enteitained.             That    zone designation                 will       end someday.               Residential             use
+     has been removed,                  added        community           garden       and greenhouse                  uses,      decreased           elevation            from
+     100      feet to 45 feet. The MD-3                      zone,     mixed        development              zone is only             found        on 900 East and
+     includes      Millcreek            Gardens        business         and two           adjacent      lots.       Staff     are suggesting               this     zone
+     become        a legacy           zone.
+
+
+     The MD         Zone       (mixed         development)             zone was            created      to encourage              mixed         uses and higher
+     density.      It is new          and does not require                 extensive         changes.           More        permitted         uses have            been
+     added      to it. Affordable              housing         and ownership               incentives        were           added,       mixed       income
+     housing       incentives           are added,           design     standards          remain       intact,         an increase          in max building
+     height      was added,            from        72 feet to 85 feet.          Strategies           for implementation                    include         waiving
+     commercial          use requirements                    for qualifying         projects         in the MD              and C zones.
+
+
+     The      Canyon       Rim        Citizens       Association            commented              on how        grateful         they     were      for
+     accomi'nodation              for Millcreek              Gardens        in the MD-3              zone.      They        expressed         satisfaction               with
+     all the affordable               housing        incentives.         Some       members           of the association                  asked      why          there     is a
+     building      height        increase          above      70 feet.      Staff    replied       that there           have     been      times       that
+     additional        height         has been requested.               East Mill          Creek       Community                Council         voted
+Millcreek       Planning         Commission           Meeting         Minutes                   17 January           2024      Page 3 of 8
+
+
+
+     unanimously           to approve        each proposed            zone. Mount             Olympus       Community           Council
+      supported       higher     density     housing      near transit.          Members          support       incentives      for affordable
+     housing.        Some questions          were raised          about where            the line between          light     industrial      and
+     corninercial         uses would        be. One member              coini'nented           that they hated building              stepbacks.
+     One Millcreek             Community        Council         member         asked if tiny home villages                   would     be included
+     in the M-Zone.            A member        asked if a grocery              store would         be allowed         in the M-Zone.           There
+     were no comments                  on the MD-3       Zone.      Two members                 expressed       their support        for affordable
+     housing        incentives       in the MD        Zone.     One member             expressed        their    concern       about pen'nitted
+     uses in the MD            Zone removing           their ability          to review.        Another      member         asked clarifying
+     questions       about allowing          additional         building       height.        The Millcreek        Community              Council
+     voted      to continue       the discussion        until     the next meeting.
+
+
+     Staff recommends              for the Light        Manufacturing               Zone that most uses remain                   the same. Based
+     on the staff suinrnary,             staff recomi'nended            that the Plaru'iing           Cornrnission           take public
+     comments          at the public       meeting      and forward            a recommendation                 to the City     Council.
+
+
+     Chair      LaMar      opened        the public     hearing.
+
+
+     There were no cornrnents.
+
+
+     Chair      LaMar      closed       the public     hearing.
+
+
+     Chair      LaMar      clarified     that changes         to the MD-3            Zone are minimal,             and changes            in the MD
+     Zone are in Meadowbrook.                   Comi'nissioner             Soule asked how many                   buildings       are at 72 feet in
+     the MD        zone. Mr. May           said there is one, and some developers,                          depending          on the economy,
+     have wanted          to build      to 85 feet. Commissioner                    Reid said she is concerned                 about extra tall
+     buildings       and asked about a height                 bonus     for affordable           housing.        Mr. May       said they would
+     potentially       be able to go up to 100 feet with                      affordable        housing.      He does not think             it is
+     likely.     Corni'nissioner         Reid said this is taller             than anything         in the city. Mr. May               said that if
+     there was an increase              in elevation      anywhere            in Millcreek         it would       make sense near transit.
+     Commissioner            Soule asked staff if the MD                   Zone is confusing               because     people        caru'iot apply
+     to be in that zone. Mr. May                explained         that he did not believe               it to be confusing             because       it is
+     only      one area, and changes           were made to that code to allow                        more uses like            community
+     gardens.       Commissioner           Soule asked if the Millcreek                       Community          Council      wanted       to delay
+     their decision.        Mr. May        said they tabled           the discussion.            It would       go before      the coinrnunity
+     council       again before        it goes to the City Council                  for codification.           Commissioner            Soule asked,
+     clarifying,      that the M-Zone           and MD-Zone             are not changing.             Mr. May         said they are not
+     changing.       Commissioner            Wright     asked how tall the Front                   Climbing          Gym is, Mr. May                said it
+    is between         75-80     feet. Commissioner              Hulsberg           said that having         an 85-foot        height      ceiling
+    can bring        in developers,        but the lot size will            limit     this.
+
+
+    Chair      LaMar      asked about the allowance                   for coinmunity             gardens      and greenhouses              in the M
+    Zone.       Mr. May      said that if a developer              would       like to create a mushroom                    growing        business      in
+    the M Zone,         it would        be totally    indoors.        Their     intent     is to conduct         a wholesale         business,        they
+    have no intent         to do retail      sales. Mr. May            wrote        the code change to encourage                     people     to do
+    retail     sales and have enough            parking.        He wanted            to discourage          people    from      saying      they
+    would       conduct     wholesales        but then tuni           around        and do retail       sales where          parking       becomes       a
+    problem.        The city would          like to encourage              com+'nunity          gardens.     Coinmissioner             Soule said
+Millcreek      Planning         Commission               Meeting       Minutes                  17 January           2024       Page 4 of 8
+
+
+
+     hydroponics          would        be similar.         Chair    LaMar     said tl'iat reception             halls have a 300-foot
+      distance     from    residential          areas and asked if entertaini'nent                   businesses        should        be similar.     He
+     wondered          if it would       be beneficial          to make entertaini'nent              businesses        a conditional        use.
+     Maybe       the entertaim'nent             business        does not need to be 300 feet from                     a residential        area and
+     maybe       it does. The conditional                  use process       could      help with      this. Commissioner                Soule asked
+      about simplifying            the MD-3            Zone explanation             in code because         it is only       Millcreek      Gardens,
+     there could         be many        changes         made, tables taken            out that make the code more confusing.                             Mr.
+     May      said staff could take it out or leave it. Mr.                         May    said they do not want to make major
+      changes     at this time,         these code changes                are meant       to simplify       the rises in various           M-Zones.
+     Further      changes       will    require        more thought          and work.        Corni'nissioner         Soule said it seems to
+     lier that the legacy             zones should          have verbiage           that they will        go away. Mr.          May      said there
+     will    be wording         to that extent.          Chair      LaMar     asked Commissioner                  Hulsberg       if he was okay
+     with     building     heights       at 85 feet. Commissioner                   Soule asked if the 85 feet includes                     things        on
+     the top of the roof.              Mr. May         said the city code allows               for elevator        equipment         to be taller
+     than the 85 feet. Mr. May                   briefly       summarized        changes,        commercial          entertainment          would         be
+     a Conditional         Use Permit            if outdoors,        change     tobacco        to tobacco         and vape, change bicycle
+     shop and music            to permitted            uses.
+
+
+     Chair       LaMar       moved        to approve            ZT-23-013,          as presented          by staff     with     the following
+     clarifications        and edits,           that     a conditional        use permit           be required         for    commercial
+     outdoor       entertainment               and to increase            the separation           to 300 feet to be consistent                    with
+     the separation            that     already        exists      for reception        centers,       and for the prohibited                use of
+     tobacco      sales include           vape         and vaping         products.       Commissioner              Wright          seconded       the
+     motion.      Chair        LaMar        asked        for the vote.        Commissioner               Soule     voted      yes,
+     Commissioner              Vance       voted        yes, Commissioner               Reid     voted     yes, Commissioner
+     Anderson          voted     yes, Commissioner                   Hulsberg         voted     yes, Commissioner                Wright         voted
+     yes, and Chair            LaMar           voted     yes. The motion             passed      unanimously.
+
+
+
+     1.3 Consideration                 of ZT-23-020,            to the Mixed          Development               3 'MD-3'      Zone.      Planner:
+     Robert       May
+
+
+     Commissioner              Soule      moved         to recommend             approval        of ZT-23-020              to the City      Council
+     based      on the staff's          summary            and recommendation,                   along     with     the following          changes,
+     that    bicycle      shops,       music      shops        and tanning          studios     be permitted           uses. Commissioner
+     Reid     seconded         the motion.             Chair     LalMar      asked      for the vote.           Commissioner             Soule     voted
+     yes, Commissioner                  Reid     voted      yes, Commissioner                 Wright      voted      yes, Commissioner
+     Vance       voted    yes, Commissioner                     Anderson        voted     yes, Commissioner                  Hulsberg       voted
+     yes, and Chair            LaMar           voted     yes. The motion             passed      unanimously
+
+
+     1.4 Consideration                 of ZT-23-021,            Updates      to the Mixed            Development             'MD'       Zone.
+     Planner:       Robert        May
+
+
+     Commissioner              Hulsberg          moved          to recommend            approval         of ZT-23-021           to the City
+     Council      based        on the staff's           summary          and recommendation.                     Commissioner            Soule
+     seconded         the motion.         Chair         LaMar        asked    for the vote.          Commissioner              Hulsberg          voted
+     yes, Commissioner                  Soule     voted        yes, Commissioner              Reid     voted       yes, Commissioner
+     Wright       voted     yes, Commissioner                    Vance      voted     yes, Commissioner                Anderson          voted      yes,
+Millcreek       Planning           Commission               Meeting         Minutes                 17 January             2024         Page 5 of 8
+
+
+
+      Commissioner                Reid      voted     yes, Chair            LaMar        voted     yes. The motion                passed
+      unanimously.
+
+
+     Coi'ni'nissioner             Soule said slie wanted                  to publicly      express that Mr. May                  did a very good job
+     on the Millcreek              Affordable          Housing            Report.
+
+
+     The Commission                 took at break            from       6:17-6:28       pm
+
+
+     The Deputy            Recorder         received         an email        with     public     comment            and asked the Coini'nission                     to
+     read that item to enter it into the record.
+
+
+     Lynda        B. said, "The            M Zone always                allowed      what was in the Commercial                         Zone. Now              to
+     lower the height to 45'while raising the height for apartment buildings in the area doesn't
+     make seme. Seeing as it is already 1 00' it shordd stay that way. Also, to get rid of the
+     residential          while    still    having      disability         & elderly      housing      still        available     doesn't         malce sense.
+     Seeing       as they aren't           allowing         any more properties                allowed       to change           to this, these changes
+     shouldn't       be allowed."            Chair      LaMar           said that in a case like that you would                         just rezone to a
+     compatible           zone. Mr. Lilly            said that if you allow               housing      in any zone then housing                          for
+     people       with     a disability       must be allowed                in that zone as well.
+
+
+2. Continuing            Business
+     2.1 Consideration                 of ZT-23-012,              Updates           to the Commercial                  GC' Zones.          Planner:
+     Brad      Sanderson
+
+
+     Mr. Lilly       gave the report.              The bulk         of the commercial              zones       in    Millcreek      is the C-2
+     Zone.      C-3 Zones          are very         small     and are most noteworthy                  in the City            Center.
+     Functionally           most of the comi'nercial                    allowances        in the city center are covered                      by the
+     City    Center       Overlay          Zone.     At this point          staff will       still be combining               the C-1, C-2, and
+     C-3 into a unified              commercial             district.     Some of the cornrnunity                    councils      have suggested
+     leaving      the C-1 zone out of these changes.                            On the other hand, pulling                      the zones together
+     does give a commercial                   user one zone to look                   at, not three. Key changes                   since the
+     previous        draft are new graphics                   to illustrate         the separation         of uses, additional               language
+     to clarify      where        separation         of uses is measured,                revised    distance           from     residential        for
+     automobile           sales and animal             services         and eliminated           separation          requirements            for ghost
+     kitchens      and commercial                  kitchens.       Currently,         as the code is written              there is an 80-foot
+     right-of-way          for a car dealership                to be allowed.           Perhaps      it would          be a good idea to
+     increase      that distance            to 100 feet.
+
+
+     Cornrnissioner             Soule said she likes the idea of four-sided                           design          in this area.
+     Comi'nissioner             Soule likes front             facing       facades      on street corners             but some shops in
+     Sugarhouse           have blocked             off their      street corner         entrance      and it looks            terrible.      Millcreek
+     should     be careful         that this does not happen                    here. Mr. Lilly            explained          tha € the code
+     already      says that the business                entrance          must front       a street. Mr. May               said that Millcreek
+     wants     curb appeal           and pedestrian             traffic     to go to businesses.             Businesses           are not
+    prohibited           from     having     a second          entrance.       Cominissioner           Reid said she agreed with                         Mr.
+    May      on front       door entrances.             Commissioner                Soule brought          up the concept             of
+     corni'nercial        building         setbacks.        Mr. Lilly        said that setbacks            are not a settled              topic    in
+    Millcreek.           The Cottonwood               Building          has a nice stepback           that pushes the bulk                   of the
+Millcreek        Planning        Commission                 Meeting       Minutes                    17 January              2024      Page 6 of 8
+
+
+
+     building        away from          Highland            Drive.     Cominissioner           Reid asked if it is more                   economical
+     to have a stepback             or not. Coinmissioner                      Hulsberg      said that using             a stepback          is more
+     economical.
+
+
+     Coinmissioner              Soule asked to clarify                  language        on drive through              windows          in residential
+     areas. Mr.        Lilly     said that defining              a drive       through     window           specifically         can help with
+     this. Commissioner                 Soule said the problem                   with     these is the voice             box because            it creates
+     noise, the window              itself        is not necessarily            the problem.          Mr.    Lilly      spoke about how drive-
+     throughs        can snarl traffic             and perhaps           adding     separation          between         these uses is important.
+     Commissioner               Soule said that a bad parking                      lot design         affects    traffic       flow.
+     Cominissioner              Reid added that walkability                      is most important              to her. Coinmissioner
+     Soule spoke about incentives                           for affordable        housing.        She wondered               if there should           be
+     incentives        for builders          for low-income              housing,        bigger       incentives        for low income               as
+     opposed         to moderate          income          housing.       There     are a lot of ways to incentivize                       builders        to
+     include       walkability.          There       should      be consistent           incentives         across all zones,            said
+     Coi'ni'nissioner           Soule.     Mr. Lilly          spoke about levels             of incentives.
+
+
+     Chair       LaMar       asked about buffers                for reception           centers.      Mr.    Lilly      said that code
+     18.45.060(7c)             talks about fencing               along the public            right-of-way.             Cornrnissioner            Vance
+     said he likes the idea of keeping                         the C-I     Zone separate to turn it into a true
+     neighborhood              coinrnercial          zone. Commissioner                  Reid asked about clarifying                      the terms
+     "stories"       or "height"          in the C zone update.                 Mr. Lilly        said that the definition                of story in
+     the code clarifies            this. Coinmissioner                  Reid asked about the definition                        of stone used in a
+     building        fagade. Mr.          Lilly     said some of the fake stone can be as bad as stucco.
+     Commissioner               Hulsberg           said that if you put too many                     restrictions       on exterior          materials         it
+     will    turn away development.                     Commissioner               Reid asked if there needs to be more
+     language        to protect         village      centers.
+
+
+     Chair LaMar             summarized             the ideas that had been expressed.                          Increase       the residential
+     separation        to 300 feet for commercial                       entertainment,            add vaping           to tobacco        sales, revise
+     18.45.060(7c)             regarding          perimeter          fencing    to make consistent               with        landscape       buffer.
+     Exempt         drive      throughs       without         voice     boxes     from     limits,      keep C-1 separate,               consider
+     flexibility      for entrances,              and consider          options,     consider         enhanced          incentives        for low and
+     very low AMI              housing,       100-foot          right-of-way         minii'num          for automobile              sales.
+     Coiurnissioner             Hulsberg           said that using         a CVS pharmacy                to talk about poor building
+     entrances        is not ideal.        Mr.      Lilly     added that there could                 be a minimum              distance        for
+     restaurant       drive-throughs               from      a corner.
+
+
+     Commissioner                Reid      moved          to recommend             ZT-23-012,            to the City           Council,         subject
+     to the findings             and recommendations                       in the staff       report,         and conditions              as
+     indicated        in    the staff        presentation.             Commissioner              Vance        seconded          the motion.
+     Chair       LaMar          asked      for the vote.             Commissioner            Reid       voted        yes, Commissioner
+     Vance         voted     yes, Commissioner                   Wright         voted     yes, Commissioner                    Soule      voted      yes,
+     Commissioner                Hulsberg           voted      yes, Commissioner                  Anderson            voted      yes, and Chair
+     LaMar          voted      yes. The           motion      passed       unanimously
+
+
+     2.2 Consideration               of ZT-23-015,               Updates          to the Residential                 Multi     GRM'       Zone.
+     Planner:         Brad       Sanderson
+Millcreek         Planning               Commission                   Meeting          Minutes                       17 January                2024        Page      7 of 8
+
+
+
+
+      Mr.      Lilly         gave the report.                This     is continuing             business        from         December            20, 2023.           The RM
+      Zone       in Millcreek                 is large.       Most       of the RM             Zone     is in the Millcreek                     Community                Council
+      area. Changes                   since      the last draft          include,          revised       pen'nitted            height         from     32 feet to 30
+      feet to align             with      what       is permitted             in most          R-1 Zones,             clarified        opaque          railing
+      requirements                   for balconies            apply      to a 50%           coverage,          removed              utility     placement
+      requirement,                   revised      fagade        articulation           to include            an option          for pitched            roofs      and
+      remove            option         for trellises,          new      graphic         to illustrate         rooftop          patio      requirements,              revised
+      building           materials             grapliic,       and prohibit            carports        between           the building                and street.         Chair
+      LaMar            talked         about      setting       the unit        size to smaller               than 25 and making                      it 12 units         for
+      requirements                   for low-income                 housing.        The new           Planning           Cominission                 recommendations
+      include          conditional              use permits            for multifamily                required          for developments                   above         25
+      units.     Mr.         Lilly      said that in some                cases Conditional                   Use Projects               do not have              a lot for the
+      Planning              Commission               to do. Mr.          May       agreed          and said 25 units                 is a good          amount.
+      Coininissioner                   Vance        and Commissioner                       Hulsberg          agreed          with     the 25-unit          decision.
+      Coini'nissioner                  Hulsberg            said that if there              is going      to be development                      in Millcreek              it will
+      be through              density.
+
+
+      Coini'nissioner                  Reid      asked       about      setting        a standard            in dog parks             for picking           up dog
+      waste.          Mr.     Lilly      said the city              can control           dog parks          by not allowing                   them     near
+      ston'nwater              drainage,           but the city          cannot           enforce      how      often         dog waste          is picked          up.
+     18.41.050(8c)                    - should        be revised          to be compatible                   with       the landscaping                 chapter.
+      Commissioner                     Soule      asked        the commission                  and staff        consider            incentives          for 2, 3, and 4-
+     plexes.           Coi'm'nissioner              Vance           said these         units    worild        have       to be platted               as individual
+     parcels           for individual              ownership.            Mr.      Lilly      said that planners                   are getting          downward
+     pressure           from          the state on this issue.                   The      Coini'nission              spoke      about         how     duplexes           could
+     be a good               way      to add multifamily                  housing.           Mr.     Lilly     said that Millcreek                     is not seeing             as
+     many        accessory              dwelling            units     (ADUs)           as they       expected           because          they        are expensive              to
+     build.       Coininissioner                  Hulsberg            said the cost of construction                           is so great            in Utah       and the
+     vague of land is high                        as well.       Mr.     Lilly      said that         external         ADUs           are fiendishly             expensive.
+     There        are home              builders           building      new       homes         that are adding                an ADU           from       the
+     begiru'iing.
+
+
+     Commissioner                      Vance         moved            to recommend                  approval            of ZT-23-015                  to the City
+     Council,            based          on staff       findings          and       conclusions               in the staff            report.          Commissioner
+     Wright            seconded            the      motion.           Chair        LaMar           called      for      the vote.             Commissioner
+     Vance            voted          yes, Commissioner                    Wright            voted      yes, Commissioner                         Reid      voted         yes,
+     Commissioner                      Soule        voted       yes, Commissioner                      Hulsberg               voted       yes, Commissioner
+     Anderson                voted       yes, Chair             LaMar            voted       yes. The          motion           passed          unanimously.
+
+
+3. Commission                 Business
+     3.1 Updates                from          the Planning              and       Zoning         Director
+     Mr.      Lilly         invited      the commission                  to a planning              event      on Thursday                the 8I'1of February.                       On
+     the 30"           of Jamiary             and on the lOIh of February                           there     will     be an optional                 training       course          for
+     community                 councils.          For the meeting                 in February,              there     will     be a couple             zone       text
+     amendments,                     these will       be technical               discussions          and it may              be a good          idea to l'iave a second
+     planning            coini'nission             meeting.           Chair      LaMar         was doing             research          on Roberts           Rules         of Order
+Millcreek       Planning        Commission            Meeting      Minutes                17 January        2024   Page 8 of 8
+
+
+
+        and spoke about how Roberts                  Rules      of Order    does for a substitute      motion      that would   take
+        precedence        over the original         motion.
+
+
+4. Calendar        of Upcoming          Meetings
+    *    City   Council      Special    Mtg.       1/18/24      8:00 a.m.
+    *    City   Council     Mtg.    1/22/24        5:00 p.m.
+    *   Historic     Preservation       Coiuinission          Mtg.,    2/8/24,     6:00 p.m.
+    *   Planning      Coini'nission        Mtg.,     2/21/24,     5:00 p.m.
+
+
+
+ADJOURNED:                 Commissioner             LaMar        moved      to adjourn      the meeting       at 8:16 p.m.
+Commissioner           Reid     seconded.          Chair     LaMar       called    for the vote.    Chair     LaMar     voted   yes,
+Commissioner           Reid     voted      yes, Commissioner               Anderson       voted   yes, Commissioner          Hulsberg
+voted    yes, Commissioner              Soule       voted     yes, Commissioner           Vance     voted    yes, and
+Commissioner           Wright       voted      yes. The       motion     passed      unanimously.
+
+
+
+
+                                APPROVED:                                                              Date
+                                                            Shawn LaMar,          Chair
+
+
+
+                                 Attest:                   Ely(s(A'uL,
+                                                                    City Recorder

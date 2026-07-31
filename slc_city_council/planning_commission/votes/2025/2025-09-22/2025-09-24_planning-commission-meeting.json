@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "date": "2025-09-24",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=8084231&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-09-22/2025-09-24_planning-commission-meeting.md",
+    "present": [
+      "Landon Kraczek",
+      "Brian Scott",
+      "Aimee Burrows",
+      "Richard Leverett",
+      "Jeffrey Barrett",
+      "Mike Vela"
+    ],
+    "absent": [
+      "Amy Barry",
+      "Lilah Rosenfield"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Jeffrey Barrett",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Aimee Burrows",
+        "Brian Scott",
+        "Richard Leverett",
+        "Jeffrey Barrett",
+        "Mike Vela",
+        "Landon Kraczek"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Policies and Procedures with the following modification: to allow a 5-minute comment period by a representative of a Recognized Community Organizations for consent and regular agenda items",
+      "description": "approve the Policies and Procedures with the following modification: to allow a 5-minute comment period by a representative of a Recognized Community Organizations for consent and regular agenda items",
+      "motion_type": "Other",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Richard Leverett",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Vela",
+        "Jeffrey Barrett",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Richard Leverett",
+        "Landon Kraczek"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "",
+      "seconder": "Brian Scott",
+      "result": "Positive recommendation 6:0",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Jeffrey Barrett",
+        "Mike Vela",
+        "Aimee Burrows",
+        "Brian Scott",
+        "Landon Kraczek"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Mike Vela",
+      "seconder": "Richard Leverett",
+      "result": "Positive recommendation 6:0",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Aimee Burrows",
+        "Mike Vela",
+        "Jeffrey Barrett",
+        "Richard Leverett",
+        "Landon Kraczek"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

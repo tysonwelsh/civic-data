@@ -1,0 +1,7 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+white_city,Douglas Denning,2025,Council At-Large B,,978.73,978.73,3,1,summary,
+white_city,Linda Price,2025,Council At-Large B,,695.82,695.82,3,3,summary,
+white_city,Phillip Cardenaz,2025,Council At-Large C,,1050.0,1763.51,3,3,override,"OVERRIDE: under-filled Final + cumulative restatement (regime: incremental) — his Oct-28 (scanned) RESTATES the Oct-7 covers (1050/859.78) over blank schedules, so sum-interim double-counts to 2100; and his Dec-4 Final is under-filled ($0 stated totals). Real cycle: contributions 1050 (Oct-7, unchanged after; Column A), expenditures 1763.51 = Oct 859.78 + Dec printing 903.73 (his own Final Summary Campaign-Total Column D)."
+white_city,Neil Mahoney,2025,Council At-Large C,,1543.03,1543.03,3,3,summary,
+white_city,Allan Perry,2025,Mayor,,7730.5,7706.47,3,3,override,"OVERRIDE: per-period filer (regime detector: incremental; disjoint Schedule A/B across all 3 reports — Oct-7 7705.50/7633.57, Oct-28 0/10.00, Dec-4 25.00/62.90) — the Dec-4 'summary'-typed Final is itself a period report, so the summary-vs-interims max() drops the Final period; cycle = sum of all 3 filings (7705.50+0+25.00 / 7633.57+10.00+62.90)."
+white_city,Paulina Flint,2025,Mayor,,3550.0,2627.08,3,1,summary,

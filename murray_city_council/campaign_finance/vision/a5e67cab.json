@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "05/27/2025", "name": "Board of Realtors", "amount": "4,500.00", "in_kind": false},
+    {"date": "06/17/2025", "name": "Phil & Jamie Markham", "amount": "500.00", "in_kind": false},
+    {"date": "07/01/2025", "name": "Jason Bergstrom", "amount": "50.00", "in_kind": false},
+    {"date": "07/01/2025", "name": "Cindy Gust-Jensen", "amount": "50.00", "in_kind": false},
+    {"date": "06/30/2025", "name": "Mike Bird", "amount": "100.00", "in_kind": false},
+    {"date": "06/30/2025", "name": "Jessica Taylor", "amount": "100.00", "in_kind": false},
+    {"date": "07/09/2025", "name": "Keith Bateman", "amount": "500.00", "in_kind": false},
+    {"date": "07/29/2025", "name": "Jean Kitt", "amount": "300.00", "in_kind": false},
+    {"date": "07/31/2025", "name": "Loan from Cindy Hales", "amount": "1,906.85", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "City Journal", "purpose": "July Ad", "amount": "621.00", "in_kind": false},
+    {"date": null, "recipient": "Identity Signs", "purpose": "yard signs", "amount": "2,591.14", "in_kind": false},
+    {"date": null, "recipient": "Spandex", "purpose": "H-Stakes", "amount": "119.73", "in_kind": false},
+    {"date": null, "recipient": "Landslide Political", "purpose": "Campaign Manager", "amount": "4,700.00", "in_kind": false}
+  ],
+  "total_contributions": "8006.85",
+  "total_expenditures": "8031.87",
+  "contributions_50_or_less": null,
+  "beginning_balance": "25.02",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202508_Brett-A-Hales_17035.pdf",
+    "candidate": "Brett A. Hales",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202508_Brett-A-Hales_17035.pdf",
+    "pages": 7
+  }
+}

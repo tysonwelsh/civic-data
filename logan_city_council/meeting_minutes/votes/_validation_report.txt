@@ -1,0 +1,18 @@
+Logan — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 2820   motions: 789   named-vote motions: 515   tally-only motions: 274
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 0, undocumented (DEFECTS): 0
+
+4. ROSTER: roster.csv present (9 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 514/515 match (99.8%)
+   known, hand-verified source quirks: 1
+      2020-08-18 m2: stated 4:1 vs counted aye=0 nay=1 abstain=0 :: result='4-1 Pass (no names)'  [KNOWN: partial dissent-only record: the minutes print '4-1' without a full roll but name the single dissenter -- the 1 recorded Nay is genuine, the 4 Ayes are unnamed by the source (result string itself says '(no names)').]
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

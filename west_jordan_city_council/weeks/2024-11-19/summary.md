@@ -1,0 +1,9 @@
+# West Jordan council week ending 2024-11-19
+_Window 2024-11-13 – 2024-11-19_
+
+- **Meetings:** 1 — committee of the whole
+- **Votes:** 0 motions
+- **Public comments:** 0
+
+## Files
+- [2024-11-13_committee-of-the-whole.md](../../meeting_minutes/minutes/2024/2024-11-11/2024-11-13_committee-of-the-whole.md)

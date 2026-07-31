@@ -1,0 +1,93 @@
+{
+ "date": "2022-07-28",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2022/2022-07-25/2022-07-28_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Gregory Jackson",
+  "Brent Everett",
+  "Scott Bunker",
+  "Heather Newall",
+  "Emily Britton"
+ ],
+ "members_absent": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Everett moved to approve the minutes on the consent agenda. Commissioner Bunker seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Brent Everett",
+   "seconder": "Scott Bunker",
+   "aye": [
+    "Brent Everett",
+    "Heather Newall",
+    "Scott Bunker",
+    "Gregory Jackson",
+    "Emily Britton"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Consideration of Mike Davey’s request for approval of the Lewis Farms Site Plan, a proposed LDS meetinghouse located at approximately 4001 West Waterbury Drive. Sierra Pierson presented information on the agenda item.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": null,
+   "seconder": "Heather Newall",
+   "aye": [
+    "Brent Everett",
+    "Heather Newall",
+    "Scott Bunker",
+    "Gregory Jackson",
+    "Emily Britton"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of a Development Code Amendment to Table 37.080 and Chapter 16 PRD updating the parking requirements for multi-family projects. Sierra Pierson presented information on the agenda item.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Brent Everett",
+   "seconder": "Heather Newall",
+   "aye": [
+    "Brent Everett",
+    "Heather Newall",
+    "Scott Bunker",
+    "Gregory Jackson",
+    "Emily Britton"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

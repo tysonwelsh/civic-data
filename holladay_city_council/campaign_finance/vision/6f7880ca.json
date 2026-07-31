@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "10/26", "name": "Earl Dallon", "amount": "100", "in_kind": false},
+    {"date": "10/28", "name": "Committee to Elect Carol Moss", "amount": "100", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/2/23", "recipient": "Legacy Images", "purpose": null, "amount": "54", "in_kind": false},
+    {"date": "11/13/23", "recipient": "Lyon Printing", "purpose": null, "amount": "1,119.69", "in_kind": false}
+  ],
+  "total_contributions": "200",
+  "total_expenditures": "1173.69",
+  "contributions_50_or_less": null,
+  "beginning_balance": "-1433.26",
+  "ending_balance": "-2406.95",
+  "_meta": {
+    "index_path": "raw/2023_city_drew-7day.pdf",
+    "candidate": "Drew B. Quinn",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_drew-7day.pdf",
+    "pages": 3
+  }
+}

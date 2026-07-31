@@ -1,0 +1,98 @@
+{
+ "date": "2024-10-10",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2024/2024-10-07/2024-10-10_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Brent Everett",
+  "Emily Lockhart",
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Ken Roberts",
+  "Beau Jones"
+ ],
+ "members_absent": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Approval of minutes from the September 26, 2024 meeting",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Brent Everett",
+   "seconder": "Nicole Kunze",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and consideration of Steve Kelly’s request for approval of the Ember Hotel Concept with an exception for a reduction in the landscape buffer located at 26 East Main Street. Brittney Harris presented information on the item. She noted that with the current plan, the south",
+   "body": "PlanningCommission",
+   "motion_type": "Public Hearing Action",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "4:1 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Emily Lockhart",
+   "aye": [
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Ken Roberts"
+   ],
+   "nay": [
+    "Brent Everett"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and consideration of Jeff Ackley’s request for conditional use approval for the conversion of an accessory building into a detached ADU located at 1088 North Trinnaman Lane. Brittney Harris presented information on the item. She explained that this type of property would",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Nicole Kunze",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

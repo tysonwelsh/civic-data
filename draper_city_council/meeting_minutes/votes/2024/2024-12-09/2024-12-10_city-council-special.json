@@ -1,0 +1,52 @@
+{
+ "date": "2024-12-10",
+ "year": 2024,
+ "title": "City Council Special Meeting",
+ "source": "minutes/2024/2024-12-09/2024-12-10_city-council-special.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "Councilmember Green moved to approve the Local Consent",
+   "motion_type": "Other",
+   "result": "4-0 Pass",
+   "mover": "Councilmember Green",
+   "seconder": "Councilmember Johnson",
+   "aye": [
+    "Councilmember Green",
+    "Councilmember Johnson",
+    "Councilmember F. Lowry",
+    "Councilmember Vawdrey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Councilmember T. Lowery"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    4,
+    0
+   ],
+   "mayor_voted": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "Councilmember Vawdrey moved to adjourn the meeting. A voice vote was tak en. The motion passed unanimously. The meeting adjourned at 5:34 p.m",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice/tally-only)",
+   "mover": "Councilmember Vawdrey",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "motion_no": 2
+  }
+ ]
+}

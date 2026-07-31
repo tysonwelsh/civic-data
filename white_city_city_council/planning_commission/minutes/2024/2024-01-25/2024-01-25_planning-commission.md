@@ -1,0 +1,128 @@
+# White City Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/1104709.pdf
+> Meeting date: 2024-01-25
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2024-01-25
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/1104709.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                             Planning and Development Services
+                                             2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                             Phone: (385) 468-6700 • Fax: (385) 468-6674
+
+
+
+                                            MEETING MINUTE SUMMARY
+                                   WHITE CITY PLANNING COMMISSION MEETING
+                                      Thursday, January 25, 2024 6:15 p.m.
+
+                            **Meeting minutes approved on March 28, 2024**
+Approximate meeting length: 57 minutes                                    *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 0                                         found on the State websites, or from Planning &
+                                                                          Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner Seiger-Webster
+
+                                                   ATTENDANCE
+Commissioners and Staff:
+                                   Public     Business
+         Commissioners                                   Absent                                                 Public      Business
+                                    Mtg         Mtg                              Planning Staff / DA
+  Christy Seiger-Webster (Chair)     x           x                                                               Mtg          Mtg
+     Christopher Spagnuolo           x           x                                  Wendy Gurr                     x            x
+    Robert Frailey (Vice Chair)      x           x                                  Brian Tucker                   x            x
+           Gene Wilson               x           x                                  Jay Springer                   x            x
+    Weston Millen (Alternate)        x           x
+     Christopher Huntzinger          x           x
+
+
+
+
+                                                BUSINESS MEETING
+
+                                             Meeting began at – 6:16 p.m.
+    1) Election of Chair and Vice Chair 2024. (Motion/Voting)
+       Election of Chair for 2024
+       Motion: To nominate Commissioner Seiger-Webster as Chair for 2024, Commissioner Seiger-
+       Webster accepted that nomination.
+              Motion by: Commissioner Huntzinger
+              2nd by: Commissioner Spagnuolo
+              Vote: Commissioners voted unanimous in favor
+         Election of Vice Chair for 2024
+         Motion: To nominate Commissioner Frailey as Vice Chair for 2024, Commissioner Frailey
+         accepted that nomination.
+                Motion by: Commissioner Huntzinger
+                2nd by: Commissioner Spagnuolo
+                Vote: Commissioners voted unanimous in favor
+
+    2) 2024 Planning Commission Meeting Schedule. (Motion/Voting)
+
+
+
+White City Planning Commission – January 25, 2024 – Meeting Summary                                                    Page 1 of 3
+        Motion: To approve the 2024 Planning Commission Meeting Schedule changing the meeting time
+        to 6:00 pm throughout and the December 26th meeting to December 19th.
+                Motion by: Commissioner Spagnuolo
+                2nd by: Commissioner Frailey
+                Vote: Commissioners voted unanimous in favor
+
+    3) Approval of the April 27, 2023 Planning Commission Meeting Minutes. (Motion/Voting)
+       Motion: To approve minutes from the April 27, 2023 Planning Commission Meeting with an
+       amendment to removing “Alternate” from Commissioner Huntzinger Title.
+             Motion by: Commissioner Millen
+             2nd by: Commissioner Spagnuolo
+             Vote: Commissioners voted unanimous in favor
+
+    4) Other Business Items. (As Needed)
+
+        Commissioner Seiger-Webster asked if we have any open seats. Staff advised one alternate position
+        available.
+
+                                            PUBLIC HEARING(S)
+                                        Hearings began at – 6:23 p.m.
+
+OAM2023-001051 – Proposed amendment to the White City Subdivision Ordinance, Title 18 of the White
+City Municipal Code, to comply with review timeframes, review cycle limits, land use authority
+designations and other amendments mandated by SB 174. Planner: Brian Tucker (Motion/Voting)
+
+Greater Salt Lake Municipal Services District Planning Manager Brian Tucker and Counsel Jay Springer
+provided an analysis of the code amendments.
+
+No one from the public was present to speak.
+
+Commissioners, staff, and Counsel had a brief discussion regarding administrative land use authority
+designation, command planning commission being the Administrative Land Use Authority, curved authority
+with staff, planning commission, and Council. Planning Commission the authority even for the smaller
+lots, five lots being state code and could be changed from 10 or less, consider two lots, 18.08.010A change
+to administrator is designee of two or fewer lots and 18.08.010B changed to planning commission is
+authority of three or greater lots. Recommendation of timeline on completeness review.
+
+Commissioner Huntzinger excused himself at 6:53 pm.
+
+Motion: To recommend file #OAM2023-001051 Proposed amendment to the White City Subdivision
+Ordinance, Title 18 of the White City Municipal Code, to comply with review timeframes, review cycle
+limits, land use authority designations and other amendments mandated by SB 174 to the White City
+Council for approval with one change.
+        Motion by: Commissioner Spagnuolo
+        2nd by: Commissioner Millen
+        Vote: Commissioners voted unanimous in favor (of commissioners present)
+Commissioner Wilson motioned to adjourn.
+
+
+White City Planning Commission – January 25, 2024 – Meeting Summary                             Page 2 of 3
+                                          MEETING ADJOURNED
+                                         Time Adjourned – 7:13 p.m.
+
+
+
+
+White City Planning Commission – January 25, 2024 – Meeting Summary   Page 3 of 3
+

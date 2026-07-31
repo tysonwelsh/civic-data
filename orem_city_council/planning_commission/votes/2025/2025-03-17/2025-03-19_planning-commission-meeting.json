@@ -1,0 +1,85 @@
+{
+ "date": "2025-03-19",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-03-17/2025-03-19_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "approve the Consent",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Britton Runolfson",
+   "seconder": "Rod Erickson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "forward a negative recommendation on the proposed rezone from OS5 to",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_class": "Recommendation",
+   "result": "Negative recommendation 5:0",
+   "outcome": "Passed",
+   "mover": "Britton Runolfson",
+   "seconder": "Mike Carpenter",
+   "names_recorded": true,
+   "aye": [
+    "Britton Runolfson",
+    "James Hawkes",
+    "Mike Carpenter",
+    "Gerald Crismon",
+    "Madeline Komen"
+   ],
+   "nay": [],
+   "abstain": [
+    "Haysam Sakar"
+   ],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "continue the item to the April 16th, 2025 meeting",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "Pass",
+   "outcome": "Passed",
+   "mover": "Mike Carpenter",
+   "seconder": "Haysam Sakar",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "adjourn;",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "Pass",
+   "outcome": "Passed",
+   "mover": "Mike Carpenter",
+   "seconder": "Rod Erickson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

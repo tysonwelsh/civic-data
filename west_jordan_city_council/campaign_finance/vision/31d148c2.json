@@ -1,0 +1,680 @@
+{
+ "reports": [
+  {
+   "reporting_period": "FINAL general (signed 2021/11/28; bundle pp1-8)",
+   "total_contributions": "1,500.00",
+   "total_expenditures": "5,718.86",
+   "contributions_50_or_less": null,
+   "beginning_balance": "10,905.18",
+   "ending_balance": "6,686.32",
+   "cover_lines": {
+    "line1_balance_forward": "10,905.18",
+    "line2_contributions_50_or_less": "-",
+    "line3_contributions_over_50": "1,500.00",
+    "line4_total_contributions": "1,500.00",
+    "line5_total_expenses": "(5,718.86)",
+    "line6_ending_balance": "6,686.32"
+   },
+   "contributions": [
+    {
+     "date": "10/30/2021",
+     "name": "BUTMGS, LLC",
+     "amount": "1,500.00",
+     "in_kind": false
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "10/25/2021",
+     "recipient": "FACEBOOK*",
+     "purpose": "ADVERTISING",
+     "amount": "50.00",
+     "in_kind": false
+    },
+    {
+     "date": "11/3/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "48.86",
+     "in_kind": false
+    },
+    {
+     "date": "11/10/2005",
+     "recipient": "KELVIN GREEN",
+     "purpose": "LOAN REPAYMENT",
+     "amount": "390.00",
+     "in_kind": false
+    },
+    {
+     "date": "11/28/2021",
+     "recipient": "KELVIN GREEN",
+     "purpose": "LOAN REPAYMENT",
+     "amount": "5,230.00",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "INTERIM pre-general Oct 25 2021 (bundle pp9-19)",
+   "total_contributions": "18,058.78",
+   "total_expenditures": "9,818.84",
+   "contributions_50_or_less": "265.00",
+   "beginning_balance": "2,665.24",
+   "ending_balance": "10,905.18",
+   "cover_lines": {
+    "line1_balance_forward": "2,665.24",
+    "line2_contributions_50_or_less": "265.00",
+    "line3_contributions_over_50": "17,793.78",
+    "line4_total_contributions": "18,058.78",
+    "line5_total_expenses": "-9,818.84",
+    "line6_ending_balance": "10,905.18"
+   },
+   "contributions": [
+    {
+     "date": "7/27/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "8/23/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/30/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/4/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "998.68",
+     "in_kind": false
+    },
+    {
+     "date": "9/20/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "2,938.01",
+     "in_kind": false
+    },
+    {
+     "date": "9/20/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "2,938.01",
+     "in_kind": false
+    },
+    {
+     "date": "9/21/2021",
+     "name": "DAI MANAGERS",
+     "amount": "1,000.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/24/2021",
+     "name": "MIKE GREEN",
+     "amount": "100.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/24/2021",
+     "name": "KURT GREEN",
+     "amount": "100.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/24/2021",
+     "name": "JORDAN WATER LLC",
+     "amount": "300.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/27/2021",
+     "name": "MEGHAN SHELBY",
+     "amount": "75.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/18/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "1,097.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/3/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "122.82",
+     "in_kind": false
+    },
+    {
+     "date": "9/27/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "86.82",
+     "in_kind": false
+    },
+    {
+     "date": "10/6/2021",
+     "name": "KELVIN GREEN (LOAN)",
+     "amount": "80.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/18/2021",
+     "name": "SL HOME BUILDERS ASSN",
+     "amount": "250.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/23/2021",
+     "name": "PETERSON DEVELOPMENT",
+     "amount": "500.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/30/2021",
+     "name": "MICHAEL GREEN",
+     "amount": "1,000.00",
+     "in_kind": true,
+     "description": "CONSULTING FEES"
+    },
+    {
+     "date": "9/24/2021",
+     "name": "KELVIN GREEN",
+     "amount": "350.00",
+     "in_kind": true,
+     "description": "FOOD AND SUPPLIES FOR FUNR[text cut at cell edge; likely FUNDRAISER]"
+    },
+    {
+     "date": "9/7/2021",
+     "name": "REAGAN OUTDOOR ADVERTISING",
+     "amount": "2,517.00",
+     "in_kind": true,
+     "description": "BILLBOARD"
+    },
+    {
+     "date": "10/12/2021",
+     "name": "KELVIN GREEN",
+     "amount": "5.00",
+     "in_kind": true,
+     "description": "BOTTLES OF WATER"
+    },
+    {
+     "date": "10/12/2021",
+     "name": "KELVIN GREEN",
+     "amount": "180.00",
+     "in_kind": true,
+     "description": "TREATS AND CANDY (Notes: MEET CANDIDATES)"
+    },
+    {
+     "date": "9/24/2021",
+     "name": "MARIA GREEN",
+     "amount": "25.00",
+     "in_kind": true,
+     "description": "VINYL FOR STICKERS"
+    },
+    {
+     "date": "10/5/2021",
+     "name": "KELVIN GREEN",
+     "amount": "25.00",
+     "in_kind": true,
+     "description": "DOOR HANGER BLANKS"
+    },
+    {
+     "date": "10/10/2021",
+     "name": "KELVIN GREEN",
+     "amount": "5.25",
+     "in_kind": true,
+     "description": "PRINTING COSTS (Notes: 75@.07)"
+    },
+    {
+     "date": "10/11/2021",
+     "name": "KELVIN GREEN",
+     "amount": "4.90",
+     "in_kind": true,
+     "description": "DOOR HANGER PRINTING (Notes: 70@.07)"
+    },
+    {
+     "date": "10/22/2021",
+     "name": "KELVIN GREEN",
+     "amount": "2.80",
+     "in_kind": true,
+     "description": "PRINTING COSTS (Notes: 40@.07)"
+    },
+    {
+     "date": "10/22/2021",
+     "name": "KELVIN GREEN",
+     "amount": "9.24",
+     "in_kind": true,
+     "description": "post card printing (Notes: 132@.07)"
+    },
+    {
+     "date": "9/20/2021",
+     "name": "KELVIN GREEN",
+     "amount": "5.25",
+     "in_kind": true,
+     "description": "post card printing (Notes: 75@.07)"
+    },
+    {
+     "date": "9/21/2021",
+     "name": "KELVIN GREEN",
+     "amount": "80.00",
+     "in_kind": true,
+     "description": "POSTAGE"
+    },
+    {
+     "date": "9/22/2021",
+     "name": "KELVIN GREEN",
+     "amount": "48.00",
+     "in_kind": true,
+     "description": "POSTAGE"
+    },
+    {
+     "date": "10/25/2021",
+     "name": "SL BOARD OF REALTORS",
+     "amount": "1,750.00",
+     "in_kind": true,
+     "description": "DIGITAL ADVERTISING"
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "7/21/2021",
+     "recipient": "WEST JORDAN JOURNAL (AUG)",
+     "purpose": "ADVERTISING",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "8/23/2021",
+     "recipient": "WEST JORDAN JOURNAL(SEP)",
+     "purpose": "ADVERTISING",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/30/2021",
+     "recipient": "WEST JORDAN JOURNAL(OCT)",
+     "purpose": "ADVERTISING",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/4/2021",
+     "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]",
+     "purpose": "MAILER",
+     "amount": "998.68",
+     "in_kind": false
+    },
+    {
+     "date": "9/20/2021",
+     "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]",
+     "purpose": "MAILER",
+     "amount": "2,938.01",
+     "in_kind": false
+    },
+    {
+     "date": "9/20/2021",
+     "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]",
+     "purpose": "MAILER",
+     "amount": "2,938.01",
+     "in_kind": false
+    },
+    {
+     "date": "10/3/2021",
+     "recipient": "ROBOCENT",
+     "purpose": "TEXTS",
+     "amount": "122.82",
+     "in_kind": false
+    },
+    {
+     "date": "9/27/2021",
+     "recipient": "ROBOCENT",
+     "purpose": "TEXTS",
+     "amount": "86.82",
+     "in_kind": false
+    },
+    {
+     "date": "10/6/2021",
+     "recipient": "ICONTACT",
+     "purpose": "EMAIL SEVICE",
+     "amount": "80.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/3/2020",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "18.86",
+     "in_kind": false
+    },
+    {
+     "date": "10/23/2021",
+     "recipient": "US POSTAL SERVICE",
+     "purpose": "POSTAGE",
+     "amount": "88.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/24/2021",
+     "recipient": "JORDAN WATER LLC",
+     "purpose": "ICE",
+     "amount": "15.00",
+     "in_kind": false
+    },
+    {
+     "date": "1018/2021",
+     "recipient": "THE POLITICAL GROUP",
+     "purpose": "PHONE BANK",
+     "amount": "1,097.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/18/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "35.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/13/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "25.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/12//2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "15.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/8/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "15.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/7/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "10.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/6/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "10.00",
+     "in_kind": false
+    },
+    {
+     "date": "10/5/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "10.00",
+     "in_kind": false
+    },
+    {
+     "date": "9/4/2021",
+     "recipient": "HOME DEPOT",
+     "purpose": "POSTS",
+     "amount": "65.64",
+     "in_kind": false
+    },
+    {
+     "date": "10/25/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADVERTISING",
+     "amount": "50.00",
+     "in_kind": false
+    }
+   ]
+  },
+  {
+   "reporting_period": "AMENDED pre-primary Aug 2 2021 (bundle pp20-31)",
+   "total_contributions": "7,154.57",
+   "total_expenditures": "4,764.03",
+   "contributions_50_or_less": "0.00",
+   "beginning_balance": "274.70",
+   "ending_balance": "2,665.24",
+   "cover_lines": {
+    "1_balance_forward": "274.70",
+    "2_contributions_50_or_less": "0.00",
+    "line_3_contributions_over_50": "7,154.57",
+    "line_4_total_contributions": "7,154.57",
+    "line_5_total_expenses": "-4,764.03",
+    "line_6_ending_balance": "2,665.24"
+   },
+   "contributions": [
+    {
+     "date": "6/8/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "33.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/12/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "37.97",
+     "in_kind": false
+    },
+    {
+     "date": "7/1/2021",
+     "name": "SALT LAKE BOARD OF REALTORS",
+     "amount": "2,000.00",
+     "in_kind": false
+    },
+    {
+     "date": "7/27/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "75.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/29/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "61.77",
+     "in_kind": false
+    },
+    {
+     "date": "6/29/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "94.16",
+     "in_kind": false
+    },
+    {
+     "date": "7/30/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/16/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "387.16",
+     "in_kind": false
+    },
+    {
+     "date": "7/7/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/28/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "199.00",
+     "in_kind": false
+    },
+    {
+     "date": "7/21/2021",
+     "name": "KELVIN GREEN (loan)",
+     "amount": "2,938.01",
+     "in_kind": false
+    },
+    {
+     "date": "6/15/2021",
+     "name": "KELVIN GREEN",
+     "amount": "2.50",
+     "in_kind": true,
+     "purpose": "COPIES ON LASER PRINTER (Notes: 100 COPIES)"
+    },
+    {
+     "date": "7/4/2021",
+     "name": "GO H20",
+     "amount": "90.00",
+     "in_kind": true,
+     "purpose": "PARADE HELP"
+    },
+    {
+     "date": "7/4/2021",
+     "name": "SUPERIOR TRANSLATIONS",
+     "amount": "80.00",
+     "in_kind": true,
+     "purpose": "PARADE HELP"
+    },
+    {
+     "date": "6/30/2020",
+     "name": "MARIA GREEN",
+     "amount": "50.00",
+     "in_kind": true,
+     "purpose": "PARADE TSHIRTS"
+    },
+    {
+     "date": "6/15/2021",
+     "name": "KELVIN GREEN",
+     "amount": "11.00",
+     "in_kind": true,
+     "purpose": "POPCORN AND WATER"
+    },
+    {
+     "date": "7/3/2021",
+     "name": "MARIA GREEN",
+     "amount": "45.00",
+     "in_kind": true,
+     "purpose": "PARADE CANDY"
+    },
+    {
+     "date": "7/2/2021",
+     "name": "KELVIN GREEN",
+     "amount": "250.00",
+     "in_kind": true,
+     "purpose": "PARADE CANDY AND DECORATI[cut off at cell edge]"
+    }
+   ],
+   "expenditures": [
+    {
+     "date": "6/5/2021",
+     "recipient": "WEST JORDAN CITY",
+     "purpose": "filing fee",
+     "amount": "25.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/4/2021",
+     "recipient": "SALT LAKE COUNTY CLERK",
+     "purpose": "voter list",
+     "amount": "72.34",
+     "in_kind": false
+    },
+    {
+     "date": "6/8/2021",
+     "recipient": "MICHAEL'S",
+     "purpose": "STATIONARY",
+     "amount": "9.43",
+     "in_kind": false
+    },
+    {
+     "date": "6/8/2021",
+     "recipient": "USPS",
+     "purpose": "STAMPS",
+     "amount": "33.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/12/2021",
+     "recipient": "AMAZON",
+     "purpose": "LABELS/ZIP TIES",
+     "amount": "37.97",
+     "in_kind": false
+    },
+    {
+     "date": "6/28/2021",
+     "recipient": "WEST LAKE DATA",
+     "purpose": "DATA ANALYSIS",
+     "amount": "199.00",
+     "in_kind": false
+    },
+    {
+     "date": "7/12/2013",
+     "recipient": "HARBOR FREIGHT",
+     "purpose": "Supplies for signs",
+     "amount": "12.81",
+     "in_kind": false
+    },
+    {
+     "date": "6/16/2021",
+     "recipient": "BECKS' LEATHER",
+     "purpose": "HOLE PUNCH FOR [cut off at cell edge]",
+     "amount": "18.18",
+     "in_kind": false
+    },
+    {
+     "date": "7/27/2021",
+     "recipient": "FACEBOOK",
+     "purpose": "ADS",
+     "amount": "75.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/29/2021",
+     "recipient": "BANNERS ON THE CHEAP",
+     "purpose": "BANNERS",
+     "amount": "94.16",
+     "in_kind": false
+    },
+    {
+     "date": "6/29/1961",
+     "recipient": "ESIGNS",
+     "purpose": "MAGNETIC SIGNS",
+     "amount": "61.77",
+     "in_kind": false
+    },
+    {
+     "date": "7/30/2021",
+     "recipient": "CITY JOURNALS",
+     "purpose": "ADS",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "6/16/2021",
+     "recipient": "RENAISSANCE SIGNS",
+     "purpose": "SIGNS",
+     "amount": "387.36",
+     "in_kind": false
+    },
+    {
+     "date": "7/7/2021",
+     "recipient": "CITY JOURNALS",
+     "purpose": "ADS",
+     "amount": "400.00",
+     "in_kind": false
+    },
+    {
+     "date": "7/21/2021",
+     "recipient": "SALT LAKE MAILING AND PRINTIN[cut off at cell edge]",
+     "purpose": "MAILER",
+     "amount": "2,938.01",
+     "in_kind": false
+    }
+   ]
+  }
+ ],
+ "notes": "MERGED multi-report re-transcription from Read-tool page-range partials in vision/_partials/ (2026-07-12, cf-vision-transcribe, no API). total_expenditures/total_contributions are cover lines 5/4 as magnitudes (verbatim incl. signs/parens in each report's cover_lines echo). Row amounts in dollars/cents-column or dash-cents notation normalized to decimals (verbatim kept per-row in amount_verbatim). Lines 4 are annotated INCLUDES IN-KIND on the covers; the Oct interim's line 4 also carries a $265.00 UNITEMIZED <=$50 aggregate (line 2) with no rows by design, so the filing under-reconciles by exactly that aggregate — honest, per the form."
+}

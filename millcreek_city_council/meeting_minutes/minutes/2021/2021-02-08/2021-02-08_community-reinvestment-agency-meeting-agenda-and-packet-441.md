@@ -1,0 +1,100 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02082021-441
+> Meeting date: 2021-02-08
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2021-02-08
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02082021-441
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes          of the
+                                                                Millcreek            Community                Reinvestment                    Agency
+                                                                                             February           8, 2021
+                                                                                                     7:00     p.m.
+                                                                                             Regular          Meeting
+
+
+
+
+The Community                Reinvestment          Agency         of Millcreek,            Utah, met in a regular                    public     meeting          on
+February         8, 2021 at City         Hall,    located        at 3330 S. 1300 E., Millcreek,                       UT 84106.               The meeting
+was conducted            electronically          per Millcreek            State of Local             Emergency           Directive        No. 2 of 2020
+and live        streamed      via the City's           website     with     an option         for online        public       comment.
+
+
+PRESENT:
+
+
+Board       Members                                                        City      Staff
+Jeff Silvestrini,           Chair                                          Jom       Brems,         City Attorney
+Silvia     Catten                                                          Elyse      Sullivan,        Agency         Recorder
+Dwight       Marchant                                                      Mike       Winder,         Assistant        City Manager               (electronic)
+Cheri     Jackson                                                          Kurt      Hansen,         Legislative         Policy        Director
+Bev Uipi                                                                   Francis        Lilly,     Planning         and Zoning          Director
+                                                                           (electronic)
+                                                                           Erin      O'Kelley,         Planner        (electronic)
+
+
+
+
+Attendees:          Brian     Harris    (electronic)
+
+
+REGULAR              MEETING             - 7:00 p.m.
+TIME       COMMENCED:                       8:27 p.m.
+
+
+Chair     Silvestrini        called    the meeting        to order.
+
+
+1. Discussion           and Consideration                of Resolution             21-01,      Approving              an Amended
+Participation           Agreement          with    Opus         Green       (f/k/a     Clearwater             Development)
+Chair     Silvestrini       said this agreement               related     to the development                  agreement         adopted         by the
+City     Council     that same evening.                Mike     Winder       said there were changes                     made to the
+participation        agreement         approved         by the Board          the prior            year and those were the project
+sequencing         updates      mentioned         in the City           Council      meeting          (February         8, 2021).
+
+
+Chair     Silvestrini       asked for public            comment.          There      were no comments.
+
+
+Board      Member           Jackson       moved         to adopt         Resolution           21-01,        Approving          an Amended
+Participation           Agreement         with     Opus         Green.       Board        Member             Catten       seconded.            The Recorder
+called    for    the vote.      All    Board      Members           voted         yes. The motion               passed       unanimously.
+
+
+2. Approval          of December          14, 2020 Regular                  Meeting          Minutes
+Millcreek      CRA      Meeting       Minutes                                              8 February         2021         Page     2 of 2
+
+
+
+
+Board       Member      Uipi     moved      to approve         the minutes          from      the December           14k" CRA          meeting.
+Board       Member      Jackson       seconded.        Chair        Silvestrini      called    for   the vote.       All    Board      Members
+voted    yes. The      motion      passed     unanimously.
+
+
+
+
+ADJOURNED:               Board      Member          Uipi      moved      to adjourn        the meeting         at 8:30       p.m.     Board
+Member        Jackson     seconded.         Chair     Silvestrini         called    for    the vote.    All    Board        Members           voted
+yes. The      motion    passed       unanimously,
+
+
+
+
+                                                       Jeff    Silvestrini.        Chair
+
+
+
+
+                                  Attest:              Ely'j;A'an, Recorder
+

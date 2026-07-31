@@ -1,0 +1,60 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "pmn",
+    "index_max_date": "2026-05-19",
+    "index_rows": 89,
+    "status": "ok",
+    "new_count": 0,
+    "new_items": [],
+    "notes": "PMN body 5809: 238 notices enumerated; 0 new minutes lead(s) (coverage begins 2018-10-25; pre-floor is verified-purged).",
+    "fetch_cmd": "acquisition is a separate reviewed step (see recon.md)"
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "pmn",
+    "index_max_date": "2026-06-11",
+    "index_rows": 60,
+    "status": "ok",
+    "new_count": 7,
+    "new_items": [
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1457831.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1458451.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1451535.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1349263.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1340729.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1117105.pdf"
+      },
+      {
+        "date": "?",
+        "title": "Planning Commission",
+        "url": "https://www.utah.gov/pmn/files/1184301.pdf"
+      }
+    ],
+    "notes": "PMN body 1562: 290 notices enumerated; 7 new minutes lead(s) (coverage begins 2018-11-15; pre-floor is verified-purged).",
+    "fetch_cmd": "acquisition is a separate reviewed step (see recon.md)"
+  }
+}

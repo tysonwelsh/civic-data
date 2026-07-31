@@ -1,0 +1,570 @@
+---
+title: Alta Planning Commission — Regular Meeting 2025-07-15
+date: 2025-07-15
+meeting_type: regular
+body: PlanningCommission
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1315345.pdf
+source_file: 2025-7-15 APC Meeting Minutes _ Approved.pdf
+pmn_file_id: 1315345
+format: ocr
+---
+
+MEETING MINUTES
+ALTA PLANNING COMMISSION MEETING
+Tuesday, July 15, 2025, 3:00 PM |
+Alta Community Center, 10351 E. Highway 210, Alta, Utah |
+‘ALTA PLANNING COMMISSION MEETING — 3:00 PM
+PRESENT: Jon Nepstad, Chair |
+Jeff Niermeyer, Vice-Chair :
+Paul Moxley
+David Abraham
+Maren Askins .
+. Roger Bourke, Town of Alta Mayor
+STAFF PRESENT: Chris Cawley, Town Manager | .
+‘Molly Austin, Assistant Town Manager
+Polly McLean, Town Attorney
+ALSO PRESENT: John Guldner, Cottonwood Lands Advisory (joined virtually)
+NOT PRESENT: .
+1. INTRODUCTION AND WELCOME FROM THE CHAIR ;
+Planning Commission Chair Jon Nepstad opened the July 15, 2025 meeting at 3:05 PM.
+Jon Nepstad welcomed the newest Planning Commission Member Paul Moxley to the
+Commission. He also noted that there was a typo on the originally posted agenda misstating the
+day of the week of the meeting, |
+Mayor Roger Bourke disclosed that he lives within the vicinity of the Shrontz Estate (the Estate)
+development and any position he may take on the matter will be wholly in the interest of the
+community involved, not his own personal interest.
+Maren Askins also disclosed that she lives in employee housing near the Estate parcel and will
+* also be acting in the best interest of the Town and the community. — i
+2. PUBLIC HEARING |
+Planning Commission Chair Jon Nepstad opened the Public Hearing at 3:07 PM to accept public
+_ comment regarding the petition to rezone 6.5 acres of land located on parcel 30- 04-101-014-0000
+from FR-1 to FM-20
+. Page 1 of 13 ;
+July 15, 2025 Planning Commission Meeting . :
+
+Jon Nepstad reminded participants that they will be allotted 3 minutes each.
+Cliff Curry introduced himself as a resident of the Town of Alta and proceeded to read the
+comments he submitted in writing to the Planning Commission (attached in Exhibit A). In
+summary, he expressed his opposition to the rezone.
+Mark Haik introduced himself as a taxpayer and property owner. He continued to give some
+additional context to what brought us to this point and noted that there have been 3 legal cases so
+far involving the Estate and gave his summary of each case. In conclusion, Haik encouraged the
+Planning Commission to vote in favor of the petition to re-zone. .
+Mike Maughan introduced himself as the General Manager of Alta Ski Lifts, He started by
+describing that Alta Ski Lifts is generally supportive in concept of this development, but there are
+a few concerns. He distributed an email that he had previously sent to the Planning Commission
+~ (attached in Exhibit A).
+Maughan outlined that we have yet to achieve consensus between the United States Forest Service :
+(USFS), SLC Public Utilities, Town of Alta, Alta Ski Lifts, and the Estate on concerns such as the
+water usage and road access. Maughan expressed concern in moving forward with a rezone prior
+to getting those issues resolved and equated it to “putting the cart before the horse”.
+Chris Hogle introduced himself as an attorney representing Alta Ski Lifts. He distributed handouts
+that highlighted certain provisions of the Town of Alta code (attached in Exhibit A), Hogle stated
+that it is a requirement of the code that the Estate work directly with Alta Ski Area, not simply a
+request. Alta Ski Lifts is an owner of property in the affected area of the proposed rezone. Utah
+State Code 10-9a-502(1)(c) requires a Planning Commission to consider any written objections.
+Hogle shared that despite verbal commitment from the Estate to work directly with Alta Ski Lifts,
+there has yet to be any direct interaction. Hogle then reviewed elements of the Town of Alta code
+10-6C-11 that covers the process of a petition to rezone, including the inclusion of detailed plans,
+availability of all utility services, and adequate ingress and egress. Hogle stated that since the ~
+Estate has not worked with Alta Ski Lifts for the necessary conveyances for the access and the
+water, that the Estate has not provided a proposal that will work. To conclude, Hogle recommended ;
+the Commission deny the request for a rezone due to lack of evidence in the proposal.
+Margaret Bourke introduced herself as a Town Resident and expressed her general support fora y
+conservation easement but does not approve of the proposal currently before the commission.
+There are still too many unknowns about the details of the development. She highlighted that the
+cap on culinary water usage needs to be enforced and not exceeded. Bourke expressed that the
+time doesn’t seem right for the Commission to make a decision due to outstanding questions on
+future development.
+Del Draper introduced himself as a homeowner and holder of a Town of Alta dog tag. He expressed .
+his support.for one larger consolidated building versus the 10 home sites that would be spread
+more widely across the parcel.
+. Page 2 of 13
+July 15, 2025 Planning Commission Meeting ;
+
+|
+3. MOTION TO ADJOURN PUBLIC HEARING |
+Planning Commission member Jeff Niermeyer moved to adjourn the Public Hearing. Planning :
+Commission Member Maren Askins seconded the motion, and the motion was carried with
+unanimous consent of the commission. |
+4, CALL THE REGULAR MEETING TO ORDER |
+Planning Commission Chair Jon Nepstad opened the July 15, 2025, meeting at 3:30 PM.
+5. PUBLIC COMMENT i
+Nion McEvoy Jr. introduced himself as a new property owner in Albion Basin. He wanted to |
+take the chance to introduce himself to the Planning Commission and greater Alta Community.
+Mike Maughan introduced himself as the General Manager of Alta Ski Lifts. He expressed |
+appreciation for the Planning Commission and the Town of Alta as a whole for their support for
+current and previous projects conducted by Alta Ski Area. Maughan noted the cooperation,
+transparency, and collaboration between the agencies is what makes a strong community.
+6. APPROVAL OF THE MINUTES FROM THE MARCH 26, 2025, MEETING =.
+Jeff Niermeyer made one amendment to the draft minutes. On page 5 the “no” was omitted:
+“Cawley clarified that the area of the road in question is owned by the USFS, so the Town
+has no authority to do such a project.” .
+Planning Commission member Jeff Niermeyer moved to approve the minutes from the March 26,
+2025, meeting with the above-mentioned amendment. Planning Commission Member. David
+Abraham seconded the motion, and the motion was carried out with unanimous consent of the
+commission,
+7. DISCUSSION AND POSSIBLE ACTION ON THE PETITION TO REZONE 6.5
+ACRES OF LAND LOCATED ON PARCEL 30-01-101-014-0000 FROM FR-1 TO
+FM-20
+Chris Cawley addressed the commission with a few opening remarks. Deceniber 2024 was the
+first time this topic came before the Planning Commission and there have been a series of |
+meetings between now and then on this topic, including a site visit. He noted that not included in
+the packet was the results from the public survey that the Town facilitated in March. The results |
+had been shared previously with the Planning Commission, Town Council, and on the Town of
+Alta website. In summary, the comments expressed a preference for consolidating development
+to a smaller portion of land with a conservation easement applied to the majority of the parcel.
+Cawley highlighted the complexity of this topic, particularly as it pertains to the provision of
+water and year-round access,
+| Page 3 of 13
+July 15, 2025 Planning Commission Meeting |
+
+Cawley recommended the Planning Commission focus on the core land use proposal that is at .
+the central to the petition — to allow the development of a condominium project instead of single-
+family homes. He also encouraged discussion on the mass and scale of the proposed building as
+well as the access alternatives included in the proposal. Any remaining details will have to be
+determined and finalized before the rezone is approved by the Town Council in the process of
+renegotiating the development agreement, if it gets to that point. Cawley reiterated that this is the
+first step in what could turn into a long process before any development takes place.
+
+Roger Bourke shared that page 51 of the packet states “overwhelming public support” of the
+condominium concept, but he wanted to clarify that is with the caveat that the survey only gave
+two options (“none of the above” wasn’t an option). Bourke believes that the results
+mischaracterize public sentiment.
+
+Paul Moxley asked the Town’s perspective on the issues Hogle brought up as not having been
+addressed. Polly McLean, Town Attorney, said that we can move forward since we have
+
+accepted the petition. She acknowledged that the points have been received but we can move
+forward because the Estate has access and an easement on the property as well as a report from
+Aqua Engineering and a letter from the Department of Environmental Quality (DEQ), which
+have put them past the threshold of submitting a complete application. She reminded the
+Commission that ultimately it is a legislative decision to come from the Town Council on
+
+whether or not to approve the rezone. The Planning Commission is asked to pass along a
+recommendation to the Town Council and may consider any public clamor related to the issue. .
+Moxley then asked for clarification on whether the details regarding the size of the building and
+water usage are material at this point or not, as those details would have to be worked out in a
+future development agreement. McLean stated that the rezone cannot happen without an
+amendment to the development agreement, they will go hand in hand.
+
+Paul Moxley then stated that at the conclusion of the 2014 settlement agreement, the Town got
+three things: the end of the lawsuit, the water tank, and access. He then asked if we go ahead
+
+with this rezone, does the Estate have an additional legal right that they could sue the Town
+
+again if we can’t come to a new development agreement?
+
+McLean highlighted that any amendment to the 2014 settlement agreement would have to be
+agreed upon by all signatories (Town of Alta, the Estate, and Salt Lake City). McLean explained
+that there is no protection from ever getting sued but she doesn’t believe that the Town is
+
+opening itself up to any additional lawsuit at this time. .
+
+Jeff Niermeyer stated that one of the questions to consider is a fundamental change to the
+character of Alta, Currently, there are distinct residential neighborhoods separate from ,
+commercial development. This proposal would blend the two. Is that what is best for the
+community? In exchange, there is the preservation of 19+ acres, which aligns with the Town’s
+values, although we don’t have a clear picture of what that conservation looks like. Niermeyer
+encouraged focusing on that fundamental question with the understanding that any of the other
+specific details around any future development would be sorted out in the development
+agreement.
+
+Page 4 of 13
+
+July 15, 2025 Planning Commission Meeting
+
+|
+|
+|
+. Maren Askins stated her agreement with Niermeyer in understanding the tradeoff between
+. development and conservation. |
+Planning Commission Chair Jon Nepstad welcomed representatives of the Estate to address the
+Commission. |
+Wade Budge introduced himself as an attorney representing the Estate. He noted the new faces |
+on the commission and in the audience and apologized for covering any material that had been |
+discussed at previous meetings but wanted to make sure-all in attendance were on the same page. |
+Budge reported that the Open House was well attended, and the Estate had the opportunity to
+speak with almost everyone. They were left with the perception that there was 90 — 95% support
+of the condominium concept. Budge agreed with Mclean’s stance that there is no impediment in |
+moving forward. This is a step in a much larger process, at this point the Estate is just asking for
+a recommendation from the Commission — whether it be negative, positive, or neutral — with any
+conditions, comments, or concerns. Budge reiterated that this process only proceeds if everyone
+involved (Town of Alta, the Estate, and Salt Lake City Public Utilities) is willing to do so.
+Without consent from all parties involved, the process cannot proceed. Budge stated that today
+the request is for a zone change that, if granted, would facilitate a future application for ~
+development to be conditioned on an amendment to the stipulation agreement, development
+agreement, and new donation agreement. In broad strokes, this would be a donation of the land
+above summer road to Salt Lake City with a conservation easement on top of it, meaning it
+would be double-protected. Term sheets outlining the details of the conservation terms have
+already been shared publicly.
+To address the concerns of Alta Ski Lifts (ASL), Budge noted that ASL would be involved if and
+when the Estate came back before the Planning Commission with a conditional use permit |
+application. Budge continued that even if the Town Council does approve a rezone, the project |
+still cannot move forward until the Planning Commission is satisfied with a condominium
+building meeting all the requirements in the existing code. ;
+Budge referred to a new State Law that came into effect in May: 10-9a-804, which gives the |
+Town Council the ability to enter into this sort of amendment, . .
+Budge noted that if this process doesn’t move forward, the Estate would revert to the 10-lot
+subdivision as outlined in the 2014 agreement and then detailed some of what has been |
+accomplished since the settlement agreement in 2014.
+e Signatures have been obtained by all jurisdictions except for Salt Lake City Health |
+Department and.the Town of Alta
+e Marketing the individual units for sale hasn’t occurred because that cannot happen until |
+the plat is recorded .
+e Funded litigation against Mr. Haik that got resolved in the favor of the water providers ;
+¢ Installed waterline improvements that have been connected to the Town water supply
+e Working on the feasibility of an alternative concept
+Page 5 of 13 |
+July 15, 2025 Planning Commission Meeting
+|
+: |
+|
+
+Budge stated that some of the benefits of the condominium concept include consolidating
+development density, providing an active use, and, perhaps most importantly, the conservation of
+land above the Summer Road. He concluded that a recommendation tonight would not mean the
+end of the process and the Estate expects to be “put through the paces” in developing the site
+plan and satisfying the Planning Commission on all their concerns.
+Doug Ogilvy introduced himself as an assistant on this project to the Estate. He reiterated that
+the focus today is on making a land use decision. He explained that the Estate has been thinking
+about an alternative to the 10-lot subdivision for at least 5 years. He summarized the Open House
+meeting that took place in March and reiterated that the new concept would consolidate
+development and put a conservation easement in place. Since the last meeting, the Estate has met
+with Salt Lake City Public Utilities and received their support for the conservation easement.
+Ogilvy discussed the question of water usage and demand and noted the study that was
+completed by Aqua Engineering that pulled empirical data from other similar properties in
+- similar settings. The study concluded that those comparable properties use well below the current
+water allocation. Aqua Engineering sent the results to the DEQ who concluded there was "
+sufficient information to support the rezoning application. Ogilvy stated that they would have to
+go back to the DEQ with more detailed design plans as part of a conditional use permit
+application. Ogilvy stated another benefit of this project is reducing conflict between multiple
+types of users on the Summer Road with the addition of a new road to run parallel to it.
+Ogilvy summarized that today they are asking to rezone approximately 6.5 acres to FM-20 — and
+clarified that FM-20 was the appropriate rezone request (as opposed to FM-10 as suggested by
+Cliff Curry earlier in the meeting) due to requirements related to site coverage. He proceeded to
+review the condominium building plan concept, highlighting the preference for an alternative
+access driveway. The building concept is capped at 25’ above the Summer Road and steps down
+twice so the visual impacts from the ski area are reduced. Jeff Niermeyer stated that the final
+height of the building would be determined in a future stage with a conditional use permit
+application. Ogilvy countered that they are presenting the building today that they want to
+include in the development agreement and if, during a conditional use permit application, it is
+requested that they reduce the height of the building, that would not be a favorable outcome, and _
+the applicant would revert back to developing 10 single-family homes.
+Jeff Niermeyer asked for clarification on if the decision before the Commission today to approve
+a rezone of 6.5 acres would also “lock-in” the current building proposal. Polly McLean stated ;
+that the decision is intertwined with a development agreement, and the applicant is asking for a
+specific building, and it wouldn’t be worthwhile if the end result was not a building that would
+be satisfactory to the Town. She reminded that a conditional use is an allowed use with
+conditions, and that now is the appropriate time to express concerns and make recommendations
+about potential impacts of the proposed building. Paul Moxley expressed confusion and
+requested clarification on whether or not the Commission should be focusing on just the rezone
+request or the specifics of the building proposal. McLean stated that while the rezone request is
+indeed just the first step, it is important to keep the whole picture in mind to avoid gaining too
+much momentum before expressing concerns about a future building.
+Page 6 of 13 :
+July 15, 2025 Planning Commission Meeting
+
+_ Doug Ogilvy stated that they are presenting a specific building concept now to protect both
+parties from unexpected changes down the line. The Estate wants to stipulate through the
+development agreement to cap the building to 29 condominium units for sale at market and3-
+workforce housing units, In exchange for offering this cap, they want defined parameters (such
+as building height and volume) to work with. ;
+Paul Moxley asked if any common areas or potential food and beverage outlets are factored into
+the water usage. Ogilvy stated that the water allocation applies to the building as a whole but .
+inferred that any major food outlet inside the building is unlikely. Maren Askins then stated that
+since that additional common area is included in the water calculation, then each individual
+dwelling condominium unit would actually be restricted to even less than 242 gallons a day. |
+Ogilvy noted that all buildings used for water consumption comparables included any back-of-
+house water usage (such as for restaurants and pools) and stated that the Estate is not proposing
+either a restaurant or a pool or any irrigated landscaping. |
+Ogilvy reiterated that the proposed rezone would include the preservation of approximately 20
+acres of land on the Patsey Marley Hill. The request today is for the Commission to extend a’
+" recommendation (either positive, negative, or neutral) to the Town Council. It has already been
+; determined that the Town Council will only consider the rezone if it goes hand in hand with a |
+development agreement and an amendment to the agreement with Salt Lake City Public Utilities.
+Paul Moxley asked if the Commission were to express dissatisfaction with the proposed
+parameters, if the Estate would be done with this project. Ogilvy confirmed that stance, stating ,
+that they have been working on this alternative for 5 years and if they can’t come to a consensus
+with the Town, they would go back to building out the 10 individual home sites as outlined in the ;
+2014 agreement. !
+Polly McLean requested clarification on the number of saleable units, workforce housing units,
+and ADA units, It was clarified that the proposal is for 29 saleable units, 1 ADA unit, and 3
+workforce housing units, totalling 33 units. |
+Maren Askins asked if the workforce/affordable units were intended for employees of the -
+condominium specifically. Ogilvy stated that is not necessarily the case, although one unit would
+likely be dedicated for a live-in caretaker or employee of the condominium, the other 2 units
+. could be available to other members of the Alta community seeking more affordable
+accommodations. Askins then asked where the employees were expected to shelter during an ,
+Interlodge event. Ogilvy said they would be confined to the common areas in both the front and
+back of house within the building.
+Polly McLean encouraged the Commission to review the letter provided by Salt Lake City Public |
+Utilities as their support may have been overrepresented in the presentation. .
+Jon Nepstad asked if the predicted tax revenue was property tax. Ogilvy clarified it is a
+combination of property tax as well as sales tax from renting out the units. Chris Cawley stated
+that FM-20 zone allows short-term rentals as a conditional use (defined as rental for less than 30
+Page 7 of 13 :
+July 15, 2025 Planning Commission Meeting . :
+
+days) and encouraged the Commission to consider the use of the building in addition to the size
+of building, as there are concerns allowing such a use in that area could set a precedent.
+Jon Nepstad asked why there hasn’t been more direct communication between the Estate and
+Alta Ski Lifts. Ogilvy stated that they want confirmation on the land use decision before
+expending the time and resources necessary to sort out any additional details.
+Conversation then turned to the proposed size of the building — Roger Bourke noted that the
+description of 85,000 saleable square footage doesn’t encapsulate the full size of the building.
+Polly McLean stated that from a legal perspective, the term “saleable space” is meaningless to
+the Town because it is not a defined term and encouraged that we focus on above vs. below
+grade square footage when discussing the size of the building.
+David Abraham noted that looking at the building cross section, the proposed building is 9
+stories tall because Town Ordinance defines the empty space at the front of the building as a
+story because it is more than 12 feet. In terms of the height of the building, Ogilvy stated that it is
+proposed to be capped at 25’ above the Summer Road, and that figure was based off the height
+requirements of the Snowpine Lodge, although it was accepted that the Snowpine is in a different
+zoning district (Base Facilities Zone), In the FM-20 zone, it is ultimately up to the Planning
+Commission to determine the acceptable height of a new building. Abraham expressed his
+preference for a reduced building height, resolution of the water usage issue, the alternative
+driveway, and a dedicated live-in caretaker unit as conditions to any recommendation to the
+Town Council. ;
+Zach Hartman introduced himself as a representative of the Estate and stated that they are trying
+to accomplish two competing goals with the workforce housing:
+1. Provide living quarters for employees.
+2. Provide the opportunity for ownership to community members with a long-term
+commitment to Alta. .
+- David Abraham requested a minimum of 650 square feet be considered for a live-in caretaker
+unit.
+Maren Askins expressed that her biggest concern is the size of the building. She asked if the
+square footage included in the report with the comparable properties was total square footage or
+saleable square footage. Doug Ogilvy stated that it was an “apples to apples” comparison of
+condominiumized square footage only (any back of house or common area square footage was
+additional to the square footage listed in the report). Jeff Niermeyer stated his disagreement with
+the Aqua Engineering report because it took an annualized water usage amount and spread it out
+over a year versus looking at real-time or peak usage throughout the year. Niermeyer also
+clarified that Salt Lake City Public Utilities is not serving water directly to this development,
+rather they are providing the water rights to the Town of Alta to provide the water to a private
+water company. Niermeyer stated that the development would be limited to 240,000 gallons a
+month and shared concern that there is not currently a mechanism in place to enforce that
+restriction as individual condo owners are not party to the agreement. Maren Askins noted that
+Page 8 of 13
+July 15, 2025 Planning Commission Meeting
+
+they are missing the required data for the anticipated water demand on the day of the highest
+water consumption and that she feels the buildings used as comparables are much smaller than
+what the Estate is proposing to build. She concluded that instead of trying to make the water fit
+the building that they want, the building should be made to fit the water that they have.
+Jeff Niermeyer said that the State has only issued a temporary permit for 3 years and inquired
+what would happen if in the end it turns out the water use is higher than the supply that is
+available.
+Ogilvy stated that based on the empirical data they have collected, the Estate believes they have
+sufficient water available for the building they are proposing. Nepstad expressed that the Town :
+doesn’t want to end up in position of policing the water usage and being made into the “bad guy”
+if the building exceeds its allowable water usage. Ogilvy suggested that the development
+agreement include specifics to avoid this outcome. Nepstad noted that it would take up to 3 years |
+to get enough data to really understand the water demands of the building and suggested that |
+occupancy may have to be limited to less than what the building can accommodate. It was
+; recognized the Town would be remiss to not address the question of water usage early on in the
+process, while acknowledging that it cannot be answered today. ,
+Jeff Niermeyer expressed concerns about the management of the conservation easement. He then
+stated that he would like to see an ALTA (American Land Title Association) title report for that
+land, noting that there may be some encumbrances by Alta Ski Lifts that are not properly
+recorded, Wade Budge noted that the term sheet for the donation agreement contains a list of all
+the existing encumbrances from an ALTA-level title report, including encumbrances to Alta Ski
+Lifts.
+Jeff Niermeyer brought the conversation back to the fundaniental tradeoff of potentially
+changing the character of Alta by developing one area into condominiums in exchange for
+preserving another. He asked the Commission to consider any potential ramifications that may a
+occur as a result of this decision, citing the possibility of condominiums at the Goldminer’s
+Daughter as an example. Cawley stated that there is no way to know what impacts this will have
+in the future, noting that the makeup and opinions of the Planning Commission and Town
+Council are always subject to change.
+David Abraham noted that on page 57 of the packet, the “total built footprint” is listed as just
+, over 60,000 square feet. He noted his appreciation for the step backs included in the building
+design. It was determined that the “built footprint” refers to the total coverage including asphalt,
+driveway, hot tub decks, etc,
+Paul Moxley noted his confusion with the process, acknowledging that it was his first meeting as
+a member of the Planning Commission. He then expressed dissatisfaction with the size of the
+proposed building and his concern about water availability. Ogilvy stated it is the Town .
+Council’s responsibility to negotiate the terms of the development agreement, and it is the |
+responsibility of the Planning Commission to indicate their level of support to the Town Council
+regarding the rezone. Moxley reiterated that while he is generally supportive of the concept, he is
+not happy with the proposed size of the building, contributing to his dilemma in how to proceed,
+Page 9 of 13 |
+. July 15, 2025 Planning Commission Meeting
+
+Abraham reminded the Commission that it can include a list of conditions on any
+recommendation they pass to the Council, even if it is a neutral recommendation. McLean stated
+that this is the time for the Planning Commission to look at the details of what they are proposing
+(like the size of the building envelope) and not just the big picture concept of a condo vs. 10 lots.
+Paul Moxley disclosed he represented the Town during the 2014 settlement agreement and that
+during that time he and the former Mayor, Tom Pollard, didn’t believe the Estate would ever
+accomplish building the 10-lots outlined in the agreement. He then noted that it is now 11 years
+later, and so far, nothing has been built. Wade Budge explained that the Estate had previously
+designed a much larger hotel building for the site, but the Town made some good points against a
+building of that size. He noted that the proposal today was meant to be a middle ground in both
+size and building use. Budge expressed his desire to get to the point of the process where the
+Estate can negotiate specific terms with the Council upon recommendation from the Planning
+Commission. He reiterated that if they can’t come to an agreement on new terms with the
+Council, that they will go forward with the approved settlement agreement and offered that there
+would be no hard feelings towards the Commission regardless of what decision is made.
+
+Moxley stated his concerns about a condominium building detracting from the sense of
+community, noting that it would likely consist of unoccupied units for much of the year. He
+stated concern that this decision might set the stage for other properties in Alta to also develop
+condos, and he expressed his discomfort with going in that direction. Budge stated that it is the .
+role of the Planning Commission to guide and define the General Plan, which dictates land use.
+Niermeyer asked Polly McLean if the Planning Commission needed to make a decision on a
+recommendation today. McLean said it would be preferable to make a decision at this meeting
+and, while she didn’t want to speak for the Estate, they have expressed a strong interest to get
+this before the Town Council. Mclean also stated that unless the Commission felt like any
+necessary documentation was missing or still needed, it would be unadvisable to table the
+decision simply because it is a difficult decision to make.
+
+_Jeff Niermeyer highlighted that conservation is a distinct goal of the Town that is well
+documented. In this scenario, the tradeoff to conserving land is building condos adjacent to the
+base facilities zone, which could have trickle down effects into the base facilities zone. He noted
+that the proposed building is bigger than anything currently in the Town of Alta.
+
+Maren Askins asked the estate if they are willing to reduce the size of the building if that was a
+condition of the recommendation. Doug Ogilvy discussed reducing the common area of the
+building would be appropriate if requested by the Council. Niermeyer stated that the height of
+, the building is of more concern than the overall mass. Maren Askins said that it may be more
+beneficial to focus on the number of units and square footage as those factors will have the
+greatest impact on the water usage. Ogilvy stated that they know they will have to work with the
+established restrictions on water usage and if it is proven that they must reduce the number of
+units to meet the requirement, they would be willing to do so.
+David Abraham summarized the list of conditions discussed so far:
+e Conservation easement
+Page 10 of 13
+July 15, 2025 Planning Commission Mesting
+
+e Building height
+© Water
+e Existing easements
+¢ Caretaking unit
+Niermeyer added additional conditions:
+e¢ Public Restroom
+¢ Utility approvals for a condo (not the 10-lot subdivision)
+Jeff Niermeyer moved that the Alta Planning Commission send either a positive, negative or
+neutral recommendation to the Town Council to consider a rezoning of 6.52 acres from Forest
+and Recreation Zone (FR-0.5) to Forest Multifamily Zone (FM-20), subject to the following
+| conditions: , |
+1) Town Council reviews a Donation Agreement for a conservation easement on 19.98
+acres, including an ALTA title report, easement terms, identification of the qualified
+easement holder and fee title property owner, and a summary of any unrecorded |
+agreements or encumbrances. :
+2) Modification of the 2014 Development Agreement to permit a multifamily condo
+building, with a legally enforceable protocol to limit water use to the amount specified in ,
+the 2014 Stipulation, detailing how the Estate will assign responsibility to a proposed
+Water Company and future condominium owners.
+3) Amendment of the 2014 Stipulation Agreement among the Estate, the Town, and Salt
+Lake City.
+4) Consideration of joint support from the Town and Estate for alternative year-round access
+via a Forest Service application. ,
+5) Agreement regarding the construction, operation, and maintenance of public restrooms,
+. to be provided by the Estate as a public benefit associated with the project.
+6) Receiving updated utility will-serve letters for the proposed condominium project. |
+Polly McLean stated that the water amount is non-negotiable and capped at 8,000 gallons per
+day. The Commission will have to reach a level of comfort that the amount will not be exceeded
+with any future development. She provided a helpful analogy of having a finite amount of gas .
+and needing to drive a certain distance — one would have to choose to drive a more fuel-efficient
+vehicle to ensure reaching the desired destination. The vehicle in this instance is the proposed
+building that absolutely cannot exceed the established 8,000 gallons a day maximum. Jeff
+Niermeyer stated there are still details to sort out regarding to who would manage the water .
+usage and how — noting that the Town of Alta doesn’t want to get in the middle of the water
+company and the HOA. |
+Planning commissioners noted the preference for an alternative access driveway that has yet to :
+receive approval from the USFS. Doug Ogilvy noted that approval process would have to happen
+in conjunction with an updated development agreement. David Abraham specified that including .
+approval of an alternative access driveway as a condition of any recommendation is desired, and
+Page 11 of 13
+July 15, 2025 Planning Commission Meeting :
+
+Polly McLean verified that it could be a recommendation. It was agreed that the alternative
+access driveway is the preferred solution of both the Town and the Estate.
+
+Planning commissioners discussed the conditions of the recommendation including defining the
+height and size of the building, the desire for public restrooms accessible via the Summer Road,
+and the inclusion of a caretaker unit, and ultimately the Commission agreed on the following 11
+conditions: ,
+
+1) Town Council reviews a Donation Agreement for a conservation easement on 19.98
+acres, including an ALTA title report, easement terms, identification of the qualified
+
+easement holder and fee title property owner, and a summary of any unrecorded
+agreements or encumbrances.
+
+2) Modification of the 2014 Development Agreement to permit a multifamily condo
+building, with a legally enforceable protocol to limit water use to the amount specified in
+the 2014 Stipulation (8,000 gallons per day), detailing how the Estate will assign
+responsibility to a proposed Water Company and future condominium owners.
+
+3) Amendment of the 2014 Stipulation Agreement among the Estate, the Town, and Salt
+Lake City.
+
+4) Approval of alternative year-round access for a separate parallel driveway. The Town
+and the Estate will jointly support the Forest Service Special Use Permit application fora
+separate parallel driveway
+
+5) Agreement regarding the construction, operation, and maintenance of public restrooms
+
+accessible via the Summer Road, to be provided by the Estate as a public benefit
+associated with the project.
+
+6) Receiving updated utility will serve letters for the proposed condominium project.
+
+7) Working out agreements with Alta Ski Lifts.
+
+8) Height of the building is not to exceed 8 stories and will step-back two times within the
+
+| top 3 stories.
+
+9) Height of the building is not to exceed the height of the summer road, as represented by
+the applicant to be 8,850’ in elevation.
+
+10) One of the three workforce housing units will be a dedicated live-in caretaker unit built to
+
+aiminimum size of 650 square feet.
+
+11). Water tank will gravity-feed the water system as agreed in the 2014 stipulation
+Planning Commission chair Jon Nepstad expressed his trust in the conditional use permit
+process. Planning Commissioner Jeff Niermeyer moved to issue a positive recommendation to
+the Town Council to consider a rezoning of 6.52 acres from Forest and Recreation Zone (FR-0.5)
+to Forest Multifamily Zone (FM-20), subject to the above-listed conditions.
+Dave Abraham amended the motion to a neutral recommendation with the same conditions as
+previously stated. The amendment was accepted, and Paul Moxley seconded the motion. The :
+
+) Planning Commission then held a roll-call vote:
+
+Maren Askins: Yes
+Jeff Niermeyer: Yes
+Paul Moxley: Yes
+
+. . Page 12 of 13
+July 15, 2025 Planning Commission Meeting
+
+Jon Nepstad: No
+David Abraham: Yes
+The motion passed.
+
+8. NEW BUSINESS
+No new business was discussed.
+
+9. DATE OF NEXT MEETING
+The next meeting is scheduled for August 27, 2025 at 3:00 PM.
+
+10. MOTION TO ADJOURN
+Planning Commission member Paul Moxley moved to adjourn the meeting. Planning Commission
+Chair Jon Nepstad seconded the motion, and the motion was carried with unanimous consent of
+the commission.
+Minutes a ; “A — on August 27,2025
+
+hris Cawley, Town Manager
+Page 13 of 13
+
+July 15, 2025 Planning Commission Meeting
+
+. .
+. a
+eed
+‘ . .

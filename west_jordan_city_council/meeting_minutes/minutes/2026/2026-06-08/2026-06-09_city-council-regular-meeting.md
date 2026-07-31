@@ -1,0 +1,523 @@
+> Source: https://westjordan.primegov.com/Public/CompiledDocument?meetingTemplateId=5562
+> Meeting date: 2026-06-09
+> Format: pdf-text
+
+---
+
+                                    Minutes of the City of West Jordan
+                                          City Council Meeting
+                                    Tuesday, June 09, 2026 – 7:00 pm
+                                        Approved June 23, 2026
+                                     8000 S Redwood Road, 3rd Floor
+                                         West Jordan, UT 84088
+
+
+
+ 1. Call to Order
+     Council:    Chair Bob Bedore, Acting Chair Jessica Wignall, Annette Harris, Zach Jacob, Chad Lamb
+                 (absent), Kent Shelton, Kayleen Whitelock
+     Staff:      Council Office Director Alan Anderson, Senior Assistant City Attorney Patrick Boice,
+                 Mayor Dirk Burton, City Attorney Josh Chandler, Public Works Director Brian Clegg,
+                 Budget & Management Analyst Rebecca Condie, Public Utilities Director Greg
+                 Davenport, Assistant Planner Mark Forsythe, Public Services Director Cory Fralick,
+                 Assistant City Administrator Paul Jerome, Public Information Manager Marie Magers,
+                 City Administrator Korban Lee, Fire Chief Derek Maxfield, Senior Planner Ray
+                 McCandless, Council Office Clerk Cindy Quick, Police Chief Jeremy Robertson, Policy
+                 Analyst Walter Schmidt, Administrative Services Director Danyce Steck
+
+     Acting Chair Wignall called the meeting to order at 7:00 pm. She noted that Council Members Bedore
+     and Whitelock participated remotely, Council Member Lamb was excused, and Council Member
+     Shelton would join later in the evening.
+
+
+ 2. Pledge of Allegiance
+     Walter Schmidt led participants in the Pledge of Allegiance.
+
+ 3. Special Recognition
+       a. Introduction of the 2026 Western Stampede Royalty
+          Jenn Mayne, Western Stampede Royalty Chair, introduced the 2026 Western Stampede
+          Royalty: Addie Bowler, Rodeo Queen; Riley Vorhees, First Attendant; and Janna Johnson,
+          Second Attendant. The Council expressed congratulations and took the opportunity for a
+          photograph.
+
+       b. Recognizing the West Jordan High School Track & Field Team for Their State Championship
+          Coach Tayler Thompson recognized the West Jordan High School Track & Field Team for
+          winning the State Championship. The Council congratulated the team and took the opportunity
+          for a photograph.
+
+ 4. Council & Mayor Reports
+       a. City Council Reports
+
+
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                           Page 1
+          None
+
+       b. Mayor’s Report
+          Mayor Burton spoke of doing a ride along with the Police Department, and commended West
+          Jordan Police Officers for how they handled situations. The Mayor reported on recent events
+          in the community, and reported that Jordan Landing was ranked as the #1 retail destination in
+          Salt Lake County based on 2025 foot traffic data. Mayor Burton said City offices would be closed
+          on Monday, June 15 in observance of Juneteenth.
+
+       c. City Administrator’s Report
+          Public Works Director Brian Clegg provided an update on the 1300 West widening project, and
+          said the project would hopefully be completed in Spring of 2027. Public Services Director Cory
+          Fralick reported on installation of soccer mini-pitch fields, and provided an update on
+          improvements at Ron Wood Park.
+
+ 5.    Public Comment
+       Acting Chair Wignall opened public comment at 7:20 pm.
+       Comments:
+       Ryan Wilkinson spoke of previous interactions with Council Member Jacob.
+
+       Acting Chair Wignall closed public comment at 7:24 pm.
+
+ 6.    Public Hearings
+       a. Resolution No. 26-032 Requesting a Fee Waiver in the Amount of $450 for Six Dumpsters for
+          a Neighborhood Cleanup Day
+          Jared Palms said the Westin 10th Ward did a cleanup event twice a year to help the many senior
+          citizens in the neighborhood. He said dumpsters were essential to the cleanup effort, and
+          requested a fee waiver in the amount of $450 for six dumpsters.
+
+          Acting Chair Wignall opened the meeting for public comment at 7:26 pm.
+          Comments:
+          None
+          Acting Chair Wignall closed public comment at 7:26 pm.
+
+          Council Member Harris asked when the event was planned. Mr. Palms said the cleanup was
+          planned for the coming Saturday, and described where the neighborhood was located.
+
+           MOTION:      Council Member Jacob moved to APPROVE Resolution No. 26-032 Requesting a
+                        Fee Waiver in the Amount of $450 for Six Dumpsters for a Neighborhood
+                        Cleanup Day.
+                        Acting Chair Wignall seconded the motion.
+
+
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                              Page 2
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kayleen Whitelock
+           NO:
+           ABSENT: Chad Lamb, Kent Shelton
+          The motion passed 5-0.
+
+       b. Petition from Dale Bennett for the Sugar Factory on the Creek Development of 1.78 Acres
+          Located at 1790 West Sugar Factory Road
+             • Ordinance No. 26-29 Preliminary Development Plan/Agreement
+             • Ordinance No. 26-30 Rezone to CC-R Zone (City Center-Residential)
+          Brandon Wixom, representing the applicant, thanked staff for time spent reviewing the
+          proposed project over the past year. He said Sugar Factory on the Creek would be a community
+          of 23 thoughtfully designed fee simple townhomes in a walkable setting next to West Jordan
+          City Center. He said the area was ideal for walkable residential development, and said the
+          proposed rezone would allow the underutilized property to become productive while
+          remaining consistent with the City’s long-term vision of the area. Mr. Wixom showed a site
+          plan and plans for open space amenities, townhome elevations, pedestrian enhancements,
+          parking, fencing and walls, and lighting plans. He said the proposed plan had been through
+          extensive review by staff, the Design Review Committee, the Planning Commission, and
+          neighboring property owners, with feedback incorporated throughout the process. Mr. Wixom
+          requested approval of the Development Plan/Agreement and proposed rezone to the CC-R
+          Zone.
+
+          Responding to a question from Council Member Jacob, Mr. Wixom said Bingham Creek at that
+          location was usually a low, meandering creek. Council Member Jacob said the landscaping in
+          front of the north townhome units facing the train tracks would need to be sufficient. Council
+          Member Jacob asked about the units proposed to not have driveways, and Mr. Wixom said the
+          project would meet parking requirements in City Code, and all units would have a two-car
+          garage. Council Member Jacob said he was comfortable with the proposed rezone, but was not
+          sure about the development plan. Council Member Whitelock said she agreed, and said she
+          could not agree with units that did not have 22-foot driveways, especially with only five parking
+          stalls included in the plan.
+
+          Council Member Whitelock asked where the mature trees that Mr. Wixom proposed to leave
+          were located. Mr. Wixom said most of the mature trees that would remain were on the north
+          side of the canal.
+
+          Chair Bedore said he agreed with concerns about the parking plan. He said the units without
+          driveways were a weird look, and said people wanted driveways. Chair Bedore suggested
+          reducing the number of units to be able to provide driveways for all the units. He said he liked
+          the focus on providing a walkable community. Mr. Wixom said the development was close to
+          the TRAX Station, and the property would be marketed to young working professionals. Chair
+          Bedore said the Council needed to consider the type of parking provided, in addition to
+          whether the required amount of parking was provided.
+
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                               Page 3
+          Assistant Planner Mark Forsythe said there were two parts to parking requirements in the CC-
+          R Zone: parking per unit (with a maximum of 1.5 parking spaces per unit), and guest parking.
+          The proposed two parking spaces in each garage would exceed the maximum, and a provision
+          was needed in the Development Agreement to allow the project to exceed the maximum per-
+          unit parking limit. The five parking stalls and the driveways would provide the guest parking.
+
+          Council Member Jacob asked if the Development Agreement included a requirement that
+          residents park in their garages. Mr. Forsythe said the Development Agreement did not include
+          such a provision, but it could be included in CC&Rs when the plat was recorded. Council
+          Member Jacob said the subject property was on the very edge of what could be considered the
+          City Center, and said the train tracks were a barrier to the library and City Hall and everything
+          else in the City Center. He commented that if the proposed parking plan met CC-R Zone
+          requirements, he was less inclined to think the CC-R Zone was the right zone for the project.
+
+          Council Member Harris asked what options the developer would have if the Council required
+          all units to have driveways. Mr. Forsythe said the constraints of the lot would make it difficult
+          to find space for driveways. He said the private lane width was already the bare minimum for
+          emergency access. Council Member Whitelock said she had concerns, and said a redesign
+          would be needed to get the parking the Council wanted. She said she liked the overall idea of
+          the housing community, but said there was more work to be done.
+
+          Council Member Harris asked if the applicant could come back with a redesign. Council
+          Member Jacob said if the Council denied the application, the applicant could bring back a new
+          application if significant changes were made. The applicant would need to wait a year to bring
+          back an application that was substantially the same.
+
+          Acting Chair Wignall opened a public hearing at 7:54 pm.
+
+          Comments:
+          Dale Bennett, applicant, said he had been working on the project for over a year, fine tuning
+          the application with input from staff, the Planning Commission, and others. He said the
+          Planning Commission gave unanimous approval. Mr. Bennett said the same idea had worked
+          well in other cities, and said not everyone had three or four cars. He said more than 25% of the
+          units without a driveway would have guest parking, which was adequate in most cities. Mr.
+          Bennett emphasized that the project was overparked under the CC-R Zone, which had been
+          addressed in the Development Agreement. He said he found it frustrating that the Council
+          acted like they had never seen the proposal before. He said during the year of working on the
+          plan, the units on the east side had always been shown as not having driveways, and would be
+          priced accordingly. He said there was a market for the design, and there was not a lot of the
+          design in West Jordan.
+
+          Anthony Jotts, West Jordan resident, said his property shared the west and north property line
+          with the proposed project. He said his house was 33 inches away from the proposed wall, and
+          his driveway would run with the proposed road and share the approach. He expressed the
+          opinion that the plan needed to be downsized.
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                               Page 4
+          Ryan Wilkinson expressed support for the project as presented.
+
+          Acting Chair Wignall closed the public hearing at 8:00 pm.
+
+          Council Member Jacob said the applicant had a good point when he said he had been working
+          on the plan for a long time; however, he said he did not think the Council was saying anything
+          substantially different than had been said during the previous work session. He said at the work
+          session the Council indicated the plan was almost there, and just needed to have driveways
+          and parking added, but the plan was brought back without quite getting there. Council Member
+          Jacob said he did not want to prohibit progress on the plan, because he believed it could be
+          altered to become a plan the Council could approve.
+
+          Council Member Jacob made a motion to postpone Ordinance No. 26-29 and Ordinance No.
+          26-30 to a date uncertain, no later than August 31, 2026. Council Member Whitelock
+          seconded the motion.
+
+          Acting Chair Wignall asked to amend the motion to say no later than July 31, 2026. Council
+          Members Jacob and Whitelock said they were amenable to the amendment.
+
+           MOTION:      Council Member Jacob moved to Postpone Ordinance No. 26-29 Preliminary
+                        Development Plan/Agreement and Ordinance No. 26-30 Rezone to CC-R Zone
+                        (City Center-Residential) for the Sugar Factory on the Town Creek Development
+                        of 1.78 Acres Located at 1790 West Sugar Factory Road to a date no later than
+                        July 31, 2026.
+                        Council Member Whitelock seconded the motion.
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kayleen Whitelock
+           NO:
+           ABSENT: Chad Lamb, Kent Shelton
+          The motion passed 5-0.
+
+       c. Ordinance No. 26-28 a Petition from Utah Development Group/Marco Diaz for a Rezone of
+          0.43 Acres to an R-1-8 Zone for the Diaz Lot Located at 8305 South 2200 West
+          Marco Diaz with Utah Development Group used the Zoning Map to show that the subject
+          property was surrounded by R-2, R-1-10A, R-3-22(ZC), and P-F. He said the property was cut
+          almost in half by the South Jordan Canal, and the development team had been working with
+          the canal company and the City to come to an agreement concerning easements. Mr. Diaz
+          showed renderings of the .43-acre property with a single-family home, and expressed the
+          opinion that developing a home on the currently open property would enhance the area.
+
+          Council Member Jacob asked if 2200 West was a collector street, and Mr. Forsythe responded
+          it was. Mr. Forsythe said there was not a policy or regulation about residential driveways
+
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                              Page 5
+          opening onto collector streets in the Zoning Code, but said he knew it was not necessarily
+          encouraged. Responding to a question from Council Member Whitelock, Mr. Forsythe
+          explained options available to the developer to ensure a 22-foot driveway. Council Member
+          Whitelock emphasized that a 22-foot driveway was necessary. Mr. Diaz expressed his intention
+          to ensure City requirements were met. Chair Bedore said he would be willing to consider
+          adjusting setbacks to accommodate a 22-foot driveway if needed.
+
+          Acting Chair Wignall opened the meeting to public comment at 8:14 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed public comment at 8:14 pm.
+
+          MOTION:       Council Member Jacob moved to APPROVE Ordinance No. 26-28 a Petition from
+                        Utah Development Group/Marco Diaz to a Rezone of 0.43 Acres to an R-1-8
+                        Zone for the Diaz Lot Located at 8305 South 2200 West.
+                        Council Member Harris seconded the motion.
+          The vote was recorded as follows:
+          YES:        Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kayleen Whitelock
+          NO:
+          ABSENT: Chad Lamb, Kent Shelton
+          The motion passed 5-0.
+
+       d. Ordinance No. 26-31 a Petition from Margaret Hyatt for Approximately 3.457 Acres to
+          Amend the General Plan Future Land Use Map to Community Commercial and Amend the
+          Zoning Map to C-G Zone (General Commercial) for Properties Located at Approximately 4606,
+          4614, and 4622 West 7800 South (7800 South Commercial Property)
+          Margarett Hyatt, applicant and co-owner of the subject properties, explained the request to
+          amend the Future Land Use Map (FLUM) to Community Commercial, and rezone the subject
+          properties to General Commercial (C-G) Zone. She said uses permitted in the C-G Zone included
+          banking institutions, and said they were currently under contract with Alta Bank for a portion
+          of the property. She said the owners were confident that with the rezone and the Alta Bank
+          development, the area would be activated, and said they were currently in negotiation with
+          other compatible retail uses. She thanked staff for their time helping the applicant prepare for
+          the meeting, and requested a favorable vote.
+
+          Acting Chair Wignall opened the meeting to public comment at 8:17 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed public comment at 8:18 pm.
+
+
+City Council Meeting Minutes                    Tuesday, June 09, 2026                              Page 6
+           MOTION:      Council Member Jacob moved to APPROVE Ordinance No. 26-31 a Petition
+                        from Margaret Hyatt for Approximately 3.457 Acres to Amend the General Plan
+                        Future Land Use Map to Community Commercial and Amend the Zoning Map
+                        to C-G Zone (General Commercial) for Properties Located at Approximately
+                        4606, 4614, and 4622 West 7800 South (7800 South Commercial Property).
+                        Acting Chair Wignall seconded the motion.
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kayleen Whitelock
+           NO:
+           ABSENT: Chad Lamb, Kent Shelton
+          The motion passed 5-0.
+
+       e. Property Tax Impact Schedule for Fiscal Year 2027
+          Acting Chair Wignall noted that a Property Tax Impact Schedule was included with the agenda
+          packet, consistent with House Bill 236 and Utah League of Cities and Towns (ULCT) best
+          practices. The schedule was available to the public.
+
+       f. A Budget Officer for West Jordan City Intends to Again State the Following:
+            • West Jordan City is considering a tax rate that exceeds the certified tax rate
+            • The approximate dollar amount and purpose of the ad valorem tax revenue increase
+            • The approximate percentage increase in ad valorem tax revenue that is based on the
+               tax rate increase
+            • West Jordan City shall provide notice of and conduct a public hearing as required where
+               members of the public have an opportunity to comment on the proposed increase
+          Administrative Services Director Danyce Steck presented the Property Tax Impact Schedule for
+          FY2027. She explained the proposed property tax increase revenue would be used to:
+             o hire one full-time parks maintenance works and one full-time parks planner, eliminating
+                 three seasonal laborer positions;
+             o hire one full-time crossing guard supervisor;
+             o establish an annual summer event titled, “Beet Days”;
+             o upgrade a Police Officer I position to a Police Lieutenant;
+             o hire one full-time passport agent and eliminate two part-time positions;
+             o hire one new customer service representative to serve the west side of the City at the
+                 Public Works Building
+
+       g. Resolution No. 26-022 Authorizing the Transfer of Monies from Enterprise Funds to Other
+          City Funds in Fiscal Year 2027
+          Ms. Steck explained requirements in State Code to transfer money from utility funds to other
+          City funds. She said utilities such as Rocky Mountain Power and Dominion Energy paid the City
+          a franchise tax to maintain public right-of-way impacted by the utilities. Using the same
+          methodology, 5% of expenditures was transferred from the Water, Sewer, and Storm Water
+          Funds to maintain public right-of-way. Without the transfer, the property tax increase in
+
+City Council Meeting Minutes                   Tuesday, June 09, 2026                              Page 7
+          FY2027 would need to be increased by an additional 12.5%. Ms. Steck showed how the transfer
+          would affect each of the Funds, and explained the difference between utility transfers and
+          administrative cost allocation. The Council reviewed the proposed administrative cost
+          allocation by fund. Ms. Steck recommended approval of Resolution No. 26-022.
+
+          Acting Chair Wignall opened the meeting to public comment at 8:30 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed public comment at 8:30 pm.
+
+          MOTION:       Council Member Jacob moved to APPROVE Resolution No. 26-022 Authorizing
+                        the Transfer of Monies from Enterprise Funds to Other City Funds in Fiscal Year
+                        2027.
+                        Council Member Harris seconded the motion.
+          The vote was recorded as follows:
+          YES:        Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kayleen Whitelock
+          NO:
+          ABSENT: Chad Lamb, Kent Shelton
+          The motion passed 5-0.
+
+       h. Resolution No. 26-019 Stating the Compensation Increase for Local Government Officers as
+          Proposed in the Annual Budget for Fiscal Year 2027
+          Ms. Steck presented the proposed compensation increase for local government officers for
+          FY2027, including a 2% cost of living adjustment and 2.75% merit increase.
+
+          Council Member Shelton joined at 8:34 pm.
+
+          Acting Chair Wignall opened a public hearing at 8:35 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed the public hearing at 8:35 pm.
+
+           MOTION:      Council Member Jacob moved to APPROVE Resolution No. 26-019 Stating the
+                        Compensation Increase for Local Government Officers as Proposed in the
+                        Annual Budget for Fiscal Year 2027.
+                        Council Member Harris seconded the motion.
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton
+
+
+City Council Meeting Minutes                   Tuesday, June 09, 2026                              Page 8
+           NO:     Kayleen Whitelock
+           ABSENT: Chad Lamb
+          The motion passed 5-1.
+
+       i. Ordinance No. 26-26 Fixing the Compensation for Elected and Statutory Officers of the City
+          Administrative Service Director Danyce Steck presented proposed compensation for elected
+          and statutory officers for FY2027.
+
+          Acting Chair Wignall opened a public hearing at 8:37 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed the public hearing at 8:37 pm.
+
+          MOTION:       Council Member Jacob moved to APPROVE Ordinance No. 26-26 Fixing the
+                        Compensation for Elected and Statutory Officers of the City.
+                        Vice Chair Wignall seconded the motion.
+          The vote was recorded as follows:
+          YES:    Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton
+          NO:     Kayleen Whitelock
+          ABSENT: Chad Lamb
+          The motion passed 5-1.
+
+       j. Resolution No. 26-029 Adopting the Tentative Budget for FY2027 Which Includes a Proposed
+          Property Tax Increase, and Scheduling a Public Hearing Before Adoption of the Interim Budget
+          Ms. Steck stated the FY2027 Tentative Budget included a property tax increase. She presented
+          changes from the Mayor’s Budget to the Tentative Budget, with a final Tentative Budget of
+          $254,602,720. Ms. Steck said the Tentative Budget would act as the standing budget until the
+          Interim Budget was adopted on June 23, 2026.
+
+          Acting Chair Wignall opened a public hearing at 8:43 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed the public hearing at 8:43 pm.
+
+          MOTION:       Council Member Shelton moved to APPROVE Resolution No. 26-029 Adopting
+                        the Tentative Budget for FY2027 Which Includes a Proposed Property Tax
+                        Increase, and Scheduling a Public Hearing Before Adoption of the Interim
+                        Budget.
+
+
+City Council Meeting Minutes                   Tuesday, June 09, 2026                           Page 9
+                        Council Member Jacob seconded the motion.
+
+          Council Member Whitelock said she would vote in favor of the Tentative Budget to have more
+          time to discuss the budget, with the hope of getting away from a tax increase.
+
+          The vote was recorded as follows:
+          YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton, Kayleen
+                     Whitelock
+          NO:
+          ABSENT: Chad Lamb
+          The motion passed 6-0.
+
+       k. Ordinance No. 26-27 Amending the City’s Annual Budget for the Fiscal Year Ending June 30,
+          2026
+          Ms. Steck said the Council reviewed proposed amendments to the FY2026 Budget during the
+          work session earlier in the evening. She briefly presented proposed amendments, and said staff
+          recommended approval of Ordinance No. 26-27.
+
+          Acting Chair Wignall opened a public hearing at 8:52 pm.
+
+          Comments:
+          None
+
+          Acting Chair Wignall closed the public hearing at 8:52 pm.
+
+          Council Member Jacob commented that a budget amendment was needed every year in June
+          so that the adopted budget and actual numbers aligned.
+
+          MOTION:       Council Member Jacob moved to APPROVE Ordinance No. 26-27 Amending the
+                        City’s Annual Budget for the Fiscal Year Ending June 30, 2026.
+                        Council Member Shelton seconded the motion.
+          The vote was recorded as follows:
+          YES:        Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton, Kayleen
+                      Whitelock
+          NO:
+          ABSENT: Chad Lamb
+          The motion passed 6-0.
+
+ 7.    Business Items
+       a. Resolution No. 26-023 Authorizing the Pick-up of Certain Public Safety and Firefighter
+          Employee Retirement Contributions
+
+
+City Council Meeting Minutes                   Tuesday, June 09, 2026                            Page 10
+          Ms. Steck explained that the State authorized cities to pick up retirement contributions of
+          certain public safety and firefighter employees. She said the proposed resolution met
+          requirements of the IRS and URS.
+
+           MOTION:      Council Member Jacob moved to APPROVE Resolution No. 26-023 Authorizing
+                        the Pick-up on Certain Public Safety and Firefighter Employee Retirement
+                        Contributions.
+                        Acting Chair Wignall seconded the motion.
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton, Kayleen
+                      Whitelock
+           NO:
+           ABSENT: Chad Lamb
+          The motion passed 6-0.
+
+ 8.    Reports to Council
+       a. Council Office Report
+          Council Office Director Alan Anderson reported the Council Office had received 13 applications
+          for the West Jordan Youth Council, and applications were still being gathered.
+
+       b. Presentation of the Annual Fraud Risk Assessment for Fiscal Year 2026
+          Administrative Services Director Danyce Steck presented the FY2026 Fraud Risk Assessment,
+          and said the City had a very low fraud risk with a score of 375 out of 395. She said the 20-point
+          difference between the City’s score and a perfect score was an independent internal audit
+          function, which the City did not have.
+
+ 9.    Consent Items
+       a. Meeting Minutes
+            • May 12, 2026 – Committee of the Whole Meeting
+            • May 12, 2026 – Regular City Council Meeting
+            • May 26, 2026 – Committee of the Whole Meeting
+            • May 26, 2026 – Regular City Council Meeting
+       b. Resolution No. 26-031 Authorizing the Mayor to Execute the Attached Real Estate Purchase
+          Contract for the City to Purchase Real Property Located at 1477 West Bridgeport Way
+           MOTION:      Council Member Jacob moved to APPROVE consent items as listed.
+                        Council Member Shelton seconded the motion.
+          The vote was recorded as follows:
+           YES:       Bob Bedore, Jessica Wignall, Annette Harris, Zach Jacob, Kent Shelton, Kayleen
+                      Whitelock
+           NO:
+
+City Council Meeting Minutes                     Tuesday, June 09, 2026                             Page 11
+           ABSENT: Chad Lamb
+          The motion passed 6-0.
+
+ 10. Adjourn
+      Acting Chair Wignall adjourned the meeting at 9:03 pm.
+
+I hereby certify that the foregoing minutes represent an accurate summary of what occurred at the
+meeting held on June 9, 2026. This document constitutes the official minutes for the West Jordan City
+Council meeting.
+
+/s/ Cindy M. Quick, MMC
+Council Office Clerk
+
+Approved this 23rd day of June 2026
+
+
+
+
+City Council Meeting Minutes                   Tuesday, June 09, 2026                           Page 12
+

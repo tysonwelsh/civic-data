@@ -1,0 +1,31 @@
+{
+  "contributions": [
+    {"date": null, "name": "Greg Shelton", "amount": "400", "in_kind": false},
+    {"date": null, "name": "Misty Stoakes", "amount": "300", "in_kind": false},
+    {"date": null, "name": "Ashtree Legal Services", "amount": "250", "in_kind": false},
+    {"date": null, "name": "Kent McClure", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Linda Gudgel and Chris Hudson", "amount": "50", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Victory Signs - yard signs", "purpose": null, "amount": "389.48", "in_kind": false},
+    {"date": null, "recipient": "Spoiler Authority - stakes for signs", "purpose": null, "amount": "77.90", "in_kind": false},
+    {"date": null, "recipient": "Hobby Lobby - shirts", "purpose": null, "amount": "121.40", "in_kind": false},
+    {"date": null, "recipient": "Cogs Creative Crafts - printing of shirts", "purpose": null, "amount": "231.00", "in_kind": false},
+    {"date": null, "recipient": "Elliott and Sam Wojnowski - putting up signs", "purpose": null, "amount": "40.00", "in_kind": false}
+  ],
+  "total_contributions": "1050",
+  "total_expenditures": "859.78",
+  "contributions_50_or_less": "100",
+  "beginning_balance": "1050",
+  "ending_balance": "190.22",
+  "_meta": {
+    "index_path": "raw/2025_cardenaz_cf_10-07.pdf",
+    "candidate": "Phillip Cardenaz",
+    "office": "Council At-Large C",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/white_city_city_council/campaign_finance/raw/2025_cardenaz_cf_10-07.pdf",
+    "pages": 5,
+    "transcription_note": "born-digital text 2026-07-17. This Oct-7 report carries Cardenaz's real itemized activity ($1050 contributions incl. the $400 Greg Shelton gift; $859.78 expenditures) — his later Oct-28 (scanned) restates the same covers over BLANK schedules and his Dec-4 Final is under-filled. Column-placement quirk: 'Balance at Beginning of Reporting Period' Column A prints $1050 (actually the contributions total, not an opening balance) — captured verbatim. Part II ($50-or-less) donors itemized AND in contributions_50_or_less ($100) — do not double-count. Recipient column merges payee+purpose (no separate purpose column) — kept verbatim."
+  }
+}

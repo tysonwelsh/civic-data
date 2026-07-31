@@ -1,0 +1,2 @@
+city,district_id,plan_id,effective_start,effective_end,geometry_ref,adopted_by,source_url,confidence,note
+alta,At-Large,current,2020-01-01,,geo/city_boundary.geojson,Town of Alta at-large council structure,,high,"DEGENERATE: the Town of Alta's Mayor + 4 councilmembers are all elected AT-LARGE — no wards/districts, no address->district tool (geo/CLAUDE.md). This single row covers the whole town. geometry_ref points at the existing town-limits artifact. effective_start = repo data floor; the at-large structure predates it."

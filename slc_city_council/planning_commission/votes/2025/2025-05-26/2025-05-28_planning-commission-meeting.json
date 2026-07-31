@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "date": "2025-05-28",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7622028&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-05-26/2025-05-28_planning-commission-meeting.md",
+    "present": [
+      "Aimee Burrows",
+      "Landon Kraczek",
+      "Amy Barry",
+      "Bree Scheer",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Mike Vela",
+      "Jeffrey Barrett",
+      "Brian Scott"
+    ],
+    "absent": [
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "Landon Kraczek",
+      "result": "9:0 Pass",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Mike Vela",
+        "Landon Kraczek",
+        "Brian Scott",
+        "Jeffrey Barrett",
+        "Mike Christensen",
+        "Bree Scheer",
+        "Amy Barry",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval for the vacation on the right-of-way adjacent to 1100 West and a recommendation of denial for the portion of right-of-way adjacent to 400 South",
+      "description": "forward a recommendation of approval for the vacation on the right-of-way adjacent to 1100 West and a recommendation of denial for the portion of right-of-way adjacent to 400 South",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Bree Scheer",
+      "seconder": "Amy Barry",
+      "result": "Negative recommendation 7:2",
+      "tally": {
+        "yes": 7,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Mike Vela",
+        "Landon Kraczek",
+        "Jeffrey Barrett",
+        "Mike Christensen",
+        "Bree Scheer",
+        "Amy Barry"
+      ],
+      "nay": [
+        "Brian Scott",
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Mike Christensen",
+      "result": "Positive recommendation 9:0",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Mike Vela",
+        "Bree Scheer",
+        "Landon Kraczek",
+        "Amy Barry",
+        "Mike Christensen",
+        "Brian Scott",
+        "Jeffrey Barrett",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

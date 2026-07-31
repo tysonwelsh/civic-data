@@ -1,0 +1,37 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-18",
+    "portal": "onbase",
+    "index_max_date": "2026-05-26",
+    "index_rows": 312,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://agendas.provo.gov/Meetings (POST, DateRangeOptionID=11)",
+    "new_count": 0,
+    "notes": "4 newer council meeting date(s) have no published minutes yet (OnBase comments the link out until approval); secondary AgendaCenter portal already lists council minutes for: 2026-06-09",
+    "new_items": []
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "civicplus-agendacenter",
+    "index_max_date": "2026-06-10",
+    "index_rows": 26,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://www.provo.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=05/20/2026&endDate=07/19/2026",
+    "new_count": 2,
+    "notes": "",
+    "new_items": [
+      {
+        "date": "2026-06-24",
+        "title": "Planning Commission",
+        "url": "https://www.provo.gov/AgendaCenter/ViewFile/Minutes/_06242026-401"
+      },
+      {
+        "date": "2026-07-08",
+        "title": "Planning Commission",
+        "url": "https://www.provo.gov/AgendaCenter/ViewFile/Minutes/_07082026-406"
+      }
+    ]
+  }
+}

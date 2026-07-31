@@ -1,0 +1,367 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1989&doc_id=f1b10ad9-db66-11f0-bb28-005056a89546
+> Meeting date: 2025-12-02
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, DECEMBER
+2, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Bryn Heather Johnson,
+             Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED: Councilmember Mike Green
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Scott Cooley, City Engineer and Public Works Director; Spencer
+             DuShane, Assistant City Attorney; Rich Ferguson, Chief of Police; Traci
+             Gundersen, City Attorney; Jennifer Jastremsky, Community
+             Development Director; Rhett Ogden, Parks and Recreation Director;
+             Derek     Orth,    Human Resource Director;            Linda    Peterson,
+             Communications Director; Nicole Smedley, City Recorder; Clint Smith,
+             Fire Chief; Jake Sorensen, Network Manager; and John Vuyk, Finance
+             Director
+______________________________________________________________________________________
+
+Study Session
+      Closed Session
+      None
+
+      Discussion: Special Event Arena Committee
+      Assistant City Manager Kellie Challburg requested Council direction regarding
+      the Special Event Arena Committee. She reported that three current members
+      wished to continue serving, while three members’ terms had expired and
+      those individuals might also be interested in continuing. She stated that staff
+      had experienced difficulties with recruitment and reported that the
+      Committee had assisted with the rodeo, horse pull, monster truck event, and
+      holiday market.
+
+      Ms. Challburg stated that staff had discussed the possibility of bringing
+      additional events to the arena to provide the Committee with more activity.
+      The Council discussed the importance of ensuring the Committee remained
+      active and felt needed. Councilmember Vawdrey stated that it would not be
+      advisable if the events did not result in a profit. Councilmember T. Lowery
+      suggested combining the Special Event Arena Committee with the Community
+      Engagement Committee. Ms. Challburg reported that the Community
+
+                                                                            1|Page
+        Draper City Council Meeting Minutes – Approved December 16, 2025
+Engagement Committee was limited to a maximum of eleven members under
+City Code and currently had ten active members.
+
+Councilmembers F. Lowry and T. Lowery stated support for combining the two
+committees. Councilmember Johnson stated that if a new committee were
+created, current members of both committees could be asked to reapply.
+Councilmember T. Lowery added that priority could be given to those currently
+serving. Councilmember F. Lowry stated that some current Community
+Engagement Committee members might welcome a new direction.
+
+A majority of the Council indicated support for combining the Special Event
+Arena Committee and the Community Engagement Committee as one eleven-
+member committee.
+
+Report: Major Road CIP
+Public Works Director Scott Cooley reported completed road capital
+improvement projects, including: 2025 pavement maintenance; storm drain
+improvements on 700 West; 13800 South widening; Suncrest guardrail
+concrete barrier; and the sidewalk gap project.
+
+The Council and staff discussed possible improvements on 700 West. Mayor
+Walker explained that widening and improvements had been planned in the
+past, but were put on hold when residents reached out against the
+improvements. Mr. Cooley reported a major project that had been planned for
+2026 would need to be postponed because of UDOT, and suggested
+improvements on 700 West could be added to the queue for 2026. Mayor
+Walker suggested reaching out to current residents to see if they now wanted
+the road widened. Councilmember T. Lowery said she did not think the road
+had enough traffic to merit widening, but said she believed residents wanted
+sidewalk for safety.
+
+Responding to a question from Councilmember T. Lowery, Mr. Cooley said
+despite reports and perception of residents, speed studies had not found a
+speeding problem on 700 West. Councilmember T. Lowery said she believed a
+lot of concerns could be alleviated with the addition of sidewalk and a safe
+crossing to the park. Mr. Cooley explained sidewalk could be added to one side
+of the street, but addition of sidewalk on the other side would be challenging
+because of irrigation issues. He said he would support a decision to not widen
+700 West.
+
+                                                                     2|Page
+      A majority of the Council indicated support for sidewalk improvements on 700
+      West (estimated $450,000 cost).
+
+      Mr. Cooley explained upcoming projects: a new pump at Pump Station 3; Zone
+      4 sidewalk repairs; 1700 East storm drain improvement; Lone Peak Parkway
+      widening (postponed by UDOT); 14600 South/Minuteman intersection
+      improvements, Pioneer Road resurfacing; and 13400 South connection.
+      Members of the Council expressed a desire to tour a pump station.
+
+      Report: Mowing Contract Update
+      Parks and Recreation Director Rhett Ogden thanked the Council for its support
+      in approving a mowing contractor in the previous budget. He reported that
+      the mowing contract approved by the Council freed up at least three full-time
+      staff positions and allowed for the addition of a City Arborist position. He
+      stated that the change was successful and improved staff morale.
+
+      Mr. Ogden also reported a change in the holiday lighting contractor for 2025.
+      He stated that holiday lights would now be leased, resulting in cost savings
+      and a reduction in staff time.
+
+      Council/Manager Reports
+      None
+
+Business Session
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Pledge of Allegiance by Mayor Walker
+
+3.    Oaths of Office
+      Chief of Police Rich Ferguson recognized Ben Ricks and Zach Campbell for
+      promotion to the rank of Master Officer. City Recorder Nicole Smedley
+      administered the Oath of Office.
+
+4.    Recognition
+      Brigham City Police Chief Chad Reyes introduced Chief Jeff Simmons with
+      Logan City and Brigham City Mayor DJ Bott. He expressed gratitude for
+      assistance provided by Draper City in dealing with a tragedy that occurred in
+
+                                                                          3|Page
+      Box Elder County. Chief Reyes and Chief Simmons presented Captain Pat
+      Evans with a Medal of Merit for exceptional leadership and support
+      demonstrated by him and the Draper City Police Department during planning
+      and execution of funeral services for Sergeant Lee Sorensen and Officer Eric
+      Estrada. Mayor Bott expressed gratitude for the support from the Draper
+      Police Department and City Council.
+
+      Mayor Walker commended and expressed gratitude for Captain Evans. The
+      Council took the opportunity for a photograph.
+
+5.    Public Comments
+      None
+
+6.    Consent Items
+6.a   Approve the November 18, 2025 City Council Meeting Minutes
+6.b   Approve Resolution #25-68 appointing Laura Fidler as an alternate member of
+      the Draper City Planning Commission
+6.c   Approve Resolution #25-69 supporting America250 Utah and recognizing and
+      approving the Draper Utah 250 Community Committee
+6.d   Approve Resolution #25-70 disposing of personal property held by the Police
+      Department as lost or mislaid property in accordance with Utah Code Section
+      77-11d-101
+6.e   Approve Resolution #25-71 approving updated technical specifications and
+      standard drawings for public infrastructure
+6.f   Approve Resolution #25-73 amending previously issued deeds to land that
+      had not yet been recorded for the Warhorse Ranch Development Agreement
+
+      Councilmember Vawdrey moved to approve              the   Consent   Agenda.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                               Excused
+      Councilmember Johnson                X
+      Councilmember T. Lowery              X
+      Councilmember F. Lowry               X
+      Councilmember Vawdrey                X
+
+
+
+
+                                                                          4|Page
+7.    Items for Council Consideration
+7.a   Public Hearing: Ordinance #1692 amending the text of the Draper City General
+      Plan to amend the Draper Frontrunner, Kimballs Lane, and Crescent View
+      Station Area Plans, known as the amendment to the Draper Frontrunner,
+      Kimballs Lane, and Crescent View Station Area Plans General Plan Amendment
+
+      Planner Todd Taylor reported that the FrontRunner (Vista), Kimballs Lane, and
+      Crescent View Station Area Plans adopted by the Council on September 2,
+      2025, were certified by the Wasatch Front Regional Council on October 23,
+      2025. He stated that the next step in the process was certification by the Utah
+      Transit Authority.
+
+      Mr. Taylor reported that following Council approval, the Utah Transit Authority
+      requested revisions to figures in the Vista Station Area Plan to include a
+      building at a specific location. He presented the proposed revisions for Council
+      consideration.
+
+      Mayor Walker opened the public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember F. Lowry moved to adopt Ordinance #1692. Councilmember
+      Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                                  Excused
+      Councilmember Johnson                  X
+      Councilmember T. Lowery                X
+      Councilmember F. Lowry                 X
+      Councilmember Vawdrey                  X
+
+7.b   Public Hearing: Ordinance #1693 amending the text of the Land Use and
+      Development Code (Title 9) and the Land Development Code (Title 17) of the
+      Draper City Municipal Code relating to boundary adjustments, known as the
+      City Initiated Boundary Adjustment Text Amendment
+
+      Mr. Taylor presented proposed text amendments to Titles 9 and 17 of City
+      Code to comply with 2025 Senate Bill 104 regarding boundary adjustments.
+      He stated that additional amendments were proposed for clarification.
+
+                                                                            5|Page
+      Mayor Walker opened the public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember Vawdrey moved to adopt Ordinance #1693. Councilmember
+      Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                                 Excused
+      Councilmember Johnson                  X
+      Councilmember T. Lowery                X
+      Councilmember F. Lowry                 X
+      Councilmember Vawdrey                  X
+
+7.c   Public Hearing: Ordinance #1694 amending the Draper City General Plan to
+      add the Water Use and Preservation Element as Chapter 7, known as the
+      Water Use and Preservation Element General Plan Amendment
+
+      Mr. Taylor explained that 2022 Senate Bill 110 required adoption of a Water
+      Use and Preservation Element by December 31, 2025. He stated that, as part
+      of the drafting process, a stakeholder group was formed consisting of
+      Planning, Engineering, Public Works, WaterPro, and the Utah Division of
+      Wildlife Resources. He reported that work sessions were held with the
+      Planning Commission and the City Council.
+
+      Mr. Taylor presented the proposed Water Use and Preservation Element as
+      Chapter 7 of the General Plan and stated that the existing Chapter 7 would be
+      renumbered as Chapter 8. He reported that the proposed Chapter 7 included
+      six goals and 17 strategies.
+
+      Goals:
+        1. Strengthen the City’s water conservation efforts through dedicated
+             leadership, support, and collaboration.
+        2. Develop additional citywide policies and ordinances that enhance water
+             conservation and efficiency through irrigation restrictions for existing
+             developments.
+
+
+
+
+                                                                           6|Page
+         3. Reduce water demand through water-conserving development
+            patterns that increase development density through mechanisms such
+            as modified lot size and configuration.
+         4. Increase public awareness of water conservation through educational
+            programming. Consider applying for the Jordan Valley Water
+            Conservancy District (JVWCD) Member Agency Grant to receive funding.
+         5. Increase public awareness of water conservation through the City’s
+            website, social media, and other digital tools.
+         6. Lead by example and increase water efficiency throughout Draper City’s
+            public landscapes.
+
+      Mr. Taylor answered questions about further development of the goals for
+      implementation. Councilmember Johnson asked if non-residential, non-
+      commercial water use (e.g., churches, schools) would be addressed.
+      Community Development Director Jen Jastremsky responded the City was
+      limited in what churches could be required to do, and said she did not think
+      the City could require churches to fully comply with Code.
+
+      Mayor Walker opened the public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember Johnson moved to adopt Ordinance #1694. Councilmember
+      Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                               Excused
+      Councilmember Johnson                X
+      Councilmember T. Lowery              X
+      Councilmember F. Lowry               X
+      Councilmember Vawdrey                X
+
+7.d   Public Hearing #25-72 adopting a Water Conservation Plan update for Draper
+      City
+
+      Engineering Manager Brien Maxfield presented the proposed 2025 Water
+      Conservation Plan, required by the State to be updated every five years.
+
+
+
+
+                                                                         7|Page
+      Mayor Walker opened the public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember Johnson moved to approve                 Resolution    #25-72.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                                Excused
+      Councilmember Johnson                 X
+      Councilmember T. Lowery               X
+      Councilmember F. Lowry                X
+      Councilmember Vawdrey                 X
+
+7.e   Public Hearing: Ordinances #1686 and Ordinance #1687 amending the official
+      Zoning Map of Draper City for approximately 1.38 acres of property located at
+      11730 S. 700 West, known as the Huber Land Use Map and Zoning Map
+      Amendments
+
+      Planner Maryann Pickering presented the subject property on a map. She
+      stated that the current General Plan Land Use Map designation for the
+      property was Residential Low-Medium Density and that the current zoning
+      was RA1 (one-acre minimum). She reported that the applicant requested a
+      Land Use Map amendment to Residential Medium Density and a zone change
+      to R3 (one-third acre minimum) for approximately one-third of the property.
+      She explained that the area proposed for the change would eventually be
+      added to the subdivision to the west, with the remaining portion of the lot
+      continuing to comply with the RA1 zoning requirements.
+
+      Tom Spencer, the applicant, stated that one approximately 19,000-square-foot
+      lot would eventually be added to the Fox Landing Subdivision, with access
+      from Osborne Vista Way.
+
+      Mayor Walker opened the public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember F. Lowry moved to adopt Ordinance #1686 and Ordinance
+      #1687. Councilmember T. Lowery seconded the motion.
+
+
+                                                                          8|Page
+      A roll call vote was taken. The motion passed unanimously.
+                                            Yes      No Absent
+      Councilmember Green                               Excused
+      Councilmember Johnson                 X
+      Councilmember T. Lowery               X
+      Councilmember F. Lowry                X
+      Councilmember Vawdrey                 X
+
+7.f   Public Hearing: Ordinances #1688 and #1689 amending the Official Land Use
+      Map and an Ordinance amending the official Zoning Map of Draper City for
+      approximately 17.88 acres of property 13782 S. 300 E, known as the Bangerter
+      Crossroads Land Use Map and Zoning Map Amendments
+
+      This item was continued to a date uncertain.
+
+7.g   Public Hearing: Ordinances #1690 and #1691 amending the Official Land Use
+      Map and amending the official Zoning Map of Draper City for approximately
+      1.44 acres of property located at approximately 231 E. 13800 S, known as the
+      Openshaw Draper 138 Land Use Map and Zoning Map Amendments
+
+      This item was continued to a date uncertain.
+
+8.    Adjournment
+      Councilmember T. Lowery moved to adjourn the meeting. Councilmember
+      Johnson seconded the motion, which passed by unanimous voice vote.
+
+      The meeting adjourned at 7:45 pm.
+
+
+
+
+                                                                         9|Page
+

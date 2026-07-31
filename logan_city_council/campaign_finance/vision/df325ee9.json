@@ -1,0 +1,78 @@
+{
+ "contributions": [
+  {
+   "date": "06/03/2025",
+   "name": "Kerry Montgomery",
+   "amount": "200.00",
+   "in_kind": false
+  },
+  {
+   "date": "06/05/2025",
+   "name": "Chris Savage",
+   "amount": "50.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/22/2025",
+   "name": "Robert Herzfeld",
+   "amount": "250.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/24/2025",
+   "name": "Robert Herzfeld",
+   "amount": "50.00",
+   "in_kind": false
+  },
+  {
+   "date": "06/18/2025",
+   "name": "Ryan Salese",
+   "amount": "275.00",
+   "in_kind": true
+  },
+  {
+   "date": "07/30/2025",
+   "name": "Lewis Roesberry",
+   "amount": "79.50",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "06/18/2025",
+   "recipient": "Ryan Salese",
+   "purpose": "Signs",
+   "amount": "275.00"
+  },
+  {
+   "date": "06/15/2025",
+   "recipient": "Regus",
+   "purpose": "Office 701",
+   "amount": "233.14"
+  },
+  {
+   "date": "06/11/2025",
+   "recipient": "x.com",
+   "purpose": "",
+   "amount": "8.00"
+  },
+  {
+   "date": "07/11/2025",
+   "recipient": "X.com",
+   "purpose": "",
+   "amount": "8.00"
+  },
+  {
+   "date": "07/29/2025",
+   "recipient": "Regus",
+   "purpose": "",
+   "amount": "380.36"
+  }
+ ],
+ "contributions_under_500": null,
+ "contributions_itemized": "904.50",
+ "total_contributions": null,
+ "expenditures_under_500": null,
+ "expenditures_itemized": "904.50",
+ "total_expenditures": null
+}

@@ -1,0 +1,575 @@
+# Redevelopment Agency Special Meeting — 2023-06-06
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw PDF: pmn_backfill/raw/ogden_2023-06-06_RDA.pdf  |  file id 1085523.
+> Recovered 2026-07-05 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new RDA minutes — flag for promotion review.
+
+---
+
+        Minutes of Special Meeting of Redevelopment Agency of Ogden City, Utah, June 6, 2023 Page
+
+
+        Minutes of the special meeting of the Ogden City Redevelopment Agency held on Tuesday, June 6, 2023 at 6:08 p.m., in
+the Council Chambers, and via electronic meeting, on the third floor of the Municipal Building, 2549 Washington Boulevard,
+Ogden City, Weber County, Utah.
+
+        Present:          Chair                 Angela Choberka
+                          Vice Chair            Ken Richey
+                          Board members         Bart E. Blair
+                                                Richard A. Hyer
+                                                Luis Lopez
+                                                Marcia L. White
+
+                          Board Administrator Janene Eller-Smith
+                          Board Deputy Administrator Glenn Symes
+                          Board Policy Analyst Warren Hallmark
+                          Communications and Public Engagement Coordinator Brandon Garside
+                          Communication Project Coordinator Eric Davenport
+
+        Excused:          Board member Ben Nadolski
+
+        Also present:     Chief Administrative Officer Mark Johnson
+                          Assistant City Attorney Katie Ellis
+                          Community and Economic Development Director Brandon Cooper
+                          Redevelopment Manager Damen Burnham
+                          Airport Manager Bryant Garrett
+                          Deputy Business Development Manager David Sawyer
+                          Management Services Director Mara Brown
+                          Comptroller Lisa Stout
+                          Fire Chief Mike Mathieu
+                          Public Services Deputy Director Justin Anderson
+                          Deputy City Recorder Jason Gould
+
+        At the request of the Chair, all present stood and recited the Pledge of Allegiance led by Vice Chair Richey.
+        A moment of silence was observed.
+        Acknowledgements:
+             • Ballet Folclórico Guadalajara and Mariachi Femenil Estrella de México Performance at Weber State
+                 University, tomorrow, June 7th at 7:00 p.m.
+             • Special events in Ogden’s downtown over the past weekend, including the closing ceremony for the Marshall
+                 White Center.
+             • Ogden Music Festival last weekend.
+             • Ogden Arts Festival next weekend.
+
+Proposed Resolution 2023-11 approving the Airport Community
+Reinvestment Project Area plan and budget; and
+Proposed Resolution 2023-12 approving an interlocal agreement with
+Weber County authorizing the sharing of tax increment; and
+Proposed Resolution 2023-13 approving an interlocal agreement with the
+Ogden School District authorizing the sharing of tax increment; and
+Proposed Resolution 2023-14 approving an interlocal agreement with the
+Central Weber Sewer Improvement District authorizing the sharing of tax
+increment; and
+Proposed Resolution 2023-15 approving an interlocal agreement with
+Ogden City authorizing the sharing of tax increment
+         A memo from the Community and Economic Development Department came before the Board to consider approval of
+the Airport Community Reinvestment Area (CRA) Plan and Budget as well as Interlocal Agreements with Weber County, Ogden
+School District, Central Weber Sewer District, and Ogden City for the sharing of tax increment associated with the CRA. The
+memo stated on April 11, 2023, the Redevelopment Authority (RDA) Board set a public hearing for June 6, 2023 on the proposed
+plan and budget for the Airport CRA. The Board approved the survey area in February 2019. The area consists of all Airport
+property within Ogden City as well as properties north of Hinckley Drive and east of Airport Road. The proposed project area
+collection period is 25 years commencing on January 1, 2023. The total proposed budget for the project area is $119,316,079 with
+Ogden City, Ogden School District, Central Weber Sewer District, and Weber County participating via the proposed interlocal
+agreements.
+          Community and Economic Development Director Cooper summarized the memo and used the aid of a PowerPoint
+presentation to summarize the history of Ogden Hinckley Airport. Previous growth and development opportunities for the Airport
+included general aviation; commercial passenger service; cargo; aerospace and defense; maintenance, repair, and overhaul
+(MRO); and aeronautical commercial. He presented a map to highlight the boundary of the proposed CRA and indicated key
+projects to be completed at the Airport including:
+               • Aerospace/Defense:
+                         o Need for off-base, runway-adjacent facilities
+               • Project Stamper:
+                         o Non-military aerospace company
+               • Commercial Hangar Construction:
+                         o Non-military aeronautical use companies
+               • Expansion of Private Hangar Construction
+          Development objectives at the Airport include the following:
+               • Remove substandard buildings and encourage highest, best use of land
+               • Remove development impediments and incompatible uses
+               • Rehabilitate existing structures
+               • Upgrade infrastructure: runways, roadways, taxiways, and utilities
+               • Strengthen tax base
+               • Accommodate aviation demand
+               • Facilitate skilled jobs at higher wages
+               • Redevelop underutilized property
+               • Develop vacant land
+               • Support Hill Air Force Base
+          Tax increment generated at the Airport will be used for utility upgrades; roadway upgrades and installation; building
+construction and upgrades; direct incentive for jobs/development; taxiway upgrades; and other Airport expenses. The public
+benefits to be created by the CRA include:
+               • Future increased tax revenues
+               • Economic stimulation
+               • Up to $300-400 million investment potential
+               • Short term construction employment
+               • Direct employment at higher wages
+               • Direct purchase of supplies and services
+               • Economic diversification
+               • Hill Air Force Base (HAFB) support
+          Mr. Cooper summarized the process for selecting participants in the CRA; preference will be given to owners and
+commercial airport lessees to undertake improvements or participate with developers. The Agency may encourage others to
+acquire property, or the Agency may select non-owner developers by private negotiation, public advertising, bidding or the
+solicitation of written proposals. He provided a brief explanation of what a CRA project area does and does not do, after which he
+noted the base year valuation of the CRA is $211,920,205. There are four taxing entities participating in the CRA; their
+participation is broken down into the following estimates:
+               • Maximum County participation - $17 million;
+               • Maximum Ogden School District participation - $68,546,740;
+               • Maximum Ogden City participation - $28,369,128; and
+               • Maximum Central Weber Sewer participation - $5,400,210.
+          Chair Choberka indicated that the project area budget includes funding for housing and administration; she noted there
+will be no housing on the Airport property and she asked why that has been included in the budget. Mr. Cooper stated that money
+will be deposited into a housing fund and based upon State Law, can be used anywhere in the City for qualifying housing
+purposes.
+          Board member Hyer asked for confirmation that the participating tax entities will continue to receive the current amount
+of tax increment they are getting from the property based upon the base year valuation. Mr. Cooper stated that is correct; the base
+year valuation will be frozen, and all taxing entities will continue to receive tax revenue based upon that valuation; they will be
+dedicating a portion of the increased tax revenue to the CRA for the 25-year period.
+          Chair Choberka then noted that the base year valuation is from 2020, but the CRA will not be established until 2023; she
+asked if the valuation will be adjusted to capture any increased value from 2020 to 2023. Mr. Cooper stated that valuation was
+used for negotiation with the taxing entities; in this case, the valuation has actually decreased since 2020.
+          Chair Choberka called for a public hearing on the following proposed resolutions:
+          Proposed Resolution 2023-11, entitled:
+                     “A resolution of the Ogden City Redevelopment Agency approving the Airport Community Reinvestment
+                     Project Area Plan and Budget.”
+           Proposed Resolution 2023-12, entitled:
+                     “A resolution of the Ogden City Redevelopment Agency approving an Interlocal Agreement between the
+                     Ogden City Redevelopment Agency and Weber County authorizing the sharing of tax increment in the Airport
+                     Community Reinvestment Project Area.”
+           Proposed Resolution 2023-13, entitled:
+                     “A resolution of the Ogden City Redevelopment Agency approving an Interlocal Agreement between the
+                     Ogden City Redevelopment Agency and the Ogden School District authorizing the sharing of tax increment in
+                     the Airport Community Reinvestment Project Area.”
+           Proposed Resolution 2023-14, entitled:
+                     “A resolution of the Ogden City Redevelopment Agency approving an Interlocal Agreement between the
+                     Ogden City Redevelopment Agency and the Central Weber Sewer District authorizing the sharing of tax
+                     increment in the Airport Community Reinvestment Project Area.”
+           Proposed Resolution 2023-15, entitled:
+                     “A resolution of the Ogden City Redevelopment Agency approving an Interlocal Agreement between the
+                     Ogden City Redevelopment Agency and Ogden City authorizing the sharing of tax increment in the Airport
+                     Community Reinvestment Project Area.”
+           Kim Wheelwright stated that he has several questions about this matter; first relates to the boundary of the CRA and
+whether the entire City will be taxed to support the project area. He also believes that property owners immediately inside the
+Airport and even across the street will forfeit their property as part of this action. The information that has been provided to the
+public and to property owners is insufficient and confusing and he asked that the Board table the actions before them tonight to get
+more information and to clarify the purpose of this action for the public.
+           Travis Pate stated that his biggest concern is that the City is creating another CRA to support other redevelopment areas;
+accountability is needed in other redevelopment areas to determine if money has been shifted from one project area to another. If
+the increment generated in the Airport CRA is going to go back into the area, he is supportive, but if it is going to be used for
+other needs in other areas, he is opposed. He suggested the current and previous City Administrations have played a ‘shell game’
+with RDA increment and that must be resolved. Additionally, there are still outstanding matters at the Airport related to ownership
+and leasing of hangars and those issues need to be addressed and questions answered.
+           Justin Klug stated he is a landowner and business owner on property that is across 31st Street from the Airport. He noted
+he received a letter just a month ago about this proposal and that is not enough time to process the information. His business does
+not directly benefit from the Airport; he understands the Airport benefits the community, but he is across 31st Street and not part of
+the Airport and including his land in the CRA strikes him as a ‘land grab’; he would understand it being included if his property
+were bordering a runway. This has been a very negative thing for his business already and he would like that to be considered.
+           Board member Lopez inquired as to the name of Mr. Klug’s business. Mr. Klug stated he owns a recycling facility, and
+his business will not be easy to move.
+           Blake Ballard stated he owns the Chevron on 31st Street and Pennsylvania Avenue and has been there for about three
+years. He has invested heavily in the gas station based upon requirements placed on him by the City and he is not on board with
+incentivizing and rewarding competing businesses for coming to the area. He asked what protections will be put in place for
+existing businesses in the area.
+           Paul Sorensen stated he also owns a building across the street from the Airport and he is concerned about increased
+property taxes associated with this matter. He referenced Mr. Cooper’s presentation, which indicated a CRA will not increase
+taxes, but the CRA project area plan and budget documents indicate that if they are adopted, property tax revenues will increase as
+a result of increased property valuation. He asked if that means that property values will increase and if that increase will be
+natural or forced. He stated he does not understand the statement that the CRA will not increase taxes and asked for an
+explanation.
+           Dave Carlson stated that the biggest problem is the optics associated with the Ogden Airport; he has a friend who wants
+to buy a hangar at the Ogden Airport, but he is hesitant after witnessing the actions taken by the city against individuals who were
+leasing hangar space at the Airport. He noted that he is a lessee, and he has lost his business and livelihood as a result of the
+mistruths told by the City Attorney and the Mayor regarding his lease. If the City had just developed the other side of the Airport,
+people and businesses would have located there naturally; but, the City ‘shot itself in the foot’ and lost the tax base for the Airport.
+He stated he could not get a clear answer from the City after paying his lease payment; he was informed he was in default of his
+lease and needed to leave the Airport.
+           Dr. April Greener stated she is speaking on behalf of her family; they bought a hangar at the Airport 42 years ago and
+still own it today. They are part of the redevelopment process for the Airport. Her mother passed away two months ago and since
+then she has tried to learn as much about the Airport and what this new proposal means for their hangar. Tenants do not have
+stability in their leases when the City repeatedly rejects new terms and renewal proposals; one of the terms the City is seeking is
+that they can take back ownership of the hangar once the age of the property is 40 years without compensation to the owners. This
+means an owner can have an immaculate building that complies with all terms of the lease, and the City can repossess it. She
+stated that she lived on historic Jackson Avenue for nearly eight years and many of the homes there are over 40 years old and
+according to this standard being pushed by the City, those homes could be bulldozed because they are no longer meeting City
+standards. The City has damaged the image of the Airport and it needs to rebuild trust with tenants. Moving forward with the CRA
+without the support of the Airport tenants is the opposite of rebuilding trust.
+           Kelly Crozier suggested the City follow the master plan for the Airport or at least amend it before moving forward with
+the CRA. He added that $19 million has been lost at the Airport because of an action voted for by the Council. If that vote were
+reversed, the City would have sufficient money for the Airport and the CRA would not be needed.
+           Lisa Babbitt stated that she also owns property across from the Airport and has been there well over 40 years; not too
+long ago, she was told she would be annexed into Ogden City, and she now believes that it was because of this plan. She was
+deceived because she was not given the opportunity to stay in Weber County. Her business operates from her property, and she
+cannot afford to relocate. She does not trust that the City will support her business or help her; she believes that the City will force
+her out of her property and force her business to close. She does not agree with this plan.
+           Chair Choberka inquired as to Ms. Babbitt’s business name. Ms. Babbitt answered Singleton Landscaping.
+           Scott Vanderhyde stated he is a property owner on the north side of the Airport, and he is confused as to why the City is
+trying to tax a specific area differently than the rest of the City. He has a long history of family members who worked at the
+Airport and there have been many disputes between the City, Federal Government, and Forest Service located at the Airport. This
+has caused the City to lose many tenants. Additionally, higher lease rates and taxes will force businesses and property owners to
+move to other cities. He also noted that the way the City works with Roy City and other property owners is negative and bringing
+more air traffic to the area will only make those relationships worse. The Airport has a negative image and reputation and many
+businesses have moved to the Provo Airport as a result. The Ogden Airport is landlocked and cannot expand and he does not
+expect many business owners to invest in the area because of limited growth opportunities.
+           Teresa Bramwell noted Mr. Cooper’s presentation indicated that there will be no eminent domain associated with the
+CRA, but the current property owners will be invited to participate in the plan. She asked what would happen if people who are
+invited to participate choose not to do so. She asked how they will be invited to participate and how ‘participation’ is defined for
+businesses like the recycling business.
+           Dale Brandon stated he is present on behalf of Williams International, which is an aerospace manufacturing company on
+the north side of the Airport. The proposed CRA would benefit them greatly. In 2001 they built a 100,000 square foot
+manufacturing facility addition and they are currently in the process of building another 30,000 square foot addition. They would
+like to double their manufacturing capacity in Ogden and this project would help to make Ogden a more attractive site than other
+areas that Williams International is considering. He understands that the increased taxes would only be based upon increased
+property values due to property improvements. He noted Williams International has proceeded with their improvements without
+any incentives from the City and he would like to see further growth in the Ogden area.
+           Angel Castillo stated she just returned from North Carolina where she spoke during the Strong Towns National
+Gathering; this is a new innovative approach to urban planning. Joe Minicozzi was also in attendance at the Gathering, and he
+wrote a report for the City in 2016 explaining how the parts of the tax increment financing (TIF) model should be replicated and
+how to make sure that what the City is doing is working. She stated that the Utah State Legislative Auditor General has indicated
+the City failed an audit regarding the accounting for TIF funds and this will be further examined in the future because the City’s
+‘house is not in order’. It seems dumb to continue to do something without being able to illustrate how it has worked in the past.
+The other part that perplexes her about the CRA is that Hill Air force Base (HAFB) has the Military Installation Development
+Authority (MIDA) program, which is an enhanced lease use program allowing them to do what the City is trying to do at the
+Airport. She asked why a business would locate at the Airport when they already have the option of locating at HAFB at reduced
+lease rates. She stated she is not opposed to economic development and the use of TIF, but it should be used sparingly and
+deliberately. She noted the TIF benefits of a CRA do not apply to everyone at the Airport or surrounding property owners. If the
+City is not making sure that everyone can benefit, it will be negatively impacting people who have made heavy investments in the
+community.
+           Laura Lewis stated that after listening to the comments from others, she is concerned that people will be forced out of
+their property because they will no longer be profitable due to increased taxes. She stated that is essentially the same as eminent
+domain, but a different name is being used.
+           Jordan Silver stated he is a Wildland Fire Fighter based out of the Ogden Airport and his family owns a hangar on the
+Airport. He stated that the CRA documentation is incredibly complicated and vague; he cannot support moving forward until he,
+the Council, and others at the Airport can understand the implications. He noted Mr. Cooper indicated that the CRA is predicated
+on the Airport Master Plan and the underlying success of the Airport, and he hopes those involved are beginning to see that the
+Airport is in a deep crisis and the idea that there will be an influx of private and commercial entities under the current conditions is
+a ‘total pipe dream’. He stated there have been some positive discussions about the future of the Airport, but until positive changes
+occur, he cannot support the CRA. He has been involved at the Airport for a long time, but if he does not see positive changes at
+the end of the current fire season, he will be moving and leaving Ogden.
+           Brian Janroy stated he owns multiple businesses and hangars on and off the Airport; while the idea of developing in a
+way that provides financial incentive for developers to move forward with their projects in the proposed CRA is a positive step,
+the following must be noted: due to the City’s current leases and Title Eight stipulations and the last several years of the City’s
+actions and dealings with Airport entities, it is well known and recognized that businesses are leaving the Airport due to the
+unfavorable business constraints enacted by Ogden City. Additionally, new businesses have walked away from establishing their
+business and partnership with Ogden City after completing due diligence processes. This has been the same story for the last five
+to six years. Recently, there have been some positive discussions and while this is encouraging, a Title Eight rewrite is needed
+along with leadership level involvement to put the Airport on the path to success. He has spent a fair amount of time trying to
+understand the CRA and he understands it will not raise taxes, but property values may increase. He thinks the City would do well
+to answer the questions and address the concerns others have asked.
+          Heath Satow stated he shares the same concerns as many that have spoken, but mostly he is concerned with how the City
+plans for the Ogden Airport to compete with HAFB and with the redevelopment of Union Station. A great deal of focus is being
+placed on a sector for which there is already a lot of nearby competition. He suggested the City spend less time trying to bring in
+outside developers and, instead, focus on the small businesses that are already here. He acknowledged that taxes are not directly
+increased when a CRA is created, but they are indirectly increased, and the City seems to be chasing money to pay the
+government instead of looking for things that are important to a community.
+          Ed McKenney stated he appreciates the amount of work that has gone into the CRA and the potential benefit it can
+provide; he also thanked Mr. Cooper for the recent interactions that he has had with interested parties. He hopes that the Board
+will not rubber-stamp this proposal as it is a very complicated matter, and more time must be dedicated to it. In a recent work
+session meeting, Board member Nadolski asked Mr. Cooper if the Airport Advisory Committee has reviewed the CRA proposal
+and Mr. Cooper’s response was that the Committee would have an opportunity to review the proposal during the public comment
+period. That is improper given the complexity of the matter. He asked the Board to think what it will say about them if they are
+willing to approve the CRA without a formal review from the Airport Advisory Committee that was assembled to advise the City
+on Airport matters. The CRA Plan indicates that the Board may not approve the CRA if more than 51 percent of property owners
+object to the adoption. He questioned who the property owners are, how they would go about objecting, and how many property
+owners make up the total property included in the area. Also, the CRA vision statement discusses expanding the Airport’s role as
+an economic engine in the region through a commitment to serve and cultivate general aviation and commercial service growth in
+aeronautical business opportunities. But, with the loss of airlines, businesses, and over 27 aircraft owners due to the expansion of
+the Morgan and Brigham City airports, his question is whether the Airport is really an economic engine or something that is
+moving in the opposite direction. He inquired as to the plan to change this negative trend before embarking on a very substantial
+investment. He asked that the Board not make this another rubber stamp approval without getting answers to these questions and
+seeking a review from subject matter experts. They should not approve something for which they do not fully understand the
+consequences.
+          There being no further persons appearing to be heard, BOARD MEMBER HYER MOVED THE PUBLIC
+HEARING BE CLOSED. THE MOTION WAS SECONDED BY VICE CHAIR RICHEY, ALL VOTING AYE.
+          Chair Choberka invited Mr. Cooper to address questions asked during the public hearing.
+          Mr. Cooper addressed questions about the boundary of the proposed CRA; he presented a map and indicated that all
+properties listed in the project area plan are encompassed within the broad orange line on the map. Mr. Cooper noted that Mr.
+Wheelwright asked questions about who collects taxes and what taxes are being levied and he explained the Agency has worked
+with other taxing entities in the County to negotiate an agreement to allow for the collection of taxes by the RDA instead of each
+individual taxing entity. There are no new taxes being levied by any of the taxing entities and, instead, the current taxes are being
+diverted to the RDA. Chair Choberka asked if this formula will apply to all property in the City or just the property within the
+CRA. Mr. Cooper answered just inside the CRA; property owners outside and adjacent to the CRA will still pay their property
+taxes to all the taxing entities in the County. He added that Mr. Wheelwright had other questions and he and his staff will visit
+with Mr. Wheelwright to help answer those questions.
+          Chair Choberka stated that Mr. Pate asked if the increment collected for the CRA will be invested solely in the project
+area or in other areas of the City. Mr. Cooper stated that Mr. Pate was referencing an anomaly in the State RDA laws that allow
+RDAs to collect what is called a ‘haircut’ from other taxing districts to be used for a singular purpose. In Ogden’s case, the haircut
+was collected from different project areas to be used for the recreation center project in The Junction. The City had 10 districts
+that were chosen as haircut districts and for the remaining life of those districts, any increment collected was used to service the
+debt at The Junction. That provision of State law no longer exists, and any increment generated in a CRA will remain in the CRA,
+other than the 25 percent that can be used for housing purposes in the community. Board member Hyer added that if the CRA
+does not generate any increment, it will not have any money. So, it is necessary to increase the value in order to receive increment.
+          Board member Hyer asked why the CRA boundary was drawn as it was. Mr. Cooper stated that uses within the Airport
+fence are restricted to aeronautical uses and the Agency felt it beneficial to include other properties that are contiguous to the
+Airport, which he identified on the map. These properties will be beneficial in the event there is an opportunity to develop uses
+that would support the Airport. Vice Chair Richey stated that it is his understanding that inclusion of a property in the CRA does
+not necessarily change the zoning of that property. Mr. Cooper stated that is correct; there are a few zoning designations within the
+Airport and in the areas surrounding the Airport and the enactment of the CRA Plan would not change the zoning. Board member
+Lopez inquired about a few specific properties on the map and asked if they are located within Ogden City limits. Mr. Cooper
+stated that one is and the other is not. He noted there was a question about those properties; the owners can continue with the
+current use of the property, but being located within the CRA will give them the ability to seek a tax increment incentive to
+expand or redevelop their property. If the current owner no longer wants to own the property, they can sell, and a future owner
+will have access to the benefits of the CRA as well. He noted that there will be no eminent domain or indirect forfeiture of the
+property through increased property taxes. The City has managed 22 redevelopment areas and has a strong precedent of success;
+Ms. Castillo indicated that some proof of success is necessary, and the City has proven success through the annual report of all
+RDA activities and increased value of the properties within project areas since 2007. The City has seen exponential growth, nearly
+three to four times, for the value of property within redevelopment areas when compared to properties outside the redevelopment
+areas.
+          Chair Choberka noted several business owners asked how the CRA will impact their business, but also how they can
+participate in CRA activities. Mr. Cooper reiterated that a property owner can apply for a tax increment incentive; however, if a
+business owner simply wants to continue to operate as they are at present, they will not notice an impact or change, but they may
+see an increase in their valuation due to renewed investment. This is a wealth generator and should not be viewed negatively. If a
+property owner is looking to make a change, the CRA can be used as a financial tool. Chair Choberka asked how properties
+outside of the CRA project area could benefit. Mr. Cooper stated that they could realize the benefit of improved infrastructure in
+the project area. Chair Choberka stated that in her mind, there is only a possible benefit associated with including a property inside
+the CRA. Mr. Cooper agreed; he noted that he feels there are only benefits and little to no downsides for properties included in a
+CRA. He then stated it is important to make the distinction between the Board’s role of acting on the CRA and the Council’s role
+to regulate Airport operations. Airport administration is a City issue largely managed by the City Administration, and he
+acknowledged real concerns of hangar owners and lessees and indicated Administration is constantly working to address them. He
+stated those issues are not directly related to the CRA proposal and have very little effect on this matter.
+           Chair Choberka referenced Mr. McKenney’s comments; she acknowledged a 30-day public comment period but asked
+how the Airport Advisory Committee or other property owners in the CRA have been engaged. Mr. Cooper stated that he
+appreciates Mr. McKenney’s comments but noted that his answer to Board member Nadolski during the work session meeting
+was that the Agency would be reaching out to the Airport Advisory Committee during the 30-day comment period and that it was
+not the intent for them to participate similar to the general public. He stated he reached out and was unable to schedule a meeting
+with the Advisory Committee; he transmitted the documents to the Committee and asked that they review them, which they did
+and did not provide substantive comments or feedback. He noted staff have had discussions with hangar owners over the last
+several weeks as well, but typically for this type of action, all documents are publicly advertised with notice of a public comment
+period. He stated his staff has fielded many calls regarding this matter and the communication they received from the City
+regarding this proposal.
+           Board member Lopez questioned why the Agency was unable to hold a meeting with the Advisory Committee. Mr.
+Cooper stated schedules could not be coordinated and there is some turnover on the Committee that made it difficult to get a
+quorum of the Committee to attend a meeting. Board Member Lopez stated this appears to be an important issue to the Committee
+and he asked how long the Agency tried to schedule a meeting. Mr. Cooper stated he actively tried to schedule a meeting for a few
+weeks; he deferred to the Airport Manager, who was involved in trying to schedule the meeting. Airport Manager Garrett stated
+that the meeting was originally scheduled for April 12, but a quorum was not available. There are three Committee members
+whose terms are expiring, and he has proposed new appointments; he needed four members to constitute a quorum and that was
+not possible. The meeting has been rescheduled at least four times since April 12 and a date still has not been set. Mr. Cooper
+stated that the Committee was willing to review the document in electronic format and he is grateful to them for all the work they
+do.
+           Chair Choberka referenced comments about competition with HAFB and MIDA. Mr. Cooper stated that MIDA is an
+interesting entity in that it has some of the same rights and powers as an RDA, but it is not as extensive. Their powers are
+growing, but MIDA was specifically created for military installation development and to enhance the Extended Use Lease (EUL)
+established in 1998. They are focused on creating public/private land use just outside the gate of HAFB and they have done a
+wonderful job. However, there are a number of obstacles that exist on HAFB and at the Falcon Hill project in terms of proximity,
+access, and costs and the Agency has tried to position the Airport CRA as an alternate product for individuals dealing with those
+concerns. He is not sure that the Agency will be pursuing the same entities or products as HAFB as there is a whole list of uses
+applicable to the Airport that would never be permitted on HAFB or at Falcon Hill. The bottom line is that it is a different product
+for a different type of customer.
+           Board member White asked Mr. Cooper to address the differences between the old Airport RDA boundary and the new
+Airport CRA boundary. Mr. Cooper stated that the use of terms is an unfortunate coincidence; the use of the term RDA simply
+refers to the Mayor’s designation of a certain geographical boundary that is up for redevelopment. The CRA is an actual Agency
+term and an officially created project area. The two may overlap, but they are entirely different. The CRA is a financial tool to
+incentivize future development. The RDA relates to a policy that targets an area for development and defines terms that hangars
+within the Airport may be subject to.
+           Chair Choberka inquired as to the next steps and how people can reach out if they still have questions about the CRA.
+Mr. Cooper stated he and his staff are happy to provide as much access and information as possible regarding this matter.
+           Vice Chair Richey asked Mr. Cooper to address how the CRA conflicts with the Airport Master Plan. Mr. Cooper stated
+he does not agree with that statement; the Master Plan may not be followed perfectly, but it offers strong guidance for activities at
+the Airport and the CRA is meant to augment the Plan and facilitate the strategies of the Plan.
+           Board member White asked Mr. Cooper if he has spoken with the taxing entities that are subject to the interlocal
+agreements. Mr. Cooper stated not only has he spoken with them, but each of the entities has already approved the agreements and
+they understand the implications of them. Board member White stated that means that the taxing entities also see value in this
+proposal, to which Mr. Cooper answered yes.
+           Discussion among the Board and staff centered on the need to provide information to the public regarding the process of
+creating a CRA and the benefits of the tool, with the emphasis on making the information as easy to understand as possible. There
+was also a focus on the public outreach specific to the current proposal.
+           Board member Lopez inquired as to the urgency of this matter and why it must be acted upon tonight. Chair Choberka
+indicated a public hearing has been noticed for tonight; if action is not taken tonight and another public hearing is to be held, the
+City would need to re-notice the hearing. Board Administrator Eller-Smith added the Board could consider an action to continue
+the public hearing or table action on the proposed resolution to a date certain and re-noticing the public hearing would not be
+necessary. Board member Lopez asked for an explanation from City Administration regarding the urgency of the matter; he asked
+if they are comfortable with the Board considering a motion to table action on the matter. Mr. Cooper stated that if the Board
+tables action, he would be happy to reengage with the public regarding the proposal; the State’s process for creating a CRA is very
+prescriptive and Agency staff has followed all requirements and addressed all the comments that have been provided during the
+public comment period. Chair Choberka asked how long it would take to schedule a meeting with the Airport Advisory
+Committee. Mr. Cooper stated he is unsure; he noted such a meeting would be a single event and he would not present any new or
+different information; he expects the conversation with the public or the Committee would be the same as it has been, though there
+may be a different understanding. Board member Lopez stated he is interested in honoring the individuals who took the time to
+speak tonight, and he would prefer more than just a meeting with the Committee to address their concerns. He is unsure whether
+the discussion that has taken place since the closure of the public hearing has helped to address their concerns or answer their
+questions and while he feels comfortable approving the CRA, he is uncomfortable that it is not possible to continue public
+dialogue. He added that approving the CRA without a recommendation from the Advisory Committee feels ‘weird’ to him. Mr.
+Cooper stated that he can read into the record an email from the Chair of the Advisory Committee that indicates they have no
+concerns. Chair Choberka clarified Mr. McKenney is not a member of the Advisory Committee any longer. Mr. Cooper stated that
+is correct.
+           Chief Administrative Officer Johnson stated Administration encourages the Board to take action tonight; a lot of work
+has been done to this point to get the Airport ready for development. The City has also been engaged with the different taxing
+entities for a lengthy period of time; this is not an action that is being recommended after just a few weeks of discussion and
+effort. It is his guess that the Board would table the proposal tonight but would hear the same concerns and feedback in a few
+weeks when they choose to take action on the matter. Board member Lopez stated he would prefer to engage with the individuals
+that spoke tonight. Board member Hyer stated he agrees with Mr. Johnson that the concerns that have been shared will still be
+present in two weeks. He added that some of the information shared during the public hearing has ‘clouded’ the issue and made
+some believe that the Board is entering into uncharted territory and that they do not know what they are doing. He stated that is
+not the case and, while he sympathizes with Board member Lopez’s position, he is comfortable taking action tonight. Board
+member Blair agreed and stated he appreciates Mr. Cooper’s willingness to meet with people who are concerned and believes he
+will still agree to meet with them even if the Board takes action tonight. Chair Choberka indicated she is comfortable proceeding
+tonight as well. Vice Chair Richey agreed, but noted he would like Mr. Cooper to forward the email from the Airport Advisory
+Committee Chair to the Board.
+           Board member White asked if the City has made contact with Roy Mayor Dandoy. Mr. Cooper answered yes and noted
+the City is in regular conversation with Mayor Dandoy. Board member Hyer stated that Mayor Dandoy is a member of the Airport
+Advisory Committee, and he is aware of and comfortable with this proposal. He added that the governing bodies of the other
+taxing entities have also received this same presentation and have approved their interlocal agreement; he would hope that would
+carry some weight with people who are concerned about this issue.
+           Board member Lopez stated he wished there was an opportunity for the people who have shared concerns to provide
+additional feedback following the Board’s deliberations; it is very disrespectful that they are not allowed to follow-up before a
+vote is taken.
+
+         BOARD MEMBER HYER MOVED RESOLUTION 2023-11 BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER BLAIR, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, WHITE, VICE CHAIR
+RICHEY, AND CHAIR CHOBERKA. VOTING NO – BOARD MEMBER LOPEZ. Board member Nadolski was not
+present when this vote was taken.
+         Board member Lopez reiterated his previous comments about his disappointment regarding limited interaction with the
+public regarding this matter; he feels this is a good project, but he is disappointed with the public interaction tonight.
+         BOARD MEMBER BLAIR MOVED RESOLUTION 2023-12 BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER HYER, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, WHITE, VICE CHAIR
+RICHEY, AND CHAIR CHOBERKA. VOTING NO – BOARD MEMBER LOPEZ. Board member Nadolski was not
+present when this vote was taken.
+         BOARD MEMBER HYER MOVED RESOLUTION 2023-13 BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY VICE CHAIR RICHEY, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, WHITE, VICE CHAIR
+RICHEY, AND CHAIR CHOBERKA. VOTING NO – BOARD MEMBER LOPEZ. Board member Nadolski was not
+present when this vote was taken.
+         VICE CHAIR RICHEY MOVED RESOLUTION 2023-14 BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER BLAIR, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, WHITE, VICE CHAIR
+RICHEY, AND CHAIR CHOBERKA. VOTING NO – BOARD MEMBER LOPEZ. Board member Nadolski was not
+present when this vote was taken.
+         BOARD MEMBER HYER MOVED RESOLUTION 2023-15 BE ADOPTED, AND THE CHAIR BE
+AUTHORIZED TO SIGN THE SAME. MOTION WAS SECONDED BY BOARD MEMBER BLAIR, WITH THE
+FOLLOWING ROLL CALL VOTE: VOTING AYE – BOARD MEMBERS BLAIR, HYER, WHITE, VICE CHAIR
+RICHEY, AND CHAIR CHOBERKA. VOTING NO – BOARD MEMBER LOPEZ. Board member Nadolski was not
+present when this vote was taken.
+
+Public Comments
+          Travis Pate referenced an item on tonight’s City Council meeting agenda dealing with the budget; the Mayor’s proposed
+budget includes $750,000 to pay a consultant to rewrite the City’s General Plan, yet there has been no accountability for the
+current General Plan. He suggested approval of the tentative budget, but that a message be sent to Administration that the Council
+will demand accountability for the General Plan before rewriting it. He then expressed his disappointment regarding the Board’s
+action to approve the Airport CRA; the work was only halfway completed by Administration before a proposal was made to the
+Board and he views that as being disrespectful to the Board and the public.
+          Angel Castillo also expressed her concern about the Board’s approval of the Airport CRA; she specifically cited the need
+for due diligence, understanding of the fiscal impact, and completion of a feasibility study. The State Auditor has asked for those
+steps to be completed for all redevelopment areas. The Economic Development Director of Weber County also had concerns
+about the CRA and is currently changing Weber County’s rules to require due diligence, fiscal impact, and feasibility study for
+these types of projects in the future. The Interlocal Agreement with Weber County was approved before the new Director was
+hired and the School District approved their Interlocal Agreement because the County approved theirs. She reiterated she is not
+opposed to economic development or CRAs, but she is concerned the Board is moving forward without all voices represented. She
+finds it interesting that Mr. Cooper did not tell the Board how Roy Mayor Dandoy felt and simply stated that the City is in
+discussion with Roy City. She reiterated the Board must perform its due diligence before giving away the City’s money.
+          Teresa Bramwell also compared the Airport CRA process to a similar RDA process concerning her neighborhood in the
+area of 25th Street and Monroe Boulevard; eminent domain was on the table for nine blocks of single-family homes in the area, but
+those property owners pursued litigation regarding the matter. She stated that absolutely nothing has happened since then and the
+area is now a crime infested ghetto. She is worried about what will happen at the Airport because she is worried that when the
+Agency ‘gets its hands on property’, it becomes a ‘cash cow dump’ where no one wants to be. This is what her neighborhood has
+become, and she cannot see how it will be transformed into anything functional that will generate revenue. She would love to hear
+Mr. Cooper’s plans for her neighborhood and to have some input. She has been attending City meetings for nearly eight months
+and has not heard any positive discussion about the RDA project near her property.
+          Austin Raymond stated he is concerned about the transparency and perception of integrity of Ogden City government. He
+finds it hard to trust what the Police Department is doing given the recent attention on the point system for traffic citations used to
+rank officers. It appears something disingenuous is occurring to allow the City to avoid paying officers more money and he would
+like to see more work on the part of the City to improve the perception of integrity and transparency of City dealings.
+          Laura Lewis thanked Board member Lopez for his comments and for expressing how the public feels about the Board’s
+refusal to listen to the public. The Board may be confident in what they are doing because they have much more information than
+the public has, but it would not have hurt to delay the matter for two weeks to allow Mr. Cooper to meet with property owners to
+give them some confidence in the future of their property. She leaves each meeting where the Board votes on something
+significant, feeling disappointed in the failure to listen to the public. People take time to show up because they care what is
+happening in their community and they would like for someone to start listening to them.
+          Grant Brookland communicated his concerns about speeding on 29th Street and in City neighborhoods in general. He has
+shared his concerns with several City employees and Department Directors, but he would like to thank Board member Nadolski
+for returning an email within days and for also following up with a phone call and a personal visit to the area he is concerned
+about. He also appreciates the City installing a stop sign at the bottom of the hill on Taylor Avenue and 29th Street, but it has not
+made much of a difference unfortunately. The reason he attended tonight’s meeting is because Ogden High is holding a track
+camp at the school, and they are in danger due to the high rates of speed on the roads surrounding the school. There are also
+potholes on the street and the City has placed traffic cones around them and people are swerving around them and almost hitting
+pedestrians, pets, and parked cars. This has been the case for the past two months and something must be done. As a resident it is
+disheartening to see this activity in his neighborhood; he is disappointed that the Public Services Department and Police
+Department have not responded to his input, but he is trying to give them the benefit of the doubt. He is a trained urban planner
+with 13 years’ experience, and he understands how cities are designed and should function. It is concerning to see how the City
+has allowed its streets to be overtaken by speeding motorists and he fears that something will eventually happen. He suggested
+there are very easy solutions, and he would be happy to meet with any City official to walk them through his ideas.
+          John Thompson addressed the Mayor’s proposed budget; he is asking for $5,000 for the John Moses Browning Firearms
+Museum and he has submitted a formal request to the City for that purpose. He apologized for failing to get with City
+Administration to get his request included in the Mayor’s proposed budget. He does not want to detract from the Merci Car
+project, but Mr. Browning has more significance in Utah and to the world than the Merci Car. He noted the Car is being called a
+railroad car, but it never travelled a foot on a United States railroad line. However, Mr. Browning’s contributions are very
+significant and providing adequate funding to the museum is more important and should have greater prominence in the budget.
+          Rene Felker stated he is a hangar owner at the Ogden Airport; he does not disagree with the CRA creation, but the tax
+basis for the project area was taken from 2020 and values have actually depreciated since then. He stated that there will be no
+earned income to generate tax increment for several years and he does not see that changing unless the City makes drastic changes
+to Title Eight of the Ogden City Code.
+          Heath Satow addressed Mr. Cooper’s statement that his comments about indirect taxes are a falsehood. He stated he
+resents the remarks and regrets that Board member Hyer felt the need to represent some of the public’s comments as clouding the
+issue. He stated that those that spoke tonight live in Ogden, they are impacted by these actions, they are not paid to attend
+meetings, and their concerns are not baseless. He does not know if there is a lack of understanding, but it is a true statement that
+tax increment financing (TIF) is not a ‘free lunch’; it is a very useful tool and is great for helping a blighted property, but it is not
+the only tool the City has and the properties at the Airport are not even remotely blighted. The City will pay for the TIF packages
+through greater strain on infrastructure and schools while waiting for increased revenue associated with increased value several
+years into the future. Residents will foot the bill to pay for infrastructure repairs or new schools due to the strain that is being put
+on them by the CRA; he would like for the Board to at least ask for an explanation of the downsides of a CRA project.
+          Ed McKenney thanked Board member Lopez and indicated that more people like him are needed on the Board. He also
+addressed the contracts between the City and hangar owners/lessees at the Airport, which are very problematic and causing a great
+deal of stress for the parties to the agreement. He asked when those individuals will have the opportunity to meet with City
+Administration to address these critical issues.
+
+Executive Director Comments
+          In Executive Director Caldwell’s absence, Chief Administrative Officer Johnson addressed Ms. Bramwell and clarified
+that there is no CRA or RDA project area near her property; one was proposed, but it was withdrawn and never executed. He then
+noted that he finds it interesting that today the City was encouraged to increase police enforcement, but a few weeks ago was told
+that officers are being forced to write traffic tickets. He stated the City is trying its best to perform adequate enforcement with the
+police force it has; the City could add 100 more police officers and still would not be able to perform enforcement on all streets
+where children live. Today, officers were tasked with responding to a police officer involved shooting and he would like to pay
+tribute to them and offer his thoughts, though he does not have complete information about the event. He will speak to the Police
+Department about requests for increased enforcement on 29th Street and the roads around Ogden High School. He noted he agrees
+that having cones around potholes for months is unacceptable and will have someone dispatched to the area tomorrow. He stated
+the City is working hard on pothole repairs given the damage caused over the past winter and he hopes people will do their best to
+avoid potholes and have patience with the City as they work to repair them. He then noted that he appreciated the dialogue
+regarding the Airport CRA; one thing that is lost in the discussion, however, is that if redevelopment is not pursued, there will be
+no new property tax revenue for the taxing entities in the community. All taxing entities realize the benefits created by
+redevelopment areas and that is while they are willing to invest tax increment to make the projects successful. He stated the City
+has seen a positive impact due to redevelopment activities and the City has improved dramatically in the past 20 years; the amount
+of change he has seen in the City since he was initially elected to the City Council is remarkable and most of that positive change
+is due to investment into the City. There have been many elected officials over the years that have contributed to the growth of the
+City.
+          Chair Choberka noted that Executive Director Caldwell is visiting with the injured police officer in the hospital. Mr.
+Johnson stated that is correct and that is where he should be tonight.
+
+Board member Comments
+          Board member Lopez stated he agrees with Mr. Johnson’s comments about the positive impact of redevelopment
+activities and tools like the CRA.
+          Boad member Hyer discussed the length of the process to create something like a CRA; the Board gets a great deal of
+information about the project over the course of several months, but the public may not have access to that same information and
+that is why they feel that these matters are being rushed. This is a flaw in the process, but not with the end product. He wished
+there was a way to have more input earlier and he wondered if the Board could work on an amendment to the process to address
+the concerns that have been raised tonight. He is happy that Mr. Cooper is willing to meet with the public and property owners
+that will be impacted by the CRA. Board member Lopez thanked Board member Hyer for acknowledging the flaw in the process;
+he feels the Board is at a disadvantage given that they are part time elected officials and their interaction with the public on these
+types of issues is limited. It can be hard to increase interaction, but it is not impossible. He wonders how hard the City’s elected
+leaders have tried to improve processes, however, and that is disappointing to him.
+          Board member White referenced Angel Castillo’s comments about the audit report concerning the City’s redevelopment
+activities; she would challenge anyone to read the report and draw the conclusion that the City is not performing as it should be.
+Actions are transparent and the City works hard to explain very difficult processes to the Board and to the public; reporting is
+complete and accurate, and she believes the City is abiding by best practices. She does not agree with the statements that were
+made about the audit report and would love to have a conversation with anyone about that issue.
+          Vice Chair Richey stated he is disappointed that some people feel they were not heard simply because the vote on the
+CRA did not go how they wanted it to. Very rarely does something appear on a meeting agenda without having first been
+discussed in a work session, which typically includes a full presentation and review of detailed information. Those meetings and
+the supporting materials are public, and it may be that people are unaware of that step in the process or the ability to view
+recordings and listen to audio of those meetings. Chair Choberka agreed; some people see a public hearing advertised on a
+meeting agenda and they think that is the only opportunity to give input or be involved; however, there are earlier opportunities to
+provide input and it is necessary to communicate those opportunities to the public. She stated she is always happy to meet with
+and discuss these issues with any member of the public at any time.
+
+
+     There being no further business to come before the Agency, VICE CHAIR RICHEY MOVED THE MEETING
+ADJOURN AT 8:47 P.M. MOTION WAS SECONDED BY BOARD MEMBER HYER, ALL VOTING AYE. Board
+member Nadolski was not present when this vote was taken.
+
+
+
+                                                            ________________________________________
+                                                            JASON GOULD
+                                                            DEPUTY CITY RECORDER
+____________________________________________
+ANGELA CHOBERKA, CHAIR
+
+APPROVED: February 13, 2024
+

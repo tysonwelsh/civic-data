@@ -1,0 +1,357 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05222023-693
+> Meeting date: 2023-05-22
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2023-05-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05222023-693
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                        Minutes            of the
+                                                                                 Millcreek           City        Council
+                                                                                           May       22, 2023
+                                                                                              5:30        p.m.
+                                                                                        Work          Meeting
+                                                                                              7:00        p.m.
+                                                                                       Regular            Meeting
+
+
+
+
+The City       Council       of Millcreek,            Utah, met in a public          work     meeting            and regular       meeting      on May
+22, 2023,       at City Hall,         located        at 3330 S. 1300 E., Millcreek,                  UT 84106.        The meeting            was live
+streamed       via the City's             website      with     an option    for online     public        comment.
+
+
+PRESENT:
+
+
+Council      Members                                                                City     Staff
+Jeff Silvestrini,          Mayor                                                    Francis      Lilly,      Assistant       City Manager
+Silvia    Catten,       District      1                                             Elyse     Sullivan,          City Recorder
+Thom      DeSirant,        District           2                                     Mike     Winder,         City    Manager
+Cheri     Jackson,       District         3                                         John Brems,             City Attorney
+Bev Uipi,       District      4 (electronic)                                        Kurt     Hansen,        Facilities       Director
+                                                                                    Rita Lund,         Communications                Director
+                                                                                    John Miller,           Public     Works       Director
+                                                                                    Lisa Dudley,            HR-Finance           Director
+
+
+Attendees:        Richard          Hansen,          Chief     Steve DeBry,     Lieutenant         Petty-Brown,             Officer      Schroeder,
+Sergeant       Allen,      Maddie         Townsend
+
+
+WORK         MEETING                - 5:30 p.m.
+TIME       COMMENCED                          - 5:30 p.m.
+
+
+Mayor      Silvestrini       called           the meeting      to order.    He noted       Council        Member         Uipi    was participating
+online.
+
+
+1. English       Skill     Learning               Center      Graduation      Recognition
+   Maddie        Townsend,            Adult        Emerging       Readers     Program       Coordinator,            said the English          Skills
+   Learning        Center      strengthens            and integrates        communities          by breaking          language       and cultural
+   barriers.     They pair members                    of communities         with   English       language          learners.      The Readers
+   Program        targets      instruction           for those who have 6 or fewer                years of formal               education.      The
+   class had been attending                       for approximately         14 months.
+
+
+   Townsend          read the names                 of students     and they introduced           themselves.            Townsend         was
+   impressed        by the students                and acknowledged           the teacher        and volunteer             classroom      assistant.
+
+
+3. Millcreek        Flag     Discussion
+Mnlcreek         City     Council         Meeting        Minutes                                              22 May           2023         Page 2 of 6
+
+
+
+   Mike       Winder       showed         the council        other cities'        flags.     He showed          the council            a version      of one
+   the last year's          Youth      Council        created       that was similar           to the city's         new logo.          The council
+   reviewed        some prior         flag designs           created     by consultants.            The council          did not like the shape of
+   the creek in the Youth                 Council's        flag. Council          Member          Catten      felt the water            wheel      was too
+   thick      and the mountains              were too small.           Rita Lund           said the mountains              were the four peaks,
+   representing           the four community               councils.      Mayor          Silvestrini        noted     the four peaks did not look
+   like Millcreek.           Council        Member         Catten      wanted      to redesign            the flag herself.
+
+
+2. Memorials             in Parks      Policy        Discussion
+   John Brems            presented        a sample       policy      for memorials             in city parks.         He said he limited
+   donations       to park improvements                    funded      by private          donations.        Winder       said the improvement
+   would       be installed         by a contractor.          Council      Member            Jackson        asked if the donor               would      find the
+   contractor.          Brems      said it was flexible.             Council      Member          DeSirant          asked about the criteria
+   section.      Brems       presented         each section          on purpose,           limitations,       process,         criteria,     and cost.
+   Council        Member          Jackson      noted all the parks were different                         sizes and wondered                 if there should
+   be a cap per acre. Council                   Member         Catten     asked about county                  parks     in the city. Brems                said
+   they could          be added. Mayor               Silvestrini      brought      up content          restrictions.       He felt donations
+   should      be consistent          with     the theme           of the park. Winder              brought      up not limiting              content      on the
+   paver program             at Millcreek          Common.           Council      Member          Catten      said there should               be
+   restrictions         on vulgar,        violent,     and profane         content.         Council       Member         DeSirant           brought       up
+   having       a limited       period      of time for installation.              Council        Member         Jackson          did not want to put a
+   lifetime      on functional            equipment        or to track its expiration                  date. Mayor         Silvestrini          wanted         the
+   city to endeavor             to notify      the donor        if it needed to relocate,                 decornmission,              or remove       the park
+   improvements,             but not have an obligation                  to.
+
+
+4. Staff      Reports
+   Mike       Winder       reported       that Millcreek            Common         hosted       its first wedding              reception       the prior
+   weekend        for roller        skating.       Council      Member          Catten      pointed        out that decorations               were left
+   over the following               day. Winder          noted Gannon             Nawojczyk,              Community            Life    Manager,         went to
+   the World        Cup of Climbing                  in Salt Lake       City.     USA       Climbing         is now headquartered                   in Utah,
+   the first     summer           Olympic      sport to be headquartered                     in Utah.      USA       Climbing          would       like to
+   partner      with     the city for after parties                at Millcreek         Common.           He announced                VentureOut!
+   would       begin      June 2nd. The city was working                        with     Granite       School       District       on utilizing       the
+   Millcreek       Elementary             School       site. Mayor       Silvestrini         said the same thing                with       the old Calvin
+   Smith       Library      with     the county.        Winder        said the Westerly,               next to the new city hall, had been
+   permitted.       He noted the permit                 fees were $625,000.
+
+
+   Mayor       Silvestrini         said he was recently              in Washington,             D.C. with        the Utah League                of Cities
+   and Towns            to meet with         the executive           leadership        of the National           League          of Cities.      They
+   talked      about messaging              with     their housing        accelerator          program        to make          sure they were not
+   undercutting           what was trying             to be accomplished                at the Utah         Legislature.          He met with
+   Congressman             Blake      Moore        and Congressman                Stewart,       and they were interested                    in attending
+   the Millcreek           City    Hall     grand opening.            The House            Appropriations            Cornrnittee           approved        the
+   appropriation           sponsored         by Congressman              Curtis        for a $2.4 million             grant to Millcreek              to begin
+   the preliminary           work      with     respect      to a debris        retention       structure       and culverts            in Neff's
+   Canyon.        Millcreek         received         a letter from      FEMA           indicating         the request      for a map revision
+   would       be approved.          That could          eliminate       the floodplain           with      the proposed           structure       that
+   would       be built     there. FEMA              had overestimated             the amount             of water     coming          out of the debris
+Millcreek         City     Couhcil        Meeting        Minutes                                                 22 May      2023        Page 3 of 6
+
+
+
+   flow.     Millcreek         got letters       of support      from      all six members                of congress       for that Brick         Grant.
+   He reported            there was flooding             with   Neffs       Creek jumping                 the bank in the Mt. Olympus
+   neighborhood.              There      was not any actual flood                  damage         as the sandbagging            had been effective.
+   The flooding             appeared       to be caused by someone                    moving            the logs and rocks         at the point      of
+   diversion.        Council         Member         Jackson     wondered            if the diversion           should     be a permanent
+   stmcture.        Mayor        Silvestrini        said the Forest        Service         would         not allow      that. He said there was
+   another        diversion       point     in Millcreek        Canyon.          He said residents              had expressed           concern     about
+   potholes.       The city had to wait for improved                        weather           to fill    them, however         the crews were
+   being     diligent        about flooding           and not filling           potholes       yet.
+
+
+   Council        Member         Jackson        gave the Treasurer's               Report:
+    a As of May             22, 2023, the balance               of the Series 2021 Bond                    Construction         Fund is:
+        $9,873,645.76.            (City     Hall    construction)
+    a As of May             22, 2023, Millcreek's               PTIF     account         balance         is: $45,944,504.94.
+    *   As of May           22, 2023,       FY23      property      tax has been received                   in the amount          of
+        $12,201,557.58.                 Lastyearatthissametime,Millcreekhadreceived$ll,588,869.59.
+    a As of May             22, 2023,       69.48%        of FY23        sales tax has been received                    in the amount         of
+        $10,075,179.30. Last year at this same time, Millcreek                                          had received        $9,460,412.97.
+
+
+   Lisa Dudley            said the council          should      not be alarmed             by the percentage              of sales tax because             it
+   was always            two months         behind.
+
+
+5. Discussion            of Agenda         Items,       Correspondence,               and/or          Future      Agenda       Items
+   There     was none.
+
+
+Council      Member           DeSirant          moved       to adjourn           the work          meeting        at 6:23 p.m.          Council
+Member        Catten         seconded.          Mayor      Silvestrini          called     for the vote.          Council      Member         Catten
+voted     yes, Council          Member           DeSirant        voted     yes, Council                 Member       Jackson       voted    yes,
+Council      Member           Uipi      voted      yes, and Mayor               Silvestrini        voted       yes. The motion            passed
+unanimously.
+
+
+
+
+REGULAR             MEETING               - 7:00 p.m.
+TIME       COMMENCED:                      7:01 p.m.
+
+
+1. Welcome,         Introduction             and Preliminary               Matters
+           1.1 Pledge          of Allegiance
+           Mayor         Silvestrini      called    the meeting          to order        and led the pledge             of allegiance.       He
+           acknowledged                that Council      Member          Uipi     was participating              electronically.
+
+
+           1.2 Public         Comment
+           There    were no comments.
+
+
+          1.3 Unified          Police      Department            (TJPD) Mfflcreek                 Precinct        Officer      of the Month          for
+           Aprn     2023 - Officer              Wyatt      Marshall
+Millcreek          City    Council        Meeting         Minutes                                                  22 May        2023      Page 4 of 6
+
+
+
+            Chief      Steve DeBry          announced             Officer       Wyatt       Marshall       (not present)           as Officer       of the
+            Month         for April      2023.     Officer        Marshall        made an arrest and seizure                     wich      included        drugs
+            and a loaded           handgun.        He also performed                    a traffic     stop and arrested           the driver       which
+            resulted       in a drug seizure.             He arrested         a homeless             man with       warrants        in an illegal         camp
+            who had a large amount                      of methamphetamines.                     He again arrested            another      individual        in
+            the same area who had warrants                          out. The Citizens                Advisory       Board        honored        Officer
+            Marshall.
+
+
+            1.4 Alcohol           Education/Interdiction                      for Youth             Presentation
+            Chief      DeBry       said the UPD            Millcreek          Precinct        purchased          a van, that they converted                 into
+            an ice cream truck,             with        alcohol     tax funds that the state of Utah distributes                             to pay for drug
+            and alcohol           education        and enforcement.                His department              wanted      to be more proactive
+            with      the money.         No tax dollars            from     Millcreek           were used on this project,                just state
+            alcohol       money.
+
+
+            Lt. Petty Brown              said she had been working                        on the project         for 6-8 months.           This was an
+            attempt        to reach out to the community,                       not just        enforcement.           Officer     Schroeder         pitched
+            the idea from          one conducted               in Boston,         MA.       Detective       Jared Nichols           designed        the truck.
+            They       researched        a program          to talk to kids             about not using          drugs wile          handing        out ice
+            cream.        Sgt. Allen      wanted         to build     tnist     in the cornrnunity.              UPD      worked         with    evidence-
+            based programs              Positive        Action      and Parents            Empowered            to develop        the ice cream van
+            program         and would         be using         some of their            teaching        methods.       Mayor       Silvestrini
+            commended             the idea of engaging               with       the community             in a different          way.
+
+
+Council       Member            Jackson       moved         to recess the meeting                     at 7:14 p.m.        Council         Member
+Catten      seconded.           Mayor       Silvestrini           called    for     the vote.         Councn       Member           Catten        voted     yes,
+Council       Member            DeSirant         voted      yes, Council            Member            Jackson       voted        yes, Council        Member
+Uipi   voted       yes, and Mayor                Silvestrini        voted       yes. The motion                passed      unanimously
+
+
+Council       Member            Jackson       moved         to reconvene                the meeting        at 7:25 p.m.            Council        Member
+DeSirant        seconded.          Mayor         Silvestrini         called       for    the vote.       Council        Member           Catten      voted
+yes, Council           Member           DeSirant         voted      yes, Council             Member         Jackson         voted       yes, Council
+Member         Uipi       voted    yes, and Mayor                 Silvestrini           voted       yes. The motion           passed       unanimously.
+
+
+            Mayor         Silvestrini      said {JPD outfitted                a van as an ice cream truck                   to take to community
+            events to educate kids on saying                        no to drugs.            This would          help advance            community/police
+            relationships.          Council       Member           Uipi     was excited             about the evidence            based curriculum
+            that would          be used.
+
+
+2. Business           Matters
+            2.1 Discussion              and Consideration                  of Resolution              23-21,     Increasing         the Storm         Sewer
+            Utility       Fee by 4.6%            for    Fiscal     Year       2023-24           and then        2.3%     Annually          Thereafter
+            Mayor         Silvestrini      said the council           discussed            this matter         in a couple       of work        meetings.
+            The council           considered           three different          options.        Given     the amount         of the increase          and the
+            effect     on household,          it made sense to do the 4.6%                           increase.
+
+
+            Mayor         Silvestrini      asked for public               comment.          There      was none.
+Millcreek        City      Council        Meeting        Minutes                                                  22 May       2023       Page 5 of 6
+
+
+
+Council       Member           Jackson        moved        to adopt           Resolution          23-21,      Increasing          the Storm          Sewer
+Utility     Fee by 4.6%             for Fiscal       Year      2023-24          and then          2.3%      Annually        Thereafter.             Council
+Member         Catten         seconded.
+Mayor       Silvestrini       said the increase            was contemplated                when       the council         adopted      the fee, and it
+was needed          to help keep up with                inflation.      In order to fix problems                   in Millcreek's            stormwater
+system      and make improvements                     to it, this was significant,                  and the only way to get a handle                        on
+the system.
+The Recorder              called     for the vote.         Council        Member            Catten         voted      yes, Council           Member
+DeSirant        voted      yes, Council            Member            Jackson       voted        yes, Council          Member          Uipi     voted       yes,
+and Mayor             Silvestrini       voted      yes. The motion               passed          unanimously.
+
+
+3. Reports
+            3.1 Mayor's             Report
+            Mayor        Silvestrini       gave his report            during      the work         meeting.
+
+
+            3.2 City       Council         Member         Reports
+            Council        Member         DeSirant       reported        meeting         with     the Wasatch          Front      Waste       and
+            Recycling         District.      They     discussed         putting      signs on top of the recycle                   cans that illustrated
+            what      could    and could        not be recycled.
+
+
+            3.3 Treasurer's               Report
+            Council       Member          Jackson       gave the report            during        the work        meeting.
+
+
+            3.4 Staff       Reports
+            There      were none.
+
+
+            3.5 Unified         Police       Department              Report
+            Chief      Steve DeBry           reported       the April         2023 crime           statistics.     There     were 2,846         total calls,
+            917 total cases, 105 citations,                   and 34 booking               arrests.       He noted that the number                   of
+            citations      were down          in April      because           the motor      unit was in mandatory                   motorcycle           school
+            for two and a half weeks.                   In April,      there were 38 assaults,                   14 burglaries,        27 drug
+            offenses,       86 family        offenses,       88 larcenies,          I robbery,          6 sex offenses,           and 20 stolen
+            vehicles.      He presented            the "/2 mile        radius     statistics       from     2022 and 2023 where                 the
+            temporary         overflow        shelter     was on 3300 S. There                     were 22 calls for service                 at the
+            temporary         overflow        shelter     during       the month         of April.         Unified       Police    Department             joined
+            Unified       Fire Authority           and other agencies              for Evergreen              Jr. High's       Vehicle        Day. UPD
+            brought       members          of the Motor         Unit     and a rescue vehicle,                   known      as an MRAP,             which
+            was a popular            attraction.     During          the event,      Sergeant         Alien       was challenged             to a push up
+            contest      by a student.        Sgt. Allen        easily        dominated           the competition,           scaring      away any
+            further      challengers.        Millcreek        c.o.p.          detectives        participated         in the Millcreek          Promise
+            Program's         event, held at the Bud Bailey                      Apartments,            3983 S. West Temple.                  Multiple
+            organizations           and businesses           gathered          to meet with          residents        of the Bud Bailey
+            coinmunity,         who learned          about the programs                  available         to them.      Millcreek        c.o.p.
+            detectives        and U.P.D.        cadets joined           with      Millcreek         to celebrate         Earth     Day on April            22,
+           2023,       at Millcreek        Cornrnon.         Millcreek          c.o.p.      detectives           gathered      at Millcreek's          Recycle
+           Day to collect           unwanted         prescription         medication             as part of the D.E.A.'s               Dmg      Take Back
+           Day. Detectives             collected        68 pounds         of prescriptions.               Millcreek       c.o.p.      located       multiple
+           incidents        of graffiti      in Millcreek            during     April.     All     cases of graffiti         were investigated               and
+Millcreek           City     Council        Meeting         Minutes                                              22 May       2023       Page 6 of 6
+
+
+
+            cleaned         up by U.P.D.            Graffiti     Removal.         In the month             of April,     Millcreek      officers
+            responded             to 60 mental        health     calls, 25 transient             calls,     89 traffic     accidents,     and 24 hit and
+            runs.
+
+
+
+            Council          Member         Jackson         said there had been overnight                     campers      in vans at Canyon               Rim
+            Park. Chief            DeBry       said he would           follow      up. Mayor         Silvestrini         conveyed       appreciation         to
+            the officers           that served the temporary                 homeless           shelter.
+
+
+4. Consent           Agenda
+            4.1 Approval             of May         8, 2023 Work          Meeting         and Regular           Meeting      Minutes
+
+
+Council       Member              Jackson          moved       to approve         minutes        for the work            and regular          meetings       for
+May       8, 2023.         Council         Member        DeSirant         seconded.          Mayor         Silvestrini      called      for the vote.
+Council       Member              Catten      voted      yes, Council            Member          DeSirant        voted      yes, Council        Member
+Jackson        voted        yes, Council            Member        Uipi     voted      yes, and Mayor               Silvestrini        voted    yes. The
+motion       passed         unanimously.
+
+
+5. New      Items          for    Subsequent          Consideration
+There      were none.
+
+
+6. Calendar            of Upcoming                 Events
+      @     East Mill            Creek     Community           Council      Mtg.,      6/1/23,      6:30 p.m.
+      *     Mt.      Olympus          Community             Council      Mtg.,     6/5/23,       6:00 p.m.
+      *     Millcreek            Community           Council      Mtg.,     6/6/23,       6:30 p.m.
+      *     Canyon           Rim     Citizens       Association          Mtg.,     6/7/23,      7:00 p.m.
+      *     Historic         Preservation           Corn+nission         Mtg.,     6/8/23,       6:00 p.m.
+      @     City      Council        Mtg.     6/12/23        7:00 p.m.
+
+
+Council      Member              DeSirant      noted he would             be absent for the June                12'h meeting.
+
+AT)JOURNED:                      Council      Member           DeSirant          moved       to adjourn         the meeting          at 7:43 p.m.
+Council       Member              Jackson          seconded.      Mayor          Silvestrini       called       for the vote.        Council       Member
+Catten      voted          yes, Council            Member       DeSirant          voted      yes, Council          Member        Jackson           voted    yes,
+Council       Member              Uipi     voted     yes, and Mayor               Silvestrini       voted       yes. The motion           passed
+unanimously.
+
+
+
+                                      APPROVED:                                                                          Date
+                                                                                                                                     ,,' ( 2-2o '23
+                                                                 Jeff Silvest-rini,       Mayor
+
+
+
+                                         Attest:                Elys                   , City Recorder
+

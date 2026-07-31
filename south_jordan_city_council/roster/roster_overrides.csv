@@ -1,0 +1,9 @@
+# roster_overrides.csv — hand-correction layer for the South Jordan council roster.
+# Applied LAST by roster_lib.apply_overrides(); a matching row WINS ties (overwrites the
+# generated value) and appends "override:roster_overrides.csv" to that row's sources.
+# Key = (seat_id, person_key, start_date). Only non-empty cells override.
+# Columns must be a subset of council_terms.csv's schema:
+#   city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,
+#   election_year,first_vote,last_vote,sources,confidence,note
+# Currently 0 data rows — the reconciliation is clean without hand corrections.
+seat_id,person_key,start_date,person_name,end_date,start_event,end_event,confidence,first_vote,last_vote,sources,note

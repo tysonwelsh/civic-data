@@ -1,0 +1,555 @@
+---
+title: Alta Town Council — Regular Meeting 2025-12-10
+date: 2025-12-10
+meeting_type: regular
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1377935.pdf
+source_file: 2025-12-10 Alta Town Council Meeting Minutes APPROVED.pdf
+pmn_file_id: 1377935
+format: ocr
+---
+
+MINUTES
+; ALTA TOWN COUNCIL MEETING
+WORK SESSION and PUBLIC HEARING
+Wednesday, December 10, 2025, 3:00 PM
+. Alta Community Center, 10351 E. Highway 210, Alta, Utah ,
+PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil
+Councilmember John Byrne
+Councilmember Elise Morgan (attended virtually)
+STAFF PRESENT: Chris Cawley, Town Manager
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk
+Molly Austin, Assistant Town Manager
+Brooke Boone, Deputy Town Clerk
+Craig Heimark, Treasurer
+ALSO PRESENT: Cameron Platt, Legal Counsel {attended virtually)
+NOT PRESENT: Councilmember Dan Schilling
+WORK SESSION: 3:00 PM .
+1. Call the work session to order
+00:00:00
+Mayor Bourke called the work session of December 10, 2025 to order.
+
+2. Presentation and discussion on the water and sewer master plans
+|
+|
+|
+
+00:00:30 |
+
+Chris Cawley provided background on the Town’s work with Hansen, Allen, Luce over the prior 18
+
+months on drinking water and sanitary sewer master planning and capital improvement planning,
+
+noting that recommendations related to fire flows and capital projects had been reviewed with the fire |
+_ department and incorporated into the Town’s capital planning and budget discussions. Cawley
+
+explained that staff and consultants had recently finalized the work and invited the consultants to
+
+present their findings, particularly regarding long-term water source capacity constraints as visitation
+
+and system connections increase, Cawley introduced Delmas Johnson and Easton Hopkins, the
+
+consultants on the project,
+
+Alta Town Council Meeting
+
+December 10, 2025 |
+
+Johnson acknowledged the informal nature of the work session and outlined the purpose of the master
+
+plan as providing 20-year guidance to ensure sustainable delivery of adequate drinking water quantity
+
+and quality at reasonable cost, consistent with state requirements. Johnson and Hopkins described the
+
+methodology used, including review of water sources, storage, distribution, seasonal demand,
+
+emergency and fire flow needs, use of system data, and development of hydraulic models, The
+
+consultants reviewed the system configuration, pressure zones, and level-of-service assumptions,
+
+including equivalent residential connections (ERCs), and explained that Alta’s water use per ERC was
+comparatively low due in part to the lack of permitted irrigation. Discussion addressed current and .
+| projected connections limited by contractual water supply, conservation practices, remaining peak-day
+
+capacity, and the importance of managing future demand, Hopkins and Johnson presented findings on
+
+storage capacity, noting that while equalization storage was sufficient, existing fire flow storage was
+deficient given the size of commercial buildings, and that approximately 0.5 million gallons of :
+. additional storage was recommended to meet fire flow needs and provide discretionary emergency |
+, storage. The consultants reviewed potential locations for additional storage, discussed their relative |
+: advantages and constraints, and summarized hydraulic modeling results showing that system
+: pressures met state minimum standards under modeled peak conditions,
+
+Hopkins presented hydraulic modeling results showing that most hydrants met required fire flow :
+
+capacity, with areas achieving over 2,000 gallons per minute, and explained that these results informed |
+
+recommended capital Improvement projects. The proposed projects included three pipeline
+
+improvements, one of which, the crosstow pipeline, had been constructed but was not yet operational,
+
+and a new storage tank. Cawley and Johnson discussed the benefits of the crosstow pipeline in |
+
+improving redundancy, resiliency, and fire flow through system looping, and Hopkins described
+
+additional west-side pipeline upgrades to increase pipe diameter and complete a loop to address fire
+
+flow and capacity constraints, The consultants identified the new storage tank as the final major
+
+project and discussed potential siting options, noting that locating it near the existing Alta tank would
+
+take advantage of existing infrastructure, while higher-elevation alternatives such as the Grizzly Gulch . |
+
+area could present hydraulic and construction challenges, Cost estimates were presented with the Oe
+
+clarification that they were preliminary and subject to significant variabllity, though they have |
+
+observed that recent construction costs had begun to stabilize. Hopkins and Johnson then outlined
+
+operational recommendations, including upgrades to the SCADA system to allow more frequent and
+
+detailed monitoring of pumping rates, tank levels, and system flows, which would improve peak-day
+
+analysis and operational decision-making. Discussion followed regarding smart meter implementation, |
+
+with Jen Clancy reporting approximately 65~70 percent completion and noting that remaining
+
+installations were more complex. The conversation turned to coordination opportunities with the
+
+Shrontz Estate regarding potential tank sizing and cost sharing. |
+
+The consultants then transitioned to the sanitary sewer system analysis, explaining coordination with |
+
+Salt Lake County Service Area No. 3, review of flow monitoring data, evaluation of inflow and
+
+Alta Town Council Meeting |
+
+December 10, 2025 2 |
+
+|
+
+infiltration, and development of a hydraulic model, Johnson and Hopkins reported that sewer flows |
+generally tracked closely with water usage, indicating limited inflow and infiltration, and that the
+system had adequate capacity for existing and projected future demand. However, condition |
+assessments based on video inspections identified several pipe segments in poor condition, particularly |
+areas with sagging pipes where solids could accumulate and require ongoing maintenance. While the |
+overall system condition was described as generally good, specific deficient segments were highlighted
+for future attention, and staff confirmed that the Town maintained an ongoing sewer inspection and |
+cleaning program. |
+Hopkins concluded the sanitary sewer presentation by summarizing the primary recommended !
+pipeline projects to address capacity and sag issues, including improvements from the Grizzly Gulch |
+area, a segment across the parking lot, and additional localized sag corrections, and presented |
+preliminary cost estimates with significant variability. John Byrne clarified that the identified projects !
+did not include extending sewer service to the remaining homes on septic systems in West Grizzly |
+Gulch, and Cawley noted that a planning-level cost estimate for that extension was included in the |
+appendix but could change as nearby infrastructure expands. Johnson and Hopkins discussed |
+construction methods, explaining that while trenchless techniques may be appropriate in some |
+circumstances, open-cut replacement was generally the most cost-effective approach for the identified |
+sewer projects due to the specific deficiencies each project is meant to address. Hopkins noted that the |
+hydraulic model functioned as a planning tool that could be updated in the future to evaluate system- |
+wide impacts of future changes, and Johnson confirmed that the projects had been prioritized and |
+phased in the report, Cawley advised that some recommendations were based on incomplete
+condition data, particularly in the Grizzly Gulch area, where pipe age and limited inspection history
+created uncertainty about the need for replacement. Discussion followed regarding long-term asset
+management, including the distinction between spot repairs and planning for full system replacement |
+over time. Councilmembers commented on the thoroughness of the work, and Cawley explained that
+the recommended capital improvements had been incorporated into the Town’s 10-year capital
+projects outlook using planning-level cost estimates, emphasizing that the most significant unresolved |
+Issue remained funding for additional water storage. Further discussion addressed potential
+coordination with future development, sewer extension costs, and infrastructure proximity
+improvements. Councilmembers and staff discussed funding strategies, including project phasing over :
+a longer horizon to reduce reliance on external financing, risks associated with deferring known |
+deficiencies, and potential use of low-interest State Revolving Fund loans or grants. |
+3. Motion to adjourn , |
+00:52:00 |
+MOTION: John Byrne motioned to adjourn the work session, and Carolyn Anctil seconded. |
+
+Alta Town Council Meeting |
+December 10, 2025 3 : |
+
+VOTE: All were in favor. The work session was unanimously adjourned.
+RESULT: APPROVED
+
+ALTA TOWN COUNCIL MEETING: 4:00 PM |
+1, Call the meeting to order |
+01:00:00
+| Mayor Bourke called the December 10, 2025 Alta Town Council meeting to order.
+| 2. Public Hearing: Accept public comment regarding the adoption of the 2006 Utah Wildland i
+Urban Interface (WUI) code, designation of a WUI boundary, and amendments to Titles 8 and |
+9 to adopt the WUI code and allow for defensible space
+01:00:30 | |
+Del Draper, a cabin owner in Albion Basin, addressed the council regarding wildfire-related legislation |
+and risk assessment, noting that the law included both incentive-based and enforcement-oriented |
+elements, Draper stated that many homeowners had already taken significant steps to reduce fire risk,
+including implementing recommendations from Unified Fire Authority, removing lower tree branches,
+improving crawl space protections, and participating in coordinated chipper days to reduce fuel loads
+following storm damage, Draper cautioned the council to be careful in how any fire risk assessments :
+were developed or applied, expressing concern that insurance companies could rely on such
+assessments when determining coverage or rates, potentially leading to higher premiums or loss of
+insurance, as had occurred in other regions and locally. Draper also suggested additional risk-reduction i
+measures the Town could explore, including advocating for the burial of power lines in Albion Basin,
+citing similar projects completed by the utility provider in nearby canyons, and encouraged the Town
+to engage the utility provider on prioritization. Draper further asked whether existing snowmaking
+infrastructure near the subdivision could potentially be adapted to provide fire suppression support.
+Draper concluded by urging the Town to consider insurance implications and infrastructure-based |
+solutions when implementing fire risk policies.
+Margaret Bourke cautioned that the proposed ordinance language in section 9-3-3 did not specify that :
+documentation must be submitted prior to removal and replacement activities and suggested that
+adding a requirement for documentation to be submitted in advance could be an appropriate |
+clariftcation. ; |
+Alta Town Council Meeting
+December 10, 2025 4 |
+
+3. Discussion and possible action to adopt 2025-0-4 adopting the 2006 Utah Wildland Urban
+Interface (WUI) code, designation of a WUI boundary, and amendments to Titles 8 and 9 to
+adopt the WUI code and allow for defensible space
+01:06:00
+Cawley explained that the proposed ordinance changes followed prior Planning Commission and
+council discussions and were intended to implement the required Wildland Urban Interface (WUI)
+Code by designating a WUI boundary and adopting the WUI code by reference in Title Nine of Alta’s
+code, Cawley described the text edits after the last council meeting as a targeted adjustment to resolve
+longstanding conflicts between Alta’s tree removal regulations and defensible space requirements, .
+including creating an exemption for trees removed pursuant to WUI requirements and shifting
+approval authority from the mayor to the building official. John Byrne stated that the exemption
+addressed concerns about disproportionate burdens on property owners and expressed continued
+confusion regarding the use of the term “building official,” particularly where WUI enforcement
+involved the fire marshal. Cawley and Byrne discussed how the fire marshal would apply the WUI code
+and International Fire Code during plan review and would provide input on compliance to the Town’s
+building official, acknowledging the complexity of the overlapping roles. Byrne noted concerns about
+the broad authority granted under the WUI code and the limited appeal! process, while Cawley
+responded that the process was generally collaborative between fire authorities and the Town as the :
+authority having jurisdiction. :
+Clancy responded to Margaret Bourke’s question from earlier by saying she was satisfied with language
+in the draft ordinance that said “submitted and approved” and Cameron Platt agreed. Platt also added
+that the WUI code allowed municipalities to designate the appropriate code official and clarified that
+the highlighted language only exempted property owners from re-vegetation requirements if
+documentation was submitted and approved, while both the WU! and vegetation codes otherwise |
+remained applicable.
+MOTION: John Byrne motioned to approve Ordinance 2025-0-4 as presented. Carolyn Anctil
+seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Morgan — yes, Mayor Bourke — yes, Ordinance 2025-0-4 was unanimously approved,
+RESULT: APPROVED |
+4. CITIZEN INPUT
+01:17:10
+Alta Town Council Meeting |
+December 10, 2025 5 :
+
+Mark Haik addressed the council and referenced prior statements expressing confidence in the Town’s
+use of expert analysis, stating concern that expert opinions had not always been consistently relied
+upon by elected officials or staff. Haik cited discrepancies in reported municipal water availability
+figures, noting that Cawley referenced a lower daily capacity than figures previously presented by
+Kapaloski and Vici during a public hearing before the State Engineer, and suggested that staff request
+clarification to explain the difference. Haik also referenced Kapaloski’s prior role as special water
+: counsel and discussed past correspondence with bond counsel related to representations of water
+
+assets when the Town considers financing capital improvements. Haik concluded by suggesting that .
+the council review Kapaloski’s correspondence and offered to provide copies of the documents if
+needed.
+Margaret Bourke offered two comments to the council. First, encouraging the Town, both collectively
+and individually, to submit comments on the recently released Big Cottonwood Canyon environmental
+assessment, noting that the document stated impacts in Big Cottonwood Canyon would affect Little
+
+, Cottonwood Canyon and recommended that the Town consider requesting an extension to the
+comment deadlines due to the holiday timeframe. Second, Margaret Bourke expressed appreciation :
+for current and departing Town staff and elected officials, specifically thanking Craig Heimark for
+service as Treasurer and John Byrne for service on the Town Council, and acknowledged the |
+contributions of continuing councilmembers. Margaret Bourke stated that the leadership provided
+during their tenure had improved community understanding of Town challenges, priorities, and
+potential costs, and concluded by offering thanks and well wishes to those recognized.
+Del Draper echoed Margaret Bourke’s comments regarding the Big Cottonwood Canyon transportation
+plan. Draper noted that the proposed solutions for Big Cottonwood traffic appear to be implemented ,
+at a fraction of the cost compared to Little Cottonwood. Draper highlighted specific concerns, including
+the potential for tolling in Big Cottonwood to divert traffic to Little Cottonwood and the planned |
+parking structure in the gravel pit intended to support bus traffic. Draper also observed that Big
+Cottonwood’s plan proceeded via an environmental assessment rather than a full Environmental
+impact Statement (EIS) like Little Cottonwood, and expressed concern about the short comment period .
+coinciding with the holidays. Draper urged the Town of Alta to consider submitting comments on the
+Big Cottonwood plan.
+
+5. FY25 Financial Audit presentation, Ron Stewart |
+01:27:00
+Clancy Introduced Ron Stewart of Gilbert & Stewart, the firm contracted to perform the Town of Alta’s |
+financial audit. Stewart provided an overview of the audit process, focusing on three main areas:
+Alta Town Council Meeting |
+December 10, 2025 6
+
+|
+
+1. Financial Statements — They verify that the town’s financial statements are materially accurate
+and compliant with accounting standards through procedures such as third-party
+confirmations, invoice testing, and analytical reviews. Stewart confirmed that the town
+received an unmodified (“clean”) opinion, indicating the statements fairly present the town’s
+financial position.
+2. Internal Controls — The audit evaluates whether internal controls over receipts, disbursements,
+payroll, and capital assets are properly designed and operating effectively. Stewart reported
+that the town’s controls are well designed and functioning correctly, with no findings requiring
+attention.
+3, State Compliance — Procedures prescribed by the state were reviewed, including budgetary
+compliance, fund balances, restricted taxes, government fees, impact fees, and enterprise fund
+transfers. One minor finding was noted in the capital projects fund, where expenses exceeded
+the budget due to a timing issue with the purchase of Our Lady of the Snows building. This was
+clarified by Clancy as a timing mismatch between the fiscal year and the effective contract date.
+Council members asked clarifying questions about sampling, materiality, and the timing of financial
+insights. Stewart explained that materiality determines the threshold for adjustments and that they
+sampled at least 60 invoices plus additional areas for review. Byrne inquired whether financial
+information could be shared more frequently than annually to improve decision-making. Steve Rowley
+noted the practical limitations due to a two-month delay in receiving county tax information but
+suggested estimates might be prepared in advance. Clancy and the council expressed appreciation to
+Stewart and his team for their thorough audit work and responsiveness. Stewart also thanked town
+management, for support during the audit,
+6, Discussion and possible action to approve the FY 2025 Financial Statement and Audit of the
+Town of Alta, Steve Rowley and Jen Clancy
+01:46:00
+Clancy walked the council through page 45 of the audit report, which summarized the general fund
+| update, highlighting major variances between the final budget and actual results. Key points she noted
+included: :
+e Revenue variances:
+co About $267,000 more in sales tax than anticipated.
+o $8,000 in prior-year property taxes that were higher than expected.
+o Larger-than-expected fourth-quarter transportation sale tax revenues, :
+Alta Town Council Meeting :
+December 10, 2025 7
+|
+
+e Expenditure variances: .
+o Administration: $86,000 savings due to unused wages and lower-than-expected
+insurance costs. :
+o Police department: $290,000 savings primarily from delayed hiring of a fifth officer,
+postponed mental health grant expenses, and some vehicle/gas cost timing differences. |
+Byrne highlighted that the total expense savings of roughly $456,000 represented a substantial |
+achievement and praised the staff for careful management, emphasizing that this aligns with
+constituent expectations for fiscal responsibility. .
+MOTION: Elise Morgan motioned to approve the FY 2025 Financial Statement and Audit. John !
+Byrne seconded. :
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember
+Morgan — yes, Mayor Bourke — yes, the FY 2025 Financial Statement and Audit were |
+unanimously approved.
+RESULT: APPROVED .
+7. Alta Ski Area, Mike Maughan .
+01:50:30 |
+Mike Maughan provided an update on ski operations and snow conditions at Alta Ski Area: :
+* Opening and current conditions: Alta opened Sunday with limited terrain due to low natural
+snowfall and high winds redistributing the snow. Current base is approximately 27 inches,
+. primarily on man-made snow areas. Only Wildcat, Collins, and Sunnyside lifts are running; ,
+Sugarloaf may open briefly for the weekend.
+e Snowmaking challenges: Warm temperatures and minimal snow in the forecast for the next 7—
+10 days are limiting snowmaking opportunities. Snowmaking lines are empty by default and :
+only charged when actively making snow; they can be used in emergencies, but it takes time to .
+charge the system.
+¢ Operational impact: Alta is currently 5% behind last year’s revenue numbers, though the missed
+early-season weeks are low-volume periods. The busiest weeks are upcoming, which could :
+amplify the impact. |
+e Infrastructure and summer improvements: Projects completed over the summer, including :
+upgrades to snowmaking pumps and cross-tow improvements, have been beneficial. These
+Alta Town Council Meeting |
+December 10, 2025 8
+i
+i
+
+enhancements allowed for more effective snow coverage despite the late start and limited
+
+natural snowfall. |
+
+e Safety and fire concerns: In response to Del Draper, Maughan noted that while there is a fire
+hydrant at the snowmaking line, water is not always connected, so relying on it for fire |
+
+, protection is not instantaneous.
+|
+
+e Historical context: This opening is one of the latest in Maughan’s 36 years at Alta, with the |
+earliest previous openings in early December and a rare mid-January opening in the early |
+
+1980s. Maughan emphasized that without the terrain improvements and snowmaking
+upgrades, even last Sunday’s opening would not have been possible.
+Overall, Maughan stressed that Alta is managing as best as possible under challenging weather |
+conditions, with the improvements made over the summer helping mitigate operational risks,
+8. Discussion regarding possible trailhead restroom ownership by Town of Alta |
+01:56:30 |
+Maughan explained that on November 21, he’d convened a meeting with Big D, Forest Service |
+representatives, and town staff to discuss a trailhead restroom, which Big D has generously offered to
+donate. The planned facility will include three stalls, one ADA-compliant, heated flush toilets built into |
+the hill for avalanche protection, and minimal parking interference. Construction is planned for next !
+summer, with operation expected by the end of the season. The restroom will be located on the north |
+side of SR 210 near the summer road, between two avalanche paths and above a sewer line, which
+makes it feasible to install utilities. :
+Ownership and permitting were key points of discussion. Maughan noted that, due to the location of
+the toilets the engineers had requested a letter from the facility owner stating that the engineers
+would be indemnified in the event the restroom were destroyed by an avalanche. Councilmembers |
+and Town staff expressed support for the Town serving as the facility owner and as applicant for the
+Forest Service Special Use Permit, as the site is on National Forest land outside the ski area boundary.
+Operations and maintenance were also discussed, including a potential 50/50 cost-sharing |
+arrangement with the ski area. It was noted that Town staff, the ski area, or a third party could handle |
+day-to-day maintenance, A flush toilet was selected over a pit toilet to accommodate higher usage,
+minimize odor, and take advantage of the existing sewer line.
+The Forest Service indicated that the project could proceed under a categorical exclusion, fast-tracking :
+NEPA review, with no wetlands, archaeological, or endangered species concerns anticipated.
+Councilmembers expressed broad support, noting the value for both summer and winter recreation |
+Alta Town Council Meeting |
+December £0, 2025 9
+
+|
+
+|
+
+|
+
+users, the low cost to the town, and the advantages of a flush toilet. The council gave head nods to
+
+proceed, allowing staff to continue with the design, permitting, and coordination with the Forest
+Service. The next steps include the town providing the ownership/indemnification letter to engineers, !
+submitting the Special Use Permit application before year-end, and finalizing cost-sharing |
+arrangements for maintenance with the ski area. Council members reacted positively, even joking that |
+_ learning about the offer from Big D to build the restroom was a highlight of the meeting.
+9. Questions regarding department reports |
+
+|
+
+02:15:15
+[
+
+None. |
+10. Approval of November 12, 2025 Alta Town Council Meeting Minutes, and the December staff |
+and finance reports !
+
+|
+
+02:16:30
+Clancy suggested noting that the reports be approved “as amended” to clarify the record. Byrne |
+. recommended reviewing the updated financial report, noting that it was much improved. Clancy |
+apologized for any confusion caused by previous discrepancies, explaining that it took discussions with :
+Rowley to resolve the issues,
+MOTION: Mayor Bourke motioned to approve the November 12, 2025 Town Council meeting |
+minutes, and the December staff and finance reports as amended. Carolyn Anctil seconded.
+
+VOTE: All were in favor. The November 12, 2025 Town Council meeting minutes, and the
+December staff and finance reports as amended.were approved. !
+RESULT: APPROVED
+
+11, Mayor’s report )
+02:18:00 |
+Mayor Bourke began by noting that he had not yet finalized plans for the bathroom’s opening
+ceremony but hoped everyone had a good Thanksgiving and appreciated the recent snowfall. He
+expressed condolences to Snowbird for the passing of Tina Biddle, their long-time ski patrol director. |
+He then discussed ongoing transportation matters in Big Cottonwood Canyon, mentioning that UDOT
+had issued an Environmental Assessment (EA) and that it would benefit the town to seek a deferred |
+comment date and prepare its own comments, Mayor Bourke also noted that the state legislature is |
+Alta Town Council Meeting
+December 10, 2025 10
+. |
+
+concerned about growth in property tax rates, which could lead to legislation that impacts both :
+taxpayers and the town as a taxing entity. |
+Mayor Bourke then transitioned to the monthly astronomy report, explaining phenomena related to ;
+the Northern Lights, or Aurora Borealis. He described the sun as a turbulent mass of hydrogen ions :
+undergoing fusion, producing energy through mass conversion (E=mc’). He explained how solar _
+storms, or coronal mass ejections (CMEs), send energetic particles toward Earth, interacting with its
+magnetic field and producing auroras, primarily near the poles. |
+Mayor Bourke then outlined upcoming town events, including the swearing-in ceremony for the |
+council and Mayor’s seats. Bourke noted that Craig Heimark would be moving from staff to council, |
+leaving a vacancy for town treasurer. Mayor Bourke encouraged suggestions for filling the position and |
+reminded everyone that the next Town Council meeting would be held on January 14, 2026 at 4:00 :
+p.m., noting that the day would have 15 minutes more daylight than the current meeting. |
+12, Wasatch Front Regional Council grant for planning assistance, Chris Cawley :
+02:25:30 2
+Cawley explained that the town has been considering applying for a Wasatch Front Regional Council
+(WERC) grant to fund consultants for a general plan update, with the application due the following day. |
+The General Plan, last significantly updated in 2005 with amendments in 2013 and 2016, serves as a ,
+guide for the Town’s land use planning decisions. The WFRC grants support such updates, as well as
+small area plans, station area plans, and transportation master plans, but do not fund capital projects | |
+or engineering. Chris detailed the funding structure, noting the town would provide a small matching
+contribution, about 10% of the proposed $200,000 project budget, paid in a future fiscal year, and
+emphasized that the consultants’ role would include managing public engagement and various
+technical inputs. :
+Council! members discussed the relationship between the General Plan update and potential land use |
+code updates, Heimark emphasized the importance of aligning visionary planning with financial
+capacity, advocating for updating the code in parallel to avoid inconsistencies and ensure long-term
+feasibility. Byrne noted that the General Plan should drive land use changes rather than the reverse,
+Cawley clarified that some updates to the land use code would be necessary for state compliance, !
+while policy-level changes would follow the General Plan update, The conversation also addressed
+public involvement, with both Byrne and Heimark advocating for an advisory council of residents, |
+Planning Commission members, and council members to ensure the plan develops organically and 2
+maintains local input.
+Alta Town Council Meeting |
+December 10, 2025 11
+|
+{
+
+The discussion covered the stability and unique character of Alta, including minimal population
+changes and a consistent business community, with Snowpine redevelopment as a notable recent
+exception. Topics of potential redevelopment, residential units, and the commercial core were flagged
+as important considerations for the updated plan. Cawley highlighted opportunities to integrate
+transportation projects, including UDOT’s improved bus service, and noted water resource capacity as
+. a constraint for future development. Byrne and Cawley emphasized that the update should build on
+the existing plan, not replace it entirely, preserving the community’s voice while incorporating new
+guidance.
+Councilmembers expressed strong support for pursuing the WFRC grant, noting its potential to enable
+public engagement and align long-range planning with future capital needs. Mayor Bourke highlighted
+positive feedback from Planning Commission leadership regarding the likellhood of receiving the grant.
+The meeting concluded with consensus to move forward with the application, recognizing it as a key
+step in updating the General Plan and fostering community involvement. .
+13, Utah Renewable Communities update, Chris Cawley
+02:56:00
+
+Cawley provided an update on Utah Renewable Communities (URC), formerly known as the
+Community Renewable Energy Program, noting the Town of Alta has participated since the program’s |
+inception, Cawley explained that the Public Service Commission (PSC) could make a decision as early as
+January, which would trigger a 90-day period during which the town council would need to take final
+action to participate, There is a public hearing scheduled for December 16, which council members can
+attend either virtually or in person. The program involves 19 cities and counties that have set a goal of
+100% clean electricity by 2030, accounting for roughly 25% of Rocky Mountain Power’s (RMP) electric ;
+
+| service in Utah, The Town has contributed modestly to program development costs. RMP customers
+will be able to opt out for free within the first two billing cycles once the program launches. The |
+estimated cost for the average residential customer is expected to be $3-S4 per month, with |
+assistance available for low-income ratepayers as required by state law, although there are no low-
+income electricity customers in Alta.
+Cawley emphasized that the program supports clean energy development, environmental benefits,
+and local job creation. Cawley explained the process, including an RFP for clean energy projects that :
+closed in July with 14 bids, narrowed to six, signaling likely success in developing resources before tax |
+credits expire. Once the PSC issues a decision, the town would need to pass an ordinance formalizing :
+participation. Cawley noted that this is a low-investment way for the town to make a meaningful |
+impact on carbon emissions, particularly since Alta does not have a formal climate action or
+sustainability plan. |
+Alta Town Council Meeting |
+December 10, 2025 12
+
+Councilmembers discussed potential additional initiatives, such as solar installations and energy-
+efficient upgrades in the community. Carolyn Anctil mentioned opportunities like low-flow toilets as a
+practical example of energy and water efficiency. Mayor Bourke and Cawley acknowledged that the
+program is largely turnkey, and Cawley noted that while the town’s current General Plan does not
+explicitly address climate change or wildfire, these issues should be considered in future planning
+efforts.
+14, New business
+03:08:00
+Heimark asked about whether there was an action item regarding the Big Cottonwood Canyon
+Environmental Assessment (EIS) comment period. Mayor Bourke clarified that requesting an extension
+of the comment period is non-controversial and could be done on his own authority. Byrne and others
+discussed whether the comment should be personal or official, with the consensus that the first step
+would be a letter requesting the extension, while more substantive comments could be reviewed by
+the council beforehand. Cawley noted that the bus program in Big Cottonwood Canyon is still in the
+planning phase and will not be implemented until a similar program in Little Cottonwood Canyon is
+ready for implementation, emphasizing that proper planning could provide public benefits beyond
+transportation. Elise Morgan expressed some uncertainty about whether the town should submit a
+positive or negative comment and noted the extension request might not be granted, though multiple
+towns requesting it could increase the chances.
+Mayor Bourke then acknowledged that this meeting was John Byrne’s final meeting as a council
+member, praising his contributions and expertise, especially on financial matters. Byrne thanked the
+council and expressed hope to serve again in the future. The meeting concluded with a motion to
+adjourn, which was approved unanimously.
+15. Motion to adjourn
+
+03:13:00
+
+MOTION: John Byrne motioned to adjourn, and Carolyn Anctil seconded.
+
+VOTE: Allin favor. The meeting was unanimously adjourned.
+
+RESULT: APPROVED
+Passed this 14 "}de of January, 2026
+Jen£fahcy, Town-Cler
+A éwn Council Meeting
+December 10, 2025 13

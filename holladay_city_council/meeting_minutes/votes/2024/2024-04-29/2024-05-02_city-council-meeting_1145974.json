@@ -1,0 +1,70 @@
+{
+ "date": "2024-05-02",
+ "title": "City Council Meeting",
+ "source_url": "https://www.utah.gov/pmn/files/1145974.pdf",
+ "path": "minutes/2024/2024-04-29/2024-05-02_city-council-meeting_1145974.md",
+ "motions": [
+  {
+   "motion_no": 1,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Brewer",
+   "motion": "APPROVE Resolution 2024-16 - Acknowledging Receipt of and Adopting the Tentative 2024-2025 Fiscal Year Budgets and Setting a Public Hearing for June 6, 2024",
+   "motion_type": "Resolution",
+   "result": "Resolution 2024-16 as approved by a unanimous vote.",
+   "names_recorded": true,
+   "mayor_voted": false,
+   "votes": [
+    {
+     "member": "Brewer",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Fotheringham",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Quinn",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Gray",
+     "vote": "Aye",
+     "is_mayor": false
+    },
+    {
+     "member": "Durham",
+     "vote": "Aye",
+     "is_mayor": false
+    }
+   ]
+  },
+  {
+   "motion_no": 2,
+   "body": "Council",
+   "mover": "Brewer",
+   "seconder": "Quinn",
+   "motion": "RECESS the City Council Meeting and RECONVENE in a Work Meeting",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  },
+  {
+   "motion_no": 3,
+   "body": "Council",
+   "mover": "Fotheringham",
+   "seconder": "Brewer",
+   "motion": "ADJOURN",
+   "motion_type": "Procedural",
+   "result": "The motion passed with the unanimous consent of the Council.",
+   "names_recorded": false,
+   "mayor_voted": false,
+   "votes": []
+  }
+ ]
+}

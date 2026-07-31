@@ -1,0 +1,17 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+260,464,City Council,yes,meeting_minutes,,pm4,2020-01-01,Legistar repo superset; 6 council dates recovered into index.csv; draft+final are separate PMN notices on one date (pm4 avoids count_mismatch noise)
+260,465,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,in-council recess (usually closed session); 2 standalone RDA minutes (2022-05-17/06-07) recovered into index.csv
+260,466,Planning Commission,no,,,,,zero PMN PC minutes (verified honest zero); repo PC is Legistar-API with NO minutes_index — cannot be date-diffed here (crawl=yes would flood agenda_only_gap false flags)
+260,467,Board of Adjustments,no,,,,,28 notices all-time none with minutes; no repo BoA layer
+260,6495,Architectural Review Committee,no,,,,,advisory — out of scope
+260,468,Public Utilities Advisory Board,no,,,,,advisory — out of scope
+260,2532,Sandy City Historic Commission,no,,,,,out of scope
+260,2533,Sandy City CDBG Committee,no,,,,,out of scope
+260,470,Sandy City Citizen Corps Council,no,,,,,out of scope
+260,1990,Sandy Arts Guild,no,,,,,out of scope
+260,7675,Alta Canyon Advisory Committee,no,,,,,rec-district advisory — out of scope
+260,2322,Alta Canyon Recreation Special Service District,no,,,,,special service district — out of scope
+260,3007,Business Continuity and Disaster Management,no,,,,,ops body — out of scope
+260,9271,City Recorder,no,,,,,ops — not a deliberative meeting body
+260,8859,Community Development Department Administrative Hearing,no,,,,,quasi-judicial — out of scope
+260,2943,Metro Fire,no,,,,,interlocal fire — out of scope

@@ -1,0 +1,87 @@
+{
+ "date": "2024-10-01",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "body_default": "Council",
+ "source": "meeting_minutes/minutes/2024/2024-09-30/2024-10-01_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "MOVED TO APPROVE THE MINUTES AS PRESENTED. MOTION WAS SECONDED BY COUNCIL MEMBER BLAIR,",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice Pass",
+   "mover": null,
+   "seconder": "Bart E. Blair",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "MOVED TO APPROVE THE APPOINTMENT OF JACOB SUBE AS THE CHIEF OF POLICE FOR OGDEN CITY. MOTION WAS SECONDED BY COUNCIL MEMBER MYERS AND THE FOLLOWING ROLL CALL VOTE WAS TAKEN:",
+   "motion_type": "Appointment",
+   "result": "7-0 Pass",
+   "mover": null,
+   "seconder": "Shaun Myers",
+   "aye": [
+    "Bart E. Blair",
+    "Angela Choberka",
+    "Dave Graf",
+    "Richard A. Hyer",
+    "Shaun Myers",
+    "Marcia L. White",
+    "Ken Richey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "ON A MOTION BY COUNCIL MEMBER GRAF AND SECONDED BY COUNCIL MEMBER CHOBERKA, RESOLUTION 2024-11 WAS ADOPTED [ENTITLED: \"A resolution of the Ogden City Council modifying the Bylaws of the Ogden City Youth Council.\"]",
+   "motion_type": "Resolution",
+   "result": "7-0 Pass",
+   "mover": "Dave Graf",
+   "seconder": "Angela Choberka",
+   "aye": [
+    "Bart E. Blair",
+    "Angela Choberka",
+    "Dave Graf",
+    "Richard A. Hyer",
+    "Shaun Myers",
+    "Marcia L. White",
+    "Ken Richey"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "subject": "A resolution of the Ogden City Council modifying the Bylaws of the Ogden City Youth Council.",
+   "subject_source": "ENTITLED",
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "MOVED THE MEETING ADJOURN AT 7:37 P.M. MOTION WAS SECONDED BY COUNCIL MEMBER HYER, ALL VOTING AYE. ________________________________________ TRACY HANSEN, MMC/CRA CITY RECORDER ________________________________________ KEN RICHEY, CHAIR APPROVED: November 12, 2024",
+   "motion_type": "Procedural/Administrative",
+   "result": "Recorded",
+   "mover": null,
+   "seconder": "Richard A. Hyer",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 4
+  }
+ ]
+}

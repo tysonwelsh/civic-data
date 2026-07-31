@@ -1,0 +1,200 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=626&doc_id=8a7e3faf-7a42-11ed-9024-0050569183fa
+> Meeting date: 2022-09-22
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, SEPTEMBER 22, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:         Vice Chairman Craig Hawker, Commissioners Gary Ogden, DeLaina
+                       Tonks, Lisa Fowler, Susan Nixon and Mary Squire
+
+ABSENT:                Chairman Andrew Adams, Commissioners Tab Bingham and Kendra
+                       Shirey
+
+STAFF PRESENT:         Fred Aegerter, Mike Barker, Jennifer Jastremsky, Todd Draper, Brien
+                       Maxfield, Spencer DuShane, and Amie Salazar.
+
+6:30 PM Business Meeting
+
+Vice Chairman Craig Hawker welcomed everyone to the meeting, he began the meeting at 6:30pm
+
+1. Action Item: Approve Amended Planning Commission Meeting Minutes for August 25,
+   2022 (Administrative Action)
+
+Motion: Commissioner Lisa Fowler motioned to approve the Amended Meeting Minutes as
+written.
+
+Second: Commissioner Mary Squire
+
+Vote: A roll call vote was taken with the Commissioners voting 5-0 in favor of the motion.
+Fowler, Tonks, Squire, Nixon and Ogden voted, “Aye”.
+
+2. Public Hearing: Patterson Property Zoning Map Amendment (Legislative Action)
+On the request of Carl and Allen Patterson, for a Zoning Map Amendment from RA1 to RA2 on
+3.3 acres of property located at 1310 S. Boulter St. Application TEXTMAP-119-2022. Staff report
+by Jonathan Concidine, 801-576-6522, j.concidine@draperutah.gov. Staff presentation by Jennifer
+Jastremsky.
+
+Ms. Jennifer Jastremsky, Planning Manager and Zoning Administrator, presented the application.
+The applicants, Carl and Allen Patterson, hope to subdivide the property to create more lots. Vice
+Chairman Hawker asked a question about a future access road. Ms. Jastremsky, responded
+indicating that there was plenty of room on the site for a private lane that would provide access to
+the lots.
+
+Applicant, Allen Patterson, stated that he and his brother have owned this property for many years,
+and they would now like to subdivide.
+
+Vice Chairman Hawker opened the public hearing.
+No public comments were made.
+Vice Chairman Hawker closed the public hearing.
+
+
+
+                                                 1
+Motion: Commissioner Susan Nixon made a motion to send a positive recommendation to
+the City Council for the Patterson Property Zoning Map Amendment as requested by Carol
+and Allen Patterson. Application TEXTMAP-119-2022. Based on the findings and subject to
+the conditions listed in the staff report dated August 25, 2022.
+
+Second: Commissioner Gary Ogden
+
+Vote: A roll call vote was taken with the Commissioners voting 5-0 in favor of the motion.
+Fowler, Tonks, Squire, Nixon and Ogden voted, “Aye”.
+
+3. Public Hearing: Avery Townhomes Development Agreement (Legislative Action)
+On the request of Troy Dana, representing Draper Office Associates, LLC, for a Development
+Agreement on 2.44 acres of property located at approximately 638 East 12225 South Application:
+DA-181-2022. Staff Contact: Jonathan Concidine, 801-576-5622, j.concidine@draperutah.gov.
+Staff report by Jennifer Jastremsky.
+
+Ms. Jennifer Jastremsky, Planning Manager and Zoning Administrator, presented the project. This
+project was initially brought before the Planning Commission in July of 2022. Mr. Troy Dana, the
+applicant took the proposal to the City Council, where they requested he apply for a development
+agreement and change his plans to show only twenty-one units with driveways. He has come back
+before the Planning Commission with this development agreement application to set the plan for
+twenty-one units with twenty-foot driveways for each Townhome. This project if recommended
+for approval by the Planning Commission will be taken back to the City Council for approval.
+
+Vice Chairman Hawker asked for clarification by staff regarding the intent of the development
+agreement. Jennifer Jastremsky stated the intent is to lock in the concept plan and total number of
+dwelling units.
+
+Commissioner Nixon asked if the agreement needed to specify the number of units in section 2 of
+the agreement. Mike Barker, City Attorney stated that Maximum Dwelling Units is a defined term
+that includes the number of units in the agreement and that section 2 does not need to be altered.
+
+Applicant, Mr. Troy Dana, stated that the main change in the plans is to the number of dwelling
+units changing from seventeen to twenty-one. The concept plan provides each townhome with the
+required twenty-foot driveway. He stated that he felt it was a better plan all around.
+
+Vice Chairman Hawker opened the public hearing.
+No public comment was made.
+Vice Chairman Hawker closed the public hearing.
+
+Motion: Commissioner Squire motioned to send a positive recommendation to the City
+Council for the Avery Townhomes Development Agreement requested by Troy Dana
+representing Draper Office Associates LLC. Application DA-181-2022. Based on the findings
+and subject to the conditions listed in the staff report dated September 13, 2022.
+
+Second: Commissioner Fowler
+
+
+                                                2
+Vote: A roll call vote was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Tonks, Nixon and Fowler voted, “Aye”.
+
+4. Public Hearing: City Initiated Temporary Parking Ordinance (Legislative Action)
+On the request of Draper City for a Text Amendment to Title 9 of Draper City Municipal Code in
+order to amend regulations pertaining to location, design and construction of temporary parking
+for recreational vehicles and trailers. This application is known as the City Initiated Temporary
+Parking Ordinance. Application: TEXTMAP-176-2022. Staff contact: Todd Draper, (801) 576-
+6335, todd.draper@draperutah.gov.
+
+Mr. Todd Draper, Planner III, presented the proposed amendment. He indicated that the proposal
+changes the language in the City’s Parking Ordinance, and that the purpose of the change is to
+clarify and identify regulations for temporary parking areas and where recreational vehicles and
+trailers can be parked. Additionally, he stated that the proposal clarifies what type of surface is
+required for each parking type. He also pointed out that the current code requires that recreational
+vehicle parking must be on a hard surface such as asphalt or concrete, and that the proposed
+ordinance would allow for other types of surfacing.
+
+Commissioner Fowler asked if there was a specific reason for proposing the change to the
+ordinance.
+
+Mr. Draper noted there have been questions that have come up about whether gravel was an
+acceptable surface, which was one reason for proposing the change. The proposed change would
+allow the use of rock, which would also include gravel. Mr. Draper further stated that drainage of
+water from the parking areas and paving will still be required to comply with the city standards.
+
+Vice Chairman Hawker opened the public hearing.
+No comments were made.
+Vice Chairman Hawker closed the public hearing.
+
+Motion: Commissioner Fowler made a motion to send a positive recommendation to City
+Council, for the City Initiated Temporary Parking Ordinance as requested by Draper City.
+Application TEXTMAP-176-2022. Based on the findings and subject to conditions listed in
+the staff report dated September 1, 2022.
+
+Second: Commissioner DeLaina Tonks
+
+Vote: A roll call vote was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Fowler, Nixon, Squire, Tonks and Ogden voted, “Aye”.
+
+5. Discussion Item: Moderate Income Housing Report and General Plan Amendment
+   (Administrative Action)
+Presentation regarding the annual Moderate Income Housing Report and amendments to the
+Moderate-Income Housing Plan within the General Plan. Staff contact: Todd A. Draper,
+todd.draper@draperutah.gov, (801) 576-6335.
+
+
+                                                 3
+Mr. Draper stated that contrary to the agenda heading, there is no action to be taken on this agenda
+item. This item was a placeholder to report back to the Planning Commission on what took place
+at the City Council regarding adoption of the General Plan Amendment updates to the Moderate
+Income Housing Plan. He reported that the City Council did adopt updated plans in their last
+meeting on Tuesday. Mr. Todd Draper reported that the City Council did make a change in the
+included strategies from what the Planning Commission recommended and removed the strategy
+and implementation plans regarding Accessory Dwelling Units (ADU’s) from the plan, and added
+the strategy and implementation plans regarding reducing or eliminating impact fees for moderate
+income housing in its place before they adopted it. Now that the Moderate Income Housing Plan
+has been approved by the City Council, Mr. Draper said that he will submit it to the Department
+of Workforce Services at the State as the required annual Moderate Income Housing Report. He
+indicated that the next steps will be to implement the strategies in that plan in the coming years.
+
+Commissioner Fowler asked why the City Council removed ADU’s from the list. Mr. Draper
+stated that he did not know.
+
+6. Training: Origins of American City Planning Part 1
+Fred Aegerter, Community Development Director, presented a historical background about
+planning practice over the years and the concepts that come into play when planning decisions in
+a city are made.
+
+Mr. Aegerter stated that in earlier days, people would go to garden cemeteries to have picnics and
+get together. As a result garden parks were created as a city attraction without the cemetery being
+a part of it. Once such park, Central Park in New York is 842 acres in size. He indicated that input
+from politics and political leaders has always been important in the development of parks, as it is
+important to make sure that there is funding.
+
+Mr. Aegerter continued, that after the parks movement took place, the housing movement arose in
+about 1880. In New York City the concept of apartments came to the idea table. Sanitation and
+privacy in earlier times was mostly not existent. One early housing requirement was to have a
+window on every wall. By 1867 apartment construction intensified with twenty-five to one-
+hundred units per lot, and buildings as tall as forty-six stories high. People were moving from
+single-family homes to apartments. The window regulations were changed around this time to
+require the window to be on the outside of the building rather than on every wall in the house. By
+1901 the law in New York required buildings to have proper ventilation, bathrooms, and lighting.
+
+Mr. Aegerter stated that planning changed drastically after the World's Columbian Exposition that
+was held in Chicago in 1893. The World’s Fair in Chicago created an example of what cities could
+be and how they could look. As a result civic improvements changed throughout the nation. He
+indicated that the changes in planning were not about the buildings, but were about the setting.
+
+7. Adjournment: Commissioner Squire made a motion to adjourn. The meeting was
+   adjourned at 7:17 p.m.
+
+
+
+
+                                                 4
+

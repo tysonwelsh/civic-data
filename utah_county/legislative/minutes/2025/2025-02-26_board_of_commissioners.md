@@ -1,0 +1,537 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2025-02-26
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2025/02.26.2025.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 9
+audio: 02.26.2025.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+I|Page
+
+LAR™
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+February 26, 2025 - 2:00 PM
+
+When necessary, board members may participate electronically with the anchor location as stated above.
+
+The public may participate at the anchor location stated above. Public comments will be limited to two
+(2) minutes per individual unless otherwise approved by the Board.
+
+Or you may watch the meeting live on YouTube under the heading UTAH COUNTY GOVERNMENT or by
+going to the link: https://www.youtube.co. nnel/UCI DLGv9792bhWn9W¢/videos
+
+Next two upcoming Commission Meeting dates: Wednesday, March 5, 2025 at 2:00 pm and Wednesday,
+March 12, 2025 at 2:00 pm.
+
+~COMMISSION MEETING MINUTES~
+(Rules suspended due to only two commissioners in attendance)
+
+In attendance: Commissioner Beltran (Acting Chair), Commissioner Powers Gardner
+Absent: Commissioner Gordon (Chair)
+
+Others in attendance: See attached sign-in sheet and Zoom list
+
+(Meeting called to order: 2:02 pm)
+
+PRAYER/READING/THOUGHT: Lucy May Jordan
+PLEDGE OF ALLEGIANCE: Rebecca Jordan
+RECOGNITION
+1. RECOGNITION OF FEBRUARY 2025 EMPLOYEE OF THE MONTH
+
+-P] Maughan, Human Resources
+(Timestamp: 1:25)
+
+COMMISSIONER POWERS GARDNER ANNOUNCED THAT DAVE HENRIE IS THE
+FEBRUARY 2025 EMPLOYEE OF THE MONTH.
+
+I would like to nominate Dave Henrie for Utah County Employee of the month. Dave has
+been working at Utah County for 32 years and in the GIS Division for 20 years. Over these
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+2|Page
+
+many years Dave has gained institutional knowledge from nearly every county
+department. With this institutional knowledge Dave helps team members in our division
+as they create maps and apps for county departments.
+
+Dave started his career working for the Assessor's office where he supervised over 100
+interns over several years as they created the first parcel map layer in GIS. Dave has
+worked with the Recorders cadastral mappers during his entire career. Dave has been
+instrumental in developing the workflow the cadastral mappers use to create parcels.
+
+Annexations, roads, buildings, and municipal boundaries are among the map layers that
+are displayed on our county basemap. The basemap is used as the background in nearly
+every map and app that the GIS division produces. Dave is responsible for keeping the
+basemap up to date. He receives notice from GIS analysts that a change has been made
+and he goes to work re-caching the basemap to reflect the change.
+
+To keep our servers consistent Dave has taken on the assignment to create all map
+services. He has developed an efficient structure to organize the hundreds of map
+services he creates. He quickly and willingly modifies our map services as requests are
+made. Last year we had 3 major changes to our database and data structures. Dave dug
+in and made the required changes to hundreds of map services so that our maps and apps
+are displaying the correct map data.
+
+Dave has served on the UGIC Board of Directors for many years. UGIC is a statewide
+organization which brings GIS professionals together from all over the state to
+collaborate, connect, and learn from each other.
+
+Finally, Dave is a great guy who everyone likes. He is always happy and jolly. He isa
+great communicator. He can easily make connections with end users and get the
+conversations going to get GIS work done. We often utilize his skills in giving
+presentations. Dave is always happy to help county employees and the public with their
+GIS and mapping needs.
+
+Nominated by Darin Sleight
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+February 26, 2025
+
+CONSENT AGENDA
+
+1. RATIFICATION OF WARRANT REGISTER FOR FEBRUARY 26, 2025 INCLUDING
+NOTES AND COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE
+
+INTERNAL SYSTEM
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+2. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 4-2025
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+3. APPROVAL OF THE MINUTES FOR THE FEBRUARY 12, 2025 BOARD OF
+
+COMMISSIONERS BOARD MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+4. ADOPT A RESOLUTION CONSENTING TO THE APPOINTMENT OF DEPUTY
+
+ATTORNEYS
+-Brittany Thorley, Attorney
+
+APPROVED ON CONSENT
+Resolution 2025-197
+
+5. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTERS 282 AND 60524
+
+DATED FEBRUARY 21, 2025.
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement 2025-198
+
+6. APPROVE THE SIGNING OF A MEMORANDUM OF AGREEMENT BETWEEN UTAH
+COUNTY, ON BEHALF OF THE UTAH COUNTY CHILDREN'S JUSTICE CENTER, WITH
+THE FRIENDS OF THE UTAH COUNTY CHILDREN'S JUSTICE CENTER.
+
+-Rebecca Martell, Children's Justice Center
+
+APPROVED ON CONSENT
+Agreement 2025-199
+
+7. APPROVE THE SIGNING OF AN MEMORANDUM OF UNDERSTANDING BETWEEN
+UTAH COUNTY, ON BEHALF OF THE UTAH COUNTY CHILDREN'S JUSTICE CENTER,
+WITH UNIVERSITY OF LIVERPOOL FOR A FORENSIC INTERVIEW RESEARCH PROJECT.
+
+-Rebecca Martell, Children's Justice Center
+
+APPROVED ON CONSENT
+Agreement 2025-200
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+4|Page
+
+8. APPROVE A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT BETWEEN UTAH COUNTY AND THE CITY OF LEHI TO AID THE
+HOMELESS WITHIN UTAH COUNTY AND PROVIDING FOR AN EFFECTIVE DATE
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Resolution 2025-201
+Agreement 2025-202
+
+9. APPROVE A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT BETWEEN UTAH COUNTY AND THE CITY OF SPANISH FORK TO AID THE
+HOMELESS WITHIN UTAH COUNTY AND PROVIDING FOR AN EFFECTIVE DATE
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Resolution 2025-203
+Agreement 2025-204
+
+10. ACCEPT GRANT FUNDING FROM SAFE KIDS WORLDWIDE TO PROMOTE CHILD
+PASSENGER SAFETY.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-205
+
+11. APPROVE THE SIGNING OF AN AGREEMENT WITH HEALTH PLUS CLINIC, PASSING
+THROUGH MONEY FROM AGREEMENT NO 2024-672 TO IMPLEMENT DIABETES
+
+PREVENTION PROGRAMS .
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-206
+
+12. APPROVE THE SIGNING OF AN AGREEMENT WITH UNIVERSITY OF UTAH HEALTH
+PARKWAY HEALTH CENTER, PASSING THROUGH MONEY FROM AGREEMENT NO
+
+2024-672 TO IMPLEMENT DIABETES PREVENTION PROGRAMS.
+-Juli Van Ginkel, Health
+
+APPROVED ON CONSENT
+Agreement 2025-207
+
+13. APPROVE AND AUTHORIZE THE SIGNING OF AMEMORANDUM TO RELEASE THE
+ONE-YEAR WARRANTY BOND FOR THE HORROCKS RIVER RANCH PLAT “A”
+
+SUBDIVISION, IN ACCORDANCE WITH DEVELOPMENT AGREEMENT 2023-815.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-208
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+5|Page
+
+14. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #11 TO
+AGREEMENT #2023-711 FOR HOGAN & ASSOCIATES CONSTRUCTION INC., FOR THE
+
+JAIL MEDICAL & MENTAL HEALTH REMODEL AND ADDITION PROJECT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-209
+
+15. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDERS #1, #2, AND #3 OF
+
+THE ORIGINAL AGREEMENT 2024-603 WITH ROSENBAUER AMERICA FOR CHANGES
+
+TO THE PURCHASE OF TWO TYPE 3 FIRE ENGINES DURING BUDGET YEAR 2026.
+-Richard Nielson, Public Works
+
+CONTINUE TO MARCH 5, 2025
+
+16. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #1 OF UCA #2024-
+1051 WITH BECK CONSTRUCTION & EXCAVATION, INC, FOR A CONTRACT PERIOD
+EXTENSION FOR THE JORDAN RIVER PARKWAY TRAIL SLOPE REMEDIATION
+
+PROJECT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-210
+
+17. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH I-CON
+SYSTEMS INC, TO PURCHASE PLUMBING PARTS FOR THE SECURITY CENTER PER
+
+ATTACHMENT B OF THE AGREEMENT.
+-Richard Nielson, Public Works
+
+STRICKEN ON CONSENT
+
+18. APPROVE AND AUTHORIZE THE SIGNING OF ONE VEHICLE LEASE AGREEMENT
+FOR THE HEALTH DEPARTMENT GRANTS (PHEP AND ASPR) TO UPDATE THE LEASED
+
+VEHICLE TO ICN #702266.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-211
+
+19, APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH GALLOWAY &
+COMPANY, INC. TO DEVELOP A DESIGN FOR THE HISTORIC COURTHOUSE 2ND FLOOR,
+WHILE LIMITING THE EXTENT OF RENOVATION ACTIVITIES AS OUTLINED IN
+
+ATTACHMENT B.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement 2025-212
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+6|Page
+
+20. ADOPT A RESOLUTION DECLARING UTAH COUNTY PERSONAL PROPERTY AS
+SURPLUS AND AWARDING SURPLUS UTAH COUNTY PERSONAL PROPERTY AS A GIFT
+TO DEPUTY SHAWN REYNOLDS IN RECOGNITION OF MERITORIOUS SERVICE TO
+
+UTAH COUNTY AND ITS CITIZENS
+-Shawn Radmaall, Sheriff
+
+APPROVED ON CONSENT
+Resolution 2025-213
+
+21. LICENSE AGREEMENT WITH UTAH VALLEY CONVENTION CENTER AND UTAH
+COUNTY
+
+-Carol Furner, Sheriff
+
+APPROVED ON CONSENT
+Agreement 2025-214
+
+22. APPROVE A UTAH COUNTY DECLARATION EMPLOYMENT OR OUTSIDE BUSINESS
+INTEREST / ACTIVITY
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-215
+
+REGULAR AGENDA
+
+1. AN ORDINANCE AMENDING ARTICLE 3.04.060 OF THE UTAH COUNTY CODE
+RELATING TO REAL PROPERTY TAX SALE PROCEDURES TO MAKE CHANGES TO
+
+CRITERIA FOR REJECTING OR ACCEPTING BIDS
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Ordinance 2025-216
+
+2. APPROVE OR DENY THE REQUEST BY THE COUGAR PRIDE CENTER TO WAIVE THE
+EVENT PERMIT FEES AND REDUCE THE INSURANCE REQUIREMENT FOR THE PRIDE
+IN PROGRESS EVENT TO BE HELD ON THE HISTORIC COURTHOUSE STEPS ON APRIL
+12,2025.
+
+-Richard Nielson, Public Works
+
+(Timestamp: 7:15)
+
+COMMISSIONER BELTRAN SAID HE WOULD BE FINE WITH INSURANCE
+REDUCTION AND SUGGESTED THEY SET THE FEE AT $150 INSTEAD OF IT BEING
+WAIVED.
+
+COMMISSIONER POWERS GARDNER: MOTION TO APPROVE WITH THE FEE SET AT
+$150.
+
+COMMISSIONER BELTRAN: SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+Agreement 2025-217
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+7|Page
+
+3. APPROVE OR DENY THE REQUEST BY THE UTAH BOWFISHING ASSOCIATION TO
+REDUCE THE INSURANCE REQUIREMENT FOR EACH OF THE UTAH BOWFISHING
+ASSOCIATION TOURNAMENTS ON UTAH LAKE, TO BE HELD ON APRIL 26-27, 2025,
+
+AND ON MAY 30 TO JUNE 1, 2025.
+-Richard Nielson, Public Works
+
+(Timestamp: 5:55)
+
+COMMISSIONER POWERS GARDNER ASKED THE ORGANIZER OF THE EVENT FOR
+AN INVITATION. SHE SAID IT SOUNDS FASCINATING.
+
+APPROVED ON CONSENT
+Agreement 2025-218
+
+4. AUTHORIZE LETTER OF RESPONSE FOR REPRESENTATION
+
+-Paul Jones, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-219
+
+5. APPROVE PROPERTY TAX ACTIONS INCLUDED IN RECOMMENDATION LETTER
+2025-2
+
+-Adam Beck, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-220
+
+6. APPROVE AND AUTHORIZE THE SIGNING OF A LETTER OF SUPPORT FORA
+PROPERTY EXCHANGE/LAND SWAP NEAR BRIDAL VEIL FALLS, PROVO, UTAH.
+
+-Ezra Nair, Commission
+
+APPROVED ON CONSENT
+Agreement 2025-221
+
+7. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+8. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FOR A
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+8|Page
+
+9. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+10. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+
+-Jolynn Clegg, Clerk
+
+HELD ON CONSENT
+PUBLIC COMMENTS
+
+(Timestamp: 8:42)
+
+PETER JORDAN (Resident of Santaquin) EXPRESSED CONCERN OVER HIS LAND AND IT
+POSSIBLY BEING SOLD TO PAY FOR TAXES. COMMISSIONER POWERS GARDNER
+RECOMMENDED THAT HE SPEAK WITH ADAM BECK (Deputy Attorney) TO FILL OUT
+THE CORRECT PAPERWORK AND ROD MANN (Utah County Auditor) TO HOLD OFF THE
+TAX SALE.
+
+(Moved to closed meeting: 2:18 p.m.)
+
+(Opened to public meeting: 2:34 p.m.)
+
+COMMISSIONER POWERS GARDNER : MOTION TO ADJOURN
+COMMISSIONER BELTRAN : SECOND
+
+ALL IN FAVOR: AYE
+
+PASSED: 2/0
+
+MEETING ADJOURNED
+
+(Meeting adjourned: 2:34 p.m.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In compliance with the Americans
+with Disabilities Act, individuals needing special accommodations (including auxiliary communicative
+aids and services) during this meeting should notify Jolynn Clegg at 801-851-8113. Handicap parking is
+available as well as a level entrance to the building. Interpretation services are available with prior notice
+for the hearing disabled. -
+
+Those in attendance via Zoom: None
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+February 26, 2025
+
+9|Page
+
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+February 26, 2025 - 2:00 p.m.
+
+PRINT CLEARLY
+
+Name: Agency:
+
+Lave, Geary
+
+227 Ure! Bowrsunter Ass
+Coun Bennott 1 uD cP
+* dy2 ta Dormers u Curd 4 Pe P
+
+HPP
+
+Hike Drnyins
+“Nacok Mx be,
+
+2tHD
+
+t <=
+Linde VWeicue
+
+Th Rfitens Case
+
+4 Garvtielu N >See or
+
+fou
+
+a wa Alun CIC | ee
+Erie Elum lS _ _ uceo
+
+Meeting minutes approved at the March 5, 2025 Board of Commissioners of Utah
+
+County, Utah Public Me
+
+BRAND . GORDON, CHAIR
+
+ATTEST:
+
+DEPUTY GLRRK Ks)
+

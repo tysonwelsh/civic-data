@@ -1,0 +1,68 @@
+{
+  "pc_meetings_parsed": 114,
+  "motions": 562,
+  "member_vote_rows": 2997,
+  "recommendations": 113,
+  "final_actions": 221,
+  "procedural": 228,
+  "contested": 34,
+  "named_rollcall_motions": 501,
+  "tally_only_motions": 61,
+  "ocr_meetings": 6,
+  "distinct_commissioners": 25,
+  "roster_path": "planning_commission/roster.csv",
+  "all_votes_csv": "planning_commission/all_votes.csv",
+  "vote_labels": {
+    "Aye": 2931,
+    "Nay": 58,
+    "Abstain": 8
+  },
+  "motion_type_breakdown": {
+    "Plat/Subdivision": 139,
+    "General Plan": 13,
+    "Procedural/Administrative": 225,
+    "Site Plan": 55,
+    "Other": 40,
+    "Rezone": 38,
+    "Code/Ordinance Amendment": 41,
+    "Conditional Use": 8,
+    "Appointment": 2,
+    "Annexation": 1
+  },
+  "roster_by_year": {
+    "2020": 7,
+    "2021": 9,
+    "2022": 13,
+    "2023": 7,
+    "2024": 9,
+    "2025": 7,
+    "2026": 10
+  },
+  "validation": {
+    "status": "ALL CHECKS PASS",
+    "json_csv_reconcile": "OK (2997==2997)",
+    "off_roster_members": 0,
+    "tally_mismatches": 0,
+    "meetings_missing_json": 0
+  },
+  "tally_mismatches": 0,
+  "appointment_crosscheck": {
+    "Amber Pope": "2022-01-25",
+    "Gerald Crismon": "2022-05-10",
+    "Madeline Komen": "2022-01-25",
+    "Murray Low": "2022-01-25"
+  },
+  "meetings_without_votes": [
+    "2025-04-02 (General-Plan study/discussion session, no motions — correct non-failure)"
+  ],
+  "format_breakdown": {
+    "text": 91,
+    "docx": 17,
+    "ocr": 6
+  },
+  "data_floor": 2020,
+  "date_range": "2020-01-15 .. 2026-05-06",
+  "pipeline": "planning_commission/extract_votes.py (PURE REGEX, no LLM/network) + validate_votes.py",
+  "notes": "Three recorded vote formats handled: (A) classic prose Those-voting-aye roll-call (2020-2024+OCR+docx), (B) late-2025/2026 ALL-CAPS YES:/NO:/ABSTAIN: labelled blocks (case-sensitive labels; outcome may be a separate supermajority-fail sentence, e.g. 2025-12-17 Rolling Sand 3:1 failed), (C) mid-2025 tally-only summary minutes (names_recorded=false, empty member lists, never invent voters). result encodes the PC disposition: Positive/Negative/Neutral recommendation A:N (forwarded to City Council) vs A:N Approved/Denied (Final Action) (CUP/site plan/plat the PC approves) vs A:N Pass/Fail (procedural incl. officer elections). Recusals are narrative only (member leaves), so no Recuse/Absent rows are synthesized. 25 distinct commissioners over 2020-2026; >7 per-year in 2022/2026 reflects real mid-year 7-seat turnover. 52 adjourn/minutes motions have blank mover by design (Chair called-for-a-motion-and-moved -> no name before moved -> not guessed).",
+  "unrecovered_note": "16 in-range meetings with no published minutes + 1 mis-uploaded: the 2025-10-15 'Approved Minutes' CivicClerk published (fileId=1005) is the 2025-11-05 document (byte-identical to fileId=1006); real 10-15 minutes unpublished anywhere (PMN notice 1027529 = agenda/packet only) — removed 2026-07-02, logged in minutes_unrecovered.csv (17 rows)"
+}

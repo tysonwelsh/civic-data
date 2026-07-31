@@ -1,0 +1,36 @@
+{
+  "contributions": [
+    {"date": "01/30/2019", "name": "Brady Quinn", "city": "South Jordan", "state": "UT", "amount": "9.06", "in_kind": false},
+    {"date": "02/16/2019", "name": "Craig O'Dear", "city": "Kansas City", "state": "MO", "amount": "250.00", "in_kind": false},
+    {"date": "05/06/2019", "name": "Brady Quinn", "city": "South Jordan", "state": "UT", "amount": "202.00", "in_kind": false},
+    {"date": "06/07/2019", "name": "Randi Von Bose", "city": "Kaysville", "state": "UT", "amount": "50.00", "in_kind": false},
+    {"date": "06/19/2019", "name": "Neal Simon", "city": "Potomac", "state": "MD", "amount": "250.00", "in_kind": false},
+    {"date": "07/02/2019", "name": "Salt Lake Board of Realtors", "city": "Sandy", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "08/02/2019", "name": "Darlana Quinn", "city": "Salt Lake City", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "08/18/2019", "name": "Brady Quinn", "city": "South Jordan", "state": "UT", "amount": "9.95", "in_kind": false},
+    {"date": "08/20/2019", "name": "Mark McDonald", "city": "Salt Lake City", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "09/26/2019", "name": "Eddie and Kristine Quinn", "city": "South Jordan", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "10/15/2019", "name": "Brady Quinn", "city": "South Jordan", "state": "UT", "amount": "9.95", "in_kind": false},
+    {"date": "10/15/2019", "name": "Equality Utah", "city": "Salt Lake City", "state": "UT", "amount": "250.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "01/30/2019", "recipient": "Namecheap", "purpose": "Website Domain Name", "amount": "9.06", "in_kind": false},
+    {"date": "05/07/2019", "recipient": "LogoTournament.com", "purpose": "Branding", "amount": "277.20", "in_kind": false},
+    {"date": "06/05/2019", "recipient": "Wix.com", "purpose": "Website Provider", "amount": "102.00", "in_kind": false},
+    {"date": "08/16/2019", "recipient": "SignsOnTheCheap.com", "purpose": "Signs", "amount": "491.48", "in_kind": false},
+    {"date": "08/18/2019", "recipient": "My Creative Shop, Inc", "purpose": "Graphic Design", "amount": "9.95", "in_kind": false},
+    {"date": "08/22/2019", "recipient": "Mike Bailey Printing", "purpose": "Printing", "amount": "361.43", "in_kind": false},
+    {"date": "10/12/2019", "recipient": "Dana Goff", "purpose": "Canvassing", "amount": "250.00", "in_kind": false},
+    {"date": "10/15/2019", "recipient": "Sly Broadcasting", "purpose": "Phone Calls", "amount": "225.00", "in_kind": false},
+    {"date": "10/15/2019", "recipient": "My Creative Shop, Inc", "purpose": "Graphic Design", "amount": "9.95", "in_kind": false},
+    {"date": "10/18/2019", "recipient": "Salt Lake Mailing & Printing", "purpose": "Printing and Mailing", "amount": "991.77", "in_kind": false},
+    {"date": "10/23/2019", "recipient": "Stripe Banking", "purpose": "Credit Card Processing", "amount": "16.55", "in_kind": false},
+    {"date": "10/30/2019", "recipient": "Dana Goff", "purpose": "Canvassing", "amount": "250", "in_kind": false},
+    {"date": "11/1/2019", "recipient": "Sly Broadcasting", "purpose": "Phone Calls", "amount": "20", "in_kind": false},
+    {"date": "11/5/2019", "recipient": "Costco", "purpose": "Election Night Party", "amount": "16.57", "in_kind": false}
+  ],
+  "total_contributions": "3,030.96",
+  "total_expenditures": "286.57",
+  "total_contributions_ytd": "3,030.96",
+  "total_expenditures_ytd": "3,030.96"
+}

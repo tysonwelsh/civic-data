@@ -1,0 +1,109 @@
+{
+ "date": "2025-03-12",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Mathew Lovato",
+  "Nancy Drozdek",
+  "Renee Layton"
+ ],
+ "source": "minutes/2025/2025-03-10/2025-03-12_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to deny GPZ-1-2025",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan & Rezone",
+   "action_category": "recommendation",
+   "result": "Negative recommendation 5:1",
+   "result_source": "SPLIT—GPZ-1-2025--DENIED",
+   "outcome_word": "denied",
+   "mover": "Harold Woodruff",
+   "seconder": "Rob Durfee",
+   "names_recorded": true,
+   "aye": [
+    "Harold Woodruff",
+    "Mathew Lovato",
+    "Nancy Drozdek",
+    "Renee Layton",
+    "Rob Durfee"
+   ],
+   "nay": [
+    "Martell Winters"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve C-3-2025 with conditions one through eight",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "3:0 Approved (Final Action)",
+   "result_source": "UNANOMOUS—C-3-2025--APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Harold Woodruff",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 3,
+    "nays": 0,
+    "source": "UNANOMOUS—C-3-2025--APPROVED"
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "3:0 Pass",
+   "result_source": "taken and all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Harold Woodruff",
+   "seconder": "Mathew Lovato",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 3,
+    "nays": 0,
+    "source": "taken and all members voted in favor of the motion."
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve Commissioner Winters as Vice Chair",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "3:0 Approved (Final Action)",
+   "result_source": "was taken and all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Harold Woodruff",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 3,
+    "nays": 0,
+    "source": "was taken and all members voted in favor of the motion."
+   }
+  }
+ ]
+}

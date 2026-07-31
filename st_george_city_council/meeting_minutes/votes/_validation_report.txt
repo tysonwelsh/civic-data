@@ -1,0 +1,19 @@
+St. George — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 8464   motions: 1801   named-vote motions: 1788   tally-only motions: 13
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 0, undocumented (DEFECTS): 0
+
+4. ROSTER: roster.csv present (22 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 1788/1788 match (100.0%)
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+KNOWN, HAND-VERIFIED QUIRKS:
+   - 2 unanimity-vs-roll quirks documented in meeting_minutes/CLAUDE.md (2021-06-03 m7, 2021-11-18 m15: minutes say 'unanimous' but the roll records a Nay) -- their result strings carry no numeric tally, so they do not enter the tally check here; the dataset's own extractor validation reports them.
+
+HARD FAILURES: 0

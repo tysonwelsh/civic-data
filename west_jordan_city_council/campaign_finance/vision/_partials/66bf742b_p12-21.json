@@ -1,0 +1,29 @@
+{
+  "segments": [
+    {
+      "pages": "12-21",
+      "report_label": "INTERIM (Primary) — signed 8/2/2021, received by City Clerks Office AUG 02 2021 (stamp: Time 4:33 By Tangee); candidate Whitelock, Shauna, Kayleen; At-Large Council Member; internal form pages 1-9 preceded by a cover/separator sheet",
+      "cover_lines": {
+        "line1_balance_forward": "925.60",
+        "line2_contributions_50_or_less": "50.00",
+        "line3_contributions_over_50": "1,000.00",
+        "line4_total_contributions": "1,050.00",
+        "line5_total_expenses": "(477.10)",
+        "line6_ending_balance": "1,498.50"
+      },
+      "contributions": [
+        {"date": "6/29/2021", "name": "Colleen Schow", "amount": "50.00", "in_kind": false},
+        {"date": "6/29/2021", "name": "Salt Lake Board of Realtors", "amount": "1,000.00", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": "5/25/2021", "recipient": "Wix.com", "purpose": "website and domain", "amount": "122.26", "in_kind": false},
+        {"date": "6/11/2021", "recipient": "Kwik Kopy", "purpose": "Campaign flyers", "amount": "262.76", "in_kind": false},
+        {"date": "6/1/2021", "recipient": "City of West Jordan", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false},
+        {"date": "7/21/2021", "recipient": "Walmart", "purpose": "tape", "amount": "8.41", "in_kind": false},
+        {"date": "8/2/2021", "recipient": "Erin Whitelock", "purpose": "reimbursement", "amount": "33.67", "in_kind": false},
+        {"date": "8/22/2021", "recipient": "Carter Bramhall", "purpose": "distribute flyers", "amount": "25.00", "in_kind": false}
+      ]
+    }
+  ],
+  "notes": "Second complete report in bundle: INTERIM primary report signed 8/2/2021 (page 12 is a separator sheet printing 'Kayleen Whitelock / 08/02/2021 / INTERIM: Required by all candidates. Due by 5:00 PM on August 3rd, 2021...'). Cover lines verified at 150dpi and match expected values exactly. Attachment A-1 TOTAL prints $1,050.00 (= 50.00 + 1,000.00, cross-foots). Attachment B TOTAL prints $477.10; itemized rows verified at 300dpi (122.26 + 262.76 + 25.00 + 8.41 + 33.67 + 25.00 = 477.10, cross-foots exactly; the earlier quick-glance readings '122.20' and '282.76' were misreads — this copy clearly prints 122.26 and 262.76, same as the Final-Amended copy). Two verbatim source anomalies preserved: (1) Attachment A summary box 2 ('Total of all contributions of more than $50, including in-kind') prints $1,500.00, inconsistent with cover line 3 ($1,000.00) and the A-1 itemization/TOTAL ($1,050.00 incl. the $50 row) — transcribed as printed, not corrected; (2) Carter Bramhall expenditure date prints 8/22/2021 (verified at 300dpi), anachronistic on a report signed 8/2/2021 — likely a typo for an earlier date but transcribed verbatim. Attachment C (in-kind) is empty; TOTAL IN-KIND CONTRIBUTIONS prints $0.00. Contributor addresses partially redacted (black boxes) on A-1 (Colleen Schow street) and Attachment B (Erin Whitelock street); city/state fragments still visible ('West Jordan Ut 8...'). A-1 amounts print without $ signs; Attachment B amounts print with $ signs; amounts stored verbatim minus currency symbol. No illegible values."
+}

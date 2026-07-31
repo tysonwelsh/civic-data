@@ -1,0 +1,38 @@
+{
+  "contributions": [
+    {"date": null, "name": "Loan from Tish Buroker", "amount": "5000.00", "in_kind": false},
+    {"date": null, "name": "Operating Engineer group", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Glen Roberts", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Nick Buroker/Burlacher LLC", "amount": "2000.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Inkredibles T-shirts", "purpose": null, "amount": "210.00", "in_kind": false},
+    {"date": null, "recipient": "Sun Lithographics", "purpose": null, "amount": "2247.69", "in_kind": false},
+    {"date": null, "recipient": "Sun Lithographics", "purpose": null, "amount": "2256.28", "in_kind": false},
+    {"date": null, "recipient": "Chase White Direct NY", "purpose": null, "amount": "175.00", "in_kind": false},
+    {"date": null, "recipient": "Lowes Hardware", "purpose": null, "amount": "113.49", "in_kind": false},
+    {"date": null, "recipient": "Republican ads", "purpose": null, "amount": "750.00", "in_kind": false},
+    {"date": null, "recipient": "Loyal Perch Media", "purpose": null, "amount": "360.00", "in_kind": false},
+    {"date": null, "recipient": "Direct NY", "purpose": null, "amount": "300.00", "in_kind": false},
+    {"date": null, "recipient": "Sun Lithographics", "purpose": null, "amount": "161.89", "in_kind": false},
+    {"date": null, "recipient": "Sun Lithographics", "purpose": null, "amount": "366.79", "in_kind": false},
+    {"date": null, "recipient": "Riverton IFA", "purpose": null, "amount": "101.32", "in_kind": false},
+    {"date": null, "recipient": "Lowes Hardware", "purpose": null, "amount": "53.49", "in_kind": false},
+    {"date": null, "recipient": "Notatek", "purpose": null, "amount": "1596.51", "in_kind": false}
+  ],
+  "total_contributions": "6000.00",
+  "total_expenditures": "8692.41",
+  "contributions_50_or_less": null,
+  "beginning_balance": "5946.29",
+  "ending_balance": "3253.88",
+  "_meta": {
+    "index_path": "raw/2025_buroker_28-day-report.pdf",
+    "candidate": "Tish Buroker",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_buroker_28-day-report.pdf",
+    "pages": 6,
+    "method": "text-layer transcription 2026-07-18 (typed). 28-Day Report; THIS-PERIOD = Column B (8-6 THRU 10-7-2025): cash contrib 6000.00 / expend cover 8692.41. Cover EXCLUDES in-kind (Nick Buroker/Burlacher LLC videography 2000.00, Schedule C, recorded in_kind). NOTE: the 13 Schedule-B line items sum to 8692.46, the filer's printed cover/subtotal is 8692.41 (a 0.05 filer cent discrepancy) -> expend side will reconcile FALSE, kept verbatim, NOT adjusted."
+  }
+}

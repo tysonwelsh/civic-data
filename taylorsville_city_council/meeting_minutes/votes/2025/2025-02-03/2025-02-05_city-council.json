@@ -1,0 +1,54 @@
+{
+ "date": "2025-02-05",
+ "year": 2025,
+ "title": "City Council Meeting",
+ "source": "minutes/2025/2025-02-03/2025-02-05_city-council.md",
+ "body": "Council",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "moved approve the minutes of the January 22, 2025 City Council meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "mover": "Anna Barbieri",
+   "seconder": "Meredith Harker",
+   "aye": [
+    "Meredith Harker",
+    "Curt Cochran",
+    "Anna Barbieri",
+    "Bob Knudsen",
+    "Ernest Burgess"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    5,
+    0
+   ],
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "moved adjourn, and Chair Harker",
+   "motion_type": "Procedural/Administrative",
+   "result": "",
+   "mover": "Curt Cochran",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 2
+  }
+ ]
+}

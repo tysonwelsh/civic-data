@@ -1,0 +1,125 @@
+# City Council Special Meeting - Truth in Taxation
+> Source: Utah Public Notice Website (PMN), Draper City Council (PMN body 5555)
+> Notice: https://www.utah.gov/pmn/sitemap/notice/1014507.html  |  File: https://www.utah.gov/pmn/files/1325239.pdf (file id 1325239)
+> PMN original: pmn_backfill/raw/pmn_council_2025-08-13_minutes_1325239.pdf  |  Raw PDF: raw/2025-08-13_city-council-truth-in-taxation.pdf
+> Meeting date: 2025-08-13
+> Recovered 2026-07-13 via pmn_backfill; PROMOTED 2026-07-16 into this audited layer (born-digital, internal header/date verified - see pmn_backfill/CLAUDE.md).
+> Note: Truth-in-Taxation special session never listed on Granicus. CLERK HEADER TYPO preserved verbatim: the minutes print TUESDAY, AUGUST 13, 2025 but 2025-08-13 was a Wednesday (PMN event date + filename both 8-13). Approved 2025-09-16 (running footer).
+> Format: text (born-digital)  |  Extraction: pdftotext -layout
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, AUGUST 13,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+             Johnson, Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED:
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Traci Gunderson; Linda Peterson, Communications Director; Nicole
+             Smedley, City Recorder; Jake Sorensen, Network Manager; and John
+             Vuyk, Finance Director
+______________________________________________________________________________________
+
+1.    Call to Order by Mayor Troy K. Walker
+
+2.    Public Hearings: Proposed Tax Increases
+      2.a Proposed Property Tax Increase – Salt Lake County
+           Finance Director John Vuyk explained that Draper City general operations
+           would receive additional property tax revenue as a result of holding the
+           FY2026 property tax rate at the same level as FY2025, following the
+           expiration of the City’s bond. He reported that additional tax revenue
+           from Salt Lake County was estimated at $891,036, which would be used
+           to support inflationary cost increases within the City budget. Mr. Vuyk
+           displayed a comparison of total property tax rates in Salt Lake County
+           cities, noting that Draper had the second lowest rate.
+
+           Mayor Walker opened a public hearing for Salt Lake County residents.
+
+           John McMahon, Draper resident within Salt Lake County, said he
+           understood the City’s bond was paid off, and asked how tax revenue from
+           maintaining the same property tax rate would be used.
+
+           Paul Kearsley, Draper resident within Salt Lake County, said no mention
+           was made last year of the bond coming due when the property tax rate
+           was increased for FY2025. He expressed the opinion that budgets should
+           be based on need and requirements, and expressed concern that
+           expiration of the bond had not be brought up previously.
+
+
+
+                                                                            1|Page
+        Draper City Council Meeting Minutes Approved September 16, 2025
+    Cordel Andersen, Draper resident within Salt Lake County, said the
+    statement he recently received showed a 9% increase for Draper City in
+    2025. He said he was confused that 2026 was not listed, and said he
+    wanted to understand.
+
+    Mayor Walker closed the public hearing. He stated that Draper
+    implemented its first property tax rate increase in seventeen years in
+    FY2025, primarily to fund public safety. He spoke of the challenges posed
+    by inflationary costs and stated that the Council had discussed and
+    determined that holding the property tax rate for FY2026 at the same
+    level as FY2025 was necessary to maintain the desired level of service.
+    Mayor Walker commented that Draper had benefited from increasing
+    sales tax revenue year over year for a long period, but that sales tax
+    revenue had leveled out and declined over the last year. He noted that
+    The Point had the potential to be a significant retail contributor in the
+    future.
+
+    Mr. Vuyk said the bond expiration was not discussed last year because
+    bond payments were part of the FY2025 Budget. Council Member Green
+    said he believed holding the property tax rate level made more sense
+    than trying to figure out how to cut essential services from the FY2026
+    Budget.
+
+    Council Member T. Lowery emphasized that property tax revenue had
+    not been enough to fund general police and fire operations, and the City
+    had been supplementing with sales tax revenue for a long time. She said
+    sales tax revenue had gone down, but police and fire services still needed
+    to be funded. Mayor Walker spoke of increased costs of vehicles and
+    equipment.
+
+2.b Proposed Property Tax Increase – Utah County
+    Mr. Vuyk showed estimated additional property tax revenue from holding
+    the property tax rate level in FY2026 of $44,929 from Utah County.
+
+    Mayor Walker opened a public hearing.
+
+    Bob Clark, Draper resident at 13590 South 300 East, asked what was
+    meant by the term “fully staffed” for police and fire, and asked if there
+    were ways to run things longer, reduce, and simplify. He said he would
+
+                                                                     2|Page
+         like to pay officers and firefighters more money to attract quality people,
+         but employ fewer.
+
+         Mayor Walker said he knew chiefs of both departments would say their
+         departments could use more individuals. The Mayor pointed out that
+         people did not want to work all the time, and enough officers and
+         firefighters were needed to be staffed at all times. Mayor Walker said he
+         believed Draper had the minimum number to be safe and provide
+         service.
+
+         Council Member Johnson spoke of riding along on patrol, and expressed
+         confidence that the Police Department was not funded beyond what was
+         needed for public safety. She said she would like to be able to increase
+         the number of officers employed in Draper to provide greater backup and
+         support. Council Member Green emphasized that police and fire were 24-
+         hour operations, and said he believed the departments were doing what
+         they were supposed to do within the City’s means. Council Member T.
+         Lowery said the Council always looked for ways to bring more money to
+         Draper, and encouraged residents to shop and buy local.
+
+         Mayor Walker closed the public hearing.
+
+3.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember T.
+     Lowery seconded the motion, which passed by unanimous vote.
+
+     The meeting adjourned at 6:29 pm.
+
+
+
+
+                                                                          3|Page
+

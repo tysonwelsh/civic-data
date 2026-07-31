@@ -1,0 +1,557 @@
+# Planning Commission
+> Source: Utah Public Notice Website (PMN), Draper City Planning Commission (PMN body 383)
+> Notice: https://www.utah.gov/pmn/sitemap/notice/944839.html  |  File: https://www.utah.gov/pmn/files/1196659.pdf (file id 1196659)
+> PMN original: pmn_backfill/raw/pmn_pc_2024-10-10_minutes_1196659.pdf  |  Raw PDF: raw/2024-10-10_planning-commission.pdf
+> Meeting date: 2024-10-10
+> Recovered 2026-07-13 via pmn_backfill; PROMOTED 2026-07-16 into this audited layer (born-digital, internal header/date verified - see pmn_backfill/CLAUDE.md).
+> Note: Heals the logged broken-Granicus-stub gap (~299-byte non-PDF stub on the portal). Approved minutes with standard Yes/No/Abstained/Not-Participating/Absent roll grids.
+> Format: text (born-digital)  |  Extraction: pdftotext -layout
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, OCTOBER 10, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Kendra Shirey
+               Alternate Commission Member Laura Fidler
+               Alternate Commission Member Christine Green
+
+EXCUSED:             Commission Member Gary Ogden
+                     Commission Member Mary Squire
+
+DID NOT SIT:         Alternate Commission Member Shivam Shah
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Spencer DuShane, City Attorney
+                     Brien Maxfield, Senior Engineering Manager
+                     Todd Taylor, City Planner III
+                     Maryann Pickering, City Planner III
+                     Nick Whittaker, City Planner
+                     Amie Salazar, Office Manager
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order at 6:30 PM and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+      A.      Action Item: Approve Planning Commission Meeting Minutes for August 8,
+              2024. (Administrative Action)
+
+Motion: Commissioner Nixon moved to APPROVE the minutes of August 8, 2024, as
+submitted.
+
+Second: Commissioner Fowler seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+
+        Commissioner     Yes    No    Abstained     Not Participating      Absent
+           Fowler         x
+           Squire                                                            x
+           Ogden                                                             x
+           Nixon           x
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 2
+
+             Shirey          x
+        Fidler, Alternate    x
+        Shah, Alternate                                         x
+        Green, Alternate     x
+
+
+       B.      Action Item: Approve Planning Commission Meeting Minutes for August 22,
+               2024, as submitted. (Administrative Action)
+
+Motion: Commissioner Fowler moved to APPROVE the minutes of August 22, 2024.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on motion: 5-0 in favor
+
+
+        Commissioner        Yes    No    Abstained      Not Participating       Absent
+             Fowler          x
+             Squire                                                                x
+             Ogden                                                                 x
+             Nixon           x
+             Shirey          x
+        Fidler, Alternate    x
+        Shah, Alternate                                         x
+        Green, Alternate     x
+
+
+       C.      Public Hearing: Patterson Subdivision Plat Amendment.
+               (Administrative Action)
+               On the request of Brett Jansson, a Subdivision Plat Amendment request on
+               approximately 0.92 acres, located at approximately 1571 E. Patterson Lane.
+               Known as application 2024-0297-SUB, Staff contact: Maryann Pickering, (801)
+               576-6391, maryann.pickering@draperutah.gov.
+
+City Planner, Maryann Pickering presented the Staff Report and stated that the two subject
+properties are located near Boulter Street and Porter Rockwell Trail. The Land Use category is
+Residential Low-Medium Density and the zoning is RA-2 Single Family. The subdivision plat
+was approved in April of 2024. Because it is a minor subdivision, the plat did not come before the
+Planning Commission and was instead approved by the Zoning Administrator. The applicant later
+realized that some of the easements would not work with his home design and submitted the Plat
+Amendment to rectify the issue. The amendment affects Lots 2 and 3 of the subdivision and will
+amend the retention basins located in the northwest corner of each property. The City Engineer
+received the amendment and indicated that, although narrower, they will still meet the minimum
+standards. No other changes were proposed. Notices were sent to nearby property owners and no
+public comments were received.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 3
+
+
+The applicant, Brett Jansson, stated that the retention ponds will still be three times larger than
+required but the dimensions will change so they are narrower and deeper.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Motion: Commissioner Fowler moved to APPROVE the Subdivision Plat Amendment as
+requested by Brett Janson, Application 2024-0297-SUB, subject to the following:
+
+Finding:
+
+       1.      There is good cause for the amendment, and no public street or municipal
+               utility easement will be vacated or amended.
+
+Requirements:
+
+       1.      All requirements of the Draper City Engineering, Public Works, Building,
+               Planning, and Fire Divisions shall be satisfied throughout the development of
+               the site and the construction of all buildings on the site, including permitting.
+
+       2.      All requirements of the geotechnical report shall be satisfied throughout the
+               development of the site and the construction of all buildings on the site.
+
+       3.      If the subdivision plat amendment is not recorded within one (1) year from the
+               date of approval or construction of the required landscaping and
+               infrastructure has not commenced, such approval shall be null and void. This
+               time period may be extended by the Planning Commission for up to one
+               additional six (6) month period for good cause shown. The subdivider must
+               petition in writing for an extension prior to the expiration of the original one
+               (1) year. See DCMC Section 17-9-070.
+
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+
+        Commissioner        Yes    No     Abstained     Not Participating       Absent
+             Fowler          x
+             Squire                                                                 x
+             Ogden                                                                  x
+             Nixon           x
+             Shirey          x
+        Fidler, Alternate    x
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 4
+
+        Shah, Alternate                                           x
+        Green, Alternate     x
+
+
+       D.      Public Hearing: Paul Nagi Custom Design, LLC. Home Occupation
+               Conditional Use Permit (Administrative Action)
+               On behalf of Paul Nagi, representing Paul Nagi Custom Designs, a request for a
+               Home Occupation Conditional Use Permit to operate a home occupation that
+               provides alterations and measurements for custom clothing, on approximately 0.10
+               acres, located at 266 E Bellis Ct. Known as application 2024-0286-USE, Staff
+               Contact: Nick Whittaker, (801) 576-6522, Nick.Whittaker@Draperutah.gov.
+
+City Planner, Nick Whittaker presented the Staff Report and stated that the property is currently
+designated Residential High Density on the Land Use Map and is zoned RM-2 Multiple Family
+Residential. A Site Plan was presented that included the designated customer parking space and
+floor plan. Customers will enter the home and go into the basement workspace. For custom
+clothing, Mr. Nagi takes measurements and sends them to his partner in Thailand, who makes the
+garments. Alterations are performed onsite. One parking space will be left open on the driveway
+for customers who come for scheduled appointments. Potential impacts will be customers coming
+to the home, customer vehicle parking, and related traffic. Proposed mitigation measures included:
+
+       1.      All customer appointments must be made in advance online.
+
+       2.      Limiting appointments to one customer at a time.
+
+       3.      Providing one designated off-street parking stall for customer vehicles.
+
+       4.      Limiting business hours to between 11:00 a.m. and 6:00 p.m.
+
+Mr. Whittaker presented photographs of the exterior of the home, dedicated customer parking stall,
+and the interior workspace.
+
+In response to a question raised by Commissioner Fowler, Mr. Whittaker clarified that the parking
+rules for Home Occupation Businesses include providing an off-street parking option, which
+Mr. Nagi has identified in his plans. Commissioner Fowler stated that there are parking issues
+with almost every Home Occupation request and asked if there would still be adequate parking for
+all residents in the home. City Attorney, Spencer Dushane indicated that there is no set standard
+because it is a Conditional Use. With some past Home Occupation Permit requests, there were
+more customers or more frequent customers. In those cases, the Planning Commission sought to
+ensure that customers did not occupy the required residential stalls. This specific business will
+have one customer at a time and one designated parking stall. It was clarified that the
+Homeowner’s Association would enforce their Covenants, Conditions, and Restrictions
+(“CC&Rs”) regarding the business as that is not a City responsibility.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 5
+
+Notices were sent to neighboring property owners. One letter was received from the Homeowners
+Association (“HOA”), which was forwarded to the Planning Commission. The letter referred to a
+U-Haul truck that is frequently in front of the home. Mr. Whittaker stated that he had not spoken
+with Mr. Nagi about the specific concerns raised but he was provided with a copy. There were no
+open compliance issues with the property.
+
+The applicant, Paul Nagi stated that U-Hauls were at his home twice in the past year to move things
+between his home and a trade show. He does not carry inventory. He takes measurements for
+garments that are made in Thailand and does alterations at the location. In response to a question
+from Chair Adams, Mr. Nagi confirmed that the alterations business is already in operation. There
+will be one dedicated parking space for customers. In response to a question from Commissioner
+Fowler, Mr. Nagi stated that clients will not be allowed to park on the street. Walk-ins are not
+allowed. The business is by appointment only and he only sees one client at a time. Commissioner
+Fowler referred to the letter from the HOA, which states that the applicant is operating accounting,
+tailoring, and importing businesses from his home. Mr. Nagi stated that his wife has an accounting
+business and works remotely. The import business is the garments from Thailand, and only one
+or two garments are imported at a time.
+
+Chair Adams opened the public hearing.
+
+Wayne Hansen reported that he is Mr. Nagi’s neighbor, and he was present to express his support
+for the application. He disagreed with the statement from the HOA and stated that it was just one
+person’s opinion. The HOA did not ask for input from residents. Mr. Nagi has been a great
+neighbor. His front yard is immaculate and there has never been an issue with traffic. Mr. Hansen
+clarified that they are allowed to park in the street during daylight hours.
+
+There were no further public comments. The public hearing was closed.
+
+Motion: Commissioner Shirey moved to APPROVE the Home Occupation Conditional Use
+Permit, as requested by Paul Nagi representing Paul Nagi Custom Designs LLC, Application
+2024-0286-USE based on the following:
+
+Finding:
+
+       1.      The proposal complies with the standards for approval found in DCMC
+               Section 9-5-080(E) and potential negative impacts are mitigated through the
+               imposition of reasonable conditions.
+
+Conditions:
+
+        1.     All requirements of the Draper City Engineering, Public Works, Building,
+               Planning, and Fire Divisions shall be satisfied prior to issuance of a Business
+               License.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 6
+
+        2.    The hours of operation shall be limited to Monday through Friday between
+              11:00 a.m. and 6:00 p.m.
+
+        3.    Customers coming to the home shall be by appointment only, with only one (1)
+              customer being scheduled at a time.
+
+        4.    All customer appointments shall be made in advance online.
+
+        5.    Customers shall be directed to park on-site in the one (1) designated parking
+              space on the driveway as shown on the approved site plan and not on the street.
+
+        6.    The applicant shall maintain an active business license for as long as the
+              business is in operation from the residence.
+
+Second: Commissioner Fowler seconded the motion.
+
+Vote on motion: 5-0 in favor
+
+
+       Commissioner        Yes    No    Abstained     Not Participating      Absent
+            Fowler          x
+            Squire                                                              x
+            Ogden                                                               x
+            Nixon           x
+            Shirey          x
+       Fidler, Alternate    x
+       Shah, Alternate                                        x
+       Green, Alternate     x
+
+
+       E.     Public Hearing: Warhorse Ranch Development Agreement and Zoning Map
+              Amendment.
+              (Legislative Item)
+              Linda Asay Richins Living Trust, Jess and Valerie Maxfield, and Karen Evans,
+              request for approval of a Development Agreement and Zoning Map Amendment
+              for approximately 4.44 acres located at 12741 South and 12751 South Costanza
+              Way. Known as Application No. 2024-0045-DA and 2024-0248-MA. Staff
+              Contact: Todd Taylor, 801-576-6510, todd.taylor@draperutah.gov.
+
+City Planner, Todd Taylor presented the Staff Report and displayed City and aerial maps showing
+the subject property and two existing homes on Costanza Way. The site is currently designated
+Residential Low-Medium Density and zoned A-5 Agricultural. The request was to rezone the
+property to RA-2, Residential Agricultural. The Master Site Plan included with the Development
+Agreement provided a conceptual plan of how the two existing parcels could be split into a
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 7
+
+maximum of four separate lots. The purpose of the Development Agreement was to exempt a
+portion of Costanza Way from the City’s private right-of-way width standards and remove the
+requirement for a sidewalk.
+
+Mr. Taylor reported that Staff became aware that a deed document was recorded in September,
+which created two parcels out of one in violation of Subdivision Ordinance. The Development
+Agreement would not correct that issue, but if approved would allow it to be corrected. The
+Development Agreement documents would be updated to reflect that there would be three parcels,
+as well as update any parcel numbers that were received from the County. In response to a question
+raised, Mr. Taylor clarified that one parcel has been split into two lots and the second parcel will
+remain intact at present. A maximum of four lots would be allowed with the rezoning. It was
+noted that Mr. DuShane reviewed and approved the Development Agreement.
+
+The applicant, Chad Evans was present with his wife Karen, his daughter Valerie Maxfield, and
+their friend Linda Richins, who owns one of the homes. His daughter owns the 1.09 acres that is
+currently a pasture. Mrs. Evans owns the last parcel. They have worked for 18 months to come
+up with a plan that preserves the area but also allows them to care for the properties now and in
+the future. Currently, the pasture area is difficult to maintain. They love being on the trail. It is a
+beautiful area, and it is restricted so that it cannot be divided into smaller lots in the future. The
+buffer zones expand the 4.44 acres to approximately 6.5 acres. He was grateful for the opportunity
+to do this and indicated that Staff had been very patient and helpful in the process.
+
+Chair Adams opened the public hearing.
+
+Valerie Maxfield reported that she and her husband desire to build a home on one of the future
+lots. They are interested in the area because they love the outdoors. Her husband enjoys mountain
+biking and skiing, and she loves hiking. They have three young children, and it is a wonderful
+area that allows you to be outdoors year-round. They love the area and the neighbors. It feels like
+home, and it is the place they want to raise their children, grow old, and enjoy life.
+
+There were no further comments. The public hearing was closed.
+
+In response to a question posed by Chair Adams, Mr. Taylor indicated that the lot lines shown in
+the submitted Concept Plan were subject to change. City Staff and the Planning Commission will
+review a Subdivision Plat once it is submitted to determine if it meets all requirements. The
+Development Agreement would allow an avenue to correct the violation that occurred when the
+two parcels were recorded in September. The property is currently zoned for five-acre lots, so
+rezoning is required to create smaller parcels. Access to Constanza Way limits the street width,
+which requires the exception outlined in the Development Agreement. The Fire Department
+reviewed and approved the profile for the 31-foot road width specified in the agreement.
+
+Motion: Commissioner Fowler moved to forward a POSITIVE recommendation to the City
+Council for the Development Agreement, as requested by Chad Evans, representing the Vern
+LeLand Richins and Linda Asay Richins Living Trust, Jess and Valerie Maxfield, and Karen
+Evans, Application No. 2024-0045-DA, based on the following:
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 8
+
+
+Finding:
+
+      1.      The proposed development agreement complies with DCMC Subsections 9-5-
+              200(C) and (D).
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+
+       Commissioner        Yes   No   Abstained    Not Participating    Absent
+            Fowler          x
+            Squire                                                         x
+            Ogden                                                          x
+            Nixon           x
+            Shirey          x
+       Fidler, Alternate    x
+       Shah, Alternate                                     x
+       Green, Alternate     x
+
+
+Motion: Commissioner Nixon moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Map Amendment as requested by Chad Evans, representing the Vern
+LeLand Richins and Linda Asay Richins Living Trust, Jess, and Valerie Maxfield, and
+Karen Evans, Application No. 2024-0045-DA, based on the following Findings for Approval
+listed in the Staff Report dated October 4, 2024.
+
+Findings for Approval:
+
+      1.      The proposed Zoning Map Amendment is consistent with the goals, objectives,
+              and policies of the city's General Plan.
+
+      2.      The proposed Zoning Map Amendment is harmonious with the overall
+              character of existing development in the vicinity of the subject property.
+
+      3.      The proposed Zoning Map Amendment is consistent with the standards of any
+              applicable Overlay Zone.
+
+
+      4.      The proposed Zoning Map Amendment will not adversely affect adjacent
+              property.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 9
+
+       5.      There are adequate facilities and services intended to serve the subject
+               property, including, but not limited to, roadways, parks and recreation
+               facilities, police and fire protection, schools, stormwater drainage systems,
+               water supplies, and wastewater and refuse collection.
+
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+
+        Commissioner        Yes    No     Abstained      Not Participating       Absent
+             Fowler          x
+             Squire                                                                 x
+             Ogden                                                                  x
+             Nixon           x
+             Shirey          x
+        Fidler, Alternate    x
+        Shah, Alternate                                           x
+        Green, Alternate     x
+
+
+       F.      Public Hearing: Austin’s Appliance Repair Home Occupation Conditional
+               Use Permit.
+               (Administrative Action)
+               On the request of Austin Ewell, representing Austin’s Appliance Repair, a home
+               occupation Conditional Use Permit for a home office that provides outcall
+               appliance repair services, on approximately 0.37 acres, located at 794 E. 12500
+               South. Known as application 2024-0307-USE, Staff Contact: Nick Whittaker, (801)
+               576-6522, Nick.Whittaker@Draperutah.gov.
+
+Mr. Whittaker presented the Staff Report and displayed the Vicinity, Aerial, and Land Use maps
+for the subject property. Its current Land Use is Residential Low-Medium Density and zoned
+RA2. It is an existing appliance repair business office that will be adding features that require a
+Conditional Use application. Mr. Ewell repairs appliances onsite at his customers’ locations and
+performs administrative work from his home. The permit will allow him to park a work vehicle
+at the property and utilize approximately 100 square feet of the detached garage for storage. A
+floor plan of the home was reviewed indicating the space where administrative work is performed,
+as well as the portion of the garage that will be used for storage. In addition to parking the work
+vehicle at his residence, Mr. Ewell requested permission for signage on the vehicle.
+
+Potential impacts include traffic concerns, the aesthetics of a business vehicle being parked at the
+property, commercial signage attached to the business vehicle, and storage or repair of customer
+appliances at the property. Proposed mitigation would be limiting the number of business vehicles
+parked at the property to one vehicle, designating off-street parking for the business vehicle,
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 10
+
+prohibiting business-related appliances or appliance repair activities from being conducted on the
+subject property, and limiting the size of the business vehicle signage to that which currently exists.
+
+Mr. Whittaker reviewed photographs of the subject property, including the work vehicle, signage,
+and where the vehicle would be parked.
+
+The applicant, Austin Ewell stated that he has worked on appliances for over 16 years and has had
+his business license since 2014. He is the fourth-generation owner of the home, and he is happy
+to be a resident of Draper. He thanked the Planning Commission for their time.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Motion: Commissioner Fowler moved to APPROVE the Home Occupation Conditional Use
+Permit, as requested by Austin Ewell representing Austin's Appliance Repair, Application
+2024-0307-USE, based on the following:
+
+Finding:
+
+       1.      The proposal complies with the standards for approval found in DCMC
+               Section 9-5-080(E) and potential negative impacts are mitigated through the
+               imposition of reasonable conditions.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on motion: 5-0 in favor.
+
+
+        Commissioner         Yes    No     Abstained       Not Participating        Absent
+             Fowler           x
+             Squire                                                                    x
+             Ogden                                                                     x
+             Nixon            x
+             Shirey           x
+        Fidler, Alternate     x
+        Shah, Alternate                                             x
+        Green, Alternate      x
+
+
+       G.      Public Hearing: City Initiated 2024 ADU Zoning Text Amendment.
+               (Legislative Item)
+               On the request of Draper City, a request for a Zoning Text Amendment to Chapter
+               9-31 of the Draper City Municipal Code (DCMC) in order to modify standards for
+               accessory dwelling units (“ADU”), known as Application No. 2024-0279-TA.
+               Staff Contact: Todd Taylor, 801-576-6510, todd.taylor@draperutah.gov.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 11
+
+
+Mr. Taylor presented the Staff Report and stated that the Planning Commission previously
+reviewed a proposed General Plan Amendment and Moderate-Income Housing Plan Amendment
+to reduce regulations related to ADUs. The proposed Zoning Text Amendment would allow a
+property owner to occupy either the single-family dwelling or ADU. Additionally, in areas in the
+City where Internal Accessory Dwelling Units (“I-ADU”) are prohibited, the minimum lot size
+required to request a deviation to allow for an I-ADU would be decreased from 20,000 square feet
+to 6,000 square feet. All other requirements would be unchanged.
+
+In response to a question from Chair Adams, it was clarified that the ADU would still have to meet
+the 50% square footage rule; it cannot be over 50% of the main dwelling’s square footage. The
+change simply allows the property owner to live in either structure. For example, someone who
+is retired and does not need a larger home can still live on their property and rent out the larger
+home.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Motion: Commissioner Shirey moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Text Amendment, as requested by Draper City, for the City-Initiated
+2024 ADU Zoning Text Amendments, Application No. 2024-0279-TA, based on the
+following:
+
+Findings:
+
+       1.      The proposed amendment is consistent with the goals, objectives, and policies
+               of the City's General Plan.
+
+       2.      The proposed amendment is appropriate given the context of the request and
+               there is sufficient justification for a modification to the development codes.
+
+       3.      The proposed amendment will not create a conflict with any other section or
+               part of the development codes or the General Plan.
+
+       4.      The potential effects of the proposed amendment have been evaluated and are
+               determined not to be detrimental to public health, safety, or welfare and
+               represents an overall community benefit.
+
+       5.      The proposed text amendment implements the best current, professional
+               practices of urban planning, design, and engineering practices.
+
+Second: Commissioner Fowler seconded the motion.
+
+Vote on motion: 5-0 in favor.
+Draper City Planning Commission Meeting
+October 10, 2024
+Page 12
+
+
+       Commissioner        Yes   No   Abstained   Not Participating   Absent
+            Fowler          x
+            Squire                                                      x
+            Ogden                                                       x
+            Nixon           x
+            Shirey          x
+       Fidler, Alternate    x
+       Shah, Alternate                                   x
+       Green, Alternate     x
+
+2.    Adjournment.
+
+Motion: Commissioner Fowler moved to ADJOURN.
+
+Chair Adams adjourned the meeting at 7:28 PM.
+

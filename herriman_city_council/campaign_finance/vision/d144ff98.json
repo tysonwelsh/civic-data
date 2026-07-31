@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "10/30/25", "name": "DEIV SMART", "amount": "16.00", "in_kind": false},
+    {"date": "11/31/25", "name": "DAI", "amount": "3000.00", "in_kind": false},
+    {"date": "11/5/25", "name": "SALT LAKE HGA", "amount": "500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/5/2125", "recipient": "Majority 51", "purpose": "Signs, Mailers, Facebook, Consulting", "amount": "7670.49", "in_kind": false},
+    {"date": "11/5/2125", "recipient": "Anna Andre", "purpose": "Social Media Consulting", "amount": "1000.00", "in_kind": false},
+    {"date": "11/5/2125", "recipient": "Teddy Hodges", "purpose": "Election Night Food", "amount": "40.00", "in_kind": false}
+  ],
+  "total_contributions": "3510.00",
+  "total_expenditures": "8710.49",
+  "contributions_50_or_less": null,
+  "beginning_balance": "15,755.98",
+  "ending_balance": "10,555.49",
+  "_meta": {
+    "index_path": "raw/5957_MayorLorin-Palmer.pdf",
+    "candidate": "Lorin Palmer",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/5957_MayorLorin-Palmer.pdf",
+    "pages": 5
+  }
+}

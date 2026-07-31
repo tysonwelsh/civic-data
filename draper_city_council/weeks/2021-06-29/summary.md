@@ -1,0 +1,10 @@
+# Draper council week ending 2021-06-29
+_Window 2021-06-23 – 2021-06-29_
+
+- **Meetings:** 1 — city council special
+- **Votes:** 2 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 10 member-vote rows across 2 motions
+- [2021-06-23_city-council-special.md](../../meeting_minutes/minutes/2021/2021-06-21/2021-06-23_city-council-special.md)

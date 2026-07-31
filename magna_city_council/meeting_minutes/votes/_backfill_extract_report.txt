@@ -1,0 +1,11 @@
+Magna Council+CRA backfill (pmn_backfill -> meeting_minutes/all_votes.csv)
+recovered docs with motions : 16
+recovered motions           : 67
+recovered rows              : 67
+canonical rows              : 966
+merged total rows           : 1033
+zero-motion recovered docs  : 3
+    novote: pmn_backfill/text/2022-11-29__council-special-workshop__950413.txt
+    novote: pmn_backfill/text/2023-02-23__council-special-workshop__960533.txt
+    novote: pmn_backfill/text/2023-03-23__council-special-workshop__1106061.txt
+excluded (not promoted): 2025-11-18 CRA — DRAFT MINUTES - UNAPPROVED (stays a pmn_backfill sidecar)

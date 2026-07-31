@@ -1,0 +1,38 @@
+{
+  "contributions": [
+    {"date": "07/31/2023", "name": "Barb Hyland", "amount": "400.00", "in_kind": false},
+    {"date": "07/01/2023", "name": "Michelle Rodgers", "amount": "180.00", "in_kind": false},
+    {"date": "06/16/2023", "name": "Mark Wheatley", "amount": "100.00", "in_kind": false},
+    {"date": "06/03/2023", "name": "Hayden Clark", "amount": "100.00", "in_kind": false},
+    {"date": "07/23/2023", "name": "Tanner Greenhalgh", "amount": "100.00", "in_kind": false},
+    {"date": "08/05/2023", "name": "Gay Lynn Bennion", "amount": "100.00", "in_kind": false},
+    {"date": "08/06/2023", "name": "Women's Democratic Club", "amount": "100.00", "in_kind": false},
+    {"date": "08/02/2023", "name": "Benjamin Peck", "amount": "87.00", "in_kind": false},
+    {"date": "08/17/2023", "name": "Aggregate donations <$50", "amount": "166.00", "in_kind": false},
+    {"date": "05/30/2023", "name": "David Rodgers", "amount": "408.89", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "05/31/2023", "recipient": "Harker Media", "purpose": "Photography", "amount": "60.00", "in_kind": false},
+    {"date": "06/02/2023", "recipient": "Murray City", "purpose": "Filing", "amount": "95.00", "in_kind": false},
+    {"date": "05/31/2023", "recipient": "Wix", "purpose": "Website", "amount": "205.92", "in_kind": false},
+    {"date": "07/05/2023", "recipient": "Lyon Printing", "purpose": "Signs", "amount": "311.03", "in_kind": false},
+    {"date": "08/01/2023", "recipient": "Whitney Daniels Designs", "purpose": "Shirts", "amount": "200.00", "in_kind": false},
+    {"date": "07/20/2023", "recipient": "Utah Democratic Party", "purpose": "Votebuilder", "amount": "81.46", "in_kind": false},
+    {"date": "08/03/2023", "recipient": "Sun Print Solutions", "purpose": "Literature", "amount": "428.21", "in_kind": false},
+    {"date": "08/12/2023", "recipient": "Google", "purpose": "Verified Email Address", "amount": "8.00", "in_kind": false}
+  ],
+  "total_contributions": "1741.89",
+  "total_expenditures": "1389.62",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "352.27",
+  "_meta": {
+    "index_path": "raw/202308_David-W-Rodgers_14460.pdf",
+    "candidate": "David W. Rodgers",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202308_David-W-Rodgers_14460.pdf",
+    "pages": 7
+  }
+}

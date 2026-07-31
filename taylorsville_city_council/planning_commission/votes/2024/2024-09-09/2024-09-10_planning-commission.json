@@ -1,0 +1,176 @@
+{
+ "date": "2024-09-10",
+ "year": 2024,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2024/2024-09-09/2024-09-10_planning-commission.md",
+ "present": [
+  "Cindy Wilkey",
+  "Don Russell",
+  "Marc McElreath",
+  "Don Quigley",
+  "Lynette Wendel",
+  "David Wright",
+  "Gordon Willardson",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to approve the minutes as presented from the July 9, 2024 and August 13, 2024 Planning Commission meetings",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley moved to forward a negative recommendation to theCity Council for File # 5Z24 — DCA- 000481- 2024, a Zoning Map Amendment for the Property Located at 4768 S Redwood Road a presented. The motion died for lack of a second",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Died (no second)",
+   "kind": "recommendation",
+   "mover": "Don Quigley",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": false,
+   "tally_text": "",
+   "case_no": [
+    "5Z24"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to forward a positive recommendation to the City Council regarding on File # 5Z24 — DCA- 000481- 2024, a Zoning Map Amendment for the Property Located at 4768 South Redwood Road in Taylorsville, Utah, from Community Commercial to Boulevard Commercial, Subject to the Information and Findings in the Staff Report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 6-1",
+   "kind": "recommendation",
+   "mover": "Marc McElreath",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "Gordon Willardson",
+    "Don Russell",
+    "Marc McElreath",
+    "David Wright",
+    "Cindy Wilkey",
+    "Lynette Wendel"
+   ],
+   "nay": [
+    "Don Quigley"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "6-1",
+   "case_no": [
+    "5Z24"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to forward a negative recommendation to the City Council for a Zoning Text Amendment to Chapter 13. 38 of the Taylorsville Municipal Code Amending Regulations in the SSD- X 6 Bennion Point Zoning District",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Negative recommendation — motion failed 3-4",
+   "kind": "recommendation",
+   "mover": "Lynette Wendel",
+   "seconder": null,
+   "aye": [
+    "Lynette Wendel",
+    "Marc McElreath",
+    "David Wright"
+   ],
+   "nay": [
+    "Don Quigley",
+    "Cindy Wilkey",
+    "Gordon Willardson",
+    "Don Russell"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 4
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to forward a positive recommendation to the City Council for File # 4Z24 — DCA- 000479- 2024, a Zoning Text Amendment to Chapter 13. 38 of the Taylorsville Municipal Code Amending Development Regulations in the SSD- X Bennion Point Zoning District, except for the land use components in Sections A, B and C",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 6-1",
+   "kind": "recommendation",
+   "mover": "David Wright",
+   "seconder": "Don Russell",
+   "aye": [
+    "Don Russell",
+    "David Wright",
+    "Cindy Wilkey",
+    "Don Quigley",
+    "Marc McElreath",
+    "Gordon Willardson"
+   ],
+   "nay": [
+    "Lynette Wendel"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "4Z24"
+   ],
+   "motion_no": 5
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "4Z24"
+   ],
+   "motion_no": 6
+  }
+ ]
+}

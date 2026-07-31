@@ -1,0 +1,61 @@
+{
+ "contributions": [
+  {
+   "date": "9/10/2021",
+   "name": "Runar Boman",
+   "amount": "2500.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "9/22/2021",
+   "recipient": "The City Journals",
+   "purpose": null,
+   "amount": "400.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/8/2021",
+   "recipient": "Deseret News",
+   "purpose": null,
+   "amount": "494.61",
+   "in_kind": false
+  },
+  {
+   "date": "10/11/2021",
+   "recipient": "SkyMail International",
+   "purpose": null,
+   "amount": "717.69",
+   "in_kind": false
+  },
+  {
+   "date": "9/14/2021",
+   "recipient": "Design Genious.com",
+   "purpose": null,
+   "amount": "705.96",
+   "in_kind": false
+  },
+  {
+   "date": "10/4/2021",
+   "recipient": "Salt Lake County Clerk",
+   "purpose": null,
+   "amount": "15.00",
+   "in_kind": false
+  }
+ ],
+ "total_contributions": "2500.00",
+ "total_expenditures": "2333.26",
+ "contributions_50_or_less": null,
+ "beginning_balance": null,
+ "ending_balance": "166.74",
+ "_meta": {
+  "index_path": "raw/2021_state_runar-boman-cottonwood-heights-candidate-for-district-3.pdf",
+  "candidate": "Runar Boman",
+  "office": "Council",
+  "filing_type": "interim",
+  "election_year": "2021",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2021_state_runar-boman-cottonwood-heights-candidate-for-district-3.pdf",
+  "pages": 3
+ }
+}

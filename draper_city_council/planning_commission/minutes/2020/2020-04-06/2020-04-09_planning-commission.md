@@ -1,0 +1,127 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=82&doc_id=7d978681-991c-11ea-a2af-0050569183fa
+> Meeting date: 2020-04-09
+> Format: text
+
+Approved 4/23/2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, APRIL 9, 2020 IN THE DRAPER CITY COUNCIL
+CHAMBERS
+
+PRESENT:             Chairperson Andrew Adams, Vice Chairperson Craig Hawker,
+                     Commissioners Mary Squire, and Traci Gundersen Alternate
+                     Commissioners Lisa Fowler, DeLaina Tonks and Gary Ogden
+
+ABSENT:              Commissioner John Van Hoff and Kent Player
+
+STAFF PRESENT: Russell Fox, Jennifer Jastremsky, Christina Oliver, Brien Maxfield, Steve
+               Alsop, Pete Kane, Mike Barker, Spencer DuShane and Amie Salazar
+
+ALSO PRESENT:         See sign in sheet
+
+
+
+
+6:30 PM Business Meeting
+
+The Agenda will be as follows:
+
+       Electronic Meeting
+       This meeting will be an electronic meeting pursuant to Draper City Resolution #14-54. As
+       restrictions take place across the State for limiting public gatherings, we want to make sure
+       everyone interested in participating can do so in a manner they feel most comfortable.
+           • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+           • Email your comments to planning.comment@draper.ut.us by Noon on the day of
+                the meeting. These will become part of the public record.
+           • If you wish to speak during the Public Comment or Public Hearings portion of the
+                meeting, please send a request for the Zoom Meeting ID to
+                planning.comment@draper.ut.us by noon, April 9, 2020.
+
+
+Motion re: Commissioner Gary Ogden made a motion to adopt the Zoom Meeting Rules and
+Commissioner Lisa Fowler seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+1. Action Item: Windsor Mill Townhomes and Office Building Site Plan Approval
+   Extension Request (Administrative Action)
+On the request of Corey Solum, representing Think Architecture, for a one-time six-month
+extension to the site plan approval for the Windsor Mill Townhomes and Office Building Site Plan
+Draper City Planning Commission Meeting
+April 9, 2020
+Page 2
+located at 11450 South 820 West. Application SP-277-2018. Staff contact Jennifer Jastremsky,
+801-576-6328, jennifer.jastremsky@draper.ut.us.
+
+Senior Planner, Jennifer Jastremsky, gave a presentation. She explained this site plan had been
+approved in February 2019. They were asking for a 6-month, one-time extension. They met all
+extension requirements and staff recommended its approval.
+
+Commissioner Craig Hawker asked why this has been delayed.
+
+Ms. Jastremsky replied it was delayed because the owner had some health issues.
+
+       Motion re: Commissioner Mary Squire moved to approve a one-time six-month extension
+       to the site plan approval for the Windsor Mill Townhomes and Office Building Site Plan
+       located at 11450 South 820 West. Application SP-277-2018 and Commissioner Traci
+       Gundersen seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 5 to 0 vote.
+
+2. Public Hearing: City-Initiated Grading and Slope Text Amendment (Legislative Action)
+   A request by the City of Draper for approval of a Text Amendment to various sections of
+   Draper City Municipal Code Title 9 to modify the regulations pertaining to grading, slopes,
+   and retaining walls on properties. These changes would apply citywide. Application
+   TEXTMAP-962-2020. Staff contact: Pete Kane, 801-576-6335, pete.kane@draper.ut.us.
+
+Planner Pete Kane gave a presentation. He explained there were issues with perceived building
+height and not the actual building heights. He gave a couple of property examples and stated it was
+an issue on lots that were raised. Recommended text amendments would be updating the
+regulations for retaining walls and adjust driveway slope limits and front setback rise. He stressed
+that current projects could not be changed since they already had their permits. He outlined the
+text amendment recommendations. He gave examples of what each would look like on some
+specific properties.
+
+Commissioner Hawker asked if it was overpowering. He wanted to know how many projects
+would be affected if they passed this text amendment.
+
+Mr. Kane replied any sites that already had their permits would not be affected. The overall height
+of these sites would be reduced.
+
+Jennifer Jastremsky explained they were talking about everything east and southeast of Highland
+Drive.
+
+Chairman Andrew Adams asked if there are applications in the process of being approved that
+would be affected.
+
+Mike Barker stated if it was a pending application, this would not affect them.
+Draper City Planning Commission Meeting
+April 9, 2020
+Page 3
+
+Chairman Adams opened the public hearing.
+
+There were no comments.
+
+Chairman Adams closed the public hearing.
+
+Commissioner Lisa Fowler asked how this could possibly have a negative impact on the City.
+
+Commissioner Gary Ogden was glad to see these changes.
+
+        Motion re: Commissioner Traci Gundersen moved to forward a positive recommendation
+        the Text Amendment to various sections of Draper City Municipal Code Title 9 to modify
+        the regulations pertaining to grading, slopes, and retaining walls on properties. These
+        changes would apply citywide. Application TEXTMAP-962-2020 as requested and
+        Commissioner Fowler seconded the motion.
+
+        Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+        motion. This item passed with a 5 to 0 vote.
+
+3.   Adjournment
+     Chairman Andrew Adams moved to adjourn the meeting.
+
+The meeting adjourned at 7:05 p.m.
+

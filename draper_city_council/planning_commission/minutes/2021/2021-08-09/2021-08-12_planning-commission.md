@@ -1,0 +1,713 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=482&doc_id=7bff6158-1285-11ec-9f1e-0050569183fa
+> Meeting date: 2021-08-12
+> Format: text
+
+Approved minutes 9/09/2021
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, AUGUST 12, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:         Chairperson Andrew Adams, Vice Chairperson Craig Hawker
+                       Commissioners Mary Squire, Gary Ogden, and John Van Hoff, Alternate
+                       Commissioners Susan Nixon and Tab Bingham
+
+ABSENT:                Commissioner Lisa Fowler and Alternate Commissioner DeLaina Tonks
+
+STAFF PRESENT:         Jennifer Jastremsky, Mike Barker, Brien Maxfield, Amie Salazar, Todd
+                       Draper, Maryann Pickering and Travis Van Ekelenburg
+
+6:30 PM Business Meeting:
+
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for July 8, 2021
+       (Administrative Action)
+
+Motion: Commissioner Hawker motioned to approve the Planning Commission Meeting
+Minutes for July 8, 2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+2.     Action Item: Draper Wingate Hotel Site Plan Approval Extension (Administrative
+       Action)
+
+On the request of Alan Summerhays, representing Kristine Ann Properties, for an extension to the
+Site Plan Approval of Draper Wingate Hotel, located at 12361 South Minuteman Dr., Application
+SPR-797-2020.        Staff    contact     is      Jennifer     Jastremsky,       801.576.6328,
+jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented. She illustrated the property with land use
+designation, zoning map, and a site plan. She stated that the site plan will expire within a year and
+the applicant is asking for a six-month extension.
+
+Applicant absent.
+
+Commissioner Susan Nixon mentioned that the extension is due to the price of lumber and
+materials.
+
+Motion: Commissioner Nixon motioned to approve the extension for the Draper Wingate
+Hotel Site Plan as requested by Alan Summerhays representing Kristine Anne Properties,
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 2
+application SPR-797-2020, based on the findings and subject to general and specific
+conditions as stated and listed in the staff report dated August 4, 2020.
+
+Second: Commissioner Van Hoff
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+3.     Public Hearing: Advmaker              Home     Occupation      Conditional     Use    Permit
+       (Administrative Action)
+
+On request by Priti Hansia approval of a Home Occupation Conditional Use Permit in the R3 zone
+located at 376 E. Thornberry Dr. regarding a home business creating metal art sculptures for sale.
+Application USE-0049-2021. Staff contact:           Travis Van Ekelenburg, 801.576.6522,
+travis.vanekelenburg@draperutah.gov.
+
+Travis Van Ekelenburg, Planner, presented, and stated the property is located within a residential
+zone. He stated that the applicant makes and sells metal sculptures. He stated that the
+commissioners should review the definition of Cottage Business to determine whether it is
+appropriate for this situation. He defined Cottage Business. He clarified the size of the home and
+the percentage of the house used as a home business. He stated that the applicant is the only
+employee and customers do not visit the home. He stated that the business takes place inside the
+garage, thus eliminating the garage as a place for parking. He stated that the applicant is deficient
+in several areas. He quoted a statement from Fire Marshal Don Buckley. He included the Fire
+Marshal’s review and concerns. He stated that Code Enforcement Officer Dave Bernal determined
+that the applicant didn’t have a business license or land use approval. He stated that the applicant
+applied after the visit from code enforcement.
+
+Chairman Adams asked Mr. Van Ekelenburg whether he was included in the staff who visited the
+site.
+
+Mr. Van Ekelenburg stated that the visited the site personally.
+
+Commissioner Squire inquired about the hobby and business space, and how to classify the
+difference between the two in any situation.
+
+Mr. Van Ekelenburg stated that the ordinance clearly states the square footage that can be utilized
+for business. He stated that it is difficult to differentiate between the business activity and the
+hobby activity as they use the same materials and equipment.
+
+Applicant, Joy Dutta with his wife Priti Hansia translating presented. He stated that he understands
+the concerns of his neighbors. He stated that it is primarily a hobby. He stated that he is employed
+and sells the sculptures on the weekends. He stated that he tries to have proper ventilation in the
+garage by keeping the garage door open or moving to the backyard. He stated that he does not
+know of any noise complaints from the neighbors as he tries to schedule the noisier activities
+during the middle of the day. He stated that there are no industrial chemicals, but he uses water
+
+
+                                                 2
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 3
+and vinegar to promote rusting and coloring on the metal. He stated that he does sometimes use
+spray paint, but always with proper ventilation as to avoid any fire hazards.
+
+Commissioner Van Hoff asked about the process of making the sculptures.
+
+Mr. Dutta illustrated the process he goes through when making a sculpture to sell. He stated that
+all activity is either in the garage or in the backyard.
+
+Commissioner Ogden asked about the spraying process.
+
+Mr. Dutta stated that he doesn’t spray continuously as most of the sculptures are rusted and there
+is very little spray painting.
+
+Commissioner Squire asked about the Fire Marshal list of items.
+
+Mr. Dutta stated that he takes many precautions to avoid fire hazards. He stated that he has not had
+any fire issues so far. He clarified that the welding is electrical and not gas, so there is no open
+flame.
+
+Commissioner Squire stated that the commissioners put a lot of weight into what the staff experts
+say. She asked about ways to mitigate the fire concerns.
+
+Mr. Dutta stated that he would like to know what the requirements are to keep working safely.
+
+Commissioner Squire stated that the responsibility to find out the requirements falls on the
+applicant.
+
+Mr. Dutta stated that he plans to take his business activity to a different location. He asked about
+continuing to make metal sculptures in his garage as a hobby.
+
+Commissioner Squire stated that they are currently addressing whether to grant the permit.
+
+Ms. Dutta stated that they had been looking at the city guidelines and trying to adhere to those.
+She stated that they will investigate ways to adhere to the fire safety rules as well.
+
+Chairman Adams asked for page 10 of the staff report to be shown on the projector screen. He
+stated that this would give them an idea of what they would need to comply with in order to
+continue this activity.
+
+Commissioner Squire stated that any and all concerns from the Fire Marshal need to be satisfied.
+
+Chairman Adams stated that item number one is multifaceted. He stated that he appreciates that
+the applicant has purchased a warehouse for the project. He stated the concerns that are based on
+the city code.
+
+Vice Chairman Hawker inquired about the parking and traffic.
+
+
+                                                 3
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 4
+
+Mr. Dutta stated that the traffic is caused by friends, not by customers.
+
+Chairman Adams opened the public hearing.
+
+Leah Chan stated that she lives right across the street. She stated that she understands some of the
+concerns with safety measures. She stated that she has never experienced any noise outside of
+typical neighborhood levels. She stated that she didn’t even know they had the business. She stated
+that she didn’t see any issues or messes in the driveway or front yard. She stated that there are no
+limits to how many cars can be parked on the street. She stated that she understands the concerns
+for children as she has a five-year-old. She stated that she would like to see the Fire Marshal’s
+requirements met.
+
+Brock Vasic stated that he lives just down the street. He stated that the most important thing is
+whether the commissioners approve this activity that is meant to be done in an industrial space.
+
+AJ Pepper stated that his degree is in land use planning. He stated that he lives down the road and
+something that struck him is the issue with the Fire Marshal’s concerns. He stated that this is not
+the type of business that should qualify as a Cottage Business. He stated that some of the equipment
+could act like missiles if misused. He stated that it’s a dangerous business.
+
+Ralph Wolferts stated that he received basic training in welding as part of his apprenticeship as a
+mechanic. He stated that he is aware of the dangers that welding can present. He stated that he is
+concerned about the sizes of the products as they are often more than four feet tall and should
+qualify as industrial items.
+
+Mitch Glende stated that he is a neighbor. He stated that he lives down the street and around the
+corner, so his experience is going to be different from immediate neighbors. He stated that he got
+to know the Hansia family and suspects that, even if they can’t continue sculpting as a business,
+they will continue to sculpt as a hobby. He stated that he’s glad to have a process like this in place.
+He asked about the process in which the applicant is made aware of things like the Fire Marshal’s
+concerns as he couldn’t find anything online or in preparation for the meeting that was available
+to the public.
+
+Chairman Adams closed the public hearing and called the applicant up again.
+
+Mr. Dutta reiterated that the electrical welding is different from gas welding, and explained the
+different types of chemicals that are used. He stated that he has used some chemicals in the past,
+but never in the garage. He stated that he no longer uses that chemical and can get rid of it.
+
+Chairman Adams asked about the tank that the Fire Marshal had a concern about.
+
+Mr. Dutta stated that it is still there, but it’s outside and he can get rid of it.
+
+Commissioner Van Hoff asked about the welding equipment and whether it lets off a spark.
+
+
+
+                                                     4
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 5
+Mr. Dutta stated that there has never been a fire of any size.
+
+Vice Chairman Hawker stated that they need to decide the point where a small business and hobby
+turns into something that needs a commercial spot. He stated that they often disagree, but the hard
+part for him is that he knows neighbors who work in their garage on their cars and even with
+welding. He wondered where they draw the line between Mr. Dutta’s rights to make metal art as a
+hobby, and even as a business, and the rights of the neighbors. He stated that this isn’t an HOA,
+so certain restrictions don’t apply. He stated that commissioner Squire made some good points. He
+stated that the applicant isn’t using many chemicals or gases or sprays, and, so long as they operate
+within certain hours, he doesn’t see an issue with it. He stated that the street is available to public
+parking. He stated that it seems the applicant seems willing to adhere to the rules and alleviate
+concerns. He stated that his biggest concern is with the points that the Fire Marshal illustrated.
+
+Commissioner Squire stated that the Fire Marshal’s issues are her biggest concern. She stated that
+the parking and garage use is an issue as the report says the garage cannot be taken for business
+use, and the applicant is unable to mitigate or satisfy that use. She stated that the very use of the
+garage is problematic for a CUP.
+
+Commissioner Hawker asked Mike Barker, City Attorney, whether the conditions were specific to
+a CUP or if there was anything that could prohibit them doing exactly what they’re doing for a
+hobby.
+
+Ms. Jastremsky stated that there could be noise mitigation if it’s a nuisance. She stated that the fire
+code has standards for gas usage.
+
+Commissioner Squire stated that this is one of the toughest situations they’ve had. She stated that
+the presumption is that home businesses should be allowed.
+
+Commissioner Hawker asked if the difficulty in this situation is due to the location of the business
+being in the garage.
+
+Commissioner Van Hoff asked if the square footage includes storage of the materials.
+
+Mr. Van Ekelenburg stated that it needs to keep a residential character.
+
+Commissioner Ogden stated that if they did approve with conditions, the applicant would have to
+adhere to every ordinance and inspection. He stated that the permit would not be granted until all
+the conditions were met and satisfied.
+
+Commissioner Nixon asked about the section of code that addresses parking for single family
+homes. She stated that the parking and the business occupation are at odds with one another. She
+stated that state law requires the land use authority shall approve conditional use if conditions can
+be imposed to mitigate the issues.
+
+Commissioner Hawker asked if it was even possible for the applicant to meet all the requirements
+for the CUP.
+
+
+                                                  5
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 6
+
+Mr. Van Ekelenburg stated that it would be difficult. He stated that there’s a lot of things they look
+for. He stated that this is a tough situation.
+
+Chairman Adams presented the list of hurdles that are in front of the applicant. He suggested
+moving to an industrial location and let the business flourish while keeping peace with the
+neighbors. He stated that this is a very different situation, but even if they weren’t selling anything,
+there would still be some conditions for noise and safety that would apply.
+
+Motion: Commissioner Squire motioned to deny the Conditional Use Permit as requested by
+Priti Hansia on behalf of Advmaker LLC, application USE-0049-2021, based on the findings
+and subject to the conditions listed in the staff report dated July 26, 2021.
+
+Commissioner Nixon asked whether the applicant could reapply within a certain time limit.
+
+Ms. Jastremsky stated that there is no time limit that restricts them from reapplying.
+
+Second: Commissioner Nixon
+
+Commissioner Hawker stated that, even if they don’t approve the CUP, the applicant still has the
+right to use the garage as a place for a hobby.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of denying the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+4.     Public Hearing: Lot 745 Bellevue Mellor Residence Plat Amendment (Administrative
+       Action)
+
+A request by Jim Mellor, property owner, for approval of a plat amendment to adjust a lot line
+between Lots 745 and 746 of Bellevue Phase 7B. The request will relocate the shared lot line to
+its original location. The properties are located at approximately 797 E. Medina Drive and 13193
+S. Sunset Stream Way in the RSD-5-Bellevue (Bellevue Residential Special District) Zone.
+Application SUBD-088-2021. Staff contact:                Maryann Pickering, 801.576.6391 or
+maryann.pickering@draperutah.gov.
+
+Maryann Pickering, Planner, presented. She stated that this is a plat amendment, but it would only
+be a property line adjustment in this instance. She explained the history behind why the property
+line was moved from its original placement. She stated that, at this time, the applicant wishes to
+return the property line back to its original location. She stated that both properties meet and
+comply with code.
+
+Chairman Adams asked whether the applicant is present.
+
+Applicant, Jim Mellor, stated that the goal is to take the property line back to the original lot line
+and shape.
+
+
+
+                                                   6
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 7
+Commissioner Hawker asked about the pool.
+
+Mr. Mellor stated that the pool is gone, so there is be nothing inhibiting the lot line.
+
+Chairman Adams disclosed that he shares a neighborhood with the applicant.
+
+Mr. Mellow stated that everything has been approved by the HOA.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Van Hoff motioned to approve the plat amendment as requested by
+Jim Mellor to adjust a lot line between Lots 745 and 746 of Bellevue Phase 7B, Application
+SUBD-088-2021, based on the findings and subject to the conditions listed in the staff report
+dated August 03, 2021.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+5.     Public Hearing: Liz June’s Atelier Home Occupation Conditional Use Permit
+       (Administrative Action)
+
+On request by Elizabeth Lazaro for approval of a Home Occupation Conditional Use Permit in the
+RA2 zone located at 617 E Stokes Ave. regarding a home business making and selling candles and
+soaps. Application: USE-0105-2021; Staff Contact: Travis Van Ekelenburg, 801-576-6522,
+travis.vanekelenburg@draperutah.gov.
+
+Travis Van Ekelenburg presented. He stated that the applicant is requesting to make and sell soaps
+and candles from the home. He reviewed the zoning designation and the floor plan of the home.
+He stated that the homeowner will be the only employee. He stated that there will be no customers
+coming to the home as the homeowner will sell wholesale to retailers and online. He stated that
+there will be no business vehicles and the home vehicle will not have any business signage. He
+stated that the home will retain its appearance as a residential home.
+
+Chairman Adams invited the applicant to come down.
+
+Elizabeth Lazaro, applicant, stated that she wants to make soaps and candles for her sister’s
+business in California, but there isn’t much to add.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+
+
+                                                  7
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 8
+Motion: Commissioner Ogden motioned to approve the Home Occupation Conditional Use
+Permit as requested by Elizabeth Lazaro, application USE-0105-2021, based on the findings
+and subject to the conditions listed within the staff report dated July 30, 2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+6.     Public Hearing: Laketown Speed and Sound Phase 3 Amended Site Plan
+       (Administrative Action)
+
+On the request of John Mueller, representing Laketown Speed and Sound, for an Amended Site
+Plan for Laketown Speed and Sound Phase 3 located on 0.74 acres of property at 11710 South
+State St. Application SPR-410-2018. Staff contact is Jennifer Jastremsky, 801-576-6328,
+jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager, presented. She reviewed the land use designation as well
+as the zoning. She stated that the request is to place a parking lot on the property and allow for the
+parking lot to be used for offsite purposes. She stated that the property will lose a few parking
+spots. She stated that they’ve been working with the applicant to bring it into compliance. She
+stated that there are a few conditions. She stated that the parking range allowed is 22-36 and the
+property would have 25; however, the neighboring parking lot would have 40. She stated that there
+have been some parking issues over the years with the adjacent property that would like to utilize
+the proposed parking lot.
+
+Vice Chairman Hawker stated that normally big parking lots are not allowed. He asked whether
+they are beholden to keep track of the parking spaces if ownership changes.
+
+Ms. Jastremsky stated that there is a lease agreement and the term of that lease is 99 years. She
+stated that the parking lot for the adjacent business is legal, even though it doesn’t comply with
+the current code, because it complies with the code that was in place when it was built.
+
+Commissioner Nixon asked about ADA compliance.
+
+Ms. Jastremsky stated that when the property was built, they were compliant with the ADA
+requirements of the time.
+
+Applicant, John Mueller, stated that the land is in use and mitigating a lot of traffic. He stated that
+there have been no issues with the land. He stated that he may try to apply for a variance for the
+landscaping. He stated that the doctors using the parking lot are very grateful for the additional
+parking. He stated that there have been no break-ins or anything of the sort. He stated that the
+purpose of the parking is to provide safe employee parking.
+
+Chairman Adams asked if parking lot is completely enclosed and fenced in.
+
+
+
+                                                  8
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 9
+Mr. Mueller stated that it is and they haven’t had any issues with criminal activity.
+
+Commissioner Squire asked about voting on this tonight if the applicant is planning to deviate
+from what’s listed in the staff report.
+
+Ms. Jastremsky stated that there is no deviation that the applicant can apply for.
+
+Commissioner Squire clarified whether they should vote on it tonight.
+
+Mr. Mueller stated that there are several places built around the same time as this location that do
+not comply with the landscaping code.
+
+Ms. Jastremsky stated that the applicant would have a year to be able to come into compliance.
+
+Mr. Mueller agreed.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Squire motioned to approve the offsite parking as requested by John
+Mueller representing Laketown Speed and Sound for Laketown Speed and Sound phase 3
+amended site plan, application SPR-410-2018, based on the findings and subject to the
+conditions listed in the staff report dated August 2, 2021.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+Motion: Commissioner Van Hoff motioned to approve the amended site plan as requested
+by John Mueller representing Laketown Speed and Sound for Laketown Speed and Sound
+phase 3 amended site plan, application SPR-410-2018, based on the findings and subject to
+the conditions listed in the staff report dated August 2, 2021.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+7.     Public Hearing: Lot 16 Alan Point Plat Amendment (Administrative Action)
+
+On request by Jeff Johnson for approval of a Plat Amendment in the RA2 zone located at 815 W
+Alan Point Dr. to vacate a wetlands no-build-area in the rear yard. Application: SUBD-0070-2021;
+Staff Contact Travis Van Ekelenburg, 801-576-6522, travis.vanekelenburg@draperutah.gov.
+
+
+
+                                                 9
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 10
+Mr. Van Ekelenburg presented the land use map and zoning designation. He stated that the
+proposed plan is to vacate the wetlands and has provided all the required documentation. He stated
+that the wetlands have dried up and they are able to vacate the no-build-area.
+
+Chairman Adams invited the applicant to come down.
+
+Applicant, Jeff Johnson, stated that the area is not a wetlands. He stated that he would like to be
+able to use his backyard instead of a field of weeds. He stated that this is the first step.
+
+Chairman Adams opened the public hearing.
+
+Chairman Adams closed the public hearing.
+
+Motion: Commissioner Hawker motioned to approve the plat amendment as requested by
+Jeff Johnson for application SUBD-0070-2021 based on the findings and subject to the
+conditions listed in the staff report dated June 28, 2021.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Ogden, Van Hoff and Nixon voted, “Aye”.
+
+8.     Public Hearing:       City Initiated Accessory Dwelling Unit Text Amendment
+       (Legislative Item)
+
+On the request of Draper City for at Text Amendment to Title 9 of Draper City Municipal Code in
+order to amend regulations pertaining to definitions, second kitchens in single-family dwellings,
+and accessory dwelling units. This application is known as the City Initiated Accessory Dwelling
+Unit Text Amendment. Application: TEXTMAP-0113-2021. Staff Contact: Todd Draper, (801)
+576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner, presented. He stated that this is in response to H.B. 82 which was passed
+earlier this year. He explained the changes that would be made. He stated that there are additional
+definitions being included. He elaborated on second kitchens, D-ADUs, I-ADUs, primary
+dwellings, rental dwellings, and owner of record. He presented Section 9-5-210. He explained the
+changes made to Chapter 30 in Title 9. He explained the changes made to Chapter 31 in Title 9.
+
+Vice Chairman Hawker inquired about houses that have 3 kitchens in the same home, or rather
+having an I-ADU as well as a D-ADU in addition to the main dwelling.
+
+Commissioner Squire asked about secondary kitchens and I-ADUs.
+
+Mr. Draper clarified the code. He stated the conditions for I-ADUs as well as those for D-ADUs.
+He explained the development standards for I-ADUs and D-ADUs. He stated that only one ADU
+per lot or parcel is permitted.
+
+
+
+                                                10
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 11
+Commissioner Hawker asked about HOAs.
+
+Mr. Draper stated that the state law provisions prevent HOAs from prohibiting I-ADUs.
+
+Commissioner Hawker asked about separate entrances.
+
+Mr. Draper stated that a separate entrance is not required. He stated that there would need to be
+one additional parking space, but nothing that would alter the exterior of the house from looking
+like any other house in a residential area.
+
+Commissioner Squire asked about the definition of a second kitchen.
+
+Commissioner Nixon also asked about what qualifies as a kitchen.
+
+Ms. Jastremsky read the code definition of a kitchen.
+
+Mr. Draper stated that there are a few new sections in Chapter 31. He elaborated on these new
+sections.
+
+Commissioner Hawker asked about giving mailboxes to ADUs.
+
+Ms. Jastremsky stated that, because I-ADUs are allowed to be rented out, it makes sense for
+separate addressing for security and privacy concerns.
+
+Commissioner Hawker asked about how the addressing would work.
+
+Mr. Draper stated that there are some conventions that they try to utilize for addressing. He stated
+that there is now a section in Chapter 31 that discusses violations and remedies to listed violations.
+
+Mike Barker, City Attorney, clarified Airbnb’s and short-term rentals. He illustrated what the
+ordinance does and does not address.
+
+Ms. Jastremsky clarified what is and isn’t allowed for room rentals.
+
+Commissioner Squire asked about a minimum number of days for the rentals. She asked about
+short-term rentals needing a business license.
+
+Ms. Jastremsky stated that the current code states that a business license is only required if there
+are four or more houses being rented out.
+
+Mr. Draper stated that state law allows a restriction of I-ADUs up to 25% of residential area. He
+presented a map that illustrates where I-ADUs should be or shouldn’t be.
+
+Commissioner Hawker asked about HOAs and off-street parking.
+
+
+
+
+                                                 11
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 12
+Mr. Draper stated that the map was not built off lot size, but street width. He stated that it illustrates
+the areas where the narrow streets could become more congested with on-street parking or
+additional vehicles, which would be a typical impact of an ADU.
+
+Commissioner Squire asked about HOA considerations.
+
+Mr. Draper stated that HOAs regulations would not apply.
+
+Commissioner Squire asked about the 25% prohibited area.
+
+Ms. Jastremsky stated that the area in question was included in the 25% of residential area.
+
+Commissioner Nixon asked about wide private streets and approval from neighbors.
+
+Mr. Draper stated that they’re not allowed to restrict ADUs based on street width. He stated that
+was one factor used in the map creation. He stated that private streets, whether HOA or owners
+would have the ability to restrict parking on the street as long as it meets fire code, it would be
+allowed.
+
+Ms. Jastremsky requested feedback on the map.
+
+Commissioner Hawker asked about I-ADUs, parking, and larger properties.
+
+Mr. Draper stated that they would reconsider certain areas on the map.
+
+Commissioner Nixon asked about public out-reach.
+
+Mr. Draper stated that they’re looking for public comment and input in this meeting and the city
+council meeting. He stated that they will provide information to the public.
+
+Ms. Jastremsky stated that the property must comply with the code.
+
+Chairman Adams opened the public hearing.
+
+Josh Christensen stated he and his family and neighbors have been on the receiving end of the
+negative impacts of ADUs. He stated that they have mini apartment complexes in the
+neighborhood due to some gray area that contractors have exploited. He stated that there are over
+200 cars parked on the street. He stated that they would like to recommend limits on ADUs.
+
+Dan Portwood stated that they’re seeing a degradation of the neighborhood. He stated that he’s on
+the HOA board. He stated that the roads are too narrow in his neighborhood for all the cars. He
+stated that limitations on the ADUs is a very welcome change.
+
+Shon Wettstein stated that he appreciates the guidelines that are being put into place. He stated
+that there are often too many cars per house because of the number of rooms being rented out. He
+
+
+
+                                                   12
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 13
+stated that he has concerns about nonconforming units being grandfathered in. He stated that many
+of these houses have an I-ADU and a D-ADU when they shouldn’t be able to have both.
+
+Vickie Christensen stated that the firetrucks have difficulty getting through the street because there
+are too many cars. She stated that renters don’t have any care for the neighborhood. She stated that
+cars and mailboxes are being broken into. She stated that there are too many cars on the street and
+they need the support from the city and the police.
+
+Zach Lambert stated that he lives in the ghetto of Draper. He stated that there are just too many
+cars. He stated that there are 6 or 7 cars per house. He stated that there were 28 cars between three
+houses. He stated that the firetrucks can’t get through and the snowplow can’t get through. He
+stated that by restricting the parking on one street doesn’t fix the issue because it pushes the cars
+into the surrounding neighborhoods. He stated that renters don’t take ownership.
+
+Abby Shaha stated that she and her family actually moved when they started having kids because
+the old neighborhood wasn’t safe. She stated that she has seen snowplows and firetrucks and
+ambulances be unable to move through the streets. She stated that she has been unable to pull her
+own car out of the driveway. She stated that she’s been told that, because there were so few
+limitations put in place in the beginning, nothing can be done now. She stated that there is more
+crime in these areas. She stated that they need to go back and fix what never should have been
+allowed.
+
+Nicole Lambert stated that one of the problems is the location of the elementary school with all of
+the cars. She stated that it’s dangerous for the kids crossing, and the school buses can’t get through.
+She stated that there are people who have found loopholes and exploited them.
+
+Chairman Adams closed the public hearing.
+
+Commissioner Nixon asked about the legality and the nonconformity and grandfathering.
+
+Chairman Adams stated that he appreciates the pink map. He asked about the units that aren’t
+owner occupied. He asked about code enforcement.
+
+Ms. Jastremsky stated that it will become a code enforcement issue. She stated that there will have
+to be a public awareness campaign to make people aware of the changes. She stated that they will
+have to work with everyone to bring them into compliance. She stated that it will have to be done
+on a case-by-case basis.
+
+Commissioner Hawker stated that some of these neighborhoods were built in a way that just don’t
+accommodate ADUs. He asked why they’re still grandfathering in. He asked about the basements.
+
+Ms. Jastremsky stated that they will have to do it on a case-by-case basis and can’t speak to each
+home. She stated that this will be part of the code enforcement issue.
+
+Mr. Barker clarified the legality of grandfathering in something under code. He stated that the
+ADUs will need to have been legally established.
+
+
+                                                  13
+Draper City Planning Commission Meeting
+August 12, 2021
+Page 14
+
+Commissioner Hawker stated that he understands that it is a massive issue.
+
+Mr. Barker stated that they are under an October deadline. He stated that they want it to comply
+with state law. He stated that they don’t want to create more loopholes. He stated that they want
+to be very thorough.
+
+Chairman Adams stated that the language may change, but the main points will not. He explained
+this to the public.
+
+Motion: Commissioner Squire made a motion to send a positive recommendation to City
+Council on the Text Amendment as requested by Draper City for the City Initiated
+Accessory Dwelling Unit Text Amendment application TEXTMAP-0113-2021 based on the
+findings and subject to the conditions listed in the staff report dated August 5, 2021.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Van Hoff, Ogden, Squire, and Nixon voted, “Aye”.
+
+Jennifer Jastremsky stated that Christina Oliver no longer works for the city.
+
+9. Adjournment
+
+Motion: Commissioner Ogden motioned to adjourn.
+
+Vote: A vote was taken with the Commissioners voting in favor of the motion.
+
+The meeting adjourned 9:06 p.m.
+
+
+
+
+                                                14
+

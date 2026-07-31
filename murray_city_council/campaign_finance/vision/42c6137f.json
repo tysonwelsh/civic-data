@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "3/19/2025", "name": "Salt Lake Board of Realators", "amount": "4,000.00", "in_kind": false},
+    {"date": null, "name": "Salt Lake Board of Realators", "purpose": "Design Work", "amount": "370.00", "in_kind": true},
+    {"date": null, "name": "Salt Lake Board of Realators", "purpose": "Postage for mailer", "amount": "504.92", "in_kind": true},
+    {"date": null, "name": "Salt Lake Board of Realators", "purpose": "Printing Door hangers and", "amount": "1,095.42", "in_kind": true},
+    {"date": null, "name": "Salt Lake Board of Realators", "purpose": "Door hanger delivery", "amount": "2,667.00", "in_kind": true},
+    {"date": null, "name": "Salt Lake Board of Realators", "purpose": "Email", "amount": "500.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "GoDaddy", "purpose": null, "amount": "80.50", "in_kind": false},
+    {"date": null, "recipient": "Taffy Town", "purpose": null, "amount": "16.08", "in_kind": false},
+    {"date": null, "recipient": "CGI Graffics", "purpose": null, "amount": "258.52", "in_kind": false},
+    {"date": null, "recipient": "Go Daddy", "purpose": null, "amount": "1,565.27", "in_kind": false},
+    {"date": null, "recipient": "Murray City", "purpose": null, "amount": "95.00", "in_kind": false},
+    {"date": null, "recipient": "Moon Scooters", "purpose": null, "amount": "129.31", "in_kind": false},
+    {"date": null, "recipient": "Gravis Texting", "purpose": null, "amount": "1,234.40", "in_kind": false}
+  ],
+  "total_contributions": "4,000.00",
+  "total_expenditures": "3,379.08",
+  "contributions_50_or_less": null,
+  "beginning_balance": "741.93",
+  "ending_balance": "1362.85",
+  "_meta": {
+    "index_path": "raw/202508_Scott-Goodman_17033.pdf",
+    "candidate": "Scott Goodman",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202508_Scott-Goodman_17033.pdf",
+    "pages": 5
+  }
+}

@@ -1,0 +1,303 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=716&doc_id=fd967b9d-2fab-11ee-9e9a-0050569183fa
+> Meeting date: 2023-05-25
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, MAY 25, 2023 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chairman
+               Craig Hawker, Vice-Chair
+               Commission Member Mary Squire
+               Commission Member DeLaina Tonks
+               Commission Member Lisa Fowler
+
+ABSENT:               Commission Member Gary Ogden
+                      Alternate Commission Member Susan Nixon
+                      Alternate Commission Member Kendra Shirey
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+               Mike Barker, City Attorney
+               Spencer DuShane, Assistant City Attorney
+               Brien Maxfield, Senior Engineer Manager
+               Amie Salazar, Office Manager
+               Tevai Haunga, City Planner
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order.
+
+1.     Public Hearing: Epic Blooms LLC Home Occupation Conditional Use Permit
+       (Administrative Action)
+       On the request of Katherine Pendergast for a Home Occupation Conditional Use Permit for a
+       cottage business making and selling floral arrangements from the home. The property is
+       located at 15281 South Tall Woods Drive in the RM (Multi Family Residential Zone) and
+       Suncrest Master Development Agreement. Application USE-028-2023. Staff contact is Tevai
+       Haunga 801-576-6522 or tevai.haunga@draperutah.gov.
+
+City Planner, Tevai Haunga, presented the Staff Report and stated that the request is for a Home
+Occupation Conditional Use Permit in Suncrest. The applicant is requesting a cottage business where
+she will make floral arrangements in her basement. The operating hours will be Monday through
+Sunday from 9 AM – 6 PM. No customers or employees will come to the home. All orders will be
+made by phone or email and all products are delivered in personal vehicles to customers. Ms. Haunga
+displayed Vicinity and Aerial Maps. The land use designation is Residential Medium Density and
+the current zoning is Multi-Family Residential. Ms. Haunga presented the Site Plan and photos of
+the products that will be made in the home. Staff received no comments from neighbors or residents.
+
+The applicant, Katherine Pendergast introduced herself and her husband, Stephen Waits, and stated
+that they love making flowers and would like to do it in their basement. They deliver in Salt Lake
+and Utah counties. They deliver in their personal vehicles directly to clients.
+
+Vice Chair Hawker asked if they will eventually have customers come to the home. Ms. Pendergast
+stated that they do not want customers to come to their place of business. Mr. Waits stated that they
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 2
+
+plan to set the website up as delivery only. They are not looking to increase traffic for themselves or
+their neighbors.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing was
+closed.
+
+Motion: Vice Chair Craig Hawker moved to APPROVE the Epic Blooms, LLC Home
+Occupation Conditional Use Permit as requested by Katherine Pendergast, representing
+application USE-028-2023 based on the following:
+
+Conditions:
+
+       1.      All business requirements of the Draper City Engineering, Public Works
+               Building, Business Licensing, Planning, and Fire Divisions are satisfied
+               throughout the operation of the business.
+
+       2.      A Business License shall be maintained for the life of the business.
+
+       3.      Customers are not allowed to come to the property.
+
+       4.      Employees who do not reside in the home are not allowed.
+
+Findings:
+
+       1.      Reasonable mitigation measures can be placed on the conditional use to alleviate
+               anticipated detrimental effects.
+
+Second: Commissioner DeLaina Tonks
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Squire, Tonks, Fowler, and Hawker voted “Aye”. The motion passed
+unanimously.
+
+2.     Public Hearing: Big Willow Creek Phase 7 & 8 Site Plan and Plat Amendment
+       (Administrative Action)
+       On the request of Ben Hansen, representing Ivory Development, for a Site Plan and Plat
+       Amendment for 7.25 acres of property located in the R4, RM2, and RA1 zones, located at
+       approximately 491 W 11400 South Applications SPR-128-2022, SUBD-1104-2020. Staff
+       contact is Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, presented the Staff Report and stated that
+the property is part of the Big Willow Creek Development and is located immediately south of 11400
+South on the east side of Englemann Drive. Ms. Jastremsky displayed an aerial map and stated that
+Englemann Drive is the main access to Big Willow Creek off of 11400 South. Phase 1 is completely
+developed. Phases 2 and 3 are under construction. There is a split land-use designation with
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 3
+
+Residential High Residency and Residential Medium Density. There is a small amount in the
+Residential Low/Medium Designation. The zoning is also split with R/M2, which is multi-family,
+R4, one-quarter acre lot single family, and a small amount of RA/1.
+
+A Development Agreement on the property sets the maximum number of units. There will be future
+phases for the portions not covered under the current applications. The Development Agreement also
+allows for the density of the units to be spread across the property regardless of the specific zoning
+lines. The proposal is to have a mix of single-family and townhomes. Phase 8 consists of single-
+family lots with a mix of alley-faced driveways and front-loading garages from the street. Phase 7
+will feature townhomes. There will be townhomes facing Englemann Drive with an open space area.
+The property is vested under a previous Code regarding RM/2 zoning. Currently, for small lot single-
+family development certain setbacks are required. The previous Code specified that the setbacks for
+single-family lots are determined as part of the site plan process. The current Code requires five or
+six-foot side setbacks, 20-foot front setbacks, and 20-foot rear setbacks. For the single-family
+housing, the applicants are proposing 20-foot front and 15-foot rear setbacks for the front-loaded
+garages. They are proposing 15-foot front and 20-foot rear setbacks for the rear-loaded garages.
+There is a 20-foot-deep driveway for all the garages and a five-foot side setback. The setback would
+be 20 feet if on a corner. Ms. Jastremsky stated that what is proposed is in line with the current Code
+and meets the design intent of the streetscape.
+
+Phase 7 of the townhomes will include the required open space with 42% overall open space with the
+minimum being 30%. Future phases for townhomes will also include open space. The overall
+percentage was expected to be around 30% for the entire townhome section. The applicants have
+provided an extensively landscaped front area on 11400 South. It includes a xeriscape design with
+lawn areas. It will also feature rocks, streams, and lawns.
+
+Vice Chair Hawker asked if it would be a true open space park or have a retention pond.
+Ms. Jastremsky stated that the pond will hold water. Street trees will be provided along Englemann
+Drive with the center landscaped area for the townhomes featuring a playground area, walking paths,
+and benches. The building elevations were provided in the Staff Report. Each unit will have a two-
+car garage and visitor parking. The developers are providing twice the required parking count for
+guest parking. Once future phases come in, they will not double the number of guest parking stalls
+but will still comply with the Code. The parking requirements will be evaluated in future phases.
+
+In response to a question raised by Chair Adams, Ms. Jastremsky stated that there will be three
+additional phases. The parking requirements will be evaluated with each phase. There will be a
+maximum number of units from the Development Agreement that cannot be exceeded. The developer
+will have to comply with the City’s parking standards.
+
+The applicant, Ben Hansen from Ivory Development reported that there will be a Phase 9 and 10.
+Phase 9 will be the single-family homes on the west side of Englemann Drive. Phase 10 will include
+the remaining townhome units. Mr. Hansen intends to present Phases 9 and 10 at the next meeting.
+All of the unit counts were taken into consideration and the plans have been established in terms of
+unit counts. They will also meet the requirements for storm drains, sewer, and water.
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 4
+
+Commissioner Fowler expressed concern about the front-facing homes on Englemann Drive.
+Mr. Hansen stated that while they are front facing, they will have rear-loading garages onto private
+roads. In response to a question raised by Chair Adams, Mr. Hansen confirmed that this project is
+similar to the Holbrook Farms Project.
+
+Chair Adams opened the public hearing.
+
+C.J. Cleveland, an area resident, was concerned about traffic and parking and asked if all the front-
+facing homes will have 20-foot driveways behind the homes. He was concerned about on-street
+parking resulting in the street being limited to one lane. He asked if the townhomes will also have
+20-foot driveways and wanted to ensure that each unit has a driveway.
+
+There were no further public comments. Chair Adams closed the public hearing.
+
+Mr. Hansen confirmed that the driveways will be 20 feet. In addition, they have eliminated about 20
+townhomes by adding more single-family homes.
+
+Commissioner Squire asked if parking will be allowed on the internal streets. Mr. Hansen did not
+believe it had been addressed in the Development Agreement but he preferred that not occur. For
+that reason, they provided additional parking. Englemann Drive is a public street so on-street parking
+there will be controlled by the City. Commissioner Squire asked if the width of the internal streets is
+the same as standard City streets. Ms. Jastremsky stated that the interior streets are private. The
+looped road is 37 feet wide and will allow for on-street parking on one side. Narrower roads will not
+allow for on-street parking.
+
+Commissioner Fowler asked Senior Engineering Manager, Brien Maxfield how the community would
+petition the City to prohibit parking on Englemann Drive. Mr. Maxfield stated that with a public
+street, the City’s policy is to allow on-street parking unless issues arise. The Traffic Committee would
+accept requests for a “No Parking” sign and the situation would be evaluated based on safety and
+traffic issues. They would then decide whether to post signs. The City’s first stance was to allow
+parking until and unless there are issues.
+
+Vice Chair Hawker stated that 20-foot driveways are currently required on all properties in the City.
+Ms. Jastremsky confirmed that was the case.
+
+Motion: Vice Chair Hawker moved to APPROVE the Site Plan as requested by Ben Hansen,
+representing Ivory Development for Big Willow Creek Phase 7 & 8 Site Plan, Application SPR-
+128-2022, subject to the following:
+
+Findings:
+
+       1.      There is good cause for the vacation or amendment; and no public street, Big
+               Willow Creek Ph. 7 & 8 App. # SPR-128-22023, SUBD-1104-2020 Site Plan and
+               Plat Amendment Request 11 right-of-way, or easement has been vacated or
+               amended.
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 5
+
+
+      2.      A phased development plan has been approved.
+
+      3.      The Site Plan conforms to applicable standards set forth in this title, including
+              but not limited to, building heights, setbacks, access points, parking, landscaping,
+              and building materials.
+
+      4.      The proposed development plans meet the intent, goals, and objectives of the
+              General Plan and the purpose of the zoning district in which the site is located.
+
+      5.      The public facilities and services in the area are adequate to support the subject
+              development, as required by engineering standards and specifications.
+
+      6.      The proposed development plans comply with the engineering standards found
+              in Titles 7, 8, 11, 12, 16, and 18 of this code, including traffic, stormwater
+              drainage, and utility concerns.
+
+Conditions:
+
+      1.      That all requirements of the Draper City Engineering, Public Works, Building,
+              Planning, and Fire Divisions are satisfied throughout the development of the site
+              and the construction of all buildings on the site, including permitting.
+
+      2.      That all requirements of the geotechnical report are satisfied throughout the
+              development of the site and the construction of all buildings on the site.
+
+      3.      Address outstanding redlines included in Exhibit A of this report.
+
+      4.      If the plat amendment is not recorded within one (1) year from the date of
+              approval or construction of the required landscaping and infrastructure has not
+              commenced, such approval shall be null and void. This time period may be
+              extended by the Planning Commission for up to one additional six (6) month
+              period for good cause shown. The subdivider must petition in writing for an
+              extension prior to the expiration of the original one (1) year. See DCMC Section
+              17-9-070.
+
+Second: Commissioner Lisa Fowler
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Squire, Tonks, Fowler, and Hawker voted “Aye”. The motion passed
+unanimously.
+
+Motion: Commissioner Mary Squire moved to APPROVE the Plat Amendment, as requested
+by Ben Hansen representing Ivory Development, for Big Willow Creek Phase 7 & 8 Plat
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 6
+
+Amendment, application SUBD-1104-2020, based on the findings and subject to the conditions
+listed in the Staff Report dated May 16, 2023.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 4-to-0 in favor of the motion.
+Commissioners Squire, Tonks, Fowler, and Hawker voted “Aye”. The motion passed
+unanimously.
+
+3.     Public Hearing: Edwards Life Sciences Site Plan Amendment and Deviation
+       (Administrative Item)
+       The applicant has requested that these items be continued to a date uncertain. On the request
+       of Cecilia Uriburu representing Prescott Muir Architects and Edwards Life Sciences LLC, a
+       site plan amendment request to construct an approximately 78,861 square foot building
+       expansion, inclusive of a deviation request to allow for an increase in the on-site parking count
+       above the maximum amount specified by zoning on an approximately 19.159-acre property
+       located at approximately 12050 S. Lone Peak Parkway, known as Application SPR-195-2022
+       and     VAR-20-2023,         Staff     Contact:     Todd       Draper,       (801)     576-6335,
+       Todd.draper@draperutah.gov.
+
+The applicant requested that the above item be continued to a date uncertain.
+
+4.     Public Hearing: Edwards Life Sciences Text Amendment (Legislative Item)
+       The applicant has requested that this item be continued to a date uncertain. On the request of
+       Cecilia Uriburu representing Prescott Muir Architects and Edwards Life Sciences LLC, a text
+       amendment to amend the CSD-LP (Lone Peak Commercial Special District) zone to set the
+       amount of required landscaping for the Edwards Life Sciences property at ten percent (10%).
+       The property is approximately 19.159 acres and is located at approximately 12050 South Lone
+       Peak Parkway, known as application TEXTMAP-53-2023, Staff Contact: Todd Draper, (801)
+       576-6335, todd.draper@draperutah.gov.
+
+The applicant requested that the above item be continued to a date uncertain.
+
+Vice Chair Hawker asked if a Homeowners Association ("HOA”) can circumvent a public street. Ms.
+Jastremsky stated that it cannot. HOAs do, however, control private streets. The City is responsible
+for City streets. The Traffic Committee discussed times when the City has deemed it necessary to
+post “No Parking” signs. It typically takes place in high-density areas where on-street parking has
+become an issue and prevents two-way traffic. It becomes a safety concern because it limits
+emergency vehicle access. Pedestrian crossings and snowplow access were also of concern.
+Draper City Planning Commission Meeting
+May 25, 2023
+Page 7
+
+5.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+Second: Commissioner Fowler seconded the motion.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at 7:01 PM.
+

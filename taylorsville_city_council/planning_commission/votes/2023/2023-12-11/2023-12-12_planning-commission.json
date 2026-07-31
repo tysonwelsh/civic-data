@@ -1,0 +1,113 @@
+{
+ "date": "2023-12-12",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2023/2023-12-11/2023-12-12_planning-commission.md",
+ "present": [
+  "Don Quigley",
+  "Cindy Wilkey",
+  "David Wright",
+  "Lynette Wendel",
+  "Don Russell",
+  "Gordon Willardson",
+  "David Young",
+  "Marc McElreath"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve the minutes of the November 14, 2023 meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to table the election of the 2024 Planning Commission Chair and Vice-Chair until the first meeting in January",
+   "motion_type": "Appointment",
+   "result": "unanimous Pass",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "Cindy Wilkey",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to send a positive recommendation to the City Council for File # 6Z23 / DCA- 000379- 2023 to amend the Taylorsville Municipal Code related to subdivision review procedures, as specified in Exhibit A of the staff report with the following revisions: 1) removing the administrative plat requirement from the director; and 2) to require public hearings for preliminary plats",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 7-0",
+   "kind": "recommendation",
+   "mover": "David Wright",
+   "seconder": null,
+   "aye": [
+    "Gordon Willardson",
+    "Don Russell",
+    "Don Quigley",
+    "David Wright",
+    "Cindy Wilkey",
+    "Lynette Wendel",
+    "David Young"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "7-0",
+   "case_no": [
+    "6Z23"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "6Z23"
+   ],
+   "motion_no": 4
+  }
+ ]
+}

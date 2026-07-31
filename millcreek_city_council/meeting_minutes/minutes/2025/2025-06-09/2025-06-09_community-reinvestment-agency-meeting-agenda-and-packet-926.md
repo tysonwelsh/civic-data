@@ -1,0 +1,178 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06092025-926
+> Meeting date: 2025-06-09
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2025-06-09
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06092025-926
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                          Minutes       of the
+                                                                 Millcreek        Community            Reinvestment           Agency
+                                                                                            June      9, 2025
+                                                                                              7:00 p.m.
+                                                                                         Regular       Meeting
+
+
+
+
+The Community              Reinvestment              Agency     of Millcreek,        Utah, met in a regular               public     meeting       on
+June 9, 2025,          at City    Hall,      located    at 1330 E. Chambers                Avenue,      Millcreek,        Utah      84106.
+
+
+PRESENT:
+
+
+Board      Members                                                      City     Staff
+Jeff Silvestrini,        Chair                                          Mike      Winder,      City    Manager
+Silvia   Catten                                                         Elyse     Sullivan,      Agency        Recorder
+Thom     DeSirant                                                       Kurt     Hansen,      Facilities       Director
+Cheri    Jackson                                                        John Brems,           City Attorney
+Bev Uipi                                                                Lisa Dudley,          HR-Finance          Director
+
+
+Attendees:        Connor         Gale
+
+
+REGULAR             MEETING:              7:00 p.m.
+TIME       COMMENCED:                     9:03 p.m.
+
+
+
+Chair    Silvestrini       called      the meeting         to order.
+
+
+1. Public     Hearing          to Consider           the Fiscal        Year     2025-26       Tentative        Budget
+   Chair     Silvestrini         noted Lisa Dudley             covered        the information         in a previous        meeting.
+
+
+Board      Member          Jackson        moved        to open the public            hearing.         Board      Member        DeSirant
+seconded      the motion.           Chair       Silvestrini       called      for the vote. Board              Member        Catten        voted    yes,
+Board      Member          DeSirant          voted     yes, Board        Member          Jackson       voted     yes, Board          Member        Uipi
+voted    yes, and Chair             Silvestrini        voted    yes. The        motion       passed     unanimously.
+
+
+   There     were no comi'nents.
+
+
+Board     Member           DeSirant          moved      to close the public              hearing.     Board       Member           Uipi    seconded
+the motion.       Chair        Silvestrini        called      for the vote.       Board       Member          Catten      voted     yes, Board
+Member       DeSirant          voted      yes, Board          Member          Jackson       voted     yes, Board          Member          Uipi   voted
+yes, and Chair           Silvestrini         voted     yes. The motion            passed      unanimously.
+
+
+2. Discussion          and Consideration                of Resolution           25-07,     Adopting        the Community
+   Reinvestment            Agency         (CRA)        Annual      Budget         for the Fiscal        Year      Beginning          July 1, 2025,
+   and Ending           June      30, 2026
+Millcreek         CRA       Meeting      Minutes                                                        9 June       2025       Page 2 of 3
+
+
+
+Board       Member          DeSirant         moved       to approve           Resolution          25-07,    Adopting         the Community
+Reinvestment            Agency         Annual         Budget      for the Fiscal           Year      Beginning        July 1, 2025,          and
+Ending       June     30, 2026. Board              Member           Uipi     seconded         the motion.         The Recorder             called      for
+the vote.     Board         Member        Catten        voted       yes, Board           Member        DeSirant        voted      yes, Board
+Member        Jackson         voted     yes, Board           Member           Uipi    voted      yes, and Chair            Silvestrini       voted      yes.
+The motion           passed     unanimously.
+
+
+3. Public      I-Iearing       to Consider            Adopting         Interfund          Loan      Schedules        Necessary           to Cover
+   Prior      Year      Negative        Cash       Balances,        Between          l) West        Mfflcreek       CRA       and the City
+   Center       CRA,        2) West      Mnlcreek            CRA       and the Woodland                 Avenue       CRA,        and 3) West
+   Millcreek         CRA       and the Olympus                 Hills       CRA
+   Lisa Dudley           said for Resolution             25-05      and 25-06,           the purpose       of the resolutions             is to cover
+   negative       cash balances,          they are not related               to the 2019 bonds.
+
+
+Board       Member          Jackson      moved         to open the public                hearing.      Board       Member          Uipi     seconded
+the motion.         Chair      Silvestrini         called    for the vote.           Board       Member          Catten     voted        yes, Board
+Member        DeSirant         voted      yes, Board           Member          Jackson        voted     yes, Board          Member          Uipi      voted
+yes, and Chair           Snvestrini          voted     yes. The motion               passed       unanimously.
+
+
+   There      were no coinrnents.
+
+
+Board       Member          Jackson      moved         to close the public               hearing.      Board       Member          Uipi     seconded
+the motion.         Chair      Silvestrini         called    for the vote.           Board       Member          Catten     voted        yes, Board
+Member        DeSirant         voted      yes, Board           Member          Jackson        voted     yes, Board          Member          Uipi      voted
+yes, and Chair           Silvestrini         voted     yes. The motion               passed       unanimously
+
+
+4. Discussion           and Consideration               of Resolution             25-04,      Authorizing          a Series       of Inter-fund
+   Loans       Between         the West         Millcreek         CRA        and the Millcreek              Center        CRA     Project          Areas.
+   The Purpose              of the Interfund            Loans       Is to Cover           the Series       2019 Debt         Service       Until      the
+   Millcreek         Center       CRA        Tax      Increment         Revenue          Is Sufficient          to Cover       the Series       2019
+   Debt      Service        Payments.
+
+
+Board       Member         Jackson       moved         to adopt        Resolution          25-04.     Board       Member          Catten      seconded
+the motion.         The Recorder             called     for the vote.            Board     Member          Catten      voted      yes, Board
+Member        DeSirant         voted      yes, Board           Member          Jaekson        voted     yes, Board          Member          Uipi      voted
+yes, and Chair           Silvestrini         voted     yes. The motion               passed       unanimously
+
+
+5. Discussion          and Consideration                of Resolution             25-05,      Authorizing          a Series      of Inter-Fund
+   Loans       Between         the West         Millcreek         CRA        and the Woodland                 Avenue        CRA     Project          Areas.
+   The Purpose             of the Inter-Fund                Loans      is to Cover         the Series       2019 Debt           Service      until     the
+   Woodland            Avenue        CRA        Tax    Increment            Revenue        is Sufficient         to Cover       the Series           2019
+   Debt      Service      Payments.
+
+
+Board       Member          Catten      moved         to approve           Resolution        25-05,     Authorizing           a Series       of Inter-
+Fund      Loans      Between         the West         Millcreek        CRA        and the Woodland                 Avenue        CRA       Project
+Areas,      not including          the second          sentence        in the title.       Board       Member         DeSirant           seconded        the
+motion.      The Recorder              called      for the vote.        Board        Member          Catten      voted      yes, Board         Member
+Millcreek       CRA         Meeting      Minutes                                                        9 June      2025        Page 3 of 3
+
+
+DeSirant       voted       yes, Board          Member          Jackson        voted    yes, Board         Member            Uipi    voted       yes, and
+Chair      Silvestrini       voted     yes. The        motion         passed    unanimously.
+
+
+6. Discussion            and Consideration               of Resolution          25-06,     Authorizing             a Series        of Inter-Fund
+   Loans       Between           the West       Mfflcreek         CRA       and the Olympus              Hills      CRA      Project         Areas.      The
+   Purpose          of the Inter-Fund                Loans     is to Cover       the Series        2019 Debt             Service     until     the
+   Olympus           Hnls     CRA      Tax Increment               Revenue       is Sufficient          to Cover          the Series         2019 Debt
+   Service         Payments.
+
+
+Board       Member          Jackson      moved         to adopt        Resolution        25-06,     Authorizing             a Series         of Inter-
+Fund       Loans     Between         the West         Millcreek        CRA      and the Olympus                  Hffls    CRA       Project       Areas,
+deleting     the sentence           about      the purpose            of the interfund          loads     to cover         the series debt.
+Board       Member          DeSirant         seconded         the motion.       The Recorder             called      for the vote. Board
+Member        Catten        voted      yes, Board        Member            DeSirant       voted    yes, Board             Member        Jackson
+voted      yes, Board        Member           Uipi    voted     yes, and Chair            Silvestrini      voted         yes. The motion
+passed      unanitnously.
+
+
+7. Approval          of May       27, 2025 Regular                Meeting       Minutes
+
+
+Board      Member           Jackson      moved         to approve           the minutes       of May       27. Board           Member            Uipi
+seconded       the motion.           Chair      Silvestrini        called     for the vote.        Board        Member            Catten       voted     yes,
+Board      Member           DeSirant      voted        yes, Board          Member        Jackson        voted      yes, Board          Member            Uipi
+voted    yes, and Chair             Silvestrini        voted      yes. The motion           passed       unanimously.
+
+
+
+ADJOURNED:                  Board      Member           DeSirant        moved         to adjourn        the meeting           at 9:13 p.m.
+Board      Member          Uipi     seconded.         Chair     Silvestrini       called     for the vote.          Board          Member         Catten
+voted    yes, Board          Member           DeSirant        voted     yes, Board         Member         Jackson          voted      yes, Board
+Member        Uipi       voted    yes, and Chair             Silvestrini       voted     yes. The motion                 passed     unanimously.
+
+
+
+
+                                 APPROVED:kha,,'                                                                     :oate7-28-2;b2S'
+
+                                    Attest:                  ElyLvan, Agency Recorder
+

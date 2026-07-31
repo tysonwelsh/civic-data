@@ -1,0 +1,100 @@
+{
+ "ballotItemCount": 1,
+ "dateText": [
+  {
+   "languageId": "en",
+   "text": "March 5, 2024"
+  }
+ ],
+ "id": "01000000-3ba9-9a43-3642-08dc17b05aa2",
+ "jurisdictionId": "d7d7924f-82ca-4179-8b03-6138515f860b",
+ "name": [
+  {
+   "languageId": "en",
+   "text": "2024 Presidential Preference Primary"
+  }
+ ],
+ "isOfficialResults": true,
+ "electionDate": "2024-03-05",
+ "isProduction": true,
+ "asOf": "2025-01-02T19:02:18.1621471Z",
+ "lastUpdated": "2024-07-31T11:50:21.26Z",
+ "publicReportCategories": [
+  {
+   "id": null,
+   "categoryName": null,
+   "reports": [
+    {
+     "reportName": "Summary Results by Contest",
+     "blobName": "Summary Results_91390ae9-b0a4-4c6c-9851-d6a22799814f.PDF",
+     "order": 0
+    },
+    {
+     "reportName": "All Results Excel",
+     "blobName": "All Results_79c36e9a-4a98-4208-a11e-57de9f2b53c4.xlsx",
+     "order": 0
+    }
+   ],
+   "order": 0
+  }
+ ],
+ "groupReportingStatus": [
+  {
+   "groupName": [
+    {
+     "languageId": "en",
+     "text": "By Mail Ballot"
+    }
+   ],
+   "reportingStatusClientTextKey": "reporting-status-fully-reported",
+   "order": 2,
+   "value": null
+  },
+  {
+   "groupName": [
+    {
+     "languageId": "en",
+     "text": "In Person"
+    }
+   ],
+   "reportingStatusClientTextKey": "reporting-status-fully-reported",
+   "order": 1,
+   "value": null
+  },
+  {
+   "groupName": [
+    {
+     "languageId": "en",
+     "text": "Provisional"
+    }
+   ],
+   "reportingStatusClientTextKey": "reporting-status-fully-reported",
+   "order": 3,
+   "value": null
+  }
+ ],
+ "precinctReportingStatus": [],
+ "contestGroups": [],
+ "countGroups": null,
+ "precinctsReporting": null,
+ "map": {
+  "enabled": false,
+  "styleUrl": null,
+  "featureIdField": null,
+  "disclaimer": [],
+  "showMapLegend": true
+ },
+ "totalVoters": 0.0,
+ "ballotsCast": 5305.0,
+ "redactingPrecinctCountGroups": false,
+ "precinctResultsProtected": false,
+ "reportingStatusBy": 0,
+ "customPublicMessages": [],
+ "closeRaceThreshold": null,
+ "closeRaceThresholdDisclaimer": null,
+ "hasStateWideCloseRaces": false,
+ "nextUpdateAt": null,
+ "hidePrecincts": false,
+ "isPrimary": false,
+ "parties": null
+}

@@ -1,0 +1,203 @@
+{
+ "date": "2026-02-26",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2026/2026-02-23/2026-02-26_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Tyson Eyre",
+  "Lindsay Gehman",
+  "Stephen Su’a-Filo",
+  "Beau Jones",
+  "Ken Roberts"
+ ],
+ "members_absent": [
+  "Nicole Kunze",
+  "Gregory Jackson"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Jones moved to approve the minutes as presented. Commissioner Roberts seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "4:0 Approved (Final Action)",
+   "mover": "Beau Jones",
+   "seconder": "Ken Roberts",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Public hearing and consideration of Cascade Collision’s request for approval of a Plat Amendment for Lehi Plaza Plat B located at 1115 East Main Street adding one additional commercial lot.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Beau Jones",
+   "seconder": "Lindsay Gehman",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and recommendation of JDH Development’s request for review of the Vivian Estates Phase 5 Zone Change on 11.58 acres located at approximately 2125 North 600 East, changing the zoning from TH-5 (transitional holding) to RA-1 (residential/agriculture).",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Ken Roberts",
+   "seconder": "Beau Jones",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and consideration of Symphony Homes request for preliminary subdivision approval of Fox Trail, an 8-lot single-family residential subdivision located at 1500 North 2850 West.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "4:1 Approved (Final Action)",
+   "mover": "Stephen Su’a-Filo",
+   "seconder": "Ken Roberts",
+   "aye": [
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "nay": [
+    "Beau Jones"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of a Development Code Amendment adding Chapter 12-D, Flood Damage Prevention, in compliance with FEMA.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Beau Jones",
+   "seconder": "Lindsay Gehman",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 6,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of a Development code Amendment to Chapter 37, removing the exception for the maximum setback if there is a module of parking allowed.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Ken Roberts",
+   "seconder": "Beau Jones",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre",
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 7,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of a Development Code Amendment to Chapter 35, Urban Forestry, creating a limit on rock mulch.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 3:2",
+   "mover": "Beau Jones",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Beau Jones",
+    "Lindsay Gehman",
+    "Tyson Eyre"
+   ],
+   "nay": [
+    "Stephen Su’a-Filo",
+    "Ken Roberts"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    3,
+    2
+   ]
+  }
+ ]
+}

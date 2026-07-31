@@ -1,0 +1,47 @@
+{
+ "date": "2023-04-04",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2023/2023-04-03/2023-04-04_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Zach Robinson, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Zach Robinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Marci Houseman, seconded by Scott Earl, to adopt Ordinance 23-06, an ordinance amending the revised ordinances of Sandy City Title 3 \"Legislative Code;\" also providing a saving clause for the ordinance and an effective date",
+   "motion_type": "Ordinance",
+   "result": "6-1 Pass",
+   "mover": "Marci Houseman",
+   "seconder": "Scott Earl",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [
+    "Ryan Mecham"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  }
+ ]
+}

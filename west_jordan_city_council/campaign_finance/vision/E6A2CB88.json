@@ -1,0 +1,51 @@
+{
+ "contributions": [
+  {
+   "date": "07/22/2025",
+   "name": "Salt Lake Board of Realtors",
+   "amount": "3000.00",
+   "in_kind": true
+  },
+  {
+   "date": "07/22/2025",
+   "name": "David Pack",
+   "amount": "7322.32",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "06/04/2025",
+   "recipient": "City of West Jordan",
+   "purpose": "City Council Candidate Filing Fee",
+   "amount": "50.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/22/2025",
+   "recipient": "Salt Lake Board of Realtors",
+   "purpose": "Digital Services",
+   "amount": "3000.00",
+   "in_kind": true
+  },
+  {
+   "date": "07/17/2025",
+   "recipient": "Deseret News",
+   "purpose": "Digital & Print Ads, Mailer & Postage",
+   "amount": "7272.32",
+   "in_kind": false
+  },
+  {
+   "date": "12/31/2023",
+   "recipient": "David Pack",
+   "purpose": "Loan Repayment to Self",
+   "amount": "2700.00",
+   "in_kind": false
+  }
+ ],
+ "total_contributions": "7322.32",
+ "total_expenditures": "10022.32",
+ "contributions_50_or_less": null,
+ "beginning_balance": "2700.00",
+ "ending_balance": "0.00"
+}

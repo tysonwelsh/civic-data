@@ -1,0 +1,539 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07122021-489
+> Meeting date: 2021-07-12
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2021-07-12
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07122021-489
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                              Minutes            of the
+                                                                                      Millcreek               City     Council
+                                                                                                July      12,        2021
+                                                                                                       7:00     p.m.
+                                                                                            Regular             Meeting
+
+
+
+
+The City      Council        of Millcreek,            Utah,     met in a regular            public        meeting           on July 12, 2021 at City
+Hall,    located     at 3330 S. 1300               E,., Millcreek,        UT 84106.            The meeting              was live streamed                 via the
+City's    website,       with     staff electronic            participation,          and an option             for online          public     comment.
+
+
+PRESENT:
+
+
+Council      Members                                                           City    Staff
+Jeff Silvestrini,         Mayor                                                John Brems,              City    Attorney
+Silvia    Catten,     District      1                                          Elyse      Sullivan,           City Recorder
+Dwight      Marchant,           District      2                                 Francis       Lilly,      Planning          & Zoning           Director
+Cheri     Jackson,       District       3                                      Kurt    Hansen,           Facilities         Director
+Bev Uipi,      District      4                                                 Mike       Winder,         ASSistant          City    Manager
+                                                                                Rita Lund,         Communications                    Director       (electronic)
+                                                                                Aimee       McConkie,                City    Events      Director/Executive
+                                                                                                                     Director        - Millcreek         Common
+
+
+Attendees:         Paul Aldous,             Paul Anderson,             Angel      Vice,     Thom         DeSirant,           Chris     Hart,     Mike
+Sroczynski,         Taylor       Thomas,          Carol    Elliott,     Valor     McNeely,              Kara     Cope, Teresa            Carlson,         Maggie
+Laun,     Laura     Hansen,         David         Baird,   Marv        Poulson,       Sheryl      Martin,            Alonso     Valdespino,           Cesar
+Alonso     Valdespino,            Betty      Streed,       Sharee Hughes,             Molly      King,         John Crandall,            Jason
+Burningham,          Chief       Duane       Woolsey,          and Chief         Steve DeBry.
+
+
+
+REGULAR             MEETnS!G                - 7:00 p.m.
+TIME       COMMENCED:                        7:03 p.m.
+
+
+1. Welcome,          Introduction              and Preliminary              Matters
+           1.1 Pledge           of Allegiance
+           Mayor       Silvestrini          called    the meeting          to order then led the pledge                         of allegiance.           He
+           said he had received                   emails    about a possible              transaction          relating       to the taking         down           of
+           traditional       billboards           and putting         up three digital          billboards            the City would             share for
+           public     messaging             in Millcreek        Common.           He said the item was not on the agenda,                                     so
+           the Council           would       not be taking            any action,      however,            as part of staff reports                the
+           Council        would      get a presentation                of it for the first time.               He asked who in the audience
+           who was in attendance                     for that; the majority             of the audience                rose their hands.            Mayor
+           Silvestrini       asked for a motion                to reorder         the agenda to move                   staff reports,          item 4.3, to
+           the front      of the agenda in front                 of item 1.2.
+Millcreek          City     Council       Meeting        Minutes                                            12 July       2021        Page 2 of 10
+
+
+
+Council       Member           Uipi      moved       to move        the agenda         item.     Councn         Member              Catten      seconded.
+Mayor       Silvestrini         called      for the vote.          An Council          Members          voted      yes. The          motion          passed
+unanimously.
+
+
+            4.3 Staff        Reports
+            Mayor         Silvestrini      said there had been discussion                     on this subject           on social       media.         He
+            requested         that residents         not depend        on him to respond               to social      media         messages,
+            especially        over      the weekend.         He requested          the public        contact     him directly            through            the
+            regular        modes      of email       or phone.      He said there was a lot of misinformation                                 on the
+            issue on social             media.     This presentation           would      be the first briefing              the Council             will
+            have received             on the matter.         The Plaru'iing        Commission            had a briefing             on it at their
+            last meeting         because          they met before          the Council.         He said if there was a transaction,
+            there would          be a full negotiation              with    setting    teri'ns. The transaction                would         also
+            require        an ordinance           change    to the sign code which                 would      trigger      a public      process
+            with      the matter        going before         the coinmunity            councils,       tlie Planning         Coiui'nission,             then
+            the Council         twice,      first for a first reading            and then for a decision.                 He said
+            conversations            were happening            because       there is a billboard             in the City           Center     that is in
+            the way of construction.                  The billboard          either needs to be relocated                   or condeinned.
+            Before        condeinnation            can take place,         a negotiation        with      the property          owner        would
+            need to take place and Mike                     Winder         was asked to start that conversation.                        The City
+            had always          planned      to have three digital               signs at the entrances            of Millcreek               Coinmon.
+            The discussion              involved      Reagan       Outdoor        being    willing      to give rip 10 regular
+            billboards        faces that would             come down          in exchange          for 6 digital         billboard       faces. He
+            said the accusations              of coriuption          on social        media     against      him and Millcreek                 staff
+            was unfounded               and lacked         evidence.       He said Mike          Winder        was doing            his job by
+            having        these negotiations.           He said the public             criticizing       elected        officials     was more
+            fair than criticizing            staff. He encouraged                residents      to talk to Millcreek                businesses
+            about the good that Winder                     has brought        to them by being               the Economic             Development
+            Director,        especially      through        the pandemic          by providing          them with           over $1 million                 in
+            financial       assistance.
+
+
+            Mike      Winder         said Aimee        McConkie,            City Events        Director/Millcreek                Common
+            Executive         Director,      would       also present.        He said the publicly              approved            plans of the
+            City    Center      included          three digital      entry signs and had always                  been part of the plan for
+            a successful         Millcreek         Cominon;         one at the main            entrance       on 3300        s., and one on the
+            east and west ends of Chambers                         Avenue.       He showed           the Council          a rendering           of and
+            potential       redevelopment             surrounding          Millcreek      Common.             He said Millcreek
+            Common           needed effective            digital    signage       to support:        small,     local     entrepreneurs              on the
+            Common           that could not afford             other ads; pop-up              markets       in the public           market          which
+            would         be changing       weekly;        the dozens of weekly                activities      on Millcreek            Common;
+            and public         service     announcements.              He showed          the Council          examples          of possible
+            advertisements              as well     as images       of digital     signs throughout             the valley           being     used by
+            other entities.          To be effective,         he said these signs should                    be large enough            to be read
+            on major        corridors       like 3300 South,           Richmond           Avenue,        and Highland               Drive.     The
+            optical       analysis      shows that to get the most effective                       messaging,         a 12 by 24-foot                sign
+            face, the industry            standard      for electronic         messaging,          was needed.            He noted           that
+            Millcreek        already       had digital       signs at 3981 S. 700 E.
+Mfflcreek          City     Council           Meeting            Minutes                                                12 July          2021        Page        3 of 10
+
+
+
+            Winder          said the challenges                   presented         to staff       was that three             marquees          roughly          cost
+            $250,000 each, and to buy out a 40-foot-high billboard  at 3300 S. for Millcreek
+            Cominon  construction to proceed would cost roughly    $1-1.3 million. He said it was
+            staff's       job     to be creative.            He approached                 Reagan            Outdoor       with    possible          solutions.
+            Reagan          Outdoor          could        sponsor           all three     Millcreek           Common           marquees            at no cost to
+            the City        to build,         operate        or maintain.              Millcreek         could      have      more       than      one-third          of
+            the turns           on the digital            signs     (3 of 8 turns           for Millcreek,             5 for Reagan).               In exchange,
+            Reagan          would         permanently              remove         six billboards              (10 sign      faces)       in the city        center
+            area. The            six billboards             to be removed               would         be at 1347        E. 3300          S. (this     one must             be
+            removed             for Millcreek             Common              construction            to proceed          and has the only               legal     right
+            for the City            to be able to condemn),                        3155     S. Highland            Drive,         3165      S. Highland            Drive,
+            and 1386            E. 3300        S. Winder            showed         the Council               images       of the signs          and what          the
+            area would             look     like     with      them         removed.
+
+
+            Winder          said Millcreek                Common             marquees          would         produce       less light        pollution           than
+            status        quo. The International                     Dark-Sky           Association              says, "When             installed       and
+            operated            in accordance             with      IDA's        Guidance             for Electronic          Message           Centers,         EMCs
+            replacing           traditional         bulb-lit        billboards          may      actually        create     a net reduction               in sky
+            brightness."            Winder          said the City              would      follow         the IDA's         guidelines.          Millcreek
+            would         get to decide            on how          high       off the ground             the signs        can be, though              the critical
+            issues        would      be vandalism                 reduction         and visibility.            Millcreek          Common's             marquees
+            could      have        design       elements           as seen in the video                  he showed.           The billboard              in the video
+            illustrated           targeted        lighting        so the sign           face was dark             when      viewed          from      the sides.           He
+            said staff's          job     was to present               options       to the Council               for their       decision.
+
+
+            Aimee          McConkie             said the plan               for Millcreek          Cornrnon            contemplated             280      events       a
+            year      and a digital            billboard          was an effective               way         to get messaging              out as a public
+            service.        She said she needed                     partners        to assist with             the events         and those          businesses
+            could      get value           from      having         their     name       on the signs            as event         sponsors.          She viewed
+            the digital           billboards         as economic               development               and a way         for the City            to save money
+            in not paying               for installing            digital      signs      or removing            billboards.         She expressed
+            interest       in the design             of the sign             as feeling        part     of the Common.               She said as a
+            resident,           she previously              served      on a community                   council       and helped           Millcreek            become
+            a city.       She pointed            out that a key issue                   in Millcreek            becoming           a city     was to have             local
+            control        to remove           and reduce             billboards.          She viewed             this negotiation              as a success
+            since      multiple           billboards         would          come       down.
+
+
+            Council         Member            Catten         asked      what       the next        step would           be. Winder            said he would
+            look      for direction            from       the Council            to start       a text       change       in the code to allow
+            electronic            signs     in certain         conditions          in the City           Center        Overlay       Zone       (CCOZ).
+            Council         Member            Catten         asked      about      the new            sign    quantity.       Winder         clarified         that
+            there      would        be six digital             faces        on three      signs.       He encouraged               the Council            and public
+            to reach        out to staff           with      questions.
+
+
+            1.2    Public         Comment
+            Alonso         Valdespino,             3379        S. 2410         E., requested             ideas     from     the Council              for an Eagle           Scout
+            project        that    could       benefit       the public.           Mayor         Silvestrini          said the Millcreek               Promise
+Millcreek        City      Council        Meeting           Minutes                                          12 July       2021       Page 4 of 10
+
+
+
+            Program        worked        to create and stock a food pantry                        at Mill      Creek      Elementary.          He thought
+            asking      for donations          to restock         the pantry         would      be beneficial.
+
+
+            Mazzie        Laun,      3840 E. San Rafael, thanked                       the Council          and staff for the presentation                  on
+            billboards.         She asked about advertisements                         on tl'ie digital       signs.      Mayor      Silvestrini      said the
+            digital     billboards        shifted      8 times        a minute,        so Reagan       would      have 5 turns and the City
+            would       get 3. Laun asked if tlie City had control                             over the advertising.           Mayor        Silvestrini
+            said no but would              work       on not having           something          that violated         community         standards.
+            Council       Member         Marchant            asked if the City           advertising         was free. Winder            confirmed          and
+            said the City          could buy more than the allotted                       three.
+
+
+            Angel       Vice,     3610 Carolyn              Street,     said she emailed           the Council          after hearing       the billboard
+            conversation          raised    in the Plaru"iing             Coinrnission          meeting.       She felt that digital           boards
+            were not appealing              and did not fit in the City                  Center.     She said she was involved                      in event
+            planning       and could        fill     events without           the use of digital            billboards.      She felt that the draw
+            to the City         Center     could be the uncertainty                    of events taking          place that day. She was
+            grateful      for an open conversation                     with   the Council          on the matter.
+
+
+            Marv      Poulson,       3631 Carolyn              Street,     said he thought          the billboard          issue in the City           had
+            already       been resolved,            that digital        billboards       would      only be allowed           along the freeway.
+            He felt the City          was pandering              to Reagan           and that was not right.              He said the master            plan
+            contemplated           ground          level    digital     signs in the City          Center.      He felt if the digital             billboards
+            were constructed,             Millcreek           would      be a laughingstock.
+
+
+            Council       Member         Marchant            asked about Reagan                Outdoor       accommodating              sign size.
+            Winder        said Reagan         would          accommodate             the height     based on the City's               input,    not size.
+
+
+            Betty     Streed, 1631 E. 3115 S., thanked                         the Council         and Winder           for his presentation.             She
+            said Reagan           was in the business                 of selling     advertising       space and wondered                 about the
+            contract      renewal.       She asked how the 3 out of 8 turns would                                be preserved.          Mayor
+            Silvestrini         said the City         could     draft a contract          that gave the City              those turns permanently
+            at the jeopardy          of having             the signs removed.           Streed felt that street level                signs would          be
+        better.
+
+
+            Sharee Hughes,            1422 E. 3010              S., said she was anti-billboard.                   She felt they were a blight
+        on the landscape                 and a distraction              to drivers.      She said billboards              destroyed      the
+        environment               and were not essential.
+
+
+        Kara Cope,              1511 E. 3115 S., noted                   that Reagan           gave donations          to political      campaigns
+        across the State, and in Millcreek.                             She asked what billboards                 contributed          to the local
+        economy.            She explained              the energy         costs associated          with     billboards;       a static billboard
+        cost $960 and LED                   boards          cost $22,318           annually.     She pointed           out that electronic
+        billboards          provided        tl'ie operators            significantly      more money             than static billboards.              She
+        asked for less than three electronic                             signs,     so the space did not feel like Las Vegas.
+
+
+        PauI Aldous,              2358 Lambourne                 Avenue,          felt the recently         adopted       property      maintenance
+        code was an overreach                       by the City         on private       property      ownership.          He said good
+Millcreek        City      Council          Meeting      Minutes                                       12 July          2021     Page 5 of 10
+
+
+
+            alternatives         were community                clean up days or citizen-initiated                 efforts.      He felt if it was a
+            matter      of money,           that more      funding       could     go towards       police     for patrols.
+
+
+            Molly       King,     1223 E. Sierra Way,                 said she drives        a lot and digital          billboards      were a
+            distraction.         She said signs could               consume       30 times the energy            of the average          home.        She
+            said the energy            should        be offset.     She noted that LED             lighting      was harmful          to one's       eyes
+            and she felt adding               more      screens to residents'          lives    was unnecessary.               She encouraged
+            creativity       for advertising           through       other ways.
+
+
+            Council       Member            Uipi    asked about purchasing              billboards.         Winder        said the City      only had a
+            legal right         to condemn           one billboard       in the way of Millcreek                Common          construction.             The
+            billboards          have property          right     protections      and there would            be no other way for the City                    to
+            remove        the billboards.            Winder       said if the billboards          come down,          the square footage
+            would       be gone and would                not get banked           for future    use. Council          Member         Jackson         said
+            the options          before      the Council         were to let the billboards            remain,       purchase        the billboards
+            Reagan        would        sell to the City,         or do a trade for electronic               billboards.        She asked if there
+            was a trade that did not cost money.                         Winder      said private       property        laws in Utah were very
+            strong      and he had not seen any other trade scenario.                             Cities     could    only remove          a billboard
+            when      it is in the path of a city project                 through      eminent        domain,        and they would          have to
+            pay for the removal                as deemed          by a judge.      Council      Member         Jackson       said there was
+            legislation         at the last state legislative             session that would           have allowed            any static billboard
+            to be converted             to a digital      billboard      without      any control          by the city or public           input      and it
+            was close to passing.                  She expected         the law to come back at the next session.                       If digital
+            signage       was allowed              in any city, then digital          billboards      could      also be allowed.          With       the
+            current      trade negotiation,             Millcreek       would      have leverage           to remove        static billboards
+            which       would       otherwise         be lost if the legislation         passes. She said she did not like
+            billboards          but knew       that there was currently              leverage       to support       a trade that might              be
+            gone in the future.              Francis     Lilly     said there were about 45 billboards                      in the city.     Lilly        said
+            in his experience               as a planner,        he had seen a billboard            removed          due to private
+            development.            Per State code, the billboard                  company         and city had to agree on a location
+            for its relocation            within      a set amount        of time within          the city irrespective           of zoning.         He
+            said the city may have to condemn                          the billboard      if another         location      could not be found.
+            He personally            felt surprised        that a sign company             would      make this trade. He asked the
+            Council       if fewer        signs were better            than more      signs,    even if they were digital.
+
+
+            David       Baird,     4538 Thousand               Oaks Drive,         asked the Council           to consider        why     the
+            billboard       company           would      be interested         in the trade. He said the earning                 potential       was
+            greater      with     digital     boards     and the long-term            negative      consequence            of a buyout       cost of a
+            digital     billboard       in the future          would    be higher      than a static board.
+
+
+            Laura     Hansen,          2446 E. Evergreen               Avenue,      asked the Council            to consider         Millcreek
+            becoming         a Tree City USA               with     the Arbor       Day Foundation.            She said there were four core
+            standards       to become              one: have a tree board           or department,           have a tree care ordinance,
+            [have a community                 forestry     program        with     an annual       budget     of at least $2 per capita,                  and
+            have an Arbor            Day observance               and proclamation].           She said there were no large trees
+            included       in the Urban             Forestry      Standard       that Millcreek       adopted.        She said without             big
+            trees, there would              be no canopy.           She encouraged           shade coverage             in the City     Center.
+            Mayor        Silvestrini        welcomed           her assistance       on the matter.
+Millcreek         City     Council        Meeting         Minutes                                        12 July       2021        Page 6 of 10
+
+
+
+
+            Mike       Sroczynksi,          1466 E. Foxboro,            said there had been an increase                    in crime        on a
+            particular        section       of Highland        Drive.     He asked about crime                prevention.          Mayor      Silvestrini
+            said law enforcement's                  focus lately        had been on the crime                around      the Holladay          Hills
+            Apartments              and working       with     partners     at determining          the cause for the crimes.                 He
+            recoinmended              that Sroczynski          speak to Chief         DeBry       who was in the audience.
+
+
+            Chris Hart,           2508 Lambourne              Avenue,      thanked        the Council        for their     service.     He felt that
+            the City's        property         maintenance       code felt like         an HOA,       and it was an overreach.                     Mayor
+            Silvestrini           said the code was to provide              better      standards        for code enforcement                officers.
+            He requested             that the public         email    him about       concerns       with     the code. He said some
+            residents       are mad that codes are not enforced                       well     enough.       He reviewed           the enforcement
+            process;       first,    a courtesy      notice,     second,       a notice      of violation,      and then third,            the City
+            imposes        fines. He said most of the code enforcement                             is complaint          driven.     The City           is
+            looking       for a humane            way to give people             an opportunity          to fix the problem            and provide
+            residents       with      resources      when needs are discovered.
+
+
+            Paul Anderson,              2377 Lambourne               Avenue,       asked about the code changes                     allowing
+            billboards        with     other entities.        Mike      Winder      said the code could              be tailored      to be very
+            specific      with       certain     allowances      in certain        circumstances.          He said the City           Center        was
+            different       than other parts of the city.
+
+
+            Elyse      Sullivan        read a comment           received       via the City's       website       from      Owen      Pugsley,           3631
+            Folker Circle. "Iwant the Millcreek city center to be big and accessible for everyone to
+            enjoy, so I think if the Millcreek cig center was zoned as CCOZ-DA, it could really help
+            it to become            very unique       and not be held back by currentzoning.                           It will,    in my opinion,
+            really help the city center reach it's full potential artd as long as developers plans fall in
+            line with the principles, vision, and goals of the city center's master plan, it will turn out
+            great."
+
+
+2. Planning           Matters
+            2.1 First       Reading            on ZT-21-003,          Recommendation               to Amend           the Millcreek            Zoning
+            Ordinance             to Enact       a City    Center        Overlay      - Development              Agreement            Zone        (CCOZ-
+            DA)
+            Francis       Lilly      said recent     changes         to the City     Center     were driving          an avenue        for the City
+            and developers             to work      collaboratively         on flexible        solutions      not contemplated               or
+            anticipated           by tlie City     Center      Overlay     Zone      (CCOZ).        The City         Center       Master     Plan
+            contemplated             an open space that was 194 feet wide,                       inclusive      of I 5-foot        setbacks         on
+            either     side of the promenade.                 Staff decided        not to give as much               acquired       land back to
+            developers            because      the coinmunity           wanted     a bigger,     more functional,             more pedestrian
+            friendly      place than the original              master plan contemplated.                   The new proposal             included             a
+            wider      Common,           approximately          230 feet from         building       edge to building              edge, and bigger,
+            about 5.3 acres instead                of 4.2. Lilly        compared       the Millcreek          Common          size to the
+            Champs-Elysees               in Paris. The proposed              building        materials       would     include      brick,        concrete,
+            glass, steel, Millcreek               stone, stucco,        and carbonized           wood.       He said when           taking        the
+            ordinance        through        the land use process with                the community            councils      and Planning
+            Commission,              certain     guardrails     were put in place.            To qualify       for the zone, a site must
+            have 100 feet of frontage                 on Millcreek         Corni'non,        or provide       a grade      separated         pedestrian
+Millcreek           City     Council        Meeting        Minutes                                           12 July      2021         Page 7 of 10
+
+
+
+            connection            to Millcreek          Common.          Height     could be modified               but only for significant
+            public         uses. Setbacks          could be modified.              Stepbacks         could      be modified        along Millcreek
+            Coinmon.             Materials       could    be modified          but no stucco            or EIFS      could be visible             from     a
+            street or Millcreek                 Coinmon.      Any      numerical            standard     could      receive     a ten percent
+            modification.
+
+
+            Lilly       reviewed         the application       process         which        starts with      a neighborhood            meeting,          a joint
+            Planning          Commission/City               Council       work      session,      community           council     review,         a Planning
+            Commission               recominendation,           and then the City               Council       would     make a decision              on the
+            application.            He felt involving         the Council           and Commission                early on would           help ensure
+            the proposal            was adequate.           He said there were two bottom                        line questions:          But for the
+            proposed          development           agreement          and rezone,           would      Millcreek       get a quality        project        with
+            all the things           the City wants?          Is what the developer                  is proposing       "something           of value"           for
+            Millcreek?            He said development                proposals         are discretionary.            If the project       does not
+            further        the goals of the City             Center,      then the City          can say no. Staff did not want to revise
+            CCOZ,           but a targeted         development           agreement           concept      would:
+                    *      Give     a developer          and a designer           the freedom          to propose       an alternative        to the strict
+                           standards,        that we can accept            or reject,        on the basis of the City             Center      Master           Plan
+                           and the evolving             Millcreek        Center     Concept.
+                    *      Enable        the City to tailor         building      designs       to the aesthetics         and functionality                of the
+                           Millcreek         Common.
+                    @      Provide         for the more      efficient      distribution         of available         public     parking     by utilizing
+                           a parking        standard      that is aligned          with      the type of development                  Millcreek       City
+                           Center       is becoming.
+                    *      Allow        the city to focus limited              tax increment            funds toward          public     improvements,
+                           rather    than developer           incentives.
+                    *      Create a more robust              public      process,         allowing      for greater      cornrnunity         engagement
+                           and buy-in         than would       otherwise          be possible          through       a conditional        use review.
+
+
+            Lilly       said the Millcreek            Community           Council,          East Mill      Creek      Community            Council,         and
+            Mt. Olympus              Community            Council      unanimously             recommended             approval         of the ordinance.
+            The Canyon              Rim      Citizens     Association          did not provide            a recommendation.               The Planning
+            Coinmission              also unanimously           recornrnended                approval     of the ordinance             subject      to good
+            guardrails           and a robust       public     process.
+
+
+            Mayor          Silvestrini       said there was another               guardrail,         a 3-year     sunset on the ordinance.                     Lilly
+            confirmed.            Council       Member       Jackson        asked who the neighborhood                         meeting      would
+            capture         since the area was not residential.                     Lilly     said property          owners      within     600 feet, but
+            he would          review        that standard.
+
+
+Council       Member             Uipi      moved      to recess the meeting                   at 8:48 p.m.         Council       Member           Jackson
+seconded.           Mayor         Silvestrini      called     for the vote.          All      Council      Members            voted     yes. The         motion
+passed      unanimously.
+
+
+The Council             reconvened          at 8:55 p.m.
+
+
+            2.2 Discussion               and Consideration                of Ordinance            21-29,      Vacating          a Portion         of 1800
+            East        Street      from     Gregson        Avenue        to Approximately                 3206 South
+Millcreek          City      Council          Meeting          Minutes                                           12 July       2021          Page 8 of 10
+
+
+
+            Mayor         Silvestrini          said the Council             had been briefed             on the matter             at their last meeting.
+            Francis         Lilly      said when the Kenwood                      Subdivision          was platted,          a formerly        private        right-
+            of-way          was dedicated             for public        use. After        tlie plat was recorded,               residents       on the west
+            side of the right-of-way                     discovered          through       a title     search that there was a boundary
+            dispute         on the property              line. The cleanest             way to realign           the right-of-way              would        be to
+            vacate        the five westerly              feet. Staff recommended                     the City not be compensated                       for the
+            vacation.         Tliere         would    be no parkstiip             on the west side. Mayor                    Silvestrini       asked for
+            public        comment.            There      were no coinments.
+
+
+Council       Member                Marchant          moved          to approve          Ordinance         21-29,       Vacating            a Portion          of 1800
+East from           Gregson           Avenue          to 3206 South            as presented.            Council        Member           Jackson
+seconded.          The Recorder                 called        for the vote.       All     Council       Members             voted     yes. The motion
+passed      unanimously.
+
+
+            2.3 Discussion                  and Consideration                of Ordinance              21-30,      Vacating          a Portion         of
+            Chambers                Avenue          Between          1340    East       and Approximately                   1364     East
+            Mayor         Silvestrini          said the Council             also had a first reading                on this matter.           Francis        Lilly
+            said in the process                 of platting          the future     Millcreek          Comi'non       area, it was deteri'nined                   the
+            ideal location             of the adventure               hub, the building              on the north       side of the ice rink,                would
+            encroach          on the south side of Chambers                         Avenue.           The vacation           would     be for the portion
+            within        the footprint          of the adventure             hub. The road would                  be vacated         back to the City                 as
+            the adjoining              property       owner.         Mayor       Silvestrini      asked for public             cornrnent.        There         were
+            no comments.
+
+
+Council       Member                Jackson         moved       to adopt         Ordinance            21-30,     vacating          a portion      of
+Chambers            Avenue.            Council        Member            Catten      seconded.          The Recorder                called     for the vote.
+All   Council        Members                voted     yes. The motion               passed      unanimously
+
+
+3. Business          Matters
+            3.1 Discussion                  and Consideration                of Resolution             21-30,     Approving            an Interlocal
+            Cooperative                Agreement              with    Salt Lake          County        for Amendment                 No. 4 to Agreement
+            for Addressing                   Services
+            Mayor         Silvestrini          said the resolution             was for a contract              renewal        for addressing           services
+            with     the County              and there would             be no change          in the charge.
+
+
+Council      Member                 Uipi     moved       to approve          item       3.1. Council           Member         Catten         seconded.          The
+Recorder           called     for the vote.             All    Council       Members           voted      yes. The          motion      passed
+unanimously.
+
+
+            3.2 Discussion                  and Consideration                of Resolution             21-31,     Approving            the Appointment
+            of Stifel,        Nicolaus          & Co. as Underwriter                      for the Series           2021 Sales Tax              Revenue
+            Bonds
+            Mayor         Silvestrini          said the City went through                   a process          to solicit     an underwriter            for the
+            bonds      and received              six responses,             and with      the assistance           of Jason Burningham,                     Lewis
+            Young         Robertson            and Burningham,               a recoinrnendation                to select Stifel,        Nicolaus            & Co
+            was presented                  to the Council.           Jason Burningham                introduced       John Crandall             with        Stifel,
+            Nicholaus           & Co. Mayor               Silvestrini        said he was thrilled              to have a Millcreek              resident
+            provide         these services.            Crandall         congratulated          the Council          on the AA+              bond rating         and
+Millcreek           City     Council        Meeting         Minutes                                        12 July       2021      Page 9 of 10
+
+
+
+             thanked         them for their         consideration.          Mayor     Silvestrini       pointed      out that the Cityas
+             Finance         Director,      Laurie      Johnson,       had a positive            experience     working         with    Crandall's
+             team. Crandall              said Stifel,       Nicolaus      & Co was based in St. Louis                    (has a Salt Lake office)
+             and underwrites              more bonds          than any other firm            in the country.         Burningham            said there
+             were two components                    to underwrite         bonds;     the wherewithal            to do it and the willingness
+             to use capital          to remove         risk from       the issuer. They have national                   recognition        and have
+             done a great job with                 regional     marketplaces.         Burningham            provided       the Council          with     a
+             calendar        of events on the Sales Tax Revenue                           Bonds,     Series 2021. He said the official
+             statement         would       go into the market             within    the next week.            The pricing        on bonds        would
+             happen         about July 28I11.The rates were currently                        below      2.5%.     The signing           would     take
+             place August           4I11,and the transaction               would     conclude        August      5I11.
+
+
+Council        Member           Catten        moved         to approve       Resolution           21-31,    Approving           the Appointment
+of Stifel,     Nicolaus          & Co. as Underwriter                    for the Series           2021 Sales Tax          Revenue         Bonds.
+Council        Member           Uipi      seconded.          The Recorder           called       for the vote.     All    Council        Members
+voted     yes. The motion                 passed      unanimously.
+
+
+4. Reports
+             4.1 Mayor's            Report
+             Mayor         Silvestrini      said he had been engaged                 with        the Utah League          of Cities      and Towns
+             and the Governor               about fireworks.           He reported          there were not any firework                  related       fires
+             in Millcreek           over the 4"1 of July.          Chief      Steve DeBiy           said there were 76 calls on about
+             fireworks         over the 3rd, 4',            and 5f'l of July. The majority              of the calls came from                 Tanner
+             Park area though               the fireworks        came from          Sugarhouse.         Council      Member            Marchant        said
+             there    were      bonfires       along      900 E. and 4200 S.
+
+
+             4.2 City        Council        Member           Reports
+             Council         Member         Uipi    said the corni'nunity           councils        were reviewing          the    accessory
+
+             dwelling        unit    ordinance.         She said she had an Association                     of Municipal          Councils       meeting.
+             Mayor         Silvestrini      said there was a Community                      Renewable          Energy     Board        meeting     the
+             following         day. Council          Member        Uipi     asked about the square footage                      of billboards.         Lilly
+             said he would             provide      the billboard         square footage           list to the Council.
+
+
+5. Consent           Agenda
+             5.1 Approval           of June 14, 2021 Regular                  Meeting        Minutes
+             5.2 Approval           of June 28, 2021 Work                  Meeting         and Regular         Meeting      Minutes
+
+
+Council       Member            Uipi      moved       to approve          items    5.1 and 5.2. Council              Member            Marchant
+seconded.           Mayor       Silvestrini         called     for the vote.        All    Council      Members           voted        yes. The      motion
+passed       unanimously.
+
+
+6. New       Items         for Subsequent            Consideration
+There were none.
+
+
+7. Calendar            of Upcoming               Events
+     *       Planning         Commission            Mtg.,     7/21/21,      5:00 p.m. at City          Hall
+     @       City    Council        Mtg.,     7/26/21,        5:00 p.m. at City           Hall
+Millcreek    City    Council       Meeting   Minutes                                  12 July     2021    Page 10 of 10
+
+
+
+
+ADJOURNED:            Council       Member    Marchant        moved     to adjourn      the meeting        at 9:28   p.m.
+Council     Member      Uipi     seconded.   Mayor     Snvestrini      called   for   the vote.    All   Council     Members
+
+voted yes. The motion passed unan0 o,usly.
+
+
+                                                Jeff Silvistrini,     Mayor
+
+
+
+                               Attest:          Elys                   ityRecorder
+

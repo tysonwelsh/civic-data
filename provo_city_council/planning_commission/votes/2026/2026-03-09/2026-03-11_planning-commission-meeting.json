@@ -1,0 +1,118 @@
+{
+ "date": "2026-03-11",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-03-09/2026-03-11_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "ITEM 1 The Airport Services Department requests Project Plan approval for additions to the Provo Airport Terminal in the Airport (A) Zone, located at 1331 S Sky Way. Provo Bay Neighborhood. Dustin Wright (801) 852- 6414 dwright@provo.gov PLPPA20250625",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLPPA20250625",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "8:0 Approved (Final Action)",
+   "mover": "Jon Lyons",
+   "seconder": "Anne Allen",
+   "aye": [
+    "Jon Lyons",
+    "Anne Allen",
+    "Jonathon Hill",
+    "Barbara DeSoto",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Joel Temple",
+    "Lisa Jensen"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "*ITEM 3 PEG Development requests Ordinance Text Amendments to Provo City Code 14.23 (ITOD Zone) in association with a proposed mixed-use redevelopment project in a proposed ITOD (Interim Transit Oriented Development) Zone. Citywide Application. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLOTA20250243",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLOTA20250243",
+   "motion_type": "Ordinance Text Amendment",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 8:0",
+   "mover": "Jonathon Hill",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Anne Allen",
+    "Jonathon Hill",
+    "Barbara DeSoto",
+    "Melissa Kendall",
+    "Jon Lyons",
+    "Lisa Jensen",
+    "Matt Wheelwright",
+    "Joel Temple"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "*ITEM 5 Brixton Capital requests a Zone Map Amendment from the RM (Manufactured Home Park) and SC3 (Regional Shopping Center) Zones to the ITOD (Interim Transit Oriented Development) Zone for 23 acres of land located at 1095 S 500 W and 1200 S Towne Centre Boulevard. Franklin South and East Bay Neighborhoods. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLRZ20250236",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20250236",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 8:0",
+   "mover": "Joel Temple",
+   "seconder": "Matt Wheelwright",
+   "aye": [
+    "Anne Allen",
+    "Jonathon Hill",
+    "Barbara DeSoto",
+    "Melissa Kendall",
+    "Jon Lyons",
+    "Lisa Jensen",
+    "Matt Wheelwright",
+    "Joel Temple"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "ITEM 6 Brixton Capital requests Concept Plan approval for a mixed-use redevelopment project over 23 acres of land in a proposed ITOD (Interim Transit Oriented Development) Zone, located at 1095 S 500 W and 1200 S Towne Centre Boulevard. Franklin South and East Bay Neighborhoods. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLCP20250237",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLCP20250237",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "6:2 Continued (Final Action)",
+   "mover": "Matt Wheelwright",
+   "seconder": "Joel Temple",
+   "aye": [
+    "Anne Allen",
+    "Barbara DeSoto",
+    "Melissa Kendall",
+    "Jon Lyons",
+    "Matt Wheelwright",
+    "Joel Temple"
+   ],
+   "nay": [
+    "Lisa Jensen",
+    "Jonathon Hill"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

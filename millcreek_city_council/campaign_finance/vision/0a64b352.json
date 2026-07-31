@@ -1,0 +1,21 @@
+{
+  "contributions": [
+    {"date": "10/10/19", "name": "Jemina A. Keller", "amount": "22.32", "in_kind": false},
+    {"date": "10/11/19", "name": "Jemina A. Keller", "amount": "999.06", "in_kind": false},
+    {"date": "10/15/19", "name": "Jemina A. Keller", "amount": "90.00", "in_kind": false},
+    {"date": "10/16/19", "name": "Jemina A. Keller", "amount": "763.23", "in_kind": false},
+    {"date": "10/18/19", "name": "Jemina A. Keller", "amount": "203.78", "in_kind": false},
+    {"date": "10/24/19", "name": "Jemina A. Keller", "amount": "683.40", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/10/19", "recipient": "Alphagraphics", "purpose": "Printing", "amount": "22.32", "in_kind": false},
+    {"date": "10/11/19", "recipient": "Hudson Printing", "purpose": "Postage", "amount": "999.06", "in_kind": false},
+    {"date": "10/15/19", "recipient": "Patrick Witmer Designs", "purpose": "Website", "amount": "90.00", "in_kind": false},
+    {"date": "10/16/19", "recipient": "Hudson Printing", "purpose": "Mailer", "amount": "763.23", "in_kind": false},
+    {"date": "10/18/19", "recipient": "Mills Publishing", "purpose": "Postcard Design", "amount": "203.78", "in_kind": false},
+    {"date": "10/24/19", "recipient": "Hudson Printing", "purpose": "Mailer", "amount": "683.40", "in_kind": false}
+  ],
+  "total_contributions": "2761.79",
+  "total_expenditures": "2761.79",
+  "ending_balance": "0.00"
+}

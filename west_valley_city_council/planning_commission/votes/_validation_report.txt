@@ -1,0 +1,25 @@
+West Valley City PLANNING COMMISSION — vote extraction validation
+================================================================
+
+Meetings processed   : 266
+Motions extracted    : 614
+Member-vote rows     : 3023
+Named roll-calls     : 488
+Tally-only motions   : 126
+Recommendations      : 286
+Final actions        : 252
+Procedural/appoint   : 76
+Contested motions    : 58
+Study mtgs, no votes : 129
+Distinct commissioners: 13
+
+Off-roster names     : 0
+Out-of-range votes   : 0
+
+Tally mismatches (source typos): 3
+  - 2023-09-13 motion 5: minutes printed 'Unanimously – C-21-2023 – Approved' but the roll call shows 1 Nay — roll call retained as truth (4:1 Approved (Final Action))
+  - 2023-09-13 motion 7: minutes printed 'Unanimously – Meeting Minutes– Approved' but the roll call shows 1 Nay — roll call retained as truth (4:1 Pass)
+  - 2024-09-11 motion 4: minutes printed 'UNANIMOUS----C-15-2024---CONTINUED.' but the roll call shows 1 Nay — roll call retained as truth (6:1 Pass (Continued))
+
+Issues:
+  (none)

@@ -1,0 +1,31 @@
+{
+  "contributions": [
+    {"date": null, "name": "Megan Olsen", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "203.99", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "19.03", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "81.24", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "394.92", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "179.06", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "54.69", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "157.45", "in_kind": false},
+    {"date": null, "name": "Megan Olsen", "amount": "188.04", "in_kind": false},
+    {"date": null, "name": "Cheryl Harding", "amount": "300.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "GSL Municipal Service District", "purpose": null, "amount": "50", "in_kind": false},
+    {"date": null, "recipient": "Lone Star Transfer", "purpose": null, "amount": "203.99", "in_kind": false},
+    {"date": null, "recipient": "Sam's Club", "purpose": null, "amount": "19.03", "in_kind": false},
+    {"date": null, "recipient": "Michael's", "purpose": null, "amount": "81.24", "in_kind": false},
+    {"date": null, "recipient": "Taffy Town", "purpose": null, "amount": "394.92", "in_kind": false},
+    {"date": null, "recipient": "Ninja Transfers", "purpose": null, "amount": "179.06", "in_kind": false},
+    {"date": null, "recipient": "Amazon", "purpose": null, "amount": "54.69", "in_kind": false},
+    {"date": null, "recipient": "Signs.com", "purpose": null, "amount": "157.45", "in_kind": false},
+    {"date": null, "recipient": "Banner Buzz", "purpose": null, "amount": "188.04", "in_kind": false}
+  ],
+  "total_contributions": "1330.42",
+  "total_expenditures": "1330.42",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {"index_path": "raw/202508_olsen_magna-d2_primary_v572.pdf", "candidate": "Megan L. Olsen", "office": "City Council District 2", "filing_type": "interim", "election_year": "2025", "source_pdf": "/Users/tysonwelsh/civic-data/magna_city_council/campaign_finance/raw/202508_olsen_magna-d2_primary_v572.pdf", "pages": 5}
+}

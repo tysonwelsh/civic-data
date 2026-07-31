@@ -1,0 +1,39 @@
+{
+ "contributions": [
+  {
+   "date": "10/08/2025",
+   "name": "A Flack",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": null,
+   "name": "Bertha Harris",
+   "amount": "10.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "10/08/2025",
+   "recipient": "Time Less",
+   "purpose": null,
+   "amount": "12.80"
+  },
+  {
+   "date": "10/22/2025",
+   "recipient": "Costco fuel",
+   "purpose": null,
+   "amount": "84.00"
+  },
+  {
+   "date": null,
+   "recipient": "Home Depot",
+   "purpose": null,
+   "amount": "13.20"
+  }
+ ],
+ "total_contributions": "110.00",
+ "total_expenditures": "110.00",
+ "ending_balance": "0.00"
+}

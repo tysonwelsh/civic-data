@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "05/22/2023", "name": "Paul Jacobs", "amount": "500.00", "in_kind": false},
+    {"date": "05/22/2023", "name": "Shannon Jacobs", "amount": "500.00", "in_kind": false},
+    {"date": "06/30/2023", "name": "S.L Board of Realtors", "amount": "1500.00", "in_kind": false},
+    {"date": "07/08/2023", "name": "Lynda Brown", "amount": "100.00", "in_kind": false},
+    {"date": "07/08/2023", "name": "Donetta Mitchell", "amount": "100.00", "in_kind": false},
+    {"date": "06/01/2023", "name": "Personal", "amount": "95.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/01/2023", "recipient": "Murray City", "purpose": "Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "06/09/2023", "recipient": "Vista Print", "purpose": "Door Hangers", "amount": "210.58", "in_kind": false},
+    {"date": "06/21/2023", "recipient": "Snap Stitched", "purpose": "Parade Shirts", "amount": "180.00", "in_kind": false},
+    {"date": "06/30/2023", "recipient": "Amazon", "purpose": "Parade Candy", "amount": "271.80", "in_kind": false},
+    {"date": "08/02/2023", "recipient": "S.L Board of Realtors", "purpose": "Returned Donation", "amount": "1500.00", "in_kind": false},
+    {"date": "08/02/2023", "recipient": "Lynda Brown", "purpose": "Returned Donation", "amount": "100.00", "in_kind": false},
+    {"date": "08/02/2023", "recipient": "Murray Children's Pantry", "purpose": "Donation", "amount": "437.62", "in_kind": false}
+  ],
+  "total_contributions": "2795.00",
+  "total_expenditures": "2795.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/202308_Jim-Brass_14400.pdf",
+    "candidate": "Jim Brass",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202308_Jim-Brass_14400.pdf",
+    "pages": 4
+  }
+}

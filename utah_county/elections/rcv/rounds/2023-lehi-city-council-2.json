@@ -1,0 +1,65 @@
+{
+ "config": {
+  "contest": "2023 Lehi City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Lehi, Utah",
+  "office": "City Council",
+  "threshold": "2655"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "HEATHER NEWALL": 2042.0,
+    "K. CASEY GLADE": 1149.0,
+    "KENNETH ROBERTS": 1218.0,
+    "NICOLE KUNZE": 1582.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "K. CASEY GLADE",
+     "transfers": {
+      "HEATHER NEWALL": 281.0,
+      "KENNETH ROBERTS": 377.0,
+      "NICOLE KUNZE": 259.0,
+      "Inactive Ballots": 232.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "HEATHER NEWALL": 2323.0,
+    "KENNETH ROBERTS": 1595.0,
+    "NICOLE KUNZE": 1841.0,
+    "Inactive Ballots": 232.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KENNETH ROBERTS",
+     "transfers": {
+      "HEATHER NEWALL": 540.0,
+      "NICOLE KUNZE": 605.0,
+      "Inactive Ballots": 450.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "HEATHER NEWALL": 2863.0,
+    "NICOLE KUNZE": 2446.0,
+    "Inactive Ballots": 682.0
+   },
+   "tallyResults": [
+    {
+     "elected": "HEATHER NEWALL",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

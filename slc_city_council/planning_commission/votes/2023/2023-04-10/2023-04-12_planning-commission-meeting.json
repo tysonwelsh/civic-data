@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "date": "2023-04-12",
+    "year": "2023",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2023/PC04.26.2023/PC04.12.2023minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2023/2023-04-10/2023-04-12_planning-commission-meeting.md",
+    "present": [
+      "Maurine Bachman",
+      "Mike Christensen",
+      "Amy Barry",
+      "Aimee Burrows",
+      "Andres Paredes",
+      "Brenda Scheer",
+      "Levi Oliveira",
+      "Rich Tuttle",
+      "Jon Lee",
+      "Andra Ghent",
+      "Anaya Gayle"
+    ],
+    "absent": []
+  },
+  "votes": [
+    {
+      "motion": "proceed with the consent agenda as posted was proposed by Commissioner Brenda Sheer",
+      "description": "proceed with the consent agenda as posted was proposed by Commissioner Brenda Sheer",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "",
+      "seconder": "Mike Christensen",
+      "result": "11:0 Pass",
+      "tally": {
+        "yes": 11,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Andra Ghent",
+        "Anaya Gayle",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "pass all items on the consent agenda was proposed by Vice-Chairperson Mike Christensen",
+      "description": "pass all items on the consent agenda was proposed by Vice-Chairperson Mike Christensen",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "",
+      "seconder": "Brenda Scheer",
+      "result": "8:0 Pass",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 3,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [
+        "Aimee Burrows",
+        "Andra Ghent",
+        "Jon Lee"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "rearrange the order of regular agenda items",
+      "description": "rearrange the order of regular agenda items",
+      "motion_type": "Other",
+      "action_class": "procedural",
+      "mover": "Brenda Scheer",
+      "seconder": "",
+      "result": "10:0 Pass",
+      "tally": {
+        "yes": 10,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Levi Oliveira",
+        "Rich Tuttle",
+        "Andra Ghent",
+        "Jon Lee",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [
+        "Anaya Gayle"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve this application based on staff\u2019s recommendation",
+      "description": "approve this application based on staff\u2019s recommendation",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Mike Christensen",
+      "seconder": "Rich Tuttle",
+      "result": "6:5 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 5,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Brenda Scheer",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Amy Barry",
+        "Aimee Burrows",
+        "Anaya Gayle",
+        "Levi Oliveira",
+        "Andres Paredes"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "deny the Conditional Use request because the potential for detrimental impacts to the environment near the site cannot be mitigated",
+      "description": "deny the Conditional Use request because the potential for detrimental impacts to the environment near the site cannot be mitigated",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Amy Barry",
+      "result": "9:1 Denied (Final Action)",
+      "tally": {
+        "yes": 9,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Andres Paredes",
+        "Brenda Scheer",
+        "Rich Tuttle",
+        "Jon Lee",
+        "Andra Ghent",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Levi Oliveira"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

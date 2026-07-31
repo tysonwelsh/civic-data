@@ -1,0 +1,29 @@
+{
+  "contributions": [
+    {"date": "7/8/2019", "name": "Salt Lake Board of Realtors", "city": "Sandy", "state": "UT", "amount": "3,000.00", "in_kind": false},
+    {"date": "8/21/2019", "name": "Brad Marlor", "city": "So. Jordan", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "9/18/2019", "name": "Brad Marlor", "city": "So. Jordan", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "9/24/2019", "name": "Brad Marlor", "city": "So. Jordan", "state": "UT", "amount": "100.00", "in_kind": false},
+    {"date": "10/1/2019", "name": "Steve Darling", "city": "SLC", "state": "UT", "amount": "500.00", "in_kind": false},
+    {"date": "10/14/2019", "name": "Tim Hollist", "city": "So. Jordan", "state": "UT", "amount": "100.00", "in_kind": false},
+    {"date": "10/15/2019", "name": "Don Shelton", "city": "So. Jordan", "state": "UT", "amount": "300.00", "in_kind": false},
+    {"date": "10/15/2019", "name": "Salt Lake Board of Realtors", "city": "Sandy", "state": "UT", "amount": "839.69", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "4/20/2018", "recipient": "Go Daddy", "purpose": "Domain Site", "amount": "30.34", "in_kind": false},
+    {"date": "6/21/2019", "recipient": "Go Daddy", "purpose": "Web Site Marketing", "amount": "51.35", "in_kind": false},
+    {"date": "5/24/2019", "recipient": "Office Max", "purpose": "Marketing Supplies", "amount": "19.29", "in_kind": false},
+    {"date": "5/31/2019", "recipient": "Renee's Custom Embroidery", "purpose": "T-Shirts", "amount": "219.47", "in_kind": false},
+    {"date": "7/17/2019", "recipient": "Majority 51", "purpose": "Signs, Doorhangers", "amount": "2,023.72", "in_kind": false},
+    {"date": "8/14/2019", "recipient": "City Journals", "purpose": "Newspaper Marketing", "amount": "600.00", "in_kind": false},
+    {"date": "8/23/2019", "recipient": "City Journals", "purpose": "Newspaper Marketing", "amount": "600.00", "in_kind": false},
+    {"date": "9/11/2019", "recipient": "Josh Strand / Strand Marketing", "purpose": "Door to Door Marketing", "amount": "550.00", "in_kind": false},
+    {"date": "9/20/2019", "recipient": "City Journals", "purpose": "Newspaper Marketing", "amount": "600.00", "in_kind": false},
+    {"date": "10/1/2019", "recipient": "Majority 51", "purpose": "Doorhangers", "amount": "269.00", "in_kind": false},
+    {"date": "11/18/19", "recipient": "City Journals", "purpose": "Newspaper Marketing", "amount": "300.00", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "300.00",
+  "total_contributions_ytd": "5,839.69",
+  "total_expenditures_ytd": "5,263.17"
+}

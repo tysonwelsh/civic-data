@@ -1,0 +1,151 @@
+# Riverton Planning Commission Meeting — 2023-05-25
+> Source: https://www.utah.gov/pmn/files/1010413.pdf
+> Meeting date: 2023-05-25
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/834511.html
+> Format: text
+
+Approved: 8.10.23 PC
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                   MAY 25, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Chair Jon Gilchrist                              Tim Prestwich, City Planner
+Shelly Cluff                                     Matt Cassel, City Engineer
+Evan Matheson                                    Lisa Halversen, City Planner
+Monique Mortensen                                Ryan Carter, City Attorney
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Jon Gilchrist called the meeting to order at approximately 6:30 p.m. and led the
+Pledge.
+
+2.     PUBLIC HEARINGS
+
+       A.     AFCU AMENDED SITE PLAN, PLZ-23-8006, AN AMENDED COMMERCIAL
+              SITE PLAN TO BE LOCATED AT 12653 SOUTH 3600 WEST. APPLICANT
+              - AWA ENGINEERING.
+
+City Planner, Tim Prestwich presented the Staff Report and stated that the Commission
+recently approved the site plan; however, there were significant site modifications. The
+matter was re-noticed but no comments were received. He noted that nothing about the
+building had changed but there some changes to the site. Mr. Prestwich presented what
+was previously approved and reminded the Commission that most of the site is vacant. The
+property is not being split in order to maintain as much flexibility as possible in the future.
+There will be full access to 3600 West and a right-in right-out onto 12600 South. The
+applicants spoke with representatives from the Utah Department of Transportation (“UDOT”)
+regarding the Traffic Study and it was recommended that islands be added. After the
+meeting, additional information was received regarding the Traffic Study and the applicants
+continued to work with UDOT. Ultimately, changes were made to the site.
+
+On 3600 West, the full access near the building was changed to a right-in right-out and full
+access was added to the south as well as a connection road. The landscaping was
+increased with the previous treatments expanded. Mr. Prestwich appreciated what was
+done and stated that the applicants went beyond what would have been required of them.
+He commented that they have made a commitment to make the corner look attractive.
+Another modification was made to the drive approach, which was moved to the east 50 to
+80 feet. UDOT is requiring different islands and turn movements. The nearby Scooters site
+was identified but was not yet connected. Once the area is developed, a connection will be
+made to provide cross-access. No changes were made north of the approach. All other
+aspects of the site remain the same.
+Riverton City Planning Commission Meeting                                                2
+May 25, 2023
+
+
+
+Mr. Prestwich presented the new plan with the old plan overlaid to show the changes. A
+minor change was made to the fencing to remove the field fence and extend the new chain
+link fencing to the wall. This will allow for better circulation and push the restriction back
+slightly. The area can be cleaned up and maintained a few times each year with access
+from a few different points. The landscaping will change to include three different types of
+ground cover rock. The proposed landscaping meets the City’s waterwise landscaping
+goals, has a high density of plantings, and includes the required number of trees. A variety
+of ground cover was used to provide visual interest. Other landscaping on the site was
+enhanced beyond what would have been required. The park strips along 12600 South will
+remain and the applicants will take over maintenance and work with the Parks Department
+to disconnect from the City system. The existing sod will be removed and replaced with
+rock.
+
+Reference was made to the church fence, which was moved off of the property line. Staff
+recommended adding a condition to specify that there may be a fence within a fence.
+
+Chair Gilchrist opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Chair Gilchrist moved to APPROVE PLZ-23-8006, Amended Site Plan for “America
+First Credit Union (“AFCU”) located at 12653 South 3600 West with the following
+conditions:
+
+       1.     Site Plan Improvements and Building shall be consistent with the plans
+              presented to the Planning Commission except where otherwise noted.
+
+       2.     The applicant shall correct or resolve the remaining staff redlines.
+
+       3.     Storm drainage systems and accommodations comply with the Riverton
+              City Standards and Ordinances and with the recommendations of the
+              Riverton City Engineer.
+
+       4.     The applicant must create and agree to follow a Long-Term Storm Water
+              Management Plan according to Riverton City standards and ordinances.
+
+       5.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+
+       6.     The site and structures shall comply with any and all applicable Riverton
+              City Standards and ordinances, including the International Building and
+              Fire Codes.
+
+       7.     The applicant must obtain final approval from utility providers.
+
+       8.     Rooftop mechanical equipment shall be screened.
+Riverton City Planning Commission Meeting                                         3
+May 25, 2023
+
+
+
+      9.    Wall-mounted service panels shall be painted to match the building.
+
+      10.   The dumpster enclosure shall have solid gates and the gates and
+            enclosure shall be of similar materials to the building.
+
+      11.   The park strip on 3600 West shall be irrigated and maintained by the
+            applicant and its successors.
+
+      12.   The temporary fence shall be installed as shown on the Site Plans prior
+            to occupancy of the building.
+
+      13.   If the applicant is not able to get permission from the south property
+            owner to install the new fence along the common boundary line,
+            permission is granted by the Planning Commission for the applicant to
+            install parallel fencing.
+
+Commissioner Cluff seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.    None.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    Planning Commission Meeting Minutes of April 27, 2023.
+
+Commissioner Matheson moved to approve the minutes of the April 27, 2023
+Meeting minutes, as submitted. Commissioner Cluff seconded the motion. The
+motion passed with the unanimous consent of the Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 6:50 p.m.
+

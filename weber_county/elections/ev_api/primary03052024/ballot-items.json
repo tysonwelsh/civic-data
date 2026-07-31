@@ -1,0 +1,185 @@
+{
+ "data": [
+  {
+   "id": "37480907-a4f9-4e2d-a7e5-b1b531d1515b",
+   "parentId": "52d8a0a2-4ae8-4009-916a-a4a36884d801",
+   "parentJurisdictionName": null,
+   "publishPublicElectionId": null,
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "DEM Democratic Presidential Primary"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 0,
+    "totalUnits": 199,
+    "asOf": "2025-01-02T19:02:18.1621471Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 5274,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "1eba5fbd-4c34-4141-ab10-91e72e234696",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOSEPH R BIDEN JR"
+       }
+      ],
+      "voteCount": 4558,
+      "party": {
+       "id": "758d54da-3d5d-4dd2-93c1-3da9102117f2",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "a5964966-301c-4199-b4a2-baa5d5668bd8",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "GABRIEL CORNEJO"
+       }
+      ],
+      "voteCount": 116,
+      "party": {
+       "id": "758d54da-3d5d-4dd2-93c1-3da9102117f2",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "e81877f0-417a-4db2-952d-f22241370253",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MARIANNE DEBORAH WILLIAMSON"
+       }
+      ],
+      "voteCount": 295,
+      "party": {
+       "id": "758d54da-3d5d-4dd2-93c1-3da9102117f2",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "6ba10411-cdfc-4ef0-8828-31a38b2c057c",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FRANK LOZADA"
+       }
+      ],
+      "voteCount": 69,
+      "party": {
+       "id": "758d54da-3d5d-4dd2-93c1-3da9102117f2",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     },
+     {
+      "id": "84c280d1-3a19-46ed-8647-d76dd32739b7",
+      "nativeId": "5",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DEAN BENSON PHILLIPS"
+       }
+      ],
+      "voteCount": 236,
+      "party": {
+       "id": "758d54da-3d5d-4dd2-93c1-3da9102117f2",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "Democratic"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": null
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": null,
+   "isCloseRace": null,
+   "partyName": null
+  }
+ ],
+ "limit": 0,
+ "offset": 0,
+ "totalRecordCount": 1
+}

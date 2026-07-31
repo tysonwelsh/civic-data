@@ -1,0 +1,521 @@
+---
+title: Alta Town Council — Regular Meeting 2023-12-13
+date: 2023-12-13
+meeting_type: regular
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1069083.pdf
+source_file: 2023-12-13 TC Meeting Minutes APPROVED.pdf
+pmn_file_id: 1069083
+format: ocr
+---
+
+, | |
+|
+MINUTES |
+PUBLIC HEARING
+. ALTA TOWN COUNCIL MEETING
+Wednesday, December 13, 2023, 2:45 PM .
+. Alta Community Center, 10351 E, Highway 210, Alta, Utah
+PRESENT: Mayor Roger Bourke |
+Councilmember Carolyn Anctil |
+| Councilmember John Byrne |
+Councilmember Sheridan Davis |
+Councilmember Elise Morgan
+STAFF PRESENT: Chris Cawley, Interim Town Manager
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk
+Molly Austin, Deputy Town Clerk — . |
+Chris Otto, Assistant Town Manager
+ALSO PRESENT: Cameron Platt, Legal Counsel (virtual)
+PUBLIC HEARING
+1. CALL THE PUBLIC HEARING TO ORDER . me,
+00:00:00 |
+- Mayor Bourke called the public hearing of December 13, 2023 to order to receive comments on the
+proposed December budget amendment for fiscal year 2024. The purpose of the amendment was to
+review and make necessary adjustments to the budget passed six months earlier. Mayor Bourke
+emphasized that this process was more of a tuning than a revision, aiming to align the budget with the
+. current realities, given the uncertainties involved in forecasting six months ahead. ;
+2. PUBLIC HEARING TO RECEIVE COMMENT ON THE PROPOSED DECEMBER BUDGET |
+AMENDMENT FOR FY 2024 mo
+|
+00:00:10 |
+|
+Mayor Bourke asked for comments from the public or anybody else. |
+John Byrne expressed dissatisfaction with the Capital Projects Plan during the public hearing, stating )
+that it was the third such plan that he considered ineffective. He emphasized the importance of
+effective communication and asserted that the $4 million fund, with an additional million expected this
+year, lacked a proper expenditure plan. Byrne criticized the plan's brevity, stating it was half a page .
+with blanks and expressed embarrassment in being associated with it. Mayor Bourke sought
+clarification on Byrne's concern, noting that the fiscal year 2024 spending was approved. Byrne
+emphasized the lack of out-year spending plans and proposed having a set of projects with associated |
+Alta Town Council Meeting |
+December 13, 2023 |
+{
+
+costs for the out years and questioned if clear direction had been given to prioritize spending the
+funds. Elise Morgan suggested discussing the matter in the town council meeting agenda item, ;
+considering the ongoing public hearing.
+; Joe Mattingly, expressed concerns about transportation, particularly during the winter. He suggested - I
+allocating a portion of the budget to purchase heavy-duty vans, which he believed would be more
+personable than buses. Mattingly estimated the cost of the vans to be around $75,000 each, proposing
+the use of a million dollars for this purpose. He suggested using the remaining balance for the capital |
+operating budget, possibly implementing a small fee but preferably opting for a free bus system similar !
+to Park City. Mattingly expressed willingness to be a leader on the issue and pledged to follow if the
+town council took the lead.
+Mayor Bourke acknowledged the desire for a detailed list of future projects, clarifying that they do
+have a wish list of projects not yet incorporated into the budget plan. John Byrne continued to
+expressed concern about the lack of out-year spending plans and urged the council to identify projects ;
+for the next summer, emphasizing the need for an ongoing expenditure plan. Elise Morgan mentioned !
+the fiscal year 2024 column in the capital projects, pointing out that many projects for that year had _ :
+been completed. Byrne expressed uncertainty about future plans and urged the council to distinguish
+between the current fiscal year and future years.
+. [
+Elise Morgan.defended the efforts of the staff, stating that the current capital projects plan was the , |
+most robust she had seen in her eight years on the Budget Committee. She acknowledged the need for
+: better earmarking of projects but commended the progress made. Byrne agreed with Morgan's
+"assessment of the current year (FY 2024) but stressed the importance of having a plan for FY 2025 and
+. beyond the current accounting period.
+Chris Cawley, responding to the discussion, explained the need for technical input to develop plans for
+multi-year projects. He emphasized the purpose of the budget amendment to allocate funds for hiring
+engineers for water and sewer system master planning and facilities master planning. Byrne expressed |
+concern about lapses in planning and questioned why certain projects, like replacing windows at Alta
+Central, couldn't be included in next year's plan. Cawley clarified that the process historically involved
+starting the budget for the next fiscal year and deciding projects for that year. Byrne argued for a more
+forward-looking approach and called for an ongoing plan. Mayor Bourke expressed agreement with
+Byrne, stating that they could populate future years with various projects. .
+3. MOTION TO ADJOURN :
+00:12:05 |
+: ‘ MOTION: Elise Morgan motioned to adjourn, and Sheridan Davis seconded. !
+VOTE: Allin favor. The public hearing was adjourned unanimously. 2
+ALTA TOWN COUNCIL MEETING
+1. CALL THE MEETING TO ORDER
+Alta Town Council Meeting , . ;
+December 13, 2023 2°
+
+00:15:05 | i
+Mayor Bourke called the November 8, 2023 Alta Town Council meeting to order. :
+2, CITIZEN INPUT |
+00:15:45 , :
+Margaret Bourke remotely addressed the council, inquiring about seeking reimbursement from the 3
+Bureau of Reclamation for the ongoing Grizzly Gulch water line project. She also expressed gratitude to |
+Councilwoman Sheridan Davis for her six years of service, commending her for taking courageous |
+positions. Additionally, Bourke highlighted her concern about the Little Cottonwood Canyon gondola
+survey, suggesting more robust citizen involvement through open houses or extended dialogue in
+council meetings. She emphasized the significance of this issue and its importance compared to other
+town matters.
+Sheridan Davis sought clarification and additional information from Margaret Bourke regarding a letter |
+she had shared with the council regarding the water fund debt to the general fund. Bourke explained |
+that her concerns stemmed from discussions with Keith Hanson, who had been supervisor of Salt Lake |
+Service Area Number Three and John Guldner, the Town Administrator, She emphasized that town
+records did not identify the funds as a loan, and so we shouldn’t assume repayment was expected. |
+Bourke urged caution and suggested that the council should not automatically label it a loan without |
+proper documentation. Responding to Davis's question about potential improvements, Bourke
+expressed her belief that any improvement to a public utility could benefit both water districts, arguing
+that the benefit was not solely for the town's water users but also for service area water users.
+Mayor Bourke proposed addressing the topic further during agenda item number 11, where John.
+- Guldner could be invited to add to the discussion. , ,
+- 3, . QUESTIONS REGARDING DEPARTMENTAL REPORTS .
+00:22:30 | oe | !
+Elise Morgan reminded everyone about the implementation of parking reservations starting Friday, .
+December 15.
+4. APPROVAL OF CONSENT AGENDA: NOVEMBER 8, 2023, MEETING MINUTES, DECEMBER 6,
+2023 BOARD OF CANVASSERS MEETING MINUTES, STAFF AND FINANCE REPORTS :
+. 00:25:50 . | 7
+John Byrne suggested two edits to the November 8, 2023 minutes to better capture the tone of the |
+comments made by Councilmember Morgan about the draft letter to UDOT and the council’s overall
+discussion about the Little Cottonwood Canyon Environmental Impact Statement (LCC EIS) and
+gondola. Elise Morgan confirmed that she had seen the edits and agreed with them, indicating that the |
+edits as presented better captured the discussion.
+i
+. Alta Town Council Meeting :
+December 13, 2023 3 |
+|
+i
+
+MOTION: Elise Morgan motioned to approve the consent agenda including the November 8, |
+2023 town council meeting minutes with edits as presented in the meeting, the December 6, |
+2023 board of canvassers meeting minutes, and staff and finance reports. John Byrne |
+|
+seconded. |
+VOTE: Allin favor. The November 8, 2023 meeting minutes, the December 6, 2023 board of .
+canvassers meeting minutes, and staff and finance reports were approved.
+5. ALTA SKI AREA UPDATE, MIKE MAUGHAN |
+. 00:29:00 | |
+Mike Maughan reported that all lifts at Alta were now operational, and the ski area had received more |
+snow than any other ski area in North America. However, he acknowledged the potential for a dry spell 7
+in the future. He also discussed the overall positive feedback from visitors, who praised the ski product
+at Alta. :
+Maughan reminded the council that parking reservations would commence on Friday, affecting both :
+the town and the ski area. He explained that reservations would be required for overnight and daytime
+parking during weekends and holidays, starting with the upcoming Friday. Additionally, he mentioned
+that the Christmas holiday period, beginning the following Friday and extending through January 1, |
+’ would require parking permits every day. Maughan expressed confidence in the reservation system but
+noted that some days were weaker, especially Fridays. . :
+He discussed challenges faced by the ski area, including delays due to avalanche activity and the need
+_ for extensive mitigation work. Despite these challenges, Maughan expressed optimism that the issues |
+related to rotten snow were mostly behind them. He also provided an overview of the status of the |
+Ikon pass program and shared information from a discussion with Interstate Parking, indicating that |
+reservations were gradually gaining acceptance in Big Cottonwood Canyon. |
+|
+Maughan concluded his update and invited any specific questions from the council regarding the ski ‘ |
+area. |
+Regarding “The Backside” terrain area of Alta Ski Area, Maughan explained that a significant avalanche |
+had occurred, causing delays and search and rescue efforts. He expressed hope for potential openings
+but emphasized the need for daily evaluation based on weather conditions.
+The council members shared their experiences skiing on the new run off of the Supreme Lift and
+commended the quality of the terrain. Mayor Bourke noted that The Backside was not yet open due to
+challenging conditions. ,
+Sheridan Davis inquired about the possibility of bringing back the Wasatch bus line (UTA 953}, to which .
+Maughan responded that UTA would have to restore other routes in less privileged neighborhoods
+first. The discussion touched on the historical decline in bus service to Alta and potential future
+improvements. Carolyn Anctil raised questions about the impact of COVID on ridership, and Maughan .
+acknowledged a reduction in bus service and ridership, even before the pandemic. He emphasized |
+ongoing efforts to explore solutions for traffic and avalanche-related challenges.
+Alta Town Council Meeting . |
+December 13, 2023 4
+
+Mayor Bourke commented on the upcoming busy week between Christmas and New Year's, and |
+Maughan provided insights into the current weather forecast and potential wet conditions after a dry
+spell. The council members praised the successful opening of the mountain, and John Byrne
+commended Maughan for his efforts. :
+6. MAYOR’S REPORT
+00:38:45 | a !
+Mayor Bourké announced of a group's lawsuit challenging elements of the UDOT LCC EIS and seeking 2
+traffic solutions. He added that Salt Lake City, Sandy City, and Save Our Canyons also filed similar legal
+actions. . 3
+The town certified the November election results, noting a high voter turnout. Elise Morgan was
+, reelected and was currently serving in her 11" year, and Dan Schilling was newly elected. The new
+council members would be sworn in on January 2, 2024. Mayor Bourke expressed gratitude to |
+outgoing council member Sheridan Davis, highlighting her six years of honorable service and valuable :
+contributions to the community. The mayor also touched on Davis's insights into the evolution of :
+~ mountain towns.
+7. DISCUSSION ANDPOSSIBLE ACTION TO APPOINT THE TOWN MANAGER BY RESOLUTION 2023- |
+| R-22 | .
+00:43:00
+Mayor Bourke introduced resolution 2023-R-22, citing the retirement of John Guldner six months prior
+and the interim appointment of Chris Cawley as the acting town manager. Mayor Bourke expressed his ;
+- belief in Chris's professionalism and effectiveness during the interim period, proposing his permanent
+- appointment.
+MOTION: Elise Morgan motioned to approve Resolution 2023-R-22. Sheridan Davis seconded. ‘
+. Carolyn Anctil and Elise Morgan praised Chris's contributions and community involvement, expressing .
+enthusiasm for his appointment. John Byrne supported Chris's candidacy and suggested track changes
+to the resolution, clarifying the mayor's designation of Chris as interim and the need for formal consent
+by the town council at this time.
+John Byrne presented an edit to delete language that stated “the Mayor and Town Council
+appointed Chris Cawley” and replace it with “the Mayor designated Chris Cawley”.
+. John Byrne explained the necessity of getting the details right and ensuring the council's formal
+consent for the permanent appointment. Sheridan Davis expressed gratitude for Chris's service,
+highlighting his positive impact on the town. Mayor Bourke acknowledged the sentiment and playfully
+| noted Cawley's reaction. :
+Alta Town Council Meeting .
+December 13, 2023 5 ;
+
+ROLL CALL VOTE: Counciimember Byrne — yes, Councilmember Davis — yes, Mayor Bourke — |
+yes, Councilmember Morgan — yes, Councilmember Anctil — yes, Resolution 2023-R-22 was
+. unanimously adopted and Chris Cawley was appointed Town Manager.
+John Guldner expressed gratitude for the decision to appoint Chris Cawley as the town manager,
+emphasizing the perfect timing of the appointment. Chris Cawley thanked everyone for their support !
+_ and brought up some housekeeping items related to the town manager ordinance.
+|
+~ Cawley explained that the town manager ordinance required him to furnish a fidelity bond, but that |
+the Town’s existing insurance policy already provided the required coverage. He mentioned that the
+Utah Local Governments Trust had informed them about this change and suggested a slight ordinance |
+amendment to reflect the current situation. The proposed change would eliminate the need fora 3
+separate fidelity bond. Mayor Bourke supported the idea, finding it sensible. Elise Morgan and others
+' discussed the historical context of the ordinance language and agreed to work on an amendment in
+January to align it with state code. John Byrne raised the point that the cost of a separate bond was
+relatively low ($245), but he expressed flexibility on the decision. Jen Clancy clarified that the existing :
+insurance coverage met the intent of the fidelity bond, and Cameron Platt added that, while it's nice to .
+
+’ have the language match the state code, practically, the town was meeting the requirements. The
+discussion concluded with an understanding that an amendment would be pursued in January to |
+reflect the current insurance coverage accurately. ,
+Cawley also addressed the need for the council to set his compensation by ordinance or resolution, as |
+
+. required by the town manager ordinance. He also highlighted the requirement to pass a resolution
+establishing compensation levels for all elected and appointed officials of the town, including the clerk,
+marshal, treasurer, and members of the town council and'planning commission.
+The discussion then shifted, and John Byrne emphasized the need for the council's consent to the
+appointment of officers, including the town council, clerk, town manager, and marshal. Cawley clarified
+that the town manager ordinance did not explicitly state this requirement. They discussed the
+historical context of this requirement and whether a resolution for consent was necessary. Cameron
+Platt explained that the town code had been modified to delegate appointment authority to the town
+manager, and under the current organization, reappointment was not required. |
+John Byrne proposed that in January, after seating the new elected officials, Cawley could submit a list |
+of all existing appointed officers for the council's consent. Cameron Platt agreed that there was |
+
+nothing wrong with affirming their appointments through a resolution, although under state law,
+
+. appointments carry forward until removal occurs. The council discussed the practicality of the consent
+process and it was suggested that a resolution for consent would be a tidier approach. The discussion
+concluded with John Byrne and Elise Morgan supporting the process of the town manager presenting a
+resolution to appoint officers for consent in January. |
+
+, 8. DISCUSSION ABOUT PROPOSED LITTLE COTTONWOOD CANYON GONDOLA SURVEY
+01:00:05
+Alta Town Council Meeting —
+December 13, 2023 6
+|
+
+Chris Cawley addressed the council's ongoing work on a resolution in response to the Little
+Cottonwood Canyon Environmental Impact Statement (LCC EIS). He summarized three key takeaways
+from the November council meeting discussions: |
+1. The council aims to maintain positive relationships and a positive tone with UDOT and
+) its personnel. _ .
+2. The council supports the common sense solutions approach outlined in the October :
+2022 letter from Salt Lake County Mayor Wilson.
+3. Before adopting a resolution opposing or taking any other position on the gondola, the
+council wants to understand the community's positions on the proposed gondola.
+Chris Cawley presented a proposed approach to gather community input efficiently, suggesting a |
+. simple survey that would be emailed and possibly posted online for a specified period. The results ,
+, . would be compiled and analyzed, with a report presented to the council in January, enabling the
+potential adoption of a resolution at that time. He acknowledged that some community members had
+suggested a more deliberative approach, such as hosting an open house with a panel discussion to hear |
+different perspectives on the gondola proposal. Cawley sought input from the council on the preferred
+approach to resolving the matter and continuing the conversation with the community regarding their
+opinions on the gondola and other elements of the LCC EIS. He emphasized the importance of |
+considering public input in the decision-making process. Cawley invited the council to share their
+preferences and thoughts on the proposed approaches. 7
+Carolyn Anctil suggested exploring the possibility of partnering with A.C.E. (Alta Community
+Enrichment) for educational opportunities, particularly regarding a recent lawsuit related to |
+environmental impact. She expressed interest in having the legal team from the lawsuit provide |
+education to the council and the community. Jen Clancy clarified that ACE doesn't take positions on
+issues but asked if they could offer educational opportunities. Chris Cawley noted that ACE could
+potentially help publicize an event but mentioned that ACE is explicitly non-political.
+] Elise Morgan highlighted the challenges of capturing diverse opinions within the community,
+considering residents, employees, and recreational visitors. She expressed a preference for an email
+survey over an open house to reach a broader audience. John Byrne emphasized the importance of
+gathering input from businesses in addition to residents. He also suggested including a question in the .
+survey about which of the proposed alternatives residents prefer. Chris Cawley discussed the potential
+challenges and limitations of taking public input without a clear plan on how to use that input. oo
+Sheridan Davis pointed out that the context has changed with the Olympics pending. Elise Morgan ;
+mentioned the impact of lawsuits essentially stalling the implementation of Phase 1. She also
+emphasized that the town is dependent on its partners for various services and expressed concern
+about creating tension with those partners. John Byrne suggested that individuals could express their
+opinions in letters to the editor. Elise Morgan expressed her wariness of taking a harsh stance and
+emphasized the need for citizen backing if such a stance were to be taken. Sheridan Davis emphasized
+that the situation is evolving, and the town should continue to gather information. __
+Alta Town Council Meeting |
+December 13, 2023 . 7 |
+
+John Byrne suggested waiting for more alternatives to develop before expressing a collective opinion.
+Mayor Bourke mentioned the importance of the enhanced bus service and the potential for a non-
+controversial resolution supporting it. ;
+Carolyn Anctil inquired about the decline in bus availability and ridership in Big Cottonwood Canyon
+compared to Little Cottonwood Canyon. Mike Maughan, explained that Little Cottonwood Canyon .
+experienced a more significant reduction in bus service, with a 75% cut, whereas Big Cottonwood
+Canyon had a 30% cut initially and a smaller reduction overall. The system-wide cut affected the overall |
+service, and the removal of route 953 specifically impacted Little Cottonwood Canyon. Sheridan Davis
+shared anecdotal stories from people expressing difficulties in obtaining an Alta pass due to bus
+unavailability. Mike Maughan highlighted the challenges posed by COVID, making people reluctant to
+share rides and impacting the use of buses.
+Carolyn Anctil suggested that positive data about the bus service could be a non-politically alienating
+and constructive focus for the council. Mayor Bourke agreed and proposed considering a letter
+supporting the restoration of bus services as a potential next step. Chris Cawley asked for clarification
+on whether the council intended to draft a new resolution or engage in more public feedback 7 |
+processes, such as holding an open house. Elise Morgan expressed a preference for a simpler !
+approach, possibly revisiting the topic after the holidays. John Byrne suggested a constructive letter
+focusing on short-term benefits, like enhanced bus services and highlighting the importance of the |
+evaluation period. mentioned in Jenny Wilson's letter. The discussion concluded with an agreement to
+move forward with a letter supporting the restoration of bus services and possibly addressing the
+evaluation period in the future.
+9, DISCUSSION AND POSSIBLE ACTION TO ADOPT AN UPDATED 2024 CAPITAL PROJECTS PLAN
+01:24:45 )
+Mayor Bourke opened the discussion on adopting the 2024 capital projects plan highlighted the earlier :
+| discussion about the lack of a clear plan for capital projects post-2024. John Byrne shared his 2
+perspective on the success of capital improvements in 2024 but expressed dissatisfaction with the |
+exhibit's title, emphasizing that all capital projects should be included, He questioned the inclusion of
+the shuttle as a capital project, suggesting it did not belong. Byrne advocated for additions to the plan,
+. especially those marked in red, and expressed concern about the absence of spending beyond the ;
+current year. ,
+Sheridan Davis inquired about the retreat to address the broader planning issues, which Chris Cawley
+| confirmed, stating that progress would be made even in the absence of a retreat. Cawley stressed the |
+importance of long-term planning for infrastructure and facilities. Elise Morgan noted the changes in :
+the capital process format and suggested involving the planning commission in future planning. She ;
+‘emphasized the need for a long-term plan and offered support in resource allocation. Chris Cawley . |
+acknowledged the challenges in presenting information consistently and expressed a desire to find the
+right starting point for the capital projects plan. John Byrne echoed concerns about the process,
+mentioning too many conflicting opinions. | ;
+Alta Town Council Meeting |
+December 13, 2023 8 ,
+. |
+
+|
+
+|
+
+The discussion also touched upon the need for studies, potential projects for 2025, and the importance
+
+of prioritizing and earmarking projects realistically based on staff capacity and timelines.
+
+Chris Cawley emphasized the importance of finding a presentation format for the capital projects plan .
+
+that satisfies the council. He expressed the urgency of allocating funds, considering that the town is
+
+accumulating money that needs programming, and the needs likely surpass the present fund balances. ;
+
+Elise Morgan shared her perspective, stating her role as a town council member is to facilitate the - |
+
+functioning of the town. She expressed concern about the time spent on the document and ~
+
+emphasized the need for documents that the staff can use efficiently. Elise Morgan advocated for a |
+
+realistic long-term plan that considers staff capacity and timelines. |
+
+John Byrne raised the issue of funding for a facilities study, pointing out its absence in the plan. He |
+
+suggested earmarking certain projects for 2025, even if they don't require a facilities study. Byrne |
+
+mentioned specific projects like the Trailhead public bathroom and Alta Central windows may not need
+
+extensive studies. Elise Morgan proposed a more realistic approach to planning, where staff identifies |
+feasible timelines for projects and recommends them to the Town Council based on what the staff can
+
+handle. She suggested earmarking projects for future years based on staff capacity and envisioned
+
+timelines. |
+
+‘Jen Clancy sought feedback on the consistency of document presentation. Some council members |
+
+expressed support for the summary page, color coding to highlight amendments, and the removal of |
+
+; the general fund project page from the capital improvement projects document. However, John Byrne
+
+reiterated the need for clarity regarding what qualifies as a capital project, distinguishing it from
+
+general fund projects. |
+
+The council also discussed the need for a facility study plan and agreed to consider it in future :
+
+discussions, possibly during the 2025 budget discussions. Jen Clancy clarified the process of amending |
+
+the plan, stating that the 2024 items in red are part of the actual fiscal year 2024 budget. Therefore, _
+
+any changes or additions to the capital projects plan that involve spending in 2024 would also need to :
+
+be reflected in the budget.
+
+MOTION: Roger Bourke motioned to approve the 2024 capital projects plan with edits as |
+
+discussed. Elise Morgan seconded. |
+
+VOTE: All in favor. The 2024 capital projects plan with edits was unanimously approved. .
+
+. 10. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2023-R-23 TO ADOPT THE
+
+DECEMBER AMENDMENT FY 2024 BUDGETS |
+
+01:49:25 |
+
+Jen Clancy provided a summary of modifications to various budget categories. The highlights in the |
+
+general fund were related to interest calculations, and there was a slight increase in funding for John |
+
+, Guldner's contract. In the capital project fund budget, there was a $44,000 increase in the transfer . |
+
+from the general fund. For the water fund budget, there was a staff request to add a new project: the |
+
+Alta Town Council Meeting | |
+
+December 13, 2023 9
+
+|
+
+|
+|
+Grizzly Gulch system communication upgrade, with a corresponding revenue increase of $10,000 and
+an equal expense increase in capital outlay. Clancy requested approval for this adjustment. |
+MOTION: John Byrne motioned to approve Resolution 2023-R-23 including the $10,000 added |
+to 51-39-200 and 51-40-740. Elise Morgan seconded.
+ROLL CALL VOTE: Councilmember Davis — yes, Mayor Bourke — yes, Councilmember Morgan —
+yes, Councilmember Anctil — yes, Councilmember Byrne — yes, Resolution 2023-R-23 was
+unanimously adopted and the December amendment to the FY 2024 budgets was approved. |
+|
+11. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2023-R-24 REGARDING THE DEBT !
+REPAYMENT FROM THE WATER.FUND TO THE GENERAL FUND !
+01:52:25 | | a . |
+John Guldner provided his historical perspective, suggesting the issue that arose during the annexation
+of the blackjack area, leading to overlapping service areas. He highlights the challenge of determining |
+the debt owed and the lack of clear documentation from the past. Guldner shared insights into the: ,
+. town's historical practices under Mayor Levitt, emphasizing that the use of general fund money for - :
+water projects was not an intentional loan but a result of historical decisions. He mentioned the .
+difficulty in tracking the exact amount of the debt due to inadequate documentation and the
+complexity of overlapping service areas.
+The discussion also touched on the term "due to and due from” and its accumulation over the years.
+John Byrne stresses the importance of repaying the debt to maintain credibility and avoid undermining :
+financial practices. He proposes.a resolution to repay a minimum of $30,000 per year. The
+conversation involves various council members expressing their views on the historical practices,
+acknowledging the lack of clarity, and emphasizing the need to move forward. The idea of formalizing
+future financial dealings between the water fund and general fund is also discussed. | :
+John Byrne emphasized the importance of not letting the debt be an accumulation of unresolved due-
+to and due-from balances. He discussed the need for clear documentation and terms in future financial .
+dealings between the water fund and general fund. Jen Clancy provided insights into her analysis of the :
+general ledger, highlighting the complexity of tracking the debt due to the nature of coding and |
+‘independent bank accounts for water and sewer. The discussion included attempts to understand the |
+reimbursement given during the annexation and concerns about the lack of clarity. Sheridan Davis 3
+acknowledged the weight of the argument made by John Byrne, indicating an understanding of the
+issues raised. Elise Morgan expressed a desire to move forward and focus on finding a resolution.
+John Byrne reiterated the need to separate the funds and suggested that the current water rates are
+sufficient to accommodate the repayment of the debt over a 10 to 12 year period. Mayor Bourke
+acknowledged the complexity of documenting the past deal but stressed the importance of settling the
+issue now to prevent it from lingering. The focus shifted to approving the resolution with an edit to :
+allow for the repayment of the debt sooner than 12 years if financial conditions allow in the future. |
+Alta Town Council Meeting
+December 13, 2023 ; 10 |
+|
+
+MOTION: John Byrne motioned to approve Resolution 2023-R-23 including the $10,000 added |
+to 51-39-200 and 51-40-740. Elise Morgan seconded. !
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Morgan ~ yes, Councilmember Anctil —
+yes, Councilmember Byrne — yes, Councilmember Davis — yes, Resolution 2023-R-24 was
+unanimously adopted to approved the repayment of the water fund debt to the general fund. |
+. t
+12. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2023-R-25 REGARDING THE ALTA |
+JUSTICE COURT RECERTIFICATION
+02:13:10 |
+Molly Austin explained that Alta Justice Court needs to recertify every four years to ensure compliance
+with rules, policies, and procedures. The council is required to pass a resolution expressing their
+continued support for the Justice Court, as the town handles the financial aspects, and financial
+~ support from the courts is dependent on the town's endorsement. a |
+MOTION: Elise Morgan motioned to approve Resolution 2023-R-25 to recertify the Alta Justice |
+Court. Sheridan Davis seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Byrne — yes, Councilmember :
+Davis — yes, Mayor Bourke — yes, Councilmember Morgan — yes, Resolution 2023-R-25 was
+unanimously adopted. |
+13. DISCUSSION REGARDING THE JANUARY TOWN COUNCIL RETREAT |
+02:14:45 | .
+Chris Cawley provided an update on the retreat scheduled for January 11. He expressed gratitude to
+the council members for their open-mindedness about the extended meeting format. The retreat aims |
+to facilitate a strategic planning conversation, bringing together the new town council and staff to
+discuss perceptions of strengths and weaknesses, identify priorities, and draft short-term strategies.
+Cawley mentioned they hired Pathway Associates and are working with Julie Delong. The timeline :
+includes interviews, a survey, and the distribution of a packet before the council meeting. Cawley
+outlined the detailed agenda for the retreat, which includes a SWOT discussion, a conversation about
+the future vision of success, and sessions focusing on present-day priorities and core strategies.
+John Byrne emphasized the importance of clarifying policy and priorities, suggesting that the staff
+~ needs a clear understanding of the Council's vision. Cawley agreed and mentioned the need to focus |
+on long-term resilience, especially given the significant changes in staff roles. They discussed the |
+potential inclusion of special guests, and Cawley noted that he considered inviting the Planning
+Commission but was leaning towards keeping it as a council and staff-focused event. Elise Morgan
+suggests that joint sessions with the Planning Commission could be considered in the future. The
+; discussion touched on logistical details such as the public nature of the meeting, the possibility of ,
+hybrid participation, and the location at Our Lady of the Snows. The council members expressed !
+agreement with the proposed plans for the retreat.
+Alta Town Council Meeting a
+December 13, 2023 11
+
+14. NEW BUSINESS
+02:26:40
+Sheridan Davis expressed congratulations to Elise and Dan on their election victories and took the
+opportunity to thank the Alta community for the opportunity to serve for the past six years. She
+expressed that it has been a true honor and one of the greatest experiences of her life. Davis wished
+the new council great success and thanked the community for the gift of serving them.
+15. MOTION TO ADJOURN
+02:27:10
+MOTION: John Byrne motioned to adjourn, and Elise Morgan seconded.
+VOTE: Allin favor. The meeting was adjourned unanimously.
+Passed this 10*" day of January, 2024
+7 fn Town a :
+Alta Town Council Meeting
+December 13, 2023 12

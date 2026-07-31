@@ -1,0 +1,48 @@
+{
+  "contributions": [
+    {"date": "Sept 1", "name": "Dawn House", "amount": "100", "in_kind": false},
+    {"date": "Sept 1", "name": "Paul Rolly", "amount": "100", "in_kind": false},
+    {"date": "Sept 1", "name": "Anne House", "amount": "100", "in_kind": false},
+    {"date": "Sept 1", "name": "Tali Bruce", "amount": "100", "in_kind": false},
+    {"date": "Oct 16", "name": "Women's Democratic Club", "amount": "50", "in_kind": false},
+    {"date": "Oct 5", "name": "Petra Farmer", "amount": "50", "in_kind": false},
+    {"date": "Sept 30", "name": "Brian Kelly", "amount": "75", "in_kind": false},
+    {"date": "Sept 24", "name": "Marilyn Smith", "amount": "100", "in_kind": false},
+    {"date": "Sept 14", "name": "Jenna Rychert", "amount": "200", "in_kind": false},
+    {"date": "Sept 6", "name": "Women's Democratic Club", "amount": "100", "in_kind": false},
+    {"date": "August 28", "name": "Stephanie Pitcher", "amount": "100", "in_kind": false},
+    {"date": "August 28", "name": "Rosa Rivera", "amount": "200", "in_kind": false},
+    {"date": "August 27", "name": "Dawn House", "amount": "75", "in_kind": false},
+    {"date": "August 26", "name": "Sheryl Ginsberg", "amount": "35", "in_kind": false},
+    {"date": "Sept 1", "name": "Matthew Tracy", "amount": "2,000", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Holladay City (Filing Fee)", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "Sept 23", "recipient": "Office Depot (supplies)", "purpose": "supplies", "amount": "21.69", "in_kind": false},
+    {"date": "Sept 21", "recipient": "JM ALEXANDER (BROCHURES)", "purpose": "BROCHURES", "amount": "757.88", "in_kind": false},
+    {"date": "Sept 25", "recipient": "FUND HERO", "purpose": null, "amount": "8.99", "in_kind": false},
+    {"date": "Sept 22", "recipient": "JM ALEXANDER (yard signs)", "purpose": "yard signs", "amount": "750.00", "in_kind": false},
+    {"date": "Sept 12", "recipient": "UPS (Printing)", "purpose": "Printing", "amount": "12.15", "in_kind": false},
+    {"date": "Sept 2", "recipient": "Office Depot (supplies)", "purpose": "supplies", "amount": "101.51", "in_kind": false},
+    {"date": "Aug 25", "recipient": "Campaign Verify", "purpose": null, "amount": "95.00", "in_kind": false},
+    {"date": "Aug 25", "recipient": "FUND HERO", "purpose": null, "amount": "8.99", "in_kind": false},
+    {"date": "Oct 5", "recipient": "Michael McDonald (web page)", "purpose": "web page", "amount": "300.00", "in_kind": false},
+    {"date": "Sept 20", "recipient": "Michael McDonald (web page)", "purpose": "web page", "amount": "600.00", "in_kind": false},
+    {"date": "Oct 23", "recipient": "Michael McDonald (web page)", "purpose": "web page", "amount": "600.00", "in_kind": false},
+    {"date": "Oct 23", "recipient": "FUND HERO", "purpose": null, "amount": "8.99", "in_kind": false}
+  ],
+  "total_contributions": "3,345",
+  "total_expenditures": "3,315.20",
+  "contributions_50_or_less": "35",
+  "beginning_balance": null,
+  "ending_balance": "64.80",
+  "_meta": {
+    "index_path": "raw/2023_city_tracy.pdf",
+    "candidate": "Matthew Collin Tracy",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_tracy.pdf",
+    "pages": 3
+  }
+}

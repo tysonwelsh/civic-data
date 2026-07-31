@@ -1,0 +1,64 @@
+{
+ "date": "2025-01-09",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-01-06/2025-01-09_planning-commission-meeting.md",
+ "present": [
+  "Sara Doutre",
+  "Jordy Guth",
+  "Ken Heare",
+  "Jessica Lucero",
+  "Eldon Peterson",
+  "Sarah McNamara",
+  "David Lewis"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to conditionally approve a Design Review & Subdivision Permit for PC 24-045 Latitude 41 with the amended conditions of approval and findings for approval as listed below. Commissioner McNamara seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "7:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Jessica Lucero",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Sara Doutre",
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Ken Heare",
+    "David Lewis",
+    "Eldon Peterson",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "7-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the December 12, 2024 meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Jordy Guth",
+   "seconder": "David Lewis",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 2
+  }
+ ]
+}

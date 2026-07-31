@@ -1,0 +1,66 @@
+========================================================================
+SOUTH JORDAN PLANNING COMMISSION — vote validation
+========================================================================
+meetings parsed            : 127
+meetings with >=1 motion   : 125
+motions                    : 740
+member-vote + placeholder rows (= all_votes.csv data rows): 808
+body                       : PlanningCommission (all rows)
+
+motion_type distribution:
+   Procedural/Administrative    396
+   Land-Use/Zoning              267
+   Other                        46
+   Ordinance                    28
+   Resolution                   3
+action_kind distribution (recommendation vs final-action):
+   procedural                   396
+   final_action                 207
+   recommendation               95
+   other                        42
+
+vote classification: unanimous=495  contested-named-dissent=12  contested-tally-only(dissent unnamed)=2
+
+parse quality:
+   motions with no mover captured : 30
+   motions with no numeric tally  : 231  (verbatim 'unanimous in favor')
+
+per-year observed commissioners (name -> vote rows):
+   2020: Michael Peirce=23, Sean Morrissey=17, Trevor Darby=8, Steven Catmull=7
+   2021: Sean Morrissey=22, Michele Hollist=13, Steven Catmull=9
+   2022: Michele Hollist=19, Laurel Bevans=17, Aaron Starks=12, Nathan Gedge=9, Steven Catmull=7, Trevor Darby=1
+   2023: Aaron Starks=33, Nathan Gedge=10, Trevor Darby=9, Michele Hollist=5, Laurel Bevans=1
+   2024: Ray Wimmer=16, Steven Catmull=9, Laurel Bevans=8, Nathan Gedge=5, Michele Hollist=3, Sam Bishop=1
+   2025: Sam Bishop=22, Michele Hollist=13, Laurel Bevans=11, Steven Catmull=8, Lori Harding=7, Nathan Gedge=5
+   2026: Sam Bishop=7, Nathan Gedge=6, Bryan Farnsworth=6, Steven Catmull=4, Lori Harding=4, Michele Hollist=2
+
+[ok] off-roster names: 0
+[ok] vote-vocabulary: all in {Aye,Nay,Abstain,Recuse,Absent}
+[WARN] named-nay vs printed-tally mismatches (1):
+       2022-10-11 m4: tally 4-0 but 2 named nay: ['Laurel Bevans', 'Michele Hollist']
+[ok] all tallies within 1..7 voters and <=7 seats
+
+contested motions (any Nay/Abstain/Recuse or dissent tally): 21
+   2020-11-10 m5: 4-1 Commissioner Catmull Voted No  {'nay': ['Steven Catmull']}
+   2021-01-26 m3: 4-1 unanimous in favor  (dissenters unnamed)
+   2021-11-09 m12: 4-1, majority in favor; Chair Hollist voted no  {'nay': ['Michele Hollist']}
+   2022-01-11 m5: 3-1 in favor, Commissioner Darby was a no vote  {'nay': ['Trevor Darby']}
+   2022-01-25 m6: 4-1, unanimous in favor  {'nay': ['Michele Hollist']}
+   2022-03-22 m11: 3-2, majority of negative votes  (dissenters unnamed)
+   2022-10-11 m3: 3-3, with no votes made by Commissioner Bevans, Chair Hollist, a  {'nay': ['Laurel Bevans', 'Michele Hollist', 'Steven Catmull']}
+   2022-10-11 m4: 4-0, no votes made by Commissioner Bevans and Chair Hollist with  {'nay': ['Laurel Bevans', 'Michele Hollist']}
+   2022-11-08 m3: 4-1, with Chair Hollist voting no  {'nay': ['Michele Hollist']}
+   2023-05-09 m5: 3-2, majority in favor with Chair Hollist and Commissioner Bevan  {'nay': ['Michele Hollist', 'Laurel Bevans']}
+   2023-07-11 m2: unanimous in favor; Commissioner Gedge abstained from the vote  {'abstain': ['Nathan Gedge']}
+   2023-07-11 m3: 3-0, unanimous in favor; Commissioner Gedge abstained from the v  {'abstain': ['Nathan Gedge']}
+   2023-12-12 m2: unanimous in favor with Chair Hollist abstaining from the vote  {'abstain': ['Michele Hollist']}
+   2024-03-26 m2: 3-0, unanimous in favor with Commissioner Gedge abstaining from   {'abstain': ['Nathan Gedge']}
+   2024-10-22 m1: 4-1 with Commissioner Bevans voting “no,” noting that the remove  {'nay': ['Laurel Bevans']}
+   2024-10-22 m2: 4-0, unanimous in favor  {'abstain': ['Laurel Bevans']}
+   2025-02-25 m3: 3-1 Commissioner Bevans voted no and Commissioner Bishop was abs  {'nay': ['Laurel Bevans']}
+   2025-03-25 m5: 3-3 Commissioner Hollist, Commissioner Bishop, Commissioner Catm  {'nay': ['Michele Hollist', 'Sam Bishop', 'Steven Catmull']}
+   2025-05-27 m8: 6-1 with Commissioner Bevans voting No  {'nay': ['Laurel Bevans']}
+   2026-01-27 m6: 3-2 Vote  {'nay': ['Michele Hollist', 'Steven Catmull']}
+   2026-05-26 m2: 3-0 Commissioner Gedge and Commissioner Farnworth abstained from  {'abstain': ['Nathan Gedge', 'Bryan Farnsworth']}
+
+RESULT: WARN

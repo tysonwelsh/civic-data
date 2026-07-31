@@ -1,0 +1,25 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+south_salt_lake,Corey Thomas,2021,Council,2,6466.0,4850.78,1,1,summary,
+south_salt_lake,Sam Garfield,2021,Council,2,1740.0,933.87,1,1,summary,
+south_salt_lake,Sharla Bynum,2021,Council,3,3597.39,3597.39,1,1,summary,
+south_salt_lake,Aileen Hampton,2021,Council,3,1189.0,1004.15,1,1,summary,
+south_salt_lake,Olivia Spencer,2021,Council,At-Large,3831.0,2564.96,1,1,summary,
+south_salt_lake,Clarissa Williams,2021,Council,At-Large,1075.0,1070.47,1,1,summary,
+south_salt_lake,Cherie Wood,2021,Mayor,,16495.0,10296.64,1,1,summary,
+south_salt_lake,Shane Siwik,2021,Mayor,,8530.5,8469.37,1,1,summary,
+south_salt_lake,Jake Christensen,2021,Mayor,,7209.02,7113.13,1,1,summary,
+south_salt_lake,LeAnne Huff,2023,Council,1,2568.87,1411.55,3,3,override,"OVERRIDE: incremental per-period filer: money is in the pre-general Final adid325 (Col-A $2,568.87 raised / $558.00 spent); interim adid332 $0; year-end adid338 $0 raised / $853.55 spent. Cycle = sum of Column-A 'Total this Period'; generic rule wrongly took the $0 latest year-end 'summary'."
+south_salt_lake,Jeanette Potter,2023,Council,1,0.0,0.0,2,1,single,
+south_salt_lake,Nicholas Mitchell,2023,Council,4,4940.0,4696.55,3,3,override,"OVERRIDE: final report adid340 printed Column B Year-to-Date = $4,940 raised / $4,696.55 spent (authoritative filer cumulative). Per-period Column-A re-lists a few carryover donors (Garcia/Evans/Romero) across reports so Sigma Column-A overcounts; YTD-not-sum discipline."
+south_salt_lake,Portia Mila,2023,Council,4,5022.35,2622.17,3,3,override,"OVERRIDE: incremental per-period filer: Sigma Column-A 'Total this Period' across adid326 ($2,997.35/$1,122.17) + adid333 ($2,025.00/$1,500.00) + adid339 ($0/$0). Generic rule wrongly took the $0 latest year-end 'summary' adid339."
+south_salt_lake,Paul Sanchez,2023,Council,5,1585.0,1504.42,3,1,summary,
+south_salt_lake,Natalie Pinkney,2023,Council,At-Large,29665.9,28376.63,3,3,override,"OVERRIDE: final report adid336 printed Column B Year-to-Date = $29,665.90 raised / $28,376.63 spent (= exact sum of the three reports' Column-A). Generic rule took only adid336's own per-period Column-A ($3,075.00/$4,531.55)."
+south_salt_lake,Conrad Campos,2023,Council,At-Large,6022.98,6022.98,3,3,override,"OVERRIDE: incremental per-period filer: Sigma Column-A across adid322 ($150.00/$2,423.22) + adid330 ($5,872.98/$3,599.76) + adid337 ($0/$0); the $0 ending balance corroborates raised == spent. Generic rule dropped adid322's Column-A because it is 'summary'-typed."
+south_salt_lake,Corey Thomas,2025,Council,2,4306.0,1104.97,3,3,sum-interim,
+south_salt_lake,Sharla Bynum,2025,Council,3,4544.12,4544.12,3,3,override,"OVERRIDE: incremental per-period filer: Sigma Column-A across adid301 ($3,217.13) + adid309 ($1,274.66) + adid317 ($52.33). Generic rule dropped the $52.33 year-end 'summary' adid317."
+south_salt_lake,Aileen Hampton,2025,Council,3,982.72,982.72,3,3,override,OVERRIDE: incremental per-period filer: Sigma Column-A across adid302 ($225.00/$36.36) + adid310 ($757.72/$889.04) + adid318 ($0/$57.32). Generic rule dropped adid318's $57.32 year-end 'summary' expenditure.
+south_salt_lake,Clarissa Williams,2025,Council,At-Large,150.0,79.51,3,3,sum-interim,
+south_salt_lake,Conrad Campos,2025,Council,At-Large-2yr,6750.0,7240.71,3,3,override,"OVERRIDE: real activity is the pre-general adid304 ($6,750.00 raised / $7,175.78 spent); adid311 cover totals are STALE CARRYOVER (a duplicate of adid304's covers) contradicting its own itemized pages (this-period $0 raised / $64.93 spent), so summing covers double-counts; adid320 is $0. Cycle = $6,750 raised / $7,240.71 spent; the -$490.71 ending balance on adid320 confirms (6750-7240.71)."
+south_salt_lake,Ray deWolfe,2025,Council,At-Large-2yr,2283.78,2283.78,3,1,summary,
+south_salt_lake,Cherie Wood,2025,Mayor,,35915.11,34050.26,3,3,override,"OVERRIDE: final report adid314 printed Column B Year-to-Date = $35,915.11 raised / $34,050.26 spent (= exact sum of the three reports' Column-A). Generic rule (MIXED flag) dropped adid314's own $6,000/$11,523.98 per-period Column-A."
+south_salt_lake,Brittany Karzen,2025,Mayor,,14969.48,14969.48,3,3,override,"OVERRIDE: final report adid315 printed Column B Year-to-Date = $14,969.48 raised / $14,969.48 spent (= exact sum of the three reports' Column-A). Generic rule (MIXED flag) dropped adid315's $2,800/$2,800 per-period Column-A."

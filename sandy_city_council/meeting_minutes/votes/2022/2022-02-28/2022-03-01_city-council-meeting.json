@@ -1,0 +1,71 @@
+{
+ "date": "2022-03-01",
+ "year": 2022,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2022/2022-02-28/2022-03-01_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Alison Stroud, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Zach Robinson",
+   "seconder": "Alison Stroud",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Brooke D'Sousa to direct staff to maintain 4 council districts as we move forward with the redistricting process",
+   "motion_type": "Other",
+   "result": "5-2 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Brooke D'Sousa",
+   "aye": [
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [
+    "Alison Stroud",
+    "Zach Robinson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Alison Stroud to direct staff to bring back the current district map and create 3 additional maps with redistricting options that are within the deviation discussed this evening",
+   "motion_type": "Other",
+   "result": "6-1 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Alison Stroud",
+   "aye": [
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Scott Earl",
+    "Alison Stroud"
+   ],
+   "nay": [
+    "Zach Robinson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "date": "2021-03-04",
+ "year": 2021,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2021/2021-03-04/2021-03-04_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the staff meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the minutes of the White City Metro Township Council meeting held on February 4, 2021",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Scott Little",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to table the appointment of Christopher Spagnuolo and Christy Seiger-Webster to the White City Planning Commission to allow more time to notify the public of the openings. The motion",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve the Resolution",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "3-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  }
+ ]
+}

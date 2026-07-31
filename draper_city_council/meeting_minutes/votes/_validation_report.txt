@@ -1,0 +1,167 @@
+Draper City Council — vote extraction validation report
+========================================================================
+Meeting JSONs             : 155  (with >=1 motion: 152)
+Motions extracted         : 883
+Body counts               : {'Council': 883}
+
+Motion-type distribution:
+   Procedural/Administrative    326
+   Ordinance                    165
+   Resolution                   127
+   Land-Use/Zoning              91
+   Other                        81
+   Budget                       42
+   Contract/Purchase            25
+   Appointment                  21
+   Ceremonial                   3
+   Public Hearing Action        2
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED VOTERS (the 5 at-large members; Mayor only on tie-breaks):
+------------------------------------------------------------------------
+
+2020:
+   Councilmember T. Lowery      145
+   Councilmember Vawdrey        145
+   Councilmember Roberts        143
+   Councilmember Green          137
+   Councilmember F. Lowry       136
+
+2021:
+   Councilmember Roberts        130
+   Councilmember Vawdrey        130
+   Councilmember Green          129
+   Councilmember F. Lowry       129
+   Councilmember T. Lowery      126
+
+2022:
+   Councilmember T. Lowery      117
+   Councilmember F. Lowry       117
+   Councilmember Green          116
+   Councilmember Vawdrey        114
+   Councilmember Roberts        111
+
+2023:
+   Councilmember Green          75
+   Councilmember F. Lowry       75
+   Councilmember Vawdrey        75
+   Councilmember Roberts        74
+   Councilmember T. Lowery      73
+
+2024:
+   Councilmember Green          105
+   Councilmember Johnson        105
+   Councilmember T. Lowery      105
+   Councilmember F. Lowry       105
+   Councilmember Roberts        95
+   Councilmember Vawdrey        8
+   Mayor Troy K. Walker         1   <-- MAYOR (tie-break only)
+
+2025:
+   Councilmember Green          121
+   Councilmember Johnson        121
+   Councilmember T. Lowery      121
+   Councilmember F. Lowry       121
+   Councilmember Vawdrey        121
+
+2026:
+   Councilmember Johnson        60
+   Councilmember T. Lowery      60
+   Councilmember F. Lowry       60
+   Councilmember Green          60
+   Councilmember Dahlin         58
+
+------------------------------------------------------------------------
+MAYOR-VOTE FLAGS (genuine tie-breaks): 1
+Mayor Walker is non-voting except to break a tie (roll denominator = 5).
+------------------------------------------------------------------------
+   2024-10-15 m3 3-2 Pass: Mayor voted Aye :: Councilmember Roberts moved to approve Ordinance #1625
+
+------------------------------------------------------------------------
+>5-COUNCIL-VOTER FLAGS: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+TALLY-VS-NAMED MISMATCHES: 4
+Named counts vs the minutes' printed tally — source typo or parse miss; not fixed.
+------------------------------------------------------------------------
+   2020-01-14 m7: named aye=4 nay=0 vs printed 4-1 :: 4-1 Pass :: Councilmember Vawdrey moved to second the motion. 9.9 A
+   2020-01-14 m8: named aye=3 nay=0 vs printed 3-2 :: 3-2 Pass :: Councilmember Vawdrey moved to approve Ordinance #1416,
+   2020-10-06 m2: named aye=3 nay=0 vs printed 3-2 :: 3-2 Pass :: Councilmember Green moved to deny Ordinance #1457, the 
+   2021-11-16 m11: named aye=4 nay=0 vs printed 4-1 :: 4-1 Pass :: Councilmember T. Lowery moved to approve Resolution #21
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (council voters != 5): 45
+Genuine absence/vacancy, or a parse miss — each reviewed.
+------------------------------------------------------------------------
+   2020-01-14 m7: 4 council voters (expected 5) :: 4-1 Pass :: Councilmember Vawdrey moved to second the mot
+   2020-01-14 m8: 3 council voters (expected 5) :: 3-2 Pass :: Councilmember Vawdrey moved to approve Ordina
+   2020-04-07 m5: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Marsha Vawdrey moved to approve
+   2020-04-21 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Marsha Vawdrey moved to approve
+   2020-04-21 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Tasha Lowery moved to approve O
+   2020-04-21 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve Ordina
+   2020-04-21 m4: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Tasha Lowery moved to continue 
+   2020-04-21 m5: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Fred Lowry moved to approve Ord
+   2020-04-21 m6: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve Ordina
+   2020-04-21 m7: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Fred Lowry moved to adjourn the
+   2020-06-02 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Tasha Lowery moved to approve t
+   2020-06-02 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Mike Green moved to continue Re
+   2020-06-02 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Marsha Vawdrey moved to approve
+   2020-06-02 m4: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Mike Green moved to approve the
+   2020-06-02 m5: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Mike Green moved to continue th
+   2020-06-02 m6: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Marsha Vawdrey moved to recess 
+   2020-06-02 m7: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Mike Green moved to adjourn the
+   2020-06-16 m8: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Marsha Vawdrey moved to approve
+   2020-06-16 m12: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Tasha Lowery moved to recess to
+   2020-06-16 m13: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Mike Green moved to adjourn the
+   2020-10-06 m2: 3 council voters (expected 5) :: 3-2 Pass :: Councilmember Green moved to deny Ordinance #
+   2020-10-06 m4: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Green moved to adjourn the meet
+   2021-04-20 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to adjourn the m
+   2021-08-03 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve the Co
+   2021-08-03 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve Ordin
+   2021-08-03 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve Resolu
+   2021-08-03 m4: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Green moved to adjourn the meet
+   2021-11-16 m11: 4 council voters (expected 5) :: 4-1 Pass :: Councilmember T. Lowery moved to approve Reso
+   2022-01-18 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember T. Lowery moved to approve the 
+   2022-01-18 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve Ordin
+   2022-01-18 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve Ordin
+   2022-02-15 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to recess to a cl
+   2022-03-01 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve the Co
+   2022-03-01 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve Ordin
+   2022-03-01 m3: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve the L
+   2022-03-01 m4: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember T. Lowery moved to approve Ordi
+   2022-03-01 m5: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve Ordina
+   2022-03-01 m6: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Green moved to adjourn the meet
+   2023-08-15 m1: 4 council voters (expected 5) :: 3-0 Pass :: Councilmember T. Lowery moved to recess to a 
+   2023-11-07 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember Vawdrey moved to approve Consen
+   2023-11-07 m2: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember F. Lowry moved to approve Conse
+   2024-11-19 m1: 4 council voters (expected 5) :: 4-0 Pass :: Councilmember T. Lowery moved to approve the 
+   2024-11-19 m3: 4 council voters (expected 5) :: 3-1 Pass :: Councilmember Johnson moved to appoint Marsha
+   2026-01-20 m1: 4 council voters (expected 5) :: 3-0 Pass :: Councilmember T. Lowery moved to recess to a 
+   2026-05-19 m1: 4 council voters (expected 5) :: 3-0 Pass :: Councilmember Johnson moved to recess to a cl
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay/Abstain/Recuse) — the signal: 15
+------------------------------------------------------------------------
+   2020-06-16 m3 2-3 Fail | AYE=['Councilmember T. Lowery', 'Councilmember Roberts'] NAY=['Councilmember F. Lowry', 'Councilmember Green', 'Councilmember Vawdrey'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Cal Roberts moved to approve Christine McClory as a memb
+   2020-06-16 m4 2-3 Fail | AYE=['Councilmember T. Lowery', 'Councilmember F. Lowry'] NAY=['Councilmember Green', 'Councilmember Roberts', 'Councilmember Vawdrey'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Tasha Lowery moved to appoint Jeff Jones to the Traverse
+   2020-06-16 m5 4-1 Pass | AYE=['Councilmember Green', 'Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Vawdrey'] NAY=['Councilmember Roberts'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Mike Green moved to appoint Daryl Acumen to the Traverse
+   2020-09-15 m1 4-1 Pass | AYE=['Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Roberts', 'Councilmember Vawdrey'] NAY=['Councilmember Green'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember T. Lowery moved to approve the Consent Items
+   2020-10-06 m1 4-1 Pass | AYE=['Councilmember Green', 'Councilmember F. Lowry', 'Councilmember Roberts', 'Councilmember Vawdrey'] NAY=['Councilmember T. Lowery'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Vawdrey moved to approve the Consent Items
+   2020-10-06 m3 4-1 Pass | AYE=['Councilmember Green', 'Councilmember T. Lowery', 'Councilmember Roberts', 'Councilmember Vawdrey'] NAY=['Councilmember F. Lowry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Vawdrey moved to approve Ordinance #1456, City Initiated
+   2020-12-15 m7 4-1 Pass | AYE=['Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Roberts', 'Councilmember Vawdrey'] NAY=['Councilmember Green'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Vawdrey moved to approve Resolution #20-58, appointing C
+   2022-12-06 m4 4-1 Pass | AYE=['Councilmember Green', 'Councilmember T. Lowery', 'Councilmember Roberts', 'Councilmember Vawdrey'] NAY=['Councilmember F. Lowry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Green moved to deny Ordinance #1562, stating he did not 
+   2022-12-06 m6 2-3 Fail | AYE=['Councilmember F. Lowry', 'Councilmember Roberts'] NAY=['Councilmember Green', 'Councilmember T. Lowery', 'Councilmember Vawdrey'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Roberts moved to approve Item FY23-13 of Resolution #22-
+   2023-05-16 m3 3-1 Pass | AYE=['Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Roberts'] NAY=['Councilmember Green'] ABSTAIN=[] RECUSE=[] ABSENT=['Councilmember Vawdrey'] :: Councilmember T. Lowery moved to approve Resolution #23-19
+   2024-02-06 m2 4-1 Pass | AYE=['Councilmember Johnson', 'Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Roberts'] NAY=['Councilmember Green'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember F. Lowry moved to continue the Local Consent for a Singl
+   2024-03-19 m5 4-1 Pass | AYE=['Councilmember Johnson', 'Councilmember T. Lowery', 'Councilmember F. Lowry', 'Councilmember Roberts'] NAY=['Councilmember Green'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember F. Lowry moved to continue the issue to the next Council
+   2024-04-09 m4 4-1 Pass | AYE=['Councilmember Green', 'Councilmember Johnson', 'Councilmember F. Lowry', 'Councilmember Roberts'] NAY=['Councilmember T. Lowery'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember F. Lowry moved to approve the Local Consent for an Off-P
+   2024-10-15 m3 3-2 Pass | AYE=['Councilmember Green', 'Councilmember Roberts', 'Mayor Troy K. Walker'] NAY=['Councilmember Johnson', 'Councilmember T. Lowery'] ABSTAIN=[] RECUSE=['Councilmember F. Lowry'] ABSENT=[] :: Councilmember Roberts moved to approve Ordinance #1625
+   2024-11-19 m3 3-1 Pass | AYE=['Councilmember Green', 'Councilmember Johnson', 'Councilmember T. Lowery'] NAY=['Councilmember F. Lowry'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilmember Johnson moved to appoint Marsha Vawdrey to fill the vaca
+

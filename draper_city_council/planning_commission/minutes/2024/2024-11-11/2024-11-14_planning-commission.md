@@ -1,0 +1,270 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1814&doc_id=808ff921-eee7-11ef-a9e2-005056a89546
+> Meeting date: 2024-11-14
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, NOVEMBER 14, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Lisa Fowler, Vice-Chair
+               Commission Member Mary Squire
+               Commission Member Susan Nixon
+               Commission Member Kendra Shirey
+               Alternate Commission Member Laura Fidler
+
+EXCUSED:             Commission Member Gary Ogden
+                     Alternate Commission Member Christine Green
+                     Alternate Commission Member Shivam Shah
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Spencer DuShane, City Attorney
+                     Brien Maxfield, Senior Engineering Manager
+                     Nick Whittaker, City Planner
+                     Amie Salazar, Office Manager
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order at 6:30 PM and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+      A.      Approve Planning Commission Meeting Minutes for September 12, 2024.
+              (Administrative Action)
+
+Motion: Commissioner Squire moved to APPROVE the minutes of September 12, 2024.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner           Yes        No        Abstained      Not Participating    Absent
+    Fowler               X
+    Squire               X
+    Ogden                                                                           X
+    Nixon                  X
+    Shirey                 X
+    Fidler, Alternate      X
+    Shah, Alternate                                                                     X
+    Green, Alternate                                                                    X
+Draper City Planning Commission Meeting
+November 14, 2024
+Page 2
+
+      B.     Approve Planning Commission Meeting Minutes for September 26, 2024.
+             (Administrative Action)
+
+Motion: Commissioner Squire moved to APPROVE the minutes of September 26, 2024.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner           Yes        No     Abstained    Not Participating   Absent
+    Fowler               X
+    Squire               X
+    Ogden                                                                        X
+    Nixon                 X
+    Shirey                X
+    Fidler, Alternate     X
+    Shah, Alternate                                                              X
+    Green, Alternate                                                             X
+
+      C.     Approve Planning Commission Meeting Minutes for October 10, 2024.
+             (Administrative Action)
+
+Motion: Commissioner Squire moved to APPROVE the minutes of October 10, 2024.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner           Yes        No     Abstained    Not Participating   Absent
+    Fowler               X
+    Squire               X
+    Ogden                                                                        X
+    Nixon                 X
+    Shirey                X
+    Fidler, Alternate     X
+    Shah, Alternate                                                              X
+    Green, Alternate                                                             X
+
+      D.     Approve Planning Commission Meeting Minutes for October 24, 2024.
+             (Administrative Action)
+
+Motion: Commissioner Squire moved to APPROVE the minutes of October 24, 2024.
+
+Second: Commissioner Nixon seconded the motion.
+Draper City Planning Commission Meeting
+November 14, 2024
+Page 3
+
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner             Yes      No           Abstained        Not Participating      Absent
+    Fowler                 X
+    Squire                 X
+    Ogden                                                                                  X
+    Nixon                   X
+    Shirey                  X
+    Fidler, Alternate       X
+    Shah, Alternate                                                                         X
+    Green, Alternate                                                                        X
+
+       E.      Public Meeting: Draper Medical Condominium Plat Amendment Extension
+               of Approval.
+               (Administrative Action)
+               On the Request of Curtis J. Brown, Representing Anderson and Karrenberg PC and
+               12450 South Street Holdings, LC, an Extension of the October 26, 2023, Planning
+               Commission approval of an Amended Subdivision Request to Subdivide an
+               existing office building into commercial condominiums on approximately 0.81-
+               acre property located at approximately 114 East 12450 South. Known as
+               Application      23-0238,      Staff   Contact:        Todd      A.     Draper,
+               todd.draper@draperutah.gov, (801) 576-6335.
+
+Planning Manager, Todd Draper, presented the Staff Report and stated that the request is to extend
+the request for up to six months. The applicants were unable to record the plat within the one-year
+time limit. An extension was sought to allow that to continue. The subject property was identified
+on a map displayed. The request is to turn the property into condominium units. No other changes
+were proposed.
+
+Motion: Commissioner Fowler moved to APPROVE the request for an Extension of
+approval for the Draper Medical Condominium Amended Subdivision Plat, as requested by
+Curtis J. Brown, representing Anderson and Karrenberg, PC and 12450 South Street
+Holdings, LC, for Application 23-0238, based on the following:
+
+Finding:
+
+       1.      Good cause has been shown for the extension of the Planning Commission
+               Approval.
+
+Second: Commissioner Shirey seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+November 14, 2024
+Page 4
+
+ Commissioner             Yes      No           Abstained        Not Participating      Absent
+    Fowler                 X
+    Squire                 X
+    Ogden                                                                                  X
+    Nixon                   X
+    Shirey                  X
+    Fidler, Alternate       X
+    Shah, Alternate                                                                         X
+    Green, Alternate                                                                        X
+
+       F.      Public Hearing: The Break Zoning Map Amendment Request
+               (Legislative Item)
+               On the Request of Gary Knapp, Representing Tom R. Rivetti a Request for a
+               Zoning Map Amendment from the RA1 (Residential Agricultural, 40,000-foot
+               minimum lot size) to the CC (Community Commercial) Zone. The property is
+               located at approximately 12240 South 700 East and is approximately 0.52 acres in
+               size. Known as Application 2024-0216-MA, Staff Contact: Nick Whittaker, 801-
+               576-6522, nick.whittakerr@draperutah.gov.
+
+City Planner, Nick Whittaker, presented the Staff Report and identified the location of the subject
+property on a map displayed. The land use in the area is Neighborhood Commercial and currently
+that property is being used as residential. The request is to rezone to CC, which is located south
+of the property. The current zoning is Residential Agricultural with 40,000-square-foot minimum
+lot sizes. The proposed zoning has no minimum lot size. Much of the surrounding property is
+commercial in nature.
+
+Commissioner Fowler asked if the desired use had been discussed with the applicant so that it
+makes sense to change the zoning. Mr. Whittaker indicated that he had. The intent is to open a
+restaurant on the property. Mr. Draper noted that the current map does not match with the CC
+Zone and is considered incompatible. He noted that there is already CC zoning on other properties
+to the south that are under the same land use designation. Commissioner Fowler commented that
+a restaurant use does not seem to fit. Mr. Draper referred to the permitted uses in the CC Zone,
+which include banks, bars, restaurants, and bed and breakfasts.
+
+The applicant, Gary Knapp, was present with Michael Culligan. In response to a question raised,
+Mr. Knapp stated that The Break Restaurant and Bar has multiple locations. The first location was
+in Day Break. There are also locations in Murray and Downtown Salt Lake City. He reported that
+the existing residence contains a business use currently.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Nixon asked if the intended use is a restaurant and bar if it will meet the separation
+distance. Mr. Whittaker stated that all of the proper permitting would be needed for a bar with the
+State and the City. Community Development Director, Jennifer Jastremsky stated that the
+Draper City Planning Commission Meeting
+November 14, 2024
+Page 5
+
+applicants have indicated that they will have a restaurant license. She noted that the City only has
+one bar license remaining and it must be within a hotel. A total of eight bar licenses are allowed
+in Draper City. There is no limit on the number of restaurant licenses that can be issued. She
+stated that the separation requirement is 200 feet, which would likely require the entrance and
+building to be on the south side of the property. The distance is measured from the property line
+of the residence to the front door of the establishment.
+
+Motion: Commissioner Fowler moved to forward a POSITIVE recommendation to the City
+Council for the zoning map amendment as requested by Gary Knapp, Application 2024-021-
+MA, based on the following:
+
+Findings:
+
+       1.      The proposed zoning map amendment is consistent with the goals, objectives,
+               and policies of the City’s General Plan.
+
+       2.      The proposed zoning map amendment is harmonious with the overall
+               character of existing development in the vicinity of the subject property.
+
+       3.      The proposed zoning map amendment will not adversely affect adjacent
+               property.
+
+       4.      There are adequate facilities and services intended to serve the subject
+               property, including, but not limited to, roadways, parks and recreation
+               facilities, police and fire protection, schools, stormwater drainage systems,
+               water supplies, and wastewater and refuse collection.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner              Yes     No            Abstained       Not Participating      Absent
+    Fowler                  X
+    Squire                  X
+    Ogden                                                                                   X
+    Nixon                    X
+    Shirey                   X
+    Fidler, Alternate        X
+    Shah, Alternate                                                                          X
+    Green, Alternate                                                                         X
+Draper City Planning Commission Meeting
+November 14, 2024
+Page 6
+
+      G.     Action Item: 2025 Draper City Planning Commission Meeting Schedule
+             Recommendation to the Draper City Council.
+             (Administrative Action)
+
+Motion: Commissioner Squire moved to forward a POSITIVE recommendation to the City
+Council for the 2025 Planning Commission Meeting Schedule, as presented.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on motion: 5-to-0 in favor.
+
+ Commissioner           Yes        No     Abstained   Not Participating   Absent
+    Fowler               X
+    Squire               X
+    Ogden                                                                    X
+    Nixon                 X
+    Shirey                X
+    Fidler, Alternate     X
+    Shah, Alternate                                                          X
+    Green, Alternate                                                         X
+
+2.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+
+The meeting adjourned at 6:50 PM.
+

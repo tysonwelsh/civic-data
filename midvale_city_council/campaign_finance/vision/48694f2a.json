@@ -1,0 +1,25 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "8-14-23", "recipient": "Midvale City", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false},
+    {"date": "8-18-23", "recipient": "Salt Lake County", "purpose": "Voters List", "amount": "15.00", "in_kind": false},
+    {"date": "9-8-23", "recipient": "Next Day Flyers", "purpose": "Door Hangers", "amount": "390.96", "in_kind": false},
+    {"date": "9-12-23", "recipient": "Sugarhouse Print Solutions", "purpose": "Yard Signs", "amount": "156.59", "in_kind": false},
+    {"date": "10-4-23", "recipient": "Deseret News Publishing", "purpose": "Mailers", "amount": "1,119.16", "in_kind": false},
+    {"date": "10-10-23", "recipient": "Deseret News Publishing", "purpose": "Postage", "amount": "669.97", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "2376.68",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "2376.68",
+  "_meta": {
+    "index_path": "raw/2023_02_Bart-Benson.pdf",
+    "candidate": "Bart Benson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_02_Bart-Benson.pdf",
+    "pages": 3
+  }
+}

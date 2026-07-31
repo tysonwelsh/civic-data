@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "date": "2025-08-27",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7939245&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-08-25/2025-08-27_planning-commission-meeting.md",
+    "present": [
+      "Aimee Burrows",
+      "Landon Kraczek",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Jeffrey Barrett",
+      "Mike Vela",
+      "Lilah Rosenfield",
+      "Brian Scott"
+    ],
+    "absent": []
+  },
+  "votes": [
+    {
+      "motion": "approve the meeting minutes",
+      "description": "approve the meeting minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Amy Barry",
+      "seconder": "Mike Vela",
+      "result": "8:0 Pass",
+      "tally": {
+        "yes": 8,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Landon Kraczek",
+        "Amy Barry",
+        "Mike Christensen",
+        "Brian Scott",
+        "Richard Leverett",
+        "Lilah Rosenfield",
+        "Mike Vela",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [
+        "Jeffrey Barrett"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council with additional recommendation to continue to evaluate per capita use impacts of middle housing",
+      "description": "forward a recommendation of approval to City Council with additional recommendation to continue to evaluate per capita use impacts of middle housing",
+      "motion_type": "Master Plan Amendment",
+      "action_class": "recommendation",
+      "mover": "Lilah Rosenfield",
+      "seconder": "Mike Christensen",
+      "result": "Negative recommendation 4:5",
+      "tally": {
+        "yes": 4,
+        "no": 5,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Lilah Rosenfield",
+        "Landon Kraczek",
+        "Jeffrey Barrett",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Mike Vela",
+        "Amy Barry",
+        "Brian Scott",
+        "Richard Leverett",
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "",
+      "seconder": "Lilah Rosenfield",
+      "result": "Positive recommendation 9:0",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Lilah Rosenfield",
+        "Landon Kraczek",
+        "Jeffrey Barrett",
+        "Mike Christensen",
+        "Mike Vela",
+        "Amy Barry",
+        "Brian Scott",
+        "Richard Leverett",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Conditional Use",
+      "action_class": "recommendation",
+      "mover": "Mike Vela",
+      "seconder": "Landon Kraczek",
+      "result": "Positive recommendation 9:0",
+      "tally": {
+        "yes": 9,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Vela",
+        "Amy Barry",
+        "Jeffrey Barrett",
+        "Landon Kraczek",
+        "Richard Leverett",
+        "Lilah Rosenfield",
+        "Mike Christensen",
+        "Brian Scott",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+111,2147,City Council,yes,meeting_minutes,,pm4,2020-01-01,repo is a complete 2020+ superset (portal ∪ PMN union); in-session CDRA rides these council docs (no separate CDRA body on PMN)
+111,2148,Planning Commission,yes,planning_commission,,pm4,2020-01-01,PC minutes; the 2022-07-06 work meeting was recovered + promoted
+111,3287,Administrative Hearings,yes,planning_commission,,pm4,2020-01-01,repo files these as body=PlanningCommission slug=administrative-hearing (0-motion officer decisions); 15 2020-2023 sessions recovered + promoted
+111,2150,Architectural Review Commission,no,,,,,separate design-review body NOT modeled in repo — 13 in-window minutes dates; candidate future dataset (inventory only)
+111,3085,Board of Adjustments,no,,,,,minutes all 2013-2017 (below 2020 floor) — nothing in-window
+111,7091,Appeals Hearing Officer,no,,,,,separate quasi-judicial body NOT modeled in repo — inventory only
+111,6511,Parks/Trails/Open Spaces,no,,,,,agendas/notices only — 0 minutes
+111,9027,Historic,no,,,,,agendas/notices only — 0 minutes
+111,9035,Arts Council,no,,,,,agendas/notices only — 0 minutes
+111,8699,Health-in-the-Heights,no,,,,,agendas/notices only — 0 minutes
+111,9491,Citizen Budget,no,,,,,agendas/notices only — 0 minutes

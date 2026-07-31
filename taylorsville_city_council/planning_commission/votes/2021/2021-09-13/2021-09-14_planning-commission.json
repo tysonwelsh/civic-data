@@ -1,0 +1,113 @@
+{
+ "date": "2021-09-14",
+ "year": 2021,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2021/2021-09-13/2021-09-14_planning-commission.md",
+ "present": [
+  "Kent Burggraaf",
+  "David Wright",
+  "Don Quigley",
+  "Lynette Wendel",
+  "Marc McElreath",
+  "Gordon Willardson",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel – I move for approval of the Planning Commission Minutes for July 27 as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "6-0 Pass",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "Don Russell",
+   "aye": [
+    "Don Quigley",
+    "Don Russell",
+    "David Wright",
+    "Marc McElreath",
+    "Lynette Wendel",
+    "Gordon Willardson"
+   ],
+   "nay": [],
+   "abstain": [
+    "Kent Burggraaf"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley – I move that we send a positive recommendation to the City Council for File #13Z21 for an amendment to the Land Development Code, Chapter 13.35: Notice Requirements, as provided in the Staff Report and testimony from Staff this evening",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation (unanimous)",
+   "kind": "recommendation",
+   "mover": "Don Quigley",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "13Z21"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell – I move that we send a positive recommendation to the City Council for File #12Z21 for an amendment to the Land Development Code Sections 13.07.020; 13.08.020; 13.09.030; 13.10.020; and 13.11.010, related to accessory dwelling units (ADUs), extended living areas, guesthouses, and corresponding definitions as provided in the Staff Report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation (unanimous)",
+   "kind": "recommendation",
+   "mover": "Don Russell",
+   "seconder": "Marc McElreath",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "12Z21"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 4
+  }
+ ]
+}

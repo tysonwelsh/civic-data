@@ -1,0 +1,23 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+millcreek,Silvia Catten,2019,Council,1,300.0,350.0,2,2,override,"OVERRIDE: per-period filer: SUMMARY report (doc 1282, 12/3/2019) cover CUMULATIVE = contributions 0.00(LAST)+300.00(THIS)=300.00, expenses 350.00(LAST)+0.00(THIS)=350.00. Computed 350.00/350.00 mis-took the interim's recorded contributions; the summary's own certified cumulative ($300 raised / $350 spent, balance $0) is authoritative"
+millcreek,Jemina A. Keller,2019,Council,3,4628.68,4628.68,2,2,summary,"MIXED: latest summary $4,629 vs summed interims $2,762 spent — took the larger; verify per-candidate incremental-vs-cumulative"
+millcreek,Cheri Jackson,2019,Council,3,4341.21,3882.89,2,2,override,"OVERRIDE: per-period filer (D3): SUMMARY report (doc 1274, 11/26/2019) cover CUMULATIVE = contributions 4341.21+0.00=4341.21, expenses 3318.83(LAST)+564.06(THIS)=3882.89. Computed 4341.21/3318.83 dropped the $564.06 post-election expenditure period"
+millcreek,Jeff Silvestrini,2019,Mayor,,88369.4,64859.5,2,2,override,"OVERRIDE: per-period filer: the final SUMMARY report (doc 1284, filed 12/5/2019) cover box CUMULATIVE column reads contributions 87387.11(LAST)+982.29(THIS)=88369.40 and expenses 55417.05(LAST)+9442.45(THIS)=64859.50 — the summary is a genuine post-election PERIOD the generic max(summary,summed-interims) rule DROPPED (it took the interim column only, 75414.82/56078.32). Note the summary's LAST-contributions column (87387.11) exceeds the interim's recorded stated total (75414.82), so summing filing_totals would also under-count; the last report's own certified CUMULATIVE is authoritative"
+millcreek,Angel Vice,2019,Mayor,,8531.51,8659.86,2,2,override,"OVERRIDE: per-period filer: SUMMARY report (doc 1285, 12/5/2019) cover CUMULATIVE = contributions 8213.52+317.99=8531.51, expenses 7345.75+1314.11=8659.86. Computed 8213.52/7345.75 took the interim column only, dropping the post-election summary period"
+millcreek,Angel Vice,2021,Council,2,12892.52,12658.07,1,1,summary,
+millcreek,Thom DeSirant,2021,Council,2,13560.0,12110.0,1,1,summary,
+millcreek,Jeremiah Clark,2021,Council,2,8502.75,6070.22,1,1,summary,
+millcreek,Lynda Bagley-Gibson,2021,Council,2,471.6,248.96,1,1,summary,
+millcreek,Bruce Parker,2021,Council,4,9190.0,8819.8,1,1,summary,
+millcreek,Bev Uipi,2021,Council,4,5058.62,4854.41,1,1,summary,
+millcreek,Beverly Boyce,2021,Council,4,1910.0,1910.0,1,1,summary,
+millcreek,Rex Williams,2021,Council,4,325.13,325.13,1,1,summary,
+millcreek,Cheri Jackson,2023,Council,3,12003.14,5926.59,3,3,override,"OVERRIDE: per-period filer (D3): SUMMARY report (doc 4095, 12/11/2023) cover CUMULATIVE = contributions 11994.56+8.58=12003.14, expenses 5708.39+218.20=5926.59. Computed 11994.56/5708.39 (summed the 2 interims) dropped the summary period"
+millcreek,David F. Holz,2023,Council,3,603.11,603.11,3,3,sum-interim,
+millcreek,Scott Springer,2023,Council,3,50.0,50.0,3,3,summary,
+millcreek,Thom DeSirant,2025,Council,2,60711.13,35842.92,3,3,override,"OVERRIDE: per-period filer (D2): SUMMARY report (doc 5898, 12/4/2025) cover CUMULATIVE = contributions 59816.13+895.00=60711.13, expenses 30796.43+5046.49=35842.92. Computed 59816.13/30796.43 (summed the 2 interims) dropped the summary period"
+millcreek,Angie Gray,2025,Council,2,5801.28,5801.28,3,3,override,"OVERRIDE: per-period filer (D2): SUMMARY report (doc 5895, 12/3/2025) cover CUMULATIVE = contributions 5741.09+60.19=5801.28, expenses 5314.82+486.46=5801.28. Computed 5741.09/5314.82 (summed the 2 interims) dropped the summary period"
+millcreek,Nicole Handy,2025,Council,3,0.0,50.0,1,1,summary,
+millcreek,Bev Uipi,2025,Council,4,16303.85,6746.62,3,3,override,"OVERRIDE: per-period filer (D4): SUMMARY report (doc 5896, 12/4/2025) cover CUMULATIVE = contributions 15540.90+762.95=16303.85, expenses 2979.93+3766.69=6746.62. Computed basis was 'max-mixed' (raised 15540.90 from the interim side, spent 3766.69 from the summary side) — a genuinely split, both-sides-under-counted pair; the certified cumulative is authoritative"
+millcreek,Connor Jett Gale,2025,Council,4,1745.52,1737.27,3,3,override,"OVERRIDE: per-period filer (D4): SUMMARY report (doc 5897, 12/4/2025) cover CUMULATIVE = contributions 1745.52+0.00=1745.52, expenses 1139.36+597.91=1737.27. Computed 1745.52/1139.36 had the raised right but dropped the summary period's $597.91 in expenditures"
+millcreek,Cheri Jackson,2025,Mayor,,50.0,50.0,1,1,single,

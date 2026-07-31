@@ -1,0 +1,41 @@
+{
+  "contributions": [
+    {"date": null, "name": "Utah Stonewall Dems", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Western States Regional Council of Carpenters", "amount": "500", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/29/25", "recipient": "Vessel Kitchen", "purpose": "Election Night Catering", "amount": "1,700.00", "in_kind": false},
+    {"date": "10/29/25", "recipient": "Jared Eborn for Murray", "purpose": "Campaign contribution", "amount": "131.76", "in_kind": false},
+    {"date": "10/29/25", "recipient": "Paul Fotheringham for Holladay", "purpose": "Campaign contribution", "amount": "131.76", "in_kind": false},
+    {"date": "10/31/25", "recipient": "Deseret News", "purpose": "Advertising", "amount": "27.00", "in_kind": false},
+    {"date": "10/31/25", "recipient": "Facebook (Meta) Advertising", "purpose": "Advertising", "amount": "188.15", "in_kind": false},
+    {"date": "11/01/25", "recipient": "Google Suite", "purpose": "Email service", "amount": "9.03", "in_kind": false},
+    {"date": "11/02/25", "recipient": "Salt Lake County Dems", "purpose": "Event sponsoring", "amount": "900.00", "in_kind": false},
+    {"date": "11/02/25", "recipient": "Amazon", "purpose": "Election Night Party Supplies", "amount": "328.89", "in_kind": false},
+    {"date": "11/03/25", "recipient": "Sagato Bakery", "purpose": "Election Night Desserts", "amount": "205.25", "in_kind": false},
+    {"date": "11/04/25", "recipient": "P. Chauncey Powis Design", "purpose": "Election Night Event Planning", "amount": "444.44", "in_kind": false},
+    {"date": "11/04/25", "recipient": "Amazon", "purpose": "Election Night Party Supplies", "amount": "7.73", "in_kind": false},
+    {"date": "11/04/25", "recipient": "Target", "purpose": "Election Night Food and Drinks", "amount": "103.21", "in_kind": false},
+    {"date": "11/04/25", "recipient": "Smith's Marketplace", "purpose": "Election Night Food and Drinks", "amount": "103.60", "in_kind": false},
+    {"date": "11/06/25", "recipient": "Amazon", "purpose": "Connie Crosby Fundraiser", "amount": "485.41", "in_kind": false},
+    {"date": "11/12/25", "recipient": "DeSirant Consulting", "purpose": "USPS Mailer", "amount": "3,526.96", "in_kind": false},
+    {"date": "11/13/25", "recipient": "Switchboard", "purpose": "Text messages", "amount": "110.43", "in_kind": false},
+    {"date": "11/30/25", "recipient": "Facebook (Meta) Advertising", "purpose": "Advertising", "amount": "99.47", "in_kind": false},
+    {"date": "12/01/25", "recipient": "Google Suite", "purpose": "Email service", "amount": "2.41", "in_kind": false}
+  ],
+  "total_contributions": "1,000",
+  "total_expenditures": "8,505.50",
+  "contributions_50_or_less": "None",
+  "beginning_balance": "14,497.64",
+  "ending_balance": "6,992.14",
+  "_meta": {
+    "index_path": "raw/2025_15_Dustin-Gettel.pdf",
+    "candidate": "Dustin Gettel",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_15_Dustin-Gettel.pdf",
+    "pages": 6,
+    "note": "Final Report (December 4, 2025 box checked). PERIOD-scoped, NOT cumulative: itemizes only the Dec-4 period (Oct 29 - Dec 1). Schedule A Part I = 2 donors ($500 each) directly on the form with NO date column -> date null; Part II subtotal printed 'None'; TOTAL CONTRIBUTIONS RECEIVED 1,000 = Summary Column C (thru Dec 4). Schedule B itemized on an ATTACHED spreadsheet with real Date + Purpose columns (captured verbatim); period TOTAL EXPENDITURES 8,505.50 = Column C. Beginning/ending balances are Column C (14,497.64 -> 6,992.14; Column D campaign totals were 32,297.13 raised / 25,304.99 spent, not used here). Both sides reconcile to the printed covers exactly. Campaign Total (Col D) beginning balance printed 'N/A'."
+  }
+}

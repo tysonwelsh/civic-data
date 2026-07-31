@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "date": "2024-04-24",
+    "year": "2024",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2024/PC05.22.2024/PC04.24.2024minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2024/2024-04-22/2024-04-24_planning-commission-meeting.md",
+    "present": [
+      "Mike Christensen",
+      "Bree Scheer",
+      "Brian Scott",
+      "Aimee Burrows",
+      "Amy Barry",
+      "Anaya Gayle",
+      "Rich Tuttle"
+    ],
+    "absent": [
+      "Carlos Santos-Rivera",
+      "Landon Kraczek"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "move the Planned Development for Glendale Townhomes to the regular agenda",
+      "description": "move the Planned Development for Glendale Townhomes to the regular agenda",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Bree Scheer",
+      "result": "5:2 Approved (Final Action)",
+      "tally": {
+        "yes": 5,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Rich Tuttle",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Anaya Gayle",
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "amend the minutes for April 10, 2024",
+      "description": "amend the minutes for April 10, 2024",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Rich Tuttle",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [
+        "Brian Scott"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Rich Tuttle",
+      "result": "7:0 Pass",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Rich Tuttle",
+        "Brian Scott",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Amy Barry",
+        "Anaya Gayle",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "table the item with the public hearing to remain open",
+      "description": "table the item with the public hearing to remain open",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Rich Tuttle",
+      "seconder": "Aimee Burrows",
+      "result": "6:1 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Rich Tuttle",
+        "Brian Scott",
+        "Aimee Burrows",
+        "Bree Scheer",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council approve this proposal for a Zoning Map amendment based on staff\u2019s recommendation",
+      "description": "recommend that the City Council approve this proposal for a Zoning Map amendment based on staff\u2019s recommendation",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Anaya Gayle",
+      "result": "Positive recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Brian Scott",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Amy Barry",
+        "Aimee Burrows",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council approve this zoning text amendment proposal",
+      "description": "recommend that the City Council approve this zoning text amendment proposal",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Anaya Gayle",
+      "seconder": "Bree Scheer",
+      "result": "Positive recommendation 5:2",
+      "tally": {
+        "yes": 5,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Anaya Gayle",
+        "Bree Scheer",
+        "Rich Tuttle",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Amy Barry",
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+ "date": "2025-03-13",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-03-10/2025-03-13_planning-commission-meeting.md",
+ "present": [
+  "Eldon Peterson",
+  "David Lewis",
+  "Sara Doutre",
+  "Ken Heare",
+  "Jordy Guth",
+  "Sarah McNamara"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare made a motion to approve all items under the Consent Agenda. Commissioner Guth seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Procedural/Administrative",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Ken Heare",
+   "seconder": "Jordy Guth",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "Eldon Peterson",
+    "David Lewis",
+    "Sarah McNamara",
+    "Jordy Guth"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare made a motion to conditionally approve a Conditional Use Permit for PC 25-015 King STR with the conditions of approval and findings for approval as listed below. Commissioner McNamara seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Ken Heare",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "Eldon Peterson",
+    "David Lewis",
+    "Sarah McNamara",
+    "Jordy Guth"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to forward a recommendation of approval to the Municipal Council on a Code Amendment for PC 25-017 LDC Amendment, Chapters 17.21 & 17.33",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 6:0",
+   "kind": "recommendation",
+   "mover": "Sara Doutre",
+   "seconder": "Jordy Guth",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "Eldon Peterson",
+    "Sarah McNamara",
+    "Jordy Guth",
+    "David Lewis"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 3
+  }
+ ]
+}

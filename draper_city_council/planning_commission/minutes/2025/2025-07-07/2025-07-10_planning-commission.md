@@ -1,0 +1,566 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1925&doc_id=7b016fea-8843-11f0-a766-005056a89546
+> Meeting date: 2025-07-10
+> Format: text
+
+     MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+     THURSDAY, JULY 10, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+     PARTICIPATING: Commission Member Gary Ogden, Temporary Chairperson
+                    Commission Member Susan Nixon
+                    Commission Member Kendra Shirey
+                    Alternate Commission Member Laura Fidler
+                    Alternate Commission Member Shivam Shah
+
+     EXCUSED:               Andrew Adams, Chair
+                            Lisa Fowler, Vice-Chair
+                            Commission Member Mary Squire
+                            Alternate Commission Member Christine Green
+
+F:   STAFF:                 Jennifer Jastremsky, Community Development Director
+                            Todd Draper, Planning Manager
+                            Nick Whittaker, City Planner
+                            Todd Taylor, City Planner
+                            Lori Stout, Executive Assistant
+                            Brien Maxfield, Senior Engineering Manager
+                            Spencer DuShane, Assistant City Attorney
+
+     6:31 PM Business Meeting
+
+     In the absence of Chair Andrew Adams and Vice-Chair Lisa Fowler, Community Development
+     Director, Jennifer Jastremsky, called the meeting to order at 6:31 PM and instructed the
+     Commissioners to elect a Temporary Chairperson for the evening.
+
+     Motion: Commissioner Nixon moved that Commissioner Gary Ogden be named as
+     Temporary Chairperson.
+
+     Second: Commissioner Shirey seconded the motion.
+
+     Vote on Motion: 5-to-0 in favor.
+
+              Commissioner        Yes   No   Abstained   Not Participating   Absent
+              Chair Adams                                                    X
+              Fowler                                                         X
+              Squire                                                         X
+              Nixon               X
+              Shirey              X
+              Ogden               X
+              Fidler, Alternate   X
+              Shah, Alternate     X
+              Green, Alternate                                               X
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 2
+
+Commissioner Ogden assumed the Chair and conducted the remainder of the meeting.
+
+1.    Items for Commission Consideration.
+
+      A.      Action Item: Approve Planning Commission Meeting Minutes for May 8,
+              2025.
+              (Administrative Action)
+
+Motion: Commissioner Nixon moved to APPROVE the May 8, 2025, Planning Commission
+Meeting Minutes, as presented.
+
+Second: Commissioner Shah seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+
+       Commissioner        Yes   No   Abstained    Not Participating   Absent
+       Chair Adams                                                     X
+       Fowler                                                          X
+       Squire                                                          X
+       Nixon               X
+       Shirey              X
+       Ogden               X
+       Fidler, Alternate   X
+       Shah, Alternate     X
+       Green, Alternate                                                X
+
+      B.      Action Item: Approve Planning Commission Meeting Minutes for May 22,
+              2025.
+              (Administrative Action)
+
+Motion: Commissioner Shirey moved to APPROVE the May 22, 2025, Planning
+Commission Meeting Minutes, as presented.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 5-to-0 in favor.
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 3
+
+
+        Commissioner        Yes    No    Abstained      Not Participating      Absent
+        Chair Adams                                                            X
+        Fowler                                                                 X
+        Squire                                                                 X
+        Nixon               X
+        Shirey              X
+        Ogden               X
+        Fidler, Alternate   X
+        Shah, Alternate     X
+        Green, Alternate                                                       X
+
+       C.      Public Hearing: Fratto Farms Commercial Land Use Map Amendment and
+               Zoning Map Amendment Requests.
+               (Legislative Item)
+               On the request of Troy Dana, a Land Use Map Amendment from the Residential
+               Medium Density to Neighborhood Commercial land use designation, and a Zoning
+               Map Amendment from the RA2 (Residential Agricultural) to CN (Neighborhood
+               Commercial) zone for approximately 2.03 acres, located at approximately 791 E.
+               12200 South. Known as applications 2025-0101-MA and 2025-0102-MA. Staff
+               Contact: Nick Whittaker, (801) 576-6522, Nick.Whittaker@Draperutah.gov.
+
+City Planner, Nick Whittaker, presented the Staff Report and displayed the Vicinity Map showing
+the location of the property. The applicant is requesting a change from the current land use
+designation of Residential Medium-Density to Neighborhood Commercial. The surrounding
+properties are currently zoned Neighborhood Commercial. The current zoning designation of the
+subject property is RA2 (Residential Agricultural). The applicant is requesting a change to CN
+(Neighborhood Commercial). The adjacent properties to the west and south are designated
+Neighborhood Commercial. Mr. Whittaker reported that the purpose of the RA2 zone is to foster
+low-density with little impact on the surroundings and municipal services to preserve the character
+of the City’s rural areas and promote and preserve conditions that are favorable to large lot family
+life, including the keeping of limited numbers of animals and fowl. The predominant use in the
+zone is to be detached single-family dwellings protected from encroachment by commercial and
+industrial uses. The purpose of the CN zone is to provide areas where convenience, buying outlets,
+and small trade areas may be established to serve surrounding residential neighborhoods. The
+zone is intended to promote a combination of retail and service facilities that, in character and
+scale, meet the day-to-day needs of nearby residents. A photo of the property was displayed.
+
+Mr. Whittaker reported that the applicant came before the Planning Commission on March 27,
+2025, requesting higher density housing in the area. At that time, the Planning Commission
+forwarded a negative recommendation to the City Council, and the applicant chose not to proceed
+to the City Council at that time. The applicant is now presenting a new application.
+
+Commissioner Shah asked about the types of uses that would be allowed on the property.
+Ms. Jastremsky referenced the Code, which lists many potential uses that are permitted as part of
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 4
+
+the CN zone. Mr. Whittaker pointed out that this is a common zone in the area. Commissioner
+Shah asked if there had been discussion about a potential Development Agreement. Mr. Whittaker
+was not aware of any. It was noted that the properties to the west of the subject property are zoned
+Neighborhood Commercial. The zoning in the area serves as a transition from commercial to
+residential and offers the lowest impact commercial.
+
+The applicant, Troy Dana, reported that he owns the subject property and resides on Cherry Creek
+Lane in Draper. He was before the Commission in March; at which time he presented a residential
+zone to help buffer the Commercial. It was not received well by the Commission; however, he
+had subsequent conversations with members of the City Council. He referenced the Land Use
+Map and stated that 12200 South will be filled in more with Neighborhood Commercial going
+forward. He opined that Neighborhood Commercial will have the lowest impact on the neighbors.
+Mr. Dana indicated that his earlier proposal could have included a park and townhomes but was
+not supported by the neighbors and he has since put forward a new plan. The majority of the City
+Council members he spoke to seemed to support Neighborhood Commercial in the area. Mr. Dana
+indicated that he had worked with the neighbors and held a neighborhood meeting to discuss his
+proposed plans. More neighbors were present tonight than attended his neighborhood meeting.
+He had read letters of opposition that were submitted but noted that none of the neighbors reached
+out to him personally despite his efforts to work with them. He recognized that people dislike
+change but observed that Draper is not a small town anymore and stated that if the neighbors want
+to live in a small town they can move.
+
+Mr. Dana stated that the intent is to build office condo flex space that is similar to what exists in
+the Town Center. He noted that the Commission will hear a lot of emotion from the public
+speakers tonight but he has been respectful in his approach. If the Commissioners visit the
+neighborhood, they will see that anything that is developed will likely be an improvement to what
+exists now. He was aware of the height and setback restrictions and had spoken with staff about
+what can be developed. What is proposed will be attractive and match what already exists. He
+noted that there is existing commercial development adjacent to his property and along 12200
+South.
+
+Commissioner Ogden opened the public hearing.
+
+Kimberly Henrie reported that she lives near the subject property. Some residents were at the
+neighborhood meeting and were very clear about how they feel about what is proposed. She asked
+the Commission to consider development from a broader perspective rather than on a case-by-case
+basis. There are over 30 residences in the neighborhood, and regardless of whether they are rentals,
+people have lived in them for a very long time. The neighbors value the rural nature of the area
+and would like to preserve it. Developers are waiting for people to sell to request zoning changes,
+which is unfair to the residents. She encouraged the Commission to pause and complete the study
+that was initiated in March 2025 to look at the train station system. She asked that it be done
+comprehensively. She commented that residents are not afraid of change but want it to make sense
+for everyone and not just the developer.
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 5
+
+Dave Hansen gave his address as 12107 South 800 East and expressed opposition to the proposal.
+He stated that the existing commercial areas are on arterial roads and not surface streets. What is
+proposed will encroach into the neighborhood. While there may always be growth on 700 East
+and 12300 South, they do not need to continually encroach into a neighborhood that is well
+established. The residents have no intention of leaving and do not support the proposed change.
+He did not support changing the zoning and potentially risk businesses coming into the
+neighborhood that do not belong.
+
+Jeremy Thomas gave his address as 12143 South 800 East. While he appreciated Mr. Dana
+reaching out to the neighbors, adequate notice of the neighborhood meeting was not provided.
+Mr. Thomas stated that nearly all of the residents on the street own their homes. While he
+recognized that change happens, he saw no reason to change the zoning. He did not support
+commercial or higher-density residential development in the area. He felt that the developer
+should only be able to build what the current zoning allows. He wanted things to be left the way
+they are.
+
+Cindy Romero gave her address as 729 East 12200 South and has owned her home for 46 years.
+She has seen change during that time and acknowledged that 12200 South is very busy. She
+suggested that the City address the intersection of 12200 South and 700 East immediately, as it is
+difficult to get out onto the road. It is dangerous, and some bushes extend into the street and block
+the view of drivers. Ms. Romero has no intention of selling her home and has several family
+members living with her. Mr. Dana’s request is not conducive to the neighborhood, which already
+has enough traffic. She commented that now is not the time to add more intensity. Ms. Romero
+stated that Mr. Dana deceived her by indicating that he would like to develop residential and then
+changed the plan to townhomes. Mr. Dana had threatened that he would do a homeless camp. She
+felt he has been trying to bully the neighbors.
+
+Lois Duncan gave her address as 12138 South 800 East, where she has lived for six years. When
+she bought the property, it was rundown and they have worked to improve it. It is a quiet street
+that many use because it is not as busy as 700 East. She hoped it will remain a peaceful place that
+people can enjoy. There is wildlife in the area. Ms. Duncan spoke with Mr. Dana in her home and
+he initially told her he was going to build his home there with an office for his business and was
+happy at that time to have him be their neighbor. She does not support the change to high density
+or commercial. She did not see a need for more businesses in the area but supported more single-
+family residential homes with neighborly people that will enhance the neighborhood.
+
+Jerry Thomas lives directly east of the subject property and has been a resident since 1998.
+Mr. Dana’s first proposal was for 24 housing units, which was not appropriate based on the size
+and location of the property. Mr. Thomas expressed his opposition to commercial development
+and while he realizes that development is inevitable, his desire is to keep the neighborhood
+residential in nature. The proposed project will result in more traffic, noise, and light pollution
+that will be detrimental to the neighborhood. Mr. Thomas stated that he believed the property was
+recently rezoned for one-quarter-acre lots, which Mr. Dana knew when he purchased the property.
+He reiterated that not everyone on the street rents their home. Under the current zoning, the
+applicant could likely build eight homes on the property and make a profit. Mr. Thomas reiterated
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 6
+
+that the residents do not want commercial and that the City would have had a reason to zone the
+property the way it is currently zoned. He asked that the Commission deny the request.
+
+Jim Duncan gave his address as 12138 South 800 East and mentioned that he was unable to attend
+the neighborhood meeting. He had also requested a copy of the plat from Mr. Dana, which was
+never received. Mr. Duncan reported that he purchased his property five years ago, where there
+was an existing home-based business. He hoped to operate his business there as well but his
+request was denied even though his neighbors did not object. The family member of a neighboring
+property owner objected to his request and Mr. Duncan eventually sold his business. At the time,
+the City indicated that his request was denied to protect the neighborhood, maintain the integrity
+of the neighborhood, and limit traffic. Since then, a developer informed Mr. Duncan that he could
+build eight homes on his property and make a profit. Mr. Duncan saw no reason to change the
+zoning. He doubted that Mr. Dana would want what he is proposing around his own home.
+
+Scott Bugay gave his address as 12114 South 800 East and reported that he purchased his home
+three years ago. The home was built in 1909. He identified his property on the map displayed and
+stated that there is an outbuilding with a marker from 1866. The area was the original homestead
+and was where all the chicken coops were. The home has been remodeled and is well-loved and
+historic. The current zoning is RA2, which is intended to preserve the character of the City's semi-
+rural areas. He questioned the need to modernize everything and suggested they instead allow six
+houses to be developed on the property while preserving the rural nature of the community. Mr.
+Bugay also commented on the heavy traffic on 700 East.
+
+Jeremy Henrie, a neighborhood resident, commented that Fratto Farms would be great as a barn
+with farm homes, but not as a commercial development. He was not opposed to Mr. Dana and
+understands what he is trying to do. He recognized that the City is changing but this development
+is in the middle of a neighborhood. All who have spoken disagree with what Mr. Dana is proposing
+and would like the existing zoning to remain. He commented that high-density residential or
+commercial is not conducive to the area. He mentioned that you can’t go back and that these kinds
+of decisions are huge.
+
+There were no further public comments. The public hearing was closed.
+
+Mr. Dana reiterated that the City Council is looking at the entire triangle area between the two
+train stations. The area that will potentially change on 12200 South may be more conducive to
+Neighborhood Commercial over time. He acknowledged that a lot is happening in the area. He
+stated that the existing zoning has not been changed for a very long time. He stated that it is untrue
+that eight homes can be developed there and claimed that there is a one-half-acre minimum lot
+size. Similar developments have not been popular. He stated that there is more value in the
+property if it is developed properly.
+
+Mr. Dana reported that he has lived in Draper for 25 years, and the mink and chicken farms were
+torn down by the Jordan School District. He was sorry but felt that the triangular area is no longer
+unique. He agreed that there is heavy traffic on 800 East and 12200 South, primarily due to the
+proximity to 700 East. His goal was to develop something with minimal impact on the
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 7
+
+neighborhood while working with the City Council and the neighbors. It is not feasible for
+neighbors to expect the area to remain as it is forever. He is proposing a decent-looking building
+that people can buy to run various types of businesses. He pointed out that there are similar uses
+directly across the street and next door. He reiterated that commercial already exists in the area.
+With regard to a claim that he deceived a property owner, he stated that he does not need
+permission to develop a drug rehab center. He remarked that he never proposed that, but it is
+something that could be done. He instead would like to develop something that is of benefit to the
+City and allows him to make a return on his investment. He stated that he cannot make a profit by
+building just four homes. He reiterated that he bought the property knowing it was RA2 with the
+intent to try and change the zoning.
+
+Commissioner Nixon asked if the property has always been zoned RA2. Mr. Dana confirmed that
+he purchased it knowing the zoning was RA2, but also knowing that the zoning would need to be
+changed for a project to be successful. Mr. Whittaker confirmed that under the current zoning, the
+property can accommodate four lots.
+
+Commissioner Shirey asked about the plan that is under review of the area and what the City is
+doing. Ms. Jastremsky stated that they are talking about the Station Area Plan. This area falls
+within a one-half mile radius of the Kimballs TRAX station. The Station Area Plan specifically
+looks at properties that are ripe for redevelopment. There is no proposal to include this property
+as part of the draft plan.
+
+Commissioner Nixon referenced the areas in red on the Land Use Map and why the area just west
+of the subject proposed property, going north, intersects the block. Mr. Whittaker stated that it is
+a transitional area from Commercial to Residential. Ms. Jastremsky stated that for the residential,
+they are looking at the mid-block. This section looks primarily at development along 700 East.
+Commissioner Nixon stated that the two homes directly west are very small and on less than one
+acre. Ms. Jastremsky clarified that the minimum area for the zone pertains to the size of the zoning
+district and not the specific property.
+
+Mr. Whittaker pointed out that there are different types of commercial land uses in the general
+vicinity of the subject property, and Mr. Dana’s request is for smaller-scale commercial land use.
+Normally, Neighborhood Commercial areas serve as buffers between residential and higher-
+density and commercial areas. Ms. Jastremsky reported that on the Land Use Map, the western
+half of the block is shown as Neighborhood Commercial and the eastern half is shown as Medium-
+Density Residential. The areas that have been developed as Commercial have been zoned
+Commercial.
+
+Commissioner Shah perceived Mr. Dana to be a developer who is working with the neighborhood
+to preserve it. He understood that negotiations take time and suggested Mr. Dana be given more
+time to come up with a different solution. Commissioner Shah was opposed to very high density
+in the area and would prefer Neighborhood Commercial as a pass-through between residential and
+other commercial.
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 8
+
+Commissioner Shirey expressed concern with an area that has been identified for Commercial.
+This area seemed to be an attempt in the broader plan to preserve the rural feel. She was concerned
+about utilizing a piecemeal approach. She had serious concerns with delving into that area with a
+piecemeal approach.
+
+Commissioner Nixon commented that of all the items that the Planning Commission reviews, Land
+Use and Zoning Map Amendments are the most difficult. She reported that the Planning
+Commission makes recommendations to the City Council, which makes the final determination.
+
+Planning Manager, Todd Draper, clarified that the Planning Commission previously forwarded a
+recommendation on another application from the applicant to City Council, but that application
+was not heard by the Council and is on hold. Statements made about discussions with the City
+Council were private discussions held outside of a public meeting. This is the second application.
+Only the current application was being considered tonight.
+
+Chair Ogden acknowledged that this is a difficult decision due to the current condition of the
+property and because there are homes to the west of a commercial property. The result will be for
+the homes to be bookended by commercial properties.
+
+Commissioner Shah asked the applicant if he would like more time to develop a plan. Mr. Dana
+stated that he discussed the issue with the City Council, who seem to agree that Neighborhood
+Commercial is coming as a result of the TRAX station. Mr. Dana stated that the neighbors have
+been very clear with respect to what they do and do not want. The City Council prefers to see a
+controlled height and type of office building rather than other development.
+
+Commissioner Nixon remarked that Mr. Dana knew what the zoning was when he purchased the
+property.
+
+Motion: Commissioner Shirey moved to forward a NEGATIVE recommendation to the City
+Council for denial of the Land Use Map Amendment, as requested by Troy Dana,
+Application 2025-0101-MA, based on the following:
+
+Findings for Denial:
+
+   1.      The proposed land use map amendment is not consistent with the goals, objectives,
+           and policies of the City's General Plan.
+
+   2.      The proposed land use map amendment is not harmonious with the overall
+           character of existing development in the vicinity of the subject property.
+
+   3.      The proposed land use map amendment will adversely affect adjacent property.
+
+   4.      There are not adequate facilities and services intended to serve the subject
+           property, including, but not limited to, roadways, parks and recreation facilities,
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 9
+
+             police and fire protection, schools, stormwater drainage systems, water supplies,
+             and wastewater and refuse collection.
+
+   5.        The proposed land use map amendment does not comply with DCMC Section 9-
+             2- 020(F).
+
+   6.        The legislative body may reject any amendment to the general plan land use map
+             that the legislative body considers appropriate.
+
+   7.        Concerns and purpose behind the negative recommendation is that we don’t
+             believe what is being proposed is consistent with the goals and objectives of the
+             general plan or harmonious with this area that appears based on the land use map
+             to be a carve out to retain this more rural residential within the community of
+             Draper. That’s not to say it won’t change in the future, but we are not prepared
+             with the clean lines that we have, once we start going there the dominos will fall,
+             and we aren’t prepared today to do that.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 3-to-2 in favor.
+
+        Commissioner        Yes    No    Abstained     Not Participating    Absent
+        Chair Adams                                                         X
+        Fowler                                                              X
+        Squire                                                              X
+        Nixon               X
+        Shirey              X
+        Ogden                      X
+        Fidler, Alternate   X
+        Shah, Alternate            X
+        Green, Alternate                                                    X
+
+
+Motion: Commissioner Shirey moved to forward a NEGATIVE recommendation to the City
+Council for denial of the Zoning Map Amendment, as requested by Troy Dana, Application
+2025-0102-MA, based on the following:
+
+Findings for Denial:
+
+        1.      The proposed zoning map amendment is not consistent with the goals,
+                objectives, and policies of the City's General Plan.
+
+        2.      The proposed zoning map amendment is not compatible with the subject
+                properties' existing Land Use Designation and is not harmonious with the
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 10
+
+              overall character of existing development in the vicinity of the subject
+              property.
+
+      3.      The proposed zoning map amendment will adversely affect adjacent property.
+
+      4.      There are not adequate facilities and services intended to serve the subject
+              property, including, but not limited to, roadways, parks and recreation
+              facilities, police and fire protection, schools, stormwater drainage systems,
+              water supplies, and wastewater and refuse collection.
+
+      5.      Concerns and purpose behind the negative recommendation is that we don’t
+              believe what is being proposed is consistent with the goals and objectives of the
+              general plan or harmonious with this area that appears based on the land use
+              map to be a carve out to retain this more rural residential within the
+              community of Draper. That’s not to say it won’t change in the future, but we
+              are not prepared with the clean lines that we have, once we start going there
+              the dominos will fall, and we aren’t prepared today to do that.
+
+Commissioner Shirey emphasized that the same reasoning for the negative recommendation
+for the Land Use Map amendment was applicable to the negative recommendation for the
+Zoning Map amendment.
+
+Second: Commissioner Nixon seconded the motion.
+
+Vote on Motion: 3-to-2 in favor.
+
+       Commissioner        Yes   No    Abstained     Not Participating     Absent
+       Chair Adams                                                         X
+       Fowler                                                              X
+       Squire                                                              X
+       Nixon               X
+       Shirey              X
+       Ogden                     X
+       Fidler, Alternate   X
+       Shah, Alternate           X
+       Green, Alternate                                                    X
+
+2.    Other Business.
+
+      A.      Discussion Item: 2025 Moderate-Income Housing Report (Work Session)
+              presentation and work session regarding the Annual Moderate-Income Housing
+              Plan (MIHP) and required reporting to the State. Staff Contact: Todd Taylor,
+              todd.taylor@draperutah.gov, (801) 576-6510.
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 11
+
+City Planner, Todd Taylor, reported that the Moderate-Income Report is submitted to the State
+annually and is due on August 1, 2025. The Moderate-Income Housing Plan is Chapter 4 of the
+General Plan. An outline was provided to the Commission Members prior to the meeting. Mr.
+Taylor clarified that he is presenting last years numbers as staff is still calculating the number for
+this year’s report. Those calculations will be done in time for the report to be submitted. The City
+is reporting on the number of entitled units that have not received a building permit as of May 1,
+2025. Last year, there were 4,194 entitled units that had not received the building permit as of
+May 1, 2024. One of the items to be reported on is the number of entitled units that have received
+Will-Serve letters. Last year, 299 units of the 4,194 received Will-Serve letters, but had not
+received the building permit. The City also reports on Accessory Dwelling Units (“ADU”). In
+2024, the total number of ADUs that had been recorded was 35. Six received a building permit,
+and 10 ADU permits were issued.
+
+Strategy E is a new strategy this year after a General Plan Amendment was adopted last year to
+change the strategies related to impact fees to this strategy, which is related to reducing regulations
+for Internal (“I-ADU”) or Detached (“D-ADU”) ADUs. This strategy was adopted in 2024 and
+followed up with a text amendment that was adopted in November of 2024. The text amendment
+changed the Code to allow property owners to live in the main unit or the ADU to provide more
+flexibility. It also reduced the minimum lot size for people requesting I-ADU deviations.
+
+Strategy F involves the zoning or rezoning for higher density or moderate-income residential in
+commercial or mixed-use zones near major transit, commercial centers, or employment centers.
+This year, the City brought forward the Draper Town Center Station Area Plan that was adopted
+by the City Council in March of 2025 and certified by the Wasatch Front Regional Council
+(“WFRC”) in May. Staff provided the Station Area Plan to the City’s consultant who is leading
+the Comprehensive Code Update. The consultant was asked to incorporate the standards in the
+plan into either a new zoning district or an existing zoning district. The Comprehensive Code
+Update will come back before the Planning Commission and City Council for adoption in the
+future.
+
+Mr. Taylor reported that Staff is also working on the other Station Area Plans, including Kimball's
+Lane, Crescent View, and the Draper FrontRunner. That effort began in March, and stakeholder
+interviews took place in April. Design charettes and an open house were held in June, as well as
+an online survey. Next Tuesday will be a joint Planning Commission/City Council Workshop to
+review the results of the online survey and the preferred concepts created by the City’s Consultant
+for the Station Areas. Due to the need for adoption by the end of the year and WFRC’s meeting
+schedule, staff is considering bringing them before the Planning Commission for a
+recommendation at the end of August and to the City Council for adoption at the beginning of
+September.
+
+Strategy G involves amending land use regulations to allow for higher density and moderate-
+income residential development in commercial or mixed-use zones near major transit corridors.
+This strategy will be achieved through the Comprehensive Code Update, which is looking to
+include new development standards for missing middle housing, creating new zones that may
+provide the option for more density or mixed-use, and looking at development standards. Staff is
+Draper City Planning Commission Meeting
+July 10, 2025
+Page 12
+
+also looking to include language on density bonuses for affordable units based on new State law.
+The project is still underway, and Staff is currently involved in a second review of the draft
+chapters received, which include the overlay districts, master planned communities, and the use
+standards.
+
+Strategy J implements zoning incentives for moderate-income units in new developments. Staff
+is looking at achieving this strategy also as part of the comprehensive Code Update. Mr. Taylor
+mentioned the City has been working on other methods to increase moderate-income units through
+workforce housing partnerships. This last year, the City entered into an agreement with Ivory
+Development to create seven workforce housing units in the Big Willow development for City and
+school district employees. To date, two of the units have been occupied. The pricing range of the
+housing units was $390,000 to $475,000. Mr. Taylor reported that the Development Agreement
+that was approved for Kimball Junction included a minimum of 30 units of workforce housing
+from Edge Homes.
+
+Strategy W involves the development of a Station Area Plan and is a repeat of Strategy F.
+
+Strategy O involves partnering with an entity to construct moderate-income housing. This was
+completed in 2023, at which time the City Council adopted a resolution and the City entered into
+an agreement with Salt Lake County. The agreement runs through 2027.
+
+The final part of the report is the State seeking feedback and recommendations in an effort to
+understand what types of support would be helpful to the community. Last year, the City asked
+for housing supply data, planning technical assistance, case studies for strategies, and for the State
+to provide examples of where and how these strategies are working in Utah and to allow each
+jurisdiction more flexibility to find solutions that work for their unique circumstances.
+
+Additional Business:
+
+Ms. Jastremsky reported that the next regular meeting is scheduled for July 31, 2025. A Joint
+Session with the City Council is scheduled for Tuesday, July 15, 2025, at 5:30 p.m. Dinner will
+be served.
+
+3.     Adjournment.
+
+Motion: Commissioner Shirey moved to ADJOURN.
+
+The meeting adjourned at 7:55 PM.
+

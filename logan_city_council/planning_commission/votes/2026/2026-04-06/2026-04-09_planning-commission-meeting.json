@@ -1,0 +1,61 @@
+{
+ "date": "2026-04-09",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2026/2026-04-06/2026-04-09_planning-commission-meeting.md",
+ "present": [
+  "David Lewis",
+  "Jessica Lucero",
+  "Craig Maughan",
+  "Sarah McNamara",
+  "Sara Doutre"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to conditionally approve a Design Review and Permit for PC 26-014 subject to the amended conditions of approval, as stated and the findings for approval as listed below. Commissioner Duncan seconded the motion. The motion was approved",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Jennifer Duncan",
+   "aye": [
+    "David Lewis",
+    "Jessica Lucero",
+    "Sarah McNamara",
+    "Jennifer Duncan",
+    "Craig Maughan",
+    "Sara Doutre"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes of the March 26, 2026, meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Jessica Lucero",
+   "seconder": "Sarah McNamara",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 2
+  }
+ ]
+}

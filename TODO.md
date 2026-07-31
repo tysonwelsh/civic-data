@@ -1,0 +1,163 @@
+# TODO — the work queue (restructured 2026-07-31)
+
+**This file holds ONLY terminating work: [DEBT] (wrong or missing values, evidence-cited) and
+[GATED] (owner decisions), plus the active PUBLISH GATE package. The open-box count here IS a
+true measure of work owed.** Everything else lives elsewhere:
+
+- **`LEADS.md`** — options, expansion menus, acquisition leads, and the WATCHES table. A menu,
+  not a queue; no checkboxes; not doing an item there is never a defect.
+- **`TODO_ARCHIVE.md`** — every closed record, verbatim, under dated anchors. The full
+  pre-restructure TODO/HANDOFF/NEXT_SESSION_PLAN are archived under
+  `ARCHIVE ANCHOR 2026-07-31-RESTRUCTURE`.
+- **`SHIP_GATE.md`** — the three runnable state predicates that define "ready to publish."
+- **`GOTCHAS.md`** — standing operational rules (moved out of HANDOFF.md).
+- **`_audits/2026-07-31-publication-review/`** — the 13-agent review that produced this
+  restructure: `report.md` (synthesis) + `triage_full.md` (all 245 verified rows; its TODO.md
+  line references resolve against the archived snapshot).
+
+**Rules (also in CLAUDE.md):** a backlog entry is EVIDENCE, NOT FACT — verify at the primary
+source before working it (the 2026-07-31 triage falsified three filed defect sections, incl.
+holladay's "10 duplicate Layton rows" = two real people; executing it as filed would have
+deleted 10 genuine votes). New items enter here only as [DEBT] with a primary-source citation
+stating what was OBSERVED, or as [GATED] by the owner. Leads go to LEADS.md, never here. No
+umbrella items — one box, one terminating task. Closing an item moves its record to
+TODO_ARCHIVE.md in the same session, leaving one changelog line here. A closure that falsifies
+a claim in CLAUDE.md/README updates that claim in the same session.
+
+**Definition of done is a STATE, not an empty list** — see SHIP_GATE.md. Open [DEBT] blocks
+publish only if it makes a published value WRONG; incompleteness ships with its caveat.
+
+---
+
+## PUBLISH GATE — active work package (owner-approved 2026-07-31)
+
+Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md` §2.
+
+- [ ] **G1. .gitignore fix → `git init` (private) → first commit.** gov.db (1.64 GB) is
+  UNIGNORED (ignore rule still says `/cities.db`, now a symlink); draper
+  `packets/text/2020-05-28_…att1624.txt` (105 MB) exceeds GitHub's limit inside the committed
+  text layer; also add `*/pmn_backfill/work/`, `_backup_*/`, `*.bak`; decide
+  `mag_mpo/legislative/raw_pdf/`; `git check-ignore` both live `.env` files; rotate the
+  ANTHROPIC_API_KEY; inspect `git count-objects -vH` before the first commit.
+- [x] **G2. Caveat refresh + re-federation — ✅ DONE 2026-07-31.** Caveat table 63→88 rows:
+  falsified utah_county/weber rows rewritten (post-repair reality + the 42-of-63 honest
+  residual); south_jordan PC `dissent-only` row added (Hollist's 100% nay rate now caveated);
+  millcreek comments caveat rewritten to the built-harvest state (+ sliver enumeration);
+  16 zero-caveat entities back-filled from their documented ceilings; disposition-coverage +
+  cf-coverage/cf-honest-zero(slc)/cf-unstructured(draper)/cf-blocked-cycles(kearns) added;
+  summit disposition caveat reworded. Federated (built 2026-07-31T14:30:48, integrity ok,
+  FK 0, reconciliation exact) + `--federation` 44/44 in step; 0 built entities uncaveated.
+- [ ] **G3. LICENSE + CITATION.cff + METHODS.md + PRIVACY.md.** Code license (MIT/Apache-2.0)
+  + data license (CC-BY-4.0/CC0 with public-records + third-party-GIS carve-outs); Zenodo DOI
+  at first release; METHODS.md must disclose per-layer extraction method (SLC votes are
+  LLM-extracted; SLC comments via Claude Vision). Owner privacy decisions: comment
+  emails/phones (~186 lines) and `campaign_finance/text/` donor street addresses (lehi 98,
+  ogden 371 lines) — decide, document, apply consistently.
+- [ ] **G4. Doc-consistency pass.** README headline table (county 24,346→27,269 motions,
+  35,318→38,597 votes; projections row misaligned); CLAUDE.md (27,376/39,237/77,507 →
+  27,269/38,597/77,400; "County motions have NULL disposition" is false — state per entity;
+  fts ut_state 525→519; riverton 538→555; nephi ~58→51; the roster-layer and
+  county-disposition understatements); entity counts (44 registered / 41 built everywhere);
+  `cities_db_SCHEMA.md` describes the 2026-07-11 db — regenerate as gov_db_SCHEMA.md from
+  build_info, add the 6 missing tables; scope the `provenance='minutes'` advice to
+  `gov_level='city'` and document the non-city extractor vocabulary; stale `cities.db` strings
+  in script comments; fix or re-document validate_entity's read-only contract (it rewrites
+  roster.csv + _validation_report.txt); banner/move the six closed planning docs
+  (REFACTOR_PLAN, REMEDIATION_PLAN, PRIMARY_DOCS_*, WFRC_NATIVE_SPEC, sources_summary,
+  refresh_status). Permanent fix: generate headline counts from build_info at release time.
+- [ ] **G5. Search-layer fixes.** `build_search_layer.py:642-644` doc_type filter excludes all
+  935 text-bearing `pmn_minutes` docs from fts_minutes (provo 391, murray 80, vineyard 80,
+  herriman 72, …) while docs promise full coverage; the 200-char floor silently drops 4 real
+  short LUDMA statute sections (emit skips to a gap ledger or lower the floor for statutes).
+- [ ] **G6. Consumer packaging.** README QUICKSTART (3 commands to first query; read-only
+  `file:gov.db?mode=ro` idiom); ship gov.db.gz (measured 3.75× → 399 MiB) as a GitHub
+  **Release asset, not LFS**; document the FTS/document path prefix rule
+  (`city||'_city_council/'` for cities, `city||'/'` otherwise); note `document.path` resolves
+  only in a full local build (34% point into gitignored raw/) — use text_path/source_url;
+  DATA_DICTIONARY.md from PRAGMA; one example notebook (doubles as doc regression test);
+  a few-MB gov-sample.db; add `build_status` to registry/entities.csv (udot/uta dirs don't
+  exist; registry walks break).
+- [ ] **G7. Build hardening (~20 lines).** build_cities_db.py: build to gov.db.tmp +
+  `os.replace()` (currently deletes gov.db then rebuilds in place); exclusive lockfile;
+  auto-run the federation-staleness gate at the end of every federation (good code, currently
+  never invoked automatically — the 3,000-motion silent-staleness combination).
+- [ ] **G8. Wrong-value data fixes** (the only pre-publish data work):
+  (a) **mag_mpo divided-tally loss** — 2015-11-05 "Motion failed with 10 yes and 12 no votes
+  by [12 named mayors]" stored as `outcome='Pass'` (INVERTED); one divided motion missing
+  entirely (2014-09-04 gasoline, "20 yes and 1 no"); truncated result_raw on others;
+  mag_mpo/CLAUDE.md:87-101 falsely asserts dissent is never named (cardinal rule 2).
+  (b) **Mis-dated duplicate meetings — repo-wide class**: midvale council ×3 (Revize `M DD YY`
+  parsed `MM D YY`) + midvale PC 2023-11-01≡2023-01-11 + magna PC + weber 2021-06-01 +
+  holladay 2025-05-01 (~20+ motions under wrong dates, 4 entities). Deliverable = the
+  date-collision detector (identical motion-text signature, different date), then the fixes.
+  (c) **weber 2019-07-30 Solar Overlay** adopting motion + roll call never extracted (mid-roll
+  amendment defeats the extractor; Ord 2019-13 has no motion).
+- [ ] **G9. Declare against SHIP_GATE.md → publish provisionally** (public repo + gov.db.gz
+  release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
+  LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.
+
+## [DEBT] — correctness queue (post-publish is fine for all of these)
+
+- [ ] **Weeks bundles "Meetings: 0" class.** 206 summary.md bundles repo-wide print
+  "Meetings: 0" with votes>0; bluffdale's 136 have a distinct cause — weeks_lib.py:91-93
+  derives dates from `f.stem[:10]` and bluffdale is the only city with non-date-prefixed
+  minutes filenames (166/166), so every bluffdale bundle links no minutes. (Triage L1932.)
+- [ ] **Died-for-lack-of-a-second motions carrying the SUBSTITUTE motion's roll call** —
+  weber ×4 confirmed (e.g. 2018-09-11 m6/m7, minutes line 311/323), ogden ×2 + midvale ×1
+  unrecorded; `motion_std.outcome='died'` joined to `motion.outcome='Pass'` finds them.
+  (Triage L452.)
+- [ ] **Legacy `recommendation` contradicts disposition∘outcome on ~68 rows** (filed as 13)
+  across 25 entities on stage='pc_recommendation' — e.g. 'Positive' stored where the matter
+  was denied. Feeds v_pc_divergence. (Triage L556.)
+- [ ] **midvale Erikson/Erickson person split** — two gov.db person rows for one PC
+  commissioner (267 + 13 votes); v_member_record_all splits the record. (Triage L3612.)
+- [ ] **Election completeness smalls:** ogden election_race has ZERO primary rows 2019–2025
+  while ten peers carry primaries (raw PDFs on disk; "not output per the task"); SSL 2021
+  3-way mayoral primary missing (CF filings prove it happened); draper 2025
+  canceled-uncontested 4-yr race absent (Res #25-49; Lowery + Green — two sitting members
+  invisible); murray 2021 Mayor+D4 primary discrepancy flags unresolved. (L2420/2540/3770/2881.)
+- [ ] **logan docs claim "North Logan RCV" — confirmed false** (county canvass proves plurality;
+  logan election_results/CLAUDE.md:11,183 + recon.md:235). One edit. (Triage L1300.)
+- [ ] **holladay bare-surname 'Layton' person** (62 votes 2020-01..2022-09) is ambiguous between
+  the TWO real Laytons (Howard, Chris) — needs a caveat row, NOT a merge. (Triage 3496-3786.)
+- [ ] **wfrc_mpo: 4 appositive motions never extracted** (2017-03-23 Dolan budget-hearing;
+  2023-08-24 Caldwell/Silvestrini ×2 + 1 more) — no-mover grammar. Low. (Triage L215.)
+- [ ] **washington_county OCR garbling** — spaced-caps headings + fi/fl ligature loss ('ofce')
+  in ≥9 minutes files; FTS-only impact (db-less entity). Low. (Triage L405.)
+- [ ] **SLCo Housing Authority minutes_index: 69 rows vs 68 files** — one phantom index row.
+  (Triage L1301.)
+- [ ] **riverton 2026-04-21 auth-wall relabel half-landed** — 5 packet rows carry format='na'
+  but fetch_status was never set to error:auth_wall; AVAILABILITY.md:97 claims it was.
+  (Triage L1109.)
+- [ ] **bluffdale referral precision spot-check** — 269 links (#2 city behind lehi despite
+  size), 189 high; no tuning pass ever ran. (Triage L3641.)
+- [ ] **emigration_canyon parse_present() credits ABSENT members as present** (roll-call
+  attendance line parsing); + **db_build_lib kind_of() lands alta BudgetCommittee as
+  'council'**. Two small shared-lib fixes. (Triage L1071/L1079.)
+- [ ] **emigration_canyon VERIFICATION.md stale** (429 vs live 438 motions; pre-LM-wave
+  claims). (Triage L2155.)
+- [ ] **~300 murray PC motions postdate the disposition ground-truth audit** — dispositions
+  computed but unaudited; fold into the next /audit-city-data pass. (Triage L2153.)
+
+## [GATED] — owner decisions (do not start unprompted)
+
+- [ ] **CF adjudication hand-check** (2026-07-18: 11 corrected figures) + 2 open CF questions:
+  bluffdale Hall Dec-04-final fold-in; holladay Tracy index date/label swap (rows 16-17 still
+  carry the wrong dates).
+- [ ] **GRAMA outreach** — ~110 genuinely-unpublished minutes across 13 cities, drafts ready;
+  the only remaining channel (every public channel exhausted + documented).
+- [ ] **Whisper/audio transcription program** — scope decision (leads inventoried in LEADS.md).
+- [ ] **Wayback archiving pass** — submit every sources.csv URL (~46.5k distinct) to
+  web.archive.org; also the 26 cache_county Wayback rows with no snapshot URL.
+- [ ] **STATE TIER reintegration** (owner ruling 2026-07-29): ut_state's 264 bills sit in
+  `application` with zero purpose-built tables; ships v1 as-is with a README note (verified
+  non-silent: gov_level + self-describing app_keys + 3 caveat rows). Design task, own terms.
+- [ ] **Scope decisions:** orem RDA/MBA/BoA promotion (22 recovered docs, no repo layer);
+  lehi advisory-committee bodies; SSL work-meeting "published vs unposted" ledger distinction;
+  copperton 2025 seat-lettering question.
+
+## Changelog
+
+| date | what | record |
+|---|---|---|
+| 2026-07-31 | Restructure: TODO 3,786→this file; options/watches/tails → LEADS.md; gotchas → GOTCHAS.md; HANDOFF → single banner; NEXT_SESSION_PLAN retired; 62 stale-already-done items closed + 25 non-items dropped per verified triage | `TODO_ARCHIVE.md` anchor 2026-07-31; `_audits/2026-07-31-publication-review/` |

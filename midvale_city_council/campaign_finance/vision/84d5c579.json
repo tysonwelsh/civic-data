@@ -1,0 +1,23 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Midvale City - Venue Rental", "purpose": null, "amount": "225.00", "in_kind": false},
+    {"date": null, "recipient": "Zach Robinson County Council", "purpose": null, "amount": "80.00", "in_kind": false},
+    {"date": null, "recipient": "Midvale Homeless Shelter", "purpose": null, "amount": "150.00", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "455.00",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "198.00",
+  "ending_balance": "-257.00",
+  "_meta": {
+    "index_path": "raw/2025_09_Bryant-Brown.pdf",
+    "candidate": "Bryant Brown",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_09_Bryant-Brown.pdf",
+    "pages": 6,
+    "note": "Dec-4 Final Report. Schedules itemize the Dec-4 period ONLY (Schedule A marked N/A / $0; Schedule B 3 expenditures = 455). Totals set to Summary Page Column C (Total thru December 4), which matches the itemized rows: begin 198.00 + contrib 0 - exp 455 = close -257.00 (internally consistent). Schedule B 'TOTAL EXPENDITURES' field left blank by filer; page SUBTOTAL 455.00 used. Schedule A 'TOTAL CONTRIBUTIONS RECEIVED' = 0. Cumulative CAMPAIGN totals are on Summary Column D and a candidate appendix spreadsheet (page 6): contributions 2,332.00 / expenditures 2,364.00, campaign close -32.01 (NOT transcribed here to avoid double-counting the already-transcribed Oct-7 and Oct-28 interims). Appendix note on the 225 venue item: 'Adjusted from 425 after deposit returned.'"
+  }
+}

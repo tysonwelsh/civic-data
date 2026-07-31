@@ -1,0 +1,669 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2026-06-24
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2026/06.24.2026.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 12
+audio: 6-24-2026.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page | of 12
+
+LAR™
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+June 24, 2026 - 2:00 PM
+
+The public may participate at the anchor location stated above. Public comments will be limited to two
+(2) minutes per individual unless otherwise approved by the Board.
+
+Board members may participate electronically, when necessary, with the anchor location designated as
+stated above.
+
+You may watch the meeting live on YouTube under the heading UTAH COUNTY GOVERNMENT or by
+going to the link: ://www.youtube.com/@UtahCountyGovernment/s
+
+Next two upcoming Commission meeting dates: Wednesday, July 8, 2026, at 2:00 p.m. and Wednesday,
+July 22, 2026, at 2:00 p.m.
+
+~COMMISSION MEETING MINUTES~
+
+In attendance: Commissioner Skyler Beltran (Chair), Commissioner Brandon B. Gordon
+Commissioner Powers Gardner - Absent
+
+Others in attendance: See attached sign-in sheet.
+
+(Meeting called to order: 2:09 pm)
+
+PRAYER/READING/THOUGHT: Phili Keeve
+PLEDGE OF ALLEGIANCE: Alice Black
+
+RECOGNITION
+1. RECOGNITION OF JUNE 2026 EMPLOYEE OF THE MONTH.
+
+-PJ Maughan, Human Resources
+
+Commissioner Beltran announced that Diana Holley from the Utah County
+Recorder’s Office had been selected as the June employee of the month and read
+the following statements.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 2 of 12
+
+I would like to nominate Diana Holley for Employee of the Month. To open, Diana is kind.
+She takes the time to listen to us and understand our questions, then guides us so we
+understand the answers. Diana goes above and beyond to answer questions we ask about
+procedures. She also takes the time to make sure we understand when new procedures
+are released. Diana works very hard to make sure we're all current on trainings and on
+the same page so we can help our customers the most.
+
+-Nominated by Ammon Rasmussen
+
+I would like to nominate Diana Holley for Employee of the Month. Diana has worked for
+the Recorder's Office for 20+ years. She started in customer service and then moved on to
+mapping and becoming the mapping supervisor about 3 years ago. Always friendly and
+helpful with a smile on her face, she can still be no-nonsense and stand up for the people
+and ideals she believes in and demand respect when the occasion warrants. She is service
+oriented and wants to help everyone be their best. She is quick to praise when she sees
+someone doing something well and is kind when correction is needed. Never above
+silliness or a good joke, she keeps the atmosphere light and is a great morale booster and
+the type of person you like to work for.
+
+-Nominated by Kate Holz
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 3 of 12
+
+PUBLIC COMMENTS
+None
+
+CONSENT AGENDA
+
+1. RATIFICATION OF WARRANT REGISTER FOR JUNE 24, 2026 INCLUDING NOTES
+AND COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE INTERNAL
+
+SYSTEM
+-Jolynn Clegg, Clerk
+
+Approved on Consent
+
+2. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 12-2026
+-Jolynn Clegg, Clerk
+
+Approved on Consent
+
+3. APPROVAL OF THE MINUTES FOR THE JUNE 10, 2026 BOARD OF COMMISSIONERS
+
+OF UTAH COUNTY, UTAH PUBLIC MEETING
+-Jolynn Clegg, Clerk
+
+Approved on Consent
+
+4. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH WELLS FARGO
+
+TO OPEN AN ACCOUNT.
+-Adam Beck , Auditor
+
+Approved on Consent
+Agreement 2026-492
+
+5. RESOLUTION AUTHORIZING ADJUSTMENTS OF TAXES AS SPECIFIED IN LETTER
+
+#60552 DATED JUNE 12, 2026 AND LETTER #60553 DATED JUNE 18, 2026.
+-Burt Harvey, Auditor
+
+Approved on Consent
+Resolution 2026-493
+
+6. AN AGREEMENT WITH THE UTAH INDIGENT DEFENSE COMMISSION TO ACCEPT
+THE IDC GRANT AWARD FY2026-2027
+
+-Ezra Nair, Commission
+
+Approved on Consent
+Agreement 2026-494
+
+7. APPROVE AND AUTHORIZE THE COUNTY ADMINISTRATOR TO SIGN AN
+ENROLLMENT AGREEMENT WITH THE PROFESSIONAL DEVELOPMENT ACADEMY
+
+-Ezra Nair, Commission
+
+Approved on Consent
+Agreement 2026-495
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 4 of 12
+
+8. APPROVE THE UTAH COUNTY COMMISSION TO SIGN THE STATE OF UTAH,
+ALCOHOLIC BEVERAGE CONTROL COMMISSION, SINGLE EVENT PERMIT FOR LOCAL
+CONSENT APPLICATION FOR THE SUNDANCE MOUNTAIN RESORT PRESENTS - 4TH
+OF JULY BBQ AT THE LOOK OUT LAWN TO BE HELD AT SUNDANCE MOUNTAIN
+RESORT (STORYTELLER CANYON OPERATING COMPANY, LLC) FROM 11:00 AM - 4:00
+PM ON THE FOLLOWING DATE: JULY 4, 2026
+
+-Kevin Stinson, Community Development
+
+Approved on Consent
+Agreement 2026-496
+
+9. APPROVE AND RATIFY LETTER OF SUPPORT FOR THE LONE PINE MANOR CDBG
+PROJECT WHICH WAS SIGNED ON JUNE 15, 2026 BY EXPEDITED SIGNATURE
+PROCEDURE.
+
+-Phillip Keeve, Community Development
+
+Approved on Consent
+Agreement 2026-497
+
+10. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN AMENDMENT #10
+TO THE STATE OF UTAH CONTRACT #171300 (COUNTY AGREEMENT 2016-845)
+BETWEEN THE UTAH ATTORNEY GENERAL'S OFFICE AND UTAH COUNTY
+GOVERNMENT
+
+-Natasha Nay, Information Systems
+
+Approved on Consent
+Agreement 2026-498
+
+11. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT WITH PLEASANT GROVE CITY FOR THE CENTER STREET 600 WEST
+
+PROJECT
+-Richard Nielson, Public Works
+
+Approved on Consent
+Resolution 2026-499
+Agreement 2026-500
+
+12. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH
+PROFESSIONAL SERVICES INDUSTRIES, INC. (PSI), TO PERFORM INSPECTIONS, TESTS,
+AND OTHER SERVICES RELATED TO THE SHERIFF'S OFFICE PATROL ADDITION AND
+
+REMODEL PROJECT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-501
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 5 of 12
+
+13. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #24 TO
+AGREEMENT #2022-177 FOR GSBS ARCHITECTS FOR TWO EXCAVATION
+OBSERVATIONS TO UPDATE THE GEOTECHNICAL EVALUATION REPORT FOR THE
+
+PATROL REMODEL PROJECT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-502
+
+14. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH ROBERT |
+MERRILL CO., TO REPLACE RESTROOM PARTITIONS IN THE VISITING AREA
+
+RESTROOMS AT THE SECURITY CENTER.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-503
+
+15. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH BLACK
+FOREST PAVING TO COMPLETE THE 12000 SOUTH ROADWAY IMPROVEMENTS
+
+PROJECT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-504
+
+16. APPROVE AND AUTHORIZE THE SIGNING OF AMENDMENT #1 OF AGREEMENT
+2026-210 WITH GENEVA ROCK PRODUCTS, INC., TO REFLECT ADDITIONAL PRODUCTS
+AVAILABLE AT THE DISTRIBUTION SITES WITH AN EFFECTIVE DATE OF MARCH 6,
+
+2026, PER ATTACHMENT B OF THIS AMENDMENT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-505
+
+17. APPROVE AND AUTHORIZE THE SIGNING OF AMENDMENT #2 TO AGREEMENT
+#2026-60 WITH RBM SERVICES, INC., TO ADD JANITORIAL SERVICES FOR THE
+
+TAYLOR BROTHERS BUILDING LOCATED AT 250 WEST CENTER STREET IN PROVO.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-506
+
+18. OBTAIN COMMISSION APPROVAL AND SIGNATURE FOR THE 2026 AIRCRAFT
+
+HULL LIABILITY INSURANCE.
+-Jodee Kimber, Sheriff
+
+Approved on Consent
+Agreement 2026-507
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 6 of 12
+
+REGULAR AGENDA
+
+1. APPROVE FIRST AMENDMENT TO AGREEMENT 25-742
+-Burt Garfield, Assessor
+
+Approved on Consent
+Agreement 2026-508
+
+2. ADOPT RESOLUTION FOR THE 1ST AMENDMENT TO THE 2026-2028 UTAH
+COUNTY CAPITAL IMPROVEMENT PLAN.
+
+-Gina Tanner, Auditor
+Continued to July 8, 2026 on Consent
+
+3. ADOPT A RESOLUTION ESTABLISHING THE 2026 TAX RATE LEVIES FOR UTAH
+COUNTY, UTAH AND SPECIAL SERVICE DISTRICTS 6, 7, 8, AND 9.
+-Burt Harvey, Auditor
+
+Approved on Consent
+Resolution 2026-509
+
+4. AUTHORIZE COUNTY ADMINISTRATOR TO SIGN A MEMORANDUM OF AGREEMENT
+WITH THE UTAH DEPARTMENT OF HERITAGE AND ARTS, UTAH STATE LIBRARY
+DIVISION FOR BOOKMOBILE SERVICES IN UTAH COUNTY.
+
+-Ezra Nair, Commission
+(Timestamp: 8:27)
+
+Commissioner Beltran and Ezra Nair (UC Administrator) spoke about additional data
+and answers to questions that were requested. Ezra Nair asked that this item be
+stricken.
+
+Motion to strike: Commissioner Gordon
+Seconded by: Commissioner Beltran
+Vote: All in favor - Aye
+
+Result: Motion passed 2/0
+
+5. APPROVE PROPERTY TAX ACTIONS INCLUDED IN RECOMMENDATION LETTER
+2026-7
+
+-Adam Beck, Commission
+
+Approved on Consent
+Agreement 2026-510
+Agreement 2026-511
+Agreement 2026-512
+Agreement 2026-513
+Agreement 2026-514
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 7 of 12
+
+6. APPROVE AND ENACT TEXT AMENDMENTS TO TITLES 4, BUSINESS LICENSES AND
+9.06 AGRICULTURE PROTECTION AREAS OF THE UTAH COUNTY CODE AND AMEND
+THE UTAH COUNTY FEE SCHEDULE
+
+-Kevin Stinson, Community Development
+(Timestamp: 9:00)
+
+Discussion between Commissioners and Kevin Stinson (Community Development)
+regarding possession of alcohol on county property.
+
+Motion to approve with striking the word possession: Commissioner Gordon
+Seconded by: Commissioner Beltran
+Vote: Allin favor - Aye
+
+Result: Motion passed 2/0
+Ordinance 2026-515
+
+7. APPROVE AND AUTHORIZE A LETTER AND/OR RESOLUTION CONFIRMING THE
+SELECTION OF SPANISH FORK CITY AS THE 911 AMBULANCE SERVICES PROVIDER IN
+THE UNINCORPORATED AREA OF THE COUNTY NEAR SPANISH FORK CITY.
+
+-Kirk Bertelsen, Community Development
+
+Approved on Consent
+Resolution 2026-516
+
+8. APPROVE AND AUTHORIZE THE EXECUTION OF A CONTRACT WITH BENEVATE LLC
+(DBA NEIGHBORLY SOFTWARE) EFFECTIVE FOR THE PERIOD OF ONE (1) YEAR.
+
+-Philip Keeve, Community Development
+Stricken on Consent
+
+9. APPROVE AND AUTHORIZE EXECUTION OF AN ENVIRONMENTAL REVIEW FOR THE
+ADMINISTRATION OF COMMUNITY DEVELOPMENT BLOCK GRANT FUNDS FOR
+PROGRAM YEAR 2026.
+
+-Philip Keeve, Community Development
+
+Approved on Consent
+Agreement 2026-517
+
+10. APPROVE AND AUTHORIZE A RESOLUTION DELEGATING AUTHORITY TO THE
+COUNTY ADMINISTRATOR TO APPROVE SPECIFIED ENVIRONMENTAL REVIEWS FOR
+CDBG PROJECTS.
+
+-Phillip Keeve, Community Development
+
+Approved on Consent
+Resolution 2026-518
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 8 of 12
+
+11. MOTION TO APPROVE THE RENEWAL OF UTAH COUNTY'S INSURANCE COVERAGE
+WITH THE UTAH LOCAL GOVERNMENT'S TRUST WITH SELECTION OF ONE OF TWO
+PROPERTY DEDUCTIBLE OPTIONS.
+
+-Tom Mugleston, Human Resources
+(Timestamp: 11:30)
+
+Motion to approve item 11 with option two: Commissioner Gordon
+Seconded by: Commissioner Beltran
+Vote: All in favor - Aye
+
+Result: Motion passed 2/0
+Agreement 2026-519
+
+12. APPROVE AND AUTHORIZE THE SIGNING OF A SERVICE AGREEMENT AND TRUST
+AGREEMENT WITH VOYA FOR THE (HRA) HEALTH REIMBURSEMENT ARRANGEMENT
+UNDER THE UTAH COUNTY EMPLOYEE BENEFITS PLAN
+
+-Brandon Chambers, Human Resources
+
+Approved on Consent
+Agreement 2026-520
+Agreement 2026-521
+
+13. APPROVE A CHANGE TO THE STAFFING PLAN IN THE SHERIFF'S OFFICE TO
+DELETE A FULL-TIME, CAREER SERVICE DEPUTY SHERIFF II - CORRECTIONS
+POSITION FROM JAIL PROGRAMS AND ADD A FULL-TIME, CAREER SERVICE
+LIEUTENANT - CORRECTIONS POSITION TO CORRECTIONS SUPPORT SERVICES.
+[STAFFING PLAN DETAILS FOR HR USE: ADD ONE FTE OF JOB CODE 2530, GRADE 732,
+TO 100-42320 AND DELETE ONE FTE OF JOB CODE 4011, GRADE 724, FROM 100-
+42350 (POSITION-00704).
+
+-Merritt Fullmer, Human Resources
+
+Approved on Consent
+Agreement 2026-522
+
+14. APPROVE A CHANGE TO THE STAFFING PLAN IN NURSING TO INCREASE A HALF-
+TIME (.50), CAREER SERVICE, GRANT FUNDED, COMMUNITY HEALTH OUTREACH
+WORKER II - HOME VISITATION TO FULL-TIME. [STAFFING PLAN DETAILS FOR HR
+USE: INCREASE POSITION -02320 FROM CS GF .50 TO CS GF 1.0]
+
+-Merritt Fullmer, Human Resources
+
+Approved on Consent
+Agreement 2026-523
+
+15. AUTHORIZE A CHANGE TO THE STAFFING PLAN IN THE COUNTY
+ADMINISTRATION DEPARTMENT TO ADD ONE (1), FULL-TIME, CAREER SERVICE,
+GRANT FUNDED YOUTH JUSTICE COALITION COORDINATOR POSITION [STAFFING
+PLAN DETAILS FOR HR USE: COUNTY ADMINISTRATION, JOB CODE 2201, GRADE 724;
+SUPERVISORY ORG: COMM - COMMISSION]
+
+-Mhai Lee, Human Resources
+
+Approved on Consent
+Agreement 2026-524
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 9 of 12
+
+16. APPROVE AND ACCEPT THE ROAD DEDICATION PLAT WITHIN AMBLEVIEW
+
+COMMERCIAL A RESIDENTIAL SUBDIVISION.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-525
+
+17. AUTHORIZE THE SIGNING OF THREE QUIT CLAIM DEEDS TO VINEYARD CITY FOR
+
+PARCELS ALONG THE RAILROAD TRAIL
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-526
+
+18. AUTHORIZE THE SIGNING OF THREE QUIT CLAIM DEEDS TO THE UTAH TRANSIT
+
+AUTHORITY FOR PARCELS ALONG THE FRONT RUNNER RAIL LINE
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-527
+
+19. APPROVE AND AUTHORIZE THE SIGNING OF CHANGE ORDER #1 TO AGREEMENT
+#2026-257 WITH J-U-B ENGINEERS, INC., FOR ADDITIONAL GEOTECHNICAL
+INVESTIGATIONS, BRIDGE DESIGN WORK, AND ENVIRONMENTAL WORK, FOR THE
+
+PROVO CANYON PARKWAY - VIVIAN PARK BRIDGE TO UPPER FALLS PROJECT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-528
+
+20. APPROVE AND AUTHORIZE THE SIGNING OF A SUBDIVISION IMPROVEMENT AND
+WARRANTY AGREEMENT WITH ADRIAN AND MABEL REYNOSO FOR THE REYNOSO
+SUBDIVISION PLAT A IN THE AMOUNT OF $7900 FOR A CONSTRUCTION AND
+
+WARRANTY BOND.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-529
+
+21. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH FIDUS
+TECHNOLOGY SOLUTIONS TO PROVIDE A POINT SOURCE LOUDSPEAKER SYSTEM TO
+IMPROVE THE INTELLIGIBILITY OF THE SOUND SYSTEM AT THE EMERGENCY
+
+MANAGEMENT BUREAU BUILDING, PER ATTACHMENT B.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-530
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 10 of 12
+
+22. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH MECHANICAL
+SERVICE & SYSTEMS, LLC, TO REPLACE RTUS 1 AND 4 ON THE JAIL INDUSTRIES
+BUILDING, PER ATTACHMENT B, IN COMPLIANCE WITH UCA 2025-710 HOURLY
+
+RATES AND PRICING SCHEDULE.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-531
+
+23. APPROVE A PURCHASE AGREEMENT WITH FALCOM LLC
+-Shaun Cowden, Sheriff
+
+Approved on Consent
+Agreement 2026-532
+
+24, APPROVE AN EXOSKELETON TRIAL AND COLLABORATION AGREEMENT WITH
+
+HYPERSHELL HK LIMITED
+-Dallin Turner, Sheriff
+
+Approved on Consent
+Agreement 2026-533
+
+25. APPROVE THE SIGNING OF AN AGREEMENT WITH METRO GROUP INC. FOR
+
+RECYCLING SERVICES.
+-Juli Van Ginkel, Health
+
+Approved on Consent
+Agreement 2026-534
+
+26. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Stricken on Consent
+
+27. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Held on Consent
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 11 of 12
+
+28. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Stricken on Consent
+
+29. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Held on Consent
+(Moved to Closed Meeting: 2:21 p.m.)
+
+(Opened to Public Meeting: 2:41 p.m.)
+
+Motion to adjourn: Commissioner Gordon
+Seconded by: Commissioner Beltran
+Vote: Allin favor —- Aye
+
+Result: Motion passed 2/0
+
+Meeting Adjourned
+
+(Meeting adjourned: 2:41 p.m.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In compliance with the Americans
+with Disabilities Act, individuals needing special accommodations (including auxiliary communicative
+aids and services) during this meeting should notify the Utah County Clerk's Office at 801-851-8113.
+Handicap parking is available as well as a level entrance to the building. Interpretation services are
+available with prior notice for the hearing disabled.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+June 24, 2026
+
+Page 12 of 12
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+June 24, 2026 - 2:00 p.m.
+
+PRINT CLEARLY
+
+Name: Agency:
+Ka pos OL Ce Yolen Oli
+tye BenW ve tS ae
+
+Alice Black _ Adin sat CA
+farse y Sheu bye LMU EouroP0s
+
+va! t
+
+RBulChijdl a ae
+(nda Ulin
+
+Beals Sod S
+Pare Wee S —
+
+Meeting minutes approved at the July 10, 2026 Board of Commissioners of Utah County,
+Utah Public Meeting.
+
+Anil ieee,
+
+SMalee Bayan
+
+SKYLER BELTRAN, Chair
+
+ATTEST: " fh COC
+AARON R. DAVIDSON
+Utah County Clerk
+
+By:
+Depoty

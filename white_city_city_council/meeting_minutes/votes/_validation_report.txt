@@ -1,0 +1,112 @@
+White City COUNCIL — vote extraction validation
+==========================================================
+
+Meetings (JSON)         : 124
+Meetings with >=1 vote  : 110
+Motions                 : 663
+  named roll-calls      : 66
+  tally-only            : 597  (of which unanimous: 580)
+Body split              : Council 663
+Contested motions       : 37
+Mayor/Chair-vote rows   : 31  (chair/mayor VOTES in both eras)
+Distinct members        : 10
+
+CSV rows                : 785
+Expected (from JSON)    : 785   [OK]
+body not Council/PC     : 0
+
+Vote-format mode distribution:
+    narrative                  584
+    narrative-named-dissent    36
+    rollcall                   30
+    none                       13
+
+Motion-type distribution:
+    Other                      164
+    Procedural/Administrative  153
+    Resolution                 149
+    Appointment                61
+    Public Hearing Action      59
+    Ordinance                  25
+    Budget Amendment           15
+    Land-Use/Zoning            14
+    Contract/Purchase          13
+    Interlocal                 7
+    Ceremonial                 2
+    Grant-Funding              1
+
+Vote-format mode by year (the ~2026 narrative->rollcall seam):
+    2018: narrative=73
+    2019: narrative=74
+    2020: narrative=52, narrative-named-dissent=22, none=6
+    2021: narrative=68, narrative-named-dissent=8, none=2
+    2022: narrative=67, narrative-named-dissent=4, none=1
+    2023: narrative=69
+    2024: narrative=86, none=2, narrative-named-dissent=1
+    2025: narrative=73, none=1, narrative-named-dissent=1
+    2026: rollcall=30, narrative=22, none=1
+
+>5-voter / 6th-voter flags : 0   (expected 0 — max seat = 5)
+
+Off-roster names        : 0   (expected 0)
+
+Roll-call tally mismatches : 0
+
+Per-year observed members (name: vote rows):
+  2020:
+      Scott Little         22
+  2021:
+      Scott Little         8
+      Paulina Flint        1
+      Phillip Cardenaz     1
+  2022:
+      Scott Little         4
+  2024:
+      Tyler Huish          1
+  2025:
+      Tyler Huish          1
+  2026:
+      Allan Perry          30
+      Greg Shelton         30
+      Linda Price          30
+      Neil Mahoney         30
+      Tyler Huish          30
+
+Contested votes (37):
+    - 2020-01-02 [Council] m1 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-01
+    - 2020-01-02 [Council] m2 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-02
+    - 2020-01-02 [Council] m3 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-03
+    - 2020-01-02 [Council] m4 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-04
+    - 2020-01-02 [Council] m5 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-05
+    - 2020-01-02 [Council] m6 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-06
+    - 2020-01-02 [Council] m7 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-01-07
+    - 2020-03-05 [Council] m13 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve that the Chair of the Steering Committee sha
+    - 2020-03-05 [Council] m15 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to delete the second sentence in Section VIII – Rules o
+    - 2020-03-05 [Council] m17 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution 20-03-02 as amended
+    - 2020-05-07 [Council] m4 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution No. 20-05-01
+    - 2020-05-07 [Council] m6 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to remove Council Member Little from the White City Ste
+    - 2020-06-04 [Council] m4 (narrative-named-dissent) 4-1 Pass  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution 20-06-01
+    - 2020-07-02 [Council] m5 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Ordinance 20-06-01
+    - 2020-07-02 [Council] m9 (narrative-named-dissent) 4-1 Pass  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution No. 20-07-01
+    - 2020-07-02 [Council] m11 (narrative-named-dissent) 4-1 Pass  nay=[] abstain=['Scott Little'] recuse=[] :: to approve Resolution No. 20-07-03
+    - 2020-08-13 [Council] m1 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to close the White City Metro Township Council meeting 
+    - 2020-08-13 [Council] m3 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve the following resolution: RESOLUTION NO.: 20
+    - 2020-10-01 [Council] m2 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution No. 20-10-01
+    - 2020-12-03 [Council] m4 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to open the public hearing for the 2021 White City Metr
+    - 2020-12-03 [Council] m6 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve the following Resolution No. 20-12-01
+    - 2020-12-17 [Council] m4 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve the following Resolution
+    - 2021-03-04 [Council] m4 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve the Resolution
+    - 2021-07-08 [Council] m9 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution No. 2021-07-04 requesting amendme
+    - 2021-09-02 [Council] m3 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to adopt Resolution 21-09-02
+    - 2021-09-02 [Council] m5 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to amend section 19.15.040 of the White City Metro Town
+    - 2021-09-02 [Council] m6 (narrative-named-dissent) 2-3 Fail  nay=['Paulina Flint', 'Phillip Cardenaz', 'Scott Little'] abstain=[] recuse=[] :: to amend section 19.15.030 of the White City Metro Town
+    - 2021-11-18 [Council] m2 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to adopt Resolution No. 21-11-01 and set the public hea
+    - 2021-12-09 [Council] m6 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to pass Resolution No. 21-12-01, approving and authoriz
+    - 2021-12-09 [Council] m12 (narrative-named-dissent) 3-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve the following Resolution
+    - 2022-02-03 [Council] m3 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to set a public hearing for March 3, 2021, to receive c
+    - 2022-04-07 [Council] m1 (narrative-named-dissent) 4-1 Pass  nay=[] abstain=['Scott Little'] recuse=[] :: to accept the White City Metro Township Financial Repor
+    - 2022-04-07 [Council] m7 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution 2022-04-02, adopting the White Ci
+    - 2022-05-05 [Council] m7 (narrative-named-dissent) 4-1 Pass  nay=['Scott Little'] abstain=[] recuse=[] :: to approve Resolution 2022-05-01, appointing Weston Mil
+    - 2024-06-06 [Council] m16 (narrative-named-dissent) Pass (unanimous)  nay=[] abstain=['Tyler Huish'] recuse=[] :: to approve Resolution 2024-06-04, formally adopting the
+    - 2025-07-10 [Council] m5 (narrative-named-dissent) 4-1 Pass  nay=['Tyler Huish'] abstain=[] recuse=[] :: to deny Ordinance 2025-O-05 regarding a Text Amendment 
+    - 2026-01-08 [Council] m10 (rollcall) 3-2 Pass  nay=['Greg Shelton', 'Linda Price'] abstain=[] recuse=[] :: to move forward with an RFP for legal and accounting se

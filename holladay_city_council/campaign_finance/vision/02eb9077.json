@@ -1,0 +1,31 @@
+{
+  "contributions": [
+    {"date": "10/26", "name": "Harold Klatt", "amount": "100.00", "in_kind": false},
+    {"date": "10/29", "name": "Dustin Gettel", "amount": "125.00", "in_kind": false},
+    {"date": "10/31", "name": "Bob & Cathy Lambert", "amount": "500.00", "in_kind": false},
+    {"date": "11/3", "name": "Rob Dahle", "amount": "2,500.00", "in_kind": false},
+    {"date": "11/20", "name": "Ellis & Katie Ivory", "amount": "1,000.00", "in_kind": false},
+    {"date": "Various", "name": "Paul Fotheringham", "amount": "12,940.57", "in_kind": false, "note": "Cash Loan"}
+  ],
+  "expenditures": [
+    {"date": "10/30", "recipient": "Edge Printing", "purpose": null, "amount": "3,713.94", "in_kind": false},
+    {"date": "10/31", "recipient": "Eagle Direct Response", "purpose": null, "amount": "3,900.31", "in_kind": false},
+    {"date": "10/31", "recipient": "Turn Two Studio", "purpose": null, "amount": "300.00", "in_kind": false},
+    {"date": "12/1", "recipient": "Cindy Gubler - Wilkinson Ferrari", "purpose": null, "amount": "10,000.00", "in_kind": false},
+    {"date": "Various", "recipient": "Fundhero", "purpose": null, "amount": "186.99", "in_kind": false}
+  ],
+  "total_contributions": "17,165.57",
+  "total_expenditures": "18,101.24",
+  "contributions_50_or_less": "455.63",
+  "beginning_balance": null,
+  "ending_balance": "857.98",
+  "_meta": {
+    "index_path": "raw/2025_city_fotheringham-final.pdf",
+    "candidate": "Paul S. Fotheringham",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_fotheringham-final.pdf",
+    "pages": 3
+  }
+}

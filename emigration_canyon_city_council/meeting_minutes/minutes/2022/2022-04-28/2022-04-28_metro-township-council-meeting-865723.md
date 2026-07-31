@@ -1,0 +1,244 @@
+# Metro Township Council Meeting
+> Source: https://www.utah.gov/pmn/files/865723.pdf
+> Meeting date: 2022-04-28
+> Format: pdf-text
+
+---
+
+**Body:** Council
+**Meeting type:** Regular
+**Date:** 2022-04-28
+**Era:** Metro Township
+**Source:** pmn (Utah Public Notice, body 5809)
+**Source URL:** https://www.utah.gov/pmn/files/865723.pdf
+**PMN notice id:** 751027
+**PMN file id:** 865723
+**Format:** pdf-text
+**In-body date match:** YES
+
+---
+
+DATE
+
+THURSDAY
+
+APRIL
+
+28, 2022
+
+THE EMIGRATION CANYON METRO TOWNSHIP COUNCIL, STATE OF UTAH,
+MET ELECTRONICALLY ON THURSDAY, APRIL 28, 2022, PURSUANT TO ADJOURNMENT
+ON TUESDAY, APRIL 26, 2022, AT THE HOUR OF 9:00 A.M., AT THE SALT LAKE COUNTY
+SHERIFF’S OFFICE, 3356 SOUTH 900 WEST, SOUTH SALT LAKE CITY, UT 84119.
+COUNCIL MEMBERS
+ELECRONICALLY PRESENT:
+
+DAVID BREMS
+ROBERT PINON
+JENNIFER HAWKES, Deputy Mayor
+JOE SMOLKA, Mayor
+
+COUNCIL MEMBER EXCUSED:
+
+CATHERINE HARRIS
+
+OTHERS IN ATTENDANCE:
+
+LISA DUDLEY, UNIFIED POLICE DEPARTMENT
+JASON MAZURAN, UNIFIED POLICE DEPARTMENT
+FRANK NAKAMURA, SALT LAKE VALLEY LAW
+ENFORCEMENT SERVICE AREA
+NICHOLE WATT, DEPUTY CLERK
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Unified Police Department (UPD) and Salt Lake Valley Law Enforcement Service Area
+(SLVLESA) Funding and Services
+Lisa Dudley, Fiscal Manager, UPD, reviewed a handout regarding changes to the
+various fund balances from fiscal year 2010 to fiscal year 2022.
+Council Member Brems stated the fund balance and why it is important is
+confusing to understand.
+Ms. Dudley stated the rules for state and local government accounting require that
+revenues are equal to expenditures. The anticipated revenue and expenditures need to be the
+same amount to be a balanced budget. If the estimated revenues are lower than the estimated
+expenditures, then the difference needs to be made up through the fund balance. The fund
+balance is essentially a savings account or “piggy bank”. The fund balance comes from previous
+revenues.
+She was asked to create a city-like budget, a way for member entities to understand where the
+money is going for each precinct. In fiscal year 2020, funds were created for each precinct; shared
+services, Millcreek, Holladay, Midvale, SLVLESA (Emigration Canyon, Copperton, White City,
+Kearns, and Magna Metro Townships, Town of Brighton, and unincorporated Salt Lake County)
+and countywide – Salt Lake County. UPD will tell SLVLESA how much it needs to fund each
+precinct and then SLVLESA cuts a check to UPD.
+Deputy Mayor Hawkes asked if SLVLESA is where the metro townships sit.
+Lake County.
+
+Ms. Dudley stated yes, including the Town of Brighton and unincorporated Salt
+
+1
+
+DATE
+
+THURSDAY
+
+APRIL
+
+28, 2022
+
+Council Member Brems stated the cost of an officer for Emigration Canyon is
+approximately $125,000 a year, UPD shared services is approximately $125,000 a year.
+Emigration Canyon pays roughly $250,000 a year for Detective Jake Elsasser and other services.
+themselves.
+
+Ms. Dudley stated she would like to take a minute and have everyone introduce
+Frank Nakamura, Administrator, SLVLESA, introduced himself.
+
+Chief Jason Mazuran, UPD, introduced himself and explained the organizational
+structure of UPD. The UPD Board consists of elected officials that represent participating
+communities. The executive management is Sheriff Rosie Rivera, CEO, Undersheriff Jake
+Peterson, Chief of Staff, and Jason Mazuran, COO. They take direction from the UPD Board and
+work with command staff to make sure operations get carried out in a cost effective and efficient
+manner.
+Council Member Brems stated he is hoping to address several concerns in
+Emigration Canyon. When he first joined the UPD Board, there was not a lot of transparency on
+how much Emigration Canyon contributes compared to services it receives. Since he has been
+asking questions, he has been able to see what those costs are; however, when asked about
+where the rest of the funds goes, he has not been given an acceptable answer.
+During COVID, people started going outside to recreate more in Emigration Canyon. The road
+that runs through the canyon has become a real problem with speeding vehicles and noise
+pollution. Detective Elsasser is in the canyon for 40 hours a week or less during normal business
+hours. There are six months out of the year that the canyon does not need Detective Elsasser
+more than that. When the weather warms up the canyon sees a lot of cyclists, motorcycles, car
+clubs, etc. that use the canyon on weekdays after 5:00 p.m. and on weekends. During these times
+there are a lot of problems occurring and there is not an officer to enforce them. This has been
+brought to UPD’s attention several times and it needs to be discussed again. There should be an
+option for Emigration Canyon to negotiate service levels and costs. Can Mr. Nakamura negotiate
+a better deal for Emigration Canyon, something different than what it is currently receiving.
+Mr. Nakamura stated SLVLESA operates as a whole, not as individual
+memberships. Salt Lake County and Kennecott contribute 41 percent of the total revenue to
+SLVLESA and that money goes into a pool for everyone to use. SLVLESA is one unit that is based
+on economy of scales. The difficulty is breaking down the benefit of shared services.
+Council Member Brems stated if Emigration Canyon wanted to negotiate a deal
+with Salt Lake City Police, could SLVLSEA help with those negotiations. He does not feel that
+Emigration Canyon is getting what it needs for the amount it pays. Better service is needed in the
+canyon.
+Ms. Dudley stated Emigration Canyon would need to deannex from SLVLESA.
+Chief Mazuran stated Council Member Brems could approach the SLVLESA
+Board and express its need for an additional officer in the canyon.
+Mr. Nakamura stated Council Member Brems is free to bring his concerns up to
+the Board. The Board would then need to provide direction on what it wants to do.
+2
+
+DATE
+
+THURSDAY
+
+APRIL
+
+28, 2022
+
+Deputy Mayor Hawkes stated when she served on the Board, it would discuss
+the needs of its members, and then there would be negotiations. How does it work if Emigration
+Canyon needs more services?
+Mr. Nakamura stated the focus should be on the need for more services rather
+than focusing on how much revenue is being generated.
+Ms. Dudley stated Chief Wayne Dial needs to be involved in the conversation. He
+would make a request to the SLVLSEA Board at which time it would decide whether to fund
+another officer.
+Council Member Brems stated there is a problem that is not being solved and he
+believes there is enough money to solve the problem.
+Mr. Nakamura stated the SLVLESA Board has the authority to amend the budget
+to fund an additional officer. The request for an additional officer can be made to the Board and it
+would need to agree to pay for the additional officer.
+for six months.
+
+Deputy Mayor Hawkes asked to be provided with the cost of an additional officer
+
+Ms. Dudley stated Chief Dial needs to be involved in the conversation so he can
+help with that cost estimate and present the information to the SLVLESA Board.
+Deputy Mayor Hawkes stated there is data to backup the concerns that are being
+expressed. Data shows that 35,000 cyclists visit the canyon in a six-month period. That number
+does not include the residents that live in the canyon or other types of visitors.
+Ms. Dudley stated she is not involved in the operations, that would be something
+that Chief Mazuran and Chief Dial would need to be involved with. If the SLVLESA Board
+approves the expenditure, UPD can respond right away.
+Mayor Smolka stated there might be a simpler solution. Detective Elsasser works
+four days, each with ten-hour shifts. Some of those hours could be shifted to cover weeknights
+and weekends. There is not much going on between 9:00 a.m. – 3:00 p.m. Whether it is Detective
+Elsasser or another office, the hours that someone is in the canyon can be shifted.
+Council Member Brems stated it would be great if the hours could be shifted;
+however, he believes the canyon needs another officer also.
+Chief Mazuran asked what 6-month period would Emigration Canyon need an
+additional officer, May – September?
+warmer.
+
+Deputy Mayor Hawkes stated as soon as the snow melts and the weather gets
+
+Council Member Brems stated an additional officer would need to be in the
+canyon when the weather becomes warmer, after 5:00 p.m., and on weekends. The noise
+ordinance cannot be enforced. Detective Elsasser pulls over motorcycles for modified mufflers.
+3
+
+DATE
+
+THURSDAY
+
+APRIL
+
+28, 2022
+
+Vehicles making the most noise are generally speeding, there are multiple infractions when there
+is excessive noise coming from a vehicle. There are 1,600 homes in Emigration Canyon, these
+nuisances are coming through the neighborhoods.
+Mayor Smolka stated a solution needs to be determined, whether that is additional
+manpower, a shift in hours, or coming up with something entirely different.
+Chief Mazuran stated he has some thoughts that he will speak to Chief Dial about.
+Mayor Smolka asked if the fund balance has a cap of 25 percent.
+Ms. Dudley stated the legislature raised it to 35 percent for the general fund. She
+reviewed the following budget items:
+ Fiscal year 2020 and 2021 fund balance by component for shared services, precincts, and
+countywide.
+ History of UPD change in fund balance for fiscal years 2010-2021 (audited) through 2022
+(projected).
+Council Member Brems stated going forward with the current tax structure and
+the amount of revenue, funding is going to run out. A lobbyist was at the state legislature this year
+discussing funding options, it did not approve a change in formula or a tax increase. In the next
+three to five years, it could get really serious, and the legislature is the only one that can control
+the funding.
+Deputy Mayor Hawkes asked if the member cities are going to stay with UPD.
+leaving.
+
+Chief Mazuran stated there are no indicators right now that member cities are
+Ms. Dudley reviewed the following budget items:
+
+ Fiscal year 2023 draft member assessment with four different options if the member
+assessment percentage was increased.
+ Various UPD accounts 2021-2022 current year budget, 2022-2023 future year budget and
+an explanation of each account.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+_____________________________________________________
+MAYOR, EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+4
+
+DATE
+
+THURSDAY
+
+APRIL
+
+28, 2022
+
+SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+By: ______________________________________
+Deputy Clerk
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+5
+
+

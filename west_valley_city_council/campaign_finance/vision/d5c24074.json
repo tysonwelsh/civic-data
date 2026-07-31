@@ -1,0 +1,39 @@
+{
+ "contributions": [
+  {
+   "date": "07/19/2023",
+   "name": "James Fenn (loan)",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/16/2023",
+   "name": "June Blauvelt",
+   "amount": "25.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "07/28/23",
+   "recipient": "Squarespace",
+   "purpose": "Website",
+   "amount": "24.78"
+  },
+  {
+   "date": "07/28/23",
+   "recipient": "Squarespace",
+   "purpose": "Website Domain",
+   "amount": "21.55"
+  },
+  {
+   "date": "08/25/23",
+   "recipient": "Alphagraphics",
+   "purpose": "Printing",
+   "amount": "24.46"
+  }
+ ],
+ "total_contributions": "125.00",
+ "total_expenditures": "70.79",
+ "ending_balance": "78.67"
+}

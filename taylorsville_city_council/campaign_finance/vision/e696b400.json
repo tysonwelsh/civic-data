@@ -1,0 +1,14 @@
+{
+  "contributions": [
+    {"date": "10/30/2021", "name": "R and D Properties, LLC", "amount": "300.00", "in_kind": false},
+    {"date": "10/31/2021", "name": "Armstrong & Company PC", "amount": "200.00", "in_kind": false},
+    {"date": "11/6/2021", "name": "Michael Waddoups", "amount": "500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/6/2021", "recipient": "Bob Knudsen Loan Advance", "purpose": "Repay Personal Loan (Credit Card Payments Made)", "amount": "887.71", "in_kind": false}
+  ],
+  "total_contributions": "1,000.00",
+  "total_expenditures": "887.71",
+  "beginning_balance": "0",
+  "ending_balance": "112.29"
+}

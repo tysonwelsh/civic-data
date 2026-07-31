@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": "11/3/21", "name": "Paul B Crookston", "amount": "50.00", "in_kind": false},
+    {"date": "11/1/21", "name": "Mike & Peggy Dalton", "amount": "100.00", "in_kind": false},
+    {"date": "11/2/21", "name": "Amy Hodges", "amount": "420.88", "in_kind": false},
+    {"date": "10/27/21", "name": "Katie Fisher", "amount": "50.00", "in_kind": false},
+    {"date": "11/5/21", "name": "Lorin & Christi Palmer", "amount": "10,800.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/27/21", "recipient": "Salt Lake Mailing", "purpose": "Mailer", "amount": "3291.24", "in_kind": false},
+    {"date": "11/5/21", "recipient": "Real Food Services", "purpose": "Election Night Catering", "amount": "1170.88", "in_kind": false},
+    {"date": "11/8/21", "recipient": "Majority 51", "purpose": "Facebook, YouTube Ads", "amount": "157.50", "in_kind": false},
+    {"date": "11/8/21", "recipient": "Majority 51", "purpose": "Consulting", "amount": "7000.00", "in_kind": false}
+  ],
+  "total_contributions": "11,420.88",
+  "total_expenditures": "11,619.62",
+  "contributions_50_or_less": null,
+  "beginning_balance": "454.32",
+  "ending_balance": "255.58",
+  "_meta": {
+    "index_path": "raw/2453_Lorin-PalmerMayor.pdf",
+    "candidate": "Lorin Palmer",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2453_Lorin-PalmerMayor.pdf",
+    "pages": 5,
+    "notes": "Summary (final) report; Type-of-Report box checked = 'REPORT - NOT Eliminated by Primary / No later than 30 days after the date of the Municipal Election - December 2, 2021'. Signature dated 11/10/21. Office: Mayor, At-large. Schedule A and all Summary/Schedule figures are HANDWRITTEN. CONTRIBUTION-TOTAL DISCREPANCY: Schedule A 'SUBTOTAL FOR THIS PAGE' reads 11,420.88 but the 'TOTAL CONTRIBUTIONS RECEIVED' line just below reads 11,420.98 (one-digit clerk mismatch); the Summary Page line 1 Column A (11,420.88) and the balance arithmetic (454.32 + 11,420.88 = 11,875.20 - 11,619.62 = 255.58) both use 11,420.88, so total_contributions recorded as '11,420.88'. Summary Page Column A (Total this Period): line 3 Beginning Balance 454.32, line 5 Subtotal 11,875.20, line 7 Close Balance 255.58 (recorded as ending_balance). Summary Page Column B (Year-to-Date): line 1 Contributions 32,038.06, line 2 Expenditures 31,782.48, line 3 Beginning 0, line 4 Contributions 32,038.06, line 5 Subtotal 32,038.06, line 6 Expenditures 31,782.48, line 7 Ending 255.58. Schedule B total $11,619.62 (four line items). Schedule C page attached but BLANK (no in-kind contributions). Amounts recorded verbatim (thousands commas preserved as printed, e.g. '10,800.00'; '$' dropped). Herriman form has no '$50 or less' aggregate line -> contributions_50_or_less null."
+  }
+}

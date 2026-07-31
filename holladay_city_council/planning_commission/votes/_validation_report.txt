@@ -1,0 +1,104 @@
+HOLLADAY PlanningCommission — VOTE VALIDATION REPORT
+================================================================
+Meetings (json):        71
+Motions:                328  (named 204, tally-only/consent 124)
+JSON vote rows:         1262
+all_votes.csv rows:     1262   reconcile: OK
+Per-body motions:       {'PlanningCommission': 328}
+Motion types:           {'Procedural': 156, 'Land-Use/Zoning': 104, 'Other': 33, 'Ordinance': 28, 'Appointment': 4, 'Resolution': 3}
+Mayor vote rows:        0
+>7-voter parse flags: 0
+Named-roll size !=5/6:  29 (informational)
+Contested motions:      26
+
+RESULT: PASS
+
+-- Observed roster (member: first..last, rows) --
+   Ricks          2020-01-07..2021-06-15  rows=100
+   Mackin         2020-01-07..2022-07-12  rows=99
+   Lloyd          2020-01-21..2022-05-03  rows=97
+   Bradshaw       2020-01-07..2021-06-15  rows=90
+   Roach          2022-03-15..2026-04-28  rows=83
+   Cunningham     2022-08-16..2026-04-28  rows=72
+   Prince         2022-03-15..2026-04-28  rows=66
+   Layton         2020-01-07..2022-09-13  rows=62
+   Fonte          2024-01-09..2026-04-28  rows=61
+   Berndt         2024-01-09..2026-04-28  rows=60
+   Holbrook       2020-01-07..2020-09-15  rows=59
+   Banks          2021-01-05..2022-10-04  rows=58
+   Gong           2024-01-09..2026-04-28  rows=57
+   Chris Layton   2020-08-18..2022-12-06  rows=49
+   Howard Layton  2020-08-18..2022-12-06  rows=49
+   Vilchinsky     2022-08-16..2025-06-24  rows=44
+   Carter         2020-04-21..2020-07-21  rows=16
+   Tripeny        2025-10-28..2026-04-28  rows=15
+   Howard Lloyd   2021-02-23..2021-02-23  rows=1
+
+-- Per-year observed voters --
+   2020: Ricks(60), Holbrook(59), Mackin(53), Bradshaw(53), Lloyd(49), Layton(47), Carter(16), Howard Layton(10), Chris Layton(10)
+   2021: Lloyd(41), Ricks(40), Bradshaw(37), Banks(36), Mackin(34), Howard Layton(29), Chris Layton(29), Layton(10), Howard Lloyd(1)
+   2022: Banks(22), Roach(20), Prince(19), Mackin(12), Chris Layton(10), Vilchinsky(10), Cunningham(10), Howard Layton(10), Lloyd(7), Layton(5)
+   2024: Fonte(34), Cunningham(33), Berndt(32), Roach(29), Vilchinsky(24), Gong(22), Prince(21)
+   2025: Cunningham(22), Gong(22), Roach(21), Berndt(19), Fonte(15), Prince(14), Vilchinsky(10), Tripeny(8)
+   2026: Gong(13), Roach(13), Prince(12), Fonte(12), Berndt(9), Tripeny(7), Cunningham(7)
+
+-- Contested motions (26) --
+   2022-10-04 [PlanningCommission] m2 | The motion passed (4-1). | Cunningham=Aye Vilchinsky=Aye Roach=Aye Prince=Aye Banks=Nay :: recommend to deny agenda item 2 an application to amend the 
+   2022-08-30 [PlanningCommission] m1 | The motion passed 5-to-1. | Cunningham=Aye Vilchinsky=Aye Banks=Nay Roach=Aye Prince=Aye Layton=Aye :: the Planning Commission forward the Moderate-Income Housing 
+   2025-01-07 [PlanningCommission] m1 | The motion passed unanimously. | Cunningham=Aye Vilchinsky=Aye Fonte=Aye Roach=Aye Gong=Recuse Berndt=Aye Prince=Aye :: APPROVE the Preliminary Plat application by Ashley Woolley f
+   2024-10-01 [PlanningCommission] m1 | The motion passed unanimously. | Prince=Aye Fonte=Aye Vilchinsky=Aye Cunningham=Aye Gong=Recuse Roach=Aye :: forward a recommendation to the City Council to APPROVE an a
+   2024-04-16 [PlanningCommission] m1 | The motion passed with a vote of 4-to-2. | Berndt=Aye Gong=Aye Fonte=Aye Vilchinsky=Aye Cunningham=Nay Roach=Nay :: forward a recommendation to the City Council to APPROVE an a
+   2024-04-16 [PlanningCommission] m2 | The motion passed with the unanimous consent  | Berndt=Aye Gong=Abstain Fonte=Aye Vilchinsky=Aye Cunningham=Aye Roach=Aye :: APPROVE the February 6, 2024, Meeting Minutes
+   2024-08-20 [PlanningCommission] m1 | The motion passed with a vote of 6-to-1. | Berndt=Nay Gong=Aye Prince=Aye Fonte=Aye Vilchinsky=Aye Cunningham=Aye Roach=Aye :: forward a NEGATIVE recommendation to the City Council to den
+   2024-03-19 [PlanningCommission] m2 | The motion passed. | Berndt=Aye Fonte=Aye Cunningham=Aye Vilchinsky=Aye Roach=Abstain :: forward a recommendation to the City Council to APPROVE an a
+   2026-04-28 [PlanningCommission] m1 | The motion passed with a vote of 5-to-2. | Berndt=Aye Gong=Aye Prince=Aye Fonte=Nay Tripeny=Aye Cunningham=Aye Roach=Nay :: forward a recommendation to the City Council to APPROVE an a
+   2026-03-24 [PlanningCommission] m1 | The motion passed 4-to-1. | Cunningham=Aye Berndt=Aye Tripeny=Aye Gong=Nay Roach=Aye :: APPROVE the Preliminary Site Development and Building Design
+   2026-01-06 [PlanningCommission] m1 | The motion passed. | Berndt=Nay Gong=Nay Prince=Aye Fonte=Aye Tripeny=Nay Cunningham=Aye Roach=Aye :: forward a recommendation to the City Council to DENY an appl
+   2021-02-23 [PlanningCommission] m2 | The motion passed 4-to-1. | Ricks=Nay Mackin=Aye Lloyd=Aye Howard Lloyd=Aye Bradshaw=Aye :: forward a positive recommendation to the City Council that t
+   2021-05-04 [PlanningCommission] m2 | The motion passed 3-to-2. | Ricks=Nay Banks=Nay Howard Layton=Aye Lloyd=Aye Chris Layton=Aye :: recommend approval of a Conditional Use Permit for a 100-foo
+   2021-03-16 [PlanningCommission] m5 | The motion passed unanimously with one absten | Chris Layton=Aye Ricks=Aye Mackin=Aye Lloyd=Aye Howard Layton=Abstain Banks=Aye Bradshaw=Aye :: approve the minutes of February 9, 2021, with the correction
+   2021-04-06 [PlanningCommission] m6 | The motion passed unanimously with two absten | Chris Layton=Abstain Ricks=Aye Mackin=Aye Lloyd=Aye Howard Layton=Aye Banks=Abstain Bradshaw=Aye :: approve the minutes of February 23, 2021, as modified
+   2021-03-02 [PlanningCommission] m3 | The motion passed 4-to-3. | Chris Layton=Aye Ricks=Aye Mackin=Nay Lloyd=Nay Howard Layton=Nay Banks=Aye Bradshaw=Aye :: deny the request for a Zone Map Amendment from R-1-10 to R- 
+   2020-07-07 [PlanningCommission] m1 | The motion passed 3-to-1. | Mackin=Aye Bradshaw=Nay Lloyd=Aye Ricks=Aye :: continue the matter to the next meeting where they can get f
+   2020-04-21 [PlanningCommission] m1 | The motion passed 6-to-1. | Lloyd=Aye Carter=Aye Bradshaw=Aye Layton=Aye Holbrook=Aye Mackin=Nay Ricks=Aye :: approve the Conceptual Subdivision proposal from Jeff Krucke
+   2020-05-19 [PlanningCommission] m1 | The motion failed 3-to-3. | Mackin=Nay Holbrook=Nay Layton=Aye Carter=Aye Lloyd=Aye Ricks=Nay :: approve the Conditional Use Permit for Weyburn Retreat subje
+   2020-05-19 [PlanningCommission] m2 | The motion carried 4-to-2. | Layton=Nay Carter=Aye Lloyd=Aye Holbrook=Aye Mackin=Aye Ricks=Nay :: approve the Conditional Use Permit for Weyburn Retreat subje
+   2020-05-19 [PlanningCommission] m3 | The motion passed 5-to-1. | Holbrook=Aye Layton=Aye Carter=Aye Lloyd=Aye Mackin=Aye Ricks=Nay :: approve the preliminary plat for the Weyburn Retreat Subdivi
+   2020-01-21 [PlanningCommission] m2 | The motion passed, 4 to 2. | Holbrook=Nay Bradshaw=Nay Mackin=Aye Layton=Aye Lloyd=Aye Ricks=Aye :: the special exception for property located at 4932 South Wai
+   2020-06-02 [PlanningCommission] m5 | The motion passed unanimously with one absten | Lloyd=Abstain Layton=Aye Holbrook=Aye Mackin=Aye Bradshaw=Aye Ricks=Aye :: approve the minutes of Tuesday, April 7, 2020, as amended
+   2020-05-05 [PlanningCommission] m1 | The motion passed 4-to-1. | Holbrook=Aye Mackin=Aye Carter=Aye Layton=Nay Ricks=Aye :: continue the request for a Conditional Use Permit for Weybur
+   2020-09-01 [PlanningCommission] m3 | The motion passed 5-to-1. | Mackin=Aye Chris Layton=Aye Holbrook=Aye Bradshaw=Aye Howard Layton=Aye Ricks=Nay :: approve the Final Site Plan for the Holladay Hotel, LLC, Ste
+   2020-08-04 [PlanningCommission] m5 | The motion passed 4-to-1. | Layton=Aye Lloyd=Aye Bradshaw=Aye Holbrook=Aye Ricks=Nay :: approve the preliminary site plan for the Holladay Hotel, LL
+
+-- Named-roll size deviations (29) — first 40 --
+   2022-09-13 [PlanningCommission] m1 roll=4 [('Prince', 'Aye'), ('Roach', 'Aye'), ('Layton', 'Aye'), ('Banks', 'Aye')] :: APPROVE the Concept Plat Application submitted by Jonat
+   2022-04-05 [PlanningCommission] m1 roll=4 [('Lloyd', 'Aye'), ('Roach', 'Aye'), ('Banks', 'Aye'), ('Mackin', 'Aye')] :: continue the “Gunderson Residence” - Site Plan - 5618 S
+   2022-04-05 [PlanningCommission] m2 roll=4 [('Lloyd', 'Aye'), ('Banks', 'Aye'), ('Roach', 'Aye'), ('Mackin', 'Aye')] :: approve the Conceptual Plan and Preliminary Plat applic
+   2022-04-05 [PlanningCommission] m3 roll=4 [('Lloyd', 'Aye'), ('Banks', 'Aye'), ('Roach', 'Aye'), ('Mackin', 'Aye')] :: approve the Planned Unit Development permit for ownersh
+   2022-04-05 [PlanningCommission] m4 roll=4 [('Lloyd', 'Aye'), ('Banks', 'Aye'), ('Roach', 'Aye'), ('Mackin', 'Aye')] :: approve the Preliminary Plat application by Ron Hilton 
+   2025-06-24 [PlanningCommission] m1 roll=4 [('Cunningham', 'Aye'), ('Vilchinsky', 'Aye'), ('Gong', 'Aye'), ('Prince', 'Aye')] :: APPROVE a Site Plan Amendment to the “Highland Park” Pl
+   2024-06-04 [PlanningCommission] m1 roll=4 [('Cunningham', 'Aye'), ('Gong', 'Aye'), ('Vilchinsky', 'Aye'), ('Roach', 'Aye')] :: CONTINUE the application for the ‘Brinton House’ Histor
+   2021-06-01 [PlanningCommission] m2 roll=4 [('Chris Layton', 'Aye'), ('Lloyd', 'Aye'), ('Howard Layton', 'Aye'), ('Bradshaw', 'Aye')] :: the City of Holladay Planning Commission approve the ap
+   2021-06-01 [PlanningCommission] m3 roll=4 [('Chris Layton', 'Aye'), ('Lloyd', 'Aye'), ('Howard Layton', 'Aye'), ('Bradshaw', 'Aye')] :: the City of Holladay Planning Commission approve the Co
+   2021-06-01 [PlanningCommission] m4 roll=4 [('Chris Layton', 'Aye'), ('Lloyd', 'Aye'), ('Howard Layton', 'Aye'), ('Bradshaw', 'Aye')] :: approve the Clarenden Woods Subdivision Plat Amendment 
+   2020-07-07 [PlanningCommission] m1 roll=4 [('Mackin', 'Aye'), ('Bradshaw', 'Nay'), ('Lloyd', 'Aye'), ('Ricks', 'Aye')] :: continue the matter to the next meeting where they can 
+   2020-07-07 [PlanningCommission] m2 roll=4 [('Lloyd', 'Aye'), ('Bradshaw', 'Aye'), ('Mackin', 'Aye'), ('Ricks', 'Aye')] :: approve the minutes of May 19, 2020, as modified. The m
+   2020-05-05 [PlanningCommission] m2 roll=4 [('Mackin', 'Aye'), ('Carter', 'Aye'), ('Holbrook', 'Aye'), ('Ricks', 'Aye')] :: approve the Conditional Use Permit for the Cotton Botto
+   2020-05-05 [PlanningCommission] m3 roll=4 [('Mackin', 'Aye'), ('Carter', 'Aye'), ('Holbrook', 'Aye'), ('Ricks', 'Aye')] :: approve the preliminary site plan for Cotton Bottom bas
+   2020-02-04 [PlanningCommission] m2 roll=4 [('Layton', 'Aye'), ('Lloyd', 'Aye'), ('Mackin', 'Aye'), ('Ricks', 'Aye')] :: take the agenda items out of order and next address ite
+   2020-02-04 [PlanningCommission] m3 roll=4 [('Mackin', 'Aye'), ('Lloyd', 'Aye'), ('Layton', 'Aye'), ('Ricks', 'Aye')] :: recommend approval of the preliminary PUD Plat amending
+   2020-02-04 [PlanningCommission] m4 roll=4 [('Mackin', 'Aye'), ('Lloyd', 'Aye'), ('Layton', 'Aye'), ('Ricks', 'Aye')] :: approve the minutes of January 14, 2019, as modified
+   2020-02-04 [PlanningCommission] m5 roll=4 [('Mackin', 'Aye'), ('Layton', 'Aye'), ('Lloyd', 'Aye'), ('Ricks', 'Aye')] :: approve the minutes of November 19, 2019
+   2020-02-04 [PlanningCommission] m6 roll=4 [('Layton', 'Aye'), ('Lloyd', 'Aye'), ('Mackin', 'Aye'), ('Ricks', 'Aye')] :: approve the meeting minutes of the Planning Commission 
+   2020-02-04 [PlanningCommission] m7 roll=4 [('Lloyd', 'Aye'), ('Layton', 'Aye'), ('Mackin', 'Aye'), ('Ricks', 'Aye')] :: approve the meeting minutes of January 7, 2020, as modi
+   2020-02-18 [PlanningCommission] m1 roll=4 [('Layton', 'Aye'), ('Holbrook', 'Aye'), ('Bradshaw', 'Aye'), ('Ricks', 'Aye')] :: approve the conceptual and preliminary site plan for th
+   2020-02-18 [PlanningCommission] m2 roll=4 [('Bradshaw', 'Aye'), ('Holbrook', 'Aye'), ('Layton', 'Aye'), ('Ricks', 'Aye')] :: recommend approval to the City Council of the HCR Zone 
+   2020-02-18 [PlanningCommission] m3 roll=4 [('Layton', 'Aye'), ('Holbrook', 'Aye'), ('Bradshaw', 'Aye'), ('Ricks', 'Aye')] :: approve the Holladay City Planning Commission Meeting m
+   2020-02-18 [PlanningCommission] m4 roll=4 [('Layton', 'Aye'), ('Holbrook', 'Aye'), ('Bradshaw', 'Aye'), ('Ricks', 'Aye')] :: approve the minutes of the City of Holladay Planning Co
+   2020-07-21 [PlanningCommission] m3 roll=4 [('Holbrook', 'Aye'), ('Lloyd', 'Aye'), ('Bradshaw', 'Aye'), ('Carter', 'Aye')] :: forward a positive recommendation to the City Council o
+   2020-07-21 [PlanningCommission] m5 roll=4 [('Holbrook', 'Aye'), ('Bradshaw', 'Aye'), ('Lloyd', 'Aye'), ('Carter', 'Aye')] :: approve the Conceptual and Preliminary Subdivision Plan
+   2020-07-21 [PlanningCommission] m7 roll=4 [('Lloyd', 'Aye'), ('Holbrook', 'Aye'), ('Bradshaw', 'Aye'), ('Carter', 'Aye')] :: approve the Conditional Use Permit for the“5420 South C
+   2020-07-21 [PlanningCommission] m10 roll=4 [('Holbrook', 'Aye'), ('Lloyd', 'Aye'), ('Bradshaw', 'Aye'), ('Carter', 'Aye')] :: amend the motion to eliminate condition number three
+   2020-07-21 [PlanningCommission] m11 roll=4 [('Holbrook', 'Aye'), ('Lloyd', 'Aye'), ('Bradshaw', 'Aye'), ('Carter', 'Aye')] :: approve the conceptual and preliminary subdivision plat
+
+-- Mayor vote rows (sample 20 of 0) --

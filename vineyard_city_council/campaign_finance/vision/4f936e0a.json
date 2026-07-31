@@ -1,0 +1,37 @@
+{
+ "contributions": [
+  {
+   "date": "11/26/2021",
+   "name": "Mardi Sifuentes",
+   "amount": ".80",
+   "in_kind": false
+  },
+  {
+   "date": null,
+   "name": "Remaining-previous contributions",
+   "amount": "85.65",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "11/02/2021",
+   "recipient": "Winco",
+   "purpose": "Party food",
+   "amount": "56.45"
+  },
+  {
+   "date": "11/26/2021",
+   "recipient": "Crunchy Lemons",
+   "purpose": "Website Management",
+   "amount": "30.00"
+  }
+ ],
+ "contributions_under_500": "85.65",
+ "contributions_itemized": null,
+ "total_contributions": null,
+ "expenditures_under_500": "86.45",
+ "expenditures_itemized": null,
+ "total_expenditures": null,
+ "ending_balance": "0"
+}

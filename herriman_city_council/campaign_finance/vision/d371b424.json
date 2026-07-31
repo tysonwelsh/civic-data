@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "6/7/2021", "name": "Nicole Grange", "amount": "25.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/7/2021", "recipient": "Herriman City", "purpose": "Filing Fee", "amount": "25.00", "in_kind": false}
+  ],
+  "total_contributions": "25.00",
+  "total_expenditures": "25.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2095_Grange-Nicole.pdf",
+    "candidate": "Nicole Grange",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2095_Grange-Nicole.pdf",
+    "pages": 5,
+    "notes": "Primary interim report (Type of Report box checked: 'REPORT - Primary, No later than seven days before the date of a Municipal Election, August 3, 2021'); signature dated 8/3/2021; For-Office-Use stamp: Date Received 8/3/2021, Time Received 1:50 p.m. Office Seeking = Mayor, District = At Large. Born-digital typed form. Schedule A (page 2): single contribution, 6/7/2021 Nicole Grange (self), 5376 W Kuna Peak Place Herriman, UT 84096, printed '$25.00'. Schedule B (page 3): single expenditure, 6/7/2021 Herriman City, Filing Fee, printed '$25.00'. Summary Page (page 4): Column A (Total this Period) filled, Column B (Year-to-Date) entirely blank; Balance at Beginning = '$0'; ANOMALY - line 5 '= Subtotal' cell prints '$0' (filer error; should be 25.00 = 0 beginning + 25.00 contributions) while line 7 'Balance at Close of Reporting Period' prints '$0' (correct after subtracting 25.00 expenditures); Schedule C row on the summary marked 'None'. Schedule C (page 5) blank - no in-kind contributions. Amounts/balances recorded as numeric strings; the form prints a '$' prefix ('$25.00', '$0') stripped here for consistency with the cache convention."
+  }
+}

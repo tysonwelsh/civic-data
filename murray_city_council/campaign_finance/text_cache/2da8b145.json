@@ -1,0 +1,23 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Google Suite", "purpose": null, "amount": "42.54", "in_kind": false},
+    {"date": null, "recipient": "Squarespace", "purpose": null, "amount": "64.59", "in_kind": false},
+    {"date": null, "recipient": "FedEx", "purpose": null, "amount": "68.49", "in_kind": false}
+  ],
+  "total_contributions": "0.00",
+  "total_expenditures": "175.62",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/202508_Aaron-Lee-Holbrook_17146.xlsx",
+    "candidate": "Aaron Lee Holbrook",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "reporting_period": "Pre-Primary (Jan 1 - Jul 31, 2025)",
+    "extraction_method": "native .xlsx read via openpyxl (data_only)",
+    "reconcile_note": "Schedule B itemized (42.54+64.59+68.49) foots to printed TOTAL 175.62; Schedule A and Schedule C are empty (0). Native workbook: Section 3 'Balance at Close of Reporting Period' and both '$500 or less' cells left blank ('$'). Appears to DUPLICATE docid 17144 (filing 25196725) — same September 2025 post-primary statement (server filename says 09_2025; Schedule B matches). Transcribed the xlsx's own contents verbatim; NOT merged with 17144."
+  }
+}

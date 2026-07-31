@@ -1,0 +1,18 @@
+{
+  "contributions": [
+    {"date": "10/24/19", "name": "REGAN SIGNS", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/10/19", "recipient": "SALT LAKE COUNTY", "purpose": "FILING FEE", "amount": "50.00", "in_kind": false},
+    {"date": "10/3/19", "recipient": "COLOR TRANSFER INC", "purpose": "SIGNS", "amount": "120.00", "in_kind": false}
+  ],
+  "total_contributions": "100.00",
+  "total_expenditures": "170.00",
+  "total_contributions_ytd": "100.00",
+  "total_expenditures_ytd": "170.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "200.00",
+  "ending_balance": "130.00",
+  "_meta": {"index_path": "raw/patrick_schaeffer_trip_kearns1.pdf", "candidate": "Patrick Daniel Schaeffer", "office": "Metro Township Council District 1", "filing_type": "interim", "election_year": "2019", "reporting_period": "Report prior to general election (October)", "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/patrick_schaeffer_trip_kearns1.pdf", "pages": 4},
+  "_notes": "Handwritten form. Cover name 'PATRICK D. SCHAEFFER', KEARNS, Council #1, report date 10/29/19 (received Oct 29 2019). Type of Report: THREE boxes checked on cover (August 6, September 16, October 29) but this is a single physical October filing (itemization pages match: 10/24/19 contribution). PDF page order is scrambled vs form pagination: PDF p1=cover, p2=Itemized Contributions (form 'page 2 of 3'), p3=Itemized Expenditures ('page 3 of 3'), p4=Summary ('page 1 of 3'). Summary Column B (Year to Date) filled = same as Column A. No in-kind marker on form; REGAN SIGNS $100 contribution left in_kind=false (not inferred)."
+}

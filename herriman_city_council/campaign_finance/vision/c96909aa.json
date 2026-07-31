@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "10/06/25", "name": "Salt Lake Board of Realtors", "amount": "2500.00", "in_kind": true},
+    {"date": "10/23/25", "name": "Sam Winkler", "amount": "60.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "10/03/25", "recipient": "Google", "purpose": "GSuite", "amount": "9.03", "in_kind": false},
+    {"date": "10/06/25", "recipient": "Sun Lighographing", "purpose": "Direct Mail Advertising", "amount": "799.51", "in_kind": false},
+    {"date": "10/10/25", "recipient": "Sun Lithographing", "purpose": "Direct Mail Advertising", "amount": "885.24", "in_kind": false}
+  ],
+  "total_contributions": "0.00",
+  "total_expenditures": "1693.78",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1778.47",
+  "ending_balance": "84.69",
+  "_meta": {
+    "index_path": "raw/5802_District-3Matt-Basham.pdf",
+    "candidate": "Matt Basham",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/5802_District-3Matt-Basham.pdf",
+    "pages": 5,
+    "notes": "VISION-transcribed (Read-tool, $0 API) 2026-07-19 — the CF-STRUCTURING PACKAGE Basham x2 tranche. Born-digital PDF whose §10-3-208 Schedule A/B section headers did NOT render in pdftotext -layout (deferred by build_finance.py 2026-07-17, docid 5802); recovered here via page-image vision. Type-of-report box: 'REPORT - General Election / No later than seven days before... October 28, 2025' -> interim (Pre-General 7-day). Signed 10/27/25; For-Office-Use stamp Date Received 10/27/2025, 11:24 a.m. Office 'City Council' District Three. Schedule A: EMPTY this period (SUBTOTAL and TOTAL CONTRIBUTIONS RECEIVED both = 0.00) -> zero cash contribution rows; total_contributions 0.00 reconciles. Schedule B: 3 itemized expenditures (Google GSuite 9.03; two Sun Lithographing direct-mail 799.51 + 885.24), printed SUBTOTAL and TOTAL EXPENDITURES MADE both = 1693.78, itemized sum 1693.78 reconciles exactly. VERBATIM: the recipient on 10/06/25 is printed 'Sun Lighographing' (filer typo for Lithographing) — retained as printed. Schedule C: 2 in-kind rows (Salt Lake Board of Realtors $2500.00 digital advertising 10/06; Sam Winkler $60.00 yard sign frames 10/23) appended as in_kind=true; Herriman cover total counts CASH ONLY (reconcile_cash_only) so in-kind excluded. Summary Page Column A (Total this Period) used: beginning balance line 3 = 1778.47, close line 7 = 84.69. NOTE the filer's Column B (Year-to-Date) is internally inconsistent — line 2 YTD expenditures = 7739.31 but line 6 subtract-expenditures = 7736.31 (a $3.00 filer slip in the YTD column only); Column A this-period values (the report basis) are unaffected and are what is recorded. Contributor mailing addresses on the form are not part of the schema and were not recorded."
+  }
+}

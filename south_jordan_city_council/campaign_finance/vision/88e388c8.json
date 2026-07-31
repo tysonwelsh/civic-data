@@ -1,0 +1,14 @@
+{
+  "contributions": [
+    {"date":"11/15/2023","name":"Kathie Johnson","city":"South Jordan","state":"UT","amount":"1500.00","in_kind":false},
+    {"date":"12/20/2023","name":"Doug Winder","city":"South Jordan","state":"UT","amount":"50.00","in_kind":false}
+  ],
+  "expenditures": [
+    {"date":"11/15/2023","recipient":"Assured Direct Mail","purpose":"Mailer","amount":"1323.91","in_kind":false},
+    {"date":"11/19/2023","recipient":"American Pulse","purpose":"Text","amount":"472.92","in_kind":false}
+  ],
+  "total_contributions": "1550.00",
+  "total_expenditures": "1796.83",
+  "total_contributions_ytd": "13440.00",
+  "total_expenditures_ytd": "13247.02"
+}

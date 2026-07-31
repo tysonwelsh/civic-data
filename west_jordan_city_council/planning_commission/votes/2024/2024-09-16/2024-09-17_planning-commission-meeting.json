@@ -1,0 +1,81 @@
+{
+ "date": "2024-09-17",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-09-16/2024-09-17_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes from September 3, 2024",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "5:0 Pass",
+   "mover": "Emily Gonzalez",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to forward a positive recommendation to City Council for Copper Rim Phase 3B Deferral Agreement",
+   "motion_type": "Other",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:0",
+   "mover": "Tom Hollingsworth",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve a Conditional Use Permit for Restaurant, Fast Food (General) for a new commercial building located on .80 acres at 7739 South 5600 West subject to all requirements of approval",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Jay Thomas",
+   "seconder": "",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve the Preliminary Site Plan for a new commercial building, located on .80 acres of land at 7739 South 5600 West, subject to all conditions and requirements of approval",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Jay Thomas",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Trish Hatch"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "date": "2026-01-08",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2026/2026-01-05/2026-01-08_planning-commission-meeting.md",
+ "present": [
+  "Eldon Peterson",
+  "David Lewis",
+  "Sara Doutre",
+  "Jennifer Duncan",
+  "Sarah McNamara"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to conditionally approve a design review & subdivision permit for PC_ 26-001 with the amended conditions of approval as discussed and the",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Jennifer Duncan",
+   "aye": [
+    "Eldon Peterson",
+    "David Lewis",
+    "Sara Doutre",
+    "Jennifer Duncan",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Duncan made a motion to conditionally approve a Design Review Permit for PC 26-002 with the amended conditions of approval and findings for approval as listed below. Commissioner McNamara seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Jennifer Duncan",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Eldon Peterson",
+    "David Lewis",
+    "Sara Doutre",
+    "Jennifer Duncan",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes of the December 11, 2025, meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Sara Doutre",
+   "seconder": "Sarah McNamara",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 3
+  }
+ ]
+}

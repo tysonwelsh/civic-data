@@ -1,0 +1,142 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1763&doc_id=2c7278a4-8be7-11ef-ab4b-005056a89546
+> Meeting date: 2024-10-01
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, OCTOBER
+1, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:       Mayor Troy K. Walker, and Councilmembers Mike Green (left after Study
+               Session), Bryn Heather Johnson, Tasha Lowery, and Cal Roberts
+EXCUSED: Councilmember F. Lowry
+STAFF:         Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+               Scott Cooley, City Engineer; Spencer DuShane, Assistant City Attorney;
+               Rich Ferguson, Chief of Police; Jennifer Jastremsky, Community
+               Development Director; Malena Murray, Human Resources Director;
+               Rhett Ogden, Parks and Recreation Director; Laura Oscarson, City
+               Recorder; Linda Peterson, Communications Director; Clint Smith, Fire
+               Chief; Jake Sorensen, Network Manager; and John Vuyk, Finance
+               Director
+______________________________________________________________________________________
+
+Study Session
+
+      Closed Session
+
+      Councilmember Roberts moved to recess to a closed session to discuss
+      the purchase, exchange, or lease of real property.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry                        X
+       Councilmember Roberts            X
+
+Business Session
+
+1.      Call to Order by Mayor Troy K. Walker
+
+2.      Pledge of Allegiance by Jake Sorensen
+
+                                                                            1|Page
+        Draper City Council Approved Meeting Minutes – October 15, 2024
+3.    Public Comments
+      None
+
+4.    Consent Items
+4.a   Approval of September 3, 2024, and September 17, 2024, City Council
+      Meeting Minutes
+4.b   Approval of Resolution #24-48 disposing of property seized as evidence
+      in accordance to Utah Code Section 77-11a-402
+4.c   Approval of Resolution #24-50 amending the Consolidated Fee Schedule
+      of Draper City
+4.d   Approval of Resolution #24-52 approving an interlocal agreement with
+      Utah County and Lehi City, American Fork City, Alpine City, Draper City,
+      Highland City, and Cedar Hills City for the administration of the 2024
+      New School District Election
+
+      Councilmember T. Lowery moved to approve the Consent Items.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No Absent
+      Councilmember Green                           X
+      Councilmember Johnson            X
+      Councilmember T. Lowery          X
+      Councilmember F. Lowry                        X
+      Councilmember Roberts            X
+
+5.    Items for Council Consideration
+5.a   Public Hearing: Local Consent for a Limited-Service Restaurant License
+      for Ancient Recipe LLC dba Nawab's Indian Restaurant
+      Business License Official Travis DeJong explained the request for local
+      consent for a Limited-Service Restaurant License and said the application
+      met all distance requirements.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember T. Lowery moved to provide Local Consent for a
+      Limited-Service Restaurant License to Ancient Recipe LLC.
+      Councilmember Johnson seconded the motion.
+
+                                                                      2|Page
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green                           X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry                        X
+       Councilmember Roberts            X
+
+5.b    Public Hearing: Resolution #24-49 amending the adopted budget of
+       Draper City for Fiscal Year 2024/2025
+       Finance Director John Vuyk presented proposed amendments to the FY 2025
+       Budget and answered questions from the Council.
+
+       Mayor Walker opened a public hearing, and closed the public hearing
+       seeing no one come forward.
+
+       Councilmember Roberts moved to approve              Resolution   #24-49.
+       Councilmember T. Lowery seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green                           X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry                        X
+       Councilmember Roberts            X
+
+Council/Manager Reports (continued from Study Session)
+       • Assistant City Manager Kellie Challburg said staff met with
+         representatives of the Ivory Foundation regarding a possible charitable
+         donation to be used for affordable housing. The $100,000 donation
+         would require a $100,000 match from the City. Ms. Challburg said the
+         combined amount could be used to benefit City and School District
+         employees. A majority of the Council indicated support for moving
+         forward.
+       • Community Development Director Jen Jastremsky reported the Historic
+         Preservation Commission had scheduled a tour of the Native American
+         Preserve Monument on Monday, October 7, 2024.
+
+                                                                        3|Page
+     •   Public Works Director Scott Cooley spoke of a Suncrest Drive guardrail
+         project and answered questions from the Council.
+
+6.   Adjournment
+     Councilmember T. Lowery moved to adjourn the meeting.
+     Councilmember Johnson seconded the motion, which passed by
+     unanimous vote (3-0).
+
+     The meeting adjourned at 7:41 pm.
+
+
+
+
+                                                                      4|Page
+

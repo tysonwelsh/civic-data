@@ -1,0 +1,24 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "06/05/2019", "recipient": "County Clerk", "purpose": "Declaration of Candidacy", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": null,
+  "total_expenditures": "50.00",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/rubybrown2019.pdf",
+    "candidate": "Ruby Brown",
+    "office": "Metro Township Council District 3",
+    "filing_type": "interim",
+    "election_year": "2019",
+    "reporting_period": "Pre-primary interim (August)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/rubybrown2019.pdf",
+    "pages": 2
+  },
+  "_notes": "2-page PDF: cover (August 6 box checked) + Itemized Expenditures Made page (no Summary Page present). One expenditure line; TOTAL EXPENDITURES MADE = 50.00. No contributions page and no summary totals, so contribution/balance fields left null."
+}

@@ -1,0 +1,68 @@
+{
+ "date": "2025-08-06",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-08-04/2025-08-06_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "the pass the agenda",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "James Hawkes",
+   "seconder": "Mike Carpenter",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "forward a negative recommendation to City",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Recommendation",
+   "result": "Negative recommendation 5:0",
+   "outcome": "Passed",
+   "mover": "James Hawkes",
+   "seconder": "Mike Carpenter",
+   "names_recorded": true,
+   "aye": [
+    "Britton Runolfson",
+    "James Hawkes",
+    "Mike Carpenter",
+    "Madeline Komen",
+    "Rod Erickson"
+   ],
+   "nay": [],
+   "abstain": [
+    "Gerald Crismon"
+   ],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "adjourn,",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "Pass",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "James Hawkes",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

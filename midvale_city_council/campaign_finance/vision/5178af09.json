@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": null, "name": "MARK HOYT", "amount": "20.00", "in_kind": false},
+    {"date": null, "name": "RAINER LILBOK", "amount": "3.56", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "The Home Depot", "purpose": null, "amount": "3.56", "in_kind": false}
+  ],
+  "total_contributions": "23.56",
+  "total_expenditures": "3.56",
+  "contributions_50_or_less": "23.56",
+  "beginning_balance": "0",
+  "ending_balance": "20.00",
+  "_meta": {
+    "index_path": "raw/2025_17_Rainer-Lilbok.pdf",
+    "candidate": "Rainer Lilbok",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_17_Rainer-Lilbok.pdf",
+    "pages": 5
+  }
+}

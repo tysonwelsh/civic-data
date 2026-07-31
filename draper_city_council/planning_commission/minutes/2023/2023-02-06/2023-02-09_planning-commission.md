@@ -1,0 +1,270 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=667&doc_id=d13c49cc-b489-11ed-8145-0050569183fa
+> Meeting date: 2023-02-09
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, FEBRUARY 9, 2023 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Andrew Adams, Chairman
+                     Craig Hawker, Vice-Chair
+                     Commission Member Mary Squire
+                     Commission Member DeLaina Tonks
+                     Alternate Commission Member Susan Nixon
+                     Alternate Commission Member Tab Bingham
+
+ABSENT:              Commission Member Lisa Fowler
+                     Commission Member Gary Ogden
+                     Alternate Commission Member Kendra Shirey
+
+STAFF PRESENT:       Jennifer Jastremsky, Planning Manager
+                     Spencer DuShane, Assistant City Attorney
+                     Maryann Pickering, City Planner III
+                     Brien Maxfield, Senior Engineer Manager
+                     Amie Salazar, Office Manager
+
+6:30 PM Business Meeting
+
+Chair Adams called the meeting to order.
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for January 12, 2023,
+       (Administrative Action).
+
+Motion: Commissioner Tonks moved to APPROVE the January 12, 2023, Meeting Minutes.
+
+Second: Commissioner Squire.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+
+2.     Public Hearing: Cola’s Little Treaterie Home Occupation Conditional Use Permit
+       (Administrative Action).
+       On the request of Alexis Ao, for a Home Occupation Conditional Use Permit for a cottage
+       business making dehydrated dog treats with online sales located at 14118 S. Deer Arch
+       Lane. The property is 0.09 acres in size and located in the RM1 zone. Application: USE-
+       217-2022.     Staff    contact:      Maryann      Pickering    at   801-576-6391     or
+       maryann.pickering@draperutah.gov.
+
+City Planner III, Maryann Pickering, presented the Staff Report and stated that the property is
+located in Deer Run Preserve. The property is a single-family residence with a land use of
+Residential Medium-High Density in the RM1 Zone. The request is for a home occupation for a
+Draper City Planning Commission Meeting
+February 9, 2023
+Page 2
+
+cottage business. The applicant plans to make homemade dog treats with all of the work being
+done in the kitchen using typical household appliances. She will use a food dehydrator to dry out
+the meats and the treats that are made. All orders will be done online with the product shipped to
+the purchaser. No customers will come to the home. Staff received an email from someone who
+was opposed to the request, but they were under the impression that the use was to take place
+outside and that it would be a large commercial business. Another individual contacted
+Ms. Pickering as well asking for clarification. They were concerned that the work would be done
+outside. Ms. Pickering assured them that it would be done inside the home, which satisfied their
+concerns with the application.
+
+The applicant, Alexis Ao, reported that the product will be dehydrated dog treats made of beef,
+chicken, and salmon that will be sold online. The production process will not create any odors
+other than typical cooking.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Motion: Commissioner Squire moved to APPROVE the Home Occupation Conditional Use
+Permit as requested by Alexis Ao, Application USE-217-2022 subject to the following:
+
+Conditions:
+
+       1.      All requirements of the Draper City Fire Department, Building Division, and
+               Business License Division shall be satisfied throughout the operation of the
+               home occupation on the property.
+
+       2.      The home occupation is required to maintain approval and adequate licensure
+               from any and all necessary agencies.
+
+Findings:
+
+       1.      Reasonable mitigation measures can be placed on the conditional use to
+               alleviate anticipated detrimental effects.
+
+Second: Commissioner Hawker.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+Draper City Planning Commission Meeting
+February 9, 2023
+Page 3
+
+3.     Public Hearing: Simmons Lot Line Adjustment Plat Amendment Request
+       (Administrative Action).
+       On the request of Lahn Simmons, property owner, for approval to amend the Pheasant Hills
+       Phase 4 Plat in order to adjust the common property line between Lots 410, 412 and 413.
+       The three properties affected are approximately 1.163 acres in size and located at
+       approximately 2052 East Graystone Court. Staff contact: Maryann Pickering at 801-576-
+       6391 or maryann.pickering@draperutah.gov.
+
+Ms. Pickering presented the Staff Report and identified the location of the subject property on the
+east side of the City. The land use designation is Residential Medium Density with a zoning of
+RA2. The three lots identified have historically involved the use of each other’s property without
+the knowledge of the property owners until a recent survey was conducted. The purpose of the lot
+line adjustment was to correct errors that exist. All standards will be met and there will be no non-
+conforming structures created. All three property owners signed the application and are aware of
+the proposed change. There were no plans by any of the property owners to add on to their
+properties.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Motion: Commissioner Tonks moved to APPROVE the Simmons Lot Line Adjustment Plat
+Amendment as requested by Lahn Simmons, Application Number SUBC-189-2022 subject
+to the following:
+
+Condition:
+
+      1.       Section 17-9-070 of the Draper City Municipal Code specifies that the
+               approval of a Plat Amendment expires one year from the date of approval if
+               the plat has not been recorded or construction of the required landscaping and
+               infrastructure has not commenced. The expiration of the approval can also be
+               avoided through an extension of the approval. A maximum of one extension
+               for a period of up to six months can be requested in writing to the Community
+               Development Department prior to the date of expiration.
+
+Finding:
+
+       1.      There is good cause for the vacation or amendment; and no public street,
+               right-of-way, or easement has been vacated or amended.
+
+Second: Commissioner Bingham.
+Draper City Planning Commission Meeting
+February 9, 2023
+Page 4
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+
+4.     Public Hearing: Lyle McAllister Zoning Map Amendment (Legislative Item).
+       On the request of Lyle McAllister a Zoning Map Amendment to change the zoning
+       designation from RA1 to RA2 for approximately 0.92 acres located at approximately 275
+       E. 13275 South known as Application TEXTMAP-221-2022. Staff contact is Todd
+       Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+Planning Manager, Jennifer Jastremsky, presented the Staff Report and stated that the subject
+property is located off 300 East near 13200 South. There is currently a single-family home on the
+property. The applicant is looking to sell some of his backyard to the adjacent neighbor to the rear.
+The first step in that process is to rezone the property. The property is in the Medium Density land
+use designation, which supports two to four dwelling units per acre. Currently, the property is in
+the RA1 zoning district, which allows minimum 40,000 square-foot lots. The subject property is
+.92-acre in size. The proposal is to rezone the property to RA2, which requires a minimum 20,000
+square-foot lot size. The property is surrounded on multiple sides by RA2 zoning. The reduction
+in the minimum lot size would allow the applicant to pursue a plat amendment to sell a portion of
+the property. Ms. Jastremsky stated that the Code does not have any restrictions on spot zoning.
+RA1 and RA2 are similar within the Code and have different lot sizes. Both, however, are
+considered large lots with animal rights.
+
+In response to a question raised, Ms. Jastremsky explained that if the property owner were to sell
+his property, he would not have enough acreage to subdivide into two parcels. It was noted that
+the stem of a flag lot does not count toward the minimum lot size. The applicant would not have
+enough acreage to provide a stem going back and two 20,000 square-foot lots. After the sale, the
+remaining square footage of the lot will be at least 20,000 square feet.
+
+The applicant, Lyle McAllister, reported that he is selling .13-acre. He will be left with .79-acre,
+which is not enough to subdivide.
+
+Chair Adams opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+The comment was made that because the property cannot be subdivided, the request would not set
+a precedence. Commissioner support was expressed. It was noted that what is proposed would
+not change the feel of the neighborhood and will not impact the neighbors.
+
+Motion: Commissioner Hawker moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Map Amendment as requested by Lyle McAllister, Application
+TEXTMAP-221-2022 based on the following:
+Draper City Planning Commission Meeting
+February 9, 2023
+Page 5
+
+Findings:
+
+       1.     The proposed amendment is consistent with goals, objectives and policies of
+              the City's General Plan.
+
+       2.     The proposed amendment is harmonious with the overall character of existing
+              development in the vicinity of the subject property.
+
+       3.     The proposed amendment is consistent with the standards of any applicable
+              overlay zone.
+
+       4.     The proposed amendment does not adversely affect adjacent property.
+
+       5.     Adequate facilities and services exist to serve the subject property, including,
+              but not limited to, roadways, parks and recreation facilities, police and fire
+              protection, schools, stormwater drainage systems, water supplies, and
+              wastewater and refuse collection.
+
+Second: Commissioner Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+
+5.     Public Hearing: Federal Heights Holdings LLC Zoning and Land Use Amendments
+       (Legislative Action)
+       On the request of Marlon Bates, representing Chris Silvestro, for a land use map
+       amendment from Community Commercial to Neighborhood Commercial and a rezone
+       from RA1 to CN (Neighborhood Commercial) for approximately 1.19 acres located at
+       approximately 11743 S. 700 East. Applications: TEXTMAP-204-2022 (Zoning) and
+       TEXTMAP-206-2022 (Land Use). Staff contact: Maryann Pickering at 801-576-6391 or
+       maryann.pickering@draperutah.gov.
+
+The above item was to be continued.
+
+Motion: Commissioner Squire moved to CONTINUE agenda item number five, Federal
+Heights Holding, LLC Zoning and Land Use Amendments to a date uncertain.
+
+Second: Commissioner Nixon.
+Draper City Planning Commission Meeting
+February 9, 2023
+Page 6
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+
+6.     Public Hearing: City Initiated Water-Wise Landscaping and Site Amendments Text
+       Amendment (Legislative Item)
+       On the request of Draper City for a Text Amendment to Titles 9 and 17 of Draper City
+       Municipal Code in order to amend regulations regarding definitions, site plan review, site
+       design, landscaping including water-wise landscaping, screening, parking area design,
+       outdoor storage and display, and related subdivision requirements. This application is
+       known as the City Initiated Water-Wise Landscaping and Site Amendments Text
+       Amendment. Application: TEXT-187-2022. Staff contact: Todd Draper, 801-576-6335,
+       todd.draper@draperutah.gov.
+
+The above item was to be continued. Ms. Jastremsky reported that staff was continuing to work
+with the Jordan Valley Water Conservancy District (“JVWCD”) before bringing the matter back
+for final recommendation.
+
+Motion: Commissioner Squire moved to CONTINUE agenda item number six, City-
+Initiated Water-Wise Landscaping and Site Amendments Text Amendment to a date
+uncertain.
+
+Second: Commissioner Tonks.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Hawker, Squire, Tonks, Nixon, and Bingham voted “Aye”. The motion
+passed unanimously.
+
+7.     Adjournment.
+
+Ms. Jastremsky reported that the Utah American Planning Association (“APA”) Conference is
+scheduled for May 10 to 12 in Vernal. Those interested in attending were asked to contact Office
+Manager, Amie Salazar.
+
+Motion: Commissioner Nixon moved to ADJOURN. The motion passed with the unanimous
+consent of the Commission.
+
+The meeting adjourned at 6:54 p.m.
+

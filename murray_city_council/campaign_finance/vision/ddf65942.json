@@ -1,0 +1,26 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "FedEx Office", "purpose": "", "amount": "28.51", "in_kind": false},
+    {"date": null, "recipient": "Smiths", "purpose": "", "amount": "3.47", "in_kind": false},
+    {"date": null, "recipient": "Holiday Oil", "purpose": "", "amount": "21.02", "in_kind": false},
+    {"date": null, "recipient": "Maverik", "purpose": "", "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "WinCo", "purpose": "", "amount": "244.90", "in_kind": false},
+    {"date": null, "recipient": "Office Depot / Office Max", "purpose": "", "amount": "50.63", "in_kind": false},
+    {"date": null, "recipient": "Family Dollar / Dollar Tree", "purpose": "", "amount": "15.00", "in_kind": false}
+  ],
+  "total_contributions": null,
+  "total_expenditures": "413.53",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202108_Adam-Kent-Fitzgerald_12497.pdf",
+    "candidate": "Adam Kent Fitzgerald",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202108_Adam-Kent-Fitzgerald_12497.pdf",
+    "pages": 9
+  }
+}

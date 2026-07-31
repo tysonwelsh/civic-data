@@ -1,0 +1,50 @@
+{
+  "_note": "Build manifest for Ogden City municipal candidate campaign-finance disclosures. Each entry is one filed 'Combined Report of Contributions & Expenditures' PDF hosted on the Ogden City (CivicPlus) site, linked from that cycle's Election-Information year page. viewid = CivicPlus DocumentCenter View id (also the raw/ filename prefix). office/district transcribed from the year page's candidate headings. filing_type='summary' = the candidate's combined contributions+expenditures packet (bundles the cycle's interim + final reports into one PDF). placeholder=true => the city posted a 'Financial Report Place-holder' stub (candidate had not filed a substantive report).",
+  "source_pages": {
+    "2019": "https://www.ogdencity.com/1624/2019-Elections",
+    "2021": "https://www.ogdencity.com/2589/2021-Elections",
+    "2023": "https://www.ogdencity.com/2048/2023-Elections"
+  },
+  "filings": [
+    {"viewid":31386,"year":2019,"candidate":"Mike Caldwell","office":"Mayor","district":"","slug":"2019-Caldwell-Combined","placeholder":false},
+    {"viewid":31387,"year":2019,"candidate":"Angel Castillo","office":"Mayor","district":"","slug":"2019-Castillo-Combined","placeholder":false},
+    {"viewid":31388,"year":2019,"candidate":"Richard Hyer","office":"Council","district":"2","slug":"2019-Hyer-Combined","placeholder":false},
+    {"viewid":31389,"year":2019,"candidate":"Luis Lopez","office":"Council","district":"At-Large C","slug":"2019-Lopez-Combined","placeholder":false},
+    {"viewid":31390,"year":2019,"candidate":"Ben Nadolski","office":"Council","district":"4","slug":"2019-Nadolski-Combined","placeholder":false},
+    {"viewid":31391,"year":2019,"candidate":"Daniel Tabbish","office":"Mayor","district":"","slug":"2019-Tabbish-combined","placeholder":false},
+    {"viewid":31392,"year":2019,"candidate":"John H Thompson","office":"Mayor","district":"","slug":"2019-Thompson-Combined","placeholder":false},
+
+    {"viewid":17487,"year":2021,"candidate":"Angela Choberka","office":"Council","district":"1","slug":"Choberka-Combined","placeholder":false},
+    {"viewid":17495,"year":2021,"candidate":"Thomas H. Gooch","office":"Council","district":"1","slug":"Gooch-Combined","placeholder":false},
+    {"viewid":17256,"year":2021,"candidate":"Priscilla Martinez","office":"Council","district":"3","slug":"Martinez-Combined","placeholder":false},
+    {"viewid":17257,"year":2021,"candidate":"Ken Richey","office":"Council","district":"3","slug":"Richey-Combined","placeholder":false},
+    {"viewid":17255,"year":2021,"candidate":"Mary Khalaf","office":"Council","district":"3","slug":"Khalaf-Combined","placeholder":false},
+    {"viewid":17253,"year":2021,"candidate":"Marcia L. White","office":"Council","district":"At-Large A","slug":"White-Combined","placeholder":false},
+    {"viewid":17260,"year":2021,"candidate":"Daniel J. Gladwell","office":"Council","district":"At-Large A","slug":"Gladwell-Combined","placeholder":false},
+    {"viewid":17258,"year":2021,"candidate":"John H Thompson","office":"Council","district":"At-Large A","slug":"Thompson-Combined","placeholder":false},
+    {"viewid":17252,"year":2021,"candidate":"Jase Reyneveld","office":"Council","district":"At-Large A","slug":"Financial-Report-Place-holder---Reyneveld","placeholder":true},
+    {"viewid":17261,"year":2021,"candidate":"John Ogden","office":"Council","district":"At-Large A","slug":"Ogden-Combined","placeholder":false},
+    {"viewid":17259,"year":2021,"candidate":"Jack Barnes","office":"Council","district":"At-Large A","slug":"Financial-Report-Place-holder---Barnes","placeholder":true},
+    {"viewid":17486,"year":2021,"candidate":"Bart Blair","office":"Council","district":"At-Large B","slug":"Blair-Combined","placeholder":false},
+    {"viewid":17485,"year":2021,"candidate":"Sebastian Benitez","office":"Council","district":"At-Large B","slug":"Benitez-Combined","placeholder":false},
+
+    {"viewid":30780,"year":2023,"candidate":"Ben Nadolski","office":"Mayor","district":"","slug":"Nadolski-Combined","placeholder":false},
+    {"viewid":30777,"year":2023,"candidate":"Oscar Landon Mata","office":"Mayor","district":"","slug":"08-29-2023-Mata","placeholder":false},
+    {"viewid":30776,"year":2023,"candidate":"Taylor Knuth","office":"Mayor","district":"","slug":"Knuth-Combined","placeholder":false},
+    {"viewid":30774,"year":2023,"candidate":"Jon J. Greiner","office":"Mayor","district":"","slug":"Greiner-Combined","placeholder":false},
+    {"viewid":30771,"year":2023,"candidate":"Angel Castillo","office":"Mayor","district":"","slug":"Castillo-Combined","placeholder":false},
+    {"viewid":30769,"year":2023,"candidate":"Bart E. Blair","office":"Mayor","district":"","slug":"Blair-Combined","placeholder":false},
+    {"viewid":30767,"year":2023,"candidate":"Chris Barragan","office":"Mayor","district":"","slug":"Barragan-Combined","placeholder":false},
+    {"viewid":30775,"year":2023,"candidate":"Richard Hyer","office":"Council","district":"2","slug":"Hyer-Combined","placeholder":false},
+    {"viewid":30781,"year":2023,"candidate":"Austin Raymond","office":"Council","district":"4","slug":"08-29-2023-Raymond","placeholder":false},
+    {"viewid":30773,"year":2023,"candidate":"Dave Graf","office":"Council","district":"4","slug":"Graf-Combined","placeholder":false},
+    {"viewid":30770,"year":2023,"candidate":"Alexander Castagno","office":"Council","district":"4","slug":"Castagno-Combined","placeholder":false},
+    {"viewid":30783,"year":2023,"candidate":"Steven Van Wagoner","office":"Council","district":"4","slug":"Van-Wagoner-Combined","placeholder":false},
+    {"viewid":30768,"year":2023,"candidate":"Sebastian Benitez","office":"Council","district":"4","slug":"Benitez-Combined","placeholder":false},
+    {"viewid":30779,"year":2023,"candidate":"Shaun Myers","office":"Council","district":"At-Large C","slug":"Myers-Combined","placeholder":false},
+    {"viewid":30782,"year":2023,"candidate":"John H. Thompson","office":"Council","district":"At-Large C","slug":"Thompson-Combined","placeholder":false},
+    {"viewid":30778,"year":2023,"candidate":"Katie Matheson","office":"Council","district":"At-Large C","slug":"09-25-23-Katie-Matheson","placeholder":false},
+    {"viewid":30772,"year":2023,"candidate":"Lara Gale","office":"Council","district":"At-Large C","slug":"Gale-Combined","placeholder":false},
+    {"viewid":30766,"year":2023,"candidate":"J. Levi Andersen","office":"Council","district":"At-Large C","slug":"Anderson-Combined","placeholder":false}
+  ]
+}

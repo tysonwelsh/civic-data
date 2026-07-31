@@ -1,0 +1,612 @@
+# Riverton Planning Commission Meeting — 2023-01-26
+> Source: https://www.utah.gov/pmn/files/942387.pdf
+> Meeting date: 2023-01-26
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/808419.html
+> Format: text
+
+Approved: 2.9.23 PC
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                JANUARY 26, 2023
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Shelly Cluff, Chair                              Tim Prestwich, City Planner
+Keith Breinholt                                  Lisa Halversen, City Planner
+Gary Cannon
+Jon Gilchrist
+Evan Matheson
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Shelly Cluff called the meeting to order at approximately 6:30 p.m. The Pledge was
+led by Commissioner Rushton.
+
+2.     PUBLIC HEARINGS
+
+       A.     SITE PLAN - AMERICA FIRST CREDIT UNION (“AFCU”), PLZ 22-8032, A
+              COMMERCIAL SITE PLAN TO BE LOCATED AT 12653 SOUTH 3600
+              WEST. APPLICANT - AWA ENGINEERING
+
+Chair Cluff opened the public hearing. City Planner, Tim Prestwich, presented the staff
+report and stated that the request is for Final Commercial Site Plan for America First Credit
+Union to be located on the southeast corner of 3600 West and 12600 South. The area map
+was displayed. 12600 South on the north is a Utah Department of Transportation (“UDOT”)
+road and 3600 West is a City street. The entire site is 7.9 acres in size but they plan to only
+develop a portion of the overall site. Notice was sent to the neighbors with public comments
+received. They were included in the packet.
+
+A rendering of the proposed building was displayed. It is situated prominently on the corner.
+Adjustments were made to comply with the ordinance with a mostly brick exterior. The site
+plan was displayed. The building was pushed to the north and west against the road and
+was found to meet the 30-foot minimum setback requirements for the zone. The intent was
+for the building to be highly visible. He noted that the architecture plays well off of the
+hospital, which is a significant landmark in the area. There are two entrances with one
+coming off 3600 West. It is a full UDOT access on 12600 West and has obtained the
+necessary permit. The island will be extended to make it right-in/right-out only. Eventually,
+it will connect in both directions and be shared. Mr. Prestwich reported that the applicant
+does not have a tenant and found a way to preserve the space and flexibility while giving
+them a site that works independently.
+Riverton City Planning Commission Meeting                                                2
+January 26, 2023
+
+Mr. Prestwich identified the three-lane drive-thru, one of which is a pass-thru lane. There
+will be two kiosks with an audio/visual teller and an ATM. Americans with Disabilities Act
+(“ADA”) parking is provided. Mr. Prestwich stated that they are significantly over-parked and
+the site meets all commercial site plan requirements.
+
+Fencing issues were discussed. Mr. Prestwich reported that because the site is not a
+subdivision, an eight-foot masonry fence is required along the perimeter because of the
+incompatible use. For the time being, the existing field fence will remain. The only other
+issue with fencing will be the temporary area. Mr. Prestwich stated that the ordinance does
+not address temporary fencing on larger pads. What exists falls into the category of other
+fencing that the Planning Commission approves and is based on what exists. Staff was
+comfortable proposing a six-foot chain link fence, which is an improvement over what exists.
+It will be temporary and fairly easy to remove when the rest of the site is developed.
+
+Mr. Prestwich stated that have been conscientious about water use and conserving water.
+Areas along 3600 West and 12600 South include two types of rock. It is broken up into
+different areas using different sizes and colors. The islands on the interior include a third
+rock color. The plantings were also intermixed. An adequate number of trees were
+proposed for the site and approximately 300 plantings were included. He was confident that
+what is proposed will be a great addition to the City. The area shown in green is native seed
+along the temporary fence. The applicants will continue to maintain it as they do the field.
+
+Mr. Prestwich referenced 3600 West and stated that the City or UDOT put sod and trees in
+the park strip when 3600 West was tied into 12600 South. The City currently maintains the
+park strip. The applicant will take over maintenance responsibilities for that. Currently, sod
+is shown but it is not required to remain and could be replaced with rock. The trees would
+remain with the exception of a few to increase sight distances.
+
+The Photometric Plan was presented. Mr. Prestwich stated that from the middle of 12600
+South, the light emission from the photometrics is zero. The lights are also pointed
+downward in accordance with City ordinance. With regard to the trash enclosures, the
+materials match the building. There will be an outbuilding for outdoor storage with a roof
+and locking door as well as dumpster pads.
+
+Mr. Prestwich stated that four individual canopies are proposed. In the past, canopies have
+been large with columns that are similar to a second building where the lower one-third is
+required to have brick or stone. The proposed columns will be made of an acrylic material
+with lights on the inside. The entire panel will be illuminated at night. The applicant would
+like to discuss the requirement for stone or brick along the lower one-third.
+
+Signage issues were discussed. Mr. Prestwich stated that signs are not typically approved
+by the Planning Commission, however, if each is treated as a separate structure as they
+have with canopies in the past, the signage will meet the ordinance. He invited feedback
+from the Commission. Staff recommended approval subject to the conditions set forth in the
+staff report.
+Riverton City Planning Commission Meeting                                                 3
+January 26, 2023
+
+Commissioner Rushton asked about the fencing on the south that adjoins the church and if
+the applicant has been successful in determining whether they will be able to place the fence
+on the property line. He was not sure if they had been successful in reaching out to the LDS
+Church. He stated that the Area Representative might be more attuned to the situation.
+Commissioner Rushton stated that if they have not, an additional item could be added to the
+motion to allow a fence-in-a-fence. Mr. Prestwich stated that he would appreciate that as
+would the applicant.
+
+Commissioner Rushton commented that at some point 12600 South will be restriped into six
+lanes with three in each direction. He asked if consideration had been given to deceleration
+off of the stretch between Bangerter Highway and 3600 West. It was reported that UDOT
+makes that determination. Currently, UDOT does not require that.
+
+Commissioner Rushton asked about 3600 West and if there are any plans to widen it or the
+intersection at 12600 South. The Project Engineer indicated that currently there are no plans
+to widen it. He noted that that is an issue for them since as UDOT shuts off their left turn
+access on 12600 South, 3600 West will bear the brunt of most of the trips coming into and
+out of the development. The credit union site will likely not be overly impacted but they will
+struggle with the entire site being developed and pressure being put on 3600 West.
+Widening, however, may not be the solution to manage that.
+
+Commissioner Park expressed concern with the six-foot temporary chain link fence and
+asked if there was a stipulation regarding what it will look like. He commented that temporary
+construction site chain link fencing would not be acceptable. Chair Cluff asked about the
+temporary fencing, specifically if there is a time limit. Mr. Prestwich stated that there is no
+definition in the ordinance and it depends on what occurs on the rest of the site. Some
+temporary fencing only stays in place for a little while, while some is in place for years.
+
+Commissioner Gilchrist asked about the chain link fence and stated that it seems that in
+many areas where there is partial development of a parcel, he did not recall seeing a fence
+as delineation. He questioned why a fence was required in this case. Mr. Prestwich
+explained that because there is no additional planning for the area, some of the sites are
+part of a Master Site Plan. In this case, the time window is unknown.
+
+Jake Tate from Anderson Wahlen & Associates, was present on behalf of America First
+Credit Union. He gave his address as 2010 North Redwood Road in Salt Lake City. Mr.
+Tate reported that AFCU has owned the property for over 10 years and they are excited to
+move forward and start developing it. Appreciation was expressed to staff for their
+assistance. With regard to fencing, AFCU volunteered to provide it since something similar
+has been done on other sites. AFCU purchases property because they want to be there
+and are not investors. For that reason, they did not subdivide the property. They would like
+to be in a location where they can be in the future and make sure that they can develop a
+well-thought-out, high-quality development.
+
+Mr. Tate stated that there is a branch on 3500 South and 3600 West in West Valley where
+there was a similar situation. The quality of the fence was shown in a picture, it has a
+cemented post and a top rail. It is a full chain link fence and not temporary. It is a well-
+Riverton City Planning Commission Meeting                                                     4
+January 26, 2023
+
+constructed barrier that is well-maintained. The intent was to prevent cars from being driven
+off the dead ends of the property. They keep it fenced off so that it remains in good condition
+and so that they control it. They are committed to installing the fence and were happy to do
+so. They would like to place it on the property line if allowed to do so.
+
+Mr. Tate reported that they have been in discussions with the neighbor and indicated that a
+gap was created when the neighbor developed his subdivision five or six years ago. There
+is now a two-foot gap. They were happy to concede that land to him. AFCU is not going to
+change the property line and will enter into a Boundary Line Agreement with the neighbor to
+give him two feet on that side of the fence. They have also been in discussions with
+Scooters.
+
+Circulation issues were discussed. Mr. Tate stated that underground tubes are not required
+by the credit union. It is a stand-alone system with a screen. Customers will be able to
+communicate with a banker in the building and the entire transaction takes place there. He
+commented that this is the future of financial institutions. It allows a lot of flexibility and for
+the parking to be placed near the building. He noted that this is the first branch that will have
+the latest technology. He also showed a rendering of what the panel will look like when it is
+lit.
+
+Commissioner Ruston asked about the fencing on the south side. Mr. Tate stated that he
+had not spoken with anyone from the LDS Church but he needed to check with the other
+engineer in the office who is working more closely on that. He would also touch base with
+the broker.
+
+A photo of fencing used on a nearby project was shown. Mr. Tate stated that it keeps people
+out and allows them to access and maintain the property. Developers have already
+approached them about the front three pads and they have users that want to potentially
+locate them there. He noted that there is interest.
+
+Commissioner Park asked if medical office use was envisioned. Mr. Tate anticipated the
+three parcels along the front as being commercial retail users. Along the rear, he expected
+medical offices and the like. They have received several offers over the years but the zoning
+in the area makes that more difficult. With regard to the fence line on the south, he clarified
+that a masonry wall will be required. Commissioner Rushton explained that on the south
+side, some trees fell over and the applicant was not able to make contact. They eventually
+came back and did a fence within a fence in order to start moving forward with the project.
+Mr. Tate stated that they are happy to reach out. Commissioner Park stated that a clause
+could be added that if the project is ready to move forward and they have not been able to
+reach an agreement, there could be a fence within a fence. This option enabled a previous
+applicant to start the project. It would be a more substantial fence consisting of a column
+and wrought iron. On the south side, it was pulled in four feet from the property line. By
+code, a fence within a fence is not allowed without this property owner’s permission. That
+was offered tonight to expedite the project.
+
+Chair Cluff opened the public hearing.
+Riverton City Planning Commission Meeting                                                 5
+January 26, 2023
+
+Kenneth Failor, the neighbor across the street, asked about the exit and entrance on 12600
+South. He stated that his fence has been run through many times over the years. The traffic
+is unbearable and it is nearly impossible to get out off of Mountain View Drive. He asked
+what will be across the street from the exit and entrance on 12600 South. Commissioner
+Rushton stated that they are extending the island so that people coming onto 12600 South
+have to make a right turn and cannot go straight across 12600 South. Mr. Failor met with
+UDOT and was informed that by 2032 and 2040 they widen the road to six lanes but not
+before unless something changes. He suggested that the traffic concerns on 12600 South
+be addressed. Chair Cluff stated that the City’s hands are somewhat tied because it is a
+UDOT road. Mr. Failor reported that there is a contractual arrangement with UDOT and
+Riverton City. He stated that it is his right by law to obtain a copy of the document showing
+what agreements were made on 12600 South.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Gilchrist liked the proposed design and commented that many credit union
+buildings have been built in the southwest corner of the valley in the last 10 years or so. The
+drive-thru canopies are heavy and large and not the most aesthetically pleasing. He liked
+the idea of pushing them to the back of the site and reducing the size substantially. He also
+liked the lighting and signage and considered it a good look.
+
+Commissioner Park asked how far the island extension will go and if Mountain View Drive
+is 3450 West.
+
+Commissioner Cannon acknowledged Mr. Failor who has been a Riverton resident since
+1973. He was thanked for his comments. Commissioner Cannon stated that were he a
+neighbor, he would prefer a bank or credit union with limited hours to a 24-hour convenience
+store.
+
+Commissioner Cannon moved to APPROVE PLZ-22-8032, Commercial Site Plan for
+“America First (AFCU)” located at 12653 South 3600 West subject to the following
+conditions:
+
+       1.     Site Plan Improvements and Building shall be consistent with the plans
+              presented to the Planning Commission except where otherwise noted.
+
+       2.     The applicant shall correct or resolve the remaining staff redlines.
+
+       3.     Storm drainage systems and accommodations comply with the Riverton
+              City Standards and ordinances, and with the recommendations of the
+              Riverton City Engineer.
+
+       4.     The Applicant must create and agree to follow a Long-Term Storm Water
+              Management Plan according to Riverton City standards and ordinances.
+
+       5.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+Riverton City Planning Commission Meeting                                                 6
+January 26, 2023
+
+
+       6.     The site and structures shall comply with any and all applicable Riverton
+              City Standards and ordinances, including the International Building and
+              Fire Codes.
+
+       7.     The applicant must obtain final approval from utility providers.
+
+       8.     Rooftop mechanical shall be screened.
+
+       9.     Wall-mounted service panels shall be painted to match the building.
+
+       10.    The dumpster enclosure shall have solid gates and the gates and
+              enclosure shall be of similar color and materials to the building.
+
+       11.    The park strip on 3600 West shall be irrigated and maintained by the
+              applicant and its successors.
+
+       12.    A temporary fence shall be installed as shown on the Site Plans prior to
+              occupancy of the building.
+
+       13.    If the applicant is not able to get permission from the south property
+              owner for the fence, they have permission to install a parallel fence on
+              that side.
+
+Commissioner Breinholt seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+       B.     COMMUNITY SCALE PLAN, BLOCK SCALE PLAN - VILLAGE AT SOUTH
+              MOUNTAIN EAST, PLZ-22- 8034, A COMMERCIAL DEVELOPMENT TO BE
+              LOCATED AT 4012 WEST 13400 SOUTH IN THE SLR SPECIAL ZONE.
+              APPLICANT - AWA ENGINEERING
+
+Mr. Prestwich presented the staff report and stated that the project is part of the SLR Master
+Development Agreement (“MDA”). The property is located on the corner of Old Liberty Way.
+SLR MDA properties have a different review process and start with the Community Scale
+Plan, move to a Block Scale Plan (“BSP”), and follow up with a Detailed Plan. The MDA
+and zoning allow the Community Scale Plan (“CSP”) and the BSP to be combined. The
+applicant then comes back for a Detailed Plan. SLR is the master developer and must
+approve the site layout. For commercial, they need to approve the square footage, the
+building architecture, and landscaping. The letter was provided in the packet. What they
+have not done will be reserved until the final site plan. With regard to architecture, they can
+hold to the ordinance or SLR can make additional requirements.
+
+An area map was displayed. Within the next few meetings, it was anticipated that the first
+detailed plan for Village West will be presented. The timing of various elements of the project
+was described. Village East is a corner with great visibility off of Bangerter Highway and
+13400 South. There are two power lines and two gas lines coming through the property
+Riverton City Planning Commission Meeting                                                    7
+January 26, 2023
+
+from the northwest to the southeast. There is also a Kern River gas facility in the area with
+two 18-inch City water lines nearby. It was noted that the applicant did a good job of planning
+the site.
+
+Mr. Prestwich referenced the CSP and stated that it and the BSP have the exact same
+footprint. Both are being approved at the same time. There is a 30-foot easement for water
+lines that nearly cut the parcel in half. The Phasing Plan shows the backbone infrastructure
+and that the interior roads will be built first. The other phases could come in any sequence
+desired by the applicant. If one starts before another, they may have to change the detailed
+plan to make it work logistically. However, with the backbone infrastructure and roads, they
+should be able to make it work when the pad owner is ready to move forward. Everything
+inside will be privately maintained and is a private street or driveway. No City maintenance
+will be required.
+
+The Landscape Plan was presented. Mr. Prestwich stated that it is nearly impossible to
+plant on top of the Kern River gas line easement, which may impact their ability to plant
+trees. That will be addressed with the detailed plans. The engineer is AWA who has been
+involved in other recent projects. They will also be doing some of the detailed plans in the
+area as they come in. The first BSP and CSP Plans that went through them provided
+experience in how to work with SLR and other property owners. This one went much
+smoother. The hope was that they can continue moving forward.
+
+Mr. Prestwich stated that the matter was noticed as a public hearing and no comments were
+received. Staff recommended approval subject to the conditions set forth in the staff report.
+
+Commissioner Gilchrist asked if UDOT has reviewed the plan. Mr. Prestwich responded
+that he shared the plans with UDOT representatives when the project was first submitted as
+well as the plan for the pond. They have been coordinating with SLR, the utilities, and the
+property owner. His understanding was that the widening and any frontage improvements
+will not go beyond the Questar/Kern River facility.
+
+Commissioner Gilchrist stated that in his limited experience with Rocky Mountain Power and
+Kern River, they are massive/complicated utilities. This pipeline will supply nearly all of the
+natural gas that comes out of Wyoming to California. Almost nothing may be constructed
+over the corridor. He asked Mr. Prestwich if he was confident that they can get the utility
+companies to agree to this level of development on their easements.
+
+Commissioner Matheson asked what controls the area to the east where the utilities are
+located to ensure that it looks attractive and who is responsible for maintaining it.
+Mr. Prestwich stated that it will be the responsibility of the property owner, SLR who will likely
+maintain it as it is now as an empty field. He explained that there is a portion of the property
+that is not in any easements that could potentially be developed.
+
+Commissioner Rushton asked if the access on 13400 South is right-in/right-out.
+Mr. Prestwich confirmed that it is. The one on 4050 West on the south was determined to
+be a full intersection.
+Riverton City Planning Commission Meeting                                                  8
+January 26, 2023
+
+Commissioner Breinholt asked about the plans for 13400 South and Bangerter Highway,
+which include a lot of rerouting of utilities of various sizes. Specifically, he was concerned
+about the sewer being rerouted north because of problems with digging down Bangerter at
+that point. He asked if that will conflict with what is proposed. Mr. Prestwich responded that
+years ago the sewer and the City put sleeves underneath Bangerter Highway. He confirmed
+that there are several utility relocations ahead of this project. This area will come out to
+4000 West and down to 13400 South and out. That was shown on the BSP.
+
+The applicant, Jake Tate from AWA stated that the project has been a long time coming. He
+thanked Mr. Prestwich for his assistance and stated that the process has been unique. He
+reported that across the street on the west side, there are five parcels all of which are moving
+forward. That side was expected to be built out or under construction before the end of the
+year. On their side, three tenants are under contract for three at the corner of the L. The
+one on the north side of the southern access has obtained SLR approval. Of the 10 lots for
+the two parcels, eight were moving forward.
+
+Mr. Tate stated that the center of the southern driveway is about 330 feet from the north
+right-of-way line of 13400 South. The assumption is that when SLR comes in the future,
+they will drive more traffic with the acreage that they own to the north. At that time, there
+will likely be a median there.
+
+With regard to utilities, Mr. Tate stated that they have met with Kern River several times and
+have the plan set. They have used their five to 10-page design manual and all of the utilities
+meet that requirement. It is currently under review with comments expected by the
+beginning of February. They will likely require the applicant to pothole a few of the locations
+to confirm the depth. He noted that there are two 36-inch gas lines. The site plan was
+adjusted so that there are no structures over the water line and they are outside of the
+easement.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Chair Cluff moved that the Planning Commission APPROVE PLZ-22-8034, “Village at
+South Mountain East” Community-Scale Plan & Block Scale Plan, in the SLR Special
+Development District subject to the following conditions:
+
+       1.     The Community-Scale Plan shall comply with the Master Development
+              Agreement (“MDA”) and the Suburban Land Reserve Specific
+              Development District.
+
+       2.     A Detailed Plan (“DP”) for each phase shall be reviewed by staff and
+              approved by the Planning Commission before construction may begin.
+
+       3.     The First Detailed Plan (“Phase 1”) must include the proposed
+              subdivision plat, and the subdivision must be recorded before work may
+              commence on the other phases.
+Riverton City Planning Commission Meeting                                              9
+January 26, 2023
+
+      4.     Shared Access or Cross Access agreements for all internal properties
+             and other properties to the east shall be formalized and recorded with
+             the first Detailed Plan.
+
+      5.     Each Detailed Plan application shall include an approval letter from SLR
+             (“The Master Developer”).
+
+      6.     Architecture and landscaping shall meet the requirements of the MDA
+             and will be reviewed for each building during the Detailed Plan
+             application.
+
+      7.     If the regional pond or other drainage facilities are not available at the
+             time of the Detailed Plan application, the Detailed plan must include a
+             plan for temporary stormwater retention.
+
+      8.     Detailed Plan Applications shall include approvals from utility
+             companies including but not limited to Kern River Gas and Rocky
+             Mountain Power.
+
+Commissioner Breinholt expressed concern about the relocation of the sewer lines and
+utilities under 13400 South and Bangerter Highway. It was noted that a lot of research was
+taking place and the contractor will be required to address any issues. The City cannot
+place utilities on private property without an agreement in place. It will be up to UDOT and
+whoever builds that facility to work with the property owners if they are not placed in the
+location designated by the City.
+
+The motion was seconded by Commissioner Matheson. The motion passed with the
+unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     ELECTION OF CHAIR AND VICE-CHAIR.
+
+Procedural issues were discussed. Commissioner Cannon commented that someone who
+is nominated should not feel obligated to accept the appointment if they are not comfortable
+doing so.
+
+Mr. Prestwich stated that the culture on the Commission previously was that the Chair should
+not make motions and in some cases not vote, which is not the case. The ordinance is clear
+that the Chair can make motions and should vote. It was noted that Troy Rushton and Gary
+Cannon have served as Chair and Vice Chair. Shelly Cluff has served as Chair only.
+
+Jon Gilchrist was nominated to serve as Chair. Commissioner Gilchrist was concerned
+about accepting the nomination due to his work schedule this coming year.
+
+Commissioner Matheson was nominated to serve as Vice-Chair. Commissioner Matheson
+accepted the nomination.
+Riverton City Planning Commission Meeting                                                 10
+January 26, 2023
+
+
+Commissioner Rushton stated that in the event the Chair and Vice-Chair are not present at
+a meeting, any member can step in and act as the Chair.
+
+Commissioner Matheson moved to NOMINATE Jon Gilchrist to serve as Chair for
+2023. The motion was seconded by Commissioner Park. The motion passed with the
+unanimous consent of the Commission.
+
+Commissioner Rushton moved to NOMINATE Evan Matheson to serve as Vice-Chair
+for 2023. The motion was seconded by Chair Cluff. The motion passed with the
+unanimous consent of the Commission.
+
+4.     DISCUSSION ITEMS
+
+       A.     TRAINING - THE DEVELOPMENT PROCESS.
+
+City Planner, Lisa Halversen provided an overview of the City’s development process
+consisting of the steps that take place from the time a developer has an idea until it becomes
+a buildable product. A helpful first step is for a developer to contact staff and schedule a
+Developer Review Committee (“DRC”) Meeting before investing a lot of time and money into
+their project. There they have an opportunity to meet with staff from Planning, Engineering,
+Building, and the Fire Department to discuss the general feasibility of the project and identify
+any potential problems. The developer is welcome to come back to a second DRC Meeting
+if needed.
+
+The second step is the application process where the developer submits an application,
+which includes the complete plans for review. The Planning Department ensures that they
+have all of the necessary documents and upload them to Bluebeam (a team-based software
+product) and begin the plan review. It allows staff to review different documents
+simultaneously and collaborate with review comments that can be viewed on the page.
+When all of the departments have commented, the redlines are compiled into an email that
+is sent to the applicant who then has an opportunity to revise and correct the plans and
+resubmit them. The initial review takes about one month after which each new submittal
+takes about two weeks. Usually, a project takes three or four reviews before it is ready for
+Planning Commission consideration.
+
+Ms. Halversen identified City staff that reviews each plan and what they are looking for. She
+and Mr. Prestwich conduct the Planning Review and review the application, the site plan,
+parking, landscaping, setbacks, screening, zoning, open space, Americans with Disabilities
+Act (“ADA”) compliance, and fencing.
+
+City Engineer, Matt Cassell, reviews engineering, Code compliance, traffic, Geotech,
+drainage, and utility coordination. Cal McDonald from the Water Department reviews water
+issues. Public Works Geographic Information Systems (“GIS”) Technician, Alex Reyes, is
+responsible for addressing and making all of the City’s maps that are available online. Chief
+Building Official, Mark Smith, does not review every plan but gives an overview since he will
+have oversight when it gets to the building phase. He looks at the plans upfront to identify
+Riverton City Planning Commission Meeting                                                 11
+January 26, 2023
+
+items that may become an issue later. Unified Fire Authority Fire Marshal, Lynn Egbert and
+Tom Beasley who is over Flood Control and Stormwater also conduct a review. Community
+Development Director, Jason Lethbridge, serves as the City’s Liaison to the elected officials
+and provides guidance where needed. City Attorney, Ryan Carter, gives legal advice and
+deals with Development Agreements, easements, Covenants Codes and Restrictions
+(“CC&Rs”), and reimbursement.
+
+The project is then ready to move forward to the Planning Commission. When all staff
+departments have verified that the plans comply with City Code, the project is put on the
+Planning Commission agenda. A synopsis of the Planning Commission's duties was
+provided. They are tasked with helping the City Council do the General Plan and zoning
+maps, serve as the land use authority that administers the Development Code Title 18, have
+the authority to approve or deny subdivisions, site plans, and conditional use permits, and
+any other matters that the City Council chooses to delegate to them.
+
+When a matter is before the Planning Commission, in most cases staff brings a project
+forward with a positive recommendation. They also include conditions of approval that
+ensure that they know what further action is needed on each item. In some cases, an
+applicant has a legal right to insist that their project be placed on the Commission's agenda.
+If this is before staff is ready to recommend approval, they may recommend denial. Planning
+Commissioners determine if an application meets the City’s ordinance and standards. The
+Commission can exercise its discretion in specific areas identified in the Code such as
+architecture, landscaping, and fencing. If the agenda item is legislative it goes on to the City
+Council after a recommendation is given by the Planning Commission.                       Their
+recommendation may or may not be considered by the City Council in their decision. If the
+item is a subdivision, site plan, or Conditional Use Permit, the Planning Commission makes
+the final decision of approval, denial, or continuance.
+
+Ms. Halversen reported that once a project is approved by the Planning Commission, staff
+will verify that all of the conditions have been met by the applicant. They can then apply for
+a Building Permit where oversight moves to the Building Department. A team effort is
+required to get projects from concept to reality.
+
+Commissioner Rushton asked about the development process and stated that a few months
+ago he had the opportunity to attend an envisioning session with Council Member McKay,
+various developers, and others. One of the takeaways was that there is a lot of inconsistency
+from community to community. One of those is the timeline. He had observed over the past
+few years that there are a number of applicants that bring forward a Development
+Agreement, which seemed to provide a clear path forward. He asked if that is something
+they should expect to see more of in the future.
+
+Mr. Carter explained that when addressing Development Agreements, one important
+contract principle is that an agreement to agree is not enforceable. The significant reason
+is that when formulating a contract unless all of the terms are set forth in writing, including
+engineered drawings and exhibits, they tend to agree on something. If there is a
+misunderstanding, the value of the Development Agreement is in question. He explained
+Riverton City Planning Commission Meeting                                                12
+January 26, 2023
+
+that a Development Agreement will lock in and give the developer assurances after they
+have specified how they envision the project working.
+
+Assurances can be provided through a Development Agreement when they are looking at
+something like the Conditional Use Permit process for a private lane. The Development
+Agreement can provide certainty in terms of outcome but requires additional layers of
+approval. It would be of equal dignity to a zoning ordinance if something is done that could
+be viewed as an exception to how the prevailing Code would ordinarily apply to the property.
+He hesitated to agree that a Development Agreement is viewed as something that gives the
+potential to streamline a process. They also work in situations involving a unique property.
+Applicants want to get through the approval process and be confident that approval will be
+granted. They take a risk when they pay professionals to do work that is ultimately rejected.
+A Development Agreement is a tool that is used sparingly and is best used when other tools
+are less efficient. He noted that ultimately the City Council makes the decision on
+Development Agreements.
+
+Commissioner Cannon reported that he has developed over 50 subdivisions. Often
+developers meet with a city’s staff but never come back for a second meeting because of
+the complicated process. Mr. Carter stated that cities have different approaches to
+processing an application. Commissioner Cannon stated that Riverton City does not have
+a bad reputation with respect to the process. Developers deal with 7 to 10 different entities
+at any given time and one of them is the City. They work with the neighbors, the owners,
+utility companies, engineers, architects, contractors, etc. All work together in an effort to
+reach a solution in the end. In addition, the hope is that the market holds while they are
+going through the process. The biggest challenge for him as a developer has been
+accountability.
+
+Commissioner Rushton stated that there was a conversation in an adjacent city where no
+thought was given to what is taking place in other communities in terms of development.
+
+Mr. Carter reported that previously he worked for West Jordan City in their Planning and
+Development Services Department. He found that the best way to keep the city out of
+litigation was by monitoring the engineers for consistency. There was an iteration process
+that went back and forth between various engineers which became a headache. The
+engineers were not aligned and did not discuss the various projects they were reviewing.
+Some also had differing viewpoints on what was considered a fair exaction. His goal was to
+create more consistency, which was accomplished by hiring someone to keep track of the
+status of an application so that it would continue to move within the system. Mr. Carter
+stated that there are numerous development bureaucracies with each having its own style.
+Riverton City has hired outside auditors to examine the process. They found that it was
+overall a healthy organization and operating according to standards that are common
+statewide.
+
+Mr. Prestwich reported that the Bluebeam software allows him and Ms. Halversen to know
+the status of any plan under review within the City at any given time. Records are also kept
+of conversations that take place, which results in accountability on staff’s part. The issue of
+consistency was discussed and acknowledged to be critical.
+Riverton City Planning Commission Meeting          13
+January 26, 2023
+
+
+5.    MINUTES
+
+There were no minutes to be reviewed.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:30 p.m.
+

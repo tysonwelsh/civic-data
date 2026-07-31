@@ -1,0 +1,11 @@
+# roster_overrides.csv — Taylorsville hand-correction layer (applied LAST by roster_lib.apply_overrides; wins ties).
+# Keyed by (seat_id, person_key, start_date). Only non-empty cells overwrite the generated row; "sources" gets
+# "; override:roster_overrides.csv" appended. Regenerate the roster after editing: python3 roster/build_roster.py
+#
+# The ONE data row corrects the auto-inserted D2 [2018-01-01, 2020-01-08) VACANT interval. chain_end_dates() spawns
+# that VACANT with a generic "seat empty" note when Kristie Overson vacates D2 to become Mayor (Jan 2018). The seat
+# was NOT literally empty — an interim appointee served 2018-2020 — but that period is entirely BELOW the 2020 data
+# floor and the interim holder's identity is undocumented in the loaded sources, so the honest representation is a
+# low-confidence gap with an accurate note (never a fabricated appointee name). This row rewrites the note/confidence.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note
+taylorsville,Council,D2,District 2,VACANT,vacant,2018-01-01,,vacated,filled,,,,"chained from Overson's documented departure to the Mayor's office (election:2017 Mayor win, sworn ~Jan 2018)",low,"D2 seat-holder 2018-2020 is UNDOCUMENTED (honest gap, not a literally-empty seat): Kristie Overson vacated D2 ~2 years early upon becoming Mayor (sworn ~Jan 2018), leaving ~2 years of her 2016-2020 term. Utah practice is a council appointment to fill until the next general — but that 2018-2020 interim is entirely BELOW the 2020 data floor and the appointee is not named in the loaded sources, so this interval is flagged low, NOT filled with a fabricated name. The 2019 general (Cochran) is the REGULAR B-cycle D2 election whose new term begins exactly when this window closes (2020-01-08)."

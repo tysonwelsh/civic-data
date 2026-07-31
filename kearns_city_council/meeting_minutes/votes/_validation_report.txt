@@ -1,0 +1,39 @@
+Kearns Council — vote extraction validation
+========================================================
+
+Meetings (JSON)        : 119
+Meetings with >=1 vote : 112
+Meetings with 0 motions: 7  ['2019-11-19', '2020-10-12', '2020-12-28', '2021-03-30', '2021-11-16', '2023-10-09', '2025-08-26']
+Motions                : 501
+  tally-only (no names): 488  (of which unanimous: 490)
+  with named dissent   : 13
+Body split             : Council 492 · CRA 9
+Contested motions      : 5
+Mayor-participation rows (presiding officer votes): 373
+
+CSV rows               : 545
+Expected (from JSON)   : 545   [OK]
+body out of range      : 0
+>5-tally / 6th-voter   : 0   (expected 0 — max seat = 5)
+Off-roster council names: 0   (expected 0)
+
+Motion-type distribution:
+   Other                        132
+   Procedural/Administrative    124
+   Resolution                   54
+   Public Hearing Action        50
+   Ordinance                    36
+   Appointment                  28
+   Land-Use/Zoning              26
+   Contract/Purchase            26
+   Budget Amendment             14
+   Interlocal                   7
+   Grant-Funding                2
+   Ceremonial                   2
+
+Contested votes (5):
+   - 2019-09-09 [Council] m8 2-3 Fail (nay: Alan Peterson, Kelly Bush, Tina Snow) :: to table this request for one month. Roll was called showing
+   - 2019-09-09 [Council] m9 3-2 Pass (nay: Patrick Schaeffer, Ruby Brown) :: to approve this request. Roll was called showing the vote to
+   - 2019-10-14 [Council] m3 2-3 Fail (nay: Kelly Bush, Patrick Schaeffer, Tina Snow) :: to approve the resolution. Roll was called showed the vote t
+   - 2023-08-14 [Council] m4 unanimous in favor Pass (abstain: Alan Peterson) :: to approve the minutes of the Kearns Metro Township meetings
+   - 2026-05-11 [Council] m5 4-0 unanimous in favor Pass (abstain: Lorrin Colby Jr.) :: to approve Resolution R2026-12

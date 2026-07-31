@@ -1,0 +1,56 @@
+{
+  "segments": [
+    {
+      "pages": "11-13",
+      "report_label": "Report 2 (tail only) — general-election period report, handwritten Date of Report 10/26/21 over pre-printed '1/0/00'; Attachment A (form Page 4), Attachment B (form Page 5), Attachment C (form Page 6). Cover page (lines 1-6) is BEFORE page 11 — not in this range.",
+      "cover_lines": {},
+      "contributions": [
+        {"date": "8/12/21", "name": "Dave Newton", "amount": "$100", "in_kind": false},
+        {"date": "9/7/21", "name": "Salt Lake County Board of Realtors", "amount": "$1,500", "in_kind": false},
+        {"date": "9/13/21", "name": "Stacy Schultz", "amount": "$100", "in_kind": false},
+        {"date": "9/13/21", "name": "Brian Schultz", "amount": "$100", "in_kind": false},
+        {"date": "9/13/21", "name": "Sandra Poulsen", "amount": "$100", "in_kind": false},
+        {"date": "9/13/21", "name": "Dave Newton", "amount": "$100", "in_kind": false},
+        {"date": "9/20/21", "name": "John Jonson", "amount": "$200", "in_kind": false},
+        {"date": "9/27/21", "name": "Garbett Homes", "amount": "$300", "in_kind": false},
+        {"date": "10/1/21", "name": "Salt Lake County Board of Realtors", "amount": "$750", "in_kind": false},
+        {"date": "10/1/21", "name": "Peterson Development", "amount": "$500", "in_kind": false},
+        {"date": "10/21/21", "name": "Utah Home Builders Association", "amount": "$250", "in_kind": false},
+        {"date": "10/1/21", "name": "Reagan Outdoor", "amount": "$1,577.00", "in_kind": true}
+      ],
+      "expenditures": [
+        {"date": "7/31/21", "recipient": "Facebook", "purpose": "Facebook Ads", "amount": "$103.25", "in_kind": false},
+        {"date": "8/31/21", "recipient": "Facebook", "purpose": "Facebook Ads", "amount": "$52.89", "in_kind": false},
+        {"date": "9/17/21", "recipient": "City Journals", "purpose": "Door Hangars", "amount": "$214.50", "in_kind": false},
+        {"date": "9/23/21", "recipient": "City Journals", "purpose": "Newspaper Ad", "amount": "$540.00", "in_kind": false},
+        {"date": "10/1/21", "recipient": "City Journals", "purpose": "Mailer", "amount": "$750.75", "in_kind": false},
+        {"date": "10/1/21", "recipient": "Facebook", "purpose": "Facebook Ads", "amount": "$5.08", "in_kind": false},
+        {"date": "10/1/21", "recipient": "Reagan Outdoor", "purpose": "Billboard (In Kind)", "amount": "$1,577.00", "in_kind": true},
+        {"date": "10/6/21", "recipient": "Elizabeth Lamb", "purpose": "Graphic Design", "amount": "$50.00", "in_kind": false},
+        {"date": "10/12/21", "recipient": "Salt Lake Mailing", "purpose": "Mailer", "amount": "$2,113.61", "in_kind": false}
+      ]
+    },
+    {
+      "pages": "14-20",
+      "report_label": "Report 1 in this range (COMPLETE) — INTERIM report, Chad Lamb, dated/signed 7/30/21, stamped RECEIVED BY CITY CLERKS OFFICE JUL 30 2021 Time 11:59 By Tangee. p14 separator ('Chad Lamb 07/30/2021 INTERIM'), p15 cover (form Page 1), p16-17 code provisions (form Pages 2-3), p18 Attachment A (form Page 4), p19 Attachment B (form Page 5), p20 Attachment C (form Page 6, empty).",
+      "cover_lines": {
+        "line1_balance_forward": "68.89",
+        "line2_contributions_50_or_less": "-",
+        "line3_contributions_over_50": "1,000.00",
+        "line4_total_contributions": "1,000.00",
+        "line5_total_expenses": "(211.77)",
+        "line6_ending_balance": "857.12"
+      },
+      "contributions": [
+        {"date": "5/14/21", "name": "Salt Lake Board of Realtors", "amount": "1,000.00", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": "6/4/21", "recipient": "City of West Jordan", "purpose": "Campaign", "amount": "$25.00", "in_kind": false},
+        {"date": "6/7/21", "recipient": "WIX.COM", "purpose": "Website Domain", "amount": "$24.85", "in_kind": false},
+        {"date": "6/7/21", "recipient": "WIX.COM", "purpose": "Website", "amount": "$148.00", "in_kind": false},
+        {"date": "6/8/21", "recipient": "Home Depot", "purpose": "Sign Supplies", "amount": "$13.92", "in_kind": false}
+      ]
+    }
+  ],
+  "notes": "Range STARTS MID-REPORT: pages 11-13 are the attachment tail of the second (general-election / 10-26-21) report whose cover page with lines 1-6 sits before page 11 (owned by the p1-10 transcriber) — cover_lines left {} per rules. Attachment A internal boxes on p11 read verbatim: box 1 ($50-or-less since last report) = '-'; box 2 (more than $50 incl. in-kind) = '5,577.00'; the A-1 itemized TOTAL printed on p11 is '4,000.00' — the $1,577.00 gap is the Reagan Outdoor in-kind, itemized only on Attachment C (p13, TOTAL IN-KIND CONTRIBUTIONS $1,577.00) and mirrored as an Attachment B expenditure 'Billboard (In Kind)' (wash entry; p12 Attachment B TOTAL '$5,407.08' INCLUDES it). This matches the sidecar OCR expectation (~$5,577 contributions / $5,407 expenditures). Reagan Outdoor in-kind row is listed here under segment-1 contributions with in_kind=true (sourced from Attachment C, not A-1). Segment 1 footer 'Date of Report' shows pre-printed '1/0/00' struck through with handwritten '10/26/21' (p11-12); p13 has no footer date. Segment 2 (p14-20) is a complete interim report; its footer dates print the form-default '1/0/00' uncorrected on p17-19; cover signed 7/30/21; checkbox marked = first INTERIM (due Aug 3, 2021). Line 5 on the interim cover prints parenthesized '(211.77)' — transcribed verbatim. Segment-2 Attachment A boxes verbatim: box 1 = '-', box 2 = '1,000.00'; A-1 TOTAL '1,000.00'; the 5/14/21 contributor address column reads '230 W Towne Ridge Pkwy #200, Sandy, U' (truncated at cell edge). Attachment C on p20 is empty with TOTAL '$0.00' (honest zero, no rows synthesized). Typos preserved: 'Door Hangars' (p12), 'Redwwod Rd.' in the 6/4/21 City of West Jordan address (p19), 'Doner' (form header). Segment-1 A-1 amounts print without decimals ('$100', '$1,500' etc.) — transcribed as printed. Line-2 ($50-or-less) boxes are unitemized aggregates in both segments (both '-'); no rows synthesized. No illegible cells in this range. Range ENDS at the end of the PDF (p20 = last page); segment 2 does not continue past p20."
+}

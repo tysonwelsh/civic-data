@@ -1,0 +1,596 @@
+# Riverton Planning Commission Meeting — 2022-09-22
+> Source: https://www.utah.gov/pmn/files/912003.pdf
+> Meeting date: 2022-09-22
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/782383.html
+> Format: text
+
+Approved: PC 11.10.22
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                               SEPTEMBER 22 2022
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                    Staff:
+
+Shelly Cluff, Chair                             Tim Prestwich, City Planner
+Gary Cannon                                     Lisa Halverson, City Planner
+Jon Gilchrist                                   Ryan Carter, City Attorney
+Evan Matheson                                   Matt Cassel, City Engineer
+Darren Park
+Troy Rushton
+Keith Breinholt
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Shelly Cluff called the meeting to order at approximately 6:30 p.m. The Pledge of
+Allegiance was led by Commissioner Troy Rushton.
+
+2.     PUBLIC HEARING ITEMS
+
+       A.     AMENDED SITE PLAN- “WALMART NEIGHBORHOOD MARKET,” AN
+              AMENDED SITE PLAN, FOR EXTERIOR PAINT AT THE STORE LOCATED
+              AT 1202 WEST 12600 SOUTH. APPLICANT – JENNIFER PAQUIN.
+
+Chair Cluff opened the public hearing.
+
+City Planner, Lisa Halverson, presented the Staff report and stated that the above item
+involves a request for an Amended Site Plan for Walmart Neighborhood Market located at
+1202 West 12600 South. The applicant has proposed exterior updates to include paint,
+signage, and relocation of the grocery pick-up area. A property rendering was displayed.
+She reported that the signage changes will be administratively reviewed at a later date. The
+bright green canopy will be changed to brown with signage converted to Walmart blue.
+Exterior earth tones will remain unchanged with signage decreasing slightly. Minutes from
+the previous meeting were shared.
+
+Chair Cluff asked if the previous Walmart application included blue paint above the
+doorways. Commissioner Rushton believed that was correct along with changes to blue
+accent canopies.
+
+Commissioner Gilchrist believed the difference between this proposal and the Walmart
+Supercenter was zoning and concern with color. Chair Cluff stated that the previous
+Walmart request was located specifically in a downtown area with corresponding red brick.
+Riverton City Planning Commission Meeting                                               2
+September 22, 2022
+
+Commissioner Park was of the understanding this is zoned Gateway Commercial and does
+not have the same type of restrictions as the Historic Downtown District. In reviewing the
+documents, he did not see much of a color restriction within the Code.
+
+City Planner, Tim Prestwich, pointed out that these are accent colors and the applicant
+intends to keep the brick and stone. The stucco areas will be painted.
+
+Jennifer Paquin was present representing Walmart via Zoom and had no additional
+comments.
+
+There were no public comments. Chair Cluff closed the public hearing.
+
+Commissioner Matheson moved that the Planning Commission APPROVE
+Application PLZ-22-8024 Walmart Amended Site Plan located at 1202 West 12600
+South with the following conditions:
+
+      1.     The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City standards and ordinances, and applicable
+             Building and Fire Codes.
+
+      2.     Building colors and finishes to match those shown on the plans.
+
+      3.     Dumpster walls, pillars, docking bay screen walls, and other on-site
+             structures, not including the boundary fences shall also be painted to
+             match the building.
+
+      4.     The natural and/or cultured stone and veneer shall not be painted.
+
+      5.     Signage to match signage shown on the plans.
+
+      6.     Staff may approve additional sign permits on the primary façade that
+             meet the sign ordinance.
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      B.     HOME OCCUPATION – “THE SMOKING TOAD LLC,” A FURNITURE
+             REPAIR BUSINESS TO BE LOCATED AT 13840 S. LITTLE WATER PEAK
+             DRIVE. APPLICANT – MATTHEW KELSCH.
+
+Chair Cluff opened the public hearing.
+
+Ms. Halverson presented the Staff Report and stated that the above matter involves a
+request for a Home Occupation “The Smoking Toad, LLC”, a furniture repair business to be
+located at 13840 South Little Water Peak Drive. A property rendering was displayed. The
+applicant rents the home and has received permission from the owner to utilize 50% of the
+garage. He will not have patrons visiting the site as he intends to pick up the furniture and
+Riverton City Planning Commission Meeting                                               3
+September 22, 2022
+
+return it once completed. He has agreed to abide by restricted hours for the use of power
+tools. The neighbors were notified of the request and no comments or concerns were
+received by staff. Ms. Halverson reported that this is a Conditional Use Permit as the
+applicant will be utilizing an Accessory Dwelling Unit (“ADU”). If approved, he may use 50%
+of the floor space. Staff recommended approval with conditions listed in the Staff report.
+
+The applicant, Matthew Kelsch, stated that he intends to run a furniture repair business and
+will operate from the garage. He is renting the home from family who has approved the use.
+Most power tools will be finishing tools with minimum noise.
+
+Commissioner Park asked Mr. Kelsch if he will be using an air compressor and about his
+intentions for dust collection. Mr. Kelsch confirmed that an air compressor will be used with
+dust collected by a shop vac.
+
+Commissioner Breinholt noted that the use of operational power tools is allowed between
+the hours of 8:00 a.m. and 6:00 p.m.
+
+Commissioner Matheson asked if the furniture repair will include upholstering and be
+primarily wood furniture. Mr. Kelsch confirmed that he will be upholstering and the majority
+will be made out of wood. He explained that the name “The Smoking Toad” came from his
+affinity for vintage.
+
+There were no public comments. Chair Cluff closed the public hearing.
+
+Commissioner Park referenced conditions in the Staff Report regarding permission from the
+Building Department. He asked if the use of a spray booth would be cause for concern. City
+Planner, Tim Prestwich, stated that an inspection will be conducted. The Fire Marshall will
+be involved if warranted.
+
+Commissioner Rushton moved that the Planning Commission APPROVE Application
+PLZ-22-2038, “The Smoking Toad” located at 13840 South Little Water Peak Drive with
+the following conditions:
+
+      1.     The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City standards and ordinances, specifically the City
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+      2.     Applicant must obtain and maintain a Riverton City Business License.
+
+      3.     Applicant must obtain and maintain applicable State and other outside
+             agency approvals.
+
+      4.     Home Occupation must operate within the Fixed Standards and
+             applicable Qualifications and Conditions as outlined in the Home
+             Occupation Ordinance and with this approval.
+Riverton City Planning Commission Meeting                                              4
+September 22, 2022
+
+      5.     The Home Occupation may use 50% of the detached garage and must
+             get a Final Inspection from the building department.
+
+      6.     The business may have one full-time equivalent employee according to
+             the rules of 18.190.060 (4).
+
+      7.     Any work vehicles must be parked off-street and not display advertising.
+
+      8.     Hours of power tool operation must be kept between 8:00 a.m. and
+             7:00 p.m., Monday through Saturday.
+
+Commissioner Breinholt seconded the motion.              The motion passed with the
+unanimous consent of the Commission.
+
+      C.     HOME OCCUPATION – “R & R GROOMING,” A DOG GROOMING
+             BUSINESS TO BE LOCATED AT 12453 SOUTH HURON ROAD.
+             APPLICANT – RACHELLE RAMOS.
+
+Chair Cluff opened the public hearing.
+
+Ms. Halverson presented the Staff Report and stated that the above matter involves a
+request for a Home Occupation “R & R Grooming,” a dog grooming business to be located
+at 12453 South Huron Road. The business will utilize 50% of the attached garage space
+with proposed business hours between 7:00 a.m. and 7:00 p.m. with one patron at a time.
+A property rendering was displayed. The applicant’s car will be parked in the driveway
+during business hours and the garage includes an outside entrance. It was anticipated that
+the applicant will have three customers per day with six trips, which is well within the
+allowances. Staff recommended approval with conditions listed in the Staff report.
+
+In response to a question raised by Commissioner Rushton, Ms. Halverson confirmed that
+no dog kenneling businesses are allowed in any residential areas in the City.
+
+Commissioner Park asked if having one dog at a time stipulation was discussed between
+Staff and the applicant prior to placing the matter on the agenda. Ms. Halverson noted that
+Staff and the applicant emailed back and forth extensively.
+
+The applicant, Rachelle Ramos, reported that it will be beneficial to her consumers if she
+were allowed to have two dogs at a time from the same home to minimize the number of
+trips. She was in favor of the conditions specifying one customer at a time rather than one
+dog at a time.
+
+Commissioner Cannon wondered how the applicant intends to warm the garage during the
+winter months. Ms. Ramos stated that a portable heating unit will be sufficient to keep the
+garage and dogs warm. She confirmed she has two small dogs of her own.
+
+Commissioner Gilchrist expressed concern with the hot summer months and the dogs
+potentially having to wait to be picked up. Ms. Ramos stated that she intends to keep in
+Riverton City Planning Commission Meeting                                                  5
+September 22, 2022
+
+close contact with her clients who will be required to pick up their dogs within an allotted
+time period when making their appointment. The dogs will not be waiting for extended
+periods of time. She confirmed that she has small children and the timeframe will only allow
+for her to groom three dogs per day.
+
+Commissioner Cannon asked if there will be animals other than dogs being groomed.
+Ms. Ramos confirmed that it will be dogs only.
+
+Chair Cluff asked for the procedure should a neighbor file a complaint regarding barking.
+City Attorney, Ryan Carter, stated that the adjacent property owner will keep a log or
+recorded evidence at which time the offender would be prosecuted. In this instance, the
+applicant would be required to come before the Planning Commission and potentially have
+the Conditional Use Permit revoked. In his experience, when managing a low number of
+dogs, there typically is not a barking issue. Similar activities within the City were discussed.
+
+There were no public comments. Chair Cluff closed the public hearing.
+
+Commissioner Park recommended changing Condition 7 to state that there will be no more
+than three dogs per day, which would make drop-offs and pickups more manageable.
+Commissioner Rushton thought it would be appropriate to note the number of trips per day,
+which would allow for more flexibility. Ms. Halverson confirmed that the Code allows for
+eight trips per day.
+
+Commissioner Gilchrist moved that the Planning Commission APPROVE Application
+PLZ-22-2039 “R & R Grooming” located at 12453 South Huron Road with the following
+conditions:
+
+       1.    The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City standards and ordinances, specifically the City
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+       2.    Applicant must obtain and maintain a Riverton City Business License.
+
+       3.    Applicant must obtain and maintain applicable State and other outside
+             agency approvals.
+
+       4.    Home Occupation must operate within the Fixed Standards and
+             applicable Qualifications and Conditions as outlined in the Home
+             Occupation Ordinance and with this approval.
+
+       5.    The Home Occupation may use 50% of the detached garage and must get
+             a Final Inspection from the building department.
+
+       6.    The business may have one full-time equivalent employee.
+
+       7.    Business shall have no more than 3 dogs at a time (18.190.070).
+Riverton City Planning Commission Meeting                                                  6
+September 22, 2022
+
+
+       8.    The Home Occupation shall not disrupt the peace and quiet of the
+             neighborhood by allowing excessive dog barking (18.190.060.14). Dogs
+             must be kept inside unless accompanied by the applicant in the side
+             fenced area.
+
+Commissioner Rushton seconded the motion.                   The motion passed with the
+unanimous consent of the Commission.
+
+       D.     FINAL SITE PLAN – “SCOOTERS COFFEE”, A COMMERCIAL SITE PLAN
+              FOR A NEW BUILDING AT 3479 WEST 12600 SOUTH. APPLICANT –
+              CATHERINE VOUTAZ.
+
+Chair Cluff opened the public hearing.
+
+Mr. Prestwich presented the Staff Report and stated that the above matter involves a request
+for Final Site Plan for “Scooters Coffee” located at 12600 South and 3479 West. A property
+rendering was displayed. This application began with a CG zoning request and returned
+with a Conditional Use Application for food with a drive-thru. Notices were sent to all property
+owners within 300 feet. No comments were received by staff. Mr. Prestwich stated that
+there is an eight-foot masonry fence proposed along the south and east property lines. The
+building is 664 square feet in size with seven parking stalls, bike racks, and walking routes
+from the public right-of-way.
+
+With regard to access, Mr. Prestwich stated that there are two ordering stations to allow for
+stacking with a complete exit route that does not merge back with the ordering route. The
+property is right in/right-out with proposed shared access with America First Credit Union.
+The shared access will be largely influenced by the Utah Department of Transportation
+(“UDOT”). Landscaping includes mixing plantings and utilization of low-water use concepts.
+Staff recommended moving the trees along the front to the rear for better visibility of signage
+and both intersections.
+
+Mr. Prestwich next reviewed the exterior details. The applicant implemented the three
+elements required in the CG Zone which include brick, stacked stone, columns at corners,
+and canopies over the windows. Yellow neon lighting framing the building was proposed,
+which requires architectural element approval.
+
+Commissioner Park asked if the eight-foot masonry fence along the east side of the property
+was necessary. He also questioned the applicant’s preference for tree placement.
+Mr. Prestwich responded that there is a 17-foot access road adjacent to the property that is
+in a different zone. Technically, there is no flexibility from one zone to another. It was
+confirmed that the private drive is in a residential zone where the Ordinance requires eight-
+foot masonry.
+
+Mr. Carter reported that the fencing issue can be identified as an incompatible use, however,
+an argument can be made that roadways provide a buffer. He suggested that the applicant
+pursue a variance when preparing the site if desired.
+Riverton City Planning Commission Meeting                                                 7
+September 22, 2022
+
+
+Commissioner Gilchrist stated that it does not appear that the right-in/right-out separation
+island will adequately direct access. He suggested that the street striping left-hand turn
+pocket be updated. The southwest corner curb is flat and does not provide ample drainage,
+which may lead to standing water.
+
+Commissioner Rushton agreed that the access is adequate and asked at which point UDOT
+will conduct an analysis of the parcel to the west to review the scope of operations. Staff
+confirmed that at the time of build out and when traffic increases, a Traffic Study will be
+conducted to determine how America First Credit Union operates. Trips generated may
+cause more problems that will require mitigation.
+
+Commissioner Cannon applauded the applicant for their efforts and the design taking a .50-
+acre lot and designing a 600-square-foot building. He appreciated that the property is
+overimproved and believed it will be one of the most beautiful coffee shops in Riverton City.
+
+The applicant, Catherine Voutaz, identified herself as the owner of Little Scooters Coffee
+Shop. She was present with her son, Colton, and her brother, Bruce. This will be their
+second location. She agreed with Commissioner Park regarding the fencing concerns and
+stated that they understand the value of the property and the future development of America
+First Credit Union. She was aware of 12600 South traffic and agreed to the right-hand turn
+in and out. They designed the property to accommodate a full stack of cars. The
+Landscaping Plan was revised to include moving trees from the front to the back of the
+property. She confirmed that the business is a mid-west franchise with an excellent brand
+and incredible people. The proposed hours of operation will be from 5:00 a.m. to 9:00 p.m.
+
+There were no public comments. Chair Cluff closed the public hearing.
+
+Commissioner Gilchrist reported that he reviewed the Ordinance, which states that only a
+six-foot masonry fence and seven feet of landscaping are required. Mr. Prestwich reported
+that the correction from six feet to eight feet was made in the following paragraph. Mr. Carter
+noted that the City will not oppose a variance application if it passes through the Board of
+Adjustment. He believed that the sentiment of the Planning Commission was to lean in favor
+of a more lenient fencing standard under the circumstances.
+
+Chair Cluff moved that the Planning Commission APPROVE Application PLZ-22-8009,
+Scooters Coffee Shop Final Site Plan with the following conditions:
+
+       1.     Site Plan improvements and the buildings shall be consistent with the
+              plans presented to the Planning Commission except where otherwise
+              noted.
+
+       2.     The applicant shall correct or resolve the remaining staff redlines on the
+              civil plans.
+Riverton City Planning Commission Meeting                                              8
+September 22, 2022
+
+      3.     Storm drainage systems and accommodations shall comply with the
+             Riverton City Standards and ordinances, and with the recommendations
+             of the Riverton City Engineering Division.
+
+      4.     The Applicant must create and agree to follow a Long-Term Storm Water
+             Management Plan according to Riverton City Standards and ordinances.
+
+      5.     A Land Disturbance Permit must be issued by the City prior to any
+             construction grading on the site.
+
+      6.     The site and structures shall comply with any and all applicable Riverton
+             City Standards and ordinances, including the International Building and
+             Fire Codes.
+
+      7.     The applicant must obtain final approval from utility providers.
+
+      8.     Rooftop mechanical shall be screened by parapet walls or rooftop
+             screens.
+
+      9.     Wall-mounted service panels shall be painted to match the building.
+
+      10.    Eight-foot masonry fence must be installed along the south and east
+             property lines prior to occupancy of the building. The fence on the east
+             side must terminate or be reduced in height to no more than three feet
+             tall for 20 feet south of the sidewalk.
+
+The Commission discussed the difference between core foam masonry and solid masonry
+fences. Mr. Carter stated that there was a time when masonry walls between incompatible
+uses were heavily discussed for the sake of protecting residential communities. After
+adoption, there was feedback from development communities detailing the linear cost and
+inviting the City Council to look at foam core technologies and comparable products.
+
+Commissioner Matheson seconded the motion.                The motion passed with the
+unanimous consent of the Commission.
+
+      E.     AMENDED SITE PLAN – “HOME DEPOT PAVEMENT EXPANSION,”
+             PARKING LOT EXPANSION FOR THE STORE LOCATED AT 3852 WEST
+             13400 SOUTH. APPLICANT – JORDAN SHEETS.
+
+Chair Cluff opened the public hearing.
+
+Mr. Prestwich presented the Staff Report and stated that the above matter involves a request
+for an amended Site Plan for Home Depot Pavement Expansion located at 3852 West 13400
+South. He confirmed that the public notice was sent to UDOT for review and concerns were
+shared with the applicant. The property site plan was displayed. Landscaping includes
+grass with accents of black and white rock throughout the perimeter. There will be 32 trees
+Riverton City Planning Commission Meeting                                                 9
+September 22, 2022
+
+provided for a total of 51 trees. Staff recommended approval with conditions listed in the
+Staff report.
+
+Commissioner Park wondered if the existing utilities will create issues with the canal. He
+also expressed concern with runoff from the proposed area and the elevation change.
+
+Home Depot Consultant, Jordan Sheets, referenced the existing parking lot and stated that
+the natural grade of the slope runs to the east. The Grading Plan will be consistent with the
+natural slope with a retention pond on the east side. Anything running down from the drive
+will catch in the valley gutter and flow to the east to an existing catch basin.
+
+Commissioner Gilchrist referenced the proposed Americans with Disabilities Act (“ADA”)
+parking stalls and asked if they should be located closer to the existing stalls. Mr. Sheets
+stated that they would be willing to add more ADA stalls near the front of the store if needed.
+The intent was to help those with disabilities get closer to the tool rental and other areas.
+
+Commissioner Park asked if the new area is where employees will be encouraged to park.
+Mr. Sheets confirmed that the employees, rental trucks, and trailers will all utilize the new
+space.
+
+There were no public comments. Chair Cluff closed the public hearing.
+
+Chair Cluff moved that the Planning Commission APPROVE Application PLZ-22-8020
+Home Depot Amended Site Plan with the following conditions:
+
+       1.     Site Plan improvements and the buildings shall be consistent with the
+              plans presented to the Planning Commission except where otherwise
+              noted.
+
+       2.     The applicant shall correct or resolve the remaining staff redlines on the
+              civil plans.
+
+       3.     Storm drainage systems and accommodations shall comply with the
+              Riverton City Standards and ordinances, and with the recommendations
+              of the Riverton City Engineering Division.
+
+       4.     The Applicant must create and agree to follow a Long-Term Storm Water
+              Management Plan according to Riverton City standards and ordinances.
+
+       5.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+
+       6.     The site and structures shall comply with any and all applicable Riverton
+              City Standards and ordinances, including the International Building and
+              Fire Codes.
+
+       7.     The applicant must obtain final approval from utility providers.
+Riverton City Planning Commission Meeting                                               10
+September 22, 2022
+
+
+Commissioner Park seconded the motion. The motion passed with the unanimous
+consent of the Commission. Commissioner Breinholt was not present for the vote.
+
+3.     DECISION ITEMS
+
+       A.     AMENDED SITE PLAN -“DISCOUNT TIRE,” AN AMENDED SITE PLAN
+              FOR AN EXTERIOR PAINT CHANGE LOCATED AT 1643 WEST 12600
+              SOUTH. APPLICANT – TYSON TEAL.
+
+Mr. Prestwich reported that the above item is a request for an Amended Site Plan for
+Discount Tire located at 1643 West 12600 South. The applicant intends to make slight
+modifications to the exterior of the building, which requires a Site Plan approval. A property
+rendering was displayed. Changes will be made to the stucco while maintaining the red
+brick. The stucco will be painted white with a band of black to follow the branding and
+highlight signage with grey paint around the bottom. Staff will review the signage at the time
+of sign application and recommended approval.
+
+Commissioner Park asked if the proposed changes are consistent with the Historic
+Downtown requirements. Mr. Prestwich confirmed that it is in compliance.
+
+Discount Tire Facility Manager for the Utah and Idaho Region, Tyson Teal, stated that their
+intent is to paint the stucco white and black, bay doors and man doors grey, with wainscotting
+along the bottom of the columns also being painted grey. The bollards will be covered in a
+grey plastic type of cover that requires minimal maintenance.
+
+Commissioner Rushton moved that the Planning Commission approve PLZ-22-8030
+“Discount Tire Repaint” amending the exterior of the existing Discount Tire
+commercial building located at 1643 West 12600 South with the following conditions:
+
+       1.     The alterations shall be limited to those shown on the approved drawing.
+
+       2.     Brick areas shall not be painted or otherwise altered.
+
+Commissioner Cannon seconded the motion. The motion passed with the unanimous
+consent of the Commission. Commissioner Breinholt did not participate in the vote.
+
+4.     DISCUSSION ITEMS
+
+       A.     PLANNING COMMISSION TRAINING.
+
+Mr. Carter led the Planning Commission training that focused on Conditional Uses. He
+stated that the question to consider is the relevancy of the evidence when they are
+contemplating a Conditional Use. How the evidence stacks up in favor of or against an
+application was a priority. He described a previous request for two 65-foot silos by Kilgore
+Construction. The question was what kind of impact is created by the silos where 100-foot
+silos have previously been granted and 40-foot silos are allowed. He noted that the
+Riverton City Planning Commission Meeting                                                  11
+September 22, 2022
+
+administration indicated that the initial take is that the Conditional Use will not degrade the
+public health, safety, or welfare as only the height can be considered and not the operations.
+The creation of a visual blight or resale value of a home was contemplated. He explained
+that the professional report submitted by Kilgore Construction stated that it would have an
+inconsequential impact on nearby properties based on the presence of the three 100-foot
+silos and being located one-half mile from surrounding neighborhoods. It was concluded
+that there is no way to tie the 65-foot silos to the degradation of home values in the
+surrounding communities. The basis for the appeal was described.
+
+Mr. Carter stated that Riverton City has issues with bringing properties into compliance with
+Code as there is a complaint-driven system in place without adequate staffing. He supported
+an application being presented to come into compliance and he believed that the philosophy
+of working with the property owner was a good approach. An argument was presented
+stating there is a relationship between the silos and the general nuisance of the batch plant
+indicating that if there were more silos or capacity, the greater the nuisance created for the
+surrounding environments. He believed it was a decent argument conceptually but would
+require evidence showing how the batch plant works and the role of the silos. Kilgore’s
+argument was that the silos do not change the pace of the plant or the material produced.
+They will have a permit limiting truck routes to 150 round trips per day. Mr. Carter believed
+the silos create a more varied product line, which may be more appealing to consumers.
+Their argument was that if the 65-foot silos are removed, they will put up more 40-foot silos,
+which will result in more active trucks and increased plant traffic created by a larger number
+of smaller silos. He believed the additional height was in actuality a mitigating factor.
+
+Commissioner Park expressed concern with having a 40-foot limitation if the additional
+height is a mitigating factor and creates a better operating plant with less dust and traffic.
+He questioned whether the 40-foot limit should be removed for that land use or whether the
+use is not compatible with the 40-foot limitation set forth in the Ordinance. Mr. Carter
+reiterated that the batch plant is one-half mile from residents but being any closer, height
+issues are a much more prominent concern. He referred to the argument that states that
+there is a relationship between the silos and the general nuisance of the batch plant.
+
+Commissioner Cannon asked if this could resemble the South Valley Sewer application to
+rezone the property to include a two-story structure on the north end next to the river. The
+request was to not only spot zone for the structure but the entire property to give them the
+ability to build multiple two-story buildings. Mr. Carter stated that there is much more
+discretion when setting the zoning for the property and the City acts in its legislative capacity
+where regulatory power is at its height. He believed this was mitigated through a Settlement
+Agreement involving the City, neighbors, and the Sewer District. He was not present for the
+main litigation.
+
+Commissioner Rushton stated that Staff brought the discussion item to the Commission
+which considered the taller silos. Mr. Carter explained there was a solution that did not
+include the silos but increased the cost of business, which would involve passing the cost
+on to the community. There was no evidence submitted to support the idea that the
+increased heights in the silos would degrade the surrounding property values. He stated
+Riverton City Planning Commission Meeting                                                 12
+September 22, 2022
+
+that the lesson is to focus on the issue to the extent that surrounding collateral issues as a
+basis of denial will be very difficult to sustain if appealed.
+
+Mr. Carter next reviewed the Staker vs. Springdale Conditional Use Permit denial. Staker
+was looking in a neighborhood that was also zoned for Neighborhood Commercial type uses.
+Springdale was careful to say that they were going to allow for limited types of commercial
+uses so long as they do not disrupt the old town feel of the area subject to this use. There
+was a Conditional Use listed in this particular zone that enabled commercial parking lots to
+be constructed. Staker submitted a Concept Plan that originally proposed a parking lot with
+83 spaces and the removal of the house on the property. The plan placed screening
+vegetation next to the neighboring property lines. Changes were described.
+
+The Springdale Ordinance standard was written with a broad perspective and provided
+ample argument for both sides. Mr. Carter explained that in the body of the opinion, there
+is a point where the City Council determined where there is a commercial parking lot, there
+is also some type of transit hub. The Council made the point that the use would impose a
+burden on resources and provided little analytical evidence to indicate support. He
+explained that the property was adjacent to residential uses and would impact the
+surrounding properties with an increase in traffic, noise, and general activity on the property.
+The Planning Commission determined that the lot cannot be screened adequately from
+surrounding properties and substantially mitigated. The court stated that neighbors testified
+on the topic and identified potential problems that would come with the application. It
+became obvious that there was no compatibility between the use and the location. He
+confirmed that one of the main differences between the two cases was proximity. The
+difference between substantial evidence and an arbitrary and capricious decision was
+described.
+
+Mr. Carter believed that one of the most toxic items to introduce into evidence of a hearing
+for a Conditional Use Permit is a neighborhood petition. He offered direction when being
+presented with a petition. He stressed the importance of understanding that this is not an
+election and direction should provide adequate evidence to be included on the record.
+Procedural issues were discussed. When a petition is submitted, the Planning Commission
+should clarify that it is their intent to review evidence as to why they should or not support
+the application. He believed it was challenging to find the right evidence to support direction.
+As long as the Planning Commission is mindful, Staff will be available to provide assistance.
+
+5.     MINUTES
+
+       A.     MINUTES.
+
+6.     ADJOURNMENT
+
+The meeting adjourned at approximately 9:15 p.m.
+

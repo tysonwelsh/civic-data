@@ -1,0 +1,420 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1984&doc_id=4327b78f-d201-11f0-bb28-005056a89546
+> Meeting date: 2025-11-18
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, NOVEMBER
+18, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:     Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+             Johnson, Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED:
+STAFF:       Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+             Spencer DuShane, Assistant City Attorney; Pat Evans, Captain; Jennifer
+             Jastremsky, Community Development Director; Robert Markle, Deputy
+             Public Works Director and Engineer; Rhett Ogden, Parks and Recreation
+             Director; Derek Orth, Human Resource Director; Linda Peterson,
+             Communications Director; Nicole Smedley, City Recorder; Clint Smith,
+             Fire Chief; Jake Sorensen, Network Manager; Travis DeJong, Business
+             License Official; and John Vuyk, Finance Director
+______________________________________________________________________________________
+
+Study Session
+
+   Discussion: Comprehensive Emergency Management Plan
+   Emergency Management Coordinator Nick Roble presented an update to the
+   Draper City Comprehensive Emergency Management Plan (CEMP), and answered
+   questions from the Council. Mr. Roble said he was working to rebuild the CERT
+   program. City Manager Mike Barker said he would email the CEMP to the City
+   Council for review, with adoption anticipated in January.
+
+   Discussion: Boundary Line Adjustment with Bluffdale Regarding The Point
+   Mr. Barker explained the proposal to adjust the common boundary between
+   Draper and Bluffdale at a specific intersection in The Point so that the entirety of
+   the road was within Bluffdale, for ease of jurisdiction and maintenance
+   responsibility. The intersection was currently within the Draper boundary.
+
+   Mr. Barker pointed out a portion of the Porter Rockwell Trail currently within the
+   Bluffdale boundary, and said an adjustment may be proposed to put all of the
+   trail in Draper for ease of maintenance responsibility. He said staff would work
+   with Bluffdale and bring potential adjustments to a future meeting.
+
+
+
+
+                                                                             1|Page
+        Draper City Council Approved Meeting Minutes – December 2, 2025
+   Closed Meeting
+   Councilmember Green moved to recess to a closed meeting to discuss pending
+   or reasonably imminent litigation, purchase, exchange, or lease of real property,
+   and the character, professional competence, or physical or mental health of an
+   individual with the intent to return to open meeting. Councilmember T. Lowery
+   seconded the motion.
+
+   A roll call vote was taken. The motion passed unanimously.
+                                           Yes     No    Absent
+   Councilmember Green                      X
+   Councilmember Johnson                    X
+   Councilmember T. Lowery                  X
+   Councilmember F. Lowry                   X
+   Councilmember Vawdrey                    X
+
+   Report: Parks Capital Improvement Projects
+   Parks and Recreation Director Rhett Ogden reported on completed parks capital
+   improvement projects, and provided an update on current projects: Jenson Farms
+   Park Phase 3, Carpe Diem Bike Trail, Porter Rockwell Trail, North Cranberry Hills
+   Access, and Phebe Brown Trail Phase 2. The Council and staff discussed a
+   particular portion of the Phoebe Brown trail, and a majority of the Council
+   appeared to support an 8-foot paved trail along the entire corridor, with direction
+   that residents encroaching on the trail should pay the City fair value for the
+   encroachment.
+
+   Mr. Ogden described trail projects recommended by the Parks, Trails, and
+   Recreation Committee. He said all the projects would be eligible to apply for Trail
+   Foundation funding.
+
+   Council/Manager Reports
+   Moved to the end of the Business Session
+
+Business Session
+
+1. Call to Order by Mayor Troy K. Walker
+
+2. Pledge of Allegiance
+
+3. Oaths of Office
+
+
+                                                                            2|Page
+  Chief Smith introduced recently promoted Engineer Boyd Hammond, and
+  Firefighters Parker Hansen, Josh Myers, and Wes Rasch. Chief Smith supervised
+  the badge pinning, and City Recorder Nicole Smedley administered the Oath of
+  Office.
+
+4. Public Comments
+  Grant Howarth, Herriman City resident, spoke about difficulties experienced by
+  the early colonies, and commented that January 16 was recognized as Freedom
+  of Religion Day by the State of Utah. He asked the Council to consider establishing
+  a Religious Freedom Day for the Draper community.
+
+  Branson Brinton, Draper resident, commented that Draper City did not have an
+  indoor tennis facility. He asked the Council to consider approving use of currently
+  unutilized City land for a temporary indoor tennis facility, with the intent that over
+  time a permanent facility would be built.
+
+5. Consent Items
+   5.a Approve the October 21, 2025 City Council Meeting Minutes
+   5.b Approve Resolution #25-60 appointing Jason Wiggins as a member of the
+      Draper City Parks, Trails and Recreation Committee
+  5.c Approve Resolution #25-61 appointing Gentry White as a member of the
+      Draper City Tree Committee
+  5.d Approve Resolution #25-62 appointing Mayor Troy Walker as Draper City’s
+      designated representative to the Board of Trustees of the Jordan Basin
+      Improvement District
+  5.e Approve Resolution #25-63 accepting a quit claim deed from Triple S
+      Investment Co., LLC
+  5.f Approve Resolution #25-64 adopting the official Draper City Brand and Style
+      Guide
+
+  Councilmember Vawdrey moved to approve                     the   Consent     Agenda.
+  Councilmember Johnson seconded the motion.
+
+  A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+  Councilmember Green                     X
+  Councilmember Johnson                   X
+  Councilmember T. Lowery                 X
+  Councilmember F. Lowry                  X
+
+
+                                                                              3|Page
+   Councilmember Vawdrey                 X
+
+6. Items for Council Consideration
+   6.a Public Hearing: South Salt Lake Valley Mosquito Abatement District Proposed
+       Tax Increase
+       Brad Gilson, representing the South Salt Lake Valley Mosquito Abatement
+       District (SSLVMAD), introduced District Manager Dan McBride. Mr. McBride
+       reported the intent of the SSLVMAD to hold a Truth in Taxation hearing on
+       December 8, 2025. He said the proposed property tax increase would equal
+       $0.77 per year for a $600,000 residence, and $1.40 per year for a $600,000
+       business. The proposed increase in revenue would provide cost stabilization
+       of essential services, operational enhancements, and replenish capital
+       budget reserves.
+
+       Responding to a question from Councilmember T. Lowery, Mr. McBride said
+       there had been an increase in the incidence of West Nile Virus nationwide
+       and statewide.
+
+       Mayor Walker opened a public hearing, and closed the public hearing seeing
+       no one come forward.
+
+       Mayor Walker thanked Mr. McBride for the presentation.
+
+   6.b Public Hearing: Providing Local Consent for a Limited-Service Restaurant
+       License for Little Thai Kitchen LLC
+       Business License Official Travis DeJong presented a request for Local
+       Consent for a Limited-Service Restaurant License for Little Thai Kitchen LLC.
+       He said the application met all distance requirements, and explained there
+       was no limit to the number of limited-service restaurant licenses the City
+       could grant.
+
+       Mayor Walker opened a public hearing, and closed the public hearing seeing
+       no one come forward.
+
+       Councilmember F. Lowry moved to approve Local Consent. Councilmember
+       Green seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                         Yes No      Absent
+
+                                                                           4|Page
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery           X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+6.c   Public Hearing: Resolution #25-66 amending the adopted budget of Draper
+      City for Fiscal Year 2025-2026
+      Finance Director John Vuyk presented a proposed amendment to the FY2026
+      Budget. He reported grant funding received for the Fire Department, and
+      explained the need to add another $30,000 to the budget amendment for
+      fire engine equipment.
+
+      Mayor Walker opened a public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember T. Lowrey moved to approve Resolution #25-66, with
+      addition of another $30,000 from General Fund balance for Fire Engine
+      Equipment. Councilmember Mike Green seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+6.d Public Hearing: Ordinance #1683 amending the Official Zoning Map of
+      Draper City for approximately 1.31 acres of property located at 1360 E. 13200
+      S. and 0.97 acres of property located at 13239 S. 1300 E., known as the
+      Plummer Zoning Map Amendment
+      Nick Whittaker, MCMP, showed the subject properties on a vicinity map, and
+      explained the request to amend the Zoning Map from RA1 (Residential
+      Agricultural, 40,000 square foot minimum lot size) to RA2 (Single-Family
+      Residential, 20,000 square foot minimum lot size). He said it was his
+      understanding the property owner desired to subdivide the land into three
+      lots. Mr. Whittaker stated RA1 and RA2 were compatible zones, and said the
+
+
+
+                                                                          5|Page
+      Planning Commission reviewed the request and forwarded a positive
+      recommendation.
+
+      Councilmember Johnson asked how the three proposed lots would be
+      configured. Mr. Whittaker responded an application for subdivision had not
+      yet been submitted.
+
+      Burke Plummer, applicant, said he wanted to make three lots out of two, with
+      two half-acre lots and one larger L-shaped lot. Councilmember Green asked
+      why the current zoning would not work for the applicant. Mr. Plummer said
+      he would not be able to build his home in the way he desired without
+      combining the two properties in the RA2 Zone, and subdividing into three
+      properties.
+
+      Mayor Walker opened a public hearing, and closed the public hearing seeing
+      no one come forward.
+
+      Councilmember Vawdrey moved to approve                 Ordinance     #1683.
+      Councilmember T. Lowrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+6.e   Public Hearing: Ordinance #1684 and Ordinance #1685 amending the
+      Official Land User Map and an Ordinance amending the Official Zoning Map
+      of Draper City for approximately 0.89 acres of property located at 1394 E.
+      12900 S., known as the Fetzer Land Use Map and Zoning Map Amendments
+      Mr. Whittaker presented the request to amend the Land Use Map from Low-
+      Medium Density to Medium Density designation for the subject property,
+      and the request to change the Zoning Map from RA2 (Residential
+      Agricultural, 20,000 square foot minimum lot size) to R3 (Single-Family
+      Residential, 13,000 square foot minimum lot size). Mr. Whittaker said the R3
+      Zone would allow for creation of one additional lot, and said the purpose of
+      the request was to allow the applicant to age in place. He said the Planning
+
+                                                                         6|Page
+Commission reviewed         the   request    and    forwarded    a   positive
+recommendation.
+
+Councilmember F. Lowry asked if subdivision of the property into three lots
+would be possible with the R3 Zone. Mr. Whittaker responded subdivision
+into three lots would not be possible without the purchase of additional land
+from neighboring properties.
+
+Robert Fetzer, applicant, said he owned the subject property and home. He
+said he and his wife loved their home and neighborhood, and wanted to
+remain in their home as long as possible to age in place. He said he was
+seeking the change in zone to allow himself the option to subdivide before
+the maintenance of his home and property became too difficult for him.
+
+Councilmember Green asked why the existing zoning was not proper. Mr.
+Fetzer said his family had discussed the possibility of his daughter
+purchasing the subdivided lot and providing needed property maintenance,
+as well as looking after his personal needs.
+
+Mayor Walker opened a public hearing.
+
+Ryan Swapp, Draper resident, said he lived on a property adjacent to the
+subject property. He expressed concern that the subject property was only a
+couple hundred square feet short of being eligible for subdivision into three
+lots, if zoned R3. Mr. Swapp said subdivision into three lots would change
+and destroy the nature and character of the lane, and said the single-
+direction lane was not capable of supporting more than the existing homes.
+He said he viewed the requested rezone as spot zoning, inconsistent with the
+General Plan.
+
+Shawn Steinman, Draper resident, said he typically loved projects like the
+one under consideration. However, he said the subject property was on a
+private lane that currently serviced two homes. Mr. Steinman said
+subdivision of the subject property into three lots would add constraints on
+the existing private lane agreement. He said he believed density had its
+place, and did not believe adding density to a private lane was the place. Mr.
+Steinman expressed concern for safety, and spoke of a precedent that would
+be set. He said he believed the applicant could accomplish what was desired
+with the current ADU clause.
+
+                                                                     7|Page
+Mayor Walker closed the public hearing.
+
+Councilmember F. Lowry asked if the applicant would be opposed to a
+development agreement limiting the development possibility to two lots.
+Councilmember T. Lowery explained that although the applicant did not
+have quite enough land to request the R2 Zone for two lots, a similar result
+could be achieved with a development agreement.
+
+Mr. Fetzer said it had not ever been his intent to create more than a two-lot
+situation. Mr. Whittaker expressed the opinion that rezoning to R3 would be
+the most straightforward way of creating a two-lot subdivision based upon
+zoning designations available. He said one of the two lots would be able to
+access 12900 East, and would not need access to the private lane.
+
+Community Development Director Jen Jastremsky said the Zoning Code did
+not allow a private lane to count toward the lot size calculation, and stated
+there would be no way to get three lots out of the subject property with the
+R3 Zone. Responding to a question about the possibility of acquiring more
+property, Ms. Jastremsky pointed out that homes on adjacent properties
+were fairly close to the property lines, and the properties did not have much
+land to give. Responding to a question from Councilmember T. Lowery, Ms.
+Jastremsky confirmed there would be no possibility of the subject property
+splitting into three lots if the Council approved the rezone to R3.
+
+Councilmember Vawdrey said access to 12900 East for the potential second
+lot resolved the concern expressed regarding the private lane.
+
+Councilmember Green moved to approve Ordinances #1684 and #1685.
+Councilmember Vawdrey seconded the motion.
+
+A roll call vote was taken. The motion passed unanimously.
+                                  Yes No      Absent
+Councilmember Green                 X
+Councilmember Johnson               X
+Councilmember T. Lowery             X
+Councilmember F. Lowry              X
+Councilmember Vawdrey               X
+
+
+
+                                                                    8|Page
+7. Action Items
+   7.a Resolution #25-66 accepting the City of Draper Audit and Annual
+      Comprehensive Financial Report (ACFR) for Fiscal Year ending June 30, 2025
+      Finance Director John Vuyk introduced Rob Wood, who presented the Audit
+      and ACFR for FY2025. Mr. Wood reported Draper was found to be in
+      compliance with generally accepted accounting principles and noticing
+      requirements.
+
+      Councilmember T. Lowery moved to approve                Resolution   #25-66.
+      Councilmember Green seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+  7.b Resolution #25-67 of the Draper City Council acting as the Municipal Board
+      of Canvassers declaring the results of the November 4, 2025 General
+      Municipal Election
+      City Recorder Nicole Smedley presented a statement of votes cast in the
+      2025 General Election, with Troy K. Walker receiving a majority of votes
+      (72.35%) for Mayor, and Kathryn Dahlin receiving a majority of votes (55.61%)
+      for the Draper City Council At-Large (2-year term) seat.
+
+      Councilmember F. Lowry moved to approve                 Resolution   #25-67.
+      Councilmember T. Lowrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No      Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Vawdrey               X
+
+
+
+
+                                                                           9|Page
+   7.c   Ordinance #1682 amending Titles 7 and 10 of the Draper City Municipal Code
+         regarding the requirement for fire sprinklers under the Draper City Fire and
+         Construction Codes
+         Assistant City Attorney Spencer DuShane said a member of staff had noticed
+         that City Code was deficient regarding requirement for fire sprinklers. Mr.
+         DuShane said State Code adopted the International Fire Code, but left some
+         elements out, allowing individual jurisdictions to decide whether to add them
+         back in. He said adoption of the proposed ordinance would adopt the
+         International Fire Code requirement for fire sprinklers, and correct various
+         grammatical errors.
+
+         Councilmember Green moved to approve                    Ordinance      #1682.
+         Councilmember Vawdrey seconded the motion.
+
+         A roll call vote was taken. The motion passed unanimously.
+                                           Yes No      Absent
+         Councilmember Green                 X
+         Councilmember Johnson               X
+         Councilmember T. Lowery             X
+         Councilmember F. Lowry              X
+         Councilmember Vawdrey               X
+
+Council/Manager Reports (continued from Study Session)
+  • Councilmember F. Lowry reported that a specific road work sign was in a
+     hazardous location on 13800 South. Robert Markle, Deputy Public Works
+     Director stated he would look into it.
+  • Chief Smith reported the City’s new fire engine would be put into service on
+     November 20, 2025. He invited the Council and public to attend the scheduled
+     push-in ceremony.
+
+8. Adjournment
+   Councilmember Green moved to adjourn the meeting. Councilmember F. Lowry
+   seconded the motion, which passed by unanimous voice vote.
+
+   The meeting adjourned at 8:24 p.m.
+
+
+
+
+                                                                             10 | P a g e
+

@@ -1,0 +1,66 @@
+{
+ "date": "2026-02-11",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2026/2026-02-09/2026-02-11_planning-commission-meeting.md",
+ "attendance": [
+  "Cory Thomson",
+  "Heather Robertson",
+  "Jim Nelson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "the recommendation of denial to Nephi City Council",
+   "motion_type": "Ceremonial",
+   "result": "Negative recommendation 3:0",
+   "action_class": "recommendation",
+   "mover": "Jim Nelson",
+   "seconder": "Cory Thomson",
+   "aye": [
+    "Heather Robertson",
+    "Cory Thomson",
+    "Jim Nelson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": true,
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the minutes be adopted",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Cory Thomson",
+   "seconder": "Jim Nelson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the meeting adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Cory Thomson",
+   "seconder": "Heather Robertson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 3
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "date": "2019-11-19",
+ "year": 2019,
+ "title": "City Council Special Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Ruby Brown"
+ ],
+ "source": "minutes/2019/2019-11-18/2019-11-19_city-council-special-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Resolution No. 19-11-02. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the amendment. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 4
+   }
+  }
+ ]
+}

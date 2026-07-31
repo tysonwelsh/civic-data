@@ -1,0 +1,21 @@
+{
+  "contributions": [
+    {"date":"06/15/23","name":"Kathie L. Johnson","city":"South Jordan","state":"UT","amount":"4000","in_kind":false},
+    {"date":"09/15/23","name":"Dan Johnson","city":"South Jordan","state":"UT","amount":"100","in_kind":false},
+    {"date":"09/26/23","name":"Rebecca Campbell","city":"South Jordan","state":"UT","amount":"50","in_kind":false},
+    {"date":"10/12/23","name":"Kathie L. Johnson","city":"South Jordan","state":"UT","amount":"3000","in_kind":false},
+    {"date":"08/25/23","name":"Brad Marlor","city":"South Jordan","state":"UT","amount":"140","in_kind":true}
+  ],
+  "expenditures": [
+    {"date":"09/18/23","recipient":"NationBuilder","purpose":"Campaign Management","amount":"191.98","in_kind":false},
+    {"date":"09/18/23","recipient":"US Business Data","purpose":"Phone #'s","amount":"27.00","in_kind":false},
+    {"date":"09/28/23","recipient":"Local Cookie Co","purpose":"Volunteer Thank-you!","amount":"14.29","in_kind":false},
+    {"date":"10/09/23","recipient":"Presto Print","purpose":"Banners","amount":"484.88","in_kind":false},
+    {"date":"10/12/23","recipient":"Postcardmn","purpose":"Mailer","amount":"2171.75","in_kind":false},
+    {"date":"10/18/23","recipient":"NationBuilder","purpose":"Campaign Management","amount":"191.98","in_kind":false}
+  ],
+  "total_contributions": "7290",
+  "total_expenditures": "6237.17",
+  "total_contributions_ytd": "7290",
+  "total_expenditures_ytd": "6237.17"
+}

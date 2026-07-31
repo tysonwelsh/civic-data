@@ -1,0 +1,44 @@
+{
+ "config": {
+  "contest": "Springville City Council (2 Year)",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "2982"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "CHRIS SORENSEN": 2853.0,
+    "KELLY JENSEN": 706.0,
+    "LYLE WERT": 2481.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KELLY JENSEN",
+     "transfers": {
+      "CHRIS SORENSEN": 402.0,
+      "LYLE WERT": 226.0,
+      "Inactive Ballots": 78.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "CHRIS SORENSEN": 3255.0,
+    "LYLE WERT": 2707.0,
+    "Inactive Ballots": 78.0
+   },
+   "tallyResults": [
+    {
+     "elected": "CHRIS SORENSEN",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+grouping,key,n_records,housing_units
+type,single_family,147317,147357
+type,multi_family,47887,84240
+subtype,single_family,147317,147357
+subtype,apartment,1065,28041
+subtype,townhome,22248,22616
+subtype,condo,15049,15120
+subtype,duplex,8013,14498
+subtype,mobile_home_park,307,2465
+subtype,mixed th/single_family,1205,1500

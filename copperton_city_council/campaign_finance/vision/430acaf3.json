@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "10/15/19", "name": "Kathleen Bailey", "amount": "450", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/15/19", "recipient": "Immaculate Conception Alter Soc.", "purpose": "Donation", "amount": "100", "in_kind": false},
+    {"date": "10/15/19", "recipient": "St. Paul's Methodist Church - Bake Sale", "purpose": "Donation", "amount": "100", "in_kind": false},
+    {"date": "10/15/19", "recipient": "LDS Copperton WARD Cub Scouts", "purpose": "Donation", "amount": "100", "in_kind": false},
+    {"date": "10/15/19", "recipient": "Jordan Credit Union", "purpose": "Fee", "amount": "3", "in_kind": false},
+    {"date": "10/15/19", "recipient": "Sam's Club", "purpose": "Purchase - tape", "amount": "10.75", "in_kind": false},
+    {"date": "10/16/19", "recipient": "Original copy print", "purpose": "flyer printing", "amount": "64.65", "in_kind": false},
+    {"date": "6/6/19", "recipient": "election filing fee Salt Lake County", "purpose": "filing Fee", "amount": "50", "in_kind": false}
+  ],
+  "total_contributions": "450",
+  "total_expenditures": "428.40",
+  "contributions_50_or_less": null,
+  "beginning_balance": "50",
+  "ending_balance": "71.60",
+  "_meta": {
+    "index_path": "raw/kathleen-bailey-copperton_oct.pdf",
+    "candidate": "Kathleen Bailey",
+    "office": "Metro Township Council At-Large (2019 A/B/C cycle)",
+    "filing_type": "interim",
+    "election_year": "2019",
+    "source_pdf": "/Users/tysonwelsh/civic-data/copperton_city_council/campaign_finance/raw/kathleen-bailey-copperton_oct.pdf",
+    "pages": 4
+  }
+}

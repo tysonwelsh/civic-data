@@ -1,0 +1,282 @@
+South Salt Lake — vote extraction validation report
+========================================================================
+Meeting JSONs             : 139
+Meetings with >= 1 motion : 135
+Motions extracted         : 683
+
+Body counts:
+   Council              558
+   RDA                  125
+
+Vote-mode split:
+   Roll Call            448
+   Voice                231
+   Vote                 4
+
+Motion-type distribution:
+   Procedural/Administrative  226
+   Ordinance                  146
+   Resolution                 122
+   Other                      83
+   Land-Use/Zoning            46
+   Budget Amendment           27
+   Appointment                24
+   Interlocal                 8
+   Contract/Purchase          1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year).
+SSL council roster evolves; max tally = 7; Mayor (executive) never votes.
+------------------------------------------------------------------------
+
+2020:
+   Sharla Bynum               91
+   Ray deWolfe                91
+   Portia Mila                90
+   Natalie Pinkney            90
+   Shane Siwik                90
+   Corey Thomas               90
+   LeAnne Huff                88
+   Leanne Huff                2
+
+2021:
+   Ray deWolfe                17
+   LeAnne Huff                17
+   Portia Mila                17
+   Natalie Pinkney            17
+   Shane Siwik                17
+   Corey Thomas               17
+   Sharla Bynum               17
+
+2022:
+   Sharla Bynum               22
+   Portia Mila                22
+   Natalie Pinkney            22
+   Shane Siwik                22
+   Corey Thomas               22
+   Clarissa Williams          22
+   LeAnne Huff                22
+
+2023:
+   Sharla Bynum               107
+   LeAnne Huff                107
+   Portia Mila                107
+   Natalie Pinkney            107
+   Corey Thomas               107
+   Clarissa Williams          107
+   Shane Siwik                77
+   Paul Sanchez               12
+
+2024:
+   Sharla Bynum               167
+   Corey Thomas               167
+   Clarissa Williams          167
+   Natalie Pinkney            167
+   LeAnne Huff                166
+   Nick Mitchell              165
+   Paul Sanchez               142
+
+2025:
+   Corey Thomas               178
+   Clarissa Williams          178
+   Sharla Bynum               177
+   LeAnne Huff                177
+   Nick Mitchell              172
+   Ray deWolfe                167
+   Paul Sanchez               141
+
+2026:
+   Sharla Bynum               97
+   Nick Mitchell              97
+   Ray deWolfe                97
+   Corey Thomas               97
+   Clarissa Williams          97
+   Joy Glad                   76
+   Irvin Jones                76
+   LeAnne Huff                13
+   Paul Sanchez               6
+
+------------------------------------------------------------------------
+MAYOR-IN-ROLL FLAGS (executive should never be in a roll call): 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+>8-VOTER FLAGS: 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (seated != 8): 104
+An absent member (6 seated), a vacancy, or a parse miss. Reviewed.
+------------------------------------------------------------------------
+   2020-11-04 [RDA] m1: 2 seated (expected 7) aye=2 nay=0 abstain=0 absent=0 recuse=0 :: Presentation of Economic Benefit and costs as
+   2023-09-27 [Council] m1: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: motion to approve the minutes listed above
+   2023-09-27 [Council] m2: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2023-09-27 [Council] m3: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2023-09-27 [Council] m4: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: motion to Adjourn
+   2023-10-11 [Council] m1: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: motion to approve the minutes listed above
+   2023-10-11 [Council] m2: 6 seated (expected 7) aye=3 nay=1 abstain=0 absent=2 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2023-10-11 [Council] m3: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2023-10-11 [Council] m4: 6 seated (expected 7) aye=4 nay=0 abstain=0 absent=2 recuse=0 :: motion to Adjourn
+   2023-10-25 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Tara Shupe – Regular Civilian Review Board Me
+   2023-10-25 [Council] m2: 6 seated (expected 7) aye=5 nay=1 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2023-10-25 [Council] m3: 6 seated (expected 7) aye=5 nay=1 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2023-10-25 [Council] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Selection to Fill Vacant Council District 5 S
+   2023-10-25 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2023-10-25 [RDA] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve these minutes
+   2023-10-25 [RDA] m2: 6 seated (expected 7) aye=4 nay=0 abstain=1 absent=1 recuse=0 :: A Resolution of the Redevelopment Agency of S
+   2023-10-25 [RDA] m3: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to adjourn
+   2023-11-15 [RDA] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve these minutes
+   2023-11-15 [RDA] m2: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: Housing and Transit Reinvestment Zones (HTRZ)
+   2024-02-28 [RDA] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Potential Property Acquisition and Dispositio
+   2024-04-10 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2024-04-24 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2024-04-24 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Elias McQuaid – Civilian Review Board Alterna
+   2024-04-24 [RDA] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve these minutes
+   2024-04-24 [RDA] m3: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to adjourn
+   2024-05-08 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2024-05-08 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Fiscal Year 2024-2025 Tentative City Budget P
+   2024-05-08 [RDA] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve these minutes
+   2024-05-08 [RDA] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Fiscal Year 2024-2025 Tentative Redevelopment
+   2024-05-22 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2024-05-22 [Council] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2024-05-22 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2024-05-22 [Council] m7: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2024-05-22 [RDA] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Budget Discussion Regarding Proposed 2024-202
+   2024-06-05 [Council] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve the minutes listed above
+   2024-06-05 [Council] m4: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to move this matter to the June 12th m
+   2024-06-05 [Council] m5: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to Adjourn
+   2024-06-05 [RDA] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve these minutes
+   2024-06-05 [RDA] m3: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to adjourn the meeting
+   2024-07-10 [Council] m6: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2024-07-10 [Council] m7: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2024-08-28 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2024-08-28 [RDA] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve these minutes
+   2024-11-13 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2024-11-13 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: 2025 City Council Annual Meeting Schedule — m
+   2025-01-08 [Council] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-01-08 [Council] m2: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-01-08 [RDA] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve these minutes
+   2025-01-08 [RDA] m2: 4 seated (expected 7) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Elect RDA Chair & Vice Chair for 2025
+   2025-01-08 [RDA] m3: 4 seated (expected 7) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2025-01-08 [RDA] m4: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to adjourn
+   2025-01-22 [Council] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-01-22 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Vote to Fill Vacant At-Large City Council Sea
+   2025-01-22 [Council] m3: 6 seated (expected 7) aye=4 nay=1 abstain=1 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-01-22 [Council] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-01-22 [Council] m5: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Swearing In of Newly Selected At-Large Counci
+   2025-02-12 [Council] m1: 6 seated (expected 7) aye=5 nay=0 abstain=1 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-02-12 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Tom Mills – Civilian Review Board Alternate M
+   2025-02-12 [Council] m7: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-02-26 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-02-26 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Tom Mills – Civilian Review Board Alternate M
+   2025-02-26 [Council] m6: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-03-12 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-03-12 [Council] m6: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-03-12 [Council] m7: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2025-03-12 [Council] m8: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-03-26 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-04-02 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-04-02 [Council] m3: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2025-04-02 [Council] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-04-23 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-04-23 [Council] m9: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2025-04-23 [Council] m10: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-04-23 [Council] m11: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-05-14 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Ordinances of the South Salt Lake City Counci
+   2025-05-14 [Council] m8: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-05-14 [RDA] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of a Resolution of the Board (t
+   2025-05-28 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-05-28 [Council] m10: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-05-28 [RDA] m3: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Presentation of the 2025-2026 Redevelopment A
+   2025-05-28 [RDA] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to adjourn
+   2025-08-13 [Council] m1: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: motion to approve the minutes listed above
+   2025-08-13 [Council] m7: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2025-12-10 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2025-12-10 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: 2026 City Council Meeting Schedule — motion t
+   2025-12-10 [Council] m4: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2025-12-10 [RDA] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve these
+   2025-12-10 [RDA] m4: 4 seated (expected 7) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the Redevelopment Agency of S
+   2026-01-14 [Council] m3: 6 seated (expected 7) aye=5 nay=0 abstain=0 absent=1 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2026-01-28 [Council] m1: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2026-01-28 [Council] m2: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Appointment: Ramona Lopez – Civilian Review B
+   2026-01-28 [Council] m3: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Reappointment: Jeremy Carter – Planning Commi
+   2026-01-28 [Council] m4: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Reappointment: Olivia Spencer – Planning Comm
+   2026-01-28 [Council] m5: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2026-01-28 [Council] m6: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: An Ordinance of the South Salt Lake City Coun
+   2026-01-28 [Council] m7: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2026-01-28 [Council] m8: 6 seated (expected 7) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2026-02-11 [Council] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2026-02-11 [Council] m2: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2026-02-11 [Council] m3: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to Adjourn
+   2026-02-25 [Council] m1: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: motion to approve the minutes listed above
+   2026-02-25 [Council] m2: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2026-02-25 [Council] m3: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: A Resolution of the South Salt Lake City Coun
+   2026-02-25 [Council] m4: 5 seated (expected 7) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Swearing in of Newly Selected District 5 Coun
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 56
+------------------------------------------------------------------------
+   2022-09-14 [Council] m6 5-0 Pass | AYE=['Sharla Bynum', 'Portia Mila', 'Shane Siwik', 'Corey Thomas', 'Clarissa Williams'] NAY=[] ABSTAIN=['Natalie Pinkney'] RECUSE=[] ABSENT=['LeAnne Huff'] :: An Ordinance of the South Salt Lake City Council amending the South Sa
+   2023-04-26 [Council] m3 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Shane Siwik'] ABSTAIN=[] RECUSE=[] ABSENT=['Portia Mila'] :: A Resolution of the South Salt Lake City Council Renaming the City Own
+   2023-04-26 [Council] m4 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Shane Siwik'] ABSTAIN=[] RECUSE=[] ABSENT=['Portia Mila'] :: An Ordinance of the South Salt Lake City Council Amending Section 3.11
+   2023-06-07 [Council] m1 5-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Shane Siwik', 'Clarissa Williams'] NAY=[] ABSTAIN=['Natalie Pinkney', 'Corey Thomas'] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Authorizing the City 
+   2023-06-07 [Council] m2 6-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Shane Siwik', 'Corey Thomas', 'Clarissa Williams'] NAY=[] ABSTAIN=['Natalie Pinkney'] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council to Amend the South Sa
+   2023-06-14 [RDA] m2 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Corey Thomas', 'Clarissa Williams'] NAY=['Shane Siwik'] ABSTAIN=[] RECUSE=[] ABSENT=['Natalie Pinkney'] :: motion to approve Resolution for the RDA Budget for the 2023-2024 fisc
+   2023-10-11 [Council] m2 3-1 Pass | AYE=['LeAnne Huff', 'Corey Thomas', 'Clarissa Williams'] NAY=['Natalie Pinkney'] ABSTAIN=[] RECUSE=[] ABSENT=['Sharla Bynum', 'Portia Mila'] :: An Ordinance of the South Salt Lake City Council Amending Chapter 17.0
+   2023-10-25 [Council] m2 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Corey Thomas', 'Clarissa Williams'] NAY=['Natalie Pinkney'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council to Amend the South Sa
+   2023-10-25 [Council] m3 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Corey Thomas', 'Clarissa Williams'] NAY=['Natalie Pinkney'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Amending Chapters 17.
+   2023-10-25 [RDA] m2 4-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Portia Mila', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Natalie Pinkney'] :: A Resolution of the Redevelopment Agency of South Salt Lake Initiating
+   2024-01-10 [Council] m2 5-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=['Nick Mitchell'] RECUSE=[] ABSENT=[] :: Danielle Croyle – Police Chief — motion to approve Danielle Croyle as 
+   2024-01-10 [Council] m3 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Appointing a New Trus
+   2024-02-28 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Code of Conduct — motion to approve the Resolution
+   2024-03-06 [Council] m1 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: motion to for a Closed Door Meeting
+   2024-03-13 [RDA] m2 5-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Paul Sanchez'] :: Resolution for the Board to Authorize the Executive Director to Enter 
+   2024-03-27 [Council] m4 3-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Nick Mitchell', 'Natalie Pinkney', 'Paul Sanchez'] :: A Resolution of the South Salt Lake City Council Authorizing the Mayor
+   2024-03-27 [Council] m5 3-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Nick Mitchell', 'Natalie Pinkney', 'Paul Sanchez'] :: An Ordinance of the South Salt Lake City Council Adopting an Official 
+   2024-03-27 [RDA] m5 3-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Nick Mitchell', 'Natalie Pinkney', 'Paul Sanchez'] :: A Resolution of the Redevelopment Agency of South Salt Lake Adopting a
+   2024-03-27 [RDA] m6 3-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Nick Mitchell', 'Natalie Pinkney', 'Paul Sanchez'] :: A Resolution of the Redevelopment Agency of South Salt Lake Adopting t
+   2024-03-27 [RDA] m7 3-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Clarissa Williams'] NAY=[] ABSTAIN=['Corey Thomas'] RECUSE=[] ABSENT=['Nick Mitchell', 'Natalie Pinkney', 'Paul Sanchez'] :: A Resolution of the Redevelopment Agency of South Salt Lake Authorizin
+   2024-05-08 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Elias McQuaid – Civilian Review Board Alternate Member — motion to app
+   2024-05-08 [Council] m3 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Authorizing the Issua
+   2024-06-12 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Council Action to Adopt and Operate on Each Fund Budget of the Fiscal 
+   2024-06-12 [Council] m12 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Adopting a Proposed T
+   2024-07-10 [Council] m4 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Enacting 13.56.180 of
+   2024-07-31 [Council] m3 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Amending Rules 6, 7, 
+   2024-08-07 [Council] m1 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council Adopting A Final Tax 
+   2024-08-07 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council Adopting A Final Tax 
+   2024-08-07 [Council] m3 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The General 
+   2024-08-07 [Council] m4 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Capital 
+   2024-08-07 [Council] m5 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Insuranc
+   2024-08-07 [Council] m6 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Lease De
+   2024-08-07 [Council] m7 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Public S
+   2024-08-07 [Council] m8 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Public W
+   2024-08-07 [Council] m9 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Solid Wa
+   2024-08-07 [Council] m10 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Stormwat
+   2024-08-07 [Council] m11 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Wastewat
+   2024-08-07 [Council] m12 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council To Adopt The Water Ut
+   2024-09-25 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Natalie Pinkney', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Appointment of Judicial Nominating Committee Members — motion to appro
+   2025-01-22 [Council] m3 4-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=['Nick Mitchell'] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Enacting Chapter 12.0
+   2025-02-12 [Council] m1 5-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Corey Thomas', 'Clarissa Williams'] NAY=[] ABSTAIN=['Ray deWolfe'] RECUSE=[] ABSENT=[] :: motion to approve the minutes listed above
+   2025-02-12 [Council] m6 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: motion to approve the Ordinance
+   2025-03-12 [Council] m2 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Tom Mills – Civilian Review Board Alternate Member — motion to approve
+   2025-03-26 [Council] m2 6-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=[] ABSTAIN=['Paul Sanchez'] RECUSE=[] ABSENT=[] :: Brandon DeGraffenreid – Civilian Review Board Alternate Member — motio
+   2025-03-26 [Council] m3 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Amending Section 2.70
+   2025-03-26 [Council] m4 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Setting the Compensat
+   2025-07-23 [Council] m6 6-1 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Clarissa Williams'] NAY=['Paul Sanchez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance Of The South Salt Lake City Council Amending Section 3.11
+   2025-12-10 [Council] m3 6-0 Pass | AYE=['Sharla Bynum', 'LeAnne Huff', 'Nick Mitchell', 'Ray deWolfe', 'Corey Thomas', 'Paul Sanchez'] NAY=[] ABSTAIN=['Clarissa Williams'] RECUSE=[] ABSENT=[] :: motion to for a Closed Door Meeting
+   2026-05-27 [Council] m3 6-1 Pass | AYE=['Joy Glad', 'Corey Thomas', 'Sharla Bynum', 'Nick Mitchell', 'Clarissa Williams', 'Ray deWolfe'] NAY=['Irvin Jones'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Approving an Interloc
+   2026-05-27 [Council] m6 4-3 Pass | AYE=['Joy Glad', 'Sharla Bynum', 'Irvin Jones', 'Clarissa Williams'] NAY=['Corey Thomas', 'Nick Mitchell', 'Ray deWolfe'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Amending Section 3.11
+   2026-05-27 [Council] m7 4-3 Pass | AYE=['Joy Glad', 'Sharla Bynum', 'Irvin Jones', 'Clarissa Williams'] NAY=['Corey Thomas', 'Nick Mitchell', 'Ray deWolfe'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Amending Chapter 12.3
+   2026-05-27 [Council] m8 4-3 Pass | AYE=['Corey Thomas', 'Sharla Bynum', 'Nick Mitchell', 'Ray deWolfe'] NAY=['Joy Glad', 'Irvin Jones', 'Clarissa Williams'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: A Resolution of the South Salt Lake City Council Expressing Intent to 
+   2026-05-27 [RDA] m1 4-0 Pass | AYE=['Corey Thomas', 'Sharla Bynum', 'Clarissa Williams', 'Ray deWolfe'] NAY=[] ABSTAIN=['Joy Glad', 'Irvin Jones'] RECUSE=[] ABSENT=['Nick Mitchell'] :: motion to approve these
+   2026-06-17 [Council] m4 4-3 Pass | AYE=['Joy Glad', 'Sharla Bynum', 'Irvin Jones', 'Clarissa Williams'] NAY=['Corey Thomas', 'Nick Mitchell', 'Ray deWolfe'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: motion to approve the Ordinance
+   2026-06-17 [Council] m13 5-2 Pass | AYE=['Joy Glad', 'Sharla Bynum', 'Irvin Jones', 'Clarissa Williams', 'Ray deWolfe'] NAY=['Corey Thomas', 'Nick Mitchell'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: motion to approve the Ordinance
+   2026-06-17 [Council] m15 4-3 Pass | AYE=['Joy Glad', 'Sharla Bynum', 'Irvin Jones', 'Clarissa Williams'] NAY=['Corey Thomas', 'Nick Mitchell', 'Ray deWolfe'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: An Ordinance of the South Salt Lake City Council Adopting a Proposed T
+

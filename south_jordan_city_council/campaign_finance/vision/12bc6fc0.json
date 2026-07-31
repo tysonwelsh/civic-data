@@ -1,0 +1,14 @@
+{
+  "contributions": [
+    {"date": "10/27/25", "name": "Fred Lampropolous", "city": "South Jordan", "state": "UT", "amount": "5000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/04/25", "recipient": "Miriam Dixon", "purpose": "Photography", "amount": "200.00", "in_kind": false},
+    {"date": "11/19/25", "recipient": "Levy Restaurants", "purpose": "Catering", "amount": "2444.05", "in_kind": false},
+    {"date": "11/24/25", "recipient": "Kyle Palmer", "purpose": "Campaign services", "amount": "5215.00", "in_kind": false}
+  ],
+  "total_contributions": "5000.00",
+  "total_expenditures": "7859.05",
+  "total_contributions_ytd": "55853.00",
+  "total_expenditures_ytd": "19347.64"
+}

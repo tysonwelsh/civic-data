@@ -1,0 +1,200 @@
+{
+ "config": {
+  "contest": "2023 Payson City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Payson, Utah",
+  "office": "City Council",
+  "threshold": "1045"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "ANNE MOSS": 228.0,
+    "BRIAN V. HULET": 592.0,
+    "CARL BRINES": 85.0,
+    "EASTON BRADY": 149.0,
+    "KIRK BEECHER": 142.0,
+    "LACEE MAE SMITH": 234.0,
+    "RYAN ROWLEY": 553.0,
+    "TEANCUM J. CLARK": 95.0,
+    "TYLER WILLIAM MOORE": 165.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CARL BRINES",
+     "transfers": {
+      "ANNE MOSS": 12.0,
+      "BRIAN V. HULET": 14.0,
+      "EASTON BRADY": 6.0,
+      "KIRK BEECHER": 12.0,
+      "LACEE MAE SMITH": 11.0,
+      "RYAN ROWLEY": 15.0,
+      "TEANCUM J. CLARK": 10.0,
+      "TYLER WILLIAM MOORE": 4.0,
+      "Inactive Ballots": 1.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "ANNE MOSS": 240.0,
+    "BRIAN V. HULET": 606.0,
+    "EASTON BRADY": 155.0,
+    "KIRK BEECHER": 154.0,
+    "LACEE MAE SMITH": 245.0,
+    "RYAN ROWLEY": 568.0,
+    "TEANCUM J. CLARK": 105.0,
+    "TYLER WILLIAM MOORE": 169.0,
+    "Inactive Ballots": 1.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TEANCUM J. CLARK",
+     "transfers": {
+      "ANNE MOSS": 13.0,
+      "BRIAN V. HULET": 24.0,
+      "EASTON BRADY": 14.0,
+      "KIRK BEECHER": 2.0,
+      "LACEE MAE SMITH": 17.0,
+      "RYAN ROWLEY": 17.0,
+      "TYLER WILLIAM MOORE": 13.0,
+      "Inactive Ballots": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "ANNE MOSS": 253.0,
+    "BRIAN V. HULET": 630.0,
+    "EASTON BRADY": 169.0,
+    "KIRK BEECHER": 156.0,
+    "LACEE MAE SMITH": 262.0,
+    "RYAN ROWLEY": 585.0,
+    "TYLER WILLIAM MOORE": 182.0,
+    "Inactive Ballots": 6.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KIRK BEECHER",
+     "transfers": {
+      "ANNE MOSS": 20.0,
+      "BRIAN V. HULET": 42.0,
+      "EASTON BRADY": 13.0,
+      "LACEE MAE SMITH": 11.0,
+      "RYAN ROWLEY": 51.0,
+      "TYLER WILLIAM MOORE": 14.0,
+      "Inactive Ballots": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "ANNE MOSS": 273.0,
+    "BRIAN V. HULET": 672.0,
+    "EASTON BRADY": 182.0,
+    "LACEE MAE SMITH": 273.0,
+    "RYAN ROWLEY": 636.0,
+    "TYLER WILLIAM MOORE": 196.0,
+    "Inactive Ballots": 11.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "EASTON BRADY",
+     "transfers": {
+      "ANNE MOSS": 34.0,
+      "BRIAN V. HULET": 32.0,
+      "LACEE MAE SMITH": 47.0,
+      "RYAN ROWLEY": 46.0,
+      "TYLER WILLIAM MOORE": 12.0,
+      "Inactive Ballots": 11.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "ANNE MOSS": 307.0,
+    "BRIAN V. HULET": 704.0,
+    "LACEE MAE SMITH": 320.0,
+    "RYAN ROWLEY": 682.0,
+    "TYLER WILLIAM MOORE": 208.0,
+    "Inactive Ballots": 22.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TYLER WILLIAM MOORE",
+     "transfers": {
+      "ANNE MOSS": 44.0,
+      "BRIAN V. HULET": 67.0,
+      "LACEE MAE SMITH": 43.0,
+      "RYAN ROWLEY": 36.0,
+      "Inactive Ballots": 18.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "ANNE MOSS": 351.0,
+    "BRIAN V. HULET": 771.0,
+    "LACEE MAE SMITH": 363.0,
+    "RYAN ROWLEY": 718.0,
+    "Inactive Ballots": 40.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "ANNE MOSS",
+     "transfers": {
+      "BRIAN V. HULET": 88.0,
+      "LACEE MAE SMITH": 118.0,
+      "RYAN ROWLEY": 128.0,
+      "Inactive Ballots": 17.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "tally": {
+    "BRIAN V. HULET": 859.0,
+    "LACEE MAE SMITH": 481.0,
+    "RYAN ROWLEY": 846.0,
+    "Inactive Ballots": 57.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "LACEE MAE SMITH",
+     "transfers": {
+      "BRIAN V. HULET": 153.0,
+      "RYAN ROWLEY": 231.0,
+      "Inactive Ballots": 97.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 8,
+   "tally": {
+    "BRIAN V. HULET": 1012.0,
+    "RYAN ROWLEY": 1077.0,
+    "Inactive Ballots": 154.0
+   },
+   "tallyResults": [
+    {
+     "elected": "RYAN ROWLEY",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

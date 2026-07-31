@@ -1,0 +1,159 @@
+{
+ "date": "2020-05-07",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-05-07/2020-05-07_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to defer the minutes",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the White City financials for the first quarter",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to table the Resolution. The motion",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "to approve Resolution No. 20-05-01",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "3-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 5,
+   "motion": "to appoint and ratify the reappointments of the following individuals; Christopher Spangnallo, Christey Sieger- Webster, Westen Millen, Antoinette Blair, Robert Frailey, Gene Wilson, and Christopher Huntzinger to the White City Planning Commission",
+   "body": "Council",
+   "motion_type": "Appointment",
+   "result": "Pass (unanimous)",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  },
+  {
+   "motion_no": 6,
+   "motion": "to remove Council Member Little from the White City Steering Committee",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "3-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 7,
+   "motion": "to appoint Tyler Huish, Greg Shelton, Caitlyn Miller, Zachary Zundel, John Hoggan, Lynette Hurd, Jake Short, Josiah Halverson, Don Patocka, David Quinney, and Renae Sutton to the White City General Plan Steering Committee and James Lucas and Steve Wrigley as non-voting community stakeholders",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Pass (unanimous)",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5,
+    "tally": null
+   }
+  }
+ ]
+}

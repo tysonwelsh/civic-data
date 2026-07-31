@@ -1,0 +1,40 @@
+{
+  "contributions": [
+    {"date": "8-17", "name": "Peter Ott", "amount": "50", "in_kind": false},
+    {"date": "8-18", "name": "Jesus Jimenez-Vivanco", "amount": "25", "in_kind": false},
+    {"date": "8-25", "name": "Jade Velasguez", "amount": "25", "in_kind": false},
+    {"date": "8-28", "name": "Shana Kinsey Eborn", "amount": "250", "in_kind": false},
+    {"date": "8-30", "name": "Kinsey Amanda Eborn", "amount": "50", "in_kind": false},
+    {"date": "9-10", "name": "Nels Sten", "amount": "25", "in_kind": false},
+    {"date": "9-13", "name": "Gina Eborn", "amount": "50", "in_kind": false},
+    {"date": "9-13", "name": "Peter Ott", "amount": "50", "in_kind": false},
+    {"date": "9-13", "name": "Brad Dikter", "amount": "25", "in_kind": false},
+    {"date": "9-15", "name": "Joanne Saltas", "amount": "50", "in_kind": false},
+    {"date": "9-23", "name": "Dave Farstead", "amount": "100", "in_kind": false},
+    {"date": "9-23", "name": "Glen and Harriett Rasband", "amount": "50", "in_kind": false},
+    {"date": "9-24", "name": "IBEW", "amount": "500", "in_kind": false},
+    {"date": "8-25", "name": "Jared Eborn - personal loan", "amount": "3000", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Meta - Facebook/Instagram Ads", "purpose": null, "amount": "164", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political - Campaign Services 8-22", "purpose": null, "amount": "239", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political - Campaign Services 8-26", "purpose": null, "amount": "2060", "in_kind": false},
+    {"date": null, "recipient": "Next Day Flyers - 9-15", "purpose": null, "amount": "240", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political - Campaign Services 9-18", "purpose": null, "amount": "55", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political - Campaign Services - 9-29", "purpose": null, "amount": "2060", "in_kind": false}
+  ],
+  "total_contributions": "4250",
+  "total_expenditures": "4818",
+  "contributions_50_or_less": "-",
+  "beginning_balance": "772.77",
+  "ending_balance": "204.77",
+  "_meta": {
+    "index_path": "raw/202510_Jared-Michael-Eborn_17212.pdf",
+    "candidate": "Jared Michael Eborn",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202510_Jared-Michael-Eborn_17212.pdf",
+    "pages": 6
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contributions": [
+    {"date": "06/03/2019", "name": "Paid to Self", "amount": "50.00", "in_kind": false},
+    {"date": "06/10/2019", "name": "Paid to Self", "amount": "15.00", "in_kind": false},
+    {"date": "07/01/2019", "name": "Senator Karen Mayne", "amount": "300.00", "in_kind": false},
+    {"date": "07/01/2019", "name": "Paid to Self", "amount": "65.00", "in_kind": false},
+    {"date": "07/03/2019", "name": "Paid to Self", "amount": "270.00", "in_kind": false},
+    {"date": "08/18/2019", "name": "Paid to Self", "amount": "126.52", "in_kind": false},
+    {"date": "08/31/2019", "name": "Paid to Self", "amount": "96.35", "in_kind": false},
+    {"date": "09/17/2019", "name": "Paid to Self", "amount": "377.17", "in_kind": false},
+    {"date": "10/02/2018", "name": "John Bennett", "amount": "100.00", "in_kind": false},
+    {"date": "10/21/2019", "name": "Reagan Outdoor Advertising", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/03/19", "recipient": "SLCO Elections Office", "purpose": "Candidate Filing", "amount": "50.00", "in_kind": false},
+    {"date": "06/10/2019", "recipient": "SLCO Elections Office", "purpose": "Voters List", "amount": "15.00", "in_kind": false},
+    {"date": "07/03/2019", "recipient": "Sign Depot", "purpose": "Campaign Signs", "amount": "270.00", "in_kind": false},
+    {"date": "07/13/2019", "recipient": "Vistaprint", "purpose": "Campaign Materials", "amount": "357.38", "in_kind": false},
+    {"date": "08/18/2019", "recipient": "Vistaprint", "purpose": "Campaign Materials", "amount": "126.52", "in_kind": false},
+    {"date": "08/31/2019", "recipient": "Captain Notepad", "purpose": "Campaign Materials", "amount": "96.35", "in_kind": false},
+    {"date": "09//17/2019", "recipient": "Vistaprint", "purpose": "Mailing", "amount": "377.17", "in_kind": false}
+  ],
+  "total_contributions": "1500.04",
+  "total_expenditures": "1292.42",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "207.62",
+  "_meta": {"index_path": "raw/kelly_bush_trip_kearns.pdf", "candidate": "Kelly Bush", "office": "Metro Township Council District 5", "filing_type": "interim", "election_year": "2019", "reporting_period": "Report prior to general election (October)", "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/kelly_bush_trip_kearns.pdf", "pages": 4},
+  "_notes": "Cover form name 'Kelly F. Bush', Kearns Metro Township, Council #5. Type of Report: October 29 box checked (X). Report date 10/22/2019. Despite 'trip' filename token, PDF contains a single 4-page report (no duplicate/repeated scans). Expenditure 09//17/2019 double-slash typo preserved. Contribution 10/02/2018 year preserved verbatim as printed."
+}

@@ -1,0 +1,44 @@
+{
+  "contributions": [
+    {"date": "10/11/25", "name": "Thomas Burton", "amount": "500", "in_kind": false},
+    {"date": "10/7/25", "name": "Mark Steffenson", "amount": "1,000", "in_kind": false},
+    {"date": "10/14/25", "name": "Brad Reynolds", "amount": "2,000", "in_kind": false},
+    {"date": "10/14/25", "name": "Reagan outdoor advertising", "amount": "1,522", "in_kind": false},
+    {"date": "10/15/25", "name": "Judy Paulson", "amount": "200", "in_kind": false},
+    {"date": "10/19/25", "name": "Sueann & Steve Peterson", "amount": "100", "in_kind": false},
+    {"date": "10/23/25", "name": "Chris Bowler", "amount": "1,000", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/1/25", "recipient": "Google Ads", "purpose": null, "amount": "188.53", "in_kind": false},
+    {"date": "10/2/25", "recipient": "Roost & Co. (filming/editing)", "purpose": null, "amount": "1,200.00", "in_kind": false},
+    {"date": "10/2/25", "recipient": "Roost & Co.", "purpose": null, "amount": "2,500.00", "in_kind": false},
+    {"date": "10/2/25", "recipient": "Union Print Shop", "purpose": null, "amount": "924.85", "in_kind": false},
+    {"date": "10/2/25", "recipient": "Deseret News", "purpose": null, "amount": "2,933.75", "in_kind": false},
+    {"date": "10/2/25", "recipient": "Stripe", "purpose": null, "amount": "257.95", "in_kind": false},
+    {"date": "10/4/25", "recipient": "Union Print Shop", "purpose": null, "amount": "224.44", "in_kind": false},
+    {"date": "10/4/25", "recipient": "Google Ads", "purpose": null, "amount": "200.00", "in_kind": false},
+    {"date": "10/6/25", "recipient": "Sun Print Solutions", "purpose": null, "amount": "4,815.85", "in_kind": false},
+    {"date": "10/14/25", "recipient": "Reagan outdoor advertising", "purpose": null, "amount": "282.95", "in_kind": false},
+    {"date": "10/15/25", "recipient": "Roost (City Journal Ad)", "purpose": null, "amount": "618", "in_kind": false},
+    {"date": "10/10/25", "recipient": "Google Ads", "purpose": null, "amount": "350.00", "in_kind": false},
+    {"date": "10/21/25", "recipient": "Roost & Co.", "purpose": null, "amount": "750", "in_kind": false},
+    {"date": "10/22/25", "recipient": "Roost & Co.", "purpose": null, "amount": "4,605", "in_kind": false},
+    {"date": "10/22/25", "recipient": "Google Ads", "purpose": null, "amount": "500.00", "in_kind": false},
+    {"date": "10/23/25", "recipient": "Stripe", "purpose": null, "amount": "110.25", "in_kind": false},
+    {"date": "10/23/25", "recipient": "Vottiv", "purpose": null, "amount": "10.00", "in_kind": false}
+  ],
+  "total_contributions": "6322",
+  "total_expenditures": "20,471.57",
+  "contributions_50_or_less": "50",
+  "beginning_balance": null,
+  "ending_balance": "14,099.57",
+  "_meta": {
+    "index_path": "raw/2025_city_watts-oct282025.pdf",
+    "candidate": "Daren A. Watts",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_watts-oct282025.pdf",
+    "pages": 3
+  }
+}

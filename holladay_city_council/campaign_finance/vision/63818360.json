@@ -1,0 +1,39 @@
+{
+  "contributions": [
+    {"date": "8/20/23", "name": "Robert Cowan", "amount": "200", "in_kind": false},
+    {"date": "8/24/23", "name": "Steve Pohlman", "amount": "100", "in_kind": false},
+    {"date": "8/26/23", "name": "Barry Smith", "amount": "100", "in_kind": false},
+    {"date": "8/26/23", "name": "Jack Wixom", "amount": "100", "in_kind": false},
+    {"date": "9/3/23", "name": "Beth Cole", "amount": "300", "in_kind": false},
+    {"date": "7/30/23", "name": "Rob Dahle", "amount": "100", "in_kind": false},
+    {"date": "8/24/23", "name": "David Barnes", "amount": "100", "in_kind": false},
+    {"date": "9/15/23", "name": "Elaine Lloyd", "amount": "100", "in_kind": false},
+    {"date": "9/21/23", "name": "Steve Gunn", "amount": "60", "in_kind": false},
+    {"date": "9/1/23", "name": "Ben Hawker", "amount": "40", "in_kind": false},
+    {"date": "9/19/23", "name": "SL Board of Realtors", "amount": "1300", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/8/23", "recipient": "Holladay City (Filing Fee)", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": "6/10/23", "recipient": "Post Office", "purpose": null, "amount": "88", "in_kind": false},
+    {"date": "7/19/23", "recipient": "SL County Elections", "purpose": null, "amount": "15", "in_kind": false},
+    {"date": "7/15/23", "recipient": "Legacy Images", "purpose": null, "amount": "565.93", "in_kind": false},
+    {"date": "7/10/23", "recipient": "Build A Sign", "purpose": null, "amount": "145.50", "in_kind": false},
+    {"date": "7/18/23", "recipient": "Lisa Ure", "purpose": null, "amount": "312.50", "in_kind": false},
+    {"date": "8/29/23", "recipient": "Lyon Printing", "purpose": null, "amount": "1,018.88", "in_kind": false},
+    {"date": "8/22/23", "recipient": "Lyon Printing", "purpose": null, "amount": "1,737.45", "in_kind": false}
+  ],
+  "total_contributions": "2,500.00",
+  "total_expenditures": "3933.26",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": "-1433.26",
+  "_meta": {
+    "index_path": "raw/2023_city_drew-10242023.pdf",
+    "candidate": "Drew B. Quinn",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2023_city_drew-10242023.pdf",
+    "pages": 3
+  }
+}

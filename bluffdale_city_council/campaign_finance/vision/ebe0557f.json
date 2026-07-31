@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "RPAC", "amount": "4500", "in_kind": false},
+    {"date": null, "name": "Eric Hawker", "amount": "1000", "in_kind": false},
+    {"date": null, "name": "Cinder Stone", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Claire Morse", "amount": "350", "in_kind": false},
+    {"date": null, "name": "Gene Peterson", "amount": "200", "in_kind": false},
+    {"date": null, "name": "Justin Severson", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Joe Reardon", "amount": "100", "in_kind": false},
+    {"date": null, "name": "Joel Frost", "amount": "200", "in_kind": false},
+    {"date": null, "name": "Andrew Gonzalez", "amount": "200", "in_kind": false},
+    {"date": null, "name": "Jay Shetlin", "amount": "100", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Roost & Company", "purpose": null, "amount": "6549.12", "in_kind": false},
+    {"date": null, "recipient": "Amazon", "purpose": null, "amount": "70.70", "in_kind": false},
+    {"date": null, "recipient": "Win Co Foods", "purpose": null, "amount": "36.65", "in_kind": false},
+    {"date": null, "recipient": "Harmon's Grocery", "purpose": null, "amount": "40.06", "in_kind": false},
+    {"date": null, "recipient": "Bluffdale City", "purpose": null, "amount": "70.00", "in_kind": false},
+    {"date": null, "recipient": "Smith's", "purpose": null, "amount": "67.37", "in_kind": false},
+    {"date": null, "recipient": "Big Frog Custom T-shirt", "purpose": null, "amount": "236.95", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "7250", "total_expenditures": "7070.85"}
+}

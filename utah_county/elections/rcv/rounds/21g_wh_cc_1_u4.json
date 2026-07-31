@@ -1,0 +1,65 @@
+{
+ "config": {
+  "contest": "Woodland Hills City Council",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "317"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "CODY CHAMBERLAIN": 64.0,
+    "DOREL B. KYNASTON": 147.0,
+    "JANET LUNT": 265.0,
+    "TOBY M. HARDING": 169.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CODY CHAMBERLAIN",
+     "transfers": {
+      "DOREL B. KYNASTON": 12.0,
+      "JANET LUNT": 38.0,
+      "TOBY M. HARDING": 9.0,
+      "Inactive Ballots": 5.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "DOREL B. KYNASTON": 159.0,
+    "JANET LUNT": 303.0,
+    "TOBY M. HARDING": 178.0,
+    "Inactive Ballots": 5.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "DOREL B. KYNASTON",
+     "transfers": {
+      "JANET LUNT": 112.0,
+      "TOBY M. HARDING": 39.0,
+      "Inactive Ballots": 8.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "JANET LUNT": 415.0,
+    "TOBY M. HARDING": 217.0,
+    "Inactive Ballots": 13.0
+   },
+   "tallyResults": [
+    {
+     "elected": "JANET LUNT",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

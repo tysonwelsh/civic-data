@@ -1,0 +1,119 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1665&doc_id=ffa7446e-c5e8-11ee-8fe8-0050569183fa
+> Meeting date: 2024-01-16
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JANUARY 16,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:       Mayor Troy K. Walker, Councilmembers Mike Green, Bryn Heather Johnson,
+               Tasha Lowery, Fred Lowry, and Cal Roberts
+
+STAFF:         David Dobbins, City Manager; Mike Barker, City Attorney; Kellie Challburg,
+               Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson, Chief of Police;
+               Jennifer Jastremsky, Community Development Director; Bret Millburn,
+               Assistant City Manager; Malena Murray, Human Resources Director; Rhett
+               Ogden, Parks and Recreation Director; Laura Oscarson, City Recorder; Linda
+               Peterson, Communications Director; Clint Smith, Fire Chief; Jake Sorensen, IT;
+               and John Vuyk, Finance Director
+
+_______________________________________________________________________________________________________
+
+Study Session
+
+          Council/Manager Reports
+          The Council discussed feral cats and possible ways to approach the feral cat
+          situation and discussed inviting individuals to lead the Pledge of Allegiance or offer
+          a prayer at the beginning of Council meetings. A garden tour was suggested as an
+          addition to Draper Days.
+
+          Update: The Point Development
+          Alan Matheson, Executive Director of The Point of the Mountain State Land
+          Authority, expressed the opinion that The Point needed to be a world-class
+          development that created long-term benefits for the public. Mr. Matheson reported
+          that demolition was complete, and 76% of the materials removed from the site
+          were recycled. He provided an update on Phase 1 of The Point Development and
+          answered questions from the Council.
+
+         Training: First Amendment
+         City Attorney Mike Barker introduced Scott Young, Associate Attorney with Snow
+         Christensen & Martineau. Mr. Young provided training regarding the First
+         Amendment and answered questions from the Council.
+
+Business Session
+
+1.        Call to Order by Mayor Troy K. Walker
+
+2.        Bret Millburn led participants in the Pledge of Allegiance
+
+
+
+          Draper City Council Approved Meeting Minutes – February 6, 2024
+3.    Public Comments
+      None
+
+4.    Consent Items
+4.a   January 9, 2024, City Council Meeting Minutes
+4.b   Resolution #24-04, a Resolution of the Draper City Council approving a waiver
+      and consent to the removal of rights to appoint board members to the Draper
+      Community Foundation
+
+      Councilmember Green moved to approve                  both    Consent    Items.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                     Yes       No       Absent
+      Councilmember Green            X
+      Councilmember Johnson          X
+      Councilmember T. Lowery        X
+      Councilmember F. Lowry         X
+      Councilmember Roberts          X
+
+5.    Items for Council Consideration
+5.a   Public Hearing: Ordinance #1601, an Ordinance of Draper City amending the
+      text of the Land Use and Development Code (Title 9) and the Land
+      Development Code (Title 17) of the Draper City Municipal Code relating to a
+      new process for subdivision review and approval based on Senate Bill 174
+      City Planner Todd Taylor presented proposed amendments to Title 9 (Land Use and
+      Development) and Title 17 (Land Development), drafted in response to SB 174
+      (2023). Mr. Taylor said the Planning Commission reviewed the amendments and
+      forwarded a positive recommendation with minor modifications.
+
+      Councilmember Green said he would support authorizing the Zoning Administrator
+      to review and approve any administrative items that would need to be approved if
+      City ordinances were met. He commented that holding a public hearing for
+      applications that could not be denied if they met City requirements could be
+      confusing and misleading for the public. City Manager David Dobbins responded
+      that some public hearings would be eliminated with the proposed amendments.
+      Councilmember Green said he would be interested in discussing delegating more
+      to the Zoning Administrator at a future meeting.
+
+      Mayor Walker opened a public hearing, and closed the public hearing seeing
+      no one come forward.
+
+
+
+                                                                              2|Page
+     Councilmember Green moved to approve Ordinance #1601. Councilmember
+     F. Lowry seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+                                   Yes       No       Absent
+     Councilmember Green           X
+     Councilmember Johnson         X
+     Councilmember T. Lowery X
+     Councilmember F. Lowry        X
+     Councilmember Roberts         X
+
+6.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember F.
+     Lowry seconded the motion, which passed by unanimous voice vote (5-0).
+
+     The meeting adjourned at 7:22 pm.
+
+
+
+
+                                                                  3|Page
+

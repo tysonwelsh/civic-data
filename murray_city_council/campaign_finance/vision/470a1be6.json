@@ -1,0 +1,32 @@
+{
+  "contributions": [
+    {"date": "06/14/2023", "name": "Marie Davis", "amount": "100.00", "in_kind": false},
+    {"date": "08/25/2023", "name": "Shawn Reed", "amount": "200.00", "in_kind": false},
+    {"date": "08/25/2023", "name": "Van Johnson", "amount": "20.00", "in_kind": false},
+    {"date": null, "name": "Leann Parker-Reed", "amount": "444.93", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/01/2023", "recipient": "Murray City", "purpose": "Candidate fee", "amount": "95.00", "in_kind": false},
+    {"date": "06/04/2023", "recipient": "Square Weebly", "purpose": "Create Website purchase Domain", "amount": "164.13", "in_kind": false},
+    {"date": "06/06/2023", "recipient": "Salt Lake County", "purpose": "voter list", "amount": "15.00", "in_kind": false},
+    {"date": "06/10/2023", "recipient": "Zurchers", "purpose": "Candidate open House Decorations", "amount": "82.24", "in_kind": false},
+    {"date": "06/14/2023", "recipient": "Maceys", "purpose": "paper products food, Candidate open House", "amount": "131.78", "in_kind": false},
+    {"date": "06/22/2023", "recipient": "Fed EX", "purpose": "lamination map", "amount": "44.36", "in_kind": false},
+    {"date": "08/18/2023", "recipient": "Fed EX", "purpose": "campaign flyers", "amount": "75.62", "in_kind": false},
+    {"date": "08/24/2023", "recipient": "Camron Reed", "purpose": "yard signs good guys signs", "amount": "156.20", "in_kind": false}
+  ],
+  "total_contributions": "764.93",
+  "total_expenditures": "764.93",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/202308_Leann-Parker-Reed_14462.pdf",
+    "candidate": "Leann Parker-Reed",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202308_Leann-Parker-Reed_14462.pdf",
+    "pages": 5
+  }
+}

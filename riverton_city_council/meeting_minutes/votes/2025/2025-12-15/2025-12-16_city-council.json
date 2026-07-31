@@ -1,0 +1,95 @@
+{
+ "date": "2025-12-16",
+ "year": 2025,
+ "title": "Riverton City Council Meeting",
+ "source": "minutes/2025/2025-12-15/2025-12-16_city-council.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "adjourn the Work Session. Councilmember Buroker",
+   "motion_type": "Procedural/Administrative",
+   "result": "Passed unanimously",
+   "mover": "Troy McDougal",
+   "seconder": "Tish Buroker",
+   "aye": [
+    "Tish Buroker",
+    "Spencer Haymond",
+    "Tawnee McCay",
+    "Troy McDougal",
+    "Andy Pierucci"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": [],
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "approve the Consent Agenda. Councilmember Pierucci",
+   "motion_type": "Procedural/Administrative",
+   "result": "Passed unanimously",
+   "mover": "Tawnee McCay",
+   "seconder": "Andy Pierucci",
+   "aye": [
+    "Tish Buroker",
+    "Spencer Haymond",
+    "Tawnee McCay",
+    "Troy McDougal",
+    "Andy Pierucci"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": [],
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "approve Resolution No. 25-62 – Removal of the Riverton City Skate Facility. Councilmember Pierucci",
+   "motion_type": "Resolution",
+   "result": "Passed (Mayor tie-break)",
+   "mover": "Troy McDougal",
+   "seconder": "Andy Pierucci",
+   "aye": [
+    "Troy McDougal",
+    "Andy Pierucci"
+   ],
+   "nay": [
+    "Tish Buroker",
+    "Tawnee McCay"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": [
+    {
+     "member": "Trent Staggs",
+     "vote": "aye"
+    }
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "adjourn the City Council meeting. Councilmember McDougal",
+   "motion_type": "Procedural/Administrative",
+   "result": "Passed unanimously",
+   "mover": "Tish Buroker",
+   "seconder": "Troy McDougal",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "mayor_tiebreak": [],
+   "motion_no": 4
+  }
+ ]
+}

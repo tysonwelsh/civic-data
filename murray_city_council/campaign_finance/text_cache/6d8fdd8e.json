@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "10/16/25", "name": "William Henry", "amount": "20.00", "in_kind": false},
+    {"date": "10/23/25", "name": "Rondi Knowlton", "amount": "25.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Alpha Graphics", "purpose": null, "amount": "6,003.29", "in_kind": false},
+    {"date": null, "recipient": "Fast Signs", "purpose": null, "amount": "37.61", "in_kind": false}
+  ],
+  "total_contributions": "45.00",
+  "total_expenditures": "6,040.90",
+  "contributions_50_or_less": "45.00",
+  "beginning_balance": "7,003.88",
+  "ending_balance": "1,007.98",
+  "_meta": {
+    "index_path": "raw/202510_Bruce-E-Turner_17263.pdf",
+    "candidate": "Bruce E Turner",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "reporting_period": "Pre-General 7-day (Oct 3 - Oct 23, 2025)",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A itemized sums to 45.00 vs printed TOTAL 45.00 — reconciles. Schedule B itemized sums to 6040.90 vs printed TOTAL 6,040.90 — reconciles. Schedule C empty (no items, no TOTAL printed)."
+  }
+}

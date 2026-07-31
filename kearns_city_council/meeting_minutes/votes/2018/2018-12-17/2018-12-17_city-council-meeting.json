@@ -1,0 +1,60 @@
+{
+ "date": "2018-12-17",
+ "year": 2018,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Ruby Brown"
+ ],
+ "source": "minutes/2018/2018-12-17/2018-12-17_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to allocate $51,500 to the Kearns Community Council in January 2019. The",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Ruby Brown",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adopt the fee schedule. The",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "unanimous in favor Pass",
+   "mover": "Patrick Schaeffer",
+   "seconder": "Tina Snow",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "date": "2022-03-03",
+ "year": 2022,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Linda Price",
+  "Allan Perry",
+  "Scott Little",
+  "Phillip Cardenaz"
+ ],
+ "source": "meeting_minutes/minutes/2022/2022-03-03/2022-03-03_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the Business Meeting",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Phillip Cardenaz",
+   "seconder": "Scott Little",
+   "names_recorded": false,
+   "vote_mode": "narrative",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4,
+    "tally": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+Vineyard RDA backfill (pmn_backfill -> meeting_minutes/all_votes.csv)
+recovered RDA meetings parsed : 59
+recovered RDA motions         : 209
+recovered member rows         : 983
+canonical rows (minutes)      : 5240
+merged total rows             : 6223
+parsed-to-zero-vote files     : 2
+    novote: text/RDA_2598_1446363.txt
+    novote: text/RDA_2598_1446365.txt

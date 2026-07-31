@@ -1,0 +1,233 @@
+---
+jurisdiction: Utah County
+body: Commission Work Session
+date: 2020-08-19
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2020/08.19.2020WorkSessionminutes.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 6
+audio: 08.19.2020.mp3
+---
+
+DocuSign Envelope ID: 003C3E37-C75A-4DB3-9A43-A7DF 18746816
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Work Session
+
+August 19, 2020
+
+1[Page
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+
+WILL HOLD A PUBLIC WORK SESSION
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+100 East Center Street, Provo, Utah
+August 19, 2020 - 03:00 P.M.
+
+*Board members may participate electronically at will, with the anchor location as stated above.*
+
+To minimize the potential spread of COVID-19 and consistent with provisions of the Utah Public and Open
+Meetings Act, Utah Code Ann. § 52-4-207, the Board of County Commissioners of Utah County has determined by
+resolution that County Commission meetings will be temporarily conducted electronically; that members of the
+public are required to participate in Commission meetings electronically and may offer citizen public input at
+appropriate times through approved electronic means as explained below; and that the Board may temporarily waive
+the OPMA requirement that physical space and facilities be provided for members of the public to attend the open
+portions of an electronic meeting of the Board.
+
+Members of the public are invited to view and participate in the electronic Commission meetings by viewing live
+streams of the meeting on the Utah County Government YouTube Channel.
+https://www. youtube.com/channel/UCkRY DnX VDLGv9792bh Wn9 Wg,
+
+Ifa member of the public would like to provide comment electronically during a public comment portion of the
+meeting or as otherwise allowed by the Board, then the public may participate electronically by calling
+(385) 323-8760. Comments will be limited to three (3) minutes per individual unless otherwise approved by the
+Board. Please state your name at the beginning of the comment. Please no foul or abusive language.
+
+If a member of the public is unable to provide comment electronically then they may contact the commission clerk
+
+to submit written comments for the record by contacting commissionclerk@utahcounty.gov
+or by calling 801-851-8111.
+
+~WORK SESSION MINUTES~
+
+Commissioner Ivie and Commissioner Lee in attendance via Teleconference
+Commission Ainge absent
+Others in Attendance: See Attached Attendance Sheet
+
+(Called to order: 3:03 pm)
+
+PRAYER/READING/THOUGHT: N/A
+PLEDGE OF ALLEGIANCE: N/A
+
+WORK SESSION
+
+DocuSign Envelope ID:,003C3E37-C75A-4DB3-9A43-A7DF 18746816
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Work Session
+
+August 19, 2020
+
+2[ Par
+
+1. PRESENTATION ON A NEW TRAIL FROM VIVIAN PARK TO DEER CREEK DAM FROM MARK
+NELSON EXECUTIVE DIRECTOR OF THE HEBER VALLEY HISTORIC RAILROAD
+
+~Mark Nelson
+
+STRICKEN PER REQUEST OF PRESENTER
+
+2. DISCUSS THE UTAH COUNTY CAPITAL IMPROVEMENT PROGRAM
+
+Rudy Livingston
+
+RICHARD NIELSON, DIRECTOR OF PUBLIC WORKS - THIS IS THE 38? WEEK WE
+HAVE BROUGHT THIS BEFORE THE COMMISSION WITH THE PLAN.
+
+THE ONLY THING THAT HAS BEEN ADDED DURING THE WEEK IS THE ROADS
+PROJECT LIST PROPOSAL THAT WOULD BE OUT OF THE 4"™ QUARTER CENT
+MONEY. BIGGER ITEMS TO NOTE,
+
+e SOUTH FORK ROAD IN PROVO CANYON - COLD IN PLACE RECYCLING ON
+THAT ROAD = APPROXIMATELY $550,000.
+
+° OVERLAYING AND PATCHING ON VARIOUS ROADS INCLUDING
+WOODLAND HILLS DRIVE, 11200 SOUTH, HOBBLE CREEK CANYON, 2650 W
+AND 650 WEST IN PALMYRA = APPROXIMATE $900,000.
+
+* MONEY THAT WAS IN THE 2020 47 QUARTER LIST FOR SALEM PARKWAY
+RIGHT OF WAY ROAD PROJECT - ANTICIPATING IT TO GOING INTO
+CONSTRUCTION NEXT YEAR = APPROXIMATELY $1 MILLION IN
+ADDITIONAL FUNDS BEYOND THE MAG MONEY THAT IS AVAILABLE.
+
+e 8000 NORTH (WASATCH WING AND CLAY) PROJECT IN THE EAGLE
+MOUNTAIN AREA, WORKING IN CONJUNCTION WITH EAGLE MOUNTAIN
+CITY.
+
+e MILL AND REPAVE A SECTION OF THE JORDAN RIVER TRAIL =
+APPROXIMATELY $300,000.
+
+* CHIP SEALS ON ROADS THAT WOULD EQUATE TO ABOUT 44 MILES OF
+ROAD IN DIFFERENT AREAS AROUND THE COUNTY = APPROXIMATELY
+$750,000.
+
+COMMISSIONER LEE — INQUIRED AS TO HOW THE ROADS FOLD INTO THE
+MASTER PLAN.
+
+RICHARD NIELSON — HAS BEEN WORKING WITH THE ASSET WORKS PROGRAM,
+THEN WHEN COVID CAME ALONG IT PUT A STOP TO IT BECAUSE THE COMPANY
+WAS UNABLE TO TRAVEL AND UNABLE TO COME AND COMPLETE THE PROCESS.
+TRYING TO DO EVERYTHING POSSIBLE REMOTELY BUT ARE AT THE POINT
+THAT WE NEED THEM ON SITE. HOPING THAT THEY WILL BE ABLE TO TRAVEL
+AND COMPLETE IT IN THE NEXT COUPLE OF MONTHS.
+
+COMMISSIONER LEE — THE JORDAN RIVER TRAIL — SHOULD BE GRANT
+OPPORTUNITIES TO HELP WITH MAINTENANCE THAT NEEDS TO BE LOOKED
+INTO.
+
+RICHARD NIELSON — WILL LOOK INTO THOSE.
+
+DocuSign Envelope ID: 003C3E37-C75A-4DB3-9A43-A7DF 18746816
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Work Session
+
+August 19, 2020
+
+3]
+
+RUDY LIVINGSTON, BUDGET MANAGER - HAVE MADE A LOT OF PROGRESS, BUT
+CERTAINLY NOT AT THE FINAL POINT YET. WORKING TO PUT TOGETHER A
+PRODUCT THAT WILL PROVIDE THE INFORMATION THAT THE COMMISSIONERS
+NEED IN ORDER TO MAKE DECISIONS AND ALSO FOR THE PUBLIC TO SEE AND
+UNDERSTAND SO THAT THEY CAN HAVE THEIR INPUT IN THE PROCESS AS
+WELL.
+
+OVER THE LAST FEW WEEKS HAVE GONE THROUGH AND REFINED THE
+SCHEDULE. NEXT WEEK, ARE ANTICIPATING HAVING A MORE FINAL PRODUCT.
+HOWEVER, THIS IS A LIVING DOCUMENT THAT WILL HAVE ITEMS COME UP
+THAT HAVEN’T BEEN SPECIFICALLY IDENTIFIED THUS FAR.
+
+THE SCHEDULE HAS BEEN MOVED AROUND. THE FIRST PART OF THE SCHEDULE
+SHOWS WHAT THE ACTUAL CAPITAL EXPENDITURES ARE ANTICIPATED TO BE
+BY YEAR. AN IMPORTANT PART OF THE CIP PLAN IS THE ONGOING FUNDING
+REQUIREMENTS TO BUILD UP ENOUGH RESERVE SO THAT WHEN THESE
+PROJECTS COME BACK AROUND, WE WILL HAVE SUFFICIENT FUNDS TO TAKE
+CARE OF THESE PROJECTS. ALSO, WE ARE MAKING DECISIONS ON PROJECTS
+LOOKING AT THE ENTIRE COST PICTURE INCLUDING FUTURE MAINTENANCE.
+
+THIS IS AN ONGOING IMPROVEMENT PROJECT. INSTEAD OF HAVING JUST ONE
+YEAR OF ROADS PROJECTS, ARE PROJECTING FOR SEVERAL YEARS AS WELL AS
+HAVING A PAVEMENT CONDITION INDEX.
+
+ULTIMATELY, WOULD ANTICIPATE THAT THE FINAL PRODUCT REPORT THAT IS
+PUBLISHED FOR THE PUBLIC WOULD HAVE INFORMATION ON IT INCLUDING A
+LISTING OF EACH INDIVIDUAL ITEM, WHY IT’S NEEDED AND WHAT IT WILL DO
+AND HOW IT WILL BENEFIT THE COMMUNITY.
+
+PUBLIC COMMENTS
+
+NO PUBLIC COMMENTS
+
+COMMISSIONER LEE: MOTION TO ADJOURN
+COMMISSIONER IVIE: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 2/0
+
+MEETING ADJOURNED
+
+(Meeting adjourned: 3:22 pm)
+
+In compliance with the Americans With Disabilities Act, individuals needing special accommodations (including
+auxiliary communicative aids and services) during this meeting should notify Alice Black at (801) 851-8111 at least
+three days prior to the meeting.
+
+DocuSign Envelope ID: 003C3E37-C75A-4DB3-9A43-A7DF 18746816
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Work Session
+
+August 19, 2020
+
+4|
+
+BOARD OF COMMISSIONERS FOR UTAH COUNTY WORK SESSION
+ATTENDANCE SHEET
+AUGUST 19, 2020 - 3:00 p.m.
+
+PRINT CLEARLY
+Name: Agency:
+
+A
+
+het ni telsr _ ftJepPru
+
+Hck Ado | \T
+
+
+DocuSign Envelope ID: 003C3E37-C75A-4DB3-9A43-A7DF 18746816
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Work Session
+August 19, 2020
+
+5:
+‘DocuSigned by:
+_ [ truuner livae
+\— esr ANNER AINGE
+Commission Chair
+ATTEST:
+
+DocuSigned by:
+Alice Pack
+SP SEHTY Clerk/A uditor
+
+

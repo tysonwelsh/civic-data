@@ -1,0 +1,83 @@
+{
+ "date": "2026-04-28",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2026/2026-04-27/2026-04-28_planning-commission.md",
+ "present": [
+  "David Young",
+  "Barbara Munoz",
+  "Marc McElreath",
+  "B. Murphy",
+  "Cindy Wilkey",
+  "Don Russell",
+  "David Wright",
+  "Gordon Willardson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve the minutes from the March 24, 2026 meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Cindy Wilkey",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to forward a positive recommendation to the City Council for File No. 4Z226-DCA-000604-2026, a zoning text amendment to Section 13.44.040 related to the manner of height measurement for single-family attached buildings within the SSD-R Taylor Villas Zoning District based on the findings outlined in the staff report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation (unanimous)",
+   "kind": "recommendation",
+   "mover": "David Wright",
+   "seconder": "Marc McElreath",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "4Z226"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Mufioz moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Barbara Munoz",
+   "seconder": "Don Russell",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

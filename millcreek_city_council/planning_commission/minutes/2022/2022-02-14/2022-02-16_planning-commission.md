@@ -1,0 +1,683 @@
+# Millcreek Planning Commission — 2022-02-16
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02162022-546
+> Meeting date: 2022-02-16
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2022-02-16
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02162022-546
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                         Minutes              of the
+                                                                        Millcreek            Planning               Commission
+                                                                                      February               16,     2022
+                                                                                               5:00          p.m.
+                                                                                       Regular            Meeting
+
+
+The Planning           Coinmission           of Millcreek,       Utah, met in a regular                 public        meeting       on Wednesday,
+February        16, 2022 at City            Hall,   located    at 3330 S. 1300 E., Millcreek,                         UT 84106.           The meeting
+was conducted              electronically       and live streamed           via the City's            website         with     an option       for online
+public      comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                        City     Staff
+Shawn       LaMar,         Chair                                                     Francis        Lilly,     Planning         and Zoning           Director
+Victoria     Reid, Vice            Chair                                             Elyse     Sullivan,            City Recorder
+David      Allen     (arrived at 5:l2pm)                                             John Brems,              City    Attorney          (electronic)
+Scott Claerhout             (electronic)                                             Robert        May,       Long      Range Planner
+Skye Sieber (excused)                                                                Andrew          Clark,         Emergency        Manager
+Tom      Stephens          (electronic)                                              Carlos        Estudillo,         Planner
+Ian Wright         (electronic)                                                      Brad Sanderson,                 Current      Plaru'iing        Manager
+Christian       Larsen
+Aryel      Cianflone         (excused)
+
+
+
+Attendees:          Aaron        Pugh (electronic), Hannah            Vaugh        (electronic),      Dustin         Buckthal       (electronic),      Daniel
+Thurgood,          Dan Slaughter,           Hamid     Adib,     Wayne       Johnson,         Adrianna              Karras,     Steve Turley
+
+
+REGULAR              MEETING               - 5:00 p.m.
+TIME        COMMENCED:                      5:04 p.m.
+
+
+Chair      LaMar      called       the meeting      to order and read a statement                     explaining             the duties     of the
+Planning        Coini'nission.
+
+
+2. Public       Hearings
+      2.1 Consideration               of EX-22-001,           Request       for    a Third         Dwelling           in an Existing           Structure
+      Located        in the R-2-10           Zone    be Declared           Legal      through          Special          Exception         Location:
+    1508-1510              E. 4500 S. Applicant:              Aaron     Pugh/BAM               LLC           Planner:         Francis      Lilly
+      Francis      Lilly     said the applicant          recently     purchased         tlie property              tliat had three units            on it. The
+    property         was approved            as a duplex      in the 1970s          and the zoning                 has allowed       for duplexes          for
+    its entire       existence.       However,       between        1975     and the late 1990s                    a previous     owner       received         a
+    building        pennit       to do additional        plumbing        in the basement               though         it was conditioned               that an
+      additional       unit was not permitted.               The additional          unit ended up there anyway                          though      it was
+    not approved.             There       is a process    in code tliat allows              the Planning             Coinmission           to declare      a
+    use violation            legal if.
+Millcreek          Planning       Commission             Meeting           Minutes                  16 February                 2022         Page 2 of 12
+
+
+
+         1. The use exists on the property                       at the time of the application                  and has been in continuous
+             violation        of the zoning          ordinance          for a period      exceeding          ten years;          and
+         2. No complaint            has been made to the development                          services        division          concerning          the
+             violation        for a period          exceeding       ten years; and
+         3. Continuation           of the use will           not have a detrimental                effect     on the health,             safety,     and
+             welfare      of the persons             or property         in the vicinity.
+    The Plaru'iing            Commission            may consider            as evidence:
+         1. Documents           that are part of the public                 record,      such as tax appraisals,                  utility     records,      aerial
+             photographs,          building         permits,      etc.
+         2. Documentation                from third      parties,        such as affidavits,         photographs,               etc.
+         3. Documentation                from     current      or past property          owners,      such as tax records,                   rental/lease
+             agreements,          appraisal         records,     etc.
+
+
+    Lilly     referenced         Millcreek          code 19.88.140.           He showed          the Commission                  a picture         of the site
+    which       illustrated       a soft shoulder            between        the driveway         and 4500         S. Staff requested                 that the
+    applicant          work    with      the City      Engineer         on a solution        to improve         the soft shoulder               as part of
+    their request         to have a third            unit declared          legal through         special      exception.           The city is
+    planning         a sidewalk          improvement           project      and requested          that the applicant                  grant the city an
+    easement.          There is no record              of complaint          to the city concerning               the use violation                within     the
+    last ten years. There                was ample parking                on the site. Staff did not object                     to having          the use
+    violation         declared     legal though             requested       the following          conditions          of approval           be met:
+    1)      The current         configuration          of the site can accornrnodate                   eight parking              stalls.     Millcreek's
+            parking      requirements             call for two spaces per unit                for a three-family                dwelling,        with      one
+            covered      space per unit.            While      there is sufficient          parking         overall,      staff requests            that the
+            applicant     designate          at least one covered              space for the new third                  unit.
+    2)      As seen from          the attached          aerial photo         (in the staff report),            there is a soft shoulder
+            between      where        the driveway           ends and the roadway                begins.       In order          to protect        the public
+            welfare      and to ensure appropriate                  drainage,         staff requests         that the frontage               be improved
+            with     hardscape          coru'iecting     the existing         driveway       to the 4500          South         roadway.
+    3)      In order to protect            the public        welfare,       staff requests        a condition           requiring           that the
+            applicant     obtain         a rental     business      license     for all three dwellings,                 and that the applicant
+            obtain     an inspection            and approval        from      the Building         Official       prior        to obtaining         a business
+            license.
+    He also noted that the Millcreek                         Community           Council,        at their meeting               on February          1, 2022,
+    unanimously           recommended                approval       of the application             subject      to the staff conditions.
+
+
+    Commissioner               Reid asked about a fourth                    condition       of granting        an easement              to the city for the
+    purposes         of adding          a sidewalk.      Lilly     suggested          rephrasing      condition           two, that the applicant
+    shall grant the city an easement                        for anticipated           sidewalk     improvements.                 Chair       LaMar        asked if
+    the city would            install     the sidewalk           and the applicant           the driveway.             Lilly     said the city would
+    accornrnodate             a tie-in     with     the driveway,           so the grading         worked,        he was only               concerned        with
+    the soft shoulder.
+
+
+    Aaron       Pugh,     applicant,         asked what granting               an easement          meant.       Lilly         said he would           grant the
+    city access to his land for the purposes                             of putting     a sidewalk          in. Pugh did not have an issue
+    with     that.
+Millcreek              Planning          Commission              Meeting           Minutes                        16 February              2022         Page     3 of 12
+
+
+
+
+       Wayne            Johnson,        Millcreek         Community               Council,          agreed       with    the staff     conditions           expressed.
+       He noted              that the sidewalk            would        jog    out to accominodate                   the property,            it would      not line       up
+       with          the existing        sidewalk.
+
+
+       Chair          LaMar        opened         the public       hearing.
+
+
+       There          were     no coinments.
+
+
+       Chair          LaMar        closed        the public       hearing.
+
+
+Commissioner                   Alien       moved        that     the     Planning           Commission               grant      a special         exception        to
+make       this        structure         as identified           in EX-22-001,                  to declare        this    legal,     with     the conditions
+from      staff         and    add      the applicant            would         grant        an easement             to the city        for    the purpose            of
+installing             a sidewalk          in the     second       provision.             Commissioner                  Reid    seconded.          Chair         LaMar
+called         for     the vote.        An Commissioners                      present        voted       yes. The         motion       passed        unanimously
+
+
+       2.2 Consideration                    of CU-22-001,               Request           for     a Conditional              Use Permit           for    a Stealth
+       Telecommunications                          Facility      (Monopine)                 in the R-M           Zone      Location:          3450       S. Highland
+       Drive          Applicant:           Daniel       Thurgood              Planner:           Brad      Sanderson
+       Brad          Sanderson         said the proposed               facility      location           on the property            would      operate       as a lease
+       from          the owner.         The communications                     facility      would        be surrounded             by 6-foot-tall          composite
+       fence         with     direct    access       from       Luck     Lane.       The pole           would      be a 60-foot         tall monopine.             A
+       nearby          development               on 3300       s., the Hudson,               would        have     antennas        on the roof           that would
+       connect          to this      facility.      He mentioned              the community                council        recommendation                 was not in
+       staff      memo.        He presented             the plans        for the facility               and a picture          of the proposed            pole    that
+       looked          like    a pine     tree. There          would         be a lightning             rod and stealth            branches       on top of the pole
+       to add additional                height       up to 67 feet. The recommendation                                  from    the conducted             hazardoris
+       study,         due to the proximity                to the nearby             fault       line,   noted     that there        would      be no risk         to the
+       facility         in the proposed             location.      Sanderson              briefly       highlighted          the findings         in the staff         report
+       and said staff             recommended                 approval        of the conditional                 use permit.
+
+
+
+
+       Wayne           Johnson,         Millcreek        Community                Council,          said the council            did not have reservations
+       about         the application.             Sanderson        pointed         out that it also went                 to the East Mill               Creek
+       Community               Council,          and they       did not have              any concerns.
+
+
+       ChairLaMar                 opened          the public      hearing.
+
+
+     There            were    no comments.
+
+
+       Chair         LaMar        closed         the public      hearing.
+Millcreek         Planning           Commission           Meeting               Minutes                    16 February             2022           Page 4 of 12
+
+
+
+
+      Coinmissioner             Allen     expressed          favor       for the application.
+
+
+Commissioner                Larsen       moved        to approve            CU-22-001,                request     for    a conditional              use permit
+for   a stealth        telecommunications                    facility      at 3450          S. Highland          Drive      with        the included           staff
+recommended                 condition.       Commissioner                  Reid      seconded.
+The condition       in the staff report    was:
+ 1. The stealtl'i pole and aritennas shall closely resemble the siinulated monopine     as depicted within
+    the applicant's    photo  siinulation, both color, texture, and branch denshy, as determined by the
+      Plantting        Director.
+Chair         LaMar        called     for the vote.          All    Commissioners                   present      voted      yes. The motion                 passed
+unanimously
+
+
+      2.3 Consideration                 of CU-22-022,               Request         for     a Conditional            Use Permit             for     a Mixed       Use
+      Development              Consisting            of Mfflcreek           City     Hall,        198 Rental         Dwellings,            and 16,000
+      Square          Feet of Office,            Restaurant,            and Retail           Space Location:               1311-1321              E. 3300      s.,
+      3215 S. Richmond                   Street,      and 1324           E. Chambers               Avenue         Applicants:             Cottonwood
+      Residential           and Millcreek             Planner:           Francis          Lilly
+      Francis      Lilly     said the Planning               Coinrnission           recommended                 approval        of a development
+      agreement            for the project         and the Council                adopted         the executed          agreement.          The project
+      included         a 6-story      city hall       at 87 feet in height,                a mixed-use          building        at 78 feet in height
+      which      had a unit reduction                to 198 rental              dwellings         with 16,229        nonresidential                square feet,
+      and a shared parking                structure      with        448 parking            stalls.     The parking         would         be publicly
+      accessible         during      business        hours     and each dwelling                   would      have one reserved               parking       stall in
+      the evenings.           He noted that the site was approximately                                  2.6 acres, not 3, and there would                        be
+      approximately            56 electric         vehicle         charging        stations,       not 46. He reviewed                  the project       changes
+      from      the Planning          Cornrnission's               development            agreement           review.      There       was an overall
+      reduction         of dwellings         from      215 to 198, minor                  increases        to commercial               and restaurant          space,
+      additional        fagade articulation             including           extended          residential        balconies         for a portion         of the
+      units,     and a reconfiguration                of units resulting              in an extended             sixth     story       along the 1300 East
+      fagade as well           as units     at the ground               level     on 3300 South, partly                  for the purpose             of increasing
+      the number           of windows            on the 3300 South                 fw,ade.        He highlighted           to the Commission                the
+      changes         on the 1300 E. building                  elevation.
+
+
+      Lilly     presented       an updated           city center development                       summary        which         the Commission
+      received        via email.        He announced               that the city hall groundbreaking                        would         be on March           17.
+      The Highland            Drive       Conidor        Smdy        established            the greatest         impact     scenario         for the area to
+      describe        the potential        traffic     impacts          and the current             development           totals       were well below               that
+      threshold.        He showed          the Cornrnission                an illustration            of arrows         on the Millcreek              Common
+      site plan for traffic             flows.     The Millcreek                Community             Council      requested           a traffic     control
+      communications                plan during         construction.             He said staff would                work       with     the developer          on
+      better     communication              for this project             than previous             projects      in the area.
+
+
+      Lilly     said the recommended                   parking          needed,      per the study,             was 472 spaces used at peak hour,
+      413 spaces used at peak hour (weekend)                                    for a 200-person            event,       and 453 spaces used at peak
+      hour (weekend)                for a 500-person            event.      The parking             structure      would        have 448 spaces with
+      390 publicly           available,      23 Millcreek               Common            Lane spaces, and 81 additional                           surface parking
+      spaces. He presented                a depiction          of the 6-story             parking       structure        with    the number            of spaces
+Millcreek        Planning        Commission                  Meeting      Minutes                     16 February                 2022       Page 5 of 12
+
+
+
+    available       for public          parking,        after hours       residential      signed      parking,           and city hall parking                   on
+    each level.
+
+
+    Chair      LaMar       asked how the time frame                       for after-hours         residential           signed parking             would          be
+    set. Lilly     said it was still being                   negotiated     but he anticipated            parking           being     from     7pm-7am.
+    He felt the public            using         a stall in the after-hours            residential        signed parking               category          should
+    move       their car by 7 pm. Chair                     LaMar      asked about the 81 surface                   stalls and Millcreek
+    Coinrnon        stalls.     Lilly      said the surface            stalls were temporary              and that space would                     become
+    Phase II of Millcreek                  Common,            and the Millcreek           Coinmon         Lane parking               would      be signed
+    and regulated.            Chair      LaMar         asked about the 58 city reserved                       stalls.     Lilly     said it was the
+    number        of city fleet and police                   fleet vehicles.      Corninissioner              Reid asked about people
+    working        from     home being               considered        in the shared parking             analysis.          Lilly     said it was not
+    considered,          the assumption               was that it would           be a normal         office.      Commissioner                Reid asked
+    about security            of the parking            structure      and public        elevators.       Lilly     said there would                be security
+    and it would          be laid out in the agreement.                     Coinmissioner             Reid asked about a resident                          having
+    two cars and leaving                  one in the stalls indefinitely.
+
+
+    Tyler      Morris,     Cottonwood                Residential,       said every resident             would       be provided              one or two
+    permit      stickers      for parking,            one of which         would     correspond           with      the reserved             stall. He said
+    extended       parking        of vehicles           created     issues. Chair         LaMar       brought           up residents          going        on long
+    vacations.       Commissioner                   Allen     said if every residence           got two parking                   permits,     the parking
+    would      be consumed.              He suggested            having       a rule during         the day. Lilly             said the non-residential
+    signed parking            should        have a time limit.            Chair     LaMar      asked for some mechanism                             for
+    residents      who leave for multiple                     days. He said the Commission                        was considering              putting            more
+    thoright      into building           security          and to include      that in the agreement                   with      Cottonwood
+    Residential,         to work         on a mutually           agreeable        solution     for residents             who park their vehicles
+    and do not move them for more than seven days, and to put in time limits                                                         for public           and
+    residential      parking.           Commissioner             Reid asked if there was a shortage                            of parking.         Lilly      said
+    he was not worried                  about there not being              enough       parking       in the structure.
+
+
+    Lilly     said there would             be an easement              for power        and gas utilities,              a public     market        grease trap,
+    and waste disposal.                 There       would      be an easement           for Cottonwood              Residential            to have a grease
+    trap and storm water.                 The grease trap would                 be located          in a manner           that does not interfere
+    with     vehicle/bicycle             traffic.     The above ground             power       lines would              be relocated         underground.
+    He reviewed           the design          considerations            for the mixed-use            building           and city hall. There                 would
+    be no stucco on the street facing                         fagades     and the buildings            would        use matching              brick.         He
+    showed        and described             the building         elevations.       He noted that the east facing                         fagade had a
+    tapered      ground       level grade to a restaurant                   space to allow           for a better          ceiling       height.        He
+    reviewed       the depicted            building's          stepbacks      ranging        from    5-25 feet and the heights,                         and the
+    3300 S. streetscape                 which       included      stamped       concrete       crosswalks           at the 1300           E. intersection
+    and an 11-foot            pedestrian/cycling                path next to a 6-foot           tree buffer.            He also said the building
+    length     would       be 330 feet along 1300 E. and the residential                               balconies            wound        be 5 feet deep
+    instead      of 6 feet.
+
+
+    Lilly    said the Millcreek               Coinmunity            Council     met on February                1, 2022,           and voted        to
+   recommend             approval         of the project          on a vote of 7 in favor              to 2 opposed.                The community
+    council      discussed        the adequacy               of parking       and potential         traffic     impacts           of the project.            A
+   number        of members             commented             that the sidepath          proposed        for 3300 South                  as a welcome
+Millcreek        Planning       Commission           Meeting         Minutes                     16 February           2022      Page 6 of 12
+
+
+
+     addition,     while       the two members           voting     in opposition            expressed      a concern        for additional
+    parking       and consideration          of traffic     impacts.         Members          of the Millcreek         Community              Council
+    requested       that the applicant            work    with    the city on a communications                      plan for traffic      lane
+    closures       and other traffic        disruptions          during     construction.            The Canyon       Rim     Citizens
+    Association         met on February            2, 2022 and voted              to recoinmend            approval      of the project         with    a
+    unanimous           vote among        the members            present.       Members        of the association           expressed
+    appreciation          for the iconic      architecture         of city hall and the mix                of uses proposed          for the site.
+
+
+    Lilly     said that staff found         that the application              met the requirements              of the City        Center
+    Overlay       Zone      (CCOZ)       as amended         by a development                 agreement       approved        by the City
+    Council       on January       10, 2022.        The professional             traffic     and parking       studies      provided      by Fehr
+    and Peers concluded               that a shared parking               structure        serving    448 vehicles        and additional          ADA
+    parking       would     accommodate            the proposed           mix    of uses within           the development          and in
+    Millcreek       Common,           including      events of up to 200 people.                     The proposed        parking       was
+    sufficient,      subject      to an operating         and maintenance               agreement         between      Millcreek       and
+    Cottonwood            Residential      for the continued              operation        of the parking       structure.     The
+    development           would     make     a significant         contribution            to the City's     open space in the form               of an
+    additional      plaza adjacent          to Millcreek          Common.             The inclusion        of the mixed       mode       sidepath
+    along the project's            3300 South fagade would                   advance         the goals of the Millcreek
+    Transportation           Master     Plan. The proposed                development           would      foster    development         that was
+    hari'nonious        with    the goals of the City             Center      Master        Plan and provide          outstanding        design.
+    The proposed            development        would       promote         a significant        cornrnercial        enhancement          to
+    Millcreek       in the form         of a large restaurant             and additional         retail    space fronting       Millcreek
+    Cornrnon.        In addition        to these findings,          staff needed to address long term parking,                           time
+    limits,      and enforcement          mechanisms
+
+
+    Staff's      recommended            conditions       of approval         were:
+    1. 24-hour reservedparking for residents of the mixed use building is prohibited.
+    2.      Applicant     shall enter into an agreement with Millcreek                        regarding     the operation      and maintenance
+            of the shared parking stntcture, to include provisions addressing residential parking limits after
+            business hours, parking structure maintenance, and shared costs associated with operation. Lilly
+            noted that he wanted to add to the condition that the agreement will also include provisions to
+            deal with long term parking for residents in excess of seven days as well as considerations of time
+            limits for public parking with approved enforcement mechanisms.
+    3. Prior to receiving a certificate of occupancy, applicant shall bondfor all required street
+            improvements, including curb, gutter, sidewalk, street trees and required irrigation,                                      required
+            setback landscaping, streetlights, and any other improvement required by the City.
+    4. Applicant shall make best efforts to incorporate trave( demand managementstrategies for the
+       project, including but not limited to subsidizing the cost of transit passesfor commercial and
+        residential uses,providing safe, secure, and convenient bicycle storage beyond what is required
+        by Millcreek code, and installing showers and locker roomsfor use by commercial tenants.
+    5. Applicant shall provide service availability letters from all utility providers prior to receiving
+       fmal conditional use approval.
+    6. ApplicantshallverifywithMillcreekEngineeringstaffthroughappropriatestudiesasrequired
+        by the City's Geological Hazards ordinance that the soils are suitable for developmeritprior to
+        receiving final conditional use approval.
+    7.      Applicant     shall install dark-sky compliartt               lighting,     and submit a lighting         and photometric           plan,
+            including for signage,for review by planning staffprior to receiving fmal conditional use
+            approval.
+Millcreek           Planning         Commission                 Meeting       Minutes                       16      February        2022       Page       7 of 12
+
+
+
+
+     8.     Applicant       shall     comply         with    the materials         palette    presented        in the application           and as approved               by
+            the DevelopmentAgreement                           approved      vmder Ordinance               22-05.     No stucco      orEIFS       will    be
+            permitted on any building faqade.
+     9.     Storm       water     shall    be maintained            iri undergrovmd           collection      galleries        situated     underneath         the
+            plaza area in front of the restaurant and retail space alongMillcreelc Common.Applicant shall
+            enter into an agreement and an easementwith Millcreek City for any storm water retained or
+            detained       on Millcreek            property.
+     10. Anoil-waterseparatorisrequiredfortherestaurantuse.   Theoil-waterseparatorshallbe
+         accessedfrom Millcreek Common in a manner that preserves available parlcing and vehicular
+            and pedestrian           access        along     Millcreek       Common          and 3300        South.
+    11. The applicant shall obtain preliminaiy plari approval from the Fire Marshal prior to receiving
+        final conditional use approval.
+    12. Prior to receiving a certificate of occttpancy, applicant shall apply an anti-graffiti material or
+         coating ort the north, west, and south building facades.
+    13. Thedesignofthesiteandbuildingshallcomplywithallapplicabledevelopmentstandards,
+            including      but not limited            to the City         Center     Overlay       Zone,     the DevelopmentAgreement                     approved
+            under Ordinance     22-05, the Millcreek    City Center Urban Forestry  Standards,                                              and any site
+            development   staridard   required   by the City Engineer and Fire Marshal.
+    14. Prior to receiving final conditional use approval, the applicant shall certify that existing utility
+            services have the capacity   to accommodate    additional   demand induced                                            by the development,                or
+            that the services will be upgraded   to meet the additional   demand.
+    15. Applicant will collaborate with staff through technical review to reasonably mitigate any further
+         traffic impacts created by development.
+    16. Signs,fencing, and accessory structures will require separate building permits and staff review
+        forzoning/land use compliance.
+    17. The applicant shall provide sufficient light illumination within the parking structure. No light
+         source (light bulb, fluorescent tube, or other direct source of light used to illuminate a parlang
+         area) shall be visible beyond the property line inchtding the alley (ROW) of any off-street parking
+         area as required by Section19.80. 030 of the zoning ordinance.
+    18. The applicant will construct the project as described in the staff report and all attachments. Any
+         modifications to theseapproved plans must be approved by the Planning Department, in writing,
+        prior to the changes being implemented in thefield.
+    19. Landscapingshall be installed in compliance with Chapter 19. 77 WaterEfficientLandscape
+            Design      and Development                Standards          and as required          by the City        Center      Overlay     Zone       and the
+            Millcreek      City     Center         Urban       Forestiy     Standard.        Any    revisions        to the landscape         plan   package
+            shall be reviewed and approved in writing by the director or designeeprior to commencementof
+            construction. Re-certification of compliance with the requirements of the landscaping ordinance
+            shall be provided by the qualified professionals who prepared and submitted the plan revisions.
+    20. The applicant will comply with all requirements   established through the technical review process
+        prior to receiving final conditional use approval.
+    21. Theapplicantwillremoveabovegrovmdpowerlinesalongtheprojectfrontageson3300South
+        prior to receiving a certificate of occupancy.
+    22. The applicant will continually comply with the terms of the DevelopmentAgreement, approved
+            vmder Ordinance               22-05.
+
+    23. TheapplicantshallcomplywithallrequirementsoftheMillcreelcCityEngineer.
+    24. The applicant coordinate with Millcreek and UDOT on the construction of improvements on
+        either side of 3300 South, to ensure that bothfrontages completed at approximately the same
+            time,    and that lane closures                 are limited      as much         as possible.
+    25. The applicant shall work with the City on a communications plan for traffic lane closures and
+        other traffic disruptions during construction.
+    26. All items of the staff report.
+    Lilly     recommended                 adding       a condition          addressing          human        safety     and building           security        in the
+    parking         structure       and     elevators.
+Millcreek              Planning             Commission                 Meeting          Minutes                          16 February                   2022         Page        8 of 12
+
+
+
+
+       Wayne            Johnson,            Millcreek          Coini'nunity            Council,           said the council                  appreciated            the effort         tliat
+       went          into     consideration              of parking           and traffic.             He noted        the vote         for recommended                       approval
+       of the application                    was 7-2 and the dissenting                          votes      were        for personal             reasons.
+
+
+        Chair         LaMar            opened       the public          hearing.
+
+
+       Adrianna              Karras,        4115      S. 1615          F,., expressed             concern          about       24 hour          reserved           parking        when
+       working              from       home       or traveling           when        the cost of living                 was already              so high.
+
+
+        ChairLaMar                     closed      the public          hearing.
+
+
+       Lilly         said there          would       be overnight              reserved         parking           for residents.              He did not want                 an 800-
+       stall     parking              structure     for city         hall    when       the peak          demand            worked           favorably.            The parking
+       structure             would        have     to be managed                well     and the parties                would          have      to be willing              to adapt          to
+       changes              that need to happen.                     Coinmissioner              Reid       clarified         that     a resident           could        leave    the car
+       in a residential                  spot during          the allotted            time,     it could          stay for seven               days.      Lilly      confirmed             and
+       said if residents                  were     gone       for more         than      7 days,         there      wouId         need to be an arrangement                              with
+       management.                     Morris      said the development                       agreement            was built           around          the normal             function
+       but there             could       be special        circumstances                to work           around.        Commissioner                    Allen       said the cars
+       needed           to be actively             used to be parked,                   not storage.              Morris       confirmed.               Commissioner                Allen
+       expressed              concern           for traffic      and percentage                  of residential              versus          cornrnercial           square       footage.
+       He wanted                to look         at what       commercial              space was going                   away         with     new       projects,         to track
+       tearing         down           old commercial                 places     to add new               ones,     to know            the net loss of coinrnercial.
+       Lilly         said the old commercial                         being     demolished                on this       site was a Halloween                        store      and the
+       JOANN                Fabric       and Crafts           which         moved       within          Millcreek.           He said square                    footages       may      not
+       match          the equivalent               use. Chair           LaMar          suggested           that     if there         was not         enough         parking,         the
+       city      may         need to vacate              some        of the reserved              city    staff      spots       to relieve          parking         places,        that
+       there         may      not always           be a need for 58 reserved                            spaces.      Lilly       said it would                 be smart       to have           a
+       provision              like     that in the agreement.                   Commissioner                  Larsen         wanted           to exempt            spaces       utilized
+       by police.             Lilly      said the gate could                  be moved.            He noted            that the bottom                  floor      would        not have
+       internal             access      to the other          levels.        Chair     LaMar            wanted         flexibility           in the agreement                 for future
+       changes.
+
+
+       Commissioner                     Claerhout          wondered            about      adding          more       electric         car charging                stations.      Lilly
+       said there             could       be future        accommodation                  for more           stations.           Commissioner                   Allen       said the
+       charging              stalls     should      not be an expectation                       everywhere              in the future.               Chair        LaMar       said it
+       should          depend           on the demand.
+
+
+Commissioner                       Larsen         moved        to approve              CU-22-002,                 a request           for     a conditional                use permit
+for    a mixed              use development                   consisting             of Mfflcreek             City       Hall,       198       rental          dwellings,         and
+16,000          square          feet     of office,        restaurant,            and         retail      space        at 1311-1321                  E. 3300        s., with        all the
+recommended                        conditions         contained              in the staff          report          as well          as all the          conditions            the city
+and      Cottonwood                    Residential            will     work      out     on the          specific          conditions            for      shared          use and
+time     limited             parking            arrangements,                 the 58 dedicated                    parking           stalls     for      city      use may        be
+reduced              if needed,           and     that     provisions            for     the safety           in the elevator                   and      parking           structure
+be planned                  with       safety     and     security           in mind.          Commissioner                   Allen          seconded.             Chair        LaMar
+called         for    the vote.           Commissioners                     Larsen,       Anen,           Claerhout,             Reid,         Wright,            and     LaMar
+voted      yes. The                motion         passed       unanimously.
+Millcreek       Planning       Commission         Meeting         Minutes                    16 February            2022     Page 9 of 12
+
+
+
+
+The Plaru'iing      Commission         took a break        from     6:50-7:04       p.m.
+
+
+    2.4 Consideration            of CU-22-003,           Request      for     a Conditional             Use Permit         for a Parking
+    Lot     in the M Zone         Location:       34 W. Central             Avenue         Applicant:        Hannah         Vaughn
+    Planner:       Carlos      Estudfflo
+    Carlos      Estudillo     said the applicant         was proposing           to demolish        the existing       structure       and
+    create a parking          lot consisting     of 55 stalls to serve additional                 parking         needs for the Front
+    Climbing       Club      across the street at 4140 S. Main                Street. It was anticipated              that the additional
+    parking      would      ease occasional       parking       issues during         peak evening          hours     and resolve
+    potential     parking      issues with      surrounding        residential        and industrial         neighbors.       The design       of
+    the offsite     parking     lot would      include      street improvements               that met Millcreek            code.
+    Landscaping          and trees would        be installed       onsite     to improve        the pedestrian         experience        and
+    create shade on the site and along the street frontage.                           Low-level          lighting    would     be installed         to
+    meet dark-sky           requirements       and landscape         lighting      was anticipated           in order to maintain            low
+    level lighting        throughout       the site in efforts       to maintain        a safe environment.             He showed        the
+    Coinrnission         the site plan and landscape              plan.   Estudillo        said the owner           of 21 W. Gordon
+    Avenue       (neighbor      to the north)     was not opposed               to the project      and expressed            support    for the
+    parking      lot, but also wanted          a fence bordering            the property       lines.     Chair     LaMar     asked about
+    existing     fencing.     Estudillo     said l'ie thought       there was a fence on the front                   and sides of the
+    property.      He said at their meeting          on Tuesday,            February        1, 2022, the Millcreek             Coinrnunity
+    Council      voted      to recommend        approval      of the requested             conditional       use permit       as proposed.
+    During      that meeting      there were a few comments                   and questions         regarding         requirements       on
+    perimeter      fencing     and pedestrian       crossing.
+
+
+    Estudillo     reviewed       the following      staff findings:
+          1.    Per§l9.84.060oftheMillcreekCode,thePlanningCommissioncanimposesiteplan
+                modifications   and conditions to mitigate the reasonably anticipated detrimental effects of a
+                conditional use. While staff finds that the project is well designed and is conceptually in
+                compliance with the City's development standards, the final conditional use permit will be
+                evaluated for potential detrimental impacts established in the Millcreek Code.
+          2.    Any lighting on the parking lot will be subject to the Dark Sky requirements                                 listed in the
+                conditions below.
+          3.    Landscaping      will be subject to Chapter 19.77 Water Efficient                        Landscape Design and
+                Development       Standards.
+          4.    The parking lot is within a reasonable distance to an intersection, located to the east. Staff
+                determined that a midblock crosswalk would be to close to the intersection. Parking Lot
+                Policies. Millcreek City may adopt policies regarding aisle widths, angled parking, and turn-
+                around areas for parking lots, and parking stall sizes for valet parking.
+          5.    Any off-street parking area located in an R, C, M, or MD zone shall be surfaced with an
+                asphaltic or concrete/cement or other binder pavement, so as to provide a durable and dustless
+                surface, shall be so graded and drained as to dispose of all surface water accumulated within
+                the area, and shall be so arranged and marked as to provide the orderly and safe loading or
+                unloading and parking and storage of vehicles.
+          6.    Eveiy parcel of land hereafter used as a public or private parking area, including commercial
+                parking lots and automobile, farm equipment, or other open-air sales lots, shall be developed
+                and maintained in accordance with the requirements set out in this chapter.
+          7.    LandscapingshallbeinstalledincompliancewithChapterl9.77,WaterEfficientLandscape
+                Design and Development Standards. Any revisions to the landscape plan package shall be
+                reviewed and approved in writing by the director or designee prior to commencement of
+Millcreek         Planning       Commission              Meeting         Minutes                  16 February         2022        Page 10 of 12
+
+
+
+                  construction. Re-certification  of compliance with the requirements of the landscaping
+                  ordinance shall be provided by the qualified professionals who prepared and submitted the
+                  plan revisions.
+            8.    Signs will require separate building permits and staff review for zoning/land use compliance.
+            9.    The applicant will comply with all requirements established through the technical review
+                  process prior to receiving final conditional use approval.
+
+
+    Estudillo           recommended           preliminary           approval       of the proposed        parking    lot conditional             use
+    permit        with    the following         conditions:
+            1.    The applicant        will     be required          to install      necessary     public     improvements         per proposed
+                  plans.
+            2.    Prior     to receiving       final     approval,        the applicant      shall certify      that existing      utility
+                  services     have the capacity             to accommodate              additional      demand      induced      by the
+                  development,         or that the services               will    be upgraded       to meet the additional           demand.
+            3.    Any      modifications         to these approved                plans must be approved            by the Planning
+                  Department,         in writing,         prior     to the changes being           implemented        in the field.
+            4.    Applicant       is required          to bond for all proposed             or required       improvements           of
+                  landscaping         and public         improvements              as determined        by the Public      Works      Department
+                  and Planning         and Zoning           Department.
+            5.    All     items of the staff report.
+
+
+    Chair        LaMar      asked if a fence was required                    by code. Estudillo           said it was not required.
+    Commissioner              Reid asked about mitigation                        10 in the staff report       regarding     plants    and trees
+    since she did not see plants                  on the plans.           Estudillo     said the landscape          plan would        be approved
+    subject       to code. Commissioner                   Reid asked about drainage                 and capturing         water   in the parking
+    lot to be reused for watering                   the trees. Lilly             said a bioswale       may be an option.
+
+
+    Hannah         Vaughn,       applicant's           architect,     said they would         try to retain      as much      water       as possible
+    on site. The landscape               plan was preliminary.                    Commissioner         Reid requested        the city work
+    with     the applicant        to retain      as much          water     as possible     on site. Vaughn          said they would              work
+    with     staff to help control             pedestrian         flow    to the climbing          gym in a safe manner.
+
+
+    Wayne         Johnson,      Millcreek        Cominunity              Council,      was pleased       that the gym was taking                 actions
+    to provide           more parking         for the neighborhood.                 He said the site neighbor             had concerns           about
+    people        walking      through        his property.         The coinmunity          council       made a unanimous            vote to
+    approve        the project.
+
+
+    Chair        LaMar       opened     the public         hearing,
+
+
+    There were no coinments.
+
+
+    ChairLaMar               closed    the public         hearing,
+
+
+    Chair        LaMar      said his preference             was that the applicant            would       be open to working              with    the
+    neighbor        on a fence, but the code did not require                           one and therefore        it was out of the scope of
+    the Planning            Cornrnission.        Commissioner              Allen      expressed       favor   for the project      since the
+    original       estimated      parking        for the business            was inadequate.           He commended          the applicant             for
+Millcreek         Planning          Commission             Meeting             Minutes                    16 February              2022        Page 11 of 12
+
+
+
+    taking      action       to remedy        the issue. Corni'nissioner                     Reid expressed              favor     for the number             of
+    trees in the proposed                parking         lot.
+
+
+Commissioner               Reid     moved       to approve              CU-22-003,            request       for    a conditional              use permit            for
+a parking         lot in the M Zone               with      the conditions               in the staff          report      as well        as two       additional
+conditions:         1) that        the applicant           work         with     the city with          the design          to retain         and reuse            as
+much      water      as possible         on site, and 2) the applicant                          will    work       with     the city        on safe
+pedestrian         access to the climbing                   club.       Commissioner                Allen       seconded.          Chair       LaMar          called
+for the vote.        All    Commissioners                 present         voted        yes. The motion              passed         unanimously.
+
+
+1. Commission              Business
+    1.1 Nomination                 and Election            of Chair            and Vice       Chair       for 2022
+
+
+Commissioner               Stephens       moved          to nominate              Shawn         LaMar          to continue          to be chair           for the
+coming      year.     Commissioner                Allen         seconded.         Chair       LaMar         called        for the vote.          All
+Commissioners               present      voted      yes. The motion                    passed     unanimously
+
+
+Commissioner               Stephens       moved          to nominate              Victoria        Reid      as Vice        Chair         for a second          year.
+Commissioner               Claerhout          seconded.           Chair        LaMar         called      for the vote.            All    Commissioners
+present     voted         yes. The motion           passed          unanimously
+
+
+1. Commission              Business       Continued
+    1.2 Approval             of December            15, 2021 Meeting                     Minutes
+
+
+Commissioner               Larsen      moved        to approve             the December                15, 2021 Planning                   Commission
+meeting       minutes.        Commissioner                Claerhout             seconded.         Chair         LaMar        called        for the vote.
+Commissioners               Larsen,      Alien,      Claerhout,                Reid,     and Wright             voted      yes. Commissioners
+Stephens       and LaMar              abstained.          The      motion         passed.
+
+
+    1.3 Updates             from      the Planning              and Zoning             Director         and Preliminary                  Review        of a
+    Multifamily             Project      at 175 W. Central                     Avenue
+    Francis       Lilly     said a new planner,                 Katie     Larsen,        recently       started     and more new staff would
+    start soon. He thanked                   Commissioner               Reid for helping               research         and articulate         a public       art
+    policy.     He thanked            Commissioners                Larsen        and Wright            for lielping        with     the Historic
+    Preservation            Commission.
+
+
+    Robert      May        elaborately        reviewed           and showed            pictures        of the existing            conditions         of 175 W.
+    Central       Avenue       in its current        industrial           state with         Big Cottonwood                Creek         ruru'iing     through          it.
+    He noted that a lot of entities                  would          be affected          with     the development                 of the property.            The
+    site was in a coinrnunity                 redevelopment                project       area. A 'future Murray/Millcreek                            trail plan
+    had a trail      going         through     the property.             There     would        also be transit           oriented         development             with
+    UTA.      He presented             a conceptual             rendering        and site plan of the proposed                          mixed-use
+    development.
+
+
+    Steve Turley,           developer,         said he owned               the property.          He acknowledged                   the unique          aspects of
+    the property           and felt the project             was right           for it. There          would      be over 40% open space with
+    two bridges            going     across the creek:             one existing,           one new. He requested                        feedback       from    the
+    Commission.             Commissioner            Claerhout             asked if the trail            from      the north        could      follow      the new
+Mfflcreek       Planning         Commission            Meeting         Minutes                  16 February               2022        Page 12 of 12
+
+
+
+    road in addition           to the connection             along the creek. Turley                said there would              be a sidewalk
+    pedestrian          access from       north      to south.       Coinmissioner          Reid asked what the residential                      and
+    coinmercial          percentages         would      be and the type of housing.                   Turley      said about 7,000 square
+    feet with      market        rate apartments.           Commissioner           Wright       expressed         favor         for the project.
+    Corni'nissioner           Larsen      also expressed          favor    for the project          and said the nearby               Brick    Oven
+    development           street was lined           with     cars and he did not want to see that. Turley                            said his
+    development           would        have about three times              as much         parking.      He said Murray              City
+    acknowledged              that his development              would      be flooded        with      their parking            problems,     but he
+    felt the new road connection                    between       the two was more important.                     Lilly         said more parking
+    had been added to the east of the site. May                            said there would            be a parking             and traffic   study
+    conducted;          Main     Street and Central            Avenue          was currently        under      surveillance           for a controlled
+    traffic    light.    Chair     LaMar       asked about insulation                to reduce        vibration     since it was near
+    railways.      Turley        said that would            be considered.
+
+
+3. Calendar         of Upcoming              Meetings
+    *   City    Council        Mtg.,     2/28/22,      7:00 p.m.
+    @   Mt. Olympus              Community           Council      Mtg.,    3/1/22,     6:00 p.m.
+    *   Millcreek         Community           Council        Mtg.,     3/1/22,    6:30 p.m.
+    *   Canyon          Rim    Citizens      Association         Mtg.,     3/2/22,     7:00 p.m.
+    *   East Mill        Creek     Community            Council        Mtg.,     3/3/22,     6:30 p.m.
+    *   City    Council        Mtg.,     3/14/22,      7:00 p.m.
+    @   Planning         Commission          Mtg.,     3/16/22,        5:00 p.m.
+
+
+ADJOURNED:                 Commissioner              Allen      moved      to adjourn          the meeting          at 8:06 p.m.
+Commissioner              Claerhout          seconded.         Chair      LaMar       called     for the vote.            All     Commissioners
+
+
+
+voted
+  yes.
+   The              ,,
+    motio,npPaRssOevdEuDn:ani2
+                                                             Shawn LaMar,            Chair
+                                                                                                                  Date
+
+
+
+
+                                   Attest:

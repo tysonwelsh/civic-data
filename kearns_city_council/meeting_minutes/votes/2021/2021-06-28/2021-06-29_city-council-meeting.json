@@ -1,0 +1,38 @@
+{
+ "date": "2021-06-29",
+ "year": 2021,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2021/2021-06-28/2021-06-29_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Ordinance 2021-06-04 enacting an emergency ban on the use of fireworks within the boundaries of Kearns Metro Township. The",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "Pass",
+   "mover": "Chrystal Butterfield",
+   "seconder": "Patrick Schaeffer",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

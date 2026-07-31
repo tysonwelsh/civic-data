@@ -1,0 +1,63 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "legistar",
+    "index_max_date": "2026-06-02",
+    "index_rows": 274,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://webapi.legistar.com/v1/sandyutah/events",
+    "new_count": 5,
+    "notes": "2 of 5 still have Draft minutes — the M=M PDF is typically posted only once approved (council) / votes may be incomplete until finalized (PC)",
+    "new_items": [
+      {
+        "date": "2026-06-09",
+        "title": "City Council (minutes: Final)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2074"
+      },
+      {
+        "date": "2026-06-16",
+        "title": "City Council (minutes: Final)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2075"
+      },
+      {
+        "date": "2026-06-23",
+        "title": "City Council (minutes: Final)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2076"
+      },
+      {
+        "date": "2026-07-07",
+        "title": "City Council (minutes: Draft)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2078"
+      },
+      {
+        "date": "2026-07-14",
+        "title": "City Council (minutes: Draft)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2079"
+      }
+    ]
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-18",
+    "portal": "legistar-api",
+    "index_max_date": "2026-06-18",
+    "index_rows": 4431,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
+    "status": "ok",
+    "endpoint": "https://webapi.legistar.com/v1/sandyutah/events",
+    "new_count": 2,
+    "notes": "2 of 2 still have Draft minutes — the M=M PDF is typically posted only once approved (council) / votes may be incomplete until finalized (PC)",
+    "new_items": [
+      {
+        "date": "2026-07-02",
+        "title": "Planning Commission (minutes: Draft)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2036"
+      },
+      {
+        "date": "2026-07-16",
+        "title": "Planning Commission (minutes: Draft)",
+        "url": "https://webapi.legistar.com/v1/sandyutah/events/2037"
+      }
+    ]
+  }
+}

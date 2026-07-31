@@ -1,0 +1,270 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07102023-705
+> Meeting date: 2023-07-10
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2023-07-10
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07102023-705
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                             Minutes             of the
+                                                                                     Millcreek             City        Council
+                                                                                                July      10,     2023
+                                                                                                   7:00         p.m.
+                                                                                            Regular             Meeting
+
+
+
+
+The City      Council        of Millcreek,             Utah,    met in a regular            public      meeting           on July 10, 2023,          at City
+Hall,     located      at 3330 S. 1300 E., Millcreek,                      UT 84106.         The meeting                 was live streamed          via the
+City's     website       with      an option        for online      public        comment.
+
+
+PRESENT:
+
+
+Council       Members                                                                    City     Staff
+Jeff Silvestrini,         Mayor                                                          Francis       Lilly,      Assistant       City Manager
+Silvia     Catten,      District      1 (excused)                                        Elyse     Sullivan,           City    Recorder
+Thom       DeSirant,       District        2                                             Mike     Winder,          City       Manager
+Cheri     Jackson,       District      3                                                 John Brems,              City    Attorney
+Bev Uipi,      District         4 (electronic)                                           Kurt     Hansen,         Facilities       Director
+                                                                                         Rita Lund,         Corni'nunications             Director
+                                                                                         Lisa Dudley,             HR-Finance          Director
+                                                                                         Sean Murray,              Plaru'ier
+
+
+Attendees:  Rick            Hansen,            Laura   Renshaw,          Trisha     Bradford,          Chief      Steve DeBry,           Carrie     Sibert,
+David Baird
+
+
+
+REGULAR               MEETING              - 7:00 p.m.
+TIME       COMMENCED:                          7:02 p.m.
+
+
+1. Welcome,           Introduction               and Preliminary              Matters
+           1.1 Pledge           of Allegiance
+           Mayor        Silvestrini        called      the meeting         to order and led the pledge                        of allegiance.      He
+           recognized           Salt Lake County               Animal         Services      (and dogs) for celebrating                    their 10 year
+           no-kill      shelter      anniversary.          Carrie       Sibert,    Salt Lake         County        Animal         Services,     said
+           they had saved over 60,000                      animals        in the 10 years. Tlie Pawlitical                       (dog)    council
+           members         were also in attendance.
+
+
+Council      Member             DeSirant          moved        to reorder         the agenda           to move           item 1.3 next.        Council
+Member        Jackson           seconded.          Mayor        Silvestrini        called       for the vote.            Council      Member
+DeSirant      voted       yes, Council             Member          Jackson         voted     yes, Council                Member       Uipi     voted     yes,
+and Mayor            Silvestrini       voted       yes. The       motion          passed     unanimously.
+
+
+           1.3 Recognition              of Unified         Police        Department             Mfflcreek          Precinct        Awardees          from       the
+           Salt Lake         County            Sheriff's       Annual       Awards
+Millcreek          City      Council          Meeting            Minutes                                                      10 July         2023         Page     2 of 4
+
+
+
+            Mayor          Silvestrini         said he attended                  the Sheriff's            Annual           Award       Banquet          and numerous
+
+            officers        from      the Millcreek               Precinct            were     recogi'iized.           He acla'iowledged                  the work       the
+
+            officers        did,     and the officers                 introduced             themselves              and what      they      were      awarded          for.
+
+
+            Sergeant          Herbert         Allen,      Detectives                 Jared     Nichols,         Christian       Thompson,               Garrett     Cottle,
+
+            and Cameron               Plouzek           were          recognized          with        a Chiefs         Award         for their       work      at the
+
+            Millcreek          temporary              overflow           homeless             shelter.       Sergeant         Mike      Mayes         received         a Chief's
+
+            Award          for his work              as supervisor              of the Millcreek                Street      Crimes          Unit    as well       as a
+
+            secondary            position        as the Domestic                     Violence          Coordinator            for the entire          Unified        Police
+
+            Department.              Detective           Danny          Diehl         received         an award            for his successful              investigation             of
+
+            a burglary             at Hyland          Cyclery           where         eight     valuable         mountain          bikes       valued       at $43,000
+            were       stolen.       Officer         Scott      Green          received         the Law         Enforcement             Officer           of the Year
+
+            Award.          Officer       Green         worked           to follow            up on thirteen            DUI     cases that were               waiting          to be
+
+            screened,          some       cases involving                  serious           bodily      injury.       Sergeant        Makaloni            Prescott,
+
+            Detectives             Adam        Page,      Cody          Hampton,              Steven         Ivan,     and Jacob        Werner            compromise            the
+
+            Millcreek          Precinct          Community                Crime          Suppression               Unit.    These      officers        were      recognized
+
+            with       an award          for their       efforts         in identifying               and resolving            community              ISSUES in
+
+              coordination            with     federal          and local            agencies.
+
+
+              Mayor        Silvestrini         expressed              appreciation             for their        work.       He said the residents                 in the
+
+            temporary              homeless           shelter         expressed         feelings         of safety          and the neighborhood                   expressed
+
+              appreciation            for the way            the facility             was managed.
+
+
+            1.2      Public        Comment
+              Trisha       Bradford          relayed         her unfortunate                  personal         experiences            from     the last three           years.
+
+              She struggled              for income             and asked             the council            to not give        themselves            a raise     because            it
+
+              would        come       from      her savings              account.            She felt     she was speaking                   for many         income-
+
+              restricted       residents.
+
+
+2. Financial           Matters
+              2.1 Establish              a Time         and      Place         for     a Public          Hearing           to Change           Elective         Officers'
+
+              Compensation                   (City      Council           and        Mayor)           - July         25, 2023      at Approximately                    7:00
+
+              p.m.
+
+
+Council         Member             Jackson           moved            to establish             a public         hearing        to consider            changing           the
+
+elective       officers'         compensation                   for     July     25, 2023             at Approximately                  7:00       p.m.     Council
+
+Member            DeSirant           seconded.           The          Recorder           called        for     the vote.        Council            Member         DeSirant
+
+voted       yes, Council             Member             Jackson           voted         yes, Council                 Member          Uipi     voted        yes, and       Mayor
+
+Silvestrini          voted       yes. The            motion           passed         unanimously
+
+
+               Staff      pointed        out that        a presentation                was prepared                for item     2.1 that reiterated               what         was
+
+               published            in the e-newsletter.                  Mayor          Silvestrini           requested        the presentation              be reserved
+
+               for the July           25I11 meeting.
+
+
+3. Business            Matters
+              3.1 Discussion              and        Consideration                    of Ordinance               23-27,       Amending              Chapter         3.48       of
+
+              the Millcreek               Code        of Ordinances                    Regarding              Planning          and     Engineering               Fees
+Millcreek         City     Council           Meeting          Minutes                                           10 July     2023       Page 3 of 4
+
+
+
+            Francis       Lilly      said with        the adopted          consolidated         fee schedule         changes,      the ordinance
+            needed to be updated.                    The code currently              referred      to an engineering          checking         fee, but the
+            schedule        referred         to a planning         checking         fee and engineering             checking        fee, so "planning"
+            needed to be added to code.
+
+
+Council       Member              Jackson       moved          to adopt       Ordinance          23-27,      Amending         Chapter          3.48 of the
+Millcreek         Code       of Ordinances                Regarding          Planning        and Engineering              Fees. Councn            Member
+DeSirant          seconded.          The Recorder               called      for the vote.        Council        Member       DeSirant          voted         yes,
+Council       Member              Jackson       voted      yes, Council             Member       Uipi      voted     yes, and Mayor             Silvestrini
+voted     yes. The motion                 passed       unanimously.
+
+
+4. Reports
+            4.1 Mayor's              Report
+            Mayor        Silvestrini         reported         a 7,000 person         crowd      at the Independence               Eve event at
+            Millcreek         Comtnon,          and he cottunended                  the staff that put it together.               The East Mill             Creek
+            Lions     Club had a successful                    4'h of July parade. He had been meeting                         with    other officials
+            to discuss        the Unified            Police     Department          2.0. He wanted           to be able to maintain              the
+            economies             of scale that currently               existed.     He said there would              be an Interfaith         Council
+            meeting        the following             day to plan a service              day on September             11fll with      the Millcreek
+            Promise        Program.
+
+
+            4.2 City       Council           Member           Reports
+            Council       Member           DeSirant        expressed          appreciation         for tlie event staff. Council               Member
+            Jackson       reminded           the comnnunity              about the Canyon            Rim     Cares event on July 15".
+
+
+            4.3 Staff       Reports
+            Francis       Lilly      said there would            be another         fee rectification         ordinance       at the next council
+            meeting        and there would              be another          ordinance        that changed          the relationship          of the
+            comi'nunity           councils      with      the city and their budgets                within      the code.
+
+
+            Mayor        Silvestrini         recognized         David       Baird    in the audience            for his work        in the coinmunity.
+            Baird     would        be taking         a 6 month          leave of absence           as the Mt. Olympus              Community
+            Council       Chair.       The mayor           thanked         him for his service.
+
+
+            Mayor        Silvestrini         noted     a neighborhood              meeting      had been held that evening                   at the Mt.
+            Olympus         Shopping           Center      about a potential            rezone      to accoinmodate            a Porsche        dealership
+            on Wasatch            Boulevard.          Francis      Lilly     said this was the first            of five public        engagement
+            opportunities            regarding        a potential          zone change.         There     had not been an application                   filed
+           with     the city and the meeting                    was initiated         by the potential          developer.        The discussion
+            centered       on traffic,        lighting,        and use appropriateness.                 There      were over 100 people                in
+           attendance.            There      would      be a joint         city council      and planning           coinmission       meeting          on July
+           25'h to discuss the concept.                       Council      Member        DeSirant        asked about rules about light
+          pollution.         Lilly     said there was a requirement                      in the comi'nercial           zones that light         generated
+           on a property             could     not extend         more than a certain              amount       outside    of the property             line.
+          There       was a maximum                  height      for light     poles,     and they must be shielded                 from      the top, so
+          they are downcast.                  The potential          applicants         intended     to exceed        Millcreek's           standard
+          baseline.        Council        Member           DeSirant         asked about Palm             Springs      lighting.     Lilly     said the
+          Porsche         dealership          in Palm Springs              had a more        aggressive         dark sky ordinance             than what
+Millcreek          City     Council         Meeting           Minutes                                            10 July       2023      Page 4 of 4
+
+
+
+            Millcreek         required.            Lilly    noted he would              be seeing the Palm Springs               location      in person       at
+            night.     Council           Member            Uipi     noted     she would         be seeing it in person,         too.
+
+
+            David         Baird     felt the neighborhood                    meeting       went well.       He was optimistic            about the
+            proposed         lighting        and landscaping.
+
+
+            Mayor         Silvestrini        brouglit         up that witli         the Parley's        mine    application,     a scientist        had been
+            hired to evaluate               the air quality            and vulnerabilities.             The legal counsel        had advised
+            Millcreek         to not intervene                in the county's            lawsuit      but instead    oppose      the air quality
+            permit.
+
+
+5. Consent          Agenda
+            5.1 Approval             of June 12, 2023 Work                      Meeting         and Regular        Meeting     Minutes
+
+
+Council      Member               DeSirant           moved          to approve         the minutes         for June 12, 2023 for the work
+meeting       and regular                meeting.          Council       Member           Jackson        seconded.      Mayor         Silvestrini     called
+for the vote.          Council           Member             DeSirant         voted     yes, Council         Member       Jackson         voted      yes,
+Council       Member              Uipi     voted       yes, and Mayor                 Silvestrini      voted    yes. The       motion        passed
+unanimously
+
+
+6. New Items              for Subsequent                   Consideration
+There were none.
+
+
+7. Calendar            of Upcoming                 Events
+    *       Historic        Preservation              Commission             Mtg.     7/13/23       6:00 p.m.
+    *       Planning         Commission                Mtg.        7/19/23     5:00 p.m.
+    *       City     Council        Mtg.      7/25/23             7:00 p.m.
+
+
+
+ADJOURNED:                   Council          Member               DeSirant      moved          to adjourn       the meeting          at 7:47 p.m.
+Council      Member               Jackson          seconded.          Mayor          Silvestrini       called   for the vote.      Council          Member
+DeSirant       voted        yes, Council               Member           Jackson         voted       yes, Council     Member           Uipi    voted    yes,
+and Mayor            Silvestrini           voted       yes. The motion                passed        unanimously.
+
+
+
+                                     APPROVED:
+                                                                                                                        Date1                ?,."r4a'23
+                                                                     Jeff Silvestrini,       Mayor
+
+
+
+                                         Attest:                    nA&uecoraer
+

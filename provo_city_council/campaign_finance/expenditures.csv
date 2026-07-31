@@ -1,0 +1,1010 @@
+candidate,office,seat,election_year,filing_date,reporting_period,date,vendor_raw,vendor_normalized,purpose,amount,in_kind,is_incremental,source_filing,document_id,line_no,extraction_confidence,extract_method,needs_review
+Caleb Reeve,Mayor,Mayor,2021,2021-09-07,,2021-06-04,Provo City,Provo City,Campaign Fee,154.43,False,False,raw/cf_2021_4456_Caleb_Reeve.pdf,4456,52,high,provo_form/text,0
+Caleb Reeve,Mayor,Mayor,2021,2021-09-07,,2021-06-23,Anna Soucy,Anna Soucy,Marketing Materials Design,156.00,True,False,raw/cf_2021_4456_Caleb_Reeve.pdf,4456,53,high,provo_form/text,0
+Caleb Reeve,Mayor,Mayor,2021,2021-09-07,,2021-07-14,Fast Signs,Fast Signs,lawn signs,150.00,False,False,raw/cf_2021_4456_Caleb_Reeve.pdf,4456,54,high,provo_form/text,0
+Caleb Reeve,Mayor,Mayor,2021,2021-09-07,,2021-08-10,Caleb Reeve,Caleb Reeve,refund,850.00,False,False,raw/cf_2021_4456_Caleb_Reeve.pdf,4456,55,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-06-05,Provo City,Provo City,Filing fee,150.00,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,99,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-06-25,Wix.com Hosting,Wix.com Hosting,Website,19.09,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,100,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-06-29,Sam's Club,Sam's Club,Fundraiser,26.92,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,101,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-01,BYU Food To Go,Byu Food To Go,Fundraiser,24.68,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,102,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-01,Carol's Copy Center,Carol's Copy Center,Advertising -- Flyers,98.73,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,103,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-01,Walmart,Walmart,Fundraiser,22.24,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,104,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-01,Zurchers,Zurchers,Banners,323.76,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,105,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-01,Days Market,Days Market,Advertising - Ice,9.94,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,106,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-02,Zurchers,Zurchers,Advertising,93.14,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,107,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-02,Ace Hardware,Ace Hardware,Sign (zip-ties),15.00,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,108,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-02,IFA,Ifa,Sign (posts),26.33,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,109,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-03,Carol's Copy Center,Carol's Copy Center,Advertising -- Flyers,149.11,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,110,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-03,Costco,Costco,Advertising -- Water,15.19,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,111,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-03,Logo Link Inc,Logo Link Inc,Banner,64.35,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,112,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-04,Fast Signs,Fast Signs,Signs,1711.00,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,113,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-05,Days Market,Days Market,Advertising - Ice,29.27,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,114,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-08,Carol's Copy Center,Carol's Copy Center,Advertising - Flyers,37.27,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,115,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-09,Fast Signs,Fast Signs,Magnetic Signs,186.71,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,116,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-10,Dollar Tree,Dollar Tree,Fundraiser,11.80,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,117,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-10,Dollar Tree,Dollar Tree,Fundraiser,6.44,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,118,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-10,Costco,Costco,Fundraiser,372.20,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,119,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-10,Smiths,Smiths,Fundraiser,28.06,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,120,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-10,Smiths,Smiths,Fundraiser,25.71,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,121,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-13,Ace Hardware,Ace Hardware,Signs (posts & zip-ties),47.11,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,122,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-18,IFA Country Stores,Ifa Country Stores,Signs (T & U posts),72.60,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,123,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-23,Wix.com Hosting,Wix.com Hosting,Website,19.09,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,124,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-27,Fast Signs,Fast Signs,Signs,855.67,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,125,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-07-27,Fast Signs,Fast Signs,Signs,855.67,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,126,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-08-23,Wix.com Hosting,Wix.com Hosting,Website,19.09,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,128,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-09-03,Image Wear Inc,Image Wear Inc,Advertising - T-shirts,170.00,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,129,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-09-10,Ace Hardware,Ace Hardware,Signs (posts & zip-ties),45.42,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,130,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-09-10,Young Sign and Banner,Young Sign and Banner,Signs,1072.50,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,131,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-09-12,Image Wear Inc,Image Wear Inc,Advertising - T-shirts,189.55,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,132,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-09-23,Wix.com Hosting,Wix.com Hosting,Website,19.09,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,133,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-02,IFA Country Stores,Ifa Country Stores,Signs (T & U posts),180.98,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,134,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-04,Carol's Copy Center,Carol's Copy Center,Advertising - Flyers,40.22,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,135,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-05,Harmons,Harmons,Cottage meeting treats,71.07,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,136,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-05,Carol's Copy Center,Carol's Copy Center,Advertising - Flyers,119.99,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,137,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-07,Consolidated Direct Mail,Consolidated Direct Mail,Mailers,3099.56,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,138,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-08,Zurchers,Zurchers,Cottage meeting decorations / plates / cups,77.96,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,139,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-08,Hobby Lobby,Hobby Lobby,Cottage meeting decorations,99.83,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,140,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-08,Hobby Lobby,Hobby Lobby,Cottage meeting decorations,45.03,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,141,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-09,Carol's Copy Center,Carol's Copy Center,Door hangers,384.76,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,142,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-10,Ace Hardware,Ace Hardware,Signs (T & U posts),58.86,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,143,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-10,Zurchers,Zurchers,Returned items,-34.12,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,144,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-12,Grassfire Wyus,Grassfire Wyus,Text messages,770.10,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,145,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-14,Staples,Staples,labels,26.80,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,146,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-18,Consolidated Direct Mail,Consolidated Direct Mail,Mailers,741.16,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,147,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-20,Carol's Copy Center,Carol's Copy Center,Flyers,78.56,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,148,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-23,Young Sign and Banner,Young Sign and Banner,Signs,798.48,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,149,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-23,Grassfire Wyus,Grassfire Wyus,Text messages,668.70,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,150,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-10-23,Wix.com Hosting,Wix.com Hosting,Website,19.09,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,151,high,provo_form/text,0
+Kenneth Dudley,Mayor,Mayor,2021,2021-11-30,,2021-11-01,Grassfire Wyus,Grassfire Wyus,Text messages,522.40,False,False,raw/cf_2021_4461_Kenneth_Dudley.pdf,4461,152,high,provo_form/text,0
+M David Gedo Sanchez,Mayor,Mayor,2021,2021-09-08,,2021-06-02,Provo City,Provo City,Filing Fee,150.00,False,False,raw/cf_2021_4463_M_David_Gedo_Sanchez.pdf,4463,50,high,provo_form/text,0
+M David Gedo Sanchez,Mayor,Mayor,2021,2021-09-08,,2021-07-03,Michael's,Michael's,Sign Materials,174.12,False,False,raw/cf_2021_4463_M_David_Gedo_Sanchez.pdf,4463,51,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-06-01,Provo,Provo,Filing Fee,150.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,93,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-06-27,Facebook,Facebook,Advertising,85.14,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,94,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-07-14,Majority 51,Majority 51,Repay Loan,2500.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,95,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-07-19,Salt Lake Mailing,Salt Lake Mailing,Advertising,3236.58,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,96,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-07-27,Paypal,Paypal,fee,3.20,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,97,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-08,Paypal,Paypal,fee,91.06,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,98,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-11,John Garfield,John Garfield,Hotel for staff,709.00,True,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,99,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-15,Mountain America,Mountain America,Fee,10.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,100,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-15,September Inc,September Inc,Canvas and phone,6000.00,True,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,101,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-19,Paypal,Paypal,fee,29.39,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,102,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-20,Paypal,Paypal,fee,58.29,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,103,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-08-28,Paypal,Paypal,fee,14.94,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,104,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-09-02,Paypal,Paypal,fee,29.39,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,105,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-09-09,Provo City,Provo City,Rental Fee for debate,270.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,106,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-09-23,PayPal,PayPal,fee,29.39,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,107,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-08,PayPal,PayPal,fee,43.84,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,108,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-12,Utah Central Association of Realtors,Utah Central Association of Realtors,Mailer,4000.00,True,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,109,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-12,Reagan Outdoor Advertising,Reagan Outdoor Advertising,Advertising,1464.00,True,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,110,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-20,Majority 51,Majority 51,Advertising,85.15,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,111,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-21,Paypal,Paypal,Fee,144.99,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,112,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-10-25,Paypal,Paypal,fee,29.39,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,113,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-11,Majority 51,Majority 51,Advertising,2868.50,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,114,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-11,John Whittaker,John Whittaker,Gas for campaign,300.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,115,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-14,September Inc,September Inc,Campaign Work,3000.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,116,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-14,Michelle Kaufusi,Michelle Kaufusi,Loan Repayment,3000.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,117,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-14,Steve Kaufusi,Steve Kaufusi,Gas for campaign,400.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,118,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-20,Majority 51,Majority 51,Consulting,5000.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,119,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2021,2021-11-29,,2021-11-26,Cafe Rio,Cafe Rio,Giftcards for campaign help,200.00,False,False,raw/cf_2021_4464_Michelle_Kaufusi.pdf,4464,120,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2011-06-07,Provo City,Provo City,Filing Fee,150.00,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,59,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-06-16,K-Factor Technologies,K-Factor Technologies,Website Work,240.00,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,60,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-06-24,K-Factor Technologies,K-Factor Technologies,Picture and Website Work,225.00,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,61,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-03,Stevenson Geneology & Copying,Stevenson Geneology & Copying,Printing,45.85,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,62,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-14,Prints on the Cheap,Prints on the Cheap,Campaign Signs,252.25,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,63,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-21,Stevenson Geneology & Copying,Stevenson Geneology & Copying,Printing,81.51,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,64,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-21,home Depot,home Depot,Sign holders,32.81,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,65,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-21,Lowes,Lowes,Stakes for signs,15.27,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,66,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-22,Ace hardware,Ace hardware,supplies,6.42,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,67,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-29,ace hardware,ace hardware,large metal posts,46.09,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,68,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-29,Utah sign co,Utah sign co,larger signs,691.76,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,69,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-07-29,Grassfire LLC,Grassfire Llc,Texting voters,913.89,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,70,high,provo_form/text,0
+Neil Mitchell,Mayor,Mayor,2021,2021-09-07,,2021-09-07,Neil Mitchell,Neil Mitchell,Repayment of Loan,2519.15,False,False,raw/cf_2021_4465_Neil_Mitchell.pdf,4465,71,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-07,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,182,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-12,Fund Hero,Fund Hero,fund raising tool,8.99,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,183,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-12,E Bay Commerce,E Bay Commerce,book,4.44,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,184,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-20,"Squarespace, Inc.",Inc Squarespace,website,27.89,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,185,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-20,"Squarespace, Inc.",Inc Squarespace,URL,21.45,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,186,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-26,Amy Ollerton,Amy Ollerton,"Photo Shoot, editing",500.00,True,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,187,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-28,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,7.09,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,188,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-06-30,Vista Print,Vista Print,Campaign mailers,477.33,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,189,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-02,Home Depot,Home Depot,Supplies,670.29,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,190,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-02,Anne Simmons,Anne Simmons,Campaign signs,3177.82,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,191,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-02,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,9.45,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,192,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-13,Kirsten Spencer,Kirsten Spencer,"design work, etc.",100.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,193,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-14,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,29.80,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,194,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-16,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,15.05,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,195,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-20,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,196,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-22,Creative Stream,Creative Stream,Mailer,4856.75,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,197,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-23,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,4.73,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,198,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,225.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,199,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,45.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,200,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,33.48,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,201,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Trevor Christensen,Trevor Christensen,Video production,3500.00,True,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,202,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Kirsten Spencer,Kirsten Spencer,Graphic design,100.00,True,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,203,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Alistor Skabelund,Alistor Skabelund,Video production,50.00,True,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,204,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Miguel Cordero,Miguel Cordero,Translation,50.00,True,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,205,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-07-31,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,50.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,206,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-01,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,30.38,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,207,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-01,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,27.31,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,208,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-02,Drop Cowboy,Drop Cowboy,Ringless Voicemail Drop,31.95,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,209,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-10,Creative Stream,Creative Stream,Mailer,850.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,211,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-17,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,3.25,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,212,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-20,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,213,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-08-25,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,1.78,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,214,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-07,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,6.20,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,215,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-07,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,6.20,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,216,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-08,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,1.78,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,217,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-08,Abby Evans,Abby Evans,E-mail marketing,334.80,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,218,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-08,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,1.78,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,219,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-09,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,6.20,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,220,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-09,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,6.20,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,221,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-14,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,29.80,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,222,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-14,Mail Chimp,Mail Chimp,E-mail marketing,112.61,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,223,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-14,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,29.80,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,224,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-20,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,12.10,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,225,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-20,"Squarespace, Inc.",Inc Squarespace,Website,27.89,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,226,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-21,Artlist,Artlist,Video production,299.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,227,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-26,Vista Print,Vista Print,printing,178.74,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,228,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-09-29,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,42.20,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,229,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-04,Creative Stream,Creative Stream,"design work, etc.",1750.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,230,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-10,Google,Google,ads,350.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,231,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-12,Creative Stream,Creative Stream,mailer,3426.48,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,232,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-12,"Squarespace, Inc.",Inc Squarespace,Website - transaction fee,12.10,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,233,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-13,Google,Google,ads,350.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,234,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-14,Mail Chimp,Mail Chimp,E-mail marketing,101.35,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,235,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-19,Google,Google,ads,500.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,236,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-19,"Squarespace, Inc.",Inc Squarespace,Website-transaction fee,236.30,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,237,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-20,"Squarespace, Inc.",Inc Squarespace,Website hosting,27.89,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,238,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-25,Google,Google,ads,500.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,239,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-26,Facebook,Facebook,ads,25.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,240,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-27,Facebook,Facebook,ads,25.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,241,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-27,Facebook,Facebook,ads,25.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,242,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-27,Facebook,Facebook,ads,35.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,243,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-28,Facebook,Facebook,ads,50.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,244,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-28,Google,Google,ads,500.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,245,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-28,Utah County Clerk,Utah County Clerk,data,35.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,247,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-28,Facebook,Facebook,ads,75.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,248,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-28,Facebook,Facebook,ads,75.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,249,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-30,Costco,Costco,election party goods,99.60,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,250,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-10-30,Facebook,Facebook,ads,125.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,251,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-01,Facebook,Facebook,ads,175.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,252,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-01,Google,Google,ads,443.43,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,253,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-03,Creative Stream,Creative Stream,mailer,5576.38,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,254,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-05,Google,Google,ads,500.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,255,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-10,Google,Google,ads,500.00,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,256,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-14,Mail Chimp,Mail Chimp,E-mail marketing,101.35,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,257,high,provo_form/text,0
+Aaron Skabelund,Council,Citywide I,2021,2021-11-30,,2021-11-18,"Squarespace, Inc.",Inc Squarespace,Website-transaction fee,6.44,False,False,raw/cf_2021_4455_Aaron_Skabelund.pdf,4455,258,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-06-07,Provo City Recorder,Provo City Recorder,Campaign Filing Fee,75.00,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,61,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-06-08,NameCheap,NameCheap,Web Services,7.16,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,62,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-06-08,NameCheap,NameCheap,Web Services,14.16,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,63,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-06-08,Lee Sands,Lee Sands,Web Design,150.00,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,64,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-06-29,Young Sign and Banner,Young Sign and Banner,Campaign Signs,447.23,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,65,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-07-14,Young Sign and Banner,Young Sign and Banner,Campaign Signs,123.34,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,66,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-07-15,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,"Mailer printing, labeling and mailing",758.02,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,67,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-09-21,Young Sign and Banner,Young Sign and Banner,Campaign Signs,817.78,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,68,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-10-04,Stevenson Genealogy & Copy,Stevenson Genealogy & Copy,Door Hanger Copies,66.02,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,69,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-10-08,Home Depot,Home Depot,Rebar to anchor signs 8 pieces,59.80,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,70,high,provo_form/text,0
+Coy D Porter,Council,District 5,2021,2021-11-29,,2021-10-11,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,"Mailer printing, labeling and mailing",738.83,False,False,raw/cf_2021_4457_Coy_D_Porter.pdf,4457,71,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-01-18,Online Dep Detail and Images-Bob,Online Dep Detail and Images-Bob,wells fargo fee,3.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,63,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-04-02,United Utah Party,United Utah Party,donation,100.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,64,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-05-18,Facebook,Facebook,fee for FB page,6.63,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,65,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-06-01,Squarespace,Squarespace,recurring fee for website,16.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,66,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-06-08,Squarespace,Squarespace,recurring fee for website,144.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,67,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-10-18,Vote4Provo,Vote4Provo,donation for city bond,200.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,68,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2018-10-18,Ben McAdams,Ben McAdams,donation for congressional campaign,100.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,69,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-02-19,Garbett for Mayor,Garbett for Mayor,donation for mayoral campaign,100.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,70,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-05-19,Squarespace,Squarespace,recurring fee for website,16.98,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,71,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-06-19,Squarespace,Squarespace,recurring fee for website,152.78,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,72,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-06-19,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,73,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-07-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,74,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-08-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,75,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-09-30,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,76,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-10-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,77,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-11-30,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,78,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2019-12-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,79,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-01-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,80,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-02-29,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,81,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-03-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,82,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-04-30,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,83,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-05-26,Squarespace,Squarespace,recurring fee for website,17.16,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,84,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-05-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,85,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-06-11,Squarespace,Squarespace,recurring fee for website,154.44,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,86,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-06-30,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,87,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-07-31,Wells Fargo,Wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,88,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-08-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,89,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-09-30,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,90,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-10-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,92,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-11-30,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,93,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2020-12-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,94,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-01-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,95,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-02-28,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,96,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-03-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,97,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-05-17,Pay pal,Pay pal,fee for donation made to my campaign,14.80,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,98,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-05-24,Squarespace,Squarespace,recurring fee for website,17.16,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,99,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-05-31,wells Fargo,wells Fargo,Monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,100,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-06-01,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,101,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-06-08,Pay pal,Pay pal,fee for donation made to my campaign,1.75,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,102,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-06-08,squarespace,squarespace,fee for website,154.44,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,103,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-06-30,wells Fargo,wells Fargo,monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,104,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-07-09,Pay pal,Pay pal,fee for donation made to my campaign,3.20,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,105,high,provo_form/text,0
+George Handley,Council,District 2,2021,2021-12-09,,2021-07-30,wells fargo,wells fargo,monthly service fee,10.00,False,False,raw/cf_2021_4458_George_Handley.pdf,4458,106,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-06-07,Provo City,Provo City,Filing fee,75.00,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,59,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-06-20,Hostinger,Hostinger,Domain fee,9.17,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,60,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-06-24,Square Space,Square Space,Website platform,30.03,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,61,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-06-30,Signs On the cheap,Signs On the cheap,Signs,1405.88,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,62,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-07-19,Consolidated mail,Consolidated mail,Direct mail,3038.07,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,63,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-07-19,Vis A Vis,Vis A Vis,Campaign help,200.00,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,64,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-07-28,24HourPrint,24HourPrint,Flyers,372.89,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,65,high,provo_form/text,0
+Hoc Vu,Council,Citywide I,2021,2021-08-02,,2021-07-29,Utah County Elections,Utah County Elections,Ballot return list,35.00,False,False,raw/cf_2021_4459_Hoc_Vu.pdf,4459,66,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-05-13,UPS,Ups,Mail,195.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,121,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-05-18,Majority 51,Majority 51,Advertising,2276.55,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,122,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-05-26,Paypal,Paypal,Fee,3.20,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,123,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-01,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,124,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-09,Paypal,Paypal,Fee,29.30,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,125,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-11,Paypal,Paypal,Fee,7.55,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,126,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-16,Paypal,Paypal,Fee,14.80,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,127,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-18,Majority 51,Majority 51,Advertising,255.59,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,128,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-21,Paypal,Paypal,Fee,7.55,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,129,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-06-24,Facebook,Facebook,Advertising,103.80,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,130,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-01,Provo City,Provo City,Park Fee,70.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,131,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-12,Pier 49,Pier 49,Dinner with BYU students,101.11,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,132,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-15,Paypal,Paypal,Fee,15.27,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,133,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-15,Sams Club,Sams Club,Supplies,22.58,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,134,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-15,Dollar Tree,Dollar Tree,Supplies,20.38,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,135,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-19,Salt Lake Mailing,Salt Lake Mailing,Advertising,3236.58,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,136,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-19,David Carlson,David Carlson,Pizza,250.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,137,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-07-20,Slybroadcasting,Slybroadcasting,Advertising,325.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,138,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-08-01,Salt Lake Mailing,Salt Lake Mailing,Advertising,3136.58,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,139,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-08-27,Paypal,Paypal,Fee,110.63,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,140,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-01,Majority 51,Majority 51,Advertising,1400.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,141,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-11,Salt Lake Mailing,Salt Lake Mailing,Advertising,4040.07,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,142,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-15,Majority 51,Majority 51,Advertising,4777.83,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,143,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-19,Majority 51,Majority 51,Advertising,1999.98,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,144,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-20,Majority 51,Majority 51,Advertising,645.61,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,145,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-23,Kyler Roney,Kyler Roney,Refreshments,500.00,True,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,146,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-10-23,Crumbl Cookies,Crumbl Cookies,Refreshments,100.00,True,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,147,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-11-05,Majority 51,Majority 51,Advertising,1905.04,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,148,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-11-05,Majority 51,Majority 51,Consulting,7000.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,150,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2021,2021-11-29,,2021-11-27,Katrice MacKay,Katrice MacKay,Loan Partial Repayment,700.00,False,False,raw/cf_2021_4460_Katrice_MacKay.pdf,4460,151,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-06-04,Provo City,Provo City,Candidate Declaration,75.00,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,55,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-06-07,Wordpress,Wordpress,Website,51.48,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,56,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-07-02,CPS,Cps,Signs,370.01,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,57,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-07-02,Harbor Freight,Harbor Freight,Sign Supplies,2.79,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,58,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-07-06,Stripe,Stripe,Merchant Fee,18.83,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,59,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-07-18,Stripe,Stripe,Merchant Fee,3.03,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,60,high,provo_form/text,0
+Landon Johnson,Council,Citywide I,2021,2021-08-02,,2021-07-23,Facebook,Facebook,Advertising,25.00,False,False,raw/cf_2021_4462_Landon_Johnson.pdf,4462,61,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-03-25,Google Domains,Google Domains,One year domain registration paid by Rachel Whipple,12.00,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,121,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-04-09,Google Workspace Business Standard,Google Workspace Business Standard,email account for domain paid by Rachel Whipple,18.85,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,122,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-05-01,Google Workspace Business Standard,Google Workspace Business Standard,email account for domain paid by Rachel Whipple,25.71,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,123,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-05-09,Brigham Daniels,Brigham Daniels,District Map donation,22.00,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,124,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-05-22,Facebook,Facebook,Facebook ad,25.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,125,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-05-27,Facebook,Facebook,Facebook ad,11.66,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,126,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-01,Google Workspace Business Standard,Google Workspace Business Standard,email account for domain paid by Rachel Whipple,12.86,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,127,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-02,Provo City,Provo City,Filing Fee,77.21,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,128,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-16,Sticker Mule,Sticker Mule,Campaign stickers,117.98,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,129,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-18,Cougar Creations,Cougar Creations,Fliers,24.13,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,130,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-18,Cougar Creations,Cougar Creations,Fliers,26.81,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,131,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-26,Signs on the Cheap,Signs on the Cheap,Yard Signs,1093.83,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,132,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-27,Facebook,Facebook,Facebook ads,5.34,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,133,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-29,David Page,David Page,Logo and Poster graphics,656.25,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,134,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-06-30,Image Wear,Image Wear,Campagn Tshirts Deposit,300.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,135,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-01,Google Workspace Business Standard,Google Workspace Business Standard,email account for domain,25.71,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,136,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-06,Cougar Creations,Cougar Creations,fliers,32.98,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,137,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-06,Uprinting,Uprinting,fliers,221.21,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,138,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-07,Brigham Daniels,Brigham Daniels,Drinks for canvassers,27.74,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,139,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-13,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,mailer,860.84,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,140,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-13,Utah Central Association of REALTORS,Utah Central Association of Realtors,data/maps,270.00,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,141,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-16,Facebook,Facebook,Facebook ad,25.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,142,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-20,Facebook,Facebook,Facebook ad,25.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,143,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-20,Mobilesslybroadcast,Mobilesslybroadcast,no ring message service,225.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,144,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-22,Imagewear,Imagewear,Campaign Tshirts,320.34,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,145,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-24,Facebook,Facebook,Facebook Ad,35.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,146,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-07-27,Facebook,Facebook,Facebook Ad,18.33,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,147,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-03,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,Mailer,1148.37,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,148,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-11,Amazon.com,Amazon.com,Stationary for thank you notes,55.20,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,150,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-12,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,Sales tax for mailers (company failed to apply this earlier),69.44,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,151,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-23,TheStampMaker.com,TheStampMaker.com,self-inking stamp,20.74,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,152,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-25,Mobilesslybroadcast,Mobilesslybroadcast,refund for faulty service,-225.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,153,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-27,POS Day's Market Post Office,Pos Day's Market Post Office,Postage stamps,26.40,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,154,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-08-27,Facebook,Facebook,facebook ads,19.67,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,155,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-11,Cougar Creations,Cougar Creations,fliers,133.84,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,156,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-17,"Creative Stream, Inc.","Creative Stream, Inc","video production, ad placement and ad management",1100.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,157,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-19,Facebook,Facebook,facebook ad,50.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,158,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-20,Facebook,Facebook,facebook ad,50.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,159,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-21,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,mailer,1146.26,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,160,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-21,Facebook,Facebook,facebook ad,75.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,161,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-23,Facebook,Facebook,facebook ad,125.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,162,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-24,Facebook,Facebook,facebook ad,175.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,163,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-24,Google Ads,Google Ads,Google Ads business service,50.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,164,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-27,Facebook,Facebook,facebook ad,158.39,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,165,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-10-30,Progression PROPAC,Progression Propac,in-kind donation of facebook ads and associated analytics,350.00,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,166,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-01,Facebook,Facebook,facebook ad,250.00,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,167,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-02,Beehive Catering,Beehive Catering,in-kind donation of food throughout the campaign,593.43,True,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,168,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-02,Beehive Catering,Beehive Catering,Food for election night event,173.74,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,169,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-07,Deanna Johnson,Deanna Johnson,Reimbursment for election night party planning and supplies.,108.19,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,170,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-08,Google Ads,Google Ads,Google Ads business service,188.88,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,172,high,provo_form/text,0
+Rachel Whipple,Council,District 5,2021,2021-11-30,,2021-11-27,Facebook,Facebook,facebook ad,24.23,False,False,raw/cf_2021_4466_Rachel_Whipple.pdf,4466,173,high,provo_form/text,0
+Suzanne Q,Council,,2021,2021-06-24,,2021-06-07,Provo City,Provo City,Filing Fee S75.00,,False,False,raw/cf_2021_4467_Suzanne_Q.pdf,4467,55,low,provo_form/text,1
+Zac Green,Council,District 5,2021,2021-09-09,,2021-06-07,Zac Green,Zac Green,Candidate Filing Fee,79.00,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,67,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-06-23,Scott Allred,Scott Allred,Website Domain name Purchase,12.99,True,False,raw/cf_2021_4469_Zac_Green.pdf,4469,68,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-10,Donorbox,Donorbox,payment processing on donation,4.68,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,69,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-10,Stripe,Stripe,payment processing on donation,9.34,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,70,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-17,Donorbox,Donorbox,payment processing on donation,1.50,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,71,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-17,Stripe,Stripe,payment processing on donation,3.20,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,72,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-17,Donorbox,Donorbox,payment processing on donation,0.78,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,73,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-17,Stripe,Stripe,payment processing on donation,1.81,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,74,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-18,Donorbox,Donorbox,payment processing on donation,0.46,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,75,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-18,Stripe,Stripe,payment processing on donation,0.08,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,76,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-18,Donorbox,Donorbox,payment processing on donation,4.68,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,77,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-18,Stripe,Stripe,payment processing on donation,9.34,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,78,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-19,Donorbox,Donorbox,payment processing on donation,0.91,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,79,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-19,Stripe,Stripe,payment processing on donation,0.32,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,80,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-19,Donorbox,Donorbox,payment processing on donation,0.17,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,81,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-19,Stripe,Stripe,payment processing on donation,0.63,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,82,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Donorbox,Donorbox,payment processing on donation,0.16,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,83,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Stripe,Stripe,payment processing on donation,0.61,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,84,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Donorbox,Donorbox,payment processing on donation,0.16,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,85,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Stripe,Stripe,payment processing on donation,0.61,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,86,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Donorbox,Donorbox,payment processing on donation,0.39,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,87,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-20,Stripe,Stripe,payment processing on donation,1.06,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,88,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-26,Grassfire LLC,Grassfire Llc,Text Campaign Advertising,169.81,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,89,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-30,Salt Lake Mailing,Salt Lake Mailing,flyers,163.33,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,90,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-07-30,Little Caesars,Little Caesars,campaign event food,12.02,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,91,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-08-02,Donorbox,Donorbox,payment processing on donation,3.12,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,92,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-08-02,Stripe,Stripe,payment processing on donation,6.33,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,93,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-08-10,Donorbox,Donorbox,payment processing on donation,0.08,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,94,high,provo_form/text,0
+Zac Green,Council,District 5,2021,2021-09-09,,2021-08-10,Stripe,Stripe,payment processing on donation,0.46,False,False,raw/cf_2021_4469_Zac_Green.pdf,4469,96,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-02-18,Google Suite,Google Suite,web page,12.00,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,87,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-04-01,Google Suite,Google Suite,web page,11.62,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,88,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-05-01,Google Suite,Google Suite,web page,12.87,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,89,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-05-19,Utah County Elections,Utah County Elections,voter list,20.90,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,90,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-06-01,Google Suite,Google Suite,web page,17.85,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,91,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-06-01,Provo City,Provo City,Candidate Filing Fee,77.21,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,92,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-01,Google Suite,Google Suite,Web page,25.74,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,93,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-18,Staples,Staples,Printing,26.79,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,94,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-18,Vista Print,Vista Print,yard signs,1296.93,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,95,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-18,Vista Print,Vista Print,Campaign Materials printing,258.50,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,96,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-18,Amazon,Amazon,H stakes for signs,341.56,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,97,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-07-26,Staples,Staples,Printing,21.44,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,98,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-08-01,Google Suite,Google Suite,Web Page,25.74,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,99,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-08-07,Vista Print,Vista Print,Signs,346.58,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,100,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-08-26,Stubbs Farm,Stubbs Farm,Refreshments,5.50,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,101,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-01,Google Suite,Google Suite,web page,25.74,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,102,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-11,Amazon,Amazon,Supplies,20.68,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,103,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-25,Amazon,Amazon,Supplies,68.37,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,104,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-25,USPS,Usps,Postage,3.96,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,105,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-26,Vista Print,Vista Print,Printing,263.67,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,106,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-26,Amazon,Amazon,Thank yous,6.71,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,107,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-28,Amazon,Amazon,Supplies,21.20,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,108,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-28,Walgreens,Walgreens,Supplies,16.08,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,109,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-09-28,At home,At home,Supplies,18.49,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,110,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-06,Home Depot,Home Depot,Cinder blocks to hold signs,20.98,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,111,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-11,USPS,Usps,Postage,3.30,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,112,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-11,Google Suite,Google Suite,Website,25.75,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,113,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-18,Salt Lake Mailing and Printing,Salt Lake Mailing and Printing,Mailing and Printing,874.53,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,114,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-20,Outcry Digital,Outcry Digital,Campaign Communications,700.00,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,116,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-24,Franz,Franz,Forum treats,3.28,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,117,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-24,"Sam""s Club","Sam""s Club",Event Treats,68.45,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,118,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-24,Walmart,Walmart,Campaign Supplies,16.08,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,119,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-10-24,Walmart,Walmart,Campaign Supplies,18.19,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,120,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-01,Google Suite,Google Suite,Web site,25.74,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,121,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-18,Sam's Club,Sam's Club,Refreshments,27.77,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,122,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-20,Walmart,Walmart,Thank yous for volunteers.,56.80,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,123,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-20,Costco,Costco,Thank yous for volunteers.,35.78,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,124,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-20,Hobby lobby,Hobby lobby,Thank yous for volunteers.,5.35,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,125,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-11-20,Shane Bogdin,Shane Bogdin,Gas,150.00,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,126,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-12-01,Google Suite,Google Suite,Web site,22.99,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,127,high,provo_form/text,0
+Becky Bogdin,Council,District 3,2023,2023-12-04,,2023-12-01,Becky Bogdin,Becky Bogdin,Repayment of loan,1258.88,False,False,raw/cf_2023_3791_Becky_Bogdin.pdf,3791,128,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-05-30,Malawis Pizza,Malawis Pizza,Campaign Meeting,94.94,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,106,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-01,Provo City Recorder,Provo City Recorder,Filing fee,77.21,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,107,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-05,Ben Hirschi,Ben Hirschi,Website and database work,470.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,108,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-08,The UPS Store,The Ups Store,Mailbox for Campaign,208.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,109,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-08,BJ Griffin,BJ Griffin,Media and Design,1000.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,110,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-09,Magelbys Fresh,Magelbys Fresh,Campaign meeting,15.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,111,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-09,Gurus Provo,Gurus Provo,Campaign meeting,48.26,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,112,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-12,Hungry Hawaiian Provo,Hungry Hawaiian Provo,Campaign meeting,24.79,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,113,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-12,Brick Oven Provo,Brick Oven Provo,Campaign meeting,82.46,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,114,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-23,The UPS,The Ups,refund for Cancelled PO Box,-180.20,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,115,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-26,Daniela Castro,Daniela Castro,Campaign Management,570.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,116,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-26,Days Market,Days Market,Campaign Supplies,2.56,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,117,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-26,Costco,Costco,Supplies,30.87,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,118,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-06-26,Home Depot,Home Depot,Supplies,145.43,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,119,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-03,Ben Hirschi,Ben Hirschi,Website / Data Analysis,270.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,120,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-03,Grace O'Barr,Grace O'Barr,Social Media,280.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,121,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-10,Daniela Castro,Daniela Castro,Campaign Management,340.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,122,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-17,Ben Hirschi,Ben Hirschi,Data Analysis,200.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,123,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-17,Grace O'Barr,Grace O'Barr,Social Media,220.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,124,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-21,USPS,Usps,Mailbox,97.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,125,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-21,Daniela Castro,Daniela Castro,Campaign Management,375.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,126,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-23,Grace O'Barr,Grace O'Barr,Social Media,160.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,127,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-31,Grace O'Barr,Grace O'Barr,Social Media,160.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,128,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-07-31,Majority 51,Majority 51,Campaign Expenses,3768.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,129,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-02,Ben Hirschi,Ben Hirschi,Data Analysis,230.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,130,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-02,Daniela Castro,Daniela Castro,Campaign Managment,330.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,131,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-07,Grace O'Barr,Grace O'Barr,Social Media,180.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,132,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-11,Tatum Winspear,Tatum Winspear,Campaign Supplies,53.97,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,133,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-21,Daniela Castro,Daniela Castro,Campaign Management,145.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,135,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-21,Ben Hirschi,Ben Hirschi,Data Analysis,170.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,136,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-08-28,Grace O'Barr,Grace O'Barr,Social Media,400.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,137,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-05,Ben Hirschi,Ben Hirschi,Data Analysis,100.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,138,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-15,USPS,Usps,Postage,52.43,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,139,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-15,USPS,Usps,Postage,42.34,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,140,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-18,Grace O'Barr,Grace O'Barr,Social Media,360.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,141,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-18,Daniela Castro,Daniela Castro,Campaign Management,393.51,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,142,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-19,USPS,Usps,Postage,12.84,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,143,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-21,Amazon,Amazon,Campaign Supplies,13.20,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,144,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-21,Amazon,Amazon,Campaign Supplies,51.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,145,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-26,Riley Miskho,Riley Miskho,Campaign Material,50.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,146,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-27,Cole Christensen,Cole Christensen,Campaign Work,80.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,147,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-09-27,Daniela Castro,Daniela Castro,Campaign Management,516.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,148,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-02,Amazon,Amazon,Campaign Supplies,5.24,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,149,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-02,Grace O'Barr,Grace O'Barr,Social Media,240.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,150,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-02,Riley Miskho,Riley Miskho,Campaign Signage,40.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,151,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-10,Grace O'Barr,Grace O'Barr,Social Media,100.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,152,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-12,Cameron Christensen,Cameron Christensen,Campaign Work,140.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,153,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-16,Daniela Castro,Daniela Castro,Campaign Management,806.43,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,154,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-16,Ben Hirschi,Ben Hirschi,Website and database work,290.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,155,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-19,Daryl Acumen,Daryl Acumen,Campaign Data,20.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,156,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-19,Richard Jaussi,Richard Jaussi,Campaign Management,4891.23,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,157,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-20,Cole Christensen,Cole Christensen,Campaign Work,40.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,158,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-20,Riley Miskho,Riley Miskho,Campaign Work,40.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,159,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-23,Salt Lake Mailing and Printing,Salt Lake Mailing and Printing,Campaign Supplies,2399.50,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,160,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-23,Grace O'Barr,Grace O'Barr,Social Media,240.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,161,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-23,John Scott,John Scott,Campaign Work,612.76,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,162,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-24,Digital Printing,Digital Printing,Campaign Supplies,253.56,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,163,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-27,Daniela Castro,Daniela Castro,Campaign work,654.55,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,164,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-30,Salt Lake Printing,Salt Lake Printing,Campaign Printing,2392.51,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,165,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-30,Amazon,Amazon,Campaign Materials,24.66,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,166,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-10-31,Ben Hirschi,Ben Hirschi,Campaign Work,335.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,167,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-03,John Scott,John Scott,Campaign Work,620.96,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,168,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-06,Grace O'Barr,Grace O'Barr,Campaign Work,420.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,169,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-10,Cole Christensen,Cole Christensen,Campaign Work,140.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,171,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-14,Salt Lake Mailing and Printing,Salt Lake Mailing and Printing,Printing and Mail,1637.56,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,172,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-23,Ross Christensen,Ross Christensen,Marquee Sign,420.00,True,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,173,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-24,Grace O'Barr,Grace O'Barr,Campaign Media,260.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,174,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-27,Cole Christensen,Cole Christensen,Campaign Work,30.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,175,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-11-28,Daniela Castro,Daniela Castro,Campaign Work,577.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,176,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-12-05,Ben Hirschi,Ben Hirschi,Campaign Work,200.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,177,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-12-08,Cameron Christensen,Cameron Christensen,Campaign Work,100.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,178,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-12-14,Majority 51,Majority 51,Campaign Work,1922.74,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,179,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-12-14,Majority 51,Majority 51,Campaign Work,5068.17,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,180,high,provo_form/text,0
+Craig Christensen,Council,District 1,2023,2023-12-18,,2023-12-18,Ben Hirschi,Ben Hirschi,Campaign Work,50.00,False,False,raw/cf_2023_3792_Craig_Christensen.pdf,3792,181,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-06-17,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,56,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-10-03,Majority 51,Majority 51,Campaign Materials,1712.45,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,57,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-10-21,Majority 51,Majority 51,Voter Outreach,120.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,58,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-10-26,Majority 51,Majority 51,Voter Outreach,60.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,59,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-10-28,Majority 51,Majority 51,Voter Outreach,40.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,60,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-10-30,Salt Lake Mailing,Salt Lake Mailing,Voter Outreach,2290.53,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,61,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-11-02,Majority 51,Majority 51,Voter outreach,60.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,62,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-11-06,Majority 51,Majority 51,Voter outreach,45.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,63,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-11-09,Majority 51,Majority 51,Voter outreach,45.00,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,64,high,provo_form/text,0
+David Lewis,Council,District 3,2023,2023-12-19,,2023-11-29,Majority 51,Majority 51,Voter outreach,4114.93,False,False,raw/cf_2023_3798_David_Lewis.pdf,3798,65,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-06-01,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,72,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-06-12,UCCU,Uccu,Bank fee,15.00,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,73,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-06-12,State of Utah,State of Utah,DBA filing,22.00,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,74,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-08-01,Lowes,Lowes,Supplies,44.96,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,75,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-08-07,Majority 51,Majority 51,Campaign Materials,1683.64,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,76,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-08-15,Salt Lake Mailing,Salt Lake Mailing,Mailing,3269.67,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,77,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-09-05,Eagle Ridge Ranch,Eagle Ridge Ranch,Cottage Meeting,736.00,True,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,78,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-09-05,Majority 51,Majority 51,Campaign Materials,553.71,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,79,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-09-05,Integrity Matters,Integrity Matters,Campaign Work,387.30,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,80,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-09-15,Blake Roney,Blake Roney,Software,200.00,True,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,81,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-09-27,Majority 51,Majority 51,Campaign Consulting,4500.00,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,82,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-10-05,Mikell Field,Mikell Field,Campaign Advertisting,420.00,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,83,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-10-21,SL Mailing,SL Mailing,Voter outreach,4790.58,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,84,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-11-23,SL Mailing,SL Mailing,Voter outreach,2015.76,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,85,high,provo_form/text,0
+Gary Garrett,Council,Citywide II,2023,2023-12-18,,2023-11-29,Majority 51,Majority 51,Voter outreach,4225.23,False,False,raw/cf_2023_3793_Gary_Garrett.pdf,3793,86,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-01,Provo City Recorder,Provo City Recorder,Candidate filing fee,77.21,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,63,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-01,Google Domains,Google Domains,1 year domain registration for penroseforprovo.com,12.00,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,64,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-09,Squarespace,Squarespace,Monthly website hosting subscription,24.67,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,65,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-12,Ben Anderson,Ben Anderson,In kind graphic design,250.00,True,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,66,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-26,FedEx,FedEx,Flyer printing,45.03,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,67,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-06-26,Zazzle,Zazzle,Campaign buttons,13.89,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,68,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-07-10,Squarespace,Squarespace,Website hosting,24.67,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,69,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-07-10,Signs on the Cheap,Signs on the Cheap,Campaign sign printing and shipping,177.07,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,70,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-07-17,Build a Sign,Build a Sign,Campaign sign car magnets and shipping,50.09,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,71,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-07-17,Zazzle,Zazzle,Campaign buttons,29.39,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,72,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-07-17,Amazon,Amazon,Campaign sign stakes,29.98,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,73,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-08-09,FedEx,FedEx,Flyer printing,35.38,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,74,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-08-10,Squarespace,Squarespace,Website hosting,24.67,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,75,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-08-29,Joseph Penrose,Joseph Penrose,Loan repayment to candidate,200.00,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,76,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-09-05,Fat Daddy's Pizzaria,Fat Daddy's Pizzaria,Dinner for volunteers,79.02,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,77,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-09-08,Bank of America,Bank of America,Bank fees,16.00,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,78,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-09-10,Squarespace,Squarespace,Website hosting,24.67,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,79,high,provo_form/text,0
+Joseph Penrose,Council,Citywide II,2023,2023-10-03,,2023-10-02,Joseph Penrose,Joseph Penrose,Loan repayment to candidate,34.15,False,False,raw/cf_2023_3799_Joseph_Penrose.pdf,3799,80,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-06-02,Provo City Recorder,Provo City Recorder,Candidate Filing Fee,77.21,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,89,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-06-22,Doug and Ruth Eldredge,Doug and Ruth Eldredge,Graphic Design Work,500.00,True,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,90,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-06-24,"Trevor Christensen Studio, LLC","Trevor Christensen Studio, Llc",Video Production,3520.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,91,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-06-26,McNeil Printing,McNeil Printing,Printing,2981.55,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,92,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-06-28,Outcry Digital,Outcry Digital,Campaign Communications,1000.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,93,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-07-03,Outcry Digital,Outcry Digital,Campaign Communications,570.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,94,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-07-10,"Trevor Christensen Studio, LLC","Trevor Christensen Studio, Llc",Video Production,100.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,95,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-07-14,Digital Room,Digital Room,Printing,355.30,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,96,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-07-18,Outcry Digital,Outcry Digital,Campaign Communications,1000.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,97,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-08-03,Outcry Digital,Outcry Digital,Campaign Communications,1000.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,98,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-08-06,Mailchimp,Mailchimp,Email service,74.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,99,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-08-09,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,Printing and Postage,2842.07,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,100,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-09-29,McNeil Printing,McNeil Printing,Printing,2358.64,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,101,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-10-11,Digital Room,Digital Room,Printing,355.30,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,102,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-10-22,Digital Room,Digital Room,Printing,299.56,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,103,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-10-23,Outcry Digital,Outcry Digital,Campaign Communications,2500.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,104,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-10-24,Salt Lake Mailing & Printing,Salt Lake Mailing & Printing,Printing and Postage,4399.92,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,105,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-10-24,Provo High Cheer,Provo High Cheer,Materials Distribution,1000.00,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,106,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-11-11,Shannon Ellsworth,Shannon Ellsworth,Web & Data Service,346.00,True,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,107,high,provo_form/text,0
+McKay R Jensen,Council,Citywide II,2023,2023-12-18,,2023-11-15,Outcry Digital,Outcry Digital,Communications,156.45,False,False,raw/cf_2023_3800_McKay_R_Jensen.pdf,3800,108,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-06-07,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,90,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-06-09,Federal Express Store,Federal Express Store,Oﬃce Supplies,3.21,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,91,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-06-10,Wix,Wix,Webmail Account,7.66,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,92,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-06-12,UPS,Ups,Oﬃce Supplies,6.34,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,93,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-10,Paypal,Paypal,Processing Charges,2.43,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,94,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-11,Paypal,Paypal,Processing Charges,3.38,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,95,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-17,Cedar Publishing,Cedar Publishing,Pamphlets and oﬃce materials,321.67,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,96,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-25,Smiths,Smiths,Handout materials,12.34,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,97,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-27,Wix,Wix,Web and Media Costs,138.75,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,98,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-27,Home Depot,Home Depot,Materials for installing signs including fence stakes,439.48,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,99,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-07-31,Home Depot,Home Depot,Sign Materials,362.27,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,100,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-02,BRC Poli cal,Brc Poli cal,Campaign advice and assistance,1128.75,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,101,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-02,BIVIO Resources,Bivio Resources,Campaign signs handouts and door hangers,4841.14,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,102,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-02,L2,L2,Data System Costs,145.32,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,103,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-08,U prin ng,U prin ng,marke ng and informa on materials,126.33,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,104,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-08,Paypal,Paypal,Procesing charges,3.38,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,105,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-10,Marian Monnahan,Marian Monnahan,Refreshments for Co age Mee ng,20.00,True,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,106,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-10,Sharon Memmo,Sharon Memmo,Refreshments for Co age Mee ng,20.00,True,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,107,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-15,Wix,Wix,Web site hos ng charges,48.00,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,108,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-08-24,Bob and Robbie Drewes,Bob and Robbie Drewes,Refreshments for Co age Mee ng,90.00,True,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,109,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-09-07,Zurchers Party Supplies,Zurchers Party Supplies,Balloons,12.69,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,110,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-09-07,Rachel Jones,Rachel Jones,Co on Candy supplies and decora ons,78.00,True,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,111,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-09-07,Paypal,Paypal,Processing charges,22.77,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,112,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-09-23,Stephanie Jensen,Stephanie Jensen,Campaign and Media Assistance,239.75,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,113,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-10-23,Amazon,Amazon,small american ﬂags,73.99,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,114,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-10-24,Days Market,Days Market,refreshments for Poli cal forum,35.58,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,115,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-10-27,Provo High Cheer Team,Provo High Cheer Team,Delivering door hangers and campaign ﬂyers,600.00,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,116,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-11-04,Paypal,Paypal,Processing charges,10.14,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,117,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-11-06,Athena Jensen,Athena Jensen,Pu ng up campaign signs,37.50,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,119,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-11-07,Amazon,Amazon,small american ﬂags,90.97,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,120,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-12-12,Wix,Wix,Internet and hos ng services,22.98,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,121,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-12-14,BRC Poli cal,Brc Poli cal,general campaign helpemils tsts online adds social med,7073.90,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,122,high,provo_form/text,0
+Stan Jensen,Council,District 1,2023,2023-12-18,,2023-12-14,BIVIO Resources,Bivio Resources,Mailings mass correspondenc postage and handling and,11717.30,False,False,raw/cf_2023_3802_Stan_Jensen.pdf,3802,123,high,provo_form/text,0
+Tanner Bennett,Council,Citywide II,2023,2023-10-10,,2023-06-07,City of Provo,City of Provo,Registration,77.21,False,False,raw/cf_2023_3803_Tanner_Bennett.pdf,3803,51,high,provo_form/text,0
+Tanner Bennett,Council,Citywide II,2023,2023-10-10,,2023-06-07,Deseret First Credit Union,Deseret First Credit Union,Opening Campaign Finance Account,10.00,False,False,raw/cf_2023_3803_Tanner_Bennett.pdf,3803,52,high,provo_form/text,0
+Tanner Bennett,Council,Citywide II,2023,2023-10-10,,2023-07-09,Jared Sampson,Jared Sampson,Poster Print,0.50,True,False,raw/cf_2023_3803_Tanner_Bennett.pdf,3803,53,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-06-07,Provo City,Provo City,Filing Fee,77.21,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,54,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-06-24,GoDaddy,GoDaddy,Website,5.54,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,55,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-07-03,Sign Depot Yard Sign,Sign Depot Yard Sign,yard signs,209.14,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,56,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-07-03,ups,ups,flyers,166.69,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,57,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-08-26,UPs,UPs,vinyl sign,32.50,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,58,high,provo_form/text,0
+Wendy Ahlman,Council,Citywide II,2023,2023-10-10,,2023-10-05,,,,0.00,False,False,raw/cf_2023_3804_Wendy_Ahlman.pdf,3804,59,high,provo_form/text,0
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-04-01,Anedot,Anedot,transaction fees,139.40,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,191,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-04-01,Robert,Robert,Announcement film,350.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,192,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-04-01,Max Rogers,Max Rogers,Announcement Film,30.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,193,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-01,Anedot,Anedot,transaction fees,8.90,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,194,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-27,Staples,Staples,copies of maps,70.92,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,195,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-27,Home Depot,Home Depot,supplies for signs,39.46,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,196,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-29,Provo City,Provo City,park reservation for kickoff party,87.51,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,197,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-30,A Dezign,A Dezign,Volunteer Tshirts,1243.78,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,198,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-05-31,Mailchimp,Mailchimp,email service,141.83,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,199,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-01,Anedot,Anedot,Transaction fees,142.20,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,200,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-02,Provo City,Provo City,Filing Fee,154.43,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,201,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-03,Right Hook Strategies,Right Hook Strategies,"Retainer/fee, signs and designs",5800.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,202,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-04,Vottiv,Vottiv,Walking App,907.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,203,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-06,Sun Print Solutions,Sun Print Solutions,Business Cards,137.55,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,204,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-09,Utah County Republican Party,Utah County Republican Party,endorsement fee,50.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,205,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-12,Lindley Richards,Lindley Richards,kickoff supplies,6.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,206,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-12,Little Ceasar's Pizza,Little Ceasar's Pizza,kickoff food,235.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,207,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-19,Amazon,Amazon,handouts for parade,193.30,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,208,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-25,Sam's Club,Sam's Club,treats for candidate meetings,42.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,209,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-26,USPS,Usps,stamps,26.28,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,210,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-26,Macey's,Macey's,cookies for cottage meeting,18.27,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,211,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-06-27,Walmart,Walmart,Post it notes for canvassing,8.52,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,212,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-01,Anedot,Anedot,transaction fees,329.50,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,213,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-01,Shantel Bjornn,Shantel Bjornn,supplies,110.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,214,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-01,Mailchimp,Mailchimp,email service,85.96,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,215,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-05,Barnes and Noble,Barnes and Noble,thank you cards,10.73,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,216,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-08,USPS,Usps,stamps,87.60,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,217,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-14,McGee Stamp and Trophy,McGee Stamp and Trophy,stamps,66.73,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,218,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-24,Right Hook Strategies,Right Hook Strategies,,12137.13,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,221,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-30,America First Credit Union,America First Credit Union,bank transaction fee,15.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,222,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Mailchimp,Mailchimp,email service,257.88,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,223,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-08-01,Anedot,Anedot,transaction fees,127.90,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,224,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-08-02,Cedar Valley Honey,Cedar Valley Honey,Thank you Gifts (honey),37.47,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,225,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-08-02,Nileth Reimen,Nileth Reimen,Thank you gifts (wax),53.72,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,226,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-08-06,Utah County Clerk Elections Office,Utah County Clerk Elections Office,Voted List,18.95,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,227,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-08-16,Provo High School,Provo High School,Banner,1000.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,228,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-09-01,Anedot,Anedot,Transaction fees,105.60,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,229,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-09-11,Harbor Freight,Harbor Freight,Zipties,4.76,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,230,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-09-16,"Green Group Enterprises, LLC","Green Group Enterprises, Llc",Consulting and bank transfer fee,2515.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,231,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-09-18,Uprinting,Uprinting,stickers,128.93,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,232,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-01,Mailchimp,Mailchimp,email service,235.32,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,233,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-01,Anedot,Anedot,Transaction fees,38.10,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,234,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-06,Print Mark,Print Mark,postcards,498.04,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,235,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-07,Smith's,Smith's,refreshments for cottage meeting,22.09,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,236,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-10,Print Mark,Print Mark,flyers,1992.12,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,237,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-16,Macey's,Macey's,refreshments for cottage meeting,16.46,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,238,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Dollar Tree,Dollar Tree,Student event supplies,24.44,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,239,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Walmart,Walmart,Student event supplies,23.67,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,240,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Macey's,Macey's,student event supplies,105.82,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,241,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Sam's Club,Sam's Club,student event supplies,30.15,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,242,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Throw Art Studio,Throw Art Studio,student event prize,40.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,243,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Los Hermanos,Los Hermanos,student event prize,50.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,244,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,The Soap Factory,The Soap Factory,student event prize,34.38,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,245,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Sam Blackburn,Sam Blackburn,student event prize,40.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,246,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-17,Rachel Whipple,Rachel Whipple,student event prize,25.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,247,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-22,America First Credit Union,America First Credit Union,fees and charges,3.95,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,248,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-22,Utah County Elections,Utah County Elections,Has-voted list,15.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,249,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-24,Broadway Outdoor Media,Broadway Outdoor Media,billboards,4000.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,250,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-24,Print Mark,Print Mark,flyers,501.26,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,251,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-25,Fillmore Spencer Law,Fillmore Spencer Law,reinbursement for pipe repair from sign,251.03,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,252,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-25,Anedot,Anedot,Transaction fees,103.30,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,253,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-25,Right Hook Strategies,Right Hook Strategies,"consulting, ads, texting, and mailers",13377.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,254,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-28,JBFRAMEZ,Jbframez,video,500.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,255,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-30,Mailchimp,Mailchimp,email service,235.32,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,257,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-10-30,Julie Rose,Julie Rose,Art Commission by Kayla Pagnani,500.00,True,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,258,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-11-09,"Green Group Enterprises, LLC","Green Group Enterprises, Llc",consulting,1500.00,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,259,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-11-21,Right Hook Strategies,Right Hook Strategies,"consulting, ads, texting",12170.34,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,260,low,provo_form/text,1
+Marsha Judkins,Mayor,Mayor,2025,2025-12-04,,2025-11-27,Anedot,Anedot,transaction fees,48.90,False,False,raw/cf_2025_5990_Marsha_Judkins.pdf,5990,261,low,provo_form/text,1
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-02-12,Provo City,Provo City,Facility Rental,625.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,111,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-04-12,Speak by Design,Speak by Design,Shirts,1589.70,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,112,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-05-15,Qualtrics,Qualtrics,Software,1439.92,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,113,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-05-24,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,114,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-01,Renaissance Signs,Renaissance Signs,Printed materials,333.41,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,115,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-01,Majority 51,Majority 51,Advertising,7374.15,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,116,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-02,Provo City,Provo City,Filing Fee,150.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,117,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-03,Utah County Republican Party,Utah County Republican Party,donation,50.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,118,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-06,Reno Print Services,Reno Print Services,Doorhangers,745.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,119,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-07,Anedot,Anedot,Processing Fee,8.65,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,120,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-09,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,121,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-11,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,122,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-13,Anedot,Anedot,Processing Fee,40.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,123,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-15,Digital Print Solutions,Digital Print Solutions,Printed materials,310.52,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,124,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-19,Anedot,Anedot,Processing Fee,2.40,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,125,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-23,Anedot,Anedot,Processing Fee,2.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,126,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-25,Anedot,Anedot,Processing Fee,10.73,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,127,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-27,Anedot,Anedot,Processing Fee,10.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,128,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-06-30,Evans Company,Evans Company,Billboards,1200.00,True,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,129,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-03,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,130,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-07,Jon Neves,Jon Neves,Stamps,131.40,True,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,131,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-09,Anedot,Anedot,Processing Fee,20.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,132,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-18,Anedot,Anedot,Processing Fee,10.73,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,133,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-28,Utah Republican Party,Utah Republican Party,Postage,1328.54,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,134,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Anedot,Anedot,Processing Fee,40.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,135,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Majority 51,Majority 51,Advertising,4000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,136,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Majority 51,Majority 51,Print and Postage Expenses,6658.35,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,137,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Vottiv,Vottiv,Software/Texts,1350.60,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,138,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-07-31,Mountain America Credit Union,Mountain America Credit Union,Wire Fee,10.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,140,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-02,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,141,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-05,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,142,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-13,Anedot,Anedot,Processing Fee,200.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,143,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-13,Anedot,Anedot,Processing Fee,200.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,144,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-16,Anedot,Anedot,Processing Fee,1000.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,145,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-22,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,146,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-22,Anedot,Anedot,Processing Fee,80.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,147,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-08-28,Anedot,Anedot,Processing Fee,400.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,148,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-02,Reno Print Services,Reno Print Services,Printed materials,1542.74,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,149,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-07,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,150,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-16,Anedot,Anedot,Processing Fee,10.73,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,151,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-22,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,152,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-22,Vottiv,Vottiv,Software/Texts,500.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,153,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-23,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,154,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,155,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Anedot,Anedot,Processing Fee,80.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,156,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Majority 51,Majority 51,Campaign expenses,1500.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,157,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Majority 51,Majority 51,Campaign expenses,1000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,158,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Majority 51,Majority 51,Canvassers,10000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,159,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-24,Jonas Wright,Jonas Wright,Video work,1800.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,160,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-27,Renaissance Signs,Renaissance Signs,Signs,1472.56,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,161,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-30,Anedot,Anedot,Processing Fee,20.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,162,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-09-30,Evans Company,Evans Company,Billboards,3600.00,True,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,163,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-02,Anedot,Anedot,Processing Fee,100.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,164,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-02,Facebook,Facebook,Advertising,1000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,165,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-09,Anedot,Anedot,Transaction Fee,83.65,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,166,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-14,Majority 51,Majority 51,Voter outreach,21072.84,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,167,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-15,Anedot,Anedot,Transaction Fee,41.98,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,168,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-15,Majority Strategies,Majority Strategies,Advertising,13025.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,169,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-20,Vottiv,Vottiv,Software/Texts,2000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,170,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-23,Anedot,Anedot,Transaction Fee,20.30,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,171,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-23,Sun Print,Sun Print,Advertising,32000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,172,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-24,Facebook,Facebook,Advertising,1500.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,173,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-10-27,Evans Company,Evans Company,Billboards,3600.00,True,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,174,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-03,Slybroadcasting,Slybroadcasting,Voter outreach,908.69,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,176,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Anedot,Anedot,Transaction Fee,16.27,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,177,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Buzz360,Buzz360,Advertising,2300.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,178,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,BlipBillboards,BlipBillboards,Advertising,1500.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,179,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Facebook,Facebook,Advertising,5008.61,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,180,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Renaissance Signs,Renaissance Signs,Advertising,2675.25,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,181,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Majority 51,Majority 51,Voter outreach,5000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,182,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-04,Majority 51,Majority 51,Campaign expenses,9000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,183,high,provo_form/text,0
+Michelle Kaufusi,Mayor,Mayor,2025,2025-12-04,,2025-11-05,Majority 51,Majority 51,"Campaign expenses, storage fees",5000.00,False,False,raw/cf_2025_5991_Michelle_Kaufusi.pdf,5991,184,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-06-06,Provo City,Provo City,Candidate Filing Fee,154.43,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,52,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-06-10,Squarespace.com,Squarespace.com,Website Creation Fee,24.17,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,53,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-06-10,Squarespace.com,Squarespace.com,Domain Purchase Fee,9.67,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,54,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-06-20,Goodparty LLC,Goodparty Llc,Campaign Yard Signs,10.00,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,55,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-07-11,Squarespace.com,Squarespace.com,Website Maintenance Fee,26.86,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,56,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-07-13,BYU Cougar Creations,Byu Cougar Creations,Printed Flyers,12.89,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,57,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-07-22,BYU Cougar Creations,Byu Cougar Creations,Printed Flyers,13.97,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,58,high,provo_form/text,0
+Thatcher Alain Longman,Mayor,Mayor,2025,2025-09-10,,2025-09-10,Thatcher A. Longman,Thatcher A. Longman,Return,3.39,False,False,raw/cf_2025_5989_Thatcher_Alain_Longman.pdf,5989,59,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-03-02,Namecheap,Namecheap,Domain name,6.67,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,94,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-10,Fedex,Fedex,Print materials,18.79,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,95,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-18,Provo City,Provo City,Park reservation,123.54,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,96,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-22,Post Mart,Post Mart,Mailbox rental,104.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,97,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-24,Blue Wave Printing,Blue Wave Printing,Banners,629.81,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,98,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-29,AGE Graphics,Age Graphics,Yard signs,345.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,99,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-04-30,Home Depot,Home Depot,Sign materials,251.38,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,100,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-01,Amazon,Amazon,Sign materials,27.93,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,101,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-01,Amazon,Amazon,Sign materials,106.35,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,102,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-02,Harbor Freight,Harbor Freight,Sign materials,17.14,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,103,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-03,Amazon,Amazon,Sign materials,50.50,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,104,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-10,Fedex,Fedex,Print materials,18.79,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,105,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-05-22,Fedex,Fedex,Print materials,33.58,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,106,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-02,Provo City,Provo City,Filing fee,77.21,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,107,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-09,Home Depot,Home Depot,Sign materials,24.11,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,108,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-12,Utah County Republican Party,Utah County Republican Party,Filing fee,50.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,109,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-16,Home Depot,Home Depot,Sign materials,39.57,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,110,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-24,Zachary Green,Zachary Green,Campaign strategy,2000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,111,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-25,Fedex,Fedex,Print materials,82.24,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,112,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-25,Smiths,Smiths,Refreshments,25.77,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,113,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-26,Utah County,Utah County,Voter data fee,103.95,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,114,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-26,Smiths,Smiths,Refreshments,8.22,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,115,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-06-27,AGE Graphics,Age Graphics,Yard signs,345.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,116,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-01,Votivv,Votivv,Service fee,907.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,117,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-01,Stripe,Stripe,Transaction fees,5.26,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,118,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-03,Mailchimp,Mailchimp,Service fee,21.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,119,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-05,Amazon,Amazon,Print materials,7.17,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,120,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-05,Amazon,Amazon,Print materials,19.18,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,121,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-08,Days Market,Days Market,Refreshments,17.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,123,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-14,Fedex,Fedex,Print materials,41.91,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,124,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-14,Lowe's,Lowe's,Sign materials,44.88,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,125,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-18,Printology,Printology,Print materials,85.42,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,126,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-19,Zachary Green,Zachary Green,Campaign strategy,1000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,127,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-22,PrintRunner,PrintRunner,Mailers,3505.47,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,128,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-25,Printology,Printology,Print materials,124.64,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,129,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-29,Zachary Green,Zachary Green,Campaign strategy,1000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,130,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-07-31,Stripe,Stripe,Transaction fees,40.05,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,131,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-03,Mailchimp,Mailchimp,Service fee,21.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,132,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-14,AGE Graphics,Age Graphics,Yard signs,345.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,133,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-25,Utah County,Utah County,Voter data fee,103.95,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,134,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-26,Printology,Printology,Flyers,95.09,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,135,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-26,Vottiv,Vottiv,Data export,2.87,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,136,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-27,UpVote,UpVote,Service fee,1600.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,137,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-27,Abby Evans,Abby Evans,Canvassing app,350.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,138,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-27,Wells Fargo,Wells Fargo,Wire fee,25.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,139,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-08-28,Zachary Green,Zachary Green,Campaign strategy,2000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,140,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-03,Mailchimp,Mailchimp,Service fee,21.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,141,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-05,Smiths,Smiths,Gift cards,100.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,142,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-05,Hruska's Kolaches,Hruska's Kolaches,Volunteer breakfast,146.78,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,143,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-08,Stripe,Stripe,Transaction fees,44.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,144,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-11,Green Group Enterprises,Green Group Enterprises,Canvassing,2000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,145,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-11,Wells Fargo,Wells Fargo,Wire fee,25.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,146,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-29,Green Group Enterprises,Green Group Enterprises,Canvassing,3090.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,147,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-29,Wells Fargo,Wells Fargo,Wire fee,25.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,148,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-09-29,Zachary Green,Zachary Green,Campaign strategy,2000.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,149,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-10-03,Mailchimp,Mailchimp,Service fee,21.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,150,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-11-03,Mailchimp,Mailchimp,Service fee,21.49,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,151,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-11-03,BYU Cougar Creations,Byu Cougar Creations,Printing,121.15,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,152,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-11-12,Zachary Green,Zachary Green,Campaign strategy,500.00,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,153,high,provo_form/text,0
+Adam Shin,Council,Citywide I,2025,2025-12-03,,2025-11-28,Adam Shin,Adam Shin,Campaign loan repayment,385.69,False,False,raw/cf_2025_6000_Adam_Shin.pdf,6000,154,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-02,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,104,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-09,The Home Depot,The Home Depot,Sign Stakes,89.11,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,105,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-09,Majority 51,Majority 51,Signs and stakes,2332.76,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,106,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-12,Majority 51,Majority 51,Printing,465.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,107,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-20,Mailchimp,Mailchimp,Email Advertising,48.35,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,108,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-24,Dollar Tree,Dollar Tree,Meet and Greet Event Supplies,27.63,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,109,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-25,CVS,Cvs,Printing for Meet the Candidate Event,26.19,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,110,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-06-28,The Home Depot,The Home Depot,Sign Supplies,72.99,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,111,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-07-12,Busy-Arts/ Jessi Ferrin,Busy-Arts/ Jessi Ferrin,Social Media,150.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,112,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-07-14,Reams,Reams,Meet and Greet Event Supplies,23.45,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,113,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-07-15,Majority 51,Majority 51,Printing,1518.09,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,114,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-02,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,115,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-11,Anedot,Anedot,Processing Fee,8.70,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,116,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-12,Anedot,Anedot,Processing Fee,10.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,117,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-13,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,118,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-16,Anedot,Anedot,Processing Fee,2.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,119,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-18,Provo City,Provo City,Pavillion Reservation,57.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,120,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-18,Provo City,Provo City,Pavillion Reservation,123.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,121,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-08-20,Mail Chimp,Mail Chimp,Marketing,48.35,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,122,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-03,Reno Print Services,Reno Print Services,Printed Materials,434.56,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,123,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-03,Home Depot,Home Depot,Sign Stake,88.71,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,124,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-07,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,125,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-11,Cougar Creations,Cougar Creations,Printing,56.41,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,126,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-11,Amazon,Amazon,Event Supplies,80.96,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,127,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-13,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,128,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-14,Riker Chance,Riker Chance,Videos,1692.35,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,129,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-15,Beck Family Farms,Beck Family Farms,Neighborhood Event Supplies,320.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,130,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-16,Anedot,Anedot,Processing Fee,8.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,131,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-18,Anedot,Anedot,Processing Fee,1.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,133,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-18,Anedot,Anedot,Processing Fee,2.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,134,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-20,Mail Chimp,Mail Chimp,Marketing,48.35,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,135,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-25,Anedot,Anedot,Processing Fee,20.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,136,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-29,Anedot,Anedot,Processing Fee,100.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,137,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-09-30,Anedot,Anedot,Processing Fee,2.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,138,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-01,Amazon,Amazon,Event Supplies,118.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,139,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-03,Anedot,Anedot,Processing Fee,2.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,140,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-03,Cougar Creations,Cougar Creations,Printing,31.16,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,141,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-03,Beck Family Farms,Beck Family Farms,Neighborhood Event Supplies,350.00,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,142,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-07,Anedot,Anedot,Processing Fee,40.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,143,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-07,Target,Target,Event Supplies,56.62,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,144,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-10,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,145,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-13,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,146,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-14,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,147,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-14,Salt Lake Mailing,Salt Lake Mailing,Printing,1925.04,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,148,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-20,Mail Chimp,Mail Chimp,Marketing,48.35,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,149,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-21,Cougar Creations,Cougar Creations,Printing,22.83,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,150,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-24,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,151,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-10-26,Anedot,Anedot,Processing Fee,6.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,152,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-11-01,Majority 51,Majority 51,Marketing,1265.56,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,153,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-11-10,Pioneer Printing,Pioneer Printing,Marketing,5874.40,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,154,high,provo_form/text,0
+Hannah Petersen,Council,District 2,2025,2025-12-04,,2025-11-10,Majority 51,Majority 51,Campaign Expenses,4299.30,False,False,raw/cf_2025_6002_Hannah_Petersen.pdf,6002,155,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-01,Google,Google,Email,5.68,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,113,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-09,Provo Parks & Recreation,Provo Parks & Recreation,Pavilion Reservation for Easter Egg Hunt,56.62,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,114,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-12,Cougar Creations,Cougar Creations,Easter Egg Hunt Community Event,42.44,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,115,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-12,Walmart,Walmart,Easter Egg Hunt Community Event,149.19,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,116,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-14,Framer B.V.,Framer B.V,Website hosting,45.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,117,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-14,Framer B.V.,Framer B.V,Website hosting,19.84,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,118,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-14,Amazon,Amazon,Easter Egg Hunt Community Event,8.59,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,119,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-15,Amazon,Amazon,Easter Egg Hunt Community Event,17.18,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,120,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-15,Amazon,Amazon,Easter Egg Hunt Community Event,17.18,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,121,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-18,Costco,Costco,Easter Egg Hunt Community Event,97.98,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,122,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-19,Costco,Costco,Easter Egg Hunt Community Event,107.91,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,123,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-19,Target,Target,Easter Egg Hunt Community Event,306.97,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,124,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-04-23,Uchechi Ibeafu - Freelancer,Uchechi Ibeafu - Freelancer,Website development,750.80,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,125,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,126,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-14,Framer B.V.,Framer B.V,Website hosting,65.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,127,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-16,Renaissance Signs,Renaissance Signs,Yard Signs,1699.80,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,128,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-20,Sun Print Solutions,Sun Print Solutions,Flyers,195.80,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,129,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-20,Sun Print Solutions,Sun Print Solutions,Door Hangers,252.97,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,130,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-05-28,Macy's,Macy's,Cottage Meeting,31.35,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,131,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,132,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-02,Provo City,Provo City,Filing Fee,77.21,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,133,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-04,Walmart,Walmart,Cottage Meeting,31.51,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,134,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-05,Walmart,Walmart,Cottage Meeting,85.91,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,135,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-06,Election Hive,Election Hive,Campaign management fees,1000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,136,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-06,L2 Data Mapping,L2 Data Mapping,Voter File List,100.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,137,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-06,Election Hive,Election Hive,Video and Photoshoot,1200.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,138,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-06,L2 Data Mapping,L2 Data Mapping,Email Purchase,450.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,139,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-11,Sam's Club,Sam's Club,Cottage Meeting,57.81,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,140,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-12,Sam's Club,Sam's Club,Cottage Meeting,37.22,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,141,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-14,Framer B.V.,Framer B.V,Website hosting,65.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,142,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-30,Pens.com,Pens.com,Pens - Campaign swag,249.70,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,143,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-06-30,4AllPromos,4AllPromos,"6"" Mini Discus Flyer - Campaign swag",383.04,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,144,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,146,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-03,Renaissance Signs,Renaissance Signs,4x4 Political Signs,427.59,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,147,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-07,Election Hive,Election Hive,Campaign management fees,1000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,148,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-08,Renaissance Signs,Renaissance Signs,Swag,220.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,149,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-14,Framer B.V.,Framer B.V,Website Hosting,96.71,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,150,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-16,Sam's Club,Sam's Club,Cottage Meeting,38.35,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,151,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-16,Provo Parks & Recreation,Provo Parks & Recreation,Pavilion Reservation for Pioneer Day Event,65.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,152,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-21,Text By Choice,Text By Choice,Text Messaging,220.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,153,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-21,Renaissance Signs,Renaissance Signs,Signs,893.07,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,154,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-24,Franz Bakery,Franz Bakery,Pioneer Day Friends & Volunteers Event,12.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,155,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-24,Sam's Club,Sam's Club,Pioneer Day Event,128.23,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,156,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-26,BYU Unlimited,Byu Unlimited,Cornhole for Pioneer Day Event,21.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,157,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-26,Hungry Hawaiian,Hungry Hawaiian,Pioneer Day Friends & Volunteers Event,1000.00,True,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,158,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-28,Text By Choice,Text By Choice,Text Messaging,220.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,159,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-30,Chinatown Restaurant,Chinatown Restaurant,Food for campaign volunteers - campaign working sessio,100.94,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,160,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-07-31,Stripe,Stripe,Payment processing (aggregated across period),74.93,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,161,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-02,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,162,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-04,NextDayFlyers,NextDayFlyers,Door Hangers,393.48,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,163,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-04,Utah County Clerk,Utah County Clerk,Data,18.15,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,164,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-04,Renaissance Signs,Renaissance Signs,Signs,804.95,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,165,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-11,Text By Choice,Text By Choice,Text Messaging,330.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,166,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-14,Text By Choice,Text By Choice,Text Messaging,13.20,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,167,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-14,Election Hive,Election Hive,August 2025 Consulting,1000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,168,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-14,Election Hive,Election Hive,Advertising,597.14,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,169,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-14,Election Hive,Election Hive,Consulting,1000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,170,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-14,Framer B.V.,Framer B.V,Website Hosting,96.71,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,171,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-08-18,NextDayFlyers,NextDayFlyers,Door Hangers,276.25,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,172,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,173,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-06,Chinatown Restaurant,Chinatown Restaurant,Volunteer Food,52.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,174,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-10,Text By Choice,Text By Choice,Monthly Subscription for Text messaging service,13.20,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,175,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-11,Renaissance Signs,Renaissance Signs,Signs,181.86,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,176,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-14,Text By Choice,Text By Choice,Text messaging,12.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,177,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-14,Framer B.V.,Framer B.V,Website Hosting,96.71,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,178,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-20,Green Group Enterprises LLC.,Green Group Enterprises Llc,Voter outreach,2664.40,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,179,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-25,NextDayFlyers,NextDayFlyers,Door Hangers,324.49,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,180,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-09-29,Uchechi Ibeafu - Freelancer,Uchechi Ibeafu - Freelancer,Website development,250.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,181,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-01,Election Hive,Election Hive,Consulting,1000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,182,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-01,Stripe,Stripe,Payment processing (aggregated across period),34.09,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,183,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,184,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-03,Daniel Izebhor,Daniel Izebhor,Website development,265.83,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,186,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-10,Sun Print Solutions,Sun Print Solutions,Campaign Advertising,2408.60,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,187,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-13,The Political Group LLC,The Political Group Llc,Voter Outreach,2863.33,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,188,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-15,Framer B.V.,Framer B.V,Website Hosting,96.71,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,189,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-17,Sun Print Solutions,Sun Print Solutions,Campaign Advertising,2530.36,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,190,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-20,Utah County Clerk,Utah County Clerk,Data,16.50,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,191,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-21,Segun Smute,Segun Smute,Design,150.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,192,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-22,Stripe,Stripe,Payment processing (aggregated across period),11.20,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,193,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-22,Deseret News,Deseret News,Campaign Advertising,1030.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,194,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-24,Stripe,Stripe,Remaining payment processing fees,14.80,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,195,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-10-31,Framer B.V.,Framer B.V,Website Hosting,36.35,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,196,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,197,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-01,Textbychoice,Textbychoice,Text Messaging,1383.40,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,198,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-01,Election Hive,Election Hive,Consulting,4000.00,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,199,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-05,Meta Advertising,Meta Advertising,Meta Ad Receipts for 10/2-11/5,1764.31,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,200,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-08,Green Group Enterprises LLC.,Green Group Enterprises Llc,Voter outreach,1000.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,201,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-08,"Wise, Inc.",Inc Wise,Payment processing (aggregated),19.10,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,202,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-11-13,Framer B.V.,Framer B.V,Website Hosting,128.94,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,203,high,provo_form/text,0
+Jeff Whitlock,Council,District 2,2025,2025-12-04,,2025-12-01,Google,Google,Email,28.37,False,False,raw/cf_2025_6001_Jeff_Whitlock.pdf,6001,204,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-02,Provo City,Provo City,Filing Fee,75.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,95,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-03,Utah County Republican Party,Utah County Republican Party,donation,50.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,96,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-15,Tyler Carlson,Tyler Carlson,Campaign work,100.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,97,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-16,Anedot,Anedot,Processing Fee,41.98,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,98,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-16,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,99,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-16,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,100,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-18,Anedot,Anedot,Processing Fee,0.94,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,101,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-18,Anedot,Anedot,Processing Fee,4.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,102,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-22,Anedot,Anedot,Processing Fee,8.65,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,103,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-24,Anedot,Anedot,Processing Fee,10.73,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,104,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-26,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,105,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-27,Anedot,Anedot,Processing Fee,125.31,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,106,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-06-28,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,107,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-03,Anedot,Anedot,Processing Fee,21.15,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,108,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-04,Anedot,Anedot,Processing Fee,10.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,109,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-08,Anedot,Anedot,Processing Fee,10.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,110,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-11,Anedot,Anedot,Processing Fee,41.98,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,111,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-12,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,112,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-12,Anedot,Anedot,Processing Fee,4.48,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,113,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-15,Majority 51,Majority 51,Facebook ads,125.84,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,114,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-15,Majority 51,Majority 51,Mailer,4626.49,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,115,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-15,Majority 51,Majority 51,Doorhangers,745.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,116,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-15,Majority 51,Majority 51,"Campaign management, data, software",2274.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,117,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-17,MailChimp,MailChimp,Software,96.70,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,118,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-19,Anedot,Anedot,Processing Fee,10.30,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,119,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-30,Anedot,Anedot,Processing Fee,0.73,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,120,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-30,Anedot,Anedot,Processing Fee,0.73,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,121,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-07-30,Anedot,Anedot,Processing Fee,12.81,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,122,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-08-17,MailChimp,MailChimp,Software,234.56,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,124,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-08,Crumble Cookies,Crumble Cookies,Cookies,1690.70,True,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,125,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-08,Dave's Hot Chicken,Dave's Hot Chicken,Food,400.00,True,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,126,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-08,53 Catering,53 Catering,Food,1000.00,True,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,127,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-13,Salt Lake Mailing,Salt Lake Mailing,Printing,2644.84,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,128,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-13,Utah Republican Party,Utah Republican Party,Donation,2380.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,129,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-19,Ramya Raj,Ramya Raj,Social media work,685.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,130,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-23,Facebook,Facebook,Advertising,500.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,131,high,provo_form/text,0
+Katrice MacKay,Council,Citywide I,2025,2025-12-04,,2025-10-31,Slybroadcasting,Slybroadcasting,Voter Outreach,425.00,False,False,raw/cf_2025_5999_Katrice_MacKay.pdf,5999,132,high,provo_form/text,0
+Sally Clayton,Council,District 2,2025,2025-09-11,,2025-06-16,Ionos,Ionos,Website,2.08,False,False,raw/cf_2025_5997_Sally_Clayton.pdf,5997,50,high,provo_form/text,0
+Sally Clayton,Council,District 2,2025,2025-09-11,,2025-07-16,Chip Cookies,Chip Cookies,Snacks for meet the candidate night,81.48,False,False,raw/cf_2025_5997_Sally_Clayton.pdf,5997,51,high,provo_form/text,0
+Sally Clayton,Council,District 2,2025,2025-09-11,,2025-07-16,Ionos,Ionos,Website,65.55,False,False,raw/cf_2025_5997_Sally_Clayton.pdf,5997,52,high,provo_form/text,0
+Sally Clayton,Council,District 2,2025,2025-09-11,,2025-07-24,Ionos,Ionos,Website reversal of incorrect charges,-39.85,False,False,raw/cf_2025_5997_Sally_Clayton.pdf,5997,53,high,provo_form/text,0
+Sally Clayton,Council,District 2,2025,2025-09-11,,2025-07-27,Ionos,Ionos,Website,10.63,False,False,raw/cf_2025_5997_Sally_Clayton.pdf,5997,54,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-06-06,City of Provo,City of Provo,Candidate Registration Fee,77.21,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,64,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-06-26,Cloudflare,Cloudflare,Domain Name Registration,10.44,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,65,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-07-09,BYU,Byu,Use of Public Printers,41.20,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,66,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-07-21,QRCodeGenerator.com,QRCodeGenerator.com,QR Code Registration,19.99,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,67,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-08-02,Google,Google,Custom Google Domain and Email Service,9.33,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,68,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-08-06,BYU,Byu,Use of Public Printers,20.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,69,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-08-11,BYU,Byu,Use of Public Printers,5.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,70,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-08-15,BYU,Byu,Use of Public Printers,6.08,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,71,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-01,Google,Google,Custom Google Domain and Email Service,9.03,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,72,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-10,BYU,Byu,Use of Public Printers,15.45,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,73,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-21,QRCodeGenerator.com,QRCodeGenerator.com,QR Code Registration,19.99,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,74,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-22,BYU,Byu,Use of Public Printers,20.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,75,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-24,BYU,Byu,Use of Public Printers,62.50,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,76,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-29,Target,Target,Campaign Materials (Posterboard and Packing Tape),10.08,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,77,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-30,Signs on the Cheap,Signs on the Cheap,Custom Yard Signs,359.96,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,78,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-09-30,Amazon.com,Amazon.com,Yard Sign Stakes,105.29,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,79,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-01,Google,Google,Custom Google Domain and Email Service,9.03,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,80,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-02,BYU,Byu,Use of Public Printers,9.90,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,81,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-08,BYU,Byu,Use of Public Printers,20.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,82,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-16,BYU,Byu,Use of Public Printers,10.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,83,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-20,Nico's Pizza,Nico's Pizza,Gift Card (for Campaign Event),40.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,84,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-20,BYU,Byu,Use of Public Printers,30.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,85,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-20,BYU,Byu,Use of Public Printers,35.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,86,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-21,BYU,Byu,Use of Public Printers,5.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,87,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-21,QR Code Generator,QR Code Generator,QR Code Registration,19.99,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,88,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-23,BYU,Byu,Use of Public Printers,5.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,89,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-27,BYU,Byu,Use of Public Printers,17.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,90,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-27,BYU,Byu,Use of Public Printers,10.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,91,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-28,BYU,Byu,Use of Public Printers,50.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,93,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-30,BYU,Byu,Use of Public Printers,29.90,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,94,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-10-31,BYU,Byu,Use of Public Printers,30.00,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,95,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-11-28,Target,Target,Tape and Materials,8.79,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,96,high,provo_form/text,0
+Sam Blackburn,Council,District 5,2025,2025-12-04,,2025-12-01,Target,Target,Thank You Notes,10.73,False,False,raw/cf_2025_5995_Sam_Blackburn.pdf,5995,97,high,provo_form/text,0
+Tim Jafek,Council,District 5,2025,2025-08-05,,2025-06-06,Provo City Government,Provo City Government,Payment for candidate,75.00,False,False,raw/cf_2025_5993_Tim_Jafek.pdf,5993,49,high,provo_form/text,0
+Tim Jafek,Council,District 5,2025,2025-08-05,,2025-08-05,Tim Jafek,Tim Jafek,Repayment of candidate loan,100.00,False,False,raw/cf_2025_5993_Tim_Jafek.pdf,5993,50,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-06-02,Provo City,Provo City,Candidate Filing Fee,77.21,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,30,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-06-25,Pro-Sign,Pro-Sign,100 Yard Signs,504.44,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,31,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-07-08,Amazon,Amazon,Sign Stands,104.10,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,32,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-07-10,Fed-Ex,Fed-Ex,Flyers,46.74,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,33,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-07-18,Fast Signs,Fast Signs,Metal Signs,180.00,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,34,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-07-30,Fed-Ex,Fed-Ex,Flyers,55.08,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,35,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-08-02,Home Depot,Home Depot,Standing Sign,51.51,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,36,high,provo_form/text,0
+Tom Fifita Sitake Sr,Council,Citywide I,2025,2025-08-06,,2025-08-06,Sam's Club,Sam's Club,Community Meeting Refreshments,107.03,False,False,raw/cf_2025_5998_Tom_Fifita_Sitake_Sr.pdf,5998,37,high,provo_form/text,0

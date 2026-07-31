@@ -1,0 +1,122 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=535&doc_id=ba004b16-b4e9-11ec-a5da-0050569183fa
+> Meeting date: 2022-01-27
+> Format: text
+
+Approved minutes 01/27/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, JANUARY 27, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Chairperson Andrew Adams, Vice Chairperson Craig Hawker,
+                     Commissioners DeLaina Tonks, Tab Bingham, Mary Squire and Lisa
+                     Fowler
+
+
+ABSENT:              Commissioner Gary Ogden and John Van Hoff, Alternate Commissioner
+                     Susan Nixon
+
+
+STAFF PRESENT:       Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                     Amie Salazar and Todd Draper
+
+
+6:30 PM Business Meeting:
+
+
+   1.     Action Item: Approve Planning Commission Meeting Minutes for November 18,
+          2021 (Administrative Action)
+
+Motion: Commissioner Mary Squire motioned to approve the minutes for the November 18,
+2021 Planning Commission Meeting.
+
+Second: Commissioner Lisa Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Fowler, Bingham, Hawker, Squire and Tonks voted, “Aye”.
+
+   2.     Action Item: Approve Planning Commission Meeting Minutes for December 9,
+          2021 (Administrative Action)
+
+Motion: Commissioner DeLaina Tonks motioned to approve the minutes for the December
+9, 2021 Planning Commission Meeting.
+
+Second: Commissioner Tab Bingham.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Fowler, Hawker, Squire and Tonks voted, “Aye”.
+
+   3.     Public Hearing: MD Aesthetics Home Occupation Conditional Use Permit
+          (Administrative Action)
+
+On the request of Debi Babinski representing MD Aesthetics LLC, a request for a Home
+Occupation Conditional Use Permit to operate a personal care service for a home based business,
+Draper City Planning Commission Meeting
+January 27, 2022
+Page 2
+11815 S Cottage View Ln., known as application USE-0180-2021, Staff Contact: Todd A. Draper
+(801) 576-6335, todd.draper@draperutah.gov
+
+This item has been continued to the February 10th meeting.
+
+       4.      Public Hearing: Dancer in the Desert Designs Home Occupational Use Permit
+               (Administrative Item)
+
+On the request of Stephanie B. Jackson, representing Dancer in the Desert Designs LLC, a request
+for a Home Occupation Conditional Use Permit for a cottage business, on approximately 0.47
+acres, 13147 S Tuscan Grove Cove, known as application USE-0197-2021, Staff Contact: Todd
+A. Draper (801) 576-6335, todd.draper@draperutah.gov
+
+Todd Draper, Planner, presented the staff report. He indicated this is an application for a home
+occupation conditional use permit. The property is located at the intersection of Tucson Cove Road
+and Golden Pheasant Drive. The property contains a land use designation of Residential Low
+Medium Density and is zoned RA2. He presented the site plan and mentioned the home occupation
+is for design and construction of custom-made dance clothing and costumes. The business
+operations will be conducted within a basement room. He showed the floor plan and noted the
+southeast corner of the basement has been remodeled to add a sewing and craft room. He presented
+street view photos of the site.
+
+Chair Adams invited the applicant to speak.
+
+Applicant, Stephanie Jackson stated she makes custom dance customs and ballet tutus. Most of
+her work is done in client’s homes so she can measure them. She indicated there are a few out of
+state customers.
+
+Vice Chair Hawker asked if she planned to have customers come to her home. She responded they
+would not.
+
+Chair Adams opened the public hearing. There were no speakers. He then closed the public
+hearing.
+
+Motion: Commissioner Hawker made a motion to approve the Home Occupation
+Conditional Use Permit as requested by Stephanie B. Jackson, representing Dancer in the
+Desert Designs, LLC for a cottage business, Application USE-0197-2021, based on the
+findings and subject to the conditions listed in the staff report, dated January 18, 2022.
+
+Second: Commissioner Bingham.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Bingham, Fowler, Hawker, Squire and Tonks voted, “Aye”.
+
+6.     Adjournment
+
+
+
+                                                2
+Draper City Planning Commission Meeting
+January 27, 2022
+Page 3
+Jennifer Jastremsky, Planning Manager reminded the Planning Commissioners to sign their
+conflict-of-interest forms. She mentioned they will send out a new one tomorrow. She indicated
+an email was sent out about training in Taylorsville on February 8, 2022. This will count towards
+their required four hours of training.
+
+Chair Adams called for a motion to adjourn; Commissioner Squire made a motion to adjourn.
+Commissioners Bingham, Squire, Fowler, Tonks and Hawker stated, “Aye”.
+
+The meeting adjourned at 6:39 p.m.
+
+
+
+
+                                               3
+

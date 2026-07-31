@@ -1,0 +1,166 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1707&doc_id=01b84ad7-12d1-11ef-b231-0050569183fa
+> Meeting date: 2024-04-23
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, APRIL 23,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:      Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+              Johnson, Tasha Lowery, Fred Lowry (left at 6:52 pm), and Cal Roberts
+
+EXCUSED:
+
+STAFF:        David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+              Challburg, Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson,
+              Chief of Police; Jennifer Jastremsky, Community Development Director;
+              Bret Millburn, Assistant City Manager; Rhett Ogden, Parks and
+              Recreation Director; Laura Oscarson, City Recorder; Linda Peterson,
+              Communications Director; Clint Smith, Fire Chief; Jake Sorensen, IT;
+              Jared Zacharias, Assistant Finance Director; and John Vuyk, Finance
+              Director
+
+______________________________________________________________________________________________
+
+Study Session
+
+       Discussion: House Bill 84 - School Safety Amendments
+       Police Chief Rich Ferguson oriented the Council with the requirements of
+       House Bill 84 regarding school safety. The Council and staff discussed the
+       impact of the requirements on Draper City.
+
+       Discussion: Water Rates Discussion
+       Assistant Finance Director Jared Zacharias presented water rate tiers that were
+       proposed to be effective July 1, 2024, with the FY2025 Budget. He explained
+       the increased cost of providing water, showed fund balance and previous
+       water rate increases over the last several years, and spoke of the importance
+       of having a long-term Water Fund plan. The Council discussed the possibility
+       of tying increases in the resident water rate to increases from Jordan Valley
+       Water Conservancy District by resolution.
+
+       Discussion: Phebe Brown Trail
+       Parks and Recreation Director Rhett Ogden presented three construction
+       options for a particular section of the Phebe Brown Trail: dirt path ($10,000),
+       granular material path ($100,000), and asphalt trail ($450,000). Fencing, if
+                                                                                    1|Page
+         Draper City Council Approved Meeting Minutes – May 14, 2024
+      needed, and trail crossing at Carlquist Drive (crosswalk with signage and
+      refuge island) would add approximately $150,000 to the project cost. He
+      reminded the Council that $350,000 was set aside for the project. The Council
+      and staff discussed the construction options and discussed the existing
+      easement and rights of the current owners of the property. A majority of the
+      Council indicated a desire for staff to obtain design cost estimates for the third
+      option.
+
+      Council/Manager Reports
+      Councilmember Johnson announced that Councilmembers were invited to a
+      lunch at the Senior Center. The Council discussed limited public forums, and
+      at least three Councilmembers indicated a desire to discuss the idea further.
+      Councilmember F. Lowry asked if trail access could be created at a specific
+      location.
+
+      Councilmember F. Lowry was excused at 6:52 pm.
+
+Business Session
+1.     Call to Order by Mayor Troy K. Walker
+
+2.      Pledge of Allegiance
+        Brett Millburn led the Pledge of Allegiance.
+
+3.      Proclamation: Arbor Day
+        Mayor Walker read aloud a proclamation recognizing April 26, 2024, as Arbor
+        Day in Draper City.
+
+4.      Public Comments
+        Wes Tillman, a Draper resident, thanked the Council for their public service.
+        He spoke of a new parking lot and wall on the south side of a City park and
+        asked if the Council would consider extending the wall to his property.
+
+5.      Consent Items
+5.a     Approval of April 9, 2024, City Council Meeting Minutes
+
+       Councilmember T. Lowery moved to approve the Consent Item.
+       Councilmember Roberts seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+
+                                                                              2|Page
+                                         Yes No Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry                    X
+      Councilmember Roberts               X
+
+
+6.    Items for Council Consideration
+6.a   Public Hearing: Ordinance #1609, an Ordinance amending the Official
+      Zoning Map of Draper City for approximately 1.32 acres of property
+      from RA1 (Residential Agricultural, 40,000 square foot lot minimum) to
+      R3 (Single Family Residential, 13,000 square foot lot minimum), located
+      at approximately 12502 South 700 East within Draper City, otherwise
+      known as the Newell Zoning Map Amendment
+      Todd Taylor, a Planner, showed a map of the subject area and explained the
+      request to rezone the property at approximately 12502 South 700 East from
+      RA1 to R3. He reported the Planning Commission forwarded a positive
+      recommendation.
+
+      Doug Newell, the applicant, explained his desire to develop two dwellings
+      along a private lane on the property, similar to that on a neighboring
+      property.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember T. Lowery moved to approve Ordinance #1609.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                         Yes No Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry                      X
+      Councilmember Roberts               X
+
+
+
+
+                                                                       3|Page
+6.b   Public Hearing: Ordinance #1610, an Ordinance of Draper City
+      amending the text of the Land Use and Development Code of the
+      Draper City Municipal Code Section 9-23-030 relating to the removal of
+      permitted exemptions from landscaping requirements
+      Planning Manager Todd Draper presented a City-initiated update to the
+      Landscape Ordinance to remove permitted exemptions from slope
+      limitations and landscaping requirements, to be in line with State
+      requirements. The Planning Commission reviewed the proposed update and
+      forwarded a positive recommendation.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember T. Lowery moved to approve Ordinance #1610.
+      Councilmember Roberts seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                    Yes No Absent
+      Councilmember Green            X
+      Councilmember Johnson          X
+      Councilmember T. Lowery        X
+      Councilmember F. Lowry                 X
+      Councilmember Roberts          X
+
+7.    Adjournment
+      Councilmember Green moved to adjourn the meeting. Councilmember
+      Johnson seconded the motion, which passed by unanimous voice vote
+      (4-0).
+
+      The meeting adjourned at 7:19 pm.
+
+
+
+
+                                                                   4|Page
+

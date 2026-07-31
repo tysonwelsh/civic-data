@@ -1,0 +1,619 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1709&doc_id=5e2bc321-2f35-11ef-81ef-005056a89546
+> Meeting date: 2024-04-25
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, APRIL 25, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Lisa Fowler, Vice-Chair
+               Commission Member Susan Nixon
+               Commission Member Mary Squire
+               Alternate Commission Member Laura Fidler
+               Alternate Commission Member Christine Green
+
+EXCUSED:              Commission Member Kendra Shirey
+                      Alternate Commission Member Shivam Shah
+                      Commission Member Gary Ogden
+
+STAFF PRESENT: Jennifer Jastremsky, Community Development Director
+                Todd Draper, Planning Manager
+                Mike Barker, City Attorney
+                Spencer DuShane, Assistant City Attorney
+                Brien Maxfield, Senior Engineering Manager
+                Amie Salazar, Office Manager
+                Todd Taylor, City Planner III
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order and welcomed those present.
+
+1.     Items for Commission Consideration.
+
+       A.      Action Item: Approve Planning Commission Meeting Minutes for March 14,
+               2024. (Administrative Action)
+
+Motion: Commissioner Nixon moved to APPROVE the minutes of March 14, 2024, as
+submitted. The motion was seconded by Commissioner Fowler.
+
+Vote: Commissioner Nixon-Yes; Commissioner Fowler-Yes; Commissioner Squire-Yes;
+Commissioner Fidler-Yes; Commissioner Green-Yes. The motion passed unanimously.
+
+       B.      Public Hearing: Windsor Mill Townhomes Site Plan Request. (Administrative
+               Action)
+               On the request of David Jenkins, representing Olsen and Associates, for a Site Plan
+               for 30 townhomes for 3.77 acres of land located in the RM2 zone. The property is
+               located at 11450 South 820 West. Application 2023-0239-SP. Staff contact: Jennifer
+               Jastremsky, (801)576-6328, jennifer.jastremsky@draperutah.gov.
+
+Community Development Director, Jennifer Jastremsky, presented the Staff Report and stated that
+the property is located off of 11400 South on the western border of the City. She identified a vacant
+piece of property that is accessed from Windsor Mill Drive, which is a public street. The land use is
+Residential Medium-High Density, which allows up to 12 units per acre. The zoning is RM-2, which
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 2
+
+is Multi-Family Residential, which allows up to 12 units per acre. The applicant is proposing to
+construct 30 townhomes on the property with one access, which is the allowed amount of access
+points for 30 units. They will either be duplexes or triplexes and will have a looped road system.
+There are wetlands on the property that will be preserved and turned into an amenity area with a
+viewing area and benches. Each unit has a two-car garage and a driveway that is at least 20 feet deep.
+Guest parking areas were identified. The Code requires 2.25 spaces per unit or two spaces for the
+residential unit and one guest parking space for every four units. For 30 units, eight guest parking
+spaces are required. The request was determined to comply with the Code in terms of parking. The
+roadways will be private, and the plans comply with the minimum width standards. Sidewalk is
+proposed on both sides of the street. They meet the minimum required by Code.
+
+With respect to landscaping, 38% is proposed within the overall site. That includes the wetlands open
+space area. The plan was updated to comply with the updated water-wise landscaping standards that
+limit sod or turf to 20% or less of the overall property. Street trees are to be provided from the
+Approved Street Tree List. Ms. Jastremsky referenced the site plan and stated that the future Phase 2
+will be an office building with the property being zoned for commercial. At this meeting, the
+Commission is only looking at Phase 1, which is the townhomes. A series of retaining walls are
+proposed due to the slope of the property. There are retaining walls along the road as well. When
+commercial is located next to multi-family, a landscape buffer is required next to the residential. A
+buffer is not required with residential. Due to the slope of the property, the applicants are installing a
+nine-foot retaining wall. Staff reviewed the request and determined that the nine-foot retaining wall is
+sufficient to meet the landscape and wall buffer standards for the future commercial. There is a
+condition of approval that there be a guardrail at the top of the wall so that a safety hazard is not
+created.
+
+With regard to architecture, the Code requires at least 50% brick or stone on all four sides of the
+buildings. The applicants comply with that requirement. The proposed buildings will have two stories
+with a height of 27 feet with 35 feet being the maximum height. Brick is 52 to 68 percent. Images and
+the proposed building colors were presented.
+
+Parking issues were raised with customers of Sport City bleeding over into the neighborhood. Ms.
+Jastremsky stated that discussion is separate from the site plan application. Staff has worked with
+Sport City in the past on a site plan to install additional parking, which was not built. There has been
+previous discussion about the future office building having shared parking. The Code requires parking
+to be provided. If there is a change in use, the City can require additional parking if more is required
+than was there previously. In this case, Sport City has not changed the use. She gathered numbers
+when Sport City was originally approved, and recreation and entertainment parking standards were
+based on a Parking Study that was conducted. The site plan was approved with 159 parking stalls.
+The current Code requires three stalls per 1,000 square feet for the recreation use. The current specific
+standard would require 231 stalls, which is more than they have. As a result, the current use would be
+considered legal non-conforming.
+
+The comment was made that the residents are concerned about the new neighborhood going in and
+additional traffic and potential impacts. The townhomes will have private streets and patrons of Sport
+City could be towed if they park there. No parking signs could also be posted. The proposed
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 3
+
+townhome development, however, meets the City’s parking standards. With regard to the
+neighborhood, there is a Traffic Committee that is aware of the issues.
+
+In response to a question raised, Ms. Jastremsky stated that the applicants came in twice before for
+the townhomes and the office building. Both times the site plan expired without the applicant starting
+construction. They are now proposing a phased project for the townhomes and will do the office later.
+The changes made since the last iteration of the project were to the phasing and landscaping due to a
+change in the Landscape Code.
+
+A question was raised about the light pole that is proposed to be six feet taller than required by Code.
+Ms. Jastremsky explained that the Lighting Plan complies with Code, but the light poles are slightly
+taller than allowed. A condition was added that they reduce the height. Because this is a phased
+project, Commissioner Nixon asked if there are any assurances that the office will be built or
+implications if it is not. Ms. Jastremsky explained that they are two different properties. If the office
+is not built, it will not impact the townhomes. There are no assurances in place and the applicant could
+change their mind.
+
+A question was raised about the deviation. Ms. Jastremsky explained that the applicants originally
+applied for deviation from the architectural standards for the townhomes. They have since withdrawn
+that application and modified the elevations. The request is now compliant with Code.
+
+The applicant, David Jenkins from Ensign Engineering, gave his address as 1000 South 45 West in
+Sandy. He was representing the property owner and had been involved with the project from the
+beginning. It has been a lengthy process and he appreciated working with the staff. They modified
+the Landscaping Plan as mentioned to meet the Code. In terms of the condition for the light poles,
+they will conform and present a Lighting Plan for the 14-foot pole. They understand that there is a
+parking issue with the use to the east, however, this is a standalone and meets all Code requirements
+for parking. There will be a Homeowners Association (“HOA”) that will likely address the parking
+issue and post the necessary signage.
+
+A question was raised about the end of Millhouse Lane where there are three visitor stalls and why it
+was not brought through to Windsor Mill Drive and connected. Mr. Jenkins stated that they worked
+through numerous concepts and were not allowed to connect due to code constraints.
+
+Chair Adams opened the public hearing.
+
+Mark Hansen reported that he is a resident of the cul-de-sac directly to the south of the proposed
+townhome development on Windsor River Cove. When the project was approved, it was with the
+townhomes and the office building going in together with the assurance that all of the extra parking
+spaces for the office would alleviate the overflow parking problem from Sport City. That is no longer
+the case. He stated that the parking problem is severe, especially on Friday nights and Saturdays when
+there are tournaments at Sport City. The neighbors objected to the project because of inadequate
+parking for a long time and were told in 2019 by Dennis Workman that Sport City will add 35 parking
+spaces. That has not happened. The streets are narrow and there will be no parking on the streets
+within the townhome development. Mr. Hansen recognized that the request meets the minimum
+standards and that everyone has to support high-density housing. The residents want it done in a way
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 4
+
+that will not make the neighborhood worse than it already is. There are ways that could be alleviated
+with 30 townhomes, two parking stalls per home, and eight visitor stalls. He stated that when there
+are parties there will not be enough parking.
+
+Mr. Hansen reported that he used to visit a similar development in California with a very comparable
+configuration where there were two parking spaces per driveway and two stalls per four units. He had
+a very difficult time finding visitor parking. His concern was that what is proposed will make a bad
+situation worse. He suggested the plan be modified to allow more than eight visitor parking stalls,
+eliminate one or two buildings, or do some landscaping. He was concerned that people will park in
+the cul-de-sac and in the development due to a lack of parking. Traffic congestion is also problematic.
+Mr. Hansen and his wife are administrators of the group’s Facebook page and a number of neighbors
+have commented. He provided a copy of the comments to the Commission. He noted that many have
+expressed safety concerns. The entrance street between Sport City and the future office space is very
+narrow and there have been numerous close calls. There is no HOA in his neighborhood.
+
+Will Morrey gave his address as 11486 Windsor River Cove directly south of the trailhead parking.
+His main concern was with the lack of overflow parking. He and his wife own a similar property in
+Millcreek and have ongoing parking issues. He asked that there be Covenants, Codes, and Restrictions
+(“CC&Rs”) in place that require no parking on the street. He also recommended that no parking be
+allowed in those stalls after 10:00 PM. His bedroom is adjacent to the parking stalls and he is disturbed
+when there is activity late at night.
+
+Dirk Peterjohn, a Fox Landing resident, stated that in addition to parking problems, it would not be
+possible for a fire truck to access the area on a Saturday. He provided photos showing what the
+situation looks like. Mr. Peterjohn was also concerned about access to the area and adding 30 homes
+and parking for 60 cars. The westbound access must be diverted through Osborne Fox Way so there
+will be a significant increase in traffic through the neighborhood. Twice a day, 25 to 30 schoolchildren
+get off the school bus and walk down the road where motorists frequently speed. Adding 60 more
+cars will exacerbate the problem. Those traveling out westbound will have to go up 800 West and
+Osborne Fox Way onto 700 West. He asked if the City has plans to increase the access to the
+development or traffic through the neighborhoods, which would not be acceptable. He commented
+that Ivory Homes added a turn into their subdivision and asked if something similar should be done
+here.
+
+Kristy Crosland lives in the Fox Landing neighborhood and agreed with the previous comment. She
+asked about the Code requirements for the accesses in and out of the neighborhood since they will
+force people into the neighborhood. She understood that Sport City was not on the agenda but pointed
+out that they are the reason behind the parking and traffic issues. She commended Draper City for
+fixing the large potholes.
+
+Kathy Hansen’s understanding was that some time ago Sport City and this development were under
+the same ownership. If that is the case, she hoped the issues could be rectified.
+
+Mike Crosland asked if the developer would pay for a gate to stop people from driving up the streets.
+That way the patrons of Sport City would be forced to go out to 11400 South. That seemed like a
+good tradeoff for the Fox Landing Group.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 5
+
+
+There were no further public comments. The public hearing was closed.
+
+Chair Adams asked if people from Sport City are currently parking on the dirt lot. Ms. Jastremsky
+confirmed that they are. Chair Adams pointed out that the vacant dirt lot is already alleviating parking
+and is the same as if they were going to do Phase 2. He felt it would be wise for the developer since
+residential is now more commonly requested rather than commercial. He commented that there is no
+guarantee that Phase 2 will happen. Parking is still being alleviated and the owner is currently
+allowing cars to park on the vacant lot. Ms. Jastremsky confirmed that the properties are all under the
+same ownership. Chair Adams stated that as a result, the owners could choose to construct a parking
+garage in Phase 2. He acknowledged that traffic is a serious issue. It was noted that the challenge with
+parking within the development is that they comply with Code. Chair Adams stated that they meet
+the Code so it would be at the discretion of the developer to add more parking. Eliminating the
+wetlands was determined to not be an option.
+
+Commissioner Green had experience with parking at Sport City and agreed that it is problematic. She
+stated that Sport City guests do not use 11400 South to park but there is a wide shoulder that would
+allow for parking. When people do park there, the traffic flow slows down on 11400 South. She
+suggested they utilize 11400 South more but recognized that is unlikely since people will then have
+to walk quite a greater distance. She stated that they could place a second entrance on the north side
+of the building to alleviate the walk for parents dropping their children off.
+
+Commissioner Squire asked if there have historically been issues with the minimum amount of guest
+parking. Ms. Jastremsky responded that a few years ago the City changed the Code to require
+driveways to be 20 feet deep because the neighborhoods where there were problems were those that
+did not have driveways. People were using their garages for storage and the guest parking for resident
+parking. The Code now requires driveways. At the time of the second approval, the applicants were
+required to make modifications to have the driveways comply with the Code. Theoretically, there are
+two parking spots in the garage, two in the driveway, and guest parking.
+
+Chair Adams asked Mr. Jenkins about the overflow parking for the proposed development to be used
+with the office space. He asked what would prevent the residents of the townhomes from parking in
+the dirt lot. Mr. Jenkins confirmed that the dirt lot is currently being used for overflow parking. They
+have not developed the office building because it is currently not economically feasible. In the
+meantime, the dirt lot could be used by the residents of the townhomes. Ms. Jastremsky stated that
+legally, the dirt lot cannot be used for parking. Motorized vehicles are required to park on a paved
+surface. The lot does not even meet the City’s standards for temporary parking.
+
+Mr. Jenkins reported that when construction begins and the retaining wall goes in, the contractor will
+grade the area so that it is flatter. If they put gravel down or improve the site further it could become
+a parking lot, which is not allowed. He stated that they will grade it and make it look good. The
+possibility of a drive lane was mentioned as was done with the Ivory Development. It was done in
+conjunction with the Utah Department of Transportation (“UDOT”) which can be challenging to work
+with. Mr. Jenkins stated that it would require a Traffic Study and a lot of effort.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 6
+
+Commissioner Fidler was sympathetic to the neighbors’ concerns and felt that Draper City has
+ongoing issues. It did not appear that Sport City is doing its duty to deter its patrons from parking on
+neighborhood streets. She asked how the matter could be addressed since the properties are under the
+same ownership. Mr. Jenkins stated that when Sport City first approached the City, 30 feet of
+landscaping was required on the south property line, which was problematic. That was the reasoning
+behind the current layout. Due to the poor health of the property owner, little could be done. They
+now have a plan to add parking to the landscaped area, but it is costly and not viable. Development
+of the Windsor Mill Townhomes may perpetuate them to taking action. They recognize there is an
+issue, and they want to take care of it, but it is solely an economic problem.
+
+Commissioner Fowler referenced the standards for approval set forth in the packet. She stated that
+the entire site must be developed at one time. It must also conform to the applicable standards set
+forth in the Title including, but not limited to, building height, setbacks, access points, parking,
+landscaping, and building materials. As long as the applicants change the light poles and add the
+safety railing, it fits that standard. Commissioner Fowler reported that the third standard is that the
+plans meet the intent, goals, and objectives of the General Plan and the purpose of the Zoning District,
+which it does.
+
+Chair Adams commented on the costs involved in providing additional parking. Commissioner
+Fowler reviewed the additional standards and stated that ultimately the request complies with the
+standards.
+
+Motion: Commissioner Fowler moved to APPROVE the Site Plan as requested by David
+Jenkins representing Olsen and Associates for Windsor Mill Townhomes, Application 2023-
+0239-SP subject to the following:
+
+Conditions:
+
+       1.      That all requirements of the Draper City Engineering, Public Works, Building,
+               Planning, and Fire Divisions are satisfied throughout the development of the site
+               and the construction of all buildings on the site, including permitting.
+
+       2.      That all requirements of the geotechnical report are satisfied throughout the
+               development of the site and the construction of all buildings and infrastructure
+               on the site.
+
+       3.      That as a safety measure, the developer installs a 48” closed-face fence on top of
+               the retaining wall that separates the future office building from the townhomes.
+
+       4.      That approval of the site plan does not constitute approval of any signage. Any
+               and all signage shall be required to receive separate sign permit approval.
+
+       5.      Adjust the lighting plan to reflect a maximum light pole height of 14 feet, per
+               DCMC Section 9-32-030(D)(7) standards.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 7
+
+       6.      Per DCMC Section 9-5-090(J) the site plan shall become null and void in 1 year
+               if a land disturbance permit is not issued. A one-item 6-month extension to this
+               expiration date can be requested prior to expiration of the site plan.
+
+Findings:
+
+       1.      The entire site shall be developed at one time unless a phased development plan
+               is approved. This project includes Phase 2 for an office building.
+
+       2.      A site plan shall conform to applicable standards set forth in this title, including
+               but not limited to, building heights, setbacks, access points, parking, landscaping,
+               and building materials.
+
+       3.      The proposed development plans meet the intent, goals, and objectives of the
+               General Plan and the purpose of the zone district in which the site is located.
+
+       4.      The public facilities and services in the area are adequate to support the subject
+               development, as required by engineering standards and specifications.
+
+       5.      The proposed development plans comply with the engineering standards found
+               in Titles 7, 8, 11, 12, 16, and 18 of this code, including traffic, stormwater
+               drainage, and utilities concerns.
+
+Second: Commissioner Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Squire, Fidler, Green, and Fowler voted “Yes.” The motion passed
+unanimously.
+
+After the vote, Commissioner Squire expressed her dismay at how poor of a neighbor Sport City has
+continued to be. The neighbors have complained on numerous occasions and she felt a great deal of
+empathy for them. She stated that the Commission cannot consider what is taking place with Sport
+City in this application.
+
+Chair Adams asked what would have to happen to allow Sport City to have more parking put in. Ms.
+Jastremsky stated that a site plan was previously approved to locate parking where the landscaping is
+to the east, but it had since expired. She offered to determine whether the City has changed the
+conditions to allow that. She did not think it would be difficult to get it reapproved. It was noted that
+the applicants may not require as much deviation as they would have previously. Ms. Jastremsky
+reported that the City’s landscaping code is fully waterwise. When Sport City originally came in they
+were required to provide an additional landscaping buffer beyond what the Code requires. They
+received approval to reduce that and to add more parking. Chair Adams recalled at the time that there
+was public clamor regarding having a parking lot next to homes. The result was to enlarge the size of
+the buffer. The desire was to have the Sport City problem remedied.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 8
+
+       C.      Public Hearing: Ashley Furniture Zoning Text Amendment.
+               (Legislative Item)
+               On the request of Jeremy Schwebs, Hodgdon Management and Construction,
+               representing Ashley Real Estate, LLC, a request for approval of a Zoning Text
+               Amendment to the CSD-SWF (Southwestern Furniture Commercial Special District)
+               zone to modify the allowed primary materials, for approximately 3.36 acres located at
+               13177 S. Lone Peak Parkway. Known as Application 2024-0050-TA. Staff contact:
+               Todd Taylor (801)576-6510, todd.taylor@draperutah.gov.
+
+City Planner III, Todd Taylor presented the Staff Report and displayed the Vicinity Map of the site
+located west of I-15 and north of Bangerter Highway. An aerial view of the site was presented
+showing that the Southwestern Furniture Commercial Special District is only covering the Ashley
+Furniture building and site. The land use designation is Commercial Special District. A photo of the
+site was displayed along with a rendering provided by the applicant who is requesting to amend the
+text of the Commercial Special District. The primary change is that the primary materials also include
+stucco, Exterior Insulation Finishing Systems (“EIFS”), and exposed concrete in addition to the
+primary materials found in Code Section 9-22-040F.
+
+Commissioner Nixon asked about the renderings presented. Mr. Taylor explained that the renderings
+were provided by the applicant and have not yet been reviewed. They will be reviewed at the time of
+Building Permit issuance.
+
+Mr. Taylor explained that currently, the primary materials include brick, stone, ceramic tile, wood or
+concrete fiber composite siding, concrete masonry units, metal composite material, and architectural
+precast concrete. It was noted that the applicant is proposing exposed concrete and not a precast
+concrete material. Mr. Taylor explained that all of the proposed materials come from the current
+secondary materials list, which includes stucco, EIFS, and exposed concrete.
+
+A question was raised as to whether stucco is included as a primary material in any other part of the
+Code outside of this particular zone. Ms. Jastremsky stated that some of the CSDs likely do include
+stucco. The Lone Peak CSD which is a Price Realty development with a lot of manufacturing uses
+includes concrete tilt-up, as a primary material in that development. That is more frequently seen than
+the higher quality materials. She stated that it would be more consistent with older developments within
+the City. She noted that this is the only property within the CSD and will not change the overall
+commercial architectural standards.
+
+The applicant, Jeremy Schwebs was asked about the reasoning behind the text amendment and if it is
+related to branding. Mr. Schwebs stated that Ashley Corporate is looking to update its brand to a more
+stucco, EIFS, exposed concrete look similar to what was shown on the rendering. That look is what
+they are getting preliminary pricing for and what they have received from Ashley Design in terms of
+what is to be done at the Draper store.
+
+Chair Adams asked about the landscaping. Mr. Schwebs stated that the landscaping will remain the
+same. The only thing they are focusing on is the building itself. What they plan to do is demo the
+stone because it is becoming a maintenance and liability issue. It will then be replaced with stucco
+and EIFS, which is easier to maintain.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 9
+
+
+Commissioner Fowler asked if there is anything in the Code about color schemes. Mr. Taylor stated
+that a minimum of three colors are required per elevation. Ms. Jastremsky indicated that the Code
+does not specify what those colors are.
+
+Chair Adams opened the public hearing. There was no public comment. The public hearing was
+closed.
+
+Motion: Commissioner Squire moved to forward a POSITIVE recommendation to the City
+Council on Application 2024-0044-MA as requested by Jeremy Schwebs representing Ashley
+Real Estate, LLC based on the following:
+
+Findings:
+
+       1.     The proposed amendment is consistent with goals, objectives, and policies of the
+              City's General Plan.
+
+       2.     The proposed amendment furthers the specific purpose statements of the zoning
+              ordinance.
+
+       3.     The proposed amendment is appropriate given the context of the request and
+              there is sufficient justification for a modification to the zoning ordinance.
+
+       4.     The proposed amendment will not create a conflict with any other section or part
+              of the zoning ordinance or the General Plan.
+
+       5.     The potential effects of the proposed amendment have been evaluated and are
+              determined not to be detrimental to public health, safety, or welfare and
+              represent an overall community benefit.
+
+       6.     The proposed text amendment implements the best current, professional
+              practices of urban planning, design, and engineering practices.
+
+Second: Commissioner Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Nixon, Squire, Fidler, Green, and Fowler voted “Yes.” The motion passed
+unanimously.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 10
+
+       D.      Action Item: Raining Hot Coupons, LLC Home Occupation Conditional Use
+               Permit (Administrative Action).
+               On the request of Sarah Gibbons for a Home Occupation Conditional Use Permit for
+               an assembly and repair, limited home-based business. The property is located at
+               approximately 1935 East Stag Hill Circle in the RA2 (Residential Agricultural 20,000
+               square foot minimum lot size) zone. Application 2023-4587-USE. Staff contact is
+               Todd Draper, 801-576-6335, todd.draper@draperutah.gov. This item was continued
+               from the February 8th and March 14, 2024, meetings.
+
+Planning Manager, Todd Draper, reported that the applicant was not present but was provided with
+the Staff Report and time and date of the meeting. Changes had been made to the request since the
+last meeting and additional information was submitted. Staff still recommended denial as they did
+previously. When the application was originally submitted, they felt it fit within the definition of the
+use but now are concerned about the size of the use potentially not meeting the definition in that it
+would not be small-scale in nature, produced in small quantities, and on a made-to-order basis. It was
+noted at the previous meetings that the applicants moved the business from an industrial warehouse
+into the home. Activities involve the repackaging of bulk and wholesale shipments of clothing and
+other fashion articles in addition to online sales. The hours in the most recent updated Statement of
+Business Operations changed from 9:00 AM to 6:00 PM rather than 9:00 AM to 7:00 PM. Staff was
+aware that they have frequent deliveries and shipments to and from the home. They utilize a Home
+Office or living room where they film videos for online sales within the dwelling.
+
+The garage has mainly been used for shipping and receiving operations. The applicants have indicated
+that they have two non-resident employees. They have made a number of conflicting statements
+throughout the process. The matter was continued from the February 8 and March 14 meetings. Mr.
+Draper noted that even with the resubmittal the application is not quite complete. The Fire Marshal
+inspected the home and passed it off from a fire hazard perspective. The applicants submitted the
+floor plan and combined it with the Parking Plan for residential vehicles on the driveway as well as
+the two for employees. He noted that they call out a reclaimed garage on the plans. The applicant’s
+statements are vague as to whether the garage will be for the required parking or for other residential
+uses other than parking. The new layout provided continues to raise questions regarding its accuracy.
+A sketch was presented from the County Assessor with dimensions; however, Mr. Draper noted they
+are not always accurate.
+
+Mr. Draper reported that based on what can be seen in the aerial photo, staff presented what they feel
+is more representative of the actual shape of the home, which was of concern. The applicants indicated
+that the garage is 22’ 9” but is shown as 27’ on the Assessor’s sketch, which makes it difficult to
+determine whether something was added internally or not. The updated site plan was the same as was
+presented previously. The photos that were submitted by the applicant were presented. Staff knows
+that the applicants cleaned the area up, but no additional photos were provided with the most recent
+submittal. Staff still had concerns. In the photos there appeared to be business items stored in the areas
+that were claimed to have been reclaimed. In the corner of the garage, the applicants claim everything
+in front of the line on the floor plan is for the business and everything behind it has been reclaimed.
+The photos, however, still show tables, a microwave, a fridge, and other articles for the business inside
+the area where the garage space should be.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 11
+
+The negative impacts identified by staff would need to be mitigated if the Commission were to grant
+approval. The staff report included a list of suggested conditions in the event the Commission wishes
+to grant approval. The negative impacts include an increase in traffic and parking with the non-
+resident employees and noise from the inventory deliveries and shipments. The applicants previously
+stated on the record that they have stopped receiving deliveries by semi-truck but that was not
+included in their updated operations statement. Other impacts include non-compliance with required
+residential parking in the garage and the potential to continue to displace vehicles on the driveway.
+There was also concern with the overall scale of the operation. Staff did not know what packaging
+equipment they are using but stated that it will not create a nuisance. No additional details were
+provided. In the most recent updates, the applicants indicated that they would take all the trash out by
+using their cargo trailer. That has since been added as a business use. Staff was concerned about it
+being disposed of in a lawful and legal manner. There was concern that the matter is being
+unnecessarily delayed by the applicants and has been for some time.
+
+Chair Adams asked for clarification on what was to have been provided for tonight’s meeting. Mr.
+Draper explained that the applicants were to have provided accurate floor plans and square footages.
+At the last meeting, Staff was primarily concerned about receiving an accurate layout of the home,
+and additional details on the Parking Plan, and how they would alleviate the garage parking issues.
+They were also asked to respond to the 19 suggested staff conditions and the ordinance standards.
+The applicants only responded to about half of the standards for home occupations with their new
+update.
+
+Chair Adams commented that the proposal does not address all of the existing and anticipated
+detrimental effects. One of the main impacts pertains to the number of shipments being delivered to
+the home and the amount of waste being generated. He noted that it is a residential neighborhood first
+and foremost.
+
+Commissioner Fowler was concerned about the scope of the business. In the past, they have approved
+a home occupation for preschools, a floral shop, or a baking business. She was of the opinion that the
+operation occupies too much of the home. Mr. Draper explained that the square footage of the home
+to be used is now under the typical limitations. Commissioner Fowler stated that the indication from
+the applicants was that they are cleaning the garage to allow for the parking of vehicles as required
+by Code. Mr. Draper added that the Code requires at least two parking stalls inside a garage. Those
+parking stalls are each 10’ x 20’. Based on the details and measurements provided by the applicants,
+there cannot be any storage in the two-car garage area along the garage wall, in the corner, or within
+about two feet of the third-car garage area.
+
+Commissioner Nixon was concerned that there is information that is still lacking and the applicants
+are not present to answer the outstanding questions. That was of great concern to her.
+
+Chair Adams agreed that the matter has been delayed unnecessarily but acknowledged that the list is
+long as there are several detrimental impacts on the neighborhood. The intent was to mitigate those
+and work with the applicants. The comment was made that the applicants have had adequate time to
+come into compliance.
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 12
+
+Commissioner Squire asked about the modified use of the trailer for business use and how it affects
+parking and the square footage used for the business. Mr. Draper explained that staff would typically
+ensure that they are parked legally. He did not believe that it would expand any square footage beyond
+allowable limits. If used for business use, staff recommended it be screened from view.
+
+The comment was made that the applicants did have a long parking strip on the side of the home. Ms.
+Jastremsky stated that in the code for personal use, “recreational vehicles including trailers, travel
+trailers, boats, watercraft, utility trailers, and motor homes parked in residential zones shall be parked
+behind the front wall plane of the primary structure on the same property and conform to the design
+and construction standards” in the section that addresses paving requirements and ground cover
+requirements. There was no requirement with regards to fencing for typical residential use. Ms.
+Jastremsky stated that the Planning Commission could address whether it is appropriate to screen the
+trailer that is now to be used for the business.
+
+Commissioner Fowler referenced page 11 of the staff report, item K which addresses vehicles. It
+states, “The standard is that other than the business owner’s personal transportation, there shall be no
+vehicles or equipment on the property associated with the home occupation, which would not
+normally be found at the residence. No signage for the home occupation shall be allowed on vehicles.”
+Commissioner Fowler commented that they do not know if the trailer would normally be there. Chair
+Adams felt there were plenty of instances where the use is a nuisance.
+
+Commissioner Nixon asked what the process would be to ensure that the business is removed if the
+request is denied. Ms. Jastremsky stated that it would go through Code Enforcement. The Business
+License Application would first be denied. The City would notify the courts of the denial of the
+Business License as they have an ongoing citation for operating without a Business License. The
+Conditional Use Permit Application would also be denied, and Code Enforcement would issue a
+Cease-and-Desist Letter. The applicant would be given a time period with which to leave the property.
+It was expected to be a multi-month process. The applicants could choose to reapply or could appeal
+the denial within 10 days.
+
+Motion: Commissioner Fowler moved to DENY the Raining Hot Coupons, LLC Home
+Occupation Conditional Use Permit as requested by Sarah Gibbons representing Application
+2023-4587-USE based on the following:
+
+Findings for Denial:
+
+       1.      The proposal does not address all existing and anticipated detrimental effects of
+               the business.
+
+       2.      Impacts remain from the existing and anticipated detrimental effects of the
+               business that are not able to be sufficiently mitigated through the imposition of
+               reasonable mitigation measures.
+
+       3.      The proposed use is not in harmony with the objectives and requirements of the
+               City's General Plan and will be detrimental to the health, safety, or general
+Draper City Planning Commission Meeting
+April 25, 2024
+Page 13
+
+              welfare of persons residing or working in the vicinity, or injurious to property or
+              improvements in the vicinity.
+
+       4.     The proposed use does not comply with applicable regulations and conditions
+              specified in ordinance and does not comply with the intent of the City General
+              Plan.
+
+       5.     The nature and scope of the proposed business is industrially scaled, conflicting
+              both with the defined intent of use type to not include mass production and with
+              the stated purposes of the RA2 zone to protect primary residential uses from
+              commercial and industrial encroachment.
+
+       6.     The specific property is not suitable for the magnitude of the proposed use.
+
+Second: Commissioner Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 5-to-0 in favor of the motion.
+Commissioners Squire, Nixon, Fowler, Fidler, and Green voted “Yes”. The motion to deny the
+request passed unanimously.
+
+Commissioner Nixon found it unfortunate that the applicants were not present to answer some of the
+outstanding questions.
+
+2.     Adjournment.
+
+Motion: Commissioner Squire moved to ADJOURN.
+
+Vote: The motion passed with the unanimous consent of the Commission.
+
+The meeting adjourned at 7:54 PM.
+

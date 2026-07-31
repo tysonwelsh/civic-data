@@ -1,0 +1,101 @@
+=== Taylorsville PC vote validation: PASS ===
+meetings=91  motions=324  member_rows=761
+formats: {'pdf-text': 63, 'ocr': 28}   OCR meetings=28 (motions=92)  text meetings=63
+vote_format: narrative-tally=212  named-inline=78  tabular=34
+names_recorded=112  tally_only=212
+kind: recommendation=58 (pos 47/neg 8)  final_action=81  procedural=185
+named votes: Aye=649 Nay=66 Abstain=35 Absent=8 Recuse=3
+contested (any Nay/Abstain/Recuse)=61  unanimous/uncontested=263
+case numbers captured on 164/324 motions
+'No recorded vote' motions (moved, not voted)=2
+OCR name-resolution fuzzy/variant rate: 0/0 = 0.00%
+distinct commissioners (roster.csv)=12
+
+--- per-year observed commissioners (name: vote rows) ---
+  2020: Don Quigley:25, David Wright:25, Anna Barbieri:25, Lynette Wendel:25, Gordon Willardson:25, Marc McElreath:24, Kent Burggraaf:24
+  2021: David Wright:10, Marc McElreath:10, Don Quigley:10, Don Russell:10, Kent Burggraaf:8, Gordon Willardson:8, Lynette Wendel:5
+  2022: Cindy Wilkey:23, Don Quigley:22, Gordon Willardson:21, Lynette Wendel:20, David Wright:18, David Young:16, Don Russell:14, Marc McElreath:11
+  2023: Don Quigley:26, Gordon Willardson:25, Cindy Wilkey:24, David Wright:24, Marc McElreath:20, Lynette Wendel:20, Don Russell:19, David Young:10
+  2024: Gordon Willardson:17, David Wright:16, Don Russell:16, Don Quigley:15, Marc McElreath:15, Cindy Wilkey:15, Lynette Wendel:15, David Young:8
+  2025: Cindy Wilkey:15, David Wright:14, Marc McElreath:11, Don Quigley:11, Barbara Munoz:11, Don Russell:10, David Young:10, Gordon Willardson:5, Lynette Wendel:3
+  2026: Marc McElreath:2, Cindy Wilkey:2, David Wright:1, David Young:1, Gordon Willardson:1
+
+--- named vs printed-tally mismatches (advisory, verbatim): 4 ---
+   2021-11-09 m3: named 5-1 (abs 0, rec 0) vs tally 6-1 [pdf-text]
+   2022-04-26 m2: named 5-1 (abs 0, rec 0) vs tally 5-2 [pdf-text]
+   2024-10-22 m1: named 3-0 (abs 0, rec 0) vs tally 7-0 [ocr]
+   2026-01-27 m1: named 4-1 (abs 0, rec 0) vs tally 5-1 [ocr]
+
+--- result-vs-count inconsistencies: 0 ---
+
+--- roster-size flags (seated not in 5/6/7): 3 ---
+   2022-05-24 m2: 3 seated [pdf-text] — Negative recommendation 3-0
+   2023-05-09 m7: 4 seated [pdf-text] — Positive recommendation 4-0
+   2024-10-22 m1: 3 seated [ocr] — 3-0 Approved (Final Action)
+
+--- 'No recorded vote' motions: 2 ---
+   2021-07-27 m3 | Commissioner Russell – I move that we approve File 10S20 to amend Lot 
+   2023-05-09 m3 | Commissioner Wendel - I move that we table File 3S23/ SUB- 000332- 202
+
+--- contested votes (61) ---
+   2020-03-10 m4 [recommendation] Positive recommendation 6-1 | Aye=['Don Quigley', 'David Wright', 'Anna Barbieri', 'Marc McElreath', 'Kent Burggraaf', 'Lynette Wendel'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]
+   2020-03-10 m6 [recommendation] Positive recommendation 5-2 | Aye=['Don Quigley', 'David Wright', 'Anna Barbieri', 'Kent Burggraaf', 'Lynette Wendel'] Nay=['Marc McElreath', 'Gordon Willardson'] Abstain=[] Recuse=[]
+   2020-03-10 m7 [recommendation] Positive recommendation 5-2 | Aye=['Don Quigley', 'Anna Barbieri', 'Marc McElreath', 'Kent Burggraaf', 'Lynette Wendel'] Nay=['David Wright', 'Gordon Willardson'] Abstain=[] Recuse=[]
+   2020-05-12 m1 [procedural] 6-1 Pass | Aye=['Don Quigley', 'David Wright', 'Anna Barbieri', 'Marc McElreath', 'Kent Burggraaf', 'Lynette Wendel'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]
+   2020-07-14 m2 [recommendation] Positive recommendation 6-1 | Aye=['Don Quigley', 'David Wright', 'Anna Barbieri', 'Marc McElreath', 'Kent Burggraaf', 'Lynette Wendel'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]
+   2020-08-11 m2 [final_action] 5-2 Approved (Final Action) | Aye=['Don Quigley', 'Marc McElreath', 'Lynette Wendel', 'Kent Burggraaf', 'Gordon Willardson'] Nay=['David Wright', 'Anna Barbieri'] Abstain=[] Recuse=[]
+   2021-03-09 m2 [recommendation] Positive recommendation 6-1 | Aye=['David Wright', 'Marc McElreath', 'Kent Burggraaf', 'Lynette Wendel', 'Don Quigley', 'Don Russell'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]
+   2021-04-27 m1 [recommendation] Negative recommendation — motion failed 3-3 | Aye=['Don Russell', 'Marc McElreath', 'Gordon Willardson'] Nay=['Don Quigley', 'David Wright', 'Kent Burggraaf'] Abstain=[] Recuse=[]
+   2021-04-27 m7 [recommendation] Positive recommendation 5-0 | Aye=['Don Russell', 'David Wright', 'Kent Burggraaf', 'Marc McElreath', 'Gordon Willardson'] Nay=[] Abstain=['Don Quigley'] Recuse=[]
+   2021-07-27 m4 [procedural] 4-1 Pass | Aye=['Don Quigley', 'Don Russell', 'David Wright', 'Lynette Wendel'] Nay=['Marc McElreath'] Abstain=[] Recuse=[]
+   2021-09-14 m1 [procedural] 6-0 Pass | Aye=['Don Quigley', 'Don Russell', 'David Wright', 'Marc McElreath', 'Lynette Wendel', 'Gordon Willardson'] Nay=[] Abstain=['Kent Burggraaf'] Recuse=[]
+   2021-11-09 m3 [final_action] 5-1 Approved (Final Action) | Aye=['Don Quigley', 'Marc McElreath', 'Kent Burggraaf', 'Gordon Willardson', 'Don Russell'] Nay=['David Wright'] Abstain=[] Recuse=[]
+   2021-11-09 m4 [final_action] 1-5 Denied (Final Action) | Aye=['David Wright'] Nay=['Don Quigley', 'Marc McElreath', 'Kent Burggraaf', 'Gordon Willardson', 'Don Russell'] Abstain=[] Recuse=[]
+   2022-01-11 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Cindy Wilkey'] Recuse=[]
+   2022-02-22 m4 [procedural] 3-4 Fail | Aye=['Don Quigley', 'Cindy Wilkey', 'David Young'] Nay=['David Wright', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson'] Abstain=[] Recuse=[]
+   2022-02-22 m5 [final_action] 5-2 Approved (Final Action) | Aye=['Cindy Wilkey', 'David Wright', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson'] Nay=['Don Quigley', 'David Young'] Abstain=[] Recuse=[]
+   2022-04-26 m2 [final_action] 5-1 Approved (Final Action) | Aye=['Cindy Wilkey', 'Don Russell', 'Marc McElreath', 'Gordon Willardson', 'David Wright'] Nay=['Don Quigley'] Abstain=[] Recuse=[]
+   2022-10-11 m2 [final_action] 5-1 Approved (Final Action) | Aye=['Cindy Wilkey', 'David Young', 'Marc McElreath', 'Gordon Willardson', 'Lynette Wendel'] Nay=['Don Quigley'] Abstain=[] Recuse=[]
+   2023-02-28 m4 [recommendation] Positive recommendation 5-1 | Aye=['David Young', 'David Wright', 'Gordon Willardson', 'Don Russell', 'Don Quigley'] Nay=['Cindy Wilkey'] Abstain=[] Recuse=[]
+   2023-02-28 m5 [final_action] 5-0 Approved (Final Action) | Aye=['Gordon Willardson', 'David Wright', 'Don Russell', 'Cindy Wilkey', 'David Young'] Nay=[] Abstain=['Don Quigley'] Recuse=[]
+   2023-05-09 m1 [procedural] 6-0 Pass | Aye=['David Wright', 'Don Quigley', 'Lynette Wendel', 'Gordon Willardson', 'Marc McElreath', 'Don Russell'] Nay=[] Abstain=['Cindy Wilkey'] Recuse=[]
+   2023-06-27 m3 [final_action] 4-3 Approved (Final Action) | Aye=['Don Russell', 'David Wright', 'Lynette Wendel', 'Marc McElreath'] Nay=['Cindy Wilkey', 'Don Quigley', 'Gordon Willardson'] Abstain=[] Recuse=[]
+   2023-07-11 m1 [procedural] 5-0 Pass | Aye=['Don Russell', 'David Wright', 'Don Quigley', 'Marc McElreath', 'Gordon Willardson'] Nay=[] Abstain=['Cindy Wilkey'] Recuse=[]
+   2023-09-26 m2 [procedural] 6-0 Pass | Aye=['Don Russell', 'David Wright', 'Don Quigley', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson'] Nay=[] Abstain=['Cindy Wilkey'] Recuse=[]
+   2023-10-24 m2 [final_action] 6-1 Approved (Final Action) | Aye=['Lynette Wendel', 'Don Quigley', 'Cindy Wilkey', 'David Wright', 'Don Russell', 'Gordon Willardson'] Nay=['Marc McElreath'] Abstain=[] Recuse=[]
+   2023-10-24 m3 [final_action] 5-2 Approved (Final Action) | Aye=['Gordon Willardson', 'Don Russell', 'Don Quigley', 'Marc McElreath', 'Lynette Wendel'] Nay=['David Wright', 'Cindy Wilkey'] Abstain=[] Recuse=[]
+   2023-10-24 m4 [final_action] 5-2 Approved (Final Action) | Aye=['Don Quigley', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson', 'Don Russell'] Nay=['Cindy Wilkey', 'David Wright'] Abstain=[] Recuse=[]
+   2023-10-24 m5 [final_action] 5-2 Approved (Final Action) | Aye=['Don Russell', 'Don Quigley', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson'] Nay=['David Wright', 'Cindy Wilkey'] Abstain=[] Recuse=[]
+   2023-11-14 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Marc McElreath', 'David Wright'] Recuse=[]
+   2024-03-12 m2 [final_action] 5-2 Approved (Final Action) | Aye=['Marc McElreath', 'Cindy Wilkey', 'Gordon Willardson', 'Don Russell', 'David Young'] Nay=['Don Quigley', 'David Wright'] Abstain=[] Recuse=[]
+   2024-03-26 m1 [procedural] 6-0 Pass | Aye=['Don Russell', 'Cindy Wilkey', 'David Wright', 'Don Quigley', 'Marc McElreath', 'Gordon Willardson'] Nay=[] Abstain=['Lynette Wendel'] Recuse=[]
+   2024-04-23 m1 [procedural] 5-0 Pass | Aye=['Don Russell', 'David Wright', 'Don Quigley', 'Gordon Willardson', 'David Young'] Nay=[] Abstain=['Cindy Wilkey', 'Lynette Wendel'] Recuse=[]
+   2024-05-14 m1 [final_action] 6-0 Approved (Final Action) | Aye=['Cindy Wilkey', 'David Wright', 'Don Russell', 'Gordon Willardson', 'Marc McElreath', 'David Young'] Nay=[] Abstain=['Lynette Wendel'] Recuse=[]
+   2024-07-09 m1 [procedural] 6-0 Pass | Aye=['Don Russell', 'David Wright', 'Don Quigley', 'Lynette Wendel', 'Marc McElreath', 'Gordon Willardson'] Nay=[] Abstain=['Cindy Wilkey'] Recuse=[]
+   2024-07-09 m6 [procedural] 4-3 Pass | Aye=['Cindy Wilkey', 'David Wright', 'Don Russell', 'Lynette Wendel'] Nay=['Marc McElreath', 'Don Quigley', 'Gordon Willardson'] Abstain=[] Recuse=[]
+   2024-07-09 m7 [recommendation] Negative recommendation 5-2 | Aye=['Cindy Wilkey', 'Don Russell', 'Lynette Wendel', 'David Wright', 'Don Quigley'] Nay=['Gordon Willardson', 'Marc McElreath'] Abstain=[] Recuse=[]
+   2024-09-10 m3 [recommendation] Positive recommendation 6-1 | Aye=['Gordon Willardson', 'Don Russell', 'Marc McElreath', 'David Wright', 'Cindy Wilkey', 'Lynette Wendel'] Nay=['Don Quigley'] Abstain=[] Recuse=[]
+   2024-09-10 m4 [recommendation] Negative recommendation — motion failed 3-4 | Aye=['Lynette Wendel', 'Marc McElreath', 'David Wright'] Nay=['Don Quigley', 'Cindy Wilkey', 'Gordon Willardson', 'Don Russell'] Abstain=[] Recuse=[]
+   2024-09-10 m5 [recommendation] Positive recommendation 6-1 | Aye=['Don Russell', 'David Wright', 'Cindy Wilkey', 'Don Quigley', 'Marc McElreath', 'Gordon Willardson'] Nay=['Lynette Wendel'] Abstain=[] Recuse=[]
+   2024-12-10 m2 [recommendation] Positive recommendation 4-1 | Aye=['Lynette Wendel', 'Don Quigley', 'David Wright', 'Don Russell'] Nay=['Gordon Willardson'] Abstain=['David Young'] Recuse=[]
+   2025-01-14 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=[] Recuse=['David Wright']
+   2025-01-14 m2 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=[] Recuse=['David Wright', 'Cindy Wilkey']
+   2025-01-14 m3 [final_action] 6-1 Approved (Final Action) | Aye=['Don Russell', 'Marc McElreath', 'David Wright', 'Cindy Wilkey', 'Lynette Wendel', 'David Young'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]
+   2025-01-28 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Don Quigley'] Recuse=[]
+   2025-02-25 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Lynette Wendel', 'Cindy Wilkey'] Recuse=[]
+   2025-02-25 m2 [recommendation] Negative recommendation 6-1 | Aye=['Don Russell', 'Cindy Wilkey', 'David Wright', 'Don Quigley', 'Lynette Wendel', 'Gordon Willardson'] Nay=['David Young'] Abstain=[] Recuse=[]
+   2025-06-10 m1 [procedural] 5-0 Pass | Aye=['Don Quigley', 'Marc McElreath', 'Gordon Willardson', 'David Young', 'Cindy Wilkey'] Nay=[] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-08 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['David Wright'] Recuse=[]
+   2025-07-08 m2 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Don Russell', 'David Wright'] Recuse=[]
+   2025-07-08 m4 [procedural] 4-3 Pass | Aye=['Marc McElreath', 'Cindy Wilkey', 'Gordon Willardson', 'Barbara Munoz'] Nay=['Don Quigley', 'David Wright', 'Don Russell'] Abstain=[] Recuse=[]
+   2025-07-22 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Cindy Wilkey', 'Barbara Munoz'] Recuse=[]
+   2025-07-22 m2 [final_action] Denied (Final Action, unanimous) | Aye=[] Nay=[] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m3 [final_action] 4-2 Approved (Final Action) | Aye=['Don Russell', 'David Wright', 'Don Quigley', 'David Young'] Nay=['Cindy Wilkey', 'Marc McElreath'] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m4 [final_action] 6-0 Approved (Final Action) | Aye=['Don Quigley', 'Cindy Wilkey', 'David Wright', 'Don Russell', 'Marc McElreath', 'David Young'] Nay=[] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m5 [final_action] 6-0 Approved (Final Action) | Aye=['Don Russell', 'Don Quigley', 'Marc McElreath', 'David Wright', 'Cindy Wilkey', 'David Young'] Nay=[] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m6 [final_action] 6-0 Approved (Final Action) | Aye=['Don Quigley', 'Marc McElreath', 'Cindy Wilkey', 'David Wright', 'Don Russell', 'David Young'] Nay=[] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m7 [final_action] Approved (Final Action, unanimous) | Aye=[] Nay=[] Abstain=['Cindy Wilkey', 'Barbara Munoz'] Recuse=[]
+   2025-07-22 m8 [procedural] 3-3 Fail | Aye=['Don Quigley', 'David Wright', 'Don Russell'] Nay=['Marc McElreath', 'Cindy Wilkey', 'David Young'] Abstain=['Barbara Munoz'] Recuse=[]
+   2025-07-22 m9 [final_action] 4-2 Approved (Final Action) | Aye=['Marc McElreath', 'Cindy Wilkey', 'Don Russell', 'David Young'] Nay=['Don Quigley', 'David Wright'] Abstain=['Barbara Munoz'] Recuse=[]
+   2026-01-13 m1 [procedural] Pass (unanimous) | Aye=[] Nay=[] Abstain=['Marc McElreath', 'Cindy Wilkey'] Recuse=[]
+   2026-01-27 m1 [procedural] 4-1 Pass | Aye=['David Wright', 'Cindy Wilkey', 'David Young', 'Marc McElreath'] Nay=['Gordon Willardson'] Abstain=[] Recuse=[]

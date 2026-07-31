@@ -1,0 +1,37 @@
+{
+  "contributions": [
+    {"date": "7/1/21", "name": "Salt Lake Board of Realtors", "amount": "1000.00", "in_kind": false},
+    {"date": "8/12/21", "name": "Carlton Christensen", "amount": "25.00", "in_kind": false},
+    {"date": "8/12/21", "name": "Jason Moses", "amount": "100.00", "in_kind": false},
+    {"date": "8/13/21", "name": "Max Chang", "amount": "100.00", "in_kind": false},
+    {"date": "8/14/21", "name": "Emma Houston", "amount": "100.00", "in_kind": false},
+    {"date": "8/14/21", "name": "Sam Vaitai", "amount": "100.00", "in_kind": false},
+    {"date": "8/22/21", "name": "Cheri Jackson", "amount": "100.00", "in_kind": false},
+    {"date": "9/1/21", "name": "Aimee McConkie", "amount": "250.00", "in_kind": false},
+    {"date": "9/3/21", "name": "Deveron Wilkinson", "amount": "100.00", "in_kind": false},
+    {"date": "9/17/21", "name": "Tom Love", "amount": "189.90", "in_kind": false},
+    {"date": "9/21/21", "name": "Taufa Lee", "amount": "100.00", "in_kind": false},
+    {"date": "9/24/21", "name": "Judy Barnett", "amount": "94.80", "in_kind": false},
+    {"date": "9/25/21", "name": "Ben Damstedt", "amount": "94.80", "in_kind": false},
+    {"date": "9/25/21", "name": "Dylan Ferguson", "amount": "500.00", "in_kind": false},
+    {"date": "10/8/21", "name": "IAFF Local 1696 SL County Firefighters", "amount": "94.80", "in_kind": false},
+    {"date": "10/14/21", "name": "Jacquelyn Orton", "amount": "94.80", "in_kind": false},
+    {"date": "10/28/21", "name": "Board of Realtors", "amount": "500.00", "in_kind": true},
+    {"date": "10/29/21", "name": "Tema Laussen", "amount": "250.00", "in_kind": false},
+    {"date": "10/24/21", "name": "Kristin Linder", "amount": "150.00", "in_kind": false},
+    {"date": "11/2/21", "name": "Olotomu Talamaivao", "amount": "100.00", "in_kind": false},
+    {"date": "11/16/21", "name": "Jeff Silvestrini", "amount": "1000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8/11/21", "recipient": "Millcreek City", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "10/28/21", "recipient": "Board of Realtors", "purpose": "In-kind. Data", "amount": "500.00", "in_kind": true},
+    {"date": "10/28/21", "recipient": "Salt Lake County Clerk", "purpose": "Data", "amount": "53.19", "in_kind": false},
+    {"date": "10/29/21", "recipient": "Millcreek Journals", "purpose": "September and October page ads", "amount": "1620.00", "in_kind": false},
+    {"date": "11/4/21", "recipient": "Data-Elect", "purpose": "Text and Robocalls", "amount": "433.20", "in_kind": false},
+    {"date": "11/16/21", "recipient": "Citrus Grill", "purpose": "Appreciation dinner", "amount": "573.02", "in_kind": false},
+    {"date": "11/27/21", "recipient": "Strategies 360", "purpose": "Shirts and door hangers", "amount": "1625.00", "in_kind": false}
+  ],
+  "total_contributions": "5058.62",
+  "total_expenditures": "4854.41",
+  "ending_balance": "204.21"
+}

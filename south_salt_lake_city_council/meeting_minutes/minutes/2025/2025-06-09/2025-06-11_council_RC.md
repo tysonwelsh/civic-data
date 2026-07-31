@@ -1,0 +1,495 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06112025-545
+> Meeting date: 2025-06-11
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 06112025-545 | label: Council WM Meeting 2025-06-11 | date: 2025-06-11 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06112025-545 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                    CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday, June 11, 2025
+                                                             7:00 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  Council Member deWolfe
+
+PLEDGE OF ALLEGIANCE :                                       Council Member Thomas
+
+SPECIAL RECOGNITION:                                         Mayor Wood
+Cottonwood High Scholarship Recipients
+
+SERGEANT AT ARMS:                                            Spencer Redden
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum (Zoom),
+      Nick Mitchell, Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      Paul Sanchez
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Terry Addison, Fire Chief
+       Jared Christensen, Deputy Fire Chief
+       Jonathan Weidenhamer,
+       Crystal Makin, Finance Director
+       Spencer Redden, Police Officer
+       David Wirthlin, Police Officer
+       Kelli Meranda, Promise Director
+       Jen Hill, Executive Assistant
+       Bonnie Owens, Promise Deputy Director
+       Mickaela Aliifua, Career Pathways Facilitator
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      April 2nd, Work Meeting
+      April 2nd, Regular Meeting
+
+
+                                               1
+South Salt Lake – Regular Council Meeting                                            June 11, 2025
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+         meetings, activities, etc. Next Council Meeting—June 18th @ 7pm.
+
+              Applications for the City’s Freedom Fest Parade will be received through June 13th.
+
+              City Offices will be closed on Monday, June 16th in recognition of Juneteenth.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, William, gave a statement in support of the City’s police
+          officers and their Fraternal Order of Police.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood read a statement that addressed the recent news story regarding an
+          anonymous survey conducted by the Fraternal Order of Police.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Bynum congratulated the four scholarship recipients.
+
+              Council Member Williams congratulated the four scholarship recipients.
+
+              Council Member Thomas congratulated the four scholarship recipients.
+
+              Council Member Huff congratulated the four scholarship recipients.
+
+              Council Member Mitchell congratulated the four scholarship recipients.
+
+              Council Member deWolfe congratulated the four scholarship recipients.
+
+
+
+
+                                                  2
+South Salt Lake – Regular Council Meeting                                            June 11, 2025
+
+
+        6. INFORMATION.
+              a. Promise Youth Presentation
+                 Promise Deputy Director, Bonnie Owens, along with several of the Best Buy
+                 Teen Tech Center youth gave a presentation that showed the highlights
+                 from their recent trip to San Francisco as a part of Demo Day, a national
+                 event where youth from Teen Tech centers across the nation come to
+                 showcase tech-based solutions to real-world problems.
+
+                  b. South Salt Lake Safety Month Proclamation
+                     Mayor Wood read the entire proclamation, underscoring the City’s
+                     commitment to National Safety Month. The proclamation highlights the
+                     importance of how educating on continuous safety improvement, roadway
+                     safety, worker wellbeing, remain critical to preventing injuries and deaths.
+
+Action Items
+Unfinished Business
+    1. An Ordinance of the South Salt Lake City Council Amending Section 3.11.100 of the
+        South Salt Lake City Municipal Code to Modify Culinary Water Utility Fees.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Thomas made a motion to approve the Ordinance.
+
+
+MOTION: Corey Thomas
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+New Business
+   1. Transportation Utility Fee Presentation.
+
+        A copy of the presentation is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to move this item as Unfinished Business to a
+        future meeting.
+
+
+MOTION: Clarissa Williams
+SECOND: Nick Mitchell
+                                                 3
+South Salt Lake – Regular Council Meeting                                             June 11, 2025
+
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Public Hearing – 7:25 (Or As Soon Thereafter as Possible)
+To receive public comment regarding a compensation increase for Elected and Statutory
+Officers of South Salt Lake, which is included in the proposed budget for fiscal year 2025-2026.
+
+Finance Director, Crystal Makin, reviewed the Merit and COLA increases as well as the
+differentiations between both for all employees, sworn public safety personnel, and elected
+officials.
+
+The public hearing was opened at 7:28 p.m.
+
+There was no public input received.
+
+The public hearing was closed at 7:28 p.m.
+
+There were some comments and questions made by Council Members Williams and Mitchell.
+
+The matter will receive final action as a part of the acceptance and approval of the City’s full
+budget in the Public Hearing that follows.
+
+
+Public Hearing – 7:30 (Or As Soon Thereafter as Possible)
+To receive public comment regarding the adoption of the South Salt Lake City budget for fiscal
+year July 1, 2025, to June 30, 2026.
+
+Finance Director, Crystal Makin, reviewed the final proposed budget that has been discussed at
+the last several Council meetings. There have been no additional changes made since the budget
+was proposed.
+
+The public hearing was opened at 7:32 p.m.
+
+There was no public input received.
+
+The public hearing was closed at 7:32 p.m.
+
+
+Council Member Williams made a motion to adopt the General Fund Budget for fiscal year 2025-
+2026 via Ordinance.
+                                                 4
+South Salt Lake – Regular Council Meeting                                      June 11, 2025
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Thomas made a motion to adopt the Capital Improvements Fund Budget for
+fiscal year 2025-2026 via Ordinance.
+
+
+MOTION: Corey Thomas
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Huff made a motion to adopt the Insurance Reserve Fund Budget for fiscal year
+2025-2026 via Ordinance.
+
+
+MOTION: LeAnne Huff
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Mitchell made a motion to adopt the Lease Debt Service Fund Budget for fiscal
+                                             5
+South Salt Lake – Regular Council Meeting                                     June 11, 2025
+
+
+year 2025-2026 via Ordinance.
+
+
+MOTION: Nick Mitchell
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Williams made a motion to adopt the Public Safety Service Special Revenue
+Fund Budget for fiscal year 2025-2026 via Ordinance.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Thomas made a motion to adopt the Public Works Campus Construction Fund
+Budget for fiscal year 2025-2026 via Ordinance.
+
+
+MOTION: Corey Thomas
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+                                             6
+South Salt Lake – Regular Council Meeting                                       June 11, 2025
+
+
+Council Member Huff made a motion to adopt the Transportation Utility Fund Budget for fiscal
+year 2025-2026 via Ordinance.
+
+MOTION: LeAnne Huff
+SECOND: Nick Mitchell
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Mitchell made a motion to adopt the Solid Waste Fund Budget for fiscal year
+2025-2026 via Ordinance.
+
+
+MOTION: Nick Mitchell
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Williams made a motion to adopt the Stormwater Utility Fund Budget for fiscal
+year 2025-2026 via Ordinance.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+                                              7
+South Salt Lake – Regular Council Meeting                                       June 11, 2025
+
+
+Sanchez:          Absent
+
+
+Council Member Thomas made a motion to adopt the Wastewater Utility Fund Budget for fiscal
+year 2025-2026 via Ordinance.
+
+
+MOTION: Corey Thomas
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Huff made a motion to adopt the Water Utility Fund Budget for fiscal year
+2025-2026 via Ordinance.
+
+
+MOTION: LeAnne Huff
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Mitchell made a motion to approve the Ordinance to adopt a final tax rate for
+the General Purposes of the City.
+
+
+MOTION: Nick Mitchell
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:          Yes
+Huff:           Yes
+Mitchell:       Yes
+                                              8
+South Salt Lake – Regular Council Meeting                                      June 11, 2025
+
+
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+Council Member Williams made a motion to approve the Ordinance to adopt a final tax rate for
+the Public Safety Services Purposes of the City.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+
+
+        Council Member Williams made a motion to Adjourn.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+
+
+                                              9
+South Salt Lake – Regular Council Meeting                               June 11, 2025
+
+
+
+
+       The meeting adjourned at 8:11 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            10

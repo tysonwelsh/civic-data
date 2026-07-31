@@ -1,0 +1,589 @@
+# Millcreek Planning Commission — 2023-05-17
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05172023-692
+> Meeting date: 2023-05-17
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Agenda and Packet
+- **Date:** 2023-05-17
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_05172023-692
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                      Minutes               of the
+                                                                       Millcreek            Planning               Commission
+                                                                                           May      17,      2023
+                                                                                               5:00       p.m.
+                                                                                    Regular               Meeting
+
+
+The Planning             Commission               of Millcreek,        Utah, met in a regular                  public        meeting        on Wednesday,
+May 17, 2023,              at City       Hall,     located     at 3330 S. 1300 E., Millcreek,                            UT 84106.         The meeting           was
+conducted           electronically          and live streamed            via the City's             website          with     an option       for online         public
+cornrnent.
+
+
+
+PRESENT:
+
+
+Commissioners                                                                              City     Staff
+Shawn        LaMar,        Chair                                                           Elyse       Sullivan,           City    Recorder
+Victoria         Reid, Vice        Chair         (excused)                                 John Brems,              City     Attorney
+David        Hulsberg        (excused)                                                     Robert         May,       Long         Range Planning          Manager
+Christian         Larsen                                                                   Brad      Sanderson,             Current        Planning      Manager
+Nils    Per Lofgren                                                                        Katie       Larsen,           Planner
+Skye Sieber                                                                                Sean Murray,                  Planner
+Dwayne           Vance                                                                     Jake Green,             Development              Review       Specialist
+Ian Wright          (arrived at 5:l8pm,           electronic)                              Francis        Lilly,         Planning      & Zoning        Director
+                                                                                           (electronic)
+
+
+
+
+Attendees:           David      Baird      (electronic),      Jay Johnson,         Allie       Platt
+
+
+REGULAR               MEETING               - 5:00 p.m.
+TIME         COMMENCED                     - 5:06 p.m.
+
+
+Chair     LaMar        called      the meeting             to order and read a statement                    describing             the duties    of the
+Plaru'iing       Commission.
+
+
+1. Public        Hearings
+       1.1 Consideration                 of CU-23-004,            Conditional          Use Permit                  for    a Retaining         Wall       Over      8
+       Feet in Height            Location:           4621 S. Jupiter         Drive          Applicant:              Ishan         Dillon    Planner:       Katie
+       Larsen
+       Katie     Larsen      said the applicant              was seeking        conditional               use approval             for a retaining        wall     that
+       did not meet the generally                    permitted      standards        stipulated            in Millcreek             Code 19.95.090.
+       Single     retaining        walls     are limited        to 8 feet in height,              additionally,             terraced       retaining     walls      are
+       limited      to 6 feet in height.             Residential       properties          that are not in the Foothills                      and Canyons
+       Overlay       Zone     and that have slopes that are greater                           than 30 percent                are eligible       for an
+       exemption         to the requirements,                subject    to a conditional               use pernnit           that follows        the process
+       and meets the standards                    of approval      established        in code 19.84,                     and subject       to the following
+       additional        standards:
+       1. No wall        may be greater              than sixteen       (16) feet in height,                as measured              from     finished     grade.
+       2. Walls      may be terraced.               Terraces      must be at least three feet in depth.
+Millcreek        Planning              Commission                 Meeting             Minutes                                           17     May           2023        Page       2 of 10
+
+
+
+
+     3. Walls        visible        from        rights-of-way               must         include            landscaping,            including                 at least         one tree
+
+     planted        at a minimum                 of 2"      caliper,            spaced        every         301ineal         feet        along         the retaining              wall.
+
+
+
+     Larsen         said    the     applicant          originally           proposed                to build       a single         retaining                wall     composed             of
+
+     soil   nails       and shotcrete               (shoring)            with     a maximum                   height       of 14 feet               above          the lower
+
+     driveway           where        slopes         on the property                 are 30%             or greater.          The         proposal             was      heard       by the
+
+     Mount        Olympus             Community                  Council,          wherein             they     recominended                       that      the    applicant        produce
+
+     a design        of a shorter,              terraced         wall,      to reduce              visual       impacts.          The         applicant              has provided               a
+
+     design       of two          terraced          retaining        walls        with        a maximum                 height          of 8 feet.            The      terraced
+
+     proposal         is contingent              upon       the Planning                 Director's             approval           of a drive                approach           exceeding
+
+     10%       slope,       which        has been           granted,            the proposed                 driveway         with           the      terraced         walls      would             be
+
+     on a 15%           slope.       She presented                 a slope         analysis            to the     commission                    showing              where       the slope
+
+     was     30%        or greater.
+
+
+     Larsen         reviewed           the following               staff        findings:
+            1. The proposal              must        meet Millcreek               engineering               standards       before            final       approval       is issued.
+            2. Approval            of the structural              engineer         in charge            of the design            will        be required.
+            3. An independent                 geologic           consultant          will     review          the proposal          and issue                an approval.
+            4. The applicant              must        meet all applicable                   criteria        stipulated      in the exemption                        process      in MKZ
+
+            19.95.090.
+            5. The proposal              must        meet       Conditional          Use Permit               standards          of approval                 found     in MKZ        19.84.
+
+            6. The Mount              Olympus           Community                Council           recommended               a lower           wall        height      and increased
+
+            landscaping            that is harmonious                with        the surrounding                area. Recommended                            landscaping           included
+            evergreen            trees, juniper         trees and Swedish                    ivy.
+            7. The wall/walls                will     be below           the maximum                 allowable           height     of 16 feet.
+            8. As per original               Millcreek           Engineering             approval             associated         with        the issued             building      permit        -
+
+            "Conditional             Approval           has been granted,                   based       on debris         mitigation            at the time            of landscaping.
+
+            The Certificate              of Occupancy               should         be held until              a licensed      geologist               can verify          with     Millcreek's
+
+            geologist,           that the mitigation              is sufficient             once landscaped."
+            9. The applicant               has provided             a written         landscaping              plan.
+                            A. Commitment                 to plant         2" caliper          tree every         30' along             the walls.
+                            B. Addition             of cascading           landscaping,                such as creeping                 juniper           along      the wall.
+
+            10. Per Millcreek                Code       Section          14.12.110           the planning              director         can approve                 an exception          to the
+
+            10%      drive       approach           slope rule within               20 feet of the roadway.                       The maximum                       slope the director
+
+            can approve             is 15%.
+            11. The single-family                     home       built     on site was reviewed                     and approved                   by Millcreek              Planning       and
+
+            Engineering             in 2021.         Before       2021,         the property            was vacant.
+            12. The design               of the new,            terraced         walls      will     be in harmony               with        the surrounding                 neighborhood
+            by using         similar       material,        such as oxidized                  steel panels.
+
+
+      Larsen        then     made         conclusions              based         on the staff               findings:
+
+            1.      The      proposal           preliminarily               meets        the criteria            outlined           in MKZ                19.95.090.
+
+                            a.     Areas        where        the retaining               wall        will     be located            are on slopes                    of 30o/o plus,             and
+
+                                   not    located         in the Forest               Compatibility                 Overlay              Zone         (FCOZ).
+
+                            b.     Landscaping                must        be approved                  by Millcreek               Planning                and Zoning             at the
+
+                                   Certificate           of Occupancy                    (C/O)         inspection           as per           MKZ           19.95.090.
+
+            2.      Prior        conditions           of approval               stipulated             in the building              permit             for    the single-family
+
+                    residence            must       be met.
+Millcreek             Planning           Commission           Meeting         Minutes                            17 May        2023       Page 3 of 10
+
+
+
+                3.     The applicant             listened    to the community            and proposed           a design       in hari'nony        with     the
+                       Mount       Olympus          neighborhood.            Staff recommends             that the planning           commission
+                       approve         the proposal         to construct        two eight-foot        terraced      retaining      walls.
+
+
+        Chaij        LaMar       asked about the length                  of the walls.      Larsen      said a maximum             of 30 feet where                it
+        exceeds         heights        of 8 feet. He asked about the evergreen                       landscaping           recommendation              from
+        the community                 council.      Larsen      said the trees would            be planted         along the top portion              of the
+        wall      where        tlie terraces       were located.          Chair     LaMar      asked about the distance               between         the
+        walls.       Larsen       said 8 feet. Cominissioner                  Vance      asked about the driveway                  grade changing
+        because         of the terracing.            Larsen      said it would        be steeper with          the terraces;       it was 10%          and
+        would         be 15%.
+
+
+        The applicant             was not present            for coinment.
+
+
+        Chair        LaMar        opened        the public       hearing.
+
+
+        Elyse        Sullivan      read an online            comment         from    Nikole     Bench,      1530       S. West Temple,             "Please
+        be advised that any plans for demolition or development on the properties located at 4261 S
+        Jupiter Drive and 3564 S 1100 E must be submitted to the Development Services office at
+        1530 S West Temple, Salt Lake City, 84115. Salt Lake City Department of Public Utilities is
+        the water service provider for both properties."
+
+        Chair        LaMar       closed        the public     hearing.
+
+
+Commissioner                   Sieber      moved,         as respects        to application          CU-23-004,           conrlitional        u,.+c   permit
+for a retaining                wall     over     8 feet in height           at 4621 S. Jupiter            Drive,     recommended               the
+Planning             Commission             approve         the conditional           use permit        with       the conditions           stated     in the
+staff     report.        Commissioner                 Lofgren          seconded.      Chair     LaMar         called      for the vote.        Chair
+LaMar           voted     yes, Commissioner                   Larsen        voted     yes, Commissioner                Lofgren        voted     yes,
+Commissioner                   Sieber      voted        yes, Commissioner              Vance      voted     yes, and Commissioner                      Wright
+voted      yes.       The motion            passed       unanimously.
+
+
+    1.2 Consideration                      of ZM-23-003,               Rezone       Request      from     R-1-8      to R-1-5       on the Northeast
+        Portion        of the Property               Location:           3564 S. 1100         E. Applicant:          Austin      Dent     Planner:
+        Katie        Larsen
+        Katie        Larsen      said the purpose            of the rezone          was to allow        a smaller      minimum           lot frontage
+        than what would                 otherwise        be allowed         in the current       zone. If approved,             the zone change
+        would        enable the applicant                to get three residential             lots, whereas        the current      R-1-8      Zone only
+        allowed        for two residential               lots. She described           the subdivision.            Much     of the lot width           would
+        be reduced         due to the creation               of a new access on the northern                    portion       of the of the property
+        to create an access for proposed                        "lot     2". The lots would          be arranged          in such a way that
+        proposed        "lot     1" would          become       a flag lot, resulting          in two lots. The southern                 portion      of the
+        property        could      then be subdivided                  to create a new "lot        3" with      a private       access that was
+        already        established         by an existing          prescriptive        easement.        The rezone         would      align with        the
+        General        Plan Goal N-1,              to preserve          and enhance      the physical          elements       that define       each
+        neighborhood's                character.        If the rezone       was granted         and the lot was subdivided,                   each home
+        would        have to comply              with    underlying         zone requirements             as well      as meet conformance                  with
+        the Residential               Compatibility         Overlay        Zone     (RCOZ).       The lot was currently               vacant       and had
+Millcreek        Planning        Commission            Meeting          Minutes                              17 May       2023       Page 4 of 10
+
+
+
+    never been developed.                 The surrounding               neighborhood             was largely      made up of single               and
+    multi-family            uses. The property              was located         in the Neighborhood              1 future        land use
+    classification.          Neighborhood            l's primary           use is single-family              detached     homes,      with       a density
+    of 1-6 dwellings            per acre.
+
+
+    Larsen         reviewed     her staff findings:
+            1. The entire property              is O.72 acres or, approximately                     31,363      square     feet in size.
+            2. The applicant           wishes      to subdivide          into three lots, which              causes a challenge             due to the
+            narrowness         of the parcel        near the north-east               portion     fronting     1100      East.
+            3. Lots in the R-1-8           Zone require              a 65-foot     lot width,      whereas       the R-1-5         Zone would
+            allow     for a minimum          lot width         as little    as 25 feet whereas               the proposed         width     is 53 feet.
+            4. The purpose           of the rezone           is to allow     the applicant          to get 3 lots, the current              R-1-8
+            zoning     only allows        for 2 lots.
+            5. The proposal           is in harmony           with     the future       land use designation,             as it complies          with
+            housing      type and density.
+            6. The applicant           held a neighborhood                 meeting       onsite    on April      12, 2023.        Several        people
+            from     the surrounding         area showed              up, mainly         with    questions      as to what was happening;
+            the consensus           was positive.
+
+
+    Larsen         said the Millcreek           Community             Council      unanimously          approved         the application             as
+    proposed         by staff with        the recommendation                  that a zone condition              be added to the property
+    limiting        the site to three lots. The zone condition                         would      run with      the land longer           than a
+    development             agreement       would.      The proposed               development         agreement          included        provisions         on
+    dedication,        utilities,      screening,      density,        lighting,      detached        accessory       dwelling       units,      and
+    driveway          and access widths.            She concluded             that:
+            1. The applicant          wishes      rezone       to R-1-5      to allow       for further       density     and a smaller           lot
+            width     for the proposed            'lot 1.'
+            2. The proposal           is in harmony           with     the future       land use designation,             as it complies          with
+            housing      type and density.
+            3. The rezone           application      will     be accompanied              by a development              agreement;         the
+            agreement         would     run with      the land for 10 years.                Staff welcomes            feedback       on the
+            conditions        of the agreement.
+            4. The rezone           application      may also include               a zone condition           on the property            limiting        the
+            site to three lots now and into the future.                         A zone condition             can run with         the land
+            indefinitely.
+
+
+    Commissioner              Lofgren      asked about the prescriptive                     easement.         He did not want to approve                     a
+    lot that was not guaranteed                   access. Larsen            said there was recognition                  of it in a recorded             deed.
+    Commissioner              Vance      asked about the location                  of the prescriptive           easement.         Larsen        showed
+    on the site map the location                   of the easement,              where     the existing        driveway      was. She was not
+    sure about the ownership                 of it. Chair         LaMar       asked about the R-1-5               setback.        Larsen       said the
+    side yard was 8 feet, the front                   was 25 feet, and the back was 20 feet. Chair                               LaMar        noted the
+    density        would      be the same, aside from                 the needed         lot width.
+
+
+    Joe Jobnson,            Jay Development,            said they were hoping                   to utilize     the parcel        as best as they
+    could.      This was not a matter               of density,        but the lot width.           The easement           runs concurrent                with
+    the property            they were purchasing.              The existing           property     outside      of the rezone         benefited
+    from      the easement.           Those property            owners       support      the development.
+Millcreek          Planning         Commission          Meeting            Minutes                           17 May           2023      Page 5 of 10
+
+
+
+
+    Chair      LaMar         opened       the public      hearing.
+
+
+    Elyse      Sullivan        noted the prior         online      comment           also pertained         to this application.
+
+
+    Chair      LaMar         closed     the public      hearing.
+
+
+    Commissioner               Vance      thought      the rezone           made sense and appreciated                   the zone condition.
+    Coinmissioner              Larsen     was pleased          to see the proposal.             Commissioner                 Sieber felt the
+    comparative             analysis     by the developer             on the lot size in comparison                    to the character             of the
+    neighborhood              provided      in the staff report             was great inforination.
+
+
+Commissioner               Larsen,      based     on the findings              and conclusions              listed     within        the staff       report,
+moved       that    the Planning            Commission            forward         a recommendation                   to approve          the rezone,
+development           agreement           and zone condition                  associated       with       application          file ZM-23-003.
+Commissioner               Sieber      seconded.       Chair       LaMar         called    for the vote.             Chair      LaMar         voted       yes,
+Commissioner              Larsen       voted     yes, Commissioner                   Lofgren       voted      yes, Commissioner                    Sieber
+voted     yes, Commissioner                 Vance      voted      yes, and Commissioner                      Wright          voted     yes. The
+motion      passed        unanimously.
+
+
+Commissioner              Lofgren      recused      himself      from       item 2.1 and left the room                  at 5:36 p.m.
+
+
+2. Continued          Items
+    2.I     Consideration             of ZM-22-009,            Request         to Rezone        from        Commercial               (C) to
+    Residential            Multi-Family           (R-M)       and Amend              the Future           Land       Use Map         within        the
+    General          Plan     by Changing           the Designation              from      Commercial/Office                    to Neighborhood                   2
+    Location:         3739 S. 900 E. Applicant:                      Lotus      Homes       Planner:          Brad      Sanderson
+    Brad      Sanderson         said the application             was for a rezone,             land use amendment,                   and development
+    agreement.            He noted the site was formerly                     the home      of the Fat Cats bowling                    business.          The
+    2.7 acre commercial                 site was considered                substantial     and required            a 30% ground           floor
+    commercial            component         for development.                The rezone      was for a portion                of that property.               He
+    said the mid-block               location     was difficult            for a successful        business.         He presented          the site plan
+    for the site which              included     a 3,000 square foot restaurant                     on the northwest             corner,       9
+    live/work        units     abutting      900 East, 50 additional                 residential      units,       40 onsite parking               stalls,
+    each unit would             have a two car garage,                    and 9 onstreet       parking       stalls on 900 East. He'noted
+    the right-of-way             on 900 East would               sliift    to the east to accommodate                   the onstreet          parking.
+    There     would         be shared parking           to the north          of the property         on the adjacent             site. This
+    development             would      create a standard           road from         900 East to the residential                 development                 to
+    the east of the property.               He showed           the coinmission            renderings          of the live/work           units,         the site
+   plan,     a bus shelter           for 900 East, and the building                   elevations.         The development               agreement
+    acknowledged              uses, building         orientation,           ownership,      access and parking,                 amenities,
+    landscaping,            architecture,       and utilities.
+
+
+    Commissioner              Sieber      asked about signage                for the live/work            units.     Sanderson         said the sign
+    code would            dictate    that, but he would             work      that tmough          with     the developer.            Chair    LaMar
+    asked about the parking                  on 900 East being               time limited.         Sanderson          said it would           be
+   unrestricted           since it was in the public               right-of-way.          Chair     LaMar          wondered          about spill         over
+   parking         from     other properties         taking       over those spots.
+Millcreek         Planning         Commission              Meeting       Minutes                              17 May          2023         Page 6 of 10
+
+
+
+
+      Allie     Platt,    Lotus      Company,          noted they designed              awnings        for the live/work             units    to
+      accommodate             signage.         She was okay if the street parking                     was restricted           on 900 East. She
+      said the developers               were proud          of the open space park. They planned                         to have swings,               a
+      pickleball         court,    a BBQ/fire         pit area with         a pergola,       and a gated dog area. The site had a full
+      perimeter          walking       path.
+
+
+      Sanderson           said the Millcreek              Coinmunity         Council     brought        up wanting           a mixture        of housing
+      types in the neighborhood,                     wanting       more owner          occupancy,           and had a concern               about losing
+      comi'nercial         property.        He said there was no affordable                    housing        component             with     the
+      development            agreement.          The council         voted      to recommend            approval       6-2.
+
+
+      Chair      LaMar       invited       public     comment.        There      was none.
+
+
+      Chair      LaMar       noted the 49 to 40 surface                 parking        stall change.         He said exhibit           d referenced
+      exhibit      c, but he could             not find it. Sanderson            said the exhibits           would      probably           be combined,
+      but exhibit         c was the site plan and renderings.                      Commissioner              Vance      appreciated           the balance
+      of uses and design               for open space. He would                  like more          owner    occupancy          and wondered                  if the
+      townhome            units    could be individually              platted     for the option         in the future.         Commissioner
+      Larsen       echoed the owner                occupancy         sentiments.       He appreciated              the quantity        and quality              of
+      amenities.         Chair     LaMar        appreciated         the site as well.        Commissioner              Sieber       noted     the nice
+      public      amenities        on 900 East. She felt parking                   and signage          could be addressed                 with     the
+      conditional         use pen'nit.
+
+
+Commissioner               Larsen,         regarding        ZM-22-009,           based       on the findings            and conclusions                listed
+within        the staff     report       and all other            information         presented,         moved        that     the Planning
+Commission               recommend             to the City        Council       approval       of the following:               an ordinance                to
+amend         the land       use designation              of a certain       portion       of the property             from
+Retail/Commercial                  to Neighborhood                 2 as described          therein;         and,    an ordinance             to rezone               a
+certain       portion       of property            from     the Commercial              C-3 Zone         to the Residential                Multifamily
+R-M       Zone     as described            therein;        and,    an ordinance          authorizing           the City        to enter        into       a
+development              agreement          with      the developer,          which      specifies       the use of property,                 concept
+layout,       elevations,         timing       of development,            and other          design     and improvement                    criteria,          as
+proposed;          and, with         the additional            recommendation                that     all units      be platted        for potential
+owner         occupancy.          Commissioner              Vance      seconded.         Chair       LaMar          called     for the vote.           Chair
+LaMar         voted      yes, Commissioner                  Larsen      voted     yes, Commissioner                  Sieber      voted       yes,
+Commissioner               Vance       voted        yes, and Commissioner                  Wright       voted       yes. The motion                passed
+unanimously
+
+
+Commissioner              Lofgren       rejoined       the meeting          at 6:06 p.m.
+
+
+      2.2 Consideration                of ZT-23-007,              Amendments            to Title      19 Updating             Definitions,
+      Renaming            the Residential             Mobile       Home       Zone      (RMH)         to the Mobile            Home         / Tiny        Home
+      Zone       (MHTH),           and Amending                and Adopting            New     Standards            for the MHTH               Zone
+      Planner:           Sean Murray
+      Sean Murray            said the application              was a continuance             from     the prior       meeting.        Millcreek's               code
+      currently       includes       a Residential          Mobile      Home       Zone that was inherited                   from     Salt Lake
+Millcreek        Planning         Commission              Meeting          Minutes                            17 May          2023       Page 7 of 10
+
+
+
+    County         and was intended              to manage          the usage of mobile             home parks within                Millcreek.             There
+    are currently          no properties           in Millcreek         with    this zoning        designation.          Changes         to this chapter
+    include       adding       tiny homes          as a permitted           use within        this zone as well          as    adding      certain
+    requirements           and design           standards.        The proposal         helps to achieve             General       Plan Goal N-2 to
+    provide        a variety      of housing           typologies.         Manufactured           home    and tiny home              developments
+    have often been designed                     to create a community                feel. These developments                    could potentially
+    be catered to populations                    needing        extra support,        such as for the elderly                 or disabled.        The
+    future      land use map does not call out a specific                            manufactured          home        or tiny home area in
+    Millcreek,          however,       areas designated              as Neighborhood              2 or Neighborhood               3 would          likely         be
+    the best fit for the use.
+
+
+    Murray        said revised         clianges        from     the proposal         at the last meeting            included         that the new
+    mobile       home      and tiny home parks must be platted                           to provide       ownership            opportunities.            The
+    tiny homes pads must be at least 20 feet by 40 feet. With                                       setbacks,       this makes the buildable
+    area about a 225 square foot minimum.                              Each tiny home              dwelling      must be at least 200 square
+    feet. The manufactured                    homes       require     two parking         spots per unit and tiny homes                      require          I
+    parking        spot per unit.        He noted there was a 54 unit per acre density.                                He expressed              a national
+    desire      for smaller        living      as house prices             have increased         and at risk populations                find barriers
+    to housing.          The community              councils        all recommended               approval     of the ordinance.                 The
+    Millcreek           Community            Council      recoinmended             removing        short term rentals            as a use in the
+    zone. Staff disallowed                   them in the ordinance.                Murray's       staff findings         and conclusions                were:
+    1.      Amending        Title     19 updating           definitions,        renaming         the RMH        Residential          Mobile        Home
+            Zone to the MHTH                  Mobile      Home       / Tiny     Home      Zone,      and amending              and adopting             new
+            standards      for the MHTH                Zone     supports       the General        Plan by providing              more      housing
+            types which        can support          various       populations,         as described          in the staff report.
+    2.      Proposed       updates      to the spatial           requirements         allow       for more opportunity               to build          Tiny
+            and Mobile         Homes          as Millcreek        is a built-out       city, the current            5-acre requirement                 is
+            virtually     impossible           to acquire.
+    3.      Mobile       and Tiny      Homes         are only        allowed       as part of a Mobile           Home          Park, Mobile             Home
+            Subdivision,        a Tiny        Home        Park, or a Tiny          Home       Subdivision.
+    4.      Interested     parties      looking         to rezone      to the MHTH             zone must file an application                      with
+         planning         to ultimately          be decided          by the City       Council.       This rezone         would         likely     include          a
+            development           agreement.
+    5.      Changes       to the draft ordinance                add more        stringent        design   standards           as well     as ownership
+         opportunities.
+    6.      Staff has not received               comment         regarding         MHTH          zone updates          from     residents.
+    7.   Text Amendments                     and Ordinance           approvals        are legislative         items,     to be decided            by the
+         Millcreek         City     Council        upon receiving             a recoinrnendation             from    the Community
+         Council(s)         and the Millcreek                 Plaru'iing     Commission.
+    8.   Staff recommends                   that the Planning          Cornrnission           gives a positive          recommendation                   on
+         ordinance         ZT-23-007            to the City         Council     as proposed          by staff.
+
+
+   Murray         recommended                a positive     recommendation               to the city council.            Chair       LaMar        asked
+   about individual             utilities.      Murray        said they would           likely     all have their        own meters.              Chair
+   LaMar         asked about Salt Lake City's                     tiny home          development          square footage             requirement.
+   Murray         did not know          what it was. Chair                 LaMar     wondered        about decreasing                the minimum
+   square footage.             Murray         pointed      out there was an 8 unit minimum                       park for a subdivision.
+Mfflcreek        Planning          Commission             Meeting       Minutes                               17 May         2023       Page 8 of 10
+
+
+
+    Chair       LaMar       invited      public     coinment.         There     was none.
+
+
+    Coinmissioner              Vance      appreciated         the individually            platted       lots. Coinmissioner             Larsen     was
+    opposed          to incorporating            tiny homes         into the ordinance             because       it did not help with            housing
+    affordability.          Housing        that was not single              level,     but stacked        multifamily,         would      be better in
+    that regard.          Coininissioner           Wright         asked if the public           had inquired         about this use. Murray
+    said no, it was an attempt                    at a modern        standard.         Commissioner             Wright       wondered      about
+    requiring          more tlian 8 units to encourage                   larger       parks.     Murray      said the intent           was to allow        for
+    infill     development.
+
+
+Commissioner              Vance       moved        that     the Planning             Commission           recommend             that    the City
+Council        adopt      an amendment               to Title      19 updating           definitions,        renaming           the RMH
+Residential          Mobile       Home       Zone     to the MHTH               Mobile          Home      / Tiny     Home        Zone,     and
+amending         and adopting             new standards              for the MHTH                Zone,      based      on the findings           and
+conclusions           as presented         by staff.        Commissioner               Sieber     seconded.          Chair     LaMar       called      for
+the vote.      Chair       LaMar         voted     yes, Commissioner                  Larsen        voted    no, Commissioner               Lofgren
+voted     yes, Commissioner                  Sieber       voted     yes, Commissioner                   Vance      voted     yes, and
+Commissioner              Wright       voted       yes. The motion             passed.
+
+
+3. Commission              Business
+    3.1 Approval              of April       10, 2023 Special            Meeting          Minutes
+
+
+Chair        LaMar        moved       to approve          the April      I0th meeting             minutes        as presented          in the packet.
+Commissioner              Larsen       seconded.          Chair      LaMar           called     for the vote.        Chair      LaMar      voted       yes,
+Commissioner              Larsen       voted      yes, Commissioner                   Lofgren       abstained,         Commissioner              Sieber
+voted     yes, Commissioner                  Vance        voted     yes, and Commissioner                    Wright        voted       yes. The
+motion        passed.
+
+
+    3.2 Approval              of April       19, 2023 Regular               Meeting           Minutes
+
+
+Chair        LaMar        moved       to approve          the April      Igth minutes             from      the regular        meeting.
+Commissioner              Lofgren        seconded.          Chair      LaM[ar         called     for the vote.        Chair      LaMar       voted       yes,
+Commissioner              Larsen       voted      yes, Commissioner                   Lofgren       voted       yes, Commissioner             Sieber
+voted     yes, Commissioner                  Vance        abstained,        and Commissioner                  Wright         voted     yes. The
+motion        passed.
+
+
+    3.3 Updates            from       the Planning           and Zoning           Director
+    Francis       Lilly    reported       that he went to the International                      City    Manager's           Association
+    Conference            in Kentucky.           The purpose          of the conference             was to talk about public               engagement
+    and sustaining            democracy.           He invited        the commission              to purchase         a dedicated        paver that
+    would       be placed         in front     of the new city hall.
+
+
+    3.5 Zoning            and Subdivision             Code         Update
+    Robert       May       said the city was taking                the R-1 zones and Residential                     Compatibility         Overlay
+    Zone (RCOZ)               and fusing         them together         instead        of having         a separate     RCOZ          code chapter.        He
+    showed           a map of the R-1 zones in Millcreek.                       The RCOZ             was adopted           in 2009 as an overlay
+    zone covering             the majority         of residential       zones in Millcreek.                 It was meant         to balance
+    neighborhood              compatibility          for those who wished                to expand,         develop,       improve       or otherwise
+Millcreek       Planning           Commission                Meeting        Minutes                              17 May         2023          Page 9 of 10
+
+
+
+    make exterior             modifications               to single     family     dwellings         and further       restrict      residential
+    development             in ternns of heiglit,             setbacks,       lot coverage,          and massing.            The R-I      zones mean
+    residential         - single         family     - square feet of lot. He showed                     maps highlighting                the different              R-
+    1 zones in the city. May                      said the standards             found     in the R-1 zone and RCOZ                      needed to be
+    revisited      and updated.             Issues arise among                those submitting              for a building         permit       or simply
+    striving      for compliance              within        the R-1 zones because most people                          are unaware            the RCOZ
+    exists     and supersedes               the R-1 zones.
+
+
+    May       said the R-I         zones update              process      included        public     feedback         from    an online         survey,
+
+    monthly        steering        coinmittee          meetings,         and weekly          code update         meetings         with    the consultant.
+    The proposed              changes        included         an increase        in the rear yard setback                from      15 to 20 feet. The
+    lot coverages           would         remain      the same. They revised                    the combined          setback       requirements             of
+    25% to only           apply      to lots that are 150%                 of the required           lot width       of the zone. Otherwise,                   a set
+    distance      is required            for side yard setbacks.                 He showed          a rendering        of the combined              side yard
+    setback.      The combined                side yard setbacks              for any main           structure       shall be at least 25% of the
+    lot width      with       no side setback              less than 8 feet. This was a tool to prevent                           massing.         Building
+    height      would       be increased            from      28 feet to 30 feet for R-1-8,                  R-1-6,     R-1-5,      R-1-4,       and R-1-3
+    zones only.          The building              envelope          dimensions         would      remain     the same for R-1-8                and greater
+    zones. The suggested                   building         envelope       alternatives          included      creating       an option        with       a 60
+    degree building              envelope          with     a 12 foot wall         height       for R-1-6      zones only          and creating           an
+    option      with     a building         envelope          box for R-1-5,            R-1-4,      and R-1-3        zones only.         The envelope
+    would      be placed          on the setback             line instead        of the property            line. He said, historically,                  RCOZ
+    has never       applied        to these zones.
+
+
+    May      said the proposal              would         provide       clarification       and new definitions.               It would        revise
+    language       for gables            and dormers           projecting        into the building            envelope,       revise      language
+    allowing       architectural            elements         to project       outside      of the building           envelope,        and provide            the
+    existing      RCOZ         option       B as a neighborhood                  compatibility         modification.            He said the proposed
+    code would           add images           to explain            the concepts.        The RCOZ           option     C would         be removed              in
+    favor     of a 7ariance          procedure
+
+
+    Commissioner              Larsen        appreciated          the changes            to the height       of the building           envelope         to 30
+    feet. He found            value in the box shape for the smaller                             zones. May          felt it was not much                 of a
+    difference         from      the prior        28 feet.
+
+
+   3.4 Sidewalk             and Trails            Master        Plan      Discussion
+   Robert       May       said Millcreek            received          a Transportation             and Land Use Connection                     (TLC)       grant
+   from      the Wasatch           Front      Regional          Council       for the development                of a sidewalk           and trails
+   masterplan            as an expansion             of the Walk           Millcreek        Plan. The sidewalk               and trails        masterplan
+   would       prioritize        neighborhoods               with     missing      or substandard            sidewalks        and safety         concerns,
+   identify      existing        trail     and future        trail    opportunities,         create a plan that reaches                  out to all user
+   groups,       provide         infrastructure            policy     meant      to increase        access to key destinations                   within
+   Millcreek,          create a well-connected                      network      of sidewalks         and trails,       and focus        on areas where
+   pedestrian          infrastructure             was poor.         The plan would           include        a sidewalk        deferral        process      as the
+   current      code did not include                  a formal         sidewalk         exception      process.       May     created         a sidewalk
+   map book            divided      by community               councils       to highlight          sidewalk      priority        areas. There          would
+   also be reference              maps.       Chair        LaMar       wondered          about levels        of sidewalk          priority,      such as a
+   certain      linear      amount.        May      said the community                   councils     would      just identify         priority,       not
+Millcreek        Planning         Commission            Meeting           Minutes                         17 May         2023       Page 10 of 10
+
+
+
+       levels    of priority.      Commissioner           Sieber          asked if the plan would          consider       logical     crossings
+       between      sidewalks.       May      confirmed.
+
+
+4. Calendar          of Upcoming           Meetings
+   *    East Mill       Creek     Community            Council          Mtg.,     6/1/23,   6:30 p.m.
+   *    Mt.     Olympus         Community        Council         Mtg.,       6/5/23,     6:00 p.m.
+   *    Millcreek       Community            Council     Mtg.,          6/6/23,    6:30 p.m.
+   *    Canyon       Rim    Citizens    Association            Mtg.,         6/7/23,     7:00 p.m.
+   @ Historic        Preservation       Commission               Mtg.,       6/8/23,     6:00 p.m.
+   *    City    Council     Mtg.     6/12/23       7:00 p.m.
+   *    Planning        Commission         Mtg.,    6/21/23,            5:00 p.m.
+
+
+
+ADJOURNED:                  Commissioner               Larsen           moved      to adjourn        the meeting      at 7:08 p.m.
+Commissioner              Vance     seconded.          Chair       LaMar           called   for the vote.    Chair        LaMar       voted   yes,
+Commissioner              Larsen     voted      yes, Commissioner                      Lofgren   voted    yes, Commissioner              Sieber
+voted     yes, Commissioner              Vance         voted      yes, and Commissioner                  Wright      voted      yes. The
+motion         passed     unanimously
+
+
+
+
+                                                            Shawn LaMar.                 Chair
+                                                                                                                  Date
+                                                                                                                           ! /zl2oz3
+                                                                  (./    r
+                                   Attest:                 Elyse Shffiv"an, City Recorder

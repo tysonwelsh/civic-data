@@ -1,0 +1,86 @@
+{
+ "date": "2022-09-08",
+ "year": 2022,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2022/2022-09-05/2022-09-08_planning-commission-meeting.md",
+ "present": [
+  "Jessica Lucero",
+  "Ken Heare",
+  "Roylan Croshaw",
+  "Jordy Guth",
+  "Sara Doutre"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre moved to conditionally approve a Conditional Use Permit for PC 22-051 with the conditions of approval and findings for approval as listed below. Commissioner Heare seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Ken Heare",
+   "aye": [
+    "Jessica Lucero",
+    "Ken Heare",
+    "Roylan Croshaw",
+    "Sara Doutre",
+    "Jordy Guth",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare moved to Continue a Design Review Permit for PC 22-053 to the October 13, 2022 meeting. Commissioner Croshaw seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "6:0 Pass",
+   "kind": "procedural",
+   "mover": "Ken Heare",
+   "seconder": "Roylan Croshaw",
+   "aye": [
+    "Jessica Lucero",
+    "Ken Heare",
+    "Roylan Croshaw",
+    "Sara Doutre",
+    "Jordy Guth",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the August 25, 2022 meeting as submitted",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Ken Heare",
+   "seconder": "Sara Doutre",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 3
+  }
+ ]
+}

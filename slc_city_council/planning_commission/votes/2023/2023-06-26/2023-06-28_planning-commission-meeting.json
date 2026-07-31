@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "date": "2023-06-28",
+    "year": "2023",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2023/PC06.28.2023/PC06.28.2023minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2023/2023-06-26/2023-06-28_planning-commission-meeting.md",
+    "present": [
+      "Maurine Bachman",
+      "Mike Christensen",
+      "Aimee Burrows",
+      "Rich Tuttle",
+      "Andra Ghent",
+      "Anaya Gayle",
+      "Amy Barry"
+    ],
+    "absent": [
+      "Jon Lee",
+      "Brenda Scheer",
+      "Levi Oliveira"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve these applications as follows: 1",
+      "description": "approve these applications as follows: 1",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Anaya Gayle",
+      "result": "6:1 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Rich Tuttle",
+        "Andra Ghent",
+        "Aimee Burrows",
+        "Mike Christensen",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve these applications, both the Design Review request and the Planned Development",
+      "description": "approve these applications, both the Design Review request and the Planned Development",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Anaya Gayle",
+      "seconder": "Rich Tuttle",
+      "result": "7:0 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Aimee Burrows",
+        "Andra Ghent",
+        "Amy Barry",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Maurine Bachman"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation to City Council for this application",
+      "description": "forward a positive recommendation to City Council for this application",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Anaya Gayle",
+      "seconder": "",
+      "result": "Positive recommendation 5:2",
+      "tally": {
+        "yes": 5,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Andra Ghent",
+        "Rich Tuttle",
+        "Anaya Gayle",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Aimee Burrows",
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

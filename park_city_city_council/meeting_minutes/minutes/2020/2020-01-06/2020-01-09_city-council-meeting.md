@@ -1,0 +1,1235 @@
+# Park City Council Meeting — 2020-01-09
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4282,plainText=false)
+> Meeting date: 2020-01-09
+> Format: text
+
+---
+
+
+PARK CITY COUNCIL MEETING MINUTES
+445 MARSAC AVENUE
+PARK CITY, SUMMIT COUNTY, UTAH 84060
+
+January 9, 2020
+
+The Council of Park City, Summit County, Utah, met in open meeting on January 9,
+2020, at 4:15 p.m. in the City Council Chambers.
+
+Council Member Joyce moved to close the meeting to discuss property and personnel
+at 4:15 p.m. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+CLOSED SESSION
+
+Council Member Joyce moved to adjourn from Closed Meeting at 5:00 p.m. Council
+Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+WORK SESSION
+
+Discuss the Implementation of Candidate Filing Fees for Municipal Elections:
+Michelle Kellogg, City Recorder, presented this item. She noted the trend across the
+state for implementing candidate filing fees as a way to dissuade those filing for office
+that were only interested in benefitting professionally or personally from having their
+name on a ballot. She indicated those who gave monetary consideration or time in any
+endeavor, valued that thing, and she hoped all potential candidates would have the
+desire to serve the community as the main reason for filing for office.
+
+Kellogg proposed to implement a $150 fee for Mayoral candidates and $100 fee for
+Council candidates with a provision that those who file could have the fee waived if they
+brought in 100 signatures from Park City registered voters.
+
+Council Member Gerber asked who would verify the signatures, to which Kellogg
+indicated the County Clerk would verify the signatures were valid. Council Member
+Henney asked if the County would charge for the signature verification, to which Kellogg
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|2
+
+thought there would not be a charge, and noted she didn’t think the majority of
+candidates would opt for the signature collection option when filing for office.
+
+Council Member Henney favored creating a qualification requirement such as the
+current fee/signature collection proposal. Council Member Doilney felt 100 signatures
+was a fair number to assess, and supported the fee/signature proposal.
+
+Mayor Beerman asked how many registered voters were in the City, to which Kellogg
+indicated there were a little over 5,000, so 100 signatures was approximately two
+percent of registered voters. Mayor Beerman thought the option of collecting signatures
+was a great alternative that could be offered to candidates who didn’t want to pay the
+filing fee.
+
+Kellogg stated she would bring this back to a future meeting as a code amendment.
+Council Member Joyce requested to clarify the process for verifying signatures, the
+timeframe for turning in signatures, lack of a sufficient number of signatures, etc.
+Council Member Henney asked if there could be a delayed filing period for those that
+opted to collect signatures. Council Member Gerber thought those running for office
+should be prepared and should have thought out the commitment prior to filing. Kellogg
+asserted there was a provision in state code where the validity of a candidate could be
+contested up to five days after the filing period was closed, so that would give the
+County Clerk enough time to verify the 100 signatures that a candidate brought in. If the
+number came up short of 100, the candidate would not be eligible to run for office. She
+indicated she would be advising candidates to collect more than 100 signatures in order
+to have a buffer in the event there were signatures from people that weren’t registered
+voters in Park City.
+
+Update on Zoning Recommendations for the Local Parks Preservation Master
+Plan:
+Tate Shaw, Recreation Services Manager, Eric Hoffman, Ed Parigian, and Jane
+Campbell were present for this item. Shaw reviewed the Recreation Advisory Board
+(RAB) visioning process and research for five parks within the City: Creekside Park,
+Rotary Park, Prospector Park, City Park and the golf course. Campbell stated the
+master plan was written to protect parks for future generations. They added barriers in
+the plan for changing the use of the parks as they exist now, but it would still be
+possible to change the use with voter approval. Hoffman reviewed the barriers,
+including holding five public meetings over a three month period, four affirmative votes
+by the City Council, and a voter referendum within 180 days of Council approval, with a
+60% voter approval minimum in order to effect the change. Parigian indicated RAB tried
+to clean up the Recreation Open Space (ROS) zoning, but these five parks didn't fit into
+the zoning categories. They created an Urban Park Zone (UPZ). Shaw stated an UPZ
+could be an overlay within another zone. Hoffman stated the hope was to preserve the
+parks moving forward.
+
+Park City                                Page 2                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|3
+
+Campbell asked if the proposed zoning could be taken to the Planning Commission for
+a recommendation before bringing it back for approval. Council Member Gerber asked if
+public art could be part of the zoning, to which Shaw stated he would look at the
+language for those zones.
+
+Council Member Worel noted one of the conditional uses included a child care center,
+which she thought would allow summer camps. She asked if that language would also
+allow for child care providers, such as PC Tots. Shaw indicated those providers would
+be allowed, but would need a City agreement. Council Member Worel thought some of
+the conditional uses were flexible, but she felt a child care center was commercial, and
+those shouldn’t be allowed in the park. Shaw noted he would work on that language. It
+was indicated there were limits to the size of the building. Shaw stated it could be a
+conditional use, but it would have to go through the process.
+
+Council Member Joyce stated Conditional Uses Numbers 3 and 15 referred to parking
+areas, and they needed to be looked at again. He liked the new zone and asked where
+the barriers would fit into the process and would be referenced in the code and the
+General Plan. Bruce Erickson stated the requirements would fall in the code with the
+new zone and stated it would be in the code amendments when it came back for
+Council approval. He indicated his preference would be to rezone because there were
+so many overlay zones that it was becoming hard to fit things together.
+
+The Council agreed to keep the process moving forward.
+
+REGULAR MEETING - 6:00 p.m.
+
+I)      ROLL CALL
+
+      Attendee Name                                         Status
+      Mayor Andy Mayor Beerman
+      Council Member Max Doilney
+      Council Member Becca Gerber
+      Council Member Tim Henney
+      Council Member Steve Joyce                            Present
+      Council Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Michelle Kellogg, City Recorder
+      None                                                  Excused
+
+II)     APPOINTMENTS
+
+
+
+Park City                                Page 3                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|4
+
+1. Consideration to Appoint a Mayor Pro Tem and Alternate for Calendar Year
+2020:
+Mayor Beerman proposed Council Member Joyce as Mayor Pro Tem and Council
+Member Doilney as Alternate Mayor Pro Tem.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Henney moved to appoint Council Member Joyce as Mayor Pro Tem
+and Council Member Doilney as Alternate Mayor Pro Tem for Calendar Year 2020.
+Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration to Appoint Matt Dias as the City Manager of Park City Municipal
+Corporation:
+Brooke Watters, Human Resources Manager, proposed that Matt Dias be appointed as
+City Manager.
+
+Mayor Beerman opened the meeting for public input.
+
+Betsy Wallace congratulated Dias and stated he was a great person to work with.
+
+Mayor Beerman closed the public input portion of the meeting.
+
+Mayor Beerman indicated Dias was with the City for a while and he consistently
+exceeded expectations with Council, staff and the community. This appointment would
+be in the best interest of the community.
+
+Council Member Gerber moved to appoint Matt Dias as the City Manager of Park City
+Municipal Corporation. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+Dias thanked Council, staff, the community, and his family for the support he had
+received.
+
+III) COMMUNICATIONS AND DISCLOSURES FROM COUNCIL AND STAFF
+Staff Communications Reports:
+
+   1. Summer Day Camp Registration 2020:
+
+Park City                               Page 4                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|5
+
+IV)  PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Mayor Beerman opened the meeting for public input on matters not being addressed on
+the agenda.
+
+Charlie Sturgis requested a different way of messaging to help with the traffic. He sent a
+list of suggestions to Summit County and would send it to Council and Transportation
+Planning as well. He also asked to prohibit hunting on City lands. He noted trapping on
+Round Valley, Treasure Hill and other property should be stopped as well.
+
+Ashton Smith lived in Park City for 10 years. He spoke on the Drop, Load and Staging
+(DLS) zones. He had years of guest experience as a transit driver and Uber driver and
+he felt the rollout of this zone was a blunder. He received comments from other Uber
+drivers that this zone was harassment, confusing and inconvenient. He requested that
+the zones be on both sides of the street or cancelled altogether. He felt this affected
+visitors to the City.
+
+Mayor Beerman closed the public input portion of the meeting.
+
+Council Questions and Comments:
+The Council and Mayor Beerman reviewed the events, activities, and meetings they
+attended since the last meeting.
+
+V)    CONSIDERATION OF MINUTES
+
+Consideration to Approve the City Council Meeting Minutes from December 19,
+2019:
+Council Member Gerber indicated on Page 12, Line 36, she referred to no amplified
+music.
+
+Council Member Joyce moved to approve the City Council meeting minutes from
+December 19, 2019, as amended. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Gerber, Henney, Joyce, and Worel
+ABSTAIN: Council Member Doilney
+
+VI)   CONSENT AGENDA
+
+1. Consideration to Approve the Water Right Purchase and Sale Agreement
+among National Ability Center, Park City Municipal Corporation, and Park City
+Water Service District:
+
+Park City                                Page 5                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|6
+
+
+2. Request to Approve Type 2 Convention Sales Licenses for Businesses
+Operating During the 2020 Sundance Film Festival:
+
+3. Request to Approve Single Event Temporary Liquor Licenses for Operation
+During the 2020 Sundance Film Festival:
+
+4. Request to Approve a Recreational Use Lease with Storied Development on the
+Bonanza Flat Property Consistent with the 2017 Bonanza Flat Purchase
+Agreement and in a Form Approved by the City Attorney:
+
+5. Request to Authorize the Mayor to Enter into a City Manager Agreement with
+Matt Dias in a Form Approved by the City Attorney:
+
+Council Member Worel moved to remove Item Three from the Consent Agenda for
+further discussion. Council Member Joyce seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+Council Member Gerber moved to approve Consent Agenda Items One, Two, Four and
+Five. Council Member Joyce seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+3. Request to Approve Single Event Temporary Liquor Licenses for Operation
+During the 2020 Sundance Film Festival:
+Beth Bynan, Business License Specialist, Hannah Tyler, Senior Planner, and Jonathan
+Weidenhamer, Economic Development Manager, were present for this item. Bynan
+reviewed Council's request for a discussion on vibrancy.
+
+Tyler reviewed the process for changing the code to require storefront vibrancy as a
+condition for a temporary liquor license during the Sundance Festival. Vertical zoning
+was required for real estate and other offices, so they would not be on ground level. A
+cap was also placed on the width of storefronts. She noted second levels and
+basements were not regulated since staff was only concerned with the Main Street
+view. She noted 2018 was a grace period, in 2019 warnings were given, and in 2020
+enforcement began.
+
+Bynan stated staff inspected storefronts each quarter for vibrancy. She explained
+Chefdance was given an exception. It was initially denied a temporary liquor license, but
+
+
+
+Park City                                Page 6                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|7
+
+the wrong property was denied. Upon review, it was determined Chefdance was in the
+basement and had no storefront, so a temporary license was approved.
+Council Member Worel asked if they applied for the space where the Cabin was located
+in 2019. Bynan indicated they had, and it was assumed they would use that space
+again. They clarified they would be using the basement space and their application was
+moved forward.
+
+Council Member Joyce asked about the application process. Bynan explained the
+application was denied in December. They had now submitted a new application with
+the new details. It was four out of 12 possible late applications that could be accepted.
+
+Council Member Worel stated there was a huge sign on Main Street and it appeared to
+be a Main Street storefront. Council Member Joyce noted business offices on second
+levels had signs and they weren't on Main Street.
+
+Mayor Beerman opened the meeting for public input.
+
+Betsy Wallace, Sundance, stated there was a sign and Chefdance stayed shuttered, so
+it felt like something was being missed.
+
+Mayor Beerman closed the public input portion of the meeting.
+
+Council Member Henney agreed with Tyler that the City had success in creating more
+vibrancy on Main Street and appreciated this discussion.
+
+Council Member Joyce moved to approve the Single Event Temporary Liquor Licenses
+for operation during the 2020 Sundance Film Festival. Council Member Gerber
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, and Joyce
+NAY: Council Member Worel
+
+VII) OLD BUSINESS
+
+1. Consideration to Approve the First Addendum to the City Services Agreement
+in a Form Approved by the City Attorney for a Two Year Extension of the Park
+Silly Sunday Market (PSSM) Contract for 2021 and 2022:
+Jenny Diersen, Special Event Manager, and Kate McChesney, PSSM, were present for
+this item. Diersen requested approval for a two year contract extension. One change in
+the contract was a recommendation to update the insurance.
+
+
+
+
+Park City                                 Page 7                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|8
+
+Council Member Worel indicated there was a typo on Page One of the addendum,
+noting the third “whereas” should say 2020 instead of 2019.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Worel moved to approve the first addendum to the City Services
+Agreement in a form approved by the City Attorney for a two year extension of the Park
+Silly Sunday Market (PSSM) Contract for 2021 and 2022. Council Member Doilney
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration to Approve an Exchange Agreement with Girl Scouts of Utah for
+Property Located within Bonanza Flat in a Form Approved by the City Attorney:
+Heinrich Deters, Trails and Open Space Manager, and Wendy Fisher, Utah Open Lands
+Executive Director, as well as Lisa Hardin-Reynolds, Girl Scouts Executive Director, and
+Leslie Egan, Girl Scouts Board Chair, were present for this item. Deters reviewed the
+land exchange proposal. He noted the Girl Scouts would build cabins and improve the
+surrounding 16 acres as part of their camp. The City would use its portion for
+preservation purposes. There would also be a water easement for Bloods Lake and a
+pipeline would be run from the lake to the camp. The City would have first right of
+refusal if the Girl Scouts decided to sell the camp.
+
+Hardin-Reynolds felt the land exchange met their needs as well as the needs of Park
+City. They had the camp for 80 years and were excited to be the owners of the camp.
+Egan stated there were 7,000 Girl Scouts in Utah and they all came to the camp. She
+expressed appreciation to the City for coming to a good agreement.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Henney stated this was momentous and he knew having the Girl
+Scouts as a steward aligned well with the City's goals for the land.
+
+Mayor Beerman thanked staff, Fisher and the Girl Scouts for their work, noting the City
+normally didn't let anyone have stewardship there.
+
+Council Member Gerber moved to approve an exchange agreement with Girl Scouts of
+Utah for property located within Bonanza Flat in a form approved by the City Attorney.
+Council Member Worel seconded the motion.
+
+
+Park City                                Page 8                          January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+Page|9
+
+
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+3. Consideration to Approve the Bonanza Flat Conservation Easement (BFCE)
+and Bonanza Flat Adaptive Management Plan (BFAMS), and Grant the Easement
+to Utah Open Lands (UOL):
+Heinrich Deters, Trails and Open Space Manager, and Wendy Fisher, Utah Open Lands
+Executive Director, presented this item. Fisher reviewed all that happened since
+Bonanza Flat was purchased. She stated the needs of the property were balanced and
+she felt it would be an amazing opportunity for both humans and wildlife.
+
+Matt Dias thanked Tom Daley, Lisa Roadfuss, Heinrich Deters and Logan Jones, as
+well as Wendy Fisher, for thousands of hours devoted to this conservation easement.
+
+Mayor Beerman opened the meeting for public input.
+
+Kyle Daluga, veterinarian in Cottonwood Heights, conveyed his dismay that dogs were
+prohibited at Bloods Lake and thought the dog community was left out of the discussion.
+Dogs needed an alpine lake for health reasons. He had no idea the dog ban was
+happening, and thought UV filters or other solutions could be identified. He asserted a
+segment of constituents were being cut out. He acknowledged the land was being
+abused, but knew that with active management, such as garbage can placement, there
+was more responsibility from users. He brought a petition with 700 signatures
+supporting dog access to Bloods Lake.
+
+Mayor Beerman closed the public input portion of the meeting.
+
+Mayor Beerman explained dogs were valued in the City and it had the biggest dog park
+in the U.S. Dogs had been discussed and data taken before making the decision to ban
+them from this area. He noted there were other trails at Bonanza Flat that allowed dogs,
+but Bloods Lake needed to be preserved because it was the drinking water source for
+the Girl Scouts camp.
+
+Council Member Gerber expressed appreciation and excitement for this conservation
+easement. Council Member Doilney agreed and noted this had been an ongoing
+conversation for six months. He stated Park City now had a backyard, and he was glad
+this property was saved from development.
+
+Mayor Beerman indicated when he was first elected to the Council he had a dream to
+protect this property. Now eight years later the dream had become a reality.
+
+
+
+
+Park City                               Page 9                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 10
+
+Council Member Gerber moved to approve the Bonanza Flat Conservation Easement
+and Bonanza Flat Adaptive Management Plan, and grant the easement to Utah Open
+Lands. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+4. Consideration to Ratify the Findings of Fact and Conclusions of Law for the
+Denial of the Proposed Conditional Use Permit Located at 901 Woodside Avenue:
+Caitlyn Barhorst, Historic Preservation Planner, presented this item and indicated
+Council denied the conditional use permit on December 19, 2019. She explained the
+action tonight would ratify the decision made on December 19th.
+
+Council Member Joyce proposed amending the Findings of Fact Number Two by
+adding, "Historic structures that do not comply with off-street parking and driveway
+location standards are valid complying structures in the HR1 Zoning District.
+
+Council Member Joyce moved to ratify the findings of fact and conclusions of law for the
+Denial of the Proposed Conditional Use Permit located at 901 Woodside Avenue as
+amended. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Gerber, Henney, Joyce, and Worel
+ABSTAIN: Council Member Doilney
+
+VIII) NEW BUSINESS
+
+1. Consideration to Approve Ordinance 2020-01, an Ordinance Approving the
+2020 Regular Meeting Schedule for City Council:
+Mayor Beerman noted some proposed changes to the annual meeting schedule,
+changing the meeting on June 4 to June 11, and changing the meeting on August 6 to
+August 4.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Gerber moved to approve Ordinance 2020-01, an ordinance approving
+the 2020 Regular Meeting schedule for City Council as amended. Council Member
+Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+
+
+Park City                                Page 10                          January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 11
+
+2. Consideration to Approve Ordinance 2020-02, an Ordinance Approving the
+Lilac Hill Subdivision Located at 729, 741, 747, 751, 755 Rossie Hill Drive:
+Caitlyn Barhorst, stated there would be a singular vehicular access for the five lots.
+Council Member Gerber asked if Lot 5 went through the house. After some discussion it
+was indicated there weren't any lot lines through houses on this property. Council
+Member Worel asked if the sheds were historic. Barhorst stated they could be historic,
+but they were not listed on the Historic Sites Inventory. Frank Watanabe, Developer,
+stated the shed and power pole would be removed when the shared driveway was
+installed.
+
+Council Member Joyce asked if there would be off-street parking, to which Barhorst
+responded in the affirmative.
+
+Mayor Beerman opened the public hearing.
+
+Robert Gersh submitted a statement for this meeting and the Planning Commission. He
+felt this development was a good solution for a low density area. He liked the single
+driveway for the five lots and thought it would mitigate traffic issues.
+
+Jason Parker asked for more information on the two new lots including what the
+setbacks were. He stated the condos nearby had a 15 foot setback and snow piled up in
+the winter. Barhorst stated the setbacks were listed in the staff report.
+
+Diane Bernhardt stated in 2016 the neighbors came and expressed concern over this
+development because of the traffic congestion. She thanked Council for this final
+product and was pleased with the efforts made.
+
+Mayor Beerman closed the public hearing.
+
+Council Member Joyce moved to approve Ordinance 2020-02, an ordinance approving
+the Lilac Hill Subdivision located at 729, 741, 747, 751, 755 Rossie Hill Drive. Council
+Member Henney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+3. Consideration to Approve Ordinance 2020-03, an Ordinance Approving the
+Two-Lot Silver Rail Subdivision located at 2080 Gold Dust Lane and 2211
+Sidewinder Drive, Park City, Utah:
+Alex Ananth, Planner, and Stanton Jones were present for this item. Ananth reviewed
+the request for the two lot subdivision. She noted the owner would maintain the 78
+parking stalls for health club use. There were requests for a zone change, but that did
+
+
+Park City                               Page 11                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 12
+
+not come to fruition. This plat approval would change the metes and bounds property
+description to a subdivision.
+
+Council Member Joyce asked why there was a parking study in conjunction with a zone
+change. Ananth stated the study was done in anticipation of further pursuit of a rezone
+request. Jones stated there was the housekeeping item from Planning Commission of
+cleaning up the property and putting it in a subdivision and a rezone. The Planning
+Commission continued the rezone. They thought parking was an issue for the health
+club, but there wasn't one. He added that the Lot Two development would include
+underground parking.
+
+Council Member Gerber requested that Planning Commission minutes be included in
+future Planning items brought to the Council.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Worel moved to approve Ordinance 2020-03, an ordinance approving
+the two-lot Silver Rail Subdivision located at 2080 Gold Dust Lane and 2211 Sidewinder
+Drive, Park City, Utah. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+5. Consideration to Continue an Ordinance Amending the Zoning Map from
+Residential Development to General Commercial for 2080 Gold Dust Lane and
+2211 Sidewinder Drive, Park City, Utah:
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Doilney moved to continue an ordinance amending the zoning map
+from Residential Development to General Commercial for 2080 Gold Dust Lane and
+2211 Sidewinder Drive, Park City, Utah to a date uncertain. Council Member Joyce
+seconded the motion.
+RESULT: CONTINUED TO A DATE UNCERTAIN
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+4. Consideration to Approve Ordinance No. 2020-04, an Ordinance Approving a
+Zoning Map Amendment for Seven Tracts of Land Zoned Residential
+Development, Estate, Historic Residential-Low Density, and Residential
+Development-Medium Density to Recreation and Open Space (ROS), Including
+
+
+
+Park City                               Page 12                         January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 13
+
+Bureau of Land Management Parcel 17 Tracts 1, 2, 4 and Parcel 18 Tracts 1, 2, 6
+and 7, Park City, Utah:
+Alex Ananth, Planner, stated the tracts listed for rezoning were owned by the Bureau of
+Land Management (BLM), they were mining claims and did not have structures on
+them. She noted Tract Three was removed from the zoning map amendment.
+
+Mayor Beerman opened the public hearing.
+
+Diane Bernhardt was grateful this worked out for the best. She reviewed the
+background for a community stairway in this area and hoped there would be
+discussions to ensure the stairway construction. It was noted the developer had three
+years after the last Certificate of Occupancy was issued to build the stairway.
+
+Allison Kitching lived in the condos adjacent to this property that would be designated
+as open space. She was pleased with the balance of development and open space and
+was happy the historic homes nearby would be redeveloped.
+
+Mayor Beerman closed the public hearing.
+
+Council Member Joyce wanted to make sure the approval tonight wouldn’t hurt the City
+in the future. Deters reviewed that the map that was being looked at was used by the
+BLM to determine when property would be disposed. The City didn't know the BLM
+timeline for this property. Council Member Joyce stated he saw “inadvertent trespass”
+on the map and didn't know what that meant. Deters stated there was a fence that a
+previous owner constructed on BLM land. The BLM could offer to sell the land with the
+fence to the owner.
+
+Erickson indicated Planning was comfortable with the rezone for this property and noted
+the parcels would have to be combined if the property in question was sold to the owner
+with the fence encroachment. Council Member Doilney asked if the landowners were
+aware of the encroachment, to which Deters responded in the affirmative.
+
+Council Member Joyce moved to approve Ordinance No. 2020-04, an ordinance
+approving a zoning map amendment for seven tracts of land zoned Residential
+Development, Estate, Historic Residential-Low Density, and Residential Development-
+Medium Density to Recreation and Open Space (ROS), including Bureau of Land
+Management Parcel 17 Tracts 1, 2, 4 and Parcel 18 Tracts 1, 2, 6 and 7, Park City,
+Utah. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IX)   ADJOURNMENT
+
+Park City                               Page 13                         January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 14
+
+X.      PARK CITY HOUSING AUTHORITY MEETING
+
+      I) ROLL CALL
+
+      Attendee Name                                          Status
+      Chair Andy Mayor Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+      Board Member Steve Joyce                               Present
+      Board Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Michelle Kellogg, Secretary
+      None                                                   Excused
+
+II.   PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+Chair Beerman opened the public hearing for matters not on the agenda. No comments
+were given. Chair Beerman closed the public hearing.
+
+III.) NEW BUSINESS
+
+1. Consideration to Approve Resolution HA 01-2020, a Resolution Establishing a
+Regular Meeting Date, Time, and Location for 2020 Meetings and Appointing
+Officers of the Board of Directors of the Housing Authority of Park City, Utah:
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+Board Member Gerber moved to approve Resolution HA 01-2020, a resolution
+establishing a regular meeting date, time, and location for 2020 meetings and
+appointing officers of the Board of Directors of the Housing Authority of Park City, Utah.
+Board Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV.     ADJOURNMENT
+
+XI.     PARK CITY REDEVELOPMENT AGENCY MEETING
+
+
+
+Park City                                Page 14                           January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 15
+
+      I) ROLL CALL
+
+      Attendee Name                                       Status
+      Chair Andy Mayor Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+      Board Member Steve Joyce                            Present
+      Board Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Michelle Kellogg, Secretary
+      None                                                Excused
+
+II.   PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+Chair Beerman opened the public hearing for matters not on the agenda. No comments
+were given. Chair Beerman closed the public hearing.
+
+III.) NEW BUSINESS
+
+1. Consideration to Approve Resolution RDA 01-2020, a Resolution Establishing a
+Regular Meeting Date, Time, and Location for 2020 Meetings and Appointing
+Officers of the Board of Directors of the Redevelopment Agency of Park City,
+Utah:
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+Board Member Joyce moved to approve Resolution RDA 01-2020, a resolution
+establishing a regular meeting date, time, and location for 2020 meetings and
+appointing Officers of the Board of Directors of the Redevelopment Agency of Park City,
+Utah. Board Member Henney seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV.     ADJOURNMENT
+
+XII.) PARK CITY WATER SERVICE DISTRICT MEETING
+    I) ROLL CALL
+
+
+
+Park City                              Page 15                          January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 16
+
+    Attendee Name                                         Status
+    Mayor Andy Mayor Beerman
+    Council Member Max Doilney
+    Council Member Becca Gerber
+    Council Member Tim Henney
+    Council Member Steve Joyce                            Present
+    Council Member Nann Worel
+    Matt Dias, City Manager
+    Mark Harrington, City Attorney
+    Michelle Kellogg, City Recorder
+    None                                                  Excused
+
+II.   PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+Chair Beerman opened the public hearing for matters not on the agenda. No comments
+were given. Chair Beerman closed the public hearing.
+
+III.) NEW BUSINESS
+
+1. Consideration to Approve Resolution WSD 01-2020, a Resolution Establishing
+a Regular Meeting Date, Time, and Location for 2020 Meetings and Appointing the
+Governing Body of the Park City Water Service District:
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Gerber moved to approve Resolution WSD 01-2020, a resolution
+establishing a regular meeting date, time, and location for 2020 meetings and
+appointing the governing body of the Park City Water Service District. Council Member
+Doilney seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration to Approve the Water Right Purchase and Sale Agreement
+among National Ability Center, Park City Municipal Corporation, and Park City
+Water Service District:
+Council Member Henney asked why this was approved by the Council and by the Water
+Service District. Harrington stated the City and Water Service District were both
+signatories so this item needed to be on both agendas.
+
+
+
+
+Park City                              Page 16                         January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 17
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Worel moved to approve the Water Right Purchase and Sale
+Agreement among National Ability Center, Park City Municipal Corporation, and Park
+City Water Service District. Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV.     ADJOURNMENT
+
+XIII.) PARK CITY MUNICIPAL BUILDING AUTHORITY MEETING
+
+      I) ROLL CALL
+
+      Attendee Name                                      Status
+      Chair Andy Mayor Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+      Board Member Steve Joyce                           Present
+      Board Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Michelle Kellogg, Secretary
+      None                                               Excused
+
+II.   PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+Chair Beerman opened the public hearing for matters not on the agenda. No comments
+were given. Chair Beerman closed the public hearing.
+
+III.) NEW BUSINESS
+
+1. Consideration to Approve Resolution MBA 01-2020, a Resolution Establishing a
+Regular Meeting Date, Time, and Location for 2020 Meetings and Appointing
+Officers of the Board of Directors of the Municipal Building Authority of Park City,
+Utah:
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+
+Park City                              Page 17                        January 9, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 9, 2020
+P a g e | 18
+
+Board Member Gerber moved to approve Resolution MBA 01-2020, a resolution
+establishing a regular meeting date, time, and location for 2020 meetings and
+appointing officers of the Board of Directors of the Municipal Building Authority of Park
+City, Utah. Board Member Henney seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV.    ADJOURNMENT
+
+With no further business, the meeting was adjourned.
+
+                                                          _________________________
+                                                          Michelle Kellogg, City Recorder
+
+
+
+
+Park City                                Page 18                           January 9, 2020
+   Candidate Filing Fee Options:
+1. Do Nothing
+
+2. Assess a:
+   •   $150 Filing Fee for Mayoral Candidates and a
+   •   $100 Fee for City Council Candidates, OR
+   •   Fee Waiver if 100 Signatures of Park City Registered Voters
+       are collected.
+
+3. Assess a Filing Fee Only
+         Local Parks Preservation
+               Master Plan
+
+
+Recreation Advisory Board
+                                                              History:
+
+
+How we got here:
+• Recreation Advisory Board Annual Visioning- 2017, 2018, 2019
+• RAB study and research
+   • Trends in Cities and Western Communities
+   • National Forums
+   • Entry Corridor Plan- McPolin Farm
+• Discussion and alignment with Planning, Trails and Open Space and Legal
+   • General Plan, Municipal Code, etc.
+Locations:
+
+
+
+
+Creekside Park
+              Locations:
+
+
+
+
+Rotary Park
+Locations:
+
+
+
+
+  Prospector Park
+            Locations:
+
+
+
+
+City Park
+                                  Locations:
+
+
+
+
+Park City Municipal Golf Course
+                                    Master Plan Goal:
+
+
+Allow for trends in Recreation while keeping parks for future generations
+
+The goal is to provide additional protections in the case of…
+
+• Sale of the property
+• Transfer of the land
+• Re-zoning
+
+To ensure a public process allowing the community voice to be heard.
+                         Master Plan Process:
+
+
+
+Process:
+    • Five public meetings over a three month period
+    • Affirmative vote of 4 out of 5 City Council Members
+    • Voter Referendum- 60%+
+                                       Talking Points:
+
+
+
+• Council direction was…
+   • Language for adding parks
+   • Clean up ROS zoning language for allowed uses.
+                                         Talking Points:
+
+
+• As we intended to ‘clean up’ Recreation Open Space Zoning, it led to the
+  development of a new zone…
+
+• UPZ- The Urban Park Zone:
+   • Blend of ROS- Recreation Open Space and POS- Protected Open Space
+   • More restrictive and detailed in the nature of use
+        • Parking
+        • Infrastructure development
+        • Future use and interests
+Talking Points:
+Talking Points:
+Locations:
+Thank You!
+Park Silly Sunday Market 2 Year Contract Extension
+Staff recommends Council hold a public hearing and
+approve and Addendum for a 2 Year Contract Extension.
+
+Modifications to Existing Terms: (2021 & 2022)
+1. Date conflict in 2021 with 4th of July – PSSM program lower Main.
+2. Minor Ops. Changes – No vendor parking on Park Ave.; Bollard
+   Installation; Reduction in Allowed Noise Levels; Enhanced
+   Pedestrian Management (Main & Heber) & Insurance required.
+3. Overall cost of City Services ($80k) stays same per contract -
+   Minor tweaks for ops include:
+      City Services for 11 markets estimated at $60,500
+      Bollard Installation $14,000 to begin in 2021
+      Estimated PSSM will pay $5,500 for City Services starting in 2021
+Girl Scouts of Utah and Park
+City Municipal Land Exchange
+Bonanza Flat
+Land Exchange/Covenants
+
+GSU acquires fee title of approximately
+16 acres (in blue) of previously leased land
+where vital infrastructure including a ranger
+cabin, several cabins and restroom/shower
+facilities are located, in addition to shore line
+and lake property not previously leased but
+owned by PCMC, where docks and programming
+takes place.
+
+Restrictive Covenant
+GSU will place a Restrictive Covenant on all the property
+they acquire or retain, which allows for continued use of the
+camp, additional development of camp infrastructure
+and repair/replacement of existing infrastructure
+
+
+
+
+PCMC acquires fee title of approximately
+170 acres (in orange) of protected
+open space, to be encumbered by the BFCE, where
+existing trails connect to and from Lake Lackawaxen,
+Silver Islet and Culvert Meadow.
+
+Conservation Easement
+PCMC agrees to place the Bonanza Flat Conservation
+Easement on all property they acquire in the
+Agreement.
+Protection Zone and Water Lease:
+
+GSU acquires a Water Lease and easements for water
+service and infrastructure. Additionally, a Protection
+Area, (green dashed line) which improves the security and
+sustainability of the camp and related programming will be
+established.
+Both of these provisions are exclusive to GSU.
+
+
+
+Future Considerations
+Option and Bonanza Flat Conservation Easement
+
+PCMC acquires an option to purchase the
+property when/if GSU ever ceases operation of the camp,
+sells or transfers ownership. Additionally, GSU agrees to
+encumber the property/camp with the Bonanza Flat
+Conservation Easement when/if GSU ever sells or
+transfers ownership in the property/camp.
+
+Should PCMC not exercise their purchase option, GSU
+would be able to sell/transfer the property/camp to a third
+party as encumbered by the Bonanza Flat Conservation
+Easement.
+BONANZA FLAT
+CONSERVATION
+AREA
+Utah Open Lands // Park City Municipal Corporation
+Initial Purchase
+ DADERKO &
+VETA GRAND
+INHOLDINGS
+PURCHASED
+BRANSFORD
+ INHOLDING
+PURCHASED
+ EXCHANGE
+AGREEMENT
+          ADAPTIVE MANAGEMENT
+MONITOR
+
+    MONITOR
+
+          MONITOR
+2080 Gold Dust Lane & 2211 Sidewinder Drive
+                                Subdivision
+
+                                     City Council
+                                  January 9, 2020
+    Background
+ Site consists of 3 Parcels,
+  Silver Mountain Sports Club
+  and Parking Areas
+ Parking Parcels accessed
+  through Prospector
+  Condominium Parking Area
+  for which they have
+  easement
+ Request to create 2-Lot
+  Subdivision
+ Concurrent Zoning Map
+  Amendment Application
+  Continued by Planning
+  Commission at their
+  December 11, 2019 Meeting
+Existing Conditions
+Proposed Subdivision
+Proposed Subdivision
+  Zone Allowance:                      Residential                                Proposed Lots
+                                       Development                      Lot 1           Lot 2
+
+  Lot Size                             No Minimum                   2.27 acres             .66 acres
+                                                                    (98,881 SF)            (28,750 SF)
+
+  Density                              3 units per acre, (or up     6 units                1 unit (up to 3
+                                       to 5 units per acre with a                          units with an
+                                       MPD)                                                MPD)
+
+
+  Setbacks
+  Front Setback                        20 feet                      > 20 feet              No Plans
+  Front Setback – New front facing     25 feet                                             Submitted
+  garages
+  Rear Setback – Main Buildings        15 feet                      >15 feet (rear)
+  Rear Setback – Accessory Buildings    10 feet
+  and detached garages
+  Side Setback
+                                       12 feet                      >12 feet (side)
+
+
+
+
+  Building Height                      28 feet from existing        38 feet (existing
+                                       grade                        non-conforming)
+     Issues – Parking and Access
+   A CUP in 2000 increased the floor area, added
+    swimming pool, added 23 parking spaces for a
+    total of 78 parking spaces, meeting parking
+    requirement in effect at time based on building
+    occupancy and in conjunction with Prospector
+    Square Condominiums.
+   Current parking requirement for Commercial
+    Recreational Facility would require 144 parking
+    stalls based on building size.
+   Applicant has agreed that they will maintain
+    78 parking stalls for the Health Club Use
+    (COA #5)
+   Planning Commission Continued the request
+    for a Zoning Map Amendment for the 2 Lots
+    until the applicant can submit a parking
+    study analyzing parking demand for the
+    Sports Club
+   Also wanted to further understand access
+    through Prospector Square Condominiums
+    Parking Area
+ Good Cause and Recommendation
+ Lot 1 would continue to operate as a health club and Lot
+  2 would create a legal lot of record from two lots.
+ Staff recommends the City Council conduct a Public
+  Hearing on the request to create a two-lot Subdivision
+  from three parcels, consider public input, and consider
+  approving the requested Silver Rail Subdivision pursuant
+  to the Findings of Fact, Conclusions of Law and
+  Conditions of Approval at outlined in the Ordinance.
+BLM Parcel 17 Tracts 1, 2, 4 & Parcel 18 Tracts 1, 2 , 6, 7
+                               Zoning Map Amendment
+
+
+                                                  City Council
+                                               January 9, 2020
+ Background
+ All 7 Parcels are BLM
+  owned former mining
+  claims and contain no
+  buildings
+ Existing Zoning
+  includes RD, Estate,
+  HRL and RDM
+ City proposing to
+  Rezone Tracts to
+  Recreation Open Space
+  (ROS)
+ Removing Parcel 17
+  Tract 3 from Rezoning
+  request at this time
+Proposed Zoning Map Amendment
+Parcels/Tracts
+Parcel      Own    Summit    Existing     Tract       Existing Land   Proposed   Proposed   Development
+            er-    County    Zoning       Size (SF)   Use             Zoning     Land Use   Potential
+            ship   Parcel                             Conditions
+                   Number
+Parcel 17   BLM    No        RD (3 per    ~20,000     Undeveloped     ROS        Open
+Track 1            Number    acre)                                               Space      1 Unit
+Parcel 17   BLM    No        RD (3 per    ~2,500      Undeveloped     ROS        Open
+Track 2            Number    acre)                                               Space      NA
+Parcel 17   BLM    No        E and RM     Unknown     Undeveloped     ROS        Open
+Track 3            Number                                                        Space      NA
+Parcel 17   BLM    No        E (0.3 per   ~51,500     Undeveloped     ROS        Open
+Track 4            Number    acre)                                               Space      NA
+Parcel 18   BLM    PC-537-   HRL          ~8,400      Undeveloped     ROS        Open
+Tract 1            X         (3,750 SF                                           Space      2 Units
+                             per unit)
+Parcel 18   BLM    PC-537-   RM (Single   ~5,700      Undeveloped     ROS        Open
+Tract 2            X         Family                                              Space      2 Units, or
+                             Dwelling                                                       Duplex,
+                             2,812 SF,                                                      Triplex,
+                             Duplex                                                         Multi-Unit
+                             Dwelling
+                                                                                            Dwelling by
+                             3,750 SF,
+                             Triplex
+                                                                                            CUP
+                             Dwelling
+                             4,687 SF)
+Parcel 18   BLM    PC-537-   HRL          ~1,200      Undeveloped     ROS        Open
+Tract 6            X         (3,750 SF                                           Space      NA
+                             per unit)
+Parcel 18   BLM    PC-537-   HRL          ~2,300      Undeveloped     ROS        Open
+Tract 7            X         (3,750 SF                                           Space      NA
+                             per unit)
+ Good Cause
+ Zoning Map Amendment will preserve existing open
+ space that serves as trails, wildlife and view corridors,
+ will not cause undo harm to adjacent property owners
+ and will preserve the character of the existing
+ neighborhood and further the health, safety and welfare
+ of the Park City community
+Staff Findings and Recommendations
+
+
+ Staff recommends the City Council review the Zoning
+ Map Amendment, hold a Public Hearing, consider public
+ input, and consider approving the Zoning Map
+ Amendment based on the Findings of Fact, Conclusions
+ of Law, and Conditions of Approval subject to the draft
+ Ordinance.
+From:           Lance Anderson
+To:             Alexandra Ananth
+Cc:             Rania Anderson
+Subject:        The Preservation of Open Space
+Date:           Wednesday, December 11, 2019 7:06:12 AM
+
+
+
+To the Honorable Mayor, Park City City Council, Park City Planning Commission and Park City
+Municipal Staff,
+
+In 2016, a petition was presented to City Council evidencing community support for the
+preservation of the historic land and cottages on Parcel 18. As a result of that petition, in 2017
+City Council approved a rezone of a majority of the land to promote the preservation and
+restoration of the heritage homes in their original setting and the protection of the open space
+from new land development. Recent resolution of a decades-long ownership rights struggle by
+the Dennis Family has put part of this property into private ownership and has moved the
+remainder of the land still held by the BLM into the process of federal auction. I am writing to
+you today to ask you to recommend and approve a rezone of the remaining land in BLM parcels
+17 & 18 in order to complete Park City’s 2017 zone change to protect the land.
+
+
+Specifically, I request the approval of a zoning map amendment from the current zone to
+Recreation Open Space (ROS) for BLM Parcel 17 Tracts 1-4 and BLM Parcel 18 Tracts 1, 2, 4
+and remnants. I am requesting your action on this zone change occur as soon as possible and
+certainly prior to the imminent sale of this land by the BLM.
+
+
+Thank you for your service and continued interest in and enthusiasm for the preservation of the
+open space on and near Rossie Hill: BLM Parcels 17 and 18.
+
+Respectfully,
+Lance and Rania Anderson
+656 Coalition View Court
+Park City, UT 84060
+

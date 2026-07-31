@@ -1,0 +1,962 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01122026-992
+> Meeting date: 2026-01-12
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2026-01-12
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_01122026-992
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                           Minutes             of the
+                                                                                    Millcreek              City      Council
+                                                                                          January           12,      2026
+                                                                                                  5:30        p.m.
+                                                                                            Work           Meeting
+                                                                                                   7:00       p.m.
+                                                                                          Regular             Meeting
+
+
+The City         Council       of Millcreek,          Utah,     met in a public          work      meeting           and regular         meeting      on
+January      12, 2026,         at City Hall,          located     at 1330 E. Chambers                 Avenue,          Millcreek,         UT 84106.          The
+meeting          was recorded           for the City's        website     and had an option                 for online         public     coinment.
+
+
+PRESENT:
+
+
+Council          Members                                                                City      Staff
+Cheri     Jackson,       Mayor                                                          Mike      Winder,          City     Manager
+Silvia     Catten,     District         1                                               Elyse      Sullivan,         City    Recorder
+Thom       DeSirant,         District        2                                          Francis      Lilly,       Assistant       City     Manager
+Nicole      Handy,       District       3                                               Kurt    Hansen,           Facilities      Director
+Bev Uipi,         District     4                                                        John Miller,           Public       Works        Director
+                                                                                        Rita Lund,          Cominunications                Director
+                                                                                        Sean Murray,              Planner
+                                                                                        Alex      Wendt,          Business       License      Admin.
+                                                                                        Brad      Sanderson,          Current       Planning         Manager
+                                                                                        Jim Hardy,            Building         Services      Director
+                                                                                        Lisa Dudley,              HR-Finance            Director
+
+
+Attendees:          Kathy      Wickersham,                Madeleine      Tate, Nancy           VonAllmen,             Thomas            McMurtry,         Stacee
+Adams,       Rick     Hansen,          Marv       Poulson,      Chief    Jon Wilde,         Mike      Rush, Madison                Hoover,         John
+Tuutau,      Leslie     M., Andrei               Tarom,     Zack Webster,         Nan Bassett,             Ben Homel,            County       Council
+Member           Suzanne      Harrison,           Rob Peterson,         Nate Gibby,         Gary Hanneman,                   Peter Liacopoulos,
+Lynda      & Jeff Gibson,              Kristian      Bechi'nan,       Allen     Sowards,          Chip      Spencer,        CJ Johnson,            Kara Cope,
+Filia    Uipi,    Xane Uipi
+
+
+WORK             MEETING             - 5:30 p.m.
+TIME        COMMENCED:                        5:32 p.m.
+
+
+
+Mayor      Jackson       called       the work        meeting      to order.
+
+
+1. Transportation                  Utility       Fee Update;       John       Miller,      Public         Works        Director
+John Miller         said Avenue              Consultants        was hired      from      a group          of four different         proposals         for their
+communication.
+
+
+Thomas       McMurtry,             Avenue         Consultants,        presented         a video     explaining            the transportation            utility
+fee (TUF)         for Millcreek.             He outlined        the purpose,       findings,        and next steps of Millcreek's                       TUF
+Millcreek           City      Council            Meeting          Minutes                                           12 January              2026         Page        2 of 17
+
+
+
+study.      McMurtry                explains         that the goal         is to review            road       conditions,            assess current             and future
+maintenance               needs,       and evaluate             the feasibility            of implementing                     a Iegally         compliant          TUF       based
+on roadway            usage          and trip         generation.        The       study,      initiated           last summer             at the city's         direction,
+involved           assessing         pavement            conditions,             calculating         trip     generation             across       all land uses, and
+developing           potential          fee structures.             While         the analysis           has not yet been broadly                           shared,      the city          is
+beginning           public      outreach             through       a video         and presentations,                  witli     a final      report        anticipated            in
+March        or April.
+
+
+A significant             portion        of the presentation                 focused          on the condition                  of Millcreek's              171 miles           of
+roads.      Pavement            condition             is measured          using        the Pavement                Condition          Index        (PCI),      and the city's
+current       average         PCI      of 64 is described                 as fair but below                   desired       standards.            Only      32%       of city
+streets      have received              maintenance               over     the past nine              years,       far short         of the ideal           cycle     of
+addressing           all streets         every        seven      to ten years.           Limited            funding,        rising     material          and labor          costs,
+and reliance          on state B and C road                       funds      and general              fund      dollars         have      contributed           to deferred
+maintenance,               resulting          in deteriorating            road      conditions              and higlier          long-term          costs.
+
+
+McMurtry            explained           that while          Millcreek             currently       receives           approximately                 $3 million           annually
+in B and C road funds,                        this    source      is increasingly              insufficient,            particularly             as the city's          share of
+statewide          funding          declines          due to slower          road        expansion             compared           to fast-growing               cities.       As a
+result,     the city        must       rely     heavily         on general          fund      dollars         to supplement               road     maintenance,
+diverting          resources          from       other     priorities.       Without             a TUF,        this trend         is expected            to continue,
+leading       to furtlier           pavement           deterioration             and increasing               costs over          time.       A TUF          would       provide           a
+dedicated,          stable      funding          source         for road maintenance,                       allowing           the city     to preserve             general         fund
+resources          while      targeting          a 10-year          maintenance               plan     aimed        at improving              the average             PCI      to
+between        70 and 75. The fee would                           be based           on trip      generation,            which         is presented            as a fair        and
+legally      supported              approach          that captures          contributions               from       all roadway             users,       including          tax-
+exempt        properties            such as schools,               churches,           and governrnent                  facilities        that     do not currently
+contribute          to the general              fund      but generate             significant          traffic.
+
+
+Several       potential         fee structures              are presented,              ranging         from       a flat       fee for     all addresses             to a more
+detailed,      multi-category                   model      similar       to Provo's            long-standing                and court-defended                    TUF.        Under
+the multi-category                   approach,           a typical       single-family               home        would          pay approximately                   $7.40       to
+$8.40      per month,           depending               on the target            PCI    level.       He showed              comparable             fees from           other        Utah
+cities,     with     many       coinrnunities              charging          between           $7 and $10 per household                            per month.           The
+presentation          concludes               by noting         that multiple            Utah        cities     are currently              exploring          similar       fees.
+
+
+Council       Member            Uipi      noted         no other        cities     in Salt Lake               County        had a TUF.             Council          Member
+Catten       expressed          concern              for people      on fixed           incomes.            McMurtry             said Provo          has an application
+that residents             can file      to have         the fee waived,               about      100 people             have        applied.        Mike       Winder
+explained          that     staff     is recoinmending                  serious        consideration               of a TUF          for the following                  reasons.
+First,    the traditional              gas tax is becoming                   an increasingly                  unreliable          funding         source       as fuel
+efficiency          improves           and electric             and hybrid          vehicles         become          more         common,           and the state has no
+clear     long-term          solution           to replace        this revenue.             As a result,            responsibility               for addressing             road
+funding       shortfalls            is likely        to shift     to local        governrnents,               making           it necessary         for cities         to
+proactively          identify         sustainable,            locally      controlled            funding           mechanisms              that    fairly      distribute
+costs     among        all road         users,        including         residents,         businesses,             and nonprofits.                Second,       Millcreek
+faces     a unique          challenge           due to decades              of underinvestment                      in road infrastructure.                    Once
+pavement           conditions           decline         below       a certain          threshold,           maintenance              costs rise rapidly,                requiring
+Millcreek            City       Council             Meeting        Minutes                                          12 January                  2026       Page          3 of 17
+
+
+
+significantly            more          spending         just     to prevent          :turther      deterioration.            Establishing                a dedicated
+funding        tool     would            help      the city      stay ahead          of tliese          costs,   stabilize        road          conditions,          and
+ultimately           save residents                 money        over     the long       term          by avoiding        more        expensive             repairs.
+
+
+Winder         emphasized                 that     a TUF        aligns     with      sound       tax policy          principles           by broadening                   the
+funding        base and lowering                       the burden          on any single                group.      By spreading                 costs    across          all users
+rather      than relying                lieavily       on property          taxes,      the city         can maintain            lower           and more          stable
+property        tax rates              and avoid         the large,        sudden        tax increases              seen in neighboring                     communities                    that
+lack      sustainable            road       funding        options.
+
+
+Mayor        Jackson           asked        if implementation                 was delayed,                if the amount           collected              would       be higher
+than the numbers                   presented.            McMurtry            confirmed.            McMurtry             noted      Provo           has increased                their        fee
+since      2013.       Council            Member          Catten         asked      if the rates should                be higher           now       to anticipate               an
+increase       in the future.               Miller       said the next            step would             be public        information               dissemination                    to
+discuss       that amount                and other         options.         Council       Member             Uipi      asked      what          the lifespan             of a "fair"
+condition          road       is. Miller           said it depended               on the level            of traffic      on the road;              it could         be 3-20
+years.      The      current           strategy        is to address          collectors.          With       current      funding              under     that strategy,                   the
+local     roads       will      never       be addressed.
+
+
+Council        Member             DeSirant             asked     how       much       money            a TUF      would       bring        to the city.            McMurtry
+said $4.1-4.7             million          a year based           on the numbers                 presented.            Council        Member              Catten          asked
+about      billing       costs.         Miller        said Rocky           Mountain          Power          would       double        the existing              fee used             for
+the stonnwater                utility       fee billing.
+
+
+Stacee       Adams,           Avenue             Consultants,            outlined       a comprehensive                  public       engagement                 and risk
+identification               strategy        to support          infonned           decision-making.                 The approacli                 begins        witli      a risk
+identification               workshop              designed       to explore          potential          impacts        of adopting               or not adopting                    the
+transportation               utility      fee, including            risks     to residents,              businesses,         nonprofits,               and tlie city            as a
+whole.       Participants               would         represent         a broad       cross-section              of the corni'nunity,                  including            industry,
+schools,       churches,               fixed-income             residents,          and others           associated        with       currently            tax-exempt
+properties,          with       strong        encouragement                 for at least         one councilmember                       to participate              consistently
+tl'iroughout          the process               to ensure        continuity          and trust.
+
+
+In addition,          the team plans                  to conduct           stakeholder           focus       groups       to review              and refine          public-
+facing      materials,           ensuring             the information             addresses             com+'nunity        questions,              identifies            gaps,        and
+clearly      communicates                   key issues.           A multi-channel                 outreach          strategy       will         support       this       effort,
+including         a publicly             available        video,         social     media,        the city       newsletter,             signage,         flyers,         and
+posters      placed          in familiar            and trusted           corni'nunity          locations.          The engagement                     process           will    also
+include      two       public          meetings,         with     the first         anticipated           in mid       to late February                  and a second                 likely
+structured           as a fon'nal           public       hearing         in March        or later         if timelines          shift.
+
+
+To support            transparency                 and accessibility,             a dedicated             project      website           will     be developed                  in
+coordination            with       city      staff,     and special          attention          will     be given        to language               and accessibility
+needs.      The team             emphasized              the importance               of reaching            residents         who        may       have      limited           access
+to digital      platfon'ns,              particularly           elderly      corni'nunity              members,         to ensure           all stakeholders                    have
+meaningful            access to inforination                      and opportunities                    to provide       input.
+Millcreek         City     Council        Meeting          Minutes                                  12 January           2026      Page 4 of 17
+
+
+
+Council        Member         Uipi     asked about the timeline                 for March         adoption.      McMurtry          emphasized              an
+effort    to implement             the TUF       before      the state legislative           session       ended in case there was a biIl that
+would       affect it. Winder           noted it would           be helpful        in putting       together      the next fiscal          year budget,
+too. Council         Member           Catten     would       like the TUF          discussed        a lot before        implementation.              Miller
+emphasized           the community              engagement           that would         take place.        Council      Member         DeSirant
+volunteered          to participate           in special     meetings.         Miller     cautioned        that the figures        presented          were
+illustrative      examples           rather     than predetermined              outcomes,         noting      that numerical           estimates       can
+easily     be misconstrued              as final     decisions.       He emphasized              that the numbers           shown       reflect
+approaches         used by other communities                      and represent           only    a couple      of possible        options          among
+many.      The key message,               he explained,          is not the specific             dollar    amounts       but the underlying
+choice      facing     the city:       either    continue       on the current           path of declining            infrastructure          conditions
+and incur        significantly         higher       costs in tlie future,         or take proactive            action     now by implementing                        a
+solution       at some level to reverse                the downward             trend     and begin        improving        overall       conditions.
+
+
+2. Discussion            with      Woodhaven            Event      Center        Regarding          a Proposed           Zoning        Text
+    Amendment                to Add      an Outdoor            Reception          Center         as a Land       Use in the Commercial
+    Zone
+    Brad       Sanderson          described        a uniquely      shaped parcel            that contains        an existing       structure
+    originally       built      as a residence         and later converted               to a business        use. The property             is subject          to
+    multiple       zoning         designations,        including       commercial,           low-density         residential,       single-family
+    residential,         and RM zoning,              which      creates complexity               for its current        and proposed           use. Under
+    the city code, the applicant's                    proposed        use is classified           as a reception         or event-centered             use,
+    which       is peri'nitted        in commercial            zones but not allowed               in single-family           or RM zones. As a
+    result,     the property          would      need consistent           commercial            zoning     to accommodate              the request.
+
+
+    Sanderson         further        explained       that outdoor        event-centered            uses are prohibited             within       300 feet of
+    a residential          zone      boundary,       a standard       intended          to mitigate       potential     impacts        such as noise,
+    lighting,      and evening           activity      on nearby       neighborhoods.              While      this regulation          applies
+   uniformly          across the city and does not reflect                       the management               quality    of any individual
+    operator,        it is designed           to address cominon             concerns        associated        with     outdoor     event venues.               He
+    concluded         by inviting         the applicant          to provide        additional       details     about their business,                the
+   nature       of the request,          and how the property                  would      be used.
+
+
+    Madeleine         Tate, Woodhaven                 Event      Center,       explained         that Woodhaven            currently        operates        as a
+    secondary         business         during      the weekday         and is seeking            to add a small-scale             event center
+    component.           She noted that the property's                     location       at the intersection           of multiple       zoning
+   districts      presents         unique       challenges      but also highlighted               physical      characteristics          that help
+   mitigate        potential         impacts,      including       significant          changes     in elevation        between        the event space
+    and nearby           homes,       as well      as existing       foliage     and natural          sound barriers.         Tate emphasized                 the
+   intent       to host limited,         low-impact          events     and to proactively                address neighborhood                concerns
+   through        sound mitigation               measures,       an early       shutdown          of music      and bar service           by 10:00
+   p.m.,       and direct         engagement         with    nearby      residents.        She concluded             by expressing          a desire to
+   work        collaboratively          with     the city to navigate             the complex          zoning     situation       while       aligning
+   with       the city's     planning         objectives.
+
+
+   Mayor         Jackson        asked about parking.              Tate said they have a verbal                   agreement         with       the
+   neighboring           bank to use their parking                   lot on weekends,             as long as nobody             parks there
+ Millcreek        City     Council        Meeting        Minutes                                    12 January             2026    Page 5 of 17
+
+
+
+    overnight.       Council         Member          Catten     asked about the elevation                   change.        Tate said it was a 150-
+    200 foot change.
+
+
+    Mayor        Jackson      clarified       that a code change would                   apply      city-wide       and not just to this site.
+    Sanderson        said that the proposed                 event center use is currently                    peri'nitted     only within         the
+    commercial           zone, and that the applicant                  is therefore         reqriesting        a text amendment               that would
+    apply broadly           to all properties          zoned       coi'nu'nercial.      He emphasized               that such a change            is a
+    legislative      decision        within     the council's          discretion,       wliich        is the primary        purpose      of the
+    discussion,          and noted that it would               be inappropriate             to require       the applicant        to pursue        a formal
+    application          if the council        had significant         concerns         with     the concept.            Sanderson      advised        that
+    any consideration            of this amendment                 sliould     be undeitaken             holistically,       evaluating        not only         all
+    properties      within      the commercial              zone but also adjacent                 properties       and those that could               be
+    rezoned       in the future       under       the city's       land use map. He stressed that zoning                          regulations          are
+    intended       to provide        predictability           and reliability        for both current            and surrounding              property
+    owners,       wlio    rely on these standards                when making             significant         investments.         While
+    acknowledging            that the current            applicant      may have good intentions,                        he cautioned         that zoning
+    changes must be evaluated                    in light      of how tliey        could       apply     to other businesses            with     differing
+    practices.
+
+
+    Mayor        Jackson     noted other areas in tlie city witli                      coinmercial          zones neighboring             residential,
+    such as along 3300 South.                   Sanderson          suggested       limiting        discretion       in application         based on
+   how tlie change            gets written.          He noted it would             be hard to enforce               since these businesses
+    operate      after city business            hours.      Tlie council        wondered           if tliere were parameters              that could          be
+   put in place to restrict             where        outdoor       reception      centers       corild     be allowed         since there are many
+   commercial            properties       directly     neigliboring           residential       properties       tl'iroughout        the city.     The
+    council      directed     staff to explore           the idea fiirtlier.
+
+
+3. Staff     Reports
+There were no reports.
+
+
+4. Discussion            of Agenda        Items,      Correspondence,                  and/or      Future        Agenda        Items
+Tl'iere was none.
+
+
+Council       Member         Uipi     moved        to adjourn         the work          meeting          at 6:33 p.m.         Council         Member
+Catten       seconded.       Mayor        Jackson         called     for the vote.          Council         Member           DeSirant         voted      yes,
+Council       Member         Handy        voted       yes, Council           Member         Uipi       voted     yes, and Mayor               Jackson
+voted      yes. The motion            passed       unanimously.
+
+
+
+REGULAR            MEETING                - 7:00 p.m.
+TIME       COMMENCED:                     7:01 p.m.
+
+
+1. Welcome,         Introduction              and Preliminary                Matters
+           1.I   Pledge      of Allegiance
+           Mayor     Jackson         called     the meeting          to order.     The Unified             Police    Department           Honor
+           Guard presented            the colors.        The National            Anthem         was sung by Miclielle                Willis      in lieu
+           of the pledge        of allegiance.
+Millcreek          City     Council         Meeting         Minutes                                 12 January        2026        Page 6 of 17
+
+
+
+            1.2 0aths          of Office;         Council       Member           Thom      DeSirant       and Council            Member         Bev
+            Uipi
+            The City Recorder                  administered        the oath to Council              Member       DeSirant.       Council       Member
+            Uipi's        father    Filia     Uipi,    a notary       public,    administered        the oath to her, and her son, Xane
+            Uipi,     accompanied.              The council        members          then thanked        friends,     families,      and constituents
+            for their support.
+
+
+            1.3 Proclamation                  of the Millcreek            Council        Recognizing         Millcreek's         First       Decade    as a
+            City
+            Mayor         Jackson      proclaimed           tlie following:
+
+
+               A PROCLAMATIONOFTHEMILLCREEKCOrJNCILRECOGNIZING                                                                 MILLCREEK'S
+               FIRST DECADE AS A CITY
+
+
+               WHEREAS,Millcreelc was inhabited for centuries by Ute, Goshute, and Northern Shoshone
+               indigenous peoples, became home to Mormon                                pioneers    begirtning     in 1848 who constntcted
+               lttmber and grist mills to harness the energy of Mill Creelc,and grew to include diverse peoples
+              from all around the world, including the largest early settlement ofAfrican-American pioneers
+               in Utah; and
+
+
+               WHEREAS, this area was governed as unincorporated Salt Lalce Covmtyfrom 1850-201 6, and
+              supported by the Millcreek Community Covmcil, EastMill Creek Commtmity                                               Covmcil, Canyon
+              Rim Citizens Aswciation,  and Mt. Olympus Community Council; and
+
+
+               WHEREAS, on November 3, 2015, 66% of area residents voted to incorporate as a city; and
+
+               WHEREAS, on December 28, 2016, at 9:30AAd, firstMayorJeff Silvestrini had the Articles of
+              Incorporation certified by Utah Lt. Governor Spencer Cox's office to officially create
+              Millcreek,           a Utah     Mvmicipal       Corporation;        and
+
+
+               WHEREAS, the newly incorporated city has grown and prospered in its first decade, master-
+              planned and built a city center; improved roads; launched a Promise Program;                                               and added
+              parks, trails, and open space, includingMillcreek  Common; and
+
+
+               WHEREAS, the City Council desires to celebrate the achievementsof the City's first decade.
+
+              NOF, THEREFORE, BE ITPROCLAIMED that the Cormcil, on behalf of the people of
+              Millcreek, officia[[y recognizes the City's first ten years and proclaims the year 2026 to be a
+              celebratory year marking the MillcreelcDecennial. May this milestone year be a special time to
+              strengthen the City we love, improve what we can, and imagine what comes next.
+
+
+              ADOPTED on this the12th day of January, 2026.
+
+        1.4 Public             Comment
+            Dr. Michae4            Rush, President            of Canyon         Rim     Citizens     Association       (CRCA),           emphasized
+            the association's               historic      and ongoing        role in shaping         Millcreek's       civic     identity.     He
+            recounted         the association's             origins     prior    to the city's      incorporation,         highlighting        its
+            successful        grassroots          effort    in the 1970s         to preserve        what is now Tanners             Park, an
+            initiative      that demonstrated               the community's              capacity     for organized        advocacy,
+            leadership,        and long-term               stewardship.         Dr. Rush asserted that the work                  of CRCA        and
+            similar       community            councils      laid essential       groundwork          for Millcreek's           incorporation         and
+Millcreek           City     Council       Meeting         Minutes                                   12 January             2026       Page 7 of 17
+
+
+
+            continues         to provide         meaningful           civic     value.     He argued that CRCA                   has long served              as a
+            constructive            partner     to the city by facilitating                structured        community           engagement,
+            reviewing          zoning      changes,         and ensuring           planning        decisions      reflect      both neigliborhood
+            and citywide             perspectives.         Dr. Rush contended                 that the proposal            to remove        CRCA's
+            recognized            status is not a minor              administrative           action,     but rather       the removal          of a proven
+            mechanism              for civic     participation         that risks unden'nining                 public     trust, transparency,                and
+            confidence            in inclusive       govet'nance.             He respectfiilly          disagreed       with    the legal justification
+            for the proposed              action,       stating     that it fails to account             for the association's             historical
+            significance            and continued          relevance.           Concluding,         he urged      the council          to preserve            the
+            recognized            status of CRCA            and other coinrnunity                  councils      as a way to honor              Millcreek's
+            civic     traditions        and reaffirm         its coinmitment              to meaningful          public        involvement.
+
+
+            Nancy          VonAllmen           shared a personal               account     of the origins         and lasting         impact       of the
+            CRCA,           describing        liow    a neglected         gully        near her home in 1976 inspired                    a coinimuiity-
+            led vision         for preservation            and public          use. That vision           led to the formation             of CRCA             as a
+            nonprofit         coinmunity          council         and ultimately          to the creation         of Parleys         Historic      Nature
+            Park and Tanner               Park, demonstrating                  the power       of organized         volunteer         efforts      to
+            transform         neglected         land into valued              coini'nunity        assets. She emphasized                 that CRCA             was
+            among          the earliest       corninunity          councils       in the valley         and has consistently             delivered
+            tangible        benefits      through        sustained       civic     engagement.            She argued that corninunity
+            councils         like CRCA          liave played          a vital     role in addressing            local needs and strengthening
+            Millcreek,         citing     initiatives       such as supporting               the creation        of Canyon         Rim Academy,
+            developing            emergency          preparedness             plans,    bridging     religious      divides,       establishing           parks
+            and recreational             amenities,        providing           services      for underserved            residents,       and contributing
+        to safe community                     events. VonAllmen                  stressed that CRCA              has worked           collaboratively
+        with         city planners            and leaders,        providing        infori'ned       resident     input      and supporting              the
+            city's    incorporation.            She expressed            strong        concern      over proposals             to remove        coinrnunity
+        councils             from     the city code, characterizing                     such action        as a serious        mistake      that
+        disregards             decades        of volunteer          service       and unden'nines           grassroots         democracy.          She urged
+        the council               to retain     community           councils        in the city code, asserting                 that they remain
+        essential            to residents        and to the continued                  success of Millcreek.
+
+
+        Robert             Peterson,      a fon'ner       chair of the CRCA,                 reflected      on the past decade of Millcreek's
+        development                 as a remarkable           example           of successful        comi'nunity-driven               planning.         He
+        noted that wliat                began as a general              plan for Millcreek               Township         evolved        into a unique
+        and locally            tailored        city plan through              extensive       collaboration         between        community
+        members,              city leadership,           and planning             staff. Peterson         emphasized           that Millcreek's
+        incorporation-and                      even the existence               of the city and its civic               facilities-was           the result
+        of years of sustained                   effort     by coinrnunity              councils     and residents,          inc)uding       seven years
+        of work             to place incorporation                on the ballot.          He cautioned          that disregarding           or
+        diminishing               tl'ie role of coinrnunity             councils         would      overlook      their     foundational
+        contributions                and represent         a significant          misstep.        Peterson      urged      city leaders         to recognize
+        the essential               role these councils            have played            in shaping       Millcreek        and to avoid           moving           in
+        a direction            that would         rindermine          the comi'nunity             engagement        that made the city possible.
+
+
+        CJ Johnson,                CRCA,        addressed         the council          in support        of retaining       the coininunity             council
+        ordinance,             Chapter        2.56 of the Millcreek                Code. While            aclaiowledging           that an infon'nal
+        opinion            from     the State Property              Riglits      Ombudsman           suggests       coinmunity            councils        could
+Millcreek          City     Council           Meeting          Minutes                                         12 January             2026         Page           8 of 17
+
+
+
+            be considered              "public         bodies"       under         tlie Utah       Open        and Public           Meetings           Act,       Johnson
+            argued         that this inteipretation                  is legally       flawed.          She emphasized                that     a key       component                of
+            the statutory             definition-a             public       body      must      be vested         with      authority          to make            decisions
+            regarding          the public          interest-does               not apply          to community              councils,           as they       have       no
+            decision-making                  power        or ability        to set policy.            Rather,     tliey     function          solely       as conduits
+            for resident            input,     sliaring        ideas,      concerns,         and perspectives               with      city     officials          who       hold
+            actual        goveri'irnental          authority.           Johnson        urged       tlie council          to reject      the proposal                to repeal
+            the ordinance,              cautioning           against        discarding          a long-standing              mechanism                 for civic
+            engagement               that facilitates           communication                 between          residents      and governi'nent.
+
+
+            Kara       Cope,        CRCA,         said there         is a toxic       political         environinent          nationwide                and the
+            cancellation             of the coini'nunity                councils       is not only          dismissive,          but it is another                 way       to
+            silence        the citizens.
+
+
+            Alien      Sowards,           Millcreek            Comi'nunity           Council          Chair,     addressed           the mayor             and council
+            using      the metaphor              of Ebenezer             Scrooge           to illustrate        the importance                of learning           from          past
+            experiences.             He explained              that community                 corincils        were    established             over      40 years           ago in
+            response         to rapid,         often      rinregulated             development            that left       residents          feeling       excluded           and
+            overlooked.              These       councils       were       intended          to give       cominunities             a voice       in planning               and
+            development               decisions,          ensuring         transparency,              participation,         and accountability.                     Sowards
+            warned         tliat    dismantling            or weakening              the coi'ninunity            council         structure        risks       returning
+            the city       to a past where              development                occurred        without       meaningful             coininunity                input.      He
+            highliglited            ongoing        pressures         from      both        external       sources,        such      as state legislation,                   and
+            internal        policy      changes          affecting         zoning,         code    enforcement,             and development,                       noting         that
+            many       of these         changes         disproportionately                  impact        the west        side of Millcreek,                  a
+            coi'nu'nunity           already      identified          as one of the least healthy                      in the state.           Sowards             argued       that
+            eliminating             or reducing           the role       of comi'nunity             councils       would         compound               these
+            inequities,            destabilize         neighborhoods,                and ignore           the critical       role     in fostering            comi'nunity
+            engagement.               He urged         the council           to preserve           the community              councils'           role,       emphasizing
+            that they        are part        of the solution             for equitable,            infori'ned         governance,             not a problem                 to be
+            removed.
+
+
+            Marvin         Poulson,          Millcreek          resident,          asked     how      removing           a layer      of informal             input         that
+            tlie coi'nu'nunity           council        provides          would       make        the city      better.      More       people          participate           in
+            the coinmunity               council        meetings           tlian    do in the city           council       meetings.
+
+
+            Nate     Gibby          requested          an email         he submitted            to the council            be included             in the record,              see
+            below.        He echoed            sentiments          supporting            the continuance               of the community                    councils.           He
+            urged      the city        council         to consider          furthering         the conversation               about         how    to make            the
+            coinmunity              councils       more        effective       and how            to comply        with      the law          at the same time
+            rather     than doing             away      with     the councils.
+            "Iplan        on attending           tonight's      city council         meetirig       to listen and contribute                  to the conversation
+            regarding the modification of the city's code to effectually eliminate the current status of
+            community councils. Recognizing some of the issues the city has taken with the current paradigm
+            with the commtmity councils (inchtdirxg treatment of city planners, overtime for city staffers, too
+            much time spent on plannirig                       issues, open records                requirements,           etc.), removing             commtmity
+            cormcils entirely from the city's code is not the answer. Doing so effectively eliminates the most
+            basicform of rmmicipal involvement and renders the commtmity cormcil nothing more than a
+            local affinity group. The community covmcil gives another dozenpeople in our district the ability
+Millcreek          City     Council     Meeting        Minutes                                     12 January         2026     Page 9 of 17
+
+
+
+            to get involved and have a small senseof influence in mtmicipal affairs. I believe that the council
+            has tremendouspotential to be a force for good in our community. Rather than being no more
+            than a once-a-month gripe sessions,I thinlc that these councils can befimdamental in
+            empowering our citizens to be a force for good. rll save my thoughts on all of the good they can
+            dofor another conversation. Instead of removing themfrom the code, can we malcemore an
+            atteinpt to reconcile the city's legal, financial and operational concerns with the important role
+            community          councils play in mvmicipal government                       and the potential       they have to serve the
+            community? rll be thefirst to recognize that the community councils should riot be thefimior
+        planning            commission     and that there is much to be improved                       in how they operate. However,
+            working through the process shovdd beprecursor to changirig code. If said councils are subject to
+            open records laws, lels bring them in compliance. If city staffersfeel mistreated or the extra time
+            becomestaxing, let's set expectationsfor how the coymcilsprovide feedbaclc andfind a way to
+            maintain comrmmication channels that may not require a staffer's in-person attendance at an
+            evening meeting. Thepoint is that we need to give more dueprocess and attempt to fix issues
+        prior to simply eliminating what the city views as problematic. I recognize that the meeting held
+        on December 17 was an attempt to do exactly whatrm        describing. However, holding it on a
+            weekday during businesshours right before the holidays made it difficult for many of us to attend.
+            nile     a step in the right direction,             it is not enough to merit changing                 code to eliminate           their
+        status. Thesecovmcils have existedfor decadesand played a fimdamental role in becoming a city.
+        It wovdd not be prudent to overlook their historical and present contributions by effectively
+        neutering them. rm happy to continue to push CRCA to improve. To that end rve had
+        conversations with Mike Rush privately and then publicly at the last council meeting. I welcome
+        your involvement in that process. In the meantime, I implore you not to remove commvmity
+            covmcilsfrom city code, but first to continue to engage with the councils to improve their
+            operation in ways that benefit both residents and the mtmicipality. Thanlcsfor your
+            consideration."
+
+
+            Chip     Spencer,       Millcreek       Coi'nu'nunity         Council,         expressed     concern      that the city's         proposal
+        to eliminate            community           councils      represents         a separation        of city leadership         from       the
+        people            it serves. He referenced             the U.S. Constitution,                noting   that government            exists to
+        serve "We             the People,"        and argued        that community                 councils    are a vital    conduit         for citizen
+        input,        shaping       discussions       and decisions              that ultimately       reacli the planning          coini'nission
+        and city council.               Spencer      emphasized            that while        residents    can still     attend fori'nal
+        meetings,             these venues      do not provide             the same depth of engagement,                     dialogue,         and
+        influence           that community            corincils     offer.       He expressed          disappointment         that tlie city
+        appears to be disregarding                    this established             mechanism          for public      participation,         citing
+        instances           where     legislators      suggested          councils         might    be uru'iecessary,        and urged the
+        council           to maintain     coini'nunity         councils          to preserve       meaningful       connection         between
+        residents           and city leadership.
+
+
+        Pete Liacopoulos                expressed       support         and appreciation            for the city council,          acknowledging
+        their       efforts     and praising        their responsiveness                  to community        conceriis.     Drawing          from
+        personal           experience,      he described          organizing              a large neighborhood           meeting       with     Mayor
+        Silvestrini           and Councilman           DeSirant,          highlighting           the value    of residents      actively
+        engaging            with    neighbors       to address          local    issues and bring         ideas to city leadership.               He
+        encouraged             others to connect          with     their        comi'nunities,       noting    that collaboration             is key to
+        solving           problems.     Additionally,          he raised          local    concerns,     such as deteriorating             roads on
+        1500 East and future                planning       for the 2034 0lympics,                    suggesting       coini'nunity-driven
+        initiatives           like cominemorative              flags.     Overall,        he emphasized         the importance          of
+Mfflcreek          City      Council          Meeting          Minutes                                        12 January                2026       Page 10 of 17
+
+
+
+            neighborly              engagement,          praised         tlie council's             work,      and encouraged                  contimied
+            involvement               and dialogue            between          residents           and city       officials.
+
+
+Council       Member              DeSirant          moved        to amend              the     agenda         to move           item     3.3 up next.             Council
+Member           Uipi      seconded.           Mayor          Jackson          caned         for    the vote.         Council          Member            Catten        voted
+yes, Council            Member             DeSirant           voted     yes, Council                Member            Handy        voted        yes, Council
+Member           Uipi      voted       yes, and        Mayor          Jackson          voted         yes. The         motion           passed      unanimously
+
+
+3. Business           Matters
+            3.3 Discussion                 and     Consideration               of Ordinance                 26-05,      Amending                Chapter           5.19 of
+            the Millcreek               Code        of Ordinances               with         Respect        to Short-Term                  Rentals
+            Alex        Wendt        explained        recent      updates          to Millcreek's                short-tenn        rental        (STR)      regulations
+            under        Chapter        5.19,      developed           collaboratively               with     the city         attorney,        planning          staff,    and
+            code        compliance.           While      many         changes         were         stylistic-sucli             as replacing         "short-teri'n
+            rental"        with     "STR"-several                 substantive           updates           address       enforcement               and compliance
+            issues.       Tl'ie primary            revision      focuses        on verifying              that a rental          property         is the applicant's
+            primary         residence.           Previously,           a list of ten acceptable                   documents              sometimes          allowed
+            individuals             to misrepresent             ownership;            the revised           process       now       requires        a government-
+            issued        ID plus       two      additional       proofs,        such        as car registration,                voter     registration,           W-2        or
+            1099        forins      (redacted),        or property            ownership             documentation.               This         change      ensures
+            compliance              without        burdening           legitimate        applicants.             Additional            updates      clarify        that
+            applications             or licenses        unpaid         or inactive           for more        than      30 days          are considered
+            abandoned             and will         be closed,         and that each person                   may       hold      only      one STR         license.
+            These         revisions        are intended          to streamline               administration,              prevent         abuse,        and maintain
+            compliance              with    city    code.
+
+
+            Council         Member            DeSirant         noted     the city       is not allowed                to look      at short-tenn            rental
+            websites         for listings          for enforcement.               Rentals           are required          to have         a business            license.
+
+
+Council       Member              DeSirant          moved        to approve             Ordinance                26-05,        Amending            Chapter           5.19      of
+the Millcreek              Code       of Ordinances              with         Respect         to Short-Term                Rentals.            Council          Member
+Catten      seconded.             The      Recorder           caned for the vote.                    Council          Member             Catten         voted      yes,
+Council       Member              DeSirant          voted       yes, Council            Member              Handy         voted         yes, Council              Member
+Uipi     voted     yes, and           Mayor         Jackson           voted     yes. The            motion        passed         unanimously.
+
+
+2. Planning           Matters
+            2.1 Public            Hearing          to Consider            Vacating             and     Removing            the     GGPlanned             Unit
+            Development                 (P.U.D.)"        and "Open               Space"            Designations            and         Lots     1, 2, and 10 from
+           "The         Woods          at Rosecrest            P.U.D.         Subdivision"
+            Brad        Sanderson          provided         an overview             of a proposed                ordinance         concerning             a subdivision
+            originally           approved          in 2014      as a Planned             Unit       Development                (PUD).         He explained             that
+            PUDs         were       historically        used to grant            exceptions             or alternative            development              standards,
+            such as reduced                setbacks,        private       roads,       or small         open spaces,             though         in this     case the
+            open        space was minimal                and not highly                usable.        Since       the city       has largely           phased       out
+            PUDs         in favor       of updated            development             codes,         the current        proposal           seeks to rezone                 most
+            of the subdivision                to R-1-6,         aligning        lot sizes with              standard       requirements.                Additionally,
+            lots 1, 2, and 10 are being                       removed          from     the subdivision                because          they     lack     access to the
+            private        street     and open         space      and do not integrate                    with       the existing          PUD      infrastructure
+ Millcreek        City     Council        Meeting         Minutes                                   12 January             2026          Page 11 of 17
+
+
+
+             While       administrative          amendments             could     now suffice           under recent         changes to Utah               state
+             code, the county            requested         an ordinance           be passed to forinally             vacate these lots and
+             remove       the PUD        designation.           Sanderson          clarified     that no new development                     is proposed;
+             the ordinance          purely       addresses        administrative           adjustments           to the subdivision's           plat and
+             zontng.
+
+
+
+ Council       Member         Uipi      moved        to open the public               hearing.         Council       Member              DeSirant
+ seconded.        Mayor       Jackson         called       for the vote.          Council        Member           Catten      voted        yes, Council
+Member          DeSirant         voted     yes, Council             Member          Handy        voted     yes, Council           Member            Uipi
+voted      yes, and Mayor               Jackson         voted     yes. The motion               passed      unanimously
+
+
+             Nan Bassett,        Walnut        Park Cove,           thanked        Sanderson           for speaking        on behalf        of the HOA.
+
+
+Council       Member          DeSirant           moved         to close the public              hearing.        Council      Member           Uipi
+seconded.        Mayor        Jackson         called       for the vote.          Council        Member           Catten     voted        yes, Council
+Member         DeSirant        voted       yes, Council             Member          Handy        voted     yes, Council           Member            Uipi
+voted      yes, and Mayor               Jackson         voted     yes. The motion               passed      unanimously
+
+
+             2.2 Discussion          and Consideration                   of Ordinance             26-01,     Vacating         and Removing                 the
+           "Planned          Unit       Development             (P.U.D.)"         and "Open             Space"      Designations;             and Further
+           Vacating         and Removing                 Lots 1, 2, and 10 from                  "The      Woods          at Rosecrest         P.U.D.
+             Subdivision"
+
+
+Council       Member          Catten       moved          to approve        Ordinance             26-01,     Vacating         and Removing                 the
+"Planned         Unit     Development               (P.U.D.)"       and "Open              Space"       Designations;            and Further
+Vacating        and Removing               Lots 1, 2, and 10 from "The                         Woods       at Rosecrest           p.n.n.
+Subdivision."            Councn         Member           Handy       seconded.         The Recorder               called     for the vote.           Council
+Member         Catten       voted       yes, Council            Member          DeSirant         voted     yes, Council           Member            Handy
+voted     yes, Council         Member            Uipi     voted      yes, and Mayor               Jackson         voted     yes. The motion
+passed       unanimously
+
+
+           2.3 Discussion            and Consideration                  of Ordinance              26-02,    Adding          a Water         Preservation
+           Element         to the General               Plan    Pursuant          to Utah        Code      Ann.     § 10-20-401            and § 10-20-
+           404
+           Sean Murray           provided           an overview         of the second reading                   of a water     conservation           plan,
+           wliicl'i     has been reviewed               by the city council,            planning         commission,          and coi'nununity
+           corincils.      The plan assesses current                    water     consumption            in Millcreek         and outlines
+           strategies       to meet future           conservation          targets      established        by local water providers                   such as
+           Salt Lake Public             Utilities       and the Jordan            Valley       Water     Conservancy           District.      Updates
+           since the previous             review        primatily       clarify     the goals and strategies                 section,       set clearer
+           bencl'imarks,         and improve             readability,       while     also including             minor     grainmatical         edits and
+           reorganizations.             The plan emphasizes                public      education         and outreach,           witli     staff already
+           coordinating          with    local      groups      like "Slow         the Flow"        to promote           water     conservation
+           programs         and rebate initiatives.               Murray        noted that these updates                  aim to make the plan
+           actionable        and understandable                 for residents        and city officials.
+
+
+Council       Member         DeSirant         moved         to approve            Ordinance            26-02,     Adding       a Water
+Preservation           Element       to the General              Plan     Pursuant          to Utah        Code      Ann.      § 10-20-401           and §
+Millcreek           City     Council        Meeting           Minutes                                   12 January               2026        Page 12 of 17
+
+
+
+10-20-404.          Council       Member              Uipi     seconded.           The Recorder              called       for the vote.          Council
+Member         Catten         voted      yes, Council               Member         DeSirant          voted      yes, Council             Member            Handy
+voted    yes, Council            Member             Uipi      voted      yes, and Mayor               Jackson            voted     yes. The motion
+passed      unanimously.
+
+
+3. Business          Matters         Continued
+            3.1 Discussion              and Consideration                     of Ordinance            26-03,      Repealing             Chapter          2.56 of the
+            Millcreek          Code         of Ordinances              Regarding            Community             Districts           and Community
+            Councils
+            Mayor          Jackson      said the city started talking                   about this code over a year ago after the City
+            Attorney,         John Brems,             liad some concerns                regarding         tlie coini'nunity            councils         and
+            adherence          to the Open and Public                    Meetings        Act.       Francis      Lilly     said Brems           consulted           tlie
+            Utah Propeity              Rights       Ombudsman             regarding           coininunity         councils,         which       raised         concerns
+            about their         formal       role in making              recommendations                to tlie plaru'iing            commission.              While
+            acknowledging               the long-standing                histoiy      and value of community                       councils       in Millcreek,
+            Lilly     noted that codifying                   their recoi'mnendation                 authority      tl'irough        ordinance           effectively
+            creates a forinal            decision-making                 role, similar         to that of the planning                  commission.              To
+            address this, staff researched                      other jurisdictions,                such as Salt Lake City,                  which        has
+            decoripled         its coini'nunity            councils       from      fon'nal     land use recommendations                         while
+            maintaining          infon'nal          advisoi'y        roles.     Likewise,       the Municipal              Services         District      no longer
+            formally         recognizes            community           councils       in planning         processes.          Lilly     emphasized              tliat
+            this shift does not prevent                      coinmunity          councils       from      continuing          to provide         inforinal
+            recorni'nendations               or engage with              the city, preserving             their     ability       to contribute           to
+            coininunity         input       and engagement.
+
+
+            Mayor          Jackson      explained            that following          the informal          opinion         from       the Utah Property
+            Rights         Ombudsman,              the city explored             potential       hybrid       solutions          to allow      coinmunity
+            councils         to remain        codified         while     complying           with     state law. After             extensive       discussion
+            and clarification            in October,            it was deterinined              that no workable                 solution      exists that
+            accoini'nodates            both fon'nal           recognition          and legal compliance.                   The mayor            emphasized
+            that tlie city is not seeking                    to eliminate          coini'nunity        councils,         acknowledging                 their
+            significant        contributions            and achievements,                which        have been driven                by resident          initiative
+            across the city. However,                      forinal      recognition          of council         recoini'nendations              conflicts         with
+            the Open and Public                    Meetings         Act, making          exemptions             legally     infeasible.         The mayor
+            reassured         that the city would               continue         supporting          community            councils          by providing
+            funding         for events,       covering          insurance,         and offering         meeting           space at no cost,
+            encouraging           councils          to continue         their     coinmunity          engagement              while     adapting          to these
+            legal requirements.
+
+
+            Council         Member          Uipi      explained         that while      some coininunity                  councils       in her district,               Mt.
+            Olympus           and East Mill            Creek,        were not represented               at the meeting,               she has engaged               with
+            their leaders        and empliasized                 the historical         value       and long-standing                 contributions             of all
+            corninunity         councils.          She clarified          that these councils              are private           citizen-created
+            organizations            with     their    own bylaws             and articles          of incorporation,              and the proposed
+            repeal         of code Chapter            2.56 does not require                 them to dissolve               or stop meeting.              Rather,          the
+            repeal reflects            compliance            with      state law and changes how the city fon'nally                                recognizes
+            councils,        without        eliminating          their ability        to participate          in public          processes        or provide
+            recommendations                  at planning            coinmission        meetings.          Council         Member         Uipi     also noted the
+Millcreek           City    Council        Meeting        Minutes                                    12 January             2026       Page 13 of 17
+
+
+
+            importance           of councils         in supporting         cortu'nunity          priorities,      events,     and traditions-such
+            as collaborations             with      the Lions        Club or the Arts            Council-and           highlighted           ongoing
+
+            considerations              regarding      indeinnification             for such activities.           Overall,        she stressed that the
+            repeal preserves              the councils'         autonomy,          recognizes        their generational             value,      and ensures
+            they can continue              operating         according       to their own governance                   while       aligning      the city
+            with     legal requirements.
+
+
+            Lilly     explained         that when private             organizations          partner      with     the city on projects,              there are
+            generally         two approaches             to ensure liability           coverage.        First,     if the organization              is a
+            nonprofit         with    its own insurance-like                  the Rotary          Club-proof           of that coverage              is
+            sufficient.        Second,       for projects        involving         volunteers,        such as comi'nunity               clean-up          days,
+            the city can require               participants          to sign volunteer           waivers,        thereby     providing         temporary
+            indeinnification             through      the city. Additionally,               funding       requests         from    organizations            can
+            include        administrative           expenses,         such as insurance,            as part of a formal             10-8-2       study (Utali
+            State Code 10-8-2)               request.       Essentially,         indeinnification           can either be managed                   through
+            contractual         agreements           or structured        volunteer        programs,           ensuring      both safety         and
+            compliance          while      enabling       community           engagement.
+
+
+            Mayor          Jackson      noted the East Mill              Creek      Coinmunity          Council        gets insurance            through           tlie
+            Association          of Comi'nunity             Councils       Together.        She suggested            the other councils              look into
+            it. The councils            could      also request        a 10-8-2       study with        the city to help pay for
+            administrative            funds.      Council       Member       Uipi      noted that the Mount                 Olympus          Corni'nunity
+            Council         currently      does not have a chair,                which      makes       it challenging            to track membership
+            and recruitment              within     that area. While          acla'iowledging             that each community                  council        may
+        face different               challenges,       she emphasized               tliat existing       councils      should         continue       to
+        operate            according       to their bylaws            and articles        of incorporation           and remain             engaged        witli
+        the city.           She also suggested              tliat the city could           explore      ways to make planning
+        applications             a more robust           and inclusive           public     process,        ensuring        that community                input      is
+        heard even as formal                      recognition         of tlie councils'          changes.
+
+
+        Lilly        acknowledged              that the concerns           raised by comi'nunity                  council     representatives
+        regarding            public      participation          and communication                 are reasonable.           He proposed             that the
+        city could            continue       providing        councils       with      an opportunity            to offer     input    by holding            open
+        houses at least two to three weeks prior                              to planning           coinrnission        meetings.           These sessions
+        would          allow     council        representatives,          residents,        and other community                   groups      to meet with
+        planners            and applicants,           discuss     proposals,         and fon'nulate            recoini'nendations            to submit            via
+        email         or present         at the planning         coi'nu'nission.         Lilly    noted that tliis approach,                 modeled
+        after Salt Lake City's                    system,     preserves       the value of early comi'nunity                       input     while
+        remaining             inclusive        to all interested         organizations,           ensuring        meaningful           dialogue       witliout
+        giving         special       status exclusively              to coini'nunity        councils.
+
+
+        Council            Member         Catten      expressed         a deep personal            connection        to cominunity             councils,
+        noting         that both she and former                  Mayor       Silvestrini         began their        public        service     througli
+        these councils               and recognize           their    exceptional         value.     However,          slie suggested          that
+        creating           some distance           between       the councils          and the city could             help them operate                more
+        independently                and return       to the level        of initiative          they once had. Drawing                 on her own
+        experience             managing           coi'ninunications,         events,       and recoini'nendations                  on a council,           she
+        noted that much                  of tliat work       is now supported              by city departments,                which        could     allow
+Millcreek           City    Council          Meeting            Minutes                                              22 January                  2026            Page 14 of 17
+
+
+
+            councils         to focus         on leadership             and engagement                      rather       than administrative                          tasks.     Corincil
+            Member           Catten      emphasized                 that tlie proposed                clianges           do not dissolve                      the councils-they
+            will     continue         to receive           support        and fiinding-and                      she encouraged                         them      to leverage               their
+            independence               and unique              community             identities.            She referenced                     Salt     Lake       City's        Sugar
+            House          Community              Council          as an example             of a highly                autonomous                     and effective             model
+            and expressed              hope       tliat     Millcreek's          coruicils           could       similarly             thrive,          collaborate,             and
+            erffiance       tlieir    impact         wliile        maintaining           their       local      character.             She concluded                    by stressing
+            her coini'nitment                to ensuring            avenues        for community                     input       and support                  through          this
+            transition,        encouraging                 councils       to seek assistance                    and engage                actively            with      the city.
+
+
+            Council         Member           Uipi      asked        if the cominunity                  councils           had engaged                    witli     staff       on ways             to
+            address         the Ombudsman's                     opinion.        Lilly      felt      he had not received                         adeqriate            feedback.
+            Council         Member           Uipi      asked        if other     cities      recognized                 community                  councils.           Lilly
+            explained         that     Salt Lake            City     is currently          reevaluating                 its relationship                  witli       corninunity
+            councils         due to ongoing                 concerns         about       liability          risks,      despite          the councils'                 informal
+            status.        She noted         that the Municipal                  Services            District         (MSD)            still      has ordinances
+            recognizing              community             councils        but does not actively                        engage           with          them,       highlighting
+            that ordinances              often       lag behind           practice.        Lilly       acknowledged                      that over             the past year he
+            made        multiple        efforts       to solicit       input      from       the councils                and other               organizations                 to address
+            liability       and procedural                 concerns        but received               limited           feedback.              He empliasized                   that the
+            core issue         is why         four    independent              community               councils             are given              formal         recognition               in
+            the city        code,     while       other       coinmunity             organizations-sucli                         as the Rotary                   Club,         Lions
+            Club,       or Utah        Physicians             for a Healthy             Envirom'nent-do                        not receive                the same             status.
+            Lilly       stressed      that his goal            was to find            a solution             that mirrored               Salt Lake               City's        approach
+            while       addressing           the fundamental                 legal      concerns             raised       by the Utah                   Property          Rights
+            Ombudsman.
+
+
+            Mayor          Jackson       acknowledged                  the extensive              research           and effort                Lilly     has invested              in
+            reviewing          state code            and consulting              with      other       cities        to address            the coinmunity                      corincil
+            issue.       Sl'ie emphasized                 that the city        highly       values           the input          received               from       coirununity
+            councils         and that their           contributions              are an important                    source        of corninunity                     feedback.
+            However,          she clarified               that fonnal        recognition               in city        code is not required                         for councils               or
+            residents        to hold         meetings,          gather       input,      and provide                 opinions-citing                       an example                 of a
+            resident        hosting       75 people            to discuss         road      conditions               with       city     officials.              Mayor         Jackson
+            recognized           that the changes                  represent         a significant              shift     and may                feel disrespectful                   to
+            some        but stressed          that the decision               was carefully                  considered            to balance                 legal
+            requirements              with     continued            coinmunity            engagement.
+
+
+            Mike        Winder        explained            that,     a:tter consuJting               with     the city          attorney,              there      are significant
+            liability       concenis         tied to the corninunity                     councils'            formal           recognition,               particularly
+            regarding         compliance              with      the Open         and Public              Meetings              Act,       election            integrity,         and
+            ensuring         equitable         representation              across        councils            of different              sizes.          He emphasized                   that
+            decoupling           the councils              from      the city     satisfies           these legal              and liability               concerns            while
+            allowing         them      to continue             as independent               organizations                 without              the burdens              of fonnal
+            election        processes          or costly           meeting       requirements.                  Winder          highlighted                 that      cominunity
+            councils        can still        contribute            meaningfully,             collaborate                with     city      departments                  and events,
+            and receive            support        from        the city,      such as being               included              on coi'nununity                   calendars.
+Mfflcreek          City         Council           Meeting         Minutes                                               12 January            2026         Page 15 of 17
+
+
+
+            Annual           reviews         and funding                allocations           through            the city's        10-8-2        studies      will     continue,
+            maintaining              opportunities               for councils              to thrive        while         addressing          legal     compliance.
+
+
+            Mayor           Jackson         acknowledged                   that election             procedures             have been            a significant          concern,
+            noting        that many               coinmunity             council          members           were         appointed         outside      of fon'nal           election
+            cycles        to fill    needed           roles.     While           this helped             increase         participation,            it did not follow               the
+            legal       bylaws       required           for a fonnally                  recognized              city    body.      She emphasized                that the recent
+            changes          provide          councils          with       greater         flexibility           to grow,         expand         membership,             and
+            pursue          activities        beyond           formal          planning          input,     such as events                 and community
+            engagement.               Mayor           Jackson           expressed           hope         that corni'nunity               councils      will     continue            to
+            gather        public      input,         serve      as a vibrant              part    of the coini'nunity,                   and maintain            strong
+            connections              with         the city,     while          adapting          to a reimagined                  role    moving        forward.
+
+
+            Council          Member               DeSirant        acknowledged                    the complexity                  of the situation            and the sense
+            among           community               council       members                that they        may          not feel fully        respected.          He
+            emphasized              that the decoupling                        does not mean               the end of community                        councils,         many            of
+            which         predate         the city's          incorporation                and operate             under        their     own       bylaws.      He
+            highlighted             concerns           about       the significant                staff     time        required         to support        multiple
+            councils,            sometimes            meeting            simultaneously,                  and noted            that the trial         of a once-a-month
+            consolidated             meeting           is a practical              step forward.                He emphasized                that the city            would
+            continue            to support           comt'nunity               councils       and other            nonprofit            paitners,      recognizing             the
+            need to review                 and refine           these relationships                      over     time,      similar       to ongoing           efforts       in Salt
+            Lake        City.     Council           Member              Handy       recognized              the value           of the coinmunity                councils.
+
+
+            Council          Member               Catten      emphasized                 the importance                 of flexibility           and ongoing            evaluation
+            regarding            the coinrnunity               councils.           She expressed                   a desire        for reassurance              that if the
+            current         approach              does not work,                for example,              if all four          coi'mnunity           councils        were      to
+            disband          or other        rinforeseen            issues         arise,     the city          could      revisit       the process          and explore
+            ways        to improve            it. Slie clarified                that this does not mean                        reinstating          code 2.56,          but rather
+            maintaining             a commitment                  to an infon'nal                 relationship             that    continues          to value        and
+            incorporate             the councils'              voices          and opinions               as the city          moves        forward.
+
+
+            Public        audience          members             who        spoke         in favor         of not repealing                code      Chapter          2.56    during
+            public        comment            began         to persistently                disrupt        the meeting.             In response,          Council             Member
+            Catten        expressed               deep frustration               with      challenges             faced      by some          community               councils,
+            noting        that    certain          members          have         consistently             attempted             to push      personal         agendas          or
+            hijack       meetings,            creating         difficulties              for staff       in managing              proceedings.             While
+            emphasizing              that this behavior                    does not reflect                all councils            or all meetings,              she
+            acla'iowledged                tliat     these     issues       make          it hard     to operate             effectively.            She conveyed              a strong
+            desire       for community                 councils           to continue             existing             and contributing,              but stressed           that
+            creating         some "space"                  between         the city         and councils                 may      be necessary          to allow            them     to
+            fiinction        more        productively,              maintain             better      engagement,                and ensure           greater         alignment
+        with         city       processes,           while      still     valuing          tlie important               work      they     do.
+
+
+        Council             Member            Uipi      added           that    certain       meetings             have     seen comments                  become
+        extremely                confrontational                toward           staff     and developers,                 sometimes             preventing           applicants
+        from         speaking,            which        creates           significant          liability          concerns          for the city.        While
+        acknowledging                      these      challenges,               she emphasized                   that the value             of grassroots             community
+Millcreek        City         Council       Meeting            Minutes                                       12 January            2026          Page 16 of 17
+
+
+
+            organizations              remains        clear.        She also noted            that the issue has been under                        review          for over
+            a year,     with         the mayor's           letter    based       on the ombudsman's                     guidance         shared         witli
+            corninunity              councils      more       than     a month         ago and expressed                  disappointment                that some
+            feedback           was only         now     being        raised.
+
+
+Council       Member             DeSirant          moved            to approve             Ordinance           26-03,      Repealing             Chapter            2.56        of
+the Millcreek            Code         of Ordinances                 Regarding              Community             Districts        and     Community
+Councils.        Council             Member         Uipi       seconded.            The      Recorder          called      for    the vote.        Council
+Member          Catten         voted      yes, Council               Member            DeSirant          voted      yes, Council             Member               Handy
+voted     yes, Council               Member         Uipi       voted        yes, and         Mayor        Jackson          voted        yes. The         motion
+passed      unanimously
+
+
+            3.2 Discussion               and      Consideration                 of Ordinance              26-04,        Prohibiting          the Removal                   of
+            Snow        and      Ice from          Municipal            Pickleball            Courts
+            Mayor       Jackson          said tlie ordinance                 was proposed              in response           to damage           sustained           by the
+            city's     new      pickleball         courts       last year,          when      enthusiastic          coini'nunity         members                shoveled
+            snow       off the courts           before        the season.            Although          the intent       was well-meaning,                       the activity
+            damaged            the court        surface,       requiring            over     $8,000 in repairs            and forcing            a closure          during
+            the suini'ner            months.       To prevent           this    from        liappening         again,     tlie city      is proposing              an
+            ordinance           tl'iat prohibits        snow         removal          from     the courts,         with      a $1,000 fine          for violations.
+            Signs      will     be posted          at the courts            explaining         the rule,       the associated            fine,     and the
+            reason-highlighting                     how       snow      removal            can damage          tlie surfaces-to              serve        as a
+            deterrent          and protect         the city's         investment             in the courts         for long-term            use.
+
+
+Council       Member             Handy          moved         to approve             Ordinance            26-04,        Prohibiting          the Removal                   of
+Snow      and    Ice from             Municipal            Pickleball           Courts.        Council         Member            Uipi     seconded.               The
+Recorder        called         for     the vote.       Council          Member              Catten       voted      yes, Council            Member                DeSirant
+voted     yes, Council               Member         Handy            voted      yes, Council             Member           Uipi     voted         yes, and          Mayor
+Jackson       voted       yes. The          motion          passed          unanimously.
+
+
+4. Reports
+            4.1 Mayor's               Report
+            Mayor       Jackson          reported        on recent           city    events      and other         entities'       events        held     at city hall.
+            She mentioned                the state Division                 of Air     Quality        would      be having          a public        hearing          on
+            January       28t'l at Millcreek                City     Hall      regarding         potential       gravel        pits in Parleys            Canyon.
+
+
+            4.2 City          Council       Member             Reports
+            Corincil      Member            Uipi      reported         on attending            an event        where       Millcreek         was recognized                     as
+            one of 100 companies                      championing               women.         She also attended                 a Central        Wasatch
+            Coini'nission             meeting       where          Millcreek         Canyon          parking      was discussed.             Residents              want        to
+            see more          shuttles      in the canyon.              Council            Member        DeSirant         attended        a League              of Cities
+            and Towns            Legislative          Policy         Cominittee             meeting.
+
+
+            4.3 Staff         Reports
+            There      were      no reports.
+
+
+5. Consent           Agenda
+            5.1 Approval              of December              8, 2025         Work        Meeting       and Regular             Meeting          Minutes
+Millcreek           City     Council          Meeting        Minutes                                  12 January           2026      Page 17 of 17
+
+
+
+
+Council           Member           Uipi     moved       to approve          item    5.1. Councn            Member         DeSirant         seconded.
+Mayor         Jackson            called     for     the vote.     Council        Member           Catten      voted   yes, Council          Member
+DeSirant           voted         yes, Council          Member          Handy       voted     yes, Council         Member           Uipi    voted     yes,
+and       Mayor          Jackson          voted     yes. The      motion        passed      unanimously.
+
+
+6. New        Items        for    Subsequent            Consideration
+There       was none.
+
+
+7.    Calendar            of Upcoming               Meetings
+      *    Planning         Coinmission             Mtg.,    1/21/26,       5:00 p.m.
+      *    City    Council         Mtg.      1/26/26        7:00 p.m.
+
+
+
+
+ADJOURNED:                       Council          Member        Uipi    moved       to adjourn            the meeting       at 8:55       p.m.     Council
+Member            Catten          seconded.         Mayor        Jackson        called     for    the vote.     Council       Member         Catten
+voted      yes, Council             Member            DeSirant         voted    yes, Council          Member          Handy        voted    yes, Councn
+Member            Uipi     voted      yes, and         Mayor       Jackson         voted     yes. The        motion       passed     unanimously
+
+
+
+
+                                      APPROVED:
+                                                                        Cheri    Jackson,         Mayor
+
+
+
+                                          Attest:                 Elysllivan,              City    Recorder
+

@@ -1,0 +1,4582 @@
+{
+ "data": [
+  {
+   "id": "01000000-f8b3-9a83-aa5c-08dce7d83de8",
+   "parentId": "88e40000-968a-0c37-b0b0-08dce9374078",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "U.S. President "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 180,
+    "totalUnits": 180,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 112054,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-bb07-08dce7d83de8",
+      "nativeId": "9",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CORNEL RONALD WEST / MELINA ABDULLAH"
+       }
+      ],
+      "voteCount": 189,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-c8aa-08dce7d83de8",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LUCIFER \"JUSTIN CASE\" EVERYLOVE"
+       }
+      ],
+      "voteCount": 234,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-ca4e-08dce7d83de8",
+      "nativeId": "13",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOEL SKOUSEN / RIK COMBS"
+       }
+      ],
+      "voteCount": 580,
+      "party": {
+       "id": "01000000-f8b3-9a83-5912-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "CONSTITUTION PARTY"
+        }
+       ],
+       "abbreviation": "CON",
+       "standardName": null,
+       "color": "#FF9933",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-cbb8-08dce7d83de8",
+      "nativeId": "8",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JILL STEIN / RUDOLPH WARE"
+       }
+      ],
+      "voteCount": 644,
+      "party": {
+       "id": "01000000-f8b3-9a83-5ade-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "GREEN PARTY"
+        }
+       ],
+       "abbreviation": "GRN",
+       "standardName": null,
+       "color": "#007029",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-cd1c-08dce7d83de8",
+      "nativeId": "5",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DONALD J. TRUMP / JD VANCE"
+       }
+      ],
+      "voteCount": 67549,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-ce9d-08dce7d83de8",
+      "nativeId": "10",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CHASE OLIVER / MIKE TER MAAT"
+       }
+      ],
+      "voteCount": 1325,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-cfee-08dce7d83de8",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KAMALA D. HARRIS / TIM WALZ"
+       }
+      ],
+      "voteCount": 41238,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-d159-08dce7d83de8",
+      "nativeId": "15",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CLAUDIA DE LA CRUZ / KARINA ALEXANDRA GARCIA"
+       }
+      ],
+      "voteCount": 258,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-b3af-08dcf9eb7aa5",
+      "nativeId": "FUTUREMADAMPOTUS-20-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FUTURE MADAM POTUS"
+       }
+      ],
+      "voteCount": 7,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-babb-08dcf9eb7aa5",
+      "nativeId": "PETERSONSKI/LAURENMICHELLEONAK-21-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PETER SONSKI / LAUREN MICHELLE ONAK"
+       }
+      ],
+      "voteCount": 21,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-be4a-08dcf9eb7aa5",
+      "nativeId": "JAYJBOWMAN/DED.BOWMAN-22-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JAY J BOWMAN / DE D. BOWMAN"
+       }
+      ],
+      "voteCount": 9,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-c2e1-08dcf9eb7aa5",
+      "nativeId": "STEVEM.JOHNSON-23-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STEVE M. JOHNSON"
+       }
+      ],
+      "voteCount": 0,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-c608-08dcf9eb7aa5",
+      "nativeId": "ANDRERAMONMCNEIL-24-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANDRE RAMON MC NEIL"
+       }
+      ],
+      "voteCount": 0,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-cb1e-08dcf9eb7aa5",
+      "nativeId": "SHONDRAYEVETTEIRVING-25-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHONDRA YEVETTE IRVING"
+       }
+      ],
+      "voteCount": 0,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-d0db-08dcf9eb7aa5",
+      "nativeId": "BUDDIEARDENWILKERSON-26-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BUDDIE ARDEN WILKERSON"
+       }
+      ],
+      "voteCount": 0,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-177f-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-7d29-08dce9374086",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "U.S. Senate "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 180,
+    "totalUnits": 180,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 108949,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-181d-08dce7d83ded",
+      "nativeId": "19",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CARLTON E. BOWEN"
+       }
+      ],
+      "voteCount": 5932,
+      "party": {
+       "id": "01000000-f8b3-9a83-5287-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "INDEPENDENT AMERICAN PARTY"
+        }
+       ],
+       "abbreviation": "IAP",
+       "standardName": null,
+       "color": "#CB4D26",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-1a0a-08dce7d83ded",
+      "nativeId": "18",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHN CURTIS"
+       }
+      ],
+      "voteCount": 67713,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-1b9f-08dce7d83ded",
+      "nativeId": "17",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CAROLINE GLEICH"
+       }
+      ],
+      "voteCount": 35286,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-8c30-08dcf9ebb9ec",
+      "nativeId": "LAIRDFETZERHAMBLIN-20-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LAIRD FETZER HAMBLIN"
+       }
+      ],
+      "voteCount": 18,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-23f0-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-9a9e-08dce9374086",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "U.S. House 1 "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 180,
+    "totalUnits": 180,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 107889,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-241c-08dce7d83ded",
+      "nativeId": "22",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BILL CAMPBELL"
+       }
+      ],
+      "voteCount": 33508,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-2599-08dce7d83ded",
+      "nativeId": "20",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DANIEL R. COTTAM"
+       }
+      ],
+      "voteCount": 5527,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-270b-08dce7d83ded",
+      "nativeId": "21",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BLAKE D. MOORE"
+       }
+      ],
+      "voteCount": 68854,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-2cdf-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-fd62-08dce9374086",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Governor "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 110618,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-2cff-08dce7d83ded",
+      "nativeId": "36",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SPENCER J. COX DEIDRE M. HENDERSON"
+       }
+      ],
+      "voteCount": 59443,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-2e68-08dce7d83ded",
+      "nativeId": "40",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "TOMMY WILLIAMS ARCHIE A. WILLIAMS III"
+       }
+      ],
+      "voteCount": 2397,
+      "party": {
+       "id": "01000000-f8b3-9a83-5287-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "INDEPENDENT AMERICAN PARTY"
+        }
+       ],
+       "abbreviation": "IAP",
+       "standardName": null,
+       "color": "#CB4D26",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-2fc8-08dce7d83ded",
+      "nativeId": "34",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "BRIAN SMITH KING REBEKAH CUMMINGS"
+       }
+      ],
+      "voteCount": 30804,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3134-08dce7d83ded",
+      "nativeId": "33",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "J. ROBERT LATHAM BARRY EVAN SHORT"
+       }
+      ],
+      "voteCount": 3714,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3297-08dce7d83ded",
+      "nativeId": "39",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "TOM TOMENY WILLIAM LANSING TAYLOR"
+       }
+      ],
+      "voteCount": 485,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-cb3c-08dcf9eafca3",
+      "nativeId": "PHILLYMANNATALIECLAWSON-37-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PHIL LYMAN NATALIE CLAWSON"
+       }
+      ],
+      "voteCount": 13726,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     },
+     {
+      "id": "3c770000-760b-387c-d2ac-08dcf9eafca3",
+      "nativeId": "CHARLIETAUTUAASYLVIAMIERAFISK-38-Unaffiliated",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CHARLIE TAUTUAA SYLVIA MIERA FISK"
+       }
+      ],
+      "voteCount": 49,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": true,
+      "isQualifiedWriteIn": true,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-399f-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-29c6-08dce9374087",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Attorney General "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 108199,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-39be-08dce7d83ded",
+      "nativeId": "45",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DEREK BROWN"
+       }
+      ],
+      "voteCount": 62805,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3b2e-08dce7d83ded",
+      "nativeId": "41",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RUDY J BAUTISTA"
+       }
+      ],
+      "voteCount": 30593,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3c91-08dce7d83ded",
+      "nativeId": "42",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "W. ANDREW MCCULLOUGH"
+       }
+      ],
+      "voteCount": 4631,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3e06-08dce7d83ded",
+      "nativeId": "43",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AUSTIN HEPWORTH"
+       }
+      ],
+      "voteCount": 3417,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-3f7e-08dce7d83ded",
+      "nativeId": "44",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MICHELLE QUIST"
+       }
+      ],
+      "voteCount": 6753,
+      "party": {
+       "id": "01000000-f8b3-9a83-55f1-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNITED UTAH PARTY"
+        }
+       ],
+       "abbreviation": "UUP",
+       "standardName": null,
+       "color": "#582C4D",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-45d0-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-49d0-08dce9374087",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State Auditor "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 106095,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-45f6-08dce7d83ded",
+      "nativeId": "48",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "TINA CANNON"
+       }
+      ],
+      "voteCount": 66878,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-477a-08dce7d83ded",
+      "nativeId": "46",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JEFFREY L. OSTLER"
+       }
+      ],
+      "voteCount": 5787,
+      "party": {
+       "id": "01000000-f8b3-9a83-5912-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "CONSTITUTION PARTY"
+        }
+       ],
+       "abbreviation": "CON",
+       "standardName": null,
+       "color": "#FF9933",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-48e1-08dce7d83ded",
+      "nativeId": "47",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CATHERINE VOUTAZ"
+       }
+      ],
+      "voteCount": 33430,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-4e82-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-60fd-08dce9374087",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State Treasurer "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 106029,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-4ea4-08dce7d83ded",
+      "nativeId": "49",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MILES POMEROY"
+       }
+      ],
+      "voteCount": 5993,
+      "party": {
+       "id": "01000000-f8b3-9a83-5779-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UTAH FORWARD"
+        }
+       ],
+       "abbreviation": "UFP",
+       "standardName": null,
+       "color": "#2D6657",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-4ff5-08dce7d83ded",
+      "nativeId": "50",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MARLO M. OAKS"
+       }
+      ],
+      "voteCount": 67086,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-5169-08dce7d83ded",
+      "nativeId": "51",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NEIL A HANSEN"
+       }
+      ],
+      "voteCount": 32950,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-56d4-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-8347-08dce9374087",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State Senate 3 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 62,
+    "totalUnits": 62,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 36549,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-56f9-08dce7d83ded",
+      "nativeId": "55",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STACY BERNAL"
+       }
+      ],
+      "voteCount": 15052,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-57aa-08dce7d83ded",
+      "nativeId": "54",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHN D. JOHNSON"
+       }
+      ],
+      "voteCount": 21497,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-5c08-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-90da-08dce9374087",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State Senate 4 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 70,
+    "totalUnits": 70,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 29588,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-5c21-08dce7d83ded",
+      "nativeId": "56",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "CALVIN RAY MUSSELMAN"
+       }
+      ],
+      "voteCount": 29588,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-5f57-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-6328-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 6 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 23,
+    "totalUnits": 23,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 12494,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-5f75-08dce7d83ded",
+      "nativeId": "92",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MATTHEW H. GWYNN"
+       }
+      ],
+      "voteCount": 9893,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-5fe4-08dce7d83ded",
+      "nativeId": "91",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AMBER HARDY"
+       }
+      ],
+      "voteCount": 2601,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-61f1-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-6ae8-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 7 "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 25,
+    "totalUnits": 25,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 13190,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-620b-08dce7d83ded",
+      "nativeId": "93",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "RYAN D. WILCOX"
+       }
+      ],
+      "voteCount": 13190,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-639f-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-7024-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 8 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 34,
+    "totalUnits": 34,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 12695,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-63b8-08dce7d83ded",
+      "nativeId": "94",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JASON B KYLE"
+       }
+      ],
+      "voteCount": 12695,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-658c-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-7559-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 9 "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 30,
+    "totalUnits": 30,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 16292,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-65a2-08dce7d83ded",
+      "nativeId": "96",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ANGELA CHOBERKA"
+       }
+      ],
+      "voteCount": 5996,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-6611-08dce7d83ded",
+      "nativeId": "95",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JACOB K. JOHNSON"
+       }
+      ],
+      "voteCount": 799,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-667e-08dce7d83ded",
+      "nativeId": "97",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JAKE SAWYER"
+       }
+      ],
+      "voteCount": 9497,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-6a20-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-8816-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 10 "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 22,
+    "totalUnits": 22,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 15727,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-6a37-08dce7d83ded",
+      "nativeId": "99",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JILL KOFORD"
+       }
+      ],
+      "voteCount": 8018,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-6a90-08dce7d83ded",
+      "nativeId": "98",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ROSEMARY LESSER"
+       }
+      ],
+      "voteCount": 7709,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-6cb1-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-9412-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 11 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 16,
+    "totalUnits": 16,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 7600,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-6cc8-08dce7d83ded",
+      "nativeId": "100",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "KATY HALL"
+       }
+      ],
+      "voteCount": 7600,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-6df3-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-99f5-08dce9374088",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State House 12 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 29,
+    "totalUnits": 29,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 17016,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-6e0a-08dce7d83ded",
+      "nativeId": "102",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "MIKE SCHULTZ"
+       }
+      ],
+      "voteCount": 12312,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-6e75-08dce7d83ded",
+      "nativeId": "101",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "SHARON HILTON"
+       }
+      ],
+      "voteCount": 4704,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-7129-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-4038-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "State School Board 3 (Multi-County) "
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 24,
+    "totalUnits": 24,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 15614,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-7146-08dce7d83ded",
+      "nativeId": "218",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LAURA JOHNSON"
+       }
+      ],
+      "voteCount": 5077,
+      "party": {
+       "id": "01000000-f8b3-9a83-5779-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UTAH FORWARD"
+        }
+       ],
+       "abbreviation": "UFP",
+       "standardName": null,
+       "color": "#2D6657",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-71ad-08dce7d83ded",
+      "nativeId": "217",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ROD HALL"
+       }
+      ],
+      "voteCount": 10537,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-7418-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "COUNTY COMMISSION SEAT C"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 107830,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-7433-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "LIB BRIAN K ROWLEY"
+       }
+      ],
+      "voteCount": 7553,
+      "party": {
+       "id": "01000000-f8b3-9a83-544b-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "LIBERTARIAN PARTY"
+        }
+       ],
+       "abbreviation": "LIB",
+       "standardName": null,
+       "color": "#f4c900",
+       "textColor": "#000000"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-7594-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DEM STEVEN VAN WAGONER"
+       }
+      ],
+      "voteCount": 39005,
+      "party": {
+       "id": "01000000-f8b3-9a83-50a5-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "DEMOCRATIC PARTY"
+        }
+       ],
+       "abbreviation": "DEM",
+       "standardName": null,
+       "color": "#255C99",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-7705-08dce7d83ded",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "REP JIM HARVEY"
+       }
+      ],
+      "voteCount": 61272,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-7cbc-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "COUNTY ASSESSOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 83977,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-7cd6-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "REP JOHN E. ULIBARRI"
+       }
+      ],
+      "voteCount": 83977,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-8287-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "COUNTY RECORDER / SURVEYOR"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 81685,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-82a8-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "REP BAHY RAHIMZADEGAN"
+       }
+      ],
+      "voteCount": 81685,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-8875-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "COUNTY TREASURER"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 84309,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-8894-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "REP LYNELLE JENSEN"
+       }
+      ],
+      "voteCount": 84309,
+      "party": {
+       "id": "01000000-f8b3-9a83-eaf8-08dce7d83dd6",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "REPUBLICAN PARTY"
+        }
+       ],
+       "abbreviation": "REP",
+       "standardName": null,
+       "color": "#960018",
+       "textColor": "#ffffff"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-8e58-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN SCHOOL BOARD DISTRICT 1"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 6,
+    "totalUnits": 6,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2102,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-8e72-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ARLENE ANDERSON"
+       }
+      ],
+      "voteCount": 2102,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-8f4f-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN SCHOOL BOARD DISTRICT 3"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2818,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-8f71-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JENNIFER R. ZUNDEL"
+       }
+      ],
+      "voteCount": 1569,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-8fb4-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "STEFANIE CRAGUN"
+       }
+      ],
+      "voteCount": 1249,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-90a7-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN SCHOOL BOARD DISTRICT 5"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 7,
+    "totalUnits": 7,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 5169,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-90c4-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JOHN D PETERSON"
+       }
+      ],
+      "voteCount": 2814,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-9110-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "ERIC HALL"
+       }
+      ],
+      "voteCount": 2355,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-9222-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN SCHOOL BOARD DISTRICT 6"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 5,
+    "totalUnits": 5,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 1836,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-923f-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "JENNIFER GENTA"
+       }
+      ],
+      "voteCount": 1836,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-92f6-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEBER SCHOOL BOARD DISTRICT 4"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 24,
+    "totalUnits": 24,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 10694,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-9315-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "PAUL J. WIDDISON"
+       }
+      ],
+      "voteCount": 10694,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-94d4-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEBER SCHOOL BOARD DISTRICT 5"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 13,
+    "totalUnits": 13,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 6663,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-94f3-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "DOUGLAS R. HURST"
+       }
+      ],
+      "voteCount": 6663,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-9617-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "WEBER SCHOOL BOARD DISTRICT 7"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 14,
+    "totalUnits": 14,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 7358,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-963f-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "WYLE J. WILLIAMS"
+       }
+      ],
+      "voteCount": 7358,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-976d-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-6995-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall MATTHEW B. DURRANT be retained in the office of Justice of the Supreme Court of Utah? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 91852,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-978b-08dce7d83ded",
+      "nativeId": "232",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 70131,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-994f-08dce7d83ded",
+      "nativeId": "231",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 21721,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-9f68-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-6eb4-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall RYAN D. TENNEY be retained in the office of Judge of the Court of Appeals of Utah? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 90648,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-9f90-08dce7d83ded",
+      "nativeId": "233",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 69413,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-a15a-08dce7d83ded",
+      "nativeId": "234",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 21235,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-a735-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-7ecb-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall JOSEPH M. BEAN be retained in the office of Judge of the District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 90589,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-a753-08dce7d83ded",
+      "nativeId": "239",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 68291,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-a90c-08dce7d83ded",
+      "nativeId": "240",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 22298,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-aee7-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-8e55-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall RONALD G. RUSSELL be retained in the office of Judge of the District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 90715,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-af09-08dce7d83ded",
+      "nativeId": "245",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 70492,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-b0db-08dce7d83ded",
+      "nativeId": "246",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 20223,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-b6b9-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-8929-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall CRISTINA PATRICIA ORTEGA be retained in the office of Judge of the District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 91339,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-b6d8-08dce7d83ded",
+      "nativeId": "244",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 69669,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-b88b-08dce7d83ded",
+      "nativeId": "243",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 21670,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-be68-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-8408-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall CRAIG HALL be retained in the office of Judge of the District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 90183,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-be8c-08dce7d83ded",
+      "nativeId": "242",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 67368,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-c046-08dce7d83ded",
+      "nativeId": "241",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 22815,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-c612-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-ffa1-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall MICHAEL DARIO DIREDA be retained in the office of Judge of the District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 91029,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-c632-08dce7d83ded",
+      "nativeId": "288",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 70645,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-c7de-08dce7d83ded",
+      "nativeId": "287",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 20384,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-cdb2-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-93e3-08dce937408a",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Shall TASHA WILLIAMS  be retained in the office of Judge of the Juvenile District Court of the Second Judicial District? "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 91061,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-cdd5-08dce7d83ded",
+      "nativeId": "247",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "YES"
+       }
+      ],
+      "voteCount": 71916,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-cf92-08dce7d83ded",
+      "nativeId": "248",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "NO"
+       }
+      ],
+      "voteCount": 19145,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-d57b-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "PAUL H OLDS"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2889,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-d59c-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Yes"
+       }
+      ],
+      "voteCount": 2266,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-d5da-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "No"
+       }
+      ],
+      "voteCount": 623,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-d6a7-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "TRENT D. NELSON"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 4,
+    "totalUnits": 4,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 2500,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-d6c5-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Yes"
+       }
+      ],
+      "voteCount": 1996,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-d700-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "No"
+       }
+      ],
+      "voteCount": 504,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-df6c-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-2abd-08dce937408b",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Constitutional Amendment B "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 105493,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-df8a-08dce7d83ded",
+      "nativeId": "303",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FOR"
+       }
+      ],
+      "voteCount": 71505,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-e1b6-08dce7d83ded",
+      "nativeId": "304",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AGAINST"
+       }
+      ],
+      "voteCount": 33988,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-e8de-08dce7d83ded",
+   "parentId": "88e40000-968a-0c37-2fff-08dce937408b",
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "Constitutional Amendment C "
+    }
+   ],
+   "voteFor": [],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 105798,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-e90c-08dce7d83ded",
+      "nativeId": "305",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "FOR"
+       }
+      ],
+      "voteCount": 88051,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-eafc-08dce7d83ded",
+      "nativeId": "306",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "AGAINST"
+       }
+      ],
+      "voteCount": 17747,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-fb17-08dce7d83ded",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "BALLOT PROPOSITION 19"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 179,
+    "totalUnits": 179,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 107549,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-fb55-08dce7d83ded",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Yes"
+       }
+      ],
+      "voteCount": 71654,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-fd68-08dce7d83ded",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "No"
+       }
+      ],
+      "voteCount": 35895,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-0462-08dce7d83dee",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "OGDEN VALLEY CITY"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 6,
+    "totalUnits": 6,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4524,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-048c-08dce7d83dee",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Yes"
+       }
+      ],
+      "voteCount": 2927,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-054c-08dce7d83dee",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "No"
+       }
+      ],
+      "voteCount": 1597,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-0693-08dce7d83dee",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "FORM OF GOVERNMENT OGDEN VALLEY CITY"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 6,
+    "totalUnits": 6,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4305,
+   "contestGroupId": null,
+   "contestType": "Candidate",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-06c0-08dce7d83dee",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Five-member council form"
+       }
+      ],
+      "voteCount": 674,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-0707-08dce7d83dee",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Six-member council form"
+       }
+      ],
+      "voteCount": 1949,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-074a-08dce7d83dee",
+      "nativeId": "3",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Five-member council-mayor form"
+       }
+      ],
+      "voteCount": 812,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-0797-08dce7d83dee",
+      "nativeId": "4",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Seven-member council-mayor form"
+       }
+      ],
+      "voteCount": 870,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  },
+  {
+   "id": "01000000-f8b3-9a83-08c8-08dce7d83dee",
+   "parentId": null,
+   "parentJurisdictionName": "Utah",
+   "publishPublicElectionId": "general11052024",
+   "relatedIds": null,
+   "name": [
+    {
+     "languageId": "en",
+     "text": "CITY COUNCIL QUESTION"
+    }
+   ],
+   "voteFor": [
+    {
+     "languageId": "en",
+     "text": "Vote for 1"
+    }
+   ],
+   "referendum": [],
+   "turnout": null,
+   "reportingStatus": {
+    "reportingUnits": 6,
+    "totalUnits": 6,
+    "asOf": "2025-11-04T18:26:52.9681816Z",
+    "reportingStatusDetails": null
+   },
+   "voteTotal": 4308,
+   "contestGroupId": null,
+   "contestType": "BallotMeasure",
+   "summaryResults": {
+    "ballotOptions": [
+     {
+      "id": "01000000-f8b3-9a83-08e6-08dce7d83dee",
+      "nativeId": "1",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "Yes"
+       }
+      ],
+      "voteCount": 3947,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     },
+     {
+      "id": "01000000-f8b3-9a83-092f-08dce7d83dee",
+      "nativeId": "2",
+      "name": [
+       {
+        "languageId": "en",
+        "text": "No"
+       }
+      ],
+      "voteCount": 361,
+      "party": {
+       "id": "01000000-f8b3-9a83-4c9e-08dce7d83ddc",
+       "name": [
+        {
+         "languageId": "en",
+         "text": "UNAFFILIATED"
+        }
+       ],
+       "abbreviation": "UNA",
+       "standardName": null,
+       "color": "#32373c",
+       "textColor": "#FFFFFF"
+      },
+      "groupResults": null,
+      "isWriteIn": false,
+      "isQualifiedWriteIn": false,
+      "isWinner": false
+     }
+    ]
+   },
+   "rankedChoiceSummaryResults": null,
+   "crossCounties": [],
+   "isCloseRace": null,
+   "partyName": null
+  }
+ ],
+ "limit": 0,
+ "offset": 0,
+ "totalRecordCount": 44
+}

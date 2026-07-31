@@ -1,0 +1,72 @@
+{
+ "date": "2020-01-09",
+ "year": 2020,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2020/2020-01-06/2020-01-09_planning-commission-meeting.md",
+ "present": [
+  "Roylan Croshaw",
+  "Regina Dickinson",
+  "Sandi Goodlander",
+  "Jessica Lucero",
+  "Dave Newman",
+  "Tony Nielson",
+  "Eduardo Ortiz"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Newman moved to conditionally approve a Design Review & Subdivision Permit as outlined PC 20-001 with the amended conditions and findings for approval as discussed and listed below. Commissioner Croshaw seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:1 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Dave Newman",
+   "seconder": "Roylan Croshaw",
+   "aye": [
+    "Roylan Croshaw",
+    "Regina Dickinson",
+    "Jessica Lucero",
+    "Dave Newman",
+    "Eduardo Ortiz"
+   ],
+   "nay": [
+    "Tony Nielson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-1",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero moved to conditionally approve a Design Review Permit as outlined PC 20-001 with the amended conditions and findings for approval as listed below. Commissioner Croshaw seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "7:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Jessica Lucero",
+   "seconder": "Roylan Croshaw",
+   "aye": [
+    "Roylan Croshaw",
+    "Regina Dickinson",
+    "Sandi Goodlander",
+    "Jessica Lucero",
+    "Dave Newman",
+    "Tony Nielson",
+    "Eduardo Ortiz"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "7-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  }
+ ]
+}

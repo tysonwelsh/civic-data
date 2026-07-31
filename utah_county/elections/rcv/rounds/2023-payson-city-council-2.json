@@ -1,0 +1,140 @@
+{
+ "config": {
+  "contest": "2023 Payson City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Payson, Utah",
+  "office": "City Council",
+  "threshold": "912"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "ANNE MOSS": 446.0,
+    "CARL BRINES": 137.0,
+    "EASTON BRADY": 349.0,
+    "KIRK BEECHER": 346.0,
+    "LACEE MAE SMITH": 367.0,
+    "TEANCUM J. CLARK": 176.0,
+    "TYLER WILLIAM MOORE": 311.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CARL BRINES",
+     "transfers": {
+      "ANNE MOSS": 32.0,
+      "EASTON BRADY": 11.0,
+      "KIRK BEECHER": 24.0,
+      "LACEE MAE SMITH": 21.0,
+      "TEANCUM J. CLARK": 20.0,
+      "TYLER WILLIAM MOORE": 20.0,
+      "Inactive Ballots": 9.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "ANNE MOSS": 478.0,
+    "EASTON BRADY": 360.0,
+    "KIRK BEECHER": 370.0,
+    "LACEE MAE SMITH": 388.0,
+    "TEANCUM J. CLARK": 196.0,
+    "TYLER WILLIAM MOORE": 331.0,
+    "Inactive Ballots": 9.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TEANCUM J. CLARK",
+     "transfers": {
+      "ANNE MOSS": 46.0,
+      "EASTON BRADY": 42.0,
+      "KIRK BEECHER": 18.0,
+      "LACEE MAE SMITH": 42.0,
+      "TYLER WILLIAM MOORE": 31.0,
+      "Inactive Ballots": 17.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "ANNE MOSS": 524.0,
+    "EASTON BRADY": 402.0,
+    "KIRK BEECHER": 388.0,
+    "LACEE MAE SMITH": 430.0,
+    "TYLER WILLIAM MOORE": 362.0,
+    "Inactive Ballots": 26.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TYLER WILLIAM MOORE",
+     "transfers": {
+      "ANNE MOSS": 86.0,
+      "EASTON BRADY": 70.0,
+      "KIRK BEECHER": 75.0,
+      "LACEE MAE SMITH": 76.0,
+      "Inactive Ballots": 55.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "ANNE MOSS": 610.0,
+    "EASTON BRADY": 472.0,
+    "KIRK BEECHER": 463.0,
+    "LACEE MAE SMITH": 506.0,
+    "Inactive Ballots": 81.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KIRK BEECHER",
+     "transfers": {
+      "ANNE MOSS": 152.0,
+      "EASTON BRADY": 123.0,
+      "LACEE MAE SMITH": 100.0,
+      "Inactive Ballots": 88.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "ANNE MOSS": 762.0,
+    "EASTON BRADY": 595.0,
+    "LACEE MAE SMITH": 606.0,
+    "Inactive Ballots": 169.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "EASTON BRADY",
+     "transfers": {
+      "ANNE MOSS": 228.0,
+      "LACEE MAE SMITH": 227.0,
+      "Inactive Ballots": 140.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "ANNE MOSS": 990.0,
+    "LACEE MAE SMITH": 833.0,
+    "Inactive Ballots": 309.0
+   },
+   "tallyResults": [
+    {
+     "elected": "ANNE MOSS",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

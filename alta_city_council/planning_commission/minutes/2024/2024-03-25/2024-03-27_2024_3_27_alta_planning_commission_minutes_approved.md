@@ -1,0 +1,108 @@
+---
+title: Alta Planning Commission — Regular Meeting 2024-03-27
+date: 2024-03-27
+meeting_type: regular
+body: PlanningCommission
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1163359.pdf
+source_file: 2024-3-27 Alta Planning Commission Minutes - APPROVED.pdf
+pmn_file_id: 1163359
+format: ocr
+---
+
+: MEETING MINUTES | :
+ALTA PLANNING COMMISSION MEETING |
+Tuesday, March 27th, 2024, 3:00 PM .
+Alta Community Center, 10351 E. Highway 210, Alta, Utah
+PRESENT: John Nepstad, Chair
+Jeff Niermeyer, Vice-Chai
+Dave Abraham
+Maren Askins
+Rob Voye .
+Roger Bourke, Town of Alta Mayor (ex-officio) :
+STAFF PRESENT: Chris Cawley, Town Manager
+Molly Austin, Assistant Town Clerk
+Chris Otto, Assistant Town Manager
+Polly McLean, Town Attorney
+OTHERS: Todd Godfrey, HGB Law
+John Guldner, Cottonwood Lands Advisory
+1. INTRODUCTION AND WELCOME FROM THE CHAIR
+, | Planning Commission Chair John Nepstad opened the March 27, 2024 meeting at 3:01 PM.
+2. APPROVAL OF MINUTES FROM THE FEBRUARY 27, 2024, MEETING
+After some initial confusion about the day of the week, the approval of the meeting minutes was
+discussed. Chris Cawley mentioned that staff were using AI tools for generating planning
+commission meeting minutes, which prompted a brief discussion on its effectiveness. Despite
+’ some concerns about the accuracy of assigning certain comments to specific commission
+members in the minutes, and about the level of detail contained in the minutes, they were
+ultimately approved.
+Planning Commission Member Rob Voye introduced a motion to approve the minutes
+from the February 27, 2024, Alta Planning Commission Meeting. Planning Commission
+Member David Abraham seconded the motion, and the motion was passed with unanimous
+consent of the commission.
+3. INTRODUCTION TO TOWN OF ALTA SUBDIVISION ORDINANCE UPDATE
+PROJECT — TODD GODFREY, HGB LAW
+For this agenda item Polly McLean provided initial background information on the topic. She
+discussed how legislative mandates regarding subdivision ordinances have evolved, and that
+Alta Planning Commission Meeting Minutes
+’ March 27, 2024 1
+
++ municipalities in Utah were required to change their subdivision ordinances to streamline the 3
+approval process.
+John Nepstad introduced Todd Godfrey from HGB Law, who specializes in representing cities
+and towns. Todd Godfrey was hired by the Town and tasked with drafting changes to bring the
+Town’s ordinance into compliance with state law. The discussion revolved around the timeline :
+for implementation and the allocation of state funding for municipalities to hire consultants such
+as Todd Godfrey. Todd Godfrey then provided an overview of the legislative background and
+context regarding subdivision updates mandated by state law. He outlined the two-step |
+subdivision process now-required by state law: preliminary plat consideration and final plat
+approval. Notably, city councils have been removed from the subdivision approval process. . ;
+Planning Commissions or staff can conduct preliminary plat reviews, and only staff can oversee
+final plat approvals. Alta’s amended ordinance should be finalized by the end of the year.
+Discussion ensued regarding the engineering-heavy nature of the town's environment, with
+concerns about avalanches and utility issues raised by various attendees, including John Guldner
+and Jeff Niermeyer. Polly McLean inquired about including provisions for plat amendments and
+the presentation format for proposed changes, prompting further clarification from Todd Godfrey
+that there is question as to whether the state funding supporting Todd’s work for Alta would
+cover other code updates. There is an information meeting about the state funding program on
+April 2™ where Todd Godfrey will raise this question and determine if that is the case. Todd
+Godfrey will provide the proposed changes in Alta’s code in a red lined comparison draft, or
+they may simply recommend drafting an entire new chapter.
+Mayor Bourke expressed concerns about potential disadvantages for smaller towns under the
+new legislation, while Chris Cawley sought additional context on the legislative motivation for
+the changes, which Todd provided, citing a focus on efficiency and affordable housing
+production as the motivation for the changes which impact larger municipalities.
+Future steps were discussed, including the anticipated presentation of draft revisions at the April
+Planning Commission meeting and the process for recommending the ordinance changes to the
+Council. The meeting concluded with a consensus to move forward with the proposed revisions
+and to work collaboratively with Todd on the process, ensuring compliance with state law while
+addressing the unique needs of the town.
+, 4, DISCUSSION AND POSSIBLE ACTION TO APPOINT A COMMISSION CHAIR
+AND VICE CHAIR FOR 2024
+Planning Commission Member Rob Voye introduced a motion to reappoint John Nepstad
+as Chair of the Planning Commission and Jeff Niermeyer as Vice-Chair. Planning
+Commission Member David Abraham seconded the motion, and the motion was passed
+with unanimous consent of the commission.
+5, DATE OF NEXT MEETING
+Alta Planning Commission Meeting Minutes
+March 27, 2024 2
+
+During the planning commission meeting, Chris Cawley and John Nepstad discussed potential
+agenda items for the upcoming April meeting. They considered providing training and education
+for the Planning Commission, as well as clarifying their roles and responsibilities. Rob Voye and
+Mayor Bourke also expressed support for ongoing education opportunities. Jeff Niermeyer
+inquired about Open Meetings training, while Polly McLean confirmed that the past training was
+conducted in November, but they will try to get that scheduled at some point in the summer. The
+commission agreed on scheduling future meetings to get updates from Mike Maughan regarding
+capital projects at Alta Ski Lifts which includes an expansion of the Albion Day Lodge and
+replacing the Sugarloaf Top Ski Patrol Building. The next meeting is scheduled for April 24,
+2024 at 3pm.
+6. MOTION TO ADJOURN
+
+Planning Commission Vice-Chair Jeff Niermeyer moved to adjourn the meeting. Planning
+Commission Member Maren Askins seconded the motion, and the motion was carried with
+unanimous consent of the commission.
+Minutes approved by the Alta Planning Commission on April 24!", 2024
+
+Chris“Otto, Assistant Town Manager
+Alta Planning Commission Meeting Minutes
+March 27, 2024 3

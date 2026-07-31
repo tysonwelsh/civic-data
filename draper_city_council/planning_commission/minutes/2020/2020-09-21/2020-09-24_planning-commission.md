@@ -1,0 +1,292 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=338&doc_id=21b9f69c-2e69-11eb-bc32-0050569183fa
+> Meeting date: 2020-09-24
+> Format: text
+
+Approved minutes November 19, 2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, SEPTEMBER 24, 2020 IN THE DRAPER CITY
+COUNCIL CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:           Vice Chairman Craig Hawker, Commissioners Kent Player, Gary
+                          Ogden, Mary Squire, and Alternate Commissioner Lisa Fowler and
+                          DeLaina Tonks
+
+ABSENT:                   Chairman Andrew Adams, Commissioner John Van Hoff, Alternate
+                          Commissioner Tab Bingham
+
+STAFF PRESENT:            Jennifer Jastremsky, Brien Maxfield, Travis Van Ekelenburg, Mike
+                          Barker, Amie Salazar and Todd Draper
+
+STAFF PRESENT
+ELECTRONICALLY:           Christina Oliver
+
+
+
+
+6:30 PM Business Meeting
+
+The Agenda will be as follows:
+
+Electronic Meeting Notice
+
+This meeting will be held electronically
+   • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+   • Email your comments to the project planner listed on the agenda item below by Noon on
+      the day of the meeting. These will become part of the public record.
+   • If you wish to speak during the Public Comment or Public Hearings portion of the
+      meeting, please send a request for the Zoom Meeting ID to the project planner listed on
+      the agenda item below by noon, on the day of the meeting.
+
+Determination 2020-02, pursuant to Utah Code Annotated 52-4-207(4)
+A.      I, Planning Commission Chair Andrew Adams, do hereby determine conducting an
+electronic meeting of the Draper City Planning Commission with an anchor location presents a
+substantial risk to the health and safety of those who may be present at the anchor location and
+hereby authorize the Draper City Planning Commission to conduct electronic meetings without
+an anchor location.
+B.      The foregoing determination is based on the following facts:
+        •       Federal, state and local leaders, including the Draper City Mayor and City
+        Council have all recognized a global pandemic caused by the spread of the COVID-19
+        virus.
+Draper City Planning Commission Meeting
+September 24, 2020
+Page 2
+        •       COVID-19 cases continue to fluctuate at high levels and hospitalizations in Salt
+Lake County and Draper continue at high rates, both of which pose a risk of overburdening the
+local health care system.
+        •       It is difficult, if not impossible, to predict the number of attendees at any
+meeting and to manage issues regarding social distancing in order to comply with State Phased
+Guidelines.
+        •       COVID-19 poses a continuing and immediate threat to the health, safety, and
+welfare of Draper City residents.
+        •       The City has the technological capability to provide means by which the public
+may hear, or view and hear, the open portions of the meeting and to participate in public hearings.
+FIX WORDING To update wording
+
+1.     Public Hearing: Four Bears Estates Land Use Map Amendment and Zoning Map
+       Amendment Request (Legislative Action)
+       On the request of Todd Bradford for a Land Use Map Amendment from Residential
+       Low/Medium Density to Residential Medium Density and a Zoning Map Amendment
+       from RA1 to R3 on 0.96 acres of property located at 12758 South Boulter St.
+       Applications TEXTMAP-1011-2020 and TEXTMAP-1012-2020. Staff contact is
+       Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draper.ut.us.
+
+Senior Planner Jennifer Jastremsky gave overview of this item. The property was located on
+Boulter Street and was located in the residential low/medium density. This zoning allowed one to
+two units per acre. The applicant proposed changing the zoning to residential medium density
+land use, which allowed three to four units per acre. The property was currently zoned RA1 and
+the applicant proposed changing the zoning to the RA3 zone. She showed site photos and
+explained the property currently had one single family home and they were proposing to have
+two homes on the .96-acre parcel of land.
+
+Commissioner Lisa Fowler mentioned there was a driveway on the north side of the lot and
+asked if that would be where the private lane was.
+
+Ms. Jastremsky replied she had not seen where the private lane was to be placed.
+
+Garrett Daw, one of the applicants, explained they intended on splitting this parcel into two
+18,000 square foot lots. He thought this would beautify the area and thought it was in line with
+what was going on in this neighborhood.
+
+Vice Chairman Hawker opened the public hearing. There were no comments, and he closed the
+public hearing.
+
+Motion re: Commissioner Fowler made a motion to forward a positive recommendation to the
+City Council about the land use map amendment as requested by Todd Bradford application
+TEXTMAP-1011-2020, based on the findings and subject to the conditions listed in the staff report
+dated 09/15/2020. Commissioner Player seconded the motion.
+Draper City Planning Commission Meeting
+September 24, 2020
+Page 3
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the motion.
+       This item passed with a 5 to 0 vote.
+
+Motion re: Commissioner Squire made a motion to forward a positive recommendation to the
+City Council for the zoning map amendment as requested by Todd Bradford application
+TEXTMAP-1012-2020. Commissioner Ogden seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the motion.
+This item passed with a 5 to 0 vote.
+
+2.     Public Hearing: Alpine Joint Venture Sidewalk Deviation (Administrative Action)
+       On the request of Lara Salazar, representing Ezra Lee Design + Build, for approval of a
+       Sidewalk Deviation in the A5 zone for property located at approximately 16377 S.
+       Suncrest Drive. The property is approximately 235.33 acres in size. Application: SPR-
+       1040-2020. Staff contact: Todd A. Draper (801) 576-6335, todd.draper@draper.ut.us.
+
+Todd Draper gave an overview of this item. He explained the applicant was trying to lessen the
+amount of roadway improvements that was required to be installed on Suncrest Drive. There
+were approximately 3,905 feet of frontage on the road and this was zoned residential hillside low
+density. The zoning was A5 and was in the hillside sensitive deviation zone. They planned on
+putting in 495 feet of sidewalk on the East and 100 feet on the West. He showed an overall site
+plan an explained the home would be constructed on the far Eastern side of the property. Public
+works asked that the 100 feet of sidewalk not be constructed and recommended that the 495 feet
+should be constructed.
+
+Ms. Fowler mentioned avoiding sidewalks until further development. She wondered if they
+needed a deviation or if they just wanted more time.
+
+Mr. Draper replied they were requesting a deviation even though they could potentially develop
+it further later. This means they needed to treat this application like a deviation and not a
+postponement.
+
+Brien Maxfield, the City engineer, stated Suncrest development had constructed sidewalk on one
+side of the road and so this was doable. The road had a drop off and was not meant to have
+sidewalk on both sides of the road.
+
+Commissioner Mary Squire thanked Mr. Maxfield for the explanation.
+
+Mr. Draper mentioned there were some alternative plans that could be put into action.
+
+Doug Staker, the architect on the project stated this was a large parcel and they were building a
+single-family residence on it. The applicant planned on developing the parcel in the future, but
+they were requesting a deviation for now. It seemed appropriate for a single-family home. He
+asked if there were any questions.
+
+Vice Chairman Hawker opened up the public hearing.
+Draper City Planning Commission Meeting
+September 24, 2020
+Page 4
+
+Dave Wilding commented the East side was not really feasible to put a sidewalk on. He never
+saw anyone walk on that side of the street and so it would not even be used. It would be prudent
+to wait to put in any sidewalk until there were more people who would use this sidewalk.
+
+Vice Chairman Hawker closed the public hearing.
+
+Commissioner Fowler stated she was confused. If they allowed this deviation, they would be
+absolved from installing a sidewalk forever. She felt like they were asking for a deferral and not
+a deviation.
+
+Mr. Staker replied they would take either a deviation or a deferral. A sidewalk seemed
+unnecessary at the moment.
+
+Ms. Jastremsky commented they could make a condition stating this was a deferral and they
+would eventually have to put a sidewalk in.
+
+Commissioner Squire stated it was required that when a parcel was developed, people were
+required to put sidewalks in. She felt like if they gave a deviation, they would be putting off a
+sidewalk for a time period nobody knew. There were people who used the sidewalk and it was
+safer for a person to use a sidewalk than the shoulder of the road. If they put in a sidewalk,
+people would use it. She would be happy to have even just the westside of the sidewalk.
+
+Mr. Staker replied the applicant would likely be okay with just receiving a deferral. There was
+only one person living on this parcel.
+
+Commissioner Fowler mentioned the sidewalk would benefit the whole City and was not just
+meant to benefit the parcel owner.
+
+Commissioner Kent Player asked if the road had a shoulder of the road sufficient to bike safely.
+
+Commissioner Gary Ogden replied there was a shoulder. He was concerned about not having a
+sidewalk for people to utilize.
+
+Commissioner Fowler was interested in the alternative motion.
+
+Commissioner Squire asked if they used one of the alternative motions if they had to read the
+whole thing.
+
+Mike Barker stated she would just make a motion and he could make sure the motion in its
+entirety was included for the record.
+
+Motion re: Commissioner Fowler moved to approve the sidewalk deviation as requested by Lara
+Salazar, representing Ezra Design+ Build, application SPR-1040-2020 based on the findings and
+subject to the conditions found in the staff report dated 09/11/2020 and as modified by the
+findings and conditions found below:
+Draper City Planning Commission Meeting
+September 24, 2020
+Page 5
+   1. That approval of the sidewalk deviation does not alleviate the applicant from compliance
+       with all other ordinances and standard practices applicable to the review and approval of
+       the building permit or future land use applications.
+   2. That all requirements of Draper City engineering, public works, building, planning, and
+       fire divisions are satisfied throughout the construction of all buildings on the site,
+       including permitting.
+   3. That all requirements of the geotechnical report are satisfied throughout the construction
+       of all buildings on the site.
+   4. That approximately 490 linear feet of sidewalk be installed on the east side of Suncrest
+       Drive in the location proposed on the site plan.
+   5. That the required sidewalk be installed on the west side of Suncrest Drive along the entire
+       frontage of the subject property. The sidewalk shall be the width of the stamped concrete
+       park strip and six-foot-wide sidewalk from existing improvements at the adjacent parcel
+       to the north.
+   6. That a deferral for sidewalk installation be given for the remaining east side frontage of
+       the subject property along Suncrest Drive until such time additional development beyond
+       the proposed single-family dwelling may occur on the property.
+
+Commissioner Squire seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the motion.
+This item passed with a 5 to 0 vote.
+
+3.     Public Hearing: Draper Wingate Subdivision Plat Amendment Request
+       (Administrative Action)
+       On the request of Alan Melchior for a Subdivision Plat Amendment on 2.415 acres of
+       property located at 12361 S Minuteman Dr. The application will combine three lots into
+       one. Application SUBD-1027-2020. Staff contact is Jennifer Jastremsky, 801-576-6328,
+       jennifer.jastremsky@draper.ut.us.
+
+Ms. Jastremsky gave an overview of the item. She explained this property contained three
+parcels that amounted to 2.4 acres. It was proposed that these three parcels become one plat.
+They were not proposing any other changes. This was within the Draper Peaks Commercial
+special district designation and was a part of the Draper Crossing.
+
+Commissioner Player thought this would clean up the application and make it, so the parking
+was not on a different piece of property than the hotel.
+
+Vice Chairman Hawker opened the public hearing. There were no comments, and he closed the
+public hearing.
+
+Motion re: Commissioner Player made a motion to approve the subdivision plat amendment
+request by Alan Melchior application SUBD-1027-2020 based on the findings and subject to the
+conditions listed in the staff report dated September 15, 2020. Commissioner Tonks seconded the
+motion.
+Draper City Planning Commission Meeting
+September 24, 2020
+Page 6
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the motion.
+This item passed with a 5 to 0 vote.
+
+
+4.     Public Hearing: Shaggy Chic Home Occupation Conditional Use Permit
+       (Administrative Action)
+       On the request of Vern & Christie Latham for a Home Occupation Conditional Use
+       Permit located at 12868 South Fayview Lane in the RA2 (Residential Agricultural,
+       20,000 ft² lot minimum) zone regarding a single chair beauty salon in a single-family
+       home. Application USE-1043-2020. Staff contact is Travis Van Ekelenburg, 801-576-
+       6522, travis.vanekelenburg@draper.ut.us.
+
+Travis Van Ekelenburg presented this item. The applicant was requesting approval for a home
+occupation conditional use permit at their single-family home. The property was zoned RA2.
+The applicant built a room adjacent to the garage and all business would be conducted in this
+room. The business would be open two days a week and may have appointments from 8am to
+4pm. There would never be more than two clients in the salon at one time. The salon would only
+be in 144 square feet of the home. The only employees would be the homeowners and there
+would be no signage.
+
+Commissioner Delaina Tonks mentioned there was a concern during winter for on street parking.
+She wondered if there was enough driveway parking during the winter.
+
+Mr. Van Ekelenburg replied there was sufficient parking in the driveway.
+
+Vern Lantham, the applicant stated he thought Mr. Van Ekelenburg explained it well. They just
+wanted a quiet little salon.
+
+Vice Chairman Hawker opened the public hearing. There were no comments, and he closed the
+public hearing.
+
+Motion re: Commissioner Ogden a motion to approve the Home Occupation Conditional Use
+Permit as requested by Vern and Christie Latham application USE-1043-2020 based on the
+findings and subject to the conditions of the staff report dated September 10, 2020 and
+Commissioner Tonks seconded the motion.
+
+Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the motion.
+This item passed with a 5 to 0 vote.
+
+5.     Adjournment
+
+Commissioner Player moved they adjourn, and they all voted in favor of adjourning the meeting.
+
+The meeting adjourned at 7:33 pm
+

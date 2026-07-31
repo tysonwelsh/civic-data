@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "date": "2021-12-08",
+    "year": "2021",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2021/12.%20December/PC12.08.2021minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2021/2021-12-06/2021-12-08_planning-commission-meeting.md",
+    "present": [
+      "Amy Barry",
+      "Maurine Bachman",
+      "Andra Ghent",
+      "Jon Lee",
+      "Andres Paredes",
+      "Mike Christensen",
+      "Aimee Burrows"
+    ],
+    "absent": [
+      "Adrienne Bell",
+      "Brenda Scheer",
+      "Sara Urquhart"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the minutes",
+      "description": "approve the minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Maurine Bachman",
+      "seconder": "Mike Christensen",
+      "result": "4:0 Pass",
+      "tally": {
+        "yes": 4,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Aimee Burrows",
+        "Mike Christensen",
+        "Andres Paredes"
+      ],
+      "nay": [],
+      "abstain": [
+        "Andra Ghent"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Conditional Use request (PLNPCM2021-00533) subject to the conditions listed in the staff report",
+      "description": "approve the Conditional Use request (PLNPCM2021-00533) subject to the conditions listed in the staff report",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Andra Ghent",
+      "seconder": "Mike Christensen",
+      "result": "6:0 Approved (Final Action)",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jon Lee",
+        "Andra Ghent",
+        "Maurine Bachman",
+        "Andres Paredes",
+        "Mike Christensen",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Wasatch Avenue Trust Planned Development PLNPCM2021- 00681 (PLNSUB2021-00938)",
+      "description": "approve the Wasatch Avenue Trust Planned Development PLNPCM2021- 00681 (PLNSUB2021-00938)",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Andra Ghent",
+      "seconder": "Maurine Bachman",
+      "result": "7:0 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": null,
+        "recuse": null,
+        "absent": null
+      },
+      "names_recorded": false,
+      "aye": [],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Planned Development request for the Central Park Townhouses (PLNPCM2021-00886) and Preliminary Subdivision (PLNSUB2021-00882) subject to the conditions listed in the staff report",
+      "description": "approve the Planned Development request for the Central Park Townhouses (PLNPCM2021-00886) and Preliminary Subdivision (PLNSUB2021-00882) subject to the conditions listed in the staff report",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Aimee Burrows",
+      "seconder": "Mike Christensen",
+      "result": "2:4 Denied (Final Action)",
+      "tally": {
+        "yes": 2,
+        "no": 4,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Andra Ghent"
+      ],
+      "nay": [
+        "Aimee Burrows",
+        "Jon Lee",
+        "Andres Paredes",
+        "Maurine Bachman"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "the planning commission deny the planned development request for central park townhouses PLNPCM2021-00886 and preliminary subdivision PLNSUB2021-00882 because evidence is not presented been presented to demonstrate the proposal complies with the following standards and I would look at: C",
+      "description": "the planning commission deny the planned development request for central park townhouses PLNPCM2021-00886 and preliminary subdivision PLNSUB2021-00882 because evidence is not presented been presented to demonstrate the proposal complies with the following standards and I would look at: C",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Maurine Bachman",
+      "seconder": "Jon Lee",
+      "result": "4:2 Denied (Final Action)",
+      "tally": {
+        "yes": 4,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Andres Paredes",
+        "Aimee Burrows",
+        "Jon Lee",
+        "Maurine Bachman"
+      ],
+      "nay": [
+        "Mike Christensen",
+        "Andra Ghent"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City Council deny the proposed text amendment, PLNPCM2020-00284 Stealth Wireless Facility Zoning Text Amendment",
+      "description": "recommend that the City Council deny the proposed text amendment, PLNPCM2020-00284 Stealth Wireless Facility Zoning Text Amendment",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Aimee Burrows",
+      "seconder": "Mike Christensen",
+      "result": "Negative recommendation 5:0",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Jon Lee",
+        "Andres Paredes",
+        "Maurine Bachman",
+        "Aimee Burrows",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [
+        "Andra Ghent"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a positive recommendation regarding the requested zoning map amendment for the property located at approximately 550 S",
+      "description": "forward a positive recommendation regarding the requested zoning map amendment for the property located at approximately 550 S",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Andra Ghent",
+      "seconder": "Jon Lee",
+      "result": "Positive recommendation 4:2",
+      "tally": {
+        "yes": 4,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Mike Christensen",
+        "Maurine Bachman",
+        "Jon Lee",
+        "Andra Ghent"
+      ],
+      "nay": [
+        "Aimee Burrows",
+        "Andres Paredes"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "recommend that the City",
+      "description": "recommend that the City",
+      "motion_type": "Other",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Mike Christensen",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Andres Paredes",
+        "Jon Lee",
+        "Maurine Bachman",
+        "Aimee Burrows",
+        "Andra Ghent",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

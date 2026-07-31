@@ -1,0 +1,884 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=381&doc_id=a14d414d-6634-11eb-920e-0050569183fa
+> Meeting date: 2021-01-12
+> Format: text
+
+Approved February 2, 2021
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+JANUARY 12, 2021, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:                 Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                         Fred Lowry, Cal Roberts, and Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:        David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                      Oscarson, City Recorder; Scott Cooley, City Engineer; Hazel Dunsmore,
+                      Human Resource Director; John Eining, Police Chief; Rhett Ogden,
+                      Recreation Director; Christina Oliver, Community Development Director;
+                      Clint Smith, Fire Chief; Britnee Johnston, Communications Director; and
+                      Bob Wylie, Finance Director
+________________________________________________________________________
+This meeting was held electronically.
+This meeting will be an electronic meeting according to Draper City Municipal Code 2- 1-040.
+
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the Draper City Council
+with an anchor location presents a substantial risk to the health and safety of thosewho may be present at the
+anchor location and hereby authorize the Draper City Council to conduct electronic meetings without an
+anchor location.
+
+The foregoing determination is based on the following facts:
+   • Federal, state, and local leaders, including the Draper City Mayor and City Council, have
+       all recognized a global pandemic caused by the spread of the COVID-19 virus.
+   • COVID-19 cases and hospitalizations in Draper continue to fluctuate at high levels, both
+       of which pose a risk of overburdening the local health care system and health care
+       providers.
+   • It is difficult, if not impossible, to predict the number of attendees at any meeting and to
+       manage issues regarding social distancing in order to comply with state and local health
+       departments' health orders.
+   • COVID-19 poses a continuing and immediate threat to the health, safety, and welfare of
+       Draper City residents.
+   • The City has the technological capability to provide means by which the public may hear,
+       or view and hear, the open portions of the meeting and to participate in public hearings.
+
+To participate, please see the options below:
+
+    •   Listen through the Draper City website - https://www.draper.ut.us/95/Agendas- Minutes.
+    •   Email comments to public.comment@draper.ut.us. These will become part of the public
+        record.
+      •   Those wishing to speak during the meeting, send a request and include your name, address, and
+          phone number which you will be calling from, for the Zoom meeting ID to
+          public.comment@draper.ut.us.
+
+
+
+Study Session
+
+1.0       Presentation: Utah Transit Authority Micro Transit Pilot Program and 5-year
+          Service Plan – Carlton Christensen
+
+1.1       Carlton Christensen, Utah Transit Authority (UTA), said that from the beginning both
+          Draper and Mayor Walker had been strong advocates for the micro-transit service that UTA
+          was test piloting. Mr. Christensen explained that Jaron Robertson, a member of the
+          Innovative Mobility Group, would first update the Council on the pilot’s progress. UTA
+          was also in the process of updating its Five-Year Service Plan an and currently was
+          receiving public comment on it. Mr. Christensen said that the plan will guide UTA on
+          modifications and new elements to the transit service. Laura Hanson, UTA Director of
+          Planning, would talk about the plan.
+
+1.2       Mr. Robertson thanked the Mayor and Council. He reminded the Council that the pilot
+          program started in November of 2019 and had just passed its one-year mark. The pilot was
+          a public-private partnership with a company called Via. Via specialized in providing on-
+          demand transit service. The goals of the pilot program centered on improved mobility.
+          They include: (a) coverage-based transit; (b) provide first and last-mile connections to
+          UTA rail stations; (c) improved customer experience and (d) improved operating
+          efficiencies.
+
+          Mr. Robertson noted the impact that COVID-19 had on the pilot program. He explained
+          that during the first months UTA saw pretty significant growth in ridership and use of the
+          service. However, in response to COVID, there was a decrease in ridership. UTA was
+          able to implement improved cleaning and safety procedures and to make quick adjustments
+          to the service.
+
+          Mr. Robertson then highlighted some trends that emerged during the pilot. From
+          November until March UTA’s on-demand service saw strong growth in use. By mid-
+          March, the program approached about 500 trips per day, exceeding initial targets for the
+          service. When COVID hit there was a 22.8% decrease in the service’s use. From April to
+          September, people did return to service at an average of 16%. This was interrupted in
+          October when there was a resurgence of COVID.
+
+          Apart from usage, one of the highlights of the service was the Wheelchair Accessible
+          Vehicles (WAV). This increased mobility of community members who were otherwise
+          restricted. Whereas in November of 2019, the on-demand service had just 3 riders, by
+          September 2020 there were 180 WAV riders. Another goal of the program was to increase
+          the number of shared rides such that 30% of all trips were shared rides. The data indicated
+
+                                              Page 2 of 19
+      that they were on track to hit that by February. However, because of COVID, UTA self-
+      imposed some limits as safety measures. This limited shared rides to three people per ride.
+      He explained that until the agency decides to take away the limits on shared rides, they will
+      continue to hover from 9-15%.
+
+      Lastly, Mr. Robertson talked about the first mile/last mile (FMLM) connections. These
+      are trips that start or end at a rail station. Before COVID half of the trips started or ended
+      with UTA rail. This suggested that people were using the service as a connection for
+      transit. He displayed a visual of the UTA service area compared to a plot of one day’s
+      service data. This revealed how mobility changed from a fixed route service; trips covered
+      the entire service area and created clusters around rail stations. The top two locations were
+      the Draper Front Runner Station and the TRAX Daybreak Station.
+
+      Regarding the next steps, UTA plans to extend the pilot through August 2021. UTA also
+      intends to look at the flex routes operating in the service area. During the first course of
+      the pilot, the on-demand service and flex route services were run side-by-side. This led to
+      a drop in ridership on the flex routes. One of the flex routes was already suspended in
+      response to COVID. UTA is going to investigate suspending the rest of the routes to be
+      able to evaluate the pilot as a stand-alone service. Currently, they have an April 2021
+      change day scheduled. Some additional features UTA hopes to add to the pilot are
+      integration with the transit app and UTA electronic fare media. Also, UTA is looking to
+      provide first and last-mile connections through its paratransit service. If there were
+      paratransit customers in the service area, they would be able to use the on-demand service
+      to help improve mobility for people with disabilities. Finally, UTA was doing some
+      evaluation of how micro-transit can serve other communities by connecting to other transit
+      networks.
+
+1.3   Laura Hanson said that she was there to share with the Council a draft copy of UTA’s Five-
+      Year Service Plan. She explained that the Local Advisory Council and the Board of
+      Trustees would be considering the adoption of the plan in February. Currently, they were
+      collecting public input from different stakeholders and partners.
+
+      To begin, Ms. Hanson outlined what the five-year plan was and was not. UTA viewed the
+      five-year plan as a vision and as a guide for what UTA thinks they will be doing in the next
+      five years in terms of service changes. She stated that the plan was certain to change
+      because there was a lot that was unknown about financial resources and new travel patterns.
+      That said, the three goals of the plan were to (a) increase ridership and gain back riders that
+      might have been lost during the pandemic; (b) strengthen customer confidence and (c) align
+      services with resources to strengthen financial stability. UTA is thinking about 2021 as
+      the time to stabilize its labor, workforce, and financial systems. Because of this, UTA is
+      not thinking about implementation until 2022.
+
+      Before diving into the plan. Ms. Hanson provided an overview of UTA’s planning process.
+      Phase one consisted of strategic planning. This was the work of the regional metropolitan
+      planning organization. The strategic plan is updated every four years and looks 30 years
+      into the future about transit needs. However, the strategic plan does not look at the local
+
+                                          Page 3 of 19
+level and certainly not at the micro-transit level. Because of this, the Five-Year Service
+Plan, or phase two, was necessary. It is at this level that planners look at the 30-year overall
+structure and ask how local services fit within that vision. The Five-Year Service Plan is
+organized as five rolling years and outlines what changes UTA anticipates making in each
+of those time frames. In phase 3, operations planning, UTA takes the ideas suggested in
+the Five-Year Service Plan and considers them for actual implementation. She noted that
+the first step in operational planning was to meet with affected local governments. If UTA
+has a service with a possibility of change, they make sure to ask local governments if the
+change meets their vision as a community and then adjusts as necessary based on the
+feedback received. Also, UTA goes through a public hearing process and a Title XI
+analysis regarding the Civil Rights Act to ensure that changes are not disproportionately
+impacting minority or low-income populations. The board has to approve the plan before
+moving towards stage four, implementation.
+
+Ms. Hanson explained that the Five-Year Service Plan was organized around a series of
+guiding frameworks or principles. The first of these frameworks is service choices where
+UTA reaches out to the community. UTA asked the public questions such as if they felt
+UTA should focus on increasing ridership or coverage. Other elements of the plan include
+system-wide planning. Ms. Hanson said that this was one of the first times that UTA had
+pooled all of its resources into a single pot to think about how the service network was
+working as a whole. As a result, some resources had been shifted from one mode to
+another. UTA also talked about implementing a core route network. The idea behind this
+was to have a series of bus routes of the best service, operating early in the morning and
+late at night, seven days a week. Another change in the plan is a move towards all-day
+service. The pandemic had caused a shift in ridership from peak periods to a steady all-
+day demand stream. The service plan also explores new technologies.
+
+Some of the highlights included in the plan related to Salt Lake County include:
+
+       1. Improve service on the west side of Salt Lake County with new connections to
+          the airport and Inland Port via 3600 West, 5600 West, and 3100 South.
+       2. Improve frequency and hours of service on many routes.
+       3. Implement a network of high-frequency core routes.
+       4. Adjust local bus routes to prepare for future Midvalley Connector, 5600 West,
+          and South Davis Bus Rapid Transit service.
+       5. Improved connections to Rose Park and Glendale as part of the Salt Lake City
+          Transit Master Plan.
+       6. Improved connections from the FrontRunner to the University of Utah and
+          Research Park
+       7. Consider continued innovative mobility solutions like micro-transit in
+          Herriman, Riverton, South Jordan, Bluffdale, and Draper in south Salt Lake
+          County.
+       8. Construct a new transit hub on the west side of Salt Lake City.
+       9. Improve all-day service on many routes.
+
+
+
+
+                                     Page 4 of 19
+      Ms. Hanson also expressed that UTA was planning for the future with expanded rail and
+      bus services, a cleaner fleet, and continued studies on transit patterns.
+
+      Regarding the timeline, UTA expects that the Local Advisory Council and Board of
+      Trustees will adopt the Five-Year Service Plan in February. Following this, UTA intends
+      to reach out to different transit leaders, municipalities, and city staff to better understand
+      community needs and what areas are growing. Information from the Five-Year Service
+      Plan will inform upcoming operational plans and future implementation.
+
+**    Councilmember Green joined the meeting at 5:53 p.m.
+
+1.4   Councilmember Roberts asked if UTA had a sense of how many of the micro-transit rides
+      were repeat users. He was interested to know if people were using it as one-off
+      transportation or if there was a core group of users who were using it a lot.
+
+      Mr. Robertson said that he did not have specific data offhand, but that they do see a lot of
+      repeat users. He said that especially during the pandemic most riders were consistent users.
+
+      Councilmember Roberts asked if the right way to think about the micro-transit program
+      was as the last mile/first mile public Uber. He wondered how to put the performance of
+      the program in context.
+
+      Mr. Robertson said that for UTA what they want to test is another mode of public transit.
+      He said that they did put a big emphasis on the first and last mile connections, but they also
+      want to make sure that they provide local and community service. If someone wanted to
+      connect to a home to a library to a doctor’s office to a grocery store, that was an element
+      that UTA wanted to be able to provide from a public transit perspective. That was the
+      reason why UTA emphasized shared rides as opposed to going door to door unless
+      someone required a wheelchair accessible vehicle.
+
+      Mr. Christensen added that a couple of places that he would label as successes from the
+      perspective of the board was the number of requests that were for wheelchair accessible
+      vans. He said that one of the primary locations that people used the micro-transit to
+      commute to was Walmart. The service supported a lot of folks in getting groceries. Also,
+      it allowed many who were aging in place to still have mobility. He said that while UTA
+      always loves high ridership numbers, giving folks mobility to access basic needs was a
+      positive outcome.
+
+2.0   Legislative Update: Representative Jeff Stenquist
+
+2.1   Representative Stenquist said that he wanted Draper to know that he was available and that
+      it was an honor for him to represent Draper again at the legislative session. He said that it
+      was an interesting year all around. The legislative session was going to look a little
+      different. Representatives would be COVID tested twice a week and would have social
+      distancing measures in place changing normal public access. One of the silver linings was
+      that there would be increased opportunities for people to participate remotely. The public
+
+                                          Page 5 of 19
+would be able to join committee hearings and provide testimony. In the past, the public
+was able to listen to audio in conjunction with hearings and watch a video of floor time,
+but there was not a way for the public to participate.
+
+Representative Stenquist said that one never knows what will pop up during a legislative
+session. He did not know what the big controversial items would be this year. He did
+know that there would be a discussion about the separation of powers between the
+executive and legislative branches, particularly during times of pandemics. He said that he
+did not think that the conversation would have a major impact on the current pandemic.
+He said that by the time it is voted on, passed, and signed by the Governor, he anticipates
+that they would be coming out of the pandemic. He said that one of the good things to note
+was that last year after the budget was set, they came back in a special session and wiped
+the budget out to the bare bones, and cut $850 million out of the budget. That included
+several bills that had been funded and some that were not funded. As the pandemic has
+unfolded, the revenue numbers did not end up being as bad as it was feared they would be.
+Because of this, it looks like a lot of funding will be restored, and that there is a pretty
+healthy budget surplus that has led to talk of a targeted tax cut that might happen.
+
+In particular, there was a huge compromise, which was perhaps forgotten in everything
+that happened in 2020, on Constitutional Amendment G to provide a more stable
+mechanism for funding education. A lot of that money had to be pulled in the special
+session. It was anticipated that it would take a few years to restore that funding. The
+funding included a six percent increase in Weighted Pupil Units (WPU) and other money
+that was promised for items such as raises for state employees. The six percent WPU was
+a big commitment on the part of the legislature to fund education. Even though it was
+initially thought that it would take a couple of years to restore, the legislature will be able
+to do all of that in 2021, plus a $1500 per teacher bonus. He said there was a real
+commitment to making sure that education funding was their top priority.
+
+From a municipal standpoint, Representative Stenquist said that he did not know the big
+things that would happen from a local government standpoint. He said that he was running
+a couple of bills that have ties to local government. One of those bills was one where he
+was working with the Governor’s Office of Economic Development to create a revolving
+loan fund that municipalities could tap into for large regional infrastructure projects that
+would be beyond their bonding capacity. He said that he did not know if there were
+proposed projects in Draper that rose to the level to take advantage of that type of fund.
+
+Another bill that he was working on was one for Ranked Choice Voting. It would force
+Salt Lake County to support Ranked Choice Voting. Cities in Salt Lake County would not
+have to go outside of the county to run their elections. He said that he knew that Ranked
+Choice Voting was something that Draper had discussed. He said that Draper could go
+with either Salt Lake or Utah County, but that he wanted Draper to know that cities in Salt
+Lake County had the option. He said that as he has spoken with people, there weren’t
+technological barriers to run Ranked Choice Voting elections. He said that regardless of if
+someone liked that method of voting or not, it should be an option and not something the
+county refused to do.
+
+                                    Page 6 of 19
+      Finally, Representative Stenquist asked the Council if there was anything, they wanted him
+      to look out for regarding how to benefit shared constituents.
+
+2.2   Councilmember F. Lowry said that he hoped that Representative Stenquist continued to
+      pursue the Ranked Choice Voting. He said that he also had concerns about the separation
+      of powers and how it could impact a similar dynamic between the powers of the state and
+      cities. He said that he hoped that Draper would be able to maintain its rights within the
+      city regarding zoning because cities needed to be able to have a local voice.
+
+      Representative Stenquist said Councilmember F. Lowry’s concern had been a topic of
+      conversation for forever. He said that this year there was added pressure because of the
+      skyrocketing cost of housing in the state. There was a lot of discussion around affordable
+      housing and how to address the affordable housing issue. He said that it was true that one
+      way, perhaps the primary way, to address affordable housing would be to build more units.
+      However, it was cities, local governments, and zoning laws that had control over density
+      and height. The state could either sprawl out or build up. He said that he thought that as
+      land prices continued to get more expensive, there would be a push to go vertical and build
+      higher density. Those decisions tend to come with a lot of push back, mainly from
+      residents. He said that he felt that Draper could say that they had done their part in terms
+      of providing adequate housing and doing so in a smart way in terms of where high-density
+      housing was allowed to be developed; near transit and transportation corridors.
+
+      Representative Stenquist highlighted his experience with local governments and that this
+      was known by his colleagues. He also noted that several of the new representatives had
+      local government experience and had served on City Councils. He said that he had hopes
+      of being able to come up with solutions that prevented continued sprawl that put additional
+      pressures on transportation and air quality. Overall, he felt they just needed to be smarter
+      about development.
+
+      Representative Stenquist noted that he had some new committee assignments. These
+      included the vice-chair of the Economic Development and Workforce Services Committee,
+      the Transportation Committee, and the Infrastructure and General Government
+      Appropriations Committee. He explained that the Infrastructure and General Government
+      Committee set the budget for transportation. Because he also served on the Transportation
+      Standing Committee that addresses policy, he felt he was well-positioned to do a lot with
+      transportation and look out for Draper’s interests. He said that he was also committed to
+      continuing to focus on outdoor recreation. He reminded the Council that the Outdoor
+      Recreation Committee passed a bill last year that was supposed to come up with a strategic
+      plan and vision for outdoor recreation in Utah. This was one of the bills stopped due to
+      COVID. However, Representative Stenquist was still the chair of that committee despite
+      it not having any funding. He hoped that the funding would be restored this year. Also,
+      he had recently spoken with Deidre Henderson about the Governor’s budget proposal.
+      Although his budget proposal was more of a recommendation, he was trying to push for
+      greater recreation infrastructure and grants that Draper City could take advantage of.
+
+
+
+                                         Page 7 of 19
+3.0   Discussion: Ranked Choice Voting
+
+3.1   David Dobbins, City Manager, explained that the item had been added to the agenda to get
+      a feel for if the current council wanted to pursue Ranked Choice Voting for the November
+      election.
+
+3.2   Laura Oscarson, City Recorder, said that the recorders from cities in Salt Lake County, as
+      well as Salt Lake County Clerk’s office and the Utah County Clerk’s office, met yesterday
+      with Kory Holdaway with Ranked Choice Voting Utah. Sherrie Swensen was present and
+      said that Salt Lake County just signed the contract to get their new machines on December
+      31, 2020. She was not sure when they would arrive and once they do, she will want to run
+      tests to make sure that the software works and there are not any glitches. Because of this,
+      Ms. Swensen was not able to indicate if Salt Lake County would be able to run a Ranked
+      Choice Voting election in November.
+
+      Mayor Walker asked if Ms. Swensen was able to provide any sort of timeline.
+
+      Ms. Oscarson said no she didn’t. She furthered that as a city, Draper has until April 15th
+      to declare that they want to participate using Ranked Choice Voting. The city would send
+      a Letter of Intent to the Lieutenant Governor’s Office. She said that she was hopeful that
+      Ms. Swenson would have an idea by March but that she came away from the meeting a
+      little discouraged. Ms. Swensen was given funding for new machines last November by
+      the County. These machines are capable of running an election using Ranked Choice
+      Voting. Then the County decided that they wanted to have their IT people look at different
+      machines which delayed the process by a month or more.
+
+      Mayor Walker asked about the Utah County clerk. He said that it was his understanding
+      that Utah County was willing to run an election by Ranked Choice Voting.
+
+      Ms. Oscarson said that they keep getting different information from Utah County. What
+      she heard was that Utah County was encouraging cities in Salt Lake County to form a co-
+      op and the County would help that co-op run a Ranked Choice Voting election. It did not
+      sound like they were willing to do the election. That information she was still not sure
+      about.
+
+      Mayor Walker asked if the Council wanted to talk about the concept of Ranked Choice
+      Voting.
+
+3.3   Councilmember Green said that he would like to do it.
+
+3.4   Councilmember T. Lowery said that she felt as though the concept of Ranked Choice
+      Voting was positive for Draper. She said that she was having increasing concerns about
+      whether Salt Lake County would be in a position to execute the election and if Utah County
+      would be willing to take on Draper.
+
+
+
+
+                                         Page 8 of 19
+3.5    David Dobbins, City Manager, said that if the Council wanted staff to pursue it, they could
+       have those discussions with Utah County to nail down if they really can facilitate the
+       election. He said that he felt that staff had been a little hesitant to go that far because they
+       did not want to get too far ahead of the Council.
+
+3.6    Councilmember Roberts said that he was supportive. He asked if the issue with the
+       machines was that they were set up a certain way and Salt Lake County did not have the
+       right machines.
+
+3.7    Mr. Dobbins said that the county had already purchased new machines but that there was
+       a software that went with the machines that the county had to verify was programed and
+       safe against fraud.
+
+3.8    Mayor Walker asked if there was anyone who wanted to talk about the concept of Ranked
+       Choice Voting: what it means or if there were concerns about the change in the process.
+
+3.9    Mr. Dobbins said that what he would recommend unless the Council felt otherwise, was
+       that the Council add the item to their agenda and adopt a formal resolution to state officially
+       that was the Council’s position.
+
+3.10   Councilmember F. Lowry said that the Council needed to adopt a resolution to help Salt
+       Lake County feel the pressure to move forward and get the system tested. He said that if
+       they could get other communities to follow suit that would make a big difference.
+
+       Councilmember T. Lowery said that Riverton had already moved forward and adopted a
+       resolution. She felt that if Draper also did so, they might see a lot more communities join
+       in to help get the ball moving.
+
+       Councilmember Vawdrey said that she felt that education about Ranked Choice Voting
+       would be huge, too. She felt that Draper needed to have a plan on how to inform
+       constituents.
+
+       Councilmember Green said that he liked the concept of not having a primary election. He
+       said that during the last two election cycles, people get really tired. He said that they were
+       coming off of an awful four-year cycle that was contentious. To bring another election, it
+       would be nice to give people a break until August where they do not have to see any
+       political signs or rhetoric. He said that he felt that the community needed calmness for the
+       next eight months.
+
+       Councilmember F. Lowry noted the financial savings for the city and candidates.
+
+       Councilmember T. Lowery said she felt these were both good points. Ranked Choice
+       Voting made elections less contentious, encouraged people to be more positive towards
+       one another and build relationships, and it did have a cost savings effect.
+
+
+
+
+                                            Page 9 of 19
+      Mayor Walker asked if the Council would like to put Ranked Choice Voting on the next
+      agenda as a formal resolution. Councilmember Green said yes, please. The rest of the
+      Council also said yes.
+
+
+4.0   Discussion: Bond Payoff and Defeasance – Bob Wylie
+
+4.1   Bob Wylie, Finance Director, said that he wanted to present to the Council an opportunity
+      that Draper had to defease two bonds.
+
+      The first bond eligible was the Sales Tax Revenue Bond was issued in October 2012 to
+      refund the Bangerter Parkway 2004 bond and the bond for City Hall from 2002. The
+      outstanding principal and interest amount are $3,170,400. With the Bangerter Parkway
+      refunding included in the Series 2012 B, a portion of the defeasance would be paid for by
+      the Draper City Redevelopment Agency (RDA) (approximately 35.3%). The remainder of
+      the funding would come from the General Fund.
+
+      The second bond eligible was the Municipal Lease Revenue Refunding Bond, Series 2016.
+      The original Municipal Building Authority (MBA) Lease Revenue Bond was issued for
+      SunCrest Fire Station. The outstanding principal and interest on the bond are $1,584,528.
+      The funding for the defeasance would be appropriated from the General Fund.
+
+      Mr. Wylie went over the financial impact the defeasance of the bonds would have on the
+      city. The defeasance of the Series 2012B bond would result in an $84,865 savings in
+      interest from now until the bond matured. The Series 2016 bond would have an $82,273
+      savings. He said that those two savings amounts were not that much of a savings. But
+      what he looks into is the future budgeting process of Draper City. The city was starting
+      the Fiscal Year 2022 (FY22) budget process. If the bonds were not defeased, he would
+      need to budget $747,803 in the General Fund for the bond payments and $286,400 in the
+      RDA, almost a million dollars budgeted for debt service. Those budget items would extend
+      until the bonds were paid off. If the bonds were defeased this year, then the $747,803
+      would remain in the General Fund for operational budgeting and that $286,400 would also
+      be in the RDA. The RDA project area entailed the West Bangerter project area. That
+      would mean that in the next several years, Draper would have a new source of revenue for
+      General Fund operational expenses that they would be able to budget for versus just having
+      it in General Fund balance.
+
+      Mr. Wylie then provided a snapshot of Draper’s outstanding bonds. At the end of FY21,
+      Draper had seven outstanding bonds, totaling $19,691,000. If the two bonds were defeased
+      the outstanding bond liability would drop to $16,170,000. In the next five or six years, the
+      remaining bonds would also be paid off.
+
+      If the Council approved to defease the bonds, Mr. Wylie would bring forward a resolution
+      at the next council meeting to get official authorization for the city to act. The city would
+      have to give 30 days’ notice to the bondholders and then look at closing the accounts around
+      the end of February. He said that this was just one recommendation to use the General
+
+                                         Page 10 of 19
+      Fund and RDA balances to free up some of that cash for the operational budget going
+      forward.
+
+4.2   Councilmember Roberts asked what some of the uses would be for the new operating cash
+      that would be made available by paying off the bonds. Mr. Wylie said that would be up
+      to the Council.
+
+      Councilmember Roberts asked if the advantage were that instead of having one-time funds
+      that could only be spent on one-time projects, the city would gain operating cash flow to
+      use for recurring expenses. Mr. Wylie said yes, that would work.
+
+      Mr. Dobbins said that the money could be used for ongoing expenses. He said that there
+      had been discussion about the Fire Department and Public Safety pay scales. Those were
+      ongoing expenses. He said that staff had not yet identified what the use would be, but that
+      there were one-time funds now that would give the Council more flexibility to use the
+      money.
+
+      Councilmember F. Lowry asked if it would allow them to use one-time funds to finance
+      the all-abilities park. Mr. Dobbins said that there would essentially be $750,000 of funds
+      that could be used next year towards either one-time use or recurring expenses. He said
+      that what he would recommend would be that since the amount dropped down to a quarter-
+      million in three years that some of that money be dedicated to ongoing uses, but the rest
+      go towards one-time uses such as capital projects or to save up for the all-abilities park.
+
+      Councilmember Vawdrey asked if the Aquarium had been able to keep up with their bond
+      payment through COVID. Mr. Wylie said that they had. He said that this month they had
+      returned to making their full payment.
+
+      Mayor Walker asked what the rate was that bondholders were getting. Mr. Wylie said
+      about three percent. For the 2012B bond, the city would buy State and Local Government
+      Series (SLGS) Securities and the CPA firm would verify how much would be needed to be
+      dropped in there. The 2016 series was a callable bond. The city could just pay it off. Both
+      mechanisms would allow the bonds to be taken off the city’s books and the bondholders
+      would get paid the amounts through the callable period without a pre-payment penalty.
+
+      Councilmember T. Lowery said that she thought this was a very proactive measure to take.
+      The rest of the Council agreed and requested that Mr. Wylie bring the resolution before the
+      Council next week.
+
+5.0   Update: Engineering Projects – Scott Cooley
+
+5.1   Scott Cooley, City Engineer, presented the projects that were completed in 2020 and the
+      proposed projects for 2021.
+
+
+
+
+                                        Page 11 of 19
+   1. The first project completed in 2020 was the Highland Drive Widening from
+      Bangerter Parkway to just east of Minuteman Drive. The stretch of road was
+      widened from three to five lanes and a bike lane was added.
+   2. The second project was Bangerter Parkway and Traverse Ridge Road
+      improvements between Highland Drive and 13800 South. The project was milled
+      and overlayed, was widened from three to five lanes, and was re-striped. Also, a
+      new traffic signal was added at 14000 South and there were safety upgrades under
+      the railroad bridge. Just east of Highland Drive there were access management
+      improvements in the form of a raised median.
+   3. The city completed its first full-depth reclamation with the 300 East reconstruction
+      from 11400 South to 11800 South. Mr. Cooley said it went well. He encouraged
+      the Council to drive that stretch of road because the project went so well that staff
+      plan on using the technique in places that it was practical and feasible throughout
+      the city. He said that some of the advantages of the process were that from the
+      beginning of construction from the milling of the pavement to when it was
+      completed was only eight days. He said that normally it would be a two to three-
+      month project. He said that was a significant impact on residents and those who
+      needed access to the roads. Normally during a construction project, staff receive
+      tons of complaints. However, with this reclamation project, they received a lot of
+      praise from residents who were amazed at the speed of the project.
+   4. Because the 300 East reconstruction projects went so well, staff implemented the
+      same process with the Oak Vista Waterline Replacement and Roadway
+      Reconstruction project.
+   5. The fifth project completed, although a bit controversial, was the Traverse Ridge
+      Road Storm Drain improvements. A detention basin was constructed off Traverse
+      Ridge Road. The design required the city to design to a ten-year storm. There had
+      been significant flooding issues that affected downstream properties. Staff looked
+      at the opportunity to use the area as a detention pond to make the road compatible
+      with the 100-year storm than a ten-year storm. The project will provide additional
+      safety to an area that was located on a huge landslide. Mr. Cooley stated that
+      Traverse Ridge Road and its utilities, particularly the waterline, were his biggest
+      concern in the city. He added that there had been discussions about what the project
+      would look like and explained that the area had been seeded and would grow grass
+      to look more native.
+   6. The next project completed was the widening of Lone Peak Parkway. Two sections
+      were widened from three lanes to five with the addition of curbs and a sidewalk.
+      One section was widened from three lanes to four because the city was not able to
+      secure the right of way on the east side from the landowner at the time of the project.
+      However, there were ongoing negotiations with the Harberts. The project,
+      however, was finished.
+   7. A traffic signal was installed at 13490 South and Vista Station Boulevard.
+      Increased new development made traffic flow an issue. Mr. Cooley said that the
+      staff was seeing more problems like this throughout the city.
+
+Proposed projects for 2021 outlined by Mr. Cooley included:
+
+
+
+                                  Page 12 of 19
+1. The first proposed project would occur at the intersection of 900 East and Draper
+   Parkway. It is proposed to reconstruct the Draper Parkway pavement, complete the
+   900 East frontage improvements (curb, gutter, and sidewalk, and upgrade the traffic
+   signal. It is an RDA funded project.
+
+2. It was also proposed to widen 12200 South and add a curb, gutter, and sidewalk on
+   the north side of the street.
+
+3. A signal would be installed on 450 East by UDOT. For them to do that the city
+   needed to widen the south leg of the street. Mr. Cooley said that this would be a
+   critical element for businesses and the new homes just north of 12300 South.
+
+4. Next, there would be some intersection improvements at the intersection of
+   Highland Drive and Vestry Road. A new traffic signal would be added. Also,
+   Highland Drive would be widened with a curb, gutter, and sidewalk installed to
+   accommodate turn lanes.
+
+5. The next item, a HAWK (High-Intensity Activated Cross Walk beacon) signal at
+   SunCrest Drive and Eagle Stone Way, was a project that Mr. Cooley wanted to talk
+   about with the Council. He explained that it was a needed traffic control device.
+   The staff did a study to determine if a full traffic signal was needed. The study
+   determined that the HAWK signal would be best. A HAWK signal essentially
+   allowed pedestrians to stop traffic with the push of a button. Instead of being a
+   flashing light that warns, it stops traffic. Mr. Cooley said that the traffic committee
+   had discussed the pros and cons of different traffic devices. Because of the high
+   speeds on SunCrest Drive and there was a bus stop on the east side of the road that
+   kids on the west side have to cross the street to get access to, the committee felt a
+   more aggressive signal was necessary. The staff knows that some residents will
+   not be happy about the change. He wanted to let the Council know in advance that
+   there might be some push back from residents. Mr. Cooley said that they were also
+   going to extend a trail so that people would cross SunCrest at the signal. He
+   believed that Parks and Trails intended to extend the trail after crossing at the signal
+   on the other side of the road.
+
+   Mr. Dobbins asked if the Council was okay with staff proceeding with the signal.
+   He asked if they wanted staff to go to residents first to get their feedback.
+   Councilmember Roberts said that the signal was needed. He said that obviously,
+   people did not like to have flashing lights in their homes, but he felt that the signal
+   did a good job of mitigating the problem. He said that it was a needed signal for an
+   area that was super dangerous.
+
+   Councilmember T. Lowery said that residents had been asking for something at
+   the intersection for a long time.
+
+
+
+
+                                Page 13 of 19
+   Mr. Dobbins said that one element of the signal that he thought was nice was that
+   the lights were only activated when there was a pedestrian present. In the middle
+   of the night, the lights would not be seen.
+
+6. Addressing the roundabout at 1300 East was also proposed. The project entailed
+   adding a second lane in both the northbound and southbound directions and both
+   east and westbound right turn lanes.
+
+   Councilmember F. Lowry said that last time he had heard about the 1300 East
+   intersection the plan was to remove the roundabout and install a traffic signal. He
+   wondered if this improvement was something that staff wanted to try first.
+
+   Mr. Cooley said that what was perpetuating the possibility of putting in a signal
+   was if in the future tracks came in and extended the tracks line across the
+   intersection. If that occurred, then the roundabout would probably fail. Because
+   there was a high probability that the tracks would not extend as anticipated, staff
+   were recommending this as a long-term solution.
+
+   Councilmember F. Lowry asked if Mr. Cooley felt that the roundabout would be
+   as effective as a signal.
+
+   Mr. Cooley said that that it would be as effective, if not more effective. He said
+   that the roundabout would be preferable for non-peak hours. He said that it was
+   possible to go to a metered roundabout that controlled the amount of traffic that
+   could enter to be able to clear out some lanes that were getting congested.
+
+7. The Deer Ridge Road reconstruction would be ongoing during 2021 as well.
+
+8. Staff had begun outlining a pavement maintenance program for the coming year.
+   The treatments would include slurry seal, mastic seal, crack seal, and spot repairs.
+   The city had done a good job at treating its roads lately. He said that some of the
+   roads highlighted would be treated for the second time since Mr. Cooley had been
+   with the city. This indicated that the city was doing a good job at keeping up with
+   road repairs delaying the need for full road reconstruction. He said that the road
+   treatments would cost in the order of $2 million.
+
+9. There was also a road reconstruction planned for 13200 South from 1500 East and
+   Minuteman.
+
+10. Two additional traffic signals would be added. One would be added at Bangerter
+    Parkway and Vestry Road to address an expected increase in traffic due to
+    residential growth and Pluralsight. The second signal would be added at 12200
+    South and Lone Peak Parkway due to business development in the area.
+
+11. A pedestrian refuge island was proposed at Traverse Ridge Road and Oak Summit
+    Drive. There was a sight visibility issue at the intersection in addition to some
+
+                              Page 14 of 19
+             vehicles traveling a lot faster than the posted speed limit. With the presence of the
+             new SunCrest Park, the island would help pedestrians to be able to cross the road
+             safely.
+
+         12. Improvements would be done at the 300 East Carlquist Road roundabout. A light
+             would be installed in the center of the roundabout. Both the crosswalks across the
+             southbound and eastbound traffic patterns would be moved back to meet
+             compliance. A crash barrier would also be installed between the southbound and
+             westbound points to protect walls that keep getting hit.
+
+             Councilmember F. Lowry asked how many times the walls had come down. He
+             thought that it had happened at least three times in the last couple of years.
+
+             Councilmember F. Lowry stated that it was unique to have accidents like that
+             happen so many times in the same place. He asked if any commonalities had been
+             determined.
+
+             Mr. Cooley said that the biggest commonality was drunk driving. The last accident
+             was a novice mistake: someone hitting the gas pedal when they should have hit the
+             brake. He said he was not even sure if the driver had their license or if they only
+             had their permit. Mr. Cooley said that it was unfortunate because he felt the
+             intersection was pretty safe. However, to be on the precautious side, they were
+             going to install the improvements.
+
+         13. A possible project that might not happen because the design was only in its initial
+             phases and not completed, in addition to the right of way acquisition negotiations,
+             was the widening of the 300 East and 12300 South intersections. Staff received a
+             lot of complaints about the area. The project would widen both legs to add a turn
+             lane, making dual turn lanes in both the north and south directions. The north leg
+             of 300 East would be widened to extend the right run lane. The pavement on 300
+             East would be reconstructed. These improvements would greatly improve traffic
+             flow.
+
+6.0   Discussion: Residential Zones – Chickens – Christina Oliver
+
+6.1   Todd Draper, planner, said that staff was preparing to bring an ordinance before the
+      Council based on comments, they had received about the chickens for familial gain
+      ordinance. Some of the things staff considered were to respect Draper City’s historical ties
+      to the raising and keeping of chickens. Also, staff analyzed ordinances of 16 nearby cities
+      and Salt Lake County. They found a wide variation in regulations between jurisdictions
+      allowing between two and 250 chickens on residential lots (up to an acre of land).
+
+      The current ordinance (9-27-005) allows for a maximum of six chickens, without
+      consideration to lot size, in all residential zones. They are allowed for familial gain only,
+      meaning that no sale or income from chickens is permitted. Roosters are not permitted.
+      There are currently setbacks and sanitary standards for pens, coops, and run areas.
+
+                                         Page 15 of 19
+      The proposal that staff intended to bring forward would result in a reduction in the number
+      of chickens allowed to five for smaller lots eight-thousand square feet (8,000 𝑓𝑓𝑓𝑓 2 ). The
+      new ordinance would allow for an increase of one chicken for each additional two thousand
+      square feet (2,000 𝑓𝑓𝑓𝑓 2 ) in property size above ten thousand square feet (10,000 𝑓𝑓𝑓𝑓 2 ). This
+      would provide for a maximum of 20 chickens. Regulations would be added allowing
+      chicks and juvenile chickens (pullets) equal to 40% of allotment. Finally, the new
+      ordinance would clarify the specific zones where the keeping of chickens is allowed: RA1,
+      RA2, RH, R3, R4, A5, and A2).
+
+      Mr. Draper displayed a chart of the number of chickens allowed regardless of lot size in
+      nearby cities. They ranged from 50 chickens in Millcreek to just five chickens in West
+      Jordan. He also showed examples of cities with a gradual increase based on lot size. Most
+      cities were in the four to six number of chickens range. Holladay City allowed for 25-
+      250+, but Mr. Draper did not think that they had updated their ordinance in a while.
+
+6.2   Councilmember F. Lowry asked were 20 chickens came from.
+
+6.3   Mr. Draper said that one aspect that he reviewed in writing the ordinance were some of the
+      best practices. The best practice for raising free-range chickens was set at about 50
+      chickens per acre. Mr. Draper said that if the chickens were for familial gain, then a home
+      would already be on the property, at least half of the property would be taken up by the
+      building itself. The remaining undeveloped property would allow for about 25 chickens to
+      stay within husbandry best practices. That number was reduced a little to account for the
+      setbacks for the coops and property lines.
+
+6.4   Councilmember Vawdrey asked if Mr. Draper could show the Council the proposal again.
+
+6.5   Councilmember F. Lowry asked why the Council was considering the proposal. He said
+      that he recalled that Councilmember Vawdrey had asked that the item be addressed.
+
+      Councilmember Vawdrey said that she had a resident reach out to her and say that the limit
+      to the number of chickens was a hardship. In the meantime, she had spoken with a friend
+      who worked at IFA who shared that they were going nuts to try and get enough chicken
+      feed. She felt that chickens were something that people needed and wanted. The resident
+      who spoke with Councilmember Vawdrey represented that their family needed the
+      chickens as her husband was out of work because of COVID. She felt that Draper just
+      needed to be reasonable.
+
+      Councilmember F. Lowry asked if the city had been enforcing the current ordinance.
+      Councilmember Vawdrey said that the resident in question was on a one-acre lot and
+      restricted to six chickens. The resident did not feel that was reasonable. Councilmember
+      Vawdrey said that she did not think that it was reasonable either.
+
+
+
+
+                                           Page 16 of 19
+      Mr. Dobbins asked if the item was scheduled to go before the Planning Commission on
+      Thursday. Mr. Draper said the item was initially noticed for the Planning Commission, but
+      that it had been pulled off.
+
+      Mr. Dobbins clarified that it would go to the Planning Commission and then would come
+      back to the City Council for formal adoption. He asked if the Council had any input now.
+      He said that if the Council felt that it was too lenient or too restrictive, now was the time
+      to give staff direction.
+
+      Councilmember F. Lowery clarified that currently no rooster was permitted anywhere in
+      residential zones. Councilmember Vawdrey said that roosters were a problem because they
+      were noisy. Councilmember F. Lowry agreed and added so were hens.
+
+      Councilmember T. Lowery asked if there was a point in which chickens became a problem.
+      She asked if any research was done on that aspect. Mr. Draper said that it seemed everyone
+      had a different opinion about chickens generally. He did look into the issue. He said that
+      the question he looked into more was what the purpose of raising the chickens was for.
+      Some city ordinances restrict the use of chickens to eggs only. Draper City’s ordinance
+      did not. A lot of eggs could result from 20 chickens. At the same time, some residents
+      with higher numbers might be raising the chickens for poultry.
+
+      Councilmember F. Lowry asked that if according to Ms. Oliver the ordinance had been
+      enforced in certain areas, how many of those enforced would exceed the proposed
+      ordinance.
+
+      Christina Oliver, Community Development Director, said that the code enforcement officer
+      had been working with a couple of property owners that had roosters. Staff actively pursue
+      anyone who is breaking the current ordinance. She said that she felt that kids and families
+      should be able to have more than six chickens depending on the area of a property. With
+      the setback and sanitary standards included in the code, she felt that 20 chickens for egg
+      production and a family’s ability to partake of the entire chicken, was allowed.
+
+      Councilmember T. Lowery said that she likes the way that it was stepped to fit the different
+      property sizes. She felt it was a good structure for the ordinance.
+
+      Councilmember Vawdrey said that the problem before was that the same number of
+      chickens were allowed for small and large lots.
+
+      Councilmember T. Lowery said that was unfair. She felt the ordinance was a good way
+      to address the problem.
+
+7.0   Council/Manager Reports
+
+7.1   Britnee Johnston, Communications Director, said that staff wanted a resolution added to
+      next week’s agenda to adopt a new logo. She displayed the logo that had the most overall
+      support from the residential and employee survey. She explained that the color version
+
+                                         Page 17 of 19
+      would be the main logo with the black and white and grayscale versions as alternatives
+      based on the application. Once the logo was approved, Ms. Johnston would develop a style
+      guide that would explain when it was appropriate to use a color versus black logo. The
+      style guide would be something that the Council could review as well. The city just needed
+      an approved logo before she could move forward with the style guide. She wanted to bring
+      the item up to make sure that there were not any additional questions or concerns before
+      staff moved forward.
+
+      Councilmember F. Lowry told Ms. Johnston that she had done an awesome, amazing, and
+      patient job. He thanked her. He asked if it was necessary to have Utah on the logo. Mayor
+      Walker said the answer was yes.
+
+      Ms. Johnston said that she felt that it would be good. For example, outside Utah, people
+      do look at the Draper City website. She felt like Utah could be removed from street signs
+      because it would be so small that the word would not be seen. She said she could see the
+      use/non-use of Utah on a case-by-case basis. She said that would be included in the style
+      guide.
+
+      Councilmember Roberts said that he wanted a white t-shirt with the black logo on it. He
+      said that it looked so good. Ms. Johnston agreed.
+
+      Mayor Walker said that for all the iterations and input Ms. Johnston got it turned out well.
+      He said Ms. Johnston did a great job. He also thanked her for executing the second round
+      of the Draper Deals and expressed that she did a great job on that, too.
+
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Public Comments
+
+3.0   Consent Items
+
+      a. Approval of December 8, 2020, and December 15, 2020, City Council Meeting
+         Minutes
+      b. Approval of Resolution #21-01, appointing Andrea Page to the Draper Youth
+         Council Advisory Board
+      c. Approval of Resolution #21-02, updating the temporary COVID-19 Pandemic
+         Policy
+
+3.1   Councilmember T. Lowery moved to approve the Consent Items. Councilmember
+      Roberts seconded the motion.
+
+3.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+
+                                         Page 18 of 19
+4.0   Adjournment
+
+4.1   Councilmember Green moved to adjourn the meeting. Councilmember Roberts
+      seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+4.3   The meeting adjourned at 7:14 p.m.
+
+
+
+
+                                      Page 19 of 19
+

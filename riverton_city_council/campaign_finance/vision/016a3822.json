@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "Grayson Massey", "amount": "250", "in_kind": false},
+    {"date": null, "name": "Governing Group", "amount": "490.40", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Majority Strategies", "purpose": null, "amount": "2,171.31", "in_kind": false},
+    {"date": null, "recipient": "Majority Strategies", "purpose": null, "amount": "1,085.65", "in_kind": false}
+  ],
+  "total_contributions": "740.40",
+  "total_expenditures": "3,256.96",
+  "contributions_50_or_less": null,
+  "beginning_balance": "4,072.92",
+  "ending_balance": "1,478.19",
+  "_meta": {
+    "index_path": "raw/2025_johnson_general-election-report.pdf",
+    "candidate": "Alexander Johnson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_johnson_general-election-report.pdf",
+    "pages": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "11/22/23", "recipient": "Canva", "purpose": "Graphic Design Tool", "amount": "14.99", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "14.99",
+  "contributions_50_or_less": null,
+  "beginning_balance": "48.39",
+  "ending_balance": "33.40",
+  "_meta": {
+    "index_path": "raw/202312_Clark-Bullen_14941.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "reporting_period": "Year-end final",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A empty, printed cover 0 (THRU 12/21/23) and summary line 1 0 — reconciles. Schedule B itemized (1 row) sums to 14.99 = printed cover 14.99 — reconciles. Schedule C empty (0)."
+  }
+}

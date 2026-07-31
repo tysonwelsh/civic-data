@@ -1,0 +1,425 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=313&doc_id=3ec33afe-2825-11eb-a4b6-0050569183fa
+> Meeting date: 2020-08-27
+> Format: text
+
+Approved November 12, 2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURDAY, AUGUST 27, 2020 IN THE DRAPER CITY
+COUNCIL CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:                Chairperson Andrew Adams, Vice Chairperson Craig Hawker,
+                               Commissioners Kent Player, Gary Ogden, Mary Squire, and
+                               Alternate Commissioners Lisa Fowler and Tab Bingham
+
+ABSENT:                        Commissioner John Van Hoff and Alternate Commissioners
+                               DeLaina Tonks
+
+STAFF PRESENT:                 Jennifer Jastremsky, Brien Maxfield, Christina Oliver, Travis Van
+                               Ekelenburg, Amie Salazar, and Mike Barker
+
+STAFF PRESENT
+ELECTRONICALLY:                Spencer DuShane
+
+6:30 PM Business Meeting:
+
+Chairperson Andrew Adams called the meeting to order and read the electronic meeting notice
+for all in attendance.
+
+Jennifer Jastremsky, Senior Planner, commented that three Items that were originally scheduled
+for tonight’s meeting but have been rescheduled for the September 3, 2020 meeting. Those items
+included the Short Zone Change, Park Crossing, Zone Change and Land Use Map Amendment,
+and the Flag Lot Text Amendment.
+
+Discussion was made regarding if the commission needed to vote to adopt the Determination
+2020-02. It was determined that a vote was not necessary.
+
+Electronic Meeting Notice
+
+This meeting will be held electronically
+
+     •   Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+     •   Email your comments to the project planner listed on the agenda item below by Noon on
+         the day of the meeting. These will become part of the public record.
+     •   If you wish to speak during the Public Comment or Public Hearings portion of the
+         meeting, please send a request for the Zoom Meeting ID to the project planner listed on
+         the agenda item below by noon, on the day of the meeting.
+
+Determination 2020-02, pursuant to Utah Code Annotated 52-4-207(4)
+
+A.       I, Planning Commission Chair Andrew Adams, do hereby determine conducting an
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 2
+electronic meeting of the Draper City Planning Commission with an anchor location presents a
+substantial risk to the health and safety of those who may be present at the anchor location and
+hereby authorize the Draper City Planning Commission to conduct electronic meetings without
+an anchor location.
+
+B.     The foregoing determination is based on the following facts:
+       • Federal, state and local leaders, including the Draper City Mayor and City
+       Council, have all recognized a global pandemic caused by the spread of the COVID-19
+       virus.
+       • COVID-19 cases continue to fluctuate at high levels and hospitalizations in Salt
+       Lake County and Draper continue at high rates, both of which pose a risk of
+       overburdening the local health care system.
+       • It is difficult, if not impossible, to predict the number of attendees at any
+       meeting and to manage issues regarding social distancing in order to comply with State
+       Phased Guidelines.
+       • COVID-19 poses a continuing and immediate threat to the health, safety, and
+       welfare of Draper City residents.
+       • The City has the technological capability to provide means by which the public
+       may hear, or view and hear, the open portions of the meeting and to participate in public
+       hearings.
+
+1.     Action Item: Fox Landing Phase 3 Final Subdivision Plat (Administrative Action)
+
+On the request of Derek Wright, representing Wright Homes, for approval of the Final
+Subdivision Plat for Fox Landing Phase 3 on 15.6 acres of land located at 11622 South Rolands
+Dr. Applications SUBD-961-2020. Staff contact is Jennifer Jastremsky, 801-576-6328,
+Jennifer.jastremsky@draper.ut.us.
+
+Jennifer Jastremsky introduced the Item and pointed out the project began in 2014 and was now
+on the final stage of the development. She explained that most of the development was in the R3
+Zoning designation with a couple properties off 7th west in the RA1 Zone. She reviewed the
+applicant’s proposal to create 35 new residential lots all of which comply with the standards and
+requirements for each of the zones.
+
+Derek Wright, Applicant, commented that they were ready for final approval so they could begin
+construction on phase three of their project.
+
+Commissioner Lisa Fowler asked if the one acre lots along 700 West would remain as one acre
+lots or if they planned to divide and develop them.
+
+Mr. Wright responded that there were existing homes on those properties, and they purchased the
+back portions of those properties in order to complete their subdivision. He clarified that the two
+lots would remain at least one acre in size and would front 700 West.
+
+Motion: Commissioner Mary Squire motioned to approve the final subdivision plat as
+requested by Derek Wright, representing Wright Homes, for Fox Landing Phase 3,
+
+
+                                                2
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 3
+Applications SUBD-961-2020, based on the findings and subject to the condition listed in
+the Staff Report dated August 17, 2020.
+
+Second: Commissioner Kent Player
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+2.     Action Item: Big Willow Creek Phase 2 Final Subdivision Plat (Administrative
+       Action)
+
+On the request of Bryon Prince, representing ivory Development for a Final Subdivision Plat for
+Big Willow Creek Phase 2 located at 9.22 acres at approximately 422 W 11400 W. Application
+SUBD-819-2019. Staff contact is Jennifer Jastremsky, 801-576-6328,
+Jennifer.jastremsky@draper.ut.us.
+
+Ms. Jastremsky provided an overview of the Item and noted that this project had been in the
+works for several years. She pointed out there was a development agreement which covered the
+property that was amended in May 2020. She explained that the development agreement allowed
+for construction to begin while the bridge needed for the second access point near Jensen Farm
+Development was being completed. She shared that the area was in the R4 Zone and the lot sizes
+ranged from 13,000 to 10,000 square feet and public roads were 60 feet wide. Clarification was
+given that the proposal met the zoning and development agreement standards.
+
+Commissioner Player asked if the agreement included a fence along the stream and trail.
+
+Ms. Jastremsky replied it did not.
+
+Commissioner Fowler asked if the completion of the bridge was dependent on another developer.
+
+Ms. Jastremsky stated that was correct. She clarified that the bridge was on the Jensen Farm
+Property and that it was anticipated that construction on the bridge would begin shortly.
+
+Commissioner Fowler inquired why the development was progressing so slowly.
+
+Mr. Maxfield clarified that construction of the bridge was affected by irrigation in the area which
+should end in mid-September. He added that both developments were actively developing but
+some of the design elements took longer than expected.
+
+Motion: Commissioner Fowler motioned to approve the final subdivision plat as request by
+Bryon Prince, representing ivory Development for Big Willow Creek Phase 2 for a Final
+Subdivision Plat, Application SUBD-819-2019, based on the findings and subject to the
+conditions listed in the Staff Report dated August 17, 2020.
+
+Second: Commissioner Player
+
+
+
+                                                 3
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 4
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+3.     Public Hearing: Blue Stakes of Utah Addition Amended Site Plan (Administrative
+       Action)
+
+On the request of Jeffrey Close representing PGA&W Architects for approval of a site plan
+amendment to add approximately 2,313 square feet of commercial space to an existing
+commercial building and to modify the parking lot to accommodate the addition. The property is
+located at 148 East 13200 South. Application SPR-986-2020. Staff contact is Travis Van
+Ekelenburg, 801-576-5622, travis.vanekelenburg@draper.ut.us.
+
+Travis Van Ekelenburg, City Planner, introduced the Item and indicated the property was zoned
+Regional Commercial and that the General Plan supported commercial zoning in the area. The
+proposal was originally approved in 2004. He clarified that the current request was for additional
+training and office as well as site and architectural standard modifications. He explained that per
+City code the Planning Commission could approve site plans that deviated from the required
+design standards if it met certain requirements found in the section 9-22-040 of the City Code.
+
+Mr. Ekelenburg reviewed each of the four design code deviations. The first deviation was from
+code section 9-22-040D2 regarding roofline and parapet variations where there are long
+continuous and undisturbed roof lines 50 feet or greater. He shared that the building currently did
+not have roofline variations and was around 91 feet long. The second deviation was found in
+section 9-22-040(D)(4) concerning screening mechanical equipment on the roof. He continued
+his presentation and indicated the third deviation was concerned, the requirement for a minimum
+of two primary materials which covered 75% of the building’s finish face found in section 9-22-
+040(F)(3)(A). He explained the applicant was requesting this deviation so the proposed additions
+would match the existing building. The fourth deviation was found in section 9-22-050(A)
+which addressed the placement of corner buildings and required that main facades and entrances
+faced both public streets and that the building should include a prominent architectural feature,
+greater height, or emphases at the corner where the two public streets meet.
+
+Commissioner Fowler inquired if they needed deviation approval or if things would be
+grandfathered in.
+
+Ms. Jastremsky explained that the existing building can stay and remain as is, but additions are
+required to meet current standards and in this case they are requesting deviations so the new parts
+can match the older portions that did not have to meet the same standards.
+
+Commissioner Fowler asked if they were planning to screen the equipment on the roof.
+
+Mr. Ekelenburg responded that they were and was unsure why the deviation was being
+requested.
+
+Commissioner Ogden asked if the applicant would be required to screen existing equipment in
+addition to any new equipment being installed.
+
+
+                                                 4
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 5
+
+Mr. Van Ekelenburg replied he assumed they would be screening both old and new equipment.
+
+Jeffrey Close, Applicant, explained they only planned to screen the new units with steel frames
+and looters that would be painted.
+
+Chairman Adams opened Public Hearing portion of the meeting. Nobody wished to speak and
+Chairman Adams closed the Public Hearing.
+
+Motion: Commissioner Ogden motioned to approve the deviation to the Roof line as
+requested by Jeffrey Close representing PGA&W Architects for the Blue Stakes of Utah
+Addition, application SPR-986-2020, based on the findings and subject to the conditions
+listed in the Staff Report dated August 12, 2020.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+Motion: Commissioner Squire motioned to approve the deviation to the Equipment
+Screening as requested by Jeffrey Close representing PGA&W Architects for the Blue
+Stakes of Utah Addition, application SPR-986-2020, based on the findings and subject to
+the conditions listed in the Staff Report dated August 12, 2020.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+Motion: Commissioner Fowler motioned to approve the deviation to the Building Materials
+as requested by Jeffrey Close representing PGA&W Architects for the Blue Stakes of Utah
+Addition, application SPR-986-2020, based on the findings and subject to the conditions
+listed in the Staff Report dated August 12, 2020.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+Motion: Commissioner Player motioned to approve the deviation for Building Placement
+as requested by Jeffrey Close representing PGA&W Architects for the Blue Stakes of Utah
+Addition, application SPR-986-2020, based on the findings and subject to the conditions
+listed in the Staff Report dated August 12, 2020.
+
+Second: Commissioner Hawker
+
+
+
+                                                5
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 6
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+Motion: Commissioner Ogden motioned to approve the Site Plan Amendment as requested
+by Jeffrey Close representing PGA&W Architects for the Blue Stakes of Utah Addition,
+application SPR-986-2020, based on the findings and subject to the conditions listed in the
+Staff Report dated August 12, 2020.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+4.     Public Hearing: Quinn Court Office Amended Site Plan (Administrative Action)
+
+On the request of Jay Rice, representing J-A-R Real Estate Development, for an amended Site
+Plan to the Quinn Court Office located on 1.93 acres at 11980 South 700 East. Application SPR-
+1031-2020. Staff contact is Jennifer Jastremsky, 801-576-6328,
+Jennifer.jastremsky@draper.ut.us
+
+Ms. Jastremsky reviewed the Item and shared the plan was originally approved in 2018 and
+construction on the building was recently completed. She explained that the applicant was
+requesting an amendment in order to approve a deviation to the buffer wall standards. She
+pointed out that the original site plan called for a six-foot wall along the north property line and
+along the east side of the canal which runs through the west side of the property. She clarified
+that the proposal was to leave the vinyl fence along the north property and to eliminate the
+proposed fence on the west side of the property and simply use landscaping as a buffer. She
+reviewed the required land use buffers within the zoning code between commercial and
+residential areas which indicated that a reduction in the buffer requirement could be made if
+certain criteria were met.
+
+Ms. Jastremsky stated that Staff believes the canal met the requirement for the five-foot hedge
+due to the amount of plants and landscaping around the canal. She explained that Staff did not
+believe that the standards are not being met along the north side of the property.
+
+Commissioner Fowler asked if a vinyl fence was a good enough buffer or if it had to be concrete.
+
+Ms. Jastremsky replied that Draper requires concrete/masonry type walls for buffer fences. She
+explained that these materials were more durable and did a better job at sound mitigation.
+
+Commissioner Fowler inquired who would be responsible for fixing the vinyl fence if it gets
+damaged.
+
+Commissioner Player commented that vinyl fences were not durable and difficult to replace.
+
+
+
+
+                                                  6
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 7
+Jay Rice, Applicant, clarified that their property line was on the west of the canal. He stated that
+if they are required to put a fence up, they would like to do it on the west side of the canal. He
+noted that they had landscaped the area on the east side of the canal and planned to put tables
+there for people to enjoy breaks outside in the shade. He added that they would be happy to sign
+a joint fence agreement with the property owners or home association along the north boundary.
+
+Commissioner Squire asked why the wall was originally proposed on the east side of the canal.
+
+Mr. Rice replied that the engineer must have believed the property line was not on the west side.
+
+Commissioner Squire asked if the City had an easement for a trail along the canal.
+
+Mr. Rice indicated the he was not aware if they City had an easement there or not.
+
+Commissioner Squire stated she felt they needed to require a wall but was unsure if they should
+allow them to build it along the property line or not.
+
+Mr. Rice suggested removing the chain link fence to improve the look of the neighborhood.
+
+Commissioner Squire agreed. She added that she was still unsure if allowing the applicant to put
+the wall along the property line may present unintended consequences for neighbors.
+
+Chairman Adams opened the meeting up for public comments on the Item.
+
+Christian Cole, 11963 South 645 East, indicated he lived west of the property and was
+representing five different families. He commented that they were strongly opposed to not
+requiring the applicant to put up a wall. He shared that they have had a negative experience
+working with the developer. He stated that they originally agreed to an eight-foot wall but
+allowed for six feet when the developer asked for it and promised to put it on the east side of the
+canal and would leave as many of the mature trees in tact as possible. He indicated that they
+were also previously promised two access lanes but now they only had one on 12000 South. He
+reiterated that the neighbors were frustrated with the developer and the changes they continue to
+make.
+
+Tyson Moore, 12041 South 645 East, commented that he wanted to see a significant buffer. He
+added that the spirit of the code was not to only have landscaping but a concrete barrier between
+commercial to residential lots. He disagreed that the canal would be an adequate substitute for a
+wall or hedge. He pointed out there were several school bus stops in the area and feels a
+substantial wall should be put up for safety and liability reasons. He requested that the
+Commission stick to the code and keep the requirements as they are.
+
+John Martindale, 672 Faulkner Court, shared his property was along the north wall of the subject
+site. He noted that codes were put in for a reason. He requested that the wall be completed as
+originally agreed upon since the lack of a wall would not allow for a sufficient buffer or sound
+barrier from the commercial area and if not, a fence agreement should be signed between the
+
+
+
+                                                  7
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 8
+home owners association and business. He expressed frustration that the applicant had not helped
+to fix the fence in the past or offer to take care of it.
+
+Lewis Haupt, 673 East Faulkner Court, stated that he was the Treasurer of the Homeowners
+Association located to the North of the development. He noted that when the commercial
+business was approved to go in it included the condition that the six-foot masonry wall be put in.
+He pointed out masonry walls were standard in Draper and there was no reason to give this
+developer a variance. He shared that the existing vinyl fence got a hole in it and the developer
+was not cooperative in doing their part to repair the fence and feels the offer of a joint fence
+agreement rings hollow. He expressed he felt the only reason the developer did not want to build
+the fence was for cost and that allowing a variance could set a precedence for other developers.
+
+Chairman Adams closed the public hearing.
+
+Brien Maxfield, City Engineer, stated the City did not have plans for a trail along the canal.
+
+Mr. Rice stated some of the comments were untrue and he never attended a meeting were an
+eight-foot wall was discussed. He added he was also willing to pay for repairs to the vinyl fence.
+
+Commissioner Fowler indicated she felt the residence wanted a fence to help create a strong
+buffer as well as to block sound and provide additional safety.
+
+Commissioner Hawker inquired what was originally approved.
+
+Ms. Jastremsky share that the site plan approved in 2018 had a 6-foot Rhino Rock wall.
+
+Commissioner Fowler suggested they make the business comply with what was originally
+approved.
+
+Motion: Commissioner Squire motioned to deny the amended site plan as requested by Jay
+Rice representing J A R Real Estate Development for Quinn Court Office, application
+SPR-1031-2020, based on the findings listed in the Staff Report dated August 19, 2020.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Player, Squire, Fowler, and Ogden voted, “Aye”.
+
+5.     Adjournment
+
+Chairperson Adams asked if there were any other items of business or announcements.
+
+Ms. Jastremsky announced that the next meeting would take place on September 3, 2020.
+
+Chairperson Adams moved to adjourn the meeting. A voice vote was taken with all in favor.
+
+
+
+                                                 8
+Draper City Planning Commission Meeting
+August 27, 2020
+Page 9
+The meeting adjourned at 8:03 p.m.
+
+
+
+
+                                          9
+

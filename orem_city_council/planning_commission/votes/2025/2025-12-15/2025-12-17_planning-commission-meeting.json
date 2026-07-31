@@ -1,0 +1,99 @@
+{
+ "date": "2025-12-17",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-12-15/2025-12-17_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "approve the Cove Estates Plat J Plat amendment, subject to the conditions outlined in the staff report",
+   "body": "PlanningCommission",
+   "motion_type": "Plat/Subdivision",
+   "action_class": "Final Action",
+   "result": "4:0 Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Mike Carpenter",
+   "seconder": "Rod Erickson",
+   "names_recorded": true,
+   "aye": [
+    "Madeline Komen",
+    "Mike Carpenter",
+    "Rod Erickson",
+    "Gerald Crismon"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "approve the Rolling Sand Plat amendment",
+   "body": "PlanningCommission",
+   "motion_type": "Plat/Subdivision",
+   "action_class": "Final Action",
+   "result": "3:1 Denied (Final Action, motion failed)",
+   "outcome": "Failed",
+   "mover": "Rod Erickson",
+   "seconder": "Gerald Crismon",
+   "names_recorded": true,
+   "aye": [
+    "Madeline Komen",
+    "Rod Erickson",
+    "Gerald Crismon"
+   ],
+   "nay": [
+    "Mike Carpenter"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "reconsider the vote on the Rolling Sand Plat amendment",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "Procedural",
+   "result": "3:1 Fail",
+   "outcome": "Failed",
+   "mover": "Rod Erickson",
+   "seconder": "Gerald Crismon",
+   "names_recorded": true,
+   "aye": [
+    "Madeline Komen",
+    "Rod Erickson",
+    "Gerald Crismon"
+   ],
+   "nay": [
+    "Mike Carpenter"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "approve the Orchard Grove Senior Fourplex Site plan",
+   "body": "PlanningCommission",
+   "motion_type": "Site Plan",
+   "action_class": "Final Action",
+   "result": "4:0 Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Mike Carpenter",
+   "seconder": "Rod Erickson",
+   "names_recorded": true,
+   "aye": [
+    "Madeline Komen",
+    "Mike Carpenter",
+    "Rod Erickson",
+    "Gerald Crismon"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

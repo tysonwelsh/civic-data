@@ -1,0 +1,38 @@
+{
+ "contributions": [
+  {"date": "7/23/23", "name": "Deborah Wunderli", "amount": "$526.08", "in_kind": false},
+  {"date": "8/21/23", "name": "Trina Metcalf", "amount": "$105.47", "in_kind": false},
+  {"date": "8/14/23", "name": "Jordan Clements", "amount": "$500.00", "in_kind": false},
+  {"date": "8/23/23", "name": "Peter Fisher", "amount": "$100.00", "in_kind": false},
+  {"date": "8/15/23", "name": "Suzanne and Mark Hyland", "amount": "$1,000.00", "in_kind": false},
+  {"date": "6/7/23", "name": "Suzanne and Mark Hyland", "amount": "$50.00", "in_kind": false}
+ ],
+ "expenditures": [
+  {"date": "6/7/23", "recipient": "Cottonwood Heights City", "purpose": "Filing fee", "amount": "$50.00", "in_kind": false},
+  {"date": "7/17/23", "recipient": "Canva", "purpose": "Web hosting", "amount": "$12.99", "in_kind": false},
+  {"date": "8/13/23", "recipient": "FedEx Office", "purpose": "Flyers printed", "amount": "$37.53", "in_kind": false},
+  {"date": "8/14/23", "recipient": "Office Depot", "purpose": "Supplies for canvassing", "amount": "$30.64", "in_kind": false},
+  {"date": "6/7/23", "recipient": "GoDaddy", "purpose": "Domain registration", "amount": "$22.70", "in_kind": false},
+  {"date": "8/18/23", "recipient": "Election Hive", "purpose": "Signs, mailer, flyers", "amount": "$1,549.49", "in_kind": false},
+  {"date": "8/19/23", "recipient": "Election Hive", "purpose": "SMS Messaging", "amount": "$245.52", "in_kind": false},
+  {"date": "8/17/23", "recipient": "Canva", "purpose": "Web hosting", "amount": "$12.99", "in_kind": false},
+  {"date": "6/18/23", "recipient": "WordPress", "purpose": "Web design", "amount": "$19.40", "in_kind": false},
+  {"date": "8/13/23", "recipient": "Amazon.com", "purpose": "Supplies for canvassing", "amount": "$22.51", "in_kind": false},
+  {"date": "8/15/23", "recipient": "Zurchers", "purpose": "Meet the Candidates supplies", "amount": "$15.98", "in_kind": false},
+  {"date": "various", "recipient": "FundHero.com", "purpose": "Credit card donation processing fees", "amount": "$61.55", "in_kind": false}
+ ],
+ "total_contributions": "2,281.55",
+ "total_expenditures": "2,081.30",
+ "contributions_50_or_less": null,
+ "beginning_balance": null,
+ "ending_balance": "200.25",
+ "_meta": {
+  "index_path": "raw/2023_state_suzanne-hyland.pdf",
+  "candidate": "Suzanne Hyland",
+  "office": "Council",
+  "filing_type": "interim",
+  "election_year": "2023",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2023_state_suzanne-hyland.pdf",
+  "pages": 2
+ }
+}

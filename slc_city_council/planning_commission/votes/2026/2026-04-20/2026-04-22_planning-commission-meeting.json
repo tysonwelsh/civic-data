@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "date": "2026-04-22",
+    "year": "2026",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2026/PC%204.22.2026%20Meeting%20Docs/PC04.22.2026minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2026/2026-04-20/2026-04-22_planning-commission-meeting.md",
+    "present": [
+      "Amy Barry",
+      "Aimee Burrows",
+      "Anna Sullivan"
+    ],
+    "absent": [
+      "Jeffrey Barrett",
+      "Brian Scott",
+      "Richard Leverett"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the minutes",
+      "description": "approve the minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Amy Barry",
+      "seconder": "Anna Sullivan",
+      "result": "2:0 Pass",
+      "tally": {
+        "yes": 2,
+        "no": 0,
+        "abstain": 1,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Anna Sullivan"
+      ],
+      "nay": [],
+      "abstain": [
+        "Aimee Burrows"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval to City Council",
+      "description": "forward a recommendation of approval to City Council",
+      "motion_type": "Street/Alley Closure",
+      "action_class": "recommendation",
+      "mover": "Anna Sullivan",
+      "seconder": "Amy Barry",
+      "result": "Negative recommendation 2:1",
+      "tally": {
+        "yes": 2,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Anna Sullivan"
+      ],
+      "nay": [
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of Motion approval to City Council with a stated preference that the City Council look into an entire vacation of the alleyway between Chadwick and Dearborn",
+      "description": "forward a recommendation of Motion approval to City Council with a stated preference that the City Council look into an entire vacation of the alleyway between Chadwick and Dearborn",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Anna Sullivan",
+      "result": "Positive recommendation 3:0",
+      "tally": {
+        "yes": 3,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Aimee Burrows",
+        "Anna Sullivan"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of denial to City Council because the M-1A district permits Data Centers as a land use, and that does not comply with Plan Salt Lake\u2019s Environmental Protection Initiative",
+      "description": "forward a recommendation of denial to City Council because the M-1A district permits Data Centers as a land use, and that does not comply with Plan Salt Lake\u2019s Environmental Protection Initiative",
+      "motion_type": "Other",
+      "action_class": "recommendation",
+      "mover": "",
+      "seconder": "Amy Barry",
+      "result": "Negative recommendation 2:1",
+      "tally": {
+        "yes": 2,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Anna Sullivan"
+      ],
+      "nay": [
+        "Aimee Burrows"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

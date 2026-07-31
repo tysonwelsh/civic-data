@@ -1,0 +1,60 @@
+{
+ "contributions": [
+  {
+   "date": "07/31/2025",
+   "name": "Dividend Deposit",
+   "amount": "0.05",
+   "in_kind": false
+  },
+  {
+   "date": "08/31/2025",
+   "name": "Dividend Deposit",
+   "amount": "0.04",
+   "in_kind": false
+  },
+  {
+   "date": "09/03/2025",
+   "name": "Self",
+   "amount": "600.00",
+   "in_kind": false
+  },
+  {
+   "date": "09/26/2025",
+   "name": "Jerolyn Malouf",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "09/30/2025",
+   "name": "Dividend Deposit",
+   "amount": "0.01",
+   "in_kind": false
+  },
+  {
+   "date": "10/06/2025",
+   "name": "Barbara Child",
+   "amount": "100.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "09/04/2025",
+   "recipient": "Square One Printing",
+   "purpose": "$1301.26 for 3000 door hangers, and $244.50 for 500 4x6 handouts",
+   "amount": "1545.76"
+  },
+  {
+   "date": "09/04/2025",
+   "recipient": "Costco",
+   "purpose": "Bag of candy for handouts at the Gardner's Market booth",
+   "amount": "24.71"
+  }
+ ],
+ "contributions_under_500": null,
+ "contributions_itemized": "800.10",
+ "total_contributions": null,
+ "expenditures_under_500": null,
+ "expenditures_itemized": "1570.47",
+ "total_expenditures": null
+}

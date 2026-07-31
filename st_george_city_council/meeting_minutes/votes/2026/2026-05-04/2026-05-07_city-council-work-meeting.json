@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-07",
+  "year": 2026,
+  "title": "City Council Work Meeting",
+  "source": "meeting_minutes/minutes/2026/2026-05-04/2026-05-07_city-council-work-meeting.md",
+  "roster_present": [
+    "Jimmie Hughes",
+    "Dannielle Larkin",
+    "Natalie Larsen",
+    "Michelle Tanner",
+    "Steve Kemp",
+    "Austin Anderson"
+  ],
+  "votes": [
+    {
+      "motion_no": 1,
+      "section": "ADJOURN TO REGULAR MEETING",
+      "body": "Council",
+      "motion": "A motion was made by Councilmember Kemp to adjourn to the regular meeting.",
+      "motion_type": "Procedural/Administrative",
+      "result": "4-0 Pass (The vote was unanimous and the motion carried.)",
+      "mover": "Steve Kemp",
+      "seconder": "Austin Anderson",
+      "aye": [
+        "Dannielle Larkin",
+        "Natalie Larsen",
+        "Steve Kemp",
+        "Austin Anderson"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Michelle Tanner"
+      ],
+      "recuse": [],
+      "names_recorded": true
+    },
+    {
+      "motion_no": 2,
+      "section": "ADJOURN TO A CLOSED MEETING",
+      "body": "Council",
+      "motion": "A motion was made by Councilmember Tanner to adjourn to a closed meeting to discuss litigation, security, property acquisition or sale, or the character and professional competence or physical or mental health of an individual.",
+      "motion_type": "Procedural/Administrative",
+      "result": "5-0 Pass (The vote was unanimous and the motion carried.)",
+      "mover": "Michelle Tanner",
+      "seconder": "Dannielle Larkin",
+      "aye": [
+        "Dannielle Larkin",
+        "Natalie Larsen",
+        "Michelle Tanner",
+        "Steve Kemp",
+        "Austin Anderson"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [],
+      "recuse": [],
+      "names_recorded": true
+    }
+  ]
+}

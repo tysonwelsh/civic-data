@@ -1,0 +1,638 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=440&doc_id=4b697d35-c3da-11eb-bd7e-0050569183fa
+> Meeting date: 2021-05-18
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 18, 2021,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:            Mayor Troy K. Walker, and Councilmembers Mike Green (by
+                    phone), Tasha Lowery, Fred Lowry, Cal Roberts, and Marsha
+                    Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Scott
+                    Cooley, City Engineer; Hazel Dunsmore, Human Resource
+                    Director; John Eining, Police Chief; Rhett Ogden, Recreation
+                    Director; Laura Oscarson, City Recorder; Linda Peterson,
+                    Communications Director; Clint Smith, Fire Chief; and Bob Wylie,
+                    Finance Director; Jen Jastremsky, Senior Planner
+_____________________________________________________________
+This meeting was held electronically.
+This meeting will be an electronic meeting according to Draper City Municipal Code
+2-                                                                            1-040.
+
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of
+the Draper City Council with an anchor location presents a substantial risk to the
+health and safety of those who may be present at the anchor location and hereby
+authorize the Draper City Council to conduct electronic meetings without an anchor
+location.
+
+The foregoing determination is based on the following facts:
+
+           • Federal, state, and local leaders, including the Draper City Mayor and
+       City Council, have all recognized a global pandemic caused by the spread of
+       the COVID-19 virus.
+           • While COVID-19 cases and hospitalizations show an encouraging
+       downward trend and vaccines are becoming available to a larger segment of
+       the Draper population, diligence is required so that there is not a rebound in
+       cases and hospitalizations.
+
+
+
+
+Draper City Council Approved Minutes – June 1, 2021
+         • It is difficult, if not impossible, to predict the number of attendees at any
+      meeting and to manage issues regarding social distancing in order to comply
+      with applicable health orders.
+         • COVID-19 poses a continuing and immediate threat to the health,
+      safety, and welfare of Draper City residents and the public in general.
+         • The City has the technological capability to provide means by which the
+      public may hear, or view and hear, the open portions of the meeting and to
+      participate in public hearings.
+
+To participate, please see the options below:
+   • Listen         through        the      Draper    City      website       -
+      https://www.draper.ut.us/95/Agendas- Minutes.
+   • Email comments to public.comment@draper.ut.us. These will become part of
+      the public record.
+   • Those wishing to speak during the meeting, send a request and include your
+      name, address, and phone number which you will be calling from, for the
+      Zoom meeting ID to public.comment@draper.ut.us.
+
+Study Session
+
+1.0   Presentation: South Valley Chamber of Commerce Budget - Jay Francis
+
+1.1   Jay Francis, President, and CEO of the South Valley Chamber of Commerce said
+      that he retired a year ago from the Larry Miller Group after 35 years. He said
+      that he would leave the Council with a full annual report to supplement his
+      slides.
+
+      One of the highlights for the Chamber of the past year was hosting what they
+      called an executive forum. The Chamber was able to hold one of these forums
+      at PluralSight as one of the first users of the building. In addition, they hosted
+      Governor Spencer Cox. He continued that one of the Chamber’s hallmarks
+      was the education provided to small businesses. He said they have three
+      pillars under what they call the Business Institute.
+
+      The first is the Leadership Program which was just started in the past year and
+      featured three sessions of full-day training for up-and-coming civic leaders
+      that are exposed to different issues and topics. He said that this was the first
+      time the South Valley Chamber had offered this program, but the Salt Lake
+      Chamber had offered it for years.
+
+                                                                           Page 2 of 16
+The second program, the Business Accelerator, was the Chamber’s hallmark.
+It was similar to a Masters of Business Administration (MBA) course. Mr.
+Francis said that the fourth cohort finished the day of the meeting. The
+program consisted of a 10-week course that taught fundamentals to small and
+mid-sized businesses. He said that he had listened to 16 small business
+owners present their business plans after having completed the program and
+how the 10-weeks had changed their perspective was rewarding. He said that
+it was interesting to hear how the businesses had said that the program was
+life-changing. A fifth cohort would start on August 1st. To offer this program
+twice a year was new for the Chamber.
+
+The final pillar under the Business Institute was the Business Academy. These
+were one to two hour courses for two to three weeks in a row on a specific
+topic such as HR, IT, or accounting that small businesses needed access to, but
+could not afford to hire a CPA or HR director.
+
+Mr. Francis then highlighted some events the Chamber hosts. These included
+events like Women in Business that are held monthly. He noted that at a
+recent meeting of the Women in Business group they honored nine high
+school girls who were given scholarships after participating in the Junior
+Women’s program. Girls in this program have to spend an hour and a half a
+month to meet with mentors and participate in Women and Business
+meetings. After these students communicate with the Chamber about the
+college they plan to attend, the $1,000 scholarship is sent directly to that
+college. Another event, Let’s Do Lunch, is an opportunity for businesses to
+connect. This year the Chamber alternated this event so that every other
+month there was a speaker to present to the group. He said that attendees
+were not allowed to pick their tables so that attendees had to get out of their
+comfort zone. Lastly, every two to three months, the Chamber hosts an event
+called In The Know where updates were provided. Guests included speakers
+such as local health departments, an accountant to help businesses learn how
+to do Paycheck Protection Program (PPP) loans, Alan Matheson from The
+Point, and an upcoming presentation on mental health in the workplace. The
+event recently became sponsored by KSL.
+
+He continued that the Chamber was involved in the COVID-19 response on
+issues such as workplace policies, vaccine rollout, and customer requirements.
+In addition, the Chamber supported small businesses with PPP loans. Because
+
+                                                                  Page 3 of 16
+venues and restaurants got hit so hard as a result of the pandemic, the
+Chamber worked with hotels from Sandy to Draper. Through some funding,
+the Chamber purchased some Visa gift cards that were given to people to
+encourage them to spend a night at a local hotel.
+
+The Chamber also started a new Small Business Committee. The committee
+was chaired by two small businesses and had a total of 16 members. They
+were looking specifically at small business needs and then would reach out to
+the larger Chamber to have those needs met. One of the initiatives that came
+out of the committee was a podcast that had gained a lot of traction. Many of
+the members of the committee were graduates of the Business Accelerator
+Program and want to have a Business Accelerator 2.0.
+
+In 2020 the Chamber was able to retain 96% of its membership. He said when
+he began in October he realized that it would be difficult right now to convince
+new businesses to join. They were simply just trying to stay alive. Because of
+this, the Chamber worked hard to shore up current members and help them.
+75 new members had joined since last March. Some of these notable new
+members included Raddon Development, Merit Medical, TopGolf, Gardner
+Company, Utah Motorsports, US Bank, and Deseret Management (KSL). There
+were six new Draper members: Summit Sotheby’s International, Swire Coca-
+Cola, Loveland Living Planet Aquarium, Utah Warriors Rugby, Brandless, and
+IKEA. He said that Brandless and Coca-Cola were now on the Chamber’s
+board. The Brandless CEO founded the Women’s Tech Council. He said that
+she was amazing.
+
+Mr. Francis noted that the president of the South Valley Chamber had the
+opportunity to be on two committees with Alan Matheson regarding The Point.
+He said this was an opportunity to make sure that the business voices were
+being heard. He recognized that some of the Draper Council was on those
+committees and he said that he had heard their voices.
+
+Lastly, Mr. Francis said that the Chamber would be hosting a job fair the
+following day. High school and college kids would be coming to Boondocks to
+apply for jobs. He said that hotels and restaurants were reopening, but they
+struggled to fill their positions. He said that the restaurant on the top of the
+hill, The Ridge, was a place that the Chamber worked with as a venue for
+lunches. Mr. Francis said that the manager had recently called to inform the
+
+
+
+                                                                   Page 4 of 16
+      Chamber that they had to close for lunch because the restaurant didn’t have
+      enough employees.
+
+1.2   Councilmember T. Lowery asked if Mr. Francis had information on the job fair
+      that the Council could share and advertise, as well as information on the In
+      The Know event on mental health. Mr. Francis said that he would get that
+      information sent to Draper staff.
+
+1.3   Councilmember F. Lowry asked what the City can do to help support the South
+      Valley Chamber of Commerce. Mr. Francis said that Draper had been great.
+      He said that when the Chamber needed a facility, they tried to spread the
+      wealth and bring its events to Draper. He said that what was going on on the
+      south side of the valley was phenomenal. He said that the Miller Group
+      reached out to share with him what was going on in Daybreak. He said that it
+      was going to be such a big project.
+
+1.4   Councilmember F. Lowry asked how the Draper Chamber could interact with
+      the South Valley Chamber. He wanted to know if there was a way to bring the
+      two chambers together. Mr. Francis said that the South Valley Chamber would
+      invite that interaction. He said that he met with the Draper Chamber’s
+      chairman and a board member to communicate that the South Valley
+      Chamber wanted to invite the Draper Chamber to participate in more
+      collaboration. He said that there was an opportunity in November of last year
+      when a salaried position opened in the South Valley Chamber for more
+      collaboration with Draper, but the proposal was not accepted. Mr. Francis said
+      that the South Valley Chamber was happy to help and invite Draper Chamber
+      members to events like Women in Business, even if they were not part of the
+      South Valley Chamber. He said that the South Valley Chamber was grateful
+      for its corporate support that allowed them to offer its great programs and
+      wanted to extend those opportunities.
+
+1.5   Councilmember T. Lowery said that she felt like the work that the South Valley
+      Chamber did during COVID was above and beyond. She said that she thought
+      it meant a lot to Draper’s small business community, especially the support
+      around Personal Protective Equipment (PPE) and getting grants. She felt that
+      it was instrumental in keeping some small businesses afloat.
+
+      She then asked if the Chamber was continuing to expand to other cities in the
+      South Valley area. Mr. Francis said they would like to look at it. He said that
+
+                                                                        Page 5 of 16
+      he has told his board, who have an itch to expand, that he would like to make
+      sure the Chamber has solid footing. He said that what made sense in terms
+      of expansion was Midvale, which didn’t have a local Chamber but had Gardner
+      Company and Zions with who the Chamber had existing relationships with.
+      Although the Chamber already had members from Midvale, they’d like to get
+      City support. The other City that it made sense to expand to include was South
+      Jordan. He said that South Jordan was going to take some time because some
+      of his predecessors might have misstepped. He said that a lot of the new
+      memberships over the last five months had come from South Jordan.
+
+      Councilmember T. Lowery’s second question was related to lobbying. She said
+      that the Salt Lake Chamber did quite a bit of lobbying. She asked if the South
+      Valley Chamber did any lobbying, or anticipated doing so.
+
+      Mr. Francis said that they were just now putting together a Public Policy and
+      Governmental Affairs Committee. He said that in the past South Valley had
+      worked with the Salt Lake Chamber on lobbying issues. However, he felt that
+      the South Valley Chamber was developing more and more unique needs that
+      warranted them having their own voice and advocates. Because of this, the
+      Chamber put together the Public Policy and Governmental Affairs Committee
+      which David Dobbins, City Manager, had agreed to sit on to provide Draper
+      representation. He continued that the world on the Hill was one that he didn’t
+      get and made him come away feeling disoriented. He recognized that other
+      people get it, though. The first meeting of the new committee would be held
+      in June to determine what members of the Chamber needed representation.
+      He said that the Chamber was going to stay part of the larger group.
+
+2.0   Discussion: Fireworks Restriction Map for 2021 - Deputy Chief Bart Vawdrey
+
+2.1   Deputy Chief Vawdrey said that there were not a lot of changes regarding
+      fireworks restrictions from 2020. He said that the only addition was that the
+      area north of 1300 East and the corner that wraps around to 700 East due to
+      the rail system. He said that he had a meeting that morning with folks from
+      the State Forestry Fire and State Lands, Utah County, and Greg Hilbig from
+      Draper. He said that the work Mr. Hilbig was doing up in the higher elevations
+      of Draper was stuff that he previously had not been able to get to until July.
+
+      Deputy Chief Vawdrey drove through some of Draper’s urban areas with some
+      of these folks and anticipated a busy season. The area was already drying out.
+
+                                                                       Page 6 of 16
+      It was anticipated that the fire season would start in June, about a month and
+      a half early. When looking at grasses and foliage, it looked as though they
+      were about two weeks before they browned out and contributed to an early
+      fire season.
+
+2.2   Mayor Walker asked if there was going to be an emphasis on enforcement
+      given the dry year. Deputy Chief Vawdrey said that they were going to have to
+      rely heavily on law enforcement to regulate fireworks. He said that the reason
+      why they needed to close the new area off was that last year there were people
+      who would gather at the vacant parking lot and shoot off fireworks. This not
+      only caused problems for the property owners but caused some dry areas
+      behind the parking lot to catch fire. He said that he was sure the Fire Chief
+      would be working closely with Police Chief Eining when it got closer to the
+      holidays.
+
+      Councilmember T. Lowery asked if the City was already into fire season.
+      Deputy Chief Vawdrey said that the fire season was close. He said that the
+      State and Utah County already had crews assigned to fires. This was unheard
+      of. He said that Draper’s crew would not be put on the board until June 1st.
+      Requests had already come for support for some major fires already burning
+      in California. He said that it was almost as though there wasn’t a fire season
+      anymore. There were just fires.
+
+      Mayor Walker clarified that the new areas were those on the map by the
+      numbers five and six, as well as north of the rail line. Deputy Chief Vawdrey
+      said that was correct. Mayor Walker said that was the best they could do.
+      Fireworks couldn’t be restricted anymore.
+
+3.0   Council/Manager Reports
+
+3.1   Councilmember F. Lowry asked if the Council needed to address opening its
+      meetings back to the public and if there was any official action required to do
+      that. David Dobbins, City Manager, said that if it was the Council’s direction to
+      do that, staff would get that ready for them and come up with a plan.
+
+      Mayor Walker said that he did not think that there was a public health order
+      that required the City to not have its meetings open. He said that he did not
+      think that there was a public health order that required social distancing. He
+      said that the City just had to assume that people were vaccinated and that if
+
+                                                                          Page 7 of 16
+      someone was not vaccinated they had to do what was comfortable. He said
+      that he knew that everyone on the Council had been vaccinated, had COVID,
+      or had COVID and had been vaccinated. He said that the Council would plan
+      on their first June meeting to be open to the public.
+
+3.2   Councilmember Roberts said that there was a white truck on SunCrest Drive
+      that had been sitting there for a while on the Highland-Draper border. Mr.
+      Dobbins said that someone on staff would take care of it.
+
+3.3   Councilmember Roberts asked if there was an update on the sale of the piece
+      of property on Deer Ridge. Mr. Dobbins said that there had been no action or
+      movement on the property. Councilmember Roberts asked if the property
+      was listed on the MLS or it was just listed on commercial websites. Mr.
+      Dobbins said that it was. He would have to find out if it was still listed.
+
+      Councilmember Roberts said that something was wrong. He said that they
+      were in one of the hottest real estate markets ever and it was not moving. He
+      wondered if it was a price issue.
+
+      Mr. Dobbins said that it was a bit complicated because it was one property.
+      Most people want to buy a property to subdivide. If the property could be
+      subdivided there would be a lot of interest. Because it was one lot it was
+      harder to sell.
+
+      Mayor Walker asked if the Council intended to continue to want to sell the
+      property, or did they want to take it off the market and continue to let it roll as
+      open space.
+
+      Councilmember Roberts said that he had been considering taking it off the
+      market and potentially doing something more along the lines of a
+      conservation path. Given that it was not selling right now in the hottest real
+      estate market, he thought it was worth revisiting potential options.
+
+      Councilmember T. Lowery agreed with Councilmember Roberts. She said that
+      she felt like they made a good-faith effort with what the Council would be
+      comfortable with and they had not seen movement. She said that she did not
+      want to subdivide the property into a bunch of lots. She said that the property
+      was used all the time. Draper had seen a huge increase in use in open spaces
+
+
+
+                                                                           Page 8 of 16
+      and trails. She saw this as an opportunity to further that goal of having
+      outdoor access for more residents.
+
+      Mr. Dobbins said that at a minimum, the City could look into putting the rest
+      of Deer Ridge into a conservation easement. That process could be done in
+      two steps.
+
+      When Mayor Walker asked about the Council’s perspective on taking it off the
+      market, there was support to do so. Mr. Dobbins said that because the
+      property was put on the market as a formal Council action, he felt like it should
+      go on the next agenda to take it off so that it was on the record.
+
+3.4   Councilmember Green asked who was covering for Christina Oliver,
+      Community Development Director, now that she was no longer with Draper.
+      He said that he had a resident reach out to him about a building permit for
+      their home. He wanted to make sure to direct them to the right person.
+
+      Mr. Dobbins said that if Councilmember Green forwards the communication
+      to him he’d make sure it got to the right person. Jennifer Jastremsky, the
+      Senior Planner, was handling planning issues and the City’s building inspector
+      was handling building permits.
+
+3.5   Mayor Walker said that several residents had called him about Stokes Avenue.
+      He said that he had seen the City’s speed trailer. A lot of people had informed
+      him that there was racing going on. Residents inquired about a stop sign
+      where Stokes Avenue intersected with the road that went up to Willow Canyon.
+      He asked if staff and the traffic committee could investigate this issue.
+
+3.6   Mayor Walker then responded to the fire situation addressed earlier. He said
+      that it was the plan to keep Corner Canyon Road closed. He also wanted to
+      bring up trying to bring some water down that road to aid in the event of a
+      fire. He said that water was one of the items COVID money could be spent on.
+      He did not know if staff had an estimate on the funds Draper would receive,
+      he thought it was $3.5 million, but he would not mind trying to contribute
+      bringing water to that area so that fire crews could hook into some water lines.
+
+      Regarding fireworks, he had already had residents call and complain, and ask
+      if fireworks could be banned. He said that the Council did not have the
+      authority to ban them, but that they could restrict them upon reasonable
+
+                                                                          Page 9 of 16
+      criteria. He said that he would like the Police Department to be vigilant
+      because almost all of the fires would start because of fireworks. He said it was
+      pretty dry already. It was as dry as he’d seen it.
+
+      Councilmember F. Lowry asked if Linda Peterson, Communications Director,
+      could do a big public messaging push. Mayor Walker said that he was going
+      to do a video with her to talk about fireworks and the safety issues related to
+      them and fire.
+
+3.7   Councilmember T. Lowery said that she had one request from a resident about
+      the realignment of Galena Park. Mr. Dobbins said that was the plan. It was a
+      $4 to 6 million project. He said that staff had just not identified the money to
+      be able to do it.
+
+      Councilmember T. Lowery said that they wanted to realign the road because
+      the park was cut in half. She said that it was an unsafe crossing.
+
+      Mayor Walker said that it would have to be prioritized in the road
+      improvement projects. It would be expensive to do. He said that if it were
+      done, the way to do it was to put it together as a project but to put in the
+      wanted pickleball courts at the same time.
+
+      Councilmember T. Lowery asked if there were any plans of what the park could
+      look like if addressed. She wondered if the Council could look at them in a
+      study session and talk about the item in a little more depth. Mr. Dobbins said
+      yes.
+
+
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Presentation: Introducing 2021 Miss Draper Royalty and Farewell to 2020 Miss
+      Draper Royalty
+
+2.1   Mayor Walker said that this was the opportunity to thank Draper’s outgoing
+      Miss Draper and welcome in a new Miss Draper, both of whom were in
+      attendance. He noted that they were the first group of people who had been
+      in the building since March of 2020. He said that the Council had a small
+
+                                                                        Page 10 of 16
+      program to do. He said that he did not get nervous very often, but he was
+      nervous that he might mess this up.
+
+      The Mayor began by saying, “Welcome to the 2021 Miss Draper Crowning
+      Ceremony and a farewell and thank you for the 2020 Miss Draper royalty.
+      Today is May 18, 2021. I am Mayor Walker. I’d like to read some remarks.”
+
+      In the Mayor’s remarks, he said that the Council would like to recognize and
+      congratulate the newly selected Ms. Draper 2021 royalty. Welcome to all of
+      your families and welcome also to the reigning Ms. Draper 2020 royalty and
+      their families. Elle Stoker, Ms. Draper 2020 will share a farewell speech and
+      presentation with us. We’d also like to recognize Ms. Draper 2020 First
+      Attendant Cece Burriage, and Second Attendant Madison Gastelo and thank
+      them for their valuable contributions to the Ms. Draper scholarship program.
+      Following this, there will be a crowning of Miss Draper 2021 royalty.
+
+      He said that the Miss Draper program significantly changed a little while ago,
+      dramatically for the better. The focus was on the quality of the young woman,
+      their talents, and their actual ability to make a difference in the world. The
+      women who participate and are selected are based on the merit of the kind of
+      person they are and their goals and ambitions. They are tremendous young
+      women. He said that he participated one year in reviewing the applicants and
+      was astounded at the young women in the community.
+
+2.2   Elle Stoker, Miss Draper 2020, said that she was grateful to be there. She was
+      also grateful to the City Council, Mayor, Miss Draper Committee, and Mandy
+      Brady. She began her presentation by noting that the title slide featured the
+      logo that she designed for the Miss Draper Scholarship Program. The logo had
+      been used on Miss Draper Instagram and pictures. She said that she was
+      grateful to be able to wear the crown that represented scholarship, service,
+      leadership, and poise. She said that Ms. Brady had taught her a lot about what
+      it meant to be and embrace herself and have brought out parts of her that she
+      didn’t know she had.
+
+      She continued that the next year was going to be all about Ms. Draper's 2021
+      royalty and how they would serve the Draper community. She said that
+      because of COVID, she had not been able to meet as many people as she
+      would have liked or say thank you to. Despite this, the relationships that she
+      did build were amazing.
+
+                                                                      Page 11 of 16
+When displaying a picture of herself on the day that she was crowned, Ms.
+Stoker said that the crown was just the surface of the experience. She shared
+that she decided to do Ms. Draper because of her sisters. She said that her
+platform was about child custody and abuse allegations with child custody and
+ensuring that children get representation. Before auditioning for Ms. Draper,
+this platform was central to Ms. Stoker’s life. She continued that when her
+mom suggested that she try out for Ms. Draper she didn’t feel like the program
+was for her. Her mom explained that the program had been transformed to
+focus on how to better oneself and serve the community.
+
+She explained that in her sophomore year of high school when her sisters
+were having a hard time, she wrote a bill. The next year she took the bill to
+Washington DC on a scholarship through the American Legion Auxiliary and
+was able to present it to Mike Pence, Mike Lee, and Mitt Romney. After this,
+she founded a non-profit, The Children’s Voice Project. During this time, she
+was a part of the National Student Council and was the mayor of the Draper
+City Youth Council that allowed her to time the City Council candidate debates.
+Through these opportunities, she fell in love with the City of Draper.
+
+During her year as Miss Draper, to further her platform which supported the
+Children’s Voice Project, Ms. Stoker started her website, initiated a social
+media campaign, paired up with a family law attorney in Chicago who had his
+own non-profit, and partnered with the Ballard Center at Brigham Young
+University (BYU). She said that the Miss Draper program rocket launched her
+dream while giving her the motivation and confidence to go into a room and
+talk about her story.
+
+Ms. Stoker also shared that because of COVID the service opportunities for
+Miss Draper got cut short. Without events like the parade, Draper Days, and
+the tree lighting, they instead launched the Keep Draper Local initiative. The
+Miss Draper royalty went around to local Draper businesses and promoted
+them. She said that one of the most fun things she did was a tea party for
+Canny Kids, a local Draper business. She said that she had talked with
+Matthew, Canny Kids owner, who said that statistically there had been more
+people going to Canny Kids since Ms. Draper held the tea party.
+
+Ms. Stoker expressed her gratitude for her attendants. She said that when she
+had first won and heard what her attendants had been doing she wondered
+
+                                                                 Page 12 of 16
+      why she had won Miss Draper. She said that she was excited for the year the
+      2021 Miss Draper royalty had ahead of them. It would be an amazing year as
+      a result of the scholarships, relationships, etiquette, and service. She
+      congratulated them.
+
+2.3   Mayor Walker said that the Council would like to get some photographs with
+      Ms. Stoker and her attendants. Following the photographs, he introduced
+      Mandy Brandy, Miss Draper Chair, to introduce the new Miss Draper 2021 and
+      other Miss Draper royalty.
+
+2.4   Mandy Brady, Chair of Miss Draper, told Ms. Stoker, Burriage, and Gastelo that
+      they had served the City well. She said there would be a crowning party
+      following the City Council meeting where she would have the opportunity to
+      share more of how much she loved them. She thanked members of the
+      selection committee for their help, as well as the support of Draper City and
+      the Draper Foundation. She said that Lisa Armstrong was going to share a list
+      of the Miss Draper sponsors, just as they do at pageants.
+
+2.5   Lisa Armstrong thanked a few local community businesses that have helped
+      contribute: Corner Bakery, Gourmandise, Costa Vida, Massage Envy, Harmon’s
+      Produce, and Cactus and Tropicals. She said that Flower Pros provided a nice
+      discount and tax exemption as well.
+
+      Ms. Brady said that as she read each name, each young woman would come
+      up to be crowned.
+
+      Emily Moffat, Miss Draper 2021 Second Attendant, parents are Ryan and
+      Lindsay Moffat. Her community service initiative was suicide awareness and
+      prevention. She was a Corner Canyon High School Class of 2021 graduate.
+      She will pursue a Bachelor of Science in nursing at Brigham Young University
+      (BYU) and was enrolled for the coming fall. Her scholastic honors included a
+      3.9 GPA, a National Honor Society member, making the honor roll the past
+      four years, and completion of five college concurrent enrollment classes and
+      seven honors classes. Her leadership roles included Corner Canyon High
+      School Varsity Women’s Lacrosse Team Captain and member of Draper’s
+      Youth Council.
+
+      Kiara D’Amico, Miss Draper 2021 First Attendant, parents are Debbie and Dino
+      D’Amico. Her community service initiative was a chronic illness and disability
+
+                                                                      Page 13 of 16
+      care package and community awareness program. She achieved an associate
+      degree from Utah State University (USU) undergraduate in Logan, Utah. She’s
+      majoring in Biology, Ecology and Biodiversity and has a minor in
+      Environmental Law and Policy, and a minor in Chemistry. Her scholastic
+      honors included being her high school valedictorian; a 4.0 GPA; honors
+      courses in science, math, social studies, English, and many more. She was also
+      a Utah State University (USU) Outstanding Honors Student. Her leadership
+      roles included being the president and founder of the Utah State University
+      Student Affairs (USUSA) Service Animal Club Communications and Relations
+      Leadership Team, Peer Court Co-President, Fundraising Chairman for Golden
+      Keller Service Dogs, and cheerleader captain.
+
+      Grace Mead, Miss Draper 2021, is the daughter of Eric and Stephanie Mead.
+      Her service initiative is “Bright Futures Begin with STEM Education.” She will be
+      a senior at Corner Canyon High School. Her scholastic honors include being a
+      4.0 GPA student while taking college-level Chinese, AP Language Arts, and AP
+      Biology.    She also received first and second-place awards for oral
+      presentations at BYU’s Chinese Language Competition. She also was a Family
+      and Career Leaders of America State Finalist. Her leadership roles include
+      serving as the ambassador for the Governor’s Office of Economic
+      Development, Science, Technology, Engineering, and Math (STEM) Action
+      Center, Hope Squad, officer for Family Career Community Leaders of America
+      (FCCLA), and a member of the Draper City Youth Council.
+
+      Ms. Brady said that Miss Draper was so proud of these young women and
+      thanked the community, Council, and Draper Foundation for their support.
+      Ms. Brady was given some flowers and a facial by the girls and the outgoing
+      royalty for all of her efforts.
+
+3.0   Public Comments
+
+3.1   Mayor Walker opened the public comment. When no one came forward he
+      closed the period for public comment.
+
+4.0   Consent Items
+      a. Approval and Consent to Assignment of Rights and Obligations under BG
+         Vista Station, LC Development Agreements
+
+
+
+
+                                                                        Page 14 of 16
+4.1   Councilmember T. Lowery moved to approve                the   Consent   Items.
+      Councilmember Vawdrey seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Ordinance #1490 and Ordinance #1491, amending the Draper
+      City Land Use map from Neighborhood Commercial to Residential High
+      Density, and amending the Draper City Zoning map from A5 (Agricultural) to
+      RM2 (Multiple Family Residential) on approximately 9.81 acres. The property
+      is located at approximately 12197 S. 300 East.
+
+5.1   Mayor Walker said that the applicant asked earlier in the afternoon that the
+      Council continue the item to the next scheduled meeting on June 1, 2021. The
+      reason for continuing the item was that they wanted to work out a
+      development agreement for the Council to consider that would reduce the
+      density of the project to between 50 and 60 single-family, detached residential
+      units. They were trying to solidify what they could do within the zone. Because
+      there was not a zone that specifically addressed what the developer wanted to
+      do, a development agreement was the best vehicle for them to ensure to the
+      Council and public what will happen. The continuance was requested so that
+      the Council could consider this development agreement with the zone change
+      and its associated public hearing so that the public had an informed ability to
+      make comments and understand what was proposed.
+
+5.2   Councilmember T. Lowery moved to continue Ordinance #1490 and
+      Ordinance #1491 to the June 1, 2021, City Council Meeting. Councilmember
+      Roberts seconded the motion.
+
+5.3   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Recess to a Draper City Redevelopment Agency Meeting.
+
+6.1   Councilmember F. Lowry moved to recess to a Draper City Redevelopment
+      Agency Meeting. Councilmember T. Lowery seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+                                                                       Page 15 of 16
+7.0   Adjournment
+
+7.1   Councilmember Green moved to adjourn the meeting.            Councilmember
+      Lowery seconded the motion.
+
+7.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+7.3   The meeting adjourned at 7:52 p.m.
+
+
+
+
+                                                                     Page 16 of 16
+

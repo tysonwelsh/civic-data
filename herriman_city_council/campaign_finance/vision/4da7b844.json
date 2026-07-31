@@ -1,0 +1,32 @@
+{
+  "contributions": [
+    {"date": "06/01/2023", "name": "Jared Henderson", "amount": "25.00", "in_kind": false},
+    {"date": "10/31/2023", "name": "Jared Henderson", "amount": "15.00", "in_kind": false},
+    {"date": "11/08/2023", "name": "Jared Henderson", "amount": "1,556.12", "in_kind": false},
+    {"date": "10/31/2023", "name": "Brett and Robin Glassey", "amount": "250.00", "in_kind": false},
+    {"date": "10/31/2023", "name": "Paul and Liz Jones", "amount": "150.00", "in_kind": false},
+    {"date": "11/08/2023", "name": "Rod Grimm", "amount": "500", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/01/2023", "recipient": "Herriman City", "purpose": "Candidate Filing Fee", "amount": "25.00", "in_kind": false},
+    {"date": "08/16/2023", "recipient": "Salt Lake County", "purpose": "Registered Voter List", "amount": "15.00", "in_kind": false},
+    {"date": "10/18/2023", "recipient": "VictoryStore.com", "purpose": "Flyers", "amount": "1,556.12", "in_kind": false},
+    {"date": "11/10/2023", "recipient": "Jared Henderson", "purpose": "Repayment Personal Loan", "amount": "835.76", "in_kind": false},
+    {"date": "11/14/2023", "recipient": "Amazon.com", "purpose": "Stickers", "amount": "64.24", "in_kind": false}
+  ],
+  "total_contributions": "2496.12",
+  "total_expenditures": "2496.12",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/4055_Jared-HendersonDistrict-1.pdf",
+    "candidate": "Jared Henderson",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/4055_Jared-HendersonDistrict-1.pdf",
+    "pages": 5,
+    "notes": "General Election report, final (box checked: 'No later than 30 days after ... December 21, 2023'); signature dated 12/5/23. total_contributions and total_expenditures recorded from the verbatim Schedule A 'TOTAL CONTRIBUTIONS RECEIVED' (2496.12) and Schedule B 'TOTAL EXPENDITURES MADE' (2496.12), which equal the Summary Page Column B (Year-to-Date Total). FILER DISCREPANCY: Summary Page Column A (Total this Period) prints 900 for lines 1 (contributions), 2 (expenditures), 4 (add contributions), 5 (subtotal) and 6 (subtract expenditures) — inconsistent with the 2,496.12 itemized/YTD totals; recorded the itemized schedule totals, not the 900 period figures. Balance Summary reads 0 at beginning (line 3) and 0 at close (line 7) in both columns. Contribution amounts on Schedule A printed with a leading '$'; Rod Grimm's amount printed as '$500' without cents (recorded '500'), Henderson 11/08 as '$1,556.12' (comma retained verbatim). Schedule C (In-Kind) is blank; Summary Page in-kind attach line reads 'None' in both columns; no in-kind contributions. Form Schedule A threshold column labeled '$50.00 +'; no separate '$50 or less' aggregate line printed."
+  }
+}

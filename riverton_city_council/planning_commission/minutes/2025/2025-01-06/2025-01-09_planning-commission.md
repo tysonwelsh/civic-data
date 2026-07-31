@@ -1,0 +1,741 @@
+# Riverton Planning Commission Meeting — 2025-01-09
+> Source: https://www.utah.gov/pmn/files/1233739.pdf
+> Meeting date: 2025-01-09
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/965127.html
+> Format: text
+
+Approved: PC 2.13.25
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                 JANUARY 9, 2025
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                    Staff:
+
+Evan Matheson, Chair                            Jason Lethbridge, Planning Director
+Monique Beck                                    Tim Prestwich, City Planner
+Gary Cannon                                     Lisa Halversen, Planner
+Shelly Cluff                                    Ryan Carter, City Attorney
+Crystal Keele
+Chris Knudsen
+Troy Rushton
+
+1.           CALL TO ORDER/ROLL CALL
+
+Chair Evan Matheson called the meeting to order at approximately 6:30 PM.
+
+Commissioner Cluff led the Pledge of Allegiance.
+
+2.    PUBLIC HEARINGS
+
+      A.     BEAR RIVER CONVERTERS, PLZ-24-2042, AN APPLICATION FOR A
+             CONDITIONAL USE PERMIT FOR A HOME OCCUPATION (EXHAUST
+             SYSTEM COMPONENTS SALES) TO BE LOCATED AT 1897 WEST PARK
+             AVENUE. APPLICANT – ANNA MILLSAP.
+
+Planner Lisa Halversen presented the Staff Report and stated that this home is located on
+.67 acres and is zoned R4, as are the surrounding properties. The home is rambler style
+with a carport and a wraparound driveway. The applicant, Anna Millsap has run an inherited
+family business from the home for the past 10 years, which she has been able to operate in
+a detached garage located on the property. She originally had a simple Business License
+with a Home Occupation Permit, but when attempting to renew the license, the system
+flagged her as needing a Conditional Use Permit. Ms. Millsap's business has grown and
+become so successful that she has needed to hire her two siblings as employees.
+
+The business includes the sale of catalytic converters and other exhaust components that
+are shipped directly to customers from the manufacturer, eliminating the need to store large
+parts on the property. Ms. Millsap's home is entirely for personal use and no business is
+conducted in the home. The detached garage in the rear is used for 50% business storage,
+with the other 50% for personal use.
+
+Customers receive their orders via direct shipment and do not visit the property. The only
+vehicle that comes to the home for business use is a truck that delivers small parts six to
+eight times a year.
+Riverton City Planning Commission Meeting                                                 2
+January 9, 2025
+
+
+
+Ms. Millsap's Transportation Plan shows the route that trucks take to make deliveries to her
+home, which is to pull into the cul-de-sac on Park Avenue and back up down one side of the
+driveway. The trucks back up to the detached garage, where they unload anywhere from
+one to four pallets of merchandise directly into the garage utilizing a lift gate as opposed to
+a forklift. Only one part of the driveway is used for business, with the other side being used
+for personal use. Ms. Millsap's employees typically share a car if they both come to the
+property together. They park in the back near the detached garage so there are no parking
+or traffic issues.
+
+Ms. Halversen reported that the Code states that Ms. Millsap is entitled to have one
+employee, but additional employees are permitted provided there is space for parking. The
+mailer that was sent to property owners in the area resulted in one phone call from a
+neighbor who was concerned about noise and traffic. Once the neighbor learned that the
+business has been in operation for more than 10 years, however, she had no objections.
+
+The proposed motion includes conditions that state that Ms. Millsap is permitted to have two
+non-resident employees who must use off-street parking. Ms. Millsap is also permitted to
+use 50% of the garage space for business activities.
+
+Commissioner Cluff asked if any manufacturing takes place on the property. Ms. Millsap
+confirmed that there are deliveries only and no manufacturing on site. Commissioner
+Knudsen’s understanding was that the license was flagged due to business being conducted
+in the outbuilding and the employee situation. Ms. Halversen confirmed that the license was
+flagged because Ms. Millsap uses an outbuilding. Ms. Millsap began with a simple Home
+Occupation Permit, which does not require Planning Commission approval.
+
+Ms. Millsap reported that she was born and raised in Utah and has spent a lot of time in
+Riverton since she was a teenager. She took over the family business approximately 10
+years ago from her father, who ran it as a retirement hobby and wanted his children to work
+for him. Ms. Millsap began working for him when she was 16 and took over the business at
+the age of 25 after her father's passing. Ms. Millsap has employed her siblings at different
+times to help with the business and currently employs her younger brother and sister.
+
+Commissioner Cannon asked Ms. Millsap if she anticipates opening a retail location in the
+future. Ms. Millsap responded that she would like to open a retail store, although she has
+not yet been able to make that transition despite the business's growth. She also stated
+that, over the past five years, she has developed her own products such as repair kits, which
+are manufactured in China. She currently has a growing number of customers wanting to
+buy the kits in bulk, which are shipped directly from the manufacturing plant. The kits have
+enabled her to significantly increase her income in a way that does not add stress to the
+property by needing to store inventory. However, she hopes to grow her customer base and
+move the business from the property into a retail store. Ms. Millsap stated that her ultimate
+goal is to have customers shop and pick up products in a retail location.
+Riverton City Planning Commission Meeting                                               3
+January 9, 2025
+
+
+Chair Matheson opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Keele moved that the Planning Commission recommend APPROVAL
+of Application PLZ-24-2042, "Bear River Converters, LLC," at 1897 West Park Avenue
+subject to the following:
+
+Conditions:
+
+      1.      The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+      2.      Applicant must obtain and maintain a Riverton City business license.
+
+      3.      Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+
+      4.      Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+      5.      Applicant may employ two full-time non-resident employees.                  All
+              employees must use off-street parking.
+
+      6.      Applicant is permitted to use up to 50% of garage space for business
+              activities.
+
+Commissioner Beck seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      B.      FAR WEST ENVIRONMENTAL, PLZ-24-2044, AN APPLICATION FOR A
+              CONDITIONAL USE PERMIT FOR AN ENVIRONMENTAL TESTING LAB
+              OFFICE TO BE LOCATED IN THE COMMERCIAL NEIGHBORHOOD (C-N)
+              ZONE AT 12166 SOUTH REDWOOD ROAD. APPLICANT – DAWN
+              SANSING WITH FAR WEST ENVIRONMENTAL.
+
+City Planner, Tim Prestwich, presented the Staff Report and stated that the request is for an
+existing commercial building in the C-N Zone. There is an eight-foot wall separating the
+subject property from all adjacent residentially zoned properties. The applicant will use the
+space for an office. The business conducts environmental testing, but will not do any testing
+at this location. The Table of Uses for the C-N Zone was reviewed, which indicates that
+professional offices, including commercial, corporate, nonprofit, government, and medical,
+are conditional in the zone. Mr. Prestwich reported that the C-N Zone is the City’s most
+restrictive zone, with very limited allowed uses.
+Riverton City Planning Commission Meeting                                                  4
+January 9, 2025
+
+
+
+Mr. Prestwich reported that the applicant was unable to attend the meeting but provided an
+email clarifying that no materials testing, sampling, or storage would occur at this location.
+It will be used as administrative office space only. The proposed elevations were reviewed.
+There is a daycare at the front of the building and the applicant’s office will be to the rear.
+The business has one vehicle. No additional impacts were identified by Staff. Staff
+recommended approval subject to the conditions listed in the Staff Report.
+
+Mr. Prestwich reported that some questions were received in response to the public notice
+but no objections or other comments were submitted.
+
+Commissioner Matheson opened the public hearing. There were no public comments. The
+public hearing was closed.
+
+Commissioner Cannon moved that the Planning Commission APPROVE a
+Conditional Use Permit for PLZ-24-2044, “Far West Environmental”, to be located at
+12166 South Redwood Road, subject to the following:
+
+Conditions:
+
+       1.     No exterior modifications to the existing building.
+
+       2.     No outside storage except for work-related vehicles.
+
+       3.     No material testing is to be conducted on-site.
+
+Commissioner Cluff seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+       C.     JOSEPH WHITE CODE TEXT AMENDMENT, PLZ-24-5006, AN
+              APPLICATION REQUESTING A CHANGE TO THE RIVERTON CITY
+              TABLE OF COMMERCIAL USES TO MAKE “RECEPTION CENTERS” A
+              CONDITIONAL USE IN THE COMMERCIAL NEIGHBORHOOD (C-N)
+              ZONE. APPLICANT – JOSEPH WHITE.
+
+Mr. Prestwich presented the Staff Report and stated that this is a legislative item that will go
+before the City Council for a final decision. The Amendment is similar to a rezone in that
+the Planning Commission would make a recommendation based on a reasonably debatable
+argument for making the change, and the City Council would consider the Commission’s
+recommendation and feedback in its decision.
+
+The applicant, Joseph White, operates Wasatch Arts School and would like to expand the
+use into a neighboring space. However, the use would be classified as a “Reception
+Center”, and reception centers are not permitted in the C-N Zone. The request was to
+amend the Table of Commercial Uses to include Reception Centers as a Conditional Use,
+which would apply to all properties in the zone. An aerial map of the property was displayed
+Riverton City Planning Commission Meeting                                                 5
+January 9, 2025
+
+
+and Mr. Prestwich identified properties in the City that would be impacted by the
+amendment. He noted that C-N is both the most restrictive and least applied zone in
+Riverton.
+
+Mr. Prestwich reported that when someone approaches the City about a potential use, Staff
+first checks zoning for compatibility and then reviews the Table of Uses to determine if the
+use is permitted, conditional, or not permitted. If permitted, they move to the Site Plan or
+Business License process. If it is a Conditional Use, Staff must determine if they can
+approve the use or if it needs to go before the Planning Commission. Uses identified as
+non-permitted require consideration of a Zoning Text Amendment.
+
+City Code §18.75.010 defines the purpose of the C-N Zone and states that its intention is to
+blend in with surrounding neighborhoods. The Table of Uses identifies reception centers as
+a Conditional Use in the Commercial Downtown (“C-D”) and Gateway Commercial (“C-G”)
+zones, not permitted in C-N or Commercial Professional Office (“C-PO”), and permitted in
+Commercial Regional (“C-R”) and Planned Commercial Center (“PCC”). The C-R and PCC
+Zones are the City’s most permissive zones and are located near Bangerter Highway. C-D
+and C-D Zones are in downtown Riverton and along the edges of the City.
+
+Mr. Prestwich reported that because the request was for a Zoning Text Amendment that
+would impact the entire City, notices were posted on the City's website but not mailed to
+individual property owners. No comments were received.
+
+In response to a question from Commissioner Rushton, it was clarified that there is one
+reception center in Riverton as well as a reception area at Jim’s Family Restaurant that can
+accommodate large groups.
+
+Commissioner Rushton asked if the applicant would be required to return with a Site Plan
+or Business Plan if the amendment was approved. Mr. Prestwich clarified that a Conditional
+Use Permit application would be required to address impacts created by the business. City
+Attorney, Ryan Carter, reminded the Commission that Conditional Uses must be approved
+unless those impacts cannot be mitigated, or specific conditions cannot be met.
+Mr. Prestwich added that a Site Plan would also be required if any changes were proposed
+to the parking lot or exterior of the building. In response to a follow-up question, Mr. Carter
+stated that it would be plausible that alcohol could be allowed for specific events but he did
+not believe they would be eligible for a permanent permit. The State issues those permits.
+
+Commissioner Cannon stated that he has dealt with this issue in other cities. The property
+in question has ample parking. However, if a similar business does not have sufficient
+parking and on-street parking is to be utilized, that could be a challenge.
+
+Mr. Prestwich reported that, per City Code, “The intent of the C-N Zone is to encourage
+compatible neighborhood market uses to be incorporated within a neighborhood so as to
+discourage residents from having to drive into the commercial centers for day-to-day
+necessities. Permitted and conditional uses within this zone are identified under RCC §
+Riverton City Planning Commission Meeting                                               6
+January 9, 2025
+
+
+18.90.10.” He noted that some C-N properties are on larger roadways like Redwood Road
+and 12600 South that have grown over time and are no longer convenient to neighborhoods.
+
+Commissioner Knudsen asked about the motivation behind changing the Table of Uses
+rather than rezoning the property. Mr. Carter stated that the applicant has discretion as to
+the type of application they file, and that question should be posed to Mr. White.
+
+In response to a question from Commissioner Cluff, Mr. Prestwich reported that the area is
+designated Community Commercial in the General Plan.
+
+Chair Matheson asked about the unforeseen consequences of approval. Mr. Carter stated
+that the Planning Commission does not have the discretion to decide if a Conditional Use is
+appropriate once that use is included in the Table of Uses. Mr. Prestwich expressed concern
+about blurring the lines between zones. The C-N Zone has a particular definition and use.
+If they want the zones to be distinct tools that apply to different areas, then they need to
+keep those lines in place.
+
+In response to a question from Commissioner Cluff regarding restrictions that could be
+placed on the use regarding things like parking or fencing, Mr. Prestwich stated that the
+applicant would be required to meet the parking requirements, and an eight-foot masonry
+wall would be required to separate the property from residential zones. Many properties in
+the C-N Zone are smaller parcels that would not be suitable for a reception center. Mr.
+Carter added that if someone applied for a reception center but did not have the minimum
+number of required parking spaces, the matter would not come before the Planning
+Commission for a Conditional Use Permit because it would not meet the required minimum
+standards. If the applicant proposed a shared parking arrangement, the matter would be
+reviewed by the Commission.
+
+Mr. Prestwich reviewed the Parking Ordinance and reported that one parking space is
+required per 175 square feet of floor space for public assembly, and one space per 250
+square feet for dance halls or skating rinks. Reception centers are not specified in the City
+Code, but it would likely fall within that range.
+
+Commissioner Cannon stated that it is a unique situation where parking is not a challenge.
+The subject property has ample parking and Mr. White owns other properties in the area
+that could be used for overflow parking. He suggested that they consider what the use could
+look like on other properties in the C-N Zone.
+
+Chair Matheson asked if a reception center is allowed as a Conditional Use in a more
+residential area and if restrictions could be imposed regarding closing time or other issues.
+Mr. Carter stated that it would be possible to impose such conditions, but the Commission
+should consider if the use is harmonious with the area. A reception center will create some
+degree of noise. They can impose restrictions to attempt to mitigate that noise, but they
+cannot squelch it. Chair Matheson noted that the use would be harmonious for Mr. White’s
+property, but likely not for other properties in the C-N Zone.
+Riverton City Planning Commission Meeting                                                  7
+January 9, 2025
+
+
+The applicant, Joseph White, stated that he understood the discussion regarding how the
+Text Amendment could affect other areas of the City, but if a property did not meet specific
+requirements for a Conditional Use, it would not even be brought before the Commission.
+He believed that the C-N Zone had protections that would void some of those issues. He
+noted that the C-N Zone includes restrictions on hours of operation for commercial uses
+within 250 feet of residentially zoned districts. Changing the zone would require them to
+bring the structure into compliance with current City Code, and it is an old building that would
+require a lot of work. He noted that the only other zone the property would qualify for is C-
+G, and a reception center would still be a Conditional Use in that zone He believes the C-N
+Zone offers enough protections and pointed out that it only applies to five areas of the City.
+He has a shared parking agreement allowing overflow parking on his other properties.
+
+In response to a question, Mr. Carter clarified that Mr. White would be required to comply
+with things like ADA access regardless of the zone, and those items would be addressed
+with the Building Permit application. Any renovations would be required to meet modern
+standards. Mr. Prestwich stated that zoning does not affect site or structural requirements,
+only use. Mr. White stated that the events center space is up to date, but he believed that
+the dance studio, which occupies the remaining two-thirds of the building, would have to be
+renovated if the property was rezoned. Mr. Carter clarified that rezoning would not affect
+the dance studio unless or until changes were made to that portion of the building. If the
+Planning Commission preferred that the zone be changed to C-G, that would add additional
+allowed uses in the building, but it would neither lessen nor increase requirements for the
+building itself.
+
+Commissioner Knudsen stated that his preference was that the property be rezoned to C-
+G. Commissioner Rushton asked if rezoning would trigger the requirement for an eight-foot
+wall between the property and adjacent residential property. It was reported that the fencing
+requirement has already been met. If the Conditional Use was allowed in the C-N Zone,
+Mr. White would still need to return with a Site Plan.
+
+Mr. White stated that he did not understand why there was a concern over changing the
+Table of Uses if all Conditional Uses would require approval. Mr. Carter clarified that the
+question before the Planning Commission and City Council was whether the use was an
+appropriate use for the C-N Zone, not for this particular property.
+
+Chair Matheson stated that he believed the Commissioners agreed a reception center would
+be a good use for the site, but they were concerned about adding the use to the Table of
+Uses for the C-N Zone. They believed rezoning the property to C-G would be a more
+suitable solution. Mr. Prestwich clarified that the Planning Commission could not
+recommend rezoning in this action because their response must be based on the
+application.
+
+Mr. Carter stated that Mr. White could submit a rezoning application, and the Planning
+Commission had already discussed and indicated a potential outcome of that application.
+However, residents of the adjoining neighborhood would receive notice of the application,
+whereas they were not individually notified of the current application. Mr. Prestwich
+Riverton City Planning Commission Meeting                                                  8
+January 9, 2025
+
+
+suggested that the Planning Commission make a recommendation based on the application
+before them, and the applicant could then decide how to proceed. If Mr. White chose to
+pursue a rezoning application, there would be additional fees associated with it.
+
+Commissioner Cluff commented that she lives near the new private school, and she can
+envision some of the parcels in that area becoming C-N. That is a much different feel from
+Redwood Road, and she would not want an events center in that area even if it met all
+requirements for a Conditional Use. She did not believe the built-in conditions would
+address all concerns. She agreed that an events center is a great use for Mr. White’s space,
+but she believes the property should be rezoned to C-G and the C-N Zone should be
+reserved for more appropriate parcels.
+
+Commissioner Matheson opened the public hearing. There were no public comments. The
+public hearing was closed.
+
+Commissioner Rushton agreed with Commissioner Cluff. He reported that the Jordanelle
+Reception Center occasionally had events with overwhelming volume. It can be hard for
+that type of business to have an idea of how many people will attend, and he can see the
+danger of that affecting nearby neighborhoods. He did not believe the C-N Zone should
+allow reception centers. If a property owner believes their property is suitable for a reception
+center, they should request rezoning to an appropriate zone. Commissioner Cannon
+appreciated Commissioner Rushton’s comparison, but he believed Mr. White’s reception
+center would appeal to a different clientele than Jordanelle.
+
+Chair Matheson reported that Mr. White is a personal friend. He believes the reception
+center would be a great use for the property, but he agreed with his fellow Commissioners
+that it should not be a Conditional Use in the C-N Zone. He believes the property should be
+rezoned.
+
+Commissioner Cluff moved that the Planning Commission recommend DENIAL of
+Application PLZ-24-5006, “Joseph White Text Amendment”, thus keeping the existing
+Table of Uses and recommending that the property be considered for rezone to
+Commercial Gateway (C-G). Commissioner Knudsen seconded the motion. The
+motion passed with the unanimous consent of the Commission.
+
+       D.     HISTORIC SITES ORDINANCE TEXT AMENDMENT, PLZ-25-5001,
+              AMENDING SECTION 18.63.040, RIVERTON HISTORIC SITES LIST,
+              REGULATING MINIMUM AGE OF POTENTIAL SITES AND DESIGNATION
+
+Mr. Carter reported that the Text Amendment was being brought before the Planning
+Commission out of an abundance of caution. Although the issue is unrelated to Land Use,
+the Historic Preservation Commission Ordinance is in Title 18 of Riverton City Code and
+everything within Title 18 is brought before the Planning Commission. The Historical
+Commission was created approximately 10 years previously to inventory Riverton City’s
+older structures and encourage property owners to work toward preserving those structures.
+The structures would then be celebrated and identified on the Historic Registry. The current
+Riverton City Planning Commission Meeting                                                9
+January 9, 2025
+
+
+Ordinance defines a historical structure as one that is 75 years of age or older. However,
+State statute defines a historical structure as 50 years of age or older. The Historic
+Preservation Commission completed an inventory of the City’s structures and was unable to
+identify any meaningful structures that are 75 years old. They requested that the definition
+be amended to 50 years. The Text Amendment also includes additional language indicating
+that qualifying structures will be granted a plaque from the City at the City’s expense.
+
+In response to a question from Commissioner Rushton, Mr. Carter clarified that the
+amendment is not required by the State. It was requested by the Historic Preservation
+Commission because they could not identify any structures that meet the current
+requirement of 75 years of age or older. The cost of the plaques is nominal. The City would
+purchase the first plaque, and any replacements would be at the owner’s expense. In its
+annual budgeting process, the City Council will decide how much money they want to
+allocate to plaques, and the property owner will be eligible to receive a plaque based on
+available inventory and funding.
+
+Commissioner Rushton referred to Bree Place, which includes a home that is more than 50
+years old, and asked how the amendment would affect that infill redevelopment project and
+if they would be subject to the 10-day delay. Mr. Carter clarified that Bree Place would be
+grandfathered in, and it is the property owner’s decision if they want to be on the Historic
+Registry. A new project could be subject to the 10-day delay, but that would be unlikely to
+affect construction due to all the other things that would be taking place simultaneously in
+the application process.
+
+Commissioner Matheson stated that he was stationed at Fort Bliss, Texas, which had
+barracks from World War II that fell under a similar ordinance specifying that historic
+structures could not be removed regardless of their condition. Mr. Carter clarified that, with
+the exception of a potential 10-day delay period, no restrictions on changing the property
+were included in the Ordinance.
+
+Commissioner Rushton did not understand moving the bar simply because the Historic
+Planning Commission has nothing to preserve. They had a similar conversation recently
+regarding downtown architecture. Riverton is not an old city, and he did not agree with
+changing the Ordinance for the stated reason. He also opposed the 10-day delay because
+it could delay work on a property and impact development costs.
+
+Mr. Carter clarified that under RCC § 18.63.040(6):
+
+       b.     If a historic resource is to be demolished or undergo major alterations, efforts
+              shall be made by the Historic Preservation Commission to document its
+              physical appearance before that action takes place.
+
+              (i)    The City shall delay issuing a Demolition Permit for a maximum of 10
+                     calendar days and shall notify a member of the Historic Preservation
+                     Commission, who will take responsibility for the documentation.
+Riverton City Planning Commission Meeting                                                10
+January 9, 2025
+
+
+              (iii)   A Demolition Permit shall be issued after a period of 10 calendar days
+                      from the initial date of permit application whether or not the Historic
+                      Preservation Commission has documented the building.
+
+Mr. Carter stated that those requirements are currently in place for buildings 75 years of age
+or older. The only change would be to lower that age to 50 years. It is a collateral issue. If
+the Planning Commission did not approve of the 10-day delay period, that should be a
+separate recommendation for the City Council to consider.
+
+Commissioner Keele indicated that preserving a structure’s appearance with photographs
+should not usually take 10 days. Mr. Carter clarified that the permit would proceed as soon
+as photographs were taken, and the regulation would only apply to structures that are
+already on the Historic Registry. The property owner decides whether to place their property
+on the Registry. Commissioner Keele stated acknowledging properties that are 50 years
+old would allow some residents to take pride in owning a structure that is considered historic.
+
+Commissioner Cannon agreed with Commissioner Keele. He noted that the Utah
+Department of Transportation demolished most of the older houses on Redwood Road.
+Only a few homes with historic value remain, and the ones that have been preserved look
+very nice.
+
+Mr. Carter stated that the Crane home dates back to the 1930s, but because it was relocated
+from its original building site it no longer qualifies as a historic structure.
+
+Commissioner Matheson opened the public hearing.
+
+Joseph White reported that he owns the Beckstead Home on Redwood Road, which was
+built in 1900. It has been renovated but not removed from its foundation. He then discussed
+the renovation process and stated that he would consider adding it to the Registry.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Keele moved that the Planning Commission recommend APPROVAL
+of the Historic Sites Ordinance Text Amendment, Application, PLZ-25-5001,
+Amending Section 18.63.040, Riverton Historic Sites List, regulating minimum age of
+potential sites and designation plaque criteria. Commissioner Cluff seconded the
+motion. Vote on motion: Commissioner Keele – Yes, Commissioner Rushton – No,
+Chair Matheson – Yes, Commissioner Cluff – Yes, Commissioner Beck – Yes,
+Commissioner Cannon – Yes, Commissioner Knudsen – Yes. The motion passed 6-
+to-1.
+Riverton City Planning Commission Meeting                                                 11
+January 9, 2025
+
+
+3.       DISCUSSION ITEMS
+
+         A.     ARCHITECTURAL AND DESIGN STANDARDS, PLZ-24-5007, CHANGES
+                TO COMMERCIAL BUILDING STANDARDS AS FOUND IN TITLE 18
+                “LAND USE AND DEVELOPMENT” OF THE RIVERTON CITY CODE.
+                APPLICANT – RIVERTON CITY.
+
+Planning Director, Jason Lethbridge, reported that Staff drafted the revised standards based
+on discussions and feedback from the Planning Commission and City Council. Currently,
+the City has a checklist of strictly defined elements that must be in place, and the updated
+Design Standards will replace that list with a broader standard. They previously discussed
+different ways to accomplish that such as a points system or other methods to ascertain
+whether a building is in compliance. The direction from the Council was that they would
+prefer to have broader standards that allow the Planning Commission and Staff more
+discretion.
+
+Current standards include:
+
+        Exterior building materials are limited to no more than four and no less than two types
+         of materials.
+        The color of exterior building materials is limited to no more than four and no less
+         than two major colors per development.
+        Bright colors are only permitted as accent colors.
+        No more than 75% of any building elevation shall consist of any one material or color.
+
+Changes to the revised standards were reviewed.
+
+Consistency and cohesion:
+
+        New or renovated commercial buildings in an existing center shall include and identify
+         at least two major elements of consistency with the center. That could be materials
+         or features.
+        The Planning Commission can include a review of the original center’s approval.
+        Standalone buildings would require one major element of consistency.
+
+Mr. Lethbridge reported that Staff went through the proposed process with the Burger King
+building to determine which elements were consistent with surrounding buildings while also
+allowing for different building types and architecture. All references to “turn of the century”
+were eliminated, the updated standards instead consider the number and types of materials.
+Although a limit of four materials may seem restrictive, a typical building will only have four
+similar elements.
+
+Commercial Downtown:
+
+        Eliminate all references to “turn of the century”.
+Riverton City Planning Commission Meeting                                                  12
+January 9, 2025
+
+
+        New or renovated buildings shall include a minimum of 20% brick.
+        Reduced required elements to two, and includes language that gives the Planning
+         Commission discretion in determining other features.
+
+Mr. Lethbridge reported that the City Council did not indicate a strong desire to retain the
+turn-of-the-century features, and requested the Commissioners’ input on removal of that
+requirement and reduction of required elements of consistency to two.
+.
+Prohibited materials:
+
+        Vinyl, aluminum, or metal siding.
+        Wood as a primary exterior finish material.
+        Uncolored and/or unfinished CMU block except as an accent material.
+        Corrugated metal or similar material and “rusted” or otherwise distressed metal.
+        Precast cement walls are acceptable if they are covered or patterned.
+
+Examples of windows that extend to grade were reviewed, and Mr. Lethbridge noted that
+previous Commissions have grappled with whether to allow this element. Current Code
+requires a lower course of brick, stone, or other material. The Commissioners’ feedback on
+this item was requested.
+
+Commissioner Cluff asked for clarification on whether the lower course of brick is required
+for safety, functionality, or aesthetics. Mr. Lethbridge clarified that it is an aesthetic issue.
+There have been discussions regarding safety if a car hits the building, but the course of
+brick is usually a veneer that does not impact safety. Commissioner Cluff expressed support
+for allowing glass to extend to grade, as well as removing requirements for things like
+columns and arches, and stated that perhaps one reason the downtown area has not been
+rejuvenated is because the current standards require buildings to look old.
+
+Commissioner Cluff provided feedback on the following items:
+
+6.       Buffers, Item A: “A wall and landscaping, fencing, or landscaping of acceptable
+         design shall effectively screen the borders of any commercial or industrial lot which
+         abuts an existing agricultural or platted residential use.” She asked if that was a
+         deviation from current fencing requirements. Mr. Lethbridge stated that the
+         references section should not have been included in the draft and would be eliminated
+         from the final standards.
+
+3.       Outdoor Storage Standards, Item B: “Outdoor storage shall be screened from
+         public view and shall consist of a solid wall, excluding CMU blocks.” Commissioner
+         Cluff asked for the reasoning behind requiring masonry and not allowing vinyl or
+         another material. Mr. Lethbridge stated that they should discuss that standard, but
+         there can be issues related to improperly screened outdoor storage. For example,
+         the front parking lot at IFA has a lot of items that are not screened. To her specific
+         question, he believed a solid masonry fence could be excessive in most situations,
+Riverton City Planning Commission Meeting                                                13
+January 9, 2025
+
+
+       and they should discuss how they want outdoor storage areas to be treated moving
+       forward. Commissioner Cluff stated that as long as storage is at the rear of a building,
+       the screening material is not as critical. Mr. Lethbridge noted that it depends on the
+       type of use. For example, if an auto repair shop parks wrecked vehicles in plain sight,
+       that would be a concern. If someone is simply parking work trucks at the rear of a
+       business, that is less of a concern. Staff will modify the language to be more use-
+       specific.
+
+1.     Purpose and General Requirements, Item 2: “Make reasonable efforts to preserve
+       the desirable existing conditions found on a site through minimized removal of
+       desirable trees and other vegetation and soil and minimized site grading.”
+       Commissioner Cluff requested that the item be reworded for clarity.
+
+5.     Screening and Storage, Item B: “Screening for storage and loading areas shall be
+       composed of six-foot high solid masonry or architectural precast concrete walls with
+       opaque gates and self-latching mechanisms, to keep gates closed when not in use.”
+       Commissioner Cluff requested that the item also be changed to allow any type of
+       solid fencing.
+
+Commissioner Rushton agreed that glass should be allowed to extend to grade, and
+indicated that the project across the street would look much more inviting with this design
+element. Regarding colors, he believes there should be a color palette ban so that colors
+like neon green on the vape shop would be banned even as accent colors. He also believes
+that patio or outdoor gathering space should be given additional consideration. For example,
+metal is not allowed, but metal may be the best material for a patio. Mr. Lethbridge indicated
+that they could differentiate between the main structure and things like patios, porches, or
+awnings. Commissioner Rushton asked if more modern buildings like those in South Jordan
+would be allowed by the new Design Standards. Mr. Lethbridge stated that it will expand
+the types of elements the Planning Commission is able to approve in terms of style of
+architecture and make it easier for more modern styles to come before the Commission.
+Currently, Staff enforces the requirement for five elements, which can be a challenge for
+both Staff and developers.
+
+Mr. Lethbridge stated that the Design Standards update is in response to Burger King. The
+building had a great design, but the five-element requirement put both the Planning
+Commission and the developer in a bad position. Mountain View Village is another good
+example of how applying broader standards can benefit the community.
+
+Commissioner Cannon stated that the Commission reviewed an application approximately
+four years previously for an ugly, square building. The property owner wanted to build it as
+inexpensively as possible. The Commission would state a requirement, and the property
+owner would push back. The final plan met all requirements, but the building is not as
+aesthetically pleasing as it could have been. Mr. Lethbridge stated that the checklist is a
+catch-22 because while it sets very clear requirements, it also allows a developer to pick five
+elements without the City’s input. The revised standards would put more responsibility on
+the Commission by giving them more discretion in determining if an element is consistent.
+Riverton City Planning Commission Meeting                                                 14
+January 9, 2025
+
+
+The process will be more involved. However, because the City is at a stage where it is
+considering infill commercial development or renovations rather than large-scale
+developments, they already have a palette to work from. More modern aesthetics will be
+allowed as long as there are identified ways the building fits with the area.
+
+The Planning Commissioners agreed that glass should be allowed to extend to grade.
+
+In response to a question, Mr. Lethbridge stated that former Planning Commissioner Russell
+was the architect for the Burger King project, and Staff has received feedback from him.
+Engaging an architect to assist with updating the standards can be difficult because different
+architects have different opinions, but he will ask Mr. Russell for his feedback on the final
+draft.
+
+The intent of the update is to provide the Planning Commission with more discretion moving
+forward. Anything they do not want to see should be defined, but otherwise, the types and
+colors of materials will be at the Commission’s discretion.
+
+In response to a question from Commissioner Knudsen, Mr. Lethbridge stated that the
+previous standards required the lower third of a building, approximately 30%, to be brick or
+stone in the downtown area, but design standards are moving away from brick to some
+extent. The 20% requirement was presented as a starting point for discussion, and the City
+Council did not have strong feelings regarding that number. Staff would not be concerned
+about eliminating the requirement.
+
+Commissioner Cluff agreed with Commissioner Knudsen that they should mention red brick
+for the downtown area. They should encourage architecture that gives a nod to historical
+elements, and red brick is a theme in the downtown area. Chair Matheson agreed that red
+brick is consistent in the area, and he would like to see it specified in the standards.
+
+Mr. Lethbridge referred to photographs of prohibited materials included in the Staff Report.
+He stated that it is becoming popular to scrape a stone pattern into wet stucco, but that is
+not aesthetically pleasing.     However, stamped brick or stone patterns can be
+indistinguishable from brick.
+
+Commissioner Keele agreed that neon colors should not be allowed except on signage, and
+that red brick should be specified for the downtown area.
+
+Commissioner Cluff stated that she likes the look of rusted metal accents and asked if the
+purpose of prohibiting it was functional or aesthetic. Mr. Lethbridge stated that rusted or
+distressed metal was included in the list of prohibited materials to avoid any potential issues,
+but they could consider limiting it to accent materials only.
+
+Mr. Lethbridge thanked the Commissioners for their input. He reported that Staff will refine
+the text and present the updated Design Standards at a future meeting.
+Riverton City Planning Commission Meeting                                          15
+January 9, 2025
+
+
+4.       DECISION ITEMS
+
+         A.    ELECTION OF PLANNING COMMISSION CHAIRMAN FOR 2025.
+
+Chair Matheson opened the floor for nominations.
+
+Commissioner Cannon asked about the procedure for someone who is not in attendance.
+Mr. Carter stated that the Commissioner could still be nominated. If they declined the
+nomination, the matter would be brought back for another vote. Commissioners who
+previously served as Chair were eligible for nomination, but Chairs were not allowed to
+succeed themselves.
+
+Commissioner Cannon moved to NOMINATE Darren Park to serve as 2025 Riverton
+City Planning Commission Chair. The motion was seconded by Commissioner
+Rushton. The motion passed with the unanimous consent of the Commission.
+
+Commissioner Cluff moved to NOMINATE Monique Beck to serve as 2025 Riverton
+City Planning Commission Vice-Chair. Commissioner Knudsen seconded the
+nomination. The motion passed with the unanimous consent of the Commission.
+
+5.       MINUTES
+
+         A.    MINUTES APPROVAL – DECEMBER 12, 2024.
+
+Chair Matheson reported that Commissioner Rushton’s name was misspelled in the motion
+on Page 4.
+
+Commissioner Cannon moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of December 12, 2024, as amended. Commissioner
+Cluff seconded the motion. The motion passed with the unanimous consent of the
+Commission.
+
+Mr. Lethbridge updated the Commission on recent actions by the City Council and reported
+that all decisions were as recommended by the Planning Commission.
+
+        The Pelaez Rezone Application was denied as the Council recognized it was non-
+         compliant with the current General Plan.
+        The Sycamore Glen Rezone Application was approved.
+        The Master Muffler Rezone Application was approved.
+        The Roberts Rezone request was approved.
+
+6.       ADJOURNMENT
+
+The meeting adjourned at approximately 8:50 PM.
+

@@ -1,0 +1,12 @@
+{
+  "contributions": [
+    {"date": null, "name": "Greg Wildung", "amount": "800", "in_kind": false},
+    {"date": null, "name": "SLBR (Inkind)", "amount": "2,624.34", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "SLBR (Inkind mailer)", "purpose": null, "amount": "2,624.34", "in_kind": true},
+    {"date": null, "recipient": "Peczuh Printing (door hanger)", "purpose": null, "amount": "250", "in_kind": false},
+    {"date": null, "recipient": "Costco C", "purpose": null, "amount": "126.95", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "3,424.34", "total_expenditures": "3,001.29"}
+}

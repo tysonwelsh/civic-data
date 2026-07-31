@@ -1,0 +1,60 @@
+Provo — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 6372   motions: 1074   named-vote motions: 957   tally-only motions: 117
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 1, undocumented (DEFECTS): 0
+   OK  2022-02-15 m2 George Handley x2 (Aye+Nay) :: 2022-02-15_council-regular-meeting.md  [db/vote_overrides.csv]
+
+4. ROSTER: roster.csv present (13 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 871/957 match (91.0%)
+   documented dissent-only-naming undercounts (source style, not defects): 85
+      2020-01-21 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-01-21 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-01-21 m3: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-03-31 m2: stated 3:4 vs counted aye=0 nay=4 abstain=0 :: result='3:4 Fail'
+      2020-03-31 m3: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2020-04-14 m2: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4:3 Pass'
+      2020-06-02 m2: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4:3 Pass'
+      2020-07-21 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-07-21 m2: stated 5:0 vs counted aye=0 nay=0 abstain=0 :: result='5:0 Pass'
+      2020-08-18 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-08-18 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-08-20 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-08-20 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-08-25 m4: stated 6:0 vs counted aye=0 nay=0 abstain=1 :: result='6:0 Pass'
+      2020-08-27 m1: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2020-09-01 m1: stated 2:5 vs counted aye=0 nay=5 abstain=0 :: result='2:5 Fail'
+      2020-09-01 m2: stated 3:4 vs counted aye=0 nay=4 abstain=0 :: result='3:4 Fail'
+      2020-09-15 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-09-15 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-10-20 m2: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2020-12-01 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-12-01 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2020-12-01 m4: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2021-01-19 m1: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-03-30 m2: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-05-04 m1: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2021-05-04 m3: stated 2:5 vs counted aye=0 nay=5 abstain=0 :: result='2:5 Fail'
+      2021-06-15 m1: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-07-06 m1: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-07-06 m3: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+      2021-08-24 m1: stated 6:0 vs counted aye=5 nay=0 abstain=0 :: result='6:0 Pass'
+      2021-08-24 m1: stated 5:0 vs counted aye=0 nay=0 abstain=0 :: result='5:0 Pass'
+      2021-09-07 m1: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-09-07 m2: stated 6:1 vs counted aye=0 nay=1 abstain=0 :: result='6:1 Pass'
+      2021-10-12 m1: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5:2 Pass'
+      2021-10-12 m2: stated 5:2 vs counted aye=0 nay=2 abstain=0 :: result='5:2 Pass'
+      2021-10-12 m4: stated 1:6 vs counted aye=0 nay=6 abstain=0 :: result='1:6 Fail'
+      2021-11-16 m1: stated 8:0 vs counted aye=7 nay=0 abstain=0 :: result='8:0 Pass'
+      2022-02-01 m4: stated 4:3 vs counted aye=0 nay=3 abstain=0 :: result='4:3 Pass'
+      2022-03-29 m2: stated 6:0 vs counted aye=0 nay=0 abstain=0 :: result='6:0 Pass'
+   known, hand-verified source quirks: 1
+      2023-05-02 m6: stated 5:0 vs counted aye=7 nay=0 abstain=0 :: result='5:0 Pass'  [KNOWN: faithful source contradiction: the vote line reads 'approved 5:0' but names SEVEN councilors in favor incl. Fillmore and Handley, who are recorded excused in every other vote that meeting (clerk copy-paste); the 7 printed names are kept verbatim.]
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

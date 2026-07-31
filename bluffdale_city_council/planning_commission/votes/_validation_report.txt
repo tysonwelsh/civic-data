@@ -1,0 +1,56 @@
+BLUFFDALE PLANNING COMMISSION — vote validation
+======================================================================
+meetings                 91
+motions                  308
+member-vote/placeholder  1275
+named motions            288
+tally-only (unnamed)     20
+contested (nay/abst/rec) 24
+body split               {'PlanningCommission': 308}
+max MEMBER tally / body  {'PlanningCommission': 6}  (Council members = 5 max)
+mayor votes (Council)    0  (genuine faithful mayor votes: tie-break / recorded)
+off-roster names         0  
+printed-vs-counted mism. 1
+
+CEILING CHECK (<=5 members/tally): FAIL
+OFF-ROSTER CHECK (must be 0):      PASS
+
+MAYOR VOTES (Council body — non-voting mayor, so these are genuine events):
+
+PRINTED-TALLY vs COUNTED mismatches (1) — faithful, NOT patched:
+  2025-10-15  PlanningCommission  motion 4  printed 4-2 vs counted 3-1  [The motion passed 4- 28 ~—to-1]
+
+CONTESTED MOTIONS (24):
+  2020-01-08  PlanningCommission  motion 1  The motion passed unanimously with two abstentions  nay=[]
+  2020-04-15  PlanningCommission  motion 1  The motion passed unanimously with one abstention  nay=[]
+  2020-04-15  PlanningCommission  motion 6  The motion passed 3-to-2  nay=[Ulises Flynn,Debbie Cragun]
+  2020-12-02  PlanningCommission  motion 3  The motion passed 4-to-1  nay=[Debbie Cragun]
+  2021-01-06  PlanningCommission  motion 2  The motion passed unanimously with one abstention  nay=[]
+  2021-09-15  PlanningCommission  motion 1  The motion passed 4-to-1  nay=[Ulises Flynn]
+  2021-11-03  PlanningCommission  motion 1  The motion passed unanimously with one abstention  nay=[]
+  2021-11-03  PlanningCommission  motion 4  The motion passed 4-to-1  nay=[Kori Luker]
+  2021-11-03  PlanningCommission  motion 5  The motion passed 4-to-1  nay=[Kori Luker]
+  2021-12-01  PlanningCommission  motion 4  The motion passed 3-to-1  nay=[Ulises Flynn]
+  2022-08-17  PlanningCommission  motion 2  The motion passed 4-to-1  nay=[Kori Luker]
+  2022-12-07  PlanningCommission  motion 1  The motion passed unanimously with one abstention  nay=[]
+  2023-01-04  PlanningCommission  motion 1  The motion passed 4-to-l  nay=[Ulises Flynn]
+  2023-03-15  PlanningCommission  motion 1  The motion passed unanimously with one abstention  nay=[]
+  2023-04-05  PlanningCommission  motion 3  The motion passed unanimously with one abstention  nay=[]
+  2024-01-17  PlanningCommission  motion 2  The motion passed unanimously  nay=[]
+  2025-02-05  PlanningCommission  motion 2  The motion passed unanimously with one abstention  nay=[]
+  2025-03-19  PlanningCommission  motion 3  The motion passed 3- to-2  nay=[Erik Swanson,Michael Kraupp]
+  2025-03-19  PlanningCommission  motion 4  The motion passed 3-to- 2  nay=[Michael Kraupp,Erik Swanson]
+  2025-06-04  PlanningCommission  motion 2  The motion passed 3-to-l  nay=[Kori Luker]
+  2025-06-04  PlanningCommission  motion 3  The motion passed 3-to-l  nay=[Kori Luker]
+  2025-09-03  PlanningCommission  motion 5  The motion passed by a vote of three-to-one  nay=[Kori Luker]
+  2025-10-15  PlanningCommission  motion 4  The motion passed 4- 28 ~—to-1  nay=[Tina Griffis]
+  2026-04-15  PlanningCommission  motion 5  The motion passed by a vote of 4-to-1  nay=[Tina Griffis]
+
+PER-YEAR OBSERVED VOTERS:
+  2020: Debbie Cragun, Holly Brown, Johnny Loomis Jr, Kori Luker, Stephen Walston, Ulises Flynn
+  2021: Debbie Cragun, Holly Brown, Johnny Loomis Jr, Kori Luker, Stephen Walston, Ulises Flynn
+  2022: Debbie Cragun, Erik Swanson, Johnny Loomis Jr, Kori Luker, Tina Griffis, Ulises Flynn
+  2023: Debbie Cragun, Erik Swanson, Johnny Loomis Jr, Kori Luker, Michael Kraupp, Tina Griffis, Ulises Flynn
+  2024: Debbie Cragun, Erik Swanson, Kori Luker, Michael Kraupp, Tina Griffis, Ulises Flynn
+  2025: Debbie Cragun, Erik Swanson, Joel Woodruff, Kori Luker, Michael Kraupp, Tina Griffis, Ulises Flynn
+  2026: Debbie Cragun, Erik Swanson, Joel Woodruff, Kori Luker, Tina Griffis, Ulises Flynn

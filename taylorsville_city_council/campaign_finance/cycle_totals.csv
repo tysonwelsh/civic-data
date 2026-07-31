@@ -1,0 +1,9 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+taylorsville,Anna Barbieri,2021,Council,3,2115.65,2115.65,2,2,summary,
+taylorsville,Meredith Harker,2021,Council,4,1475.0,150.0,2,2,sum-interim,
+taylorsville,Larry Johnson,2021,Council,5,8745.05,8745.12,3,3,override,"OVERRIDE: pure per-period filer verified by balance chain (827.48 -> 2011.30 -> 2396.30 = 2011.30+385 -> 0.00 within the filer's own 7-cent rounding): his 'final' report is itself a period (begin 2396.30, spends to zero), so the cycle = sum of ALL THREE filings (2925.84+5434.21+385.00 raised / 2098.36+4250.39+2396.37 spent); the generic max(summary, summed-interims) rule under-counts by the final period"
+taylorsville,Robert Knudsen,2021,Council,5,2877.71,2877.71,3,3,sum-interim,
+taylorsville,Kristie Overson,2021,Mayor,,1000.0,1068.45,2,2,sum-interim,
+taylorsville,Ernest Burgess,2023,Council,1,3814.0,3814.0,3,3,sum-interim,
+taylorsville,Curt Cochran,2023,Council,2,0.0,60.72,3,3,override,"OVERRIDE: RESTATING filer (page-verified from both raw PDFs, 2026-07-20): his '2nd' disclosure (Gen Election Report, rec'd 11/14/2023) RE-LISTS the '1st' (28-Day Report, rec'd 10/25/2023) Attachment B verbatim - the identical two items ($50.00 City of Taylorsville filing fee + 9/9/2023 Lowe's zip ties $10.72, TOTAL $60.72) - and repeats the SAME balance chain: both print line 1 carried-forward $800.00 -> line 6 ending $739.28; a genuine new period would have opened at $739.28 and closed at $678.56. His Final (doc9110) shows no new activity (begin=end $739.28, C/E $0). Cycle = raised $0.00 (both reports line 4 = $0; the $800 opening balance is not cycle contributions) / spent $60.72 counted ONCE; the generic sum-interim figure ($121.44) double-counted the restated period"
+taylorsville,Anna Barbieri,2023,Council,3,100.0,100.0,3,3,sum-interim,

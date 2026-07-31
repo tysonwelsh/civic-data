@@ -1,0 +1,1557 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=425&doc_id=2de2e825-a2b5-11eb-8549-0050569183fa
+> Meeting date: 2021-04-06
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, APRIL 6, 2021,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:             Mayor Troy K. Walker, and Councilmembers Mike Green (via
+                     Zoom), Tasha Lowery, Fred Lowry, Cal Roberts, and Marsha
+                     Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Scott
+                    Cooley, City Engineer; Hazel Dunsmore, Human Resource
+                    Director; John Eining, Police Chief; Rhett Ogden, Recreation
+                    Director; Christina Oliver, Community Development Director;
+                    Laura Oscarson, City Recorder; Linda Peterson, Communications
+                    Director; Clint Smith, Fire Chief; and Bob Wylie, Finance Director
+_______________________________________________________________________________________
+This meeting was held electronically.
+This meeting will be an electronic meeting according to Draper City Municipal Code
+       2- 1-040.
+
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the Draper
+City Council with an anchor location presents a substantial risk to the health and safety of
+those who may be present at the anchor location and hereby authorize the Draper City
+Council to conduct electronic meetings without an anchor location.
+
+The foregoing determination is based on the following facts:
+
+   •   Federal, state, and local leaders, including the Draper City Mayor and City
+       Council, have all recognized a global pandemic caused by the spread of the
+       COVID-19 virus.
+   •   While COVID-19 cases and hospitalizations show an encouraging downward
+       trend and vaccines are becoming available to a larger segment of the Draper
+       population, diligence is required so that there is not a rebound in cases and
+       hospitalizations.
+   •   It is difficult, if not impossible, to predict the number of attendees at any
+       meeting and to manage issues regarding social distancing in order to comply
+       with applicable health orders.
+   •   COVID-19 poses a continuing and immediate threat to the health, safety, and
+       welfare of Draper City residents and the public in general.
+
+
+Draper City Council APPROVED Minutes – April 20, 2021
+      •   The City has the technological capability to provide means by which the public
+          may hear, or view and hear, the open portions of the meeting and to
+          participate in public hearings.
+
+
+
+
+Study Session
+
+1.0       Interview candidate for the Traverse Ridge Special Service District
+          Administrative Control Board
+
+          Jordan Schmitz, the candidate, said that he grew up on a farm that taught him
+          some great things about work ethic and being involved in the community. He
+          grew up in a town in North Dakota of just 12,000 that provided a small-town
+          community feel. He and his wife had recently moved up to Traverse Ridge in
+          SunCrest. He said that with his work ethic and his negotiation background he
+          wanted to make a difference. He said that his family loved their little slice of
+          Draper heaven. He said if this was something he could do to make it better or
+          do anything to make the community a better place, he wanted to do it.
+
+2.0       Dog Walker Watch – Chief John Eining
+
+2.1       Chief John Eining said that Sue Campbell, the department's crime prevention
+          specialist, would talk about the program. In the spirit of volunteerism, the
+          Dog Walker Watch was another program the Police Department wanted to use
+          to create to increase their ability to have eyes and ears out in the community.
+
+2.2       Ms. Campbell said that the Dog Walker Watch was a mobile neighborhood
+          watch. She said that back in the day when she would respond to a call to
+          investigate a crime she would often ask who the habitual walkers and dog
+          walkers were. She would then go interview them to find out if they had seen
+          anything unusual. Sometimes these folks did without realizing they were
+          witnessing a crime. The Dog Walker Watch would teach people to be more
+          observant in their neighborhoods because they are the people who are out in
+          the community and recognizing odd behaviors and vehicles that shouldn’t be
+          there. The program would teach walkers what suspicious behavior looked like
+          and when to call the non-emergency or emergency number. The training
+          would educate walkers on how to stay calm and that they were not bothering
+          the Police Department. The theory behind the training was not to hold classes
+
+                                                                           Page 2 of 38
+      but to approach people who were already out walking trails, in the dog parks
+      and neighborhoods. Staff had a rack card and some swag from Animal Control
+      that they would distribute to folks to find out if they were interested. The card
+      would send people to a website with a PowerPoint to look through to get
+      educated. She said that one of the rewards was that participants would get a
+      bandana for their dog.
+
+      Chief Eining said that one of the nice things about the program was that
+      anyone who wanted to participate could be educated online on what to do if
+      something looked suspicious.      The program was open to absolutely
+      everybody.
+
+      Ms. Campbell said that it was a national program out of the same volunteer
+      group that does National Night Out. She said that it did help bring the
+      community together and to interact with the Police Department.
+
+      Chief Eining and Ms. Campbell had examples of the flyers for the Council.
+
+3.0   Land Use Training – Mike Barker
+
+3.1   Mike Barker, City Attorney, said that this was the time of year that they were
+      reminded that Draper was a political subdivision of the State of Utah. He said
+      that he supposed the legislature left some zoning discretion with
+      municipalities, there were a few areas that they needed to talk about that the
+      Council would see changes in Draper ordinances to implement the new
+      statutes that were passed. He said that the Accessory Dwelling Unit (ADU)
+      statute did not go into effect until October 1, 2021. He said they would have
+      some time to work through how to address ADUs in Draper’s ordinance.
+
+      The first item Mr. Barker talked about was HB 409, amendments to Land Use,
+      Development, and Management Act (LUDMA). The provision under the bill
+      would take effect on May 5, 2021. He said that he knew that Community
+      Development was working hard to amend ordinances where appropriate.
+      Those changes would be taken to the Planning Commission and then would
+      come before the Council to have everything implemented in time. He said that
+      this item had been discussed for several years. In 2020 it was discussed to
+      have the City Council trained, but this year the state-required four hours
+      annually of training for the Planning Commission. One hour of the training
+      was dedicated to the general powers and duties under LUDMA. Newly
+
+                                                                        Page 3 of 38
+appointed Planning Commission members must complete this one hour of
+training before they can assume their duties. The other three hours could be
+chosen from a broad selection of categories: conditional use permits (CUPs),
+vested rights, exactions, etc. One of those three hours can be achieved by
+attending 12 Planning Commission meetings per year. Every year Mr. Barker
+would provide the one-hour training. He could not think of any Planning
+Commission that didn’t have 12 meetings. This would leave a couple of hours
+that staff would provide in-house training. Planning Commission members
+could also meet their training hours by attending conferences or other
+seminars. The statute mandated that the city maintain training records.
+
+HB 409 also addressed development agreements. Mr. Barker said that was
+nice because there had not been a lot of previous guidance on development
+agreements. In the past statute just mentioned that they were a tool that cities
+could use in achieving the goals of LUDMA. This year the legislature defined
+what a development agreement is. It also reaffirmed that the city could use a
+development agreement as a planning tool and placed some limitations on
+development agreements. He said that the city could not use its authority to
+enact future land use regulations or ordinances under general welfare powers.
+Mr. Barker said this was already included in their development agreements
+template. A development agreement may not require the city to change the
+zoning on an area of land in the future. This was already something that
+Draper did not do as a matter of practice in the city.
+
+In the approval portion of HB 409, there were two tracks. If the development
+agreement proposed to change a land use regulation it had to follow a
+legislative process. Draper had started doing this a couple of years ago. The
+new statute codifies language from a recent court of appeals case from Utah’s
+Supreme Court called Wallingford v. Moab City. This solidified that any
+regulation change proposal had to go before both the Planning Commission
+and the City Council. If not proposing a regulation change, development
+agreements could remain an administrative process. However, a policy
+question arose if the City Council still wanted to hear and decide on
+development agreements. Although Mr. Barker could not think of a city that
+would do this, he felt it was important to mention that a development
+agreement cannot be the only option to develop land. He said that every
+application could not become a negotiation.
+
+
+
+
+                                                                 Page 4 of 38
+Mr. Barker noted that he and Spencer DuShane, Assistant City Attorney, were
+currently working on amending the city’s template to address some issues
+they had seen arise in the past. The new template would be done in the next
+month or so.
+
+In HB 409 there were some tweaks to definitions of development agreements,
+lot line adjustments, subdivisions, and substantial evidence. It was clarified
+that a party may not appeal a legislative decision to appeal authority. Mr.
+Barker felt that was already pretty clear, but apparently, some Utah cities
+would take a denial of a zone change to an appeal authority other than a
+district court. Lastly, there were some minor items.
+
+Plat amendments must preserve culinary water and sewer facility easements
+existing within the subdivision.
+
+The statute provided clarification that approval standards for conditional use
+permits must be objective. Staff would be going through the code to make
+sure there were concrete standards. The legislature consistently changed
+statutes to make sure that rules were clear for developers and the public so
+that everyone knew what the rules were within any particular type of
+application;
+
+There were also new parameters around the vesting of single-family plats. Mr.
+Barker said this item slipped in during the last week of the session and was
+absolutely bizarre. If someone has a plat of a single-family residence, they are
+now vested in the code for 10 years. Any subsequent amendments to land
+use regulations would not apply to those single-family residences. Mr. Barker
+said that he saw this as a de facto development agreement. He said that some
+developers were not pleased with this either because it tied their hands. He
+said that he thought that it might come up in a special session when they are
+looking at HB 98.
+
+Members of the Council asked for further explanation.
+
+Mr. Barker said Draper operated under this already. He cited the SunCrest
+Development Agreement. The city was applying standards in SunCrest that
+were approved 22 years ago. What this new statute does is if someone takes
+raw ground and plats it for single-family residences, the code at the time a
+property is plated becomes locked in for the development of those homes.
+
+                                                                 Page 5 of 38
+For example, if homes were developed based on this year’s code that required
+20’ setbacks, but Draper later changed the code to require a 30’ setback, the
+property owner got to develop under the 20’ setback for ten years. On the one
+hand, there were record-keeping issues because the city now had to track
+approvals and amendments to the code to make sure that staff was not trying
+to apply something that shouldn’t be applied. He said that from his point of
+view, what was interesting was the language “any land use regulation.” He had
+talked with some of his colleagues who were taking the position that a
+beneficial change would be applicable, but the code said, “any land use
+regulation.” He would argue that the legislature is capable of drafting
+something that reflects their will and they used the words “any land use
+regulation” so he didn’t know how often this would come up. He said that with
+single-family residences they don’t normally change height restrictions and
+setbacks. Hopefully, it was something that they were making a big thing of
+now but might not become a big thing in the future. He said that the 10-year
+vesting did not apply to any applicable building codes, health codes, fire codes,
+or similar regulations.
+
+Councilmember Roberts clarified that the developer couldn’t opt-out. It
+restricted them, too. Mr. Barker said this was correct. He said that there were
+all sorts of stories about how what went into the legislative council was not
+what comes out of the legislative council. He said that both sides might want
+to rework this statute to reflect what was discussed.
+
+Mr. Barker continued that each year there were tweaks to the mechanisms by
+which people can adjust their common boundaries with adjacent landowners.
+Once again there were tweaks to parcel boundary adjustments, lot line
+adjustments, and boundary line agreements. The takeaway was that if two
+owners of parcels want to adjust their boundaries the city isn’t involved unless
+one of the parcels involves a dwelling. Generally, these parcel adjustments
+had been off-limits to city regulations. Lot line adjustments clarified that these
+were subject to plat amendments. Those were situations where there were
+two adjacent lots within a subdivision, or there was a lot adjacent to a parcel
+that was not in the subdivision. This clarified that if they wanted to adjust their
+boundaries, the plat had to be amended to reflect the new boundary.
+
+The next item addressed was Low Impact Development (LID). He said that this
+was a bill that said that if a city required low impact development that the city
+cannot require the installation of pavement with a width greater than thirty-
+
+                                                                    Page 6 of 38
+two feet (32’) if LID is required in that particular area. He said there was an
+exception. It did not apply if the city required installation of pavement in a
+vehicle turnaround or to address specific traffic flow constraints at an
+intersection or other area. Mr. Barker said that the Engineering and
+Community Development Departments were aware of the change. He said
+this particular section also requires the city to establish by ordinance any city
+standards for fire department vehicle access and turnarounds on roadways.
+Normally, the Fire Marshal goes to the fire code and says one of the
+appendices talks about fire apparatus access roads, and those are the
+standards. Those standards now have to be adopted by a city ordinance so
+they were a part of the city code.
+
+Next Mr. Barker talked about HB 82 and single-family housing modifications
+and Internal Accessory Dwelling Units (IADUs). He said this was a huge topic
+during the sessions. There were various iterations of the bill that went back
+and forth. An IADU is an ADU that is created within the primary footprint of
+the dwelling to offer long-term rentals of 30 consecutive days or longer. This
+means that (1) there has to be a primary dwelling, which as the code stands
+now, is defined as a single-family residence; (2) the IADU cannot expand the
+footprint of the primary dwelling; and (3) the IADU can only be for long-term
+rentals. This means they are not supposed to be rented through Airbnb. As a
+result of HB 82, the definition of single-family limit was changed. This means
+that the city cannot differentiate between related and unrelated individuals.
+He said that when he looks at this language and the remaining language in the
+code it seems to say that the city has the ability to limit the number of people
+who live in a single-family dwelling. Mr. Barker said that by striking the one
+word and leaving the rest the same, it flipped the language on its head. The
+intent behind the language was that the city does not look at familial relations
+in defining the single-family limit. He said that familial relations were a hard
+thing to enforce anyway. How do you prove that people are unrelated? For
+that reason, this change was not a big issue for a lot of cities.
+
+The IADUs will be permitted in any use with a primary residential use. There
+were some limitations. He reminded the council the vast majority of the bill
+would go into effect on October 1, 2021. The city needed to have something
+in place if they wanted to regulate by October 1. Otherwise, IADUs were
+permitted and the city would lose its chance to regulate the IADUs. Because
+of this, the city does not want to have a dead period where applications were
+coming in but didn’t have standards in place. He said that staff would be
+
+                                                                  Page 7 of 38
+working on this issue and coming to study sessions to get the Council’s input
+quickly. Mr. Barker noted that IADUs had to comply with building, health, and
+fire code, including the upgrading of egress windows. Currently, if a person
+renovates their basement, they didn’t have to upgrade their egress windows
+to come into compliance with building standards.
+
+Mr. Barker then explained what cities CAN do. Cities may:
+
+   1. Prohibit the installation of a separate utility meter;
+   2. Require the IADU to be designed so that it does not change the
+      appearance of the single-family dwelling as the primary residence;
+   3. Address parking issues as to the primary dwelling. If an IADU is added,
+      the city can require additional parking spaces. If a garage is converted,
+      the city can require those parking spaces to be replaced;
+   4. Prohibit the creation of an IADU in a mobile home;
+   5. Require the owner of the primary dwelling to obtain a permit to rent the
+      unit;
+   6. Prohibit the creation of an IADU “within a zoning district covering an
+      area that is equivalent to 25% or less of the total area in the [City] that
+      is zoned primarily for residential use.” If there were 1,000 acres of an
+      area that was zoned primarily for residential use, the city could prohibit
+      IADUs in 250 of those acres. That can span across zones. An area could
+      be delineated by streets to allow a certain area of the city to prohibit
+      IADUs. Mr. Barker said this would be interesting because when the
+      ordinance goes to the Planning Commission, there will be people who
+      are mad that they can’t do an IADU and there will be people who are
+      upset that IADUs are allowed in their area.
+
+Councilmember Roberts said that he had made his opinion on the bill known.
+At the end of the day, the enforcement piece of the bill would be challenging.
+There were IADUs all over the city now. He said that it seemed like the bill gave
+some sort of regulatory method on the part of the city if people apply for a
+permit. He said that he imagined that most people wouldn’t or don’t care. He
+asked Mr. Barker if he had a view on the enforcement piece of the legislation.
+
+Mr. Barker said enforcement would be a challenge. He said that he didn’t
+know what people’s behavior would be.
+
+
+
+
+                                                                  Page 8 of 38
+Councilmember Roberts asked about putting a lien on for violations. He asked
+how the city proved violations.
+
+David Dobbins, City Manager, told the Council that he wanted them to start
+thinking about how they wanted to come up with the 75-25 split. He also
+pointed out that the language applied to all single-family units, even if they
+were in HOAs. Even if someone lived in an HOA that currently prohibited
+IADUs, according to state law, those HOAs can no longer prohibit that from
+happening. He said that this was an item that staff would want to spend some
+time with the Council before presenting so that they could look at some maps
+and options because the law will pit sections of the city against each other.
+
+Councilmember T. Lowery said that this seemed like something that HOAs
+could approach the Council to request. If an HOA board vote that they want
+to pursue being a part of the 25%, that would be a reasonable way to
+determine areas of the city that prohibit IADUs.
+
+Mr. Dobbins said that could be a way to determine what areas allowed IADUs
+and which didn’t. That would require outreach on the staff’s part. Staff wanted
+a sense of how the Council wanted to go about figuring this out. Did they want
+a public process? Did they want staff to just propose something?
+
+Councilmember T. Lowery said that she felt that the areas that would be most
+problematic would be places with HOAs that had already banned IADUs. She
+said she thought it would make a lot of sense to reach out to some of those
+HOAs to say this will be an option. If the board votes that you would like to
+pursue this, let us know.
+
+Mr. Dobbins said that other cities were contemplating areas that IADUs would
+not be allowed based on street widths where there would be parking
+problems. The Council might say that if you live in a development with really
+narrow roads, or where there are already parking issues, that might be the
+areas that the city says IADUs are prohibited so as not to exacerbate an
+existing problem.
+
+Councilmember F. Lowry asked if the city would be allowed to discriminate
+based on road width. He said that he didn’t see how that could be used as a
+criterion.
+
+
+
+                                                                 Page 9 of 38
+Mr. Barker said that the bill did not give cities much guidance at all. Because
+of this, he would say that the city was free, within the bounds of constitutional
+law, to draw the exclusionary areas according to how they saw fit.
+
+Councilmember F. Lowry said the criteria could be used as long as the area
+did not exceed 25% of the city.
+
+Mr. Barker clarified that it was 25% of the area that was zoned primarily as
+residential.
+
+Councilmember T. Lowery had a question regarding parking requirements in
+item 3. She clarified that with an IADU one additional stall was required. She
+asked what this was in addition to.
+
+Mr. Barker said that the Draper code required two on-site parking stalls for
+each residence. If someone adds an IADU, they will have to have at least
+another space and if a resident converts their garage, they will have to come
+up with two to replace what they do with the garage and one additional space.
+
+Councilmember T.      Lowery confirmed that the IADUs have to be owner-
+occupied.
+
+Mr. Barker said yes, but that came back to the enforcement challenge. He said
+that he did feel like there were benefits to the city as it gave them a regulatory
+mechanism to get a handle on what was already going on.
+
+   7. Prohibit an IADU if the primary dwelling is served by a failing septic tank;
+
+          Councilmember F. Lowry asked how it would be determined that a
+          septic tank was failing?
+
+          Mr. Barker said that the city could require as a part of the application
+          that if someone was on a septic system that they had it checked out.
+
+   8. Prohibit an IADU on a lot less than 6,000 square feet;
+   9. Prohibit the rental of an IADU for periods less than 30 days;
+   10. Prohibit the rental of an IADU if the primary dwelling is not owner-
+       owned and operated;
+   11. Hold a lien against a property with an IADU if violations occur;
+
+                                                                  Page 10 of 38
+Mr. Barker addressed the question of holding a lien against violations. He said
+that the issue of the lien took up the most space in the bill. It was a process
+that gave the homeowner due process. The city could not just go out and slap
+on a lien. They had to go through a hearing process and curing process where
+the resident had a certain period to cure. By the time the city got to the point
+where they were putting on a lien for a violation, the resident had been
+through a whole process. However, the initial question about if determining a
+lack of compliance, Mr. Barker felt that would need to be handled like other
+enforcement situations where staff rely on reports and complaints from
+citizens.
+
+Councilmember Roberts asked what sort of evidence the city would provide
+that someone was in violation during the hearing process. Mr. Barker said that
+he thought the city would have to treat issues of compliance with the same
+investigative process as other issues. If the city wanted to tell a resident that
+they were in violation because they were not owner-occupied, the city would
+have to do an investigation where it felt comfortable that the primary dwelling
+was not owner-occupied.
+
+Councilmember Roberts said that as a City it did not seem that they were
+equipped to spend the time, money, or resources to do that. Mr. Barker
+agreed, it was a matter of resource allocation. He said that he anticipated that
+they would hear from the league about wanting cities to document the
+timeline they are adopting these new laws and amending their ordinances, but
+also the time they were spending enforcing these rules so that they could go
+back to the legislature to say you’ve given us these mandates and we are
+spending all this time enforcing these rules, instead of moving forward
+development ideas to better house people.
+
+   12. Record a notice regarding an IADU with the County Recorder.
+
+Mr. Barker then went through a list of what cities CANNOT do. Cities may not:
+    1. Require anything not listed above, including regulating the size of the
+       IADU in relation to the primary dwelling, total lot size (i.e. 6,000 square
+       foot minimum size), or street frontage.
+
+Councilmember T. Lowery asked if there was any sort of limitation on how
+many IADUs could be added to a residence. For example, could an owner have
+
+                                                                  Page 11 of 38
+an IADU in the home, in the basement, and in the garage? Mr. Barker said that
+he thought an owner could have one IADU. He said that staff was looking into
+the issue of if they wanted to still allow external ADUs. The concern was
+turning a single-family residence into a boarding house or a hotel.
+
+Councilmember T. Lowery said that she had received that complaint before;
+the city was allowing single-family homes to become apartments. She saw the
+potential where one home could actually be four homes. Mr. Barker said that
+staff were aware of that and intended to bring the issue back as a discussion
+point for the Council.
+
+Regarding enforcement, Mayor Walker noted that Draper did not have a large
+enforcement division. He suggested that to be able to enforce these new rules
+Draper would probably need to expand the code enforcement division if the
+Council wanted to enforce the ADU business. He said they would need people
+to do it. He said that like Mr. Barker said there would be some people who
+were excited to be able to do it and a lot of neighbors who were unhappy
+about the cars and parking. He said that he felt that the Council needed to
+have some way to deal with it.
+
+Mr. Barker said that he thought that one of the biggest challenges the city
+would have was differentiating between those who were using the IADU for
+long-term rentals versus those who were constructing them and using them
+for short-term rentals.
+
+Councilmember F. Lowry asked if requiring a permit would help the city in
+determining where to enforce. Mayor Walker said that one of the problems
+will be that there will be people who rent their basements like Airbnb. He said
+that was where the complaints were going to come from. Partiers would show
+up, neighbors would complain that every weekend there was a new group of
+partiers in it. He said that there were already incidents in the city of Airbnbs
+gone wild where cops had to come in and arrest people. People got beaten
+up. He said that if there wasn’t a way to enforce the ordinances, he thought
+that it would get out of hand.
+
+Councilmember Roberts asked if the true question was if the law was going to
+change any behavior. He asked if people were not already doing this. He said
+that he knew people up in SunCrest who were renting out Airbnbs.
+
+
+
+                                                                Page 12 of 38
+Mr. Barker said that short-term rentals were not illegal in Draper. He said the
+city had not regulated them. He said that for him it felt like a simple economic
+decision: if a resident can get a permit for an IADU and rent it out for $1,500 a
+month versus $250 a night, the temptation is no doubt to do the short-term
+rentals. He said that was why he thought a lot of the city’s enforcement would
+focus on the short-term rental issue.
+
+Mayor Walker said again that Draper did not have enough code enforcement
+people to do the job.
+
+Councilmember T. Lowery asked if Mr. Barker suggested that the Council
+needed to look at limiting short-term rentals. She said that she thought that
+state law didn’t want cities to limit short-term rentals. Mr. Barker said that the
+City cannot go after someone because they list on a short-term rental website.
+The City had not regulated short-term rentals, but they could.
+
+Councilmember T. Lowery asked if they regulated short-term rentals that
+would make it easier to enforce the IADUs. She said she saw what Mr. Barker
+was saying; short-term rentals and IADUs would be hard to differentiate. She
+said that maybe Draper code needed to say that rentals needed to be 30-days
+and make it commensurate with state law.
+
+Mayor Walker clarified that Councilmember T. Lowery had suggested that
+trying to regulate IADUs without regulations on short-term rentals would push
+everything to short-term rentals, so the city should regulate short-term rentals
+first.
+
+Councilmember T. Lowery said that without the contemporaneous regulation
+an owner could just claim that the space was not a short-term IADU, it was an
+overnight VRBO.
+
+Mr. Barker said that short-term rentals, at least over the last couple of years,
+had been just on the cusp of the legislature's list of things to take care of. The
+issue came up again this year. The proponents of HB 82 said not this year. He
+said that the issue would come back.
+
+Mayor Walker said that short-term rentals did not fix the housing crisis. He
+understood that if they did not regulate short-term rentals and tried to start
+
+
+
+                                                                  Page 13 of 38
+regulating the housing crisis rentals, the city would become “Airbnb Properties
+of Utah”.
+
+Councilmember T. Lowery said that with that in mind, she felt like it would be
+wise to have staff draw something up for the Council to look at. She asked if
+other Councilmembers were interested in that. Councilmember Roberts said,
+potentially. He asked what the current code said regarding IADUs, not short-
+term rentals.
+
+Mr. Barker said that Draper did not regulate IADUs. They’d never been
+allowed. Councilmember Roberts said that he knew they were not allowed,
+but he wanted to know if Draper had ever enforced that. He said if the city
+had not ever enforced them, why all of a sudden was Draper enforcing them
+now.
+
+Mr. Dobbins said that one thing the city has done to prevent single-family
+homes from having a true IADU, which includes a separate meter, and kitchen,
+etc. was if someone came to get a building permit, staff might point out that it
+looked like they were creating a single-family IADU and tell the applicant that
+they were not allowed to do that. If a resident makes the IADU anyway,
+neighbors will call in stating that they think that a basement was being rented
+out. Staff would then check records and confirm that an owner had not filed
+a permit for a formal rental, and go and knock on the door to ask if they had a
+renter. To this point, however, staff have not formally said that they would go
+inside a home to investigate or stop people in a home to ask if they were
+related.
+
+Councilmember Roberts confirmed that the only way the city had regulated
+IADUs in the past was by flagging permits where someone was trying to put in
+a second kitchen or meter. However, a lot of people were simply renting out
+their basements which had never been enforced. Mr. Dobbins said that while
+some cities were very aggressive, historically, Draper had taken a hands-off
+approach.
+
+Councilmember Roberts asked if they started to regulate based on these
+IADUs that were not pulling builder’s permits, the city did not have the current
+resources and staff for enforcement. Essentially, to regulate the new rules,
+Draper would need to pull from its budget. Mr. Dobbins said that right now
+Draper had one employee who did code enforcement for the entire city. He
+
+                                                                Page 14 of 38
+said that person dealt with all the complaints about lawns, parked cars, and
+everything else one could think of.
+
+Councilmember T. Lowery said that now that this was codified by the state,
+there would be residents who had neighbors doing this and not following the
+code. They will know that the city could be enforcing the IADU regulations.
+
+Councilmember F. Lowry said that proper enforcement was the only way to
+nip the issue to keep it somewhat under control.
+
+Councilmember Roberts said that they would not be able to effectively enforce
+most cases. They were already currently not enforced. He said that there were
+tons of IADUs around the city already that were not getting enforced. Even if
+the staff was expanded to enforce these, it was impossible to do so
+successfully. He wanted to know if Draper wanted to spend more taxpayer
+dollars to go out and enforce something that was unenforceable?
+Councilmember T. Lowery said that it was enforceable now. Mr. Dobbins said
+that it was enforceable on the books. He said that the practical side of
+enforcement would be a whole different challenge.
+
+Councilmember T. Lowery said that now they would be able to look to see if
+an owner had pulled a permit for an IADU. Either they had one or they didn’t.
+If people showed up every night to live in the basement and an owner didn’t
+have a permit then the city could put a lien on them.
+
+Councilmember Roberts asked how it was possible to prove that someone is
+coming in and out every night without applying surveillance. Councilmember
+T. Lowery said that she was with Councilmember F. Lowry; enforcement was
+necessary because this was something that could get out of hand quickly.
+
+Councilmember Green said that he didn’t think that he liked having the police
+or an enforcement officer having to go out and investigate. You would be
+going to a resident’s door, investigating, and then trying to build a case against
+a resident. He said that he was uncomfortable with that. He said that he felt
+that the city should do the minimum amount that state law required.
+
+Mayor Walker said that if the Council was not going to enforce regulations,
+why go through the exercise of writing up a code. He suggested that they just
+
+
+
+                                                                  Page 15 of 38
+      have no code. He said he did not see the point of having staff spend four
+      months writing up code if the majority of the Council didn’t want to enforce it.
+
+      Mr. Dobbins said that he thought that the code needed to be on the City’s
+      books just to comply with state law. The City had to designate the areas where
+      IADUs were allowed. Mr. Barker said they don’t necessarily have to have an
+      ordinance because the law says that if a city does not have something in place
+      by October 1, 2021, then IADUs could just be done in any zone with a primary
+      residential permitted use.
+
+      Mayor Walker asked Mr. Barker if his question for the Council was if they
+      wanted him to come up with a regulatory framework for this item. Mr. Barker
+      said that he did not ask that question, but that it would be helpful to know. He
+      said that the conversation had taken a different direction than anticipated.
+
+      Mayor Walker asked the Council what their direction was on having Mr. Barker
+      and staff draft a regulatory framework. Councilmember Roberts said that he
+      wanted some time to think about it.
+
+      Mr. Barker said that some of this was hard to think about in the abstract
+      without a concrete piece of paper outlining regulations.
+
+      Councilmember Roberts said that if Mr. Barker wanted to take the time to draft
+      that document he would not oppose it.
+
+      Councilmember Green said that he would want an ordinance that met the
+      minimum state requirements and that he didn’t want to waste resources.
+
+      Mr. Barker had a few more land-use bills to inform the Council on. HB 107
+      stated that plat applications must include a description of water conveyance
+      facility rights-of-way and easements and any water conveyance facilities. The
+      City then has 20 days to mail notice to conveyance facility owners within 100’
+      of plat boundaries. SB 201 modified newspaper notice requirements for some
+      land use applications.
+
+4.0   Council/Manager Reports
+
+4.1   Councilmember Roberts talked about the retention pond issue up at SunCrest.
+      He said that he drove up Traverse Ridge going home one day and kids were
+
+                                                                      Page 16 of 38
+      doing massive figure eights all over that place. He said there were big rocks
+      there and it struck him as extremely dangerous. He wondered if there was a
+      way they could prevent people from off-roading in that area. He said that it
+      worried him that all it took was one bad move before kids hit a rock and were
+      in trouble. Councilmember T. Lowery said that it also looked very poorly.
+
+      Scott Cooley, Public Works Director, said the staff was addressing the issue by
+      putting gates up. He said that even if you put a gate up it just gave kids the
+      challenge to go around the gate. Staff had put up some barriers that day as a
+      temporary thing and would be removed once staff comes up with a
+      permanent solution. Regarding the landscaping of the pond and the
+      restoration of what was there, it has been planted. There isn’t another way to
+      landscape the area without irrigation. He said that the staff was looking at the
+      possibility of getting irrigation. If that was possible, staff were looking at
+      getting some trees in addition to what had already been done: overlaying the
+      entire area with six inches of topsoil and seeding it with a native seed mix. He
+      said it would take some time to grow, but it was the same process that was
+      followed with all of the cuts on SunCrest. He said that it just took some time
+      to re-establish ground cover.
+
+      Councilmember T. Lowery said that if the area had been driven on by razors,
+      it might not be ideal growing conditions. Mr. Cooley said those were for sure
+      not ideal conditions. The staff was trying to address that. He said that there
+      were people doing things that they shouldn’t all over the city and staff just had
+      to address issues on a case-by-case basis. He said they were looking into the
+      possibility of adding some trees with some irrigation. Without irrigation it was
+      not possible to add trees. They would just die.
+
+      Councilmember T. Lowery asked when they would see the irrigation and tree
+      plans. Mr. Cooley said he had a staff member looking into the irrigation at
+      present. He said that if the irrigation was possible, then they would look into
+      adding trees. He noted that they were completely out of budget for that stuff,
+      so would have to present the proposal to the Council to figure out if that was
+      something the Council wanted, the associated cost, and funding. He said staff
+      acted the day prior. It would take a week or so to get answers.
+
+4.2   Councilmember T. Lowery said that there was a report that the gate that was
+      installed at the Flight Park had been vandalized and broken. She wanted to
+
+
+
+                                                                       Page 17 of 38
+know if there was an update on that incident. Mr. Dobbins said that he had
+reached out to the County, but had not heard back.
+
+Councilmember T. Lowery said that in the meantime, residents had asked the
+police to patrol and had been told that the police have no jurisdiction. In the
+absence of patrol, the drinking and trespassing in neighbors’ backyards has
+begun again.
+
+Chief Eining said that he was not aware of any messaging that sounded like
+that. He said that they would enforce, and have enforced issues going on in
+the park. He said that anything that happened to neighbors outside of the
+park was absolutely part of the Draper Police Department jurisdiction. He said
+police had issued citations and made arrests inside the park. He said that he
+was not aware of who was saying that if it was being said.
+
+Councilmember T. Lowery said that it would be important to figure out what
+was going on with the gate because she felt like it made a tremendous
+difference for the neighborhood.
+
+Chief Eining said that he had not heard of any of the problems. He didn’t even
+know that the gate was down. He said that it was an issue he would follow up
+on. In the meantime, he would make sure that his graveyard staff was going
+up there to patrol the area. Councilmember T. Lowery said that she thought
+it would be really helpful if the area was just added to the regular patrol.
+
+Councilmember F. Lowry asked if they did not already have a police officer
+who closed the gate each night or was it automatic.
+
+Mr. Dobbins said that part of the issue was that even when the gate closed,
+people could still walk in the area and do all kinds of things. It was like many
+of Draper’s other parks and open space. Trailheads, especially as it got
+warmer, were the places that people tend to hang around outside and engage
+in raucous activities.
+
+Mayor Walker said that he knew that they always enforced poor behavior. He
+said that he had been on several ride-along and it was like a prime hunting
+ground for sundry offenses.
+
+
+
+
+                                                                Page 18 of 38
+      Chief Eining said that he had several officers who made it their mission to hit
+      trailheads and parks. They find an awful lot of things going on in the parks at
+      night.
+
+4.3   Councilmember T. Lowery said that she and Councilmember Vawdrey had
+      spoken with Jamie Pogue, the Director of the Parks and Trails Commission. He
+      was concerned about the use of trails during the mud season. There had been
+      a tremendous amount of damage done to some of the brand-new trails,
+      predominately by horses. She asked if there was anything staff could do to
+      help with that.
+
+      Mayor Walker clarified that the damage resulted from trail use while they were
+      wet. Councilmember T. Lowery said yes, adding that she thought it was at this
+      point when she thought the trails were closed. Mayor Walker said the trails
+      were closed. The question was what the City could do to increase some
+      enforcement to protect the investment in the trails. Councilmember T.
+      Lowery said that was correct. Mr. Pogue felt like some of the trails might need
+      to be completely rebuilt because of all of the postholes.
+
+      Mr. Dobbins said that he would follow up with Chief Eining and Rhett Ogden,
+      Director of Parks and Recreation, to come up with some ideas on what could
+      be done to enforce trail closure.
+
+      Councilmember Roberts asked if they knew which trails. Councilmember T.
+      Lowery said that she felt like it was tricky because they didn’t want to single
+      out a single group, they just wanted to be clear about trail closures. Perhaps
+      it was something that the city needed to message a little bit better to the public
+      in a newsletter or on the city’s Facebook page that the trails were closed,
+      please don’t use them. This is the type of damage it causes and results in this
+      much financial investment to repair before the summer.
+
+      Councilmember F. Lowry said that he agreed that community communication
+      was key. He said that not only was it a fiscal issue, but it was a safety issue,
+      too. Councilmember T. Lowery said that the trails were Fango and Longview.
+
+4.4   Councilmember F. Lowry said that he was curious as things were starting to
+      open up on if Draper had a timeline for when the city would be able to open
+      up City Council meetings beyond a Zoom meeting.
+
+
+
+                                                                        Page 19 of 38
+      Mr. Dobbins said that staff would take the Council’s direction. He said that in
+      the past it seemed like the Council wanted to continue to hold meetings via
+      Zoom. He said that as the numbers drop and the mask mandate goes away,
+      the Council would get more of a push for requests for people to attend in
+      person. He said that staff had looked at a couple of options. They could limit
+      in-person participation by numbers and space the chairs out. Perhaps 20
+      chairs. Once they had 20 folks in attendance, everyone else would have to
+      wait outside. He asked if that was something the Council wanted staff to start
+      doing.
+
+      Councilmember F. Lowry said that he felt like it was time to begin the
+      discussion and start planning because he felt that as things were improving,
+      the desire to re-open would move quickly. He said that he felt that the Council
+      owed it to the public to be able to be physically a part of the process as soon
+      as possible.
+
+      Councilmember Roberts said that he knew that the County Council was voting
+      on whether or not to extend the mask mandate in Salt Lake County.
+
+      Councilmember F. Lowry said that a lot of what the County decided could
+      impact what Draper did.
+
+      Mr. Dobbins said that he felt that they could very easily allow people in City
+      Hall. Certain requirements would have to be imposed such as masks and
+      social distancing. Those requirements would have to be imposed on the
+      Council and staff. He said that he felt it would be really important to be
+      consistent about what was done internally as with the public. He said that he
+      could come up with some options. He said that he felt like they could look at
+      implementing something starting in May.
+
+4.5   Scott Cooley, Public Works Director, provided an overview on pavement
+      maintenance. He said that the city spends a lot of money every year on this
+      effort. This was about preserving existing pavement. It was not about
+      reconstruction or new roads. It was all about trying to keep what roads the
+      city has in decent or good condition and from deteriorating prematurely.
+      Various tools could be used in this preservation effort.
+
+      Mr. Cooley said that they were primarily talking about preserving the
+      pavement of residential roads that were the big problem area. They don’t see
+
+                                                                     Page 20 of 38
+      a lot of traffic so they deteriorate on a slow scale compared to collector and
+      arterial roads. Standard reconstruction was over $3.20 a square foot. The
+      new method staff was using wherever they could was the full depth
+      reconstruction method. That ran about $2.40 a square foot. The next method
+      that was used, which was just a surface treatment is a slurry seal which ran
+      about $0.22 a square foot. He said that the cost difference was substantial.
+      That was the value in trying to preserve the pavement through surface
+      applications.
+
+      Mr. Cooley noted that the image displayed highlighted the areas that staff
+      would be hitting this year with some type of surface treatment. He said that
+      for the first time this year they were going to do something new to the city.
+      They were going to combine two treatments to try and address some areas
+      that were categorized as reconstruction only because they were in too poor of
+      shape to apply a standard surface treatment, but were not quite bad enough
+      to reconstruct. The method was called a cap seal that tried to get some
+      emulsion into small cracks in the road. Mr. Cooley said that the two things
+      that deteriorate a road were the sun and water. Getting the cracks sealed
+      would be important. The crack seal that the city normally used had some
+      limitations. He said the cap seal method had been quite successful in other
+      areas. He said that the cost of the cap seal treatment was $0.47 a square foot,
+      still significantly cheaper than reconstruction. There were two areas they were
+      going to apply the new treatment.
+
+      Mr. Cooley noted that there was a new machine that could level a road out.
+      He said it didn’t mill the road, but rather milled it microscopically so that the
+      road can be treated and come out smooth.
+
+      He said that staff had a good system for preserving pavement and anticipated
+      being able to do some reconstruction on residential roads beginning next
+      year. The preservation projects’ total cost was just over $1 million. Typically,
+      pavement preservation projects are a little bit more than that annually, but the
+      staff was trying to save some money to be able to do more full reconstruction
+      projects in 2022.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+
+
+                                                                       Page 21 of 38
+2.0   Proclamation: Child Abuse Prevention Month
+
+      Mayor Walker read the Child Abuse Prevention Month Proclamation:
+
+          Whereas the children of Draper are the future of our state’s success and
+          investing in their general welfare, safety and livelihood are of utmost
+          priority; and whereas all children deserve to grow up in a safe and
+          nurturing environment to assure they reach their full potential as they
+          grow and develop; and whereas the protection of children and the
+          strengthening of families is of concern and responsibility of all Draper
+          citizens because the wellness of children effects our lives now and will
+          continue to affect our lives in the future; and whereas child abuse was a
+          serious problem in the City of Draper last year with each case impacting
+          an entire family and effecting the community as a whole; and whereas
+          child abuse respects no racial, religious, social, economic or geographic
+          boundaries; and whereas all citizens of Draper need to become more
+          aware of child abuse and its prevention within their respective
+          communities and actively encourage and support parents to raise their
+          children in a safe and nurturing environment; and whereas preventing
+          child abuse requires each member of the community to be attentive to the
+          problems of families around them and commit to do everything they can
+          to help; now therefore, I, Mayor Tory K. Walker mayor of the City of
+          Draper, Utah do hereby proclaim April 2021 as Child Abuse Prevention
+          Month. We call upon all our citizens to renew their commitment to being
+          educated on the impact of child abuse and join in working for its
+          prevention within our communities.
+
+3.0   Public Comments
+
+3.1   Neil McGarry, resident, said that the Flight Park was at the end of Steep
+      Mountain Drive. He said that recently the gate, which residents had worked
+      very hard to get installed over the past year, had been vandalized. Residents
+      heard that the gate was broken and was no longer closing and opening
+      automatically. He wondered if the city could increase patrols until the gate
+      was fixed. He also suggested that the city consider putting in some video
+      surveillance on the gate now that there was power all the way out to the
+      entrance of the park. He said that he knew that Councilmember T. Lowery
+      was aware of the issue. He just wanted to inform the rest of the Council about
+
+
+
+                                                                    Page 22 of 38
+      the problems neighbors were still having at night with the gate being open and
+      lots of people coming in and partying at all hours of the night.
+
+4.0   Consent Items
+      a. Approval of March 16, 2021, City Council Meeting Minutes.
+      b. Approval of Agreement #21-41, Interlocal Agreement with Salt Lake County
+         for Traffic Signal Installation at 12200 S. Lone Peak Pkwy (125 W.)
+
+4.1   Councilmember T.    Lowery moved to approve the Consent Items.
+      Councilmember Vawdrey seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Action Item: Resolution #21-23, a Resolution of the Draper City Council
+      appointing two members of the Administrative Control Board for the Traverse
+      Ridge Special Service District.
+
+5.1   Councilmember F. Lowry moved to approve Resolution #21-23, appointing
+      Simón Cantarero and Doug Pilkington to the Traverse Ridge Special Service
+      District Administrative Control Board. Councilmember Vawdrey seconded the
+      motion.
+
+5.2   Councilmember Roberts said that although the two candidates nominated for
+      the TRSSD were good candidates, he thought that there was one other
+      candidate who might have been a better option.
+
+      Councilmember T. Lowery thanked all of the candidates for applying and going
+      through the process. She felt like some great people came forward. The
+      Council was always grateful for that.
+
+      Councilmember F. Lowry echoed what Councilmember T. Lowery said. The
+      Council appreciated any of the residents who were willing to put forth that they
+      wanted to contribute to the city. It did not go unrecognized. He wanted to
+      encourage the applicants to continue to look for opportunities to get involved
+      in the community.
+
+5.3   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+                                                                      Page 23 of 38
+6.0   Public Hearing: Ordinance #1483, an ordinance vacating a portion of the Right-
+      of-Way of Wildrye Field Way within Big Willow Creek Phase 1A Subdivision and
+      a portion located within Big Willow Creek Phase 1B.
+
+6.1   Scott Cooley, Public Works Director, said that Big Willow was an Ivory Homes
+      development. He said that it was located near 700 West and 11400 South. The
+      primary access to the development comes off of 11400 South. Currently, it
+      was their only access. They were working on southernly access through the
+      Jensen Farms subdivision. Shortly after the preliminary plat was approved, the
+      developer acquired additional property to the east of the entrance onto 11400
+      South. Subsequently, they started looking at the development of the land and
+      how it would tie into the existing Big Willow subdivision and determined that
+      the access road they currently had was not the prime location.
+
+      Mr. Cooley presented a diagram that showed the original property, the newly
+      acquired property, and the access road that exited 11400 South. Because of
+      the additional access gained that connects to the existing road system, making
+      the current right-of-way unnecessary. This has been known by both the
+      developer and the city for a long time. The issue was being brought before the
+      Council tonight because they want to make sure the City Council was okay with
+      this to make sure they would be willing to vacate the right-of-way as they
+      proceed with the construction of the new roadway.
+
+      Mr. Cooley noted that there were conditions with the vacation. One of the
+      conditions the developer would have to abide by was that they could not
+      eliminate the access in any way until the new access was constructed and the
+      plat was recorded the right-of-way would not be vacated. He emphasized that
+      if the Council voted to vacate the right-of-way tonight it would not be vacated
+      until other access was constructed. Ivory would also have to provide access to
+      one lot whose single access was the current roadway. Staff had reached out
+      to the owner of that lot and they did not indicate any issues with the change.
+      Mr. Cooley said that if issues did come up in the future, the Council did not
+      have to proceed with the recording of the vacation. Ivory Development had to
+      meet the requirements before the city had to proceed with the vacation.
+
+6.2   Councilmember F. Lowry asked where the property was located that was not
+      a part of the parcel that Ivory Homes would need to grant an easement to. Mr.
+      Cooley indicated a lot just off of the road with his pointer. He emphasized that
+
+                                                                      Page 24 of 38
+      it was the only lot that was not owned by Ivory Development. He said the
+      parcel not owned by Ivory Development already had a perpetual easement.
+      Ivory Homes would need to ensure that they had access to the new road. He
+      reiterated that the developer was not changing the access point onto 11400
+      South, they were just changing the courses of the road to get there.
+
+      Councilmember F. Lowry asked if they needed to be concerned if the
+      easement was granted. Mr. Cooley said that as long as the property owner
+      was satisfied with the easement there was no concern. Staff would ensure the
+      resident was satisfied.
+
+      Mr. Cooley pointed out that staff had added a sentence in the ordinance that
+      was included in the Council’s packet. The language read, “and the acceptance
+      of the constructed Phase 6 public improvements by the city.” This meant that
+      it was not just that the developer needed to record the plat. They needed to
+      have the improvements constructed before staff would record the ordinance
+      that would vacate the right-of-way. Vacating a right-of-way was a multistep
+      process. First, the Council had to approve the ordinance, and then it had to be
+      recorded. Until the right-of-way ordinance is recorded, the right-of-way is not
+      vacated.
+
+6.3   Mayor Walker opened the public hearing.
+
+6.4   Jason Staples said that he was a resident in Big Willow. He asked that before
+      there was a vote on this for changing the street and the access into the
+      neighborhood that it is postponed until the review of the proposed
+      development that Ivory had was considered and reviewed. He said that with
+      100+ houses going in, plus another 100 townhomes proposed, he questioned
+      if a single access point was sufficient. His other question was if a traffic study
+      had been done concerning 11400 South. He asked if any lights would be
+      placed at the access. He said as it stood now, having single access appeared
+      to be insufficient.
+
+6.5   Mayor Walker closed the public hearing.
+
+6.6   Councilmember T. Lowery asked if Mr. Cooley could address some of the
+      issues brought up by Mr. Staples. She said that it was her understanding when
+      this was talked about in the past that there would be a light added. Mr. Cooley
+      said that the access point was not changing. He said that regardless of if the
+
+                                                                       Page 25 of 38
+       road stayed where it was or went to the east, the traffic, and the impact onto
+       11400 South would not be any different.
+
+       Councilmember T. Lowery asked if there would be a light for the exchange.
+       Mr. Cooley said that there was not a light at that point. There was a restrictive
+       median on 11400 South. This made it so that you couldn’t turn left out of the
+       subdivision. It was possible to turn left into the area. He said there was a
+       second access point for Big Willow. They were constructing it through Jenson
+       Farms. The culvert was being constructed and the bridge would follow. He
+       said it was quite a structure they were undertaking. He said the Big Willow
+       subdivision was limited to 30 units until the second access was provided. He
+       said that even though there were more platted, additional structures could not
+       be built until the second access was in place. By providing the second access,
+       many of the issues on 11400 South would be alleviated.
+
+       Councilmember T. Lowery asked if the secondary access would allow
+       residents to exit onto 11400 South with a light. Mr. Cooley said that 11400
+       South was a UDOT road and that UDOT did not plan to install a light. He said
+       that there was a signal at 700 West. The secondary access would go out onto
+       700 West which could lead residents to the signal to turn onto 11400 South.
+
+6.7    Councilmember F. Lowry asked if Mr. Cooley was representing the applicant.
+       Mr. Cooley said that the applicant was online, but was not planning on saying
+       anything unless the Council wanted to hear from him. He also told
+       Councilmember T. Lowery that they had reviewed the road application. The
+       road application had not been approved, but staff had provided enough
+       comments that the Engineering Department was comfortable with the
+       application.
+
+6.8    Bryon Prince, with Ivory Development, said that he appreciated Mr. Cooley’s
+       thorough review. He felt like what Mr. Cooley said was accurate. He said he
+       would be happy to answer any questions the Council had.
+
+6.9    Councilmember Vawdrey moved to approve Ordinance #1483, and adding the
+       verbiage of “and the acceptance of the constructed Phase 6 public
+       improvements by the city.” Councilmember F. Lowry seconded the motion.
+
+6.10   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+                                                                        Page 26 of 38
+7.0   Public Hearing: Ordinance #1485, an ordinance of Draper City amending the
+      text Section 9-23-110 of the land use and development code of Draper City
+      Municipal Code relating to landscaping and hedgerows in land use buffers.
+
+7.1   Todd Draper, Planner, said the amendment was based on concerns of the
+      Planning Commission and City Council when the land use buffer changes were
+      brought before both bodies. Concerns were focused on the ability of the
+      Planning Commission to consider hedgerows that were 5’ tall in place of an 8’
+      fence. The change to the code simply removed hedgerows as a potential
+      consideration by the Planning Commission when approving deviations to land
+      use buffer requirements. Additional clarifications are provided that any
+      approved reduction in land use buffer width may not include reductions to the
+      quantity or quality of landscaping associated with the buffer area.
+
+      Mr. Draper displayed the full text and its amendments of the code. The
+      Planning Commission forwarded a positive recommendation from their March
+      25, 2021 meeting with a vote of 5-0.
+
+7.2   Councilmember T. Lowery thanked Mr. Draper and staff because she felt this
+      was a change for the better.
+
+7.3   Mayor Walker opened the public hearing, no one came forward.          Mayor
+      Walker closed the public hearing.
+
+7.4   Councilmember T. Lowery moved to approve Ordinance #1485, amending the
+      text of the Draper City Municipal Code relating to landscaping and hedgerows
+      in land use buffers. Councilmember Vawdrey seconded the motion.
+
+7.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Action Item: Resolution #21-13, on the request of Dave Mast, representing DJ
+      Investment Group LLC, for a ninth amendment to the Development
+      Agreement for Hidden Canyon Estates, Mercer Mountain Estates, and
+      Lakeview Heights. This amendment will modify fencing standards within the
+      Lone Peak Canyon phase of Hidden Canyon Estates, located generally at 2563
+      East Canyon Edge Drive.
+
+
+
+                                                                    Page 27 of 38
+8.1   Jennifer Jastremsky, Senior Planner, said that in 2015 the City Council entered
+      into a development agreement with the applicant for several developments
+      that were on top of the mountain. Hidden Canyon Estates was one of them.
+      The majority of Hidden Canyon Estates was already completed. Lone Peak
+      Canyon was the final phase in the Hidden Canyon Estates. She oriented the
+      Council to the location of Hidden Canyon estates relative to SunCrest Drive
+      and indicated the portion of the property that remained to be developed in
+      the Lone Peak section of the development.
+
+      Ms. Jastremsky continued that the last phase of development was surrounded
+      by City-owned property and open space, the majority of which was in a
+      conservation easement. The existing development agreement required the
+      developer to install wrought iron fencing along the boundaries in the Hidden
+      Canyon Estate and Mercer Mountain Estate developments where the property
+      is adjacent to City-owned property before issuance of building permits for the
+      phase of subdivision development to avoid encroachment. The previous
+      development phases were completed by Edge Homes. They did the site
+      improvements, graded the lots, and built the homes. Lone Peak Canyon was
+      a little different. The developer came in and installed the public roads and
+      utilities, but was going to sell each lot to people to build custom homes.
+      Because of this, they would rather not install the wrought iron fencing when
+      homeowners would come in and grade their lots with their individual
+      construction one at a time.
+
+      The proposal before the Council with the development agreement would allow
+      for individual homeowners or property owners to install a temporary, chain
+      link fence along the property line adjacent to city property before pulling the
+      building permit. This would ensure that there was not any encroachment. The
+      permanent wrought iron fence would be required to be installed before
+      occupancy of the home. This would ensure the protection from possible
+      encroachment during construction and ensure that the city got the wrought
+      iron fence before occupancy.
+
+      Ms. Jastremsky displayed the language. She said that it indicated that the
+      property owner was responsible for ensuring the property lines. Staff,
+      however, had gone out and checked the survey marks along city property to
+      verify that the developer had marked property lines correctly. Staff confirmed
+      they had been marked correctly so the fences should be appropriately placed.
+
+
+
+                                                                     Page 28 of 38
+      Councilmember T. Lowery confirmed that the fence would be consistent
+      across the homes in all phases of the development. Ms. Jastremsky said that
+      was correct.
+
+8.2   Councilmember F. Lowry moved to approve Resolution #21-13, for a ninth
+      amendment to the Development Agreement for Hidden Canyon Estates,
+      Mercer Mountain Estates, and Lakeview Heights. Councilmember T. Lowery
+      seconded the motion.
+
+8.3   Councilmember F. Lowry said that his biggest concern was to make sure that
+      the property lines were properly identified. He said he appreciated that Ms.
+      Jastremsky had confirmed them.
+
+8.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0   Public Hearing: Ordinance #1482, adopting a Transportation Impact Fee
+      Facilities Plan (IFFP) and a Transportation Impact Fee Analysis (IFA); providing
+      a Transportation Impact Fee Enactment; providing a Transportation Impact
+      Fee; establishing a service area; providing for Impact Fee calculations and
+      imposition on development activity; and providing for other matters as
+      required by the Impact Fee Act.
+
+9.1   Bob Wylie, Finance Director, said that Ordinance #1482 allowed for the review
+      of the Transportation Impact Fee. He said that the city had been working on
+      this for a year and a half. He said that there were a few things the Council
+      needed to look at in the ordinance.
+
+      The first item was the Impact Fee Facilities Plan (IFFP). The city contracted with
+      Parametrics to perform the facilities plan. The second item was the Impact Fee
+      Analysis (IFA). The city contracted with Lewis, Young, Robertson, and
+      Burningham. This analysis was what came up with the transportation impact
+      fee.
+
+      Mr. Wylie pointed the Council towards Table 1 of the IFA “Transportation
+      Impact Fee.” He explained that there used to be two impact fee areas: areas A
+      and B. The new impact fee would be one combined service area.
+
+
+
+
+                                                                       Page 29 of 38
+       The IFFP outlined the proposed fee. The IFFP and the IFA were discussed with
+       the City Council on February 2, 2021, during a work session. He said that the
+       new proposed fee had a reduction in all of the categories. The ordinance
+       would satisfy Utah Code 11-16-36a regarding impact fees. The IFFP was
+       projected out to the year 2050 with the projects that had been involved. He
+       said that the IFFP did identify about $14 million in projects with $5.2 million
+       presenting into the impact fee.
+
+9.2    Mayor Walker opened the public hearing. No one came forward so Mayor
+       Walker closed the public hearing.
+
+9.3    Councilmember F. Lowry moved to approve Ordinance #1482 adopting a
+       Transportation Impact Fee, providing a Transportation Impact Fee Enactment;
+       providing a Transportation Impact Fee; Establishing a service area; providing
+       for Impact Fee calculations and imposition on development activity; and
+       providing for other matters as required by the Impact Fee Act.
+       Councilmember Vawdrey seconded the motion.
+
+9.4    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Action Item: Ordinance #1486, an ordinance amending Title 3 of the Draper
+       City Municipal Code regarding general rules for city committees and
+       designating the number of members of the Historic Preservation Commission
+       constituting a quorum.
+
+10.1   Mr. Barker explained that the ordinance proposed to do three things:
+
+       1. Amendment to Draper Municipal Code (DCMC) 3-1-150 would expand the
+          scope of what the city called “subordinate bodies” that the City Council can
+          create to assist in administering the city. The current list of bodies including
+          agencies, boards, bureaus, committees, or commissions would be replaced
+          by “any subordinate body.” The reason behind this change was that the
+          listed language limited the types of bodies that could be created.
+
+       2. Amendment to DCMC 3-1-60 would clarify general rules for all committees.
+          This section of the code already had some common rules for all
+          committees. New language (indicated by underline) included that:
+
+
+
+                                                                         Page 30 of 38
+             a. Committees are advisory and do not speak or act on behalf of the
+                city.
+             b. Members are appointed to four-year terms by the Mayor with the
+                advice and consent of the City Council.
+             c. Chairs appointed by the Mayor are to serve two-year terms.
+             d. Committees may appoint a vice-chair.
+             e. City Council may remove members.
+             f. Members are not compensated.
+             g. Follow OPMA and GRAMA, who can convene a meeting.
+             h. City Council may allocate funds and direct how funds are spent.
+             i. A city employee is assigned as an advisor for each committee.
+             j. A quorum is three members. All motions require three affirmative
+                votes or a majority of members present, whichever is greater.
+             k. May conduct electronic meetings.
+
+
+
+       3. Amendment to DCMC 3-1-180 would change the minimum number of
+          members on the Historic Preservation Committee to three and stated that
+          a quorum is three members.
+
+       Mr. Barker noted that this was the first part of an overhaul of these provisions
+       regarding boards and commissions. He said that staff anticipated the second
+       part of this text amendment would be before the Council at its next meeting.
+
+10.2   Mayor Walker asked to look at the changes made to DCMC 3-1-160. He wanted
+       to know if these changes would apply to all committees. Mr. Barker said that
+       Mr. DuShane had taken the lead on this project. He said that there might be
+       some name changes so that there were three primary names: agencies,
+       commissions, and committees. He said that there were some definitional
+       things associated with calling an entity a board that implied they had more
+       administrative authority. He said that the Planning Commission and the
+       Historic Preservation Commission would address some of the rules for their
+       entities internally with a section of the code specific to those bodies. The
+       amendments to DCMC 3-1-160 would apply to all entities that just had advisory
+       power. Both the Planning Commission and the Historic Preservation
+       Commission had the authority to make some final decisions.
+
+       Mayor Walker said that he had three concerns. First, he wanted to know if the
+       Council wanted term limits on committees. Two, if someone from the Historic
+
+                                                                       Page 31 of 38
+Preservation Commission was talking to the press on behalf of the city, thus
+creating a problem that warranted removal, should that removal come back
+to the Council, or should that removal be the responsibility of the mayor?
+
+Mr. Barker said that the code currently read such that the removal of
+committee and commission members was the responsibility of the mayor.
+
+Councilmember F. Lowry asked if the removal of a committee or commission
+member could be worded in the same way as a member’s appointment. For
+example, committee members may be removed by the mayor with the advice
+of the City Council. Mr. Barker said that he thought so. He said that he had
+not looked into the state code to see if anything applied to that situation.
+
+Councilmember Green felt like the mayor should be able to make the decision,
+but that if the person removed wanted to appeal then they could come to the
+Council. He said that he would rather that the mayor was just able to decide
+since he was the person who appointed the member in the first place. Mr.
+Barker said that the only issue he had with that was that it almost gave the
+committee member a property right and a right of due process. He said that
+he didn’t think that committee members had that. The process would be a
+new and novel approach.
+
+Councilmember Roberts said that he would like to see the removal process
+streamlined to give the mayor more authority to remove committee members.
+Mr. Barker said that assuming no impediment in state law would bar the ability
+to give the mayor more authority, it was something that staff could bring back
+to the Council with next week’s amendments.
+
+Councilmember F. Lowry said that he liked the idea of term limits. He felt like
+that was important for committee chairs. He said that he had a concern about
+putting term limits to serving on a particular committee because there were
+some committees where if term limits were applied they wouldn’t have a
+committee soon. However, there were other committees where there were
+people on a waiting list for the opportunity to serve.
+
+Mayor Walker said that was the question: how do you give more people who
+want to serve the opportunity to do so? Councilmember Roberts said that he
+heard Councilmember F. Lowry’s point, but that he supported term limits. He
+felt like there should be more frequent turnover on some of the committees.
+
+                                                               Page 32 of 38
+He heard his fellow councilmember’s point and did think that was something
+to be considered.
+
+Councilmember F. Lowry asked if there were no new applicants if those who
+had met their term limit could be reappointed. Councilmember T. Lowery said
+that brought up the question if committee members should have a four-year
+term. She said that if terms were reduced to three or two years there would
+be more fluctuation. She asked if everyone on the new diversity board was
+serving four-year terms.
+
+Mr. Dobbins said they were staggered at the beginning so that they didn’t all
+end at the same time. Members were serving four- and two-year terms. After
+those serving two-year terms were replaced they became four-year terms.
+
+Councilmember F. Lowry brought up the question about the City Council
+setting the number of members. He asked if the Council wanted to adjust the
+number of members on a committee if it required an action item at a Council
+Meeting.
+
+Mr. Barker said that it would. He said that what was seen was that some
+committees were more popular than others. Some people were invested in
+an issue and were happy to serve as long as they could. For others, the
+number of members required was set too high and there was not enough
+interest by the community to staff that committee.
+
+Councilmember Vawdrey said that she thought that was a concern with term
+limits. Baring wildly popular committees, the rest were struggling to get a
+quorum. Further, she thought that when a four-year term comes up, the
+mayor should re-evaluate if people were fine.
+
+Mayor Walker said that maybe he should have his policy about how he figured
+out the number of terms people could serve. Mr. Barker said that yes if
+someone got to the end of their term, the mayor had the inherent authority to
+not reappoint. In other words, the mayor was already the gatekeeper to term
+limits.
+
+Councilmember F. Lowry provided a current example of the Tree Commission.
+He said that the commission had met that morning. The chair mentioned that
+there were a few members who had been appointed to that committee that
+
+                                                             Page 33 of 38
+had not been responsive the last few months. The chair had reached out to
+those members to see if they were interested in continuing. At the same time,
+there was a list of individuals who had expressed interest in being on the
+commission. The Tree Commission chair wanted to know the process to get
+the individuals who were not participating removed so that they could get the
+new ones in.
+
+Mayor Walker summarized that they needed to clarify the ability to remove
+someone who was not participating and the ability to remove someone who
+was not following the rules.
+
+Councilmember T. Lowery asked if the conditions for removal had to be
+formalized by outlining the number of meetings missed, etc. Mr. Barker said
+that he had seen that in ordinances in other cities. Some read that if you miss
+a third of the meetings you have abandoned your spot.
+
+Councilmember F. Lowry said that there could be special circumstances that
+could be considered.
+
+Councilmember Vawdrey said that if a chair let staff or the Council know of a
+problem, could the city not send out a letter or make contact to inquire if
+someone wanted to continue in the position. Those who were no longer
+interested could be removed or resign.
+
+Mayor Walker said that the Parks and Trails Committee was an excellent
+example. There was an expectation that once you get on it you just keep
+serving and serving and serving. He said that some people had been on for a
+long time. He wanted to balance the committee a little bit with more women
+to give it more perspective.
+
+Councilmember T. Lowery said that was an excellent point. She said that there
+were lots of people who were waiting for turns. As much as the Council values
+the people who currently serve, she felt like it was equally important to give a
+new voice.
+
+Councilmember F. Lowry said that there were applicants for the TRSSD who
+were showing interest in the city and who would be interested in serving in
+another area.
+
+
+
+                                                                Page 34 of 38
+Councilmember T. Lowery said that she felt as though there was a similar
+situation with the Planning Commission. There were plenty of people who
+were interested in serving on the Planning Commission.
+
+Mr. Barker said that there were some applicants and those who served as
+alternates who were very invested in that service.
+
+Mayor Walker said that he did not mind moving alternates up. However, he
+would like a term limit on some committees and commissions so that it wasn’t
+arbitrary for him. He didn’t want to be accused of someone being removed
+based on personal reasons. He wanted to know who the longest-serving
+planning commissioner was and how long they had served. Mr. Dobbins said
+that the longest-serving member had probably served two or three terms.
+
+Councilmember Roberts asked if term limits could be attached to certain
+committees and have others that had less interest go without term limits. Mr.
+Barker said that the term limit was two four-year terms. That would give the
+mayor the ability to replace at the end of the first term.
+
+Councilmember Roberts said that he liked having some kind of mechanism
+that was less arbitrary around some of the committees. Councilmember T.
+Lowery said that she agreed with that. She felt there should be a little bit of
+accountability too. She said that if someone was not showing up to events or
+workdays, or was consistently missing meetings, that would be an indication
+that someone should be removed.
+
+Mayor Walker asked how most cities handled the Planning Commission. He
+asked if the long-serving commissioner was typical in most cities. Mr. Dobbins
+said that he thought that Planning Commission was different because the
+education piece was lengthy and changed quite a bit. The experience was
+valuable to have.
+
+Councilmember F. Lowry said that the history of being able to understand
+what had happened over the years was also important. Longstanding
+members provide a different and helpful perspective. That perspective can
+also be detrimental because a longstanding member can develop an influence
+that wasn’t healthy. He said that you had to get new ideas. That was part of
+his thinking for the TRSSD; it might be good the get someone who was fresh
+and new to the city.
+
+                                                               Page 35 of 38
+Councilmember T. Lowery said that was part of the reason why they picked
+Councilmember Roberts for the TRSSD. He was fresh and look at where he
+was now.
+
+Mayor Walker said that the key point was that these committees and
+commissions knew that they did not speak for the Council, ever! It wasn’t their
+job. They did not get to go to the press independently and make statements
+or speak for the Council. It needed to be clear that if a committee or
+commission member did that, they were done.
+
+Mr. Barker said that the way the language was drafted, removal is without
+cause. He said it could be a simple process. The mayor did not have to wait
+for malfeasance. If someone was not showing up, he thought that was where
+a chair could step in to communicate to the Council and mayor that someone
+needed to be removed to make room for someone on the waiting list.
+
+Mayor Walker said that regarding the Planning Commission he felt like it made
+sense to move alternates into the regular spots because they have vested a lot
+of time, education, and training. Mr. Barker said that to their credit, alternates
+come out to every meeting and often just sit, observe, and not participate
+because all of the regular members were in attendance.
+
+Councilmember T. Lowery said that she felt like there was an opportunity with
+the new Communications Director to do a little bit more public outreach for
+some of the committees with lower interest. She said she thought that people
+would step up and volunteer for some of the committees if they knew about
+them. Councilmember F. Lowry said he thought that was a big thing: knowing
+about availability to participate.
+
+Mayor Walker said that he thought they had some committees that were doing
+great stuff. He cited the Tree Commission, the Historic Preservation
+Commission, and the Diversity Board.
+
+Councilmember T. Lowery said that the Arena Board was going to have a great
+concert, it just got killed by the pandemic.
+
+Councilmember F. Lowry said that just like they recently created the Diversity
+and Inclusion Board, there might be other new committees that needed to be
+
+                                                                 Page 36 of 38
+       created as the city changed. He asked if there was anything that prevented
+       the Council from creating new committees.
+
+       Councilmember Vawdrey asked if the ordinance needed to be passed. Mr.
+       Dobbins said that some of this would be valuable to have done right now.
+       Without the part about speaking on behalf of the city, that was not in the code
+       at all. He preferred that the Council adopt the ordinance and then staff bring
+       it back for additional amendments.
+
+10.3   Councilmember Vawdrey moved to approve Ordinance #1486, amending
+       Draper City Municipal Code regarding general rules for city committees and
+       designating the number of members of the Historic Preservation Commission
+       constituting a quorum. Councilmember Roberts seconded the motion.
+
+10.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+**     Chief Clint Smith wanted to provide the Council with an update on the new
+       firefighter hires and training process. He reminded the Council that the
+       additional six positions were approved by the Council in January. Those six
+       positions, along with one vacancy were hired for a total of seven new hires.
+       They had been in the recruit training process and combined camp hosted out
+       in West Valley with other new hires by West Valley, West Jordan, and South
+       Jordan Fire Departments. There were 14 total trainees in the camp, half of
+       whom were Draper firefighters. He said that all seven hires had been
+       performing well and had actually been the leaders and at the top of their class
+       while out there. The trainees were nearing the end of the fire training process.
+       They would graduate from the fire training academy next Thursday at 1:00
+       p.m. He wanted to make the Council aware of that and extend an invitation.
+       He was just made aware tonight that they were looking for a new venue to
+       host the graduation. He would get the information to the Council as soon as
+       he had the information. There would be one additional in-house week of
+       medical training before the recruits hit the streets at the end of April. He said
+       that the department was very excited to have these new folks as part of the
+       team and fire family.
+
+**     Mr. Dobbins wanted to introduce Linda Peterson, Draper’s new
+       Communications Director. He said that she had spent 15 years with the City
+
+
+
+                                                                        Page 37 of 38
+       of Eagle Mountain. He was looking forward to having her as a part of the
+       Draper team.
+
+11.0   Adjournment
+
+11.1   Councilmember Green moved to adjourn the meeting.         Councilmember F.
+       Lowry seconded the motion.
+
+11.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+       and Vawdrey, voting in favor. The motion passed unanimously.
+
+11.3   The meeting adjourned at 8:14 p.m.
+
+
+
+
+                                                                    Page 38 of 38
+

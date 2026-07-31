@@ -1,0 +1,631 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07282025-942
+> Meeting date: 2025-07-28
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2025-07-28
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_07282025-942
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                            Minutes             of the
+                                                                                      Millcreek            City       Council
+                                                                                               July       28, 2025
+                                                                                                   6:00        p.m.
+                                                                                            Work           Meeting
+                                                                                                   7:00        p.m.
+                                                                                          Regular              Meeting
+
+
+The City       Council        of Millcreek,              Utah, met in a public            work     meeting            and regular      meeting        on July
+28, 2025,       at City      Hall,     located       at 1330 E. Chambers                Avenue,        Millcreek,            UT 84106.        The meeting
+was recorded           for the City's             website     and had an option            for online           public       comment.
+
+
+PRESENT:
+
+
+Council       Members                                                                   City      Staff
+Jeff Silvestrini,          Mayor                                                        Mike      Winder,          City      Manager
+Silvia     Catten,      District       I (electronic, left at 7:02pm)                   Elyse      Sullivan,          City    Recorder
+Thom       DeSirant,        District        2                                           Francis       Lilly,       Assistant       City Manager
+Cheri      Jackson,       District      3                                               John Brems,               City    Attorney
+Bev Uipi,       District      4                                                         Kurt     Hansen,          Facilities       Director
+                                                                                        Rita Lund,          Communications               Director
+                                                                                        Kayla      Mayers,            Promise      Program       Director
+                                                                                        Lisa Dudley,              HR-Finance          Director        (electronic)
+
+
+Attendees:        Nancy        Carlson-Gotts,               Rick     Hansen,     Gregg      Golden,         Chief        Petty-Brown,         Chief      Zach
+Robinson,        Chief      Jon Wilde,            James Kelsey,          Pam Roberts,            Paul Wood
+
+
+WORK          MEETING                - 6:00 p.m.
+TIME        COMMENCED:                          6:01 p.m.
+
+
+
+Mayor       Silvestrini       called        the work       meeting       to order.
+
+
+1. Unified       Fire      Authority             Quarterly         Report;      Assistant         Chief        Zach       Robinson
+   Mayor        Silvestrini         expressed         appreciation         for the work          UFA       did on the recent            apartment
+   buildings         fire in Millcreek              and noted UFA             would     give a report             on it during       the regular
+   meeting.
+
+
+   Chief      Robinson         reported           during     that the second          quarter,     UFA         responded         to 1,484     total
+   incidents       within      city boundaries,               with     479 classified       as emergent-approximately                            32% of all
+   calls, a slight         decrease         from     the previous         quarter.      Call volume             showed         a steady increase          from
+   April     to June, correlating                 with     warmer      weather       and school           closures.       Incident      totals have
+   remained          consistent        over the past three years.                The department                 responded        to 10 structure          fires,
+   10 vegetation           fires,      and various          other fire-related         calls. Emergency                  medical     responses         were
+   dominated          by falls,        sick person          reports,    head injuries,          breathing          issues, and vehicle            accidents,
+   typical     for the area. The department                        received      mutual        aid support          for 66 incidents          and handled
+Millcreek        City      Council            Meeting          Minutes                                                        28 July        2025           Page      2 of 11
+
+
+
+   a range       of public         services           and false        alarm          calls.      Station      101 remained                the busiest,           with        Engine
+   101 and Ambulance                     101 leading              in call volume.                  Ambulance              104 responded               frequently              due to
+   the absence            of an ambulance                  at Station           112,      with       part-time        ambulances              supplementing
+   coverage.          Response           times        improved              slightly,      with       a 50th       percentile          arrival       time      of 4 minutes,
+   35 seconds,            and 90th         percentile            at 7 minutes,              8 seconds.           The department                  also highlighted                  a
+   sharp      rise in wildland                fires    across        the state, with               over     672 reported             and more             than 100,000
+   acres burned,             462 of which               were      human-caused.                    Fire     restrictions           are in place           on public           lands,
+   and residents           are urged            to exercise            caution.          The      July     4th holiday            was managed                with     increased
+   staffing      and patrols,            resulting           in no significant                  incidents.        A new        low-acuity             unit     staffed        by
+   EMTs        was launched              August           1 to improve                response           efficiency         by handling             non-life-
+   threatening          calls      and reducing               strain        on busier           units,    especially          at Station          101.       Additionally,               a
+   fourth      battalion          was added            to improve              coverage            and reduce          the span of control                   for battalion
+   chiefs,      allowing          for faster          response         times        and more             focused          oversight.
+
+
+   A reorganization                of the UFA              liaison       program            also took          place,       with     each liaison             now      covering
+   five     cities    instead       of one. Battalion                  Chief        Jon Wilde             was introduced                as the new liaison                  for
+   MiIlcreek,          bringing         extensive            experience             and familiarity               with      the area after            serving         at Stations
+   101      and 112.       Outgoing             liaison       Chief         Robinson             expressed         gratitude           for his time           in the role          and
+   welcomed            Chief      Wild        to his new responsibilities.                           Battalion         Chief       Wilde         introduced           himself            to
+   the council.           The     council        welcomed              Chief         Wilde         and thanked             Chief       Robinson           for his work
+   with      Millcreek.
+
+
+2. Wasatch           Front        Waste         and       Recycling             District          Quarterly           Report;           Pam        Roberts,           General
+   Manager/CEO
+   James       Kelsey,         Sustainability             Coordinator,                  said Millcreek             currently         maintains            a 23%        waste
+   diversion         rate, unchanged                  from     last year            and above            the district's         18%        goal,      making          it the
+   highest-performing                   curbside-only                city      in the district.            Millcreek          represents           18%        of the district's
+   customer          base and contributed                     8,830         total     tons of waste              through        Q2 of 2025,               a slight       decrease
+   of 212 tons          from       the previous              year.     Recycled            tonnage           came         in at 1,561        tons,        down       82 tons
+   from       last year and representing                       16%          of total      district        recyclables.          Green        waste        increased           by 18
+   tons to 825 tons,               due to 127 new                 customers              joining         the green         waste       program,           accounting              for
+   27%       of the district's           green        waste       tonnage-well                    above       what        would      be expected              based       on
+   population.          Notably,         Millcreek             accounts             for 51%          of the district's             glass     recycling           tonnage,
+   despite      having         only     7.3%          of curbside            glass subscribers;                 this strong          performance               is attributed
+   to multiple          central       drop-off          sites within            the city.
+
+
+   Millcreek          also ranks         as the second-cleanest                          city     in the district           for recycling,            narrowly           behind
+   Cottonwood             Heights.           Clean      recycling             significantly              reduces      processing             costs,       which       are
+   impacted          by contamination                   rates.    Common                 contaminants              include         plastic       films,      tarps,      scrap
+   metal,      Styrofoam,             food      waste,       and automotive                     parts.    The      city     combats          contamination               through
+   public      outreach,          school        events,       route         audits,       and driver          reports,        which        have       increased          by 42%
+   from      the previous             year.     Contaminated                  cans are tagged                and left un-serviced,                    followed           by
+   inspection         and resident              outreach         to ensure              compliance.           As a result,           Millcreek's              clean      recycling
+   rate improved             from       80%       in Q2 2024                to approximately                 86%       in Q2 2025.
+
+
+   To better         illustrate       the environmental                      impact        of recycling            efforts,        the district        uses EPA-based
+   calculations           to estimate           resource          savings.          Based          on the 1,561             tons of recyclables                  collected          in
+   Millcreek,         the city        is estimated            to have          saved       7.8 million            gallons         of water,        preserved           18,055
+Millcreek         City      Council      Meeting         Minutes                                             28 July       2025       Page 3 of 11
+
+
+
+   trees, conserved             6,013 megawatt-hours                  of electricity,          avoided      3,107 metric          tons of greenhouse
+   gas emissions,             and diverted           2,601     cubic yards of landfill             space. These figures              underscore              the
+   significant           environmental          benefits        of Millcreek's        recycling        and diversion          programs.
+
+
+   Pam Roberts              provided         updates     on several         key programs           and organizational             changes.          She
+   began by announcing                   the return       of the highly          popular       seasonal      container       reservation,            or
+   "scrap"       program.        Postcards           to residents     began mailing             on July 28, with           Millcreek's          delivery
+   window          scheduled          from     August      28 to September            26. A new tiered             reservation         system         was
+   introduced            this year to prioritize             residents      who were previously               waitlisted.       With       10 current
+   drivers,       the program          can deliver        up to 60 containers              per day, far fewer             than in past years when
+   a larger       staff supported            the program.         The shift to the current               container-based            model,          rather
+   than the old street-pile                  system,     has improved            safety    and operational           efficiency.
+
+
+   Roberts        also shared that she will                  be retiring      at the end of September                and thanked            the council
+   and community               for their support.              As part of the succession               planning      efforts,      the district           has
+   conducted             leadership     retreats       and engaged          a consultant        to ensure        a smooth       leadership
+   transition.       The board          recently       extended       an offer      to a new general             manager,        who accepted                and
+   will    begin     August         25, allowing         for a month-long             transition       period.     The organization                 is focused
+   on key priorities            such as mission              aligru'nent,     service      delivery,      fee sustainability,              and future
+   truck     procurement.             While     financial        advisors     recommended              additional         fee increases         in 2026
+   and 2027, the district               plans to delay any increases                   until    2028 due to current               fiscal    stability.
+   Challenges            were noted with             selling     aging     CNG     trucks,      primarily        due to limited         market
+   demand         and infrastructure.            Diesel        vehicles      are now being          prioritized       for replacement.                Roberts
+   said communication,                  accountability,           and consistency            remain      top leadership           priorities,
+   symbolized             by "elephants         in the room"         placed       in management             meetings        to ensure these values
+   stay front       and center.
+
+
+  The mayor              and council         expressed         appreciation       to Roberts        for her work.
+
+
+3. Community                Councils         and the Utah          Open       and Public         Meetings          Act;    Francis         Lilly,
+  Assistant          City     Manager
+  Francis        Lilly      shared findings           and recommendations                  regarding        the legal status and future
+  structure        of the community               councils       in the city.      Following          a training      in January           2024 that
+  featured        representatives             from     the Utah League            of Cities      and Towns          and the Utah Property
+  Rights        Ombudsman,             concerns        were raised          about whether           community          councils       qualify         as
+  public        bodies      under     state law. In August               2024,    the Ombudsman               issued an informal                opinion
+  affiiming         that Millcreek's            community           councils       meet the definition             of public       bodies       and are
+  therefore        subject      to the Utah          Open and Public             Meetings        Act (OPMA).              This determination                 was
+  based on the councils'                unique         status under         city ordinance,         which      grants them formal                   roles in
+  making         land use and budget                 recommendations,              among        other functions.
+
+
+  If enforced,            OPMA        compliance         would      require       community          councils       to post meeting             agendas in
+  advance,         record      and publish           minutes,      adopt and submit             bylaws       to the City        Council,        and
+  manage         all communications                  and documents            under    public      record     laws (GRAMA).                  Staff
+  warned         that this would          create logistical          and financial          burdens,        potentially       undermine             the
+  councils'        independence,              and alter their       grassroots        nature,      turning       them into more formal
+  entities,      similar      to planning        commissions.              This could        also expose the city to procedural
+  liabilities      if requirements             are not met.
+Millcreek         City     Council           Meeting            Minutes                                                       28 July         2025            Page      4 of 11
+
+
+
+
+   As an alternative,                staff    proposed            adopting          a model          used by Salt Lake                      City,       which      replaced
+   fon'nal     community                councils        with        more      loosely        defined        "Recognized                    Community
+   Organizations"                (RCOs).         RCOs           operate       independently                 but     still     receive        project        notices       and can
+   provide        feedback           to the city.         They         are not required               to hold        official         elections          or adhere           to the
+   formalities           of public         bodies,       giving         them       greater        flexibility         in how          they       function         and organize
+   themselves.            This     model        allows          broader         stakel'iolder            involvement,               including           businesses,             and
+   has proven            effective         in maintaining               public       engagement                 without         legal       complications.
+
+
+   Staff     emphasized              two     main       goals       moving          foi'ward:         (1) preserving                 the valuable             advisory           role          of
+   community             councils,           and (2) involving                 them      collaboratively                    in revising          city     code to reflect                  a
+   more      flexibIe,       less formal             structure.         They       proposed              a timeline           for implementing                    changes         by
+   December          2025,         allowing           sufficient         time      for transition               and bylaw            updates.           Ultimately,             the
+   recommendation                  is to reduce           regulatory             oversight          while        maintaining                the councils'             ability         to
+   offer     meaningful            recommendations,                     honoring           their      legacy        and enhancing                    operational
+   sustainability           for both          the city         and the councils              themselves.
+
+
+   Mayor       Silvestrini           expressed           appreciation              for the important                 role      community                councils         have
+   played      in Millcreek's                civic     life,    emphasizing              their      historical          roots        and longstanding
+   contributions            to the community.                    While        acknowledging                     the informal               opinion        from        the Utah
+   Property        Rights         Ombudsman,                   which       concluded          that       community                 councils         may       be considered
+   public      bodies       subject          to OPMA,            the mayor             voiced        concern          and disagreement                     with       aspects          of
+   that conclusion.               Specifically,            the mayor            took     issue       with       the claim            that    community                councils
+   were      created       by the city,          clarifying            that they        were        not, though              the city        has granted              them
+   certain       authorities            and formal         recognition             within         city     processes.
+
+
+   The mayor             raised      concerns          about        the potential           burden          of full         OPMA            compliance            on these
+   volunteer-led            organizations,               which         have      limited      resources.             Requirements                    such as public              notice
+   postings,        formal        minutes,           meeting         recordings,            and strict           procedural               standards        could        impose
+   undue      pressure           and reduce           the flexibility              and independence                    that have            been        key to their
+   effectiveness.           The mayor                also noted          that requiring              consistent             city    staff     presence           at council
+   meetings        might          inadvertently            stifle      open      dialogue,           particularly             since         community             councils            have
+   historically          served         as watchdogs              of local        government,               something               that     could       be compromised
+   by increased            formal        oversight.
+
+
+   While       open to revisiting                and modernizing                    the city's           relationship              with      community             councils,               the
+   mayor       emphasized               the importance                 of maintaining               the spirit         of coinmunity-led                      input     and not
+   sacrificing        the councils'             unique          character.          The mayor              acknowledged                     the Salt Lake             City      RCO
+   model       as a possible             alternative           but stressed            that any changes                     should        be developed
+   collaboratively               with      the councils            themselves.           The       mayor          concluded               by affirming            the value
+   that     community             councils       bring         to planning           and development                        discussions           and reiterated                the
+   need      for a thoughtful,               community-driven                      process         before         adopting           any formal            changes.
+
+
+   Council        Member           Jackson           said the community                    councils          provided              valuable          input,      but she
+   wanted        to comply           with      law.     Council          Member            Uipi      agreed.         She asked              if community                council
+   boundaries            could      align     with      council         district       boundaries.              Council            Member            Jackson          said the
+   borindaries           would       not impact           the Ombudsman's                       opinion.          Mayor            Silvestrini          said they         are
+   private     organizations,                and the city            does not set their                  boundaries.               He noted          how      large     the
+Millcreek         City     Council         Meeting        Minutes                                             28 July         2025          Page 5 of 11
+
+
+
+   Millcreek         Community             Council        boundaries          are. Lilly      said he would            meet with            each community
+   council        to discuss      the issue in September.
+
+
+4. Staff     Reports
+   There      were no reports.
+
+
+5. Discussion            of Agenda          Items,      Correspondence,                 and/or      Future          Agenda          Items
+   There      was     none.
+
+
+Council      Member           DeSirant            moved       to adjourn         the work         meeting           at 7:02 p.m.            Council
+Member        Uipi       seconded.         Mayor        Silvestrini          called     for the vote.         Council          Member           Catten
+voted     yes, Council          Member            DeSirant         voted      yes, Council          Member            Jackson          voted       yes,
+Councn       Member           Uipi      voted       yes, and Mayor              Silvestrini       voted       yes. The motion                 passed
+unanimously
+
+
+
+
+REGULAR              MEETING               - 7:00 p.m.
+TIME       COMMENCED:                       7:08 p.m.
+
+
+1. Welcome,          Introduction             and Preliminary                 Matters
+           1.1 Pledge         of Allegiance
+           Mayor         Silvestrini       called    the meeting           to order and led the pledge                     of allegiance.           He
+           then took a moment                 of personal         privilege       to report       that on July 25, a devastating                      fire
+           destroyed         24 units of moderate-income                       housing        in the city,         leaving     residents
+            displaced       and without           access to personal             belongings          or pets. The mayor                 expressed
+           deep emotion           and concern            for the individuals             affected,        while      also emphasizing
+           immense          gratitude       that there was no loss of human                       life.    The fire, described                by
+           seasoned         firefighters        as unprecedented              in scale and intensity,                was met with             a heroic
+           response        from      the Unified         Fire Authority           (UFA)        and the Unified             Police      Department
+           (UPD),        who quickly          evacuated          residents       and extinguished                 the blaze.       In addition        to
+           first responders,           the broader            community         played        a significant         role in the a'fternnath.               A
+           proclamation           recognizing           the city's      commitment             to volunteerism               was     highlighted,
+           with     the sixth floor         of city hall filled          with     donated        clothing,         hygiene         items,     and
+           supplies       for victims.        The city also launched                  a formal       donation         platform         to assist
+           impacted         families       with     relocation       and recovery          expenses.          The mayor             praised     the
+           overwhelming              comtunity           support      and announced              that both the fire and police
+           departments          would       provide       further      updates        on the incident             during     the meeting.
+
+
+           Chief     Robinson          reported        that as a result         of a field      fire that broke            out on Friday,           July 25,
+           four apartment            buildings         at the Willow          Glen Apartment               complex           were completely
+           destroyed,        each containing             12 units.      A total of 41 residents                   were displaced.             Fortunately,
+           there were no reported                  civilian      injuries.     In addition        to the buildings,                three vehicles          and an
+           apartment         storage       structure      were also lost. A temporary                      shelter     was established              by the
+           Red Cross at a nearby                  church,      but it was closed           Friday         night     after all residents             were able
+           to secure alternative             housing.         The shelter        reopened         on Saturday           to continue           supporting
+           displaced        residents.       Due to the extent               of the damage,          residents        of the destroyed              buildings
+           were informed             on Saturday          that they would             not be allowed              to return        to recover       personal
+Millcreek           City     Council          Meeting             Minutes                                                     28 July           2025         Page       6 of 11
+
+
+
+            belongings             or pets for safety                 reasons,        while       residents          of the undamaged                      buildings         were
+            permitted            to return        at 3 p.m.          that same day. The                    fire    developed            at a staggering                pace-
+            initially       reported          at 1:40         p.m.      as a field       fire,     it escalated            within       minutes            to threaten         and
+            engulf         nearby       apartment             structures.        By 1:52           p.m.,      evacuations              were       underway,                and by
+            2:18        p.m.,     the roof        of the first          building         had collapsed,               followed          shortly         by the second.
+            The rapid            escalation          left     firefighters          unable        to prevent           the fire        from      reaching            the
+            buildings            due to severe              conditions.         The report            concluded              with      an introduction                to Chief
+            Wilde,         the initial        incident            commander,            who       would           provide       further         insight       into     the event.
+
+
+            Battalion           Chief       Wilde,          the initial       incident        commander,               provided           a detailed            account          of the
+            fire.    Upon         his arrival,           the fire was approximately                          a quarter-acre              in size and burning                       on
+            both        sides    of an access road,                   spreading          at a moderate               rate. He immediately                       ordered
+            evacuations,             recognizing               the potential           threat      to the apartment                   buildings.           However,            a
+            sudden          gust of wind             significantly            accelerated            the fire's         spread,         making          it impossible               to
+            contain         despite         the rapid         arrival      of multiple            firefighting             units.     Witliin       minutes,           the fire
+            moved          through          grass, brush,             and large         cottonwood                trees,    overwhelming                   the scene.
+            Despite         limited         resources,            crews      and police           partners          successfully              evacuated          residents
+            with      no reported            injuries.         The fire        continued           to leap across              the area, sparking                    additional
+            spot fires,          including           one that threatened                 nearby          homes,         which         were       ultimately           protected
+            by additional             responding               units.     Within        ten minutes,               a strong         firefighting            force     had
+            assembled,             including             battalion        chiefs,      Type       1 and Type               6 engines,           and a tactical              water
+            tender-an              effort     aided         by Holladay             staffing       increases.           Nearly         every        fire    agency          in the
+            valley,        including          Park        City,      responded          to either         assist     directly         or cover          other        stations.
+            Unified         Fire     Authority's              wildland         resources           were       also essential             in addressing                hazard        trees
+            and flare-ups.              On the following                   day, as fire           operations           came         under       control,        crews        were
+            able to rescue              pets trapped              in the damaged                 buildings,          with      support          from       the animal            rescue
+            group        "Whiskers,"              which        used traps           and drones             to locate        missing           animals.        Notably,             two
+            cats were            successfully             recovered.          He also noted                four     firefighters          were         treated        on scene for
+            minor          smoke      inhalation.
+
+
+            UPD         Chief      Christine          Petty-Brown              reported           that     on July         25, 2025,          at approximately                   1 :44
+            p.m.,       multiple         911 calls           reported        a rapidly           growing          brush      fire     near the Willow                  Glen
+            Apartments.              Flames          reached          15-20      feet and were                within        30-40        feet      of the buildings.
+            UPD         officers        quickly          responded,           evacuating           four      apartment              buildings          and coordinating
+            with      the UFA,           which        began          suppression          efforts.         Two       southern          apartment             buildings
+            ultimately            caught      fire       and were         declared        total      losses,        with      limited         parking         access        initially
+            hampering              firefighting             operations        until      UPD        cleared         space for additional                     equipment.
+            Residents            were       relocated          to a nearby            church,       where          the Red Cross                provided         shelter,          food,
+            and medical              aid. During             this response,             a second,          unrelated           fire    was discovered                  about        400
+            yards        away,      prompting               the evacuation             of nearby           homes           and dispatch            of additional              UFA
+            units.       Off-duty         Millcreek            officers       were       called      in to assist with                patrol       duties,       allowing           for
+            uninternupted               police       operations            coordinated            under       unified         command.              Night        operations
+            included            continued         road       closures,        resident           escorts      to safe buildings,                 and police            presence
+            at the Red           Cross       shelter.         A department-wide                    email          requesting          persoru'iel          was quickly
+            answered.            On Saturday,                UFA,       Millcreek          officials,         building          management,                  the Red Cross,
+            and emotional                support          services        met regularly             to coordinate              response            efforts.         Drone
+            support         helped       provide            visual      assessments              of damage.            UPD          maintained             scene      security
+            and traffic           control        until      fencing        was installed,            and UFA               no longer          required          exterior
+Millcreek           City     Council           Meeting          Minutes                                                    28 July          2025          Page       7 of 11
+
+
+
+            support,          concluding            around        3 p.m.         Saturday.        The     scale of the incident                    required          patrol
+            resources          from        multiple         UPD       precincts-Millcreek,                      Holladay,           Brighton,           Emigration,
+            Kearns,          and Midvale-as                   well       as assistance           from      Murray         PD, the Sheriff's                  Office,            and
+            Utah       Highway            Patrol,      totaling          about      37 officers.         The     Millcreek           Investigations                 Unit
+            covered          routine        calls     during        the event.        Leadership           commended                 officers        for their
+            dedication            and noted           that recent         joint      incident       command             training         with      UFA        was
+            instrumental              in the effective              response.
+
+
+            Mayor          Silvestrini          said in the aftermath                  of the fire,        Millcreek            played        a critical        role       in
+            supporting            displaced           residents          through       a coordinated             team      effort.         City     employees,
+            including          several         department            heads,        were      present       at the emergency                  shelter         from      the onset
+            of the incident,               providing          immediate             assistance          and logistical            support.          The      Church         of
+            Jesus Christ             of Latter-day             Saints       generously           offered        a nearby          chapel          to serve      as the
+            emergency               shelter,     which,        although            not used overnight,                 became         a central         hub for
+            coordination              and support.            Kayla        Mayers,           Director      of Millcreek              Promise,           led efforts             to
+            collect        contact        information           from       affected          families      and begin             assessing          their     needs.        The
+            American            Red Cross             deployed           at least     five     volunteers         to assist with              shelter        operations,
+            providing           cash disbursements,                      food,     water,       and other        essential          supplies.         The      outpouring
+            of generosity              from      Millcreek           residents        was so significant-ranging                             from       donated            meals
+            to supplies-that                   volunteers           eventually         had to turn            people       away       due to space limitations.
+            Mayor          Silvestrini          expressed           deep appreciation                for Mayers            and her team's                 unplaru'ied            but
+            tireless       work       over      the weekend,              recognizing            the dedication                of both      city     staff     and
+            community               partners        in responding                compassionately               and effectively               to the crisis.
+
+
+            Kayla       Mayers           said thanks           to prior       emergency             management                 training,        she felt      prepared               to
+            step in and support                  fire-affected            residents          following         the incident.             She visited           the fire
+            scene Friday              to assess needs,               and returned             Saturday         to the evacuation                   site, where          she
+            partnered          with       the American               Red Cross          to directly           assist    displaced           individuals.             With         her
+            department's              experience            in helping            residents       secure       housing          and essential               items,     Mayers
+            spent      the day gathering                   information             on immediate            needs        like     clothing          and longer-term
+            housing          assistance.          Many        residents           fortunately        had temporary                 places         to stay,     allowing               the
+            city    time      to coordinate            lasting        solutions.          On Sunday,            Mayers           helped         close       the evacuation
+            site and began                organizing          the influx           of donations           arriving        at City        Hall.      She and her team
+            spent      Monday            sorting       supplies          and preparing            the sixth        floor        to serve        as a resource              hub        for
+            affected         individuals.            In addition,          they      began       coordinating            with       housing          partners,         tracking
+            availability,           and working              with     the city's          finance       department              to distribute           donated            funds
+            quickly         to those        in need.        The      Promise         team       is now      positioned            to assist         residents          with
+            basic      necessities,            coru'iect     them        to housing           resources,         and begin           issuing         financial          support
+            as early        as Tuesday              or Wednesday.
+
+
+            Mayor          Silvestrini         thanked         Mayers         and Rita          Lund,      Communications                    Director,           Jim Hardy,
+            Building          Official,        and other          city     staff    for their       efforts      in the aftermath                  of the fire.         Council
+            Member           Uipi      echoed         sentiments           on resident           and staff        support.         Council          Member             Jackson
+            noted      Home          Depot       donated          a lot of supplies              for the fire          victims.       Mike         Winder
+            emphasized              that monetary              donations           were       the most        helpful          at present         to give      to the
+            victims.        At that point             in time,       the city        had raised          $41,000+          in donations.
+Mnlcreek       City      Council          Meeting      Minutes                                        28 July     2025         Page 8 of 11
+
+
+
+          1.2 Unified           Police     Department          Millcreek         Precinct      Officer     of the Month           for June
+           2025
+           Chief      Petty-Brown           announced       Gregg       Golden     as Employee           of the Month          for June 2025.
+           In June, Golden             demonstrated         exceptional      initiative       and leadership         by developing           and
+           launching       an intern        program      for the agency,          all while    maintaining       his regular        duties.     He
+           proactively       reached         out to multiple       universities       and colleges,        organized        and conducted
+           several     interviews,          and successfully        secured       the agency's        first intern     to support      the
+           mental      health     unit,    a significant      milestone      in expanding           community         services.     Throughout
+           this effort,      Golden        continued       to manage       his mental        health   caseload       with   dedication         and
+           provided       consistent        support     to the patrol      division       on mental       health-related        calls. His work
+           reflects     the core values          of the agency          and establishes        a strong     foundation         for future
+           partnerships         with      academic      institutions.      Mayor      Silvestrini     thanked        Golden      for his work.
+
+
+          1.3 Commitment                   to Volunteerism          Proclamation
+           Mayor       Silvestrini        proclaimed       the following:
+
+
+             PROCLAMATION
+             COMMITMENTTO                       VOLUNTEERISM                IN MILLCREEK
+
+
+             TVHEREAS,the Millcreek Ciff Covmcil ("Cormcil") firmly believes that the vahtes of
+             compassion,empathy, and comntmity sttpport are thefoundation of a vmited,
+             harmonious ,wciety andfoster connections that transcend dijferences; and
+             WHEREAS,the strength and prosperity ofMillcreek is based on the selflessnessof its
+             residents to serve and vtplift one another; arxd
+             WHEREAS,the Council acknowledgesthe proformd impact that can be achieved when
+             people extend a helping hand to their neighbors, especially those of diverse
+             backgrovmds,and lift them ttp and collectively work to improve Lives;and
+             WHEREAS,Millcreek has departmentswithin the city that leverage thepower of
+             volunteerism,             such as the Promise          Program         and Emergency           Management;            and
+             WHEREAS,Millcreek nurtures a culture of giving within the city, emphasizing that
+             vohmteerism is not yttst a duty but a source of personal fitlfillmem and comn'tmity
+             strength; and as we workside byside with arxdlearn from each other, mvdual
+             rmderstanding increases, misconceptions can be corrected, and newfriendships are
+             built;    and
+             TVHEREAS,the Cotmcil urges all residents to care for one another, vohmteer, and
+             engage in acts of service and kindness that coritribute to Millcreek's betterment and its
+             inhabitants' well-being, regardless of backgrormd or belief; and
+             WHEREAS,Millcreek hasjoined a growing list of sttpporters, inchtding the President
+             of the National League of Cities and hvmdredsof leaders to date, in making a
+             commitment             to vohmteerism.
+             NOW,        THEREFORE,BEITPROCLAIMEDthatMillcreekcommitstopromoting
+             volunteerism, leveraging JustServe.org to make it easierfor residents to find and
+             engage       in volunteer         opporttmities        and will      regularly      acknowledge          and celebrate          the
+             contributions of vohmteers.
+             ADOPTED on this the 28th day ofJuly 2025 in Millcreek Utah.
+
+Council     Member           Jackson         moved      to adopt        this commitment             to volunteerism            in Millcreek.
+Council     Member           Uipi      seconded.       Mayor      Sivlestrini       called     for the vote.         Council      Member
+Millcreek       City      Council          Meeting       Minutes                                             28 July      2025       Page 9 of 11
+
+
+
+DeSirant       voted       yes, Council             Member        Jackson        voted     yes, Council          Member           Uipi     voted      yes,
+and Mayor           Silvestrini        voted        yes. The motion             passed     unanimously.
+
+
+            Paul Wood,            area administrator            from    JustServe,         said they were honored                 to partner         with
+            Millcreek.
+
+
+           1.4 Public         Comment
+            Elyse      Sullivan       read an online          comment          in regard     to support        for fire victims          received           from
+            Merri-Sue Cardwell, "We greatly appreciate that our car was towed to safety, but it
+            ended ttp incurring about $600 in charges for Z/S. We would appreciate it this was
+            addressed.        Thank you."
+
+
+2. Business         Matters
+            2.1 Discussion            and Consideration                of Resolution          25-30,         Approving        the Use of Up to
+            $12,000       for Relocation              Costs    for Residents            Displaced        by the Fire         at 4878 South                1300
+            East,    Known          as Willow         Glen     Apartments,             and to Amend             the Budget           to the Extent
+            Necessary         to Achieve            the Purpose         of the Resolution
+            Mayor       Silvestrini        said the initiative,         brought        forward       in response       to the urgent         and
+            devastating        nature       of the incident,          would      provide     $500 to each of the 22 displaced
+           households,         after confirming               that one unit was vacant               and another          resident       declined
+            assistance.       The funds are intended                  to help cover deposits,                increased     rent, and replacement
+            of personal       belongings            or vehicles,       though     the amount          will    not fully     meet the extensive
+           financial      needs resulting             from     the fire. The mayor            acknowledged             this is not a typical
+           municipal        action      but emphasized             the extraordinary              circumstances          and the city's
+           coinmitment            to supporting         affected       residents.       This funding          would      supplement         the
+           $41,000        already      raised through           community           donations,        and budget         adjustments         may or
+           may not be needed                depending         on the council's           decision.
+
+
+           Lisa Dudley         presented            four funding       options      to support        the proposed          disbursement             of
+           $11,000-$12,000                 to assist residents         displaced        by the Willow           Glen Apartments              fire.
+           Option       I involves         simply      increasing       the city's       use of 'fund balance             in the fiscal      year 2026
+        budget,          currently      set at $728,876,            to accommodate                the additional       expenditure,          which
+        would          be allocated         through      the Promise           Department's          program       budget.       Option      2
+        reallocates           a portion       of the $125,000            set aside for the city's             upcoming        10-year
+        anniversary            legacy       project     to the Promise           Department           for fire relief.      Option        3 proposes
+        reducing          the newsletter            postage      budget,       which     is currently        over-appropriated             due to a
+        newly        secured        bulk     mail     rate, and shifting          the excess funds to fire relief.                 Option        4
+        distributes         the needed           amorint      across several           existing     budget      line items by identifying
+        areas where            departments            had requested            more funding          than necessary,         effectively
+        trimming           minor       excesses citywide              to cover the expense.             The council          may choose              any of
+        these approaches,                  and the resolution           will    be amended           accordingly.
+
+
+        The council            recommended              option      3 of the four options             presented.         Dudley      noted the
+        donations          would       be acknowledged                in the next budget             amendment           as separate       line items,
+        public       and private.           Donations         would     amount         to about $2300          per apartment             unit and
+        checks would               be issued the following                day. A second            round      of checks      would        be issued
+        once donations                stopped.
+Millcreek          City      Council           Meeting          Minutes                                                          28 July       2025         Page 10 of 11
+
+
+
+Council         Member            DeSirant             moved        to approve              Resolution             25-30,           Approving              the Use of Up                    to
+an amended                $11,000        for       Relocation         Costs         for     Residents            Displaced               by the Fire            at 4878              South
+1300      East,        Known          as Wfflow             Glen     Apartments,                 and       to Amend               the Budget             to the Extent
+Necessary            to Achieve              the    Purpose         of the      Resolution.                Council          Member               Uipi      seconded.
+Council        Members            DeSirant            and Uipi,       and the mayor                 offered        words           of comfort            to the victims.
+The    city     may       not be able to provide                    monetai'y          assistance           in every             disaster      instance,          but the
+council        felt this was appropriate.
+The    Recorder             called       for       the vote.       Council          Member              DeSirant            voted         yes, Council             Member
+Jackson         voted       yes, Council               Member           Uipi     voted           yes, and         Mayor            Silvestrini            voted      yes. The
+motion         passed        unanimously.
+
+
+3. Reports
+              3.1 Mayor's              Report
+              The mayor           reported            on the bond          rating         from     Standard          and Poor              being        AA+.
+
+
+              3.2 City        Council           Member             Reports
+              Council        Member            Uipi     reported        she attended               the Asian             American            Pacific       Islander         Elected
+              Officials        Lead          Summit         in Georgia.         Council           Member           Jackson              reported        she attended                 the
+              Cayon        Rim       Day       of Service          where       5,000       early     intervention                kits     were      assembled             for
+              second        graders          in Granite        School        District.
+
+
+              3.3 Treasurer's                  Report
+              Council        Member            Jackson         reported        that as of July                 28, 2025,          the city's         finances           remain
+              healthy,       with       a combined             cash balance               of $38,505,763,                 consisting           of $697,475              in the
+              operating        account             and $37,808,288              in the PTIF              state investment                   fund.       Since      the fiscal
+              year began          on July           1, no property           tax revenue             has been received                      yet, which           is expected
+              and not a concern.                   However,         the city        has already             collected             $1,179,144             in general         sales tax
+              and $125,810              from        building        permits,        bringing           total     general          fund      revenue         to $1,893,199.
+              On the expenditure                    side,    the city      has issued             $2,463,623              in checks,           processed           12 bank
+              drafts      totaling       $240,444,           and completed                 two     payroll        periods           totaling        $363,038.            The
+              City's      financial          management              remains         strong,        thanks         to the diligent               efforts       of staff         in
+              tracking       revenue           and expenses            and maintaining                   accurate,           reconciled             budgets.
+
+
+              3.4 Staff        Reports
+              Mike       Winder         reported        construction            for Millcreek                  Common             Phase        II would         begin       that
+              week.
+
+
+              3.5 Unified            Police        Department              Report
+              Chief      Petty-Brown                reported       the crime         statistics         for June 2025.                   She reported             the
+              department            has tmee true              vacancies,        with        six additional               positions          encumbered                 in the
+              budget       currently           undergoing           training-four                 in patrol        and two              in specialized            units     (traffic
+              and investigations).                  Response          times      remain           within        standard           benchmarks:              five    minutes                for
+              Priority      1 and 2 calls,             and twelve          minutes           for Priority           3. Crime              trends        continue        to decline,
+              aligning       with      broader         statewide        and national               patterns,         including              a drop       in violent         crime
+              and overall            calls     for service.         In June,        there        were      2,669         calls     for service,           839 police
+              reports,      and there           was some           reporting         issues        limited        full     data accuracy                on the booking
+              arrests.     The department                   responded          to 34 transient-related                       calls,       70 mental         health
+              incidents,         and executed               18 search        warrants,           resulting         in 15 arrests               and recovery               of three
+Millcreek             City         Council       Meeting           Minutes                                                   28 July        2025       Page 11 of 11
+
+
+
+              stolen         vehicles,         along      with      various       drug      seizures.         The traffic         unit     conducted           293 stops,
+              issuing         189      citations         and 100 warnings,                 with      primary         violations          including          speeding,
+              registration             issues,     red-light           violations,        and stop sign infractions.                      There      were          also 10 DUI
+              arrests,        19 accidents,              and three         pedestrian            or bicycle-related             incidents.         Special          Operations
+              saw no new               SWAT            callouts,        but responded              to three        crash     reconstructions,               five    drone
+              operations,             and several           K9 deployments.                  Shared          services        supported         one suspicious               death
+              case, five            death      investigations,             and multiple             felony         and special        victim      cases. Within              the
+              Millcreek             precinct,          notable      activity      included          29 assaults,           6 burglaries,          12 drug           offenses,
+              75 family-related                  incidents,          23 fraud          cases,      57 larcenies,           1 robbery,          4 sex offenses,            and 9
+              stolen         vehicles.         Detectives          were      assigned            41 cases, with            11 submitted           for charges.
+              Community                outreach          included          participation           in eight         events     over      30 hours,          including
+              Juneteenth              celebrations,          Pride        events,        and visits        with      the department's              ice cream           truck       to
+              local     neighborhoods                   and parks.
+
+
+4. Consent            Agenda
+              4.1 Approval               of July        14, 2025          Work         Meeting        and Regular             Meeting          Minutes
+
+
+Council           Member             Jackson           moved         to adopt           the minutes            for    July     14,    2025.       Council           Member
+DeSirant            seconded.            Mayor           Silvestrini           called      for    the vote.          Council         Member          DeSirant           voted
+yes, Council             Member               Jackson           voted      yes, Council             Member            Uipi     voted        yes, and         Mayor
+Silvestrini           voted         yes. The           motion       passed        unanimously.
+
+
+5. New        Items          for     Subsequent             Consideration
+There       was none.
+
+
+6.    Calendar           of Upcoming                   Meetings
+      *    Mt.      Olympus            Community             Council           Mtg.,      8/4/25,      6:00        p.m.
+      *    Millcreek           Community                Council         Mtg.,     8/5/25,         6:30 p.m.          - meeting           August      12'h
+      @ Canyon           Rim          Citizens         Association           Mtg.,       8/6/25,      7:00     p.m.
+      *    East Mill          Creek         Community              Council        Mtg.,      8/7/25,         6:30 p.m.
+      *    City     Council           Mtg.      8/1 1/25        7:00     p.m.
+
+
+The       council      mentioned              upcoming             events.
+
+
+ADJOURNED:                         Council        Member            Uipi        moved       to adjourn               the meeting           at 8:21       p.m.        Council
+Member            DeSirant             seconded.           Mayor           Silvestrini           called      for     the vote.        Council        Member
+DeSirant            voted          yes, Council           Member             Jackson         voted         yes, Council           Member             Uipi      voted     yes,
+and       Mayor        Silvestrini             voted      yes.                    tion     passed          unanimously
+
+
+
+                                                                             Jeff SilWstrini,              Mayor
+                                                                                                                                      n-t- 8-,2,5 -2,'2)Z-5
+
+
+                                             Attest:                    Elyse     g(gvan,           City     Recorder
+

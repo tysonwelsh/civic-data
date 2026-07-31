@@ -1,0 +1,565 @@
+# Riverton Planning Commission Meeting — 2026-05-28
+> Source: https://www.utah.gov/pmn/files/1449099.pdf
+> Meeting date: 2026-05-28
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/1083883.html
+> Format: text
+
+Approved: PC 6.11.26
+
+
+                     RIVERTON CITY PLANNING COMMISSION
+                              MEETING MINUTES
+                                 MAY 28, 2026
+
+The Riverton City Planning Commission convened at approximately 6:30 PM in the
+Riverton City Hall, 12830 South Redwood Road, Riverton, Utah.
+
+Planning Commission Members:                   Staff:
+
+Darren Park                                    Tim Prestwich, City Planner
+Crystal Keele                                  Lisa Halversen, City Planner
+Gary Cannon                                    Ryan Carter, City Attorney
+Evan Matheson
+Shelly Cluff
+Monique Beck
+Joe Marzo
+
+1.    CALL TO ORDER/ROLL CALL
+
+Chair Darren Park called the Planning Commission Meeting to order at approximately
+6:30 p.m. 19th Special Forces Group Master Sergeant, Dylan Tolley led the Pledge of
+Allegiance.
+
+2.    PUBLIC HEARINGS
+
+      A.     “MERACAKESS LLC,” PLZ-26-2022, AN APPLICATION FOR A
+             CONDITIONAL USE PERMIT FOR A HOME OCCUPATION SELLING
+             CAKES AND DESSERTS FROM A HOME LOCATED AT 13528 SOUTH
+             COMMODUS DRIVE, APT# L102. APPLICANT – ADEMARYS RAMIREZ
+
+Lisa Halversen, Planner, presented the Staff Report and indicated that the applicant,
+Ademarys Ramirez, lives in a three-story townhome in Mountain Ridge Phase 17 in the
+SLR Zone. She intended to bake and sell special cakes from her home. Customers will
+order online via social media and schedule a pick-up or delivery time. Ms. Ramirez
+anticipated baking no more than three cakes per day, most of which would be delivered
+to customers. There will be no deliveries to her home, and only the kitchen and driveway
+will be used for the Home Occupation.
+
+Photographs and a site plan were reviewed. Per Riverton City Home Occupation Code,
+all applications involving food or drink must receive Planning Commission approval. The
+applicant would also be required to obtain approval from the Utah Department of Health.
+
+Notice was sent to property owners within 300 feet of the subject property. Two emailed
+comments and one phone call were received expressing concerns about traffic and
+parking. To address those concerns, Staff spoke with the applicant and discussed the
+Riverton City Planning Commission Meeting                                                  2
+May 28, 2026
+
+
+importance of scheduling appointments one at a time and designating a customer parking
+area in her driveway.
+
+In response to a question raised by Commissioner Cannon, Ms. Halversen reported that
+the applicant had provided a letter of permission from the HOA to do the home business.
+
+Chair Park asked if the business was already in operation, and if the City allowed Home
+Occupations in condominiums. Ms. Halversen clarified that it was a new application, and
+any such restrictions would be placed by the HOA.
+
+Jose Ramirez translated for the applicant. Her family business will operate online. She
+makes cakes and desserts, which are picked up or delivered by appointment. Orders are
+placed via text or social media.
+
+Commissioner Cannon asked if the customers would come to the door to pick up their
+orders or wait in their cars. It was confirmed that cakes will be brought to customers’ cars.
+
+Commissioner Marzo asked if customers would be informed that they must park in the
+driveway. It was reported that all customers are informed of the policy, but they
+sometimes wait in the street. Chair Park clarified that, if the Home Occupation was
+approved, all customers must park in the driveway. The applicant confirmed that the
+condition would be met.
+
+Chair Park opened the public hearing.
+
+Randy Staples reported that he owns a condominium within 300 feet of the subject
+property. He asked if the applicant was the property owner or a tenant. He said that
+parking can be difficult if you own two cars because one must be parked in the driveway.
+He also asked if there would be any advertising on the delivery vehicle and if HOA
+approval had been obtained to operate a commercial business in a residential unit.
+
+There were no further comments. The public hearing was closed.
+
+Ms. Halversen indicated that the applicant, Ademarys Ramirez, is the homeowner. Only
+one parking space was required for the business and this is available in the driveway.
+The applicant had submitted a letter of approval from the HOA.
+
+Commissioner Cannon asked if the applicant could be required to place a small sign in
+front of their garage indicating that it was the pickup location. Ms. Halversen stated that
+signage would be at the applicant’s discretion, but she was aware that driveway pickup
+was a condition of approval. Chair Park noted that the HOA may prohibit signage.
+
+In response to a question raised by Commissioner Marzo, Ms. Halversen confirmed that
+guest parking was available nearby. One written comment suggested that the applicant
+Riverton City Planning Commission Meeting                                              3
+May 28, 2026
+
+
+instruct customers to use guest parking, which she was free to do. The City’s concern
+was that they not be allowed to park on the street.
+
+Commissioner Cluff moved that the Planning Commission APPROVE Application
+PLZ-26-2022 “Meracakess LLC,” at 13528 South Commodus Drive, subject to the
+following:
+
+Conditions:
+
+      1.      The site, structures, and use shall remain in compliance with any and
+              all applicable Riverton City Standards and Ordinances, specifically the
+              City Home Occupation Ordinance (18.190) and applicable Building and
+              Fire Codes.
+
+      2.      Applicant must obtain and maintain a Riverton City business license.
+
+      3.      Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+
+      4.      Home Occupation must operate within the Fixed Standards, and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+      5.      Applicant may use up to 25% of the main floor for the business.
+
+      6.      Order pickups will be scheduled one at a time and customers will be
+              provided driveway parking space.
+
+Commissioner Beck seconded the motion. The motion passed with unanimous
+consent of the Commission.
+
+
+      B.      "COMPASS INSURANCE,” PLZ-26-8001, AN APPLICATION FOR A
+              FINAL COMMERCIAL SITE PLAN FOR AN OFFICE BUILDING TO BE
+              LOCATED AT 13083 SOUTH REDWOOD ROAD. APPLICANT –
+              COURTNEY JENSEN
+
+City Planner, Tim Prestwich, presented the Staff Report and reviewed the aerial, General
+Plan, and Zoning Maps. The subject property is south of City Hall. It is zoned C-PO and
+surrounded by RR-22 properties.
+
+The Final Site Plan was reviewed by all City Departments and determined to meet City
+Code. Mr. Prestwich reported that the existing building at the rear of the property would
+be removed. The office building would be at the front of the property, close to Redwood
+Road, with a driveway to the north and parking at the rear.
+Riverton City Planning Commission Meeting                                                   4
+May 28, 2026
+
+
+
+Mr. Prestwich reported that when plans are submitted, he first confirms that the building
+meets all setback requirements. The proposed building met all setbacks, including the
+special additional distance from the adjacent residential property to the south.
+
+He next confirms that the plans include a boundary strip to adequately buffer between
+uses. The required size of the strip changes based on use. For example, a store with
+parking at the front would require a wider boundary strip on that frontage. If it was
+adjacent to another commercial property, that boundary strip could be narrower. The
+subject property would have a seven-foot boundary strip along all shared boundaries.
+
+Next, parking count and landscaping percentage are confirmed. All commercial zones
+require 20% landscaping, which is typically easy to meet due to setback and boundary
+strip specifications. Parking is outlined in the adopted parking tables and based on the
+square footage and use of the building. The subject property would have one stall more
+than required, which was atypical for small parcels, as they generally struggle to meet
+parking requirements.
+
+The Site Plan is then reviewed for compliance with circulation, fire access, and Americans
+with Disabilities Act (“ADA”) standards. Mr. Prestwich reported that the initial Site Plan
+showed a straight sidewalk from the west, but had to be rerouted to comply with the ADA.
+When building commences, the City Building Official visits the site to help set the grade
+for ADA parking stalls before the hard surface is laid. Most businesses use concrete for
+ADA stalls to ensure that grade requirements are met.
+
+Parking stalls must be nine-and-a-half feet wide. Stalls that abut curbs must be 18 feet
+long, and nose-to-nose stalls must be 20 feet long. Parking islands must typically be full-
+size, but the Planning Commission had the authority to grant an exception if necessary
+for traffic flow and safety. Staff recommended granting an exception for the subject
+property, as requiring the standard size would eliminate parking stalls and cause issues
+with traffic flow and snowplowing.
+
+Mr. Prestwich reported that public comments had been received expressing concern
+about the potential dumpster location. The dumpster location was not dictated by
+ordinance but was required to be out of public view, walled, and gated.
+
+The Landscape Plan was reviewed. A low-impact design was proposed. The City
+requires 20 trees per acre, but no specific amount of grass or shrubs. The proposed park
+strip was narrow and had no trees, as power and water lines prevented their installation.
+There will be trees, grass, and rock along the entryway, and the majority of the trees will
+be placed at the rear to shield the adjoining residential property. An eight-foot masonry
+wall will be between the property and all incompatible zoning. The parking lot grade is
+approximately two feet higher than the wall, so the fence in that area will effectively be six
+feet tall.
+Riverton City Planning Commission Meeting                                                    5
+May 28, 2026
+
+
+The Lighting Plan was reviewed, and Mr. Prestwich reported that no direct light would
+leave the site. Lighting fixtures must shine straight down, and the light source must be
+shielded. The proposed fixtures had been used elsewhere in the City and met all
+requirements.
+
+Mr. Prestwich reported that the proposed building design has been reviewed for
+compliance with the City’s new standards. At least two materials must be used, but no
+more than five. At least two and no more than five colors must also be used, not including
+trim. Two main colors and black accents were proposed. The proposed materials were
+stacked white stone with concrete block and Hardie Board planks. Rooftop mechanical
+equipment would be screened by parapets.
+
+In response to a question raised by Commissioner Matheson, Mr. Prestwich reported that
+the boundary strip will be landscaped. Some businesses place their dumpster within the
+boundary strip, which is allowed by code. The columnar trees in the boundary strip will
+grow taller to screen the property but not overhang the property line. Commissioner
+Matheson asked if there were any concerns about the line of sight for vehicles exiting the
+property. Mr. Prestwich stated that it is a Utah Department of Transportation ("UDOT")
+controlled access, and their final approval is required prior to issuance of a building permit.
+The application included an exhibit verifying that all sight lines meet UDOT standards.
+
+Chair Park stated that vehicles exiting left from the property would cross three traffic lanes
+in a school zone and asked whether left turns would be prohibited. Mr. Prestwich stated
+that no turn island was proposed, and UDOT had approved full access. However, he
+believes that they will eventually extend the island the length of Redwood Road.
+
+Chair Park stated that all three sides of the subject property that bordered residential
+zoning had existing vinyl fencing, but a solid eight-foot wall was required. He asked what
+efforts were being taken to avoid having a fence within a fence. Mr. Prestwich reported
+that the applicant has the right to fence their property. If the neighboring property owners
+objected to the solid fence, the applicant could apply for a Conditional Use Permit (“CUP”)
+to move it completely onto their property. The boundary survey will be re-staked prior to
+construction, and any conflicts that arise must be resolved between property owners prior
+to moving forward. In response to a follow-up question, he clarified that a fence within a
+fence is only allowed with a CUP. The City Council was concerned with ensuring that the
+area between the fences is treated to prevent it from becoming a fire hazard.
+
+Chair Park stated that the City was aware of the elevation issues on the east property line
+as modifications were needed at the property across the street to prevent headlights from
+shining into residents’ homes. He asked how the City would ensure that homes to the
+east of the subject property would be protected from similar issues. Mr. Prestwich
+reported that he spoke with the applicant about the issue. The plan was designed to
+accommodate the slope, and the fence will be six feet above final grade in that area.
+Fencing is measured five feet in from the property line.
+Riverton City Planning Commission Meeting                                                6
+May 28, 2026
+
+
+In response to a question raised by Commissioner Beck, City Attorney, Ryan Carter,
+reported that “fence within a fence” means two fences that are within one foot of each
+other and parallel.
+
+Commissioner Marzo asked if there had been a discussion about moving the dumpster
+as requested in a public comment. Mr. Prestwich reported that a specific location was
+not required by City ordinance, and moving the dumpster would place it within proximity
+of a different neighbor. The proposed location provided direct access for trash removal,
+which would mean less noise generated from the vehicle backing up. Professional Office
+is a permitted use in the C-PO Zone, and the dumpster location is not dictated by
+ordinance. If the dumpster location or other impacts were a concern, it would be a
+conditional use. For example, because grocery stores are conditional in the zone, the
+City was able to limit the times of day the dumpster could be emptied. The same
+requirement could not be placed on the subject property because it was a permitted use.
+
+Commissioner Cannon stated that the zone restricts the types of uses in the area. There
+was a deficit of office space in old Riverton, so he was encouraged to see some going in.
+In response to his question, Mr. Prestwich stated that some retail would be allowed, but
+it would be limited by available parking. C-PO is the City’s second most restrictive zone
+and is a good fit for the subject property as it is surrounded by residential parcels.
+
+The applicant, Laurel Bevans with RDGM Construction, introduced business owner
+Courtney Jensen. Ms. Bevans reported that they suggested a right-in/right-out entry, but
+UDOT denied the request. The dumpster location was chosen to maximize available
+parking and provide easy access for the garbage truck. If it were moved, several parking
+stalls would be eliminated.
+
+Mr. Jensen reported that his business is a professional office that does not generate a lot
+of garbage, and the eight-foot wall should block the dumpster from sight. He had been in
+business for 27 years, selling health, dental, and vision insurance for small businesses
+and individuals, and had outgrown the current location in South Jordan. In response to a
+question raised by Chair Park, he reported that he may sublease space to other insurance
+agents within the agency, but he planned to eventually occupy the entire space.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE
+Application PLZ-26-8001, “Compass Insurance,” a Commercial Site Plan to be
+located at 13083 South Redwood Road, subject to the following:
+Riverton City Planning Commission Meeting                                           7
+May 28, 2026
+
+
+Conditions:
+
+      1.      Site Improvements and the Building, including the exterior finish,
+              dumpster enclosures, and landscaping, and all other improvements
+              shall be consistent with the plans presented to the Planning
+              Commission except where otherwise noted.
+
+      2.      Applicant shall correct or resolve the remaining staff redlines.
+
+      3.      Site Landscaping shall include 20 trees per acre counted for the entire
+              site.
+
+      4.      Building and Site lighting shall be installed and screened according to
+              Riverton City Standards.
+
+      5.      The rooftop mechanical shall be screened from view according to the
+              ordinance.
+
+      6.      Wall-mounted service panels shall be painted to match the building.
+
+      7.      The site and structures shall comply with any and all applicable
+              Riverton City Standards and Ordinances, including the International
+              Building and Fire Codes.
+
+      8.      Storm drainage systems and accommodations shall comply with
+              Riverton City Standards and Ordinances, and with the
+              recommendations of the Riverton City Engineering Division. An
+              offsite Storm Drain Pond must be built by others prior to this site
+              getting occupancy from Riverton City.
+
+      9.      The Applicant must create and agree to follow a Long-Term Storm
+              Water Management Plan according to Riverton City Standards and
+              Ordinances prior to receiving building occupancy.
+
+      10.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+
+      11.     The applicant must obtain final approval from utility providers.
+
+Commissioner Marzo seconded the motion. The motion passed with unanimous
+consent of the Commission.
+
+Mr. Prestwich informed the applicant that they could now submit their building permit
+application for review.
+Riverton City Planning Commission Meeting                                               8
+May 28, 2026
+
+
+      C.      “RIVER HAVEN AMENDED, LOTS 45 AND 46 (TOLLEY LOT LINE),”
+              PLZ-25-1009, AN APPLICATION TO AMEND THE SHARED LOT LINE
+              BETWEEN LOTS 45 AND 46 OF RIVER HAVEN ESTATES PHASE 2.
+              APPLICANT – DYLAN TOLLEY.
+
+Mr. Prestwich reported that the State Legislature recently changed how boundary
+adjustments within subdivisions are handled, and the parties must now apply for a Plat
+Amendment. The items were previously handled at the administrative level but now
+require Planning Commission approval.
+
+Zoning, Land Use, and aerial maps were reviewed. Mr. Prestwich reported that the fence
+between the properties did not match the recorded lot lines, and the Plat Amendment
+would move the parcel boundary to match the fence line. He noted that several properties
+in the subdivision had similar issues. A survey had been submitted showing existing
+conditions and proposed lot lines, and Staff verified that all setback and lot size
+requirements were met. Staff recommended approval.
+
+In response to a question raised by Chair Park, Mr. Prestwich confirmed that the new
+boundary line would roughly follow the driveway but was modified slightly to meet lot size
+requirements. The accessory structure met the five-foot setback requirement. In
+response to a follow-up question, he reported that ownership affidavits were submitted by
+both owners as both parties are required to change the boundary line. The properties
+would still meet minimum lot size requirements.
+
+The applicant, Dylan Tolley, stated that when he purchased his home, he was not aware
+that the fence did not follow the lot line. It came to his attention when he applied for a
+building permit for a planned garage. His neighbor agreed with the change.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE Application
+PLZ-25-1009, “River Haven Estates Phase 2 Amended Subdivision (Tolley Lot Line
+Adjustment),” subject to the following:
+
+Conditions:
+
+      1.      Subdivision Amendment lot and layout shall be consistent with the
+              plans presented to the Planning Commission except where otherwise
+              noted.
+
+      2.      Final Amended Plat must be recorded with Salt Lake County.
+
+Commissioner Keele seconded the motion. The motion passed with unanimous
+consent of the Commission.
+Riverton City Planning Commission Meeting                                               9
+May 28, 2026
+
+
+
+      D.     “WALMART EV CHARGING STATIONS,” PLZ-26-8019, AN
+             APPLICATION TO AMEND A COMMERCIAL SITE PLAN LOCATED AT
+             13502 SOUTH HAMILTON VIEW DRIVE BY ADDING ELECTRIC
+             VEHICLE CHARGING STATIONS. APPLICANT – JULIE HEKKING,
+             KIMLEY-HORN ENGINEERING.
+
+Mr. Prestwich reported that a Building Permit was issued to Walmart for the pick-up area
+modifications that were recently approved by the Planning Commission. The new
+application was to install electric vehicle (“EV”) charging stations. Notices were sent to
+property owners within 300 feet of the subject property but no comments were received.
+
+The aerial map was reviewed, as well as photographs and diagrams of the proposed
+charging stations. The charging area will be located adjacent to Hamilton View Drive.
+Some parking islands will be removed and striping reconfigured to accommodate the EV
+charging stations, and portions of four islands will also be removed to install an ADA-
+accessible walking path to the storefront. All trees in the area will remain and provide
+adequate screening.
+
+Mr. Prestwich reported that the Landscape Plan was submitted late and not included in
+the meeting packet. Sod in the area will be replaced with rock and shrubs, and additional
+shrubs will be installed to screen the switchboard and transformer.
+
+In response to a question raised by Commissioner Cluff, Mr. Prestwich reported that
+electric charging stations are heavily regulated, and compliance with the electric code is
+verified by the City’s Commercial Plans Examiner.
+
+Chair Park asked why the EV charging stations were not placed near the fuel station.
+Mr. Prestwich reported that the Building Code requires one charging station to be ADA
+accessible, and ADA requires an accessible walking route to the storefront. The
+proposed location met those requirements. Mountain View Village was also installing
+charging stations, and the Building Official spent a large amount of time working on the
+ADA and electrical requirements for that site.
+
+In response to a question from Commissioner Cannon, Mr. Prestwich stated that he had
+no information on a potential EV charging station at the Bangerter Highway onramp, but
+he occasionally hears speculation about that property.
+
+Joanna Graham of Kimley-Horn spoke on behalf of the applicant. They planned to install
+four level three chargers for customers to charge their vehicles while they shop. There
+will be eight total charging stalls. She apologized for the delay in submitting the
+Landscape Plan but indicated that it addressed Mr. Prestwich’s concerns about screening
+the equipment. Both the transformer and switchboard would be screened with waterwise
+landscaping, and no trees would be removed.
+Riverton City Planning Commission Meeting                                                 10
+May 28, 2026
+
+
+Commissioner Matheson asked if the chargers would be free to the public. Ms. Graham
+reported that there is a fee for use. She did not have specific information on how payment
+would be handled or the different types of chargers available. However, she could obtain
+that information and forward it to Mr. Prestwich.
+
+In response to a question from Chair Park, Ms. Graham confirmed that her firm also
+installed the EV charging stations at the South Jordan Walmart and other locations in
+Utah. Stations had been installed at approximately 10 locations in Utah over the past
+year, and 14 were in process. It is a nationwide program.
+
+Chair Park stated that photographs included with the application were of visually
+appealing equipment, but large blue stations were installed in South Jordan. Ms. Graham
+reported that blue is the Walmart standard and was the proposed color for the stations.
+Chair Park stated that the other side of the parking lot near Bangerter Highway would be
+a better location because nobody would care what they look like, but the proposed
+location was at the main entrance. Ms. Graham stated that the location is chosen based
+on a formula. They do not use the stalls directly in front of the building, but there must be
+an ADA path to the storefront, and all ADA stalls must be as close to the building as
+possible.
+
+Chair Park asked if the applicant could install a different color charging station than the
+one proposed in the application. Mr. Prestwich reported that the submitted plan set
+included a specific charging station, and that specific station must be installed.
+Otherwise, the applicant would be denied occupancy, and an amended Site Plan would
+be required. Chair Park stated that he believed the Planning Commission was
+comfortable with the charging station submitted with the application, but Ms. Graham
+would need to inform her client that they were required to install that specific station and
+not a large blue one.
+
+In response to a question raised by Commissioner Cluff, Ms. Graham confirmed that
+yellow bollards were proposed around the charging stations. Yellow is a typical color for
+safety bollards, but it is not specified in code.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Chair Park stated that the South Jordan Walmart is in a more industrial area, whereas the
+Riverton Walmart is adjacent to residential properties. The specified charging station is
+unobtrusive and a better fit for the City. People who drive electric vehicles will know that
+the charging area is there, but it will not be obvious from the road, which he believes is
+appropriate for the location.
+
+Commissioner Cluff moved that the Planning Commission APPROVE Application
+PLZ-26-8019, “Walmart EV Stations Amended Site Plan,” subject to the following:
+Riverton City Planning Commission Meeting                                               11
+May 28, 2026
+
+
+Conditions:
+
+      1.      Site Plan Improvements shall be consistent with the plans presented
+              to the Planning Commission except where otherwise noted.
+
+      2.      Existing trees shall be protected during construction. Trees removed
+              shall be replaced with a similar species tree with a caliper of two
+              inches or greater.
+
+      3.      Landscaping shall be installed as presented.
+
+      4.      Charging stations shall match the plans presented.
+
+Commissioner Matheson seconded the motion. The motion passed with
+unanimous consent of the Commission.
+
+3.    MINUTES
+
+      A.      MINUTES FROM THE MAY 14, 2026, PLANNING COMMISSION
+              MEETING.
+
+Commissioner Keele moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of May 14, 2026, as presented. Commissioner
+Matheson seconded the motion. The motion passed with the unanimous consent
+of the Commission.
+
+Mr. Carter reported that he intended to conduct training at the meeting, but the item was
+not publicly noticed on the agenda. He had emailed the Planning Commission earlier in
+the week but only received one response, and he reminded the Commission that their
+official email addresses must be a functional communication channel. The email included
+basic instructions on how to review two hours of training online. One site requires each
+Commissioner to set up an account that would also be used for future training. The
+Planning Commission is required to complete four hours of training annually. He had
+intended to have a question-and-answer session about the videos, after which their
+training time could be logged.
+
+Mr. Carter would be forwarding recent Private Property Rights Ombudsman’s Office
+advisory opinions to the Commission. These opinions are part of an online library that is
+very educational, as they address real conflicts that occurred between developers and
+planning staff, planning commissions, or city councils. The Ombudsman is the land use
+expert and a quasi-judicial body that issues advisory opinions on disputes that either
+confirm or reject actions taken by a city. If the Ombudsman disagrees with a city’s actions
+and the city fights the case in court and loses, the developer is awarded attorney’s fees.
+City Staff speaks with the Ombudsman regularly. He is very knowledgeable and well-
+Riverton City Planning Commission Meeting                                               12
+May 28, 2026
+
+
+respected, and has helped the city with difficult issues like purchasing a sidewalk strip
+from a property owner with schizophrenia.
+
+Mr. Carter instructed the Planning Commissioners to check their email and notify his office
+if they did not receive the instructions. They should review the two videos prior to the
+next meeting, where they will review the Ombudsman’s opinions and complete their
+training requirement.
+
+Commissioner Matheson stated that he would be out of town for the next meeting.
+Mr. Carter stated that he should complete the online training and could make up the
+additional hour. Consistent meeting attendance constitutes one hour of training, so only
+three hours were needed.
+
+Commissioner Marzo stated that he completed both training sessions and asked if he
+should forward the certificate of completion from the first session to Staff. Mr. Carter
+reported that the meeting minutes for the question-and-answer session will confirm the
+training hours, and that item will be included on the next agenda.
+
+In response to a question from Chair Park, Mr. Carter reported that the Information
+Technology Department would contact those Commissioners who could not access their
+email accounts.
+
+It was noted that the only Planning Commission meeting in July would be held on July 9.
+
+4.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:58 PM.
+

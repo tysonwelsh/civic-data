@@ -1,0 +1,51 @@
+{
+  "contributions": [
+    {"date": "6/1/23", "name": "Clark Bulen (Campaign Loan)", "amount": "500", "in_kind": false},
+    {"date": "6/19/23", "name": "Nancy Christoffersen", "amount": "100", "in_kind": false},
+    {"date": "6/19/23", "name": "Mike Bird", "amount": "50", "in_kind": false},
+    {"date": "6/21/23", "name": "Kimberly Klintworth", "amount": "1,000", "in_kind": false},
+    {"date": "6/22/23", "name": "Donnetta Mitchell", "amount": "100", "in_kind": false},
+    {"date": "6/25/23", "name": "David Neville", "amount": "100", "in_kind": false},
+    {"date": "6/27/23", "name": "Josh Sumsion", "amount": "150", "in_kind": false},
+    {"date": "7/30/23", "name": "SL Realtors", "amount": "1,000", "in_kind": false},
+    {"date": "7/6/23", "name": "Chris Gochnour", "amount": "100", "in_kind": false},
+    {"date": "7/11/23", "name": "Andrea Stavrakakis", "amount": "50", "in_kind": false},
+    {"date": "7/18/23", "name": "Sherri Bohne", "amount": "50", "in_kind": false},
+    {"date": "7/21/23", "name": "Shaun Greene", "amount": "100", "in_kind": false},
+    {"date": "6/19/23", "name": "David Sundwall", "amount": "50", "in_kind": true},
+    {"date": "6/21/23", "name": "Mike Bird", "amount": "120", "in_kind": true},
+    {"date": "7/27/23", "name": "Jason Knight", "amount": "7.60", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "6/6/23", "recipient": "Murray City", "purpose": "Filing Fee", "amount": "95.00", "in_kind": false},
+    {"date": "7/3/23", "recipient": "Winco", "purpose": "Parade candy", "amount": "148.01", "in_kind": false},
+    {"date": "6/7/24", "recipient": "Dynadot", "purpose": "Website, custom email", "amount": "47.88", "in_kind": false},
+    {"date": "6/22/23", "recipient": "Amazon", "purpose": "Tape", "amount": "15.03", "in_kind": false},
+    {"date": "7/31/23", "recipient": "Donorbox", "purpose": "Donation fees", "amount": "5.12", "in_kind": false},
+    {"date": "6/19/23", "recipient": "Costco", "purpose": "Cookies, water- kickoff", "amount": "14.74", "in_kind": false},
+    {"date": "6/29/23", "recipient": "Postmatic Signs", "purpose": "100 Signs", "amount": "716.54", "in_kind": false},
+    {"date": "8/15/23", "recipient": "Mailchimp", "purpose": "Mass Email", "amount": "56.42", "in_kind": false},
+    {"date": "7/2/23", "recipient": "Draper Data", "purpose": "Campaign Data", "amount": "200.00", "in_kind": false},
+    {"date": "7/21/23", "recipient": "Amazon", "purpose": "Paper cutter", "amount": "31.22", "in_kind": false},
+    {"date": "7/26/23", "recipient": "Amazon", "purpose": "Clipboard", "amount": "6.20", "in_kind": false},
+    {"date": "8/4/23", "recipient": "Loyal Perch Media", "purpose": "Aug Murray Journal Ad", "amount": "360.00", "in_kind": false},
+    {"date": "8/16/23", "recipient": "Consolidated Printing", "purpose": "Mailer", "amount": "1,015.71", "in_kind": false},
+    {"date": "8/16/23", "recipient": "Rumble up", "purpose": "Mass Texts", "amount": "637.00", "in_kind": false},
+    {"date": "8/16/23", "recipient": "SLCO elections", "purpose": "Voted List", "amount": "15.00", "in_kind": false}
+  ],
+  "total_contributions": "3431.27",
+  "total_expenditures": "3363.87",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "67.4",
+  "_meta": {
+    "index_path": "raw/202308_Clark-Bullen_14465.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-Primary",
+    "extraction_method": "pdftotext born-digital text layer dropped the image-rendered Summary/Schedule pages; recovered via pdftoppm page render + Read",
+    "reconcile_note": "Schedule A itemized (12 rows) sums to 3,300.00 vs printed cover 3,431.27 (THRU 8/24/23) and printed Schedule A page subtotal 3,300 — does NOT reconcile (differs by 131.27, no $50-or-less aggregate printed). Schedule B itemized (15 rows) sums to 3,363.87 = printed cover 3,363.87 — reconciles. Schedule C in-kind itemized (3 rows) sums to 177.60 vs printed cover/subtotal 176.60 — does NOT reconcile (differs by 1.00); in-kind total is separate from the 3,431.27 Schedule A cover."
+  }
+}

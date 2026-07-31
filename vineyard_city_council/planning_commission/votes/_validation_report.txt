@@ -1,0 +1,20 @@
+VINEYARD PLANNING COMMISSION — VOTE EXTRACTION VALIDATION
+============================================================
+status: PASS
+meetings (json): 102
+motions: 375
+  recommendations: 58  final_actions: 102  procedural: 215
+member-vote rows: 1617  (csv reconcile: OK)
+contested (any nay/abstain): 4
+tally-only motions (names_recorded=false): 13
+tally mismatches: 0
+off-roster commissioners: 0
+out-of-range votes: 0
+
+Expected tally-only meetings: motions recorded only as 'ALL WERE IN FAVOR' /
+'THE MOTION CARRIED/PASSED UNANIMOUSLY' with NO per-member name list keep empty
+member lists and N:N=0:0 (count not stated in the source — never invented).
+
+DETAIL:
+------------------------------------------------------------
+(none)

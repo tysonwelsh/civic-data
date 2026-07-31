@@ -1,0 +1,1064 @@
+# Riverton Planning Commission Meeting — 2025-12-11
+> Source: https://www.utah.gov/pmn/files/1391441.pdf
+> Meeting date: 2025-12-11
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/1050801.html
+> Format: text
+
+Approved: PC 2.12.26
+
+
+                      RIVERTON CITY PLANNING COMMISSION
+                               MEETING MINUTES
+                              DECEMBER 11, 2025
+
+The Riverton City Planning Commission convened at approximately 6:30 PM in the
+Riverton City Hall, 12830 South Redwood Road, Riverton, Utah.
+
+Planning Commission Members:                     Staff:
+
+Darren Park, Chair                               Jason Lethbridge, Development Services Director
+Monique Beck                                     Lisa Halversen, City Planner
+Gary Cannon                                      Ryan Carter, City Attorney
+Shelly Cluff
+Crystal Keele
+Evan Matheson
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Darren Park called the Planning Commission Meeting to order at 6:30 p.m.
+Commissioner Rushton led the Pledge of Allegiance.
+
+Chair Park thanked Commissioner Rushton for his eight years of service to the City on
+the Planning Commission.
+
+2.     PUBLIC HEARINGS
+
+       A.     “READER SHORT-TERM RENTAL,” PLZ-25-2042, AN APPLICATION
+              FOR A CONDITIONAL USE PERMIT TO RENT THE PROPETY AT 4851
+              MURDOCH PEAK CIRCLE AS A SHORT-TERM RENTAL. APPLICANT
+              – GENE READER.
+
+Planner Lisa Halversen presented the Staff Report and stated that the above item was
+continued from a previous Planning Commission meeting. The applicant was aware of
+and had agreed to all Riverton City requirements for operating a short-term rental. In
+response to concerns raised at the October 9, 2025, meeting, staff confirmed that the
+applicant’s agent lives near the Reader residence and can respond within one hour.
+Additionally, City Attorney, Ryan Carter, reviewed all relevant records and confirmed that
+Mr. Reader had no criminal violations or other court actions on file that would prohibit him
+from operating a short-term rental.
+
+In response to a question raised by Commissioner Rushton, Mr. Carter confirmed that
+any complaints received when tenants are not present would not count against the short-
+term rental permit. There were no criminal or civil orders on record. An incident that
+occurred several years previously did not result in a criminal conviction. Riverton City
+Code requires applicants for some uses to confirm that they have had no convictions
+Riverton City Planning Commission Meeting                                                 2
+December 11, 2025
+
+
+within the past 10 years but that did not apply to short-term rentals, and the current
+Applicant had nothing in his background that would be cause for concern regardless.
+
+Commissioner Matheson stated that when the item was first considered, the availability
+of the owner’s agent had not been verified and asked if that matter had been resolved.
+Ms. Halverson reported that City Planner, Tim Prestwich spoke with the agent, who
+assured him that they live within a short distance of the property and would be on call at
+all times.
+
+The Applicant, Gene Reader, stated that his agent was also present to answer any
+questions. He also stated that at the earlier meeting he had been surprised by his
+neighbors’ concerns. At that meeting, a neighbor alleged that he was prohibiting her from
+parking in her driveway. He disagreed with that assertion, as well as his other neighbors’
+complaints about trash cans and racing. He had done nothing illegal and had no plans
+to do so. In regard to the amount of time he would live in his home, the longest he had
+been away was for a three-week vacation to Mexico, and he met all residency
+requirements.
+
+Chair Park asked if the Applicant understands that he cannot rent the home for more than
+150 days per year. Mr. Reader stated that he believed the rental period would be a
+maximum of two to three weeks.
+
+Commissioner Matheson stated that the Applicant had done something to upset his
+neighbors and asked what could be done to calm the situation. Mr. Reader stated that
+one person was canvassing the neighborhood and presenting him as a “bad apple”. He
+does not block that neighbor’s driveway, but they block his. He has blown snow from
+their driveway as well as the entire street. He was trying to be a neighborly neighbor and
+hoped that there would be no further issues.
+
+Commissioner Rushton reported that the Planning Commission frequently considers
+short-term rental applications, and in many cases, they hear stories of past issues at
+those meetings. The City had a process in place for short-term rentals, and property
+owners have a right to use their properties within that ordinance.
+
+In response to a question raised by Chair Park, Mr. Reader stated that the garage would
+not be available for rental. Two rooms in the basement and one upstairs will be rented
+beginning immediately, and a third room would be available once it was furnished. He
+understands that he can only rent to one family or group at a time, and he will provide off-
+street parking for all guests. His agent was hired for the specific purpose of managing
+the rental.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+Riverton City Planning Commission Meeting                                               3
+December 11, 2025
+
+
+Commissioner Matheson addressed the audience. He stated that he had read all the
+comments that were submitted for this item, and many of those residents expressed
+anger over their perception that the Planning Commission does not listen to the residents’
+concerns. However, the commission does not make the laws. If an application meets all
+requirements under the law, it cannot legally be denied. He personally dislikes short-term
+rentals. A property near his home was a short-term rental before Riverton had rules in
+place and the renters often disrupted his sleep. Now there are rules in place and short-
+term rentals that do not follow them will be shut down.
+
+Commissioner Rushton moved that the Planning Commission APPROVE
+Application PLZ-25-2042, “Reader Short-Term Rental,” located at 4851 Murdoch
+Peak Circle, subject to the following:
+
+Conditions:
+
+      1.      The site, structures, and use shall remain in compliance with any and
+              all applicable Riverton City Standards and Ordinances, specifically the
+              City Home Occupation Ordinance (18.190) and applicable Building and
+              Fire Codes.
+
+      2.      Short-term rental must be operated within the rules and regulations
+              for Short-term Rentals as described in Riverton City Code 18.190.051.
+
+      3.      Applicant must obtain and maintain a Riverton City business license.
+
+      4.      Applicant shall surrender Applicant’s Conditional Use Permit for
+              short-term rental use of the subject property in the event applicant
+              undertakes any other business activity on the subject property, or the
+              applicant shall reapply for a Conditional Use Permit for a short-term
+              rental in a manner which takes into account the other business
+              activity.
+
+      5.      Applicant shall disclose all Applicant’s advertising materials, whether
+              provided to listing agencies or otherwise made available to potential
+              customers and shall semi-annually update City staff of any changes
+              to said advertising materials.
+
+      6.      There may be no more than eight combined renters and guests (non-
+              permanent residents) on the property at any given time.
+
+      7.      There may be no more than one rental contract at any given time.
+
+Commissioner Cluff seconded the motion. Vote on Motion: Commissioner Beck –
+Aye, Commissioner Cannon – Nay, Commissioner Keele – Aye, Commissioner
+Riverton City Planning Commission Meeting                                                4
+December 11, 2025
+
+
+Matheson – Aye, Chair Park – Aye, Commissioner Rushton – Aye. The motion
+passed 6-to-1.
+
+
+      B.     “HEALING ARTS AND MINDS,” PLZ-25-2046, AN APPLICATION FOR A
+             CONDITIONAL USE – HOME OCCUPATION PERMIT TO PROVIDE
+             HYPNOTHERAPY FROM A HOME LOCATED AT 12025 SOUTH DOVES
+             LANDING DRIVE. APPLICANT – JILL BLANCHARD.
+
+Ms. Halversen presented the Staff Report and stated that the subject property is .24 acres
+and is located in the north-central part of the Riverton in the R-4 Zone. It is a one-story
+home with a basement, attached two-car garage, and an extra-wide driveway for
+additional parking. The applicant would use the office in the home for hypnotherapy
+sessions. There would be no deliveries, business vehicles, storage, or employees.
+Clients would be scheduled one a time, with no more than three per day. The application
+was before the Planning Commission due to a request for occasional evening
+appointments that would end no later than 9:00 p.m.
+
+Notice was sent to all property owners within 300 feet of the subject property, and no
+comments were received. Staff recommended approval subject to the conditions outlined
+in the Staff Report.
+
+Commissioner Cluff asked if hypnotherapy was subject to State oversight. Ms. Halversen
+stated that to her knowledge, no special licensing was required.
+
+The applicant, Jill Blanchard, stated that she was a school counselor for 16 years and
+has always been fascinated by the brain and neuroplasticity. She recently completed 350
+hours of schooling in Rapid Transformational Therapy that consisted of online classes,
+tutors, and live training. Utah does not currently license hypnotherapists, but they do
+outline what hypnotherapists may and may not do. Her work focuses on increasing
+motivation, behavior modification, and lifestyle changes.
+
+In response to a question raised by Commissioner Matheson, Ms. Blanchard stated that
+her focus is on helping people overcome limiting beliefs around topics of money, weight
+loss, and procrastination, as well as helping clients overcome anxiety and phobias. She
+had no safety concerns about potential clients. Her intake process helps determine
+whether they are a good fit for each other prior to the first appointment, and she would
+not bring a safety risk into her home or the neighborhood. If she is not comfortable with
+a particular client, she can refer them to a more experienced hypnotherapist. Clients also
+sign a consent waiver indicating their understanding that she is not a psychotherapist,
+psychologist, or medical practitioner, and that hypnotherapy should not be considered a
+replacement for the advice or services of those professionals.
+
+Ms. Blanchard will continue working at her full-time job until she can establish a client
+base, so she plans to see clients on Tuesday and Wednesday from 5:00 p.m. to 9:00 p.m.
+Riverton City Planning Commission Meeting                                                5
+December 11, 2025
+
+
+
+Commissioner Beck asked if clients would be drowsy after sessions. Ms. Blanchard
+stated that hypnosis creates a very relaxed state, but clients are brought back out of that
+state prior to the end of the session. She has never personally experienced drowsiness
+after a session and was not concerned about clients being unable to drive.
+
+In response to a question raised by Chair Park, Ms. Blanchard stated that she has a
+master’s degree in educational counseling. Her counseling credentials are specific to her
+work in schools, and she is not licensed to perform counseling from her home.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE Application
+PLZ-25-2046, “Healing Arts and Minds,” located at 12025 South Doves Landing
+Drive, subject to the following:
+
+Conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and
+              all applicable Riverton City Standards and Ordinances, specifically the
+              City Home Occupation Ordinance (18.190) and applicable Building and
+              Fire Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City business license.
+
+       3.     Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+
+       4.     Home Occupation must operate within the Fixed Standards, and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.     Applicant may offer evening appointments with no business activity
+              after 9:00 p.m.
+
+Commissioner Beck seconded the motion. The motion passed with unanimous
+consent of the Commission.
+
+
+
+C.     “VIVIAN’S KITCHEN,” PLZ-25-2048, AN APPLICATION FOR A CONDITIONAL
+       USE – HOME OCCUPATION PERMIT TO PROVIDE CATERING SERVICES
+       FROM THE KITCHEN OF THE OF THE HOME LOCATED AT 11752 SOUTH
+       1300 WEST. APPLICANT – VIVIAN BURR.
+Riverton City Planning Commission Meeting                                              6
+December 11, 2025
+
+
+
+Ms. Halversen presented the Staff Report and stated that the applicant intends to use her
+home kitchen to prepare food for her catering service. The subject property is in the
+northeast section of the City and fronts onto 1300 West. It is .41 acres and zoned RR-
+22. The one-level home has a drive approach on the south side and an extra-wide
+driveway.
+
+Customers will order online and occasionally come to the home to discuss menus and
+pricing. The applicant will either deliver orders to a venue or schedule a pick-up time,
+and she anticipates no more than two customers per day. There will be no deliveries to
+the home, and there will be no employees. Business use will be limited to the kitchen
+and front entryway of the home. Planning Commission approval was required for the
+application because it involves food or drink preparation, storage, or catering.
+
+Ms. Halversen reported that notice was sent to neighboring property owners and no
+comments were received.
+
+The applicant, Vivian Burr, stated that her former employer had requested that she
+register a business so they can contract with her for catering services. She had received
+all necessary documents from the State. She intended to provide delicious food and
+quality service to her customers. She caters birthdays, anniversaries, weddings, and
+some small family gatherings with a maximum of approximately 200 guests. No events
+are held in her home.
+
+In response to a question raised by Commissioner Cluff, Ms. Burr stated that she had
+received a Utah Food Handlers Permit.
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE
+Application PLZ-25-2048, “Vivian’s Kitchen,” located at 11752 South 1300 West,
+subject to the following:
+
+Conditions:
+
+      1.      The site, structures, and use shall remain in compliance with any and
+              all applicable Riverton City Standards and Ordinances, specifically the
+              City Home Occupation Ordinance (18.190) and applicable Building and
+              Fire Codes.
+
+      2.      Applicant must obtain and maintain a Riverton City business license.
+
+      3.      Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+Riverton City Planning Commission Meeting                                                  7
+December 11, 2025
+
+
+
+       4.     Home Occupation must operate within the Fixed Standards, and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.     Applicant may use up to 25% of the main floor for the business.
+
+       6.     No business activity may take place outside the home before 7:00 a.m.
+              or after 7:00 p.m.
+
+Commissioner Keele seconded the motion.                  The motion passed with the
+unanimous consent of the Commission.
+
+
+D.     “MELBA LILY DESIGNS,” PLZ-25-2050, AN APPLICATION FOR A
+       CONDITIONAL USE – HOME OCCUPATION PERMIT TO DO DESIGN,
+       CUTTING, AND ENGRAVING IN THE GARAGE OF THE HOME LOCATED AT
+       3886 WEST 12380 SOUTH. APPLICANT – TENA ANDERSEN.
+
+Ms. Halversen presented the Staff Report and stated that the subject property is 0.25
+acres and zoned R-4. The home is a rambler with a basement, three-car garage, and
+extra-wide driveway. The applicant creates and engraves small wood crafts and home
+décor. There are no additional employees, and only a few customers will visit the home.
+Sales are conducted online, and she anticipates one business delivery will be received
+each week. A business vehicle is parked in the driveway, but the vehicle has no logos or
+other advertising. Minimal noise is generated when creating the products. Tools used
+include carbon dioxide and fiber lasers. Business hours will be from 9:00 a.m. to 2:00
+p.m. Monday through Friday. The application was before the Planning Commission due
+to a request to utilize the third-car garage as workspace to cut and engrave products and
+to store a small amount of wood.
+
+Notice was sent to property owners within 300 feet of the subject property, and no
+comments were received.
+
+In response to a question raised by Commissioner Keele, Ms. Halversen stated that the
+next step after approval of the Conditional Use Permit would be to obtain a business
+license. The Fire Marshal would then inspect the property, and any fire safety issues
+would be addressed at that time.
+
+The applicant, Tena Andersen, stated that she uses a carbon dioxide laser that does not
+create sawdust. She has used the laser for three years without incident, but she keeps
+a fire blanket on site and is prepared in the event of a fire. In response to a question from
+Chair Park, she stated that small pieces of wood are cut off the designs and fall into a
+tray below the laser. The tray does not contain any water.
+Riverton City Planning Commission Meeting                                          8
+December 11, 2025
+
+
+Chair Park opened the public hearing. There were no comments. The public hearing
+was closed.
+
+Chair Park moved that the Planning Commission APPROVE Application PLZ-25-
+2050, “Melba Lily Designs,” located at 3886 West 12380 South, subject to the
+following:
+
+Conditions:
+
+      1.      The site, structures, and use shall remain in compliance with any and
+              all applicable Riverton City Standards and Ordinances, specifically the
+              City Home Occupation Ordinance (18.190) and applicable Building and
+              Fire Codes.
+
+      2.      Applicant must obtain and maintain a Riverton City business license.
+
+      3.      Applicant must obtain and maintain applicable State and other outside
+              agency approvals.
+
+      4.      Home Occupation must operate within the Fixed Standards, and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+      5.      No business activity may take place outside the home before 7:00 a.m.
+              or after 7:00 p.m.
+
+      6.      Applicant is permitted to use up to 50% of the garage space for
+              business activities.
+
+Commissioner Cluff seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+
+
+
+E.    “UTAH COLLECTIVE SD REZONE,” PLZ-25-4008, AN APPLICATION TO
+      REZONE APPROXIMATELY 1.28 ACRES LOCATED AT 2673 WEST 11800
+      SOUTH. THE PROPERTY CURRENTLY OPERATES AS A PRIVATE SCHOOL
+      IN AN RR-22 RESIDENTIAL ZONE UNDER A PREVIOUSLY APPROVED
+      CONDITIONAL USE PERMIT. THE APPLICANT IS REQUESTING A SPECIAL
+      DESIGNATION ZONING OVERLAY BE CREATED FOR THE PROPERTY TO
+      ALLOW FOR A NUMBER OF SPECIFIC EXEMPTIONS FROM THE EXISTING
+      CODE. APPLICANT – BEN MILAR.
+Riverton City Planning Commission Meeting                                              9
+December 11, 2025
+
+
+Development Services Director, Jason Lethbridge, presented the Staff Report and stated
+that the subject property is on the southeast corner of the intersection of 2700 West and
+11800 South. The Planning Commission had heard Conditional Use Permit and Site Plan
+applications for this property in the past. It is zoned RR-22, which is a residential
+designation that allows public and quasi-public buildings including meeting houses and
+schools. The applicant had approached the City regarding incorporating farm animals as
+part of the school curriculum.
+
+The RR-22 zone grants animal rights. The zone’s architectural standards for public and
+quasi-public buildings are similar to commercial zones and do not allow exemptions to
+those requirements, so the proposed greenhouse and other structures would not be
+permitted. Photographs of the site and proposed structures were reviewed.
+
+The applicant requested the following deviations:
+
+      1.     Fencing around animal areas would consist of four-by-four treated wood,
+             stained black with steel panels. The fencing would be approximately 52
+             inches tall.
+
+      2.     Animal shelters would be approximately seven feet tall and be constructed
+             with natural cedar siding and white metal roofs.
+
+      3.     Chicken coops would have natural wood siding, and the run would be
+             enclosed with chicken wire.
+
+      4.     Greenhouse would be set back ten feet from 2700 West and constructed of
+             aluminum with clear glass or polycarbonate panels.
+
+Mr. Lethbridge reported that the City had the authority to approve Specific Development
+(“SD”) designation for the property, and such requests were treated like rezoning. The
+Planning Commission would make a recommendation to the City Council, and the Council
+would make the final decision.
+
+In response to a question raised by Commissioner Cluff, Mr. Lethbridge reported that the
+RR-22 Zone does not limit animal rights based on use. However, it does limit the number
+of animals that can be kept to 20 small animals per 0.50 acre. There are also allowances
+for larger animals like goats and sheep. If the animals were not properly cared for, Code
+Enforcement would respond in the same way they would for residential properties. The
+request for SD designation was specific to exterior building materials and the greenhouse
+setback.
+
+Commissioner Cluff asked if there were any visibility concerns related to placing the
+greenhouse so close to the street. Mr. Lethbridge stated that there would be sufficient
+visibility with the reduced setback, but the zone’s 20-foot setback was intended to allow
+for visibility on street sides of properties.
+Riverton City Planning Commission Meeting                                                10
+December 11, 2025
+
+
+
+In response to a question from Commissioner Rushton, Mr. Lethbridge stated that animal
+rights would only lapse if the zoning was changed. For example, if a property with animal
+rights is rezoned, its animal rights become legal nonconforming. Once animals are
+removed from the property, the animal rights will lapse. In this case, animal rights are
+tied to the underlying zoning and will not lapse.
+
+Commissioner Rushton asked about potential future widening of 2700 West.
+Mr. Lethbridge did not believe there was a good basis to allow the reduced setback. The
+setback is in place for a reason, and that standard applies to residential properties in the
+zone as well.
+
+Commissioner Cannon liked the idea of incorporating farm animals into the school’s
+curriculum but was concerned about allowing reduced setbacks for the greenhouse. If
+the Applicant had made these requests with their initial application, he believes the
+Planning Commission would have considered it in detail. He asked if there was a way to
+allow the reduced setback but require a taller fence along 2700 West. Mr. Lethbridge
+stated that the Planning Commission could make that recommendation to the City
+Council.
+
+In response to a question raised by Commissioner Matheson, Mr. Lethbridge reported
+that public schools are exempt from City oversight. Per State law, municipal zoning
+standards do not apply to public school properties.
+
+In response to a question from Chair Park, Mr. Lethbridge confirmed that the Applicant
+could have animals on the property and construct enclosures for them without the SD
+designation as long as the enclosures meet existing architectural standards. Chair Park
+stated that he understood residents’ objections to having animals on the property, but the
+property already had vested animal rights.
+
+Chair Park stated that the property currently has a three-rail fence and asked if there was
+precedent for requiring solid fencing to screen the enclosures and animal activity.
+Mr. Lethbridge stated that the Planning Commission could recommend that more
+substantial or solid fencing be required.
+
+In response to a follow-up question from Chair Park, Mr. Lethbridge stated that no outside
+play structures were originally proposed. The Applicant initially intended to have animals
+and animal structures in the area, but that was pulled from the original Site Plan due to
+the architectural requirements. Mr. Lethbridge then displayed a photograph of the
+proposed fencing and indicated that it was not included in the Staff Report.
+
+The Applicant, Ben Milar, loved the idea of children working with animals. The area had
+always been intended to house animals, but it was removed from the original Site Plan
+due to the architectural standards and the expedited construction schedule. The
+greenhouse and animal structures will not have foundations, and the greenhouse side
+Riverton City Planning Commission Meeting                                                 11
+December 11, 2025
+
+
+walls will be shorter than the current fencing along 2700 West. Their intention in placing
+the greenhouse on that frontage is to better screen the animals, and they requested a
+decreased setback due to safety concerns. All structures could be picked up and moved
+at any time. They believe that adding animals to their curriculum fits with the Riverton
+farming community.
+
+Commissioner Rushton stated that the City has latitude because the property operates
+as a school, but animal rights were based on someone residing at the property to care for
+the animals. He asked about the hours someone will be on site, as well as security.
+Mr. Milar stated that gates will be installed to close off the parking lot, and there will be
+fencing and cameras around the animal areas. Full-time staff will care for the animals
+daily, including in summer, but no one lives on the property.
+
+Commissioner Rushton stated that Utah State University’s Bastian Agricultural Center is
+five minutes from the school. He understands that children can learn a lot from working
+with animals, but there is a difference between pets and livestock. He believes children
+learn from the responsibility of caring for animals, not from seeing animals at school. He
+was concerned that the property was not a residence and someone could gain access to
+the animals when no one is on site.
+
+Chair Park indicated that many of the comments regarding the application expressed
+concern about odors and rodents and asked how Mr. Milar would mitigate those issues.
+
+Mr. Milar first addressed Commissioner Rushton’s comment and stated that the animals
+would not be kept as pets. They would be raised and taken care of as part of an animal
+science course. Commissioner Rushton stated that being in the presence of animals for
+a portion of the day is different from caring from them at home. Regarding Chair Park’s
+concern, Mr. Milar stated that he had spoken with a licensed pest control company
+regarding ongoing mitigation. Students enrolled in the class will maintain the enclosures,
+including daily cleaning. His application was in reference to architectural standards, not
+animal maintenance, but the animals would be taken care of.
+
+Mr. Lethbridge clarified that any gates that prevent access to the property from the main
+roadways would require approval prior to installation.
+
+Commissioner Rushton explained that a public comment referred to events at the school
+and asked if for-hire events like weddings were being held on the property. Mr. Milar
+stated that no such events had taken place.
+
+Commissioner Matheson stated that he tried to keep chickens, but there were hundreds
+of mice on his property within days. In his experience that can only be mitigated by
+keeping the chickens in a sealed structure. He asked how that issue could be mitigated
+and if the property was the appropriate place for children to learn about livestock. He
+understood that the City could not prevent the property owner from keeping chickens, but
+believed the structure needs to be mouse-proof. Mr. Milar stated that he keeps several
+Riverton City Planning Commission Meeting                                               12
+December 11, 2025
+
+
+dozen chickens at his home. He contracts with a pest control service, and as a result he
+has no issues with mice. In response to a follow-up question from Commissioner
+Matheson, Mr. Milar stated that the pest control service placed boxes in his yard that
+catch the mice prior to entering the chicken coop.
+
+Chair Park asked Mr. Milar to explain his statement regarding safety concerns with
+placing the greenhouse at the required 20-foot setback. Mr. Milar stated that someone
+can enter the property from the sidewalk and hide behind the greenhouse.
+
+Commissioner Cluff asked if other types of animals would be kept on the property.
+Mr. Milar stated that they were evaluating the idea of having larger animals than rabbits
+and chickens and may have one or two goats on the property.
+
+Chair Park opened the public hearing.
+
+Ben Mabbutt agreed that animals are great for children, but he was concerned about
+allowing an aluminum greenhouse within 10 feet of the 7,200-volt power cable at the
+property line. He believed that Rocky Mountain Power should be consulted to confirm
+that there was adequate clearance.
+
+Kathy Whitenight lives in the neighborhood. Her understanding was that the school would
+provide classes on different topics, but she was concerned about the agricultural classes.
+The area has other resources for agricultural training, and the Applicant did not include
+that intention in their original request. She was also concerned about other uses the
+school may propose in the future.
+
+Richard Keeler stated that his home is adjacent to the subject property. Many things had
+happened on the property, and some things that were promised had not been delivered.
+When he moved to Riverton, there was a farm on the other side of his property that
+contained 127 dogs. It took him and his neighbor one-and-a-half years to get rid of the
+dogs. Riverton City did not assist in that effort, and he had to speak with three people at
+Salt Lake County Animal Control before they investigated the problem. He was
+concerned about what would happen in the future. The elevations differed considerably
+from his expectations. His sunroom faces the front door of the school, and he listens to
+loud children all day. He asked what would stop the school from keeping horses and
+cows.
+
+Zenas Herdegen does not live in the area. His understanding was that the school had
+the right to keep animals, and their request was in regard to materials and the greenhouse
+setback. The Staff Report seemed to indicate that the property could have small or
+medium animals, not both, and he asked for clarification on that point.
+
+Mr. Lethbridge commented that City Code includes ratios that allow a mixture of small,
+medium and large animals, and that ratio is overseen and enforced by Animal Control.
+Riverton City Planning Commission Meeting                                               13
+December 11, 2025
+
+
+Dan Milton experienced some of these same issues in building a school in Sandy in the
+1990s. They also had an agriculture curriculum, and raising animals was an amazing
+experience for the children. He is at the Utah Collective School campus frequently, and
+Mr. Milar is one of the most honest and forthright people he has met.
+
+Joshua Green participates in the school. The students start each day with a prayer and
+the Pledge of Allegiance. They are God honoring, family focused, and honor the building,
+their leaders, and each other through their attitudes and actions. The children are
+required to live up to a high standard of excellence. He did pest control for eight years,
+and in his experience rodents in residential areas are due to improper mitigation. The
+standard in Utah is one rodent bait box every 20 feet, but he recommends placing them
+every 10 to 15 feet across the property to mitigate all rodent issues.
+
+Dan Hawkins stated that he lives across the street from the school. Neighbors on all
+sides of his property have goats and chickens, and rodents are a real problem. He cannot
+use a shipping container as a shed, but the school was allowed to bring noise and traffic
+to a quiet residential area and continued to receive allowances and variances. He asked
+why the matter was not brought up initially and how many times Mr. Milar would come
+back requesting more allowances. The property is only 1.28 acres, and a lot of it is taken
+up with the large, poorly painted building.
+
+There were no further comments. The public hearing was closed.
+
+In response to a question from Commissioner Cannon, Mr. Lethbridge confirmed that
+Mr. Milar and his team initially indicated that they wished to keep animals on the property
+but decided to wait to move forward until construction was completed.
+
+Commissioner Rushton stated that the City has two very clear types of zoning, residential
+and commercial, and residential zones have certain rights. There is no residence at the
+school, but a zoning provision allows those types of buildings in residential zones. He
+does not believe there is a premise that supports allowing animals at a commercial
+building or that commercial buildings should be afforded the same rights as residences.
+It is not an agricultural setting, and there are various local programs like 4H and the
+Bastion Center that teach on this topic. Rabbits and chickens are pets, and children can
+keep them at their homes. He did not believe the school should have animal rights just
+because it is in a residential zone. He was not opposed to the greenhouse location.
+
+Chair Park stated that the zoning provides animal rights. The question before the
+Commission was what the buildings they are housed in look like. He agrees that it is
+unfortunate the zone allows animals at a commercial property, but those rights were
+vested.
+
+In response to a question from Commissioner Rushton, Mr. Carter stated that it is a
+legislative decision. Commissioner Rushton stated that if the Planning Commission could
+demonstrate that the use is noncompliant with established uses in the City, they could
+Riverton City Planning Commission Meeting                                                 14
+December 11, 2025
+
+
+recommend denial. Mr. Carter stated that as long as there is a reasonable reason for
+denial, any decision would not be overturned by the courts. However, the application was
+not for animal rights. Chair Park was correct that it is a foregone conclusion that they will
+keep animals on the property. The SD designation would alter the architectural standards
+for the zone, and the Planning Commission’s recommendation should be related to the
+architectural standards.
+
+Mr. Carter noted that concerns had been expressed by the public regarding sanitary
+conditions and the impact to the surrounding community. If they could conclude that the
+exterior surfacing standards for the primary structure would be better suited to maintaining
+a sanitary environment, that would be a factual basis for a recommendation of denial. If
+the Commission forwarded a recommendation of denial based on their belief that animal
+rights should not be allowed on the property, the City Council could not consider that as
+a basis for denying the application.
+
+Commissioner Rushton stated that residential zoning is predicated on there being a
+residence. Mr. Carter clarified that animal rights are granted based on the zoning, not the
+SD designation. All residential zones include educational institutions as an allowed use.
+Some residential uses also afford animal rights, and those rights are not disallowed for
+educational institutions. Animal husbandry may be a unique curriculum in the traditional
+education landscape, but he did not believe it was counter to the intent of the use.
+
+Chair Park asked if denial would require the property owner to install fully enclosed
+structures for the animals or if the surfaces would simply need to match other buildings
+on the property. Mr. Lethbridge stated that if the Planning Commission recommended
+denial and the City Council subsequently denied the application, the property owner
+would have the option of building the structures in compliance with the architectural
+standards for public and quasi-public buildings. A recommendation of denial would not
+lead to construction of sealed structures.
+
+Commissioner Cluff stated that the photographs of the animal enclosures and chicken
+coop did not match the recommended conditions of approval and asked for clarification
+on what the applicant intended to build. Mr. Lethbridge stated that the language in the
+motion was provided by the applicant, and the photographs were submitted as exhibits.
+The metal enclosures shown in the exhibits would not comply with the recommended
+language. The small enclosures will not require a building permit, but one will be required
+for the greenhouse. Proximity to the power lines will be reviewed as part of that process.
+
+Commissioner Cluff remarked that the Bastion Center is also a commercial facility, but it
+is utilized for agricultural purposes. She did not see a reason to exclude this entity based
+on the use of the subject property.
+
+In response to a question from Commissioner Keele, it was confirmed that the animal
+enclosure will be fully fenced. Fencing was not listed in the motion because it is not a
+deviation from current RR-22 zoning regulations.
+Riverton City Planning Commission Meeting                                               15
+December 11, 2025
+
+
+
+Commissioner Matheson stated that he was in favor of recommending denial of the
+special designation and keeping the architectural standards intact. If the Applicant
+wanted to build a compliant chicken coop, they could do so. He likes the idea of a
+greenhouse but believes it should be constructed at the required 20-foot setback.
+
+Commissioner Cannon stated that the subject property was undeveloped for a long period
+of time, but it could have been developed with two homes with animal rights. Families
+did not purchase the property. He asked if the City should have rezoned the property
+when the original application was received. Mr. Lethbridge stated that the use was
+allowed in the RR-22 Zone and complied with the General Plan, so there was no basis to
+require rezoning.
+
+Commissioner Cluff asked if the fencing would be addressed as a Site Plan change. Mr.
+Lethbridge reported that, depending on how the SD was structured, the item may be
+handled administratively. However, the Site Plan would need to be updated.
+
+In response to a question raised by Commissioner Rushton, Mr. Lethbridge confirmed
+that the Planning Commission would review architectural renderings of the greenhouse if
+the SD designation were not approved. In response to a follow-up question from Chair
+Park, Mr. Lethbridge clarified that approval of the setback deviation did not automatically
+approve the greenhouse. Minimum setbacks are subject to and superseded by building
+and fire codes. If any issues were found during building permit review, the structure would
+need to be moved to a safe distance from the power line.
+
+Commissioner Matheson suggested that the Planning Commission recommend denial of
+Conditions 1 and 2 and approval of Conditions 3 and 4. Commissioner Rushton stated
+that he believes all structures should comply with the current standards. Mr. Lethbridge
+noted that a greenhouse cannot comply with the current standards because they require
+masonry and other solid materials, and no exclusions or exceptions are allowed for public
+and quasi-public uses. Mr. Carter stated that Condition 3 was important for that reason.
+
+In response to a question, Mr. Lethbridge clarified that City ordinance includes an
+exception allowing greenhouses on residential properties, but quasi-public uses like the
+school are not entitled to that exception.
+
+Commissioner Cluff asked if the City’s greenhouse ordinance is more restrictive than what
+was proposed for the SD designation. Mr. Lethbridge stated that the current ordinance
+is broader than Condition 3 because it allows for opaque glass and plastic. Commissioner
+Cluff stated that she lives near the subject property. Her neighbors have chickens and
+goats, and that is part of life in an agricultural community. She did not see logic in
+disallowing this entity from keeping chickens as well.
+
+Chair Park stated that the issue was what the structures would look like. Fencing would
+be addressed in the Site Plan.
+Riverton City Planning Commission Meeting                                               16
+December 11, 2025
+
+
+
+Commissioner Matheson disagreed with Commissioner Cluff. He was inclined to deny
+the architectural deviations for all structures except the greenhouse and to maintain the
+current setback. He believes the structures should be fully enclosed. Chair Park clarified
+that the structures would not be required to be fully enclosed.
+
+Commissioner Cluff moved that the Planning Commission recommend APPROVAL
+of Application PLZ-24-4008, “Utah Collective Rezone,” adding the following
+Specific Development Designations to the current RR-22 Zone on property located
+at 2673 West 11800 South:
+
+Conditions:
+
+      1.      Animal shelters may be built with "natural cedar siding" and white
+              metal roof.
+
+      2.      Chicken coops may be built from natural wood siding and chicken
+              wire enclosure for a chicken run.
+
+      3.      A greenhouse may be built with aluminum and glass/polycarbonate
+              clear panels.
+
+      4.      A greenhouse may be built with a 10 ft setback from property line
+              adjacent to 2700 West.
+
+Commissioner Cannon seconded the motion. Vote on Motion: Commissioner
+Cannon-Aye, Commissioner Keele – Nay, Commissioner Cluff – Aye, Chair Park –
+Aye, Commissioner Rushton – Nay, Commissioner Beck – Aye, Commissioner
+Matheson– Nay. The motion passed 4-to-3.
+
+Mr. Lethbridge reported that new notices would be sent out prior to the public City Council
+hearing on this item.
+
+
+
+F.    “TIMBERLINE    DEVELOPMENT     AGREEMENT,”     PLZ-25-4009,   AN
+      APPLICATION FOR A DEVELOPMENT AGREEMENT FOR APPROXIMATELY
+      4.24 ACRES LOCATED AT 13518 AND 13506 SOUTH REDWOOD ROAD. THE
+      PROPOSED DEVELOPMENT AGREEMENT WOULD CHANGE THE ZONING
+      TO RM-8 (MULTI-FAMILY WITH 8 UNITS PER ACRE), WHILE LIMITING THE
+      PROJECT TO DETACHED SINGLE-FAMILY UNITS ON INDIVIDUAL LOTS.
+      THE PROPOSED AGREEMENT WOULD ALSO AMEND THE GENERAL PLAN
+      TO “MEDIUM-HIGH DENSITY RESIDENTIAL,” APPROVE A PRELIMINARY
+      SUBDIVISION LAYOUT, AND ESTABLISH ARCHITECTURAL AND
+Riverton City Planning Commission Meeting                                                17
+December 11, 2025
+
+
+       DEVELOPMENT STANDARDS, INCLUDING PRIVATE ROAD WIDTHS.
+       APPLICANT – RANDY SMITH WITH FIELDSTONE HOMES.
+
+
+Mr. Lethbridge presented the Staff Report and displayed photographs of the subject
+property. The existing zoning is primarily Neighborhood Commercial (“C-N”), with a small
+portion of the property in the RR-22 Zone. The C-N Zone was approved in response to
+a previous application for a proposed large animal veterinary clinic, but that applicant did
+not move forward with the project. The proposed Development Agreement would rezone
+the entire property to R-8. The current General Plan designations for the property were
+Medium Density Residential with a minimum of 0.25-acre lots and Estate Density
+Residential with a 0.50-acre minimum.
+
+Mr. Lethbridge reported that the Development Agreement process differs from the typical
+approval process. The Development Agreement would change the zoning and General
+Plan designation as well as approve the conceptual layout, density, road widths, and
+architectural standards. Without a Development Agreement, the Planning Commission
+and City Council would review the project several times through the rezoning and Site
+Plan processes.
+
+Staff recommended that the Planning Commission take public comment, hear from the
+Applicant and Staff, and then table the item. The City Council would then review the
+application and offer additional guidance and feedback prior to a recommendation from
+the Planning Commission. The City Council would be the final decision-making body on
+the Development Agreement.
+
+Mr. Lethbridge reported that 13550 South terminates at the subject property. Public
+comments had been received indicating that the road is a cul-de-sac, not a through street.
+However, when the older subdivision was approved in 1973, it was specified that this was
+a temporary turnaround. Were the road to be completed, some changes would be
+required to the right-of-way. The stub road to the north does not have a temporary
+turnaround. The Concept Plan indicates that the public roadway will connect to Redwood
+Road, with a potential future connection to 13550 South. The proposed interior private
+roadway would be 20 feet wide. Mr. Lethbridge noted that City Code did not specify a
+width for private lanes that serve more than two lots.
+
+Mr. Lethbridge indicated that the proposed architectural standards and concept
+renderings would be discussed in more detail at a future meeting. The City Council will
+hold a public hearing on the item following the Commission’s recommendation, so there
+will be many opportunities for public input prior to the final decision.
+
+In response to a question raised by Chair Park, Mr. Lethbridge confirmed that after the
+Planning Commission tabled the item, the City Council would provide further guidance
+prior to the Commission taking action on the application. There had been some
+discussion regarding the existing public roadways and sidewalks, and the Council would
+Riverton City Planning Commission Meeting                                               18
+December 11, 2025
+
+
+like to provide additional feedback on those issues before the Planning Commission
+moves forward with a recommendation. That would also provide time for the Commission
+to consider any concerns raised by the public.
+
+Chair Park asked if the proposed public roadway would comply with City standards.
+Mr. Lethbridge stated that there was no language in the Development Agreement that
+would exempt the roadway from standard requirements for public rights-of-way. Chair
+Park stated that there had been a cul-de-sac on 13550 South for 50 years. Mr. Lethbridge
+stated that how the roadway would be addressed was one of the external issues that
+required more discussion.
+
+Commissioner Matheson stated that the subject property is a unique parcel. He would
+like to see the developer work something out with the Nokes family regarding the second
+access.
+
+Commissioner Rushton stated that there were several projects with similar density in the
+City that had the Elderly Housing Overlay.
+
+Jared Payne spoke on behalf of Fieldstone Homes and stated that he was eager to hear
+what the neighbors thought about the project. The property was purchased with
+commercial zoning, and they met with Mayor Staggs and the City Council multiple times
+to determine its best use. A traffic study was conducted that indicated commercial use
+would generate approximately 3,400 tips per day. The proposed project will generate
+300 trips per day, most of which will enter and exit the property from Redwood Road.
+Fieldstone Homes has infill developments throughout the Salt Lake Valley. When they
+purchase commercial properties with the opportunity for lower intensity, they usually build
+townhomes. They originally planned to build townhomes in the development, but the City
+Council believed there was a greater need for single-family detached homes in this area.
+If instructed to do so, they could close off the other access point and only have access
+from Redwood Road.
+
+In response to a question from Commissioner Rushton, Mr. Payne reported that they had
+a similar project in the Independence area of Bluffdale.
+
+Commissioner Matheson asked for Staff input on the option of having one access point
+into the property. Mr. Lethbridge stated that fire code limits the number of homes that
+can be serviced by a single access point, but the development falls below that limit.
+However, City ordinance expresses a strong preference for interconnectivity between
+neighborhoods for east-west mobility and providing alternate ways to access their
+properties. Staff could review the option of the development only being accessed via
+Redwood Road, but there was a strong preference for an alternative access point. They
+could also explore an alternate connection to the south.
+Riverton City Planning Commission Meeting                                              19
+December 11, 2025
+
+
+Chair Park expressed concern about residents making left turns from Redwood Road into
+the property. The secondary entrance at 13550 South would allow residents to turn at a
+traffic signal on 13400 South, which would be a much safer option.
+
+Commissioner Cluff raised the issue of having R-8 zoning beside RR-22 and asked if
+larger lot zoning such as R-4 had been discussed. Mr. Payne stated that in their initial
+discussions, approximately half of the City Council approved of the townhome proposal.
+The current land use was commercial, not agricultural, and a commercial project would
+have been more practical than larger lot residential. The estimated 3,000 trips per day
+was based on a multiple-lot commercial project.
+
+Chair Park opened the public hearing.
+
+Zenas Herdegen stated that he lives in the neighborhood to the north of the proposed
+project. He was concerned about traffic if 13550 South were not connected as it would
+raise a safety issue and drive traffic into his neighborhood via 1835 West and Hamilton
+Drive. The neighborhood is very small with narrow roads, no sidewalks, and sharp turns.
+
+Mr. Lethbridge clarified that Hamilton Drive does not connect to Redwood Road.
+
+Bob Ford stated that he was a member of the Riverton Heritage Group, which consists
+primarily of residents on the east side of Redwood Road that had been very vocal about
+maintaining RR-22 zoning. The group supported rezoning the property commercial due
+to the proposed use as a large animal veterinary clinic, but now they were stuck with a
+commercial property in the middle of Riverton’s only remaining rural area. They agree
+with Council Member McDougal that the City does not need high-density housing, and
+they do not believe the proposed density fits with the area.
+
+Janen Christenson stated that he lives near the farm to the south of the subject property.
+He moved to Riverton because it was a farming area, and many people in his generation
+would love to own homes with land. He understands that there is a housing shortage but
+does not believe high-density properties help the problem. The developers bought the
+home for $2.4 million and will likely make $15 million in profit. The project would not be
+good for the community or improve the surrounding neighborhoods.
+
+Wyoma Darlington stated that she had lived in Riverton for 50 years. She opposes the
+project because the density is too high, and she does not believe the lots should be
+smaller than 0.25 acres. Traffic on Redwood Road and 13400 South is already a
+nightmare and there are many accidents.
+
+Donna Kessler stated that when the property was rezoned for the proposed veterinary
+clinic, they indicated that 13550 South would not be a through road. She did not believe
+the estimated number of trips included people who would cut through the neighborhood
+to access Redwood Road. High-density apartments were constructed near Domino’s
+Riverton City Planning Commission Meeting                                              20
+December 11, 2025
+
+
+Pizza, but there is no access from that development to the neighborhoods behind it. She
+believed the proposed subdivision should only be accessed from Redwood Road.
+
+Dan Peebles stated that he lives on the cul-de-sac at 13550 South. He believes that
+houses should have a minimum of 0.33-acre lots and is against allowing eight houses per
+acre. The cul-de-sac was the main reason he purchased his home, and he believes it
+should stay intact.
+
+Simon Raubenheimer stated that he lives on 1775 West adjacent to the subject property.
+He understands that property owners can develop their land, but he does not believe the
+proposed development fits with the area. It is already hard to get out of his neighborhood
+onto 13400 South. If the project moves forward, he believes the secondary access from
+13550 South will be necessary. He noted that the proposal did not include any parks so
+there would be nowhere for children to play. His preference was for a minimum of 0.25-
+acre lots and no public streets in the neighborhood. Red-tailed hawks and bald eagles
+have nested on the subject property, and it is also home to foxes and raccoons. He
+opposes the development and believes approving it would be irresponsible.
+
+Chair Park stated that 18 written comments had been received and reviewed by the
+Planning Commission prior to the meeting.
+
+Dave Kennedy stated that he lives near the proposed entrance to the development. His
+living room and bedroom are on that side of the house. He was concerned about cars
+crashing into his home, as well as the density. If the homes have two stories, one will
+look directly into his property. He was also concerned about fencing height and materials.
+
+Christopher Dobson stated that he lives in the cul-de-sac on 13550 South. He and his
+wife purchased their home 24 years ago. He was concerned about safety and crime in a
+higher-density development. There had been more police activity on 13550 South in the
+last 60 days than in the past several years. He now has to lock his work truck. He and
+his neighbors were opposed to connecting the road.
+
+Robert Clayton stated that he lives on 13550 South. He believes the proposed
+development embodies everything that is wrong with modern-day capitalism. They want
+to squeeze as many lots as possible into what was agricultural land. He understands that
+progress cannot be stopped, but Riverton was built on agriculture and farming, and
+allowing such high density would change the dynamic of the neighborhood. The
+infrastructure cannot handle 300 new traffic stops per day. The residents of his
+neighborhood were relying on the Planning Commission to take their comments to heart
+and understand how many lives their decision would affect.
+
+Michelle Dobson agreed with Chair Park’s statement that it would be dangerous to turn
+left from Redwood Road into the proposed development. However, it would also be
+dangerous for residents of 13550 South if the road were connected. It would be a straight
+through road, and people speeding could endanger neighborhood children. Riverton has
+Riverton City Planning Commission Meeting                                                21
+December 11, 2025
+
+
+grown since she moved there, but it had not lost its small-town feel. Allowing
+developments like the one proposed would mean losing everything that Riverton is about.
+
+Robert Kessler stated that the area used to be farmland. He understood that the
+development would be lower high density, but it was still high density. He attended the
+meeting when the property was rezoned commercial, and everyone present knew this
+would happen. He was in favor of allowing 0.50- or 0.33-acre lots. When high-density
+housing is built, riff raff moves in. He did not believe they should be allowed to build 28
+homes on four acres of land.
+
+There were no further comments. The public hearing was closed.
+
+Chair Park stated that it is the Planning Commission’s responsibility to consider quality of
+life and the best use for properties within the City.
+
+In response to a question from Commissioner Rushton, Mr. Payne indicated that the lot
+width would be 50 feet. Commissioner Rushton stated that there are similar projects
+throughout Riverton. Property owners have the right to develop their property in a
+reasonable manner for its highest and best use, and the subject property was originally
+purchased for commercial development. There is a housing crisis, and this type of project
+will provide young people the opportunity to have a home on a small parcel of land. He
+believes Riverton should embrace these types of projects.
+
+Chair Park reminded members of the public that the public comment period was closed.
+
+Commissioner Rushton stated that access issues needed to be worked out, but this was
+an appropriate infill development, and he would recommend that the City Council approve
+the Development Agreement.
+
+Chair Park addressed the public comment regarding the project behind Domino’s Pizza
+and noted that the difference was that left turns could not be made into or out of that
+project. He asked if the Utah Department of Transportation ("UDOT") had any plans to
+install a median on Redwood Road to prevent left turns at the proposed development.
+Mr. Lethbridge stated that UDOT currently had no such plans. The City has no control
+over that roadway, but UDOT would review the access plan to determine if a median is
+required. He agreed that it would be difficult to make left turns to and from the
+development and indicated that the issue was why a secondary access point was
+proposed. In response to a follow-up question, Mr. Lethbridge clarified that UDOT
+controls whether full access is granted to state roads.
+
+Chair Park stated that residents’ concerns were on the record and would be considered
+by the City Council. If the development were approved either as proposed or with larger
+lots, safety issues would be addressed in the development process. Mr. Lethbridge
+added that Staff would review all comments and incorporate the Commission’s and
+citizens’ concerns into the materials presented at the next meeting.
+Riverton City Planning Commission Meeting                                           22
+December 11, 2025
+
+
+
+Commissioner Matheson stated that the City needs more housing. However, he did not
+believe the proposed secondary access was appropriate, and too many homes were
+proposed. He was in favor of requiring slightly larger lots.
+
+Commissioner Cluff agreed that Riverton needs more housing, but the density should
+make sense for the area of the City it is in. She believes that 0.25-acre lots would be
+more appropriate, as allowing such a high contrast in density would disjoint the
+community.
+
+Chair Park stated that there are many opinions on whether higher density makes housing
+more or less affordable. The application would come back to the Planning Commission
+prior to being heard by the City Council, and the Council would consider all comments
+and recommendations prior to making its decision. All decision-makers understand the
+concerns of both residents and the property owner. He noted that 0.25-acre lots were
+once considered high density.
+
+Commissioner Cannon moved that the Planning Commission TABLE the proposed
+Timberline Development Agreement for property located at 13518 and 13506 South
+Redwood Road pending input from the City Council, including on adjacent road
+connections. Commissioner Beck seconded the motion. The motion passed with
+unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     NONE.
+
+4.    DISCUSSION ITEMS
+
+      A.     NONE.
+
+
+5.    ADJOURNMENT
+
+The meeting adjourned at approximately 10:23 PM.
+

@@ -1,0 +1,786 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=607&doc_id=23b67017-6695-11ed-95a3-0050569183fa
+> Meeting date: 2022-07-28
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, JULY 28, 2022, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:      Vice Chairman Craig Hawker, Commissioners Mary Squire, DeLaina
+                    Tonks, Alternate Commissioners Susan Nixon, Kendra Shirey and Tab
+                    Bingham
+
+ABSENT:             Chairman Andrew Adams, Commissioner Lisa Fowler, and Commissioner
+                    Gary Ogden
+
+STAFF PRESENT:      Fred Aegerter, Don Buckley, Jennifer Jastremsky, Todd Draper, Brien
+                    Maxfield, Spencer DuShane, Jonathan Concidine, Don Buckley and Amie
+                    Salazar.
+
+6:30 PM Business Meeting
+
+   1. Action Item: Approve Planning Commission Meeting Minutes for April 28, 2022
+      (Administrative Action)
+
+      Commissioner Susan Nixon reviewed a few changes to the minutes that she had.
+
+      Motion: Commissioner DeLaina Tonks motioned to approve the minutes as
+      amended by Commissioner Susan Nixon.
+
+      Second: Commissioner Susan Nixon
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+      Commissioners Kendra Shirey, DeLaina Tonks, Mary Squire, Susan Nixon, and Tab
+      Bingham voted, “Aye”.
+
+   2. Action Item: Approve Planning Commission Meeting Minutes for June 23, 2022
+      (Administrative Action)
+
+      Commissioner Susan Nixon reviewed a few changes to the minutes that she had.
+
+      Motion: Commissioner Mary Squire motioned to approve the meeting minutes as
+      amended by Commissioner Susan Nixon.
+
+      Second: Commissioner Susan Nixon
+
+      Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+      Commissioners Kendra Shirey, DeLaina Tonks, Mary Squire, Susan Nixon, and Tab
+      Bingham voted, “Aye”.
+
+   3. Public Hearing: Scalar New Office Building Site Plan Amendment and Conditional
+      Use Permit (Administrative Action)
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 2
+
+On the request of Wes Baker and Tucker Anderson representing Babcock Design & Green Shoot
+Holdings LLC, a request for approval of a Site Plan Amendment to construct a new office building
+inclusive of a request for a construction of a fence exceeding six feet (6’) in height, on
+approximately 1.34 acres located 874 East Pioneer Rd. known as application SPR-561-2022. Staff
+contact is Todd Draper, 801-576-6335 or todd.draper@draperutah.gov.
+
+Mr. Todd Draper, Planner III, presented a new site plan for Scalar New Office Building Site Plan.
+Located 874 East Pioneer Rd. Application SPR-561-2022 and USE-52-2022. The location is
+down the street from city hall. It is considered to be located in the Town Center zone. It is the old
+south valley sewer building. This is the new proposed site plan, they have decided to go a new
+direction and demolish the current building, to provide more parking. There is still the plan to
+have a rooftop deck, set back from the north will be 10.7 feet and from the east about 14.3 feet.
+Blueprints were provided to show scale and a detailed plan for this project. Elevation drawings
+were provided and will meet the town center's transparency requirements. The building materials
+will be majority brick accented with concrete. Mr. Todd Draper stated a conditional use permit
+will be needed because the applicant would like to have a ten-foot chain link fence around the
+basketball court. This request is not in compliance with the current six-foot fence ordinance.
+The lights the applicant has are too big, adjustments on a staff level were suggested to ensure the
+radius of the light stays in compliance with the code. Site photos were provided.
+Mr. Todd Draper asked the Planning Commissioners if they had any questions for him.
+
+Vice Chairman Craig Hawker asked if the sidewalk along Pioneer Rd would remain there with
+the change in the site plan and if there would be striping on the road for diagonal parking in that
+area. Mr. Todd Draper stated that the sidewalk will remain where it is and will not be changed.
+
+Mr. Brien Maxfield, Senior Engineer, also stated that there is no plan to stripe Pioneer Road for
+diagonal parking. The applicant's site plan did not include any diagonal parking along Pioneer
+Road.
+
+Commissioner DeLaina Tonks asked if diagonal parking was required in the town center zone.
+Mr. Todd Draper replied that some of those parameters changed and it is not a requirement for
+the diagonal parking.
+
+Mr. Todd Draper stated they are asking for a deviation for a few of the stalls in the parking area,
+and have done a parking study. The applicant plans to use tree diamonds in their parking lot. It is
+a deviation as well. There are three of them in the parking area where parking diamonds will be
+used. Mr. Brien Maxfield reported that the code used to allow the applicant to count diagonal
+parking as part of their parking, which is why others have requested it in their site plan; that is no
+longer an option now. Commissioner Mary Squire asked about the engineering and public works
+review of the stormwater maintenance plan, she asked where they were and if they were
+forthcoming. Mr. Todd Draper stated that usually they require a maintenance plan before
+applicants can move forward, but it was all a timing issue and will be provided at a later date,
+once their permit is approved.
+
+The applicant was present and asked to approach the Planning Commission.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 3
+
+Mr. Zak Nugent is one of the owners of Scaler and Green Shoot Holdings LLC. Also present was
+Wes Baker of Babcock Design. Mr. Zak Nugent expressed that aside from them loving the
+location, a rebuild allows them to expand and comply with a growing company. Commissioner
+Susan Nixon asked where they will relocate while the new building is constructed. Mr. Zak
+Nugent stated they will stay close by where they currently are, there are some other spaces for
+rent along I-15 where they could stay for 12-18 months. Vice Chairman Craig Hawker asked the
+applicant if there will be just basketball or will a pickleball also be included. Mr. Zak Nugent
+stated it is a basketball and pickleball court. The applicant clarified the request for the high ten-
+foot fence along the east side. The plan is for it to be behind the basketball court so they don't
+have to chase the balls into the neighbor’s yard.
+
+Vice Chairman Craig Hawker opened the public hearing. He asked if there was anyone who
+wanted to comment and reminded them to state their name and keep comments to three minutes.
+No comments made.
+Vice Chairman Craig Hawker closed the public hearing.
+
+Commissioner Tab Bingham asked if the façade facade deviation was discussed. Mr. Todd Draper
+replied stating it is in the staff reports. Mr. Todd Draper stated the Town Center Zones have
+horizontal and vertical articulation requirements stated in Title 9 Chapter 22. They have additional
+supplements that comply with the Town Center but they need deviations that are in another
+chapter. In this case a deviation required is five feet deep and twenty feet wide. The entryway
+doesn't quite comply with the dimensions, but it provides the same intent. This has all been
+analyzed and reported in the staff reports.
+
+Vice Chairman Craig Hawker asked if the south neighbors were residential and the west neighbors
+were commercial. Vice Chairman Craig Hawker wondered if there is any code about pickleball,
+hours they can play or any specific things. Vice Chairman Craig Hawker expressed the annoyance
+it can be to live next to a pickleball court. The noise is annoying. Vice Chairman Craig Hawker
+advised the applicant to make sure their staff is cognizant, when playing pickleball at different
+times in the day.
+
+Commissioner Susan Nixon asked if the ten-foot fence was going to be around the entire sports
+court. Mr. Zak Nugent stated that it would just be behind the baskets of the basketball court.
+Around the rest of the court would be about a four-foot fence. Mr. Todd Draper stated in the
+detailed staff reports, it stated they will have it behind one or two sides of the sports court.
+
+Motion: Commissioner Susan Nixon made a motion to approve the deviation requested for
+parking reduction, requested by Wes Baker and Tucker Anderson representing Babcock
+Design & Green Shoot Holdings LLC for reducing the parking stalls from 74 to 72 stalls,
+application PR-51-2022. Based on the findings and subject to the changes listed in the staff
+report dated July 12, 2022.
+
+Second: Commissioner Tab Bingham
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 4
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Susan Nixon, Kendra Shirey, DeLaina Tonks, Mary Squire, and Tab
+Bingham, “Aye”.
+
+Motion: Commissioner Tab Bingham made the motion to approve the use of tree diamonds
+in the parking area requested by Wes Baker and Tucker Anderson representing Babcock
+Design & Green Shoot Holdings LLC. Application SPR-561-2022. Based on the findings
+and subject to the conditions listed in the staff reports dated July 12, 2022.
+
+Second: Commissioner DeLaina Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Tab Bingham, Kendra Shirey, DeLaina Tonks, Mary Squire, and Susan
+Nixon, a “Aye”.
+
+Motion: Commissioner DeLaina Tonks made a motion to approve the deviation for the roof
+and parapet variations, as requested by Wes Baker and Tucker Anderson representing
+Babcock Design & Green Shoot Holdings LLC. For the Scalar office building, application
+SPR-561-2022. Based on the findings and subject to conditions in the staff reports dated
+July 12, 2022.
+
+Second: Commissioner Susan Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners DeLaina Tonks, Kendra Shirey, Mary Squire, Susan Nixon, and Tab
+Bingham voted, “Aye”.
+
+Motion: Commissioner Mary Squire motioned to approve the deviation request from
+providing a significant facade as requested by Wes Baker and Tucker Anderson
+representing Babcock Design & Green Shoot Holdings LLC. For the Scalar office building
+Amended Site Plan. Application SPR-561-2022. Based on the findings and subject to the
+conditions listed in the staff report dated July 12, 2022.
+
+Second: Commissioner Tab Bingham
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Mary Squire, DeLaina Tonks, Kendra Shirey, Susan Nixon, and Tab
+Bingham, “Aye”.
+
+Motion: Commissioner Tab Bingham made the motion to approve the conditional use
+permit requested by Wes Baker and Tucker Anderson representing Babcock Design &
+Green Shoot Holdings LLC, for the installation of a ten-foot chain link fence around the
+basketball and sports court. Application SPR-561-2022, based on the findings and subject
+to the conditions listed in the staff reports dated July 12, 2022.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 5
+
+Second: Commissioner Mary Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Tab Bingham, Mary Squire, Susan Nixon, Kendra Shirey, and DeLaina
+Tonks, “Aye”.
+
+Motion: Commissioner Mary Squire to approve the site plan amendment as requested by
+Wes Baker and Tucker Anderson representing Babcock Design & Green Shoot Holdings
+LLC, for the construction of a new office building. Application SPR-561-2022.
+Based on the findings and subject to the conditions listed in the staff reports dated July 12,
+2022.
+
+Second: Commissioner DeLaina Tonks
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Mary Squire, DeLaina Tonks, Tab Bingham, Kendra Shirey, and Susan
+Nixon, voted “Aye”.
+
+    4. Public Hearing: Shipp Barn Development Agreement (Legislative Action)
+On the request of Nate Shipp for the amendment to the Development Agreement for 2.97 acres
+of property located at 570 East Stokes Ave. in one order to reconfigure the concept plan and
+combine two lots into one, Application DA-107-2022. Staff contact is Jennifer Jastremsky, 801-
+576-6328 or jennifer.jastremsky@draperutah.gov.
+
+Ms. Jennifer Jastremsky, Planning Manager and Zoning Administrator, stated the Commissioners
+reviewed this property in 2021. The request is to amend what was previously reviewed. The
+developmental plan originally stated to keep the house where it is and for the farm activity to
+remain for seven years from the development. After that amount of time a developer could come
+in and separate the lots into three different lots. The applicant would like to reconfigure the front
+portion located on Stokes Ave. Nothing will change in the back and the parameters will remain
+the same. Instead of there being two lots, the applicant would like to make it into one. The
+applicant will leave the existing home on the property, per the provision in the agreement, thus
+making the existing home an ADU, or an accessory dwelling unit. Any future potential buyers
+could build a newer home behind the ADU. The code does not allow a detached ADU in the front
+yard. If the agreement is approved, it would allow the ADU in the front yard. The development
+agreement would require maintenance along Stokes Ave. The setbacks will be grandfathered in
+once the city acquires the necessary right of way for Stokes Ave. Whether it's a primary dwelling
+or an ADU, it will be deficient. The applicant will need to have approval for the minor subdivision
+to create the piece of property and do the street improvements. Site photos were provided.
+
+Vice Chairman Craig Hawker asked to clarify if the applicant wants to build a new home, rather
+than adding on to the existing dwelling i.e., is this request to allow them to make the existing
+building an accessory dwelling.
+
+Ms. Jennifer Jastremsky stated that this was correct.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 6
+
+
+Commissioner Mary Squire asked if there was a reason it needs to be all on one lot. The previous
+lots would have provided the same goal. Ms. Jennifer Jastremsky directed the question to the
+applicant.
+
+Commissioner Susan Nixon asked if an internal ADU is prohibited. Are the larger lots two, three,
+and four in the internal area and are there area limitations for detached ADU’s. Is there a
+maximum size?
+
+Ms. Jennifer Jastremsky stated ADU’s are not prohibited in the internal area, the maximum size
+for a detached ADU is fifty percent of the dwelling and the new home would need to be a double
+of the existing home.
+
+Mr. Nate Shipp was the representative on this project. Mr. Nate Shipp addressed the
+Commissioners stating how nice it was to come and request for a combination of lots rather than
+more density for the lots. Mr. Shipp addressed the question of why they were planning on making
+the one lot versus two. He stated allowing them to have one lot provides access to the lot with a
+driveway versus a private lane. Thus, providing less impact on neighbors.
+
+There were no questions from the commissioners.
+
+Vice Chairman Craig Hawker opened the public hearing. No one spoke.
+Vice Chairman Craig Hawker closed the public hearing.
+
+Vice Chairman Craig Hawker asked the Commissioners if they have any questions for the owner
+or staff. Commissioner Mary Squire asked if the recombination would change anything. Ms.
+Jennifer Jastremsky informed them that the setbacks will remain the same. Front set back thirty-
+foot, side setbacks twelve foot, and rear setbacks twenty foot. There must be at least six feet
+between the structures.
+
+Commissioner Mary Squire stated these two houses could be closer together in theory because
+the lot is one, and the setbacks are from the proposed lot lines.
+
+Commissioner Susan Nixon asked if there was anything that would prohibit them in the future
+from splitting the ADU from the home and would it be deed restricted.
+
+Ms. Jennifer Jastremsky stated if a future homeowner wanted to come in and do this they would
+have to come in and amend the developmental agreement with the two lots lay out.
+
+Vice Chairman Craig Hawker asked, if years down the road someone wants to come in and
+subdivide could they with this taking place. Ms. Jennifer Jastremsky stated that in the future
+someone could, but they would have to amend this agreement.
+
+Motion: Commissioner Susan Nixon made the motion to approve a positive
+recommendation to the City Council for the development agreement as requested by Nate
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 7
+
+Shipp for Shipp Barn Development Agreement Amendment. Application DA-107-2022.
+Based on the findings and subject conditions listed in the staff reports dated July 19, 2022.
+
+Second: Commissioner Tab Bingham
+
+Vote: A roll call was taken with the Commissioners voting 4-1 in favor of the motion.
+Commissioners Susan Nixon, Tab Bingham, Kendra Shirey, and DeLaina Tonks “Aye”.
+Commissioner Mary Squire voted “Nay”.
+Motion Passed
+
+   5. Public Hearing: Avery Townhomes Land Use and Zoning Map Amendment
+       (Legislative Action)
+On the request of Troy Dana, representing Draper Office Associates LLC, for the Land Use Map
+Amendment from neighborhood commercial to high density residential and a zoning map
+amendment from OR to RM2 on 2.44 acres of property located at 638 East 12225 South.
+Application TEXTMAP-139-2022 and TEXTMAP-142-2022. Staff report by Jonathan
+Concidine, 801-576-6328.
+
+Mr. Jonathan Concidine, Planner I, reported on this project. The location of the property is just
+off Pioneer Blvd. adjacent to the Day Dairy complexes. The applicant has requested to add more
+lots, from seventeen (17) to twenty-one (21). Currently the land use is neighborhood commercial.
+The applicant has requested that the zoning be changed from OR office residential, to RM2, which
+is residential multi homes high density. Site photos were provided in the presentation.
+
+Commissioner Mary Squire asked to clarify if the neighboring buildings in the sight photos were
+townhomes, condos, or other types. Ms. Jennifer Jastremsky stated they were rental units that are
+townhomes.
+
+Commissioner Tab Bingham asked how the change in zoning will impact the traffic.
+
+Jonathan Concidine stated the change in zoning from OR to RM2 will not impact traffic. It's
+basically a change from a four-plex to a five-plex. Mr. Jonathan Concidine presented information
+about parking. With townhomes there are four additional peak hour cars, and approximately
+twenty more cars with the zone change.
+
+Commissioner Mary Squire, stated that the four extra units for this just barely pushed them over
+the zone requirements.
+
+Commissioner Susan Nixon commented on page three of the staff report it says that the zones OR
+are twelve units per acre and the proposed is also twelve units per acre, it's the same density, but
+they allow different height.
+
+Vice Chairman Craig Hawker asked, to enter this complex if it would be a right turn in and a right
+turn out, no left turns on to 12200 South Street. It was stated that there is an island in the road and
+there would be no left turn on to the road.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 8
+
+Mr. Brien Maxfield stated he believes there will be some right of ways through other properties
+for access, but the main access will be off 12200 South.
+
+Commissioner Mary Squire noted there was a driveway from 12300 South that goes north for the
+office building. She asked if there would be cross access for this development or not.
+
+Mr. Jonathan Concidine stated there was cross access for this development.
+
+Ms. Jennifer Jastremsky commented that there is a cross access easement on the north and south
+side of the property.
+
+Mr. Troy Dana, applicant, presented information for the Commissioners. The plan for these
+townhomes was originally designed a few years ago. Mr. Troy Dana stated the previous plan they
+had does not live up to the standards today, thus changes needed to be made. Mr. Troy Dana
+provided the changes in the drawings, they will be 12- 1400 sq. ft. instead of 1850 sq. ft. and is a
+better project. This will provide longer driveways for each town home; they will still plan to be
+two stories. The smaller square footage also makes them more affordable to those who would
+potentially buy them. The zone change is better allowing 20 ft driveways, allowing parking for at
+least 4 cars.
+
+Vice Chairman Craig Hawker asked the applicant if the townhomes are going to be rentals, or if
+they will be sold to individuals.
+
+Mr. Troy Dana stated they really could be both, they are all individually parceled and do the same
+site plan for each parcel. They are creating twenty-two to twenty-eight more parking stalls for
+these townhomes. It's a better development long term with the long driveways.
+Commissioner Susan Nixon asked how long the driveways were. Mr. Troy Dana responded that
+the driveways are twenty feet.
+
+Commissioner DeLaina Tonks asked what the parking is per unit.
+
+Mr. Troy Dana responded with an estimate with the garages and the driveway it is at least four
+without the common parking.
+
+Ms. Jennifer Jastremsky addressed that the driveways do not count for the minimum parking
+count. It is two and a quarter space that is required in the code per unit and one guest parking
+space for every four units.
+
+Vice Chairman Craig Hawker opened a public hearing allowing any public comments or concerns
+to approach. Letting them know that they had a time limit of three minutes.
+No public comments were made.
+Vice Chairman Craig Hawker closed the public hearing.
+
+Commissioner Susan Nixon noted that an email was received late in the afternoon with more
+information regarding this.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 9
+
+
+Vice Chairman Craig Hawker stated he doesn’t get to vote on this but thinks it is a better plan all
+around. Providing more parking is always a good idea. Vice Chairman Craig Hawker noted that
+a public comment was made prior to the meeting about this complaining about the parking in
+another area. With the extra parking plus the driveways Vice Chairman Craig Hawker doesn't
+think there will be a parking issue. Vice Chairman Craig Hawker asked if there would be five
+different HOA, how will you deal with the snow removal and maintenance.
+Troy Dana states it is possible for a HOA, but not necessary, it will all depend on how they would
+like to run them when they are finished.
+
+Motion: Commissioner Susan Nixon made the motion forwarding a positive
+recommendation to the City Council to approve the request made by Troy Dana,
+representing Draper Office Associates LLC, for the Land Use Map Amendment from
+neighborhood commercial to high density residential. Application TEXTMAP-139-2022
+and TEXTMAP-142-2022. Based on the findings and subject conditions listed in the staff
+reports dated August 15, 2022.
+
+Second: Commissioner Kendra Shirey
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Susan Nixon, Kendra Shirey, DeLaina Tonks, Mary Squire, and Tab
+Bingham voted, “Aye”.
+
+There was a typo in the staff report for the previous motion, it was requested to do the motion
+again with the change.
+
+Motion: Commissioner Susan Nixon made the motion forwarding a positive
+recommendation to the City Council to approve the request made by Troy Dana,
+representing Draper Office Associates LLC, for the Land Use Map Amendment from
+neighborhood commercial to high density residential. Application TEXTMAP-139-2022
+and TEXTMAP-142-2022. Based on the findings and subject to the conditions listed in the
+staff reports dated July 15, 2022.
+
+Second: Commissioner Kendra Shirey.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Susan Nixon, Kendra Shirey, DeLaina Tonks, Mary Squire, and Tab
+Bingham voted, “Aye”.
+Motion Passed
+
+Motion: Commissioner Mary Squire made a motion to forward a positive recommendation
+to the city council for Avery Townhomes and their request for the Zoning Map Amendment
+from OR to RM2. Application TEXTMAP-139-2022 and TEXTMAP-142-2022. Based on
+the findings and subject conditions listed in the staff reports dated July 15, 2022.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 10
+
+Second: Commissioner DeLaina Tonks.
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Mary Squire, DeLaina Tonks, Kendra Shirey, Susan Nixon, and Tab
+Bingham voted, “Aye”.
+Motion Passed
+
+    6. Public Hearing: Trailside Townhomes Site Plan and Plat Amendment
+       (Administrative Action)
+On the request of John Wheatley, representing IKON Development for a site plan and plat
+amendment for 19.37 acres of property located 2124 East Brookings Drive. The property is
+located in RR-22, RR-43, and RM zones. Application is SPR-58-2022, SUBD-111-2022. Staff
+Contact is Jennifer Jastremsky, 801-576-6328 or jennifer.jastermsky@draper.gov
+
+Ms. Jennifer Jastremsky presented this project. This project is different phases of the Maple
+Hollow development. They were platted at the same time the neighborhood to the west was
+created. The Master plan of Suncrest was for commercial use, the land use designation is for
+residential medium density. The zones are currently split between an acre, to half acre lots, and
+multifamily zoning districts. It was originally part of Suncrest. Back in 2015 there was a
+development agreement for 160 townhomes on the property. That agreement removed the
+properties from the Suncrest agreement. The plat amendment is pretty simple and they are
+consolidating all of the properties into one property, they do have several easements along the
+road. As for the site plan, there will be three entrance points, two on Brookings Dr. and one on
+Suncrest Dr. It will be a mixture of front-loaded units and alley loaded units. They all have two
+car garages for each unit and twenty-foot deep driveways.
+
+Ms. Jennifer Jastremsky stated the majority of the units do have sidewalks on every side. There
+will be two buildings that will not have sidewalks with the proposed deviation. There are some
+access points to these two buildings that are walking trails, but no direct sidewalk.
+
+Ms. Jennifer Jastremsky reported that the landscaping plan complies with the City’s code. Native
+grass seed mix will be used, there is a deck, a clubhouse and sports courts. The elevation meets
+the standard of thirty-five feet. They will be constructed of stone, shingle lap and siding. A
+deviation is requested to reduce the amount of brick or stone required on the elevations.
+
+Vice Chairman Craig Hawker asked if there was a specific code in how the proposed development
+will look, to potentially match others around them.
+
+Ms. Jennifer Jastremsky stated she was not sure. The building department was not present at the
+meeting. She stated they look at the roof designs for snow, and other components for projects.
+
+Vice Chairman Craig Hawker asked what the plan for snow removal would be in that area.
+
+Mr. Brien Maxfield addressed the question. Mr. Brien Maxfield stated the location is lower than
+some of the higher properties on the upper elevations. They will be privately maintained.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 11
+
+Commissioner DeLaina Tonks asked what the difference is between the two ingress and egress
+and would there be room for a turning lane that would allow people to enter. She is concerned
+with the blind corner and asked if there will be a turning lane that will be put in somewhere to
+help with this.
+
+Mr. Brien Maxfield stated the applicant did do a traffic study on this and the traffic could use the
+existing lane. The expected traffic out of those specific points did not necessarily require a turning
+lane. The staff is aware of that possible congestion that could take place. Mr. Brien Maxfield
+stated that there are three entries to the property for access to the townhomes and the better access
+point is down past the blind corner.
+
+Commissioner DeLaina Tonks stated that the blind corner is concerning to her and those who live
+on top of the mountain. Mr. Brien Maxfield noted that there are other entries/exits in which people
+can use the alternate access points to see better.
+
+Commissioner DeLaina Tonks asked if this project area was part of the Travis Ridge Special
+Service District and is it also part of the HOA.
+
+Mr. Brien Maxfield replied that it was part of the Travis Ridge Special Service District, but it will
+have its own HOA.
+
+Commissioner DeLaina Tonks asked about the buildings without sidewalks, she noted that it was
+great for those who live there not having to shovel the sidewalks.
+Mr. Brien Maxfield stated the buildings will all be rentals, and they will have their own HOA, to
+maintain them.
+
+Commissioner Tab Bingham asked if sidewalks were a safety issue, with lots of people and kids
+moving around. Especially in a high-density area, sidewalks are important in small areas too.
+
+Mr. Brien Maxfield stated in the code it does require a sidewalk to be on both sides of the building
+that is why the applicant is asking for a deviation for these two buildings. Sidewalks can be used
+as for safety, requiring people to stay out of the road. Mr. Brien Maxfield stated he will allow the
+applicant to explain what the plan is and why there is a deviation for no sidewalk on the two lower
+buildings.
+
+Ms. Jennifer Jastremsky listed the criteria for approval of the sidewalk deviation “The second
+sidewalk or portion of the sidewalk does not provide pedestrian connectivity to any unit or
+amenities; Ample pedestrian circulation has been provided.” These are the findings you would
+have to meet and approve for a sidewalk deviation. Ms. Jennifer noted that the Planning
+Commissioners need to look at the findings and decide what is best for the deviation.
+
+Commissioner Tab Bingham asked about the deviation for the building design standards. There
+is a building down the street that is a lesser standard and the applicant would like to match the
+lesser standard.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 12
+
+Ms. Jennifer Jastremsky informed them that Suncrest does not have the same standard, there was
+no standard within Suncrest that required fifty percent brick for the materials used. However, the
+deviation requested is to not have to have as much stone.
+
+Mr. Don Buckley addressed the question about the three access points and where they were
+located. There are two access points on Brookings and one access point on Suncrest.
+
+Mr. John Wheatley, Applicant, owner of IKON Development. In 2021 they decided to transform
+this site, because of the name of the site being “the boneyard.'' It was where other developers
+would dump excess fill from other projects that have taken place. Due to the condition of the site
+and its location they found this to be a challenging project due to the slopes and the soil conditions.
+They wanted to create a sense of community and have provided fifteen amenity areas in the site,
+they also wanted to keep it a mountain view and update it to a highland type look and feel that
+matches Draper City. Mr. John Wheatley stated he wanted to spend a little time to explain the
+connectivity and explain the requested deviations. The design meets the multifamily standards
+but the proposed circulation plan may not have sidewalks on both sides but it enhances the
+pedestrian convenience, interaction, and safety while reducing undesirable and unnecessary
+impacts to the site. Mr. John Wheatley discussed the challenge they have had deciding what will
+be best for the site due to its natural sloping area. In order to reduce impact, they have reduced it
+to one hundred and fifty units from one hundred and sixty. They have not developed on the steep
+sides to the north and the west. A walking trail is an amenity; it is a natural corridor that
+compliments street scape on the east side. Adding a second sidewalk is unnecessary. Mr. John
+Wheatley noted they would like to keep pedestrians away from the street to keep them safe. They
+plan to install a fifteen miles per hour sign and it will be maintained on site. Mr. John Wheatley
+stated they will comply with the requests noted in the reports, and they will listen to the requests.
+Mr. John Wheatley asked Mr. Jon Lee to address the exterior deviations. Mr. Jon Lee reported
+they went around to neighboring places taking photos of the houses in the area. They decided they
+wanted to mimic the mountain villages you see all around the world. There will be alleyways to
+keep kids safe and have a place where they can go to play. The alleyways will also be possible
+garden spaces. The homes serve as a retaining wall, they are made of solid stone on the first level
+and cement board siding that is anchored around the home on the upper levels. It is a really nice
+aesthetic. There are two types of units, the narrow unit with the alleyways, and the wide unit with
+a garage on the lower level.
+
+Vice Chairman Craig Hawker noted that some of the other Commissioners had concerns about
+the drive coming down the mountain past that point, with potential left and right turns.
+
+Vice Chairman Craig Hawker asked what the plan for snow removal would be on site, and where
+they would store it. Mr. John Wheatley stated they did a traffic study, there was no congestion
+due to the three different openings. He stated, as stated from Don Buckley, they put the access
+entrance on to Suncrest to meet fire code requirements.
+
+Mr. John Wheatley stated the snow removal will be taken off site and stored at the end of
+driveway, this will be taken care of in a site management base. The small group of owners will
+manage it and make sure the snow is removed properly.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 13
+
+Commissioner DeLaina Tonks was still concerned about the blind corner and urged the
+developers to take this into consideration.
+
+Commissioner Susan Nixon asked about the plan for garbage disposal and if there would be
+dumpsters.
+
+Mr. James Wheatley stated there would be garbage cans for each unit, it is already planned to
+have the city garbage pickup. The bigger garbage can is just for the club house.
+
+Commissioner Mary Squire asked why there is only a sidewalk on one side and not the other side.
+
+Mr. John Wheatley stated there are less units on the side on the slope and they don't think it's
+necessary for the extra sidewalk because a retaining wall would need to take place and it would
+take away the view of the mountain aesthetic for the area.
+
+Commissioner DeLaina Tonks asked what the sidewalk and walking trail are made of and what
+the snow removal will be for this. Mr. John Wheatley responded that the sidewalk is concrete and
+the walking trail is asphalt around the homes and on the upper side of the hill it is dirt. As stated,
+before the snow removal will take place by the owners of the privately owned individuals.
+
+Commissioner Kendra Shirey asked what the stone deviation percentage is.
+
+Mr. James Wheatley stated it was nineteen percent, there are two car garages.
+
+Vice Chairman Craig Hawker stated there would be a fifteen-minute break.
+Vice Chairman Craig Hawker reconvened the meeting after a fifteen-minute break.
+
+Vice Chairman Craig Hawker opened the public hearing and that any comments be limited to 3
+minutes.
+
+Casie Buckner stated she was born and raised in Lehi, and is a current resident of Draper. Ms.
+Casie Buckner was sickened by the development. She stated this will only over crowd the schools.
+The neighborhood would double in size. It was a lack of planning and overcrowding the area. Ms.
+Casie Buckner stated it is profit motivated. Ms. Casie Buckner expressed her concern about the
+wildlife impact with this development and that danger of landslides will increase. Ms. Casie
+Buckner stated all the homeowners do not want this to take place.
+
+Kyle Stephens- was concerned that the beautiful field would be gone and where family photos
+are often taken, and where he and his family take their kids on a hike in the area. Mr. Kyle Stevens
+was concerned about the snow removal and that there is no appropriate place for the storage of
+snow. He stated that it was unfair to have this neighborhood and it will damage the cost value of
+his home.
+
+Sharlyn Chavira stated that there sometimes needs to be a development, but this is not the location
+or the type. Ms. Shar Shivera was concerned about the school conditions and the overflow that
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 14
+
+will take place there. She was greatly concerned about them being rentals that will not fit in with
+Suncrest standards. There will be more traffic that will cause problems for all in the area.
+
+Chris Kahle- was concerned about the animal corridor behind his home in the area. This will force
+the animals to be hazards in the road. Mr. Chris Kahle was worried about what it takes to pump
+water uphill to them. He was concerned about the potential school inflation.
+
+Wendy Hunt- was worried about the potential lack of police and asked why does the development
+have to be rentals? Ms. Wendy Hunt stated it would potentially bring more crime to the area.
+
+Marcia Ferrin - was concerned how the impact would overrun the schools. She stated if they were
+single family homes the impact would not be as much.
+
+Vice Chairman Craig Hawker closed the public hearing.
+
+Vice Chairman Craig Hawker asked the staff if Edge homes and Edelweiss were not part of the
+Suncrest HOA. He asked what communities are part of the Suncrest HOA.
+
+Ms. Jennifer Jastremsky responded that Hidden Canyon Estates and Edelweiss are not part of the
+Suncrest Development, they are not subject to the development agreements to Suncrest. Those
+other developers decided to join the Suncrest HOA, they pay the HOA fee so that they have access
+to the amenities, but they are not subject to the developmental agreement for Suncrest.
+
+Vice Chairman Craig Hawker stated for the public’s information the Planning Commission listens
+to the staff, if the staff allows building for soil and water, he asked Brien Maxfield to share some
+information for the public.
+
+Mr. Brien Maxfield stated that the area is in a hillside sensitive overlay zone, it did require
+extensive geologic review. Conditions in that report are part of the conditions of approval on the
+application.
+
+Vice Chairman Craig Hawker addressed the community stating the Commissioners had no control
+over the school board.
+
+Commissioner Mary Squire addressed the public stating that the commissions' scope is limited.
+The property is already zoned, the applicant has an agreement with the city. Under the zoning the
+applicant can have up to one hundred and sixty units. The Planning Commission cannot tell them
+to make them single family homes. That is out of the control of the Commissioners, they would
+like to see that happen as well. When the site plan complies with the city code, the Planning
+Commission has no choice but to approve it. Commissioner Mary Squire stated she was thankful
+for those who came to speak and express their concerns about the development.
+
+Commissioner Tab Bingham acknowledged that the Planning Commission hears and
+acknowledges the public comments. He noted that he has looked at the high-density development,
+he has walked the street with the million-dollar homes. Commissioner Tab Bingham stated he
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 15
+
+likes the developments he has seen and noted he would like to stop any development anywhere
+but is not sure he can do that.
+
+Vice Chairman Craig Hawker stated for other concerns the public should talk to the city council
+on their concerns.
+
+Commissioner Mary Squire asked if the deviations are not approved, that means the site plan is
+denied as well.
+
+Ms. Jennifer Jastremsky clarified that the commission could deny the site plan which would mean
+the applicant would have to start over completely, or the commission could deny the deviations
+and continue the site plan to a future meeting which gives them the opportunity to modify the site
+plan and comply with the code.
+
+Commissioner Susan Nixon, stated the only way to change property is to own property.
+
+Vice Chairman Craig Hawker asked the applicant to address the public comments.
+
+The applicant Mr. John Wheatley addressed the public comments and stated they have
+professional people that will come in as soon as the snow hits to come in and have it removed.
+Mr. John Wheatley stated they have avoided the steepness of the site to stay away from more
+retaining walls that would take away from the open spaces in the area. Mr. John Wheatley noted
+they are rentals but they are not low-cost rentals, they are high end rentals and will be maintained
+by them personally.
+
+Motion: Commissioner DeLaina Tonks made a motion to approve the plat amendment
+made by John Wheatley, representing IKON Development. Application is SUBD-111-2022.
+Based on the findings and subject to the conditions listed in the staff report dated July 20,
+2022.
+
+Second: Commissioner Mary Squire.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners DeLaina Tonks, Mary Squire, Tab Bingham, Susan Nixon, and Kendra
+Shirey voted, “Aye”.
+
+Commissioner Mary Squire was not thrilled that the standards for this project were removed from
+the high standards of Suncrest. That was why the deviation was requested.
+
+Commissioner Susan Nixon agreed with Commissioner Mary Squire.
+
+Commissioner Mary Squire noted how the applicant did not want to be like Suncrest, but then
+made it seem that it was potentially like it but a lower end idea.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 16
+
+Commissioner DeLaina Tonks asked staff if they would have to comply with in the deviation or
+just the percentage?
+
+Ms. Jennifer Jastremsky noted it was just the percentage, they comply with all other sections,
+including roof lines, architectural design. It truly is just the percentage of the design. The code
+requires fifty percent of brick or stone. For all four sides. Multi-family homes had different
+standards compared to single family homes. Ms. Jennifer Jastremsky presented part of the code
+and stated that building materials for multi-family homes must be at least fifty percent of stone or
+brick.
+
+Motion: Commissioner Mary Squire made the motion to deny the design standards
+deviation requested by John Wheatley, representing IKON Development. Application is
+SPR-58-2022. Based on the findings and subject to the conditions listed in the staff reports
+dated July 20, 2022.
+
+Second: Commissioner Susan Nixon.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Mary Squire, Susan Nixon, Kendra Shirey, DeLaina Tonks, and Tab
+Bingham voted, “Aye”.
+Motion passed for the denial of the Design Standard Deviation
+
+Motion: A was made by Commissioner Tab Bingham to deny the sidewalk deviations as
+requested by John Wheatley, representing IKON Development. Application is SPR-58-
+2022, SUBD-111-2022. Based on the findings and subject conditions listed in the staff
+reports dated July 20, 2022.
+
+Second: Commissioner DeLaina Tonks.
+
+Vote: A roll call was taken with the Commissioners voting 3-2 in favor of the motion.
+Commissioners Tab Bingham, DeLaina Tonks, Mary Squire, voted, “Aye”. Commissioners
+Susan Nixon and Kendra Shirey voted “Nay”.
+
+The vote is three to two, and the motion passes for denial of the sidewalk deviation.
+
+Motion: Commissioner Susan Nixon made the motion to allow the site plan to continue to
+a date undetermined. Requested by John Wheatley, representing IKON Development.
+Application is SPR-58-2022, SUBD-111-2022. Based on the findings and subject to the
+conditions listed in the staff reports dated July 20, 2022.
+
+Second: Commissioner Tab Bingham
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Susan Nixon, Tab Bingham, Kendra Shirey, DeLaina Tonks, and Mary
+Squire voted, “Aye”.
+Draper City Planning Commission Meeting
+July 28, 2022
+Page 17
+
+
+   7. Motion to adjourn
+The motion was made by Commissioner Mary Squire to adjourn, at 9:11 p.m.
+

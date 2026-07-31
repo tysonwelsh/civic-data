@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "08/13/2025", "name": "Marc & Rochelle White", "amount": "200.00", "in_kind": false},
+    {"date": "08/15/2025", "name": "Bill & Pam Cotter", "amount": "160.00", "in_kind": false},
+    {"date": "09/11/2025", "name": "Alan & Janice Wuckert", "amount": "300.00", "in_kind": false},
+    {"date": "09/25/2025", "name": "Bill & Pam Cotter", "amount": "60.00", "in_kind": false},
+    {"date": "08/15/2025", "name": "Laura Cotter", "amount": "60.00", "in_kind": true},
+    {"date": "09/15/2025", "name": "Laura Cotter", "amount": "120.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "08/19/2025", "recipient": "City Journal ad (Septembet)", "purpose": "City Journal ad (Septembet)", "amount": "360.00", "in_kind": false},
+    {"date": "09/30/2025", "recipient": "City Journal ad (October)", "purpose": "City Journal ad (October)", "amount": "360.00", "in_kind": false}
+  ],
+  "total_contributions": "720.00",
+  "total_expenditures": "720.00",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202510_Pamela-Jane-Cotter_17213.pdf",
+    "candidate": "Pamela Jane Cotter",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202510_Pamela-Jane-Cotter_17213.pdf",
+    "pages": 8
+  }
+}

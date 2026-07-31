@@ -1,0 +1,91 @@
+{
+ "date": "2022-10-11",
+ "year": 2022,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2022/2022-10-10/2022-10-11_planning-commission.md",
+ "present": [
+  "David Wright",
+  "Lynette Wendel",
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Don Russell",
+  "Marc McElreath",
+  "Gordon Willardson",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley – I move for approval of the Consent Agenda, consisting of the Planning Commission Meeting Minutes for August 23, 2022, and September 27, 2022",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath – I move that we approve File #52C22, a preliminary non- administrative conditional use permit and site plan to construct a new carwash facility at 3685 West 5400 South in Taylorsville, Utah, as identified in Exhibit F, subject to the Findings outlined in the Staff Report and add that the wall discussed in tonight’s meeting on the west side of the carwash tunnel, meet up with the other wall and the sound study be performed and at that point let Staff decide what the reasonable and appropriate number is for decibel levels created",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5-1 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Marc McElreath",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "Cindy Wilkey",
+    "David Young",
+    "Marc McElreath",
+    "Gordon Willardson",
+    "Lynette Wendel"
+   ],
+   "nay": [
+    "Don Quigley"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "5-1",
+   "case_no": [
+    "52C22"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Young",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

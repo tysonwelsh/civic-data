@@ -1,0 +1,1191 @@
+# Riverton Planning Commission Meeting — 2024-04-11
+> Source: https://www.utah.gov/pmn/files/1127943.pdf
+> Meeting date: 2024-04-11
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/905515.html
+> Format: text
+
+Approved: PC 5.23.24
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                  APRIL 11, 2024
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Evan Matheson, Chair                             Jason Lethbridge, Development Services Director
+Monique Beck                                     Matt Cassel, City Engineer
+Shelly Cluff                                     Lisa Halversen, City Planner
+Jon Gilchrist                                    Ryan Carter, City Attorney
+Darren Park                                      Tim Prestwich, City Planner
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Evan Matheson called the meeting to order at approximately 6:30 PM. The Pledge of
+Allegiance was led by Commissioner Park.
+
+2.     PUBLIC HEARINGS
+
+       A.     "LITA'S HOUSE," PLZ-24-2013, A CONDITIONAL USE APPLICATION FOR
+              A HOME DAYCARE AND PRESCHOOL TO BE LOCATED AT 4763 WEST
+              SALISH CIRCLE. APPLICANT - ARIADNA CROCKETT.
+
+Planner Lisa Halversen presented the Staff Report and stated that the request is for a
+daycare and preschool to be located at 4763 West Salish Circle. The property backs up to
+the Mountain View Corridor at the end of the cul-de-sac on the western side of the City. The
+lot is .17 acres in size and is in the Western Springs Neighborhood. The zoning is RM-6 as
+are the neighboring properties. The applicant, Ariadna Crockett, will be renting the home
+from her daughter who is the homeowner. Ms. Crockett’s daughter will move out in May and
+Ms. Crockett will move into the home in June. The Code requirements have been met as
+Ms. Crockett will be occupying the home. Ms. Crockett obtained a Permission Letter from
+her daughter permitting her to operate a home daycare and preschool business.
+
+The home has two stories with a finished basement, an attached two-car garage, and a two-
+car driveway at the end of a tight cul-de-sac. Ms. Crockett would like to care for 12 children
+per day who will arrive and leave at different times. The business will operate from 7:00 AM
+to 5:30 PM. Ms. Crockett’s sister will be her only employee. They will care for children from
+five months to five years of age. Ms. Crockett stated that she and her sister both have
+childcare certifications.
+
+Ms. Crockett plans to care for up to four infants in the home. Of the 12 children, four will be
+infants with three being relatives. The property has a fenced yard. Ms. Crockett plans to
+invest in a play area for the children in the back of the home. To mitigate traffic, she
+proposes to give each person an assigned six-minute interval for drop-off and pickup on her
+Riverton City Planning Commission Meeting                                                  2
+April 11, 2024
+
+
+driveway or inside the garage. The vehicles in the cul-de-sac will be limited to one at a time.
+If anyone is parked in her driveway, the parents will be instructed to wait outside the cul-de-
+sac for their turn in order to mitigate traffic concerns.
+
+The site plan was presented. Ms. Crockett proposes to use a portion of the main floor for
+daycare use. She and her husband will live upstairs and her mother will stay in the
+basement. The mailer was sent to the neighbors and three comments were received. The
+concerns raised primarily pertained to parking and traffic.
+
+Ms. Crockett’s daughters' dogs will move off the property in May. Many of the cars that
+currently park in the cul-de-sac will no longer be there. Ms. Crockett’s vehicle will be the
+only one parked on the premises after June. A Conditional Use Permit is required because
+the applicant is requesting to care for 12 children, which is the maximum. It was noted that
+home occupation childcare shall not generate more than 24 vehicle trips a day. Ms. Crockett
+will have nine vehicles that are not relatives or 18 vehicle trips per day, which is under the
+requirement. The State will conduct inspections of the outdoor play area and the site. The
+proposed conditions were reviewed.
+
+Commissioner Park asked if it was a requirement that the State Inspection be performed
+and a copy submitted prior to licensing. Ms. Halversen stated that the applicants must
+receive Conditional Use Permit approval before they can schedule State inspections. City
+Attorney, Ryan Carter commented that it would be reasonable to require as a condition that
+the applicant submit a copy of the State Inspection Report to the Planning Department. The
+applicant will not be issued a Business License without State licensure.
+
+Commissioner Cluff asked about the number of vehicle trips if the business was limited to
+eight children. Ms. Halversen stated that it would normally result in 16 vehicle trips. If there
+were eight children, however, and three were family members, the number of vehicle trips
+would decrease to 10 vehicle trips.
+
+Chair Matheson was concerned that the lane is quite narrow with a small driveway. He was
+concerned that there would be a lot of congestion on the cul-de-sac and recognized the
+concerns of the neighbors. He wondered if an application would be brought before the
+Commission if fewer than eight children were being cared for. Ms. Halversen explained that
+if there are more than eight children, a request must come to the Commission. If there are
+eight or fewer it may still come to the Commission if there are concerns. Mr. Carter stated
+that a reasonable condition would be to specify that if the number of children is greater than
+eight, the applicant would need to renew the Conditional Use Permit application for further
+review of the Traffic Plan.
+
+The applicant, Ms. Crockett spoke to commissioners. She said that she was aware of the
+neighbors’ concerns about parking and stated that currently, she cares only for family
+members. She and her sister are both retired teachers and they realize the importance for
+parents to have someone they trust caring for their children. She has a certification and 144
+hours in Child Development. With regard to parking, she makes arrangements with the
+Riverton City Planning Commission Meeting                                                3
+April 11, 2024
+
+
+parents to have one or two children picked up or dropped off at the same time. She also
+plans to have cameras installed outside for her protection and to manage traffic.
+
+Commissioner Gilchrist referred to the application and was concerned that the non-resident
+employee will park on one side of the small driveway. Ms. Crockett stated that her sister
+lives close by and when it snows she will pick her up. She will not bring a car to the site.
+Ms. Crockett stated that the plan is for her to move into the home where she will operate the
+home-based business. There will be no dogs on the property.
+
+Commissioner Cluff asked about the reasoning behind caring for 12 children rather than
+eight. Ms. Crockett stated that the Utah ordinance allows eight children for one person and
+up to 12 for two people. She was aware that there was a need for childcare in the
+community.
+
+Chair Matheson agreed that it is something they need more of. He was, however, concerned
+about parking and the disruption to the neighbors. Ms. Crockett stated that she has
+encouraged people to carpool. Parents will also have access to the camera to see who is
+in the driveway. Chair Matheson asked Ms. Crockett if she felt that six minutes was enough
+time to drop off a child. From the camera, she will see if someone is waiting and will quickly
+pick up the child. The parents will be well aware of the rules.
+
+Chair Matheson opened the public hearing.
+
+Mitch Larson, a neighbor to the north, asked the Commission if they have ever approved a
+daycare with this rigorous of a scheduling timeline. He is a professional driver and to get
+three people to show up when they are supposed to is a feat. He was concerned that there
+will be changes to the use.
+
+Darren Ward lives three houses to the east of the subject property. He was concerned that
+there is nowhere to park and that dropping off children could block traffic and add additional
+danger. He was concerned that it will not be possible to pull in and back out if there are
+employees. He doubted that anyone will walk to Ms. Crockett’s home during the winter
+months. Some other neighbors also have a trailer that they leave on the west side of the
+road so if cars are waiting to enter, they will have no place to park. Issues with parking and
+drop-off were his biggest concerns, particularly in the summer and winter months. There
+could also be an issue with drop-offs and pickups conflicting with garbage and mail delivery
+and pickup.
+
+Shirlene Larsen reported that she lives in the home directly to the north. They currently have
+two teenage drivers and was concerned with the number of cars coming and going. She
+personally felt there will be more than 24 vehicle trips per day especially since Ms. Crockett
+plans to leave each day to pick up her employee. That is around the same time they leave
+home each day as well. Ms. Larsen stated that the fire hydrant gets blocked by the
+occupants of the home continually, which she was not happy about. The fire hydrant is near
+the front of the applicant’s home near a tree and it cannot be blocked by people pulling into
+Riverton City Planning Commission Meeting                                                      4
+April 11, 2024
+
+
+the driveway at an angle. Ms. Larsen was also concerned that there is no green in the
+backyard presently and would not recommend allowing the proposed use without it.
+
+There were no further public comments. The public hearing was closed.
+
+Ms. Halversen clarified that in the original application, Ms. Crockett asked for eight children
+but was not aware that that number included children who are relatives. Both the State and
+City Code allow up to 12 children per session. The applicant will be caring for children aged
+two to five with four being infants. The children will not all be dropped off at 7:00 AM. That
+is something Ms. Crockett has control over and can drop-off and pick-up times can be
+staggered. Ms. Crockett’s sister lives nearby and can walk. In inclement weather, she can
+pick her up to avoid an additional vehicle being parked in the driveway.
+
+Commissioner Rushton asked that staff summarize the benchmarks that move the request
+from a staff approval to the Planning Commission. Ms. Halversen described the levels for
+home occupations and stated that the proposed business is before the Commission because
+of the potential impact based on where the home is situated and the lack of parking. Home
+occupations prohibit employees from parking on the street. The request is also before the
+Commission because it exceeds the eight-child threshold.
+
+Commissioner Rushton asked about the history of complaints in the City. Mr. Carter stated
+that there have been no complaints to his knowledge regarding home childcare or
+preschools. Ms. Halversen stated that the proposed use will be monitored by the neighbors
+who will report concerns to the Code Enforcement Officer. Mr. Carter stated that if there are
+verifiable violations, the permit could be withdrawn. Compliance issues were discussed.
+Neighbors with issues should contact the Code Enforcement Officer. Ms. Halversen stated
+that the current occupants of the home have had cars parked on the street, which should no
+longer be an issue once they move.
+
+With regard to the condition of the yard, it will be up to the State to ensure that it is a suitable
+environment and is beyond the control of the City. With regard to the concern raised about
+the fire hydrant, he recommended the Unified Fire Authority’s Prevention Bureau since the
+tree may need to be removed.
+
+A comment was made about the fixed standards, which indicate that only 25% of the main
+floor living space can be used for the home occupation. The diagram that was submitted
+shows about ¼ of the floor being used, which is not to scale. Ms. Halversen stated that she
+had not verified the floor area but looked at the rooms that will be used. It seemed
+reasonable for the applicant to use the bedroom for infant care and the living room for the
+older children. City Planner, Tim Prestwich stated that the standard is not fixed. The
+applicant must designate the areas. The qualification is no more than 25% of the total main
+area.
+
+A question was raised about off-street parking. The recommendation seemed to indicate
+that the application has appropriately addressed that requirement by staggering the arrival
+times. Ms. Halversen stated that the applicant will teach one preschool session, which will
+Riverton City Planning Commission Meeting                                                 5
+April 11, 2024
+
+
+have minimal impact. The Code allows up to three sessions but eight children per session.
+The number requested is half of that.
+
+Commissioner Cluff asked if it would be appropriate to set a lower vehicle limit to incentivize
+the applicant to find families with multiple children or encourage carpooling because of the
+nature of the cul-de-sac. Ms. Halversen thought that it was within bounds to set such a limit.
+The number of cars coming and going seemed to be of concern to the neighbors. Mr. Carter
+commented that having multiple cars at the home at any given moment will be critical.
+
+Commissioner Rushton agreed with Commissioner Cluff and thought that having tiered trips
+of 12 children or eight trips that are staggered 12 to 15 minutes apart starting at 7:00 AM
+would allow for a 90-minute window. Recently, the State has also taken action to encourage
+cities to provide childcare. Mr. Carter stated that they took away the local choice regarding
+numbers. The City, in this case, is enforcing the State level. There is a language in the State
+Code that says that State regulations that are in place cannot conflict with the State Code.
+In this case, traffic to and from the area should be considered. In terms of maximums, they
+are adhering to the State standard.
+
+Commissioner Gilchrist agreed that staggering arrival times are important. He was more
+concerned, however, about the applicant monitoring pickup and drop-off times and making
+adjustments as needed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-24-2013,
+“Lita’s House”, at 4763 West Salish Circle, subject to the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City business license.
+
+       3.     Applicant must obtain and maintain applicable State and Health
+              Department approvals.
+
+       4.     Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.    The Home Occupation may have no more than 12 children per day.
+
+       6.   The Home Occupation may have up to 16 vehicle trips (8 cars) per day by
+             customers/parents.
+
+       7.    Customers shall utilize the driveway for drop-off and pick-ups and times
+             will be staggered by 10 minutes.
+Riverton City Planning Commission Meeting                                                6
+April 11, 2024
+
+
+
+       8.     Customers must wait outside the cul-de-sac until it is their turn to drop
+              off or pick up.
+
+       9.     Applicant may have one full-time non-resident employee
+
+Commissioner Gilchrist was concerned about the qualification criteria about 25% of the main
+floor living space and asked if an exception was needed. Mr. Prestwich stated that it was
+addressed in condition number four.
+
+The motion was seconded by Commissioner Rushton. The motion passed with the
+unanimous consent of the Commission.
+
+       B.     "LITTLE TREESCHOOL," PLZ-24-2012, A CONDITIONAL USE
+              APPLICATION FOR A HOME PRESCHOOL TO BE LOCATED AT 3024
+              WEST DESERT ROSE DRIVE. APPLICANT - BRENDALYN EMBLEY.
+
+Ms. Halversen presented the Staff Report and stated that the request is for Little Treeschool
+located in Summerfield Phase 2 at 3024 West Desert Rose Drive. The applicant is
+proposing a traditional preschool model with two sessions. The property is .19-acre in size
+and is zoned R-4 as are the surrounding properties. The home has two stories with a three-
+car garage. The applicant is proposing to have 12 children in each session for a total of 24
+per day, which is the maximum allowed. There will be afternoon sessions Monday through
+Thursday. The applicant, Brendalyn Embley will be the only employee. The preschool
+model will have start and end times when children are dropped off and picked up. A
+maximum of 24 vehicle trips per day are allowed. This means that 50% of the children will
+have to carpool, walk, or have alternate transportation.
+
+Three cars will park in the driveway and others will wait in the front for their turn.
+Ms. Halversen spoke to the applicant about having staggered times. The applicant
+proposed providing a 10-minute window for better staggering. The applicant has a fenced
+backyard and is in the process of constructing a pool in the back corner. The Code specifies
+that the pool should have fencing around it with a self-latching gate. This should be in place
+before preschool classes start. Ms. Halversen thought it was better for the application to go
+through concurrently with the pool construction and add it as a condition. The yard serves
+as the play area.
+
+The home plan was presented with the preschool in the basement. The standards specify
+that up to 50% of the basement area can be used. Children will come in the front door and
+down the stairs. Notices were sent to the neighboring properties and only one comment
+was received. The neighbor across the street was concerned about her mailbox being
+blocked by traffic. Ms. Halverson thought it may be a reasonable condition to state that the
+cars that park along the street waiting for their turn, should not block fire hydrants or
+mailboxes. Ms. Halversen drove by the home, which was orderly and seemed like a good
+place for a preschool. Some of the allowed 12 children are the applicant’s and will not need
+transportation. The proposed conditions of approval were reviewed.
+Riverton City Planning Commission Meeting                                                 7
+April 11, 2024
+
+
+
+Commissioner Gilchrist asked if people will be parking on the street. Ms. Halversen stated
+that the children have to be picked up and dropped off from the driveway where there is
+plenty of room for parents to come in a staggered window.
+
+Ms. Embley was present and described the operation. She intends to do two classes per
+day. She did not realize that traffic would be an issue when she made the original plan. In
+response to a question raised by Commissioner Rushton, Ms. Embley stated that she loves
+children and has thought about starting a preschool for years. She knows several preschool
+teachers who have done something similar in their homes. She has also done a lot of
+research and wants to incorporate American Sign Language (“ASL”) into her teaching plans.
+She stated that there are scientific benefits to teaching basic ASL to small children and it is
+something she is passionate about.
+
+Commissioner Park wanted the applicant to understand that she will be approved for 24
+children per day, however, the limitation is on the number of vehicle trips. The applicant
+stated that she has thought about ways to work around that. If it doesn’t work, she may
+have to limit class sizes.
+
+Commissioner Cluff asked the applicant when she plans to begin offering classes.
+Ms. Embley stated that she wants to start at the beginning of the next school year.
+
+Commissioner Matheson opened the public hearing. There were no public comments. The
+public hearing was closed.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-24-
+2012, “Little Treeschool”, at 3024 West Desert Rose Drive subject to the following
+conditions:
+
+       1.    The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City standards and ordinances, specifically the City
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+       2.    Applicant must obtain and maintain a Riverton City business license.
+
+       3.    Applicant must obtain and maintain applicable State and Health
+             Department approvals.
+
+       4.    Home Occupation must operate within the Fixed Standards and
+             applicable Qualifications and Conditions as outlined in the Home
+             Occupation Ordinance and with this approval.
+
+       5.    The Home Occupation may have up to 12 children per session, and up to
+             two sessions per day, Monday through Thursday.
+Riverton City Planning Commission Meeting                                                8
+April 11, 2024
+
+
+       6.    The Home Occupation may have up to 24 vehicle trips per day (12
+             vehicles) by customers/parents.
+
+       7.    Customers shall utilize the driveway for drop-off and pick-ups.
+
+       8.    Customers may not block driveways or mailboxes when waiting for drop-
+             off or pick-up.
+
+       9.    Fencing that meets city code must be installed around the pool before
+             preschool classes may begin.
+
+The motion was seconded by Commissioner Beck. The motion passed with the
+unanimous consent of the Commission.
+
+       C.     "THE CHILDREN'S VILLA," PLZ-24-2006, A CONDITIONAL USE
+              APPLICATION FOR A HOME SPANISH IMMERSION PRESCHOOL
+              LOCATED AT 3558 WEST NEW PRIVATE DRIVE. APPLICANT - ROBYN
+              MONS.
+
+Ms. Halversen presented the Staff Report and stated that the request was previously heard
+in March and continued. The proposed preschool is located at 3558 West New Private
+Drive. The applicant is requesting a preschool model that is similar to the previous applicant
+with 12 children per session and up to two sessions per day. The property is .46 acres in
+size and zoned R-2. The neighboring properties are zoned R-2 and R-22 with access to
+3600 West off of the private lane. The house has two stories with an extra wide three-car
+garage and a finished basement. Classes will be held Monday through Thursday with
+morning and afternoon sessions. The applicant wishes to offer Spanish immersion. The
+applicant, Robyn Mons, is proposing to have one employee who will teach Spanish. The
+employee rents Ms. Mons’ basement.
+
+Slides of the applicant’s driveway were presented. Photos of the site were presented of the
+driveway and private lane. It was noted that two neighbors park their cars on the driveway
+frequently. Ms. Mons will instruct parents to drop off and pick up in her driveway. She will
+be using the basement and upstairs for the preschool. The backyard is fully fenced. The
+room on the second story will be used as a game room. The basement has a kitchen and
+an open learning space with a bathroom. Ms. Mons is a Certified Life Coach and her
+employee has a master’s degree in early childhood education.
+
+Notices were sent out twice to the neighboring property owners and no responses were
+received. Commissioner Park asked what other concerns were voiced at the previous
+meeting about the use of the private drive for business purposes as there are other
+residences on the private drive that share the responsibility of the roadway. Ms. Halversen
+stated that another concern pertained to the applicant having an Accessory Dwelling Unit
+(“ADU”) in the basement. Ms. Halversen stated that according to the Code, the applicant is
+only required to have an ADU permit if there is a permanent separation between the two
+units. Ms. Mons’ home does not and the two units are separated only by a door. As a result,
+Riverton City Planning Commission Meeting                                                   9
+April 11, 2024
+
+
+they are not required to have an ADU permit. Ms. Halverson also noted that an ADU is not
+considered a home business. Commissioner Park wanted feedback on the progress
+regarding the issue of shared ownership of the private lane. Chair Matheson recalled that
+one neighbor expressed support while confirmation was not received on the other.
+
+Mr. Carter considered the issue to be complicated when considering a Conditional Use
+Application to operate a business on an existing lot compared to the expansion of a number
+of lots that are served by a private lane. The Commission is not privy to the easement
+documents that were recorded previously. It is also important to remember that ownership
+of a private lane creates private rights. The City has a limited inquiry when compared to the
+Code in the context of the Business License or Conditional Use Permit. He explained that
+expanding the number of permitted users impacts private property rights directly. He
+suggested that under those circumstances, the City gain insight on what the easement says
+in terms of the condition of approving a subdivision. He explained that increasing the
+number of lots increases the number of users who may also be able to get a Conditional
+Use Permit to create a home occupation on their property. It affects private property rights
+directly. When someone is using a private lane that is a shared property right, permission
+is needed. If a lot is set, all involved have the full breadth of permission to use their lots to
+the extent granted by the City Code, which allows home occupations. The court interprets
+ingress and egress rights to be reasonable as long as they are not used outside what is
+permitted under the zoning Code. The City generally views the right to have a home
+occupation as not being a violation of an easement. If evidence is produced to the contrary,
+it is worth considering. As a matter of due diligence, however, the City does not require an
+upfront demonstration of what that easement language is. Mr. Carter also stressed that
+easement rights are private rights. He did not expect the court to say that exercising
+Conditional Use Permit rights for a home occupation would be unreasonable if standard
+ingress egress language were provided in the easement.
+
+Ms. Mons described the operation and stated that she is the homeowner and will be the
+business owner. She is half Brazilian and moved to the United States when she was eight
+years old and spoke no English. A family from Peru rents from them and the mother has a
+master’s degree in early childhood education. Ms. Mons stated that her daughter is also in
+college and wants to be a preschool teacher as well. The proposed use is preparatory and
+will eventually move to a brick-and-mortar location if they are to expand. They love their
+neighbors and private drive and want to be considerate. They plan to start with eight
+students but propose 12 to allow for growth. Ms. Mons’ employee will be the main teacher
+and is comfortable with eight children. If they were to increase to 12 they would go to one
+session. The hours offered allow for a good window of time for drop-offs, which will be
+staggered.
+
+Commissioner Rushton asked Ms. Mons what discussions she had had with the other
+homeowners on the private lane. Ms. Mons stated that the neighbors across the street
+expressed their support. She stated that there are three homeowners on the lane. She has
+not been able to speak to the owners of the third home. She tried on a few occasions but
+was unable to make contact. Commissioner Beck stated that the neighbors received the
+same notice and should have made any concerns known. Commissioner Rushton stated
+Riverton City Planning Commission Meeting                                                 10
+April 11, 2024
+
+
+that the burden is not on another resident to show up. The issue is the private lane. He did
+not think it was reasonable to expect someone to protest and restate their preference to
+keep a private lane private.
+
+Commissioner Park asked Ms. Mons how long she has lived in the home and if she was
+aware of any language in the Purchase Agreement that would restrict her from using the
+private lane for the project. Ms. Mons stated that she has lived in her home for about nine
+years and was not aware of any such restrictions. Mr. Carter stated that if desired by the
+Commission, he could look up the easement to determine if there was evidence of restricted
+property rights tied to a Business License.
+
+In response to a question raised by Chair Matheson, Ms. Mons stated that there is room in
+her driveway to turnaround. Ms. Halversen informed Ms. Mons that even if she is approved
+for 24 children, she will be limited to only 12 vehicles. Ms. Mons was not interested in having
+that many vehicles in her driveway coming and going. The classes are for children preparing
+for Kindergarten to participate in immersion programs. They feel that eight students is a
+good number.
+
+Commissioner Matheson opened the public hearing. There were no public comments. The
+public hearing was closed.
+
+Commissioner Rushton had a similar situation take place next to him when his neighbor
+opened an in-home preschool. Ultimately, a homeowner purchases property and if they live
+on a private lane, it is unreasonable to expect them to show up and express their desire to
+live on a private lane. He was not okay with a business granting access on his private lane.
+Mr. Carter stated that the basis for denial needs to be based on evidence deduced from a
+record created by the Planning Commission. Currently, there is no evidence to the contrary.
+He recommended that staff be given a continuance on the matter so that they can look at
+the easement and interpret it explicitly. In the end, how the document is drafted is how it will
+be enforced in perpetuity.
+
+Commissioner Rushton asked if it is reasonable for the applicant to have to produce
+evidence that the current homeowners agree to allow access to the private lane for non-
+residents. Mr. Carter stated that there would first have to be a question as to whether an
+easement would be violated by a home occupation. He did not have that information
+currently. A standard easement makes reference to ingress and egress, which includes any
+lawful use of the property and includes a home occupation because it is allowed by Code.
+Mr. Carter stated that in the absence of the neighbors’ testimony, the review will involve
+examination of the easement. Staff will provide that to the Planning Commission. He
+preferred to do that than to defend a denial without that information on the record.
+Commissioner Rushton asked if it is within the Planning Commission's purview to request a
+declaration from the other residents on a private lane that they would grant access, which
+they have shared ownership of. Mr. Carter responded that they only have the rights created
+by the easement document. The way the document reads is their power.
+Riverton City Planning Commission Meeting                                              11
+April 11, 2024
+
+
+Commissioner Rushton asked if in the event an easement does not exist, the stipulation of
+the business would be the creation of an easement agreement for all property owners on
+the lane. Mr. Carter stated that a private lane should have an easement recorded on it. He
+would be shocked if there was not one. He suggested that the matter be continued to allow
+him to obtain the easement and review it.
+
+Commissioner Cluff asked if there would be any liability to the City if the request was
+approved without having looked at the easement. Mr. Carter did not see any. Commissioner
+Cluff asked if it would be acceptable to add to an approval that the easement needs to be
+reviewed before the license is issued. Mr. Carter did not think that making an approval
+subject to an interpretation of something later was the best way to create an approval. His
+preference was to have a record that shows what the easement says. That way, if it is
+appealed, there would be a basis for it. Staff would continue to work with the applicant. The
+best option for the City was to continue the matter to the next meeting.
+
+Commissioner Gilchrist commented that this action has been noticed to the public twice and
+the applicant has made a good-faith effort to obtain the permission discussed.
+Commissioner Rushton disagreed. Mr. Carter explained that the prior continuance was
+because the applicant was not present and her input was needed. His view was that
+whenever a Conditional Use Permit is to be granted, the applicant should be present.
+
+Commissioner Park disagreed with Commissioner Rushton and stated that notices are
+intended to inform people so that they can make their objections known. The matter has
+been properly noticed multiple times. His opinion was that approval is warranted. If
+someone provides an easement showing that they cannot do it, the permit should be
+revoked as a result. Commissioner Park’s primary concern was the mention of potentially
+using 3600 West as a drop-off site. He would support a restriction within the approval that
+forbids that. If the lane on 3600 West is not wide enough to safely exit a vehicle there is a
+safety risk. He suggested that drop-offs on 3600 West be expressly prohibited.
+
+Commissioner Rushton moved that the Planning Commission CONTINUE PLZ-24-
+2006, “The Children’s Villa,” at 3558 West New Private Lane until the next meeting.
+Chair Matheson seconded the motion.
+
+Commission Cluff considered it better to continue the matter than to add a condition.
+Mr. Carter stated that he saw no potential for legal exposure for granting approval based on
+what is before the Commission.
+
+Vote on motion: Commissioner Park-No; Commissioner Gilchrist-No; Commissioner
+Rushton-Yes; Chair Matheson-No; Commissioner Cluff-No; Commissioner Beck-No.
+The motion failed 5-to-1.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-24-2006,
+Children’s Villa at 3558 West New Private Drive, subject to the following conditions:
+Riverton City Planning Commission Meeting                                             12
+April 11, 2024
+
+
+      1.     The site, structures, and use shall remain in compliance with any and all
+             applicable Riverton City standards and ordinances, specifically the City
+             Home Occupation Ordinance (18.190) and applicable Building and Fire
+             Codes.
+
+      2.     Applicant must obtain and maintain a Riverton City business license.
+
+      3.     Applicant must obtain and maintain applicable State and Health
+             Department approvals.
+
+      4.     Home Occupation must operate within the Fixed Standards and
+             applicable Qualifications and Conditions as outlined in the Home
+             Occupation Ordinance and with this approval.
+
+      5.     The Home Occupation may have up to 12 children per session, and up to
+             two sessions per day.
+
+      6.     The Home Occupation may have up to 24 vehicle trips per day by
+             customers/parents.
+
+      7.     Customers may utilize the driveway or private drive for drop-off and pick-
+             up.
+
+      8.     3600 West should not be used as a drop-off.
+
+The motion was seconded by Commissioner Gilchrist.
+
+Commissioner Rushton asked if the Commission would consider asking the applicant to
+produce written approval from the other property owners on the lane. Chair Matheson’s bias
+was that the applicant has tried. Mr. Carter explained that the neighboring property owners
+have an easement right, which can trump the home occupation applicant. A letter requiring
+written approval could be on the basis of anything apart from the easement, which they do
+not have the power to do. If a further inquiry is warranted, it should be based on the
+easement language.
+
+Commissioner Cluff commented that while it would be a courtesy to get approval from each
+neighbor, she did not feel it was within the Planning Commission’s approval to enforce that.
+
+Vote on motion:      Commissioner Park-Yes; Commissioner Gilchrist-Yes;
+Commissioner Rushton-No; Chair Matheson-Yes; Commissioner Cluff-Yes;
+Commissioner Beck-Yes. The motion passed 5-to-1.
+Riverton City Planning Commission Meeting                                                   13
+April 11, 2024
+
+
+       D.     "MOLETT CUP," PLZ-24-2011, A CONDITIONAL USE PERMIT FOR
+              PARALLEL FENCING LOCATED AT 4473 WEST SACAJEWA STREET.
+              APPLICANT - JAMES MOLETT.
+
+Mr. Prestwich presented the Staff Report and stated that the City’s Fencing Ordinance
+allows for a fence to be placed adjacent to another fence but it does require Conditional Use
+Permit approval. The property is located within the Canyon View development. There is an
+existing six-foot fence along the rear of the property line. The ordinance allows fences to be
+up to eight feet in height. The applicant had concerns with lighting due to the proximity of
+the neighboring lot behind it and was looking to add an extension onto the top of the fence.
+However, because of the construction of the fence and structural issues, it cannot be
+attached directly to the fence. As a result, they made application for the erection of a second
+fence inside of the first to provide the two-foot extension. His understanding was that it was
+for just a portion of the rear fence area.
+
+The Code for parallel fencing sets forth criteria. The purpose of the Conditional Use Permit
+is to verify that criteria. This would be the second fence that would be set inside the six-foot
+fence with a two-foot extension along the top. He spoke to the fencing company that is
+contracted to do the installation and was told that the fence is freestanding. One of the
+criteria is that the fence be wholly on the applicant's property and not supported by or leaning
+against the existing fence. The proposed second fence is about three inches inside, which
+is acceptable, and it will not touch or be supported by the existing fencing. It provides an
+additional two feet in height. The contractor indicated that a gap will be left at the bottom of
+the new fence to allow for weed abatement. Notice was sent to the adjoining property
+owners and no responses were received. The other criterion is that it not obstruct the
+visibility of the corner or adjacent property. That is not a concern here given the location.
+Mr. Prestwich reported that he spoke to the contractor and verified that the fence, as
+proposed, meets the criteria outlined in the ordinance. Staff recommended approval with
+the conditions enumerated in the Staff Report.
+
+Commissioner Park asked if the fence was eight feet or two feet over what exists. Mr.
+Prestwich responded that the fence is a full eight feet tall primarily due to structural concerns.
+If the post were six feet it would not meet the wind standards.
+
+The applicant, James “Frank” Molett described the operation. He is the homeowner and
+lives with his wife. He has had medical issues and is recovering. His daughter was present
+to assist him. Mr. Molett stated that the motivation for the fence stemmed from the neighbors
+behind him who are good people but have children who come home from work between
+midnight and 2:00 AM. He presented a photo showing that the lights from the driveway
+shine directly into his bedroom window. The neighbors have lights and a raised pickup truck
+that shines into the window. The neighbors also tend to chat after work in close proximity to
+Mr. Molett’s home.
+
+Mr. Molett’s other concern was that the neighbor’s driveway serves as a patio that extends
+from the main street to the fence. The neighbors like to entertain in the evenings and their
+garage lights are very bright and shine into Mr. Molett’s home.
+Riverton City Planning Commission Meeting                                              14
+April 11, 2024
+
+
+
+Mr. Molett stated that the fence is actually five feet in height rather than the six feet
+described. He took photos showing the height of the car when he was standing on his porch
+where they can see the top of the wheels. Mr. Molett estimated that the fence is 2 ½ feet in
+height and is level from side to side in the neighbor’s backyard. The eastern side of the
+property is leveled with a drop-off leading to the adjacent property.
+
+Mr. Molett stated that the fence was erected prior to the construction of the homes. He
+mentioned that when their home was built there were no homes behind it. It would be
+convenient for the neighbors to have a private patio to mitigate the noise. He looked forward
+to privacy and muffled noise levels. He stated that the neighbors have been very
+conscientious but their activities are very close by. Chair Matheson was impressed by
+Mr. Molett’s patience and willingness to resolve the issue without confrontation.
+
+Chair Matheson opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Cluff moved that the Planning Commission APPROVE PLZ-24-2011,
+“Molett Parallel Fencing”, at 4473 West Sacajawea Street, subject to the following
+conditions:
+
+      1.     A second fence, extending a total height of up to eight (8) feet along the
+             southwest property line may be installed in compliance with Riverton City
+             Code Section 18.155.110, allowing the existing fence to remain.
+
+      2.     The applicant shall maintain his property, including the space adjacent
+             to the existing fencing, in compliance with City Ordinance.
+
+The motion was seconded by Commissioner Beck. The motion passed with the
+unanimous consent of the Commission.
+
+      E.     EXTERIOR LIGHTING ORDINANCE AMENDMENT, PLZ-24-5001,
+             AMENDING SECTIONS 18.215.030 AND 18.135.200, UPDATING
+             STANDARDS AND REQUIREMENTS RELATED TO EXTERIOR
+             COMMERCIAL LIGHTING. AMENDMENTS PROPOSED BY RIVERTON
+             CITY.
+
+Mr. Prestwich presented the Staff Report and stated that the request was presented to the
+Planning Commission in a previous meeting where there was a considerable amount of
+discussion. He reported that they are considering updating the current ordinance, which is
+basic and brief. The request arose from a specific complaint that highlighted some issues,
+as well as areas in the Code that could be updated. The concern revolved around lighting,
+including temporary holiday lighting, near a residential area to the rear of a commercial
+business.      Surrounding communities were examined as discussed previously.
+Mr. Prestwich outlined a few proposed changes. One of the topics discussed was the timing
+at which the lights are required to be turned off. Modifications were made to the language.
+Riverton City Planning Commission Meeting                                                 15
+April 11, 2024
+
+
+The Code now states that lighting facing or oriented toward a residential property where the
+building is within 100 feet must be turned off at 11:00 PM or when the business closes,
+whichever is earlier.
+
+Mr. Prestwich stated that it would be unreasonable to expect lighting that is not visible from
+the residence to be turned off. A couple of changes were made to the holiday lighting
+section. As discussed previously, it was observed that there is currently minimal impact but
+it seems likely that more businesses will at least consider the possibility of holiday or
+temporary lighting. The Code categorizes holiday lighting as either temporary or permanent.
+If a business is considering a permanent installation of strip lighting or holiday lighting,
+approval would be required either in the original site plan or through an amendment.
+
+The holiday period was defined as November to January. There was a restriction on the
+number of hours in a day, initially set at 16 and feedback from the Commission suggested
+that this might be too much. Therefore, the limit was adjusted to no more than 12 hours
+within a 24-hour period, meaning that the lights cannot remain constantly on. A comment
+made during the previous discussion was incorporated into the Code that outside of the
+defined holiday periods, it would require site plan approval.
+
+The Code prohibits flashing and moving lighting within 100 feet of residential properties and
+must be off by 10:00 PM. The Easter holiday was previously left off of the holiday list and
+was included on the refined list. Mr. Prestwich commented that another city has had a similar
+Code in place for some time and they mentioned St. Patrick’s Day as one of the holidays
+when businesses desire to adorn their buildings with green lighting. St. Patrick’s Day has
+currently been included in the Code. Mr. Prestwich stated that the information was derived
+from one city with significant experience.
+
+The list represents days when they perceive the highest demand for lighting, thereby limiting
+the holiday period to those specific days. The 11:00 PM timing specified in the Code pertains
+to exterior lighting, with exceptions outlined in the Code. Mr. Prestwich made a correction
+and stated that any lighting on a commercial business within 100 feet of a residential
+property, facing or oriented towards it, must be turned off by 11:00 PM or close of the
+business.
+
+Chair Matheson did not see Christmas on the list. Mr. Prestwich stated that Christmas and
+Thanksgiving would fall under the November to January period and other holidays where
+the lights could be on, would be restricted to the specific day itself and not a surrounding
+period.
+
+Commissioner Gilchrist asked that if somebody wanted to celebrate their business
+anniversary, they would have to come and ask for approval on a date. Mr. Prestwich
+reported that it would not be a request that comes from a business owner but it would be
+executed by the City and the business would have to make a site plan amendment.
+
+Commissioner Rushton asked if 9/11 would be an exceptional request that a business would
+have to ask. Mr. Prestwich stated that they would not and it would be a City initiative to allow
+Riverton City Planning Commission Meeting                                                    16
+April 11, 2024
+
+
+lighting on a one-time event. Commissioner Rushton asked if after the Code is implemented
+if a business that wants to extend its colored lighting outside the outlined window dates will
+have to request an amendment to their site plan and if the Planning Commission would have
+to specify which color is appropriate. Mr. Prestwich stated that for businesses that are not
+recorded on their site plan, they would have to make an amendment request.
+
+Commissioner Park asked if it would be more conducive and business-friendly to allow
+businesses to display lighting as an advertisement a day or two surrounding the day of the
+holiday. Mr. Prestwich agreed and stated that three days would be very reasonable. He
+added that if it is included in the motion it does not need to be crafted to specifically reference
+an allowance of three days before and one day after the holiday period.
+
+Commissioner Cluff needed clarification whether they are going to be approving the specific
+colors when the lighting is part of the site plan since they allowed and have the ability to
+change it whenever desired. Mr. Prestwich stated that to some extent it would be at the
+discretion of the Planning Commission and he would not recommend crafting the Code to
+limit the shade of color. The application would include how the colors would look like and
+lighting can be evaluated as part of the review.
+
+Commissioner Cluff asked if they would approve a singular color as part of the site plan.
+Mr. Prestwich stated that they would. He did not anticipate specification and stated that it
+would be more of a question of the light’s intensity, its orientation if it is facing a residence
+and the display. Another question was if there is a distinction between lighting being part of
+a site plan and holiday lighting. The example given was if someone specifies in their site
+plan that the lighting will be white on a daily basis but will change to green, pink, or any other
+color based on holidays it would be considered as site plan lighting or holiday lighting.
+Mr. Prestwich responded that it would become permanent lighting and become subject to
+any conditions imposed by the Planning Commission.
+
+Commissioner Cluff clarified that she was asking if the Commission approved a site plan
+with white lighting and the business desires a different color lighting for Christmas, if they
+need to amend their site plan to accommodate the change or if it is covered under the
+Christmas Holiday. Mr. Prestwich stated that it would be included in the holiday period and
+would be limited to specific days.
+
+Commissioner Rushton asked if the City Council also reviews and modifies the Code after
+the Planning Commission acts. Mr. Prestwich stated that the City Council had similar
+concerns and after the Commission forwards a recommendation it goes back to the City
+Council for final approval.
+
+Chair Matheson opened the public hearing.
+
+Jake Tate from AWA Engineering reported that he has dealt with and worked in other
+jurisdictions that define property lines and try to regulate lighting not going over a property
+line. It is not defined well enough and applies to commercial properties and internal property
+lines within parking lots. He did not object as long as it is written as an acceptable exception.
+Riverton City Planning Commission Meeting                                             17
+April 11, 2024
+
+
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Gilchrist moved that the Planning Commission RECOMMEND
+ADOPTION of the Amendments to Sections 18.215.030(d) and 18.135.200 amending
+and updating Riverton City standards related to outdoor commercial lighting subject
+to the following additional modification:
+
+      1.     Holiday lighting outside of the November to January period is to be
+             extended three days prior to and one day after the designated holiday.
+
+The motion was seconded by Commissioner Rushton. The motion passed with the
+unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     "FREDDY'S FROZEN CUSTARD," THE VILLAGE AT SOUTH MOUNTAIN EAST
+             LOT 2," PLZ-23-8012, A FINAL/DETAIL PLAN FOR A DRIVE-THROUGH
+             RESTAURANT TO BE LOCATED IN THE SLR ZONE AT 13331 SOUTH OLD
+             LIBERTY WAY. APPLICANT - LEE COX.
+
+Mr. Prestwich presented the Staff Report and stated that the request was for Freddy's
+Frozen Custard. The approval letter from the SLR is also presented as they work under the
+Master Development Agreement and the Suburban Land Specific Development District
+Zoning. They are in the final steps in the process and we are considering the Detailed Plan
+tonight. The application is to approve Village East. The Planning Commission has already
+reviewed Quick Quack Car Wash, Dutch Bros, Raising Canes, and 7 Brew. The applicant
+is requesting to locate on Lot 2. The private roads inside were approved as a Phase 1
+Detailed Plan and are under construction. They had to fit some things into the plan because
+of some large easements that dictated much of the design and layout. AWA was the
+engineer for the Master Site and they prepared the Site Plan for Freddy's Frozen Custard
+and were well aware of the easements and managed the site well.
+
+Mr. Prestwich noted that Freddy’s and Raising Canes are the least impacted by the
+easement. The lot is 3,000 square feet in size and faces the road per the SLR Master
+Development Agreement. There is a single drive-thru lane that wraps around the building.
+There is plenty of parking and they are over-parked by about four stalls. There is more than
+10 feet of buffer between the sidewalk and the drive-thru. Shared improvements on the
+south include a small patio with seating.
+
+Mr. Prestwich mentioned that the applicant does not have to follow the same standards as
+the SLR zoning. The applicant has everything needed to bring all of the restaurants close
+together. The traffic will be rerouted up Old Liberty Way. The site relies on off-site
+improvements and shared improvements and infrastructure were shown on the plans and
+the previously approved Block Scale Plan and the Village at South Mountain East Phase 1
+Riverton City Planning Commission Meeting                                              18
+April 11, 2024
+
+
+Detailed Plan. Riverton City can withhold occupancy of the building if the off-site shared
+and backbone infrastructure is not complete.
+
+The improvements highlighted in magenta on the site plan were being undertaken by the
+master site developer. That must begin for the applicant to gain occupancy.
+
+Mr. Jake Tate stated that the applicants plan to break ground this week. Construction is
+expected to take five to six months, which is the same timeline required for Raising Canes.
+The construction sequencing, such as curb and gutter installation, is executed concurrently
+with the asphalt. Both accesses will open at the same time.
+
+In response to a question raised, Mr. Tate reported that he is the engineer representing the
+applicant. It was his intent to complete the improvements highlighted in magenta.
+
+Commissioner Gilchrist mentioned that over the past year or so, several developments have
+emerged in the area, each at different stages of construction. All of the development plans
+include an area to the northeast designated as a future detention basin. He asked if any of
+the upcoming developments intend to utilize the future detention basin and if so, what is
+being done in the meantime. He was concerned about the increase in impermeable surfaces
+leading to runoff, potential flooding, and water quality issues. He asked what protections
+were in place. Mr. Tate stated that they are collaborating with staff and each parcel has its
+own treatment and detention for the 10-year storm on site. The 100-year storm would be
+released to the large regional detention pond.
+
+Mr. Tate stated that in the meantime if development proceeds and the future detention pond
+is not included in the backbone plans, a temporary retention pond will be utilized to fully
+retain all of the 100-year storm until completion, at which point the connection will be
+established.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-23-
+8012, “Freddy’s Frozen Custard”, Detail Plan to be located in the SLR zone at 13331
+South Old Liberty Way, subject to the following conditions:
+
+      1.     This Detailed Plan shall comply with the terms and conditions approved
+             with the Block Scale Plan, with the SLR Project Area Master Development
+             Agreement, and with the approvals of the Master Developer.
+
+      2.     Site Improvements and the Building, including the exterior finish,
+             dumpster enclosures, and landscaping, and all other improvements shall
+             be consistent with the plans presented to the Planning Commission
+             except where otherwise noted.
+
+      3.     Rooftop mechanical shall be screened by parapet walls.
+
+      4.     Wall-mounted service panels shall be painted to match the building.
+Riverton City Planning Commission Meeting                                               19
+April 11, 2024
+
+
+       5.     The site and structures shall comply with any and all applicable Riverton
+              City Standards and ordinances, including the International Building and
+              Fire Codes.
+
+       6.     The applicant shall correct or resolve the remaining staff redlines.
+
+       7.     Storm drainage systems and accommodations shall comply with
+              Riverton City Standards and ordinances, and with the recommendations
+              of the Riverton City Engineering Division. An offsite Storm Drain Pond
+              must be built by others prior to this site getting occupancy from Riverton
+              City.
+
+       8.     The Applicant must create and agree to follow a Long-Term Storm Water
+              Management Plan according to Riverton City standards and ordinances
+              prior to receiving building occupancy.
+
+       9.     A Land Disturbance Permit must be issued by the City prior to any
+              construction grading on the site.
+
+       10.    The applicant must obtain final approval from utility providers.
+
+       11.    This site relies on offsite improvements, shared improvements, and
+              backbone infrastructure as shown on the plans for this application, and
+              the previously approved Block Scale Plan and The Village at South
+              Mountain East Ph 1 Detailed Plan. Riverton City may withhold
+              Occupancy of the building on this site if the offsite, shared, and
+              backbone infrastructure is not complete.
+
+The motion was seconded by Commissioner Gilchrist. The motion passed with the
+unanimous consent of the Commission.
+
+       B.     "MOUNTAIN RIDGE APARTMENTS," PLZ-23-8023, A FINAL/DETAIL PLAN FOR
+              MULTI-FAMILY DEVELOPMENT IN THE SLR ZONE, LOCATED AT 4761 WEST
+              13400 SOUTH. APPLICANT - EDGE HOMES
+
+Mr. Prestwich presented the Staff Report and stated that the request was previously
+presented to the Planning Commission. It was presented last fall after working with the
+applicant for about six months. While a few details remained, the engineer has made
+significant progress in resolving most of the issues. The building architecture has remained
+the same. The application and Approval Letter from SLR were presented. The submission
+is from Edge Development which has overseen all housing developments to the south of
+Rose Creek comprising a mix of single-family homes, condos, and townhomes. The
+proposed project would introduce another housing option to the area. From the previous
+CSP/BSP, the applicant stated on the record their intention to hold the building for long-term
+leasing.
+Riverton City Planning Commission Meeting                                                 20
+April 11, 2024
+
+
+Mr. Prestwich reported that he has not received any updates suggesting a change in
+ownership or operation by Edge Homes. The photo presented does not show the bridge
+and creek, Mr. Prestwich stated that the creek has some relief. He stated that the building
+is five-story. Approval from CSP/BSP was presented. Mr. Prestwich stated that they have
+prevented any construction activities until approval of the Detailed Plan. In the foreground,
+there is a clubhouse along with the south and north buildings. The buildings share similar
+architecture, with the main distinction being the color. The building has a clean modern look
+with the whites and the tans. Per the MDA and the SLR Development Standards, the
+buildings are closer to the street. One difference in the depicted fence is while the rendering
+shows an open fence, a closed fence will actually be installed to provide sound protection
+and privacy for units situated slightly below grade.
+
+The architectural site plan was presented. The geometry has been changed to acquire extra
+parking stalls. They managed to fulfill their parking requirements and eliminate the necessity
+for parking on the bridge. The bridge serves as the primary entrance and exit to the site.
+There is a right-in, right-out access directly onto 13400 South. Mr. Prestwich did not include
+in the drawing when outlining the fence that there is access through a shared pathway
+across the parking lot with the doctor's office. It does not eliminate the future possibility of
+access to the frontage roads.
+
+They will have a break in the wall and descending stairs that will lead to the pool area. The
+pool area will be safeguarded by gated access points to ensure privacy and prevent
+unauthorized entry from the street. The fence is six-foot white vinyl and six-foot solid
+masonry. The townhomes, condos, and single-family homes are open along the creek and
+no fencing was required. An entry feature has been added, which requires approval and a
+Sign Permit. Depending on property arrangements, if it is subdivided into different
+ownerships, the applicant will need to obtain permission that is on private property, not
+within the public right-of-way.
+
+The civil site plan was presented. The creek is a separate parcel. The applicant has not
+updated the Landscape Plan but it will be changed to reflect the current geometry of the
+parking lot. The applicant intends to plant sod and trees on the corner and low-maintenance
+xeriscaping inside and along the edges, which will soften the corner without using a lot of
+water.
+
+The proposed motion was reviewed with special emphasis on conditions 8 and 9.
+Construction was expected to take six to nine months. The maintenance responsibilities
+and procedures for the Creek need to be finalized. Rose Creek is a regional facility with
+involvement from the County. It is also in the FEMA flood zone. Herriman puts a lot of water
+into it and it has to be managed. There is also nuisance water to be addressed and annual
+maintenance to be done. That will be addressed with the developer.
+
+A question was raised about the original Block Scale Plan that showed that the fire truck
+turnaround on the south end was eliminated. He stated that the measurements are based
+on a 47-foot truck while the ladder truck that will respond is 60’ 3”. Mr. Prestwich stated that
+the Unified Fire Authority (“UFA”) indicated that the turnaround was not necessary to access
+Riverton City Planning Commission Meeting                                                  21
+April 11, 2024
+
+
+the building. As a result, it was removed. It was clarified that between the two parking spots
+on the corner of the building is a narrow pathway that will serve as a pedestrian crossing.
+
+The Commission next discussed the fencing along Mountain View. It was reported that as
+Mountain View develops, the road next to the fence will continue to function as a bypass
+road. A question was raised regarding the distance between the road, the fence, and the
+building that is recessed below the roadway. This led to discussion regarding the need for
+a barrier to protect residents from vehicles. Mr. Prestwich clarified that the six-foot precast
+fence requirement matches the standard for collector streets within the City. The speed limit
+for the frontage road was reported to be 35 MPH. It was noted that only a wildlife fence is
+required along the boundaries.
+
+Commissioner Gilchrist provided details on standard design. These standards establish a
+required distance between the edge of the travel lane and any obstructions. This is primarily
+for driver protection. Traffic barriers are only mandated when there is a "clear zone" that
+requires safeguards to prevent collisions.          Concrete fences would be considered
+obstructions if placed within that zone for a 70 MPH freeway where the clear zone distance
+is 30 feet. For a frontage road, the clear zone is around 24 feet measured from the edge of
+the travel lane to the shoulder stripe. In this case, there is a wide shoulder, a wide trail, and
+additional space for the fence.
+
+A question was raised about a standard for protecting residences on the other side of the
+fence. Commissioner Gilchrist explained that design standards do not typically account for
+situations outside the clear zone. The standard is that within that zone of 30 feet for
+freeways, a normal driver is likely to recover and avoid hitting the barrier. Since the risk is
+deemed low, Departments of Transportation across the country do not consider protection
+beyond that zone necessary. This raises the question of why a developer would be required
+to provide protection for a scenario that highway departments do not consider a concern.
+
+It was confirmed that City Code does not have a specific requirement for additional space
+between the building and the fence beyond the standard property line setback. This is
+because the standard does not apply in this situation due to the nature of the road on the
+opposite side of the fence.
+
+There was some confusion about the lack of a standard that considers factors like building
+density and elevation on the other side of the fence. It was clarified that the current Code
+does not include a standard that mandates additional separation beyond existing
+requirements. The fencing already meets the established standard for solid masonry. An
+opposing viewpoint was presented. It was argued that a national standard for inside fencing
+has been in place for a long time to address the issue of errant vehicles.
+
+Commissioner Park asked about the likelihood of the Utah Department of Transportation
+(“UDOT”) changing its mind and converting the frontage roads into freeway lanes. UDOT's
+current plan was described, with a focus on finalizing the design of on and off-ramps,
+frontage road speeds, and the integration of multi-use trails. The potential consequences of
+UDOT changing the road configuration were addressed. If this were to occur, the City would
+Riverton City Planning Commission Meeting                                                 22
+April 11, 2024
+
+
+be able to impose new requirements on UDOT, such as the construction of barriers to protect
+the high-density housing development. An example of a similar situation where UDOT had
+to modify the design to accommodate existing development was provided.
+
+The timing of the Pedestrian Bridge Construction Project was clarified. It was specified that
+the bridge going over 13400 South is anticipated to be bid on in the fall and constructed next
+summer.
+
+Commissioner Gilchrist commented on UDOT being unlikely to change the current
+configuration due to the extensive environmental review process required for such
+modifications. He asked about public access to the pedestrian connection between the
+Mountain View Trail and the apartment complex. It was expressed that unrestricted public
+access would be ideal to allow for connection to the Rose Creek Trail. Staff was tasked with
+clarifying whether the access point would be gated or open to the public.
+
+Commissioner Gilchrist referred back to the site plan and asked about the existence of trail
+access further south near the south side of Rose Creek. It was reported that a request to
+extend the Rose Creek Trail into Herriman had been submitted to UDOT. While there are
+discrepancies between UDOT and the Commission regarding the specific connection point,
+a connection to the trail on Mountain View Corridor is planned.
+
+Commissioner Gilchrist asked if trail access is available directly from Mountain View Corridor
+for northbound traffic. It was reported that the anticipated connection will be south of Rose
+Creek, allowing the Rose Creek Trail to connect to the Mountain View Corridor trail at some
+point. It was confirmed that this connection point would be at 13800 South.
+
+UDOT's involvement and evolving plans were acknowledged. It was mentioned that UDOT
+has shared preliminary designs but these plans change frequently. As a result, it is difficult
+to determine the final outcome until UDOT reaches a 30% design completion stage.
+
+The applicant provided details about the wall along the Mountain View Corridor. He is not a
+resident of Riverton but a frequent visitor to Mountain View Village from a neighboring city.
+He expressed enthusiasm for the development, particularly the addition of many exciting
+restaurants and amenities. He mentioned that a six-foot precast wall will be constructed that
+will not be similar to competitor precast walls that feature a rock design with a foam interior.
+Instead, a solid precast wall will be constructed. He reported that UDOT required additional
+borings and a more robust structural design for the wall to grant access to the small opening
+by the pool area. The reinforced design applies not only to the retaining wall but also
+ensures sufficient support for the precast wall. This will hopefully result in a much stronger
+and safer barrier along that section.
+
+With regard to the trail connections, it was reported that an access permit for the trail right
+by the pool is being secured from UDOT. Another access point is planned further down at
+13800 South. The possibility of UDOT changing its plans to a freeway with a frontage road
+was acknowledged. In the Mountain Ridge Development, an access point on the south side
+Riverton City Planning Commission Meeting                                                  23
+April 11, 2024
+
+
+of Rose Creek might be created. The applicant reassured everyone that they are actively
+working with UDOT to obtain approval for the access point by the pool.
+
+The applicant addressed fire access and explained that collaboration occurred with multiple
+representatives of Unified Fire to ensure proper radii and meet all internal site requirements.
+Specific details regarding the distance between the roadway and buildings to accommodate
+fire ladder trucks were mentioned. Mr. Devoogd reviewed the plan and expressed
+satisfaction. The applicant was confident that the requirements had been met.
+
+The applicant has worked with the existing doctor's office. He mentioned that his son
+receives orthodontic treatment at the doctor’s office. The doctor's office was consulted
+regarding the proposed cross-access point and they expressed enthusiasm for the addition,
+as many of their patients encounter difficulty entering and exiting the current site. The details
+of the cross-access point, which would provide a third access option, were discussed during
+the on-site meeting.
+
+The applicant was asked about the name of the development. The applicant acknowledged
+anticipating this question and admitted to extensive internal discussions, including the
+marketing team and other collaborators. He stated that the naming options had been
+narrowed down to a select few. However, due to confidentiality, the specific names were
+not disclosed. It was further reported that "Mountain Ridge Apartments" was unlikely to be
+the final choice and a different name would likely be chosen, but the final decision remained
+undetermined. The applicant addressed the potential issue of the development obstructing
+the view of the Kennicott Copper mine. He acknowledged understanding the concern but
+expressed their belief that it would not be a problem.
+
+A question was raised regarding the building height exceeding the Mountain View Corridor
+level. The applicant explained that approximately four stories will likely be visible upon
+grading. However, with the addition of the six-foot precast fence, the total height was
+estimated to reach the level of, or possibly slightly lower than, the second-story decks.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-23-
+8022, “Mountain Ridge Apartments”, to be located near the southeast corner of
+Mountain View Highway and 13400 South subject to the following conditions:
+
+       1.     This Detailed Plan shall comply with the terms and conditions approved
+              with the Block Scale Plan, with the SLR Project Area Master Development
+              Agreement, and with the approvals of the Master Developer.
+
+       2.     Site Improvements and the Building, including the exterior finish,
+              dumpster enclosures, and landscaping, and all other improvements shall
+              be consistent with the plans presented to the Planning Commission
+              except where otherwise noted.
+
+       3.     The applicant shall correct or resolve the remaining staff redlines.
+Riverton City Planning Commission Meeting                                        24
+April 11, 2024
+
+
+      4.    Storm drainage systems and accommodations shall comply with
+            Riverton City Standards and ordinances, and with the recommendations
+            of the Riverton City Engineering Division.
+
+      5.    The Applicant must create and agree to follow a Long-Term Storm Water
+            Management Plan according to Riverton City standards and ordinances
+            prior to receiving building occupancy.
+
+      6.    A Land Disturbance Permit must be issued by the City prior to any
+            construction grading on the site.
+
+      7.    The applicant must obtain final approval from utility providers, and
+            outside agencies.
+
+      8.    This is a private site with no city maintenance of driveways, parking lots,
+            or on-site utilities such as water, sewer, or drainage facilities.
+
+      9.    An agreement between the City and the developer must be finalized
+            regarding the long-term maintenance of the Rose Creek channel prior to
+            issuance of a certificate of occupancy.
+
+      10.   Rooftop mechanical shall be screened from view.
+
+      11.   The site and structures shall comply with any and all applicable Riverton
+            City standards and ordinances, including the International Building and
+            Fire Codes.
+
+The motion was seconded by Commissioner Cluff. The motion passed with the
+unanimous consent of the Commission.
+
+4.    DISCUSSION ITEMS
+
+      A.    None.
+
+5.    MINUTES
+
+      A.    02.22.24 PC Meeting Minutes.
+
+Commissioner Beck moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of February 22, 2024, as presented. Commissioner
+Cluff seconded the motion. The motion passed with the unanimous consent of the
+Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:50 PM.
+

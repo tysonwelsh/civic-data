@@ -1,0 +1,103 @@
+HOLLADAY Council — VOTE VALIDATION REPORT
+================================================================
+Meetings (json):        152
+Motions:                702  (named 400, tally-only/consent 302)
+JSON vote rows:         2475
+all_votes.csv rows:     2475   reconcile: OK
+Per-body motions:       {'Council': 678, 'RDA': 21, 'LBA': 3}
+Motion types:           {'Procedural': 343, 'Resolution': 186, 'Ordinance': 132, 'Other': 36, 'Land-Use/Zoning': 3, 'Appointment': 1, 'Contract/Agreement': 1}
+Mayor vote rows:        365
+>6-voter parse flags: 0
+Named-roll size !=5/6:  36 (informational)
+Contested motions:      6
+
+RESULT: PASS
+
+-- Observed roster (member: first..last, rows) --
+   Quinn          2020-01-09..2026-04-16  rows=390
+   Fotheringham   2020-01-09..2026-04-16  rows=384  [MAYOR]
+   Durham         2020-01-09..2026-04-16  rows=366
+   Dahle          2020-01-09..2025-12-18  rows=358  [MAYOR]
+   Gibbons        2020-01-09..2024-12-12  rows=236
+   Brewer         2022-01-20..2025-12-18  rows=176
+   Gray           2024-01-04..2026-04-16  rows=131
+   Petersen       2020-01-09..2021-12-16  rows=104
+   Bradley        2026-01-08..2026-04-16  rows=14
+   Sundwall       2026-01-08..2026-04-16  rows=14
+
+-- Per-year observed voters --
+   2020: Dahle(74), Quinn(70), Gibbons(70), Fotheringham(66), Durham(64), Petersen(58)
+   2021: Fotheringham(64), Gibbons(64), Quinn(61), Durham(58), Dahle(57), Petersen(46)
+   2022: Fotheringham(57), Quinn(57), Dahle(57), Durham(52), Gibbons(49), Brewer(45)
+   2023: Quinn(53), Gibbons(49), Fotheringham(48), Durham(47), Dahle(46), Brewer(30)
+   2024: Quinn(74), Fotheringham(74), Durham(72), Dahle(69), Gray(57), Brewer(55), Gibbons(4)
+   2025: Quinn(63), Fotheringham(61), Gray(60), Durham(59), Dahle(55), Brewer(46)
+   2026: Gray(14), Bradley(14), Durham(14), Sundwall(14), Fotheringham(14), Quinn(12)
+
+-- Contested motions (6) --
+   2025-08-28 [Council] m1 | The motion passed unanimously. | Gray=Aye Quinn=Aye Fotheringham=Recuse Durham=Aye Brewer=Aye Dahle=Aye :: DENY the Appeal of Christian and Amanda Hansen for the Subdi
+   2025-03-06 [Council] m1 | The motion failed with a unanimous vote. | Brewer=Nay Durham=Nay Fotheringham=Nay Quinn=Nay Gray=Nay Dahle=Nay :: APPROVE Ordinance 2025-01- Amending Title 13.02.030 of the C
+   2024-10-24 [Council] m1 | The motion FAILED with a vote of 5-to-0. | Gray=Nay Quinn=Nay Fotheringham=Nay Durham=Nay Dahle=Nay :: APPROVE Ordinance 2024-16 - Amending Title 13 of the City Co
+   2024-04-25 [Council] m3 | Ordinance 2024-06 was adopted by a 5-to-1 vot | Brewer=Aye Durham=Aye Fotheringham=Nay Quinn=Aye Gray=Aye Dahle=Aye :: ADOPT Ordinance 2024-06 - Restricting the Use of Personal Fi
+   2021-02-18 [Council] m1 | Ordinance 2021-01 was denied by a 5-to-1 vote | Fotheringham=Aye Dahle=Nay Petersen=Nay Gibbons=Nay :: approve Ordinance 2021-01
+   2020-10-01 [Council] m3 | Resolution 2020- 28 was approved by a 5-to-1  | Dahle=Aye Gibbons=Aye Petersen=Aye Quinn=Aye Durham=Aye Fotheringham=Nay :: approve Resolution 2020-29
+
+-- Named-roll size deviations (36) — first 40 --
+   2022-04-21 [RDA] m4 roll=4 [('Quinn', 'Aye'), ('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Dahle', 'Aye')] :: direct City and Agency staff to draft a letter to be se
+   2022-09-15 [Council] m1 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye'), ('Dahle', 'Aye')] :: adopt Ordinance 2022-20, amending the zoning map for pr
+   2022-09-15 [Council] m2 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye'), ('Dahle', 'Aye')] :: approve Ordinance 2022-21, amending the zoning map for 
+   2022-09-15 [Council] m3 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye'), ('Dahle', 'Aye')] :: approve Resolution 2022-24, adopting amendments to the 
+   2022-06-02 [Council] m1 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Brewer', 'Aye'), ('Dahle', 'Aye')] :: adopt Ordinance 2022-10 - Amending Provisions of Chapte
+   2022-06-02 [Council] m2 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Brewer', 'Aye'), ('Dahle', 'Aye')] :: approve Resolution 2022-16 - Amending the Stormwater Ma
+   2025-07-17 [Council] m1 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2025-13, Approving an Interlocal Agr
+   2025-07-17 [Council] m2 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2025-14, Appointing Council Member G
+   2025-07-17 [Council] m3 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2025-15, Approving an Amendment to t
+   2024-06-13 [Council] m3 roll=3 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye')] :: ADOPT Ordinance 2024-10 - Determining the Rate of Tax f
+   2024-06-13 [Council] m4 roll=3 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye')] :: ADOPT Ordinance 2024-11 Approving a Compensation Schedu
+   2024-06-13 [Council] m5 roll=3 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye')] :: ADOPT Ordinance 2024-12 - A Final Budget for Fiscal Yea
+   2024-06-13 [Council] m6 roll=3 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye')] :: APPROVE Resolution 2024-21 Granting the Advice and Cons
+   2023-06-15 [Council] m1 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: ADOPT Ordinance 2023-05 - Amending the Budget for the F
+   2023-06-15 [Council] m2 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: ADOPT Ordinance 2023-06 - Determining the Rate of Tax f
+   2023-06-15 [Council] m3 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: ADOPT Ordinance 2023-07 - Approving a Compensation Sche
+   2023-06-15 [Council] m4 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: ADOPT Ordinance 2023-08 - A Final Budget for Fiscal Yea
+   2023-06-15 [Council] m5 roll=4 [('Durham', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: APPROVE Resolution 2023-18 - Amending the Consolidated 
+   2023-10-19 [Council] m5 roll=4 [('Dahle', 'Aye'), ('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+   2023-11-02 [Council] m1 roll=4 [('Brewer', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2023-28 - Granting the Advice and Co
+   2023-11-02 [Council] m2 roll=4 [('Brewer', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2023-29 - Granting the Advice and Co
+   2023-11-02 [Council] m3 roll=4 [('Brewer', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2023-30 - Approving a Program Agreem
+   2023-11-02 [Council] m4 roll=4 [('Brewer', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye')] :: APPROVE the City Council Meeting Minutes from August 17
+   2023-05-18 [Council] m1 roll=4 [('Brewer', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye'), ('Dahle', 'Aye')] :: APPROVE Resolution 2023-17 - Approving an Interlocal Co
+   2021-02-18 [Council] m1 roll=4 [('Fotheringham', 'Aye'), ('Dahle', 'Nay'), ('Petersen', 'Nay'), ('Gibbons', 'Nay')] :: approve Ordinance 2021-01
+   2021-12-16 [Council] m1 roll=4 [('Fotheringham', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Petersen', 'Aye')] :: adopt Resolutin 2021-39
+   2021-08-26 [RDA] m6 roll=4 [('Fotheringham', 'Aye'), ('Quinn', 'Aye'), ('Dahle', 'Aye'), ('Gibbons', 'Aye')] :: Direct the City Attorney of Holladay to draft a letter 
+   2021-02-04 [Council] m5 roll=3 [('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+   2020-04-02 [Council] m2 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+   2020-08-27 [Council] m4 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+   2020-05-07 [Council] m1 roll=1 [('Dahle', 'Aye')] :: approve Resolution 2020-18 acknowledging receipt of and
+   2020-05-07 [Council] m2 roll=1 [('Dahle', 'Aye')] :: adopt Ordinance 2020-07 amending Section 13.94.080 of t
+   2020-05-07 [Council] m3 roll=1 [('Dahle', 'Aye')] :: approve Resolution 2020-19 Adopting the 2019 Salt Lake 
+   2020-05-07 [Council] m4 roll=1 [('Dahle', 'Aye')] :: approve Resolution 2020-20 approving a Mutual Release a
+   2020-05-07 [Council] m8 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+   2020-06-18 [Council] m9 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
+
+-- Mayor vote rows (sample 20 of 365) --
+   2022-08-18 Dahle=Aye m1
+   2022-08-18 Dahle=Aye m2
+   2022-04-21 Dahle=Aye m1
+   2022-04-21 Dahle=Aye m2
+   2022-04-21 Dahle=Aye m3
+   2022-04-21 Dahle=Aye m4
+   2022-09-15 Dahle=Aye m1
+   2022-09-15 Dahle=Aye m2
+   2022-09-15 Dahle=Aye m3
+   2022-05-19 Dahle=Aye m1
+   2022-05-19 Dahle=Aye m2
+   2022-01-20 Dahle=Aye m1
+   2022-01-20 Dahle=Aye m2
+   2022-01-20 Dahle=Aye m3
+   2022-01-20 Dahle=Aye m4
+   2022-01-20 Dahle=Aye m5
+   2022-05-05 Dahle=Aye m1
+   2022-05-05 Dahle=Aye m2
+   2022-05-05 Dahle=Aye m3
+   2022-05-05 Dahle=Aye m4

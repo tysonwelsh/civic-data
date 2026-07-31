@@ -1,0 +1,700 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=281&doc_id=a66bca78-b0c1-11ea-888f-0050569183fa
+> Meeting date: 2020-06-02
+> Format: text
+
+Approved June 16, 2020
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JUNE
+2, 2020, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:                 Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                         Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:                 Councilmember Fred Lowry
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                    Oscarson, City Recorder; Scott Cooley, City Engineer; John Eining, Police
+                    Chief; Russ Fox, Assistant City Manager; Rhett Ogden, Recreation
+                    Director; Clint Smith, Fire Chief; and Bob Wylie, Finance Director
+________________________________________________________________________
+This meeting was held electronically.
+This meeting was held as an electronic meeting pursuant to Draper City Resolution #14-54. As restrictions
+take place across the State for limiting public gatherings, we want to make sure everyone interested in
+participating in City Council meetings can do so in a manner that they feel most comfortable. Individuals
+could participate by:
+
+      1. Listening through the Draper City Website: https://www.draper.ut.us/95/Agendas-Minutes
+      2. Emailing comments to public.comment@draper.ut.us by 5 p.m. on the day of the meeting.
+         These will become part of the public record.
+      3. Requesting the Zoom Meeting ID from public.comment@draper.ut.us by noon, June 1, 2020, to
+         be able to speak during the Public Hearing portions of the meeting.
+Study Meeting
+
+1.0      Council/Manager Reports
+
+1.1      Councilmember Tasha Lowery said that she had a request from a resident about the
+         pickleball courts. She asked if there was a way to schedule times for the pickleball courts
+         or do something online through the Parks and Recreation Department. She said that the
+         complaint was that some residents are blocking out lengthy times of use for multiple
+         parties, causing other residents to have to wait for two- or three-hour periods.
+
+         David Dobbins, City Manager, said that staff could follow up on the concern. That was
+         not something that was done in the past.
+
+         Mr. Ogden said that the Parks and Recreation Department was in the process of having a
+         solution. They had an almost ready system that put people in the queue for a court which
+         caused players to rotate through the courts a lot faster.
+1.2   Councilmember Tasha Lowery said there were a couple of community members who had
+      reached out and expressed a willingness to help with some of the projects the City thought
+      might have to wait, such as the all-abilities park and the Jordan River launch.
+
+      Mr. Dobbins clarified that the residents were interested in helping financially through
+      donations. When Councilmember Lowery confirmed that was correct, Mr. Dobbins said
+      the City had not done this in the past but were open to doing that through the foundation.
+
+1.3   Councilmember Cal Roberts asked about the SunCrest parade and if the Council had a
+      sense of what their or the City’s involvement would be. Mr. Dobbins said that he thought
+      that SunCrest had just informed Draper that they were doing the parade, but had not asked
+      for the City’s involvement. Councilmember Roberts asked about services such as police
+      car or fire truck appearances. Mr. Dobbins said the City has done things like that for
+      various things. However, SunCrest would need to look into getting permits if they were
+      planning on shutting down roads. He also noted that depending on how many people they
+      anticipated participating, they might also need to get a county mass gathering permit.
+      Councilmember Roberts asked again about the police and fire vehicles.
+
+      Mayor Walker said that even though it was not an event put on by the City it was a
+      community event. The City has had a presence and provided vehicles like this before.
+
+      John Eining, Police Chief, said that he had emailed the parade organizer who had reached
+      out to the City and informed him that he needed to get the permits. According to Chief
+      Eining, the organizer was already working on the permits. The Chief said that he told the
+      organizer that once he had secured the permits the Police Department would be willing to
+      assist with the event.
+
+      Mr. Ogden added that he had the City’s special events coordinator touch base with the
+      parade organizer. However, as far as Mr. Ogden was aware, the organizer had not yet
+      submitted anything to the City. He said that because they were looking for road closures,
+      they would need an event permit, and their desire to include food trucks required a county
+      health permit.
+
+1.4   Councilmember Cal Roberts asked about the medians over by Cranberry Hill. The resident
+      said that they required some maintenance as there was some overhanging brush that limited
+      visibility and made turning out dangerous.
+
+      Mr. Dobbins said that he believed that Mr. Ogden had looked into the trees and they were
+      the HOA’s responsibility.
+
+      Mr. Ogden said that on the west side of the road, it was a back of the park strip which fell
+      to the responsibility of the homeowner, and on the east side the lot was sold to the house
+      on the north near the canal and was also owned by the homeowner. Regarding the trees,
+      the staff had already trimmed and taken care of them.
+
+
+
+
+                                         Page 2 of 15
+1.5   Councilmember Cal Roberts asked if there had been any more investigation on tolling
+      SunCrest Drive and Traverse Ridge. Mike Barker, City Attorney, said that Spencer
+      DuShane, City Attorney, was looking into if it was legal. Mr. Barker had not yet concluded
+      the issue as there were a few matters of statutory interpretation and some circumstances
+      regarding the ownership of the roads.
+
+1.6   Councilmember Cal Roberts also followed up on communication from residents about the
+      Draper Elementary safe walking routes.
+
+      Mr. Dobbins explained that those residents had requested a new trail. Based on the
+      previous discussion by the Council the City would not be implementing the request. The
+      second issue was the sidewalks and safe walking routes. He said that he knew that
+      developments to Fort Street were planned over the next few years.
+
+      Scott Cooley, Public Works Director, said that the safe walking route was along Fort Street
+      as the City installed sidewalks where they were currently missing. For homes south of the
+      school, the safe walking route would go through the Ivory subdivision. These homes do
+      have a safe walking route it was just a little bit longer (about the length of 12 homes).
+
+1.7   Councilmember Mike Green said that he and Mr. Ogden had discussed the management of
+      park strips. Some were managed by Parks and Recreation, some by Public Works, some
+      by residents. Councilmember Green felt that the City needed a consolidated plan to figure
+      out how they would be managed. He cited that after speaking with Mr. Ogden he learned
+      that the City was spending something like $17,000 a month to mow the park strips. If this
+      was the case, Councilmember Green suggested they switch them to xeriscape.
+
+      Mr. Dobbins said that staff could report back to the Council and submit an inventory of
+      which park strips they maintain and the cost of maintenance.
+
+1.8   Councilmember Mike Green wanted to tell the Police Department that he was grateful to
+      them. He felt that they responded well to the protests and that he appreciated that Draper
+      City police helped Salt Lake City. He said that the police had his full support.
+
+1.9   Mayor Walker said that crossing at the intersection at 1300 East and 13800 South on the
+      Porter Rockwell trail needed to better accommodate pedestrian crossing. He said people
+      get stuck in the middle of the median because there is a stop sign halting traffic coming
+      from the north, but on the south traffic is not stopped.
+
+      Scott Cooley, Public Works Director, said that intersection was part of a project that would
+      either occur next year or the following year. He explained it was a federally funded project
+      to finish 1300 East up to the bridge from 13200. He said there would be a signal at 13800
+      South and 1300 East.
+
+      Mayor Walker asked if the City could put up a pedestrian crossing flashing sign to better
+      alert traffic to their crossing. Mr. Cooley said staff could look into it. He said that there
+
+
+
+                                          Page 3 of 15
+       were some safety concerns with younger kids and those signs, as kids push the button and
+       feel as though they are safe to cross without actually looking.
+
+1.10   Clint Smith, Fire Chief, provided an update on two apparatus projects the Fire Department
+       had been working on over the last several months: the remount of the ambulance on a new
+       chassis and the purchase of the reserve aerial. He said that both projects were coming along
+       nicely. He showed a picture of a new ladder truck the department received today. He said
+       that they would be able to use the vehicle in the next couple of weeks. Concerning the
+       ambulance, because of travel restrictions, they would not be able to do an in-person final
+       inspection but were scheduled to do a virtual inspection on Thursday, June 4th. If this went
+       well, it would be shipped the following Friday or Monday, allowing the Fire Department
+       to take possession of the vehicle for lettering and striping. He anticipated that by the end
+       of June, both vehicles would be available for service.
+
+1.11   Mr. Dobbins said that the City canceled the fireworks display last Saturday intending to
+       move that into the fall. He said that in the middle of the summer with the high heat and
+       dry conditions it was better to move. He also explained that in talking with the foundation
+       about having a smaller concert with some food trucks and vendors in the fall instead of the
+       full Draper Days event. He asked for verification of the Council’s direction.
+
+       Mayor Walker said he thought the City could do one or two nights of a concert, as the talent
+       was already lined up and they could do the fireworks in tandem with the concerts. Mr.
+       Dobbins clarified that the Council did not want the event to be as big as Draper Days.
+
+       Councilmember Mike Green said that he felt as though the City should just go back to
+       normal.
+
+       Councilmember Cal Roberts said that he wanted it to be more community-oriented and less
+       commercial.
+
+       Councilmember Tasha Lowery said that her goal would be for the event to be for residents,
+       so to only advertise locally.
+
+       Mr. Dobbins said that they had also completed the additional parking at Orson Smith. He
+       said that as you would normally enter the parking lot, as you turn right to start up the road
+       the area had been graded to accommodate 18 more parking stalls. He said that there would
+       be an item on the Council’s next agenda to close the upper Corner Canyon Road for fire
+       safety reasons. Residents would be able to go up to park their cars, but the road would be
+       gated off after the parking area. He wanted to verify that the Council was still okay with
+       that direction.
+
+       Councilmember Tasha Lowery clarified that residents would still be able to hike and ride
+       bikes up the road, they just would not be able to drive up to it.
+
+       Mr. Dobbins said that he did not think the road closure would impact bikers. However, he
+       predicted that the complaint the Council might receive was from hikers who liked to drive
+
+                                           Page 4 of 15
+       up the road towards the Ghost Falls parking area and hike from there. He said that people
+       who parked up there would have to find other places to park. The City would advertise
+       that they need to go to the equestrian center.
+
+       Councilmember Tasha Lowery asked when Peak View would be open. Mr. Ogden said
+       that the City advertises the end of summer, but that they were hoping to open it at the end
+       of August. Councilmember Tasha Lowery asked if there was any ability to accelerate the
+       Peak View project so that it could open early. Mr. Ogden said the City could pay the
+       contractor more money so that he could pay more staff to get more work done in a workday.
+
+       Mayor Walker said it did not seem as though there was interest in paying more money to
+       quicken the contract timeline.
+
+1.12   Councilmember Tasha Lowery brought up that there had been a conversation about doing
+       a winter fest. She asked if that was still being considered. Mr. Dobbins said that staff had
+       not done much with that mostly because of cost. Given the uncertainty of budgets, the staff
+       was hesitant to make financial commitments. He said that he was not comfortable to tell
+       the Council that they had enough money to do it. However, it was important to the Council,
+       staff could budget for it with the Council’s knowledge that their revenues might not match
+       up to cover that cost.
+
+       Mayor Walker asked when the City would have a feel for their revenues. He asked how
+       much the sales tax lagged by. Mr. Dobbins said it was about a three-month lag. Mayor
+       Walker said that it was probably better to do it next year.
+
+       Councilmember Tasha Lowery requested that they look into a simple option for the ice-
+       skating rink. Mr. Ogden said that he had sought a quote for the ice-skating rink. It would
+       cost about $110,000 for two weeks. Councilmember Tasha Lowery asked if the City would
+       recoup any of the money for the rink through rentals and admission. Mr. Ogden said there
+       would be a possibility for generating revenue and that the City would keep all of the
+       revenue. He was just noting that the upfront cost was fairly high.
+
+**     The City Council recessed at 6:30 p.m.
+
+**     The City Council reconvened at 7:00 p.m.
+
+Business Meeting
+
+1.0    Call to Order: Mayor Troy K. Walker
+
+2.0    Consent Items
+       a. Approval of May 5, 2020, City Council Meeting Minutes
+
+2.1    Councilmember Tasha Lowery moved to approve                        the   Consent     Items.
+       Councilmember Marsha Vawdrey seconded the motion.
+
+
+
+                                          Page 5 of 15
+2.2   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+3.0   Action Item: Resolution #20-22, filling a mid-term vacancy and appointing a member
+      to the Traverse Ridge Special Service District Administrative Control Board
+      (Administrative), candidates will be given 5 minutes each to present their
+      qualifications to the City.
+
+3.1   Christine McClory, candidate, stated that this evening the Council would select a new board
+      member for the Traverse Ridge Special Service District (TRSSD). She said that she
+      appreciated that the TRSSD chairman, Paul Tonks, and the Draper City Assistant Manager,
+      Russ Fox, reached out to encourage that she might submit her name for consideration.
+
+      Ms. McClory provided some background on herself. Originally from Maryland, she had
+      lived in Draper City for 13 years. She worked as a professional public relations and media
+      analyst for fortune 500 companies and then had her firm for 15 years before switching to
+      professional photography. Also, she has served as a delegate on the Suncrest HOA, as well
+      as a commissioner on the ten-year Parks and Trails Planning Commission. She said that
+      both opportunities made her better acquainted with her neighbors and Draper City. She
+      added that for the last two years she had worked with City staff, administrators, the TRSSD
+      board, and contractors and suppliers to manage the district’s lights. In this role, she handled
+      communication from residents, received and responded to orders through the Draper City
+      website, and coordinated solutions with contractors. She said that her creative thinking and
+      vigilant cost oversight had saved the district thousands of dollars as they embarked on
+      upgrading all of their existing lights to LED and brought conformity to the lighting standard
+      across the district. The transition to LED will reduce expenses for the City going forward.
+      She continued that despite some delays beyond her control, the cost, quality, and speed of
+      the operation had been considered outstanding by most municipal standards according to
+      the project’s contractor and supplier who regularly work with cities on lighting projects.
+      She said that what was important to note was that all of these efforts were undertaken as a
+      volunteer and as someone who was genuinely committed to the Draper community.
+
+      Ms. McClory said that she now hopes to provide that commitment to the TRSSD board.
+      She described herself as a team player, an out-of-the-box thinker, and a problem solver.
+      She stated that the district and City face challenges related to budget pressures that make it
+      paramount for both sides to see that they were two sides to the same coin. “We are one
+      Draper,” Ms. McClory said.
+
+      She said that she felt that the TRSSD and Draper City would be best served in seeking
+      common agreement where it could be found and supportably work to apply compelling
+      data or precedent that may guide positions. If appointed, Ms. McClory said she would find
+      it richly rewarding to work with the board, the Council, and the administration to overcome
+      longstanding disputes and controversies and forage a working relationship that serves all
+      stakeholders equitably. She stated that she believed that both listening and clear
+      communication are of equal importance and essential in the effort to solve problems.
+
+
+
+                                          Page 6 of 15
+      Ms. McClory said that if the Council seeks someone who desires real solutions and a
+      working partnership and someone who will work diligently to that end, she believed she
+      was the most experienced and knowledgeable candidate for the position. She requested the
+      Council's support and stated that if appointed she would give her full commitment to be an
+      honest broker as the pressing issues ahead were addressed.
+
+      Councilmember Tasha Lowery asked if Christine McClory could tell the Council a little
+      bit about what she has learned about the light situation over the past two years.
+
+      Christine McClory, a candidate, said that she became interested in the light situation after
+      a personal observation of a light that was refracting a lot of light due to fog. At this point,
+      she reached out to Amy Baird about how lights were going to change moving forward. Ms.
+      McClory said that after getting that information she decided to do some homework and
+      research, as she is someone who likes to look into things. Initially, Ms. McClory was
+      interested in lightbulbs as opposed to fixtures. However, when put in contact with the
+      supplier she learned that there was a specific design for SunCrest lighting. Thus, she
+      learned that there were misunderstandings about what materials the lights were made out
+      of, the cost of what the lights were sold for, and what the City was paying for them.
+      Ultimately, Ms. McClory discovered the true cost of the lights for the district. Ms. McClory
+      also learned from Amy Baird that she received more complaints about the new lights than
+      she did about lights being out. Ms. McClory said that when you live in a community you
+      get used to a particular ambiance both inside and out of your home, which explained the
+      personal reaction to the change in lighting. Many people showed up for public comment
+      on the issue.
+
+      Ultimately, when two new communities were joining the district, Edge Homes Hidden
+      Valley Estates, and Edelweiss, Ms. McClory proposed an LED solution and gained an
+      incredible response across the board about the look of the lights and the safety they have
+      provided the community.
+
+      Councilmember Mike Green asked Christine McClory how she saw the roads getting fixed
+      up in the TRSSD. He asked what her plan was.
+
+      Ms. McClory, a candidate, said that a lot could happen if everyone realized that they were
+      in things together. She said that she just believes there was a solution if all sides genuinely
+      wanted it to be equitable for all parties.
+
+3.2   Jeff Jones, a candidate, thanked the Mayor and Council for the opportunity to apply for the
+      position and provide service to his community. He provided some background on himself.
+
+      Mr. Jones said he was initially from Arizona but had lived in Utah for more than half his
+      life. After he initially moved to Utah for college, he fell in love with the accessibility to
+      nature and the Utah County girls making it difficult to leave. His father’s family were
+      pioneers and farmers who brought irrigation capabilities to the valley and helped found
+      Draper before moving to Payson and on to the Mexican colonies where they ultimately
+      settled in Mesa, Arizona. Mr. Jones majored in political science while studying at Brigham
+
+                                          Page 7 of 15
+     Young University (BYU) and had the opportunity to focus on the local politics of Utah,
+     which were unique at the time for him given the contrast between the Utah legislature and
+     that of the paid legislature that Arizona employees use to run their state. Instead of pursuing
+     politics, Mr. Jones focused on information technology but said that he had always been
+     intrigued by the societal impacts of technology and had focused his efforts on places in
+     technology like data privacy, security, and risk management. His interest in local politics
+     was in understanding the sociological impacts of our communities and how people behave
+     and interact to accomplish and get goals done.
+
+     Mr. Jones, a candidate, stated that he works professionally in the data security space,
+     specifically in software sales and engineering in a unique role that liaises between technical
+     folks and executives asking him to communicate both internally and externally between
+     parties with different interests and understandings. He said that role allows him to employ
+     a wider vision, offer feedback loops, and get teams to work together.
+
+     Mr. Jones said that he was a nine-year resident of the TRSSD and moved into SunCrest
+     without awareness or disclosure of the sellers of the TRSSD. However, he felt that it was
+     a unique aspect of the community and their greater relationship with Draper. He said that
+     he had been active in efforts to finalize moving most of the purchase of the SunCrest open
+     space to be officially preserved by urging the Council to grant its preservation status. He
+     said that participating in the effort inspired him to be more active in local governance and
+     politics.
+
+     Mr. Jones said that he was not a black or white thinker, either all in or all out, but rather
+     appreciated that some issues required more analysis and often required difficult solutions.
+     He said that he had been a little disappointed in the TRSSD and Draper City’s mutual ability
+     to resolve TRSSD disputes and believes that TRSSD residents deserve more transparency.
+     Instead of complaining, he said that he decided to volunteer to help with community
+     communication and assist the board with administrative tasks.
+
+     He said that he believed that his skills could help the community heal and move forward
+     under the City’s leadership. He said that his neighbor Christine, the candidate the Council
+     just heard from, had also volunteered whole-heartedly to support the district and he would
+     support her position on the board. He said that one reason why he volunteered was so that
+     there were enough candidates to move forward with the selection process for a new board
+     member.
+
+     Mr. Jones also stated that he felt some concerns about the conflict of interest of some of
+     the applicants. He specifically pointed to candidate Daryl Acumen, who also works
+     professionally consulting for City Councilmembers. Because of this, he encouraged taking
+     advantage of volunteer support. He thanked the Council for the opportunity to help better
+     represent and improve the communication with taxpayers of the TRSSD while assisting
+     with administrative tasks necessary to fulfill the district's obligations.
+
+**   Mayor Walker left the meeting at 7:15 p.m.
+
+
+
+                                         Page 8 of 15
+**    Mayor Walker rejoined the meeting at 7:16 p.m.
+
+      Councilmember Tasha Lowery thanked Mr. Jones for his time this evening. She asked for
+      clarification if he felt comfortable with Christine McClory, an alternative candidate, on the
+      board and if he was endorsing her for the position. She also wanted clarification if Mr.
+      Jones was removing himself as a candidate.
+
+      Mr. Jones said that was correct. He wanted to express his endorsement of Ms. McClory,
+      just as he had done publicly in the past. He said that she had put a lot of time and work
+      into the community and that he felt he could do that as well, too. He was not removing
+      himself as a candidate. He explained that in the past there had to be three applicants to
+      move forward with appointing a new board member, so he volunteered because he felt this
+      was a critical time for the TRSSD. He clarified that he recommended that the Council
+      consider the two candidates who do not have a potential conflict of interest from
+      professional paid consulting activities.
+
+      Councilmember Mike Green asked for Mr. Jones to briefly describe his thought process for
+      solving the road issue.
+
+      Mr. Jones said that the road issue was one of the main reasons he was interested in
+      participating. He said that as a district they have not been exposed to all of the details or
+      information that would be necessary to make a fair statement about what that decision
+      would be. He said that there had been a lack of transparency as a result of arbitration going
+      on. However, he said it would be difficult for him to say what a solution might be before
+      listening and receiving transparent information. He said that for him this process of
+      transparency and collaboration feels more important to him than the outcome of the
+      process.
+
+3.3   Daryl Acumen, candidate, said that he was the Senior Solutions Consultant for Adobe. He
+      said that he was a digital marketing and web analyst by trade. He said that he moved to
+      Utah in 2002. He said he had a bachelor’s degree in economics from Utah Valley
+      University (UVU), and a master’s in business administration from BYU. He said that his
+      qualification was that he lived here. He said that over the last several years he had been
+      politically involved. He ran for vice chairman of the republican party in 2013 to help them
+      with their voter outreach efforts and get their data up to speed. He explained he left that
+      position when he moved across the county line. Recently, Jason Chase asked him to run
+      his digital strategy for the 2020 campaign. Mr. Acumen explained that when Mr. Chase
+      dropped out of the campaign in 2017, he transferred his service to help other candidates
+      such as Senator Hatch, Mitt Romney, Chris Stewart, and Jon Huntsman in their data
+      management. He has also assisted in voter outreach and identification for the Utah
+      Republican Party during 2014, 2016, 2018, and 2020. He said that this will be his last cycle
+      in politics as his wife has told him that he needs to spend less time and energy in politics
+      except for the TRSSD board or something to do with their City or community, he could
+      serve.
+
+
+
+
+                                          Page 9 of 15
+Mr. Acumen said that yes, he had assisted City Councilmembers in Draper because he was
+sick and tired of Traverse Mountain not having any representation on the City Council. He
+said that he supported Councilmembers Tasha Lowery, Mike Green, and Cal Roberts
+because they lived on Traverse. He said that he was interested in making sure that the
+relationship between SunCrest and Draper stops being adversarial and starts being mutually
+respectful where the two parties talk to each other like the neighbors they are.
+
+Mr. Acumen said that he did not know that much about what was going on with the TRSSD
+as his involvement with politics was at the state level. From his perspective, however, the
+litigation, controversy, and contention that have been going on all these years were
+completely counterproductive. As a business analyst, Mr. Acumen believed in key
+performance indicators (KPIs). The KPI of the TRSSD board is to remove snow and fix
+roads and until recently, from Mr. Acumen’s perspective, the TRSSD had failed. He said
+that whatever strategy the TRSSD was using with their litigation was simply not working
+in part because of the makeup of the City Council. To address this, he tried to help change
+who got elected by supporting candidates who felt as though they had SunCrest interests at
+heart. He said that he recognized some activists in SunCrest did not understand that effort,
+but it is his opinion that positive results have occurred as there has finally been some
+movement on roads. He said that he looks forward to working with the City Council and
+the Mayor as he sees them at a turning point in the relationship between SunCrest and lower
+Draper. He said that he is excited to add his voice to that process. He said that he is only
+interested in the position because he lives here and loves the neighborhood.
+
+Councilmember Cal Roberts asked for Mr. Acumen to speak to his ability to work with
+people he disagrees with on principle.
+
+Mr. Acumen said that he was a business analyst by trade so for him, everything comes
+down to business. He said that he works with people that he disagrees with all the time.
+He said that he was not a fan of Donald Trump but that he almost got a Donald Trump-
+supporting candidate nominated for the fourth congressional district. He said that there are
+lots of people that he works with that he does not agree with such as the chairman of the
+Salt Lake Republican who he violently disagrees with about the caucus system. However,
+they are partnering together to do voter outreach and voter registration of unaffiliated voters
+in Salt Lake County. He said, “I’m black. My family is Democrat.” He said he is a
+protestant leaning Catholic who is married to a Mormon. He said that difference of opinion
+on principle does not scare or bother him. He said what does bother him is when
+professionals are not looking at key objectives and treating issues like a business. That was
+his issue with the TRSSD over the last few years; he felt they were not being business-
+minded.
+
+Councilmember Cal Roberts asked if Mr. Acumen could speak to the perceived conflict
+given that he had previous relationships with members of the City Council, himself
+included. Councilmember Roberts wanted to know how that might impact how Mr.
+Acumen might view the TRSSD.
+
+
+
+
+                                    Page 10 of 15
+      Mr. Acumen, said that perceived conflicts were just a function of being involved. He said
+      that someone could make the argument that he had conflicts in the State Governor’s race
+      and Federal legislative races. This was because he ran the voter outreach, voter
+      identification, and data infrastructure of most republicans in the state of Utah. He said there
+      almost was not a Republican candidate in the state that he had not had some involvement
+      with. He said that if someone wants a system related to voter registration they come to
+      Daryl. If that were a conflict of interest, he would not be eligible to run for anything and
+      might as well move to Texas. He disagreed that there was a conflict of interest.
+
+      Councilmember Mike Green asked Mr. Acumen his perspective on how to fix the road
+      problem.
+
+      Mr. Acumen said that he did not know enough about it yet. He believed there had to be
+      money there. He disclosed that he and Councilmember Green had already talked about
+      some of Councilmember Green’s ideas about some of the uses for the undeveloped land by
+      Deer Ridge to help fund road improvement. He said that he was confident there was a
+      solution that was not all that far off. He said that he knew that the TRSSD board had been
+      working hard and were close to a solution. He had a lot of faith in the TRSSD.
+
+      Councilmember Tasha Lowery asked Mr. Acumen if he had time to serve on the TRSSD
+      as she felt this was a situation where a candidate would need to dig in and get their hands
+      dirty for a while. She asked if given the effort he put into his career and his involvement
+      with other candidates if he had time to dedicate to several meetings a month.
+
+      Mr. Acumen said that was a fair question. He said that he was winding down his political
+      career. He said that he had been doing his career, plus graduate school, plus political stuff
+      for the last several years that had taken up a lot of time. He said that his wife had made
+      him promise to wind things down, the TRSSD being the exception as it involved Draper
+      and their community. Anything else she said he had to get out of by the end of 2020. So,
+      he did think that he would have the bandwidth.
+
+3.4   Councilmember Tasha Lowery noted that Councilmember Fred Lowry had contacted her
+      earlier and expressed that he hoped to correspond via email or phone with some of the
+      candidates.
+
+3.5   Councilmember Mike Green moved to continue Resolution #20-22, appointing to fill
+      a mid-term vacancy, and appointing a member to the Traverse Ridge Special Service
+      District Administrative Control Board to City Council Meeting on June 16, 2020.
+      Councilmember Tasha Lowery seconded the motion.
+
+3.6   Mike Barker, City Attorney, said that he was unsure if Councilmember Fred Lowry could
+      conduct his interviews outside of the public purview. He said that the statute was pretty
+      clear that interviews have to take place in a public setting. Mr. Barker expressed concern
+      for Councilmember Lowry conducting one-on-one research that was not in a public setting.
+
+
+
+
+                                          Page 11 of 15
+      Councilmember Tasha Lowery asked if the candidates could send Councilmember Lowry
+      a summary of what they said tonight.
+
+      Mike Barker, City Attorney, said it would be better for him to just listen to the interaction
+      that had occurred during the meeting. He wanted the opportunity to look into the
+      parameters around public interviews to be able to clarify if Councilmember Lowry was
+      able to send the candidates questions outside of the public meeting.
+
+3.7   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+4.0   Public Hearing: Ordinance #1439 Stevens Lot Zoning Map Amendment (Legislative
+      Action), on the request of Bryan Flamm for approval of a zoning map amendment to
+      change the zoning designation from RA1 (Residential Agricultural, 40,000 sq. ft. Lot
+      minimum) to RA2 (Residential Agricultural, 20,000 sq. ft. lot minimum). This
+      property is approximately 1.0 acre in size. The address is approximately 13755
+      Shadow Mountain Lane.
+
+4.1   Travis Van Ekelenburg said that the applicant was seeking a change in zoning designation
+      from RA1, residential agricultural zone, to RA2, residential agricultural zone at the
+      property located at 13755 Shadow Mountain Lane, a private road. He said that the subject
+      property was one acre in size with a 40,000 square foot minimum lot size. The proposed
+      RA2 zone designation has a 20,000-foot minimum lot size. The land use map calls for
+      residential low-medium density land use designation for the subject property. The RA2
+      zoning is a compatible designation for this land use category.
+
+      Mr. Van Ekelenburg said that if the proposed rezone is approved, it is the applicant’s
+      intention in the future to purchase the north half of the property by submitting an amended
+      subdivision plat amending the Kennington Estates subdivision which the property is
+      currently in. Mr. Van Ekelenburg displayed images of the subject property to provide a
+      better picture of how the lots would be divided and reincorporated.
+
+      The Planning Commission voted in favor of the item 4-to-1 on the May 14th meeting.
+      However, there was a public comment at the Planning Commission meeting that was fairly
+      negative.
+
+4.2   Bryan Flamm, the applicant, offered the clarification that if the lot were divided he did not
+      intend for it to be a separate lot, but rather to change the boundary lines of his current half-
+      acre lot to include the area and make his lot one acre and change the seller’s lot to a half-
+      acre. He said that the intention with the lot was to add it to his backyard. He noted that
+      Councilmember Lowery had noted the difficulty in getting pickleball courts and he was
+      hoping to resolve that for his family.
+
+      He said that there were three other residents on the lane. Since the Planning Commission
+      meeting, they met at a distance on the patio and reached an understanding about his
+      intentions for the lot. He said that he was willing to put into writing that he does not intend
+
+                                          Page 12 of 15
+      to turn the acquired property into a second lot which provided the residents with some
+      additional comfort.
+
+4.3   Mayor Walker opened the public hearing. No one came forward electronically, so
+      Mayor K. Walker noted that the Council did receive emailed public comment before
+      the meeting that was included in the councilmembers’ packets before he closed the
+      public hearing.
+
+4.5   Councilmember Tasha Lowery said that the comments they received in their packets were
+      positive and communicated that the neighbors were in favor of this becoming a park and
+      pickleball court. She asked what were the negative comments that were received at the
+      Planning Commission.
+
+      Mr. Van Ekelenburg said that residents were concerned about additional traffic through the
+      private lane. The other concern was the possibility of subdividing the property resulting in
+      another residence that would put an additional load on the private lane.
+
+      Councilmember Tasha Lowery said that it appeared the applicant had put that issue to rest
+      in clarifying his intention to extend his backyard.
+
+4.6   Councilmember Marsha Vawdrey moved to approve Ordinance #1439, Stevens Lot
+      Zoning Map Amendment. Councilmember Tasha Lowery seconded the motion.
+
+4.7   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Fiscal Year 2020-2021 Tentative Budget, this is an opportunity for
+      the public to comment on the Fiscal Year 2020-2021 Tentative Budget prior to its
+      adoption.
+
+5.1   Bob Wylie, Finance Director, explained that the item was the public hearing for the
+      proposed 2020-2021 tentative budget as was presented to the Council on May 19, 2020.
+      He said the tentative budget was balanced. However, the City had not yet received a
+      certified tax rate, so they have proposed to maintain the current rate. There were no rate
+      increases in any of the utility funds. There were also no new additions to the budgets or
+      capital projects. He explained the budget had been available to the public through the
+      City’s website and at the City Recorder’s Office.
+
+5.2   Mayor Walker opened the public hearing. No one came forward electronically, so
+      Mayor Walker closed the public hearing.
+
+5.3   Councilmember Mike Green moved to approve the FY20-21 Tentative Budget.
+      Councilmember Marsha Vawdrey seconded the motion.
+
+5.4   Mr. Dobbins said that the boat ramp project had been funded. In conjunction with this
+      project, it was felt that they needed to expand the parking lot to accommodate additional
+
+                                         Page 13 of 15
+      traffic and boat trailers. However, because of the economic downturn, the County had
+      withdrawn most of the money they had allocated towards the project. Mr. Dobbins
+      explained that Mr. Ogden had been working on finalizing the budget given this change.
+      Mr. Dobbins said that the City did have impact fee money that could be used to make up
+      the difference if the Council wanted to use those funds to support the project with park
+      impact fee money. If the Council wanted to take that action, staff could find the number
+      and include that at the next City Council meeting so that it was reflected in the approved
+      budget.
+
+      Councilmember Mike Green said that he was good at looking at the numbers and at least
+      seeing what it looked like.
+
+      Councilmember Tasha Lowery asked if there would be money for the boat launch area.
+
+      Mr. Dobbins explained that the City funded the boat launch area itself, but that the County
+      was going to fund the other improvements in the parking lot area. Because the County
+      withdrew some of that money staff needs a better handle on what that number was and
+      could supplement that with the City’s park impact fee money.
+
+      Councilmember Tasha Lowery was interested in seeing what that number was and also
+      wanted the same number for the all abilities park.
+
+      Mayor Walker said that there were some pretty awesome plans for Rotary Park where the
+      boat launch would be. He felt it would become a real jewel of a place.
+
+5.5   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Public Hearing: Resolution #20-27, authorizing the filing of eminent domain actions
+      to acquire real property for the purpose of widening and improving Lone Peak
+      Parkway (Legislative Action)
+
+      This item has been continued to the June 16, 2020, City Council Meeting.
+
+6.1   Councilmember Mike Green moved to continue the Item to the June 16, 2020, City
+      Council Meeting. Councilmember Tasha Lowery seconded the motion.
+
+      Councilmember Tasha Lowery asked if the motion to move the item meant that they would
+      not be able to get the project done this year. Scott Cooley, Public Works Director, said that
+      he hoped that moving the item did not prevent them from finishing the project, but that he
+      could not say for sure.
+
+      A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Recess to a Municipal Building Authority Meeting
+
+                                         Page 14 of 15
+7.1   Councilmember Marsha Vawdrey moved to recess to a Municipal Building Authority
+      Meeting. Councilmember Mike Green seconded the motion.
+
+7.2   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Adjournment
+
+5.1   Councilmember Mike Green moved to adjourn the meeting. Councilmember Tasha
+      Lowery seconded the motion.
+
+5.2   A roll call vote was taken with Councilmembers Green, Lowery, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+5.3   The meeting adjourned at 7:54 p.m.
+
+
+
+
+                                      Page 15 of 15
+

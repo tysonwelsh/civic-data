@@ -1,0 +1,27 @@
+{
+ "contributions": [
+  {"date": "10/29/21", "name": "Diane Bock", "amount": "100", "in_kind": false}
+ ],
+ "expenditures": [
+  {"date": "11/03/21", "recipient": "Squarespace", "purpose": null, "amount": "131", "in_kind": false},
+  {"date": "11/08/21", "recipient": "Costco", "purpose": null, "amount": "206", "in_kind": false},
+  {"date": "11/15/21", "recipient": "Surveymonkey", "purpose": null, "amount": "412", "in_kind": false},
+  {"date": "11/29/21", "recipient": "Walmart", "purpose": null, "amount": "44", "in_kind": false},
+  {"date": "11/30/21", "recipient": "Alpha Coffee", "purpose": null, "amount": "255", "in_kind": false},
+  {"date": "11/30/21", "recipient": "Decort Interactive", "purpose": null, "amount": "600", "in_kind": false}
+ ],
+ "total_contributions": "100",
+ "total_expenditures": "1648",
+ "contributions_50_or_less": "0",
+ "beginning_balance": null,
+ "ending_balance": "316",
+ "_meta": {
+  "index_path": "raw/2021_state_ellen-birrell-final-financial-report.pdf",
+  "candidate": "Ellen Birrell",
+  "office": "Council",
+  "filing_type": "summary",
+  "election_year": "2021",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2021_state_ellen-birrell-final-financial-report.pdf",
+  "pages": 3
+ }
+}

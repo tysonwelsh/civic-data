@@ -1,0 +1,5 @@
+# West Valley City roster hand-correction layer — applied LAST by roster_lib.apply_overrides(), wins ties.
+# Keyed by (seat_id, person_key, start_date); any non-blank column value overrides the generated row.
+# Currently 0 data rows: both mid-term appointments (Whetstone D3 Res. 22-11, Wood D4 Res. 25-11) and
+# both VACANT intervals are fully documented in build_roster.py TENURES, so no override is needed.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

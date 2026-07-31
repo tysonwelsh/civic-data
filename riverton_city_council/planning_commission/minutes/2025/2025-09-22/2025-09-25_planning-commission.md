@@ -1,0 +1,435 @@
+# Riverton Planning Commission Meeting — 2025-09-25
+> Source: https://www.utah.gov/pmn/files/1335581.pdf
+> Meeting date: 2025-09-25
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/1025239.html
+> Format: text
+
+Approved: PC 10.9.25
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                               SEPTEMBER 25, 2025
+
+The Riverton City Planning Commission convened at approximately 6:30 PM in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                    Staff:
+
+Darren Park, Chair                              Tim Prestwich, City Planner
+Monique Beck                                    Lisa Halversen, City Planner
+Gary Cannon                                     Ryan Carter, City Attorney
+Crystal Keele
+Evan Matheson
+Troy Rushton
+
+1.    CALL TO ORDER/ROLL CALL
+
+Chair Darren Park called the meeting to order at 6:30 PM.
+
+Commissioner Crystal Keele led the Pledge of Allegiance.
+
+2.    PUBLIC HEARINGS
+
+      A.     'WILLARD'S FARM SUBDIVISION,' PLZ-25-1006, AN APPLICATION FOR
+             A PRELIMINARY SUBDIVISION OF UP TO FIVE (5) LOTS ON 1.72-ACRES
+             LOCATED NEAR 3100 WEST 13400 SOUTH. APPLICANT - ALAN
+             PRINCE, MP&G LLC.
+
+City Planner, Tim Prestwich, reported that the item had previously been noticed and
+approved for both rezoning and a Conditional Use Permit (“CUP”) for a private lane.
+However, the Applicant was not quite ready with the subdivision plans tonight and he asked
+that the item be continued until the next Planning Commission meeting.
+
+Chair Park moved that the Planning Commission CONTINUE Application PLZ-25-
+1006, “Willard’s Farm Subdivision”, to the next Planning Commission meeting.
+Commissioner Matheson seconded the motion. The motion passed with the
+unanimous consent of the Commission.
+
+      B.     ‘RIVER  HAVEN    AMENDED    SUBDIVISION,'  PLZ-25-1007,  AN
+             APPLICATION TO ADJUST THE LOT LINE BETWEEN LOT 11 IN RIVER
+             HAVEN ESTATES PHASE 1 SUBDIVISION AND LOT 19 IN RIVER HAVEN
+             ESTATES PHASE 2 SUBDIVISION, LOCATED AT 12308 SOUTH 1460
+             WEST. APPLICANT - GINA CARTAINO.
+
+Mr. Prestwich presented the Staff Report and stated that the application is for a simple lot
+line adjustment. The Applicant, Gina Cartaino, applied for a Building Permit to build an
+Riverton City Planning Commission Meeting                                               2
+September 25, 2025
+
+
+addition on her home, and at that time, City Staff discovered that the fence is 18 feet from
+the property line. That additional land is necessary in order to meet setback requirements.
+The two property owners then came to an agreement on adjusting the lot line.
+
+As these items historically required administrative approval only, Staff reviewed the
+documentation, verified that it met all City requirements, and sent it to the County for
+recordation. The change was subsequently rejected due to a new State requirement that
+amended Plats must be submitted for all lot line adjustments.
+
+Notices were sent to all property owners within 300 feet of the subject properties and posted
+on the City’s website. No comments were received. Mr. Prestwich reported that the new
+lots would meet all requirements for lot size, setbacks, etc., and Staff recommended
+approval.
+
+Chair Park asked if the other property owner had confirmed that they approve of the line lot
+adjustment. Mr. Prestwich reported that a Quitclaim Deed was submitted with the
+application, and both property owners’ signatures were notarized.
+
+The Applicant, Gina Cartaino, stated that she plans to extend the kitchen and dining area of
+her home, as well as the master bedroom and bathroom on the second story. The fence
+has been in place for 30 years and her neighbors agreed to give them the additional land.
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission APPROVE
+Application PLZ-25-1007, “River Haven Amended Subdivision,” subject to the
+following:
+
+Conditions:
+
+      1.      Subdivision lots and layout shall be consistent with the plans presented
+              to the Planning Commission except where otherwise noted.
+
+      2.      Final Plat must be recorded with Salt Lake County.
+
+Commissioner Beck seconded the motion.             The motion passed with unanimous
+consent of the Commission.
+
+      C.      'WALKER PROPERTY REZONE,' PLZ-25 -4006, A REZONE APPLICATION
+              TO REZONE 1.16-ACRES LOCATED AT 2630 AND 2610 WEST 12600
+              SOUTH FROM C-N (NEIGHBORHOOD COMMERCIAL) TO C-G
+              (GATEWAY COMMERCIAL). APPLICANTS - MARCO HERMOSILLO AND
+              RICHARD ORTIZ.
+Riverton City Planning Commission Meeting                                                  3
+September 25, 2025
+
+
+Mr. Prestwich presented the Staff Report and indicated that the item was a request for
+legislative action to change the City Zoning Map. The Planning Commission would discuss
+the matter and make a recommendation to the City Council, and the Council would then
+make the final decision. Notices were sent to all property owners within 1,000 feet of the
+subject property, including the Country View Condominiums.
+
+The Applicant requested rezoning to allow development of a modern automotive dealership,
+which was currently not a Permitted Use in the Table of Commercial Uses for the C-G Zone.
+After Staff informed them of this fact, the Applicant met with elected officials who indicated
+that the idea was worth considering. However, Mr. Prestwich explained that that was a
+nonbinding suggestion and not a direction to the Planning Commission. The next Agenda
+item would be consideration of modifying the Table of Commercial Uses to allow automotive
+dealerships as a Conditional Use in the C-G Zone. If both applications were approved, the
+Applicant’s next step would be to submit a Site Plan.
+
+Mr. Prestwich encouraged the Planning Commission to consider all allowed Uses in the C-
+G Zone, as they would all be allowed if the subject property were rezoned. Additionally, any
+changes to the Table of Commercial Uses would apply to all properties in the C-G Zone. He
+then displayed an aerial map of the subject property, which is located on the north side
+12600 South and east of the pedestrian bridge. It consists of two parcels and includes a
+shared driveway easement to a nonconforming property at the rear. The Swim Kids project
+was approved for the site but never constructed, and at that time, the Utah Department of
+Transportation ("UDOT") would not allow a second access to be constructed. Mr. Prestwich
+anticipated that UDOT would deny any similar requests from the current Applicant.
+
+The Zoning Map was reviewed. The subject property and other parcels at the intersection
+were zoned C-N. Newer properties to the east and west were zoned C-G. The General
+Plan designates all parcels in the area as Business Park, which correlates to C-G and
+Professional Office (C-PO) Zones. The C-G Zone is located on the edges and middle of the
+City and is intended for main arteries such as Redwood Road and 12600 South.
+
+In response to a question raised by Commissioner Matheson, City Attorney, Ryan Carter,
+cautioned that the application, as presented, does not include specific criteria for the
+proposed Conditional Use. As a result, it would be difficult for the City to legally deny a CUP.
+Conditional Uses should be considered approved Uses with conditions. He recommended
+that the Planning Commission consider and make a recommendation on the application as
+presented and discuss additional conditions that should be attached if the Conditional Use
+was allowed.
+
+Chair Park noted that the matter was more complicated than a typical rezoning request. This
+item was only for rezoning the property, not the proposed Use that would be considered in
+the next agenda item. Rezoning the property to C-G would be congruent with surrounding
+properties and the General Plan. He asked for information on the specific uses that would
+be allowed in the C-G Zone that were not allowed in the current C-N Zone.
+Riverton City Planning Commission Meeting                                                4
+September 25, 2025
+
+
+Mr. Prestwich stated that the C-N Zone is intended for smaller neighborhood services for
+residents of adjoining neighborhoods. It is the most restrictive commercial zone and only
+allows many uses with a CUP. The C-G Zone is more permissive and allows a mixture of
+retail and commercial uses like restaurants, strip malls, automotive repair shops, and banks.
+Signage requirements are stricter in the C-N Zone. The property had been on the market
+since Swim Kids withdrew their project. In that time, some prospective buyers had made
+inquiries about uses that would have been conditional in the C-N Zone. He believed the C-
+G Zone would be congruent with the General Plan and newer businesses in the area.
+
+Chair Park stated that automotive repair is a Conditional Use in the C-G Zone, and a written
+public comment expressed concern that the noise generated by such a business would
+negatively impact the mental health counseling facility on the adjoining property. He asked
+if any other allowed Uses would generate noise and negatively impact surrounding
+properties. Mr. Prestwich reviewed the list of Permitted and Conditional Uses in both zones.
+
+In response to a question raised by Commissioner Cannon, Mr. Carter clarified that the item
+could not be tabled indefinitely, as doing so would be a recommendation of denial by default.
+If the Planning Commission required more information, Staff would need to understand what
+specific information was being requested. He recommended that the public hearing be
+conducted prior to making a decision.
+
+Commissioner Rushton asked why the fourplex to the rear of the subject property was
+nonconforming. Mr. Prestwich stated that the General Plan has changed since the structure
+was constructed. The property is zoned RR-22, and a fourplex would not currently be
+allowed in the zone if it were considered nonconforming. In response to a follow-up
+question, he reported that the General Plan was last updated in approximately 2020 and
+was due for an update. The Land Use vision of the current General Plan indicated that the
+subject property should be consistent with adjacent properties.
+
+Chair Park noted that the subject property was consistent with all other properties at the
+intersection, as they were all currently zoned C-N. Mr. Prestwich stated that he was not
+party to the City Council’s discussions when that decision was made, but the C-G Zone
+would be consistent with properties to the east.
+
+Commissioner Matheson reported that the C-N Zone has few Permitted Uses, and the
+C-G Zone would be consistent with other properties in the area. The C-G Zone allows tattoo
+and piercing shops, which he indicated could have negative impacts, but otherwise, he was
+in favor of rezoning the property.
+
+The Applicants, Richard Ortiz and Marco Hermosillo, presented a Concept Plan for the
+property and indicated that it would be Riverton’s first car dealership. Mr. Ortiz stated that
+the building would be designed to match the surrounding businesses, and the business
+would offer employment opportunities to City residents. Mr. Ortiz addressed public
+comments received in opposition to the application and stated that there would be a
+landscaped buffer between the business and neighboring townhomes. The automotive bays
+would be enclosed, and no heavy mechanical work would be performed at the location. All
+Riverton City Planning Commission Meeting                                               5
+September 25, 2025
+
+
+work would be completed during normal business hours. They wanted to be an asset to the
+community.
+
+Mr. Hermosillo stated that they closed on the property the previous week and would not be
+walking away from the project like Swim Kids. They planned to invest $2.5 million in the City
+and had an annual revenue of $2.9 million. They wanted to give back to the community and
+would partner with the high school each year for their automotive service program, as well
+as make donations to support school sports teams.
+
+In response to a question from Commissioner Matheson, Mr. Hermosillo confirmed that he
+owned the subject property as of the previous week.
+
+Commissioner Rushton asked if the dealership would sell new or used cars. Mr. Hermosillo
+reported that they would sell 2016 and newer used cars. Financing is in-house, and they
+currently have approximately 450 customers with 0% interest loans, including those with bad
+credit or bankruptcies. He believes that used-car dealerships take advantage of those types
+of customers by only offering financing with interest rates of 28% to 34%. They wanted to
+move the dealership from Midvale to Riverton in order to grow their business.
+
+Chair Park opened the public hearing.
+
+Gerald Broderick reported that he and his wife own the four-plex to the east of the subject
+property. He expressed concern about access from 12600 South, as well as lighting on the
+property.
+
+Kristy Cox owns Diagnostic Automotive, which has been in Riverton for 35 years. She asked
+that the Planning Commission consider that there are five automotive shops within a two-
+block radius, which she believes is too many businesses selling cars, performing oil
+changes, etc. She also did not believe a car dealership would be attractive in the area. She
+understood that the property had been vacant for a long time and needed to be developed,
+but did not believe the property should be rezoned for this purpose.
+
+Katherine Parnell also submitted a comment via email. She owns A New View Counseling
+and Psychological Services and the building adjacent to the subject property. She has
+owned her business for eight years and the building for two, and was named Riverton
+Businesswoman of the Year in 2021. She is committed to serving the community’s mental
+health needs. Location was the primary consideration in purchasing the building because
+effective mental health work requires a quiet location in a neighborhood zone. They treat
+many neurodivergent individuals, and she was concerned about noise transfer from the
+service bays even if they are closed. She was strongly opposed to rezoning the property,
+as rezoning it to C-G would allow businesses such as vaping or tattoo shops, which would
+be a deterrent to people utilizing their mental health services.
+
+There were no further public comments. The public hearing was closed.
+Riverton City Planning Commission Meeting                                             6
+September 25, 2025
+
+
+Commissioner Rushton stated that the Planning Commission considered a similar rezoning
+application for a property at the intersection of 3600 West and 12600 South, which was
+rezoned from C-PO to C-G. He believed that the C-G Zone was consistent with the area,
+and rezoning would open the property to different types of businesses. He was in favor of
+the request. Commissioner Matheson agreed with Commissioner Rushton, as he believed
+the C-N Zone was too restrictive for the property. Chair Park agreed that rezoning the
+property to C-G would provide an opportunity for many other types of businesses and flow
+with the surrounding community.
+
+Commissioner Rushton moved that the Planning Commission recommend
+APPROVAL of Application PLZ-25-4006, “Walker Property Rezone,” by rezoning the
+subject properties to C-G (Commercial Gateway Zone). Commissioner Cannon
+seconded the motion. Vote on Motion: Commissioner Matheson-Yes, Commissioner
+Beck-Yes, Commissioner Rushton-Yes, Chair Park-Yes, Commissioner Keele-Yes,
+Commissioner Cannon-Yes. The motion passed unanimously.
+
+      D.     'TABLE OF COMMERCIAL USES IN THE C-G ZONE,' PLZ-25-5008,
+             RIVERTON CITY IS PROPOSING CHANGES TO THE LAND USE AND
+             DEVELOPMENT CODE SECTIONS 18.90.010 (TABLE OF COMMERCIAL
+             USES) AND 18.70.030 (CONDITIONAL USES, C-G ZONE), ALLOWING
+             AND DEFINING CONDITIONS FOR 'AUTO DEALERSHIP (NEW OR USED)'
+             AS A CONDITIONAL USE IN THE C-G ZONE.
+
+Mr. Prestwich presented the Staff Report and indicated that the amendment would add Auto
+Dealership (new or used) to Riverton City Code 18.90.010, Table of Commercial Uses, and
+the following language to 18.70.030, Conditional Uses:
+
+      (2) Auto Dealership (new or used) only on property (or combination of properties) of
+      at least one (1) acre having frontage on 12600 South and/or the Bangerter Highway.
+      Such use must be on a finished commercial site, accompanied by approval of a
+      Commercial Site Plan and include permanent and compliant office/sales building(s).
+
+If approved as submitted, only the above conditions could be required. If the Planning
+Commission was in favor of adding additional conditions, Mr. Prestwich suggested that the
+item be continued to a future meeting to provide Staff time to draft the changes.
+
+In response to a question from Commissioner Rushton, Mr. Prestwich reported that auto
+dealerships are allowed in the Regional Commercial (C-R) Zone along 13400 South and
+Bangerter Highway, as well as the Planned Commercial Center (PCC) Zone and some areas
+of the SLR Master Development Zone. The subject property could not be rezoned to C-R
+because that zone is intended for regional corridors and is not suitable for its location.
+
+Commissioner Cannon stated that he is a partial owner of a property on 12600 South, and
+as such, he must recuse himself from discussion and voting on the item.
+Riverton City Planning Commission Meeting                                                 7
+September 25, 2025
+
+
+Chair Park stated that some vacant properties that are in the C-G Zone but abut residential
+development would be affected if the Table of Commercial Uses was altered. A car
+dealership would not be suitable for 1500 West beside the South Jordan Canal Trail or near
+the golf course, for example. He was in favor of allowing auto dealerships along Bangerter
+Highway but believed they would be out of place in areas of 12600 South and proposed that
+the location be stricken from the proposed amendment.
+
+Commissioner Matheson stated that he did not believe an auto dealership should be located
+on such a small parcel and expressed concern about people test-driving cars in proximity to
+the high school and elementary school. He was not in favor of making a decision that they
+would later regret.
+
+Chair Park opened the public hearing.
+
+Kathrine Parnell spoke in opposition to the amendment. She believes it would open a can
+of worms and allow the Use in higher-density areas. She approved of the business itself but
+did not believe it was the right fit for the area.
+
+Kristy Cox reiterated her earlier concern that there are too many similar businesses within a
+few blocks of each other. She understood that it was a dealership and not a repair shop,
+but the dealership would also perform repair services, and she believed it would place a
+strain on similar existing businesses.
+
+There were no further public comments. The public hearing was closed.
+
+Commissioner Rushton noted that the Text Amendment would apply to the entire C-G Zone,
+not a specific parcel, and changing the Table of Commercial Uses would allow auto
+dealerships in other areas of the City. Unlike other nearby cities, the City Council did not
+include auto dealerships in its Land Use Plan for this zone, but it does allow them in other
+zones. He was not in favor of the amendment.
+
+Commissioner Matheson felt bad for the Applicant who had purchased the land with the
+intention of building an auto dealership. However, their intention did not mean it was right
+for the City, and he believed the Planning Commission’s recommendation should be for
+denial.
+
+Chair Park stated that the Planning Commission prefers to move forward with good projects
+and let the market decide on their success or failure, but their decision must be based on
+what is best for the City and in agreement with the overall vision the City Council has created
+for the community. He was only in favor of the amendment if 12600 South was removed
+from the allowed locations.
+
+Commissioner Rushton was in favor of recommending denial. The City Council could then
+consider that recommendation and make a final determination.
+Riverton City Planning Commission Meeting                                               8
+September 25, 2025
+
+
+Commissioner Rushton moved that the Planning Commission recommend DENIAL of
+Application PLZ-25-5008, “Auto Dealership in the C-G Zone Text Amendment.”
+Commissioner Beck seconded the motion. Vote on Motion: Commissioner
+Matheson-Yes, Commissioner Beck-Yes, Commissioner Rushton-Yes, Commissioner
+Keele-Yes, Chair Park-Yes. The motion passed unanimously.
+
+       E.    'SITE PLAN LANDSCAPING STANDARDS', PLZ-25-5007, RIVERTON CITY
+             IS PROPOSING CHANGES TO THE LAND USE AND DEVELOPMENT
+             CODE, SECTION 18.215.030, RELATING TO LANDSCAPING AND TREE
+             STANDARDS.
+
+Mr. Prestwich presented the Staff Report and stated that the amendment would clean up
+language in existing Site Plan Development Standards related to landscaping but would not
+add additional regulations. He then reviewed the changes.
+
+   •   All references to the City Council or Planning Commercial were replaced with “Land
+       Use Authority.” The Planning Commission would have final approval of Landscaping
+       Plans, but this change would ensure that City Code would not need to be amended
+       in the future if the City Council designated a different Land Use Authority.
+
+   •   Language was clarified to indicate that the standards apply to any nonresidential use,
+       including commercial uses like churches or private schools in residential zones.
+
+   •   References to the Street Tree Master Plan were removed. That plan was created by
+       the Riverton City Tree Board, which was dissolved many years ago.
+
+   •   The following specifications were added:
+          o 20 trees per acre are required
+          o Street trees must be at 25-foot intervals along the property frontage
+          o City Staff will determine the required tree species based on growth
+              characteristics and site conditions, but the Land Use Authority will have final
+              approval.
+
+Mr. Prestwich reported that the changes would not impact the Jordan Valley Water
+Conservancy District Water Efficiency Standards that had been adopted by the City.
+
+In response to a question from Chair Park, it was reported that Riverton City’s Arborist is
+Roman Williams. Chair Park stated that it was important to have a trained, qualified arborist
+to consult on these issues.
+
+Mr. Prestwich reported that Staff was working to update all sections of City Code. This
+section was brought to his attention when a landscaping company requested a copy of the
+Street Tree Master Plan.
+
+Commissioner Matheson had reviewed the amendment and approved of the changes.
+Riverton City Planning Commission Meeting                                              9
+September 25, 2025
+
+
+
+Chair Park opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Matheson moved that the Planning Commission recommend
+APPROVAL of Application PLZ-25-5007, “Landscape Guidelines,” by amending
+Riverton City Code 18.215.030(3), as presented. Commissioner Keele seconded the
+motion. The motion passed with unanimous consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     NONE.
+
+4.    DISCUSSION ITEMS
+
+      A.     NONE.
+
+Chair Park commended Code Enforcement Officer, Chad Cataluna, for his thoroughness
+and follow-up. He had demonstrated the process of filing a complaint to a neighbor, and
+Officer Cataluna followed up with him quickly, even though he had indicated that it was only
+a test.
+
+5.    MINUTES
+
+      A.     PLANNING COMMISSION MINUTES FROM THE AUGUST 28, 2025,
+             MEETING.
+
+Chair Park moved that the Planning Commission APPROVE the Planning
+Commission Meeting Minutes of August 28, 2025, as reported. Commissioner
+Matheson seconded the motion. The motion passed with unanimous consent of the
+Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 8:08 PM.
+

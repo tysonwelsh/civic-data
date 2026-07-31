@@ -1,0 +1,83 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02072024-280
+> Meeting date: 2024-02-07
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 02072024-280 | label: Council WM Meeting 2024-02-07 | date: 2024-02-07 | meeting_kind: WM | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02072024-280 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL WORK MEETING
+
+COUNCIL MEETING                                               Wednesday February 7, 2024
+                                                              6:55 p.m.
+
+CITY OFFICES                                                  220 East Morris Avenue
+                                                              South Salt Lake, Utah 84115
+
+PRESIDING:                                                    Council Chair Sharla Bynum
+CONDUCTING:                                                   Council Vice Chair Corey Thomas
+
+
+COUNCIL MEMBERS PRESENT:
+    LeAnne Huff, Corey Thomas, Nick Mitchell,
+     Paul Sanchez, and Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+      Sharla Bynum, Natalie Pinkney
+
+STAFF PRESENT:
+       Mayor Cherie Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Sharen Hauri,
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Eliza Ungricht, Deputy Community Development Director
+       Kelli Meranda, Promise Director
+       Edward Lopez, Deputy Promise Director
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+       Jessica Potter, Executive Assistant
+       Cody Coggle, Police Sergeant
+       Carson Aprato, Police Officer
+       Misty Woods, Senior Administrative Assistant
+       Yasmin Abbyad, Emergency Management Coordinator
+       Ryan Alvarez, Police Officer
+
+Matters for Discussion
+
+   1. Appointment by the Mayor: Zana Jokic – Civilian Review Board Alternate Member
+      Mayor Wood informed the Council that due to an emergency the appointee was unable to be
+      present for tonight’s meetings. The matter will be moved to the next Work and Regular
+      meeting.
+
+       A copy of the appointee’s resume is attached and incorporated by this reference.
+
+
+
+
+                                                  1
+South Salt Lake – City Council Work Meeting                          February 7, 2024
+
+
+
+
+       The meeting adjourned at 6:57 p.m.
+
+
+
+
+                                              ____________________________________
+                                              Sharla Bynum, Council Chair
+
+
+
+
+           _____________________________________
+           Ariel Andrus, City Recorder
+
+
+
+
+                                                2

@@ -1,0 +1,3 @@
+city,donor_raw,donor_normalized,donor_type,evidence,added
+white_city,Yianni Loannou,Yianni Loannou,individual,"$500 individual contribution on Paulina Flint's 2025 Schedule A; tier-1 classifier mis-fires 'loan' on the substring in the surname 'Loannou' (born-digital text; index reads the name as 'Ioannou').",2026-07-17
+white_city,Ashtree Legal Services,Ashtree Legal Services,business,"$250 contribution on Phillip Cardenaz's 2025-10-07 Schedule A; a legal-services firm (business) — tier-1 has no 'Services' business token so it defaults to individual.",2026-07-17

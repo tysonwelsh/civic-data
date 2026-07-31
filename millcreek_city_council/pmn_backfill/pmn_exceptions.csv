@@ -1,0 +1,17 @@
+date,body_id,kind,reason,verified_date
+2018-03-20,5741,other,"PMN notice 453049 lists a 'CC 3-20-18 Work Meeting Minutes.pdf' attachment but that file (and the notice's Handouts.pdf) both return HTTP 404 — verified DEAD/unrecoverable at source; already logged in meeting_minutes/minutes_unrecovered.csv (the AgendaCenter copy is a budget spreadsheet, no narrative minutes). Suppress the recurring dead-link 'recovery lead'.",2026-07-06
+2017-01-23,5815,other,"'January 23, 2017 Agenda' (ordinance/resolution attachments) posted under PC body 5815 but is a City Council meeting — repo holds it under meeting_minutes (council) — foreign-body cross-filing",2026-07-17
+2017-03-27,5815,other,'Millcreek City Council Zoning Meeting' posted under PC body 5815 — council meeting; repo holds council 2017-03-27 (meeting_minutes) — foreign-body cross-filing,2026-07-17
+2017-05-08,5815,other,'Millcreek City Council Meeting' posted under PC body 5815 — repo holds council 2017-05-08 (meeting_minutes) — foreign-body cross-filing,2026-07-17
+2017-04-14,5815,other,"'Millcreek Mayor's Meeting' posted under PC body 5815 — Mayor administrative posting (body 5949), not a Council/PC minutes meeting — foreign-body",2026-07-17
+2017-06-02,5815,other,"'Millcreek Mayor's Meeting' posted under PC body 5815 — Mayor administrative posting, not a Council/PC minutes meeting — foreign-body",2026-07-17
+2019-09-03,5741,other,notice: Council attending SLC Council work session (field trip re boundary adjustments) + a press conference — neither is a Millcreek deliberative meeting producing minutes,2026-07-17
+2021-12-27,5741,other,notice: regular 2021-12-27 meeting held 2021-12-20 in lieu (special meeting); repo holds council 2021-12-20 — no 12-27 meeting occurred,2026-07-17
+2023-01-04,5741,wrong_date,"PMN event date 2023-01-04 wrong; notice body states 'Thursday, 4 January 2024' special work meeting — repo holds council 2024-01-04 — wrong-year PMN event date",2026-07-17
+2020-01-01,5741,other,'City Council Meetings Schedule 2020' annual schedule posting (synthetic Jan-1 event date) — not a meeting,2026-07-17
+2022-01-01,5741,other,'City Council Regular Meetings Schedule 2022' annual schedule posting — not a meeting,2026-07-17
+2020-01-01,5815,other,'Planning Commission Meetings Schedule 2020' annual schedule posting — not a meeting,2026-07-17
+2022-01-01,5815,other,'Planning Commission Regular Meetings Schedule 2022' annual schedule posting — not a meeting,2026-07-17
+2020-01-01,6367,other,'Community Reinvestment Agency Meetings Schedule 2020' annual schedule posting — not a meeting,2026-07-17
+2022-01-01,6367,other,'Community Reinvestment Agency Regular Meetings Schedule 2022' annual schedule posting — not a meeting,2026-07-17
+2019-05-01,5741,other,"'City Council Public Hearing Notice' — joint Millcreek/Holladay public hearing + open house on the 3900 South reconstruction project (2300 E to I-215); informational cross-jurisdiction open house on a non-council weekday, no agenda/minutes attachments on PMN and no AgendaCenter record — not a Millcreek Council deliberative meeting producing minutes.",2026-07-19

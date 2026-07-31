@@ -1,0 +1,9 @@
+year,election_type,office,district,contest,contest_verbatim,n_seats,n_candidates,voting_method,total_votes,total_first_choice_votes,winner,winner_votes,winner_pct,runner_up,runner_up_votes,margin_votes,margin_pct,registered_voters,ballots_cast,turnout_pct,uncontested,suppressed_precincts,note,source_file
+2019,municipal general,Council,At-Large,Nephi City Council,,3,4,plurality at-large (vote-for-3),,1635,JUSTIN D. SEELY,501,30.64,SARAH GOODE,139,356,21.77,,,,,,,
+2021,municipal general,Council,At-Large,Nephi City Council,,2,4,plurality at-large (vote-for-2),,3092,SKIP F. WORWOOD,1162,37.58,J.D. PARADY,708,126,4.08,,,,,,,
+2021,municipal general,Mayor,,Nephi City Mayor,,1,2,plurality,,1638,JUSTIN D. SEELY,965,58.91,GLADE R. NIELSON,673,292,17.83,,,,,,,
+2023,municipal primary,Council,At-Large,Nephi City Council,,3,9,plurality at-large (vote-for-3),,4214,TRAVIS L. WORWOOD,733,17.39,KOLYER K. ANDERSEN,281,168,3.99,,,,,,"OFFICIAL Juab County canvass (Municipal Primary, Sept 5 2023); top 2N=6 advanced. Official printed Contest Totals=4,608 vs named-candidate sum=4,214: the 394-vote difference is write-in/unallocated votes not itemized in the county summary. registered/ballots/turnout omitted (the PDF reports COUNTY-wide, not Nephi-only, figures).",raw/juabcounty-2023-primary-official-results.pdf
+2023,municipal general,Council,At-Large,Nephi City Council,,3,6,plurality at-large (vote-for-3),,4357,TRAVIS L WORWOOD,895,20.54,LARRY OSTLER,693,71,1.63,,,,,,,
+2025,municipal primary,Council,At-Large,Nephi City Council,,2,5,plurality at-large (vote-for-2),,2278,TATE T. DOUGLAS,614,26.95,SCOTT L. JACKSON,148,223,9.79,,,,,,,
+2025,municipal general,Council,At-Large,Nephi City Council,,2,4,plurality at-large (vote-for-2),,2748,TATE T. DOUGLAS,860,31.3,SKIP F. WORWOOD,636,38,1.38,,,,,,,
+2025,municipal general,Mayor,,Nephi City Mayor,,1,1,plurality,,1298,JUSTIN D. SEELY,1298,100.0,,,,,,,,,,,

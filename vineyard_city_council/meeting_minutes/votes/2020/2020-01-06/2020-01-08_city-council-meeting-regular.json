@@ -1,0 +1,52 @@
+{
+  "date": "2020-01-08",
+  "title": "City Council Meeting - Regular Agenda",
+  "body": "Council",
+  "source": "meeting_minutes/minutes/2020/2020-01-06/2020-01-08_city-council-meeting-regular.md",
+  "votes": [
+    {
+      "motion_no": 1,
+      "body": "Council",
+      "motion": "APPROVE CONSENT ITEMS 6.1 AND 6.2",
+      "motion_type": "Procedural/Administrative",
+      "result": "Carried with one absent",
+      "mover": "Judd",
+      "seconder": "Flake",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Flake",
+        "Judd",
+        "Welsh"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Earnest"
+      ],
+      "recuse": []
+    },
+    {
+      "motion_no": 2,
+      "body": "Council",
+      "motion": "ADJOURN THE MEETING AT 6:18 PM",
+      "motion_type": "Procedural/Administrative",
+      "result": "Carried with one absent",
+      "mover": "Flake",
+      "seconder": "Welsh",
+      "names_recorded": true,
+      "aye": [
+        "Fullmer",
+        "Flake",
+        "Judd",
+        "Welsh"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Earnest"
+      ],
+      "recuse": []
+    }
+  ]
+}

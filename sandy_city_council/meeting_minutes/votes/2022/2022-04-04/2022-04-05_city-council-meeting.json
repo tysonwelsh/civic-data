@@ -1,0 +1,71 @@
+{
+ "date": "2022-04-05",
+ "year": 2022,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2022/2022-04-04/2022-04-05_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Alison Stroud, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Alison Stroud",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Alison Stroud, seconded by Marci Houseman, to adopt Resolution 22-15C",
+   "motion_type": "Resolution",
+   "result": "6-1 Pass",
+   "mover": "Alison Stroud",
+   "seconder": "Marci Houseman",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [
+    "Ryan Mecham"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Scott Earl, seconded by Ryan Mecham, to move forward with the map options selected this evening: 4-1b, 4-1c, 4-1d",
+   "motion_type": "Other",
+   "result": "5-2 Pass",
+   "mover": "Scott Earl",
+   "seconder": "Ryan Mecham",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Ryan Mecham",
+    "Scott Earl"
+   ],
+   "nay": [
+    "Cyndi Sharkey",
+    "Brooke D'Sousa"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  }
+ ]
+}

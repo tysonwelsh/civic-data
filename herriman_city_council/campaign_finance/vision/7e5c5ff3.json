@@ -1,0 +1,19 @@
+{
+  "contributions": [],
+  "expenditures": [],
+  "total_contributions": "0",
+  "total_expenditures": "0",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2429_Sherrie-OhrnDistrict-3.pdf",
+    "candidate": "Sherrie Ohrn",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/2429_Sherrie-OhrnDistrict-3.pdf",
+    "pages": 5,
+    "notes": "District 3 City Council. General Election report (Type of Report box checked: 'No later than 30 days after the date of the Municipal General Election - December 2, 2021'). Report Verification signed by Sherrie Ohrn, signature date 11-3-2021; For Office Use Only: Date Received 11/3/2021, Time Received 4:55 pm. Schedule A (Itemized Contributions) is entirely BLANK; handwritten SUBTOTAL FOR THIS PAGE = 0 and TOTAL CONTRIBUTIONS RECEIVED = 0. Schedule B (Itemized Expenditures) is entirely BLANK; handwritten SUBTOTAL = 0 and TOTAL EXPENDITURES MADE = 0. Schedule C (In-Kind) is entirely blank. Both itemized arrays therefore empty. TOTALS DISCREPANCY / cover-total field choice: the Summary Page has two columns (Column A 'Total this Period' and Column B 'Year-to-Date Total'). Line 1 TOTAL CONTRIBUTIONS RECEIVED: Column A = 0, Column B = $25.00. Line 2 TOTAL EXPENDITURES MADE: Column A = 0, Column B = $25.00. Line 3 Balance at Beginning of Reporting Period: Column A = 0, Column B = 0. Line 4 Add + Contributions Received: Column A = 0, Column B = $25.00. Line 5 = Subtotal: Column A = 0, Column B = $25.00. Line 6 Subtract - Expenditures Made: Column A = 0, Column B = $25.00. Line 7 Balance at Close of Reporting Period: Column A = 0, Column B = 0. total_contributions and total_expenditures recorded as '0' to match the empty Schedule A/B itemizations and the Summary Page Column A (this period); the Summary Page Column B year-to-date figure of $25.00 (for both contributions and expenditures, presumably the earlier-paid filing fee) is preserved here in notes for build-time adjudication. beginning_balance and ending_balance = '0' (both Summary columns show 0 for balance at beginning and close). No separate '$50 or less' aggregate line on the form (Schedule A threshold column labeled '$50.00 +') so contributions_50_or_less = null. index date_precision = est_capture_bound per index."
+  }
+}

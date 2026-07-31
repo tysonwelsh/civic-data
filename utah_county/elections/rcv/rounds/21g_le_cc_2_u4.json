@@ -1,0 +1,169 @@
+{
+ "config": {
+  "contest": "Lehi City Council",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "5151"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "AARON BULLEN": 1277.0,
+    "CAMI PURTSCHERT": 1153.0,
+    "ETHAN M. ERICKSON": 402.0,
+    "LORI MCINTOSH LE": 1304.0,
+    "MICHELLE MILES": 1543.0,
+    "MONTANE C HAMILTON": 596.0,
+    "NICOLE KUNZE": 1580.0,
+    "PAUL HANCOCK": 2986.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "ETHAN M. ERICKSON",
+     "transfers": {
+      "AARON BULLEN": 94.0,
+      "CAMI PURTSCHERT": 85.0,
+      "LORI MCINTOSH LE": 24.0,
+      "MICHELLE MILES": 64.0,
+      "MONTANE C HAMILTON": 23.0,
+      "NICOLE KUNZE": 44.0,
+      "PAUL HANCOCK": 48.0,
+      "Inactive Ballots": 20.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "AARON BULLEN": 1371.0,
+    "CAMI PURTSCHERT": 1238.0,
+    "LORI MCINTOSH LE": 1328.0,
+    "MICHELLE MILES": 1607.0,
+    "MONTANE C HAMILTON": 619.0,
+    "NICOLE KUNZE": 1624.0,
+    "PAUL HANCOCK": 3034.0,
+    "Inactive Ballots": 20.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "MONTANE C HAMILTON",
+     "transfers": {
+      "AARON BULLEN": 63.0,
+      "CAMI PURTSCHERT": 97.0,
+      "LORI MCINTOSH LE": 133.0,
+      "MICHELLE MILES": 87.0,
+      "NICOLE KUNZE": 90.0,
+      "PAUL HANCOCK": 142.0,
+      "Inactive Ballots": 7.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "AARON BULLEN": 1434.0,
+    "CAMI PURTSCHERT": 1335.0,
+    "LORI MCINTOSH LE": 1461.0,
+    "MICHELLE MILES": 1694.0,
+    "NICOLE KUNZE": 1714.0,
+    "PAUL HANCOCK": 3176.0,
+    "Inactive Ballots": 27.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CAMI PURTSCHERT",
+     "transfers": {
+      "AARON BULLEN": 239.0,
+      "LORI MCINTOSH LE": 238.0,
+      "MICHELLE MILES": 195.0,
+      "NICOLE KUNZE": 376.0,
+      "PAUL HANCOCK": 228.0,
+      "Inactive Ballots": 59.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "AARON BULLEN": 1673.0,
+    "LORI MCINTOSH LE": 1699.0,
+    "MICHELLE MILES": 1889.0,
+    "NICOLE KUNZE": 2090.0,
+    "PAUL HANCOCK": 3404.0,
+    "Inactive Ballots": 86.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "AARON BULLEN",
+     "transfers": {
+      "LORI MCINTOSH LE": 193.0,
+      "MICHELLE MILES": 818.0,
+      "NICOLE KUNZE": 261.0,
+      "PAUL HANCOCK": 280.0,
+      "Inactive Ballots": 121.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "LORI MCINTOSH LE": 1892.0,
+    "MICHELLE MILES": 2707.0,
+    "NICOLE KUNZE": 2351.0,
+    "PAUL HANCOCK": 3684.0,
+    "Inactive Ballots": 207.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "LORI MCINTOSH LE",
+     "transfers": {
+      "MICHELLE MILES": 459.0,
+      "NICOLE KUNZE": 656.0,
+      "PAUL HANCOCK": 658.0,
+      "Inactive Ballots": 119.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "MICHELLE MILES": 3166.0,
+    "NICOLE KUNZE": 3007.0,
+    "PAUL HANCOCK": 4342.0,
+    "Inactive Ballots": 326.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "NICOLE KUNZE",
+     "transfers": {
+      "MICHELLE MILES": 1268.0,
+      "PAUL HANCOCK": 1525.0,
+      "Inactive Ballots": 214.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "tally": {
+    "MICHELLE MILES": 4434.0,
+    "PAUL HANCOCK": 5867.0,
+    "Inactive Ballots": 540.0
+   },
+   "tallyResults": [
+    {
+     "elected": "PAUL HANCOCK",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

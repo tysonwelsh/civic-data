@@ -1,0 +1,632 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2023-12-06
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2023/12.06.2023.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 14
+audio: 12.06.2023.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+1|Page
+
+LAR
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+December 6th, 2023 - 2:00 pm
+
+*When necessary, board members may participate electronically, with the anchor
+location as stated above. *
+
+*The public may participate electronically by joining via Zoom at the following
+link: https://usO6web.zoom.us/j/84984571341 or calling (346) 248-7799 or
+(669) 900-6833, Meeting ID: .849 8457 1341 Comments will be limited to two (2)
+minutes per individual unless otherwise approved by the Board. Please state your
+name at the beginning of the comment. Please no foul or abusive language. *
+
+Or you may watch the meeting live on YouTube under the heading UTAH COUNTY
+GOVERNMENT or by going to the link:
+https: //www.youtube.com/channel/UCkRYDnXVDLGv9792bhWn9Wsg/videos
+
+Next 2 Upcoming Commission Meeting Dates: Wednesday, December 13, 2023, at
+2:00 pm and Wednesday, December 20, 2023, at 2:00 pm.
+
+~COMMISSION MEETING MINUTES~
+(Rules Suspended due to only 2 Commissioners Present)
+
+Commissioner Powers Gardner (Chair), Commissioner Gordon (Vice-Chair) in Attendance.
+Commissioner Sakievich (Commissioner) absent.
+
+Others in Attendance: See Attached Attendance Sheet and Zoom List
+
+(Meeting called to order: 2:23 pm)
+
+PRAYER/READING/THOUGHT: Laurel Price
+PLEDGE OF ALLEGIANCE: Adam Beck
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+2|Page
+
+RECOGNITION
+1. RECOGNITION OF DECEMBER 2023 EMPLOYEE OF THE MONTH
+
+-PJ Maughan, Human Resources
+(Timestamp: 1:40)
+
+COMMISSIONER GORDON ANNOUNCED THAT DEPUTY BRETT LAWRENSON IS THE
+EMPLOYEE OF THE MONTH AND READ THE FOLLOWING STATEMENT.
+
+| would like to nominate Deputy Brett Lawrenson for employee of the month. As the lead
+firearms instructor for the Sheriff's Office, Deputy Lawrenson research, tests, and prepares
+firearms training for all of our sworn staff. He has always been extremely dedicated to
+providing the best training possible, and | receive positive feedback and praise about him
+weekly. It’s sometimes hard to quantify if the training you provide has a benefit; however, a
+recent event showed just how valuable he is.
+
+Recently, two of our deputies responded to a call near Fairfield which resulted in an Officer
+Involved Critical Incident (OICI). In my opinion, both deputies were exceptional in the
+performance of their duties and how they handled it overall. | later spoke with both
+deputies to see how they were doing, and they both told me they were good. They
+expressed that the recent firearms training they attended was almost exactly the same as
+their incident, and it had prepared them very well. They both spoke very highly of the
+training and how they “fell back” on it, and just did what they had been trained to do. I’ve
+also had feedback from supervisors who expressed how thankful they were for the training
+provided. This training happened because of Deputy Lawrenson’s dedication and
+determination to provide the best, realistic training he possibly could. To hear deputies say
+they were able to perform so well because they had been trained for that very situation just
+confirmed what | already knew: Deputy Lawrenson’s commitment has and will save the lives
+of our deputies and citizens.
+
+COMMISSIONER POWERS GARDNER: MOTION TO OPEN PUBLIC HEARING
+COMMISSIONER GORDON: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 2/0
+
+PUBLIC HEARING OPEN
+
+PUBLIC HEARING
+
+1. PUBLIC HEARING TO DISCUSS THE 2024 BUDGET FOR THE GENERAL FUND AND
+OTHER BUDGETARY FUNDS OF UTAH COUNTY.
+
+-Paul Jones, Attorney
+
+(Timestamp: 5:21)
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+December 6, 2023
+
+3|Page
+
+JEREMY WALKER (DIRECTOR OF FINANCIAL SERVICES) BEGAN THE PUBLIC
+HEARING WITH A SLIDE SHOW PRESENTATION.
+
+Auditor Proposed
+Budget
+2024
+
+Utah County
+
+Overview of
+Proposed Budget
+
+General Fund
+« Highlights
+
++ S48 increase in expenditures over 2023 acj budget
++ Sales Tax growth projections down to 2%
+
++ Bevh histecaal sversge
++ Property Tax growth projections down to 3%
+
++ S3% historian sversge
++ Use of fund balance increazed by $3.51 to $10.66
+* Cormpersstion growth at 6%
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+4|Page
+
+General Fund
+Budget Surpluses and Deficits
+
+a
+ri] i
+
+Health Fund
+Budget Deficits
+
+Budget Progress
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+5|Page
+
+» Eliminated over 30 vacant positions
+
+Changes * Requests have been reduced or eliminated
+
+Since
+Tentative
+
+» Duplications identified and eliminated
+
+Budget » Contingencies reduced or eliminated
+Adoption
+» Fee revenues increased }
+» Sales tax revenue projections updated /
+7
+
+General Fund Highlights
+«(changes from tentative)
+
+© sales Tax Projections by S1M
+Y 6% 20 5% in expencitures growth over 2023 budget
+B Compensstion growth from 6.5% 10 5.9%
+& Use of fund balance cropped $3.6M
++ (Sst2nins sonst
+® Transfer to Health Deparzment dropped $4.2¢1
++ (Saanano Shan
+
+External Factors
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+6|Page
+
+Purchasing Power Lost to Inflation
+
+NEAR TAK REVENUE WHELATION PURCHASING POWER LOST
+2020 49,450,526 217% 1,073,076
+2021 45,498,211 5.03% 2,288,560
+2022 47,984,562 9.33% 4,476,960
+2023 50,118,364 ~4.00% 2,004,755
+9,843,351
+
+Historical Sales Tax % Growth
+
+What does it mean?
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+7|Page
+
+Use of
+Fund Balance
+
++ Last Year-end balance was $55.5M
++ $ S.2M Lege tirimum
++ $24.6M Policy Minmum
++ S347 Aamileole
++ Ofen called Rainy-Day-Fund
+© Acts as gutter for soonomic down-tumns
++ Provides working caphe! for uneven
+revenue oalections [property tae]
+
++ 2024 will be a “rainy day”
+
+Proposed Budget
+2024
+
+Open to Comment
+
+(Timestamp: 21:26)
+
+MARK ALLEN (PROTECT AND PERSERVE AMERICAN FORK CANYON) EXPRESSED
+APPRECIATION AND GRATITUDE TO THE COUNTY LEADERS FOR TRANSPARANCY
+AND HARD WORK ON THE BUDGET. WOULD LIKE THE COUNTY TO TRACK THE
+PUBLIC DEFENDER AND PROSECUTER ATTORNEY TIME IN ORDER TO CONTROL
+COSTS.
+
+COMMISSIONER GORDON: MOTION TO CLOSE PUBLIC HEARING
+COMMISSIONER POWERS GARDNER: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 2/0
+
+PUBLIC HEARING CLOSED
+CONSENT AGENDA
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+8|Page
+
+REGULAR AGENDA
+
+1. APPROVAL OF THE MINUTES FOR THE NOVEMBER 8, 2023, BOARD OF
+
+COMMISSIONERS BOARD MEETING
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+2. RATIFICATION OF WARRANT REGISTER FOR DECEMBER 6, 2023, INCLUDING
+NOTES AND COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE
+
+INTERNAL SYSTEM
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+3. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 24-2023
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+4. TO APPROVE AND AUTHORIZE THE SIGNING OF A RESOLUTION APPROVING THE
+2024 BUDGET FOR THE GENERAL FUND AND OTHER BUDGETARY FUNDS OF UTAH
+
+COUNTY, UTAH.
+-PAUL JONES, Attorney
+
+(Timestamp: 28:07)
+
+COMMISSIONER POWERS GARDNER, COMMISSIONER GORDON, RUDY LIVINGSTON
+(UTAH COUNTY BUDGET MANAGER), EZRA NAIR (COUNTY ADMINISTRATOR),
+JEREMY WALKER (DIRECTOR OF FINANCIAL SERVICES) BURT GARFIELD (COUNTY
+ASSESSOR) DISCUSSED PROPOSED BUDGET.
+
+THE PROPOSED CHANGES WERE:
+
+1. ITEM #9 - ELIMINATE ONE PARALEGAL ASSISTANT
+
+2. ITEM #12 - ELIMINATE OVER-TIME MONEY IN
+ATTORNEY/INVESTIGATIONS
+
+3. ITEM #6 REDUCE BY $100,000
+
+4. ITEMS #27, 28, 31, 34,42 REDUCING AMOUNTS BY $300,000
+
+5. ITEM #384 - APPROVED $8,700
+
+6. DELETE POSITIONS - P0055, P00925, 02615, WILDLAND FIRE (ONE
+POSITION), DEPUTY 2 CORRECTIONS (ONE POSITION), 02572, 00785, 0223,
+SURVEYOR, FINANCE BUDGET ANALYST. TOTAL OF 10 POSITIONS.
+
+COMMISSIONER GORDON: MOTION TO TABLE FOR 1 WEEK (December 13, 2023)
+COMMISSIONER POWERS GARDNER: SECOND
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+9|Page
+
+AYE: ALL IN FAVOR
+PASSED: 2/0
+
+5. SET A DATE, TIME, AND LOCATION FOR A PUBLIC HEARING TO DISCUSS AMENDING
+THE 2023 BUDGETS IN THE COUNTY’S GENERAL FUND AND VARIOUS OTHER
+BUDGETARY FUNDS; REVISING THE COUNTY’S ESTIMATES OF REVENUES; REVISING
+THE BUDGET APPROPRIATIONS OF COUNTY DEPARTMENTS; AND/OR
+TRANSFERRING UNENCUMBERED OR UNEXPENDED APPROPRIATION BALANCES
+FROM ONE DEPARTMENT IN A FUND TO ANOTHER DEPARTMENT IN THE SAME
+FUND. SUGGESTED DATE: WEDNESDAY, DECEMBER 20, 2023, AT 2:00 P.M. INROOM
+#1400 OF THE UTAH COUNTY ADMINISTRATION BUILDING AT 100 EAST CENTER
+STREET IN PROVO, UTAH.
+
+-Paul Jones, Attorney
+
+APPROVED ON CONSENT
+Notice: 2023 - 1195
+
+6. APPROVE AND AUTHORIZE THE SIGNING OF A RESOLUTION AND CERTIFICATE OF
+
+APPOINTMENT OF COMMISSIONER OF THE HOUSING AUTHORITY OF UTAH COUNTY.
+-PAUL JONES, Attorney
+
+APPROVED ON CONSENT WITH THE NAME OF SARAH HUBBS
+Resolution: 2023 - 1196
+
+7. APPROVE AND AUTHORIZE THE SIGNING OF A RESOLUTION APPROVING
+ADDITIONS TO THE UTAH COUNTY EQUIPMENT REPLACEMENT PROGRAM.
+-PAUL JONES, Attorney
+
+APPROVED ON CONSENT
+Resolution: 2023 - 1197
+
+8. COMMISSION APPROVAL AND SIGNATURE ON THE UTAH COUNTY COMMUNITY
+DEVELOPMENT BLOCK GRANT MOUNTAINLAND ASSOCIATION OF GOVERNMENTS
+REQUEST FOR RELEASE OF FUNDS AND CERTIFICATION PAYSON WATERLINE
+
+REPLACEMENT.
+-Adam Beck, Attorney
+
+APPROVED ON CONSENT
+
+Agreement: 2023 - 1198
+
+9. APPROVE AND AUTHORIZE THE SHERIFF'S OFFICE TO ENTER INTO A SERVICE
+AGREEMENT WITH IDENTISYS INC. FOR SOFTWARE/MACHINE SERVICES AT THE
+
+SHERIFF'S OFFICE
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+10|Page
+-Rhett Williams, Sheriff
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1199
+
+10. APPROVE AND AUTHORIZE THE EXECUTION OF AN AGREEMENT WITH
+CENTERLINE AVIATION FOR UTAH COUNTY SHERIFF AIRPLANE PILOT TRAINING
+
+AND INSTRUCTION
+-Jodee Kimber, Sheriff
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1200
+
+11. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+
+AGREEMENT WITH SPRINGVILLE CITY FOR THE 1200 WEST PHASE 5 PROJECT
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Resolution: 2023 - 1201
+Agreement: 2023 - 1202
+
+12. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN AMENDMENT TO
+INTERLOCAL AGREEMENT 2022-673 WITH PLEASANT GROVE CITY FOR THE 1300
+
+WEST PROJECT.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Resolution: 2023 - 1203
+Agreement: 2023 - 1204
+
+13. APPROVE AND AUTHORIZE THE SIGNING OF A LETTER AUTHORIZING THE
+ACCEPTANCE OF THE SUBDIVISION IMPROVEMENTS FOR OATES VIEW ESTATES PLAT
+A KNOWN AS AGREEMENT #2022-804 TO RELEASE THE $56,737.50 CONSTRUCTION
+
+BOND AND COMMENCE THE ONE YEAR WARRANTY PERIOD.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1205
+
+14. APPROVE AND AUTHORIZE THE SIGNING OF AN MOU WITH THE STATE OF UTAH
+DEPARTMENT OF NATURAL RESOURCES/FORESTRY, FIRE AND STATE LANDS TO
+ACCEPT DONATION OF 3 MARSH MASTER REPLACEMENT TRACKS IN EXCHANGE FOR
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+11|Page
+
+INVASIVE SPECIES MITIGATION WEED CONTROL AND SHORELINE VEGETATION
+
+RESTORATION ON UTAH LAKE.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1206
+
+15. APPROVE AND AUTHORIZE THE SIGNING OF A MEMORANDUM ACCEPTING THE
+COMPLETION OF THE ONE YEAR WARRANTY PERIOD FOR THE SNELL ESTATES PLAT
+A SUBDIVISION AND AUTHORIZING THE RELEASE OF THE REMAINING WARRANTY
+
+BOND IN THE AMOUNT OF $2,371.44 AS PER DEVELOPMENT AGREEMENT #2021-753.
+-Richard Nielson, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1207
+
+16. APPROVE AND AUTHORIZE THE SIGNING OF THE CONTRACT WITH CALVIN L.
+WADSWORTH CONSTRUCTION LLC FOR COMPLETION OF THE FUEL ISLAND
+EXPANSION AS PER THE TERMS, SPECIFICATIONS AND DRAWINGS INCLUDED IN ITB
+
+#2023-29 AT A COST OF $2,683,905.51.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1208
+
+17. ADOPT A RESOLUTION APPROVING VOLUNTEERS WHO WISH TO DONATE THEIR
+SERVICES TO UTAH COUNTY
+
+-Sarah Ruiz, Human Resources
+
+APPROVED ON CONSENT
+Resolution: 2023 - 1209
+
+18. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN A SALES ORDER
+WITH LES OLSON COMPANY TO PURCHASE A FORMAX INSERTER FOR THE
+
+ASSESSOR'S OFFICE.
+-Robert Baxter, Auditor
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1210
+
+19. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 265 DATED
+DECEMBER 1, 2023
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+12|Page
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1211
+
+20. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60492 DATED
+DECEMBER 4, 2023
+
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1212
+
+21. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+AUDITOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60493 DATED
+DECEMBER 4, 2023
+
+-Burt Harvey, Auditor
+
+APPROVED ON CONSENT
+Agreement: 2023 - 1213
+
+22. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+
+23. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+24, APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+13|Page
+
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+STRICKEN ON CONSENT
+
+25. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+APPROVED ON CONSENT
+PUBLIC COMMENTS
+NONE
+
+(Moved to Closed Meetings: 4:32 pm)
+
+(Reopened to Public Meeting: 4:55 pm)
+
+COMMISSIONER GORDON: MOTION TO ADJOURN
+COMMISSIONER POWERS GARDNER: SECOND
+AYE: ALL IN FAVOR
+
+PASSED: 2/0
+
+(Meeting Adjourned: 4:55 pm)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In
+compliance with the Americans with Disabilities Act, individuals needing special
+accommodations (including auxiliary communicative aids and services) during
+this meeting should notify Alice Black at 801-851-8215. Handicap parking is
+available as well as a level entrance to the building. Interpretation services are
+available with prior notice for the hearing disabled.
+
+Those in attendance via Zoom:
+
+Burt Garfield Gina Tanner Colton Fox Ashley Cook Tara A
+Travis Anderson Nathan McDonald = Zachary Zundel Donna C
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+December 6, 2023
+
+14|Page
+
+-
+
+ROARD OF COMMISSIONERS FORE DAMOCOLNTY
+PURLIG MERLING ATTENDANCE SHEET
+
+December 6, 2023-200 pm
+
+PRINT OCERARDY
+
+Name Agena
+
+— SAL
+
+ry
+
+Mr Aluy ond ;
+Yrdwg WU 1 hurdler
+Kin jackson Trcas ovey ==
+}Q0 ee ae ia. Wagan Theaowuun
+
+Jams Leng nurst IT
+
+Cobo fact (1a bocie Pees
+¢ Epwrees He AcTH peer
+
+Ee
+
+vAae avdse. Cle-k ——— ee
+“on Vokes € Jerk
+
+ATTEST:
+
+Aeposcord.
+
+Deputy Clerk
+

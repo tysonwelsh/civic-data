@@ -1,0 +1,25 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Robyn Parker", "purpose": null, "amount": "125", "in_kind": false},
+    {"date": null, "recipient": "Hallie Steiner", "purpose": null, "amount": "50", "in_kind": false},
+    {"date": null, "recipient": "Jalyssa Lance", "purpose": null, "amount": "100", "in_kind": false},
+    {"date": null, "recipient": "Mike Delrio", "purpose": null, "amount": "125", "in_kind": false},
+    {"date": null, "recipient": "Cassie Mortenson", "purpose": null, "amount": "75", "in_kind": false},
+    {"date": null, "recipient": "Emma Booth", "purpose": null, "amount": "100", "in_kind": false}
+  ],
+  "total_contributions": null,
+  "total_expenditures": "575",
+  "contributions_50_or_less": null,
+  "beginning_balance": "575",
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/2025_lance_general-election-report.pdf",
+    "candidate": "Rustin Lance",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_lance_general-election-report.pdf",
+    "pages": 5
+  }
+}

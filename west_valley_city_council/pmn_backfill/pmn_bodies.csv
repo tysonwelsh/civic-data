@@ -1,0 +1,7 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+307,398,City Council,yes,meeting_minutes,,exact,2020-01-01,"exact-match: WVC files Regular+Study as separate notices (~2x) and off-cycle retreats sit within 4 days of regular meetings — a pm4 window would falsely absorb genuine gaps (coverage.md). Repo stores 2-4 docs/date so count_mismatch stays quiet"
+307,399,Redevelopment Agency,yes,meeting_minutes,,exact,2020-01-01,"REAL separate RDA meetings stored in meeting_minutes (all_votes body=RDA, own dates); no combined body exists"
+307,401,Municipal Building Authority,yes,meeting_minutes,,exact,2020-01-01,"REAL separate MBA meetings stored in meeting_minutes (all_votes body=MBA, own dates)"
+307,402,Planning Commission,no,,,,,"PMN publishes AGENDAS ONLY for the PC — 0 (Meeting Minutes) attachments across all 450 PC notices 2008-2026 (honest source ceiling). The repo's 263 PC minutes are OnBase-only; PMN adds nothing recoverable. Flip to crawl=yes only if PMN ever starts attaching PC minutes"
+307,400,Housing Authority,no,,,,,not covered by the repo minutes layer
+307,403,Board of Adjustments,no,,,,,quasi-judicial — out of repo scope

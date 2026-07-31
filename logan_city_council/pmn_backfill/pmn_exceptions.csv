@@ -1,0 +1,22 @@
+date,body_id,kind,reason,verified_date
+2020-03-17,494,duplicate,CANCELLED-meeting notice (file 584203) re-attaches already-held 2020-03-03 minutes,2026-07-05
+2020-03-17,495,duplicate,CANCELLED-meeting notice (file 584229; byte-identical to 584203) re-attaches already-held 2020-03-03 minutes,2026-07-05
+2026-06-16,494,duplicate,notice (file 1447537) re-attaches already-held 2026-05-26 Budget Workshop minutes,2026-07-05
+2021-06-15,487,draft,"attachment 'DRAFT Minutes 21June1.pdf' is DRAFT (non-authoritative) minutes embedded in a 2021-06-15 RDA agenda/packet notice filed under PC body 487; repo PC is a superset (approved 2021-06-10 / 06-24 held)",2026-07-17
+2024-04-22,494,other,"'Announcement of a Public Hearing regarding the Transfer of Money from an Enterprise Fund…' is a statutory hearing-announcement notice, not a meeting — council meets 1st/3rd Tuesdays (2024-04-16 held); 2024-04-22 is a Monday, not a meeting date",2026-07-17
+2022-06-30,487,other,"WRONG BODY — attachment 'LUAB Agenda 06-30-22.pdf' (verified in-body 2026-07-17, PMN file 865607) is a LAND USE APPEAL BOARD meeting (LUAB 22-001 Evans Family Remodel), not a Planning Commission meeting; posted under body 487's feed. Repo tracks Council/RDA/PC only, not LUAB. Not a PC gap.",2026-07-17
+2020-05-26,494,agenda_only,"Council+RDA joint Budget Workshop. Probed Revize CMS + PMN 2026-07-17: PMN file 603115 verified in-body as the posted AGENDA (not minutes); Revize publishes no minutes for this date (city first published workshop minutes 2025). Genuine gap logged in meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2020-05-26,495,agenda_only,"RDA half of the 2020-05-26 joint Budget Workshop (rides the same council doc). No minutes on PMN or Revize. Genuine gap — see meeting_minutes/minutes_unrecovered.csv (2020-05-26).",2026-07-17
+2020-09-10,494,agenda_only,"Council Joint Meeting with Nibley City Council. PMN carries only agenda + staff/boundary reports; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2020-10-13,494,agenda_only,"Council Interim Appointment public meeting (fill vacancy). PMN carries only agenda + applicant packets; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2021-05-11,494,agenda_only,"Council Budget Workshop. PMN agenda/handout only; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2021-05-25,494,agenda_only,"Council+RDA joint Budget Workshop. PMN agenda/handout only; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2021-05-25,495,agenda_only,"RDA half of the 2021-05-25 joint Budget Workshop (rides the same council doc). No minutes on PMN or Revize. Genuine gap — meeting_minutes/minutes_unrecovered.csv (2021-05-25).",2026-07-17
+2022-05-10,494,agenda_only,"Council+RDA joint Budget Workshop. PMN carries only the AGENDA; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2022-05-10,495,agenda_only,"RDA half of the 2022-05-10 joint Budget Workshop (rides the same council doc). No minutes on PMN or Revize. Genuine gap — meeting_minutes/minutes_unrecovered.csv (2022-05-10).",2026-07-17
+2022-05-24,494,agenda_only,"Council Budget Workshop. PMN file 850774 verified in-body 2026-07-17 as the posted AGENDA (not minutes); no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2023-05-23,494,agenda_only,"Council Budget Workshop. PMN agenda/handout + Res 23-10 only; no minutes on Revize CMS. Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2024-08-01,494,agenda_only,"Council Truth-In-Taxation meeting. PMN file 1147986 verified in-body 2026-07-17 as the posted AGENDA (not minutes); no minutes on Revize CMS (2025 TnT published, 2024 not). Genuine gap — meeting_minutes/minutes_unrecovered.csv.",2026-07-17
+2024-06-13,487,agenda_only,"PC regular meeting (2nd Thu). PMN carries only 'PC Agenda 06-13-24.pdf'; no minutes on Revize CMS. Genuine gap — planning_commission/minutes_unrecovered.csv.",2026-07-17
+2025-08-28,487,agenda_only,"PC regular meeting (4th Thu). PMN carries only 'PC Agenda 08-28-25.pdf'; no minutes on Revize CMS. Genuine gap — planning_commission/minutes_unrecovered.csv.",2026-07-17
+2025-11-18,487,agenda_only,"General Plan Joint Workshop (Tue special session). PMN carries only '11.18.25 GP Joint Workshop Agenda.pdf'; no minutes on Revize CMS. Genuine gap — planning_commission/minutes_unrecovered.csv.",2026-07-17

@@ -1,0 +1,12 @@
+referral_id,primary_application_id,primary_body,related_application_id,related_body,match_method,confidence,shared_address,subject_score,primary_date,related_date,gap_days,note
+1,5,Council,38,PlanningCommission,subject,medium,,0.513,2020-05-11,2020-05-11,0,
+2,9,Council,49,PlanningCommission,subject,medium,,1.0,2021-08-09,2021-09-13,-35,
+3,10,Council,46,PlanningCommission,subject,medium,,1.0,2021-08-09,2021-08-09,0,
+4,10,Council,47,PlanningCommission,subject,medium,,1.0,2021-08-09,2021-08-09,0,
+5,12,Council,54,PlanningCommission,subject,medium,,0.512,2022-02-14,2022-02-14,0,
+6,12,Council,55,PlanningCommission,subject,medium,,0.512,2022-02-14,2022-02-14,0,
+7,18,Council,66,PlanningCommission,subject,medium,,1.0,2024-12-09,2024-12-02,7,
+8,19,Council,22,CRA,subject,medium,,0.501,2025-03-10,2025-07-14,-126,
+9,19,Council,23,CRA,subject,medium,,0.538,2025-03-10,2025-07-14,-126,
+10,19,Council,25,CRA,subject,medium,,0.527,2025-03-10,2025-07-14,-126,
+11,21,Council,68,PlanningCommission,subject,medium,,1.0,2025-06-09,2025-05-05,35,

@@ -1,0 +1,36 @@
+Kearns PlanningCommission — vote extraction validation
+========================================================
+
+Meetings (JSON)        : 43
+Meetings with >=1 vote : 43
+Meetings with 0 motions: 0  []
+Motions                : 197
+  tally-only (no names): 190  (of which unanimous: 110)
+  with named dissent   : 7
+Body split             : PlanningCommission 197
+Contested motions      : 7
+Mayor-participation rows (presiding officer votes): 0
+
+CSV rows               : 197
+Expected (from JSON)   : 197   [OK]
+body out of range      : 0
+>5-tally / 6th-voter   : 0   (expected 0 — max seat = 5)
+Off-roster council names: 0   (expected 0)
+
+Motion-type distribution:
+   Procedural/Administrative    76
+   Public Hearing Action        46
+   Land-Use/Zoning              45
+   Other                        11
+   Ceremonial                   9
+   Appointment                  8
+   Ordinance                    2
+
+Contested votes (7):
+   - 2020-01-13 [PlanningCommission] m3 Pass (nay: Hatch) :: To preliminarily approve application #30865 with staff recom
+   - 2021-09-13 [PlanningCommission] m1 Pass (abstain: Koester) :: To approve minutes from the August 9, 2021 Planning Commissi
+   - 2022-11-14 [PlanningCommission] m1 Pass (abstain: Nelson) :: To Approve the August 8, 2022 Planning Commission Meeting Mi
+   - 2023-09-18 [PlanningCommission] m3 3-1 Pass (nay: Thomas) :: To recommend file #REZ2023-000970 Kearns is considering a re
+   - 2024-02-05 [PlanningCommission] m1 Pass (abstain: Hatch) :: To approve January 3, 2024 Planning Commission Meeting Minut
+   - 2024-09-09 [PlanningCommission] m1 Pass (abstain: Koester) :: To approve the June 3, 2024 Planning Commission Meeting Minu
+   - 2025-07-07 [PlanningCommission] m1 Pass (nay: Thomas) :: To recommend application #REZ2025-001400 Craig Wilde is requ

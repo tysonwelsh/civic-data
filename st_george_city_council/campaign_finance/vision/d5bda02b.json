@@ -1,0 +1,45 @@
+{
+ "contributions": [
+  {
+   "date": "10/08/2025",
+   "name": "Jean Philips",
+   "amount": "200.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/06/2025",
+   "name": "Jimmie Hughes",
+   "amount": "5,000.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/10/2025",
+   "name": "Sam Laub",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/20/2025",
+   "name": "Hughes Mortuary",
+   "amount": "5,000.00",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "10/07/2025",
+   "recipient": "Tactical Campaigns",
+   "purpose": "Mailer, text, email Consulting",
+   "amount": "11,732.64"
+  },
+  {
+   "date": "10/20/2025",
+   "recipient": "Veracity Enterprises",
+   "purpose": "Consulting",
+   "amount": "2,308.00"
+  }
+ ],
+ "total_contributions": "10,300.00",
+ "total_expenditures": "14,040.64",
+ "ending_balance": "2,069.97"
+}

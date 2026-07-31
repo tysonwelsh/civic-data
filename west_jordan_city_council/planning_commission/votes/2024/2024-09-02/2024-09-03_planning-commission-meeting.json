@@ -1,0 +1,60 @@
+{
+ "date": "2024-09-03",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-09-02/2024-09-03_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes from August 20, 2024",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Emily Gonzalez",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jay Thomas"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to postpone action for Copper Rim Phase 3B Deferral Agreement to the September 17, 2024 meeting",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Emily Gonzalez",
+   "seconder": "",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jay Thomas"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve a Preliminary Site Plan for 4Peaks Athletic Center located at 7252 South Jordan Landing Boulevard subject to all requirements of approval",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Ammon Allen",
+   "seconder": "Emily Gonzalez",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Jay Thomas"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

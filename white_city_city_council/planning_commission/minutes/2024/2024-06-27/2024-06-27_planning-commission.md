@@ -1,0 +1,97 @@
+# White City Planning Commission Meeting
+> Source: https://www.utah.gov/pmn/files/1175585.pdf
+> Meeting date: 2024-06-27
+> Format: text
+
+---
+
+**Body:** PlanningCommission
+**Date:** 2024-06-27
+**Source:** pmn
+**Source URL:** https://www.utah.gov/pmn/files/1175585.pdf
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                             Planning and Development Services
+                                             2001 S. State Street N3-600 • Salt Lake City, UT 84190-4050
+                                             Phone: (385) 468-6700 • Fax: (385) 468-6674
+
+
+
+                                            MEETING MINUTE SUMMARY
+                                   WHITE CITY PLANNING COMMISSION MEETING
+                                        Thursday, June 27, 2024 6:00 p.m.
+                        **Meeting minutes approved on September 26, 2024**
+Approximate meeting length: 11 minutes                                    *NOTE: Staff Reports referenced in this document can be
+Number of public in attendance: 0                                         found on the State websites, or from Planning &
+                                                                          Development Services.
+Summary Prepared by: Wendy Gurr
+Meeting Conducted by: Commissioner Seiger-Webster
+
+                                                     ATTENDANCE
+Commissioners and Staff:
+                                   Public     Business
+         Commissioners                                   Absent                                                 Public      Business
+                                    Mtg         Mtg                              Planning Staff / DA
+  Christy Seiger-Webster (Chair)     x           x                                                               Mtg          Mtg
+     Christopher Spagnuolo           x           x                                 Wendy Gurr                      x            x
+    Robert Frailey (Vice Chair)      x           x                                 Justin Smith                    x
+           Gene Wilson                                     x                       Morgan Julian
+    Weston Millen (Alternate)        x           x                                  Jay Springer
+     Christopher Huntzinger          x           x
+
+
+
+
+                                                BUSINESS MEETING
+
+                                             Meeting began at – 6:20 p.m.
+    1) Approval of the March 28, 2024 Planning Commission Meeting Minutes. (Motion/Voting)
+       Motion: To continue approval of the minutes from the March 28, 2024 Planning Commission
+       Meeting to the next planning commission meeting to amend the public comments.
+             Motion by: Commissioner Spagnuolo
+             2nd by: Commissioner Frailey
+             Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+    2) Other Business Items. (As Needed)
+
+        Reminder, July meeting is around a holiday and asked if there are any items on the agenda.
+        Commissioners agreed to notify staff if there is a conflict or not.
+
+                                            LAND USE APPLICATION(S)
+                                             Hearing began at – 6:22 p.m.
+
+
+
+White City Planning Commission – June 27, 2024 – Meeting Summary                                                       Page 1 of 2
+WVR2024-001165 - Ahmed Alqushairi is requesting a waiver for a privacy fence. Acres: 0.19.
+Location: 9560 South Garnet Drive. Zone: R-1-8. Planner: Justin Smith. (Motion/Voting)
+
+Commissioner Seiger-Webster provided an analysis of the staff report. Commissioners had a brief
+discussion regarding the definition of the rear yard, side yard applicability and requirements.
+
+Justin arrived at 6:28pm.
+
+No one from the public is present to speak.
+
+                               PUBLIC PORTION OF HEARING CLOSED
+
+Motion: To approve application #WVR2024-001165 Ahmed Alqushairi is requesting a waiver for a privacy
+fence with staff recommendations.
+        Motion by: Commissioner Huntzinger
+       2nd by: Commissioner Spagnuolo
+       Vote: Commissioners voted unanimous in favor (of commissioners present)
+
+
+Commissioner Spagnuolo motioned to adjourn, Commissioner Frailey seconded that motion.
+
+                                          HEARING ADJOURNED
+                                         Time Adjourned – 6:31 p.m.
+
+
+
+
+White City Planning Commission – June 27, 2024 – Meeting Summary                         Page 2 of 2
+

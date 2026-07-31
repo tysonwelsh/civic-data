@@ -1,0 +1,69 @@
+{
+  "contributions": [
+    {
+      "date": "9/1/2025",
+      "name": "David Sundwall",
+      "amount": "600.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/01/2025",
+      "recipient": "Campaign Partner",
+      "purpose": null,
+      "amount": "29.20",
+      "in_kind": false
+    },
+    {
+      "date": "10/01/2025",
+      "recipient": "Canva",
+      "purpose": null,
+      "amount": "15.00",
+      "in_kind": false
+    },
+    {
+      "date": "09/04/2025",
+      "recipient": "Age Graphics LLC",
+      "purpose": null,
+      "amount": "435.00",
+      "in_kind": false
+    },
+    {
+      "date": "09/02/2025",
+      "recipient": "Campaign Partner",
+      "purpose": null,
+      "amount": "2.80",
+      "in_kind": false
+    },
+    {
+      "date": "09/02/2025",
+      "recipient": "Campaign Partner",
+      "purpose": null,
+      "amount": "29.00",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "600",
+  "total_expenditures": "561",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "39.00",
+  "_meta": {
+    "index_path": "raw/2025_city_sundwall-oct2025.pdf",
+    "candidate": "David Sundwall",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_sundwall-oct2025.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

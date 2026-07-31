@@ -1,0 +1,73 @@
+{
+ "date": "2020-03-18",
+ "year": 2020,
+ "title": "Copperton Meeting",
+ "body": "Council",
+ "source": "minutes/2020/2020-03-18/2020-03-18_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the attorney’s bill for $6,377.00",
+   "body": "Council",
+   "motion_type": "Budget/Fiscal",
+   "result": "Pass (unanimous)",
+   "mover": "Apollo Pazell",
+   "seconder": "Kathleen Bailey",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "tally_ayes": null,
+    "tally_nays": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the UFA agreement",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "3-2 Pass",
+   "mover": "Kathleen Bailey",
+   "seconder": "Apollo Pazell",
+   "names_recorded": true,
+   "aye": [
+    "Kathleen Bailey",
+    "Kevin Severson",
+    "Tessa Stitzer"
+   ],
+   "nay": [
+    "Apollo Pazell",
+    "Sean Clayton"
+   ],
+   "abstain": [],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the resolution",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "3-2 Pass",
+   "mover": "Kathleen Bailey",
+   "seconder": "Apollo Pazell",
+   "names_recorded": true,
+   "aye": [
+    "Kathleen Bailey",
+    "Kevin Severson",
+    "Sean Clayton"
+   ],
+   "nay": [
+    "Apollo Pazell",
+    "Tessa Stitzer"
+   ],
+   "abstain": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

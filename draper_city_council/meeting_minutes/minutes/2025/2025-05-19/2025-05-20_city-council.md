@@ -1,0 +1,274 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1904&doc_id=09ccaab7-5086-11f0-b7f5-005056a89546
+> Meeting date: 2025-05-20
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 20,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:       Mayor Pro Tem Mike Green, Councilmembers Bryn Heather Johnson,
+               Fred Lowry, and Marsha Vawdrey
+EXCUSED: Mayor Troy K. Walker, Councilmember Tasha Lowery
+STAFF:         Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+               Scott Cooley, City Engineer and Public Works Director; Spencer
+               DuShane, Assistant City Attorney; Rich Ferguson, Chief of Police; Jennifer
+               Jastremsky, Community Development Director; Malena Murray, Human
+               Resources Director; Rhett Ogden, Parks and Recreation Director; Linda
+               Peterson, Communications Director; Nicole Smedley, City Recorder;
+               Clint Smith, Fire Chief; Jake Sorensen, Network Manager; Travis DeJong,
+               Business License Official; Todd Taylor, Planner; Todd Draper, Planning
+               Manager; and John Vuyk, Finance Director
+______________________________________________________________________________________
+
+Study Session
+
+      OPMA/Ethics Training
+      City Attorney Traci Gundersen provided annual Open and Public Meetings Act
+      (OPMA) training.
+
+      Council/Manager Reports
+      Councilmember F. Lowry said residents had complained of cars parked on the
+      street in neighborhoods near Soccer City. Community Development Director
+      Jennifer Jastremsky said a new parking study may be needed to ensure Soccer
+      City had adequate parking. She said staff would send a letter requesting an
+      updated study.
+
+      Mayor Pro Tem Green said he would like the payment gateway for business
+      licensing to provide a smoother process. The Council and staff discussed
+      difficulties with the process, and staff indicated they would look at options.
+
+Business Session
+
+                                                                               1|Page
+        Draper City Council Meeting Minutes Approved June 17, 2025
+1.    Call to Order by Mayor Pro Tem Green
+
+2.    Pledge of Allegiance
+
+3.    Recognition – Acknowledgement of Peer Court Graduates
+      Continued to June 3, 2025 City Council Meeting
+
+4.    Recognition – Acknowledgement of Miss Draper 2025 Royalty
+      Mayor Pro Tem Green recognized the Miss Draper Program Director Andrea
+      Page, and thanked all those involved in the Miss Draper Program. He
+      introduced Miss Draper 2025 Cameron Stewart, and Royalty Attendants Skylar
+      Zamalloa, Myla Taylor, and Kianna Conrad. The Council took the opportunity
+      for photographs.
+
+5.    Public Comments
+      There were no public comments.
+
+6.    Consent Items
+6.a   Approval of the May 6, 2025 City Council Meeting Minutes
+6.b   Approval of Resolution #25-23 appointing Mark Vincent and Oliver
+      Herrera Schuster to fill vacancies on the Draper City Special Event Arena
+      Committee
+
+      Councilmember Vawdrey moved to approve the Consent Items.
+      Councilmember F. Lowry seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery                        X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+7.    Items for Council Consideration
+7.a   Public Hearing: Providing Local Consent for an Off-Premises Beer Alcohol
+      Retailer License for Draper Hotel Holdings LLC dba Homewood Suites
+      Business License Official Travis DeJong presented a request for local consent
+      for an Off-Premises Beer Retailer License for Homewood Suites located at 437
+                                                                          2|Page
+      East 12300 South. He said the application met all distance requirements.
+      Draper currently has 24 out of a maximum 49 active off-premises alcohol
+      licenses issued. Mr. DeJong said he had counted 45 active off-premises alcohol
+      licenses issued to similar hotel entities in the State. Councilmember Johnson
+      asked the percentage of hotels in the State currently issued off-premises
+      alcohol licenses, and Mr. DeJong said he did not know how many hotels were
+      in the State.
+
+      Tanner Lenart, attorney for the applicant, said the State of Utah had
+      approximately 80 hotels with liquor licenses.
+
+      Mayor Pro Tem Green opened a public hearing, and closed the public
+      hearing seeing no one come forward.
+
+      Councilmember F. Lowry moved to provide local consent for an Off-
+      Premises Beer Retailer License for Draper Hotel Holdings LLC dba
+      Homewood Suites. Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery                        X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+7.b   Public Hearing: Fiscal Year 2025-2026 Tentative Budget
+      Finance Director John Vuyk presented the FY 2025-2026 Tentative Budget, with
+      budgeted General Fund revenue totaling $52,188,900. Mr. Vuyk listed new
+      staff positions included in the Tentative Budget. He explained that with
+      elimination of the general obligation (GO) bond in FY2026, residents would see
+      a property tax rate decrease ($21.43 per year property tax decrease for
+      median valued home).
+
+      Mr. Vuyk explained the Council could consider increasing the tax rate for
+      FY2026 to a rate equal to that adopted in FY2025, which would result in an
+      increase to the general operations of the City of $520,000. Such an increase
+      would be net neutral to residents compared to FY2025 (not taking individual
+      property valuation changes into account). Mr. Vuyk said adoption of the
+
+                                                                           3|Page
+      budget was tentatively scheduled for June 3, 2025. If a rate change was
+      proposed, a Truth in Taxation hearing would need to be scheduled.
+
+      Mr. Vuyk showed a water rate history, and said the FY2026 Tentative Budget
+      included a proposed increase to the residential variable water rate of 8%, and
+      an increase of 15% to the base rate, as well as an increase in the commercial
+      water rate. He said operating expenses had exceeded operating revenues in
+      the Water Fund since FY2022, and said the proposed rate increase was
+      intended to move the Water Fund balance toward a positive operating
+      balance. Mr. Vuyk explained that a rate increase tended to result in a reduction
+      in use.
+
+      Mayor Pro Tem Green opened a public hearing, and closed the public
+      hearing seeing no one come forward.
+
+7.c   Public Hearing: Ordinance #1651 amending the text of the Land Use and
+      Development Code of the Draper City Municipal Code regarding new
+      districts, permitted uses, and development standards in the Draper
+      Pointe Mixed Use Commercial Special District Zone
+      Todd Taylor, Planner, showed the boundaries of the Draper Pointe Mixed Use
+      Commercial Special District Zone, highlighting the subject property that would
+      be impacted by the proposed amendment (383 West 13490 South). He said
+      the Planning Commission reviewed the request at their April 24, 2025 meeting
+      and recommended approval (5-0) with the following modifications:
+
+         1. That the following proposed uses be removed from the permitted uses:
+            Limited Manufacturing, General Printing, and Limited Wholesale and
+            Warehousing uses;
+         2. That the proposed text and exhibits be modified to not include “limited
+            manufacturing” in the name of the new district.
+
+      Mr. Taylor said proposed Ordinance #1651 reflected the changes
+      recommended by the Planning Commission. The following permitted uses
+      would be added to the zone with approval of the proposed ordinance:
+      business equipment rental and supplies; cashing services; grooming service;
+      medical or dental laboratory; office, warehouse; repair service; research
+      service; secondhand or thrift store, small; tattoo establishment;
+      trade/vocational school; veterinary service.
+
+
+
+                                                                            4|Page
+      Mr. Taylor highlighted proposed amendments to development standards.
+      Responding to a question from Councilmember Johnson, Ms. Jastremsky
+      explained that the office warehouse use definition required at least 30% office
+      space and allowed the rest of the building to be warehousing use. She said the
+      limited wholesale and warehousing use not included in the ordinance as
+      recommended by the Planning Commission was more of a distribution-type
+      center.
+
+      Joe Johnson, applicant, said the proposed project had changed as they had
+      worked with City staff over the last year and a half. He said he believed the
+      location was a great spot for businesses to thrive in Draper City. Mr. Johnson
+      said he felt good about moving forward within proposed constraints.
+
+      Mayor Pro Tem Green opened a public hearing, and closed the public
+      hearing seeing no one come forward.
+
+      Councilmember F. Lowry moved to approve Ordinance #1651 with the
+      changes recommended by the Planning Commission. Councilmember
+      Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery                        X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+7.d   Public Hearing: Ordinance #1652 amending the official Zoning Map of
+      Draper City for approximately 0.85 acres of property from CBP (business/
+      manufacturing park) to M1 (light manufacturing) located at
+      approximately 13488 South 200 West within Draper City otherwise
+      known as the Granite Construction Zoning Map Amendment
+      Planning Manager Todd Draper showed the subject property on a map, and
+      explained the request for rezone from CBP to M1. Mr. Draper said the
+      applicant desired to combine the three parcels for construction sales and
+      service use, under a separate application. He said the Planning Commission
+      reviewed the application and forwarded a positive recommendation.
+
+
+
+                                                                           5|Page
+      Tina Mudd with Granite Construction thanked staff for their time, and said she
+      was available to answer any questions.
+
+      Mayor Pro Tem Green opened a public hearing, and closed the public
+      hearing seeing no one come forward.
+
+      Councilmember Vawdrey moved to approve                      Ordinance     #1652.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+      Councilmember Green               X
+      Councilmember Johnson             X
+      Councilmember T. Lowery                        X
+      Councilmember F. Lowry            X
+      Councilmember Vawdrey             X
+
+8.    Action Items
+8.a   Ordinance #1653 amending Title 7-5 of the Draper City Municipal Code to
+      align with Utah State Code Section 11-46-303 regarding the management
+      and exemption of community cats
+      City Attorney Traci Gunderson said proposed amendments to Title 7-5 were
+      drafted to align City Code with the Utah Animal Welfare Act, specifically relating
+      to community cats. Ms. Gunderson explained proposed amendments,
+      including definitions of community cat, community cat caretaker, community
+      cat colony, and community cat program. She shared concern regarding
+      potential impact on public safety if TNR programs were not actively managed
+      in community cat colonies, and spoke of potential nuisance complaints and
+      potential opposition from bird enthusiasts.
+
+      Responding to a question from Councilmember Johnson, Ms. Gunderson said
+      the proposed amendments tried to be compliant with the State without
+      actively promoting or encouraging residents to create community cat colonies.
+
+      Councilmember Johnson moved to approve                      Ordinance     #1653.
+      Councilmember Vawdrey seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+
+                                                                              6|Page
+      Councilmember Green              X
+      Councilmember Johnson            X
+      Councilmember T. Lowery                         X
+      Councilmember F. Lowry           X
+      Councilmember Vawdrey            X
+
+Councilmember F. Lowry made a motion to move to a meeting of the
+Community Reinvestment Agency, with intent to return to regular Council
+meeting. Councilmember Johnson seconded the motion, which passed by
+unanimous vote (4-0).
+
+The Council returned to regular meeting at 8:00 pm.
+
+9.   Adjournment
+     Councilmember Johnson moved to adjourn the meeting. The motion
+     passed unanimously (4-0).
+
+     The meeting adjourned at 8:01 pm.
+
+
+
+
+                                                               7|Page
+

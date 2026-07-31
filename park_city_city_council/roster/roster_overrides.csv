@@ -1,0 +1,10 @@
+# roster_overrides.csv — hand corrections applied LAST (win ties), keyed by (seat_id, person_key, start_date).
+# Regenerable layers are never hand-edited; ALL corrections go here (repo override convention).
+# Columns must match council_terms.csv; only the non-empty cells are applied to the matching row.
+#
+# RETIRED 2026-07-11 — 0 data rows. The sole former row (Worel AL-A1 crossover vote-bound de-smear) is no
+# longer needed: roster_lib now CLAMPS first_vote/last_vote to each tenure's own [start,end) window
+# (clamp_vote_bounds), so Worel's AL-A1 council tenure [2020-01-09, 2022-01-06) naturally EXCLUDES her
+# 2024-08-22 mayoral tie-break and yields last_vote=2021-12-16 with no override (verified: clamp alone
+# reproduces it). Header-only by design.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

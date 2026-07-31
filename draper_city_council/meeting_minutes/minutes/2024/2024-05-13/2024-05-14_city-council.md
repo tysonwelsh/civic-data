@@ -1,0 +1,235 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1712&doc_id=66c632cf-28ed-11ef-81ef-005056a89546
+> Meeting date: 2024-05-14
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 14,
+2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:      Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+              Johnson, Tasha Lowery, Fred Lowry (joined remotely at 6:30 pm), and
+              Cal Roberts
+EXCUSED:
+STAFF:         David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+               Challburg, Chief of Staff; Scott Cooley, City Engineer; Jennifer
+               Jastremsky, Community Development Director; Bret Millburn, Assistant
+               City Manager; Malena Murray, Human Resources Director; Rhett Ogden,
+               Parks and Recreation Director; Laura Oscarson, City Recorder; Linda
+               Peterson, Communications Director; Clint Smith, Fire Chief; Jake
+               Sorensen, IT; John Vuyk, Finance Director; and Jared Zacharias, Assistant
+               Finance Director
+______________________________________________________________________________________________
+
+Study Session
+
+         Police Department Statistics and Special Teams
+         This item was not discussed.
+
+         Potential cell tower at Southfork Park
+         Assistant City Manager Bret Millburn said the city was approached by
+         Verizon about the possibility of installing a cell structure at Southfork Park.
+         He showed images of the potential footprint and different design options.
+         Mr. Millburn said the City would gain a revenue stream and better coverage
+         for residents. He explained the hardware could be added to a light pole
+         instead of a separate structure if the Council desired. Two Councilmembers
+         indicated support. Councilmember Johnson requested more information,
+         and Councilmember T. Lowery requested a more precise estimate of the
+         potential revenue.
+
+         Council/Manager Reports
+         Councilmember Johnson said a resident expressed concern to her about
+         street parking in a specific area. A Councilmember mentioned potential
+         development of property located at 12100 South just off 645 East in the
+         Draperville area, and suggested the City cooperate with the developer.
+                                                                                    1|Page
+         Draper City Council Approved Meeting Minutes – June 4, 2024
+Business Session
+
+1.     Call to Order by Mayor Troy K. Walker
+
+2.     Musical Number by members of the Saint John the Baptist Children's
+       Choir
+       Due to illness, the choir did not perform.
+
+3.     Pledge of Allegiance by Jake Sorensen
+
+4.     Public Comments
+       None
+
+5.     Consent Items
+5.a    Approval of the April 23, 2024, City Council Meeting Minutes.
+5.b    Approval of the April 29, 2024, City Council Special Meeting Minutes.
+5.c    Approval of the following Assessments-in-Lieu:
+          • Ray Paul Greenwood property located at 12726 S 950 E;
+          • Leone Smith property located at 13530 S 300 E;
+          • Carl Patterson property located at 13103 S Boulter Street.
+5.d    Approval of Resolution #24-19 granting a perpetual easement to Rocky
+       Mountain Power for the installation of an electrical power
+       transmission line on Draper City Property located at 12460 S 1130 E to
+       service the Bainbridge subdivision.
+
+       Councilmember T. Lowery moved to approve the Consent Items.
+       Councilmember Roberts seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                         Yes No        Absent
+       Councilmember Green                 X
+       Councilmember Johnson               X
+       Councilmember T. Lowery             X
+       Councilmember F. Lowry              X
+       Councilmember Roberts               X
+
+6.     Items for Council Consideration
+
+
+
+                                                                    2|Page
+6.a   Resolution #24-17, a Resolution amending the Traverse Range
+      Conservation Easement to include property known as the Deer Ridge
+      Property into the Conservation Easement
+      Assistant City Manager Bret Millburn provided background information for
+      the Traverse Range Conservation Easement and the Deer Ridge property,
+      and answered questions from the Council.
+
+      Councilmember Green moved to approve                  Resolution    #24-17.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No       Absent
+      Councilmember Green                 X
+      Councilmember Johnson               X
+      Councilmember T. Lowery             X
+      Councilmember F. Lowry              X
+      Councilmember Roberts               X
+
+6.b   Resolution #24-22, a Resolution establishing the Draper City Tentative
+      Budget for the Fiscal Year ending June 30th, 2025, and setting the public
+      hearing for June 4, 2024, to take public comment on the Tentative
+      Budget
+      Finance Director John Vuyk presented a FY 2025 Tentative Budget, including
+      a proposed property tax rate increase of approximately 20%, and an
+      increase in Water Fund rates. Staff outlined the public process schedule for
+      the budget, and answered questions from the Council.
+
+      Councilmember Roberts moved to approve Resolution #24-22 and set a
+      public hearing for June 4, 2024. Councilmember T. Lowery seconded the
+      motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes    No      Absent
+      Councilmember Green             X
+      Councilmember Johnson           X
+      Councilmember T. Lowery         X
+      Councilmember F. Lowry          X
+      Councilmember Roberts           X
+
+
+
+                                                                         3|Page
+6.c   Recess to a Community Reinvestment Agency Meeting
+      Councilmember Green moved to recess to a Community Reinvestment
+      Agency Meeting. Councilmember T. Lowery Seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No       Absent
+      Councilmember Green                X
+      Councilmember Johnson              X
+      Councilmember T. Lowery            X
+      Councilmember F. Lowry             X
+      Councilmember Roberts              X
+
+      The Council returned to regular meeting at 6:51 pm.
+
+      Councilmember T. Lowery moved to take a short recess.
+      Councilmember Green seconded the motion, which passed by
+      unanimous voice vote (5-0). The Council returned at 7:00 pm.
+
+6.d   Public Hearing: Ordinance #1611, an Ordinance amending the Official
+      Zoning Map of Draper City for approximately 5.27 acres of property
+      from DC (Destination Commercial) to CBP (Business/Manufacturing
+      Park), located at approximately 132 West 13490 South, otherwise
+      known as the Banasky Rentals Zoning Map Amendment
+      Planning Manager Todd Draper showed a map and photographs of the
+      subject property, and explained the request to rezone from DC to CBP for
+      an equipment rental and sales business. Mr. Draper said the Planning
+      Commission reviewed the request and forwarded a positive
+      recommendation.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Jennalee Warren, applicant, said Banasky Rentals would be a heavy
+      equipment dealership.
+
+      Councilmember Green moved to adopt                    Ordinance    #1611.
+      Councilmember T. Lowery seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+
+                                                                        4|Page
+                                        Yes No        Absent
+      Councilmember Green                X
+      Councilmember Johnson              X
+      Councilmember T. Lowery            X
+      Councilmember F. Lowry             X
+      Councilmember Roberts              X
+
+6.e   Public Hearing: Ordinance #1612, an Ordinance of Draper City
+      amending the text of the Land Use and Development Code of the
+      Draper City Municipal Code relating to the allowed primary materials
+      in the Southwestern Furniture Commercial Special District Zone
+      Todd Taylor, Planner, explained the proposed change in building materials
+      for the Southwestern Furniture Commercial Special District Zone.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+      Councilmember Green moved to approve                Ordinance     #1612.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                        Yes No       Absent
+      Councilmember Green                X
+      Councilmember Johnson              X
+      Councilmember T. Lowery            X
+      Councilmember F. Lowry             X
+      Councilmember Roberts              X
+
+6.f   Public Hearing: Resolution #24-21, a Resolution amending the adopted
+      budget of Draper City for Fiscal Year 2023-2024
+      Finance Director John Vuyk presented a proposed FY 2024 Budget
+      Amendment, and asked the Council to add a $150,000 overage on the 1300
+      East Highland Project to be paid to the State from B & C Road Funds.
+
+      Mayor Walker opened a public hearing, and closed the public hearing
+      seeing no one come forward.
+
+
+
+
+                                                                      5|Page
+     Councilmember Green moved to approve Resolution #24-21 and
+     include the $150,000 overage in the Budget Amendment.
+     Councilmember T. Lowery seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+                                       Yes No       Absent
+     Councilmember Green                 X
+     Councilmember Johnson               X
+     Councilmember T. Lowery             X
+     Councilmember F. Lowry              X
+     Councilmember Roberts               X
+
+7.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember
+     Roberts seconded the motion, which passed by unanimous voice vote
+     (5-0).
+
+     The meeting adjourned at 7:15 pm.
+
+
+
+
+                                                                  6|Page
+

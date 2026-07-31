@@ -1,0 +1,97 @@
+{
+ "date": "2020-04-21",
+ "year": 2020,
+ "title": "Logan City Council Meeting",
+ "slug": "city-council-meeting",
+ "body_default": "Council",
+ "source": "meeting_minutes/minutes/2020/2020-04-20/2020-04-21_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "approve the April 7, 2020 minutes with no changes and approve tonight’s agenda",
+   "motion_type": "Procedural/Administrative",
+   "result": "Carried (no names)",
+   "mover": "Jeannie F. Simmonds",
+   "seconder": "Mark A. Anderson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "unresolved_names": [],
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "approve Resolution 20-11 as presented",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Tom Jensen",
+   "seconder": "Jeannie F. Simmonds",
+   "aye": [
+    "Amy Z. Anderson",
+    "Mark A. Anderson",
+    "Jess W. Bradfield",
+    "Tom Jensen",
+    "Jeannie F. Simmonds"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "",
+   "unresolved_names": [],
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "approve Resolution 20-12 as presented",
+   "motion_type": "Budget Amendment",
+   "result": "5-0 Pass",
+   "mover": "Jess W. Bradfield",
+   "seconder": "Tom Jensen",
+   "aye": [
+    "Amy Z. Anderson",
+    "Mark A. Anderson",
+    "Jess W. Bradfield",
+    "Tom Jensen",
+    "Jeannie F. Simmonds"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "",
+   "unresolved_names": [],
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "adopt Ordinance 20-07 as presented",
+   "motion_type": "Ordinance",
+   "result": "3-2 Pass",
+   "mover": "Tom Jensen",
+   "seconder": "Mark A. Anderson",
+   "aye": [
+    "Amy Z. Anderson",
+    "Mark A. Anderson",
+    "Tom Jensen"
+   ],
+   "nay": [
+    "Jess W. Bradfield",
+    "Jeannie F. Simmonds"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "3-2",
+   "unresolved_names": [],
+   "motion_no": 4
+  }
+ ]
+}

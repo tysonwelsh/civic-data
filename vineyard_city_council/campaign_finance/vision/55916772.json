@@ -1,0 +1,61 @@
+{
+ "contributions": [
+  {
+   "date": "09/17/2021",
+   "name": "Debbie Ward",
+   "amount": "500",
+   "in_kind": false
+  },
+  {
+   "date": "09/17/2021",
+   "name": "Deanna Carter",
+   "amount": "300.00",
+   "in_kind": false
+  },
+  {
+   "date": "10/18/2021",
+   "name": "Deanna Carter",
+   "amount": "140.00",
+   "in_kind": true
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "09/24/2021",
+   "recipient": "Canva",
+   "purpose": "Signs",
+   "amount": "213.00"
+  },
+  {
+   "date": "09/24/2021",
+   "recipient": "Canva",
+   "purpose": "Signs",
+   "amount": "213.00"
+  },
+  {
+   "date": "10/10/2021",
+   "recipient": "Office Depot",
+   "purpose": "flyers",
+   "amount": "292.00"
+  },
+  {
+   "date": "09/28/2021",
+   "recipient": "Office Depot",
+   "purpose": "office supplies",
+   "amount": "50.00"
+  },
+  {
+   "date": "10/04/2021",
+   "recipient": "Michaels",
+   "purpose": "flyer supplies",
+   "amount": "37.00"
+  }
+ ],
+ "contributions_under_500": null,
+ "contributions_itemized": "940",
+ "total_contributions": "940",
+ "expenditures_under_500": null,
+ "expenditures_itemized": "805",
+ "total_expenditures": "805",
+ "ending_balance": "135"
+}

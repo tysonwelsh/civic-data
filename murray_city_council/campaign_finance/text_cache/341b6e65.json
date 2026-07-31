@@ -1,0 +1,40 @@
+{
+  "contributions": [
+    {"date": "June 8, 2023", "name": "Aaron Thompson", "amount": "25.00", "in_kind": false},
+    {"date": "June 12, 2023", "name": "Jay Vincent", "amount": "225.53", "in_kind": false},
+    {"date": "June 12, 2023", "name": "Janneke House", "amount": "48.95", "in_kind": false},
+    {"date": "June 12, 2023", "name": "Tricia Beck", "amount": "24.43", "in_kind": false},
+    {"date": "June 14, 2023", "name": "Chris Wharton", "amount": "48.95", "in_kind": false},
+    {"date": "June 15, 2023", "name": "Kristi Shaw", "amount": "48.95", "in_kind": false},
+    {"date": "Aug. 3, 2023", "name": "(My Personal Contribution: Aaron Thompson) Sun Print Solutions: Campaign Material", "amount": "568.76", "in_kind": false},
+    {"date": "Aug. 4, 2023", "name": "WDC", "amount": "100", "in_kind": false},
+    {"date": "Aug. 16, 2023", "name": "(My Personal Contribution: Aaron Thompson) Sun Print Solutions: Campaign Material", "amount": "609.76", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "June 12, 2023", "recipient": "Xix.com (website)", "purpose": null, "amount": "27.25", "in_kind": false},
+    {"date": "June 12, 2023", "recipient": "SheryllLynne Photog", "purpose": null, "amount": "125.00", "in_kind": false},
+    {"date": "June 14, 2023", "recipient": "District Map: ELECTIONS SALT LAKE CITUTUS", "purpose": null, "amount": "30", "in_kind": false},
+    {"date": "June 14, 2023", "recipient": "CostCo: Campaign Supplies", "purpose": null, "amount": "64.79", "in_kind": false},
+    {"date": "June 18, 2023", "recipient": "AMZN Mktp US (Signage)", "purpose": null, "amount": "71.98", "in_kind": false},
+    {"date": "June 22, 2023", "recipient": "CostCo: Campaign Supplies", "purpose": null, "amount": "81.96", "in_kind": false},
+    {"date": "July 3, 2023", "recipient": "Winco: Parade Supplies", "purpose": null, "amount": "18.29", "in_kind": false},
+    {"date": "Aug. 3, 2023", "recipient": "(My Personal Expense) Sun Print Solutions: Campaign Material", "purpose": null, "amount": "568.76", "in_kind": false},
+    {"date": "Aug. 16, 2023", "recipient": "(My Personal Expense) Sun Print Solutions: Campaign Material", "purpose": null, "amount": "609.76", "in_kind": false},
+    {"date": "Aug. 21, 2023", "recipient": "Salt Lake County Elections: Campaign Resources", "purpose": null, "amount": "15.00", "in_kind": false}
+  ],
+  "total_contributions": "1,700.33",
+  "total_expenditures": "1,612.79",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "87.54",
+  "_meta": {
+    "index_path": "raw/202308_Aaron-Thompson_14461.pdf",
+    "candidate": "Aaron Thompson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-Primary",
+    "extraction_method": "rendered page images (pages 2-5 Summary + Schedules are image-only, no text layer); page 1 candidate info + pages 6-7 ordinance from pdftotext text layer",
+    "reconcile_note": "Schedule A itemized rows sum to 1,700.33 and foot to printed cover TOTAL CONTRIBUTIONS RECEIVED THRU 4 August 2023 $1,700.33 (reconciles). Schedule B itemized rows sum to 1,612.79 and foot to printed cover TOTAL EXPENDITURES INCURRED THRU 21 August 2023 $1,612.79 (reconciles). Summary page: Beginning Balance $0, Balance at Close of Statement $87.54, $500-or-less cells blank. Schedule C in-kind empty ($0). Expenditure Description column left blank for all rows (any detail is embedded in the recipient string verbatim)."
+  }
+}

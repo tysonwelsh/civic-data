@@ -1,0 +1,39 @@
+# Nephi City Council Work Session — 2022-04-26
+> Source: https://www.utah.gov/pmn/files/856255.docx
+> Meeting date: 2022-04-26
+> Format: text
+
+---
+
+
+Nephi City
+ Work Session Minutes
+April 26, 2022
+7:00 p.m.
+Nephi City Council Chambers
+
+ 
+	•	 The council discussed the Light Industrial Zone (ID-3) draft.  They discussed the 75’ height  requirement and agreed upon taking out the medium industry as a permitted use in the zone. Councilor Ostler said he would discuss the height requirements with the Fire District Board. 
+ 
+	•	The council discussed the customer security deposit for the electric transmission line project.  UMPA has proposed that they will front the $6,000,000 security deposit upon approval from their board.
+ 
+	•	The council discussed the following general project topics:
+
+	•	The General Plan Update needs the conceptual zoning map to be completed before the final draft can be finished.   A transportation master plan needs to be completed soon.
+	•	The council discussed identifying funding sources for a new police station.  A public safety impact fee study would need to be completed.  The council agreed that they need to identify a timeline of when to proceed with building a new police station
+	•	Mr. Atkinson informed the council that a fire station is the responsibility of the Juab County Fire District.
+	•	Councilor Parady suggested the idea of adopting architectural standards for buildings on Main Street.  Mr. Atkinson gave a list of pros and cons for this idea.    
+	•	The council discussed the need to adjust employee wages because of  inflationary times. 
+	•	The council discussed the 30-day stay limit for RV parks, motels and hotels.  The council agreed that there is no easy solutions to solve the long-term stay problems but recognized that some progress in enforcing the code had been made.  Councilor Parady suggested charging a permit fee for longer than 30-day stays. 
+	•	The council discussed controlling high-density housing through zoning. The public perception seems to be that the city is allowing too much higher density housing than is desired.  The council talked of scrutinizing any additional annexation until the updated general plan is completed. 
+	•	Mr. Atkinson reviewed some ongoing nuisance issues with the council.
+
+
+	•	 The council reviewed the financial reports.
+ 
+	•	Mayor Seely called to order a regular meeting.  Councilor Parady moved to convene into executive session to discuss real property and the character and competence of an individual.  Councilor Callaway seconded the motion.  The motion passed on a unanimous vote. 
+
+	•	 Meeting adjourned at 9:25 p.m.
+
+
+Present:  Mayor Justin Seely, Councilor Larry Ostler, Councilor Justin Seely, Councilor Jeramie Callaway, Councilor Skip Worwood (Absent), Councilor Nathan Memmott, Councilor JD Parady City Attorney Kasey Wright, City Administrator Seth Atkinson, City Recorder Lisa Brough,  Donald Ball, Joel Cowan, Shari Cowan.

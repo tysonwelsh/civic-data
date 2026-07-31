@@ -1,0 +1,382 @@
+---
+title: Alta Town Council — Public Hearing Meeting 2025-03-12
+date: 2025-03-12
+meeting_type: public hearing
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1259509.pdf
+source_file: 2025-3-12 Alta Town Council Meeting - Public Hearing Meeting Minutes APPROVED.pdf
+pmn_file_id: 1259509
+format: ocr
+---
+
+MINUTES
+ALTA TOWN COUNCIL MEETING & PUBLIC HEARING
+. Wednesday, March 12, 2025, 4:00 PM
+Alta Community Center, 10351 E. Highway 210, Alta, Utah
+’ PUBLIC HEARING
+PRESENT: _ . Mayor Roger Bourke :
+Councilmember John Byrne (attended virtually}
+Councilmember Dan Schilling
+STAFF PRESENT: Chris Cawley, Town Manager |
+Mike Morey, Town Marshal 7
+Jen Clancy, Town Clerk
+Molly Austin, Assistant Town Manager
+' Brooke Boone, Deputy Town Clerk
+Craig Heimark, Treasurer
+ALSO PRESENT: Cameron Platt, Legal Counsel . |
+, NOT PRESENT: Councilmember Carolyn Anctil
+Councilmember Elise Morgan
+1. CALL THE PUBLIC HEARING TO ORDER ©
+Mayor Bourke called the public hearing of March 12, 2025 to order to receive comments on the |
+proposed fiscal year 2025 budget amendments. |
+2. PUBLIC HEARING TO RECEIVE COMMENT ON PROPOSED FY 2025 BUDGET AMENDMENTS AND |
+CAPITAL PROJECTS PLAN AMENDMENTS
+No public comment was received. ;
+3. MOTION TO ADJOURN
+MOTION: Dan Schilling motioned to adjourn the public hearing, and John Byrne seconded. .
+VOTE: All were in favor. The public hearing was unanimously adjourned.
+RESULT; APPROVED , !
+. |
+Alta Town Council Meeting
+March 12, 2025 1
+
+ALTA TOWN COUNCIL MEETING
+, PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil (attended virtually part way through the meeting)
+Councilmember John Byrne (attended virtually)
+Councilmember Dan Schilling
+STAFF PRESENT: Chris Cawley, Town Manager
+‘Mike Morey, Town Marshal =:
+Jen Clancy, Town Clerk
+Molly Austin, Assistant Town Manager
+_ Brooke Boone, Deputy Town Clerk
+Craig Heimark, Treasurer |
+ALSO PRESENT: Cameron Platt, Legal Counsel
+NOT PRESENT: Councilmember Elise Morgan |
+1. CALL THE MEETING TO ORDER :
+00:05:25 |
+Mayor Bourke called the March 12, 2025 Alta Town Council meeting to order.
+2. CITIZEN INPUT
+00:05:45 .
+Sara Gibbs, of Alta Community Enrichment expressed disappointment regarding the town’s decision to
+place a bid on the Our Lady of Snows building, which ACE, an organization in the community for nearly
+30 years, had also bid on. Gibbs compared the situation to living in a home for decades, only to have a
+close friend compete for its purchase. While acknowledging that people have the right to change their
+minds, Gibbs noted that the town’s bid came as a shock to some community members who had little
+time to process it. Gibbs stated that the town had suggested ACE could remain a tenant if the town
+acquired the building but had not provided written confirmation or lease details. Gibbs emphasized
+that ACE had operated in the building with minimal financial impact and questioned whether the town
+would be amenable to their lease terms. Additionally, Gibbs expressed concerns about the use of town
+funds, arguing that a recent $75,000 study suggested the Town Community Center should be either
+remodeled or demolished, along with Alta Central. Gibbs suggested that the potentially significant cost
+of purchasing the building could be allocated elsewhere and urged the town to allow ACE to secure the
+property instead. Despite concerns, Gibbs remained hopeful that the town and ACE would maintain a .
+strong partnership regardless of the outcome. Gibbs also called for a public hearing on the matter,
+particularly regarding any necessary budget adjustments, citing concern among community members.
+Alta Town Council Meeting . |
+March 12, 2025 2
+
+Mayor Bourke stated that the town was still evaluating its options regarding the matter and had not
+made a final decision. Mayor Bourke emphasized that the town was considering what would be in its
+best interest and remained open to dialogue, including the discussion initiated by Gibbs. Mayor Bourke
+assured Gibbs that once a decision was reached, the town would clearly communicate both the
+outcome and the reasoning behind it.
+Mark Haik recounted attending the February Town of Alta Planning Commission meeting, where Wade
+Budge presented a new proposal on behalf of a client. Haik noted that Budge emphasized transparency |
+in the process and introduced a water expert to explain the necessary administrative steps before the
+Utah State Engineer. Haik stated that following the expert’s remarks, the only question came from -
+Commissioner Rob Voye, who asked why the discussion focused on the State Engineer rather than Salt
+Lake City Public Utilities. Haik highlighted that Voye had served as a town official for a long time,
+possibly second only to Nepstad, and had attended multiple executive sessions on public utilities. Haik
+questioned how Voye could still be uninformed about the water applications governing municipal
+water diversions in the Town of Alta. Haik further noted that no one present at the meeting, including .
+council members, staff, Niermeyer, or the town's consultant, provided an answer to Voye’s question. |
+Haik concluded by asking how Voye remained uninformed on this issue after years of service and when !
+he would be adequately informed about the details of public utility operations in the town.
+; Creighton Hart addressed the council, noting that it had been some time since their last attendance at .
+a town meeting. Hart announced that the following day marked ACE’s 28th anniversary as a 501(c)(3)
+organization recognized by the Town of Alta and extended birthday wishes to the organization,
+expressing hope for its continued success in the years ahead.
+3. ALTA SKI AREA UPDATE, MIKE MAUGHAN
+00:14:00
+Mike Maughan provided an update beginning with a recap of a major power failure at the ski area on.
+February 26. The outage occurred around noon during a meeting with the Forest Service and resulted
+) in a full loss of power to the ski area. Maughan stated that within approximately 30 minutes, auxiliary
+systems and generators were activated, allowing operations to continue with minimal disruption. The
+ski area ran on backup systems for three days, with most visitors unaware of the issue aside from
+increased noise levels. Maughan reported that full utility power was restored after nearly six days, with
+the issue traced to a problem in the loop system’s line across Crosstow. The outage caused damage to
+various electrical components and equipment, including transformers, which would require
+replacement during the summer. Maughan commended the Alta team’s efforts in managing the .
+situation and apologized for any disruptions in the town.
+Maughan also provided an update on ski area visitation and business performance, stating that
+visitation was currently down about 6% compared to the previous year. Based on projections,
+Maughan anticipated ending the year approximately 5% below the prior year's numbers.
+4. ALTA SKI AREA SUMMER PROJECTS UPDATE, MIKE MAUGHAN
+00:16:45
+Alta Town Council Meeting : |
+March 12, 2025 3 |
+
+Mike Maughan provided an update on upcoming projects at the ski area, emphasizing the need to
+manage skier distribution while preserving the quality of the skiing experience. Maughan highlighted :
+the impact of climate change and increasing demand, outlining key focus areas including snowmaking,
+infrastructure maintenance, and transportation improvements.
+A major project this summer involves replacing a high-pressure snowmaking line along the rope tow,
+| which has deteriorated and failed multiple times. This project includes digging a trench approximately
+10 feet wide and 10 feet deep, installing two 42-inch culverts for water storage, replacing the |
+snowmaking line, and adding a new power line. The Town of Alta will also be installing a water line |
+~ within this trench. Additionally, upgrades to the pump house will be made, increasing pumping !
+capacity to enhance snow production during optimal temperature windows.
+Future projects include replacing the snowmaking line from the top of the Corkscrew ski run to the :
+angle station, targeted for summer 2026. The ski area is also exploring additional water storage 7
+solutions to maximize snow production efficiency. Long-term plans involve potential snowmaking
+expansion into the Supreme area, though not in the immediate future. |
+Several terrain modifications are planned to improve safety and accessibility. The High Traverse |
+project, which began last year, will continue with further work near the sunspot area. Another project :
+near the bottom of Rock and Roll ski run aims to remove loose rocks and dead trees to improve skier
+safety. At the bottom of Supreme Cutoff, a terrain modification is planned to eliminate a blind spot; oo
+this involves reducing the steep break-over, widening the path, and removing trees to improve
+visibility. |
+Building projects include a two-year expansion of the Albion Day Lodge, which will add three levels,
+including restrooms, additional seating, updated coffee shop, and employee housing. Additionally, a
+new cold equipment storage facility is planned adjacent to the Albion parking lot, designed to be
+avalanche-resistant and provide easier access to essential equipment. )
+Lift improvements will also be a major focus. The Sugarloaf lift is set to receive an upgrade with new AC
+motors and communication lines. The Supreme lift will be straightened by removing the angle and
+repositioning the top and bottom terminals. Construction for this project begins May 15, with work
+expected to impact campground access and trails in the area. .
+Additional infrastructure improvements include installing a new base-to-base power line, repaving the
+south Flagstaff lot in collaboration with UDOT, and replacing an aging. culvert coming out of the Tom |
+Moore mine under SR 210. Four new Wyssen avalanche control towers will be installed on Sugarloaf
+Peak to enhance safety. |
+Maughan noted that these projects will significantly impact parking and public access this summer. The |
+Albion parking lot may be fully unavailable this summer, while the Wildcat lot will be partially affected. ;
+‘Construction will also lead to temporary trail closures. Mayor Bourke raised concerns about the
+trench’s proximity to the park and potential safety hazards for park users. Maughan acknowledged the
+concern and stated that temporary closures might be necessary to ensure public safety. |
+Alta Town Council Meeting :
+March 12, 2025 , 4
+
+Mayor Bourke inquired about helicopter operations, noting that it is always a topic of interest to
+
+residents. John Byrne commended Maughan on the extensive list of summer projects, acknowledging
+the ambition behind them and expressing appreciation for the ongoing efforts to protect the skier
+experience. .
+
+. Maughan also highlighted some challenges with the parking system, which has been in place for four :
+years. Maughan noted that while it is functioning well, some individuals have found ways to use it to
+their advantage, leading to instances where lots were sold out but only filled to 75% capacity. |
+Maughan stated that refinements would be made before the next season to address no-shows and
+improve efficiency. |
+
+5, QUESTIONS REGARDING DEPARTMENTAL REPORTS
+00:43:10
+No questions. . :
+6. APPROVAL OF FEBRUARY 12, 2025 TOWN COUNCIL MEETING MINUTES, FEBRUARY 14, 2025 |
+EMERGENCY TOWN COUNCIL MEETING MINUTES, MARCH 4, 2025 SPECIAL TOWN COUNCIL
+MEETING MINUTES, AND FEBRUARY STAFF AND FINANCE REPORTS ,
+00:43:50 |
+- MOTION: Dan Schilling motioned to approve the February 12, 2025 Town Council Meeting
+Minutes, February 14, 2025 Emergency Town Council Meeting Minutes, March 4, 2025 Special
+Town Council Meeting Minutes, and February staff and finance reports. John Byrne seconded.
+VOTE: All were in favor. The February 12, 2025 Town Council Meeting Minutes, February 14,
+2025 Emergency Town Council Meeting Minutes, March 4, 2025 Special Town Council Meeting
+Minutes, and February staff and finance reports were approved.
+RESULT: APPROVED
+7. MAYORS REPORT |
+00:45:00 . |
+Mayor Bourke noted that unfortunately. interlodge rules are being violated, emphasizing that when |
+interlodge is in effect, individuals must remain indoors. Mayor Bourke encouraged people to check the
+town’s website for updates. It was reiterated that enforcement is the responsibility of building
+managers and that while the town prioritizes persuasion over coercion, citations could be issued if
+necessary. ,
+Mayor Bourke provided an update on the monthly SR 210 road meeting, noting that despite significant 3
+snowfall, the main line had generally remained open, with only occasional traffic disruptions. UDOT
+crews were commended for their work in maintaining traffic flow. Additionally, Mayor Bourke noted
+the conclusion of the 45-day legislative session, highlighting the passage of traction bill HB 196, which
+grants UDOT authority to regulate vehicle equipment requirements based on weather conditions.
+Alta Town Council Meeting : ot
+March 12, 2025 ‘ 5
+
+Mayor Bourke also noted changes to vote-by-mail procedures, with residents being required to opt in
+starting in 2029. A comprehensive review of legislation affecting the town was planned for the next
+meeting.
+Mayor Bourke reminded everyone that two council terms and the Mayor’s seat would soon expire.
+Mayor Bourke encouraged multiple candidates to declare so voters could be presented with a choice.
+The candidate declaration filing dates are June 2 — 6 in person at the town office. ;
+Mayor Bourke concluded with an astronomy update, discussing the Europa Clipper spacecraft’s recent |
+flyby of Mars and its upcoming Earth flyby in 2026. Mayor Bourke also noted an asteroid previously _ ,
+considered a potential impact threat had been ruled out after further orbital calculations.
+The next town council meeting was scheduled for Wednesday, April 9, at 4:00 PM Mountain Daylight
+Time.
+8. DISCUSSION AND POSSIBLE ACTION TO ADOPT THE MUNICIPAL WASTEWATER (SEWER)
+PLANNING PROGRAM FOR 2024
+00:52:30
+Cawley introduced the Municipal Wastewater Planning Program (MWPP) annual report, arequired — . |
+submission to the state. Cawley noted that the version included in the council packet appeared
+incomplete due to formatting issues with the Google form used to generate it. Given the missing and
+unclear responses, Cawley proposed postponing discussion until the next meeting.
+Byrne commented on an incorrect response in the report, specifically regarding the number of lift |
+stations in town. Steve Mcintosh clarified that while there is a lift station near Byrne’s residence, it is |
+not part of the town’s sewer system but rather the service area’s. A discussion followed regarding |
+ownership distinctions between the Town and Service Area #3, with Mcintosh explaining how and .
+where these systems connect to the larger regional infrastructure.
+McIntosh also provided an overview of wastewater system maintenance over the past year, noting
+routine inspections and flushing activities. Mcintosh mentioned work on a sagging pipe in the |
+Goldminer’s Lot, which remains a future project. Efforts to locate inflow and infiltration from snowmelt
+were also discussed. Additionally, McIntosh highlighted regular maintenance in the Superior Lot to |
+prevent grease buildup, which could reduce costs. | |
+Mayor Bourke confirmed that a more complete version of the MWPP report would be presented next
+month. Council members took the opportunity to thank McIntosh for years of dedicated service to the
+town’s wastewater management.
+9. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2025-R-2 REPEALING AND
+REPLACING DOG LICENSE NUMBERS. .
+) 00:59:00
+, Brooke Boone explained that the town had approved a total of 94 dog licenses annually, and that six
+licenses had recently been forfeited. Staff recommended to evenly distribute these six licenses —
+Alta Town Council Meeting ; |
+March 12, 2025 6 |
+
+between categories A and B. Clancy explained that the redistribution was based on past council !
+preferences and that commuter licenses were reallocated accordingly. However, the final decision |
+remained with the council. :
+Mayor Bourke opened the topic for discussion, noting the absence of some council members. Dan
+Schilling expressed support for the proposed approach without further opinion. John Byrne disclosed
+that both he and a family member held dog licenses but stated that he believed the program was well
+managed and supported the suggested allocation.
+MOTION: Dan Schilling motioned to approve Resolution 2025-R-2. John Byrne seconded. |
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Byrne — yes, Councilmember Schilling — .
+yes, Resolution 2025-R-2 was unanimously approved.
+RESULT: APPROVED
+|
+10. IMPACT FEE UPDATE ;
+01:02:00 | | ,
+The council discussed whether to proceed with an impact fee study, given the financial and |
+administrative burdens associated with impact fees. Cawley explained that impact fees are a regulated
+municipal revenue source used to fund public infrastructure expansion in response to new
+development. However, enacting and managing impact fees requires extensive technical analysis,
+financial accounting, and compliance with evolving state regulations.
+The town's existing impact fee ordinance has not been updated since 1998, lacks proper
+documentation, and does not specify fee amounts. Currently, Alta has approximately $23,579 in its
+impact fee account, but these funds are not encumbered due to the absence of required technical
+studies. While state code allows funds collected after 2021 to be used for an impact fee study, most of
+Alta’s collected fees predate this and cannot be used for this purpose.
+Council members debated the necessity of an impact fee study, given Alta's limited growth potential.
+Byrne noted that while residential construction is mostly built out, commercial redevelopment could |
+generate a need for infrastructure improvements, particularly for culinary water. However, Cawley
+pointed out that redevelopment projects must create new impacts to justify fees, and some
+developers, like the Shrontz Estate, plan to manage their own water systems. .
+Byrne emphasized the need for alternative revenue sources to offset infrastructure costs and prevent |
+significant water rate increases for residents. Heimark inquired about the staff burden of conducting a |
+study, with Cawley responding that most of the work would be outsourced but still require staff
+coordination. i
+|
+_ Ultimately, the council acknowledged the uncertain return on investment for an impact fee study but |
+considered allocating funds for one, particularly focusing on potential commercial growth impacts. |
+Alta Town Council Meeting
+March 12, 2025 7
+|
+
+They also agreed that, regardless of their decision on impact fees, the town’s ordinance must be |
+
+updated to align with current state code.
+
+(Carolyn Anctil joined the meeting} )
+
+11. DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2025-R-4 TO AMEND THE FY
+2025 BUDGETS
+
+01:27:30 .
+
+The council reviewed and discussed the proposed budget amendment. Clancy outlined the key |
+
+changes, including incorporating a mental health grant awarded to Ted Spencer for the Alta Marshal's |
+
+Office, adjustments to impact fees, and modifications to the capital projects fund. Clancy also noted an
+error in an Excel spreadsheet that caused the deletion of a loan repayment entry and requested its
+‘ reinstatement in the budget amendment. |
+
+Byrne clarified that loan repayments were previously categorized as balance sheet adjustments rather
+
+than income statement items. Clancy.confirmed this but stated they were still documented for council
+
+awareness. Byrne characterized the amendments as primarily housekeeping changes with no major |
+
+economic impact.
+
+Cawley elaborated on a significant budget amendment related to the water fund, driven by an :
+
+infrastructure project expected to cost up to $905,000—substantially more than previous estimates.
+
+Cawley noted that the project had received Forest Service approval and was progressing through state
+
+review, though procurement challenges remained. The increase in cost was attributed to an expanded .
+
+project scope and more detailed planning.
+
+- To finance the project, Cawley suggested the council consider an interfund loan from the general fund
+to the water fund, with decisions on loan structure and timing in FY26 when the details can be fine |
+tuned. Byrne suggested consolidating existing water fund debt into a single loan with clear repayment
+terms in compliance with state guidelines. :
+The discussion also touched on declining general fund transfers to the capital projects fund, with Byrne
+noting a sharp reduction compared to prior years. Heimark supported a more conservative approach to
+revenue forecasting, suggesting a shift from a rolling three-year average to a flat projection based on :
+current-year figures. The council acknowledged the need for tighter financiat management and
+potential alternative revenue sources.
+
+MOTION: Dan Schilling motioned to approve Resolution 2025-R-4 including an edit to bring the
+$61,400 back onto the water fund budget line 51-40-810. Carolyn Anctil seconded. =
+ROLL CALL VOTE: Mayor Bourke — yes, Councilmember Byrne — yes, Councilmember Schilling —
+yes, Councilmember Anctil — yes, Resolution 2025-R-4 was unanimously approved.
+RESULT: APPROVED
+Alta Town Council Meeting ; ,
+March 12, 2025 8 |
+
+|
+12, DISCUSSION AND POSSIBLE ACTION TO ADOPT RESOLUTION 2025-R-5 TO AMEND THE :
+CAPITAL PROJECTS PLAN
+01:45:50 |
+The council discussed the capital plan, noting that it does not yet incorporate recommendations from
+the water fund study or facility study. Byrne emphasized prioritizing life safety projects, specifically |
+electrical system upgrades and seismic improvements for Alta Central. Heimark inquired about
+elevating the priority of a fire suppression water tank. Byrne advised against immediate action, citing a
+2014 settlement agreement requiring the Shrontz Estate to fund the project. Cawley affirmed that
+future development would necessitate the Estate’s construction of a tank, reinforcing the need to |
+7 delay town involvement. Schilling supported prioritizing electrical and seismic upgrades due to their |
+direct impact on safety. The council agreed to incorporate placeholders for these projects in the capital
+plan ahead of the next budget amendment. Clancy noted progress on fund balance projections for ;
+capital expenditures.
+MOTION: Dan Schilling motioned to adopt Resolution 2025-R-5 to amend the capital projects ,
+plan as discussed. Carolyn Anctil seconded.
+ROLL CALL VOTE: Councilmember Anctil — yes, Councilmember Schilling — yes, Mayor Bourke — |
+yes, Councilmember Byrne — yes, Resolution 2025-R-5 was unanimously approved. |
+RESULT: APPROVED ;
+
+- 13. NEW BUSINESS
+01:54:20
+Schilling announced two upcoming book signings for his latest work, a memoir co-written with Dick
+Fluey, the last living miner from the Alta mines of the 1950s. The book, published by University Press,
+provides a firsthand account of mining life and its historical significance. The signings will take place on :
+April 1 at King’s English and April 11 at Snowbird. .
+
+14. DISCUSSION AND POSSIBLE ACTION TO COMMENCE A CLOSED MEETING TO DISCUSS A .
+MATTER AUTHORIZED BY UTAH CODE SECTION 52-4-205(1) i
+01:56:45 |
+No vote was taken. 7
+15. MOTION TO ADJOURN _ |
+01:57:15 | |
+|
+
+MOTION: Dan Schilling motioned to adjourn, and John Byrne seconded.
+
+VOTE: Allin favor. The meeting was unanimously adjourned.
+
+. Alta Town Council Meeting |
+March 12, 2025 9
+
+RESULT: APPROVED
+Passed this 9°" day of April, 2025
+en Cl
+Alta Town Council Meeting
+March 12, 2025 10

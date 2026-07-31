@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": null, "name": "Salt Lake Home Builders Association", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "SquareSpace - WebPage", "purpose": null, "amount": "147.77", "in_kind": false}
+  ],
+  "total_contributions": "100.00",
+  "total_expenditures": "147.77",
+  "contributions_50_or_less": null,
+  "beginning_balance": "4,782.07",
+  "ending_balance": "4,734.30",
+  "_meta": {
+    "index_path": "raw/2021_mccay_campaign-finance-report.pdf",
+    "candidate": "Tawnee McCay",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2021_mccay_campaign-finance-report.pdf",
+    "pages": 10
+  }
+}

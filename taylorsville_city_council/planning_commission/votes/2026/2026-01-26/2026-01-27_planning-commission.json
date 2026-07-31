@@ -1,0 +1,67 @@
+{
+ "date": "2026-01-27",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2026/2026-01-26/2026-01-27_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Don Russell",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young",
+  "Barbara Munoz"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to approve a 90-day extension for the applicant’s reasonable accommodation approval",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-1 Pass",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Marc McElreath",
+   "aye": [
+    "David Wright",
+    "Cindy Wilkey",
+    "David Young",
+    "Marc McElreath"
+   ],
+   "nay": [
+    "Gordon Willardson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "tabular",
+   "outcome_detected": true,
+   "tally_text": "5-1",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 2
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+candidate,office,seat,election_year,filing_date,reporting_period,date,donor_raw,donor_normalized,donor_type,donor_city,donor_state,donor_district,amount,in_kind,is_incremental,source_filing,document_id,line_no,extraction_confidence,extract_method,needs_review
+John J. Byrne III,Council,,2021,2021-10-20,Single cycle report,2021-08-11,John J. Byrne III,John J. Byrne Iii,candidate-self,,,,5000.00,False,True,raw/2021_byrne_campaign-financial-report.pdf,bd96a10f,v1,medium,vision_cache/vision,0
+Roger Bourke,Mayor,,2025,2025-10-03,28-day pre-general (through Oct 2),2025-09-01,Abundance Political Consulting,Abundance Political Consulting,business,,,,2000.00,True,True,raw/2025_bourke_cf-report_10-03.pdf,1533783e,v1,high,vision_cache/text,0
+John J. Byrne III,Mayor,,2025,2025-11-19,Final report,2025-06-02,John J. Byrne III,John J. Byrne Iii,candidate-self,,,,4725.11,False,True,raw/2025_byrne_final-financial-report_11-19.pdf,9743c019,v1,low,vision_cache/text,1

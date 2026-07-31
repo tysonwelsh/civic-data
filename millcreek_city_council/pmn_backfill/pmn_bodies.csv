@@ -1,0 +1,13 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+1279,5741,City Council,yes,meeting_minutes,,pm4,2016-12-01,"LIVE-CHAIN id 5741 (supersedes the stale 1031 in fetch_new.py). Repo is a near-total superset; the 2017-11-21 canvass was filed here (not under Board of Canvassers) and is recovered into pmn_backfill/index.csv"
+1279,5815,Planning Commission,yes,planning_commission,,pm4,2016-12-01,"every one of 142 PMN PC minutes-dates already matches a repo date (0 gaps)"
+1279,6367,Community Reinvestment Agency (CRA),yes,meeting_minutes,,pm4,2016-12-01,"in-session CRA lives in meeting_minutes (all_votes body=CRA); all 59 PMN CRA minutes-dates coincide with a repo date"
+1279,7495,Board of Canvassers,no,,,,,"canvass minutes are filed under the Council body 5741, not here"
+1279,5861,Envision Committee,no,,,,,out of scope
+1279,7681,Historic Preservation Commission,no,,,,,out of scope
+1279,5885,Land Use Hearing Officer,no,,,,,quasi-judicial — out of scope
+1279,5949,Mayor,no,,,,,administrative posting body
+1279,7931,Millcreek Community Foundation,no,,,,,out of scope
+1279,5837,Millcreek Recorder,no,,,,,administrative posting body
+1279,8167,Planning Director,no,,,,,administrative posting body
+1279,6513,Tax Entity Committee,no,,,,,out of scope

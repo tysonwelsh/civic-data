@@ -1,0 +1,4 @@
+date,clip_id,doc_id,url,reason
+2021-02-04,349,17953402-866a-11eb-96cb-0050569183fa,https://lehi.granicus.com/MinutesViewer.php?view_id=1&clip_id=349&doc_id=17953402-866a-11eb-96cb-0050569183fa,tiny stub 348B (no doc body)
+2024-12-12,,,,no Minutes link posted in ViewPublisher
+2025-10-02,868,,,"PC Regular meeting HELD & MINUTED (approved at the 2025-11-13 PC meeting, consent item 2.1 'minutes from the October 2, 2025 meeting'); repo has 2025-10-09/10-23 not 10-02. GRANICUS CHECK 2026-07-19: NOT recoverable - clip868 (the Oct-2-2025 PC event, sequenced between clip867 Sep-25 PC and clip869 Oct-9 PC) exists as a video clip but MinutesViewer returns /panes/NoMinutes.php (no minutes doc) and there is no ViewPublisher row. Minutes exist as an approved record but were never published to Granicus. PMN 1026849 agenda-only. Genuine gap."

@@ -1,0 +1,28 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+west_jordan,Craig F. Heath,2021,Council,,365.16,363.16,1,1,summary,
+west_jordan,Tyrone Fields,2021,Council,,70.0,25.0,1,1,summary,
+west_jordan,Kelvin Green,2021,Council,At-Large,26713.35,20301.73,1,1,summary,
+west_jordan,Chad Lamb,2021,Council,At-Large,6577.0,5998.12,1,1,summary,
+west_jordan,Pamela Bloom,2021,Council,At-Large,4700.0,5333.58,1,1,summary,
+west_jordan,Kayleen Whitelock,2021,Council,At-Large,2300.0,3140.54,2,2,summary,
+west_jordan,Mike S. Withers,2021,Council,At-Large,2282.5,2282.5,1,1,summary,
+west_jordan,Mikey Smith,2021,Council,At-Large,551.19,25.0,1,1,summary,
+west_jordan,Chad Lamb,2023,Council,1,5141.93,5360.05,3,3,sum-interim,
+west_jordan,Rulon Green,2023,Council,1,2605.82,2172.08,2,2,override,"OVERRIDE: CUMULATIVE Column-A filer (page-verified from the born-digital sidecar): his Nov-14 General Election Report prints Column A = Column B Year-to-Date = $2,605.82 and its Schedule A re-lists all 8 of the 28-Day report's rows (28-Day items sum $1,220.23 + new items $1,385.59 = $2,605.82 exactly), so sum-interim double-counted the 28-Day period ($3,826.05 -> $2,605.82). Spent: the General's balance block proves cycle spend = line-5 $2,605.82 - line-7 close $433.74 = $2,172.08 (vs the double-counted $3,392.31)"
+west_jordan,Bob Bedore,2023,Council,2,8260.0,8201.48,4,4,sum-interim,
+west_jordan,Zach Jacob,2023,Council,3,11385.3,10731.72,3,3,sum-interim,
+west_jordan,David Pack,2023,Council,4,9600.0,15814.86,4,4,sum-interim,
+west_jordan,Kent Shelton,2023,Council,4,7180.04,6486.05,4,4,sum-interim,
+west_jordan,Dirk Burton,2023,Mayor,,15825.0,10268.37,4,3,sum-interim,
+west_jordan,Kayleen Whitelock,2023,Mayor,,13735.55,9996.31,4,3,sum-interim,
+west_jordan,David Pack,2025,Council,,8822.32,11522.32,3,3,override,"OVERRIDE: MIXED-SCOPE filer (page-verified): the Sep-10 Post-Primary Report's Column A ($8,822.32 / $11,522.32) is CYCLE-TO-DATE - its Schedule A re-lists the July primary items (self $7,322.32, SLBoR $3,000 in-kind, both dated 07/22) plus new DAI $1,000 + Ivory $500; the Sep-12 Amended Post-Primary isolates the true period at $1,500/$1,500 = $8,822.32 - $7,322.32 exactly. Cycle = the Post-Primary cumulative Column A (equivalently primary $7,322.32/$10,022.32 + amended period $1,500/$1,500); the sum-interim figure $7,322.32/$10,022.32 dropped the post-primary period. Resolves this row's MIXED review_flag"
+west_jordan,Kelvin Green,2025,Council,,6052.25,9773.11,2,2,sum-interim,"MIXED: latest summary $2,431 vs summed interims $9,773 spent — took the larger; verify per-candidate incremental-vs-cumulative"
+west_jordan,JD Sheppard,2025,Council,,1730.0,1487.22,3,2,sum-interim,
+west_jordan,Rulon Green,2025,Council,,150.0,155.52,3,2,summary,
+west_jordan,Eric Hanna,2025,Council,,0.0,50.0,2,2,summary,
+west_jordan,Annette Harris,2025,Council,At-Large,29541.67,22338.18,5,4,sum-interim,"MIXED: latest summary $8,119 vs summed interims $22,338 spent — took the larger; verify per-candidate incremental-vs-cumulative"
+west_jordan,Rob Bennett,2025,Council,At-Large,30451.5,18771.72,6,4,max-mixed,"MIXED: latest summary $18,772 vs summed interims $13,966 spent — took the larger; verify per-candidate incremental-vs-cumulative"
+west_jordan,Sergio Sotelo,2025,Council,At-Large,24200.0,11924.66,8,4,sum-interim,
+west_jordan,Jessica Wignall,2025,Council,At-Large,23883.71,7621.94,4,4,sum-interim,
+west_jordan,Kayleen Whitelock,2025,Council,At-Large,4150.0,6263.12,4,4,override,"OVERRIDE: CUMULATIVE filer both sides (page-verified, 28-Day Summary Page read 2026-07-20): 28-Day Column A $4,150.00 equals its OWN full Schedule-A cash itemization INCLUDING the re-listed primary rows (Schow $75 + Johnson $75), and its Schedule B re-lists all 9 primary expenditure rows ($653.31) + 6 new = $6,185.92 = Column A; the filer still computed Column B mechanically (150+4150=$4,300 / 593.67+6185.92=$6,779.59), double-counting. Cycle raised = $4,150.00 (General + Post-General add $0); spent = $6,185.92 + the Post-General's single NEW item $77.20 (11/20 Sams Club) = $6,263.12 (vs double-counted $4,300.00/$6,839.23)"
+west_jordan,Chris McConnehey,2025,Council,At-Large,10650.0,3952.48,5,4,sum-interim,

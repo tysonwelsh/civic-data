@@ -1,0 +1,92 @@
+{
+ "date": "2020-08-11",
+ "year": 2020,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2020/2020-08-10/2020-08-11_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Kent Burggraaf",
+  "Don Quigley",
+  "Anna Barbieri",
+  "Lynette Wendel",
+  "David Wright",
+  "Gordon Willardson",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Burggraaf - I move for approval of the Minutes for July 14, 2020 as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Kent Burggraaf",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel - I will make a motion. I move that we approve File 35C20, consideration of a conditional use permit for the operation of an automotive service and repair, minor business within 250 feet of a residential district according to Staff’s Findings and Conditions",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5-2 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Lynette Wendel",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "Don Quigley",
+    "Marc McElreath",
+    "Lynette Wendel",
+    "Kent Burggraaf",
+    "Gordon Willardson"
+   ],
+   "nay": [
+    "David Wright",
+    "Anna Barbieri"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "5-2",
+   "case_no": [
+    "35C20"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

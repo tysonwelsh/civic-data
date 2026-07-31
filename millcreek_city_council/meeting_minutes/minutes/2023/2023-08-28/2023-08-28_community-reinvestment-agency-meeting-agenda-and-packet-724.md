@@ -1,0 +1,115 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08282023-724
+> Meeting date: 2023-08-28
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2023-08-28
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08282023-724
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                         Minutes             of the
+                                                              Millcreek         Community                 Reinvestment                Agency
+                                                                                         August          28, 2023
+                                                                                                7:00      p.m.
+                                                                                        Regular           Meeting
+
+
+
+
+ The Community              Reinvestment           Agency       of Millcreek,          Utah,     met in a regular            public      meeting       on
+August        28, 2023,      at City     Hall,    located     at 3330 S. 1300 E., Millcreek,                      Utah      84106.     The meeting
+was live streamed             via the City's        website      with     an option       for online          public     coinment.
+
+
+PRESENT:
+
+
+Board         Members                                                   City    Staff
+Jeff Silvestrini,         Chair                                         John Brems,            City Attorney
+Silvia      Catten                                                      Elyse     Sullivan,        Agency         Recorder
+Thom        DeSirant                                                    Francis      Lilly,      Assistant        City Manager
+Cl'ieri Jackson          (electronic)                                   Kurt    Hansen,         Facilities       Director
+Bev Uipi        (excused)                                               Jim Hardy,            Building       Official
+                                                                        Mike     Winder,         City Manager
+                                                                        Lisa Dudley,            HR-Finance             Director
+
+
+Attendees:           Lt. Petty-Brown
+
+
+REGULAR               MEETING:            7:00 p.m.
+TIME          COMMENCED:                  7:29 p.m.
+
+
+
+Chair     Silvestrini       called    the meeting         to order.
+
+
+1. Discussion           and Consideration                of Resolution         23-04,     Approving              the Use of $424,727.46                   of
+the Agency's            Housing       Allocation         for the Howick             Project,       $100,000          of which        will    be a Grant
+and $324,727.46             will     be a Loan        Repaid      on Closing          of Permanent               Financing
+Mike     Winder         said the Howick           (4101     S Howick        Street)      was a housing             project     (5 stories      with     150
+units)    in the West        Millcreek        Urban      Development           Area.     The project           had already        received        grants
+for being      an affordable          housing      project.     The units would               be deed restricted             for affordable
+housing       from      30-65%       of the Average median              income       of the county.            This project        was       under
+financial      restraints     with     the current        cost of construction            and the housing               market.    Millcreek          staff
+suggested       using     $424,427.46            ($300    less than the resolution               initially       had) of the Cominunity
+Reinvestment            Agency's        housing     allocation        to pay the city of Millcreek                     for the building         pei'mit
+fees. When        the project        closed      on permanent          financing,       which       would        occur prior       to receiving           the
+certificate     of occupancy,           tlie developer         would      pay $324,427.46                back. The remaining                 $100,000
+would       be theirs    as a grant.      Staff felt this was a fiscally                responsible          thing      to do to help generate
+tl'ie tax increment         in the area and morall                             able to                   lish the        a 's ho         a
+Mfflcreek       CRA       Meeting       Minutes                                                   28 August        2023      Page 2 of 2
+
+
+Chair     Silvestrini      said part of the Agency's                  budget     was set aside for affordable               housing.    Winder
+said there was a risk of losing                money         if tl'ie project       did not get completed.            Tlie agency,      CDC
+Utah,     was dependable            in the coini'nunity.            Board      Member      Catten       asked if there was a downside in
+setting     this precedent.         Winder      said the Agency              had to decide         if this was a project worth spending
+the money       on versus      something          else tliat may show up. Chair                     Silvestrini      said the project       was
+attractive     because      it liad a range of affordability.                   Board     Member          DeSirant     pointed     out that about
+a third    of the units had a 3 or more bedroom                         count,      so it was designed            for families.
+
+
+Board        Member        DeSirant       moved       to approve            Resolution           23-04,    Approving         the Use of
+$424,427.46          of the Agency's           Housing          Allocation          for the Howick       Project, $100,000 of which
+will    be a Grant        and $324,427.46             wil}     be a Loan         Repaid         on Closing of Permanent Financing.
+Board        Member        Catten      seconded.        Chair         Silvestrini       called     for the vote. Board            Member
+Catten       voted      yes, Board      Member          DeSirant          voted      yes, Board           Member       Jackson      voted yes,
+and Chair        Silvestrini        voted     yes. The motion               passed      unanimously.
+
+
+2. Approval          of July 10, 2023 Meeting                   Minutes
+
+
+Board        Member        DeSirant         moved       to approve           the July     10, 2023 meeting             minutes.      Board
+Member         Catten      seconded.          Chair     Silvestrini         called      for the vote.       Board      Member        Catten
+voted     yes, Board        Member           DeSirant         voted     yes, Board         Member          Jackson        voted    yes, and
+Chair      Silvestrini      voted     yes. The        motion        passed       unanimously.
+
+
+Chair     Silvestrini      thanked      staff for bringing            the proposal        to the Agency.
+
+
+ADJOURNED:                 Board       Member         DeSirant           moved       to adjourn           the meeting       at 7:39 p.m.
+Board        Member        Catten      seconded.        Chair         Silvestrini       called     for the vote. Board            Member
+Catten       voted      yes, Board      Member          DeSirant            voted    yes, Board           Member       Jackson      voted     yes,
+and Chair        Silvestrini        voted     yes. The motion               passed       unanimously.
+
+
+
+                                                                                                                     Date         (l-27i- ?iD2,3
+                                                             Jeff   Snvestrini,         Chair
+
+
+
+                                    Attest:
+

@@ -1,0 +1,11 @@
+date,body_id,kind,reason,verified_date
+2022-09-06,6587,mislabel,PMN (Meeting Minutes)-labeled attachment '09-06-22 Packet.pdf' is an agenda packet not minutes — excluded,2026-07-05
+2025-01-01,6587,other,"'Annual Meeting Notice' (Jan 1) — yearly organizational/meeting-schedule notice, not a meeting",2026-07-17
+2025-01-01,340,other,"'Annual Meeting Notice' (Jan 1) — PC yearly meeting-schedule notice, not a meeting",2026-07-17
+2026-01-01,340,other,"'Annual Meeting Notice' (Jan 1) — PC yearly meeting-schedule notice, not a meeting",2026-07-17
+2020-07-28,6587,wrong_body,"PMN 'Meeting Agenda' under combined 6587 is a Parks & Recreation Advisory Committee meeting (Zoom, 1875 Monroe Blvd), NOT a Council/RDA/MBA meeting — advisory committee is out of scope",2026-07-19
+2020-10-07,340,unrecovered_gap,Genuine PC public hearing (Petition 2020-5 child-care def; Title 15 open-space amendment); 2020-2023 Ogden published no standalone PC minutes (embedded in next packet) and PMN holds only the notice — logged in planning_commission/minutes_unrecovered.csv as an honest gap / recovery lead,2026-07-19
+2020-11-04,6587,wrong_body,"PMN 'Public Hearing Notice' under 6587 is actually a Planning Commission hearing — notice text names 'Ogden City Planning Commission will meet Wednesday, November 4, 2020' (Petitions 2020-7/2020-8); the PC meeting is already logged in planning_commission/minutes_unrecovered.csv",2026-07-19
+2022-01-18,6587,known_gap,"Special Redevelopment Agency (RDA) meeting agenda; falls in the documented 2022 RDA/MBA confirmed-unavailable gap (2022 RDA minutes never acquired, not on PMN as minutes) — see meeting_minutes/CLAUDE.md",2026-07-19
+2022-10-25,6587,known_gap,"Special RDA meeting (roll call + closed session) agenda; documented 2022 RDA/MBA confirmed-unavailable gap (not on PMN as minutes, never acquired)",2026-07-19
+2024-05-01,6587,wrong_date,"CDBG 'Annual Action Plan FY2025' hearing NOTICE dated 2024-05-01; the hearing itself is Tuesday May 7, 2024 6pm (regular Council meeting) — no meeting held 2024-05-01; the 2024-05-07 Council + RDA minutes are already in the index",2026-07-19

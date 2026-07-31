@@ -1,0 +1,468 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2026-03-25
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2026/03.25.2026.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 8
+audio: 03.25.2026.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page | of 8
+
+LAR™
+Utah County
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+March 25, 2026 - 2:00 PM
+
+Board members may participate electronically, when necessary, with the anchor location designated as
+stated above.
+
+The public may participate at the anchor location stated above. Public comments will be limited to two
+(2) minutes per individual unless otherwise approved by the Board.
+
+You may watch the meeting live on YouTube under the heading UTAH COUNTY GOVERNMENT or by
+going to the link: ://www. CO) UtahCoun
+
+Next two upcoming Commission meeting dates: Wednesday, April 1, 2026, at 2:00 p.m. and
+Wednesday, April 22, 2026, at 2:00 p.m.
+
+~COMMISSION MEETING MINUTES~
+
+In attendance: Commissioner Skyler Beltran (Chair), Commissioner Amelia Powers Gardner, and
+Commissioner Brandon B. Gordon.
+
+Others in attendance: See attached sign-in sheet.
+
+(Meeting called to order: 2:09 pm)
+
+PRAYER/READING/THOUGHT: Katrina Cole
+PLEDGE OF ALLEGIANCE: Adam Beck
+
+PUBLIC HEARING
+
+1. PUBLIC HEARING TO DISCUSS THE CREATION OF THE NEW SOUTH FORK LAND
+2026 AGRICULTURE PROTECTION AREA. THE AREA TO BE CONSIDERED IS
+APPROXIMATELY 21 ACRES LOCATED IN SECTION 10, TOWNSHIP 9 SOUTH, RANGE 2
+EAST, SLB&M, LOCATED IN THE AREA EAST OF PAYSON CITY IN UNINCORPORATED
+UTAH COUNTY.
+
+-Kevin Stinson, Community Development
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 2 of 8
+
+Motion to Open Public Hearing: Commissioner Powers Gardner
+Seconded by: Commissioner Gordon
+
+Vote: All in favor - Aye
+
+Result: Motion passed 3/0
+
+No Comment
+
+Motion to Close Public Hearing: Commissioner Powers Gardner
+Seconded by: Commissioner Gordon
+
+Vote: All in favor - Aye
+
+Result: Motion passed 3/0
+
+CONSENT AGENDA
+
+1. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 6-2026
+-Jolynn Clegg, Clerk
+
+Approved on Consent
+
+2. RATIFICATION OF WARRANT REGISTER FOR MARCH 25, 2026 INCLUDING NOTES
+AND COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE INTERNAL
+
+SYSTEM
+-Jolynn Clegg, Clerk
+
+Approved on Consent
+
+3. RESOLUTION AUTHORIZING ADJUSTMENTS OF TAXES AS SPECIFIED IN LETTER
+#60542 DATED FEBRUARY 11, 2026
+-Burt Harvey, Auditor
+
+Approved on Consent
+Resolution 2026-225
+
+4. TO APPROVE THE NOTICE OF CONTINUATION OF THE WOLF 2006 AGRICULTURE
+PROTECTION AREA FOR AN ADDITIONAL 20 YEARS.
+
+-Kevin Stinson, Community Development
+
+Approved on Consent
+Agreement 2026-226
+
+5. TO APPROVE THE NOTICE OF CONTINUATION OF THE JASPERSON 2006
+AGRICULTURE PROTECTION AREA FOR AN ADDITIONAL 20 YEARS.
+
+-Kevin Stinson, Community Development
+
+Approved on Consent
+Agreement 2026-227
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 3 of 8
+
+6. TO APPROVE THE NOTICE OF CONTINUATION OF THE HORTON 2006
+AGRICULTURE PROTECTION AREA FOR AN ADDITIONAL 20 YEARS.
+
+-Kevin Stinson, Community Development
+
+Approved on Consent
+Agreement 2026-228
+
+7. AUTHORIZE THE SIGNING OF A QUIT CLAIM DEED TO THE BOARD OF EDUCATION
+OF NEBO SCHOOL DISTRICT FOR A PARCEL ALONG THE HIGHLINE CANAL IN THE
+
+SANTAQUIN AREA
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-229
+
+8. AUTHORIZE THE SIGNING OF A QUIT CLAIM DEED TO THE U.S.A. BUREAU OF
+RECLAMATION FOR A PARCEL LOCATED ALONG THE HIGHLINE CANAL IN THE
+
+SANTAQUIN AREA
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-230
+
+9. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT WITH SPRINGVILLE CITY FOR THE 1200 WEST - 1550 SOUTH TO
+
+CANYON CREEK PARKWAY PROJECT
+-Richard Nielson, Public Works
+
+Approved on Consent
+Resolution 2026-231
+Agreement 2026-232
+
+10. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT WITH SPRINGVILLE CITY FOR THE 2600 WEST - 400 SOUTH TO 1400
+
+NORTH PROJECT
+-Richard Nielson, Public Works
+
+Approved on Consent
+Resolution 2026-233
+Agreement 2026-234
+
+11. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF THE FIRST AMENDMENT
+TO AGREEMENT 2024-81 WITH SPRINGVILLE CITY FOR THE 800 SOUTH 800 EAST
+
+INTERSECTION PROJECT.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Resolution 2026-235
+Agreement 2026-236
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 4 of 8
+
+12. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH VALVOLINE
+INC, TO PROVIDE FLEET SERVICES AT VARIOUS LOCATIONS FOR COUNTY OWNED
+
+VEHICLES FOR A PERIOD OF THREE (3) YEARS.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-237
+
+13. APPROVE AND AUTHORIZE THE SIGNING OF AMENDMENT #1 TO AGREEMENT
+#2026-60 WITH RBM BUILDING SERVICES, INC., TO REFLECT THE PRICE CHANGE AND
+
+SQUARE FOOTAGE CORRECTION FOR THE SARATOGA SPRINGS WIC CLINIC.
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-238
+
+14. APPROVE AND AUTHORIZE THE SIGNING OF A COOPERATIVE MAINTENANCE
+AGREEMENT WITH THE UTAH DEPARTMENT OF TRANSPORTATION AND LEHI CITY
+
+FOR A PEDESTRIAN CROSSING AT THE JORDAN RIVER AND 2100 NORTH IN LEHI
+-Richard Nielson, Public Works
+
+Approved on Consent
+Agreement 2026-239
+
+15. AUTHORIZE SIGNING OF AGREEMENT WITH DR. GREY FOR EXPERT WITNESS
+
+SERVICES IN A CRIMINAL CASE.
+-Zachary Zundel, Attorney
+
+Approved on Consent
+Agreement 2026-240
+
+16. APPROVE A GRANT FROM THE US FOREST SERVICE FOR LAW ENFORCEMENT
+
+FOREST PATROL ASSISTANCE
+-Doug Willes, Sheriff
+
+Approved on Consent
+Agreement 2026-241
+
+17. APPROVE A FIFTH AMENDMENT TO AGREEMENT NO. 2021-170 WITH SECURUS
+
+TECHNOLOGIES
+-Regan Clark, Sheriff
+
+Approved on Consent
+Agreement 2026-242
+
+18. APPROVE AND AUTHORIZE AN AGREEMENT BETWEEN UTAH COUNTY
+GOVERNMENT AND BLUELINE SERVICES FOR DOT AND NON-DOT DRUG AND
+ALCOHOL TESTING AND ANCILLARY SERVICES.
+
+-Tom Mugleston, Human Resources
+
+Approved on Consent
+Agreement 2026-243
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 5 of 8
+
+19. APPROVE THE PROVISION OF ACTING PAY FOR A POSITION IN THE AUDITOR
+DEPARTMENT, EFFECTIVE MARCH 28, 2026.
+
+-Merritt Fullmer, Human Resources
+
+Approved on Consent
+Agreement 2026-244
+
+REGULAR AGENDA
+
+1. APPROVE THE CREATION AND THE FINDINGS OF FACTS, CONCLUSIONS OF LAW
+AND DECISION TO CREATE THE SOUTH FORK LAND 2026 PROTECTION AREA,
+APPROXIMATELY 21 ACRES.
+
+-Kevin Stinson, Community Development
+
+Approved on Consent
+Agreement 2026-245
+
+2. ADOPT A RESOLUTION AUTHORIZING THE SIGNING OF AN INTERLOCAL
+AGREEMENT WITH LEHI CITY FOR THE CONSTRUCTION OF THE UTAH LAKESHORE
+TRAIL - SPRING CREEK SEGMENT WITH THE PONY EXPRESS PARKWAY PROJECT.
+
+-Richard Nielson, Public Works
+(Timestamp: 4:22)
+
+Richard Nielson (Public Works Director) explained that the project is MAG funded and
+was approved 10 years ago. The county has 1.1 million of MAG money going
+towards the trail project. The trail will parallel the road and the TSSD sewer line.
+Because the MAG funding is quite old the current estimate is 2.8 million. An
+additional 1.7 million will come from the 4" quarter.
+
+Motion to approve item two: Commissioner Gordon
+Seconded by: Commissioner Powers Gardner
+Vote: Allin favor - Aye
+
+Result: Motion passed 3/0
+Resolution 2026-246
+Agreement 2026-247
+
+3. APPROVE THE SIGNING OF A SUBAWARD AGREEMENT WITH UTAH DEPARTMENT
+
+OF ENVIRONMENTAL QUALITY.
+-Juli Van Ginkel, Health
+
+Approved on Consent
+Agreement 2026-248
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 6 of 8
+
+4. AUTHORIZE A CHANGE TO THE STAFFING PLAN IN THE CLERK DEPARTMENT TO
+ADD ONE (1) FULL-TIME, CAREER SERVICE, ELECTIONS ADMINISTRATIVE MANAGER
+POSITION AND DELETE ONE (1) FULL-TIME, CAREER SERVICE, ELECTIONS
+COORDINATOR POSITION. [STAFFING PLAN DETAILS FOR HR USE: ACCOUNT 100-
+41700 - CLERK - ELECTIONS, ADD JOB CODE 2027, GRADE 725 AND DELETE JOB CODE
+2224, GRADE 721; SUPERVISORY ORG: CLK - ELECTIONS DIRECTOR.]
+
+-Mhai Lee, Human Resources
+
+Approved on Consent
+Agreement 2026-249
+
+5. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT BETWEEN UTAH
+COUNTY AND THE SPRINGVILLE MUSEUM OF ART ASSOCIATION
+
+-Adam Beck, Commission
+
+Approved on Consent
+Agreement 2026-250
+
+6. APPROVE A PARTICIPATION AND RELEASE FORM IN THE "SIX REMAINING
+DEFENDANTS" NATIONAL OPIOID LAWSUIT SETTLEMENT
+
+-Ezra Nair, Commission
+
+Approved on Consent
+Agreement 2026-251
+
+7. APPROVE AND AUTHORIZE A RESOLUTION PROCLAIMING SUNDAY, MARCH 29
+2026, AS EDUCATION AND SHARING DAY IN UTAH COUNTY, UTAH
+
+-Commissioner Amelia Powers Gardner, Commission
+
+Approved on Consent
+Resolution 2026-252
+
+8. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Stricken on Consent
+
+9. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Held on Consent
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+
+March 25, 2026
+
+Page 7 of 8
+
+10. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Stricken on Consent
+
+11. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Jolynn Clegg, Clerk
+
+Stricken on Consent
+
+PUBLIC COMMENTS
+
+None
+
+(Moved to Closed Meeting: 2:14 p.m.)
+
+(Opened to Public Meeting: 2:31 p.m.)
+
+Motion to Adjourn: Commissioner Gordon
+Seconded by: Commissioner Powers Gardner
+Vote: Allin favor - Aye
+
+Result: Motion passed 3/0
+
+Meeting Adjourned
+
+(Meeting adjourned: 2:32 p.m.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS - In compliance with the Americans
+with Disabilities Act, individuals needing special accommodations (including auxiliary communicative
+aids and services) during this meeting should notify the Utah County Clerk's Office at 801-851-8113.
+Handicap parking is available as well as a level entrance to the building. Interpretation services are
+available with prior notice for the hearing disabled.
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting
+March 25, 2026
+
+Page 8 of 8
+BOARD OF COMMISSIONERS OF UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+March 25, 2026 - 2:00 p.m.
+PRINT CLEARLY
+Name: Agency:
+SRowWsy FCAV Fa2LS
+Kudkly Nn Friday ( Ler
+
+i Adue & aotre cd
+(Leasama Wak oe
+Ti “halt lic
+Theron Case - fesesson He
+Ads Teen aio
+
+Meeting minutes approved at the April 1, 2026 Board of Commissioners of Utah County,
+Utah Public Meeting.
+
+Xe lev 1 Tian
+
+SKYLER BELTRAN, Chair
+
+Way
+
+we
+
+ATTEST:
+AARON R. DAVIDSON
+
+ore
+By:
+
+Deputy
+
+ree

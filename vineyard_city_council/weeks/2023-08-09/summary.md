@@ -1,0 +1,10 @@
+# Vineyard council week ending 2023-08-09
+_Window 2023-08-03 – 2023-08-09_
+
+- **Meetings:** 1 — city council meeting
+- **Votes:** 9 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 45 member-vote rows across 9 motions
+- [2023-08-09_city-council-meeting.md](../../meeting_minutes/minutes/2023/2023-08-07/2023-08-09_city-council-meeting.md)

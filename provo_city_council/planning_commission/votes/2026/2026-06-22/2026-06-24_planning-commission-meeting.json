@@ -1,0 +1,115 @@
+{
+ "date": "2026-06-24",
+ "title": "Planning Commission",
+ "source": "planning_commission/minutes/2026/2026-06-22/2026-06-24_planning-commission-meeting.md",
+ "format": "text",
+ "parse_warnings": [],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "*ITEM 1 R. Jay Henrie requests approval of a Zone Map Amendment from the R1.20 (One-Family Residential) Zone to the SDP4 (Lakeview Fields) Zone in order to create a 33-lot single-family subdivision, located at 1804 N Geneva Road. Lakeview North Neighborhood. Dustin Wright (801) 852-6414 dwright@provo.gov PLRZ20260092",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20260092",
+   "motion_type": "Subdivision/Plat",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 7:0",
+   "mover": "Lisa Jensen",
+   "seconder": "Melissa Kendall",
+   "aye": [
+    "Lisa Jensen",
+    "Melissa Kendall",
+    "Anne Allen",
+    "Jon Lyons",
+    "Jonathon Hill",
+    "Joel Temple",
+    "Matt Wheelwright"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "*ITEM 2 Bryan Bayles requests a General Plan Map Amendment for approximately 100.7 acres of land to move from the Agricultural (A) and Parks, Recreation, or Open Space (PR&OS) designations to a Commercial (C) designation to allow for an entertainment and hospitality development, located at 6622 N Hwy 189. North Timpview Neighborhood. Aaron Ardmore (801) 852-6404 aardmore@provo.gov PLGPA20260220",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLGPA20260220",
+   "motion_type": "General Plan Amendment",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 2:5",
+   "mover": "Jonathon Hill",
+   "seconder": "Jon Lyons",
+   "aye": [
+    "Jonathon Hill",
+    "Jon Lyons"
+   ],
+   "nay": [
+    "Anne Allen",
+    "Lisa Jensen",
+    "Melissa Kendall",
+    "Matt Wheelwright",
+    "Joel Temple"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "*ITEM 3 Bryan Bayles requests a Zone Map Amendment from the A1.5 (Agricultural), PF (Public Facilities), and OSPR (Open Space, Preservation, and Recreation) Zones to the SC3 (Regional Shopping Center) Zone for approximately 100.7 acres of land to allow for an entertainment and hospitality development, located at 6622 N Hwy 189. North Timpview Neighborhood. Aaron Ardmore (801) 852-6404 PLRZ20260221",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLRZ20260221",
+   "motion_type": "Rezone",
+   "action_class": "pc_recommendation",
+   "result": "Negative recommendation 5:2",
+   "mover": "Joel Temple",
+   "seconder": null,
+   "aye": [
+    "Joel Temple",
+    "Anne Allen",
+    "Lisa Jensen",
+    "Melissa Kendall",
+    "Matt Wheelwright"
+   ],
+   "nay": [
+    "Jonathon Hill",
+    "Jon Lyons"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "ITEM 4 Bryan Bayles requests Concept Plan approval for an entertainment and hospitality development in a proposed SC3 (Regional Shopping Center) Zone, located at 6622 N Hwy 189. North Timpview Neighborhood. Aaron Ardmore (801) 852-6404 PLCP20260222",
+   "body": "PlanningCommission",
+   "acting_body": "PlanningCommission",
+   "pl_code": "PLCP20260222",
+   "motion_type": "Project Plan",
+   "action_class": "pc_final_action",
+   "result": "7:0 Denied (Final Action)",
+   "mover": "Lisa Jensen",
+   "seconder": "Joel Temple",
+   "aye": [
+    "Lisa Jensen",
+    "Joel Temple",
+    "Anne Allen",
+    "Matt Wheelwright",
+    "Jonathon Hill",
+    "Jon Lyons",
+    "Melissa Kendall"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

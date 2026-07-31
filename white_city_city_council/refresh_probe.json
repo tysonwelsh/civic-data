@@ -1,0 +1,25 @@
+{
+  "meeting_minutes": {
+    "probe_date": "2026-07-19",
+    "portal": "streamline",
+    "index_max_date": "2026-06-11",
+    "index_rows": 124,
+    "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
+    "status": "ok",
+    "endpoint": "https://whitecity.utah.gov/council-meetings",
+    "new_count": 0,
+    "notes": "Streamline year pages (/meetings-archive + /council-meeting?year=YYYY + /council-meetings); minutes docs only (agendas/packets/PC/audio excluded); dates already indexed or in minutes_unrecovered.csv are excluded. | PMN body 5805: 0 council notice date(s) newer than index max (cross-check only — Streamline is the authoritative fetch source) | PMN PC body 5879: 0 PC notice date(s) newer than the PC index max — cross-check only (open to confirm minutes vs agenda; the sporadic PC series is never auto-ingested)",
+    "new_items": []
+  },
+  "planning_commission": {
+    "probe_date": "2026-07-19",
+    "portal": "pmn-5879-crosscheck",
+    "index_max_date": "2025-05-20",
+    "index_rows": 22,
+    "status": "ok",
+    "new_count": 0,
+    "new_items": [],
+    "notes": "PMN PC body 5879: 0 PC notice date(s) newer than the PC index max — cross-check only (open to confirm minutes vs agenda; the sporadic PC series is never auto-ingested)",
+    "fetch_cmd": "PC minutes are PMN-recovered (body 5879) — a separate reviewed step"
+  }
+}

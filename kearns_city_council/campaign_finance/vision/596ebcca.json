@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "6-7-17", "name": "SELF", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6-7-17", "recipient": "COUNTY CLERK", "purpose": "FILING FEE", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50.00",
+  "total_expenditures": "50.00",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/alan_peterson_trip_kearns.pdf",
+    "candidate": "Alan Peterson",
+    "office": "Metro Township Council Seat 2",
+    "filing_type": "interim",
+    "election_year": "2017",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/alan_peterson_trip_kearns.pdf",
+    "pages": 4
+  },
+  "_notes": "4-page PDF (cover October 31 box checked dated 10-26-17; Summary Page; Itemized Contributions; Itemized Expenditures) -- four distinct pages of one report, no duplicate copies despite 'trip' token. Summary Line 1 contributions Col A = 50.00, Line 2 expenditures Col A = 50.00 (Col B year-to-date blank on both), Line 3 beginning balance = 0 (circle); lines 4-7 left blank so ending balance null. Contributor name reads 'SELF'. This is a <=$500 campaign that itemized anyway."
+}

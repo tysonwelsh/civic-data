@@ -1,0 +1,23 @@
+{
+  "contributions": [
+    {"date": "11/17/2025", "name": "Douglas Denning", "amount": "903.73", "in_kind": false},
+    {"date": "11/3/2025", "name": "Douglas Denning", "amount": "30.00", "in_kind": false},
+    {"date": "11/3/2025", "name": "Douglas Denning", "amount": "45.00", "in_kind": false}
+  ],
+  "expenditures": [],
+  "total_contributions": "978.73",
+  "total_expenditures": "978.73",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/2025_denning_cf_12-04_final.pdf",
+    "candidate": "Douglas Denning",
+    "office": "Council At-Large B",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/white_city_city_council/campaign_finance/raw/2025_denning_cf_12-04_final.pdf",
+    "pages": 5,
+    "transcription_note": "born-digital text 2026-07-17. COLUMN-PLACEMENT QUIRK: Denning's ~$978.73 self-funded printing (Printing $903.73 + Paper $30 + Ink $45, all 'Douglas Denning') is itemized under Schedule A (Itemized Monetary CONTRIBUTIONS), not Schedule B — captured verbatim where the filer placed it (flag, do not move). Schedule B left N/A/blank; Summary Column C/D TOTAL EXPENDITURES = $978.73. So contributions itemize $978.73 (reconciles) and the expenditure side is totals-only ($978.73 cover, blank schedule -> UNKNOWN). Write-in candidate; self-funded -> classifies candidate-self."
+  }
+}

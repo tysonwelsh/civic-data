@@ -1,0 +1,17 @@
+VINEYARD VOTE EXTRACTION — VALIDATION REPORT
+============================================================
+meetings (json files): 172
+motions: 1076
+motions with numeric tally mismatch: 2
+motions with no parsed result: 0
+motions tally-only (names_recorded=false): 22
+
+NOTE: the single remaining TALLY_MISMATCH (2024-05-08 m8) is a SOURCE-DOCUMENT
+error, not a parse error: only 4 members were present (Rasmussen excused) and
+the roll call lists 3 Yes + 1 No, but the clerk wrote 'CARRIED FOUR TO ONE'.
+Extraction reflects the named roll call (3-1); the stated tally is wrong.
+
+DETAIL (mismatches / missing results):
+------------------------------------------------------------
+2024-05-08  m8  [TALLY_MISMATCH stated 4-1 vs aye=3 nay=1 abstain=0]  result='4-1 Pass'  src=2024-05-08_city-council-meeting.json
+2025-08-26  m3  [TALLY_MISMATCH stated 4-1 vs aye=4 nay=0 abstain=0]  result='4-1 Pass'  src=2025-08-26_city-council-special-session.json

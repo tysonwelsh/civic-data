@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "date": "2025-04-23",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7719576&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-04-21/2025-04-23_planning-commission-meeting.md",
+    "present": [
+      "Bree Scheer",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Brian Scott"
+    ],
+    "absent": [
+      "Landon Kraczek",
+      "Aimee Burrows",
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "",
+      "result": "5:1 Pass",
+      "tally": {
+        "yes": 5,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Brian Scott",
+        "Mike Christensen",
+        "Bree Scheer",
+        "Amy Barry"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt this request",
+      "description": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt this request",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Brian Scott",
+      "result": "Positive recommendation 5:0",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Amy Barry",
+        "Mike Christensen",
+        "Richard Leverett",
+        "Brian Scott"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt this request",
+      "description": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt this request",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Brian Scott",
+      "result": "Positive recommendation 5:0",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Amy Barry",
+        "Mike Christensen",
+        "Richard Leverett",
+        "Brian Scott"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

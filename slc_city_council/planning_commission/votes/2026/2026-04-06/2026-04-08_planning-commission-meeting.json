@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "date": "2026-04-08",
+    "year": "2026",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2026/PC%204.8.2026%20Meeting%20Docs/PC04.08.2026minutes.pdf",
+    "minutes_file": "planning_commission/minutes/2026/2026-04-06/2026-04-08_planning-commission-meeting.md",
+    "present": [
+      "Brian Scott",
+      "Amy Barry",
+      "Richard Leverett",
+      "Anna Sullivan"
+    ],
+    "absent": [
+      "Jeffrey Barrett",
+      "Aimee Burrows",
+      "Mike Vela"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve",
+      "description": "approve",
+      "motion_type": "Planned Development",
+      "action_class": "final_action",
+      "mover": "Amy Barry",
+      "seconder": "Anna Sullivan",
+      "result": "4:0 Approved (Final Action)",
+      "tally": {
+        "yes": 4,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Richard Leverett",
+        "Brian Scott",
+        "Anna Sullivan"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "initiate a petition to remove community correctional facilities from the land use tables in Salt Lake City as a conditional use",
+      "description": "initiate a petition to remove community correctional facilities from the land use tables in Salt Lake City as a conditional use",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "",
+      "seconder": "Lilah Rosenfield",
+      "result": "4:0 Approved (Final Action)",
+      "tally": {
+        "yes": 4,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Richard Leverett",
+        "Brian Scott",
+        "Anna Sullivan"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+# Riverton Planning Commission Meeting — 2021-06-10
+> Source: https://www.utah.gov/pmn/files/749689.pdf
+> Meeting date: 2021-06-10
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/683485.html
+> Format: text
+
+Approved: PC 8.12.21
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                   June 10, 2021
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Municipal Building, 12830 South 1700 West, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Troy Rushton, Chair                              Jason Lethbridge, Development Services Director
+Keith Breinholt                                  Craig Bott, City Attorney
+Natalia Brown
+Gary Cannon
+Shelly Cluff
+Brian Russell
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Troy Rushton called the meeting to order at approximately 6:30 p.m.
+Commissioner Breinholt led the Pledge of Allegiance.
+
+2.     PUBLIC HEARING ITEMS
+
+       a.     REZONE: BLOOMING MINDS REZONE FOR 0.84-ACRES LOCATED AT
+              3443 WEST 12600 SOUTH. PROPERTY IS ZONED RR-22, REQUESTED
+              ZONING IS C-G OR C-PO, JOANNA WILLIAMS, APPLICANT.
+
+Chair Rushton opened the public hearing.
+
+Development Services Director, Jason Lethbridge presented the staff report and stated that
+the above matter involves a request from Blooming Minds Day Care for a rezone for 0.84-
+acre located at 3443 West 12600 South. The General Plan for the property is Professional
+Office, however, because it was formerly a meeting house for a religious entity, the use is
+allowed in a residential but not a commercial zone. He explained that the building is being
+sold to the applicant who has requested a Commercial Gateway Zone or Commercial
+Gateway Zone. A property rendering was displayed. Staff recommended approval of the
+rezone as it is consistent with the General Plan as well as use of the building.
+
+Commissioner Cluff asked if the applicant had a preference between the two commercial
+zones. Mr. Lethbridge stated that he would leave that for the applicant. He clarified that the
+request is a permitted use in the Commercial Gateway Zone and a conditional use in the
+Professional Office Zone.
+
+Chair Rushton raised a question regarding interconnectivity where parcels on both sides are
+being developed as commercial. Mr. Lethbridge indicated that interconnectivity is always
+challenging and with this property, there is ample room for the circulation needed. He stated
+they would want to further review the interconnectivity with the adjacent property during the
+site plan process.
+Riverton City Planning Commission Meeting                                                 2
+June 10, 2021
+
+
+The applicant, Linda Rushton, reported that she is purchasing the building and intends to
+use it as a preschool. There is a care center located on one side and a future commercial
+use on the other.
+
+There were no further public comments. Chair Rushton closed the public hearing.
+
+Commissioner Cluff moved to APPROVE Application PLZ 21-4004 rezone of 0.84-
+acres located at 3443 West 12600 South and changing the zoning to Commercial
+Professional Office. Commissioner Russell seconded the motion. The motion passed
+with the unanimous consent of the Commission.
+
+       b.     HOME OCCUPATION: BURTON ARMS, LLC TO BE LOCATED AT 13659
+              SOUTH 2780 WEST, SEAN BURTON, APPLICANT.
+
+Chair Rushton opened the public hearing.
+
+Mr. Lethbridge presented the staff report and reported that the above matter involves a
+request from Burton Arms, LLC. for a home occupation located at 13659 South 2780 West
+for the building and manufacturing of custom firearms and ammunition. He stated that the
+term “manufacturing” in this application is unique to guns. Any alteration or modification is
+classified by the Bureau of Alcohol, Tobacco, and Firearms, (“ATF”) as manufacturing. He
+clarified that the application does not involve large-scale manufacturing that is prohibited in
+the ordinance. The Police Department had not expressed any concerns and indicated that
+this type of use is tightly controlled through ATF. He confirmed that any guns and
+ammunition are required to be kept in a safe. Staff received several phone calls from
+neighbors asking for more information. Staff recommended approval with the conditions
+set forth in the staff report.
+
+There were no further public comments. Chair Rushton closed the public hearing.
+
+Commissioner Russell moved to APPROVE Application PLZ 21-2021 Burton Arms,
+LLC located at 13659 South 2780 West with the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     The applicant must obtain and maintain a Federal Firearms License.
+
+       3.     The applicant must obtain and maintain a Riverton City business license.
+
+       4.     The Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and this approval, including limiting use of the
+              accessory building to 50% of the space or less.
+Riverton City Planning Commission Meeting                                   3
+June 10, 2021
+
+
+Commissioner Cannon seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+3.    DECISION ITEMS
+
+      a.    NONE.
+
+4.    DISCUSSION ITEMS
+
+      a.    NONE.
+
+5.    MINUTES
+
+      a.    MAY 13, 2021.
+
+Commissioner Cluff moved to APPROVE the minutes of May 13, 2021. Commissioner
+Russell seconded the motion. The motion passed with the unanimous consent of the
+Commission.
+
+6.    ADJOURNMENT
+
+The meeting adjourned at approximately 6:45 p.m.
+

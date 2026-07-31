@@ -1,0 +1,231 @@
+# Park City Council Meeting — 2020-01-21
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4138,plainText=false)
+> Meeting date: 2020-01-21
+> Format: text
+
+---
+
+
+PARK CITY COUNCIL MEETING MINUTES
+445 MARSAC AVENUE
+PARK CITY, SUMMIT COUNTY, UTAH 84060
+
+January 21, 2020
+
+The Council of Park City, Summit County, Utah, met in special meeting on January 21,
+2020, at 11:30 a.m. in the City Council Chambers.
+
+REGULAR MEETING
+
+I)      ROLL CALL
+
+      Attendee Name                                        Status
+      Mayor Andy Mayor Beerman
+      Council Member Max Doilney
+      Council Member Becca Gerber
+      Council Member Tim Henney
+      Council Member Steve Joyce                           Present
+      Council Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Leah Langan, Deputy City Recorder
+      None                                                 Excused
+
+III) PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON THE
+AGENDA)
+Mayor Beerman opened the meeting for public input on matters not being addressed on
+the agenda. No comments were given. Mayor Beerman closed the public input portion
+of the meeting.
+
+VI)     NEW BUSINESS
+
+1. Request for Approval of LATE Type 2 Convention Sales Licenses for
+Businesses Operating During the 2020 Sundance Film Festival:
+Beth Bynan, Business License Specialist, presented a list of late convention sales
+license (CSL) applications for approval. The applications were received after the posted
+and advertised deadline of January 10, 2020. Bynan reported the applicants submitted
+complete applications with floor plans, design occupant load, pre-inspection from the
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 21, 2020
+Page|2
+
+Building Department, and paid Republic Service $100 to recoup trash impacts.
+Applicants also paid $1,904.16 per license which was double the normal cost of a CSL.
+
+Council Member Worel asked if Council was allowed to approve up to twelve
+applications. Bynan clarified twelve was specific to liquor.
+
+Mayor Beerman opened the meeting for public input. No comments were given. Mayor
+Beerman closed the public input portion of the meeting.
+
+Council Member Gerber asked if it would be beneficial to implement an additional fee
+for multiple late applications originating from one location. Bynan responded that no
+discussions had taken place specific to CSLs, but the location that had ten applications
+had a major impact due to how many brands were coming in as well as crowd
+management. Special Events staff met with the owner of the premise as well as three
+others in the neighborhood.
+
+Council Member Gerber inquired if a fee would help decrease the number of late
+applicants as well as not allow a certain number of late applications per location.
+Council Member Joyce added that it was easier to add an application to an existing
+location rather than add a new location that had not gone through the inspection
+process. Council Member Gerber agreed but countered that 10 late applications from
+one location seemed excessive. Mayor Beerman noted it was the nature of the
+application process and gave the example of a hospitality suite which required
+applications from every table. Bynan affirmed there were a range of activations in single
+locations.
+
+Council Member Henney stated Council relied on staff to make tweaks to the process
+which led to the current form of allowing locations that have been previously approved
+to repurpose the space. He indicated that Council was open to any suggestions if the
+current process became a burden on staff. Bynan indicated there were a combination of
+factors that made an applicant late, including Thanksgiving being a week later this year.
+Council Member Henney thanked Bynan for her perspective.
+
+Council Member Worel asked if 427 Main Street would have crowd control or if crowd
+control was only applicable if they were serving liquor. Bynan answered staff
+recommended that locations create their own security plan when occupancy reached a
+specific number. Council Member Worel asked if the security plan was a
+recommendation or requirement. Bynan clarified that occupancy security plans were a
+requirement.
+
+Council Member Doilney stated he understood the hassle created by late applicants, but
+due to the nature of the festival, it might be unavoidable. He gave late film entries as an
+example. Bynan concurred it was a difficult line for staff to navigate as they did not want
+
+Park City                                 Page 2                          January 21, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 21, 2020
+Page|3
+
+to facilitate ambushers, but also wanted to keep the public safe so they advertised
+permits and deadlines.
+
+Council Member Henney moved to approve Type 2 Convention Sales Licenses for
+businesses operating during the 2020 Sundance Film Festival. Council Member Gerber
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration to Approve the Amendments to the 2020 Supplemental Plan and
+Level 5 Permit, in a Form Approved by the City Attorney:
+Jenny Diersen, Special Events, presented this item and asked Council to approve two
+additional venues as requested by Sundance. The two venues included a temporary art
+display of sustainable materials by Dell at the Park City Museum, 528 Main Street. Staff
+received information that the specific location outlined in the staff report would not be
+possible, so they were working together to finalize an exterior location at the museum.
+The second location for approval was the High West Nelson Cottage, 651 Park Avenue.
+
+Council Member Gerber inquired about the activations that would take place in the tent
+located at the cottage. Diersen responded that High West was an official sponsor and
+would host a variety of events. Council Member Gerber asked if there would be
+amplified music. Diersen answered High West did not request additional noise
+variances. Council Member Doilney asked if Dell received an alcohol permit. Diersen
+stated the Dell activation would consist of an exterior art display and did not require a
+permit.
+
+Mayor Beerman asked if there were operating hours at the Nelson Cottage. Diersen
+was unsure of specific operating hours, but stated all noise must end by 10:00 p.m. She
+added that one of the conditions of approval was that High West not create additional
+impacts on the residents in the area with the addition of the exterior tent. Mayor
+Beerman inquired if a condition of approval required the tent be closed. Diersen thought
+an addition to include this condition could be made, but was not aware of plans for
+music to play outside of the noise ordinance time. Mayor Beerman asked if all bars were
+required to close their doors regardless of whether music was played. Diersen affirmed.
+Mark Harrington, City Attorney, stated the City already required the restriction and
+warned against enabling music that had not been requested. Diersen added staff
+requested an operation plan from High West to ensure no noise occurred outside of
+ordinance hours in the residential neighborhood.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+
+Park City                                Page 3                          January 21, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 21, 2020
+Page|4
+
+Jonathan Weidenhamer, Economic Development, noted the display area previously
+considered at the Park City Museum would not work. Staff sought permission to allow
+the museum to sublet any portion of their lot to display the art piece which could include
+the Dolly’s Bookstore walkway. Council Member Gerber asked if the entire walkway
+would be blocked. Weidenhamer responded they were attempting to be as flexible as
+possible, but it would not block public access and would maintain wheelchair access.
+Mayor Beerman clarified that the area still had to meet building code criteria.
+
+Council Member Joyce moved to approve the amendments to the 2020 Supplemental
+Plan and Level 5 Permit, in a form approved by the City Attorney. Council Member
+Doilney seconded the motion.
+RESULT: Approved
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+V)      ADJOURNMENT
+
+VI.     PARK CITY REDEVELOPMENT AGENCY MEETING
+
+      I) ROLL CALL
+
+      Attendee Name                                          Status
+      Chair Andy Mayor Beerman
+      Board Member Max Doilney
+      Board Member Becca Gerber
+      Board Member Tim Henney
+      Board Member Steve Joyce                               Present
+      Board Member Nann Worel
+      Matt Dias, City Manager
+      Mark Harrington, City Attorney
+      Leah Langan, Deputy Secretary
+      None                                                   Excused
+
+
+II.) NEW BUSINESS
+
+1. Consideration to Authorize Matt Dias, Executive Director of the Lower Park
+Redevelopment Agency, to Grant Façade Easements on Properties Located at
+1333 & 1353 Park Avenue
+Jason Glidden presented the item and stated staff would like to put façade easements
+on two historic properties that were part of Woodside Phase I in cooperation with the
+RDA.
+
+
+Park City                                Page 4                           January 21, 2020
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+January 21, 2020
+Page|5
+
+Board Member Joyce asked if façade easements were put in place on previous
+properties. Glidden affirmed 1450 and 1460 Park Avenue are protected with façade
+easements. Board Member Joyce asked if easements affected residents from acquiring
+mortgages. Glidden responded that it only protected the nature of the building and had
+not affected mortgages.
+
+Board Member Gerber inquired if the HOA assisted with repair and maintenance
+payments or if the responsibility fell entirely on the homeowners. Glidden answered the
+HOA did assist with repairs.
+
+Chair Beerman opened the meeting for public input. No comments were given. Chair
+Beerman closed the public input portion of the meeting.
+
+Board Member Gerber moved to authorize Matt Dias, Executive Director of the Lower
+Park Redevelopment Agency, to grant façade easements on properties located at 1333
+and 1353 Park Avenue. Board Member Henney seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+VII) ADJOURNMENT
+
+With no further business, the meeting was adjourned.
+
+                                                   _____________________________
+                                                   Leah Langan, Deputy City Recorder
+
+
+
+
+Park City                               Page 5                          January 21, 2020
+

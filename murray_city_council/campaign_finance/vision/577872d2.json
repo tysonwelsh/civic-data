@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": null, "name": "Elizabeth Coronado", "amount": "500.00", "in_kind": false},
+    {"date": null, "name": "Jared Schwartz", "amount": "20.00", "in_kind": false},
+    {"date": null, "name": "Personal Loans", "amount": "508.15", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Meta Ads - FB, IG", "purpose": "", "amount": "1,099.24", "in_kind": false},
+    {"date": null, "recipient": "Fed Ex Printing", "purpose": "", "amount": "75.06", "in_kind": false},
+    {"date": null, "recipient": "Team Lunch", "purpose": "", "amount": "41.04", "in_kind": false},
+    {"date": null, "recipient": "Team Lunch", "purpose": "", "amount": "129.01", "in_kind": false},
+    {"date": null, "recipient": "Team Lunch", "purpose": "", "amount": "33.07", "in_kind": false}
+  ],
+  "total_contributions": "1,028.15",
+  "total_expenditures": "1,377.42",
+  "contributions_50_or_less": null,
+  "beginning_balance": "349.27",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/202509_John-Jeffrey-Evans_17148.docx",
+    "candidate": "John Jeffrey Evans",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202509_John-Jeffrey-Evans_17148.docx",
+    "source_format": "docx-embedded-images",
+    "pages": 4,
+    "vision_note": "Image-based .docx (photographed handwritten form); transcribed from the 4 embedded PNGs (word/media/image1-4.png). Line-item dates not stated on the form (date=null). Schedule A contributions (Coronado 500.00 + Schwartz 20.00 + Personal Loans 508.15 = 1,028.15) reconcile to the printed Schedule-A total; Schedule B expenditures (5 lines) reconcile to the printed 1,377.42. No in-kind Schedule C entries. Report type: 30 Days After Municipal Primary (eliminated in primary)."
+  }
+}

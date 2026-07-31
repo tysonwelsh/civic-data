@@ -1,0 +1,98 @@
+{
+ "date": "2023-08-08",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2023/2023-08-07/2023-08-08_planning-commission.md",
+ "present": [
+  "Don Quigley",
+  "Cindy Wilkey",
+  "Marc McElreath",
+  "Lynette Wendel",
+  "Gordon Willardson",
+  "David Wright",
+  "Don Russell",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wilkey – I move to approve the Minutes for July 11, 2023, as written",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Cindy Wilkey",
+   "seconder": "Lynette Wendel",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendell I move that we approve File #12C23, CUP-000323-2023, a preliminary non-administrative conditional use permit and site plan to construct a new carwash facility at 3621 West 5400 South in Taylorsville, Utah, according to the Findings and Conditions outlined in the Staff Report, amending the condition that the acceptable retained trees should they be removed in future versions of the site plan, Staff will determine the appropriate replacement for those removed trees",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5-0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Lynette Wendel",
+   "seconder": "Marc McElreath",
+   "aye": [
+    "David Young",
+    "Cindy Wilkey",
+    "Don Quigley",
+    "Lynette Wendel",
+    "Gordon Willardson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "12C23",
+    "CUP-000323-2023"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel – I move that we approve File #28C23, a request for a conditional Use Permit to operate a reception center at 2596 West 4700 South, Taylorsville, Utah, subject to the Findings and conditions for approval as outlined in the Staff Report and discussed this evening",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5-0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Lynette Wendel",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "David Young",
+    "Cindy Wilkey",
+    "Don Quigley",
+    "Lynette Wendel",
+    "Gordon Willardson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "28C23"
+   ],
+   "motion_no": 3
+  }
+ ]
+}

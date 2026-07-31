@@ -1,0 +1,22 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "7-28-23", "recipient": "Vista Print", "purpose": "Literature", "amount": "364.53", "in_kind": false},
+    {"date": "8-8-23", "recipient": "Midvale City", "purpose": "Registr.", "amount": "25.00", "in_kind": false},
+    {"date": "7-29-23", "recipient": "Amazon", "purpose": "Canopy", "amount": "107.24", "in_kind": false},
+    {"date": "8-4-23", "recipient": "Sams Club", "purpose": "Water Candy", "amount": "146.96", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": null,
+  "ending_balance": "643.73",
+  "_meta": {
+    "index_path": "raw/2023_12_Paul-Glover.pdf",
+    "candidate": "Paul Glover",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2023_12_Paul-Glover.pdf",
+    "pages": 3,
+    "note": "POST GENERAL ELECTION REPORT (Dec 21, 2023 type box checked), signed/received 11-29-23 — summary. Itemized contribution table blank; Total value of contributions printed as '-0-' (transcribed 0). Line 2 (Total value of expenditures) LEFT BLANK on the cover -> total_expenditures null (not computed). Four itemized expenditure rows sum to 643.73; the filer entered 643.73 on line 3 (Balance at end of reporting period), positive/not negated. district=2. Cover copied verbatim, itemized rows not adjusted."
+  }
+}

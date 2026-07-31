@@ -1,0 +1,276 @@
+Millcreek PLANNING COMMISSION — vote extraction validation
+==============================================================
+
+Meetings (JSON)        : 150
+Meetings with >=1 vote : 131
+Motions                : 765
+  named roll-calls     : 401
+  tally-only           : 364  (of which unanimous: 364)
+Recommendation / Final / Procedural : 178 / 326 / 261
+Contested motions      : 126
+Distinct commissioners : 21
+
+CSV rows               : 2889
+Expected (from JSON)   : 2889   [OK]
+body!=PlanningCommission: 0   title!=Planning Commission: 0
+
+Motion-type distribution:
+    Procedural/Administrative    320
+    Subdivision                  98
+    Conditional Use              90
+    Other Land-Use               88
+    Rezone                       71
+    Zone Text Amendment          40
+    Ordinance                    14
+    Exception                    14
+    Appointment                  13
+    General Plan Amendment       10
+    Planned Unit Development     4
+    Street Vacation              3
+
+Off-roster names       : 0
+
+result-string issues   : 0
+
+Tally-vs-result mismatches (source typo or parse miss — roll call retained): 0
+
+OCR fuzzy-name match rate: 2390/2393 = 99.9%  (unresolved tokens left BLANK, never guessed)
+  unresolved name tokens (count):
+    - 'July': 1
+    - 'Code': 1
+    - 'Communications': 1
+
+Per-year observed commissioners (name: vote rows):
+  2017:
+      Mark Mumford           15
+      Shawn LaMar            11
+      Fred Healey            10
+      Tom Stephens           10
+      David Allen            10
+      David Carlson          9
+      Russ Booth             8
+      Scott Claerhout        7
+      Heather Wilson         7
+  2018:
+      Mark Mumford           41
+      Scott Claerhout        41
+      Tom Stephens           41
+      Shawn LaMar            40
+      Fred Healey            34
+      David Carlson          33
+      Russ Booth             30
+      Heather Wilson         22
+      David Allen            21
+  2019:
+      Shawn LaMar            17
+      Tom Stephens           17
+      Scott Claerhout        15
+      Russ Booth             13
+      Victoria Reid          13
+      David Allen            12
+      Skye Sieber            11
+      Mark Mumford           10
+      Fred Healey            7
+  2020:
+      Russ Booth             16
+      Shawn LaMar            16
+      Victoria Reid          16
+      Skye Sieber            14
+      Tom Stephens           14
+      Scott Claerhout        12
+      Mark Mumford           10
+      David Allen            10
+      Ian Wright             2
+  2021:
+      Scott Claerhout        19
+      Shawn LaMar            18
+      Skye Sieber            18
+      Victoria Reid          18
+      Ian Wright             15
+      Tom Stephens           14
+      David Allen            13
+      Christian Larsen       13
+      Aryel Cianflone        12
+  2022:
+      Christian Larsen       40
+      Shawn LaMar            40
+      Victoria Reid          31
+      David Hulsberg         29
+      Ian Wright             27
+      Skye Sieber            26
+      Per Lofgren            24
+      Scott Claerhout        22
+      Aryel Cianflone        11
+      David Allen            5
+      Tom Stephens           3
+  2023:
+      Victoria Reid          64
+      Christian Larsen       63
+      Shawn LaMar            62
+      Per Lofgren            54
+      Dwayne Vance           52
+      Ian Wright             45
+      David Hulsberg         34
+      Diane Soule            34
+      Steven Anderson        28
+      Skye Sieber            16
+      Scott Claerhout        9
+  2024:
+      Shawn LaMar            72
+      Diane Soule            67
+      Steven Anderson        63
+      Dwayne Vance           55
+      Victoria Reid          55
+      Christian Larsen       50
+      Ian Wright             49
+      Per Lofgren            34
+      Jacob Richardson       16
+      David Hulsberg         12
+  2025:
+      Jacob Richardson       49
+      Victoria Reid          44
+      Shawn LaMar            41
+      Christian Larsen       40
+      Steven Anderson        39
+      Diane Soule            38
+      Per Lofgren            29
+      Dwayne Vance           25
+      Ian Wright             25
+  2026:
+      Victoria Reid          36
+      Jacob Richardson       35
+      Jenny Burgess          34
+      Ian Wright             31
+      Christian Larsen       29
+      Shawn LaMar            25
+      Diane Soule            25
+      Steven Anderson        25
+      Per Lofgren            8
+
+Contested votes (126):
+    - 2017-02-15 m4 [final] 0:0 Pass (Continued)  nay=[] abstain=[] recuse=['Fred Healey']
+    - 2017-03-15 m3 [final] Pass (Continued)  nay=['David Carlson'] abstain=[] recuse=[]
+    - 2017-03-15 m5 [recommendation] Positive recommendation  nay=['Mark Mumford', 'Shawn LaMar', 'Tom Stephens'] abstain=[] recuse=[]
+    - 2017-04-19 m9 [procedural] Pass  nay=[] abstain=['Shawn LaMar'] recuse=[]
+    - 2017-05-17 m1 [final] Approved (Final Action)  nay=['Fred Healey'] abstain=['Mark Mumford'] recuse=[]
+    - 2017-05-17 m2 [recommendation] Positive recommendation  nay=['David Allen', 'Mark Mumford'] abstain=['Scott Claerhout'] recuse=[]
+    - 2017-05-17 m9 [final] Approved (Final Action)  nay=['Scott Claerhout', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2017-06-21 m6 [final] Approved (Final Action)  nay=['David Allen', 'Fred Healey'] abstain=['Mark Mumford'] recuse=[]
+    - 2017-06-21 m7 [final] Approved (Final Action)  nay=[] abstain=['David Carlson', 'Fred Healey', 'Mark Mumford'] recuse=[]
+    - 2017-06-21 m8 [final] Approved (Final Action)  nay=[] abstain=['Fred Healey', 'Mark Mumford', 'Russ Booth'] recuse=[]
+    - 2017-08-16 m4 [final] Approved (Final Action)  nay=['David Allen'] abstain=[] recuse=[]
+    - 2017-08-16 m5 [recommendation] Positive recommendation  nay=['David Allen'] abstain=[] recuse=['Fred Healey']
+    - 2017-08-16 m13 [procedural] Pass  nay=[] abstain=['David Carlson', 'Shawn LaMar'] recuse=[]
+    - 2017-09-20 m1 [final] 2:5 Fail (Continued)  nay=['David Carlson', 'Heather Wilson', 'Mark Mumford', 'Russ Booth', 'Tom Stephens'] abstain=[] recuse=[]
+    - 2017-09-20 m2 [final] 5:2 Approved (Final Action)  nay=['David Allen', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2017-09-20 m3 [final] 5:2 Approved (Final Action)  nay=['David Allen', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2017-09-20 m5 [final] 4:2 Pass (Continued)  nay=['David Allen', 'Heather Wilson'] abstain=[] recuse=[]
+    - 2017-09-27 m2 [recommendation] Positive recommendation 5:1  nay=['David Allen'] abstain=[] recuse=[]
+    - 2017-09-27 m3 [final] 4:1 Approved (Final Action)  nay=['David Allen'] abstain=['Scott Claerhout'] recuse=[]
+    - 2017-11-16 m1 [final] 6:1 Approved (Final Action)  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2018-01-17 m1 [recommendation] Positive recommendation 6:0  nay=[] abstain=['David Carlson'] recuse=[]
+    - 2018-01-17 m2 [final] 0:0 Approved (Final Action)  nay=[] abstain=[] recuse=['Mark Mumford', 'Shawn LaMar']
+    - 2018-02-21 m6 [recommendation] Positive recommendation 6:1  nay=['Scott Claerhout'] abstain=['Shawn LaMar'] recuse=[]
+    - 2018-02-21 m9 [procedural] 6:0 Pass  nay=[] abstain=['Fred Healey'] recuse=[]
+    - 2018-03-21 m1 [recommendation] Positive recommendation 6:1  nay=['Mark Mumford'] abstain=[] recuse=[]
+    - 2018-03-21 m2 [recommendation] Positive recommendation 6:1  nay=['Mark Mumford'] abstain=[] recuse=[]
+    - 2018-03-21 m5 [final] 6:1 Approved (Final Action)  nay=['Mark Mumford'] abstain=[] recuse=[]
+    - 2018-03-21 m6 [recommendation] Positive recommendation 6:1  nay=['Russ Booth'] abstain=[] recuse=[]
+    - 2018-04-18 m3 [final] 5:3 Approved (Final Action)  nay=['David Carlson', 'Fred Healey', 'Heather Wilson'] abstain=[] recuse=[]
+    - 2018-05-16 m1 [final] 5:1 Approved (Final Action)  nay=['David Allen'] abstain=[] recuse=[]
+    - 2018-06-12 m3 [recommendation] Positive recommendation 4:0  nay=[] abstain=['Mark Mumford'] recuse=[]
+    - 2018-08-15 m4 [final] Approved (Final Action)  nay=['David Allen'] abstain=[] recuse=[]
+    - 2018-08-15 m5 [recommendation] Positive recommendation  nay=['David Allen'] abstain=[] recuse=[]
+    - 2018-08-15 m6 [final] Approved (Final Action)  nay=[] abstain=['David Allen'] recuse=[]
+    - 2018-08-15 m9 [procedural] Pass  nay=[] abstain=['Shawn LaMar'] recuse=[]
+    - 2018-10-17 m2 [recommendation] Positive recommendation 6:3  nay=['David Allen', 'Heather Wilson', 'Mark Mumford'] abstain=[] recuse=[]
+    - 2018-12-19 m1 [final] Approved (Final Action)  nay=['Fred Healey', 'Mark Mumford', 'Russ Booth', 'Shawn LaMar', 'Tom Stephens'] abstain=[] recuse=[]
+    - 2018-12-19 m4 [recommendation] Positive recommendation 6:3  nay=['David Carlson', 'Heather Wilson', 'Tom Stephens'] abstain=[] recuse=[]
+    - 2019-02-20 m7 [final] 4:1 Pass (Continued)  nay=['Mark Mumford'] abstain=[] recuse=[]
+    - 2019-02-20 m10 [procedural] Pass  nay=[] abstain=['David Allen'] recuse=[]
+    - 2019-02-20 m11 [procedural] Pass  nay=[] abstain=['David Allen'] recuse=[]
+    - 2019-04-17 m1 [recommendation] Positive recommendation 4:2  nay=['Mark Mumford', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2019-04-17 m2 [recommendation] Positive recommendation 6:1  nay=['Tom Stephens'] abstain=[] recuse=[]
+    - 2019-04-17 m3 [recommendation] Positive recommendation 6:1  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2019-06-19 m5 [procedural] 6:0 Pass  nay=[] abstain=['Russ Booth', 'Skye Sieber', 'Victoria Reid'] recuse=[]
+    - 2019-07-17 m2 [final] 5:0 Approved (Final Action)  nay=[] abstain=['Shawn LaMar'] recuse=[]
+    - 2019-07-17 m3 [recommendation] Positive recommendation 5:1  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2019-08-21 m3 [final] 6:1 Approved (Final Action)  nay=['Mark Mumford'] abstain=[] recuse=[]
+    - 2019-08-21 m7 [procedural] 4:0 Pass  nay=[] abstain=['Fred Healey', 'Skye Sieber'] recuse=[]
+    - 2019-08-21 m8 [procedural] 4:0 Pass  nay=[] abstain=['Tom Stephens', 'Victoria Reid'] recuse=[]
+    - 2019-09-18 m1 [recommendation] Positive recommendation 4:3  nay=['Fred Healey', 'Tom Stephens', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2019-11-20 m1 [final] 6:1 Approved (Final Action)  nay=['Scott Claerhout'] abstain=[] recuse=[]
+    - 2019-11-20 m2 [final] 3:4 Denied (Final Action)  nay=['Mark Mumford', 'Shawn LaMar', 'Skye Sieber', 'Tom Stephens'] abstain=[] recuse=[]
+    - 2019-11-20 m3 [final] 6:1 Approved (Final Action)  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2019-11-25 m1 [recommendation] Positive recommendation 5:1  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2019-12-18 m4 [procedural] 6:0 Pass  nay=[] abstain=['David Allen'] recuse=[]
+    - 2019-12-18 m5 [procedural] 5:0 Pass  nay=[] abstain=['David Allen', 'Scott Claerhout'] recuse=[]
+    - 2020-01-15 m4 [final] 5:0 Approved (Final Action)  nay=[] abstain=['Victoria Reid'] recuse=[]
+    - 2020-02-19 m8 [procedural] 6:0 Pass  nay=[] abstain=['Tom Stephens'] recuse=[]
+    - 2020-02-19 m9 [procedural] 6:0 Pass  nay=[] abstain=['Skye Sieber'] recuse=[]
+    - 2020-04-15 m6 [final] 6:2 Approved (Final Action)  nay=['David Allen', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2020-06-17 m6 [recommendation] Positive recommendation 5:3  nay=['David Allen', 'Shawn LaMar', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2020-07-15 m2 [recommendation] Positive recommendation 4:2  nay=['David Allen', 'Russ Booth'] abstain=[] recuse=[]
+    - 2020-07-15 m3 [final] 4:2 Approved (Final Action)  nay=['David Allen', 'Russ Booth'] abstain=[] recuse=[]
+    - 2020-07-15 m10 [final] 4:0 Approved (Final Action)  nay=[] abstain=['David Allen', 'Tom Stephens'] recuse=[]
+    - 2020-08-19 m2 [procedural] 6:0 Pass  nay=[] abstain=['Ian Wright', 'Scott Claerhout'] recuse=[]
+    - 2020-10-21 m1 [final] 4:2 Approved (Final Action)  nay=['Ian Wright', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2020-11-18 m6 [procedural] 0:0 Pass  nay=[] abstain=['David Allen', 'Scott Claerhout'] recuse=[]
+    - 2021-01-20 m4 [final] 4:2 Approved (Final Action)  nay=['Tom Stephens', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2021-01-20 m6 [procedural] 5:0 Pass  nay=[] abstain=['Scott Claerhout'] recuse=[]
+    - 2021-02-17 m4 [procedural] 5:0 Pass  nay=[] abstain=['Ian Wright'] recuse=[]
+    - 2021-03-17 m4 [procedural] 6:0 Pass  nay=[] abstain=['David Allen'] recuse=[]
+    - 2021-05-19 m3 [recommendation] Positive recommendation 7:2  nay=['David Allen', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2021-08-18 m1 [final] 6:2 Pass (Continued)  nay=['Scott Claerhout', 'Skye Sieber'] abstain=[] recuse=[]
+    - 2021-09-15 m2 [final] 8:1 Pass (Continued)  nay=['Scott Claerhout'] abstain=[] recuse=[]
+    - 2021-09-15 m3 [procedural] 8:1 Pass  nay=['Scott Claerhout'] abstain=[] recuse=[]
+    - 2021-09-15 m4 [final] 6:3 Approved (Final Action)  nay=['Aryel Cianflone', 'Ian Wright', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2021-11-17 m3 [final] 5:1 Approved (Final Action)  nay=['Victoria Reid'] abstain=[] recuse=[]
+    - 2021-11-17 m4 [procedural] 4:0 Pass  nay=[] abstain=['Scott Claerhout', 'Shawn LaMar'] recuse=[]
+    - 2021-11-17 m5 [procedural] 5:0 Pass  nay=[] abstain=['Christian Larsen'] recuse=[]
+    - 2021-12-15 m3 [recommendation] Positive recommendation 7:1  nay=['Ian Wright'] abstain=[] recuse=[]
+    - 2021-12-15 m5 [procedural] 8:0 Pass  nay=[] abstain=['Tom Stephens'] recuse=[]
+    - 2021-12-15 m6 [procedural] 8:0 Pass  nay=[] abstain=['Tom Stephens'] recuse=[]
+    - 2022-02-16 m7 [procedural] 5:0 Pass  nay=[] abstain=['Shawn LaMar', 'Tom Stephens'] recuse=[]
+    - 2022-03-16 m7 [procedural] 6:0 Pass  nay=[] abstain=['Skye Sieber'] recuse=[]
+    - 2022-04-20 m4 [procedural] 5:0 Pass  nay=[] abstain=['Christian Larsen'] recuse=[]
+    - 2022-05-18 m5 [recommendation] Positive recommendation 7:1  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2022-09-21 m6 [procedural] 5:0 Pass  nay=[] abstain=['Victoria Reid'] recuse=[]
+    - 2022-09-21 m7 [procedural] 5:0 Pass  nay=[] abstain=['Victoria Reid'] recuse=[]
+    - 2022-10-19 m1 [final] 4:1 Approved (Final Action)  nay=['Christian Larsen'] abstain=[] recuse=[]
+    - 2022-11-16 m6 [procedural] 4:0 Pass  nay=[] abstain=['Ian Wright', 'Per Lofgren', 'Skye Sieber'] recuse=[]
+    - 2022-11-16 m7 [procedural] 5:0 Pass  nay=[] abstain=['David Hulsberg', 'Per Lofgren'] recuse=[]
+    - 2022-12-21 m5 [procedural] 6:0 Pass  nay=[] abstain=['Scott Claerhout'] recuse=[]
+    - 2023-01-18 m2 [final] 6:1 Pass (Continued)  nay=['Ian Wright'] abstain=[] recuse=[]
+    - 2023-01-18 m4 [procedural] 4:0 Pass  nay=[] abstain=['Dwayne Vance', 'Victoria Reid'] recuse=[]
+    - 2023-02-15 m1 [final] 4:1 Approved (Final Action)  nay=['Christian Larsen'] abstain=[] recuse=[]
+    - 2023-02-15 m8 [procedural] 5:0 Pass  nay=[] abstain=['Christian Larsen'] recuse=[]
+    - 2023-02-15 m9 [procedural] 4:0 Pass  nay=[] abstain=['Per Lofgren', 'Scott Claerhout'] recuse=[]
+    - 2023-03-15 m3 [procedural] 3:0 Pass  nay=[] abstain=['David Hulsberg', 'Dwayne Vance', 'Per Lofgren'] recuse=[]
+    - 2023-04-19 m2 [recommendation] Positive recommendation 6:1  nay=['Shawn LaMar'] abstain=[] recuse=[]
+    - 2023-04-19 m4 [procedural] 6:0 Pass  nay=[] abstain=['Skye Sieber'] recuse=[]
+    - 2023-05-17 m2 [recommendation] Positive recommendation 5:1  nay=['Christian Larsen'] abstain=[] recuse=[]
+    - 2023-05-17 m3 [procedural] 5:0 Pass  nay=[] abstain=['Per Lofgren'] recuse=[]
+    - 2023-05-17 m4 [procedural] 5:0 Pass  nay=[] abstain=['Dwayne Vance'] recuse=[]
+    - 2023-06-21 m2 [procedural] 5:0 Pass  nay=[] abstain=['Victoria Reid'] recuse=[]
+    - 2023-07-19 m3 [procedural] 4:0 Pass  nay=[] abstain=['Diane Soule', 'Ian Wright', 'Per Lofgren', 'Steven Anderson'] recuse=[]
+    - 2023-10-18 m6 [procedural] 6:0 Pass  nay=[] abstain=['Ian Wright', 'Per Lofgren'] recuse=[]
+    - 2023-12-20 m1 [final] 8:1 Approved (Final Action)  nay=['Diane Soule'] abstain=[] recuse=[]
+    - 2023-12-20 m2 [final] 8:1 Pass (Continued)  nay=['Diane Soule'] abstain=[] recuse=[]
+    - 2024-02-21 m2 [recommendation] Positive recommendation 4:3  nay=['Dwayne Vance', 'Per Lofgren', 'Shawn LaMar'] abstain=[] recuse=[]
+    - 2024-03-20 m2 [recommendation] Positive recommendation 5:2  nay=['Per Lofgren', 'Steven Anderson'] abstain=[] recuse=[]
+    - 2024-04-17 m5 [procedural] 5:0 Pass  nay=[] abstain=['Ian Wright'] recuse=[]
+    - 2024-05-15 m2 [procedural] 6:0 Pass  nay=[] abstain=['Per Lofgren'] recuse=[]
+    - 2024-07-17 m2 [recommendation] Positive recommendation 5:1  nay=['Victoria Reid'] abstain=[] recuse=[]
+    - 2024-08-21 m1 [final] 3:3 Approved (Final Action)  nay=['Christian Larsen', 'Diane Soule', 'Ian Wright'] abstain=[] recuse=[]
+    - 2024-08-21 m8 [procedural] 5:0 Pass  nay=[] abstain=['Ian Wright', 'Per Lofgren'] recuse=[]
+    - 2024-10-16 m4 [procedural] 7:0 Pass  nay=[] abstain=['Jacob Richardson'] recuse=[]
+    - 2024-11-20 m6 [procedural] 5:0 Pass  nay=[] abstain=['Jacob Richardson'] recuse=[]
+    - 2025-02-26 m3 [final] 6:2 Approved (Final Action)  nay=['Jacob Richardson', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2025-06-18 m2 [procedural] 7:0 Pass  nay=[] abstain=['Shawn LaMar'] recuse=[]
+    - 2025-09-17 m3 [procedural] 5:0 Pass  nay=[] abstain=['Ian Wright', 'Jacob Richardson'] recuse=[]
+    - 2025-09-17 m4 [procedural] 4:0 Pass  nay=[] abstain=['Christian Larsen', 'Dwayne Vance', 'Per Lofgren'] recuse=[]
+    - 2025-10-15 m1 [recommendation] Positive recommendation 6:1  nay=['Dwayne Vance'] abstain=[] recuse=[]
+    - 2025-12-17 m1 [final] 6:2 Pass (Continued)  nay=['Diane Soule', 'Per Lofgren'] abstain=[] recuse=[]
+    - 2025-12-17 m3 [final] 4:3 Approved (Final Action)  nay=['Ian Wright', 'Per Lofgren', 'Victoria Reid'] abstain=[] recuse=[]
+    - 2026-06-17 m2 [recommendation] Positive recommendation 7:1  nay=['Shawn LaMar'] abstain=[] recuse=[]

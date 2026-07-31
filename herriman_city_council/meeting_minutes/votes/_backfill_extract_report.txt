@@ -1,0 +1,12 @@
+Herriman council-family backfill (pmn_backfill -> meeting_minutes/all_votes.csv)
+recovered meetings parsed : 56
+recovered motions         : 246
+recovered rows            : 690
+canonical rows            : 3645
+merged total rows         : 4335
+zero-vote recovered docs  : 0
+whitelisted (body,date) collisions: 3
+    ('Council', '2020-09-30') :: text/pmn_council_2020-09-30_660952.md (whitelisted, verified distinct session)
+    ('Council', '2020-09-30') :: text/pmn_council_2020-09-30_660950.md (whitelisted, verified distinct session)
+    ('Council', '2022-06-29') :: text/pmn_joint_2022-06-29_917631.md (whitelisted, verified distinct session)
+REJECTS (never merged): 2021-01-13 CDRA (duplicate of the audited re-tagged doc); AppealAuthority docs (no appeals body in the model).

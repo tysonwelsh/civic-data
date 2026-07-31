@@ -1,0 +1,2159 @@
+# Park City Council Meeting — 2021-06-24
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2240,plainText=false)
+> Meeting date: 2021-06-24
+> Format: text
+
+---
+
+
+PARK CITY COUNCIL MEETING MINUTES
+445 MARSAC AVENUE
+PARK CITY, SUMMIT COUNTY, UTAH 84060
+
+June 24, 2021
+
+The Council of Park City, Summit County, Utah, met in open meeting on June 24, 2021,
+at 4:15 p.m. in the City Council Chambers.
+
+Council Member Doilney moved to close the meeting to discuss property and litigation
+at 4:15 p.m. Council Member Joyce seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+CLOSED SESSION
+
+Council Member Joyce moved to adjourn from Closed Meeting at 4:30 p.m. Council
+Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+STUDY SESSION
+
+Arts and Culture District Temporary Programming – Summer and Fall 2021
+Discussion:
+Jenny Diersen, Special Events Manager, Dave Gustafson, Project Manager, and David
+Everitt, Deputy City Manager, presented this item. Diersen began with a review of the
+site history; the land was purchased in 2017 with the intent of working with arts partners
+including Sundance Institute and Kimball Art Center to create a community space. After
+many discussions during the last four years, an opportunity for immediate connections
+with existing businesses and nonprofits now existed. Community engagement was
+underway with those groups and Diersen welcomed feedback from the public.
+
+Gustafson provided an update on site demolition, stating the work began in April and all
+buildings were removed. Due to frozen ground, a temporary fence was installed. The
+original demolition plan included removal of all building foundations but as the project
+progressed, the team decided to keep concrete and asphalt intact, including the
+concrete near Anaya’s Market and two storage buildings. There was now 43,000 square
+feet of dirt that had been on the property for 20 years. Gustafson addressed a concern
+that the soil cap was disturbed due to the work done on the Switchback Sports
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|2
+
+basement. He stated the removal of the basement left a large depression and to avoid a
+safety issue, dirt was pushed to the perimeter and into the depression. Once remaining
+concrete was removed, a fence would be installed and the soil capped.
+
+Council Member Worel commented that she witnessed children playing on the soil and
+asked if health risks due to magnesium chloride were a concern. Gustafson responded
+that he did not feel capping would be necessary. Everitt added that magnesium was
+used to keep sand together to decrease dust. Mayor Beerman asked about the cost
+associated with using a coating material on the dirt as the space may be a good option
+for winter parking or food truck use. Gustafson answered that he received a verbal
+monetary figure from a contractor of $15,000-$20,000, and he would research if
+magnesium was safe. Council Member Joyce recommend against adding extra
+chemicals to create contaminated soil. Council Member Doilney added that as the
+project proceeds, children might find other places to play. Council Member Gerber
+recommended scheduling a walk-through of the demolition with Gustafson.
+
+Diersen stated that staff recommended removing the temporary fencing for increased
+walkability and improved access to transit. For programming, staff recommended
+keeping concepts open, allowing passive and active programming from 8:00 a.m.-10:00
+p.m. This would allow organizations and businesses to create the hours that would most
+benefit them. Diersen explained the three categories of activations would be passive,
+active, and special events. Passive activations could include storyboards, art
+instillations and games. The active category would consist of small live performances,
+youth programming, and food trucks. Special Events would be considered on a case-by-
+case basis. To assist with the programming, staff requested two contract employees to
+join their team. Everitt emphasized the work that took place over the last few weeks and
+he saw the space as an example of how community could be fostered onsite.
+
+Council Member Worel asked for an update regarding soil sampling. Gustafson stated
+he met with Wasatch Environmental and the site averaged under 125 parts per million
+which was under the 300 parts threshold. Council Member Joyce clarified that it was
+within the safety limits that were included in the soils ordinance and EPA requirements,
+but dust that might blow onto the site was not mandated. Gustafson affirmed.
+
+Mayor Beerman asked if the site was compliant with what was required from a non-City
+project. Gustafson confirmed and stated the requirement was to keep the dirt moist to
+prevent it from being airborne.
+
+Council Member Joyce asked how much infrastructure such as plumbing and power
+would be required for the time-sensitive activations. Everitt responded that as
+scheduled, full excavation was planned for May or June of next year. Diersen used a
+visual to illustrate the existing power sources on site and commented that bathrooms
+would need to be brought in. She also stated she would come back to Council with a
+
+Park City                                Page 2                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|3
+
+firm timeframe of when activations could take place and mentioned Kimball Art Center
+and Sundance were in favor of the concept, but they were also looking forward to
+potential winter activations. Gustafson also provided information on potential water
+sources. Council Member Gerber stated this was a good opportunity to create a really
+local events space and support the community’s desire to connect.
+
+Council Member Henney asked for clarification regarding when the decision would be
+made if activations were to take place. Diersen stated the goal was to ask Council for
+programming through October, starting in mid-July or early August. Council Member
+Joyce hoped staff would start working on logistics now and return to Council with a
+report on specific programming.
+
+Mayor Beerman commented about the need for public input and asked how much of the
+$150,000 budget was needed for physical improvements versus programming costs.
+Diersen answered that $70,000 was allocated for physical improvements, $50,000 for
+two staff contracts, and $30,000 for programming. Mayor Beerman viewed the
+activations as a way to rebrand the space and thought it was a nice step toward
+creating momentum for the larger project. Council Member Worel asked if screens were
+printed for the fencing. Gustafson responded no artist banners were currently printed,
+but staff could hang them once the contractor installed a more permanent fence.
+
+Council Member Doilney commented that doing nothing was not an option and safety
+measures must be considered. Council Member Henney emphasized the importance of
+a drop-dead date. Council Member Doilney asked how the Kimball Arts Center and
+Sundance Institute have partnered. Diersen responded they were informed on Council
+conversations and wanted to be included at the table. Everitt addressed the drop-dead
+date and stated programming would likely occur within a month to five weeks if staff
+received approval from Council at the next meeting.
+
+Council Member Gerber asked if there were any concerns from neighboring businesses.
+Diersen stated she reached out to Blind Dog and they were excited at the prospect, but
+also shared the same questions as Council. She planned to conduct outreach with the
+other businesses. Council Member Henney asked if businesses were concerned about
+competition from food trucks. Diersen responded that all the food trucks would be from
+Summit County. Blind Dog mentioned having a food truck as well, and she noted she
+would also reach out to surrounding restaurants regarding food truck participation.
+Council Member Henney was in favor of creating vibrancy, but was concerned about
+creating a competitive environment. Council Member Joyce also mentioned the concern
+of event parking and the need to mitigate parking overflow to local businesses.
+
+Mayor Beerman encouraged the public to attend the Council meeting on July 1st and
+stated public input for this item would be open during the regular meeting.
+
+
+Park City                                Page 3                            June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|4
+
+WORK SESSION
+
+Request by Fairway Village Homeowners Association for Park City to Accept its
+Private Streets into the Public Road System Discussion:
+John Robertson, City Engineer presented this item and indicated this was a request
+from the Fairway Village HOA to have their private roads dedicated as public roads. The
+HOA spent time and resources and worked with an engineer to do an analysis of their
+roads. The next step in the process of acceptance was to receive feedback from
+Council on key decisions including determining if the HOA streets met the criteria of
+Resolution 6-91 and if Complete Streets criteria should be applied. Resolution 6-91
+outlined the requirements for private roads to be accepted into the public system: the
+road must be a through-street connecting to a dedicated City street and the road must
+serve single family areas or facilities frequented by the public. Robertson reviewed other
+requirements and the HOA agreed to the majority, and they would accrue the
+associated costs. The HOA would also be required to go through the City’s planning
+process. The Engineering Department worked with Public Works to determine the City’s
+annual cost of $31,700 per year. Robertson recommended a 50-foot dedication to
+comply with the Complete Streets requirements.
+
+Council Member Worel referenced the letter Council received from the HOA’s attorney
+and asked if sidewalks and other requirements were previously discussed with the
+group. Robertson responded those items were not discussed due to the Complete
+Streets resolution not being passed prior to 2018. Council Member Henney stated this
+was an opportunity to do something that did not necessarily require sidewalks, as it was
+both a vehicular road and a neighborhood road. He was in favor of the City acquiring
+the streets and providing pedestrian friendly upgrades. Council Member Gerber asked
+how a snowplow would maneuver a street where the dedication ended. Robertson
+replied the snowplow would stop at the dedication which was why they were asked to
+provide a turnaround. Council Member Gerber commented that the road usage was
+minimal so sidewalks would make sense if the 50-foot dedication was installed and year
+round housing increased. Council Member Doilney stated the space reminded him of
+Prospector and felt like a neighborhood so he supported the recommendation. Council
+Member Joyce said the standing Planning rule stated that the City acquired only
+through-streets, and to be considered they must adhere to requirements, though there
+was flexibility. Council Member Henney added they might not meet the requirements,
+but there were options outside of sidewalks to be considered.
+
+Mayor Beerman suggested taking a recess due to time constraints and returning to the
+item during the regular meeting.
+
+REGULAR MEETING
+
+I)    ROLL CALL
+
+Park City                                Page 4                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|5
+
+
+      Attendee Name                                         Status
+      Mayor Andy Beerman
+      Council Member Max Doilney
+      Council Member Becca Gerber
+      Council Member Tim Henney
+      Council Member Steve Joyce                            Present
+      Council Member Nann Worel
+      Sarah Pearce, Deputy City Manager
+      Margaret Plane, Special Counsel
+      Leah Langan, Deputy City Recorder
+      None                                                  Excused
+
+Request by Fairway Village Homeowners Association for Park City to Accept its
+Private Streets into the Public Road System Discussion (Continued from Work
+Session):
+John Roberston stated the Fairway Village HOA agreed to dedicate 50 feet with 10 feet
+on either side of the roadway. They also agreed to bring the roadway up to current
+design standards. Polly McLean, attorney representing the Fairway Village HOA,
+introduced HOA president, Doug Wood and HOA manager, Ryan Dickey. McLean
+addressed Council Member Worel’s comment and stated they were not aware of the
+Complete Streets requirements until they saw the staff report. They were told their
+street met the requirements since 1991 and they were shocked that Fairway Drive might
+not be considered. McLean stated the HOA was working in good faith. The HOA paid
+costs for 40 years to mitigate traffic impacts. The proposed area met the resolution and
+should be accepted by Council. Council Member Worel stated there might be options for
+creative and active transportation planning through collaboration between the
+Transportation staff and the HOA. Council Member Gerber stated the goal of Complete
+Streets was to make streets pedestrian and bicycle friendly and there were ways
+outside of sidewalks to make the area safer. She thought the 50 foot right-of-way would
+be beneficial. Mayor Beerman summarized that Council was in support, but split on
+Complete Streets. Council Member Henney stated the next agenda item was the
+People-First Streets program which could be a viable option. Council Member Joyce
+stated he would rather have a more permanent solution instead of participating in a
+temporary program.
+
+Mayor Beerman opened public comment. No comments were given. Mayor Beerman
+closed the public comment.
+
+II)    COMMUNICATIONS AND DISCLOSURES FROM COUNCIL AND STAFF
+
+Council Questions and Comments:
+
+
+ Park City                               Page 5                            June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|6
+
+   Council Member Worel reminded everyone that the library would host a pop-up book
+   sale. The Latino Arts Festival would be going on all week and was wonderful. She
+   also mentioned that Summit County Health Department was still conducting their
+   online community health survey.
+
+   Council Member Henney attended the retirement celebration for Scott Loomis and
+   the ribbon cutting event at the golf maintenance facility. He also indicated High
+   Valley Transit had their launch event this week. Council Member Doilney noted he
+   attended the golf maintenance facility opening as well and applauded staff for their
+   efforts.
+
+   Council Member Gerber agreed the golf maintenance facility event was wonderful.
+   She also attended a Ski Utah event and shared that Utah broke a record for the
+   number of skiers, with 5.3 million this year, up from 5.15 million last year, and
+   indicated it was a good reminder of the need to have discussions around sustainable
+   tourism.
+
+   Council Member Joyce attended Silly Market and felt it was important to explore
+   dynamic parking prices and ways to push transit ridership since the event continued
+   at capacity. He was a bit disappointed that this year’s Car Free Sunday appeared to
+   consist mostly of extended dining decks versus last year’s experience. He stated
+   there would be future discussions regarding Car Free Sunday. Council Member
+   Joyce also noted he had a good meeting with the Sustainability team and Bill White
+   regarding water usage during the statewide drought.
+
+   Mayor Beerman thanked Council Member Doilney for leading the meeting last week
+   while he was absent. He also thanked staff and Council for attending the soils panel
+   last night and encouraged patience as the conversation moved forward. Mayor
+   Beerman also spoke about the drought and encouraged the community to lead by
+   example in conservation efforts. He requested Sustainability, Building and Planning
+   staff to make it a priority to create an updated landscaping watering policy. Council
+   Member Worel requested staff to research existing grants to assist residents who
+   were interested in xeriscaping.
+
+Staff Communications Report:
+
+1. People-First Streets Program Launch Update:
+Council Member Henney was excited to see this program take shape and Mayor
+Beerman appreciated the program title of “People-First.”
+
+III) PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON THE
+AGENDA)
+
+
+Park City                                Page 6                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|7
+
+Mayor Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Council on items not included on the agenda. No comments were
+given. Mayor Beerman closed the public input portion of the meeting.
+
+IV)   CONSENT AGENDA
+
+1. Request to Approve Park City Hall as the Voter Information Center/Polling
+location for the 2021 Primary and General Municipal Elections:
+
+2. Request to Authorize the City Manager to Execute a Professional Services
+Agreement, in a Form Approved by the City Attorney, with Toole Designe, LLC, in
+an Amount Not to Exceed $95,000 for the Active Transportation Plan Project
+Management:
+
+Council Member Gerber moved to approve the Consent Agenda. Council Member
+Doilney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+V)      OLD BUSINESS
+1. Consideration to Adopt Resolution 17-2021, a Resolution Adopting an
+Interlocal Cooperation Agreement for Transit System Services:
+Sarah Pearce, Deputy City Manager, presented this item and indicated the details of the
+interlocal cooperation agreement were reviewed at last week’s Council meeting. A few
+minor changes were documented in the staff report. Pearce noted there could be
+additional minor changes and requested Council to delegate the approval of those items
+to the Mayor.
+
+Council Member Henney stated the agreement was a true partnership and applauded
+the County and City staff for their incredible work. Mayor Beerman added the
+agreement was monumental and thanked all involved in negotiations.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Joyce moved to adopt Resolution 17-2021, a resolution adopting an
+Interlocal Cooperation Agreement for Transit System Services. Council Member
+Henney seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+
+
+Park City                               Page 7                            June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|8
+
+VI)   NEW BUSINESS
+
+1. Consideration to Approve Ordinance No. 2021-28, an Ordinance Adopting a
+Revised Budget for FY2021 and Final Budget for FY2022 for Park City Municipal:
+Jed Briggs, Penny Frates, and Erik Daenitz, Budget Department, presented this item.
+The Budget staff returned to Council to present updates and sales tax information
+before adopting the final budget. Daenitz shared that revenue from April through July
+sales tax was tracking at a 112% improvement from FY20, not including Transient
+Room Tax. Council Member Henney asked if April numbers were an all-time high.
+Daenitz replied that it was, but he did not recommend adjusting the General Fund as the
+total would be $600,000 above the previous year even if the actuals were lower than the
+estimate.
+
+Frates provided updates to the operational budget and introduced Linda Jager,
+Community Engagement Manager, who provided details on expanding the
+Communications team to include two new positions: Digital Content Coordinator and
+Senior Communications Manager. Council Member Henney voiced support and noted
+how much the Communications team had developed. Council Member Gerber asked if
+Jager had the tools needed for elevated efforts such as video production. Jager
+responded that funds for consultants and contractors were budgeted to assist with
+audio/visual needs. Mayor Beerman stated increased public engagement work resulted
+in a need for support and he thanked staff for their efforts.
+
+Frates reported that a contract was added to support short term rental compliance and
+analytics, a portion of which would be funded by Summit County. The vendor would
+provide a variety of services including monitoring, a hotline, and an online portal to
+conduct business licenses. Council Member Joyce asked if there was a target to
+measure success. Minda Stockdale, Executive Department, replied that the vendor
+demonstrated 90% compliance with other clients.
+
+Briggs detailed Council’s previous request to implement the City’s merit pay plan
+swifter. The original proposal was to roll out the Mercer pay plan over the course of two
+years. It would cost an additional $400,000 to implement faster. Briggs detailed three
+options to cover that cost and recommended waiting a few months for additional
+revenue data to make an informed decision. Pearce stated she was encouraged by the
+April numbers but felt it was important to take a conservative approach. Council
+Member Henney stated staff turnover incurred a significant cost and the team should
+look at the details of staff retention. Council Member Doilney added that with the hiring
+shortage, Park City must become a very desirable place to work and the City should
+lead by example as quickly as possible. Council Member Worel agreed and spoke
+about the importance of staff morale and indicated a large staff turnover would incur
+well over $400,000. Council Member Gerber commented that amending the budget to
+
+
+Park City                                 Page 8                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+Page|9
+
+include the $400,000 would grant flexibility which was key in the current hiring market.
+Briggs thanked Council for their commitment to sustaining staff.
+
+Frates stated there were minor changes to personnel procedures and verbiage was
+added to budget policies for conduit financing to ensure compliance with federal tax
+laws. Daenitz stated they anticipated continuing the water fund bonding path. Council
+Member Gerber asked for clarification about a statement in the staff report regarding the
+adjustment of a $10,000 Summit County Tax Grant and asked if staff was returning
+those funds or not accepting them this year. Diersen responded the City received the
+grant in 2020, but the event was canceled so the amount was an adjustment between
+2020 and 2021.
+
+Council Member Gerber asked when the budgeting process would start for special
+service contracts since the process was revised last year. Briggs replied that
+emergency relief grants were provided to nonprofits instead of normal special service
+contracts in FY21. Special service contract funding was still available for FY22 and the
+team would return to Council in the fall to begin the process. Council Member Gerber
+asked for the total amount of funds available. Briggs recalled $250,000. Council
+Member Gerber followed up by asking if $60,000 dedicated to mental health and
+Communities that Care was still available. Council Member Worel responded that those
+funds were not yet dedicated, and other mental health programs might be interested in
+applying. Margaret Plane, Special Counsel, clarified from a previous point that there
+was a 1% cap under State law for money that the State could appropriate.
+
+Council Member Joyce suggested taking the impact of climate change into future
+budget considerations. Mayor Beerman asked Council Member Joyce for specific
+climate funding ideas. Council Member Joyce responded that many opportunities for
+improvement existed, such as investigating outdated water systems like the golf course,
+looking at City water consumption, using City parks for xeriscaping, and City farmland.
+Heinrich Deters, Trails and Open Space Manger, suggested the City create
+opportunities for HOAs to apply for water conservation grants that they do not currently
+have the budget for.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Gerber moved to approve Ordinance No. 2021-28, an ordinance
+adopting a revised budget for FY2021 and final budget for FY2022 and to include an
+increase to implement the pay plan. Council Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+
+
+Park City                                 Page 9                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 10
+
+Margaret Plane indicated Council also needed to adopt the Personnel Policy by
+resolution.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Joyce moved to approve Resolution 18-2021, a resolution adopting the
+revised Personnel Policies and Procedures Manual. Council Member Worel seconded
+the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+2. Consideration to Approve Ordinance 2021-27, an Ordinance Establishing
+Compensation for the Elected and Statutory Officers for FY2022:
+Penny Frates, Budget Department, presented this item and stated no changes were
+made since discussing the item at the previous Council meeting.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Henney suggested including language as in previous years that would
+clearly state Council Members were compensated $45,000, part in salary and part in
+benefits.
+
+Council Member Doilney moved to approve Ordinance No. 2021-27, an ordinance
+establishing compensation for the elected and statutory officers for FY2022. Council
+Member Worel seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+3. Consideration to Adopt Resolution 15-2021, a Resolution Re-Adopting the Fee
+Schedule; and Replacing and Repealing Resolution 14-2020 in its Entirety:
+Penny Frates, Budget Department, presented the item and indicated the resolution was
+discussed during the prior Council meeting. Council Member Joyce commented that the
+water billing structure currently in place was too conservative and encouraged Council
+to consider a lower fixed cost to incentivize lower consumption. He used bills from his
+HOA as an example of the lack of difference between zero water consumption and a
+resident with a leak. Mayor Beerman stated the process to create tiered pricing was
+difficult, but he encouraged Council to be open to a future budget amendment to
+address the issue. Council Member Joyce agreed to work with the Water Department.
+
+
+Park City                               Page 10                            June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 11
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Joyce moved to adopt Resolution 15-2021, a resolution re-adopting
+the Fee Schedule; and replacing and repealing Resolution 14-2020 in its entirety.
+Council Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+4. Consideration to Adopt Resolution 16-2021, a Resolution Adopting the Park
+City Comprehensive Emergency Management Plan:
+Mike McComb, Emergency Manager, presented this item. He reported that if adopted,
+the management plan would bring the City in compliance with federal and state
+guidelines as well as House Bill 96. The Emergency Management plan consisted of new
+additions, including the Wildfire Community Preparedness Plan and the City’s first
+Citywide Evacuation Plan which was created by a subcommittee of City partners.
+McComb walked Council through the specifics of the Evacuation Plan including
+categories of notification, City zones/routes and stages of re-entry. Next steps would
+include conducting a full-scale exercise with community participation next spring, a
+potential roundtable discussion for the community to provide feedback, and social
+media outreach.
+
+Council Member Worel applauded the effort required to create the plan and asked if
+Highways 224 and 248 would be used as one-way exits. McComb responded that it was
+not a favorable option because one in-bound lane would be needed for responders.
+Council Member Worel asked if there was a siren to alert residents who might not have
+access to their cell phones. McComb answered that the City had the ability to send loud
+alerts similar to Amber Alerts and activate the energy response system on televisions.
+Council Member Joyce commented on his experience in Flagstaff where he was
+impressed by their simple, effective color-based evacuation system. McComb agreed
+that Flagstaff’s ‘Ready, Set, Go’ program was a wonderful tool and he would look
+closely at the model.
+
+Council Member Henney thanked McComb for providing extensive communication
+regarding emergency practices already in place and stated that level of community
+engagement went a long way to assist residents’ anxieties.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+
+
+
+Park City                               Page 11                           June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 12
+
+Council Member Joyce moved to adopt Resolution 16-2021, a resolution adopting the
+Park City Comprehensive Emergency Management Plan. Council Member Worel
+seconded the motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+5. Consideration of Summer Trolley Service Route Options:
+Kim Fjeldsted and Andy Stevenson, Transit Department, presented this item. Stevenson
+stated the trolley service was suspended in March 2020 due to COVID-19. Since then,
+staff received input from riders and business owners requesting to resume service. Staff
+conducted a survey in September 2020 and the results echoed similar sentiments. The
+initial plan was to resume service this fall, but staff was now considering a start date of
+July 1st. Stevenson reported that conflicting input was also received from residents of
+Daly Avenue so an additional survey was launched in an effort to gauge the
+community’s opinion on two potential route options. He explained the first route option
+would run on Main Street from 9th Street to Hillside/Daly Avenue and through Old Town
+Transit Center. The second option would run up Main Street, down Swede Alley, and
+Heber Avenue. The results of the survey reported that 80% preferred Option One and
+20% were in favor of Option Two. Staff recommended Option One based on public
+input. Council Member Gerber asked if there was an opportunity to combine the options
+and have the trolley ride to Daly Avenue and down Swede Alley. Fjeldsted responded it
+could be an option moving forward.
+
+Council Member Worel commented that she noticed a few comments on the survey
+regarding the trolley idling and asked why that occurs. Fjeldsted answered that the
+trolley adheres to timepoints and if the trolley engine was not running, it would not
+appear on the Transit app, which could be permissible due to the nature of the route.
+Council Member Worel agreed that having the trolley on a firm schedule was probably
+not a priority due to riders flagging it down and taking photos. Council Member Doilney
+voiced that he struggled to see the benefit of the trolley turning around on Daly Avenue,
+an area that was recently repainted and where planters were installed. He stated Option
+Two would benefit the entirety of Main Street, including the parking structures on Swede
+Alley. Council Member Gerber stated it appeared Daly residents accessed the trolley
+and a combination route might encourage residents to increase Transit ridership.
+
+Mayor Beerman commented that Council might consider smaller, electric vehicles that
+would create less of an impact. Council Member Gerber added the trolley also served
+as a tourist information center.
+
+Mayor Beerman opened the public hearing.
+
+
+
+
+Park City                                Page 12                             June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 13
+
+Clive Bush submitted the following eComment: “A tragic sign of our times that people
+would say they prefer to wait on the side of the street for 15 minutes or more, than walk
+1 minute to catch a much more frequent and useful service for everyone else. Even
+more tragic is that the city would be swayed by such a flawed anonymous survey that
+doesn't verify or quantify use. Suggest you count actual pick/up drop offs at Daley - you
+may already have from previous years use?”
+
+Mayor Beerman closed the public hearing.
+
+Council Member Henney stated he was saddened to see that residents were in favor of
+running the trolley through a neighborhood, but he thought having the trolley return as
+soon as possible, running on route Option Two for a year and then reevaluating would
+be a good compromise.
+
+Council Member Gerber commented the survey specifically asked about residents living
+on Daly Avenue and King Road getting the service to their neighborhood. Pearce
+suggested running the trolley on Option One for the summer and capturing data on the
+number of riders going past Main Street. Council Member Worel favored Pearce’s idea
+given staff asked residents their preferences.
+
+Council Member Henney suggested removing timepoints from the schedule to keep the
+trolley continuously moving. Council Members Doilney and Gerber agreed. Council
+Member Joyce stated it was a flawed concept given that they were working towards
+separating the commercial and residential districts, but residents’ input should be
+honored. Pearce commented that the survey was conducted due to comments from
+residents both in favor and opposing the service returning. Council Member Joyce
+stated there was a larger, micro-transit issue to be addressed regarding how to get
+Upper Old Town residents to the Transit Center.
+
+Mayor Beerman summarized the Council’s sentiments which was that most were in
+favor of a hybrid route option that would travel up Main Street and back through Swede
+Alley, removing a specific schedule to avoid idling and investigate electric vehicle
+options. Council Member Doilney clarified there was a large difference between the
+route as one utilized Heber Avenue. Council Member Henney emphasized that a
+smaller, less commercial vehicle would be more appropriate on Daly Avenue.
+
+5. Consideration to Approve Ordinance 2021-29, an Ordinance Approving the
+Silver Bird Condominiums at Deer Valley Third Amendment, Amending Unit 26,
+Located 7374 Silverbird Drive, Park City Utah:
+Alexandra Ananth, Senior Planner, presented this item, joined by Jared Edgel, the
+surveyor representing the applicant. Ananth indicated the plat amendment was in a
+subdivision of six units that was approved in 1982. The applicant proposed to remove
+an existing deck and build an expanded deck and add a private space below. The patio
+
+Park City                                Page 13                            June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 14
+
+and deck setbacks met all HOA and open space requirements. Anath added that similar
+amendments were approved for other units in previous years.
+
+Mayor Beerman opened the public hearing. No comments were given. Mayor Beerman
+closed the public hearing.
+
+Council Member Gerber moved to approve Ordinance 2021-29, an ordinance approving
+the Silver Bird Condominiums at Deer Valley Third Amendment, amending Unit 26,
+located 7374 Silverbird Drive, Park City Utah. Council Member Henney seconded the
+motion.
+RESULT: APPROVED
+AYES: Council Members Doilney, Gerber, Henney, Joyce, and Worel
+
+VII)     ADJOURNMENT
+
+VIII)    PARK CITY REDEVELOPMENT AGENCY MEETING
+
+I)       ROLL CALL
+
+        Attendee Name                                    Status
+        Chair Andy Beerman
+        Board Member Max Doilney
+        Board Member Becca Gerber
+        Board Member Tim Henney
+        Board Member Steve Joyce                         Present
+        Board Member Nann Worel
+        Sarah Pearce, Deputy Director
+        Margaret Plane, Special Counsel
+        Leah Langan, Deputy Secretary
+        None                                             Excused
+
+II)  PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+THE AGENDA)
+
+Chair Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Council on items not included on the agenda. No comments were
+given. Chair Beerman closed the public comment.
+
+III)     NEW BUSINESS
+
+
+
+
+ Park City                                Page 14                      June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 15
+
+1. Consideration to Approve Resolution RDA 02-2021, a Resolution Adopting the
+Fiscal Year 2021 Revised Budget and the Fiscal Year 2022 Budget for Park City
+Redevelopment Agency:
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing and asked if China Bridge was fully paid for. Briggs confirmed
+the last payment was made a week ago.
+
+Board Member Worel moved to approve Resolution RDA 02-2021, a resolution adopting
+the Fiscal Year 2021 revised budget and the Fiscal Year 2022 budget for Park City
+Redevelopment Agency. Board Member Gerber seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV)         ADJOURNMENT
+
+IX)         PARK CITY MUNICIPAL BUILDING AUTHORITY MEETING
+
+       I.       ROLL CALL
+
+            Attendee Name                                    Status
+            Chair Andy Beerman
+            Board Member Max Doilney
+            Board Member Becca Gerber
+            Board Member Tim Henney
+            Board Member Steve Joyce                         Present
+            Board Member Nann Worel
+            Sarah Pearce, Deputy Director
+            Margaret Plane, Special Counsel
+            Leah Langan, Deputy Secretary
+            None                                             Excused
+
+II.         PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON
+            THE AGENDA)
+
+Chair Beerman opened the meeting for anyone who wished to comment or submit
+comments to the Council on items not included on the agenda. No comments were
+given. Chair Beerman closed the public comment.
+
+III)         NEW BUSINESS
+
+
+
+ Park City                                    Page 15                      June 24, 2021
+PARK CITY COUNCIL MEETING
+SUMMIT COUNTY, UTAH
+June 24, 2021
+P a g e | 16
+
+1. Consideration to Approve Resolution MBA 02-2021, a Resolution Adopting the
+Fiscal Year 2021 Revised Budget and Fiscal Year 2022 Budget for Park City
+Municipal Building Authority:
+
+Chair Beerman opened the public hearing. No comments were given. Chair Beerman
+closed the public hearing.
+
+Board Member Becca Gerber moved to approve Resolution MBA 02-2021, a resolution
+adopting the Fiscal Year 2021 revised budget and Fiscal Year 2022 budget for Park City
+Municipal Building Authority. Board Member Joyce seconded the motion.
+RESULT: APPROVED
+AYES: Board Members Doilney, Gerber, Henney, Joyce, and Worel
+
+IV)   ADJOURNMENT
+
+With no further business, the meeting was adjourned.
+
+                                                  _____________________________
+                                                  Leah Langan, Deputy City Recorder
+
+
+
+
+Park City                              Page 16                           June 24, 2021
+   Study Session:
+       Potential
+  Opportunities for
+Temporary Activation
+  at the Arts District
+                     Exploring the Concept
+1. Why we are here and the opportunity
+    • Land Purchase = Arts & Culture District with Partners and place for the community.
+    • Connectivity to community, transit modes, local organizations and businesses.
+    • Opportunity to learn, engage and get our community to the table.
+
+2. Site Update – Demolition, Site Condition, Construction & Timeline
+
+3. Community Engagement
+    • Initial outreach ‐ Kimball Art Center, Sundance Institute, Prospector Association,
+      Public Art Advisory Board & Public Meeting (7/14), Park City Summit County Arts
+      Council, Park Silly Sunday Market, Blind Dog
+    • The door is open – We encourage feedback and want to hear perspectives.
+
+4. Review of Activation Concepts, possible budget
+    • Small, Passive and Active Programs that replicate future site use.
+    • Local Community & Summit County Artists, Organizations and Businesses
+Examples of Activation Types
+        Types of Connective Programming                Frequency
+  1 Passive Programming Examples
+    History Boards & Story Telling
+    Art Installations & Sculpture
+                                                     Available Daily
+    Bocci Ball, Large Scale Board Games
+    Tables, Chairs, Umbrellas, Benches
+  2 Active Programming Examples (Small-Scale)
+     Music & Live Performances                   Available at specifically
+     Rec Trailer                                    scheduled times
+                                                  though out the week.
+    Food Trucks, Coffee or Beer Garden
+    Cook Offs
+    Art Battles or Plein Air Painting Demos      Available two to three
+    Community programming with non profits and      times a week.
+    businesses to create fun gatherings.
+  3 Special Event
+                                                   Reviewed by staff as
+                                                 requested. Approved by
+     Level 4 & 5 events as additional venue.          City Council.
+                                                  Approved by Staff as
+     Level 1, 2 & 3 events may be considered.           requested.
+Site Map &Concept
+        Questions/Discussion for Council
+We could, but should we?
+1. Does Council support continue exploring this concept of
+   Temporary Activation for this summer and fall, including staff
+   returning to Council with refined details?
+
+2. If so, does Council have advice on scope/scale/type/outreach
+   etc?
+   FAIRWAY VILLAGE HOA
+'HGLFDWLRQRI3ULYDWH6WUHHWVWR3XEOLF6\VWHP 
+Location Map
+          N
+Location Map
+          N
+Location Map
+               N
+Location Map
+               Glenneagles HOA
+               Broken Spoke HOA
+
+               Fairway Village HOA
+         Required Improvements
+ Required roadway improvements
+ • Bring all roadway structural section brought to current City standard i.e. 20‐year design life
+ • Traffic signs, markers, street signs meet current MUTCD standards
+ • Create turnaround area for snow plow
+ • Removal of speed bumps
+ • Fire hydrants spaced at 150 feet
+ • All drainage inlets to meet current standards and pipes inspected
+Required planning process
+• Submit a revised plat map that includes:
+    • Dedicated roadway width to meet current standards
+    • Identification of snow storage areas and public snow storage easements
+    • Any significant encroachments in ROW either removed or an agreement signed
+ Annual Operation Costs
+                          Cost Impacts
+ • Snow removal ‐ $17,000
+ • Sweeping ‐ $2,415
+ Annual Maintenance Cost Contributions
+ • Slurry Seal ‐ $2,200
+ • Crack Seal ‐ $1,850
+ • 2” mill & overlay ‐ $8,224
+           Total Annual Operations & Maintenance Costs ‐ $31,700
+           Total Costs to the City over 20 years ‐ $634,000
+Costs to HOA
+• Cost to bring existing streets to a 20‐yr design life ‐ $200,000
+                  Items for Discussion
+Do the HOA roadways meet criteria of Res. No. 6‐91?
+
+Res No. 6‐91 Section 1
+“1. The road must be a through street connecting to an already dedicated City street. Private dead‐end
+streets or cul‐de‐sacs generally would not be considered for dedication as public streets.
+2. The road must serve single‐family areas or facilities frequented by the general public;”
+
+Staff position:
+Sunny Slopes Drive ‐ Meets the criteria of Res. No. 6‐91
+Sunny Slopes Court ‐ Does not meet the criteria of Res. No. 6‐91
+Fairway Village Drive – Discussion with Council
+
+Should the HOA pay fees for one or two years maintenance costs not previously budgeted?
+                    Items for Discussion
+Should the Complete Streets criteria (Resolution No. 01‐2018) be applied to these roads
+before acceptance as a public road?
+
+Resolution No. 01-2018
+“The City shall consider transportation facility projects within the right-of-way, streets, park and ride lots, and parking
+lots as an opportunity to implement Complete Streets. For transportation facility projects within the right-of-way,
+Complete Street opportunities include, but are not limited to, long range and short range planning, programming, design,
+right-of-way acquisition, construction, construction engineering, reconstruction, resurfacing, retrofit, operations, and
+maintenance, and utility improvements.
+Complete Streets within the public-right-of way shall be designed to create a multi-modal network that provides access to
+services and core areas which may include, but not be limited to, schools, parks, recreation opportunities, municipal
+functions, shopping, and entertainment destinations. Complete Streets shall be designed to encourage all current and
+future users and modes, which include bicyclists, pedestrians and transit passengers of all ages and abilities as well as
+freight, emergency vehicles and motorized vehicles.”
+FY22 Final Budget Adoption
+April 2021 Sales Tax Update
+Citywide
+                                           Sales Tax Revenues through April
+       x 100000
+             $42
+
+             $38
+
+             $34
+
+             $30
+
+             $26
+
+             $22
+
+             $18
+
+             $14
+
+             $10
+
+              $6
+
+              $2
+
+
+
+
+                                               5 Year Average        FY2020                    FY2021
+
+    *Does not Include TRT or Transit Tax
+
+
+
+•     July–April up 4.6% vs. FY20
+•     April up 121% from previous April
+•     TRT July–April down -8%       Source: Park City Municipal Corporation. As of June 22, 2021.
+General Fund
+                             Sales Tax Summary – General Fund
+
+                                                    General Fund - Sales Tax Summary - Monthly
+                                                                                      FY21 Adj. Budget
+    Month                       FY19 Actual                 FY20 Actual                                   FY21 Actual
+                                                                                    (Adopted Oct. 2020)
+    July                         $812,668                     $890,546                    $592,130         $767,523
+    August                       $730,497                     $839,320                    $569,130         $777,490
+    September                    $754,343                     $912,173                    $587,277         $991,597
+    October                      $533,991                     $715,887                    $396,792         $735,086
+    November                     $805,462                     $820,365                    $667,118         $995,487
+    December                    $1,644,270                   $1,877,541                   $951,823        $1,709,314
+    January                     $1,915,943                   $2,167,578                  $1,155,948       $1,587,251
+    February                    $1,795,614                   $1,936,051                  $1,093,269       $1,915,684
+    March                       $2,160,171                   $1,318,256                  $1,090,252       $2,175,525
+    April                        $509,306                     $374,250                    $478,608         $792,267
+    May                          $591,398                     $439,622                    $513,445
+    June                         $771,332                     $603,136                    $632,274
+    Total                       $13,024,993                 $12,894,725                  $8,728,066
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                            Sales Tax Summary – General Fund
+                                                          General Fund - Sales Tax Summary - $ Change
+                                                                                                                          FY21 Actual vs. FY21 Budget (Adopted
+  Month                  FY20 Actual vs. FY19 Actual FY20 Actual vs. FY20 Original Budget   FY21 Actual vs. FY20 Actual
+                                                                                                                                        Oct. 2020)
+   July                            $77,879                          $52,194                         ($123,023)                          $175,394
+   August                         $108,823                          ($2,041)                         ($61,829)                          $208,361
+   September                      $157,830                         ($38,870)                          $79,424                           $404,320
+   October                        $181,897                          $40,169                           $19,198                           $338,294
+   November                        $14,903                          $44,454                          $175,122                           $328,369
+   December                       $233,271                        ($222,037)                        ($168,227)                          $757,491
+   January                        $251,635                          $73,377                         ($580,327)                          $431,303
+   February                       $140,438                        ($116,856)                         ($20,367)                          $822,415
+   March                         ($841,914)                      ($1,051,782)                        $857,269                          $1,085,273
+   April                         ($135,056)                       ($570,080)                         $418,017                           $313,659
+   May                           ($151,776)                       ($172,163)
+   June                          ($168,196)                       ($372,764)
+   Total                         ($130,267)                      ($2,336,399)                        $595,257                          $4,864,878
+                                                         General Fund - Sales Tax Summary - % Change
+                                                                                                                          FY21 Actual vs. FY21 Budget (Adopted
+  Month                  FY20 Actual vs. FY19 Actual FY20 Actual vs. FY20 Original Budget   FY21 Actual vs. FY20 Actual
+                                                                                                                                        Oct. 2020)
+   July                            10%                               6%                                 -14%                               30%
+   August                          15%                               0%                                  -7%                               37%
+   September                       21%                               -4%                                  9%                               69%
+   October                         34%                               6%                                  3%                                85%
+   November                         2%                                6%                                 21%                               49%
+   December                        14%                              -11%                                 -9%                               80%
+   January                         13%                               4%                                 -27%                               37%
+   February                         8%                               -6%                                 -1%                               75%
+   March                           -39%                             -44%                                 65%                              100%
+   April                           -27%                             -60%                                112%                               66%
+   May                             -26%                             -28%
+   June                            -22%                             -38%
+   Total                            -1% As of June 22, 2021.
+Source: Park City Municipal Corporation.                            -15%
+                             Sales Tax Summary – General Fund
+                                                          General Fund
+                                  Historical Sales Tax Revenues & Budgets Over Time by Month
+
+                            FY19 Actual                FY20 Actual                FY21 Adj. Budget (Adopted Oct. 2020)              FY21 Actual
+
+       $2,500,000
+
+
+
+
+       $2,000,000
+
+
+
+
+       $1,500,000
+
+
+
+
+       $1,000,000
+
+
+
+
+        $500,000
+
+
+
+
+              $0
+                     July       August    September   October    November   December    January       February      March   April        May      June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                              Sales Tax Summary – General Fund
+                                    General Fund - FY21 Cumulative Annual Sales Tax Revenues
+                                                     Through Different Lenses
+
+                      FY19 Actual                  FY20 Actual              FY21 Budget (Adopted Oct. 2020)   FY21 Actual
+
+      $14,000,000
+
+
+      $12,000,000
+
+
+      $10,000,000
+
+
+       $8,000,000
+
+
+       $6,000,000
+
+
+       $4,000,000
+
+
+       $2,000,000
+
+
+              $0
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                              Sales Tax Summary – General Fund
+                                                        General Fund
+                                      FY21 Sales Tax % Change from Previous Fiscal Years
+
+                                              FY21 Actual vs. FY19 Actual                        FY21 Actual vs. FY20 Actual
+
+    120%                                                                                                                         112%
+
+    100%
+
+
+     80%
+                                                                                                                       65%
+     60%                                                                                                                       56%
+
+                                               38%
+     40%                           31%
+                                                              24%21%
+     20%
+                        6%               9%                                                        7%
+                                                     3%                     4%
+                                                                                                                  1%
+      0%
+                                                                                                        -1%
+            -6%              -7%                                                 -9%
+    -20%       -14%
+                                                                                       -17%
+                                                                                          -27%
+    -40%
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021. Note, FY21 January distribution numbers are estimated from State of Utah raw distribution
+numbers.
+                                      Sales Tax Summary – General Fund
+                                                                           General Fund
+                                                                $ Change from Previous Fiscal Years
+
+                                                                   FY21 vs. FY19, $ Variance                                           FY21 vs. FY20, $ Variance
+        $1,000,000
+                                                                                                                                                         $857,269
+
+         $800,000
+
+         $600,000
+                                                                                                                                                                        $418,017
+         $400,000
+                                                                                                                                                                    $282,961
+                                                     $237,254
+                                                                    $201,095      $190,025   $175,122
+         $200,000                                                                                                                     $120,070
+                                                         $79,424                                  $65,044
+                                      $46,994
+                                                                        $19,198                                                                       $15,355
+               $0
+                     ($45,144)                                                                                                            ($20,367)
+                                         ($61,829)
+        ($200,000)       ($123,023)
+                                                                                                        ($168,227)
+
+
+        ($400,000)                                                                                                   ($328,692)
+
+
+        ($600,000)
+                                                                                                                         ($580,327)
+
+        ($800,000)
+                         July          August        September       October      November        December             January         February         March          April       May   June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                             Sales Tax Summary – General Fund
+                                              General Fund - Sales Taxes
+                         Original Budgets, Adjusted Budgets and Realized Revenue Since FY20
+   $2,500,000
+
+
+
+
+   $2,000,000
+
+
+
+
+   $1,500,000
+
+
+
+
+   $1,000,000
+
+
+
+
+    $500,000
+
+
+
+
+          $0
+
+
+
+
+                                                Adjusted Budgets Since 2020   Realized Revenue Since 2020
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                       Budget Calendar
+
+• May 13 ‐ Presentation and adoption of Tentative Budget – strategic
+  budget overview, timeline, and update of long‐term budget strategy and
+  revenue projections
+
+• May 27 ‐ Capital Budget & Capital Projects review – 5‐year Capital
+  Improvement Plan, Walkability, ARCST, and RDA
+
+• June 17 ‐ Operating wrap‐up; General Fund balance, Personnel (pay plan,
+  health insurance, retirement); Fee Changes, and Elected & Statutory
+  Officer Compensation
+                                                                   Transportation
+                                                                       Fund
+• June 24 – Presentation & Adoption of Final Budget
+           FY22 Operating Budget
+
+
+• Community Engagement – Department restructure
+  includes two new positions and a reduction to the full‐
+  time contractor position (maximum of 10 hours per
+  week)
+• Finance – Third‐party contract for nightly rental
+  monitoring and compliance
+                  LINDA JAGER               EMMA                LYNN WARE
+                    Community             PRYSUNKA                 PEEK
+                   Engagement               Digital              Community
+                     Manager             Communications         Engagement
+                                           Specialist             Liaison
+
+               • Department             • Social Media       • Multicultural
+                 Management             • Digital              Outreach             PROJECT LIAISON
+               • Media Relations          Communications     • Boots on the         Kim Clark - 3KWTP
+               • Council Community      • In-House Graphic     Ground Outreach
+                 Events                   Design             • Event Production
+
+FY21Communit   • Emergency
+                 Communications
+               • Event Production
+                                        • Event Production
+                                          Support
+                                        • Web Content
+                                                             • Strategic Outreach
+                                                               & Communications
+                                                               Support
+                                                                                    CONSULTANT POOL
+                                                                                       Graphic Design
+                                                                                      Video Production
+
+y Engagement   • Visioning
+               • Strategic Outreach &
+                 Communications
+                                          Management
+                                        • Event Production
+                                        • Strategic
+                                                             • Social Equity
+                                                             • Spanish
+                                                               Translation
+                                                                                       Photography
+
+
+
+Team                                      Outreach &
+                                          Communications
+                    LINDA JAGER                EMMA                TBD                        TBD
+                      Community             PRYSUNKA           Communications            Digital Content
+                     Engagement          Strategic Outreach                               Coordinator
+                       Manager
+
+                 • Department            Strategic Outreach   • Lead Staff Writer    •     Social Media
+                   Management            & Communications     • Strategic            •     E-Mail Marketing
+
+FY22Communit     • Community
+                   Relations
+                 • Emergency
+                                         Support:
+                                         • Building
+                                         • Engineering
+                                                                Communications
+                                                              • Media Relations
+                                                              • Issues
+                                                                                     •
+
+                                                                                     •
+                                                                                           Content
+                                                                                           Creation
+                                                                                           In-House
+
+y Engagement &     Communications
+                 • Event Production
+                 • Internal
+                                         • Economic
+                                           Development
+                                         • Special Events
+                                                                Management
+                                                              • CRM Development
+                                                              • Content
+                                                                                     •
+                                                                                           Graphic Design
+                                                                                           Event
+                                                                                           Production
+
+Communication      Communications
+                 • Visioning and
+                   Community Survey
+                                         • Trails & Open
+                                           Space
+                                         • Environmental
+                                                                Development &
+                                                                Strategy
+                                                                                           Support
+
+
+
+
+s                Strategic Outreach &
+                 Communications
+                                           Sustainability
+                                         • Public Works
+                                         • Water
+                                                              Strategic Outreach &
+                                                              Communications
+                                                              Support:
+                 Support:
+Team (DRAFT)     • City Council
+                 • Library, Ice,
+                                         Other:
+                                                              • Planning
+                                                                Commission
+                                                              • Planning
+                                                                                         PROJECT LIAISONS
+                                                                                          Lynn Ware Peek -
+                                                                                           Special Projects,
+                                                                                         Multicultural Outreach
+                   Recreation            • Content Strategy   • Transportation           Kim Clark - 3KWTP
+                 • Police                • Web Content          Planning/Parking
+                                           Management         • Arts & Culture
+                 • Internal Services                                                     CONSULTANT POOL
+                                         • CRM                  District                    Graphic Design
+                 • PC Soils
+                                           Development
+                   Management Facility                                                     Video Production
+                                         • Event Production
+                                                                                             Photography
+                Short Term Rental (STR) Inventory, Compliance and Analytic Services
+                                       $100k budget request
+Where We’ve Been
+• Two year contract with the previous provider expired.
+• 212 were brought into compliance at a cost of $5,000.00.
+• The “pay for performance” model no longer exists in the market.
+
+New Vendor Procurement
+• 5 proposals.
+• Unanimous Recommendation from cross-departmental team.
+• Annual Cost –
+   • $101,880 to PCMC Total, Remainder paid by ED operating budget.
+   • $21k Cost to Summit County (Will reimburse PCMC via MOU).
+
+Scope of Services
+• Monitor Internet Ad listings and ID compliant & non-licensed STR units in City & County.
+• Assists City staff with Targeted Outreach and Notifications.
+• Park City and Summit County Individual Property Data and Compliance Databases
+• Online Complaint Form
+• 24/7 Complaint Hotline Module
+• Portal to Administer All Business Licenses (New and Renewal), incldg. Nightly rental lisc.
+                           FY22 Pay Plan
+
+• Phase one (critical adjustments) July 1st implementation
+• Full implementation would increase General Fund by $400k
+• Additional time requested:
+   • Assess pay levels
+   • Determine full FY21 revenues
+• Recommend adopting final budget today and propose additional
+ adjustments later summer/early fall
+                Policies and Procedures
+
+
+• Minor changes to Personnel Policies and Procedures
+• Additional verbiage added to Budget Policies for conduit financing
+                                                                                 FY22 Debt Budget
+
+                                                                                                     Long-Term Debt
+                                                                                            (Current & Water Future Issuance)
+                          $40
+               Millions
+
+
+
+
+                          $35
+
+
+
+                          $30
+
+
+
+                          $25
+Debt Service
+
+
+
+
+                          $20
+
+
+
+                          $15
+
+
+
+                          $10
+
+
+
+                          $5
+
+
+
+                          $0
+                                '10   '11   '12   '13   '14   '15   '16   '17   '18   '19   '20   '21   '22   '23   '24   '25   '26   '27   '28   '29   '30   '31   '32   '33   '34   '35   '36   '37   '38   '39   '40   '41   '42   '43
+                                                                                                                            Fiscal Year
+
+                                                                                                                      Current   Water
+Appendix
+                 Where Do Our Sales Taxes Go?
+
+General Sales                100% General Fund
+                                                        General
+    Tax                                                  Fund
+
+
+                              57% General Fund
+
+
+  Resort Tax                  22% Capital Fund
+
+
+                                                         Capital
+                                                          Fund
+  Additional                  100% Capital Fund
+  Resort Tax
+
+
+                              100% Capital Fund
+Transient Room
+      Tax
+                            21% Transportation Fund
+                                                      Transportation
+                                                          Fund
+                           100% Transportation Fund
+Transportation
+  Sales Tax
+Capital Fund
+                              Sales Tax Summary – Capital Fund
+
+                                                     Capital Fund - Sales Tax Summary - Monthly
+                                                                                       FY21 Adj. Budget
+    Month                       FY19 Actual                   FY20 Actual                                  FY21 Actual
+                                                                                     (Adopted Oct. 2020)
+    July                         $627,203                       $704,479                   $349,121         $548,052
+    August                       $529,229                       $616,238                   $343,560         $555,028
+    September                    $577,009                       $759,286                   $390,073         $699,815
+    October                      $378,251                       $555,393                   $273,572         $527,415
+    November                     $635,932                       $629,796                   $323,013         $794,579
+    December                    $1,344,356                     $1,570,492                  $921,876        $1,374,419
+    January                     $1,693,495                     $1,923,089                  $911,358        $1,303,836
+    February                    $1,596,315                     $1,765,073                  $913,518        $1,670,788
+    March                       $1,938,349                     $1,087,888                 $1,046,362       $1,853,291
+    April                        $340,118                       $206,191                   $323,282         $561,427
+    May                          $390,732                       $218,762                   $248,089
+    June                         $528,340                       $369,764                   $407,603
+    Total                       $10,579,328                   $10,406,450                 $6,451,427
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                               Sales Tax Summary – Capital Fund
+                                                       Capital Fund
+                               Historical Sales Tax Revenues & Budgets Over Time by Month
+
+                      FY19 Actual                        FY20 Actual                 FY21 Adj. Budget (Adopted Oct. 2020)                   FY21 Actual
+
+        $2,500,000
+
+
+
+
+        $2,000,000
+
+
+
+
+        $1,500,000
+
+
+
+
+        $1,000,000
+
+
+
+
+         $500,000
+
+
+
+
+               $0
+                      July          August   September       October   November   December     January      February        March   April          May    June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                              Sales Tax Summary – Capital Fund
+                                          Capital Fund - Sales Taxes
+                    Original Budgets, Adjusted Budgets and Realized Revenue Since FY20
+   $2,500,000
+
+
+
+
+   $2,000,000
+
+
+
+
+   $1,500,000
+
+
+
+
+   $1,000,000
+
+
+
+
+    $500,000
+
+
+
+
+          $0
+
+
+
+
+                                                    Adjusted Budgets Since 2020   Realized Revenue Since 2020
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                       Sales Tax Summary – Transient Room Tax
+
+                                                                Transient Room Tax
+                                                                           FY21 vs.
+                                                                                       FY21 vs. FY20, $   FY21 vs. FY19, %   FY21 vs. FY20, %
+    Monthly       FY19 Realized      FY20 Realized       FY21 Realized      FY19, $
+                                                                                          Variance           Variance           Variance
+                                                                           Variance
+    July             $155,919           $180,669           $114,918        ($41,001)       ($65,751)           -26%               -36%
+    August           $108,460           $125,677           $112,872          $4,412        ($12,804)             4%               -10%
+    September        $140,971           $221,639           $125,348        ($15,623)       ($96,290)           -11%               -43%
+    October           $78,769           $139,424           $104,921         $26,153        ($34,503)            33%               -25%
+    November         $163,248           $150,563           $210,795         $47,548         $60,232             29%                40%
+    December         $332,107           $412,832           $336,374          $4,267        ($76,458)             1%               -19%
+    January          $490,668           $565,442           $328,467       ($162,201)      ($236,975)           -33%               -42%
+    February         $475,570           $546,738           $479,315          $3,745        ($67,423)             1%               -12%
+    March            $582,847           $292,669           $509,063        ($73,784)       $216,394            -13%                74%
+    April             $55,730            $17,479           $116,391         $60,660         $98,912            109%               566%
+    May               $60,892             $3,114
+    June              $87,903            $36,423
+    Total           $2,733,084         $2,692,669          $2,438,466     ($145,823)      ($214,666)
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                        Sales Tax Summary – Transient Room Tax
+                                                       Transient Room Tax
+                                            Historical Revenues Over Time by Month
+
+                                            FY19 Realized                    FY20 Realized                   FY21 Realized
+         $700,000
+
+
+         $600,000
+
+
+         $500,000
+
+
+         $400,000
+
+
+         $300,000
+
+
+         $200,000
+
+
+         $100,000
+
+
+              $0
+                      July     August    September    October   November   December     January   February   March           April   May   June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                       Sales Tax Summary – Transient Room Tax
+                                                      Transient Room Tax
+                                               % Change from Previous Fiscal Years
+                                                FY21 vs. FY19, % Variance                          FY21 vs. FY20, % Variance
+
+
+   600%                                                                                                                          566%
+
+
+   500%
+
+
+   400%
+
+
+   300%
+
+
+   200%
+
+                                                                                                                               109%
+   100%                                                                                                            74%
+                                              33%          29%40%
+                       4%                                                   1%                     1%
+     0%
+                            -10%   -11%                                          -19%                   -12%   -13%
+           -26%-36%                              -25%                                   -33%-42%
+                                       -43%
+   -100%
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                            Sales Tax Summary – Transient Room Tax
+                                                                     Transient Room Tax
+                                                              $ Change from Previous Fiscal Years
+
+                                                              FY21 vs. FY19, $ Variance                                  FY21 vs. FY20, $ Variance
+
+        $250,000
+                                                                                                                                        $216,394
+        $200,000
+
+        $150,000
+                                                                                                                                                        $98,912
+        $100,000
+                                                                                 $60,232                                                             $60,660
+                                                                              $47,548
+         $50,000                                                $26,153
+                                     $4,412                                                $4,267                        $3,745
+               $0
+                                       ($12,804) ($15,623)
+         ($50,000)                                                ($34,503)
+                     ($41,001)
+                         ($65,751)                                                                                         ($67,423) ($73,784)
+        ($100,000)                                                                           ($76,458)
+                                                    ($96,290)
+        ($150,000)
+                                                                                                         ($162,201)
+        ($200,000)
+
+        ($250,000)                                                                                          ($236,975)
+
+        ($300,000)
+                         July         August      September      October      November     December         January      February       March           April     May   June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+Transportation Fund
+                     Sales Tax Summary – Transportation Fund
+
+
+                                                 Transportation Fund - Sales Tax Summary - Monthly
+                                                                                      FY21 Adj. Budget
+    Month                       FY19 Actual                  FY20 Actual                                   FY21 Actual
+                                                                                     (Adopted Oct. 2020)
+    July                         $370,330                      $507,735                    $243,153         $431,048
+    August                       $328,650                      $476,867                    $250,505         $441,580
+    September                    $340,448                      $517,995                    $282,223         $570,321
+    October                      $234,717                      $409,895                    $197,601         $419,670
+    November                     $372,095                      $480,163                    $229,840         $583,067
+    December                     $785,302                     $1,129,662                   $644,181        $1,019,746
+    January                      $933,912                     $1,319,546                   $648,768         $955,215
+    February                     $869,901                     $1,187,380                   $639,892        $1,535,658
+    March                       $1,052,427                     $775,863                    $741,053        $1,738,344
+    April                        $222,826                      $194,288                    $229,233         $585,822
+    May                          $260,629                      $412,635                    $173,692
+    June                         $357,095                      $148,275                    $286,553
+    Total                       $6,128,331                    $7,560,305                  $4,566,695
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                     Sales Tax Summary – Transportation Fund
+                                                        Transportation Fund
+                                   Historical Sales Tax Revenues & Budgets Over Time by Month
+
+                     FY19 Actual                        FY20 Actual                 FY21 Adj. Budget (Adopted Oct. 2020)                   FY21 Actual
+
+       $2,000,000
+
+       $1,800,000
+
+       $1,600,000
+
+       $1,400,000
+
+       $1,200,000
+
+       $1,000,000
+
+        $800,000
+
+        $600,000
+
+        $400,000
+
+        $200,000
+
+              $0
+                     July          August   September       October   November   December     January      February        March   April          May    June
+
+
+
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+                     Sales Tax Summary – Transportation Fund
+                                          Transportation Fund - Sales Taxes
+                        Original Budgets, Adjusted Budgets and Realized Revenue Since FY20
+      $2,000,000
+
+      $1,800,000
+
+      $1,600,000
+
+      $1,400,000
+
+      $1,200,000
+
+      $1,000,000
+
+       $800,000
+
+       $600,000
+
+       $400,000
+
+       $200,000
+
+             $0
+
+
+
+
+                                                   Adjusted Budgets Since 2020   Realized Revenue Since 2020
+
+Source: Park City Municipal Corporation. As of June 22, 2021.
+Evacuation Plan
+
+
+
+    City Council
+     6‐24‐2021
+    Plan Development Stakeholders
+
+
+•    Deer Valley Resort
+•    Intermountain Hospital Park City
+•    Park City Chamber of Commerce/Convention and Visitors Bureau
+•    Park City Fire District
+•    Park City Mountain (Vail)
+•    Park City School District
+•    Snyderville Basin Recreation District
+•    Summit County Community Engagement
+•    Summit County Emergency Management
+•    Summit County Fire Warden
+•    Summit County Public Safety Dispatch
+•    Summit County Sheriff's Office
+•    Utah Department of Transportation
+•    Utah Highway Patrol
+•    Park City Police
+•    Park City Transit
+•    PCMC Building ‐ Chief Fire Code Official
+•    PCMC Community Engagement
+•    PCMC MARC
+•    PCMC Transportation Planning
+•    PCMC Emergency Management
+ Types of Evacuations
+
+
+
+• Advanced notice:
+    ‐ No‐notice
+    ‐ Short notice
+    ‐ Long notice
+• Horizontal v. Vertical
+• Phased or Staged
+• Shadow
+ Who is at Risk?
+  •   General population
+  •   Transient / tourist population
+  •   Institutions
+  •   Access & functional needs
+  •   Pets, livestock, and animals
+  •   First responders
+  •   Workers at critical facilities
+  •   Others?
+Evacuee Groups & Travel Needs
+  • Vehicle‐based, self‐evacuators
+  • Assisted self‐evacuators (public transport, rideshare, etc.)
+      • Tourists, homeless?
+  • Assisted non‐self evacuators (ambulance, rideshare, etc.)
+      • Schools, elderly, infirm/functional needs, etc.
+      • Low income
+      • Limited English proficiency
+      • Access/functional needs
+      • Very young/old
+      • Cultural/geographic isolation
+      • Transit‐dependent
+  • Pets, livestock, other animals
+Round Valley:
+•   Trail patrons (may require transport)
+•   Dogs, bikes
+
+Prospector / Quinns – largely self transported
+•   Schools
+•   Residents
+•   Patients
+•   Visitors
+•   Trail patrons
+•   Work Staff (Peace House, IHC, clinics, NAC, Ice Arena,
+    SCHD, et al.)
+
+Iron Horse / Aerie – largely self‐transported
+•   Residents
+•   Visitors
+•   Work Staff (+ Arts District)
+•   Hikers/bikers, dogs
+
+Solamere– largely self‐transported
+•   Residents
+•   Visitors (short‐term rentals)
+•   Hikers/bikers, dogs
+
+Deer Valley / Empire:
+•   Residents
+•   Visitors (short‐term rentals)
+•   Resort patrons (will require transport)
+•   Work staff
+Old Town / PCMR:
+•   Residents
+•   Visitors (short‐term rentals)
+•   Resort patrons (will require transport)
+•   Work staff
+•   Senior Center
+
+Thaynes – largely self‐transported
+• Residents
+• Visitors
+• Trail/golf course patrons
+• Hikers/bikers, dogs
+
+Park Meadows – largely self‐transported
+• Residents
+• Visitors (short‐term rentals)
+• MARC patrons
+
+NOTE 1: Construction crews and vehicles
+likely in all residential areas.
+NOTE 2: The City‐owned Bonanza Flats
+parcel (not shown) is located within
+Wasatch County, which will require
+coordination of notifications for that
+area.
+EVAC PROCEDURE
+
+Need for evacuation determined by competent authority
+    •   Mandatory or voluntary?
+    •   Police Chief, Wildfire Incident Commander, Sheriff can order
+    •   Determine zone(s), desired routing
+    •   Determine necessary public safety / transit / UDOT / other resources
+          ‐ Consider downstream impacts (traffic, infrastructure, services, etc.)
+
+Coordination with UDOT, PIO, public safety, Transit, EM, Public Works, Public
+Utilities, resorts, et al.
+
+Alerting / notifications / public announcements
+    •   Local media
+    •   Social media
+    •   IPAWS
+    •   UDOT
+    •   Announcements by public safety
+    Access Levels
+
+Access & Reentry Levels: To aid in determining appropriate access needs to threatened areas
+during various phases of the emergency, the following access levels (AL) are established for
+emergency response, recovery, and return phases. These may be adjusted as necessary by
+Incident Command:
+
+
+
+
+NOTE: Access levels will be determined by circumstances and threat to public safety, and may
+need to be adjusted by Incident/Unified Command.
+
+More details regarding Department of Homeland Security's Crisis Event Response and
+Recovery Access (CERRA) Framework can be found in the Evacuation Plan.
+    Brief Overview of Evacuation Stages
+Stage 1: Evacuation Alert – issued if possible to inform the community of a
+potential threat, allowing preparation – include as much timely/accurate info as
+possible
+    • EOC established if not already
+    • Major coordination with Transit, Police, UDOT, UHP, etc. to ensure traffic flow
+      and safety
+
+Stage 2: Evacuation Order - mandatory or voluntary
+
+Stage 3: Damage Assessment – conducted ASAP to:
+    •    Evaluate impact and ability to respond and recover.
+        o    Detailed infrastructure assessments – structures, water, gas, power, waste/stormwater,
+             debris, access routes, telecommunications, air quality, etc.
+    •    Assist with determining local and State level of contribution to the recovery
+         effort.
+    •    Determine kinds and quantities of disaster assistance necessary from State
+         and FEMA.
+    •    Document need for supplementary Federal assistance.
+    •    Notify insurers of damaged/destroyed property.
+       Evacuation Stages (Cont.)
+Stage 4: Re‐Entry Planning
+  Types of Re‐Entry:
+  • Restricted Entry – uses credentialing and placards
+    identifying needs and roles of entrants. Requires
+    enforcement and patrol.
+  • ‘Look and Leave’ policy – property owners allowed
+    to review damage and enter for limited time and
+    depart. Requires both enforcement and patrol.
+  • Unrestricted general re‐entry. Potentially leaves
+    properties or areas unsecured.
+         Evacuation Stages (Cont.)
+Stage 5: Rescind Evacuation Order
+• Substantial friction is likely to occur between evacuees’
+   desire to return to their homes as soon as possible and the
+   need to delay return until the evacuated area is declared
+   safe and can support the returning population.
+
+Stage 6: Community Re‐Entry
+• Consideration given to the size and demographics of the
+   evacuated population. With larger scale re‐entry plans, best
+   practices include Welcome Centers, which can also act as a
+   centralized facility for Non‐Government Organizations and
+   faith‐based communities to provide assistance.
+  REENTRY PROCEDURE
+
+
+Safety determined by competent authority
+    •   Determine zone(s), desired routing
+    •   Type of re‐entry (phased, escorted, etc.)
+    •   Determine necessary public safety / transit / UDOT / other resources
+          ‐ Consider downstream impacts (traffic, infrastructure, services, etc.)
+
+Coordination with UDOT, PIO, public safety, Transit, EM, Public Works, Public
+Utilities, Welcome Center hosting agencies, et al.
+
+Alerting / notifications / public announcements
+    •   Local media
+    •   Social media
+    •   IPAWS
+    •   UDOT
+    •   Announcements by public safety
+   Next Steps
+Full‐Scale Exercise, target date Spring 2022?
+‐ Initial planning stages, planning meetings now through late March 2022
+
+Roundtable discussion, work session?
+
+Newsmailer
+
+Social media outreach, preparedness posts
+Questions &
+Discussion
+Summer Trolley Service
+   Route Options
+     Park City Transit
+Background
+• Received many requests from business district to bring
+  back the Trolley as soon as possible.
+• Trolley’s return originally planned for fall 2021
+• Winter 20-21 Survey comments supported the Trolley
+• We have received conflicting comments about the Trolley
+  route
+   • Conducted a survey of residents, property owners, and
+     property managers
+Route Options
+Survey Results
+Questions?
+Silver Bird Condominiums at Deer Valley Third
+             Amendment, Unit 26
+
+                 City Council
+                June 24, 2021
+   Background
+• Silver Bird Condominiums approved in 1982 for 6
+  units.
+• Located in the RD, DV MPD District in Silver Lake
+  neighborhood.
+• Applicant is proposing to remove an existing deck
+  and rebuild an expanded deck and patio below, which
+  will add to their private space.
+      Silver Bird
+    Condominiums
+The patio and new deck meet
+all setback requirements and
+the HOA has approved the
+proposed change.
+
+Open Space requirement of
+60% maintained.
+Similar
+Amendments
+were approved in
+2014 and 2016
+for other units in
+the Silver Bird
+Condo complex.
+   Good Cause
+The proposed Plat Amendment has been reviewed in
+accordance with LMC § 15-7. Staff finds Good Cause for this
+Plat Amendment that expands the private space of Unit 26 with
+patio and deck area which will not be enclosed, and meets
+applicable LMC requirements including the Open Space
+requirement of 60%.
+
+No Public Streets, Right-of-Way or easements have been
+vacated or amended.
+        Recommendation
+• This Plat Amendment was unanimously recommended for
+  Council’s approval, by the Planning Commission, on June
+  9, 2021.
+
+• Staff recommends the Council hold a Public Hearing and
+  consider approving the Silver Bird Condominiums at Deer
+  Valley Third Amendment, Amending Unit 26.
+                                      Polly Samuels McLean, Esq.
+June 23, 2021
+
+Re: Acceptance of Private Roadways in Fairway Village
+
+Dear Mayor and Council,
+
+Thank you for your consideration to accept the roads within Fairway Village for dedication.
+Fairway Village consists of 64 properties (12 single family homes and 52 town homes). The
+residents of Fairway Village are approximately half primary and half secondary residents; these
+residents have been part of the fabric of the Park City community for over 40 years. Fairway
+Village property owners pay taxes like other residents of the City, but do not receive the benefit of
+road maintenance, snow plowing and other services for the streets on which they live, despite
+those streets being open to the public and seeing a high proportion of through traffic from non-
+residents.
+
+Park City Resolution 6-91 outlines the standards for acceptance by the City of private roads. The
+resolution is sensible in that it recognizes the inequity inherent in the city asking an HOA to
+maintain private roads that are open to and widely accessed by fellow City residents as through
+streets, and asks that private roads be brought up to par with city roads for dedication such that the
+City isn’t assuming deferred maintenance upon dedication. As fellow City residents, Fairway
+Village owners agree this is sound public policy.
+
+Staff has affirmed consistently over time that Fairway Village roads meet the dedication standard,
+as far back as 1991 and as recently as 2014. (See July 1991 letter, Exhibit E; August 2014 letter,
+Exhibit F). This has included both Fairway Village Drive and Sunny Slopes Drive, with the
+exception only of dead-end Sunny Slopes Court. Although the 1991 and 2014 dedication efforts
+did not proceed due to the cost and complexity of private citizens in an HOA pushing them
+forward, the HOA restarted its effort in 2019. City Engineer Ryan Taylor himself resurrected the
+2014 opinion letter from former engineer Matt Cassel, advised the HOA that the streets would
+still meet the dedication standard, and directed the HOA to engage a licensed engineer to evaluate
+the condition of the streets and prepare a list of improvements to be made for the street to be
+brought up to the city’s maintenance standard. The HOA did so, at considerable expense,
+following the city’s own process laid out at https://www.parkcity.org/departments/engineering-
+division/private-to-public-street-process.
+
+The HOA and City Staff, including Engineering and Public Works. met several times over the
+course of 2019 and 2020 to refine the study and the list of improvements. The city ultimately
+asked for a list of improvements of over $200,000, to be paid for and completed by the HOA. The
+HOA happily agreed to the work. Never once did the question of whether the streets themselves
+by virtue of their traffic collection pattern or some other factor fail to qualify ever come up. This
+question was long settled and put in writing by City Staff as a fact of its own process, as laid out
+https://www.parkcity.org/departments/engineering-division/private-to-public-street-process. Now,
+having expended considerable funds, in addition to two years of time, the HOA has been surprised
+at the finish line to learn that Fairway Village Drive is not recommended for dedication for
+reasons having nothing to do with the condition of the pavement – an opinion at odds with both
+20 years of staff opinion and levels of through-traffic that have only grown in the intervening time
+       Peak Law, PLLC | 395 Crestview Drive, Park City, UT 84098 | polly@peaklaw.net | (435) 714.2382
+                                      Polly Samuels McLean, Esq.
+periods with the development of neighboring subdivisions. Over 25% of the traffic on Fairway
+Village Drive is through-traffic. In addition, Fairway Village Drive acts as double access for the
+subdivision and those residents in the area if there is an issue on Meadows Drive.
+
+In yet another curveball at the finish line of a years-long process, the staff report asks the HOA to
+install sidewalks and bike lanes, and reconfigure driveways that have been standing for 40 years;
+none of these requirements were contemplated at any point until now, across the many detailed
+discussions that have occurred as part of this effort. While Council may decide that installation of
+these items on these roads are of benefit to the traveling public, these items are unrelated to the
+core principles of fairness involved in dedicating through streets maintained by private citizens for
+public benefit. The sidewalk-less configuration of the street is a product of its time like so many
+other roads, public and private. If sidewalks are to be installed for the benefit of the public that
+traverses Fairway Village, then the sidewalks should be paid for by the public.
+
+The Resolution states as its intent that “the City wishes to protect and enhance the welfare of
+residents and taxpayers and recognizes the legitimate concerns of property owners abutting
+private roads who had inadequate knowledge of the cost and responsibility associated with
+the maintenance of their private roads.” The owners in Fairway Village could not know the
+enormous cost and responsibility associated with the maintenance of these roads. Using the
+numbers provided in the staff report, since 1988, when the second subdivision plat was recorded,
+the residents have paid over $1 Million in road maintenance as well as annual costs for plowing of
+$561,000. Of course, the taxes for these homes are exactly the same as others in the City.
+
+The overall policy of the City is to own the roads within its jurisdiction. Fairway Village is in the
+heart of the Park City. It deserves to be provided similar services as other subdivisions in the
+City. Roads are a municipal function. It is important for emergency access and ensuring uniform
+quality to accept roads, especially, as is the case here, where the roads serve to other single-
+family residences and are used by the public. In addition, City waterlines and other utilities are
+in the roadway. This dedication will increase State funding for the City with B/C road funds.
+Furthermore, the roadway has been subject to public use for over 10 years as a thoroughfare, and
+therefore under State Code is considered dedicated. (See Utah Code 72-5-104). If this
+subdivision was platted today, it is likely that the streets would be public. Therefore, the City,
+while doing right by the owners of Fairway Village, is also getting a road that meets City
+Standards.
+
+The Staff Report brings up the issue of precedence. The HOA has been relying on Resolution 6-
+91 since 1991 as the standard. That is the precedent. If the Council or Staff doesn’t believe that
+the Resolution meets the needs of the City, then the Resolution needs to be re-evaluated.
+However, it is unfair to the HOA to change the rules after they have spent significant time and
+money to meet City requirements, and for the City Staff through letters and meetings to not tell
+them that the rules would change. A review of the Map of the Vicinity (attached) shows that all
+the nearby subdivision except Broken Spoke and Gleneagles have public streets including cul-de-
+sacs and dead end streets. (See Columbine Ct, Larkspur Dr, Morning Sky Ct, Lakeview Ct and
+cul-de-sacs off of Silver Cloud, Fairway Hills Court, Larkspur Drive, and Lupine Lane.) In
+addition, a review of other private streets shows that they are is either a cul-de-sac, have no outlet
+(i.e., a loop with no access to any other roads), is gated, or is a short road.
+       Peak Law, PLLC | 395 Crestview Drive, Park City, UT 84098 | polly@peaklaw.net | (435) 714.2382
+                                        Polly Samuels McLean, Esq.
+
+When the Resolution 6-91 criteria and conditions are met, Park City should follow the
+resolution and accept private roads. In the case of Fairway Village Drive and Sunny Slopes
+Drive, the resolution is met in full, with Fairway Village HOA willing to invest over $200,000
+to ensure that the City is accepting roads which are to standard. Therefore, we respectfully
+request that the Council direct staff to move forward in working with the HOA to accept the
+dedication of these roads. Fairway Village would come before Council at a later meeting with
+a Plat and ordinance to support formal dedication.
+
+Sincerely,
+
+PEAK LAW
+
+
+
+
+Polly Samuels McLean
+
+
+Exhibit 1 – Map of Vicinity
+
+
+
+
+      Public Streets
+
+      Fairway Village Private Streets
+
+      Private Streets in Broken Spoke & Gleneagles bordering Fairway Village
+       Peak Law, PLLC | 395 Crestview Drive, Park City, UT 84098 | polly@peaklaw.net | (435) 714.2382
+

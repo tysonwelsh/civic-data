@@ -1,0 +1,45 @@
+{
+  "contributions": [
+    {"date": null, "name": "Justin Howery", "amount": "700", "in_kind": false},
+    {"date": null, "name": "Equality Utah", "amount": "500", "in_kind": false},
+    {"date": null, "name": "Rebecca Gilbert", "amount": "53.04", "in_kind": false},
+    {"date": null, "name": "Warren Lade", "amount": "105.75", "in_kind": false},
+    {"date": null, "name": "Edna Garcia", "amount": "105.75", "in_kind": false},
+    {"date": null, "name": "SuEllen Shepard", "amount": "105.75", "in_kind": false},
+    {"date": null, "name": "Michelle Ray Sky Brown", "amount": "53.04", "in_kind": false},
+    {"date": null, "name": "Warren Lade", "amount": "53.04", "in_kind": false},
+    {"date": null, "name": "Charles Davis", "amount": "50", "in_kind": false},
+    {"date": null, "name": "Jamie Steverson", "amount": "3.48", "in_kind": false},
+    {"date": null, "name": "Geoff Webber", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Laura Ferre", "amount": "21.41", "in_kind": false},
+    {"date": null, "name": "Amelia Lafave", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Emily Trott", "amount": "26.68", "in_kind": false},
+    {"date": null, "name": "Jennifer Fonseca", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Jason McKenna", "amount": "25", "in_kind": false},
+    {"date": null, "name": "Benjamin SWEYKO", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Shammra Mcbride", "amount": "10.86", "in_kind": false},
+    {"date": null, "name": "Kate Flint", "amount": "10.86", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "USPS", "purpose": null, "amount": "312", "in_kind": false},
+    {"date": null, "recipient": "Amazon", "purpose": null, "amount": "53.46", "in_kind": false},
+    {"date": null, "recipient": "USPS", "purpose": null, "amount": "80.75", "in_kind": false},
+    {"date": null, "recipient": "Amazon", "purpose": null, "amount": "188.97", "in_kind": false},
+    {"date": null, "recipient": "Robert Wood Photography", "purpose": null, "amount": "159.10", "in_kind": false},
+    {"date": null, "recipient": "Hostinger", "purpose": null, "amount": "107.76", "in_kind": false}
+  ],
+  "total_contributions": "1818.10",
+  "total_expenditures": "1153.25",
+  "contributions_50_or_less": "141.73",
+  "beginning_balance": "0",
+  "ending_balance": "664.85",
+  "_meta": {
+    "index_path": "raw/2025_04_Jamie-Steverson.pdf",
+    "candidate": "Jamie Steverson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_04_Jamie-Steverson.pdf",
+    "pages": 6
+  }
+}

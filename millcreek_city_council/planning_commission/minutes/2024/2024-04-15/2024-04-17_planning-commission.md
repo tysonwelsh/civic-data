@@ -1,0 +1,460 @@
+# Millcreek Planning Commission — 2024-04-17
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04172024-796
+> Meeting date: 2024-04-17
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2024-04-17
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_04172024-796
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                     Minutes           of the
+                                                                       Millcreek       Planning            Commission
+                                                                                      Aprn 17, 2024
+                                                                                         5:00     p.m.
+                                                                                    Regular       Meeting
+
+
+The Planning              Coinmission           of Millcreek,      Utah,      met in a regular           public     meeting         on Wednesday,
+April      17, 2024,        at City     Hall,      located    at 1330 E. Chambers               Avenue,         Millcreek,       Utah       84106.       The
+meeting         was conducted             electronically        and live      streamed        via the City's           website      with    an option      for
+online      public      comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                         City     Staff
+Shawn        LaMar,         Chair                                                     Elyse     Sullivan,         City    Recorder
+Victoria        Reid,     Vice      Chair                                             Francis     Lilly,     Plaru'iing       & Zoning         Director
+Steven Anderson                                                                       John Brems,           City    Attorney
+David      Hulsberg          (absent)                                                 Kurt     Hansen,       Facilities       Director
+Christian        Larsen                                                               Carlos     Estudillo,         Planner
+Nils     Per Lofgren          (excused)                                               Robert      May,      Long         Range      Planner
+Diane      Soule                                                                      Brad     Sanderson,          Current       Planning       Manager
+Dwayne          Vance       (excused)
+Ian Wright
+
+
+
+Attendees:           Christine       Rican,           Erika     Chmielewski,          Lex Newman,               Matt      Strong,     Ed Henkels,
+Anthony         Maxfield
+
+
+REGULAR                MEETING              - 5:00 p.m.
+TIME        COMMENCED                       - 5:03 p.m.
+
+
+Chair     LaMar         called      the meeting       to order     and read a statement                describing         the duties       of the
+Planning        Comi'nission.
+
+
+1. Public       Hearings
+       1.1 Consideration                of GP-24-001, Adoption of the Murray                               North Station Area Plan
+       Planner:         Robert       May
+       Robert       May     said the commission               had previously          reviewed         the draft plan. The consultant,
+       GSBS,        would     present       the plan. Erika        Chinielewski,          GSBS,         said station         area plans are
+       required      by the state. The plan areas are centered                         around     transit       hubs and encompass                  an
+       approximate           one-half       mile    area around         the hub. The purpose               is to determine           a shared vision
+       that is informed          by existing         uses and how the community                    perceives           its future     on a 5-year
+       plaru'iing    timeline.        This plan looks           at a 5-year        implementation           and a 20-year            implementation.
+       She said the station             platform       was in Murray,          but 1/+ of the station             area was in Millcreek.
+       According          to an implementable                timeframe       and market         conditions,         tl'iis plan focuses         on the
+       core area more in depth.                 She outlined       the plan, which            includes       an executive            summary,
+       introduction,         existing       conditions,       public     engagement          process,      area alternatives,              vision    and
+Millcreek          Planning         Commission                  Meeting          Minutes                                      17 April          2024          Page        2 of 8
+
+
+
+
+     plan,     plan      elements         (quality       of life,       safety       and perception,                 land    use, coru'iectivity,              and
+
+     livability          and urban        design),        report        precedents,           and implementation                      plan.      The process              was to
+
+     look    at what         the cities      liave       (housing,           services,       connectivity,                safety,      and environment),                   what
+
+     they    need,        and how         to get there.          The station             area is saturated                with      affordable         and moderate-
+
+     income         housing        with     more       planned.          There        are spaces            available         for retail        and commercial,                   yet
+
+     they    remain         vacant.       There       is a mismatch               between           the supply            and demand              for parking.            Crime
+
+     is prevalent           in the station           area. The area is underserved                            for parks            and trees.
+
+
+     There        was community               engagement                online,         tabling      events,         open houses,              committee         meetings,
+
+     and stakeholder               interviews           for the pIan.            The      community                engagement               takeaways         included:
+
+     incorporating             additional         access to goods                 and services              into     the neighborhood,                 reestablishing
+
+     the "Fireclay"            name        in a positive            light,     improving            overall          connectivity             throughout         the
+
+     neighborhood              particularly            through          bike     and pedestrian-oriented                         transit,     increasing        visibility
+
+     and safety           tmoughout          the neighborhood,                     incorporating              additional            shade      throughout            the
+
+     neighborhood,                and adding           more       community               gathering          spaces         (public         or private).       The vision
+
+     is, "The         Murray       North       Station          area is an accessible,                    vibrant,        complete           community          that
+
+     provMes          residents        and visitors             alike     with     an interesting,                 engaging         mix      of land       uses to serve
+
+     their     needs."       The      goal was to try to create                       a transportation-oriented                       coininunity,            not just
+
+     development.
+
+
+     Chrnielewski              presented         three     area alternatives;                 options         A, B, and C. Option                     A started           from
+
+     the platform            and created             a ripple      effect        from     that area. Option                  B was to build             off of Main
+
+     Street.       Option       C was to create               a neighborhood                 and work              from      the outside            in. The     consultants
+
+     combined             the three       to get a character                 area with        a core area, the Fireclay                        neighborhood.               The
+
+     plan    framework             to achieve           the vision           is quality       of life,        safety,       Iand use, connectivity,                       and
+
+     livability          and urban        design.        Quality         of life      would        create        better      public         spaces     and new
+
+     destinations           by having          a station         plaza,        Main       Street      corridor,           adding       grocery        to Main         Street
+
+     and 4500            South,     having        a system          of parks          and greenways,                    increase      shade         and tree cover,              and
+
+     have      income         diverse       housing.          Safety         includes       increasing              stewardship,             crime     prevention
+
+     through          environmental            design,          lighting,        proactive          policy         and public           safety,      and parking.                She
+
+     noted        they    were     planning           to remove           the 237-stall            UTA        parking            lot and create         parking
+
+     structures           and shared         parking.         Land        use shows           the near term                 and long-term             opportunity               sites.
+
+     Land         use implications            include         more        residences          coming             into     the area.         She showed          a
+
+     connectivity            system        map       of the area. Livability                      and urban             design      brands      the station          as the
+
+     Fireclay         neighborhood             and improves                  major       multi-modal               corridors.
+
+
+     Chmielewski               pointed       out that funding                  sources       to help         implement              the plan        include     grant
+
+     sources,         general       funds,      private         developer          funds,         park      impact         fees, and UTA              funds.        The
+
+     consultants            took    the plan         to the Murray               Planning          Cornrnission              which          gave unanimous
+
+     recommendation                   of approval          to the city            council         with     3 edits;         Wasatch          Front     Regional
+
+     Council          does not have            a trail     connection              going      through            4500       South      at the station          and that
+
+     should         be added        in, create         Murray           city priorities            of what         is accessible             in the near term              for
+
+     funding,          and emphasize              income          diversity          in the area to the state.
+
+
+     Chair        LaMar        asked      if trail     connectivity              would       follow         4500         S. Chmielewski               said it would              be a
+
+      sidewalk           coru'iection.       Conunissioner                   Wright       asked          about      connectivity             from     Murray         to
+
+     Millcreek            to Salt Lake         City.      Ctunielewski                said Main            Street        is a regional          connection           and it
+
+     terminates            at 4500        S. They        are wanting             to open          it to the south            into     Murray.         On the north               side
+Mnlcreek       Planning             Commission          Meeting          Minutes                             17 April         2024       Page 3 of 8
+
+
+
+    of 4500         s., they were looking              for a standardized            streetscape         and coru'iected        bike lanes.
+    Coinn'iissioner            Reid asked if "Fireclay"                 would      be the whole          area for Murray          and Millcreek.
+    Chmielewski              said yes. Commissioner                 Reid noted this plan would                    be adopted         by both city
+    councils        to use to obtain         funding.        Coininissioner          Reid asked about parking                   safety      and crime.
+    May      said parking           structures      would     be shielded          from     view      near the public         areas.
+    Con'unissioner             Reid said buffers          could make the parking                     lots more private          and therefore
+    unsafe.      Chmielewski             said there would           be new parking             in amenity         dense areas. Safety            issues
+    occurred        when       it was not being used. She said some of the crime identified                                      in the area was
+   not real (noise            disruptions,         911 hang ups) or severe, it came from                          a few bad actors.          She was
+   working          with     Murray      on how to improve                some of the crime             issues through          a good landlord
+   program          and increasing          penalties       with bad actors.
+
+
+   Chair      LaMar         asked about the UTA               parking.         Chmielewski            said it was under parked               and they
+   would       only need 150-200                parking      spaces. Chair          LaMar       asked about park space. Chmielewski
+   said the 25 acres was for the 20-year                         build        out. The main          acreage      area is the trail      along Big
+   Cottonwood              Creek      and gathering         spaces. She noted UTA                    had given       a firm     corninitment        to
+   the plan.
+
+
+   John Brems              asked where       the 24.9 acres came from                     for parks.      Chi'nielewski         said that was the
+   per park acre ratio               of both Millcreek           and Murray.             Christine      Richrnan,       GSBS,        said she used
+   Millcreek's          and Murray's            park impact         fee documentation,                list of parks,     and current
+   population         in this area and compared                  them to each other.                 She created      a blended        amount,      24.9.
+   The Murray              level    of service     is higher      than Millcreek.
+
+
+   Robert      May         said he took the dra'ft plan to the Millcreek                        Community            Council,        and they
+   recommended                approval      of it with      the following          items to be considered:               incentivizing          a
+   grocery       store in the area, adding                additional          greenspace       or parks,       upping     the parking
+   requirements,             adding      a school,     adding       places of worship,               including      3 and 4-bedroom             units    in
+   any potential            development          so families        can live here, expanded                 UTA      routes     to help those
+   without       a car, and more            affordable       housing          options.
+
+
+   May     recomi'nended              adoption       of the plan based on the following                      staff findings:
+   1.    The vision           and implementation              initiatives        of the proposed          MNSAP          are in direct
+         alignment           with    the overarching          goals and objectives               outlined        in the seven vision          themes
+         that make up the Millcreek                    General         Plan, particularly            in terms     of housing       types and
+         opportunities,             mixed-use       development,              and integrating         various     modes       of transportation
+         options,      including         pedestrian,        bicycle,      and transit        networks.
+   2.    The proposed               MNSAP        embraces        the principles           of the Millcreek          General      Plan around
+         creating      vibrant        gathering      centers     and walkable             communities            arranged      around     public
+         transit,     particularly        for the Meadowbrook                   Area.     The plan encourages               creating      a vibrant
+         urban      environment           where      residents      can live,       work,     and play in close proximity.
+   3.    The implementation                 of the MNSAP               will    serve as a catalyst          for economic          development,
+         attracting        investment        and revitalizing            underutilized         areas surrounding              the transit     station.
+         By creating          a more      attractive      and accessible           environment           for businesses          and developers,
+         the plan has the potential                 to generate         new employment                opportunities         and increase
+         property       values,       ultimately       benefiting        the entire       coinrnunity.
+  4.     The Murtay            North     Station     Area Plan includes              the necessary          components           and objectives
+         clearly     stated and required              per HB 462 of Utah                 State Code Annotated.
+Millcreek        Planning          Commission                Meeting       Minutes                              17 April              2024      Page 4 of 8
+
+
+
+
+     ChairLaMar                opened      the public          hearing.
+
+
+    There       were no coinments.
+
+
+     Chair     LaMar           closed     the public          hearing.
+
+
+     Commissioner                Wright      liked     the plan. Commissioner                   Reid asked about adding                       language         that
+     relocation         of parking         will     be done with          concern        for public        safety    and look          at things     like
+     enhanced          lighting        and cameras            to prevent     crime.        Chair    LaMar       suggested             some of the
+     considerations              from     the corni'nunity            council.     May      said staff could make                 a note of the parking
+     for the city council.                Coinmissioner             Anderson        wondered          about Millcreek's                impact      fees being
+     used. May           said Millcreek             has a park impact             fee and it could           only be implemented                   for parks in
+     Millcreek.          Some of the trails                in this plan are in Millcreek.                  He said park impact                 fees were only
+     one source of funding                  to take advantage              of. Brems         recommended              24.9 acres be noted as
+     blended          acreage in the plan. Richman                       said the impact           fee rates are imbedded                    in the city's
+     ordinances.          The footnote              should      say the acres are based on a blended                           planning        rate, not
+     impact          fees for either        city.
+
+
+Commissioner              Reid         moved        that     the Planning          Commission              recommend             adopting          the
+proposed        Murray            North      Station         Area     Plan       based     on the details           of the staff         report      and the
+findings      identified          by staff,         including         the following         considerations:              1) that        in developing
+new parking             structures,         special         attention      be paid         to crime        prevention           strategies        such as
+enhanced         lighting,         cameras,          and making            sure there        is adequate            traffic      to deter        crime,        and
+
+2) to clarify          that     the acres         specified      for parks         is blended         and not one that                 is specific        to
+Millcreek.           Cornrnissioner          Soule asked if the commission                         agreed with          the Murray             Planning
+Commission's             recominendations.                   ('nmm%,tNancrAnderson                       seconded.            Chair     LaMar        called       for
+
+the vote.      Chair          LaMar        voted      yes, Commissioner                  Reid      voted     yes, Commissioner                    Anderson
+voted      yes, Commissioner                   Larsen         voted      yes, Commissioner                 Soule     voted       yes, and
+Commissioner                  Wright      voted       yes. The motion              passed       unanimously
+
+
+Francis      Lilly     thanked         Robert       May      and the GSBS team for their                     work.
+
+
+2. New       Items
+     2.1 Consideration                   of SDA-24-001,               Subdivision          Amendment                of the Mount              Olympus          Cove
+
+     Subdivision               to Accommodate                 a Lot      Boundary          Adjustment           Location:             4512 Abinadi
+     Road       Applicant:              Lex Newman              Planner:          Carlos     Estudillo
+     Carlos      Estudillo         said the subdivision                 amendment          was to amend lot 1205 of the Mt. Olympus
+     Cove Subdivision                   #12 for a lot boundary               adjustment       between 4512 Abinadi   Road and 4531
+     Mathews           Way,       lot 1007 of the Mt. Olympus                       Cove     Subdivision            #10. The reasoning               is because
+     there is currently                a 14-foot      easement          located     on lot 1205 running               the full        length     of the border
+     of both properties.                The easement             was established            in 2008 by the then two property                         owners.
+     This was to resolve                  a legal dispute           regarding       some landscaping                work       on the Mathews              Way
+
+     property          which      encroached           into the property            on Abinadi         Road. This would                 keep the
+     landscaping              feature     on the Mathews              Way property.             He showed           the commission               the proposed
+     lot boundaries.
+
+
+     Estudillo         read the following                  staff findings:
+Millcreek        Planning          Commission                Meeting          Minutes                              17 April        2024         Page 5 of 8
+
+
+
+                In accordance             with     Millcreek          Code,     Section      18.03.160.          D, a subdivision            amendment
+            shall meet the following                     approval      criteria:
+                 a       The amended              plat is in substantial            conformance            with     the original          approved
+                         subdivision;
+                         The amended              subdivision          does not increase              the number          of lots or parcels          or create
+                         new lots or parcels;
+                         The amended              subdivision          does not eliminate              or move       a recorded           easement
+                         without      the prior          approval      of the easement               holder;
+                        The amended               subdivision          will    not create any nonconfon'nities                     or increase        the
+                         degree of nonconfori'nity                    of any existing          structure        or use;
+                        The amended               subdivision          is compliant          with     all other applicable           requirements            of
+                        this Code and all other applicable                         regulations          and requirements.
+            The proposal           substantially            confonns          to the original         subdivision         and does not seek to
+            increase      the number             of lots or parcels.
+            The proposal           will    remove          some unnecessary                easements       which        will    require     approval        from
+            the easement           holder        before      recording.        Identifying          and abandoning             easements         can be
+            accomplished           through         a title    company,          requiring       consent         either beforehand            and/or     as part
+            of collecting         signatures         from      easement         holders,      such as individuals               and/or     affected
+            entities     before     plat recordation.
+
+
+    Estudillo          concluded          that the proposed             subdivision          amendment            does not create or continue
+    any non-conformity.                   Both     lots will      meet the minimum                   lot spatial     requirements,           as per MKZ
+    19.14      (single-family             residential        zones).      The proposal              is compliant        with    all other applicable
+    requirements           of this code and all other applicable                           regulations          and requirements.             Based on the
+    findings       and conclusions                listed     within     this report,        staff recominends              that the Planning
+    Commission             take comments                 at the public         meeting       and approve          the proposed            subdivision
+    amendment,            application            file number          SDA-24-001,            as proposed.
+
+
+    Chair      LaMar       asked about the lot sizes. Estudillo                          said the zone was R-1-10,                   so 10,000        square
+    foot lots, and the lots exceeded                         that requirement.
+
+
+    Lex Newman,               applicant,         said one of the owners                 of an adjacent            property       owned      four
+    properties         including          the two in question.                The easement            was a legal solution           to an
+    acrimonious           situation.        The new property                  owners     of the lots would              like to adjust       the boundary
+    and remove           the easement.             Tlie landscaping              feature     will     legally     remain       on the Mathews           Way
+    property.
+
+
+Commissioner             Larsen        moved         that     the Planning             Commission               approve        the subdivision
+amendment            file number            SDA-24-001              as presented.           Commissioner                Reid     seconded.         Chair
+LaMar       called      for the vote.            Chair       LaMar        voted     yes, Commissioner                   Reid     voted      yes,
+Commissioner             Anderson           voted        yes, Commissioner                  Larsen       voted      yes, Commissioner                 Soule
+voted   yes, and Commissioner                        Wright         voted      yes. The motion                 passed     unanimously.
+
+
+    2.2 Consideration                of SDA-24-002,                 Subdivision            Amendment              of the Brickcreek                Phase    2
+    Subdivision           and Expansion                  of Lot 1 to Create              the Mulberry              Place       Subdivision
+    Location:          1367    E Mffler           Avenue        Applicant:          Anthony            Maxfield         Planner:         Brad
+    Sanderson
+Millcreek          Planning         Commission             Meeting       Minutes                              17 April          2024         Page 6 of 8
+
+
+
+     Brad        Sanderson          said Brickcreek          Phase 2 Lot 1 boundaries                 would         be expanded         to create a
+     new Mulberry              Place Subdivision.               This will      clean up easements                 and old property            lines and
+     record        a new public         utility     easement         along Highland           Drive      and some dedication                 on Miller
+     Avenue.            Staff sent out notices             on tlie subdivision         and no public              coini'nents     had been received.
+     He recominended                  approval       of the item.
+
+
+     Corni'nissioner           Wright       asked if the neighboring                 building      would      be knocked           down.        Sanderson
+     said no. Anthony                Maxfield,        applicant,       said he owned          both neighboring             properties,          they have
+     shared parking            and shared           amenities        between      the two buildings,               so it made sense to put them
+     on a single           plat. He wanted           to clean up the plat.
+
+
+Commissioner               Wright       moved         to approve         ffle SDA-24-002              based        on the staff        report     and
+findings.         Commissioner             Soule      seconded.         Chair      LaMar        called      for    the vote.      Chair        LaMar
+voted    yes, Commissioner                   Reid      voted     yes, Commissioner                Anderson            voted      yes, Commissioner
+Larsen          voted     yes, Commissioner                Soule      voted      yes, and Commissioner                   Wright        voted      yes. The
+motion          passed     unanimously.
+
+
+     2.3 Consideration                 of SD-24-001,             Subdivision         of a Mixed-Use               Development            Including             20
+     Townhomes               and Live/Work               Units       in the C-2 Zone            Location:          4372 S 900 E Applicant:
+     Matt        Strong      Planner:        Carlos        Estudillo
+     Carlos        Estudillo        said the commission               gave the project          preliminary          conditional        use approval
+     in August            2023. He gave an overview                    of the project       site plan and plat of the Quincy
+     Townhomes,              a mixed-use          project       containing       20 units in 4 buildings,               with     4 live/work          units.
+     The findings            were:
+            *      The site layout, architecture,               and landscaping        have already been approved by the Planning
+                   Commission.
+            *      There are no changes to the original plans and aII conditions                              of approvaI are met per the
+                   technical review conducted by City Staff.
+            *      Property dedication and all public improvements                            were completed           prior to, or at the time when
+                   the buildings were/are in construction.
+            *      The proposed plat is shows all existing and proposed shared access, parking, and utility
+                   easements, which will be recorded as part of the subdivision plat; along with all other private
+                   governing documents cornrnonly associated with condominium       (i.e., bylaws, CC&R's, etc.).
+
+
+     Estudillo          said there were no changes                   to the original       plans. All       the conditions           of the approval
+    have been met through                    the staff technical            review     committee.         The public            improvements            have
+    been bonded              for. He concluded              that the site plan and conditional                     use permit       were already
+     approved           by the Planning           Cornrnission          in 2023 and no changes                    are being      made other than the
+     subdividing            of property       into parcels         or units,     to provide       the option         for individual           ownership.
+    The proposal             complies        with     the requirements            set forth     in the subdivision              and the underlying
+     commercial             (C-2)     zone. The plat will            create shared access, parking,                    public     utility,      and other
+    related        easements         necessary        for the development              to function        as a subdivision.            Governing
+    bylaws         will    be private       and are required            to be recorded          at the time the plat is recorded.
+    The development                  meets all requirements               necessary        for subdivision            per Millcreek's
+     subdivision           code as listed         within     Title     18. All    necessary       improvements             were proposed               and
+     approved           by staff through            technical      review      and no new infrastructure                 or other improvements
+     are being          proposed       as part of this application.               Estudillo       recommended             approval           of the
+     subdivision.
+ Millcreek              Planning           Commission               Meeting        Minutes                            17 April        2024         Page 7 of 8
+
+
+
+
+            Matt      Strong,     owner,         said the units would              be subdivided          for individual           ownership.        He said the
+            staff was great to work                 with     in streamlining            permits.
+
+
+ Commissioner                    Larsen         moved        that    the Planning            Commission            approve         the subdivision
+ application              SD-24-001              based     on the findings              and conclusions            of the staff       report.
+ Commissioner                    Soule         seconded.       Chair      LaMar          called     for the vote.         Chair      LaMar         voted    yes,
+ Commissioner                    Reid      voted     yes, Commissioner                   Anderson         voted     yes, Commissioner                 Larsen
+ voted        yes, Commissioner                     Soule      voted     yes, and Commissioner                     Wright         voted    yes. The motion
+ passed            unanimously.
+
+
+ 3. Commission                   Business
+        3.1 Approval                of February             21, 2024 Regular               Meeting        Minutes
+        3.2 Approval                of March          20, 2024 Regular                 Meeting        Minutes
+
+
+Chair          LarMar            moved          to approve          the minutes          for February             21s' and March            20"' of 2024 as
+presented              in the packet.              Commissioner               Anderson           seconded.        Chair     LaMar         called     for   the
+vote.        Chair       LaMar            voted     yes, Commissioner                   Reid      voted   yes, Commissioner                 Anderson         voted
+yes, Commissioner                         Larsen     voted      yes, Commissioner                   Soule     voted       yes, and Commissioner
+Wright              abstained.           The motion          passed.
+
+
+        3.3 Updates               from         the Planning          and Zoning            Director
+        Francis         Lilly     said the Urban             Land      Institute       was providing         a training      at Millcreek          City    Hall    on
+        May 10fll. He would                     like to do a joint           corni'nission        and city council          meeting       on May 13I'l to
+        take a tour of development                         projects.
+
+
+3. Calendar               of Upcoming               Meetings
+        *    City      Council          Mtg.    4/22/24      7:00 p.m.
+        *    Canyon        Rim          Citizens    Association          Mtg.,      5/1/24,       6:30 p.m.
+        *    East Mill          Creek      Community            Council        Mtg.,     5/2/24,      7:00 p.m.
+        *    Mt. Olympus                Community           Council       Mtg.,      5/6/24,      6:00 p.m.
+        *    Millcreek          Community            Council         Mtg.,     5/7/24,     6:30 p.m.
+        *    Historic      Preservation             Commission            Mtg.,      5/9/24,      6:00 p.m.
+        *    City     Council           Mtg.    5/13/24      7:00 p.m.
+        @ Planning              Commission           Mtg.,     5/15/24,        5:00 p.m.
+
+
+Coinmissioner                   Soule said she is on the sidewalks                       and trails       cornrnittee       and the committee              met the
+prior        week.      She felt doing             sidewalks         and trails      at the same time was overwhelming,                         but the
+consultants             did well.         She said they discussed                  how to create safe roads when                     safe sidewalks          for
+school         access could              not be created.
+
+
+ADJOURNED:                        Commissioner                Anderson             moved       to adjourn         the meeting         at 6:30 p.m.
+Camhhh2,:i,.iiuiiir             Suule       seconded.         Chair      LaMar          called     for the vote.          Chair     LaMar       voted      yes,
+Commissioner                    Reid      voted     yes, Commissioner                   Anderson          voted     yes, Commissioner                Larsen
+voted        yes, Commissioner                     Soule      voted     yes, and Commissioner                      Wright         voted   yes. The moti6n
+passed         unanimously.
+Millcreek   Planning   Commission   Meeting      Minutes              17 April   2024   Page 8 of 8
+
+
+
+
+                        Attest:               e San.       Recorder

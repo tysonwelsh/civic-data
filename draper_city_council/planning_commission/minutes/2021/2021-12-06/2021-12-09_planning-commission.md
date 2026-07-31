@@ -1,0 +1,179 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=521&doc_id=9ca597c4-808c-11ec-b1e1-0050569183fa
+> Meeting date: 2021-12-09
+> Format: text
+
+Approved minutes 1/27/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, DECEMBER 9, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:        Chairperson Andrew Adams, Commissioners Gary Ogden, Lisa Fowler,
+                      John Van Hoff, Mary Squire and Alternate Commissioner Susan Nixon
+
+ABSENT:               Vice Chairperson Craig Hawker, Alternate Commissioners DeLaina
+                      Tonks and Tab Bingham
+
+
+STAFF PRESENT:        Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                      Amie Salazar and Todd Draper
+
+6:30 PM Business Meeting:
+
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for October 14, 2021
+       (Administrative Action) – Error, minutes previously approved at the November 18,
+       2021 meeting.
+
+2.     Action Item: Approve Planning Commission meeting minutes for October 28, 2021
+       (Administrative Action)
+
+Motion: Commissioner Squire motioned to approve and the Planning Commission meeting
+minutes for October 28, 2021.
+
+Second: Commissioner Ogden.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Squire and Nixon voted, “Aye”.
+
+3.     Public Hearing: Juan Diego Tennis Courts - Fence (Administrative Action)
+
+On the request by Joe Colosimo, representing Juan Diego Catholic High School and the Catholic
+Diocese of Salt Lake City a Conditional Use Permit for the purpose of erecting a new 10’ tall fence
+to enclose new tennis courts that are planned for construction on an approximately 37.5 acre site,
+located at approximately 402 E. Kimballs Lane, known as application USE-0147-2021, Staff
+contact: Todd A. Draper at 801-576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner stated the proposal is for the construction of a fence over six feet in height
+up to 10 feet in height. He presented an aerial photo of the school and indicated the land use
+designation is Cultural and Institutional. The property is zoned is A5. He presented a site plan of
+the tennis courts and depicted the location of the proposed fencing. He noted the tennis courts
+would be constructed under a permitted use. He indicated the tennis courts would be connected to
+the parking lot to the north. The elevation plan showed the height and gates of the fence. He
+Draper City Planning Commission Meeting
+December 9, 2021
+Page 2
+overviewed site photos of the property. He explained where the tennis courts and fencing would
+be installed.
+
+Commissioner Squire asked how tall the backstop is. It was mentioned it quite a bit taller than the
+proposed fencing.
+
+Chair Adams invited the applicant to speak.
+
+Blake York, Applicant spoke from the audience, but the recorder did not pick up his response.
+
+Chair Adams opened the public hearing. There were no speakers. He closed the public hearing.
+
+Commissioner Ogden asked if the fence is an open chain link fence that people could see through
+to the neighboring properties.
+
+Todd Draper, Planner stated that the property line is not close to the proposed location.
+
+Blake York, Applicant commented they will have wind screens to help with high winds.
+
+Commissioner Van Hoff indicated it would be similar to the fencing at Corner Canyon.
+
+Motion: Commissioner Ogden motioned to approve the conditional use permit, as requested
+by Joe Colosimo, representing Juan Diego Catholic High School and the Catholic Diocese of
+Salt Lake City, for the installation of 10 foot tall fencing, Application USE-0147-2021, based
+on the findings and subject to the conditions listed in the staff report, dated November 29,
+2021.
+
+Second: Commissioner Van Hoff.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Squire and Nixon voted “Aye”.
+
+4.     Public Hearing: Elite Carpal Tunnel Zoning Text Amendment (Legislative Action)
+
+A request by Gary Reynolds, representing Rockworks Land Management, LLC, for approval of a
+Text Amendment to change the use of ‘medical service’ from not permitted to permitted in the DC
+(Destination Commercial) zone. Application: TEXTMAP-0166-2021. Staff contact is Maryann
+Pickering, 801-576-6391 or maryann.pickering@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager stated this text amendment affects the DC Destination
+Commercial Zone, located between IKEA and Bengerter Highway. The land use designation is
+also Destination Commercial. She presented an aerial map of the site and mentioned the applicant
+is seeking to add a new use, “medical services” to one of the buildings in the zone for Elite Carpal
+Tunnel. Currently, “medical services” is not permitted in the DC Zones.
+
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+December 9, 2021
+Page 3
+Commissioner Squire asked if approving this use would medical services be allowed in other DC
+Zones.
+
+Jennifer Jastremsky, Planning Manager responded that it would. She indicated this is the only are
+area in the city with this zone. There are a few office buildings in this area.
+
+Commissioner Squire asked if there is a reason not to allow medical services.
+
+Jennifer Jastremsky, Planning Manager stated there is not since “medical services” are typically
+allowed in offices.
+
+Commissioner Nixon asked if there were other regulation as far as parking, landscaping or other
+property improvements associated with “medical services.”
+
+Jennifer Jastremsky, Planning Manager stated the same standards apply and four parking spaces
+per 1,000, similar to office, is required for “medical services.”
+
+Gary Peterson with Elite Carpal Tunnel on behalf of Gary Reynolds, stated he would like this
+amendment in order to bring in his business.
+
+Chair Adams asked if about the difficulty to find space for his business use.
+
+Gary Peterson commented it is challenging to find the type of space provided at the proposed
+building. He mentioned they would bring an important service to the community.
+
+Chairman Adams opened the public hearing. No one spoke. He then closed the public hearing. He
+mentioned the DC Zone was created to bring in IKEA and other similar uses. He believes it is an
+asset to bring business like the one being proposed to this part of the city.
+
+Motion: Commissioner Nixon motioned to forward a positive recommendation to the City
+Council for the Elite Carpal Tunnel Text Amendment, as requested by Gary Reynolds,
+representing Rockworks Land Management, LLC to allow Medical Services as a permitted
+use in the DC Zone, Application TEXTMAP-0166-2021, based on the findings and subject to
+the conditions listed in the staff report, dated November 30, 2021, as written.
+
+Second: Commissioner Fowler.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Fowler, Van Hoff and Nixon voted, “Aye”.
+
+5.     Public Hearing: Vista 600 West Master Area Plan Amendment (Legislative Action)
+
+This agenda item has been Continued
+On the request of Howard Cooke, representing Gardner Company, for a Master Area Plan
+Amendment on 15.24 acres of land located at 13645 South 600 West in the TSD zone and a Text
+
+
+
+                                                3
+Draper City Planning Commission Meeting
+December 9, 2021
+Page 4
+Amendment to DCMC Section 9-14-110. Application TEXTMAP-0109-2021, Staff Contact is
+Jennifer Jastremsky, (801) 576-6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky reminded Commissioners to complete make up trainings as they have three
+weeks.
+
+Mike Barker, City Attorney stated that they need to bring changes to the Planning Commission
+bylaws in January. He requested any input from the Planning Commission and mentioned the City
+Council would have to approve it.
+
+6.     Adjournment – 6:51p.m.
+
+Chairman Adams called for a motion to adjourn, Commissioner Squire made a motion to adjourn.
+Chairman Adams asked if all were in favor, Commissioners Ogden, Squire, Fowler, Van Hoff and
+Nixon stated, “Aye”.
+
+
+
+
+                                             4
+

@@ -1,0 +1,387 @@
+# Millcreek Planning Commission — 2024-02-21
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02212024-776
+> Meeting date: 2024-02-21
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2024-02-21
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_02212024-776
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                     Minutes            of the
+                                                                        Millcreek       Planning            Commission
+                                                                                    February        21, 2024
+                                                                                             5:00 p.m.
+                                                                                    Regular        Meeting
+
+
+
+The Planning           Corninission           of Millcreek,          Utah, met in a regular               public     meeting         on Wednesday,
+February       21, 2024,          at City    Hall,     located      at 1330 E. Chambers                 Avenue,       Millcreek,        Utah      84106.
+The meeting          was conducted                electronically        and live streamed           via the City's            website      with     an
+option      for online         public     comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                          City     Staff
+Shawn       LaMar,        Chair                                                        Alexander          Wendt,       Deputy        Recorder
+Victoria     Reid, Vice           Chair                                                Francis     Lilly,     Planning         & Zoning          Director
+Steven Anderson                                                                       Brad      Sanderson,          Current      Planning         Manager
+David      Hulsberg        (excused)                                                  Katie      Larsen,      Planner
+Christian      Larsen                                                                 Kurt     Hansen,        Facilities       Director
+Nils    Per Lofgren                                                                   Carlos      Estudillo,         Planner
+Diane      Soule (excused)                                                             Sean Murray,           Planner
+Dwayne       Vance                                                                    Ryan Bagshaw,                 Dev. Review          Coordinator
+Ian Wright         (virtual)
+
+
+
+Attendees:         Adam          Watts,     Mike     Renza, Robert          Renza,      Nathan          Brockbank,           Brian    Anderson,
+Roru'iie    Wilcox,        Kathy        Wilcox,      David      Sowards
+
+
+REGULAR              MEETING                - 5:00 p.m.
+TIME        COMMENCED                     - 5:06 p.m.
+
+
+Chair      LaMar     called       the meeting         to order and read a statement                     describing         the duties      of the
+Planning      Commission.
+
+
+Chair      LaMar          moved         to reorder       the agenda         to start     with      item      ZM-24-001.              Commissioner
+Larsen      seconded           the motion.           Chair      LaMar       asked      for    a voice       vote.    All     Commissioners               voted
+yes. The      motion        passed        unanimously.
+
+
+1.1 Consideration                of ZM-24-001,            a proposed         rezone          of the property           located        at 4433 S
+Garden       Drive        from     the R-I-10          single      family   zone to the R-4-8.5                  medium         density      zone
+Katie    Larsen,      Planner,          said the purpose           of this rezone       is to allow         a six-unit       residential
+development          in the fon'n of two triplexes.                  The parcel        is zoned R-I           currently.        The lot currently
+has one single         family       and one two family               dwelling       onsite.     Many        properties        in the area have non-
+confonning         uses, such as duplexes.                   General    plan considerations               include      preserving          and
+enhancing      the physical             elements      that define        each neighborhood's                 cliaracter.       The proposal         is not
+in han'nony        with    the future        land use map. The area has several                         different      housing        types. Adding
+more units      to the area may fit the already                      established       character.         Another          goal is to strive       for a
+Mfflcreek       Planning          Commission           Meeting         Minutes                     21 February         2024       Page 2 of 7
+
+
+
+variety     of housing        choices     in types and styles. The purpose                         of the rezone      is to allow        the 6 units
+that would          otherwise      not be allowed.         The property             is O.41 acres. The project               preliminarily           meets
+the requirement          of the R-4 zone. A dedication                      may be required            after center-line         measurements
+are provided.         Five residents         attended      the neighborhood                meeting          and three of the five were
+opposed       to the rezone.         Millcreek       Coinmunity             Council      voted      7-5 to recommend             denial      of the
+application.         The Millcreek         Cornrnunity        Council         wished       to protect        the single-family          R-1 zone.
+Staff does not recoi'nunend               approval       or disapproval              of this rezone.          Staff does recoinmend               that the
+Planning       Commission            take comments          from       the public       meeting        and forsvard       a recommendation                    to
+the City     Council.
+
+
+Commissioner            Reid asked if the Coinmission                       should     make a recoinmendation                   to approve        or deny
+tonight.     Ms. Larsen          said yes. Chair         LaMar       asked what would                happen      to the duplex          if this rezone
+does not happen.             Ms. Larsen       said that the home would                   have to go to a land use hearing.
+Commissioner            Vance       asked if there are construction                   requirements            for individual      units      versus      a
+triplex.
+
+
+Applicant,      Nathan        Brockbank,         thanked      the Planning             Commission.            On Garden         Drive     there are
+currently      5 duplexes.         The applicant         would       like to build         two triplexes         and tear down           a dilapidated
+house. They          are getting      rid of two entrances              on Garden          Drive      and using      existing     entrances.          Mr.
+Brockbank           does not see how tearing              down        a dilapidated         house would           hurt other home            values.
+They plan to rent the triplex                for $1,800       a month.         They      are in the market           to help people          who
+cannot      afford     $3,400      a month       to rent a 3-bedroom               home.     They would           build the homes as condos.
+There would           be 17 parking        stalls for 6 units.          Commissioner                Larsen     asked about street parking                   for
+Mr. Brockbank's              other units     on Garden        Drive.         Mr.     Brockbank        replied     he does not allow            it.
+
+
+Mr.     Sowards       from      the Millcreek        Community           Council        said that the community                 council      voted       7-5
+to recoi'nmend          denial.     The people        that voted        for this will        vote to allow         any housing.          The people
+who voted        against      feel this does not fit the neighborhood                         or plan.       Commissioner         Reid said that
+some people           were concerned          with    parking.        Mr.     Sowards        said that parking         is generally          good. The
+issue is people         pulling      out in the street too often.              Commissioner                 Reid asked if owner           occupied
+units would          change minds.         Mr.    Sowards        said it would.
+
+
+Chair      LaMar       opened       the public     hearing.
+
+
+Ronnie      Wilcox-       Ms. Wilcox         said she lives at 4530 S. Next                        to Walmart      there is a huge apartment
+complex.       She is concerned            about the aesthetics              of residential          neighborhoods.          Every       corner      has a
+new apartment           building.      This is a quaint,            cute, little      street, many homes            have been torn down                  and
+remodeled        as single-family          homes.        She would          like to see this street be the same. This is a
+travesty     in her mind          to see more homes be turned                      into a triplex.       Keep the neighborhoods                 intact.
+Does there really            need to be another           triplex      or condo        complex?
+
+
+Kathy      Wilcox      - Ms. Wilcox          said she tore down               her house and built              a brand-new        house.       Someone
+could build         a nice home here and not add confusion                            to the neighborhood.             It should        be left as a
+family-oriented          area. Some homes             have been torn down,                   but they were remade               into single          family
+homes       that are very nice. You              would     not want a triplex              built    right    next to you. She would               like
+single     family     homes.
+
+
+Mr.   Sowards         - There      are 30 parcels        in the area, and many                 are duplexes.         There      are 8 duplexes           on
+ Mfflcreek         Planning             Commission               Meeting            Minutes                          21 February                2024           Page         3 of 7
+
+
+
+
+ 30 of tliose        lots.       70%      of the neighborhood                     is still     single-family                homes.         If you open the door                      this
+keeps       expanding             and it would             change      the nature             of the neighborhood                       significantly.            There         is a
+need for housing.                 He asked           to preserve          this     street        as single          family.        This     would        be adding             6 units
+ on a single-family                 lot, which        is a lot of density.
+
+
+ Chair      LaMar         closed        the public          hearing.
+
+
+Commissioner                 Reid      asked       Ms. Larsen            for her thought                process            because         there     was not a clear
+recoini'nendation.                Ms.      Larsen      said that the General                        Plan     does have             features        that would               allow      this.
+There       is also encouragement                     from       the state to build                 more          multi-unit         housing.           Tlie    General             Plan
+also does not support                     this because           the General             Plan was created                    by residents            and the property                     is
+zoned       R-1-10        for a reason.             She caru'iot         fully      recoinrnend               this because             there       are many
+considerations.              Commissioner                  Lofgren       said that there               are attributes                in the neighborhood                      that fit,
+but the General              Plan       also seems to not support                        this.      He is leaning                 towards        no. Commissioner
+Vance        said he would              like     affordability           added          to the development                        agreement.         Mr.        Brems         said that
+relying       on a development                    agreement           for single         family         housing            will      not work        well.        It should          be
+platted      and subdivided                now.       Chair      LaMar           said that he is leaning                       towards          no. This        would          be a big
+jump      in zoning.          If in the future              the applicant            said a different                 zone that           allows        a twin       home       might
+fit better.      This     would         be more          compatible              with    the neighborhood.                        Right     now,        he would             not be in
+favor.      Coim'nissioner                Larsen      said he sees reason                    for and against                 this.    He said he is leaning
+towards         no. Coinmissioner                   Reid     said it was striking                    that the Community                        Council          voted        against
+this.    That     does not happen                  often.     Yet     this is the missing                    middle         housing         that is often             talked
+about.      It is not a big            apartment            complex,        it is smaller.             Comi'nissioner                 Reid       said that she often
+goes with         the Coinmunity                  Councils          because         they      must         live     with      the effects.         Commissioner
+Anderson          said there           is blight,      and it is nice             to get rid of it. He does not see traffic                                     problems            being
+an issue.        However,           this does not follow                  the General                Plan.        A mixed           income         in a neighborhood                       is
+the best. Perhaps                it would         be best if this was a couple                         duplexes.
+
+
+Chair     LaMar         asked       if the applicant             and Coini'nission                   would           consider         a R-2 zone.              Mr.     Brockbank
+said they        always          put in a deed restriction.                    They       will      record         the plat         as condos.          They         will     record
+as 6 different           parcels        so if they          sell the property                it would         have         to be sold.          Coinmissioner                 Reid
+asked     how      people         would          feel if it was an R-2                  Zone.       Ms.      Larsen         said it could            be one duplex                   in the
+R-2-10       and two         duplexes            in the R-2-8.5.           If the motion                is not in favor,                they     could         ask the
+applicant        to consider            a less intense           plan.     Mr.       Lilly       said the Comi'nission                      could       limit        development
+through       a development                 agreement          or zone           condition.
+
+
+Commissioner                 Reid       moved         to recommend                   to the City              Council             to rezone         from         R-I-10         to R-
+4-8.5     with    the zone             condition           to limit      the      property            to four          units.        Ms.    Larsen         said that           a zone
+condition        will     live     perpetually         with      the land           versus          a development                  agreement            that would             expire
+at some point            in time.         Commissioner                 Larsen           seconded             the motion.               Chair        LaMar            proposed                  a
+substitute        motion           that     the Planning               Commission                   recommend                  denial       of the        application,               with
+the recommendation                        that      the applicant              work          with     the     community                   and    city     staff       on a lesser
+intense       zone      which        may         include       two     to four          units.       Carlos          Estudillo,           Planner,        asked         the
+Commission              if it worild        serve      to recominend                 a continuance                  to show          a new       site plan.
+Coinmissioner             Larsen          said a continuance                is not necessary,                      and that he supports                   Corni'nissioner
+Reid's      motion        because          it is not spot zoning,                  but it is a lower                 density.         Commissioner                    Lofgren
+seconded         the substitute                motion.         Chair      LaMar          said that           6 units        is too intense              but does not want
+to specify       a unit      count        at this time.          Commissioner                    Vance        said he liked               the single-family                   nature
+Millcreek          Planning         Commission              Meeting         Minutes                     21 February            2024         Page 4 of 7
+
+
+
+and if you allow            four units then you may allow                          six. Chair          LaMar        said he would             like    to retract
+his substitute           motion.        Mr. Brems           said the commission                 cannot      rescind        the motion.         Chair
+LaMar         asked      for the vote on the substitute                        motion.         All     Commissioners                voted     no. The
+substitute         motion        failed     unanimously.               Chair       LaMar        asked       for    a vote     on the original                  motion
+that    Commissioner                Reid       made,       to recommend              to the City          Council          to rezone        from      R-I-10              to
+R-4-8.5       with      the zone condition                 to limit      the property            to four        units.     Commissioner               Larsen
+seconded         the motion.            Chair       LaMar        asked       for the vote.             Commissioners                Wright         voted        yes,
+Commissioner               Reid      voted      yes, Commissioner                   Anderson            voted      yes, Commissioner                      Larsen
+voted      yes. Commissioner                   Vance       voted       no, Chair        LaMar           voted      no, and Commissioner
+Lofgren        voted      no. The motion                  passed.
+
+
+1. Public       Hearings
+1.2 Consideration                of CU-23-009,              A conditional             use permit           to accommodate                   a mixed-use
+residential          complex,        consisting           of 12 townhome               units     and 1500           sq ft of commercial                    space at
+4358 S 900 E, by applicant                         Brad     Anderson.
+Carlos      Estudillo,       Planner,        described        the property           at 4358 S 900 E. This property                         is zoned C-2,
+and it is near C-2, R-M,                  R-1, and R-2 uses. The developer                            is proposing          a mixed-use          residential
+development             including       12 units located              in the interior      of the lot split into two buildings.                            A shared
+easement        agreement           has been signed             with     the current       owners         to provide         access for the future
+development             of the lots on 4356-4358                   S 900 and 4372 900 E. The 7-plex                           would         have tandem
+two-car      units.      The design         of the site and buildings                 shall comply              with     all applicable        development
+standards       of the Millcreek               Zoning       code and any site development                          standards        required         by
+Millcreek        Engineering            and the Building               Official.     The 5-plex           would        have 3 bedrooms               and a 2-car
+garage. The development                     will    include      1,500       square feet of commercial                      space dedicated               to
+commercial           neighborhood              uses. The building              also features           a ten-foot         setback     from     900 E. The
+applicant       complies         with     19.77      Landscaping            standards      by allocating               20% of the overall                 lot to
+open space. Mr. Estudillo                    said there is a mitigation                plan for the property                 for environmental                   clean-
+up. The traffic          study showed              that the development                is expected          to generate        124 vehicle            trips per
+day with       18 trips in the morning                    and 19 during            the afternoon          peak hour.         The development                    is
+expected       to need 17 stalls on weekdays                          and 20 on weekends.                 The proposed              site plan includes                 24
+parking       spaces within           two car garages in the residential                        units     with     an additional            10 onsite
+parking       stalls.    The proposal           is anticipated           to not have an impact                   on local traffic       conditions.              The
+applicant       must comply             with    the fire code. The Millcreek                         Community            Council     discussed            adding
+additional       units     and additional            parking.       There was concern                  about people          using     their garages                 as
+storage      units not as parking               spaces. The Millcreek                 Cominunity                Council     voted     6 in favor           and 4
+against     with      1 abstention.          Staff stated that based on their                        findings     they support         the
+recommendation              of approval            to the city council.
+
+
+Chair     LaMar         asked about the parking                 ratios.      Mr. Estudillo             said that the zone has parking
+requirements.           There would             need to be I space per 300 or 400 square feet. Mr.                                    Brems          asked if the
+property       has been remediated.                  Mr. Estudillo           said remediation              can be a condition               of the approval.
+The applicant,           Brian      Anderson,          said that the commercial                      space would          be two levels,           1,500        square
+feet per level.         Parking         stalls would        be shared between              the commercial                  space and homes.
+Environmental             cleanup         has not been done. A remediation                            plan is in place.        Coinmissioner                   Reid
+said the landscaping                plan is lovely.          Mr. Anderson             spoke about the easement.                      He is working                   with
+Quincy       townhomes            to connect         the sidewalks.
+
+
+Chair     LaMar         opened       the public         hearing.
+Millcreek            Planning           Commission              Meeting           Minutes                        21 February              2024         Page      5 of 7
+
+
+
+
+There        were     no comments.
+
+
+Chair        LaMar       closed         the public       hearing.
+
+
+Commissioner                  Vance      asked      if the parking             still    works      if there        is 3,000          square       feet of parking.
+Estudillo           said there        needs     to be the addition                of four        parking         spaces.        Chair     LaMar         said that he
+does not have                strong     feelings       about     the owner's              occupancy              for this property.               Commissioner                  Reid
+asked        about     owner          occupancy         on a conditional                 use pen'nit.          A/Ir. Brems            said that would            be
+difficult      to enforce.
+
+
+Commissioner                   Vance       moved        to recommend                    approval          of the conditional                   use permit              based
+on the findings                and      conclusions         in the staff               report      with     the conditions                 that      the
+environmental                  remediation             be certified           as complete              to the satisfaction                 of the City           Attorney,
+that     the shared            access      agreement            with      the      adjoining             landowner              in the southwest                corner           be
+clarified         to confirm            that    it does     provide            shared           access     for     the property               and     that     additional
+parking         be provided              commensurate                  with      the     commercial                space      as approved              by staff.
+Commissioner                  Reid      seconded         the motion.               Chair         LaMar           asked       for     the vote.        Commissioner
+Reid        voted     yes, Commissioner                   Anderson              voted       yes, Commissioner                         Larsen        voted      yes,
+Commissioner                  Lofgren          voted     yes, Commissioner                        Vance          voted     yes, Commissioner                     Wright
+voted       yes, and          Chair      LaMar          voted        yes. The           motion         passed       unanimously.
+
+
+
+
+1.3           Consideration               of CU-24-001,               a conditional                use permit            to construct               a medical           office
+building        in the C-3             Commercial              and     City       Center          Overlay          Zones           at 3179       S Highland              Drive,
+by applicant            Adam           Watts
+Ms.      Larsen       said the applicant               is seeking        conditional              use approval           for a medical               office     building          in
+the C-3 Commercial                     Zone     and City        Center         Overlay           Zone.      Proposed            access will          be on Highland
+Drive.       The     access          on Highland        Drive        is conditioned               that there        be a sidewalk              deferral        agreement
+to keep       trees in place.            The fagade         will      be mostly           brick        and meets         city       requirements.             The property
+was recently           rezoned          from     R-1 to C-3.           The property               is about        one acre in size. The proposal
+meets       the requirements               of MKZ         19.80.       The proposed                medical          office         will   have      minimal           traffic
+impacts        on the surrounding                  road network           based          on the traffic            study.       The proposal               satisfies
+landscape           standards          per MKZ         19.77.        Six trees were              preserved          on site. The developer                     will      be
+adding       9 trees.        This     is 15 total.      Code       requires            12. Vehicle         access        entrances           will    be substantially
+the same.           The project         preliminarily           meets         the requirements                   of the C-3 Zone               and City        Center
+Overlay        Zone.         Staff     does not recominend                    any conditions              of approval.              The project            is associated
+with     and subject           to a development                agreement.              The project          is subject          to further          review      and final
+approval.
+
+
+Chair       LaMar       opened          the public       hearing.
+
+
+There       were     no corninents.
+
+
+Chair       LaMar       closed         the public       hearing,
+
+
+Commissioner                  Larsen       moved         to approve             CU-24-001,                a conditional               use permit             to construct
+a medical           office     building         in the C-3           commercial                 zone     and      the City           Center         Overlay        Zones          at
+Millcreek             Planning          Commission                  Meeting           Minutes                     21 February            2024         Page       6 of 7
+
+
+
+
+3179        S Highland             Drive.        Commissioner                  Lofgren           seconded           the motion.          Chair        LaMar            asked
+for    the vote.           Commissioner                  Larsen         voted        yes, Commissioner                     Anderson           voted      yes,
+Commissioner                   Reid        voted      yes, Commissioner                       Lofgren        voted      yes, Commissioner                    Vance
+voted        yes, Commissioner                       Wright          voted      yes, and         Chair       LaMar          voted      yes. The          motion           passed
+unanimously.
+
+
+1.4    Consideration                  of SD-23-006,                 seeking      approval           to subdivide             a property          and       existing
+buildings            located         at 1596-1618              E 3300,         into      a ten-unit         residential          condominium                flat,      by
+applicant            Robert          Renza
+Mr.        Sanderson          gave the report.               This     is an existing            building         on 3300       S. The      applicant         is not
+adding         any alterations              to the site. There               is access between                  the two     buildings.         The       dedication         has
+already        been handled                and an access             easement          will     be recorded.            Code     Compliance,              the Fire
+Marslial,           and Building             Official        have     given      their     approval.            Staff   recommends             that the planning
+commission                 approve      the subdivision                and condominium                     conversion          application        file     SD-23-006
+per the proposed                  plans.
+
+
+Chair        LaMar          opened         the public         hearing.
+
+
+There        were      no comments.
+
+
+Chair        LaMar          closed     the public            hearing.
+
+
+Commissioner                   Lofgren          moved          to approve             application            SD-23-006,             seeking      approval            to
+subdivide             the property             and       existing       buildings             located       at 1596-1618             E 3300.      Commissioner
+Vance         seconded            the motion.               Chair     LaMar            asked       for    the vote.        Commissioner                  Lofgren          voted
+yes, Commissioner                      Vance          voted     yes, Commissioner                        Reid      voted     yes, Commissioner                      Larsen
+voted        yes, Commissioner                       Anderson           voted         yes, Commissioner                    Wright        voted        yes, and         Chair
+LaMar             voted      yes. The         motion          passed         unanimously.
+
+
+1.5    Consideration                 of ZM-24-001,                  a proposed            rezone         of the property              located         at 4433        S
+Garden             Drive      from     the R-1-10              single        family       zone     to the R-4-8.5              medium          density          zone
+
+
+This       item      was moved             to the beginning              of the agenda.
+
+
+2. Commission                  Business
+2.1 Updates                from      the Planning              and      Zoning         Director
+There        were      no new         updates.
+
+
+2.2 Approval                of December                 20, 2023        Meeting           Minutes
+The Deputy                Recorder          stated      that the minutes              were      not in the packet              and will       be in the packet               for
+the next           meeting.
+
+
+3. Calendar                of Upcoming               Meetings
+       *    City     Council         Special         Mtg.     1/18/24         8:00     a.m.
+       *    City     Council         Mtg.     1/22/24         5:00 p.m.
+       *    Historic        Preservation             Commission               Mtg.,      2/8/24,      6:00       p.m.
+       *    Planning          Commission              Mtg.,     2/21/24,         5:00 p.m.
+Mfflcreek      Planning       Commission         Meeting        Minutes               21 February           2024      Page     7 of 7
+
+
+
+
+ADJOURNED:                Commissioner          LaMar      moved      to adjourn        the meeting           at 6:55   p.m.
+Commissioner         Reid     seconded.       Chair     LaMar       called   for     the vote.     Chair      LaMar     voted     yes,
+Commissioner         Reid     voted      yes, Commissioner           Anderson         voted      yes, Commissioner             Larsen
+voted   yes, Commissioner             Lofgren     voted       yes, Commissioner           Vance       voted       yes, and
+Commissioner         Wright      voted      yes. The    motion      passed      unanimously.
+
+
+
+
+                            APPROVED:                 4,
+                                                      Shawn     LaMar,
+                                                                             /'-=
+                                                                             Chair
+                                                                                                           Date
+                                                                                                                    '[lf4:zl
+                               Attest:                F,!\"!an, City Recorder

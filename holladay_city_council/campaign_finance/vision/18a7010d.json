@@ -1,0 +1,48 @@
+{
+  "contributions": [
+    {
+      "date": "10/16/25",
+      "name": "Cliff White",
+      "amount": "50.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/27/25",
+      "recipient": "Current Promos (Flyers)",
+      "purpose": null,
+      "amount": "515.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/16/25",
+      "recipient": "Vottiv Campaigns (Texting)",
+      "purpose": null,
+      "amount": "145.00",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": null,
+  "total_expenditures": "660.00",
+  "contributions_50_or_less": "50.00",
+  "beginning_balance": null,
+  "ending_balance": "400.09",
+  "_meta": {
+    "index_path": "raw/2025_city_jones-10282025.pdf",
+    "candidate": "Bailee Jones",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_jones-10282025.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

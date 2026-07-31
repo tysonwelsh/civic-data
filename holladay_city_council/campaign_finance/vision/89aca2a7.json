@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "10/7/25", "name": "Mark Rothacher", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Holladay City (Filing Fee)", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": "10/7", "recipient": "Fund Hero", "purpose": null, "amount": "8.59", "in_kind": false},
+    {"date": "10/14", "recipient": "Square Space", "purpose": null, "amount": "26.86", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "35.45",
+  "contributions_50_or_less": "50",
+  "beginning_balance": null,
+  "ending_balance": "469.16",
+  "_meta": {
+    "index_path": "raw/2025_city_bradley-10282025.pdf",
+    "candidate": "Natalie Bellamy Bradley",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_bradley-10282025.pdf",
+    "pages": 3
+  }
+}

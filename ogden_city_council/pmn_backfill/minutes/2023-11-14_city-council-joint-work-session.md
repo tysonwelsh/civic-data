@@ -1,0 +1,254 @@
+# City Council Joint Work Session — 2023-11-14
+
+> Source: Utah Public Notice Website (pmn), Ogden combined body "City Council, Redevelopment Agency, Municipal Building Authority" (id=6587).
+> Raw file: pmn_backfill/raw/ogden_2023-11-14_JWS.pdf  |  file id 1072405.
+> Notice: https://www.utah.gov/pmn/sitemap/notice/870107.html
+> Recovered 2026-07-17 (additive PMN backfill; NOT part of the audited meeting_minutes layer). Net-new reverse-combined sibling minutes the audited per-night doc dropped.
+
+---
+
+         Minutes of Joint Session of Council of Ogden City, Utah, November 14, 2023 Page
+
+
+         Minutes of the joint work session of the Ogden City Council, also acting as the Redevelopment Agency and Municipal
+Building Authority, held on Tuesday, November 14, 2023, at 4:00 p.m., in the Council Work Room, and via electronic meeting,
+on the third floor of the Municipal Building, 2549 Washington Boulevard, Ogden City, Weber County, Utah.
+
+         Present:          Chair                  Angela Choberka
+                           Vice Chair             Ken Richey
+                           Council members        Bart E. Blair
+                                                  Richard A. Hyer
+                                                  Ben Nadolski
+                                                  Marcia L. White (via Zoom)
+
+                           Council Executive Director Janene Eller-Smith
+                           Council Deputy Director Glenn Symes
+                           Communications and Public Engagement Coordinator Brandon Garside
+                           Communications Project Coordinator Eric Davenport
+
+         Excused:          Council member Luis Lopez
+
+         Also present:     Chief Administrative Officer Mara Brown
+                           Management Services Director Lisa Stout
+                           Acting Comptroller Justin Sorensen
+                           Public Services Director Jay Lowder
+                           Assistant City Engineer Taylor Nielsen
+                           Sustainability Coordinator Lorenzo Long
+                           Arts, Culture, and Events Manager Christy McBride
+                           Museum Curator Hope Eggett
+                           Community and Economic Development Director Brandon Cooper
+                           Community and Economic Development Deputy Director Jared Johnson
+                           Business Development Manager Sara Meess
+                           Deputy Business Development Manager David Sawyer
+                           Building Services Manager Chris Tremea
+                           City Recorder Tracy Hansen
+
+         The purpose of the joint work session was to review the agenda for the City Council meeting scheduled to begin at 6:00
+p.m.; discuss development of City Sustainability Plan; discuss Union Station Centennial Celebration; discuss proposed Street
+Vacation – Northern portion of 3rd Street between Porter Avenue and Jefferson Avenue; discuss proposed Business Depot Ogden
+Lease Revenue Ordinance Amendments; discuss proposed Fiscal Year 2023-2024 Budget Amendment – Municipal Building
+Authority Parking Reserve; discuss proposed Fiscal Year 2023-2024 Budget Amendment – Water & Sewer Improvements for Ya
+YA Foods Expansion; discuss proposed Fiscal Year 2023-2024 Budget Amendment – Municipal Building Authority Parking
+Reserve; discuss Council/Board/Trustee Business; and hear Council/Board/Trustee Comments.
+
+Agenda Review
+          Chair Choberka and members of Council staff reviewed the items listed on the agenda for the City Council meeting
+scheduled to begin at 6:00 p.m. She cited the removal of agenda item 8a, a proposed ordinance regarding winter parking
+amendments, and indicated that before the ordinance is presented to the Council for consideration, a survey will be conducted in
+an effort to determine how the proposed regulations will impact households throughout the community. The results of the survey
+will be presented to the Council for consideration once they are available. The Council engaged in discussion of appropriate
+questions to be included in the survey.
+
+Development of City Sustainability Plan
+       Sustainability Coordinator Long used the aid of a PowerPoint presentation to present a development framework for the
+Ogden Sustainability Plan; he discussed what sustainable actions the City is currently taking:
+            • Energy Wise Ogden Strategic Implementation Plan.
+            • Fleet Electrification Pilot Program (Via EECBG Grant).
+            • Public EV Charger Pilot (Via RMP Grant).
+            • Natural Resources and Sustainability Stewardship Committee.
+            • Sustainability Coordinator and Water Conservation Coordinator on staff.
+       Mr. Long also discussed the benefits of creating a sustainability plan:
+            • Establishes unified goals incorporating existing city plans.
+               • Allows Ogden to set its own personalized targets and vision.
+               • Increases community resiliency amidst future changing conditions.
+               • Saves money through energy efficiency.
+               • Preserves outdoor tourism.
+               • Contributes to cleaner air.
+          There are different types of sustainability plans the City could consider; climate action plans are singularly focused on
+reducing greenhouse gas emissions while sustainability plans incorporate other elements of sustainability. For either a City or
+Community Plan, its scope could include only Ogden City operations and facilities, similar to a business sustainability plan, or it
+could include the entire community so that all planning is done at the same time and efforts are not duplicated in the future. This
+would require more time, outreach, and funding. In either scenario, a greenhouse gas emissions inventory is one of the first steps.
+It is important to consider which approach is best for Ogden. Some local governments may elect to begin their sustainability
+efforts with a focused climate action plan, and then in the future, expand the scope to become a sustainability plan. Other local
+governments might prefer to look at all of the sustainability issues holistically and develop a more comprehensive sustainability
+plan from the beginning. Mr. Long presented a graphic illustrating the milestones in developing a sustainability plan; the
+Sustainability Coordinator would lead the City through the planning process, which would include internal and external
+engagement and input, even if the plan is just for City operations and facilities. The timeline is approximately one to two years
+depending on City commitment, staff support, and funding. A successful sustainability or climate action plan will require buy-in
+and participation from the City Council, the Mayor, and many departments across City Administration. To launch this process, a
+joint resolution passed by the City Council, and endorsed by the Mayor, would help to establish the sustainability plan as a high-
+priority City objective.
+          Discussion among the Council and Mr. Long centered on topics including extending sustainability efforts to private
+businesses and households; incorporating sustainability efforts in the City’s General Plan; and discussion between the appropriate
+sustainability plan type for the Ogden community.
+
+Union Station Centennial Celebration
+           Arts, Culture, and Events Division Manager McBride and Museum Curator Eggett used the aid of a PowerPoint
+presentation to discuss the Union Station Centennial Celebration; They presented several photos illustrating the history of the
+Station. The original train station was constructed in 1870, but it was a very small clapboard building that Ogden was not very
+proud of; the people of Ogden worked together to build a beautiful new building made of sandstone in 1889. It quickly became
+outdated and caught fire on the night of February 13, 1923 and much of the interior and the second story was destroyed. After the
+fire, the City Council, Ogden Chamber of Commerce, and many residents petitioned the Railroad to build a new building, which
+was completed on November 22, 1924 and is the Union Station building that Ogden still enjoys and loves today. Ms. Eggett then
+presented information on marketing and retail efforts surrounding the centennial celebration, including printed materials, media
+articles, a website, social media announcements, banners, painting the centennial logo on the water tower at the Station, and a
+cottage at Christmas Village. Ms. McBride presented the calendar of events for the celebration of the 100th anniversary of the
+Station, which will kick off Wednesday, December 6 with a ribbon cutting for the 100 Year exhibit at the Union Station museum.
+Several additional events will be held between March of 2024 and November of 2024, culminating with the celebration on Friday
+and Saturday, November 22 and 23, 2024 at the Union Station. There will also be several exhibits and programs in the community
+to commemorate the centennial celebration, as well as additional installations and collections at the museums at the Station in
+support of the event. The Union Station is partnering with several stakeholders in the community and Union Station staff is very
+appreciative of their support.
+           There was brief discussion among the group regarding the scope of several of the events listed on the calendar of events;
+the work being performed on the Merci Car; and efforts to secure contractors for several of the projects included in the
+celebration.
+
+Proposed Street Vacation – Northern portion of 3rd Street between
+Porter Avenue and Jefferson Avenue
+          Planning Manager Brierley explained Steve Diamond has submitted a petition to vacate 25 feet of the northern right-of-
+way of 3rd Street between Porter Avenue and Jefferson Avenue. The petition is connected to a rezone of 2.18 acres of adjacent
+property from R-1-6 to R-1-5 that was approved by the Council on May 23, 2023. The petitioner is anticipating developing 16
+single-family homes on the site of a former church and needs the additional right-of-way to accommodate the development. 3rd
+Street jogs to the south at this location going from west to east and the street vacation, along with the dedication of the 25 feet of
+existing right-of-way on the south side of 3rd Street, will help realign and straighten the road. The area proposed for vacation was
+used for on-street parking for the church. The Planning Commission’s recommendation of approval of the vacation comes with
+several requirements including improvements to the curb and gutter, other roadway improvements, the relocation of an irrigation
+headwall structure owned by Lynn Irrigation Company, and the combination of the vacated property with the lots to the north. The
+proposed vacation was recommended for approval with the following conditions that have been incorporated into the ordinance
+for the Council’s consideration:
+               1. That the petitioner submits to Ogden City an agreement with Lynn Irrigation Company allowing the petitioner
+                    to shift the irrigation headwall structure 14 feet south;
+               2. That the curb and gutter will terminate before it reaches the driveway of the southeast corner of the Porter
+                    Avenue and 3rd Street intersection, or the petitioner puts in a new drive approach for the property;
+              3.   That the applicant submits engineered construction drawings for the public improvements to receive approval
+                   from the Ogden City Engineering Division;
+               4. That the applicant submits a financial guarantee to complete all public improvements per City standards;
+               5. That the plat be modified as follows:
+                        a. A narrative is added to the plat describing that the vacated portion will be combined with the parcel
+                             directly to the north;
+                        b. The 5D development parcel and the 3rd Street vacated parcel be clearly labeled as a single parcel;
+                        c. The 3rd Street vacated area include reference to the ordinance number vacating the street.
+               6. That the trees on the southern line of the parcels to be dedicated to the City are preserved; and
+               7. That the south side of the street be finished with a sidewalk or that an alternate cross section be approved during
+                   the subdivision process and hard surface material that is walkable such as compacted dirt, asphalt, or xeriscape
+                   with compacted mulch or rocks be installed.
+          Mr. Brierley concluded the Planning Commission reviewed the proposed amendments at the September 6, 2023, meeting
+and forwarded a recommendation of approval to the Council with a vote if 8-0. The recommendation was made with the finding
+that there is good cause for the street vacation, that neither the public interest nor any person will be materially injured by the
+street vacation, and that the vacation will be consistent with the General Plan.
+
+Proposed Business Depot Ogden Lease Revenue Ordinance
+Amendments
+          Acting Comptroller Sorensen reported Administration is proposing amendments to Ogden Municipal Code § 4-3A-7H,
+the code section governing the distribution of BDO lease revenues, to include funding for the annual debt payment for the
+Marshall White Center sales tax bonds, the annual payment for CBD Mall RDA debt service, the annual payment for purchase of
+Union Station property, additional arts funding for public art maintenance, and increased arts grant funding. Additional
+amendments correct grammar, punctuation, and readability. The proposed amendments to the distribution section of the ordinance
+are as follows:
+              1. Payment of up to $2,000,000 for debt service on Marshall N. White Center Series 2023 Sales Tax Revenue
+                   Bonds, FY2023-FY2049;
+              2. Payment of up to $1,000,000 for CBD Mall debt until FY2027;
+              3. RDA Quality Neighborhoods Initiative allocation of $1,000,000 for five years through FY2026*;
+              4. Union Station property purchase payment of $783,000. FY2024 through FY2030;
+              5. Public art allocation of $100,000 annually (limited to $500,000 in fund);
+              6. Arts maintenance allocation of $2,500 annually;
+              7. Up to $150,000 annual for arts grants if not funded in General Fund;
+              8. Emergency Repairs ($100,000)*;
+              9. Capital Improvement Projects (50% of remaining funds after 1-5 funding is allocated)*;
+              10. Community Plan Projects (up to 10% of proceeds not to exceed $150,000)*;
+              11. Early Retirement of General Fund debt*;
+              12. Other projects or programs as deemed appropriate*.
+          Mr. Sorensen noted the items marked with an asterisk signify no change from the prior version of the ordinance.
+          Council Executive Director Eller-Smith noted that this amendment does not include bonds that will be issued towards the
+end of this year, so another amendment will be needed to include a distribution for the debt service payment on those bonds.
+
+Proposed Fiscal Year 2023-2024 Budget Amendment – Municipal
+Building Authority Parking Reserve
+          Acting Comptroller Sorensen reported Administration is proposing a Fiscal Year 2023-2024 Budget Amendment totaling
+$1,500,000. The recommendation is to transfer $1.5 million from General Fund fund balance to the Municipal Building Authority
+to fund a reserve account and miscellaneous expenses associated with the WonderBlock parking structures. The funds are part of
+the $4 million granted to the City by the Governor’s Office of Economic Development for the WonderBlock project. A transfer of
+$2.5 million was previously transferred for use on the project.
+
+Proposed Fiscal Year 2023-2024 Budget Amendment – Water & Sewer
+Improvements for Ya YA Foods Expansion
+          Acting Comptroller Sorensen explained Administration is proposing a budget amendment to fund water and sewer
+improvements to support the expansion of beverage and liquid foods packaging company Ya YA Foods at Business Depot Ogden
+(BDO). The improvements are necessary due to the increased need for water and wastewater (sewer) usage for the company’s
+operations. As proposed, the City would fund the improvements up front with the company reimbursing the City for the costs over
+an eight-year period at an interest rate of 5.850 percent per annum. The reimbursement agreement sets forth the repayment
+schedule and financial guarantees. As outlined in the transmittal documents, the water improvement costs are $3.7 million with the
+sewer improvements totaling $500,000 for a total cost of $4.2 million. As per the agreement, Ya YA Foods will pay 10 percent up
+front to offset immediate costs and will repay the remaining 90 percent over eight years beginning in January 2024. The proposed
+budget amendment would transfer $3.28 million from Water Enterprise Fund Balance and would recognize revenues from the
+$420,000 payment (10 percent up front from Ya YA Foods) and transfer the total of $3.7 million to Water Master Plan CIP
+Projects for the improvements. The Sanitary Sewer Enterprise Funds currently has fund balance that can be used to pay for the
+$500,000 improvement costs. The proposed budget amendment recognizes the repayments of both the Water and Sewer
+improvements from January to June of 2024, which total $95,950 and $14,625 respectively. The revenues from the repayment will
+be returned to Retained Earnings. The total repayment over the eight-year term on the remaining 90 percent ($3,780,000) with
+interest totals $4,797,192.56 with $1,017,192.56 paid in interest.
+          Business Development Manager Meess and Assistant City Engineer Nielsen used the aid of a PowerPoint presentation to
+expound on the details of the Ya YA Foods expansion; in 2019, Oatly announced Ogden facility to manufacture oat-based
+beverage and food products. In 2023, Oatly and Ya YA Foods entered a manufacturing partnership and Ya YA Foods desires to
+expand operations in Ogden. Projected outcomes of the expansion include:
+               • 101 jobs retained.
+               • 302 jobs created.
+                        o Average annual wage of $67,100.
+                        o 122 percent of average wage in Ogden.
+               • $92 million capital investment.
+          The expansion will increase Ya YA’s water and sewer needs: 1.4M GPD in water and 819k GPD in wastewater. Ogden
+City has ample water capacity to serve project and meet future demand and ongoing system upgrades have reduced water losses.
+This project diversifies the City’s water portfolio and generates new revenues that can be invested in further system
+improvements. The infrastructure upgrades required for project include $3.7 million in water improvements and $500,000 in
+sewer improvements. Local support for the expansion include the following:
+               • Reimbursement Agreement
+                        o $4.2 million total infrastructure cost
+                        o Ogden City to fund capital cost
+                        o Ya YA to fund 10% of cost upfront and reimburse remainder over 8 years, with interest
+                        o Secured with parent company guaranty
+               • Design & Construction Management
+                        o Ogden City Engineering expedited project design and will manage construction
+                        o Significant in-kind contribution of staff time and resources
+                        o Accelerated project timeframe
+          State support includes:
+               • Governorn’s Office of Economic Opportunity (GOEO) approved state incentive for project
+                        o $1.8 million of Economic Development Tax Increment Financing (EDTIF) tax credit
+                                  20 percent of new state tax revenues over 10 years
+                        o $150,000 Industrial Assistance Account (IAA) grant
+                                  Supports job training.
+          Ms. Meess concluded the key points of the project are the retention of 101 jobs and the creation of 302 high-quality jobs;
+a $92 million capital investment that will increase property tax value; diversification of the City’s water portfolio and generation
+of utility revenues that can be invested in system upgrades; and strengthening Utah’s food manufacturing industry.
+          Discussion among the Council and Administration staff centered on the long-term benefits of the City’s participation in
+the project, the most important being no financial impact to the community. The Council expressed support for similar projects to
+this one in the future.
+
+Council/Board/Trustee Business
+        Council Executive Director Eller-Smith reviewed the Council’s meeting schedule for the remainder of the month of
+November.
+
+
+         The meeting adjourned at 5:46 p.m.
+
+
+
+
+                                                                           ________________________________________
+                                                                           TRACY HANSEN, MMC/CRA
+                                                                           CITY RECORDER
+________________________________________
+ANGELA CHOBERKA, CHAIR
+
+APPROVED: January 16, 2024
+

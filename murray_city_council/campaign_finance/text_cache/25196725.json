@@ -1,0 +1,23 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Google Suite", "purpose": null, "amount": "42.54", "in_kind": false},
+    {"date": null, "recipient": "Squarespace", "purpose": null, "amount": "64.59", "in_kind": false},
+    {"date": null, "recipient": "FedEx", "purpose": null, "amount": "68.49", "in_kind": false}
+  ],
+  "total_contributions": "0.00",
+  "total_expenditures": "175.62",
+  "contributions_50_or_less": null,
+  "beginning_balance": null,
+  "ending_balance": null,
+  "_meta": {
+    "index_path": "raw/202509_Aaron-Lee-Holbrook_17144.pdf",
+    "candidate": "Aaron Lee Holbrook",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "reporting_period": "Post-Primary final (eliminated in primary)",
+    "extraction_method": "pdftotext born-digital text layer (Schedules A/B/C); page 1 candidate/report-type read from rendered image",
+    "reconcile_note": "Signed 5-page summary PDF contains Section 1/2 + Schedules A/B/C but NO Section 3 financial-summary page, so no beginning/ending balance is printed. Schedule B itemized (42.54+64.59+68.49) reconciles to printed TOTAL 175.62; Schedule A and Schedule C are zero. Companion to xlsx docid 17146 (key 2da8b145) — the same September 2025 post-primary statement."
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "contributions": [
+  {"date": "10/1/21", "name": "Jim Hutchins", "amount": "100.00", "in_kind": false},
+  {"date": "8/7/21", "name": "Kurt Weiland", "amount": "20.00", "in_kind": false},
+  {"date": "8/7/21", "name": "Paula Gully", "amount": "20.00", "in_kind": false},
+  {"date": "8/18/21", "name": "Mary Lehman", "amount": "25.00", "in_kind": false},
+  {"date": "10/26/21", "name": "Edward Schwartz", "amount": "1094.16", "in_kind": false}
+ ],
+ "expenditures": [
+  {"date": "7/31/21", "recipient": "Kevin Johnson Media", "purpose": null, "amount": "200.00", "in_kind": false},
+  {"date": "8/3/21", "recipient": "Kevin Johnson Media", "purpose": null, "amount": "175.00", "in_kind": false},
+  {"date": "8/29/21", "recipient": "Kevin Johnson Media", "purpose": null, "amount": "100.00", "in_kind": false},
+  {"date": "9/22/21", "recipient": "Kevin Johnson Media", "purpose": null, "amount": "100.00", "in_kind": false},
+  {"date": "9/7/21", "recipient": "Alpha Graphics", "purpose": null, "amount": "250.87", "in_kind": false},
+  {"date": "10/4/21", "recipient": "Alpha Graphics", "purpose": null, "amount": "218.55", "in_kind": false},
+  {"date": "9/20/21", "recipient": "T Mobile", "purpose": null, "amount": "174.74", "in_kind": false}
+ ],
+ "total_contributions": "1219.16 (1 contribution)",
+ "total_expenditures": "1219.16",
+ "contributions_50_or_less": null,
+ "beginning_balance": null,
+ "ending_balance": "0",
+ "_meta": {
+  "index_path": "raw/2021_state_edward-schwartz-cottonwood-heights-candidate-for-mayor.pdf",
+  "candidate": "Edward Schwartz",
+  "office": "Mayor",
+  "filing_type": "interim",
+  "election_year": "2021",
+  "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2021_state_edward-schwartz-cottonwood-heights-candidate-for-mayor.pdf",
+  "pages": 3
+ }
+}

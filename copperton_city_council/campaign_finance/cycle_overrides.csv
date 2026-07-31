@@ -1,0 +1,2 @@
+candidate,election_year,raised,spent,reason,added
+Kathleen Bailey,2019,450.00,500.00,"per-period filer (regime detector: incremental; itemization disjoint) — the Dec 'summary'-typed filing is itself a period report (begin 71.60, contrib 0, a single 71.60 loan-repayment-to-self expenditure, end 0), disjoint from the Oct interim (contrib 450 / expend 428.40). The summary-vs-interim max() rule undercounts spent (takes 428.40, drops the Dec 71.60); cycle = sum of both filings (450+0 / 428.40+71.60)",2026-07-17

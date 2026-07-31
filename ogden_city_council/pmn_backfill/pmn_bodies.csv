@@ -1,0 +1,6 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+225,6587,"City Council, Redevelopment Agency, Municipal Building Authority",yes,meeting_minutes,,exact,2020-01-01,combined body — where Ogden actually files ALL historical CC/RDA/MBA notices (full 2013-2026 history in one GET); event date == meeting date (+/-0); 10 recovered-but-unpromoted RDA/MBA dates will re-surface as missing_minutes leads
+225,340,Planning Commission,yes,planning_commission,,exact,2020-01-01,PC notices page returns full history directly
+225,320,City Council,no,,,,,individual-body page 6-month-capped; notices actually filed under combined body 6587
+225,321,Redevelopment Agency,no,,,,,individual-body page 6-month-capped; notices actually filed under combined body 6587
+225,322,Municipal Building Authority,no,,,,,individual-body page 6-month-capped; notices actually filed under combined body 6587

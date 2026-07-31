@@ -1,0 +1,2383 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08172020-394
+> Meeting date: 2020-08-17
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2020-08-17
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_08172020-394
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                               Minutes          of the
+                                                                                      Millcreek            City     Council
+                                                                                            August          17,     2020
+                                                                                                    4:30     p.m.
+                                                                                               Work         Meeting
+
+
+
+
+The City        Council        of Millcreek,             Utah,    met in a public         work      meeting         on August          17, 2020 at City
+Hall,     located     at 3330 S. 1300 E., Millcreek,                      UT 84106.            The meeting           was conducted
+electronically         per Millcreek                 State of Local      Emergency          Directive          No. 2 of 2020 and live streamed
+via     the City's     website         with       an option       for online     public     comment.
+
+
+PRESENT:
+
+
+Council        Members                                                         City    Staff
+Jeff Silvestrini,           Mayor                                              John Brems,           City Attomey
+Silvia     Catten,     District        I                                       Rita Lund,        Communications                 Director
+Dwight        Marchant,         District         2                             Mike     Winder,        Economic            Development            Director
+Cheri      Jackson,        District        3                                   Francis     Lilly,     Planning        and Zoning           Director
+Bev Uipi,        District      4                                               Kurt   Hansen,         Legislative          Policy      Director
+                                                                               Jared Bowling,              IT/Facilities        Manager
+                                                                               Ashley      Cleveland,           Promise       Program          Manager
+                                                                               Alexander         Wendt,        Deputy        Recorder
+
+
+Attendees:           Kerry     Steadman,              Michael     Gallegos,       and Karen          Kuipers.
+
+
+Minutes        by Alexander             Wendt,          Deputy     Recorder.
+
+
+WORK           MEETING                - 4:30 p.m.
+TIME         COMMENCED:                          4:37 p.m.
+
+
+Mayor        Silvestrini       called          the work     meeting      to order.
+
+
+1. Discussion           on Millcreek                 Promise      Program;        Ashley         Cleveland,          Promise           Program
+      Manager
+Ashley       Cleveland,         Promise           Program        Manager,       explained        the purpose          of her presentation              as an
+update       to the City       Council           and for them to be able to ask questions.                          Ms. Cleveland              gave a short
+reminder        on what the Promise                     Program       stands for. The Promise                  Program       works       closely      with    the
+United       Way     of Salt Lake City.                 The Promise        Program        focuses        on how to make lives better.                    Ms.
+Cleveland        said the Promise                 Program        volunteers      were very          skilled.      Ms. Cleveland            explained         that
+the Promise          Program          volunteers          conduct      themselves         to create equity,           inclusiveness,            and
+diversity.      She said grants,                local    engagement,        and advocacy            were important              for long term growth.
+
+
+Kurt     Hansen,       Legislative             Policy     Director,     stated that Millcreek               devotes        1/25I'l    of the money           that
+South      Salt Lake         City     does to their Promise              Program.         He then asked the City                     Council      about their
+Millcreek           City     Council         Meeting            Minutes                                                       17 August              2020       Page       2 of 4
+
+
+
+vision      for the future            of the Promise              Program.             Council          Member          Uipi      said there          were      problems           the
+City      was facing.          She asked           how     the City            could     utilize        the Promise            Program            in conjunction            with
+senior      citizen        programs.         Council           Member           Uipi     said that she would                     like     to see children            be more
+caring      towards         their     elders      and hoped             this would             help     community              connection.           Council         Member
+Uipi      said generally             she would          like     to see one, three,                and five-year               plans.
+
+
+Council       Member            Catten       asked       if the City           was paying              salaries        at Mill      Creek         Elementary.             Ms.
+Cleveland           explained         any salaries             being      paid       were       paid     for with         a grant       from      the State Board                of
+Education.          Council          Member           Catten      said that the South                    Salt Lake          Promise          Program          budget
+allocated       a lot of money               for staff         needs      and ass Millcreek                    Promise         grows        there     will    be staff          and
+salary     requirements.              Council         Member            Catten         asked       how        Millcreek          may      meet       these future          needs
+in the Promise              Program.         Ms.      Cleveland           explained             the South           Salt Lake           Promise        Program
+organization.
+
+
+Council       Member           Uipi       asked      how        much      money           in the South              Salt Lake           Promise       Program             was
+from      grants.     Mayor          Silvestrini         and Mr.         Hansen           replied        that 100%             comes       from       grants.       Council
+Member         Uipi        asked      what     grants      were         available         for the Promise                 Program          and perhaps              Ms.
+Cleveland           would      have more             freedom           if tliere       was     more       staff     and more            funding.       Mayor         Silvestrini
+said that Ms.          Cleveland             had done very               important             grant     writing        and the Promise                Program            could
+do more       with         funding        and employees.                Mayor          Silvestrini            said they        would       like     the program            to
+grow      and reach          more      members           of the Millcreek                    Community.                Mayor       Silvestrini         said the
+cornrnunity           would         be happy         if the program                was funded             with      grants.       He would           like     to set a broad
+vision      for the program.
+
+
+Mayor       Silvestrini         and Kurt           Hansen         met with           the United           Way          and received            a report       card from
+them      on how       the Millcreek               Promise            Program          was      doing.        The United           Way       replied         that Millcreek
+was doing           great     and had made               incredible            progress         in a short          amount         of time.        Council          Member
+Marchant        said the Promise                  Program             could      expand         to other         schools         in Millcreek          and thought               the
+Promise       Program           should         obtain      a 501(c)(3)             status       as well        as find      broader         opportunities            to serve.
+Council       Member           Catten        asked       if the Promise                Program           was spread            too thin,       and if there           should          be
+a narrower          way      that resources             were      used.        Mr.      Hansen          said he would              like     a more         defined        road    to
+follow.      Mayor          Silvestrini        said there         was a limit             to what         one person             could      do; either         the program
+needed       to grow         or needed          to focus         on core items.                Mayor          Silvestrini         said that the Promise
+Program        needed         more        grant      writing.         Council          Member           Catten         said that perhaps              this was the year
+to invest      in the Promise                Program           with     grants         since     actual        activities        were      limited      due to Covid-19.
+Council       Member           Marchant            asked        if the United            Way          helps     with      grant     writing.         Ms.     Cleveland            said
+no, however,           they      let Ms.       Cleveland              know       when        grant      opportunities              are available.            Council
+Member         Uipi        said maybe          the focus          for the remainder                    of 2020         should       be expanding              to another
+school      in Millcreek.             Council         Member            Uipi     said that children's                   wellbeing           at home          was
+challenging           during        homeschooling                because           of Covid-19.
+
+
+Council       Member           Uipi       said she would               like     to represent            more        communities              and felt the senior
+community             was very         important.          She then            asked      what         cornrnunities             were      underrepresented.                Ms.
+Cleveland           said that the Latiru                community               in zip       codes       84106         and 84107           were      underrepresented
+and did not have               a good        meeting           area. Ms.         Cleveland             said that        crossing          guards      were      important
+but so was the infrastructure                        to help      the crossing               guards.          Ms.    Cleveland            explained          that    84106        and
+84107       zip codes         were      known         for inter-generational                     poverty.           Council        Member            Uipi     said that the
+Promise       Program           should        look      at many         underrepresented                      communities.              Council        Member
+Mfflcreek          City        Council       Meeting            Minutes                                              17 August          2020         Page 3 of 4
+
+
+
+Marchant          asked who the Promise                      Program         focuses      on. Ms. Cleveland                  said families          and youth.
+Council        Member            Marchant          explained         his desire to make sure that the City                           gets value for the
+investment             being     made.      Council         Member          Marchant       asked if there was a report                      on how youth
+were improving                 at reading          from    the reading        program         and what activities              had helped           the refugees.
+Council        Member            Marchant          would        like to keep track of measurables                      to direct       help to children.
+Council        Member            Uipi     agreed saying             that goal measurement                 was important.              Council       Member
+Jackson        said that Ms. Cleveland                     had done a great job.               Council        Member          Jackson         explained         it was
+probably         time to evaluate             what has been applicable                    and what to cut in the Program.                           Council
+Member          Jackson          asked how many matching                       grants     South       Salt Lake City had obtained.                       Ms.
+Cleveland          said that it depended                  on the type of grant;             education            grants were often             a match        of
+volunteers         or donated            space. Ms. Cleveland                 said the challenge              regarding         donated        space was that
+school     principals            must give their consent.
+
+
+Council        Member            Jackson      asked if the Promise                 Program         should        become        a 501(c)(3)          and if it
+would      hinder        their    ability     to get grants.          Mr. Hansen           said either        could      work.        Mr.    Hansen        said
+many      grants        ask if the organization                  is a 501(c)(3)         and they want to see it. Council                        Member
+Jackson        asked if the City              could use Cares Act money                       in the Promise            Program.            Mayor      Silvestrini
+said that Cares Act money                      must be directly              related     to Covid-19             expenses.       Mr. Hansen              said they
+had plans for interns                   and grant writers            to help the Program                 grow.      Mayor      Silvestrini          said that Salt
+Lake      County         had been very good at explaining                          how Cares Act money                       could    be used. Mike
+Winder,        Economic            Development              Director,       said that there was a lot of guidance                            on how funds
+could     be spent. Council                 Member          Catten      outlined       three items:        first,     have a solid           strategic     plan;
+second,       create a team to obtain                     grants;    and third,      collect       data and then use it to help the Promise
+Program.         She said collecting                 and understanding               data would          be important            for good growth.
+Council        Member            Catten     asked Ms. Cleveland                 and Mr. Hansen                to figure        out who        else in the
+community              could     help. Ms. Cleveland                 said she would            work       with      Blaine     Gehring         on city staff on
+a standard        operating         procedure             manual.     Ms. Cleveland               said she was working                 with     Promise
+Program         partners         to help create a grant working                      group.       She added that she liked                    the idea of an
+annual     meeting         or party         to encourage            members        of the community                 to help with            fundraising.
+Mayor      Silvestrini           said the City            Council     was dedicated            to the Promise            Program.            Council       Member
+Uipi    explained          that she would              like to be more          involved          with    the Promise            Program.        Council
+Member         Uipi      also said she would                 like regular       updates        on the Promise                Program.        Mayor
+Silvestrini        said he did not want the reports                         to the Council            to take time        away from            making         things
+happen.
+
+
+2. Discussion             on Community                 Development             Block       Grant         Entitlement           Status;        Francis         Lilly,
+Planning         & Zoning               Director
+Francis       Lilly,     Planning          and Zoning           Director,      explained          that Millcreek          received          a letter from           the
+Department             of Housing           and Urban           Development            directly     because          Millcreek        was now an
+entitlement            community           rather than being              a subgrantee         with      the County.          Millcreek         could      be
+responsible            for all paperwork              and management               and could          receive       funding.         The possible
+allocation       was $356,000               which         breaks     down     to $71,000          for administrative                 costs, $53,400           for
+entitlement            costs, and would             leave 65% for project                costs in the amount                  of $231,400.           Cities     use
+Community              Development            Block         Grants      (CDBG)         money       for street improvements.                     Millcreek
+could     participate          as a subrecipient             with     Salt Lake        County         under      the County          plan.     The advantage
+would     be that the County                 would         take care of the administration                       costs. Millcreek            may also choose
+to participate          with      the State, and the fourth                 option      was an interlocal              agreement.            Mr. Lilly        did
+meet with         Salt Lake County                  officials       and came up with              ideas on how           an interlocal           agreement
+Mfflcreek       City     Council       Meeting         Minutes                                         17 August        2020       Page 4 of 4
+
+
+
+could work.         Mr. Lilly       presented       his recommendation              that participating        with     Salt Lake County
+was the best option.            Millcreek        would      receive    $231,000.       Millcreek       may spend the money               while
+meeting       the County        requirements.          Each year after this the money                 Millcreek       received      could
+change based on congressional                      allocation.    Mayor     Silvestrini         said he had participated           in a meeting
+and there was merit             in this arrangement.             If Millcreek       struck      out on their own, the City would
+have to reinvent         the wheel.           He said it made sense to rely on the County                     system        for the next 3
+years. Mayor         Silvestrini       thought       that the partnership          was the best way to go. Mr. Lilly                  said that it
+was good to work            with     the County         because       they were scaled up and had resources                     that Millcreek
+did not. County          staff would          train Millcreek         staff on how to monitor            projects.     The staff
+recoinrnendation          from      Mr. Lilly       was that Millcreek            participate       in the agreement;          this relieves
+Millcreek      of the burden          of staffing       up and creating          a brand-new         consolidated       plan. Mayor
+Silvestrini     asked if there vvere any questions                     or comments.          Mike     Gallegos       from    Salt Lake      County
+Community           and Economic            Development          said that this was a great opportunity                     for Millcreek,         it
+was a highly        regulated       program.        The County's         intent     was to help the City become                 an entitlement
+community        and they wished               to be a collaborative        partner       since these issues effect             an entire
+region.     Karen      Kuipers,      Program        Development          Coordinator         with    Salt Lake       County,     said they
+wished      to help Millcreek           any way possible.
+
+
+Council       Member         Uipi     moved        to adjourn         the work      meeting         at 6:03 p.m.      Council       Member
+Jackson       seconded.         Mayor         Silvestrini     called    for the vote.        All    Council      Members         voted      yes.
+The motion          passed      unanimously.
+
+
+
+
+                                                                                                              Date     "3-1 !-7JA)
+
+
+                                    Attest:                 Jy!s             n, City Recorder
+                                                                                                 Minutes         of the
+                                                                                        Millcreek            City      Council
+                                                                                              August          17,      2020
+                                                                                                      6:30     p.m.
+                                                                                              Special          Meeting
+
+
+
+
+The City       Council        of Millcreek,            Utah,      met in a special           public      meeting         on August         17, 2020 at City
+Hall,    located       at 3330 S. 1300 E., Millcreek,                       UT 84106.            The meeting            was conducted
+electronically         per Millcreek                State of Local       Emergency            Directive          No. 2 of 2020 and live streamed
+via the City's         website        with       an option        for online      public      comment.
+
+
+PRESENT:
+
+
+Council       Members                                                          City      Staff
+Jeff Silvestrini,          Mayor                                               John Brems,             City     Attorney
+Silvia    Catten,      District       I                                        Elyse      Sullivan,        City Recorder
+Dwight       Marchant,         District         2                              Rita Lund,             Communications              Director
+Cheri     Jackson,        District        3                                    Mike       Winder,        Economic             Development           Director
+Bev Uipi,       District      4                                                Francis       Lilly,     Plaru'iing       and Zoning          Director
+                                                                               Kurt      Hansen,        Legislative           Policy     Director
+                                                                               Jared Bowling,                IT/Facilities       Manager
+
+
+
+In Person        Attendees:            Rod Vogel,            Steve Mecham,               Steven Fullmer,               Thom      DeSirant,      David
+Baird,    Mario      Widdowson,                 Lex Scott,        and Pari Jahdi.
+
+
+
+SPECIAL           MEETING                 - 6:30 p.m.
+TIME        COMMENCED:                          6:32 p.m.
+
+
+Mayor       Silvestrini       called          the special     meeting       to order then led tlie pledge                      of allegiance.
+
+
+1. Millcreek           Policing        Town          Hall
+   Mayor        Silvestrini          said in response             to inquiries        from    the coinmunity,                the Council       felt it was
+   important        to listen        to the community.               He said the Council                 would         first listen     to the public,         then
+   possibly        formulate          what they heard into policy.                      Nationally,          people      were being         faced with
+   police      using      force.     He said the Council                had recently          increased          property        taxes to be able to pay
+   for police       services         through         a contract      with     Unified        Police      Department            (UPD).      The City       of
+   Taylorsville           would       be leaving            UPD    in the next year so some scaling                          of the department           may
+   need to take place. The Mayor                            said UPD        offers      economies          of scale and provides               better     service
+   than if Millcreek               had its own department,                  though        UPD         could be refori'ned              and could improve.
+   He said UPD             was interested              in improving          as well       in a joint        effort,    but it would         start with
+   listening       to the public.              The Council         wanted      to listen      to Millcreek             residents'       experiences        with
+   UPD.       He invited           the public         to come to City            Hall    to speak in person,               to call in, or to provide
+Millcreek        City     Council         Meeting      Minutes                                                17 August          2020        Page 2 of 5
+
+
+
+   comments          online       via the City's       website.         He said he was principally                     interested     in hearing           from
+   Millcreek        residents        and would        limit     the public         comments            to three minutes          each.
+
+
+   Council        Member          Uipi    said the Council             had heard        from     many       residents        about their support            or
+   opposition           to the police.      She said the Council                   would     only be listening            to the residents          that
+   evening.       The town hall would                 not be the only dialogue                   about policing           in the community,                but
+   the first     step. She said the Council                   would       report     back on comments                 or a call to action           and
+   inform       the public        of the next steps. She wanted                     to create a safe space for residents                      to provide
+   input.
+
+
+   Rod Vogel,            3456 El Serrito          Drive,      spoke in support              of the tax increase              for UPD.       He then
+   relayed       a positive       experience        he had with           UPD.
+
+
+   Caller      - Nicol     Razon,        Highland      3900 S. area, said her father                      was racially         profiled      and beaten
+   by UPD         before      Millcreek         incorporated.          She said the actions               of a few officers          reflected        the
+   actions      of the entire police             department.           She wanted           to see her property              tax used towards
+   mental       health     resources,       crime     prevention,           and social         services      and did not want the Millcreek
+   budget       increasing        for policing.
+
+
+   Caller      - Dan Bseiso,             4181    S. 1500 E,., said his personal                   experience          with    the police      had been
+   very good but he had witnessed                      several         instances        of profiling        and hoped          that the officers
+   would       improve        on that.
+
+
+   Council       Member           Uipi    read Mario          W.'s,     4419 S. Adonis             Drive,     written        comment        into the
+   record. "We are on the verge of a separate crisis in law enforcement - a massshortage of
+   officers. Salt Lake City Police Department has lost 30 plus cops in the last month.   at is
+   Millcreek doing to advocatefor more officers and not less? nat is being done to retain the
+   officers we have currently? I believe we need to invest more than ever in our UPD so we do
+   not find ourselves in desperateneed in the next 1-5 years. Sixty plus percent of UPD C(17!
+   retire      tomorrow        should      they choose. All             comments           welcome."         Council         Member        Uipi     said the
+   Council       would        not be answering             questions        yet.
+
+
+   Mayor        Silvestrini       said the comments              the Council            had received         by email         were forwarded            to the
+   whole       Council        and that Council          Member            Catten had put them into a spreadsheet                            for the
+   Council's        benefit.
+
+
+   Elyse       Sullivan       read comments           submitted           online     from      Janet Gillette,         3419 El Serrito            Drive,
+   and 01ga Reese, 1146 E. Ridgedale                            Circle,        into the record          (see online      comments           attached).
+
+
+   Council       Member           Catten    read an online             comment          from    Kirsten      Kolter,         2769 E. 2880 S.
+
+
+   David       Baird,     4538 Thousand             Oaks Drive,            said he wanted              to reiterate     comments           he made the
+   prior    week during            the truth     in taxation          public     hearing.       He supported           additional         funding     for the
+   mental       health     unit in UPD          to prevent       problems           before      violence      occurred.        He felt that
+   prevention           through     the use of better mental                   health    resources,        treatment,         and specialized          social
+   workers        and counselors            was going         to have a good long-term                    effect      in Millcreek        to avoid
+   conflict.      He expressed            gratitude     for the mental             health      unit.
+Mfflcreek         City     Council           Meeting           Minutes                                                     17 August            2020         Page         3 of 5
+
+
+
+   The       Council       and staff         took      turns     reading        cornrnents            submitted           online       into    the record           from
+   Justin      Baker,      Janice          Nielson,          Laura      Stewart,        Levi     Pace, Jaqueline                 Hansen,        Marc       Madsen,
+   Brian       Strong,        Scot Morgan,               Crissa       Levin,       and Duane            Astin.
+
+
+   Caller       - Jennica         Davis-Hockett,                 Lorraine         Drive,       listed      names         of people         in Utah        killed      by Utah
+   police.       She appreciated                  the Council           remaining           neutral       in the process.              She said everyone
+   deserved           to live     in a community                 where         everyone        protected           each other            through         cooperation.
+   She said 46%               of Millcreek's             budget         went      to UPD         and she felt that                some        of that funding
+   should       go to policy           experts,         reparations            to victims          from        police     brutality,          and transparent
+   investigations             for the community                   on misconduct.
+
+
+   The       Council       and staff         continued           to read comments                   submitted            online     from       Whitney          Norton,
+   Alyssha          Dairsow,        Tanner          Kvarfordt,           Thomas          McGrath,              Kristen      Pearson,          Sherri      Wittwer,          Ken
+   Riter,      Cyan      Larson,           Chip     Spencer,          Mary      Giles,       and Linda            Burtch.
+
+
+   Lex       Scott,    representing            Black         Lives      Matter,       said she grew               up near Tanner                Park.      She did not
+   like     the Council           funding          UPD        but recornrnended                that     some       of the funding               should      go towards
+   providing          body       cameras           for all officers          with       a policy        that officers            could      not turn       off the
+   cameras          in a critical          force     incident.        She said she did not see many                               cops in east Millcreek.                    If
+   the Council           was looking               for reform,          they     should        be looking           for data collection                  on profiling,
+   de-escalation           and diversity              training        for police,          and testing           for implicit            bias before         hiring
+   officers.        She said she was trying                      to repeal        H.B.       415 to allow               review      boards       to investigate
+   police.
+
+
+   Steven       Fullmer,          3226       S. Melbourne,               said the police              department            had a tough            job    and they          did
+   well.      He did not understand                     some         of the comments                read into           the record.         He felt the Council
+   should       fund      the police.
+
+
+   Pari     Jahdi      said she lived              in a bad neighborhood.                      She said if America                   did not wake            up, it would
+   get very       bad and she knew                    that from         her experience                living      in other        countries.          She said she
+   loved       the police         and they          needed       more        power.        Police       and teachers              had the hardest            job      and
+   they      did not get paid              enough.
+
+
+   Jared Bowling read an online comment from Sonia Nitschke, 3681 S. Solitaire Drive.
+
+   Council        Member          Uipi       said the Council                felt this was an important                       issue.       She believed             that
+   young       men       of color      needed          a positive         male      role     model.        Her personal                interactions         with      UPD
+   had been positive.               She felt          like    it was an opportune                   time       to have       conversations               about      policing.
+
+
+   Mayor        Silvestrini         said the first            step of this process                 was to listen            to residents.          He told          the
+  public       they      could     still    provide          comments           after      the meeting.            The      Council           would       learn     from          the
+   comments            about      potential         reforms          and work         with      the police          department              on ways        to improve.
+   He said he was part                 of a committee                 called,       Love,      Listen          and Lead          that was going             tl'irough        a
+   similar      process         on police          reform.        He said the Council                   had budgetary               control        over     the
+  Millcreek           Precinct       with      respect         to the number             of officers            Millcreek          has. Those            officers         receive
+  training       from      the UPD.           He said he had the ability                        to influence             policy        as a member            of the
+  Unified        Police         Department            Board       and discuss            resources             and training          of officers.          He
+  mentioned            that the comments                     received        during      the truth         in taxation            hearing       the prior          week
+Millcreek       City     Council         Meeting         Minutes                                             17 August            2020        Page 4 of 5
+
+
+
+   would      be factored          into the conversation             as well.      The Council              would     distill     the information           and
+   try and make the police                  department        one that everyone                 was proud       of. He said the officers                 were
+   interested      in constant           improvement          as well.
+
+
+   Elyse      Sullivan      read an online             comment       from      Stephanie         Tanner       on Parkview            Drive.
+
+
+   Council       Member           Catten     lamented       the fact that only            one or two of the forty                  comments          received
+   came from           District     1. She recognized              that the City         had a great police            force,      though      they were
+   not perfect.         She felt there was some bias, but it was not about good or bad cops. She had heard
+   stories     from      residents       in her district      that had been involved                  in racial      profiling.        She supported
+   freedom       of speech and said everyone                       was entitled        to their     own opinion             and the right        to protest.
+   She said Millcreek               was diverse          and the Council          heard         opposing      views.        There     were problems
+   that need to be addressed.                  She said the Council              was holding           the town         hall because people
+   were getting          killed     and recognized           what has gotten             them to that point.               Council       Member        Uipi
+   said there was diversity                 on the Council          of ethnic         origin     and of opinions            and views.
+
+
+   Council       Member           Jackson      appreciated         the comments            received.         She said it was the Council's
+   job to find        a Millcreek          solution.      She valued         the police         and the work         they do. She said if
+   officers     were not capable              of making        tough        decisions,         they needed to find               a new job.      She was
+   grateful     for those that serve Millcreek.                     She appreciated              the comments           received         and said the
+   Council       would      use those comments                to come up with              a plan to work            together        with     UPD.
+
+
+   Jared Bowling            read an online             comment       from      Valor     McNeely,
+
+
+   Council       Member           Marchant       thanked      the public         for their       insight.     He said he had 5 points                 to
+   share: 1) he wanted               to see Millcreek          be a safe place;            2) he was grateful               the Mayor         was
+   involved       with     UPD       and could         ensure UPD had good trainings                         and policy;          3) it was a mistake
+   to think     everything          was perfect          all the time,       it was okay to reevaluate;                  4) police       need to be
+   properly      funded;          and 5) the police         should     utilize        professional          help where          it is required,       but
+   specialized         people      costed more money.
+
+
+   Council       Member           Uipi   read an email         from      Dev Wilkinson              into the record.
+
+
+   Council      Member            Uipi   brought        up the policing          committee          comprised         of Millcreek            volunteers
+   and asked the Council                 about their level           of involvement.              Mayor       Silvestrini         said the Council
+   needed to collate              and review       the comments              received,         determine      what the Council                had the
+   power      to control,         share the information              with     UPD,       and formulate           recommendations.                He said
+   the committee            could be involved              in the next step after comments                      were collated.
+
+
+   Caller     - Craig      Widdowson,            4419 S. Adonis              Drive,      said the problems             facing       police     were that
+   they needed to be paid adequately,                        and they needed              accountability            and training.
+
+
+   Elyse      Sullivan      read an online             cornrnent     from     Jennica          Davis-Hockett,          1201 Lorraine            Drive.
+
+
+   Council      Member            Marchant       said it was a challenging                 time to raise taxes. The Council                       does
+   what is needed           sometimes,          not what is wanted.              The Council           had voted that year to increase
+   the property          tax rate by 2.78%              to fund the police.            Council       Member         Uipi        said the policing
+   committee          would       be meeting       on August          25'h. Council            Member        Catten        said it was important
+Millcreek        City     Council       Meeting       Minutes                                            17 August       2020        Page 5 of 5
+
+
+
+    for residents         to understand         what was in Millcreek's               power     to change          and improve       because
+    UPD       served      other jurisdictions.           Mayor     Silvestrini       said Sheriff     Rivera       was the CEO of UPD
+    and there is a chief            that operates        under her, then each precinct                has a chief.      The UPD            policy
+    and budget          is set by the UPD          Board      and jurisdictions          have a weighted            vote on the Board
+   based on population               and revenue          contribution        to UPD.      The Board        is interested       in   having         the
+    best department           possible.        Council     Member          Jackson     asked if the other jurisdictions               were
+    having      similar     meetings          to hear from       residents.      Mayor     Silvestrini      said there was one in
+    Holladay,      but he did not know                about other cities.         Council      Member        Uipi     said she would           sift
+    through      the comments            and participate         in the policing         committee        and then debrief           the
+    committee          on the Council's          meeting.        She invited      continued       comments.          Council     Member
+    Jackson      pointed      out this was an ongoing                conversation.        Mayor       Silvestrini      said the public
+   needed to lobby            with     state legislators         about changing          any state law.
+
+
+
+Council       Member         Jackson          moved      to adjourn         the special      meeting        at 8:29 p.m.        Mayor
+Silvestrini      seconded.          Mayor       Silvestrini       called      for the vote.     All      Council     Members          voted         yes.
+The motion         passed       unanimously
+
+
+
+                                 APPROVED                                                                      Date     % l'l-hzo
+                                                           Jeff Siliiestrini,      Mayor
+
+
+
+                                    Attest:
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 3:52:15 PM
+
+
+
+     Public Comments
+
+     First Name                        Kirsten
+
+
+     Last Name                         Kolter
+
+
+     Address                           2769 E 2880 S
+
+
+     City                              SLC
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Milcreek Policing
+
+
+     Public Comment                    I am so happy to hear that you are all reviewing this topic
+                                       because it is very important to me as a resident. I strongly
+                                       believe that we need to have a much better community/police
+                                       relationship in order to combat the issues I hear from neighbors.
+                                       We have constant break-ins around my house and I feel like it is
+                                       only getting worse. I also feel like the people policing our
+                                       neighborhoods should be a diverse group of officers that are held
+                                       to a high set of standards and reflect the values of our
+                                       community. I would love to get to know the people in uniform that
+                                       keep us safe and have a better relationship with them all around.
+                                       The recent incident that happened in Cottonwoods Heights is
+                                       disturbing and I have no tolerance for that type of abuse of
+                                       power. We all need to work together to make peace and safety
+                                       the priority. We often see our local firehouse men and woman at
+                                       Smiths shopping, they are always eager to greet citizens and talk
+                                       with my children. I think the Police should truly follow their
+                                       example and get to know the community they serve, I think it
+                                       would be a great start to reshape the relationship and would be a
+                                       win/win fo all. Thank you all for making this a priority.
+
+     Supporting Documents              Field not completed.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 6:06:08 PM
+
+
+
+     Public Comments
+
+     First Name                        Janet
+
+
+     Last Name                         Gillette
+
+
+     Address                           3419 El Serrito Drive
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    In order for our police department to function safely, promptly
+                                       and fairly, I feel strongly that extra training must be implemented
+                                       so officers can recognize and differentiate between the
+                                       appearance of miscomprehension, confusion, fear and addiction
+                                       vs willful disregard, intent to cause harm, and outright criminal
+                                       behavior. De- escalation of the situation is paramount, not
+                                       confrontation and escalation. Militarization of the police with riot
+                                       gear and armored vehicles leads only to hostility and is
+                                       counterproductive in most circumstances. Body cams must be on
+                                       at alll times, no exceptions. In situations where an experienced
+                                       clinical social worker would be useful to the team in helping to
+                                       resolve a crisis situation, he/she should be called.. but only if the
+                                       environment is stable and non life threatening.
+                                       In general, social workers are not trained in survival techniques
+                                       as the police are.
+
+                                       Peace keeping and justice should be the goal.. not who has the
+                                       greatest power or control or ego or need to show who's boss, in
+                                       my opinion. Solving a problem and avoiding escalation into a
+                                       deadly outcome shows restraint and wisdom, not weakness.
+                                       Thank you.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 6:46:08 PM
+
+
+
+     Public Comments
+
+     First Name                        Olga
+
+
+     Last Name                         Reese
+
+
+     Address                           1146 E. Ridgedale Cir.
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    Planning Commission
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Police Reform and Budget allocation
+
+
+     Public Comment                    I want police reform. I support required bodycam use. I want duty
+                                       to intervene enforced.
+                                       I want officers that use de-escalation to be rewarded and publicly
+                                       praised.
+                                       I want no knock warrants banned.
+                                       No more military equipment in our local police departments
+                                       End qualified immunity
+                                       Limit the scope of policing so that police are highly educated
+                                       experts with a specific focus that DOES NOT include petty theft,
+                                       minor drug offences, mental health crisis’ or homelessness.
+
+                                       I am concerned that Millcreek city has unaccounted funds in their
+                                       city budget that were put into UPD, off contract. They are
+                                       increasing property taxes and increasing police funding. We want
+                                       funding toward education, mental health services, and social
+                                       services in Millcreek!
+
+                                       Thank you.
+
+     Supporting Documents              Field not completed.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 4:29:28 PM
+
+
+
+     Public Comments
+
+     First Name                        Justin
+
+
+     Last Name                         Baker
+
+
+     Address                           2970 Metropolitan Way
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Townhall
+
+
+     Public Comment                    Every institution is imperfect and needs reform. Destroying or
+                                       defunding the police is not the answer. Don’t create a situation
+                                       where no one can be defended and we the people will have to
+                                       rely on our second amendment right to defend ourselves. Don’t
+                                       create a situation where no one wants to work in law
+                                       enforcement, and those that do, will refuse to go into high crime
+                                       areas. This effort is an well organized, well funded movement
+                                       utilizing a tactic similar to the Cloward-Piven Strategy in which
+                                       the system is overloaded to a point of mass chaos that can’t be
+                                       controlled. These are far leftists that want to dethrone the
+                                       President, destroy Capitalism and traditional/conservative values.
+                                       One only need to look at Portland for an example. 78 days of
+                                       continuous rioting and anarchy. What about Chicago, where the
+                                       mayor is more worried about whether or not people are wearing
+                                       masks than the huge rise in crime. CPD data shows that since
+                                       Jan. 1, the downtown area has been plagued by at least eight
+                                       homicides, 317 assaults, 51 criminal sexual assaults, 19
+                                       carjackings and 220 robberies. In a recent Politico interview,
+                                       Mayor Lightfoot stated “Not a single person” Lightfoot has
+                                       spoken to from Chicago’s neighborhoods has said they want
+                                       fewer police officers on hand, she said a day after one of the
+                         city’s most violent weekends of the year where 106 people were
+                         shot and 14 killed, including a 3-year-old.”
+
+                         “literally “defund” the police, Lightfoot said, puts newer recruits
+                         the city needs at risk because they lack seniority. “We'd have to
+                         get rid of the youngest, most diverse, most well-trained officers."
+
+                         So I ask the council to consider that we don’t need less police,
+                         we need more police. As crime continues to rise in Salt Lake
+                         County, we need to be prepared to maintain the valley’s
+                         reputation as a safe place to live. Our neighborhood never gets
+                         patrolled, yet we pay the most property tax in our city and are
+                         victims to crime as well. While the crimes may not involve
+                         manufacturing of methamphetamine or shootings; people still
+                         have their vehicles and property stolen, vehicles and houses
+                         broken into, yet there is it an officer to be found because the
+                         resources are better spent on the west side of the city.
+
+                         Reform needs to happen. Not just with police training, but ever
+                         citizen under UPD should feel safe and should feel that an officer
+                         will respond when they call 911. We don’t want to be vigilantes
+                         and we can’t let the lawless mobs win.
+
+                         Thank you.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 4:58:27 PM
+
+
+
+     Public Comments
+
+     First Name                        Janice
+
+
+     Last Name                         Nielson
+
+
+     Address                           3831 Viking Rd
+
+
+     City                              Millcreek
+
+
+     State                             Utah
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/10/2020
+
+
+     Comment Subject                   Police
+
+
+     Public Comment                    I love the police! Let’s not make their job so difficult. Maybe we
+                                       could be law abiding citizens so they won’t need to have us in a
+                                       choke hold or shot us!!!
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 5:09:20 PM
+
+
+
+     Public Comments
+
+     First Name                        Laura
+
+
+     Last Name                         Stewart
+
+
+     Address                           3862 Greenbriar way
+
+
+     City                              SLC
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    As a community we need our police. Recent aggression, looting,
+                                       rioting and public property being defaced are reasons why. That
+                                       being said, the police force also needs to have the training to
+                                       understand social issues, and junior officers need to be mentored
+                                       by senior officers who will teach them to keep the community
+                                       safe in a nonprejudicial way.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 5:13:27 PM
+
+
+
+     Public Comments
+
+     First Name                        Levi
+
+
+     Last Name                         Pace
+
+
+     Address                           4677 S. Quail Park Dr Apt F
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84117
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing town hall
+
+
+     Public Comment                    As a White ally, I'm listening to people of color when it comes to
+                                       input for Millcreek and Unified Police. I second groups like Black
+                                       Lives Matter and people like Lex Scott and Darlene McDonald
+                                       when they speak against police violence and call for statewide
+                                       and local reform. For example, Millcreek residents would be well
+                                       served by an empowered civilian review board, representative
+                                       racial diversity among officers, effective bias and de-escalation
+                                       training, and independent investigations not led by other cops.
+                                       When marginalized groups in Millcreek and surrounding areas
+                                       make recommendations, we as voters and local government
+                                       representatives need to listen. The result will be more equitable
+                                       and effective law enforcement. We also need to let people
+                                       protest racism and the police, even with some understandable
+                                       excesses in manner, without encountering a heavy handed
+                                       response or risking a life sentence. Together we can limit the law
+                                       enforcement impunity and fear-mongering that interfere with
+                                       community engagement, trust, and safety. Thank you.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:03:07 PM
+
+
+
+     Public Comments
+
+     First Name                        Jacqueline
+
+
+     Last Name                         Hansen
+
+
+     Address                           1160 East Iris Lane
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Police
+
+
+     Public Comment                    My name is Jacqueline, I live in District 2. I'm a nurse w
+                                       advanced training and I have personally cared for people who
+                                       are victims of police misconduct and brutality. I have also cared
+                                       for police that have met injury while on the job.
+                                       While I'm not trying to demonize police we have to face that
+                                       police homicides are a serious problem.
+                                       A. I want duty to intervene enforced and praised.
+                                       B. I want officers that use de-escalation to be rewarded and
+                                       publicly praised.
+                                       C. I want no knock warrants banned.
+                                       D. No more military equipment in our local police departments
+                                       E. End qualified immunity
+                                       F. I want the police budget reduced for cars, weapons reduced
+                                       by more than half and that funding to go to Promise Millcreek.
+                                       G. Limit the scope of policing so that officers are highly educated
+                                       experts with a specific focus that DOES NOT include petty theft,
+                                       minor drug offenses, mental health crisis’ or homelessness. H. I
+                                       want full transparency for civil forfeiture revenue
+
+                                       The public opinion of police is low. We need to repair the
+                                       relationship between the public and police.
+                         I truly fear that protesters, using their constitutional rights, will be
+                         met with militarized police in armored cars. This would be the
+                         wrong step. We need unity. We need reform.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 5:38:50 PM
+
+
+
+     Public Comments
+
+     First Name                        Marc
+
+
+     Last Name                         Madsen
+
+
+     Address                           3657 S. 1300 E. #12
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Police townhall
+
+
+     Public Comment                    I wish to emphatically state that I support UPD. We are
+                                       witnessing an unprecedented assault by well-funded anarchist
+                                       mobs attempting to destroy the foundation of law in America by
+                                       destroying those who enforce it. We have witnessed this with the
+                                       calculated arson of police precincts and courthouses in cities like
+                                       Minneapolis and Portland. I will not stand idly by and watch them
+                                       succeed. I will always have the 6 of LEO's covered from the
+                                       shadows, both with my voice and with my lawfully concealed
+                                       firearm. LEO's are our true heroes. They are what stand between
+                                       us and tyranny. Make their job easier, not harder, and stop
+                                       catering to these savage barbarians like ANTIFA and BLM, who
+                                       are hellbent on destroying everything Americans hold dear.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Friday, August 14, 2020 6:00:52 PM
+
+
+
+     Public Comments
+
+     First Name                        Brian
+
+
+     Last Name                         Strong
+
+
+     Address                           3734 Greenbriar Way
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Townhall
+
+
+     Public Comment                    Our police are excellent. The budget work the mayor has done is
+                                       just right. We need to feel safe and that the police are available
+                                       and will respond quickly.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Saturday, August 15, 2020 11:35:43 AM
+
+
+
+     Public Comments
+
+     First Name                        Scot
+
+
+     Last Name                         Morgan
+
+
+     Address                           4008 Ralph Street
+
+
+     City                              Millcreek
+
+
+     State                             Utah
+
+
+     Zip Code                          84124
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing
+
+
+     Public Comment                    Confrontations between peaceful demonstrators and violent
+                                       police aggression prevent opportunities for peaceful compromise.
+                                       Anger is based in the attitude that this is a war that must be won
+                                       by violence. It pits the rich and powerful against the poor and
+                                       huddled masses without jobs, health care and opportunity to
+                                       survive. Is this the America we believe in? We have descended
+                                       below the level of Joe McCarthy berating a soldier during
+                                       congressional hearings in the 1950s. The cry that woke America
+                                       was “do you have no sense of decency?” Without a return to
+                                       decency, which includes being truthful, having integrity, and
+                                       respect for each other, our democracy will remain shattered.
+                                       Leaders need to be willing to enter the streets and hear the
+                                       issues of demonstrators face to face. Real compromise means
+                                       that neither party gets everything they want. But a real dialogue
+                                       must be initiated first. Otherwise, it would appear government
+                                       leaders are afraid to understand the depth of substantive reform
+                                       that is needed to make police less confrontational, because they
+                                       are trained to kill. When individuals are backed into the corner of
+                                       potential incarceration, they tend to behave badly. Rather than
+                                       impounding a vehicle, a DUI could be driven home and put to
+                                       bed. In the morning a psychologist can stop by and say you have
+                         to start rehab. The DUI could be forgiven with 12 months of AA
+                         weekly meeting attendance, rather than stiff monetary fines,
+                         which most are unable to afford, plunging them deeper into
+                         despair and avoidance. We want to always try to help folks get
+                         back on their feet again rather than put them in jail. We need
+                         trained psychologists to be present to help when individuals have
+                         totally messed up their lives. Can we just admit that our current
+                         criminal justice system is often racially profiled, and isn’t effective
+                         in helping people turning their lives around to become productive
+                         members of society? Don’t we want to fix that? It is actually
+                         cheaper in the long run, because in the end only kindness
+                         matters. Most individuals will respond to it.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Saturday, August 15, 2020 2:09:27 PM
+
+
+
+     Public Comments
+
+     First Name                        Scot
+
+
+     Last Name                         Morgan
+
+
+     Address                           4008 Ralph Street
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84124
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing - HOA style of standards enforcement must be stopped
+
+
+     Public Comment                    A new unwelcome addition to the Millcreek community is the
+                                       HOA (Home Owners Association) style of ticketing for alleged
+                                       standards infraction. This is wrong, and must be stopped
+                                       immediately. Taxpayer money spent on this issue is wrong
+                                       minded. We did not buy property in an HOA, and it should not be
+                                       policed as such.
+
+                                       When there are really serious problems, let's work together as
+                                       community to solve them. Hoarders need psychological services.
+                                       Organize community volunteer cleanup projects. Sometimes
+                                       folks just need a helping hand, because they are overwhelmed
+                                       with other issues. Communicate and talk first. There is not valid
+                                       reason to be punitive in 98% of all the cases.
+
+                                       We should be much better than this. Overreach of power and
+                                       authority is not necessary or kind when it comes to this matter.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:07:11 PM
+
+
+
+     Public Comments
+
+     First Name                        Crissa
+
+
+     Last Name                         Levin
+
+
+     Address                           2760 S. Venar Cir
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   policing townhall
+
+
+     Public Comment                    Rates of unarmed violence in real life, connect that to the studies
+                                       of shooter video games.
+
+                                       ways that implicit bias can interfere with reacting
+
+                                       report for the public for undergraduates
+                                       differential
+
+                                       narrowing the scope of practice – pay them more to be experts
+                                       pay them
+
+                                       percentage of calls
+
+                                       verb policing – how much training is geared towards how many
+                                       calls, how much
+
+                                       barriers to policework – training, policies,
+TO TALK:
+The Mayor MENTIONED THAT NO ONE HATES A BAD COP
+LIKE A GOOD COP, AND THERE’S RESEARCH THAT SOULD
+SUGGEST THIS IS TRUE – SOCIAL DISTANCING FROM
+WITHIN AN INGROUP. Things like this can be fully understood if
+we look at psychological science. If we can predict this, what else
+can we predict? Well we can predict that bad cops are the most
+visible issue, but they are not the bulk of the issue – we call that
+the availability heuristic. And when I say they are not the bulk of
+the issue, I mean that the good cops are good – they’re just
+human. They’re no worse than me, and I read and teach a lot
+about this stuff as a psychology professor. The only difference
+between me and them is that I do not have to interpret danger at
+work while holding a gun. I no not put myself at risk for the good
+of my community, so my own implicit bias is not risking anyone’s
+life. I still have it, but it’s only importance is hurt feelings. Officers
+have to do better than the rest of us, not because they are worse,
+but because they are more important. Because the verb policing
+is a verb that puts them in opposition to the community, and they
+hold the same biases that research shows are deeply engrained
+in society.
+So everything above is pretty much science. Now I’m going to
+give opinion. My opinion is that we need accountability. Not to
+punish, but to fix. Officers are putting themselves on the line to
+protect us, but that’s not always what is happening. There needs
+to be accountability for that. We need to stop the re-hiring of
+individuals who have been fired or had complaints. There needs
+to be tracking and public availability of data of both violence and
+arrests by officers, even if the officers are kept anonymous by ID
+number. We need to add different specialties of police, including
+mental health specialties, and individuals focusing on helping.
+Because all of the science suggests that this is not a safe setup,
+and not only because of bad cops. I say we pay MORE, not less,
+for equipment and training and salaries, but that there only be a
+subset of the budget consistent with the subset of calls that are
+violent that goes towards that verb “policing,” and the rest goes
+towards training different specialties of officers that don’t pit them
+against the public.
+Ultimately, I think there is a lot of research suggesting that the
+implicit biases of things like accidentally mistaking the emotions
+of people of color when they are experiencing fear for anger, or
+accidentally mistaking a the cell phone of people of color for a
+gun – and making these mistakes at a MUCH higher rate for
+people of color than for white people, just can’t be ignored. And
+when officers are trying to keep themselves safe, these errors
+can be deadly. This has to be fixed. Most calls are not about
+violent individuals, they are about individuals who need help.
+Fixing these issues does not need to mean that we hate police. It
+doesn’t mean we have to get rid of them. But we can’t leave a
+whole section of people behind from safety, afraid of calling for
+help, and 2.5 times more likely to be killed while unarmed than
+                         individuals who are from other groups.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:10:58 PM
+
+
+
+     Public Comments
+
+     First Name                        Duane
+
+
+     Last Name                         Astin
+
+
+     Address                           3563 S. 1905 E.
+
+
+     City                              Millcreek City
+
+
+     State                             Uty
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing
+
+
+     Public Comment                    After reviewing the UPD use of force policy, I have to say that
+                                       overall, I’m pleased with the UPD policies regarding use of force.
+                                       It promotes de-escalation, verbal warnings and other non-lethal
+                                       force options first, but allows the officer latitude to use more
+                                       severe options if de-escalation fails.
+                                       However, it classifies chokeholds and carotid artery restriction
+                                       holds as a use of deadly force. This is not necessarily the case
+                                       particularly with the carotid artery restriction if used properly.
+                                       Blood flow to the brain is temporarily cut off from the brain
+                                       causing unconsciousness. During this time an assisting police
+                                       officer should be able to place a resistant suspect in restraints
+                                       and then the artery restriction removed. Obviously, this should be
+                                       a “last resort” maneuver and should only require a few seconds
+                                       in the hold to restrain a suspect. The restriction certainly should
+                                       not last over 8 and half minutes.
+                                       I’m concerned that by having this meeting the Millcreek City
+                                       council is considering what seems to be the current “politically
+                                       correct” and fashionable response to policing by defunding the
+                                       police. As we’ve seen what has happened in other cities where
+                                       this has taken place such as Portland, Seattle, Minneapolis, New
+                                       York, Baltimore among others, the crime rate has taken a
+                         dramatic upturn. In New York City as of June the murder rate is
+                         up 23% this year compared with the first six months of last year.
+                         Shootings city wide are up 130% compared with the same time
+                         frame last year. Burglary increased 118% in June of this year.
+                         These statistics are from the NYPD website.
+                         Portland recorded a higher number of homicides in July than they
+                         had during any other one-month period over the last 30 years
+                         according to the Oregonian. There is also a spike in assaults,
+                         burglaries, vandalism and shootings. This spike comes after the
+                         Portland City Council voted to cut over $15 million from the police
+                         budget. Similar increases are being posted by other cities that
+                         are defunding police departments. It’s clear that defunding the
+                         police is bad idea.
+                         It’s been said that police departments are systemically racist. I
+                         don’t believe that is true, and actual statistics rather than
+                         emotional or anecdotal responses bare that out. While there are
+                         a few racist officers, the system itself is not inherently racist, nor
+                         are most officers. Any officer that demonstrates a tendency
+                         toward racism should be weeded out. Good policing should be
+                         “color blind”.
+                         We’ve focused so much on the bad cops that we’ve failed to
+                         notice the good ones or the good they do. Like Deputy Jacob
+                         Swalwell of Alameda County Sheriffs department who rather than
+                         issue a citation to a homeless man for panhandling, decided to
+                         chat with him about his life instead. He found out that this man
+                         had lost track of his birth family and at 67 years old had no one to
+                         help him get back on his feet. Deputy Swalwell enlisted a private
+                         investigator who found his family some 250 miles away. After 60
+                         years this man has been reunited with his family thanks to the
+                         kind efforts of this officer.
+                         In a short internet search, I found stories of an officer helping a
+                         12 year old run a lemonade stand, helping a nervous groom tie
+                         his tie before his wedding, helping a homeless man tie his tie
+                         before a job interview, buying a homeless man a pair of shoes,
+                         delivering babies, rescuing pilots from crashed airplanes and
+                         rescuing drowning children. These stories are under reported in
+                         the main stream media. Instead the focus is on one jerk who kept
+                         his knee on the neck of a restrained suspect who had been
+                         resisting arrest for over 8 and half minutes. His being charged is
+                         absolutely justified and necessary. But let’s not judge and throw
+                         away the entire system because of one bad cop when the vast
+                         majority of them are good, decent human beings who took on
+                         that job for the purpose of helping people and keeping their
+                         communities safe, often times at great risk to themselves.
+
+Supporting Documents     Policing.docx
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:17:36 PM
+
+
+
+     Public Comments
+
+     First Name                        Whitney
+
+
+     Last Name                         Norton
+
+
+     Address                           Luck Spring Drive
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Reform Town Hall Comment
+
+
+     Public Comment                    I would like to voice support for deterring funds from UPD to
+                                       community support resources. We are asking police to be Jack
+                                       and Jills of all trades who cannot possibly be experts in every
+                                       field. Allocating funds to crime prevention, including mental
+                                       health services and youth engagement and education would
+                                       better serve both our community and UPD. After I was the victim
+                                       of a violent crime, the police were of very little help, but I greatly
+                                       benefitted from victim advocates who helped me navigate the
+                                       crime’s aftermath. We need better access to these types of
+                                       refined resources, not the blunt instrument we’re asking the
+                                       police to be.
+
+                                       Further, I’d like to voice support of Black Lives Matter and echo
+                                       their calls to end no-knock warrants, require de-escalation and a
+                                       duty to intervene, ban chokeholds and strangleholds, requires
+                                       warning before shooting, bans shooting at moving vehicles,
+                                       establishing a use of force continuum, ending qualified immunity,
+                                       and creating community review boards.
+
+     Supporting Documents              Field not completed.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:19:22 PM
+
+
+
+     Public Comments
+
+     First Name                        Alyssha
+
+
+     Last Name                         Dairsow
+
+
+     Address                           37
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing
+
+
+     Public Comment                    Our budget for our precinct should not be half of our city budget.
+                                       The safest communities do not have the most police, but more
+                                       community resources.
+
+                                       8 Can’t Wait should be put in place and police immunity needs to
+                                       be deplored. We need to be proactive instead of reactive. Just
+                                       because it hasn’t happened here yet, doesn’t mean it won’t- it’s a
+                                       matter of when.
+
+                                       Police have not been created to protect BIPOC, just property.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:26:11 PM
+
+
+
+     Public Comments
+
+     First Name                        Tanner
+
+
+     Last Name                         Kvarfordt
+
+
+     Address                           2532 E 3300 S
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number                      Field not completed.
+
+
+     Email Address                     Field not completed.
+
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    I want to thank the council for taking the time to address this very
+                                       important topic.
+
+                                       In listening to the comments of those opposed to redistributing
+                                       city funds away from the UPD, I can't help but feel that there is
+                                       fundamental misunderstanding of the role of police in society.
+                                       Police do not prevent crime, they merely respond to it. The most
+                                       effective way to actually prevent crime is to foster an
+                                       environment of opportunity and safety for ALL within our
+                                       community, and not just those select few of privileged
+                                       backgrounds. We do this by moving funds away from our over-
+                                       militarized police department, and into education, social and
+                                       mental health services, and public infrastructure.
+
+                                       As an addendum: It greatly concerns me to hear members of our
+                                       own community refer to peaceful protesters as "thugs" and
+                                       "anarchists". There is nothing more American than using your
+                                       right to free speech to protest for change of an unjust system.
+
+     Supporting Documents              Field not completed.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Sunday, August 16, 2020 2:49:35 PM
+
+
+
+     Public Comments
+
+     First Name                        Thomas
+
+
+     Last Name                         McGrath
+
+
+     Address                           1395 Solitaire Drive
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    Planning Commission
+
+
+     Meeting Date                      8/19/2020
+
+
+     Comment Subject                   Policing
+
+
+     Public Comment                    support current policing entirely.
+                                       support Unified Police.
+                                       Please, no change.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Sunday, August 16, 2020 9:30:49 PM
+
+
+
+     Public Comments
+
+     First Name                        Kristen
+
+
+     Last Name                         Pearson
+
+
+     Address                           1242 E Sierra Way
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number                      Field not completed.
+
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Townhall
+
+
+     Public Comment                    I wish to share my appreciation for the UPD and the difficulty
+                                       they experience as they try to keep our community safe. That
+                                       being said, data shows that across our country, people of color
+                                       suffer injustices in our criminal justice system and in their
+                                       interactions with police. I do not want to see quick action that
+                                       does not result in long-lasting meaningful change. Instead, I want
+                                       to see change that eliminates injustice. I think a citizen review
+                                       board for police shootings (not appointed nor elected, but chosen
+                                       lottery-style) should be considered. I also think it is wise to look
+                                       at all police interactions, not just those that make the news. A
+                                       recent Time Magazine article suggested that all body camera
+                                       footage (not just those from officer-involved shootings) be used
+                                       as data for officer professional development (How are officers
+                                       currently doing? What could they do differently in each situation?
+                                       Are they improving? etc.) and I support such measures.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 9:42:28 AM
+
+
+
+     Public Comments
+
+     First Name                        Sherri
+
+
+     Last Name                         Wittwer
+
+
+     Address                           1963 E Evergreen Ave
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    Thank you for your focus on this important topic. I have been
+                                       involved with the Crisis Intervention Team (CIT) training program
+                                       for a number of years. I currently serve as the President of the
+                                       Board for CIT Utah and am a Millcreek resident. Mental health
+                                       issues and appropriate police response has been an issue of
+                                       importance for residents of Millcreek and has been mentioned in
+                                       public comment in past meetings. Millcreek would benefit from
+                                       having CIT trained officers who are state certified CIT officers,
+                                       according to national best practice standards. CIT provides
+                                       partnerships between law enforcement, mental health providers,
+                                       individuals affected by mental illness, their families, and
+                                       community stakeholders. This unique partnership creates a
+                                       program that provides training for officers as well as helps to
+                                       create a crisis response system for those experiencing a mental
+                                       health crisis. UPD no longer participates in this program.
+                                       Whatever decisions are made by Millcreek City with regard to
+                                       policing, we hope that this program can be implemented in
+                                       Millcreek as well. It only makes sense to give our law
+                                       enforcement the best tools and training to work with the residents
+                                       of Millcreek. This benefits law enforcement, individuals affected
+                                       by mental illness, their families, and the broader community.
+                         The website for CIT Utah can be found here:
+                         https://cit-utah.com/
+
+                         Recent guest opinion in the Deseret News:
+
+                         https://www.deseret.com/opinion/2020/7/29/21303783/guest-
+                         opinion-crisis-intervention-teams-better-outcomes-in-policing-cit-
+                         utah-mental-health
+
+Supporting Documents     CIT Utah Program 6-20 bullets.doc
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 12:03:56 PM
+
+
+
+     Public Comments
+
+     First Name                        Ken
+
+
+     Last Name                         Riter
+
+
+     Address                           3487 S Watson Creek Ln
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84109
+
+
+     Phone Number                      Field not completed.
+
+
+     Email Address                     Field not completed.
+
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Townhall
+
+
+     Public Comment                    Millcreek needs to recognize that the anti-police protesting and
+                                       agenda is little more than radical leftist action to destabilize and
+                                       disparage American society, and to not give it any credence. The
+                                       grievances are in response to the actions of a few, not the norm;
+                                       big city police unions are a problem. However, the violent
+                                       protests are virtually unconnected to the actual police
+                                       misconduct; they are unreal justifications by the radical left to
+                                       disrupt society and move forward with their radical agenda of
+                                       destroying American society and remaking it in their
+                                       Marxist/socialist model. All of this insanity is an insult to our local
+                                       officers and has to be incredibly discouraging. I completely
+                                       support our local police and completely oppose any sanction or
+                                       defunding actions!
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 12:53:37 PM
+
+
+
+     Public Comments
+
+     First Name                        Cyan
+
+
+     Last Name                         Larson
+
+
+     Address                           4130 South Diana Way
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84124
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Millcreek Budget
+
+
+     Public Comment                    Please do not increase the budget for UPD for Millcreek. Do not
+                                       increase property taxes, as people are getting evicted from
+                                       unemployment and are unable to pay this tax due to COVID-19.
+                                       We want full transparency of where our taxes are going and
+                                       place reforms on excessive use of force for Millcreek UPD. The
+                                       budget for UPD should be made to the public. We want funding
+                                       toward education, mental health services, public transit, PPE,
+                                       and social services in Millcreek instead. I have personally had a
+                                       wellness check done on me, and instead of a crisis worker I got
+                                       UPD. They invalidated my experiences and feelings as a
+                                       transgender person living in a family that doesn't accept me, they
+                                       took my ID away to the officer's house, and put handcuffs on me
+                                       too tightly as they drove me to the hospital.They got angry with
+                                       me when I told them I didn't want to go. Social services need to
+                                       be put in place instead of police officers that do not understand
+                                       mental illness and get verbally aggressive to people in crises.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 5:10:06 PM
+
+
+
+     Public Comments
+
+     First Name                        Chip
+
+
+     Last Name                         Spencer
+
+
+     Address                           3443 S. 1300 E.
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number                      Field not completed.
+
+
+     Email Address                     Field not completed.
+
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    As a resident, I have been extremely pleased with the
+                                       dispatchers and police officers that have responded to my calls in
+                                       an always timely manner. Their demeanor has been excellent. I
+                                       am in favor of a raise for the officers. I believe that training funds
+                                       and time training should be increased. I believe the training
+                                       should include use of force, and negotiation/descalation
+                                       techniques. I am in favor of choke holds. I am not in favor of
+                                       defunding the UPD. I would be willing to help with city efforts to
+                                       support UPD. Does Millcreek have a plan for dealing with violent
+                                       protests like those in Salt Lake City, Portland and Chicago
+                                       among others, and what is it? Not intending to offend, does the
+                                       Millcreek Mayor and City Council support those kind of protests?
+                                       I am very pleased with the UPD.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:34:51 PM
+
+
+
+     Public Comments
+
+     First Name                        Mary
+
+
+     Last Name                         Giles
+
+
+     Address                           3026 S Crescent Dr
+
+
+     City                              Salt Lake City
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Policing in Millcreek
+
+
+     Public Comment                    I would like to voice support for allocating funds to crime
+                                       prevention and victim advocacy, instead of continuing to fund a
+                                       system that does not benefit the most vulnerable of individuals in
+                                       our communities. Millcreek as a community is not unsafe, and
+                                       does not need more money towards policing. Our community is
+                                       safe because it is not over-policed. The communities that are the
+                                       safest are those that have more resources (education, access to
+                                       mental-health services, access to healthy foods, etc.), not more
+                                       police. The denial that there is systemic racism in the criminal
+                                       justice system goes against extensive, peer-reviewed and
+                                       community-based research that has been done by various
+                                       reputable organizations (see: origins of policing in America,
+                                       origins of police unions in America and the political power they
+                                       hold, and the origins and cases that have stemmed from qualified
+                                       immunity). Furthermore, in the past few months, we have seen
+                                       that our own police forces in Utah are not exempt from being
+                                       brutal towards peaceful individuals. I urge the council to NOT
+                                       increase the budget for UPD. There are better things we can do
+                                       with our tax money to truly benefit all of us as a community.
+
+     Supporting Documents              Field not completed.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:35:22 PM
+
+
+
+     Public Comments
+
+     First Name                        Linda
+
+
+     Last Name                         Burtch
+
+
+     Address                           1164 Glorieta Dr
+
+
+     City                              Millcreek
+
+
+     State                             ut
+
+
+     Zip Code                          84106
+
+
+     Phone Number                      Field not completed.
+
+
+     Email Address                     Field not completed.
+
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      12/20/1983
+
+
+     Comment Subject                   Policing Town Hall
+
+
+     Public Comment                    Thank you for taking the time to listen this evening. I echo the
+                                       sentiments of many residents for reform and a closer look at the
+                                       allocation of funds. Education, community involvement, and
+                                       funding of other community resources for mental health and
+                                       social services should be paramount in making our community a
+                                       safer place for all to live in Millcreek for generations to come.
+                                       Including more training, community review boards, and other
+                                       needed community programs instead of increasing the police
+                                       budget should be seriously considered and implemented. Thank
+                                       you.
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:42:14 PM
+
+
+
+     Public Comments
+
+     First Name                        Sonja
+
+
+     Last Name                         Nitschke
+
+
+     Address                           3681 S SOLITAIRE DR
+
+
+     City                              MILLCREEK
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Police Townhall
+
+
+     Public Comment                    Police history is rooted in supporting slavery in the South and
+                                       protecting property in the north. A story has been created that the
+                                       police is here to serve the community, and while they may do
+                                       that on occasion, they cannot be separated from their history in
+                                       the same way I cannot be separated from my history as a white
+                                       woman and the privileges I receive therein, in the same way I
+                                       cannot separate how I was complicit in the incarceration system
+                                       as my time as a corrections officer. I must ask that we question
+                                       what we mean when we say "good cop" and "bad cop" when the
+                                       system, itself, was not intended to protect communities,
+                                       especially those that are already marginalized by the society that
+                                       we have built from the very formation of our nation: we are
+                                       holding this meeting on stolen land; this country was built on the
+                                       genocide of Indigenous Nations, and slavery was a cornerstone
+                                       of the U.S economy. When slavery was made illegal, laws were
+                                       created to continue disenfranchising the Black Community -- they
+                                       were called the Jim Crow laws. And I could go on, and on, and
+                                       on. This is a history that we cannot ignore. This is a context that
+                                       we cannot ignore. We cannot ignore instances of police brutality,
+                                       handwave, and say -- oh, this is just a few bad apples. The good
+                                       cops hate bad cops. The system as a whole is what matters, and
+                         this system is actively harming communities of color.
+                         Furthermore, I echo Lex Scott in the call for transparency
+                         regarding the data.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 7:51:33 PM
+
+
+
+     Public Comments
+
+     First Name                        Stephanie
+
+
+     Last Name                         Tanner
+
+
+     Address                           Parkview Drive
+
+
+     City                              Millcreek
+
+
+     State                             UT
+
+
+     Zip Code                          84124
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   ABSOLUTELY FUND THE POLICE!!!
+
+
+     Public Comment                    I have friends who are policemen and social workers. It is a lie
+                                       that there is has never been training to help police better interact
+                                       with minorities. I know man white and black officers who have put
+                                       their lives on the line for citizens of all stripes. My sister-in-law sat
+                                       on a citizen committee to review any police brutality - we have
+                                       tried many things. It is a false narrative of the left that is taking
+                                       over the country. Do I repsect peaceful protesters? YES! We all
+                                       do. But when things get violent, I can't help but think that Martin
+                                       Luther King himself would be ashamed of these scenes. Read
+                                       Black Lives Matter's website. They openly state they are anti-
+                                       family, pro-anarchy. If we care about all humans who are in need
+                                       of social services, a hand up, a better education, we will not
+                                       focus on racism or support BLM. We will acknowledge how far
+                                       many of our officers have come - how strong, brave and
+                                       upstanding they have been. We will work together to fill in the
+                                       cracks.
+                                       The woman from Europe who spoke - I echo her comments.
+                                       WAKE UP MILLCREEK! We are not Seattle. We are not
+                                       Portland. This is not a "one size fits all" problem. We are a good
+                                       community. Defunding the police will only create the chaos
+                                       anarchists need to aggravate real problems and fuel division
+                         instead of solutions.
+
+Supporting Documents     Field not completed.
+
+
+                Email not displaying correctly? View it in your browser.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 8:02:59 PM
+
+
+
+     Public Comments
+
+     First Name                        Valor
+
+
+     Last Name                         McNeely
+
+
+     Address                           3248 S Melbourne St
+
+
+     City                              Slc
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   PD reform
+
+
+     Public Comment                    De funding the police doesn't mean getting rid of the police.
+                                       Spend more money on social programs and opportunities to help
+                                       people find their voice. Also to echo Lex's comment, what issue
+                                       would anyone have with having body cams? Keep the honest
+                                       honest right?
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+From:           Bev Uipi
+To:             Elyse Sullivan
+Subject:        Fwd: Policing comment
+Date:           Monday, September 14, 2020 5:58:32 PM
+
+
+
+
+---------- Forwarded message ---------
+From: Deveron Wilkinson <                               >
+Date: Mon, Aug 17, 2020 at 7:53 PM
+Subject: Re: Policing comment
+To: Bev Uipi <                       >
+
+
+We don’t want UPD to have a turnover rate like West Valley does at 20%
+
+Dev Wilkinson
+
+> On Aug 17, 2020, at 7:52 PM, Deveron Wilkinson <                               > wrote:
+>
+> Sorry! Just received this e-mail. I am in favor of the tax increase for pay for UPD. We need
+police!!! Less police is more crime . . .
+>
+> Dev Wilkinson
+>
+>> On Aug 17, 2020, at 7:36 PM, Bev Uipi <                           > wrote:
+>>
+>>
+>> Do you want to email your comment for policing to me. Townhall is tonight.
+From:           noreply@civicplus.com
+To:             Elyse Sullivan; Comment
+Subject:        Online Form Submittal: Public Comments
+Date:           Monday, August 17, 2020 8:18:30 PM
+
+
+
+     Public Comments
+
+     First Name                        Jennica
+
+
+     Last Name                         Davis-Hockett
+
+
+     Address                           1201 Lorraine Drive, n/a
+
+
+     City                              MILLCREEK
+
+
+     State                             UT
+
+
+     Zip Code                          84106
+
+
+     Phone Number
+
+     Email Address
+
+     Public Meeting                    City Council
+
+
+     Meeting Date                      8/17/2020
+
+
+     Comment Subject                   Next Steps on UPD review
+
+
+     Public Comment                    Thank you so much for sharing your personal insights and
+                                       creating an open space for dialogue and doing the hard work of
+                                       listening
+
+                                       Suggestions for Next Steps:
+                                       Facilitated community conversations about what safety means
+                                       Continue an independent policing committee
+                                       Move human and financial resources towards for city wellness
+                                       and stability outcomes
+
+
+
+     Supporting Documents              Field not completed.
+
+
+                             Email not displaying correctly? View it in your browser.
+

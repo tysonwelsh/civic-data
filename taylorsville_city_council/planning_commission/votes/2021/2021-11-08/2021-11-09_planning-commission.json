@@ -1,0 +1,144 @@
+{
+ "date": "2021-11-09",
+ "year": 2021,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2021/2021-11-08/2021-11-09_planning-commission.md",
+ "present": [
+  "Kent Burggraaf",
+  "David Wright",
+  "Don Quigley",
+  "Lynette Wendel",
+  "Marc McElreath",
+  "Gordon Willardson",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright – I move for approval of the Consent Agenda consisting of the Minutes for August 24 and Sept 14, 2021, as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "8S21"
+   ],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley. I move that we approve File #43C21, a conditional use permit amendment for improvements to Valley Regional Park located at 5135 South Jordan Canal Road in Taylorsville, Utah, as identified in Exhibit E (Salt Lake County’s proposal) subject to Staff’s Findings",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "Don Quigley",
+   "seconder": "Lynette Wendel",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "43C21"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Russell – I move for approval of File #8S21, a 33-lot residential Preliminary Subdivision Plat for approximately 8.089 acres of real property, as identified, subject to the findings and conditions outlined in the Staff Report (paragraph 4.2 and 4.3 above). Commissioner Burggraaf – Commissioner Russell, do you wish to add the wording “and conditions”? Commissioner Burggraaf – My motion stands as previously stated",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5-1 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Don Russell",
+   "seconder": "Gordon Willardson",
+   "aye": [
+    "Don Quigley",
+    "Marc McElreath",
+    "Kent Burggraaf",
+    "Gordon Willardson",
+    "Don Russell"
+   ],
+   "nay": [
+    "David Wright"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "6-1",
+   "case_no": [
+    "8S21"
+   ],
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright - I would like to add conditions on how we are addressing the park strip issue specifically. Thus far we have not put in any conditions on the park strip. Commissioner Burggraaf – Then this is a motion to reconsider a decision having been made. Is there a second?",
+   "motion_type": "Land-Use/Zoning",
+   "result": "1-5 Denied (Final Action)",
+   "kind": "final_action",
+   "mover": "David Wright",
+   "seconder": "Lynette Wendel",
+   "aye": [
+    "David Wright"
+   ],
+   "nay": [
+    "Don Quigley",
+    "Marc McElreath",
+    "Kent Burggraaf",
+    "Gordon Willardson",
+    "Don Russell"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "8S21"
+   ],
+   "motion_no": 4
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Russell",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 5
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+  "contributions": [
+    {"date": "6/3/19", "name": "Loan to Self", "amount": "50.00", "in_kind": false},
+    {"date": "10/16/19", "name": "Loan to Self", "amount": "150.00", "in_kind": false},
+    {"date": "10/18/19", "name": "Loan to Self", "amount": "400.00", "in_kind": false},
+    {"date": "10/21/19", "name": "Regan Advertising", "amount": "100.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/3/19", "recipient": "SLCO Clerk", "purpose": "Candidate Filing", "amount": "50.00", "in_kind": false},
+    {"date": "10/16/19", "recipient": "Walmart", "purpose": "Marketing Signs", "amount": "150.00", "in_kind": false},
+    {"date": "10/16/19", "recipient": "Fedex/Kinkos", "purpose": "Flyers", "amount": "49.00", "in_kind": false},
+    {"date": "10/17/19", "recipient": "Original Copy & Print", "purpose": "Marketing Material", "amount": "235.00", "in_kind": false},
+    {"date": "10/17/19", "recipient": "Compusign", "purpose": "Yard Signs", "amount": "198.50", "in_kind": false},
+    {"date": "10/18/19", "recipient": "SLCO Clerk", "purpose": "Registered Voters List", "amount": "15.00", "in_kind": false}
+  ],
+  "total_contributions": "700.00",
+  "total_expenditures": "697.50",
+  "total_contributions_ytd": "700.00",
+  "total_expenditures_ytd": "697.50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "2.50",
+  "_meta": {
+    "index_path": "raw/samuel_higginson_trip_kearns.pdf",
+    "candidate": "Samuel J. Higginson",
+    "office": "Metro Township Council District 1",
+    "filing_type": "interim",
+    "election_year": "2019",
+    "reporting_period": "Report prior to general election (October)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/samuel_higginson_trip_kearns.pdf",
+    "pages": 4
+  },
+  "_notes": "4-page PDF (cover October 29 box checked dated 10/22/19; Summary Page; Itemized Contributions; Itemized Expenditures) all scanned upside down (rotated 180 to read). Summary Line 1 = 700.00 (Col A & B), Line 2 = 697.50 (Col A & B), Line 3 beginning balance slashed-zero, Line 7 close = 2.50. Expenditures page has one struck-through row dated 10/18/19 recipient 'Registered' crossed out with no amount and no purpose -- omitted as a voided entry. Subtotals confirm 6 kept expenditure rows sum to 697.50. Filename token 'trip' did not produce duplicate pages."
+}

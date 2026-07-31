@@ -1,0 +1,94 @@
+# Community Reinvestment Agency Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06222020-380
+> Meeting date: 2020-06-22
+> Format: text
+
+---
+
+
+**Body:** CRA
+**Date:** 2020-06-22
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_06222020-380
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                      Minutes           of the
+                                                                    Millcreek            Community                    Reinvestment                  Agency
+                                                                                                       June       22,      2020
+                                                                                                           7:00      p.m.
+                                                                                                     Regular         Meeting
+
+
+
+
+The      Coinmunity            Reinvestment              Agency         of Millcreek,            Utah,        met    in a regular          public     meeting          on
+June 22, 2020             at City       Hall,     located     at 3330        S. 1300           E., Millcreek,            UT       84106.    The meeting               was
+conducted          electronically            per Millcreek           State of Local                  Emergency           Directive         No.   2 of 2020            and
+live     streamed        via the City's           website        with      an option          for online          public      comment.
+
+
+PRESENT:
+
+
+Board        Members                                                            City         Staff
+Jeff     Silvestrini,         Chair                                             John         Brems,        City     Attorney
+Silvia      Catten                                                              Elyse         Sullivan,        Agency          Recorder
+Dwight          Marchant                                                        Mike         Winder,          Economic            Development            Director
+Cheri      Jackson                                                              Kurt         Hansen,         Legislative          Policy     Director
+Bev      Uipi     (excused)                                                     Francis         Lilly,       Planning         and Zoning            Director
+                                                                                Laurie         Johnson,           HR-Finance           Director
+                                                                                Jared        Bowling,          IT and Facilities             Manager
+
+
+Attendees:           There       were       no public       attendees.
+
+
+REGULAR                 MEETING                 - 7:00    p.m.
+TIME         COMMENCED:                          10:12      p.m.
+
+
+Chair      Silvestrini         called       the meeting       to order.
+
+
+1. Discussion            and     Consideration               of Resolution              20-04,           Adopting          the     Community
+Reinvestment              Agency            (CRA)        Annual         Budget         for     the Fiscal           Year      Beginning          July     1, 2020
+and      Ending         June     30, 2021
+Chair      Silvestrini         said the Board            previously          adopted           a tentative          budget.       Laurie     Johnson           said
+there     were     no changes            to the budget.            Chair     Silvestrini             asked     for public          comment.          There      was
+no comment.
+
+
+Board        Member            Jackson          moved       to adopt         Resolution               20-04,        Adopting         the Community
+Reinvestment              Agency            (CRA)        Annual         Budget         for     the Fiscal           Year      Beginning          July     1, 2020
+and      Ending         June     30, 2021.          Board     Member              Catten         seconded.              The    Agency        Recorder            called
+for    the vote.        All    Board        Members          voted         yes. The           motion         passed        unanimously.
+
+
+2. Approval             of May        11,    2020     Meeting           Minutes
+Millcreek        CRA    Meeting       Minutes                                                   22 June         2020      Page      2 of 2
+
+
+Board       Member      Jackson          moved     to approve             the May    11,     2020    minutes.      Board       Member
+Marchant         seconded.       Chair      Silvestrini          called    for   the vote.    All    Board      Members          voted       yes.
+The     motion    passed     unanimously.
+
+
+
+
+ADJOURNED:               Board      Member          Jackson          moved       to adjourn         the meeting          at 10:14     p.m.
+Board       Member      Catten      seconded.         Chair        Silvcstrini      called    for    the vote.     All    Board      Members
+voted    yes. The      motion      passed        unanimously.
+
+
+                             APPROVED:
+                                                          Jeff    Silvestrini,      Chair
+
+
+
+
+                                  Attest:                 &yLa"&Avan,
+                                                                 Agency Recorder
+

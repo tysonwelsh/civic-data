@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "10/18/16", "name": "Reagan Outdoor Advertising", "amount": "100", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "4/17/16", "recipient": "Kathleen Bailey", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "100.00",
+  "total_expenditures": "50.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "50.00",
+  "_meta": {
+    "index_path": "raw/2016_kathleen-bailey_copperton.pdf",
+    "candidate": "Kathleen Bailey",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/copperton_city_council/campaign_finance/raw/2016_kathleen-bailey_copperton.pdf",
+    "pages": 4
+  }
+}

@@ -1,0 +1,882 @@
+# Planning Commission Meeting — February 9, 2020
+> Source: https://www.utah.gov/pmn/files/700371.pdf
+> Meeting date: 2020-02-09
+> Format: text
+
+---
+
+
+*St. George, Utah Planning Commission. Source: pmn — https://www.utah.gov/pmn/files/700371.pdf*
+
+---
+
+NOTICE OF MEETING
+                                       PLANNING COMMISSION
+                                         CITY OF ST. GEORGE
+                                     WASHINGTON COUNTY, UTAH
+
+PRESENT:      Chairman Ray Draper
+              Commissioner Natalie Larsen
+              Commissioner Emily Andrus
+              Commissioner Vardell Curtis
+              Commissioner Nathan Fisher
+              Commissioner Steve Kemp
+              Commissioner Elise West
+
+
+CITY STAFF: Assistant Public Works Director Wes Jenkins
+          Community Development Director John Willis
+          Assistant City Attorney Bryan Pack
+          Planner III Dan Boles
+          Planner III Michael Hadley
+          Planner II Genna Goodwin
+          Development Office Supervisor Brenda Hatch
+
+
+EXCUSED:
+
+
+CALL TO ORDER/FLAG SALUTE
+Chair Draper called the meeting to order at 5:05 pm. Commissioner Curtis led the flag salute. Chair Draper
+indicated that item 1A is postponed.
+
+   1. ZONE CHANGE (ZC) (Public Hearing) Legislative
+
+
+       A. Consider a request to change the zone from OS (Open Space) and R-3 (Multi-family) to PD-R
+          (Planned Development Residential) on approximately 4.96 acres located north of Gateway Dr, east
+          of Cottonwood Springs Rd, and west of the Twin Lakes Resort subdivision. The proposal consists
+          of 43 townhome units made up of 9 buildings with varying unit counts. The applicant is TCBH, LLC
+          and the representative is Bob Hermandson, Bush & Gudgell, Inc. The project will be known as
+          Twin Lakes. Case No. 2020-ZC-008 (Staff – Dan Boles)
+          THIS ITEM HAS BEEN POSTPONED
+
+
+       B. Consider a request to change the zone from R-1-10 (Single Family Residential 10,000 sq. ft. lot
+          sizes) to PD-R (Planned Development Residential) on approximately 52.9 acres, PD-C (Planned
+          Development Commercial) on approximately 39.00 acres, R-1-7 (Single Family Residential 7,000
+          sq. ft. lot sizes) on approximately 36.38 acres, and OS (Open Space) on approximately 17.72 acres
+          for a total of approximately 146 acres located north of Southern Parkway, east of River Road, south
+          of the White Dome Nature Conservancy, and west of the existing White Sands and Sage Canyon
+          subdivisions. The applicant is Prime Directive Development and the representative is Ryan Thomas.
+
+Planning Commission Minutes
+February 9, 2021
+Page 2 of 17
+
+         The project will be known as Southern Hills - West. Case No. 2021-ZC-014 (Staff – Genna
+         Goodwin)
+
+         Genna Goodwin presented the following:
+
+         Genna Goodwin – Planning Commission saw areas 2, 3, 4 and 6 back in December then the
+         applicant decided to come back with an overall plan for the PD. Areas 1, 5, and 7 are asking for R-
+         1-7 so they will just come forward with a preliminary plat at a later date. Areas 2, 3, 4 and 6 are PD-
+         R's so those have the full package, projects 8 and 9 are PD Initial so they have an estimated net count
+         but no site plan yet, so they will come forward at a later date with a PD amendment. Areas 10 and
+         11 are PD Initial and will come back with a PD Amendment, they are commercial not residential.
+         Genna described the number of units per acre for the R-1-7 areas. Area 2 is White Dome town
+         homes, this is an attached product, duplexes and four-plexes. They are proposing 66 units for a
+         density of 8.1 units per acre. They are meeting the parking and amenity ordinance. Area 3 is White
+         Trails phases 1-3. They will have 79 units over 11 acres for a density of 6.85 units per acre. There
+         are 4 different product types in this area, they are meeting the amenity and parking code. Area 4
+         White Cliffs Townhomes they have 58 units over 4.86 acres with a density of 11.93 units per acre.
+         They are meeting the amenity requirement and exceeding the parking requirement. Area 6 is for
+         White Trails phases 4-6, it is a duplication of phases 1-3, same product type. The density here is 6.6
+         units per acre. They are exceeding amenity requirements and meeting parking requirements. The
+         next one is the PD initial for area’s 8 and 9 there are no elevations, but area 8 is approximately 110
+         units 3-story apartments. Area 9 will be 150 units, 4-story apartments. There is a use list for Areas
+         10 and 11, the proposed Commercial PD area, staff recommends striking through the ones that are
+         Permitted with Standards or Conditional Use.
+
+         Commissioner Larsen – Who will own the open space?
+
+         Genna Goodwin – The HOA’s.
+
+         Commissioner Curtis – On the use list that you provided it looks like you struck out any of them that
+         are PS or a C, is that correct?
+
+         Genna Goodwin – Yes that is correct.
+
+         Ryan Thomas – I am the applicant. The White Trails projects will have 4 different unit sizes and
+         they will have 4 different exteriors. The reason why White Trails have that extra and why it’s on the
+         west side of the project, we wanted to relieve some of the struggles with parking in that area, there
+         will be a longer driveway for people to park in.
+
+         Commissioner Kemp – Is there an estimated square footage on those units?
+
+         Ryan Thomas – They will probably average 2000 sq. ft. of livable area, they are two-story.
+
+         Commissioner West – On the open space are there trails?
+
+         Ryan Thomas – Those areas are natural hillside, we will own some of them and some will be in the
+         HOA, if they are too steep, we won’t be able to put walking trails, it will scar it up too badly.
+
+Planning Commission Minutes
+February 9, 2021
+Page 3 of 17
+
+         Commissioner Larsen – If those areas are disturbed will they be replanted?
+
+         Ryan Thomas – Yes, if they have to be disturbed then we will reseed with natural seed.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         Commissioner Kemp – How did staff decide to remove the PS and C uses?
+
+         Genna Goodwin – There are no Permitted with Standards or Conditional Use Permits are not
+         outlined in their zone plan, so we recommend them to be removed.
+
+         Commissioner Fisher – I think the list should be limited to what is after the title in the list so remove
+         the words including the following. I think it could be said as the following. I would like to know
+         everyone’s thoughts on the retail where it says outdoor operations.
+
+         Commissioner Larsen – I hate to limit that a lot. We are living in a different day and age now. I
+         think a temporary outdoor display may need to be allowed at some point but not excluded
+         completely.
+
+         Commissioner Fisher – My concern is items that are always out like building materials. This seems
+         like more of a neighborhood commercial.
+
+         Discussion on uses continued.
+
+         John Willis – I think there is one on the list that should be allowed such as public utilities, it may be
+         needed out there, but I would make the motion to recommend that the Permitted with Standards
+         conditions should be added to the code.
+
+         Commissioner Fisher – I would want to remove any reference when it refers to similar uses or
+         including the following, make it clear that what is on the list will be clear.
+
+         Commissioner West – What is a bus terminal, is it a bus stop?
+
+         John Willis – It would be a terminal that the buses would leave from like a Greyhound.
+
+         Commissioner Larsen – Does that include shuttle services?
+
+         John Willis – Yes.
+
+         Commissioner Kemp – I think there are some uses in here that we are removing that might fit. Can
+         we make the motion that they have to come back sometime with standards? Can we leave it in there
+         and say these uses are acceptable but with standards?
+
+Planning Commission Minutes
+February 9, 2021
+Page 4 of 17
+
+
+         Bryan Pack – You will need to identify what those conditions are.
+
+         John Willis – If a building is already built, like a strip center, when a new business comes in, they
+         won’t come back to Planning Commission. Typically, the shell will come back here, then you
+         wouldn’t see the businesses come back.
+
+         Chair Fisher – Remove any references to including the following, when it comes to the outdoors
+         maybe we can do a catch all that says we adopt the conditions that are in the ordinance already to
+         manage that. The rest of the titles were fine for me.
+
+         Commissioner Curtis – With those changes I’m comfortable with the list.
+
+         Commissioner Andrus – I am comfortable
+
+         MOTION: Commissioner Curtis made a motion to recommend to the City Council for approval to change
+         the zone from R-1-10 (Single Family Residential 10,000 sq. ft. lot sizes) to PD-R (Planned
+         Development Residential) on approximately 52.9 acres, PD-C (Planned Development Commercial)
+         on approximately 39.00 acres, R-1-7 (Single Family Residential 7,000 sq. ft. lot sizes) on
+         approximately 36.38 acres, and OS (Open Space) on approximately 17.72 acre with the following
+         that we have received from staff approval of Project Areas 1, 5, and 7 as R-1-7 zoning, approval of
+         Project Areas 2, 3, 4, and 6 as PD-R zoning adopting the conceptual site plans, unit counts,
+         elevations, and color material boards, approval of Project Areas 8 and 9 as PD-R zoning with the
+         understanding these project areas will come forward at a later date with PD Amendments to request
+         conceptual site plans, units counts, elevations, and color material boards, approval of the proposed
+         Open Space areas. The developer is to maintain said areas. Approval of Project Areas 10 and 11 as
+         PD-C zoning with the understanding these project areas will come forward at a later date with PD
+         Amendments to request conceptual site plans, elevations, and color materials boards, the designated
+         uses would be as we discussed tonight with the addition of the conditions in the regular code.
+         SECOND: Commissioner Fisher
+         Discussion on the PD-C zone and if it creates more work in the future and why we use the initial PD-C
+         zoning.
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+Planning Commission Minutes
+February 9, 2021
+Page 5 of 17
+
+   2. ZONE CHANGE AMENDMENT (ZCA) (Public Hearing) Legislative
+
+      A. Consider a request for an amendment to the Stone Cliff PD (Planned Development) zone on
+         approximately 0.345 acres located in Phase 11 on the northeast corner of the intersection of Cobalt
+         Dr and Marble Dr at approximately 2593 East Marble Drive for the development of a landscape
+         maintenance facility. The applicant is Stone Cliff Owners Association and the representative is
+         Larry Hampshire. The project will be known as Stone Cliff Landscape Maintenance Facility. Case
+         No. 2021-ZCA-012 (Staff – Mike Hadley)
+
+         Mike Hadley presented the following:
+
+         Mike Hadley – The purpose of this zone change amendment is to build a landscape maintenance
+         facility in the development to allow them to store their equipment to make sure that they can
+         continue to take care of the property. It is general planned LDR. There are renderings of what the
+         building will look like with the landscaping and the materials board.
+
+         Commissioner West – Is this an additional maintenance building and does it block the view?
+
+         Mike Hadley – It is the only one and it is set back so it shouldn’t affect views.
+
+         Larry Hampshire – I am the vice president of the Stone Cliffs Homeowners Association. We have
+         grown, this is a landscape facility, it is to store landscape material and trucks and equipment. The
+         building is about 2500 sq. ft. including 3 garage doors, storage space an office and small restroom.
+         The building is made to look like the surrounding properties, this is restricted to 16 feet high so it
+         will not impede any views. The lot is about 6 foot lower than the normal drive; it will have no
+         impact on the views. The lot has already been designated and platted as common space. We have
+         looked at different places to locate this, this seems to be the best location.
+
+         Commissioner Larsen – We did get some letters about the drainage from the construction road. I
+         wondered if the Association wanted to do anything about that.
+
+         Larry Hampshire – We don’t own that road so we cannot make any changes to it.
+
+         Commissioner Kemp – I know you said it would be used for landscaping only, I see there is a
+         sand/grease separator in the driveway.
+
+         Larry Hampshire – That is what it is called but it is for grass clippings and sand, no grease. We
+         don’t want these guys working on engines and maintaining vehicles. We don’t want these guys
+         maintaining the motors.
+
+         Commissioner West – Have you had any feedback from the neighbors near the building?
+
+         Larry Hampshire – We had a neighbor that wanted us to clean up the tumble weeds, it was a
+         neighbor to neighbor issue. Stone Cliff has strict rules about maintaining the lots, each owner is
+         supposed to maintain their lot. I wish she would have brought it directly to our attention.
+
+         Commissioner Fisher – Behind the building what is the material?
+
+Planning Commission Minutes
+February 9, 2021
+Page 6 of 17
+
+         Larry Hampshire – It is gravel. We want to maintain minimum impact on the community.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         MOTION: Commissioner Larsen made a motion to recommend approval of item 2A an amendment to the
+         Stone Cliff PD for the development of a landscape facility as presented by staff
+         SECOND: Commissioner Andrus
+         Bryan Pack – I would recommend that we would condition this that the lot and the building should be located
+         on common area with HOA approval.
+         AMENDED MOTION: I will amend my motion to include Bryan’s comments.
+         SECOND: Commissioner Andrus
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+      B. Consider a request for an amendment to the Stone Cliff PD (Planned Development) zone on
+         approximately 2.83 acres located on the northeast corner of the intersection of Cobalt Dr and Stone
+         Canyon Dr at approximately 2241 East Cobalt Dr for the development of a new clubhouse. The
+         applicant is Stone Cliff Owners Association and the representative is Larry Hampshire. The project
+         will be known as Stone Cliff New Clubhouse. Case No. 2021-ZCA-013 (Staff – Mike Hadley)
+
+         Mike Hadley presented the following:
+
+         Mike Hadley – This is a new club house; it is also a zone change amendment. There is existing
+         parking next to their pool. One thing we should mention is that there are no parking standards in our
+         code for a clubhouse. The currently have 26 number of stalls and will be adding 31 stalls for a total
+         of 57. Staff feels like that will be enough to accommodate the clubhouse.
+
+         Larry Hampshire – I am the vice president of the Stone Cliff Homeowners Association. Stone Cliff
+         continues to grow, as such we have determined our existing clubhouse is too small right now. We
+         determined we need a larger one that will fit 285 people. The existing clubhouse is very old and it’s
+         too small for what we need. We will renovate that to a fitness center. We developed a development
+         plan based on a survey of the residents and what we think they need. Over a period of time we
+
+Planning Commission Minutes
+February 9, 2021
+Page 7 of 17
+
+         surveyed the homeowners. We tried a number of layouts to minimize the impacts on the gorgeous
+         rocks around there. We have an overwhelming majority in favor of this. We are keeping our
+         amenities in one area, we are not taking any more land and putting it in common area. We will
+         expand the pickleball courts, have 2 bocci ball courts and a half basketball court. The site really
+         preserves the rock out there.
+
+         Commissioner West – Is there a noise ordinance for this kind of project in a neighborhood?
+
+         Larry Hampshire – Both of these buildings will need to comply with the construction hours up there,
+         they will have to comply with the CCR’s.
+
+         Commissioner West – After the building is finished will there be a noise ordinance?
+
+         Larry Hampshire – The noise will be contained in the building; we will limit the hours of the splash
+         pad and the pool.
+
+         Discussion continued on the use of the clubhouse and the surrounding landscape.
+
+         Commissioner Kemp – Do you anticipate that this facility will handle all that is part of Stone Cliff
+         even the new portion near the substation?
+
+         Larry Hampshire – Yes it will, we wanted to do it right and not go back again in a few years.
+
+         Commissioner Larsen – I have full confidence that you will control the noise.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         Commissioner Andrus – One of the comments in the packet mentions that the project needs a new
+         water line, do we need to include that in the motion.
+
+         Mike Hadley – No, that will be taken care of with site plan review.
+
+         MOTION: Commissioner Kemp made a motion to recommend approval of item 2B an amendment to the
+         Stone Cliff PD (Planned Development) zone on approximately 2.83 acres located on the northeast corner of
+         the intersection of Cobalt Dr and Stone Canyon Dr at approximately 2241 East Cobalt Dr for the development
+         of a new clubhouse including all staff recommendations in the packet.
+         SECOND: Commissioner Curtis
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+
+Planning Commission Minutes
+February 9, 2021
+Page 8 of 17
+
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+      C. Consider a request for an amendment to the Boulder Creek Crossing PD (Planned Development) on
+         approximately 1.51 acres. The property is generally located on the north-west corner of River Road
+         and 1450 South. The PD amendment would allow for the construction of a bank. The applicant is
+         Altabank represented by Dale Buxton. Project named is Alta St. George. Case No. 2020-ZCA-053
+         (Staff – Dan Boles)
+
+         Dan Boles presented the following:
+
+         Dan Boles – They are meeting the parking, they have an area labeled as a future office, that area will
+         to be kept maintained and that is a recommended condition in your packet. We will go through the
+         landscape plan should this be approved. Staff is satisfied with the building itself. It will have two
+         drive thru lanes. Bank is listed as an approved use in this development.
+
+         Commissioner Larsen – How many lanes of traffic are going west on that 1450 S extension?
+
+         Wes Jenkins – Right now the intention will be one lane in each direction with a center turning lane.
+
+         Commissioner Larsen – It has 4 lanes on the east side so I think it will as busy as any other roads in
+         the City.
+
+         Commissioner Kemp – Isn’t there plans to widen that road?
+
+         Wes Jenkins – Not at this time.
+
+         Commissioner Kemp – So it is two lanes all the way to the Dixie Center?
+
+         Wes Jenkins – Yes.
+
+         Discussion continued on traffic and the size of 1450.
+
+         Commissioner Larsen – I think the design of the building looks nice.
+
+         Dale Buxton – I appreciate the Commission looking at this application, this is a good opportunity for
+         us to expand our footprint in the area. We did take some time to redesign the exterior of the building
+         to go with the red rock in St. George. I think it will be a good fit for your community.
+
+         Chair Draper opened the public hearing.
+
+Planning Commission Minutes
+February 9, 2021
+Page 9 of 17
+
+         Rob Shaffer – I wanted to comment on the road width. I have a question, if you look at the two-lane
+         road with the center turn lane it looks like our road lines up with the Maverik station. I think we
+         have a fair amount of landscape buffer that we could probably give up some landscape.
+
+         Dan Boles – You have about 20 ft. You are required to have 15 ft.
+
+         Commissioner Larsen – What about a de-cell lane?
+
+         Wes Jenkins – To the north I believe there is. You can come in off of River Road or off of the 1450.
+
+         Commissioner Larsen – I’m just wondering if they can put a de-cell lane in on 1450.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         Commissioner Larsen – Commissioner Fisher, in your experience, as further commercial develops
+         can we require a de-cell lane here?
+
+         Commissioner Fisher – You could address that with future projects.
+
+         Wes Jenkins – I’m fairly certain there is an additional right turn lane that comes with this UDOT
+         project.
+
+         MOTION: Commissioner Fisher made a motion to recommend approval to the City Council of Item 2C an
+         amendment to the Boulder Creek Crossing PD with all of staff recommendations and comments.
+         SECOND: Commissioner Larsen
+         Commissioner Curtis – There are comments in the staff report pertaining to maintaining the undeveloped lot.
+         AMENDED MOTION: Commissioner Fisher agreed to amend the motion to include the comments in the
+         staff report.
+         SECOND: Commissioner Larsen
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+Planning Commission Minutes
+February 9, 2021
+Page 10 of 17
+
+      D. Consider a request for an amendment to the Fields at Mall Drive PD (Planned Development) zone on
+         Lot 8 located on the southeast corner of the intersection of 2780 East and Mall Drive. The proposal
+         consists of a car wash and associated vacuums. The applicant is QQUV Investments 4 and the
+         representative is Joseph Earnest. The project will be known as Quick Quack Washington Fields.
+         Case No. 2021-ZCA-011 (Staff – Mike Hadley)
+
+         Mike Hadley presented the following:
+
+         Mike Hadley – Mike showed pictures of Quick Quack Car Washes in other locations. They have 2
+         parking stalls, one is ADA. They have 2 employee parking stalls and 22 vacuum stalls. There is
+         plenty of room for car stacking.
+
+         Chair Draper – How many employees will they have there at a time?
+
+         Mike Hadley – I believe 2 at a time.
+
+         Commissioner Larsen – The parking stalls, what is that based on?
+
+         Mike Hadley – I believe the requirement is based on square footage of the office and it is pretty
+         small. It is a small area where the employees are.
+
+         Joseph Earnest – We are really excited to enter the market and become a commercial citizen of St.
+         George. We have 2 to 3 employees onsite. We encourage the employees to park in the vacuum sites
+         themselves. It is called dressing up the site. We can contain all the vehicle we would hope to
+         receive on site. I worked with Mike on a Quick Quack in Eagle Mountain. One of the comments
+         that staff has is that on the entrance and the exit is to swap out the CMU for stone. The one ask that
+         I have is to try and keep it looking the same. We have went through and submitted plans to the Lin’s
+         HOA. We will of course abide by whatever you all recommend.
+
+         Commissioner Kemp – Is the CMU split faced?
+
+         Joseph Earnest – The dark gray is, the light gray is smooth.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         Commissioner Andrus – I think as far as the stone goes, I think if you did anything with the stone it
+         would be a lot with the yellow and green, so I think it’s fine the way it is.
+
+         MOTION: Commissioner Curtis made a motion to recommend for approval Item 2D which will include the
+         staff comments of the location of the sewer line needs approval and the landscape plan needs to comply with
+         the City’s ordinance and be 50% live plans.
+         SECOND: Commissioner Fisher
+
+Planning Commission Minutes
+February 9, 2021
+Page 11 of 17
+
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+      E. Consider a request for an amendment to the Desert Color PD (Planned Development). The applicant
+         is requesting approval of a zone change amendment in order to construct 15 units of townhomes on
+         an approximately 1.47-acre site. The property is generally located on the north-west corner of
+         Carnelian Parkway and Claystone Drive and is called Auburn Hills Phase 6. The applicant is Desert
+         Color St. George, LLC. Case No. 2021-ZCA-016 (Staff – Dan Boles)
+
+         Dan Boles presented the following:
+
+         Dan Boles – These next 3 items are really infill for Auburn Hills. They are looking for 15 units, it is
+         zoned PD-R, there are three 3 plexes, a 4 plex and a 2 plex. This is not a new product; we have seen
+         them before there will be a few options. These next few zone changes with Auburn hills are infill.
+
+         Bob Hermandson – This is just infill, everything around this is already built or in process. The pre
+         plat of this area and these next few items on the agenda we actually had approved in November and
+         these products and renderings we had already processed with the phase 1 application. We felt like
+         we wanted to mix up the products a little bit so the blocks wouldn’t all be the same. We are just
+         trying to fill in the gaps of Auburn Hills.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         MOTION: Commissioner Larsen made a motion to recommend approval of item 2F an amendment to the
+         Desert Color PD (Planned Development). The applicant is requesting approval of a zone change amendment
+         in order to construct 15 units of townhomes on an approximately 1.47-acre site with staff’s comments.
+         SECOND: Commissioner Fisher
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+
+Planning Commission Minutes
+February 9, 2021
+Page 12 of 17
+
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+      F. Consider a request for an amendment to the Desert Color PD (Planned Development). The applicant
+         is requesting approval of a zone change amendment in order to construct 12 units of townhomes on
+         an approximately 1.25-acre site. The property is generally located on the south-east corner of
+         Carnelian Parkway and Garnet Drive and is called Auburn Hills Phase 7B. The applicant is Desert
+         Color St. George, LLC. Case No. 2021-ZCA-017 (Staff – Dan Boles)
+
+         Dan Boles presented the following:
+
+         Dan Boles – You saw 7A a while back, last year. We are looking at 3 buildings with 4 units each for
+         12 total. Each will have a garage and a driveway.
+
+         Bob Hermandson – These are just really isolated little pods all in the same area.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         MOTION: Commissioner West made a motion to recommend approval of item 2F a zone change
+         amendment in order to construct 12 units of townhomes on an approximately 1.25-acre site
+         SECOND: Commissioner Kemp
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+Planning Commission Minutes
+February 9, 2021
+Page 13 of 17
+
+      G. Consider a request for an amendment to the Desert Color PD (Planned Development). The applicant
+         is requesting approval of a zone change amendment in order to construct 8 units of townhomes and 9
+         single family lots on an approximately 2.02-acre site. The property is generally located between
+         Adobe Sun, Copperstone, Garnet and Claystone Drives and is called Auburn Hills Phase 17. The
+         applicant is Desert Color St. George, LLC. Case No. 2021-ZCA-018 (Staff – Dan Boles)
+
+         Dan Boles presented the following:
+
+         Dan Boles – This is the last one in Auburn Hills; this one includes townhomes and single family. It
+         is zoned PD-R. We are showing you the single family, you are not reviewing them, but we wanted
+         to show you them for context.
+
+         Bob Hermandson – Just to clarify this area went through many renditions of what it would look like
+         for all of this area. The parks have already been approved and started. Just north of here there is a
+         new park there is a civic space with a fire pit there. Most of the parks and civic spaces are already
+         built or underway in construction.
+
+         Commissioner Larsen – Are the parks owned by the HOA?
+
+         Bob Hermandson – Yes, that is correct everything will be maintained by them.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         MOTION: Commissioner Curtis made a motion to recommend approval of Item 2G with the staff
+         recommendation of any parking will be included on site.
+         SECOND: Commissioner Larsen
+         ROLL CALL VOTE:
+         AYES (7)
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+      H. Consider a request for an amendment to the Desert Color PD (Planned Development). The
+         application is a request for approval of a zone change amendment in order to construct the next pod
+
+Planning Commission Minutes
+February 9, 2021
+Page 14 of 17
+
+         in the Desert Color development. This proposed phase would create 270 new units of single and
+         multi-family housing. The location of the proposed pod is directly south of the existing Auburn Hills
+         phases 3 & 12-14 and is called Desert Color Pod 6 Plat A. Case No. 2021-ZCA-015 (Staff – Dan
+         Boles)
+
+         Dan Boles presented the following:
+
+         Dan Boles – This will be called Sage Haven in the packet it was called Pod 6, but it has been named
+         at this point. This is plat A, it’s the first part of Sage Haven. This is zoned PD-R. They are required
+         to have civic space; I believe it is 5% through each development. We and they are keeping tabs to
+         make sure they meet that requirement. There will be different types of units. You will see some
+         familiar architecture. There will be a portion, the buildings in yellow will need to come back in the
+         future to get approval of the building types. The rest will be the Mews and the Bays. You will have
+         a mix of larger lots and smaller lots, pockets of civic space that we will keep track of.
+
+         Bob Hermandson – We are super excited to open up another pod of development. In general, this is
+         similar in size to Auburn Hills, it is about 131 acres it has 650 units. The reason I created two
+         preliminary plats is to make it more manageable to see. I have submitted B and you will see that at
+         the next meeting. We had a lot of Mews in Auburn Hills and they turned out really well. We will
+         have some open areas and a trail network. We will be submitting another application to show the
+         renderings for the buildings in yellow. As quick as we can get through Sage Haven, we want to get
+         to Pod 7.
+
+         Commissioner Larsen – What are you using the civic spaces for?
+
+         Bob Hermandson – They are all connected by trails and the intent is to connect those to the major
+         trails that go down into the washes. Some are open play areas; some are landscaped living areas.
+         Some will have playground, gazebos, some with park benches, it depends on who we anticipate
+         living there.
+
+         Commissioner Curtis – How many builders are engaged out there now?
+
+         Bob Hermandson – Currently 12. We feel we are picky with builders. We feel like they are great
+         builders.
+
+         Chair Draper opened the public hearing.
+
+         Chair Draper closed the public hearing.
+
+         Chair Draper – For the record we indicate that multiple opportunities, multiple vehicles for speaking
+         on this issue have been provided through Zoom using the reaction button, the chat feature and *9 on
+         the phone.
+
+         MOTION: Commissioner Fisher made a motion to recommend approval of Item 2H for Desert Color PD for
+         pod 6.
+         SECOND: Commissioner Curtis
+         ROLL CALL VOTE:
+         AYES (7)
+
+Planning Commission Minutes
+February 9, 2021
+Page 15 of 17
+
+         Chairman Ray Draper
+         Commissioner Steve Kemp
+         Commissioner Emily Andrus
+         Commissioner Natalie Larsen
+         Commissioner Vardell Curtis
+         Commissioner Elise West
+         Commissioner Nathan Fisher
+         NAYS (0)
+         Motion Carries unanimous recommend approval
+
+
+   3. HILLSIDE PERMIT (HS) Administrative
+
+      Consider a request for a Hillside Development Permit to allow the development of PA (Planning Area) 9
+      of the Divario development. The property was originally considered for hillside approval in 2008 but
+      required additional review to allow cuts and fills of greater than 10 feet. The property is generally
+      located south-east of Varano Vistas and Cecita Crest at Divario subdivisions on Divario Canyon Drive.
+      The property is currently zoned R-1-7 (Residential single family, 7,000 sq ft minimum lot size). The
+      owner is 730 St George, LLC. Case No. 2021-HS-001 (Staff – Wes Jenkins)
+
+      Wes Jenkins presented the following:
+
+      Wes Jenkins – This is PA 9, back in 2005 or 06 they went and did an all over hillside review of this site
+      they marked some areas that when they were ready to develop would need to come back through
+      hillside. This one was asked to come back if there were cuts in this area of greater than 10 feet. As they
+      submitted their preliminary plat, we notice they did have some cuts in excess of 10 feet. It didn’t have
+      anything to do with soil analysis or slope maps. There is about a 20 ft. cut and that is why we took them
+      back out there. It doesn’t take up a lot of ground. There is a lot of hard rock out there and they think
+      that they will go in and cut a rock face. Some comments were to mark it off and they would be required
+      by BLM to do that anyway. They felt like the cut would blend in with the hillside. They did
+      recommend approval.
+
+      Commissioner Larsen – I know that people in The Vue’s have a problem with flooding, will they have
+      something to mitigate that?
+
+      Wes Jenkins – Yes, what they have done is that they have created a ditch in their open space area that
+      will capture all the water off of the BLM land. We have asked for a cross section so we can look at it in
+      more detail.
+
+      Commissioner Larsen – I think if they would mitigate that now it would be good.
+
+      MOTION: Commissioner Fisher made a motion to recommend approval to City Council for Item 3
+      SECOND: Commissioner Kemp
+      ROLL CALL VOTE:
+      AYES (7)
+      Chairman Ray Draper
+      Commissioner Steve Kemp
+      Commissioner Emily Andrus
+
+Planning Commission Minutes
+February 9, 2021
+Page 16 of 17
+
+      Commissioner Natalie Larsen
+      Commissioner Vardell Curtis
+      Commissioner Elise West
+      Commissioner Nathan Fisher
+      NAYS (0)
+      Motion Carries unanimous recommend approval
+
+
+   4. PRELIMINARY PLAT (PP) Administrative
+
+      Consider a request for a seventy-two (72) lot residential subdivision known as Salarno Hills at Divario
+      located at approximately Divario Canyon Drive and 700 South. The property is 19.87 acres and is
+      zoned R-1-7. The applicant is Rosenberg Associates, representative Allen Hall. Case No. 2021-PP-002.
+      (Staff – Wes Jenkins)
+
+      Wes Jenkins presented the following:
+
+      Wes Jenkins – We talked about the drainage being conveyed right there. They think they will need
+      some stacked rock walls there is some topography here.
+
+
+      MOTION: Commissioner Curtis made a motion to recommend approval of item 4 a preliminary plat as presented
+      by staff.
+      SECOND: Commissioner Larsen
+      ROLL CALL VOTE:
+      AYES (7)
+      Chairman Ray Draper
+      Commissioner Steve Kemp
+      Commissioner Emily Andrus
+      Commissioner Natalie Larsen
+      Commissioner Vardell Curtis
+      Commissioner Elise West
+      Commissioner Nathan Fisher
+      NAYS (0)
+      Motion Carries unanimous recommend approval
+
+
+   5. MINUTES
+
+      Consider approval of the minutes from the January 12, 2020 meeting.
+
+      MOTION: Commissioner Curtis made a motion to approve the minutes as presented.
+      SECOND: Commissioner Larsen
+      ROLL CALL VOTE:
+      AYES (7)
+      Chairman Ray Draper
+      Commissioner Steve Kemp
+      Commissioner Emily Andrus
+
+Planning Commission Minutes
+February 9, 2021
+Page 17 of 17
+
+      Commissioner Natalie Larsen
+      Commissioner Vardell Curtis
+      Commissioner Elise West
+      Commissioner Nathan Fisher
+      NAYS (0)
+      Motion Carries unanimous recommend approval
+
+
+   6. CITY COUNCIL ACTIONS
+
+      The Community Development Director will report on the items heard at City Council from the January
+      21, 2021 meeting.
+
+      1. ZCA – Taco Bell Dinosaur Crossing – MH
+      2. ZC – Desert Investment Group – MH
+      3. GPA – The Cove - DB
+      4. ZRA – Title 10 CUP DB
+      5. ZC - Grand View at Green Valley – DB
+      6. CUP – Commerce Point Bldg. 1100
+      7. PP – Desert Horizon
+
+      John Willis – A couple of things we have going on is the General Plan and the Downtown Plan we met
+      with the Mayor and I believe that two commissioners will be on the steering committee. It will be a big
+      deal it will guide development for the next 20 years.
+
+
+   7. ADJOURN
+
+      MOTION: Commissioner Fisher made a motion to adjourn at 7:28 pm
+      SECOND: Commissioner Larsen
+      ROLL CALL VOTE:
+      AYES (7)
+      Chairman Ray Draper
+      Commissioner Steve Kemp
+      Commissioner Emily Andrus
+      Commissioner Natalie Larsen
+      Commissioner Vardell Curtis
+      Commissioner Elise West
+      Commissioner Nathan Fisher
+      NAYS (0)
+      Motion Carries unanimous recommend approval

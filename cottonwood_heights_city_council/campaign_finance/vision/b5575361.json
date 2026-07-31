@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": "10/8/2025", "name": "Katherine Peterson", "amount": "100", "in_kind": false},
+    {"date": "10/9/2025", "name": "Friends of Little Cottonwood Canyon", "amount": "413", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/8/2025", "recipient": "Women's Democratic Club", "purpose": null, "amount": "2,100", "in_kind": false},
+    {"date": "10/20/2025", "recipient": "Jake Rector", "purpose": null, "amount": "500", "in_kind": false},
+    {"date": "10/20/2025", "recipient": "Shane Lyon", "purpose": null, "amount": "1,178", "in_kind": false},
+    {"date": "10/22/2025", "recipient": "Apollo Political", "purpose": null, "amount": "515", "in_kind": false},
+    {"date": "10/22/2025", "recipient": "Emily Bingham", "purpose": null, "amount": "170", "in_kind": false},
+    {"date": "10/22/2025", "recipient": "Women's Democratic Club", "purpose": null, "amount": "220", "in_kind": false},
+    {"date": "10/24/2025", "recipient": "Sun Lithograph", "purpose": null, "amount": "180", "in_kind": false},
+    {"date": "10/15/2025", "recipient": "Jake Rector", "purpose": null, "amount": "500", "in_kind": false}
+  ],
+  "total_contributions": "513",
+  "total_expenditures": "513",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "2,521",
+  "_meta": {
+    "index_path": "raw/2025_city_birrell_interim-oct-28-2025.pdf",
+    "candidate": "Ellen Birrell",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_birrell_interim-oct-28-2025.pdf",
+    "pages": 2
+  }
+}

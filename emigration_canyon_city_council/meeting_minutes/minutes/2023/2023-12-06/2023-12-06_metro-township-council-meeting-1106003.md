@@ -1,0 +1,534 @@
+# Metro Township Council Meeting
+> Source: https://www.utah.gov/pmn/files/1106003.pdf
+> Meeting date: 2023-12-06
+> Format: pdf-text
+
+---
+
+**Body:** Council
+**Meeting type:** Regular
+**Date:** 2023-12-06
+**Era:** Metro Township
+**Source:** pmn (Utah Public Notice, body 5809)
+**Source URL:** https://www.utah.gov/pmn/files/1106003.pdf
+**PMN notice id:** 877039
+**PMN file id:** 1106003
+**Format:** pdf-text
+**In-body date match:** YES
+
+---
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+THE EMIGRATION CANYON METRO TOWNSHIP COUNCIL, STATE OF UTAH,
+MET ON TUESDAY, DECEMBER 6, 2023, PURSUANT TO ADJOURNMENT ON TUESDAY,
+NOVEMBER 28, 2023, AT THE HOUR OF 7:00 P.M., AT THE EMIGRATION CANYON FIRE
+STATION 119, 5025 E EMIGRATION CANYON ROAD, SALT LAKE CITY, UTAH.
+COUNCIL MEMBERS PRESENT:
+
+ROBERT PINON
+DAVID BREMS
+CATHERINE HARRIS
+JENNIFER HAWKES, Deputy Mayor
+JOE SMOLKA, Mayor
+
+OTHERS IN ATTENDANCE:
+
+POLLY MCLEAN, LEGAL COUNSEL
+NICHOLE WATT, DEPUTY CLERK
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Mayor Smolka, Chair, presided.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+PUBLIC MEETING
+Pledge of Allegiance
+The Pledge of Allegiance to the Flag of the United States of America was recited.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Citizen Public Input
+None.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+BOARD OF CANVASSERS
+Nichole Watt, Deputy Clerk, reviewed the following 2023 General Municipal
+Election results.
+RESOLUTION NO. 2023-12-01
+
+December 6, 2023
+
+A RESOLUTION OF THE EMIGRATION CANYON METRO TOWNSHIP
+CERTIFYING THE 2023 MUNICIPAL GENERAL ELECTION RESULTS
+RECITALS
+
+1
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+WHEREAS, the Emigration Canyon Metro Township (“Emigration Canyon”) 2023
+municipal general election was held on November 21, 2023; and
+WHEREAS, the Emigration Canyon Metro Township Council (“Council”) serves as the
+Board of Canvassers for Emigration Canyon (“Board”) pursuant to Utah Code § 20A-4-301(2)(a);
+and
+WHEREAS, Utah Code § 20A-4-301(2)(b) requires the Board to meet and canvas the
+election returns no sooner than seven days and no later than fourteen dates after the election;
+and
+WHEREAS, the Salt Lake County Clerk’s Office, Election Division, received and counted
+the election returns for each voting precinct; and
+WHEREAS, the Board met on December 6, 2023, to canvass the returns of the 2023
+municipal general election; and
+WHEREAS, the Board publicly canvassed the returns and determined from the returns
+the vote of each voting precinct for each candidate.
+NOW, THEREFORE, BE RESOLVED by the Council effective immediately:
+1. The Emigration Canyon Metro Township Council, as the official Board of Canvassers, accepts
+and approves the attached election report for the 2023 Municipal General Election for the
+Emigration Canyon Metro Township.
+2. The following candidates are declared to have received the number of votes indicated.
+Council At-Large – Four Year Term
+Jennifer Hawkes
+
+277
+
+Council At-Large – Four Year Term
+Catherine M Harris
+
+298
+
+Council At-Large – Four Year Term
+David Paul Brems
+
+277
+
+Council At-Large – Four Year Term
+Tyler Tippetts
+
+164
+
+3. The Emigration Canyon Metro Township Council, as the Board of Canvassers, declares
+“elected” the following persons to the municipal office indicated:
+Council At-Large – Four Year Term
+
+2
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+Jennifer Hawkes
+Council At-Large – Four Year Term
+Catherine M Harris
+Council At-Large – Four Year Term
+David Paul Brems
+3. Pursuant to Utah Code § 20A-4-304, the Emigration Canyon Metro Township Recorder is
+authorized and directed to file the Certified Report of the Election Results when signed by the
+election officer and by the members of the Board of Canvassers as follows:
+a. Record or file the certified report in a book kept for that purpose;
+b. Prepare and transmit a certificate of election to each elected candidate;
+c. Within seven days of the date of this resolution, post the attached summary: (1) in one
+public place within the Emigration Canyon Metro Township; (2) to the Utah Public Notice
+Website for one week; and (3) on the Emigration Canyon Metro Township Website for one
+week; and
+d. File a copy of the certified report with the Lieutenant Governor.
+APPROVED and ADOPTED this 6th day of December 2023.
+EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+ATTEST
+
+By: /s/ JOE SMOLKA
+Mayor
+
+/s/ LANNIE CHAPMAN
+Recorder
+Council Member Harris, seconded by Council Member Pinon, moved to adopt
+Resolution 2023-12-01, certifying the 2023 Municipal General Election. The motion passed
+unanimously.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Public Hearing
+2023 Emigration Canyon Metro Township Budget Amendments
+THIS BEING THE TIME heretofore set for a public hearing to consider the 2023
+Emigration Canyon Metro Township budget amendments.
+3
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+Council Member Harris, seconded by Council Member Brems moved to open the
+public hearing. The motion passed unanimously.
+amendments.
+
+Mayor Smolka reviewed the 2023 Emigration Canyon Metro Township budget
+
+No one spoke in favor or opposition to the 2023 Emigration Canyon Metro
+Township budget amendments.
+Council Member Brems, seconded by Council Member Harris, moved to close the
+public hearing. The motion passed unanimously.
+RESOLUTION NO. 2023-12-02
+
+Date: December 6, 2023
+
+A RESOLUTION OF THE EMIGRATION CANYON METRO TOWNSHIP
+COUNCIL OPENING AND AMENDING THE ANNUAL BUDGET FOR THE YEAR
+2023 FOR THE OPERATION OF THE TOWNSHIP
+WHEREAS, the Emigration Canyon Metro Township Council has previously adopted a
+budget for the 2023 budget year; and
+WHEREAS, the Emigration Canyon Metro Township needs to open and amend the
+adopted budget because of changes that have occurred during the year; and
+WHEREAS, the Emigration Canyon Metro Township Council has held a public hearing on
+the proposed amended 2023 amended annual budget for the Township;
+NOW, THEREFORE, BE IT RESOLVED BY THE COUNCIL OF THE EMIGRATION
+CANYON METRO TOWNSHIP:
+1.
+That the attached exhibit A is hereby adopted as the amended 2023 annual budget
+for the operation of the Emigration Canyon Metro Township for the 2023 calendar year.
+2.
+
+This resolution shall take effect upon passing.
+
+APPROVED and ADOPTED this 6th day of December 2023.
+EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+ATTEST
+
+By: /s/ JOE SMOLKA
+Mayor
+
+/s/ LANNIE CHAPMAN
+Recorder
+Council Member Harris, seconded by Deputy Mayor Hawkes, moved to adopt
+Resolution 2023-12-02, approving the 2023 Emigration Canyon Metro Township budget
+4
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+amendments. The motion passed unanimously with a roll call vote showing Council Member
+Harris voting “Aye,” Council Member Brems voting “Aye,” Council Member Pinon voting “Aye,”
+Deputy Mayor Hawkes voting “Aye,” and Mayor Smolka voting “Aye.”
+
+−−−−−−−−−−−−−−
+2024 Emigration Canyon Metro Township Budget
+THIS BEING THE TIME heretofore set for a public hearing to consider the 2024
+Emigration Canyon Metro Township budget.
+Mayor Smolka stated the beer funds are a total of $2,091.96.
+Council Member Pinon, seconded by Council Member Harris, moved to open the
+public hearing. The motion passed unanimously.
+Tyler Tippets asked where the beer funds are passed through to.
+Mayor Smolka stated beer funds are passed through to entities like Salt Lake
+County Behavioral Health and Unified Police Departments.
+Polly McLean stated it is not general fund money, it has to be used for certain
+types of services.
+Mr. Tippets asked if the $100 difference in payroll was resolved.
+Mayor Smolka stated he has asked about it but has not heard back.
+spent.
+
+Mr. Tippets asked if ARPA funds would roll over to this year's budget if it was not
+
+Mayor Smolka stated yes; however, the funds will be expended by the end of
+2023 or 2024. The bulk of the funds went to the FEMA floodplain maps.
+Mr. Tippets asked if the Emigration Canyon Community Council’s budget would
+roll over if it was not spent.
+Mayor Smolka stated funds not spent under the administration budget are rolled
+over to the fund balance. If the fund balance becomes too large, the funds then go into a restricted
+fund balance.
+Council Member Harris, seconded by Council Member Brems, moved to close the
+public hearing. The motion passed unanimously.
+RESOLUTION NO. 2023-12-03
+
+Date: December 6, 2023
+
+A RESOLUTION OF THE EMIGRATION CANYON METRO TOWNSHIP
+COUNCIL ADOPTING THE ANNUAL BUDGET FOR THE YEAR 2024 FOR THE
+OPERATION OF THE TOWNSHIP
+5
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+WHEREAS, the Emigration Canyon Metro Township Council has previously adopted a
+tentative budget for the 2024 budget year, and
+WHEREAS, the Emigration Canyon Metro Township has made the tentative budget
+available to the public for review and consideration as required by law; and
+WHEREAS, the Emigration Canyon Metro Township Council has held a public hearing on
+the proposed 2024 annual budget for the Township;
+NOW, THEREFORE, BE IT RESOLVED BY THE COUNCIL OF THE EMIGRATION
+CANYON METRO TOWNSHIP:
+1.
+That the attached exhibit A is hereby adopted as the 2024 annual budget for the
+operation of the Emigration Canyon Metro Township for the 2024 calendar year or until such time
+as it may be amended.
+2.
+
+This resolution shall take effect upon passing.
+EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+By: /s/ JOE SMOLKA
+Mayor
+
+ATTEST
+/s/ LANNIE CHAPMAN
+Recorder
+
+Council Member Harris, seconded by Deputy Mayor Hawkes, moved to adopt
+Resolution 2023-12-03, adopting the 2024 Emigration Canyon Metro Township budget with
+possible amendments to the beer fund tax line item. The motion passed unanimously with a roll
+call vote showing Council Member Harris voting “Aye,” Council Member Brems voting “Aye,”
+Council Member Pinon voting “Aye,” Deputy Mayor Hawkes voting “Aye,” and Mayor Smolka
+voting “Aye.”
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Reports from other Municipal Providers
+Emigration Canyon Community Council (ECCC)
+No report was given.
+
+−−−−−−−−−−−−−−
+Unified Police Department (UPD)
+Detective Dawn Larsen reviewed the November statistics stating there were 31
+calls for service, 11 initial reports, and 12 citations. Most of the calls were traffic-related. The
+6
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+citations were issued for speeding, expired registration, and failure to maintain control of a vehicle.
+She will email the Utah Department of Transportation (UDOT) statistics from September to the
+Council. A grant was approved to fund dual radar in her vehicle.
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA)
+Chief Bryan Case stated
+
+−−−−−−−−−−−−−−
+Salt Lake County Animal Services
+Gary Bowen, Emigration Canyon Metro Township Council Representative, stated
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Business
+Legal Issues
+None.
+
+−−−−−−−−−−−−−−
+Budget Items
+Mayor Smolka stated invoices for clerking services were received.
+
+−−−−−−−−−−−−−−
+Minutes
+There were no minutes to approve.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Member Reports
+Unified Police Department (UPD) & Salt Lake Valley Law Enforcement Service Area (SLVLESA)
+reported.
+
+Council Member Brems stated there was no additional information since he last
+
+−−−−−−−−−−−−−−
+7
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+Dark Sky
+Council Member Harris stated she received the postcard regarding dark skies. It
+does not mention anything about holidays.
+Mayor Smolka stated the information can be found by using the QR codes.
+Council Member Harris stated next year, the Council needs to get information out
+to the community regarding holiday lights.
+
+−−−−−−−−−−−−−−
+Joint Letter
+Polly McLean stated the Mayors sent out a joint letter on behalf of the Metro
+Townships and the Town of Brighton regarding the request the Sheriff made for additional funding.
+The funding would be used to help support Butterfield Park and other new parks that were created
+on the west side. The letter points out that under the existing interlocal, Salt Lake County said it
+will pay for patrol for canyons and recreational areas. The Sheriff should not be asking for those
+funds from the Salt Lake Valley Law Enforcement Service Area (SLVLESA) while the contract is
+in place. The letter also requests a meeting with the Sheriff and Salt Lake County Mayor.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Metro Township Planning Commission
+No report was given.
+
+−−−−−−−−−−−−−−
+Community Renewable Energy Program
+No report was given.
+
+−−−−−−−−−−−−−−
+High-Density Development
+No report was given.
+
+−−−−−−−−−−−−−−
+Watershed Plan
+Council Member Harris stated she met with Quinn Donnelly, River Restoration,
+and Sandy Wingert, Department of Water Quality, about comments collected over the last year
+and a half.
+
+8
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+Council Member Harris stated the tax increase was not voted on at last night's
+meeting, it will happen next Tuesday in conjunction with the public hearing for the budget.
+
+−−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+No report was given.
+
+−−−−−−−−−−−−−−
+Utah Broadband
+No report was given.
+
+−−−−−−−−−−−−−−
+Website
+No report was given.
+
+−−−−−−−−−−−−−−
+CodeRED
+No report was given.
+
+−−−−−−−−−−−−−−
+Restrooms
+No report was given.
+
+−−−−−−−−−−−−−−
+Association of Municipal Councils
+No report was given.
+
+−−−−−−−−−−−−−−
+Utah League of Cities and Towns (ULCT)
+
+9
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+Deputy Mayor Hawkes stated training for newly elected officials will be held on
+December 9th and will cost $60.00. There is an online training that will be held on December 16th
+and the cost is $45.00. Governor Cox provided a recommended FY2025 budget to build 35,000
+starter homes by 2028. Emigration Canyon may have access to rural community grants. She will
+find out what types of grants are available.
+
+−−−−−−−−−−−−−−
+Greater Salt Lake Municipal Services District (MSD)
+Mayor Smolka stated the MSD held its annual Christmas dinner.
+
+−−−−−−−−−−−−−−
+Landfill Council
+Mayor Smolka stated 1,500 tons of debris from homeless camps was disposed
+of. The area of 7200 West, between 1300 South and I-80, will be closed permanently because of
+the homeless camps in the area.
+
+−−−−−−−−−−−−−−
+Wasatch Front Regional Council (WFRC)
+No report was given.
+
+−−−−−−−−−−−−−−
+Council of Governments (COG)
+No report was given.
+
+−−−−−−−−−−−−−−
+Legislative Update
+Council Member Harris stated the legislative session will start before the next
+Council meeting. The legislature moves fast, and it would be helpful to get information in realtime. Is there a way to communicate without violating the Public Meetings Act?
+information.
+
+Polly McLean stated the Council cannot have discussions but can provide
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Other Announcements
+
+10
+
+DATE
+
+TUESDAY
+
+DECEMBER
+
+6, 2023
+
+Mayor Smolka stated next month the Council will need to re-elect officers and
+have a discussion on assignments.
+be sworn in.
+governor.
+
+Nichole Watt, Deputy Clerk, stated the re-elected Council Members will need to
+Mayor Smolka stated Representative Brian King has declared his candidacy for
+
+Deputy Mayor Hawkes asked if there is anything the Council needs to be aware
+of regarding construction on the main canyon road.
+scheduled.
+
+Mayor Smolka stated he is not aware of anything and there are no projects
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+_____________________________________________________
+MAYOR, EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+LANNIE CHAPMAN, METRO TOWNSHIP CLERK
+By: ______________________________________
+Deputy Clerk
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+11
+
+

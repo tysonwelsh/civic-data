@@ -1,0 +1,22 @@
+{
+  "contributions": [],
+  "expenditures": [],
+  "total_contributions": "100.00",
+  "total_expenditures": "50.00",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "100.00",
+  "_meta": {
+    "index_path": "raw/2016june_ruby_brown_kearns_3.pdf",
+    "candidate": "Ruby Brown",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "Pre-primary interim (June)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016june_ruby_brown_kearns_3.pdf",
+    "pages": 2
+  },
+  "_notes": "June 21 box checked. 2-page filing (Summary only, no itemization pages). Candidate-form internal inconsistency: Line2 TOTAL EXPENDITURES Col A=50.00 but Line6 (from Line2 Col A)=0, and Line7 close=100.00 (=100-0). Transcribed verbatim; Line2=50.00 recorded as total_expenditures."
+}

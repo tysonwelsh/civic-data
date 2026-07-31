@@ -1,0 +1,70 @@
+{
+  "council": {
+    "index_max": "2026-06-17",
+    "body_id": "1295",
+    "new_meeting_dates": [
+      {
+        "date": "2026-07-08",
+        "kind": "RC",
+        "candidates": [
+          {
+            "fid": "1462051",
+            "label": "DRAFT Reg Council 2026.7.8.pdf"
+          },
+          {
+            "fid": "1457401",
+            "label": "Regular Meeting Material.pdf"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "kind": "WM",
+        "candidates": [
+          {
+            "fid": "1462047",
+            "label": "DRAFT Wk Mtg 2026.7.8.pdf"
+          },
+          {
+            "fid": "1457975",
+            "label": "Work Meeting Material.pdf"
+          }
+        ]
+      }
+    ],
+    "note": "PMN Meeting-Minutes slot often serves the AGENDA PACKET; each candidate is content-detected at --fetch (roll-call grammar), agenda-only dates logged unrecovered."
+  },
+  "rda": {
+    "index_max": "2026-06-17",
+    "body_id": "1296",
+    "new_meeting_dates": [],
+    "note": "PMN Meeting-Minutes slot often serves the AGENDA PACKET; each candidate is content-detected at --fetch (roll-call grammar), agenda-only dates logged unrecovered."
+  },
+  "pc": {
+    "index_max": "2026-06-18",
+    "body_id": "1297",
+    "new_meeting_dates": [
+      {
+        "date": "2026-07-09",
+        "kind": "PC",
+        "candidates": [
+          {
+            "fid": "1457133",
+            "label": "07_09_26_PC_Packet.pdf"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-16",
+        "kind": "PC",
+        "candidates": [
+          {
+            "fid": "1460217",
+            "label": "07_16_26_PC_Agenda (canceled).pdf"
+          }
+        ]
+      }
+    ],
+    "note": "PMN Meeting-Minutes slot often serves the AGENDA PACKET; each candidate is content-detected at --fetch (roll-call grammar), agenda-only dates logged unrecovered."
+  }
+}

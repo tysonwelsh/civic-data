@@ -1,0 +1,125 @@
+{
+ "date": "2020-12-21",
+ "year": 2020,
+ "title": "City Council Special Meeting",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Bev Uipi",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2020/2020-12-21/2020-12-21_city-council-special-meeting-430.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to open",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "mover": "Bev Uipi",
+   "seconder": "Cheri Jackson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to close the public hearing",
+   "body": "Council",
+   "motion_type": "Public Hearing Action",
+   "result": "Pass (unanimous)",
+   "mover": "Bev Uipi",
+   "seconder": "Silvia Catten",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve Ordinance 20-56, a monetary contribution of $25,000 to PIK2AR",
+   "body": "Council",
+   "motion_type": "Ordinance",
+   "result": "4-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Silvia Catten",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Dwight Marchant"
+   ],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "to adopt item 3, Ordinance 20-57, Rezoning Certain Property Located at Approximately 857 E 4315 S From R-1-8, R-1-5, & R-1-21 (residential Single Family) To R-1-5 (Residential Single-Family On a 5,000 Square Foot Lot)",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "4-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Silvia Catten",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Dwight Marchant"
+   ],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 5,
+   "motion": "to adjourn the meeting 6:53 at p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-0 Pass",
+   "mover": "Bev Uipi",
+   "seconder": "Silvia Catten",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Dwight Marchant"
+   ],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

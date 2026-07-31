@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "date": "2021-06-23",
+    "year": "2021",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "slcdocs",
+    "source_url": "http://www.slcdocs.com/Planning/Planning%20Commission/2021/07.%20July/PC06.23.2021minutes%20-%20Copy.pdf",
+    "minutes_file": "planning_commission/minutes/2021/2021-06-21/2021-06-23_planning-commission-meeting.md",
+    "present": [
+      "Brenda Scheer",
+      "Amy Barry",
+      "Maurine Bachman",
+      "Adrienne Bell",
+      "Jon Lee",
+      "Matt Lyon",
+      "Andres Paredes",
+      "Crystal Young-Otterstrom"
+    ],
+    "absent": [
+      "Carolynn Hoskins",
+      "Sara Urquhart"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the June 9, 2021 meeting minutes",
+      "description": "approve the June 9, 2021 meeting minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Jon Lee",
+      "seconder": "Adrienne Bell",
+      "result": "4:0 Pass",
+      "tally": {
+        "yes": 4,
+        "no": 0,
+        "abstain": 2,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Amy Barry",
+        "Adrienne Bell",
+        "Jon Lee",
+        "Andres Paredes"
+      ],
+      "nay": [],
+      "abstain": [
+        "Maurine Bachman",
+        "Matt Lyon"
+      ],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "table passed 5 to 1",
+      "description": "table passed 5 to 1",
+      "motion_type": "Master Plan Amendment",
+      "action_class": "recommendation",
+      "mover": "Matt Lyon",
+      "seconder": "Amy Barry",
+      "result": "Positive recommendation 4:2",
+      "tally": {
+        "yes": 4,
+        "no": 2,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Amy Barry",
+        "Jon Lee",
+        "Matt Lyon"
+      ],
+      "nay": [
+        "Andres Paredes",
+        "Crystal Young-Otterstrom"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a Positive Recommendation to the City Council for the requested Zoning Map Amendment from RMF-35 to R-MU-35 for 0",
+      "description": "forward a Positive Recommendation to the City Council for the requested Zoning Map Amendment from RMF-35 to R-MU-35 for 0",
+      "motion_type": "Zoning Map Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "",
+      "result": "Positive recommendation 5:0",
+      "tally": {
+        "yes": 5,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Adrienne Bell",
+        "Jon Lee",
+        "Matt Lyon",
+        "Andres Paredes",
+        "Crystal Young-Otterstrom"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "approve the Conditional Use request (PLNPCM2021-00259) as proposed",
+      "description": "approve the Conditional Use request (PLNPCM2021-00259) as proposed",
+      "motion_type": "Conditional Use",
+      "action_class": "final_action",
+      "mover": "Adrienne Bell",
+      "seconder": "Matt Lyon",
+      "result": "7:0 Approved (Final Action)",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Maurine Bachman",
+        "Amy Barry",
+        "Adrienne Bell",
+        "Jon Lee",
+        "Matt Lyon",
+        "Andres Paredes",
+        "Crystal Young-Otterstrom"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

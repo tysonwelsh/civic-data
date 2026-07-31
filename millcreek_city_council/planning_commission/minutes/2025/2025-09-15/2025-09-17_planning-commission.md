@@ -1,0 +1,415 @@
+# Millcreek Planning Commission — 2025-09-17
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09172025-957
+> Meeting date: 2025-09-17
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2025-09-17
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09172025-957
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                    Minutes           of the
+                                                                  Millcreek           Planning              Commission
+                                                                              September               17,    2025
+                                                                                       5:00      p.m.
+                                                                                   Regular       Meeting
+
+
+The Planning            Commission            of Millcreek,       Utah,     met in a regular            public      meeting      on Wednesday,
+ September        17, 2025,        at City     Hall,    located       at 1330 E. Chambers               Avenue,         Millcreek,       Utah     84106.
+The meeting            was conducted           electronically         and live streamed           via the City's            website      with    an
+option      for online      public        comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                        City     Staff
+Shawn       LaMar,        Chair                                                      Elyse     Sullivan,         City   Recorder
+Victoria        Reid, Vice        Chair                                              Francis     Lilly,       Plaru'iing      & Zoning       Director
+Steven Anderson             (excused)                                                Sean Murray,             Planner
+Christian        Larsen                                                              Carlos     Estudillo,          Planner
+Nils    Per Lofgren                                                                  Ryan Bagshaw,                 Dev. Review         Specialist
+Jacob Richardson
+Diane      Soule (excused)
+Dwayne          Vance
+Ian Wright
+
+
+Attendees:         Kevin        Flynn,     Ryan Heath,         Matt    Wilcox,       James Alfandre,               Jordan      Dejarnett,       Ben
+Gowans
+
+
+REGULAR                MEETING             - 5:00 p.m.
+TIME        COMMENCED                     - 5:03 p.m.
+
+
+Chair    LaMar         called     the meeting        to order and briefly            described         the duties       of the Planning
+Commission.
+
+
+1.   New       Items
+     1.1 Consideration              of CU-25-007,           Request        for a Conditional                 Use Permit         to Operate           a
+     Short-Term           Rental         Location:      3474-3476         S 2300 E Applicant:                  Kevin       Flynn      Planner:           Sean
+     Murray
+     Sean Murray          said the applicant            seeks to designate           the site at 3474-3476                 S 2300 E as mixed
+     use in order to legally              operate      a short-term       rental    out of one of the outbuildings,                      known       as
+     Building      25, which         is situated       in the center of the site. The property                      is zoned       C-1
+     (Neighborhood              Commercial),           where    such a use is allowed             if the site is designated                 mixed        use.
+     Additionally,        the property         is listed    on the Millcreek           Local      Historic         Register,      and the proposal
+     has been reviewed             by both the East Mill              Creek    Community               Council       and the Historic
+     Preservation         Commission.           Both bodies        unanimously          recommended                 approval        of the request,
+     subject     to conditions           outlined    by staff. These include                allowing        only    one short-term          rental       on
+     the site, prohibiting           expansion         of the building        housing        the rental,       and requiring          that it be
+     properly     licensed        through      Millcreek.       These conditions             aim to mitigate            potential      negative
+Millcreek          Planning         Commission              Meeting        Minutes                        17 September                 2025         Page 2 of 7
+
+
+
+    impacts,        especially        considering           that conditional          use pen'nits           run with         the land and could be
+    inherited       by future        property        owners.       Public      notification          was sent to surrorinding                      property
+    owners,        and only         one coinment            was received,          which       was supportive             of the proposal.               Staff also
+    coordinated            with   other departments,               such as the fire department,                     whose        input       helped      shape the
+    conditions,         particularly         regarding         the limitation         on building            size due to access concerns.
+
+
+    Commissioner              Vance      asked for clarification                 on site designation                as a mixed-use                 property     and a
+    conditional         use pennit.          Murray         said the conditional             use is for the property                   to be designated                as
+    a mixed-use            site. The conditional               use is limited         specifically           to unit #25. Com+'nissioner                      Vance
+    asked about dedicated                parking.           Murray     said it would            be indicated          witli     the business            license.
+    The unit does contain                a kitchenette           and bathroom              facilities.
+
+
+    Kevin      Flynn,       applicant,        thanked         the city for cooperation                with      the conditional              use permit.         He
+    gave a brief         history      of the building.
+
+
+    Chair     LaMar         asked for public           comments.
+
+
+    Ben Gowans              asked about the rental                process.
+
+
+    Murray         said the property           is zoned commercial                  and the applicant               had to go through                  the
+    conditional         use process          to get residential           added for a mixed-use                     designation.
+
+
+Comniissioner              Vance       moved         that      the Planning          Commission                approve         the conditional                use
+application,          CU-25-007,          subject           to the findings          and conclusions                listed      in the accompanying
+staff    report,      and the following               conditions:           that    no more           than      one short         term        rental       be
+allowed       on the property,               the building            housing       the short          term      rental        shall    not be expanded
+or built      on to which            is the middle            outbuilding          currently          being       designated            as unit        number
+25, and that          the short        term      rental        be licensed         with     Mfflcreek.          Commissioner                  Larsen
+seconded.          Chair      LaMar       called       for the vote.          Chair        LaMar          voted      yes, Commissioner                       Larsen
+voted       yes, Commissioner                Lofgren           voted   yes, Commissioner                     Reid     voted       yes,    Commssioner
+Richardson            voted       yes, Commissioner                  Vance       voted      yes, and Commissioner                        Wright voted
+yes. The motion               passed     unanimously
+
+
+   1.2       Consideration             of CCOZ-25-002,                 Request            for the City          Center        Overlay          -
+    Development               Agreement             Zone       (CCOZ-DA)            to Accommodate                   18 Townhomes                     Location:
+   1265       E Villa       Vista     Avenue         Applicant:           Matt     Wilcox           Planner:        Carlos        Estudfflo
+    Carlos      Estudillo         said the application             proposes         a zoning         change to the City                Center        Overlay
+    Development              Agreement          Zone        (CCOZ-DA)            for a property            located       at approximately                1265 East
+    Villa     Vista     Avenue.        The applicant            aims to develop              an 18-unit         townhome              (row     house)        project
+    across      three buildings,          with       the goal of subdividing                 the units        for owner          occupancy.            The
+    CCOZ-DA             zone provides            flexibility       in applying            the City       Center     Overlay           design        standards,
+    particularly        when        unique     site conditions            or public        benefits       are present.          The site, currently
+    zoned      commercial            and surrounded              by a mix        of commercial             and multi-family                  residential        uses,
+    is about O.68 acres, and currently                         contains      residential           structures      that would           be demolished               for
+    the new development.
+
+
+    The proposed             buildings       will    not exceed 150 feet in length                       or depth.       Buildings            1 and 2 will
+    each include            six 4-bedroom            units,     with   live-work           units     on the corners            of Building            2. Building
+Millcreek        Planning              Commission            Meeting            Minutes                      17 September              2025          Page 3 of 7
+
+
+
+   3 will      consist      of six 3-bedroom                 units.     Heights         range between             46 and 47 feet, and the design
+   includes       durable          materials,       with      about 61% brick                  facade     on average.        However,           the project
+   does not fully           meet CCOZ              design       standards          for step-backs             and glazing         percentages              due to its
+   townhome              format,       which      differs     from       the higher-density,               mixed-use         buildings          that the code
+   typically       anticipates.           The applicant           has incorporated                 altemative        design       enhancements,
+   including        corner         plazas,      bay windows,             and articulation               features     to help offset           these deviations.
+
+
+   Parking       will      be provided           through       two-car          garages        for each unit (totaling               36 stalls),        and on-
+   street diagonal              parking        along Villa        Vista     will     fulfill      the guest parking           requirement,                 with        six of
+   eight stalls eligible                toward     the minimum.                 The city will           enforce     two-hour         limits     to ensure
+   parking       turnover.          The project         also incorporates                an open irrigation             ditch     along the northern
+   edge, which            has raised           concerns       due to historic            flooding.        Neighbors          have requested
+   improvements,                 and the applicant             is working          on a solution           that will     be included            in the
+   development             agreement            (DA).
+
+
+   The DA         will     lock in project           elements           such as use types, building                    height,       setbacks,
+   landscaping,            parking,       and materials.              It will     also define        the ownership            model,          with    discussions
+   ongoing        regarding            deed restrictions           or rental        caps to preserve               owner-occupancy.                  Public        input
+   was gathered            through         a neighborhood               meeting,         where      five residents           attended,         and at a
+   Millcreek        Community                Council        meeting        on September              2, where        a recommendation                   for
+   approval       was given             with     conditions,          including         the irrigation         improvements.
+
+
+   If the zoning           and DA         are approved,            the project          will     still require       a conditional            use permit               (due
+   to height)       and a subdivision                plat for ownership                 purposes.         Final     technical        review          and
+   compliance            with      all city codes will            follow.        Estudillo         said the central          question         for the Planning
+   Commission              is whether          the design        features         and public         benefits       proposed         are sufficient               to
+   offset     the project's            lack of full         compliance           with     certain       CCOZ        design      standards,           specifically
+   step-backs           and glazing.           He showed          the commission                  the proposed         site plan,       floor        plans,
+   building       elevations,           and street parking               plans.     He recommended                   a continuance             of the
+   application           due to a public           hearing       noticing          error.
+
+
+   Chair      LaMar        asked about the design                     enhancements.               Estudillo        said the applicant            can choose to
+   add to their building                 in case they do not meet certain                          requirements.          Lilly      noted if staff could
+   get the Commission's                    sentiments          at this meeting,                the application         may be ready             to be heard at a
+   city council           meeting        before     the commission's                 next meeting             (October        15).
+
+
+   Commissioner              Vance        brought       up the parking               requirements             for guest parking.              He read from
+   code 18.63.020,               "In    the case that street parking                     is constructed            as an improvement                  in
+   conjunction            with     an approved          site plan, the striped                  on-street      spaces may contribute                       up to 75
+   percent       of the parking            minimum            requirement."             He said the way the code reads, the developers
+   need an additional                  five guest stalls,         and 75% of those five guest stalls could                               be satisfied              using
+   on-street      parking.          At least one or more                 stalls caru'iot be on-street                 parking        but need to be on
+   site. Lilly      said that was not the intent                        of the code. The philosophy                     is that if the developer                        goes
+   to the expense            of improving            parking          and providing              on-street     parking,       they should             get the
+   credit     for that. They            can use tmee quarters                    of the parking           stalls built       to meet their parking
+   demand.        Commissioner                 Vance        clarified      the code should               read, "up      to 75% of the striped                      on-
+   street spaces may contribute                      towards          the parking."             Chair     LaMar       asked about counting                        the
+   ADA       stall. Lilly         said in the updated              zoning         ordinance,         ADA        stalls are counted.
+Millcreek         Planning          Commission               Meeting          Minutes                            17 September                  2025        Page        4 of 7
+
+
+
+
+   Commissioner              Reid       asked       the developer            to point          out design           changes         on the building               fagades
+   as requested           during       the joint         corincil     meeting         on August             11, 2025,          when       the project            was first
+   introduced.          Estudillo        said awnings               were     added,       indention            of windows               and doors,         decoration             of
+   tlie roof,       and top level             design      changes       were        made.       Commissioner                  Lofgren          asked      about        the
+   rental     cap on the deed restriction.                      Estudillo           referred        the question            to the applicant.
+   Commissioner              Reid       asked       about      the fire      code modification                     request.        Estudillo        said Unified             Fire
+   Authority         approved          of the request.
+
+
+   James       Alfandre         and Jordan             Dejarnett       from       tlie project            development            team       said tl'ie initial
+   building         elevations         shown        to the commission                  during         the presentation               was incorrect.              He said
+   they     created       more      articulation           and deptli        and shadowing                  with      inset     windows           and cornices               and
+   headers        and downspouts                 and recessed           entryways              and bay windows.
+
+
+   Comn'iissioner            Lofgren           asked       for clarification           with        the deed restriction                  and CC&Rs.              Alfandre
+   said following            the previous              meeting,        concerns         were        raised       about      ensuring           that the proposed
+   owner-occupied                housing         units     in the new         development                  are not simply             purchased            by a single
+   investor        and turned          into     rentals.      The applicant             agrees         with     the need for             safeguards           to maintain
+   owner       occupancy           but also emphasized                     the need for some                  flexibility        in response             to changing
+   market         conditions,        such       as needing          to lease units             temporarily           if the housing              market        slows.        In
+   response,         the development                 team      consulted        a specialized               HOA        attorney         who       has worked
+   extensively          in Millcreek.            They       acknowledged               tliat    relying        solely       on CC&Rs              (Covenants,
+   Conditions,          and Restrictions)                 is not sufficient,            since       those      can be amended                  by future
+   homeowners.             To address            this,     the applicant            proposed           specific       language           within        the CC&Rs
+   that would         pernnanently             restrict      changes         to the owner-occupancy                         provision           without        approval
+   from      Millcreek.         This     provision          would       require        a majority             of the units         to be owner-occupied
+   and would          name       the city        as a legal         beneficiary         of that        clause,       ensuring           that    only      the city      can
+   approve         any changes           to it. Importantly,                the city's         role    would         be limited          solely        to that
+   provision,         not broader             HOA        governance          like    pet rules            or other      internal        matters.         He said it is
+   still    a deed restriction,               but he would           get further         clarification             from       his attorney.            Chair      LaMar
+   asked      about     tl'ie percentage             of deed restrictions.               Alfandre             requested          that     no more         than     49o/o of
+   rinits    can be leased           out at one time                to be in line with                FHA      requirements.
+
+
+   Chair      LaMar       asked        about      the ditch         and flooding           issue.         Ryan      Bagshaw,            city    staff,     said the
+   ditch     is owned        by the irrigation               company.          There        will      be an easement                for the irrigation             and the
+   adjoining         property       owners          are actually           responsible             for keeping           the ditch        clean.       With      flooding,
+   it is typically        due to grade              or elevation           issues,     Or the clean            outs are not being                  kept     clean.      Lilly
+   said Millcreek            was not responsible                    for the ditch,         but as part             of a standard           development               review
+   in the context          of a rezone           that the city          does require               approval         from      the ditch         company.
+   Alfandre         said the canal             would       become        an amenity.               Matt     Wilcox,         with      the development                  team,
+   noted      he had met with                 the ditch      company          multiple          times,        and they         want      two      clean     outs at
+   either     end of the property.                  Alfandre         highlighted          the new           building          elevations.
+
+
+   Chair      LaMar       asked        for public          comment.
+
+
+   Ryan      Heath,       Cottonwood              Residential          and Millcreek                resident,        expressed           disfavor         for the deed
+   restriction.       He expressed               mixed       feelings        about      the proposed               deed restriction               intended        to
+   ensure      owner       occupancy             in the new development.                        While         he supports           the idea       of selling          the
+Millcreek       Planning          Commission             Meeting         Minutes                    17 September             2025      Page 5 of 7
+
+
+
+   units,    rather      than adding        more rentals           that would        compete       with     his own nearby           rental
+   properties,        he is concerned            that a strict deed restriction                 could     deter potential       buyers.       He
+   pointed     out that while            the intent      is good, the restriction               could     negatively       impact     homeowners
+   who,     due to unforeseen             circumstances             like job relocation           or family         emergencies,       might       need
+   to move        and rent out their property                temporarily.           Being       forced     to sell in a down         market        without
+   the option        to rent could        discourage         people        from     buying      in the first place. Ultimately,               he
+   appreciated        the goal of encouraging                    owner     occupancy          but cautioned          that the restriction          may
+   unintentionally           make the homes              less attractive          to responsible          buyers.
+
+
+   Elyse     Sullivan        read an online         cornrnent        from     the website         received      from      Jeff and Lynda
+   Gibson,        "The    increase        in residances           makes a suicide            turning      lane necessary.
+   It has already been a problem for a long time and needsto be inchtded                                                  in the development
+   agreement. This most likely will cause the needfor a bigger row.
+   The recommendation                   should     include       on the DevelopmentAgreement                         a
+
+  1. CLOSED Cleanout box on the North-Eastside of Richmond Street/North Westsideof 3055-
+   3061 Richmond              Street.
+
+   2. A Suicide/ Center turning lane along Richmond Street. (which may include more than a 5ft
+  ROW)
+  BTF, The survey in the application was neverfiled with the cormty and is not current,                                                            there is
+  a 2025 survey            there are things            that are incorrect,            example;         ROW"
+
+
+  Chair      LaMar       asked if there would              be a turn lane on Richmond                      Street. Lilly       said there was
+  potential       for addition       of a second turn lane on Richmond                            Street, which          is referenced        in both
+  the City      Center       Overlay       Zone and the Local                Link     Study.     While      it is theoretically        possible        to
+  ask the developer             to contribute          to this improvement,                the site is only         a few hundred         feet deep,
+  whereas         a 'functional     turn lane would               realistically       require     around      700 feet. Because             of this, it
+  makes       more sense to address the turn lane as part of a larger                                    street infrastructure        project        rather
+  than a single          development.            In the meantime,            the city's       focus is on ensuring             that the necessary
+  land dedication            is in place.        Any    future     subdivision         plat would         require     an updated       and recorded
+  ALTA        survey,      which     would        govern      the final      layout,       replacing       the current       one presented.
+  Although         there was initial         confusion,           it was clarified         that some additional              right-of-way
+  dedication        is needed on the Salt Lake                    City   side of Richmond,                where      about five more feet must
+  be given        to meet standards.             Dedicating         from     the centerline         of the street is the standard               legal
+  approach,        and it is not feasible              or legal to force           all dedication         from just one side. These
+  technical       details,     especially        regarding        alignment         and future         improvements,          will   be addressed
+  during      the subdivision           process        to ensure that upgrades                can be made systematically                  rather than
+  on a piecemeal,            development-by-development                           basis.
+
+
+  Chair     LaMar        reviewed        concerns        raised     during        the presentation.         The development             agreement
+  still needed language              about the ditch             and flooding,         and to resolve          issues with       the deed
+  restrictions.       Cornrnissioner             Vance     felt the parking           language         in code created         a problem.          Chair
+  LaMar       felt the site plan needed improvement,                           such as building            numbers         and lengths,       etc.
+  added.
+
+
+  Commissioner             Vance     did not want to send the application                          to the council          for a first reading
+  before     going       through    the public         hearing       process        with   the commission.               The discussion        raised
+  several     concerns        about the owner-occupancy                      requirement          and design         articulation      of the
+  proposed        development.           On ownership,             there is tension          between        the city's      policy   goal to
+Millcreek        Planning          Commission             Meeting         Minutes                      17 September             2025        Page 6 of 7
+
+
+
+   promote         owner-occupied               housing        and tlie developer's            need for flexibility             to rent units in case
+   of market          downturns.         If a restriction         is placed        in the deed itself,          it becomes        enforceable        by the
+   city and cannot              be changed          by the HOA,           providing         a stronger     guarantee          of owner       occupancy.
+   However,           enforcement           by the city requires            a clear willingness             and mechanism               to do so. If the
+   restriction         is placed     only       in the CC&Rs,            even with       a clause requiring            city approval          to amend
+   it, the city may not have the right                        to enforce      it and if the HOA             simply      refuses       to act, the
+   restriction        becomes        meaningless.             There      are also practical        challenges,          such as potential           conflict
+   among        owners         if only    a portion       of the units       can be rented,            leading     to disputes         over who is
+   allowed       to rent. A fully           owner-occupied               project     would      qualify     for FHA          financing,      but if some
+   rentals      are allowed,         the cap is 49%.             From      a policy      perspective,          restricting      rentals     when the
+   housing       market         is low (and more affordable                   for buyers)        may ironically              reduce    access to
+   ownership           opportunities.           Commissioner             Vance      supports      a deed restriction             on all 18 units with
+   city enforcement              but recognizes           the complexity             and enforcement              burden      that entails.
+   Regarding           design,      concei'ns       were raised          about the lack of articulation                 on the outer building
+   walls.     While      the interior         elevations        feature     attractive       elements       like bay windows                and color
+   contrasts       (e.g., gray bay windows                     against    red brick),        the outer facades           present       as large,    flat
+   white      walls     with     minimal         visual   interest.       Downspouts           and subtle brick          patterning         are not
+   considered          sufficient        to break up the massing.                  He suggested           that more effort            is needed to
+   improve        visual       articulation         on the external         sides of the buildings               to reduce       their bulk       and
+   better     align with         the design         goals of the City           Center      Overlay       Zone.     He recommended                 the
+   interior      of the buildings           be reversed          with     the exterior        sides.
+
+
+   Commissioner             Reid appreciated              the different         style of building.             She felt the deed resttiction
+   should      be 50% or more of the units.
+
+
+   Coinrnissioner              Lofgren      said he would           like to see all of the units                deed restricted,          and he did not
+   mind       the building         fagade. Commissioner                   Richardson         was in support           of the building
+   articulation         and a higher            deed restriction         requirement.          Commissioner             Larsen        confirmed      the
+   sentiments          of Commissioner               Vance       and wanted          to see the deed restrictions.                Commissioner
+   Wright       felt there was always                a way for enforcement                  of deed restrictions.
+
+
+Commissioner             Larson,         regarding            CCOZ-25-002,            moved       that     the planning            commission
+continue       this    application          until     their     next     meeting       so the city        can notice          it properly      as a
+public      hearing.       Commissioner               Richardson            seconded.         Chair       LaMar        called     for the vote.
+Chair      LaMar        voted       yes, Commissioner                  Larsen       voted     yes, Commissioner                 Lofgren       voted           yes,
+Commissioner             Reid       voted       yes, Commissioner               Richardson             voted     yes, Commissioner                 Vance
+voted    yes, and Commissioner                       Wright       voted     yes. The motion               passed      unanimously.
+
+
+2. Commission             Business
+    2.1 Approval               of August         11, 2025 Special            Meeting         Minutes
+    2.2 Approval               of August         20, 2025 Regular               Meeting        Minutes
+
+
+Chair      LaMar        moved        to approve           the August         11th special        meeting          minutes        as presented            in
+the meeting           packet.      Commissioner                Larsen      seconded.          Chair       LaMar       called      for the vote.
+Chair      LaMar        voted       yes, Commissioner                  Larsen       voted     yes, Commissioner                 Lofgren       voted           yes,
+Commissioner             Reid       voted       yes, Commissioner               Richardson             abstained,       Commissioner               Vance
+voted    yes, and Commissioner                       Wright       abstained.          The motion           passed.
+Millcreek           Planning         Commission                 Meeting          Minutes                     17 September             2025       Page 7 of 7
+
+
+
+Chair          LaMar       moved        to approve              the regular          meeting         minutes       from     August       20f'l as
+presented           in the packet.           Commissioner                  Reid      seconded.          Chair      LaMar       called     for the vote.
+Chair          LaMar      voted      yes, Commissioner                     Larsen          abstained,          Commissioner            Lofgren
+abstained,          Commissioner                Reid       voted         yes, Commissioner                  Richardson         voted     yes,
+Commissioner                 Vance      abstained,              and Commissioner                    Wright       voted     yes. The      motion         passed.
+
+
+       2.3 Updates           from       the Planning              Director
+       Lilly      said the city is beginning                    public     engagement              regarding     the future        of 900 East,
+       particularly         potential       future      land use map amendments.                         This effort       may eventually              lead to
+       zone changes.           A mailer         will     be sent to over 16,000                     addresses     within     600 feet of the corridor,
+       inviting        residents     to two informal               meetings          with     a planner-one              on the evening         of October
+       8th and another             on the morning                of October         1 1th. The mailer            includes      a QR code and             survey
+
+       link,    and community              members              are encouraged              to complete         the survey         and share it widely.
+       Information           about the effort            will     also appear on social                media      and in the city's           newsletters.
+
+
+       Additionally,          staff discussed             the Planning             Commission's              interest    in fon'ning      a housing
+       subcoinrnittee,          noting      there's precedent                with        similar     subcommittees          under      the Historic
+       Preservation          Commission.               Lilly     recommended                adding     a standing         agenda item to future
+       meetings         for subcoinrnittee              updates          and formally          designating        the housing          subcommittee           at
+       the next meeting             to keep the discussion                      active     and on record.         Separately,         a 10-minute         policy
+       discussion         on housing         will      be held with             the City      Council        at their meeting         on September           22,
+       during      which      staff will      propose           a joint     session between             the City        Corincil     and Planning
+       Comi'nission          to further       explore           housing         issues. Chair         LaMar      noted Cornrnissioner              Richardson
+       would       be the chair of the coini'nittee                      with     Coinmissioners             Soule,      Larsen      and LaMar          as
+       members.
+
+
+3. Calendar             of Upcoming             Meetings
+   *    Canyon         Rim    Citizens       Association             Mtg.,        10/1/25,         7:00 p.m.
+   *    East Mill        Creek      Community              Council         Mtg.,     10/2/25,         6:30 p.m.
+   *    Mt. Olympus            Community               Council       Mtg.,        10/6/25,         6:00 p.m.
+   @ Millcreek            Community             Council          Mtg.,     10/7/25,         6:30 p.m.
+   *    Historic        Preservation         Commission              Mtg.,        10/9/25,         6:00 p.m.
+   *    City      Council     Mtg.      10/13/25          7:00 p.m.
+   *   Planning          Commission             Mtg.     10/15/25,          5:00 p.m.
+
+
+
+ADJOURNED:                    Chair        LaMar         moved           to adjourn           the meeting         at 6:42 p.m.          Commissioner
+Lofgren         seconded.          Chair     LaMar              called     for    the vote.         Chair      LaMar       voted      yes, Commissioner
+Larsen         voted     yes, Commissioner                      Lofgren          voted     yes, Commissioner                Reid      voted     yes,
+Commissioner                Richardson           voted          yes, Commissioner                   Vance       voted     yes, and Commissioner
+Wright         voted     yes. The motion                passed           unanimously.
+
+
+
+
+                                    APPROVED:<>                    Shawn          LaMar,       Chair
+                                                                                                                            natel51irlzs
+                                      Attest:                     ElysL                      Recorder

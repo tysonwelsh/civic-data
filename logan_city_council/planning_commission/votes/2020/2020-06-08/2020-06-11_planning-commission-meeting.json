@@ -1,0 +1,62 @@
+{
+ "date": "2020-06-11",
+ "year": 2020,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2020/2020-06-08/2020-06-11_planning-commission-meeting.md",
+ "present": [
+  "Roylan Croshaw",
+  "Regina Dickinson",
+  "Sandi Goodlander",
+  "Jessica Lucero",
+  "Tony Nielson",
+  "Eduardo Ortiz"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Goodlander moved to conditionally approve a Conditional Use Permit as outlined in PC 20-027 with the findings as listed below. Commissioner Lucero seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sandi Goodlander",
+   "seconder": "Jessica Lucero",
+   "aye": [
+    "Roylan Croshaw",
+    "Regina Dickinson",
+    "Sandi Goodlander",
+    "Jessica Lucero",
+    "Tony Nielson",
+    "Eduardo Ortiz"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the May 28, 2020 meeting as submitted",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Eduardo Ortiz",
+   "seconder": "Regina Dickinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 2
+  }
+ ]
+}

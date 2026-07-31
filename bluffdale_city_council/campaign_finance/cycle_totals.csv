@@ -1,0 +1,47 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+bluffdale,Carson Mitchell,2017,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Courtney Hansen,2017,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Dave Kallas,2017,Council,,0.0,0.0,3,3,summary,
+bluffdale,Nancy Lord,2017,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Alan Jackson,2017,Council,,0.0,0.0,2,2,summary,
+bluffdale,Connie Robbins,2017,Council,,0.0,0.0,2,2,summary,
+bluffdale,Ulises Flynn,2017,Council,,0.0,0.0,2,2,summary,
+bluffdale,Wendy Aston,2017,Council,,0.0,0.0,2,2,summary,
+bluffdale,Derk Timothy,2017,Mayor,,0.0,0.0,2,2,summary,
+bluffdale,Blain Dietrich,2019,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Boyd Preece,2019,Council,,0.0,0.0,1,1,single,
+bluffdale,Dave Kallas,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Jared Knowlton,2019,Council,,0.0,0.0,1,1,single,
+bluffdale,Jeff Gaston,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Jon R Hansen,2019,Council,,0.0,0.0,1,1,single,
+bluffdale,Mark Hales,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Michelle A Love Day,2019,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Stephen L Walston,2019,Council,,0.0,0.0,2,2,sum-interim,
+bluffdale,Traci Crockett,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Ty T Nielsen,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Ulises Flynn,2019,Council,,0.0,0.0,1,1,single,
+bluffdale,Warren L James,2019,Council,,0.0,0.0,3,3,summary,
+bluffdale,Boyd A Preece,2019,Council,,0.0,0.0,2,2,summary,
+bluffdale,Connie Robbins 2,2021,Council,,6445.84,6445.84,1,1,summary,
+bluffdale,Blain Dietrich,2021,Council,,4683.51,4683.51,1,1,summary,
+bluffdale,Wendy Aston,2021,Council,,3016.42,3216.42,1,1,summary,
+bluffdale,Tammy L Rasmussen,2021,Council,,1500.0,1429.33,1,1,summary,
+bluffdale,Traci Crockett,2021,Council,,600.0,1300.24,1,1,summary,
+bluffdale,Natalie Hall,2021,Mayor,,15947.87,13623.57,1,1,summary,
+bluffdale,Eric Hawker,2023,Council,,7250.0,7070.85,3,3,sum-interim,
+bluffdale,Gregory Wilding,2023,Council,,6397.33,6043.71,4,1,summary,
+bluffdale,Billy Hesterman,2023,Council,,6069.0,5671.53,3,3,sum-interim,
+bluffdale,Steve Austin,2023,Council,,3256.63,3256.63,4,4,override,"OVERRIDE: per-period filer (self-loans; disjoint per report) — the Dec-21 'Final' is itself a period report (84.66), dropped by the summary rule; cycle = sum of all 4 filings (1943.47+477.26+751.24+84.66)"
+bluffdale,Brian Ostler,2023,Council,,200.0,3085.59,1,1,single,
+bluffdale,Alan Lord,2023,Council,,2590.29,2590.29,4,4,override,"OVERRIDE: per-period filer (self-loans; disjoint per report) — the Dec-21 'Final'-typed filing is itself a period report (255.60->265.86, a new period's loan), so the summary-vs-interims rule drops it; cycle = sum of all 4 filings (1019.51+1049.32+255.60+265.86)"
+bluffdale,Erik Swanson,2023,Council,,1700.0,1495.83,2,2,sum-interim,
+bluffdale,Mark Hales,2023,Council,,2000.0,910.61,3,3,sum-interim,
+bluffdale,Tony Elegante,2023,Council,,0.0,0.0,1,1,single,
+bluffdale,Ulises Flynn,2023,Council,,0.0,0.0,2,1,single,
+bluffdale,MACKEY SMITH,2025,Council,,29825.05,29657.76,4,4,override,"OVERRIDE: per-period filer (donors disjoint across all 4 reports) — the Dec-04 'Final' is itself a period report (5160 raised, new donors), dropped by the summary-vs-interims rule; cycle = sum of all 4 (raised 18029.71+4011+2624.34+5160; spent 12662.71+5982.62+4118.87+6893.56)"
+bluffdale,ALBERT ALLEN LARSEN,2025,Council,,27010.02,27010.02,4,4,override,"OVERRIDE: per-period filer (single self-funded lump each period; raised==spent) — Oct-07 vs Oct-28 expenditure vendors are disjoint (Robocent 9189.30 vs 6910; +Web Partner/Slick Texts) so the two Pre-General deadlines are additive, not a re-file; the Dec-04 'Final' is a period report (750); cycle = sum of all 4 (3470+12685.40+10104.62+750)"
+bluffdale,WENDY ASTON,2025,Council,,25358.61,25358.59,4,4,override,"OVERRIDE: per-period filer (donors disjoint across reports) — the Dec-04 'Final' is a period report (3136.95, new donors incl an Aston loan), dropped by the summary rule; cycle = sum of all 4 (raised 14371+4426.32+3424.34+3136.95; spent 13593.31+5203.99+3001.29+3560)"
+bluffdale,JEFFREY STEELE,2025,Council,,7545.82,7545.82,4,4,override,"OVERRIDE: per-period filer (disjoint per report) — the Dec-04 'Final' is a post-general period report (792.95), dropped by the summary rule; cycle = sum of all 4 (raised 2548.81+2989.06+1215+792.95; spent 2548.81+1468.93+2731.72+796.36)"
+bluffdale,ADAM CHRISTIAN,2025,Council,,4045.79,4045.79,2,1,single,
+bluffdale,NATALIE HALL,2025,Mayor,,22135.67,18471.66,3,3,sum-interim,"MIXED: latest summary $4,252 vs summed interims $18,472 spent — took the larger; verify per-candidate incremental-vs-cumulative"
+bluffdale,CONNIE PAVLAKIS,2025,Mayor,,16164.7,15632.14,3,3,override,"OVERRIDE: per-period filer (Oct-07 amended bundle, Oct-28 + Dec disjoint donors) — the Dec-04 'Final' is a period report (2500), dropped by the summary rule; cycle = sum of all 3 filings (raised 7665.70+5999+2500; spent 7312.88+5506.97+2812.29). Oct-07 stated total = the AMENDED sub-report of the reports[] bundle (original same-period copy excluded at build)"

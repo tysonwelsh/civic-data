@@ -1,0 +1,109 @@
+{
+ "date": "2022-06-09",
+ "year": 2022,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2022/2022-06-06/2022-06-09_planning-commission-meeting.md",
+ "present": [
+  "Roylan Croshaw",
+  "Ken Heare",
+  "David Lewis",
+  "Eldon Peterson",
+  "Jessica Lucero"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare moved to conditionally approve a Conditional Use Permit for PC 22-028 with the conditions of approval and findings for approval as listed below. Commissioner Croshaw seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Ken Heare",
+   "seconder": "Roylan Croshaw",
+   "aye": [
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Ken Heare",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare moved to conditionally approve a Conditional Use Permit for PC 22-029 with the amended conditions of approval and findings for approval as listed below. Commissioner Lewis seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Ken Heare",
+   "seconder": "David Lewis",
+   "aye": [
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Ken Heare",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Peterson moved to conditionally approve a Conditional Use Permit for PC 22-030 with the conditions of approval and findings for approval as listed below. Commissioner Lewis seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "3:2 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Eldon Peterson",
+   "seconder": "David Lewis",
+   "aye": [
+    "Jessica Lucero",
+    "David Lewis",
+    "Eldon Peterson"
+   ],
+   "nay": [
+    "Ken Heare",
+    "Roylan Croshaw"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "3-2",
+   "outcome_word": "Approved",
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes from the May 26, 2022 meeting as submitted",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Ken Heare",
+   "seconder": "Roylan Croshaw",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 4
+  }
+ ]
+}

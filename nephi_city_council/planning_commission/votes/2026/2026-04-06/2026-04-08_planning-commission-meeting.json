@@ -1,0 +1,103 @@
+{
+ "date": "2026-04-08",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2026/2026-04-06/2026-04-08_planning-commission-meeting.md",
+ "attendance": [
+  "Cory Thomson",
+  "Fran Petersen",
+  "Heather Robertson",
+  "Jim Nelson",
+  "Meadow Perides"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "the petition is denied",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Fran Petersen",
+   "seconder": "Heather Robertson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve",
+   "motion_type": "Other",
+   "result": "4:1 Pass",
+   "action_class": "procedural",
+   "mover": "Heather Robertson",
+   "seconder": "Jim Nelson",
+   "aye": [
+    "Jim Nelson",
+    "Heather Robertson",
+    "Fran Petersen",
+    "Meadow Perides"
+   ],
+   "nay": [
+    "Cory Thomson"
+   ],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the changes be adopted",
+   "motion_type": "Other",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Fran Petersen",
+   "seconder": "Heather Robertson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the minutes with the correction of Kolton Brost statement of the approval of the city",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Cory Thomson",
+   "seconder": "Heather Robertson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 4
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "the meeting adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "action_class": "procedural",
+   "mover": "Cory Thomson",
+   "seconder": "Fran Petersen",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": [],
+   "names_recorded": false,
+   "motion_no": 5
+  }
+ ]
+}

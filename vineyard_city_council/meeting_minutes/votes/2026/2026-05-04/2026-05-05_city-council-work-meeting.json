@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-05",
+  "title": "City Council Work Meeting",
+  "body": "Council",
+  "source": "meeting_minutes/minutes/2026/2026-05-04/2026-05-05_city-council-work-meeting.md",
+  "votes": [
+    {
+      "motion_no": 1,
+      "body": "Council",
+      "motion": "approve the Consent items 4.1, 4.2, and 4.3",
+      "motion_type": "Procedural/Administrative",
+      "result": "4-0 Pass",
+      "mover": "Wood",
+      "seconder": "Nair",
+      "names_recorded": true,
+      "aye": [
+        "Holdaway",
+        "Lauret",
+        "Nair",
+        "Wood"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "McCumber"
+      ],
+      "recuse": []
+    },
+    {
+      "motion_no": 2,
+      "body": "Council",
+      "motion": "move items 6.3, 6.4, and 6.5 to the next agenda",
+      "motion_type": "Other",
+      "result": "3-0 Pass",
+      "mover": "Wood",
+      "seconder": "Nair",
+      "names_recorded": true,
+      "aye": [
+        "Lauret",
+        "Nair",
+        "Wood"
+      ],
+      "nay": [],
+      "abstain": [],
+      "absent": [
+        "Holdaway",
+        "McCumber"
+      ],
+      "recuse": []
+    }
+  ]
+}

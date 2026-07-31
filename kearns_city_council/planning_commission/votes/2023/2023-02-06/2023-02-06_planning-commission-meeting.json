@@ -1,0 +1,54 @@
+{
+ "date": "2023-02-06",
+ "year": 2023,
+ "title": "Planning Commission Meeting",
+ "file_body": "PlanningCommission",
+ "present": [],
+ "source": "minutes/2023/2023-02-06/2023-02-06_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "To Approve the January 9, 2023 Planning Commission Meeting Minutes as presented. [OAM2022-000724]",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Koester",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adjourn",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass",
+   "mover": "Thomas",
+   "seconder": "Nelson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": false,
+    "ayes": null,
+    "nays": null,
+    "present_count": null
+   }
+  }
+ ]
+}

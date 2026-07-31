@@ -1,0 +1,21 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": "12/15/2023", "recipient": "Paul Pickett", "purpose": "Loan repayment", "amount": "1,000", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "1,000",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1,301.20",
+  "ending_balance": "301.20",
+  "_meta": {
+    "index_path": "raw/202312_Paul-Pickett_14938.pdf",
+    "candidate": "Paul Pickett",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202312_Paul-Pickett_14938.pdf",
+    "pages": 5,
+    "note": "December 21, 2023 Final Report box checked (not an amendment). Summary line 1 contributions $0, line 2 expenditures $1,000. Schedule A n/a (cumulative-to-date THRU Dec 15, 2023 printed $3,489). Schedule B: single item 12/15/23 Paul Pickett $1,000 'Loan repayment' (page subtotal $1,000; cumulative TOTAL EXPENDITURES $3,135.15). Schedule C in-kind n/a. total_expenditures uses cover line 2 ($1,000); the Schedule B cumulative $3,135.15 is recorded here in the note."
+  }
+}

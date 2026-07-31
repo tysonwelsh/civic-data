@@ -1,0 +1,71 @@
+{
+ "date": "2023-04-04",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2023/2023-04-03/2023-04-04_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes from March 21, 2023",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Matt Quinney",
+   "seconder": "George Winn",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to approve the Boulder Canyon Apartments Sign Plan, located at 5517 West Slate Canyon Drive in a P- C zone, with the Requirements of Approval listed in the staff report",
+   "motion_type": "Other",
+   "action_class": "pc_final_action",
+   "result": "5:1 Approved (Final Action)",
+   "mover": "Matt Quinney",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [
+    "Kent Shelton"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "based on the findings set forth in the staff report, to approve the Preliminary Subdivision Plat and Preliminary Sub- area Plan for Wood Ranch Phase 1 Subdivision located at approximately 7400 South SR- 111 in the PCH/ MDA Planned Community Hillside, Master Development Agreement) zone with the requirements listed in the staff report, amending: 7. UDOT approval for the connection onto U- 111 is…",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "6:0 Approved (Final Action)",
+   "mover": "Matt Quinney",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 4,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council for this application with the correction of\" see building types section for standards\" in the wording for single family housing",
+   "motion_type": "Other",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "Jay Thomas",
+   "seconder": "Trish Hatch",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

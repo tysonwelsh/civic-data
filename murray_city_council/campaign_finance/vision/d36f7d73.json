@@ -1,0 +1,59 @@
+{
+  "reports": [
+    {
+      "reporting_period": "7 Days Before Municipal Primary Election (original) — Covers Jan 1 – July 31, 2025; Date Statement Filed 8/4/2025; candidate signature dated 7-31-25; Amended Report: No",
+      "contributions": [
+        {"date": "5/27/2025", "name": "Board of Realtors", "amount": "4,500.00", "in_kind": false},
+        {"date": "6/17/2025", "name": "Phil & Jamie Markham", "amount": "500.00", "in_kind": false},
+        {"date": "7/1/2025", "name": "Jason Bergstrom", "amount": "50.00", "in_kind": false},
+        {"date": "7/1/2025", "name": "Cindy Gust-Jensen", "amount": "50.00", "in_kind": false},
+        {"date": "6/30/2025", "name": "Mike Bird", "amount": "100.00", "in_kind": false},
+        {"date": "6/30/2025", "name": "Jessica Taylor", "amount": "100.00", "in_kind": false},
+        {"date": "7/9/2025", "name": "Keith Bateman", "amount": "500.00", "in_kind": false},
+        {"date": "7/29/2025", "name": "Jean Kitt", "amount": "300.00", "in_kind": false},
+        {"date": "7/31/2025", "name": "Loan from Cindy Hales", "amount": "1,906.85", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": null, "recipient": "City Journal", "purpose": "July Ad", "amount": "621.00", "in_kind": false},
+        {"date": null, "recipient": "Identity Signs", "purpose": "yard signs", "amount": "2,591.14", "in_kind": false},
+        {"date": null, "recipient": "Spandex", "purpose": "H-Stakes", "amount": "119.73", "in_kind": false},
+        {"date": null, "recipient": "Landslide Political", "purpose": "Campaign Manager", "amount": "4,700.00", "in_kind": false}
+      ],
+      "total_contributions": "8006.85",
+      "total_expenditures": "8031.87",
+      "contributions_50_or_less": null,
+      "beginning_balance": "25.02",
+      "ending_balance": "0"
+    },
+    {
+      "reporting_period": "AMENDED — 7 Days Before Municipal Primary Election; Amended Report: Yes, Date Filed 6/25/2025; Date Statement Filed 6/25/2025; candidate signature dated 8-25-25; office-stamp AUG 25 '25. Amended Schedule A/B itemize only the amended (delta) amounts (subtotal 513.79 each); cover totals reflect the full amended figures.",
+      "contributions": [
+        {"date": "7/2/25", "name": "Valerie Longhurst", "amount": "40.00", "in_kind": false},
+        {"date": "7/7/25", "name": "Gay Petersen", "amount": "25.00", "in_kind": false},
+        {"date": "7/7/25", "name": "Shelly Deal", "amount": "30.00", "in_kind": false},
+        {"date": "7/31/25", "name": "Loan from Cindy Hales", "amount": "418.79", "in_kind": false}
+      ],
+      "expenditures": [
+        {"date": null, "recipient": "Correction on total amount paid to Landslide Political - Includes Digital media", "purpose": "Correction on total amount paid to Landslide Political (Includes Digital media)", "amount": "50.00", "in_kind": false},
+        {"date": null, "recipient": "Filing Fee w/ Murray City", "purpose": "Filing Fee w/ Murray City", "amount": "95.00", "in_kind": false},
+        {"date": null, "recipient": "SL County Voter List", "purpose": "SL County Voter List", "amount": "50.00", "in_kind": false},
+        {"date": null, "recipient": "Exchange Club Candidates Night", "purpose": "Exchange Club Candidates Night", "amount": "100.00", "in_kind": false},
+        {"date": null, "recipient": "Wix.com Web Page", "purpose": "Wix.com Web Page", "amount": "218.79", "in_kind": false}
+      ],
+      "total_contributions": "8520.64",
+      "total_expenditures": "8545.66",
+      "contributions_50_or_less": null,
+      "beginning_balance": "25.02",
+      "ending_balance": "0"
+    }
+  ],
+  "_meta": {
+    "index_path": "raw/202508_Brett-A-Hales_17083.pdf",
+    "candidate": "Brett A. Hales",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202508_Brett-A-Hales_17083.pdf",
+    "pages": 11
+  }
+}

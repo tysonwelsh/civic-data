@@ -1,0 +1,538 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03282022-558
+> Meeting date: 2022-03-28
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2022-03-28
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03282022-558
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                             Minutes             of the
+                                                                                        Millcreek          City        Council
+                                                                                             March          28, 2022
+                                                                                                    5:30        p.m.
+                                                                                                 Work       Meeting
+                                                                                                    7:00        p.m.
+                                                                                            Regular          Meeting
+
+
+The City      Council        of Millcreek,             Utah,      met in a public          work      meeting           and regular       meeting       on
+March      28, 2022,       at City Hall,             located      at 3330 S. 1300           E., Millcreek,             UT 84106.         The meeting           was
+live streamed        via the City's                website     with    an option         for online       public        comment.
+
+
+PRESENT:
+
+
+Council      Members                                                            City     Staff
+Jeff Silvestrini,         Mayor                                                 John Brems,          City       Attorney
+Silvia    Catten,     District        1                                        Alexander          Wendt,         Deputy         Recorder
+Thom      DeSirant,        District           2                                Mike       Winder,        City     Manager
+Cheri     Jackson,       District         3                                     Laurie     Johnson,         HR-Finance             Director
+Bev Uipi,      District      4                                                 Rita Lund,          Communications                 Director
+                                                                               Kurt      Hansen,        Facilities       Director
+                                                                                Stephanie         Bond,     HR Manager
+                                                                               Kayla      Mayers,         Promise        Program         Manager
+                                                                               Carlos      Estudillo,        Planner
+                                                                               Jim Hardy,           Building         Official
+
+
+Attendees:        Kelleen        Potter,          Wendy       Hart,    Sheryl     Martin,         Lt. Petty-Brown,              Detective      Daru'iy      Diel,
+Chief     Duane      Woolsey,             Richard       Hansen,        Kumar      Shah, Steve Bassett,                  Sophia      Manousakis,          Laurel
+Osborn,      Peter Fetzer
+
+
+Minutes      by Alexander             Wendt.
+
+
+WORK         MEETING                - 5:30 p.m.
+TIME       COMMENCED                          - 5:32 p.m.
+
+
+Mayor      Silvestrini       called the work                 meeting     to order.
+
+
+1. Ranked         Choice      Voting              Presentation;         Kelleen         Potter,      Utah       Ranked          Choice       Voting
+Kelleen     Potter    from       Utah Ranked                 Choice     Voting         gave a presentation              on ranked        choice       voting
+(RCV).     Ms. Potter         shared data from                 Y2 Analytics            that was collected               after the Legislature
+allowed     the RCV         pilot     program.           The margin        of error from            the survey           data is 2.6%.        The sample
+size is 1,995       Utah voters.              Eighty-one        percent     of those sampled                said that voting           was easy or
+somewhat       easy. Ninety               percent      of those sampled            said it was somewhat                    clear or very clear.             Sixty-
+two percent       of those sampled                   liked    it a great deal or liked              it somewhat.           Sixty    percent       of those
+sampled      said they were much more likely                            and somewhat              more likely           to vote for their favorite
+Millcreek            City     Council          Meeting            Minutes                                         28 March              2022        Page         2 of 10
+
+
+
+candidate.         House           Bill    264 was passed                 that made            changes          to RCV         in Utah.          Mayor       Silvestrini
+asked       if Y2 can break                the data down               to the Millcreek                 level     to know           resident's       thoughts.
+
+
+2. Presentation               by Utah           Election           Integrity;           Cristy         Bulkley          and      Wendy            Hart
+Wendy         Hart     from        Utah      Election           Integrity        gave    a presentation                on ranked            choice        voting       (RCV).
+She asked          if RCV           was fair.        Ms.       Hart      said that many               problems          with        RCV       come        from      the counting
+not the voter            participation.              She asked how                o'ften ranked            choice          voting      changed            elections.        Ms.
+Hart      said that RCV               changes          the outcome              about     17%          of the time.          Clerks       in Utah          said they          found
+it changes         the outcome               3% of the time.                It is a concern             to vote        and then          have      all the votes            counted
+at the state level,            this       centralizes           power.        Sometimes               in RCV        a candidate             who     is not liked            the
+most      wins     due to the order                  the candidates              are placed            in. In Millcreek               District      4, the election
+probably          would       have        turned       out the same way,                 but in District               2 more         ballots       were      exhausted              and
+this    could      have      changed          the outcome.               Ms.     Hart     gave         an example             from      Sandy        where        18.9%         of
+ballots       were     exhausted            at the end. Council                   Member              DeSirant         said the mayoral                  candidate          who
+won,      won      every      round.         Ms.       Hart     added       that RCV            may      disenfranchise                voters.      In Oakland,
+California         there      was a higher              rate of incorrect               ballots        in districts          where        the community                were
+predominantly               minority          comrnunities.               A grassroots                campaign         often        needs        the primary           election           to
+get their       name        out. FairVote              is funded          by many           groups.        Ms.      Hart       said Utah          Election          Integrity         is
+concerned          about       centralized             power          and because             local     control        is important            in elections.           Mayor
+Silvestrini          said he would              like    Ms.       Hart      to share their             presentation            with     the city         so the staff           and
+elected       officials       could         review       it.
+
+
+3. Presentation               on the         Golden            Volunteer          Management                    Platform;             Stephanie            Bond,           HR
+Manager            and      Kayla          Mayers,           Promise          Program            Manager
+Kayla       Mayers,         Promise          Program            Manager,           and Stephanie                Bond,        HR Manager,                  shared       a
+presentation           on a volunteer                management                 software.         Ms.     Mayers           and Ms.        Bond           realized      that
+different        departments               at the city         used different            methods           to contact            and maintain              volunteers.            Ms.
+Bond        said the current               process       was inconsistent                and clunky.              The volunteer                committee             wanted          to
+find    a user-friendly               sign-up          method         that was       accurate.           They       found        Golden,          a software           that is user
+friendly,        and offers           a consistent             infrastructure           for     all departments.                 Mayor         Silvestrini          asked       how
+the software           communicates.                   Ms.      Bond        said ffirough             email.      Council         Member           Jackson          asked       if the
+software         allows       people         to sign       up for different              timeslots.            Mayor        Silvestrini           asked      about         the cost.
+Ms.     Bond       said it costs            $16,500 a year. Mayor                       Silvestrini            asked       how      people        would       sign up. Ms.
+Mayers        said by mobile                device        or computer.             Mayor          Silvestrini          asked        if this would            be difficult            for
+elderly       volunteers.            Ms.     Mayers            said she was not sure.                   Council         Member            Catten         said that having
+this integrated             into     the city        website          would      be beneficial             for older          volunteers.           Council          Member
+Catten       added        that forgetting              a login        is a real problem                for many            people.       Ms.      Mayers         said a
+volunteer         does not have               to have          an account          to login.          Mayor        Silvestrini          asked       if other        programs
+were      considered.          Ms.         Mayers        said the cornrnittee                  did look          at other        program          choices        and this
+seemed        the most         effective           and least          costly.     Mayor          Silvestrini           said it would             be best practice               to do
+a request         for proposals.             Ms.       Mayers         said this      program             can be branded                with       the Millcreek             logo
+and Golden            is a good           fit for Millcreek              because         it is more            efficient       and creates           a better         experience
+for the volunteers.                 There      is better         data analysis,           it will       help      Millcreek           reach       the goal          of bringing
+the community                together.         Council          Member           Jackson          asked         if this program             would         help      the city
+track     FEMA         hours.         Ms.     Mayers           explained         how      it can track            FEMA           hours.        Golden        stood         out to
+them      because         it has a clock-in                and clock-out            function.            Ms.     Bond        explained            how      the sofiware
+would       cost $1,375 per month                       and can run concurrently                          with     the city fiscal year.                   Council Member
+Uipi      asked      that the city           stick      to the process            for procurement                  because           everyone            gets a chance,              and
+Mfflcreek            City     Council          Meeting           Minutes                                             28 March                2022       Page         3 of 10
+
+
+
+this would           take     the products             through         a process            with      more        transparency.                Council         Member               Catten
+asked       if the committee                 looked         at other      programs              and if they              received        a cost quote.               Ms.      Bond         said
+they      did not receive             quotes          from     the other         programs.             Mayor             Silvestrini          said he would                like         quotes
+from       other     programs          in a memo              and would              like    to know           how        the committee                looked         at the
+programs           and why          they     would           not work.         Mr.      John       Brems,           City     Attorney,              said this program
+would       require         three     independent              price      quotes        per the city             request          for proposal              rules.       Council
+Member           Uipi       thanked        the committee               for their            work      and wanted              to make           sure the city              finds         the
+best program.
+
+
+4. Fiscal        Year        2022-23         Budget           Discussion;              Laurie          Johnson,              HR-Finance                Director
+Laurie       Johnson,          HR-Finance               Director,         led a budget                discussion.            The       city     needs to look               at every
+option      and has created                 four      options       to share regarding                   the budget.              Mayor          Silvestrini             said that
+based      on the economy                  generally,           inflation,          and gas prices                will      create      some         hard     decisions.                Ms.
+Johnson          said she looked              at the numbers                 again       and presented                   Option        1. In this option                 the city
+could      dip into         the General            Fund       balance         to help         pay for the Unified                      Police        Department               (UPD)
+contract.        These        numbers          will     be updated            over time.            This         option       has a 5% property                      tax increase
+coupled       with       a dip into          the General            Fund.        This        option      would            also increase             property          tax rates            in
+2023,      2024,        2025,       and 2026          but these increases                    would          decrease          over      time.        Mayor       Silvestrini               said
+that this would              require        the City         to use the city's                rainy-day             fund.     Council           Member           Jackson                asked
+if this included              UPD      raises.        Ms.     Johnson          said yes. Mayor                    Silvestrini           said the UPD                 Board         made          a
+cornrnitment             to the UPD            officers         that would            put them           into       the top 3 in compensation                            in the
+county.       This      would        help     UPD        hire     and retain            their      officers.         UPD        retains         officers       through             their
+culture,      they      provide        opportunities              for advancement                     but that only               goes so far when                   an officer
+sees their peers              making $5 more                  an hour in another                    city.      Mayor          Silvestrini            said cost of living                      and
+merit      increases          go through            a budget        process           at the UPD             Board          as well.          Ms.     Johnson            said this
+budget       option         included         a cost-of-living              increase.            Mayor         Silvestrini            said that UPD               raised           its
+compensation                mid-year         and Millcreek                took      that amount               out of fund              balance.         Other        cities        and
+municipalities              increased         their     pay in the meantime.                        It is understood                  that     other     agencies             are
+probably         waiting        for UPD            to make        their      changes            before       they        make       theirs.
+
+
+Ms.      Johnson         said Option           2 is a year-by-year                    property          tax increase              and does not dip into                       the fund
+balance       but then next             year the tax increase                       gets into         the double            digits,       other       years     are less of an
+increase.        Option         3 has no property                 tax increase               but is instead               6% municipal                energy         sales and use
+tax, sometimes               this is called           a franchise            tax. Council              Member              Jackson            asked     where         this money
+comes       from.       Ms.     Johnson            explained        the utility             companies             would        add 6% to users'                   utility         bills.
+People      who         do not pay property                   tax do pay this.                Mayor          Silvestrini           said that Millcreek                     is one of
+the only      cities        in Utah      that does not charge                       this tax.       Council              Member          Jackson           asked how               some
+customers          would        pay it if they            do not have               gas hooked              up to their           building.           Ms.     Johnson             said that
+if they     do not have             gas, they          do not pay it, but they                     would          pay it on the electricity                      bill.      Corincil
+Member           DeSirant        asked        how       the 6% compared                      to other        cities.        Ms.     Johnson            said she will               get to
+that.    Option         4 is a 3.16%           property          tax increase               and a 3% municipal                       energy          sales and use tax,                    also
+called     a franchise           tax. Council             Member             Catten         asked      if the franchise                 tax can be used for more
+than just        the UPD         contract.
+
+
+Ms.     Johnson         shared       a slide        of the cities          in Salt Lake               County             and how        much          they     charge         for their
+franchise        tax. Mayor            Silvestrini           said that based                 on this        slide     Millcreek           residents           pay less property
+taxes     than     Salt Lake          City     and Salt Lake                 City     residents          still      pay a telecommunication                              tax and a
+franchise        tax. Mayor            Silvestrini           added      that        the franchise             tax is probably                  more      regressive.               A
+Millcreek           City     Council      Meeting         Minutes                                     28 March           2022      Page 4 of 10
+
+
+
+franchise       tax balances           out Millcreek           revenue     sources,         this is a benefit,           but it is another          tax.
+Mayor       Silvestrini        explained        the last city manager               wanted       to add a franchise               tax and Mayor
+Silvestrini         resisted    it because it is a hot button                 issue. Millcreek               could     take money         from      the
+general       fund balance           which      cuts into sidewalk            repair,       street repair,        and other things           residents
+would       like.    Council      Member          Jackson       asked how many police                    calls go to places              like church
+parking       lots. Mayor         Silvestrini        replied     that police        calls to church            parking      lots are surprisingly
+significant.         Mike      Winder,       City    Manager,          said there is a reason why                     every incorporated            city in
+Salt Lake           County     does this is, because             it broadens         the tax base. Mayor                 Silvestrini       explained         a 6%
+franchise       tax will       be unpopular          but so would          a double-digit             property         tax increase.       The 6%
+franchise       tax completely            cuts a property          tax increase          in option         3. Council          Member       Catten         said
+option      1 is unsustainable.              Millcreek      does not have much                   of an option          when      it comes to the
+services       Millcreek        has to pay for from              UPD,      the city cannot            cut SWAT            to save money.            Millcreek
+does have control              of how the precinct              is staffed,      but Millcreek            residents        want    police     coverage.
+Council        Member          Catten     said the message             from     the last two years is that everything                        in life is
+volatile      and no one laiows              what is going          to come.        Option       3 is probably            more     sustainable.           Council
+Member         Jackson         asked how much              this would         increase       a bill    for a resident.          Ms. Johnson           said it
+would       increase        on an individual          basis. Mayor            Silvestrini        added that Rocky               Mountain          Power        and
+Dominion            Energy      can get these numbers               to Millcreek.            Council         Member        DeSirant        asked why the
+property       tax rate in Holladay               is so much        lower.      Mayor        Silvestrini        said that Holladay            just raised
+their property             taxes 50%. Mr. Winder                said that West Valley                 just     started    a street-light         fee to get
+around      raising        property      taxes.
+
+
+Council        Member          Jackson       said she would            like UPD       to give Millcreek                a list of non-taxed            entities
+and the amount               of police     calls to them.        Ms. Johnson             said that if the Council                 is okay with         it, she
+will    move        forward     on option         3 and get more information                     for the Council.              Council     Member           Uipi
+said she would              like to present         to the public        the different         options,        so they see how decisions                    are
+made. Ms. Jomson                  said no matter          what the tentative             budget        must be in the City               Council's         hands
+by the first meeting              in May       and must be adopted                by the second meeting                    in June. Council
+Member         Catten        asked if there is benefit            to a property          tax increase           this year and the franchise                    tax
+next year. Ms. Johnson                   said that is entirely           up to the City          Council.        One option            is the Council
+could      entirely        fund this year out of fund balance                    and then investigate                  other    options     in the coming
+year.      Mayor       Silvestrini       said a smaller         property       tax increase           this year and fund               balance     cushion
+this year shows the community                        the Council         is trying       to investigate          this. Mr. Winder            gave a 5'
+option,       do option        3 and use the 6% franchise                  tax and cut the property                    taxes by 1%. Ms. Johnson
+asked for direction             because        she must have a tentative                 budget        ready      on April        11, 2022,        and then
+have a public           hearing       on the budget         on April       25, 2022, this was a big choice.                        Mayor         Silvestrini
+asked Ms. Johnson                to put option         1 into the tentative             budget        but keep working             on the budget             and
+see where           changes     can be made.
+
+
+5. Staff      Reports
+There      were none.
+
+
+6. Discussion              of Agenda       Items,        Correspondence,                and/or        Future         Agenda       Items
+There      was none.
+
+
+Council        Member           Jackson        moved       to adjourn           the work         meeting         at 6:59        p.m.     Council
+Member          Uipi       seconded.       Mayor         Silvestrini       called       for the vote.           All    Council         Members         voted
+yes.    The     motion         passed     unanimously.
+Mfflcreek        City     Council         Meeting          Minutes                                28 March         2022         Page 5 of 10
+
+
+
+
+REGULAR              MEETING              - 7:00 p.m.
+TIME        COMMENCED:                     7:10 p.m.
+
+
+1. Welcome,           Introduction           and Preliminary                 Matters
+        1.1 Pledge            of Allegiance
+            Mayor       Silvestrini       called     the meeting         to order and led the pledge                  of allegiance.
+
+
+        1.2 Public            Comment
+            Sheryl      Martin,       1044 Austin           Avenue,        gave a suggestion             for consideration          regarding         city
+            maps. There           is a small       section     on the map that is in Council                    District     3 rather     than District
+            2, it makes       more sense to make the boundary                           line 1300 E,., SO the cominunity                    is not split.
+            Council       Member          DeSirant         said that there are challenges                 on how the city council               districts
+            are created       based on how the population                       of the city is distributed             and he would           ask for
+            help on this if there are ideas.
+
+
+        1.3 Unified              Police    Department             Millcreek          Precinct       Officer      of the Month             for February
+            2022 - Detective              Danny       Diel
+            Lt. Petty-Brown             announced           Detective        Danny      Diel    as Officer       of the Month            for February
+            2022. A U-Haul             truck     backed       into the Hyland            Cyclery      and stole $43,000             worth     in bikes.
+            Detective       Diel      spotted    a person        in Salt Lake City             who was also on the surveillance
+            footage       for the robbery.          Detective         Diel    coordinated         with     UTA     police     to question       the
+            individual.       This helped           find the remaining               suspects     and return       the property          to Hyland
+            Cyclery.       For these reasons               he is officer      of the month.          The Citizens           Advisory       Board
+        presented           Detective        Diel    with      a small       gift. Mayor        Silvestrini      thanked        Detective     Diel.
+
+
+2. Planning         Matters
+        2.1 First          Readings:
+            a. ZM-22-003,             Request        for     a Rezone        from      R-1-10      to R-1-8       to Accommodate                a 2-Lot
+        Subdivision               at 4070 S. 1300             E.; Katie       Larsen,      Planner
+        Mayor           Silvestrini       noted that the Planner               Katie     Larsen      was unwell            and could      not attend
+        the meeting,              so he would         give the report           and Carlos        Estudillo,       Plaru'ier.     would      give
+        technical          help. The site currently               has a single-family              residence        on a large lot. Each lot
+        would           exceed     8,000 square feet if the rezone                     is approved.           The property        is a total of
+        17,000          square feet. The property                 is not in good condition.                   The neighborhood              meeting      was
+        not well          attended        and the people          who did appear felt this would                     be beneficial          to the area.
+        The Planning               Commission              unanimously         recommended               this. The Millcreek             Community
+        Council           gave one recommendation                      that the driveways            be placed        on 4085 S. Mayor
+        Silvestrini          noted that Ms. Larsen                asked this be continued                  because         she was sick, and
+        Mayor           Silvestrini       did not want to delay               the applicant.         Council       Member         DeSirant      was at
+        the Corninunity                Council      meeting          and this project          was well received             there. Council
+        Member            Uipi     said the street will           be safer with          sidewalk         and gutter       in place.
+
+
+        b. ZM-22-005;                 Request        for     a Rezone         from     R-I-10      to R-1-21         at 2279 E. Keller              Lane
+        to Accommodate                    a Proposed           Land        Consolidation           with       2254 Alva         Circle    and a
+Millcreek          City        Council          Meeting               Minutes                                              28 March             2022         Page        6 of 10
+
+
+
+            Rezone             from      R-1-10          to R-1-8               for       the Remainder                   of 2279        E. Keller            Lane;         Carlos
+            Estudillo,            Planner
+            Carlos        Estudillo,            Planner,          said the applicant                      is requesting              a rezone          to accommodate                      a
+            proposed            land     consolidation                  tliat     will        consist         of annexing            4,240       square         feet.     Council
+            Member              Jackson         asked         if there          are more           allowances               for a R-1-21              lot as opposed               to a R-1-
+            10. Mayor             Silvestrini            said that the coinmunity                               supported           this.      The     lot on 2279               E. Keller
+            Lane        will     go from         12,770           square           feet to 8,530                square       feet and go to a R-1-8                       zone to
+            prevent            a non-compliance.                      A subdivision                 amendment                will      be required             due to a public
+            utility       easement.            The      East Mill               Creek         Coininunity             Council           did not add any conditions                             to
+            the proposed               project         and voted            unanimously                       to approve         and recommend                      the present
+            project.           The use of this property                           still     follows           the General           Plan.       The      Planning           Commission
+            unanimously                 approved              this.    The property                 already           has horses,             and one resident                   was
+            worried            about     horse        access to the creek.                       Mr.          Estudillo       said that          extra       horses       will     not be
+            allowed.
+
+
+3. Financial            Matters
+            3.1 Public            Hearing             on Opening                      and     Amending                the Fiscal            Year       2021-22           General
+            Fund          and     Capital         Improvement                          Project          Fund        Budget
+            Ms.       Johnson          explained              this is mostly                  housekeeping.                General          Fund       revenue          has increased
+            slightly.          Ms.     Johnson           reminded               the Council               that she is conservative                          in her revenue
+            projection            and realistic               in her expense                   projections.            Millcreek              received        two       grants,        a
+            Homeland              Security            Grant       and one from                   the Utah           Department                of Natural           Resources.               The
+            liquor        grant       line     item     increased.               This         is sent to UPD,               and they           can spend            it on specific
+            things.       Mayor          Silvestrini             said that grant                 money            coming        in must          be spent           in certain         ways,
+            it is not open              for adding             to the fund                balance.            The liquor        grant         must      be used on law
+            enforcement                efforts        related         to alcohol              enforcement.                Ms.    Johnson             increased          Class       C Road
+            funds,        but the numbers                     are conservative,                   when           gas prices         are high           people        drive       less. The
+            Promise            Program           added         a new position                   that has not been                   filled.      An      event      planning
+            manager             has been         added          to the Millcreek                   Common                 department.            The        fuel    and
+            maintenance                budget         was increased                    to account              for more         fuel    costs.         Mayor        Silvestrini
+            explained            how         Millcreek           obtained              about      160         acres       of property           on the eastern               edge of the
+            city      to extend          the Bonneville                  Shoreline              trail     well      above       the homes              in the area. Ms.
+            Johnson            said $1 million                 of this money                   was from            grants.      The projected                 fund       balance
+            amount             is $10,217,257.                Mayor             Silvestrini             said this money                is very        valuable          because            it is
+            essentially           the emergency                   fund          or rainy-day              fund,       the money               looks      good       now      but with
+            uncertainties              in the economy                   there          will     be a lot of reasons                    to be happy             about       having           the
+            money         set aside.           Ms.     Jomson said that even after putting                                          money            from      the fund          balance
+            into      the UPD           budget         will      keep      the fund             balance           at 30%.        Council           Member            DeSirant              asked
+            what       happens           if the city gets more than 35% of the fund balance.                                                          Ms.    Johnson             said it
+            would         go into        the Capital              Improvement                    Project          (CIP)      fund.
+
+
+Council       Member              Uipi        moved           to open            the public              hearing.           Council            Member              Catten
+seconded.          Mayor          Silvestrini            called          for      the vote.             All     Council         Members                voted        yes. The           motion
+passed      unanimously.
+
+
+            There        were        no comments.
+Millcreek        City     Council         Meeting          Minutes                                  28 March              2022       Page 7 of 10
+
+
+
+Council       Member            Uipi     moved        to close the public            hearing.         Council            Member         DeSirant
+seconded.        Mayor          Silvestrini       called      for the vote.         All    Council          Members            voted     yes. The motion
+passed      unanimously.
+
+
+            3.2 Discussion              and Consideration               of Ordinance               22-12,        Amending            the 2021-2022
+            Fiscal      Year      Budget
+
+
+Council       Member            Uipi     moved        to approve         Ordinance           22-12.        Council         Member         Jackson
+seconded.        The Deputy              Recorder          called     for the vote. All             Council         Members            voted     yes. The
+motion       passed      unanimously.
+
+
+4. Business          Matters
+            4.1 Discussion              and Consideration               of Ordinance               22-11,        Amending            the Property
+            Mqin#nn"inr'n              l'ndeRegardingDeadorDamagedTrees
+            Jim Hardy,          Building       Official,        asked for a code text change                      in chapter         15 of the code. The
+            current     wording          says that code enforcement                  shall have authority                   to remove         dead or
+            damaged        trees on private            property,       but this raises questions                   of trespassing.         The change              in
+            wording       would         change private          to public        and would          require        the owner         to pay to remove
+            the tree. Mayor             Silvestrini      explained        how removal              of a large tree can exceed $30,000.                         It
+            is a problematic            to impose        this on a resident          that cannot            afford        it. The ordinance          as
+            written     was problematic               because        it seems like it gives the city power                          that it does not have
+            except      for a judicial        order.     Council       Member         Uipi        asked for a clarification               on public
+            property,      and if a tree falls in between                   neighbors'            yards who is responsible.                    Mr. Hardy
+            said that this accounts              for trees in the public             right-of-way                and other public          property.         Mr.
+            Brems       said that in that situation                 it would     be a civil        matter        between       neighbors.
+
+
+Council      Member            Jackson        moved        to adopt       Ordinance               22-11     Amending               the Property
+Maintenance             Code      Regarding           Dead      or Damaged            Trees.        Council             Member        DeSirant
+seconded.       The Deputy              Recorder         called       for the vote.         All     Council         Members           voted      yes. The
+motion      passed       unanimously
+
+
+          4.2 Discussion               and Consideration                of Resolution              22-08,       Supporting            Salt Lake         County
+          Ordinance             Amending          Section        19.12.030         of the Salt Lake                 County          Code to Eliminate
+          Mineral         Extraction           and Processing             as a Conditional                  Use and Explicitly                 Prohibiting
+          the Same             and Similar        Uses in the Forestry                    and Recreation                 Zones;      Amending           Section
+          19.72.190            to Eliminate           Mineral        Extraction           and Processing                 as a Use for Which
+          Waivers         Can be Granted;                  Amending             Section      19.76.030            Regarding           Classification          of
+          Permitted            and Conditional              Uses Not Listed               in Title        19;     and Enacting           Related
+          Regulations
+          Council        Member          Jackson        explained       this resolution            is in response            to the Salt Lake County
+          Code changes             to eliminate          mineral       extraction         in Parleys        Canyon.          The Division          of Oil,
+          Gas, and Mining                met last week.           The developer            withdrew             their    applications      and said they
+          intend       to file a small mining               application         that has less safeguards                   for the community.             No
+          public       input     is required.         However,        the Division          was clear the developer                    would      have to
+          meet zoning            ordinances.          Mayor       Silvestrini       explained         how        fonnalizing         this with      a
+          Resolution           allows      for strong       support      to the Salt Lake County                        Council.     The concern          with
+          more        gravel     mines     in unincorporated              Salt Lake County                 is the creation           of far more fugitive
+Mfflcreek          City     Council       Meeting        Minutes                                  28 March            2022        Page 8 of 10
+
+
+
+            dust from         mines      in Parley's        Canyon.       This     dust is unhealthy            and a nuisance            to Millcreek
+            residents.
+
+
+Council       Member           Uipi      moved      to approve           item     4.2, Resolution            22-08.      Council       Member
+Catten      seconded.          The Deputy            Recorder         called      for the vote. All            Council       Members           voted     yes.
+The motion           passed       unanimously.
+
+
+5. Reports
+            5.1 Mayor's           Report
+            Mayor         Silvestrini     explained         how the State Legislature                    passed a bill       related      to homeless
+            services        and a new shelter           in the winter.          The Council          of Mayors          held a meeting          last week.
+            Mayor         Silvestrini     was appointed            to the committee              to determine          criteria    regarding       where
+            the shelter        could     be.
+
+
+            An event took place on Saturday,                        March        26, in Holladay            to show support            to the people          of
+            Ukraine.         There      were about 125 people               in the audience.              Speakers       from     {Jkraine     were in
+            attendance.         People      are enduring           an incredible         amount          of trauma.      A Ukrainian          charity    was
+            at the event as an option                 for donations.        Mayor          Silvestrini       said the event was very moving.
+
+
+            The Fine Art Inn has joined                     an agreement          to move        their business          less than one block
+            south into a new building                  that will     be built      in Millcreek.            The Fine Art Inn also
+            approached          the city asking          if the city could             assist them in creating             a mural        that would
+            face Millcreek              Common.       The Millcreek             Arts    Council      will     be brought          into this
+            conversation.
+
+
+            Millcreek         received      a $2.5 million          grant to help with             Millcreek         Cornrnon.         The city
+            completed          the grant application              with   BlueSky          for solar panels           on the new City Hall.
+            Construction          costs are going           up very       fast. Bids        came in for a project             to put 800 feet of
+            sidewalk         by the Trax       station      on 3900 S. where               there is no sidewalk.             Some bids came in at
+            nearly        $1 million.      Engineering         staff found         the money         to accept the $700,000                  bid. This
+            will    benefit     people      in the western          part of the city along                3900 S.
+
+
+            5.2 City        Council       Member         Reports
+            Council         Member        DeSirant       gave a report           from    a meeting          regarding      the Wasatch         Front
+          Waste           and Recycling         District.     The updated           bulk       dumpster       program        is not as popular.
+          People          preferred      the dumpsters            on the street and not in their                driveway.
+
+
+          Council           Member        Catten     said that she was in Washington                         D.C.    for a conference          with     the
+          National          League       of Cities.     Everyone         from      the City      Council       needs to go to this
+          conference.           Two      problems        really    resonated           among     all the participants,             homelessness,         and
+          housing.          Council       Member        Catten met with            Representative             Owens       and Representative
+          Curtis      to nudge          them towards         trail improvement                 help. Mayor          Silvestrini      said that he will
+          go to the conference                 next year at the expense                 of the Utah League               of Cities        and Towns.
+          Council          Member         Catten     said the lobbyist           that Millcreek            has contracted          with    is very well
+          liked      on the Hill         and is a great resource            for Millcreek.
+
+
+          Council           Member        Jackson      gave an update            from      the Community              Renewable           Energy      Board.
+          Their      communication               committee         is sending          email    updates.      Council        Member         Jackson
+Millcreek       City     Council          Meeting        Minutes                                  28 March         2022        Page 9 of 10
+
+
+
+            would      like    everyone        on the Council           to sign up for the email updates.                    The Board         would
+            like to present           to each of the Councils                in May      and June.
+
+
+            5.3 City      Treasurer's            Report
+            As of March          25, the Series 2019 bond balance                        was $2,773.05.            The City       Hall bond
+            balance      was $37,939,353.69.                The PTIF           account     is where       tax revenue         from       the State is
+            stored,    and the balance             was $31,483,586.34.                As of this point           in time 92.2%           of projected
+            property      taxes have been received.
+
+
+            5.4 Staff     Reports
+            Mr. Winder          noted the City           Hall     groundbreaking           went very well.              There were local           and
+            state legislators           at the event.      Everyone          is buzzing       about how great things                 are going      in
+            Millcreek.         City Hall       property      is officially       closed     on. Boyer          bought      $1.3 million       of
+            property      from     Millcreek.          At the retreat         in January,      department          directors      and the Council
+            talked     about how to build               the coinrnunity.         The outgoing             Youth     Council       will    be honored
+            in April     before        they graduate.        In a few weeks             the Adventure           Hub will       be ready      for
+            meetings.         Kayla      Mayers,       Promise       Program       Manager,         would       like to hold       an interfaith
+            summit       for the Promise              Program.      Mr. Winder          would       like to hold        an "Essential        Piece"
+            award.
+
+
+            5.5 Unified         Fire     Authority         Report
+            Chief     Duane      Woolsey         said that the Millcreek                UFA      worked        on wildfire      training      earlier
+            than normal         because        of the extreme          drought.       UFA      is still    in the budget        process.      Their
+        budget         will     be adopted         on the 5'1 of June. The Midvale                     fire station        is more than halfway
+            done. Magna           Station      102 construction              is going     slowly.     Eagle Mountain              Station     251 is
+        having         trouble        with    bids being        very high.      Eagle      Mountain           Station    253 will        be in western
+            Eagle Mountain              and will       start the bid process            soon. Council           Member        DeSirant       asked if
+        there is greater               risk for wildfires          due to less snow.          Chief       Woolsey        said that a lack of
+        water         can reduce         the amount         of grass that grows             which      reduces      the wildfire          risk, however
+        he expects             regionwide        greater        fire risk.
+
+
+        5.6 Unified             Police       Department            Report
+        Lt. Petty-Brown                 from    UPD       gave the February             police      report.     There      were 2,558        calls for
+        service        and 826 citations.              Millcreek        Street Crime          and CCSU           are investigating          a string     of
+        burglaries            at Artesian       Spring     Apartments.           They     obtained        a search warrant           to one of the
+        apartments.             Four people           were arrested,          and all were booked              into jail     on robbery,        drug,
+        and weapon              charges.       Millcreek         Street Crimes          also worked           on a drug case on Scott
+        Avenue.          On Roger            Drive,     Millcreek       Street Crimes          and CCSU           served a knock            and
+        announce              search warrant.          Four people           were arrested        and booked.           Metliamphetamine,
+        cocaine,         marijuana,           and bath salts were seized                 as evidence.         COP Detectives              conducted       a
+        crosswalk             safety     operation       which      resulted     in 58 citations          and 1 arrest. Millcreek              Police
+        conducted             alcohol        buys using minors,              and 28 out of 30 stores passed.
+
+
+6. Consent       Agenda
+        6.1 Approval              of March            14, 2022, Work            Meeting          and Regular            Meeting       Minutes
+Millcreek          City    Council         Meeting       Minutes                                28 March         2022       Page 10 of 10
+
+
+
+Council      Member            Uipi   moved          to approve           the March         14, 2022, Work           Meeting     and Regular
+Meeting       Minutes.           Council      Member         Jackson          seconded.        Mayor       Silvestrini      called    for the vote.
+All   Council        Members          voted     yes. The          motion      passed        unanimously.
+
+
+7. New      Items         for Subsequent          Consideration
+There     were none.
+
+
+8. Calendar           of Upcoming             Events
+      *     Mt. Olympus            Coinmunity            Council      Mtg.,    4/4/22,       6:00 p.m.
+      @     Millcreek        Community           Council          Mtg.,    4/5/22,     6:30 p.m.
+      *     Canyon         Rim     Citizens     Association          Mtg.,     4/6/22,      7:00 p.m.
+      *     East Mill        Creek    Comi'nunity          Council         Mtg.,     4/7/22,    6:30 p.m.
+      *     City     Council       Mtg.,     4/1 1/22,     7:00 p.m.
+
+
+
+ADJOURNED:                  Council         Member         Uipi     moved      to adjourn         the meeting            at 8:53 p.m.    Council
+Member        Jackson            seconded.      Mayor        Silvestrini           called    for the vote.     All    Councn         Members
+voted     yes. The motion             passed         unanimously.
+

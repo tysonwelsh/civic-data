@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": "9.7.21", "name": "Mike Siler", "amount": "150.00", "in_kind": false},
+    {"date": "10.8.21", "name": "Celine Zaragoza", "amount": "200.00", "in_kind": false},
+    {"date": "9.10.21", "name": "Coleen Costello", "amount": "25.00", "in_kind": false},
+    {"date": "10.15.21", "name": "Coleen Costello", "amount": "25.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "8.31.21", "recipient": "Newspaper Mgt Company", "purpose": null, "amount": "540.00", "in_kind": false},
+    {"date": "9.2.21", "recipient": "Sandberg Sign", "purpose": null, "amount": "372.16", "in_kind": false},
+    {"date": "9.10.21", "recipient": "Seagull Printing", "purpose": null, "amount": "173.88", "in_kind": false},
+    {"date": "9.22.21", "recipient": "Deseret News", "purpose": null, "amount": "325.60", "in_kind": false},
+    {"date": "9.23.21", "recipient": "Newspaper Mgt Company", "purpose": null, "amount": "540.00", "in_kind": false},
+    {"date": "9.27.21", "recipient": "Deseret News", "purpose": null, "amount": "486.38", "in_kind": false},
+    {"date": "9.29.21", "recipient": "Seagull Printing", "purpose": null, "amount": "173.88", "in_kind": false},
+    {"date": "10.2.21", "recipient": "Skymail", "purpose": null, "amount": "620.12", "in_kind": false},
+    {"date": "10.7.21", "recipient": "Cookie Tree", "purpose": null, "amount": "73.63", "in_kind": false}
+  ],
+  "total_contributions": "400",
+  "total_expenditures": "3305.65",
+  "contributions_50_or_less": "50",
+  "beginning_balance": "0",
+  "ending_balance": "-2905.65",
+  "_meta": {
+    "index_path": "raw/2021_05_Wayne-Sharp.pdf",
+    "candidate": "Wayne Sharp",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2021_05_Wayne-Sharp.pdf",
+    "pages": 5
+  }
+}

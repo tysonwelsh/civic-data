@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": "11/10/2025", "name": "Bill & Pam Cotter", "amount": "750.00", "in_kind": false},
+    {"date": "10/27/2025", "name": "Laura Cotter", "amount": "30.00", "in_kind": true},
+    {"date": "11/3/2025", "name": "Laura Cotter", "amount": "30.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "11/10/2025", "recipient": "City Journal (Thank You ad)", "purpose": "City Journal (Thank You ad)", "amount": "750.00", "in_kind": false}
+  ],
+  "total_contributions": "750.00",
+  "total_expenditures": "750.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/202512_Pamela-Jane-Cotter_17327.pdf",
+    "candidate": "Pamela Jane Cotter",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202512_Pamela-Jane-Cotter_17327.pdf",
+    "pages": 8
+  }
+}

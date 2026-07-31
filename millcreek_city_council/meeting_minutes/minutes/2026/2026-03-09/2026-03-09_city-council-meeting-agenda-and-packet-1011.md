@@ -1,0 +1,531 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03092026-1011
+> Meeting date: 2026-03-09
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2026-03-09
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03092026-1011
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                       Minutes            of the
+                                                                               Millcreek             City       Council
+                                                                                       March             9, 2026
+                                                                                              5:00       p.m.
+                                                                                       Work          Meeting
+                                                                                              7:00       p.m.
+                                                                                      Regular            Meeting
+
+
+The City      Council        of Millcreek,         Utah,     met in a public         work     meeting           and regular        meeting      on
+March      9, 2026,        at City    Hall,    located     at 1330 E. Chambers              Avenue,           Millcreek,        UT 84106.         The
+meeting       was recorded            for the City's       website    and had an option               for online         public     comment.
+
+
+PRESENT:
+
+
+Council       Members                                                               City    Staff
+Cheri     Jackson,      Mayor                                                       Mike      Winder,         City     Manager
+Silvia    Catten,     District        1                                             Elyse     Sullivan,         City    Recorder
+Thom      DeSirant,        District       2 (arrived at 5:06pm)                     John Brems,             City     Attorney
+Nicole     Handy,       District      3                                             Kurt    Hansen,         Facilities      Director
+Bev Uipi,       District      4                                                     Francis     Lilly,       Assistant      City Manager
+                                                                                    Lisa Dudley,            HR-Finance            Director
+                                                                                    Jim Hardy,           Building        Services      Director
+                                                                                 Kristy       Parajuli,         Promise      Education
+                                                                                    Coordinator
+                                                                                 Kayla        Mayers,           Promise     Program          Director
+
+
+Attendees:        Chief      Petty-Brown,          Rick     Hansen,       Lindsey     Nielsen,        Jeff Silvestrini,            Dave Spatafore,
+Ashley     Mirabelli,        Ben Horsley,          Andrei     Tarassov
+
+
+WORK         MEETING               - 5:00 p.m.
+TIME       COMMENCED:                      5:02 p.m.
+
+
+
+Mayor      Jackson      called       the work      meeting     to order.
+
+
+1. Central       Wasatch           Commission            Presentation;        Lindsey         Nielsen,          Executive         Director
+Lindsey      Nielsen       said the Central         Wasatch       Commission           (CWC)          is an interlocal            governmental
+entity    established        in 2017 as an outgrowth              of the Mountain              Accord         process      (2013-2015),           a
+collaborative        regional        effort    involving     coini'nunity     members,           local       leaders,      environmental
+advocates,      recreationists,           and industry       stakeholders       to ensure the long-term                    sustainability         ofthe
+Wasatch       Mountains.           The Commission's            core mission          is to protect          and steward           these mountains
+                                                                                                                                             on, an
+responsible      development.              Comprised        of multiple      member         jurisdictions            along the Wasatch            Front
+and back, including               Millcreek,      the CWC       provides      a unique        platform          for regional        collaboration,
+consensus-based             decision-making,             and stakeholder       engagement.               Its work        is informed         by a 35-
+Millcreek           City     Council         Meeting        Minutes                                        9 March         2026          Page 2 of 9
+
+
+
+member        Stakeholders               Council       and a Youth           Council,        both of which              contribute         local     expertise       and
+innovative          ideas.
+
+
+The CWC             delivers       value to its members                  through       regional        coordination,           advocacy,           and initiatives
+such as transportation                   planning,       data transparency               via the Central             Wasatch        Dashboard,           and
+cornrnunity           programs.          Notable        accomplishments                include     mobility          action      planning,          canyon
+shuttle     feasibility          studies,     and management                 of the Ski Bus Priority                  Access        Program,         which
+improves        traffic      flow        and public       safety     during      peak ski days. The Commission                              also hosts an
+annual      symposium              to convene          experts     and stakeholders               and administers                a grant program              that
+funds      short-term          projects       supporting         trail    development,            enviroru'nental           maintenance,              and
+equitable       outdoor          access. Central           to its long-term             vision     is the proposed              Central      Wasatch
+National       Conservation               and Recreation           Area Act,           a federal       initiative       aimed       at peri'nanently
+protecting          the region       through         a new conservation                 designation.           Overall,       the CWC          serves as a
+collaborative           and innovative             model     for regional             stewardship          of natural         resources.
+
+
+Council       Member              Uipi      moved       to reorder          the agenda            to have Lisa            Dudley          go next.      Council
+Member         Catten            seconded.         Mayor      Jackson           called       for the vote.           Council        Member            Catten
+voted      yes, Council             Member           DeSirant        voted       yes, Council            Member            Handy          voted      yes, Council
+Member         Uipi        voted     yes, and Mayor                Jackson           voted      yes. The motion               passed        unanimously.
+
+
+3. Fiscal      Year        2026-2027           Budget       Discussion;              Lisa     Dudley,          HR-Finance            Director
+Lisa Dudley            provided          a preliminary,          high-level          overview          of the fiscal       year 2027 general                fund
+budget,      emphasizing             that it is an early-stage                framework           intended          to guide       future     discussions            and
+refinements           ahead of formal              budget     adoption          in May        and June. On the revenue                      side, the analysis
+highlights          relatively      stable and predictable                  sources,        including          property     taxes,        sales and use taxes,
+franchise       fees, licenses,             permits,      and grants. Notably,                  no property          tax increase          has been assumed,
+and prior-year             new growth           was allocated             to a community               reinvestment           area, temporarily               limiting
+general      fund gains.           Sales tax revenues              are trending             upward,        while     utility-related          revenues         show
+mixed      patterns,         and most fee-based              revenues          remain         relatively        flat. Grant        funding         is being
+adjusted      based on availability                    and administrative               feasibility,       and some one-time                 or pass-through
+funds      are excluded            to ensure accuracy.               Overall,         current     projections           indicate         a modest      increase       in
+total revenues,            with     ongoing        refinements            expected          as more precise           data becomes             available.
+
+
+On the expenditure                 side, the focus is on major                   cost drivers,           including        personnel,          contracts,        and
+capital     needs. Proposed                 adjustments         include       a 3% cost-of-living                  increase,       a 1.5% merit          increase,
+and the addition             of several        new positions              to support         operations.         Rising       costs in contracted
+sersrices -such            as law enforcement,                municipal            court     services,         animal     control,        and public
+works-are             also key considerations,                  alongside          infrastructure           needs like pavement                    preservation
+and a significant              irrigation      system       replacement              in Canyon         Rim Park. Additional                   requests        include
+planning studiesi administrative tools, and various capital improvements, though there is a
+recommendation                 to shift      capital     expenses          to a dedicated          capital       improvement              fund. To help
+offset     rising      costs, the city is evaluating                     the strategic        use of available            fund balances,             particularly
+within      its police       precinct        account,       as a primary             mitigation        tool.    Overall,        the budget          outlook
+reflects     growing         operational           demands         balanced          with    efforts     to maintain            fiscal    responsibility,
+improve       efficiency,           and align        long-term           financial      planning        with       the city's      service      priorities.
+
+
+The council           asked Dudley             some clarifying              questions.
+Millcreek           City     Council         Meeting         Minutes                                   9 March        2026         Page 3 of 9
+
+
+
+2. Legislative             Session       Wrap-Up;            Capstone        Strategies
+Ashley        Mirabelli        and Dave          Spatafore        provided         a high-level        overview         of the recently          concluded
+session,      highlighting            both the complexity                of the process            and the need for continued                  review        due to
+significant         late-stage        amendments             and bill     consolidations.            Although        a record       number        of bills
+were introduced,              fewer      were ultimately            passed compared                 to the prior      year. A major            focus
+throughout          the session was property                   tax policy,         with    numerous          proposals        initially      aimed      at
+restricting       local      governi'nent          authority-such            as limiting           revenue      growth,       altering      new growth
+calculations,          and capping            reserves-but          most of these measures                     did not pass. Instead,             the most
+impactful         legislation         centered        on updates        to the truth-in-taxation               process,       requiring        greater
+transparency           and plaru'iing,           including       advance      public        notice,     adoption        of a preliminary             budget,
+and adherence              to reserve        requirements          when      considering           tax increases.         Clarifications          were also
+made to address prior                  technical       barriers     that had prevented                some jurisdictions             from      successfully
+implementing               tax adjustments.
+
+
+Beyond        taxation,       the session          addressed       several         other key policy            areas, including            elections,
+special     districts,       public      safety,      housing,      and economic             development.            Potentially          restrictive
+election-related            bills     largely      failed,   preserving         current      practices,        though     funding          was allocated
+for a study on mail-in                 voting      security.      Significant         passed legislation            included        amendments               to
+special     district       governance,           municipal        prosecution          authority,       wildfire      interface       codes,
+governrnent          immunity           for first responders,             and the establishment                 of new tools for housing-
+related    infrastructure             funding.        Economic          development          policy      saw a shift toward                restructuring           tax
+increment         financing         tools     and creating        new state-supported                 development           frameworks,            while
+maintaining          local     control       over community              reinvestment           areas. At the same time,                   several      notable
+bills   failed,     including         measures         related     to municipal            fee collection,         election      communications,
+charter     school         property      rights,      and governrnent              speech regulations.             Overall,      the session resulted
+in a mix      of targeted           policy      updates,      preservation          of local       authority       in key areas, and the
+introduction         of new frameworks                  to support        infrastructure           and housing,          with    further       analysis
+needed to fully             assess the final          impacts      of enacted         legislation.
+
+
+Mike      Winder       requested         a list of bills        and impacts          that affect       how Millcreek             does business            so staff
+can address them.
+
+
+4. Staff      Reports
+Winder      noted the ice skating                  season ending          that week.         Lisa Dudley            gave the council            copies        of
+the FY25        published           popular      annual      financial      report        and annual       comprehensive              financial         report.
+
+
+5. Discussion          of Agenda             Items,      Correspondence,                  and/or      Future       Agenda        Items
+There was none.
+
+
+Council       Member           DeSirant            moved       to adjourn           the work        meeting        at 6:29 p.m.            Council
+Memher         TTipi seconrled.              Mayor.Tackson               callerl     for the vote.        Connril         Memher            (:atten       vnterl
+yes, Council           Member           DeSirant         voted     yes, Council            Member         Handy         voted      yes, Council
+Member         U"          voted       es, and Ma            or Jackson            voted      es. The motion                              unanimous
+
+
+
+REGULAR              MEETING                 - 7:00 p.m.
+TIME       COMMENCED:                         7:02 p.m.
+Millcreek       City      Council         Meeting        Minutes                                       9 March      2026          Page 4 of 9
+
+
+
+1. Welcome,            Introduction           and Preliminary                 Matters
+            1.1 Pledge          of Anegiance
+            Mayor       Jackson       called       the meeting         to order       and led the pledge            of allegiance.
+
+
+            1.2 State      of Millcreek's             Youth         Address
+            Mayor       Heidi     Jackson         gave the following                address:
+             "Hello       everyone!           My name is Heidi                Jackson       and I am the Millcreek                  City,     Youth
+              Council       Mayor.         I'm     speaking        today      to not only represent              the voices         of our 25
+              membered            youth     council,        but for all of the youth               in our city and local              community.
+              Having       a voice        matters      and I want the youth                 in Millcreek          to know         theirs matters       too.
+              Our youth           council        is a diverse       group      of leaders      made up of high               school juniors           and
+              seniors      representing            5 local high schools.              These include;            The Academy             for Math,
+              Engineering,           & Science         or AMES,             Olympus         high      school,     East high        school,      Cottonwood
+              high      school,     and Skyline          high       school.       Our mission          is to teach Millcreek                youth    about
+              municipal          government,           support        them in educational               pathways,        and provide
+              opportunities           for community                service.
+
+
+              This year         we have been busy doing just that. Here's                               an overview          of what the youth
+              council      has been doing             this year. Before              the school        year started,        we supported             the
+              residents      of the Willow             Glen apartment               fire by organizing            all the donations             that were
+              received       for them.           We also helped            with     the Bike       Rodeo        event held        at James E Moss
+              Elementary,           a Title       1 school      in Millcreek.          We taught          bike and road safety                to kids by
+              helping      them go through               an obstacle           course      and understanding              road signs. After            the
+              school      year started,           we officially         got sworn          in by the City         Council,        helped      with
+              Churchill         Jr. High's         60th anniversary,              participated         in 9/11 day of service,               and
+              Welcoming            Week.         We organized           and carried          out a Halloween             costume        drive       for kids at
+              James E Moss Elementary,                       bought        and supplied            winter    cloting        for 24 families           with
+              kids in after school               programs          in Millcreek         at William          Penn, Utah International                  School,
+              and Olympus             High        School.     We did an activity               with     William        Penn Elementary's               student
+              governrnent,          and participated               in local    officials       day.
+
+
+              Attending          our states annual            local     officials      day was a highlight               for a lot of us this year
+              and in years past because                     we were able to spend the day at the State Capitol                                  then at the
+              Salt Palace with              other youth         councils       in the state to network,                learn,     take part in a mock
+              trial,    and hear from             our governor,          Governor           Cox, and other local leaders                    about how we
+              can use our voices                 and be involved            in public       policy.     This year we also heard from many
+              speakers       including           our previous         mayor        Jeff Silvistrini,         current     mayor       Cheri      Jackson,
+              experts      in the STEM              and environmental                work     force,     a mental       healtli     professional           and
+              FAFSFA            advisors       from    the University             of Utah,       our city manager            Mike      Winder,         Senator
+              Nate Bluin,          as well        as our city council             members:         Silvia     Catten,     Bev Uipi,          Tom
+              Desirant,         and Nicole         Handy.
+
+
+              We are currently              working         with     the South        Salt Lake Youth             Council         on a Teen Resource
+              Drive      to support         teens experiencing                homelessness            who are staying             at the FINCH
+              location      in South Salt Lake. Both                    of our youth           councils       care about the topic              of wanting
+              to help people          experiencing            homelessness              and we thought            it would        be a great idea to
+              work      on a project          together       to help people           in our communities,               especially          teenagers.
+Millcreek      City     Council       Meeting       Minutes                                       9 March         2026        Page 5 of 9
+
+
+
+            We have done so much                  this year and are proud                  of wliat        we have accomplished
+            including       receiving         the Best of State award                  for best youth          group     last June and a
+             Champion        of Coru'iection           and Mental           Health      in Our Community                 award      from        Project
+            Connection.
+
+
+            Before       we joined      the Youth         Council       we might          have viewed             Millcreek        as just the place
+            we lived       and went to school.             After     taking      initiative        and getting         involved      in our
+            coinmunity        we now know               how amazing             and strong         it is and how it is growing.                      We see
+            the unity      that is building         and creating            a positive      impact         on each of us. One youth
+            council      member        recently     shared that before joining,                     they didn't        think     our city leaders
+            even knew         what a high         schoolers         day looked          like.    After      building      relationships           with
+            them that feeling           has shifted.       We are so grateful                   for Cheri Jackson           and our       city
+            councilmembers             for taking        the time to listen             to us and get to la'iow             who we are. We are
+            learning      to use our voices,            and the more we practice,                    the louder          we get.
+            Now       that I have talked          about our youth              council,     I want to transition               into what the Youtli
+            in Millcreek          want to say. To truly             represent          Millcreek         youth,     instead     of making
+            assumptions,          our council       conducted          a survey         to find     out what mattered              to them.           What
+            we found        was fascinating.
+
+
+            First,    burnout,      phones       and school         schedules.          The survey          showed       that screen time              and
+            sleep deprivation           are at crisis       levels     with     most answering               they spend an average                    of 4-7
+            hours      a day on screens.          It's easy to tell a teenager                   to "put     the phone         down,"      but the data
+            shows this is tied to school                 schedules          that don't align with             our biology          and a digital
+            world       that never     sleeps.    Olympus           higli     school      has had great success with                    their    flex time
+            schedule,       allowing        shidents     around       25 minutes           of time to take tests and work                       with      their
+            teachers      during      the day instead           of before       or after school.            Positive      feedback         from
+            students      on and off youth             council,      as well     as teachers          and faculty         show us this is a good
+            use of time, helping              teachers     and bringing           grades up. This time is also being                        used for
+            different      club meetings          and activities,           so transportation             is less of an issue after school.
+            Our survey        showed          that 88% support              bringing      this to all of our high              schools.
+
+
+            Second,       safety.     While     many      responded           they feel safe in Millcreek,                  there were several
+            who answered            no to this question            regarding           immigration           and gun violence.             In a city as
+            diverse      as ours, many          of our peers fear for their                families         or their own status. In Utah,
+            Firearms       were the second             leading      cause of death among                    young      people      ages 1-17 in
+            2023.      If a portion     of our youth         don't      feel safe in our comi'nunity                     and at our schools,
+            then the "safety"          in Millcreek         isn't a finished           job yet.
+
+
+            Third,      The Great      Salt Lake.        This      environi'nental          problem          affecting     our wildlife              and air
+            quality     has not yet found          a solution.         If nothing         changes,          it is expected        to dry up in
+            around       five years.     As it dries, we will               he exposed           to toxic     airborne      chemicals           which
+            will     negatively      affect    our health         and the wildlife              around      us. We need to work                 to
+            conserve       water,     and                 it lo      -term,      to save our lake and the health                     of Millcreek
+            residents.
+
+
+            Fourth,      l'iomelessness         and affordable          housing.          We see the struggle              on our streets and
+            want to be part of the solution.                 In Utah,         22% of people              experiencing          homelessness               in
+            2022wereundertheageofl8.Noonesho                                                    vetoexperience                       essness,
+Millcreek       City     Council          Meeting        Minutes                                    9 March       2026        Page 6 of 9
+
+
+
+              especially      teenagers.            We want to be homeowners                       one day and be able to afford                    the cost
+              of Iiving      that is currently            so high.      Lowering        inflation      and creating          incentives       for
+              affordable       housing         will     help us get to a point            where      we can be able to thrive                in our city.
+              Last and most striking                  takeaway,        the youth      do not feel like they have a say in our
+              Schools,       City     and community                policies.     One solution         for this in schools             is having
+              student      panels      where        students       get to share with        teachers          and faculty      what is or is not
+              helping      them learn.         In Millcreek,           32% in our survey              said they don't feel like they have a
+              voice     as a youtli         while      28% were neutral.            This is partly           because     they feel disconnected
+              and simply          don't     la'iow      enough       about how our system               works.      We need to advance                     our
+              civics     education          for youth      and continue           to improve         on their     sense of belonging                in our
+              city. To those who want to use their voice,                            here's        a list of ways you can learn more and
+              speak out, because you do have a say, and opinions                                     that are worth          Iistening      to.
+
+
+              First,    the Millcreek          City      website      is a great way to learn about what                      is going      on in our
+              city policies         and what community                  events are taking            place.     Attending       community                events
+              helps you       engage and get to know                     more people         who also live in Millcreek.                   Millcreek
+              Common          always        has different          fun events going            on and has activities            available         like
+              roller    skating,       ice skating,        climbing,           and soon, mini        golf     and a skate park.          This is a
+              great place to be with                  friends     and make        connections.
+
+
+              Next,     reaching        out to city or state officials               through        text, call or email.         Their      information
+              is all public        and they value and want to listen                      to the youths          opinions.      Our youth           council,
+              and advisor          Kristy     Parajuli      (Julie)     also want to hear your                 concerns      and are a good
+              resource       for teens in Millcreek.                 Filling     out our annual         survey     on our social           media
+              platform       is an easy way to do this every year. Also,                             on our council,          every high school
+              represented          has a school          liaison     to relay     information,         so they can also be a resource                       to
+              70u.
+
+              So, what is the "State                  of the Youth"        in Millcreek?           We are engaged,            motivated           and filled
+              with     untapped        potential.        We are a generation              that cares about our future                  and is ready to
+              work      to make it the best it can be. Our Youth                          Council       is comt'nitted         to being      a voice             for
+              Millcreek       Youth.         We are working             to make sure that what we need for our future                                is
+              incorporated           into policy         in this room.          Because    the state of the youth              in Millcreek              isn't
+              just about today,             it's about the future              we are building         together.       Thank     you."
+
+
+            1.3 PubUc        Comment
+            Andrei      Tarassov,         Olympus         Cove Veterinary            Clinic,       expressed       concerns       regarding          his
+            recent     experience         relocating        a long-established            clinic     within     Millcreek,       emphasizing               a
+            desire to remain           in the community               due to an existing            client     base and long-term
+            investment       in the area. Despite                identifying       a suitable       vacant      commercial         property,         the
+            owner      reported       significant        challenges        navigating       city processes,            particularly        citing
+            inconsistent       cominunication               across departments,             conflicting         guidance       from      staff, and
+            delays     resulting       from unclear             or changing       requirements.         Additional          frustrations          included
+            issues with      the online         permitting          system,      such as missed          communications                and receipt          of
+            unrelated      inspection         reports.      The owner           noted that these challenges                 are not isolated,
+            referencing       feedback         from       contractors          who are hesitant        to take on projects             within       the city
+            due to similar          difficulties.        Overall,      the statement        underscores          concern       that administrative
+            inefficiencies         may hinder           local    economic         development          and calls for improved
+Millcreek           City     Council          Meeting            Minutes                                           9 March        2026         Page       7 of 9
+
+
+
+            coordination,                 clearer      communication,                     and a more         business-friendly             approach            to support
+            small      businesses             and growth               within       the city.
+
+
+2. Financial          Matters
+            2.1 Public             Hearing           to Consider                a Monetary            Contribution              of Up to $6,000                  to the
+            Canyon            Rim         Citizens        Association               for    the Canyon              Rim      Cares       Event
+            Mayor           Jackson         said the Canyon                Rim        Cares       event,      now      in its seventh          or eighth           year,     is a
+            well-established                 com+nunity             service         initiative        organized          by a local       resident         and supported
+            by a combination                   of municipal              and corporate               contributions.           Held      aru'iually        in mid-to-late
+            July,     the event            mobilizes           hundreds          of volunteers              to complete         service        projects        that benefit
+            local     and regional               organizations.             Past efforts             have     included       assembling            literacy         kits     for
+            elementary             students,           preparing         preschool              readiness      materials,        and supporting                nonprofits
+            such      as medical             clinics      and coinmunity                   centers.       The organizer           has demonstrated                     strong
+            coordination               and accountability,                  effectively            securing        additional         funding          sources         and
+            providing             clear     financial          reporting         on the use of contributed                    funds.      Overall,          the event           is
+            viewed          as a valuable              and impactful                community            program,         and continued                financial        support
+            is considered              a worthwhile               investment              in local       service      and engagement.
+
+
+Council        Member             Uipi       moved        to open          the public             hearing.         Council       Member            DeSirant
+seconded.        Mayor            Jackson            called      for     the vote.          Council         Member           Catten       voted          yes, Council
+Member         DeSirant              voted       yes, Council              Member                Handy       voted       yes, Council           Member              Uipi
+voted     yes, and          Mayor           Jackson            voted      yes. The          motion          passed       unanimously.
+
+
+            There       were       no comments.
+
+
+Council       Member              DeSirant             moved        to close         the public            hearing.         Council       Member               Uipi
+seconded.        Mayor            Jackson            called      for     the vote.          Council         Member           Catten       voted          yes, Council
+Member         DeSirant              voted       yes, Council              Member                Handy       voted       yes, Council           Member                Uipi
+voted     yes, and          Mayor           Jackson            voted     yes. The           motion          passed       unanimously
+
+
+            2.2 Discussion                 and      Consideration                   of Ordinance              26-09,      Approving             a Monetary
+            Contribution                  of Up      to $6,000 to the                 Canyon          Rim      Citizens         Association              for     the
+            Canyon           Rim       Cares         Event
+
+
+Council       Member              DeSirant             moved        to approve              Ordinance              26-09,     Approving                a Monetary
+Contribution               of Up       to $6,000          to the Canyon                    Rim     Citizens         Association          for     the Canyon                  Rim
+Cares     Event.           Council         Member              Handy        seconded.              The      Recorder         called      for     the     vote.        Council
+Member         Catten          voted        yes, Council               Member              DeSirant          voted       yes, Council           Member              Handy
+voted     yes, Council              Member              Uipi     voted      yes,          and    Mayor        Jackson         voted      yes. The           motion
+passed      unanimously.
+
+
+3. Planning          Matters
+            3.1 First         R                  of ZM-26-002                   R         uest    to Rezone           from      R-1-6     to R-1-10              at 1575           E
+            Millcreek             Way;       Carlos        Estudillo,             Planner
+            Carlos         Estudillo        presented           a rezoning            application           for a                     located      at 1575            East
+            Millcreek          Way,         currently          designated            as R-1-10           (single-family          residential).            The request
+            stems      from        prior     subdivision            amendments                   in 2021      and 2025        that     consolidated              portions            of
+            adjacent         properties-originally                       zoned        R-1-6-into              this parcel.        Under         city     code,        a single
+Millcreek           City      Council            Meeting            Minutes                                        9 March           2026        Page        8 of 9
+
+
+
+            lot must          carry        a consistent             zoning        designation;           therefore,         the application             proposes
+            rezoning              the previously              annexed         portions          from     R4-6       to R-I-10          to align         with     the primary
+            parcel.         The request                is characterized             as a technical           "clean-up"             action     required          to ensure
+            compliance               with       subdivision            and zoning              ordinances,         with      no changes           to land use, density,
+            or overall             residential           character.
+
+
+            The proposal                has undergone                 standard          review         processes,         including          a public        open house,
+            community                council           discussion,           and Plaru'iing            Commission             consideration.             Public        input
+            was minimal                and primarily                focused         on clarification              of rear yard         setback         requirements,
+            which          will     confori'n           to R-1-10         standards          and remain            consistent         with     existing         conditions.
+            No      substantive               concerns         or opposition              were     identified,           and the East Mill               Creek
+            Community                 Council            expressed         no objections.               The Planning               Commission            unanimously
+            recommended                    approval,           and staff         likewise        supports         the application,             noting        no anticipated
+            negative          impacts            and full         compliance            with     applicable         city     codes.
+
+
+4. Business          Matters
+            4.1 Parking                Ordinance               Discussion;              John      Brems,          City     Attorney           and      Jim      Hardy,
+            Building              Services         Director
+            John        Brems         said the administration,                      supported            by UPD,          requested          that parking
+            ordinances              be civil           violations        rather     than       criminal.        He then reviewed                 proposed          code
+            changes           which           listed     parking       violations,             created      a hearing         appeal        process,         authorized
+            engineering               to place          no parking           signs,      and set fine           amounts        to certain         violations.           Jim
+            Hardy          noted      bringing            enforcement              in-house        would         require      a dedicated             parking
+            enforcement                full     time      employee.
+
+
+            Staff       and the council                  discussed         specifics           to enforcement              including          fees, the parking
+            notice,         and action            to be taken            after    three      unpaid        violations.
+
+
+5. Reports
+            5.1 Mayor's                Report
+            Mayor          Jackson            highlighted            a range       of recent        activities           and ongoing           initiatives        involving
+            city    leadership,               community              engagement,               and public         services.         Staff     participated            in a
+            legislative            update         through         the Utah         League         of Cities        and Towns,           with        acknowledgment
+            given       to team         members               for their       active      involvement             in monitoring              policy      developments.
+            Additionally,               representatives                attended         discussions             related      to the Promise             100%          Initiative,
+            where          potential          partnerships            with       philanthropic             organizations            such as Blue             Meridian
+            Partners          and United                Way     are being          explored         to support            future     funding        opportunities.
+
+
+            Public         safety      and service              delivery         were      also key         areas of focus,            with     leadership            reviewing
+            perfori'nance              metrics           during      a standards            of cover        meeting         with     Unified          Fire     Authority,
+            which          confiri'ned           strong       emergency            response         times        and high-quality               service        for residents.
+            Ongoing               budget        discussions           with       both    Unified         Fire    Authority           and Unified             Police
+            Department               include            consideration            gf.future        needs,        such as funding               for a new         fire training
+            facility.
+
+
+            Community                 engagement               efforts       were       also emphasized,                 including          a successful         "Try-It-
+            Abilities         Day,"           organized           to provide          inclusive         recreational          opportunities             for individuals
+            of all abilities,              as well         as a series        of well-received                  events     recognizing           Black         History
+Mnlcreek            City         Council       Meeting         Minutes                                      9 March          2026       Page      9 of 9
+
+
+
+             Month.          These         events     were     noted     for fostering         inclusivity          and community               coru'iection,
+             with        appreciation             expressed      to staff       and organizers            for their       contributions.
+
+
+             5.2 City            Council       Member           Reports
+             Council         Member           DeSirant         noted     there       was draft      legislation           for the Community
+             Renewable              Energies         Program         being      reviewed       for municipalities               to adopt        by June 2.
+
+
+             Council         Member           Uipi     mentioned          that Millcreek            gives       $75,000       to support         the Central
+             Wasatch             Coinrnission.
+
+
+             Council         Member           Handy         noted      the Wasatch         Front        Waste      and Recycling              District     was
+             holding         a public        hearing        on fee schedule            amendments.
+
+
+             Council         Member           Catten        attended      the Change           the World           With     Her      event.
+
+
+             5.3 Staff           Reports
+             There        were      no reports.
+
+
+6. Consent           Agenda
+             6.1 Approval             of February             23, 2026         Work     Meeting          and Regular          Meeting         Minutes
+
+
+Council       Member               Uipi     moved        to approve            item    6.1. Council             Member          DeSirant          seconded.
+Mayor        Jackson             called     for     the vote.       Council          Member         Catten         voted     yes, Councn             Member
+DeSirant          voted          yes, Council          Member           Handy         voted     yes, Council              Member         Uipi      voted     yes,
+and       Mayor      Jackson              voted     yes. The        motion       passed        unanimously.
+
+
+7. New       Items         for     Subsequent           Consideration
+There      was none.
+
+
+8.    Calendar           of Upcoming                Meetings
+      *     Historic         Preservation            Commission              Mtg.,     3/12/26,         6:00 p.m.
+      *     PlanningComi'nissionMtg.,3/18/26,5:OOp.m.
+      *     City     Council          Mtg.        3/23/26     7:00      p.m.
+
+
+
+
+ADJOURNED:                       Council          Member        Uipi     moved         to adjourn           the meeting             at 8:25      p.m.      Council
+Member            DeSirant           seconded.         Mayor           Jackson        called      for    the vote.         Council       Member            Catten
+voted      yes, Council             Member            DeSirant          voted     yes, Council             Member           Handy        voted      yes, Council
+Member            Uipi     voted      yes, and         Mayor         Jackson          voted    yes. The          motion        passed         unanimously.
+
+
+
+
+                                      APPROVED:                        (,4-J-to-
+                                                                         Cheri       Jackso               yor
+                                                                                                                              Date
+                                                                                                                                         a-ilislh
+
+                                          Attest:                                      an, City         Recorder
+

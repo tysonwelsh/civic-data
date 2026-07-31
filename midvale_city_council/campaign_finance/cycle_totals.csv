@@ -1,0 +1,39 @@
+city,candidate,election_year,office,seat,raised,spent,n_filings,n_live,basis,review_flag
+midvale,Andrew Stoddard,2017,Council,4,0.0,0.0,1,1,single,
+midvale,Bryant Brown,2017,Council,4,0.0,0.0,2,2,sum-interim,
+midvale,Stephanie Johnson,2017,Council,4,0.0,0.0,1,1,single,
+midvale,Wayne L. Sharp,2017,Council,4,0.0,0.0,1,1,single,
+midvale,Dustin Gettel,2017,Council,5,0.0,0.0,2,2,sum-interim,
+midvale,Stephen Brown,2017,Council,5,0.0,0.0,2,2,sum-interim,
+midvale,Matthew Hansen,2017,Mayor,,0.0,0.0,1,1,single,
+midvale,Mont L. Millerberg,2017,Mayor,,0.0,0.0,1,1,single,
+midvale,Phil Jankovich,2017,Mayor,,0.0,0.0,1,1,single,
+midvale,Robert M. Hale,2017,Mayor,,0.0,0.0,2,2,sum-interim,
+midvale,Sophia Hawes-Tingey,2017,Mayor,,0.0,0.0,2,1,single,
+midvale,Alan C. Anderson,2019,Council,1,0.0,0.0,1,1,single,
+midvale,Quinn Sperry,2019,Council,1,0.0,0.0,2,2,sum-interim,
+midvale,Eric Chamberlain,2019,Council,2,0.0,0.0,2,2,sum-interim,
+midvale,Paul Glover,2019,Council,2,0.0,0.0,2,2,sum-interim,
+midvale,Sophia Hawes-Tingey,2019,Council,2,0.0,0.0,2,1,single,
+midvale,Bart Benson,2019,Council,3,0.0,0.0,1,1,single,
+midvale,Heidi Robinson,2019,Council,3,0.0,0.0,1,1,single,
+midvale,Bryant S. Brown,2021,Council,4,0.0,0.0,2,1,summary,
+midvale,Dustin Gettel,2021,Council,5,13883.29,11534.61,2,1,override,"OVERRIDE: per-period/mixed-scope filer — the Dec-01 Final (2021_11) re-lists contributions CUMULATIVELY (109 rows = 13883.29 = its Summary Page Column C 'Individual Monetary Contributions Total') but itemizes expenditures for the DEC PERIOD ONLY (13 rows = 5969.01 = Column B), a scope asymmetry that made the generic rule take the summary's period-only spent. Cycle = the filer's own Summary Page Column C campaign total 13883.29 / 11534.61 (interim spent 5565.60 + Dec-period spent 5969.01 = 11534.61). Page-proven on 2021_11 Summary Page. Added 2026-07-19 (typed-money vision tranche)."
+midvale,Wayne Sharp,2021,Council,5,400.0,3305.65,2,1,summary,
+midvale,Marcus Stevenson,2021,Mayor,,11273.65,11067.03,2,2,override,OVERRIDE: per-period filer (incremental) — the interim (2021_06) and the Nov-01 summary (2021_10) are DISJOINT periods (summary Schedule A donors are all-new; balances chain 0->4402.30->206.62). The Dec 'summary' is itself a period report so the max()-per-side rule undercounts. Cycle = sum of both filings = the filer's own Summary Page Column C campaign total (8249.38+3024.27 / 3847.08+7219.95 = 11273.65 / 11067.03). Page-proven on 2021_10 Summary Page Column C. Added 2026-07-19 (typed-money vision tranche).
+midvale,Robert M. Hale,2021,Mayor,,5985.96,5867.04,2,2,override,OVERRIDE: per-period filer (incremental; Dec totals 50/477.33 disjoint from Oct) — Dec 'summary' is a period report; cycle = sum of both filings (5935.96+50 / 5389.71+477.33)
+midvale,Amanda Hollingsworth,2021,Mayor,,0.0,19.34,1,1,single,
+midvale,Bonnie Billings,2023,Council,1,9893.29,6626.38,4,1,summary,
+midvale,Dustin Snow,2023,Council,1,1361.64,1361.64,4,1,summary,
+midvale,Ben Umeadi,2023,Council,1,376.04,376.04,4,4,sum-interim,
+midvale,Paul Glover,2023,Council,2,0.0,643.73,3,1,summary,
+midvale,Bart Benson,2023,Council,3,0.0,2376.68,4,1,summary,
+midvale,Heidi Robinson,2023,Council,3,1260.0,2000.8,3,1,summary,
+midvale,Evan Feinberg,2023,Council,3,1978.11,1902.0,3,1,summary,
+midvale,Bryant Brown,2025,Council,4,2332.0,2364.0,3,3,override,"OVERRIDE: per-period filer — cycle = the filer's OWN stated campaign total from the Dec-4 Final (2025_09): Column D + candidate campaign-summary appendix both print 2332.00 raised / 2364.00 spent (close -32.01). Naively summing the three reports' itemized expenditures (1809+525+455=2789) OVER-counts because the Dec-4 items partly overlap prior reporting; the generic max()-rule UNDER-counts at 2334 (interim sum, dropping the Dec-4 period). The filer's stated Column-D total is authoritative and internally consistent (2332-2364=-32.01). Page-proven on 2025_09. Added 2026-07-19 (typed-money vision tranche)."
+midvale,Rainer Lilbok,2025,Council,4,212.25,192.25,3,3,override,"OVERRIDE: per-period filer (incremental); THREE disjoint period reports (Oct-7 net-zero self-fund 188.69/188.69; Oct-28 23.56/3.56; Dec-4 0/0 zero period; balances chain 0->0->20.00->0.00); cycle = sum of all 3 (188.69+23.56+0 / 188.69+3.56+0). UPDATED 2026-07-19: the Oct-7 interim (2025_16, 188.69/188.69) was transcribed this wave; the prior override summed only the Oct-28 + Dec-4 filings and thus undercounted by that period."
+midvale,Denece Mikolash,2025,Council,5,4135.0,3460.77,3,3,override,"OVERRIDE: per-period filer (regime detector: incremental; itemization disjoint across all 3 reports) — the Dec-4 'summary'-typed filing is itself a period report, so the summary-vs-interims rule undercounts; cycle = sum of all 3 filings' stated totals (2610+1125+400 / 2677.42+383.35+400)"
+midvale,Jamie Steverson,2025,Council,5,2170.03,2170.13,3,3,override,OVERRIDE: per-period filer (incremental; disjoint itemization) — Dec-4 'summary' is a period report; cycle = sum of 3 filings (1818.10+314.37+37.56 / 1153.25+534.62+482.26)
+midvale,Dustin Gettel,2025,Mayor,,32297.13,25304.99,3,3,override,OVERRIDE: per-period filer (Mayor) — three disjoint sequential periods (Oct-7 2025_13 28192.83/12465.78; Oct-28 2025_14 3104.30/4333.71; Dec-4 2025_15 1000.00/8505.50; balances chain 0->15727.05->14497.64->6992.14). The Dec-4 'summary' is itself a period report so the generic rule dropped it. Cycle = sum of all 3 = the filer's own Summary Page Column D campaign total 32297.13 / 25304.99. Page-proven on 2025_15 Summary Page Column D. Added 2026-07-19 (typed-money vision tranche).
+midvale,David B. Fair,2025,Mayor,,1427.8,1427.8,3,3,override,"OVERRIDE: ADJUDICATED (owner-authorized 2026-07-18): the two interims are NOT column-swapped — each is correctly oriented per its own Schedule A/B headers. Oct-7 (correctly): raised 550 from 5 named donors (Stevens/Mecham/Helm/Reid/Owens), spent 877.80 (Midvale City filing fee 50 + Signs on the cheap 827.80), close -327.80. Oct-28 (correctly): raised 877.80 self-contribution (David Fair), spent 550 'Return all donations' (refund), close 0.00 — its Summary Page's Col A(thru Oct7)=550/877.80 & Col B(thru Oct28)=877.80/550 restate both periods, reconciling begin -327.80 -> close 0. The identical (550,877.80) pair on opposite sides is a real-world coincidence, not a swap. Per-period filer; Dec-4 Final is a 0/0 period. Cycle = sum of the filers' own stated per-period gross totals (550+877.80+0 / 877.80+550+0)"
+midvale,Brandee Boyer,2025,Mayor,,1327.27,1327.27,3,3,override,"OVERRIDE: per-period filer (incremental); THREE disjoint sequential period reports whose balances chain 0->19.81 (11-01 report 2025_01) ->42.33 (10-28 report 2025_02) ->0.00 (12-04 summary 2025_03); cycle = sum of all 3 filings (994.94+332.33+0 / 975.13+309.81+42.33). UPDATED 2026-07-19: the 10-28 interim (2025_02, 332.33/309.81) was transcribed in the typed-money vision tranche this wave; the prior override summed only the 11-01 + 12-04 filings and thus undercounted by that period."

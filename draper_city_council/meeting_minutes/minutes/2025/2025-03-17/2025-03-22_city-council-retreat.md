@@ -1,0 +1,294 @@
+# City Council Retreat
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1879&doc_id=546f08b8-2229-11f0-955d-005056a89546
+> Meeting date: 2025-03-22
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL RETREAT HELD ON SATURDAY, MARCH 22,
+2025, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:    Mayor Troy K. Walker, and Councilmembers Mike Green (excused at
+            1:00pm), Bryn Heather Johnson, Fred Lowry, Tasha Lowery, and
+            Marsha Vawdrey
+EXCUSED:
+STAFF:      Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+            Scott Cooley, City Engineer and Public Works Director; Rich Ferguson,
+            Chief of Police; Traci Gundersen, City Attorney; Jennifer Jastremsky,
+            Community Development Director; Malena Murray, HR Director; Rhett
+            Ogden, Parks and Recreation Director; Clint Smith, Fire Chief; Linda
+            Peterson, Communications Director; Nicole Smedley, City Recorder;
+            Jake Sorensen, Network Manager; and John Vuyk, Finance Director
+
+
+1.   Call to Order by Mayor Troy K. Walker
+
+2.   Fiscal Report
+     Finance Director John Vuyk provided an overview of fund accounting, including
+     governmental funds, proprietary funds, impact fee funds, and internal service
+     funds. Mr. Vuyk presented data on expenses, revenues, and other income
+     sources since 2015. A comparison between City staffing levels and population
+     growth was shown, along with a projection of the fund balance. Mr. Vuyk
+     responded to questions from the Council following the presentation.
+
+     Department Director Reports
+     Fire Chief Clint Smith reported on the Fire Department’s accomplishments in
+     2024 and presented goals for 2025. These goals included reducing daily
+     reliance on overtime shifts and improving the efficiency of deployable
+     resources. Chief Smith noted operational improvements associated with four-
+     handed staffing and explained a request for three additional full-time
+     equivalent (FTE) positions in the upcoming fiscal year.
+
+     In response to a question from the Council, Chief Smith stated that experience
+     had shown reliance on part-time overtime help to be unsustainable. He briefly
+     discussed National Fire Protection Association (NFPA) Standard 1710. Chief
+     Smith also reported current response times and emphasized the need for a
+                                                                          1|Page
+       Draper City Council Approved Meeting Minutes – April 22, 2025
+fire station on the west side of Draper. In response to a question from Mayor
+Walker, Chief Smith stated that the wait time for a new apparatus was at least
+four years.
+
+Human Resource Director Malena Murray provided an overview of the
+progression of the Human Resources (HR) Department, noting its evolution
+from a primarily administrative gatekeeping role to a more strategic function
+focused on organizational culture and employee engagement. Ms. Murray
+presented staffing statistics for Draper City from 2015 through 2025, as well
+as current staffing levels in surrounding cities. She reported that combined
+departmental requests for the upcoming fiscal year totaled more than 50 new
+full-time equivalent (FTE) positions and advised a best practice ratio of one HR
+FTE per 100 City employees.
+
+Ms. Murray reported improvements in HR processes and outlined her goals
+for the department. In response to questions from the Council, she stated that
+an open internship position, which had not transitioned to an FTE, would
+potentially cost less than creating a new FTE.
+
+The Council recessed for a lunch break.
+
+Police Chief Rich Ferguson presented the following goals for the Police
+Department, each accompanied by supporting objectives:
+
+   •   Goal 1: Achieve ranking as one of the lowest crime rate cities in Utah
+       among cities with populations over 50,000.
+   •   Goal 2: Respond to, mitigate, and exceed national standards for all
+       emergencies, including accidental, natural, and man-made incidents.
+   •   Goal 3: Promote employee development and establish the department
+       as a destination workplace where officers and support staff choose to
+       spend their entire careers.
+   •   Goal 4: Ensure a safe transportation environment and develop
+       strategies to maintain that safety.
+
+Chief Ferguson reported a reduction in vehicle burglaries and traffic accidents,
+along with an increase in traffic citations, noting the department’s focus on
+public education and accident prevention. He reported a 51.4% increase in
+total calls for service from 2022 to 2024, without a corresponding increase in
+officer staffing. Chief Ferguson emphasized the need to prepare the
+
+                                                                      2|Page
+     department for upcoming development at The Point, which would ultimately
+     require five additional full-time equivalent (FTE) positions.
+
+     In response to a Council question, Chief Ferguson stated that large apartment
+     complexes required a substantial amount of department resources. In
+     response to a question from Mayor Walker regarding vehicle replacement,
+     Chief Ferguson reported that the department had a solid plan in place.
+
+3.   Discussion: City Council Goals and Priorities
+     Mayor Walker stated that his primary priorities were ensuring the City
+     provided fair compensation, employed high-quality personnel, and
+     maintained adequate staffing levels to accomplish necessary work. He
+     identified capital projects as his next priority, specifically a public works facility
+     and a fire station on the west side, potentially including a police substation.
+     Mayor Walker also cited parks and trails as an additional priority. In response,
+     Chief Smith expressed support for a shared west side station serving both the
+     Fire and Police Departments.
+
+     Councilmember T. Lowery mentioned the idea of a community center and
+     emphasized the importance of community buy-in. Councilmember Vawdrey
+     expressed interest in promoting volunteerism. City Manager Mike Barker
+     discussed the value of leveraging resources through volunteer efforts and the
+     strategic use of technology. A staff member noted that the City of South Jordan
+     operated a successful combined fire and police facility.
+
+     A majority of the Council expressed support for exploring the possibility of a
+     combined fire and police facility on the west side. Mayor Walker stated that
+     determining a suitable location and cost would be the first step in that process.
+
+     City Engineer and Public Works Director Scott Cooley reported that the Public
+     Works Department had exceeded its available office and storage space. Mayor
+     Walker stated that a general obligation bond would currently be the only viable
+     funding mechanism for a new public works facility and noted that location and
+     cost would need to be determined. Mayor Walker also discussed the need for
+     water infrastructure projects and suggested the Council may need to evaluate
+     current water rates. It was noted that land within The Point development may
+     be available for a future City facility.
+
+
+
+
+                                                                                 3|Page
+Councilmember Green stated that he had emailed a list of his priorities.
+Communications Director Linda Peterson requested input from the Council
+regarding what they felt would be appropriate to include in a community-wide
+survey and what topics they would like to see addressed. She identified
+accessibility as a priority and noted that the last general community
+satisfaction survey was likely conducted in 2020. Councilmember Green
+suggested including questions to gauge community support for a bond.
+Councilmember Vawdrey emphasized the importance of careful wording in
+the survey questions.
+
+Councilmember T. Lowery identified open space and trails as a priority. City
+Manager Mike Barker discussed the ongoing maintenance responsibilities
+associated with parks and trails and asked the Council to consider the desired
+level of service in terms of personnel and equipment. Councilmember Green
+expressed the importance of protecting and maintaining a lifestyle valued by
+the community. He also noted that David Cloward, Chair of the Tree
+Committee, had previously spoken about the need for a dedicated arborist on
+staff.
+
+Mayor Walker asked the Council whether they were interested in
+commissioning a transportation study with the goal of implementing a
+transportation utility fee. Multiple Councilmembers indicated they were not in
+favor of proceeding with the study. Mayor Walker then suggested considering
+the implementation of a park fee. In response to a question from the Mayor,
+all Councilmembers expressed interest in stabilizing the property tax rate.
+
+Councilmember F. Lowry stated that additional understanding of the
+transportation utility fee was needed before making a decision. Mayor Walker
+explained that revenues from the fee would be directed specifically toward
+road maintenance. Councilmembers F. Lowry and Green expressed support
+for completing a study to determine how much revenue a transportation utility
+fee could generate.
+
+The Council discussed potential questions for an upcoming community survey.
+Communications Director Linda Peterson cautioned against survey fatigue
+and recommended narrowing the survey’s focus and drafting questions that
+would provide meaningful insights for the Council in 2025.
+
+
+
+
+                                                                     4|Page
+The Council and staff discussed landmark signage and wayfinding signage.
+Communications Director Linda Peterson noted that branding was an
+important component of the signage strategy.
+
+Community Development Director Jen Jastremsky provided an overview of
+House Bill 37 and its potential impact on Draper. Ms. Jastremsky stated that
+additional staffing was needed in her department. Staff discussed ongoing
+code enforcement challenges and the possibility of shifting code enforcement
+jurisdiction from the criminal courts to an Administrative Law Judge. The
+Council and staff also discussed short-term rentals, and staff clarified that the
+City had the option to prohibit short-term rentals if desired.
+
+Councilmember Green was excused at 1:00 pm due to military responsibilities.
+
+City Engineer and Public Works Director Scott Cooley expressed hesitation
+about including questions related to a new public works facility in a community
+survey, stating concern that residents might expect the work to be completed
+regardless of whether a new facility was constructed. Mr. Cooley discussed the
+realities of maintaining the current level of service and emphasized the
+importance of prioritizing water infrastructure projects. He noted that his
+department had implemented several measures to increase efficiency and
+stretch available funding.
+
+Mr. Cooley stated that The Point remained a significant unknown and
+referenced existing traffic challenges in the area. In response to questions
+from the Council, he identified parking as his primary current concern related
+to The Point. He affirmed that his team was working diligently to ensure high-
+quality construction at the site.
+
+Parks and Recreation Director Rhett Ogden stated that Draper was recognized
+nationally for many of its parks and recreation amenities. He emphasized that
+health, safety, and wellbeing were critical needs, and expressed the view that
+parks and recreation were not luxuries but essential components of quality of
+life. Mr. Ogden noted that, to his knowledge, Draper had more trail miles
+within its boundaries than any other city west of the Mississippi River, with the
+City owning, operating, and maintaining 128 miles of trails.
+
+Mr. Ogden reported that members of his staff had expressed concern that
+while the City continued to develop new facilities, it did not always keep pace
+
+                                                                       5|Page
+with the maintenance needs of existing infrastructure. He stated that staff
+consistently met operational demands but echoed concerns shared by other
+department heads regarding employee burnout. Mr. Ogden noted that his
+department had specific needs for the upcoming fiscal year.
+
+Mr. Barker asked Mr. Ogden to address how volunteers and outsourcing could
+possibly lighten the need for FTEs in his department. Mr. Ogden spoke of
+volunteer groups that already helped his department. He said a volunteer
+coordinator would be a valuable addition to ensure City needs were
+coordinated with volunteer availability. Responding to a question from the
+Council, Mr. Ogden said the City had implemented a Draper-resident-only
+registration period for recreation activities to ensure that residents were
+served. He said he would like to outsource mowing, and said if the City
+contracted some of the mowing, at least three FTEs and some seasonal staff
+would be available to fill other needs. Mr. Ogden added that outsourcing
+mowing made sense fiscally, and estimated the cost would be $165,000 for a
+season, which would be more than returned in staff and equipment costs.
+
+Responding to a question about a full-time arborist, Mr. Ogden said his
+department did a lot of tree work, but the tree work often had to wait until the
+end of a season when other needs slowed down. A majority of the Council
+appeared to support putting mowing out to bid.
+
+City Attorney Traci Gundersen said Draper City had two full-time employees in
+the Legal Department doing mostly civil legal work, with part-time prosecution
+services outsourced.
+
+Assistant City Manager Kellie Challburg said she requested a full-time facilities
+custodial position to service City Hall in the evenings, as well as a part-time
+emergency manager position for the next fiscal year. Ms. Challburg said she
+would also be supportive of a volunteer coordinator position. She reported the
+Town Center Station Area Plan (SAP) was submitted to Wasatch Front Regional
+Council.
+
+Network Manager Jake Sorensen said his department was made up of three
+full-time individuals. Mr. Sorensen spoke of an AI conference he recently
+attended, and said he believed AI would be a tool that could be leveraged in
+the future to help employees be more efficient and cost effective.
+
+
+                                                                       6|Page
+     Communication Director Linda Peterson said community building and
+     community engagement were the primary focuses in the Communications
+     Department. Ms. Peterson asked for feedback from the Council regarding the
+     City’s online merchandise store versus giveaways during events like Draper
+     Days. It was suggested that quality of the items would influence interest in
+     purchasing the merchandise.
+
+     Ms. Peterson asked the Council for input regarding digital signage as an asset
+     for the City. Staff commented that the Sign Code would need to be amended.
+     It was suggested that a nice digital sign could replace the clutter caused by
+     multiple banners and posters. Councilmember F. Lowry suggested placing a
+     digital sign at the Fire Department. Draper Park and Rambling Road were
+     suggested as additional location options. Mayor Walker expressed support.
+
+     Ms. Peterson said she would appreciate support for needed additional staff in
+     the Communications Department.
+
+     City Recorder Nicole Smedley reported the Passport Office was running
+     smoothly, and said the Recorder’s Office was gearing up for elections.
+
+     Councilmember Vawdrey commented that the Draper Historical Society and
+     Arts Council were not fully associated with the City, but used City facilities. She
+     said she suspected the Historical Society was probably ten years from
+     extinction, and questioned what would be done with all of the materials at the
+     museum. Councilmember Vawdrey suggested the two groups should be
+     formally brought under the umbrella of the City. The Council discussed the
+     suggestion. Councilmember Vawdrey said the Historic Preservation
+     Commission had been vibrant and active in recruiting, and perhaps
+     encroached on the Historical Society’s job. Councilmember Johnson
+     commented that the Historical Society had not been progressing. The Council
+     and staff discussed the groups and options going forward.
+
+4.   Adjournment
+     Mayor Walker thanked everyone for their participation, and adjourned the
+     meeting at 2:52 pm.
+
+
+
+
+                                                                              7|Page
+

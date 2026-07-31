@@ -1,0 +1,7 @@
+date,body_id,kind,reason,verified_date
+2024-06-20,530,other,"'Town Hall Meeting' - informal community town hall, not a minuted council business meeting",2026-07-17
+2024-07-18,530,other,"'Town Hall Meeting' - informal community town hall, not a minuted council business meeting",2026-07-17
+2024-09-17,530,other,'Town Hall Meeting - Postponed' - postponed to a date TBD; meeting did not occur (verified via notice text),2026-07-17
+2020-01-31,531,wrong_date,"PMN notice 585187 Start Date 2020-01-31 carries only the 2020-02-05 PC Regular Meeting agenda (file 570323, '02.05.2020 PC Agenda'); notice-date artifact - no separate 2020-01-31 PC meeting occurred (CivicClerk has no 01-31 event); the 2020-02-05 minutes are already in the repo (fileId 824)",2026-07-17
+2021-09-15,530,other,"PMN notice 702677 body reads 'This notice has been cancelled'; CivicClerk event labels it 'City Council Special Session - Cancelled' - meeting did not occur, no minutes exist",2026-07-17
+2023-12-18,530,other,"PMN notice 961587 body reads 'This notice has been cancelled' ('Special Session of the City Council'); meeting did not occur, no minutes exist",2026-07-17

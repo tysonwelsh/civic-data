@@ -1,0 +1,302 @@
+# Metro Township Council Meeting
+> Source: https://www.utah.gov/pmn/files/764611.pdf
+> Meeting date: 2021-05-25
+> Format: pdf-text
+
+---
+
+**Body:** Council
+**Meeting type:** Regular
+**Date:** 2021-05-25
+**Era:** Metro Township
+**Source:** pmn (Utah Public Notice, body 5809)
+**Source URL:** https://www.utah.gov/pmn/files/764611.pdf
+**PMN notice id:** 679055
+**PMN file id:** 764611
+**Format:** pdf-text
+**In-body date match:** YES
+
+---
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+THE EMIGRATION CANYON METRO TOWNSHIP COUNCIL, STATE OF UTAH,
+MET ELECTRONICALLY ON TUESDAY, MAY 25, 2021, PURSUANT TO ADJOURNMENT ON
+TUESDAY, MAY 24, 2021, AT THE HOUR OF 7:00 P.M., VIA ZOOM.COM.
+COUNCIL MEMBERS
+ELECRONICALLY PRESENT:
+
+DAVID BREMS
+GARY BOWEN
+CATHERINE HARRIS
+JENNIFER HAWKES, Deputy Mayor
+JOE SMOLKA, Mayor
+
+OTHERS IN ATTENDANCE: POLLY MCLEAN, LEGAL COUNSEL
+SHERRIE SWENSEN, METRO TOWNSHIP CLERK
+By: NICHOLE WATT, DEPUTY CLERK
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Pursuant to Utah Code Annotated 52-4-207(5) the undersigned, as Chair of the
+Emigration Canyon Metro Township Council, hereby declares that providing an anchor location
+for the electronic meetings of the Council will present a substantial risk to the health and safety
+of those who may be present at the anchor location for the following reasons:
+The Township is located in Salt Lake County and is still under a “Moderate Level of
+Transmission” alert stage for the COVID-19 pandemic; and
+The regular meeting place for the Council (the UFA Fire Station in the Canyon) does not
+have sufficient space in the meeting room to provide for the recommended physical distancing
+to keep people safe from infection.
+This written determination shall expire 30 days from today. This meeting will not have a
+physical anchor location. All attendees will connect remotely via Zoom.com
+(https://us02web.zoom.us/j/83328451408).
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Mayor Smolka, Chair, presided.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+STAFF MEETING
+The Council reviewed the following items, which it will consider at its public meeting
+to be held tonight or at a future public meeting:
+
+
+
+
+
+
+Unified Police Department (UPD) budget update
+Pinecrest and Killyons overlay
+Crosswalks
+2022 Engineering projects
+Fire and Wildland Urban Interface
+1
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+ H.B. 96 Emergency Management amendments
+ Ordinance codification
+ American Rescue Plan Funds for Unified Fire Authority (UFA)
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+PUBLIC MEETING
+Community Input
+Citizen Comment
+None.
+
+−−−−−−−−−−−−−−
+Emigration Canyon Community Council Report (ECCC)
+Bill Tobey stated the planned chipping service will proceed in the summer. The
+spring roadside clean-up was last Saturday. The next meeting will be on June 8 and Eric McCulley
+will be presenting the watershed process and ways the community council can support it.
+
+−−−−−−−−−−−−−−
+Unified Police Department (UPD)
+Officer Jake Elsasser reviewed the calls for service for April.
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA)
+Captain Michael Conn stated recruit camp has 32 individuals that will graduate
+tomorrow night. The preliminary budget for 2021-2022 has been through the vetting process and
+is moving forward through the board for final approval at the June meeting.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Council Business
+H.B. 96 Emergency Management Amendments
+Mayor Smolka, seconded by Council Member Bowen, moved to authorize the
+Mayor and Deputy Mayor to forward emergency alert requests to Jim Woodward or Clint Mecham
+at the Emergency Coordination Center. The motion passed unanimously.
+
+−−−−−−−−−−−−−−
+
+2
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+General Plan
+Kate Davies, Planner, Greater Salt Lake Municipal Services District (MSD), stated
+she is leaving the MSD and would like to provide a smooth transition to the next planner. She
+asked if the Council had a timeline in which they would like the plan done by.
+Mayor Smolka stated the Council will be working on getting another work meeting
+set up to go through the next chapter in the General Plan.
+
+−−−−−−−−−−−−−−
+Fire and wildland urban interface
+This item was continued to a future meeting.
+
+−−−−−−−−−−−−−−
+Racoon and Skunks
+Council Member Bowen stated there is an existing agreement between the
+Greater Salt Lake Municipal Services District (MSD), Salt Lake County Animal Services, and the
+USDA Wildlife Services to provide assistance with racoons and skunks that are a nuisance. When
+he gets more information, he will send it to Bill Tobey, Emigration Canyon Community Council
+and Deputy Mayor Hawkes to put in the newsletter.
+
+−−−−−−−−−−−−−−
+Legal Issues
+None.
+
+−−−−−−−−−−−−−−
+Budget Items
+Mayor Smolka stated he approved the invoice for Clerk services. He will get the
+$12,000 budget adjustment transferred to fund the chipping services.
+
+−−−−−−−−−−−−−−
+Minutes
+Council Member Bowen, seconded by Deputy Mayor Hawkes, moved to approve
+the minutes of the Emigration Canyon Metro Township Council meeting held on March 25, 2021.
+The motion passed unanimously.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+3
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+Council Member Reports
+Unified Police Department (UPD) & Salt Lake Valley Law Enforcement Service Area (SLVLESA)
+Council Member Brems stated UPD is negotiating Taylorsville City’s departure
+as well as distribution of the assets. SLVLESA wants to do a tax increase and will present it to
+the Metro Township in the future.
+
+−−−−−−−−−−−−−−
+Planning Commission
+General Plan.
+
+Council Member Brems stated the Planning Commission has been reviewing the
+
+−−−−−−−−−−−−−−
+Unified Fire Authority (UFA) & Unified Fire Service Area (UFSA)
+the budget.
+
+Council Member Bowen stated the majority of the meeting was discussions about
+
+−−−−−−−−−−−−−−
+Animal Services
+There was nothing to report.
+
+−−−−−−−−−−−−−−
+Wasatch Front Waste and Recycling District (WFWRD)
+Council Member Harris stated WFWRD continues its effort to enter into contracts
+that will clarify service and liability with residents that live on private roads. These services should
+not impact the service or fees.
+
+−−−−−−−−−−−−−−
+Watershed Plan
+Mayor Smolka stated Eric McCulley, River Restoration will be presenting a map
+and engaging with residents and those interested in volunteering. He will attend meetings if the
+Council would like him to.
+
+−−−−−−−−−−−−−−
+Website
+
+4
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+Deputy Mayor Hawkes stated she continues to update the website. She will work
+with Captain Michael Conn to update the website with information on red flag days.
+
+−−−−−−−−−−−−−−
+CodeRED
+Deputy Mayor Hawkes stated she would like to use CodeRED for general
+information like canyon events, in addition to emergencies.
+
+−−−−−−−−−−−−−−
+Restrooms
+Deputy Mayor Hawkes stated the RFP is being amended and the deadline for
+proposals will be extended by a few weeks.
+
+−−−−−−−−−−−−−−
+Greater Salt Lake Municipal Services District (MSD)
+Mayor Smolka stated the MSD is posting a job description to hire a new
+administrative assistant. He has discussed a staff meet and greet but would like to wait until the
+new administrative assistant is hired. The Council needs to take the district training which can be
+taken through the Utah Association of Special Districts.
+
+−−−−−−−−−−−−−−
+Road Maintenance
+Mayor Smolka stated he is working on getting the patch work done and on Quarter
+Mile Road. In addition, he is working with Rocky Mountain Power to correct some issues along
+the side of the road and will take them to look at Little Mountain to talk about the manholes. There
+is some cracking in some places that need to be fixed.
+
+−−−−−−−−−−−−−−
+Elections
+Mayor Smolka stated individuals running for a Council seat will need to file
+between June 1-7.
+
+−−−−−−−−−−−−−−
+Landfill Council
+
+5
+
+DATE
+
+TUESDAY
+
+MAY
+
+25, 2021
+
+Mayor Smolka stated fee waivers have been provided to Salt Lake City to dump
+garbage collected from the homeless shelter clean-ups. They are bringing in more tonnage than
+allowed, the Landfill Council is discussing how that is going to be funded and how those tonnages
+will be waived.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+Other Announcements
+Deputy Mayor Hawkes stated a list of certifications and trainings can be found on
+the Auditor’s website. She would like a contact list for departments and individuals that the Council
+works with.
+Council Member Harris stated a regular work session needs to be scheduled so
+the Council can stay on top of the different issues and projects being worked on.
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+THERE BEING NO FURTHER BUSINESS to come before the Council at this time,
+the meeting was adjourned.
+
+SHERRIE SWENSEN, METRO TOWNSHIP
+CLERK
+
+By ________________________________
+Deputy Clerk
+
+_____________________________________________________
+MAYOR, EMIGRATION CANYON METRO TOWNSHIP COUNCIL
+
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦ ♦♦♦
+
+6
+
+

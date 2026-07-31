@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "4NOV23", "name": "Richard Lane", "amount": "30", "in_kind": false},
+    {"date": "9NOV23", "name": "SELF", "amount": "5,842.98", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "27OCT23", "recipient": "Landslide Political", "purpose": "Direct Mailer", "amount": "3,495.50", "in_kind": false},
+    {"date": "8NOV23", "recipient": "AlphaGraphics", "purpose": "Candidate Card", "amount": "75.26", "in_kind": false},
+    {"date": "9OCT23", "recipient": "Campaign Partner", "purpose": "Website", "amount": "29", "in_kind": false}
+  ],
+  "total_contributions": "5,872.98",
+  "total_expenditures": "3,599.76",
+  "contributions_50_or_less": null,
+  "beginning_balance": "-2,273.22",
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/2023_adid330_conrad-campos-electionl-campaign-financial-disclosure.pdf",
+    "candidate": "Conrad Campos",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/south_salt_lake_city_council/campaign_finance/raw/2023_adid330_conrad-campos-electionl-campaign-financial-disclosure.pdf",
+    "pages": 6
+  }
+}

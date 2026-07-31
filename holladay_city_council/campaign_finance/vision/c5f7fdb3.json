@@ -1,0 +1,103 @@
+{
+  "contributions": [
+    {
+      "date": "6/2/21",
+      "name": "Douglas Ty Brewer (self)",
+      "amount": "3,205.85",
+      "in_kind": false
+    },
+    {
+      "date": "10/16/21",
+      "name": "Michael Hinckley",
+      "amount": "100.00",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": "6/2/21",
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "35.00",
+      "in_kind": false
+    },
+    {
+      "date": "8/31/21",
+      "recipient": "The City Journals",
+      "purpose": null,
+      "amount": "540.00",
+      "in_kind": false
+    },
+    {
+      "date": "6/28/21",
+      "recipient": "Godaddy.com",
+      "purpose": null,
+      "amount": "10.17",
+      "in_kind": false
+    },
+    {
+      "date": "9/2/21",
+      "recipient": "Godaddy.com",
+      "purpose": null,
+      "amount": "10.17",
+      "in_kind": false
+    },
+    {
+      "date": "9/2/21",
+      "recipient": "Wix.com",
+      "purpose": null,
+      "amount": "30.03",
+      "in_kind": false
+    },
+    {
+      "date": "9/15/21",
+      "recipient": "SL County Clerk - Elections",
+      "purpose": null,
+      "amount": "15.00",
+      "in_kind": false
+    },
+    {
+      "date": "9/23/21",
+      "recipient": "The City Journals",
+      "purpose": null,
+      "amount": "810.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/1/21",
+      "recipient": "The City Journals",
+      "purpose": null,
+      "amount": "1,792.04",
+      "in_kind": false
+    },
+    {
+      "date": "10/2/21",
+      "recipient": "Wix.com",
+      "purpose": null,
+      "amount": "60.06",
+      "in_kind": false
+    },
+    {
+      "date": "10/15/21",
+      "recipient": "Paypal.com",
+      "purpose": null,
+      "amount": "3.38",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "3,305.85",
+  "total_expenditures": "3,305.85",
+  "contributions_50_or_less": "0.00",
+  "beginning_balance": null,
+  "ending_balance": "0.00",
+  "_meta": {
+    "index_path": "raw/2021_state_brewer-oct.pdf",
+    "candidate": "D. Ty Brewer",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2021_state_brewer-oct.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

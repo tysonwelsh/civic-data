@@ -1,0 +1,454 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06142023-141
+> Meeting date: 2023-06-14
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 06142023-141 | label: Council RC Meeting 2023-06-14 | date: 2023-06-14 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06142023-141 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday June 14, 2023
+                                                             7:06 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  Natalie Pinkney
+
+SERIOUS MOMENT OF REFLECTION/
+PLEDGE OF ALLEGIANCE :                                       Clarissa Williams
+
+SERGEANT AT ARMS:                                            Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      Sharla Bynum, LeAnne Huff, Natalie Pinkney, Portia Mila,
+      Shane Siwik, Corey Thomas, and Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Jack Carruth, Police Chief
+       Terry Addison, Fire Chief
+       Dennis Pay, City Engineer
+       Crystal Makin, Finance Director
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Kelli Meranda, Promise Director
+       Lisa Forrester, Court Administrator
+       BJ Allen, IT GIS Specialist
+       Jessica Potter, Executive Assistant
+       Danielle Croyle, Public Information Officer
+       Natalie Molino, Paralegal
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Mtg—July 12th @ 7 pm
+                                             1
+South Salt Lake- Regular Council Meeting                                           June 14, 2023
+
+
+       2. CITIZEN COMMENTS/QUESTIONS.
+          Lynn Fuller, South Salt Lake Resident, shared his thoughts on the City Council and
+          their duty as Council Members.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood talked about the Juneteenth event that was held at the Central Park
+          Community Center and thanked those who attended.
+
+           She mentioned that the City Council won’t meet again until July 12th and wanted to
+           inform those who would be interested in participating in the July 4th parade that the
+           parade form entries can be found on the City’s website. Entries are due by June 30th.
+           The City will also be presenting the 85th City Anniversary logo at the parade.
+
+       4. CITY ATTORNEY COMMENTS.
+          City Attorney, Josh Collins, acknowledged Council Member William’s ‘Serious
+          Moment of Reflection’ comments on ‘Flag Day’ and thanked her for sharing a part of
+          her family’s story and thanked those who have served and are in service.
+
+      5. CITY COUNCIL COMMENTS.
+         Council Member Mila thanked Council Member Williams for her ‘Serious Moment of
+         Reflection’ comments.
+
+           Council Member Huff thanked Council Member Williams for her ‘Serious Moment of
+           Reflection’ comments.
+
+           Council Chair Bynum thanked Council Member Williams for her ‘Serious Moment of
+           Reflection’ comments. She also said that she attended the Juneteenth Festival and
+           shared how incredible it was and that it continues to grow every year. She also
+           shared how she went to the celebration of life service for a friend and a colleague
+           who was recently killed in a road rage incident about a week ago. She wanted to
+           remind everyone that saying or doing things in anger can bring serious
+           consequences.
+
+           Council Member Williams thanked Council Chair Bynum for what she shared and
+           how it’s a good reminder to be present and to take a moment to breathe when
+           needed. She also addressed resident Lynn Fuller and how the Council does their
+           best to respond to residents and noted how she relies on City staff to provide the
+           professional guidance on things that she may not be fully up to date on so she can
+           provide answers for residents. She also noted how they take a lot of criticism and
+           are called names behind the scenes but that they have and continue to do their
+           best.
+
+           Council Member Siwik said that he echoed Council Member Williams thoughts on
+           her ‘Serious Moment of Reflection’ comments.
+
+           Council Member Pinkney said that she attended the Juneteenth Festival and was
+           grateful that it continues to be a tradition in the City. She also shared her thoughts
+           on the duties of elected Council Members and how she continues to strive to do
+                                                2
+South Salt Lake- Regular Council Meeting                                           June 14, 2023
+
+
+             better.
+
+        6. INFORMATION.
+           City Engineer, Dennis Pay, provided the latest update on the City’s flood prep status
+           and sandbag disposal. Most of the threat comes from Millcreek but noted that most
+           of the lower elevation snow is gone. The basin that feeds into Millcreek doesn’t hold
+           enough to generate a flood from what’s currently there. He feels that the City is safe
+           from flooding due to snow melt but that flooding from heavy rains remains a
+           possibility. From June 16th-July 1st he also said that residents can take their sandbags
+           to the City’s Public Works and leave them. The County will have crews that will
+           come and pick them up. He said that the County has asked for the sandbags to not
+           be emptied or to be put in the City’s weekly garbage pick-up. This information can
+           be found on the City’s website and pertains to the City’s residents.
+
+ACTION ITEMS
+
+New Business
+
+    1. An Ordinance of the South Salt Lake City Council Amending Section 2.24.010 of the
+       South Salt Lake City Municipal Code to Modify the Duties and Responsibilities of the
+       South Salt Lake City’s Attorney’s Office Providing Authorization to Correct Certain
+       Obvious Technical Errors in Ordinances, Resolutions, and Codified Language.
+       City Attorney, Josh Collins, went over the staff report, a copy of which is attached and
+       incorporated by this reference, and explained how this would be to make corrections on
+       typos, grammatical mistakes, and obvious errors.
+
+        Council Member Siwik made a motion to move this as Unfinished Business to the next
+        Council Meeting.
+
+
+MOTION: Shane Siwik
+SECOND: Portia Mila
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+Public Hearing – 7:30 p.m.
+To receive public input regarding the adoption of the South Salt Lake City Budget for Fiscal
+Year July 1, 2023 to June 30, 2024 and to receive input regarding the proposed merit and cost
+of living adjustment increases for the Mayor and the proposed cost of living adjustment
+increases for the City Council Members and Council Chair.
+                                                3
+South Salt Lake- Regular Council Meeting                                          June 14, 2023
+
+
+Finance Director, Crystal Makin, gave a summary of the proposed budget that has been talked
+about and reviewed since the April 26th Council Work Meeting. Any questions that the Council
+has had have been answered in the Work Meetings since that date. The final tentative budget, a
+copy of which is attached and incorporated by this reference, is up for consideration tonight.
+
+She also explained that the Certified Tax Rates for the General and Public Safety Services
+Purposes of the City are included as part of the Tentative Budget tonight and will be voted on
+tonight as well.
+
+The Public Hearing was opened at 7:34 p.m.
+
+No public comment was made.
+
+The Public Hearing was closed at 7:34 p.m.
+
+The City Council chose to take final action on the matter by adopting each Fund Budget
+separately by Ordinance. A copy of each Ordinance is attached and incorporated by this
+reference.
+
+    1. An Ordinance Of The South Salt Lake City Council To Adopt The General Fund Budget
+       For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30, 2024, Which
+       Fund Includes A Merit And Cost Of Living Adjustment Increase For The Mayor And A
+       Cost Of Living Adjustment Increase For The City Council.
+
+        Council Member Mila made a motion to pass this Ordinance.
+
+MOTION: Portia Mila
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    2. An Ordinance Of The South Salt Lake City Council To Adopt The Public Safety Service
+       Special Revenue Fund Budget For The City Of South Salt Lake Fiscal Year July 1, 2023,
+       Through June 30, 2024.
+
+        Council Member Huff made a motion to pass this Ordinance.
+
+MOTION: LeAnne Huff
+SECOND: Corey Thomas
+
+
+                                                4
+South Salt Lake- Regular Council Meeting                                        June 14, 2023
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    3. An Ordinance Of The South Salt Lake City Council To Adopt The Lease Debt Fund
+       Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30, 2024.
+
+        Council Member Thomas made a motion to pass this Ordinance.
+
+MOTION: Corey Thomas
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    4. An Ordinance Of The South Salt Lake City Council To Adopt The Capital Improvements
+       Fund Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30,
+       2024.
+
+        Council Chair Bynum made a motion to pass this Ordinance.
+
+MOTION: Sharla Bynum
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+
+
+                                              5
+South Salt Lake- Regular Council Meeting                                        June 14, 2023
+
+
+    5. An Ordinance Of The South Salt Lake City Council To Adopt The Water Utility Fund
+       Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30, 2024.
+
+        Council Member Williams made a motion to pass this Ordinance.
+
+MOTION: Clarissa Williams
+SECOND: Shane Siwik
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    6. An Ordinance Of The South Salt Lake City Council To Adopt The Wastewater Utility
+       Fund Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30,
+       2024.
+
+        Council Member Siwik made a motion to pass this Ordinance.
+
+MOTION: Shane Siwik
+SECOND: Portia Mila
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    7. An Ordinance Of The South Salt Lake City Council To Adopt The Solid Waste Fund
+       Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30, 2024.
+
+        Council Member Mila made a motion to pass this Ordinance.
+
+MOTION: Portia Mila
+SECOND: LeAnne Huff
+
+Roll Call Vote:
+Bynum:          Yes
+Huff:           Yes
+                                              6
+South Salt Lake- Regular Council Meeting                                       June 14, 2023
+
+
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    8. An Ordinance Of The South Salt Lake City Council To Adopt The Stormwater Utility
+       Fund Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30,
+       2024.
+
+        Council Member Huff made a motion to pass this Ordinance.
+
+MOTION: LeAnne Huff
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    9. An Ordinance Of The South Salt Lake City Council To Adopt The Insurance Reserve
+       Fund Budget For The City Of South Salt Lake Fiscal Year July 1, 2023, Through June 30,
+       2024.
+
+        Council Member Thomas made a motion to pass this Ordinance.
+
+MOTION: Corey Thomas
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+
+
+                                              7
+South Salt Lake- Regular Council Meeting                                      June 14, 2023
+
+
+    10. An Ordinance Of The South Salt Lake City Council Adopting A Final Tax Rate For The
+        General Purposes Of The City.
+
+        Council Chair Bynum made a motion to pass this Ordinance.
+
+MOTION: Sharla Bynum
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    11. An Ordinance Of The South Salt Lake City Council Adopting A Final Tax Rate For The
+        Public Safety Services Purposes Of The City.
+
+        Council Member Williams made a motion to pass this Ordinance.
+
+MOTION: Clarissa Williams
+SECOND: Shane Siwik
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+
+
+                                              8
+South Salt Lake- Regular Council Meeting                               June 14, 2023
+
+
+
+       Council Member Mila made a motion to Adjourn.
+
+
+MOTION: Portia Mila
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mila:          Yes
+Pinkney:       Yes
+Siwik:         Yes
+Thomas:        Yes
+Williams:      Yes
+
+
+
+
+       The meeting adjourned at 7:41 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            9

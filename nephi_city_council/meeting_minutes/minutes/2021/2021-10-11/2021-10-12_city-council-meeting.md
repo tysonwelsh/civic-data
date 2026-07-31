@@ -1,0 +1,23 @@
+# Nephi City Council Work Session — 2021-10-12
+> Source: https://www.utah.gov/pmn/files/789517.docx
+> Meeting date: 2021-10-12
+> Format: text
+
+---
+
+
+Nephi City
+ Work Session Minutes
+October 12, 2021
+7:00 p.m.
+Nephi City Council Chambers
+	
+
+
+	•	The council travelled to the airport and toured the newly remodeled pilot’s lounge.
+
+	•	 The council travelled to the new Public Works Building and toured the building
+
+	•	The council discussed the employee residency policy and miscellaneous topics.  
+
+Present:  Mayor Glade R. Nielsen, Councilor Larry Ostler, Councilor Justin Seely, Councilor Kent Jones, Councilor Skip Worwood,  Councilor Nathan Memmott, City Administrator Seth Atkinson,  JD Parady, Nyle Robison

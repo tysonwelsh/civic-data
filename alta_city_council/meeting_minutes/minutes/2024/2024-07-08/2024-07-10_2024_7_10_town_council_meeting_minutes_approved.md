@@ -1,0 +1,262 @@
+---
+title: Alta Town Council — Regular Meeting 2024-07-10
+date: 2024-07-10
+meeting_type: regular
+body: Council
+source: pmn
+source_url: https://www.utah.gov/pmn/files/1159603.pdf
+source_file: 2024-7-10 Town Council Meeting Minutes APPROVED.pdf
+pmn_file_id: 1159603
+format: ocr
+---
+
+MINUTES .
+ALTA TOWN COUNCIL MEETING -
+Wednesday, July 10, 2024, 4:00 PM
+Alta Community Center, 10351 E. Highway 210, Alta, Utah a
+ALTA TOWN COUNCIL MEETING
+PRESENT: Mayor Roger Bourke
+Councilmember Carolyn Anctil (attended virtually) :
+Councilmember John Byrne
+Councilmember Elise Morgan
+, Councilmember Dan Schilling
+STAFF PRESENT: Chris Cawley, Town Manager
+Mike Morey, Town Marshal
+Jen Clancy, Town Clerk (attended virtually)
+Molly Austin, Deputy Town Clerk :
+Craig Heimark, Treasurer _ :
+ALSO PRESENT: Polly McLean, Legal Counsel
+John Guldner, Cottonwood Lands Advisory (attended virtually)
+NOT PRESENT: |
+1. CALL THE MEETING TO ORDER
+00:00:00 )
+Mayor Bourke called the July 10", 2024 Alta Town Council meeting to order.
+2. CITIZEN INPUT
+00:00:30 .
+Dan Leifson, a firefighter with Unified Fire Authority, introduced himself and provided an update on
+fire restrictions. Leifson reported that the state had moved into stage 1 of stage 2 fire restrictions.
+These restrictions mean no fires would be allowed in unincorporated areas except in improved
+campgrounds or picnic areas. Residential fires are permitted if contained in a permanently constructed
+fire pit with a water source, and not left unattended. Smoking is prohibited outside of designated
+areas, and activities like grinding and welding were restricted in vegetated areas. Leifson noted that
+while these changes do not directly affect the Town of Alta, they would apply to surrounding
+. unincorporated lands. Leifson also mentioned that if fire danger increased, the restrictions might
+increase. Mayor Bourke acknowledged the relevance of the restrictions for protecting the town from
+fires started elsewhere, given its location in a box canyon.
+Alta Town Council Meeting
+July 10, 2024 1 |
+
+Polly McLean suggested that the town could adopt an ordinance to align with the county’s restrictions
+if needed. Although such a decision could not be made immediately due to its absence from the
+current agenda, the town could hold a special meeting or address it in the following month’s meeting if
+the fire danger level increased. McLean also mentioned the importance of monitoring any updates
+from the Forest Service, as there was significant Forest Service land in the area.
+Margaret Bourke said she was very pleased to have read in the consent agenda that the town would be
+getting a new website.
+3. SNOWBIRD UPDATE, DAVE FIELDS
+00:04:50
+Dave Fields, President and General Manager of Snowbird, provided an update on recent and upcoming
+changes related to SR 210 and parking in and around Snowbird. Fields presented a map highlighting
+several areas impacted by these changes. Fields noted that Snowbird had implemented new no-
+} parking zones along the north side of SR 210, including in front of Snowbird, below entry one, and
+above entry four. Utah Department of Transportation (UDOT) planned to install cantilever signs this
+summer to improve visibility and durability. On the south side of the highway, in the green-highlighted
+areas between entry one and entry four, Snowbird intended to work with UDOT to widen the
+shoulders to enhance pedestrian safety. Fields also mentioned they would be using snow cats to create
+access paths from the highway to the village, which aimed to reduce pedestrian traffic along the
+roadway. Fields stated that chip seal was also applied to the Bypass Road and entry two to improve
+traffic flow during inclement weather.
+Fields highlighted the challenges associated with managing parking areas affected by avalanche
+conditions, particularly the superior lot and the green areas along the road. These areas, representing
+about 400 of Snowbird’s 2,500 parking spots, are managed based on real-time avalanche safety
+assessments and weather conditions making them difficult to include in a reservation system. Fields
+expressed concerns about adopting similar parking reservation systems as those implemented at Alta,
+Solitude, and Brighton due to the complex nature of Snowbird’s parking areas and the risk of increased
+congestion if reservations were not managed effectively, Fields emphasized the potential inefficiencies
+and complications, particularly if reservations had to be canceled due to safety issues.
+, Fields mentioned that Snowbird would not park the north side of SR 210 during Oktoberfest and was
+still deciding on parking arrangements above entry four, depending on ongoing construction and road
+closures.
+Dan Schilling expressed satisfaction with the safety improvements at Snowbird, specifically the green
+shoulder widening and cat tracks. Schilling praised these measures for enhancing safety and
+appreciated the no-parking zones on the north side of SR 210. Fields mentioned that Jake Brown from
+- UDOT was working on the safety improvements, including the implementation of no-parking signs.
+Fields noted that while these changes would not be in place by the start of the season, efforts would
+continue to prepare for their eventual use. Elise Morgan noted that not parking on the north side of SR
+210 during Oktoberfest would likely improve access for emergency vehicles. Fields confirmed they are ;
+pushing for the installation of no-parking signs by August 10.
+Alta Town Council Meeting :
+July 10, 2024 2 !
+
+John Byrne raised concerns about parking on both sides of the road around the Bypass Road loop,
+especially near the firehouse. Fields clarified that parking would be restricted on the right side of the
+bypass road, and efforts would be made to address parking issues near the bridge. Fields
+acknowledged challenges with parking near the bridge and mentioned that a little triangle area had
+been problematic. Fields indicated plans to manage this better, Morgan inquired about ongoing
+projects at Snowbird. Fields explained that they were remodeling the parking structure, replacing the
+Wilbur chairlift with a fixed-grip quad, and working on the mid-Gad restaurant replacement.
+. Fields also provided an update on the UTA 953 replacement, noting that it was out to bid and would
+likely involve a private vendor for van service. Fields expressed support for this development as it
+would benefit Snowbird’s employees and guests.
+Mayor Bourke suggested Fields attend future meetings and appreciated the updates. :
+4, UTAH DEPARTMENT OF TRANSPORTATION UPDATE ON THE SUPERIOR MOUNTAIN REMOTE
+| AVALANCHE CONTROL SYSTEMS (RACS) PROJECT, STEVEN CLARK
+00:21:05
+Steven Clark, UDOT's Avalanche Program Manager, provided an update on the avalanche mitigation
+project in the canyon. Clark highlighted that the project aimed to replace the use of military artillery
+with more modern systems to enhance safety and reduce overhead fire. Specifically, the project would
+replace 90% of the overhead fire with Wyssen towers, installing 16 towers in total—14 on Mount
+Superior and 2 replacing unreliable O’bellx systems. Clark reported that construction began on July 8 ;
+and was expected to continue until October. Clark said the project involved significant public outreach,
+including signage and notifications to local businesses to minimize disruptions to critical summer
+events. Clark noted a challenge with the project's logistics due to the unavailability of a smaller
+helicopter, which would likely extend the project's duration. The construction area on Mount Superior
+was closed to the public starting July 7, with high traffic observed before the closure. Clark also |
+mentioned ongoing issues with maintenance of the rapid Gazex exploders, highlighting a recent ,
+malfunction that required additional work during the closure. Clark acknowledged that maintaining
+such equipment across a large area would be challenging and would necessitate more closures and
+helicopter time. Clark concluded by offering to provide further updates and encouraged individuals to
+contact Clark or the communications team for more information.
+Clark confirmed that the Peruvian Ridge Howitzer on Mount Superior would be retired once the
+Wyssen towers are fully operational. However, the Howitzer at Snowbird would remain in use for the
+foreseeable future. Clark noted that artillery programs might have only about ten years of ammunition
+left before facing significant cost increases for new supplies. Byrne asked whether the new Wyssen
+towers would help keep the mainline open during storms. Clark responded that the towers would likely ;
+improve operational efficiency and reduce the duration of closures, though Clark did not anticipate a
+drastic change. Clark said the Wyssen towers are highly effective, but some closures will still be
+necessary for worker safety. Dan Schilling inquired about the effectiveness of Wyssen towers
+compared to artillery, given that artillery offers more flexibility. Clark assured the council that Wyssen :
+towers are very effective. Clark also noted the reload frequency for Wyssen towers, noting a mid-
+Alta Town Council Meeting |
+July 10, 2024 3
+
+season reload might not be necessary under average winter conditions. Clark said each tower holds 12
+
+shots, and while adjustments might be needed as they gain experience, the current setup should
+
+suffice. Morgan asked if malfunctioning Gazex systems might be replaced with Wyssen towers, to
+
+which Clark responded that replacing equipment with Wyssen towers is a significant investment, and
+
+UDOT plans to maintain existing systems as long as possible. Clark estimated the cost of a Wyssen
+
+tower to be around $120,000 for the equipment, with total installation costs approaching $180,000
+
+due to challenges such as helicopter access. Byrne noted that helicopter flight paths this year have
+
+improved, with less flights over Alta compared to last year.
+
+Mike Morey inquired about the radar system used for avalanche detection, which continuously
+
+monitors Mount Superior and can detect people in the area. Clark acknowledged the radar’s high cost
+
+and highlighted its effectiveness, especially in adverse weather conditions where other radar systems ,
+fall short.
+
+Carolyn Anctil thanked UDOT for their efforts to mitigate noise. disturbance and their sensitivity to
+affected residents. Morgan suggested having Clark return for an update at either the September or
+
+October meeting.
+
+5. ALTA SKI AREA UPDATE, MIKE MAUGHAN
+
+00:40:55
+
+Mike Maughan provided an update on various summer projects and activities in the town of Alta.
+
+Maughan reported the summer road and campground were open, though a water leak issue has ,
+delayed the availability of water at the campground. This is expected to be resolved by the end of the
+
+week or early the following week. Maughan reported the Sugarloaf patrol building project is
+
+progressing with cement poured for footings and foundation walls scheduled to be completed soon.
+Additionally, work has begun on the High Traverse project and they are expecting to start work on the
+entrance to the Ballroom Traverse soon.
+
+Maughan said the installation of two new conveyors at the Albion Base is pending final approvals from
+
+the Forest Service, with work likely to commence in August. On the employment front, Maughan said
+
+Scott Chaplin, the manager of the Watson Shelter will not be returning next year and interested
+
+candidates should apply through Alta's website.
+
+Maughan responded to specific questions about the Supreme Lift. Maughan said the aluminum
+
+sheeting for attaching the chair pads had cracked, but is being replaced. All other components of the
+
+lift have been inspected and will be fine for the upcoming season. Long-term solutions, such as a
+
+straight lift alignment or addition of an angle station and modifications to the comfort chair, are being
+
+explored with Poma, and a plan is expected within the next month,
+
+Maughan explained that the dirt being hauled up the summer road is for several projects. Some of the
+
+dirt is used to improve the connection from the top of Sunnyside down to the Alf's area by detuning a
+
+sharp berm near the Catherine's Trailhead. Dirt is also being used to smooth a steep corner at the end
+
+of the Sleepy Hollow cat track. This work should be completed within two weeks, after which dirt
+Alta Town Council Meeting
+July 10, 2024 4
+
+hauling will stop. A separate snowmaking utility project is planned for September, but efforts are being
+, made to minimize traffic disruption during the peak summer period.
+6. QUESTIONS REGARDING DEPARTMENTAL REPORTS
+* 00:47:30 .
+Mayor Bourke said traffic citation are increasing and asked Morey to address. Morey explained that
+traffic in the winter is self-regulating since there are more cars on the road versus in the summer when
+it’s quieter.
+7. APPROVAL OF CONSENT AGENDA: JUNE 20, 2024, MEETING MINUTES, STAFF AND FINANCE
+REPORTS
+00:50:30
+Mayor Bourke |
+" MOTION: Elise Morgan motioned to approve the consent agenda including the June 20, 2024
+town council meeting minutes, and staff and finance reports. Dan Schilling seconded.
+VOTE: All were in favor. The June 20, 2024 meeting minutes, and staff and finance reports
+were approved.
+RESULT: APPROVED
+8. MAYORS REPORT } |
+00:55:00
+Mayor Bourke noted that there was no astronomy report last month due to a crowded agenda, but this
+month would include a double report. Mayor Bourke recounted a recent tabletop emergency ,
+preparedness exercise and shared information about a planetary defense community exercise
+involving a potentially hazardous asteroid. Mayor Bourke explained that while redirecting such an
+asteroid is a potential solution, the likelihood of such an impact is low, as Earth is continuously hit by
+smaller space materials.
+Mayor Bourke then reported that Chris Otto, previously in the town office, took a senior management
+role in Salt Lake County's Parks and Recreation and that Molly Austin would be moving into the
+position of Assistant Town Manager. Mayor Bourke also noted that Bekee Hotze, the Forest Service
+District Ranger, was moving to a higher position in the Teton National Forest. Both individuals were
+noted to have a positive regard for the town, and an event was planned to say farewell to Bekee. ,
+Mayor Bourke also announced an upcoming event on July 18 where mayors from the Salt Lake Valley
+would visit Alta. Mayor Bourke aimed to highlight the town's natural beauty.
+Next council meeting would be Wednesday, August 14, 2024, .
+- Alta Town Council Meeting
+July 10, 2024 5 !
+
+9. NEW BUSINESS
+01:04:50
+Elise Morgan thanked the town staff for setting up the town park.
+10. DISCUSSION AND POSSIBLE ACTION TO COMMENCE A CLOSED MEETING TO DISCUSS A
+MATTER AUTHORIZED BY UTAH CODE SECTION 52-4-205(1)(d)
+01:05:40
+MOTION: Elise Morgan motioned to commence a closed meeting to discuss a matter
+authorized by Utah code section 52-4-205(1)(d). Dan Schilling seconded.
+ROLL CALL VOTE: John Byrne — yes, Carolyn Anctil — yes, Mayor Bourke — yes, Elise Morgan —
+yes, Dan Schilling — yes, a closed meeting was unanimously approved.
+RESULT: APPROVED
+CLOSED MEETING COMMENCES AND THEN ADJOURNS
+(Carolyn Anctil left the meeting)
+THE MAYOR REOPENS THE REGULAR TOWN COUNCIL MEETING (second recording)
+MOTION TO ADJOURN
+Mayor Bourke called the meeting back to order
+MOTION: John Byrne motioned to adjourn, and Dan Schilling seconded.
+VOTE: Allin favor. The meeting was unanimously adjourned.
+RESULT: APPROVED
+Passed this 14" day of August, 2024
+04
+J ncy, Town Cler
+Alta Town Council Meeting
+July 10, 2024 6

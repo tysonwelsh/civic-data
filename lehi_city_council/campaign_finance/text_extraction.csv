@@ -1,0 +1,135 @@
+path,stem,format,extraction_method,chars
+raw/2019/201908_Ammon-Crossette.pdf,201908_Ammon-Crossette,scanned,tesseract OCR (pdftoppm 300dpi),753
+raw/2019/201908_Cody-Black.pdf,201908_Cody-Black,text,pdftotext -layout,2344
+raw/2019/201910_Cody-Black-Amended.pdf,201910_Cody-Black-Amended,text,pdftotext -layout,2992
+raw/2019/202004_Cody-Black-6.pdf,202004_Cody-Black-6,scanned,tesseract OCR (pdftoppm 300dpi),1001
+raw/2019/201908_Henry-Rudolph-Kneitz-III.pdf,201908_Henry-Rudolph-Kneitz-III,scanned,tesseract OCR (pdftoppm 300dpi),1687
+raw/2019/201908_Jason-Oviatt.pdf,201908_Jason-Oviatt,scanned,tesseract OCR (pdftoppm 300dpi),1030
+raw/2019/201908_Johnny-Revill.pdf,201908_Johnny-Revill,scanned,tesseract OCR (pdftoppm 300dpi),1763
+raw/2019/201910_Johnny-Revill.pdf,201910_Johnny-Revill,text,pdftotext -layout,5721
+raw/2019/201908_Jonathan-Willis.pdf,201908_Jonathan-Willis,text,pdftotext -layout,1946
+raw/2019/201908_Katie-Koivisto.pdf,201908_Katie-Koivisto,scanned,tesseract OCR (pdftoppm 300dpi),2205
+raw/2019/201910_Katie-Koivisto.pdf,201910_Katie-Koivisto,text,pdftotext -layout,4119
+raw/2019/202005_Katie-Koivisto.pdf,202005_Katie-Koivisto,text,pdftotext -layout,453
+raw/2019/201908_Matthew-Wynn-Hemmert.pdf,201908_Matthew-Wynn-Hemmert,scanned,tesseract OCR (pdftoppm 300dpi),2672
+raw/2019/201910_Matt-Hemmert.pdf,201910_Matt-Hemmert,text,pdftotext -layout,12149
+raw/2019/202004_Matt-Hemmert-3.pdf,202004_Matt-Hemmert-3,scanned,tesseract OCR (pdftoppm 300dpi),5196
+raw/2019/201908_Michelle-Miles-1.pdf,201908_Michelle-Miles-1,scanned,tesseract OCR (pdftoppm 300dpi),1464
+raw/2019/201908_Mike-V.-Southwick.pdf,201908_Mike-V.-Southwick,scanned,tesseract OCR (pdftoppm 300dpi),1215
+raw/2019/201910_Mike-Southwick.pdf,201910_Mike-Southwick,scanned,tesseract OCR (pdftoppm 300dpi),2219
+raw/2019/202004_Mike-Southwick-4.pdf,202004_Mike-Southwick-4,scanned,tesseract OCR (pdftoppm 300dpi),382
+raw/2019/201908_Montane-Hamilton.pdf,201908_Montane-Hamilton,scanned,tesseract OCR (pdftoppm 300dpi),1548
+raw/2019/201909_Montane-Hamilton-2.pdf,201909_Montane-Hamilton-2,text,pdftotext -layout,3394
+raw/2019/201908_Paige-Albrecht.pdf,201908_Paige-Albrecht,scanned,tesseract OCR (pdftoppm 300dpi),3163
+raw/2019/201910_Paige-Albrecht.pdf,201910_Paige-Albrecht,scanned,tesseract OCR (pdftoppm 300dpi),2739
+raw/2019/202004_Paige-Albrecht-5.pdf,202004_Paige-Albrecht-5,scanned,tesseract OCR (pdftoppm 300dpi),7540
+raw/2019/201908_Steven-Werner.pdf,201908_Steven-Werner,scanned,tesseract OCR (pdftoppm 300dpi),1426
+raw/2019/201908_Tahnee-Hamilton.pdf,201908_Tahnee-Hamilton,scanned,tesseract OCR (pdftoppm 300dpi),1646
+raw/2019/201909_Tahnee-Hamilton-2.pdf,201909_Tahnee-Hamilton-2,scanned,tesseract OCR (pdftoppm 300dpi),2007
+raw/2021/202110_Aaron-Bullen-Revised.pdf,202110_Aaron-Bullen-Revised,text,pdftotext -layout,1854
+raw/2021/202112_Aaron-Bullen-Final.pdf,202112_Aaron-Bullen-Final,text,pdftotext -layout,2095
+raw/2021/202111_Cami-Purtschert.pdf,202111_Cami-Purtschert,scanned,tesseract OCR (pdftoppm 300dpi),2137
+raw/2021/202112_Cami-Purtschert-Final.pdf,202112_Cami-Purtschert-Final,scanned,tesseract OCR (pdftoppm 300dpi),1056
+raw/2021/202110_Chris-Condie.pdf,202110_Chris-Condie,text,pdftotext -layout,7104
+raw/2021/202112_Chris-Condie-Final.pdf,202112_Chris-Condie-Final,text,pdftotext -layout,7663
+raw/2021/202112_Ethan-Erickson-Final.pdf,202112_Ethan-Erickson-Final,text,pdftotext -layout,1376
+raw/2021/202110_Ethan-Erikson.pdf,202110_Ethan-Erikson,text,pdftotext -layout,2327
+raw/2021/202110_Jesse-Riddle-Revised.pdf,202110_Jesse-Riddle-Revised,text,pdftotext -layout,4521
+raw/2021/202112_Jess-R-FINAL-Disclosure.pdf,202112_Jess-R-FINAL-Disclosure,text,pdftotext -layout,4843
+raw/2021/202110_Lori-Le.pdf,202110_Lori-Le,text,pdftotext -layout,4577
+raw/2021/202112_Lori-Le-Final.pdf,202112_Lori-Le-Final,scanned,tesseract OCR (pdftoppm 300dpi),1005
+raw/2021/202110_Mark-Johnson.pdf,202110_Mark-Johnson,scanned,tesseract OCR (pdftoppm 300dpi),4961
+raw/2021/202112_Mark-Johnson-Final.pdf,202112_Mark-Johnson-Final,scanned,tesseract OCR (pdftoppm 300dpi),4772
+raw/2021/202110_Michelle-Miles.pdf,202110_Michelle-Miles,scanned,tesseract OCR (pdftoppm 300dpi),2943
+raw/2021/202112_Michelle-Miles1.pdf,202112_Michelle-Miles1,scanned,tesseract OCR (pdftoppm 300dpi),1403
+raw/2021/202110_MontaneHamilton_FinancialDisclosure.pdf,202110_MontaneHamilton_FinancialDisclosure,text,pdftotext -layout,1237
+raw/2021/202110_Nicole-Kunze.pdf,202110_Nicole-Kunze,scanned,tesseract OCR (pdftoppm 300dpi),1994
+raw/2021/202110_Paul-Hancock.pdf,202110_Paul-Hancock,scanned,tesseract OCR (pdftoppm 300dpi),3421
+raw/2021/202112_Paul-Hancock.pdf,202112_Paul-Hancock,scanned,tesseract OCR (pdftoppm 300dpi),2533
+raw/2023/202308_Brent-Summers.pdf,202308_Brent-Summers,text,pdftotext -layout,2600
+raw/2023/202308_Campaign_Finance_Aug282023_Brent_Summers.pdf,202308_Campaign_Finance_Aug282023_Brent_Summers,text,pdftotext -layout,2741
+raw/2023/202308_Astill_Lehi-campaign-finance-report_2023.08.29.pdf,202308_Astill_Lehi-campaign-finance-report_2023.08.29,text,pdftotext -layout,4177
+raw/2023/202308_Corey-Astill-amended.pdf,202308_Corey-Astill-amended,text,pdftotext -layout,3828
+raw/2023/202308_2023-08-28-Sousa-Campaign-Finance-Report.pdf,202308_2023-08-28-Sousa-Campaign-Finance-Report,text,pdftotext -layout,4042
+raw/2023/202308_Heather-Newall.pdf,202308_Heather-Newall,text,pdftotext -layout,7126
+raw/2023/202308_newall-campaign-disclosure2.pdf,202308_newall-campaign-disclosure2,text,pdftotext -layout,8451
+raw/2023/202310_newall-campaign-disclosure3.pdf,202310_newall-campaign-disclosure3,text,pdftotext -layout,8911
+raw/2023/202311_Heather-Newall.pdf,202311_Heather-Newall,text,pdftotext -layout,9600
+raw/2023/202308_Charlie.pdf,202308_Charlie,text,pdftotext -layout,2855
+raw/2023/202308_Ieli-Charlie-Tautuaa.pdf,202308_Ieli-Charlie-Tautuaa,text,pdftotext -layout,2852
+raw/2023/202310_Charlie.pdf,202310_Charlie,text,pdftotext -layout,2844
+raw/2023/202308_Campaign-Finance-Disclosure-2023-v2_Jason-Harris_8.29.2023.pdf,202308_Campaign-Finance-Disclosure-2023-v2_Jason-Harris_8.29.2023,text,pdftotext -layout,1449
+raw/2023/202308_Jason-Harris.pdf,202308_Jason-Harris,text,pdftotext -layout,2638
+raw/2023/202308_Jason-Hill-Finance-Disclosure-2023-08-05.pdf,202308_Jason-Hill-Finance-Disclosure-2023-08-05,scanned,tesseract OCR (pdftoppm 300dpi),1679
+raw/2023/202308_Jason-Hill-Finance-Disclosure-2023-08-25.pdf,202308_Jason-Hill-Finance-Disclosure-2023-08-25,scanned,tesseract OCR (pdftoppm 300dpi),920
+raw/2023/202308_Jeremy-Baker.pdf,202308_Jeremy-Baker,text,pdftotext -layout,3780
+raw/2023/202308_Jeremy-K-Baker.pdf,202308_Jeremy-K-Baker,text,pdftotext -layout,4287
+raw/2023/202310_Jeremy-Baker.pdf,202310_Jeremy-Baker,text,pdftotext -layout,3645
+raw/2023/202308_K.-Casey-Glade.pdf,202308_K.-Casey-Glade,text,pdftotext -layout,2532
+raw/2023/202308_Kenneth-Roberts-1.pdf,202308_Kenneth-Roberts-1,scanned,tesseract OCR (pdftoppm 300dpi),1475
+raw/2023/202308_Kenneth-Roberts.pdf,202308_Kenneth-Roberts,scanned,tesseract OCR (pdftoppm 300dpi),1558
+raw/2023/202309_Kenneth-Roberts-Amended.pdf,202309_Kenneth-Roberts-Amended,text,pdftotext -layout,66
+raw/2023/202310_Ken-Roberts-campaign-finance-report-October-24.pdf,202310_Ken-Roberts-campaign-finance-report-October-24,text,pdftotext -layout,2660
+raw/2023/202311_Kenneth-Roberts-1.pdf,202311_Kenneth-Roberts-1,scanned,tesseract OCR (pdftoppm 300dpi),1720
+raw/2023/202308_Michelle-Stallings.pdf,202308_Michelle-Stallings,text,pdftotext -layout,2706
+raw/2023/202311_Michelle-Stallings.pdf,202311_Michelle-Stallings,scanned,tesseract OCR (pdftoppm 300dpi),1799
+raw/2023/202308_Nicole-Kunze-1.pdf,202308_Nicole-Kunze-1,text,pdftotext -layout,5187
+raw/2023/202308_Nicole-Kunze.pdf,202308_Nicole-Kunze,scanned,tesseract OCR (pdftoppm 300dpi),2111
+raw/2023/202310_Nicole-Kunze.pdf,202310_Nicole-Kunze,scanned,tesseract OCR (pdftoppm 300dpi),3148
+raw/2023/202311_Nicole-Kunze.pdf,202311_Nicole-Kunze,text,pdftotext -layout,7658
+raw/2023/202308_Paige-Albrecht-1.pdf,202308_Paige-Albrecht-1,scanned,tesseract OCR (pdftoppm 300dpi),2440
+raw/2023/202308_Curtis-Payne.pdf,202308_Curtis-Payne,scanned,tesseract OCR (pdftoppm 300dpi),1289
+raw/2023/202308_R.-Curtis-Payne.jpg,202308_R.-Curtis-Payne,scanned,tesseract OCR (image),1295
+raw/2023/202308_Tyler-Lindsay.pdf,202308_Tyler-Lindsay,text,pdftotext -layout,2567
+raw/2023/202308_campaign-finance-report-Tyler-Lindsay-8.29.2023.pdf,202308_campaign-finance-report-Tyler-Lindsay-8.29.2023,text,pdftotext -layout,2502
+raw/2025/5mlplvt2_charlie-tautuaa-final-financial-disclosure.pdf,5mlplvt2_charlie-tautuaa-final-financial-disclosure,text,pdftotext -layout,1654
+raw/2025/cyidicoa_charlie-tautuaa.pdf,cyidicoa_charlie-tautuaa,text,pdftotext -layout,1561
+raw/2025/mtapyq2z_charlie-tautuaa.pdf,mtapyq2z_charlie-tautuaa,text,pdftotext -layout,1561
+raw/2025/1u2awttt_condie-full-report.pdf,1u2awttt_condie-full-report,text,pdftotext -layout,3786
+raw/2025/d3tib15l_chris-condie.pdf,d3tib15l_chris-condie,text,pdftotext -layout,5879
+raw/2025/moxd1fjs_chris-condie-final-financial-disclosure.pdf,moxd1fjs_chris-condie-final-financial-disclosure,text,pdftotext -layout,2286
+raw/2025/b5sbchbl_stephens-full-report.pdf,b5sbchbl_stephens-full-report,scanned,tesseract OCR (pdftoppm 300dpi),1338
+raw/2025/dhlcf0ey_larell-stephens.pdf,dhlcf0ey_larell-stephens,scanned,tesseract OCR (pdftoppm 300dpi),1637
+raw/2025/f5rjt1zy_e-larell-stephens-final-financial-disclosure.pdf,f5rjt1zy_e-larell-stephens-final-financial-disclosure,scanned,tesseract OCR (pdftoppm 300dpi),1488
+raw/2025/1sklztrg_emily-lockhart-general-report.pdf,1sklztrg_emily-lockhart-general-report,text,pdftotext -layout,3152
+raw/2025/jyud2nca_emily-lockhart-5th-report.pdf,jyud2nca_emily-lockhart-5th-report,text,pdftotext -layout,3119
+raw/2025/rjfihlnp_emily-lockhart.pdf,rjfihlnp_emily-lockhart,text,pdftotext -layout,4062
+raw/2025/wtslv1bc_lockhart-full-report.pdf,wtslv1bc_lockhart-full-report,text,pdftotext -layout,2981
+raw/2025/yo2f5c3y_emily-lockhart-28-day-report.pdf,yo2f5c3y_emily-lockhart-28-day-report,text,pdftotext -layout,4321
+raw/2025/1ibebf3i_james-harrison-5th-report.pdf,1ibebf3i_james-harrison-5th-report,text,pdftotext -layout,3537
+raw/2025/gr5jzdfe_james-harrison.pdf,gr5jzdfe_james-harrison,text,pdftotext -layout,4292
+raw/2025/inlkj0ma_harrison-full-report.pdf,inlkj0ma_harrison-full-report,text,pdftotext -layout,4393
+raw/2025/jp5h4eyw_james-harrison-28-day-report.pdf,jp5h4eyw_james-harrison-28-day-report,text,pdftotext -layout,3513
+raw/2025/q1zjmgp4_james-harrison-general-report.pdf,q1zjmgp4_james-harrison-general-report,text,pdftotext -layout,4355
+raw/2025/4iulcekw_jared-v-peterson.pdf,4iulcekw_jared-v-peterson,scanned,tesseract OCR (pdftoppm 300dpi),1298
+raw/2025/kjwbuut4_jared-peterson-5th-report.pdf,kjwbuut4_jared-peterson-5th-report,scanned,tesseract OCR (pdftoppm 300dpi),1309
+raw/2025/lj4czmvb_jared-peterson.pdf,lj4czmvb_jared-peterson,scanned,tesseract OCR (pdftoppm 300dpi),1862
+raw/2025/rk3mp1el_jared-peterson-general-report.pdf,rk3mp1el_jared-peterson-general-report,scanned,tesseract OCR (pdftoppm 300dpi),1508
+raw/2025/zgkgevti_jared-peterson-28-day-report.pdf,zgkgevti_jared-peterson-28-day-report,scanned,tesseract OCR (pdftoppm 300dpi),2238
+raw/2025/04hpvyvv_hutchinson-full-report.pdf,04hpvyvv_hutchinson-full-report,text,pdftotext -layout,3150
+raw/2025/qibadmnx_jordan-hutchinson-final-financial-disclosure.pdf,qibadmnx_jordan-hutchinson-final-financial-disclosure,text,pdftotext -layout,3177
+raw/2025/tu4d1jnh_jordan-m-hutchinson.pdf,tu4d1jnh_jordan-m-hutchinson,text,pdftotext -layout,4691
+raw/2025/epzdqr5o_casey-glade-final-financial-disclosure.pdf,epzdqr5o_casey-glade-final-financial-disclosure,text,pdftotext -layout,3315
+raw/2025/tsqbcbiw_kenneth-glade.pdf,tsqbcbiw_kenneth-glade,text,pdftotext -layout,3514
+raw/2025/yjippbcb_glade-full-report.pdf,yjippbcb_glade-full-report,text,pdftotext -layout,3311
+raw/2025/g10dlsmf_paige-albrecht-general-report.pdf,g10dlsmf_paige-albrecht-general-report,text,pdftotext -layout,4750
+raw/2025/izbbd2bf_paige-albrecht.pdf,izbbd2bf_paige-albrecht,text,pdftotext -layout,6747
+raw/2025/kc5pwwiw_paige-albrecht.pdf,kc5pwwiw_paige-albrecht,scanned,tesseract OCR (pdftoppm 300dpi),4873
+raw/2025/rrfeajfd_paige-albrecht-28-day-report.pdf,rrfeajfd_paige-albrecht-28-day-report,text,pdftotext -layout,5480
+raw/2025/vtll50ue_paige-albrecht-5th-report.pdf,vtll50ue_paige-albrecht-5th-report,text,pdftotext -layout,3099
+raw/2025/1ffk5h4w_paul-binns.pdf,1ffk5h4w_paul-binns,scanned,tesseract OCR (pdftoppm 300dpi),1838
+raw/2025/3t5fjtcj_paul-binns-general-report.pdf,3t5fjtcj_paul-binns-general-report,scanned,tesseract OCR (pdftoppm 300dpi),1936
+raw/2025/fhohtszx_paul-binns-5th-report.pdf,fhohtszx_paul-binns-5th-report,scanned,tesseract OCR (pdftoppm 300dpi),1561
+raw/2025/l04l2bbd_paul-binns.pdf,l04l2bbd_paul-binns,scanned,tesseract OCR (pdftoppm 300dpi),2166
+raw/2025/zc4k4sl3_paul-binns-28-day-report.pdf,zc4k4sl3_paul-binns-28-day-report,scanned,tesseract OCR (pdftoppm 300dpi),1717
+raw/2025/2crfza1x_hancock-september-11-financial-disclosures.pdf,2crfza1x_hancock-september-11-financial-disclosures,scanned,tesseract OCR (pdftoppm 300dpi),1019
+raw/2025/gp3nridr_paul-hancock.pdf,gp3nridr_paul-hancock,scanned,tesseract OCR (pdftoppm 300dpi),1069
+raw/2025/xxybhzho_paul-hancock.pdf,xxybhzho_paul-hancock,scanned,tesseract OCR (pdftoppm 300dpi),1519
+raw/2025/bewgny3r_rachel-freeman-general-report.pdf,bewgny3r_rachel-freeman-general-report,scanned,tesseract OCR (pdftoppm 300dpi),2415
+raw/2025/dradxabs_rachel-freeman-28-day-report.pdf,dradxabs_rachel-freeman-28-day-report,scanned,tesseract OCR (pdftoppm 300dpi),2443
+raw/2025/nm5dtdaz_rachel-freeman-5th-report.pdf,nm5dtdaz_rachel-freeman-5th-report,scanned,tesseract OCR (pdftoppm 300dpi),1599
+raw/2025/pb5giuci_rachel-freeman.pdf,pb5giuci_rachel-freeman,scanned,tesseract OCR (pdftoppm 300dpi),3455
+raw/2025/qrxnwz1g_rachel-freeman.pdf,qrxnwz1g_rachel-freeman,scanned,tesseract OCR (pdftoppm 300dpi),1729
+raw/2025/2tnmgybe_tyson-hodges-final-financial-disclosure.pdf,2tnmgybe_tyson-hodges-final-financial-disclosure,scanned,tesseract OCR (pdftoppm 300dpi),870
+raw/2025/jg3i2pt5_tyson-hodges.pdf,jg3i2pt5_tyson-hodges,scanned,tesseract OCR (pdftoppm 300dpi),1745
+raw/2025/soynzfay_tyson-hodges.pdf,soynzfay_tyson-hodges,scanned,tesseract OCR (pdftoppm 300dpi),1736

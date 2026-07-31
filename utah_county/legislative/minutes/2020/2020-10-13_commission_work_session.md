@@ -1,0 +1,1524 @@
+---
+jurisdiction: Utah County
+body: Commission Work Session
+date: 2020-10-13
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2020/10.13.2020BudgetWorkSessionASSESSOR.pdf | https://www.utahcounty.gov/dept/commish/data/minutes/CM/2020/10.13.2020BudgetWorkSessionRECORDER.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 2
+n_pages: 32
+audio: 20201013-095954-T001Assessor.mp3
+---
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+1[ he
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+
+WILL HOLD A PUBLIC WORK SESSION
+IN THE COMMISSION CHAMBERS — ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+100 East Center Street, Provo, Utah
+October 13, 2020 — 9:00 A.M.
+
+*Members may participate electronically at will, with the anchor location as stated above.*
+
+*In accordance with the Orange level guidelines instituted by the State Department of Health
+in the City of Provo, members of the pubic are strongly encouraged to participate
+electronically. Physical attendance will be limited to 20 people (including staff) at the anchor
+location. Once the room has reached capacity the doors will be locked, and additional attendees
+will be invited to participate online. All individuals in attendance must comply with Provo City
+Code 9.25 requiring face coverings in indoor spaces where social distancing is not possible with
+certain exemptions.*
+
+*The public may participate electronically by joining via zoom at the following link:
+httys://z00m,us/)/9938818466 or calling (346) 248-7799 or (669) 900-6833, meeting ID:
+9938818466. Comments will be limited to three (3) minutes per individual unless otherwise
+approved by the Board. Please state your name at the beginning of the comment. Please no foul or
+abusive language.*
+
+*Ifa member of the public is unable to provide comment electronically then they may contact the
+commission clerk to submit written comments for the record by emailing
+commissionelerkia ulaheounty voy or by calling 801-851-8111*
+
+~BUDGET WORK SESSION MINUTES~
+
+Commissioner Ainge (Chair), Commissioner Ivie and Commissioner Lee in Attendance
+(Meeting began: 10:03 am)
+
+WORK SESSION
+1. WORK SESSION RELATED TO THE 2021 UTAH COUNTY BUDGET
+UTAH COUNTY ASSESSOR’S OFFICE
+
+Kris Poulsen, Utah County Assessor — (Gave PowerPoint Presentation)
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+2[Page
+
+2021 Utah County Assessor
+Budget
+
+October 13, 2020, 10 am
+
+Utah County Property Taxes
+
+State Average
+Real Property: 85.4%
+Personal Property: 6%
+Central Asimt: 8.6%
+
+Property Tax by Type
+
+COMMISSIONER AINGE - OF THIS RESIDENTIAL, HOW MUCH DO WE THINK IS
+PRIMARY VERSUS RENTAL PROPERTIES OR SECOND BECAUSE EVEN LARGE
+APARTMENT BUILDINGS WOULD SHOW UP IN THIS RESIDENTIAL.
+
+KRIS POULSEN - IS DOES AND THE REASON FOR THAT IS THE LARGE
+APARTMENT COMPLEXES ACTUALLY GET THE RESIDENTIAL EXEMPTION EVEN
+THOUGH THEY’RE INVESTMENT PROPERTIES AND SO THEY ARE ONLY TAXED
+AT 55% OF VALUE.
+
+DocuSign Envelope 1D: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+3|Page
+
+COMMISSIONER AINGE - THAT’S ONLY THE SECOND HOMES THAT ARE NOT A
+PRIMARY RESIDENCE?
+
+KRIS POULSEN — THAT’S CORRECT. LATER WE’LL TALK A LITTLE BIT ABOUT
+UNITS VERSUS PARCELS. YOU HAVE THE SAME DYNAMIC BECAUSE YOU HAVE
+MULTIPLE UNITS ON ANY PARCEL.
+
+Local Assessment
+Taxable Value
+
+2002: 132,000 properties
+2020: 195,000 properties
+
+35, G00
+30, 000
+22 20
+15,000,000,00 —
+i]
+Nm = wp & Q
+
+a 2 Ey 27 3H BX ga
+f= S pe) Ba a
+
+2Qeagzases
+RRRERARRRRRARRERRAR
+
+Utah County Average House Value
+
+Residential: 68% of taxable value
+350,06
+
+250,
+260,00
+3500
+
+50.000
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+4|Page
+
+Utah County Property Tax Distribution
+
+Special Dist, 8%
+
+County, 9%
+
+Cities/Towns, 16%
+
+Overview
+
+* Revenue
+* County Assessing & Collecting levy
+
+* Expenses
+* Annually update all property values in the county
+
+* Real Property
+« Personal Property
+
+* Property Review requirement
+* Exemption
+
+* Residential Exemption
+
+» Greenbelt Exemption
+
+Budget
+
+* 2020 Budget Expenses $6,082,635
++ Personnel 82%
+* internal Services 9%
+* Contracts 5%
+* Other A%
+* 2021 Proposed Budget Expenses $6,075,545
+* Personnel 82%
+* Internal Services 9.5%
++ Contracts 5.5%
+
+* Other 3%
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+5[Page
+
+Chart ai. nitementnat
+
++ + ’ +
+i ar \
+- i» ® > > >
+| —
+| ’ be
+» * lp . > .
+| | .
+. . > . . .
+*
+.
+» . . . > .
+.
+> * . . . rs
+.
+> > . . .
+°
+. > . .
+Le
+le
+.
+Clty ‘Pesmit Tolal
+Paitetd a
+H Goshen q
+ermits Issue toes :
+Cedar Feet 2s
+Genola ae
+Cedar Hilly ar
+Commercial 800 Draper a
+Lindon 7
+Apartments 213 a =
+ik Ridge 1s
+7 Utah County: 1?
+High Density 1,81? Salers yea
+Highland 270
+Residential 6,373 an i
+Springyisle Pra]
+Pipagant Grove Piel
+Santaguin: au
+Payson 378
+nee a0?
+Prove 442
+Vineyard “1
+Spanish For rr)
+Amadican Fork sa
+Saratoga Spniags BBS
+Eagle Mountain 1054
+Let was
+ai - 03
+2019 2020 Difference
+Commercial 800 500 62.8%
+Apartments 213 97 46%
+High Density 1,817 1,864 102.6%
+Residential 6373 4911 77%
+
+High Densityand Res 20198190 permits /9 appraisers = 940
+High Density and Res 2020 6775 permits /9 appralsers = 752 (Q1 -Q3)
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+6["e4
+
+Personnel: 82% of Budget
+
++ Staffing 2020 2021
+* Full Time Employees $4.87M $4.84M
+* Time Limited $66,000 $115,000
+* Career Ladder $44,000 $27,000
+* Other $23,676 S 5,402
+
+Two positions approved for 2020 not in 2021 staffing plan
+
+Add one Personal Property Specialist 2021: $50,500
+
+Time Limited increased for two analysts (20 hrs per week)
+Other: Anticipate additional adjustments for Insurance Waver
+
+COMMISSIONER AINGE - I THINK THAT’S WORK NOTING. THIS IS YOUR
+BUDGETED NUMBER FOR 2020. BUT ESSENTIALLY WHAT YOU’RE SAYING IS
+YOU’RE GOING TO END UP COMING IN UNDERNEATH YOUR BUDGETED NUMBER
+IN 2020 BECAUSE YOU HAD THOSE POSITIONS APPROVED AND YOU WEREN’T
+ABLE TO HIRE THEM DURING THIS YEAR.
+
+KRIS POULSEN - CORRECT
+Personnel Adjustments
+
+* Personal Property
+» Shifted resources to process mandated residential exemption applications
+* 23,000 exemption verification accounts in 2020
+* Approximately 10,000 verifications annually
+
+Time Limited Increase: Project One
+
+* 2020 Project: Statistical Al Modeling (Continuous Modeling}
+
+* Quote: $720,000 for three years
+* Software (SAAS)
++ Software Expertise
+* Storage
+« Data
+
+* 2021 Alternative (Proof of Concept - SPSS Modeler Module)
+* Software ($500 per month lease}
+* Intern (20 hes per week)
+* Internal Resources
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+7|
+
+COMMISSIONER LEE — WHAT ARE YOU MODELING?
+
+KRIS POULSEN — THESE WILL BE RESIDENTIAL HOMES. THE RESIDENTIAL
+REPRESENTS 68% OF THE VALUE OUT THERE AND THEY ACTUALLY REPRESENT
+OVER 70% OF THE PROPERTIES.
+
+Time Limited Increase: Project Two
+
+* 2021 Project: Automated Comparable Algorithm
+* Open source “R” language
+* One Time Limited Resource
+
+Objective: Algorithm selects best comparable properties, Estimates used to
+* Identify outliers prior to final valuation
+* Provide public and hearing officers comparable properties during BOE.
+
+Outcome Objective:
+* Reduce time to create comparable reports (Majority Properties Residential)
+* Reduce dispersion in Multiple Regression value estimations (Residential)
+
+Need: Shauld real estate values decline (2009), BOE appeals increase (volume).
+
+Internal Services: 9.5% of Budget
+
+* Programming Charges increased
+
++ New assessment program integration
+
+Contracts: 5.5% of Budget
+
+* Pictometry: renegotiated 6-year extension
+* Higher Resolution
+* Expanded Areas
+
+* SPSS Modeler SaaS lease
+
+* Property Characteristic Review
+« New Growth Sketch Conversion (Prior RFP)
+* ILoakAbout: Exception analysis (Prior RFP)
+* Change Detection: New
+¢ Image to Perimeter Shape: New
+* Shape File Comparison: New
+
+COMMISSIONER LEE —- HOW MANY TIMES A YEAR DO THEY GO AROUND?
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor’s Office
+October 13, 2020
+
+B|:
+
+KRIS POULSON — WE DO IT ONCE EVERY TWO YEARS, BECAUSE SALT LAKE IS A
+MUCH SMALL COUNTY GEOGRAPHICALLY, THEY FLY EVERY YEAR AND IT
+ACTUALLY COSTS THEM LESS TO FLY EVERY YEAR JUST BECAUSE OF THE
+FOOTPRINT.
+
+COMMISSIONER LEE - EVEN THOUGH WE ONLY DO IT EVERY TWO YEARS, IT
+STILL GOES UP THAT $12,000 A YEAR?
+
+KRIS POULSON - IT’S A HIGHER RESOLUTION THAT WE’RE GETTING AND IT’S
+ALSO NEW TECHNOLOGY THAT THEY’VE IMPLEMENTED SO THE PRICE HAS
+GONE UP SLIGHTLY BECAUSE OF THAT AND BECAUSE WE’RE GETTING MORE
+IMAGERY. BECAUSE IT’S A HIGHER RESOLUTION, WE’RE GETTING MORE SHOTS
+PER SQUARE MILE. WE LEVERAGE OFF OF THIS AND OTHER DEPARTMENTS
+LEVERAGE OFF THIS TOO BECAUSE THOUGH WE’RE PAYING FOR IT, WE MAKE
+IT AVAILABLE TO OTHER DEPARTMENTS.
+
+Property Characteristic Review
+* Required per 59-2-303.1
+
+* AAO Benchmark (standard) for 200,000 properties
+* 7-8 appraisers plus support staff
+* Five-year cycle
+
+* Objective
+* 2 appraisers plus support staff
+* Two-year cycle (aerial imagery delivery)
+* Reduce items not picked up through permits every 2 yrs instead of 5.
+
+Aerial Change Detection
+
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+9}i
+
+Phase 1: Sketch Shapes into GIS (completed)
+
+ae es
+
+Serial Number Match Notes
+
+43 S62 0012 60% Addition
+
+52.435 0002 BON Concrete vlab
+52.121 0034 20% New Construction
+
+- » 53 122.0035 30% New Construction
+roe 541210037 20% New Construction
+5$ 121 0039 30% New Construction
+
+Phase 2: Exception List (desktop review)
+
+fe
+
+Ee=s
+
+2021 Step 1: New Sketch Shapes into GIS
+
+New Aerials
+14,000 new and edited sketches +}i
+(system update date) {-
+
+fr
+
+4
+
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+Wl hore
+
+2021 Step 2: Image to Shape Perimeter
+
+New Imagery
+Ly 7
+
+: g
+
+2021 Step 3: Algorithm Comparison (unproven)
+
+Sketch Image inGIS Aerial Perimeter Image
+
+Change Detection
+
+2019 2021
+
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+11]:
+
+Change Detection: Natural Disaster
+
+mith
+
+Budget Comparison
+
+Conventional Method $560K x 2 = $1,120,000
+Seven Appraisers for two years (of 5 yrs)
+
+Proposed
+
+* Two Appraisers for two years $320,000
+
+* [LookAbout Software (two years) $ 40,000
+
+* Update Sketch Layer $ 12,000
+
++ Aerial Image Change Detection $ 40,000
+
+* Perimeter Shapes from Aerials $ 35,000
+
+* Al Shape Comparison $ 35,000*
+
+* estimate
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+1z[i
+
+2020 Objectives
+
+* New Computer System Implementation
+* Implementation of Phase 1 of new review process
+* Analysis of continuous valuation process
+
+2021 Objectives (performance measures)
+
+Primary Objective: 2021 valuations from new CAMA system
+Analysis Project: Continuous valuation and comp selection
+
+Performance Measures
+
+* State Tax Compliance Testing
+* Coefficients of Dispersion (COD): uniformity test
+* Level of assessment
+
++ Maintain Growth (building permits increasing)
+
+* Property Review Improvements (PT-062 Form)
+
+Expectations
+
+65% of primary tasks
+Trend
+
+County Comparisons
+
+Coefficient of Dispersion (COD)
+
+In ratio studies, the coefficient of dispersion is reported as an average percentage difference from the
+median ratio
+
+* One Standard Deviation = 68%
+« Twe Standard Deviations + 95%
+
+County Residential Commercial Vacant Land
+State Standard Compliance <15% < 20% < 20%
+(AAO Standard Benchmark 10% 20% 20%
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session ~ Assessor's Office
+October 13, 2020
+
+A3fiicee
+
+Coefficient of Dispersion (COD)
+
+Property Mix
+* Residential 79% (68% of value)
+
+* Commercial 6.6% (24% of taxable
+value)
+
+* Land 14.4% (8% of taxable value}
+
+Standard 2002 2006 2012 2016 2018 2020
+Residential <15 11.35 9.71 9.75 6.72 5.94 5.44
+Commercial <20 29.16 27.28 10,02 7,63 9.84 11.56
+Vacant Land <20 18.01 13.29 8.03 6.73 4.38 6.29
+
+Source: Utah State Tax Commission
+COMMISSIONER AINGE — WHAT DATA DO THEY USE TO MEASURE THIS?
+
+KRIS POULSON - THEY USE CELLS SO THEY WILL TAKE EVERY CELL THAT’S
+AVAILABLE TO YOU. IF YOU BUY A PROPERTY, YOU’LL RECEIVE SOMETHING IN
+THE MAIL THAT SAYS IT’S FROM THE STATE TAX COMMISSION ASKING YOU
+QUESTIONS ABOUT THAT TRANSACTION. THE RESIDENTIAL IS ACTUALLY
+PULLED FROM THE MLS SO THE MLS SELLS IN RESIDENTIAL IS WHAT THEY USE
+FOR THAT ANALYSIS.
+
+COMMISSIONER AINGE - SO, IT’S MEASURING OUR COUNTY’S CURRENT ASSET
+VALUE VERSUS THE TRANSACTION VALUE?
+
+KRIS POULSON - YES
+
+COD Residential
+
+Property SYR
+
+Type 2016 2017 2018 2019 2020 Average
+Salt Lake Res 6.10 4.70 4.60 4.50 4.40 4.86
+Utah Res 6.72 6.52 5.94 5.20 5.44 9.96
+Davis Res 6.29 8.85 5.70 5.49 5.22 6.31
+Weber Res 6.63 6.64 6.68 6.01 5.85 6.36
+Washington Res 6.23 6,29 6.20 5.97 5.52 6.04
+
+Source: Utah State Tax Commission
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+W)Page
+
+COD Commercial
+
+Property 5YR
+
+Type 2016 2017 2018 2019 2020 Average
+Salt Lake Com 12.60 10.50 8.10 9.00 3.40 9.92
+Utah com 7.63 8.91 9.84 8.32 11.56 9.25
+Davis com 15.69 21.99 10.55 12.58 12.07 14.58
+Weber Com 18.93 17.15 12,29 17.10 17.16 16.53
+Washington com 5.38 7.95 9.40 8.55 7.00 7.66
+
+Source: Utah State Tax Commission
+
+COD Vacant Land
+
+Property SYR
+
+Type 2016 2017 2018 2019 2020 Average
+Salt Lake Vacant 12.90 10,40 10.40 3.60 10.10 10.68
+Utah Vacant 6,73 6.19 4.88 4,98 6.29 5.81
+Davis Vacant 22.04 18.77 14.85 12.76 10.85 15.84
+Weber Vacant 12.17 12.15 8.07 6.73 6.75 9.17
+Washington Vacant 8.78 7.39 6.48 6.79 5.05 6.90
+
+Source: Utah State Tax Commission
+
+Compliance
+
++ Administrative Rule R884-24P27
+* Statutory Basis for Study — Utah Code, Section 59-2-704
+* Statutory Basis for Standards ~ Utah Code, Section 59-2-704.5
+
+« State Tax completes final study immediately following tax roll
+
+* Corrective Action Order issued within 5 days of completion of study
+« Assessment level adjustments
+* Factor orders
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+AS[P ape
+
+Property Review
+
+[bast Detailed Haview Date Report
+
+F fission: Bomioe Resize Baia Buen —
+2017 «© 2019 2020 | ratroe fons: They SuAd Ka ae Pu» erm Acard 8 he Last Acca rnin Dae
+
+in part tieyna 8000.2 Bt eas fo aes ovanmtet at
+Parcel Count 177,562 188,158 194,855
+
+f err PT. 08 ease nana
+| earn PI
+x | Tae Rol vest 3480 County. tay
+ae
+€ Dato of nia Repod: saws |
+From PT-062 > —-—!
+
+Sam CH QRERRE NOR. ne taratnk atrtod FORGE MENT cry Rt PAR ATT
+ot n> haesenmestant #8 perenne Coch pyran’ a Myra cy rt A I oe dS
+senate a 8 Ais Line A meranerts  hgat BB Penh Kinpow Aa pare Lied
+
+Review Within A Prcag HPT IS ae K. Mtm Oc your Me bark HNN
+
+12 months 43,096 142,747 31,029 ora waren ovont tomtom ol ee.
+
+24 months 44,687 26,112 132,864 eee ate arc sine Ahr ed mn i METAL bien
+fe Mare nae cet fora haong omit a a AY Toe
+
+36 months 59,920 5,510 25,019 bs iat or busin cate eto hang aad nw ent Te aE
+
+48 months 17,848 9,866 3,253 € Mantel tle pecen in Anocg a Maal mies oon SI bases |
+J utter tne Se Moonee fon KINO? LRA
+
+60 months 5,280 3,923 2,690 Namal ele Becen oh ina AnaIA Haan ederene REIN ei = g
+
+eee mvoniHa en | iecaanraoec ech Ol ano an
+
+Percent Total Parcel Increase per Year
+
+Utah
+Washington
+2.0
+15% Davis
+108 eee Salt Lake
+— nee a “= Weber
+0.5% eh
+2015 2016 204 2018 2018
+ame Sat lake eee Uta me Weber ee Days Washington
+
+Source: Utah State Tax Commission
+
+New Construction Permits Issued
+
+* Ken Garner Institute
+
+Utah County is number eight in the nation
+in new construction permits issued
+
+Population projected to reach
+Salt Lake City in 40 years
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+16, Po»
+
+Budget and Growth Comparison
+
+2019 Parcel. 2019 Approved Budget per 2019 Res
+
+County Count Budget Parcel Parcel Increase
+Salt Lake 368,879 $ 14,483,342 $ 39.26 4,658
+Utah 188,146 $ 5,401,363 $ 28.71 $,576
+Weber 93,780 $ 2,299,725 $ 24.52 1,008
+Davis 110,511 $ 3,093,673 $ 27.99 1,578
+Washington 90,875 $ 3,328,300 $ 36.63 2,552
+Utah 2020 194,855 6,083,000 $ 31.22
+
+Utah 2021 Proposed 200,000 6,075,000 $ 30.38
+
+COMMISSIONER AINGE — WHEN YOU LOOK AT THESE NUMBERS, AS YOU REACH
+A CERTAIN SCALE YOU HAVE TO INVEST IN TECHNOLOGY AND PEOPLE AND
+THEN OVER TIME IT BLENDS BACK DOWN. WE’RE GOING UP ON THE BUDGET
+PER PARCEL AND IS THAT MORE OF A STEADY STATE? WHAT DO YOU THINK
+THAT WEBER IS ABLE TO DO AS SMALLER THAN US TO HAVE LOWER?
+
+KRIS POULSON - ON THAT LAST COLUMN YOU CAN SEE THE GROWTH. THESE
+ARE THE PARCEL INCREASES FROM ONE YEAR TO THE NEXT JUST IN
+RESIDENTIAL. EVEN THOUGH THEY’RE HALF OUR SIZE, THEY’ RE %-1/5 THE
+WORKLOAD ON NEW CONSTRUCTION AND IT’S EVEN WORSE THAT THAN. I
+REMEMBER I DECIDED RECITED TO YOU THAT FOR EVERY 1 THAT WEBER DOES
+WE DO 10. THAT’S ACTUALLY BASED ON UNITS WHERE THIS IS BASED ON
+PARCELS. WHEN YOU TALK ABOUT APARTMENT BUILDINGS AND CONDOS AND
+ALL THAT, WE’RE JUST GROWING IN HIGH DENSITY AT SUCH A FAST RATE.
+
+COMMISSIONER AINGE - THAT MIGHT BE INTERESTING TO LOOK AT THEN. I
+STILL DON’T NECESSARILY KNOW HOW TO ARTICULATE IT, BUT IF MORE OF
+THE WORKLOAD IS ON THE NEW PARCELS THEN HAVING A SEPARATE COLUMN
+HERE, THAT’S COST PER NEW PARCEL, IS ALSO HELP BECAUSE THEN THAT
+WOULD SHOW US PROBABLY SIGNIFICANTLY LOWER.
+
+KRIS POULSON - MAYBE TO BETTER EXPLAIN WHAT WE’RE DOING THAT
+WEBER’S NOT - EARLIER IN THE CONVERSATION I SAID AS PERMITS GET
+HIGHER AND HIGHER, WE SHIFT PEOPLE AWAY FROM THEIR REVIEWS AND
+EVERYONE IS DOING NEW CONSTRUCTION. WEBER IS NOT DOING THAT. THEY
+HAVE PEOPLE THAT ARE MAINTAINING THE REVIEWS AND MAINTAINING THE
+NEW CONSTRUCTION. WE’RE SHIFTING OUR RESOURCES CONSTANTLY BASED
+ON AN UNKNOWN VARIABLE TO US AND THAT IS HOW MANY BUILDING PERMITS
+ARE ISSUED BY THE CITIES. WE CONSTANTLY ADJUST RESOURCES.
+
+AS 1 SAID, IN 2008 WE PULLED IT OFF BECAUSE THE BUBBLE RESULTED IN
+FEWER PERMITS AFTER THAT SO WE THEN SHIFTED RESOURCES OUT OF NEW
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor’s Office
+October 13, 2020
+
+wv
+
+CONSTRUCTION WHEN THE DEMAND WAS NOT THERE AND PUT THEM INTO
+CATCHING UP THE REVIEWS THAT WERE IGNORED AND WERE ACTUALLY OUT
+OF COMPLIANCE. I THINK WHY WE’RE ABLE TO DO THINGS WITH LESS MONEY
+IS BECAUSE WE DO IGNORE THINGS WHEN WE PRIORITIZE, AND WE PRIORITIZE
+NEW CONSTRUCTION BECAUSE THAT IS NEW REVENUE TO EVERYONE. WE
+STILL REAPPRAISE EVERYTHING, BUT THE PROPERTY CHARACTERISTIC
+REVENUES DON’T DRIVE IN NEW REVENUE. SO, WE HAVE A TENDENCY TO
+IGNORE THAT WHEN DEMAND IS HIGHER IN OTHER AREAS, BUT WE’RE STILL
+STATUTORILY REQUIRED TO MAINTAIN A CERTAIN LEVEL OF IT.
+
+COMMISSIONER AINGE - THIS IS GREAT DATA. YOUR WHOLE PRESENTATION
+HAS HAD INCREDIBLE DATA WHICH IS VERY HELPFUL. I THINK IT’S HELPFUL
+FOR THE PUBLIC. WHAT DOES THE NEXT FIVE YEARS LOOK LIKE? AS THIS
+BUDGET GOES UP 31, DO YOU THINK THAT AS YOU SCALE IT GOES DOWN TO 30
+OR DO YOU SEE IT CREEPING MORE TOWARD SALT LAKE?
+
+KRIS POULSEN - ’ VE BEEN THINKING ABOUT THIS BECAUSE SALT LAKE’S AT 39
+BUT THEY ALLOCATE FUNDS IN PLACES THAT I PROBABLY WON’T. WE’RE MORE
+STREAMLINED AND THAT’S THE WAY IT’S ALWAYS BEEN.
+
+SHORT STORY - WHEN I FIRST CAME INTO OFFICE, I WENT TO A MEETING WITH
+SALT LAKE, WEBER AND DAVIS. WE WERE ALL IN THE SAME SYSTEM AT THAT
+POINT. UTAH COUNTY WAS NOT ON THE AGENDA AT ALL. I MENTIONED IN THE
+MEETING THAT WE HAD A PROGRAM THAT WE WERE PLAYING WITH AND
+WOULD LIKE TO DEMO IT IN THE NEXT MEETING. THERE WERE SOME LAUGHS
+AND STUFF, BUT THEY PUT US ON THE AGENDA FOR THE NEXT MEETING. WE
+DEMOED WHAT ENDED UP BEING, IN SALT LAKE, THEIR PRIMARY BATCHING
+AND WORKLOAD PROJECT. AFTER WE DEMOED IT THE SUPERVISOR OVER THAT
+SECTION WOULDN’T LEAVE THE BUILDING UNTIL I PROMISED HER THAT WE
+WOULD SEND THEM THIS PROGRAM. THEN 6 MONTHS LATER UTAH COUNTY
+WAS THE AGENDA.
+
+THERE’S A LOT OF THINGS THAT SALT LAKE HAS BENEFITED FROM US AND
+THERE’S THINGS THAT WE HAVE BENEFITTED FROM SALT LAKE BECAUSE WE
+HAVE THIS OPEN RELATIONSHIP WITH THEM. RIGHT NOW THEY ARE TRYING
+TO IMPLEMENT THE SAME SOFTWARE THAT WE ARE AND WHEN IT COMES TO
+COST, IT IS VERY DIFFERENT UP THERE BECAUSE THEY HAVE A PROJECT
+MANAGER THAT THEY HIRED FULL-TIME TO DO NOTHING BUT ENSURE THAT
+THE PRODUCT IS INSTALLED IN THE ASSESSOR’S OFFICE AND THE TREASURER’S
+OFFICE HAS A PROJECT MANAGER AT 100% FOR THAT PROJECT. THAT’S
+SOMETHING WE’VE NEVER DONE HERE. IT JUST GIVEN TO THE DEPARTMENT
+AND WISHED GOOD LUCK. YOU’RE SEEING SOME OF THE THAT IN THAT $39
+THINGS THAT THEY DO THAT WE’VE JUST HAVEN’T DONE.
+
+COMMISSIONER LEE - I THINK THAT GOES TO THE POINT. WHENEVER I SEE
+BUDGET OR PARCEL AND SWINGS DIFFERENTLY AND WE ALWAYS LOOK AT
+THEM IN THE SENSE OF HOW MANY ARE IN THE COUNTY, I NORMALLY WILL GO
+TO SMALLER COUNTIES THAT STILL HAVE THE SAME STATUTORY
+REQUIREMENT TO DO AFTER IT TOO. I DON’T KNOW WHERE THEIR BUDGET TO
+PARCELS COME IN AT. I WOULD ASSUME THAT JUST BECAUSE YOU’RE A
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session ~ Assessor's Office
+October 13, 2020
+
+1BlP ae
+
+SMALLER COUNTY, YOU’RE STILL GOING TO HAVE TO PUT MANPOWER INTO
+GETTING THE PARCELS CORRECT. JUST BECAUSE YOU HAVE LESS PEOPLE IN
+THE COUNTY, DOESN’T’ MEAN THAT YOU HIRE A QUARTER OF A PERSON TO DO
+IT. THEY’RE STILL GOING TO HAVE TO HAVE ONE PERSON THERE AND
+PROBABLY A SECOND. IT’S HARD TO LOOK AT BUDGET PER PARCEL UNLESS WE
+KNOW EXACTLY WHAT THE BUDGETS ARE BECAUSE LIKE YOU MENTIONED,
+YOU DO THINGS DIFFERENT THAN THEY DO. YOU MAY ALLOCATE A LITTLE BIT
+DIFFERENTLY AND SO IT’S HARD TO COMPARE IF WE’RE ACTUALLY
+COMPARING STRAIGHT ACROSS.
+
+KRIS POULSON - THAT’S REALLY A MANAGEMENT ISSUE BECAUSE WE ARE ALL
+UNDER THE SAME STATUTE AND WE WE’RE ALL REQUIRED TO DO THAT SAME
+THING. I COMPARE LARGER COUNTIES BECAUSE TYPICALLY WORKLOADS AND
+OTHER THINGS ARE SIMILAR WHEN YOU GET DOWN INTO A 4™ AND 5™ CLASS
+COUNTY AS YOU’RE POINTING OUT. IT IS VERY DIFFERENT BECAUSE THEY JUST
+RELY ON A COST APPROACH AND THAT’S ABOUT ALL THEY CAN DO. WE DON’T
+USE COST ON RESIDENTIAL BECAUSE WE’RE ACTUALLY USING SALES
+TRANSACTIONS TO DETERMINE WHAT THOSE VALUES SHOULD BE. OUR
+PROCESSES ARE DIFFERENT. THEY ARE ACTUALLY THE CODS THAT I SHOWED
+YOU. THEY HAVE A DIFFERENT STANDARD BECAUSE THEY’RE SMALLER TOO SO
+THEY CAN HAVE MORE DISPERSION THAN WHAT WE HAVE. SO, THESE
+COUNITES ARE ALL REQUIRED TO MAINTAIN THE SAME LEVEL OF ASSESSMENT.
+SO, WE FALL IN BETWEEN SALT LAKE AND THE REST.
+
+COMMISSIONER LEE - WASHINGTON’S MANAGEMENT STYLE MUST BE SIMILAR
+TO SALT LAKE’S THEN FOR THAT TO BE THAT HIGH LIKE WHEN THEIR
+PARCELS ARE SIGNIFICANTLY LESS THAN SALT LAKE.
+
+KRIS POULSON — OF THE ASSESSING AND COLLECTING LEVEES OF ALL OF
+THESE COUNTIES, WASHINGTON COUNTY HAS THE HIGHEST - SIGNIFICANTLY
+MORE THAN WHAT WE HAVE. THEY ARE PUTTING MORE MONEY INTO IT
+BECAUSE THEY ARE GROWING. I MEAN THEY’RE VERY SIMILAR TO HOW WE
+ARE GROWING WHEN YOU TAKE THEIR PARCEL COUNTY COMPARED TO THE
+NEW GROWTH THAT’S GOING ON DOWN THERE.
+
+AS I STARTED IN 2002, | ENTIRELY EXPLAINED HOW WE GOT UP TO THE
+PRESENT. OUR MANAGEMENT STYLE HAS ALWAYS BEEN A KAIZEN APPROACH
+AND WE WE’RE CONSTANTLY TRYING TO IMPROVE. WE GET TO A POINT WHERE
+RIGHT NOW WE CAN’T REALLY IMPROVE THE CODS THAT MUCH BECAUSE
+WE’RE AT THE POINT THAT THEY REALLY CAN’T GO ANYWHERE. THAT
+DOESN’T MEAN WE CAN’T IMPROVE THE PROCESSES. THAT’S WHY
+COMMISSIONER IVIE AND I HAVE BEEN TALKING ABOUT HOW WE CAN
+IMPROVE THIS REVIEW PROCESS. NOT ONLY IS IT GOING TO SAVE US MONEY
+BUT IT’S GOING TO CREATE A PROCESS THAT WE CAN MAINTAIN IN THE
+FUTURE. I THINK PART OF WHAT COMMISSIONER AINGE IS ASKING IS, AS YOU
+KEEP GETTING CLOSER AND CLOSER TO SALT LAKE, WE ARE GOING TO BE $39
+AND I THINK WE’LL BE SOMEWHERE BETWEEN THE §$27-36.
+
+COMMISSIONER AINGE - THE OTHER THING THAT I WAS TRYING TO HIGHLIGHT
+THERE THAT I THINK IS RELEVANT FOR LONG- TERM PLANNING IS JUST THAT
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+19 |
+
+SOMETIMES IT’S OKAY IF OUR BUDGETS ARE GOING UP AS IN A SCALING UP
+OPERATION BECAUSE OF NEW PROCESSES AND TECHNOLOGY THAT YOU’RE
+IMPLEMENTING. WHAT’S REALLY COMPELLING IS IF YOU CAN SHOW HOW FOR
+THE NEXT COUPLE OF YEARS THESE PROCESSES AND THIS TECHNOLOGY IS
+DRIVING THE BUDGET PER PARCEL UP BUT THAT IT’S ALLOWING AN
+OPERATION THAT IS SCALED AND CAN START LOWING THAT COST PER PARCEL
+DOWN IN THE OUT YEARS. THAT JUSTIFIES THIS INVESTMENT, TECHNOLOGY
+AND PROCESS.
+
+KRIS POULSON - AS YOU’RE POINTING OUT ONLY TECHNOLOGY CAN DO THAT. I
+HAD AN INTERESTING CONVERSATION A FEW YEARS AGO WHERE THE SON OF A
+FORMER ASSESSOR OF UTAH COUNTY CAME IN MY OFFICE AND I SHOWED HIM
+AROUND BECAUSE HE REMEMBERS AS A KID RUNNING AROUND AND SEEING
+WHAT DAD WAS DOING AND THE BOTTOM LINE IS HE SAID, “YOU KNOW, DAD
+CAN NEVER PRODUCE WHAT YOUW’RE PRODUCING RIGHT NOW.” AND MY
+RESPONSE WAS, “YOUR DAD NEVER HAD THE TECHNOLOGY TO PRODUCE WHAT
+I’M PRODUCING RIGHT NOW”. THAT’S THE BIG DIFFERENCE. THAT’S WHY
+WE’RE SWITCHING OVER TO A NEW COMPUTER SYSTEM. THAT’S WHY WE’RE
+INVESTING IN THESE NEW CONTRACTS OF US LEASING COMPUTER PROGRAMS
+FOR ANALYSIS. WE’RE GETTING MORE AND MORE INTO THE FRINGE OF WHAT
+CAN WE DO WITH ARTIFICIAL INTELLIGENCE IN AN ALGORITHM VERSUS
+SENDING SOMEBODY OUT. THERE WAS A TIME WHEN WE WERE SENDING
+DIFFERENT PEOPLE INTO THE SAME AREA. IT’S REALLY A TRAINING ISSUE BUT
+THE AREA WAS CREATING MORE DISPERSION BECAUSE THEY’RE COLLECTING
+DATA DIFFERENTLY AND SO I CAME BACK TO MY STAFF AND I’M LIKE WHY ARE
+WE DOING THIS BECAUSE AT THE END OF THE DAY WE’RE WORSE OFF THAN
+WHEN WE STARTED THIS. THAT’S WHEN WE STARTED PUTTING PEOPLE INTO
+AREAS INSTEAD OF HAVING THEM ALL GO INTO THE SAME AREA. EVEN IF THEY
+CREATE DISPERSION, IT’S THE SAME DISPERSION IN ONE AREA, IT’S NOT
+EVERYWHERE. THEN WE CAN ADJUST FOR THAT IN THE MODELS AND SO PART
+OF THIS IS TO GET AWAY FROM THAT SUBJECTIVENESS OF REPORTING WHAT’S
+THERE AND GET MORE INTO THE OBJECTIVE OF WHAT’S REALLY NECESSARY
+AND WHAT DO WE NEED.
+
+PUBLIC COMMENTS
+
+NO PUBLIC COMMENTS
+
+(Meeting ended: 10:59 AM)
+
+In compliance with the Americans With Disabilities Act, individuals needing special accommodations
+(including auxiliary communicative aids and services) during this meeting should notify Alice Black at
+(801) 851-8111 at least three days prior to the meeting,
+
+DocuSign Envelope ID: 62CABD22-07BA-4AD6-9C33-EDA2C6B45C82
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Budget Work Session — Assessor's Office
+October 13, 2020
+
+20|°
+‘DocuSigned by:
+( tuna finger
+SPANNER AINGE
+Commission Chair
+ATTEST:
+
+DocuSigned by:
+
+Alia Black
+Deputy CleAuditor
+
+
+
+----PART BREAK----
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+
+WILL HOLD A PUBLIC WORK SESSION
+IN THE COMMISSION CHAMBERS — ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+100 East Center Street, Provo, Utah
+October 13, 2020 — 9:00 A.M.
+
+*Members may participate electronically at will, with the anchor location as stated above.*
+
+*In accordance with the Orange level guidelines instituted by the State Department of Health
+in the City of Provo, members of the pubic are strongly encouraged to participate
+electronically. Physical attendance will be limited to 20 people (including staff) at the anchor
+location. Once the room has reached capacity the doors will be locked, and additional attendees
+will be invited to participate online. All individuals in attendance must comply with Provo City
+Code 9.25 requiring face coverings in indoor spaces where social distancing is not possible with
+certain exemptions.*
+
+*The public may participate electronically by joining via zoom at the following link:
+hitts://z00m.Us/|/9938818466 or calling (346) 248-7799 or (669) 900-6833, meeting ID:
+9938818466. Comments will be limited to three (3) minutes per individual unless otherwise
+approved by the Board. Please state your name at the beginning of the comment. Please no foul or
+abusive language.*
+
+*Ifa member of the public is unable to provide comment electronically then they may contact the
+commission clerk to submit written comments for the record by emailing
+commissionclerkid ulahcounty “ov or by calling 801-851-8111 *
+
+~BUDGET WORK SESSION MINUTES~
+
+Commissioner Ainge (Chair), Commissioner Ivie and Commissioner Lee in Attendance
+
+(Meeting Began: 11:00 A.M)
+
+WORK SESSION
+1. WORK SESSION RELATED TO THE 2021 UTAH COUNTY BUDGET
+
+UTAH COUNTY RECORDER’S OFFICE
+
+Jeff Smith, Utah County Recorder —
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION ~ Recorder's Office
+October 13, 2020
+
+2|°
+
+LAR
+Utah County
+
+HEART of UTAH
+
+UTAH COUNTY RECORDER’S OFFICE
+
+2021 Budget Presentation
+
+October 13, 2020
+
+Department Mission Statement
+
+To provide the citizens of Utah County protection and
+preservation of recorded documents pertaining to
+real property.
+
+LAT
+Utah County
+
+ORGINIZATION CHART: Jeff Smith
+Utah County Records Office
+
+21 Empioynes County Hecorder
+
+Andres Allen
+
+Sherry Davis
+Custsmer Service
+Sepervisct
+
+
+DocuSign Envelope !D: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+3|
+
+4 Main Job Functions
+
+Recording Function Mapping Function Customer Service
+Function
+
+* Recording Aesociate I * Cadastral Mapper |
++ Recording Associate It + Cadastral Mapper tl Assonate |
+* Recording Associate Itt + Cadasttal Mapper Ill * Customer Service
+
++ Recording Associate * Cadastral
+
+Arsoctate tl
+
+if Office Management Function
+
++ Office Manag:
+
+LAT
+
+Utah County
+
+A + Mappi
+
+Recording Quality Cot
+
+2020 Overview
+
+* 2020 COVID effects
+
+* Hiring
+
+* Work from home
+
+LAr
+Utah County
+
+Budget Overview for 2020
+
+* Just over 3 Million Dollars annually
+
+* YTD in 2020 we have collected $6,324,297
+in recording fees
+
+* 2 months left in the year to continue
+collecting recording fees
+
+* Projected to collect over 7.5 Million
+Dollars by the end of 2020
+
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E 1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION ~ Recorder's Office
+October 13, 2020
+
+4. :
+
+Ulat Why Records
+
+Yearly Status of Documents Recorded
+
+Number of Documents Pages
+
+Goals, Anticipated Outcomes & Actual Results
+
+Goal: Goal; Goal: Gaal: Goal:
+Meet Statulory deadlines Recording & Entry Prochng Mapping Anditing work process
+per Ulak State Code.
+
+Anticipate: Anticipated: icipated: Anlicipated:
+Ro-structure ollice & Close the gap by Be within 48 hours of Coraplate within 2
+
+moot alate code atalutea pleting } entry. weeks of proofing
+
+Actual Results mda
+Incteacsd completion i team members
+é bat with record high mist this goal and have
+with re 4 recordings & lack of re ned, Dut others
+dings & lack of structure, didn’t average
+oulto be within 48 houra standard.
+of antry
+
+Utah County
+
+Monthy Sunes of Documents Recorbed
+
+em er '
+
+cet taamibie oe Otcmens Reade
+
+LAE.
+
+Utah County
+
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+5]
+
+we
+
+COMMISSIONER AINGE - (referring to above slide) WHAT ARE THESE DIFFERENT
+ROWS? DO THEY REPRESENT DIFFERENT INDIVIDUALS?
+
+JEFF SMITH — YES.
+COMMISSIONER AINGE - IF ONE INDIVIDUAL WAS ASSIGNED (LOOKING AT THE
+
+TOP LINE) 4153 DOCUMENTS AND ROUTED MEANS BEEN ASSIGNED TO THEM BUT
+THEY HAVEN’T DONE ANYTHING IS THAT RIGHT?
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+6|"
+
+JEFF SMITH - IT MEANS THEY RECEIVED THEM ROUTING OR THEY ALSO
+ROUTED DOCUMENTS THAT WEREN’T IN THEIR AREA.
+
+COMMISSIONER AINGE - THIS IS REALLY HELPFUL DATA. I WAS A LITTLE BIT
+SURPRISED. THE THING THAT LOOKS LOW TO ME IS THIS ‘DOCS TO WORK’. I
+THINK I’M MISUNDERSTANDING THE SECOND COLUMN BECAUSE YOU WOULD
+THINK THAT THE ‘WORK STILL TO DO’ WOULD BE HIGHER BASED ON THE
+NUMBER OF COMPLETED DOCUMENTS.
+
+ANDREA ALLEN, ASSISTANT COUNTY RECORDER - THE ‘ASSIGNED DOCUMENTS’
+ARE DOCUMENTS THAT ARE ASSIGNED BY ENTRY SO AS SOON AS THE FRONT-
+END STAFF DOES THEIR ENTRY WHICH IS THE 100 DOCUMENTS PER DAY GOAL,
+THOSE GO OUT TO THE INDIVIDUAL MAPPERS AND TO A CATEGORY WE CALL
+‘FODDER’. SO THAT ONE THAT’S THE 91,312, THOSE DOCUMENTS THAT ARE NON-
+CONVEYING TYPE DOCUMENTS. THEY ARE MORTGAGE DOCUMENTS, UCC
+FILINGS, FORECLOSURES, JUDGEMENTS FROM THE COURTS. THOSE ARE
+DOCUMENTS THAT TYPICALLY THE MAPPERS DO NOT LOOK AT AND SO IT’S
+CONSIDERED A FODDER GROUP. THAT WHY THAT NUMBER IS SO HIGH AND
+WHY THERE IS NOTHING ROUTED OR COMPLETED BECAUSE THERE’S NOT AN
+INDIVIDUAL. THAT GROUP OF DOCUMENTS IS DISTRIBUTED TO THE CUSTOMER
+SERVICE TEAM. THOSE AREN’T’ SEEN BY THE MAPPERS AT ALL.
+
+THESE OTHER DOCUMENTS THAT ARE ROUTING, WE’VE JUST REDACTED THEIR
+NAMES SO EACH OF THOSE LINES APPLIES TO A SPECIFIC MAPPER. THERE ARE
+SOME LINES ON THERE FOR MAPPERS WHO HAVE LEFT OUR EMPLOYMENT IN
+2020 BUT THEY STILL DID SOME WORK, SO YOU’LL SEE THAT SOME OF THOSE
+NUMBERS ARE LOW BECAUSE OF THAT. MY LINE IS THE TOP LINE AND I GET A
+LOT OF DOCUMENTS THAT I’M ROUTED IN WITH MULTIPLE PEOPLE. SOME OF
+THEM I WORK AND SOME OF THEM I JUST TAKE MYSELF OUT OF THE ROUTING.
+ALL OF THE SUBDIVISION MAPS COME TO ME AS WELL AS THE MAPPER WHO IS
+OVER THAT SUBDIVISION. SO, ON THAT ‘ROUTED ONLY’ COLUMN, THAT’S IF A
+DOCUMENT IS ROUTED TO MULTIPLE PEOPLE BECAUSE AT THE TIME OF
+ENTRY, WE DON’T KNOW EXACTLY WHO WILL END UP WORKING IT. IT COULD
+BE A MAPPER THAT DOES SUBDIVISIONS, OR IT COULD BE A MAPPER THAT DOES
+SECTION GROUND. THEY HAVE TO ACTUALLY LOOK AT THE DOCUMENT TO
+DETERMINE WHO WORKS IT. IF IT GETS ROUTED TO ME AND YOU,
+COMMISSIONER AINGE, AND YOU’RE THE ONE WHO WORKS IT, PLL TAKE
+MYSELF OUT. IF YOU’RE NOT THE ONE WHO WORKS IT AND IT’S ME, YOU
+WOULD TAKE YOURSELF OUT. SO THAT’S THE ROUTED ONLY COLUMN. THE
+COMPLETED COLUMN IS AS OF THE DATE OF THIS REPORT WHICH THIS ONE
+WAS LAST FRIDAY, THAT’S HOW MANY OF THOSE ASSIGNED DOCUMENTS, THAT
+WERE NOT ROUTED, WERE COMPLETED OR COMPLETED BY SOMEONE ELSE.
+SOMETIMES WE HAVE TO ROUTE IT TO SOMEONE WHO WAS NOT IN THE
+ROUTING BECAUSE OF THE WAY IT WAS ENTERED SO THERE’S A LOT OF BACK
+DATA THAT GOES TO THESE NUMBERS. THE ‘DOCUMENTS TO WORK’ COLUMN -
+THAT’S JUST SAYING HOW MANY IN MY QUEUE I HAVE LEFT TO WORK BASED
+ON THAT DATE.
+
+SO, ON 10/10 1 HAD 299 DOCUMENTS IN MY QUEUE UP TO THE DATE OF ENTRY
+AND PROOFING TO WORK.
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+Tea
+
+COMMISSIONER AINGE - SO IT LOOKS LIKE IN GENERAL, THEY ADD UP BUT THE
+NUMBER OF ASSIGNED IS NOT SUPPOSED TO ADD UP TO ALL OF THOSE OTHER
+COLUMNS BECAUSE THERE’S SOME CHANGES THAT HAPPEN ALONG THE WAY
+IN ASSIGNMENTS AND RESPONSIBILITIES.
+
+ANDREA ALLEN —- CORRECT. SO, THE UPPER PORTION THAT YOU CAN ONLY SEE
+A FEW LINES - THE SCREEN ROLLS SO THAT’S JUST THE BOTTOM PORTION OF
+THE WORK ANALYSIS THAT GOES TO THE ASSESSOR’S OFFICE. SO, THE FIRST
+LINE IS THE TOTAL NUMBER OF GROUPS CUMULATIVE BY ALL OF THE
+MAPPERS. THE SECOND ONE IS THE TOTAL OF PARENTS THAT HAVE BEEN
+KILLED. PARENTS, ONCE WE WORK A DOCUMENT OUR HIERARCHY IS PARENTS,
+CHILDREN, REMAINDERS AND SAMES. PARENTS ALWAYS STOP BEING TAXABLE
+FOR THE NEXT TAX YEAR. THE CHILDREN ARE WHAT COME FROM THAT
+PARENT. SO OFTENTIMES THERE ARE MULTIPLE PARENTS THAT WILL GO TO
+ONE CHILD AND SOMETIMES THERE’S ON PARENT AND IT GOES TO MULTIPLE
+CHILDREN, SO THOSE NUMBERS ARE JUST THE NUMBER OF PARENTS.
+
+THE THIRD ONE IS THE NUMBER OF CHILDREN.
+
+THE FOURTH COLUMN IS THE NUMBER OF SAMES, THAT IS SOMETHING THAT
+HAPPENS IN A BOUNDARY LINE AGREEMENT. LIKE MY BOUNDARY IS REALLY
+GOOD BUT MY NEIGHBORS ARE NOT. THERE’S EITHER A GAP OR THEY’RE
+OVERLAPPING ON MINE. BUT MINE JUST STAYS THE SAME BUT I’M INVOLVED IN
+THAT DOCUMENT SO I NEED TO HAVE THAT DOCUMENT ABSTRACTED TO MY
+PROPERTY SO PEOPLE CAN SEE THAT I ENTERED INTO THIS AGREEMENT EVEN
+THOUGH MINE DIDN’T CHANGE. SAMES ALSO HAPPEN WITH AN ANNEXATION.
+SO, WHEN PROPERTY IS ANNEXED AND THE BOUNDARY DOESN’T CHANGE FOR
+THE PROPERTY, JUST THE TAXING ENTITY CHANGES. THOSE ARE ALSO SAMES.
+
+THE NEXT COLUMN IS REDRAWS WHICH ARE PARCELS. UP IN THE TOP IT’S THE
+COLUMN THAT 400 AND 65. AS WE’RE WORKING IN AN AREA, IF WE SEE THAT
+THERE ARE PROBLEMS ON THE MAP OR THERE HAS MAYBE BEEN AN ERROR IN
+THE WAY THE DESCRIPTION WAS ENTERED INTO, THE CODE FILE SYSTEM WILL
+DO A REDRAW. A REDRAW DOESN’T CHANGE ACREAGE. WELL SOMETIMES
+IT’LL CHANGE ACREAGE BUT MINIMALLY. IT’S MORE OF A CLEANUP
+MECHANISM.
+
+THE NEXT COLUMN IS THE TOTAL OF PARCELS.
+
+THEN WHEN YOU GET OVER TO THE OTHER SIDE, THE LAST 3 COLUMNS ARE
+GREEN BELT WORK THAT NEEDS TO HAPPEN IN THE ASSESSOR’S OFFICE AND
+THE COLUMNS BEFORE THAT ARE GROUPS THAT ARE SENT TO THE ASSESSOR’S
+OFFICE. THEY’RE IN CHECK STATUS AND THEY’RE WAITING TO BE WORKED BY
+THE ASSESSOR’S OFFICE.
+
+THE 4" COLUMN OVER IS WHERE THE ASSESSOR HAS ACCEPTED THOSE
+GROUPS THAT WE HAVE SENT OVER AND IT’S WAITING TO BE PROCESSED BY
+THE ASSESSOR’S OFFICE. THIS IS THE ONE AREA WHERE OUR ADDITION OF THE
+QUALITY CONTROL ANALYST REALLY SHINED BRIGHTLY BECAUSE HAVING
+THAT TASK TAKEN FROM MY WORKLOAD REALLY ALLOWED OUR
+
+DocuSign Envelope ID: BB2C2057-F 1B 1-455E-81E 1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+8|
+
+DEPARTMENT TO HAVE THIS INFORMATION TO THE ASSESSOR’S OFFICE MORE
+TIMELY AND TO ALLOW THE ASSESSOR’S OFFICE TO HAVE ACCESS TO THAT
+INFORMATION MORE TIMELY THAN THEY HAD IN THE PREVIOUS TWO YEARS
+WHEN WE DIDN’T HAVE SOMEONE HIRED TO REPLACE THE PERSON WHO
+RETIRED.
+
+THIS IS A TON OF INFORMATION AND IT CHANGES DAILY AND THROUGHOUT
+THE DAY. IT’S VERY FLUID. ALL OF THESE NUMBERS CHANGE DEPENDING ON
+WHAT TIME OF THE DAY YOU RUN THE REPORT.
+
+on
+
+: wl
+
+=
+
+i.
+
+(REFERRING TO ABOVE SLIDE) THIS SCREENSHOT IS OLD DATA BUT AGAIN, YOU
+CAN SEE THE NEXT 20 DOCUMENTS OUTSTANDING TO WORK. THIS IS JUST
+SHOWING WHAT MAPPER HAS WHAT DOCUMENT TO WORK, THE ENTRY
+NUMBER, WHO IT WAS ASSIGNED TO, THE DATE IT WAS ASSIGNED. THESE
+CHANGE. SOMETIMES A MAPPER WILL BE ASSIGNED A DOCUMENT. IT REALLY
+DOESN'T GO TO TITEM AND THEY’LL HAVE TO ASSIGN IT TO ANOTHER MAPPER,
+SO THE DATA ASSIGNED KIND OF JUMPS SOMETIMES.
+
+‘NOT COMPLETED’ JUST SHOWS YOU WHAT DAY THAT SPECIFIC MAPPER IS ON
+AND THAT’S HIS NEXT DOCUMENT OR HER NEXT DOCUMENT TO WORK. THE
+BAR GRAPH OVER ON MY LEFT, THE RED AND GREEN, ARE DOCUMENTS THAT
+ARE ASSIGNED AND THOSE THAT ARE COMPLETED. YOU CAN SEE HOW KATE
+HAS A REALLY BIG GREEN BAR. SHE IS THE SUPERVISOR SO SHE’S THE ONE
+WHO’S DOING THE REASSIGNING TO TRY TO MAKE THOSE BARS AND GRAPHS
+MORE IN LINE WITH EACH OTHER AS SHE TRIES TO MANAGE THE VOLUME OF
+WORK FOR EACH MAPPER.
+
+COMMISSIONER AINGE — DO YOU PREFER TO MANAGE IT THIS WAY OR DO YOU
+WISH THAT THERE WAS A WAY THAT ONCE IT’S REASSIGNED, THAT CHANGES
+THEN THE ASSIGNED COLUMN ON THE DASHBOARD?
+
+DocuSign Envelope ID: BB2C2057-F1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+9h.
+
+ANDREA ALLEN - THAT’S WHAT WE’RE WORKING ON IS SO WE CAN SEE A
+LITTLE MORE ACCURATELY BASED OF THIS BAR, WHAT IS HAPPENING. WE
+HAVE THOSE NUMBERS IN OTHER PLACES BUT IT’S JUST NUMBERS, SO THAT’S
+PART OF THIS ENHANCEMENT THAT WE’RE WORKING ON.
+
+COMMISSIONER LEE - THIS IS FLUID EVERY DAY. YOU’RE SEEING GOING BACK
+AND FORTH. I FIND THIS FASCINATING ESPECIALLY ON MEASURING
+PRODUCTIVITY AND OF COURSE, YOU HAVE YOUR QUALITY CONTROL. THEY’RE
+ALSO GOING THROUGH AND PROBABLY CHECKING THAT SO SEE IF THE
+WORK’S GETTING DONE APPROPRIATELY. OVERALL, WITH WORKING FROM
+HOME AND WORKING IN THE OFFICE, DO YOU SEE DIFFERENCES COMPARABLE
+DIFFERENCES OR IS IT ABOUT THE SAME?
+
+ANDREA ALLEN - WE ARE ACTUALLY SEEING AN INCREASE IN PRODUCTIVITY.
+WE HAVE SEEN AN INCREASE NOT HUGE, BUT WE WERE REALLY WORRIED
+THAT IT WOULD GO DOWN AND IT DIDN’T. PROBABLY BETTER RESULTS WITH
+THE MAPPERS THAN WITH THE ENTRY. WE DID HAVE MORE OF THE MAPPERS
+HOME UNTIL ABOUT AUGUST AND THEN WE HAD A FEW MORE COME BACK IN.
+IT WAS SURPRISING THAT IT DID INCREASE, AND THEY ARE GETTING CLOSER
+TO CLOSING THE GAPS THAN THEY HAVE BEEN JUST WHEN HERE IN THE
+OFFICE.
+
+THE BAR GRAPH WHERE YOU SEE THE LINES GOING HORIZONTALLY WITH THE
+LITTLE BIT OF BLUE, THE GREEN AND THE RED — THOSE ARE CONVEYING
+DOCUMENTS, NON-CONVEYING DOCUMENTS AND SEGREGATIONS. SO, THE BLUE
+IS A SEGREGATION - THAT CORRELATES TO THE OTHER PAGE WHERE WE HAD
+THAT LIST OF SEGREGATIONS. THIS IS JUST LAID OUT SO THAT YOU CAN GET
+AN IDEA. WE DO A LOT OF NON-CONVEYING DOCUMENTS, SO THESE ARE
+REFINANCINGS, UCC FILINGS, TAX LIENS AND JUDGMENTS. THERE’S A LOT
+THAT ARE THE FODDER-TYPE, NON-OWNERSHIP TYPE DOCUMENTS. AGAIN,
+THIS DATA IS IN FLUX. SO, THEY’RE STILL TRYING TO FIX THAT. THE THING
+THAT LOOKS KIND OF WEIRD ARE THOSE LINE GRAPHS. THE PURPLE IS
+DROPPING OFF RIGHT NOW BECAUSE WE’RE ONLY IN OCTOBER SO DOWN AT
+THE BOTTOM YOU SEE WE’RE IN MONTH 10. THEN WHEN WE HIT MONTH 12 IT
+DROPS OFF DOWN AGAIN BECAUSE WE START INTO THE NEXT CYCLE. THIS
+GRAPH ISN’T WORKING QUITE THE WAY WE WANT IT TO BECAUSE IT STARTS
+OVER WITH JANUARY INSTEAD OF JUST SHOWING A ONE-YEAR CYCLE - IT’S
+SHOWING MULTIPLE MONTHS AND SO IT GOES UP AND THEN DOWN AND THEN
+BACK UP SHARPLY. YOU DON’T SEE THAT ON THAT GRAPH BUT THE INCREASE
+UP TO THE 12 MONTHS IS WHAT WE’RE LOOKING FOR WHEN IT POPS OUT INTO
+THE DETAILS IT WILL GIVE US AGAIN THE NUMBER OF DOCUMENTS RECORDED.
+THE NUMBER OF SEGREGATIONS. IT’LL CARRY ALL OF THAT.
+
+COMMISSIONER LEE - IT IS CONFUSING PROBABLY BECAUSE YOU DON’T SEE
+ALL THE KEYS AT THE BOTTOM, BUT IT SAYS, ‘TO BE COMPLETED FROM 7/1/2020
+TO 10/31’. 1'WOULD ASSUME THAT WOULD BE THE RANGE BUT YOU’RE SAYING
+THIS IS THE MONTHS DOWN BELOW FOR THE WHOLE YEAR.
+
+ANDREA ALLEN — RIGHT. THAT UPPER DATE THE 7 TO 10 IS NOT CORRECT FOR
+THIS GRAPH. LIKE I SAID THEY’RE WORKING ON THESE.
+
+DocuSign Envelope ID: BB2C2057-F1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+10, Pos:
+
+COMMISSIONER LEE — YOU ANTICIPATE THAT THIS YEARS WILL GO ALL THE
+WAY DOWN BECAUSE IT LOOKS LIKE EVERYTHING STARTS AT THE 5000 LEVEL
+IN THE WAY OF DOCUMENTS. DO YOU ANTICIPATE IT WILL DROP ALL THE WAY
+BACK DOWN TO THAT BY THE END OF THE YEAR?
+
+ANDREA ALLEN - NO, WE’RE GOING UP.
+
+JEFF SMITH - INTEREST RATES, SUBDIVISION HAVE BEEN COMING IN A WEEK
+BEFORE LAST. I THINK WE CREATED 147 NEW LOTS IN ONE WEEK. WE GOT LIKE
+27 PLOTS IN AND WE’RE JUST GETTING INUNDATED WITH SUBDIVISIONS. WE
+ALWAYS SEE A BIG RUSH IN THE FALL AND SPRING. EVERYONE WANTS CEMENT
+DONE NOW AND THEY WANT IT DONE IN THE SPRING SO THEY CAN MOVE IN
+DURING THE SUMMER. WE SEE RUSHES LIKE THIS, AND EVERYONE WANTS IT
+DONE TODAY SO THEY CAN BUILD TOMORROW.
+
+ANDREA ALLEN — WE’RE ALREADY AT 6,800 DOCUMENTS IN THE FIRST 12 DAYS
+OF OCTOBER VERSUS 14,639 DOCUMENTS FOR ALL OF OCTOBER LAST YEAR AND
+WE’RE NOT GOING TO SLOW DOWN. AUGUST WAS AN UNBELIEVABLE NUMBER
+OF DOCUMENTS. THAT IS WHY EIGHT WORKERS IS NEVER GOING TO HAVE US
+CLOSE THE GAP AND IT’S NOT JUST ENTRY THAT THESE TEAM MEMBERS HAVE
+TO DO. THEY HAVE TO RECORD THE DOCUMENTS, VERIFY THEM THROUGH
+SIMPLIFILE. THEY ALSO HAVE MAIL THAT COMES IN, SUBDIVISION PLOTS,
+PROOFING, ETC. THERE’S A VARIETY OF TASKS THAT GO WITH TRYING TO HIT
+THAT 100 DOCUMENTS PER DAY GOAL. WE DID BUMP THEM UP TO 150, TRYING
+TO MAKE SURE THAT WE CAN HAVE THAT GAP CLOSER TO BEING CLOSED BY
+JANUARY 30™ WHEN WE NEED TO TURN INFORMATION TO THE ASSESSOR. LIKE
+JEFF SAID, WE HAVE NO CONTROL OVER THE NUMBER OF DOCUMENTS THAT
+COME IN OR THE NUMBER OF DOCUMENTS THAT DO NOT COME IN. WE’RE AT
+THE MERCY OF THE PROCESS, THE INTEREST RATES, THE WEATHER. AS YOU
+MENTIONED IT’S BEEN GREAT WEATHER, SO BUILDING IS GOING LIKE CRAZY.
+
+WE ARE 4 FULL-TIME EMPLOYEES UNDERSTAFFED CURRENTLY FROM OUR
+STAFFING PLAN FROM 2019. WE HAVE HAD SOME PEOPLE RETIRE AND WITH
+THE EFFECTS OF COVID AND THE ISSUES THAT CAME UP, TRAINING WHILE
+WORKING FROM HOME, IT JUST HAS NOT BEEN CONDUCIVE TO HAVE NEW
+HIRES. WE ARE IN THE PROCESS OF RECRUITING RIGHT NOW. WE ARE TOO
+SHORT IN ENTRY AND MAPPING. WE CAN’T LOAD REAL HEAVY ON THE FRONT
+END AND HAVE ALL THOSE DOCUMENTS IN AND PROCESSED AND NOT HAVE
+ANYBODY ON THE BACK END TO WORK THEM. IT HAS TO STAY PRETTY EVEN. IT
+DOES NO GOOD TO HAVE ALL OF THE TEAM ON THE BACK-END WAITING FOR
+WORK IF IT’S SO BUSY ON THE FRONT THAT THEY CAN’T GET THE
+INFORMATION TO WHERE IT NEEDS TO BE.
+
+DocuSign Envelope ID: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder’s Office
+October 13, 2020
+
+11 |
+
+beget be rr]
+Meppet Documents Assigned: 1/172020 101073112020 Sar] Wage Dake 7A IEKS
+
+fo Aeesce: U4AL1 LUM Recorded Ob 2000 1643
+say 10) ANORTA. GARRETT A IHSEYNIRAP HALIM
+
+Does Aasigned & Completed By lonth
+cr)
+
+Mapper Documents Completed: 77112020 10109112020
+AAMT IOI mene oad oy Pet5
+
+Docs Assigned & Completed Cumudstive
+Gen
+
+THIS IS JUST ANOTHER ONE OF OUR DASHBOARDS. THIS IS ONE THAT’S IN
+PROGRESS TOO, THIS IS A PIE CHART VERSION OF THE GRAPHS. THIS IS
+ASSIGNED AND COMPLETED. IT GIVES A PERCENTAGE OF WHAT WAS ASSIGNED.
+
+COMMISSIONER LEE — THEY’RE NOT ALL EQUAL IN THE AMOUNT OF TIME AND
+EFFORT YOU PUT INTO IT. SO HOW DO YOU MEASURE THAT?
+
+ANDREA ALLEN — WE LOOK AT SOME OF THOSE ITEMS ON THE REPORTS THAT
+TELL US WHAT KIND OF DOCUMENTS THEY HAVE BEEN ROUTED. WE KNOW IF
+YOU ONLY HAD ONE MAP AND YOU HAD MAYBE SEVEN FODDER DOCUMENTS
+THAT WE KNOW FODDER DOCUMENTS DON’T TAKE THAT MUCH TIME.
+WHEREAS WITH A NAME CHANGE, YOU HAVE THIS WHOLE DIFFERENT
+CRITERIA OF WHAT YOU HAVE TO LOOK AT AND ENSURE IS CORRECT BEFORE
+YOU MAKE THAT NAME CHANGE. YOU HAVE TO MAKE SURE THAT THE
+DESCRIPTION IS CORRECT. THERE’S A LOT OF DIFFERENT THINGS SO WE KNOW
+WHAT KIND OF DOCUMENTS YOU’RE GETTING, HOW MANY ARE NAME
+CHANGES, HOW MANY ARE NON-CONVEYING AND THAT’S WHAT WILL SHOW UP
+ON SOME OF THESE REPORTS ON THE SIDE HERE.
+
+COMMISSIONER LEE ~ DO YOU TAKE THIS INTO THEIR ASSESSMENT TO:
+
+ANDREA ALLEN ~ YES, ALL 4 OF THESE DASHBOARDS ARE USED IN THEIR
+YEARLY ASSESSMENTS. THE SUPERVISORS HAVE ACCESS TO THESE
+DASHBOARDS, THE TWO QUALITY CONTROL TEAMS HAVE ACCESS - ONE DOES
+MAPPING, ONE DOES ENTRY. THEY GIVE INPUT TO THE DIVISION MANAGERS,
+JEFF AND I HAVE ACCESS AND WE GIVE INPUT BECAUSE WE AUDIT THESE AND
+MONITOR THESE DAILY.
+
+DocuSign Envelope 1D: BB2C2057-F 1B1-455E-81E1-F8F683C4D5D9
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+PUBLIC BUDGET WORK SESSION — Recorder's Office
+October 13, 2020
+
+12| Page
+
+Questions?
+
+ax
+Utah County
+
+PUBLIC COMMENTS
+
+NO PUBLIC COMMENTS
+
+(Meeting Ended: 11:41 am)
+
+In compliance with the Americans With Disabilities Act, individuals needing special accommodations
+(including auxiliary communicative aids and services) during this meeting should notify Alice Black at
+(801) 851-8111 at least three days prior to the meeting.
+
+DocuSigned by:
+Tanner linge
+TANNER ATNOE
+
+Commission Chair
+
+ATTEST:
+
+DociiSigned by:
+Alin Plack
+

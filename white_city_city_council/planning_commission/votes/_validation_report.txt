@@ -1,0 +1,49 @@
+White City PLANNING COMMISSION — vote extraction validation
+==========================================================
+
+Meetings (JSON)         : 22
+Meetings with >=1 vote  : 22
+Motions                 : 106
+  named roll-calls      : 1
+  tally-only            : 105  (of which unanimous: 66)
+Body split              : PlanningCommission 106
+Contested motions       : 1
+Mayor/Chair-vote rows   : 0  (chair/mayor VOTES in both eras)
+Distinct members        : 8
+
+CSV rows                : 106
+Expected (from JSON)    : 106   [OK]
+body not Council/PC     : 0
+
+Vote-format mode distribution:
+    narrative                  66
+    none                       39
+    narrative-named-dissent    1
+
+Motion-type distribution:
+    Procedural/Administrative  50
+    Public Hearing Action      22
+    Land-Use/Zoning            20
+    Appointment                14
+
+Vote-format mode by year (the ~2026 narrative->rollcall seam):
+    2019: narrative=10, none=7
+    2020: narrative=5, none=1
+    2021: none=14, narrative=11, narrative-named-dissent=1
+    2022: narrative=13, none=2
+    2023: narrative=7, none=5
+    2024: narrative=11, none=8
+    2025: narrative=9, none=2
+
+>5-voter / 6th-voter flags : 0   (expected 0 — max seat = 5)
+
+Off-roster names        : 0   (expected 0)
+
+Roll-call tally mismatches : 0
+
+Per-year observed members (name: vote rows):
+  2021:
+      Weston Millen        1
+
+Contested votes (1):
+    - 2021-05-25 [PlanningCommission] m4 (narrative-named-dissent) Pass (Millen abstained, all others in favor)  nay=[] abstain=['Weston Millen'] recuse=[] :: To approve the February 23, 2021 Planning Commission Me

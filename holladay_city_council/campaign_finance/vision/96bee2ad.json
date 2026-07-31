@@ -1,0 +1,41 @@
+{
+  "contributions": [
+    {"date": "9/2/21", "name": "Susan Westover", "amount": "200", "in_kind": false},
+    {"date": "9/3/21", "name": "Jeannette Hilton", "amount": "250", "in_kind": false},
+    {"date": "9/12/21", "name": "Peter Hilton", "amount": "100", "in_kind": false},
+    {"date": "9/12/21", "name": "Nathan Hilton", "amount": "50", "in_kind": false},
+    {"date": "9/15/21", "name": "Sharlene Wardrop", "amount": "25", "in_kind": false},
+    {"date": "9/16/21", "name": "Karen Manning", "amount": "25", "in_kind": false},
+    {"date": "10/29/21", "name": "Suzanne Wills", "amount": "35", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "6/17/21", "recipient": "Holladay City (Filing Fee)", "purpose": null, "amount": "35.00", "in_kind": false},
+    {"date": "8/23/21", "recipient": "Square Space", "purpose": null, "amount": "17.19", "in_kind": false},
+    {"date": "9/10/21", "recipient": "FedEx Office", "purpose": null, "amount": "692.81", "in_kind": false},
+    {"date": "9/10/21", "recipient": "Parry's Office", "purpose": null, "amount": "7.06", "in_kind": false},
+    {"date": "9/10/21", "recipient": "Cheap Yard Signs", "purpose": null, "amount": "239.15", "in_kind": false},
+    {"date": "9/21/21", "recipient": "Postcard Mania", "purpose": null, "amount": "418.00", "in_kind": false},
+    {"date": "9/23/21", "recipient": "Parry's Office", "purpose": null, "amount": "3.53", "in_kind": false},
+    {"date": "9/23/21", "recipient": "Postcard Mania", "purpose": null, "amount": "97.12", "in_kind": false},
+    {"date": "9/24/21", "recipient": "FedEx Office", "purpose": null, "amount": "341.03", "in_kind": false},
+    {"date": "9/27/21", "recipient": "Parry's Office", "purpose": null, "amount": "3.53", "in_kind": false},
+    {"date": "9/29/21", "recipient": "FedEx Office", "purpose": null, "amount": "178.55", "in_kind": false},
+    {"date": "10/1/21", "recipient": "FedEx Office", "purpose": null, "amount": "80.16", "in_kind": false},
+    {"date": "10/1/21", "recipient": "USPS", "purpose": null, "amount": "46.40", "in_kind": false},
+    {"date": "10/13/21", "recipient": "Postcard Mania", "purpose": null, "amount": "488.02", "in_kind": false}
+  ],
+  "total_contributions": "600",
+  "total_expenditures": "2647.55",
+  "contributions_50_or_less": "85",
+  "beginning_balance": null,
+  "ending_balance": "($1962.55)",
+  "_meta": {
+    "index_path": "raw/2021_state_hilton-final.pdf",
+    "candidate": "Melissa Blackham Hilton",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2021_state_hilton-final.pdf",
+    "pages": 3
+  }
+}

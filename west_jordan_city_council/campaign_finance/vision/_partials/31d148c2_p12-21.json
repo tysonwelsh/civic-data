@@ -1,0 +1,78 @@
+{
+  "segments": [
+    {
+      "pages": "12-19",
+      "report_label": "GREEN, KELVIN, P — Date of Report 10/25/2021 (report begins BEFORE p12; these are the report's internal Pages 3-10: code-provision boilerplate, Attachment A/A-1 contributions, Attachment B expenditures, Attachment C in-kind)",
+      "cover_lines": {},
+      "contributions": [
+        {"date": "7/27/2021", "name": "KELVIN GREEN (LOAN)", "amount": "400.00", "in_kind": false},
+        {"date": "8/23/2021", "name": "KELVIN GREEN (LOAN)", "amount": "400.00", "in_kind": false},
+        {"date": "9/30/2021", "name": "KELVIN GREEN (LOAN)", "amount": "400.00", "in_kind": false},
+        {"date": "10/4/2021", "name": "KELVIN GREEN (LOAN)", "amount": "998.68", "in_kind": false},
+        {"date": "9/20/2021", "name": "KELVIN GREEN (LOAN)", "amount": "2,938.01", "in_kind": false},
+        {"date": "9/20/2021", "name": "KELVIN GREEN (LOAN)", "amount": "2,938.01", "in_kind": false},
+        {"date": "9/21/2021", "name": "DAI MANAGERS", "amount": "1,000.00", "in_kind": false},
+        {"date": "9/24/2021", "name": "MIKE GREEN", "amount": "100.00", "in_kind": false},
+        {"date": "9/24/2021", "name": "KURT GREEN", "amount": "100.00", "in_kind": false},
+        {"date": "9/24/2021", "name": "JORDAN WATER LLC", "amount": "300.00", "in_kind": false},
+        {"date": "9/27/2021", "name": "MEGHAN SHELBY", "amount": "75.00", "in_kind": false},
+        {"date": "10/18/2021", "name": "KELVIN GREEN (LOAN)", "amount": "1,097.00", "in_kind": false},
+        {"date": "10/3/2021", "name": "KELVIN GREEN (LOAN)", "amount": "122.82", "in_kind": false},
+        {"date": "9/27/2021", "name": "KELVIN GREEN (LOAN)", "amount": "86.82", "in_kind": false},
+        {"date": "10/6/2021", "name": "KELVIN GREEN (LOAN)", "amount": "80.00", "in_kind": false},
+        {"date": "10/18/2021", "name": "SL HOME BUILDERS ASSN", "amount": "250.00", "in_kind": false},
+        {"date": "10/23/2021", "name": "PETERSON DEVELOPMENT", "amount": "500.00", "in_kind": false},
+        {"date": "9/30/2021", "name": "MICHAEL GREEN", "amount": "1,000.00", "in_kind": true, "description": "CONSULTING FEES"},
+        {"date": "9/24/2021", "name": "KELVIN GREEN", "amount": "350.00", "in_kind": true, "description": "FOOD AND SUPPLIES FOR FUNR[text cut at cell edge; likely FUNDRAISER]"},
+        {"date": "9/7/2021", "name": "REAGAN OUTDOOR ADVERTISING", "amount": "2,517.00", "in_kind": true, "description": "BILLBOARD"},
+        {"date": "10/12/2021", "name": "KELVIN GREEN", "amount": "5.00", "in_kind": true, "description": "BOTTLES OF WATER"},
+        {"date": "10/12/2021", "name": "KELVIN GREEN", "amount": "180.00", "in_kind": true, "description": "TREATS AND CANDY (Notes: MEET CANDIDATES)"},
+        {"date": "9/24/2021", "name": "MARIA GREEN", "amount": "25.00", "in_kind": true, "description": "VINYL FOR STICKERS"},
+        {"date": "10/5/2021", "name": "KELVIN GREEN", "amount": "25.00", "in_kind": true, "description": "DOOR HANGER BLANKS"},
+        {"date": "10/10/2021", "name": "KELVIN GREEN", "amount": "5.25", "in_kind": true, "description": "PRINTING COSTS (Notes: 75@.07)"},
+        {"date": "10/11/2021", "name": "KELVIN GREEN", "amount": "4.90", "in_kind": true, "description": "DOOR HANGER PRINTING (Notes: 70@.07)"},
+        {"date": "10/22/2021", "name": "KELVIN GREEN", "amount": "2.80", "in_kind": true, "description": "PRINTING COSTS (Notes: 40@.07)"},
+        {"date": "10/22/2021", "name": "KELVIN GREEN", "amount": "9.24", "in_kind": true, "description": "post card printing (Notes: 132@.07)"},
+        {"date": "9/20/2021", "name": "KELVIN GREEN", "amount": "5.25", "in_kind": true, "description": "post card printing (Notes: 75@.07)"},
+        {"date": "9/21/2021", "name": "KELVIN GREEN", "amount": "80.00", "in_kind": true, "description": "POSTAGE"},
+        {"date": "9/22/2021", "name": "KELVIN GREEN", "amount": "48.00", "in_kind": true, "description": "POSTAGE"},
+        {"date": "10/25/2021", "name": "SL BOARD OF REALTORS", "amount": "1,750.00", "in_kind": true, "description": "DIGITAL ADVERTISING"}
+      ],
+      "expenditures": [
+        {"date": "7/21/2021", "recipient": "WEST JORDAN JOURNAL (AUG)", "purpose": "ADVERTISING", "amount": "400.00", "in_kind": false},
+        {"date": "8/23/2021", "recipient": "WEST JORDAN JOURNAL(SEP)", "purpose": "ADVERTISING", "amount": "400.00", "in_kind": false},
+        {"date": "9/30/2021", "recipient": "WEST JORDAN JOURNAL(OCT)", "purpose": "ADVERTISING", "amount": "400.00", "in_kind": false},
+        {"date": "10/4/2021", "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]", "purpose": "MAILER", "amount": "998.68", "in_kind": false},
+        {"date": "9/20/2021", "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]", "purpose": "MAILER", "amount": "2,938.01", "in_kind": false},
+        {"date": "9/20/2021", "recipient": "SALT LAKE MAILING AND PRINTIN[text cut at cell edge]", "purpose": "MAILER", "amount": "2,938.01", "in_kind": false},
+        {"date": "10/3/2021", "recipient": "ROBOCENT", "purpose": "TEXTS", "amount": "122.82", "in_kind": false},
+        {"date": "9/27/2021", "recipient": "ROBOCENT", "purpose": "TEXTS", "amount": "86.82", "in_kind": false},
+        {"date": "10/6/2021", "recipient": "ICONTACT", "purpose": "EMAIL SEVICE", "amount": "80.00", "in_kind": false},
+        {"date": "10/3/2020", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "18.86", "in_kind": false},
+        {"date": "10/23/2021", "recipient": "US POSTAL SERVICE", "purpose": "POSTAGE", "amount": "88.00", "in_kind": false},
+        {"date": "9/24/2021", "recipient": "JORDAN WATER LLC", "purpose": "ICE", "amount": "15.00", "in_kind": false},
+        {"date": "1018/2021", "recipient": "THE POLITICAL GROUP", "purpose": "PHONE BANK", "amount": "1,097.00", "in_kind": false},
+        {"date": "10/18/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "35.00", "in_kind": false},
+        {"date": "10/13/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "25.00", "in_kind": false},
+        {"date": "10/12//2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "15.00", "in_kind": false},
+        {"date": "10/8/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "15.00", "in_kind": false},
+        {"date": "10/7/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "10.00", "in_kind": false},
+        {"date": "10/6/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "10.00", "in_kind": false},
+        {"date": "10/5/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "10.00", "in_kind": false},
+        {"date": "9/4/2021", "recipient": "HOME DEPOT", "purpose": "POSTS", "amount": "65.64", "in_kind": false},
+        {"date": "10/25/2021", "recipient": "FACEBOOK", "purpose": "ADVERTISING", "amount": "50.00", "in_kind": false}
+      ]
+    },
+    {
+      "pages": "20-21",
+      "report_label": "Kelvin Green — (AMENDED Primary Financial Disclosure) 10/25/2021 [p20 separator sheet]; p21 = report cover Page 1, INTERIM (7 days before primary, due Aug 3rd 2021) box checked; received-stamp 'AUG 0? 2021 12:30pm By Tangee' (day digit unclear); At-Large Council Member",
+      "cover_lines": {
+        "1_balance_forward": "274.70",
+        "2_contributions_50_or_less": "0.00"
+      },
+      "contributions": [],
+      "expenditures": []
+    }
+  ],
+  "notes": "PDF pages 12-21 of 31 (this partial owns only this range). SEGMENT BOUNDARIES: p12 opens mid-report (report internal 'Page 3' — its cover page with lines 1-6 is BEFORE p12, outside this range, so cover_lines={} for segment 1). Segment 1 internal pagination: p12='Page 3' (WJ Municipal Code 1-15-3/1-15-4 boilerplate), p13='Page 4' (Utah Code 10-3-208 boilerplate), p14='Page 5' (UCA (9) continuation + Name of Candidate: GREEN, KELVIN, P / Date of Report: 10/25/2021), p15='Page 6' (Attachment A + A-1 contributions, 17 rows), p16='Page 7' (empty A-1 continuation, TOTAL $ 11,786.34), p17='Page 8' (Attachment B, 22 rows), p18='Page 9' (empty B continuation, TOTAL $9,818.84; then Attachment C in-kind, 15 rows, candidate name printed 'KELVIN GREEN'), p19='Page 10' (empty C continuation, TOTAL IN-KIND CONTRIBUTIONS $6,007.44). Attachment A header totals (verbatim, NOT cover lines): '1. Total of all contributions of $50 or less received from any individuals since the last report $ 265.00' (UNITEMIZED — no rows synthesized); '2. Total of all contributions of more than $50, including in-kind contributions $17,793.78', 'INKIND $6,007.44', 'MONEY $ 11,786.34'. Segment 2 begins at p20 (colored separator sheet). p21 is that report's cover 'Page 1' and is CUT MID-COVER at the bottom of the page range: only lines 1 and 2 appear on p21; lines 3-6 continue on p22 (owned by another partial). Anomaly: p20 separator says AMENDED Primary disclosure dated 10/25/2021, yet the checked box on p21 is the pre-PRIMARY interim (due Aug 3) and the clerk stamp reads AUG 2021 — transcribed verbatim, likely an amended refiling of the primary-period report. Preserved typos/oddities: expenditure date '10/3/2020' (Facebook, likely 2021); date '1018/2021' (The Political Group); date '10/12//2021' (double slash); 'EMAIL SEVICE' (sic); 'SALT LAKE MAILING AND PRINTIN' truncated by cell edge on all 3 rows (addresses show both '1841 S. PIONEER RD' and '1842 S. PIONEER RD'); in-kind 'FOOD AND SUPPLIES FOR FUNR' cut at cell edge; Attachment C header misprint 'Name of Doner' (sic). Redactions: MIKE GREEN, KURT GREEN, MEGHAN SHELBY mailing addresses blacked out; DAI MANAGERS address clipped at '...Draper, UT 84(cut)'. Contribution rows with in_kind=true come from Attachment C (p18) and are EXCLUDED from the money totals per the form (Line-4-excludes-in-kind rule); their 'description'/'Notes' text is transcribed in the description field. No illegible amounts in this range."
+}

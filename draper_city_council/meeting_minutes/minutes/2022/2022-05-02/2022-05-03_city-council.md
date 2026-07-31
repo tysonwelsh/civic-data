@@ -1,0 +1,503 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=578&doc_id=3c673d68-d6cf-11ec-bbb4-0050569183fa
+> Meeting date: 2022-05-03
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, MAY 3,
+2022, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:            Mayor Troy K. Walker, Councilmembers Mike Green (by Zoom),
+                    Tasha Lowery, Fred Lowry (by phone and Zoom), Cal Roberts, and
+                    Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Fred Aegerter, Community
+                    Development Director; Mike Barker, City Attorney; Kellie
+                    Challburg, Chief of Staff; Scott Cooley, Public Works Director; John
+                    Eining, Police Chief; Bret Millburn, Assistant City Manager; Malena
+                    Murray, Human Resources Director; Rhett Ogden, Recreation
+                    Director; Laura Oscarson, City Recorder; Linda Peterson,
+                    Communications Director; Clint Smith, Fire Chief; Jake Sorensen,
+                    IT; and Bob Wylie, Finance Director; Jared Zacharias, Assistant
+                    Finance Director
+_____________________________________________________________
+Study Session
+**Councilmember F. Lowry joined the meeting by phone
+1.0    Training: Land Use – Mike Barker
+
+1.1   Mr. Barker announced that there would be a land use training, which would
+      take place in two parts. He explained that land use was protected at both the
+      Federal and State level, and gave some examples of how the City could legally
+      acquire land. He elaborated on the parameters of the action and said that it
+      referred to the exaction of public or private property for new development.
+      He said that for example, some projects might be required to take a half-width
+      of a road if the project had a high impact on the surrounding area. He noted
+      that no property could be taken without just compensation. He also clarified
+      that there was a distinction between “exaction” and “zoning regulations,”
+      which referred to things such as setbacks.
+
+      Mr. Barker reported that they had received some negative public feedback
+      regarding exaction. He explained that exactions were legal unless they went
+      too far, and elaborated that an individualized analysis had to be done in each
+      exaction case to determine how much land could be taken. He discussed a
+      court case regarding an exaction that had taken place in California, in which a
+
+
+Draper City Council Approved Minutes – May 17, 2022
+      private landowner increased the size of their oceanfront property, and then
+      had been required to include a public setback with beach access. He said that
+      the Supreme Court had struck down that exaction, on the basis that there had
+      to be a correlation between what the developer wanted to do and what the
+      mandated exaction was. He shared several more examples of court cases in
+      which an exaction had been struck down and reiterated that an analysis must
+      be done in each exaction case, to determine if it would be legal or not.
+
+      Councilmember Roberts asked for clarity about the analysis and asked what
+      tests were done. Mr. Barker explained that they had to determine if there
+      would be a negative impact on the public if there was no exaction, and gave
+      traffic mitigation as an example. He said that they also had to ensure that the
+      exaction would improve the issue or not. Mr. Aegerter gave some examples
+      of cases in which it had been proven that exactions would resolve issues with
+      a development. Mr. Dobbins added that they had a similar process with
+      impact fees as well, and said that it did require some element of subjectivity
+      to determine how much the City could charge residents.
+
+      Mr. Barker explained that in the case of exactions, the City had to weigh the
+      cost to the developer versus the cost of the impact of that development on the
+      public to determine if an exaction would be needed. He also noted that the
+      exaction had to be in proportion to the size of the development. Mr. Dobbins
+      commented that they also referenced the City’s General Plan to determine if
+      an exaction was legal. He added that they also checked with the City’s Code to
+      determine what kinds of exactions they could require. Mr. Barker also said
+      that once they concluded on an exaction, which was a binding decision, the
+      developer would have to comply to move forward with the development.
+
+2.0   Police Department Annual Report – Chief John Eining
+
+2.1   Chief Eining shared the current number of staff in the Police Department and
+      said that there was 60 total staff, with 40 sworn police officers. He noted that
+      they had made internal changes as needs had changed, but there had been
+      no change to levels of staffing since 2018. He read some statistics about the
+      number of calls they received each day and said that on average, each police
+      officer received about seven to eight calls per day. He noted that some calls
+      could be resolved within minutes, and some took several hours. He
+      commented that they had instructed the police officers to mitigate their self-
+
+
+
+                                                                         Page 2 of 12
+initiated work over the last two years to reduce their exposure to COVID-19
+and that they had been focused on calls that came in from dispatch.
+
+Chief Eining shared that their numbers of drug-related offenses were going
+down, and reported that the majority of their drug-related arrests were from
+traffic stops. He shared a heat map of the City and noted that the majority of
+crime happened in a more high-density area, where there were many
+shopping centers and a high volume of traffic. He noted that the SunCrest
+area had a low crime rate, despite some complaints from residents about the
+area. He added that the Ramada Inn was a constant problem for them, and it
+had a lot of drug activity, as well as suspected trafficking. He said that Veranda
+had about 600 calls for service in the last year alone. He said that their goal
+was to have a dedicated traffic patrol to help reduce crime rates in those
+problem areas.
+
+Chief Eining said that their arrest numbers were down, and that show of force
+arrests was down. He explained that “show of force” arrests were cases in
+which the police officer had approached with a handgun or a Taser. He
+explained that all of these cases were carefully reviewed to ensure that the
+use of force had been legal. He commented that there had been one case in
+the last year in which pepper spray had been used. He shared that so far this
+year, there had been five traffic fatalities, which was far more than usual for
+the City. He said that there had been a shooting at the Hampton Inn, which
+was a high profile case, and there had been another shooting at Veranda
+recently. He said in total, there had been seven shootings over the last several
+months, which was abnormally high. He said that there had been an average
+of 36 unintended deaths last year, and explained that was the death of
+someone who had not been under a doctor’s care. These deaths could be of
+natural causes, accidents, or suicide.
+
+Chief Eining stated that their next goal was to publicize and distribute their
+Strategic Plan for the next five years, and noted that it would focus on the Point
+Project development. He imagined that they would need to begin the hiring
+process for that in the next five years so that they would be prepared for the
+population of that development. He commented that hiring police officers
+was different, and discussed the training process for new police officers. He
+noted that it was a challenge to hire new staff that was interested in the
+position, as well as qualified enough for the role. He also explained that it was
+difficult to account for the Point Project at this stage of the development since
+
+                                                                    Page 3 of 12
+      it was still unknown what the population would be. He said that they had also
+      started a recruitment program, and the members of the program were
+      currently visiting satellite facilities to find good candidates for the force. He
+      added that they were also focused on outreach to the community, and said
+      that they had recently held a women’s self-defense class.
+
+      Councilmember T. Lowery asked if they were responding to many calls at
+      Airbnbs, and Chief Eining said that they did not have an abnormally high
+      amount of cases that took place at short-term rentals. He noted that there
+      had been one shooting case that they had responded to at an Airbnb.
+
+3.0   Report: Fire Department Exchange – Firefighter Connor Carpenter and
+      Paramedic Erin Lytle
+
+3.1   Chief Smith discussed a conference that Draper City firefighters had recently
+      attended. He noted that the conference was paid for by a government grant,
+      and it had been no cost to the department for the firefighters to attend. He
+      mentioned that there was another upcoming conference that would take
+      place in Reno, and that was also partially covered by a grant.
+
+      Paramedic Erin Lytle introduced herself and stated that Draper had been
+      deployed on several wildland protection programs throughout the Western
+      United States over the last several years. She said that they had received the
+      Utah Outdoor Recreation Grant in 2019, which had allowed them to purchase
+      a mobile trailer, create a new trail, and hire a seasonal field crew for mitigation.
+      She discussed that they had recently attended the Fire Department Exchange
+      (FDX) conference to network with other agencies, and while attending this
+      conference they had developed a post-exchange action plan. She recognized
+      the potential damage to the SunCrest community in the event of a wildfire and
+      explained that the plan included prevention measures and evacuation policies
+      for the SunCrest development, which she noted was a high-risk area. She
+      elaborated that the plan worked in conjunction with other agencies, such as
+      the Federal Emergency Management Agency (FEMA), and noted that the
+      agencies shared information.
+
+      Firefighter Connor Carpenter quoted “an ounce of prevention is worth a
+      pound of cure,” and discussed the importance of mitigation. He commented
+      that wildfires had changed landscapes across the United States, and said that
+      in recent years, there had been a change in thinking as the importance of
+
+                                                                            Page 4 of 12
+      mitigation became more widely recognized. He stated that the National
+      Cohesive Strategy had been created, and worked with lawmakers to develop
+      policies that assisted with mitigation efforts. He said that the Strategy aimed
+      to develop resilient landscapes, and put out fires with minimal impact when
+      they did occur. He shared the Utah Wildfire Risk Assessment portal, which was
+      a map of the State that indicated high-risk areas. He noted that Draper was in
+      one of the highest risk areas in the State. He said that the safety measures
+      listed in the National Cohesive Strategy would take years to accomplish, but
+      they were important ways to decrease the impacts of fires.
+
+      Mr. Carpenter discussed prescribed fires within City limits and highly
+      populated areas and explained that it was an effective, inexpensive way to
+      achieve ecological improvement and a fire resilient landscape. He added that
+      burning at lower temperatures decreased some of the negative impacts of
+      unplanned, high-intensity wildfires, and commented that prescribed fires also
+      allowed them to control the direction and path of the fire. He hoped that
+      moving forward, they would be able to use all of their mitigation techniques,
+      and acknowledged that they would need the support of the City and Council.
+      He asked that the Council continue the support that they had shown the
+      Department so far, and thanked them for their time and support.
+
+4.0   Council/Manager Reports
+
+4.1   Councilmember T. Lowery reported on the ongoing issue with coyotes. She
+      said that another resident had complained about them after her dog had been
+      taken, and she felt that they were getting more aggressive. Chief Eining replied
+      that there was not any good solution, and said that people could not hunt or
+      shoot them within City limits. He added that the coyotes were also too smart
+      to fall for traps. He discussed that the coyotes would be an ongoing issue, and
+      said that one of the best things to do was educate the public as to how they
+      could haze or intimidate coyotes when they were spotted. He commented
+      that it was one of the issues with living in the foothills, and said that agencies
+      did not step in unless coyotes went after people rather than pets and small
+      animals. He summarized that they could not be eradicated, but the best thing
+      to do would be to learn how to coexist with them. He noted that leg traps
+      intended for coyotes also posed a threat to humans and pets, and so they
+      were not a viable option
+
+
+
+
+                                                                          Page 5 of 12
+4.2   Councilmember T. Lowery also discussed the Draper Community Foundation
+      and said that residents had reached out to her with concerns about the
+      upcoming parade. She reported that residents who lived along the parade
+      route were disturbed by campers and trailers that arrived up to a month in
+      advance of the parade, and this blocked off the residents' access to their
+      homes. She asked if they could limit the time that campers could be parked
+      to only a week before the actual parade. Councilmember Roberts agreed that
+      they should limit the time that campers could be parked. Chief Eining
+      commented that currently, parking there was legal, and there was no Code
+      that inhibited the campers from being parked indefinitely. There was a
+      discussion that they could write an ordinance that was specific to the period
+      of the parade.
+
+4.3   Councilmember Roberts asked about the Traverse Ridge Special Service
+      District (TRSSD) budget, and Mr. Dobbins replied that they were in the process
+      of amending their tax rate, and intended on going through with the normal
+      process. He said that those funds would be available for the next fiscal year.
+
+4.4   Councilmember F. Lowry discussed that Food Truck nights would start in two
+      weeks, and would take place on Mondays throughout June. He said that they
+      would monitor how they went to determine if they should continue them
+      through July. He said that they were also going to arrange to have live music
+      to create a festival atmosphere.
+
+4.5   Mayor Walker reminded the Council of the upcoming celebration of Cinco de
+      Mayo.
+
+
+
+Business Session
+
+**    Councilmember F. Lowry joined the Business Session by Zoom.
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   The prayer was offered by Pastor Nate, Corner Canyon Church and Paramedic
+      Erin Lytle led the Pledge of Allegiance.
+
+
+
+                                                                       Page 6 of 12
+      Mayor Walker recognized Paramedic Lytle for having created a two-day
+      program, All Future Female Firefighters (AFFF), that she used to introduce high
+      school senior girls to firefighting as a career. He said that 18 high school girls
+      had taken part in the program. He noted that Paramedic Lytle had been one
+      of the original hires of the Fire Department, and said that she had been a
+      fantastic employee for them over the years.
+
+3.0   Recognition: Katie Tinoco, a teacher at Draper Elementary, was named 2022
+      Canyons School District Teacher of the Year.
+
+3.1   Mayor Walker recognized Katie Tinoco for being awarded the 2022 Canyons
+      School District Teacher of the Year. He said over the summer, she had taught
+      Chinese schoolchildren English in a dual-language immersion program and
+      noted that due to COVID-19 travel restrictions, she had been stuck in China for
+      the first part of the school year.
+
+4.0   Public Comments
+
+5.0   Consent Items
+      a. Approval of April 12, 2022, and April 19, 2022, City Council Meeting Minutes.
+      b. Approval of Resolution #22-21, a Resolution appointing DeLaina Tonks as
+         a regular member of the Draper City Planning Commission.
+
+5.1   Councilmember Vawdrey moved to approve the Consent Items with
+      amendments to item b. Councilmember T. Lowery seconded the motion.
+
+5.2   A roll call vote was taken. The motion passed unanimously.
+
+                                        Yes   No     Absent
+      Councilmember Green               ___   ___    x
+      Councilmember T. Lowery           x__   ___    ___
+      Councilmember F. Lowry            x__   ___    ___
+      Councilmember Roberts             x__   ___    ___
+      Councilmember Vawdrey             x__   ___    ___
+
+6.0   Public Hearing: Ordinance #1540 and #1541, an Ordinance amending the
+      official Land Use Map of Draper City for approximately 0.84 acres of property
+      from Residential Low/Medium Density to Residential Medium Density and an
+      Ordinance amending the official Zoning Map of Draper City from RA2
+
+                                                                          Page 7 of 12
+      (Residential Agricultural, 20,000 square foot minimum) to R3 (Single Family
+      Residential, 13,000 square foot lot minimum) for the property located at
+      approximately 192 East 13560 South. The application is known as the Norman
+      Family Flag Lot Land Use and Zoning Map Amendments.
+
+6.1   Ms. Pickering directed the Council to the location of the property on the map
+      and explained that the applicant wanted to change the land use designation
+      from residential low use density to residential medium use density. She said
+      that if the request was approved, the applicant intended to subdivide their
+      property into two lots. She noted that the Planning Commission had
+      recommended approval of the request unanimously.
+
+6.2   Mayor Walker opened the public hearing.
+
+6.3   Applicant Jeffrey Norman expressed that he loved living in Draper City, and
+      said that he and his wife had reached retirement age, and no longer felt able
+      to maintain the entire property. He said that he intended to subdivide the lot
+      so that he and his wife had less land that they would have to manage. He
+      added that subdividing the lot would also be financially advantageous to them,
+      and stated that his neighbor was in support of the plan.
+
+6.4   Mayor Walker closed the public hearing.
+
+6.5   Councilmember Vawdrey moved to approve Ordinances #1540 and #1541.
+      Councilmember T. Lowery seconded the motion.
+
+6.6   A roll call vote was taken. The motion passed unanimously.
+
+                                       Yes    No     Absent
+      Councilmember Green              ___    ___    x__
+      Councilmember T. Lowery          x__    ___    ___
+      Councilmember F. Lowry           x__    ___    ___
+      Councilmember Roberts            x__    ___    ___
+      Councilmember Vawdrey            x__    ___    ___
+
+
+
+7.0   Action Item: Ordinance #1535, an Ordinance of Draper City amending the text
+      of the Land Use and Development Code (Title 9) and the Land Development
+      Code (Title 17) of Draper City Municipal Code relating to definitions, exactions,
+
+                                                                          Page 8 of 12
+      special regulations in commercial zones, deviations from design standards,
+      building design, site design, parking location, parking area design and
+      construction, height limitations and exceptions, cross access and connectivity,
+      and other typographical and de minimis corrections in code sections 9-3- 040,
+      9-11-070, 9-11-110, 9-22-030, 9-22-040, 9-22-050, 9-25-050, 9-25-080, 9-27-120,
+      and 17-1-040; and enacting sections 9- 5-220, 17-1-160, and17-5-035.
+
+7.1   Mr. Draper recalled that this item had previously been brought before the
+      Council and that a public hearing had been held regarding this item. He briefly
+      went over the history of the proposed amendment and highlighted changes
+      that had been made to the ordinance text since April 12, 2022, when the public
+      hearing had been held. He noted that the main change that had been made
+      was that the Zoning Administrator would have the authority to review and
+      approve additional heights in commercial zones.
+
+7.2   Councilmember T. Lowery moved to approve                   Ordinance    #1535.
+      Councilmember Roberts seconded the motion.
+
+7.3   Councilmember Roberts felt that this would give the City Council additional
+      power to ensure that residents' quality of life was preserved regarding traffic,
+      so he was in favor of the Development Code change.
+
+7.4   A roll call vote was taken. The motion passed unanimously.
+
+                                       Yes   No     Absent
+      Councilmember Green              ___   ___    x__
+      Councilmember T. Lowery          x__   ___    ___
+      Councilmember F. Lowry           x__   ___    ___
+      Councilmember Roberts            x__   ___    ___
+      Councilmember Vawdrey            x__   ___    ___
+
+
+
+8.0   Public Hearing: Ordinance # 1539, an Ordinance of Draper City amending the
+      text of the Land Use and Development Code of the Draper City Municipal Code
+      relating to the Irvine CSD Medical Text Amendment
+
+8.1   Ms. Jastremsky indicated the area in question on the map and said that this
+      was not a property-specific text amendment. She gave a succinct history of
+      the office buildings that were currently on the property and said that the
+
+                                                                         Page 9 of 12
+      proposed amendment would add medical and dental services as an additional
+      permitted use for the zone. She elaborated on the definition of medical
+      services. She noted that the Planning Commission had recommended
+      approval of the change unanimously.
+
+8.2   Mayor Walker opened the public hearing. No one came forward so Mayor
+      Walker closed the Public Hearing
+
+8.3   Applicant Scott Irvine briefly commented on his reasoning for the proposal.
+
+8.4   Councilmember T. Lowery moved to approve                 Ordinance     #1539.
+      Councilmember Vawdrey seconded the motion.
+
+8.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+
+
+                                      Yes   No     Absent
+      Councilmember Green             ___   ___    x__
+      Councilmember T. Lowery         x__   ___    ___
+      Councilmember F. Lowry          x__   ___    ___
+      Councilmember Roberts           x__   ___    ___
+      Councilmember Vawdrey           x__   ___    ___
+
+
+
+9.0   Action Item: Resolution #22-20, a Resolution establishing the Draper City
+      Tentative Budget for the Fiscal Year ending June 30, 2023, and setting the
+      public hearing for May 17, 2022, to take public comment on the Tentative
+      Budget.
+
+9.1   Mr. Wylie stated that the proposed budget was balanced, and overviewed
+      some of the main points of the budget. He said that the budget met the needs
+      of Draper City, and said that the budget for the City was $117,206,100. He
+      noted that the City did not yet have a certified tax rate, so they had made an
+      estimate for the budget. He said that the General Fund budget was down
+      about $5 million compared to last year, and he explained this was because last
+      year they had had American Rescue Plan Act (ARPA) funds that they would not
+      have for this fiscal year, but he said the General Fund was still at a healthy
+
+
+
+                                                                      Page 10 of 12
+      balance. He touched on their other major funds and said that they were all
+      also at healthy balances.
+
+      Mr. Wylie said that twelve new full-time employees had been built into the new
+      budget and said that those would come out of the General Fund. He added
+      that with the addition of the new employees, there would be 298 full-time City
+      employees. He shared images of the document pages that went over the
+      employees, which showed the breakdown of departments and divisions. He
+      also shared a pie chart that indicated the different sources of revenue in the
+      General Fund and said that 80% of the revenue came from taxes. He also
+      shared that 62% of the City’s expenditures went to payroll.
+
+**    Councilmember Green joined the meeting at 7:47 PM via Zoom.
+
+      Mr. Wylie discussed the Capital Projects Fund, which were large projects that
+      carried over from the last fiscal year. He shared the list of projects that had
+      already been approved and noted that several new projects would meet the
+      needs of the growing population of the City. He highlighted some main
+      projects, which included pickleball courts, new trails, and enhanced outdoor
+      recreation. He stated that the total amount in that fund was $34 million. He
+      also briefly discussed the Water Capital Project Fund and pointed out that the
+      new projects in that fund were for replacement vehicles. He said that the Solid
+      Waste Fund needed to replace a garbage truck, which would be $30,000, and
+      several roll-off dumpster trucks. He shared a screen that listed all of the Fleet
+      Management requests for new vehicles and highlighted that the main request
+      was for seven new police cars for the new officers on the force.
+
+9.2   Councilmember Roberts said that in his view, the main thing that residents
+      wanted was open space preservation, traffic mitigation, and public safety. He
+      felt that the budget addressed public safety and open space preservation well,
+      and asked how they would address traffic mitigation. Mr. Dobbins replied that
+      the new budget included a dedicated traffic patrol officer, who would focus on
+      areas of the City that experienced a lot of accidents. He felt that the patrol
+      would help with the public safety aspect of traffic congestion. Mayor Walker
+      agreed that the traffic patrol would be a great addition to the City.
+
+9.3   Councilmember Vawdrey moved to approve Resolution #22-20, accepting the
+      Draper City Tentative budget, and setting the public hearing for May 17, 2022.
+      Councilmember T. Lowery seconded the motion.
+
+                                                                        Page 11 of 12
+9.4    A roll call vote was taken. The motion passed unanimously.
+
+                                      Yes    No    Absent
+       Councilmember Green            x___   ___   ___
+       Councilmember T. Lowery        x___   ___   ___
+       Councilmember F. Lowry         x___   ___   ___
+       Councilmember Roberts          x___   ___   ___
+       Councilmember Vawdrey          x___   ___   ___
+
+10.0   Recess to a Draper City Community Reinvestment Agency Meeting.
+
+10.1   Councilmember T. Lowery moved to recess to a Community Reinvestment
+       Agency meeting. Councilmember Vawdrey seconded the motion.
+
+10.2   A roll call vote was taken. The motion passed unanimously.
+
+                                      Yes    No    Absent
+       Councilmember Green            x___   ___   ___
+       Councilmember T. Lowery        x___   ___   ___
+       Councilmember F. Lowry         x___   ___   ___
+       Councilmember Roberts          x___   ___   ___
+       Councilmember Vawdrey          x___   ___   ___
+
+11.0   Adjournment
+
+11.1   Councilmember Roberts moved to adjourn the meeting.          Councilmember
+       Vawdrey seconded the motion.
+
+11.2   A voice vote was taken. The motion passed unanimously.
+
+11.3   The meeting adjourned at 8:07 p.m.
+
+
+
+
+                                                                     Page 12 of 12
+

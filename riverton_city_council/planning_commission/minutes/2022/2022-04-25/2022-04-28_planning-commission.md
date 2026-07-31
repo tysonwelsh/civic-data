@@ -1,0 +1,514 @@
+# Riverton Planning Commission Meeting — 2022-04-28
+> Source: https://www.utah.gov/pmn/files/853333.pdf
+> Meeting date: 2022-04-28
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/751549.html
+> Format: text
+
+Approved: PC 5.26.22
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                  APRIL 28, 2022
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                     Staff:
+
+Shelly Cluff, Chair                              Tim Prestwich, City Planner
+Keith Breinholt                                  Ryan Carter, City Attorney
+Gary Cannon                                      Gordon Miner, City Engineer
+John Gilchrist
+Darren Park
+Troy Rushton
+
+1.     CALL TO ORDER/ROLL CALL
+
+Chair Shelly Cluff called the meeting to order at approximately 6:30 p.m. and reported on
+changes to the agenda. The Pledge was led by Commissioner Rushton.
+
+2.     PUBLIC HEARING ITEMS
+
+       A.     REZONE, “KUNZ REZONE” A GENERAL PLAN AMENDMENT AND
+              REZONE OF 3.25-ACRES LOCATED NEAR 11944 SOUTH 3600 WEST.
+              THE CURRENT ZONING IS R-3, AND THE REQUESTED ZONE IS RM-6.
+              APPLICANT- NATHAN AND LAURA KUNZ.
+
+City Planner, Tim Prestwich presented the staff report and stated that the area is familiar to
+the Commission with a rezone and General Plan Amendment having been done on the
+property to the north. Ivory Homes also recently requested site plan approval. That project
+was currently under construction. When the Ivory Development was being considered there
+was talk of potentially rezoning the property to the south, however, it was not included in any
+of the notices or rezone applications. There was discussion of extending utilities and road
+stubs to the south. A map of the site was displayed. What is proposed are three parcels on
+3.25 acres. Notice was sent to property owners within 1,000 feet of the subject property.
+Due to the higher density in the area, a large number of people were given notice.
+
+Mr. Prestwich described how the General Plan and zoning interact and stated that in a built-
+out subdivision, the zoning matches the General Plan. There are areas of the City, however,
+that are underdeveloped or undeveloped that have zoning. When the Planning Commission
+and City Council undertake a General Plan they look at parcels and can see the potential
+for them to possibly change in the future. As a result, they assign a General Plan
+Designation that could differ from the zoning.
+
+In this case, the General Plan for the corner is Low-Density Residential. When Ivory came
+in, the City changed the General Plan to Medium-High Density Residential and
+simultaneously changed the zoning to RM-6. The current General Plan is Low-Density
+Riverton City Planning Commission Meeting                                                 2
+April 28, 2022
+
+Residential, which requires minimum 14,000 square-foot lots and is equivalent to any of the
+four zones R-1 through R-3. The applicant is requesting a change to the Medium-High
+Density of five to eight units per acre, which allows the RM-6 or RM-8 zones. Most of the
+properties on the east side of 3600 West are Estate Density with one-half acre lots or larger.
+The properties on the west side of 3600 West are Low-Density and Medium-Density to
+Lowe’s. The lot sizes are 10,000 and 14,000 square feet. The Ivory Harvest Gardens
+Development allows for Medium-High Density, which is the General Plan designation the
+applicant is requesting. The zoning map shows RM-6 with an SD Overlay there.
+
+Mr. Prestwich clarified that the requested zoning is RM-6, which previously allowed for
+condominiums, townhomes, or single-family detached homes on 4,000 square-foot lots.
+Twin homes were also allowed for a time. The City Council had routinely been placing SD
+designations on properties with RM-6 zoning and limiting it to single-family small lot
+development. It was done so often that Development Services Director, Jason Lethbridge,
+asked the Council if they would like to make a change and eliminate condominiums and
+townhomes in the RM-6 zone. The Council supported the idea, and it was clarified that the
+ordinance was changed. It now only allows single-family detached on 5,000 square-foot
+lots. Mr. Prestwich explained that the ordinance change applies to the Ivory development
+and there are some twin homes in the project. It would not, however, apply to the proposed
+rezone to RM-6. It was clarified that the minimum lot size is 5,000 square feet. The lot
+frontage is 45 feet with a width of 90 feet. The RM-6 zone requires 50 feet of frontage. The
+RM-6 zone has a 15-foot front setback and a 20-foot garage setback. The side setbacks
+are five feet and rear setbacks of 15 or 25 feet when adjacent to existing single-family
+residential. There is no lot coverage maximum in the RM-6 zone. The maximum building
+height is 35 feet for both zones.
+
+Mr. Prestwich stated that several comments were received after the packets were sent out.
+That feedback was provided to the Commission Members. A number of comments
+expressed disappointment with how the area has changed and the fact that the City rezoned
+the Ivory property. Mr. Prestwich reported that the City has recognized this area as one that
+is suitable for the RM-6 zone. There was some question, however, as to whether this is the
+right place to break the zone boundary at the property line or continue it south to the creek.
+
+Commissioner Cannon recalled that when the Planning Commission forwarded a
+recommendation on the zoning for the Ivory Development to the City Council, an Elderly
+Housing Overlay was attached to it. Mr. Prestwich stated that the diagonal line indicates
+that it is a Special Designation (“SD”). The hatch in the opposite direction denotes that it is
+an Elderly Housing Overlay. The applicant is not requesting the Elderly Housing Overlay as
+part of the rezone. The resulting lots would look the same, but the family use would be
+different. Commissioner Cannon admired the Kunz Family who has done a great job of
+representing the City. Access issues were discussed. Commissioner Cannon did not
+support putting many more accesses out onto 3600 West.
+
+Commissioner Park addressed the letter received from Brook Jenkins and clarified that as
+many as six homes per acre are allowed. Mr. Prestwich clarified that the RM-6 zone allows
+for 5,000 square-foot lots with a maximum density of six dwelling units per gross acre. In
+reality, however, dedications are required that eliminate that possibility.
+Riverton City Planning Commission Meeting                                                  3
+April 28, 2022
+
+
+A question was raised with regard to the potential for low-income housing units. The
+applicant, Nathan Kunz, commented that the State of Utah has issued policies directing
+cities to allow for moderate-income housing. He stated that refusing the rezone on the basis
+that it could lead to moderate-income housing would most likely not hold up in court. An
+issue that the State Legislature has been grappling with for the past few years is that
+moderate-income housing is measured by whether the price point of a home is affordable to
+someone earning 75% of the area median income. In the current market, the cost of building
+materials is pricing any unit beyond reach. In addition, once developers have their density
+are still putting as much square footage as possible in the homes. Based on the various
+challenges that exist, this type of housing is not being built and potential units are typically
+priced out of the market.
+
+Mr. Prestwich stated that the proposed area is too small for parking. The developer will be
+required to provide off-street parking for two cars per unit in the driveway. Parking will also
+be allowed on the street. A stub road is required out of the Ivory Project to the south. It is
+a 54-foot right-of-way with parking on both sides.
+
+Mr. Kunz reported that they moved to Riverton on December 27, 1989. They originally
+purchased a one-acre parcel and one year later they bought two acres behind them. Three
+or four years ago the property lines were square, however, they reached an agreement with
+the neighbor to the south and quitclaimed the property on their side of the wash to the
+neighbor. The neighbor in turn quitclaimed the area on the Kunz’s side of the wash to them.
+They felt that Midas Creek would be a good breaking point for dissimilar zoning. In terms of
+senior housing, he acknowledged the need for these types of units. Mr. Kunz stated that
+they have no plans to move or sell the property. The proposed change would be on paper
+only. He confirmed that they live on the front one acre.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Rushton found the request to be consistent with the General Plan and the
+rezone to the north. He did not feel that more senior housing was needed but recognized
+the need for more affordable housing. He expressed his support.
+
+Chair Cluff was comfortable with the request.
+
+Commissioner Rushton moved that the Planning Commission recommend
+APPROVAL of Application PLZ-22-4004, for changing the General Plan Designation
+and Zoning of 3.25 acres located near 11944 South 3600 West, thus changing the
+General Plan Designation to Medium-High Density Residential and changing the
+zoning RM-6. The motion was seconded by Commissioner Gilchrist. The motion
+passed with the unanimous consent of the Commission.
+Riverton City Planning Commission Meeting                                              4
+April 28, 2022
+
+      B.     HOME OCCUPATION, “BASIN MASONRY” AN IN-HOME OFFICE TO BE
+             LOCATED AT 13711 SOUTH LINDA MARIE LANE. APPLICANT- CLARK
+             ROUNDY.
+
+Chair Cluff opened the public hearing.
+
+Mr. Prestwich presented the staff report and stated that about one year ago complaints were
+received regarding the home occupation and there was an investigation. City Code
+Enforcement got involved and it was discovered that the home occupation was approved
+with no customers or clients and had grown to at least 10 employees. It was a good business
+but was taking place in a neighborhood, which was of concern to the neighbors. The
+applicant presented an application in August that was continued. At the next scheduled
+meeting in October, the applicants were not in attendance and had not provided the
+requested information. As a result, the Planning Commission denied the application. There
+was a mix-up on the part of the applicant and what they thought needed to be done. They
+did not recognize the necessity of them being present at the meeting. The applicants have
+since worked with staff and changed their business model. They have cleaned up the site
+and employees no longer come to the home. They are now asking to have one on-site
+employee, who is not a resident of the home, which is allowed by the ordinance.
+
+The subject property is located at the end of a dead-end street. With development,
+connectivity was anticipated in the area. There is a very large garage in the backyard and
+the driveway circles the home. Comments were received from the neighbors stating that
+they are a good neighbor and have cleaned things up. They were primarily concerned about
+on-street parking as it had been an issue in the past. Notices were sent to the neighbors
+within 300 feet. One comment was received expressing support and concern about parking.
+The applicant's requested use of the detached garage requires Planning Commission
+approval. The proposed conditions of approval were reviewed. Mr. Prestwich stated that
+the applicant was unable to be present tonight.
+
+Commissioner Cannon reported that the applicant, Mr. Roundy, reached out to him earlier
+in the week and he informed him that he needed to be present. He acknowledged that the
+use has changed since the last time it was before the Commission and indicated that the
+neighbor next door took the time to write indicating that he has no concerns with what is
+requested. Basin Masonry is a large company and the fact that the neighbor barely knows
+they are there is impressive.
+
+Mr. Prestwich stated that since changes have been made by the applicant, complaints about
+the use have ceased. Commissioner Rushton asked about the impact of deliveries coming
+to the home. It was determined that that was a question to be raised with the applicant. It
+was suggested that a condition be imposed limiting the size of delivery vehicles to and from
+the property. Commissioner Rushton suggested that the request be continued until the
+applicant can be present to answer questions.
+
+There were no public comments. The public hearing was closed.
+Riverton City Planning Commission Meeting                                               5
+April 28, 2022
+
+Chair Cluff moved to CONTINUE the item to the next Planning Commission Meeting.
+The motion was seconded by Commissioner Park. The motion passed with the
+unanimous consent of the Commission.
+
+      C.     HOME OCCUPATION, “ANDI’S PRESCHOOL” AN IN-HOME PRESCHOOL
+             TO BE LOCATED AT 12832 SOUTH 1830 WEST. APPLICANT- JAMIE S.
+             WEI.
+
+Chair Cluff opened the public hearing.
+
+Mr. Prestwich presented the staff report and identified the location of the subject property.
+He noted that there are several traditional homes in the area. The applicant is proposing to
+open an in-home preschool, which is allowed by the Home Occupation Ordinance and has
+special standing as a child group activity. Something similar was seen recently for a
+daycare. It was noted that a preschool is similar but has fewer State regulation. Preschools
+typically operate in short two-hour increments with more than one session each day three to
+five days per week. Mr. Prestwich confirmed with the Public Works Director that there are
+plans to do roadwork on 1830 West this summer. A sidewalk will be added on the City side.
+The trees were set back when they were planted eight years ago anticipating that the road
+would be widened. Water line repairs and installations would also be done. The applicant
+has no plans to start the preschool until the fall. Currently, no parking is allowed on 1830
+West traveling northbound. The applicant’s traffic plan shows where cars will drop off and
+pick up children.
+
+Notice was sent to the neighbors within 300 feet. The applicant was proposing two sessions
+per day from 8:40 a.m. to 11:20 a.m. with another session from 12:00 p.m. to 2:30 p.m. The
+sample motion proposes separating the sessions by 30 minutes. The preschool will
+accommodate six to 12 children. The applicant expects approximately 12 trips per day. The
+ordinance allows up to 24 vehicle trips per day, which can be significant in a neighborhood.
+1830 West, however, already has a lot of traffic. They expect families to use the Library as
+well while waiting for children in the preschool. The ordinance for home occupations with
+childcare activities or instruction that are expected to generate or exceed eight children or
+students any day must adhere to the following guidelines and shall be used by the Planning
+Commission to determine the maximum number of students or children permitted:
+
+      1.     A maximum of 12 students per session and a maximum of 24 students per
+             day;
+
+      2.     A maximum of three sessions per day;
+
+      3.     All sessions combined shall not generate more than 24 vehicle trips in a day;
+
+      4.     The applicant’s own children count toward the child counts; and
+
+      5.     A 300-foot separation is required from another daycare.
+
+The proposed sample motion was reviewed.
+Riverton City Planning Commission Meeting                                                6
+April 28, 2022
+
+
+The applicant, Jamie Wei, reported that she has a three-year-old named Andi who the
+preschool was named after. She was asking for six to 12 students to keep it under 24 vehicle
+trips per day. She was also considering having an emphasis on Chinese for one of the
+classes if there is interest. She noted that her husband is Chinese. In response to a question
+raised, Ms. Wei stated that she does not plan to have any employees other than herself.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Chair Cluff moved that the Planning Commission APPROVE PLZ-22-2006 “Andi’s
+Preschool”, at 12832 South 1830 West with the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances specifically the City’s
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     Applicant must obtain and maintain a Riverton City Business License.
+
+       3.     Applicant must obtain and maintain applicable State and Health
+              Department approvals.
+
+       4.     Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.     The Home Occupation may have up to 24 children per day (number
+              includes the applicant’s children under six years old).
+
+       6.     The Home Occupation may have up to 24 vehicle trips per day by
+              customers/parents.
+
+       7.     The applicant may have up to two (2) sessions, with sessions separated
+              by at least 30 minutes.
+
+Commissioner Gilchrist seconded the motion.               The motion passed with the
+unanimous consent of the Commission.
+
+       D.     AMEND SITE PLAN, “LITTLE GENIUSES” AMENDING THE EXTERIOR
+              SITE PLAN OF AN EXISTING COMMERCIAL SITE IN THE C-G ZONE
+              LOCATED AT 2464 WEST 12600 SOUTH. APPLICANT-GLORIA
+              RODRIGUEZ.
+
+Mr. Prestwich presented the staff report and stated that the request is for a commercial
+daycare business on a commercial site. Changes are proposed to the exterior. If changes
+are proposed to the interior of the building, a Building Permit review will be required which
+Riverton City Planning Commission Meeting                                                     7
+April 28, 2022
+
+is outside the purview of the Planning Commission. The ordinance specifies that changes
+to the exterior can be addressed by the Planning Commission. The location of the subject
+property was identified on a map displayed. The request is for a fenced area in the backyard
+of the tenant space. Mr. Prestwich stated that a fenced play area is required for a daycare
+use. It is regulated by the State and requires a specific amount of square footage per child
+to be provided in the form of an outdoor play area. The City Building Official and Mr.
+Prestwich visited the site and were shown potential locations for the play area. There are
+also building issues inside that need to be addressed as well as access routes. The issues
+were all able to be resolved with the exception of the outdoor play area. Areas behind the
+building and against the fence were considered.
+
+Notice was sent to the surrounding neighbors, many of whom are tenants of a condominium
+project. No comments were received by staff. It was noted that the outdoor play area will
+be supervised. A condition was proposed that the landscaping remain and that no trees be
+removed. A retaining wall was proposed to level off the slope and provide an area on which
+to place a fence. It was noted that some trees had been removed. Staff recommended the
+second condition be amended to specify that the applicant shall work with staff to increase
+the tree count. What is proposed is an internal vinyl fence. State Code requires the fence
+be non-climbable for daycares with a sub-locking gate.
+
+Commissioner Rushton asked if there are any requirements for fence height. Mr. Prestwich
+stated that the current ordinance specifies that it be eight-foot masonry. At the time the site
+was approved, however, six-foot vinyl fencing was allowed between commercial and
+residential projects. The fence that will be constructed at the top of the slope will further
+screen the back side of the building from the site.
+
+Commissioner Park asked if the existing fence would count as the north portion. Mr.
+Prestwich confirmed that that was his understanding. Commissioner Park asked if there
+were any security concerns from the surrounding businesses having access to the play area.
+Mr. Prestwich stated that the landlord has approved the plan recognizing that he has other
+tenants. It is a major walking route, and the sidewalk leads to the dumpster. The fence will
+run along a section of the sidewalk and there will still be a free flow through the back doors
+to the sidewalk. The play area, however, will be accessed through the back door, across
+the sidewalk, and through a gate into the play area.
+
+The applicant, Dana Lee indicated that she is part owner of Little Geniuses Learning Center.
+They need an outdoor play area for the children. There will be no play equipment in that
+area. Staff will also be outside with the children at all times and not all of the children will be
+outside at the same time. Each classroom will have its own time to be outside. Children will
+go outside for 20 to 45 minutes twice a day. She confirmed that the existing fence will be
+used as the north boundary.
+
+Chair Cluff opened the public hearing. There were no public comments. The public hearing
+was closed.
+
+Commissioner Rushton moved that the Planning Commission APPROVE PLZ-21-
+8012 “Little Geniuses Learning Center” amending the site plan of an existing
+Riverton City Planning Commission Meeting                                              8
+April 28, 2022
+
+commercial building in the C-G Zone, located at 2464 West 12600 South with the
+following conditions:
+
+      1.     Approval is for adding on-site vinyl fencing.
+
+      2.     Landscaping may be altered or removed, and staff will work with the
+             applicant to remediate the impacts on the site.
+
+Commissioner Cannon seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      E.     SITE PLAN, “GOOGLE UTILITY HUT”, A PROPOSED UTILITY
+             STRUCTURE ON CITY PROPERTY LOCATED AT 4008 WEST
+             INNOVATION DRIVE.
+
+Chair Cluff moved to continue the above item to a later agenda. Commissioner Park
+seconded the motion. The motion passed with the unanimous consent of the
+Commission. Commissioner Cannon was not present for the vote.
+
+The above item was continued.
+
+      F.     DEVELOPMENT AGREEMENT, “OLSON PROPERTY”, RIVERTON CITY
+             IS PROPOSING A DEVELOPMENT AGREEMENT FOR APPROXIMATELY
+             5.5-ACRES OF PROPERTY IN THE RR-22 ZONE AT 13265 SOUTH
+             LOVER’S LANE. APPLICANT- RIVERTON CITY. -CONTINUED FROM
+             MARCH 24 & APRIL 14 PC MEETINGS.
+
+Chair Cluff moved to continue the above item to a later agenda. Commissioner Park
+seconded the motion. The motion passed with the unanimous consent of the
+Commission. Commissioner Cannon was not present for the vote.
+
+The above item was continued.
+
+      G.     TEXT CHANGE, “RIVERTON CITY STANDARD SPECIFICATIONS AND
+             PLANS MANUAL” RIVERTON CITY IS PROPOSING UPDATES AND
+             CHANGES TO THE RIVERTON CITY STANDARD SPECIFICATIONS AND
+             PLANS MANUAL.
+
+Mr. Prestwich presented the staff report and stated that what is proposed is a text change.
+The Planning Commission should make a recommendation to the City Council. It has the
+effect of an ordinance in the City and becomes law.
+
+City Engineer, Gordon Miner, reported that the matter is before the Commission because
+the Standard Specifications and Plans are part of the General Plan. The draft had been
+distributed to the Public Works, Development Services, and Legal Departments. All
+comments received had been addressed. He stated that the document is almost purely
+technical, and it had been a while since the standards were looked at thoroughly. Mr. Miner
+Riverton City Planning Commission Meeting                                                  9
+April 28, 2022
+
+was assigned to revise them, and it became apparent that it was going to be easier to do a
+repeal and replace. From a highlight standpoint, he compiled into the document standards
+that were found elsewhere. He formalized the submittal requirements and what is needed
+for a complete submittal.
+
+Mr. Miner stated that the Flood Control Detention Policy has a planning impact and is
+generally that new development takes care of its own impact with regard to flood control.
+The City is required to maintain those. The proposed document will change that policy. The
+Homeowners Association (“HOA”) will be formed to maintain those small ponds. Another
+change was to how the stormwater flood control volume is calculated. Because large tracts
+of land do not remain with a few exceptions, the calculation process was streamlined to
+make it easier for the development community and Mr. Miner to review. The water quality
+volume calculation was also changed.
+
+Mr. Miner next commented on the maximum length of a permanent dead-end water line.
+Currently, the City standards do not have a maximum length for a dead-end water line.
+There is industry information that supports a maximum length of 600 feet. Mr. Miner stated
+that the submittal requirements include what items need to be provided. A question was
+raised as to whether the manual will drive additional time or cost on the part of a developer.
+Mr. Miner explained that what is outlined is the same as what is already required. It is clearer
+and sets forth what is expected of developers. Per State law, the City could have legal
+issues if they accept and begin to review incomplete submittals.
+
+City Attorney, Ryan Carter, stated that the Standards and Specifications Manual describes
+how to meet the requirements found in the Code. The proposed document is clearer. City
+Code Title 18 addresses what needs to be in place before development approval can be
+granted. That has not changed and has remained static. He expected smaller scale projects
+to be processed more quickly because there will be less expense in terms of engineering
+costs for such things as stormwater management. If they go forward with the proposed
+model the policies will be more efficient for developers. Mr. Miner stated that the review will
+begin when the application is complete.
+
+Commissioner Ruston commented that he would not want to impede the time frames of
+developers and create additional costs. Mr. Miner stated that he exercises judgment in
+terms of traffic impact studies and whether they are required. Often with small
+developments, they are not required. What is required are items that are relevant to the
+project and necessary for the engineering.
+
+Commissioner Cannon described projects he had worked on in West Jordan City. His
+greatest frustration was that West Jordan is a large city and he ended up working with three
+engineers with separate opinions, which caused delays. He was aware of one developer in
+Riverton who attends all City meetings with his attorney to ensure that everyone is held
+accountable.
+
+Mr. Prestwich stated that what is proposed will not change the associated costs but could
+impact processing time. Having standards in place takes any discretion away from staff to
+process a request before a complete application has been submitted. It was noted that there
+Riverton City Planning Commission Meeting                                                10
+April 28, 2022
+
+are a number of instances where they err on the side of the developer by allowing them to
+go forward with certain things. Geotech is commonly required but they are not required to
+dig into it until they find out that there is a problem. That is not known until they mobilize.
+
+Commissioner Park thought that if the process were more well defined, it would be more
+streamlined. What is proposed is an effort to formalize all of the requirements into a single
+document. The comment was made that there was a provision in the previous standards
+that gave great latitude and discretion to the City Engineer, which has been removed. It was
+noted that the City Engineer should not have a lot of discretion.
+
+Commissioner Park asked if a checklist exists. Mr. Miner stated that the checklist was
+removed to add more agility in dealing with development. The requirements remain but the
+checklist is a reflection of those requirements. It is, however, no longer codified like it was
+previously in the standards. The intent was to make sure that in the checklist the nuances
+are known. The purpose of the proposed document was to lay out what is expected and
+required. It is to be used as a tool to communicate with the development community.
+
+In response to a question raised by Commission Breinholt, Mr. Miner stated that there is a
+hierarchy in the Code. There are City standards and references to the American Public
+Works Association (“APWA”) standards, specifications, and drawings. He noted that the
+larger the document, the more difficult it is to revise and keep updated. Mr. Carter stated
+that the City is required by statute to follow the Building Code. That way everyone follows
+the same building standards. Section 1.2 is a reiteration of the statute. The APWA has very
+specific standards regarding smaller projects. It is of benefit to the development community
+to follow something that incorporates the APWA standards.
+
+Commissioner Cannon supported Riverton streamlining the process and being developer
+friendly. That does not mean caving to developers but will make the process more efficient.
+He was pleased that they are taking steps to improve the process. Mr. Miner identified
+instances of hierarchy in the document. Mr. Carter clarified that the City standards that have
+been adopted give the development community the assurances that they need.
+
+Chair Cluff moved that the Planning Commission recommend APPROVAL of the
+Riverton City Standard Specifications and Plans Manual as presented. Commissioner
+Rushton seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+3.     DECISION ITEMS
+
+       A.     N/A.
+
+4.     MINUTES
+
+       A.     APRIL 14, 2022.
+
+Chair Cluff moved that the Planning Commission APPROVE the meeting minutes for
+the April 14, 2022, Planning Commission Meeting as presented. Commissioner
+Riverton City Planning Commission Meeting                                11
+April 28, 2022
+
+Gilchrist seconded the motion. The motion passed with the unanimous consent of
+the Commission.
+
+5.    ADJOURNMENT
+
+Commissioner Cannon moved to ADJOURN. The motion passed with the unanimous
+consent of the Commission.
+
+The meeting adjourned at approximately 8:15 p.m.
+

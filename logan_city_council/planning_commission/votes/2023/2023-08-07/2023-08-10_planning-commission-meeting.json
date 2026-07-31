@@ -1,0 +1,69 @@
+{
+ "date": "2023-08-10",
+ "year": 2023,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2023/2023-08-07/2023-08-10_planning-commission-meeting.md",
+ "present": [
+  "Jordy Guth",
+  "Jessica Lucero",
+  "Roylan Croshaw",
+  "David Lewis",
+  "Sara Doutre"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to Approve all items listed on the Consent Agenda. Commissioner Peterson seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "6:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Eldon Peterson",
+   "aye": [
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "David Lewis",
+    "Sara Doutre",
+    "Eldon Peterson"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "6-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to Continue the Moderate Income Housing/Affordable Housing Provisions Code Amendment, PC 23-048 to the September 14, 2023 meeting. Commissioner Peterson seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "5:1 Pass",
+   "kind": "procedural",
+   "mover": "Jessica Lucero",
+   "seconder": "Eldon Peterson",
+   "aye": [
+    "Jordy Guth",
+    "Jessica Lucero",
+    "Roylan Croshaw",
+    "Sara Doutre",
+    "Eldon Peterson"
+   ],
+   "nay": [
+    "David Lewis"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-1",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  }
+ ]
+}

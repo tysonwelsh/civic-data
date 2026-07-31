@@ -1,0 +1,32 @@
+{
+ "date": "2024-12-03",
+ "title": "City Council",
+ "slug": "city-council-meeting",
+ "default_body": "Council",
+ "source": "meeting_minutes/minutes/2024/2024-12-02/2024-12-03_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Councilor Stallings moved to Adjourn into a Closed Session for Active Threat     Training. Councilor Albrecht seconded the motion.",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "3:0 Pass",
+   "mover": "Michelle Stallings",
+   "seconder": "Paige Albrecht",
+   "aye": [
+    "Paige Albrecht",
+    "Heather Newall",
+    "Michelle Stallings"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  }
+ ]
+}

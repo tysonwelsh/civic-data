@@ -1,0 +1,905 @@
+---
+jurisdiction: Utah County
+body: Board of Commissioners
+date: 2022-05-11
+meeting_kind: regular
+source_url: https://www.utahcounty.gov/dept/commish/data/minutes/CM/2022/05.11.2022.pdf
+source: commission.utahcounty.gov (archive API type=CM)
+extraction: tesseract OCR (scanned)
+n_parts: 1
+n_pages: 19
+audio: 05.11.2022.mp3
+---
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+1|Page
+
+LAR™e
+Utah County
+
+HEART of UTAH
+
+PUBLIC NOTICE IS HEREBY GIVEN THAT THE
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+WILL HOLD A PUBLIC MEETING
+IN THE COMMISSION CHAMBERS - ROOM 1400
+OF THE UTAH COUNTY ADMINISTRATION BUILDING
+
+100 E CENTER ST, PROVO, UT 84606
+May 11th, 2022 - 2:00 pm
+
+*When necessary, board members may participate electronically, with the anchor
+location as stated above.*
+
+*The public may participate electronically by joining via zoom at the following link
+https://zoom.us/j/99812064248 or calling (346) 248-7799 or (669)900-6833,
+Meeting ID: 998 1206 4248. Comments will be limited to two (2) minutes per
+individual unless otherwise approved by the Board. Please state your name at the
+beginning of the comment. Please no foul or abusive language.*
+
+Or you may watch the meeting live on YouTube under the heading UTAH COUNTY
+GOVERNMENT or by going to the link:
+https://www.youtube.com/channel/UCkRYDnXVDLGv9792bhWn9W¢/videos
+
+~COMMISSION MEETING MINUTES~
+
+Commissioner Sakievich (Chair), Commissioner Gardner and Commissioner Lee in Attendance.
+Others in Attendance: See Attached Attendance Sheet and Zoom List
+
+(Meeting Called to Order: 2:04 P.M.)
+
+PRAYER/READING/THOUGHT: Courtney Ellison
+PLEDGE OF ALLEGIANCE: Sheriff Mike Smith
+
+RECOGNITION
+1. RECOGNITION OF MAY 2022 EMPLOYEE OF THE MONTH
+
+-PJ Maughan, Human Resources
+(Timestamp: 3:09)
+
+COMMISSIONER SAKIEVICH - ANNOUNCED THE EMPLOYEE OF THE MONTH FOR
+MAY, 2022 - DANENE JACKSON (read nomination)
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+2)
+
+When I think about who the lynchpins in our office are, Danene Jackson is one of the first to come
+to my mind. She has made herself indispensable to the county, and | know that I'm not the only
+person who feels that way. In my time in the Clerk/Auditor's Office, I've seen time and time again
+how she exhibits the behaviors that make a world-class operation.
+
+Professionalism: Danene is a master at her craft. She puts in the extra effort to do a peak-
+performance job in everything she does. She goes above and beyond, in big ways and small, and it
+shows in her work product. As a quick example, Danene doesn't just take assignments, but follows
+up and reports on the status. It's small things like these that set her apart. Anyone who deals with
+Danene understands her value to the county: her technical knowledge of accounting; her
+understanding of Utah County's operations; her institutional knowledge, and the value it brings.
+
+High standards: When | review her work | frequently compliment her because she sets the bar
+high. For on example, this quarter we went through and did one-on-one interviews with all
+members of the staff. Danene's report about her team was the best across the whole department.
+| felt like | got 5 years’ worth of information just from reading her notes.
+
+Excellent leader: One thing that distinguishes managers from leaders is their relationships with
+those they oversee. | have experienced firsthand Danene going to bat for her direct reports. She
+compliments and encourages them. She asks upper-level management to ensure her team is fairly
+compensated for their work and raises the issue. She acts as a coach. She exemplifies what a good
+leader should do.
+
+| believe Danene would be an excellent choice for Employee of the Month, particularly if she has
+never been given this award in her roughly 20 years at the county.
+
+TAYLOR WILLIAMS
+Chief Deputy - County Clerk/Auditor
+
+DANENE JACKSON - I APPRECIATE THOSE KIND WORDS FROM SOMEONE WHO I
+ADMIRE VERY MUCH. THE FINANCE DEPARTMENT TOUCHES EVERY
+DEPARTMENT IN THE COUNTY. I WOULDN'T BE ABLE TO DO MY JOB,
+DEPARTMENTS AND MY MANAGEMENT WITH JOSH (DANIELS), TAYLOR
+(WILLIAMS), JEREMY (WALKER) AND OF COURSE, THE COMMISSION HELPING TO
+PROVIDE RESOURCES.
+
+2. RECOGNIZING MAY 16-20, 2022 AS UTAH COUNTY LAW ENFORCEMENT OFFICERS
+WEEK
+
+-Thomas V. Sakievich, Commission
+(Timestamp: 7:48)
+
+COMMISSIONER SAKIEVICH - THIS WAS ON THE AGENDA LAST WEEK, BUT SINCE
+THE OTHER TWO COMMISSIONERS HADN'T SEEN IT, WE DISCUSSED IT IN CLOSED
+MEETINGS AND WHEN WE BROUGHT IT BACK, IT WAS NOT RECORDED ON
+YOUTUBE SO WE WANTED TO HAVE DECENT RECOGNITION FOR OUR SHERIFF'S
+DEPARTMENT AND LAW ENFORCEMENT THROUGHOUT THE COUNTY. (READ
+RESOLUTION)
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+May 11, 2022
+
+3|Page
+A RESOLUTION IN SUPPORT OF
+UTAH COUNTY LAW ENFORCEMENT OFFICERS
+WHEREAS, the men and women of our nation’s law enforcement agencies are
+
+sworn to valor and integrity in the defense of the peoples” Constitutional rights. and in
+that role wear their uniforms with dedication. honor, distinction, and integrity; and
+
+WHEREAS, they are sworn to daily protect and defend every citizen, their homes
+and communities in which they serve. regardless of difficulties and dangers: and
+
+WHEREAS, there are over 900,000 law enforcement men and women officers.
+serving in countless communities across the nation, including those officers in Utah
+County: and
+
+WHEREAS, since the first recorded line of duty death occurred in 1791, more than
+25,000 American officers have made the ultimate sacrifice protecting the communities they
+swore to protect - including 147 Utah Law Enforcement officers: and
+
+WHEREAS, in May of 2022. 619 new names of the fallen heroes and dedicated public
+servants will be engraved on the walls of the National Law Enforcement Officers Memorial in
+Washington DC; and
+
+the uniforms which were worn and earned with hard work, commitment, trust,
+and pride by these, and all officers have. in recent months, become targets by those who seek to
+overthrow local governments, businesses, and to randomly injure or kill law enforcement officers
+simply because of their sworn profession and commitment te duty, honor. and service; and
+
+May 16-20, 2022 is designated as National Law Enforcement Week to
+-. and honor all Peace Officers of the Law
+
+NOW THEREFORE, BE IT RESOLVED that the UTAH COUNTY BOARD OF
+COMMISSIONERS:
+
+(1) Are fixed in support of the families of the fallen Law Enforcement Officers and stand firmly
+with the officers currently protecting our County and those throughout the United States.
+
+(2) Are resolute in support of the men and Women in Utah County Law Enforcement, who stand
+every day as Guardians of Peace and Order to protect our homes, businesses. and places of
+worship, to stand in defense of the weak and the oppressed. and for the people's unalienable
+rights and freedoms.
+
+(3) Encourages the people of Utah County to stand with Law Enforcement personnel, to especially
+show their support throughout May 16-20, 2022 with the raising and posting of the United
+States flag and Law Enforcement fags and symbols, and to thank officers and their families
+for their honorable service and sa as they support the Constitutional rights of all are
+maintained within our communities.
+
+(4) BE IT FURTHER RESOLVED that a copy of this resolution be transmitted. by the County Clerk,
+to the Utah County Sheriff and to each City Mayor and all Chiefs of Police within Utah County
+
+RESOLVED, PROCLAIMED, and ORDERED this 4* day of May 2022.
+
+MIKE SMITH, UTAH COUNTY SHERIFF - THANK YOU SO MUCH COMMISSIONERS
+FOR THE RESOLUTION. YOU’RE NOT LOOKING AT A GROUP THAT REALLY WANTS
+ACCOLADES. THEY LOVE THE JOB THEY DO. IT MEANS THE WORLD TO THEM TO
+HAVE THEIR COMMISSIONERS SUPPORT THEM, BUT IT REALLY BOILS DOWN
+HAVING THE COMMUNITY JUST SAY ‘HI’ OR WAVE AT THEM. THAT MAKE YOUR
+DAY. AGAIN, THANK YOU FOR RECOGNIZING US ON THIS DAY AND FOR NATIONAL
+ENFORCEMENT WEEK.
+
+CONSENT AGENDA
+
+WORK SESSION
+
+1. PRESENTATION FROM THE CITY OF SARATOGA SPRINGS OF THEIR NORTH
+
+MARINA TRCC TRT PROJECT
+-Lisa Shepherd, Commission
+
+(Timestamp: 16:04)
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+4|Page
+
+LARS ANDERSON, AC ENGINEERING/CONSULTING FIRM (Gave Presentation)
+
+North Marina Application
+
+PROJECT
+
+The existing North Marina is
+undeveloped. A trail runs on the
+north end of the site and a
+partial jety currently holds some
+water. The City wants ‘o rebuild
+this site into a world class
+destination with launching and
+sand beaches.
+
+* Regional
+Service Area
+
+The North Marina
+serves thousards of
+
+Utah County residents
+within minutes of their
+
+homes, Visitors have
+easy access from I15 m2 NORTH UTAH COUNTY
+DEVELOPMENT
+
+TOTAL UNITS
+1376 UNS
+
+XSTING UNITS
+
+and Pioneer Crossing,
+
+440. UNS
+IN DEVELOPMENT
+38. unas
+
+sugueg ounces
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+5|Page
+
+THE CITY AND COUNTY
+HAVE INVESTED IN THE LAKE
+
+City match of all projects$11,306, 976.00
+
+FUNDING REQUEST SUMMARY
+[TRCE FUNDING REQUEST ‘S____$,000,000.00 |25% OF TOTAL PROIECT
+[ory maton Ti sons
+NORTH MARINA PROIECT COSTS(PRASES) | _ Sum
+
+"TOTAL PRONECT COSTS | $ _19,900,000.00
+MATCH FUNDS
+See 55,005 90
+
+727373500,
+36,000.00
+
+750,000.00
+
+333,000.00.
+
+558,733.00]
+
+DELI
+TicRON vas Panx (DEVELOPER, 7108 908.00,
+TecRON LS RPROVEMENTS $35,000 00
+— Tora] s —7o8.243.00
+
+[Le STs 9768
+
+5 million
+
+NORTH MARINA SARATOGA SPRINGS, UT
+
+‘CONCEPTUAL DESIGN
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+6|Page
+
+“TO COMPLETE THis DESIGN, ADDMONAL FUNDING WILL BE REGUIRED
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+7|Page
+
+THANK YOU
+
+COMMISSIONERS, LARS ANDERSON, ERIC ELLIS (UTAH LAKE COMMISSION
+EXECUTIVE DIRECTOR), AND JEREMY LAPIN (CITY PUBLIC WORKS DIRECTOR)
+DISCUSS MARINA ITEMS SUCH AS DESIGN, ECONOMIC BENEFIT, UNDERWATER
+PIPES, LEGISLATURE FUNDING, TTAB, ETC.
+
+2. LISTEN TO A PRESENTATION FROM TYSON TODD OF THE SCHOOL AND
+INSTITUTIONAL TRUST LANDS ADMINISTRATION (SITLA) REGARDING THE BEARS
+EARS EXCHANGE.
+
+-Bill Lee, Commission
+(Timestamp: 41:56)
+Todd Tyson, School and Institutional trust lands Administration
+
+Below is a map about the trust lands of the proposed land we're hoping to acquire
+from the Bears Ears exchange.
+
+* Furthest Northwest Corner (pink and dark blue sections) - those are two
+sections slated to be transferred to Camp Williams
+
+* Southeast Eagle Mountain #9 - Hoping to pick that one up for residential
+development
+
+* Further to the South #10 - Fairfield East - potential solar development.
+* Further to the South #12 - Potential Solar Development
+* East #13 - Potential Residential Development
+
+* #15 - On the county boot - land to potentially trad into bears ears
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+8|Page
+
+AS PART OF THIS TRUST LANDS, WE’RE MANDATED WITH GENERATING
+REVENUE. WE HAVE A DIFFERENT MANDATE THAN OTHER FEDERAL LAND
+MANAGEMENT AGENCIES WHERE WE GENERATE REVENUE THAT GOES INTO A
+TRUST AND THEN THE EARNINGS FROM THE TRUST GO TO FUND PUBLIC
+EDUCATION, PRIMARILY AMONGST THE DIFFERENT BENEFICIARIES. LAST YEAR
+IN UTAH COUNTY, THE TRUST DISPERSED $19.2 MILLION TO LOCAL SCHOOLS
+WITHIN THE COUNTY AND THOSE FUNDS ARE DECIDED BY THE LOCAL
+COMMUNITY COUNCILS.
+
+COMMISSIONERS AND TODD TYSON TALK ABOUT ISSUES SUCH AS STATE
+CONTROLLING, BEARS EARS BOUNDARIES, CULTURAL ARTIFACTS, ETC.
+
+REPRESENTATIVE PHIL LYMAN, UTAH HOUSE OF REPRESENTATIVES -
+(REFERRING TO MAP BELOW) - ORANGE IS RESERVATION LAND, PINK IS
+NATIONAL PARK SERVICE AND RECREATION, GREEN IS NATIONAL FOREST
+SERVICE, YELLOW IS BUREAU OF LAND MANAGEMENT AND BLUE ARE THE STATE
+INSTITUTIONAL TRUST LAND SECTIONS.
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+9|Page
+
+(Referring to map overlay below)
+THE RED IS BEARS EARS AND UNDERNEATH THAT IS OTHER LAYERS OF
+NATIONAL WILDERNESS STUDY AREAS.
+
+MY PREFERENCE PERSONALLY IS KEEP THE DISPERSED PATTNERN EVEN
+THROUGH THE MONUMENT BECAUSE MONUMENTS DO COME AND GO.
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+10|Page
+
+REGULAR AGENDA
+
+1. RATIFICATION OF WARRANT REGISTER FOR MAY 11, 2022 INCLUDING NOTES AND
+COMMENTS FROM THE COMMISSIONERS AS RECORDED ON THE INTERNAL SYSTEM
+-Alice Black, Clerk/Auditor
+
+APPROVED ON CONSENT
+
+2. APPROVAL OF THE PAYROLL WARRANT SUMMARY FOR PAY PERIOD 09-2022
+-Alice Black, Clerk/Auditor
+
+APPROVED ON CONSENT
+
+3. APPROVE TAX CREDITS AND REFUNDS RECOMMENDED BY THE COUNTY
+ASSESSOR'S OFFICE IN CANCELLATION AND CORRECTION LETTER 60451 DATED
+05/06/2022
+
+-Jim Stevens, Assessor
+
+APPROVED ON CONSENT
+Agreement: 2022 - 349
+
+4. APRROVE LATE APPLICATION FOR 2021 DISABLED VETERAN EXEMPTION FOR
+FENN, CRAIG(41:091:0014), BURNESS, CONSTANCE (52:013:0004), GREEN, JAMES
+(54:245:0087), KELLY, KYLE (45:243:0020), WITH A FINDING THAT THE FAILURE OF
+THESE CLAIMANTS TO TIMELY FILE THE APPLICATION WAS BEYOND THESE
+CLAIMANTS' REASONABLE CONTROL AND TO NOT EXTEND THE DEADLINE WOULD
+
+BE AGAINST EQUITY OR GOOD CONSCIENCE.
+-Vicky Westergard, Clerk/Auditor
+
+APPROVED ON CONSENT
+Agreement: 2022 - 350
+
+5. AN ORDINANCE AMENDING ARTICLE 3.04 OF THE UTAH COUNTY CODE RELATING
+TO REAL PROPERTY TAX SALE PROCEDURES TO ADD A PREVIOUSLY ADOPTED
+ORDINANCE INTO THE MUNICODE SYSTEM AND AMEND PROCEDURES TO CLAIM
+
+EXCESS PROCEEDS RECEIVED FROM THE ANNUAL TAX SALE
+-Burt Harvey, Clerk/Auditor
+
+APPROVED ON CONSENT
+Ordinance: 2022 - 351
+
+6. ROUTINE CONTRACT TO MOVE ELECTIONS EQUIPMENT TO VOTE CENTERS
+-Rozan Mitchell, Clerk/Auditor
+
+APPROVED ON CONSENT
+Agreement: 2022 - 352
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+11|Page
+
+7. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN AN AGREEMENT FOR
+
+ABSENTEE BALLOT DELIVERY FOR VOTERS WITH DISABILITIES.
+-Rozan Mitchell, Clerk/Auditor
+
+APPROVED ON CONSENT
+Agreement: 2022 - 353
+
+8. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN AN AGREEMENT
+WITH GLOBAL MOBILE FOR ELECTIONS INTEGRITY REPORTING TOOL.
+-Rozan Mitchell, Clerk/Auditor
+
+(Timestamp: 1:13:07)
+
+JOSH DANIELS, COUNTY CLERK/AUDITOR - AS WE ARE PREPARING FOR A FAIRLY
+BIG ELECTION YEAR, WE’RE LOOKING AT SOME OF OUR NEEDS FROM VARIOUS
+VENDORS AND DIFFERENT FEATURES AND SUPPORT THAT WE REQUIRE. THIS
+PARTICULAR CONTRACT WITH ONE OF OUR EXISTING VENDORS, GLOBAL
+MOBILE, IS FOR A COMMUNICATION PLATFORM WITH VOTERS. WE CURRENTLY
+USE GLOBAL MOBILE FOR A VARIETY OF COMMUNICATION WITH VOTERS WHERE
+VOTERS CAN TEXT THE ELECTION OFFICE WITH DIFFERENT KINDS OF
+CORRESPONDENCE. THIS IS AN ADDITIONAL FEATURE THAT THIS VENDOR
+OFFERS WHICH ALLOW VOTERS TO SEND US AT THE ELECTIONS OFFICE, TIPS OR
+CONCERNS ABOUT ELECTIONS SECURITY. MANY IN THE COMMUNITY HAVE
+CONCERNS GIVEN VARIOUS KINDS OF NEWS AND OTHER CONTROVERSY ABOUT
+ELECTION SECURITY. ANYONE CAN TEXT UTAHCOUNTY TO THE NUMBER 45995
+TO HAVE ACCESS TO TEXT YOUR CONCERNS.
+
+COMMISSIONER GARDNER: MOTION TO APPROVE
+COMMISSIONER LEE: SECOND
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+Agreement: 2022 - 354
+
+9. APPROVAL OF COMMISSION SIGNATURE ON ANNUAL RENEWAL OF BCI FOR RIGHT
+
+OF ACCESS CONTRACT
+-Janeen Olson, Sheriff
+
+APPROVED ON CONSENT
+Agreement: 2022 - 355
+
+10. APPROVE AND AUTHORIZE THE SIGNING OF AMENDMENT 4 TO AGREEMENT
+2020-95 WITH UTAH DEPARTMENT OF HEALTH FOR THE TB PREVENTION PROGRAM.
+-Julie Dey, Health
+
+APPROVED ON CONSENT
+Agreement: 2022 - 356
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+12|Page
+
+11. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH CANYON
+
+VIEW MEDICAL GROUP.
+-Julie Dey, Health
+
+APPROVED ON CONSENT
+Agreement: 2022 - 357
+
+12. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH VOLUNTEER
+
+CARE CLINIC.
+-Julie Dey, Health
+
+APPROVED ON CONSENT
+Agreement: 2022 - 358
+
+13. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH UTAH
+DEPARTMENT OF HEALTH FOR ELECTRONIC CASE REPORTING.
+-Julie Dey, Health
+
+APPROVED ON CONSENT
+Agreement: 2022 - 359
+
+14. APPROVE AND AUTHORIZE THE SIGNING IN BLUE INK OF 3 COPIES OF THE
+CONTRACT WITH ROCKY MOUNTAIN POWER TO UPGRADE THE ELECTRICAL SERVICE
+
+FOR THE SPANISH FORK RIVER PARK AT A COST OF $7,414.92.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 360
+
+15. APPROVE AND AUTHORIZE THE SIGNING OF A GRANT AGREEMENT WITH THE
+UDAF FOR THE SOUTHERN UTAH COUNTY IRRIGATION SYSTEM IN THE AMOUNT OF
+
+$18,369 FOR 7/1/2022 TO 6/30/2023.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 361
+
+16. APPROVE AND AUTHORIZE THE SIGNING OF A GRANT AGREEMENT WITH THE
+UDAF FOR THE GARLIC MUSTARD IN THE AMOUNT OF $13,035 FOR 7/1/2022 TO
+
+6/30/2023.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 362
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+13|Page
+
+17. APPROVE AND AUTHORIZE THE SIGNING OF A GRANT AGREEMENT WITH THE
+UDAF FOR THE UTAH LAKE SHORELINE IN THE AMOUNT OF $92,421 FOR 7/1/2022
+
+TO 6/30/2023.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 363
+
+18. APPROVE AND AUTHORIZE THE SIGNING OF AN AGREEMENT WITH COAST
+MACHINERY TO PURCHASE A MM-2-LX HYDRAULIC DRIVEN ROTARY CUTTER
+ATTACHMENT USING GRANT FUNDS APPROVED UNDER GRANT AGREEMENT #2021-
+922, ADD THE ROTARY CUTTER TO THE FLEET AND COMMENCE A DEPRECIATION
+
+AND RECAPITALIZATION ON THE ASSET.
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 364
+
+19. APPROVE AND AUTHORIZE THE SIGNING OF THREE (3) SURPLUS MEMOS FORA
+GENERATOR, STOCK TRAILER AND F350 THAT ARE TO BE DISPOSED OF AS JUNK,
+SOLD THROUGH PUBLIC AUCTION, OR TRADED INTO A DEALERSHIP.
+
+-RICHARD NIELSON, Public Works
+
+APPROVED ON CONSENT
+Agreement: 2022 - 365
+Agreement: 2022 - 366
+Agreement: 2022 - 367
+
+20. APPROVE AND AUTHORIZE COMMISSION SIGNATURES ON A DEVELOPMENT
+AGREEMENT BETWEEN UTAH COUNTY AND EAGLES LANDING UTAH HOLDINGS, LLC
+PERTAINING TO THE COMPLETION OF PHASES 1 AND 2 AND THE CONSTRUCTIONS OF
+PHASES 3, 4, AND 5 OF THE EAGLES LANDING PLAT "A" MOUNTAIN HOME
+
+DEVELOPMENT, LOCATED NEAR BIRDSEYE, UTAH
+-Robert Moore, Attorney
+
+CONTINUED ON CONSENT FOR 2 WEEKS (May 25, 2022)
+
+21. APPROVE AND AUTHORIZE COMMISSION SIGNATURE ON SECOND AMENDED
+LEASE AGREEMENT BETWEEN UTAH COUNTY, BY AND THROUGH THE CHILDREN'S
+JUSTICE CENTER, AND CORAL CREEK PROPERTIES, LLC, FOR USE OF PROPERTY
+LOCATED IN AMERICAN FORK, UTAH COUNTY, UTAH. (ORIGINAL AGREEMENT 2020-
+
+142, FIRST AMENDED LEASE AGREEMENT 2022-199)
+-Terri Eisel, Attorney
+
+APPROVED ON CONSENT
+Agreement: 2022 - 368
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+14|Page
+
+22. APPROVE AND AUTHORIZE PROPERTY TAX ACTIONS INCLUDED IN
+
+RECOMMENDATION LETTER 2022-4
+-Adam Beck, Attorney
+
+(Timestamp: 1:16:20)
+
+COMMISSIONERS, ADAM BECK (DEPUTY COUNTY ATTORNEY), KRIS POULSON
+(UTAH COUNTY ASSESSOR) DISCUSS VARIOUS TAX ACTIONS AND DISCUSSED
+ITEMS SUCH AS GREENBELT, ROLLBACKS, VALUES, CONTINUANCES,
+ESTIMATIONS, ETC.
+
+COMMISSIONER LEE: MOTION TO APPROVE APPEAL
+COMMISSIONER GARDNER: SECOND
+
+JEANNE BOWEN, SENIOR PROPERTY TAX ASSOCIATE - THEY DIDN’T SEND USA
+CHECK UNTIL SEPTEMBER, SO WE DIDN’T PROCESS THIS UNDER SEPTEMBER 13.
+THEN THEY DIDN'T GET BACK TO US UNTIL DECEMBER. IT WASN’T TIMELY.
+
+(completed motion)
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+Agreement: 2022 - 369
+
+23. APPROVE AND AUTHORIZE COMMISSION SIGNATURE ON AGREEMENT WITH
+BRIXTON MALL, LLC TO RENEW LEASE OF SPACE IN THE PROVO TOWNE CENTRE
+MALL. (ITEM WAS CONTINUED TO 5/18/2022 MEETING. SINCE NO MEETING WAS
+SCHEDULED FOR THAT DATE, AGENDA ITEM MOVED TO NEXT MEETING OF
+5/11/2022).
+
+-Ben VanNoy, Attorney
+
+STRICKEN ON CONSENT
+
+24. APPROVE AND AUTHORIZE THE EXECUTION OF AN AGREEMENT WITH SPANISH
+
+FORK CITY (SFCITYTIX) FOR THE 2022 UTAH COUNTY FAIR
+-Ben VanNoy, Attorney
+
+APPROVED ON CONSENT
+Agreement: 2022 - 370
+
+25. APPROVE AND AUTHORIZE COMMISSION SIGNATURE ON AGREEMENT WITH LIVE
+ALITTLE PRODUCTIONS TO PROVIDE A MONSTER TRUCK EVENT AT THE 2022 UTAH
+COUNTY FAIR
+
+-Tom Sakievich, Commission
+
+APPROVED ON CONSENT
+Agreement: 2022 - 371
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+15|Page
+
+26. APPROVE ERA2 CONTRACT - APPROVE CONTRACT BETWEEN THE STATE OF
+UTAH AND UTAH COUNTY FOR THE MANAGEMENT OF THE FEDERAL ERA 2 GRANT
+
+-Peter Brown, Commission
+
+CONTINUED ON CONSENT FOR 2 WEEKS (May 25, 2022)
+
+27. APPROVE AND AUTHORIZE THE COMMISSION CHAIR TO SIGN THE COMPLIANCE
+AGREEMENT AND BOND FOR OPEN PIT MINING OPERATIONS/C&D LANDFILL WITH
+SUNROC CORP. FOR AN EXISTING OPERATION, APPROXIMATE SITE LOCATION 15852
+S I-15 FRONTAGE ROAD, SECTION 15, T10S, RIE, M&G-1 ZONE, SOUTH OF SANTAQUIN
+IN UNINCORPORATED UTAH COUNTY. SURETY BOND NO. 105858468, IN THE
+AMOUNT OF $138,500.00 WITH TRAVELERS CAUSALITY AND SURETY COMPANY OF
+AMERICA, ONE TOWER SQUARE, HARTFORD, CT 06183.
+
+-Kevin Stinson, Community Development
+
+APPROVED ON CONSENT
+Agreement: 2022 - 372
+
+28. APPROVE THE RELEASE OF THE BOND FOR OPEN PIT MINING/C&D LANDFILL
+OPERATIONS, FOR SUNROC CORP., SURETY NO. 105858468 IN THE AMOUNT OF
+$111,877.53, AND AUTHORIZE THE COMMISSION CHAIR TO SIGN THE RELEASE
+LETTER TO TRAVELERS CAUSALITY AND SURETY COMPANY OF AMERICA, ONE
+TOWER SQUARE, HARTFORD, CT 06183.
+
+-Kevin Stinson, Community Development
+
+APPROVED ON CONSENT
+Agreement: 2022 - 373
+
+29. REQUEST FOR DISPOSITION OF EQUIPMENT FROM THE UTAH COUNTY
+RECORDER'S OFFICE
+
+-Andrea Allen, Recorder
+
+APPROVED ON CONSENT
+Agreement: 2022 - 374
+
+30. AUTHORIZE AN ADDITION TO THE STAFFING PLAN IN THE ENFORCEMENT
+BUREAU OF THE SHERIFF'S OFFICE. ADD THREE (3) FULL-TIME, CAREER SERVICE,
+GRANT FUNDED, EMERGENCY MANAGEMENT PLANNER POSITIONS AND ONE (1)
+FULL-TIME, CAREER SERVICE, GRANT FUNDED SENIOR OFFICE SPECIALIST -
+ENFORCEMENT POSITION. [STAFFING PLAN DETAILS FOR HR USE: ACCOUNT
+NUMBER 100-42140; SUPERVISORY ORG: SERGEANT - ENFORCEMENT; ADD 3
+POSITIONS OF JOB CODE TBD, GRADE 720 AND 1 POSITION OF JOB CODE 6483, GRADE
+
+718,
+
+-Elicia Edwards, Human Resources
+
+Commissioner Sakievich Noted that this is grant funded
+
+APPROVED ON CONSENT
+Agreement: 2022 - 375 __
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+16|Page
+
+31. AUTHORIZE AN ADDITION TO THE STAFFING PLAN IN THE CRIMINAL DIVISION
+OF THE UTAH COUNTY ATTORNEY'S OFFICE. ADD ONE (1) FULL-TIME, CAREER
+SERVICE, GRANT FUNDED, PROGRAM MANAGER - JET (JUSTICE, EDUCATION AND
+TRAINING) INITIATIVE POSITION AND ONE (1) FULL-TIME, CAREER SERVICE, GRANT
+FUNDED, CASE MANAGEMENT SUPERVISOR - JET INITIATIVE POSITION. [STAFFING
+PLAN DETAILS FOR HR USE: (1) ACCOUNT NUMBER 100-41451; SUPERVISORY ORG:
+COUNTY ATTORNEY; ADD 1 POSITION OF JOB CODE 2704, GRADE TBD; (2) ACCOUNT
+NUMBER 100-41451; SUPERVISORY ORG: PROGRAM MANAGER - JET INITIATIVE; ADD
+1 POSITION OF JOB CODE 2705, GRADE TBD.]
+
+-Elicia Edwards, Human Resources
+
+Commissioner Sakievich Noted that this is grant funded
+
+APPROVED ON CONSENT
+Agreement: 2022 - 376
+
+32. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING TO
+DISCUSS THE CHARACTER, PROFESSIONAL COMPETENCE, OR PHYSICAL OR MENTAL
+HEALTH OF AN INDIVIDUAL OR INDIVIDUALS, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Alice Black, Clerk/Auditor
+
+STRICKEN ON CONSENT
+
+33. APPROVE AND SET A DATE, TIME AND LOCATION FORA CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE PURCHASE, EXCHANGE, OR LEASE OF REAL
+PROPERTY, WATER RIGHTS, OR WATER SHARES, FOR TODAY'S DATE, AT THIS
+LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS ITEM
+IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Alice Black, Clerk/Auditor
+
+STRICKEN ON CONSENT
+
+34. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS THE SALE OF REAL PROPERTY, WATER RIGHTS, OR
+WATER SHARES, PREVIOUSLY PUBLICLY NOTICED FOR SALE, FOR TODAY'S DATE, AT
+THIS LOCATION, FOLLOWING THE COMPLETION OF THE REGULAR AGENDA (IF THIS
+ITEM IS NOT MOVED TO THE CONSENT AGENDA, ANNOUNCE THE VOTE OF EACH
+
+COMMISSIONER)
+-Alice Black, Clerk/Auditor
+
+STRICKEN ON CONSENT
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+17 Age
+
+35. APPROVE AND SET A DATE, TIME AND LOCATION FOR A CLOSED MEETING FORA
+STRATEGY SESSION TO DISCUSS PENDING OR REASONABLY IMMINENT LITIGATION,
+FOR TODAY'S DATE, AT THIS LOCATION, FOLLOWING THE COMPLETION OF THE
+REGULAR AGENDA (IF THIS ITEM IS NOT MOVED TO THE CONSENT AGENDA,
+
+ANNOUNCE THE VOTE OF EACH COMMISSIONER)
+-Alice Black, Clerk/Auditor
+
+STRICKEN ON CONSENT
+
+PUBLIC COMMENTS
+NO PUBLIC COMMENTS
+
+COMMISSIONER LEE: MOTION TO ADJOURN
+COMMISSIONER GARDNER: SECOND
+
+AYE: ALL IN FAVOR
+
+PASSED: 3/0
+
+MEETING ADJOURNED
+
+(Meeting Adjourned: 3:31 P.M.)
+
+NOTICE OF SPECIAL ACCOMMODATION DURING PUBLIC MEETINGS In
+compliance with the Americans with Disabilities Act, individuals needing special
+accommodations (including auxiliary communicative aids and services) during
+this meeting should notify Alice Black at 801-851-8111. Handicap parking is
+available, as well as a level entrance to the building. Interpretation services are
+available with prior notice for the hearing disabled
+
+Those in Attendance Via Zoom:
+
+Burt Harvey Richard Nielson Ben Stanley
+Ben Van Noy Heather Allen Travis Anderson
+Ralf Barnes Paul Jones Peter Brown
+Larry Colton Fox Brian Voeks
+Monica C Donna C
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+18|Page
+
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+May 11, 2022 - 2:00 p.m.
+
+PRINT CLEARLY
+Name: Agency:
+yey wlistuogd Heel luid”
+NAY Liter C14 LeoJAv dwt
+- , Pov
+Cayyre Ben nelt HP
+Pafty Cross He
+laoh (Kup Records elAce
+Danene Jackson Clerk} Audra
+_ Eee Edwards 7 UCHD
+Cte + Lo tp lecrctac ty
+
+Poa Whiteheh = Cee FE keehons
+
+T sen oh4 SET 7
+T
+Kashw Banles a :
+Julvenne Dou. C/A
+Drone, Comin esesce vs OCGcs |
+
+
+BOARD OF COMMISSIONERS OF UTAH COUNTY, UTAH
+Public Meeting Minutes
+
+May 11, 2022
+
+19|Page
+
+BOARD OF COMMISSIONERS FOR UTAH COUNTY
+PUBLIC MEETING ATTENDANCE SHEET
+May 11, 2022 - 2:00 p.m.
+
+PRINT CLEARLY
+
+Name: Agency:
+
+Take te Frets taal LEU b
+
+Alice Binet ech! Auditor Dept
+
+4 I
+ASV. SAKHERVIEH, Chair
+ATTEST:
+
+f
+
+Deputy Clerk/Auditor
+

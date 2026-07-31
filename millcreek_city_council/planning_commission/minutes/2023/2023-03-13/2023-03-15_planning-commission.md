@@ -1,0 +1,429 @@
+# Millcreek Planning Commission — 2023-03-15
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03152023-674
+> Meeting date: 2023-03-15
+> Format: pdf-text
+
+---
+
+
+- **Title:** Planning Commission Meeting Agenda and Packet
+- **Date:** 2023-03-15
+- **Body:** Planning Commission
+- **Source:** civicplus AgendaCenter — https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_03152023-674
+- **Format:** pdf-text (source OCR garble preserved verbatim)
+
+---
+
+                                                                                          Minutes            of the
+                                                                         Millcreek           Planning               Commission
+                                                                                          March           15,    2023
+                                                                                                 5:00      p.m.
+                                                                                         Regular           Meeting
+
+
+The Planning             Commission              of Millcreek,         Utah,      met in a regular               public      meeting      on Wednesday,
+March        15, 2023,        at City        Hall,    located     at 3330 S. 1300 E., Millcreek,                          UT 84106.          The meeting          was
+conducted           electronically           and live      streamed           via tlie City's        website         with     an option        for online    public
+comment.
+
+
+PRESENT:
+
+
+Commissioners                                                                               City     Staff
+Shawn          LaMar,      Chair                                                            Francis        Lilly,     Planning         & Zoning      Director
+Victoria        Reid, Vice           Chair                                                  Elyse       Sullivan,         City      Recorder
+David        Hulsberg                                                                       Kurt     Hansen,          Facilities       Manager
+Christian        Larsen                                                                     Carlos        Estudillo,        Planner
+Nils       Per Lo-fgren                                                                     Katie       Larsen,       Planner
+Skye Sieber (excused)                                                                       Robert        May,       Long        Range Planning           Manager
+Dwayne          Vance            -                                                          Jake Green,             Planning         Engineer     (electronic)
+Ian Wright          (absent)
+
+
+
+Attendees:           Tyler    Morris,         Ryan Heath,          Dwight         Yee, Mark             McAllister,          Aidan      Newsome,           Gary
+Davis,       Hung-Shih           Chou
+
+
+REGULAR               MEETING                 - 5:00 p.m.
+TIME         COMMENCED                       - 5:00 p.m.
+
+
+Chair       LaMar       called       the meeting to order and read a statement                                  describing        the duties     of the
+Planning         Cornrnission.
+
+
+1. New         Business
+       1.1 Consideration                of LB-23-001,             Request          for    a Lot      Line        Adjustment            of Lots     5 and 6 in
+       the Columbian                 Court      Condominium                   Subdivision          Location:           3600 S. 1300            E. Applicant:
+       Hung-Shih             Chou      Planner:         Katie     Larsen
+       Katie     Larsen       said the Columbian                 Court        Condominium               Subdivision           was originally        platted       for
+       six units, but only             four units had been constructed.                          She reviewed             the following          staff findings:
+       @ '   Any     lot boundary             adjustment         must comply              with     City    Code 18.08.030               & Utah Code 10-
+             9a-608      (1)&(2).
+       @     The owner           of the properties           involved           within     this application             has filed       the application           and
+             provided        signed      owner's         affidavits       stating        that they are the rightful                  owner      of said
+             properties.
+       *     The proposed             lot line adjustment              will     not result       in a violation             of the Millcreek's            land use
+             or zoning        ordinances,            including        setbacks,      lots size, easements,                   etc.
+Millcreek           Planning             Commission                Meeting         Minutes                     15 March               2023        Page      2 of 8
+
+
+
+
+       *      The         application           includes       an accurate         legal       description           of both      the original           properties          and
+              the adjusted             legal      description           of each proposed              property;          both        of which      have been
+              prepared          by a licensed               surveyor        and/or      engineer.
+       @      The proposed                lot line       adjustment          does not          seek to add or subtract                   any land        to/from          the
+              recorded          subdivision,              affect      a public     right-of-way,             or create         any additional              lots.
+       *      Notification              was given           to the adjacent            property       owners          and property              owners       within         the
+              recorded          subdivision,              at least 10 days prior                to the public           meeting,          as required          by local           and
+              state codes.
+       *      There         are known            CC&R's.           Millcreek           does not govern               any such private              documents              if any
+              such         documents            exist,     whereupon           it is the sole responsibility                     of the homeowners                   to
+              pursue,         govem,          or enforce           such documents               privately,       if at all.
+       *      The         applicant      has agreed            to extend         the private        drive      aisle to allow              for access to all units.
+       *      The project             is associated           with      an original         Conditional           Use Approval                  issued     in 2008          by
+              Salt Lake          County.
+
+
+       Larsen         showed          the commission                  the original        subdivision          plat     which         had Columbian                 Court
+       (street)       terminating             before        the end of unit            6. Millcreek          staff     had requested              that the road be
+       extended            to accornmodateunit                     6. She showed               the corni'nission           the proposed             plat     and
+       concluded             that the proposed                lot line      adjustment           should       be approved               based     upon      the
+       following:
+       @      The proposal               will     not result          in the violation          of any local           land      use or zoning             ordinances               of
+              any kind          and, the proposal                  appears       to comply         with      Millcreek           and State         Codes.
+       *      The         applicant      must       finish      improvements               stipulated         in the original             conditional          use peimit,
+              including,          but not limited               to:
+                      *      Ainenities
+                      *       Landscaping
+                      *       Parking
+
+
+       Corni'nissioner                Vance        asked      if all the conditions               had been           satisfied       in the original           condition
+       use permit;            and if there          was       a deadline         to complete          them.      Larsen          said no and recommended
+       that all the conditions                    be finished           at the point        of a certificate            of occupancy              being       issued.
+       Commissioner                   Vance       asked       if the applicant            owned       all the units.            Larsen       believed         they     owned
+       only     units        5 and 6 but would                 let the applicant            answer.          Commissioner                Vance      asked          about
+       encroachment               on the coinrnon                  area.
+
+
+       Gary       Davis,       representative               of the applicant,             said the property              owner          was looking           to complete
+       the complex.             The footprint                of units      5 and 6 were           two     feet bigger            than    the original          and they
+       had an updated                 floorplan.          He said the gap between                    these units           and 3 and 4 would                   be 16 feet
+       wide.      The other            unit      owners       were      in favor        of the project.         Commissioner                 Vance         asked       if there
+       was an HOA.               Davis          did not know.              Commissioner             Vance       asked          if the other        owners          cared      that
+       these units           would       be bigger           than theirs.         Davis        said the other           owners          signed     affidavits
+       acknowledging                  consent        of the project.             Larsen     confirined          that consent             of other        owners        in an
+       HOA        was a requirement                      of a condominium                 subdivision.
+
+
+Commissioner                   Vance,           based       on the findings              and     conditions           listed      within         the staff         report
+and        adopting          those      findings           as findings           and    conclusions            of the Planning                  Commission                itself,
+with       the one modification                      that     the original             requirements             under          the    conditional            use permit
+Millcreek       Planning        Commission           Meeting           Minutes               15 March           2023        Page 3 of 8
+
+
+
+regarding       the amenities,           landscape,         and so forth         be completed           prior     to the final         CO
+(certificate      of occupancy)            being    issued,      moved        that     the Planning       Commission                approve         lot
+boundary        adjustment           application       file number            LB-23-001,         as otherwise          proposed.
+Commissioner            Reid      seconded.        Chair        LaMar        called     for the vote.        Chair     LaMar          voted     yes,
+Commissioner           Reid      voted     yes, Commissioner                 Hulsberg       voted     yes, Commissioner                    Larsen
+voted    yes, Commissioner               Lofgren       voted      yes, and Commissioner                  Vance         voted      yes. The
+motion      passed     unanimously.
+
+
+2. Public      Hearings
+     2.1 Consideration             of ZM-22-013,            Request          to Rezone       Property         from     R-2-10         to R-M      to
+     Accommodate               a Proposal        to Build       a 14-Unit        Townhome           Development              Location:         3956-
+     3960 S. 300 E. Applicant:                   Dwight      Yee Planner:               Carlos    Estudillo
+     Carlos     Estudillo      said the applicant           was seeking          to rezone       two parcels         from    the R-2-10
+     (Medium       Density       Residential        Zone)       to the R-M        (Multifamily        Residential           Zone)     to
+     accormnodate           a 14-unit      townhome         development.             The parcels      are located           at 3956 S 300 E and
+     3960 S 300 E and total 1.33 acres. The area vicinity                                was composed           of two-family              dwellings
+     and cornunercial          properties       to the rrorth, multi-family               buildings     to the south,           and large-scale
+     commercial        to the west of the subjected                  parcels.      The future      project      would       consist     of 14
+     townhome        units     capped      at 30 feet high,          well    below      the maximum           required       height        in the R-M
+     zone. The proposed            project's       footprint      was 10,450           square feet, well below               the maximum
+    required      lot coverage          of 18,580     square feet (40%                of total lot size) in the R-M              zone.
+    The proposed            open space areA isl8,804                 square feet, barely           above the maximum                  required
+    open space area of 18,580                   square' feet (40%           of total lot size) in the R-M               zone. There           would
+    be a 25-foot       private       lane for aaces's with           a firetruck        turn-around      located       at the north          end of
+    the property.         Ten guest parkin-g-spots               would      be located      near the south property                 line, which
+    meets the required            guest parking           requirement.          A fenced     playground          would       be provided         as a
+    development           amenity.       Water-wise         planting        was envisioned         to compose          of most of the
+    landscaping.       All     arqliitectural       requirements            have been met, including                 frontage       requirements.
+
+
+    Estudillo      showed       the cornrnission           the proposed          site plan and building              renderings        and
+    elevations       of the project        if the rezone         was granted.          The property       was designated              as
+    Neighborhood             3 in the General        Plan, with         the primary        use being multifamily                 apartments          or
+    condominiums.             He said based on the findings                   listed    within    the staff report,          the following
+    conclusions       could be made:
+         1.     A multifamily           use would      be in han'nony            with     the current     land use designation                 because
+                the general       plan designation           for these parcels            is under "Neighborhood                  3", which         its
+                primary      intended       use is for multi-family              apartment        and condominiums.
+          2.    The number         of units      shown      within       the proposed        concept     plan would             be below       the
+                maximum          density     contemplated          by the general          plan because the applicant                   is
+                proposing       14 units in 1.33 acres, well                 below      the designated          density      for the
+                "Neighborhood            3" category,          which     is 18-35       units per acre.
+          3.    A development            agreement         may best ensure the type,                scale, style, materials,
+                orientation,      dedication,       utilities     easements,           access, phasing,         and other aspects
+                pertaining       to the future      development             of these properties,         where        the underlying           zoning
+                and land use ordinances              may be insufficient;                Therefore,     a development               agreement
+                may be in place to ensure development                           design     and layout        of the property.
+Millcreek          Planning         Commission            Meeting      Minutes                    15 March            2023       Page 4 of 8
+
+
+
+            4.     All    development          will     be required        to meet the minimum                  zoning      and land use
+                   ordinances;         to which        the concept         plan may likely           evolve      from      what is currently
+                   presented        for this rezone         application.
+
+
+    Estudillo            said the Millcreek            Community           Council     provided          a letter of recommendation                    that
+    day recomi'nending                 unanimous          approval      of the application.               He recominended                 the commission
+    recoini'nend            approval       of the application.         The project           would        come back to the coinmission
+    with     a conditional           use permit         application.
+
+
+    Coininissioner              Larsen      asked if a development                  agreement        was necessary.            Estudillo       said     if the
+    commission              felt it was necessary,              it could be an added condition                    by the commission              to have
+    one. Commissioner                  Reid asked if the property                   to the south was part of the discussion                           for this
+    project.        Estudillo       said they were included                 but the applicant            could      elaborate.      Commissioner
+    Hulsberg             asked if the units would               be for individual         ownership.            Estudillo      deferred       to the
+    applicant.
+
+
+    Dwight          Yee, representing            property         owner,     said the property             owner      to the south came to the
+    neighborhood              meeting.        That property          owner      did not want to be part of the rezone                         application.
+    The property             owners        to the north      were interested           in developing             but did not have a concept
+    plan-for        their property           so they were not included.                 Commissioner              Vance       asked if the units
+    would         be platted       individually.         Yee did not know.              Commissioner              Larsen      asked       if the applicant
+    would         be open to negotiating                a development           agreement         with      staff. Yee confirmed.
+
+
+    Chair        LaMar        opened        the public      hearing.
+
+
+    There        were no cominents.
+
+
+    Chair        LaMar        closed       the public     hearing.
+
+
+    Commissioner Larsen felt it wassmart to craft a development agreementto accompany the
+    rezone.        Commissioner              Vance       agreed, the rezone            approval         would     be based on the proposal.
+    Commissioner                Hulsberg        said in Neighborhood                 3, the density         could     be greater          than what was
+    being        proposed,         but this proposal            fit the neighborhood.
+
+
+Commissioner               Larsen,       based        on the findings         and conclusions               listed      in the staff        report,
+moved       that     the Planning            Commission            approve          the rezone          application         ffle ZM-22-013,              as
+proposed,          with     the additional            condition      that     a development               agreement          be negotiated
+consistent         with     this   proposal.          Commissioner            Hulsberg          seconded.          Chair      LaMar         called      for
+the vote.        Chair      LaMar        voted        yes, Commissioner               Reid      voted     yes, Commibbiuuei                  IIulsberg
+voted   yes, Commissioner                    Larsen       voted     yes, Commissioner                   Lofgren       voted        yes, and
+Commissioner               Vance       voted     yes. The motion             passed       unanimously.
+
+
+    2.2 Consideration                  of CU-23-002,             Request      for    a Conditional              Use Permit          for    a Mixed-Use
+    Development               in the City          Center       Consisting          of 58 Residential             Units     with     9,561     Square
+    Feet of Ground                 Floor      Office     and Retail         Space Location:               1353      E. Chambers             Avenue
+    Applicant:             Cottonwood            Residential         Planner:         Robert       May
+    Robert         May      said this project           would     be a quality        project     in the city center because                  of the
+    building         materials       to be used and the surrounding                     landscaping.            The city was working                  with
+Millcreek      Planning         Commission               Meeting        Minutes                 15 March        2023        Page 5 of 8
+
+
+
+    the applicant         and surrounding              property        developers      to make a cohesive              area development               with
+    phase 2 of Millcreek                 Coirunon.       The development              would     include     residential         units in 5 stories
+    of wood       frame     construction            over a 2-level         above-grade         parking     structure      wrapped         in
+    coinrnercial       space facing            Woodland          Avenue,        Chambers        Avenue,      and Millcreek           Common.
+    Chair      LaMar      asked if both           garages would           be open to the public.            May       deferred     to the
+    applicarxt.     May       briefly      highlighted       the unit mix          of 1-3 bedroom          units,     and the shared parking
+    matrix     which      would         include     115 total parking             stalls. May     showed      the commission              the
+    elevations      illustrating          the grade change             and glazing      requirements,         and the city center               site plan
+    and renderings          with        this project      included.
+
+
+    Cominissioner           Reid acknowledged                 tliat it took       a long time for trees to grow,                 and wondered              if
+    shade structures           could be added in the city center until                         the canopy     grew in. May            said he
+    would      make note of it for the city center as it was outside                              of this applicant's            scope.    May
+    noted that awnings             were required            on the applicant's          building.
+
+
+    May      said the Millcreek             Coini'nunity         Council        recomiuended         approval        (9-2 vote)      of the project
+    as did the Canyon             Rim      Citizens       Association           (11-O vote).     Chair    LaMar        asked for insight             on
+    the two opposing             votes. May          was unsure.         Corni'nissioner         Larsen     asked how many                times      the
+    Commission          would       see the application.               May      said this would       be the only tiine.           Corm'nissioner
+    Vance      asked if besides            the one designated              stall per unit, if the remaining               stalls would          be
+    shared with        guests and commercial.                    May     confirmed.      Coinmissioner              Vance    clarified         that there
+    were 18 conditionals                 of approval.       May       confirmed.       Commissioner           Hulsberg          asked about the
+    dark-sky       compliant        lighting       and wondered            if the applicant       was being held to an expectation
+    that the rest of the city center was not. May                            said it was a general          standard.
+
+
+    Tyler    Morris,      Cottonwood              Residential,        said the reasons          for the no votes with            the Millcreek
+    Corni'nunity       Council          were based on it not being                 an affordable         housing      project     and wanting
+    something       that was beyond                the scope of the project.            He noted the Cottonwood                     Residential
+    corporate      office      would       be orr the ground            floor    of the building,        as would       two true retail           spaces.
+    Morris     confin'ned        that both parking             garages would           be open to the public.             The residential
+    spaces would          be signed         and reserved.
+
+
+    Chair    LaMar        opened         the public       hearing.
+
+
+    There were no comments.
+
+
+    Chair    LaMar        closed        the public       hearing.
+
+
+    Chair    LaMar      said the shared parking                  made sense. Coiui'nissioner                Reid liked          the stepback
+    balcony.
+
+
+Commissioner           Hulsberg           moved,       based      on the staff        report     and recommendations                      from       the
+community         councils,       to grant        preliminary           conditional        use approval             of application         CU-23-
+002 with     the conditions             of approval         located       in the staff     report.        Commissioner             Larsen
+seconded.
+The conditions iit the staff report:
+   1. Developinent's guest parking stalls within developinent                                   will be available for shared parking
+        during      business       hours     operating       hours.
+Millcreek            Planning           Commission                 Meeting         Minutes                       15    March       2023           Page     6 of 8
+
+
+
+
+        2. Prior to receiviizgfinal approval, applicant shall bond for all required itnprovements, including
+              curb,       gutter,     sidewalk,         street     trees and required              irrigation,         required        setback     landscaping,
+           streetlights, and any other iinprovement required by the Ciffl.
+        3, Applicant shall make best efforts to incorporate travel deinand management strategiesfor the
+           project, including but not limited to subsidir,ing the cost of transitpasses for conuizercial arid
+           residemial uses,providing safe, secure, and convenient bicycle storage beyond what is required
+              by Millcreek            code.
+        4.    The applicant             will   ensure       that       every    residential        unit    has at least         one dedicated           parking      space.
+        5. Applicant shall provide service availability letters from a// utilhy providers prior to receiving
+           final conditional use approval.
+        6. Applicant shall verify with Millcreek Engineeriyig staff through appropriate studies as required
+            by the Ciffl's Geological Hazards ordinance that the soils are suitable for developmentprior to
+            receiving final conditional use approval.
+        7.    Applicant         shall     itxstall      dark-sky        compliant         lighting,       and subinit         a lighting         and photometrxc
+              plan, including for signage, for review by planning staffprior to receiving fmal conditional use
+              approval.
+        8.    Applicant         shall     comply         with     the materials          palette      presented         in the application.
+        9.The applicant sha// obtairi preliininary plait approval from the Fire Marshal prior to receiving
+         final conditional use approval.
+    10 . Prior to receiving a certificate of occupancy, applicant shall apply an anti-graffiti material or
+          coating on-the north, west, and south building facades, and on any fericing the applicant
+              itxstalls      on the project.
+    11. The design of the site and building shall conyply with all applicable development standards,
+        including but not limited to the Chy's Recreatiotxal Faciliffl and OpetxSpace Standards,
+              Medium          andHigh-Density                    Residential        DevelopmentStandards,                       the Milleeek            Urban      Forestry
+              Standards,            and any site development                    standard        required          by the Chy Engineer                ard    Fire   Marshal.
+    12. Prior to receiving final conditi6tzal use approval, the applicantshall certify that existing xdiliffl
+              services       have       the capacUy         to accommodate                  additional         dematxd        induced      by t1ie developmeixt,              or
+              that    the setrvices        will      be upgraded            to meet the additional                demand.
+    13. Signs and accessory structures will reqgiire separate building permits and staff review for
+              zoning/land             use compliance.
+    14. No light source (light bulb, fluorescent tube, or other direct source of lig1it used to illuininate a
+        parking area) sha// be visible beyond the properffl line including the alley (ROW) of atxy off-
+        streetparking area as required by Section 19.80,030 of the zoning ordinance.
+    15. Any modifications to these approved plans ynust be approved by the Planning Department, in
+        writing, prior to the changes being implemented in the field.
+    16. Landscaping shall be installed in compliance with Chapter 19. 77 Water Efficient Landscape
+              Desigtz       and DevelopmentStandards                            and as reqxiired           by the City         Center      overlay       Zone.     Any
+              revisions        to the landscape             plan       package       shall     be reviewed            and approved          in writing       by the
+              director or designeeprior to commencemeid of construction. Re-certification of compliance
+              with the requirements of the landscaping ordinarice shall be provided by t/te qualified
+              professionals who prepared and submitted the plan revisions.
+    17 . The applicant                  will   coinply       with      a// requirements               established        through        the teclmical        review
+        process prior to receiving final conditional use approval.
+    18. ,4// items of the staff report, and discussions located in the meeting minu.tes.
+Chair        LaMar           called      for      the    vote.      Chair       LaMar          voted       yes,       Commissioner               Reid      voted     yes,
+Commissioner                  Hulsberg             voted        yes,    Commissioner                  Larsen          voted     yes,    Commissioner                Lofgren
+voted        yes,    and      Commissioner                 Vance          voted      yes.     The       motion         passed      unanimously.
+
+
+4. Commission                  Business
+     4.1      Approval              of February            15,      2023       Regular        Meeting            Minutes
+Millcreek           Planning           Commission            Meeting         Minutes                 15 March          2023           Page 7 of 8
+
+
+
+
+Chair          LaMar           moved     to approve          the February           15th      regular        meeting       minutes         as presented
+in the staff           report.        Commissioner            Vance          seconded.      Chair       LaMar         called     for the vote.           Chair
+LaMar           voted      yes, Commissioner                 Reid     voted       yes, Commissioner                 Hulsberg          voted      yes,
+Commissioner                   Larsen       voted    yes, Commissioner                   Lofgren       voted     yes, and Commissioner
+Vance          voted      yes. The motion                passed     unanimously.
+
+
+       3.2 Approval               of February            28, 2023 Special          Meeting          Minutes
+
+
+Commissioner                   Reid     moved       to approve         the February            28"1 special          meeting          minutes.
+Commissioner                   Larsen       seconded.        Chair      LaMar        called        for the vote.       Chair          LaMar      voted      yes,
+Commissioner                   Reid     voted     yes, Commissioner                Hulsberg          abstained,        Commissioner                Larsen
+voted      yes, Commissioner                     Lofgren        abstained,        and Commissioner                   Vance       abstained.         The
+motion          passed.
+
+
+       3.3 Updates              from     the Planning             and Zoning        Director
+       Francis         Lilly    said there were a couple                of cominission             vacancies,        and the city was taking
+       applications.            There     were other terms that would                     expire     at the end of the current                fiscal     year,
+       Comi'nissioners                Reid and Vance,           but they had volunteered                    to be appointed            for another        term.
+       Lilly     pointed         out that he sent the comtnission                   a city center update              via email.        He reported           that
+       the temporary              homeless        shelter    would      be ending         mid-April.         The crime         trend had declined                in
+
+       that area relative              to the prior       year. He reported             that there was a survey                out to residences           in the
+       Mountair          Acres        Subdivision         about potentially         designating             the neighborhood             as a historical
+       district.       He announced             that there would             be code changes            to the zoning          code in the coming
+       meetings.          The city council            adopted       the subdivision           ordinance         on Marcli        13"1 and would            adopt
+       the landscape             ordinance        and parking         and mobility          ordinance         at their next meeting                on April
+       IOIIl. The landscape               ordinance         did meet the Central              Utah Water            Conservancy           District's
+       standards,          and they wanted               to use the city's        ordinance         as a model        for otl'ier communities               on
+       waterwise           landscaping.          The city council             suggested      a slightly        different     parking       ratio       for the
+       Meadowbrook                and City        Center     areas than for the rest of the city with                      the parking           ordinance.
+       Chair       LaMar        asked if the temporary                homeless      shelter        report    was available            for other entities.
+       Lilly     said he would            create a report          after the shelter         closed,        which    would       include      data, and he
+       would        send that to the state.
+
+
+       3.4 0pen           and Public         Meetings         Act     Annual       Training;          John      Brems,         City    Attorney
+       This item would                 be rescheduled         for the April        meeting.
+
+
+4. Calendar              of Upcoming             Meetings
+   *    Mt.     Olympus           Coinrnunity         Council        Mtg.,     4/3/23,     6:00 p.m.
+   @ Millcreek             Community             Council      Mtg.,     4/4/23,     6:30 p.m.
+   *    Canyon           Rim     Citizens       Association         Mtg.,     4/5/23,     7:00 p.m.
+   *    East Mill          Creek       Coinmunity          Council      Mtg.,     4/6/23,     6:30 p.m.
+   *    City       Council       Mtg.,    4/10/23,        7:00 p.m.
+   *    Historic         Preservation           Corni'nission        Mtg.,     4/13/23,     6:00 p.m.
+   *    Planning          Commission             Mtg.,     4/19/23,     5:00 p.m.
+Millcreek       Planning      Commission          Meeting          Minutes               15 March       2023      Page      8 of 8
+
+
+
+
+ADJOURNED:                 Commissioner          Larsen      moved        to adjourn      the meeting          at 6:13     p.m.     Chair
+LaMar       seconded.       Chair      LaMar      called    for     the vote.    Chair    LaMar        voted    yes, Commissioner
+Reid    voted    yes, Commissioner              Hulsberg          voted   yes, Commissioner            Larsen      voted     yes,
+Commissioner            Lofgren       voted    yes, and     Commissioner            Vance      voted    yes. The     motion         passed
+unanimously.
+
+
+
+
+                               APPROVED:
+                                                       Shawn        LaMar.      Chair
+                                                                                                        Date
+                                                                                                                   '4tq),;s
+                                  Attest:             El(y<:W,               City   Recorder

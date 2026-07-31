@@ -1,0 +1,16 @@
+Orem — council vote validation report (shared validator, plan item 3.1)
+============================================================================
+rows: 4218   motions: 637   named-vote motions: 637   tally-only motions: 0
+
+1. SCHEMA/DATES/VOCAB defects: 0
+
+2. MALFORMED MOTION GROUPS (mixed named+placeholder / multi-placeholder): 0
+
+3. DOUBLE VOTES — documented exceptions: 0, undocumented (DEFECTS): 0
+
+4. ROSTER: roster.csv present (14 names); off-roster voters: 0
+
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 637/637 match (100.0%)
+   UNEXPLAINED mismatches (hand-review; never auto-corrected): 0
+
+HARD FAILURES: 0

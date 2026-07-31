@@ -1,0 +1,314 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=293&doc_id=56ae0248-cc26-11ea-93cb-0050569183fa
+> Meeting date: 2020-07-07
+> Format: text
+
+Approved July 21, 2020
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JULY
+7, 2020, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD,
+DRAPER, UTAH
+
+PRESENT:                 Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                         Fred Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:                 There were none.
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Angela Fixmer,
+                    Deputy City Recorder; Scott Cooley, City Engineer; Hazel Dunsmore,
+                    Human Resource Director; Lieutenant Pat Evans; Russ Fox, Assistant City
+                    Manager; Rhett Ogden, Recreation Director; Christina Oliver, Director of
+                    Community Development; Clint Smith, Fire Chief; and Bob Wylie,
+                    Finance Director
+________________________________________________________________________
+This meeting was held electronically.
+This meeting was held as an electronic meeting pursuant to Draper City Resolution #14-54. As restrictions
+take place across the State for limiting public gatherings, we want to make sure everyone interested in
+participating in City Council meetings can do so in a manner that they feel most comfortable. Individuals
+could participate by:
+
+      1. Listening through the Draper City Website: https://www.draper.ut.us/95/Agendas-Minutes
+      2. Emailing comments to public.comment@draper.ut.us by 5 p.m. on the day of the meeting.
+         These will become part of the public record.
+      3. Requesting the Zoom Meeting ID from public.comment@draper.ut.us by noon, April 7, 2020, to
+         be able to speak during the Public Hearing portions of the meeting.
+Study Meeting
+
+1.0      Closed Session: By Motion
+         The Draper City Council may temporarily recess the regular meeting and convene in a
+         closed session to discuss the character, professional competence or physical or mental
+         health of an individual, pending or reasonably imminent litigation, or the purchase,
+         exchange, or lease of real property, as provided by UCA 52-4-205.
+
+1.1      Councilmember Fred Lowry moved to enter into a Closed Session to discuss the
+         above-stated issues. Councilmember Mike Green seconded the motion.
+
+1.2      A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+         Vawdrey, voting in favor. The motion passed unanimously.
+
+**       The Council convened in a Closed Session.
+2.0   Update: Capital Improvement Projects and Trail Plan – Rhett Ogden
+
+2.1   Rhett Ogden, Parks and Recreation Director, provided an update on the status of the Capital
+      Improvement Projects. He reported that staff had been planning for a new playground at
+      Draper Park, which was the largest and most-utilized park in the City. The City had been
+      saving for this project for the past couple of years. The existing equipment was about 15
+      years old and would be replaced as part of this project. The City would start accepting
+      proposals in the fall so that by next Spring the new playground could be installed.
+
+      Mr. Ogden also reported that staff would be doing crack and slurry seal work on Porter
+      Rockwell and the Canal Trail, as well as several parking lots throughout the City. He
+      presented several photos of the East Jordan Canal and Corner Canyon Creek trail projects,
+      noting that the entire project should be done this summer except a small section between
+      Carlquist and Golden Pheasant. Bank work was needed along the canal, and the staff had
+      to wait until after October 15th when the canal was not full of water. He noted that they
+      would be starting work along Corner Canyon Creek later in the week. In response to a
+      question from Mayor Walker, Mr. Ogden stated that there currently was no funding
+      available for Phase 2 of the project.
+
+      Mr. Ogden reported that Peak View Trailhead should be completed by late summer. There
+      would be 57 new stalls, picnic shelters, and a restroom at the trailhead once completed. He
+      then discussed the trail connection from the dog park at Galena Park to the Jordan River
+      Parkway, reporting that the project was moving along and should be completed sometime
+      that month. The All-Abilities Playground was currently on hold due to funding issues from
+      the County. It was anticipated that the Jordan River Boat Launch portion of the park would
+      be installed later this summer/early fall. Mr. Ogden noted that the staff was working with
+      Lehi City on a connection of the Bonneville Shoreline Trail.
+
+      Mr. Ogden stated that the Parks, Trails, and Recreation Master Plan was currently on hold.
+      They were planning to have the kick-off meeting at the end of March, however, it got put
+      on the backburner due to COVID-19. He explained that one focus was to reduce user
+      conflict between cyclists and hikers along the trails. He presented a graph showing that 10
+      percent (approximately nine miles worth) of Draper’s trails were footpaths only; the
+      majority of trails were multi-use. He then reviewed a list of new trails and parking lots that
+      were recently completed, including resources added on the Utah County side in Lehi. He
+      presented several options to where new parking lots could be added.
+
+2.2   Mayor Walker asked Councilmembers if they had any questions for Mr. Ogden. The
+      question was asked as to what staff needed from the Council to start Phase 2 of the Corner
+      Canyon Creek project, to which Mr. Ogden indicated this phase was currently unfunded.
+      He continued that Phase 2 included the area behind the Bellevue neighborhood where the
+      trail easement encroached into private residential properties.
+
+      Councilmember Marsha Vawdrey said she was not in favor of continuing with this project.
+      She did not agree with putting a paved trail across someone else’s property, even though
+
+
+
+                                           Page 2 of 7
+      there was an easement in that area. Mayor Walker noted that paved trails had been placed
+      on easements in the past.
+
+      Councilmember Marsha Vawdrey remarked that it was imperative the City focus on hiking
+      trails at this time; she appreciated that staff was heading in this direction. Councilmember
+      Tasha Lowery agreed with Councilmember Vawdrey, adding that there was a real need for
+      these trails. As a City, they had done a great deal to support the mountain biking
+      community. Councilmember Green also agreed that a balance was needed.
+
+      Councilmember Roberts asked if it would be possible to create something similar to Lupine
+      Loop, which was accessible to families, at the mouth of Corner Canyon. Mr. Ogden
+      indicated that there were several options they could explore on this matter.
+
+3.0   Report: Lone Peak Parkway Construction Update – Scott Cooley
+
+3.1   Scott Cooley, Public Works and Engineering Director, explained that the City’s
+      negotiations with the Lone Peak Center had not been fruitful. They approached the Council
+      under the threat of condemnation and presented their case with the claim that they had $2
+      million to $5 million in damages, should the City proceed with the original design. Staff
+      had since come up with a modification that needed to be presented to the Council. Mr.
+      Cooley presented an aerial map and concept drawings, explaining that the City had all of
+      the rights-of-way that were needed. He explained that a section along the Lone Peak Center
+      had been widened to the west, but the east could not be widened without impacting the
+      Center. Staff proposed to modify the design to address southbound traffic, which was
+      primarily an issue with the school. He further discussed the aerial map shown during the
+      presentation, explaining that they would not need to touch the curb and gutter on the east
+      side. Mr. Cooley noted that there had been slowdowns going northbound as well, and part
+      of this was due to signals. Therefore, the staff was proposing modifications to an adjacent
+      section. He reviewed other improvements that could be made to improve traffic flow along
+      Lone Peak Parkway.
+
+3.2   David Dobbins, City Manager stated that the staff had a phone call with an adjacent
+      property owner today. They indicated they would be willing to dedicate the property
+      needed by the City. Additionally, they would like to purchase a portion of the property
+      and develop approximately 60 units per acre of multi-family housing, as a trade-off for the
+      right-of-way.
+
+      Councilmember Fred Lowry said they did not know what the future traffic would be like.
+      He stated that Mr. Cooley had presented a good solution that would at least alleviate
+      pressure on the school.
+
+      Councilmember Tasha Lowery agreed with both Mr. Cooley and Councilmember Lowry.
+      She did not want to be held hostage by a developer. Councilmembers Vawdrey, Green,
+      and Roberts also concurred.
+
+4.0   Council/Manager Reports
+
+                                          Page 3 of 7
+4.1   Councilmember Vawdrey asked about a pocket park on Willow Springs Lane, noting that
+      it had a water issue on one of the sidewalks. The puddle was an issue a couple of years
+      ago and was fixed, but the problem was present again.
+
+4.2   Mr. Ogden indicated he was not aware the issue had become a problem again. He said
+      staff would address the matter.
+
+4.3   Councilmember Fred Lowry briefly discussed the Canyons Education Foundation, which
+      was part of the Canyon School District. Typically, each year they had a fundraiser that the
+      City helped support. However, due to COVID-19, they had to cancel their annual gala.
+      Instead of the gala, they would be holding a golf tournament and as such, they were looking
+      for sponsors. Councilmember Lowry asked if the City could help sponsor the event
+      because in the past the City had always purchased a table for the gala. The Council voiced
+      support for this idea.
+
+4.4   Mayor Walker stated that he would like to form a Cultural Advisory Board, and he had
+      various ideas of what he would like it to accomplish. The goal of the board would be to
+      address hot social topics at this time. He would like the board to also be actively engaged
+      in speaking events throughout the year, as well as an annual celebration. The Council
+      voiced support for this idea.
+
+
+Business Meeting
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+      a. Determination 2020-01, pursuant to Utah Code Annotated 52-4-207(4)
+
+1.1   I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the
+      Draper City Council with an anchor location presents a substantial risk to the health and
+      safety of those who may be present at the anchor location and hereby authorize the Draper
+      City Council to conduct electronic meetings without an anchor location.
+
+      The foregoing determination is based on the following facts:
+         • Federal, State, and local leaders, including the Draper City Mayor and City Council,
+             have all recognized a global pandemic caused by the spread of the COVID-19 virus.
+         • COVID-19 cases in Salt Lake County and Draper continue to increase at rates
+             which pose a risk of overburdening the local health care system.
+         • It is difficult, if not impossible, to predict the number of attendees at any meeting
+             and to manage issues regarding social distancing in order to comply with State
+             Phased Guidelines.
+         • COVID-19 poses a continuing and immediate threat to the health, safety, and
+             welfare of Draper City residents.
+
+
+
+                                         Page 4 of 7
+         •   The City has the technological capability to provide means by which the public may
+             hear, or view and hear, the open portions of the meeting and to participate in public
+             hearings.
+
+      The original of this written determination is on file in the City Recorder’s Office.
+
+2.0   Consent Items
+      a. Approval of the June 16, 2020, City Council Meeting Minutes
+      b. Approval of Agreement #20-98, with Gold Cross Services for Ambulance Services
+      c. Approval of Agreement #20-35, Assessment-in-Lieu for Silverlou Subdivision, for
+         the public frontage improvements on Fort Street for the Silverlou Subdivision,
+         per Draper City Municipal Code 9-27-110 (C)
+      d. Approval of Resolution #20-35, re-appointing a regular member of the Youth
+         Council Advisory Board
+      e. Approval of Resolution #20-36, appointing a regular member of the Draper City
+         Planning Commission
+      f. Approval of Resolution #20-37, appointing an alternate member to the Draper
+         Planning Commission.
+      g. Approval of Resolution #20-38, appointing members to the Draper City Building
+         Board of Appeals
+
+2.1   Councilmember Green moved to approve the Consent Items.                    Councilmember
+      Vawdrey seconded the motion.
+
+2.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+3.0   Public Hearing: Holmes Homes Office Land Use Amendment and Zoning Map
+      Amendment Request (Legislative Action)
+
+**    On the request of the applicant, this item was continued to the July 21, 2020, City Council
+      Meeting.
+
+3.1   Mayor Walker opened the public hearing. No one came forward, so Mayor Walker
+      closed the public hearing.
+
+3.3   Councilmember Green moved to approve to continue this item to the July 21, 2020,
+      City Council Meeting. Councilmember Fred Lowry seconded the motion.
+
+3.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+4.0   Public Hearing: Resolution # 20-33, surplus of property along 12100 South. Surplus
+      of property formally a public right-of-way along a portion of 12100 South
+
+
+
+
+                                          Page 5 of 7
+4.1   Scott Cooley, Public Works Director, presented the staff report as well as an aerial map of
+      the subject property. He explained that the area in question was rezoned on October 2,
+      2018. Since then, there had been other applications received, including one for a
+      subdivision that was submitted in June 2019. The vacation of the right-of-way was
+      approved by the City Council on January 14, 2020. This property was situated west of 700
+      East, as part of the 12100 South right-of-way. Since this property was in the Draperville
+      Plat area, it did not just automatically go to the adjacent property owners, as would be the
+      case in a normal vacation of the property. The property would need to be surplused and
+      sold. This resolution would allow plenty of width if the City ever wanted to extend the
+      roadway.
+
+4.2   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+4.3   Councilmember Vawdrey moved to continue this item to a date uncertain.
+      Councilmember Tasha Lowery seconded the motion.
+
+4.5   Councilmember Vawdrey stated that they needed to study the full impacts this action would
+      have on the broader area. Councilmember Fred Lowry asked if the easement continued to
+      flow east and west of the subject area. Mr. Cooley identified the right-of-way on the aerial
+      map, as well as the area that had been vacated. There was further discussion on the matter.
+
+4.6   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion moved to continue unanimously.
+
+5.0   Action Item: Ordinance #1444, amending Draper City Municipal Code pertaining to
+      the discharge of fireworks
+
+5.1   Chief Clint Smith said the staff was proposing a small change to the City’s fireworks
+      restrictions map. He presented an aerial map of the City and pointed out a small area
+      centered around Draper Parkway from the Trax line east to 1300 East. Anything included
+      north of the Trax line would be included in the restricted areas shown on the map. This
+      would create a contiguous restricted area, including the Draper Wetlands area as well as
+      dry, open hillsides.
+
+5.2   Councilmember Fred Lowry thanked Chief Smith for identifying these hazardous areas,
+      and he asked if there were any others of which they should be aware. Chief Smith said
+      many of the other problem areas were in and around undeveloped land. He also explained
+      that the main focus was on protecting the urban interface area.
+
+      Mayor Walker stated that the City could not completely ban fireworks in the City; they
+      could only identify those at-risk areas. Chief Smith concurred.
+
+      Councilmember Green expressed appreciation for the fire department. Chief Smith noted
+      they had tried to be proactive about communicating safety tips to the public. He briefly
+
+
+
+                                          Page 6 of 7
+      discussed several fire incidents that had occurred during the 4th of July weekend and
+      compared this year’s statistics to those from last year.
+
+5.3   Councilmember Fred Lowry moved to approve Ordinance #1444, amending Draper
+      City Municipal Code. Councilmember Tasha Lowery seconded the motion.
+
+5.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Adjournment
+
+6.1   Councilmember Tasha Lowery moved to adjourn the meeting. Councilmember
+      Vawdrey seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.3   The meeting adjourned at 7:50 p.m.
+
+
+
+
+                                       Page 7 of 7
+

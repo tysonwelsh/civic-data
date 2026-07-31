@@ -1,0 +1,225 @@
+{
+ "contributions": [
+  {
+   "date": "06/17/2023",
+   "name": "Mike Carpenter",
+   "amount": "20.00",
+   "in_kind": false
+  },
+  {
+   "date": "06/19/2023",
+   "name": "Mikelle Smiley",
+   "amount": "40.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/13/2023",
+   "name": "Roman Allen",
+   "amount": "30.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/20/2023",
+   "name": "Elaine Carter",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/21/2023",
+   "name": "Lynn & Laura Christensen",
+   "amount": "500.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/01/2023",
+   "name": "Crystal Arbuckle",
+   "amount": "50.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/03/2023",
+   "name": "MaryAnne Fry",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/01/2023",
+   "name": "Betty & Marc Mortensen (refunded venmo)",
+   "amount": "1000.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/02/2023",
+   "name": "Sonya Pupunu",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/04/2023",
+   "name": "Claire Skillin-Gassman",
+   "amount": "19.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/02/2023",
+   "name": "Shari Hanson",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/01/2023",
+   "name": "Becky Mortensen",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/01/2023",
+   "name": "Curtis Fry (refunded venmo)",
+   "amount": "3000.00",
+   "in_kind": false
+  },
+  {
+   "date": "08/03/2023",
+   "name": "Betty Mortensen",
+   "amount": "1000.00",
+   "in_kind": false
+  },
+  {
+   "date": "07/28/2023",
+   "name": "Nancy Schulze",
+   "amount": "100.00",
+   "in_kind": false
+  },
+  {
+   "date": "06/19/2023",
+   "name": "Roman Allen",
+   "amount": "200.00",
+   "in_kind": true
+  },
+  {
+   "date": "08/18/2023",
+   "name": "Steph Whyte",
+   "amount": null,
+   "in_kind": true
+  },
+  {
+   "date": "06/19/2023",
+   "name": "Mikelle Smiley",
+   "amount": "45.00",
+   "in_kind": true
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "06/16/2023",
+   "recipient": "City of Orem",
+   "purpose": "Candidacy Filing Fee",
+   "amount": "75.00"
+  },
+  {
+   "date": "06/09/2023",
+   "recipient": "Dollar Tree",
+   "purpose": "parade stuff",
+   "amount": "36.20"
+  },
+  {
+   "date": "06/10/2023",
+   "recipient": "Walmart",
+   "purpose": "parade event fee candy",
+   "amount": "23.83"
+  },
+  {
+   "date": "06/09/2023",
+   "recipient": "Zurchers",
+   "purpose": "Helium Tank rental",
+   "amount": "69.98"
+  },
+  {
+   "date": "06/22/2023",
+   "recipient": "Fed Ex",
+   "purpose": "copies",
+   "amount": "37.00"
+  },
+  {
+   "date": "08/02/2023",
+   "recipient": "Utah County Elections",
+   "purpose": "Voter Lists",
+   "amount": "75.00"
+  },
+  {
+   "date": "08/09/2023",
+   "recipient": "JoAnn Fabrics",
+   "purpose": "vinyl for stickers",
+   "amount": "57.90"
+  },
+  {
+   "date": "08/10/2023",
+   "recipient": "Fed Ex",
+   "purpose": "copies",
+   "amount": "37.00"
+  },
+  {
+   "date": "08/16/2023",
+   "recipient": "Fed Ex",
+   "purpose": "copies",
+   "amount": "37.00"
+  },
+  {
+   "date": "10/01/2023",
+   "recipient": "Stand for Orem",
+   "purpose": "Donation",
+   "amount": "500.00"
+  },
+  {
+   "date": null,
+   "recipient": "Nancy Schulze",
+   "purpose": "refunded donation",
+   "amount": "100.00"
+  },
+  {
+   "date": null,
+   "recipient": "Roman Allen",
+   "purpose": "refunded donation",
+   "amount": "30.00"
+  },
+  {
+   "date": null,
+   "recipient": "Mikelle Smiley",
+   "purpose": "refunded donation",
+   "amount": "40.00"
+  },
+  {
+   "date": null,
+   "recipient": "Sonya Pupunu",
+   "purpose": "refunded donation",
+   "amount": "100.00"
+  },
+  {
+   "date": null,
+   "recipient": "Shari Hanson",
+   "purpose": "refunded donation",
+   "amount": "100.00"
+  },
+  {
+   "date": null,
+   "recipient": "Becky Mortensen",
+   "purpose": "refunded donation",
+   "amount": "100.00"
+  },
+  {
+   "date": null,
+   "recipient": "Betty Mortensen",
+   "purpose": "refunded donation",
+   "amount": "800.00"
+  },
+  {
+   "date": null,
+   "recipient": "MaryAnne Fry",
+   "purpose": "refunded donation",
+   "amount": "50.00"
+  }
+ ],
+ "total_contributions": "2150.00",
+ "total_in_kind_contributions": "245.00",
+ "total_expenditures": "2363.60"
+}

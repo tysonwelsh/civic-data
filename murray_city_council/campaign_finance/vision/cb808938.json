@@ -1,0 +1,32 @@
+{
+  "contributions": [
+    {"date": "7/25", "name": "Carole Wood / Darrell Hensleigh", "amount": "100", "in_kind": false},
+    {"date": "6/25", "name": "Nancy Lambardo", "amount": "150", "in_kind": false},
+    {"date": "7/25", "name": "S. L. Board of Realtors", "amount": "3000", "in_kind": false},
+    {"date": "7/25", "name": "Roland and Janet Lopez", "amount": "100", "in_kind": false},
+    {"date": "6/2025", "name": "Gail J. Ellison", "amount": "50", "in_kind": false},
+    {"date": "7/2025", "name": "Ellen Birrell", "amount": "100", "in_kind": false},
+    {"date": "7/2025", "name": "Adam Hock", "amount": "50", "in_kind": false},
+    {"date": "10/2025", "name": "Charles Turner (Personal Loan)", "amount": "500", "in_kind": false},
+    {"date": "8/28/25", "name": "Error Expenditure to Blanca Florez (see Expense)", "amount": "125", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Payback Loan from Charles Turner", "purpose": null, "amount": "500", "in_kind": false},
+    {"date": null, "recipient": "Ellen Burrell Campaign", "purpose": null, "amount": "200", "in_kind": false},
+    {"date": null, "recipient": "Blanca Florez (Made in Error – Refunded Account Immediately)", "purpose": null, "amount": "125", "in_kind": false}
+  ],
+  "total_contributions": "4175.00",
+  "total_expenditures": "825",
+  "contributions_50_or_less": null,
+  "beginning_balance": "14.64",
+  "ending_balance": "3364.64",
+  "_meta": {
+    "index_path": "raw/202510_Diane-Turner_17219.pdf",
+    "candidate": "Diane Turner",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202510_Diane-Turner_17219.pdf",
+    "pages": 5
+  }
+}

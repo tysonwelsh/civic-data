@@ -1,0 +1,357 @@
+{
+ "date": "2025-12-04",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2025/2025-12-01/2025-12-04_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Gregory Jackson",
+  "Brent Everett",
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Ken Roberts"
+ ],
+ "members_absent": [
+  "Emily Lockhart",
+  "Beau Jones"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Review and acceptance of the Planning Commission meeting schedule for 2026",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Commissioner Everett moved to approve the minutes with the clarifying                 addition. Commissioner Eyre seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Brent Everett",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public Hearing and consideration of Boyd Stewart Plat A, a Plat Amendment of the Steward Subdivision located at 406 West 600 North.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Ken Roberts",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and consideration of the Final Spur Ranch concept plan, a 14-lot residential development located at 2424 West 900 North.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "deny",
+   "result": "4:1 Denied (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson"
+   ],
+   "nay": [
+    "Nicole Kunze"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public hearing and consideration of Richard Thurman’s request for preliminary subdivision approval of Epiphany Point, a 3-lot residential development located at 913 and 939 East Cedar Hollow Road.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 6,
+   "motion": "Public Hearing and recommendation of Stack’s request for review of the Thanksgiving Station Development Agreement, located on approximately 26 acres in the Thanksgiving Point area.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation FAILED 1:4",
+   "mover": "Brent Everett",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett"
+   ],
+   "nay": [
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Fail",
+   "printed_tally": [
+    1,
+    4
+   ]
+  },
+  {
+   "motion_no": 7,
+   "motion": "Public Hearing and recommendation of Stack’s request for review of the Thanksgiving Station Development Agreement, located on approximately 26 acres in the Thanksgiving Point area.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation FAILED",
+   "mover": "Brent Everett",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "outcome": "Fail",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 8,
+   "motion": "Public Hearing and recommendation of Stack’s request for review of the Thanksgiving Station Development Agreement, located on approximately 26 acres in the Thanksgiving Point area.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 3:2",
+   "mover": "Gregory Jackson",
+   "seconder": "Nicole Kunze",
+   "aye": [
+    "Ken Roberts",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Brent Everett",
+    "Tyson Eyre"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    3,
+    2
+   ]
+  },
+  {
+   "motion_no": 9,
+   "motion": "Commissioner Eyre moved to take a five minute recess. Commissioner                 Roberts seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "5:0 Pass",
+   "mover": "Tyson Eyre",
+   "seconder": "Ken Roberts",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 10,
+   "motion": "Public hearing and consideration of Stack’s request for review of the Stack Soccer Field Property Development Agreement, located on 3.64 acres at 3197 North Ashton Boulevard.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "5:0 Pass",
+   "mover": "Tyson Eyre",
+   "seconder": "Nicole Kunze",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 11,
+   "motion": "Public hearing and consideration of Stack’s request for review of the Stack Soccer Field Property Development Agreement, located on 3.64 acres at 3197 North Ashton Boulevard.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "negative",
+   "result": "Negative recommendation FAILED 2:3",
+   "mover": "Tyson Eyre",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Tyson Eyre"
+   ],
+   "nay": [
+    "Ken Roberts",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Fail",
+   "printed_tally": [
+    2,
+    3
+   ]
+  },
+  {
+   "motion_no": 12,
+   "motion": "Public hearing and consideration of Stack’s request for review of the Stack Soccer Field Property Development Agreement, located on 3.64 acres at 3197 North Ashton Boulevard.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 3:2",
+   "mover": "Nicole Kunze",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Ken Roberts",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Brent Everett",
+    "Tyson Eyre"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 13,
+   "motion": "Public hearing and recommendation of Lehi City’s request for review of the Water Use and Preservation Element of the General Plan.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Brent Everett",
+   "seconder": "Nicole Kunze",
+   "aye": [
+    "Brent Everett",
+    "Ken Roberts",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

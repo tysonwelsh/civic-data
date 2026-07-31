@@ -1,0 +1,160 @@
+{
+ "date": "2026-01-28",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Adrianne Ramirez",
+  "Harold Woodruff",
+  "Mathew Lovato",
+  "Nancy Drozdek",
+  "Rob Durfee"
+ ],
+ "source": "minutes/2026/2026-01-26/2026-01-28_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Z-10-2026 subject to the Development Agreement with the addition that the City would not issue a building permit for a home on the new lot until the unpermitted structures are either removed or permitted and completed",
+   "body": "PlanningCommission",
+   "motion_type": "Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:0",
+   "result_source": "UNANIMOUS—Z-10-2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Harold Woodruff",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—Z-10-2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve ZT-7-2025",
+   "body": "PlanningCommission",
+   "motion_type": "Zone Text Amendment",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:0",
+   "result_source": "UNANIMOUS-ZT—7--2025—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Harold Woodruff",
+   "seconder": "Rob Durfee",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS-ZT—7--2025—APPROVED"
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve C-1-2026 subject to the 10 conditions in the Staff Report, modifying number 9 to replace the entry signs with two light boxes shown in the plans",
+   "body": "PlanningCommission",
+   "motion_type": "Conditional Use",
+   "action_category": "final",
+   "result": "5:0 Approved (Final Action)",
+   "result_source": "UNANIMOUS—C-1-2026—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Harold Woodruff",
+   "seconder": "Pauline Matagi",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "UNANIMOUS—C-1-2026—APPROVED"
+   }
+  },
+  {
+   "motion_no": 4,
+   "motion": "to deny GPZ-1-2026 based on the lack of proper roadways and public transportation",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan & Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 2:4",
+   "result_source": "MIXED—GPZ-1-2026—FAILED",
+   "outcome_word": "failed",
+   "mover": "Harold Woodruff",
+   "seconder": "Pauline Matagi",
+   "names_recorded": true,
+   "aye": [
+    "Harold Woodruff",
+    "Pauline Matagi"
+   ],
+   "nay": [
+    "Adrianne Ramirez",
+    "Mathew Lovato",
+    "Nancy Drozdek",
+    "Rob Durfee"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 5,
+   "motion": "to approve GPZ-1-2026 with several conditions, including no commercial use, moving the pickleball courts north, blocking access between the rental and for-sale units, adding buffering landscaping between the townhomes and single family homes, removing the school walkway, and converting half of the rental townhomes to for-sale units",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan & Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 5:1",
+   "result_source": "MIXED—GPZ-1-2026—APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": true,
+   "aye": [
+    "Adrianne Ramirez",
+    "Mathew Lovato",
+    "Nancy Drozdek",
+    "Pauline Matagi",
+    "Rob Durfee"
+   ],
+   "nay": [
+    "Harold Woodruff"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 6,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "5:0 Pass",
+   "result_source": "all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Pauline Matagi",
+   "seconder": "Adrianne Ramirez",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 5,
+    "nays": 0,
+    "source": "all members voted in favor of the motion."
+   }
+  }
+ ]
+}

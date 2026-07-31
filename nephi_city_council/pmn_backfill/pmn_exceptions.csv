@@ -1,0 +1,8 @@
+date,body_id,kind,reason,verified_date
+2024-04-16,1869,duplicate,"file 'CM 4-16-24.docx' is City Council minutes already in meeting_minutes (2024-04-16); PMN filed the council minutes under PC body 1869 (cross-filing false positive)",2026-07-17
+2022-03-09,1788,duplicate,"title 'Planning Commission Meeting' — PC minutes for 2022-03-09 already in repo planning_commission dataset; PMN filed the PC notice under council body 1788 (cross-filing false positive)",2026-07-17
+2023-02-14,1788,other,"'NO WORK SESSION 2-14-23' is a meeting-cancellation notice, not a meeting",2026-07-17
+2024-01-24,1788,other,"'Nephi Airport Advisory Committee Meeting' — foreign advisory body riding the council body list; not a council/PC meeting (out of scope)",2026-07-17
+2024-07-10,1869,other,"notice description reads 'PLANNING COMMISSION MEETING CANCELLED 7/10/2024 7:00 P.M.' — cancellation; cancel word is in the description not the title so the engine's title-only RE_CANCEL missed it (hardening candidate)",2026-07-19
+2025-07-09,1869,other,"notice description reads 'The regularly scheduled Planning Commission is hereby cancelled for the 7/9/2025 7:00 P.M. meeting' — cancellation; cancel word in description not title (hardening candidate)",2026-07-19
+2020-12-09,1788,duplicate,"'Nephi Planning Commission Agenda' cross-filed under council body 1788 — Dec 9 2020 is a Wednesday PC day, not a council meeting; the PC meeting itself (agenda only, no minutes anywhere) is logged in planning_commission/minutes_unrecovered.csv",2026-07-19

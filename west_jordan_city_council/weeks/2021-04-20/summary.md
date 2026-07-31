@@ -1,0 +1,10 @@
+# West Jordan council week ending 2021-04-20
+_Window 2021-04-14 – 2021-04-20_
+
+- **Meetings:** 1 — city council regular meeting
+- **Votes:** 7 motions
+- **Public comments:** 0
+
+## Files
+- `votes.csv` — 49 member-vote rows across 7 motions
+- [2021-04-14_city-council-regular-meeting.md](../../meeting_minutes/minutes/2021/2021-04-12/2021-04-14_city-council-regular-meeting.md)

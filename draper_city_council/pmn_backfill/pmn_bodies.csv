@@ -1,0 +1,10 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+114,5555,City Council,yes,meeting_minutes,,exact,2020-01-01,current council id; re-registered from 379; regular council + August Truth-in-Taxation specials live here
+114,379,City Council (defunct label),yes,meeting_minutes,,exact,2020-01-01,defunct 2013-2018 registration of the same council re-registered to 5555; all its minutes dates are pre-2020 (below floor)
+114,383,Planning Commission,yes,planning_commission,,exact,2020-01-01,PC minutes; exact-date diffing per draper's reliable-event-date finding (pm4 masks real gaps here)
+114,382,CRA formerly Redevelopment Agency,no,,,,,separate Granicus body NOT a core repo minutes dataset — inventory only (Granicus is the acquisition source); old RDA id renamed mid-2021
+114,7261,Community Reinvestment Agency (current),no,,,,,separate Granicus body NOT in repo — inventory only; current CRA id from 2021-11
+114,381,Municipal Building Authority,no,,,,,separate Granicus body NOT in repo — inventory only; PMN minutes stop 2023-01
+114,380,Historic Preservation Commission,no,,,,,separate Granicus body NOT in repo — inventory only
+114,6647,Zoning Administrator,no,,,,,separate body NOT in repo — inventory only; PMN inactive after 2023-07
+114,378,Board of Adjustments,no,,,,,0 minutes ever posted (5 notices) — out of scope

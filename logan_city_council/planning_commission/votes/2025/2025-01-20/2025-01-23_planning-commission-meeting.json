@@ -1,0 +1,115 @@
+{
+ "date": "2025-01-23",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-01-20/2025-01-23_planning-commission-meeting.md",
+ "present": [
+  "Sara Doutre",
+  "Ken Heare",
+  "Eldon Peterson",
+  "Sarah McNamara",
+  "David Lewis"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare made a motion to approve all items under the consent agenda. Commissioner Lewis seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Procedural/Administrative",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Ken Heare",
+   "seconder": "David Lewis",
+   "aye": [
+    "Sara Doutre",
+    "Jessica Lucero",
+    "Ken Heare",
+    "Eldon Peterson",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Heare made a motion to continue a Design Review Permit for PC 25-001 DworQ Office Building to the February 27\" meeting. Commissioner Doutre seconded the motion.",
+   "motion_type": "Procedural/Administrative",
+   "result": "4:1 Pass",
+   "kind": "procedural",
+   "mover": "Jessica Lucero",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "Eldon Peterson",
+    "Sarah McNamara"
+   ],
+   "nay": [
+    "David Lewis"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "4-1",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to conditionally approve a Conditional Use Permit for PC_25-004 The Bark Spot with the conditions of approval and findings for approval as listed below. Commissioner McNamara seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "David Lewis",
+    "Eldon Peterson",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 3
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Doutre made a motion to conditionally approve a Conditional Use Permit for PC 25-006 D’Arcy Echols & Co. INC with the conditions of approval and findings for approval as listed below. Commissioner Heare seconded the motion.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Sara Doutre",
+   "seconder": "Ken Heare",
+   "aye": [
+    "Sara Doutre",
+    "Ken Heare",
+    "David Lewis",
+    "Eldon Peterson",
+    "Sarah McNamara"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 4
+  }
+ ]
+}

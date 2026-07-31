@@ -1,0 +1,47 @@
+Emigration Canyon PLANNING COMMISSION — vote extraction validation
+============================================================
+
+Meetings (JSON)         : 60
+Meetings with >=1 motion: 56
+Motions                 : 141
+  named-dissent motions : 3
+  tally-only motions    : 138
+Contested motions       : 3
+
+CSV rows                : 141
+Expected (from JSON)    : 141   [OK]
+body != PlanningCommission : 0
+
+Motion-type distribution:
+    Procedural/Administrative    90
+    Land-Use/Recommendation      25
+    Appointment                  11
+    Other                        9
+    Public Hearing Action        5
+    Land-Use/Zoning              1
+
+Meetings per year:
+    2018: 1
+    2019: 4
+    2020: 6
+    2021: 3
+    2022: 7
+    2023: 10
+    2024: 12
+    2025: 12
+    2026: 5
+
+Distinct named participants (mover/seconder/voter):
+    Jim Karkut             75
+    Dale Berreth           54
+    Andrew Wallace         51
+    Tim Harpst             43
+    Jodi Geroux            30
+    Brent Tippets          4
+    Claire Clark           1
+    Robert Pinon           1
+
+Contested motions (3):
+    - 2019-11-14 m3 Pass (1 abstain)  nay=[] abstain=['Tim Harpst'] :: To approve minutes from the August 15, 2019 meeting as 
+    - 2022-11-17 m1 Pass (1 abstain)  nay=[] abstain=['Tim Harpst'] :: To approve the October 13, 2022 Planning Commission Mee
+    - 2026-06-11 m4 Pass (1 nay)  nay=['Andrew Wallace'] abstain=[] :: To recommend file #OAM2026-001638 Consideration of an o

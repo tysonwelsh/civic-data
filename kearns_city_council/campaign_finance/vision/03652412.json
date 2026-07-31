@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": "June 5th", "name": "Self", "amount": "50.00", "in_kind": false},
+    {"date": "July 14", "name": "self", "amount": "146.90", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "June 5th", "recipient": "SLCO Elections", "purpose": "Elections fee", "amount": "50.00", "in_kind": false},
+    {"date": "July 14", "recipient": "Vista Print", "purpose": "Signs and shirts", "amount": "146.90", "in_kind": false}
+  ],
+  "total_contributions": "196.90",
+  "total_expenditures": "196.90",
+  "total_contributions_ytd": null,
+  "total_expenditures_ytd": null,
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/chrystalbutterfield2019.pdf",
+    "candidate": "Chrystal Butterfield",
+    "office": "Metro Township Council District 3",
+    "filing_type": "interim",
+    "election_year": "2019",
+    "reporting_period": "Pre-primary interim (August)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/chrystalbutterfield2019.pdf",
+    "pages": 4
+  }
+}

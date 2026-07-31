@@ -1,0 +1,5 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+72,1601,Alta Town Council,yes,meeting_minutes,,pm4,2020-01-01,"data floor 2020 (Alta incorporated 1970 - normal floor); recovered council minutes from 2020-05-06; minutes attach to a later notice - match by filename meeting date, hence pm4"
+72,1602,Alta Planning Commission,yes,planning_commission,,pm4,2020-01-01,"PC + Land Use Authority, sparse as-needed (empty 2020-2021 proven by cancellation notices); a 2024-08-14 COUNCIL meeting was once mis-filed under this body - see exceptions"
+72,8621,Budget Committee,no,,,,,"fiscal subcommittee (= the /meetings/ 'Capital Committee' category); inventory-only, never built into a dataset - out of scope"
+72,1603,Town of Alta Land Use Appeal Authority,no,,,,,quasi-judicial appeal body; its lone minutes attachment duplicates the 2023-08-09 council meeting already in the repo - out of scope

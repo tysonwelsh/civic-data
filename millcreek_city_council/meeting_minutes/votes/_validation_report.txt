@@ -1,0 +1,107 @@
+Millcreek CITY COUNCIL + CRA — vote extraction validation
+============================================================
+
+Meetings (JSON)         : 374
+Meetings with >=1 vote  : 335
+Motions                 : 2272
+  named roll-calls      : 1012
+  tally-only            : 1260  (of which unanimous: 1256)
+Body split              : Council 2026 · CRA 246
+Contested motions       : 7
+Mayor-vote rows         : 940  (Millcreek's mayor is a voting member)
+Distinct members        : 7
+
+CSV rows                : 5932
+Expected (from JSON)    : 5932   [OK]
+body not in Council/CRA : 0
+
+Motion-type distribution:
+    Procedural/Administrative    837
+    Public Hearing Action        288
+    Ordinance                    270
+    Land-Use/Zoning              231
+    Resolution                   199
+    Other                        162
+    Interlocal                   102
+    Budget Amendment             56
+    Contract/Purchase            54
+    Appointment                  47
+    Ceremonial                   14
+    Grant-Funding                12
+
+>5-voter / 6th-voter flags : 0   (expected 0 — max seat = 5)
+
+Off-roster names        : 0
+
+Tally-vs-result mismatches (source typo or parse miss — roll call retained): 0
+
+OCR fuzzy-name match rate: 4286/4308 = 99.5%  (unresolved left BLANK, never guessed)
+  unresolved name tokens (count):
+    - 'present': 19
+    - 'LaMar': 2
+    - 'has': 1
+
+Per-year observed members (name: vote rows):
+  2017:
+      Bev Uipi             76
+      Jeff Silvestrini     76
+      Dwight Marchant      72
+      Cheri Jackson        69
+      Silvia Catten        69
+  2019:
+      Cheri Jackson        4
+      Dwight Marchant      4
+      Jeff Silvestrini     4
+      Silvia Catten        4
+  2020:
+      Cheri Jackson        5
+      Dwight Marchant      5
+      Silvia Catten        5
+      Bev Uipi             5
+      Jeff Silvestrini     5
+  2021:
+      Silvia Catten        6
+      Cheri Jackson        6
+      Dwight Marchant      6
+      Bev Uipi             5
+      Jeff Silvestrini     3
+  2022:
+      Bev Uipi             70
+      Cheri Jackson        70
+      Thom DeSirant        70
+      Jeff Silvestrini     59
+      Silvia Catten        53
+  2023:
+      Cheri Jackson        222
+      Jeff Silvestrini     222
+      Silvia Catten        207
+      Thom DeSirant        197
+      Bev Uipi             191
+  2024:
+      Cheri Jackson        230
+      Silvia Catten        221
+      Jeff Silvestrini     212
+      Thom DeSirant        196
+      Bev Uipi             195
+  2025:
+      Thom DeSirant        251
+      Bev Uipi             239
+      Cheri Jackson        235
+      Silvia Catten        216
+      Jeff Silvestrini     190
+      Nicole Handy         9
+  2026:
+      Bev Uipi             138
+      Cheri Jackson        138
+      Nicole Handy         138
+      Thom DeSirant        138
+      Silvia Catten        136
+
+Contested votes (7):
+    - 2020-02-24 [Council] m2 3-1 Pass  nay=['Bev Uipi'] abstain=['Jeff Silvestrini'] recuse=[]  :: to adopt Ordinance 20-07 as written but eliminate the second
+    - 2021-05-10 [Council] m6 3-2 Pass  nay=['Cheri Jackson', 'Dwight Marchant'] abstain=[] recuse=[]  :: to approve item 2.3, approving the interlocal cooperation ag
+    - 2023-08-14 [Council] m2 4-1 Pass  nay=['Silvia Catten'] abstain=[] recuse=[]  :: to approve item 2.1, Resolution 23-41, Authorizing and Appro
+    - 2024-04-22 [Council] m4 4-1 Pass  nay=['Cheri Jackson'] abstain=[] recuse=[]  :: to approve the existing firework restriction map with the mo
+    - 2024-05-13 [Council] m6 3-1 Pass  nay=['Thom DeSirant'] abstain=[] recuse=[]  :: to adopt Ordinance 24-23
+    - 2025-12-08 [Council] m8 4-0 Pass  nay=[] abstain=['Nicole Handy'] recuse=[]  :: to approve items 5.1, 5.2, 5.3, and 5.4 — Approval of Novemb
+    - 2026-04-13 [Council] m1 4-1 Pass  nay=['Silvia Catten'] abstain=[] recuse=[]  :: to approve Ordinance 26-14, Adding Title 10 Chapter 32 to th

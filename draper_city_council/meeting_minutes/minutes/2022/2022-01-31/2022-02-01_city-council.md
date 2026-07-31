@@ -1,0 +1,275 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=539&doc_id=d2fbc821-8f46-11ec-972b-0050569183fa
+> Meeting date: 2022-02-01
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, FEBRUARY 1, 2022,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:             Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha
+                     Lowery, Fred Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:
+
+STAFF PRESENT:       David Dobbins, City Manager; Mike Barker, City Attorney; Kellie
+                     Challburg, Chief of Staff; Scott Cooley, City Engineer; Todd Draper,
+                     Planner; John Eining, Police Chief; Jennifer Jastremsky, Planning
+                     Manager; Bret Millburn, Assistant City Manager; Rhett Ogden,
+                     Recreation Director; Laura Oscarson, City Recorder; Linda Peterson,
+                     Communications Director; Clint Smith, Fire Chief; Jake Sorensen, IT;
+                     and Bob Wylie, Finance Director
+
+______________________________________________________________________________________________
+
+Study Session
+
+1.0    Council/Manager Reports
+
+1.1    City Manager David Dobbins reported that he and the Mayor had met with someone
+       from the State Courts, as Judge Bertch would retire that year. He explained it was a
+       lengthy process to select a new judge, and briefly outlined the steps of the selection
+       process. He said that the City Council would have to approve the final
+       recommendation for the new judge. He anticipated that they would begin the
+       process in March of that year. It was discussed that a new judge might not have full
+       time work in Draper, and that there were judges in surrounding cities that serviced
+       multiple towns. It was mentioned that if Draper hired a full time judge, the judge
+       would not be allowed to do any other legal work, and if they had a part-time judge,
+       they could share the judge with another city that also only needed a part-time
+       judge.
+
+1.2    Mr. Dobbins said that he had been approached by Lime Scooters, who wanted to
+       know if Draper was interested in having scooters around the town. He recalled that
+       in the past, Lime had not complied with the terms of the agreement that had been
+       set forth between the company and the City. Mr. Dobbins said that there had been
+       issues in terms of enforcement, and asked the Council if they wanted to try working
+       with Lime again. The Councilmembers discussed that they did not see a huge
+       demand for the scooters, and remembered that when they had had scooters in
+       Draper in the past that there had been many complaints about them. The
+       Councilmembers felt that the scooters were a hassle that did not bring revenue into
+
+
+                                                                                   1|Page
+Draper City Council Approved Minutes – February 15, 2022
+      the City. Mr. Dobbins said that he would tell Lime that Draper was not interested in
+      adding scooters to the City.
+
+1.3   Councilmember Roberts reported that the Traverse Ridge Special Service District
+      Administrative Control Board (TRSSDACB) had held a meeting last night, and they
+      had determined a rate for the tax increase. Councilmember Roberts stated that the
+      Council should assist TRSSDACB with the process of changing the tax rate as much
+      as possible, and reported that the members of the TRSSDACB seemed to be in
+      better spirits than they had been in previous meetings. The Councilmembers
+      commented that the TRSSDACB was about to be entirely out of money. Mr. Dobbins
+      noted that in the past, the TRSSDACB had been very opposed to accept help from
+      the City Council, but that had now changed as their situation became more dire.
+      Councilmember Roberts suggested that the Council take over the administrative
+      control of the TRSSD, but have the TRSSDACB members stay on as an advisory
+      board that could act as a liaison between the residents and the Council.
+
+1.4   Mr. Dobbins spoke about issues with parking in the South Mountain area and noted
+      that it posed a safety issue as emergency access was limited. Fire Chief Clint Smith
+      said that the main issue with access was not enough off-street parking for
+      emergency vehicles to park when they responded to emergencies. He said that
+      “emergency access” referred to not only their ability to drive to the scene of an
+      accident, but also the ability to have safe operations while on the scene. He
+      elaborated that they needed to be able to easily access gurneys and other
+      equipment from the outside of the vehicles, and maneuver fire hoses around the
+      vehicles. He said that without proper clearance, it limited the Fire Department’s
+      ability to respond efficiently to an emergency.
+
+      Mr. Dobbins stated that the parking was on the opposite side of the street from the
+      fire hydrants, to allow for easier access.
+
+      Councilmember F. Lowry commented that he had heard from many people in that
+      part of the City that had complaints about the parking situation there, and the
+      Councilmembers discussed that there needed to be more enforcement of parking
+      violations in that area in order to mitigate issues.
+
+1.5   Councilmember Green asked if it would be feasible to cover the recycling center in
+      Draper in some way, and Mayor Walker clarified that he was talking about the
+      center where people could recycle their glass, cardboard, and other materials. The
+      Councilmembers briefly discussed that they could create some kind of enclosure
+      around the dumpsters so that it was not as unsightly.
+
+1.6   Councilmember Green also said that he wanted to make sure that residents who
+      already had an Accessory Dwelling Unit (ADU) could be grandfathered in, so that
+
+                                                                                2|Page
+Draper City Council Approved Minutes – February 15, 2022
+      they would not have to pay the new fees that were a part of the new ADU bill. Ms.
+      Jastremsky said that the residents would have to show proof that they had applied
+      for a conditional use permit for their ADU in the past, and said that the City should
+      have records of those permits as well, although they might be difficult to find
+      records that were decades old.
+
+1.7   Councilmember F. Lowry mentioned that they had set a date for the Renaissance
+      Faire that would be held at the Andy Ballard Arena, and decided on June 10th to
+      11th.
+
+1.8   Mayor Walker reported that he had been invited to sit in on a meeting of the Utah
+      State Legislature, and said that they had discussed the land use authority. He
+      discussed some of the highlights of the meeting, and said that they wanted to figure
+      out how they could increase affordable housing in cities in Utah. He added that he
+      felt that Utah set the gold standard in planning infrastructure around
+      transportation. He recalled it was a nice meeting, and felt everyone had been very
+      productive and kind.
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+2.0   Thought/Prayer and Pledge of Allegiance
+
+2.1   Rhett Ogden, Parks and Recreation Director offered the prayer. Police Lieutenant
+      Dave Harris led the Pledge of Allegiance.
+
+3.0   Public Comments
+
+3.1   Todd Shoemaker told a story of a couple, John and Mary Smith, of Carson City
+      Nevada. He said that they lived close by a prison which had closed, and now the
+      prison offered a two-hour tour of the grounds. He stated that John and Mary Smith
+      had taken a tour of old prisons around the United States, and outlined their trip and
+      the states that they visited. He reported that they had been thankful that state
+      officials had not closed the prisons, and allowed them to be viewed by the public.
+      Mr. Shoemaker then stated that the couple had discovered that in Utah, there were
+      no prisons that could be viewed, and in Draper, the prison had been demolished
+      instead of being preserved. He commented that John and Mary Smith thought this
+      was a great shame, and thought that the Draper prison should have been
+      preserved.
+
+4.0   Consent Items
+
+      a.     Approval of January 11, 2022, and January 18, 2022, City Council Meeting
+             Minutes.
+
+                                                                                  3|Page
+Draper City Council Approved Minutes – February 15, 2022
+      b.     Approval of Resolution #22-05, a Resolution appointing Katie Blankenagel as
+             a member of the Draper City Historic Preservation Commission.
+
+      c.     Approval of Resolution #22-07, a Resolution authorizing the Mayor of the City
+             of Draper to appoint Malena Murray as Human Resources Director for
+             Draper.
+
+4.1   Councilmember T. Lowery moved to approve the Consent Items. Councilmember
+      F. Lowry seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Action Item: Resolution #22-06, a Resolution of the Draper City Council approving a
+      non-exclusive license agreement between Draper City and Google Fiber Utah, LLC
+      for the installation of network facilities in the public right-of- way.
+
+5.1   Mr. Dobbins explained that the Council had been asked to give permits to Google
+      Fiber that would allow them to install fiber optic cables throughout the City. He
+      clarified that this would be separate from a contract or an agreement, and then
+      introduced Jacob Brace with Google Fiber.
+
+5.2   Mr. Brace, with Google Fiber, spoke and said that he was excited for the options that
+      Google Fiber would bring to Draper. He felt it was an exciting investment for higher
+      education, small businesses, and remote work opportunities for Draper residents.
+
+      Councilmember T. Lowery asked about the timeline, and Mr. Brace said that they
+      first needed a license agreement before they could start on a design process. He
+      said that he hoped to have their plans presented to the City Staff by the spring, with
+      construction beginning shortly thereafter.
+
+      Councilmember Roberts asked what the challenges were in getting fiber optics up to
+      SunCrest. Mr. Brace replied that there were geological issues, and said that the
+      Google engineers would need to make a preliminary design to see what could be
+      done in that area.
+
+      Councilmember T. Lowery reported that she had heard a lot of support from Draper
+      residents about Google Fiber. Mr. Dobbins also clarified that this would be done at
+      no cost to the City, and Google would cover the cost of installation.
+
+      Councilmember T. Lowery asked if there would be any disruption to the roads, and
+      Mr. Brace replied that there would be road closures, but the team worked quickly
+      and the roads would not be closed for long. He added that they would work with
+      the City Engineer to ensure that the roads would be fully restored, and there would
+      be no permanent damage to the streets.
+
+                                                                                 4|Page
+Draper City Council Approved Minutes – February 15, 2022
+      Mr. Brace explained that the entire City would not go online at the same time, but it
+      would be a gradual process that went by neighborhood. He said that the rollout
+      would go in sections, as the cables were installed. He said that it would be a
+      contiguous build coming out of Sandy, and added that they were still building in
+      Sandy.
+
+5.3   Councilmember F. Lowry moved to approve Resolution #22-06. Councilmember
+      Roberts seconded the motion.
+
+5.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Public Hearing: Ordinance #1524, (Legislative Item), an Ordinance amending the
+      official zoning map of Draper City for approximately 0.648 acres of property from A5
+      (Agricultural, 5- acre minimum lot size) to RA2 (Residential Agricultural, 20,000
+      square foot minimum lot size), located at approximately 1641 East Costanza Way
+      within Draper City, otherwise known as the McClure Rezone Zoning Map
+      Amendment.
+
+6.1   Planner, Todd Draper gave a brief overview of the parcel of land in question, and
+      indicated where it was located in the City. He explained that the applicants wished
+      to change the zone of the property. He stated that the Planning Commission had
+      reviewed this issue, and recommended unanimous approval of the rezone. Mr.
+      Draper also shared some site photos.
+
+6.2   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+6.3   Councilmember Green moved to approve Ordinance #1524. Councilmember
+      Vawdrey seconded the motion.
+
+6.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Ordinance #1525 (Legislative Action), an Ordinance amending the
+      official Zoning Map of Draper City for approximately 1.43 acres of property from
+      RA2 (Residential Agricultural, 20,000 square foot lot minimum) to R4 (Single Family
+      Residential, 10,000 square foot lot minimum), located approximately at 1595 East
+      12700 South within Draper City, otherwise known as the Reynolds Home Zoning
+      Map Amendment.
+
+7.1   Ms. Jastremsky gave an overview of the rezone request, and shared a map that
+      showed the location of the properties in question. She stated that the property
+      owners had done a boundary adjustment last year to match the historical
+
+                                                                                5|Page
+Draper City Council Approved Minutes – February 15, 2022
+      boundaries of the lots, but the adjustment had made the lots smaller than the
+      minimum lot size allowed in the RA2 zone. She explained that the property owners
+      wanted to rezone the lots to a zone that would allow a smaller lot size, so that they
+      would be in accordance with the City Code.
+
+7.2   Corianne Reynolds introduced herself as the daughter of one of the applicants, and
+      said that her parents had lived in Draper for 37 years and loved the community.
+      She said that her parents wanted to be able to build a smaller home on the lot for
+      them to retire in, and that was part of the reasoning to make the lot sizes smaller.
+
+7.3   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+7.4   Councilmember Green moved to approve Ordinance #1525. Councilmember
+      Roberts seconded the motion.
+
+7.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Adjournment
+
+8.1   Councilmember Green moved to adjourn the meeting.
+
+8.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.3   The meeting adjourned at 7:49 p.m.
+
+
+
+
+                                                                                 6|Page
+Draper City Council Approved Minutes – February 15, 2022
+

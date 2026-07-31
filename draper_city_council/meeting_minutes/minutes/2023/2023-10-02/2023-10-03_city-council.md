@@ -1,0 +1,126 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1046&doc_id=b4cef426-6de0-11ee-b4aa-0050569183fa
+> Meeting date: 2023-10-03
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, OCTOBER 3, 2023,
+IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:       Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery, Fred
+               Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:
+
+STAFF:         David Dobbins, City Manager; Mike Barker, City Attorney; Kellie Challburg,
+               Chief of Staff; Scott Cooley, City Engineer; Rich Ferguson, Chief of Police;
+               Jennifer Jastremsky, Community Development Director; Bret Millburn,
+               Assistant City Manager; Malena Murray, Human Resources Director; Rhett
+               Ogden, Parks and Recreation Director; Laura Oscarson, City Recorder; Linda
+               Peterson, Communications Director; Clint Smith, Fire Chief; Jake Sorensen, IT;
+               and John Vuyk, Finance Director
+
+_______________________________________________________________________________________________________
+
+Study Session
+
+Interviews
+The City Council interviewed the following applicants for a vacancy on the Jordan Valley Water
+Conservancy District Board: Michael Maxwell, Sonja Mitchell, Michael MacArthur, and Clint
+Jensen
+
+Council/Manager Reports
+Councilmember F. Lowry shared feedback from residents that signs were needed to alert
+drivers of a concrete island at a particular spot along 1300 East.
+
+Business Session
+
+1.        Call to Order by Mayor Troy K. Walker
+
+2.        Pledge of Allegiance led by Fire Chief Clint Smith
+
+3.        Public Comments
+          Burl Kelton, Public Information Officer with the Federal Office of Disaster Recovery
+          & Resilience, said he was visiting from Sacramento, California, appreciated the
+          space provided by Draper City, and would be happy to answer any questions.
+
+4.        Consent Items
+
+4.a       Approval of the September 12, 2023, City Council Meeting Minutes.
+4.b       Approval of the September 19, 2023, City Council Meeting Minutes.
+
+
+
+
+Draper City Council Approved Minutes – October 17, 2023
+4.c   Approval of Ordinance #1589, An Ordinance of the Draper City Council
+      amending Title 3 of the Draper City Municipal Code regarding a liaison to the
+      Historic Preservation Commission.
+4.d   Approval of Resolution #23-56, a Resolution of the Draper City Council
+      amending Section 8070 of the Personnel Policies and Procedures Manual
+      regarding Unpaid Leave.
+4.e   Approval of Resolution #23-57, appointing Stefania Wilks as a regular member
+      of the Draper Special Event Arena Committee.
+4.f   Approval of Resolution #23-58, a Resolution appointing Christa Hutchison as
+      a member of the Draper City Historic Preservation Commission.
+
+      Councilmember T. Lowery moved to approve                 the   Consent    Items.
+      Councilmember Green seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+
+                                    Yes        No          Absent
+      Councilmember Green           x
+      Councilmember T. Lowery       x
+      Councilmember F. Lowry        x
+      Councilmember Roberts         x
+      Councilmember Vawdrey         x
+
+5.    Items for Council Consideration
+
+5.a   Action Item: Ordinance #1588, an Ordinance of the Draper City Council
+      adopting the 2023 Draper City Parks, Trails and Recreation Master Plan
+      Parks and Recreation Director Rhett Ogden reviewed an updated Parks, Trails and
+      Recreation Master Plan with the Council. Mr. Ogden said the Parks and Recreation
+      Committee reviewed the plan multiple times, provided feedback, and seemed
+      pleased with the update.
+
+      Councilmember F. Lowry moved to approve Ordinance #1588. Councilmember
+      Green seconded the motion.
+
+      Councilmember Vawdrey said she had concerns with building more multi-user
+      trails, and pointed out that public survey comments included requests to separate
+      trail users. Councilmember T. Lowery said she believed the importance of
+      recognizing user conflict would become more important as the City grew and trail
+      use increased. Councilmember T. Lowery expressed the opinion that it was
+      important to move away from multi-use trails.
+
+      Councilmember F. Lowry withdrew his motion.
+
+
+                                                                             2|Page
+     Councilmember Vawdrey moved to approve Ordinance #1588 with an
+     amendment to include language stating that multi-use trails be used only as
+     connectors between existing trails, and not encouraged to be built in the
+     future. Councilmember T. Lowery seconded the motion.
+
+     A roll call vote was taken. The motion passed unanimously.
+
+                                 Yes       No       Absent
+     Councilmember Green         x
+     Councilmember T. Lowery     x
+     Councilmember F. Lowry      x
+     Councilmember Roberts       x
+     Councilmember Vawdrey       x
+
+6.   Adjournment
+     Councilmember Green moved to adjourn the meeting. Councilmember
+     Vawdrey seconded the motion. A voice vote was taken, and the motion
+     passed unanimously.
+
+     The meeting adjourned at 7:20 p.m.
+
+
+
+
+                                                                       3|Page
+

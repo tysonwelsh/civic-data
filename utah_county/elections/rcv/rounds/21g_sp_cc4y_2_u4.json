@@ -1,0 +1,113 @@
+{
+ "config": {
+  "contest": "Springville City Council (4 Year)",
+  "date": "2021-11-02",
+  "jurisdiction": "",
+  "office": "",
+  "threshold": "2829"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "AMANDA MILLER": 544.0,
+    "CRAIG CONOVER": 1235.0,
+    "CRAIG JENSEN": 1729.0,
+    "DALE WATSON": 677.0,
+    "MARCIA CONOVER-HARRIS": 626.0,
+    "XIMENA M. BISHOP": 1135.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "AMANDA MILLER",
+     "transfers": {
+      "CRAIG CONOVER": 57.0,
+      "CRAIG JENSEN": 81.0,
+      "DALE WATSON": 101.0,
+      "MARCIA CONOVER-HARRIS": 151.0,
+      "XIMENA M. BISHOP": 97.0,
+      "Inactive Ballots": 57.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "CRAIG CONOVER": 1292.0,
+    "CRAIG JENSEN": 1810.0,
+    "DALE WATSON": 778.0,
+    "MARCIA CONOVER-HARRIS": 777.0,
+    "XIMENA M. BISHOP": 1232.0,
+    "Inactive Ballots": 57.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "MARCIA CONOVER-HARRIS",
+     "transfers": {
+      "CRAIG CONOVER": 354.0,
+      "CRAIG JENSEN": 103.0,
+      "DALE WATSON": 70.0,
+      "XIMENA M. BISHOP": 222.0,
+      "Inactive Ballots": 28.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "CRAIG CONOVER": 1646.0,
+    "CRAIG JENSEN": 1913.0,
+    "DALE WATSON": 848.0,
+    "XIMENA M. BISHOP": 1454.0,
+    "Inactive Ballots": 85.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "DALE WATSON",
+     "transfers": {
+      "CRAIG CONOVER": 211.0,
+      "CRAIG JENSEN": 340.0,
+      "XIMENA M. BISHOP": 233.0,
+      "Inactive Ballots": 64.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "CRAIG CONOVER": 1857.0,
+    "CRAIG JENSEN": 2253.0,
+    "XIMENA M. BISHOP": 1687.0,
+    "Inactive Ballots": 149.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "XIMENA M. BISHOP",
+     "transfers": {
+      "CRAIG CONOVER": 635.0,
+      "CRAIG JENSEN": 911.0,
+      "Inactive Ballots": 141.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "CRAIG CONOVER": 2492.0,
+    "CRAIG JENSEN": 3164.0,
+    "Inactive Ballots": 290.0
+   },
+   "tallyResults": [
+    {
+     "elected": "CRAIG JENSEN",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

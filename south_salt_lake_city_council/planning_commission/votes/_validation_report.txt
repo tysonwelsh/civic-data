@@ -1,0 +1,318 @@
+South Salt Lake — vote extraction validation report
+========================================================================
+Meeting JSONs             : 61
+Meetings with >= 1 motion : 58
+Motions extracted         : 286
+
+Body counts:
+   PlanningCommission   286
+
+Vote-mode split:
+   Vote                 286
+
+Motion-type distribution:
+   Procedural/Administrative  113
+   Land-Use/Zoning            97
+   Other                      56
+   Ordinance                  7
+   Appointment                5
+   Public Hearing Action      5
+   Resolution                 3
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year).
+SSL council roster evolves; max tally = 7; Mayor (executive) never votes.
+------------------------------------------------------------------------
+
+2022:
+   Jeremy Carter              35
+   Mary Anna Southey          35
+   Christy Dahlberg           30
+   Chad Ewell                 30
+   George Pechmann            29
+   Laura Vernon               24
+   Stacey Holscher            15
+   Liz Gabbitas               10
+   Olivia Spencer             1
+
+2023:
+   Jeremy Carter              77
+   Mary Anna Southey          70
+   Chad Ewell                 56
+   Sophie Bellina             50
+   George Pechmann            45
+   Suzanne Slifka             43
+   Stacey Holscher            34
+   Olivia Spencer             33
+   Christy Dahlberg           25
+   Oliva Spencer              8
+
+2024:
+   Jeremy Carter              65
+   Mary Anna Southey          64
+   George Pechmann            53
+   Olivia Spencer             52
+   Suzanne Slifka             45
+   Chad Ewell                 37
+   Stacey Holscher            30
+   Christy Dahlberg           26
+   Sophie Bellina             21
+
+2025:
+   Mary Anna Southey          66
+   Jeremy Carter              66
+   George Pechmann            57
+   Olivia Spencer             56
+   Suzanne Slifka             50
+   Chad Ewell                 46
+   Stacey Holscher            29
+   Kathy Self                 22
+   Christy Dahlberg           21
+
+2026:
+   Suzanne Slifka             33
+   Jeremy Carter              33
+   Mary Anna Southey          31
+   Olivia Spencer             29
+   Kathy Self                 27
+   George Pechmann            22
+   Christy Dahlberg           16
+   Chad Ewell                 4
+
+------------------------------------------------------------------------
+MAYOR-IN-ROLL FLAGS (executive should never be in a roll call): 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+>8-VOTER FLAGS: 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+      (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (seated != 8): 279
+An absent member (6 seated), a vacancy, or a parse miss. Reviewed.
+------------------------------------------------------------------------
+   2022-01-20 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the agenda, as amended
+   2022-01-20 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to nominate Chair Vernon to serve as C
+   2022-01-20 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – S-21-010 – Preliminary Plat 
+   2022-01-20 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – S-21-006 – Preliminary Plat 
+   2022-01-20 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the December 22, 2021, Plan
+   2022-02-03 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the agenda, as written
+   2022-02-03 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Meeting – S-21-010 – Final Plat Approv
+   2022-02-03 [PlanningCommission] m3: 6 seated (expected 8) aye=5 nay=0 abstain=1 absent=0 recuse=0 :: Motion to approve the January 20, 2022, Plann
+   2022-04-07 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve the Planning Commission Mee
+   2022-04-07 [PlanningCommission] m2: 6 seated (expected 8) aye=5 nay=0 abstain=1 absent=0 recuse=0 :: Motion to Elect Commissioner Pechmann to serv
+   2022-04-07 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Recommendation to the Sout
+   2022-04-07 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve the February 3, 2022, Plann
+   2022-04-07 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve the March 17, 2022, Plannin
+   2022-08-18 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the Agenda
+   2022-08-18 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the application submitted b
+   2022-08-18 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2022-08-18 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2022-08-18 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the Minutes of the July 21,
+   2022-08-18 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Adjourn
+   2022-09-01 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve the Agenda
+   2022-09-01 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2022-09-01 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Adjourn
+   2022-09-15 [PlanningCommission] m1: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve the Agenda as written
+   2022-09-15 [PlanningCommission] m2: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – S-22-006 – A Preliminary Sub
+   2022-09-15 [PlanningCommission] m3: 4 seated (expected 8) aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by Kyle Den
+   2022-09-15 [PlanningCommission] m4: 4 seated (expected 8) aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of approva
+   2022-09-15 [PlanningCommission] m5: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Adjourn
+   2022-11-17 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to approve the agenda as written
+   2022-11-17 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: All items of the staff report. — Motion to AP
+   2022-11-17 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: (V) Strategy 5: Develop and adopt a Station A
+   2022-11-17 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the August 18, 2022, Planning Com
+   2022-11-17 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the September 1, 2022, Planning C
+   2022-11-17 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the September 15, 2022, Planning 
+   2022-11-17 [PlanningCommission] m7: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the 2023 Planning Commission Meet
+   2023-01-19 [PlanningCommission] m2: 6 seated (expected 8) aye=5 nay=0 abstain=1 absent=0 recuse=0 :: Election of a New Chairperson for 2023. — Mot
+   2023-01-19 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPOINT Commissioner Jeremy Carter 
+   2023-01-19 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the December 1, 2022, Planning Co
+   2023-01-19 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Meeting – A Petition for the Issuance 
+   2023-01-19 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation to DENY th
+   2023-01-19 [PlanningCommission] m7: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – SV-19-001 – A Petition to Va
+   2023-01-19 [PlanningCommission] m8: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – Z-22-004 – A Petition to Ame
+   2023-02-16 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda as written
+   2023-02-16 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Preliminary S
+   2023-02-16 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Meeting – SV-19-001 – A Petition to Va
+   2023-02-16 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the January 19, 2023, Planning Co
+   2023-02-16 [PlanningCommission] m5: 3 seated (expected 8) aye=3 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-03-16 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-03-16 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for a Final Subdi
+   2023-03-16 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the February 16, 2023, Planning C
+   2023-03-16 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Discussion and Adoption of the Revised Bylaws
+   2023-03-16 [PlanningCommission] m5: 3 seated (expected 8) aye=3 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN the South Salt Lake City Pl
+   2023-04-20 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by C.W. Urb
+   2023-04-20 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition to the Planning C
+   2023-06-01 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-06-01 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by C.W. Urb
+   2023-06-01 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Meeting – A Petition to the Planning C
+   2023-06-01 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application for a Condi
+   2023-06-01 [PlanningCommission] m5: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the April 20, 2023, Planning Comm
+   2023-06-01 [PlanningCommission] m6: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN the South Salt Lake City Pl
+   2023-06-15 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-06-15 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Final Subdivi
+   2023-06-15 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Final Subdivi
+   2023-06-15 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Preliminary S
+   2023-06-15 [PlanningCommission] m5: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2023-06-15 [PlanningCommission] m6: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the June 1, 2023, Planning Commis
+   2023-06-15 [PlanningCommission] m7: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN the South Salt Lake Plannin
+   2023-07-13 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-07-13 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2023-07-13 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing - A Petition for Preliminary S
+   2023-07-13 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing - A Petition for Final Subdivi
+   2023-07-13 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition to the Planning C
+   2023-07-13 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the June 15, 2023, Planning Commi
+   2023-07-20 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-07-20 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Meeting – A Petition for Final Subdivi
+   2023-07-20 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the July 13, 2023, Planning Commi
+   2023-07-20 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-08-03 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-08-03 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for a Conditional
+   2023-08-03 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the July 20, 2023, Planning Commi
+   2023-08-03 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-08-17 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-08-17 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE a Conditional Use Permit, C
+   2023-08-17 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the August 3, 2023, Planning Comm
+   2023-08-17 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-08-31 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-08-31 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2023-08-31 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the August 17, 2023, Planning Com
+   2023-08-31 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-09-21 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-09-21 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the August 31, 2023, Planning Com
+   2023-09-21 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2023-09-21 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by Woodbury
+   2023-09-21 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Preliminary P
+   2023-09-21 [PlanningCommission] m6: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition to the Planning C
+   2023-10-05 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-10-05 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the September 21, 2023, Planning 
+   2023-10-05 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition for Final Plat Ap
+   2023-10-05 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition to the Planning C
+   2023-10-05 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Public Hearing – A Petition to the Planning C
+   2023-11-02 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-11-02 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the October 5, 2023, Planning Com
+   2023-11-02 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to TABLE the decision on the applicati
+   2023-11-02 [PlanningCommission] m4: 7 seated (expected 8) aye=6 nay=0 abstain=1 absent=0 recuse=0 :: (motion — description not captured)
+   2023-11-16 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda with the change 
+   2023-11-16 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the November 2, 2023, Planning Co
+   2023-11-16 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the 2024 Planning Commission Meet
+   2023-11-16 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2023-11-16 [PlanningCommission] m5: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2023-12-07 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2023-12-07 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the November 16, 2023, Planning C
+   2023-12-07 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by Brett Br
+   2024-01-18 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2024-01-18 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Election of New Chairperson for 2024. — Motio
+   2024-01-18 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPOINT Commissioner Pechmann as 20
+   2024-01-18 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the December 7, 2023, Planning Co
+   2024-01-18 [PlanningCommission] m5: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Application by Woodbury
+   2024-01-18 [PlanningCommission] m6: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE an Application by Katmark P
+   2024-01-18 [PlanningCommission] m7: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Application submitted f
+   2024-01-18 [PlanningCommission] m8: 7 seated (expected 8) aye=5 nay=2 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2024-02-01 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2024-02-01 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by Chase Fr
+   2024-02-01 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application submitted f
+   2024-02-01 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING – An Application for a Conditi
+   2024-02-01 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE an application by Katmark P
+   2024-02-15 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2024-02-15 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the January 18, 2024, Planning Co
+   2024-02-15 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the February 1, 2024, Planning Co
+   2024-02-15 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING – An Application to Approve th
+   2024-02-15 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING - An Application for Final Pla
+   2024-02-15 [PlanningCommission] m6: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING - An Application for Prelimina
+   2024-02-15 [PlanningCommission] m7: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2024-03-21 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2024-03-21 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Commission Attendance. — Motion to APPROVE th
+   2024-03-21 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2024-04-18 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda as written
+   2024-04-18 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Clothing Order. — Motion to APPROVE the March
+   2024-04-18 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING – A Petition to Approve a Desi
+   2024-04-18 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application submitted f
+   2024-05-02 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda, as written
+   2024-05-02 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Mural Fest – May 4 – 4:00 – 8:00 PM. — Motion
+   2024-05-02 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2024-05-16 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda
+   2024-05-16 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the May 2, 2024, Planning C
+   2024-05-16 [PlanningCommission] m3: 7 seated (expected 8) aye=6 nay=0 abstain=1 absent=0 recuse=0 :: PUBLIC MEETING – An Application to Approve a 
+   2024-05-16 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2024-07-11 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Meeting Agenda with the
+   2024-07-11 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the May 16, 2024, Planning 
+   2024-08-01 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Meeting Agenda with the
+   2024-08-01 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING — Motion to APPROVE the applic
+   2024-09-05 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the agenda, as written
+   2024-09-05 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Utah Open and Public Meetings Act Online Trai
+   2024-09-05 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the August 1, 2024, Plannin
+   2024-09-05 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a POSITIVE RECOMMENDATION t
+   2024-09-05 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a POSITIVE RECOMMENDATION t
+   2024-09-05 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-09-05 [PlanningCommission] m7: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to ADJOURN the Planni
+   2024-09-19 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the agenda, as written
+   2024-09-19 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the September 5, 2024, Plan
+   2024-09-19 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the application by Chris Ni
+   2024-10-17 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the agenda, as written
+   2024-10-17 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Final Plat Issued — Motion to APPROVE the Sep
+   2024-10-17 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-10-17 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-10-17 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-11-07 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the agenda, as written
+   2024-11-07 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Bylaws Update — Motion to APPROVE the October
+   2024-11-07 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the 2025 Planning Commissio
+   2024-11-07 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-11-07 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the applic
+   2024-11-07 [PlanningCommission] m6: 6 seated (expected 8) aye=5 nay=1 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2024-11-21 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Agenda, as written
+   2024-11-21 [PlanningCommission] m2: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Approval of the November 7, 2024, Planning Co
+   2024-11-21 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Discussion and Adoption of the Revised Bylaws
+   2024-11-21 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to forward a recommen
+   2024-11-21 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Application on behalf o
+   2024-11-21 [PlanningCommission] m6: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING — Motion to recommend APPROVAL
+   2024-11-21 [PlanningCommission] m7: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING — Motion to APPROVE the applic
+   2025-01-16 [PlanningCommission] m6: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2025-01-16 [PlanningCommission] m7: 4 seated (expected 8) aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Motion to ADJOURN
+   2025-02-20 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve Agenda
+   2025-02-20 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE
+   2025-02-20 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE
+   2025-02-20 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE a Prelimin
+   2025-02-20 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2025-03-06 [PlanningCommission] m1: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve Agenda
+   2025-03-06 [PlanningCommission] m2: 6 seated (expected 8) aye=5 nay=0 abstain=1 absent=0 recuse=0 :: Motion to APPROVE the minutes of the February
+   2025-03-06 [PlanningCommission] m3: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: Motion to TABLE the application by E. Farley 
+   2025-03-06 [PlanningCommission] m4: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: (motion — description not captured)
+   2025-03-06 [PlanningCommission] m5: 6 seated (expected 8) aye=6 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE an applica
+   2025-04-03 [PlanningCommission] m1: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve Agenda
+   2025-04-03 [PlanningCommission] m2: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Final Plat Issued. — Motion to APPROVE the Mi
+   2025-04-03 [PlanningCommission] m3: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING — Motion to CONTINUE the Appli
+   2025-04-03 [PlanningCommission] m4: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to APPROVE the Applic
+   2025-04-03 [PlanningCommission] m5: 5 seated (expected 8) aye=5 nay=0 abstain=0 absent=0 recuse=0 :: Motion to forward a recommendation of APPROVA
+   2025-04-03 [PlanningCommission] m6: 3 seated (expected 8) aye=3 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC HEARING — Motion to forward a recommen
+   2025-04-17 [PlanningCommission] m1: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to Approve Agenda
+   2025-04-17 [PlanningCommission] m2: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the April 3, 2025, Planning
+   2025-04-17 [PlanningCommission] m3: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE the Market Center Prelimina
+   2025-04-17 [PlanningCommission] m4: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: PUBLIC MEETING — Motion to TABLE the applicat
+   2025-04-17 [PlanningCommission] m5: 7 seated (expected 8) aye=7 nay=0 abstain=0 absent=0 recuse=0 :: Motion to APPROVE an application for Mark Mil
+   ... 79 more
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 12
+------------------------------------------------------------------------
+   2022-02-03 [PlanningCommission] m3 5-0 Pass | AYE=['Jeremy Carter', 'Christy Dahlberg', 'George Pechmann', 'Mary Anna Southey', 'Laura Vernon'] NAY=[] ABSTAIN=['Chad Ewell'] RECUSE=[] ABSENT=[] :: Motion to approve the January 20, 2022, Planning Commission Meeting Mi
+   2022-04-07 [PlanningCommission] m2 5-0 Pass | AYE=['Jeremy Carter', 'Christy Dahlberg', 'Chad Ewell', 'Liz Gabbitas', 'Mary Anna Southey'] NAY=[] ABSTAIN=['George Pechmann'] RECUSE=[] ABSENT=[] :: Motion to Elect Commissioner Pechmann to serve as Vice-Chair for 2022
+   2022-09-15 [PlanningCommission] m3 3-1 Pass | AYE=['Chad Ewell', 'George Pechmann', 'Mary Anna Southey'] NAY=['Jeremy Carter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Motion to APPROVE the application by Kyle Denos, on behalf of Property
+   2022-09-15 [PlanningCommission] m4 3-1 Pass | AYE=['Chad Ewell', 'George Pechmann', 'Mary Anna Southey'] NAY=['Jeremy Carter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Motion to forward a recommendation of approval of the application by 3
+   2023-01-19 [PlanningCommission] m2 5-0 Pass | AYE=['Jeremy Carter', 'Chad Ewell', 'Stacey Holscher', 'Mary Anna Southey', 'Olivia Spencer'] NAY=[] ABSTAIN=['George Pechmann'] RECUSE=[] ABSENT=[] :: Election of a New Chairperson for 2023. — Motion to APPOINT Commission
+   2023-11-02 [PlanningCommission] m4 6-0 Pass | AYE=['Jeremy Carter', 'Christy Dahlberg', 'Stacey Holscher', 'Suzanne Slifka', 'Mary Anna Southey', 'George Pechmann'] NAY=[] ABSTAIN=['Sophie Bellina'] RECUSE=[] ABSENT=[] :: (motion — description not captured)
+   2024-01-18 [PlanningCommission] m8 5-2 Pass | AYE=['Sophie Bellina', 'Mary Anna Southey', 'Olivia Spencer', 'George Pechmann', 'Jeremy Carter'] NAY=['Chad Ewell', 'Suzanne Slifka'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Motion to forward a recommendation of APPROVAL to the City Council for
+   2024-05-16 [PlanningCommission] m3 6-0 Pass | AYE=['Sophie Bellina', 'Chad Ewell', 'Suzanne Slifka', 'Mary Anna Southey', 'Olivia Spencer', 'Jeremy Carter'] NAY=[] ABSTAIN=['George Pechmann'] RECUSE=[] ABSENT=[] :: PUBLIC MEETING – An Application to Approve a Preliminary Subdivision P
+   2024-11-07 [PlanningCommission] m6 5-1 Pass | AYE=['Stacey Holscher', 'Suzanne Slifka', 'Mary Anna Southey', 'Olivia Spencer', 'Jeremy Carter'] NAY=['George Pechmann'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Motion to forward a recommendation of APPROVAL to the City Council for
+   2025-03-06 [PlanningCommission] m2 5-0 Pass | AYE=['Chad Ewell', 'Mary Anna Southey', 'Suzanne Slifka', 'Olivia Spencer', 'Jeremy Carter'] NAY=[] ABSTAIN=['Christy Dahlberg'] RECUSE=[] ABSENT=[] :: Motion to APPROVE the minutes of the February 20, 2025, Planning Commi
+   2026-02-19 [PlanningCommission] m2 6-0 Pass | AYE=['George Pechmann', 'Suzanne Slifka', 'Mary Anna Southey', 'Kathy Self', 'Olivia Spencer', 'Jeremy Carter'] NAY=[] ABSTAIN=['Christy Dahlberg'] RECUSE=[] ABSENT=[] :: Approval of the February 5, 2026, Planning Commission Minutes. — Motio
+   2026-06-04 [PlanningCommission] m5 4-1 Pass | AYE=['Kathy Self', 'Mary Anna Southey', 'Suzanne Slifka', 'Olivia Spencer'] NAY=['Jeremy Carter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Motion to TABLE the application by SSLC OPC Venture, LLC for a Prelimi
+

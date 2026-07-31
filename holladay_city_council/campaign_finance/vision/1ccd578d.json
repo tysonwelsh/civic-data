@@ -1,0 +1,34 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "10/11/25",
+      "recipient": "FundHero",
+      "purpose": null,
+      "amount": "8.59",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "8.59",
+  "contributions_50_or_less": "0",
+  "beginning_balance": null,
+  "ending_balance": "132.82",
+  "_meta": {
+    "index_path": "raw/2025_city_bilstad-10282025.pdf",
+    "candidate": "Grant Jacob Bilstad",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_bilstad-10282025.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

@@ -1,0 +1,29 @@
+{"contributions":[
+{"date":"10/6/25","name":"Susan Bowlden","amount":"$6.00","in_kind":true},
+{"date":"10/9/25","name":"Susan Bowlden","amount":"17.49","in_kind":true},
+{"date":"10/9/25","name":"Susan Bowlden","amount":"20.00","in_kind":false},
+{"date":"10/9/25","name":"Julia Gellersen","amount":"20.00","in_kind":false},
+{"date":"10/11/25","name":"Sarah Montes","amount":"30.00","in_kind":false},
+{"date":"10/9/25","name":"Aileen Hampton","amount":"300.00","in_kind":false},
+{"date":"10/16/25","name":"Aileen Hampton","amount":"311.22","in_kind":false},
+{"date":"10/14/25","name":"Aileen Hampton","amount":"1.00","in_kind":false},
+{"date":"10/9/25","name":"Délice","amount":"52.01","in_kind":true}
+],
+"expenditures":[
+{"date":"10/6/25","recipient":"WinCo","purpose":"Refreshments for Candidate Night","amount":"25.28","in_kind":false},
+{"date":"10/6/25","recipient":"Granite Library","purpose":"Photocopies","amount":"1.30","in_kind":false},
+{"date":"10/6/25","recipient":"In kind","purpose":"Tablecloth for Candidate Night","amount":"6.00","in_kind":true},
+{"date":"10/9/25","recipient":"CostCo","purpose":"Refreshments for Meet and Greet","amount":"36.94","in_kind":false},
+{"date":"10/9/25","recipient":"In kind","purpose":"Refreshments for Meet and Greet","amount":"17.49","in_kind":true},
+{"date":"10/9/25","recipient":"Peter Hildyard","purpose":"Flyers","amount":"374.06","in_kind":false},
+{"date":"10/9/25","recipient":"In kind","purpose":"Refreshments for Meet and Greet","amount":"52.01","in_kind":true},
+{"date":"10/9/25","recipient":"Smith's","purpose":"Refreshments for Meet and Greet","amount":"2.50","in_kind":false},
+{"date":"10/16/25","recipient":"Renaissance Signs","purpose":"Signs","amount":"311.22","in_kind":false},
+{"date":"10/21/25","recipient":"Renaissance Signs","purpose":"Wire Stands","amount":"62.24","in_kind":false}
+],
+"total_contributions":"757.72",
+"total_expenditures":"889.04",
+"contributions_50_or_less":null,
+"beginning_balance":"188.64",
+"ending_balance":"57.32",
+"_meta":{"index_path":"raw/2025_adid310_aileen-hampton-election-campaign-financial-disclosure.pdf","candidate":"Aileen Hampton","office":"Council","filing_type":"interim","election_year":"2025","source_pdf":"/Users/tysonwelsh/civic-data/south_salt_lake_city_council/campaign_finance/raw/2025_adid310_aileen-hampton-election-campaign-financial-disclosure.pdf","pages":4,"note":"October 28, 2025 (7-day) report. On both itemized pages the printed 'TOTAL ... (sum of all pages)' box was struck through and rewritten: contributions 982.72 -> 757.72, expenditures 925.40 -> 889.04 (corrected values used here; the struck 982.72/925.40 are the Column B Year-to-Date figures on the summary page). Summary Column A totals: contributions 757.72, expenditures 889.04. One expenditure line ('Granite Library', no date/amount) is struck through and excluded. Contributor addresses redacted (black boxes) on the source. The 10/9/25 Susan Bowlden in-kind amount is written with an overwritten leading digit; read as 17.49 (uncertain — could be 13.49)."}}

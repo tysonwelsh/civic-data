@@ -1,0 +1,81 @@
+{
+ "date": "2021-08-18",
+ "year": 2021,
+ "title": "City Council Meeting",
+ "source": "minutes/2021/2021-08-16/2021-08-18_city-council.md",
+ "body": "Council",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "moved re-appoint Kent Burggraaf to the Planning Commission as an At-Large Representative",
+   "motion_type": "Appointment",
+   "result": "5-0 Pass",
+   "mover": "Ernest Burgess",
+   "seconder": "Anna Barbieri",
+   "aye": [
+    "Ernest Burgess",
+    "Meredith Harker",
+    "Dan Armstrong",
+    "Curt Cochran",
+    "Anna Barbieri"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    5,
+    0
+   ],
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "moved approve the minutes of the August 4, 2021. Council meeting as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "mover": "Anna Barbieri",
+   "seconder": "Ernest Burgess",
+   "aye": [
+    "Anna Barbieri",
+    "Curt Cochran",
+    "Ernest Burgess",
+    "Dan Armstrong",
+    "Meredith Harker"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "printed_tally": [
+    5,
+    0
+   ],
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "moved adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "",
+   "mover": "Ernest Burgess",
+   "seconder": "Meredith Harker",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "printed_tally": null,
+   "mayor_voted": false,
+   "mayor": null,
+   "motion_no": 3
+  }
+ ]
+}

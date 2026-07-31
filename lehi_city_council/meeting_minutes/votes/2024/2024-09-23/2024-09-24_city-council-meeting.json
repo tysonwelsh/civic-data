@@ -1,0 +1,58 @@
+{
+ "date": "2024-09-24",
+ "title": "City Council",
+ "slug": "city-council-meeting",
+ "default_body": "Council",
+ "source": "meeting_minutes/minutes/2024/2024-09-23/2024-09-24_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Approve Purchase Orders",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "5:0 Pass",
+   "mover": "Chris Condie",
+   "seconder": "Paul Hancock",
+   "aye": [
+    "Paige Albrecht",
+    "Chris Condie",
+    "Paul Hancock",
+    "Heather Newall",
+    "Michelle Stallings"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "6) Budget Adjustment #1 for FY 2025 a. Public Hearing b. Consideration of Resolution #2024-52 amending the Lehi City Budget for Fiscal Year 2025.",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5:0 Pass",
+   "mover": "Chris Condie",
+   "seconder": "Paul Hancock",
+   "aye": [
+    "Michelle Stallings",
+    "Chris Condie",
+    "Heather Newall",
+    "Paul Hancock",
+    "Paige Albrecht"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "mayor_tiebreak": false,
+   "mayor": null,
+   "printed_tally": null
+  }
+ ]
+}

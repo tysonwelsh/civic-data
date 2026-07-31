@@ -1,0 +1,29 @@
+{
+  "contributions": [
+    {"date": "10/29/25", "name": "CloudG Solutions, LLC", "amount": "200", "in_kind": false},
+    {"date": "10/29/25", "name": "Diane Bock", "amount": "100", "in_kind": false},
+    {"date": "10/29/25", "name": "Paul Ebert", "amount": "50", "in_kind": false},
+    {"date": "11/3/25", "name": "Ann Trauscht", "amount": "100", "in_kind": false},
+    {"date": "11/3/25", "name": "Fresh Air PAC", "amount": "500", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "11/6/25", "recipient": "Costco", "purpose": null, "amount": "39", "in_kind": false},
+    {"date": "11/3/25", "recipient": "SquareSpace", "purpose": null, "amount": "361", "in_kind": false},
+    {"date": "11/25/25", "recipient": "Kathleen Riebe for Congress", "purpose": null, "amount": "200", "in_kind": false},
+    {"date": "12/01/25", "recipient": "Zoom", "purpose": null, "amount": "120", "in_kind": false}
+  ],
+  "total_contributions": "900",
+  "total_expenditures": "720",
+  "contributions_50_or_less": "50",
+  "beginning_balance": null,
+  "ending_balance": "2,751",
+  "_meta": {
+    "index_path": "raw/2025_city_birrell_final-dec-4-2025.pdf",
+    "candidate": "Ellen Birrell",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/cottonwood_heights_city_council/campaign_finance/raw/2025_city_birrell_final-dec-4-2025.pdf",
+    "pages": 2
+  }
+}

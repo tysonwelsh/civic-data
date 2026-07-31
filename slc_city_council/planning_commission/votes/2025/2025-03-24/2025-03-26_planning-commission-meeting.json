@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "date": "2025-03-26",
+    "year": "2025",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/PlanningBoardsCommissions/DocView.aspx?id=7374470&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2025/2025-03-24/2025-03-26_planning-commission-meeting.md",
+    "present": [
+      "Aimee Burrows",
+      "Landon Kraczek",
+      "Brian Scott",
+      "Amy Barry",
+      "Mike Christensen",
+      "Richard Leverett",
+      "Bree Scheer"
+    ],
+    "absent": [
+      "McCall Christensen"
+    ]
+  },
+  "votes": [
+    {
+      "motion": "approve the consent agenda",
+      "description": "approve the consent agenda",
+      "motion_type": "Consent Agenda",
+      "action_class": "procedural",
+      "mover": "Mike Christensen",
+      "seconder": "Landon Kraczek",
+      "result": "7:1 Pass",
+      "tally": {
+        "yes": 7,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Richard Leverett",
+        "Bree Scheer",
+        "Mike Christensen",
+        "Landon Kraczek",
+        "Aimee Burrows",
+        "Brian Scott",
+        "Amy Barry"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt the zoning text amendment",
+      "description": "\u201cBased on the information presented and discussion, I move that the Commission recommends that the city council adopt the zoning text amendment",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Mike Christensen",
+      "seconder": "Brian Scott",
+      "result": "Positive recommendation 7:0",
+      "tally": {
+        "yes": 7,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Bree Scheer",
+        "Amy Barry",
+        "Brian Scott",
+        "Mike Christensen",
+        "Landon Kraczek",
+        "Richard Leverett",
+        "Aimee Burrows"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

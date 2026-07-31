@@ -1,0 +1,309 @@
+# City Council
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1819&doc_id=17e18ae0-ce13-11ef-a9e2-005056a89546
+> Meeting date: 2024-12-03
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+DECEMBER 3, 2024, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:       Mayor Troy K. Walker, and Councilmembers Mike Green, Bryn Heather
+               Johnson, Tasha Lowery, Fred Lowry, and Marsha Vawdrey
+EXCUSED:
+STAFF:         Mike Barker, City Manager; Kellie Challburg, Assistant City Manager;
+               Scott Cooley, City Engineer and Public Works Director; Todd Draper,
+               Planning Manager; Spencer DuShane, Assistant City Attorney; Rich
+               Ferguson, Chief of Police; Jennifer Jastremsky, Community Development
+               Director; Robert Markle, Deputy Public Works Director; Malena Murray,
+               Human Resources Director; Rhett Ogden, Parks and Recreation
+               Director; Laura Oscarson, City Recorder; Linda Peterson,
+               Communications Director; Clint Smith, Fire Chief; Jake Sorensen,
+               Network Manager; and John Vuyk, Finance Director
+OTHER:         David Dobbins, Dobbins Advisory Group; Rob Wood, HBME, LLC
+_____________________________________________________________________________________
+
+Study Session
+
+        Discussion: Glass Recycling
+        Finance Director John Vuyk reported that 213 Draper residents currently paid
+        for the curbside glass recycling utility option (provided by Momentum
+        Recycling). The cost to the City of the glass recycling service increased in July
+        2024 from $8.00 to $8.25 per month. Due to property tax rates and water
+        rate increases, the City chose not to increase glass recycling fees for
+        residents at that time. Mr. Vuyk said other municipalities in the area charged
+        $8.50 per container per month for curbside glass recycling. Draper City
+        currently provides glass recycling collection dumpsters at two locations, in
+        addition to the curbside collection option. Mr. Vuyk presented four options
+        for Council consideration:
+
+           •    Continue current service and participant rate, with approximately $50
+                per month plus cost of staff time subsidized by the City;
+           •    Continue current service with a participant rate increase ($9.00 per
+                month justifiable with the cost of staff time);
+           •    Ask Momentum Recycling if they would be willing to bill participants
+                directly by credit card, removing Draper City from the equation;
+
+                                                                               1|Page
+        Draper City Council Approved Meeting Minutes – January 7, 2025
+   •   Eliminate curbside glass recycling as an option and perhaps add one
+       or more additional collection dumpsters in the City.
+
+A majority of the Council indicated support for approaching Momentum
+Recycling about charging participants directly, and if Momentum did not
+respond favorably, support for increasing the participation rate to cover all
+City costs ($9.00 per month). The Council discussed suggesting that
+Momentum Recycling increase resident awareness of the curbside glass
+recycling option.
+
+Update: Major Roads Capital Improvement Projects
+Deputy Public Works Director Robert Markle provided an update on Major
+Roads Capital Improvement Projects and answered questions from the
+Council.
+
+Discussion: Status of Public Works building
+Mr. Markle explained the Public Works building shop and yard were too
+small, and spoke of difficulties with salt storage, vehicle storage, and
+equipment storage, resulting in safety hazards. David Dobbins, a consultant
+with Dobbins Advisory Group, said ten acres were needed to provide a
+proper long-term solution for Public Works. Mr. Dobbins spoke of options
+that had been considered and said space at the current Galena Hills Park was
+a possibility, with ball fields and the planned fire station potentially moved
+to The Point.
+
+A representative of General RV Center and Camping World in Draper
+answered questions from the Council regarding the property sold to General
+RV Center by the City, a portion of which was still used by the City. He spoke
+of estimated increased sales and sales tax revenue if General RV Center
+expanded into the space currently used by Draper City.
+
+A majority of the Council indicated support for pursuing the Galena Hills Park
+option.
+
+Council/Manager Reports
+   • City Manager Mike Barker asked if the Council would be willing to
+     convene later in December to consider approving Local Consent for a
+     New Year’s Eve event planned at The Ballard in Draper. He said the
+     applicant approached him too late to have the request for Local
+
+                                                                    2|Page
+              Consent on that evening’s agenda. A majority of the Council indicated
+              support for scheduling a special meeting to consider the Local
+              Consent request.
+          •   The Council and staff discussed plans for Draper Days in 2025.
+
+Business Session
+
+1.     Call to Order by Mayor Troy K. Walker
+
+2.     Pledge of Allegiance led by Assistant City Manager Kellie Challburg
+
+3.     Recognition: Corner Canyon Mountain Bike Team
+       Mayor Walker recognized the 220 students of the Corner Canyon Mountain
+       Bike Team for being the highest-scoring team at the recent State
+       Championship. The Council offered congratulations.
+
+4.     Recognition: Corner Canyon Golf Team
+       The Golf Team was unable to attend, and recognition was postponed.
+
+5.     Presentation: Police Department 2024 Holiday Card Winners
+       Police Chief Rich Ferguson recognized the winners of the 2024 Holiday Card
+       Contest. The Council congratulated winners and took the opportunity for
+       photographs.
+
+6.     Oath of Office - Fire Department
+       City Recorder Laura Oscarson administered the Oath of Office to Firefighters
+       Cael Caldwell and Bailey Ziehl, and Paramedics Tyler Cox and Tim Ryan.
+
+7.     Oath of Office - Police Department
+       City Recorder Laura Oscarson administered the Oath of Office to Master
+       Officers Nate Banry, Gina Haws, Rulon Green, Adam Neff, Cory Smith, and
+       Hobie Young.
+
+8.     Public Comments
+       Talbot Lloyd, a Draper resident, expressed concern about the feral cat
+       population in Draper.
+
+       Jennifer Palmer, a Draper resident, said concerned citizens brought the feral
+       cat situation to the Council’s attention eight years ago, and had requested
+
+                                                                           3|Page
+      multiple times in the eight years for volunteer individuals to be able to Trap,
+      Neuter, Vaccinate, and Release (TNVR) community cats at no cost to the City.
+      She said the issue had continued to be put on the backburner, and expressed
+      the opinion that it was time for action. Ms. Palmer asked that volunteers be
+      allowed to trap, neuter, vaccinate, and release community cats within Draper
+      City limits. She said approximately 2,000 feral cats were roaming Draper, and
+      asked the Council to place the issue on a future agenda for a vote.
+
+      Carrie Hanson, a Draper resident, said the feral cat problem existed, and she
+      was trying to help take care of the problem at her own expense. She asked if
+      the issue could be placed on a ballot, and emphasized that concerned
+      citizens were not asking the City and taxpayers to take on the cost.
+
+      Matt Erdson, a Draper resident, said he was a bike rider in Draper. Mr. Erdson
+      spoke of air quality and suggested the City share a message with the
+      community encouraging individuals to walk or ride a bike instead of driving
+      a car.
+
+9.    Consent Items
+9.a   November 19, 2024, City Council Meeting Minutes
+9.b   Resolution #24-63 establishing the regular meeting schedule for the
+      City Council and the Planning Commission for the year 2025
+9.c   Resolution #24-64 approving the City Council Assignment List for 2025
+9.d   Resolution #24-65 electing Tasha Lowery to serve as the Mayor
+      Tempore for the year 2025
+9.e   Resolution #24-68 appointing Lucy Williams to the Draper City
+      Community Engagement Committee
+
+      Councilmember Green moved to approve                  the   Consent    Items.
+      Councilmember Johnson seconded the motion.
+
+      A roll call vote was taken. The motion passed unanimously.
+                                      Yes No Absent
+      Councilmember Green              X
+      Councilmember Johnson            X
+      Councilmember T. Lowery          X
+      Councilmember F. Lowry           X
+      Councilmember Vawdrey            X
+
+
+
+                                                                            4|Page
+10.    Items for Council Consideration
+10.a   Action Item: Resolution #24-57 accepting the City of Draper Audit and
+       Annual Comprehensive Financial Report (ACFR) for Fiscal Year ending
+       June 30, 2024
+       Rob Wood, an auditor with HBME, said the Draper ACFR for FY2024 was
+       issued with a clean opinion, and reviewed the FY2024 ACFR with the Council.
+
+       Councilmember F. Lowry moved to approve Resolution #24-57.
+       Councilmember Vawdrey seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry           X
+       Councilmember Vawdrey            X
+
+10.b   Action Item: Ordinance #1627 amending Title 7 of the Draper City
+       Municipal Code regarding the Draper City Cemetery
+       Assistant City Attorney Spencer DuShane presented proposed amendments
+       to Title 7 of the Draper City Code regarding the Draper City Cemetery.
+
+       Councilmember Johnson moved to approve                Ordinance     #1627.
+       Councilmember T. Lowery seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+       Councilmember T. Lowery          X
+       Councilmember F. Lowry           X
+       Councilmember Vawdrey            X
+
+10.c   Action Item: Resolution #24-70 approving a Memorandum of
+       Understanding between Draper City and The Point of the Mountain
+       State Land Use Authority
+       David Dobbins with Dobbins Advisory Group explained the proposed
+       Memorandum of Understanding would clarify multiple issues between
+
+                                                                         5|Page
+       Draper City and The Point of the Mountain State Land Use Authority related
+       to continued work on The Point project.
+
+       Councilmember Vawdrey moved to approve Resolution #24-70.
+       Councilmember Johnson seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                      Yes No Absent
+       Councilmember Green             X
+       Councilmember Johnson           X
+       Councilmember T. Lowery         X
+       Councilmember F. Lowry          X
+       Councilmember Vawdrey           X
+
+10.d   Public Hearing: Ordinance #1628 amending the Official Zoning Map of
+       Draper City for approximately 0.52 acres from the RA1 (Residential
+       Agricultural, 40,000 ft² min. lot size) to CC (Community Commercial)
+       Zone for property located at 12240 S. 700 E, known as The Break Zoning
+       Map Amendment
+       Planner Nick Whittaker explained the request to rezone approximately 0.52
+       acres from RA1 to CC Zone. The current designation on the Future Land Use
+       Map was Neighborhood Commercial, which Mr. Whittaker said staff felt was
+       a correlating designation. Mr. Whittaker said the Planning Commission
+       reviewed the request and forwarded a positive recommendation with a
+       unanimous vote.
+
+       Gary Knapp, representing the applicant, said the subject property would
+       primarily be used for parking for a restaurant on the adjacent property.
+
+       Mayor Walker opened a public hearing, and closed the public hearing
+       seeing no one come forward.
+
+       Councilmember Green moved to approve                 Ordinance     #1628.
+       Councilmember Johnson seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+       Councilmember Green              X
+       Councilmember Johnson            X
+
+                                                                        6|Page
+        Councilmember T. Lowery           X
+        Councilmember F. Lowry            X
+        Councilmember Vawdrey             X
+
+10.e   Public Hearing: Ordinance #1629 amending compensation for statutory
+       officers for Fiscal Year 2024/2025
+       Finance Director John Vuyk spoke of a recent salary study, presented proposed
+       amendments to compensation for statutory officers for FY2025, and answered
+       questions from the Council.
+
+       Mayor Walker opened a public hearing, and closed the public hearing
+       seeing no one come forward.
+
+       Councilmember Green moved to approve Ordinance #1629.
+       Councilmember Johnson seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                        Yes No Absent
+        Councilmember Green              X
+        Councilmember Johnson            X
+        Councilmember T. Lowery          X
+        Councilmember F. Lowry           X
+        Councilmember Vawdrey            X
+
+10.f   Public Hearing: Resolution #24-67 amending Executive Officer
+       Compensation for Fiscal Year 2024-2025
+       Mr. Vuyk presented proposed amendments to Executive Officer
+       Compensation for FY2025.
+
+       Mayor Walker opened a public hearing, and closed the public hearing
+       seeing no one come forward.
+
+       Councilmember Green moved to approve Resolution #24-67.
+       Councilmember Vawdrey seconded the motion.
+
+       A roll call vote was taken. The motion passed unanimously.
+                                       Yes No Absent
+        Councilmember Green             X
+        Councilmember Johnson           X
+
+                                                                           7|Page
+      Councilmember T. Lowery      X
+      Councilmember F. Lowry       X
+      Councilmember Vawdrey        X
+
+11.   Adjournment
+      Councilmember Green moved to adjourn the meeting. The motion
+      passed by unanimous voice vote (5-0).
+
+      The meeting adjourned at 8:07 pm.
+
+
+
+
+                                                           8|Page
+

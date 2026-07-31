@@ -1,0 +1,309 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_01282026-612
+> Meeting date: 2026-01-28
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 01282026-612 | label: Council WM Meeting 2026-01-28 | date: 2026-01-28 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_01282026-612 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday January 28, 2026
+                                                             7:00 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  LeAnne Huff
+
+PLEDGE OF ALLEGIANCE :                                       Clarissa Williams
+
+SERGEANT AT ARMS:                                            Spencer Redden, Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum,
+      Nick Mitchell, Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Jared Christensen, Deputy Fire Chief
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Joseph Dane, Communications Manager
+       Crystal Makin, Finance Director
+       Eliza Ungricht, Community Development Deputy Director
+       Spencer Cawley, Senior Planner
+       Tereza Bagdasarova, City Planner
+       Matt Robins, Executive Assistant
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      December 10th, Work Meeting
+      January 14th, Regular Meeting
+
+
+Council Chair Bynum made a motion to approve the minutes listed above.
+
+
+                                             1
+South Salt Lake – Regular Council Meeting                                        January 28, 2026
+
+
+MOTION: Sharla Bynum
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:           Yes
+Huff:            Yes
+Mitchell:        Yes
+deWolfe:         Yes
+Thomas:          Yes
+Williams:        Yes
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—February 11th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          Hazel Stout, South Salt Lake resident, shared some concerns regarding recent
+          national news and expressed his wish for the City’s police department to not
+          cooperate with U.S. Immigration and Customs Enforcement.
+
+              Rebecca Baker, Granite Library staff, shared some upcoming events and activities at
+              the local library.
+
+              Tom Mills, South Salt Lake resident, shared some concerns regarding recent national
+              news.
+
+              Joy Glad, South Salt Lake resident, shared some safety concerns near the UTA S-Line
+              in the City’s downtown area.
+
+              Ashley M, South Salt Lake resident, shared some concerns regarding recent national
+              news and expressed his wish for the City’s police department to not cooperate with
+              U.S. Immigration and Customs Enforcement.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood re-shared a statement that was first shared at the previous meeting
+          that acknowledged residents’ concerns over recent national news.
+
+              The City was also highlighted in January/February’s issue of Good Housekeeping for
+              its kindness initiatives.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member deWolfe thanked those that shared comments and concerns
+          during the public comments portion of the meeting.
+
+
+                                                 2
+South Salt Lake – Regular Council Meeting                                       January 28, 2026
+
+
+             Council Member Williams shared comments regarding the importance of tuning into
+             current events.
+
+             Council Member Thomas thanked those that shared comments and concerns during
+             the public comments portion of the meeting.
+
+             Council Chair Bynum thanked those that shared comments and concerns during the
+             public comments portion of the meeting. She also shared a brief statement to
+             provide some clarity on what led to the vacancy in the District 5 City Council seat.
+
+             Council Member Mitchell encouraged residents not to be afraid.
+
+             Council Member Huff thanked those that shared comments and concerns during the
+             public comments portion of the meeting. She also shared a statement that
+             announced her resignation from the District 1 City Council seat.
+
+Action Items
+Appointments by the Mayor
+    1. Appointment: Ramona Lopez – Civilian Review Board Alternate Member
+        The Mayor presented the following individual to the Council for their advice and
+        consent as a new appointment.
+
+        A copy of the resume, which was provided to the Council at the Work Meeting, is
+        attached and incorporated by this reference.
+
+        Council Chair Bynum made a motion to appoint Ms. Lopez as a Civilian Review Board
+        Alternate Member.
+
+
+MOTION: Sharla Bynum
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+    2. Reappointment: Jeremy Carter – Planning Commissioner
+       The Mayor presented the following individual to the Council for their advice and
+       consent as a new appointment.
+
+        A copy of the resume, which was provided to the Council at the Work Meeting, is
+        attached and incorporated by this reference.
+
+        Council Member deWolfe made a motion to reappoint Mr. Carter as a Planning
+                                                3
+South Salt Lake – Regular Council Meeting                                         January 28, 2026
+
+
+        Commissioner.
+
+
+MOTION: Ray deWolfe
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+    3. Reappointment: Olivia Spencer – Planning Commissioner
+       The Mayor presented the following individual to the Council for their advice and
+       consent as a new appointment.
+
+        A copy of the resume, which was provided to the Council at the Work Meeting, is
+        attached and incorporated by this reference.
+
+        Council Member Mitchell made a motion to reappoint Ms. Spencer as a Planning
+        Commissioner.
+
+MOTION: Nick Mitchell
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+Unfinished Business
+    1. An Ordinance of the South Salt Lake City Council Amending Chapters 17.01, 17.03,
+        17.05, 17.06, and 17.07 of the South Salt Lake City Municipal Code to Authorize a
+        Dwelling, Micro-Unit Conditional Land Use.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Chair Bynum made a motion to approve the Ordinance.
+
+
+MOTION: Sharla Bynum
+SECOND: Clarissa Williams
+
+
+                                               4
+South Salt Lake – Regular Council Meeting                                         January 28, 2026
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+    2. An Ordinance of the South Salt Lake City Council Amending Exhibit B of Ordinance
+       2025-11 to Include Certain Data Points in the Legal Description Included in the
+       Ordinance Authorizing the Abandonment of a Portion of Oakland Avenue Located
+       Between West Temple and 200 West.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Chair Bynum made a motion to approve the Ordinance.
+
+
+MOTION: Sharla Bynum
+SECOND: Ray deWolfe
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+    3. A Resolution of the South Salt Lake City Council Acknowledging Receipt of the
+       Independent Auditor’s Report for Fiscal Year 2024-25 and Directing that Notice be
+       Published Pursuant to Section 10-6-152 of the Utah Code.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Resolution.
+
+
+MOTION: Clarissa Williams
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+                                               5
+South Salt Lake – Regular Council Meeting                            January 28, 2026
+
+
+
+       Council Chair Bynum made a motion to Adjourn.
+
+
+MOTION: Sharla Bynum
+SECOND: Nick Mitchell
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+deWolfe:       Yes
+Thomas:        Yes
+Williams:      Yes
+
+
+
+
+       The meeting adjourned at 7:51 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            6

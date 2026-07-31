@@ -1,0 +1,253 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=317&doc_id=0f61e8e1-2e69-11eb-bc32-0050569183fa
+> Meeting date: 2020-09-10
+> Format: text
+
+Approved November 19, 2020
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION ELECTRONIC
+MEETING HELD ON THURSDAY, SEPTEMBER 10, 2020 IN THE DRAPER CITY
+COUNCIL CHAMBERS
+
+PARTICIPATING
+ELECTRONICALLY:           Vice Chairman Craig Hawker, Commissioners Kent Player, Gary
+                          Ogden, Mary Squire, and John Van Hoff, Alternate Commissioners
+                          Lisa Fowler and Tab Bingham
+
+ABSENT:                   Chairperson Andrew Adams, Alternate Commissioner DeLaina Tonks
+
+STAFF PRESENT:            Jennifer Jastremsky, Brien Maxfield, Travis Van Ekelenburg, Mike
+                          Barker, Amie Salazar and Todd Draper
+
+STAFF PRESENT
+ELECTRONICALLY:           Christina Oliver, Tom Draper, and Spencer DuShane
+
+
+
+
+6:30 PM Business Meeting
+
+The Agenda will be as follows:
+
+Electronic Meeting Notice
+
+This meeting will be held electronically
+   • Listen through our website - https://www.draper.ut.us/95/Agendas-Minutes
+   • Email your comments to the project planner listed on the agenda item below by Noon on
+      the day of the meeting. These will become part of the public record.
+   • If you wish to speak during the Public Comment or Public Hearings portion of the
+      meeting, please send a request for the Zoom Meeting ID to the project planner listed on
+      the agenda item below by noon, on the day of the meeting.
+
+Determination 2020-09, pursuant to Utah Code Annotated 52-4-207(4)
+A.      I, Planning Commission Chair Andrew Adams, do hereby determine conducting an
+electronic meeting of the Draper City Planning Commission with an anchor location presents a
+substantial risk to the health and safety of those who may be present at the anchor location and
+hereby authorize the Draper City Planning Commission to conduct electronic meetings without
+an anchor location.
+B.      The foregoing determination is based on the following facts:
+        •       Federal, state and local leaders, including the Draper City Mayor and City
+        Council, have all recognized a global pandemic caused by the spread of the COVID-19
+        virus.
+        •       COVID-19 cases continue to fluctuate at high levels and hospitalizations in Salt
+Draper City Planning Commission Meeting
+September 10, 2020
+Page 2
+Lake County and Draper continue at high rates, both of which pose a risk of overburdening the
+local health care system.
+        •       It is difficult, if not impossible, to predict the number of attendees at any
+meeting and to manage issues regarding social distancing in order to comply with State Phased
+Guidelines.
+        •       COVID-19 poses a continuing and immediate threat to the health, safety, and
+welfare of Draper City residents.
+        •       The City has the technological capability to provide means by which the public
+may hear, or view and hear, the open portions of the meeting and to participate in public hearings.
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for August 13, 2020
+       (Administrative Action)
+
+       Motion re: Commissioner Lisa Fowler made a motion to approve the meeting minutes
+       dated August 13, 2020 and Commissioner Gary Ogden seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+       motion. This item passed with a 4 to 0 vote.
+
+2.     Action Item: The Annex Plat Amendment Extension Request (Administrative
+       Action)
+       On the request of Clayton Morgan, for an extension of time to the approval for The
+       Annex Plat Amendment located at 690 East 12200 South, application SUBD-733-2019.
+       Staff contact is Jennifer Jastremsky, 801-576-6328, jennifer.jastremsky@draper.ut.us
+
+       Jennifer Jastremsky stated this property was located 690 East 12200 South and it was
+       office service designation and office residential zoning. This application had already been
+       approved, but the applicant was requesting a six-month extension on this decision which
+       will change the expiration date to March 12, 2020.
+
+       Vice Chair Craig Hawker asked if this extension was due to a timing issue.
+
+       Ms. Jastremsky replied it was a timing issue and a funding issue.
+
+       Applicant Clayton Morgan commented this extension request would help work out
+       several issues. He had found out there was an additional requirement for getting a bond.
+
+       Vice Chair Hawker commented they had given an extension in the past and wondered if
+       giving the extension would help him complete this project.
+
+       Mr. Morgan replied he was not sure, but it would help him sort out the issues in the
+       project.
+
+       Vice Chair Hawker asked if there were any comments and there were none.
+Draper City Planning Commission Meeting
+September 10, 2020
+Page 3
+       Motion re: Commissioner Player made a motion to approve the Plat Amendment
+       Extension as requested by Clayton Morgan SUBD-733-2019 subject to the conditions
+       listed in the staff report dated 2020 and Commissioner Fowler seconded the motion.
+
+      Vote: A roll call vote was taken with Commissioners voting unanimously in favor of the
+      motion. This item passed with a 4 to 0 vote.
+
+3.    Public Hearing: Silverlou Minor Subdivision (Administrative Action)
+      On the request by Shauna Hatton-Ward for a deviation from required street
+      improvements for approximately 1.77 acres located on the east side of Fort Street at
+      13455 South Fort Street. The applicant is requesting a deviation from required street
+      improvements, specifically curb, gutter and sidewalk on a private street. Application
+      SUBD-546-2019. Staff contact is Travis Van Ekelenburg, 801-576-5622,
+      travis.vanekelenburg@draper.ut.us.
+
+      Travis Van Ekelenburg presented on this item. He stated this application from Silverlou
+      Subdivision was asking for a curb, gutter, and sidewalk deviation. This property was
+      designated as residential low to medium density and was RA2 zoning. The applicant had
+      run into issues during the initial lot construction phase. The contractor had stated the
+      street improvements planned to be made would be difficult to construct. They were not
+      required to amend the plat; they were only required to bring the deviation to the Planning
+      Commission. The applicant was proposing to do 26 feet of asphalt for the private lane.
+
+      Vice Chair Hawker asked for the history on why the applicant requested this deviation.
+
+      Mr. Van Ekelenburg replied they could not do the original sidewalk plan without
+      damaging neighboring properties
+
+      Commissioner John Van Hoff asked what the width of the existing pavement was.
+
+      City Engineer Brien Maxfield stated the current right of way design met City standards,
+      but the existing concrete did not meet the standards. The applicant wanted to replace the
+      concrete with asphalt.
+
+      Commissioner Gary Ogden asked about the private lane.
+
+      Mr. Maxfield replied they would just be removing the concrete ribbon and would be
+      putting asphalt in its place.
+
+      Commissioner Fowler asked if the concrete ribbon served a purpose.
+
+      Mr. Maxfield replied it helped prevent asphalt deterioration and also gave drivers a heads
+      up that they were getting too close to the edge of the road
+
+      Applicant Shauna Hatton-Ward stated adding the asphalt would meet fire codes. There
+      would not be any compromising with the structure of the road.
+Draper City Planning Commission Meeting
+September 10, 2020
+Page 4
+       Attorney Paxton Guymon commented he wanted to clarify a couple of things. This was a
+       three-lot subdivision that had already been approved. They would not be shrinking the
+       roadway; the only difference was all 26 feet would be asphalt instead of 22 feet of asphalt
+       and 4 feet of concrete. The contractors had told the applicant that putting in concrete
+       would ruin the new fences that had been installed.
+
+       Vice Chair Hawker asked why they would not just put concrete on the side without the
+       fence.
+
+       Ms. Hatton Ward replied aesthetically it would look better with just asphalt on all of it
+       and would be more structurally sound. She would be in charge of upkeep costs and
+       wanted to make sure this private lane lasted.
+
+       Vice Chair Hawker opened the public hearing.
+
+       Brandon Robertson stated the issue with the plat is that it was originally approved before
+       the fence existed. He believed the fence did leave room for concrete and was worried
+       about the drainage, drivers going off the road, and making the road look less aesthetically
+       pleasing. He wished to see the concrete strip to be put in.
+
+       Alan Summerhays commented he had built this lane. He had put the utilities in. Russel
+       Fox called him when staff decided to widen lane. No one ever mentioned a sidewalk. He
+       was all for shrinking the road down and putting the trees back. He thought the property
+       was ruined by taking out the trees. He was for the deviation.
+
+       Vice Chair Hawker closed the public hearing.
+
+       Ms. Hatton-Ward stated this was three years in the making. She did everything she could
+       to meet requirements for Draper City. She was asking to do 26 feet of asphalt rather than
+       have concrete ribbons. She wanted to make it look nice as possible while still meeting
+       City standards.
+
+       Vice Chair Hawker asked if she really wanted to keep this a private lane or if she was just
+       trying to save money in materials.
+
+       Ms. Hatton-Ward replied she wanted to keep this a private lane.
+
+       Mr. Van Hoff did not have any issue with putting asphalt instead of concrete on the
+       private lane.
+
+       Mr. Guymon commented that drainage and swells would not be affected by the material
+       installed in the road.
+
+       Mr. Maxfield mentioned this was a private road and the applicant would be responsible
+       for the upkeep.
+Draper City Planning Commission Meeting
+September 10, 2020
+Page 5
+       Vice Chair Hawker asked if they had to put in an entire new road of asphalt.
+
+       Mr. Maxfield stated they would be putting an entirely new overlay of the private lane.
+
+       Ms. Hatton-Ward stated this road was put in 40 years ago. They would be putting in a
+       new overlay and put in new asphalt in some spots.
+
+       Motion re: Commissioner Player made a motion to approve the deviation site plan subject
+       to the conditions in the staff report dated September 1, 2020 and Commissioner Van Hoff
+       seconded the motion.
+
+       Vote: A roll call vote was taken with Commissioners Player, Ogden, and Von Hoff voting
+       in favor of the motion and Commissioner Fowler voting nay. This item passed with a 3 to
+       1 vote.
+
+4.     Public Hearing: King and Laurel Aesthetic Corp Home Conditional Use Permit
+       (Administrative Action)
+       On the request of David and Daphne Garcia for approval of a Home Occupation
+       Conditional Use Permit. The property is 0.32 acres in size and is located at approximately
+       13313S Laurel Park Lane. Application: USE-1038-2020. Staff contact Todd Draper, (801)
+       576-6355 or todd.draper@draper.ut.us.
+
+       Todd Draper presented this item. He stated this was a home occupation request. The
+       property is designated as low to medium density area and zoned RA2. Their business was
+       by appointment only, parking was only in the driveway, did not exceed inventory limits,
+       and they would be the only employees. There would be no problematic odors and would
+       not be advertising with signs on their property. This business would be in the evenings
+       only.
+
+       Vice Chair Hawker opened the public hearing.
+
+       Vice Chair Hawker closed the public hearing.
+
+       Motion re: Commissioner Van Hoff made a motion to approve the Home Occupation
+       Conditional Use Permit as requested by David and Daphne Garcia based on the staff report
+       dated August 28, 2020 and Commissioner Player seconded the motion.
+
+       Commissioner Fowler mentioned they had received public comment on this. Neighbors
+       were concerned about traffic, but she mentioned it would only be one car at a time.
+
+       Vice Chair Hawker agreed this business would not create any issues.
+
+       Vote: A roll call vote was taken with Commissioners voting unanimously against the
+       motion. This item passed with a 4 to 0 vote.
+
+5.     Adjournment
+Draper City Planning Commission Meeting
+September 10, 2020
+Page 6
+
+      Vice Chairman Hawker called for a vote to adjourn the meeting and all were unanimous in
+      favor of adjournment.
+
+      The meeting adjourned at 7:33 pm
+

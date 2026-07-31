@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date": null, "name": "Rachel Fost", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Alex Oser", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Susan Johnston", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Brandee Boyer", "amount": "604.94", "in_kind": false},
+    {"date": null, "name": "Kathryn Duke", "amount": "25.00", "in_kind": false},
+    {"date": null, "name": "Daniel Erickson", "amount": "50.00", "in_kind": false},
+    {"date": null, "name": "Scott Goss", "amount": "10.00", "in_kind": false},
+    {"date": null, "name": "Edelmira Medina", "amount": "5", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "On the cheap", "purpose": null, "amount": "65.99", "in_kind": false},
+    {"date": null, "recipient": "RUN!", "purpose": null, "amount": "300.00", "in_kind": false},
+    {"date": null, "recipient": "Office Depot", "purpose": null, "amount": "70.00", "in_kind": false},
+    {"date": null, "recipient": "Vista Print", "purpose": null, "amount": "119.23", "in_kind": false},
+    {"date": null, "recipient": "Run!", "purpose": null, "amount": "300.00", "in_kind": false}
+  ],
+  "total_contributions": "994.94",
+  "total_expenditures": "975.13",
+  "contributions_50_or_less": "90.00",
+  "beginning_balance": "0.00",
+  "ending_balance": "19.81",
+  "_meta": {
+    "index_path": "raw/2025_01_Brandee-Boyer.pdf",
+    "candidate": "Brandee Boyer",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_01_Brandee-Boyer.pdf",
+    "pages": 5
+  }
+}

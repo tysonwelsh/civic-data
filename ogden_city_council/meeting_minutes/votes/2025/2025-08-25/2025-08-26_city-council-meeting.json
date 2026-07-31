@@ -1,0 +1,62 @@
+{
+ "date": "2025-08-26",
+ "year": 2025,
+ "title": "City Council Meeting",
+ "body_default": "Council",
+ "source": "meeting_minutes/minutes/2025/2025-08-25/2025-08-26_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "MOVED TO APPROVE THE MINUTES AS PRESENTED. MOTION WAS SECONDED BY VICE CHAIR HYER,",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice Pass",
+   "mover": null,
+   "seconder": "Richard A. Hyer",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "ON A MOTION BY COUNCIL MEMBER MYERS AND SECONDED BY VICE CHAIR HYER, ORDINANCE 2025-27 WAS ADOPTED [ENTITLED: \"An ordinance of Ogden City, Utah, amending the Ogden Municipal Code Chapter 1 of Title 10 to revise provisions to the Ogden City motor vehicle statutes; to make technical changes; to appropriately revise the index and by providing that this ordinance shall become effective immediately upon posting after final passage.\"]",
+   "motion_type": "Ordinance",
+   "result": "5-0 Pass",
+   "mover": "Shaun Myers",
+   "seconder": "Richard A. Hyer",
+   "aye": [
+    "Bart E. Blair",
+    "Angela Choberka",
+    "Shaun Myers",
+    "Richard A. Hyer",
+    "Marcia L. White"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "subject": "An ordinance of Ogden City, Utah, amending the Ogden Municipal Code Chapter 1 of Title 10 to revise provisions to the Ogden City motor vehicle statutes; to make technical changes; to appropriately revise the index and by providing that this ordinance shall become effective immediately upon posting after final passage.",
+   "subject_source": "ENTITLED",
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "MOVED THE MEETING ADJOURN AT 6:23 P.M. MOTION WAS SECONDED BY COUNCIL MEMBER CHOBERKA,",
+   "motion_type": "Procedural/Administrative",
+   "result": "Voice Pass",
+   "mover": null,
+   "seconder": "Angela Choberka",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 3
+  }
+ ]
+}

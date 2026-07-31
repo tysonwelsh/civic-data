@@ -1,0 +1,169 @@
+{
+ "config": {
+  "contest": "2023 Payson City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Payson, Utah",
+  "office": "City Council",
+  "threshold": "1022"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "ANNE MOSS": 330.0,
+    "BRIAN V. HULET": 715.0,
+    "CARL BRINES": 103.0,
+    "EASTON BRADY": 227.0,
+    "KIRK BEECHER": 193.0,
+    "LACEE MAE SMITH": 296.0,
+    "TEANCUM J. CLARK": 127.0,
+    "TYLER WILLIAM MOORE": 211.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "CARL BRINES",
+     "transfers": {
+      "ANNE MOSS": 21.0,
+      "BRIAN V. HULET": 20.0,
+      "EASTON BRADY": 7.0,
+      "KIRK BEECHER": 16.0,
+      "LACEE MAE SMITH": 15.0,
+      "TEANCUM J. CLARK": 12.0,
+      "TYLER WILLIAM MOORE": 11.0,
+      "Inactive Ballots": 1.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "ANNE MOSS": 351.0,
+    "BRIAN V. HULET": 735.0,
+    "EASTON BRADY": 234.0,
+    "KIRK BEECHER": 209.0,
+    "LACEE MAE SMITH": 311.0,
+    "TEANCUM J. CLARK": 139.0,
+    "TYLER WILLIAM MOORE": 222.0,
+    "Inactive Ballots": 1.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TEANCUM J. CLARK",
+     "transfers": {
+      "ANNE MOSS": 27.0,
+      "BRIAN V. HULET": 30.0,
+      "EASTON BRADY": 24.0,
+      "KIRK BEECHER": 7.0,
+      "LACEE MAE SMITH": 25.0,
+      "TYLER WILLIAM MOORE": 17.0,
+      "Inactive Ballots": 9.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "ANNE MOSS": 378.0,
+    "BRIAN V. HULET": 765.0,
+    "EASTON BRADY": 258.0,
+    "KIRK BEECHER": 216.0,
+    "LACEE MAE SMITH": 336.0,
+    "TYLER WILLIAM MOORE": 239.0,
+    "Inactive Ballots": 10.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KIRK BEECHER",
+     "transfers": {
+      "ANNE MOSS": 47.0,
+      "BRIAN V. HULET": 78.0,
+      "EASTON BRADY": 29.0,
+      "LACEE MAE SMITH": 23.0,
+      "TYLER WILLIAM MOORE": 30.0,
+      "Inactive Ballots": 9.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "ANNE MOSS": 425.0,
+    "BRIAN V. HULET": 843.0,
+    "EASTON BRADY": 287.0,
+    "LACEE MAE SMITH": 359.0,
+    "TYLER WILLIAM MOORE": 269.0,
+    "Inactive Ballots": 19.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "TYLER WILLIAM MOORE",
+     "transfers": {
+      "ANNE MOSS": 62.0,
+      "BRIAN V. HULET": 78.0,
+      "EASTON BRADY": 57.0,
+      "LACEE MAE SMITH": 50.0,
+      "Inactive Ballots": 22.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "ANNE MOSS": 487.0,
+    "BRIAN V. HULET": 921.0,
+    "EASTON BRADY": 344.0,
+    "LACEE MAE SMITH": 409.0,
+    "Inactive Ballots": 41.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "EASTON BRADY",
+     "transfers": {
+      "ANNE MOSS": 112.0,
+      "BRIAN V. HULET": 71.0,
+      "LACEE MAE SMITH": 115.0,
+      "Inactive Ballots": 46.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 6,
+   "tally": {
+    "ANNE MOSS": 599.0,
+    "BRIAN V. HULET": 992.0,
+    "LACEE MAE SMITH": 524.0,
+    "Inactive Ballots": 87.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "LACEE MAE SMITH",
+     "transfers": {
+      "ANNE MOSS": 289.0,
+      "BRIAN V. HULET": 162.0,
+      "Inactive Ballots": 73.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 7,
+   "tally": {
+    "ANNE MOSS": 888.0,
+    "BRIAN V. HULET": 1154.0,
+    "Inactive Ballots": 160.0
+   },
+   "tallyResults": [
+    {
+     "elected": "BRIAN V. HULET",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

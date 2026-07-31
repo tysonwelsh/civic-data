@@ -1,0 +1,336 @@
+Lehi City Council — vote extraction validation report
+========================================================================
+Meetings with JSON : 175
+Motions extracted  : 1253
+
+Body counts (RDA business is minuted in a SEPARATE record, so in-council RDA
+brackets are back-to-back/empty -> RDA=0 here is expected; MBA = the standalone
+Local Building Authority meetings):
+   Council  1245
+   RDA      0
+   MBA      8
+
+Motion-type distribution:
+   Land-Use/Zoning              610
+   Resolution                   260
+   Procedural/Administrative    115
+   Contract/Purchase            85
+   Appointment                  44
+   Ordinance                    43
+   Budget Amendment             31
+   Interlocal                   26
+   Other                        26
+   Grant-Funding                11
+   Ceremonial                   1
+   Public Hearing Action        1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year).
+The Mayor (Mark Johnson / Paul Binns) should NOT appear as a routine voter —
+only on explicit tie-breaks (listed separately below).
+------------------------------------------------------------------------
+
+2020:
+   Paige Albrecht         232
+   Mike Southwick         232
+   Katie Koivisto         232
+   Paul Hancock           217
+   Chris Condie           216
+
+2021:
+   Paige Albrecht         167
+   Katie Koivisto         167
+   Chris Condie           165
+   Mike Southwick         156
+   Paul Hancock           155
+
+2022:
+   Mike Southwick         214
+   Paul Hancock           212
+   Katie Koivisto         212
+   Paige Albrecht         202
+   Chris Condie           195
+   Mark Johnson           1   <-- MAYOR (tie-break only)
+
+2023:
+   Paige Albrecht         225
+   Chris Condie           225
+   Katie Koivisto         225
+   Mike Southwick         225
+   Paul Hancock           224
+   Mark Johnson           1   <-- MAYOR (tie-break only)
+
+2024:
+   Paige Albrecht         191
+   Heather Newall         191
+   Michelle Stallings     191
+   Chris Condie           190
+   Paul Hancock           190
+   Mark Johnson           1   <-- MAYOR (tie-break only)
+
+2025:
+   Paul Hancock           208
+   Heather Newall         208
+   Michelle Stallings     208
+   Chris Condie           197
+   Paige Albrecht         191
+   Mark Johnson           1   <-- MAYOR (tie-break only)
+
+2026:
+   Rachel Freeman         16
+   James Harrison         16
+   Emily Lockhart         16
+   Heather Newall         16
+   Michelle Stallings     16
+
+------------------------------------------------------------------------
+MAYOR TIE-BREAK VOTES (Mayor cast a recorded vote): 4
+------------------------------------------------------------------------
+   2022-06-14 m21: Mark Johnson voted Aye  (City Council)
+   2023-04-11 m21: Mark Johnson voted Aye  (City Council)
+   2024-03-26 m6: Mark Johnson voted Nay  (City Council)
+   2025-12-16 m14: Mark Johnson voted Aye  (City Council)
+
+------------------------------------------------------------------------
+TALLY-VS-RESULT MISMATCHES (named count != minutes' printed tally): 2
+Not auto-corrected — each flags a source typo or a parse miss to hand-review.
+------------------------------------------------------------------------
+   2023-01-24 m3: named aye=3 nay=1 but printed tally 4:1 :: 3:1 Pass :: Consideration of Ordinance #09-2023 amending Title 3 Chapter 2, Planni
+   2025-03-18 m13: named aye=3 nay=1 but printed tally 4:0 :: 3:1 Pass :: Councilor Condie moved to temporarily leave the Council meeting and mo
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (seated voters != 5): 123
+Usually a brief vacancy/oath-of-office period or a partial roll call; reviewed.
+------------------------------------------------------------------------
+   2020-01-28 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Minutes from the January 14, 2020 City Council Meeti
+   2020-01-28 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Forrest Annexation a. Public Hearing Mayor Johnson opened th
+   2020-01-28 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-07, approval of the annexa
+   2020-01-28 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Plat Amendment approval for The Walks at Iv
+   2020-01-28 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-06, a resolution of Intent
+   2020-01-28 [Council] m7: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Concept Plan approval for the Clark Propert
+   2020-01-28 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Taylor Meadows Annexation a. Public Hearing Mayor Johnson op
+   2020-01-28 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final Subdivision approval for the Northrid
+   2020-01-28 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final Subdivision approval for the Northrid
+   2020-01-28 [Council] m11: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Final Subdivision approval for The Exchange
+   2020-01-28 [Council] m12: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Boundary Adjustment with Saratoga Springs a. Public Hearing 
+   2020-01-28 [Council] m13: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final Subdivision approval of The Hub at Le
+   2020-01-28 [Council] m14: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #05-2020, approval of the Public 
+   2020-01-28 [Council] m15: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Boundary Adjustment with Highland City a. Public Hearing May
+   2020-01-28 [Council] m16: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-08, approval of a street n
+   2020-02-25 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Minutes from the February 4, 2020 Budget Retreat and
+   2020-02-25 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Osmond Annexation a. Public Hearing Mayor Johnson opened the
+   2020-02-25 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: FY2020 Budget Amendment a. Public Hearing The Mayor opened t
+   2020-02-25 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-11, appointing a Board Mem
+   2020-02-25 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-12, appointing a Board Mem
+   2020-07-28 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Declare certain Lehi City personal property as surplus
+   2020-07-28 [Council] m2: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #41-2020, the Center Pointe Towns
+   2020-07-28 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Concept approval for the Traverse Mountain 
+   2020-07-28 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision approval for the Cedar Ri
+   2020-07-28 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final Subdivision approval for the Ellswort
+   2020-07-28 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #42-2020, the Black zone change, 
+   2020-07-28 [Council] m7: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #43-2020, a General Plan Amendmen
+   2020-07-28 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Concept approval for the Hadfield Estates, 
+   2020-07-28 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #44-2020, a Development Code Amen
+   2020-07-28 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2020-52, appointing a Board Mem
+   2020-07-28 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Hancock moved to Adjourn into a Closed Executive S
+   2021-05-11 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consent Agenda 3.1 Approve Minutes from the April 27, 2021 m
+   2021-05-11 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Community Development Block Grant (CDBG) Annual Action Plan 
+   2021-05-11 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Preliminary and Final subdivision approval 
+   2021-05-11 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision approval for the Hidden C
+   2021-05-11 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #18-2021, the Concord Homes Zone 
+   2021-05-11 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #19-2021, approval of the Lakevie
+   2021-05-11 [Council] m7: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #20-2021, a Development Code amen
+   2021-05-11 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision approval for the Willow P
+   2021-05-11 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-27, approving a building l
+   2021-05-11 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Staker & Parson Agreement and Purchase Order a. Consideratio
+   2021-05-11 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-29, appointing a Board Mem
+   2021-05-11 [Council] m12: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Albrecht moved to adjourning into a Closed Session
+   2021-05-25 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consent Agenda 3.1 Approve Minutes from the May 4 Work Sessi
+   2021-05-25 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-34, declaring support for 
+   2021-05-25 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-21, adopting a Tentative B
+   2021-05-25 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-32, taking formal action t
+   2021-05-25 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision approval for the Mendenha
+   2021-05-25 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of approval for the Ivory Ridge Plat B, amendi
+   2021-05-25 [Council] m7: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision approval for the Timp Poi
+   2021-05-25 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Final subdivision review and plat amendment
+   2021-05-25 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-31, approving the Triumph 
+   2021-05-25 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-33, approving a first amen
+   2021-05-25 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-35, appointing an Alternat
+   2021-09-07 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2021-51, appointing Emily Britt
+   2021-10-05 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Condie moved to adjourn into a Closed Session to d
+   2022-01-25 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-06, the 1st Storage Annexa
+   2022-01-25 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Albrecht moved to table the Final subdivision appr
+   2022-02-22 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Purchase Orders
+   2022-02-22 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #09-2022, the MDT zone change on 
+   2022-02-22 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #13-2022, the Morgan Property zon
+   2022-02-22 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #14-2022, the Trinnaman Lane zone
+   2022-02-22 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of the 1st Storage Annexation, annexing 3.85-a
+   2022-02-22 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of the 1st Storage Annexation, annexing 3.85-a
+   2022-02-22 [Council] m7: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Preliminary subdivision approval for The Lo
+   2022-02-22 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of approval for the Curtis Center Backbone Roa
+   2022-02-22 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #16-2022, an amendment to the Leh
+   2022-02-22 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-09, approving an Interloca
+   2022-02-22 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #11-2022, amending Title 9 Chapte
+   2022-02-22 [Council] m12: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #12-2022, adopting Title 3 Chapte
+   2022-02-22 [Council] m13: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-12, adopting voter partici
+   2022-02-22 [Council] m14: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-14, appointing a Board Mem
+   2022-02-22 [Council] m15: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-15, appointing a Board Mem
+   2022-02-22 [Council] m16: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-16, appointing a Board Mem
+   2022-02-22 [Council] m17: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Hancock moved to adjourn into a Closed Session to 
+   2022-02-22 [Council] m18: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-13, appointing an Alternat
+   2022-03-01 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Purchase Orders
+   2022-03-01 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Preliminary subdivision approval of Lehi Te
+   2022-03-01 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #17-2022 a General Plan Amendment
+   2022-04-26 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Purchase Orders Lehi City Council Meeting           
+   2022-04-26 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-30, approving a master ser
+   2022-04-26 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Kiene Addition Annexation, 5-acres of property located at 75
+   2022-04-26 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Kiene Addition Annexation, 5-acres of property located at 75
+   2022-04-26 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Koivisto moved to un-table the item. Councilor Sou
+   2022-04-26 [Council] m6: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #26-2022, approving the Fort Stre
+   2022-04-26 [Council] m7: 4 voters (expected 5) :: aye=3 nay=0 abstain=0 absent=1 recuse=0 :: Consideration of Final subdivision approval for the Summers’
+   2022-04-26 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-33, approving an Interloca
+   2022-04-26 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2022-34, approving an agreement
+   2022-04-26 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Condie moved to adjourn into an RDA meeting. Counc
+   2022-04-26 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #27-2022, dissolving the Millpond
+   2022-04-26 [Council] m12: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #28-2022, dissolving the Alpine H
+   2022-06-14 [Council] m21: 6 voters (expected 5) :: aye=3 nay=2 abstain=0 absent=1 recuse=0 :: Consideration of Ordinance #31-2022, approving the Kelly Gen
+   2023-04-11 [Council] m21: 6 voters (expected 5) :: aye=3 nay=2 abstain=0 absent=1 recuse=0 :: Consideration of Ordinance #26-2023 approval of amendments t
+   2023-09-19 [Council] m15: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2023-64 approving an amendment 
+   2024-03-26 [Council] m6: 6 voters (expected 5) :: aye=2 nay=3 abstain=0 absent=1 recuse=0 :: Consideration of Concept approval for the updated Skyridge S
+   2024-12-03 [Council] m1: 3 voters (expected 5) :: aye=3 nay=0 abstain=0 absent=0 recuse=0 :: Councilor Stallings moved to Adjourn into a Closed Session f
+   2025-09-23 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-70 approving an agreement 
+   2025-09-23 [Council] m9: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-72 approving a General Ser
+   2025-09-23 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-71 approving a second amen
+   2025-09-23 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #58-2025 Water’s Edge General Pla
+   2025-10-14 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Re-Approve Ordinance #54-2025, terminating and dissolving th
+   2025-10-14 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #59-2025, approving a Development
+   2025-10-14 [Council] m3: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: The JDH Olson Annexation, including 5.08 acres, located at a
+   2025-10-14 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: The JDH Olson Annexation, including 5.08 acres, located at a
+   2025-10-14 [Council] m5: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #62-2025, approving the Lee Gener
+   2025-10-14 [Council] m6: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #60-2025, approving the Bull Rive
+   2025-10-14 [Council] m7: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #61-2025, approving the Starter H
+   2025-12-16 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-86 appointing Planning Com
+   2025-12-16 [Council] m2: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-98 approving a real estate
+   2025-12-16 [Council] m3: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-86 appointing Planning Com
+   2025-12-16 [Council] m4: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Budget Amendment #3
+   2025-12-16 [Council] m5: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-96, approval of the Foreba
+   2025-12-16 [Council] m6: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #67-2025, approving the Downtown 
+   2025-12-16 [Council] m7: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #71-2025, approving the Water Use
+   2025-12-16 [Council] m8: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #68-2025, approving the Gurney Pr
+   2025-12-16 [Council] m9: 4 voters (expected 5) :: aye=3 nay=1 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #69-2025, approving the Lee Zone 
+   2025-12-16 [Council] m10: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-91, approving the Hammond 
+   2025-12-16 [Council] m11: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #70-2025, approving the Hammond Z
+   2025-12-16 [Council] m12: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-92, approving the Water’s 
+   2025-12-16 [Council] m13: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Ordinance #72-2025, approving the Water’s E
+   2025-12-16 [Council] m15: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-95 adopting procedures gov
+   2025-12-22 [Council] m1: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Approve Meeting Minutes
+   2025-12-22 [Council] m2: 4 voters (expected 5) :: aye=4 nay=0 abstain=0 absent=0 recuse=0 :: Consideration of Resolution #2025-103 appointing a member to
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the analytical signal: 99
+------------------------------------------------------------------------
+   2020-01-14 [Council] m8 1:4 Fail | AYE=['Katie Koivisto'] NAY=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilor Koivisto amended her motion to include that she would like to             have m
+   2020-01-14 [Council] m9 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Preliminary subdivision approval for the Parkview Cottages, a 66-unit res
+   2020-01-14 [Council] m10 4:1 Pass | AYE=['Chris Condie', 'Paige Albrecht', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: He said the Commercial zone fits better here as described in the submitted report. He stat
+   2020-01-28 [Council] m11 3:1 Pass | AYE=['Chris Condie', 'Paige Albrecht', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Final Subdivision approval for The Exchange II Phase 21, a 62-unit reside
+   2020-02-11 [Council] m3 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #09-2020, approval of the Jonsson Park Towns Zone Change, appro
+   2020-02-11 [Council] m4 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Preliminary Plat approval for the Jonsson Park Towns, a 59-unit residenti
+   2020-02-11 [Council] m5 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #10-2020, approval of the Pine Springs General Plan Amendment f
+   2020-03-31 [Council] m3 2:3 Fail | AYE=['Mike Southwick', 'Katie Koivisto'] NAY=['Paige Albrecht', 'Chris Condie', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2020-20, approval of a Development Agreement with Thanksgivin
+   2020-03-31 [Council] m4 3:2 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock'] NAY=['Mike Southwick', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2020-20, approval of a Development Agreement with Thanksgivin
+   2020-03-31 [Council] m5 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #14-2020, a zone change from Business Park to Commercial on 35-
+   2020-03-31 [Council] m11 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of a grading permit for Hidden Canyon Plat C on 27.13 acres of property loca
+   2020-03-31 [Council] m14 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #18-2020, Pine Springs Zone Change, approximately 3.1- acres of
+   2020-03-31 [Council] m20 4:1 Pass | AYE=['Chris Condie', 'Paige Albrecht', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #21-2020 amending the Lehi City Development Code, Chapters 5, 1
+   2020-04-14 [Council] m8 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: General Plan Amendment on approximately 30-acres of property changing the land use designa
+   2020-04-14 [Council] m9 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: General Plan Amendment on approximately 30-acres of property changing the land use designa
+   2020-05-26 [Council] m7 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution # 2020-32, adopting the Lehi City Budget and Consolidated Fee 
+   2020-06-09 [Council] m3 3:2 Pass | AYE=['Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Paige Albrecht', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Final subdivision approval for the Innovation Pointe Phase 2, a 3-lot com
+   2020-07-28 [Council] m2 3:1 Pass | AYE=['Paige Albrecht', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #41-2020, the Center Pointe Towns zone change, changing the zon
+   2020-07-28 [Council] m7 3:1 Pass | AYE=['Paige Albrecht', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #43-2020, a General Plan Amendment on approximately 23.9-acres 
+   2020-09-08 [Council] m9 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #49-2020, a Development Code amendment to Table 05.030- C, chan
+   2020-10-27 [Council] m3 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Preliminary subdivision approval the Willow Point, a 420-unit residential
+   2020-11-10 [Council] m6 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Katie Koivisto'] NAY=['Chris Condie', 'Mike Southwick'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #62-2020, approval of the Taylor Meadows General Plan amendment
+   2020-12-08 [Council] m20 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #64-2020, enacting Title 6 Chapter 8, Targeted Residential Pick
+   2021-01-12 [Council] m6 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #03-2020, approval of the Traverse Mountain Area Plan Amendment
+   2021-01-12 [Council] m9 2:3 Fail | AYE=['Paige Albrecht', 'Katie Koivisto'] NAY=['Chris Condie', 'Mike Southwick', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2021-02, approval of a road name change on Holbrook Farms Pla
+   2021-01-12 [Council] m10 4:1 Pass | AYE=['Chris Condie', 'Mike Southwick', 'Paul Hancock', 'Katie Koivisto'] NAY=['Paige Albrecht'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2021-02, approval of a road name change on Holbrook Farms Pla
+   2021-01-12 [Council] m17 3:2 Pass | AYE=['Mike Southwick', 'Paul Hancock', 'Katie Koivisto'] NAY=['Paige Albrecht', 'Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of a Plat amendment approval for Bronson’s Corner Plat B, amending the locat
+   2021-01-26 [Council] m5 3:2 Pass | AYE=['Paige Albrecht', 'Mike Southwick', 'Paul Hancock'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #02-2021, approval of the Traverse Mountain Area Plan Amendment
+   2021-02-23 [Council] m11 3:2 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick'] NAY=['Paul Hancock', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Preliminary subdivision approval for Hidden Canyon Plat D, a 100-lot sing
+   2021-03-23 [Council] m5 2:3 Fail | AYE=['Mike Southwick', 'Katie Koivisto'] NAY=['Paige Albrecht', 'Chris Condie', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Final Subdivision approval for Pioneer Heights, a 45-lot residential deve
+   2021-03-23 [Council] m6 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Final Subdivision approval for Pioneer Heights, a 45-lot residential deve
+   2021-04-13 [Council] m12 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration at Resolution #2021-19, a resolution directing Lehi City Administration to g
+   2021-04-13 [Council] m13 2:3 Fail | AYE=['Paige Albrecht', 'Katie Koivisto'] NAY=['Chris Condie', 'Mike Southwick', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2021-23, a resolution directing Lehi City Administration to c
+   2021-04-13 [Council] m14 3:2 Pass | AYE=['Chris Condie', 'Mike Southwick', 'Paul Hancock'] NAY=['Paige Albrecht', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2021-23, a resolution directing Lehi City Administration to c
+   2021-06-08 [Council] m5 1:4 Fail | AYE=['Katie Koivisto'] NAY=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilor Koivisto moved to deny with sited reasoning that the current land use           
+   2021-06-08 [Council] m6 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Councilor Condie moved to table the item and directed the applicant to work with          
+   2021-10-26 [Council] m3 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #56-2021, approving a zone change from A-5 (agriculture) to Nei
+   2021-10-26 [Council] m4 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Concept approval for the 2100 North subdivision concept, a 66-lot develop
+   2021-10-26 [Council] m5 3:2 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick'] NAY=['Paul Hancock', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Salomon Addition to Lehi Annexation a. Public Hearing There were no public comments.
+   2021-10-26 [Council] m6 3:2 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick'] NAY=['Paul Hancock', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Salomon Addition to Lehi Annexation a. Public Hearing There were no public comments.
+   2022-01-25 [Council] m7 4:1 Pass | AYE=['Mike Southwick', 'Paul Hancock', 'Paige Albrecht', 'Chris Condie'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration Ordinance #07-2022, approval of a comprehensive update to the Land Use Eleme
+   2022-02-22 [Council] m7 3:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Preliminary subdivision approval for The Lofts at Holbrook Farms, a 240-u
+   2022-04-12 [Council] m3 3:2 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Paige Albrecht', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Project Selection for the 2022 Program Year Community Development Block G
+   2022-04-26 [Council] m6 3:1 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #26-2022, approving the Fort Street Zone Change on 4.79- acres 
+   2022-06-14 [Council] m13 3:1 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Paige Albrecht'] :: Consideration of Preliminary and Final subdivision approval of Family Park Estates, a 9-lo
+   2022-06-14 [Council] m21 3:2 Pass | AYE=['Chris Condie', 'Mike Southwick', 'Mark Johnson'] NAY=['Paul Hancock', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Paige Albrecht'] :: Consideration of Ordinance #31-2022, approving the Kelly General Plan Amendment on 1.08-ac
+   2022-08-09 [Council] m6 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of amending the setback table on the Gardner Point Phase 5, 6, and 7 Plats, 
+   2022-08-23 [Council] m10 3:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Mike Southwick'] :: Consideration of Preliminary subdivision approval for the River Point Phase 2, a 257- unit
+   2022-12-13 [Council] m3 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Sale of Real Property a. Public Hearing The Mayor opened the public hearing.
+   2023-01-24 [Council] m3 3:1 Pass | AYE=['Paul Hancock', 'Katie Koivisto', 'Mike Southwick'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=['Paige Albrecht'] :: Consideration of Ordinance #09-2023 amending Title 3 Chapter 2, Planning Commission, of th
+   2023-02-14 [Council] m5 2:3 Fail | AYE=['Paige Albrecht', 'Katie Koivisto'] NAY=['Chris Condie', 'Paul Hancock', 'Mike Southwick'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #12-2023, approving a Holbrook Farms Area Plan Amendment changi
+   2023-02-14 [Council] m6 3:2 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Paige Albrecht', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #12-2023, approving a Holbrook Farms Area Plan Amendment changi
+   2023-02-14 [Council] m11 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #09-2023, approving a Development Agreement to allow Family Su
+   2023-03-14 [Council] m5 3:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=['Chris Condie'] RECUSE=[] ABSENT=[] :: Councilor Koivisto amended her motion to include Councilor Hancock’s     and Mayor Johnson
+   2023-04-11 [Council] m13 3:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Preliminary subdivision approval for the Fox Canyon Plats A1 and I1 inclu
+   2023-04-11 [Council] m14 3:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Preliminary subdivision approval for the Fox Canyon Townhomes Plats J1 an
+   2023-04-11 [Council] m21 3:2 Pass | AYE=['Chris Condie', 'Mike Southwick', 'Mark Johnson'] NAY=['Paige Albrecht', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Ordinance #26-2023 approval of amendments to Table 05.030B, Chapter 21 & 
+   2023-04-25 [Council] m7 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2023-20 requesting inclusion of Lehi City in the Municipal Al
+   2023-05-09 [Council] m4 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #30-2023 the Arias Zone Change from R-1-22/TH-5 (residential/ag
+   2023-05-23 [Council] m15 4:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Katie Koivisto', 'Mike Southwick'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #38-2023 approval of a Development Code Amendment to Chapter 37
+   2023-06-13 [Council] m13 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of a Plat Amendment to the Holbrook Farms Plat I, located at 3701 West 2150 
+   2023-06-13 [Council] m14 4:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Katie Koivisto', 'Mike Southwick'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #40-2023 an Amendment to the General Plan Land Use Element, add
+   2023-08-22 [Council] m6 2:3 Fail | AYE=['Paul Hancock', 'Mike Southwick'] NAY=['Paige Albrecht', 'Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2023-54 approving a Development Agreement for a light industr
+   2023-08-22 [Council] m7 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Katie Koivisto'] NAY=['Mike Southwick'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2023-54 approving a Development Agreement for a light industr
+   2023-08-22 [Council] m13 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #47-2023 an amendment to the Lehi City Development Code Chapter
+   2023-08-22 [Council] m16 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Mike Southwick'] NAY=['Chris Condie', 'Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #50-2023 an amendment to the Lehi City Development Code Chapter
+   2023-08-22 [Council] m21 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Mike Southwick'] NAY=['Katie Koivisto'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #55-2023 clarifying that Lehi City will conduct a Primary Elect
+   2023-09-19 [Council] m7 2:3 Fail | AYE=['Chris Condie', 'Paige Albrecht'] NAY=['Katie Koivisto', 'Mike Southwick', 'Paul Hancock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2023-62 approving a Development Agreement between Lehi City a
+   2024-01-09 [Council] m4 2:3 Fail | AYE=['Paige Albrecht', 'Chris Condie'] NAY=['Paul Hancock', 'Heather Newall', 'Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Concept approval for the Marwood Group Concept, a 31-unit residential dev
+   2024-01-09 [Council] m5 4:1 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Heather Newall', 'Michelle Stallings'] NAY=['Paige Albrecht'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Concept approval for the Marwood Group Concept, a 31-unit residential dev
+   2024-03-26 [Council] m6 2:3 Fail | AYE=['Paige Albrecht', 'Chris Condie'] NAY=['Heather Newall', 'Michelle Stallings', 'Mark Johnson'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Concept approval for the updated Skyridge Subdivision Concept Plan, a 5-l
+   2024-03-26 [Council] m14 3:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Ordinance #11-2024 a Development Code Amendment to Chapter 11, Applicatio
+   2024-04-09 [Council] m8 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Michelle Stallings'] NAY=['Heather Newall'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #21-2024, the Lakeview Land and Rock General Plan amendment on 
+   2024-04-09 [Council] m12 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of road name approval for roads located in Family Park- Hansen Ridge Drive a
+   2024-05-14 [Council] m7 3:1 Pass | AYE=['Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=['Paige Albrecht'] :: Consideration of Preliminary Subdivision approval for the Grandeur Estates, a 9-lot reside
+   2024-07-09 [Council] m4 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Hadco-Pacific Annexation with Light Industrial zoning on 25.69 acres located at approximat
+   2024-07-09 [Council] m5 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Hadco-Pacific Annexation with Light Industrial zoning on 25.69 acres located at approximat
+   2024-10-08 [Council] m4 2:3 Fail | AYE=['Chris Condie', 'Michelle Stallings'] NAY=['Paige Albrecht', 'Paul Hancock', 'Heather Newall'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #58-2024 the Tronson General Plan Amendment on 0.66 acres locat
+   2024-10-08 [Council] m5 4:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #58-2024 the Tronson General Plan Amendment on 0.66 acres locat
+   2024-10-08 [Council] m9 3:2 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock'] NAY=['Heather Newall', 'Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #61-2024 a Development Code Amendment to Chapters 12- A and 12-
+   2024-12-10 [Council] m6 3:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Resolution #2024-59 approving a First Amendment to the Interlocal Agreeme
+   2025-03-18 [Council] m11 3:1 Pass | AYE=['Paige Albrecht', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Consideration of Ordinance #09-2025 approving the Holbrook Farms Area Plan Amendment and c
+   2025-03-18 [Council] m12 3:1 Pass | AYE=['Paige Albrecht', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Councilor Condie moved to table the Ordinance, until the May Work Session for             
+   2025-03-18 [Council] m13 3:1 Pass | AYE=['Paige Albrecht', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=['Paul Hancock'] :: Councilor Condie moved to temporarily leave the Council meeting and move into             
+   2025-04-08 [Council] m14 4:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #20-2025 approving a Development Code Amendment to Chapter 39, 
+   2025-05-27 [Council] m7 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-30 adopting the Lehi City Fiscal Year 2026 Budget and Co
+   2025-08-26 [Council] m8 4:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Heather Newall', 'Michelle Stallings'] NAY=['Chris Condie'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #45-2025 approving the Hammond Zone Change on 0.83 acres, locat
+   2025-08-26 [Council] m12 2:3 Fail | AYE=['Michelle Stallings', 'Chris Condie'] NAY=['Paige Albrecht', 'Paul Hancock', 'Heather Newall'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Concept Plan approval of the Colledge Farms Planned Residential Developme
+   2025-08-26 [Council] m13 3:2 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Heather Newall'] NAY=['Chris Condie', 'Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Concept Plan approval of the Colledge Farms Planned Residential Developme
+   2025-08-26 [Council] m17 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #53-2025 adopting the Skye View Community Reinvestment Project 
+   2025-08-26 [Council] m18 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-57 approving the Interlocal Agreement with the Redevelop
+   2025-09-09 [Council] m6 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #49-2025, approving a Development Code amendment to Table 05.04
+   2025-10-14 [Council] m5 3:1 Pass | AYE=['Paige Albrecht', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #62-2025, approving the Lee General Plan amendment on 0.50-acre
+   2025-11-18 [Council] m10 4:1 Pass | AYE=['Paige Albrecht', 'Chris Condie', 'Paul Hancock', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-84 authorizing the issuance and sale of Sales Tax Revenu
+   2025-12-16 [Council] m2 3:1 Pass | AYE=['Paul Hancock', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-98 approving a real estate purchase contract for land at
+   2025-12-16 [Council] m3 3:1 Pass | AYE=['Paul Hancock', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-86 appointing Planning Commissioners to the Lehi City Pl
+   2025-12-16 [Council] m6 3:1 Pass | AYE=['Paul Hancock', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #67-2025, approving the Downtown Revitalization Plan and State 
+   2025-12-16 [Council] m9 3:1 Pass | AYE=['Paul Hancock', 'Chris Condie', 'Heather Newall'] NAY=['Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Ordinance #69-2025, approving the Lee Zone Change on .50-acres located at
+   2025-12-16 [Council] m14 3:2 Pass | AYE=['Paul Hancock', 'Chris Condie', 'Mark Johnson'] NAY=['Heather Newall', 'Michelle Stallings'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: Consideration of Resolution #2025-93, approving the JDH Property Development Agreement add
+

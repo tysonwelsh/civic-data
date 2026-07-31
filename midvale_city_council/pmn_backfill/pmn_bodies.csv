@@ -1,0 +1,10 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+201,753,City Council,yes,meeting_minutes,,pm4,2020-01-01,"PMN is an INDEPENDENT check (core minutes came from the city's Revize portal); 14 council-session gap dates recovered + promoted, folded via pmn_backfill/index.csv. Harvest Days festival-committee minutes are cross-filed under this body — see pmn_exceptions.csv"
+201,754,Planning Commission,yes,planning_commission,,pm4,2020-01-01,"0 recoverable 2020+ gaps; PMN's PC holdings are almost all below the 2020 floor"
+201,756,Redevelopment Agency,yes,meeting_minutes,,pm4,2020-01-01,"in-session RDA (all_votes body=RDA); PMN files a separate companion doc per council session — the recovered/promoted ones are folded via pmn_backfill/index.csv"
+201,757,Municipal Building Authority,yes,meeting_minutes,,pm4,2020-01-01,"in-session MBA (all_votes body=MBA); rare companion docs, folded via pmn_backfill/index.csv"
+201,755,Board of Adjustments,no,,,,,agendas/notices only — no minutes
+201,9155,Appeal Authority,no,,,,,1 variance notice — no minutes
+201,758,Midvale Community Council,no,,,,,1 festival agenda — no minutes
+201,760,Union Community Council,no,,,,,empty
+201,9179,White City Council,no,,,,,empty (White City is its own entity elsewhere)

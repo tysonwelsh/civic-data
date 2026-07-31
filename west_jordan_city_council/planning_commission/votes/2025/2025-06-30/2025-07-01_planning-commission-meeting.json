@@ -1,0 +1,39 @@
+{
+ "date": "2025-07-01",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2025/2025-06-30/2025-07-01_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes of June 17, 2025",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "7:0 Pass",
+   "mover": "Ammon Allen",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council to Rezone the parcels comprising 0.865 acres and located at 1394 and 1378 West 7800 South from an R-2 Zone to a C-G Zone",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 7:0",
+   "mover": "Trish Hatch",
+   "seconder": "Tom Hollingsworth",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "date": "2020-05-20",
+ "year": 2020,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2020/2020-05-18/2020-05-20_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to adopt the following Resolution No. 20-05-01. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to grant permission to Mayor Bush to sign any documents relating to this fund. The",
+   "body": "Council",
+   "motion_type": "Grant-Funding",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the minutes from the April 6, 2020, Kearns Metro Township meeting. The",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "unanimous in favor Pass",
+   "mover": "Tina Snow",
+   "seconder": "Chrystal Butterfield",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}

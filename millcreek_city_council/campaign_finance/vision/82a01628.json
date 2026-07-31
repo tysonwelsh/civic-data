@@ -1,0 +1,19 @@
+{
+  "contributions": [
+    {"date": "31-Oct-23", "name": "Verdi White", "amount": "100", "in_kind": false},
+    {"date": "1-Nov-23", "name": "Dave and Holli Gisseman", "amount": "50", "in_kind": false},
+    {"date": "6-Nov-23", "name": "Cheri Jackson", "amount": "205.96", "in_kind": false},
+    {"date": "9-Nov-23", "name": "Aimee McConkie", "amount": "100", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "25-Oct-23", "recipient": "SkyMail", "purpose": "printing and postage", "amount": "1357.67", "in_kind": false},
+    {"date": "26-Oct-23", "recipient": "SkyMail", "purpose": "printing and postage", "amount": "1342.67", "in_kind": false},
+    {"date": "3-Nov-23", "recipient": "Fund Hero", "purpose": "fundraising tool", "amount": "8.99", "in_kind": false},
+    {"date": "3-Nov-23", "recipient": "Salt Lake County", "purpose": "voted list", "amount": "15", "in_kind": false},
+    {"date": "8-Nov-23", "recipient": "SkyMail", "purpose": "printing", "amount": "275.08", "in_kind": false},
+    {"date": "13-Nov-23", "recipient": "RumbleUP", "purpose": "texting service", "amount": "1223.18", "in_kind": false}
+  ],
+  "total_contributions": "455.96",
+  "total_expenditures": "4222.59",
+  "ending_balance": null
+}

@@ -1,0 +1,9 @@
+Midvale council-session backfill (pmn_backfill -> meeting_minutes/all_votes.csv)
+recovered docs with motions : 24
+recovered motions           : 179
+recovered rows              : 549
+canonical rows              : 4239
+merged total rows           : 4788
+zero-motion recovered docs  : 1
+    novote: pmn_backfill/text/2023-03-30__council__CC-Minutes-3-30-2023-Budget-Retreat001.txt
+DATE OVERRIDE applied: pmn 2023-01-17 RDA doc -> 2022-12-06 (the attached minutes ARE the 2022-12-06 RDA meeting; the 2023-01-17 RDA session's own minutes stay in minutes_unrecovered.csv).

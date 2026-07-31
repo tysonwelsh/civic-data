@@ -1,0 +1,789 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=1990&doc_id=30b906c4-0de4-11f1-bb28-005056a89546
+> Meeting date: 2025-12-11
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, DECEMBER 11, 2025, IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING: Andrew Adams, Chair
+               Commission Member Kendra Shirey
+               Commission Member Gary Ogden
+               Alternate Commission Member Christine Green
+               Alternate Commission Member Laura Fidler
+
+EXCUSED:             Lisa Fowler, Vice-Chair
+                     Commission Member Mary Squire
+                     Commission Member Susan Nixon
+
+STAFF:               Jennifer Jastremsky, Community Development Director
+                     Todd Draper, Planning Manager
+                     Todd Taylor, City Planner
+                     Nick Whitaker, City Planner
+                     Paul Geilman, Planning Coordinator
+                     Lori Stout, Executive Assistant
+                     Brien Maxfield, City Engineer
+                     Spencer DuShane, Assistant City Attorney
+
+6:30 PM Business Meeting
+
+Chair Andrew Adams called the meeting to order at 6:30 PM.
+
+1.     Items for Commission Consideration.
+
+       A.     Action Item: Approve Planning Commission Meeting Minutes for November 13,
+              2025.
+              (Administrative Action)
+              Approval of Planning Commission Meeting Minutes for November 13, 2025.
+
+Motion: Commissioner Ogden moved to APPROVE the November 13, 2025 Planning
+Commission Meeting Minutes, as presented.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 2
+
+
+
+         Commissioner Yes           No     Abstained      Not Participating     Absent
+         Chair Adams                                              X
+         Fowler                                                                       X
+         Squire                                                                       X
+         Nixon                                                                        X
+         Shirey            X
+         Ogden             X
+         Fidler, Alternate X
+         Green, Alternate  X
+
+       B.      Public Hearing: Butler Zoning Map Amendment Request.
+               (Legislative Item)
+               On the request of Lannea Butler, a Zoning Map Amendment from RA1 to R3, on
+               approximately 1.04 acres, located at approximately 283 E Tanager Lane. Known as
+               application 2025-0241-MA, staff contact: Paul Geilman, (801) 576-6551,
+               paul.geilman@draperutah.gov.
+
+Planning Coordinator, Paul Geilman, presented the staff report and displayed the vicinity, aerial, land
+use, and zoning maps, as well as site photographs. The subject property is west of 300 East and north
+of Brown’s Pond. The proposed amendment would rezone the property from RA1, with a minimum
+lot size of 40,000 square feet, to R3, with a minimum lot size of 13,000 square feet. Mr. Geilman
+reported that the current zone was not consistent with the Residential Medium Density land use
+designation. However, the proposed R3 Zone conformed to that designation.
+
+Chair Adams opened the public hearing.
+
+Jacob Goodrich stated that his home is immediately adjacent to the subject property, and he fully
+supported the application.
+
+Kathleen Keller stated that she lives near the subject property and asked how it would be accessed.
+
+There were no further comments. The public hearing was closed.
+
+The applicant, Lannea Butler, stated that they had considered accessing the property from both 300
+East and Tanager Lane, but had not yet made a final determination. Chair Adams clarified that the
+information was not required for a Zoning Map Amendment.
+
+Motion: Commissioner Shirey moved to forward a POSITIVE recommendation to the City
+Council for the Zoning Map Amendment, as requested by Lannea Butler, Application 2025-
+0241-MA, based on the following findings and the criteria for approval listed in the Staff Report
+dated December 1, 2025.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 3
+
+
+Findings for Approval:
+
+       1.       The proposed Zoning Map Amendment is consistent with goals, objectives, and
+                policies of the City's General Plan.
+
+       2.       The proposed Zoning Map Amendment is harmonious with the overall character
+                of existing development in the vicinity of the subject property.
+
+       3.       The proposed Zoning Map Amendment is consistent with the standards of any
+                applicable overlay zone.
+
+       4.       The proposed Zoning Map Amendment will not adversely affect adjacent
+                property.
+
+       5.       There are adequate facilities and services intended to serve the subject property,
+                including, but not limited to, roadways, parks and recreation facilities, police and
+                fire protection, schools, stormwater drainage systems, water supplies, and
+                wastewater and refuse collection.
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+
+            Commissioner Yes         No    Abstained      Not Participating      Absent
+            Chair Adams                                           X
+            Fowler                                                                    X
+            Squire                                                                    X
+            Nixon                                                                     X
+            Shirey            X
+            Ogden             X
+            Fidler, Alternate X
+            Green, Alternate  X
+
+       C.       Public Hearing: Jim Duncan Fence Conditional Use Permit Request.
+                (Administrative Action)
+                On the request of Jim Duncan, a Conditional Use Permit to allow for a fence that is
+                taller than six feet (6’) on approximately 0.16 acres, located at 296 East Red Leaf
+                Drive, known as Application 2025-0233-USE, staff contact: Nick Whittaker, (801)
+                576-6522, Nick.Whittaker@draperutah.gov.
+
+City Planner Nick Whittaker presented the staff report and displayed the vicinity, aerial, land use, and
+zoning maps. The property was designated Residential Medium Density and zoned RA2. The
+applicant requested installation of an eight-foot-tall fence to provide a barrier around a sports court.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 4
+
+
+The fence would be chain link with a black vinyl coating. Per DCMC 9-7-080(A), fences over six
+feet but below 10 feet in height require a Conditional Use Permit (“CUP”).
+
+The site plan and photographs were reviewed, and Mr. Whittaker reported that the property consists
+of two parcels but has historically been treated as a single lot. Potential negative impacts include
+minor reductions in visibility for pedestrians using the adjacent sidewalk. Proposed mitigation
+includes:
+
+       1.      That all requirements of the Draper City Engineering, Building, and Planning
+               Divisions are satisfied throughout the construction of the fence.
+
+       2.      That the fencing shall not exceed ten feet in height and be constructed in the location
+               indicated on the approved site plan.
+
+       3.      That the applicant or their contractor shall obtain a building permit for the installation
+               of the fencing in the locations indicated on the approved site plan.
+
+Chair Adams found it interesting that a CUP was required for a chain-link fence.
+
+The applicant, Jim Duncan, stated that he previously ran a home-based business from the shop on the
+property, but that business had been sold. The existing 0.50-acre asphalt pad had been turned into
+basketball and pickleball courts. The taller fence will better contain the basket and pickle balls and
+provide some shade.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Commissioner Ogden stated that it was a straightforward request. The fence would be set back from
+the property lines, so there would be minimal to no impact on adjoining lots.
+
+Motion: Commissioner Ogden moved to APPROVE the Conditional Use Permit, by Jim
+Duncan, Application 2025-0233-USE, based on the following Findings for Approval and subject
+to the conditions listed in the Staff Report dated December 1, 2025.
+
+Findings for Approval:
+
+       1.      Reasonable mitigation measures are placed on the conditional use to alleviate
+               anticipated detrimental effects.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 5
+
+
+            Commissioner Yes          No     Abstained      Not Participating      Absent
+            Chair Adams                                             X
+            Fowler                                                                       X
+            Squire                                                                       X
+            Nixon                                                                        X
+            Shirey            X
+            Ogden             X
+            Fidler, Alternate X
+            Green, Alternate  X
+
+       D.       Public Hearing: Pinnacle Towers Conditional Use Permit Amendment.
+                (Administrative Item)
+                On behalf of Todd Daoust, representing Commscapes, Crown Castle International,
+                and Pinnacle Towers, Inc., a Conditional Use Permit Amendment request for 0.90
+                acres, located at approximately 16211 South Minuteman Drive. Known as
+                Application     2025-0328-USE.           Staff    Contact:  Todd       Draper,
+                todd.draper@draperutah.gov, (801) 576-6335.
+
+Planning Manager, Todd Draper, presented the staff report and displayed the vicinity, aerial, land use,
+and zoning maps, as well as the site plan. The subject property is located at the south end of the City
+in the M2 industrial zone. The lattice tower was approved approximately 24 years previously, with
+the condition that it must be reviewed at 25-year intervals, and the applicant had requested that the
+condition be removed. Staff had also determined that the 100-foot height limit set by the original
+CUP needed to be modified to comply with current Federal regulations.
+
+Elevations and site photographs were reviewed. Mr. Draper reported that lightning rods are not
+considered part of a structure’s height, and the property is fully fenced and gated.
+
+In response to a question, Mr. Draper stated that the property is adjacent to a state park, but paragliders
+do not land in the area. The approximately 118-foot tower had been in operation for 24 years without
+issue. The applicant, Todd Daoust, was available to answer questions.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Motion: Commissioner Shirey moved to approve the Conditional Use Permit Amendment, as
+requested by Todd Daoust, representing Commscapes, Crown Castle International, and
+Pinnacle Towers, INC, Application 2025-0238-USE, based on the Findings and criteria for
+approval and subject to the conditions listed in the Staff Report dated November 12, 2025.
+
+Findings for Approval:
+
+       1.       The proposed use is allowed in the M2 Zone, and the specific property is suitable
+                for the proposed use.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 6
+
+
+       2.       Reasonable conditions have been imposed that substantially mitigate the
+                reasonably anticipated detrimental effects of the proposed use.
+
+       3.       The proposed use is in harmony with the objectives and requirements of the
+                City's General Plan and the zoning ordinance.
+
+       4.       The proposed use will not be injurious to potential or existing development in the
+                vicinity.
+
+       5.       The proposed changes do not create additional aesthetic impacts to the
+                surrounding area.
+
+       6.       The request will not be detrimental to the health, safety or general welfare of the
+                city, the area, or persons owning or leasing property in the area.
+
+       7.       The lattice tower design is suitable in light of the particular circumstances
+                associated with this location.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+
+            Commissioner Yes        No     Abstained      Not Participating     Absent
+            Chair Adams                                           X
+            Fowler                                                                    X
+            Squire                                                                    X
+            Nixon                                                                     X
+            Shirey            X
+            Ogden             X
+            Fidler, Alternate X
+            Green, Alternate  X
+
+       E.       Public Hearing: Tamed Beauty, LLC Home Occupation Conditional Use Permit
+                Request.
+                (Administrative Action)
+                On the request of Marissa Lacanienta, representing Tamed Beauty, LLC. A
+                Conditional Use Permit for a Home Occupation that provides personal care services,
+                on approximately 0.01 acres, located at 182 East Daisyfield Drive. Known as
+                Application 2025-0214-USE, staff contact: Nick Whittaker, (801) 576-6522,
+                Nick.Whittaker@draperutah.gov.
+
+Mr. Whittaker presented the staff report and displayed the vicinity, aerial, land use, and zoning maps.
+The subject property is zoned R3 and designated Residential High Density. The applicant would
+operate a home occupation that provides personal care services. Esthetic services are provided at the
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 7
+
+
+subject property on an appointment basis. Only one customer is scheduled per appointment.
+Appointments do not exceed 60 minutes, and between two and six appointments are anticipated each
+day. Proposed hours of operation are 8:00 a.m. to 8:00 p.m. Monday through Saturday. An off-street
+parking stall is provided.
+
+The site plan and photographs were reviewed, and Mr. Whittaker indicated that the off-street parking
+stall is in a shared driveway with the unit next door. The applicant will park their vehicle in the one-
+car garage. Services will be provided in a spare bedroom of the home.
+
+Potential impacts include:
+
+   •   Customers coming to the home.
+   •   Customer vehicles, parking, and related traffic.
+
+Proposed mitigation:
+
+   •   Customers are by appointment only.
+   •   Limit of one customer at a time.
+   •   One designated off-street parking stall must be provided for all customer vehicles.
+   •   An approval letter from the HOA shall be provided to the staff before issuing a business
+       license.
+
+The applicant, Marissa Lacanienta, stated that she is a solo esthetician and hopes to run her small
+business from her home. She will offer lash, brow, and waxing services to up to six clients per day.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Chair Adams stated that parking can be a problem in the townhome development, but the dedicated
+parking stall would mitigate that issue.
+
+Motion: Commissioner Shirey moved to APPROVE the Home Occupation Conditional Use
+Permit, as requested by Marissa Lacanienta, representing Tamed Beauty, LLC., Application
+2025-0214-USE, based on the following Findings for Approval and subject to the conditions
+listed in the Staff Report dated December 1, 2025.
+
+Finding for Approval:
+
+       1.      The proposal complies with the standards for approval found in DCMC Section
+               95-080(E), and potential negative impacts are mitigated through the imposition
+               of reasonable conditions.
+
+Second: Commissioner Green seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 8
+
+
+
+         Commissioner Yes           No     Abstained      Not Participating     Absent
+         Chair Adams                                              X
+         Fowler                                                                       X
+         Squire                                                                       X
+         Nixon                                                                        X
+         Shirey            X
+         Ogden             X
+         Fidler, Alternate X
+         Green, Alternate  X
+
+       F.      Public Hearing: Granite Construction Yard Site Plan and Deviation Requests.
+               (Administrative Items)
+               On behalf of Tina Mudd, representing Granite Construction Company and Stack
+               Bangerter LLC., a Site Plan application and associated Deviation requests for
+               approximately 0.85 acres located at approximately 13488 South 200 West. Known as
+               Applications 2025-0103-SP, 2025-0211-VAR, and 2025-2012-VAR. Staff Contact:
+               Todd Draper, todd.draper@draperutah.gov, (801) 576-6335.
+
+Mr. Draper presented the staff report and displayed the vicinity, aerial, land use, and zoning maps.
+The subject property is located near 13800 South and Bangerter Highway. It is zoned M1 and
+designated Business and Light Manufacturing.
+
+The site and landscape plans were reviewed. Access to the property will be from 13800 South.
+Landscaped material bins will be around the perimeter, and a small office building and scale will be
+located on the east side of the property. There will be a total of four parking stalls.
+
+Mr. Draper reported that the buildings must face the street. However, the staff determined that three
+of the 10 criteria for deviations had been met per DCMC 9-22-030(B). At least 30% of the property
+will be landscaped. The primary building material, concrete fiberboard, will exceed the 75% coverage
+requirement by more than 10%. Proposed conditions include correcting discrepancies in the
+landscape plan and adding additional plantings to meet the required 75% coverage at maturity. Staff
+would review the corrected plan before issuance of a building permit. In response to a question raised
+by Chair Adams, Mr. Draper clarified that the landscape plan includes both shrubs and perennials.
+
+Elevations and site photographs were reviewed. The building will be accessed from the north and
+have two offices, a restroom, and an open work area. Mechanical equipment on the east side will be
+screened and landscaped.
+
+An eight-foot-tall fence was indicated on the site plan, but storage yards typically require a 10-foot-
+tall fence. A recommended condition of approval was that either a 10-foot fence be installed or a
+CUP application be submitted to reduce the height. The masonry fence will have horizontal
+articulation, and the side fencing will be chain-link with slats.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 9
+
+
+Mr. Draper reported that the second deviation request concerned cross-access. The applicant’s
+justification for deviating from this requirement was that the use may be incompatible with potential
+future uses in the area.
+
+In response to a question from Chair Adams, Mr. Draper reported that the building will be
+prefabricated but permanent while the business is in operation.
+
+The applicant, Tina Mudd, stated that her company is in agreement with the conditions outlined in
+the Staff Report and was eager to begin construction. The prefabricated building and scale will be
+elevated. Architectural elements will be added once the building is installed. One reason for the first
+deviation request was to accommodate the scale house. They need to provide adequate room for
+trucks to navigate the site, and the door cannot face the scale, as that would be a safety hazard.
+
+In response to a question from Chair Adams, Ms. Mudd reported that they will store stone and gravel
+landscaping rocks onsite. Dust suppression systems will be installed to mitigate any dust issues.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Motion: Commissioner Shirey moved to APPROVE the Deviation for Building Orientation, as
+requested by Tina Mudd representing Granite Construction Company and Stack Bangerter
+LLC., for Application 2025-0211-VAR, based on the Findings for Approval listed in the Staff
+Report dated December 1, 2025.
+
+Findings for Approval:
+
+       1.      The requested deviation is consistent with the purpose and intent of the
+               development standards of the applicable zoning district or land use category.
+
+       2.      The proposed development satisfies at least three (3) of the criteria listed in 9-22-
+               030(B).
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 10
+
+
+           Commissioner Yes        No   Abstained   Not Participating   Absent
+           Chair Adams                                      X
+           Fowler                                                            X
+           Squire                                                            X
+           Nixon                                                             X
+           Shirey            X
+           Ogden             X
+           Fidler, Alternate X
+           Green, Alternate  X
+
+
+Motion: Commissioner Ogden moved to APPROVE the Deviation for Cross Access, as
+requested by Tina Mudd representing Granite Construction Company and Stack Bangerter
+LLC., for Application 2025-0212-VAR, based on the Findings for Approval listed in the Staff
+Report dated December 1, 2025.
+
+Findings for Approval:
+
+      1.       Requiring cross access would create a health hazard by linking uses that are
+               incompatible with each other.
+
+      2.       The abutting development has not been designed or required to provide
+               reciprocal cross access to the subject property.
+
+Second: Commissioner Fidler seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+
+           Commissioner Yes        No   Abstained   Not Participating   Absent
+           Chair Adams                                      X
+           Fowler                                                            X
+           Squire                                                            X
+           Nixon                                                             X
+           Shirey            X
+           Ogden             X
+           Fidler, Alternate X
+           Green, Alternate  X
+
+Motion: Commissioner Shirey moved to APPROVE the Site Plan, as requested by Tina Mudd
+representing Granite Construction Company and Stack Bangerter LLC., for Application 2025-
+0103-SP, based on the Findings for Approval and subject to the conditions listed in the staff
+report dated December 1, 2025.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 11
+
+
+Findings for Approval:
+
+       1.       The proposal represents development of the entire site at one time.
+
+       2.       A Site Plan together with the imposed conditions and approved deviations will
+                conform to applicable standards set forth in this title, including but not limited
+                to building heights, setbacks, access points, parking, landscaping, and building
+                materials.
+
+       3.       The proposed development plans meet the intent, goals, and objectives of the
+                general plan and the purpose of the zone district in which the site is located.
+
+       4.       The public facilities and services in the area are adequate to support the subject
+                development, as required by engineering standards and specifications.
+
+       5.       The proposed development plans will comply with the engineering standards
+                found in Titles 7, 8, 11, 12, 16, and 18 of this code, including traffic, storm water
+                drainage, and utilities concerns.
+
+Second: Commissioner Green seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+
+            Commissioner Yes        No     Abstained     Not Participating     Absent
+            Chair Adams                                          X
+            Fowler                                                                  X
+            Squire                                                                  X
+            Nixon                                                                   X
+            Shirey            X
+            Ogden             X
+            Fidler, Alternate X
+            Green, Alternate  X
+
+       G.       Public Hearing: City-Initiated Geologic Hazards Ordinance Text Amendment
+                (Legislative Item)
+                On the request of Draper City, a Text Amendment to portions of Draper City
+                Municipal Code (DCMC) Titles 9, 10, 17, and 18 to update and move the Geologic
+                Hazards Ordinance. Known as Application No. 2025-0259-TA. Staff Contact: Todd
+                Taylor, 801-576-6510, todd.taylor@draperutah.gov.
+
+City Planner, Todd Taylor, reported that the City’s Geologic Hazards Ordinance was initially adopted
+in 2007. Third-party reviewers, Taylor Geotechnical Engineering and Simon Associates, LLC, assist
+the City in reviewing Geologic Hazard Studies. The purpose of the amendments was to improve
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 12
+
+
+clarity for applicants, ensure adherence to best engineering practices, incorporate State standards, and
+correct an error.
+
+The text amendments would apply to Titles 9, 10, 17, and 18. Staff proposed to move the ordinance
+from Title 9, Land Use and Development Regulations (Chapter 9-19) to Title 10, Building
+Regulations (Chapter 10-7). A Geotechnical Engineering Standards document would be created, and
+the appendices from the current ordinance would be moved to it. Mr. Taylor then reviewed the table
+of changes as included in the Staff Report.
+
+Chair Adams opened the public hearing. There were no comments. The public hearing was closed.
+
+Motion: Commissioner Shirey moved to forward a POSITIVE recommendation to the City
+Council for the City-Initiated Geologic Hazards Ordinance Text Amendment, as requested by
+Draper City, Application No. 2025-0259-TA, based on the following findings and the criteria
+for approval as listed in the Staff Report dated November 24, 2025.
+
+Findings for Approval:
+
+       1.      The proposed amendment is consistent with goals, objectives and policies of the
+               City's General Plan;
+
+       2.      The proposed amendment is appropriate given the context of the request and
+               there is sufficient justification for a modification to the development codes;
+
+       3.      The proposed amendment will not create a conflict with any other section or part
+               of the development codes or the General Plan;
+
+       4.      The potential effects of the proposed amendment have been evaluated and are
+               determined not to be detrimental to public health, safety, or welfare and
+               represents an overall community benefit; and
+
+       5.      The proposed text amendment implements best current, professional practices of
+               urban planning, design, and engineering practices.
+
+Second: Commissioner Ogden seconded the motion.
+
+Vote on Motion: 4-to-0 in favor.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 13
+
+
+
+            Commissioner Yes        No    Abstained      Not Participating    Absent
+            Chair Adams                       X
+            Fowler                                                                 X
+            Squire                                                                 X
+            Nixon                                                                  X
+            Shirey            X
+            Ogden             X
+            Fidler, Alternate X
+            Green, Alternate  X
+
+       H.       Public Hearing: Peterson and Bell Properties Land Use and Zoning Map
+                Amendment Requests.
+                (Legislative Items)
+                A request by Dave Johnson, representing the Peterson and Bell families, to amend the
+                land use designation for a portion of 693 E. 13800 South from Residential Low
+                Medium Density to Residential Medium Density and to amend the zoning designation
+                from to RA1 (Residential Agricultural, 40,000 square foot minimum) to R3 (Single
+                Family Residential, 13,000 square foot lot minimum) for a portion of 693 E. 13800
+                South, and from RA1 to RA2 (Residential Agricultural, 20,000 square foot minimum)
+                for the entire property at 703 East 13800 South. The rezoning is being requested to
+                facilitate a future boundary-line adjustment between the property owners.
+
+The above item was continued to an uncertain date.
+
+2.     Other Business.
+
+       A.       Annual Planning Commissioner Training by City Staff.
+
+Mr. Draper conducted the annual Planning Commissioner Best Practices Training on the top 10
+pitfalls to avoid.
+
+       1.       Applying personal preference instead of Code
+
+Chair Adams stated that an example of this is that he does not like hedgerows, but they were allowed
+at the time, so a hedgerow had to be approved. They were subsequently removed from Code. The
+Commission can stay grounded in the adopted ordinance by knowing what is specified in the Code
+and listening to the staff.
+
+       2.       Ignoring the General Plan
+
+Community Development Director Jennifer Jastremsky stated that the Planning Commission often
+considers applications for Zoning and Land Use Map amendments. The first item on the agenda was
+for a zone change, but the proposed zone already complied with the General Plan’s Land Use Map.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 14
+
+
+The goal is always for zoning and land uses to match, which is why sometimes Zoning Map
+Amendments also require a Land Use Map amendment. The General Plan was adopted in 2019, and
+the Moderate-Income Housing Plan, Station Area Plans, and Water Element were subsequently
+incorporated into it.
+
+In 2019, the General Plan's goals and policies, as well as the Land Use Map, were updated. At that
+time, they considered updating land use designations for properties that were already developed. For
+example, the previous map showed all of Suncrest as low-density residential. Due to all the open
+space, the overall density is one unit per acre, but each development is not low-density. The updated
+Land Use Map reflects what was actually built.
+
+In response to a question from Chair Adams, Ms. Jastremsky confirmed that it would have been
+appropriate to state that the Butler Zoning Map amendment request was in alignment with the General
+Plan. Compliance with the General Plan is also always addressed in the Staff Report.
+
+The General Plan is an advisory document that provides direction on what the City wants in each
+area. There may be opportunities to change the Land Use Map or plan goals over time. Applicants
+are also asked to explain how their requests comply with the General Plan.
+
+       3.      Asking applicants to redesign at the meeting
+
+Mr. Draper reported that this can lead to confusion and increase the risk of the final decision being
+appealed.
+
+Assistant City Attorney Spencer DuShane stated that Staff is typically very good at determining
+whether a request violates City Code or would not meet the criteria for a deviation, for example, and
+at talking applicants out of bringing applications to the Planning Commission before they are
+complete. If they are unable to do so and the application comes before the Commission anyway, he
+preferred that the application be denied. If the applicant is told to make changes and the modified
+application still does not meet the code, they can appeal on the basis that they did precisely as the
+Planning Commission requested. If denied outright, the Staff Report and Commission comments
+would provide substantial evidence to uphold the decision.
+
+Ms. Jastremsky stated that the Planning Commission can approve, approve with conditions, or deny
+an application. They do not have the authority to continue an item pending redesign. Most
+administrative applications that the Commission reviews fully comply with the City Code. Mr.
+Draper added that in some instances, the applicant will present something to the Commission that
+differs from the application and the Staff Report, and that conditions may need to be modified.
+
+       4.      Inadequate findings or motion language
+
+Findings are defensible if they meet the standard for substantial evidence; the quantity and quality of
+evidence could allow a reasonable person, similarly situated, to come to the same conclusion as the
+Planning Commission. Mr. DuShane stated that he had successfully argued that citing the findings
+in the Staff Report meets the substantial evidence standard.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 15
+
+
+
+Ms. Jastremsky stated that most of the applications denied by the Commission were for Home
+Occupations, often because the applicant provided different testimony at the hearing than had been
+provided to Staff. In that case, they should include findings referencing those concerns in the motion.
+
+Chair Adams stated that in those cases, the applicant often indicates that they will not do the thing
+that would cause denial. For example, the applicant states that there will be one car parked on the
+property, but the Staff Report indicates no parking, and the applicant then backtracks when they
+realize it may be cause for denial. Ms. Jastremsky stated that the Planning Commission can add
+conditions.
+
+The criteria to approve a CUP include whether there are detrimental effects and whether they can be
+mitigated. If proposed parking is a detrimental effect and the mitigation is to prohibit parking,
+approval can be conditioned on that basis. Staff then has the authority to involve Code Enforcement
+if parking takes place on the site. CUPs can be revoked for continued violations, and revocation
+automatically revokes the associated business license.
+
+       5.      Allowing public hearings to go off the rails
+
+Chair Adams stated that he sometimes has to remind the public that clapping is not allowed, but if he
+forgets, other Commissioners can remind the public. He also stated that it can also be awkward when
+people ask questions. It is beneficial to remind citizens that repeated comments are unnecessary and
+to bring those concerns up with the applicant after the public hearing, which can help those
+commenters feel heard.
+
+Ms. Jastremsky stated that it is always a good idea to let people have their full three minutes. A
+previous chairperson had a habit of interrupting citizens' comments, which angered them. She
+recommended that, when there is a large turnout, the hearing instructions be stated at the beginning
+of each public hearing, rather than just once at the beginning.
+
+Chair Adams remarked that a gentleman once stood up at a public hearing to discuss prisoners’ right
+to vote. Mr. DuShane stated that public hearing comments must be relevant to the agenda item. That
+person could be interrupted and redirected to speak on the issue at hand. Ms. Jastremsky stated that
+they could also remind the general public that the public is invited to provide general public comments
+at the beginning of every City Council meeting.
+
+It was noted that repeated comments on the same issue become irrelevant, and it is within the
+Commission’s authority to indicate that repeated comments regarding things like traffic, for example,
+had been heard. All future comments should be on other issues.
+
+Commissioner Green asked whether it would be beneficial to ask commenters to form a line at
+contentious hearings to save time spent standing and sitting. Mr. DuShane stated that at one
+particularly contentious hearing, members of the public were seated in speaking order and each given
+two minutes to speak. Citizens could be asked to form a line to expedite the process when multiple
+speakers are present.
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 16
+
+
+
+       6.     Ex Parte contact and conflict disclosure
+
+The Planning Commissioners live in the community, and neighbors can sometimes approach them
+outside of meetings to discuss agenda items. Those conversations need to be avoided. Ms. Jastremsky
+recommended that they take the position that, as members of the Planning Commission, they are not
+permitted to discuss the issue, but they can provide staff contact information. Emails should be
+forwarded to the staff.
+
+In response to a question from Chair Adams, Ms. Jastremsky confirmed that it would be appropriate
+to take time in a meeting to review written comments that had just been received.
+
+Mr. Draper reported that if the Planning Commission cannot avoid an ex parte discussion, it is
+essential to remain neutral to preserve due process. If that happens, Commissioners should inform
+staff or the city attorney. A Commissioner may need to recuse themselves if they have a business
+interest in any agenda item, but simply knowing someone who speaks during a public hearing does
+not create a conflict.
+
+In response to a question, Ms. Jastremsky stated that she did not recommend that Commissioners
+speak to items at City Council meetings if the Planning Commission had heard the item. Mr. DuShane
+clarified that they had the right to speak as private citizens during the public comment period.
+However, they have the unique opportunity to get more than three minutes on the record during the
+Planning Commission meeting.
+
+Mr. DuShane stated that Planning Commission decisions cannot be based on public clamor. If
+someone’s boss spoke at a public hearing and provided valuable input on the record, it should be
+taken into consideration, even though that person employed a commissioner. Ethical guidelines
+should be followed. If their boss spoke on behalf of an applicant, the Commissioner would need to
+recuse themselves.
+
+       7.     Failing to read the Staff Report or review the meeting packet
+
+Staff Reports are organized with background information, General Plan and Zoning information,
+ordinance requirements, criteria for review and approval, suggested conditions and motions, and
+exhibits. The Commissioners need to review all information before the meeting.
+
+       8.     Not understanding different application types and processes
+
+   •   Legislative versus administrative
+   •   Zoning and Land Use Map amendments
+   •   Zoning Ordinance Text amendments
+   •   Conditional Use Permits
+   •   Site Plan Review
+   •   Subdivisions
+Draper City Planning Commission Meeting
+December 11, 2025
+Page 17
+
+
+     •   Deviations
+
+Mr. Draper encouraged the Commission to ask for clarification if they have questions on an item’s
+type or the specific process.
+
+         9.    Debating with the Public
+
+It is essential to maintain decorum. When members of the public ask questions and expect the
+Planning Commission to answer them, they should be referred to staff. The Commission can also
+pose some questions to the applicant after the public comment period closes.
+
+Ms. Jastremsky referred to the citizen who had questions about access, but the application was for
+rezoning and not the site plan. An appropriate response at that stage would be to refer them to the
+staff to discuss the standards.
+
+         10.   Talking outside the hearing
+
+Emails, texts, and side conversations about items that have not been heard by the Commission or
+presented to the City Council should be avoided as they risk undermining the process.
+
+2.       Other Business.
+
+Ms. Jastremsky reported that the next Planning Commission meeting was scheduled for December
+18, 2025.
+
+3.       Adjournment.
+
+Motion: Commissioner Shirey moved to ADJOURN.
+
+The meeting adjourned at 8:19 PM.
+

@@ -1,0 +1,546 @@
+# Riverton Planning Commission Meeting — 2024-10-24
+> Source: https://www.utah.gov/pmn/files/1196189.pdf
+> Meeting date: 2024-10-24
+> Body: PlanningCommission
+> PMN notice: https://www.utah.gov/pmn/sitemap/notice/948553.html
+> Format: text
+
+Approved: 11.14.24
+
+                       RIVERTON CITY PLANNING COMMISSION
+                                MEETING MINUTES
+                                OCTOBER 24, 2024
+
+The Riverton City Planning Commission convened at approximately 6:30 p.m. in the
+Riverton City Hall, 12830 South Redwood Road, Riverton Utah.
+
+Planning Commission Members:                    Staff:
+
+Evan Matheson, Chair                            Jason Lethbridge, Development Services Director
+Gary Cannon                                     Matt Cassel, City Engineer
+Shelly Cluff                                    Tim Prestwich, City Planner
+Crystal Keele                                   Brett Coombs, Assistant City Attorney
+
+1.           CALL TO ORDER/ROLL CALL
+
+Chair Evan Matheson called the meeting to order at approximately 6:30 PM.
+
+2.    PUBLIC HEARINGS
+
+      A.     “EINKORN MAMA”, PLZ-24-2031, AN APPLICATION FOR A
+             CONDITIONAL USE – HOME OCCUPATION PERMIT TO HAVE A
+             COTTAGE BAKERY IN A BASEMENT KITCHEN AT A HOME LOCATED
+             AT 1984 WEST 13330 SOUTH. APPLICANT – MELANIE HANSEN.
+
+City Planner Tim Prestwich presented the Staff Report and stated that the request is for a
+home occupation. He explained that the name refers to einkorn, which is an ancient grain
+that has only 14 chromosomes rather than 42 like modern grains. It is supposed to stop
+inflammation and contains fewer carbohydrates. The property is located in the R-3 zone in
+a built-out neighborhood. Renderings of the street and lot were presented. Mr. Prestwich
+stated that there is adequate parking in the driveway and on the long frontage. It was noted
+that a previous notice for the October 10, 2024 meeting was never sent out. Mr. Prestwich
+determined that the notices were sent out correctly. No comments were received from
+neighbors.
+
+Mr. Prestwich indicated that baking and food preparation work will take place in the
+basement kitchen. Customers will come on bake days and park in the driveway or along
+the frontage. The applicant initially requested up to 16 customers per day. The ordinance
+allows for six. The Planning Commission can approve up to 12 customers per day for any
+use other than child daycare. Staff recommended that the applicant be allowed to have a
+maximum of 12 customers per day since services will take place only a few days per week
+and there is ample parking. The layout of the home and parking was presented.
+
+Mr. Prestwich reported that home occupations are evaluated based on whether they are on
+the prohibited list. This home is not. The fixed standards are then addressed along with the
+qualifications. If all qualifications are met, staff can grant approval. If there are any
+exceptions, the request will come before the Planning Commission which will make the final
+decision. One trigger pertains to whether food is being prepared in the home or if they are
+Riverton City Planning Commission Meeting                                                2
+October 24, 2024
+
+
+seeking more than six customers per day. Staff could not identify any issues with the
+additional requests and recommended approval with the conditions set forth in the Staff
+Report. Mr. Prestwich reported that the State changed the Home Food Preparation
+Guidelines last year and the City’s Business Licensing and Planning Departments will
+ensure that the applicant has the appropriate licenses from the outside State agencies.
+
+The applicant, Melanie Hansen, reported that what is proposed is a cottage bakery focused
+on the einkorn grain, which is an ancient grain. It is easier to digest and can be consumed
+by those with gluten sensitivities. She plans to sell mostly sourdough bread. Orders will be
+taken through an app and orders will be pre-paid. Customers will just come to pick up their
+orders. Chair Matheson asked if 12 orders per day would be enough to sustain her business.
+
+Ms. Hansen stated that it would not and she would make deliveries as well. Commissioner
+Cannon asked about the hours of operation. Ms. Hansen stated that she would start with
+one day per week and increase from there. Pick-up times will only be on designated days.
+If the business grows she may ultimately relocate to a retail space. In response to a question
+raised by Commissioner Keele, Ms. Hanson clarified that pick-up times will be staggered so
+that there will only be one customer at a time.
+
+Chair Matheson opened the public hearing. There were no public comments. The public
+hearing was closed.
+
+Commissioner Cluff moved to APPROVE PLZ-24-2031 “Einkorn Mama”, at 1984 West
+13330 South with the following conditions:
+
+       1.     The site, structures, and use shall remain in compliance with any and all
+              applicable Riverton City standards and ordinances, specifically the City
+              Home Occupation Ordinance (18.190) and applicable Building and Fire
+              Codes.
+
+       2.     The applicant must obtain and maintain a Riverton City Business
+              License.
+
+       3.     The applicant must obtain and maintain applicable State and other
+              outside agency approvals.
+
+       4.     The Home Occupation must operate within the Fixed Standards and
+              applicable Qualifications and Conditions as outlined in the Home
+              Occupation Ordinance and with this approval.
+
+       5.     The applicant may use up to 50% of the basement for the business.
+
+       6.     There shall be no visitors in conjunction with the home occupation
+              before 7:00 a.m. or after 7:00 p.m.
+Riverton City Planning Commission Meeting                                              3
+October 24, 2024
+
+
+      7.     The number of customers per day shall be limited to twelve (12) and pick-
+             up times must be staggered.
+
+Commissioner Keele seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      B.     “SKIBIDI RIZZ SUBDIVISION,” PLZ-24-1007, AN APPLICATION FOR A
+             MINOR 2-LOT SUBDIVISION OF APPROXIMATELY 1.25-ACRES, ZONED
+             RR-22 (SINGLE-FAMILY RESIDENTIAL, MINIMUM .5-ACRE LOTS)
+             LOCATED AT 13441 SOUTH TRESTLE LANE. APPLICANT – KELLY
+             CHECKETTS.
+
+Chair Matheson moved that the Planning Commission CONTINUE PLZ-24-1007 for the
+Skibidi Rizz Subdivision to the November 14, 2024, Planning Commission Meeting.
+Commissioner Cluff seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+3.    DECISION ITEMS
+
+      A.     None.
+
+4.    DISCUSSION ITEMS
+
+      A.     None.
+
+5.    MINUTES
+
+      A.     “ROCK RIDGE PHASE 1,” PLZ-24-8016, AN APPLICATION FOR A FINAL
+             COMMERCIAL SITE PLAN AND SUBDIVISION, ON APPROXIMATELY 6.7
+             ACRES ON THE SOUTHEAST CORNER OF 12600 SOUTH AND 3600
+             WEST. APPLICANT – AWA ENGINEERING.
+
+Mr. Prestwich presented the Staff Report and stated that the review tonight will be of the
+underground pipes. The property is located on the America First Credit Union (“AFCU”)
+corner. The Master Site Plan for the 7.9-acre site was approved by the Planning
+Commission in August of this year. The Phasing Plan was presented along with the plat.
+The Phasing Plan included the plan, which was already under construction and nearly
+complete. The area shown in blue identified future pads and the area in green was the
+backbone infrastructure that has to be done first. Tonight’s focus was on the green areas.
+The applicant intends to subdivide and sell individual pads. The demolition limits were
+identified as well as the areas they will be working in. They plan to connect the road to go
+to the north and connect east and west with the major backbone shared driveway. The
+Utility Plan shows water lines and storm drains connecting out to 12600 South. Staff
+recommended approval with limited conditions.
+Riverton City Planning Commission Meeting                                                 4
+October 24, 2024
+
+
+Commissioner Cluff asked if the utilities going into the road have already been done.
+Mr. Prestwich’s understanding was that they still need to be done and have not yet been
+approved. City Engineer, Matt Cassel reported that the island work at 12600 South is
+complete and the work is now focused on the approach on 3600 West. The utilities have
+been stubbed into the public right-of-way and will be continued within the development itself.
+
+Rick Magnus from AWA Engineering was present on behalf of the applicant. They anticipate
+with the improvements reflected in Phase 1 to have all of the underground infrastructure
+installed. They, however, will likely not make the asphalt pour until the first quarter of next
+year. They are completing their off-site connections and anticipate the access to be
+completed and improved within one week. Mr. Magnus referred to Lot 5 and stated they do
+not yet have an end user. They have entered into an agreement with the coffee shop to
+share access. They have not finalized Lot 5 because the end user may design the access
+slightly differently. Mr. Magnus reported that Lot 8 will be ready once everything is recorded.
+He agreed with the staff recommendations and was present to answer questions.
+
+Commissioner Cannon asked what other businesses are looking to locate here. Mr. Magnus
+stated that Lot 4 will be a Jack in the Box. Other potential tenants have not been solidified.
+He reported that there has been a lot of interest now that the infrastructure is being
+completed. He noted that AFCU always does a quality job and is looking forward to finishing
+up and being open in December.
+
+Chair Matheson commented that until the infrastructure is in, AFCU is the only business that
+can be open for business. Mr. Magnus confirmed that was the case and stated that once
+the other lots are recorded, staff can begin to address the other applications because they
+will be legal parcels. He explained that their Infrastructure Plan is well ahead of any of the
+other developments that want to come in and get approved. The timing is perfect for the
+other uses to come in by the end of the first quarter of next year.
+
+Commissioner Keele moved to APPROVE PZ-24-8016, Rock Ridge Phase 1 Site Plan
+and Subdivision to be located at 12653 South 3600 West with the following conditions:
+
+       1.     The first phase Final Plan must include the shared infrastructure and the
+              proposed subdivision plat. The subdivision must be recorded before
+              construction work may commence on the other phases.
+
+       2.     Shared Access or Cross Access Agreements for all internal properties
+              shall be formalized and recorded with the first Final Plat.
+
+       3.     Storm drainage systems and accommodations shall comply with the
+              Riverton City Standards and Ordinances, and with the recommendations
+              of the Riverton City Engineer.
+
+       4.     The site, utilities, and structures shall comply with any and all applicable
+              Riverton City Standards and Ordinances, including the International
+              Building and Fire Codes.
+Riverton City Planning Commission Meeting                                              5
+October 24, 2024
+
+
+
+Commissioner Cannon seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+      B.     “MOUNTAIN RIDGE EAST BSP,” PLZ-24-8005, AN APPLICATION FOR A
+             BLOCK-SCALE PLAN CONSISTING OF APPROXIMATELY 61.9 ACRES
+             OF RESIDENTIAL DEVELOPMENT IN THE SLR ZONE ON PROPERTY IN
+             THE GENERAL AREA OF 13400 SOUTH AND MOUNTAIN VIEW
+             CORRIDOR. APPLICANT – BRANDON PARR, EDGE HOMES.
+
+Mr. Prestwich presented the Staff Report and stated that the property is located on the west
+side of the City in an area zoned SLR. An area map was displayed. Mountain Ridge West
+is currently building from the north to south. The Mountain Ridge Apartments were approved
+with construction set to begin soon. The area on the east is Mountain Ridge East and is
+part of the Community Scale Plan (“CSP”) known as Mountain Ridge. At one point it covered
+everything south of the channel to 13800 South. They left a part out and will do only a
+portion of it.
+
+Mr. Prestwich next addressed CSP and Block Scale Plan (“BSP”), which are terms that differ
+from the Suburban Land Reserve (“SLR”) Specific Development District (“SDD”). It follows
+a specific approval process, CSP, high-level basic street network, and moves on to the BSP
+which has increased detail showing feasibility. The public meeting was held previously with
+the CSP, however, public meetings are no longer required in each subsequent stage.
+Mr. Prestwich reported on the Master Development Agreement (“MDA”) and the SLR SDD.
+The SDD is the zoning while the MDA is the legal agreement. He explained that SLR had
+to grant approval before staff could accept the application. Photos were taken from 13800
+South looking east. The CSP approval took place in October of 2022 with a few changes
+taking place since. For example, an extra bridge crossing is anticipated on the north off of
+Sentinel Drive. They were eliminated when looking at final plans and block scale plans on
+the west side. The angle and proximity made those difficult. They have since been removed.
+There are now only crossings where the apartment is on the far west with space set aside
+for a potential one on the east.
+
+Mr. Prestwich reported that a couple of church sites were set aside. Once work on some of
+the phases was underway, it was determined that the Master Developer anticipated putting
+an LDS Church house there, which was no longer desired. The area was replatted with
+Planning Commission approval into additional lots and housing units. On the East Block
+Scale Plan there is a church meetinghouse. The corner has been removed and become a
+future BSP. There is now a clearly defined boundary. Other than the bridge crossing, what
+is proposed looks very similar to the CSP that was approved. A 10-acre regional park is
+proposed on the far east side with townhomes on the north side with the grid road pattern.
+The SLR approval and application were presented.
+
+A photo taken looking north to the Mountain View Village was shown with the skyline in the
+distance. Mr. Prestwich stated that from the southwest to the northeast corner there is over
+Riverton City Planning Commission Meeting                                                 6
+October 24, 2024
+
+
+50 feet of fall on the property. What is proposed are 196 townhomes and 132 single lots
+ranging in size from 6,000 to 8,000 square feet.
+
+Along the Welby Jacob Canal will be a Regional Park with a trail and a private clubhouse
+that will serve the homeowners in the area. There is separation from the City Park.
+Mr. Prestwich pointed out that Templar Drive is the main road that comes off of Sentinel and
+has a 60-inch storm drain pond from the Utah Department of Transportation (“UDOT”) and
+is where the water that drains off of the Mountain View Corridor will go. He commended the
+engineer for putting the pieces together in a way that meets City standards and makes it
+possible for them to achieve their goals. The pond to the south of the clubhouse will be
+maintained by the City. The park is its own phase and the City Council will ultimately decide
+the amenities and layout. The City Council through the MDA has to grant approval.
+
+Mr. Prestwich reported that Edge Homes and their engineers have done a clever job of
+laying out the project. They want to begin building houses and recouping some of their
+costs. Templar Drive will be part of the first phase. They will be limited to 30 units per Fire
+Code before a second access point is required. Phase 26B is Greenford Lane and could be
+built independently with the park coming later. Once the two roads are in, the developer will
+have flexibility with the other phases.
+
+The road network was presented. The roads shown in blue are publicly maintained roads
+and will meet current City standards for a public street and be publicly maintained with public
+utilities. The roads shown in orange and purple are private and will be privately maintained.
+Staff recommended approval.
+
+Mr. Prestwich stated that Sentinel Ridge has been a challenge in that Templar Drive extends
+on both sides and serves the denser parts of the development. Where it interacts with
+Sentinel is a bit of a challenge. Sentinel going north and south has two lanes in each
+direction with a light at 13800 South that extends to Mountain Ridge, connects onto the
+Mountain Ridge Frontage Road, and goes east over the canal and connects to the back side
+of Walmart.
+
+Traffic Studies were conducted before the connections were made and there was
+uncertainty about the impacts. Staff’s concern was that the residents lining up on Templar
+would not get a break to get onto Sentinel. The developer presented a partial island to limit
+movements. Staff recommended that the City reserve the right to look at it again on the
+Phase 26A plan and have the developer bring back updated traffic studies showing the
+impacts of the current layout.
+
+Commissioner Cannon referenced the colored map and questioned why the bridge was not
+shown on 13800 South. Mr. Prestwich stated that the bridges were outside of the CSP and
+were not the responsibility of Edge Homes to build. For that reason, it was left off.
+Commissioner Cannon mentioned that the park that was built far exceeded all expectations.
+He also informed the new Commissioners of the area on 13800 South near Fall Ridge and
+Pillar Ridge and stated that what they have done is ingenious. It will be one of the few east-
+west roads on the south end of the City and will be a huge traffic corridor. He expected there
+Riverton City Planning Commission Meeting                                                   7
+October 24, 2024
+
+
+to be very little impact on 13400 South and the residents on the north and south sides of
+13800 South. Mr. Prestwich mentioned that the road and bridge bring Herriman, Bluffdale,
+and Riverton together.
+
+Chair Matheson asked what determines which roads are public and private. Mr. Prestwich
+stated that typically when a developer wants to develop multi-family or narrower street
+widths, they want to do a private road section. There are advantages to the developer and
+the City in doing so. In this case, the City has water connections and utilities and is satisfied
+with how the project is laid out. He noted that the townhomes allow them to have an income
+stream through the Homeowners Association (“HOA”) to maintain that.
+
+The applicant, Paxton Guyman, identified himself as General Counsel for Edge Homes,
+located in Draper. He commended Mr. Prestwich for the staff presentation. Mr. Guyman
+stated that this community is a hallmark example of what can happen when you have a
+master developer and a very talented staff who are working toward the same goal which is
+to have a functional, nice community that the residents want to live in. You start with a CSP
+and as market conditions change and development occurs, adjustments need to be made.
+What is being presented is the result of adjustments and input from all parties. The applicant
+was supportive of the proposed conditions. Mr. Guymon pointed out that a great deal of
+work has gone into getting to this point. He noted that it is a great project and the demand
+is there. He appreciated the relationship he has with staff and for being able to work
+amicably together.
+
+Commissioner Keele moved to APPROVE PZ-24-8005, “Mountain Ridge East” Block
+Scale Plan to be located near 13600 South Sentinel Ridge Boulevard, with the
+following conditions:
+
+       1.     The Block Scale Plan shall comply with the Master Development
+              Agreement (“MDA”), Suburban Land Reserve Specific Development
+              District, the approved Mountain Ridge SCP, and the approval of the
+              Master Developer (“SLR”).
+
+       2.     Final approval of engineering systems, including stormwater and
+              culinary/secondary water systems shall be with each Detail Plan
+              approval.
+
+       3.     Fencing will be constructed as shown in the approved plan, with
+              amendments only as approved by the City.
+
+       4.     Ownership and maintenance of infrastructure and open space shall
+              follow the plan presented on the Public vs. Private Roadway Plan (Sheet
+              C-102).
+
+       5.     Phasing of Detailed Plans and construction shall follow the Overall
+              Phasing Plan (C-101).
+Riverton City Planning Commission Meeting                                                     8
+October 24, 2024
+
+
+       6.     No more than 30 units may be occupied in Phase 26A before a second
+              access into the phase is made connecting Sentinel Ridge or 13800 South.
+
+       7.     The Detailed Plan application for Phase 26A shall include additional
+              traffic studies and recommended solutions to address traffic on Sentinel
+              Ridge Boulevard or Templar Drive. Traffic mitigation proposals are to be
+              approved by the Planning Commission with the Phase 26A Detailed Plan.
+
+Commissioner Cluff seconded the motion. The motion passed with the unanimous
+consent of the Commission.
+
+Development Services Director, Jason Lethbridge clarified that the Commission will have an
+opportunity to see the final park design. The City Council makes the final decision because
+it involves budgetary commitments. The installation will be through Edge Homes with the
+funding source being Park Impact Fees that are collected within the project area.
+
+       C.     “AMENDED SITE PLAN - CITY BUILDINGS,” PLZ-24-8017, AN
+              APPLICATION FOR AMENDING SITE PLANS FOR CITY HALL, OLD
+              DOME MEETING HALL, AND THE POLICE DEPARTMENT BUILDING TO
+              ADD OUTDOOR HOLIDAY LIGHTING, INITIATED BY RIVERTON CITY.
+
+Mr. Lethbridge reported that the application is to amend a couple of site plans. Recently,
+time was spent formulating and adopting an ordinance regulating holiday lighting. One of
+the stipulations was that those looking to install permanent lighting to be used in that way
+amend their site plan. There is language within the Code that allows for some exceptions
+for civic events in the way lighting is used but site plan approval was done for City Hall and
+a couple of other City buildings. In 2013, the City processed site plans that included the
+Police Department Building as part of the Civic Center Campus and the Domed Meeting Hall
+as part of the overall park. The City has installed temporary lighting on these buildings
+consistently since they began being used but the City is looking to install permanent lighting
+to be used as lighting for holidays and civic events. The areas were shown where the lighting
+would be installed. All areas fall well outside of the distance limitations relative to residential
+properties.
+
+Chair Matheson moved that the Planning Commission APPROVE Application PLZ-22-
+8017, Riverton City Lighting Amendments for the Riverton Civic Center, and Domed
+Meeting Hall Site Plans. The motion was seconded by Commissioner Cannon. The
+motion passed with the unanimous consent of the Commission.
+
+       D.     “STORAGE CONTAINERS,” PLZ-24-5003, A CONTINUED DISCUSSION
+              ABOUT AMENDING THE CITY CODE REGARDING STORAGE
+              CONTAINERS, INITIATED BY RIVERTON CITY.
+
+Mr. Lethbridge presented the Staff Report and stated that the issue pertains to cargo
+containers. Currently, the City ordinance prohibits the use of storage and freight containers
+on property. Staff has seen an increasing number of cargo containers being purchased and
+Riverton City Planning Commission Meeting                                                  9
+October 24, 2024
+
+
+utilized on property within the City and more are being brought to the attention of Code
+Enforcement. After reviewing the Code, the interpretation was that if the storage container
+is the internal structure of an accessory building, it can be allowed. An example was shown
+of an existing cargo container being enclosed in siding to be compliant with the City Code.
+In terms of setbacks, it still has to meet the same requirements for size and the distance
+from property lines provided that the exterior materials are consistent with the Accessory
+Building Ordinance. It would be treated the same way as a shed or other accessory structure
+and is then no longer considered a cargo container and can be classified as an accessory
+structure and remain on the property. The proposed language has been posted on the City’s
+web page and made available to the public. It has been a way to address the use of cargo
+containers and the desire for residents to have them and hold them to the same standard
+as any other accessory building.
+
+Staff reviewed the proposed amendment and found that the interpretation of the Code is
+being utilized to an extent that they need to consider codifying the Code. The proposed
+amendment takes the existing Code that prohibits storage containers and includes language
+that describes how they may be used. It was clarified that someone can have a cargo
+container as long it is treated as any other accessory building.
+
+During a previous discussion with the Planning Commission, a Commissioner shared photos
+and raised concerns. Mr. Lethbridge looked at other cities and found that many allow them
+while others do not. They looked at the most common requirements or criteria that are used
+by other cities that allow them. If the desire of the Commission was to forward a
+recommendation to the City Council that they be allowed, there were conditions provided as
+a starting point. They are the most common and most cities that allow them have very similar
+requirements. There were requirements that they be placed in certain areas of the property,
+meet setback requirements, be painted a single color that is consistent with the color of the
+main dwelling, and be free of any logos and alphanumeric characters. He explained that
+because they are cargo containers they have quite a bit of information on them. That
+requirement would stipulate that they be painted and remain free from any of those things.
+They must also be maintained without visible rust or damage.
+
+Mr. Lethbridge explained that there is also a section in the Code that addresses temporary
+containers such as pods, which are allowed. The current language specifies that they may
+be used during a move but have to be placed on private property. There have been issues
+with individuals putting them in the street where they create problems. It was clarified that
+that is prohibited. There is a seven-day limitation that is part of the Code. Currently, storage
+containers may not be used as living space. Mr. Lethbridge stated that there are cities that
+allow them and they are extremely difficult to configure and construct in a manner that meets
+all of the requirements for living space. Generally, it is rarely cost-effective to convert them
+to living space and bring them up to Code. It is usually cheaper to build a structure.
+
+Commissioner Cannon asked for guidance from the City’s legal counsel and stated that he
+is President of the South Jordan Canal Company which has 24 miles of canal that runs along
+the Salt Lake Valley. Adjacent to Riverton Park they have a container that is used for storage
+that is very inconspicuous. It is used to store records and water treatment in 55-gallon
+Riverton City Planning Commission Meeting                                                 10
+October 24, 2024
+
+
+drums. Occasionally there is vandalism, however, the canal is patrolled daily. He asked
+that a provision be added for them or other water facilities that provide water to the City to
+leave the container where it is currently.
+
+Mr. Lethbridge reported that the proposed amendment only addresses the residential use of
+cargo containers. The next step in the process will involve addressing commercial and non-
+residential properties. Assistant City Attorney, Brett Coombs, stated that the uses as
+described would not fall under the auspices of what is proposed as it is directed to residential
+use. Mr. Lethbridge stated that this is an issue the City Council has discussed but there is
+no consensus and it is an issue they are grappling with.
+
+Commissioner Cluff asked if they allow the storage containers to just be painted if it would
+make it illogical for the City to restrict other structures such as aluminum garages.
+Mr. Lethbridge stated that it introduces that question. He explained that State Code no
+longer allows the City to regulate what materials go on a home and it does not say that cities
+can have the restrictions that the City does on accessory structures. It would, however, be
+easy for someone to introduce metal siding on an accessory building and in their home. He
+explained that the Code allows the City to treat cargo containers differently.
+
+Commissioner Keele asked if applicants would still have to go through the permitting process
+to locate a cargo container on their property. Mr. Prestwich stated that they would not for
+the most part. The State adjusted its threshold for square footage that would require a
+Building Permit for any structure over 200 square feet in size. That number was adjusted to
+increase it so that most cargo containers do not require a Building Permit or foundation. No
+permit is required unless plumbing or utilities are run to it.
+
+Commissioner Keele asked how the situation would be policed if they are allowed.
+Mr. Lethbridge stated that it would be much as it is now through Code Enforcement. He
+explained that if the proposed language were forwarded to the City Council and adopted,
+there would no longer be a requirement for them to attach siding or material to a cargo
+container. This option would simply say that they are allowed and they would need to be
+painted. The other option would require materials that are consistent with the primary
+dwelling.
+
+Chair Matheson asked about storage containers being used as living space and if that would
+be eliminated as an option. Mr. Prestwich stated that they could be based on the language
+put forward by the Commission. The two tracks were identified as allowing them provided
+that they are surfaced similar to an accessory structure or allow cargo containers as cargo
+containers provided they are painted and maintained. Mr. Prestwich stated that the issue
+has been that when they enforce one, many more appear. The Commission should
+recommend to the City Council which direction they would like to pursue.
+
+Commissioner Cluff was of the opinion that if someone wants to go through the expense of
+converting a cargo container into a living space they should be allowed to. She asked if staff
+saw any harm in allowing that. Mr. Prestwich had no objection to them and stated that the
+cost may be prohibitive.
+Riverton City Planning Commission Meeting                                           11
+October 24, 2024
+
+
+
+Chair Matheson asked if it would be possible to allow verbiage to specify that they can be
+used as living space or an accessory dwelling unit only after going through Code
+Enforcement and obtaining the required permits.
+
+The possibility of removing condition number 6 was discussed. Paint and trim issues were
+discussed. The decision of the Commission was to eliminate condition number six.
+
+Commissioner Cluff moved to recommend APPROVAL of an amendment to Section
+18.225, Accessory Structures, with the following substitution language:
+
+Storage containers, freight containers, box cars, and similar storage equipment may
+be used as accessory structures with the following requirements:
+
+      1.     All applicable requirements of this section, and any other relevant
+             sections of this Code, must be met, including setback and coverage
+             limitations.
+
+      2.     The container must be painted a single color consistent with the general
+             coloring of the main dwelling.
+
+      3.     The container must be free from any logos or alpha-numeric characters.
+
+      4.     The container must be maintained without visible rust or damage.
+
+      5.     Temporary storage containers may be used only for move-in/move-out
+             purposes, provided they are only placed within the private property area.
+             Temporary containers may not be present on the property for more than
+             seven days.
+
+The motion was seconded by Commissioner Keele. The motion passed with the
+unanimous consent of the Commission.
+
+6.    MINUTES
+
+      A.     None.
+
+7.    ADJOURNMENT
+
+The meeting adjourned at approximately 7:47 PM.
+

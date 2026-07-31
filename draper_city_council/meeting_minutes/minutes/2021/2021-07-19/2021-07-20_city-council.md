@@ -1,0 +1,1047 @@
+# City Council Meeting
+> Source: Utah Public Notice Website (PMN), Draper City Council (PMN body 5555)
+> Notice: https://www.utah.gov/pmn/sitemap/notice/691173.html  |  File: https://www.utah.gov/pmn/files/745327.pdf (file id 745327)
+> PMN original: pmn_backfill/raw/pmn_council_2021-07-20_minutes_745327.pdf  |  Raw PDF: raw/2021-07-20_city-council.pdf
+> Meeting date: 2021-07-20
+> Recovered 2026-07-13 via pmn_backfill; PROMOTED 2026-07-16 into this audited layer (born-digital, internal header/date verified - see pmn_backfill/CLAUDE.md).
+> Note: Heals the logged broken-Granicus-stub gap (the portal serves a ~299-byte non-PDF stub for this date). Full 24-page adopted minutes (approved 2021-08-03).
+> Format: text (born-digital)  |  Extraction: pdftotext -layout
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, JULY 20, 2021, IN
+THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER, UTAH
+
+
+
+PRESENT:        Mayor Troy K. Walker, and Councilmembers Mike Green (by phone), Tasha
+                Lowery, Fred Lowry, Cal Roberts, and Marsha Vawdrey
+
+EXCUSED:
+
+STAFF PRESENT:        David Dobbins, City Manager; Mike Barker, City Attorney; Scott Cooley,
+                      City Engineer; Hazel Dunsmore, Human Resource Director; John
+                      Eining, Police Chief; Bret Millburn, Assistant City Manager; Rhett
+                      Ogden, Recreation Director; Laura Oscarson, City Recorder; Linda
+                      Peterson, Communications Director; Clint Smith, Fire Chief; Jake
+                      Sorensen, IT; and Bob Wylie, Finance Director
+
+_____________________________________________________________
+
+Study Session
+
+1.0    Presentation: Update from Jordan Valley Water Conservancy District on Water
+       Supply Issues and Proposed Property Tax – A. Reed Gibby
+
+1.1    Reed Gibby, Jordan Valley Water Conservancy District, reported on the proposed
+       property tax increase for 2021. He said that the public hearing about the property
+       tax increase was scheduled for August 11, 2021, at 6:00 p.m. He continued that the
+       service area was only growing slightly by area, but was growing a lot by population.
+       The total revenue for the proposed budget for FY 2021-2022 was $84.5 million. The
+       property tax accounts for about 27% of those revenues. Additional revenue from
+       the tax increase amounted to about $1.8 million, or a 9% increase in property tax
+       revenues. The increase in the property tax rate was just over 2%. The property tax
+       increase for a typical home comes out to about $8.18 per year given that the
+       average property tax was $86. If the property tax was ten times that, the increase
+       would be about $82 a year. He said that one of the challenges for the district was
+       making sure that it could deliver water to all of the residents within its boundaries.
+       He said that there were some major projects to ensure this was possible. The
+       treatment plant needed to be expanded. That was a $65 million project. A new
+       storage reservoir needed to be installed for $23 million. A new booster pump
+       station would cost about $10 million. In addition to these large projects, several
+       smaller projects would total about $80 million in expenses.
+
+
+
+
+                                                                                 Page 1 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      Mr. Gibby commented that he had been impressed with the district and state as a
+      whole on the amount of storage and reservoirs.
+
+
+
+1.2   Councilmember T. Lowery asked where the public meeting was going to be held for
+      the property tax public hearing.
+
+      Alan Packard, Assistant General Manager of the Jordan Valley Water Conservancy
+      District, said that it would be held at the district offices at 8215 South 1300 West in
+      West Jordan.
+
+1.3   Mayor Walker asked how long it had been since the water conservancy had a
+      property tax increase and how much the increase was.
+
+      Mr. Packard said the last increase, between 5 and 10%, was in 2018.
+
+
+
+1.4   Mr. Packard provided some information on the current water conditions of the
+      district in response to the 2021 drought. He noted the response actions for 2021
+      listed on the Jordan Valley Water Conservancy District’s website. He said that
+      although the district had good supplies for this year and won’t have to employ any
+      mandatory restrictions, they were encouraging the public to follow Governor Cox’s
+      direction to limit outdoor watering to no more than twice per week in the northern
+      part of the state, to limit outdoor watering to outside the heat of the day, and to use
+      water as efficiently as possible. He said that any water conserved this year could be
+      held in storage by the district by next year. This would allow them to carry over
+      water to prevent an emergency in 2022 if there was another poor snowpack year.
+
+      He then talked about how the district was preparing for future droughts: a long-
+      term vision, diversified supplies, mitigation planning, and conservation priority. The
+      district just completed a formal drought contingency plan, was looking to add
+      additional water supplies, and host the Utah Water Saver’s Website. He said that
+      there were several incentives offered to residents and businesses to make their
+      outside landscaping more water-wise.
+
+1.5   Councilmember T. Lowery said that she had heard from a Draper resident that the
+      grants to do the Flip Your Strip Program were limited and that they had all been
+      used up.
+
+      Mr. Packard said that he was not aware of that. He said that if he got the name of
+      the resident, he would follow up afterward. He then displayed the service area, the
+      most rapidly growing part of the Salt Lake Valley. He said that the district has been
+      communicating with users that water was a finite resource and that it was
+
+                                                                                  Page 2 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      important to link development and economic growth with water resources to be
+      conservation-minded. He said that the district was interested in working
+      collaboratively with cities so that water development was no longer reactionary. He
+      said that there was not enough water to support how things had been done
+      historically.
+
+1.6   Councilmember Roberts asked how market dynamics impacted the price of water
+      given that it was a finite resource and commodity. Mr. Packard said that the limited
+      nature of water did show up in price. He explained that two years ago the Jordan
+      Valley Water Conservancy Board put in place a policy to identify conditions in which
+      new lands outside of the current area might be able to annex into Jordan Valley’s
+      boundaries to gain access to water service. The policy put into place stated that
+      those new lands would have to pay the Block 2 water price based on the most
+      expensive and most recent supply. The Block 2 rate, compared to the Block 1 rate
+      based on historic supplies, is almost double the cost.
+
+      In the future, additional water supplies will only get more expensive. He said that
+      cheap water had been developed. There would be pressure to raise rates over time.
+
+      Mr. Packard said that another important consideration that the district was trying to
+      keep in mind was the Great Salt Lake ecosystem. He said that with 60% of that
+      water delivered by the district was used outside, indoor wastewater was treated,
+      returned to the Jordan River, and would make its way into the Great Salt Lake. The
+      Great Salt Lake, however, was in a troubling downtrend with serious environmental
+      consequences if that continues.
+
+      He then displayed a chart of the district’s future supplies. He noted that the yellow
+      dotted line in the chart signified what the per capita water use would currently be if
+      it matched the usage in 2000. The graph showed that use was significantly under
+      that line, demonstrating conservation. Future projections also suggested the need
+      for future progress towards conservation to be able to stay within the water
+      available. He noted that the blue area represented the water that would become
+      available through Strawberry Reservoir, there were a couple of groundwater
+      projects, and the red bars demonstrated the Bear River Development Project. He
+      said that it was a state project for which Jordan Valley was a major recipient.
+
+      In closing, Mr. Packard promoted Jordan Valley’s efficiency standards that they hope
+      all member cities will promote through ordinances on new development. For
+      residential areas, they want to encourage the use of WaterSense indoor fixtures,
+      that there is no grass in park strips for new construction, and a limit of no more
+      than 35% turf as a percentage of the landscaped area in front and side yards. In
+      commercial settings, the district proposes a turf limit of 20% of the landscaped area
+
+                                                                                Page 3 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      unless there was active recreation. Lawns should not be used in areas narrower
+      than 8 feet.
+
+1.7   Mayor Walker followed up on a comment made earlier about how 60% of water use
+      was for outside purposes with 40% used for inside purposes and that he wanted to
+      flip that ratio.
+
+      Mr. Packard said to flip that ratio was probably ambitious. He said that for new
+      construction, he felt that it was within the district’s reach to get that use to be 50-50
+      through reducing park strips and installing drip irrigation.
+
+      Mayor Walker asked if he had any data on the impact of existing homes converting.
+      Mr. Packard clarified that the yellow demand line in the graph assumed that all of its
+      member cities adopted the conservation standards. He said that if the cities did not,
+      then the water usage would push up against the green line which was much closer
+      to the total supply, and in some places exceeded it. He said that the yellow demand
+      line also assumed a modest amount of retrofitting which would be funded by the
+      district through incentives.
+
+      Mayor Walker said that what could be motivating in a campaign for conservation
+      was that the demand represented by the yellow line could be reduced by a more
+      substantial number of homes retrofitting their yards with xeriscaping. He said that
+      he was looking for something they could do as a City to motivate people to do
+      something now that would be substantial.
+
+1.8   Councilmember Roberts asked if water was scarce, why that was not reflected in
+      pricing.
+
+      Mr. Packard said that Jordan Valley’s charge was based on a cost of service basis.
+      He said that they could not artificially make up a high price. The price had to be tied
+      back to what it cost to provide the service. He said that historically, they had
+      enjoyed less expensive developed water supplies because the Federal Government
+      built the Central Utah Project or the Provo River Project, the Deer Creek Dam. This
+      enabled pretty low-cost water.
+
+      Councilmember Roberts asked if the pricing did not consider supply and the fact
+      that water was finite, constrained, and limited. He said that he was always confused
+      when they talked about conservation efforts why they did not just raise the price of
+      the water to reduce consumption.
+
+      Mr. Packard said that they set their rates either based on how much it costs to
+      develop their supplies or purchase the water from others. He said that the most
+      recent supplies were more expensive and that would be reflected in the price, about
+      double the cost, to newly added lands. Jordan Valley operated a small retail system
+
+                                                                                   Page 4 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      in parts of the service area. He said that retail rates started at $1.50 per 1,000
+      gallons for its first pricing tier, and escalated to about $4.00 per 1,000 gallons by its
+      fourth tier. He said that if they were just to increase the rate to $10 they would get
+      sued. They didn’t want to spend all their money in court.
+
+      Councilmember Roberts summarized that the price of water was not set based on
+      demand, but on the cost to obtain and deliver the water. This meant that water did
+      not operate as a market.
+
+      Councilmember F. Lowry asked about the tax increase. He said that the last
+      increase in 2018 was between 4-5% and that the new increase was almost double
+      what had normally been done. He asked how that could adequately be explained to
+      residents.
+
+      Mr. Packard said that the previous tax increases had been in the neighborhood of 5-
+      10%. He said that the district tried to make sure they were not going after a double-
+      digit increase. However, there were compelling needs over the next 2-3 years that
+      led them to want to push the upper limit of what the district was usually
+      comfortable in seeking.
+
+      Councilmember F. Lowry said that WaterPro had been looking into recycling the
+      secondary water. He asked what kind of movement was happening with that by the
+      Jordan Valley District.
+
+      Mr. Packard said they were working closely with WaterPro and the Central Utah
+      Water Conservancy District and they hope to provide some funding for a recycling
+      project at the Jordan Basin Reclamation Facility. He said that funding was
+      dependent upon federal appropriations that had been lacking over the last several
+      years. Utah did not expect any imminent new federal dollars. WaterPro had
+      decided that they were prepared to frontend the project in the hopes of getting
+      reimbursed in the future through the Central Utah Water Conservancy District and
+      federal funding.
+
+1.9   Councilmember Roberts said that he was trying to understand the property tax
+      increase. He summarized that the property tax increase resulting in an additional
+      $1.8 million in revenues was to fund the large capital projects that were needed.
+      However, the total amount needed for those projects was $180 million. He felt like
+      that was a huge disparity. He wondered if the money was being used for those
+      projects or was covering inflation or increases in operational costs.
+
+      Mr. Packard said that the money would be used to help with debt service for the
+      projects. He explained that as they build the $180 million in projects over the next
+      five years, they would issue bonds, increasing their annual debt obligation. The $1.8
+
+                                                                                   Page 5 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+       million would supplement other water sales revenues to pay that increased debt
+       service. He said that when they issue bonds, they can get good ratings from the
+       rating agency if a portion of the revenue is steady and predictable. Water sales
+       revenue can be pretty volatile. If they can have about 25% of their total revenue be
+       predictable from property taxes, they can get a higher bond rating, and lower
+       interest rates that are better for customers’ overall cost.
+
+1.10   Councilmember Vawdrey clarified that the slides that outlined what cities could do
+       to help were just for new construction. Mr. Packard said that the Jordan Valley
+       Water Efficiency Standards, that the district had adopted and was seeking each of its
+       member cities to adopt, are only applicable to new construction.
+
+1.11   Councilmember T. Lowery said that she had heard a lot of concerns about the
+       Great Salt Lake and how when it dries up there would be arsenic and all sorts of
+       terrible things. She asked if Mr. Packard could speak to how the district plans to
+       mitigate that or refill the lake in some way.
+
+       Mr. Packard returned to the WaterPro recycling idea. He said that if they were
+       successful in recycling they would take water that was headed to the Great Salt Lake
+       and would fully consume it through outdoor irrigation. He said that the district was
+       going to encourage WaterPro to take some of their Utah Lake Water that was less
+       reliable in quantity and quality and release it to the Jordan River. Another area that
+       the District was working on was to shift that 60-40 split to closer to 50-50 because
+       any water used indoors goes to the Great Salt Lake. Water used outdoors, very little
+       would make it to the Great Salt Lake. Minimizing turf made a big difference in more
+       water making it to the Great Salt Lake. Studies show that this can save more than
+       half the water used in an outdoor environment.
+
+1.12   Councilmember F. Lowry said that those standards only applied to new
+       construction. To Mayor Walker’s earlier question, he asked if there was some sort of
+       program to have existing landscapes redesigned to meet that new standard. Mr.
+       Packard said that there were existing programs. The first program was called Flip
+       Your Strip where the district will provide up to $1.25 per square foot if someone
+       removes turf and replaces it with mulch and some plantings. He said that there was
+       a LocalScapes rewards program that extends outside the park strip. These
+       programs were funded at a level that was not widespread. He said that these
+       programs were at a pilot scale, perhaps 100 a year. He said that was progress, but
+       not substantial yet.
+
+       Councilmember T. Lowery said that she felt like that was an important program and
+       that the Council set aside money to start a similar program in Draper. She said that
+       she was glad to hear that the district was working with WaterPro on groundwater.
+
+                                                                                Page 6 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      She said that was a significant concern: the lack of the Jordan River refilling the
+      Great Salt Lake. She said that she understood the importance of the program, but
+      that she did not want to see the lake deplete.
+
+      Councilmember F. Lowry said that reduction in the lake levels could also impact the
+      lake effect that impacts the continued ability to get snowstorms. Mr. Packard said
+      that it could be a negative spiral and vicious cycle.
+
+2.0   Discussion: Internal Accessory Dwelling Units (IADU) Options- Jennifer Jastremsky
+      and Todd Draper
+
+2.1   Jen Jastremsky, Senior Planner, said that the previous time staff were before the
+      Council they provided an overview of what the new state law required, as well as
+      some options on how Draper could respond. Since then, staff has looked at some
+      maps of the zoning districts in Draper, road widths, and other mechanisms the City
+      could use to delineate where IADUs might and might not be permitted. She wanted
+      to share what staff found, as well as some potential regulations so that staff could
+      create a proper ordinance to bring forth to the Planning Commission and City
+      Council for review.
+
+      Ms. Jastremsky said that state law permits cities to restrict IADUs in 25% of the area
+      zoned as residential. The first mechanism they looked at to establish these
+      restrictions were single-family dwelling lots less than 6,000 square feet. This was a
+      restriction allowed in the state law and did not count towards the 25%.
+
+      Councilmember F. Lowry asked the average lot size of townhomes. Ms. Jastremsky
+      said that townhomes were not included in IADUs because the IADUs only included
+      single-family detached residences. Next, she displayed a map of single-family
+      dwelling lots on private streets. The width of the street was not looked at, just if it
+      was private or public. 5.1% of residentially owned properties were on private
+      streets. Staff then looked at single-family dwelling lots located on public streets with
+      a right-of-way less than 60 feet wide. Most of SunCrest and South Mountain fell
+      within that category, as well as some CSD and RSD zones, and Master Planned
+      communities. Staff also looked at private streets less than 26 feet in width. These
+      only accounted for 1.2% of residentially zoned areas. When staff looked at
+      combining these mechanisms––the 6,000 square foot lot, public streets less than 60’
+      wide, and all private streets––they were still under 20% of the City area zoned
+      residential.
+
+      She was unsure if there were other mechanisms that the Council would like staff to
+      explore, or if after seeing visually what these mechanisms looked like if they wanted
+      staff to scrap some of them. She also displayed the locations of current detached
+      accessory dwelling units (DADUs) that were currently allowed in the Draper City
+
+                                                                                 Page 7 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      Municipal Code (DCMC). She said that the City would need to modify the code for
+      DADUs with the addition of IADUs. She said that they could modify the code to
+      restrict DADUs on properties under 12,000 square feet.
+
+2.2   Councilmember F. Lowry clarified that the map of the shaded areas with the
+      different mechanisms showed all the places that IADUs could be restricted and that
+      this area was about 20%, under the allowed 25% by the state.
+
+      Ms. Jastremsky said that was correct. She noted that the maps did include South
+      Mountain and SunCrest. She said that although the new state law would apply to
+      South Mountain and SunCrest, the new code would not because they were vested
+      under the old zoning laws that were in effect when they were brought into Draper.
+      However, if they created an ADU permit, the old codes did include ADUs which
+      allowed the City to require permits in those areas.
+
+2.3   Todd Draper said that the area presented based on lot size, street widths and types
+      were 19.2% and included lots less than 6,000 square feet. Staff did not believe that
+      those lots counted towards the allowed 25%.
+
+2.4   Mr. Draper then talked about the regulations for the IADUs that staff suggested the
+      City adopt in an ordinance. These regulations included:
+
+      a.     IADUs had to fit within the existing footprint of the home and that there was
+      only one IADU per lot.
+      b.     Parking could not be tandem behind other parking. It had to be readily
+      available.
+      c.     When an IADU was added in place of an existing garage, that parking had to
+      be replaced.
+      d.     IADUs had to meet health, building, and fire safety codes.
+      e.     IADUs could not be constructed in a way that changed the appearance of the
+      primary dwelling.
+
+      Proposed limitations on IADUs included:
+
+      a.     That a resident could only have one ADU, either one detached or one
+             internal, and not both.
+      b.     The basic restriction on lots less than 6,000 square feet.
+      c.     That IADUs cannot be in mobile homes.
+      d.     That IADUs cannot be built in residences with failing septic systems.
+
+
+      One of the last issues that staff was looking for feedback on was the owner-
+      occupancy requirements. He said that state law requires it for IADUs. However,
+
+                                                                              Page 8 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      there was a question concerning DADUs. It seemed that it was implied, although
+      not specifically stated in Draper’s current ordinance that the primary dwellings of
+      DADUs had to be owner-occupied.
+
+      Councilmember Roberts said that in the spirit of what they were trying to do, he
+      would support clarifying the language and being explicit that a primary dwelling
+      needed to be owner-occupied to have an external dwelling unit.
+
+      Councilmember T. Lowery asked if it was conceivable that someone could have a
+      DADU and an IADU.
+
+2.5   Ms. Jastremsky said that the staff was still evaluating that question. She explained
+      that the proposed draft included language that if an owner had an internal unit they
+      did not qualify for a detached unit. They were still working with legal, however, if
+      that could be reversed. State law said that everyone could have an IADU. She said
+      that she did not think that they could say that if someone already had a DADU, they
+      couldn’t also have an IADU.
+
+      Councilmember T. Lowery said that if that was not possible in places like South
+      Mountain and SunCrest that were superseded by a development agreement, she
+      felt that they needed to look carefully if those communities were being included in
+      the 20%. They appeared to be a large portion of the total area cities were allowed
+      to restrict.
+
+      Ms. Jastremsky said that they were. She continued that the other component of the
+      ADUs was permitting. Staff needed to create a land-use permit that people could
+      apply for to get their IADU. This would allow the City to ensure the owner complied
+      with the new code, for example, they had the extra parking space, and replace
+      parking if a garage was converted. She said that for areas like South Mountain and
+      SunCrest, even if the new code did not apply, state law still did. This would mean
+      that the permit would give the City the ability to make sure that residents in those
+      areas were complying with state law. A second component would be business
+      licensing that would allow the City to monitor ownership on an annual basis, as well
+      as take in additional fees for rentals. She said that the current business licensing
+      code only required a business license if someone had a multi-family dwelling like an
+      apartment building, or if they had four or more rental dwellings. She said this
+      would be a change in the business license code to require licenses for ADUs. Staff
+      had not looked at the short-term rental question because state law says that IADUs
+      are only permissible for rentals of 30 days or more.
+
+
+                                                                               Page 9 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      Councilmember F. Lowry said that if they clarified those homes had to be owner-
+      occupied, what would happen with existing homes that were not owner-occupied
+      and being used as an ADU. He asked if they would get grandfathered in.
+
+      David Dobbins, City Manager, said that they would not get grandfathered in because
+      they didn’t have any legal status. He said that staff would have to choose to go after
+      and enforce residences that don’t meet the owner-occupied qualification.
+
+2.6   Councilmember Roberts asked how they caught/prevented if a residence started
+      owner-occupied and already had a business license, but then moved and rented out
+      the space they moved from.
+
+      Ms. Jastremsky said that would be a violation of their land use permit for an IADU.
+      The business license was something that had to be renewed annually, forcing an
+      owner to come back in. This would provide staff with mailing addresses to keep
+      track of if they changed. Councilmember Roberts said that he felt that would be
+      easy to get around. He said that it was going to be tough to catch that. Ms.
+      Jastremsky said that code enforcement had its challenges and dishonesty was one
+      of them.
+
+      Councilmember Roberts noted that the Council had talked with staff previously
+      about the need for additional code enforcement officers to have the manpower to
+      go out and enforce. He wondered if they had a sense of how much this would cost.
+
+      Ms. Jastremsky said she had spoken with Hazel Dunsmore, Human Resources
+      Director. She said that she was not sure of the level of staffing needed at this point.
+      The wildcard was that initially there would be a lot of work involved in getting
+      properties into compliance. It was hard to gauge what the needs would be after the
+      initial push. Staff had talked with Ms. Dunsmore about employee costs for a part-
+      time versus full-time employee, as well as what over-time would look like for
+      existing staff.
+
+      Councilmember Roberts asked about the role of marshaling evidence to
+      demonstrate that someone was not in compliance. He wondered if noncompliance
+      was mainly going to come in through neighboring residents, or if there would be a
+      protocol of standards that had to be met before the City would issue a citation.
+
+      Ms. Jastremsky said that Draper’s code enforcement was currently on a complaint
+      basis. They did not have the manpower to go looking for violations. When noticed,
+      a resident has a period of time to come into compliance. If someone comes in for a
+
+                                                                               Page 10 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      permit, staff does not typically take further action while a resident works to come
+      into compliance. If someone does not try to comply, then citations and fines can be
+      issued by the City.
+
+      Mr. Dobbins said that a lot of staff time goes into following up on complaints. He
+      provided a recent example of a code enforcement officer who responded to a
+      complaint, the resident answered and, after becoming aware that they needed one,
+      came in and got a permit. That was the best-case scenario. It was the situations
+      where a code enforcement officer goes out and the resident never answered or said
+      that they did not need a permit that became more time consuming and staff had to
+      jump into the legal side of things to get information a resident does not voluntarily
+      give.
+
+      He also talked about situations when someone is told they need to come into
+      compliance who then points out a neighbor, who points out a neighbor, making the
+      City the entity that becomes the bad guy. On the flip side, when a code
+      enforcement officer goes out, a resident wants to know who complained, what had
+      been submitted, and all of the correspondence. This also takes staff time to provide
+      that information to the person who was reported.
+
+      Because of all of this, Mr. Dobbins estimated that enforcing ADUs would be a
+      significant cost to the City. It could be overwhelming to put a single case together.
+      He said that it could be three or four full-time employees just to deal with those who
+      don’t currently have permits. Councilmember F. Lowry noted that staff had worked
+      hard on this and that they were doing a great job.
+
+2.7   Councilmember Roberts said that if they pulled South Mountain and SunCrest from
+      the map, that the total restricted area was a lot less than the allowed 25%. He
+      wondered what other restrictions could apply to get to the full 25%.
+      Councilmember F. Lowry said he liked the proposed map. Councilmember
+      Vawdrey said that they could not enforce those restrictions in South Mountain and
+      SunCrest.
+
+      Ms. Jastremsky said they were still looking into what requirements they could
+      enforce in South Mountain and SunCrest. At a minimum, the City could require that
+      they come through and get the business license and land use permit.
+      Councilmember Vawdrey asked if the licensing process required that the ADUs be
+      owner-occupied. Ms. Jastremsky said that state law required that the ADUs be
+      owner-occupied.
+
+
+                                                                              Page 11 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      Councilmember T. Lowery asked if that was only if the areas were within the 25% or
+      regardless. She pointed out that SunCrest and South Mountain made it on the list in
+      the first place because they were places with tight streets that would make it
+      difficult for emergency vehicles to pass through. Because of this, it would be good
+      that they stay there for that reason. She suggested that they might need to revisit
+      this when they had a better understanding of where they stood legally.
+
+      Councilmember F. Lowry said that the development agreement for SunCrest and
+      South Mountain did not include the right to have an ADU. Mike Barker, City
+      Attorney, said that no one in those neighborhoods was vested with this use.
+      Councilmember F. Lowry said that suggested that they should be able to exclude
+      ADUs in those areas. It was asked what the legal hold-up was. Mr. Barker agreed
+      that because they didn’t have the right to have ADUs now, it should be fine, subject
+      to the final review.
+
+2.8   Mayor Walker returned to the question brought up about DADUs and specifying if
+      they could be occupied by a City resident or needed to be owner-occupied. He
+      wondered if staff needed direction from the Council on this issue. Ms. Jastremsky
+      said that she was just looking for clarification if the Council wanted the same
+      language for DADUs as for IADUs. She said that the current code for DADUs says
+      City residency, not actual occupancy in the primary dwelling.
+
+      Councilmember F. Lowry said that he felt that with DADUs that the primary
+      residence should be owner-occupied with the DADU on the same property.
+      Councilmember T. Lowery said that she also felt like it should be the same. Mayor
+      Walker agreed because otherwise, an owner could rent out the primary dwelling
+      and DADU while living somewhere else in the City.
+
+3.0   Council/Manager Reports
+
+3.1   Councilmember F. Lowry said that he had received complaints about cars that have
+      modified mufflers that are exceeding the sound ordinance. He had responded to
+      the resident that the Council would discuss the issue to see what options they had
+      to enforce the sound ordinance.
+
+      Councilmember T. Lowery said that a group seemed to be racing them at night up
+      and down Traverse Ridge Road and all over the City.
+
+      Chief John Eining said that there wasn’t an easy answer. As long as the cars were
+      modified legally––showing that they were not modified legally was problematic for
+
+                                                                             Page 12 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      the department––there wasn’t much that they could do. He said that the sound of a
+      bullet bike, car, or racers was loud. He said that the department met with a group
+      of people from the Sandy area that border the City’s limits to talk about the crowd
+      that gathered at Macey’s regularly. Noise complaints about the engines were not
+      something that the Police Department could enforce. They could enforce racing.
+      He said that a bullet bike going from first to third gear was going to make a lot of
+      noise and sound like it was racing when in reality it probably wasn’t going at
+      excessive speeds. He said that the Council might be able to set a decibel limit in the
+      code, and then record the sound made by these types of vehicles with a decibel
+      meter. He was unsure if there was a law that restricted that. However, this would
+      be challenging to know what to enforce. Did they target specific vehicles? How
+      would they handle a big truck that accelerated causing a big noise and emitted a
+      bunch of exhaust?
+
+3.2   Councilmember T. Lowery asked about the teenagers dumping the bags of water
+      off the bridge. She asked Chief Eining if he had been getting a lot of reports about
+      that.
+
+      Chief Eining said that he took great exception to water balloons flying through his
+      car window. He said that it was summertime and kids were doing what kids do. He
+      said that in addition to water balloons, they’d had other objects thrown from the
+      bridges. There had been property damage because of rocks. Those are things the
+      police do take seriously. If they can catch kids throwing rocks, they will be cited. He
+      said that the behavior was not something that the department tolerated.
+
+      After Councilmember T. Lowery voiced that it was a safety concern, Chief Eining
+      agreed and said that if they had suspect information they followed up on it to cite
+      the kids. He stressed that it was critically important that people report the incident
+      when it occurred. He said that it wasn’t beneficial for them to get online and tell
+      about an incident the night or days after and expect the department to have a
+      legitimate response. He said that the department’s best success was when they
+      could catch the kids still in the area or running from the area.
+
+3.3   Councilmember F. Lowry said that he had a cyclist report that there were sections
+      of the pavement in the bike lane on the west side of 1300 East and 13500 South,
+      near the new residential development, that had not been patched or re-paved
+      creating a hazard. Scott Cooley, Public Works Director, said that he would find the
+      location and take care of it.
+
+
+
+
+                                                                               Page 13 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+3.4   Mayor Walker had noticed that the City had gotten behind on some of its weeding in
+      more visible areas. He asked if the issue was finding people to work. Rhett Ogden,
+      Parks and Recreation Director, said yes. He said that the mayor was correct that
+      some places were not as weed-free as in the past. He said that they hired a
+      contractor yesterday to do some weeding and spraying to make up for some of the
+      shortfalls in staff. He said that if Mayor Walker had specific places he was
+      concerned about staff would address them.
+
+      Mayor Walker said that it was a couple of roundabouts that were xeriscaped like the
+      one by the post office. He said that he had also noticed some of the elm trees
+      taking over in some of the City’s flower beds. He also brought up that they had
+      been talking about all of the Flip the Strip efforts for water conservation. He said
+      that if they did move to the water-wise landscaping they would have to put extra
+      effort in to keep up with the weeding. He asked if staff were interested in the
+      Council trying to find some money in addition to what Jordan Valley was providing to
+      support more xeriscaping.
+
+      Mr. Dobbins said that the Council had already approved $250,000 for staff to use as
+      matching funds with Jordan Valley. He said that WaterPro said that they were in as
+      well. Between the three entities, he felt like it would be good to identify some parks
+      that have park strips that the City could flip and use as an example to the
+      community.
+
+      Mayor Walker asked if there was any interest in finding some funds to support some
+      matching grants for residents to flip their yards. He said that when you look at the
+      yellow consumption line in the chart presented by Mr. Packard from the Jordan
+      Valley Water Conservation District and the fact that it didn’t account for changing
+      any current landscaping, that a huge dent in water conservation could be made by
+      supporting changing current landscaping to water-wise practices.
+
+      Mr. Dobbins asked that the Council give him some time to talk with Jordan Valley.
+      He said that it was his understanding that they had not run out of funds from their
+      programs.
+
+      Councilmember F. Lowry asked about the area on 13800 South where the rocks
+      were installed. He asked if residents were responsible for the maintenance of those
+      areas. He said that it was pretty rough around there, too. Mr. Cooley said that
+      there were the same issues on 300 East and 1300 East. He said that the
+      maintenance was the owner’s responsibility, but they didn’t always do it.
+
+
+                                                                              Page 14 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      Councilmember T. Lowery said that the little white building that Councilmember
+      Green pushed so hard to have moved and was turned into a little park could also
+      use a little weeding, too.
+
+      Councilmember F. Lowry said that the Draper Youth Council had been hurting to
+      get enough hours. He said that he knew that there was a resident who helped clean
+      up one of the roundabouts. He wondered if the Draper Youth Council could help
+      with some of this.
+
+      Mr. Ogden said that they did use the Youth Council three weeks ago. They came in
+      quite a force up to Autumn Crest Park and made a big difference. A couple of staff
+      worked alongside them. He said they were truly awesome. He said that if it was
+      something they would be willing to do again, staff would certainly welcome that
+      help.
+
+      Councilmember T. Lowery said that when she posted about the Youth Council’s
+      efforts she did have several people say that they would be willing to work as a group
+      to do another project like that. She suggested that the Parks Department push
+      something out to help organize some neighborhood park efforts. Councilmember F.
+      Lowry suggested a neighborhood adopt your park program.
+
+3.5   Mayor Walker said that he had talked with Chief Eining about instances where some
+      concentrated enforcement at places like hotels that appeared to be rented by the
+      hour would be beneficial. He said that if the Council was okay with it, he would like
+      to put together a small task force that could respond to these areas of the City
+      where sundry behavior was going on.
+
+      Chief Eining said that for the department these sorts of responses could only occur
+      on an overtime basis. He said that the patrol staff was in a constant manning
+      situation, meaning that anytime that someone was off on vacation or a staff
+      member called in sick, they used overtime to use those spaces. There was not
+      enough staff to have someone off a shift without having to fill it with overtime. The
+      only way to address the issues brought up by the Mayor was to increase the
+      overtime. He said that he was not opposed to that and it was something the Police
+      Department wanted to try. He said that from his perspective, his only concern was
+      the work-life balance he imposes on his employees; If they were working a lot of
+      overtime to fill regular shifts, it makes it difficult to add more overtime for them to
+      do tasks like traffic enforcement and to hit the high crime areas that do need
+      attention. He said that there was a particular location that was especially
+
+
+                                                                                Page 15 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+       problematic and that the amount of crime generated at that location was pretty
+       astounding.
+
+4.0    Closed Session - By Motion, the Draper City Council may temporarily recess the
+       regular meeting and convene in a closed session to discuss the character,
+       professional competence, or physical or mental health of an individual, pending or
+       reasonably imminent litigation, or the purchase, exchange, or lease of real property,
+       as provided by UCA 52-4-205.
+
+4.1    Closed session was not needed.
+
+Business Session
+
+1.0    Call to Order: Mayor Troy K. Walker
+
+2.0    Thought/Prayer and Pledge of Allegiance
+
+2.1    Pastor Nate offered the prayer and Todd Draper led the Pledge of Allegiance.
+
+3.0    Public Comments
+
+3.1   Renea Wiegand, resident, wanted to thank everyone who was involved in saving Deer
+      Ridge by signing the conservation easement and returning it to open space. She said
+      that the area was important to the neighboring families, generations to come, and for
+      wildlife.
+
+4.0    Consent Items
+       a.    Approval of June 15, 2021, City Council Meeting
+       b.    Approval of June 23, 2021, Special City Council Meeting Minutes.
+       c.    Approval of Resolution #21-21, amending Sections 5080, 5100, 6040, 7030 of
+             the Personnel Policy and Adopting Section 10450. Staff: Hazel Dunsmore
+       d.    Approval of Resolution #21-33, reappointing Alan Kirton, Katie Ovard-Smith,
+             Nate Shipp to the Draper City Special Event Arena Committee.
+       e.    Approval of Resolution #21-35, reappointing Tab Bingham as an alternate
+             member of the Draper City Planning Commission.
+       f.    Approval of Resolution #21-37, appointing Linda Richins, Stan Renderos,
+             Michael Barnhill, and Nancy Nichols as members of the Draper City Historic
+             Preservation Commission.
+       g.    Approval of Resolution #21-38, increasing the terms of the members of the
+             Draper City Diversity and Inclusion Advisory Committee.
+
+                                                                              Page 16 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      h.     Approval of Resolution #21-39, appointing Jan Short, Anneke Cannon, and
+             Stephanie Sherrell to the Draper City Special Event Arena Committee.
+
+4.1   Councilmember F. Lowry moved to approve the Consent Items. Councilmember T.
+      Lowery seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Providing Local Consent for a Beer-only Restaurant Alcohol License
+      for Siempre LLC
+
+5.1   Travis DeJong, Business License Official, said that this application was from Siempre
+      LLC who ran the restaurant at the South Mountain Golf Course. The people who ran
+      the restaurant before had the same alcohol license, but this was not transferable.
+
+      Beer-only restaurants have to be 300’ by the shortest pedestrian route from the
+      nearest community location or 200’ measured in a straight line. The restaurant was
+      more than 3,000’ from the community location. He noted that as stated in the code,
+      the City cannot put restrictions on the number of beer-only licenses granted in the
+      City.
+
+5.2   Mayor Walker clarified that they specifically only wanted to serve beer. This was not
+      a mistake. They didn’t want wine. Mr. DeJong said that they just wanted to serve
+      beer.
+
+5.3   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+5.4   Councilmember T. Lowery moved to approve the Local Consent for a Beer-only
+      Restaurant Alcohol License for Siempre, LLC. Councilmember F. Lowry seconded
+      the motion.
+
+5.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Public Hearing: Ordinance #1494 Olson Residence Zoning Map Amendment
+      (Legislative Action), on the request of Jarod Hall, for approval of a Zoning Map
+      Amendment in the RA1 zone regarding a rezone on the property from the RA1
+      (Residential Agricultural, 40,000 square foot lot minimum) zoning designation to the
+
+                                                                             Page 17 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      RA2 (Residential Agricultural, 20,000 square foot lot minimum size) zoning
+      designation. The property is located at 13764 S & 13770 S Fort Street.
+
+6.1   Travis Van Ekelenburg, Planner, said that the subject properties were currently
+      zoned residential, low-medium density, and were zoned RA1. The applicant
+      requested to rezone the smaller property to RA2 to fix a problem when the
+      properties were illegally subdivided. He said that their legal description extended
+      the property line 15’. Because the properties were parcels and not part of the
+      subdivision, the property line could be adjusted. By doing this, both properties are
+      in better legal situations for construction. Lastly, he noted that the home was built
+      in 1971. He said that there was a positive recommendation from the Planning
+      Commission with a vote of 5-0.
+
+      Councilmember T. Lowery asked if the action taken would bring the property into
+      compliance. Mr. Van Ekelenburg said that was correct and that the applicant would
+      move the property line to match the legal description in the ordinance.
+
+6.2   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+6.3   Councilmember Vawdrey moved to approve Ordinance #1494, Olson Residence
+      Zoning Map Amendment. Councilmember Roberts seconded the motion.
+
+6.4   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Ordinance #1496, BNSN Zoning Map Amendment (Legislative
+      Action), on the request of Brian Newberry representing BNSN Investments LLC, a
+      Zoning Map Amendment request from A5 (Agricultural, 5-acre minimum lot size) to
+      RA2 (Residential Agricultural, 20,000 square foot minimum lot size) for
+      approximately 1.48 acres located at approximately 12775 South 1600 East (Costanza
+      Way).
+
+7.1   Todd Draper, Planner, explained that this was a zoning map amendment for BNSN
+      LLC. He displayed a map of the approximate location of the property on Costanza
+      Way. The property was located in the low-medium density land use designation,
+      consistent with the requested RA2 zone. The current zone was A5, agriculture five-
+      acre minimum. Several other properties in the vicinity were zoned A5, but none
+      were five acres in size. He displayed some photos of the property that showed that
+      the property had a private dirt lane and the existing home. The applicant indicated
+
+                                                                              Page 18 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      that the reason they requested the rezone was to allow them to build a larger home
+      on the property than is currently there. There were different limitations in the A5
+      zone and the RA2 zone on the size of the home that can be built. The Planning
+      Commission made a positive recommendation with a vote of 5-0.
+
+7.2   Councilmember T. Lowery asked if the A5 zoning was a hold back from when it
+      used to be five acres. Mr. Draper wasn’t sure. He said the property was located in
+      an older portion of the City and still had older, private rights-of-way that had not
+      been paved.
+
+7.3   Mayor Walker opened the public hearing.
+
+7.4   Chris Noorda asked if the residents would be required to pave the dirt road.
+
+7.5   Chad Evans said that the area was a unique place in Draper. He invited the Council
+      to drive down the dirt roads. He said that there was a group of neighbors that
+      worked together to plan maintenance and improvements for the dirt road. He said
+      that residents appreciate the area. Folks can see rabbits, horses, and chickens. It
+      was a real place of peace with connections through a Draper trail.
+
+7.6   Mayor Walker closed the public hearing.
+
+7.7   Mr. Draper said that at this point this was just a request for changing the zoning
+      map. It would not trigger anything concerning improvements. Future development
+      could. He said that it might be a better question for Engineering if paving the road
+      would be required when one house was replaced with a different home. He said
+      that he didn’t think that Engineering would. However, if they were to later
+      subdivide, it would require that the road come into compliance.
+
+7.8   Councilmember Vawdrey moved to approve Ordinance #1496, BNSN Zoning Map
+      Amendment. Councilmember Roberts seconded the motion.
+
+7.9   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Public Hearing: Ordinance #1497, City Initiated State Law Changes Text Amendment
+      No. 2 (Legislative Action), on the request of Draper City for a Text Amendment to
+      amend portions of Titles 9 and 17 of Draper City Municipal Code. This application is
+      known as the City Initiated State Law Changes Text Amendment No. 2.
+
+
+                                                                              Page 19 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+8.1   Mr. Draper explained that this was the second round of changes to DCMC that the
+      City needed to make regarding changes in state law in the 2021 legislative session.
+      He said these changes not only involved issues from the initial legislative session but
+      a special session and other small changes that staff felt were needed. Proposed
+      changes, reviewed by the Planning Commission who forward approval with a vote of
+      5-0 included:
+
+      a.     Adding a definition for business day,
+      b.     Specifications on what can be requested as part of a business application,
+      c.     Removal of the design standards of single-family homes,
+      d.     Applying private drive right-of-way standards to two-family dwellings that
+             previously only applied to single-family homes,
+      e.     Clarity around fencing requirements,
+      f.     A revision of code that outlined sidewalk requirements,
+      g.     Changes to the amenities section of the code to make clear that amenities
+             would be offered as one amenity per 50 dwelling units, as well as expanding
+             the types of amenities,
+
+      Concerning the removal of design standards, Mr. Draper explained that, according
+      to state law, cities could no longer regulate the exterior design and architectural
+      details of single-family and two-family dwellings.
+
+      Mr. Dobbins elaborated that in Draper homes were typically designed in a way that
+      they looked great. However, if someone wanted to design something that was ugly
+      architecture, it was not something that the City could have a say in. People can
+      design homes however they want.
+
+      Councilmember T. Lowery clarified that was not the case in the historic town center.
+      Mr. Dobbins said that was correct. He said that sometimes a neighbor might call in
+      and say that they don’t like how a newly built home looked and ask what the City
+      could do about it. State law now made it clear that there is nothing that cities can
+      do.
+
+      Councilmember F. Lowry asked if that applied to homeowners’ associations that
+      might be a subdivision that has created its design standards. Mr. Dobbins said that
+      an HOA might be able to do something.
+
+      Mr. Draper said that if a subdivision was allowed based on a development
+      agreement that granted special densities, the City could include design standards in
+      the development agreement.
+
+                                                                               Page 20 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+8.2   Councilmember F. Lowry said that he appreciated staff looking at the code and
+      bringing the City into compliance.
+
+8.3   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+8.4   Councilmember F. Lowry moved to approve Ordinance #1497, City Initiated State
+      Law Changes Text Amendment No. 2. Councilmember Roberts seconded the
+      motion.
+
+8.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0   Action Item: Resolution #21-41, a resolution of the City of Draper regarding the
+      inclusion of property in the Deer Ridge Area into the Traverse Range Conservation
+      Easement.
+
+9.1   Mr. Dobbins explained that the displayed map was of the property that the City
+      purchased from Zions Bank on which the City put a conservation easement. He
+      noted there was a piece of property commonly known as the Deer Ridge Area, that
+      was left out of the original Traverse Range Conservation Easement. In a previous
+      discussion around what to do with this portion of the property, it was originally left
+      out for some type of development. The latest direction of the Council was to retain
+      10 acres in the area for development for a single-family home. Then, the Council
+      gave staff the direction to place all of the property within the Traverse Range
+      Conservation Easement. This resolution would start that process. It did not put the
+      property in the conservation easement. The property was roughly 259 acres. He
+      said that some of the acreage was in both counties. Depending on which county
+      you asked, the legal descriptions were different and outlined different acreages. If
+      the resolution was approved at the meeting the next steps included:
+
+      1.     Work with Salt Lake County to amend the existing easement to include the
+             Deer Ridge property.
+      2.     Prepare a legal description. Because the property was in two counties, the
+             legal description would vary.
+      3.     Update the baseline document to identify conservation values and existing
+             conditions of the property.
+             a.     Existing conditions include City-owned water tanks and water lines
+             that provide water to SunCrest residents, other utility lines, and a dirt road.
+
+                                                                                Page 21 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      4.     Identify future uses:
+             a.      Trails, trailheads, parking lots, and restrooms.
+             b.      Passive recreation such as off-leash dog areas, disc golf, etc.
+             c.      Picnic tables and shelters
+             d.      Paving the existing dirt road to allow access to trailheads and the
+                     water tanks.
+
+      Councilmember F. Lowry asked if Salt Lake County could hold the easement even
+      though it was outside of the county. Mr. Dobbins said that they could. A good
+      portion of the property was already in Utah County and held within the Salt Lake
+      County easement. He noted that Mayor Walker did a lot of work to make this
+      happen. It was an atypical arrangement.
+
+      Mayor Walker asked if the easement could include fire protection measures. Mr.
+      Dobbins said that there were water lines to accommodate fire hydrants. He said
+      that the current easement did allow for fire suppression.
+
+      Mayor Walker said that they should look into paving the road but keeping the road
+      locked to residential vehicle access. He said that he thought that this was a great
+      move that he’d been in favor of for a long time. He said that although he
+      appreciated efforts to develop some portion of the land to recover some of the
+      City’s cost, he felt like this was hard to compete with the value of the parcel as open
+      space, especially given that more open space cannot be created as they go along.
+      He felt as though this provided an important buffer to future commercial
+      developments. He said that what Draper had done regarding its open spaces was a
+      big selling point for companies coming into the Point. He felt that ultimately, it
+      would pay off more than if they sold a few acres now.
+
+      Mr. Dobbins said that PluralSight had an onsite bike shop. He said that when
+      Draper was trying to get them in the City, that was one of the attractive amenities
+      for them; Employees could take the mountain bike out of the office and go ride and
+      come back to work.
+
+      Councilmember T. Lowery said that this move did pull the open space a little closer
+      to PluralSight and where some of the new development would be. She hoped that
+      there would be some trail additions to make the area more accessible.
+
+      Mayor Walker asked that the map of all of the open space be displayed. He said
+      that there were not many cities in the country that had preserved this much land.
+
+
+                                                                               Page 22 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+      He said that it was a substantial resource for everyone and investment in the quality
+      of life.
+
+      Councilmember T. Lowery said that she felt like there was a long tradition of this in
+      Draper. She said that she felt like they needed to thank people like Councilmember
+      Vawdrey who was on the original committee to save the 2,000 acres in the canyon.
+      She felt as though they also needed to thank Mr. Ogden for his work on showing the
+      need for more open space. The trail counters that Parks and Recreation put out
+      demonstrated that trail encounters had more than doubled. She noted that the
+      Corner Canyon Open Space had more users than some state parks.
+
+      Mr. Dobbins said that Parks and Recreation had just finished the Telegraph
+      extension. He told the Council that if they had not been on it, they should. It was
+      some of the most unbelievably beautiful property that had not been accessed.
+
+      Councilmember Roberts said that one of the residents in the area had commented
+      that he thought this might be some of the most valuable land in the county. He said
+      that might have been true, but that some things were priceless. He felt like this was
+      a great step to build on Draper’s legacy of preserving open spaces. They don’t make
+      it anymore.
+
+      Mayor Walker said that if you look at the South edge of the property, Lehi City had
+      gotten active at trail building. This was a great way to tie into their trail and open
+      space efforts. He said that it would be quite amazing what can be done on the trail
+      up there.
+
+      Councilmember Roberts asked how this compared to surrounding cities like Alpine
+      and Lehi regarding opportunities and actions for open space acquisition. Mr.
+      Dobbins said that when the property was for sale by Zions Bank, Draper went to
+      Highland, Alpine, and Utah County to see if they wanted to share in purchasing the
+      property. He and the Mayor were essentially run out of their buildings because they
+      said that it was not the role of the government to preserve open spaces. He said
+      that he could not think of a City that had done something comparable. He said that
+      the 200-plus acres the Council could set aside were larger than any park in the
+      entire valley.
+
+      Councilmember Green said that he remembered that day that he and the Mayor
+      drove through the area. He said that it didn’t feel like they needed to move forward
+      on the development project. He fully supported maintaining this beauty.
+
+
+                                                                               Page 23 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+9.2    Councilmember T. Lowery moved to approve Resolution #21-41, including property
+       in the Deer Ridge Area into the Traverse Range Conservation Easement.
+       Councilmember Green seconded the motion.
+
+9.3    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Adjournment
+
+10.1   Councilmember Green moved to adjourn the meeting. Councilmember T. Lowery
+       seconded the motion.
+
+10.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.3   The meeting adjourned at 7:43 p.m.
+
+
+
+
+                                                                            Page 24 of 24
+Draper City Council Meeting Minutes – Approved August 3, 2021
+

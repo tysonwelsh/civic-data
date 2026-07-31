@@ -1,0 +1,89 @@
+{
+ "date": "2025-01-28",
+ "year": 2025,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2025/2025-01-27/2025-01-28_planning-commission.md",
+ "present": [
+  "Don Russell",
+  "Marc McElreath",
+  "Don Quigley",
+  "Lynette Wendel",
+  "Cindy Wilkey",
+  "Gordon Willardson",
+  "David Wright",
+  "David Young"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wendel moved to approve the minutes from the January 14, 2025 Planning Commission meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Lynette Wendel",
+   "seconder": "Marc McElreath",
+   "aye": [],
+   "nay": [],
+   "abstain": [
+    "Don Quigley"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to approve File #1C25 — CUP-000503- 2024 2Z24/DCA-000435-2024, a request for a conditional use permit to operate a reception center at 4311 South 2700 West in Taylorsville, Utah, based on the findings and conditions outlined in the staff report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Approved (Final Action, unanimous)",
+   "kind": "final_action",
+   "mover": "Marc McElreath",
+   "seconder": "Gordon Willardson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "1C25",
+    "2Z24",
+    "CUP-000503"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Lynette Wendel",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "1C25"
+   ],
+   "motion_no": 3
+  }
+ ]
+}

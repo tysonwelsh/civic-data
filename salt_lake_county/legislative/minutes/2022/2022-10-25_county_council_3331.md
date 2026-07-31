@@ -1,0 +1,161 @@
+---
+jurisdiction: Salt Lake County
+body: County Council
+date: 2022-10-25
+source_url: https://slco.legistar1.com/slco/meetings/2022/10/3331_M_County_Council_22-10-25_Meeting_Minutes.pdf
+source: Legistar (slco) EventMinutesFile
+minutes_status: Final
+extraction: pypdf text (born-digital)
+---
+
+Tuesday, October 25, 2022
+4:00 PM
+SALT LAKE COUNTY
+2001 So. State Street
+Salt Lake City, UT 84114
+(385) 468-7500   TTY 711
+Council Chambers, N1-110
+County Council
+Meeting Minutes
+County Council Meeting Minutes October 25, 2022
+Page 1 of 1
+County Council Meeting Minutes October 25, 2022
+Upon request and with three working days’ notice, Salt Lake County will provide free 
+auxiliary aids and services to qualified individuals (including sign language interpreters, 
+alternative formats, etc.). For assistance, please call (385) 468-7500 – TTY 711.
+Members of the Council may participate electronically. Meetings may be closed for reasons 
+allowed by statute. Motions relating to any of the items listed below, including final action, 
+may be taken.
+This meeting will be simulcast electronically via Webex Events. Agendas, audio 
+live-streams and recordings, and meeting minutes can be accessed at slco .legistar.com. 
+The Council will also broadcast live -streams of its meetings on Facebook Live, which 
+may be accessed at http ://www.facebook.com/slcocouncil/, and through Cisco Webex, 
+which may be accessed at:
+h t t p s : / / s l c o . w e b e x . c o m / s l c o / o n s t a g e / g . p h p ?
+MTID=e4dc18af41025f2e94b706c36c4b6f06c
+Individuals wishing to comment electronically must access the meeting using the 
+Webex link above by the beginning of the “Citizen Public Input” portion of the 
+meeting. If an individual is unable to attend the meeting, they may also email their 
+comments to councilwebex@slco .org by 10:00 AM the day of the meeting to have 
+those comments distributed to the Council and read into the record at the appropriate 
+time.
+The first time you join via the link may take longer to get through the set -up steps . 
+Please plan accordingly. 
+Please include "Resident" ahead of your first name when you join the meeting or you 
+will
+not be identified as wanting to give comment.
+This website has helpful tips for using Webex for Events:
+https://help.webex.com/ld-7srxjs-CiscoWebexEvents/Webex-Events
+1. CALL TO ORDER
+Invocation - Reading - Thought
+Pledge of Allegiance
+2. CITIZEN PUBLIC INPUT
+3. REPORT OF ELECTED OFFICIALS:
+Page 1 of 4
+County Council Meeting Minutes October 25, 2022
+3.1. Council Members
+3.2. Other Elected Officials
+3.3. Mayor
+4. PROCLAMATIONS, DECLARATIONS, AND OTHER CEREMONIAL OR 
+COMMEMORATIVE MATTERS
+4.1 A Joint Proclamation Between the Salt Lake County Council 
+and Mayor Wilson Proclaiming October 2022 as Arts and 
+Humanities Month in Salt Lake County.
+22-1045
+Attachments: Staff Report
+5. PUBLIC HEARINGS AND NOTICES
+5.1 Notice of Proposed 2023 Library Fund Tax Increase in 
+Conformance with Utah State Code Ann. Section 59-2-919(3)
+(a).
+Salt Lake County intends to levy a tax rate for the library 
+fund that exceeds the County library fund ’s certified tax rate . 
+The additional revenue of $ 11,207,917, an approximate 
+percentage increase of 25.65% in library fund tax revenue, 
+will be used for library debt service, continuity of operations, 
+maintenance costs, and recent construction.
+22-1040
+Attachments: Staff Report
+5.2 Notice of Cancellation of the Tuesday, November 29, 2022 
+Council Work Session
+22-1046
+Attachments: Staff Report
+6. DISCUSSION ITEMS
+6.1 First Reading of AN ORDINANCE OF THE LEGISLATIVE 
+BODY OF SALT LAKE COUNTY, UTAH, REPEALING 
+AND REPLACING CHAPTER 2.56 OF THE SALT LAKE 
+COUNTY CODE OF ORDINANCES, 2001, ENTITLED 
+“COMMUNITY DISTRICTS AND COMMUNITY 
+COUNCILS” TO REFLECT CHANGES IN THE 
+UNINCORPORATED COUNTY, AND TO ESTABLISH 
+22-1049
+Page 2 of 4
+County Council Meeting Minutes October 25, 2022
+REQUIREMENTS BY WHICH NONPROFIT ENTITIES 
+PROPERLY ORGANIZED AS COMMUNITY COUNCILS 
+IN THE UNINCORPORATED COUNTY MAY SEEK 
+RECOGNITION AND FUNDING FROM THE COUNTY
+Formal Adoption May Occur at the November 1, 2022 
+Council Meeting.
+Attachments: Staff Report
+Community Council Ordinance Revisions - Final Draft 
+10.19.22_RAFL
+7. RATIFICATION OF DISCUSSION ITEM ACTIONS IN COUNCIL WORK 
+SESSION
+7.1 Interlocal Agreement Between Millcreek and Salt Lake 
+County for Funding Playground Expansion at Canyon Rim 
+Park
+22-0811
+Attachments: Staff Report
+ILA Millcreek and Salt Lake County
+Council resolution Millcreek Transfer v2 RTFL
+7.2 SLCo 2022 ZAP Tier II Funding Recommendations 22-1017
+Attachments: Staff Report
+SLCo ZAP 2022 Tier II Funding Recommendations Council 
+Request Packet v2
+8. RATIFICATION OF CONSENT ITEM ACTIONS IN COUNCIL WORK 
+SESSION
+8.1 A Resolution of the Salt Lake County Council Approving the 
+Lease of a Portion of the Emergency Coordination Center 
+Between Salt Lake County and Unified Fire Authority
+22-1038
+Attachments: Staff Report
+ECC Lease - SLCo_UFA - signed
+Resolution - ECC RTFL
+9. TAX LETTERS
+9.1 Auditor Tax Letters 22-1039
+Page 3 of 4
+County Council Meeting Minutes October 25, 2022
+Attachments: Staff Report
+2021 Property Valuation - Bedrosian Salt Lake, LLC - 
+Change from $9,064,300 to $8,900,000_Redacted
+2021 Property Valuation - Eighty One Fifty Nine, LC - 
+Change from $631,400 to $435,900_Redacted
+2020 Property Valuation - South Jordan Senior - Change 
+from $3,084,880 to $2,559,300_Redacted
+2020 Property Valuation - Riverwood Cove, LLC - Change 
+from $4,399,900 to $3,840,100_Redacted
+2020 Property Valuation - Dominguez Park, III - Change 
+from $4,934,400 to $4,452,400_Redacted
+2020 Property Valuation - 200 South Main Street - Change 
+from $67,169,700 to $65,274,000_Redacted
+2021 Property Valuation - Allred Midvale Building, LLC - 
+Change from $367,500 to $269,700_Redacted
+2021 Property Valuation - Bengaland Creek, LLC - Change 
+from $1,181,800 to $850,000_Redacted
+2019 Property Valuation - Waveman, LLC - Change from 
+$3,135,300 to $2,810,800_Redacted
+2019 Property Valuation - RC Willey Home Furnishings - 
+Multiple Parcels_Redacted
+10. LETTERS FROM OTHER OFFICES
+11. PRIVATE BUSINESS DISCLOSURES
+11.1 Conflict of Interest Disclosure Statements - Parks & 
+Recreation
+22-1030
+Attachments: Staff Report
+salt-lake-county-disclosure-statement UHOO
+salt-lake-county-disclosure-statement WIHOA
+12. APPROVAL OF MINUTES
+12.1 Approval of October 4th, 2022 County Council Minutes 22-1032
+Attachments: 100422 - Council Minutes
+ADJOURN
+Page 4 of 4

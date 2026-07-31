@@ -1,0 +1,287 @@
+Riverton City Council — vote extraction validation report
+========================================================================
+Meeting JSONs            : 128
+Meetings with >=1 motion : 128
+Motions extracted        : 856  (named roll calls 724 / tally-only 132)
+
+Body counts:
+   Council  856
+
+Motion-type distribution:
+   Procedural/Administrative  409
+   Land-Use/Zoning            101
+   Resolution                 98
+   Ordinance                  91
+   Contract/Purchase          62
+   Other                      40
+   Budget Amendment           33
+   Appointment                14
+   Interlocal                 6
+   Public Hearing Action      2
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> recorded votes that year).
+Expected bench: Stewart, McDougal, Buroker, Wells, McCay (2020-2022);
+Pierucci replaces Stewart (2023); Haymond replaces Wells (2024);
+Pierucci, McDougal, Johnson, Smith, Haymond (2026+). Mayor only on tie-breaks.
+------------------------------------------------------------------------
+
+2020:
+   Tish Buroker           103
+   Troy McDougal          103
+   Sheldon Stewart        103
+   Claude Wells           103
+   Tawnee McCay           102
+
+2021:
+   Tawnee McCay           142
+   Sheldon Stewart        142
+   Claude Wells           142
+   Troy McDougal          137
+   Tish Buroker           136
+
+2022:
+   Tawnee McCay           100
+   Troy McDougal          96
+   Tish Buroker           95
+   Claude Wells           88
+   Sheldon Stewart        77
+
+2023:
+   Troy McDougal          92
+   Tawnee McCay           91
+   Claude Wells           84
+   Tish Buroker           82
+   Andy Pierucci          82
+
+2024:
+   Spencer Haymond        127
+   Tawnee McCay           126
+   Andy Pierucci          119
+   Troy McDougal          118
+   Tish Buroker           114
+
+2025:
+   Tish Buroker           103
+   Troy McDougal          103
+   Andy Pierucci          103
+   Spencer Haymond        102
+   Tawnee McCay           102
+   Trent Staggs           1   <-- MAYOR (tie-break only)
+
+2026:
+   Alexander Johnson      57
+   Shannon Smith          57
+   Spencer Haymond        56
+   Andy Pierucci          56
+   Troy McDougal          38
+
+------------------------------------------------------------------------
+MAYOR TIE-BREAK FLAGS (source recorded the Mayor voting): 1
+------------------------------------------------------------------------
+   2025-12-16 m3 Passed (Mayor tie-break): Trent Staggs tie-break AYE :: approve Resolution No. 25-62 – Removal of the Riverton City Skate Faci
+
+------------------------------------------------------------------------
+>5-VOTER FLAGS: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+OUTCOME-VS-COUNT INCONSISTENCIES: 0
+------------------------------------------------------------------------
+   (none)
+
+------------------------------------------------------------------------
+ROSTER-SIZE DEVIATIONS (named roll calls, seated != 5): 134
+------------------------------------------------------------------------
+   2020-06-02 m1: 4 seated (expected 5) :: adjourn the Work Session. Council Member Wells
+   2021-06-15 m7: 4 seated (expected 5) :: approve the Minutes from June 1, 2021 with the change. 
+   2021-06-15 m8: 4 seated (expected 5) :: adopt Ordinance No. 21-09 – Amending the Stormwater Fee
+   2021-06-15 m9: 4 seated (expected 5) :: approve Resolution No. 21-35 adopting the final tax rat
+   2021-06-15 m10: 4 seated (expected 5) :: suspend the City Council meeting and move into the RDA 
+   2021-06-15 m11: 4 seated (expected 5) :: adjourn the Closed Session at 10:33 PM. Councilmember B
+   2021-12-14 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2021-12-14 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Stewart
+   2021-12-14 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 21-3
+   2021-12-14 m4: 4 seated (expected 5) :: that the Riverton City Council deny Ordinance No. 21-33
+   2021-12-14 m5: 4 seated (expected 5) :: that the Riverton City Council approve Resolution No. 2
+   2021-12-14 m6: 4 seated (expected 5) :: that the Riverton City Council approve Resolution No. 2
+   2022-01-04 m1: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Stewart
+   2022-01-04 m2: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-01-04 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-01-04 m4: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-01-04 m5: 4 seated (expected 5) :: nominate Councilmember Stewart as the 2022 Mayor Pro Te
+   2022-01-04 m6: 4 seated (expected 5) :: convene in a Closed Session to discuss pending or reaso
+   2022-01-18 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-02-01 m4: 4 seated (expected 5) :: convene in a Closed Session to discuss the character, p
+   2022-02-15 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Stewart
+   2022-02-15 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Wells
+   2022-02-15 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-02-15 m4: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-0
+   2022-05-03 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Wells
+   2022-05-03 m2: 4 seated (expected 5) :: that the Riverton City Choice Awards be added to the ag
+   2022-05-03 m3: 4 seated (expected 5) :: that the Riverton City Council DENY Ordinance No. 22-14
+   2022-05-03 m4: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McDougal
+   2022-05-03 m5: 4 seated (expected 5) :: Resolution No. 22-34 Adopting the Tentative Budgets for
+   2022-06-07 m1: 4 seated (expected 5) :: elect Councilmember McCay to Mayor Pro Tem for City Cou
+   2022-06-07 m2: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2022-06-07 m3: 4 seated (expected 5) :: change the order of the agenda by moving the fee schedu
+   2022-06-07 m4: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Buroker
+   2022-06-07 m5: 4 seated (expected 5) :: that Ordinance No. 22-17 be moved until June 21 when al
+   2022-06-07 m6: 4 seated (expected 5) :: that the Council take a 5 minute recess. Councilmember 
+   2022-06-07 m7: 4 seated (expected 5) :: that the Riverton City Council ADOPT Resolution No. 22-
+   2022-06-07 m8: 4 seated (expected 5) :: suspend the City Council and move into the Riverton Fir
+   2022-06-07 m9: 4 seated (expected 5) :: adjourn the Closed Session at 9:16 PM. Councilmember Bu
+   2022-07-19 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2022-07-19 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McCay
+   2022-07-19 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 22-1
+   2022-09-20 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2022-09-20 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Buroker
+   2022-09-20 m3: 4 seated (expected 5) :: adopt Ordinance No. 22-21 – America First Credit Union 
+   2022-09-20 m4: 4 seated (expected 5) :: continue Ordinance No. 22-22, approving and adopting th
+   2022-10-18 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2022-10-18 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Wells
+   2022-10-18 m3: 4 seated (expected 5) :: approve Resolution No. 22-64 approving amendments to th
+   2022-10-18 m4: 4 seated (expected 5) :: approve Resolution No. 22-65 amending the municipal fee
+   2022-11-01 m1: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Wells
+   2022-11-15 m2: 4 seated (expected 5) :: approve the Consent Agenda with the removal of Item (e)
+   2022-11-15 m3: 4 seated (expected 5) :: adopt Ordinance No. 22-25 Text Amendment, Amending Sect
+   2022-11-15 m6: 4 seated (expected 5) :: adjourn the Closed Session at 8:52 PM. Councilmember Mc
+   2022-12-13 m2: 4 seated (expected 5) :: approve Resolution No. 22-78 – Appointing Volunteer Mem
+   2022-12-13 m3: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Stewart
+   2022-12-13 m5: 4 seated (expected 5) :: adjourn the Closed Session at 9:30 PM. Councilmember Mc
+   2023-01-03 m1: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McCay
+   2023-01-03 m2: 4 seated (expected 5) :: convene in a Closed Session to discuss the character, p
+   2023-01-03 m3: 4 seated (expected 5) :: convene again in a Closed Session to discuss the charac
+   2023-01-17 m3: 4 seated (expected 5) :: approve the Consent Agenda with the removal of Item (e)
+   2023-01-17 m4: 4 seated (expected 5) :: approve Resolution No. 23-04 – Adopting Policies for Ma
+   2023-01-31 m1: 4 seated (expected 5) :: convene again in a Closed Session to discuss the charac
+   2023-02-07 m1: 4 seated (expected 5) :: that the City move forward with planned renovations of 
+   2023-02-07 m3: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McCay
+   2023-03-07 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McCay
+   2023-03-07 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McCay
+   2023-03-07 m3: 4 seated (expected 5) :: approve Resolution No. 23-19 – Objecting to Implementat
+   2023-04-04 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McCay
+   2023-04-04 m3: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 23-0
+   2023-04-04 m4: 4 seated (expected 5) :: that the Riverton City Council adopt Ordinance No. 23-0
+   2023-04-04 m5: 4 seated (expected 5) :: that the Riverton City Council TABLE this discussion an
+   2023-07-18 m4: 4 seated (expected 5) :: adopt Ordinance No. 23-13 -Text Amendment, Amendment to
+   2023-08-01 m1: 4 seated (expected 5) :: suspend the City Council Meeting and move into a Closed
+   2023-08-01 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McDougal
+   2023-08-01 m3: 4 seated (expected 5) :: approve Resolution No. 23-64 – Authorizing the City to 
+   2023-08-01 m4: 4 seated (expected 5) :: suspend the City Council Meeting and re- convene in a C
+   2023-08-01 m5: 4 seated (expected 5) :: adjourn the Closed Session at 8:28 PM. Councilmember Pi
+   2023-12-06 m1: 3 seated (expected 5) :: approve the Consent Agenda with the removal of Item c. 
+   2023-12-06 m2: 3 seated (expected 5) :: approve Resolution No. 23-89 – Establishing Annual Meet
+   2023-12-06 m3: 3 seated (expected 5) :: adopt Ordinance No. 23-16 – Adopting Section 6.05.425, 
+   2023-12-06 m5: 3 seated (expected 5) :: adjourn the Closed Session at 9:32 PM. Councilmember Mc
+   2024-03-19 m4: 4 seated (expected 5) :: adopt Resolution No. 24-29 – Amending the Municipal Fee
+   2024-03-19 m5: 4 seated (expected 5) :: approve Resolution No. 24-36 – Authorizing the Filing o
+   2024-03-19 m6: 4 seated (expected 5) :: adopt Ordinance No. 24-02 – Amending Title 10, Section 
+   2024-05-07 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McDougal
+   2024-05-07 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember McDougal
+   2024-05-07 m3: 4 seated (expected 5) :: adopt Ordinance No. 24-06 – Amendment to Sections 18.21
+   2024-05-07 m4: 4 seated (expected 5) :: approve Resolution No. 24-44 – Adopting Tentative Budge
+   2024-05-07 m5: 4 seated (expected 5) :: convene in a Closed Session to discuss the character, p
+   2024-05-07 m6: 4 seated (expected 5) :: adjourn the Closed Session at 8:29 PM. Councilmember Mc
+   2024-07-16 m1: 3 seated (expected 5) :: adjourn the Work Session. Councilmember McCay
+   2024-07-16 m2: 4 seated (expected 5) :: approve the Consent Agenda with the removal of Item d. 
+   2024-07-16 m3: 4 seated (expected 5) :: bring Resolution No. 24-65 – Performance Bond release f
+   2024-07-16 m4: 4 seated (expected 5) :: adopt Ordinance No. 24-12, Amending the General Plan to
+   2024-07-16 m5: 4 seated (expected 5) :: adopt Ordinance No. 24-13 – School Code Text, Amending 
+   2024-07-16 m6: 4 seated (expected 5) :: adopt Ordinance No. 24-14 – Amending Title 11, Chapters
+   2024-07-16 m7: 4 seated (expected 5) :: adopt Ordinance No. 24-15 – Amending Riverton City Code
+   2024-07-16 m8: 4 seated (expected 5) :: convene in a Closed Session to discuss the sale, purcha
+   2024-07-16 m9: 4 seated (expected 5) :: adjourn the Closed Session at 9:05 PM. Councilmember Ha
+   2024-08-20 m2: 4 seated (expected 5) :: adjourn the Closed Session and move into the Work Sessi
+   2024-10-15 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember McCay
+   2024-10-15 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Buroker
+   2024-10-15 m3: 4 seated (expected 5) :: convene in a Closed Session to discuss the character, p
+   2024-10-15 m4: 4 seated (expected 5) :: adjourn the Closed Session at 8:43 PM. Councilmember Mc
+   2024-12-03 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Pierucci
+   2024-12-03 m2: 4 seated (expected 5) :: approve the Consent Agenda with the removal of Item d. 
+   2024-12-03 m3: 4 seated (expected 5) :: approve Item D. Ordinance No. 24-26 – Making Technical 
+   2024-12-03 m4: 4 seated (expected 5) :: adopt Ordinance No. 24-27 – Roberts Rezone, rezone of a
+   2024-12-03 m5: 4 seated (expected 5) :: approve Resolution No. 24-101 – Amendments to Fee Sched
+   2024-12-03 m6: 4 seated (expected 5) :: approve Resolution No. 24-102 – Budget Amendment with t
+   2024-12-03 m7: 4 seated (expected 5) :: approve Resolution No. 24-102 – Budget Amendment, Anima
+   2025-05-20 m9: 4 seated (expected 5) :: adjourn the Closed Session at 9:34 PM. Councilmember Ha
+   2025-12-16 m3: 4 seated (expected 5) :: approve Resolution No. 25-62 – Removal of the Riverton 
+   2026-03-03 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Haymond
+   2026-03-03 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Pierucci
+   2026-03-03 m3: 4 seated (expected 5) :: adopt Ordinance No. 26-04, “the “Priority Builders Rezo
+   2026-03-03 m4: 4 seated (expected 5) :: adopt Ordinance No. 26-03, “Quinn Rezone,” on approxima
+   2026-03-03 m6: 4 seated (expected 5) :: TABLE Ordinance No. 26-03, “Quinn Rezone” to the April 
+   2026-03-03 m7: 4 seated (expected 5) :: approve Resolution No. 26-11, amending the 2nd Amendmen
+   2026-03-17 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Smith
+   2026-04-07 m7: 4 seated (expected 5) :: adjourn the Closed Session at 8:50 PM. Councilmember Jo
+   2026-05-05 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Haymond
+   2026-05-05 m2: 4 seated (expected 5) :: approve the Consent Agenda with the removal of Item c a
+   2026-05-05 m3: 4 seated (expected 5) :: approve the Resolution No. 26-17 - Appointing Members t
+   2026-05-05 m4: 4 seated (expected 5) :: approve the Resolution No. 26-23 - Approving the Renami
+   2026-05-05 m5: 4 seated (expected 5) :: adopt Ordinance No. 26-08 – Adoption of Water Conservat
+   2026-05-05 m6: 4 seated (expected 5) :: approve Resolution No. 26-19 – Riverton City Tentativel
+   2026-05-05 m7: 4 seated (expected 5) :: approve Resolution No. 26-15 – Approving the Riverton C
+   2026-05-19 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Johnson
+   2026-05-19 m2: 4 seated (expected 5) :: approve the Consent Agenda. Councilmember Johnson
+   2026-05-19 m3: 4 seated (expected 5) :: amend the tentatively approved budget to include the re
+   2026-05-19 m4: 4 seated (expected 5) :: convene in a Closed Session to discuss the sale, purcha
+   2026-05-19 m5: 4 seated (expected 5) :: adjourn the Closed Session at 8:25 PM. Councilmember Jo
+   2026-06-02 m1: 4 seated (expected 5) :: adjourn the Work Session. Councilmember Johnson
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay/Abstain/Recuse/tie-break) — the signal: 53
+------------------------------------------------------------------------
+   2020-05-05 m5 Failed | AYE=['Sheldon Stewart', 'Claude Wells'] NAY=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Resolution No. 20-30 – Approving City Staff to negotiate a contr
+   2020-05-19 m7 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Claude Wells'] NAY=['Tawnee McCay', 'Sheldon Stewart'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 20-13 - Rezoning approximately 12.8 acres located 
+   2020-10-16 m3 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Sheldon Stewart', 'Claude Wells'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 20-25 - Amending Section 18.90.010, and 18.85.030(
+   2020-11-17 m8 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Sheldon Stewart', 'Claude Wells'] NAY=[] ABSTAIN=['Tawnee McCay'] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Resolution No. 20-68 - Approving a Purchase Agreement to acquire
+   2020-12-15 m5 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Sheldon Stewart', 'Claude Wells'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 20-32 - regulating locating and operating Food Tru
+   2021-01-05 m5 Failed | AYE=['Claude Wells'] NAY=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal', 'Sheldon Stewart'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance 21-03, rezoning approximately two acres located at 128
+   2021-01-05 m6 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Claude Wells'] NAY=['Tawnee McCay', 'Sheldon Stewart'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: Table Ordinance No. 21-02 until February 16 and to to request addition
+   2021-02-16 m3 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Sheldon Stewart', 'Claude Wells'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Ordinance No. 21-02, an ordinance rezoning 8.32 acres at 12761
+   2021-04-06 m4 Failed | AYE=['Sheldon Stewart', 'Claude Wells'] NAY=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: for a substitute motion that the City Council to approve Resolution No
+   2021-04-06 m5 Passed | AYE=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal', 'Sheldon Stewart'] NAY=['Claude Wells'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 21-26 - Authorizing Riverton City to Execute an
+   2021-05-04 m4 Denied | AYE=['Sheldon Stewart', 'Claude Wells'] NAY=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 21-12, amending the General Plan designation of th
+   2021-05-04 m5 Passed | AYE=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal', 'Sheldon Stewart'] NAY=['Claude Wells'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 21-12, amending the General Plan designation of th
+   2021-08-03 m3 Passed | AYE=['Tawnee McCay', 'Sheldon Stewart', 'Troy McDougal', 'Claude Wells'] NAY=['Tish Buroker'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council adopt Ordinance No. 21-21 removing proh
+   2022-06-07 m7 Passed | AYE=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal'] NAY=['Claude Wells'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council ADOPT Resolution No. 22- 39 - Adopting 
+   2022-11-15 m4 Passed unanimously | AYE=['Tish Buroker', 'Tawnee McCay', 'Sheldon Stewart', 'Claude Wells'] NAY=['Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council adopt Ordinance No. 22-24 – Funaro Rezo
+   2023-02-07 m4 Failed | AYE=['Tawnee McCay', 'Claude Wells'] NAY=['Tish Buroker', 'Troy McDougal', 'Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council TABLE Ordinance No. 23-03 - Wright-Park
+   2023-02-07 m5 Passed | AYE=['Tish Buroker', 'Troy McDougal', 'Andy Pierucci', 'Claude Wells'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council adopt Ordinance No. 23- 03 - Wright-Par
+   2023-04-18 m3 Passed | AYE=['Tawnee McCay', 'Andy Pierucci', 'Claude Wells'] NAY=['Tish Buroker', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 23-31 – Authorizing the Mayor to execute an agr
+   2023-04-18 m5 Passed | AYE=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal', 'Andy Pierucci'] NAY=['Claude Wells'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council move forward with the improvements to T
+   2023-04-18 m7 Passed | AYE=['Tawnee McCay', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tish Buroker', 'Claude Wells'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: that the Riverton City Council DENY Resolution No. 23-28 – Granting Co
+   2023-05-16 m4 Failed | AYE=['Andy Pierucci', 'Claude Wells'] NAY=['Tish Buroker', 'Tawnee McCay', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 23-34 – Adopting Tentative Budgets for the 2023
+   2023-12-06 m3 Passed | AYE=['Tish Buroker', 'Troy McDougal'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 23-16 – Adopting Section 6.05.425, Feeding Wild Bi
+   2024-04-16 m5 Passed | AYE=['Tish Buroker', 'Tawnee McCay', 'Andy Pierucci'] NAY=['Spencer Haymond', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 24-03 – Amending Riverton City Code Title 13, Chap
+   2024-05-07 m3 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Troy McDougal'] NAY=['Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 24-06 – Amendment to Sections 18.215.030(2) and 18
+   2024-05-21 m6 Failed | AYE=['Tawnee McCay', 'Andy Pierucci'] NAY=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 24-48 – Reaffiming the Policy of Riverton City,
+   2024-06-04 m5 Failed | AYE=['Tish Buroker', 'Tawnee McCay'] NAY=['Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: increase the monthly household amount by $3, from $10 to $13 and that 
+   2024-06-04 m7 Failed | AYE=['Andy Pierucci'] NAY=['Tish Buroker', 'Spencer Haymond', 'Tawnee McCay', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: increase the monthly household amount by $3, from $10 to $13 and that 
+   2024-06-04 m8 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Tawnee McCay', 'Andy Pierucci'] NAY=['Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: increase the monthly household amount by $3, from $10 to $13 and that 
+   2024-06-18 m4 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 24-10 the Development Agreement for Paige Retail P
+   2024-07-16 m6 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Andy Pierucci'] NAY=['Tish Buroker'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 24-14 – Amending Title 11, Chapters 5 of the River
+   2024-08-20 m7 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 24-84 – Declaring City Owned Property, Known as
+   2024-08-20 m9 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tish Buroker'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: direct staff to provide an information campaign regarding placing chai
+   2024-09-03 m8 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Andy Pierucci'] NAY=['Tish Buroker', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: DENY Ordinance 24-18 – Code Text Amendment, Amending Section 18.135.20
+   2024-09-03 m9 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 24-88 – Fee Schedule Amendment (Animal Intake C
+   2024-10-01 m5 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 24-92 – 4831 W. Cott Peak Drive Boundary Adjust
+   2024-11-12 m3 Passed unanimously | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: DENY Ordinance No. 24-21 – Page | 11 Minutes – City Council Meeting No
+   2024-11-12 m4 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 24-22 – Amending Section 18.225.020(h), Accessory 
+   2024-11-12 m6 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Ordinance No. 24-24 – Adopting Riverton City Code Title 2, Cha
+   2024-12-03 m3 Passed | AYE=['Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Item D. Ordinance No. 24-26 – Making Technical Revisions to Or
+   2024-12-03 m7 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Troy McDougal'] NAY=['Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 24-102 – Budget Amendment, Animal Control secti
+   2025-01-07 m5 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal'] NAY=['Tawnee McCay', 'Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: DENY Ordinance No. 25-03 – Pelaez Rezone, Amending the General Plan De
+   2025-04-01 m4 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal'] NAY=['Tawnee McCay', 'Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 25-10 – Amending Riverton City Code Title 6, Chapt
+   2025-05-06 m4 Passed | AYE=['Spencer Haymond', 'Tawnee McCay', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tish Buroker'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: TABLE Ordinance No. 25-14 – Amending Riverton City Code Section 18.135
+   2025-05-06 m6 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 25-28 – Establishing a Formal Perimeter Boundar
+   2025-05-20 m7 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Tawnee McCay', 'Troy McDougal'] NAY=['Andy Pierucci'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: support Councilmember McCay’s Estimate #2 for raising sanitation fees.
+   2025-06-03 m6 Passed unanimously | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 25-32 – Authorizing of Real Property. Councilme
+   2025-06-17 m5 Passed unanimously | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 25-38 – Adopting the Tax Rate for 2025 Tax. Cou
+   2025-06-17 m6 Passed unanimously | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=[] ABSTAIN=[] RECUSE=['Tawnee McCay'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 25-40 – Authorizing the Mayor to Enter into a S
+   2025-12-02 m4 Passed | AYE=['Tish Buroker', 'Spencer Haymond', 'Troy McDougal', 'Andy Pierucci'] NAY=['Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 25-61 – Approving the Riverton City Skate Park 
+   2025-12-16 m3 Passed (Mayor tie-break) | AYE=['Troy McDougal', 'Andy Pierucci'] NAY=['Tish Buroker', 'Tawnee McCay'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[{'member': 'Trent Staggs', 'vote': 'aye'}] :: approve Resolution No. 25-62 – Removal of the Riverton City Skate Faci
+   2026-03-03 m4 Failed | AYE=['Alexander Johnson', 'Andy Pierucci'] NAY=['Spencer Haymond', 'Shannon Smith'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Ordinance No. 26-03, “Quinn Rezone,” on approximately 0.97 acres
+   2026-04-07 m1 Passed | AYE=['Alexander Johnson', 'Andy Pierucci', 'Shannon Smith'] NAY=['Spencer Haymond', 'Troy McDougal'] ABSTAIN=[] RECUSE=[] ABSENT=[] TIEBREAK=[] :: adopt Option 1 of the water rates. Councilmember Johnson
+   2026-06-02 m11 Passed unanimously | AYE=['Spencer Haymond', 'Alexander Johnson', 'Troy McDougal', 'Shannon Smith'] NAY=[] ABSTAIN=[] RECUSE=['Andy Pierucci'] ABSENT=[] TIEBREAK=[] :: approve Resolution No. 26-24 – Authorizing the Execution of a Franchis

@@ -1,0 +1,1586 @@
+# Park City Council Meeting — 2024-01-04
+> Source: https://parkcityut.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4402,plainText=true)
+> Meeting date: 2024-01-04
+> Format: text
+
+---
+
+
+  
+
+
+                                                   
+  
+ PARK CITY COUNCIL MEETING MINUTES  
+ 445 MARSAC AVENUE 
+ PARK CITY, UTAH 84060 
+  
+ January 4, 2024 
+  
+ The Council of Park City, Summit County, Utah, met in open meeting on January 4, 
+ 2024, at 3:15 p.m. in the City Council Chambers. 
+  
+Council Member Dickey moved to close the meeting to discuss property, litigation, and 
+ advice of counsel at 3:15 p.m. Council Member Parigian seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Dickey, Parigian, and Toly 
+ EXCUSED: Council Members Ciraco and Rubell 
+  
+ CLOSED SESSION 
+ Council Members Ciraco and Rubell arrived shortly after the meeting began. 
+  
+ Council Member Ciraco moved to adjourn from Closed Meeting at 3:45 p.m. Council 
+Member Toly seconded the motion.  
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ WORK SESSION 
+  
+ Appeal Panel Interviews:  
+ The following applicants were interviewed for three open seats on the Appeal Panel: 
+ Adam Strachan, Esteban Nunez, Matthew Day, and Michael Collins. Elyse Kats was 
+ unable to interview. It was indicated the Council would decide on panelists soon.  
+  
+ Council Member Rubell moved to close the meeting to discuss personnel at 4:55 p.m. 
+ Council Member Dickey seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ CLOSED SESSION 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 2 
+  
+ Council Member Dickey moved to adjourn from Closed Meeting at 5:15 p.m. Council 
+ Member Ciraco seconded the motion.  
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ REGULAR MEETING  
+  
+ I.    ROLL CALL 
+        
+     Attendee Name                                    Status 
+     Mayor Nann Worel 
+     Council Member Bill Ciraco 
+     Council Member Ryan Dickey  
+     Council Member Ed Parigian 
+     Council Member Jeremy Rubell                     Present  
+     Council Member Tana Toly (via Zoom)  
+     Matt Dias, City Manager 
+     Margaret Plane, City Attorney 
+     Michelle Kellogg, City Recorder 
+     None                                             Excused 
+  
+ II.   APPOINTMENTS  
+  
+ 1. Appointment of a Mayor Pro Tem and Alternate for Calendar Year 2024: 
+ Mayor Worel indicated it was tradition to appoint a Pro Tem based on seniority and in 
+ the case of two Council Members who were elected at the same time, the Pro Tem 
+ would be the one who received the highest number of votes. In subsequent years, the 
+ Pro Tem would rotate through the other Council members. She indicated Council 
+ Member Toly would be the Pro Tem for 2024 and Council Member Rubell would be the 
+ alternate Pro Tem. 
+  
+ Council Member Parigian moved to appoint Council Member Toly as Mayor Pro Tem 
+ and Council Member Rubell as the alternate Mayor Pro Tem for calendar year 2024. 
+ Council Member Dickey seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ III.  PRESENTATIONS 
+  
+ 1. Presentation of the 2023 Historic Preservation Awards to King Con Ore Bin, 
+ Daly West Headframe, and 180 Daly Avenue: 
+
+ Park City                           Page 2                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 3 
+  
+ Caitlyn Tubbs, Historic Preservation Planner, and Bridgette Meinhold, artist, were 
+ present for this item. Tubbs explained the grand prize winner traditionally had an art 
+ piece created in its honor. This year, King Con Ore Bin was the grand prize winner and 
+ other winners included the Daly West Headframe and 180 Daly Avenue. Awards were 
+ based on excellence in restoration. 
+  
+ Meinhold explained her art piece was more than a painting because she gathered 
+ flowers and other natural materials from the site, and then made her own ink to create 
+ the piece. 
+  
+ Donald Roll, Friends of Ski Mountain Mining History, thanked the Historic Preservation 
+ Board for the award and for the grant that went towards the restoration. Hannah Tyler 
+ reviewed the history of the Daly West Headframe, and indicated it fell over in 2015 and 
+ she was glad for the partnerships that facilitated the restoration. 
+  
+ IV.   COMMUNICATIONS AND DISCLOSURES FROM COUNCIL AND STAFF  
+  
+ Council Questions and Comments:  
+ Council Member Rubell welcomed the new Council members. He stated the Council 
+ members had been getting feedback on issues outside the City’s jurisdiction. Margaret 
+ Plane, City Attorney, indicated counties had jurisdiction over felonies. Municipalities only 
+ had jurisdiction over misdemeanors. Council Member Rubell felt they needed to reach 
+ out to activist groups to explain their role. Mayor Worel indicated she talked with Summit 
+ County Attorney Margaret Olson to see if she wanted the emails received by the City to 
+ be forwarded to her. Olson did not want the City emails for her records and indicated 
+ and the County had received many emails and most likely they were the same ones the 
+ City received. Matt Dias, City Manager, stated a draft response could be written for 
+ Council members to use. Council Member Rubell updated the Council on the Park City 
+ Fire District Administrative Board (PCFD) meeting. They recruited new personnel, they 
+ no longer provided EMS services to other areas, and the new fire station was now 
+ completed and there would be an open house. He noted lower fire protection impact 
+ fees were enacted for new residential and commercial builds. 
+  
+ V.    PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON 
+ THE AGENDA) 
+  
+ Mayor Worel opened the meeting for any who wished to speak or submit comments on 
+ items not on the agenda. 
+  
+ Aldy Milliken, Kimball Art Center Executive Director, reviewed a Letter of Intent (LOI) 
+ was signed by the Kimball Art Center (KAC) and the City Council in 2017. KAC already 
+ paid considerable funds towards the arts district project. Peer cities to Park City had 
+ already constructed art districts. KAC was a stable entity and served the community in 
+ many capacities. The planning studies of Bonanza Park showed support for an art 
+
+ Park City                           Page 3                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 4 
+  
+ district. He asserted they had outgrown their temporary space and needed to begin their 
+ permanent home.  
+  
+ Tom Gadek stated the trolley went to the top of Main Street. Recently the top of Main 
+ Street had been narrowed and a turnaround was created. He thought this was a good 
+ design. He also appreciated reducing the speed limit on Main Street to 15 mph. He 
+ stated he took the trolley and wanted to be dropped off at the turnaround and was told 
+ they could not stop at the turnaround. He felt this was a good resource for the 
+ community and he wanted to see it continue. 
+  
+ Joel Zarrow thanked the Council for their service. He worried about the snow, climate 
+ change and the economy. He felt the City needed to expand beyond winter sports and 
+ fill the needs of the community. He supported providing a world class arts and culture 
+ space. 
+  
+ Keren Mazanec eComment: “I have lived in Park City from 2001-2008 and then again 
+ from 2015 to present. My husband, daughter and I are full time residents in Park 
+ Meadows in Park City. I am a physical therapist and have commuted to Salt Lake City 
+ for many years for my job. Over the years I have witnessed the road kill along SR224 
+and I-80.  In 2003 I had a patient who was involved in a life altering accident from hitting 
+a moose on I-80 on his way to Salt Lake City from Park City. He went from being a 
+college football player to learning to be independent as a quadriplegic. I appreciate all 
+that the Save People Save Wildlife organization has done to try to prevent more 
+accidents on our roads. Once the fences went up along I-80 there was a huge decrease 
+ in the amount of dead animals along the road. I agree that the fencing needs to be 
+ continued along SR224 into town. But there also has to be a way for these animals to 
+ migrate across SR224. I believe a wildlife overpass or underpass would be the best 
+ solution.  We cannot turn a blind eye to what is going on. As we grow we have to 
+ consider our environment and the animals that we share it with. We saved Bonanza 
+ Flats. We paid to prevent Treasure from building. Surely considering all that was spent 
+ on those 2 projects alone I would think we could come up with a viable solution to this 
+ issue that is extremely important to our town and our county. Please make this a priority. 
+ I will leave you with an article from the Texas Monthly about how Texas has seen human 
+ and animal lives saved with such bridges.  https://www.texasmonthly.com/travel/texas-
+ wildlife-crossings-saving-lives-and-money/# 
+  
+ Mayor Worel closed the public input portion of the meeting. 
+  
+ VI.   CONSIDERATION OF MINUTES 
+  
+ 1. Consideration to Approve the City Council Meeting Minutes from November 30, 
+ 2023, and December 5 and 14, 2023: 
+  
+ Council Member Rubell moved to continue the December 14, 2023 City Council 
+ meeting minutes to January 11, 2024. Council Member Dickey seconded the motion. 
+
+ Park City                           Page 4                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 5 
+  
+ RESULT:  CONTINUED TO JANUARY 11, 2024                
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ Council Member Rubell moved to approve the City Council meeting minutes from 
+ November 30, 2023 and December 5, 2023. Council Member Dickey seconded the 
+ motion. 
+  
+ Margaret Plane clarified the new Council members could vote on the minutes as long as 
+ they reviewed the meeting and the minutes. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ VII.  CONSENT AGENDA 
+  
+ 1. Request to Approve Special Event Temporary Alcoholic Beverage Licenses 
+ during the 2024 Sundance Film Festival: 
+  
+ 2. Request to Approve Type 2 Convention Sales Licenses for Operation during the 
+ 2024 Sundance Film Festival: 
+  
+ Council Member Dickey moved to approve the Consent Agenda. Council Member Toly 
+ seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ VIII. NEW BUSINESS 
+ 
+ 1. Consideration to Approve Ordinance 2024-01, an Ordinance Approving the 2024 
+ Regular Meeting Schedule for City Council: 
+  
+ Mayor Worel opened the public hearing. No comments were given. Mayor Worel closed 
+ the public hearing. 
+  
+ Council Member Dickey moved to approve Ordinance 2024-01, an ordinance approving 
+ the 2024 regular meeting schedule for City Council. Council Member Ciraco seconded 
+ the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Council Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+
+
+ Park City                           Page 5                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 6 
+  
+ 2. Public Hearing Regarding Potential Applications for Community Development 
+ Block Grant (CDBG) Small Cities Program Funding, a Federal Program, for the 
+ 2024 Funding Cycle:  
+ Rhoda Stauffer, Affordable Housing Specialist, presented this item and stated a public 
+ hearing was required by law as part of the grant program. She reviewed federal grants 
+ given under this program were solely for projects that benefited low- and moderate-
+ income families. She noted the City could not discuss specific projects at this public 
+ hearing, but if the City applied for a grant, a second public hearing would be held and 
+ potential projects could be discussed. 
+  
+ Mayor Worel opened the public hearing. 
+  
+ Megan McKenna, Housing Advocate for Mountainlands Community Housing Trust, 
+ supported the CDBG program and felt it was good for the City to apply for a grant for 
+ affordable housing. 
+  
+ Craig Weakley, 84060, Senior Citizen Board Member, stated they were working on the 
+ Woodside Park Phase II project. They believed this grant was a great opportunity and 
+ the Woodside Park housing and senior center project would be a good candidate for 
+ this funding. He also thought having the City apply for the grant would maximize the 
+ award. 
+  
+ Mayor Worel closed the public hearing.  
+  
+ (Separate CDBG Public Hearing minutes used for the grant application are attached to 
+this document.) 
+ 
+ 3. Discuss Main Street Area Plan Advisory Committee: 
+ Erik Daenitz, Economic Development Manager, presented this item and displayed 
+ analytics for Main Street during the holidays. He noted the volume of visitors had 
+ decreased and stated this did not necessarily correlate with sales tax. From the data, he 
+ deduced Main Street had a strong holiday season. 
+ 
+Daenitz discussed the future of Main Street. He reviewed the 1998 Downtown Action 
+Plan and indicated there was direct involvement with businesses and City staff in the 
+ plan’s creation. He offered three work method options for moving forward: staff advice 
+ with no public input, an advisory committee which represents the community, or a 
+ consultant-based process. Key topics to be addressed would include utility 
+ infrastructure, Land Management Code (LMC) and regulation, economic enhancement, 
+and transportation. He also noted he hoped to include Park Avenue as part of the 
+project. He would focus on Main Street and the surrounding residential areas. He didn’t 
+anticipate significant changes or rezoning recommendations to the residential areas, but 
+ it would provide them the scope to look at opportunities for traffic flow enhancements if 
+ that made sense after conducting the analysis. 
+  
+
+ Park City                           Page 6                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 7 
+  
+ Council Member Toly asked for two community resident members to be on the advisory 
+ committee: one living on Main Street and one who visited Main Street frequently. 
+ Council Member Rubell asked if Daenitz wanted to include non-traditional connectivity 
+ to Deer Valley. Daenitz stated the boundaries of the study would include the Townlift 
+ Plaza. Council Member Rubell asked if the Marsac roundabout was included for 
+ accessing Lower Main Street or for accessing Deer Valley. Daenitz stated that was a 
+ state road so not much could be done there without partnering with UDOT. It was close 
+ to the Flagpole lot and if that lot could be reconfigured in a way that made more sense, 
+ he would want to include it in the study. Council Member Rubell asked to include non-
+ vehicle traffic in the report as well. He asked about the infrastructure issues in the Main 
+ Street area and the timing for resolving those issues in conjunction with other Main 
+ Street work. Daenitz stated the infrastructure need was urgent, but that didn’t mean it 
+ would lead to other capital investment projects that didn’t have anything to do with 
+ water. Doing both at the same time would not generate significant savings. 
+  
+ Council Member Dickey asked what staff time would be required if an advisory 
+ committee was not used. Daenitz stated staff contributed significant time whether they 
+ guided a committee or not. It would be more work if a committee was not formed, but 
+ not that much more time. Dias stated he would support Daenitz and his team with 
+ resources for a consultant, additional staff, etc. 
+  
+ Council Member Parigian favored the advisory committee option, and asked why 
+ visitation was lower this season. Daenitz stated this was normalizing after COVID as 
+ well as an economic normalization. Council Member Parigian asked what the goal was 
+ for the Main Street project. Daenitz indicated Main Street stakeholders had an interest 
+ in revitalizing the Main Street core district. Also, Council gave direction during budget 
+ cycles to reserve money for Main Street projects and/or studies. Dias reviewed several 
+ years ago, the City was asked by the Historic Park City Alliance to perform a visioning 
+ study for the area. After COVID, there were several Council discussions regarding a 
+ Main Street study. Council Member Parigian thought there would be a log jam and 
+ indicated infrastructure could not be figured out until the traffic problem was solved. He 
+ gave an example of having wider sidewalks if Main Street became a one-way corridor. If 
+ things were moved around, there was more opportunity for change in infrastructure. 
+ Daenitz stated those were questions the group would investigate. He noted the 
+ transportation team had a master plan and from votes taken in December, he saw 
+ strong Council support for transportation capital investments.  
+  
+ Council Member Toly indicated this was three-pronged: City infrastructure, City-owned 
+property at the top of Main Street, and the future of Main Street, with Olympics coming. 
+Also, other areas were being developed that would compete with Main Street and that 
+needed to be addressed. Council Member Parigian asked how the data was 
+determined. Daenitz reviewed the software he had tracked cell phones in a pre-
+determined area. 
+ 
+
+ Park City                           Page 7                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 8 
+  
+ Council Member Ciraco asked if the new establishment on Main Street contributed to 
+ the visitation spike the last week of December. Daenitz stated that could have helped. 
+ There was also inversion in Salt Lake City and people came to Park City for clean air. 
+Council Member Ciraco noted the Mayflower development and asked if that was part of 
+the reason for this study. Daenitz indicated the interest for a study was there prior to the 
+ Mayflower development, but it was also a factor. Main Street was a historic district and 
+ couldn’t be duplicated, but improvements could be made. Council Member Ciraco 
+ thought it would be important to consider the residents who lived in close proximity to 
+ the commercial zones. He wanted those residents to have a voice. He stated the City 
+ was 10 years away from a 2034 Olympics so he felt the process should be streamlined.  
+  
+ The Council members wanted to proceed with the study. Council Member Toly asked if 
+ a Council member should vote as part of the committee. Daenitz stated he would prefer 
+ for the Council to advise and observe, but not vote. Council Member Toly preferred the 
+advisory committee model. Council Member Rubell wanted all three options to play a 
+part. He thought the infrastructure project was needed and it should be coordinated with 
+the Main Street project. He indicated people on advisory committees had different 
+backgrounds and staff could glean from their perspectives. He suggested the committee 
+start in Phase II, comparing the phase to Bonanza Park Phase II study. He wanted a 
+professional design for a plan that addressed the key targets as the guidepost. Then the 
+committee would be asked to shape the key targets to move the study forward. 
+ 
+Council Member Dickey asked if the consultants would be used more upfront to shape a 
+plan, to which Council Member Rubell affirmed. Council Member Dickey asked what the 
+fastest model was. Daenitz stated leading with a plan and then refining it would be 
+faster because they would cut out the discovery phase. Council Member Dickey liked 
+Council Member Rubell’s concept and he favored having a small committee. Council 
+Member Parigian favored having the locals meet first before bringing in the consultants. 
+ He thought traffic was the underlying issue and felt decisions couldn’t be made until that 
+ was resolved. Council Member Ciraco favored the model Council Member Rubell 
+ proposed and requested consultants work with staff and then bring the ideas to the 
+ advisory group. Council Member Toly stated if Council Member Rubell’s proposal was 
+ approved, she requested having HPCA part of the plan from the beginning. Council 
+ Member Dickey stated an advisory committee should be set up from the beginning. 
+  
+ Mayor Worel summarized three Council members favored Council Member Rubell’s 
+ hybrid approach. Daenitz stated staff would guide certain scenarios for the consultants 
+ to help them and then deeper discussions would occur with the advisory committee. 
+ This format would be used to move forward quickly. 
+  
+ The Council members agreed the Council liaison would not vote with the committee. 
+ There was discussion on the boundary for analysis. Council Member Dickey liked the 
+ proposed boundary. He stated Park Avenue was talked about but it still hadn’t been 
+ transformed. He asked how impactful it was to Main Street. Daenitz stated it was not 
+ impactful unless it would be considered as an entry corridor. Council Member Dickey 
+
+ Park City                           Page 8                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 9 
+  
+ didn’t think Park Avenue was necessary for the study. Daenitz recommended deleting 
+ Park Avenue from Heber going north and keeping the rest of the boundaries. Council 
+ Member Rubell favored that, and requested pushing nonvehicle type connections to the 
+ resorts and other parts of town. Council Member Ciraco supported the newly suggested 
+ boundary, and hoped they could think about a way to make the nearby residential areas 
+ aware of the process. Also, the Townlift might get replaced at some point, so he wanted 
+ to look at better connections to the mountain. Council Member Parigian stated Upper 
+ Park Avenue residents should be included in the process since they would be affected. 
+ Daenitz stated the question was on boundaries, but he would be aware of impacts to 
+ surrounding areas and the need for communication with them. 
+  
+ IX.   ADJOURNMENT 
+  
+ X.    PARK CITY REDEVELOPMENT AGENCY MEETING 
+  
+ I.    ROLL CALL 
+        
+     Attendee Name                                    Status 
+     Mayor Nann Worel 
+     Board Member Bill Ciraco 
+     Board Member Ryan Dickey  
+     Board Member Ed Parigian 
+     Board Member Jeremy Rubell                       Present  
+     Board Member Tana Toly   
+     Matt Dias, Executive Director 
+     Margaret Plane, City Attorney 
+     Michelle Kellogg, Secretary 
+     None                                             Excused 
+  
+ II.       PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON 
+ THE AGENDA) 
+  
+ Chair Worel opened the meeting for any who wished to speak or submit comments on 
+ items not on the agenda. No comments were given. Chair Worel closed the public input 
+ portion of the meeting. 
+  
+ III.      NEW BUSINESS 
+  
+ 1. Consideration to Approve Resolution RDA 01-2024, a Resolution Establishing a 
+ Regular Meeting Date, Time, and Location for 2024 Meetings and Appointing 
+ Officers of the Board of Directors of the Redevelopment Agency of Park City, 
+ Utah: 
+  
+
+ Park City                           Page 9                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 10 
+  
+ Chair Worel opened the public hearing. No comments were given. Chair Worel closed 
+ the public hearing. 
+  
+ Board Member Dickey moved to approve Resolution RDA 01-2024, a resolution 
+ establishing a regular meeting date, time, and location for 2024 meetings and 
+ appointing officers of the board of directors of the Redevelopment Agency of Park City, 
+ Utah. Board Member Rubell seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Board Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ IV.        ADJOURNMENT 
+  
+ XI.   PARK CITY HOUSING AUTHORITY MEETING 
+  
+ I.    ROLL CALL 
+        
+     Attendee Name                                    Status 
+     Mayor Nann Worel 
+     Board Member Bill Ciraco 
+     Board Member Ryan Dickey  
+     Board Member Ed Parigian 
+     Board Member Jeremy Rubell                       Present  
+     Board Member Tana Toly   
+     Matt Dias, Executive Director 
+     Margaret Plane, City Attorney 
+     Michelle Kellogg, Secretary 
+     None                                             Excused 
+  
+ II.       PUBLIC INPUT (ANY MATTER OF CITY BUSINESS NOT SCHEDULED ON 
+ THE AGENDA) 
+  
+ Chair Worel opened the meeting for any who wished to speak or submit comments on 
+ items not on the agenda. No comments were given. Chair Worel closed the public input 
+ portion of the meeting. 
+  
+ III.      NEW BUSINESS 
+  
+ 1. Consideration to Approve Resolution HA 01-2024, a Resolution Establishing a 
+ Regular Meeting Date, Time, and Location for 2024 Meetings and Appointing 
+ Officers of the Board of Directors of the Housing Authority of Park City, Utah: 
+  
+ Chair Worel opened the public hearing. No comments were given. Chair Worel closed 
+ the public hearing. 
+
+ Park City                          Page 10                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 11 
+  
+ Board Member Parigian moved to approve Resolution HA 01-2024, a resolution 
+establishing a regular meeting date, time, and location for 2024 meetings and 
+appointing officers of the board of directors of the Housing Authority of Park City, Utah. 
+Board Member Ciraco seconded the motion. 
+ RESULT:  APPROVED                      
+ AYES:  Board Members Ciraco, Dickey, Parigian, Rubell, and Toly 
+  
+ IV.      ADJOURNMENT 
+  
+ With no further business, the meeting was adjourned. 
+  
+                                                   _________________________ 
+                                                   Michelle Kellogg, City Recorder                      
+
+
+ Park City                          Page 11                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 12 
+  
+                   FIRST CDBG PUBLIC HEARING MINUTES 
+     PARK CITY MUNICIPAL CORPORATION FIRST CDBG PUBLIC HEARING 
+               HEARING HELD IN THE COUNCIL CHAMBERS AT  
+             445 MARSAC AVENUE, ON JANUARY 4, 2024, AT 6:05PM 
+                                         
+ The Park City Municipal Corporation first CDBG public hearing was held on Thursday, January 
+ 4, 2024, in the Council Chambers at City Hall located at 445 Marsac Avenue, Park City, UT 
+ 84060. The public hearing commenced at 6:05pm. 
+  
+ Present:    Mayor Nann Worel 
+             Councilor Tana Toly 
+             Councilor Bill Ciraco 
+             Councilor Ed Parigian 
+             Councilor Ryan Dickey 
+             Councilor Jeremy Rubell 
+  
+ City staff in attendance: Jason Glidden, Jennifer McGrath, Sarah Pearce, Matt Dias, Rhoda 
+ Stauffer, Erik Daenitz, Chief Wade Carpenter 
+  
+ Public in attendance: Megan McKenna, Craig Weakley, and seven additional unidentified 
+ members of the public. 
+  
+ City Recorder: Michelle Kellogg 
+ City Clerk: Marissa Marleau 
+ City Attorney: Margaret Plane 
+  
+ Mayor Nann Worel opened the CDBG public hearing and requested that staff review the purpose 
+ of the hearing and provide some background on the CDBG program. Staff stated that the purpose 
+ of the public hearing is to provide citizens with information about the Community Development 
+ Block Program (CDBG) and to allow for discussion of possible applications for the 2024 funding 
+ cycle. It was explained that grant money must be spent on projects benefiting primarily low- and 
+ moderate-income people. The Mountainland Association of Governments (MAG), in which Park 
+ City Municipal Corporation (PCMC) is a member, is expecting to receive just short of $600,000 
+ for the Wasatch and Summit Counties Small Cities Program for the 2024 program year. All eligible 
+ activities that can be accomplished under this program are identified in the CDBG Application 
+ Policies and Procedures Manual and interested persons can review it at any time. Staff reviewed 
+ examples of eligible activities including construction projects such as replacement of water or 
+ sewer lines, street reconstruction, construction of homeless facilities, community centers, parking 
+ facilities, day care centers, sidewalks, fire stations and equipment, senior centers, to name a few. 
+ Eligible affordable housing projects include rehabilitation of existing units, lead paint abatement, 
+and modernization of public housing units. CDBG funding can be used for economic development 
+purposes as well for infrastructure development, land/property acquisition, and micro-enterprise 
+assistance. Regional and community planning are also eligible activities. In past rounds, typical 
+
+
+ Park City                          Page 12                      January 4, 2024 
+   PARK CITY COUNCIL MEETING 
+ SUMMIT COUNTY, UTAH  
+January 4, 2024 
+P a g e | 13 
+  
+ projects that received funding in Summit and Wasatch Counties were infrastructure projects such 
+ as installation and/or replacement of water and sewer lines.  
+  
+ Staff reviewed that PCMC last applied for the program in 2006. In addition, the last CDBG grant 
+ received was $25,000 in 2004 to complete an affordable housing study.  
+  
+ Mayor Worel opened the public hearing. 
+  
+ Ms. Megan McKenna complimented the Mayor and Council on considering an application to the 
+ CDBG program and recommended that a grant be used for affordable housing. 
+  
+ Mr. Craig Weakley asked that a future grant be used to support a new Senior Center. 
+  
+ Mayor Worel asked if there were any other citizens either in person or on-line that wanted to 
+ speak. There were none.  
+  
+ Mayor Worel thanked the participants and closed the CDBG public hearing at 6:16pm 
+                                                                                
+
+
+ Park City                          Page 13                      January 4, 2024 
+      PUBLIC HEARING
+Community Development Block Grant
+
+          City Council
+          January 4, 2024                         CDBG
+                      A Federal Grant Program
+• CDBG can fund a broad range of activities to benefit low- and moderate-
+  income households as well as protected classes such as seniors. 
+• Eligible activities include construction projects such as replacement of water 
+  or sewer lines, street reconstruction, construction of homeless facilities, 
+  community centers, parking facilities, day dare centers, sidewalks, fire 
+  stations and equipment, senior centers, to name a few. 
+• Eligible affordable housing projects include rehabilitation of existing units, 
+  lead paint abatement, and modernization of public housing units. 
+• CDBG can be used for economic development purposes as well for 
+  infrastructure development, land/property acquisition, and micro-enterprise 
+  assistance. 
+• Regional and community planning are also eligible activities.                      CDBG
+                   Small Cities Program
+
+• Summit & Wasatch County programs are managed by Mountainland 
+  Association of Government.
+• Just under $600,000 in grant funding for 2024.
+• Park City hasn’t applied since 2006 and was last awarded a grant in 
+  2004 for an affordable housing study.
+• If the City decides to submit a proposal, staff will return to review the 
+  project at a second public hearing.     Public Hearing
+
+Guidelines:
+•  The City may not discuss any specific projects
+•  Open the public hearing and record citizens’ ideas and 
+   suggestions Main Street Area Plan
+Update & Engagement                                        Main Street Visitation Update
+                                       Estimated Main Street Visitors by Calendar Year and Quarter
+       1,800,000
+                                     1,573,286           1,618,275                                                1,594,725
+       1,600,000  1,483,161
+                                                                                               1,391,936                             1,339,568
+       1,400,000                                                            1,273,540
+                                                                                                      1,139,918
+       1,200,000
+                          993,336           1,030,691           992,946                                                                            858,088
+                                                                                                          981,176         926,687
+       1,000,000             853,676            845,928             875,761        906,242846,605                                            878,496
+                                                                                                   793,237                      858,567
+
+
+        800,000       665,538            640,188             663,881                                                  659,935            640,027
+      Visitors
+        600,000
+        400,000                                                                 262,389
+        200,000
+               0
+                          2017               2018               2019               2020               2021               2022               2023
+                                            First Quarter     Second Quarter      Third Quarter    Fourth Quarter
+
+                                    Main Street Visitors                                                  Main Street Visitors, YoY % Change
+            First      Second        Third       Fourth       Total Calendar            First      Second        Third       Fourth       Total Calendar 
+            Quarter    Quarter       Quarter     Quarter      Year                      Quarter    Quarter       Quarter     Quarter      Year
+       2017  1,483,161    665,538      993,336      853,676       3,995,711
+       2018  1,573,286    640,188      1,030,691    845,928       4,090,093         2018    6%           -4%          4%          -1%            2%
+       2019  1,618,275    663,881      992,946      875,761       4,150,863         2019    3%           4%          -4%          4%             1%
+
+
+       2020  1,273,540    262,389      906,242      846,605       3,288,776         2020    -21%        -60%         -9%          -3%            -21%
+    Calendar Year Calendar
+       2021  1,391,936    793,237      1,139,918    981,176       4,306,267        Calendar Year 2021 9% 202%        26%          16%            31%
+       2022  1,594,725    659,935      926,687      858,567       4,039,914         2022    15%         -17%         -19%        -12%            -6%
+       2023  1,339,568    640,027      878,496      858,088       3,716,179         2023    -16%         -3%         -5%          0%             -8%
+
+Source: Park City Municipal Corporation. As of December 2023.           Main Street Visitation Update: December 2023
+
+                                   YoY % Change in Main Street Visitors by Day
+                                                December 2023
+
+                                               Week preceding Christmas           Post-Christmas & New 
+      60%                                            Stable but Flat                 Year’s Strength
+
+      40%
+
+      20%
+
+       0%
+
+     -20%
+
+
+
+     -40%
+    YoY % Change YoY Change  %   in Visitors  by Day
+
+     -60%
+
+
+                                                     Date
+
+Source: Park City Municipal Corporation. As of December 2023.                Main Street Visitation Update: December 2023
+      California and Wasatch Front lead the way over the holiday period. Park City and Basin contribute.
+                                     Source of Main Street Visitors by Home Location and %
+                                                                   December 2023
+     18.0%
+            17%
+     16.0%
+
+     14.0%    13%
+
+     12.0%
+
+     10.0%       9%
+
+      8.0%          7%
+
+      6.0%
+                      4%
+                        4%4%
+      4.0%                   3%
+
+
+    % of  %   Total of Visitors  Over Period 2%2%
+                                     2%2%2%2%2%
+                                                 2%1% 1% 1% 1%
+      2.0%                                                    1% 1% 1% 1% 1%
+                                                                          1% 1% 1% 1% 1% 1%0%0%0%0%
+                                                                                                   0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%0%
+
+
+      0.0%
+
+
+                                  IL
+
+
+                                                                                                                                     IA
+
+
+                                                                                                                                RI
+
+
+                                                                                                            ID
+
+
+                                                                                                       HI
+
+
+                                                                                                IN
+
+
+                      TX
+
+
+                                                                          MI
+
+
+                                                                                                                                        VT
+
+
+                                                                                         CT
+
+
+                                                                                                  WI
+
+
+                   FL
+
+
+                                                                                             KY
+
+
+                                                      TN
+
+
+                                            AZ
+
+
+                          NY                  NJ
+
+
+                                                                  AL           LA
+
+
+
+
+                                       VA                              SC
+
+
+                                                                                                                    DE
+
+
+                                                                                                                         KS
+
+
+                                                                                                                           MT
+
+
+                                                                     CO
+
+
+              CA
+
+
+                                                   PA                                                                                               SD
+
+
+                                                                                 DC
+
+
+                                                           NV
+
+
+                                                                                                          OK                                             AK
+
+
+                               GA
+
+
+                                                                                           OR                                                NE
+
+
+                                                                                                     AR
+
+
+                                                 NC
+
+
+                                                        OH
+
+
+                                                                                                                 WY
+
+
+                                                                                                                                               ND
+
+
+                                                                                                                                   ME
+
+
+                                                                                                                      NH
+
+
+                                                                                      MS
+
+
+                                         MA                                 MO
+
+
+                                                                                                                                                  WV
+
+
+                                                             MD
+
+
+                                                                                    MN                                                    NM
+
+
+                                                                WA
+
+
+                        Park City  Park
+
+
+                                                                                                                                                       Eastern Utah  Eastern
+
+
+                                    Wasatch Back  Wasatch
+
+
+                                                                                                                              Northern Utah  Northern
+                                                                                                               Southern Utah  Southern
+
+
+                 Wasatch Front  Wasatch            Legend     Out-Of-State    In-State
+                             Snyderville Basin  Snyderville
+Source: Park City Municipal Corporation. As of December 2023.                Main Street Visitation Update: December 2023
+    Top locations prior to entering and exiting Main Street demonstrate the Deer Valley area and the Park 
+                                     City Mountain base are key areas visitors pass through. 
+                           Top Visitor Locations Prior to Entering Main Street and Post Leaving Main Street
+                                                                    December 2023
+              26%
+        30%        26%
+        25%
+        20%
+
+        15%          11%
+                    10%
+                          9%          9%
+        10%                7%    8%
+      % of  % Visitsof         6%    6%          6%
+                                          6%5%  6%   5%
+                                                       4%  4%     4%
+         5%                                                     3%    3%    2%          3%
+                                                            2%          1%       2%2%  2%   2%1%  1%2% 1%2%  1%
+                                                                             1%                               0%   1%1% 1%1%  1%1% 1%0%  1%0% 1%1%  0%0%
+
+
+         0%
+
+
+                                                                                                                     Midway
+
+
+                                                                                                          Walmart
+
+
+                                                                                               City Park  City
+
+
+                                                                                                                                                      PC MARC  PC
+
+
+                                                                                                                                           Promontory
+
+
+                            Salt Lake CityLake  Salt
+
+
+                                                                                                                                                 Kamas Entryway Kamas
+
+
+                 DeerArea  Valley  
+
+
+                                                                                                                                Park City Library City  Park
+
+
+                                                                              Utah Olympic Park  Utah Olympic
+
+
+                                                              Prospector Square  Prospector
+
+
+                                                                                                                Park City Residence  City  Park
+
+
+                                                                                                                           Old Town Residence  OldTown  
+
+
+                                                                         Woodward Park Park  City Woodward
+
+
+                                                  Salt Lake International Lake  Salt
+
+
+                                                                                                    SnyderVill Basin Hotels  Basin  SnyderVill
+
+
+                                                                                                                                      Kimball Junction Hotels Junction  Kimball
+
+
+                                                                   Park City Canyons City  Base  Park
+
+
+                                             Kimball Junction Stores Junction  Kimball
+
+
+                                                        Park City Mountain Mountain  City  Base Park
+
+
+                                  Park City Entryway Hotels Entryway City   Park
+
+
+                                       Park City Entryway StoresEntryway City   Park
+
+
+                                                                                    Kimball Junction Restaurants Junction  Kimball
+
+
+                                                                                         Park City Entryway Restaurants Entryway City   Park
+                       Park City Mountain Base  Mountain  City  Canyons Park
+                                       Prior Location Before Entering Main Street       Post Location Leaving Main Street
+
+Source: Park City Municipal Corporation. As of December 2023.                                 Main Street Future: Key Targets
+
+                                                                                   The character of 
+                                                                       Preserve    Park City’s most 
+                                                                                   unique asset
+
+                                                 Systematic 
+                                            infrastructure for 
+                                                                Develop
+                                              transportation 
+                                                     access
+
+                                                                                   Quality of life for 
+                                                                                   residents by 
+                                                                       Improve
+                                                                                   mitigating vehicle 
+                                                                                   impacts
+
+                                                 Access for  
+                                              workforce that 
+                                                               Stabilize
+                                             drives business 
+                                                    success
+
+                                                                                   Economic 
+                                                                                   vibrancy within 
+                                                                       Enhance     Park City’s 
+                                                                                   historic 
+                                                                                   commercial core
+
+Source: Park City Municipal Corporation. As of November 2023.                                                              Predecessor
+
+
+Source: Park City Municipal Corporation. As of November 2023.                                                              Predecessor
+
+
+Source: Park City Municipal Corporation. As of November 2023.                 Main Street Future: Work Approach
+
+                                   Methods to Proceed
+
+
+  Council Acts Directly on       Advisory Committee           Consultant-Based 
+     Staff Advice Only         Represents Community               Process
+
+
+  No Public Feedback             Recommended Path            Council Has Signaled 
+                                                             to Not Follow this Path
+
+
+Source: Park City Municipal Corporation. As of November 2023.              Main Street Future: Work Approach
+
+                          Advisory Group Approach
+
+       Represented Body
+
+City Council (Option to have as Either Direct Representation or External 
+Advisor)
+Planning Commission
+Historic Park City Alliance
+Park City Chamber of Commerce
+Park City Area Lodging Association
+Park City Area Restaurant Association
+Park City Historic Preservation Board
+Resident Community Member
+Park City Municipal Staff
+
+Source: Park City Municipal Corporation. As of November 2023.                 Main Street Future: Work Approach
+
+                             Advisory Group Responsibilities
+
+        Provide Knowledge          Of current industry/geography conditions and needs
+
+
+    Support the Target Outcomes    That Council has specified
+
+
+    Represent Their Organization   Serve as liaison between industry group, advisory group and 
+                                   Council and represent the public interest
+
+          Provide Project 
+        Recommendations            That seek to deliver on targeted outcomes
+
+      Support Implementation       Provide information to the public
+
+Source: Park City Municipal Corporation. As of November 2023.                Main Street Future: Key Streams
+
+                           Key areas of focus
+
+
+       Utility Infrastructure Needed uplift of Main Street water infrastructure
+
+     Land Management Code &  Potential code revisions to target affordable 
+          Regulation         housing, vibrancy, chain businesses, etc.
+
+                             Potential asset development opportunities to 
+     Economic Enhancement    stabilize demand base and recirculate 
+                             customers of Main Street
+
+                              Potential traffic flow revisions, streetscape 
+         Transportation
+                              infrastructure and uses
+
+Source: Park City Municipal Corporation. As of November 2023.                                                         Plan Boundaries
+                          Option to consider Park Ave. corridor as part of project.
+
+
+Source: Park City Municipal Corporation. As of November 2023.                                              3 Regions
+                  Seeking to Prepare Context-Sensitive Recommendation
+
+
+                                        Main Street Process to 
+                                          Incorporate Existing, 
+                                          Additive Information
+                                       ▪   Bonanza Park Area Plan and 5-
+                                           Acre Site Feasibility will 
+                                           conclude in FY24
+                                       ▪   Intention regarding regionally 
+                                           significant parking facility 
+                                           announced in Dec. 2023
+
+
+Source: Park City Municipal Corporation. As of December 2023.                       Key Question Recap
+
+ ▪  If Council wishes to proceed, what approach should Staff pursue?
+ ▪  If the representative model is preferred, should Council directly vote within 
+    the committee or serve as an external advisor?
+ ▪  What boundary should be included for analysis?
+
+
+Source: Park City Municipal Corporation. As of December 2023.Appendix                 Main Street Future: Key Takeaways
+
+      Renewed Investment in Main                        Scale & Scope of Change is 
+           Street Is Needed                            Dependent on Council Priorities
+
+  Some things must be done…                       …while other opportunities are discretionary.
+
+                       $15M+
+
+
+Source: Park City Municipal Corporation. As of September 2023.                       A Look Back: Funding Over Time
+
+   Primary sources of expense for downtown capital projects have traditionally come from Main Street RDA and 
+   Additional Resort Sales Tax.
+
+                                    Main St.             Additional Resort 
+                                      RDA                  City Sales Tax
+
+                              $10M+                       $10.6M
+
+
+                           Since 2005 (last instantiation Since 2012 (ARCST Spending 
+                                   of MS RDA)                  in Old Town)
+Source: Park City Municipal Corporation. As of 3/8/2021.                                            Main Street RDA History
+
+         2005A Sales Tax Revenue Bond 
+                       Proceeds                                                                                                                 Budgeted 
+                                                                                                                                 Actual 
+                                                                         Project                                                                 Future 
+$25,000,000                                                                                                                     Expense
+                                                                                                                                                Expense
+                                                                         SWEDE ALLEY/MARSAC (CHINA BRIDGE)                   $      6,249,974 
+                                                                         SHELL SPACE (KPCW, Liquor Store)                    $      1,823,037 
+                                                                         DOWNTOWN REVITALIZATION                             $         426,704 
+                  Quinn's Recreation Complex, 
+$20,000,000                                                              OLD TOWN STAIRS                                     $         424,606 $         284,253 
+                           $2,820,913 
+                                                                         MAIN STREET BOLLARDS PHASE I                        $           88,282 
+                                                                         ECONOMIC STUDY                                      $           45,413 
+                      Public Safety Building, 
+                           $2,500,000                                    HISTORICAL INCENTIVE GRANT                          $           41,434 
+$15,000,000                                                              HISTORICAL INCENTIVE GRANTS                         $           32,500 
+                                                                         SANDRIDGE PARKING LOT                               $           29,700 
+                       Broader City Capital                              ABATEMENT FUND                                      $           15,380 
+                       Projects, $5,320,913                              TOWN GREEN COMPLEX                                  $             8,520 
+                                                                         DOWNTOWN REVITALIZATION                             $             6,833 
+$10,000,000                                                              ADDL PARKING MAIN AND SWEDE                         $             5,342 
+                                                                         RELOCATED UTILITIES                                 $                930 
+                                                                         PROPERTY IMPROVEMENTS                               $                350 
+                                                                         OLD TOWN ACCESS & CIRCULATION PLAN                                  $           60,000 
+                         Main Street RDA, 
+ $5,000,000                                                              PAVEMENT MANAGEMENT IMPLEMENTATION                                  $           52,000 
+                           $10,092,415
+                                                                         CITY-WIDE SIGNS PHASE 1                                             $           20,000 
+                                                                         MAIN STREET BOLLARDS PHASE I                                        $           11,718 
+                                                                                                       Total Historical & Budgeted Projects   $      9,626,977 
+
+        $0
+                             Proceeds                                     Additionally, FY22 budgets small operational expenses and 
+                                                                          projects an ending balance of ~$100K
+ Source: Park City Municipal Corporation. As of June 17, 2021.                              Additional Resort City Sales Tax History
+
+
+                                                                           Historical Spending on ARCST-Related Capital Projects
+                                                                                                                                                      2017 STR       2019 STR 
+                                                                                               ARST Cash       2014 STR Bond     2015 STR Bond 
+               Category                                         Project                                                                                 Bond           Bond             Total
+                                                                                                  Spend            Proceeds          Proceeds
+                                                                                                                                                      Proceeds       Proceeds
+               Open Space/Land              TREASURE HILL                                                                                              $6,000,000     $8,128,142        $14,128,142 
+               Open Space/Land              OPEN SPACE ACQUISITION                                    $17,709        $3,974,140        $6,403,619                                       $10,395,468 
+               Open Space/Land              LAND ACQUISITION/BANKING PROGRAM                       $4,725,155                                                                            $4,725,155 
+               Downtown Infrastructure      DT ENHANCEMENT PHASE 2                                    $34,703          $489,174        $3,874,470          $16,608                       $4,414,955 
+               Downtown Infrastructure      OTIS PHASE II(A)                                         $500,000        $1,556,919          $375,177                                        $2,432,096 
+               Downtown Infrastructure      OTIS PHASE III(A)                                      $2,236,589                                   $0                                       $2,236,589 
+               Stormwater                   STORM WATER IMPROVEMENTS                               $2,021,416                               $8,678                                       $2,030,094 
+               Downtown Infrastructure      DEER VALLEY DR PHS II                                     $97,656                            $719,981                                          $817,637 
+               Downtown Infrastructure      DOWNTOWN PROJECTS PLAZAS                                  $61,005                                            $231,828                          $292,833 
+               Open Space/Land              PRIVATE LAND ACQUISTION #1                               $258,522                                                                              $258,522 
+               Downtown Infrastructure      MS INFRASTRUCTURE MAINT                                  $252,098                                                                              $252,098 
+               Stormwater                   LITTLE BESSIE STORM DRAINS                                                                   $217,005                                          $217,005 
+               Downtown Infrastructure      DOWNTOWN PROJECTS - PHASE III                                $430                            $165,228                                          $165,658 
+               Stormwater                   PROSPECTOR AVE STORM WATER                               $137,870                                                                              $137,870 
+               Downtown Infrastructure      PARK AVE. RECONSTRUCTION                                     $300                                                                                  $300 
+                                                                   Total With Open Space          $10,343,454        $6,020,233       $11,764,158      $6,248,436     $8,128,142        $42,504,422 
+                                                                     Total Ex Open Space           $5,342,067        $2,046,093        $5,360,539        $248,436              $0       $12,997,136 
+
+                                                                                                                           Total of Downtown Infrastructure lines = $10.6M
+
+Source: Park City Municipal Corporation. As of June 2023.                                    Main Street Trends: Sales Tax
+                                               Positive historical trend, but losing market share.
+
+                                         Annual Revenue By PCMC Fiscal Year and Geographic Region of City
+
+             $400,000,000
+
+             $350,000,000
+
+             $300,000,000
+
+             $250,000,000
+
+             $200,000,000
+
+
+
+             $150,000,000
+           Annual Revenue  Annual Revenue ($)
+             $100,000,000
+
+              $50,000,000
+
+                       $0
+                             2008     2009    2010     2011    2012    2013     2014    2015    2016     2017    2018    2019    2020     2021    2022
+
+                Deer Valley                 Entryway                     Main Street                 Park Meadows                Prospector
+
+                Rest of City                Thaynes                      Treasure Mountain           Indirect Point of Sale
+
+Source: Park City Municipal Corporation. As of August 2023.                                                      Main Street Trends: Visitors
+                                                                                       COVID bump is fading.
+
+                                                     Estimated Main Street Visitors by Calendar Year and Quarter
+    1,800,000
+    1,600,000
+    1,400,000
+    1,200,000
+    1,000,000
+
+
+      800,000
+   Visitors
+      600,000
+      400,000
+      200,000
+               0
+                              2017                        2018                        2019                       2020                         2021                       2022                        2023
+
+                                                             First Quarter           Second Quarter              Third Quarter            Fourth Quarter
+
+                                                  Main Street Visitors                                                                                Main Street Visitors, YoY % Change
+             First Quarter   Second Quarter      Third Quarter    Fourth Quarter    Total Calendar Year                   First Quarter   Second Quarter      Third Quarter    Fourth Quarter    Total Calendar Year
+       2017     1,483,161         665,538            993,336           853,676             3,995,711
+       2018     1,573,286         640,188           1,030,691          845,928             4,090,093                2018        6%               -4%                4%                -1%                   2%
+       2019     1,618,275         663,881            992,946           875,761             4,150,863                2019        3%                4%                -4%               4%                    1%
+       2020     1,273,540         262,389            906,242           846,605             3,288,776                2020       -21%              -60%               -9%               -3%                  -21%
+
+
+       2021     1,391,936         793,237           1,139,918          981,176             4,306,267                2021        9%               202%               26%              16%                   31%
+  Calendar Year Calendar
+       2022     1,594,725         659,935            926,687           858,567             4,039,914              Calendar Year 2022 15%         -17%              -19%              -12%                  -6%
+       2023     1,339,568         640,027                                                                           2023       -16%              -3%
+
+Source: Park City Municipal Corporation. As of September 2023.                                       Main Street Trends: Visitors
+                               Wasatch Front, California, Florida, Texas and New York remain important.
+                                                     Top 25 Sources of Main Street Visitors
+                                                      % of Total Visitors by Home Location
+                                                       September 2022 - September 2023
+     20%   18.8%
+     18%
+     16%
+                14.3%
+     14%
+     12%
+                      10.1%
+     10%
+      8%
+                            6.5%  6.1%
+      6%                               4.8%
+      4%                                     3.0%  2.9%
+                                                         2.3% 2.2%
+                                                                    1.8%  1.6%  1.6% 1.6%  1.5%  1.5%
+      2%                                                                                              1.3%  1.3%  1.3% 1.2%  1.2%  1.1%  1.0% 0.9%  0.9%
+
+
+      0%
+
+
+                                                      IL
+
+
+                                     TX
+
+
+                                                                                              MI
+
+
+                                                                                                                                                 CT
+
+
+                               FL
+
+
+                                                                                                                                           TN
+
+
+                                                                 AZ
+
+
+                                           NY
+
+
+                                                                                                   NJ
+
+
+                                                                                  VA
+
+
+                                                                             CO
+
+
+                    CA
+
+
+                                                                       PA
+
+
+                                                                                                                          NV
+
+
+                                                            GA
+
+
+                                                                                                                     NC
+
+
+                                                                                                                                OH
+
+
+                                                                                        MA                                                             MO
+
+
+                                                                                                                                      MD
+
+
+                                                                                                               WA
+
+
+                         Park City  Park
+
+
+                                                  PC
+
+
+                                                                                                         Other Utah Other
+
+
+              Wasatch Front  Wasatch
+                                               Wasatch Back Ex-  Back  Wasatch
+
+Source: Park City Municipal Corporation. As of September 2023.                     Data Science: Early New Products
+
+  $700M - $1B of new, complementary, assessed value could be added in Park City’s historic core, which can aide PCMC 
+  in its Transportation and Housing goals. 
+
+
+Source: Park City Municipal Corporation. As of September 2023.                                 Infrastructure Needs
+                                     ▪ $10M+ Systematic replacement of main lines, laterals
+                                     ▪ Minimum two, possibly three season, capital project
+  Water, Storm Water, Sewer          ▪ Storm water improvements would be paired with the project
+                                     ▪ Snyderville Basin Water Reclamation District would collaborate to replace 
+                                       sewer in Main Street north of Heber Ave.
+
+   Natural Gas, Electrical,         ▪  These utilities were paired with Main Street granite sidewalks improvements
+          Telecom                   ▪  However, work stopped at Heber Ave., lower Main Street could be reviewed
+
+                                    ▪ A crown correction, grind, and overlay are needed on Main Street barring 
+                                      any change in vehicle traffic use
+          Streets                   ▪ A seal coat may provide temporary extension
+                                    ▪ Park Avenue Reconstruction outreach is in progress, remains a need, and 
+                                      costs are increasing since last estimate
+
+                                    ▪ Planned conditions assessment on China Bridge parking and related 
+    Parking Maintenance
+                                      infrastructure
+
+    Waste Management                ▪ Council approved waste management contact as of August 2023.
+
+
+Source: Park City Municipal Corporation. As of September 2023.          Key Questions That Could be Considered in 
+                                        an Area Plan
+      Evaluate Existing             ▪ Set clear baseline on existing land use, historic property information, traffic 
+     Conditions in Detail             patterns, parking uses, etc.
+
+                                    ▪ Potential redevelopment and expanded use of PCMC owned parcels 
+  Redevelopment of Swede 
+                                      on/near Swede Alley
+           Alley
+                                    ▪ Sidewalk and pedestrian infrastructure
+
+        Traffic Flows               ▪  Study current and potential future traffic flows through the district
+
+      Pedestrianization             ▪ Potential pedestrianization and/or active transportation on Main Street
+
+     Lower Main Street              ▪ Inclusion of Lower Main in infrastructure planning discussions
+
+                                    ▪ Similar to 5-Acre site in Bonanza Park, asset-specific feasibility analysis 
+    Asset-Level Analysis
+                                      could be included
+
+Source: Park City Municipal Corporation. As of September 2023.                        2012 Downtown Improvements 
+
+      Café Terigo Plaza                                                              Swede Alley Crosswalks
+   $500k+                                                                            $200k+
+
+
+                                               Main Street Sidewalks 
+                                                 $4M+
+
+                                           Lights, Furnishings, Streetscape
+                                              $300k+                                   Bear Bench Walkway
+            Bob Wells Plaza                                                           $731k+
+        $650k+
+
+Source: Park City Municipal Corporation. As of 3/8/2021.                                      Main Street RDA History
+
+   Last Renewed                                 2005                         2021                 Expired
+
+
+Source: Park City Municipal Corporation. As of June 17, 2021.                                            Main Street RDA History
+                                        Breakdown of Main Street RDA Revenue Flows - Last 5 Years
+$1,200,000
+
+                                                                                                                                        $997,788 
+               $975,373                $970,015                                         $983,888 
+$1,000,000                                                      $950,390 
+                                                                                                                $879,143 
+
+  $800,000
+
+  $600,000
+
+  $400,000
+            $291,345                                                                 $293,889                                        $298,041 
+                                    $289,745                $283,883                                         $262,601 
+
+  $200,000
+
+                    $(0)                     $-                       $-                      $-                      $-                       $-   
+       $0
+
+ -$200,000
+                                                                                                   $(240,086)               $(226,363)             $(240,094)
+                           $(280,391)              $(276,177)              $(262,566)
+ -$400,000
+                     2015                    2016                     2017                    2018                    2019                     2020
+
+                       PC Tax Increment                         Other Governmental Entities              Delinquency & Prior Year
+                       Interest                                 Adjustments                              Historic PCSD Mitigation
+
+ Source: Park City Municipal Corporation. As of June 17, 2021.                     Main Street RDA Revenue Distribution
+
+        Tax Increment Distribution (W/RDA)                                         Tax Increment Distribution (No/RDA)
+
+                                                                                    Assess & 
+                                                                                                             Weber Basin 
+                                                                                    Collecting, 
+                                                                                                             Water , 2%
+                                              Park City School                         2%                                    Mosquito 
+                                                District, 16%          Park City 
+                                                                      Fire District,                                        Abatement, 
+                                                                          8%                                                    0%
+
+                                                                        Summit 
+                                                                        County 
+                                                                      General, 9%
+
+
+                                                                                                                              Park City 
+                                                                                                                               School 
+                                                                                                                            District, 53%
+   Park City, 
+                                                                          Park City, 
+     84%
+                                                                             26%
+
+Source: Park City Municipal Corporation. As of June 17, 2021.             Historic ARST Cash & Bond Proceed Spend
+   The below encompasses ARST capital project cash expenditures by project type in $ and % since 2012.
+
+         ARST Historical Cash Spend by Project                ARST Historical Cash Spend by Project 
+                        Type, $                                              Type, %
+
+                                      Stormwater,                                          Stormwater, 
+                                       $2,384,969                                              6%
+
+
+               Downtown                                             Downtown 
+              Infrastructure,                                      Infrastructure, 
+               $10,612,167                                             25%
+
+
+                              Open                                                 Open 
+                            Space/Land,                                          Space/Land, 
+                            $29,507,287                                             69%
+
+
+Source: Park City Municipal Corporation. As of 3/8/2021.                                      A Look Back:
+             Historic ARST Cash & Bond Proceed Spend
+
+   The below encompasses ARST capital project cash expenditures (excluding Open Space) by project type in $ and 
+   % since 2012.
+          ARST Historical Cash Spend by Project           ARST Historical Cash Spend by Project 
+                        Type, $                                         Type, %
+
+
+                    Stormwater,                                      Stormwater, 
+                    $2,384,969                                          18%
+
+
+                        Downtown                                         Downtown 
+                       Infrastructure,                                  Infrastructure, 
+                       $10,612,167                                         82%
+
+
+Source: Park City Municipal Corporation. As of 3/8/2021.From:        Bob Theobald
+To:          Nann Worel
+Cc:          Max Doilney; Becca Gerber; Tana Toly; Jeremy Rubell; Ryan Dickey; Christin VanDine; John Frontero; Sarah Hall;
+            Henry Sigg; Matt Dias; Jennifer McGrath; Sarah Pearce; Mark Harrington; David Thacker; Rick Shand External;
+            Ed Parigian; Margaret Plane; Laura Suesser; bill.ciraco@gmail.com; Michelle Kellogg
+Subject:     [External] Willow Ranch Amended CCRS 2022
+Date:        Tuesday, December 19, 2023 10:54:27 AM
+
+  Warning: Replies to this message will go to bob@theoski.com. If you are unsure this is correct
+                           please contact the helpdesk.
+
+
+  [CAUTION] This is an external email.
+
+Dear Mayor and City officials:
+ 
+Max and Becca – I sincerely thank you for serving in an often-thankless job. I know that all of your
+decisions were made with the City’s best interest in mind. You should be proud of the
+accomplishments and best wishes in other endeavors.
+ 
+I thank all of you for your countless hours of review and facilitating a very big overall positive project
+for DV Snow Park and the wide-spread transportation elements designed to benefit the community
+at large. DV and Mayflower-Extell are indeed partners in the overall operation of the US-40 base and
+the mountain. As some of you may know, I have been involved with Mayflower since about 1980
+(before the lease was signed with DV) and part of the original land planning in 1984, BOR reservoir
+eminent domain process, Flagstaff annexation, JSSD water and sewer reconciliation/acquisition,
+initial MIDA negotiations including hotel site selection, researching, compiling, and providing due
+diligence information to all buyers of Mayflower assets. I had the pleasure of working closely with
+Bob Wells throughout – RIP. And, based on my 10+ year experience with MIDA, I can unequivocally
+say, MIDA does not venture where it is not invited by the local jurisdiction – they will not sneak over
+the mountain and wrestle away land use authority. Park City should be so fortunate to have MIDA’s
+indirect involvement in a major project - talk about disclosure and diligence. Disclosure: I have no
+continuing involvement in the affairs of Mayflower, MIDA, or Extell.
+ 
+I understand that all City officials need a break and some downtime. But as you must acknowledge
+there are many outstanding issues and agendas to be set in the new year for Council and
+Commission. I am confident that discussions and much thought will take place over the next few
+days/weeks, although no formal meetings/actions.
+ 
+To this end, I thought I must inform of a significant revelation regarding the PCMC/Crescent Vertical
+(Sarah and Gerry Hall) lawsuit. Unless someone formerly with the City was complicit with the
+scheme, I believe City officials are unaware of the potential violations and would want to know
+about them.  I have taken a deep dive into an analysis of the 2022 Willow Ranch Amended CCRs. In
+my opinion, the newly discovered CC&Rs violate many elements of the intent of the 1993 Master
+Plan Development approvals, the Sensitive Lands Overlay (SLO) ordinance as well as the Army Corps
+of Engineer’s Permit and restrictions. Specifically, by:   1. Deleting the Limits of Disturbance Area designated by the City and Corps of Engineers, and
+      the Variance/amendment process
+   2. Attempting to change the methodology of determining the applicable Maximum Floor Area
+      (square footage) of the Dwelling and Barn
+   3. Deleting Exhibit H - Army Corps of Engineers Permit and Restrictions
+   4. Deleting elements necessary to provide notice to Owners and City staff of applicable criteria
+      for wetlands and view corridor SLO analysis.
+   5. This list may not be all inclusive.
+Without having institutional memory such as the planning staff, planning commission and Council, or
+readily available historic documentation of the MPD, it would be impossible to ascertain the then
+Council’s original intent for the MPD by reviewing the 2022 CC&Rs – as it guts most consequential
+aspects. The 1993 CC&Rs is an inseparable document to the Plat -  an ordinance. The Dropbox link is
+believed to be “one-stop-shopping” for all documents thought necessary to make an informed
+decision of the legality and impact of the apparently improper amendments by the HOA and the
+Halls.    https://www.dropbox.com/scl/fo/5wcxza06nqlzdd6804kmj/h?
+ rlkey=v26a2wwhef8kh71odje0hr8pn&dl=0. Please review at your convenience.
+  
+ The Petitioner’s attorneys are evaluating the ramifications of the CC&Rs document and how it
+ relates to the litigation process. Does the City know about and condone the amendments to the
+ CC&Rs?  Perhaps, further discussion regarding such is appropriate before the new year.
+  
+ Sincerely Bob
+  
+ Bob Theobald
+ 2810 Holiday Ranch Loop Rd
+ Park City, Utah 84060
+ 435-714-0301
+ Bob@Theoski.com

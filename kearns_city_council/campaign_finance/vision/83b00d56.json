@@ -1,0 +1,22 @@
+{
+  "contributions": [],
+  "expenditures": [],
+  "total_contributions": "0",
+  "total_expenditures": "0",
+  "total_contributions_ytd": "0",
+  "total_expenditures_ytd": "50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "50",
+  "_meta": {
+    "index_path": "raw/tina_snow_kearns_4.pdf",
+    "candidate": "Tina Snow",
+    "office": "Metro Township Council District 4",
+    "filing_type": "interim",
+    "election_year": "2021",
+    "reporting_period": "General-election report (November)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/tina_snow_kearns_4.pdf",
+    "pages": 2
+  },
+  "_notes": "Type of Report: October 26 (through Oct 19) checked; received OCT 19 2021; District/Council #4. <=$500 campaign, Summary Page only (no itemization). Form is internally inconsistent and transcribed VERBATIM, not reconciled: Line 1 (contributions) Col A=0, Col B=0; Line 2 (expenditures) Col A=0 (crossed-zero), Col B (YTD)=50; Line 3 beginning=0; Lines 4 and 5=0; Line 6 (total expenditures)=50; Line 7 (close of period)=50. total_expenditures reflects Line 2 Col A (0) per schema; the 50 appears only in the YTD column and Lines 6/7."
+}

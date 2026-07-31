@@ -1,0 +1,706 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=515&doc_id=8d5726e2-808c-11ec-b1e1-0050569183fa
+> Meeting date: 2021-11-18
+> Format: text
+
+Approved minutes 01/27/2022
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, NOVEMBER 18, 2021 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:        Chairperson Andrew Adams, Vice Chairperson Craig Hawker,
+                      Commissioners Gary Ogden, Lisa Fowler, Mary Squire, and John Van
+                      Hoff, and Alternate Commissioner Bingham
+
+ABSENT:               Alternate Commissioners Susan Nixon and DeLaina Tonks
+
+
+STAFF PRESENT:        Jennifer Jastremsky, Mike Barker, Brien Maxfield, Spencer DuShane,
+                      Amie Salazar, Maryann Pickering and Todd Draper
+
+6:30 PM Business Meeting:
+
+
+1.     Action Item: Approve Planning Commission Meeting Minutes for October 14, 2021
+       (Administrative Action)
+
+Motion: Commissioner Fowler motioned to approve and the Planning Commission meeting
+minutes for October 14, 2021 meeting.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Squire and Hawker voted, “Aye”.
+
+2.     Action Item: Approve Planning Commission Meeting dates for 2022 (Administrative
+       Action)
+
+Motion: Commissioner Ogden motioned to approve and the Planning Commission Meeting
+Dates for 2022.
+
+Second: Commissioner Van Hoff.
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Fowler, Van Hoff, Squire and Hawker voted, “Aye”.
+
+
+3.     Public Hearing: Highpointe Center Site Plan and Minor Subdivision Requests
+       (Administrative Action)
+
+A request by Greg Goffin of Thrive Corp, representing property owner Joseph Sorenson, for
+approval of a site plan for the purpose of constructing a new office building, with a deviation for
+increased building height, and minor subdivision to create two lots from one existing lot in the CR
+(Regional Commercial) zone. The property is located at approximately 14658 S. Bangerter
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 2
+Parkway.      Staff    contact:   Maryann             Pickering      at     801-576-6391        or
+maryann.pickering@draperutah.gov.
+
+Chair Adams introduced the agenda item.
+
+Maryann Pickering, Planner presented an aerial view of the property and indicated it is located on
+the corner of Bangerter Highway and Highland Drive. She mentioned the land use designation is
+Neighborhood Commercial and the Zoning is (CR) Regional Commercial. The applicant is
+proposing to construct an office building on the northern portion of the site. There will be some
+parking located under the building and the remainder of the parking separates the building from
+Highland Drive. Site access is provided on Bangerter and Highland. Landscaping is provided along
+Bangerter and future right-of-way is shown along Highland. She showed the building elevations
+and indicated the proposed materials meet code. A height deviation is proposed to increase the
+height for a portion of the building. The average building height is 52 feet and the maximum
+allowed under the CR District is 45 feet. A plat amendment is requested to create an additional lot
+for future development.
+
+Commissioner Fowler asked why they are subdividing the property.
+
+Maryann Pickering responded they currently do not have a plan for that portion of the site.
+
+Vice Chair Hawker asked if there will be right-in-right-outs at both access points or will there be
+a median within the street right-of-way (ROW).
+
+Brien Maxfield, Senior City Engineer stated the access on Bangerter Highway is currently a right-
+in-right-out and the access on Highland would allow for a full movement based on current traffic
+volumes. Eventually it may become a right-in-right-out.
+
+Commissioner Van Hoff asked if there is a raised median on Bangerter Highway.
+
+Brien Maxfield, Senior City Engineer responded there currently is not one and the city is not
+requiring one for this project.
+
+Commissioner Ogden mentioned the right-in right-out at the high school is not obeyed and he is
+concerned with potential conflicts with drivers accessing the property from multiple directions.
+
+Commissioner Squire asked to go back to the height deviation. She asked if there is a graphic
+showing how the height is proportioned.
+
+Commissioner Fowler asked about the ingress-egress of the site and the alignment with the one
+across the street.
+
+Brien Maxfield, Senior City Engineer stated they are the first development in so they will set the
+access point location. He mentioned they had this discussion with the other property owner and
+they are aware of this requirement.
+
+
+
+                                                2
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 3
+Chairman Adams invited the applicant to speak.
+
+Corey Middleton with Mint Architecture indicated this property presents a unique opportunity
+because on a clear day you can see the Great Salt Lake but due to the elevation of the property the
+site sits lower than the property to the rear. The deviation for height shall not have an adverse
+effect upon the character of the area or public health and safety. He mentioned the building mass
+and scale are much smaller than those around it. He indicated the Pluralsight building is more than
+twice the size of his proposed building. Due to the topography of the site, they are placing the
+building on the lowest portion of the site. The topography creates challenges. He presented cross
+sections of the building to illustrate hardships. The parking structure was placed below grade. He
+indicated they are trying to design the building to appear like a 2-1/2 to 3 story building on the
+high side and on the north side due to the steep slope the building gains elevations but it does allow
+for great views looking north. He stated the building was moved away from Highland which
+dropped the building 7-9 feet. They are trying to minimize impacts to the view corridor.
+
+Corey Middleton mentioned the third criteria regarding developing the site within a human scale
+is achieved through the architectural detailing on the ground floor. He listed several features
+included in the ground level in order to minimize its scale. He stated the detailing of the stepped
+heights and the top-level setback help to minimize the appearance of the massing on the building.
+He mentioned they are planning to create an engaging roof top environment which will create an
+amenity for the building. The wing design of the building helps to pay homage to the flight park
+near the property. They have designed the roof to minimize the equipment that will be visible from
+surrounding properties. Lastly, he commented the parking structure has been designed to have
+minimize visible impact to the site.
+
+Commissioner Hawker asked about the parking structure entrance.
+
+Corey Middleton noted the entrance would be on the west side of the building.
+
+Maryann Pickering, Planner directed the Planning Commission to page seven of the staff report
+for deviation criteria.
+
+Chairman Adams opened the public hearing. No members of the pubic spoke. He then closed the
+public hearing.
+
+Commissioner Squire stated they need to consider impacts the people living around the area and
+she is not in favor of the height deviation.
+
+Chair Adams asked for clarification on which residents would be impacted.
+
+Commissioner Squire responded there are town homes nearby. She indicated these townhomes sit
+lower than the site.
+
+Commissioner Ogden asked for clarification on how height is measured.
+
+
+
+
+                                                  3
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 4
+Maryann Pickering, Planner commented it is from average grade of the building once the site is
+constructed.
+
+Chair Adams asked if there is another development being constructed between the Chandler
+Townhomes and the proposed site. It was mentioned the rezoning was not approved. He indicated
+the site will be developed in the future and may have a height up to 45 feet. He mentioned the
+building is good looking and the height is deceiving due to the design.
+
+Corey Middleton stated that they could move the building closer to Highland Drive and they would
+lose the benefit of the lower slope. He mentioned the location of the building as proposed is a best-
+case scenario. The closer they build toward Highland the more impact to the view corridor will
+occur.
+
+Commissioner Squire asked for the height difference is from Highland Drive and the building
+location.
+
+Corey Middleton stated it is 7-9 feet. He presented a cross section showing this difference.
+
+Commissioner Squire indicated the comment regarding moving the building closer to Highland
+Drive if they don’t get the deviation as the only alternative seems like a false narrative.
+
+Chair Adams commented that the report spells out the criteria and it appears the proposal is the
+best alternative.
+
+Commissioner Fowler asked if they have a client that will manage the event center as this element
+makes the building higher.
+
+Commissioner Hawker cautioned to not put their personal views on what should go in. He
+indicated that if the building does not pencil for the applicant economically, they could change it
+to push the building further to Highland.
+
+Motion: Commissioner Fowler motioned to approve deviation for increased height, as
+requested by Greg Goffin of Thrive Corp, representing Joseph Sorenson property owner for
+the Highpointe Center, Application SPR-102-2021, based on the findings and subject to the
+conditions listed in the staff report, dated November 9, 2021.
+
+Second: Commissioner Hawker.
+
+Vote: A roll call was taken with the Commissioners voting 4-1 in favor of the motion.
+Commissioners Hawker, Van Hoff, Ogden, and Fowler voted “Aye” and Commissioner
+Squire voted “No.”
+
+Motion: Commissioner Ogden motioned to approve the site plan, as requested by Greg
+Goffin of Thrive Corp, representing Joseph Sorenson property owner for the Highpointe
+Center, Application SPR-102-2021, based on the findings and subject to the conditions
+listed in the staff report, dated November 9, 2021.
+
+
+                                                 4
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 5
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 4-1 in favor of the motion.
+Commissioners Hawker, Van Hoff, Ogden, and Fowler voted “Aye”. Commissioner Squire
+voted “No.”
+
+Motion: Commissioner Van Hoff motioned to approve the minor subdivision, as requested
+by Greg Goffin of Thrive Corp, representing Joseph Sorenson property owner for the
+Highpointe Center, Application SUBD-103-2021, based on the findings and subject to the
+conditions listed in the staff report, dated November 9, 2021.
+
+Second: Commissioner Hawker
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Van Hoff, Squire, Ogden, and Fowler voted “Aye”.
+
+4.     Public Hearing: Dana Plat Amendment Request (Administrative Action)
+
+On the request of Don Hamel, for a Plat Amendment on 0.50 acres of property located at 1543
+East Conrads View Lane. Application SUBD-0143-2021. Staff contact is Jennifer Jastremsky,
+801-576-6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager presented the staff report. She mentioned Conrad View
+Lane is located off Boulder Street, north of 13200 South. The Land Use Map designates the
+property as Residential Low-Medium Density and zoned RA2. The applicant is requesting to
+modify an easement on the plat. The existing plat contains a storm retention easement along the
+rear of the lot. It is 15 wide and 120 feet long. The applicant would like to modify the storm drain
+system and modify the easement to only 10 feet wide and 146 feet long.
+
+Commissioner Hawker asked if this will cause pooling if lot two has a longer easement and lot one
+is modified.
+
+Jennifer Jastremsky, Planning Manager indicated that it would not as each lot has its own retention
+system.
+
+Commissioner Squire asked if the easement width matters.
+
+Brien Maxfield, Senior City Engineer mentioned applicants are required to design a system to meet
+their site needs and the easement dimensions are based on the proposed design. Some systems are
+broader and not as deep while others are deeper and more concentrated.
+
+Don Hamel, applicant presented there are two easements, a 10-foot public utility easement and a
+15 foot for retention. The swale on the plans are only 11 feet wide. He would like to consolidate
+the two easements to a 10-foot area.
+
+
+
+                                                 5
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 6
+Chairman Adams opened the public hearing. There were no comments. Chairman Adams closed
+the public hearing.
+
+Commissioner Hawker stated that he has no issues.
+
+Motion: Commissioner Hawker motioned to approve the plat amendment as requested by
+Don Hamel for Dana Plat Amendment, Application SubD-0143-2021, based on the findings
+and subject to the conditions listed in the staff report, dated November 10, 2021.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Van Hoff voted, “Aye”.
+
+5.     Public Hearing: 1521 E. Pioneer Rd. Zoning Map Amendment (Legislative Item)
+
+On the request of Andrea Wright representing Cortney and Cary Nelson, a Zoning Map
+Amendment request to rezone the property from the RA1 zone to the R3 zone, approximately 0.86
+acres, located at approximately 1521 E. Pioneer Rd., Application TEXTMAP-0163-2021, Staff
+Contact: Todd Draper, (801) 576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner stated this is a rezone request for 1521 E. Pioneer Road. The property is
+currently zoned RA1 and they are requesting a rezone to R3 Residential Zoning. The property is
+designated in the land use map as Residential Medium Density which is compatible with R2, R3
+and R4 Districts. Most of the surrounding area is zoned RA2. He mentioned there are properties
+zoned commercial, A5 and R3 in the area. The applicant is intending to subdivide the property into
+two lots. He showed site photos of the property. A home is located on the front of the property.
+ROW is located on the side of the property leading to a residential facility for the disabled located
+to the north. A horse pasture is located where the additional lot is being proposed. No comments
+have been received by the public.
+
+Commissioner Fowler inquired why they are not applying for RA2.
+
+Todd Draper, Planner stated that the lots would be two small. The R3 permits a subdivision into
+two lots.
+
+Jennifer Jastremsky, Planning Manager mentioned the two lots would be around 18,000 sf each.
+
+Chair Adams invited the applicant to speak.
+
+Andrea Wright, applicant indicated she would like to subdivide the front home onto a .36-acre
+parcel and the rear lot would be approximately ½ acre for a home for themselves.
+
+Chair Adams opened public comment.
+
+
+
+
+                                                 6
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 7
+Susan Morley, 1567 E. Pioneer Road, stated she is a long time Draper resident. She is concerned
+that the traffic conditions on Pioneer Road. Traffic is very fast on the road. The development would
+add more traffic to the street. She shared a story of two kids crossing the road on bikes which
+created a dangerous situation. She does not want her property values to decrease.
+
+Commissioner Hawker stated he does not have an issue with the request because the density is
+similar to an RA2 as opposed to an R3. He asked if there is anything they can do to dissuade future
+owners from rezoning their property to R3.
+
+Todd Draper, Planner, mentioned the Land Use Map lists the area north of Pioneer as residential
+medium density which support R3 and R4. He commented they could recommend to the council
+to change the land use map. The two lots to the east are less than ½ acre.
+
+Commissioner Fowler mentioned they should watch the density in that area moving forward.
+
+Mike Barker, City Attorney stated the city council is authorized to make those legislative
+decisions. He mentioned the city council denied a rezone a year ago for a property even though
+the surrounding properties had a similar zone. The applicant appealed this decision to the district
+court. It was found as long as the council has a reasonable basis for their decision, they are fine.
+
+Commissioner Hawker asked what will occur on Pioneer Road in the future regarding widening
+or sidewalks.
+
+Brien Maxfield, Senior City Engineer commented that Pioneer Road is on the city Capital
+Improvement Plan Master Transportation plan. Right now, it is not an immediate priority in the
+next 2-3 years. The improvements would include widening to three lanes with curb, gutter and
+sidewalks.
+
+Commissioner Fowler asked if residents should reach out to Brien’s office if they have road
+concerns.
+
+Brien Maxfield, Senior City Engineer stated they have a transportation committee and mentioned
+a concern form on the city website residents can submit issues to.
+
+Motion: Commissioner Hawker motioned to forward a positive recommendation to the city
+council for the 1521 E. Pioneer Road Zoning Map Amendment as requested by Andrea
+Wright representing Cortney and Cary Nelson, Application TEXTMAP-0163-2021, based
+on the findings and subject to the conditions listed in the staff report, dated November 8,
+2021.
+
+Second: Commissioner Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Van Hoff voted, “Aye”.
+
+
+
+
+                                                 7
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 8
+6.     Public Hearing: Meadows of Draper Zoning and Land Use Map Amendment
+(Legislative Item)
+
+On the request of Brad Reynolds, representing Brad Reynold Construction, Inc. for a Zoning Map
+Amendment from A2 to RM2 and a Land Use Map Amendment from Community Commercial to
+Residential High Density on 3.82 acres of property located at 286 West River Chapel Rd.
+Applications TEXTMAP-0161-2021 and TEXTMAP-0162-2021. Staff Contact is Jennifer
+Jastremsky (801) 576-6328, jennifer.jastremsky@draperutah.gov.
+
+Jennifer Jastremsky, Planning Manager presented the staff report. She mentioned that the property
+is located on the corner of River Chapel Road and Lone Peak Parkway. The property is designated
+Community Commercial in the land use map and the applicant is proposing to change this to
+Residential High Density which allows a density of 8-12 units per acre. The property is zoned A2
+(Agriculture) and RM2 is being proposed. This zone allows up to 12 units per acre. A concept plan
+was provided, showing 39 townhomes, which equates about 10 units per acre.
+
+Commissioner Fowler stated there was a letter submitted regarding traffic concerns. She asked if
+there were plans to improve the road.
+
+Brien Maxfield, Senior City Engineer responded they are planning to improve the corridor to
+widen the street. He indicated they have widened south of American Preparatory Academy (APA)
+and it will continue along 11400 South.
+
+Commissioner Hawker asked if a traffic signal would be added to River Chapel Road.
+
+Brien Maxfield, Senior City Engineer stated they are not planning to do this but a warrant study
+would be required to justify this improvement. He is not aware of plans to conduct a warrant study
+at this time.
+
+Commissioner Squire asked if they can require a traffic study with the application.
+
+Brien Maxfield, Senior City Engineer indicated they typically do not require this with a rezone.
+This development cannot be required to fix the current deficiencies of the road. It would be a
+requirement for the city. A five-acre townhome development is typically the baseline for requiring
+a traffic study. Due to this being in a sensitive area they can require one.
+
+Commissioner Van Hoff asked if there was a church located west of the property and if churches
+are allowed in A2.
+
+Jennifer Jastremsky, Planning Manager responded that churches are allowed in the A2 district.
+
+Chair Adams invited the applicant to speak.
+
+Tim Soffe of Think Architecture, represented Brad Reynolds mentioned they have watched traffic
+balloon in certain areas of the city. He indicated development creates traffic regardless of the use.
+He stated the schools impact peak periods. Residential units have about nine trips per day but they
+
+
+                                                 8
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 9
+do not always conflict with peak times. The product will contain attached two-car garages. The
+project is effect around 10 units per acre. It is a good transitional use between the church and the
+five-acre development to their south. He commented they are planning to install an eight-foot pre-
+cast wall on the south boundary. All setbacks are met from the covered patios. He mentioned this
+product is very stable.
+
+Chair Adams invited the public to speak.
+
+Sarah, Robles lives adjacent to the site, stated when they bought the home, they knew there was
+commercial zoning nearby. They have reinvested in their backyard. She indicated that only a 20-
+foot setback is not enough to provide privacy. Traffic is very bad on the adjacent streets. She
+mentioned they have witnessed accidents on the street. She believes home values will be affected.
+
+Brooke Rigby at 11637 South Nate Lane, commented she is concerned the higher density will
+increase traffic. Widening the road has made it more dangerous for people crossing the street.
+There was a fatal auto/pedestrian accident a few years ago.
+
+Beckie Knaub, board member of Sunrise Station HOA, commented they border this community.
+She is concerned the product will become a rental trap. She is concerned about the traffic and
+would like a landscape barrier with a fence between he projects. She suggested the homes be
+moved further away from the boundary. The sidewalk is not being maintained by the city and cars
+are lined up on River Chapel Road for the school. She would like a warrant study conducted and
+asked how long it would take to complete.
+
+Chair Adams closed the public hearing. He asked when higher density gets constructed, will the
+study take into account vacant land.
+
+Brien Maxfield, Senior City Engineer stated traffic studies account for current conditions and soon
+to change conditions based on gathered data. A warrant study takes 1-2 months to complete.
+
+Commissioner Hawker asked what uses could be allowed in the CR zone.
+
+Jennifer Jastremsky, Planning Manager mentioned the CR district is commercial which allows for
+office, retail, instructional uses, salons, and automotive uses. She indicated that the subject parcel
+is designated as Community Commercial in the land use map. She assumes the property would be
+zoned to CR or CC in the future. These are higher intense districts than the one being proposed.
+There is a 45-foot height limit in the CR district.
+
+Commissioner Hawker stated that similar communities have CC&Rs that control parking. He
+mentioned a worst-case scenario could be a large office building with a lot more traffic. He stated
+that the product is good and will increase property values.
+
+Commission Van Hoff stated that staff has already identified the intersections that need to be
+maintained to allow people to easily move in and out of developments. Staff is doing what they
+can to address issues.
+
+
+
+                                                  9
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 10
+Commissioner Squire mentioned the project looks good but the street is a mess at no fault of the
+applicant. She stated the city needs to address the issues. The 34 units will not overly burden the
+road system. She asked for more information regarding property acquisition along the roadway.
+
+Brien Maxfield, Senior City Engineer mentioned there is one owner that controls a significant
+portion of the roadway frontage and is not open to selling his property. The city council has not
+decided to proceed with condemnation. He clarified that they do try to look at the future for uses
+with traffic studies.
+
+Commissioner Hawker asked why the motion is for a land use map amendment as opposed
+changing the zoning.
+
+Chair Adams stated there are two items to be addressed, the second is for the zone change.
+
+Commissioner Squire stated if there are measures the city is not enforcing that they could to assist
+the situation with APA.
+
+Brien Maxfield, Senior City Engineer replied staff has been out on Lone Peak Parkway to verify
+that APA is following their traffic plan for drop off and pick up operations. He isn’t sure if they
+are in compliance but staff is working on the problems.
+
+Motion: Commissioner Fowler motioned to forward a positive recommendation to the city
+council for the land use map amendments as requested by Brad Reynolds representing Brad
+Reynolds Construction, Inc. for the Meadows of Draper, Application TEXTMAP-0161-2021,
+based on the findings and subject to the conditions listed in the staff report, dated November
+10, 2021.
+
+Second: Commissioner Van Hoff
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Van Hoff voted, “Aye”.
+
+Motion: Commissioner Van Hoff motioned to forward a positive recommendation to the city
+council for the zoning map amendment as requested by Brad Reynolds representing Brad
+Reynolds Construction, Inc. for the Meadows of Draper, Application TEXTMAP-0162-2021,
+based on the findings and subject to the conditions listed in the staff report, dated November
+10, 2021.
+
+Second: Commissioner Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Van Hoff voted, “Aye”.
+
+
+
+
+                                                10
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 11
+7.     Discussion Item: Moderate Income Housing Report 2021
+
+An overview of the 2021 Moderate Income Housing Report 2021. Staff Contact is Todd Draper,
+(801) 576-6335, todd.draper@draperutah.gov.
+
+Todd Draper, Planner mentioned each year the city is required to report their progress on
+implementing the Moderate-Income Housing Plan within the General Plan. There were five
+different menu items selected from the General Plan. The first is to consider general fund subsidies
+to waive fees that otherwise imposed by the city. There was a fee study completed, but changes
+were not made to the fee schedule. The second is to reduce requirements for accessory dwelling
+units (ADU). They have updated their code to allow internal ADUs. The third is to encourage
+higher density or moderate-income residential development near major transit investment
+corridors. The city intends to adopt a station area plan for the Town Center station area. Due to
+COVID-19 they had to place this one on hold. The fourth initiative is to partner with an entity to
+apply for affordable housing programs administered by the Department of Workforce Services.
+The city council does send funds to the Salt Lake County Housing Authority to help with housing
+for the homeless and others. The fifth initiative is to apply for or partner with an entity that applies
+for programs administered by a metropolitan planning organization or other transportation agency
+that provides technical planning assistance. This is tied to their grant that was awarded for the
+station area plan. This is on hold while they await a more accurate economic analysis. Public
+Works has started on their traffic analysis. The final step is to calculate their five-year needs
+estimate but the State calculator is broken and provides the same numbers as were used last year.
+He mentioned the city council has accepted the report and it will be submitted by the December
+1st deadline.
+
+Commissioner Ogden asked if lowering construction fees will make housing affordable.
+
+Jennifer Jastremsky, Planning Manager mentioned most affordable housing is found within
+apartment units where developers have worked with HUD. Construction fees can make a
+difference as thousands of dollars are typically spent on impact and other fees. She mentioned if
+they are HUD restricted units the units will have to be rented within amount provided by HUD.
+
+8.     Training
+
+Jennifer Jastremsky, Planning Manager indicated they will provide training on site plans, what the
+code says, the process and what plans are looked at. She mentioned they will discuss other
+drawings staff reviews that the planning commission typically does not see. Site plan application
+are covered under DCMC Section 9-5-090. The planning commission reviews site plans for
+manufacturing, commercial, institutional uses and multifamily. Other site plans are reviewed by
+the zoning administrator. The zoning administrator may approve amendments to site plans. Site
+plans for single family residences are approved through building permits. Alteration or expansions
+of an approved site plan may be permitted by the zoning administrator.
+
+Commissioner Fowler asked if the zoning administrator can approve site plans for projects where
+no deviations are requested. She mentioned that the public believes the commission can make
+changes when they cannot.
+
+
+                                                  11
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 12
+
+Spencer DuShane, Assistant City Attorney commented that state law does not require public
+hearings for site plans. Draper goes above and beyond state requirements. There is an expectation
+in the public’s mind that changes can be made, but site plans are an administrative action. There
+are other cities that permit department directors to approve site plans. He asked what value is there
+to have public hearing for site plans.
+
+Commissioner Squire mentioned it provides greater transparency and she believes it is very
+important.
+
+Spencer DuShane, Assistant City Attorney indicated there is a consideration that needs to be made
+in regards to not being able to do anything to address their concerns. He indicated that cities
+approach site plans differently in every jurisdiction.
+
+Commissioner Fowler mentioned she likes to have the planning commission review site plans as
+it provides information to the public and they know what is going on in the city.
+
+Jennifer Jastremsky, Planning Manager mentioned site plans typically take 3-4 months to go
+through the process. She explained each step in the review process. Staff will review applications
+several times prior to going through the planning commission. She overviewed different parties
+that review the applications and indicated if the project is in the Historic District, it also is reviewed
+by the historic preservation commission. Every Tuesday they have a design review committee
+meeting. This is a free meeting to review proposals prior to formal submittals. Next, they have a
+redline return meeting to discuss staff comments. She listed the items required to be submitted
+with each site plan applications. Title reports are required to ensure the property is not encumbered.
+She presented the Pessoa Dental Office site plan as an example.
+
+She noted this plan had previously been reviewed by the planning commission. She indicated they
+look at parking, landscaping and adjacent uses that may need buffering.
+
+Brien Maxfield, Senior City Engineer indicated that engineering looks are ROW widths to
+determine if they meet city requires and if infrastructure improvements will be required. There
+may be properties requiring dedication of right-of-way. He provided a few examples and indicated
+ROW requirements are typically established during the subdivision process. Access points
+locations, distance from intersection and circulation are analyzed. Property boundaries are
+reviewed to ensure they match what is recorded at the recorder’s office. The number of traffic trips
+will be considered to determine if a study is needed.
+
+Jennifer Jastremsky, Planning Manager mentioned planning also looks at grading. The grading
+plan is considered when parking is abutting a roadway. A berm is required to help screen headlights
+from projecting onto nearby properties.
+
+Brien Maxfield, Senior City Engineer stated engineering has standards for maximum discharge
+rate that may leave the site. They have requirements for low impact development which requires
+storm water to be retained on the site rather than entering the city system. The quality of storm
+water is considered to eliminate pollutants from the parking lot surface and potential transfers into
+
+
+                                                   12
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 13
+the city system. Storm water is diverted from entering adjacent properties. All projects need a
+water and sewer connection at a size to accommodate the intended site use. Pipe capacity and slope
+placement are considered. He mentioned the EPA is concerned about erosion. Engineering will
+review the erosion plan to prevent sediment, dust and debris from entering the city system. During
+construction the plan may be changed to account for changing conditions.
+
+Commissioner Fowler inquired about the meaning of SWPPP.
+
+Brien Maxfield, Senior City Engineer mentioned it stands for Storm Water Pollution Prevention
+Plan. He continued that BMP stands for Best Management Practices and he provided examples of
+BMPs.
+
+Jennifer Jastremsky, Planning Manager overviewed elements of Landscape Plans. She stated there
+are minimum requirements for the amount of landscaping required for each site. There are
+provisions for the number of trees, shrubs on property lines and within the site. If sites are adjacent
+to residential, there are additional standards. Engineering will ensure site distances are preserved.
+Irrigation plans are required. There are not many standards in the zoning code for irrigation. The
+irrigation plan helps the city to ensure landscaping will remain alive.
+
+Jennifer Jastremsky, Planning Manager overviewed elevation plans and pointed out several aspects
+considered by staff like building height, roof line variations, building materials, screening of
+dumpsters, and architecture standards. Three colors are required per building. Photometric plans
+are reviewed to ensure light pollution does disturb surrounding properties. They look at the height
+of poles and foot candles levels. Engineering will review street lights within the ROW and on
+private streets.
+
+Brien Maxfield, Senior City Engineer mentioned will serve letters are required from utility
+providers to ensure they are able to properly service the project. The EPA requires cities to
+regularly sweep streets. A maintenance agreement is established with each property owner to
+ensure the systems are regularly maintained. He mentioned impact fees are based on master plans.
+Site review typically involve other agencies like UDOT, Army Corp of Engineers, Flood Control
+and others.
+
+Spencer DuShane, Assistant City Attorney stated there are times when legal will have comments
+on staff reports. He mentioned a case where the building department wanted the applicant to
+guarantee no alcohol sales would occur on the third floor of a building and he was unable to sign
+it because it violated state code. They look at common deviation requested for from standards of
+the code. The Planning Commission may determine if the deviation is warranted or not. He listed
+several options the Planning Commission may take regarding their decision on site plans.
+
+He overviewed appeals and indicated if a Planning Commission makes a statement, it will be on
+the record and will become evidence. It is easy for cities to win appeals on site plans. He mentioned
+the planning commission plays an important role in winning an appeal. Any adversely affected
+party may submit an appeal. The applicant and citizens may appeal a denial. The appeals and
+variance hearing officer may only hear evidence on the record. He described the substantial
+evidence standard the appeals officer will use in their determination. He described a recent appeal
+
+
+                                                  13
+Draper City Planning Commission Meeting
+November 18, 2021
+Page 14
+on Quality Diamond and indicated the reason for the denial was regarding a fork lift and large
+trucks entering the site. These are not elements typically allowed in residential districts. The
+hearing officer upheld the Planning Commission’s decision.
+
+Jennifer Jastremsky, Planning Manager indicated the staff report has model motions for approval,
+approval with conditions and denial. Findings are also provided in the staff report and are taken
+from the city code.
+
+Chair Adams asked if someone could appeal an approved application.
+
+Spencer DuShane, Assistant City Attorney replied this can happen but it needs to be someone that
+is directly impacted by the approval.
+
+Chair Adams asked for a motion to adjourn.
+
+Motion: Commissioner Squire motioned to adjourn.
+
+Second: Commissioner Fowler
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Hawker, Squire, Fowler, Ogden and Van Hoff voted, “Aye”.
+
+Meeting adjourned 9:22 p.m.
+
+
+
+
+                                               14
+

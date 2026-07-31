@@ -1,0 +1,22 @@
+{
+  "contributions": [
+    {"date": "2/3/16", "name": "candidate Kathryn Christensen Filing Fee loan", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "2/3/16", "recipient": "Salt Lake County", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50",
+  "total_expenditures": "50",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016_nov_kathryn-christensen.pdf",
+    "candidate": "Kathryn Christensen",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/emigration_canyon_city_council/campaign_finance/raw/2016_nov_kathryn-christensen.pdf",
+    "pages": 4
+  }
+}

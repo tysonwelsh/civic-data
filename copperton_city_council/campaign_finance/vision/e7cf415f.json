@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    {"date": "3/02/2016", "name": "Ron Patrick", "amount": "50.00", "in_kind": false},
+    {"date": "5/25/2016", "name": "Reagan Outdoor Advertising", "amount": "100.00", "in_kind": false},
+    {"date": "9/20/2016", "name": "Phyllis Patrick", "amount": "200.00", "in_kind": false},
+    {"date": "9/20/2016", "name": "Ron Patrick", "amount": "31.97", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "3/02/2016", "recipient": "Salt Lake County Clerk", "purpose": "Filing Fee", "amount": "50.00", "in_kind": false},
+    {"date": "9/21/2016", "recipient": "Vista Print", "purpose": "Signs", "amount": "331.97", "in_kind": false}
+  ],
+  "total_contributions": "381.97",
+  "total_expenditures": "381.97",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016_ron-patrick_copperton.pdf",
+    "candidate": "Ron Patrick",
+    "office": "Metro Township Council (founding, at-large)",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "source_pdf": "/Users/tysonwelsh/civic-data/copperton_city_council/campaign_finance/raw/2016_ron-patrick_copperton.pdf",
+    "pages": 4
+  }
+}

@@ -1,0 +1,113 @@
+{
+ "config": {
+  "contest": "2023 Lehi City Council",
+  "date": "2023-11-21",
+  "jurisdiction": "Lehi, Utah",
+  "office": "City Council",
+  "threshold": "2907"
+ },
+ "results": [
+  {
+   "round": 1,
+   "tally": {
+    "HEATHER NEWALL": 1100.0,
+    "K. CASEY GLADE": 540.0,
+    "KENNETH ROBERTS": 776.0,
+    "MICHELLE STALLINGS": 1529.0,
+    "NICOLE KUNZE": 893.0,
+    "PAIGE ALBRECHT": 1400.0,
+    "Inactive Ballots": 0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "K. CASEY GLADE",
+     "transfers": {
+      "HEATHER NEWALL": 72.0,
+      "KENNETH ROBERTS": 79.0,
+      "MICHELLE STALLINGS": 281.0,
+      "NICOLE KUNZE": 60.0,
+      "PAIGE ALBRECHT": 35.0,
+      "Inactive Ballots": 13.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 2,
+   "tally": {
+    "HEATHER NEWALL": 1172.0,
+    "KENNETH ROBERTS": 855.0,
+    "MICHELLE STALLINGS": 1810.0,
+    "NICOLE KUNZE": 953.0,
+    "PAIGE ALBRECHT": 1435.0,
+    "Inactive Ballots": 13.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "KENNETH ROBERTS",
+     "transfers": {
+      "HEATHER NEWALL": 181.0,
+      "MICHELLE STALLINGS": 186.0,
+      "NICOLE KUNZE": 188.0,
+      "PAIGE ALBRECHT": 209.0,
+      "Inactive Ballots": 91.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 3,
+   "tally": {
+    "HEATHER NEWALL": 1353.0,
+    "MICHELLE STALLINGS": 1996.0,
+    "NICOLE KUNZE": 1141.0,
+    "PAIGE ALBRECHT": 1644.0,
+    "Inactive Ballots": 104.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "NICOLE KUNZE",
+     "transfers": {
+      "HEATHER NEWALL": 415.0,
+      "MICHELLE STALLINGS": 228.0,
+      "PAIGE ALBRECHT": 374.0,
+      "Inactive Ballots": 124.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 4,
+   "tally": {
+    "HEATHER NEWALL": 1768.0,
+    "MICHELLE STALLINGS": 2224.0,
+    "PAIGE ALBRECHT": 2018.0,
+    "Inactive Ballots": 228.0
+   },
+   "tallyResults": [
+    {
+     "eliminated": "HEATHER NEWALL",
+     "transfers": {
+      "MICHELLE STALLINGS": 615.0,
+      "PAIGE ALBRECHT": 955.0,
+      "Inactive Ballots": 198.0
+     }
+    }
+   ]
+  },
+  {
+   "round": 5,
+   "tally": {
+    "MICHELLE STALLINGS": 2839.0,
+    "PAIGE ALBRECHT": 2973.0,
+    "Inactive Ballots": 426.0
+   },
+   "tallyResults": [
+    {
+     "elected": "PAIGE ALBRECHT",
+     "transfers": {}
+    }
+   ]
+  }
+ ]
+}

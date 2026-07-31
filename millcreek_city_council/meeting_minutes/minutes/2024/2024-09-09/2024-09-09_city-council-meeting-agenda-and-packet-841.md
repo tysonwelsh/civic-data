@@ -1,0 +1,885 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09092024-841
+> Meeting date: 2024-09-09
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2024-09-09
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_09092024-841
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                             Minutes            of the
+                                                                                      Millcreek           City        Council
+                                                                                         September               9, 2024
+                                                                                                   5:00        p.m.
+                                                                                             Work         Meeting
+                                                                                                   7:00        p.m.
+                                                                                            Regular            Meeting
+
+
+
+
+The City      Council       of Millcreek,                  Utah, met in a public         work      meeting            and regular      meeting           on
+September        9, 2024,         at City Hall,             located    at 1330 E. Chambers                Avenue,         Millcreek,         UT 84106.
+The meeting          was recorded                 for the City's        website      and had an option                for online     public       comment.
+
+
+PRESENT:
+
+
+Council       Members                                                                   City      Staff
+Jeff Silvestrini,         Mayor          (excused)                                      Mike      Winder,         City Manager
+Silvia     Catten,     District      I                                                  Elyse      Sullivan,          City Recorder
+Thom       DeSirant,      District           2                                          Francis       Lilly,      Assistant        City Manager
+Cheri     Jackson,      District         3                                              John Brems,              City Attorney
+Bev Uipi,      District      4                                                          Lisa Dudley,             HR-Finance           Director
+                                                                                        Kayla Mayers,                 Promise      Program        Director
+                                                                                        (electronic)
+                                                                                        Rita Lund,         Coinrnunications                Director
+                                                                                        Sean Murray,              Planner
+                                                                                        Kurt    Hansen,          Facilities        Director
+                                                                                        Carlos      Estudillo,          Planner
+                                                                                        Kiana      Dipko,        Promise        Health        Coordinator
+                                                                                        Stephanie         Bond,        HR Manager
+                                                                                        Brad Sanderson,                 Current      Planning       Manager
+
+
+Attendees:       Chief      Petty-Brown,                   Rick    Hansen,     Brandon       Wixom,            Dale Bennett,          Ella Loveland,
+Peter Liacopoulos,            Diane           Livingston,           Susan & Vern        Ferrin,      Judy Mayfield,               Craig     Jenson,
+Marilyn      Woodger,         Sue Coia,              Steve Yeager,           Kelly   Noorda,       Brynne         Turville,        Ron Lillie,        Celestino
+Salazar,     Mayor       Jenny Wilson,                    County     Council       Member      Suzanne          Harrison
+
+
+WORK         MEETING               - 5:00 p.m.
+TIME       COMMENCED:                            5:00 p.m.
+
+
+Mayor      Pro Tempore            Uipi           called    the work        meeting    to order.     She excused            Mayor          Silvestrini.
+
+
+1. Promise       Program            Quarterly               Update;        Kayla     Mayers,       Promise            Program         Director
+   Kelly     Norda,       Promise            Partnership           Utah,    presented    data on higli           school       graduation        rates,
+   comparing         Skyline        (94%),           Olympus          (93%),    and Cottonwood                 (78%)     with      the district     average
+   of 80%.
+Millcreek       City      Council         Meeting        Minutes                                          9 September            2024       Page 2 of 16
+
+
+
+   Kayla      Mayers        provided        updates          on the Promise             Program.          They had volunteer               child
+   supervision          at Bud Bailey           Apartments             providing           ongoing        support     for parents          learning        English
+   and taught          digital   skills     classes. The Social                 Determinants              of Health         leadership      team has been
+   meeting       monthly         to figure       out what the team should                       focus on. Mayers               mentioned           the
+   successful       Canyon          Rim       Cares mental            health        service     project      and the support             provided         for
+   Cottonwood            High      School       registration.          The Promise             Program          now oversees         the Millcreek
+   Youth      Council        and it started           for the new school                year. Mayers             reported       78 individuals            were
+   served in the digital             skills     classes. There             were 5 average               daily     attendance       of child         supervision
+   at Bud Bailey           Apartments,              100 letters       to veterans           were written           at Canyon       Rim       Cares, and 21
+   youth      are on the Youth              Council.
+
+
+   Kiana      Dipko,       Healthy        Millcreek           Coalition         Coordinator,            said the coalition's         focus is on
+   preventing          unhealthy       outcomes.             In July, the Healthy                Millcreek         Coalition       Strategic        Plan was
+   completed,           focusing      on youth          and neighborhood                   attachinent.          The plan follows            the
+    Communities            that Care structure                which      involves          more partners           and aims to lower                poor health
+   outcomes.        The coalition             plans to implement                    a partnership         with     Spy Hop        and the Asian
+    Association          of Utah to provide              social       skills     and art programs                for high-risk      youth.
+
+
+    Mayers      described          various      events,        meetings,          and projects           for the next quarter.             Mayor         Pro
+    Tempore       Uipi      asked what the challenges                         were for the Cottonwood                   High      School       registrations
+    and about partnering               with     other entities            to fill     challenges.         Mayers       said the registration               process
+    was online          and most people              did not remember                 their     login     infori'nation.
+
+
+2. Employee            Engagement              Survey          Results         Presentation;            Lisa     Dudley,        HR-Finance               Director
+    Lisa Dudley           said at their January                strategic        retreat,      the council        requested        an employee
+    engagement            survey.     Strong         employee          engagement             leads to better         customer           service,     deeper
+    coinmitments            to the city's        objectives,          higher        productivity,           innovation,         and efficiency,            and
+    greater     employee         retention.          The employees               participated           in a survey         in March       2024 which                 was
+
+    conducted          by a neutral         third     party.     The survey           was sent to 87 employees,                     and 66 responded
+    (76% participation).              She listed         the factors           that may affect            survey      results     included          assigned
+    location,     position         and/or      department,            level     of interaction           with     public,     immediate         supervisor,
+    age and/or         gender,      current         salary     or hourly         wage,      and timing           of survey.      The results          were
+    presented      to the employees                  in July 2024 during                an all-staff        meeting.         The two ways to interpret
+    the results        were a percentage               of favorable            responses         and the mean,            or mathematic             average.
+    She presented            a list of statements              that employees               rated on a 1-5 scale on the areas of
+    meaningful           work    (77%         favorable,        4.02 mean),            active     and engaged           management             (75%
+    favorable,         3.95 mean),          positive         work     environment             (75%       favorable,         3.99 mean),
+    growth/development/performance                              (73.8%          favorable,       3.88 mean),           and trust in leadership
+    (65.4%       favorable,         3.71 mean).          Overall,         the survey          reflected         a 73% favorable            and 27%
+    unfavorable           employee         satisfaction.            Dudley       provided        samplings          of positive         and negative
+    survey      comments.           The positive             reflected        on diversity,         inspired       by the city,      and a positive
+    working       environment.             The areas for improvement                          were based on a "lean                and mean"             staff,
+    perceived       favoritism,           and that staff parties                and social        events are fun but do not balance                             the
+    scales. The general              sentiment          was that the Community                       Life       Department        (city     events, public
+    market,      etc.) was appreciated                 more than the other departments.
+
+
+    Dudley       said the company                culture       and employee                engagement            can change,       not every suggestion
+    can be put into place,                and employees               have different            roles and responsibilities.                 She said if it is
+Millcreek       City    Council         Meeting        Minutes                                   9 September          2024         Page 3 of 16
+
+
+
+   approved        in the budget,          staff would        like to conduct           the employee           engagement         survey
+   annually.       She mentioned             the first     employee       benefits       fair was held and voluntary                  insurance
+   coverages       were      offered.
+
+
+   Council      Member          Jackson       felt staff was thankful               to have the opportunity              to take the survey           and
+   have an open dialogue.                  She requested         follow      up surveys         to measure       progress.       Mike      Winder
+   said the Community               Life     Department          was the new, fast growing                  department,          but felt better
+   that progress        had been made since March.                      Council       Member        Catten      asked if the same survey
+   would       be used. Dudley            noted    the same third           party    consultant       would      not be used but maybe                the
+   same questions           would       be. She said a coinment               box was installed             in the breakroom            for
+   employees        to provide        feedback.          Mayor      Pro Tempore          Uipi     described       the city as constantly
+   changing        and she could           see how those changes                 could be difficult.           She asked if the employees
+   were having          regular     meetings       with     managers         where      they could       be heard.        Dudley       said the
+   comments         submitted        were generally           anonymous.            Human        Resources       oversaw         change
+   management,            and they wanted           employees          to have growth            opportunities.
+
+
+3. Planning        Matters        First     Readings:
+   a. ZT-24-006,           Amendments              to the Historic           Preservation           Code;       Sean Murray,            Planner
+      Sean Murray            said the code was relatively                   new, so minor          amendments            would     be made.        One
+      large change          would         be enforcement          rules on the demolition                of a historic      property       without
+      prior     approval.       Staff has discussed              fees associated         with     the demolition          and clouding          of the
+      title to restrict       redevelopment              of the property          as a penalty.       The Planning          Commission
+      recoinmended              a 7 year development                stay and a sliding           scale of fees based on the assessed
+      value     of the demolished              stnicture      as a penalty.         They recoinmended              a hold on demolition
+      pernnits     from      10 to 21 days in order to document                        the property        for historical        purposes.
+
+
+   b. ZT-24-009,          Amendments               to the Accessory              Building       Code;      Sean Murray,             Planner
+      Murray       said updates           to the accessory          buildings        code included          simplifying       sizing      rules and
+      removing         unnecessary           setback       requirements.         The changes          aim to make the code easier to
+      administer         and understand            while     maintaining          design     standards       and lot coverage
+      requirements.          Murray         said sizing      rules were currently               an issue for residents.            The current
+      code limits         accessory        structures       to 60% of the footprint               of the primary          structure     or 600
+      square feet, whichever                 is greater.     A change        would       remove       the rule in favor          of a total lot
+      coverage         requirement.         The Plaru'iing          Comi'nission         recommended            removing         a rule that when
+      a rear yard abuts a neighboring                      side yard,      a 10 foot setback           is required.       They     also
+      recommended             allowing        for accessory          buildings       to be built     within      the 20 foot setback            on
+      flag lots. Council           Member         Jackson        thanked      staff for the changes.
+
+
+  c. ZM-24-006,            Request         to Rezone         from     A-1 to R-1-10             at 4016-4020        S 700 W;           Carlos
+      Estudfflo,        Planner
+      Carlos     Estudillo        said the applicants            were Ella Loveland               and Norma        Cutter.       The
+      neighborhood           is composed           of residential         multifamily,          agriculture,      and manufactunng                uses.
+      He showed           the composition           of three lots requesting                the rezone      that contained          a single
+      family     dwelling         and agricultural          structures.      Staff     felt the R-1-10          zone would         be better
+      conducive         for a portion        of the property          to not create a nonconforming                      use. He showed           the
+     proposed          rezone     changes,        which     would      encompass            the northeast       corner     for the single
+      family     residence        and the remaining              property       would       stay as agricultural.          The property         use
+     would       remain      the same. Estudillo              reviewed       the findings         from    his staff report.         The subject
+Mfflcreek        City     Council         Meeting      Minutes                                          9 September            2024       Page 4 of 16
+
+
+
+       property         is 1.73 acres, though             only     O.35 acres of the property                      would      be rezoned.          The
+      property          follows      the Neighborhood               1 designation              in the General          Plan. The density               would
+      remain        the same. The R-1-10                 Zone standards                    would     be met. Staff was not contemplating                         a
+       traffic     study or development                  agreement.             The General           Plan Considerations              included         Goal N-
+      1 through           Strategy        1.5 and Goal N-2 through                         Sttaategy 1.4 and 1.5. There               was a
+      neighborhood               meeting       held and most neighbors                       were in favor         of the proposal.           The
+       Millcreek          Community            Council     and the Planning                   Commission           recommended             approving           the
+      rezone.       Staff recommended                  approval         of the application.
+
+
+       Council          Member        Jackson       asked if the road dedication                       would      include      sidewalk.       Estudillo
+       confirined         that improvements               would         be required           but they could          be deferred.         Loveland,
+      property          owner,      said there would             be gutters,          but they wanted             to maintain         water    flow.
+       Council          Member        Catten     asked if there were future                        plans to develop           the property.        Loveland
+       said there were no current                   intentions          to sell unless it was to family.
+
+
+   d. ZM-24-005,               Request        to Rezone          from      R-I-10           to R-M      at 4181 S 900 E; Carlos                    Estudillo,
+      Planner
+      Estudillo          said the application            was for a rezone                   and General        Plan amendment.              The lot is
+      0.43 acres. The vicinity                  is composed             of single          family     dwellings       and residential          multifamily.
+      The historical             zoning      of the property            until      2004 was R-2-10.               The property         currently         had a
+       single     family        residence       and accessory            stnicture.          The development               proposal       included       6
+      townhome              units   capped      at 35 feet in height.                 Every        unit would      include      a 2-car garage and
+      there would              be three guest parking              stalls. The proposal                 would      meet the requirements                 of the
+      R-2-10        Zone.        Estudillo      showed      the council              the proposed         site plan, landscaping               plan,
+      building          elevations,        and building          renderings
+
+
+      The property              is currently      designated            as Neighborhood                1, which      has the primary             use of
+      single      family        detached       homes,      typically        1-6 dwellings              per acre. The request              is for a change
+      to the Neighborhood                    2 designation         with     the primary              use of single-family             detached         homes
+      on smaller            lots, duplexes,         triplexes,     townhomes,                 and smaller        multifamily          buildings.        The
+      typically         includes      6-18 dwelling          units per acre with                    building     heights       of 2-3 stories.         The
+      General           Plan considerations            included          Goal N-1 with               Strategy      1.5 and Goal N-2 with
+      Strategy          1.4.
+
+
+      A neighborhood                meeting       was held on February                       27, 2024,        and concerns        were raised          about
+      neighboring              property      values    decreasing,              traffic,     affordability,        rentals,     safety,    and
+      homelessness.               The Millcreek          Cornrnunity              Council          recommended          not approving            the
+      application           in July and August             2024. The Planning                       Commission         recommended             a
+      continuation             of the application          in July 2024 to further                    analyze      the information            provided         by
+      the applicant             regarding      neighborhood              compatibility,              and to contemplate            the terms         of a
+      potential         development            agreement.         The Planning                Commission           reviewed       the application
+      again in August               2024.     The Commission                recommended                 a denial     of the General           Plan
+      amendment                and the zoning         'inap amendment.                 The recornrnendation                 was made in light             that
+      the current           General       Plan would        need to be amended                      to accommodate             the change          in zone, as
+      well       as a change in its future               land use.
+
+
+      Francis       Lilly       reported      the commission              considered           whether         the General       Plan Future           Land
+      Use map should                be reconsidered          holistically             or should        developers       be required           to make a
+Millcreek       City     Council         Meeting        Minutes                                9 September             2024       Page 5 of 16
+
+
+
+       request        for an amendment               on a project-by-project             basis. He wondered              if higher     densities
+       would        be better    suited         to the 900 East corridor           and asked the council               for policy      direction.
+
+
+       Council         Member       DeSirant          said the surrounding           uses met the Neighborhood                     2 standards          and
+       felt a larger       area change             in the General       Plan was needed.          Council       Member           Catten      said it
+      took 10 years to get 900 East improvements,                                which     was completed             earlier     this year. She did
+      not know          how a Neighborhood                   2 designation       would      be possible       with     some of the other
+       single     family     residences.           She felt the proposal          was reasonable           for the neighborhood.                Lilly
+       said the General            Plan was an advisory               document,          so the council       could      still approve        or deny
+      rezones         on its basis.       Staff felt a holistic         approach      was warranted           for future         action.     It was
+      difficult        to communicate              land use goals if the council              approved       rezones       that did not follow
+      the General          Plan. Council            Member        DeSirant      said larger     developments             made sense on larger
+      thoroughfares.            Council          Member       Jackson     wondered         about spot zoning.            Lilly     said there was
+      a mismatch           on zoning            and current     uses on the corridor.           The property           to the north         of the
+      subject       property      had three duplexes              on it but was zoned R-I-10.                 Mayor       Pro Tempore            Uipi
+      felt a holistic        approach            was appropriate        and asked about a timeline                   for a larger     community
+      engagement            process.       Lilly     felt a 2025 cornrnunity             engagement         effort     could be the next big
+      project       for the planning              department.      He asked how to advise                 applicants      now.
+
+
+      Estudillo        reviewed         his conclusions           from his staff report:
+
+
+      1. A Multifamily              residential        use would        NOT      be in harinony       with     the current         land use
+            designation         because          the general     plan designation          for this lot is under          "Neighborhood                 1 ",
+            which      its primary         intended      use is accommodate               single-family       homes        in low-density
+            neighborhoods.              This application          would    need a General          Plan Amendment.
+      2. Additional          research           has displayed       a variety     of housing      stock,     ranging       from      single-family
+            homes       to multi-family,            in the 900 E corridor          between       3900 S and 4500 S.
+      3. With         multimodal,          mobility      services,      such as UTA's          route 209 providing                a fifteen-minute
+            service,     the now-present              bike lane and a repaved              road, it could      be argued that 900 E
+            (within     Millcreek         Boundaries)          is a corridor      that may be able to sustain                  new, medium
+            density     projects,        to meet the necessary            demand         set by a lack of housing                in the state of
+            Utah.
+      4. The proposal            will     meet the requirements               set forth     in MKZ        19.44(Multi-family
+            Residential        zone),      19.77      (Landscape        standards)       and 19.80        (Parking      and Mobility
+            Standards).
+      5. A development               agreement          may best ensure the type,               scale, style, materials,             orientation,
+            dedication,      utilities          easements,      access, phasing,         and other aspects pertaining                 to the future
+            development          of these properties,             where    the underlying         zoning       and land use ordinances
+            may be insufficient;                Therefore,      a development         agreement       may be in place to ensure
+            development          design         and layout      of the property.
+      6. All      development            will     be required     to meet the minimum              zoning       and land use ordinances;
+            to which       the concept           plan may likely        evolve     from     what is currently           presented          for this
+            rezone     application.
+
+
+      Estudillo        noted a development                agreement       would      include     items      on architectural          design      and
+     layout       of property,          density,      owner     occupancy,       height,     maintenance         items,        street lighting,
+     fencing,         and overall        and guest parking.
+Mfflcreek        City     Council       Meeting        Minutes                                  9 September         2024        Page 6 of 16
+
+
+
+         Brandon         Wixom,       applicant,       said he had been working                 on the application           for 11 months        and
+         did not feel waiting              longer    would      be fair. They had met with                city staff multiple         times     and
+         made amendments                to the plan accordingly.            He felt the product             was good as 3 bedroom                2
+         bathroom         units.    The density        made sense on this corridor.                The applicant        had hired numerous
+         professionals         and consultants           to ensure a quality          project      and went through           the appropriate
+         approval        process.     He said opposition            came from         a gated community             down      the street. They
+         had tried to make changes                   to the proposal       within     reason based on those coinrnents,
+         particularly       with     the parking.        They were willing           to provide          50% more parking.            Council
+         Member         DeSirant       asked if the units would             be owner        occupied.       Wixom      confinned.        He read
+         from        the General      Plan, "It      is expected     that future      zone changes          would     generally        adhere to
+         the land use categories               depicted      on the Future        Land Use Map,            but flexibility       in
+         interpretation        of the boundaries             may be granted          by the Planning          Coini'nission       and City
+         Council,       provided       the proposed          change is consistent           with    the vision,     goals,     and strategies
+         contained        in this General           Plan."
+
+
+4. Staff     Reports
+   There were none.
+
+
+5. Discussion            of Agenda         Items,     Correspondence,              and/or       Future     Agenda      Items
+    There       was none.
+
+
+Council       Member          Jackson        moved        to adjourn       the work         meeting       at 6:45 p.m.        Council
+Member          DeSirant       seconded.            Mayor       Pro Tempore          Uipi    called      for the vote.       Council     Member
+Catten      voted       yes, Council         Member          DeSirant      voted     yes, Council          Member        Jackson        voted     yes,
+and Mayor             Pro Tempore            Uipi    voted      yes. The motion          passed       unanimously
+
+
+
+
+REGULAR                MEETING             - 7:00 p.m.
+TIME        COMMENCED:                      7:10 p.m.
+
+
+1. Welcome,            Introduction          and Preliminary            Matters
+           1.1 Pledge         of Allegiance
+            Mayor        Pro Tempore          Uipi     called    the meeting        to order and led the pledge               of allegiance.
+            She excused            Mayor     Silvestrini.
+
+
+           1.2 Constitution             Week         in Mnlereek        Proclamation
+            Mayor       Pro Tempore           Uipi    proclaimed        the following:
+
+
+            PROCLAMATION
+            CONSTITUTION               WEEKINMILLCREEK
+
+
+            WHEREAS,September112024, marks the two hundred and thirty-seventh anniversary of the
+            drafling of the Constitution of the United States ofAmerica by the Constitutional Convention;
+            (171(/
+
+
+
+            WHEREAS, The Constitutiori, together with the Bill of Rights, haveprovided the organic
+            structureforourDemocraticRepublicandourlndividualLiberties,         enablingournationtorise
+           from a collectiort of ragtag former colonies to a United Nation in which our people have created
+Millcreek       City     Coiuicn       Meeting      Minutes                                   9 September               2024       Page 7 of 16
+
+
+
+            opportunity and built the greatest economy in the world, based uponfreedom, creative genius,
+            and hard work; and
+
+
+            WHEREAS, our federal system has welcomed generations of immigrants from everypart of the
+            globe to participate in thefreedom, opportunity and rule of law our Constitution affords, creating
+            out of many groups, one indivisible rxation; and
+
+            WHEREAS,Public Law 915 guarantees the issuing of a Proclamation eachyear designating
+            September 1 7 through 23 as Constitution                      Week.
+
+
+            NOF, THEREFORE,      I, Bev Uipi by virtue of the authority vested in me as MayorPro Tempore of
+            Millcreek, Utah do herebyproclaim the week of September17 through 23 as:
+
+                                                                  CONSTITUTION               WEEK
+
+
+            AND ask our residents to affirm the ideals ofthe Constitution of the United States ofAmerica and
+            the Bill of Rights by vigilantly protecting thefreedoms guaranteed through this magnificent
+            document, remembering              that lost rights may never be regained.
+
+
+        IN WITNESS WHEREOF, I have hereunto set my hand and caused the seal ofMillcreek to be
+        affixed this 9th day of September,2024.
+
+            Judy Mayfield           and Susan Ferrin,           representatives        from    the Daughters                of the American
+        Revolution,          received         the signed     proclamation.
+
+
+        1.3 Public          Comment
+            County     Council       Member       Suzanne         Harrison        gave an update          on the "My           County       Rec
+        Pass," a free recreation                pass for Salt Lake           County      youth     ages 5-18. Over 61,000                       kids had
+        signed up. The Public                  Safety    Bond      would     be on the ballot        this fall.        The county          council
+        was asking          voters     to vote "yes"         for the bond.         She expressed           appreciation          for Mayor
+        Wilson,         Governor        Cox, and other state leaders.                 The bond is part of a broader                      plan to
+        address issues of mental                 health     services,      criminal     justice    refornn         and housing           challenges
+        that align with            state goals and also the work                  that Millcreek         is doing.          This portion        of the
+        bond would           help increase         mental       health,    improve      and expand              the jail,    which       has not been
+        expanded          in over 20 years,         and, more         importantly,       reduce jail            recidivism.       She hoped            this
+        would        give people        more of the tools           they need to reduce            the cycle          of repeat offenders,
+        and hopefully              help people     get on a path to self-sufficiency                     with     more       support,     job
+        training,       mental       health    services,     and substance          use training.
+
+
+        Brynne         Turville,      Oakridge      Drive,       raised    a safety    concern      on Honeycut               Road.      Halfway
+        through        Honeycut,        there is a gulley          with    a steep road that goes through                      it with    three blind
+        corners.        She has elementary              aged children        who attend William                  Penn Elementary.                She
+        said it was shocking              how fast cars travel             and how many            close calls there have been with
+        auto-pedestrian             encounters.         Mayor     Pro Tempore          Uipi   asked what Turville                  wanted
+        assistance        on. Turville         requested        the city survey       the unsafe         street and help the
+        neighborhood               come up with         a sidewalk        plan. John Brems          said Millcreek               was currently
+        creating       a comprehensive            trails    and sidewalks           master    plan. Mayor             Pro Tempore           Uipi       said
+        the community               councils     would     provide        the city council        with     their     sidewalk        priorities        list.
+Millcreek          City     Council         Meeting        Minutes                                    9 September          2024     Page 8 of 16
+
+
+
+            Diane         Livingston        introduced         herself     to the council        as a candidate        for the State School
+            Board,        District      6, highlighting         her background              and campaign          platform.
+
+
+            Steve Yeager,              Montana        Vista,    addressed        the last work          meeting     item      on the proposed
+            rezone        of 4181       S 900 E. He noted there had been many meetings                                 on the application           and
+            the gated community                    in which      he lives was against             the proposed        rezone.      The Millcreek
+            Community                Council     and Planning            Commission          had recomi'nended             a denial.     The
+            neighborhood               was against         spot zoning,       higher       density,     and were concerned              about
+            parking.        He pointed          out a lot of properties             fronting     on 700 East were single                family
+            residences             and that it was a larger           corridor      than 900 East.
+
+
+            Ron Lillie         said the neighborhood                 was not set against              the rezone      [proposed        rezone     of 4181
+            S 900 E]. The gated community                           had tried to compromise                on tlie proposal.           He said the
+            proposed          3 bedroom          units would         have more than two drivers/cars.                      He felt the
+            neighborhood               was amenable            to five units       with    more parking.          He did not appreciate            spot
+            zoning         and would         like to see two single             family      residences      on the property.           Mayor      Pro
+            Tempore          Uipi      asked if the neighborhood                 would       be okay with         five units      and more
+            parking.        Lillie     said that they had been, but the applicants                         turned     down      the idea, so the
+            neighbors          may not feel the same about it.
+
+
+            Sue Coia acknowledged                     the housing          shortage.       She said the proposed              units were 1500
+            square feet over 3 stories,                 not what was presented                  [proposed      rezone       of 4181 S 900 E].
+            She said the dimensions                   of the site plan did not make sense. She said there was not
+            enough         parking       and the provided            building      renderings         were false.      She expressed            concern
+            with     rentals        and fire truck       turnaround.         She claimed         the General        Plan was adopted              in 2022
+            [adopted         in 2019]       and should         not need revision             so soon.
+
+
+            Pete Liacopoulos                said there were speeding                motorcyclists          on 1500 East. He expressed                   his
+            frustrations           for the Unified         Police    Department.
+
+
+            Dale Bennett,              applicant      for rezone         of 4181       S 900 E, said professionals              created    the
+            proposed          site plan for the development                   to meet the requirements                of the R-2-10         zone. The
+            developers             had worked        closely     with     staff on the proposal.            He said the units would               be for
+            sale.
+
+
+            Francis        Lilly     read an emailed           comment          from      Christian     Larsen.     "Ihoped       to come tonight
+            to provide public commerxtin support of ZM-24-005, Request to Rezonefrom R-1-10 to
+            R-M      at 4181 S 900 E as well as context                         surrounding           the Plarxning     Commission's
+            unanimous              motion      regarding       this application,           but am unable          to make it.
+            I feel confident in saying that most, if not all, of the members of the Plannirxg Commission
+            are supportive of projects of this type, and in fact are even supportive of this project. (I
+            believe the Commissiort offered overwhelming comments in support of this project at our
+            Ju(y meeting; I have copied the Commissiort on this email if any Commissioner feels I am
+            misrepresenting their views). However, in August, wefelt that it was inappropriate for a
+            single project to drive a proposed amendment to the General Plan in pursuit of a rezone
+            rather than the General Plan driving the specificatiorgs of a project.
+Millcreek        City      Council      Meeting         Minutes                                  9 September       2024     Page 9 of 16
+
+
+
+           The Planning Commissionfelt it would be inappropriate to recommendapproval of a
+           general plan amendmentfrom Neighborhood I to Neighborhood 2 for a single lot-hence
+           our official recommendation to deny the general plan amendmentand rezone.However,
+           our sttpport for this project and projects of this type remains-hence our additional
+           recommendation, included in the motion, to begin the process of re-evaluating the
+           Neighborhood I designationfor 900 E in favor of a redesignation to Neighborhood 2. We
+          felt it was inappropriate for the Planning Commission to recommend approval in
+           contravention of the currentNeighborhood 1 designation corttained in the GeneralPlan,
+            and that such a decision                is better     made by you, the City Council.                 It is in your power         as
+            the City Council           to do approve           this tonight       and add to the housing           stock in our city in an
+            area very well suited to sttpport housing of this type, and I hope that you do.
+
+          I personally feel that you should approve this application becauseof:
+          1. The dire housing crisis our state and cormtry currently face
+          2. 900 E is an ideal corridor for housing of this type, with accessto a major bus route
+            and a bike lane, households                   with    less cars, small          cars, or no cars will      be able to easily
+          take advantage of thesemodes of transport
+          3, This area is a patchworkofzone already, with R-1, R-2, RArf,and Commercialzones
+          between 3900 S and 4500 S, all within a short walk of theproject site
+          The majority of the commission did express through their public commentsthat a
+          reduction in units by I or 2 units, given then small size of the site, would improve the
+          project but we acknowledge Staff's expertise in assuring that this project has met the
+          various requirementsfor the zone they are seeking.Additionally, I recommendparking
+            signage        be posted     072 site      and on the street          to mitigate     surrounding       neighbors'     concerns
+            about parking.           I hope you will          rmderstand         the rationale      behind   our unanimous           motion        to
+            recommend denial and to recommend redesignation of most of this area of 900 E as an
+            attempt to faithfully adhere to Millcreek's plarmirxg documentsand our role as Planning
+            Commissioners, but also as a strong statement ofsupport for this type of project as we
+            unitedly combat the housing crisis our face today."
+
+Council       Member          Jackson      moved          to close public          comment.        Council      Member      DeSirant
+seconded.        Mayor        Pro Tempore              Uipi   called      for the vote.       Council    Member        Catten     voted      yes,
+Council       Member          DeSirant         voted     yes, Council         Member          Jackson    voted     yes, and Mayor            Pro
+Tempore         Uipi    voted    yes. The motion                 passed    unanimously.
+
+
+          1.4 Salt Lake           County         Public       Safety      Bond     Presentation;        Mayor      Jenny    Wilson      and
+            Council        Member        Suzanne          Harrison
+            Mayor       Jenny Wilson            said the proposal          was a product         of extensive     countywide
+            collaboration,       bipartisan         input,    and a critical        element      of the County's      Systemic       Refori'n
+            Plan. It balances          public     safety      and human          services    needs, realigns      and sets the Salt Lake
+            County      Jail and Human             Services       systems     for success,        creates structured       and secure
+            environments         to reduce        repeat offenses          and put people          on a path towards        self-reliance,
+            funds a critical         missing      element        of the broader        system,     and replaces      outdated
+            infrastructure       and treatment            programs.
+
+
+            The bond is a subset of the broader                      Human        Services,      Homelessness,       and Criminal         Justice
+            Action      Plan which       is the result        of a unique         partnership      between      the governor,     key
+            legislators,      the business        cornrnunity,         municipal       leaders,    and others      in Salt Lake      County.
+Millcreek           City    Council        Meeting         Minutes                                        9 September               2024       Page 10 of 16
+
+
+
+            The shared vision              is that homelessness                  is brief,     rare, and non-recurring.                      Systems       were
+            mapped,          service     gaps and batataers identified,                    other successes                evaluated,         and costs
+            analyzed.         The broader          plan includes           building          1,000     units      of supportive            housing.       There
+            are criminal         justice     and law enforcement                   challenges,            including         a drug crisis.         The jail            is
+            the largest        mental      health        and substance           abuse treatment               facility     in the county.            Systemic
+            gaps include            workforce,        health        and wellness          care, mental            health      services,        and an
+            integrated         data system.
+
+
+            The Salt Lake County                   Action       Plan solutions            include        expanding          housing          availability,
+            enforcement             and criminal          justice      reform,      addressing           systemic          gaps, building          justice        and
+            accountability             center,    expanding            and improving            county       jail    mental         health     access, and
+            supporting         drug enforcement                task force.        The Public             Safety      Bond      addresses         the vital        parts
+            of the action           plan to build          a justice     and accountability                center         and improve          and expand               the
+            jail    and mental         health     unit.     The Justice          and Accountability                  Center     would         provide        a
+            supervised         and secure alternative                  for low-level           offenders         with      resources         to reduce       repeat
+            offenses         and support         people's       path to self-reliance.                The bond            is a catalyst        for essential
+            parts of the systemic                plan.     There       are currently          two jail     facilities,        Oxbow          and Adult
+            Detention         Center.      The proposal             would     combine           the two county              jails    to increase          capacity,
+            expand         mental      health     unit,     and build       a stepdown           unit.
+
+
+            Mayor          Wilson      presented          the bond language               as it would          appear on the election                 ballot.          She
+            illustrated        the general        obligation           bond breakdown                by facility          and cost, totaling
+            $507,000,000.              The annual          impact       on residential          (based on average                   property      value      of
+            $602,000)          is $58.94         and on business            is $107.16 over 21 years. This is a bipartisan
+            proposal         and passed with              an 8-1 vote at the county                   council.        She said it is a necessary                       plan
+            that is ready           for the community
+
+
+            Council         Member         Catten     asked if the bond covered                      the construction               of the facilities            and
+            ongoing         maintenance.           Mayor       Wilson        said the operational                   costs would         be an additional
+            expense         and the county           would       find    a means to cover                it. Mayor         Pro Tempore             Uipi      brought
+            up JRI, an initiative               that was pushed             upon the criminal               justice        system      without        funding.
+            She asked if there would                     be wraparound             services      with partners              or creation         of a new
+            pathway          for potential        jobs in the new center model.                        Mayor         Wilson         felt JRI was
+            underfunded             and needed long-term                 investment           to succeed.            She cornrnended              others         for
+            their     commitment           to finding         solutions      and highlighted               ongoing          discussions          with      state
+            officials       to secure funding              for a statewide          plan that benefits                Salt Lake        County.        While
+            acknowledging               that more funding               for JRI could have led to a simpler                            proposal,        she
+            stressed the importance                  of stabilizing         the system           now. The mayor                 is hopeful         that the
+            county         can effectively         address community                  challenges,          helping         individuals          heal and
+            become          productive       members           of society.        The model            on housing           on the broader            plan is an
+            extension         of what the county               already      does but would                include         more caseworkers/peer
+            navigators.         The county          has a partnership              with      many        grantees         but are also looking               to rely
+            more on cornrnunity                  partners.
+
+
+            Mike       Winder        said the city could             not spend public             funds        to advocate           for a public         bond but
+            could       spend resources            for education.           There      would         be an upcoming                 piece on the matter                     in
+            a city newsletter.             He encouraged               the council        to not use their            city email        addresses          to
+            endorse         it, but they could            advocate       as individuals.
+Millcreek           City     Council          Meeting       Minutes                                   9 September           2024        Page 11 of 16
+
+
+
+
+2. Planning           Matters
+            2.1 Public              Hearing       to Consider         Vacating       a Portion         of the 700 West             Right-of-Way
+            Between           4060 South            and 4100 South
+            Francis         Lilly     said the property           at 700 W and 4060-4100                  S has multiple           zones and there
+            was no development                    planned        for it at the time.       There is a significant              mismatch        with     the
+            legal right-of-way                  and the location        of 700 West.          The agenda items were first to vacate the
+            right-of-way,              surplus     it, and rezone       it. Carlos       Estudillo       said the rezone was an effort                  to
+            bring      the property            under     a single     zone, Manufacturing              (M),      to reflect     its current      use.
+
+
+Council       Member                DeSirant       moved        to open the public            hearing.        Council       Member           Jackson
+seconded.           The Recorder                called   for    the vote.      Council      Member            Catten       voted   yes, Council
+Member         DeSirant              voted      yes, Council        Member          Jackson      voted      yes, and Mayor              Pro Tempore
+Uipi   voted        yes. The motion                passed       unanimously.
+
+
+            Craig      Jenson, representing                 the applicant,       appreciated          working       with      the city and supported
+            the proposal.
+
+
+            Celestino          Salazar        asked about the "blue"             property      identified         on the vacation           map. Brems
+            said the blue property                  was owned         by the city, which             also has a right-of-way                on it. The
+            city is vacating             that right-of-way,           but there is no road there. Estudillo                      said it functionally
+            becomes           the frontage         of the applicant's          property.      Lilly     said the field         would       remain     as is
+            but be under             different      ownersliip.       Salazar     asked if the road would                  continue      as a dead end.
+            Lilly     confinned.
+
+
+Council       Member            Jackson          moved         to close the public          hearing.       Councn          Member          DeSirant
+seconded.           The Recorder               called    for the vote.        Council       Member          Catten         voted   yes, Council
+Member         DeSirant              voted     yes, Council         Member        Jackson        voted      yes, and Mayor              Pro Tempore
+Uipi   voted        yes. The motion                passed       unanimously.
+
+
+            2.2 Discussion              and Consideration               of Ordinance            24-42,      Vacating          a Portion        of the 700
+            West      Right          of Way       Generany          Located      Between        4060 & 4100 South
+            Carlos         Estudillo         said the site's      current     use was manufacturing                 with      a trucking      and storage
+            business.         The site is 8.17 acres and surrounded                        by multi-family,             agricultural,        and
+            manufacturing.              Most       of the property          is already     zoned      M, but this rezone            would       make the
+            whole      site M. The subject                property      is within     the "Light         Manufacturing"            land use
+            designation             of the General         Plan, which         envisions      neighborhoods             comprised           of, "A    range
+            of employi'nent             uses, including           a wide      range of cornrnercial              uses, small-scale
+            manufacturing,              light     industrial,     processing,        wholesaling,         flex     space."      Estudillo      noted     a
+            neighborhood               meeting      was held on June 18, 2024,                  where      people       expressed          coinments         on
+            undesired          multi-family            development          and had questions            about a potential          road extension
+            of 700 West to 4170 S. The Millcreek                             Cominunity         Council        held a meeting           on July 2,
+            2024,      and voted         7-2 in favor           of the proposed       zoning         consolidation.           The two dissenting
+            votes felt the property                 would       be better     served with       multi-family           housing.        The Planning
+            Commission               unanimously          recommended            approval       on July 17, 2024.              Staff recommended
+            approval         of the application.
+Mfflcreek        City    Council        Meeting           Minutes                                  9 September              2024        Page 12 of 16
+
+
+
+            Brad Sanderson             described         the vacation         of the right-of-way             to realign       it with     the existing
+            road. He said there was a prescriptive                          right     on the asphalt         in the 13,000         square feet being
+            deeded to the city. Approximately                         8,000 square feet would                   be vacated.       There          are no
+            current     proposed        developments               or improvements             to the property.
+
+
+Council        Member        Jackson          moved        to approve          Ordinance          24-42,        Vacating        a Portion          of the
+700 West        Right      of Way       Generally           Located         Between       4060 & 4100 South.                    Council          Member
+Catten      seconded.        The Recorder                called     for the vote.        Council         Member          Catten         voted      yes,
+Council        Member        DeSirant           voted      yes, Council         Member           Jackson         voted     yes, and Mayor                 Pro
+Tempore         Uipi    voted       yes. The motion                passed      unanimously
+
+
+            2.3 Discussion            and Consideration                of Ordinance             24-43,       Rezoning        the Northern
+            Portion      of Two        Parcels      Generally          Located          at 640 & 650 West                4100 South              from     the
+            Agricultural            (A-1/A-2)       Zone         to the Manufacturing                  (M)    Zone
+
+
+Council        Member        Catten       moved           to approve         Ordinance          24-43,       Rezoning          the Northern
+Portion      of Two        Parcels      Generally           Located         at 640 & 650 West                4100      South     from       the
+Agricultural           (A-1/A-2)        Zone      to the Manufacturing                   (M)     Zone.       Council       Member           DeSirant
+seconded.        The Recorder             called     for the vote.           Council       Member            Catten      voted     yes, Council
+Member         DeSirant         voted     yes, Council             Member           Jackson      voted       yes, and Mayor              Pro Tempore
+Uipi   voted     yes. The motion                passed          unanimously
+
+
+            2.4 Discussion            and Consideration                of Ordinance             24-44,       Declaring         a Parcel          of Real
+            Property        Located       at or Between               4060 & 4100 South                  along      700 West         as Surplus;
+            Establish       a Minimum              Bid;     and Establish             a Method         to Determine             the Highest             and
+            Best Economic             Returns        to the City
+
+
+Council        Member        DeSirant           moved           to approve      Ordinance          24-44,        Declaring         a Parcel         of Real
+Property        Located       at or Between               4060 & 4100 South                along       700 West          as Surplus;         Establish          a
+Minimnm          Bid;      and Establish           a Method           to Determine             the Highest            and Best Economic
+Rehirns        to the City.         Council       Member            Jackson         seconded.      The Recorder                called     for the vote.
+Council        Member        Catten       voted      yes, Council            Member           DeSirant        voted      yes, Council             Member
+Jackson        voted     yes, and Mayor              Pro Tempore               Uipi    voted     yes. The motion               passed
+unanimously
+
+
+            Council      Member         Catten      asked what the next step would                        be for the rezone             at 4181 S 900
+            E. Francis      Lilly     continued          the conversation             for work     meeting        item     3d. He said there were
+            two issues. The applicant                   filed     for a rezone        and General        Plan amendment                 and deserves            a
+            decision.      The other issue is to amend the General                             Plan holistically.           Council       Member
+            DeSirant       asked what the council                   did on the recent          Garden        Avenue        rezone.       Lilly     said the
+            council     advised       the developer              to redesign        the proposal       to be more          compatible            with   the
+            neighborhood.            The council          rezoned      that property          but did not take action                on the General
+            Plan amendment.
+
+
+            Council      Member         Jackson         asked if the concerns             raised       during     public     comment             on the size
+            of the units/garages           were accurate             and should         be explored.          Lilly     felt there was variance                 in
+            real estate and with           planning/zoning.              The minimum              size requirements              in code have been
+            met in the proposed               site plan. Mayor          Pro Tempore             Uipi     said there was an additional
+Millcreek        City     Council          Meeting       Minutes                                       9 September             2024       Page 13 of 16
+
+
+
+            neighborhood           meeting         wherein         the neighborhood               recommended               one fewer      unit and more
+            parking.      She asked how that was received.                            Lilly     said the developers             were noncommittal
+            on any clianges           and wanted          to stick with           their proposed          plan. Council             Member          Jackson
+            brought       up an island           of R-2-10         zoning.     Council         Member        Catten         said she met with            the
+            developers,         and they were not amenable                       to changes          for financial          reasons.     She did not like
+            spot zoning         but acknowledged                the challenge             since the neighboring               property        to the north
+            had multifamily             units.     Council      Member           Jackson        would     feel better about only                allowing
+            five units.       Council        Member         Catten     did not think            the parking         would       be a problem.           Council
+            Member        Jackson          asked if the units          could be restricted              to no rentals.          Council       Member
+            DeSirant       felt putting          no short term rentals               in the development                 agreement       would       be a good
+            idea. Council          Member          Catten      wondered          why the gated community                       [Montana         Vista]     was
+            concerned          about parking           when parking            would          not overflow         into their neighborhood.                    She
+            suggested       looking         at making        parts of 900 E as Neighborhood                             2 in the General         Plan.
+
+
+            Council       Member           DeSirant      did not like to spot zone but wanted                              to promote      as much
+            owner-occupied            housing          as possible.          Mayor       Pro Tempore             Uipi      suggested     this application
+            move      through,      but a hold be put on future                     applications         until     a holistic       General      Plan
+            amendment           could be made.
+
+
+            Winder       wondered           if the proposal          could      be restricted         to following           the requirements            of
+            Senate Bill        240 for owner-occupied,                      first-time        homebuyers.          Lilly     worried      the price point
+            of the bill     ($450,000)            conflicted        with     the developer's           proposal          of selling     at a higher       price
+            point     ($650,000)           and therefore        outside        of the range for first-time                  homebuyers.
+
+
+            Council       Member           Jackson      said it was not the council's                   responsibility           to ensure the
+            developers         made money              on their development.                  Mayor     Pro Tempore             Uipi     said the General
+            Plan can be flexible.                She was inclined             to support         what was written             in the staff report              and
+            recommend           five units with          larger      garages.        Council        Member         DeSirant         requested       HOA
+            guidelines        prohibiting         short term rentals.             Estudillo         said city ordinance             prohibited         short
+            term rentals        within       600 feet of each other.                 Lilly     said the prohibition             could be a zone
+            condition.      He said per the council,                  he would           advise      developers           to not seek project-by-
+            project     General      Plan amendments                  pending        the review         of the Future           Land Use map.
+            Brems       offered     advisement           that a moratorium                could be implemented.
+
+
+            2.5 First     Readings:
+                 a. ZT-24-014,              Recommendations                    Regarding            Amendments               to the Subdivision
+                       Ordinance;            Francis      Lilly,      Planning           Director
+                      Francis      Lilly     said the subdivision                ordinance          was significantly            revised      the
+                      preceding         year as an interim             step of the code update.                   After      those amendments                 were
+                      adopted,      the State of Utah               enacted       new regulations             that require          quicker      review
+                      times     and streamlined              approval        processes          for regular       subdivisions          (single-family,
+                      two-family,           or townhouse            projects).       The subdivision              approval       procedures          that the
+                      coinmunity            councils     reviewed           in June substantially             complied          with     the new
+                      requirements,           however          language        was added pertaining                     to review      cycles    and
+                      appeals in Section               18.15.060           of the draft procedures                ordinance.        Clarifying
+                      language       was also added pursuant                     to the Planning           Coinmission's               favorable
+                      recoinmendation               for adoption,           which        they adopted        unanimously              by motion         at a
+                      public      hearing        regarding      these amendments                  at their regular           meeting       on September
+Mnlcreek          City         Council           Meeting          Minutes                                          9 September                  2024      Page 14           of 16
+
+
+
+                         21, 2024.             While      staff     recoiuinends              incorporating               these      amendments            into     the
+                         comprehensive                   recodification              scheduled            for January          2025,      they      sought         council
+                         input        on an interim              amendment             that would            enable        the conversion               of existing
+                         multifarnily              buildings        into     condoininiums,                  that could           be adopted           by ordinance.
+                         There         is currently           a five-year          waiting          period       on condominium                   conversions              and
+                         staff     recommended                   eliminating           the requirement.                  The Plaru'iing           Commission                and
+                         cornrnunity               councils        agreed.        The proposal               also includes            technical         corrections          in
+                         sensitive           land       areas and on flag              lots       and adding            definitions       for "regular             residential
+                         subdivision"               and "access            strip."
+
+
+                  b. ZT-24-015,                    Recommendations                         Regarding             Amendments               to the Millcreek                   Code
+                         for     Residential              Facilities        for      Persons          with       a Disability           and      Reasonable
+                         Accommodations;                         Francis          Lffly,      Planning           Director
+                         Francis         Lilly      said the code             enhances             application           requirements.            The     city     must
+                         provide         an opportunity                for a reasonable                  accommodation                 in any zone where
+                         residential             uses are allowed,                but the burden              to demonstrate              worthiness             of a
+                         reasonable              accoinmodation               that meets             federal       standards          is on the applicant,                 not the
+                         city.     The proposed                 code    follows            what     other      cities     do. The        city     has a stewardship
+                         obligation            to make          sure that the vulnerable                     people        in care are well              cared      for,     and
+                         the way         the city         does that         is by making              sure that the applications                       are rigorous,
+                       based          on therapeutic               best practices,             and substantive.               He said applicants                   must
+                         provide         a notice         of intent        to the city            so the city       can communicate                    what      is necessary
+                         for applications.                All     applications             need to be reviewed                    on a case-by-case                 basis.
+                         There         is also an inspection                  provision            in the proposal             since     it has been good
+                       practice.
+
+
+3. Business        Matters
+           3.1 Discussion                    and     Consideration                 of Resolution               24-19,       Waiving             the Election          Bylaws
+           Requirement                   for       Community               Councils
+           Francis         Lilly       said the community                     councils         intended          to hold       elections          this year and
+           solicited           nominations,               and not one community                          council        got enough          nominations              to justify
+           an election.             Council             Member         Jackson        was concerned                 about      that.     Lilly     said the council
+           can waive             election          bylaws         requirement              for community                councils        upon      receiving          written
+          requests             from     the community                  council.        A written           request        was provided.
+
+
+Council         Member             Jackson           moved         to approve               Resolution            24-19,      Waiving            the Election              Bylaws
+Requirement              for       Community                Councils.          Council             Member          Catten          seconded.            The      Recorder
+called    for    the vote.            Council            Member          Catten            voted     yes, Council             Member              DeSirant          voted         yes,
+Council         Member             Jackson           voted        yes, and         Mayor           Pro     Tempore            Uipi      voted      yes. The          motion
+passed     unanimously.
+
+
+          3.2 Discussion                     and    Consideration                  of Resolution               24-20,       Approving              an Interlocal
+          Agreement                   with       Salt    Lake       County           Relating            to the Healthy               Millcreek          Coalition           for
+          Funding               and     Becoming                an Official          Communities                  That      Care        (CTC)          Coalition
+          Council          Member              Catten        said the Healthy                 Millcreek          Coalition           started     because         of a grant
+          and it has to be called                        an Official         Coinrnunities                That     Care Coalition.               The city        must       follow
+          certain        guidelines              to get the funding                for it.
+Mfflcreek            City      Councn       Meeting         Minutes                                    9 September        2024        Page 15 of 16
+
+
+
+Council         Member           DeSirant          moved       to approve            Resolution        24-20,   Approving         an Interlocal
+Agreement              with     Salt Lake          County      Relating            to the Healthy        Millcreek       Coalition          for Funding
+and Becoming                  an Official        Communities                That    Care    (CTC)       Coalition.      Council       Member
+Catten        seconded.          The Recorder               called     for the vote.        Council        Member        Catten      voted      yes,
+Council         Member           DeSirant          voted     yes, Council            Member        Jackson      voted     yes, and Mayor                  Pro
+Tempore           Uipi      voted      yes. The motion               passed        unanimously.
+
+
+4. Reports
+              4.1 Mayor's            Report
+              There was no report.
+
+
+              4.2 City         Council      Member          Reports
+              Mayor         Pro Temp        Uipi     said she, Council              Member      Catten,     and Mayor       Silvestrini         attended
+              the Utah League             of Cities        and Towns          Convention.
+
+
+              Council         Member        Jackson        reported     that she attended           the 100 Communities               for the
+              Cominunity             Renewable        Energy         Board     meeting.        Rocky     Mountain       Power     is facing         a lot of
+              challenges         so there is uncertainty               with    the future      of the program.          The Skyline          High
+              School        ribbon     cutting     was later in the week.               She noted the Millcreek             Library         is closed       for
+              improvements.
+
+
+              Council         Member        Catten    announced             September        is "Get    to the River      Month"        for the Jordan
+              River.
+
+
+              4.3 Staff        Reports
+              Mike     Winder          announced       upcoming             events.
+
+
+5. Consent           Agenda
+              5.1 Approval             of August       12, 2024 Work                 Meeting      and Regular           Meeting       Minutes
+
+
+Council        Member            Jackson         moved       to approve            the work       and regular        meeting      minutes           for
+August        12, 2024.         Council       Member          DeSirant             seconded.      Mayor      Pro Tempore             Uipi     called       for
+the vote.       Council          Member          Catten      voted      yes, Council           Member        DeSirant       voted      yes, Council
+Member          Jackson          voted      yes, and Mayor              Pro Tempore             Uipi    voted    yes. The motion              passed
+unanimously.
+
+
+6. New        Items      for    Subsequent           Consideration
+There were none.
+
+
+7. Calendar            of Upcoming               Meetings
+   *   Historic        Preservation          Commission              Mtg.     9/12/24      6:00 p.m.
+   *   Planning          Coinrnission         Mtg.     9/18/24        5:00 p.m.
+   *   City     Council         Mtg.     9/23/24      7:00 p.m.
+
+
+
+ADJOURNED:                     Council      Member           Jackson          moved      to adjourn        the meeting         at 9:22 p.m.
+Council        Member            Catten      seconded.         Mayor          Pro Tempore           Uipi    called    for the vote.          Council
+Millcreek    City    Council      Meeting       Minutes                           9 September         2024    Page 16 of 16
+
+
+
+Member      Catten     voted     yes, Council      Member        DeSirant      voted   yes, Council      Member       Jackson
+voted    yes, and    Mayor      Pro      Tempore    Uipi   voted    yes. The     motion    passed      unanimously.
+
+
+
+
+                             APPROVED:                                                          Date      t(y(q-l"n
+                                                    Jeff SilveAtrini,   Mayor
+
+
+
+                               Attest:
+

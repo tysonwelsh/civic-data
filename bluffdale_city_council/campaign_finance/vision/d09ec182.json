@@ -1,0 +1,16 @@
+{
+  "contributions": [
+    {"date": null, "name": "Dan Hardle", "amount": "1,000.00", "in_kind": false},
+    {"date": null, "name": "Lisanne Steele", "amount": "200.00", "in_kind": false},
+    {"date": null, "name": "Jeff Steele", "amount": "15.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Robocent (mailer)", "purpose": null, "amount": "1850.00", "in_kind": false},
+    {"date": null, "recipient": "Robocent (text)", "purpose": null, "amount": "345.60", "in_kind": false},
+    {"date": null, "recipient": "Meta (ads)", "purpose": null, "amount": "139.31", "in_kind": false},
+    {"date": null, "recipient": "Wix (website)", "purpose": null, "amount": "18.03", "in_kind": false},
+    {"date": null, "recipient": "Robocent (text)", "purpose": null, "amount": "363.78", "in_kind": false},
+    {"date": null, "recipient": "Salt Lake County Elections", "purpose": null, "amount": "15.00", "in_kind": false}
+  ],
+  "totals_printed": {"total_contributions": "1215.00", "total_expenditures": "2731.72"}
+}

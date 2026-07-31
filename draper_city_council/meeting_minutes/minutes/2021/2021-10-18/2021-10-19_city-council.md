@@ -1,0 +1,142 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=501&doc_id=386a7ef7-47c6-11ec-a798-0050569183fa
+> Meeting date: 2021-10-19
+> Format: text
+
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY, OCTOBER 19,
+2021, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST PIONEER ROAD, DRAPER,
+UTAH
+
+PRESENT:           Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha
+                   Lowery, Fred Lowry, Cal Roberts, and Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:     David Dobbins, City Manager; Mike Barker, City Attorney; Scott
+                   Cooley, City Engineer; Hazel Dunsmore, Human Resource
+                   Director; John Eining, Police Chief; Bret Millburn, Assistant City
+                   Manager; Rhett Ogden, Recreation Director; Laura Oscarson, City
+                   Recorder; Linda Peterson, Communications Director; Bart
+                   Vawdrey, Battalion Chief; and Bob Wylie, Finance Director; Kellie
+                   Challburg, Chief of Staff; Jake Sorensen, Network Administer; Jen
+                   Jastremsky, Planning Manager
+Study Session
+
+1.0   Council/Manager Reports
+
+1.1   Councilmember Green said he wanted to see if a path could be constructed
+      on the north side of Traverse Mountain Road. Councilmember Green also
+      asked if a crosswalk would be installed when 1300 East is reconstructed. He
+      noted that this had been a suggestion from a resident.
+
+1.2   Councilmember T. Lowery relayed resident concerns about young kids in golf
+      carts on the streets as well as the trail system in the Bellevue area. She said
+      this was not only a safety concern, but it was also destroying the trails. Mr.
+      Dobbins asked Councilmember T. Lowery if she wanted staff to actively
+      enforce on all scooters and golf carts on city trails and sidewalks.
+      Councilmember T. Lowery said per the residents’ complaints, the kids were
+      driving these vehicles around recklessly. She suggested sending out notices
+      to neighborhood HOA boards.
+
+1.3   Councilmember Roberts stated the Traverse Ridge Special Service District
+      (TRSSD) had a significant shortfall for its snowplow costs. Mr. Dobbins added
+      that staff would be presenting an agreement between the City and the TRSSD
+      regarding snow plows and other issues, including street light replacement.
+
+
+
+
+Draper City Council APPROVED Minutes – November 16, 2021
+1.4      Councilmember F. Lowry asked if Mr. Dobbins had had a chance to review the
+         budget for beautification projects. Mr. Dobbins said staff had met to
+         determine a couple of projects, but they were still working on budgetary
+         details.
+
+1.5      Councilmember F. Lowry asked if the City was interested in doing a Christmas
+         Village or Santa Parade this year. Mr. Dobbins said based on the City’s current
+         resources, he was not sure how they would be able to do more. There was a
+         brief discussion on potential options.
+
+
+Business Session
+
+1.0      Call to Order: Mayor Troy K. Walker
+
+2.0      Thought/Prayer and Pledge of Allegiance
+
+2.1      Steve McInroy, from the Rock Church, offered the invocation. The pledge of
+         allegiance was led by Bret Millburn, Assistant City Manager.
+
+3.0      Public Comments
+
+3.1      Bryon Prince, representing Ivory Homes, expressed concerns regarding a
+         situation taking place between two subdivisions: Big Willow Creek and Jensen
+         Farms. He provided a historical area of these subdivisions, of which, Ivory
+         Homes developed one of them. Both projects were required to complete a
+         road connection during the first phase of construction. However, the other
+         development company has not held up its end of the agreement, and Ivory
+         Homes has been waiting for this road construction to take place for over two
+         years. He wanted to elevate this conversation to make it a priority, as it puts
+         the residents of the Ivory Homes development in jeopardy.
+
+4.0      Consent Items
+      a. Approval of Resolution #21-54, a resolution changing the terms of the
+         members of the Draper City Historic Preservation Commission.
+      b. Approval of Ordinance #1504, an ordinance amending Title 12 of the Draper
+         City Municipal Code that aligns the city code with the National Flood Insurance
+         Program, operated by the Federal Emergency Management Agency,
+         requirements that identify the current flood insurance rate maps.
+
+
+
+
+Draper City Council APPROVED Minutes – November 16, 2021
+4.1   Councilmember Green moved to approve the Consent Items. Councilmember
+      T. Lowery seconded the motion.
+
+4.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Ordinance #1503, on the request of Adam Lankford,
+      representing Wasatch Residential Group for a Text Amendment to add
+      Medical Services as a permitted use in the CSD-DD (Day Dairy Commercial
+      Special District) zone. This application is known as the Day Dairy Medical Use
+      Text Amendment. The zone is located at approximately 527 East 12300 South.
+
+5.1   Jennifer Jastremsky presented the staff report as well as an aerial map of the
+      subject area. She clarified that this request only applied to the CSD-DD and
+      no other zones within the City. She noted that the CSD was also located within
+      the City’s special land use designation. The applicant was proposing to expand
+      the number of uses allowed within the commercial portion of the
+      development and add medical service as a permitted use.
+
+5.2   Adam Lankford provided an overview of the item. He clarified that the use
+      would be for medical retail and not doctors’ offices.
+
+5.3   Mayor Walker opened the public hearing. No one came forward so Mayor
+      Walker closed the public hearing.
+
+5.4   Councilmember Green moved to approve Ordinance #1503. Councilmember
+      Roberts seconded the motion.
+
+5.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+6.0   Adjournment
+
+6.1   Councilmember Green moved to adjourn the meeting.            Councilmember
+      Roberts seconded the motion.
+
+6.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts,
+      and Vawdrey, voting in favor. The motion passed unanimously.
+
+
+
+
+Draper City Council APPROVED Minutes – November 16, 2021
+6.3   The meeting adjourned at 7:12 p.m.
+
+
+
+
+Draper City Council APPROVED Minutes – November 16, 2021
+

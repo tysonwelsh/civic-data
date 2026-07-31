@@ -1,0 +1,33 @@
+{
+  "contributions": [
+    {"date":"11-Oct-25","name":"Glenmoor Golf Club (In-Kind)","city":"South Jordan","state":"UT","amount":"900.00","in_kind":true},
+    {"date":"10/11/2025","name":"Gordon and Gaylene Madsen","city":"South Jordan","state":"UT","amount":"50.00","in_kind":false},
+    {"date":"10/14/2025","name":"Megan and Nicholas Trujillo","city":"South Jordan","state":"UT","amount":"500.00","in_kind":false},
+    {"date":"10/14/2025","name":"Marshall and Nicole Payne","city":"South Jordan","state":"UT","amount":"500.00","in_kind":false},
+    {"date":"10/7/2025","name":"Glenmoor Golf Club","city":"South Jordan","state":"UT","amount":"500.00","in_kind":false},
+    {"date":"10/10/2025","name":"Teton Center, LLC","city":"South Jordan","state":"UT","amount":"500.00","in_kind":false},
+    {"date":"15-Oct-25","name":"Salt Lake Board of Realtors (In-Kind)","city":"Sandy","state":"UT","amount":"2414.00","in_kind":true},
+    {"date":"10/19/2025","name":"Clifford Alldredge","city":"South Jordan","state":"UT","amount":"50.00","in_kind":false},
+    {"date":"10/8/2025","name":"Don Shelton","city":"South Jordan","state":"UT","amount":"5700.00","in_kind":false}
+  ],
+  "expenditures": [
+    {"date":"10/8/2025","recipient":"Sun Lithographicis","purpose":"Mailing","amount":"2185.74","in_kind":false},
+    {"date":"10/8/2025","recipient":"Vottiv Campaigns","purpose":"Text Messaging","amount":"180.00","in_kind":false},
+    {"date":"10/10/2025","recipient":"Lowes","purpose":"Signs","amount":"22.00","in_kind":false},
+    {"date":"10/11/2025","recipient":"Fedex Office","purpose":"Posters","amount":"53.46","in_kind":false},
+    {"date":"10/11/2025","recipient":"Glenmoor Golf Club","purpose":"Meet and Greet","amount":"900.00","in_kind":true},
+    {"date":"10/15/2025","recipient":"Vottiv Campaigns","purpose":"Text Messaging","amount":"290.00","in_kind":false},
+    {"date":"10/15/2025","recipient":"Gather","purpose":"Canvassing","amount":"2414.00","in_kind":true},
+    {"date":"10/16/2025","recipient":"City Journal","purpose":"Advertising","amount":"618.00","in_kind":false},
+    {"date":"10/17/2025","recipient":"Deseret News Publishing","purpose":"Mailing","amount":"1684.00","in_kind":false},
+    {"date":"10/18/2025","recipient":"Vottiv Campaigns","purpose":"Text Messaging","amount":"45.00","in_kind":false},
+    {"date":"10/21/2025","recipient":"Vottiv Campaigns","purpose":"Text Messaging","amount":"50.00","in_kind":false},
+    {"date":"10/21/2025","recipient":"Deseret News Publishing","purpose":"Mailing","amount":"1060.42","in_kind":false},
+    {"date":"10/22/2025","recipient":"The Home Depot","purpose":"Signs","amount":"51.40","in_kind":false},
+    {"date":"10/23/2025","recipient":"Vottiv Campaigns","purpose":"Text Messaging","amount":"80.00","in_kind":false}
+  ],
+  "total_contributions": "11114.00",
+  "total_expenditures": "9634.02",
+  "total_contributions_ytd": "28180.89",
+  "total_expenditures_ytd": "22861.19"
+}

@@ -1,0 +1,87 @@
+{
+ "date": "2026-03-10",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "ocr",
+ "source": "minutes/2026/2026-03-09/2026-03-10_planning-commission.md",
+ "present": [
+  "David Young",
+  "Barbara Munoz",
+  "Marc McElreath",
+  "B. Murphy",
+  "Don Russell",
+  "Cindy Wilkey",
+  "David Wright",
+  "Gordon Willardson"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to approve the minutes of February 10, 2026 as presented",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": "Barbara Munoz",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Wright moved to continue File #5C26-CUP-000859-2026, public hearing and consideration of a nonadministrative conditional use permit for extended hours of operation and to operate a bar establishment at 5418 South 1900 West to March 24, 2026",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "David Wright",
+   "seconder": "Barbara Munoz",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "5C26",
+    "CUP-000859-2026"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner McElreath moved to adjourn",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Marc McElreath",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [
+    "5C26",
+    "CUP-000859-2026"
+   ],
+   "motion_no": 3
+  }
+ ]
+}

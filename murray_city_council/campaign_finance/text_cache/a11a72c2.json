@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "11/7/23", "name": "Maryann Christensen", "amount": "104.42", "in_kind": false},
+    {"date": "11/7/23", "name": "Richard Clayton", "amount": "25.00", "in_kind": false},
+    {"date": "11/4/23", "name": "Clark Bullen (Loan)", "amount": "1000.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/27/23", "recipient": "Amazon", "purpose": "Tape, Zip Ties", "amount": "32.34", "in_kind": false},
+    {"date": "11/4/23", "recipient": "Consolidated Direct Mail", "purpose": "Direct Mailer", "amount": "963.49", "in_kind": false},
+    {"date": "11/4/23", "recipient": "SLCo Elections", "purpose": "Voted list", "amount": "15.00", "in_kind": false},
+    {"date": "11/8/23", "recipient": "MailChimp", "purpose": "Mass email System", "amount": "74.14", "in_kind": false}
+  ],
+  "total_contributions": "1,129.42",
+  "total_expenditures": "1084.97",
+  "contributions_50_or_less": null,
+  "beginning_balance": "3.94",
+  "ending_balance": "48.39",
+  "_meta": {
+    "index_path": "raw/202311_Clark-Bullen_14806.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "reporting_period": "Pre-General 7-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A itemized (3 rows) sums to 1,129.42 = printed cover 1,129.42 (THRU 11/9/23) and summary line 1 1,129.42 — reconciles (note filer's Balance Summary line 4 misprints this as 129.42, an arithmetic typo left verbatim). Schedule B itemized (4 rows) sums to 1,084.97 = printed cover 1,084.97 — reconciles. Schedule C empty."
+  }
+}

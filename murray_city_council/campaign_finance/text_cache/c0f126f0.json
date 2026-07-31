@@ -1,0 +1,36 @@
+{
+  "contributions": [
+    {"date": "8/29/2025", "name": "Loan From Bruce E Turner", "amount": "3,000.00", "in_kind": false},
+    {"date": "9/16/2025", "name": "Mary Ann Turner", "amount": "300.00", "in_kind": false},
+    {"date": "9/30/2025", "name": "Loan From Bruce Turner", "amount": "12,000.00", "in_kind": false},
+    {"date": null, "name": "MaryAnn Turner", "amount": "125.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "8/12/25", "recipient": "Fast signs", "purpose": null, "amount": "18.81", "in_kind": false},
+    {"date": "8/15/25", "recipient": "Murray Journal", "purpose": null, "amount": "540.00", "in_kind": false},
+    {"date": "8/30/25", "recipient": "Murray Chamber of commerce", "purpose": "Hot air ballon both", "amount": "500.00", "in_kind": false},
+    {"date": "9/6/25", "recipient": "Cerra Teng", "purpose": "website and email", "amount": "244.00", "in_kind": false},
+    {"date": "9/8/25", "recipient": "Alpha graphics", "purpose": "door hangers", "amount": "542.16", "in_kind": false},
+    {"date": "9/8/25", "recipient": "Murray Journal", "purpose": null, "amount": "850.00", "in_kind": false},
+    {"date": "9/11/25", "recipient": "Salt Lake County", "purpose": "voters list", "amount": "50.00", "in_kind": false},
+    {"date": "9/12/25", "recipient": "Fast signs", "purpose": "Deposit", "amount": "660.00", "in_kind": false},
+    {"date": "9/17/25", "recipient": "Dollar tree", "purpose": "hot air ballon festival", "amount": "22.47", "in_kind": false},
+    {"date": "9/17/25", "recipient": "Fast signs", "purpose": "signs", "amount": "696.72", "in_kind": false},
+    {"date": "9/30/25", "recipient": "Alpha graphics", "purpose": "mailers", "amount": "6,004.00", "in_kind": false}
+  ],
+  "total_contributions": "15,300.00",
+  "total_expenditures": "10,128.16",
+  "contributions_50_or_less": "0.00",
+  "beginning_balance": "1,832.04",
+  "ending_balance": "7,003.88",
+  "_meta": {
+    "index_path": "raw/202510_Bruce-E-Turner_17214.pdf",
+    "candidate": "Bruce E Turner",
+    "office": "Mayor",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "reporting_period": "Pre-General 28-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A monetary itemized sums to 15300 vs printed TOTAL 15,300.00 — reconciles. Schedule B itemized sums to 10128.16 vs printed TOTAL 10,128.16 — reconciles. Schedule C in-kind: one item (MaryAnn Turner, Treats for Balloon Palooza, 125.00), printed TOTAL 125.00 — reconciles; captured with in_kind:true, separate from Schedule A cover total. Expenditure parenthetical descriptions split into purpose field."
+  }
+}

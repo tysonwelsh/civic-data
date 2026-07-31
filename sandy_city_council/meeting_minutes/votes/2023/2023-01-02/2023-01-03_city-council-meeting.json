@@ -1,0 +1,85 @@
+{
+ "date": "2023-01-03",
+ "year": 2023,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2023/2023-01-02/2023-01-03_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Brooke D'Sousa to table this agenda item and bring it back on January 10th",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Brooke D'Sousa",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Marci Houseman, to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Ryan Mecham",
+   "seconder": "Marci Houseman",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Ryan Mecham, seconded by Scott Earl to adopt Resolution 23-01C as amended, appointing Council Member Marci Houseman as Council Liaison to the Sandy Service Ambassador Committee, Brooke D'Sousa as the Alternate, and Liz Theriault as the Council Staff Liaison for the Calendar Year 2023",
+   "motion_type": "Appointment",
+   "result": "7-0 Pass",
+   "mover": "Ryan Mecham",
+   "seconder": "Scott Earl",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Scott Earl, to adopt Resolution 23-02C, selecting Option D (rebuild option) of the Alta Canyon Feasibility Analysis and directing Administration to move forward with the architectural design process to rebuild the Alta Canyon Sports Center. The total cost of the project shall not exceed $40,000,000 (Forty Million). The Resolution shall become effective immediately",
+   "motion_type": "Resolution",
+   "result": "6-0 Pass",
+   "mover": "Zach Robinson",
+   "seconder": "Scott Earl",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Brooke D'Sousa",
+    "Scott Earl"
+   ],
+   "nay": [],
+   "abstain": [
+    "Ryan Mecham"
+   ],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 4
+  }
+ ]
+}

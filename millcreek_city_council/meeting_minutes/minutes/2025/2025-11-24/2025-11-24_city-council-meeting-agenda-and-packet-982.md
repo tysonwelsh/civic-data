@@ -1,0 +1,416 @@
+# City Council Meeting Agenda and Packet
+> Source: https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11242025-982
+> Meeting date: 2025-11-24
+> Format: text
+
+---
+
+
+**Body:** Council
+**Date:** 2025-11-24
+**Source:** civicplus (AgendaCenter)
+**Source URL:** https://www.millcreekut.gov/AgendaCenter/ViewFile/Minutes/_11242025-982
+**Format:** text
+**In-body date match:** YES
+
+---
+
+                                                                                                  Minutes               of the
+                                                                                           Millcreek             City         Council
+                                                                                               November                 24,     2025
+                                                                                                         5:00          p.m.
+                                                                                                          Meeting
+
+
+
+
+The      City     Council        of Millcreek,               Utah,    met in a public           meeting         on November                24, 2025,       at City
+Hall,     located       at 1330         E. Chambers               Avenue,       Millcreek,        UT      84106.          The meeting             was recorded               for
+the City's         website.
+
+
+PRESENT:
+
+
+Council           Members                                                                      City     Staff
+Cheri      Jackson,         Mayor                                                             Mike       Winder,           City      Manager
+Silvia      Catten,        District       1                                                    Elyse      Sullivan,           City     Recorder
+Thom        DeSirant,          District        2                                              Kurt      Hansen,           Facilities       Director
+Bev      Uipi,     District      4                                                            John Brems,                City     Attorney
+                                                                                              Rita      Lund,          Communications              Director
+                                                                                              Jim Hardy,               Building        Services       Director
+                                                                                              Aimee           McConkie,              Events     Director
+                                                                                              Kayla       Mayers,             Promise      Program         Director
+                                                                                              Francis         Lilly,      Assistant        City    Manager
+
+
+Attendees:            Chief      Petty-Brown,                Amber        Measom       (electronic),          Linda      Zenger,        Ian Wright,         Leslie
+Moss,       Matthew           Gardner,          Michael           Gura,   Nathan       Gibby,         Patti    Hession,           Nicole      Handy,       Rick
+Hansen,          Garrett      Handy,          Todd        Zenger,     Alisha      Archibald,           Andrei          Taran,        S. Hession,       Darlene          C.
+
+
+WORK             MEETING                - 5:00        p.m.
+TIME          COMMENCED:                           5:03    p.m.
+
+
+
+
+1.   Pledge        of Allegiance
+Mayor         Jackson         called      the meeting             to order     and led the pledge               of allegiance.             She thanked            the
+applicants         for applying.
+
+
+Elyse      Sullivan         explained          the appointment               process       for the evening.               Each       candidate        would
+introduce         themselves,             there      would        be a question        and answer             period,         and then        each candidate
+could     provide          a closing          statement        before       the council        deliberated             and voted         on the appointment.
+
+
+2. Interviews              and    Consideration                   of Council       District       3 Candidates
+     Each        of the candidates              introduced           themselves,        then     they     were          interviewed           by the council            in
+     the following             order:      Amber          Measom          (participating         electronically),               Linda      Zenger,      Ian Wright,
+     Leslie       Moss,       Matthew           Gardner,          Michael      Gura,       Nathan       Gibby,          Patti     Hession,        and Nicole
+     Handy.
+Millcreek        City     Council      Meeting       Minutes                                          24 November           2025        Page 2 of 7
+
+
+
+
+   Amber         Measom
+
+
+   The council           asked about housing               affordability          strategies        and ensuring          they align with
+   established          character      of the neighborhood,                balancing         neighbor's          concerns      while      moving
+   forward        for the long term health                of the city, what changes                    the city should        make,       how to
+   prioritize      infrastructure        improvements,              what infrastructure                 priorities      has she submitted            to the
+   city through          her time      on the community               council,       how she would               handle     professional          or expert
+   advice       from     staff that conflicts        with      her beliefs,         and to provide              an example         of a time where
+   she handled           an unpopular         decision        and her role/the             outcome.
+
+
+   Amber         Measom       talked     about executing              smart and strategic                growth        to maintain       character,
+   collaboration          with    the neighbors            and developers            to find     a resolution           through      understanding,
+   more clarity          on events and better              communication,                creating       safe and efficient           routes     in and out
+   of the city,         safe pedestrian        access to the city center,                   listening        and trying      to understand           advice
+   before       making      decisions,        and when         faced with          school      closures         she has tried to educate herself
+   on the issue and be open minded.
+
+
+   Linda        Zenger
+
+
+   The council           asked about three important                     things    the city can do about the pressure                         of housing
+    density      and affordability,           what       events she has attended                and any feedback              for administration,              a
+   hypothetical           situation     in demolishing            a historic       home       for a larger        home      that blocks         views,      how
+    to strengthen         cornrnunity         oriented       policing       and changes          with        Unified      Police     Department,         how
+   to handle        a situation       with    residents       divided       on a topic,        how she handled               an unpopular
+    decision,      and how to handle              advice       from      staff that conflicts            with     her beliefs.
+
+
+    Linda       Zenger     argued that consultation                with     the community                was key and preserving                 single
+    family      neighborhoods,           she attended          the holiday          tree lighting          and would         like to see live local
+    talent    (music)       at that event,       she hoped to protect                old homes           by putting        them on a historic
+    registry,     she appreciated            the police       building       relationships            with     the community,            she would        like
+
+    the cornrnunity          to come together              in meetings         to bring        solutions        to find    a majority         opinion,      she
+
+    relayed      a time when          she upset someone's                 feelings        in a board meeting              and she apologized             to
+
+    the person          after the meeting,         and she would             ask questions              of staff to learn more            about certain
+    topics.
+
+
+    Ian Wright
+
+
+    The council          asked about an example                  when he handled                an unpopular            decision      and his role, how
+    to handle       a hypothetical           situation      in demolishing               a historic     home         for a larger     home      that blocks
+    views,      how to support          housing          affordability       while        preserving         the character          and livability       of
+
+    neighborhoods,            asked about decisions                made as a member                    of the Planning         Commission             and
+    any unintended            consequences           of those decision,              events he has attended                 outside      of the
+    commission            and feedback         for administration,                his time      commitment             to the council,         how to
+    handle       professional         staff advice        that conflicts          with     his opinions,         how to handle           a complaint
+    against      a city employee,            and what the city can do better.
+Millcreek       City        Council       Meeting         Minutes                                    24 November                2025        Page 3 of 7
+
+
+
+   Ian Wright          described         a work      related     example        in preserving             historic     lands during            the
+   government               shutdown      and he listened            to the stakeholders              and was transparent                 in
+   coinmunications               of action       taken,    if people        are staying       within        code requirements                  then creative
+   solutions         can be made with              the city and neighbors,                steer the growth              to be able to bring              in a
+   diversity        of people,        height     in the city center and glowing                      signs on the building                  that stay on all
+   night      was    unintentional,         his workplace            encourages           community            participation           so he can make
+   time for the council,                in his workplace            he ensured         that his decisions              remained         impartial        and not
+   influenced         by any enforcement                  actions    taken by the organization,                      he would         not make
+   assumptions              and work      with     the city manager            and council           about communications                       and help be
+   part of the solution,              and he would            continue      to focus       on building             community           and keeping          it
+   vibrant.
+
+
+   Leslie      Moss
+
+
+   The council             asked how to handle              a hypothetical            situation      in demolishing              a historic       home         for a
+   larger     home that blocks             views,      how to handle               a complaint        against        a city employee,             how to
+   handle      a situation        with    residents        divided      on a topic,        to surnrnarize            city events/meetings                 she has
+   attended         and any feedback,              how to handle           staff advice       that conflicts            with        her opinions,        how to
+   balance      competing           viewpoints         and make a decision                that reflects            fiscal    responsibility           and long
+   teri'n   community           needs, and important                 steps to address housing                  affordability.
+
+
+   Leslie     Moss          acknowledged           property      owner       rights     but considering              neighbor's         opinions,         listen
+   to the complainant               and involve        them in the solution                and involve             the supervisor           of the
+   employee,          to make decisions              in the city's         long-term       benefit,        she enjoys          shopping         local    on
+   3300 S and the art festival                   and events with            food trucks,          she acknowledged                   it was good to have
+   conflict     but also to listen             and resolve       it, try not to raise taxes by making                           small budget            cuts
+   where      possible,        and do not disrupt              established         neighborhoods             and build          density        on corridors.
+
+
+
+   Matthew           Gardner
+
+
+   The council          asked about balancing                  growth       with     neighborhood             character,         asked where            housing
+   density      could        be added in District            3, summarize             city events/meetings                  he has attended             and any
+   feedback,         how to handle           a hypothetical           situation       in demolishing               a historic        home      for a larger
+  home that blocks               views,     how to handle            disagreements            with        residents         when     a proposed         project
+  benefits      some but is deeply                 unpopular        with    others,      what the city's             top infrastructure              priorities
+   should      be, about time commitments                       in joining         the council,        describe         a time when he handled                     an
+  unpopular           decision,       how to handle            staff advice         that conflicts          with     his opinions,          and if he
+  understood           the city's       policing      and if he would              like to see any changes                   with     UPD.
+
+
+  Matthew           Gardner       said there is connectedness                  in Millcreek            and criteria          would      be for people             to
+  be able to gather             and if there is enough               green space, allowing                   more tiny homes                or accessory
+  dwelling          units    and adding        more transit          to eliminate         wasted          parking      lot space for
+  redevelopment,               he attended         inauguration          events       and skating          at Millcreek          Common              and would
+  like to make people                 attending      by themselves            feel more           coru'iected,       holding         community
+  meetings          with     affected     residents       to feel heard        and work            with     developers          to minimize           impacts,
+  he would          talk with     both parties         together       and find         a middle       ground,         more walkability
+  infrastructure             and addressing          storm     drain issues by planting                    more native          plants,      his profession
+Millcreek            City     Council           Meeting          Minutes                                           24 November                  2025         Page        4 of 7
+
+
+
+       provided        flexibility        for council            time        commitments,                when       he understands                a solution          he can
+   better        convince            others     of its merit              with     facts,     communication                   is key - there          is always          middle
+       ground,       and he appreciates                  the shared               resources          and specialized             units     with     UPD.
+
+
+       Michael        Gura
+
+
+       The council           asked      about         initiatives          to address          affordable          senior        housing,         how      he handled              an
+       unpopular         decision         and his role,             how          to handle       a hypothetical               situation       in demolishing                 a
+   historic        home        for a larger             home        that blocks             views,       how     to accomplish              something             from     his
+       application          - "the      city    should          ensure           equitable       distribution           of resources          to our residents                to
+       create     a high      quality         of life     for all,"         asked      what       the city       could        improve,        and about           his time
+       commitment             with      the council.
+
+
+       Michael       Gura      acknowledged                    existing          programs         and services            to connect            seniors       with,      listen         to
+   people         to find      the root          of the problem                   and look       for solutions            and tackle          problems            head on, he
+       acknowledged             property          owner         rights           and looking            for the highest           and best use of the property,
+   he wanted            to continue             supporting            the Promise              Program           especially           through       the Business
+       Council       by reaching              out to give           a hand         up, infrastructure              aging        issues     with       water     main         breaks
+       and roadways            so the city            needs      to keeping             improving           and maintain               it, and he has shown                      that
+   he shows            up for events.
+
+
+Council          Member          Uipi          moved        to recess             the meeting            at 6:27        p.m.      Council          Member             DeSirant
+seconded.          Mayor         Jackson              called        for     the vote.         Council          Member            Catten         voted        yes, Council
+Member            DeSirant            voted      yes, Council                Member              Uipi     voted        yes,     and     Mayor         Jackson            voted
+yes. The          motion       passed           unanimously.
+
+
+Council          Member          DeSirant               moved         to return             to the meeting               at 6:39       p.m.       Council         Member
+Uipi      seconded.           Mayor            Jackson          called       for     the vote.          Council         Member             Catten         voted       yes,
+Council          Member          DeSirant               voted       yes, Council              Member             Uipi     voted        yes, and         Mayor          Jackson
+voted      yes. The          motion           passed       unanimously.
+
+
+   Nathan            Gibby
+
+
+   The       council         asked      about      his time           commitment                 to the council,              to summarize            city
+       events/meetings               he has attended                 and any feedback,                   how      to handle           a hypothetical           situation           in
+   demolishing               a historic         home        for a larger             home      that blocks             views,      how      to address          conflict          with
+   city     day-to-day           operations,             asked        what         improvements                the city       could      make,      how       he handled                an
+   unpopular            decision         and his role,              and if he could               separate        from        his role      with      Millcreek           Miracle.
+
+
+   Nathan          Gibby       noted       he sets his own                   work      schedule,          he started          "Canyon           Rim       is Community"
+   to get neighbors                  involved           in community                 projects,        he described             his involvement                with     the
+   Millcreek           Business          Council,           he would              strike     a balance          with     affected         individuals          and property
+   owner/developer                    rights     and abide            by law,         he would           be an arbitrator              and listen         to the
+   complainant               and have           them      be part          of the solution,              the city       can be better             about      engaging
+   residents          and getting              them     involved,            he would          have       a dialogue            and rationally            reason       with
+   people         and be transparent                    about       an unpopular              decision,          and he would              find    someone            to take
+   over his other              roles     and lead the change.
+Millcreek       City     Council         Meeting      Minutes                                    24 November              2025      Page 5 of 7
+
+
+
+
+   Patti     Hession
+
+
+   The council          asked about how to handle                     a hypothetical         situation      in demolishing          a historic
+   home       for a larger       home that blocks             views,      how to handle          a complaint         about staff, how the city
+   should      obtain     more green space, how she handled                           an unpopular          decision       and her role/the
+   outcome,         how to handle           staff advice         that conflicts       with    her opinions,          how to personally              define
+   neighborhood            character       and what criteria            to use to decide          if a new project            fits within        it, asked
+   what improvements                 the city could         make,      what strengths           she would         bring    to the city council,
+   and what is Millcreek's                 next big project.
+
+
+   Patti Hession          acknowledged             property       owner      rights    and to exhibit           sensitivity      to affected
+   neighbors,         handling       complaints          seriously,      taxes are inevitable             when you are trying               to
+   accomplish          better    things,       keeping      cool and maintaining               professionalism            with    upset people,             she
+   relayed      an example           of deciding         which     area would         be better        suited   to rebuilding          a school       and
+   maintaining          professionalism,           it is important           to know      your neighbors            and do activities             together,
+   the city should           be creative        in drawing        families      to Millcreek           and host events for single                 people
+   to meet each other,              she is known          with    the cornrnunity            and that brings         trust, and bringing              in
+   new activities.
+
+
+   Nicole      Handy
+
+
+   The council         asked about balancing                 individual        property       rights     with    community         impacts,         three
+   important        things      to address housing            affordability,          to surnrnarize        city events/meetings                 she has
+   attended        and any feedback,             how to handle           a hypothetical         situation        in demolishing           a historic
+  home       for a larger       home       that blocks       views,      how to balance           competing          viewpoints         with      raising
+  taxes and being            able to provide          services,        asked what improvements                    the city could make,                and
+   an example          of handling         an unpopular           decision     and her role/the            outcome        in the situation.
+
+
+  Nicole      Handy       said listening         and cornrnunicating              decisions       was important,              the city is on the
+  right     track by allowing            high     density     and owner-occupied                policies        but there was opportunity                   to
+  work      with     other cities      and organizations              facing    the issue, she supported                  the city's
+  incorporation           and participated          in the first mayor            campaign         and events         at Millcreek          Common,
+  she would          learn from        the other council           members        but would            fall back on the law and rights                     of
+  the property          owner,       looking     at other ways to increase                revenue         such as by increasing              business
+  then looking          carefully       at the budget         to make        sure that services           are needed          and not just wanted,
+  she is proud         to live in Millcreek              and would        like to look        at doing      more in addressing
+  infrastructure,         and she touched            on a time at Canyon                Rim Academy              in coming         up with        a hybrid
+  solution.
+
+
+
+  The candidates             then provided         a closing        statement         as to why they should               be appointed.           The
+  mayor       and council           thanked     the candidates          for their participation.
+
+
+  Council       Member          Catten     expressed        that she had hoped               a clear choice         would        emerge      during        the
+  selection        process      but found        all applicants        to be highly          impressive.        She appreciated             learning
+  about each candidate's                 background          and cornrnunity            involvement,            noting    that several           stood out
+  as strong        possibilities.       She emphasized             that even those not appointed                     should      continue         their
+Millcreek       City     Council          Meeting        Minutes                                      24 November            2025       Page 6 of 7
+
+
+
+   service,      as their      skills     and dedication           could         greatly    benefit     the community              in various        roles,
+   including       volunteer         opportunities.          She encouraged                 applicants      to remain        engaged       and even
+   consider       running        for office         in the future        and aclaiowledged               the difficulty        she faced in
+   choosing        among        such qualified           individuals.
+
+
+   Council       Member          DeSirant       remarked           that the community                 is fortunate       to have such an
+   exceptional         pool     of talented          applicants.        He noted that while               he initially      expected       to have a few
+   clear top choices,              the interviews         far exceeded              his expectations         and highlighted            the strengths
+   each candidate             could bring.          He emphasized                the value      of the council's          interview       process          in
+   allowing       members           to better       understand          the applicants          and encouraged            everyone,        those already
+   engaged        as well      as those less involved,                  to remain          active    or become       more      involved         in
+   community           programs,          councils,       and other Iocal initiatives.
+
+
+   Council       Member          Uipi     explained        that the appointment                 process      is inherently          challenging            due to
+   the limited         information          available      compared              to an election,        where     candidates         typically        share
+   websites,       flyers,     and endorsements.                 She relied         primarily         on applications         and interviews,
+   seeking       specific      examples         that demonstrated                 key competencies              such as leadership,              conflict
+   resolution,      visibility          in the community,               cornrnunication,             presentation        skills,    and teamwork.
+   She noted that endorsements                        or additional             feedback      from people         who had worked               with
+   applicants       were helpful            but not formally             scored.       She emphasized             the importance           of
+   understanding             how     candidates         listen    and collaborate,              whether     individually           or as part of a
+   team.     She acknowledged                 the strong         pool    of applicants              and expressed        appreciation          for those
+   who reached           out to share more about themselves.                               She concluded          by encouraging              ongoing
+   community           participation,          noting     that the city benefits                from     the many        talented     individuals             who
+   step forward          during         moments        like this.
+
+
+   Mayor       Jackson        noted that although                she does not have a vote in the selection                           process,        the
+   decision      feels especially            meaningful           because          the applicants         come from         her own district.              She
+   expressed       gratitude         for knowing          many      of them personally                  and having        worked       with      several
+   over the years, while                 also appreciating          the opportunity                 to learn more        about those she had just
+   met. She highlighted                  the thoughtfulness              and insight         reflected     in all the applications.                  She
+   emphasized           that District        3 is rich with         talented,         dedicated        residents,     something         reaffirmed              by
+   the strong      pool       of applicants.          She thanked               everyone      for the time and effort              put into the
+   extensive       questionnaire            and interviews              and expressed           appreciation         for those who participated
+   despite     scheduling           challenges         created by statutory                 deadlines     and the holiday            season.
+
+
+   Council       Member          Catten      added that Cheri              Jackson         did a fantastic        job as council         member,            and
+   she was looking             for someone            who could          fill    the role and "hit         the ground         running."         Mayor
+   Jackson       pointed       out that District          3 represents             three cornrnunity          council      areas.
+
+
+   The City       Recorder          provided         the council        with       paper ballots        to vote for the appointee.                   The
+   ballots     unanimously              reflected      Nicole      Handy          as the winner.
+
+
+   Mayor       Jackson        acla'iowledged           how difficult             the selection         decision     was given         the exceptional
+   talent    and genuine            commitment           demonstrated               by all the applicants.           She expressed             deep
+   appreciation         for their        contributions           to the community               and echoed the call for continued
+   involvement.          She emphasized                that their voices,             ideas, and passion            significantly        enhance           the
+Millcreek          City    Council          Meeting           Minutes                                  24 November              2025     Page 7 of 7
+
+
+
+    city's      success and overall                 sense of community                 and encouraged           them to remain           engaged        in
+    shaping        Millcreek's            future.
+
+
+3. Discussion             and Consideration                   of Resolution            25-42,    Filling      the Mid-Term             Vacancy         of
+   Council           District     3
+
+
+Council         Member          Catten        moved          to approve          Resolution          25-42,    Filling       the Mid-Term
+Vacancy          of Council            District      3 with      Nicole        Handy       as the new council              member.          Council
+Member           Uipi     seconded.          The Recorder               called     for    the vote.        Council       Member        Catten     voted
+yes, Council            Member           DeSirant        voted         yes, Council         Member          Uipi     voted      yes, and Mayor
+Jackson         voted      yes. The motion               passed         unanimously.
+
+
+4. Oath         of Office;       Council          District      3 Appointee
+   The City Recorder                   administered            the oath of office           to Nicole       Handy.
+
+
+5. Calendar             of Upcoming               Meetings
+     @ Mt.       Olympus          Community                  Council      Mtg.,    12/1/25,          6:00 p.m.
+    *    Millcreek         Community                 Council      Mtg.,        12/2/25,      6:30 p.m.
+    *    Canyon           Rim    Citizens           Association          Mtg.,    12/3/25,       7:00 p.m.
+    *    East Mnl Creek                  Community              Council        Mtg.,      12/4/25,      6:30 p.m.
+    *    City     Council        Mtg.       12/8/25      7:00 p.m.
+
+
+The council          discussed          which       community           council     meetings         they would          attend.
+
+
+ADJOURNED:                   Council         Member            Handy       moved         to adjourn         the meeting            at 7:52 p.m.
+Council         Member          Catten        seconded.          Mayor         Jackson       called     for the vote.         Council        Member
+Catten       voted      yes, Council              Member         DeSirant         voted      yes, Council          Member           Handy      voted        yes,
+Council         Member          Uipi      voted      yes, and Mayor               Jackson       voted       yes. The       motion      passed
+unanimously
+
+
+                                   APPROVED:                       1Qts                                                  Date       nirc(t"'
+                                                                       Cheri     Jackson,       Mayor
+
+
+
+                                       Attest:
+                                                                Elystan,
+                                                                      City Recorder
+

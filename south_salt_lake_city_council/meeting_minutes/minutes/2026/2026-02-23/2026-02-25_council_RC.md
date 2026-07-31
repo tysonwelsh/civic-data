@@ -1,0 +1,236 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02252026-627
+> Meeting date: 2026-02-25
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 02252026-627 | label: Council WM Meeting 2026-02-25 | date: 2026-02-25 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_02252026-627 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                  CITY COUNCIL MEETING
+
+COUNCIL MEETING                                             Wednesday February 25, 2026
+                                                            7:02 p.m.
+
+CITY OFFICES                                                220 East Morris Avenue
+                                                            South Salt Lake, Utah 84115
+
+PRESIDING:                                                  Council Chair Sharla Bynum
+
+CONDUCTING:                                                 Corey Thomas
+
+PLEDGE OF ALLEGIANCE :                                      Nick Mitchell
+
+SERGEANT AT ARMS:                                           Carson Aprato, David Wirthlin
+
+COUNCIL MEMBERS PRESENT:
+      Corey Thomas, Sharla Bynum, Nick Mitchell,
+      Clarissa Williams, and Ray deWolfe
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Sharen Hauri, Neighborhoods Director
+       Crystal Makin, Finance Director
+       Anthony Biamont, Parks Project Manager
+       Matt Robins, Executive Assistant
+       Yasmin Abbyad, Emergency Management Coordinator
+       David Wirthlin, Police Sergeant
+       Carson Aprato, Police Sergeant
+       Natalie Molino, Paralegal
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      January 28th, Work Meeting
+      January 28th, Regular Meeting
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+                                            1
+South Salt Lake – Regular Council Meeting                                       February 25, 2026
+
+
+SECOND: Sharla Bynum
+
+Voice Vote:
+Bynum:            Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+NO ACTION COMMENTS
+      1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+         meetings, activities, etc. Next Council Meeting—March 11th @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Susan Bowlden, shared some comments regarding the City
+          Council vacancies.
+
+              Granite Library Assistant Manager, Rebecca Baker, shared information about
+              upcoming events and classes at the local library.
+
+              South Salt Lake resident, Hazel Stout, shared some concerns regarding the potential
+              use of A.I. on the City’s website.
+
+              South Salt Lake resident and former employee, Joe Anderson, shared concerns
+              regarding the police department morale.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood thanked the applicants who interviewed to fill the two City Council
+          vacancies and shared some updates regarding the current legislative session and the
+          historic number of bills that have been proposed this year.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Mitchell congratulated the applicants and encouraged them not to
+          get discouraged if not selected.
+
+              Council Chair Bynum thanked the applicants and residents who came. She also
+              encouraged City event attendance.
+
+              Council Member deWolfe thanked the applicants for their efforts to help fill the two
+              vacancies.
+
+              Council Member Thomas thanked the applicants for their efforts to help fill the two
+              vacancies.
+
+
+
+                                                 2
+South Salt Lake – Regular Council Meeting                                         February 25, 2026
+
+
+        6. INFORMATION.
+              a. Parks Plan Presentation
+                 Parks Project Manager, Anthony Biamont, gave a presentation that went
+                 over the City’s finalized Parks Plan.
+
+                        The plan addressed community priorities, programs and policies, projects,
+                        implementation, etc.
+
+                        A copy of the presentation is attached and incorporated by this reference.
+
+Action Items
+Unfinished Business
+    1. A Resolution of the South Salt Lake City Council Appointing an Individual to Serve on
+        the South Salt Lake City Council for the Remaining Term of Office Commencing
+        February 25, 2026, and Concluding January 3, 2028.
+
+        The Council Members voted in the following order:
+
+Bynum:            Joy Glad
+Mitchell:         Robert Tate
+deWolfe:          Joy Glad
+Thomas:           Joy Glad
+Williams:         Joy Glad
+
+        Council Member Williams made a motion to approve the Resolution and appoint Joy
+        Glad to fill the District 1 vacancy.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+
+MOTION: Clarissa Williams
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+    2. A Resolution of the South Salt Lake City Council Appointing an Individual to Serve on
+       the South Salt Lake City Council for the Remaining Term of Office Commencing
+       February 25, 2026, and Concluding January 3, 2028.
+
+        The Council Members voted in the following order:
+
+Bynum:            Irvin Jones
+Mitchell:         Darlene McDonald
+                                                   3
+South Salt Lake – Regular Council Meeting                                     February 25, 2026
+
+
+deWolfe:          Darlene McDonald
+Thomas:           Irvin Jones
+Williams:         Irvin Jones
+
+        Council Member Williams made a motion to approve the Resolution and appoint Irvin
+        Jones to fill the District 5 vacancy.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+
+MOTION: Clarissa Williams
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+Swearing In Ceremony
+   1. Swearing in of Newly Selected District 1 Council Member
+       City Recorder, Ariel Andrus, administered the Oath of Office to Joy Glad, who was
+       subsequently sworn in as a City Council Member.
+
+    2. Swearing in of Newly Selected District 5 Council Member
+       City Recorder, Ariel Andrus, administered the Oath of Office to Irvin Jones, who was
+       subsequently sworn in as a City Council Member.
+
+
+
+        Council Chair Bynum made a motion to Adjourn.
+
+
+MOTION: Sharla Bynum
+SECOND: Nick Mitchell
+
+Voice Vote:
+Bynum:            Yes
+Mitchell:         Yes
+deWolfe:          Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+
+
+                                               4
+South Salt Lake – Regular Council Meeting                           February 25, 2026
+
+
+       The meeting adjourned at 7:38 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            5

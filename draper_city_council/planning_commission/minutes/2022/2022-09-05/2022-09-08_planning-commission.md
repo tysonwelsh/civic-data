@@ -1,0 +1,278 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=622&doc_id=eecd31ab-b483-11ed-8145-0050569183fa
+> Meeting date: 2022-09-08
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURSDAY, SEPTEMBER 8, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PARTICIPATING:       Vice Chairman Craig Hawker, Commissioners Gary Ogden, DeLaina
+                     Tonks, Lisa Fowler, and Susan Nixon
+
+ABSENT:              Chairman Andrew Adams, Commissioners Tab Bingham, Mary Squire and
+                     Kendra Shirey
+
+STAFF PRESENT:       Fred Aegerter, Mike Barker, Jennifer Jastremsky, Todd Draper, Brien
+                     Maxfield, Spencer DuShane, Maryann Pickering, Connor Mangelson and
+                     Amie Salazar
+
+6:30 PM Business Meeting
+
+Vice Chairman Craig Hawker welcomed everyone to the meeting, he began the meeting at 6:30pm
+
+1. Action Item: Approve Planning Commission Meeting Minutes for August 25, 2022
+   (Administrative Action)
+
+   Commissioner Susan Nixon had some changes. No content was changed, just a number of
+   grammatical errors.
+
+   Motion: Commissioner DeLaina Tonks motioned to have the staff bring back the minutes
+   with the suggested minutes at a later date.
+
+   Second: Commissioner Susan Nixon
+
+   Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+   Fowler, Tonks, Nixon and Ogden voted, “Aye”.
+
+   Vice Chairman Hawker noted that anyone present for item number four on the agenda, the
+   applicant had withdrawn their application.
+
+2. Public Hearing: Lone Peak Business Park (Administrative Action)
+
+   On the request of David Driggs of Price Real Estate to amend various sections of the text of
+   the Lone Peak Commercial Special District (CSD-LP) to update and modify the zoning. West
+   of freeway detail of CSD Application: TEXTMAP-125-2021. Staff Contact is Maryann
+   Pickering, 801-576-6391, maryann.pickering@draperutah.gov.
+
+   Maryann Pickering, Planner III, reported on this request. The CSD was originally adopted in
+   2012. There have been some modifications done over the years. This is a request from the
+   applicant to update and modify their CSD. They are updating exhibits that were done in the
+   1990s. Ms. Pickering showed a sign location map. Ms. Pickering asked the applicant to label
+   the pylon monument on the plan so Draper City staff will know where the signage will be
+Draper City Planning Commission Meeting
+September 8, 2022
+Page 2
+
+   placed. An architectural art element of a shipping container has been proposed for installation
+   on the outside walls of the buildings.
+
+   Vice Chairman Hawker asked if the materials used for this will be an actual shipping
+   container or just be made to look like one.
+
+   Ms. Pickering stated it will be part of an actual shipping container.
+
+   Commissioner Nixon asked if there will be more than seven pylon signs.
+
+   Ms. Pickering responded that there will be three pylon signs, but if the applicant wanted to
+   add more in the future, the request was to be able to have up to seven signs.
+
+   Applicant David Driggs indicated on a site map where the pylon signs would be.
+
+   Commissioner Lisa Fowler asked which buildings would have the shipping containers on
+   them. Mr. David Driggs indicated on the site map which buildings would have the shipping
+   container art.
+
+   Vice Chairman Hawker opened the public hearing.
+   No comments were made.
+   Vice Chairman Hawker closed the public hearing.
+
+   Commissioner Nixon asked if the temporary A-frame signs were long or short term.
+   Jennifer Jastremsky stated there are no restrictions against having the signs, but that the A-
+   frame signage will need to be brought inside when the business is closed.
+
+   Commissioner Tonks asked how traffic would be affected in the area.
+
+   Brien Maxfield, Senior Engineering Manager, stated there will be no change to traffic related
+   to this application. The City is aware of existing problems on Lone Peak and is working on
+   them.
+
+   Motion: Commissioner Nixon moved to send a positive recommendation to the city
+   council for Price Real Estate to amend various sections of the text of the Lone Peak
+   Commercial Special District. Application TEXTMAP-125-2021. Based on the findings
+   and subject to the conditions listed in the staff report dated August 30, 2022.
+
+   Second: Commissioner Gary Ogden
+
+   Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+   Fowler, Tonks, Nixon and Ogden voted, “Aye”.
+
+3. Public Hearing: Price Real Estate Lot 10 Amendments (Legislative Action)
+Draper City Planning Commission Meeting
+September 8, 2022
+Page 3
+
+   On the request of David Driggs of Price Real Estate to amend the land use designation from
+   Community Commercial to Commercial Special District and rezone the property from CBP
+   (Business / Manufacturing Park. To CSD-LP (Lone Peak Commercial Special District) for the
+   property located at approximately 12251 S. Lone Peak Parkway. Applications: TEXTMAP-
+   177-2022 and TEXTMAP-117-2022. Staff Contact: Maryann Pickering, 801-576-6391,
+   maryann.pickering@draperutah.gov.
+
+   Ms. Pickering reported on these requests. The property is currently a vacant lot, the current
+   zoning is community commercial, and the applicant would like to change it to CSD. If the
+   rezone is approved, this property has the potential to be developed into a business park.
+
+   Applicant David Driggs had nothing additional to report.
+
+   Chairman Hawker opened the public hearing reminding anyone who would like to speak to
+   keep their comments and concerns to three minutes.
+
+   No comments were made.
+
+   Chairman Hawker closed the public hearing.
+
+   Commissioner Nixon asked if there was a site plan included in the staff report.
+
+   Ms. Pickering stated that the reference to a site plan was a mistake and that there was not a site
+   plan, as a site plan is not required for these applications.
+
+   Motion: Commissioner Ogden motioned to send a positive recommendation to the City
+   Council for the land use map as requested by David Driggs of Price Real Estate.
+   Application TEXTMAP-177-2022. Based on the findings and subject to the conditions
+   listed in the staff report dated August 30, 2022.
+
+   Second: Commissioner Fowler
+
+   Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+   Commissioners Ogden, Tonks, Fowler and Nixon voted, “Aye”.
+
+   Motion: Commissioner Fowler motioned to send a positive recommendation to the City
+   Council for the zoning map amendment requested by David Driggs of Price Real Estate.
+   Application TEXTMAP-117-2022. Based on the findings and subject to the conditions
+   listed in the staff reported dated August 30, 2022.
+
+   Second: Commissioner Tonks
+
+   Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+   Commissioners Ogden, Tonks, Fowler and Nixon voted, “Aye”.
+Draper City Planning Commission Meeting
+September 8, 2022
+Page 4
+
+4. Public Hearing: Academy Place Zoning Text Amendment (Legislative Action)
+   Vice Chairman Hawker stated the applicant withdrew this application.
+
+5. Public Hearing: City Initiated 2022 General Plan Amendment (Legislative Action)
+
+   On the request of Draper City, a General Plan Amendment regarding requirements for the
+   Moderate Income Housing Plan components within the plan, city wide applicability, known as
+   application TEXTMAP-0174-2022. Staff contact: Todd A. Draper, (801) 576-6335,
+   todd.draper@draperutah.gov.
+
+   Todd Draper, Planner III, presented the information on this project. The State of Utah has
+   preselected a list of strategies for all cities and towns. Draper City must adopt five or six of
+   these strategies. Staff is requested a recommendation be made to the Draper City Council so
+   that they may adopt required changes to the General Plan before October 1st to be compliant
+   with the State statutes. Mr. Draper reported that the city has reached out to the public through
+   the City webpage and newsletter, for feedback.
+
+   Mr. Draper restated, for the benefit of the public in attendance that may or not be aware,
+   moderate income housing is defined as a housing occupied or reserved for the occupancy by
+   households with a gross income equal to or less than 80% of the gross Area Median Income
+   (AMI).
+
+   Mr. Draper presented the strategies selected and proposed implementation plans for inclusion
+   in the General Plan by the Planning Commission. These were:
+
+   (E) Create or allow for and reduce regulations related to internal or detached accessory
+   dwelling units in residential zones.
+   Mr. Draper stated that the implementation plan would include to possible text amendments in
+   2023, and a re-evaluation again in 2027.
+
+    (F) Zone or rezone for higher density or moderate income residential development in
+   commercial or mixed-use zones near major transit investment corridors, commercial centers,
+   or employment centers.
+   Implementation would begin in 2024. Mr. Draper stated that a good point to start implementing
+   strategy F will be to implement the Town Center Station Area Plan once it is completed, and
+   continue through 2025. Implementation would include amending the zoning map if necessary.
+
+   (G) Amend land use regulations to allow for higher density or new moderate income residential
+   development in commercial or mixed-use zones near major transit investment corridors.
+   Mr. Draper stated that the proposed implementation could begin in 2023 by evaluating the
+   major transit corridors and evaluating the feasibility for adjustments to existing mixed-use
+   zones, or the creation of a new mixed-use zone. Implementation would be proposed to continue
+   into 2024 and 2025 through possible amendments to the zoning ordinance text.
+Draper City Planning Commission Meeting
+September 8, 2022
+Page 5
+
+(J) Implement zoning incentives for moderate income units in new developments. Mr. Draper
+stated that the city would first need to initiate a study to determine if there are incentives that would
+work for the Draper area. He indicated that this would be proposed to occur in 2026 with
+implementation of any recommendations of the study taking place in 2027.
+
+(O) Apply for or partner with an entity that applies for state or federal funds or tax incentives to
+promote the construction of moderate income housing, and entity that applies for programs offered
+by the Utah Housing Corporation within that agency’s funding capacity an entity that applies for
+affordable housing programs administered by the Department of Workforce Services, an entity
+that applies for affordable housing programs administered by an association of governments
+established by an Interlocal agreement under Title 11, Chapter 13, Interlocal Cooperation Act, an
+entity that applies for services provided by a public housing authority to preserve and create
+moderate income housing, or any other entity that applies for programs or services that promote
+the construction of preservation of moderate income housing. This one is ongoing for the city.
+
+Mr. Draper stated that this strategy is currently implemented by the City with the pooling together
+of CDBG funds with Salt Lake County and other cities in the county. Besides some of the funds
+being available to help construct new moderate income housing, some of the funds help with
+housing repairs for low-income households which would meet the intent of preserving moderate
+income housing. The proposed implementation plan is for the City to continue to participate as
+they have in the past.
+
+(V) Develop and adopt a station area plan in accordance with section 10-9-403.1. Complete and
+adopt town center station area plan.
+
+Mr. Draper reminded the Planning Commission that this was a required strategy for inclusion. He
+stated all Station Area Plans must be completed by the end of 2025 and that the City may apply
+for waivers from completing plans for the Kimballs Lane Station and 11400 S Station as both areas
+are mostly built out and the majority of the undeveloped area is in greenbelt and a plan change
+may have implications to the tax status of the farmland, and that a plan may not be warranted at
+this time.
+
+Mr. Draper indicated that alternative strategies and implementation plans were included in the staff
+report. They were included just in case the Planning Commission wished to recommend one of
+them to the City Council rather than one of the selected strategies.
+
+Chairman Hawker opened the public hearing and mentioned that they did receive some public
+comment by email, he reminded anyone making a public comment to keep them to three minutes.
+
+Paul Glauser, citizen, stated that people don't like the sound of moderate income housing, because
+of the bad reputation it has for being of poor quality construction and unmaintained. Mr. Glauser
+stated possible ways for these bad reputations to be overcome would be to keep housing the
+affordable by long term by contractual arrangements, protect against poor quality, assure good
+   Draper City Planning Commission Meeting
+   September 8, 2022
+   Page 6
+
+   maintenance and management, and by putting some kind of enforcement mechanism into the
+   ordinance to ensure maintenance happens.
+
+   Chairman Hawker closed the public hearing.
+
+   Chairman Hawker stated this was great and he thanked the staff for the time they put into this
+   presentation, and information.
+
+   Commissioner Fowler stated that the proposed strategies in the plan document would not cause
+   the problems Mr. Glauser is concerned about. She felt that some of the alternative strategies might.
+
+   Chairman Hawker asked about the penalties if the City does not adopt these new strategies.
+
+   Ms. Jastremsky stated that the City would lose transportation funding if the General Plan was not
+   updated to the revised strategy list.
+
+   Mr. Draper Clarified that adoption five strategies is required to receive the transportation funding,
+   but that the City would receive priority status for the transportation funding if six were adopted,
+   and that is why six are included.
+
+   Motion: Commissioner Fowler motioned to send a positive recommendation to the City
+   Council for the 2022 General Plan Amendment regarding requirements for the Moderate
+   Income Housing Plans Requested by Draper City. Application TEXTMAP-0174-2022. Based
+   on the findings and subject to conditions listed in the staff report dated September 1, 2022.
+
+   Second: Commissioner Tonks
+
+   Vote: A roll call was taken with the Commissioners voting 4-0 in favor of the motion.
+   Commissioners Fowler, Tonks, Nixon and Ogden voted, “Aye”.
+
+6. Adjournment: Commissioner Ogden made a motion to adjourn. The meeting was adjourned
+   at 7:31 p.m.
+

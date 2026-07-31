@@ -1,0 +1,499 @@
+# Planning Commission Meeting — 2021-03-16
+> Source: http://cityofholladay.com/file/2021/05/031621-PC-Mtg.pdf (former city WordPress site cityofholladay.com; these minutes were never posted to PMN body 389)
+> Wayback snapshot: https://web.archive.org/web/20211201002237id_/http://cityofholladay.com/file/2021/05/031621-PC-Mtg.pdf
+> Meeting date: 2021-03-16
+> Public body: PlanningCommission (PMN body 389 — agenda/packet-only there for this date)
+> Retrieved: 2026-07-14 via the Wayback Machine; promoted from pmn_backfill/ on 2026-07-16
+
+---
+
+                         MINUTES OF THE CITY OF HOLLADAY
+                          PLANNING COMMISSION MEETING
+
+                                  Tuesday, March 16, 2021
+                                         6:00 p.m.
+                           Meeting Conducted via Electronic Means
+
+ATTENDANCE:
+
+Planning Commission Members:                        City Staff:
+Jan Bradshaw, Chair                                 Jonathan Teerlink, Planning Manager
+Martin Banks                                        Stephanie Carlson, City Recorder
+Chris Layton                                        Brad Christopherson, City Attorney
+Howard Layton
+Alyssa Lloyd
+Ann Mackin
+Marianne Ricks
+
+WORK SESSION
+Chair Jan Bradshaw called the meeting to order at 5:30 p.m. The agenda items were reviewed and
+discussed.
+
+Planning Manager, Jonathan Teerlink, reported on the dog boarding use and stated that an existing
+retail salon is requesting an ancillary use, which is conditional, for overnight boarding. The C-1
+and C-2 zones designate the land use as allowable but with conditions. The Planning Commission
+is the land use authority and conditions can be applied as needed or required to mitigate potential
+negative impacts. One public comment was received by staff via email. In response to a question
+raised, Mr. Teerlink stated that the site will be monitored by remote cameras after hours.
+
+Commissioner Banks commented that the boarding is shown in the back of the building and
+appears to be a small space. He asked if there are industry standards that dictate what kind of
+space per animal is appropriate. Mr. Teerlink was not aware of any space requirements. The
+applicant indicated that he can accommodate up to 10 dogs overnight with five to begin with.
+
+Commissioner Lloyd recalled that with the previous Dogtopia request, sound barriers and other
+accommodations were required. Mr. Teerlink stated that those types of conditions can be imposed
+if deemed warranted by the Commission. Commissioner Lloyd felt that anytime there are multiple
+dogs kept overnight there is the potential for a significant amount of noise. Commissioner Ricks
+suggested adding verbiage that the use be reviewed upon complaint. She would not want the
+applicant to go the expense if there are no complaints. Commissioner Lloyd disagreed and
+preferred to be proactive rather than reactive.
+
+The Kershaw Office Building request was next addressed. Mr. Teerlink stated that the applicant
+remitted a new set of civil plans that addressed comments raised previously by the Commission.
+The action tonight involves a preliminary site plan that requires civil and development site work
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                1
+for an office building in the Neighborhood Commercial Zone, which was granted as a rezone about
+one year ago. Any new building in the Neighborhood Commercial Zone will have detailed design
+and landscaping and requires review and approval from the Planning Commission. For the civil
+site work, staff was comfortable recommending preliminary site plan approval and for final
+approval to be deferred to staff.
+
+Mr. Teerlink stated that with regard to design, there are two options for an applicant. One involves
+selecting a material that is on the list for the Neighborhood Commercial Zone or materials. The
+other option was to choose a style or design that is acceptable to the Planning Commission.
+Commissioner Chris Layton commented that an architect should not be impacted simply because
+the choice of materials in the City requirements are not up to speed. He stated that there are
+excellent metal materials that are sophisticated, modern, stylish, and contemporary. His
+understanding was that what was provided is an example of what they want the building to look
+like and is not a rendering of the actual building.
+
+Mr. Teerlink explained that the Commission will be approving the design and some elevations
+were provided in the packet. The proposed building materials were reviewed and discussed.
+Commissioner Chris Layton thought it was fair for the Commission to want to see samples and
+renderings of the finished product.
+
+The Royal Holladay Hills Phase 2 preliminary final plat was next presented. Mr. Teerlink
+explained that as with any subdivision, there are three steps for approval consisting of concept,
+preliminary, and final. Royal Holladay Hills went through a concept subdivision plat last year and
+the concept for Blocks A through L were approved. Earlier this year and late last year they
+recorded Phase 1, which was a focused plat consisting of Blocks C, B, and D. The applicant had
+since decided to plat the entire 56 acres according to the Site Development Master Plan (“SDMP”).
+
+Comments were received from City Engineer, Jared Kemp, that the applicant’s engineer responded
+to. The majority of the comments had been addressed. There was a request that when individual
+sites come back through the subdivision plat for critical condominium plats, that dedication areas
+be clarified. Mr. Teerlink reported that Block D was platted in March of 2020 and the applicant
+came back for site plan approval, which requires another level of review showing the location of
+the building, what the sidewalks will look like, and the access points. Block D will be seen again
+when the building gets more vertical and is placed where ownership will take place.
+
+Commissioner Lloyd moved to adjourn the Work Session. Commissioner Banks seconded the
+motion. The motion passed with the unanimous consent of the Commission.
+
+CONVENE ELECTRONIC MEETING – Public Welcome and Chair Opening Statement.
+Chair Jan Bradshaw called the Regular Meeting to order at 6:01 p.m.
+
+Chair Bradshaw read the Commission Statement in addition to a statement regarding an Executive
+Order issued by Governor Herbert suspending the enforcement of provisions of Utah Code 52-4-
+202 and 52-4-207. Due to the infectious nature of the COVID-19, the Planning Commission of
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                 2
+the City of Holladay will hold their regularly scheduled meeting by electronic means, with no
+physical location.
+
+PUBLIC HEARING
+1.      Conditional Use – Dog Boarding/Kennel “All the Raige Dog Salon: - 4000 South 2700
+        East (C-1 Zone). Review an Application from Trevin Moore for a Dog Boarding
+        Permit at this Existing Business as Per Ordinance §13.08.040. File #21-2-03.
+Planning Manager, Jonathan Teerlink presented the staff report and stated that the request is a
+conditional use for retail space. The Planning Commission in this case is the approving body for
+the application. He explained that dog boarding kennels are allowed uses in the C-1 and C-2 zones.
+Conditions can be applied to mitigate negative impacts. An addendum to the staff report was
+submitted with one emailed public comment from a nearby neighbor.
+
+The applicant, Trevin Moore, stated that they are expanding the business, which is currently a
+grooming salon. They would like to include additional services including daycare, retail, a self-
+dog wash, and boarding. He provided plans showing the location of the kenneling area. They will
+start with a capacity of five animals with room for 10 over time. He noted that they will be moving
+to an adjacent location.
+
+Commissioner Lloyd asked if any enhancements will be made to the new space to mitigate noise.
+Mr. Moore stated that they will specifically be addressing that issue with their adjacent neighbor
+and putting up soundproofing along the entire shared wall. Commissioner Lloyd expressed
+concern about the neighbors behind the use as well. Mr. Moore explained that the kenneling will
+take place on the north side of the building, which is on the backside of the plaza. With regard to
+the tenants of the apartments to the west, they will do what they can to mitigate barking recognizing
+that it could be an issue. Staff will be on site until about 6:00 p.m. A camera system will be
+installed to monitor the animals after hours.
+
+Commissioner Chris Layton asked if the dogs will be taken outside. Mr. Moore stated that to
+eliminate the need to take the dogs outside, they built an indoor daycare area with a play area
+inside. There will be a grassy area that allows moisture to pass through to a flushing system. The
+non-porous material will remain on top. The solid waste will be disposed of in a commercial
+dumpster on the northeast corner of the parking lot. The dumpster will be sealed and locked at all
+times, which should help eliminate any odors. The waste will be enclosed in a bag and then placed
+inside the dumpster. In response to a question raised, Mr. Teerlink stated that if smell becomes a
+nuisance as determined by the Code Enforcement Officer, the matter will be remanded back to the
+Planning Commission.
+
+Chair Bradshaw opened the public hearing. There were no public comments.
+
+Commissioner Chris Layton was pleased that Mr. Moore’s business is in the neighborhood and
+stated that many people use and need his services throughout the year.
+
+Commissioner Ricks was comfortable with what is proposed but clarified that approval is subject
+to review upon complaint.
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                 3
+Commissioner Lloyd suggested that additional conditions be added to address soundproofing and
+the disposal of waste. Efforts should be made to minimize the ramifications of waste on neighbors.
+She was pleased that the business is in the City of Holladay and wanted to make sure that it is
+successful and that the neighbors are happy.
+
+Commissioner Banks asked how the number of kennels was arrived at. Mr. Moore stated that it
+was based on experience. They wanted to be able to provide as much room as possible for their
+guests. More small kennels could have been accommodated but it would not have been as
+desirable. The kennels are roughly five feet wide and six feet deep. Mr. Moore indicated that
+there have been no complaints about odor. They have done soundproofing in their current location
+to control barking issues. The same will be done at the new facility. Any complaints about noise
+have been from their commercial neighbors.
+
+Commissioner Howard Layton asked who would determine what is adequate soundproofing.
+Commissioner Lloyd did not think it was necessary to be specific but stated that it is incumbent
+upon the applicant to address it adequately to control noise. Mr. Teerlink stated that the
+Commission could ask that a permit be pulled for an inspection of the soundproofing at no cost to
+the applicant.
+
+Chair Bradshaw closed the public hearing.
+
+Commissioner Howard Layton moved to recommend approval of the conditional use regarding
+All the Raige Dog Salon submitted by Trevin Moore, located at 4000 South 2700 East subject to
+the following:
+
+Conditions:
+       1.      Submittal of a remodel permit and approved to verify space sanitation and
+               monitoring/observation efforts described in the narrative.
+
+       2.      Submittal to the City of any required licenses from outside agencies (health,
+               sanitation, etc.) in conjunction with obtaining a Holladay business license.
+
+       3.      No drop off/deliveries before 6:00am or after10:00pm.
+
+       4.      Maximum of 10 overnight boarding
+
+       5.      The use approval is subject to review, revocation, or modification upon
+               noncompliance with maintaining a low impact operation as outlined in the
+               application narrative, and/or non-compliance with Section 13.08.040.
+
+       6.      Soundproofing shall be adequate to mitigate adjacent noise to adjacent tenants.
+
+       7.      A no-fee courtesy permit shall be required with soundproofing to be verified by
+               the Building Department.
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                4
+Commissioner Banks seconded the motion. Vote on motion: Commissioner Chris Layton-Aye,
+Commissioner Ricks-Aye, Commissioner Mackin-Aye, Commissioner Lloyd-Aye,
+Commissioner Howard Layton-Aye, Commissioner Banks-Aye, Chair Bradshaw-Aye. The
+motion passed unanimously.
+
+ACTION ITEMS
+2.      “Kershaw Office Building” – Preliminary/Final Site Plan – 5305 South Highland
+        Drive (NC Zone).
+Mr. Teerlink reported that the above matter is an administrative procedural item with the Planning
+Commission being the land use authority for site plans in the Neighborhood Commercial Zone.
+Previously, the site was rezoned from Public to Neighborhood Commercial (“NC”) in favor of an
+office building that was proposed on the southernmost end of the site. The Planning Commission
+issued conditional approval for a concept site plan in April 2020. At that time, several items were
+noted by the Planning Commission that were required to be reviewed by staff and readdressed by
+the Planning Commission upon submittal of the preliminary site plan. The applicant made those
+corrections and submitted civil drawings for an office building in the NC zone. Staff reviewed the
+proposed site plan in relation to the concept site plan and civil requirements from the City
+Engineer. An addendum was made to the staff report addressing comments received. He
+explained that Neighborhood Commercial allows for a retail use near residential and design is one
+of the key elements. Traditional materials are expected, however, the list is not exhaustive.
+
+Mr. Teerlink explained that one of the staff report elements addresses construction materials. The
+Code specifies that if the Planning Commission finds that the material is in harmony with the
+overall design, architecture, and theme of the project, it can be allowed. Another issue involved
+the dedication of 5290 South. It was the presumption that 5290 South is a public road. The
+applicant approached Salt Lake County who verified that it was never intended to be public. He
+explained that an easement that has been perpetually used across the property to access the homes
+further to the east can remain in place and no dedication is required. However, dedication of
+Highland Drive is required with improvements to be relocated. The applicant has reviewed the
+relocation improvements. Highland Drive has full improvements, however, due in part to a
+widening project, the applicant will be required to relocate the sidewalk to allow for a turn lane on
+Highland Drive. The site plan includes those improvements and should be reviewed and approved
+as such. The applicant emailed images to update the Commission on what is proposed. It was
+clarified that the preliminary site plan includes the design elements.
+
+The applicant, Kasey Kershaw, was present and gave his address as 4929 South Cottonwood Lane.
+
+Commissioner Chris Layton expressed concern with the images provided of a building that does
+not look much like the building design shown on the elevations. He also referenced the metal
+panels and stated that there is a wide array of quality, sophistication, and aesthetic levels. He
+hoped to have more specifics on the metal panel such as the colors. He stated that there is a lot of
+information that is lacking with respect to how the building will look other than the elevations.
+
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                 5
+Mr. Kershaw stated that he had not yet decided on the exact materials but the look, feel, and color
+was reflected on the rendering provided. He plans to run his business from the building for years
+to come and wants it to be done properly. He intends to use very high-quality materials. Chair
+Bradshaw stated that normally the Commission is provided with a design board showing the
+materials to be used. She commented that it is difficult for the Commission to approve a design if
+they do not know what materials are to be used.
+
+Mr. Kershaw was informed at the time of preliminary approval that it was suggested but not
+required that they get feedback on the design. He was open to receiving feedback but it did not
+seem to be mandatory. Mr. Teerlink stated that notes were made of the Technical Review
+Committee’s (“TRC”) first review of the project where the suggestion was made that the Design
+Review Board (“DRB”) review the request. It is not required but is recommended. In the Code,
+however, the design of a building can be approved by the Planning Commission based on a set of
+materials and a strong architectural theme. He noted that the Planning Commission is the sole
+approving body for design. He stressed that the DRB has no purview over the NC zone.
+
+Chair Bradshaw stated that strong feelings were expressed during the Work Session that the
+Commission would like to see detail on the building materials. Renderings of potential building
+materials were described. Mr. Kershaw stated that his intent was to replicate the look at feel of
+the building at the Gallivan Center. Commissioner Chris Layton stated that the challenge is that
+there are very inexpensive systems that are poorly contrived that could also be considered a metal
+panel system. He asked that the Commission be provided with more specific materials.
+
+Mr. Kershaw stated that his intent is not to have a building that looks like another. He wanted to
+do a unique version with two stories. He stated that what makes a difference is the landscaping.
+He noted that he intends to invest in the landscaping and make it attractive.
+
+Commissioner Chris Layton applauded Mr. Kershaw for his efforts to make this a viable project
+but stated that if the Commission is supposed to approve the design of the building they need to
+see specifics. Mr. Kershaw did not have specifics on the exact materials but gave an idea of what
+the landscaping will look like. The intent of the main level was proposed to be concrete with a tie-
+in to the planter boxes. The second level will be a similar dark color to the building in Sugarhouse
+and the Gallivan Center. The renderings addressed at the Work Session were displayed.
+
+Commissioner Ricks described various options. One was to approve the preliminary site plan and
+ask that a sample board be made available. The applicant would then come back to the Planning
+Commission to present the actual samples and materials. Another option was to continue the
+matter to allow the applicant time to prepare the materials board at which time they will grant
+preliminary approval with final approval deferred to staff. She was comfortable with either option
+as long as they are clear that they wish to see the buildings and more complete materials. Chair
+Bradshaw suggested that preliminary approval be granted tonight with a materials board to be
+provided at the time of final approval.
+
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                 6
+Commissioner Mackin moved to approve the preliminary site plan for the IDI Real Estate Law
+Office at 5305 Highland Drive in the Neighborhood Commercial (“NC”) Zone subject to the
+following:
+
+Conditions:
+       1.      5290 South has been verified as a private road and there will be no dedication
+               required. The dedication of Highland Drive will require the relocation of a
+               sidewalk.
+
+       2.      Final site plan approval will come back to the Planning Commission with the
+               design board materials and renderings.
+
+Commissioner Lloyd seconded the motion. Vote on motion: Commissioner Chris Layton-Aye,
+Commissioner Ricks-Aye, Commissioner Mackin-Aye, Commissioner Lloyd-Aye,
+Commissioner Howard Layton-Aye, Commissioner Banks-Aye, Chair Bradshaw-Aye. The
+motion passed unanimously.
+
+Mr. Kershaw asked if there were any objections to him clearing some of the trees on the site. Chair
+Bradshaw stated that that typically comes with the Building Permit. Mr. Teerlink suggested that
+he apply for a Grading Permit subject to preliminary site plan approval. He stated that the removal
+of trees is subject to the Landscaping Plan approved by the Planning Commission tonight.
+
+3.      “Royal Holladay Hills, Phase 2” – Preliminary/Final Plat – 4835 South Highland
+        Drive – (R-M/U Zone, SDMP). Review of the Second and Final Subdivision Plat
+        Phase of Site Development to Include the Remaining Lots E thru L as Per Ordinance
+        §13.08.030.
+Mr. Teerlink reported that the Planning Commission is the land use authority for the above
+administrative procedural approval. Conceptual approval was granted for Lots A through L for
+Royal Holladay Hills Subdivision Plat in accordance with the 2007 SDMP. Last year, the applicant
+came before the Planning Commission for review and approval of the Phase 1 Subdivision, which
+included Blocks, B, C, and D. The intent was to come back periodically to the Planning
+Commission with subsequent phases to approve the remaining blocks for the 57-acre site. The
+applicant was now requesting full approval of Lots A through L. Staff reviewed the civil site
+development for the road construction and utility work to service the area. The Planning
+Commission was provided with a Dropbox link to the civil drawings. The City Engineer did not
+object to the Planning Commission granting the preliminary site plan and plat tonight and
+delegating final subdivision plat to staff with one condition. It was noted the dedication of
+curvatures on the extreme corners of the site. The City Engineer would prefer that rather than have
+such a sharp dedication, that the radius camfer be included in subsequent subdivision plats. Staff
+recommended approval with final plat delegated to staff.
+
+The applicant was represented by Kathy Olson, Woodbury Corporation’s Director of
+Development. She gave her address as 2733 East Parleys Way, Suite 300. Kris Longson gave his
+address as 4954 Fairview Drive in Holladay. Mr. Longson stated that the materials provided lay
+out the blocks in accordance with the SDMP and the overall plat. What was presented lays out the
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                7
+rest of the site in accordance with the lots that were planned in the SDMP for the overall plat. As
+they develop each block, they can be further subdivided.
+
+Commissioner Ricks recalled that previously Block A was a parking lot and there was concern
+about it being on such a prominent corner. Mr. Longson stated that no design was done for any of
+the other blocks. The only thing they have designed to date with buildings is Block D. Block A
+is in the same open zone, which has specific allowed uses. Whatever is proposed will come back
+to the Planning Commission for specific site plan approvals. The area that surrounds Block A was
+required in an agreement between the property owner and Macy’s to keep the area open so that
+Macy’s could be seen from the street. That situation no longer exists and the space no longer has
+to be a parking lot.
+
+Commissioner Ricks moved to approve the Preliminary Plat for Royal Holladay Hills Phase 2
+at 4835 South Highland Drive subject to the following:
+
+Findings:
+      1.       Finalized block layout and road network comply in size and dimensions as per
+               original conceptual approvals.
+
+       2.      Protection area for Big Cottonwood creek complies with original 2006 stream
+               setback exception approval.
+
+       3.      The City TRC finds that the preliminary plat requirements are sufficiently and
+               substantially met and comply with the submission requirements for a subdivision
+               within the SDMP and the RM-U Zone.
+
+Conditions:
+       1.      Make appropriate formatting, grammatical, and addressing changes to the final
+               plats as per the TRC review. These changes include items such as inclusion of
+               labeling, and corrections to some civil storm drainage and road design comments
+               as per subsequent discussions with the developer team;
+
+               a.     All improvements are private.
+
+               b.     Road cross-section width from the face of curb to face of curb at 36 feet.
+                      The design approved in the SDMP is 38 feet. City Planning to confirm
+                      36-foot wide road is acceptable.
+
+               c.     Road crown is in a travel lane, not centered between opposing traffic
+                      lanes.
+
+               d.     Sheet C100: Add phase line between 1 and 2 and label.
+
+               e.     Sheet C322: Minimum roadway slope allowed is 0.50%.
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                8
+               f.      Sheet U325: Storm drain cover looks too shallow when compared to curb
+                       elevation (not crown).
+
+               g.      Sheet U325: Storm drain ends. Will this be extended? Call out cap for the
+                       temporary condition?
+
+               h.      Fire Marshall to review hydrant spacing.
+
+               i.      On sheets that refer to drawings in Phase 1, add ‘’PHASE 1”.
+
+       2.      Final approval shall be delegated to staff.
+
+Commissioner Mackin seconded the motion. Vote on motion: Commissioner Chris Layton-
+Aye, Commissioner Ricks-Aye, Commissioner Mackin-Aye, Commissioner Lloyd-Aye,
+Commissioner Howard Layton-Aye, Commissioner Banks-Aye, Chair Bradshaw-Aye. The
+motion passed unanimously.
+
+4.     Approval of Minutes – 2/9/2021.
+Commissioner Ricks moved to approve the minutes of February 9, 2021, with the corrections as
+noted. Commissioner Mackin seconded the motion. Vote on motion: Commissioner Chris
+Layton-Aye, Commissioner Ricks-Aye, Commissioner Mackin-Aye, Commissioner Lloyd-Aye,
+Commissioner Howard Layton-Abstained, Commissioner Banks-Aye, Chair Bradshaw-Aye.
+The motion passed unanimously with one abstention.
+
+DISCUSSION
+5.      Meeting Procedures – Potential Meeting Adjustments in Anticipation of a Return to
+        In-Person Meetings with a City Hall Anchor Point.
+Mr. Teerlink indicated that the City Council asked him to query the Planning Commission on a
+potential plan to return to in-person meetings. Mayor Dahle proposed that within the next one to
+two months that an anchor point be established at City Hall. If that occurs, at least two members
+of the Planning Commission would need to attend at the anchor location. The remaining Planning
+Commission Members could still participate via Zoom. The room was being equipped with a new
+camera system that will record meetings and broadcast them live. The Mayor invited feedback
+from the Commission as to when they would feel comfortable returning to in-person meetings.
+
+City Recorder, Stephanie Carlson, stated that the City Council is amenable to resuming in-person
+meetings beginning the first meeting in May. It does, however, depend on what happens after
+April 10. Chair Bradshaw stated that because of the change on April 10 they may have to hold the
+second April meeting in an anchor location rather than wait until May. City Attorney, Brad
+Christopherson, reported that the Legislature passed a statute that rescinded the mask mandate. It
+was veto-proof and removed that authority from the governor. As of April 10, the mask mandate
+across the state will be lifted. The current thinking is that meetings after April 10 will need to have
+an anchor location. Most cities are opting to broadcast meetings via Zoom or live stream going
+forward to allow for greater participation from the public.
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                                  9
+Commissioner Lloyd was comfortable attending in-person meetings starting late April. Her
+preference was to begin in May. Commissioner Ricks was comfortable meeting on April 20 in
+person since she will be fully vaccinated. Commissioner Mackin was to be fully vaccinated in late
+March but preferred to wait until May to resume in-person meetings. Commissioner Chris Layton
+did not object to meeting in-person immediately as he could wear face coverings and be safely
+distanced. Commissioner Banks preferred to wait until May to begin in-person meetings.
+Commissioner Howard Layton was prepared to resume in-person meetings immediately. Chair
+Bradshaw stated that she will be fully vaccinated by April 20 and was prepared to resume in-person
+meetings. In all, four members of the Planning Commission were prepared to meet at the anchor
+location in April, if necessary.
+
+The April 6 meeting was to be held via Zoom. On April 20, Commissioners Ricks, Howard
+Layton, Chris Layton, and Chair Bradshaw were to meet at the anchor location. Commissioners
+Lloyd, Mackin, and Banks were expected to join the in-person meetings in May.
+
+ADJOURN
+Commissioner Howard Layton moved to adjourn. The motion passed with the unanimous
+consent of the Commission.
+
+The Planning Commission Meeting adjourned at approximately 7:30 p.m.
+
+
+
+I hereby certify that the foregoing represents a true, accurate, and complete record of the City
+of Holladay Planning Commission Meeting held Tuesday, March 16, 2021.
+
+
+Teri Forbes
+Teri Forbes
+T Forbes Group
+Minutes Secretary
+
+
+
+Minutes Approved: April 6th 2021
+
+
+
+
+City of Holladay Planning Commission Meeting –03/16/2021
+
+                                               10
+

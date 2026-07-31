@@ -1,0 +1,30 @@
+{
+  "contributions": [
+    {"date": "10/04/2025", "name": "Caytlin Iddison", "amount": "50.00", "in_kind": false},
+    {"date": "10/13/2025", "name": "Ray Deihl", "amount": "100.00", "in_kind": false},
+    {"date": "10/13/2025", "name": "Turner Bitton", "amount": "50.00", "in_kind": false},
+    {"date": "10/16/2025", "name": "Gina Eborn", "amount": "25.00", "in_kind": false},
+    {"date": "10/24/2025", "name": "Stewardship Utah PAC", "amount": "500.00", "in_kind": false},
+    {"date": "10/07/2025", "name": "Jared Eborn - Loan", "amount": "750.00", "in_kind": false},
+    {"date": null, "name": "Salt Lake Board of Realtors", "amount": "4,500.00", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Meals for Volunteers", "purpose": null, "amount": "50.00", "in_kind": false},
+    {"date": null, "recipient": "Meals for Volunteers", "purpose": null, "amount": "47.00", "in_kind": false},
+    {"date": null, "recipient": "Apollo Political - Meta Ads", "purpose": null, "amount": "750.00", "in_kind": false}
+  ],
+  "total_contributions": "1,475.00",
+  "total_expenditures": "847.00",
+  "contributions_50_or_less": "0",
+  "beginning_balance": "204.77",
+  "ending_balance": "832",
+  "_meta": {
+    "index_path": "raw/202510_Jared-Michael-Eborn_17262.pdf",
+    "candidate": "Jared Michael Eborn",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202510_Jared-Michael-Eborn_17262.pdf",
+    "pages": 5
+  }
+}

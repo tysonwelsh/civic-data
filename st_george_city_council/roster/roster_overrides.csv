@@ -1,0 +1,10 @@
+# roster_overrides.csv — hand corrections applied LAST (win ties), keyed (seat_id, person_key, start_date).
+# DERIVED-layer discipline: never hand-edit council_terms.csv; put every correction here and re-run build_roster.py.
+# Columns match council_terms.csv (only non-empty cells are applied). Blank cells are ignored (do NOT blank a field).
+#
+# RETIRED 2026-07-11 — 0 data rows. The sole former row (Randall AL-B1 council vote-bound de-smear) is no
+# longer needed: roster_lib now CLAMPS first_vote/last_vote to each tenure's own [start,end) window
+# (clamp_vote_bounds), so Randall's AL-B1 council tenure [2018-01-01, 2021-01-21) naturally EXCLUDES her
+# 2025-02-20 mayoral tie-break and yields last_vote=2021-01-19 with no override (verified: clamp alone
+# reproduces it). Header-only by design.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

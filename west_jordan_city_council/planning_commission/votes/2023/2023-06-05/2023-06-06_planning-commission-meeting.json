@@ -1,0 +1,45 @@
+{
+ "date": "2023-06-06",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2023/2023-06-05/2023-06-06_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes from May 16, 2023",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "5:0 Pass",
+   "mover": "Jay Thomas",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch",
+    "George Winn"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve the Preliminary Major Subdivision for Welby West 63 lots on approximately 11.54 acres located at 4800 West 9000 South as presented in the staff report",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_final_action",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Jay Thomas",
+   "seconder": "Matt Quinney",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Trish Hatch",
+    "George Winn"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

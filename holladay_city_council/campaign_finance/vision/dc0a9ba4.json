@@ -1,0 +1,133 @@
+{
+  "contributions": [
+    {
+      "date": "7/24/25",
+      "name": "Bailee Jones",
+      "amount": "25",
+      "in_kind": false
+    },
+    {
+      "date": "7/28/25",
+      "name": "Kelly Jones",
+      "amount": "100",
+      "in_kind": false
+    },
+    {
+      "date": "7/30/25",
+      "name": "Missy Voinovich",
+      "amount": "100",
+      "in_kind": false
+    },
+    {
+      "date": "7/31/25",
+      "name": "Kristin Hutchins",
+      "amount": "25",
+      "in_kind": false
+    },
+    {
+      "date": "8/16/25",
+      "name": "Christine Bangerter",
+      "amount": "100",
+      "in_kind": false
+    },
+    {
+      "date": "8/19/25",
+      "name": "Brenden Stuart",
+      "amount": "100",
+      "in_kind": false
+    },
+    {
+      "date": "10/6/25",
+      "name": "Doug Cannon",
+      "amount": "50",
+      "in_kind": false
+    },
+    {
+      "date": "7/22/25",
+      "name": "Deborah Saunders",
+      "amount": "500",
+      "in_kind": false
+    },
+    {
+      "date": "7/8/25",
+      "name": "Robert Mansfield",
+      "amount": "250",
+      "in_kind": false
+    },
+    {
+      "date": "7/11/25",
+      "name": "Nancy Jacobson",
+      "amount": "50",
+      "in_kind": false
+    },
+    {
+      "date": "7/14/25",
+      "name": "Justin Huff",
+      "amount": "100",
+      "in_kind": false
+    },
+    {
+      "date": "7/24/25",
+      "name": "Tracy Kapple",
+      "amount": "200",
+      "in_kind": false
+    },
+    {
+      "date": "8/19/25",
+      "name": "Troy Keller",
+      "amount": "300",
+      "in_kind": false
+    },
+    {
+      "date": "8/19/25",
+      "name": "Brooke Johnson",
+      "amount": "50",
+      "in_kind": false
+    }
+  ],
+  "expenditures": [
+    {
+      "date": null,
+      "recipient": "Holladay City (Filing Fee)",
+      "purpose": null,
+      "amount": "50.00",
+      "in_kind": false
+    },
+    {
+      "date": "8/22/25",
+      "recipient": "Current Promotions (T Shirts)",
+      "purpose": null,
+      "amount": "185.40",
+      "in_kind": false
+    },
+    {
+      "date": "8/22/25",
+      "recipient": "Current Promotions (Yard Signs)",
+      "purpose": null,
+      "amount": "458.43",
+      "in_kind": false
+    },
+    {
+      "date": "10/7/25",
+      "recipient": "Current Promotions (Flyers)",
+      "purpose": null,
+      "amount": "346.08",
+      "in_kind": false
+    }
+  ],
+  "total_contributions": "1750",
+  "total_expenditures": "989.91",
+  "contributions_50_or_less": "200",
+  "beginning_balance": null,
+  "ending_balance": "960.09",
+  "_meta": {
+    "index_path": "raw/2025_city_jones-oct2025.pdf",
+    "candidate": "Bailee Jones",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_jones-oct2025.pdf",
+    "pages": 3,
+    "transcription": "born-digital text layer (pdftotext -layout), 2026-07-17 cf-structuring"
+  }
+}

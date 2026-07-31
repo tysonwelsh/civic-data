@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": "06/01/2023", "name": "Jared Henderson", "amount": "25.00", "in_kind": false},
+    {"date": "08/16/2023", "name": "Jared Henderson", "amount": "15.00", "in_kind": false},
+    {"date": "10/18/2023", "name": "Jared Henderson", "amount": "1,556.12", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/01/2023", "recipient": "Herriman City", "purpose": "Candidate Filing Fee", "amount": "25.00", "in_kind": false},
+    {"date": "08/16/2023", "recipient": "Salt Lake County", "purpose": "Registered Voter List", "amount": "15.00", "in_kind": false},
+    {"date": "10/18/2023", "recipient": "VictoryStore.com", "purpose": "Fylers", "amount": "1,556.12", "in_kind": false}
+  ],
+  "total_contributions": "1,596.12",
+  "total_expenditures": "1,596.12",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/3973_District-1Jared-Henderson.pdf",
+    "candidate": "Jared Henderson",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/herriman_city_council/campaign_finance/raw/3973_District-1Jared-Henderson.pdf",
+    "pages": 5,
+    "notes": "General Election report, box checked 'For Candidates not in the Municipal Primary Election - October 24, 2023'. Signature dated 10/24/23. All three Schedule A contributions are self-funded (Jared Henderson). Schedule A has a blank interior row between the 06/01/2023 and 08/16/2023 entries (no data - omitted). Schedule C (In-Kind) attached but empty; Summary Page marks the Schedule C rows 'None'. Verbatim source oddity: Schedule B Subtotal-for-this-page prints '1,596..12' (doubled decimal point); TOTAL EXPENDITURES MADE reads 1,596.12. Expenditure purpose 'Fylers' preserved as printed. Balances: beginning 0, close 0. Cover totals recorded verbatim (with printed comma)."
+  }
+}

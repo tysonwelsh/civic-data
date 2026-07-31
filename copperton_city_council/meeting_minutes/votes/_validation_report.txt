@@ -1,0 +1,44 @@
+meetings (json): 106
+motions: 431
+csv rows: 458 | json-implied rows: 458 -> OK
+
+named-rollcall vs tally-only motions by year:
+  2018: named   2 / tally-only  17
+  2019: named   0 / tally-only  51
+  2020: named   4 / tally-only  68
+  2021: named   0 / tally-only  50
+  2022: named   0 / tally-only  47
+  2023: named   1 / tally-only  64
+  2024: named   0 / tally-only  53
+  2025: named   0 / tally-only  51
+  2026: named   0 / tally-only  23
+
+max named roll size: 5 (ceiling 5) -> OK
+off-roster named voters: none -> OK
+
+observed roster (10):
+  Apollo Pazell        Council Member   2018-07-18..2020-09-16  n=25
+  Kathleen Bailey      Council Member   2018-07-18..2026-05-20  n=74
+  Kevin Severson       Council Member   2018-07-18..2025-10-15  n=66
+  Ron Patrick          Council Member   2018-07-18..2019-12-20  n=9
+  Sean Clayton         Mayor/Chair      2018-07-18..2026-05-20  n=53
+  Sorensen             Council Member   2018-11-21..2021-03-17  n=4
+  Tessa Stitzer        Council Member   2020-01-15..2026-05-20  n=66
+  Dave Olsen           Council Member   2020-12-16..2024-10-16  n=27
+  Linda McCalmon       Council Member   2025-01-15..2026-05-20  n=10
+  Jonathan Pratt       Council Member   2026-02-18..2026-04-15  n=2
+Sean Clayton (Mayor/chair) named-vote rows: 8
+
+contested motions (Nay/Abstain/Recuse): 10
+  2020-02-19 m1 [Pass (unanimous) (w/ named abstention)] to approve the minutes of the Copperton Metro Township  | [('Apollo Pazell', 'Abstain')]
+  2020-03-18 m2 [3-2 Pass] to approve the UFA agreement | [('Kathleen Bailey', 'Aye'), ('Kevin Severson', 'Aye'), ('Tessa Stitzer', 'Aye'), ('Apollo Pazell', 'Nay'), ('Sean Clayton', 'Nay')]
+  2020-03-18 m3 [3-2 Pass] to approve the resolution | [('Kathleen Bailey', 'Aye'), ('Kevin Severson', 'Aye'), ('Sean Clayton', 'Aye'), ('Apollo Pazell', 'Nay'), ('Tessa Stitzer', 'Nay')]
+  2020-12-16 m3 [Pass (unanimous) (w/ named abstention)] to approve the minutes for the April 19, 2020, Septembe | [('Dave Olsen', 'Abstain')]
+  2023-11-15 m2 [0-4 Fail] to approve Resolution 2023-11-03, approving a 2024 tax  | [('Dave Olsen', 'Nay'), ('Kathleen Bailey', 'Nay'), ('Sean Clayton', 'Nay'), ('Tessa Stitzer', 'Nay')]
+  2024-10-16 m3 [4-0 Pass (w/ named abstention)] to allow Council Member Stitzer to participate in the d | [('Tessa Stitzer', 'Abstain')]
+  2024-10-16 m4 [4-0 Pass (w/ named abstention)] to allow Council Member Oisen to participate in the dis | [('Dave Olsen', 'Abstain')]
+  2025-05-21 m4 [4-0 Pass (w/ named abstention)] to approve Ordinance 2025-0-03, adopting the new FY 202 | [('Tessa Stitzer', 'Abstain')]
+  2026-02-18 m4 [4-0 Pass (unanimous) (w/ named abstention)] to approve Resolution R2026-03, Adopting the amended Mu | [('Jonathan Pratt', 'Abstain')]
+  2026-05-20 m1 [4-0 Pass (unanimous) (w/ named abstention)] to approve the April 15, 2026 Town Council Meeting Minu | [('Sean Clayton', 'Abstain')]
+
+RESULT: PASS

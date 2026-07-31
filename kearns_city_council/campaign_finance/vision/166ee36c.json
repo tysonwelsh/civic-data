@@ -1,0 +1,25 @@
+{
+  "contributions": [
+    {"date": "7/1/2016", "name": "Matt Welch", "amount": "50.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "7/1/2016", "recipient": "Matt Welch", "purpose": "repay loan", "amount": "50.00", "in_kind": false}
+  ],
+  "total_contributions": "50.00",
+  "total_expenditures": "50.00",
+  "total_contributions_ytd": "50.00",
+  "total_expenditures_ytd": "50.00",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2016july_matt_welch_kearns_3.pdf",
+    "candidate": "Matt Welch",
+    "office": "Metro Township Council Seat 3",
+    "filing_type": "interim",
+    "election_year": "2016",
+    "reporting_period": "Pre-primary interim (July)",
+    "source_pdf": "/Users/tysonwelsh/civic-data/kearns_city_council/campaign_finance/raw/2016july_matt_welch_kearns_3.pdf",
+    "pages": 4
+  }
+}

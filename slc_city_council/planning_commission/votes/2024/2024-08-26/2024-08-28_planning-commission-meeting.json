@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "date": "2024-08-28",
+    "year": "2024",
+    "title": "Planning Commission",
+    "body": "PlanningCommission",
+    "source": "laserfiche",
+    "source_url": "https://webdme.slcgov.com/BoardsCommissions/DocView.aspx?id=8575334&dbid=0&repo=SLC",
+    "minutes_file": "planning_commission/minutes/2024/2024-08-26/2024-08-28_planning-commission-meeting.md",
+    "present": [
+      "Mike Christensen",
+      "Aimee Burrows",
+      "Bree Scheer",
+      "Amy Barry",
+      "Anaya Gayle",
+      "Landon Kraczek",
+      "Brian Scott"
+    ],
+    "absent": []
+  },
+  "votes": [
+    {
+      "motion": "approve the July 31, 2023 minutes",
+      "description": "approve the July 31, 2023 minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Aimee Burrows",
+      "seconder": "Anaya Gayle",
+      "result": "6:0 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Amy Barry",
+        "Bree Scheer",
+        "Landon Kraczek",
+        "Aimee Burrows",
+        "Mike Christensen"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "table the August 14, 2024 minutes",
+      "description": "table the August 14, 2024 minutes",
+      "motion_type": "Minutes",
+      "action_class": "procedural",
+      "mover": "Bree Scheer",
+      "seconder": "Landon Kraczek",
+      "result": "6:1 Pass",
+      "tally": {
+        "yes": 6,
+        "no": 1,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Anaya Gayle",
+        "Brian Scott",
+        "Bree Scheer",
+        "Landon Kraczek",
+        "Aimee Burrows",
+        "Mike Christensen"
+      ],
+      "nay": [
+        "Amy Barry"
+      ],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    },
+    {
+      "motion": "forward a recommendation of approval of this text amendment to the City Council, with additional direction that staff can review certain verbiage as long as it meets intent in briefing",
+      "description": "forward a recommendation of approval of this text amendment to the City Council, with additional direction that staff can review certain verbiage as long as it meets intent in briefing",
+      "motion_type": "Zoning Text Amendment",
+      "action_class": "recommendation",
+      "mover": "Amy Barry",
+      "seconder": "Bree Scheer",
+      "result": "Positive recommendation 6:0",
+      "tally": {
+        "yes": 6,
+        "no": 0,
+        "abstain": 0,
+        "recuse": 0,
+        "absent": 0
+      },
+      "names_recorded": true,
+      "aye": [
+        "Brian Scott",
+        "Amy Barry",
+        "Bree Scheer",
+        "Aimee Burrows",
+        "Mike Christensen",
+        "Anaya Gayle"
+      ],
+      "nay": [],
+      "abstain": [],
+      "recuse": [],
+      "absent": []
+    }
+  ]
+}

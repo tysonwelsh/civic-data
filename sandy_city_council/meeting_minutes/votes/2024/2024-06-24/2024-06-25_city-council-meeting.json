@@ -1,0 +1,87 @@
+{
+ "date": "2024-06-25",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "source": "meeting_minutes/minutes/2024/2024-06-24/2024-06-25_city-council-meeting.md",
+ "votes": [
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Alison Stroud to approve the Consent Calendar",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Zach Robinson",
+   "seconder": "Alison Stroud",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 1
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Cyndi Sharkey, seconded by Marci Houseman, to adopt Resolution 24-29C, a resolution of the Sandy City Council appointing Ryan Kump to serve as a Board Member to the Trans-Jordan Landfill Board",
+   "motion_type": "Appointment",
+   "result": "6-0 Pass",
+   "mover": "Cyndi Sharkey",
+   "seconder": "Marci Houseman",
+   "aye": [
+    "Alison Stroud",
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham",
+    "Aaron Dekeyzer"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "Brooke D'Sousa"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 2
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Zach Robinson, seconded by Marci Houseman to table the item and bring back the item to a future council meeting, no later than July 23rd",
+   "motion_type": "Procedural/Administrative",
+   "result": "4-2 Pass",
+   "mover": "Zach Robinson",
+   "seconder": "Marci Houseman",
+   "aye": [
+    "Zach Robinson",
+    "Marci Houseman",
+    "Cyndi Sharkey",
+    "Ryan Mecham"
+   ],
+   "nay": [
+    "Alison Stroud",
+    "Aaron Dekeyzer"
+   ],
+   "abstain": [],
+   "absent": [
+    "Brooke D'Sousa"
+   ],
+   "recuse": [],
+   "names_recorded": true,
+   "motion_no": 3
+  },
+  {
+   "body": "Council",
+   "motion": "A motion was made by Marci Houseman, seconded by Zach Robinson to reconvene the City Council meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Unanimous (voice)",
+   "mover": "Marci Houseman",
+   "seconder": "Zach Robinson",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "motion_no": 4
+  }
+ ]
+}

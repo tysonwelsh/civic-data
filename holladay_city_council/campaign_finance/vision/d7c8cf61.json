@@ -1,0 +1,34 @@
+{
+  "contributions": [
+    {"date": "10/23/25", "name": "Chris Bowler", "amount": "1,000", "in_kind": false},
+    {"date": "10/27/25", "name": "Cash", "amount": "35", "in_kind": false},
+    {"date": "10/27/25", "name": "Jeff Pedersen", "amount": "500", "in_kind": false},
+    {"date": "10/30/25", "name": "Randi Escobar", "amount": "100", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/23/25", "recipient": "Stripe", "purpose": null, "amount": "110.25", "in_kind": false},
+    {"date": "11/4/25", "recipient": "Gathering, Inc", "purpose": null, "amount": "344.80", "in_kind": false},
+    {"date": "11/4/25", "recipient": "Stone Mountain", "purpose": null, "amount": "3,915.40", "in_kind": false},
+    {"date": "10/23/25", "recipient": "Vottiv", "purpose": null, "amount": "10.00", "in_kind": false},
+    {"date": "11/1/25", "recipient": "The Home Depot", "purpose": null, "amount": "116.86", "in_kind": false},
+    {"date": "11/1/25", "recipient": "Google Ads", "purpose": null, "amount": "106.95", "in_kind": false},
+    {"date": "11/6/25", "recipient": "Roost & Co. (par", "purpose": null, "amount": "973.00", "in_kind": false},
+    {"date": "11/10/25", "recipient": "Target", "purpose": null, "amount": "19.19", "in_kind": false},
+    {"date": "11/3/25", "recipient": "Vottiv", "purpose": null, "amount": "42.00", "in_kind": false},
+    {"date": "11/8/25", "recipient": "SLCoGOP", "purpose": null, "amount": "100.00", "in_kind": false}
+  ],
+  "total_contributions": "1,600",
+  "total_expenditures": "5,738.45",
+  "contributions_50_or_less": "35",
+  "beginning_balance": null,
+  "ending_balance": "-4,103.45",
+  "_meta": {
+    "index_path": "raw/2025_city_watts-final.pdf",
+    "candidate": "Daren A. Watts",
+    "office": "Mayor",
+    "filing_type": "summary",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/holladay_city_council/campaign_finance/raw/2025_city_watts-final.pdf",
+    "pages": 3
+  }
+}

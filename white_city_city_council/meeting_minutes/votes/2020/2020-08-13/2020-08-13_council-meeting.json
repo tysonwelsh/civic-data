@@ -1,0 +1,71 @@
+{
+ "date": "2020-08-13",
+ "year": 2020,
+ "title": "White City Council Meeting",
+ "file_body": "Council",
+ "format": "text",
+ "present": [
+  "Kay Dickerson",
+  "Linda Price",
+  "Allan Perry",
+  "Paulina Flint",
+  "Scott Little"
+ ],
+ "source": "meeting_minutes/minutes/2020/2020-08-13/2020-08-13_council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to close the White City Metro Township Council meeting to discuss a personnel matter",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "4-1 Pass",
+   "mover": "Linda Price",
+   "seconder": "Allan Perry",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to amend the language of the scope of work to what was provided when it was send out. The motion",
+   "body": "Council",
+   "motion_type": "Other",
+   "result": "Died (no second)",
+   "mover": "Scott Little",
+   "seconder": null,
+   "names_recorded": false,
+   "vote_mode": "none",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "recuse": [],
+   "absent": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the following resolution: RESOLUTION NO.: 20-08-01 DATE: August 13, 2020 A RESOLUTION OF THE WHITE CITY METRO TOWNSHIP COUNCIL APPROVING A CONTRACT BETWEEN WHITE CITY METRO TOWNSHIP AND POSITIVE IMPACT CONSULTING LLC (RORI L ANDREASON) FOR MUNICIPAL ADMINISTRATOR SERVICES RECITALS A. The White City Metro Township (\"White City\") is a Metro Township pursuant to Utah Code § 10-2a-401 et…",
+   "body": "Council",
+   "motion_type": "Contract/Purchase",
+   "result": "4-1 Pass",
+   "mover": "Allan Perry",
+   "seconder": "Linda Price",
+   "names_recorded": true,
+   "vote_mode": "narrative-named-dissent",
+   "aye": [],
+   "nay": [
+    "Scott Little"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false
+  }
+ ]
+}

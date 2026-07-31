@@ -1,0 +1,92 @@
+{
+ "date": "2020-07-14",
+ "year": 2020,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission",
+ "format": "pdf-text",
+ "source": "minutes/2020/2020-07-13/2020-07-14_planning-commission.md",
+ "present": [
+  "Marc McElreath",
+  "Kent Burggraaf",
+  "Don Quigley",
+  "Anna Barbieri",
+  "Lynette Wendel",
+  "David Wright",
+  "Gordon Willardson",
+  "Don Russell"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Quigley – I move for approval of the Consent Agenda consisting of the Planning Commission Minutes for May 12th and June 9th, 2020, with one correction to the May 12th minutes in paragraph 3.5.1, third sentence which should read, “Commissioner Quigley felt that was unfortunate because he did not feel it would negatively affect their property to the east.” Adding the word “not” as indicated",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Don Quigley",
+   "seconder": "David Wright",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Barbieri I move that we send a positive recommendation to the City Council for File #7Z20 for a Zoning Map amendment from Limited Commercial and R-1-8 to RM-8 for parcels located at 3399 West and 3397 West 4700 South based on the Findings outlined in the Staff Report",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 6-1",
+   "kind": "recommendation",
+   "mover": "Anna Barbieri",
+   "seconder": "David Wright",
+   "aye": [
+    "Don Quigley",
+    "David Wright",
+    "Anna Barbieri",
+    "Marc McElreath",
+    "Kent Burggraaf",
+    "Lynette Wendel"
+   ],
+   "nay": [
+    "Gordon Willardson"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "vote_format": "named-inline",
+   "outcome_detected": true,
+   "tally_text": "6-1",
+   "case_no": [
+    "7Z20"
+   ],
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "By motion the meeting was adjourned.",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Anna Barbieri",
+   "seconder": null,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "vote_format": "narrative-tally",
+   "outcome_detected": true,
+   "tally_text": "",
+   "case_no": [],
+   "motion_no": 3
+  }
+ ]
+}

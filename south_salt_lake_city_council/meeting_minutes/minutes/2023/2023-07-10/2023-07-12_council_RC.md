@@ -1,0 +1,368 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_07122023-161
+> Meeting date: 2023-07-12
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 07122023-161 | label: Council WM Meeting 2023-07-12 | date: 2023-07-12 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_07122023-161 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                    CITY COUNCIL MEETING
+
+COUNCIL MEETING                                              Wednesday July 12, 2023
+                                                             7:01 p.m.
+
+CITY OFFICES                                                 220 East Morris Avenue
+                                                             South Salt Lake, Utah 84115
+
+PRESIDING:                                                   Council Chair Sharla Bynum
+
+CONDUCTING:                                                  LeAnne Huff, District 1
+
+SERIOUS MOMENT OF REFLECTION/
+PLEDGE OF ALLEGIANCE :                                       Corey Thomas
+
+SERGEANT AT ARMS:                                            Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      Sharla Bynum, LeAnne Huff, Natalie Pinkney, Portia Mila,
+      Corey Thomas, Clarissa Williams, and Shane Siwik (via Zoom)
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Jack Carruth, Police Chief
+       Terry Addison, Fire Chief
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Jodi Fait, Victim Advocate Supervisor
+       Danielle Croyle, Public Information Officer
+       David Alexander, Streets Division Manager
+       Tiffany Kalinowski, Police Evidence Technician
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      May 24th, Work Meeting
+      May 24th, Regular Meeting
+      June 7th, Work Meeting
+      June 7th, Regular Meeting
+      June 14th, Work Meeting
+      June 14th, Regular Meeting
+
+
+
+                                             1
+South Salt Lake- Regular Council Meeting                                              July 12, 2023
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Portia Mila
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Mtg—July 26th @ 7pm.
+
+       2. CITIZEN COMMENTS/QUESTIONS.
+          Alex Stoy, South Salt Lake resident, wanted to express his concerns over the public
+          safety on Green Street from problematic renters. He talked about several incidents
+          that have left him and others feeling worried and how the house’s poor
+          maintenance is an issue worth reviewing. He would like the Council to discuss what
+          codes and regulations are needed to help prevent this from continuing to happen.
+
+              Adam Ton, South Salt Lake resident, said that he was here to support the statement
+              made by resident Alex Stoy. As a resident of Green Street, he said that the house in
+              question has been a mess over the last three years. He would like to see what
+              options are available to make the landlord inclined to take more action to prevent
+              this issue.
+
+              Kim Bryant Welch, Granite Library manager, introduced herself to the Council and
+              wanted to share a few upcoming events and classes at the local library. They will be
+              offering Citizenship Classes, in conjunction with the English Skills Learning Center,
+              that will be starting on Tuesday, July 18th. They also have the Kid’s Café that offers
+              breakfast from Monday-Thursday, and a lunch from Monday-Saturdays. They also
+              host kids’ story times three times a week.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood spoke about the City’s Fourth of July celebration and parade and
+          thanked everyone who came to participate.
+
+              She expressed her gratitude to Leslie Jones, who oversaw this last project with the
+              Arts Council and is now retiring after many years of service with the City.
+
+              She gave a summary of the City Code on fireworks. The City prohibits the use of
+              public spaces, parks, and City property for firework use. The State regulates the days
+                                                  2
+South Salt Lake- Regular Council Meeting                                           July 12, 2023
+
+
+           when they are allowed, and she encouraged residents to call the non-emergency
+           dispatch at 801-840-4000 for concerns.
+
+           The City revealed its 85th anniversary logo at the July 4th Parade and will also be
+           displayed at the City’s 85th Founder’s Day celebration on September 29th. It will be
+           held at Central Park and will include a drone show.
+
+           Mondays with the Mayor are currently happening at the Spring Creek Pavilion at
+           Fitts Park. State Reps and City officials will be present to answer any questions or
+           engage in conversations with residents.
+
+       4. CITY ATTORNEY COMMENTS.
+          None
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Mila thanked everyone who participated in the parade. She
+          thanked Leslie Jones for all her hard work and wished her well in her next chapter.
+
+           Council Member Williams addressed the concerns made by the residents on Green
+           Street. She said that she has been in that situation before and encouraged them to
+           remain patient with the process and to continue to call the South Salt Lake Police
+           Department. She also thanked the Granite County manager for coming and creating
+           the connection.
+
+          Council Chair Bynum acknowledged the concerns made over Green Street and said
+          that she will work with staff to see what the next step is.
+
+          Council Member Pinkney thanked the City staff who worked on the Fourth of July
+          celebration and parade. She also acknowledged the concerns over Green Street and
+          said that graffiti and drug issues are an important issue to continue to keep in mind.
+          She said that she will be bringing this up with Senator Blouin.
+
+          Council Member Huff echoed the comments made over the City’s Fourth of July
+          celebration and parade and said that Leslie Jones will be missed.
+
+      6. INFORMATION.
+
+               a. Victim Advocate Report VOCA & VAWA Grant Update.
+                  Victim Advocate Supervisor, Jodi Fait, informed the Council that they have
+                  completed the 2021-2023 grant cycle. During this time, they have served
+                  over 2,000 assault and domestic violence victims in areas such as court
+                  cases, protective orders, housing, food, shelter, and through emergency
+                  funds that have helped a mother with diapers, formula, and immediate
+                  necessities for her young children. She added that the Victim Advocate’s
+                  team is doing well and is going strong.
+
+
+
+
+                                               3
+South Salt Lake- Regular Council Meeting                                          July 12, 2023
+
+
+ACTION ITEMS
+
+Unfinished Business
+
+
+    1. An Ordinance of the South Salt Lake City Council Amending Section 2.24.010 of the
+       South Salt Lake City Municipal Code to Modify the Duties and Responsibilities of the
+       South Salt Lake City’s Attorney’s Office Providing Authorization to Correct Certain
+       Obvious Technical Errors in Ordinances, Resolutions, and Codified Language.
+       City Attorney, Josh Collins, went over the information that was discussed at the previous
+       Council Meeting. The intention is to allow the Attorney’s Office to clean up typos and
+       technical errors when they are found.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Pinkney made a motion to approve the Ordinance.
+
+MOTION: Natalie Pinkney
+SECOND: Portia Mila
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    2. An Ordinance of the South Salt Lake City Council Amending Sections 17.06, 17.07,
+       17.10 of the South Salt Lake City Municipal Code, and Section 5 of the Downtown
+       Form Based Code to Correct Technical Errors, Amend Certain General Development
+       and Design Standards, and Amend Certain Subdivision and Platting Standards.
+       Community and Economic Development Director, Jonathan Weidenhamer, went over
+       the material that was discussed at the previous Council Meeting. He said that the
+       changes would be geared to help smaller businesses and residents when it comes to
+       developments and projects. Additionally, the Planning Commission discussed this at
+       their last meeting and gave a unanimous and positive recommendation to forward to
+       the Council.
+
+        A copy of the material he presented is attached and incorporated by this reference.
+
+        Council Member Mila made a motion to approve the Ordinance.
+
+MOTION: Portia Mila
+SECOND: Clarissa Williams
+
+
+                                               4
+South Salt Lake- Regular Council Meeting                                           July 12, 2023
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+New Business
+
+
+    1. A Resolution of the South Salt Lake City Council Authorizing Participation on the
+       Central Valley Water Reclamation Facility Board.
+       Council Chair Bynum said that this item was put on the agenda to discuss her stepping
+       down from the CVWRF Board due to conflicts with her current job responsibilities.
+       Council Member Huff has agreed to fill her place on the board. This matter was brought
+       for discussion and final action may be taken at the next Council Meeting.
+
+        City Attorney, Josh Collins, added that this needs formal Council approval since there is
+        compensation involved.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Siwik made a motion to move this to Unfinished Business for the next
+        Council Meeting.
+
+MOTION: Shane Siwik
+SECOND: Portia Mila
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+    2. A Resolution of the South Salt Lake City Council Granting Permission for the South Salt
+       Lake Police Department to Appropriate Bicycles in its Possession to a Public Interest
+       Use.
+       Police Evidence Technician, Tiffany Kalinowski, informed the Council of additional
+       bicycles in their possession that they have properly noticed and have not received any
+       follow up on.
+
+
+                                                5
+South Salt Lake- Regular Council Meeting                                             July 12, 2023
+
+
+        A copy of the Resolution and materials provided is attached and incorporated by this
+        reference.
+
+        Council Member Siwik made a motion to suspend the rules for this New Business item.
+
+MOTION: Shane Siwik
+SECOND: Portia Mila
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+        Council Member Pinkney made a motion to approve the Resolution.
+
+MOTION: Natalie Pinkney
+SECOND: Shane Siwik
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+Siwik:            Yes
+Thomas:           Yes
+Williams:         Yes
+
+
+
+Motion for Closed Meeting
+Closed meeting held pursuant to Utah Code Annotated, 1953, as amended, Sec. 52-4-204, Sec.
+52-4-205 (1) (d) and (e), et seq. for the following purposes: Strategy Session to discuss the sale,
+purchase, exchange, or lease of real property.
+
+        Council Member Mila made a motion to close the Public Meeting.
+
+MOTION: Portia Mila
+SECOND: Natalie Pinkney
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mila:             Yes
+Pinkney:          Yes
+                                                 6
+South Salt Lake- Regular Council Meeting                                July 12, 2023
+
+
+Siwik:        Yes
+Thomas:       Yes
+Williams:     Yes
+
+
+
+       Council Chair Mila made a motion to Adjourn.
+
+
+MOTION: Portia Mila
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:        Yes
+Huff:         Yes
+Mila:         Yes
+Pinkney:      Yes
+Siwik:        Yes
+Thomas:       Yes
+Williams:     Yes
+
+
+
+
+       The meeting adjourned at 7:51 p.m.
+
+
+
+
+                                             _____________________________
+                                             Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                             7

@@ -1,0 +1,269 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_12112024-448
+> Meeting date: 2024-12-11
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 12112024-448 | label: Council WM Meeting 2024-12-11 | date: 2024-12-11 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_12112024-448 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL MEETING
+
+COUNCIL MEETING                                               Wednesday December 11, 2024
+                                                              7:00 p.m.
+
+CITY OFFICES                                                  220 East Morris Avenue
+                                                              South Salt Lake, Utah 84115
+
+PRESIDING:                                                    Council Chair Sharla Bynum
+
+CONDUCTING:                                                   Natalie Pinkney
+
+PLEDGE OF ALLEGIANCE :                                        LeAnne Huff
+
+SERGEANT AT ARMS:                                             Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum,
+      Nick Mitchell, Clarissa Williams, and Natalie Pinkney
+
+COUNCIL MEMBERS EXCUSED:
+      Paul Sanchez
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Jared Christensen, Deputy Fire Chief
+       Crystal Makin, Finance Director
+       Jonathan Weidenhamer, Community & Economic Development Director
+       Eliza Ungricht, Deputy Community Development Director
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+       Carson Aprato, Police Detective
+       Cody Coggle, Police Sergeant
+       Jody Engar, Arts Program Coordinator
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      November 13th, Work Meeting
+      November 13th, Regular Meeting
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+SECOND: Sharla Bynum
+                                              1
+South Salt Lake – Regular Council Meeting                                        November 13, 2024
+
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—January 8th @ 7 p.m.
+
+              There will be a midterm vacancy for a City Council At-Large seat starting on January
+              1, 2025. The City has 30 days to fill the vacancy and will begin accepting applications
+              from potential candidates on January 2, 2025. The City Council will hold a public
+              interview and voting process on January 22, 2025, during the Regular City Council
+              Meeting. More information on the requirements can be found on the City’s website
+              and Elections page: https://sslc.gov/212/Elections-Voting
+
+              City Offices will be closed on December 24th and 25th and on January 1st in
+              observance of Christmas Eve and Christmas Day. Residents may expect one-day
+              garbage delays for the holiday week.
+
+              The City will offer curbside Christmas tree pick-up starting in January that will be
+              picked up by the City’s Public Works Department or ACE Disposal.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          South Salt Lake resident, Susan Bowlden, shared some comments on several topics
+          including the public’s speaking time during Council meetings, and the upcoming
+          Council seat vacancy.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood shared some City-related highlights.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Williams wished everyone a happy holiday season.
+
+              Council Member Thomas thanked Council Member Pinkney for her five years of
+              service on the City Council.
+
+              Council Member Bynum shared her thankfulness for South Salt Lake’s
+              representation on the County Council with Council Member Pinkney’s seat on the
+              County Council.
+                                                   2
+South Salt Lake – Regular Council Meeting                                   November 13, 2024
+
+
+
+           Council Member Huff wished everyone a happy holiday season and stated that
+           Council Member Pinkney would be missed.
+
+           Council Member Pinkney expressed her gratitude towards the City staff and the City
+           Council.
+
+       6. INFORMATION.
+
+               a. Recognition of the Certified Municipal Clerk (CMC) Certificate for Ariel
+                  Andrus, City Recorder, by the Utah Municipal Clerks Association Board
+                  Mayor Wood presented the Certified Municipal Clerk certificate from the
+                  International Institute of Municipal Clerks to City Recorder, Ariel Andrus,
+                  and stated how earning the certification requires hours of training and
+                  education to be knowledgeable in all of the tasks of a City Recorder
+                  including city elections, legislative changes, public meeting procedures,
+                  records, government transparency, etc.
+
+               b. Arts Council Annual Report
+                  Neighborhoods Director, Sharen Hauri, and Arts Program Coordinator, Jody
+                  Engar, presented the Arts Council Annual Report to the Council Members.
+
+                   A copy of the presentation is attached and incorporated by this reference.
+
+               c. Civilian Review Board Quarterly Report
+                  Vice Chair, Jason Keffer, presented the quarterly report to the Council
+                  Members.
+
+                   A copy of the presentation is attached and incorporated by this reference.
+
+               d. Fraud Risk Assessment Report
+                  Finance Director, Crystal Makin, presented the assessment report for
+                  FR2023. The City received a low score on the fraud risk level, as well as an
+                  overall score of 335 out of 395.
+
+               e. Finance Certificate of Achievement for ACFR for FY2023 Audit
+                  Mayor Wood recognized Finance Director, Crystal Makin, and the City’s
+                  Finance Department for their hard work and dedication to achieving the
+                  Government Finance Officers Association certificate of achievement.
+
+
+
+
+Action Items
+
+
+                                               3
+South Salt Lake – Regular Council Meeting                                   November 13, 2024
+
+
+Unfinished Business
+
+    1. 2025 Council Meeting Schedule
+       City Recorder, Ariel Andrus, reviewed the proposed meeting schedule for 2025. This
+       item was presented and discussed in a previous meeting.
+
+        A copy of the 2025 Council Meeting schedule is attached and incorporated by this
+        reference.
+
+        Council Member Williams made a motion to approve the 2025 Council Meeting
+        Schedule.
+
+
+MOTION: Clarissa Williams
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+    2. An Ordinance of the South Salt Lake City Council to Amend the South Salt Lake Zoning
+       Map from Transit Oriented Development to Family Interim Non-Congregate Children
+       Housing Facility Zone for One Parcel of Land Located at 315 West 3300 South;
+       Amending the South Salt Lake Municipal Code Section 17.01.010 to Update
+       Definitions; Adopting Section 17.03.0270 to Create a New Family Interim Non-
+       Congregate Children Housing Facility Land Use District; and Amending Section
+       17.05.040 to Include Additional Regulations for Conditional Uses With Specific
+       Standards Related to Homeless Shelters.
+       Community & Economic Development Director, Jonathan Weidenhamer, and Deputy
+       Community Development Director, Eliza Ungricht, presented the Ordinance that
+       includes a petition for a zone change, as well as an Ordinance amendment for the Family
+       Interim Non-Congregate Children Housing Facility that is located at 315 West and 3300
+       South.
+
+        Additionally, there will be a Planning Commission Public Hearing on January 16, 2025,
+        that will address the matter of a conditional use permit.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Bynum made a motion to approve the Ordinance.
+
+
+MOTION: Sharla Bynum
+                                               4
+South Salt Lake – Regular Council Meeting                           November 13, 2024
+
+
+SECOND: Clarissa Williams
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+
+        Council Member Williams made a motion to Adjourn.
+
+
+MOTION: Clarissa Williams
+SECOND: Nick Mitchell
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Absent
+
+
+
+
+        The meeting adjourned at 7:36 p.m.
+
+
+
+
+                                             _____________________________
+                                             Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+                                             5
+South Salt Lake – Regular Council Meeting       November 13, 2024
+
+
+Ariel Andrus, City Recorder
+
+
+
+
+                                            6

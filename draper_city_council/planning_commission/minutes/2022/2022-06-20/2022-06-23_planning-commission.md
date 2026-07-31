@@ -1,0 +1,359 @@
+# Planning Commission
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=597&doc_id=621afc1b-0f5f-11ed-baa3-0050569183fa
+> Meeting date: 2022-06-23
+> Format: text
+
+MINUTES OF THE DRAPER CITY PLANNING COMMISSION MEETING HELD ON
+THURDAY, JUNE 23, 2022 IN THE DRAPER CITY COUNCIL CHAMBERS
+
+PRESENT:                       Chairperson Andrew Adams, Vice Chairperson Craig Hawker
+                               Commissioners Gary Ogden, Mary Squire Alternate
+                               Commissioners Susan Nixon, Kendra Shirey and Tab Bingham
+
+ABSENT:                        Commissioners Lisa Fowler, Alternate Commissioner DeLaina
+                               Tonks
+
+STAFF PRESENT:                 Amie Salazar, Fred Aegerter, Mike Barker, Brien Maxfield,
+                               Spencer DuShane, Maryann Pickering, Todd Draper, and Jonathan
+                               Concidine
+
+6:30 PM Business Meeting:
+
+Chairperson Andrew Adams welcomed City Planner Jonathan Concidine and Alternate
+Commission Member Kendra Shirey as new participants in the meeting.
+
+1.     Public Hearing: Hohl Office Building Site Plan (Administrative Action)
+
+On the request of Keith Hansen, representing Justin Hohl, a request approval of a site plan for
+the purpose of constructing a new office and retail building, with three deviations: 1) increased
+building height, 2) tree diamonds in parking lot area, and 3) reduction in landscaping and rooftop
+landscaping to meet minimum requirements in CC zoning district. The property is located at
+approximately 11488 South State Street. Application SPR-044-2021. Staff contact: Maryann
+Pickering, 801.576.6391, maryann.pickering@draperutah.gov.
+
+Maryann Pickering, City Planner, provided an overview of the request noting that the land use
+and zoning for the site was Community Commercial. She explained that the applicant was
+constructing a new commercial building in the zone and was requesting a height deviation. She
+noted that the original request was submitted in March 2021 which was before changes to the
+code were made. She shared plans for the building which include mainly office use with some
+retail, surface parking, loading docks for the retail use, and cross access with the property to the
+north.
+
+Ms. Pickering reviewed the three deviation requests. She indicated the first deviation was for tree
+diamonds which were needed due to site constraints and truck access. She noted the site
+exceeded minimum parking by 9 stalls. She explained the second deviation was to allow for
+4.4% of the required area to be installed as landscaping to be located in a roof top garden near
+the rear of the building. She shared that the landscaping deviation was also needed to
+accommodate truck access and maneuvering. She added that a height deviation was the third
+deviation requested. She indicated that the applicant met the minimum three criteria in ordinance
+for consideration and approval of the deviations including increased pedestrian and bike
+connectivity, different exterior materials than what is required, and an increase in primary
+materials on the elevations.
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 2
+
+Ms. Pickering explained that due to the location of the loading dock the driveway had to be
+larger to allow trucks to easily enter the site. She noted that the applicant had worked with Utah
+Department of Transportation (UDOT) and any additional questions could be directed to Brien
+Maxfield.
+
+Ms. Pickering presented the landscape plan which included the rooftop garden. She stated that
+the applicant indicated the roof top garden would be accessible to all who utilized the office and
+retail space.
+
+Ms. Pickering provided elevation drawings and renderings of the building. She clarified that
+current regulations were for a 45-foot height limit and the applicant was proposing a building
+height ranging from 62 feet at its highest point due to elevation changes and 35 feet at the lowest
+part where the rooftop garden would be located.
+
+Ms. Pickering indicated that the only public comment she received was a neighbor desiring to
+see the staff report.
+
+Commissioner Craig Hawker asked if there was enough room for large 18-wheel trucks to turn in
+without having to stop and back in off of State Street.
+
+Brien Maxfield, City Engineer, replied that the exhibit showed that there was turn around room
+at the back of the building which would allow trucks to pull in safely and back up to the loading
+docks without needing to block traffic.
+
+Commissioner Susan Nixon asked what was usually done in the landscape wells.
+
+Ms. Pickering clarified that trees were required in the parking lot but were usually done in a
+landscaping row rather than in tree diamonds.
+
+Commissioner Susan Nixon asked if they could approve the site plan without one of the
+deviations.
+
+Ms. Pickering replied that the applicant needed the three deviations in order to make the site
+work.
+
+Keith Hansen, Applicant, stated that Trent Eyre with Lighting Design would be occupying the
+retail portion of the building. He noted that they have been working on the site plan for over a
+year to make everything work including truck maneuvering at the rear of the building.
+
+Mr. Hansen explained that they have more parking than needed and less landscaping because
+even if they were to fill the extra nine spaces with landscape it would not meet the required 20%.
+He indicated that due to the medical office nature of the project also warranted extra parking
+which is why they decided to go with that option.
+
+
+
+
+                                                 2
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 3
+Mr. Hansen explained that if they did not use tree diamonds, they would have to use five feet of
+landscaping in between parking rows. He noted this would push the building to the west and
+would lose turn around space for trucks.
+
+Mr. Hansen remarked that they were on a sloped site which created difficulties regarding the
+height of the building. He pointed out that the lot dropped down from where State Street sits
+which makes the building appear shorter than the actual height. He indicated that in order to
+make the building feasible as a medical office building, they needed an extra level which put
+them over the 45-foot height limit.
+
+Mr. Hansen indicated they had plans to make the loading dock look nice and noted that all of
+their exterior materials were primary materials to add to the aesthetic of the building since it was
+to be used as medical offices and a show place for Lighting Design.
+
+Chairperson Andrew Adams opened the meeting up for public comments on the agenda item. No
+comments were offered and the public hearing was closed.
+
+Chairperson Andrew Adams asked what happens if the trees were removed from the tree
+diamonds or there were no trees in the tree diamonds if they would be able to be replaced.
+
+Ms. Pickering indicated that trees were required and replacement of the trees was enforceable but
+that code enforcement typically worked on a complaint basis. She stated that if someone were to
+complain we could enforce.
+
+Commissioner Susan Nixon inquired if it would be better to simply eliminate the tree diamonds
+and possibly add some of that square footage to the landscape strips to the north and south.
+
+Ms. Pickering indicated that she did not know the answer to that question but noted that code
+required trees in the parking area.
+
+Commissioner Mary Squire asked what the height maximum was for the zone to the north of this
+property.
+
+Ms. Pickering replied that it was 55 feet.
+
+Motion: Commissioner Gary Ogden motioned to approve the deviation for parking
+diamonds as requested by Keith Hansen of AE Urbia, representing Justin Hohl,
+Application SPR-044-2021, based on the findings and subject to the conditions listed in the
+staff report dated June 14, 2022.
+
+Second: Commissioner Mary Squire
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Hawker, Nixon, and Bingham voted, “Aye”.
+
+
+                                                 3
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 4
+
+Motion: Commissioner Susan Nixon motioned to approve the deviation for landscaping
+modification as requested by Keith Hansen of AE Urbia, representing Justin Hohl,
+Application SPR-044-2021, based on the findings and subject to the conditions listed in the
+staff report dated June 14, 2022.
+
+Second: Commissioner Tab Bingham
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Hawker, Nixon, and Bingham voted, “Aye”.
+
+Motion: Commissioner Tab Bingham motioned to approve the deviation request for
+increased height as requested by Keith Hansen of AE Urbia, representing Justin Hohl,
+Application SPR-044-2021, based on the findings and subject to the conditions listed in the
+staff report dated June 14, 2022.
+
+Second: Commissioner Susan Nixon
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Hawker, Nixon, and Bingham voted, “Aye”.
+
+Motion: Commissioner Craig Hawker motioned to approve the site plan as requested by
+Keith Hansen of AE Urbia, representing Justin Hohl, Application SPR-044-2021, based on
+the findings and subject to the conditions listed in the staff report dated June 14, 2022.
+
+Second: Commissioner Gary Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Squire, Hawker, Nixon, and Bingham voted, “Aye”.
+
+Commissioner Mary Squire was excused from the remainder of the meeting and Alternate
+Kendra Shirey filled in for the vacant position.
+
+2.     Public Hearing: Exeter (Summit Commerce Center) Amended Development
+       Agreement (Legislative Action)
+
+On the request of Mark McKee, representing Exeter Draper Land LLC and ARCO Design Build,
+a request to amend an existing Development Agreement to allow for a Fast-Food Restaurant as a
+Permitted Use within the Summit Commerce Center Development, on approximately 26.94 acres
+at approximately 13004 South Pony Express Road, known as Application #DA-120-2022. Staff
+contact: Todd Draper, 801.576.6335, todd.draper@draperutah.gov.
+
+Todd Draper, City Planner, introduced the request for Summit Commerce Center noting that the
+land use designation for the site was Business and Light Manufacturing and zoning was M1. He
+presented the currently approved site plan and explained that the requested amendment to the
+Development Agreement was to permit fast-food restaurant use on the site.
+
+
+                                              4
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 5
+
+Commissioner Susan Nixon inquired if they anticipated the use of a drive through for the fast-
+food restaurant.
+
+Mr. Draper replied that the restaurant did not have to have a drive through and could function
+similar to a Subway located inside of a Wal-Mart. He stated that it was unlikely that an amended
+Site Plan application to add a drive though would come to them for this site. He noted that the
+building was a furniture store that had a restaurant chain of their own that they intended to put
+inside the store, or could lease the space to one which frequently followed them.
+
+Chairperson Andrew Adams noted that the site plan had already been approved without a drive
+through.
+
+Mark McKee, Applicant, clarified that the tenant was hoping to sell prepackaged food items to
+customers in the furniture store viewing their show rooms and purchasing furniture.
+
+Chairperson Andrew Adams opened the meeting up for public comments on the item. No
+comments were offered and the public hearing was closed.
+
+
+Motion: Commissioner Craig Hawker motioned to forward a positive recommendation to
+the City Council for the amended development agreement as requested by Mark McKee,
+representing Exeter Draper Land LLC and ARCO Design Build, Application #DA-120-
+2022, based on the findings and subject to the conditions listed in the staff report dated
+June 14, 2022.
+
+Second: Commissioner Gary Ogden
+
+Vote: A roll call was taken with the Commissioners voting 5-0 in favor of the motion.
+Commissioners Ogden, Hawker, Nixon, Bingham, and Shirey voted, “Aye”.
+
+3.     Training: Land Use and Utah Land Use Development Management Act Changes
+
+Spencer DuShane, Assistant City Attorney, provided an overview of legislative updates in the
+most recent general legislative session and what changes would mean for the Planning
+Commission. He explained that HB462 Public Transit Planning requires that they incorporate
+Station Area Plans (SAP’s) in to the City’s general plan. He stated that the plan needed to
+encompass ½ mile radius from every station and its objective was to promote housing
+availability, access to opportunities, environmental conditions, and transportation choices and
+connections. He pointed out that each SAP must include a station area vision, area map, 5-year
+implementation plan, and a statement addressing how the plan promotes the SAP objectives.
+
+Mr. DuShane stated HB462 Moderate Income Implementation which requires the city submit a
+moderate-income housing report to the Housing and Community Development Division at
+Department of Workforce Services by October 1, 2022.
+
+
+
+                                                5
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 6
+Chairperson Andrew Adams inquired what the moderate income level currently was.
+
+Mr. DuShane replied that it was statutorily defined and is a percentage of the average income in
+the area. He indicated he was not aware what the exact numbers were. He noted that the dollar
+amount was subject to change as wages and average income in the area change. He indicated the
+city would also need to adopt the SAP’s and also is not allowed to charge impact fees for Internal
+Accessory Dwelling Units (I-ADU).
+
+Mr. DuShane reviewed SB110 Water Conservation Efforts which required the cities to include
+water use and preservation implementations in their general plan. He remarked that the Division
+of Water Resources had some funding available to help municipalities with implementing water
+preservation into their general plans.
+
+Mr. DuShane indicated that HB 303 Local Land Use Amendment mainly dealt with noticing
+requirements. He indicated that the bill also required mail notice and public hearing for
+municipal disconnection, defined that land use regulation and use permit were not a land use
+decision, land use regulation text amendments require notice that lay people can understand, and
+legal non-conforming use needed to be proved by substantial evidence. He indicated that the Bill
+repealed a portion of last year’s bill granting vested rights to then current land use regulations for
+10 years after a subdivision plat is recorded. He stated that the bill required notices for changes
+to public improvements in subdivisions and would allow cities to adopt an ordinance to specify
+that combining lots would not require a plat amendment.
+
+Commissioner Susan Nixon asked who the notices required for changes to public improvements
+in subdivisions were intended for.
+
+Mr. DuShane stated he believed the notices were for adjoining property owners and affected
+entities, but he would have to check the text in the bill to verify that information.
+
+Mr. DuShane reviewed HB282 Water Wise Landscaping and HB118 Wetland Amendments. He
+indicated that HB282 prohibited requiring lawn or turf in park strips in an area with a width less
+than 8 feet or from prohibiting a property owner from incorporating water wise landscaping.
+
+Chairperson Andrew Adams asked if that would change anything for HOAs.
+
+Mr. DuShane replied that it was his understanding that HOAs were under the same rule. He
+noted that they could still establish their own standards for water wise landscaping which could
+include acceptable materials among other things.
+
+Mr. DuShane shared that HB118 indicated that any land use permit affecting designated
+wetlands needed to be submitted to the Utah Geologic Survey.
+
+Commissioner Susan Nixon inquired what the average width for a parking strip was.
+
+
+                                                  6
+Draper City Planning Commission Meeting
+June 23, 2022
+Page 7
+
+Brien Maxfield, City Engineer, commented that the current city standard was for a 10-foot
+parking strip on local streets and 4 to 6 feet wide on collector and arterial streets.
+
+4.     Training: Land Use Liability Training
+
+Mike Barker, City Attorney, reviewed the principles of exactions which he noted were rooted in
+both the federal and state constitutions which indicated that private property cannot be taken for
+public use without just compensation. He noted that exaction concepts included dedications of
+private property to the public as a development approval condition as well as zoning regulation
+requirements that control development within a zone. He pointed out that zoning regulation
+requirements could include setbacks, height restrictions, density controls and more.
+
+Mr. Barker reviewed case law concerning exactions including Nollan v. California Coastal
+Commission which established that there needed to be an essential link between what is being
+asked of the property owner and the impacts of the development. He indicated that Dolan v. City
+of Tigard established the “rough proportionality” test which requires each exaction to be roughly
+proportionate, both in nature and extent, to the impact of the proposed development. He noted
+that within Utah they had a series of exactions cases called the BAM Development cases around
+dedications for roads.
+
+Mr. Barker explained that in light of these cases the state used 10-9a-508 to codify the Nollan
+and Dolan tests and provide rules around exactions. He stated that cities could only legally
+impose exactions if an essential link exists between a legitimate governmental interest and each
+exaction; and each exaction is roughly proportionate, both in nature and extent, to the impact of
+the proposed development. He also noted the City’s recent text amendment regarding exactions.
+
+Mr. Barker then reviewed some of the State Ombudsman’s legal determinations and analysis of
+cases in Utah.
+
+Todd Draper, City Planner, explained more about the exaction that Salt Lake County had
+required that led to BAM and that it involved additional dedication for a planned one-hundred
+and six foot (106’) right of way and the request was for dedicating between thirty (30) and fifty
+(50) feet property width to the future planned roadway.
+
+Mr. Barker noted that exactions required an individualized determination and they planned to do
+that on a more formal basis going forward.
+Chairperson Andrew Adams thanked the attorneys for the presentation and noted that concluded
+the agenda items.
+
+5.     Adjournment
+
+Motion: Commissioner Susan Nixon motioned to adjourn the meeting.
+
+
+The meeting was adjourned at 7:39pm.
+
+
+                                                 7
+

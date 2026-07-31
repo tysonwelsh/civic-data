@@ -1,0 +1,172 @@
+# Cottonwood Heights Planning Commission — 2023-03-01
+> Source: https://www.utah.gov/pmn/files/978975.pdf
+> Meeting date: 2023-03-01
+> Format: pdf-text
+
+---
+
+
+> Source URL: https://www.utah.gov/pmn/files/978975.pdf
+> Meeting date: 2023-03-01  ·  Retrieved: 2026-07-13  ·  Format: pdf-text  ·  Source: pmn
+
+---
+
+ 1
+ 2                       MINUTES OF THE COTTONWOOD HEIGHTS CITY
+ 3                               ADMINISTRATIVE HEARING
+ 4
+ 5                                      Wednesday, March 1, 2022
+ 6                                              12:00 p.m.
+ 7                                    Meeting held remotely via Zoom
+ 8                                     2277 East Bengal Boulevard
+ 9
+10   ATTENDANCE
+11
+12   Present:       Michael Johnson, Community and Economic Development Director/Hearing Officer
+13                  Samantha DeSeelhorst, Senior City Planner
+14                  Ian Harris, City Planner
+15                  Maria Devereux, Deputy City Recorder
+16
+17   ADMINISTRATIVE HEARING
+18
+19   1.0    Business Items
+20
+21   Community and Economic Development Director/Hearing Officer, Michael Johnson called the
+22   meeting to order at 12:00 p.m. and welcomed those present.
+23
+24          1.1     (Project CUP-23-001) Request from Henry and J’Amie Groves for Conditional
+25                  Use Approval of Short-Term Rental at 8145 South Clover Spring Lane.
+26
+27   Mr. Johnson reported that the above item is a request from Henry and J’Amie Groves for Conditional
+28   Use Approval for Short-Term Rental located at 8145 South Clover Spring Lane.
+29
+30   City Planner, Ian Harris, reported that the request is for a Conditional Use Permit for a short-term
+31   rental located in the Oaks at Wasatch Place Planned Unit Development (“PUD”). The property is
+32   located in the R-2-8 (Multi-Family Residential) Zone. Short-term rentals may be approved as a
+33   Conditional Use in the R-2-8 Zone, provided that the property is part of a Planned Unit Development
+34   (“PUD”) or condominium project that contains at least eight units and fronts on a private street. The
+35   subject property is a part of the Oaks at Wasatch PUD A, which contains 51 units. The property
+36   fronts Clover Spring Lane, which is a private street. Staff received one public comment. Staff
+37   recommended approval subject to the conditions set forth in the Staff Report.
+38
+39   Mr. Johnson clarified that the public comment received by staff expressed concern with repeat
+40   violations for licensed short-term rentals. There is a provision in Code Section 19.89 that provides
+41   guidance to the City for increased penalties upon repeat violations of short-term rental regulations
+42   that may result in revocation of the Business License.
+43
+44   The applicant, Henry Groves reported that he and his wife are from Boise, Idaho, and purchased the
+45   townhome with the intention of using the property personally and renting it out short-term. They are
+46   hiring iTrip, a professional management company, who will ensure guidelines are followed in their
+47   absence.
+48
+     APPROVED Cottonwood Heights Administrative Hearing – 03/01/23                                      1
+ 1   Mr. Johnson opened the public hearing. There were no public comments. The public hearing was
+ 2   closed.
+ 3
+ 4   Mr. Johnson stated that the Oaks at Wasatch are one of the areas in the City where short-term rentals
+ 5   are permitted with this Conditional Use process. He was comfortable with the approval of the item
+ 6   with the compliance requirements set forth in the City regulations.
+ 7
+ 8   MOTION: Mr. Johnson moved to APPROVE Project CUP-23-001 subject to the following:
+ 9
+10   Conditions:
+11
+12          1.      The applicant must complete the necessary steps to obtain a business license through
+13                  the city of Cottonwood Heights. Obtaining a business license will indicate final
+14                  approval of the short-term rental application. The short-term rental property will not
+15                  be considered legal until a Business License is obtained.
+16
+17          2.      The short-term rental property is required to maintain compliance with all sections and
+18                  subsections of Chapter 19.89 and Chapter 5.85 of the Cottonwood Heights Municipal
+19                  Code, as hereafter amended from time to time, and all other legal requirements and
+20                  applicable laws.
+21
+22          3.      Occupancy in any short-term rental property shall not exceed the lesser of (a) up to
+23                  two adults (persons aged 18 and above) and two related children (persons under age
+24                  18) per bedroom, or (b) a total occupancy (adults and children) of no more than 12
+25                  persons in the entire short-term rental property. It is prohibited to create artificial
+26                  divisions or partitions for the purpose of increasing available occupancy of an
+27                  otherwise standard dwelling unit.
+28
+29          4.      This short-term rental property will be approved for no more than four (4) bedrooms.
+30                  The term “bedroom” means a room designated and used primarily for sleeping and
+31                  resting on a bed.
+32
+33          5.      Upon issuance of a Business License and conditional use permit, the applicant must
+34                  display a copy of the Business License inside the main entry of the property.
+35
+36          6.      The facility and its use shall comply with all applicable laws, rules, and regulations,
+37                  including those instituted by the state, county, county health department, or the City
+38                  to mitigate the impact of the COVID-19 pandemic.
+39
+40   Findings:
+41
+42          1.      The proposed short-term rental meets the applicable provisions of Chapter 19.89 and
+43                  Chapter 5.85 of the Cottonwood Heights Municipal Code.
+44
+45          2.      The proposed project will continue to meet the applicable provisions of Chapter 19.84,
+46                  “Conditional Uses,” of the zoning code:
+47
+
+
+     APPROVED Cottonwood Heights Administrative Hearing – 03/01/23                                       2
+ 1                  a.     That the proposed use is one of the conditional uses specifically listed in the
+ 2                         zoning district in which it is to be located (19.89.050).
+ 3
+ 4                  b.     That such use will not, under the circumstances of the particular case, be
+ 5                         detrimental to the health, safety, comfort, order, or general welfare of persons
+ 6                         residing or working in the vicinity.
+ 7
+ 8                  c.     That the use will comply with the intent, spirit, and regulations of this title and
+ 9                         will be compatible with and implement the planning goals and objectives of
+10                         the City.
+11
+12                  d.     That the use will be harmonious with the neighboring uses in the zoning district
+13                         in which it is to be located.
+14
+15                  e.     That nuisances which would not be in harmony with the neighboring uses will
+16                         be abated by the conditions imposed.
+17
+18                  f.     Protection of property values, the environment, and the tax base for the City
+19                         will be assured.
+20
+21                  g.     The use will comply with the City’s General Plan.
+22
+23                  h.     The property will be required to comply with all conditions of approval in
+24                         perpetuity, in accordance with Sections 19.89.160 – Inspections and 19.89.190
+25                         – Violations and penalties of the Cottonwood Heights Municipal Code.
+26
+27   2.0    Consent Agenda
+28
+29          2.1     Approval of Minutes for March 1, 2023.
+30
+31   MOTION: Mr. Johnson moved to APPROVE the Minutes of the March 1, 2023, Administrative
+32   Hearing after the following process is met. The Recorder will prepare the minutes and email them to
+33   the Director and present staff members. The Director and members will have five days to review the
+34   minutes and provide any changes to the recorder. If, after five days there are no changes, the minutes
+35   will stand approved. If there are changes, the process will be followed until the changes are made
+36   and the Director and members agree, at which time the minutes shall be deemed approved.
+37
+38   3.0    Adjournment
+39
+40   The Administrative Hearing adjourned at approximately 12:15 p.m.
+
+
+
+
+     APPROVED Cottonwood Heights Administrative Hearing – 03/01/23                                          3
+1   I hereby certify that the foregoing represents a true, accurate, and complete record of the
+2   Cottonwood Heights City Administrative Hearing held Wednesday, March 1, 2023.
+3
+
+4   Teri Forbes
+5   Teri Forbes
+6   T Forbes Group
+7   Minutes Secretary
+8
+
+
+
+
+    APPROVED Cottonwood Heights Administrative Hearing – 03/01/23                            4
+

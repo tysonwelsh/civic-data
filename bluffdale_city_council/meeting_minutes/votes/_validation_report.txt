@@ -1,0 +1,108 @@
+BLUFFDALE CITY COUNCIL — vote validation
+======================================================================
+meetings                 166
+motions                  971
+member-vote/placeholder  2996
+named motions            513
+tally-only (unnamed)     458
+contested (nay/abst/rec) 75
+body split               {'Council': 872, 'LBA': 22, 'RDA': 77}
+max MEMBER tally / body  {'Council': 5, 'LBA': 5, 'RDA': 5}  (Council members = 5 max)
+mayor votes (Council)    2  (genuine faithful mayor votes: tie-break / recorded)
+off-roster names         0  
+printed-vs-counted mism. 0
+
+CEILING CHECK (<=5 members/tally): PASS
+OFF-ROSTER CHECK (must be 0):      PASS
+
+MAYOR VOTES (Council body — non-voting mayor, so these are genuine events):
+  2022-11-09  Council  motion 4  The motion passed 3-to-2
+  2025-05-14  Council  motion 4  The motion passed 4-to-2
+
+PRINTED-TALLY vs COUNTED mismatches (0) — faithful, NOT patched:
+
+CONTESTED MOTIONS (75):
+  2020-02-12  Council  motion 3  The motion passed 3-to-1  nay=[Mark Hales]
+  2020-04-22  Council  motion 2  The motion failed 4-to-1  nay=[Traci Crockett,Wendy Aston,Dave Kallas,Jeff Gaston]
+  2020-04-22  Council  motion 3  The motion passed 4-to-1  nay=[Mark Hales]
+  2020-04-22  Council  motion 4  The motion passed 4-to-1  nay=[Jeff Gaston]
+  2020-04-22  Council  motion 5  The motion failed 3- to-2  nay=[Mark Hales,Traci Crockett,Wendy Aston]
+  2020-05-27  Council  motion 2  The motion failed 3-to-2  nay=[Dave Kallas,Wendy Aston,Jeff Gaston]
+  2020-05-27  Council  motion 3  The motion failed 3-to-2  nay=[Dave Kallas,Jeff Gaston,Wendy Aston]
+  2020-05-27  Council  motion 5  The motion passed 4-to-1  nay=[Mark Hales]
+  2020-10-28  Council  motion 6  The motion passed 4-to-1  nay=[Mark Hales]
+  2020-11-18  Council  motion 2  The motion passed 4-to-1  nay=[Traci Crockett]
+  2020-12-09  Council  motion 1  The motion passed 4-to-1  nay=[Jeff Gaston]
+  2020-12-09  Council  motion 8  The motion passed 4-to- l  nay=[Jeff Gaston]
+  2021-01-27  Council  motion 2  The motion passed 3-to-2  nay=[Wendy Aston,Jeff Gaston]
+  2021-01-27  Council  motion 3  The motion passed 4-to-1  nay=[Mark Hales]
+  2021-01-27  Council  motion 4  The motion passed 3-to-2  nay=[Jeff Gaston,Traci Crockett]
+  2021-02-10  Council  motion 1  The motion passed 3-to-1  nay=[Jeff Gaston]
+  2021-02-10  Council  motion 2  The motion passed 3-to-1  nay=[Jeff Gaston]
+  2021-02-24  Council  motion 3  The motion failed 3-to-2  nay=[Traci Crockett,Dave Kallas,Mark Hales]
+  2021-02-24  Council  motion 4  The motion passed 3-to-2  nay=[Jeff Gaston,Wendy Aston]
+  2021-02-24  Council  motion 5  The motion failed 3-to-2  nay=[Traci Crockett,Dave Kallas,Mark Hales]
+  2021-02-24  Council  motion 6  The motion passed 3- to-2  nay=[Wendy Aston,Jeff Gaston]
+  2021-02-24  Council  motion 8  The motion passed 4-to-1  nay=[Mark Hales]
+  2021-06-09  Council  motion 2  The motion passed 4-to-1  nay=[Mark Hales]
+  2021-06-09  Council  motion 3  The motion passed 4-to-1  nay=[Mark Hales]
+  2021-06-23  Council  motion 5  The motion passed 3-to-2  nay=[Wendy Aston,Jeff Gaston]
+  2021-06-23  Council  motion 8  The motion passed unanimously 4  nay=[Wendy Aston,Jeff Gaston]
+  2021-06-23  Council  motion 9  The motion passed unanimously  nay=[Wendy Aston,Jeff Gaston]
+  2021-07-28  Council  motion 4  The motion passed unanimously with one abstention  nay=[]
+  2021-08-25  Council  motion 4  The motion passed 4- to-1  nay=[Jeff Gaston]
+  2021-08-25  Council  motion 6  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2021-11-17  Council  motion 4  The motion passed 4-to-1  nay=[Mark Hales]
+  2022-01-12  Council  motion 10  The motion passed 4-to-l  nay=[Wendy Aston]
+  2022-01-12  Council  motion 11  The motion passed 4-to-1  nay=[Wendy Aston]
+  2022-01-12  Council  motion 12  The motion passed 4-to- 1  nay=[Wendy Aston]
+  2022-01-26  Council  motion 5  The motion passed 4-to-1  nay=[Jeff Gaston]
+  2022-03-23  Council  motion 4  The motion passed 3-to-2  nay=[Mark Hales,Jeff Gaston]
+  2022-05-11  Council  motion 3  The motion passed 3-to-2  nay=[Mark Hales,Wendy Aston]
+  2022-06-22  Council  motion 5  The motion passed 3-to-2  nay=[Dave Kallas,Jeff Gaston]
+  2022-06-22  Council  motion 6  The motion passed 3-to-2  nay=[Dave Kallas,Jeff Gaston]
+  2022-06-22  Council  motion 7  The motion passed 3-to-2  nay=[Dave Kallas,Jeff Gaston]
+  2022-09-28  Council  motion 3  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2022-11-09  Council  motion 4  The motion passed 3-to-2  nay=[Traci Crockett,Mark Hales]
+  2023-05-10  Council  motion 6  The motion passed 3-to-2  nay=[Mark Hales,Traci Crockett]
+  2023-05-10  Council  motion 7  The motion passed 3-to-2  nay=[Mark Hales,Traci Crockett]
+  2023-05-24  Council  motion 4  The motion passed 4-to-1  nay=[Mark Hales]
+  2023-06-14  Council  motion 8  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-06-14  Council  motion 9  The motion passed unanimously with one abstention  nay=[]
+  2023-06-14  RDA  motion 12  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-07-12  Council  motion 5  The motion passed 3-to-l  nay=[Mark Hales]
+  2023-08-03  Council  motion 1  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-08-03  Council  motion 2  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-08-03  Council  motion 3  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-08-23  Council  motion 3  The motion passed 3-to-2  nay=[Dave Kallas,Traci Crockett]
+  2023-12-13  Council  motion 6  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2023-12-13  Council  motion 8  The motion passed 4-to-l  nay=[Jeff Gaston]
+  2024-02-28  Council  motion 2  The motion failed 3-to-2  nay=[Wendy Aston,Greg Wilding,Traci Crockett]
+  2024-02-28  Council  motion 3  The motion passed 3-to-2  nay=[Steve Austin,Alan Lord]
+  2024-05-22  Council  motion 4  The motion passed 4-to-l  nay=[Steve Austin]
+  2024-08-14  Council  motion 4  The motion passed 3-to-l  nay=[Traci Crockett]
+  2024-08-28  Council  motion 2  The motion passed 4-to-I  nay=[Steve Austin]
+  2024-09-11  Council  motion 3  The motion passed 3-to-2  nay=[Steve Austin,Alan Lord]
+  2024-09-11  Council  motion 4  The motion passed 3-to-2  nay=[Alan Lord,Steve Austin]
+  2024-09-11  Council  motion 5  The motion passed 3-to-2  nay=[Alan Lord,Steve Austin]
+  2024-12-11  Council  motion 11  The motion failed unanimously  nay=[Greg Wilding,Traci Crockett,Alan Lord,Steve Austin,Wendy Aston]
+  2025-02-26  Council  motion 4  The motion passed 4-to-1 with 10 one abstention  nay=[]
+  2025-02-26  Council  motion 5  The motion passed 4-to-1 with one abstention  nay=[]
+  2025-02-26  Council  motion 6  The motion passed 4-to-1 with one abstention  nay=[]
+  2025-05-14  Council  motion 3  The motion passed 3-to-2  nay=[Alan Lord,Steve Austin]
+  2025-05-14  Council  motion 4  The motion passed 4-to-2  nay=[Alan Lord,Steve Austin]
+  2025-05-14  Council  motion 7  The motion passed 4-to-l  nay=[Steve Austin]
+  2025-09-24  Council  motion 4  The motion failed 3-to- 2  nay=[Greg Wilding,Traci Crockett,Wendy Aston]
+  2025-09-24  Council  motion 5  The motion passed 4-to-1  nay=[Alan Lord]
+  2026-03-25  Council  motion 4  The motion failed with the unanimous consent of the Council  nay=[Mackey Smith,Alan Lord,Steve Austin,Wendy Aston,Greg Wilding]
+  2026-06-10  Council  motion 4  The motion passed 4-to-1  nay=[Steve Austin]
+  2026-06-10  Council  motion 5  The motion passed 4-to-1  nay=[Steve Austin]
+
+PER-YEAR OBSERVED VOTERS:
+  2020: Dave Kallas, Derk Timothy, Jeff Gaston, Mark Hales, Traci Crockett, Wendy Aston
+  2021: Dave Kallas, Derk Timothy, Jeff Gaston, Mark Hales, Traci Crockett, Wendy Aston
+  2022: Dave Kallas, Jeff Gaston, Mark Hales, Natalie Hall, Traci Crockett, Wendy Aston
+  2023: Dave Kallas, Jeff Gaston, Mark Hales, Natalie Hall, Traci Crockett, Wendy Aston
+  2024: Alan Lord, Greg Wilding, Natalie Hall, Steve Austin, Traci Crockett, Wendy Aston
+  2025: Alan Lord, Greg Wilding, Natalie Hall, Steve Austin, Traci Crockett, Wendy Aston
+  2026: Alan Lord, Greg Wilding, Mackey Smith, Natalie Hall, Steve Austin, Wendy Aston

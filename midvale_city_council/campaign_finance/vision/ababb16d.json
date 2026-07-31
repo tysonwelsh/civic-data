@@ -1,0 +1,27 @@
+{
+  "contributions": [
+    {"date": null, "name": "Rainer Lilbok", "amount": "133.69", "in_kind": false},
+    {"date": null, "name": "Rainer Lilbok", "amount": "25.00", "in_kind": false},
+    {"date": null, "name": "Rainer Lilbok", "amount": "30.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Midvale City Filing Fee", "purpose": null, "amount": "25.00", "in_kind": false},
+    {"date": null, "recipient": "Women's Democratic Club of Utah Membership Fee", "purpose": null, "amount": "30.00", "in_kind": false},
+    {"date": null, "recipient": "Signs on the Cheap", "purpose": null, "amount": "133.69", "in_kind": false}
+  ],
+  "total_contributions": "188.69",
+  "total_expenditures": "188.69",
+  "contributions_50_or_less": "55.00",
+  "beginning_balance": "0",
+  "ending_balance": "0",
+  "_meta": {
+    "index_path": "raw/2025_16_Rainer-Lilbok.pdf",
+    "candidate": "Rainer Lilbok",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/midvale_city_council/campaign_finance/raw/2025_16_Rainer-Lilbok.pdf",
+    "pages": 5,
+    "note": "28-days-prior interim (Oct-7-2025 report; first filing). All three Schedule A contributions are the candidate self-funding (Part I 133.69 + Part II 25.00 + 30.00). Part II subtotal 55.00 (contributions_50_or_less). TOTAL CONTRIBUTIONS RECEIVED 188.69 = TOTAL EXPENDITURES 188.69 (net 0). Only Summary Column A (thru Oct 7) filled; begin 0 / close 0. No date column and no purpose column on this form (Midvale 2025 quirk) -> row dates null, expenditure purposes null with payee verbatim in recipient."
+  }
+}

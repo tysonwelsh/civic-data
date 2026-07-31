@@ -1,0 +1,89 @@
+{
+ "date": "2025-03-26",
+ "title": "Planning Commission",
+ "meeting_type": "regular",
+ "body": "PlanningCommission",
+ "present": [
+  "Darrick Porter",
+  "Harold Woodruff",
+  "Martell Winters",
+  "Mathew Lovato",
+  "Nancy Drozdek",
+  "Pauline Matagi"
+ ],
+ "source": "minutes/2025/2025-03-24/2025-03-26_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve GPZ-3-2025",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan & Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 6:0",
+   "result_source": "UNANOMOUS—GPZ-3-2025--APPROVED",
+   "outcome_word": "approved",
+   "mover": "Martell Winters",
+   "seconder": "Harold Woodruff",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 6,
+    "nays": 0,
+    "source": "UNANOMOUS—GPZ-3-2025--APPROVED"
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve GPZ-2-2025 subject to conditions (a) through (k), plus two additional conditions being: 1) provide one stall per unit in the parking structures; 2) landscape around the ground level parking structures",
+   "body": "PlanningCommission",
+   "motion_type": "General Plan & Rezone",
+   "action_category": "recommendation",
+   "result": "Positive recommendation 7:0",
+   "result_source": "UNANOMOUS—GPZ-2-2025--APPROVED",
+   "outcome_word": "approved",
+   "mover": "Rob Durfee",
+   "seconder": "Harold Woodruff",
+   "names_recorded": true,
+   "aye": [
+    "Darrick Porter",
+    "Harold Woodruff",
+    "Martell Winters",
+    "Mathew Lovato",
+    "Nancy Drozdek",
+    "Pauline Matagi",
+    "Rob Durfee"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "to approve the Minutes",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "action_category": "procedural",
+   "result": "6:0 Pass",
+   "result_source": "all members voted in favor of the motion.",
+   "outcome_word": "",
+   "mover": "Rob Durfee",
+   "seconder": "Nancy Drozdek",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "tally_only": {
+    "ayes": 6,
+    "nays": 0,
+    "source": "all members voted in favor of the motion."
+   }
+  }
+ ]
+}

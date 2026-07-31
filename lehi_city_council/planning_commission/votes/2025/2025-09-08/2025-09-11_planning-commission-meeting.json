@@ -1,0 +1,150 @@
+{
+ "date": "2025-09-11",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "source": "planning_commission/minutes/2025/2025-09-08/2025-09-11_planning-commission-meeting.md",
+ "format": "text",
+ "members_present": [
+  "Gregory Jackson",
+  "Brent Everett",
+  "Tyson Eyre",
+  "Nicole Kunze",
+  "Emily Lockhart",
+  "Beau Jones"
+ ],
+ "members_absent": [
+  "Ken Roberts"
+ ],
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Commissioner Eyre moved to approve the minutes as presented. Commissioner Everett seconded.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 2,
+   "motion": "Commissioner Lockhart moved to table the item to give the applicant an                 opportunity to provide the burden of proof for the amphitheater and wind study,                 and why the amphitheater can’t go where the dog park is being suggested, to                 provide additional support for the evidence of the dog park being for the residents                 and potentially moving it closer to the residents. The commission would like to                 see other design options, and to see the intent of the code being met.",
+   "body": "PlanningCommission",
+   "motion_type": "Procedural/Administrative",
+   "stage": "pc_final_action",
+   "direction": null,
+   "result": "4:1 Pass",
+   "mover": "Emily Lockhart",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [
+    "Tyson Eyre"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": [
+    4,
+    1
+   ]
+  },
+  {
+   "motion_no": 3,
+   "motion": "Public hearing and consideration of Colby Anderson’s request for approval of revisions to the Moto United Site Plan to include an 8-foot fence located at 405 South Millpond Drive",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Nicole Kunze",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 4,
+   "motion": "Public hearing and consideration of Adam Albrecht’s request for preliminary subdivision approval of Garden Park, a 4-lot residential development located at 500 South Center Street.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_final_action",
+   "direction": "approve",
+   "result": "5:0 Approved (Final Action)",
+   "mover": "Tyson Eyre",
+   "seconder": "Brent Everett",
+   "aye": [
+    "Emily Lockhart",
+    "Brent Everett",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  },
+  {
+   "motion_no": 5,
+   "motion": "Public Hearing and Recommendation of Lehi City’s request for a review of a Development Code Amendment to Chapter 37, Connectivity Standards.",
+   "body": "PlanningCommission",
+   "motion_type": "Land-Use/Zoning",
+   "stage": "pc_recommendation",
+   "direction": "positive",
+   "result": "Positive recommendation 5:0",
+   "mover": "Emily Lockhart",
+   "seconder": "Tyson Eyre",
+   "aye": [
+    "Brent Everett",
+    "Emily Lockhart",
+    "Tyson Eyre",
+    "Gregory Jackson",
+    "Nicole Kunze"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "outcome": "Pass",
+   "printed_tally": null
+  }
+ ]
+}

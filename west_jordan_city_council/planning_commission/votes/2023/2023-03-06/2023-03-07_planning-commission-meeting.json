@@ -1,0 +1,54 @@
+{
+ "date": "2023-03-07",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "text",
+ "source": "planning_commission/minutes/2023/2023-03-06/2023-03-07_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the Minutes from February 21, 2023",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Jay Thomas",
+   "seconder": "Trish Hatch",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "to continue the major variation to the preliminary master development plan for Copper Rim Phase 9 to the March 21, 2023 meeting",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "6:0 Pass",
+   "mover": "Matt Quinney",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "to forward a positive recommendation to the City Council for the Text Amendment to Sections 13-13-10 and 13-18-10 regarding tree canopies except leaving the height at 15 feet and inserting ‘gravitationally vertical’ after 15 feet",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 6:0",
+   "mover": "Matt Quinney",
+   "seconder": "Jay Thomas",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

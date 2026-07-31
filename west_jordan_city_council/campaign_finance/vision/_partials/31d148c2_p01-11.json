@@ -1,0 +1,69 @@
+{
+  "segments": [
+    {
+      "pages": "1-8",
+      "report_label": "FINAL (Municipal General Election) — signed 2021/11/28, received-stamped NOV 29 2021 (Tangee), transmittal sheet dated 12/2/2021",
+      "cover_lines": {
+        "line1_balance_forward": "10,905.18",
+        "line2_contributions_50_or_less": "-",
+        "line3_contributions_over_50": "1,500.00",
+        "line4_total_contributions": "1,500.00",
+        "line5_total_expenses": "(5,718.86)",
+        "line6_ending_balance": "6,686.32"
+      },
+      "contributions": [
+        {
+          "date": "10/30/2021",
+          "name": "BUTMGS, LLC",
+          "amount": "1,500.00",
+          "in_kind": false
+        }
+      ],
+      "expenditures": [
+        {
+          "date": "10/25/2021",
+          "recipient": "FACEBOOK*",
+          "purpose": "ADVERTISING",
+          "amount": "50.00",
+          "in_kind": false
+        },
+        {
+          "date": "11/3/2021",
+          "recipient": "FACEBOOK",
+          "purpose": "ADVERTISING",
+          "amount": "48.86",
+          "in_kind": false
+        },
+        {
+          "date": "11/10/2005",
+          "recipient": "KELVIN GREEN",
+          "purpose": "LOAN REPAYMENT",
+          "amount": "390.00",
+          "in_kind": false
+        },
+        {
+          "date": "11/28/2021",
+          "recipient": "KELVIN GREEN",
+          "purpose": "LOAN REPAYMENT",
+          "amount": "5,230.00",
+          "in_kind": false
+        }
+      ]
+    },
+    {
+      "pages": "9-11",
+      "report_label": "INTERIM (pre-general, Oct 26 checkbox checked) — signed 10/25/2021, received-stamped OCT 25 2021 10:50 (Tangee Sloan); transmittal sheet dated 10/25/2021 is headed 'FINAL:' but its body text and the checked box are the Oct-26 pre-general INTERIM",
+      "cover_lines": {
+        "line1_balance_forward": "2,665.24",
+        "line2_contributions_50_or_less": "265.00",
+        "line3_contributions_over_50": "17,793.78",
+        "line4_total_contributions": "18,058.78",
+        "line5_total_expenses": "-9,818.84",
+        "line6_ending_balance": "10,905.18"
+      },
+      "contributions": [],
+      "expenditures": []
+    }
+  ],
+  "notes": "Bundle = two full reports; PDF p1-8 is the complete FINAL report (matches the known-good capture: line3 1,500.00 / line5 (5,718.86) / line6 6,686.32, dated 2021/11/28). PDF p9 starts the SECOND (earlier, never-captured) report: p9 transmittal sheet, p10 cover lines 1-2, p11 cover lines 3-6 + signature 10/25/2021. The INTERIM report's Attachments A/B (its itemized contributions and expenditures backing line3 17,793.78 and line5 -9,818.84) continue on p12+ and are OUTSIDE this page range — its contributions/expenditures arrays here are empty by mid-report page-boundary, not because the report has none. FINAL-report details: p2 line1 carries a highlighted '(INCLUDES INKIND)' annotation; p3 carries extra non-numbered lines 'ACCOUNTING ADJUSTMENT FOR INKIND ... -$6,535.94' and 'TOTAL CASH ON HAND/BALANCE FORWARD $150.38'. Attachment A-1 (p7): single contributor BUTMGS, LLC, address verbatim '7103 S REDWOORD RD #138, WJ' (REDWOORD typo preserved), TOTAL $1,500.00; Attachment A box 1 (<=$50 aggregate) = '-' (unitemized, no rows synthesized). Attachment B (p8): 4 rows, TOTAL THIS REPORTING PERIOD $5,718.86; first FACEBOOK row is starred with table note '* WAS AUTOBILLED AFTER REPORT DUE ON 10/25/2021 WAS SUBMITTED'; KELVIN GREEN loan-repayment rows show addresses 'ON FILE' and 'OF FILE' (verbatim, 'OF' likely a typo for 'ON'); the 11/10/2005 date is verbatim from the form (almost certainly a typo for 11/10/2021, preserved as printed). Attachment C (p8): no in-kind rows; header line 'PREVIOUS INCOME IN KIND TOTAL (WILL DO AS ADJUSTMENT ABOVE) $6,535.94' and 'TOTAL IN-KIND CONTRIBUTIONS $0.00' — not transcribed as contribution rows. Pages 4-6 are municipal-code boilerplate; 'Date of Report 1/0/1900' on p5/p6 is an unfilled form auto-populate artifact. Line5 sign conventions verbatim: FINAL prints parenthesized '(5,718.86)', INTERIM prints '-9,818.84'. No illegible spots in p1-11."
+}

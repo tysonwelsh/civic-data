@@ -1,0 +1,7 @@
+# roster_overrides.csv — hand-editable correction layer for the Logan council roster.
+# Applied LAST by roster_lib.apply_overrides (wins ties). Keyed by (seat_id, person_key, start_date).
+# Any non-empty cell here overrides the generated value for the matching council_terms.csv row.
+# Currently 0 data rows — the generated roster reconciles cleanly from elections + cities.db +
+# minutes. Add a row here (never hand-edit council_terms.csv) if a documented fact surfaces, e.g.
+# the exact effective date of a resignation letter. See roster/CLAUDE.md.
+seat_id,person_key,start_date,person_name,start_date_override,end_date,start_event,end_event,election_year,sources,confidence,note

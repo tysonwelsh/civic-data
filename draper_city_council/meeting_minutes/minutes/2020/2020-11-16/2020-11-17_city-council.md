@@ -1,0 +1,1554 @@
+# City Council Meeting
+> Source: https://draper.granicus.com/MinutesViewer.php?view_id=1&clip_id=362&doc_id=5a24f77c-3a3b-11eb-bc32-0050569183fa
+> Meeting date: 2020-11-17
+> Format: text
+
+Approved December 8, 2020
+MINUTES OF THE DRAPER CITY COUNCIL MEETING HELD ON TUESDAY,
+NOVEMBER 17, 2020, IN THE DRAPER CITY COUNCIL CHAMBERS, 1020 EAST
+PIONEER ROAD, DRAPER, UTAH
+
+PRESENT:                Mayor Troy K. Walker, and Councilmembers Mike Green, Tasha Lowery,
+                        Fred Lowry, Cal Roberts, and Marsha Vawdrey
+EXCUSED:
+
+STAFF PRESENT:      David Dobbins, City Manager; Mike Barker, City Attorney; Laura
+                    Oscarson, City Recorder; Scott Cooley, City Engineer; Hazel Dunsmore,
+                    Human Resource Director; John Eining, Police Chief; Russ Fox, Assistant
+                    City Manager; Rhett Ogden, Recreation Director; Christina Oliver,
+                    Community Development Director; Clint Smith, Fire Chief; Britnee
+                    Johnston, Communications Director; and Bob Wylie, Finance Director
+________________________________________________________________________
+This meeting was held electronically according to Draper City Municipal Code 2- 1-040.
+Determination 2020-25, pursuant to Utah Code Annotated 52-4-207(4)
+
+I, Mayor Troy K. Walker, do hereby determine conducting an electronic meeting of the Draper City Council
+with an anchor location presents a substantial risk to the health and safety of those who may be present at
+the anchor location and hereby authorize the Draper City Council to conduct electronic meetings
+without an anchor location. The foregoing determination is based on the following facts:
+
+    1. Federal, state, and local leaders, including the Draper City Mayor and City Council, have
+       all recognized a global pandemic caused by the spread of the COVID-19 virus.
+    2. Governor Herbert and the Utah Department of Health have recently issued updated orders
+       in response to record numbers of COVID-19 cases and COVID-19-related hospitalizations.
+       The orders implement statewide what has been termed a “mask mandate” and have severely
+       limited social gatherings in an attempt “to prevent and control the rapidly changing
+       consequences of COVID- 19 throughout the state.”
+    3. It is difficult, if not impossible, to predict the number of attendees at any meeting and to
+       manage issues regarding social distancing in order to comply with applicable health orders.
+    4. COVID-19 poses a continuing and immediate threat to the health, safety, and welfare of
+       Draper City residents and the public in general.
+    5. The City has the technological capability to provide means by which the public may hear,
+       or view and hear, the open portions of the meeting and to participate in public hearings.
+
+To participate, please see the options below:
+
+    1. Listen through the Draper City website - https://www.draper.ut.us/95/Agendas- Minutes
+    2. Email comments to public.comment@draper.ut.us. These will become part of the public
+       record.
+    3. Those wishing to speak during the meeting, send a request and include your name, address, and
+       phone number which you will be calling from, for the Zoom meeting ID to
+       public.comment@draper.ut.us.
+Study Session
+
+1.0   Report: Alta View Hospital's community response during the pandemic - Scott
+      Roberson and Amber Nielsen
+
+1.1   Scott Roberson noted that he was a Draper resident of more than 20 years and thanked the
+      Council for their support to his family and the Draper community. He explained that Alta
+      View Hospital was a 60-bed hospital located in Sandy just north of the Draper boundary.
+      He said he felt that things were going as well as they could for their hospital. Like most
+      places in Utah, they had been greatly impacted by the surge in the COVID-19 pandemic.
+      He said that they were proud of the work that they did and of their caregivers. However,
+      they were feeling stressed out and are getting close to reaching a breaking point. He said
+      that because it was such a demanding time for any healthcare working, anything anyone
+      could do to offer support was appreciated.
+
+      Mr. Roberson informed the Council that there were currently 375 patients hospitalized in
+      an Intermountain Health Care facility. Seven of those were at Alta View. He noted that
+      they were a small community hospital that had an eight-bed intensive care unit. However,
+      when patients got really sick, they were sent out of Alta View hospital to a larger facility
+      where they could be grouped with other really sick COVID patients. That was a good
+      thing, allowing patients to be treated by experts in a specific field. Despite that, there were
+      still those seven patients at Alta View. The role of Alta View was to take care of less sick
+      COVID patients and continue to offer other services expected from a community hospital
+      such as orthopedic surgery and general surgery.
+
+      Alta View had recently completed an extensive renovation and remodel to create a new
+      patient tower. That left a lot of old, unused space on the campus, including 35 beds and
+      rooms in the old emergency space that could be used as overflow for COVID positive
+      patients. He said that those rooms had been refurbished and equipped with all of the
+      supplies and other equipment that is typically needed to treat COVID patients so that the
+      rooms stood ready to be used by Intermountain Healthcare if needed.
+
+      Mr. Roberson then shared some information specific to the south end of the valley. He
+      said that since COVID started, Alta View had taken care of 197 COVID positive patients.
+      The average length of stay for those patients in the ICU was about six days. Patients on
+      the regular floor were admitted for an average of 3.5 days. Interestingly, since October 1,
+      the hospital had taken care of 111 COVID positive patients. 56% of the COVID patients
+      Alta View cared for came in during the last six weeks. He said that the hospital was doing
+      something really good for their patients and community; if a patient shows up at
+      Intermountain Medical Center where the sickest patients are being directed, Alta View has
+      served as an extension to handle less severe cases to keep beds free for the sickest COVID
+      patients.
+
+      Mr. Roberson said that they were hopeful that in a couple of months the vaccine would
+      make a difference as it became available to the public. He also stated their gratitude for
+
+                                          Page 2 of 33
+      the support received from the community throughout this process. He said that several
+      businesses within Draper City had brought food items like smoothies for their caregivers
+      that had brightened their team’s day.
+
+1.2   Amber Nielsen added that Alta View was a great place to receive care and that the
+      community surrounding it did support its caregivers. She also thanked Draper for the
+      support.
+
+1.3   Councilmember Green thanked the Alta View representatives and stated that if they ever
+      needed anything from the Council that they should not hesitate to ask. The Council would
+      support them however they could.
+
+1.4   Councilmember F. Lowry echoed Councilmember Green’s comments of appreciation. He
+      said that the Council could only imagine the challenges they were dealing with right now.
+      He asked about the proper protocol to bring different items to caregivers such as smoothies
+      to help lift folks. He also asked what Draper could do as a City to help support caregivers.
+
+1.5   Mr. Roberson said that the right protocol would just be to call him at 801-501-2700. He
+      would then put the giver in touch with the volunteer services manager. He said it was an
+      easy process. He said that it meant so much to caregivers dealing with the tough stuff. He
+      said that although Alta View did not have a lot of COVID patients right now, they had an
+      increase in other patients.
+
+1.6   Councilmember T. Lowery clarified that Alta View was not full of COVID patients
+      currently. She asked what percentage was COVID patients.
+
+      Mr. Roberson said they currently had seven COVID patients, which translated into roughly
+      20% of their patients being COVID positive. He said that last week 50% of patients were
+      COVID positive. He said that their capacity depended on the week and how sick the
+      patients got. He said that if someone arrived at Alta View and did not need to be on a
+      ventilator, chances were that they could stay at Alta View. However, if someone were put
+      on a ventilator they would be transferred to another hospital where they could receive more
+      specialized care.
+
+      Councilmember T. Lowery asked if that was a trend. She further inquired if they were
+      seeing the COVID numbers go down since last week, or if the numbers were arbitrary.
+
+      Mr. Roberson said that a couple of things had happened. The other hospitals that he had
+      mentioned who took care of sicker patients had gotten more creative with their space and
+      were making new units and departments to place COVID patients. LDS hospital had
+      recently opened up 35 new beds to take care of sicker patients. The medical center in
+      Murray converted some of their units into COVID units. Riverton Hospital had a pediatric
+      unit that they had since closed to pediatrics to open to COVID patients. Because of this,
+      there was more capacity across the valley for COVID patients causing a decrease in volume
+      at Alta View. He also noted that anytime there was a public policy change the hospital
+      sees the impacts of the change about two weeks after the change was made. Following this
+
+                                         Page 3 of 33
+      trend, they would not expect to see any change from Governor Herbert’s mandates for
+      about another week.
+
+2.0   Discussion: Public Hearing Information Submittal Deadlines - David Dobbins
+
+2.1   David Dobbins, City Manager, explained that the code currently states that if an item is
+      continued then it needed to be re-noticed. He stated that he thought the code intended that
+      if the actual public hearing needed to be rescheduled, the City would send out notification
+      again to ensure that the public was aware of the new public hearing date. He noted that on
+      tonight’s agenda there was an item to clarify that if the Council closed the public hearing,
+      but the item itself was continued, the City would not send out additional noticing because
+      the item would be listed as an action item on the next agenda.
+
+      As a follow up to this point, Mr. Dobbins said that the Council’s policy raised a couple of
+      questions. First, if a public hearing is closed and the item is continued to the next council
+      meeting, people will often send emails to and want to communicate with the Council about
+      an item even though the public hearing was closed. Sometimes that could create a problem
+      because if an applicant submits information that the neighbors were not aware of, the
+      neighbor might ask when they can comment on that new information. Because of this,
+      staff inquired if the Council wanted to clarify their practice/policy so that the public hearing
+      is either kept open to allow people to submit written comments or if the Council wanted to
+      tell the public that they would no longer accept any public comment. They could send an
+      email; it just would not become part of the public record for that particular item.
+
+      Mr. Dobbins asked if the Council had any suggestions on how they wanted to move ahead.
+
+2.2   Councilmember F. Lowry asked if they were simply talking about instances when the
+      public hearing closed, and the Council ended up not voting on an item.
+
+      Mr. Dobbins reiterated they were talking about instances when the Council closed the
+      public hearing but chose not to vote, so the item got bumped to the next agenda. Staff
+      wanted feedback on what the Council’s policy was about receiving public comment
+      between when the two meetings. He said technically the public hearing was closed so staff
+      needs clarification if the Council still wanted to receive public comment. Essentially if
+      residents called staff, were they supposed to thank the resident for the information, but
+      inform that the public hearing was closed and therefore not pass the information on to the
+      Council, or did the Council want to keep the public hearing open so that everyone could
+      see the shared information.
+
+      Councilmember F. Lowry summarized that by leaving the public hearing open it would
+      allow the Council to review emails that were sent in between when the live public comment
+      was held and the meeting when the item was voted on.
+
+      Mr. Dobbins said that this was a gray area. The Council could receive the emails. He
+      asked the Council to assume it was a controversial item and the applicant sent an email
+      saying that all the public comment that was received at the last meeting was incorrect. In
+
+                                           Page 4 of 33
+      response, the neighbors say, “hold on, I disagree. When do I get to speak to what the
+      applicant just said?” Because the public hearing was closed, the neighbors would only be
+      able to send an email or written comment.
+
+      He said that staff was suggesting that if the Council wanted to continue to receive
+      comments and discuss them at the next meeting, they might want to consider keeping the
+      public hearing open.
+
+2.3   Councilmember T. Lowery said that she felt as though the public comment should be kept
+      open because if the applicant can keep submitting information, but the public was not able
+      to respond an equity issue was created.
+
+      Mr. Dobbins said that if someone emailed the Council and the public hearing was closed,
+      the Council should read it. The question was how to make that available to everyone.
+
+      Mayor Walker said that the issue would occur that if the Council continued a bunch of
+      stuff, there would be a second meeting for every single event. If there was a lot of public
+      comment that was closed and then continued, then the Council would have to do it all over
+      again. This would create a substantial amount of work.
+
+      Mr. Dobbins said that they could tell people that the public hearing was closed.
+      Information could be submitted in writing, but it would not be a part of the official record
+      or that particular item.
+
+      Mayor Walker said that they should not have the applicants making more stuff either. He
+      said the item was being continued so that the Council could think about how they wanted
+      to vote. He did not think that the applicants should be able to submit additional information
+      either so that it was fair to both the applicant and the public.
+
+      Councilmember T. Lowery said that the continuation of the item was strictly for
+      deliberation for the Council.
+
+      Mr. Dobbins said that staff would make sure to communicate that to the public; once the
+      public hearing was closed, they were not soliciting any formal feedback.
+
+2.4   Mayor Walker asked if it were not true of the code now that if the Council did not make a
+      motion that it would roll to the next agenda.
+
+2.5   Mike Barker, City Attorney, said that it was those instances that they were trying to address.
+      He said that they were trying to clarify what needed to be included in a motion to continue
+      an item. He said that there could be instances where the Council wanted to continue to
+      receive more input and if that were the case, this could be specified in the motion.
+      However, if the item was continued because of silence (a lack of a motion) they were trying
+      to address what the idea was behind the silence: the Council wanted to mull over what was
+      said and vote at the next meeting.
+
+
+
+                                          Page 5 of 33
+3.0   Update: Draper City Logo – Britnee Johnston
+
+3.1   Britnee Johnston, Communications Director, reminded the Council that last time they had
+      discussed the logo as a group they had decided to come up with a few more logo options
+      before sending them out for a public survey to residents and employees. She said that she
+      had been working to come up with those new options as displayed. She noted that they
+      were created with the new direction offered by the Council that life was good in Draper,
+      that open space was the gem of the City and what set Draper apart, and focusing on a single
+      aspect of Draper as opposed to trying to incorporate multiple ideas in the logo.
+
+      She proposed that they send the five new designs and the current logo out to the public
+      survey. It would be conducted through email as ranked based voting. A person would
+      have to take each logo and rank them from number one (their favorite) to number six (their
+      least favorite). A comment box would also be provided in the survey for any public
+      comment. The survey would go out to 1,200 residents, the same sample group that received
+      the general plan resident survey. The sample group already represents the demographics
+      and neighborhoods of Draper. After getting the survey results, Ms. Johnston would work
+      with the Council to pick a single logo and make any final edits to it based on the public
+      input.
+
+      Ms. Johnston clarified that the Council was not deciding on a logo today but specifying if
+      they were at a point to move on to the public input portion of the logo development.
+
+      Also, Ms. Johnston went through each of the logos briefly so that the Council could know
+      the thought behind them. For each of the logos, she displayed alternative logo formats in
+      one color black, and one color blue. She also displayed what they would look like on
+      apparel, a city truck, a street sign, and on doors.
+
+             •       Option 1: (Square logo featuring Lone Peak and the word Draper contained
+                     within the square.) She said the logo was unique and stands out because
+                     there was no other City around Draper that had a square logo. It was also
+                     not the typical landscape as it used a mosaic style that featured open space
+                     in the foreground and a sunlit sky in the back. She noted that upward
+                     pathways were representing new opportunities. Also, the logo was quite
+                     colorful compared to past logo iterations. The logo represents a liveliness,
+                     that Draper has diverse opportunities, and that the City was vibrant and full
+                     of life. The colors would also look great on the website.
+             •       Option 2: (An oval containing Lone Peak with the word Draper flagged
+                     across the center and extending beyond the oval of the logo.) Ms. Johnston
+                     described this logo as “bold, yet simple.” The Draper name stood out with
+                     Lone peak more defined in this option. The bottom of the logo had an open
+                     space with the roads leading upwards. She said that this logo was also in
+                     alignment with Silicon Slopes that also featured their name within a circle.
+                     Because of this, the logo communicated that Draper was on trend with the
+                     tech industry.
+
+
+                                         Page 6 of 33
+             •       Option 3: (A D, with Lone Peak, depicted in the bottom third portion of the
+                     letter and its summit extending into the negative space of the letter. Draper
+                     follows outside of the vertical line of the D.) Ms. Johnston explained that
+                     this was one of the original selections from the internal logo committee.
+                     The designer tried other colors, gradients, and mountain illustrations. The
+                     original illustration was the best. As a result, they stuck closely to the
+                     original logo, but removed the tech squares and removed the gradient to put
+                     it into a single dark teal blue. She said that she felt as though the mountain
+                     illustration showed strength and could represent the strength in Draper’s
+                     commerce, economy, and community.
+             •       Option 4: (A letter D shape filled in with a more abstract depiction of Lone
+                     Peak with open space and leading lines in the foreground. Draper and Utah
+                     appear stacked underneath the logo.) Ms. Johnston described this as a
+                     simpler version of the letter D more to the blues and greens of the current
+                     colors. These were a little more calming. There was open space and
+                     foothills in the front with a simple peak in the back.
+             •       Option 5: (An oval with the bold color scheme with Lone Peak in the
+                     background and the open space in the foreground. Draper and Utah appear
+                     stacked underneath the logo.): Ms. Johnston noted that this was a similar
+                     illustration as Option 1, but from a slightly different angle and contained in
+                     a ring. She said that the ring gave it a slightly different feeling of classy
+                     containment. There were the unique mosaic illustration and the bold colors
+                     representing liveliness and diversity and the upward pathways of new
+                     opportunities.
+
+3.2   Councilmember Green asked Ms. Johnston what was her favorite logo. Ms. Johnston said
+      that he could ask her that. She said that she was good with any of them. Councilmember
+      Green said that it was her area of expertise.
+
+      Ms. Johnston said that she felt that the second option (the oval with Draper flagged across
+      is) had the most widespread appeal. She felt that the first and fifth options were the most
+      unique if the Council wanted to stand out.
+
+      Councilmember Green said that he agreed with her on option two. He said that these
+      options were much better and that the second iteration was much cleaner. He said he
+      appreciated this very much and that she went through the process and doing all of the work.
+      Mayor Walker said that he liked options two and three. Councilmember Green said that
+      he felt Ms. Johnston was good to move forward with getting resident feedback.
+
+3.3   Councilmember Vawdrey said that she liked option three. The only thing that she did not
+      like about it was that on the truck and the sign it looked like ID because the word Draper
+      looked like an I from a distance.
+
+3.4   Councilmember F. Lowry said that he had been favoring option 3 until she presented the
+      new versions. He said that he felt options 1, 2, 4, and 5 all outshined option 3 now and
+      looked cleaner.
+
+                                         Page 7 of 33
+3.5   Ms. Johnston said that if the Council felt as though there were at least one or two options
+      that they liked in this group she felt as though they should move on to the public. There
+      was enough variety to choose from.
+
+      When Mayor Walker asked, the Council concurred with Ms. Johnston taking the logos to
+      the public.
+
+      Councilmember Roberts said that he was partial to option 2 and that he hoped the public
+      felt the same.
+
+3.6   Councilmember F. Lowry said that he was also partial to option 2. He wondered how the
+      logo would look if they took the mountain shape from option 4 and put it in place of the
+      mountain shape in option 2.
+
+      Ms. Johnston said that she would keep that input in mind. She explained that after they
+      had received all the input from the public they could return to the Council’s ideas.
+      However, she felt that it would be good to get what the public was favoring so that they
+      did not spend too much time on a logo option that the public did not want. She
+      recommended keeping the logos as is and then revisiting them afterward.
+
+4.0   Council/Manager Reports
+
+4.1   Councilmember F. Lowry said that he had met with the Tree Commission in the morning.
+      He said that they were seeking counsel from the Council on what their goals were. He said
+      that they were concerned about presenting different plans on tasks they could help do, only
+      to have the Council shoot down their options from a budgetary standpoint. One of the
+      primary projects discussed was the entryway from Riverton into Draper and coming up
+      with a plan on what could be done there. He said that Rhett Ogden, Parks and Recreation
+      Director was helpful on the call through his realization that to do that entry right would
+      require more effort than just the Tree Commission to help beautify that area. He wanted
+      to give a heads up that there would likely be a report from the Tree Commission soon.
+      Because of this, he felt that the Council needed to be open to what projects they would like
+      to support the Tree Commission with, and determine the available funds to put towards
+      beautifying the City.
+
+      Mr. Ogden said that Parks and Recreation would be happy to help with a project in that
+      area or whatever the Council desires. He said that the entryway had been on their
+      beautification list for several years. If it were something the Council wanted to move
+      forward on, Parks and Recreation would be happy to work on it with the Tree Commission.
+
+      Councilmember T. Lowery said that she would love to see some beautification off of the
+      14600 South entrance. She said that she didn’t feel as though it had to happen right now,
+      but that as they got closer to having the Plural Sight campus open, she felt it would be a
+      gateway into the City as well. It would be quite nice to have it be a little bit nicer right
+      there.
+
+                                         Page 8 of 33
+      Councilmember F. Lowry said that the Tree Commission had discussed that area as one of
+      the locations to look at improving. He asked Mr. Dobbins if he recalled correctly that the
+      area was under UDOT’s jurisdiction and responsibility. He asked if the City would need
+      to talk to UDOT to make changes to that area.
+
+      Mr. Dobbins said that the City would need to talk to UDOT because they would need to
+      put a water or power source out there in a UDOT right-of-way. He said that would be easy
+      to coordinate with UDOT.
+
+      Councilmember F. Lowry asked if Mr. Dobbins could explore that. He said that if that
+      area was determined a priority over the Riverton entrance or if the Council wanted the Tree
+      Commission to participate in both projects. He said that he felt that they had some really
+      good individuals that were willing to dive in to do some things, but that they felt as though
+      they were spinning their wheels because they did not have a full direction from the Council.
+
+      Councilmember T. Lowery said that even if they invested in xeriscaping the 14600 South
+      exit it would be so much better than the weeds and garbage that existed now.
+
+4.2   Councilmember Vawdrey said that a resident had contacted her and said that they had a
+      one-acre property, but that they were only able to have six chickens on the acre, the same
+      number of chickens someone was allowed on a 10,000 square foot lot. The resident felt as
+      though it was a problem that she was not allowed to have more chickens on an acre parcel.
+      Councilmember Vawdrey wondered if that was something they wanted to consider
+      changing as she felt that six chickens were not a lot on an acre.
+
+      Councilmember Green said he felt it was fine to look into. He said that his grandfather
+      used to tell him about how during the Depression they survived off of the eggs, chickens,
+      and food they grew in their backyard. He said that he did not feel as though they should
+      restrict that.
+
+      Councilmember Vawdrey said she did not feel as though the sky needed to be the limit, but
+      she did feel as though there were already quite a lot of restrictions on chickens. People
+      cannot have a rooster, which she felt was smart. However, she felt it was good that the
+      resident asked. The resident could apply to change the code, or it was an item the Council
+      could discuss and determine if it was a reasonable request.
+
+      Councilmember F. Lowry asked what Councilmember Vawdrey’s recommendation was to
+      adjust the code. Councilmember Vawdrey said that she should talk to staff about it before
+      a decision was made. She thought that on an acre lot, a resident should be able to have at
+      least a dozen if a half-acre was allowed six.
+
+      Councilmember F. Lowry said he would like to know the reasoning behind why the
+      chickens had been limited to six. Councilmember Vawdrey said that there were animal
+      units allowed per acre. She felt that six chickens should constitute one animal unit if a
+      horse was an animal unit.
+
+                                          Page 9 of 33
+      Christina Oliver, Community Development Director, said that she would take the thoughts
+      and do an analysis of units for chickens.
+
+      Mayor Walker noted that Draper used to be the egg capital of the world. He also said that
+      in his own experience with chickens he bought six chicks and every one of them ended up
+      being a rooster.
+
+4.3   Councilmember T. Lowery wanted to thank the Parks and Recreation team for the Haunted
+      Trails that they put on for Halloween. She said that she felt it was awesome and so many
+      people loved it and had an amazing time. She thought it was a huge success. She said that
+      she knew that a ton of work went into it and wanted to make sure that they knew that she
+      appreciated it.
+
+      Councilmember Vawdrey echoed that appreciation. She said that she had a few people
+      reach out to her hoping that it was going to happen again next year because they loved it
+      so much. Councilmember F. Lowry agreed. He added that the flags at the park on Veterans
+      Day were awesome, too.
+
+4.4   Mayor Walker suggested that in addition to the lights at Christmas that they do a live stream
+      from City Hall with a countdown to turning the lights on. People could be in their cars and
+      Livestream the turning on of the lights with mask-wearing. He said that folks love the
+      lights and people like seeing them turned on.
+
+      Councilmember T. Lowery asked if the cute little hallmark Christmas girl could do it as
+      she would be “really cute.” Mayor Walker agreed and said she and her brother were really
+      busy. He said that he knew the lights were going up in Historic Park. He asked if the
+      Council wanted them all turned on at the same time.
+
+      Councilmember T. Lowery said she had seen something really cute where residents had
+      said that on Christmas Eve, everyone was going to go outside of their homes and at a certain
+      time turn on their Christmas lights and ring a bell. She suggested making that a thing to
+      have everyone in Draper turn on their Christmas lights and ring a bell for Draper's holiday
+      spirit.
+
+4.5   Mayor Walker also said that he was going to sign an emergency order to keep City Hall
+      closed through the Thanksgiving Holiday in conjunction with the Governor’s pandemic
+      orders. Employees who could work from home would be working from home. The public
+      was not interacting in City Hall. He said that hopefully, the numbers would come down
+      moving forward. That closure would allow the City to use more C.A.R.E.S money to be
+      able to cover some expenses. He said that it was his impression that most people that he
+      had heard from were trying to comply with the orders. He said that he has seen people
+      wearing masks now more than he ever had. He said that every business was requiring
+      them. There had been some reports of Draper businesses that were not complying with the
+      order. When it was investigated, they were in fact following the order.
+
+
+
+                                         Page 10 of 33
+      He said that the virus does not kill everyone who gets it, but for those who do, it sure can
+      linger. He said that his legal secretary had been sick for 24 days. He sent her home at noon
+      today because she was coughing like she had emphysema. She just could not shake it.
+
+4.6   Councilmember F. Lowry asked about the gift cards that were sent out. He wanted to know
+      how the response had been and if staff and the City were interested in doing another round
+      of them. He said that he was concerned that there were a lot of people who did not realize
+      that the gift cards were coming, and they might have been thrown away. He also said that
+      he heard that some folks had them stolen out of their mailboxes.
+
+      Mr. Dobbins said that staff had heard of a lot of people who were using them. He said that
+      there was one neighborhood that said they did not get the gift cards. Several people had
+      called to ask for the gift cards. He said that he felt that they ought to give the program
+      another week to see the response.
+
+      Ms. Johnston said that there had been a great business response. Over 100 businesses
+      signed up to participate in the program.
+
+      Councilmember F. Lowry asked how labor-intensive the program was on the
+      administrative end. Mr. Dobbins said that Ms. Johnston had put in most of the work upfront
+      in getting everything ready. He said that the most work right now was just handling all the
+      calls from residents who wanted extra gift cards or said that they had a big family. He said
+      he anticipated that would die down shortly. Once the program was done, the business
+      would have to bring their paperwork in to be reimbursed. There would be some work on
+      the backend.
+
+      Ms. Johnston said that if the City were to do another round, the template had already been
+      created and the printer already had the needed information. This would make it pretty
+      quick and easy to implement if the Council were interested. Mr. Dobbins said that if all
+      the gift cards were used, they amounted to about half a million dollars. He said it did come
+      with a pretty hefty price tag.
+
+4.7   Chief Clint Smith provided the Council with an update on Fire’s response concerning the
+      implementation of a new CAD dispatch system out at Valley Emergency Communications
+      Center (VECC). He said that it was a project that had been years in the making in trying
+      to standardize the response process within the Salt Lake Valley and implement a new CAD
+      system that allowed both the 911 response centers within Salt Lake County (VECC) and
+      the Salt Lake City 911 Dispatch Center. He explained that the issue that had existed for
+      many years was that these two primary dispatch centers operated on different programs.
+      The call center that emergency calls went to depended upon where people called or what
+      cell tower their call was directed from. If it went to Salt Lake City but was determined to
+      be a response in Draper City, the call center would have to transfer the resident and make
+      a call to the other call center, which caused a delay in the response across the board.
+
+      The issue was one that was taken up by the state legislature a couple of years ago. They
+      wanted to see the consolidation of dispatch centers to significantly reduce the number of
+
+                                         Page 11 of 33
+      call transfers that happened across the state. The new standardized system allows each
+      dispatch center to see the calls coming into the other location, eliminating the need for
+      transfers.
+
+      The system implemented was called Versaterm, the same system that had been adopted at
+      the change of the fiscal year by Draper City Police to also help address some dispatch
+      problems. In addition to the dispatch consolidation, the other significant change that
+      occurred with the switch to Versaterm was the use of Automatic Vehicle Locators (AVL’s).
+      These are essentially GPS units that are live on all of the first response units across all
+      departments that are dispatched out of VECC.
+
+      All of the Fire Chiefs got together and had a frank discussion about responding to address
+      the dislike that had long existed about boundaries and different departments responding to
+      calls, not within their boundaries. With the implementation of the new technology, the
+      Chiefs were able to drop their guard and stop fighting over jurisdictional boundaries.
+      Instead, they decided that the closet unit would be most appropriate to respond to 911 calls
+      to provide aid as quickly as possible.
+
+      Chief Smith said that there were pros and cons to everything. With the implementation of
+      the new CAD system and the AVL dispatching, all of the first response vehicles will be
+      dispatched by their AVL location at the time the call comes in moving forward. If the
+      crews were in the station, the station location would be used to coordinate and determine
+      the response time it would take them to get to an address and compare it to the surrounding
+      units and agencies. Whichever unit was deemed the closest would be the unit that was
+      dispatched. Anything within Draper as far as ambulance response would utilize Draper
+      ambulances. He said that the new system was providing good data on the holes within
+      Draper’s response within its boundaries because of distance. However, what it meant, and
+      what he wanted the Council to be aware of, was that other agencies would be seen within
+      some parts of Draper, such as the north and west part of the City, more frequently than in
+      the past. Bluffdale assisted a lot of the west side and Sandy and South Jordan both assisted
+      on the north border of the City.
+
+      The valley Fire Chiefs committed to giving the AVL response a solid six-month trial to
+      acquire data before making tweaks to the response. One of the challenges for Draper was
+      the remote nature of the Suncrest Fire Station which perhaps had them under-utilized
+      because of the distance to get them down the hill.
+
+      Chief Smith emphasized the shift in how responses were being organized, but the value of
+      the data that they would be gathering in the coming months regarding response times and
+      distances.
+
+
+
+Business Session
+
+1.0   Call to Order: Mayor Troy K. Walker
+
+                                         Page 12 of 33
+2.0    Public Comments
+
+       There was no one present for the general public comment.
+
+       Mayor Walker made the Council aware that a written general public comment had been
+       received from resident Kathy Anderson about Vestry Drive.
+
+       The comment is at the end of the minutes.
+
+3.0    Consent Items
+          a. Approval of Resolution #20-52, amending Personnel Policy Section 5040
+          regarding Holiday Leave.
+
+3.1    Councilmember F. Lowry moved to approve the Consent Items.               Councilmember
+       Vawdrey seconded the motion.
+
+3.2    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+4.0    Action Item: Resolution #20-51, accepting the Audit and Comprehensive Annual
+       Financial Report (CAFR) for the Fiscal Year ending June 30, 2020.
+
+4.1.   Rob Wood said that he was appreciative of the fact that Draper City trusted his firm to
+       provide the annual report services and financial audit that was a requirement of the state.
+       He explained that pages 1-3 were the summary of the auditor’s report. He said that he had
+       given Draper an unmodified opinion. That was the best opinion he, as an auditor, could
+       give an organization. In essence, the firm did not feel as though there was any material
+       missing in any of the financial reports.
+
+       Mr. Wood then pointed out a few highlights. He pointed the Council to the Management
+       Discussion and Analysis on pages 4-15. He said that it was a condensed financial synopsis
+       of how the City performed not only for 2020 but also for the fiscal year 2019. It was the
+       only place where there was comparative information.
+
+       Overall, once past the entity-wide statements, there were fund statements. He explained
+       that was an area that the Council had a greater hand in because it approved expenditure for
+       each fund and reviewed them regularly, especially the General Fund. Mr. Wood was happy
+       to report that all of the funds were in a positive fund balance position.
+
+       After the financial statements were presented there were two different reports. The first
+       was a requirement for government auditing standards. The firm found no problems with
+       internal controls of the City or any deficiencies regarding compliance with laws and state
+       regulations. The final report was required by the Utah State Auditor’s Office. Some of the
+       areas that the firm tested Draper on were about budgetary compliance and fund balance
+       calculations. That was the requirement that the general fund balance totals needed to be
+
+                                         Page 13 of 33
+      between 5-25%. This was an area the firm had a finding on. When they completed the
+      fund balance calculation for Draper, its General Fund balance was sitting at 36.8%, over
+      the requirement. That indicated that the City Council could go out and fund projects.
+
+      The second finding related to state compliance with how court costs were tracked with
+      Draper’s Justice Court. The coding was slightly different. They had been encouraged to
+      reach out to the administrative office of the courts to get additional training in how the costs
+      should be coded in the system.
+
+      He said that City was functioning at a really strong capacity. He did note that there were
+      some issues with the blended component with the TRSSD, but those issues would be
+      addressed separately.
+
+4.2   Councilmember Green moved to approve Resolution #20-51, accepting the Audit and
+      Comprehensive Annual Financial Report (CAFR) for Fiscal Year ending June 30,
+      2020. Councilmember T. Lowery seconded the motion.
+
+4.3   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+5.0   Public Hearing: Ordinance #1465, Rasmussen Family Commercial Zoning Map
+      Amendment (Legislative Action), a request by One West Construction, representing
+      the Rasmussen Family Limited Partnership, to amend the zoning map designation
+      from the A5 (Agricultural, 5 acre minimum) Zone to the CN (Neighborhood
+      Commercial) Zone for the property located at approximately 12197 South 300 East.
+
+5.1   Maryann Pickering, planner, oriented the Council to the location of the site discussed. She
+      displayed an overlay of the current land use designation, neighborhood commercial, of the
+      property, and the surrounding area. The site was also currently zoned A5, with commercial
+      zoning to the west (CR) and south (CC).
+
+      The item was a request to change the zoning of the property from A5 to CN. The proposed
+      zoning designation of CN was compatible with the current land use designation. The
+      zoning was requested to subdivide the property into two lots through a plat amendment.
+      The lot was 9.8 acres in size. The rezone was being requested because there was a pending
+      application for a charter school which was scheduled for the Planning Commission on
+      Thursday, November 19, 2020.
+
+      Ms. Pickering noted that charter schools were allowed in any zone according to state law.
+      Because of this, regardless of if the area was rezoned to CN or remained A5 the charter
+      school would be a permitted use. She then displayed pictures of the property from different
+      angles. The Planning Commission voted unanimously on November 12, 2020, to forward
+      a negative recommendation on the zoning map amendment.
+
+5.2   Mayor Walker opened the public hearing.
+
+
+
+                                          Page 14 of 33
+5.3   Scott Sabey spoke for the applicant. He said they were there for a simple rezone to match
+      the general plan of the Rasmussen property from A5 to CN. He noted that the parcel did
+      touch three vacant residential lots. To the east, there were 25 three-story buildings with
+      225 units in them. To the south in the CC zone, there was a McDonald’s, Chick-fil-A, a
+      car wash, and a credit union. To the west of the property was the CR zone with a gas station
+      and mall. He described these features to make the point that while this parcel did touch
+      three residential properties, it was surrounded by fairly intensive use. The application was
+      simply to bring the property from the A5 to match the commercial uses of the surrounding
+      area. He noted that they did want to divide the parcel into two portions. That was driven
+      by the request to run 12230 south through to the roundabout that would force the property
+      into two separate parcels and result in the lower parcel being less than five acres.
+
+      He stated that when the item was brought before the Planning Commission, they thought it
+      was a fairly simple and straight forward application based on the history and comments
+      made in the past. However, there was a significant amount of discussion after the applicant
+      was no longer addressing the presentation regarding traffic. He said that because of this he
+      wanted to briefly go through the Draper Municipal Code section that was relevant to
+      modifying the plan as it related to the parcel. That was section 9-5-060(E)(1) (a-e). He
+      read and commented on the different sections of code as follows:
+             a. When a proposed amendment is consistent with the goals, objectives, and
+                  policies of the city’s general plan;
+
+                     i. Mr. Sabey noted that they were obviously seeking to match exactly what
+                        the General Plan was.
+
+             b. Whether the proposed amendment is harmonious with the overall character of
+                the existing development in the vicinity of the subject property;
+
+                     i. Mr. Sabey reiterated that all of the different commercial and intensive
+                        uses in the surrounding area that touch three sides of the property meant
+                        that the zone changes clearly matched the overall character of the area.
+
+             c. Whether the proposed amendment is consistent with standards of any applicable
+                overlay zone;
+
+                     i. Mr. Sabey said this had already been addressed.
+
+             d. The extent to which the proposed amendment may adversely affect the adjacent
+                property;
+
+                     i. Mr. Sabey said that he did not feel that this would adversely affect
+                        adjacent properties in any way, except for possibly impacting the three
+                        residential lots to the north. He said that anything other than leaving the
+                        property as rows of corn would affect them. Ultimately, the landowner
+                        was entitled to develop his property as all of the surrounding properties
+                        had been developed.
+
+                                         Page 15 of 33
+             e. The adequacy of facilities and services intended to serve the subject property,
+                including, but not limited to roadways, parks, and recreation facilities, police
+                and fire protection, schools, stormwater drainage systems, water supplies, and
+                wastewater and refuse collection.
+
+                     i. Mr. Sabey said that the staff report stated that there were no concerns
+                        regarding services. The one item that did come up following their
+                        presentation to the Planning Commission was traffic. One of the
+                        comments that were made was that the proposal for a rezone should not
+                        come without also presenting a subsequent site plan and intended
+                        development. He said they were following the City’s process of
+                        bringing forward the rezone application. They were not hiding anything
+                        as the development plan had been put forward. However, the difficulty
+                        in addressing traffic in detail now was that it was not part of the rezone
+                        amendment process. While there had been traffic studies and a
+                        significant amount of time had been spent with staff and UDOT, that
+                        was not all before the Council now, nor was it properly before you now,
+                        so those items were difficult to address. He said there was concern about
+                        the weight of traffic on 300 East. The development that was proposed
+                        had committed to mitigating all traffic input which included spending
+                        up to $1 million on roadways. Having spent a significant amount of
+                        time with UDOT and staff to understand what the City thought was
+                        necessary to be installed in the area, he felt the applicant had pulled
+                        together all of the parties necessary to address the City’s problem. He
+                        said that he phrased it that way because the problem had existed for
+                        years. A warrant study was done in 2017 that talked about the failure of
+                        the roads for an overload of traffic which had nothing to do with the
+                        Rasmussens or their occupation of the property or anything to do with
+                        the proposed development. However, in trying to address those for the
+                        City and trying to help mitigate any additional traffic the development
+                        would add, they have brought all of those problems to bear. He said that
+                        the Council did not have the traffic studies before them because this step
+                        was not the right time to do it. However, he would say that for the last
+                        135 years the Rasmussen Family who has occupied that property and
+                        been a good member of the community, has watched all the land around
+                        them be developed and get what they wanted. Now that they were
+                        surrounded by businesses and have seen residents move into what was
+                        once farmland and benefit from homes being built, they feel as though
+                        it is their turn to benefit from development as well.
+
+5.4   Charles Wilkenson, resident 1284 South 580 East, said that he had attended many Council
+      Meetings in the past on various items and always wanted to be a helpful influence. He said
+      that the neighbors’ concern was the infrastructure. He felt as though a lot of people on
+      12100 South were witnessing that development. He said that the development was
+      something that was discussed when the apartments were put in. He said that because 12100
+
+                                        Page 16 of 33
+      South ran into those apartments they had tried to get those apartments to exit somewhere
+      else than 300 East that is already taxed by traffic from the exit of St. Johns Juan Diego
+      High School. The infrastructure had caused a lot of traffic to come down to 12100 and
+      12200 South because they want to avoid all of that entanglement. He said that the speed
+      tables that were put in had not been much of a deterrent. Although they were at the
+      beginning since the roads were re-asphalted, the speed table is no longer as high, so people
+      still speed down the road trying to save time. Unfortunately, half of 12100 South did not
+      have any sidewalks. As a result, children were outside playing with people rushing around.
+      He said that an integral part of the whole discussion was where would the traffic go because
+      the infrastructure was not designed to handle the level of development. He was concerned
+      that if it were a 1,000-student school and everyone was being dropped off and picked up,
+      the additional traffic would not only overload 300 East but would increase the amount of
+      traffic on 12100 South. He felt that there had to be a solution before moving forward.
+
+5.5   Carl Sile, resident 12024 South 235 East. He said that he was the president of the Redmond
+      Place Homeowners Association, a 34 home, single-family, low-density development to the
+      north of the Rasmussen property. He said that their association did not support any
+      commercial use of the property that was not low-density, single-family because of the
+      traffic issues already addressed. He said that they already received significant traffic
+      through their small, 34 home community from Juan Diego High School. He said it comes
+      through the community to avoid the stop sign that was immediately south of the school.
+      He said that there were not any speed bumps in his neighborhood which caused drivers to
+      travel at high speeds. He said that they did not want any additional traffic caused by a new
+      school, or any commercial development, supporting their opposition to the proposed re-
+      zone.
+
+5.6   Lisa Hansen, resident at 12057 South 300 East, lives five houses north of the Rasmussen
+      property. She said that the proposed zone change was not necessary for what they intend
+      to use the property for. The zone change was not needed to build the school. She said that
+      by denying the zone change, the Council could ensure that neighbors were not shackled
+      with additional traffic from the school, plus commercial development. She said that no one
+      knew what would go in the three acres they wanted to subdivide. She said that it was super
+      frustrating for residents to be in this position because last year, Richmond American came
+      with a plan and requested a re-zone for residential development with 71 single-family
+      homes. Most of the neighborhood was in support of that project. The Planning
+      Commission and City Council denied the application because of density and parking
+      concerns. She said that it would be very inconsistent for the Council to decide tonight to
+      approve this zone change when the previous zone change was denied. Additionally, the
+      city code required a substantial buffer between RA1 and RA2 properties and high-density
+      usage. She said that if the Council looked at the map, there was no buffer anywhere. She
+      stated that the section of the code was 9-10-080(E.I). She said if this commercial were
+      allowed, residents would be boxed in on all sides with high-density usage. She said that
+      she understood that the master plan allowed for that use, but the master plan also did not
+      account for the high density that had been put in at Draper Village apartments across the
+      street; Victoria Woods, the subsidized housing on 12200 South; nor the Day Dairy.
+      Regarding the adequacy of facilities, she said there were not adequate roads and traffic
+
+                                         Page 17 of 33
+      controls in the area. All of the intersection was already strained. She said that although
+      the applicant said that they were going to spend $1 million on road improvements, she
+      wanted to know what they actually would be. She said that in one of the traffic studies she
+      read, an important element of fixing the problem was widening 12300 South. That would
+      be a massive undertaking. She wanted to know where all the money was going to come
+      from and the priority to make those things happen. She said that residents were pretty
+      powerless, and asked that the Council deny the zone change so that residents did not get
+      both school and commercial traffic.
+
+5.7   Christian Cole, resident at 11963 South 645 East, said that he echoed much of what had
+      already been said by other residents. He wanted to add that the Juan Diego infrastructure
+      did not support its parking. He said that even when they hold events, there would be cars
+      parked up both sides of the street on 12100 South. He said there have been times when
+      residents have not even been able to enter 12100 South because cars were parked up and
+      down both sides. Because of this, neighbors have been required to drive around 700 East
+      to be able to enter their neighborhood. He said that he was with the Hansens to deny the
+      application because they do not need the zone change to build the charter school and the
+      neighborhood was adamant to fight the development to the end. He said that the neighbors
+      had been in 100% support of residential use of that property from the get-go. When the
+      neighbors have been asked what they would like to see in that area, he said they have said
+      again and again that they would like to see half-acre or third acre lots with a single-family
+      residence. He said that just because it fits does not mean you should. Those who question
+      the traffic should go grab themselves a shake a McDonalds at noon. He said, good luck
+      when you are in the Post Office parking lot trying to get out of it. He said that it was absurd
+      to try and shoehorn in a school there.
+
+5.8   Jeff Hansen, resident at 12057 South 300 East. He also echoed what several other residents
+      had expressed. He said that the thought of another school coming in so close to the
+      neighborhood within 200 meters of his house was insane to him. He said they already had
+      Juan Diego. He was not sure that they needed another school. He said that the Richmond
+      America, 71 single-family plans had been mentioned. He wanted to reiterate Draper City
+      Code regarding parking. In section 9-25-30(a) the code reads, “every land use established
+      under the authority of this title shall have parking as required by this chapter. Each person
+      who establishes any such land use shall provide the required parking. The establishment
+      of land use shall include any change in uses and any increase in the capacity or intensity of
+      an existing use.” He said that he knew that a parking study was done by Hale Engineering
+      who said that 300 spaces would be sufficient, but there were only 200 usable parking spots,
+      198 stalls. He said that was sufficient. However, because this was a charter school, there
+      would not be any buses running, meaning that the high school kids that would be attending,
+      would be driving their vehicles or be dropped off, creating a ratio of 3.1 high school
+      students per stall. Compared with other schools around, Juan Diego comparatively had
+      about 800 parking spots for not twice the student count. This did not make any sense.
+      When Juan Diego holds an event, it brings back bad memories of 1-15 during the Olympics
+      when it was really dangerous to be driving on the freeway. He said that he did not feel as
+      though the proposed parking was sufficient. He felt that they either needed to forgo the
+      three-acre commercial lot plan and deny the zone change or just be denied the plan all
+
+                                          Page 18 of 33
+       together due to the parking. He said that was one of the reasons why Richmond America
+       was denied: because of parking.
+
+5.9    Rebecca Dura, resident at 446 East 12000 South located in a home just north of property
+       under discussion. She wanted to emphasize that she did not want to separate the rezoning
+       issue with the intention of how the site was intended to be developed. She said the site was
+       intended to be subdivided with a school placed there. She said that it was likely that the
+       school could only afford to build there if the property was subdivided and the other portion
+       of the property was sold for commercial use. She also wanted to point out that there was
+       additional development going on at the park off of 12300 South. They were building out
+       more at that location. She said when the traffic study from Hale Engineering was reviewed,
+       it had holes in it because it did not consider the new park that was being built and the new
+       additional commercial the area would take on if the rezoning was approved and subdivided.
+       She stated that she was with the other homeowners; she did not support an additional K-12
+       school on 300 East. She said that she was a charter school mom with her kids attending
+       APA in Draper. She said that charter schools pull unique traffic from all over the valley.
+       She said it was all commuting, with no buses. She said that when she sits in the carpool
+       line, every single car has a single parent sitting in the vehicle picking up one or two kids,
+       resulting in a high traffic volume during condensed periods. She said that when you put
+       two K-12 schools together with peak times, and the peak that commercial draws in
+       specifically in the afternoons, there would be an infrastructure disaster. She also noted that
+       K-12 schools also have teenage drivers who were not a safe driving group. This caused the
+       neighbors to be additionally concerned about traffic and safety. She said that many of the
+       streets also lacked continuous sidewalks creating an additional safety hazard. Because of
+       this, she claimed that residents were adversely affected. The proposal was not harmonious
+       with existing development.
+
+5.10   Tory Thornock, resident at 12121 Encampment Circle. She said that the corner of her
+       property touches the corner of the Rasmussen property. She said that when they purchased
+       two and a half years ago, they were told that the Rasmussens had an easement between
+       them and the park at Day Dairy. She said that although she was not as eloquent nor as
+       educated as her neighbors, that she was 100% behind what they were telling them. She
+       noted how the roundabout would be taxed with the addition of charter school traffic and
+       would not only cause 300 East to collapse, but also 12100, 12000, and 12300 South during
+       peak hours. She said that she is a teacher at a charter school and had been a teacher at
+       different districts in the state of Utah, in addition to being a parent with school-aged
+       children. She said that a charter school on that lot would be a disaster that the Council
+       would regret approving if they do. She said that regardless of if the school goes there, the
+       zone change was a terrible idea. She said that the surrounding roads absolutely could not
+       handle the zone change under consideration. She begged the Council to listen to what
+       residents said. She said they were not approaching the item from anger or impulse, they
+       simply understand more than a traffic study can communicate, how developing the land
+       would impact the area.
+
+5.11   Susan Nelson, resident at 12073 South 300 East, said that she lived four houses to the north
+       of the land. She agreed with all of her neighbors. She said that she was a good friend with
+
+                                          Page 19 of 33
+       most of the people involved with the Rasmussen exchange. She said that they had been
+       able to sell lots of other parts of the land. If it did not work out for the zone change, they
+       would be able to sell it in time. She said she was not super worried about that for them,
+       despite being great friends. She wanted to be a great neighbor as well. Ms. Nelson said
+       that the master plan was also capable of changing. She said with the residential area to the
+       north it might make more sense to consider residential in that area given the surrounding
+       commercial development. This was what was hoped for by residents, despite being
+       previously denied and have a lesser impact than the current proposal. She believed that the
+       charter school would not be able to afford to build on the land if it were not subdivided,
+       with the three acres sold off. Because of this, if the Council did not approve the zone
+       change the school might not be able to build. This was her hope because she did not feel
+       as though the area could support the school. She noted that she was also a charter school
+       family. She said that if the Council did not change the zoning, the neighbors might be able
+       to get something else with less impact to 300 East and the surrounding neighborhood.
+
+5.12   Richard Miller, resident at 241 East 11989 South, echoed what had been said. He reiterated
+       that 10 acres were not very much land for the amount of parking that would be needed for
+       a school. Portioning off part of that would not create sufficient parking for the school. He
+       said that if the footprint of the proposed school was compared with St. John the Baptist,
+       there was little there comparatively. He also said that with his experience with the asphalt
+       field—he had seven years of experience—one million dollars in road reparation and traffic
+       mitigation was not very much money. It would probably cover the cost to go from the
+       traffic circle to Day Dairy. He said that when you drive down 700 East at 12000 South
+       there was the office building that was empty behind the Auto Zone. If there were already
+       buildings empty, why did additional commercial space need to be added? Mr. Miller then
+       voiced the safety of the neighbors’ children. He said that they were constantly seeing
+       people zoom by without the area being patrolled. In regards to adding the fourth leg to the
+       traffic circle, not only would it increase traffic on 300 East, but it would cause an increase
+       in traffic from Day Dairy, as it was difficult to turn east onto 12300 South coming out of
+       some of those locations. With the option, they would come down to the traffic circle and
+       go out on 300 East, resulting in an additional increase in traffic. He noted that currently
+       St. John the Baptist was zoned as agricultural. He said he would appreciate it if the Council
+       would consider denying the rezone as it would cause havoc to the neighbors in the area.
+
+5.13   Gary Fujimoto, resident at 12100 South 441 East, said that he was on the first street to the
+       north. He said that his neighbor across the street on the south side’s backyard was adjacent
+       to the property. He wanted to support what he had heard from his neighbors. He said that
+       when he moved in in 2003, he was told that 300 East would never be punched through and
+       that 12100 South would be a quiet street because 12200 South would go all the way through
+       to bear the commercial traffic. He said it was very disappointing because they built their
+       dream house and the area had not ended up being the neighborhood, they wanted to live in.
+       He said that they loved their neighbors and community, but the area and traffic had not
+       become what they planned. He wanted to support what neighbors had said and that
+       anything to keep the traffic down was in the best interest of the residents.
+
+
+
+
+                                          Page 20 of 33
+5.14   Daniel Dura, resident at 446 East 12000 South, wanted to voice that he also felt that it was
+       a bad use of the land to rezone the property. He said that it was disingenuous in the sense
+       that the developer was treating these as separate ideas that the school was different than the
+       zone change because the zone change was trying to go through before the school was
+       developed. The neighbors could not prevent the school from being developed even though
+       they did not want that to happen. However, the idea that there could be a school and
+       additional commercial property was pretty outrageous. He said that area was failing. The
+       idea that they were going to punch through 12200 South, while they were under
+       construction while there was massive additional development at the park, did not take into
+       consideration the traffic study. He said that Chick-fil-A was popular, serving something
+       like 200 cars an hour during their peak time. He said that he understood it would not stay
+       agricultural forever and that anything more than corn would create traffic. However, there
+       was a difference between putting additional commercial property on 300 East and zoning
+       it residential, that everyone in the neighborhood was okay with. They had been surrounded
+       by commercial properties and high-density housing. This property was the last hope for
+       residents to have some buffer from commercial development. He noted that there had been
+       developers who wanted to put residential in that property. He said to look at the zone
+       change at face value and to recognize that it did not seem to make sense at this time. He
+       said that if low or medium-density residential were being proposed, the neighbors would
+       approve it and were disappointed that the Richmond American development was not
+       approved. He wanted it acknowledged that any change to the property to anything but
+       residential would have a severe impact on their neighborhood.
+
+5.15   Megan Menlove, resident in the new Cove Development. She wanted to speak on behalf
+       of the neighborhood. She has to get through 11800 South near Juan Diego and has noticed
+       how poor the traffic flow is in this area during peak hours already. She could only imagine
+       what would happen if another K-12 school was added. Ms. Menlove was an administrator
+       of a high school who knows how teenagers drive. She felt it would be ridiculous to add a
+       school that close to Juan Diego and thought it would impact traffic on the north side of the
+       school. She wanted to speak against the rezoning and in support of those who live in that
+       area. She did not feel it was a good idea for the City as a whole or the neighborhood.
+
+5.16   Mayor Walker closed the public hearing.
+
+5.17   Mr. Sabey said that it was difficult to listen to some of the public comments when they
+       called the applicant disingenuous when the applicant was following the process of Draper
+       City ordinances. They were required to make the rezoning application before the site plan.
+       That was the order outlined. They were not hiding the site plan. It was scheduled to go
+       before the Planning Commission the following Thursday. All of the comments heard
+       revolved around the site plan which would not be addressed until Thursday. He said that
+       he had a problem with the fact that the public comment addressed a traffic study that the
+       Council did not have. The public comment made several erroneous comments about the
+       traffic study, which he cannot set forth and show the Council because they do not yet have
+       it. He said that the application was based on the City’s master plan that was less than a
+       year old. He said that he thought some people had the impression that circumstances had
+       changed to make the area remain residential. However, the City’s master plan was updated
+
+                                          Page 21 of 33
+       on November 19, 2019. The City did not want residential and wanted commercial, which
+       is why the application was brought forward. He said to go through the traffic study would
+       not be effective for the Council because they did not have it in front of them. The
+       complaints made about traffic could not be addressed without money being spent. The City
+       would not pay to fix the problems unless everyone was going to agree to a significant
+       increase in taxes. He said that perhaps residents were not aware of it, but that part of the
+       way that these problems get fixed was as a result of the development process. New
+       infrastructure cannot go in without the development that offsets the cost of the
+       infrastructure. In response to the comment that $1 million does not cover much, Mr. Sabey
+       said that his client had developed over 50 charter schools. He said they would not develop
+       one in the location if it were going to be a disaster as it would hurt their business. They
+       knew what they were doing. They planned to bring in UDOT to help cover the costs of
+       infrastructure improvements. He said that the plan for the client was not to profit by
+       subdividing and selling a portion of the property as commercial development. The City
+       wanted 12300 South to go through which divides the property and the Rasmussens were
+       retaining the remaining portion. The traffic study did provide for more than 300 stalls.
+       Under the site plan and when it was brought before the Planning Commission and the City
+       if the project did not meet the required stalls, 311, then the City could deny it. However,
+       talking about traffic issues now was not appropriate because the Council did not have the
+       materials. He said that his clients had been working for eight months with the City and
+       UDOT to figure out how to mitigate problems and get the infrastructure in place. He said
+       that would be achieved through the development. He said his client was dedicated to
+       mitigating any traffic impact caused by their development and would help solve existing
+       problems. He said that the matter before the Council was simply the rezone to match the
+       general plan.
+
+5.18   Councilmember T. Lowery said that the general plan to which Mr. Sabey was speaking
+       was not a document that was set in stone. She said that it was simply a guideline. She said
+       that his claim that it was something that the City had to follow was simply not true. She
+       said that she was also curious about his request for the zone change. She said that it had
+       been noted several times by residents that the school could go in any zone. She said that
+       as a result, what she is led to believe is that what the zone change is truly about is the
+       commercial development, not truly about building the school. Everyone knows that the
+       applicant is already legally allowed to build a school wherever they want. It was her
+       impression that what he was requesting tonight was two adjacent high intensity uses. She
+       asked if staff could pull up the Draper City Municipal Code (DCMC) 9-5-060. She said
+       that her concerns lie with subsections d and e: the adverse impacts on the adjacent
+       properties and adequately of the facilities, namely the roadways.
+
+       Mr. Sabey said that the master plan or general plan was not set in stone. He said that he
+       did not believe that he had implied that. He apologized if he gave that impression. What
+       he meant to say was that the City had indicated that it wanted the area zoned as
+       Neighborhood Commercial and that was the application brought forward.
+
+
+
+
+                                          Page 22 of 33
+       Councilmember T. Lowery clarified that the master plan indicates that the area could be
+       neighborhood commercial if they so desired. The area can be whatever they want it to be.
+       She felt that it should be residential, just not high-density residential.
+
+       Mr. Sabey said that was fine. The City indicated that it wanted residential then that would
+       have been the application brought forward. He said that his point was simply that they
+       were trying to do what the City had indicated. He said that as a member of the public, he
+       feels that he should be able to reasonably rely on the representations the City makes on its
+       webpage and the things that staff says. More to the point, he said it was fine for the City
+       to make it residential. He said that they could build in residential.
+
+       Councilmember T. Lowery said that the applicant had not asked for residential, they asked
+       for commercial. Mr. Sabey said that was because that was what the City had designated
+       the area and the last time a residential application was brought to the City it was denied.
+       He said the master plan showed the area as neighborhood commercial so that is what the
+       applicant brought forth. He said the City could designate it anything they wanted; the
+       applicant would still be able to build a school on it.
+
+       Councilmember T. Lowery agreed. She wanted to know why they were requesting a zone
+       change when they could build a school tomorrow. Mr. Sabey said that the City wants the
+       road through the property. That cuts the lot in half. One half of the lot would be five acres
+       or more, so it met the current zoning. The other half, once the road the City wanted was
+       installed…
+
+       Councilmember T. Lowery said that the City wanted a road because of all of the traffic that
+       the applicant proposed to bring to the area.
+
+       Mr. Sabey said that the City wanted the road. After all, if you looked at 12230, it dead-ends
+       into a field because it was intended to go through and tie in at a four-way circle. That
+       would divide the lot into two portions and the bottom portion would be less than five acres
+       making it an illegal subdivision. The suggestion was made to his client to come in for a
+       commercial neighbor zone application because the other lot did not require a minimum of
+       five acres. If the master plan showed the area as one-acre residential then the application
+       would have been for a rezone to one-acre residential. The applicant did not care. They had
+       no plan to develop the subdivision. They will not own the southern portion. The
+       application was done as it was because that is what the City map said. He said that they
+       could build in residential. If it had said residential that is the application, they would have
+       made.
+
+5.19   Councilmember F. Lowry wanted to make sure to recognize the Rasmussen Family. He
+       said that it is clear that they have been a great neighbor to the community. He appreciated
+       the contributions that they had made to the City of Draper and had been a great neighbor
+       to all of us. He wondered if staff could help clarify for the Council the proposed use.
+
+       Christina Oliver, Community Development Director, stated for clarification what was done
+       in 2019 to update Draper City’s general plan. She said that in 2019 staff went through and
+
+                                           Page 23 of 33
+       conducted an analysis of problem areas where the built environment did not match the land
+       use map. What they did not do was go through each undeveloped vacant parcel and ask
+       that the City Council what the land use should be. The current land use map represents
+       what has been assigned to the property for years, before Day Dairy and the surrounding
+       development that had been realized around the particular parcel.
+
+       She said that Mr. Sabey brought up the fact that the staff, her staff, had discussed the current
+       zoning application. The reason behind this was because the parcel as it stood could not be
+       split into two lots. She said that she knew this addressed Thursday’s application, but that
+       it bore clarification. The school would like to purchase the northern portion of the parcel.
+       The southern portion of the parcel, they did not want to purchase. Without a rezone, as the
+       Council was being asked to look at this evening, they would not be able to make the split
+       because A5 requires a five-acre parcel. Splitting the 9.8 acres in the manner it would need
+       to be split would result in the southern parcel being under three acres.
+
+5.20   Councilmember F. Lowry said that he was perplexed about the request for the rezone
+       because the school could still be developed. He wanted to support comments made by
+       Councilmember T. Lowery about having never received a question about how he thought
+       that area should be developed. He did not understand that claim that the City had indicated
+       a preference in how the area developed. He recognized that he was new to the Council, but
+       he certainly would not have encouraged the applicant to put forth this zone change. He
+       said that what he found interesting was that the applicant outlined the issues that the
+       Council had: the area was surrounded by high-density housing and the failures shown in
+       the 2017 traffic study. He hoped that the applicant could appreciate that it was those very
+       same issues that the Council considered.
+
+       Councilmember T. Lowery said that the Council supports their right to do something with
+       the property. As another resident noted, the property will ultimately be developed. She
+       felt that there were possibilities of development that could go in the property that would
+       not adversely affect residents.
+
+5.21   Councilmember Green moved to deny Ordinance #1465, Rasmussen Family
+       Commercial Zoning Map Amendment. Councilmember T. Lowery seconded the
+       motion.
+
+5.22   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor of denial. The motion passed unanimously.
+
+6.0    Public Hearing: Ordinance #1464, Rockwell Point Text Amendment (Legislative
+       Action), a request by Todd Amberry representing Rockwell Point, LLC to amend the
+       permitted land uses to the existing Major Freeway Arterial Frontage Road (MARF)
+       zoning district. The changes will amend Draper City Municipal Code (DCMC)
+       Section 9-11-110. The proposed changes would apply citywide.
+
+6.1    Maryann Pickering, planner, explained this was a text amendment to change the use table
+       found in section 9-11-110. Currently, four uses were not permitted in the zone. The request
+
+                                           Page 24 of 33
+      was to change those uses to permitted. The four uses were a car wash, convenience store,
+      gasoline service station, and restaurant. There would be no changes to the development
+      standards for the zone. On the November 12, 2020, Planning Commission meeting, they
+      gave a positive recommendation on the item with a 4-1 vote.
+
+6.2   Todd Amberry, the applicant, said that when the project was approved a little over a year
+      ago, they did not have the same intentions due to COVID or know who the users would be.
+      After going through the uses and the desired uses to where the market for some of the
+      parcels had changed and demanded that the use tables be expanded to a restaurant, carwash,
+      and a gas station.
+
+6.3   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+6.4   Councilmember F. Lowry moved to approve Ordinance #1464, Rockwell Point Text
+      Amendment. Councilmember Vawdrey seconded the motion.
+
+6.5   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+7.0   Public Hearing: Ordinances #1468 and #1469, Shadow Mountain Subdivision Zoning
+      Map and Land Use Map Amendment (Legislative Action), a request by Sean Shah
+      and David Johnson for approval of a Zoning Map Amendment from the RA1 zone to
+      a split zoning of RA2 and R3, and to amend the Land Use Map on a portion of the
+      property from Residential Low/Medium Density to Residential Medium Density
+      designation.
+
+7.1   Travis Van Ekelenburg, planner, said that the applicant had requested to amend the land
+      use and zoning map for a 0.29-acre property located at 671 East 13800 South. The zoning
+      was RA1. The land use designation was residential low-medium density. With the
+      application, the applicant requested the residential medium land use designation. He said
+      that there was not any medium land use density contiguous to the property but there was
+      across the street. He said that the map was created by the GIS division. As part of the
+      staff’s initial review process, the GIS division takes a look at the legal description submitted
+      by the applicant to make sure they were correct. With this item being a split zone, he had
+      the GIS division draw up the map to provide a better visual for the public meetings. The
+      back property was requested to be rezoned as RA2 from RA1. The front property was
+      requested to be rezoned R3. He said that the RA1 zoning designation requires a minimum
+      lot size of 40,000 square feet. The R2 requires 20,000 square feet. The front area would
+      have to be rezoned R3 to meet minimum zoning requirements. He said that if the rezone
+      and land use map were approved tonight, a separate subdivision would need to be submitted
+      by the applicant to create two lots. At that time, access for the RA2 area (orange) would
+      be reviewed under the subdivision application for access off of the main lot. At the
+      Planning Commission meeting on October 22, 2020, the Planning Commission voted
+      approval with a vote of 5 to 0.
+
+
+
+                                          Page 25 of 33
+      Mr. Van Ekelenbug noted that following the Planning Commission meeting he received
+      one public comment from Mr. Stevens who lived on Shadow Mountain Lane. His concern
+      was that having an additional lot would create development problems for residents that had
+      been on the lane longer. There were also several residents at the Planning Commission
+      meeting who spoke in support of the application.
+
+7.2   Councilmember F. Lowry asked what comments were made by the residents. Mr. Van
+      Ekelenburg said that the residents in support stated their support. These included Brad (last
+      name unclear on the audio) who lived up the street from the parcel who had a previous
+      application recently. The residents next door also voiced their support. He believed that
+      those residents intended to speak during the public comment portion of the item.
+
+7.3   Councilmember T. Lowery asked what the residents’ specific concern was. Mr. Van
+      Ekelenburg said the resident had stated that he was one of the first residents on the private
+      lane and that his concern was that some of the other residents further up on the private lane
+      wouldn’t be able to develop properly because once more lots were added to the private lane
+      then street improvements were required, including widening the private lane.
+
+      Councilmember T. Lowery asked if Mr. Van Ekelenburg saw that as a real issue. Mr. Van
+      Ekelenburg said that the Draper Code does say that when you increase the number of lots
+      on a private lane, the width of the road does need to be increased. The improvements
+      include curb and gutter, as well as road widening, making them pretty expensive.
+
+7.4   Councilmember Vawdrey asked the number of lots that can be on the lane before the
+      improvements were triggered. Jennifer Jastremsky, a planner, stated that the Council just
+      looked at modifying the private lane standards at the last meeting. They increased the width
+      standards to those lanes slightly. For five lots or less the lane was required to be 25 feet
+      wide, up to 10 lots the lane has to be 31 feet wide, and then for up to 20 lots, the road width
+      is required to be 37 feet wide. She said that the entrance to Shadow Mountain was about
+      30 feet in width currently. She thought that there were four or five lots on the lane. As
+      they added additional lots, the increase in lane width would have to occur. She said,
+      however, that lot development was on a first come first serve basis. As more applications
+      came forward, staff would evaluate the lane to make sure it complied with the code.
+
+7.5   Sean Shah, applicant, said that he appreciated the Council. He said that he was excited to
+      do two subdivisions in Draper and help keep the City’s pristine look. He said the
+      subdivision had been done before. He ran some statistics, and there was a 67% chance that
+      if you pick a lot on the north side of 13800 there was a probability that it wasn’t going to
+      be up to code as most of the lots were grandfathered in.
+
+7.6   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+7.7   Councilmember F. Lowry moved to approve Ordinances #1468 and 1469, Shadow
+      Mountain subdivision Zoning Map and Land Use Map Amendment. Councilmember
+      Vawdrey seconded the motion.
+
+                                          Page 26 of 33
+7.8   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+8.0   Public Hearing: Resolution #20-53, amending the current Fiscal Year 2021 Budget.
+
+8.1   Bob Wylie, Finance Director, explained that this was the second reopening of the fiscal
+      year 2021 budget. He said that there were seven items for approval with the reopened
+      budget:
+
+             1. FY21-24 (Police Wing 3rd Floor Remodel): The Police Department requested
+                funding to remodel the third-floor police wing. These changes would be in the
+                detective division. They have estimated that it would cost $20,000 to remodel
+                and add additional growth for a conference and interview room. The money
+                would come from sales tax revenue.
+
+             2. FY21-25 (South Valley Chamber): The South Valley Chamber had several
+                programs that they wanted to continue through June of 2021. The programs
+                included Women In Business, Small Business Board, and other programs. They
+                request a $25,000 budget amendment for these programs that would also come
+                from sales tax revenues.
+
+             3. FY21-26 (Vacation Buyback): Due to conditions with COVID-19 there was a
+                need to keep employees at work. As a result, management approved a one-time
+                buyback of vacation time of employees that would exceed the annual pay over
+                amount under City policy. Employees at the end of the calendar year have a
+                maximum amount that they can buy back. This would allow the City to buy out
+                some of this time. The cost of this was estimated at $125,000 that would also
+                come from sales tax revenues.
+
+             4. FY21-27 (Student Wi-Fi): This funding request came from the Canyon School
+                District, as discussed in the previous week’s study session, to increase internet
+                access and remote learning capabilities. The project was estimated to cost
+                $15,000. Again, the request would be funded by sales tax revenues.
+
+             5. FY21-28 (Surveyor): Staff identified the need to contract with a surveyor to
+                identify property lines adjacent to Draper City open space. The project was
+                estimated to cost $50,000 with funding coming from sales tax revenue.
+
+             6. FY21-29 (Council Room Microphones): Staff requested to upgrade the
+                microphones in the City Council room so that multiple microphones could be
+                used simultaneously. The project was estimated to cost $60,000 with the
+                funding coming from sales tax revenue.
+
+             7. FY21-30 (Merit Increases): In the original budget that the City was presented
+                for FY2021, 18% of the normal budget was taken out as a COVID precaution
+
+                                        Page 27 of 33
+                 to balance out the fiscal year with the anticipation of losing revenue. However,
+                 the first couple of sales tax revenues had come in about 22% higher than
+                 budgeted. The reduction had not yet been seen, so they were looking to put a
+                 3% merit increase back in the budget for employees that was pro-rated from
+                 December to June. This would total $218,000 that would be added back into
+                 the budget and funded through sales tax revenues.
+
+      Mr. Wylie noted that all of the items were funded by sales tax revenues which had come in
+      22% higher than originally budgeted.
+
+8.2   Councilmember Green expressed thanks to Mr. Wylie. He clarified that all of the items
+      were covered by sales taxes. Mr. Wylie said that was correct. He said that in the first two
+      months the City had received about $460,000 higher than had been budgeted for those
+      months. He said that at this point they felt as though the sales tax revenue was not dropping
+      the 18% that they had originally taken out. He explained that the original budget took out
+      about $2.5 million in sales tax revenues for precautions. However, so far it was coming in
+      okay.
+
+      Councilmember Green said that he was happy that they were doing the merit increase. He
+      wondered if that was a 3% ongoing obligation. In Mr. Wylie’s projections for next year,
+      he asked if the City would be able to sustain it. Mr. Wylie said that throughout the state of
+      Utah sales tax revenues were coming in much higher than anticipated. If the sales tax
+      continued at a level pace, they would be able to afford the merit increase ongoing.
+
+8.3   Councilmember F. Lowry said, “Great job!” He appreciated the vacation buy back to
+      recognize the employees who have worked the extra time.
+
+8.4   Councilmember T. Lowery said that she agreed; there was a lot of important stuff in this
+      round of budget amendments. She appreciated that there was stuff for the schools here.
+
+8.5   Mayor Walker opened the public hearing. No one came forward so Mayor Walker
+      closed the public hearing.
+
+8.6   Councilmember Green moved to approve Resolution #20-53, amending the current
+      Fiscal Year 2021 Budget. Councilmember T. Lowery seconded the motion.
+
+8.7   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+      Vawdrey, voting in favor. The motion passed unanimously.
+
+9.0   Public Hearing: Ordinance #1467, City Initiated Notice of Continued Item Text
+      Amendment (Legislative Item), a request by Draper City for a Text Amendment to
+      amend Sections 9-5-045 and 17-1- 085 of Draper City Municipal Code. This
+      application is known as the City Initiated Notice of Continued Item Text Amendment.
+
+9.1   Todd Draper, planner, said that the item was previously introduced to the Council by Mr.
+      Dobbins in the study session. It was intended as a text change to help eliminate the
+
+                                         Page 28 of 33
+      confusion the public experienced when an item was continued after the public hearing was
+      closed. He said it was a simple change to sections 9-5-045 and 17-1-085 to add a line of
+      text. This line would indicate that no additional notice would be required if an item is
+      continued as an action item after a public hearing has been closed. Notice would still be
+      given on the agenda for the meeting. At the November 12, 2020, Planning Commission
+      meeting, a positive recommendation was forwarded to the Council with a vote of 5-0.
+
+9.2   Mayor Walker opened the public hearing.
+
+**    Mr. Nichols and Nancy Nichols stated that they intended to comment on the previous item,
+      the Shadow Mountain Subdivision. They said that they were not able to unmute themselves
+      and that they were finally informed to use the raise your hand.
+
+      Mayor Walker said that the Shadow Mountain item had already been approved by the
+      Council. Ms. Nichols said that they had not been allowed to speak when they had already
+      registered to speak on the item. Mayor Walker said that there was nothing that could be
+      done about it at this point, as the item had already been voted on. Ms. Nichols stated that
+      she did not feel as though that was fair.
+
+      Mr. Nichols said that there had been two meetings about the property that surrounds their
+      home on three sides. Mayor Walker said that the Council had already voted and approved
+      the item. He said that he was happy to give them three minutes to make a public comment
+      but wanted them to know that it could not be considered in the vote because the vote had
+      already been taken. However, a Councilmember might be spurred to bring it back. He said
+      that was as fair of a remedy as he could offer. He said that meetings were held via Zoom
+      because of COVID-19 and said there were public difficulties.
+
+      Brew Nichols, a resident, said that they were concerned about the widening of the road
+      issue. He said that they had been told by the surveyor that it would mean 17 additional
+      feet, which would encroach on their property to provide that additional road width and curb
+      and gutter. He said that they felt as though they had been shut out of the entire process and
+      that they had not been helped to feel comfortable with what was going on.
+
+      Ms. Nichols said that they had already been in process with something with the City to add
+      to the garage, which included what was going to be widened on the road. The project
+      happened before they knew that Sean was working with Davey.
+
+      Mr. Nichols said that from their part they would like someone who has the authority to
+      make decisions to talk with them to work things out with them, be that through a sit-down
+      meeting or a Zoom meeting. They felt as though the process was not very democratic.
+
+      Mayor Walker reiterated that the Council had already been voted on. He said that with the
+      pandemic the order was that people could either make a public comment online through
+      the link or in the public forum. He said that there was always the opportunity to comment
+      by email through the link system tied to agendas. He said that in the future that if they
+      wanted to make sure their public comment got through he recommended using the link so
+
+                                         Page 29 of 33
+       that the text comment could make it into the record and minutes and the Council was able
+       to review the comment.
+
+9.3    Mayor Walker closed the public hearing.
+
+9.4    Councilmember Green moved to approve Ordinance #1467, City Initiated Notice of
+       Continued Item Text Amendment. Councilmember F. Lowry seconded the motion.
+
+9.5    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+10.0   Action Item: Ordinance #1466, adopting a Temporary Land Use Regulation
+       permitting the use of Tents and Canopies for Temporary Restaurant Dining Space
+       (Legislative Action), a request by Draper City for a temporary land use regulation
+       permitting the use of tents and canopies for restaurant dining space. This application
+       is city wide and not associated with a single site.
+
+10.1 Todd Draper, a planner, said that the text amendment was an attempt to increase the tools
+     available to help the City through the pandemic. This was specifically detailed towards
+     restaurants that had lost roughly 50% of their capacity due to the new seating and distancing
+     requirements. The proposed regulation would be temporary, limited to six months. It
+     would apply to legally operating restaurants in Draper City with an active business license
+     and approved indoor seating area. Application requirements include (a) Each individual
+     restaurant must make an application; (b) A provided site and seating plan; (c) Tents and
+     canopies could not impede pedestrian or emergency access; (d) Property owner permission
+     required; and (e) The City would review applications within 15 days
+
+       In regards to the location tents/canopies: (a) Must be on the same site or on adjacent
+       property within 250 feet of the restaurant; (b) Must be on asphalt or concrete surfaces; (c)
+       May be in a parking area; (d) May not be in the public right of way; (e) May not encroach
+       into landscaping; and (f) ADA parking stalls and facilities to remain accessible
+
+       Size would be limited to: (a) No more than two tents/canopies; (b)Total combined size may
+       not exceed the square footage of existing indoor dining space; and (c) May not cover more
+       than 15% of required parking stalls for restaurant
+
+       Other operational requirements included that: (a) Interior dining space must continue to be
+       utilized; (b) Restaurants may not share tent or canopy with other restaurants; and (c) Use
+       of tents or canopies still subject to other agreements and regulations such as lease
+       agreements and State Division of Alcoholic Beverage Control.
+
+       Anchoring requirements included that: (a) all tents or canopies be secured in case of wind;
+       (b) they must be anchored by water, cement or sand barrels, no stakes; and (c) setbacks are
+       per International Fire Code and International Building Code.
+
+
+
+
+                                          Page 30 of 33
+       In regards to fire safety tents/canopies: (a) must comply with International Fire Code; (b)
+       required a permit from the Fire Marshal; (c) must provide construction documents and
+       structural calculations for Fire Marshal review; (d) have marked fire extinguishers and
+       marked exits; (e) require an emergency evacuation plan; (f) have combustible waste stored
+       away from tent or canopy; and (g) prohibit smoking inside the tent.
+
+       He reiterated that the proposed regulation was intended for six months unless repealed by
+       the Council before then. Any tents or canopies would be required to be removed within
+       five days of repeal.
+
+10.2   Councilmember F. Lowry said he felt that it was a great thing for the City to do to help
+       businesses.
+
+10.3   Councilmember T. Lowery said that she supported the initiative and that she was grateful
+       to Christina Oliver for looking into the item. She knows that many businesses have
+       struggled to maintain normal customer levels when they cannot have them all inside. She
+       felt that this was a creative and innovative way to support local businesses.
+
+10.    Councilmember Vawdrey moved to approve Ordinance #1466, adopting a
+       Temporary Land Use Regulation. Councilmember T. Lowery seconded the motion.
+
+10.    A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+11.0   Council/Manager Reports
+
+12.0   Adjournment
+
+12.1   Councilmember Green moved to adjourn the meeting.             Councilmember Vawdrey
+       seconded the motion.
+
+12.2   A roll call vote was taken with Councilmembers Green, Lowery, Lowry, Roberts, and
+       Vawdrey, voting in favor. The motion passed unanimously.
+
+12.3   The meeting adjourned at 8:56 p.m.
+
+
+
+
+                                         Page 31 of 33
+From:
+Kathy Anderson
+14389 Lapis Drive, Draper
+
+To:
+Mayor, City Council, and Departments,
+
+Thank you
+
+   •   Thank you for establishing this virtual mode of communication in City
+       Council meetings and inviting the public to participate.
+   •   Thank you for continuous documentation and publishing City documents.
+   •   Thank you for distributing Draper City local business coupons to residents
+       to use at participating Draper City businesses.
+   •   Thank you for maintaining critical services during a difficult time. I was
+       especially grateful for my garbage bin to be emptied today. I understand
+       residential garbage removal is more of a challenge, now, and am glad for
+       Draper City's commitment to public health.
+   •   Thank you for corresponding and meeting with me about my safety concerns
+       about the traffic control device removal in September at the crest of the hill
+       at the intersection of Vestry and Henry Day/Debrian Way near my home and
+       for giving me access to the ruling and guiding texts Draper City complies
+       with when making traffic flow changes.
+
+
+About Vestry
+
+Quantitatively analyzing the vertical curve per the Policy on Geometric Design of
+     Highways and Streets should objectively answer the question of safety at the
+     intersection of Vestry and Henry Day/Debrian Way; whether the geometric
+     context, alone, at that intersection, is sufficient per the ruling and guiding
+     texts to protect pedestrian and vehicular road users at their current recorded
+     median and mid-upper percentile velocities, or whether those ruling and
+     guiding texts dictate or suggest the use of traffic control devices to
+     compensate for significant safety concerns inherent in that geometric
+     context. The engineering study by WCEC used as justification for the
+     removal of stop signs on Vestry did not analyze the vertical curve per the
+     Policy on Geometric Design of Highways and Streets and, therefore,
+     neglected to determine whether the vertical curve's curvature limits the sight
+
+
+                                    Page 32 of 33
+      distance of road users to a degree that poses a hazard that a stop sign would
+      mitigate.
+
+Questions
+
+Will you please direct me to where I can access a street design sheet for the
+      vertical curve on Vestry spanning between Bangerter parkway and Salina or
+      at least the full length of the vertical curve? If there is no design sheet, is
+      there a table recording the characterizing parameters of the curve: vertical
+      offset at the VPI, sight distance, length of curve, percent algebraic difference
+      in grades, and rate of vertical curvature? Would these design factors be in
+      City documents or County documents?
+
+Also, I look forward to the upcoming results of the recent Vestry speed study near
+       that intersection. Do you have an idea when that data will be ready to share?
+
+I do not need to take videoconference time at tonight's meeting. However, I do
+      respectfully request my comments and questions be read and recorded in
+      official minutes and look forward to a response whether through e-mail or
+      phone call or future meeting discussion or minutes.
+
+Thank you,
+
+Kathy Anderson
+
+
+
+
+                                    Page 33 of 33
+

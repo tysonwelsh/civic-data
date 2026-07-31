@@ -1,0 +1,19 @@
+{
+  "contributions": [
+    {"date": "11/05", "name": "Paige Vice", "amount": "35", "in_kind": false},
+    {"date": "10/31", "name": "Paul Maritsas", "amount": "250", "in_kind": false},
+    {"date": "11/04", "name": "Jacqueline Fogel", "amount": "32.99", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "10/26", "recipient": "University of Utah", "purpose": "Parking", "amount": "8.00", "in_kind": false},
+    {"date": "10/28", "recipient": "Union Print shop", "purpose": "Campaign printing", "amount": "700", "in_kind": false},
+    {"date": "10/30", "recipient": "Facebook", "purpose": "Ads", "amount": "34.03", "in_kind": false},
+    {"date": "11/05", "recipient": "European Tasties", "purpose": "Volunteer treats", "amount": "24.67", "in_kind": false},
+    {"date": "11/08", "recipient": "Citrus Grill", "purpose": "Election Night party", "amount": "139.36", "in_kind": false},
+    {"date": "11/13", "recipient": "Erin Finney", "purpose": "Field Director", "amount": "400", "in_kind": false},
+    {"date": "11/25", "recipient": "Fedex", "purpose": "Packing tape", "amount": "8.05", "in_kind": false}
+  ],
+  "total_contributions": "317.99",
+  "total_expenditures": "1314.11",
+  "ending_balance": "-128.35"
+}

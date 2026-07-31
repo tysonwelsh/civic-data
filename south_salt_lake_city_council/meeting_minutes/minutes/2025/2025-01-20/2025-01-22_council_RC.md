@@ -1,0 +1,215 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_01222025-460
+> Meeting date: 2025-01-22
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 01222025-460 | label: Council WM Meeting 2025-01-22 | date: 2025-01-22 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_01222025-460 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL MEETING
+
+COUNCIL MEETING                                               Wednesday, January 22, 2025
+                                                              7:00 p.m.
+
+CITY OFFICES                                                  220 East Morris Avenue
+                                                              South Salt Lake, Utah 84115
+
+PRESIDING:                                                    Council Chair Sharla Bynum
+
+CONDUCTING:                                                   LeAnne Huff
+
+PLEDGE OF ALLEGIANCE :                                        Clarissa Williams
+
+SERGEANT AT ARMS:                                             Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum,
+      Nick Mitchell, Paul Sanchez (Zoom), Clarissa Williams
+
+COUNCIL MEMBERS EXCUSED:
+      None
+
+STAFF PRESENT:
+       Mayor Wood
+       Josh Collins, City Attorney
+       Danielle Croyle, Police Chief
+       Terry Addison, Fire Chief
+       Sharen Hauri, Neighborhoods Director
+       Eliza Ungricht, Community Development Deputy Director
+       Spencer Cawley, Senior Planner
+       Jen Hill, Executive Assistant
+       Edward Lopez, Promise Deputy Director
+       Carson Aprato, Police Detective
+       Spencer Redden, Police Officer
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+
+OTHERS PRESENT:
+      See list
+
+APPROVAL OF MINUTES
+      December 11th, Regular Meeting (2024)
+      January 8th, Work Meeting
+
+
+Council Member Williams made a motion to approve the minutes listed above.
+
+MOTION: Clarissa Williams
+                                              1
+South Salt Lake – Regular Council Meeting                                      January 22, 2025
+
+
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+Thomas:        Yes
+Williams:      Yes
+Sanchez:       None
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting—February 12th @ 7 p.m.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          Susan Bowlden, a resident of South Salt Lake, shared some comments about the
+          captioning available for Council meetings.
+
+       3. MAYOR COMMENTS.
+          Mayor Wood extended her condolences to the people affected by the LA fires and
+          shared that the City will be doing its part to help by opening its doors to animals
+          that are being rescued by Best Friends Society and are seeking adoption from the
+          wildfires.
+
+       4. CITY ATTORNEY COMMENTS.
+          None.
+
+       5. CITY COUNCIL COMMENTS.
+          Council Members Sanchez, Williams, Thomas, Bynum, Mitchell, and Huff expressed
+          gratitude towards all the applicants for the vacant At-Large City Council seat. They
+          also encouraged the applicants not to give up if getting involved with the City as an
+          elected didn’t work out on their first try.
+
+Action Items
+
+Unfinished Business
+
+   1. Vote to Fill Vacant At-Large City Council Seat
+      The Council Members voted to select an applicant to fill the vacant At-Large City Council
+      seat.
+
+       City Recorder, Ariel Andrus, collected the votes and announced the outcome to those
+       present at the meeting.
+
+       Council Members Mitchell, Bynum, Huff, Thomas, and Williams voted for applicant Ray
+       DeWolfe. Council Member Sanchez voted for applicant Sarah Montes.
+
+
+                                               2
+South Salt Lake – Regular Council Meeting                                         January 22, 2025
+
+
+        The results met the minimum number of ‘yes’ votes required to pass the Resolution to
+        appoint the selected applicant, per Utah State Code 10-3-507.
+
+        Council Chair Bynum made a motion to approve the Resolution.
+
+        A copy of the Resolution to appoint Mr. DeWolfe to serve the remainder of the term for
+        the vacant At-Large City Council seat is attached and incorporated by this reference.
+
+
+MOTION: Sharla Bynum
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+    2. An Ordinance of the South Salt Lake City Council Enacting Chapter 12.01 of the South
+       Salt Lake Municipal Code Prohibiting Camping in all Public Places in the City of South
+       Salt Lake.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance.
+
+
+MOTION: Clarissa Williams
+SECOND: Sharla Bynum
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Abstain
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          No
+
+    3. An Ordinance of the South Salt Lake City Council to Amend the South Salt Lake Zoning
+       Map from Transit-Oriented Development to Commercial General for Three Parcels of
+       Land Located at 3302 South, 3330 South, and 3340 South 300 West, South Salt Lake
+       City, Utah.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Williams made a motion to approve the Ordinance.
+                                               3
+South Salt Lake – Regular Council Meeting                                    January 22, 2025
+
+
+MOTION: Clarissa Williams
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          Yes
+
+Swearing In Ceremony
+
+    1. Swearing In of Newly Selected At-Large Council Member
+       City Recorder, Ariel Andrus, swore Ray DeWolfe in as At-Large City Council Member.
+
+
+
+
+Council Chair Bynum made a motion to Adjourn.
+
+
+MOTION: Sharla Bynum
+SECOND: Clarissa Williams
+
+Voice Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Thomas:           Yes
+Williams:         Yes
+Sanchez:          None
+
+
+        The meeting adjourned at 7:37 p.m.
+
+
+
+
+                                              _____________________________
+                                              Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+                                              4

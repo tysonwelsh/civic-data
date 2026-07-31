@@ -1,0 +1,56 @@
+{
+ "date": "2017-04-10",
+ "year": 2017,
+ "title": "City Council Agenda",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2017/2017-04-10/2017-04-10_city-council-agenda-85.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of April 3, 2017",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Cheri Jackson",
+   "seconder": "Silvia Catten",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 4
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to adopt Ordinance No. 17-_____, Notifying the Public of a Pending Ordinance Regarding Changes to the Commercial Zone to Limit/Prohibit Self Storage Units, Residential Uses, Pawn Shops, Check Cashing Businesses, Tobacco Specialty Businesses, Tattoo Shops Uses in the C-1, C-2 and C-3 Zones",
+   "body": "Council",
+   "motion_type": "Land-Use/Zoning",
+   "result": "4-0 Pass",
+   "mover": "Dwight Marchant",
+   "seconder": "Cheri Jackson",
+   "names_recorded": true,
+   "aye": [
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

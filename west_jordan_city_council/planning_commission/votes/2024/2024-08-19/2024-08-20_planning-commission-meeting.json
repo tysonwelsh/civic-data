@@ -1,0 +1,63 @@
+{
+ "date": "2024-08-20",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "format": "ocr",
+ "source": "planning_commission/minutes/2024/2024-08-19/2024-08-20_planning-commission-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes from August 6, 2024",
+   "motion_type": "Procedural/Administrative",
+   "action_class": "procedural",
+   "result": "5:0 Pass",
+   "mover": "Jay Thomas",
+   "seconder": "Trish Hatch",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Emily Gonzalez"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 2,
+   "motion": "based on the information and findings set forth in the staff report and upon the evidence and explanations received today, to forward a positive recommendation to the City Council for the text amendment regarding the Sign Code/PCH Zone with the amendment to include ‘administrative conditional (AC)’ in the descriptive language in 13-17-2",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:0",
+   "mover": "John Roberts",
+   "seconder": "Trish Hatch",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Emily Gonzalez"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  },
+  {
+   "motion_no": 3,
+   "motion": "based on the information and findings of the required criteria set forth in the staff report and upon the evidence and explanations received today, to forward a recommendation of approval to the City Council for the Text Amendment regarding Overlay Zoning Districts finding that an affirmative determination has been made for the criteria found in 13-7D-6B; 1 through 4",
+   "motion_type": "Land-Use/Zoning",
+   "action_class": "pc_recommendation",
+   "result": "Positive recommendation 5:0",
+   "mover": "Jay Thomas",
+   "seconder": "John Roberts",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [
+    "George Winn",
+    "Emily Gonzalez"
+   ],
+   "recuse": [],
+   "names_recorded": false
+  }
+ ]
+}

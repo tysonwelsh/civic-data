@@ -1,0 +1,117 @@
+{
+ "date": "2025-08-20",
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "source": "planning_commission/minutes/2025/2025-08-18/2025-08-20_planning-commission-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "pass the Consent",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "Haysam Sakar",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 2,
+   "motion": "pass the Consent",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Final Action",
+   "result": "5:0 Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "Haysam Sakar",
+   "names_recorded": true,
+   "aye": [
+    "Mike Carpenter",
+    "Gerald Crismon",
+    "Rod Erickson",
+    "Madeline Komen",
+    "Haysam Sakar"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 3,
+   "motion": "forward a positive recommendation to City",
+   "body": "PlanningCommission",
+   "motion_type": "Other",
+   "action_class": "Recommendation",
+   "result": "Positive recommendation 4:0",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "Madeline Komen",
+   "names_recorded": true,
+   "aye": [
+    "Gerald Crismon",
+    "Rod Erickson",
+    "Madeline Komen",
+    "Haysam Sakar"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 4,
+   "motion": "approve the preliminary subdivision",
+   "body": "PlanningCommission",
+   "motion_type": "Plat/Subdivision",
+   "action_class": "Final Action",
+   "result": "5:0 Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Mike Carpenter",
+   "seconder": "Haysam Sakar",
+   "names_recorded": true,
+   "aye": [
+    "Mike Carpenter",
+    "Gerald Crismon",
+    "Rod Erickson",
+    "Madeline Komen",
+    "Haysam Sakar"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  },
+  {
+   "motion_no": 5,
+   "motion": "approve the site plan",
+   "body": "PlanningCommission",
+   "motion_type": "Site Plan",
+   "action_class": "Final Action",
+   "result": "5:0 Approved (Final Action)",
+   "outcome": "Passed",
+   "mover": "Rod Erickson",
+   "seconder": "Mike Carpenter",
+   "names_recorded": true,
+   "aye": [
+    "Mike Carpenter",
+    "Gerald Crismon",
+    "Rod Erickson",
+    "Madeline Komen",
+    "Haysam Sakar"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": []
+  }
+ ]
+}

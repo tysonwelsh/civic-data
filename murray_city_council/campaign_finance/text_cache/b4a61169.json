@@ -1,0 +1,36 @@
+{
+  "contributions": [
+    {"date": "8/13", "name": "Blake Facer", "amount": "50", "in_kind": false},
+    {"date": "8/13", "name": "Jane Willie", "amount": "100", "in_kind": false},
+    {"date": "8/17", "name": "Kathleen Stanford", "amount": "200", "in_kind": false},
+    {"date": "9/12", "name": "Paul Pickett", "amount": "50", "in_kind": false},
+    {"date": "10/2", "name": "Skip Klintworth", "amount": "1,000", "in_kind": false},
+    {"date": null, "name": "Reagan Outdoor Advertising", "amount": "3550", "in_kind": true},
+    {"date": null, "name": "Mike Bird", "amount": "46.28", "in_kind": true},
+    {"date": null, "name": "Salt Lake Board of Realtors", "amount": "2000", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Reagan Outdoor Advertising", "purpose": null, "amount": "218.57", "in_kind": false},
+    {"date": null, "recipient": "Marketing Services", "purpose": null, "amount": "172.50", "in_kind": false},
+    {"date": null, "recipient": "City Journals Advertising", "purpose": null, "amount": "360", "in_kind": false},
+    {"date": null, "recipient": "Goodparty.org Texting", "purpose": null, "amount": "72", "in_kind": false},
+    {"date": null, "recipient": "MailChimp", "purpose": null, "amount": "243.84", "in_kind": false},
+    {"date": null, "recipient": "GoodParty Membership", "purpose": null, "amount": "20", "in_kind": false},
+    {"date": null, "recipient": "Candidate Night at the Armory", "purpose": null, "amount": "30", "in_kind": false}
+  ],
+  "total_contributions": "1,400",
+  "total_expenditures": "1,116.91",
+  "contributions_50_or_less": null,
+  "beginning_balance": "82.09",
+  "ending_balance": "365.18",
+  "_meta": {
+    "index_path": "raw/202510_Clark-Bullen_17217.pdf",
+    "candidate": "Clark Bullen",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "reporting_period": "Pre-General 28-day",
+    "extraction_method": "pdftotext born-digital text layer",
+    "reconcile_note": "Schedule A monetary itemized sums to 1400 vs printed cover 1,400 — reconciles. Schedule B itemized sums to 1116.91 vs printed cover 1,116.91 — reconciles. Schedule C in-kind: three items (Reagan Outdoor Advertising Billboard 3550, Mike Bird H Frames 46.28, Salt Lake Board of Realtors Door Hangers 2000); the printed SUBTOTAL and TOTAL IN KIND CONTRIBUTION lines are BLANK on the form — items captured verbatim with in_kind:true, separate from Schedule A cover total."
+  }
+}

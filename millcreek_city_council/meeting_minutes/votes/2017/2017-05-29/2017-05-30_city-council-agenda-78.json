@@ -1,0 +1,80 @@
+{
+ "date": "2017-05-30",
+ "year": 2017,
+ "title": "City Council Agenda",
+ "file_body": "Council",
+ "present": [
+  "Silvia Catten",
+  "Dwight Marchant",
+  "Cheri Jackson",
+  "Bev Uipi",
+  "Jeff Silvestrini"
+ ],
+ "source": "minutes/2017/2017-05-29/2017-05-30_city-council-agenda-78.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve the minutes of May 22, 2017",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "mover": "Cheri Jackson",
+   "seconder": "Dwight Marchant",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": false,
+   "tally_only": {
+    "unanimous": true,
+    "present_count": 5
+   }
+  },
+  {
+   "motion_no": 2,
+   "motion": "to approve Resolution No. 17-______ - determining to withdraw from the Municipal Services District and to give notice to the Municipal Services District of the intent to withdraw effective June 30th according the statute",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "5-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Bev Uipi",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "to temporarily recess the Council meeting to convene in a closed session to discuss the character, professional competence, or physical or mental health of an individual, pending or reasonable imminent litigation, and the purchase, exchange, or lease of real property, as provided by Utah Code Annotated Section 52-4-205",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "mover": "Cheri Jackson",
+   "seconder": "Bev Uipi",
+   "names_recorded": true,
+   "aye": [
+    "Bev Uipi",
+    "Cheri Jackson",
+    "Dwight Marchant",
+    "Jeff Silvestrini",
+    "Silvia Catten"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true
+  }
+ ]
+}

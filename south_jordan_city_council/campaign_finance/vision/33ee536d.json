@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {"date": "06/15/25", "name": "Michelle Gonzales", "city": "Murray", "state": "UT", "amount": "140", "in_kind": false},
+    {"date": "07/08/25", "name": "Michael Gonzales", "city": "Murray", "state": "UT", "amount": "200", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": "06/19/25", "recipient": "Signs on the cheap", "purpose": "Signs", "amount": "119.59", "in_kind": false},
+    {"date": "09/03/25", "recipient": "Wix.com", "purpose": "Website", "amount": "26.25", "in_kind": false},
+    {"date": "09/03/25", "recipient": "Wix.com", "purpose": "Website", "amount": "26.25", "in_kind": false},
+    {"date": "10/02/25", "recipient": "Wix.com", "purpose": "Website", "amount": "25.78", "in_kind": false},
+    {"date": "11/02/25", "recipient": "Wix.com", "purpose": "Website", "amount": "25.78", "in_kind": false}
+  ],
+  "total_contributions": "340",
+  "total_expenditures": "227.18",
+  "total_contributions_ytd": "340",
+  "total_expenditures_ytd": "233.18"
+}

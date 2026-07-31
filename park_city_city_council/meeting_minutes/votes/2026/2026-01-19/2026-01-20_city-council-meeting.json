@@ -1,0 +1,98 @@
+{
+ "date": "2026-01-20",
+ "title": "City Council Meeting",
+ "body_slug": "city-council-meeting",
+ "source": "minutes/2026/2026-01-19/2026-01-20_city-council-meeting.md",
+ "format": "text",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "Council Member Ciraco moved to close the meeting to discuss property and litigation at 4:17 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Bill Ciraco",
+   "seconder": "Diego Zegarra",
+   "aye": [
+    "Bill Ciraco",
+    "Molly Miller",
+    "Ed Parigian",
+    "Tana Toly",
+    "Diego Zegarra"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 2,
+   "motion": "Council Member Toly moved to adjourn from Closed Meeting at 5:22 p.m",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Tana Toly",
+   "seconder": "Diego Zegarra",
+   "aye": [
+    "Bill Ciraco",
+    "Molly Miller",
+    "Ed Parigian",
+    "Tana Toly",
+    "Diego Zegarra"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 3,
+   "motion": "Council Member Toly moved to approve the Consent Agenda",
+   "body": "Council",
+   "motion_type": "Procedural/Administrative",
+   "result": "5-0 Pass",
+   "result_text": "APPROVED",
+   "mover": "Tana Toly",
+   "seconder": "Bill Ciraco",
+   "aye": [
+    "Bill Ciraco",
+    "Molly Miller",
+    "Ed Parigian",
+    "Tana Toly",
+    "Diego Zegarra"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  },
+  {
+   "motion_no": 4,
+   "motion": "Council Member Zegarra moved to approve Council adoptiing a resolution in support of a locally preferred alternative as amended in the packet and the slides",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "4-1 Pass",
+   "result_text": "APPROVED",
+   "mover": "Diego Zegarra",
+   "seconder": "Tana Toly",
+   "aye": [
+    "Bill Ciraco",
+    "Molly Miller",
+    "Tana Toly",
+    "Diego Zegarra"
+   ],
+   "nay": [
+    "Ed Parigian"
+   ],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true
+  }
+ ]
+}

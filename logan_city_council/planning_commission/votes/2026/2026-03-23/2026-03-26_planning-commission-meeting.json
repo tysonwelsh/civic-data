@@ -1,0 +1,83 @@
+{
+ "date": "2026-03-26",
+ "year": 2026,
+ "title": "Planning Commission",
+ "body": "PlanningCommission",
+ "slug": "planning-commission-meeting",
+ "format": "text",
+ "source": "planning_commission/minutes/2026/2026-03-23/2026-03-26_planning-commission-meeting.md",
+ "present": [
+  "David Lewis",
+  "Jessica Lucero",
+  "Craig Maughan",
+  "Sarah McNamara"
+ ],
+ "votes": [
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to conditionally approve a Design Review and Subdivision Permit for PC 26-004 subject to the amended conditions of approval and findings for approval as listed below. Commissioner Duncan seconded the motion. The motion was approved",
+   "motion_type": "Land-Use/Zoning",
+   "result": "5:0 Approved (Final Action)",
+   "kind": "final_action",
+   "mover": "Jessica Lucero",
+   "seconder": "Jennifer Duncan",
+   "aye": [
+    "David Lewis",
+    "Jessica Lucero",
+    "Sarah McNamara",
+    "Jennifer Duncan",
+    "Craig Maughan"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 1
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "Commissioner Lucero made a motion to forward a recommendation of approval to the Municipal Council for the 2045 General Plan (PC 26-013) with the recommended suggestions stated above. Commissioner McNamara seconded the motion. The motion was approved unanimously.",
+   "motion_type": "Land-Use/Zoning",
+   "result": "Positive recommendation 5:0",
+   "kind": "recommendation",
+   "mover": "Jessica Lucero",
+   "seconder": "Sarah McNamara",
+   "aye": [
+    "David Lewis",
+    "Jessica Lucero",
+    "Sarah McNamara",
+    "Jennifer Duncan",
+    "Craig Maughan"
+   ],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": true,
+   "tally_text": "5-0",
+   "outcome_word": "Approved",
+   "motion_no": 2
+  },
+  {
+   "body": "PlanningCommission",
+   "motion": "approve the minutes of the March 12, 2026, meeting",
+   "motion_type": "Procedural/Administrative",
+   "result": "Pass (unanimous)",
+   "kind": "procedural",
+   "mover": "Jennifer Duncan",
+   "seconder": "Jessica Lucero",
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "names_recorded": false,
+   "tally_text": "",
+   "outcome_word": "",
+   "motion_no": 3
+  }
+ ]
+}

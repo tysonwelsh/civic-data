@@ -1,0 +1,27 @@
+OREM PLANNING COMMISSION — VOTE EXTRACTION VALIDATION REPORT
+==============================================================
+
+Index rows                 : 114
+Per-meeting JSON files     : 114
+Meetings missing a JSON    : 0 []
+Motions (JSON)             : 562
+Member-vote rows (JSON)    : 2997
+Member-vote rows (CSV)     : 2997
+JSON<->CSV row match       : OK
+Distinct commissioners     : 25
+Off-roster members in CSV  : 0 []
+Rows with body != Planning : []
+Rows with bad title        : []
+Tally/consistency issues   : 0
+Source format breakdown    : {'text': 91, 'docx': 17, 'ocr': 6}  (OCR = lower fidelity, born-digital text/docx preferred)
+
+--- roster by year (members appearing in recorded votes or attendance) ---
+  2020: 7  Barry Roberts, Camille Jensen, Carl Cook, Haysam Sakar, Mickey Cochran, Mike Staker, Ross Spencer
+  2021: 9  Barry Roberts, Camille Jensen, Carl Cook, Haysam Sakar, Jim Condie, Marisa Bentley, Mickey Cochran, Ross Spencer, Shauna Mecham
+  2022: 13  Amber Pope, Barry Roberts, Gerald Crismon, Haysam Sakar, James Hawkes, Jim Condie, Madeline Komen, Marisa Bentley, Mickey Cochran, Murray Low, Ross Spencer, Shauna Mecham, Tina Okolowitz
+  2023: 7  Gerald Crismon, Haysam Sakar, Helena Kleinlein, James Hawkes, Madeline Komen, Mike Carpenter, Murray Low
+  2024: 9  Britton Runolfson, Gerald Crismon, Haysam Sakar, Helena Kleinlein, James Hawkes, Madeline Komen, Mike Carpenter, Murray Low, Rod Erickson
+  2025: 7  Britton Runolfson, Gerald Crismon, Haysam Sakar, James Hawkes, Madeline Komen, Mike Carpenter, Rod Erickson
+  2026: 12  Britton Runolfson, Darren Hawkins, Gerald Crismon, Haysam Sakar, James Hawkes, Jeff Reeves, Karl Radmall, Madeline Komen, Micah Ladle, Mike Carpenter, Rod Erickson, Susan Madsen
+
+RESULT: ALL CHECKS PASS

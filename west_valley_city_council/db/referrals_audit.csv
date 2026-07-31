@@ -1,0 +1,32 @@
+referral_id,confidence,match_method,primary_body,related_body,gap_days,related_application_id,related_date,related_title,primary_application_id,primary_date,primary_title,shared_address,subject_score,note
+1,low,subject,Council,PlanningCommission,-323,512,2021-03-24,to approve PUD-1-2021,29,2020-05-05,to approve application PUD-2-2019,,1.0,
+2,low,subject,Council,PlanningCommission,-1716,556,2025-01-15,to approve PUD-3-2024,29,2020-05-05,to approve application PUD-2-2019,,1.0,
+3,low,subject,Council,PlanningCommission,-1954,560,2025-09-10,to approve PUD-7-2025,29,2020-05-05,to approve application PUD-2-2019,,1.0,
+5,low,subject,Council,PlanningCommission,-1394,556,2025-01-15,to approve PUD-3-2024,97,2021-03-23,to approve PUD-1-2020,,1.0,
+6,low,subject,Council,PlanningCommission,-1632,560,2025-09-10,to approve PUD-7-2025,97,2021-03-23,to approve PUD-1-2020,,1.0,
+9,low,subject,Council,PlanningCommission,-1128,556,2025-01-15,to approve PUD-3-2024,196,2021-12-14,to approve application PUD-6-2021,,1.0,
+10,low,subject,Council,PlanningCommission,-1366,560,2025-09-10,to approve PUD-7-2025,196,2021-12-14,to approve application PUD-6-2021,,1.0,
+12,low,subject,Council,PlanningCommission,-1100,556,2025-01-15,to approve PUD-3-2024,201,2022-01-11,to approve Application PUD-4-2021,,1.0,
+13,low,subject,Council,PlanningCommission,-1338,560,2025-09-10,to approve PUD-7-2025,201,2022-01-11,to approve Application PUD-4-2021,,1.0,
+16,low,subject,Council,PlanningCommission,-1079,556,2025-01-15,to approve PUD-3-2024,203,2022-02-01,to approve PUD-2-2021,,1.0,
+17,low,subject,Council,PlanningCommission,-1317,560,2025-09-10,to approve PUD-7-2025,203,2022-02-01,to approve PUD-2-2021,,1.0,
+18,low,subject,Council,PlanningCommission,587,512,2021-03-24,to approve PUD-1-2021,264,2022-11-01,to approve Application PUD-3-2022,,1.0,
+20,low,subject,Council,PlanningCommission,-806,556,2025-01-15,to approve PUD-3-2024,264,2022-11-01,to approve Application PUD-3-2022,,1.0,
+21,low,subject,Council,PlanningCommission,-1044,560,2025-09-10,to approve PUD-7-2025,264,2022-11-01,to approve Application PUD-3-2022,,1.0,
+22,low,subject,Council,PlanningCommission,629,512,2021-03-24,to approve PUD-1-2021,274,2022-12-13,to approve Application PUD-2-2022,,1.0,
+24,low,subject,Council,PlanningCommission,-764,556,2025-01-15,to approve PUD-3-2024,274,2022-12-13,to approve Application PUD-2-2022,,1.0,
+25,low,subject,Council,PlanningCommission,-1002,560,2025-09-10,to approve PUD-7-2025,274,2022-12-13,to approve Application PUD-2-2022,,1.0,
+28,low,subject,Council,PlanningCommission,986,512,2021-03-24,to approve PUD-1-2021,347,2023-12-05,to approve PUD-2-2023,,1.0,
+30,low,subject,Council,PlanningCommission,-407,556,2025-01-15,to approve PUD-3-2024,347,2023-12-05,to approve PUD-2-2023,,1.0,
+31,low,subject,Council,PlanningCommission,-645,560,2025-09-10,to approve PUD-7-2025,347,2023-12-05,to approve PUD-2-2023,,1.0,
+4,high,override,Council,PlanningCommission,,504,2020-05-27,to approve GPZ-4-2020 subject to the development agreement including the changes recommended by staff,97,2021-03-23,to approve PUD-1-2020,,,exact shared case number PUD-1-2020 (Council action <- PC recommendation)
+7,high,override,Council,PlanningCommission,,520,2021-08-11,to approve PUD-2-2021 subject to the fourteen staff alternatives,191,2021-12-07,"to continue Application GPZ-14-2021 (including Ordinance 21-63 and 21-64 and Resolution 21-189) to December 14, 2021",,,exact shared case number GPZ-14-2021 (Council action <- PC recommendation)
+8,high,override,Council,PlanningCommission,,524,2021-10-27,to approve PUD-4-2021 subject to the fourteen staff alternatives,196,2021-12-14,to approve application PUD-6-2021,,,exact shared case number PUD-6-2021 (Council action <- PC recommendation)
+11,high,override,Council,PlanningCommission,,521,2021-08-25,to approve Z-6-2021 subject to a development agreement amendment that includes the subject property and the standards recommended by staff in this report,201,2022-01-11,to approve Application PUD-4-2021,,,exact shared case number PUD-4-2021 (Council action <- PC recommendation)
+14,high,override,Council,PlanningCommission,,517,2021-06-23,to approve Z-4-2021 as it complies with the General Plan,203,2022-02-01,to approve PUD-2-2021,,,exact shared case number PUD-2-2021 (Council action <- PC recommendation)
+15,high,override,Council,PlanningCommission,,523,2021-10-27,to approve GPZ-14-2021 subject to a development agreement that incorporates the standards proposed by the applicant and the three recommendations by staff,203,2022-02-01,to approve PUD-2-2021,,,exact shared case number PUD-2-2021 (Council action <- PC recommendation)
+19,high,override,Council,PlanningCommission,,531,2022-02-23,to approve PUD-1-2022 subject to the 14 conditions outlined in the staff report,264,2022-11-01,to approve Application PUD-3-2022,,,exact shared case number PUD-3-2022 (Council action <- PC recommendation)
+23,high,override,Council,PlanningCommission,,530,2022-02-23,to approve Z-2-2022 subject to a development agreement that includes the standards proposed by the applicant as well as the recommended additions from staff,274,2022-12-13,to approve Application PUD-2-2022,,,exact shared case number PUD-2-2022 (Council action <- PC recommendation)
+26,high,override,Council,PlanningCommission,,543,2023-05-24,"to approve S-3-2023, the Godfrey Industrial Park Subdivision No",323,2023-09-05,to approve application SMI-4-2023,,,exact shared case number SMI-4-2023 (Council action <- PC recommendation)
+27,high,override,Council,PlanningCommission,,545,2023-07-26,to approve SMI-4-2023 the 4700 South Industrial Park Subdivision subject to a resolution of staff and agency comments,326,2023-09-12,to approve Application SMI-1-2023,,,exact shared case number SMI-1-2023 (Council action <- PC recommendation)
+29,high,override,Council,PlanningCommission,,547,2023-08-09,to approve SMI-1-2023 the Advanced RV Subdivision subject to a resolution of staff and agency concerns,347,2023-12-05,to approve PUD-2-2023,,,exact shared case number PUD-2-2023 (Council action <- PC recommendation)

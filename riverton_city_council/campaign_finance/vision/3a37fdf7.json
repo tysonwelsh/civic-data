@@ -1,0 +1,23 @@
+{
+  "contributions": [],
+  "expenditures": [
+    {"date": null, "recipient": "Sun Lithographing", "purpose": null, "amount": "1329.88", "in_kind": false},
+    {"date": null, "recipient": "Vottn Campaigns", "purpose": null, "amount": "175.00", "in_kind": false},
+    {"date": null, "recipient": "Mason Rose", "purpose": null, "amount": "100.00", "in_kind": false},
+    {"date": null, "recipient": "Sun Lithographing", "purpose": null, "amount": "1257.50", "in_kind": false}
+  ],
+  "total_contributions": "0",
+  "total_expenditures": "2862.38",
+  "contributions_50_or_less": null,
+  "beginning_balance": "3845.13",
+  "ending_balance": "982.75",
+  "_meta": {
+    "index_path": "raw/2025_park_general-election-report.pdf",
+    "candidate": "Darren Park",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2025",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2025_park_general-election-report.pdf",
+    "pages": 5
+  }
+}

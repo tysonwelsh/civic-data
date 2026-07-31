@@ -1,0 +1,6 @@
+# roster_overrides.csv — Millcreek hand-correction layer (repo override convention).
+# Applied LAST by roster_lib.apply_overrides; wins ties. Key = (seat_id, person_key, start_date).
+# Columns mirror council_terms.csv; only non-empty cells override. Currently 0 data rows
+# (the reconciled TENURES table needs no manual correction). Add a row here — never hand-edit
+# council_terms.csv — to correct a seat-holder/date/confidence after a rebuild.
+city,body,seat_id,district,person_name,person_key,start_date,end_date,start_event,end_event,election_year,first_vote,last_vote,sources,confidence,note

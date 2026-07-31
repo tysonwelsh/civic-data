@@ -1,0 +1,28 @@
+{
+  "contributions": [
+    {"date": "11/02/2023", "name": "Ben Peck", "amount": "29.00", "in_kind": false},
+    {"date": "11/03/2023", "name": "Aggregate donations less than $50", "amount": "25.00", "in_kind": false},
+    {"date": "10/30/2023", "name": "Friends of Rosalba Dominguez", "amount": "650", "in_kind": true}
+  ],
+  "expenditures": [
+    {"date": "11/09/2023", "recipient": "Facebook Ads", "purpose": "", "amount": "158.32", "in_kind": false},
+    {"date": "11/01/2023", "recipient": "Sunprint Solutions", "purpose": "", "amount": "1392.63", "in_kind": false},
+    {"date": "11/01/2023", "recipient": "Texting-Impactive", "purpose": "", "amount": "11.29", "in_kind": false},
+    {"date": "10/27/2023", "recipient": "Campaign Verify", "purpose": "", "amount": "95.00", "in_kind": false},
+    {"date": "10/30/2023", "recipient": "Friends of Rosalba Dominguez", "purpose": "", "amount": "650.00", "in_kind": false}
+  ],
+  "total_contributions": "704.00",
+  "total_expenditures": "2307.24",
+  "contributions_50_or_less": null,
+  "beginning_balance": "1989.27",
+  "ending_balance": "386.03",
+  "_meta": {
+    "index_path": "raw/202311_David-W-Rodgers_14804.pdf",
+    "candidate": "David W. Rodgers",
+    "office": "Council",
+    "filing_type": "interim",
+    "election_year": "2023",
+    "source_pdf": "/Users/tysonwelsh/civic-data/murray_city_council/campaign_finance/raw/202311_David-W-Rodgers_14804.pdf",
+    "pages": 7
+  }
+}

@@ -1,0 +1,172 @@
+Murray City Council — vote extraction validation report
+========================================================================
+Meeting JSONs      : 170
+Motions extracted  : 757  (named 675 / tally-only 82)
+Distinct results   : 57
+
+Motion-type distribution:
+   Resolution                 243
+   Ordinance                  207
+   Procedural/Administrative  119
+   Other                      68
+   Appointment                54
+   Land-Use/Zoning            24
+   Interlocal                 19
+   Budget Amendment           10
+   Ceremonial                 6
+   Public Hearing Action      4
+   Grant-Funding              2
+   Contract/Purchase          1
+
+------------------------------------------------------------------------
+PER-YEAR OBSERVED-VOTER ROSTER (name -> named vote rows that year).
+Note: Brett Hales is the D5 COUNCILMEMBER (2020-2021), distinct from Mayor Hales.
+------------------------------------------------------------------------
+
+2020:
+   Dale Cox               106
+   Kat Martinez           106
+   Diane Turner           105
+   Rosalba Dominguez      102
+   Brett Hales            101
+
+2021:
+   Rosalba Dominguez      89
+   Diane Turner           89
+   Brett Hales            89
+   Kat Martinez           89
+   Dale Cox               89
+
+2022:
+   Pamela Cotter          114
+   Diane Turner           114
+   Rosalba Dominguez      111
+   Kat Martinez           108
+   Garry Hrechkosy        103
+
+2023:
+   Garry Hrechkosy        104
+   Pamela Cotter          104
+   Diane Turner           103
+   Rosalba Dominguez      101
+   Philip Markham         64
+   David Rodgers          32
+
+2024:
+   Adam Hock              103
+   Pamela Cotter          103
+   Diane Turner           99
+   Paul Pickett           90
+   Rosalba Dominguez      85
+
+2025:
+   Pamela Cotter          103
+   Adam Hock              101
+   Paul Pickett           99
+   Diane Turner           98
+   Scott Goodman          89
+
+2026:
+   Clark Bullen           56
+   Adam Hock              56
+   Pamela Cotter          56
+   Diane Turner           50
+   Paul Pickett           32
+
+========================================================================
+HARD CHECKS
+========================================================================
+Off-roster named voters : 0   {}
+Bad vote values         : 0
+>5-voter roll calls     : 0
+
+========================================================================
+SOFT CHECKS (faithful-capture anomalies — reported, never auto-corrected)
+========================================================================
+Tally-vs-named mismatches: 3
+   2022-02-01 m2: named 4-0 vs printed 5-0 :: Motion passed 5-0 :: to approve the Joint Resolution
+   2023-05-02 m2: named 3-0 vs printed 4-0 :: Motion passes 4-0 :: to approve the resolution authorizing and ratifying the
+   2025-06-17 m2: named 2-3 vs printed 3-2 :: Motion failed: 3-2 :: to amend. Mr. Pickett
+Outcome-vs-count issues  : 1
+   2023-04-04 m4: FAIL but aye=2>nay=0 :: Motion failed
+Roster-size deviations   : 113 (absence/vacancy/synth-tally — reviewed)
+
+------------------------------------------------------------------------
+CONTESTED VOTES (any Nay / Abstain / Recuse) — the signal: 75
+------------------------------------------------------------------------
+   2020-01-07 m1 3-0 | NAY=[] ABSTAIN=['Kat Martinez', 'Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to approve both sets of minutes
+   2020-01-21 m4 Motion passed 4-0-1 | NAY=[] ABSTAIN=['Brett Hales'] RECUSE=[] ABSENT=[] :: to adopt the resolution with the amendments made by Councilmember Domi
+   2020-08-04 m2 Motion passed 4-0 (1 Abstention) | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the ordinance
+   2020-08-04 m3 Motion passed 4-1 | NAY=['Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance
+   2021-05-18 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to approve the minutes
+   2021-05-18 m2 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Joint Resolution
+   2021-05-18 m3 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Resolution
+   2021-05-18 m4 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Resolution
+   2021-05-18 m5 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Joint-Resolution
+   2021-06-01 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-01 m2 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-15 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to approve the minutes
+   2021-06-15 m2 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Joint-Resolution
+   2021-06-15 m3 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-15 m4 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-15 m5 Motion passed 3-1 | NAY=['Dale Cox'] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-15 m6 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-06-15 m7 Motion passed 4-0 | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to adopt the Ordinance
+   2021-07-06 m3 Motion passed 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance
+   2021-10-05 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Kat Martinez'] RECUSE=[] ABSENT=[] :: to adopt the Joint Resolution
+   2021-10-05 m2 Motion passed 4-0 | NAY=[] ABSTAIN=['Kat Martinez'] RECUSE=[] ABSENT=[] :: to adopt the Joint Resolution
+   2021-10-05 m3 Motion passed 4-0 | NAY=[] ABSTAIN=['Kat Martinez'] RECUSE=[] ABSENT=[] :: to adopt the resolution
+   2021-10-05 m4 Motion passed 4-0 | NAY=[] ABSTAIN=['Kat Martinez'] RECUSE=[] ABSENT=[] :: to adopt an ordinance
+   2021-10-19 m5 Motion passed 3-2 | NAY=['Rosalba Dominguez', 'Brett Hales'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance related to Land Use; amends the General Plan, C
+   2021-11-16 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Diane Turner'] RECUSE=[] ABSENT=[] :: to approve the minutes
+   2021-11-16 m2 Motion passed 4-0 | NAY=[] ABSTAIN=['Diane Turner'] RECUSE=[] ABSENT=[] :: to adopt the ordinance considering McDonough zone map amendment from R
+   2021-11-16 m3 Motion passed 4-0 | NAY=[] ABSTAIN=['Diane Turner'] RECUSE=[] ABSENT=[] :: to adopt the resolution
+   2021-12-07 m7 Motion passed 3-2 | NAY=['Diane Turner', 'Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt an ordinance relating to land use; amends the General Plan fr
+   2021-12-07 m8 Motion passed 4-0 | NAY=[] ABSTAIN=['Brett Hales'] RECUSE=[] ABSENT=[] :: to adopt a resolution to acknowledge completion and receipt of the Ann
+   2021-12-07 m9 Motion passed 4-0 | NAY=[] ABSTAIN=['Brett Hales'] RECUSE=[] ABSENT=[] :: to adopt a resolution approving an Interlocal Cooperation Agreement be
+   2022-02-01 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to approve the minutes
+   2022-02-01 m3 Motion passed 4-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to adopt an ordinance
+   2022-02-01 m4 Motion passed 4-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to adopt an ordinance
+   2022-02-01 m5 4-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to adopt the resolution
+   2022-02-15 m1 Motion passed 4-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to approve the minutes
+   2022-03-01 m8 Motion passed 3-0 | NAY=[] ABSTAIN=['Garry Hrechkosy'] RECUSE=[] ABSENT=[] :: to adopt the resolution
+   2022-03-08 m5 Motion passed 3-2 | NAY=['Rosalba Dominguez', 'Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the ordinance with the following redlined: On page 10 of the 
+   2022-03-08 m6 Motion passed 3-2 | NAY=['Rosalba Dominguez', 'Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt an ordinance as amended
+   2022-04-19 m6 Motion passed 3-2 | NAY=['Garry Hrechkosy', 'Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance
+   2022-04-19 m9 Motion passed 3-2 | NAY=['Garry Hrechkosy', 'Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the resolution
+   2022-05-17 m4 Motion passed 3-2 | NAY=['Garry Hrechkosy', 'Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the COLA from 5.5% to 7% for the Fiscal Year 2022 -2023. Coun
+   2022-05-17 m5 Motion failed 2-3 | NAY=['Kat Martinez', 'Pamela Cotter', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the proposed property tax increase from 15% to 13.5% for the 
+   2022-05-17 m6 Motion passed 3-2 | NAY=['Garry Hrechkosy', 'Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the city council's tentative budget as amended for the Fiscal
+   2022-08-09 m1 Motion passed 3-2 | NAY=['Rosalba Dominguez', 'Garry Hrechkosy'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance
+   2022-10-04 m3 Motion failed 2 (ayes) -3 (nays) | NAY=['Garry Hrechkosy', 'Rosalba Dominguez', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance relating to land use; amends the General Plan
+   2022-10-18 m2 Motion passed 4-1 | NAY=['Kat Martinez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance amending Chapter 17.16 and sections 17.08.020
+   2023-04-04 m4 Motion failed | NAY=[] ABSTAIN=['Rosalba Dominguez'] RECUSE=[] ABSENT=[] :: to approve the ordinance repealing paragraph (B) of sections 7.04.020,
+   2023-05-16 m7 3-2 | NAY=['Rosalba Dominguez', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to Deny Councilmember Dominguez and Councilmember Turner's request to 
+   2023-06-27 m11 Motion passes 3-2 | NAY=['Pamela Cotter', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt Councilmember Hrechkosy's proposed revisions to the Murray Ci
+   2023-06-27 m12 Motion failed 2-3 | NAY=['Philip Markham', 'Rosalba Dominguez', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the approval his proposed revisions to the Murray City Counci
+   2023-09-12 m7 Motion passes 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance amending Sections 3.14.060 (as amended by Cit
+   2023-11-14 m5 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the regular meeting schedule by cancelling the September 3, 2
+   2024-01-16 m2 Motion passed: 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance. Ms. Cotter
+   2024-04-02 m3 Motion failed: 2-3 | NAY=['Rosalba Dominguez', 'Adam Hock', 'Paul Pickett'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to modify the budget amendment as read by Ms. Cotter. Ms. Cotter
+   2024-04-02 m4 Motion passed: 3-2 | NAY=['Diane Turner', 'Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance. Ms. Dominguez
+   2024-05-07 m1 Motion passed: 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve. Ms. Cotter
+   2024-05-07 m2 Motion passed: 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance. Ms. Turner
+   2024-05-07 m3 Motion passed: 4-1 | NAY=['Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend the strategic plan as proposed. Ms. Cotter
+   2024-06-04 m5 Motion passed: 3-1 | NAY=['Paul Pickett'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance. Mr. Hock
+   2024-07-23 m2 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Ms. Turner
+   2024-08-06 m5 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance. Ms. Dominguez
+   2024-10-15 m3 Motion failed: 0-5 | NAY=['Diane Turner', 'Adam Hock', 'Paul Pickett', 'Pamela Cotter', 'Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance. Mr. Hock
+   2024-11-12 m4 Motion Passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Mr. Hock
+   2024-12-03 m4 Motion passed: 4-1 | NAY=['Rosalba Dominguez'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance. Mr. Pickett
+   2025-02-18 m3 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance. Mr. Pickett
+   2025-03-04 m9 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Mr. Pickett
+   2025-03-18 m6 Motion failed: 0-4 | NAY=['Adam Hock', 'Paul Pickett', 'Pamela Cotter', 'Scott Goodman'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance. Ms. Cotter
+   2025-04-01 m10 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Mr. Pickett
+   2025-04-15 m6 Motion passed: 4-1 | NAY=['Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Mr. Hock
+   2025-05-13 m4 Motion passed: 4-1 | NAY=['Scott Goodman'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the resolution. Ms. Turner
+   2025-06-17 m2 Motion failed: 3-2 | NAY=['Scott Goodman', 'Diane Turner', 'Adam Hock'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to amend. Mr. Pickett
+   2025-06-17 m3 Motion passed: 4-1 | NAY=['Paul Pickett'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance with edits from staff. Ms. Turner
+   2025-09-16 m4 Motion passed: 3-2 | NAY=['Paul Pickett', 'Diane Turner'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to approve the ordinance Mr. Goodman
+   2026-01-06 m2 Motion passed: 3-2 | NAY=['Adam Hock', 'Pamela Cotter'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance as modified by the PC, striking Standard E. Mr.
+   2026-06-02 m5 Motion passed: 4-1 | NAY=['Paul Pickett'] ABSTAIN=[] RECUSE=[] ABSENT=[] :: to adopt the ordinance Ms. Turner
+

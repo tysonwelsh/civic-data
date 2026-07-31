@@ -1,0 +1,211 @@
+> Source: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10092024-423
+> Meeting date: 2024-10-09
+> Format: pdf-text
+
+---
+
+<!-- source: agendacenter | body: Council | pmn_file:  | ac_file: 10092024-423 | label: Council WM Meeting 2024-10-09 | date: 2024-10-09 | meeting_kind: RC | source_url: https://sslc.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10092024-423 | retrieved: 2026-07-13 | recovery: agendacenter_archivedminutes | promoted: 2026-07-16 -->
+
+CITY OF SOUTH SALT LAKE
+                                   CITY COUNCIL MEETING
+
+COUNCIL MEETING                                             Wednesday October 9, 2024
+                                                            7:05 p.m.
+
+CITY OFFICES                                                220 East Morris Avenue
+                                                            South Salt Lake, Utah 84115
+
+PRESIDING:                                                  Council Chair Sharla Bynum
+
+CONDUCTING:                                                 Council Chair Sharla Bynum
+
+PLEDGE OF ALLEGIANCE :                                      Corey Thomas
+
+SERGEANT AT ARMS:                                           Carson Aprato
+
+COUNCIL MEMBERS PRESENT:
+      LeAnne Huff, Corey Thomas, Sharla Bynum, Nick Mitchell,
+      Paul Sanchez (Zoom), and Natalie Pinkney
+
+COUNCIL MEMBERS EXCUSED:
+      Clarissa Williams
+
+STAFF PRESENT:
+       Mayor Wood
+       Terry Addison, Fire Chief
+       Brie Brass, Deputy City Attorney
+       Jared Christense, Deputy Fire Chief
+       Crystal Makin, Finance Director
+       Ariel Andrus, City Recorder
+       Sara Ramirez, Deputy City Recorder
+       Jen Hill, Executive Assistant
+       Ryan Alvarez, Public Information Officer
+       Carson Aprato, Police Detective
+       Tiffany Kalinowski, Police Evidence Technician
+
+OTHERS PRESENT:
+      See list
+
+
+APPROVAL OF MINUTES
+      August 28th, Work Meeting
+      August 28th, Regular Meeting
+
+Council Member Thomas made a motion to approve the minutes listed above.
+
+MOTION: Corey Thomas
+SECOND: Natalie Pinkney
+
+
+                                              1
+South Salt Lake – Regular Council Meeting                                     October 9, 2024
+
+
+Voice Vote:
+Bynum:           Yes
+Huff:            Yes
+Mitchell:        Yes
+Pinkney:         Yes
+Thomas:          Yes
+Williams:        Absent
+Sanchez:         Yes
+
+NO ACTION COMMENTS
+
+       1. SCHEDULING. The City Recorder informed those at the meeting of upcoming events,
+          meetings, activities, etc. Next Council Meeting -- October 23rd @ 7pm.
+
+       2. PUBLIC COMMENTS/QUESTIONS.
+          None
+
+       3. MAYOR COMMENTS.
+          Mayor Wood shared some City highlights and spoke about Promise employee,
+          Maisy Hayes, who oversees the Best But Teen Tech Center and was recognized for
+          her efforts in supporting a teen that was diagnosed with cancer.
+
+       4. CITY ATTORNEY COMMENTS.
+          None
+
+       5. CITY COUNCIL COMMENTS.
+          Council Member Huff spoke about Craftoberfest and its success. She also thanked
+          the City staff who worked to put it together.
+
+              Council Member Pinkney also made the same comments about Craftoberfest and
+              encouraged everyone to adopt cats at the City’s animal shelter.
+
+Action Items
+
+Appointments by the Mayor
+
+   1. Valerie Flattes – Civilian Review Board Regular Member
+      The Mayor presented the following individual to the Council for their advice and
+      consent as a new appointment.
+
+       A copy of the resume, which was provided to the Council at the Work Meeting, is
+       attached and incorporated by this reference.
+
+       Council Member Thomas made a motion to approve Valerie Flattes as a Civilian Review
+       Board Regular Member
+
+MOTION: Corey Thomas
+SECOND: Nick Mitchell
+                                              2
+South Salt Lake – Regular Council Meeting                                          October 9, 2024
+
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Absent
+Sanchez:          Yes
+
+Unfinished Business
+
+    1. A Resolution of the South Salt Lake City Council Authorizing the South Salt Lake City
+       Police Department to Dispose of Unclaimed Property in the South Salt Lake Police
+       Department Possession.
+
+        A copy of the Resolution is attached and incorporated by this reference.
+
+        Council Member Thomas made a motion to approve the Resolution.
+
+
+MOTION: Corey Thomas
+SECOND: Nick Mitchell
+
+Roll Call Vote:
+Bynum:            Yes
+Huff:             Yes
+Mitchell:         Yes
+Pinkney:          Yes
+Thomas:           Yes
+Williams:         Absent
+Sanchez:          Yes
+
+New Business
+
+    1. An Ordinance of the South Salt Lake City Council Amending Section 3.11.100(f) of the
+       South Salt Lake City Municipal Code to Modify Glass Recycling Fees.
+
+        A copy of the Ordinance is attached and incorporated by this reference.
+
+        Council Member Mitchell made a motion to move this to Unfinished Business to the
+        next meeting.
+
+
+MOTION: Nick Mitchell
+SECOND: Corey Thomas
+
+Roll Call Vote:
+Bynum:          Yes
+                                               3
+South Salt Lake – Regular Council Meeting                             October 9, 2024
+
+
+Huff:          Yes
+Mitchell:      Yes
+Pinkney:       Yes
+Thomas:        Yes
+Williams:      Absent
+Sanchez:       Yes
+
+
+
+       Council Member Huff made a motion to Adjourn.
+
+
+MOTION: LeAnne Huff
+SECOND: Corey Thomas
+
+Voice Vote:
+Bynum:         Yes
+Huff:          Yes
+Mitchell:      Yes
+Pinkney:       Yes
+Thomas:        Yes
+Williams:      Absent
+Sanchez:       Yes
+
+
+
+       The meeting adjourned at 7:17 p.m.
+
+
+
+
+                                            _____________________________
+                                            Sharla Bynum, Council Chair
+
+
+
+
+_____________________________
+Ariel Andrus, City Recorder
+
+
+
+
+                                            4

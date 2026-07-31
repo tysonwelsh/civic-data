@@ -1,0 +1,8 @@
+Alta PC backfill (pmn_backfill -> planning_commission/all_votes.csv)
+recovered PC meetings parsed : 1
+recovered motions            : 2
+recovered rows               : 2
+canonical rows (minutes)     : 47
+merged total rows            : 49
+zero-vote recovered docs     : 0
+REJECTS (never merged): 2023-11-28 (DRAFT watermark; PDF authored 2024-02-23, before its pre-printed 2024-02-27 approval date — drafts are never promoted)

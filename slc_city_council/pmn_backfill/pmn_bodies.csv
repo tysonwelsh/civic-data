@@ -1,0 +1,8 @@
+entity_id,body_id,body_name,crawl,repo_datasets,repo_body,date_mode,floor,notes
+259,1360,City Council,yes,meeting_minutes,,exact,2020-01-01,SLC PMN notice date == council meeting date (verified 68/68 in 2020) — exact for SLC; 7 recovered-but-unpromoted council dates will re-surface as missing_minutes leads
+259,1274,Planning Commission,yes,planning_commission,,exact,2020-01-01,PMN PC minutes attachments begin 2023; all match repo
+259,1277,Redevelopment Agency (RDA),yes,meeting_minutes,,exact,2020-01-01,in-session RDA rides the combined council minutes doc — dates are a subset of the council series
+259,9033,Community Reinvestment Agency (CRA),yes,meeting_minutes,,exact,2020-01-01,in-session CRA rides the combined council doc (CRA minutes begin 2025)
+259,3475,Local Building Authority (LBA),yes,meeting_minutes,,exact,2020-01-01,in-session LBA rides the combined council doc
+259,1266,Historic Landmark Commission,no,,,,,out of council/PC/agency scope (only two out-of-scope bodies documented; new_body diff completes the rest)
+259,1264,Board of Appeals,no,,,,,out of council/PC/agency scope

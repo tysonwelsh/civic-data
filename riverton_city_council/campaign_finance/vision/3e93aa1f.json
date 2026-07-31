@@ -1,0 +1,24 @@
+{
+  "contributions": [
+    {"date": null, "name": "HBA", "amount": "100.00", "in_kind": false},
+    {"date": null, "name": "Realtors Assoc.", "amount": "500.00", "in_kind": false}
+  ],
+  "expenditures": [
+    {"date": null, "recipient": "Alphagraphics Invoice 99834", "purpose": null, "amount": "306.71", "in_kind": false}
+  ],
+  "total_contributions": "600.00",
+  "total_expenditures": "306.71",
+  "contributions_50_or_less": null,
+  "beginning_balance": "0.00",
+  "ending_balance": "293.29",
+  "_meta": {
+    "index_path": "raw/2021_buroker_campaign-finance-report.pdf",
+    "candidate": "Tish Buroker",
+    "office": "Council",
+    "filing_type": "summary",
+    "election_year": "2021",
+    "source_pdf": "/Users/tysonwelsh/civic-data/riverton_city_council/campaign_finance/raw/2021_buroker_campaign-finance-report.pdf",
+    "pages": 10,
+    "method": "read-tool-vision 2026-07-18 (handwritten scan; format=text is a pdftotext mislabel, text layer is junk); totals from Summary Page Column A = campaign total (only period with activity)"
+  }
+}

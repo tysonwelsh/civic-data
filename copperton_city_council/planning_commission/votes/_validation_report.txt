@@ -1,0 +1,23 @@
+meetings (json): 18
+meetings with >=1 recorded vote: 17
+motions: 57
+csv rows: 57 | json-implied rows: 57 -> OK
+
+motions by year: {'2019': 13, '2020': 5, '2021': 6, '2022': 7, '2023': 7, '2024': 7, '2025': 12}
+off-roster named voters: none -> OK
+
+observed commissioner roster (7):
+  Taylor         2019-03-12..2024-09-10  n=9
+  Alder          2019-04-09..2023-06-13  n=6
+  Winkler        2019-04-09..2019-07-09  n=3
+  Green          2020-02-11..2020-02-11  n=1
+  Breinholt      2020-09-23..2025-07-02  n=8
+  Pazell         2024-09-10..2025-07-02  n=3
+  Pratt          2025-05-13..2025-07-02  n=2
+
+named dissent (abstain/recuse/nay): 3
+  2020-09-23 m1 To approve the February 11, 2020 Planning Commissi | [('Breinholt', 'Abstain')]
+  2020-09-23 m2 To recommend the Copperton Metro Township General  | [('Breinholt', 'Abstain')]
+  2022-12-13 m1 To approve the March 15, 2022 Planning Commissione | [('Breinholt', 'Abstain')]
+
+RESULT: PASS

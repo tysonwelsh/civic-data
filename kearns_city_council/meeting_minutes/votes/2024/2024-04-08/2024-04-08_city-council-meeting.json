@@ -1,0 +1,38 @@
+{
+ "date": "2024-04-08",
+ "year": 2024,
+ "title": "City Council Meeting",
+ "file_body": "Council",
+ "present": [
+  "Kelly Bush",
+  "Tina Snow",
+  "Alan Peterson",
+  "Patrick Schaeffer",
+  "Chrystal Butterfield"
+ ],
+ "source": "minutes/2024/2024-04-08/2024-04-08_city-council-meeting.md",
+ "votes": [
+  {
+   "motion_no": 1,
+   "motion": "to approve Resolution 2024-04-01. The",
+   "body": "Council",
+   "motion_type": "Resolution",
+   "result": "unanimous in favor Pass",
+   "mover": "Patrick Schaeffer",
+   "seconder": "Alan Peterson",
+   "names_recorded": false,
+   "aye": [],
+   "nay": [],
+   "abstain": [],
+   "absent": [],
+   "recuse": [],
+   "mayor_voted": true,
+   "tally_only": {
+    "unanimous": true,
+    "ayes": null,
+    "nays": null,
+    "present_count": 5
+   }
+  }
+ ]
+}
